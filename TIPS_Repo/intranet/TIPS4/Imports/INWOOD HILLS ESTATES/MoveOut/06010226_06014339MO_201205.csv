@@ -1,0 +1,7 @@
+BATCH,,201205,B,1382.0000,
+INVOICE,IN,,06010226,,05/01/2012,691.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06014339MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,21.0000,651.00,"Credit for Limited Term Discount: Nyari, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Nyari, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,06010226,,05/01/2012,691,"Invoice-Private",,05/01/2012,05/10/2012,,06014339MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,21,651,"Limited Term Discount: Nyari, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Nyari, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201105,B,6993.0000,
+INVOICE,IN,,06410157,,05/18/2011,2556.0000,"Invoice-Private",,05/18/2011,05/18/2011,,06413485MO,-6176.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,18,114.0000,2052.00,"Basic Service Fee - One Bedroom for May: Legge, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,18,28.0000,504.00,"Resident Care - Level 2 for May: Legge, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,06410157,,05/18/2011,4437,"Invoice-Private",,05/18/2011,05/18/2011,,06413485MO,-6176.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,3534,3534,"CR:Basic Service F... P.Legge 201105: Legge, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... P.Legge 201105: Legge, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,868,868,"CR:Resident Care -... P.Legge 201105: Legge, Phyllis",,,,,,,,,,,,,,,

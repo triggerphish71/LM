@@ -1,0 +1,5 @@
+BATCH,,201805,B,52.6000,
+INVOICE,IN,,50510314,,05/01/2018,26.3000,"Invoice-Private",,05/01/2018,05/10/2018,,50515039MO,-4266.6000,,,,,,,,,,
+TRANSACTION,3260,010005505,1,26.3000,26.30,"Monthly Cable: Friend, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,50510314,,05/01/2018,26.3,"Invoice-Private",,05/01/2018,05/10/2018,,50515039MO,-4266.6000,,,,,,,,,,
+TRANSACTION,3260,010005505,1,26.3,26.3,"Credit for Monthly Cable: Friend, Marilyn",,,,,,,,,,,,,,,

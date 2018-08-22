@@ -1,0 +1,8 @@
+BATCH,,201210,B,4982.0000,
+INVOICE,IN,,07010187,,10/01/2012,1727.0000,"Invoice-Private",,10/01/2012,10/10/2012,,07014523MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,1,992.0000,992.00,"CR:Limited Term Di... M.Miles 201210: Miles, Melissa",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305070,7,89.0000,623.00,"Basic Service Fee - Studio for Oct: Miles, Melissa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,7,16.0000,112.00,"Resident Care - Level 1 for Oct: Miles, Melissa",,,,,,,,,,,,,,,
+INVOICE,CM,,07010187,,10/01/2012,3255,"Invoice-Private",,10/01/2012,10/10/2012,,07014523MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2759,2759,"CR:Basic Service F... M.Miles 201210: Miles, Melissa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,496,496,"CR:Resident Care -... M.Miles 201210: Miles, Melissa",,,,,,,,,,,,,,,

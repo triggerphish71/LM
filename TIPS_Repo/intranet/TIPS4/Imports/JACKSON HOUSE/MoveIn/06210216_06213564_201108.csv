@@ -1,0 +1,5 @@
+BATCH,,201108,B,3441.2000,
+INVOICE,IN,,06210216,,08/01/2011,3441.2000,"August_Rent-Dizick. Galen",,08/01/2011,08/10/2011,,06213564,6347.8000,,,,,,,,,,
+TRANSACTION,3010,010101062,31,83.0000,2573,"Basic Service Fee - Studio         : Dizick. Galen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,31,27.2000,843.2,"Resident Care - Level 16: Dizick. Galen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Dizick. Galen",,,,,,,,,,,,,,,

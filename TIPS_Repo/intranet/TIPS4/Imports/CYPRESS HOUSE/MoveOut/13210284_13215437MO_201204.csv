@@ -1,0 +1,6 @@
+BATCH,,201204,B,5472.0000,
+INVOICE,IN,,13210284,,04/25/2012,2475.0000,"Invoice-Private",,04/25/2012,04/25/2012,,13215437MO,-3312.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,25,99.0000,2475.00,"M.Wilford: Basic Service Fee - Studio for Apr: Wilford, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,13210284,,04/25/2012,2997,"Invoice-Private",,04/25/2012,04/25/2012,,13215437MO,-3312.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:M.Wilford: Basi... M.Wilford 201204: Wilford, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... M.Wilford 201204: Wilford, Mildred",,,,,,,,,,,,,,,

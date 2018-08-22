@@ -1,0 +1,6 @@
+BATCH,,201204,B,5950.0000,
+INVOICE,IN,,14010223,,04/05/2012,5950.0000,"MoveIn-Haynes. Helen",,04/05/2012,04/05/2012,,14013767,5950.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,26,105.0000,2730,"Basic Service Fee - One Bedroom: Haynes. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,26,65.0000,1690,"Resident Care - Level 5: Haynes. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Haynes. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: Haynes. Helen",,,,,,,,,,,,,,,

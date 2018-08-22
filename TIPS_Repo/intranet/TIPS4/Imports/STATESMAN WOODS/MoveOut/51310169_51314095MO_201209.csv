@@ -1,0 +1,8 @@
+BATCH,,201209,B,8025.0000,
+INVOICE,IN,,51310169,,09/21/2012,3975.0000,"Invoice-Private",,09/21/2012,09/21/2012,,51314095MO,-4198.0000,,,,,,,,,,
+TRANSACTION,3320,010310513,1,60.0000,60.00,"CR:Limited Term Di... J.Myers 201209: Myers, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,29,108.0000,3132.00,"Basic Service Fee- Studio for Sep: Myers, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,29,27.0000,783.00,"Resident Care - Level 2 for Sep: Myers, James",,,,,,,,,,,,,,,
+INVOICE,CM,,51310169,,09/21/2012,4050,"Invoice-Private",,09/21/2012,09/21/2012,,51314095MO,-4198.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3240,3240,"CR:Basic Service F... J.Myers 201209: Myers, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,810,810,"CR:Resident Care -... J.Myers 201209: Myers, James",,,,,,,,,,,,,,,

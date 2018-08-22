@@ -1,0 +1,8 @@
+BATCH,,201210,B,5583.0000,
+INVOICE,IN,,21410355,,10/11/2012,2080.0000,"Invoice-Private",,10/11/2012,10/11/2012,,21417925MO,-1423.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,837.0000,837.00,"CR:Limited Term Di... T.Nemunaitis 201210: Nemunaitis, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,11,23.0000,253.00,"Resident Care - Level 2 for Oct: Nemunaitis, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,11,90.0000,990.00,"Studio AL B for Oct: Nemunaitis, Tony",,,,,,,,,,,,,,,
+INVOICE,CM,,21410355,,10/11/2012,3503,"Invoice-Private",,10/11/2012,10/11/2012,,21417925MO,-1423.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... T.Nemunaitis 201210: Nemunaitis, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Studio AL B... T.Nemunaitis 201210: Nemunaitis, Tony",,,,,,,,,,,,,,,

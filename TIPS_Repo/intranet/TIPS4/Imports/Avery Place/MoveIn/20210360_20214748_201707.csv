@@ -1,0 +1,6 @@
+BATCH,,201707,B,10644.0000,
+INVOICE,IN,,20210360,,07/19/2017,10644.0000,"MoveIn-Batman. Test 2",,07/19/2017,07/19/2017,,20214748,10644.0000,,,,,,,,,,
+TRANSACTION,3010,010016202,13,140.0000,1820,"One Bedroom: Batman. Test 2",,,,,,,,,,,,,,,
+TRANSACTION,3017,010016202,13,24.0000,312,"Resident Care - Level 2: Batman. Test 2",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,4256.0000,4256,"Community Fee: Batman. Test 2",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,4256.0000,4256,"Monthly Deferral Charge: Batman. Test 2",,,,,,,,,,,,,,,

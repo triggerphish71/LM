@@ -1,0 +1,5 @@
+BATCH,,201108,B,4295.0000,
+INVOICE,IN,,08810204,,08/17/2011,4295.0000,"MoveIn-Durand. Muriel",,08/17/2011,08/17/2011,,08814112,8885.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,15,94.0000,1410,"Basic Service Fee - Studio         : Durand. Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,15,59.0000,885,"Resident Care - Level 4: Durand. Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000.0000,2000,"New Resident Fee: Durand. Muriel",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,3498.0000,
+INVOICE,IN,,21210204,,04/03/2013,318.0000,"Invoice-Private",,04/03/2013,04/03/2013,,21213045MO,-2862.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,3,12.0000,36.00,"Resident Care - Level 1 for Apr: Roser, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,3,94.0000,282.00,"Room and Board - Studio Deluxe for Apr: Roser, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210204,,04/03/2013,3180,"Invoice-Private",,04/03/2013,04/03/2013,,21213045MO,-2862.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,360,360,"CR:Resident Care -... M.Roser 201304: Roser, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2820,2820,"CR:Room and Board ... M.Roser 201304: Roser, Marie",,,,,,,,,,,,,,,

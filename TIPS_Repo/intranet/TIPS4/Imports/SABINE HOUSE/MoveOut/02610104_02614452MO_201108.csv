@@ -1,0 +1,8 @@
+BATCH,,201108,B,6353.0000,
+INVOICE,IN,,02610104,,08/01/2011,2292.0000,"Invoice-Private",,08/01/2011,08/10/2011,,02614452MO,-1769.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,1,589.0000,589.00,"CR:Limited Term Di... M.Minchew 201108: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,13,94.0000,1222.00,"Basic Service Fee - Studio for Aug: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,13,37.0000,481.00,"Resident Care - Level 3 for Aug: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,02610104,,08/01/2011,4061,"Invoice-Private",,08/01/2011,08/10/2011,,02614452MO,-1769.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2914,2914,"CR:Basic Service F... M.Minchew 201108: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,1147,1147,"CR:Resident Care -... M.Minchew 201108: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,

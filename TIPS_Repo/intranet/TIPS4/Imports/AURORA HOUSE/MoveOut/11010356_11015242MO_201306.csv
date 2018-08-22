@@ -1,0 +1,7 @@
+BATCH,,201306,B,3404.0000,
+INVOICE,IN,,11010356,,06/16/2013,1184.0000,"Invoice-Private",,06/16/2013,06/16/2013,,11015242MO,-3330.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,16,60.0000,960.00,"Basic Service Fee - Studio for Jun: Britt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,16,14.0000,224.00,"Resident Care Level Change for Jun: Britt, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,11010356,,06/16/2013,2220,"Invoice-Private",,06/16/2013,06/16/2013,,11015242MO,-3330.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,1800,1800,"CR:Basic Service F... V.Britt 201306: Britt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,420,420,"CR:Resident Care L... V.Britt 201306: Britt, Virginia",,,,,,,,,,,,,,,

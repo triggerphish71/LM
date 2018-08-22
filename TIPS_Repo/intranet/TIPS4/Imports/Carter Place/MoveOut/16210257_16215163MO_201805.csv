@@ -1,0 +1,7 @@
+BATCH,,201805,B,5049.0000,
+INVOICE,IN,,16210257,,05/18/2018,1980.0000,"Invoice-Private",,05/18/2018,05/18/2018,,16215163MO,-1089.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,20,81.0000,1620.00,"Basic Service Fee - Studio for May: Neary, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,20,18.0000,360.00,"Resident Care - Level 1 for May: Neary, Dona",,,,,,,,,,,,,,,
+INVOICE,CM,,16210257,,05/18/2018,3069,"Invoice-Private",,05/18/2018,05/18/2018,,16215163MO,-1089.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,1,2511,2511,"CR:Basic Service F... D.Neary 201805: Neary, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,1,558,558,"CR:Resident Care -... D.Neary 201805: Neary, Dona",,,,,,,,,,,,,,,

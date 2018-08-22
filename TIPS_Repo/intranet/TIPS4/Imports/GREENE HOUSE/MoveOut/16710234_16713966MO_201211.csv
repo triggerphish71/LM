@@ -1,0 +1,7 @@
+BATCH,,201211,B,4800.0000,
+INVOICE,IN,,16710234,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16713966MO,-4962.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,1,60.0000,60.00,"CR:Limited Term Di... D.Robotham 201211: Robotham, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,16710234,,11/01/2012,4740,"Invoice-Private",,11/01/2012,11/10/2012,,16713966MO,-4962.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... D.Robotham 201211: Robotham, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1980,1980,"CR:Resident Care -... D.Robotham 201211: Robotham, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2730,2730,"CR:Room and Board ... D.Robotham 201211: Robotham, Dorothy",,,,,,,,,,,,,,,

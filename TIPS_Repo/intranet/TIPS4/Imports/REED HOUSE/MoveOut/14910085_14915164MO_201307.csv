@@ -1,0 +1,8 @@
+BATCH,,201307,B,6758.0000,
+INVOICE,IN,,14910085,,07/27/2013,3132.0000,"Invoice-Private",,07/27/2013,07/27/2013,,14915164MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,27,98.0000,2646.00,"Basic Service Fee - Studio for Jul: Krohnke, M. Burenett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,27,18.0000,486.00,"Resident Care - Level 1 for Jul: Krohnke, M. Burenett",,,,,,,,,,,,,,,
+INVOICE,CM,,14910085,,07/27/2013,3626,"Invoice-Private",,07/27/2013,07/27/2013,,14915164MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3038,3038,"CR:Basic Service F... M.Krohnke 201307: Krohnke, M. Burenett",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... M.Krohnke 201307: Krohnke, M. Burenett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,558,558,"CR:Resident Care -... M.Krohnke 201307: Krohnke, M. Burenett",,,,,,,,,,,,,,,

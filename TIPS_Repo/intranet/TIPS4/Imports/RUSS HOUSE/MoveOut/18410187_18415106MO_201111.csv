@@ -1,0 +1,7 @@
+BATCH,,201111,B,1130.0000,
+INVOICE,IN,,18410187,,11/01/2011,565.0000,"Invoice-Private",,11/01/2011,11/10/2011,,18415106MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25.0000,25.00,"Monthly Cable: Burris, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010313184,30,18.0000,540.00,"Credit for Limited Term Discount: Burris, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,18410187,,11/01/2011,565,"Invoice-Private",,11/01/2011,11/10/2011,,18415106MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"Credit for Monthly Cable: Burris, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010313184,30,18,540,"Limited Term Discount: Burris, Lillian",,,,,,,,,,,,,,,

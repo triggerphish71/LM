@@ -1,0 +1,7 @@
+BATCH,,201106,B,5457.0000,
+INVOICE,IN,,15710236,,06/21/2011,2247.0000,"Invoice-Private",,06/21/2011,06/21/2011,,15714123MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,21,89.0000,1869.00,"Basic Service Fee - Studio for Jun: Lamle, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,21,18.0000,378.00,"Resident Care - Level 1 for Jun: Lamle, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,15710236,,06/21/2011,3210,"Invoice-Private",,06/21/2011,06/21/2011,,15714123MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2670,2670,"CR:Basic Service F... A.Lamle 201106: Lamle, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,540,540,"CR:Resident Care -... A.Lamle 201106: Lamle, Arthur",,,,,,,,,,,,,,,

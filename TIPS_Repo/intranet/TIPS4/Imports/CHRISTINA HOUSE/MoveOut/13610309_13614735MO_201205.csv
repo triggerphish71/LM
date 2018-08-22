@@ -1,0 +1,6 @@
+BATCH,,201205,B,4951.9400,
+INVOICE,IN,,13610309,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13614735MO,-8386.7800,,,,,,,,,,
+TRANSACTION,3320,010309136,1,62.0000,62.00,"CR:Limited Term Di... R.Foster 201205: Foster, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13610309,,05/01/2012,4889.94,"Invoice-Private",,05/01/2012,05/10/2012,,13614735MO,-8386.7800,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2015,2015,"CR:Basic Service F... R.Foster 201205: Foster, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,2874.94,2874.94,"CR:Resident Care -... R.Foster 201205: Foster, Robert",,,,,,,,,,,,,,,

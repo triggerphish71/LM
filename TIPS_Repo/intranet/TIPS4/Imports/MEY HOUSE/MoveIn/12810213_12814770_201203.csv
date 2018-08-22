@@ -1,0 +1,6 @@
+BATCH,,201203,B,4585.0000,
+INVOICE,IN,,12810213,,03/16/2012,4585.0000,"MoveIn-Gaskill. John",,03/16/2012,03/16/2012,,12814770,9410.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,16,125.0000,2000,"Basic Service Fee - Deluxe: Gaskill. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306128,16,35.0000,560,"Swan Personal Care - L2: Gaskill. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: Gaskill. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306128,1,2000.0000,2000,"New Resident Fee: Gaskill. John",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201109,B,4581.0000,
+INVOICE,IN,,00710150,,09/01/2011,600.0000,"Invoice-Private",,09/01/2011,09/10/2011,,00713242MO,-3822.6000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,600.0000,600.00,"CR:Limited Term Di... A.Lichatowich 201109: Lichatowich, August",,,,,,,,,,,,,,,
+INVOICE,CM,,00710150,,09/01/2011,3981,"Invoice-Private",,09/01/2011,09/10/2011,,00713242MO,-3822.6000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2400,2400,"CR:Basic Service F... A.Lichatowich 201109: Lichatowich, August",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1581,1581,"CR:Resident Care -... A.Lichatowich 201109: Lichatowich, August",,,,,,,,,,,,,,,

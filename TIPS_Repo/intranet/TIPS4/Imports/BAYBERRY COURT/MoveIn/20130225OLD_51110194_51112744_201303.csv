@@ -1,0 +1,5 @@
+BATCH,,201303,B,3964.0000,
+INVOICE,IN,,51110194,,03/01/2013,3964.0000,"March_Rent-Mochanski. Val Jean",,03/01/2013,03/10/2013,,51112744,6499.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,31,74.0000,2294,"Basic Service Fee - Companion Studio: Mochanski. Val Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,31,53.0000,1643,"Resident Care - Level 3: Mochanski. Val Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Mochanski. Val Jean",,,,,,,,,,,,,,,

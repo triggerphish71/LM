@@ -1,0 +1,6 @@
+BATCH,,201211,B,1090.0000,
+INVOICE,IN,,07310256,,11/26/2012,1090.0000,"MoveIn-Reck. Tom",,11/26/2012,11/26/2012,,07315891,4644.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,5,97.0000,485,"T.Reck: Basic Service Fee - Studio: Reck. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,5,17.0000,85,"T.Reck: Resident Care - Level 1: Reck. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Reck. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,500.0000,500,"New Resident Fee: Reck. Tom",,,,,,,,,,,,,,,

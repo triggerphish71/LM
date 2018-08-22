@@ -1,0 +1,6 @@
+BATCH,,201305,B,2075.0000,
+INVOICE,CM,,53610218,,05/01/2013,2075,"Invoice-Private",,05/01/2013,05/10/2013,,53613966MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,1550,1550,"CR:Basic Service F... N.Raymond 201305: Raymond, Neil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... N.Raymond 201305: Raymond, Neil",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"CR:Pendant Fee... N.Raymond 201305: Raymond, Neil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,465,465,"CR:Resident Care -... N.Raymond 201305: Raymond, Neil",,,,,,,,,,,,,,,

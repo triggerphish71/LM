@@ -1,0 +1,6 @@
+BATCH,,201112,B,4154.0000,
+INVOICE,IN,,07110147,,12/01/2011,496.0000,"Invoice-Private",,12/01/2011,12/10/2011,,07114110MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,496.0000,496.00,"CR:Limited Term Di... H.Bales 201112: Bales, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,07110147,,12/01/2011,3658,"Invoice-Private",,12/01/2011,12/10/2011,,07114110MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3027,010305071,1,992,992,"CR:Resident Care -... H.Bales 201112: Bales, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2666,2666,"CR:Room and Board ... H.Bales 201112: Bales, Harold",,,,,,,,,,,,,,,

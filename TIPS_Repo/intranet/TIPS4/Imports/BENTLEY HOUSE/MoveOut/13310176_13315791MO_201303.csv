@@ -1,0 +1,8 @@
+BATCH,,201303,B,6985.0000,
+INVOICE,IN,,13310176,,03/16/2013,2641.0000,"Invoice-Private",,03/16/2013,03/16/2013,,13315791MO,-5908.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,19,91.0000,1729.00,"Basic Service Fee - Studio for Mar: DeMarco, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,19,48.0000,912.00,"Resident Care - Level 3 for Mar: DeMarco, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13310176,,03/16/2013,4344,"Invoice-Private",,03/16/2013,03/16/2013,,13315791MO,-5908.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2821,2821,"CR:Basic Service F... T.DeMarco 201303: DeMarco, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... T.DeMarco 201303: DeMarco, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,1488,1488,"CR:Resident Care -... T.DeMarco 201303: DeMarco, Thomas",,,,,,,,,,,,,,,

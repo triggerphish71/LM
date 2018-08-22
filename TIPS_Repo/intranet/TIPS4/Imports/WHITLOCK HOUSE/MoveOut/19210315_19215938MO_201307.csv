@@ -1,0 +1,7 @@
+BATCH,,201307,B,5957.0000,
+INVOICE,IN,,19210315,,07/06/2013,966.0000,"Invoice-Private",,07/06/2013,07/06/2013,,19215938MO,-4025.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,6,143.0000,858.00,"Basic Service Fee- One Bedroom Premium for Jul: Hampton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,6,18.0000,108.00,"Resident Care - Level 1 for Jul: Hampton, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,19210315,,07/06/2013,4991,"Invoice-Private",,07/06/2013,07/06/2013,,19215938MO,-4025.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,4433,4433,"CR:Basic Service F... R.Hampton 201307: Hampton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,558,558,"CR:Resident Care -... R.Hampton 201307: Hampton, Robert",,,,,,,,,,,,,,,

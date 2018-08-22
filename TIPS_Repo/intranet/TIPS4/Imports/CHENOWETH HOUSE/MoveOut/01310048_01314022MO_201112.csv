@@ -1,0 +1,7 @@
+BATCH,,201112,B,1959.0600,
+INVOICE,IN,,01310048,,12/02/2011,39.4400,"Invoice-Medicaid",,12/02/2011,12/02/2011,,01314022MO,-1880.1800,,,,,,,,,,
+TRANSACTION,3021,010103013,2,19.7200,39.44,"Medicaid Co-Pay for Dec: Whatley, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,01310048,,12/02/2011,1919.62,"Invoice-Medicaid",,12/02/2011,12/02/2011,,01314022MO,-1880.1800,,,,,,,,,,
+TRANSACTION,3021,010103013,1,611.21,611.21,"CR:Medicaid Co-Pay... T.Whatley 201112: Whatley, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... T.Whatley 201112: Whatley, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,1280.41,1280.41,"CR:State Medicaid... T.Whatley 201112: Whatley, Theresa",,,,,,,,,,,,,,,

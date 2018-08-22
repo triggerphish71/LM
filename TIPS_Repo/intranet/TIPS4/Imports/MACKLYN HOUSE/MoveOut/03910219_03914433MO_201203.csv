@@ -1,0 +1,7 @@
+BATCH,,201203,B,6468.0000,
+INVOICE,IN,,03910219,,03/01/2012,2290.7500,"Invoice-Private",,03/01/2012,03/01/2012,,03914433MO,-5929.0000,,,,,,,,,,
+TRANSACTION,3020,010101039,17,90.0000,1530.00,"Basic Service Fee - Studio for Mar: Mostovoy, Johanna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,17,44.7500,760.75,"Resident Care - Level 25 for Mar: Mostovoy, Johanna",,,,,,,,,,,,,,,
+INVOICE,CM,,03910219,,03/01/2012,4177.25,"Invoice-Private",,03/01/2012,03/01/2012,,03914433MO,-5929.0000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... J.Mostovoy 201203: Mostovoy, Johanna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,1387.25,1387.25,"CR:Resident Care -... J.Mostovoy 201203: Mostovoy, Johanna",,,,,,,,,,,,,,,

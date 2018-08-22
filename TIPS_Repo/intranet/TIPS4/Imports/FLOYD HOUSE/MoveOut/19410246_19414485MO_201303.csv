@@ -1,0 +1,8 @@
+BATCH,,201303,B,4960.0000,
+INVOICE,IN,,19410246,,03/05/2013,2378.0000,"Invoice-Private",,03/05/2013,03/05/2013,,19414485MO,-204.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,29,50.0000,1450.00,"Basic Service Fee - Studio for Mar: Severeide, Craig",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,29,32.0000,928.00,"Swan Personal Care - L2 for Mar: Severeide, Craig",,,,,,,,,,,,,,,
+INVOICE,CM,,19410246,,03/05/2013,2582,"Invoice-Private",,03/05/2013,03/05/2013,,19414485MO,-204.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,1550,1550,"CR:Basic Service F... C.Severeide 201303: Severeide, Craig",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... C.Severeide 201303: Severeide, Craig",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,992,992,"CR:Swan Personal C... C.Severeide 201303: Severeide, Craig",,,,,,,,,,,,,,,

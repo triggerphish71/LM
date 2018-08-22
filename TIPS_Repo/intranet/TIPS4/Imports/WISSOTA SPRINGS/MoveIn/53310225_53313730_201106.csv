@@ -1,0 +1,6 @@
+BATCH,,201106,B,4580.0000,
+INVOICE,IN,,53310225,,06/01/2011,4580.0000,"June_Rent-Koepl. Rosemary",,06/01/2011,06/10/2011,,53313730,8895.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,30,110.0000,3300,"Basic Service Fee - One Bedroom: Koepl. Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319533,30,41.0000,1230,"Resident Care - Level 3: Koepl. Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Koepl. Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25,"Pendant Fee: Koepl. Rosemary",,,,,,,,,,,,,,,

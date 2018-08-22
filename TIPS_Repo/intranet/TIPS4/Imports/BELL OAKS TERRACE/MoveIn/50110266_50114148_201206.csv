@@ -1,0 +1,6 @@
+BATCH,,201206,B,4120.0000,
+INVOICE,IN,,50110266,,06/01/2012,4120.0000,"MoveIn-Ghanta. Narayana",,06/01/2012,06/01/2012,,50114148,4120.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,30,88.0000,2640,"Basic Service Fee - Studio: Ghanta. Narayana",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,30,15.0000,450,"Resident Care - Level 1: Ghanta. Narayana",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Ghanta. Narayana",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Ghanta. Narayana",,,,,,,,,,,,,,,

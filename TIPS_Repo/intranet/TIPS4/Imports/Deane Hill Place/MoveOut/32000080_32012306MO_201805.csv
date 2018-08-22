@@ -1,0 +1,8 @@
+BATCH,,201805,B,7197.6800,
+INVOICE,IN,,32000080,,05/15/2018,3105.6800,"Invoice-Private",,05/15/2018,05/15/2018,,32012306MO,-986.3200,,,,,,,,,,
+TRANSACTION,3017,070025320,3,17.0000,51.00,"AL level care - 05-04-2018: Walker, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025320,3,115.0000,345.00,"Studio - 05-04-2018: Walker, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025320,1,2709.6774,2709.68,"Basic Service Fee - MC Studio Deluxe: Walker, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,32000080,,05/15/2018,4092,"Invoice-Private",,05/15/2018,05/15/2018,,32012306MO,-986.3200,,,,,,,,,,
+TRANSACTION,3027,070025320,1,527,527,"CR:Resident Care -... E.Walker 201805: Walker, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025320,1,3565,3565,"CR:Studio... E.Walker 201805: Walker, Earl",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,1612.0000,
+INVOICE,IN,,19310340,,12/01/2012,806.0000,"Invoice-Private",,12/01/2012,12/10/2012,,19315460MO,-2436.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Northup, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315193,31,16.0000,496.00,"Credit for Limited Term Discount: Northup, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,19310340,,12/01/2012,806,"Invoice-Private",,12/01/2012,12/10/2012,,19315460MO,-2436.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Northup, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315193,31,16,496,"Limited Term Discount: Northup, Floyd",,,,,,,,,,,,,,,

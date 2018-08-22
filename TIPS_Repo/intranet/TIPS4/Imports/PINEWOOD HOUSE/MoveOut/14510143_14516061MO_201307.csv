@@ -1,0 +1,8 @@
+BATCH,,201307,B,5261.0000,
+INVOICE,IN,,14510143,,07/01/2013,462.0000,"Invoice-Private",,07/01/2013,07/01/2013,,14516061MO,-4337.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,3,85.0000,255.00,"Basic Service Fee - Studio for Jul: Butler, Emmie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,3,69.0000,207.00,"Resident Care - Level 5 for Jul: Butler, Emmie Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,14510143,,07/01/2013,4799,"Invoice-Private",,07/01/2013,07/01/2013,,14516061MO,-4337.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2635,2635,"CR:Basic Service F... E.Butler 201307: Butler, Emmie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"CR:Pendant Fee... E.Butler 201307: Butler, Emmie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2139,2139,"CR:Resident Care -... E.Butler 201307: Butler, Emmie Mae",,,,,,,,,,,,,,,

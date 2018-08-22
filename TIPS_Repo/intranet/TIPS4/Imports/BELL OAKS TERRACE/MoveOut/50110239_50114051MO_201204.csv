@@ -1,0 +1,5 @@
+BATCH,,201204,B,422.4000,
+INVOICE,IN,,50110239,,04/11/2012,211.2000,"Invoice-Private",,04/11/2012,04/11/2012,,50114051MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3312,010209501,24,8.8000,211.20,"Two Room Rental Discount: Phillips, Leland",,,,,,,,,,,,,,,
+INVOICE,CM,,50110239,,04/11/2012,211.2,"Invoice-Private",,04/11/2012,04/11/2012,,50114051MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3312,010209501,24,8.8,211.2,"Credit for Two Room Rental Discount: Phillips, Leland",,,,,,,,,,,,,,,

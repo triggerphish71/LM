@@ -1,0 +1,8 @@
+BATCH,,201111,B,9234.0000,
+INVOICE,IN,,53210290,,11/01/2011,4524.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53215098MO,-5022.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,29,127.0000,3683.00,"Basic Service Fee - Studio Suite for Nov: Wright, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,29,29.0000,841.00,"Resident Care - Level 2 for Nov: Wright, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,53210290,,11/01/2011,4710,"Invoice-Private",,11/01/2011,11/10/2011,,53215098MO,-5022.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3810,3810,"CR:Basic Service F... N.Wright 201111: Wright, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... N.Wright 201111: Wright, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,870,870,"CR:Resident Care -... N.Wright 201111: Wright, Nancy",,,,,,,,,,,,,,,

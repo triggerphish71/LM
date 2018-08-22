@@ -1,0 +1,5 @@
+BATCH,,201807,B,34.0000,
+INVOICE,IN,,35700076,,07/01/2018,17.0000,"Invoice-Private",,07/01/2018,07/10/2018,,35710982MO,-633.2500,,,,,,,,,,
+TRANSACTION,3210,070009357,1,17.0000,17.00,"Personal Services: Barnes, Georgiann",,,,,,,,,,,,,,,
+INVOICE,CM,,35700076,,07/01/2018,17,"Invoice-Private",,07/01/2018,07/10/2018,,35710982MO,-633.2500,,,,,,,,,,
+TRANSACTION,3210,070009357,1,17,17,"Credit for Personal Services: Barnes, Georgiann",,,,,,,,,,,,,,,

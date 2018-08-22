@@ -1,0 +1,8 @@
+BATCH,,201306,B,5292.0000,
+INVOICE,IN,,03610297,,06/01/2013,1755.0000,"Invoice-Private",,06/01/2013,06/10/2013,,03615645MO,-1782.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,15,101.0000,1515.00,"Basic Service Fee - Studio for Jun: Kyles, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,15,16.0000,240.00,"Resident Care - Level 1 for Jun: Kyles, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,03610297,,06/01/2013,3537,"Invoice-Private",,06/01/2013,06/10/2013,,03615645MO,-1782.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3030,3030,"CR:Basic Service F... J.Kyles 201306: Kyles, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Kyles 201306: Kyles, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,480,480,"CR:Resident Care -... J.Kyles 201306: Kyles, Joyce",,,,,,,,,,,,,,,

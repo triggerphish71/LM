@@ -1,0 +1,7 @@
+BATCH,,201110,B,7076.0000,
+INVOICE,IN,,10810239,,10/30/2011,3480.0000,"Invoice-Private",,10/30/2011,10/30/2011,,10814639MO,-3596.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,30,100.0000,3000.00,"Basic Service Fee - One Bedroom for Oct: Gauvin, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,30,16.0000,480.00,"Resident Care - Level 1 for Oct: Gauvin, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,10810239,,10/30/2011,3596,"Invoice-Private",,10/30/2011,10/30/2011,,10814639MO,-3596.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,3100,3100,"CR:Basic Service F... B.Gauvin 201110: Gauvin, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... B.Gauvin 201110: Gauvin, Betty",,,,,,,,,,,,,,,

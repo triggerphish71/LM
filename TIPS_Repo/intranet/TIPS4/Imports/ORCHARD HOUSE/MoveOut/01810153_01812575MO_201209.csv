@@ -1,0 +1,8 @@
+BATCH,,201209,B,7740.5600,
+INVOICE,IN,,01810153,,09/13/2012,3497.3600,"Invoice-Private",,09/13/2012,09/13/2012,,01812575MO,-745.8400,,,,,,,,,,
+TRANSACTION,3320,010103018,1,810.0000,810.00,"CR:Limited Term Di... L.Golladay 201209: Golladay, Lourene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,19,77.0000,1463.00,"Basic Service Fee - Studio for Sep: Golladay, Lourene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,19,64.4400,1224.36,"Resident Care - Level 36 for Sep: Golladay, Lourene",,,,,,,,,,,,,,,
+INVOICE,CM,,01810153,,09/13/2012,4243.2,"Invoice-Private",,09/13/2012,09/13/2012,,01812575MO,-745.8400,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2310,2310,"CR:Basic Service F... L.Golladay 201209: Golladay, Lourene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,1933.2,1933.2,"CR:Resident Care -... L.Golladay 201209: Golladay, Lourene",,,,,,,,,,,,,,,

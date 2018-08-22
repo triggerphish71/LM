@@ -1,0 +1,5 @@
+BATCH,,201109,B,1375.0000,
+INVOICE,IN,,14210189,,09/27/2011,1375.0000,"MoveIn-Melton. Mary",,09/27/2011,09/27/2011,,14213681,4045.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,4,85.0000,340,"Basic Service Fee - Studio         : Melton. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Melton. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Melton. Mary",,,,,,,,,,,,,,,

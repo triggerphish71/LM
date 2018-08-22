@@ -1,0 +1,5 @@
+BATCH,,201205,B,3098.0000,
+INVOICE,IN,,08610226,,05/23/2012,3098.0000,"MoveIn-Hempel. Rose",,05/23/2012,05/23/2012,,08614813,6758.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,9,89.0000,801,"Basic Service Fee - Studio: Hempel. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,9,33.0000,297,"Resident Care - Level 2: Hempel. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000.0000,2000,"New Resident Fee: Hempel. Rose",,,,,,,,,,,,,,,

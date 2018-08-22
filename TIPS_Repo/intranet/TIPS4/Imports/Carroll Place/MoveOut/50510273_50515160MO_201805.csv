@@ -1,0 +1,7 @@
+BATCH,,201805,B,7726.0000,
+INVOICE,IN,,50510273,,05/25/2018,2704.0000,"Invoice-Private",,05/25/2018,05/25/2018,,50515160MO,-7178.0000,,,,,,,,,,
+TRANSACTION,3017,010005505,26,19.0000,494.00," Level: 1 : Roof, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005505,26,85.0000,2210.00,"Basic Service Fee - Studio for May: Roof, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,50510273,,05/25/2018,5022,"Invoice-Private",,05/25/2018,05/25/2018,,50515160MO,-7178.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2635,2635,"CR:Basic Service F... L.Roof 201805: Roof, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,2387,2387,"CR:Resident Care -... L.Roof 201805: Roof, Louise",,,,,,,,,,,,,,,

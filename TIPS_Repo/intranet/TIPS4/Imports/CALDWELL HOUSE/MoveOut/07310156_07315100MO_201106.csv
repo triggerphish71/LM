@@ -1,0 +1,8 @@
+BATCH,,201106,B,3683.0000,
+INVOICE,IN,,07310156,,06/03/2011,333.0000,"Invoice-Private",,06/03/2011,06/03/2011,,07315100MO,-3017.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,3,17.0000,51.00,"Resident Care - Level 1 for Jun: Koons, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,3,94.0000,282.00,"Room and Board - Studio for Jun: Koons, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,07310156,,06/03/2011,3350,"Invoice-Private",,06/03/2011,06/03/2011,,07315100MO,-3017.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... C.Koons 201106: Koons, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,510,510,"CR:Resident Care -... C.Koons 201106: Koons, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2820,2820,"CR:Room and Board ... C.Koons 201106: Koons, Catherine",,,,,,,,,,,,,,,

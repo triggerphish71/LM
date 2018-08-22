@@ -1,0 +1,8 @@
+BATCH,,201208,B,5135.0000,
+INVOICE,IN,,02210189,,08/04/2012,1136.0000,"Invoice-Private",,08/04/2012,08/04/2012,,02214442MO,-2863.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,1,620.0000,620.00,"CR:Limited Term Di... B.Sloan 201208: Sloan, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202022,4,85.0000,340.00,"Basic Service Fee - Studio for Aug: Sloan, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,4,44.0000,176.00,"Resident Care - Level 3 for Aug: Sloan, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,02210189,,08/04/2012,3999,"Invoice-Private",,08/04/2012,08/04/2012,,02214442MO,-2863.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2635,2635,"CR:Basic Service F... B.Sloan 201208: Sloan, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,1364,1364,"CR:Resident Care -... B.Sloan 201208: Sloan, Bobbie",,,,,,,,,,,,,,,

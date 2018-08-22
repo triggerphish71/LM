@@ -1,0 +1,6 @@
+BATCH,,201109,B,4290.0000,
+INVOICE,IN,,11210264,,09/01/2011,180.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11215614MO,-7406.8000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,180.0000,180.00,"CR:Decrease Room a... M.Palenchar 201109: Palenchar, Martin",,,,,,,,,,,,,,,
+INVOICE,CM,,11210264,,09/01/2011,4110,"Invoice-Private",,09/01/2011,09/10/2011,,11215614MO,-7406.8000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3000,3000,"CR:Basic Service F... M.Palenchar 201109: Palenchar, Martin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1110,1110,"CR:Resident Care -... M.Palenchar 201109: Palenchar, Martin",,,,,,,,,,,,,,,

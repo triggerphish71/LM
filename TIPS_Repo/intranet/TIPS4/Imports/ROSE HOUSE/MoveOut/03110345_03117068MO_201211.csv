@@ -1,0 +1,5 @@
+BATCH,,201211,B,54.0000,
+INVOICE,IN,,03110345,,11/01/2012,27.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03117068MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Garrison, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,03110345,,11/01/2012,27,"Invoice-Private",,11/01/2012,11/10/2012,,03117068MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Garrison, Irene",,,,,,,,,,,,,,,

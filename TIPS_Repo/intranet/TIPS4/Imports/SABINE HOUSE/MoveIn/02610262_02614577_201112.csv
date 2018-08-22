@@ -1,0 +1,5 @@
+BATCH,,201112,B,3846.0000,
+INVOICE,IN,,02610262,,12/05/2011,3846.0000,"MoveIn-Thayer. Francis",,12/05/2011,12/05/2011,,02614577,3846.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,27,97.0000,2619,"Basic Service Fee - Studio: Thayer. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Thayer. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1200.0000,1200,"New Resident Fee: Thayer. Francis",,,,,,,,,,,,,,,

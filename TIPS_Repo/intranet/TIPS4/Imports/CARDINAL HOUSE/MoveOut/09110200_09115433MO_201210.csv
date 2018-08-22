@@ -1,0 +1,6 @@
+BATCH,,201210,B,5394.0000,
+INVOICE,IN,,09110200,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,09115433MO,-6242.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,1,62.0000,62.00,"CR:Limited Term Di... W.Wilson 201210: Wilson, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,09110200,,10/01/2012,5332,"Invoice-Private",,10/01/2012,10/10/2012,,09115433MO,-6242.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2635,2635,"CR:Basic Service F... W.Wilson 201210: Wilson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2697,2697,"CR:Resident Care -... W.Wilson 201210: Wilson, Walter",,,,,,,,,,,,,,,

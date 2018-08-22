@@ -1,0 +1,6 @@
+BATCH,,201110,B,6014.0000,
+INVOICE,IN,,11010316,,10/01/2011,961.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11014694MO,-4092.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,1,961.0000,961.00,"CR:Limited Term Di... D.Moore 201110: Moore, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,11010316,,10/01/2011,5053,"Invoice-Private",,10/01/2011,10/10/2011,,11014694MO,-4092.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Basic Service F... D.Moore 201110: Moore, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,2232,2232,"CR:Resident Care -... D.Moore 201110: Moore, Dorothy",,,,,,,,,,,,,,,

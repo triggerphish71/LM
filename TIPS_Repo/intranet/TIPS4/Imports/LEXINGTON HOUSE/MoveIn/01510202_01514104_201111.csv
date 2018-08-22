@@ -1,0 +1,5 @@
+BATCH,,201111,B,3785.0000,
+INVOICE,IN,,01510202,,11/14/2011,3785.0000,"MoveIn-Preston. Dorthy",,11/14/2011,11/14/2011,,01514104,3785.0000,,,,,,,,,,
+TRANSACTION,3010,010103015,17,84.0000,1428,"D.Preston: Basic Service Fee - Studio: Preston. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,17,21.0000,357,"D.Preston: Resident Care - Level 12: Preston. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: Preston. Dorthy",,,,,,,,,,,,,,,

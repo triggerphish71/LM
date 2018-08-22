@@ -1,0 +1,7 @@
+BATCH,,201307,B,6660.0000,
+INVOICE,IN,,02710098,,07/01/2013,3219.0000,"Invoice-Private",,07/01/2013,07/10/2013,,02714471MO,-222.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,29,94.0000,2726.00,"Basic Service Fee - Studio for Jul: Hauff, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,29,17.0000,493.00,"Resident Care - Level 1 for Jul: Hauff, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,02710098,,07/01/2013,3441,"Invoice-Private",,07/01/2013,07/10/2013,,02714471MO,-222.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2914,2914,"CR:Basic Service F... L.Hauff 201307: Hauff, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,527,527,"CR:Resident Care -... L.Hauff 201307: Hauff, Larry",,,,,,,,,,,,,,,

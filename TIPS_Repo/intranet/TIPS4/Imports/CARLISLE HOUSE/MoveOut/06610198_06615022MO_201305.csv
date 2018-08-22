@@ -1,0 +1,7 @@
+BATCH,,201305,B,4785.0000,
+INVOICE,IN,,06610198,,05/02/2013,290.0000,"Invoice-Private",,05/02/2013,05/02/2013,,06615022MO,-4205.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,2,97.0000,194.00,"Basic Service Fee - Studio for May: Vaughan, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,2,48.0000,96.00,"Resident Care - Level 3 for May: Vaughan, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,06610198,,05/02/2013,4495,"Invoice-Private",,05/02/2013,05/02/2013,,06615022MO,-4205.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3007,3007,"CR:Basic Service F... M.Vaughan 201305: Vaughan, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1488,1488,"CR:Resident Care -... M.Vaughan 201305: Vaughan, Marie",,,,,,,,,,,,,,,

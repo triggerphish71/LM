@@ -1,0 +1,8 @@
+BATCH,,201110,B,6106.0000,
+INVOICE,IN,,14610234,,10/18/2011,2232.0000,"Invoice-Private",,10/18/2011,10/18/2011,,14614250MO,-5392.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,18,89.0000,1602.00,"Basic Service Fee - Studio for Oct: Snider, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,18,35.0000,630.00,"Resident Care - Level 2 for Oct: Snider, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,14610234,,10/18/2011,3874,"Invoice-Private",,10/18/2011,10/18/2011,,14614250MO,-5392.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... M.Snider 201110: Snider, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Snider 201110: Snider, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1085,1085,"CR:Resident Care -... M.Snider 201110: Snider, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,2405.0000,
+INVOICE,IN,,13610337,,05/04/2013,390.0000,"Invoice-Private",,05/04/2013,05/04/2013,,13615654MO,-1625.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,6,65.0000,390.00,"Basic Service Fee - Studio for May: Whitney, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,13610337,,05/04/2013,2015,"Invoice-Private",,05/04/2013,05/04/2013,,13615654MO,-1625.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2015,2015,"CR:Basic Service F... J.Whitney 201305: Whitney, Joann",,,,,,,,,,,,,,,

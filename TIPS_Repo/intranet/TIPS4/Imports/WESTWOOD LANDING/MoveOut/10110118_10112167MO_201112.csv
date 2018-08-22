@@ -1,0 +1,6 @@
+BATCH,,201112,B,6210.0000,
+INVOICE,IN,,10110118,,12/28/2011,3110.0000,"Invoice-Private",,12/28/2011,12/28/2011,,10112167MO,-2873.0000,,,,,,,,,,
+TRANSACTION,3320,010305101,1,310.0000,310.00,"CR:Limited Term Di... L.Hunnell 201112: Hunnell, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305101,28,100.0000,2800.00,"Basic Service Fee - One Bedroom for Dec: Hunnell, Lela",,,,,,,,,,,,,,,
+INVOICE,CM,,10110118,,12/28/2011,3100,"Invoice-Private",,12/28/2011,12/28/2011,,10112167MO,-2873.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,3100,3100,"CR:Basic Service F... L.Hunnell 201112: Hunnell, Lela",,,,,,,,,,,,,,,

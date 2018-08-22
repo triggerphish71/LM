@@ -1,0 +1,5 @@
+BATCH,,201210,B,1271.0000,
+INVOICE,IN,,04110243,,10/10/2012,310.0000,"Invoice-Private",,10/10/2012,10/10/2012,,04114580MO,-651.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,10,31.0000,310.00,"Basic Service Fee - Second Resident for Oct: Range, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,04110243,,10/10/2012,961,"Invoice-Private",,10/10/2012,10/10/2012,,04114580MO,-651.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,961,961,"CR:Basic Service F... J.Range 201210: Range, Jean",,,,,,,,,,,,,,,

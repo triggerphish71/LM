@@ -1,0 +1,7 @@
+BATCH,,201301,B,6498.0000,
+INVOICE,IN,,08810238,,01/26/2013,2964.0000,"Invoice-Private",,01/26/2013,01/26/2013,,08814604MO,-3762.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,26,55.0000,1430.00,"Basic Service Fee - Studio for Jan: Joor, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,26,59.0000,1534.00,"Resident Care - Level 4 for Jan: Joor, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,08810238,,01/26/2013,3534,"Invoice-Private",,01/26/2013,01/26/2013,,08814604MO,-3762.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1705,1705,"CR:Basic Service F... D.Joor 201301: Joor, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1829,1829,"CR:Resident Care -... D.Joor 201301: Joor, Don",,,,,,,,,,,,,,,

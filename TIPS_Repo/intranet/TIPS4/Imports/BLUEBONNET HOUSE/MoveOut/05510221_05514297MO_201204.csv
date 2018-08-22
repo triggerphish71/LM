@@ -1,0 +1,7 @@
+BATCH,,201204,B,7267.0000,
+INVOICE,IN,,05510221,,04/01/2012,2197.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05514297MO,-2873.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,13,95.0000,1235.00,"Basic Service Fee - Studio for Apr: Cannon, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,13,74.0000,962.00,"Resident Care - Level 5 for Apr: Cannon, Garland",,,,,,,,,,,,,,,
+INVOICE,CM,,05510221,,04/01/2012,5070,"Invoice-Private",,04/01/2012,04/10/2012,,05514297MO,-2873.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2850,2850,"CR:Basic Service F... G.Cannon 201204: Cannon, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,2220,2220,"CR:Resident Care -... G.Cannon 201204: Cannon, Garland",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201807,B,9.6400,
+INVOICE,IN,,35700052,,07/01/2018,4.8200,"Invoice-Private",,07/01/2018,07/10/2018,,35710986MO,-745.0000,,,,,,,,,,
+TRANSACTION,3210,070009357,1,4.8200,4.82,"Personal Services: Harrington, Dona",,,,,,,,,,,,,,,
+INVOICE,CM,,35700052,,07/01/2018,4.82,"Invoice-Private",,07/01/2018,07/10/2018,,35710986MO,-745.0000,,,,,,,,,,
+TRANSACTION,3210,070009357,1,4.82,4.82,"Credit for Personal Services: Harrington, Dona",,,,,,,,,,,,,,,

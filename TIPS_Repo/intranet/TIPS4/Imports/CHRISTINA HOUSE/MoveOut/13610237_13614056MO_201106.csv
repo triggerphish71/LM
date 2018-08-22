@@ -1,0 +1,5 @@
+BATCH,,201106,B,2809.0000,
+INVOICE,IN,,13610237,,06/23/2011,1219.0000,"Invoice-Private",,06/23/2011,06/23/2011,,13614056MO,-2014.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,23,53.0000,1219.00,"Basic Service Fee - Studio for Jun: Mitchell, Rose Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,13610237,,06/23/2011,1590,"Invoice-Private",,06/23/2011,06/23/2011,,13614056MO,-2014.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1590,1590,"CR:Basic Service F... R.Mitchell 201106: Mitchell, Rose Marie",,,,,,,,,,,,,,,

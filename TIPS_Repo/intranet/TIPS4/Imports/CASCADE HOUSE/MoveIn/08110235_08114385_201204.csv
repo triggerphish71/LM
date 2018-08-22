@@ -1,0 +1,5 @@
+BATCH,,201204,B,4275.0000,
+INVOICE,IN,,08110235,,04/06/2012,4275.0000,"MoveIn-Bellos. Tom",,04/06/2012,04/06/2012,,08114385,4275.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,25,90.0000,2250,"T.Bellos: Basic Service Fee - Studio: Bellos. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Bellos. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Bellos. Tom",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201203,B,3463.0000,
+INVOICE,IN,,16510299,,03/21/2012,3463.0000,"MoveIn-Beasley. Clara",,03/21/2012,03/21/2012,,16514180,8770.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,11,97.0000,1067,"Basic Service Fee - Studio         : Beasley. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,11,79.0000,869,"Resident Care - Level 6: Beasley. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Beasley. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: Beasley. Clara",,,,,,,,,,,,,,,

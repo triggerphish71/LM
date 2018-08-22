@@ -1,0 +1,6 @@
+BATCH,,201302,B,2951.5000,
+INVOICE,IN,,03810249,,02/14/2013,2951.5000,"MoveIn-Sala. Sophia",,02/14/2013,02/14/2013,,03814399,5924.6000,,,,,,,,,,
+TRANSACTION,3010,010103038,15,84.0000,1260,"S.Sala: Basic Service Fee - Studio: Sala. Sophia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,15,11.1000,166.5,"S.Sala: Resident Care - Level 6: Sala. Sophia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Sala. Sophia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,1500.0000,1500,"New Resident Fee: Sala. Sophia",,,,,,,,,,,,,,,

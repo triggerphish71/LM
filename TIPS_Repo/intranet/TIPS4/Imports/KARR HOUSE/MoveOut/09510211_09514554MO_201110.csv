@@ -1,0 +1,8 @@
+BATCH,,201110,B,6933.5000,
+INVOICE,IN,,09510211,,10/08/2011,1989.0000,"Invoice-Private",,10/08/2011,10/08/2011,,09514554MO,-2955.5000,,,,,,,,,,
+TRANSACTION,3320,010103095,1,713.0000,713.00,"CR:Limited Term Di... G.Lund 201110: Lund, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,8,83.0000,664.00,"Basic Service Fee - Studio for Oct: Lund, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,8,76.5000,612.00,"Resident Care - Level 45 for Oct: Lund, George",,,,,,,,,,,,,,,
+INVOICE,CM,,09510211,,10/08/2011,4944.5,"Invoice-Private",,10/08/2011,10/08/2011,,09514554MO,-2955.5000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2573,2573,"CR:Basic Service F... G.Lund 201110: Lund, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,2371.5,2371.5,"CR:Resident Care -... G.Lund 201110: Lund, George",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,2828.0000,
+INVOICE,IN,,12910315,,02/23/2012,2828.0000,"MoveIn-Bowser. Sally",,02/23/2012,02/23/2012,,12915762,6392.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,7,96.0000,672,"Basic Service Fee - Studio: Bowser. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,7,18.0000,126,"Resident Care - Level 1: Bowser. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Bowser. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Bowser. Sally",,,,,,,,,,,,,,,

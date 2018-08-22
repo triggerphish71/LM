@@ -1,0 +1,8 @@
+BATCH,,201304,B,7377.0000,
+INVOICE,IN,,02610295,,04/12/2013,2100.0000,"Invoice-Private",,04/12/2013,04/12/2013,,02615227MO,-8629.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,12,113.0000,1356.00,"Basic Service Fee - One Bedroom for Apr: Kimbro, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,12,62.0000,744.00,"Resident Care - Level 5 for Apr: Kimbro, Frankie",,,,,,,,,,,,,,,
+INVOICE,CM,,02610295,,04/12/2013,5277,"Invoice-Private",,04/12/2013,04/12/2013,,02615227MO,-8629.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3390,3390,"CR:Basic Service F... F.Kimbro 201304: Kimbro, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... F.Kimbro 201304: Kimbro, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,1860,1860,"CR:Resident Care -... F.Kimbro 201304: Kimbro, Frankie",,,,,,,,,,,,,,,

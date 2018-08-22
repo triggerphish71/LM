@@ -1,0 +1,7 @@
+BATCH,,201204,B,6243.3000,
+INVOICE,IN,,06210229,,04/01/2012,1783.8000,"Invoice-Private",,04/01/2012,04/10/2012,,06213741MO,-2675.7000,,,,,,,,,,
+TRANSACTION,3020,010101062,12,86.0000,1032.00,"Basic Service Fee - Studio for Apr: Wienecke, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,12,62.6500,751.80,"Resident Care - Level 35 for Apr: Wienecke, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,06210229,,04/01/2012,4459.5,"Invoice-Private",,04/01/2012,04/10/2012,,06213741MO,-2675.7000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2580,2580,"CR:Basic Service F... F.Wienecke 201204: Wienecke, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1879.5,1879.5,"CR:Resident Care -... F.Wienecke 201204: Wienecke, Fred",,,,,,,,,,,,,,,

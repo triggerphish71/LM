@@ -1,0 +1,7 @@
+BATCH,,201211,B,1240.0000,
+INVOICE,IN,,07310208,,11/01/2012,620.0000,"Invoice-Private",,11/01/2012,11/10/2012,,07315798MO,-440.0000,,,,,,,,,,
+TRANSACTION,3320,010305073,30,20.0000,600.00,"Credit for Limited Term Discount: Iddings, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20.00,"Monthly Cable: Iddings, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07310208,,11/01/2012,620,"Invoice-Private",,11/01/2012,11/10/2012,,07315798MO,-440.0000,,,,,,,,,,
+TRANSACTION,3320,010305073,30,20,600,"Limited Term Discount: Iddings, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"Credit for Monthly Cable: Iddings, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201801,B,7926.4000,
+INVOICE,IN,,12010321,,01/01/2018,7926.4000,"MoveIn-Mccorkle. Lillie",,01/01/2018,01/01/2018,,12017015,10366.0000,,,,,,,,,,
+TRANSACTION,3010,010009120,31,86.0000,2666,"Basic Service Fee - Studio: Mccorkle. Lillie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6000,31.6,"Monthly Cable: Mccorkle. Lillie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2614.4000,2614.4,"Community Fee: Mccorkle. Lillie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2614.4000,2614.4,"Monthly Deferral Charge: Mccorkle. Lillie",,,,,,,,,,,,,,,

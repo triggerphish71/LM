@@ -1,0 +1,7 @@
+BATCH,,201107,B,4096.0000,
+INVOICE,IN,,17810300,,07/01/2011,124.0000,"Invoice-Private",,07/01/2011,07/10/2011,,17815656MO,-4271.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,124.0000,124.00,"CR:Limited Term Di... R.Ring 201107: Ring, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,17810300,,07/01/2011,3972,"Invoice-Private",,07/01/2011,07/10/2011,,17815656MO,-4271.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,3038,3038,"CR:Basic Service F... R.Ring 201107: Ring, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... R.Ring 201107: Ring, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,899,899,"CR:Swan Personal C... R.Ring 201107: Ring, Richard",,,,,,,,,,,,,,,

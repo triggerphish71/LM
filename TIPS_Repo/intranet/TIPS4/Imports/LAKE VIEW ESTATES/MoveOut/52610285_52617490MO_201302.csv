@@ -1,0 +1,7 @@
+BATCH,,201302,B,460.0000,
+INVOICE,IN,,52610285,,02/01/2013,230.0000,"Invoice-Private",,02/01/2013,02/10/2013,,52617490MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200.0000,200.00,"Resident Meals: Rupprecht, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30.0000,30.00,"Pendant Fee: Rupprecht, LaVerne",,,,,,,,,,,,,,,
+INVOICE,CM,,52610285,,02/01/2013,230,"Invoice-Private",,02/01/2013,02/10/2013,,52617490MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"Credit for Resident Meals: Rupprecht, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"Credit for Pendant Fee: Rupprecht, LaVerne",,,,,,,,,,,,,,,

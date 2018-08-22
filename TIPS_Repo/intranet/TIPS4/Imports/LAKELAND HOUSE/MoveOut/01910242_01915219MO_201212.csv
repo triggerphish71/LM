@@ -1,0 +1,6 @@
+BATCH,,201212,B,4872.0000,
+INVOICE,IN,,01910242,,12/20/2012,1900.0000,"Invoice-Private",,12/20/2012,12/20/2012,,01915219MO,-4017.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,20,95.0000,1900.00,"L.Hickman: Basic Service Fee - Studio for Dec: Hickman, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,01910242,,12/20/2012,2972,"Invoice-Private",,12/20/2012,12/20/2012,,01915219MO,-4017.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2945,2945,"CR:L.Hickman: Basi... L.Hickman 201212: Hickman, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"CR:Monthly Cable... L.Hickman 201212: Hickman, Lois",,,,,,,,,,,,,,,

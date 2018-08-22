@@ -1,0 +1,8 @@
+BATCH,,201208,B,5039.0000,
+INVOICE,IN,,14110181,,08/01/2012,1815.0000,"Invoice-Private",,08/01/2012,08/01/2012,,14113756MO,-1409.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,775.0000,775.00,"CR:Limited Term Di... M.Jones 201208: Jones, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,10,87.0000,870.00,"Basic Service Fee - Studio for Aug: Jones, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,10,17.0000,170.00,"Resident Care - Level 1 for Aug: Jones, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,14110181,,08/01/2012,3224,"Invoice-Private",,08/01/2012,08/01/2012,,14113756MO,-1409.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2697,2697,"CR:Basic Service F... M.Jones 201208: Jones, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,527,527,"CR:Resident Care -... M.Jones 201208: Jones, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,4453.0000,
+INVOICE,IN,,12510211,,05/25/2013,2190.0000,"Invoice-Private",,05/25/2013,05/25/2013,,12514503MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,30,40.0000,1200.00,"Basic Service Fee - Studio for May: Snider, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,30,33.0000,990.00,"Resident Care - Level 2 for May: Snider, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,12510211,,05/25/2013,2263,"Invoice-Private",,05/25/2013,05/25/2013,,12514503MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,1240,1240,"CR:Basic Service F... I.Snider 201305: Snider, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1023,1023,"CR:Resident Care -... I.Snider 201305: Snider, Irene",,,,,,,,,,,,,,,

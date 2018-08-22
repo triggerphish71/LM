@@ -1,0 +1,6 @@
+BATCH,,201301,B,2910.0000,
+INVOICE,IN,,50110274,,01/01/2013,1020.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50114491MO,-870.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,17,60.0000,1020.00,"Basic Service Fee - Studio for Jan: Kiesel, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,50110274,,01/01/2013,1890,"Invoice-Private",,01/01/2013,01/10/2013,,50114491MO,-870.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,1860,1860,"CR:Basic Service F... H.Kiesel 201301: Kiesel, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... H.Kiesel 201301: Kiesel, Henry",,,,,,,,,,,,,,,

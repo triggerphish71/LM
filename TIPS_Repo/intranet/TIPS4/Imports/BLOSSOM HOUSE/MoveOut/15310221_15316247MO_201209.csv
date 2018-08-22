@@ -1,0 +1,8 @@
+BATCH,,201209,B,5658.6200,
+INVOICE,IN,,15310221,,09/01/2012,618.0200,"Invoice-Private",,09/01/2012,09/01/2012,,15316247MO,-9166.2000,,,,,,,,,,
+TRANSACTION,3320,010103153,1,450.0000,450.00,"CR:Limited Term Di... B.Dillman 201209: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,100.0000,100.00,"Basic Service Fee - Studio for Sep: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,68.0200,68.02,"Resident Care - Level 38 for Sep: Dillman, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,15310221,,09/01/2012,5040.6,"Invoice-Private",,09/01/2012,09/01/2012,,15316247MO,-9166.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... B.Dillman 201209: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2040.6,2040.6,"CR:Resident Care -... B.Dillman 201209: Dillman, Beverly",,,,,,,,,,,,,,,

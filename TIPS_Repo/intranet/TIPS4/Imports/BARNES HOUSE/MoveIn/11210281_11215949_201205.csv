@@ -1,0 +1,5 @@
+BATCH,,201205,B,4613.0000,
+INVOICE,IN,,11210281,,05/01/2012,4613.0000,"May_Rent-Rock. Jean",,05/01/2012,05/10/2012,,11215949,7082.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,31,97.0000,3007,"Basic Service Fee - Studio: Rock. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,31,51.0000,1581,"Resident Care - Level 3: Rock. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Rock. Jean",,,,,,,,,,,,,,,

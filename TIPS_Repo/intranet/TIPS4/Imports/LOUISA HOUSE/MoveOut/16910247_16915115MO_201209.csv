@@ -1,0 +1,8 @@
+BATCH,,201209,B,4634.8300,
+INVOICE,IN,,16910247,,09/07/2012,872.1300,"Invoice-Private",,09/07/2012,09/07/2012,,16915115MO,-2890.5700,,,,,,,,,,
+TRANSACTION,3020,010103169,7,87.0000,609.00,"Basic Service Fee - Studio for Sep: Murphy, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,7,37.5900,263.13,"Resident Care - Level 21 for Sep: Murphy, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,16910247,,09/07/2012,3762.7,"Invoice-Private",,09/07/2012,09/07/2012,,16915115MO,-2890.5700,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2610,2610,"CR:Basic Service F... A.Murphy 201209: Murphy, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... A.Murphy 201209: Murphy, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,1127.7,1127.7,"CR:Resident Care -... A.Murphy 201209: Murphy, Albert",,,,,,,,,,,,,,,

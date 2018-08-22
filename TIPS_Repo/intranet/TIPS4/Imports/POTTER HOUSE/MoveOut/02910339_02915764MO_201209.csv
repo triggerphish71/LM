@@ -1,0 +1,7 @@
+BATCH,,201209,B,5808.0000,
+INVOICE,IN,,02910339,,09/14/2012,1848.0000,"Invoice-Private",,09/14/2012,09/14/2012,,02915764MO,-6204.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,14,100.0000,1400.00,"Basic Service Fee - Studio for Sep: Overcast, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,14,32.0000,448.00,"Resident Care - Level 2 for Sep: Overcast, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,02910339,,09/14/2012,3960,"Invoice-Private",,09/14/2012,09/14/2012,,02915764MO,-6204.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3000,3000,"CR:Basic Service F... L.Overcast 201209: Overcast, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,960,960,"CR:Resident Care -... L.Overcast 201209: Overcast, Lawrence",,,,,,,,,,,,,,,

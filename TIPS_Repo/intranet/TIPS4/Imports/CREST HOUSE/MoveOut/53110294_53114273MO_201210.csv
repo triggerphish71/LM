@@ -1,0 +1,5 @@
+BATCH,,201210,B,5781.0000,
+INVOICE,IN,,53110294,,10/01/2012,1968.0000,"Invoice-Private",,10/01/2012,10/10/2012,,53114273MO,-1845.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,16,123.0000,1968.00,"Basic Service Fee - One Bedroom for Oct: Hertzberg, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,53110294,,10/01/2012,3813,"Invoice-Private",,10/01/2012,10/10/2012,,53114273MO,-1845.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3813,3813,"CR:Basic Service F... B.Hertzberg 201210: Hertzberg, Barbara",,,,,,,,,,,,,,,

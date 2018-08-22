@@ -1,0 +1,6 @@
+BATCH,,201106,B,4946.0000,
+INVOICE,IN,,50110237,,06/03/2011,4946.0000,"MoveIn-Gaul. Edward",,06/03/2011,06/03/2011,,50113507,4946.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,28,84.0000,2352,"Basic Service Fee - Studio: Gaul. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,28,38.0000,1064,"Resident Care - Level 3: Gaul. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Gaul. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Gaul. Edward",,,,,,,,,,,,,,,

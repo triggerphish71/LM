@@ -1,0 +1,7 @@
+BATCH,,201201,B,5157.0000,
+INVOICE,IN,,14710173,,01/01/2012,62.0000,"Invoice-Private",,01/01/2012,01/10/2012,,14715455MO,-6269.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,62.0000,62.00,"CR:Limited Term Di... M.Gustovich 201201: Gustovich, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,14710173,,01/01/2012,5095,"Invoice-Private",,01/01/2012,01/10/2012,,14715455MO,-6269.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... M.Gustovich 201201: Gustovich, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... M.Gustovich 201201: Gustovich, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1891,1891,"CR:Resident Care -... M.Gustovich 201201: Gustovich, Margaret",,,,,,,,,,,,,,,

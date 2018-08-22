@@ -1,0 +1,8 @@
+BATCH,,201204,B,6996.0000,
+INVOICE,IN,,14610145,,04/13/2012,2106.0000,"Invoice-Private",,04/13/2012,04/13/2012,,14614477MO,-7836.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,13,115.0000,1495.00,"Basic Service Fee - One Bedroom for Apr: Mann, Loren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,13,47.0000,611.00,"Resident Care - Level 3 for Apr: Mann, Loren",,,,,,,,,,,,,,,
+INVOICE,CM,,14610145,,04/13/2012,4890,"Invoice-Private",,04/13/2012,04/13/2012,,14614477MO,-7836.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,3450,3450,"CR:Basic Service F... L.Mann 201204: Mann, Loren",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... L.Mann 201204: Mann, Loren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1410,1410,"CR:Resident Care -... L.Mann 201204: Mann, Loren",,,,,,,,,,,,,,,

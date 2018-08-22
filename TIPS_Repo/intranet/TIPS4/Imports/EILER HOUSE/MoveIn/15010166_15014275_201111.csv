@@ -1,0 +1,6 @@
+BATCH,,201111,B,3785.0000,
+INVOICE,IN,,15010166,,11/15/2011,3785.0000,"MoveIn-Huber. Mildred",,11/15/2011,11/15/2011,,15014275,3785.0000,,,,,,,,,,
+TRANSACTION,3010,010212150,16,92.0000,1472,"M.Huber: Basic Service Fee - Studio: Huber. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212150,16,18.0000,288,"M.Huber: Resident Care - Level 1: Huber. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25,"Monthly Cable: Huber. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212150,1,2000.0000,2000,"New Resident Fee: Huber. Mildred",,,,,,,,,,,,,,,

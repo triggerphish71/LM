@@ -1,0 +1,7 @@
+BATCH,,201211,B,598.0000,
+INVOICE,IN,,14210190,,11/01/2012,299.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14214132MO,-3017.2000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Lester, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309142,30,8.8000,264.00,"Credit for Two Room Rental Discount: Lester, Julia",,,,,,,,,,,,,,,
+INVOICE,CM,,14210190,,11/01/2012,299,"Invoice-Private",,11/01/2012,11/10/2012,,14214132MO,-3017.2000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Lester, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309142,30,8.8,264,"Two Room Rental Discount: Lester, Julia",,,,,,,,,,,,,,,

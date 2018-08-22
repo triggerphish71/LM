@@ -1,0 +1,7 @@
+BATCH,,201205,B,6615.0000,
+INVOICE,IN,,09310145,,05/14/2012,2058.0000,"Invoice-Private",,05/14/2012,05/14/2012,,09315252MO,-2499.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,14,99.0000,1386.00,"Basic Service Fee - Studio for May: Wagner, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,14,48.0000,672.00,"Resident Care - Level 3 for May: Wagner, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,09310145,,05/14/2012,4557,"Invoice-Private",,05/14/2012,05/14/2012,,09315252MO,-2499.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... M.Wagner 201205: Wagner, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... M.Wagner 201205: Wagner, Marie",,,,,,,,,,,,,,,

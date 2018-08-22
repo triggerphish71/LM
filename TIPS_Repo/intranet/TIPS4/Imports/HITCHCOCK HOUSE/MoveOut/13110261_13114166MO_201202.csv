@@ -1,0 +1,5 @@
+BATCH,,201202,B,70.0000,
+INVOICE,IN,,13110261,,02/01/2012,35.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13114166MO,-3983.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35.0000,35.00,"Pendant Fee: Hartzog, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13110261,,02/01/2012,35,"Invoice-Private",,02/01/2012,02/10/2012,,13114166MO,-3983.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35,35,"Credit for Pendant Fee: Hartzog, Charles",,,,,,,,,,,,,,,

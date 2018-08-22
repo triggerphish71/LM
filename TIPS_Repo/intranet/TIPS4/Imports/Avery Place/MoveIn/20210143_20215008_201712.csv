@@ -1,0 +1,5 @@
+BATCH,,201712,B,12000.0000,
+INVOICE,IN,,20210143,,12/01/2017,12000.0000,"MoveIn-tanner. carolyn",,12/01/2017,12/01/2017,,20215008,12000.0000,,,,,,,,,,
+TRANSACTION,3010,010016202,1,4000.0000,4000,"MC Studio: tanner. carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,4000.0000,4000,"CommunityFee: tanner. carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,4000.0000,4000,"Monthly Deferral Charge: tanner. carolyn",,,,,,,,,,,,,,,

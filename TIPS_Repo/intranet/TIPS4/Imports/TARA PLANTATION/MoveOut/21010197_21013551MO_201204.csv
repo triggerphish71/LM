@@ -1,0 +1,8 @@
+BATCH,,201204,B,6265.0000,
+INVOICE,IN,,21010197,,04/14/2012,2340.0000,"Invoice-Private",,04/14/2012,04/14/2012,,21013551MO,-1585.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,18,11.0000,198.00,"Resident Care - Level 1 for Apr: Ramsey, Mary Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,18,119.0000,2142.00,"Two Bedroom for Apr: Ramsey, Mary Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21010197,,04/14/2012,3925,"Invoice-Private",,04/14/2012,04/14/2012,,21013551MO,-1585.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... M.Ramsey 201204: Ramsey, Mary Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,330,330,"CR:Resident Care -... M.Ramsey 201204: Ramsey, Mary Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,3570,3570,"CR:Two Bedroom... M.Ramsey 201204: Ramsey, Mary Frances",,,,,,,,,,,,,,,

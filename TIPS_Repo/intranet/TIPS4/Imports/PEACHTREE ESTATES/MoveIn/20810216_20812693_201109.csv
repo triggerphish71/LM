@@ -1,0 +1,5 @@
+BATCH,,201109,B,2955.0000,
+INVOICE,IN,,20810216,,09/08/2011,2955.0000,"MoveIn-Bond. Pauline",,09/08/2011,09/08/2011,,20812693,2955.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,23,74.0000,1702,"Studio: Bond. Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216208,23,11.0000,253,"Resident Care - Level 1: Bond. Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1000.0000,1000,"New Resident Fee: Bond. Pauline",,,,,,,,,,,,,,,

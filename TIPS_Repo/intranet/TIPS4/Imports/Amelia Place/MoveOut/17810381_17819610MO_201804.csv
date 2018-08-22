@@ -1,0 +1,6 @@
+BATCH,,201804,B,1299.1600,
+INVOICE,IN,,17810381,,04/01/2018,1262.0800,"Invoice-Private",,04/01/2018,04/10/2018,,17819610MO,-3708.0800,,,,,,,,,,
+TRANSACTION,3130,010012178,1,37.0780,37.08,"Pendant Fee: Wekander, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1225.0000,1225.00,"Deferred NRF Unpaid Balance: Wekander, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,17810381,,04/01/2018,37.08,"Invoice-Private",,04/01/2018,04/10/2018,,17819610MO,-3708.0800,,,,,,,,,,
+TRANSACTION,3130,010012178,1,37.078,37.078,"Credit for Pendant Fee: Wekander, Joan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201105,B,1125.0000,
+INVOICE,IN,,19010211,,05/31/2011,1125.0000,"MoveIn-Harris. Mary",,05/31/2011,05/31/2011,,19014153,4092.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio         : Harris. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Harris. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Harris. Mary",,,,,,,,,,,,,,,

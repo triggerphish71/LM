@@ -1,0 +1,7 @@
+BATCH,,201107,B,4587.0000,
+INVOICE,IN,,16710193,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,16713489MO,-5738.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,1,62.0000,62.00,"CR:Limited Term Di... R.Ponec 201107: Ponec, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,16710193,,07/01/2011,4525,"Invoice-Private",,07/01/2011,07/10/2011,,16713489MO,-5738.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2883,2883,"CR:Basic Service F... R.Ponec 201107: Ponec, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... R.Ponec 201107: Ponec, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1612,1612,"CR:Resident Care -... R.Ponec 201107: Ponec, Robert",,,,,,,,,,,,,,,

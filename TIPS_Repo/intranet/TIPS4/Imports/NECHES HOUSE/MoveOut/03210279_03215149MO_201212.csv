@@ -1,0 +1,7 @@
+BATCH,,201212,B,6665.0000,
+INVOICE,IN,,03210279,,12/01/2012,1860.0000,"Invoice-Private",,12/01/2012,12/10/2012,,03215149MO,-2945.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,12,113.0000,1356.00,"Basic Service Fee - One Bedroom for Dec: Duren, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,12,42.0000,504.00,"Resident Care - Level 3 for Dec: Duren, Delores",,,,,,,,,,,,,,,
+INVOICE,CM,,03210279,,12/01/2012,4805,"Invoice-Private",,12/01/2012,12/10/2012,,03215149MO,-2945.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,3503,3503,"CR:Basic Service F... D.Duren 201212: Duren, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1302,1302,"CR:Resident Care -... D.Duren 201212: Duren, Delores",,,,,,,,,,,,,,,

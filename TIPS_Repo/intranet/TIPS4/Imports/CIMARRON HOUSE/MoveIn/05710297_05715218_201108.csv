@@ -1,0 +1,6 @@
+BATCH,,201108,B,3395.0000,
+INVOICE,IN,,05710297,,08/20/2011,3395.0000,"MoveIn-Welch. Charlotte",,08/20/2011,08/20/2011,,05715218,7470.0000,,,,,,,,,,
+TRANSACTION,3010,010202057,12,91.0000,1092,"Basic Service Fee - Studio         : Welch. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202057,12,44.0000,528,"Resident Care - Level 3: Welch. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25.0000,25,"Monthly Cable: Welch. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202057,1,1750.0000,1750,"New Resident Fee: Welch. Charlotte",,,,,,,,,,,,,,,

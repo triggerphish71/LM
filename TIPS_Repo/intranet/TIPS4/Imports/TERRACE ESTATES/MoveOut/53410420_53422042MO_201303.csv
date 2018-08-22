@@ -1,0 +1,8 @@
+BATCH,,201303,B,3966.0000,
+INVOICE,IN,,53410420,,03/01/2013,123.0000,"Invoice-Private",,03/01/2013,03/01/2013,,53422042MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,70.0000,70.00,"Basic Service Fee - Studio for Mar: LeMahieu, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,53.0000,53.00,"Resident Care - Level 2 for Mar: LeMahieu, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,53410420,,03/01/2013,3843,"Invoice-Private",,03/01/2013,03/01/2013,,53422042MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2170,2170,"CR:Basic Service F... L.LeMahieu 201303: LeMahieu, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... L.LeMahieu 201303: LeMahieu, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1643,1643,"CR:Resident Care -... L.LeMahieu 201303: LeMahieu, Lorraine",,,,,,,,,,,,,,,

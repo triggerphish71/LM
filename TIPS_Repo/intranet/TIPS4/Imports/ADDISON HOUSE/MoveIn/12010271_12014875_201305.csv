@@ -1,0 +1,6 @@
+BATCH,,201305,B,4739.0000,
+INVOICE,IN,,12010271,,05/03/2013,4739.0000,"MoveIn-Welch. Bob",,05/03/2013,05/03/2013,,12014875,4739.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,29,96.0000,2784,"Basic Service Fee - One Bedroom: Welch. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,29,25.0000,725,"Resident Care - Level 2: Welch. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Welch. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1200.0000,1200,"New Resident Fee: Welch. Bob",,,,,,,,,,,,,,,

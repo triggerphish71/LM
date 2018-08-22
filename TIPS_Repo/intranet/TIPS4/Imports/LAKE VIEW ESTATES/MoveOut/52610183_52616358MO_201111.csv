@@ -1,0 +1,6 @@
+BATCH,,201111,B,2733.0000,
+INVOICE,IN,,52610183,,11/03/2011,303.0000,"Invoice-Private",,11/03/2011,11/03/2011,,52616358MO,-2127.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,60.0000,60.00,"CR:Limited Term Di... V.Schmidt 201111: Schmidt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,3,81.0000,243.00,"Basic Service Fee - One Bedroom for Nov: Schmidt, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,52610183,,11/03/2011,2430,"Invoice-Private",,11/03/2011,11/03/2011,,52616358MO,-2127.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2430,2430,"CR:Basic Service F... V.Schmidt 201111: Schmidt, Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201104,B,6579.0000,
+INVOICE,IN,,10710230,,04/23/2011,2889.0000,"Invoice-Private",,04/23/2011,04/23/2011,,10715506MO,-4552.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,60.0000,60.00,"CR:Limited Term Di... M.Mayes 201104: Mayes, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,23,95.0000,2185.00,"Basic Service Fee - Studio for Apr: Mayes, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,23,28.0000,644.00,"Resident Care - Level 2 for Apr: Mayes, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,10710230,,04/23/2011,3690,"Invoice-Private",,04/23/2011,04/23/2011,,10715506MO,-4552.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2850,2850,"CR:Basic Service F... M.Mayes 201104: Mayes, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,840,840,"CR:Resident Care -... M.Mayes 201104: Mayes, Mildred",,,,,,,,,,,,,,,

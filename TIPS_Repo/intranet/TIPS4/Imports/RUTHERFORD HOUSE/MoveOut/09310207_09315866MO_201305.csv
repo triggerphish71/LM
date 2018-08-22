@@ -1,0 +1,7 @@
+BATCH,,201305,B,4350.0000,
+INVOICE,IN,,09310207,,05/19/2013,1653.0000,"Invoice-Private",,05/19/2013,05/19/2013,,09315866MO,-3654.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,19,39.0000,741.00,"Basic Service Fee - Second Resident for May: Miller, Maurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,19,48.0000,912.00,"Resident Care - Level 3 for May: Miller, Maurice",,,,,,,,,,,,,,,
+INVOICE,CM,,09310207,,05/19/2013,2697,"Invoice-Private",,05/19/2013,05/19/2013,,09315866MO,-3654.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,1209,1209,"CR:Basic Service F... M.Miller 201305: Miller, Maurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... M.Miller 201305: Miller, Maurice",,,,,,,,,,,,,,,

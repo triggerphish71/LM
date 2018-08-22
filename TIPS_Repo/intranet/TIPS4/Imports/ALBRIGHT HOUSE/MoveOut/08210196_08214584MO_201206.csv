@@ -1,0 +1,8 @@
+BATCH,,201206,B,8313.0000,
+INVOICE,IN,,08210196,,06/20/2012,3315.2000,"Invoice-Private",,06/20/2012,06/20/2012,,08214584MO,-6846.1600,,,,,,,,,,
+TRANSACTION,3020,010103082,20,87.0000,1740.00,"Basic Service Fee - Studio for Jun: Walthrop, Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,20,78.7600,1575.20,"Resident Care - Level 44 for Jun: Walthrop, Marcia",,,,,,,,,,,,,,,
+INVOICE,CM,,08210196,,06/20/2012,4997.8,"Invoice-Private",,06/20/2012,06/20/2012,,08214584MO,-6846.1600,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2610,2610,"CR:Basic Service F... M.Walthrop 201206: Walthrop, Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... M.Walthrop 201206: Walthrop, Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,2362.8,2362.8,"CR:Resident Care -... M.Walthrop 201206: Walthrop, Marcia",,,,,,,,,,,,,,,

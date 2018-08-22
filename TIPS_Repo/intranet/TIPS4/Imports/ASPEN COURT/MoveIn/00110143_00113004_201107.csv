@@ -1,0 +1,6 @@
+BATCH,,201107,B,5650.2000,
+INVOICE,IN,,00110143,,07/01/2011,5650.2000,"MoveIn-Crawford. Charley",,07/01/2011,07/01/2011,,00113004,5650.2000,,,,,,,,,,
+TRANSACTION,3010,010101001,31,71.0000,2201,"Basic Service Fee - Studio         : Crawford. Charley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,31,78.2000,2424.2,"Resident Care - Level 46: Crawford. Charley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Crawford. Charley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Crawford. Charley",,,,,,,,,,,,,,,

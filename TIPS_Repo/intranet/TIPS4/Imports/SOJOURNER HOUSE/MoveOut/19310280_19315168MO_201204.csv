@@ -1,0 +1,8 @@
+BATCH,,201204,B,5302.0000,
+INVOICE,IN,,19310280,,04/11/2012,1342.0000,"Invoice-Private",,04/11/2012,04/11/2012,,19315168MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3027,010315193,11,46.0000,506.00,"Resident Care - Level 3 for Apr: Walsh, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,11,76.0000,836.00,"Room and Board - Studio for Apr: Walsh, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,19310280,,04/11/2012,3960,"Invoice-Private",,04/11/2012,04/11/2012,,19315168MO,-2618.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... C.Walsh 201204: Walsh, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1380,1380,"CR:Resident Care -... C.Walsh 201204: Walsh, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2280,2280,"CR:Room and Board ... C.Walsh 201204: Walsh, Charles",,,,,,,,,,,,,,,

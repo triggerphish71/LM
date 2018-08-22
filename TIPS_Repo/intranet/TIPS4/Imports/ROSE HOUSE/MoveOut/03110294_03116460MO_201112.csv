@@ -1,0 +1,5 @@
+BATCH,,201112,B,54.0000,
+INVOICE,IN,,03110294,,12/01/2011,27.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03116460MO,-3524.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Hanley, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,03110294,,12/01/2011,27,"Invoice-Private",,12/01/2011,12/10/2011,,03116460MO,-3524.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Hanley, Elsie",,,,,,,,,,,,,,,

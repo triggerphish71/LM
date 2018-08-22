@@ -1,0 +1,8 @@
+BATCH,,201204,B,6666.0000,
+INVOICE,IN,,03210242,,04/07/2012,3336.0000,"Invoice-Private",,04/07/2012,04/07/2012,,03214867MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,450.0000,450.00,"CR:Limited Term Di... J.Cordray 201204: Cordray, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,26,94.0000,2444.00,"Basic Service Fee - Studio for Apr: Cordray, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,26,17.0000,442.00,"Resident Care - Level 1 for Apr: Cordray, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,03210242,,04/07/2012,3330,"Invoice-Private",,04/07/2012,04/07/2012,,03214867MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... J.Cordray 201204: Cordray, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,510,510,"CR:Resident Care -... J.Cordray 201204: Cordray, Jean",,,,,,,,,,,,,,,

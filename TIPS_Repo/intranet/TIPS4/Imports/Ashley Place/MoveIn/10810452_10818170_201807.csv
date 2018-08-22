@@ -1,0 +1,6 @@
+BATCH,,201807,B,5358.7300,
+INVOICE,IN,,10810452,,07/25/2018,5358.7300,"MoveIn-Clap. Thunder",,07/25/2018,07/25/2018,,10818170,5358.7300,,,,,,,,,,
+TRANSACTION,3010,010008108,7,112.0000,784,"Basic Service Fee - Studio         : Clap. Thunder",,,,,,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35.0000,35,"Monthly Cable: Clap. Thunder",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008108,1,3404.8000,3404.8,"Community Fee: Clap. Thunder",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008108,1,1134.9300,1134.93,"Monthly Deferral Charge: Clap. Thunder",,,,,,,,,,,,,,,

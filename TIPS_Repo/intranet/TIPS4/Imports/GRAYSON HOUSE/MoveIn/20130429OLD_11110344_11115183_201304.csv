@@ -1,0 +1,5 @@
+BATCH,,201304,B,1719.0000,
+INVOICE,IN,,11110344,,04/29/2013,1719.0000,"MoveIn-Block. John",,04/29/2013,04/29/2013,,11115183,4751.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,2,97.0000,194,"Basic Service Fee - Studio: Block. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Block. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,1500.0000,1500,"New Resident Fee: Block. John",,,,,,,,,,,,,,,

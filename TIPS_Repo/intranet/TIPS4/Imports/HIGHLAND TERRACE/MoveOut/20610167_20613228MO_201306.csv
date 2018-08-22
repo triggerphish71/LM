@@ -1,0 +1,7 @@
+BATCH,,201306,B,8378.0000,
+INVOICE,IN,,20610167,,06/29/2013,4118.0000,"Invoice-Private",,06/29/2013,06/29/2013,,20613228MO,-4575.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,29,53.0000,1537.00,"Resident Care - Level 5 for Jun: Williams, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,29,89.0000,2581.00,"Room and Board - Studio for Jun: Williams, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,20610167,,06/29/2013,4260,"Invoice-Private",,06/29/2013,06/29/2013,,20613228MO,-4575.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1590,1590,"CR:Resident Care -... E.Williams 201306: Williams, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2670,2670,"CR:Room and Board ... E.Williams 201306: Williams, Eileen",,,,,,,,,,,,,,,

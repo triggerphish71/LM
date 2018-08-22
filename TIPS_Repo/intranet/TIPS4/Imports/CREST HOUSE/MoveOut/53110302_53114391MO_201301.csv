@@ -1,0 +1,7 @@
+BATCH,,201301,B,4992.0000,
+INVOICE,IN,,53110302,,01/08/2013,1024.0000,"Invoice-Private",,01/08/2013,01/08/2013,,53114391MO,-2944.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,8,75.0000,600.00,"Basic Service Fee - One Bedroom for Jan: Sikora, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,8,53.0000,424.00,"Resident Care - Level 4 for Jan: Sikora, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,53110302,,01/08/2013,3968,"Invoice-Private",,01/08/2013,01/08/2013,,53114391MO,-2944.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2325,2325,"CR:Basic Service F... R.Sikora 201301: Sikora, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1643,1643,"CR:Resident Care -... R.Sikora 201301: Sikora, Robert",,,,,,,,,,,,,,,

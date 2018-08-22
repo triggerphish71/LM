@@ -1,0 +1,7 @@
+BATCH,,201202,B,4588.0000,
+INVOICE,IN,,53410422,,02/03/2012,992.0000,"Invoice-Private",,02/03/2012,02/03/2012,,53420416MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,8,71.0000,568.00,"Basic Service Fee - Studio for Feb: Heidemann, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319534,8,53.0000,424.00,"Private Care Rate Adjustments for Feb: Heidemann, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,53410422,,02/03/2012,3596,"Invoice-Private",,02/03/2012,02/03/2012,,53420416MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2059,2059,"CR:Basic Service F... E.Heidemann 201202: Heidemann, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319534,1,1537,1537,"CR:Private Care Ra... E.Heidemann 201202: Heidemann, Edward",,,,,,,,,,,,,,,

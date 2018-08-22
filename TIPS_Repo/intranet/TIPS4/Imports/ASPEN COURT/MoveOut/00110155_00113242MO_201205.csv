@@ -1,0 +1,8 @@
+BATCH,,201205,B,4795.0300,
+INVOICE,IN,,00110155,,05/02/2012,1870.6000,"Invoice-Private",,05/02/2012,05/02/2012,,00113242MO,-1053.8300,,,,,,,,,,
+TRANSACTION,3020,010101001,20,81.0000,1620.00,"Basic Service Fee - One Bedroom for May: Olsen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,20,12.5300,250.60,"Resident Care - Level 7 for May: Olsen, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,00110155,,05/02/2012,2924.43,"Invoice-Private",,05/02/2012,05/02/2012,,00113242MO,-1053.8300,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2511,2511,"CR:Basic Service F... M.Olsen 201205: Olsen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... M.Olsen 201205: Olsen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,388.43,388.43,"CR:Resident Care -... M.Olsen 201205: Olsen, Mildred",,,,,,,,,,,,,,,

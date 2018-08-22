@@ -1,0 +1,7 @@
+BATCH,,201111,B,2874.0000,
+INVOICE,IN,,16510264,,11/01/2011,1437.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16513915MO,-485.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Chapman, Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,30,47.0000,1410.00,"Credit for Limited Term Discount: Chapman, Rufus",,,,,,,,,,,,,,,
+INVOICE,CM,,16510264,,11/01/2011,1437,"Invoice-Private",,11/01/2011,11/10/2011,,16513915MO,-485.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Chapman, Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,30,47,1410,"Limited Term Discount: Chapman, Rufus",,,,,,,,,,,,,,,

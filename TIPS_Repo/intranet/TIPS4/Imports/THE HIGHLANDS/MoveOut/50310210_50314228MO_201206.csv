@@ -1,0 +1,6 @@
+BATCH,,201206,B,3510.0000,
+INVOICE,IN,,50310210,,06/01/2012,510.0000,"Invoice-Private",,06/01/2012,06/10/2012,,50314228MO,-2763.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,510.0000,510.00,"CR:Limited Term Di... M.Witham 201206: Witham, Maxie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310210,,06/01/2012,3000,"Invoice-Private",,06/01/2012,06/10/2012,,50314228MO,-2763.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2250,2250,"CR:Basic Service F... M.Witham 201206: Witham, Maxie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,750,750,"CR:Resident Care -... M.Witham 201206: Witham, Maxie",,,,,,,,,,,,,,,

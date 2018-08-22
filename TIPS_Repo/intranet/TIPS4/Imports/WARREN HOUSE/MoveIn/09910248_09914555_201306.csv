@@ -1,0 +1,5 @@
+BATCH,,201306,B,2915.0000,
+INVOICE,IN,,09910248,,06/10/2013,2915.0000,"MoveIn-Abo. Shizue",,06/10/2013,06/10/2013,,09914555,6480.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,21,86.0000,1806,"Basic Service Fee - Studio: Abo. Shizue",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,21,29.0000,609,"Resident Care - Level 2: Abo. Shizue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Abo. Shizue",,,,,,,,,,,,,,,

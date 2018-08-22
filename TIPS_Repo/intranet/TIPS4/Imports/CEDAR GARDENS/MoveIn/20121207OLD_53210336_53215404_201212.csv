@@ -1,0 +1,6 @@
+BATCH,,201212,B,4055.0000,
+INVOICE,IN,,53210336,,12/07/2012,4055.0000,"MoveIn-Puerner. Barbara",,12/07/2012,12/07/2012,,53215404,4055.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,25,86.0000,2150,"Basic Service Fee - Studio: Puerner. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,25,15.0000,375,"Resident Care - Level 1: Puerner. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Puerner. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: Puerner. Barbara",,,,,,,,,,,,,,,

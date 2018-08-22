@@ -1,0 +1,5 @@
+BATCH,,201209,B,3385.0000,
+INVOICE,IN,,02710130,,09/01/2012,3385.0000,"September_Rent-Shifflett. Mary",,09/01/2012,09/10/2012,,02714130,3634.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,30,95.0000,2850,"M.Shifflett: Basic Service Fee - Studio: Shifflett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202027,30,17.0000,510,"M.Shifflett: Resident Care - Level 1: Shifflett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Shifflett. Mary",,,,,,,,,,,,,,,

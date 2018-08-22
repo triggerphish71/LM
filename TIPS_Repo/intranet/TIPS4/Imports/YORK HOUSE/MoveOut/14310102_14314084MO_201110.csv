@@ -1,0 +1,7 @@
+BATCH,,201110,B,1310.0000,
+INVOICE,IN,,14310102,,10/01/2011,655.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14314084MO,-1910.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: Fox, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309143,31,20.0000,620.00,"Credit for Limited Term Discount: Fox, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,14310102,,10/01/2011,655,"Invoice-Private",,10/01/2011,10/10/2011,,14314084MO,-1910.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: Fox, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309143,31,20,620,"Limited Term Discount: Fox, Louise",,,,,,,,,,,,,,,

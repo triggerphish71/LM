@@ -1,0 +1,5 @@
+BATCH,,201302,B,1001.8000,
+INVOICE,IN,,00110172,,02/17/2013,1001.8000,"MoveIn-Bristow. Charles",,02/17/2013,02/17/2013,,00113459,3550.2000,,,,,,,,,,
+TRANSACTION,3010,010101001,12,74.0000,888,"Basic Service Fee - Studio: Bristow. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,12,7.4000,88.8,"Resident Care - Level 4: Bristow. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Bristow. Charles",,,,,,,,,,,,,,,

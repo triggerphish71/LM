@@ -1,0 +1,7 @@
+BATCH,,201203,B,3200.0000,
+INVOICE,IN,,50310246,,03/01/2012,100.0000,"Invoice-Private",,03/01/2012,03/01/2012,,50314065MO,-3000.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,75.0000,75.00,"Basic Service Fee - Studio for Mar: Skidmore, Howard ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,25.0000,25.00,"Resident Care - Level 2 for Mar: Skidmore, Howard ",,,,,,,,,,,,,,,
+INVOICE,CM,,50310246,,03/01/2012,3100,"Invoice-Private",,03/01/2012,03/01/2012,,50314065MO,-3000.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... H.Skidmore 201203: Skidmore, Howard ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,775,775,"CR:Resident Care -... H.Skidmore 201203: Skidmore, Howard ",,,,,,,,,,,,,,,

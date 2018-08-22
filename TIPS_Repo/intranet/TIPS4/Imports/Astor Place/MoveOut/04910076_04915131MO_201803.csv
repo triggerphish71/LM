@@ -1,0 +1,7 @@
+BATCH,,201803,B,6827.7000,
+INVOICE,IN,,04910076,,03/02/2018,413.8000,"Invoice-Private",,03/02/2018,03/02/2018,,04915131MO,-6000.1000,,,,,,,,,,
+TRANSACTION,3020,010001049,2,108.0000,216.00,"Basic Service Fee - Studio  for Mar: Rusinko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,2,98.9000,197.80,"Resident Care - Level 43  for Mar: Rusinko, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,04910076,,03/02/2018,6413.9,"Invoice-Private",,03/02/2018,03/02/2018,,04915131MO,-6000.1000,,,,,,,,,,
+TRANSACTION,3020,010001049,1,3348,3348,"CR:Basic Service F... D.Rusinko 201803: Rusinko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,1,3065.9,3065.9,"CR:Resident Care -... D.Rusinko 201803: Rusinko, Doris",,,,,,,,,,,,,,,

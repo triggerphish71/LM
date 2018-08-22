@@ -1,0 +1,8 @@
+BATCH,,201112,B,10471.0000,
+INVOICE,IN,,53010227,,12/01/2011,5130.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53015651MO,-211.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,30,114.0000,3420.00,"Basic Service Fee-One Bedroom Premi for Dec: Metzger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,30,57.0000,1710.00,"Resident Care - Level 3 for Dec: Metzger, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,53010227,,12/01/2011,5341,"Invoice-Private",,12/01/2011,12/10/2011,,53015651MO,-211.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3534,3534,"CR:Basic Service F... A.Metzger 201112: Metzger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... A.Metzger 201112: Metzger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1767,1767,"CR:Resident Care -... A.Metzger 201112: Metzger, Anna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,60.0000,
+INVOICE,IN,,19810038,,04/01/2012,30.0000,"Invoice-Private",,04/01/2012,04/10/2012,,19817124MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Grimes, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19810038,,04/01/2012,30,"Invoice-Private",,04/01/2012,04/10/2012,,19817124MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Grimes, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201112,B,3909.1000,
+INVOICE,IN,,05910093,,12/01/2011,62.0000,"Invoice-Private",,12/01/2011,12/10/2011,,05913191MO,-3785.1000,,,,,,,,,,
+TRANSACTION,3320,010101059,1,62.0000,62.00,"CR:Limited Term Di... S.Rogers 201112: Rogers, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,05910093,,12/01/2011,3847.1,"Invoice-Private",,12/01/2011,12/10/2011,,05913191MO,-3785.1000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,3162,3162,"CR:Basic Service F... S.Rogers 201112: Rogers, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,685.1,685.1,"CR:Resident Care -... S.Rogers 201112: Rogers, Stanley",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,5904.5000,
+INVOICE,IN,,00110140,,09/20/2011,2672.5000,"Invoice-Private",,09/20/2011,09/20/2011,,00113087MO,-3898.4000,,,,,,,,,,
+TRANSACTION,3020,010101001,25,78.0000,1950.00,"Basic Service Fee - One Bedroom for Sep: Culotta, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,25,28.9000,722.50,"Resident Care - Level 17 for Sep: Culotta, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,00110140,,09/20/2011,3232,"Invoice-Private",,09/20/2011,09/20/2011,,00113087MO,-3898.4000,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2340,2340,"CR:Basic Service F... P.Culotta 201109: Culotta, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... P.Culotta 201109: Culotta, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,867,867,"CR:Resident Care -... P.Culotta 201109: Culotta, Paul",,,,,,,,,,,,,,,

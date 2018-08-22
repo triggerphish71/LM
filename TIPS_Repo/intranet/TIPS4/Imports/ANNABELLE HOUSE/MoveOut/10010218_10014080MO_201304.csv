@@ -1,0 +1,5 @@
+BATCH,,201304,B,2785.0000,
+INVOICE,CM,,10010218,,04/01/2013,2785,"Invoice-Private",,04/01/2013,04/10/2013,,10014080MO,-4160.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2310,2310,"CR:Basic Service F... E.Ward 201304: Ward, Elva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... E.Ward 201304: Ward, Elva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,450,450,"CR:Resident Care -... E.Ward 201304: Ward, Elva",,,,,,,,,,,,,,,

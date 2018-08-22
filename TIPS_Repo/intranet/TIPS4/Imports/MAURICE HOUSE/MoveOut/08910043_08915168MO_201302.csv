@@ -1,0 +1,7 @@
+BATCH,,201302,B,2724.9500,
+INVOICE,CM,,08910043,,02/01/2013,2724.95,"Invoice-Medicaid",,02/01/2013,02/10/2013,,08915168MO,-4835.0200,,,,,,,,,,
+TRANSACTION,3031,010306089,1,10.4,10.4,"CR:Med Private CoP... M.Griets 201302: Griets, Matilda",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,148.12,148.12,"CR:Medicaid Co-Pay... M.Griets 201302: Griets, Matilda",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,10,10,"CR:Medicaid Room &... M.Griets 201302: Griets, Matilda",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,744.55,744.55,"CR:Medicaid Room &... M.Griets 201302: Griets, Matilda",,,,,,,,,,,,,,,
+TRANSACTION,3022,010306089,1,1811.88,1811.88,"CR:State Medicaid... M.Griets 201302: Griets, Matilda",,,,,,,,,,,,,,,

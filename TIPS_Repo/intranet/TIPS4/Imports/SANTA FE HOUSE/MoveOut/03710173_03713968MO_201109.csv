@@ -1,0 +1,8 @@
+BATCH,,201109,B,7217.0000,
+INVOICE,IN,,03710173,,09/14/2011,3472.0000,"Invoice-Private",,09/14/2011,09/14/2011,,03713968MO,-273.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,28,93.0000,2604.00,"Basic Service Fee - Studio for Sep: Hise, Iola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,28,31.0000,868.00,"Resident Care - Level 2 for Sep: Hise, Iola",,,,,,,,,,,,,,,
+INVOICE,CM,,03710173,,09/14/2011,3745,"Invoice-Private",,09/14/2011,09/14/2011,,03713968MO,-273.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2790,2790,"CR:Basic Service F... I.Hise 201109: Hise, Iola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25,25,"CR:Monthly Cable... I.Hise 201109: Hise, Iola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,930,930,"CR:Resident Care -... I.Hise 201109: Hise, Iola",,,,,,,,,,,,,,,

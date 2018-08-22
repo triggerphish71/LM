@@ -1,0 +1,5 @@
+BATCH,,201305,B,5700.0000,
+INVOICE,IN,,02710134,,05/27/2013,2755.0000,"Invoice-Private",,05/27/2013,05/27/2013,,02714431MO,-3040.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,29,95.0000,2755.00,"Room and Board - Studio for May: Keeney, Billie",,,,,,,,,,,,,,,
+INVOICE,CM,,02710134,,05/27/2013,2945,"Invoice-Private",,05/27/2013,05/27/2013,,02714431MO,-3040.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2945,2945,"CR:Room and Board ... B.Keeney 201305: Keeney, Billie",,,,,,,,,,,,,,,

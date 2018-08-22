@@ -1,0 +1,5 @@
+BATCH,,201111,B,2815.0000,
+INVOICE,IN,,13410243,,11/11/2011,2815.0000,"MoveIn-Houk. June",,11/11/2011,11/11/2011,,13415102,2815.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,20,89.0000,1780,"Basic Service Fee - Studio         : Houk. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Houk. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: Houk. June",,,,,,,,,,,,,,,

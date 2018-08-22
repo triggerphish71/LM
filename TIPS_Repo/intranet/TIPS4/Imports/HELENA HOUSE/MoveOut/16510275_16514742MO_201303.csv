@@ -1,0 +1,6 @@
+BATCH,,201303,B,2372.0000,
+INVOICE,CM,,16510275,,03/01/2013,2372,"Invoice-Private",,03/01/2013,03/10/2013,,16514742MO,-2372.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,1829,1829,"CR:Basic Service F... W.Hayes 201303: Hayes, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... W.Hayes 201303: Hayes, William",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308165,1,20,20,"CR:Pendant Fee... W.Hayes 201303: Hayes, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,496,496,"CR:Resident Care -... W.Hayes 201303: Hayes, William",,,,,,,,,,,,,,,

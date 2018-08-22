@@ -1,0 +1,7 @@
+BATCH,,201202,B,8788.0000,
+INVOICE,IN,,02910282,,02/23/2012,3887.0000,"Invoice-Private",,02/23/2012,02/23/2012,,02915483MO,-6253.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,23,116.0000,2668.00,"Basic Service Fee - One Bedroom for Feb: Walker, Leoma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,23,53.0000,1219.00,"Resident Care - Level 4 for Feb: Walker, Leoma",,,,,,,,,,,,,,,
+INVOICE,CM,,02910282,,02/23/2012,4901,"Invoice-Private",,02/23/2012,02/23/2012,,02915483MO,-6253.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3364,3364,"CR:Basic Service F... L.Walker 201202: Walker, Leoma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1537,1537,"CR:Resident Care -... L.Walker 201202: Walker, Leoma",,,,,,,,,,,,,,,

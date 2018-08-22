@@ -1,0 +1,6 @@
+BATCH,,201203,B,5611.0000,
+INVOICE,IN,,04310182,,03/01/2012,527.0000,"Invoice-Private",,03/01/2012,03/10/2012,,04313878MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,1,527.0000,527.00,"CR:Limited Term Di... M.Reedy 201203: Reedy, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,04310182,,03/01/2012,5084,"Invoice-Private",,03/01/2012,03/10/2012,,04313878MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,3038,3038,"CR:Basic Service F... M.Reedy 201203: Reedy, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,2046,2046,"CR:Resident Care -... M.Reedy 201203: Reedy, Mildred",,,,,,,,,,,,,,,

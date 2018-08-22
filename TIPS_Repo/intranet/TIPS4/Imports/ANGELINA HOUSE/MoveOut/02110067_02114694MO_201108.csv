@@ -1,0 +1,5 @@
+BATCH,,201108,B,6210.0000,
+INVOICE,IN,,02110067,,08/06/2011,2645.0000,"Invoice-Private",,08/06/2011,08/06/2011,,02114694MO,-920.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,23,115.0000,2645.00,"Basic Service Fee - One Bedroom for Aug: Bowerman, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,02110067,,08/06/2011,3565,"Invoice-Private",,08/06/2011,08/06/2011,,02114694MO,-920.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,3565,3565,"CR:Basic Service F... W.Bowerman 201108: Bowerman, Walter",,,,,,,,,,,,,,,

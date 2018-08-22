@@ -1,0 +1,7 @@
+BATCH,,201302,B,3140.0000,
+INVOICE,IN,,50110289,,01/25/2013,646.0000,"MoveIn-Wolf. Al",,01/25/2013,01/25/2013,,50114540,3140.0000,,,,,,,,,,
+TRANSACTION,3014,010209501,7,88.0000,616,"Basic Service Fee - Studio: Wolf. Al",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Wolf. Al",,,,,,,,,,,,,,,
+INVOICE,IN,,50110289,,02/01/2013,2494.0000,"February_Rent-Wolf. Al",,02/01/2013,02/10/2013,,50114540,3140.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,28,88.0000,2464,"Basic Service Fee - Studio: Wolf. Al",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Wolf. Al",,,,,,,,,,,,,,,

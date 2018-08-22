@@ -1,0 +1,7 @@
+BATCH,,201203,B,11136.0000,
+INVOICE,IN,,08910110,,03/01/2012,5184.0000,"Invoice-Private",,03/01/2012,03/10/2012,,08914724MO,-6528.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,27,111.0000,2997.00,"Basic Service Fee - Studio for Mar: Coursen, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,27,81.0000,2187.00,"Resident Care - Level 5 for Mar: Coursen, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,08910110,,03/01/2012,5952,"Invoice-Private",,03/01/2012,03/10/2012,,08914724MO,-6528.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3441,3441,"CR:Basic Service F... L.Coursen 201203: Coursen, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2511,2511,"CR:Resident Care -... L.Coursen 201203: Coursen, Louise",,,,,,,,,,,,,,,

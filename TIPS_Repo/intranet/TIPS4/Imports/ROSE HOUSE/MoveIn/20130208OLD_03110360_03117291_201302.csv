@@ -1,0 +1,5 @@
+BATCH,,201302,B,3106.0000,
+INVOICE,IN,,03110360,,02/08/2013,3106.0000,"MoveIn-Borel. Mary",,02/08/2013,02/08/2013,,03117291,3106.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,21,99.0000,2079,"M.Borel: Basic Service Fee - Studio: Borel. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Borel. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1000.0000,1000,"New Resident Fee: Borel. Mary",,,,,,,,,,,,,,,

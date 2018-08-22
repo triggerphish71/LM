@@ -1,0 +1,5 @@
+BATCH,,201212,B,1984.0000,
+INVOICE,IN,,07110158,,12/01/2012,992.0000,"Invoice-Private",,12/01/2012,12/10/2012,,07114485MO,-2547.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,31,32.0000,992.00,"Credit for Limited Term Discount: Skidmore, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,07110158,,12/01/2012,992,"Invoice-Private",,12/01/2012,12/10/2012,,07114485MO,-2547.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,31,32,992,"Limited Term Discount: Skidmore, Martha",,,,,,,,,,,,,,,

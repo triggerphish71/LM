@@ -1,0 +1,8 @@
+BATCH,,201208,B,4401.0000,
+INVOICE,IN,,06010182,,08/01/2012,2138.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06014426MO,-125.0000,,,,,,,,,,
+TRANSACTION,3321,010206060,1,1116.0000,1116.00,"CR:2nd Resident Fr... M.Rowe 201208: Rowe, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,14,36.0000,504.00,"Basic Service Fee - Second Resident for Aug: Rowe, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,14,37.0000,518.00,"Resident Care - Level 3 for Aug: Rowe, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06010182,,08/01/2012,2263,"Invoice-Private",,08/01/2012,08/10/2012,,06014426MO,-125.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1116,1116,"CR:Basic Service F... M.Rowe 201208: Rowe, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1147,1147,"CR:Resident Care -... M.Rowe 201208: Rowe, Mary",,,,,,,,,,,,,,,

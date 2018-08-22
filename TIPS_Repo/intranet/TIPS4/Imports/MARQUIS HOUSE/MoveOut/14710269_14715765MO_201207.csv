@@ -1,0 +1,6 @@
+BATCH,,201207,B,5672.0000,
+INVOICE,IN,,14710269,,07/19/2012,2510.0000,"Invoice-Private",,07/19/2012,07/19/2012,,14715765MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,62.0000,62.00,"CR:Limited Term Di... M.Smith 201207: Smith, Mary Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,24,102.0000,2448.00,"Basic Service Fee - Studio for Jul: Smith, Mary Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,14710269,,07/19/2012,3162,"Invoice-Private",,07/19/2012,07/19/2012,,14715765MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... M.Smith 201207: Smith, Mary Ellen",,,,,,,,,,,,,,,

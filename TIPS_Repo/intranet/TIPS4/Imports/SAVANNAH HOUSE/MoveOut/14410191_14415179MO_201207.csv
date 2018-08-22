@@ -1,0 +1,7 @@
+BATCH,,201207,B,180.0000,
+INVOICE,IN,,14410191,,07/01/2012,90.0000,"Invoice-Private",,07/01/2012,07/10/2012,,14415179MO,-3818.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Cotton, Kellinger",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2.0000,62.00,"Credit for Limited Term Discount: Cotton, Kellinger",,,,,,,,,,,,,,,
+INVOICE,CM,,14410191,,07/01/2012,90,"Invoice-Private",,07/01/2012,07/10/2012,,14415179MO,-3818.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Cotton, Kellinger",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2,62,"Limited Term Discount: Cotton, Kellinger",,,,,,,,,,,,,,,

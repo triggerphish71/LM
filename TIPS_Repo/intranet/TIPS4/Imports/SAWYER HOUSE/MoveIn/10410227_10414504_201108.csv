@@ -1,0 +1,6 @@
+BATCH,,201108,B,2586.5000,
+INVOICE,IN,,10410227,,08/27/2011,2586.5000,"MoveIn-Watson. Edward",,08/27/2011,08/27/2011,,10414504,5970.5000,,,,,,,,,,
+TRANSACTION,3010,010101104,5,100.0000,500,"E.Watson: Basic Service Fee - One Bedroom: Watson. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101104,5,11.9000,59.5,"E.Watson: Resident Care - Level 7: Watson. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101104,1,27.0000,27,"Monthly Cable: Watson. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000.0000,2000,"New Resident Fee: Watson. Edward",,,,,,,,,,,,,,,

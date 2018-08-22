@@ -1,0 +1,7 @@
+BATCH,,201205,B,3713.4900,
+INVOICE,IN,,15310237,,05/02/2012,225.0600,"Invoice-Private",,05/02/2012,05/02/2012,,15316033MO,-3263.3700,,,,,,,,,,
+TRANSACTION,3020,010103153,2,100.0000,200.00,"Basic Service Fee - Studio for May: Nehls, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,2,12.5300,25.06,"Resident Care - Level 7 for May: Nehls, Leland",,,,,,,,,,,,,,,
+INVOICE,CM,,15310237,,05/02/2012,3488.43,"Invoice-Private",,05/02/2012,05/02/2012,,15316033MO,-3263.3700,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... L.Nehls 201205: Nehls, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,388.43,388.43,"CR:Resident Care -... L.Nehls 201205: Nehls, Leland",,,,,,,,,,,,,,,

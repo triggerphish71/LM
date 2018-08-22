@@ -1,0 +1,4 @@
+BATCH,,201111,B,3567.0000,
+INVOICE,IN,,01110273,,11/01/2011,3567.0000,"November_Rent-Jones. Ronald",,11/01/2011,11/10/2011,,01113756,4923.7000,,,,,,,,,,
+TRANSACTION,3010,010101011,30,73.0000,2190,"Basic Service Fee - Studio         : Jones. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,30,45.9000,1377,"Resident Care - Level 27: Jones. Ronald",,,,,,,,,,,,,,,

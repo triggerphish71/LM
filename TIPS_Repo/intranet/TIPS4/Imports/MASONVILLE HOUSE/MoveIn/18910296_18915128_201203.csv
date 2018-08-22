@@ -1,0 +1,6 @@
+BATCH,,201203,B,4520.0000,
+INVOICE,IN,,18910296,,03/01/2012,4520.0000,"March_Rent-Corson. Aileen",,03/01/2012,03/10/2012,,18915128,6190.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,31,89.0000,2759,"Basic Service Fee - Studio: Corson. Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,31,46.0000,1426,"Resident Care - Level 3: Corson. Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Corson. Aileen",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310,"CC Meals: Corson. Aileen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,2286.0000,
+INVOICE,IN,,15310151,,08/01/2011,1143.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15315516MO,-3532.2000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Boyd, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103153,31,36.0000,1116.00,"Credit for Limited Term Discount: Boyd, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,15310151,,08/01/2011,1143,"Invoice-Private",,08/01/2011,08/10/2011,,15315516MO,-3532.2000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Boyd, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103153,31,36,1116,"Limited Term Discount: Boyd, Marian",,,,,,,,,,,,,,,

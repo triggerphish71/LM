@@ -1,0 +1,7 @@
+BATCH,,201301,B,6438.0000,
+INVOICE,IN,,16310292,,01/27/2013,2997.0000,"Invoice-Private",,01/27/2013,01/27/2013,,16317011MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,27,98.0000,2646.00,"Basic Service Fee - Studio for Jan: Henderson, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,27,13.0000,351.00,"Resident Care - Level 1 for Jan: Henderson, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,16310292,,01/27/2013,3441,"Invoice-Private",,01/27/2013,01/27/2013,,16317011MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3038,3038,"CR:Basic Service F... J.Henderson 201301: Henderson, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,403,403,"CR:Resident Care -... J.Henderson 201301: Henderson, Jackie",,,,,,,,,,,,,,,

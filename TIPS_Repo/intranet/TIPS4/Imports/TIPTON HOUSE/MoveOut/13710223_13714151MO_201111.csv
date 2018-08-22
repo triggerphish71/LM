@@ -1,0 +1,6 @@
+BATCH,,201111,B,6470.0000,
+INVOICE,IN,,13710223,,11/01/2011,2990.0000,"Invoice-Private",,11/01/2011,11/10/2011,,13714151MO,-490.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,26,115.0000,2990.00,"Basic Service Fee - One Bedroom for Nov: Ambriole, William",,,,,,,,,,,,,,,
+INVOICE,CM,,13710223,,11/01/2011,3480,"Invoice-Private",,11/01/2011,11/10/2011,,13714151MO,-490.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,3450,3450,"CR:Basic Service F... W.Ambriole 201111: Ambriole, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... W.Ambriole 201111: Ambriole, William",,,,,,,,,,,,,,,

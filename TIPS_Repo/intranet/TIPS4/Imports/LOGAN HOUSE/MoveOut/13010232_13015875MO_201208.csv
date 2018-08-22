@@ -1,0 +1,8 @@
+BATCH,,201208,B,5902.0000,
+INVOICE,IN,,13010232,,08/01/2012,1376.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13015875MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3320,010310130,1,62.0000,62.00,"CR:Limited Term Di... G.Ekas 201208: Ekas, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310130,9,127.0000,1143.00,"Basic Service Fee - One Bedroom for Aug: Ekas, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,9,19.0000,171.00,"Resident Care - Level 1 for Aug: Ekas, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,13010232,,08/01/2012,4526,"Invoice-Private",,08/01/2012,08/10/2012,,13015875MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3937,3937,"CR:Basic Service F... G.Ekas 201208: Ekas, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,589,589,"CR:Resident Care -... G.Ekas 201208: Ekas, Grace",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,4000.0000,
+INVOICE,IN,,10810295,,03/02/2013,4000.0000,"MoveIn-Frederick. Martha",,03/02/2013,03/02/2013,,10815174,4000.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,30,84.0000,2520,"Basic Service Fee - Studio         : Frederick. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308108,30,16.0000,480,"Resident Care - Level 1: Frederick. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Frederick. Martha",,,,,,,,,,,,,,,

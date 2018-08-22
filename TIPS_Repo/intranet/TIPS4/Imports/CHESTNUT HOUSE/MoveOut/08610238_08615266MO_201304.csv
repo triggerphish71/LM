@@ -1,0 +1,7 @@
+BATCH,,201304,B,7401.1600,
+INVOICE,IN,,08610238,,04/22/2013,3131.2600,"Invoice-Private",,04/22/2013,04/22/2013,,08615266MO,-5550.8700,,,,,,,,,,
+TRANSACTION,3020,010305086,22,10.0000,220.00,"Basic Service Fee - Second Resident for Apr: Fleming, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,22,132.3300,2911.26,"Resident Care - Level 6+27 pts for Apr: Fleming, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,08610238,,04/22/2013,4269.9,"Invoice-Private",,04/22/2013,04/22/2013,,08615266MO,-5550.8700,,,,,,,,,,
+TRANSACTION,3020,010305086,1,300,300,"CR:Basic Service F... E.Fleming 201304: Fleming, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,3969.9,3969.9,"CR:Resident Care -... E.Fleming 201304: Fleming, Earl",,,,,,,,,,,,,,,

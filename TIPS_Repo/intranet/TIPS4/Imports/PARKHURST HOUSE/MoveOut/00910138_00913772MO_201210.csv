@@ -1,0 +1,7 @@
+BATCH,,201210,B,4423.7700,
+INVOICE,IN,,00910138,,10/01/2012,907.4400,"Invoice-Private",,10/01/2012,10/10/2012,,00913772MO,-2608.8900,,,,,,,,,,
+TRANSACTION,3027,010101009,8,30.4300,243.44,"Resident Care - Level 17 for Oct: Hout, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,8,83.0000,664.00,"Room and Board - Studio for Oct: Hout, Erma",,,,,,,,,,,,,,,
+INVOICE,CM,,00910138,,10/01/2012,3516.33,"Invoice-Private",,10/01/2012,10/10/2012,,00913772MO,-2608.8900,,,,,,,,,,
+TRANSACTION,3027,010101009,1,943.33,943.33,"CR:Resident Care -... E.Hout 201210: Hout, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2573,2573,"CR:Room and Board ... E.Hout 201210: Hout, Erma",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,120.0000,
+INVOICE,IN,,52610149,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,52616286MO,-2108.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30.0000,30.00,"Garage Rental: Noe, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319526,30,1.0000,30.00,"Credit for Limited Term Discount: Noe, John",,,,,,,,,,,,,,,
+INVOICE,CM,,52610149,,11/01/2011,60,"Invoice-Private",,11/01/2011,11/10/2011,,52616286MO,-2108.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"Credit for Garage Rental: Noe, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319526,30,1,30,"Limited Term Discount: Noe, John",,,,,,,,,,,,,,,

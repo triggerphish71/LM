@@ -1,0 +1,8 @@
+BATCH,,201107,B,5025.2000,
+INVOICE,IN,,06110198,,07/04/2011,107.8000,"Invoice-Private",,07/04/2011,07/04/2011,,06113647MO,-4809.6000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,101.0000,101.00,"Basic Service Fee - One Bedroom for Jul: Dietz, Gale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,6.8000,6.80,"Service level: lvl 0 to lvl 4 - 7/4/11 for Jul: Dietz, Gale",,,,,,,,,,,,,,,
+INVOICE,CM,,06110198,,07/04/2011,4917.4,"Invoice-Private",,07/04/2011,07/04/2011,,06113647MO,-4809.6000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2727,2727,"CR:Basic Service F... G.Dietz 201107: Dietz, Gale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,2000,2000,"CR:New Resident Fe... G.Dietz 201107: Dietz, Gale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,190.4,190.4,"CR:Service level: ... G.Dietz 201107: Dietz, Gale",,,,,,,,,,,,,,,

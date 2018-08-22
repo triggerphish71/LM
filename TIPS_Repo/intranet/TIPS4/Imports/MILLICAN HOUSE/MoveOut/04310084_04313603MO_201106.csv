@@ -1,0 +1,5 @@
+BATCH,,201106,B,50.0000,
+INVOICE,IN,,04310084,,06/01/2011,25.0000,"Invoice-Private",,06/01/2011,06/10/2011,,04313603MO,-5357.0000,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25.00,"Monthly Cable: Shealy, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,04310084,,06/01/2011,25,"Invoice-Private",,06/01/2011,06/10/2011,,04313603MO,-5357.0000,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25,25,"Credit for Monthly Cable: Shealy, Marvin",,,,,,,,,,,,,,,

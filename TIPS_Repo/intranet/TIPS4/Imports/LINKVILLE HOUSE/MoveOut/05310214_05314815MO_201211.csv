@@ -1,0 +1,7 @@
+BATCH,,201211,B,4067.7600,
+INVOICE,IN,,05310214,,11/04/2012,478.5600,"Invoice-Private",,11/04/2012,11/04/2012,,05314815MO,-3110.6400,,,,,,,,,,
+TRANSACTION,3027,010101053,4,28.6400,114.56,"Resident Care - Level 16 for Nov: DelSanto, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,4,91.0000,364.00,"Room and Board - Studio for Nov: DelSanto, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,05310214,,11/04/2012,3589.2,"Invoice-Private",,11/04/2012,11/04/2012,,05314815MO,-3110.6400,,,,,,,,,,
+TRANSACTION,3027,010101053,1,859.2,859.2,"CR:Resident Care -... T.DelSanto 201211: DelSanto, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2730,2730,"CR:Room and Board ... T.DelSanto 201211: DelSanto, Thomas",,,,,,,,,,,,,,,

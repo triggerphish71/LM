@@ -1,0 +1,7 @@
+BATCH,,201205,B,130.0000,
+INVOICE,IN,,50110244,,05/01/2012,65.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50114046MO,-4445.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Anderson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35.00,"Pendant Fee: Anderson, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,50110244,,05/01/2012,65,"Invoice-Private",,05/01/2012,05/10/2012,,50114046MO,-4445.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Anderson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"Credit for Pendant Fee: Anderson, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,2111.0000,
+INVOICE,CM,,19810160,,10/01/2012,2111,"Invoice-Private",,10/01/2012,10/10/2012,,19817823MO,-2374.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2046,2046,"CR:Basic Service F... A.Smith 201210: Smith, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... A.Smith 201210: Smith, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"CR:Pendant Fee... A.Smith 201210: Smith, Alvin",,,,,,,,,,,,,,,

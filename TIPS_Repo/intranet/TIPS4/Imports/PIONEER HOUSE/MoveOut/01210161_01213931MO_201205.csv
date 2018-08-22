@@ -1,0 +1,5 @@
+BATCH,,201205,B,58.0000,
+INVOICE,IN,,01210161,,05/01/2012,29.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01213931MO,-4593.8300,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Fields, Werber",,,,,,,,,,,,,,,
+INVOICE,CM,,01210161,,05/01/2012,29,"Invoice-Private",,05/01/2012,05/10/2012,,01213931MO,-4593.8300,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Fields, Werber",,,,,,,,,,,,,,,

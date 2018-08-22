@@ -1,0 +1,6 @@
+BATCH,,201211,B,2347.4000,
+INVOICE,IN,,00110168,,11/16/2012,2347.4000,"MoveIn-Rhodes. Warren",,11/16/2012,11/16/2012,,00113396,5105.3600,,,,,,,,,,
+TRANSACTION,3010,010101001,15,81.0000,1215,"W.Rhodes: Basic Service Fee - One Bedroom: Rhodes. Warren",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,15,7.1600,107.4,"W.Rhodes: Resident Care - Level 4: Rhodes. Warren",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Rhodes. Warren",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Rhodes. Warren",,,,,,,,,,,,,,,

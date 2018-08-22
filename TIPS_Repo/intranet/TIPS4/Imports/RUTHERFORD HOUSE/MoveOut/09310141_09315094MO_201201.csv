@@ -1,0 +1,7 @@
+BATCH,,201201,B,7020.0000,
+INVOICE,IN,,09310141,,01/29/2012,3393.0000,"Invoice-Private",,01/29/2012,01/29/2012,,09315094MO,-3627.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,29,99.0000,2871.00,"Basic Service Fee - Studio for Jan: Crosby, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,29,18.0000,522.00,"Resident Care - Level 1 for Jan: Crosby, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,09310141,,01/29/2012,3627,"Invoice-Private",,01/29/2012,01/29/2012,,09315094MO,-3627.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... L.Crosby 201201: Crosby, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,558,558,"CR:Resident Care -... L.Crosby 201201: Crosby, Louise",,,,,,,,,,,,,,,

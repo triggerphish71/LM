@@ -1,0 +1,7 @@
+BATCH,,201110,B,3458.0000,
+INVOICE,IN,,20210131,,10/01/2011,637.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20212337MO,-2184.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,7,11.0000,77.00,"Resident Care - Level 1 for Oct: Sikes, Ardell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,7,80.0000,560.00,"Room and Board - Studio for Oct: Sikes, Ardell",,,,,,,,,,,,,,,
+INVOICE,CM,,20210131,,10/01/2011,2821,"Invoice-Private",,10/01/2011,10/10/2011,,20212337MO,-2184.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... A.Sikes 201110: Sikes, Ardell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Room and Board ... A.Sikes 201110: Sikes, Ardell",,,,,,,,,,,,,,,

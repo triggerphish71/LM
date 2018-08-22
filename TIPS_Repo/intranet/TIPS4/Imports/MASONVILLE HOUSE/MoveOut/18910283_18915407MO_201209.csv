@@ -1,0 +1,7 @@
+BATCH,,201209,B,6124.0000,
+INVOICE,IN,,18910283,,09/01/2012,2434.0000,"Invoice-Private",,09/01/2012,09/10/2012,,18915407MO,-1256.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,1530.0000,1530.00,"CR:Limited Term Di... G.Dekay 201209: Dekay, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315189,8,113.0000,904.00,"Basic Service Fee - One Bedroom for Sep: Dekay, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,18910283,,09/01/2012,3690,"Invoice-Private",,09/01/2012,09/10/2012,,18915407MO,-1256.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,3390,3390,"CR:Basic Service F... G.Dekay 201209: Dekay, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,300,300,"CR:CC Meals... G.Dekay 201209: Dekay, Gerald",,,,,,,,,,,,,,,

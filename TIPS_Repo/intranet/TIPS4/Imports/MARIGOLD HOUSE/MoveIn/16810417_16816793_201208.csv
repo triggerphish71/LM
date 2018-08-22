@@ -1,0 +1,8 @@
+BATCH,,201208,B,6198.0000,
+INVOICE,IN,,16810417,,07/31/2012,1889.0000,"MoveIn-Butler. Martha",,07/31/2012,07/31/2012,,16816793,6198.0000,,,,,,,,,,
+TRANSACTION,3014,010313168,1,118.0000,118,"Basic Service Fee - One BR Premium: Butler. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,1,21.0000,21,"Resident Care - Level 2: Butler. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Butler. Martha",,,,,,,,,,,,,,,
+INVOICE,IN,,16810417,,08/01/2012,4309.0000,"August_Rent-Butler. Martha",,08/01/2012,08/10/2012,,16816793,6198.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,31,118.0000,3658,"Basic Service Fee - One BR Premium: Butler. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,31,21.0000,651,"Resident Care - Level 2: Butler. Martha",,,,,,,,,,,,,,,

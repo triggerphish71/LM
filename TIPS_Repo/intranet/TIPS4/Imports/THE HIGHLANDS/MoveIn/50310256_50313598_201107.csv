@@ -1,0 +1,6 @@
+BATCH,,201107,B,3685.0000,
+INVOICE,IN,,50310256,,07/07/2011,3685.0000,"MoveIn-Carty. Elizabeth",,07/07/2011,07/07/2011,,50313598,3685.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,25,72.0000,1800,"Basic Service Fee - Studio: Carty. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,25,14.0000,350,"Resident Care - Level 1: Carty. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Carty. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Carty. Elizabeth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,6270.0000,
+INVOICE,IN,,07310242,,09/01/2012,2850.0000,"Invoice-Private",,09/01/2012,09/10/2012,,07315744MO,-570.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,25,97.0000,2425.00,"Basic Service Fee - Studio for Sep: Moreland, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,25,17.0000,425.00,"Resident Care - Level 1 for Sep: Moreland, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,07310242,,09/01/2012,3420,"Invoice-Private",,09/01/2012,09/10/2012,,07315744MO,-570.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2910,2910,"CR:Basic Service F... N.Moreland 201209: Moreland, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,510,510,"CR:Resident Care -... N.Moreland 201209: Moreland, Norma",,,,,,,,,,,,,,,

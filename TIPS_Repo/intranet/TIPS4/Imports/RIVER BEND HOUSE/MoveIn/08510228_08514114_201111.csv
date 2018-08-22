@@ -1,0 +1,5 @@
+BATCH,,201111,B,3262.0000,
+INVOICE,IN,,08510228,,11/19/2011,3262.0000,"MoveIn-Smith. Charlotte",,11/19/2011,11/19/2011,,08514114,7168.0000,,,,,,,,,,
+TRANSACTION,3010,010305085,12,110.0000,1320,"Basic Service Fee - One Bedroom: Smith. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305085,12,16.0000,192,"Resident Care - Level 1: Smith. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305085,1,1750.0000,1750,"New Resident Fee: Smith. Charlotte",,,,,,,,,,,,,,,

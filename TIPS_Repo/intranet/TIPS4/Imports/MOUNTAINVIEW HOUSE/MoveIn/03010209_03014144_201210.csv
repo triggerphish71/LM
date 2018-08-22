@@ -1,0 +1,6 @@
+BATCH,,201210,B,3606.0000,
+INVOICE,IN,,03010209,,09/28/2012,1002.0000,"MoveIn-Patzsch. Dottie",,09/28/2012,09/28/2012,,03014144,3606.0000,,,,,,,,,,
+TRANSACTION,3014,010103030,3,84.0000,252,"Basic Service Fee - Studio: Patzsch. Dottie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,750.0000,750,"New Resident Fee: Patzsch. Dottie",,,,,,,,,,,,,,,
+INVOICE,IN,,03010209,,10/01/2012,2604.0000,"October_Rent-Patzsch. Dottie",,10/01/2012,10/10/2012,,03014144,3606.0000,,,,,,,,,,
+TRANSACTION,3010,010103030,31,84.0000,2604,"Basic Service Fee - Studio: Patzsch. Dottie",,,,,,,,,,,,,,,

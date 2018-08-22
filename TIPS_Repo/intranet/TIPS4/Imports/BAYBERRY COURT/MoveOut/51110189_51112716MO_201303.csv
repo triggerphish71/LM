@@ -1,0 +1,5 @@
+BATCH,,201303,B,54.0000,
+INVOICE,IN,,51110189,,03/01/2013,27.0000,"Invoice-Private",,03/01/2013,03/10/2013,,51112716MO,-3163.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Ipoletta, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,51110189,,03/01/2013,27,"Invoice-Private",,03/01/2013,03/10/2013,,51112716MO,-3163.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Ipoletta, Mary",,,,,,,,,,,,,,,

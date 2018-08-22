@@ -1,0 +1,7 @@
+BATCH,,201110,B,5145.0000,
+INVOICE,IN,,13510270,,10/01/2011,1457.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13514867MO,-939.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,1457.0000,1457.00,"CR:Limited Term Di... H.Brozio 201110: Brozio, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510270,,10/01/2011,3688,"Invoice-Private",,10/01/2011,10/10/2011,,13514867MO,-939.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2697,2697,"CR:Basic Service F... H.Brozio 201110: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Brozio 201110: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... H.Brozio 201110: Brozio, Helen",,,,,,,,,,,,,,,

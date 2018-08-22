@@ -1,0 +1,5 @@
+BATCH,,201303,B,50.0000,
+INVOICE,IN,,02810239,,03/01/2013,25.0000,"Invoice-Private",,03/01/2013,03/10/2013,,02815613MO,-6783.0000,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25.00,"Monthly Cable: Bennett, Sidney",,,,,,,,,,,,,,,
+INVOICE,CM,,02810239,,03/01/2013,25,"Invoice-Private",,03/01/2013,03/10/2013,,02815613MO,-6783.0000,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25,25,"Credit for Monthly Cable: Bennett, Sidney",,,,,,,,,,,,,,,

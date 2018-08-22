@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,02810203,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,02815709MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3130,010202028,1,30.0000,30.00,"Pendant Fee: Ledbetter, Lola",,,,,,,,,,,,,,,
+INVOICE,CM,,02810203,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,02815709MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3130,010202028,1,30,30,"Credit for Pendant Fee: Ledbetter, Lola",,,,,,,,,,,,,,,

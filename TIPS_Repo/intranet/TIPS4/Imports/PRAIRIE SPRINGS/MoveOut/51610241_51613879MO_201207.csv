@@ -1,0 +1,5 @@
+BATCH,,201207,B,6554.0000,
+INVOICE,IN,,51610241,,07/27/2012,3051.0000,"Invoice-Private",,07/27/2012,07/27/2012,,51613879MO,-3955.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,27,113.0000,3051.00,"Room and Board - One Bedroom for Jul: Haag, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,51610241,,07/27/2012,3503,"Invoice-Private",,07/27/2012,07/27/2012,,51613879MO,-3955.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3503,3503,"CR:Room and Board ... M.Haag 201207: Haag, Marjorie",,,,,,,,,,,,,,,

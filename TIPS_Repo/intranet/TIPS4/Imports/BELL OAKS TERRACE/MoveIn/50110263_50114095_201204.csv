@@ -1,0 +1,5 @@
+BATCH,,201204,B,1470.0000,
+INVOICE,IN,,50110263,,04/26/2012,1470.0000,"MoveIn-Chambers. Marjory",,04/26/2012,04/26/2012,,50114095,4228.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,5,88.0000,440,"Basic Service Fee - Studio: Chambers. Marjory",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Chambers. Marjory",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Chambers. Marjory",,,,,,,,,,,,,,,

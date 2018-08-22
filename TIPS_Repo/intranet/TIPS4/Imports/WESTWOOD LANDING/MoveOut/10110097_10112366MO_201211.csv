@@ -1,0 +1,7 @@
+BATCH,,201211,B,5375.0000,
+INVOICE,IN,,10110097,,11/08/2012,1625.0000,"Invoice-Private",,11/08/2012,11/08/2012,,10112366MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,13,110.0000,1430.00,"Basic Service Fee- One Bedroom Prem for Nov: Burkhart, Dama",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,13,15.0000,195.00,"Resident Care - Level 1 for Nov: Burkhart, Dama",,,,,,,,,,,,,,,
+INVOICE,CM,,10110097,,11/08/2012,3750,"Invoice-Private",,11/08/2012,11/08/2012,,10112366MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,3300,3300,"CR:Basic Service F... D.Burkhart 201211: Burkhart, Dama",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,450,450,"CR:Resident Care -... D.Burkhart 201211: Burkhart, Dama",,,,,,,,,,,,,,,

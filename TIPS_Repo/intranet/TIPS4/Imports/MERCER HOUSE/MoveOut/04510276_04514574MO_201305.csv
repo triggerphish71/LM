@@ -1,0 +1,7 @@
+BATCH,,201305,B,5208.0000,
+INVOICE,IN,,04510276,,05/25/2013,2325.0000,"Invoice-Private",,05/25/2013,05/25/2013,,04514574MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,25,77.0000,1925.00,"Basic Service Fee - Studio for May: Richardson, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,25,16.0000,400.00,"Resident Care - Level 1 for May: Richardson, Melba",,,,,,,,,,,,,,,
+INVOICE,CM,,04510276,,05/25/2013,2883,"Invoice-Private",,05/25/2013,05/25/2013,,04514574MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2387,2387,"CR:Basic Service F... M.Richardson 201305: Richardson, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... M.Richardson 201305: Richardson, Melba",,,,,,,,,,,,,,,

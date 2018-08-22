@@ -1,0 +1,8 @@
+BATCH,,201107,B,7228.0000,
+INVOICE,IN,,14010153,,07/26/2011,3540.0000,"Invoice-Private",,07/26/2011,07/26/2011,,14013516MO,-3836.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,30,85.0000,2550.00,"Basic Service Fee - Studio for Jul: Lutter, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,30,33.0000,990.00,"Resident Care - Level 2 for Jul: Lutter, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,14010153,,07/26/2011,3688,"Invoice-Private",,07/26/2011,07/26/2011,,14013516MO,-3836.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2635,2635,"CR:Basic Service F... C.Lutter 201107: Lutter, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... C.Lutter 201107: Lutter, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1023,1023,"CR:Resident Care -... C.Lutter 201107: Lutter, Clarence",,,,,,,,,,,,,,,

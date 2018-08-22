@@ -1,0 +1,7 @@
+BATCH,,201304,B,2691.0000,
+INVOICE,IN,,17510241,,04/04/2013,621.0000,"Invoice-Private",,04/04/2013,04/04/2013,,17517995MO,-1449.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,9,57.0000,513.00,"Basic Service Fee - Studio Deluxe for Apr: Rogers, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,9,12.0000,108.00,"Resident Care - Level 1 for Apr: Rogers, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17510241,,04/04/2013,2070,"Invoice-Private",,04/04/2013,04/04/2013,,17517995MO,-1449.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1710,1710,"CR:Basic Service F... M.Rogers 201304: Rogers, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,360,360,"CR:Resident Care -... M.Rogers 201304: Rogers, Mary",,,,,,,,,,,,,,,

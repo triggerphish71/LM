@@ -1,0 +1,6 @@
+BATCH,,201110,B,4592.0000,
+INVOICE,IN,,10410233,,10/13/2011,4592.0000,"MoveIn-Sevich. Anthony",,10/13/2011,10/13/2011,,10414537,4592.0000,,,,,,,,,,
+TRANSACTION,3010,010101104,19,84.0000,1596,"Basic Service Fee - Studio         : Sevich. Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101104,19,51.0000,969,"Resident Care - Level 30: Sevich. Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101104,1,27.0000,27,"Monthly Cable: Sevich. Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000.0000,2000,"New Resident Fee: Sevich. Anthony",,,,,,,,,,,,,,,

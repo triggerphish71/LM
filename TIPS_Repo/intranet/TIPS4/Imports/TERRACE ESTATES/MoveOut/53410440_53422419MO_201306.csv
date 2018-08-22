@@ -1,0 +1,6 @@
+BATCH,,201306,B,3990.0000,
+INVOICE,IN,,53410440,,06/01/2013,1260.0000,"Invoice-Private",,06/01/2013,06/10/2013,,53422419MO,-1470.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,14,90.0000,1260.00,"Basic Service Fee - Two Bedroom for Jun: Bowe, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,53410440,,06/01/2013,2730,"Invoice-Private",,06/01/2013,06/10/2013,,53422419MO,-1470.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2700,2700,"CR:Basic Service F... L.Bowe 201306: Bowe, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... L.Bowe 201306: Bowe, Lois",,,,,,,,,,,,,,,

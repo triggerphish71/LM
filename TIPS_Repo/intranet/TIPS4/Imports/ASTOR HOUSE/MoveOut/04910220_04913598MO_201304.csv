@@ -1,0 +1,7 @@
+BATCH,,201304,B,5684.8000,
+INVOICE,IN,,04910220,,04/04/2013,668.8000,"Invoice-Private",,04/04/2013,04/04/2013,,04913598MO,-4347.2000,,,,,,,,,,
+TRANSACTION,3027,010101049,4,59.2000,236.80,"Resident Care - Level 32 for Apr: Leonard, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101049,4,108.0000,432.00,"Room and Board - One Bedroom for Apr: Leonard, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,04910220,,04/04/2013,5016,"Invoice-Private",,04/04/2013,04/04/2013,,04913598MO,-4347.2000,,,,,,,,,,
+TRANSACTION,3027,010101049,1,1776,1776,"CR:Resident Care -... E.Leonard 201304: Leonard, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101049,1,3240,3240,"CR:Room and Board ... E.Leonard 201304: Leonard, Edna",,,,,,,,,,,,,,,

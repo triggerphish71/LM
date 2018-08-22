@@ -1,0 +1,7 @@
+BATCH,,201304,B,4898.0000,
+INVOICE,IN,,07210182,,04/01/2013,158.0000,"Invoice-Private",,04/01/2013,04/10/2013,,07214355MO,-4582.0000,,,,,,,,,,
+TRANSACTION,3027,010305072,1,48.0000,48.00,"Resident Care - Level 3 for Apr: Cook, Marvalene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,1,110.0000,110.00,"Room and Board - Deluxe for Apr: Cook, Marvalene",,,,,,,,,,,,,,,
+INVOICE,CM,,07210182,,04/01/2013,4740,"Invoice-Private",,04/01/2013,04/10/2013,,07214355MO,-4582.0000,,,,,,,,,,
+TRANSACTION,3027,010305072,1,1440,1440,"CR:Resident Care -... M.Cook 201304: Cook, Marvalene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3300,3300,"CR:Room and Board ... M.Cook 201304: Cook, Marvalene",,,,,,,,,,,,,,,

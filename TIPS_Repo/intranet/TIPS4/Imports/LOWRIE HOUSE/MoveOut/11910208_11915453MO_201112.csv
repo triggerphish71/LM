@@ -1,0 +1,5 @@
+BATCH,,201112,B,52.0000,
+INVOICE,IN,,11910208,,12/01/2011,26.0000,"Invoice-Private",,12/01/2011,12/10/2011,,11915453MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Howk, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,11910208,,12/01/2011,26,"Invoice-Private",,12/01/2011,12/10/2011,,11915453MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Howk, Carolyn",,,,,,,,,,,,,,,

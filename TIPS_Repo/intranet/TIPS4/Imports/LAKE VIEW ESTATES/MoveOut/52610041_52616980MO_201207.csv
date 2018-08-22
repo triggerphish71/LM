@@ -1,0 +1,6 @@
+BATCH,,201207,B,6696.0000,
+INVOICE,IN,,52610041,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,52616980MO,-6572.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,62.0000,62.00,"CR:Limited Term Di... N.Mathos 201207: Mathos, Natalie",,,,,,,,,,,,,,,
+INVOICE,CM,,52610041,,07/01/2012,6634,"Invoice-Private",,07/01/2012,07/10/2012,,52616980MO,-6572.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3627,3627,"CR:Basic Service F... N.Mathos 201207: Mathos, Natalie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,3007,3007,"CR:Resident Care -... N.Mathos 201207: Mathos, Natalie",,,,,,,,,,,,,,,

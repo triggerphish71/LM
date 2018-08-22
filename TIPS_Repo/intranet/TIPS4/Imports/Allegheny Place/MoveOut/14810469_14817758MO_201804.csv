@@ -1,0 +1,7 @@
+BATCH,,201804,B,7884.0000,
+INVOICE,IN,,14810469,,04/06/2018,1314.0000,"Invoice-Private",,04/06/2018,04/06/2018,,14817758MO,-5256.0000,,,,,,,,,,
+TRANSACTION,3020,010010148,6,119.0000,714.00,"Basic Service Fee - Studio  for Apr: Sutton, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010148,6,100.0000,600.00,"Resident Care - Level 6  for Apr: Sutton, Madeline",,,,,,,,,,,,,,,
+INVOICE,CM,,14810469,,04/06/2018,6570,"Invoice-Private",,04/06/2018,04/06/2018,,14817758MO,-5256.0000,,,,,,,,,,
+TRANSACTION,3020,010010148,1,3570,3570,"CR:Basic Service F... M.Sutton 201804: Sutton, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010148,1,3000,3000,"CR:Resident Care -... M.Sutton 201804: Sutton, Madeline",,,,,,,,,,,,,,,

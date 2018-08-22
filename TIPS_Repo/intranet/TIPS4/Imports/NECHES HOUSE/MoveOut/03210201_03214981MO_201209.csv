@@ -1,0 +1,5 @@
+BATCH,,201209,B,2340.0000,
+INVOICE,IN,,03210201,,09/01/2012,1170.0000,"Invoice-Private",,09/01/2012,09/10/2012,,03214981MO,-3430.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,30,39.0000,1170.00,"Credit for Limited Term Discount: Glidden, George",,,,,,,,,,,,,,,
+INVOICE,CM,,03210201,,09/01/2012,1170,"Invoice-Private",,09/01/2012,09/10/2012,,03214981MO,-3430.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,30,39,1170,"Limited Term Discount: Glidden, George",,,,,,,,,,,,,,,

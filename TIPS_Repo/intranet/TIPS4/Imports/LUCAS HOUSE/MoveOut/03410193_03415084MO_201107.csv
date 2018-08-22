@@ -1,0 +1,7 @@
+BATCH,,201107,B,1536.0000,
+INVOICE,IN,,03410193,,07/01/2011,48.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03415084MO,-1440.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,35.0000,35.00,"Basic Service Fee - Second Resident for Jul: Mack, Vina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,13.0000,13.00,"Resident Care - Level 1 for Jul: Mack, Vina",,,,,,,,,,,,,,,
+INVOICE,CM,,03410193,,07/01/2011,1488,"Invoice-Private",,07/01/2011,07/10/2011,,03415084MO,-1440.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,1085,1085,"CR:Basic Service F... V.Mack 201107: Mack, Vina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... V.Mack 201107: Mack, Vina",,,,,,,,,,,,,,,

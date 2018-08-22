@@ -1,0 +1,7 @@
+BATCH,,201204,B,4522.0000,
+INVOICE,IN,,20610245,,04/04/2012,532.0000,"Invoice-Private",,04/04/2012,04/04/2012,,20612670MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,4,42.0000,168.00,"Resident Care - Level 4 for Apr: Marcus, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,4,91.0000,364.00,"Studio for Apr: Marcus, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,20610245,,04/04/2012,3990,"Invoice-Private",,04/04/2012,04/04/2012,,20612670MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1260,1260,"CR:Resident Care -... B.Marcus 201204: Marcus, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2730,2730,"CR:Studio... B.Marcus 201204: Marcus, Beatrice",,,,,,,,,,,,,,,

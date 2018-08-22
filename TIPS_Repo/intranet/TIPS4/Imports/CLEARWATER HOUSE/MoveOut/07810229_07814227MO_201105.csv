@@ -1,0 +1,6 @@
+BATCH,,201105,B,4991.0000,
+INVOICE,IN,,07810229,,05/01/2011,899.0000,"Invoice-Private",,05/01/2011,05/10/2011,,07814227MO,-3758.0000,,,,,,,,,,
+TRANSACTION,3320,010104078,1,899.0000,899.00,"CR:Limited Term Di... J.Cornwell 201105: Cornwell, James (Jim)",,,,,,,,,,,,,,,
+INVOICE,CM,,07810229,,05/01/2011,4092,"Invoice-Private",,05/01/2011,05/10/2011,,07814227MO,-3758.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2759,2759,"CR:Basic Service F... J.Cornwell 201105: Cornwell, James (Jim)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1333,1333,"CR:Resident Care -... J.Cornwell 201105: Cornwell, James (Jim)",,,,,,,,,,,,,,,

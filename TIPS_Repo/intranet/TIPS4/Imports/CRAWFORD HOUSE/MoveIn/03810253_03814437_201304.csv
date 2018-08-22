@@ -1,0 +1,6 @@
+BATCH,,201304,B,3335.6500,
+INVOICE,IN,,03810253,,04/20/2013,3335.6500,"MoveIn-Jewett. Rodney",,04/20/2013,04/20/2013,,03814437,7054.3000,,,,,,,,,,
+TRANSACTION,3010,010103038,11,84.0000,924,"Basic Service Fee - Studio: Jewett. Rodney",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,11,35.1500,386.65,"Resident Care - Level 19: Jewett. Rodney",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Jewett. Rodney",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Jewett. Rodney",,,,,,,,,,,,,,,

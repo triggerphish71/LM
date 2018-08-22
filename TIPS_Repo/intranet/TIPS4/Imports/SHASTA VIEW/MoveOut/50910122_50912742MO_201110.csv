@@ -1,0 +1,5 @@
+BATCH,,201110,B,2108.0000,
+INVOICE,IN,,50910122,,10/01/2011,1054.0000,"Invoice-Private",,10/01/2011,10/10/2011,,50912742MO,1020.0000,,,,,,,,,,
+TRANSACTION,3321,010101509,31,34.0000,1054.00,"Credit for 2nd Resident Free Discount: Foster, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,50910122,,10/01/2011,1054,"Invoice-Private",,10/01/2011,10/10/2011,,50912742MO,1020.0000,,,,,,,,,,
+TRANSACTION,3321,010101509,31,34,1054,"2nd Resident Free Discount: Foster, Ralph",,,,,,,,,,,,,,,

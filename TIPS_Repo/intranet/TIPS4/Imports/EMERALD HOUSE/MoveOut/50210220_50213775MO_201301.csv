@@ -1,0 +1,7 @@
+BATCH,,201301,B,1920.0000,
+INVOICE,IN,,50210220,,01/05/2013,128.0000,"Invoice-Private",,01/05/2013,01/05/2013,,50213775MO,-1664.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,2,38.0000,76.00,"Basic Service Fee - Second Resident for Jan: Schnarr, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,2,26.0000,52.00,"Resident Care - Level 2 for Jan: Schnarr, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,50210220,,01/05/2013,1792,"Invoice-Private",,01/05/2013,01/05/2013,,50213775MO,-1664.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,1064,1064,"CR:Basic Service F... L.Schnarr 201301: Schnarr, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,728,728,"CR:Resident Care -... L.Schnarr 201301: Schnarr, Lois",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,2914.0000,
+INVOICE,IN,,08810234,,01/01/2013,1457.0000,"Invoice-Private",,01/01/2013,01/10/2013,,08814547MO,-2632.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,47.0000,1457.00,"Credit for Limited Term Discount: Johnson, Charlie",,,,,,,,,,,,,,,
+INVOICE,CM,,08810234,,01/01/2013,1457,"Invoice-Private",,01/01/2013,01/10/2013,,08814547MO,-2632.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,47,1457,"Limited Term Discount: Johnson, Charlie",,,,,,,,,,,,,,,

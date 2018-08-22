@@ -1,0 +1,7 @@
+BATCH,,201205,B,4598.0000,
+INVOICE,IN,,07310224,,05/13/2012,1571.0000,"Invoice-Private",,05/13/2012,05/13/2012,,07315553MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3320,010305073,1,310.0000,310.00,"CR:Limited Term Di... A.Mackey 201205: Mackey, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,13,97.0000,1261.00,"Basic Service Fee - Studio for May: Mackey, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,07310224,,05/13/2012,3027,"Invoice-Private",,05/13/2012,05/13/2012,,07315553MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... A.Mackey 201205: Mackey, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... A.Mackey 201205: Mackey, Anna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,1750.0000,
+INVOICE,IN,,01210254,,08/01/2012,250.0000,"August_Rent-Kuszwara. Naomi",,08/01/2012,08/10/2012,,01214035,3043.8000,,,,,,,,,,
+TRANSACTION,3216,010103012,1,250.0000,250,"Monthly Deferral Charge: Kuszwara. Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,01210254,,08/01/2012,1500.0000,"August_Rent-Kuszwara. Naomi",,08/01/2012,08/10/2012,,01214035,3043.8000,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500,1500,"New Resident Fee Deferred: Kuszwara. Naomi",,,,,,,,,,,,,,,

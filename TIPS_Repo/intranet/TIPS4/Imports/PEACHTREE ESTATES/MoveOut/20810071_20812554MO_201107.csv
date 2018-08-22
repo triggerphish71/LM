@@ -1,0 +1,7 @@
+BATCH,,201107,B,4625.0000,
+INVOICE,IN,,20810071,,07/01/2011,750.0000,"Invoice-Private",,07/01/2011,07/10/2011,,20812554MO,-3125.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,6,74.0000,444.00,"Basic Service Fee - Studio for Jul: Floyd, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,6,51.0000,306.00,"Resident Care - Level 5 for Jul: Floyd, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,20810071,,07/01/2011,3875,"Invoice-Private",,07/01/2011,07/10/2011,,20812554MO,-3125.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2294,2294,"CR:Basic Service F... V.Floyd 201107: Floyd, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1581,1581,"CR:Resident Care -... V.Floyd 201107: Floyd, Violet",,,,,,,,,,,,,,,

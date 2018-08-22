@@ -1,0 +1,7 @@
+BATCH,,201208,B,3716.0000,
+INVOICE,IN,,03610286,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,03615210MO,-5195.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,62.0000,62.00,"CR:Limited Term Di... M.Massarini 201208: Massarini, Michiko",,,,,,,,,,,,,,,
+INVOICE,CM,,03610286,,08/01/2012,3654,"Invoice-Private",,08/01/2012,08/10/2012,,03615210MO,-5195.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... M.Massarini 201208: Massarini, Michiko",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... M.Massarini 201208: Massarini, Michiko",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,496,496,"CR:Resident Care -... M.Massarini 201208: Massarini, Michiko",,,,,,,,,,,,,,,

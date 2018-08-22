@@ -1,0 +1,5 @@
+BATCH,,201110,B,527.0000,
+INVOICE,IN,,14210171,,10/01/2011,263.5000,"Invoice-Private",,10/01/2011,10/10/2011,,14213637MO,-3476.5000,,,,,,,,,,
+TRANSACTION,3312,010309142,31,8.5000,263.50,"Credit for Two Room Rental Discount: Darby, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,14210171,,10/01/2011,263.5,"Invoice-Private",,10/01/2011,10/10/2011,,14213637MO,-3476.5000,,,,,,,,,,
+TRANSACTION,3312,010309142,31,8.5,263.5,"Two Room Rental Discount: Darby, Marilyn",,,,,,,,,,,,,,,

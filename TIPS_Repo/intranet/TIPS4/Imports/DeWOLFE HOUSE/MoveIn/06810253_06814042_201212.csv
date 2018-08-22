@@ -1,0 +1,5 @@
+BATCH,,201212,B,2106.0000,
+INVOICE,IN,,06810253,,12/26/2012,2106.0000,"MoveIn-Lavenia. Gus",,12/26/2012,12/26/2012,,06814042,5237.0000,,,,,,,,,,
+TRANSACTION,3010,010305068,6,85.0000,510,"Basic Service Fee - Studio: Lavenia. Gus",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305068,6,16.0000,96,"Resident Care - Level 1: Lavenia. Gus",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305068,1,1500.0000,1500,"New Resident Fee: Lavenia. Gus",,,,,,,,,,,,,,,

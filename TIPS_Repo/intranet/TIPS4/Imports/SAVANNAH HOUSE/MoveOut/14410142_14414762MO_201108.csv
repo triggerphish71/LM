@@ -1,0 +1,8 @@
+BATCH,,201108,B,4838.0000,
+INVOICE,IN,,14410142,,08/01/2011,780.0000,"Invoice-Private",,08/01/2011,08/10/2011,,14414762MO,-3278.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,6,101.0000,606.00,"Basic Service Fee - Studio for Aug: McCarty, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,6,29.0000,174.00,"Resident Care - Level 2 for Aug: McCarty, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,14410142,,08/01/2011,4058,"Invoice-Private",,08/01/2011,08/10/2011,,14414762MO,-3278.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3131,3131,"CR:Basic Service F... R.McCarty 201108: McCarty, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... R.McCarty 201108: McCarty, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,899,899,"CR:Resident Care -... R.McCarty 201108: McCarty, Roy",,,,,,,,,,,,,,,

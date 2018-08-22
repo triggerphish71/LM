@@ -1,0 +1,5 @@
+BATCH,,201205,B,3611.0000,
+INVOICE,IN,,13410260,,05/04/2012,3611.0000,"MoveIn-Beyers. Winnie",,05/04/2012,05/04/2012,,13415444,3611.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,28,92.0000,2576,"Basic Service Fee - Studio: Beyers. Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Beyers. Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: Beyers. Winnie",,,,,,,,,,,,,,,

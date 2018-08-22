@@ -1,0 +1,7 @@
+BATCH,,201307,B,5771.0000,
+INVOICE,IN,,03910194,,07/01/2013,2686.5000,"Invoice-Private",,07/01/2013,07/10/2013,,03914780MO,-398.0000,,,,,,,,,,
+TRANSACTION,3020,010101039,27,81.0000,2187.00,"Basic Service Fee - One Bedroom for Jul: Larson, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,27,18.5000,499.50,"Resident Care - Level 10 for Jul: Larson, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03910194,,07/01/2013,3084.5,"Invoice-Private",,07/01/2013,07/10/2013,,03914780MO,-398.0000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2511,2511,"CR:Basic Service F... B.Larson 201307: Larson, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,573.5,573.5,"CR:Resident Care -... B.Larson 201307: Larson, Betty",,,,,,,,,,,,,,,

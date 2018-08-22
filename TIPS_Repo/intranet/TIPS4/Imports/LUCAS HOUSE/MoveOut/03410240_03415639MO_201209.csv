@@ -1,0 +1,7 @@
+BATCH,,201209,B,1914.0000,
+INVOICE,IN,,03410240,,09/01/2012,957.0000,"Invoice-Private",,09/01/2012,09/10/2012,,03415639MO,-2773.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Modlin, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,31.0000,930.00,"Credit for Limited Term Discount: Modlin, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,03410240,,09/01/2012,957,"Invoice-Private",,09/01/2012,09/10/2012,,03415639MO,-2773.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Modlin, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,31,930,"Limited Term Discount: Modlin, Martha",,,,,,,,,,,,,,,

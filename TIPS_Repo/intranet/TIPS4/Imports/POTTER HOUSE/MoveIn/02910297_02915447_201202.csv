@@ -1,0 +1,6 @@
+BATCH,,201202,B,4725.0000,
+INVOICE,IN,,02910297,,02/10/2012,4725.0000,"MoveIn-Cunningham. Bernard",,02/10/2012,02/10/2012,,02915447,4725.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,20,116.0000,2320,"Basic Service Fee - One Bedroom: Cunningham. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,20,44.0000,880,"Resident Care - Level 3: Cunningham. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Cunningham. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Cunningham. Bernard",,,,,,,,,,,,,,,

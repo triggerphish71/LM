@@ -1,0 +1,7 @@
+BATCH,,201211,B,160.0000,
+INVOICE,IN,,06010050,,11/01/2012,80.0000,"Invoice-Private",,11/01/2012,11/10/2012,,06014450MO,-2830.0000,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40.0000,40.00,"Pendant Fee: Heemstra, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Heemstra, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,06010050,,11/01/2012,80,"Invoice-Private",,11/01/2012,11/10/2012,,06014450MO,-2830.0000,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"Credit for Pendant Fee: Heemstra, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Heemstra, Ruth",,,,,,,,,,,,,,,

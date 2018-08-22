@@ -1,0 +1,7 @@
+BATCH,,201207,B,2406.0000,
+INVOICE,IN,,10910206,,07/01/2012,1203.0000,"Invoice-Private",,07/01/2012,07/10/2012,,10914727MO,-3262.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Longfellow, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305109,31,38.0000,1178.00,"Credit for Limited Term Discount: Longfellow, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,10910206,,07/01/2012,1203,"Invoice-Private",,07/01/2012,07/10/2012,,10914727MO,-3262.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Longfellow, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305109,31,38,1178,"Limited Term Discount: Longfellow, Betty",,,,,,,,,,,,,,,

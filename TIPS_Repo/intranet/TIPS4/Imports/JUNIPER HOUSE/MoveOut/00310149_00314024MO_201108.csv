@@ -1,0 +1,7 @@
+BATCH,,201108,B,1232.0000,
+INVOICE,IN,,00310149,,08/01/2011,616.0000,"Invoice-Private",,08/01/2011,08/10/2011,,00314024MO,-4782.6000,,,,,,,,,,
+TRANSACTION,3320,010101003,31,19.0000,589.00,"Credit for Limited Term Discount: Harper, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27.00,"Monthly Cable: Harper, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,00310149,,08/01/2011,616,"Invoice-Private",,08/01/2011,08/10/2011,,00314024MO,-4782.6000,,,,,,,,,,
+TRANSACTION,3320,010101003,31,19,589,"Limited Term Discount: Harper, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"Credit for Monthly Cable: Harper, Helen",,,,,,,,,,,,,,,

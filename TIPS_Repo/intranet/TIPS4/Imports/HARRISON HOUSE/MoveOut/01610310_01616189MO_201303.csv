@@ -1,0 +1,7 @@
+BATCH,,201303,B,970.7000,
+INVOICE,IN,,01610310,,03/01/2013,485.3500,"Invoice-Private",,03/01/2013,03/10/2013,,01616189MO,-3430.8500,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25.0000,25.00,"Monthly Cable: Russell, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3316,010202016,31,14.8500,460.35,"Credit for Employee Discount: Russell, Hollis",,,,,,,,,,,,,,,
+INVOICE,CM,,01610310,,03/01/2013,485.35,"Invoice-Private",,03/01/2013,03/10/2013,,01616189MO,-3430.8500,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"Credit for Monthly Cable: Russell, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3316,010202016,31,14.85,460.35,"Employee Discount: Russell, Hollis",,,,,,,,,,,,,,,

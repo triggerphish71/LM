@@ -1,0 +1,5 @@
+BATCH,,201112,B,5432.0000,
+INVOICE,IN,,10710345,,12/10/2011,5432.0000,"MoveIn-Smith. Raymond",,12/10/2011,12/10/2011,,10715906,5432.0000,,,,,,,,,,
+TRANSACTION,3010,010107107,22,98.0000,2156,"Basic Service Fee - Studio: Smith. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107107,22,58.0000,1276,"Resident Care - Level 4: Smith. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107107,1,2000.0000,2000,"New Resident Fee: Smith. Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,1500.0000,
+INVOICE,IN,,02010256,,07/01/2012,375.0000,"July_Rent-Wagoner. Martin",,07/01/2012,07/10/2012,,02014518,6440.0000,,,,,,,,,,
+TRANSACTION,3216,010202020,1,375.0000,375,"Monthly Deferral Charge: Wagoner. Martin",,,,,,,,,,,,,,,
+INVOICE,CM,,02010256,,07/01/2012,1125.0000,"July_Rent-Wagoner. Martin",,07/01/2012,07/10/2012,,02014518,6440.0000,,,,,,,,,,
+TRANSACTION,3216,010202020,1,1125,1125,"New Resident Fee Deferred: Wagoner. Martin",,,,,,,,,,,,,,,

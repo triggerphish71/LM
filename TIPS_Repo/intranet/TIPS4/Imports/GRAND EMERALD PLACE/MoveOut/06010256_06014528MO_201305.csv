@@ -1,0 +1,8 @@
+BATCH,,201305,B,3285.8500,
+INVOICE,IN,,06010256,,05/05/2013,455.8500,"Invoice-Private",,05/05/2013,05/05/2013,,06014528MO,-2374.1500,,,,,,,,,,
+TRANSACTION,3020,010206060,5,36.1700,180.85,"Increase Room and Board for May: Phillips, Elnora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,5,55.0000,275.00,"Room and Board - Studio for May: Phillips, Elnora",,,,,,,,,,,,,,,
+INVOICE,CM,,06010256,,05/05/2013,2830,"Invoice-Private",,05/05/2013,05/05/2013,,06014528MO,-2374.1500,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1085,1085,"CR:Increase Room a... E.Phillips 201305: Phillips, Elnora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... E.Phillips 201305: Phillips, Elnora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1705,1705,"CR:Room and Board ... E.Phillips 201305: Phillips, Elnora",,,,,,,,,,,,,,,

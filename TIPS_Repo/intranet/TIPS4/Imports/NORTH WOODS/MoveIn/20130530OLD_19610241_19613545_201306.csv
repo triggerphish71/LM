@@ -1,0 +1,5 @@
+BATCH,,201306,B,3005.0000,
+INVOICE,IN,,19610241,,06/01/2013,3005.0000,"June_Rent-Berg. Edward",,06/01/2013,06/10/2013,,19613545,5238.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,30,89.0000,2670,"E.Berg: Basic Service Fee - Studio: Berg. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Berg. Edward",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,30,10.0000,300,"CC Meals: Berg. Edward",,,,,,,,,,,,,,,

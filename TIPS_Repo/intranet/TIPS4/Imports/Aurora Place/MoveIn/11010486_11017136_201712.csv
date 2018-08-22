@@ -1,0 +1,7 @@
+BATCH,,201712,B,4447.9700,
+INVOICE,IN,,11010486,,12/22/2017,4447.9700,"MoveIn-Dawson. Bill",,12/22/2017,12/22/2017,,11017136,8287.2700,,,,,,,,,,
+TRANSACTION,3010,010007110,15,105.0000,1575,"Basic Service Fee - Studio         : Dawson. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,10,18.0000,180,"Resident Care - Level 1: Dawson. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,2000.0000,2000,"Community Fee: Dawson. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Dawson. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,666.6700,666.67,"Monthly Deferral Charge: Dawson. Bill",,,,,,,,,,,,,,,

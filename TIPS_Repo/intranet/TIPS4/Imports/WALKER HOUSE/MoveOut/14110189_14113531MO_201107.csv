@@ -1,0 +1,7 @@
+BATCH,,201107,B,5959.0000,
+INVOICE,IN,,14110189,,07/01/2011,2828.0000,"Invoice-Private",,07/01/2011,07/10/2011,,14113531MO,-3434.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,28,84.0000,2352.00,"Basic Service Fee - Studio for Jul: Legan, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,28,17.0000,476.00,"Resident Care - Level 1 for Jul: Legan, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,14110189,,07/01/2011,3131,"Invoice-Private",,07/01/2011,07/10/2011,,14113531MO,-3434.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2604,2604,"CR:Basic Service F... E.Legan 201107: Legan, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,527,527,"CR:Resident Care -... E.Legan 201107: Legan, Esther",,,,,,,,,,,,,,,

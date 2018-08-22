@@ -1,0 +1,8 @@
+BATCH,,201209,B,5564.0000,
+INVOICE,IN,,14510322,,09/13/2012,1724.0000,"Invoice-Private",,09/13/2012,09/13/2012,,14515621MO,-2116.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,60.0000,60.00,"CR:Limited Term Di... R.Bryant 201209: Bryant, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,13,99.0000,1287.00,"Basic Service Fee - Studio for Sep: Bryant, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,13,29.0000,377.00,"Resident Care - Level 2 for Sep: Bryant, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,14510322,,09/13/2012,3840,"Invoice-Private",,09/13/2012,09/13/2012,,14515621MO,-2116.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2970,2970,"CR:Basic Service F... R.Bryant 201209: Bryant, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,870,870,"CR:Resident Care -... R.Bryant 201209: Bryant, Richard",,,,,,,,,,,,,,,

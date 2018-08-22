@@ -1,0 +1,5 @@
+BATCH,,201105,B,4337.0000,
+INVOICE,IN,,53110259,,05/13/2011,4337.0000,"MoveIn-Grippe. Anna",,05/13/2011,05/13/2011,,53113610,4337.0000,,,,,,,,,,
+TRANSACTION,3010,010319531,19,95.0000,1805,"Basic Service Fee - Studio: Grippe. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,19,28.0000,532,"Resident Care - Level 2: Grippe. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,2000.0000,2000,"New Resident Fee: Grippe. Anna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,3289.0000,
+INVOICE,IN,,01310236,,07/11/2013,3289.0000,"MoveIn-Nolan. Helen",,07/11/2013,07/11/2013,,01314504,3289.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,21,72.0000,1512,"Basic Service Fee - Studio: Nolan. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,21,37.0000,777,"Resident Care - Level 20: Nolan. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Nolan. Helen",,,,,,,,,,,,,,,

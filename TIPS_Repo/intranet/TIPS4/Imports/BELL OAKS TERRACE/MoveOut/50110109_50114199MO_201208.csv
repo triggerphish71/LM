@@ -1,0 +1,7 @@
+BATCH,,201208,B,556.0000,
+INVOICE,IN,,50110109,,08/01/2012,278.0000,"Invoice-Private",,08/01/2012,08/10/2012,,50114199MO,-4332.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Hunt, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,8.0000,248.00,"Credit for Limited Term Discount: Hunt, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,50110109,,08/01/2012,278,"Invoice-Private",,08/01/2012,08/10/2012,,50114199MO,-4332.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Hunt, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,8,248,"Limited Term Discount: Hunt, Robert",,,,,,,,,,,,,,,

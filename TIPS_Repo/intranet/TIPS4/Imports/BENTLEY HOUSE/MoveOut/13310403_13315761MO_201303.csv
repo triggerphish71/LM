@@ -1,0 +1,7 @@
+BATCH,,201303,B,4836.0000,
+INVOICE,IN,,13310403,,03/05/2013,992.0000,"Invoice-Private",,03/05/2013,03/05/2013,,13315761MO,-2852.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,8,92.0000,736.00,"Basic Service Fee - Studio for Mar: Thompson, Delber",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,8,32.0000,256.00,"Resident Care - Level 2 for Mar: Thompson, Delber",,,,,,,,,,,,,,,
+INVOICE,CM,,13310403,,03/05/2013,3844,"Invoice-Private",,03/05/2013,03/05/2013,,13315761MO,-2852.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... D.Thompson 201303: Thompson, Delber",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... D.Thompson 201303: Thompson, Delber",,,,,,,,,,,,,,,

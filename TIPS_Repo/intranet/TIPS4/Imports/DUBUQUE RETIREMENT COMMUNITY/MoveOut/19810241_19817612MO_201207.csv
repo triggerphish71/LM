@@ -1,0 +1,8 @@
+BATCH,,201207,B,4459.0000,
+INVOICE,IN,,19810241,,07/29/2012,2348.0000,"Invoice-Private",,07/29/2012,07/29/2012,,19817612MO,-1440.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,434.0000,434.00,"CR:Limited Term Di... P.Conefrey 201207: Conefrey, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,29,66.0000,1914.00,"Basic Service Fee AL - One Bedroom for Jul: Conefrey, Patrick",,,,,,,,,,,,,,,
+INVOICE,CM,,19810241,,07/29/2012,2111,"Invoice-Private",,07/29/2012,07/29/2012,,19817612MO,-1440.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2046,2046,"CR:Basic Service F... P.Conefrey 201207: Conefrey, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... P.Conefrey 201207: Conefrey, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"CR:Pendant Fee... P.Conefrey 201207: Conefrey, Patrick",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201207,B,6167.3000,
+INVOICE,IN,,03910235,,07/03/2012,6167.3000,"MoveIn-Stockmar. Regina",,07/03/2012,07/03/2012,,03914502,6167.3000,,,,,,,,,,
+TRANSACTION,3010,010101039,29,90.0000,2610,"Basic Service Fee - Studio: Stockmar. Regina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,29,53.7000,1557.3,"Resident Care - Level 30: Stockmar. Regina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Stockmar. Regina",,,,,,,,,,,,,,,

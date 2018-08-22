@@ -1,0 +1,6 @@
+BATCH,,201105,B,3270.0000,
+INVOICE,IN,,12910286,,05/24/2011,3270.0000,"MoveIn-Stanczak. Bernice",,05/24/2011,05/24/2011,,12915334,7950.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,8,92.0000,736,"Basic Service Fee - Studio         : Stanczak. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,8,63.0000,504,"Resident Care - Level 4: Stanczak. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Stanczak. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Stanczak. Bernice",,,,,,,,,,,,,,,

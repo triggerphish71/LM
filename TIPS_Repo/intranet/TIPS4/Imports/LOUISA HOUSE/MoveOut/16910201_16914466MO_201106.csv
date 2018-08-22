@@ -1,0 +1,5 @@
+BATCH,,201106,B,1320.0000,
+INVOICE,IN,,16910201,,06/14/2011,420.0000,"Invoice-Private",,06/14/2011,06/14/2011,,16914466MO,-480.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,14,30.0000,420.00,"Basic Service Fee - Second Resident for Jun: Drubek, Brenda",,,,,,,,,,,,,,,
+INVOICE,CM,,16910201,,06/14/2011,900,"Invoice-Private",,06/14/2011,06/14/2011,,16914466MO,-480.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,900,900,"CR:Basic Service F... B.Drubek 201106: Drubek, Brenda",,,,,,,,,,,,,,,

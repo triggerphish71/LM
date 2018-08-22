@@ -1,0 +1,7 @@
+BATCH,,201203,B,860.0000,
+INVOICE,IN,,05210199,,03/01/2012,430.0000,"Invoice-Private",,03/01/2012,03/10/2012,,05214748MO,-2521.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27.00,"Monthly Cable: Mounger, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202052,31,13.0000,403.00,"Credit for Limited Term Discount: Mounger, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,05210199,,03/01/2012,430,"Invoice-Private",,03/01/2012,03/10/2012,,05214748MO,-2521.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"Credit for Monthly Cable: Mounger, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202052,31,13,403,"Limited Term Discount: Mounger, Ruby",,,,,,,,,,,,,,,

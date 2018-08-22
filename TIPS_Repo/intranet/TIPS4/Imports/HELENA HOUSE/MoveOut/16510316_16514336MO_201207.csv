@@ -1,0 +1,8 @@
+BATCH,,201207,B,4027.0000,
+INVOICE,IN,,16510316,,07/11/2012,750.0000,"Invoice-Private",,07/11/2012,07/11/2012,,16514336MO,-2527.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,6,97.0000,582.00,"Basic Service Fee - Studio for Jul: Barnwell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,6,28.0000,168.00,"Resident Care - Level 2 for Jul: Barnwell, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,16510316,,07/11/2012,3277,"Invoice-Private",,07/11/2012,07/11/2012,,16514336MO,-2527.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2522,2522,"CR:Basic Service F... M.Barnwell 201207: Barnwell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... M.Barnwell 201207: Barnwell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,728,728,"CR:Resident Care -... M.Barnwell 201207: Barnwell, Margaret",,,,,,,,,,,,,,,

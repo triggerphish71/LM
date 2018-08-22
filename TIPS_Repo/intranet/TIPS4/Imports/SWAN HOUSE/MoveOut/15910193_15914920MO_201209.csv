@@ -1,0 +1,8 @@
+BATCH,,201209,B,5287.0000,
+INVOICE,IN,,15910193,,09/01/2012,1852.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15914920MO,-1583.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,60.0000,60.00,"CR:Limited Term Di... I.Schrad 201209: Schrad, Irma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212159,16,112.0000,1792.00,"Basic Service Fee - One Bedroom for Sep: Schrad, Irma",,,,,,,,,,,,,,,
+INVOICE,CM,,15910193,,09/01/2012,3435,"Invoice-Private",,09/01/2012,09/10/2012,,15914920MO,-1583.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3360,3360,"CR:Basic Service F... I.Schrad 201209: Schrad, Irma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... I.Schrad 201209: Schrad, Irma",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212159,1,45,45,"CR:Pendant Fee... I.Schrad 201209: Schrad, Irma",,,,,,,,,,,,,,,

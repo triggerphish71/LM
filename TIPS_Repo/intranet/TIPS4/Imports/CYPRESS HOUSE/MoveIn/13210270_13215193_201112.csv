@@ -1,0 +1,5 @@
+BATCH,,201112,B,5375.0000,
+INVOICE,IN,,13210270,,12/05/2011,5375.0000,"MoveIn-Stewart. Virginia",,12/05/2011,12/05/2011,,13215193,5375.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,27,124.0000,3348,"Basic Service Fee - One Bedroom: Stewart. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Stewart. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Stewart. Virginia",,,,,,,,,,,,,,,

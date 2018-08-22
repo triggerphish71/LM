@@ -1,0 +1,5 @@
+BATCH,,201304,B,3505.0000,
+INVOICE,IN,,10910294,,04/01/2013,3505.0000,"April_Rent-King. Billy  "Bill"",,04/01/2013,04/10/2013,,10915239,5878.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,30,100.0000,3000,"Basic Service Fee- One Bedroom Premium: King. Billy  "Bill"",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,30,16.0000,480,"Resident Care - Level 1: King. Billy  "Bill"",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: King. Billy  "Bill"",,,,,,,,,,,,,,,

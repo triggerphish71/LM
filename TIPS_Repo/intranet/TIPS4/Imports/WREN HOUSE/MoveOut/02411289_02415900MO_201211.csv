@@ -1,0 +1,7 @@
+BATCH,,201211,B,1314.0000,
+INVOICE,IN,,02411289,,11/01/2012,657.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02415900MO,291.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Carlock, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,21.0000,630.00,"Credit for Limited Term Discount: Carlock, Charlene",,,,,,,,,,,,,,,
+INVOICE,CM,,02411289,,11/01/2012,657,"Invoice-Private",,11/01/2012,11/10/2012,,02415900MO,291.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Carlock, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,21,630,"Limited Term Discount: Carlock, Charlene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,70.0000,
+INVOICE,IN,,06410193,,12/01/2012,35.0000,"Invoice-Private",,12/01/2012,12/10/2012,,06413764MO,-3575.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35.00,"Monthly Cable: Meister, Charlie",,,,,,,,,,,,,,,
+INVOICE,CM,,06410193,,12/01/2012,35,"Invoice-Private",,12/01/2012,12/10/2012,,06413764MO,-3575.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"Credit for Monthly Cable: Meister, Charlie",,,,,,,,,,,,,,,

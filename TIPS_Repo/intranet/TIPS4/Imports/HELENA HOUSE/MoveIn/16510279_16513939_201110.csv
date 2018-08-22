@@ -1,0 +1,6 @@
+BATCH,,201110,B,4352.0000,
+INVOICE,IN,,16510279,,10/07/2011,4352.0000,"MoveIn-Sawyer. Janet",,10/07/2011,10/07/2011,,16513939,4352.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,25,97.0000,2425,"Basic Service Fee - Studio         : Sawyer. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,25,16.0000,400,"Resident Care - Level 1: Sawyer. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Sawyer. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: Sawyer. Janet",,,,,,,,,,,,,,,

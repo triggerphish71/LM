@@ -1,0 +1,6 @@
+BATCH,,201106,B,3306.5000,
+INVOICE,IN,,03810213,,06/20/2011,3306.5000,"MoveIn-Langham. Edger",,06/20/2011,06/20/2011,,03813891,6943.0000,,,,,,,,,,
+TRANSACTION,3010,010103038,11,91.0000,1001,"Basic Service Fee - One Bedroom    : Langham. Edger",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,11,25.5000,280.5,"Resident Care - Level 15: Langham. Edger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Langham. Edger",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Langham. Edger",,,,,,,,,,,,,,,

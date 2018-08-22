@@ -1,0 +1,7 @@
+BATCH,,201105,B,7535.0000,
+INVOICE,IN,,10710258,,05/24/2011,3288.0000,"Invoice-Private",,05/24/2011,05/24/2011,,10715562MO,-5069.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,24,109.0000,2616.00,"Basic Service Fee - One Bedroom for May: Janes, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,24,28.0000,672.00,"Resident Care - Level 2 for May: Janes, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,10710258,,05/24/2011,4247,"Invoice-Private",,05/24/2011,05/24/2011,,10715562MO,-5069.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3379,3379,"CR:Basic Service F... L.Janes 201105: Janes, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,868,868,"CR:Resident Care -... L.Janes 201105: Janes, Linda",,,,,,,,,,,,,,,

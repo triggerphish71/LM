@@ -1,0 +1,5 @@
+BATCH,,201110,B,1123.0000,
+INVOICE,IN,,12010234,,10/31/2011,1123.0000,"MoveIn-Purvis. Barbara",,10/31/2011,10/31/2011,,12014142,3943.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,1,93.0000,93,"Basic Service Fee - One Bedroom    : Purvis. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Purvis. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Purvis. Barbara",,,,,,,,,,,,,,,

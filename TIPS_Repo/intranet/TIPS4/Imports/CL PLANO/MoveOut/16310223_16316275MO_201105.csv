@@ -1,0 +1,6 @@
+BATCH,,201105,B,5479.0000,
+INVOICE,IN,,16310223,,05/01/2011,2255.0000,"Invoice-Private",,05/01/2011,05/10/2011,,16316275MO,-969.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,279.0000,279.00,"CR:Limited Term Di... M.Smith 201105: Smith, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,19,104.0000,1976.00,"Basic Service Fee - Deluxe for May: Smith, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,16310223,,05/01/2011,3224,"Invoice-Private",,05/01/2011,05/10/2011,,16316275MO,-969.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3224,3224,"CR:Basic Service F... M.Smith 201105: Smith, Mabel",,,,,,,,,,,,,,,

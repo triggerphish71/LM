@@ -1,0 +1,7 @@
+BATCH,,201207,B,4494.0000,
+INVOICE,IN,,50110109,,07/01/2012,248.0000,"Invoice-Private",,07/01/2012,07/10/2012,,50114199MO,-4332.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,248.0000,248.00,"CR:Limited Term Di... R.Hunt 201207: Hunt, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,50110109,,07/01/2012,4246,"Invoice-Private",,07/01/2012,07/10/2012,,50114199MO,-4332.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... R.Hunt 201207: Hunt, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... R.Hunt 201207: Hunt, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1488,1488,"CR:Resident Care -... R.Hunt 201207: Hunt, Robert",,,,,,,,,,,,,,,

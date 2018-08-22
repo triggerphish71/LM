@@ -1,0 +1,8 @@
+BATCH,,201205,B,5500.4000,
+INVOICE,IN,,01010169,,05/29/2012,3026.9100,"Invoice-Private",,05/29/2012,05/29/2012,,01012816MO,-1096.5800,,,,,,,,,,
+TRANSACTION,3320,010101010,1,713.0000,713.00,"CR:Limited Term Di... P.Jacobs 201205: Jacobs, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101010,29,78.0000,2262.00,"Basic Service Fee - Studio for May: Jacobs, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,29,1.7900,51.91,"Resident Care - Level 1 for May: Jacobs, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,01010169,,05/29/2012,2473.49,"Invoice-Private",,05/29/2012,05/29/2012,,01012816MO,-1096.5800,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2418,2418,"CR:Basic Service F... P.Jacobs 201205: Jacobs, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,55.49,55.49,"CR:Resident Care -... P.Jacobs 201205: Jacobs, Paul",,,,,,,,,,,,,,,

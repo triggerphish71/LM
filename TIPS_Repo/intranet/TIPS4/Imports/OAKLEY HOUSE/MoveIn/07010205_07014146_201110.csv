@@ -1,0 +1,5 @@
+BATCH,,201110,B,4019.0000,
+INVOICE,IN,,07010205,,10/01/2011,4019.0000,"October_Rent-Hamilton. Keith",,10/01/2011,10/10/2011,,07014146,5668.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,31,113.0000,3503,"Basic Service Fee - One Bedroom    : Hamilton. Keith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,31,16.0000,496,"Resident Care - Level 1: Hamilton. Keith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Hamilton. Keith",,,,,,,,,,,,,,,

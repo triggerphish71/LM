@@ -1,0 +1,8 @@
+BATCH,,201203,B,8275.0000,
+INVOICE,IN,,02710120,,03/01/2012,3600.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02713948MO,-1075.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,24,95.0000,2280.00,"Basic Service Fee - Studio for Mar: Welch, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,24,55.0000,1320.00,"Resident Care - Level 4 for Mar: Welch, Nelson",,,,,,,,,,,,,,,
+INVOICE,CM,,02710120,,03/01/2012,4675,"Invoice-Private",,03/01/2012,03/10/2012,,02713948MO,-1075.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2945,2945,"CR:Basic Service F... N.Welch 201203: Welch, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"CR:Monthly Cable... N.Welch 201203: Welch, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,1705,1705,"CR:Resident Care -... N.Welch 201203: Welch, Nelson",,,,,,,,,,,,,,,

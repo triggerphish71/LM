@@ -1,0 +1,5 @@
+BATCH,,201712,B,10006.2000,
+INVOICE,IN,,07110218,,12/01/2017,10006.2000,"MoveIn-Steiner. Nancy",,12/01/2017,12/01/2017,,07116805,10006.2000,,,,,,,,,,
+TRANSACTION,3010,010005071,31,109.0000,3379,"Basic Service Fee - Studio: Steiner. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005071,1,3313.6000,3313.6,"Community Fee: Steiner. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005071,1,3313.6000,3313.6,"Monthly Deferral Charge: Steiner. Nancy",,,,,,,,,,,,,,,

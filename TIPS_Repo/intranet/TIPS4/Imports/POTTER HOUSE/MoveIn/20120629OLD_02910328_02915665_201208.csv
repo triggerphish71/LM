@@ -1,0 +1,5 @@
+BATCH,,201208,B,1666.6700,
+INVOICE,IN,,02910328,,07/01/2012,166.6700,"July_Rent-Bollinger. Johnnie",,07/01/2012,07/10/2012,,02915665,3466.6700,,,,,,,,,,
+TRANSACTION,3216,010202029,1,166.6700,166.67,"Monthly Deferral Charge: Bollinger. Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910328,,07/01/2012,1500.0000,"July_Rent-Bollinger. Johnnie",,07/01/2012,07/10/2012,,02915665,3466.6700,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500,1500,"New Resident Fee Deferred: Bollinger. Johnnie",,,,,,,,,,,,,,,

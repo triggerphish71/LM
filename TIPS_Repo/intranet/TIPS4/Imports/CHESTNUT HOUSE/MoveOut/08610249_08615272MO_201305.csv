@@ -1,0 +1,7 @@
+BATCH,,201305,B,3105.0000,
+INVOICE,IN,,08610249,,05/12/2013,966.0000,"Invoice-Private",,05/12/2013,05/12/2013,,08615272MO,-1173.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,14,10.0000,140.00,"Basic Service Fee - Second Resident for May: Bunning, Clarence Russel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,14,59.0000,826.00,"Resident Care - Level 4 for May: Bunning, Clarence Russel",,,,,,,,,,,,,,,
+INVOICE,CM,,08610249,,05/12/2013,2139,"Invoice-Private",,05/12/2013,05/12/2013,,08615272MO,-1173.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,310,310,"CR:Basic Service F... C.Bunning 201305: Bunning, Clarence Russel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1829,1829,"CR:Resident Care -... C.Bunning 201305: Bunning, Clarence Russel",,,,,,,,,,,,,,,

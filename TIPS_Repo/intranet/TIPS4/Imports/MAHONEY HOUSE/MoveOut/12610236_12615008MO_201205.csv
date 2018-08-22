@@ -1,0 +1,8 @@
+BATCH,,201205,B,6890.0000,
+INVOICE,IN,,12610236,,05/26/2012,3480.0000,"Invoice-Private",,05/26/2012,05/26/2012,,12615008MO,-2630.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,1,620.0000,620.00,"CR:Limited Term Di... E.Rathje 201205: Rathje, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211126,26,92.0000,2392.00,"Basic Service Fee - Studio for May: Rathje, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,26,18.0000,468.00,"Resident Care - Level 1 for May: Rathje, Elmer",,,,,,,,,,,,,,,
+INVOICE,CM,,12610236,,05/26/2012,3410,"Invoice-Private",,05/26/2012,05/26/2012,,12615008MO,-2630.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2852,2852,"CR:Basic Service F... E.Rathje 201205: Rathje, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,558,558,"CR:Resident Care -... E.Rathje 201205: Rathje, Elmer",,,,,,,,,,,,,,,

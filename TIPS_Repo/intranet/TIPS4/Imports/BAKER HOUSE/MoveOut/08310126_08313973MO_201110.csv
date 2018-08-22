@@ -1,0 +1,5 @@
+BATCH,,201110,B,682.0000,
+INVOICE,IN,,08310126,,10/01/2011,341.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08313973MO,-1670.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,11.0000,341.00,"Credit for Limited Term Discount: Yellin, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,08310126,,10/01/2011,341,"Invoice-Private",,10/01/2011,10/10/2011,,08313973MO,-1670.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,11,341,"Limited Term Discount: Yellin, Jerome",,,,,,,,,,,,,,,

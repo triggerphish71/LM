@@ -1,0 +1,5 @@
+BATCH,,201206,B,4239.4000,
+INVOICE,IN,,05910127,,06/11/2012,4239.4000,"MoveIn-Horton. Harry",,06/11/2012,06/11/2012,,05913313,4239.4000,,,,,,,,,,
+TRANSACTION,3010,010101059,20,85.0000,1700,"Basic Service Fee - Studio: Horton. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101059,20,76.9700,1539.4,"Resident Care - Level 43: Horton. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101059,1,1000.0000,1000,"New Resident Fee: Horton. Harry",,,,,,,,,,,,,,,

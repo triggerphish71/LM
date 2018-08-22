@@ -1,0 +1,5 @@
+BATCH,,201303,B,3280.0000,
+INVOICE,IN,,11010372,,03/01/2013,3280.0000,"March_Rent-Simpson. Charles",,03/01/2013,03/10/2013,,11015154,5855.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821,"Basic Service Fee - Studio         : Simpson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,14.0000,434,"Resident Care - Level 1: Simpson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Simpson. Charles",,,,,,,,,,,,,,,

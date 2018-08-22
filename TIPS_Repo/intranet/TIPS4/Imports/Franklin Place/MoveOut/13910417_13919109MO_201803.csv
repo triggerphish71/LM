@@ -1,0 +1,7 @@
+BATCH,,201803,B,3111.9000,
+INVOICE,IN,,13910417,,03/02/2018,188.6000,"Invoice-Private",,03/02/2018,03/02/2018,,13919109MO,-2734.7000,,,,,,,,,,
+TRANSACTION,3020,010003139,2,69.0000,138.00,"Basic Service Fee - Studio  for Mar: Dotson, Logan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,2,25.3000,50.60,"Resident Care - Level 11  for Mar: Dotson, Logan",,,,,,,,,,,,,,,
+INVOICE,CM,,13910417,,03/02/2018,2923.3,"Invoice-Private",,03/02/2018,03/02/2018,,13919109MO,-2734.7000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,2139,2139,"CR:Basic Service F... L.Dotson 201803: Dotson, Logan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,784.3,784.3,"CR:Resident Care -... L.Dotson 201803: Dotson, Logan",,,,,,,,,,,,,,,

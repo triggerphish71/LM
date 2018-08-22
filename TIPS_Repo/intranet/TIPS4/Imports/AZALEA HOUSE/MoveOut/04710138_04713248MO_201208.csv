@@ -1,0 +1,7 @@
+BATCH,,201208,B,6912.0000,
+INVOICE,IN,,04710138,,08/23/2012,2944.0000,"Invoice-Private",,08/23/2012,08/23/2012,,04713248MO,-4564.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,23,96.0000,2208.00,"Basic Service Fee - Studio for Aug: Cox, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,23,32.0000,736.00,"Resident Care - Level 2 for Aug: Cox, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,04710138,,08/23/2012,3968,"Invoice-Private",,08/23/2012,08/23/2012,,04713248MO,-4564.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2976,2976,"CR:Basic Service F... M.Cox 201208: Cox, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,992,992,"CR:Resident Care -... M.Cox 201208: Cox, Margaret",,,,,,,,,,,,,,,

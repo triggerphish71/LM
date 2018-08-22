@@ -1,0 +1,5 @@
+BATCH,,201210,B,2202.0000,
+INVOICE,IN,,02910347,,10/26/2012,2202.0000,"MoveIn-Gilliand. Mary",,10/26/2012,10/26/2012,,02915858,5712.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,6,100.0000,600,"M.Gilliand: Basic Service Fee - Studio: Gilliand. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,6,17.0000,102,"M.Gilliand: Resident Care - Level 1: Gilliand. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Gilliand. Mary",,,,,,,,,,,,,,,

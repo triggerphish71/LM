@@ -1,0 +1,8 @@
+BATCH,,201112,B,5433.0000,
+INVOICE,IN,,04510229,,12/14/2011,2244.0000,"Invoice-Private",,12/14/2011,12/14/2011,,04513837MO,-4227.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,22,73.0000,1606.00,"Basic Service Fee - Studio for Dec: Smith, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,22,29.0000,638.00,"Resident Care - Level 2 for Dec: Smith, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,04510229,,12/14/2011,3189,"Invoice-Private",,12/14/2011,12/14/2011,,04513837MO,-4227.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2263,2263,"CR:Basic Service F... W.Smith 201112: Smith, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... W.Smith 201112: Smith, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,899,899,"CR:Resident Care -... W.Smith 201112: Smith, Wayne",,,,,,,,,,,,,,,

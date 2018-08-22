@@ -1,0 +1,5 @@
+BATCH,,201303,B,70.0000,
+INVOICE,IN,,14210184,,03/01/2013,35.0000,"Invoice-Private",,03/01/2013,03/10/2013,,14214299MO,-3451.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Myron, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,14210184,,03/01/2013,35,"Invoice-Private",,03/01/2013,03/10/2013,,14214299MO,-3451.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Myron, Harold",,,,,,,,,,,,,,,

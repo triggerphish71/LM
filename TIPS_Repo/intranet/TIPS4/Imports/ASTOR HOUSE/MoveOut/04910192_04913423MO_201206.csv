@@ -1,0 +1,5 @@
+BATCH,,201206,B,4138.6000,
+INVOICE,CM,,04910192,,06/01/2012,4138.6,"Invoice-Private",,06/01/2012,06/10/2012,,04913423MO,-4138.6000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2610,2610,"CR:Basic Service F... E.Buckman 201206: Buckman, Emiko",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... E.Buckman 201206: Buckman, Emiko",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,1503.6,1503.6,"CR:Resident Care -... E.Buckman 201206: Buckman, Emiko",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,58.0000,
+INVOICE,IN,,01210155,,06/01/2012,29.0000,"Invoice-Private",,06/01/2012,06/10/2012,,01213968MO,-4039.7400,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Miller, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01210155,,06/01/2012,29,"Invoice-Private",,06/01/2012,06/10/2012,,01213968MO,-4039.7400,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Miller, John",,,,,,,,,,,,,,,

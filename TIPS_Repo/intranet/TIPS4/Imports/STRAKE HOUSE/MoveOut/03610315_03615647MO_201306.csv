@@ -1,0 +1,8 @@
+BATCH,,201306,B,5127.0000,
+INVOICE,IN,,03610315,,06/21/2013,2100.0000,"Invoice-Private",,06/21/2013,06/21/2013,,03615647MO,-4054.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,21,55.0000,1155.00,"Basic Service Fee - Studio for Jun: Bush, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,21,45.0000,945.00,"Resident Care - Level 3 for Jun: Bush, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,03610315,,06/21/2013,3027,"Invoice-Private",,06/21/2013,06/21/2013,,03615647MO,-4054.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,1650,1650,"CR:Basic Service F... R.Bush 201306: Bush, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... R.Bush 201306: Bush, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,1350,1350,"CR:Resident Care -... R.Bush 201306: Bush, Robert",,,,,,,,,,,,,,,

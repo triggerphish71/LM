@@ -1,0 +1,8 @@
+BATCH,,201206,B,6302.0000,
+INVOICE,IN,,14610210,,06/13/2012,2432.0000,"Invoice-Private",,06/13/2012,06/13/2012,,14614552MO,-5436.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,19,93.0000,1767.00,"Basic Service Fee - Studio for Jun: Beyl, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,19,35.0000,665.00,"Resident Care - Level 2 for Jun: Beyl, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,14610210,,06/13/2012,3870,"Invoice-Private",,06/13/2012,06/13/2012,,14614552MO,-5436.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2790,2790,"CR:Basic Service F... M.Beyl 201206: Beyl, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Beyl 201206: Beyl, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1050,1050,"CR:Resident Care -... M.Beyl 201206: Beyl, Minnie",,,,,,,,,,,,,,,

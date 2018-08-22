@@ -1,0 +1,5 @@
+BATCH,,201204,B,50.0000,
+INVOICE,IN,,07510079,,04/01/2012,25.0000,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07514903MO,-2081.5400,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25.00,"Monthly Cable: Scheuffele, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,07510079,,04/01/2012,25,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07514903MO,-2081.5400,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"Credit for Monthly Cable: Scheuffele, Joan",,,,,,,,,,,,,,,

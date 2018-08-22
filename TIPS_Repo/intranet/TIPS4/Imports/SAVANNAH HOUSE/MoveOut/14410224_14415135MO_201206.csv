@@ -1,0 +1,7 @@
+BATCH,,201206,B,126.0000,
+INVOICE,IN,,14410224,,06/01/2012,63.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14415135MO,-4248.0000,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Teachey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Teachey, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14410224,,06/01/2012,63,"Invoice-Private",,06/01/2012,06/10/2012,,14415135MO,-4248.0000,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Teachey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Teachey, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,8491.4400,
+INVOICE,IN,,09810221,,11/13/2012,3953.0400,"Invoice-Private",,11/13/2012,11/13/2012,,09814877MO,-4004.0400,,,,,,,,,,
+TRANSACTION,3320,010103098,1,1230.0000,1230.00,"CR:Limited Term Di... M.Boulden 201211: Boulden, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103098,18,94.0000,1692.00,"Basic Service Fee - Studio for Nov: Boulden, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,18,57.2800,1031.04,"Resident Care - Level 32 for Nov: Boulden, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,09810221,,11/13/2012,4538.4,"Invoice-Private",,11/13/2012,11/13/2012,,09814877MO,-4004.0400,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2820,2820,"CR:Basic Service F... M.Boulden 201211: Boulden, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1718.4,1718.4,"CR:Resident Care -... M.Boulden 201211: Boulden, Marion",,,,,,,,,,,,,,,

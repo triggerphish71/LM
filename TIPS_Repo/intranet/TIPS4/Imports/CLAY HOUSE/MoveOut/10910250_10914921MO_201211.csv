@@ -1,0 +1,7 @@
+BATCH,,201211,B,1010.0000,
+INVOICE,IN,,10910250,,11/01/2012,505.0000,"Invoice-Private",,11/01/2012,11/10/2012,,10914921MO,-1280.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Beckert, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305109,30,16.0000,480.00,"Credit for Limited Term Discount: Beckert, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,10910250,,11/01/2012,505,"Invoice-Private",,11/01/2012,11/10/2012,,10914921MO,-1280.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Beckert, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305109,30,16,480,"Limited Term Discount: Beckert, Fred",,,,,,,,,,,,,,,

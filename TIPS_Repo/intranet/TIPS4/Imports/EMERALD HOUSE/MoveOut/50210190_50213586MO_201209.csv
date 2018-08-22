@@ -1,0 +1,7 @@
+BATCH,,201209,B,5074.0000,
+INVOICE,IN,,50210190,,09/06/2012,1419.0000,"Invoice-Private",,09/06/2012,09/06/2012,,50213586MO,-2236.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,1,330.0000,330.00,"CR:Limited Term Di... B.Charles 201209: Charles, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,9,121.0000,1089.00,"Basic Service Fee - One Bedroom Del for Sep: Charles, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,50210190,,09/06/2012,3655,"Invoice-Private",,09/06/2012,09/06/2012,,50213586MO,-2236.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3630,3630,"CR:Basic Service F... B.Charles 201209: Charles, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... B.Charles 201209: Charles, Barbara",,,,,,,,,,,,,,,

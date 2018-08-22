@@ -1,0 +1,7 @@
+BATCH,,201303,B,5130.0000,
+INVOICE,IN,,09910229,,03/14/2013,1596.0000,"Invoice-Private",,03/14/2013,03/14/2013,,09914452MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,14,30.0000,420.00,"Basic Service Fee - Second Resident for Mar: VanEvery, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,14,84.0000,1176.00,"Resident Care - Level 6 for Mar: VanEvery, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,09910229,,03/14/2013,3534,"Invoice-Private",,03/14/2013,03/14/2013,,09914452MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,930,930,"CR:Basic Service F... E.VanEvery 201303: VanEvery, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,2604,2604,"CR:Resident Care -... E.VanEvery 201303: VanEvery, Ernest",,,,,,,,,,,,,,,

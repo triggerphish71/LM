@@ -1,0 +1,7 @@
+BATCH,,201303,B,3672.0000,
+INVOICE,IN,,20210148,,03/05/2013,510.0000,"Invoice-Private",,03/05/2013,03/05/2013,,20212791MO,-2652.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,5,21.0000,105.00,"Resident Care - Level 2 for Mar: Weeks, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,5,81.0000,405.00,"Room and Board - Studio for Mar: Weeks, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,20210148,,03/05/2013,3162,"Invoice-Private",,03/05/2013,03/05/2013,,20212791MO,-2652.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,651,651,"CR:Resident Care -... G.Weeks 201303: Weeks, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2511,2511,"CR:Room and Board ... G.Weeks 201303: Weeks, Grace",,,,,,,,,,,,,,,

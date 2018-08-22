@@ -1,0 +1,5 @@
+BATCH,,201108,B,4090.0000,
+INVOICE,IN,,04310192,,08/05/2011,4090.0000,"MoveIn-Weber. Livein",,08/05/2011,08/05/2011,,04313671,4090.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,27,95.0000,2565,"Basic Service Fee - Studio         : Weber. Livein",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Weber. Livein",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Weber. Livein",,,,,,,,,,,,,,,

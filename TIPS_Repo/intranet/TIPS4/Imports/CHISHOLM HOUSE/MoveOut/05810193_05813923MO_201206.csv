@@ -1,0 +1,7 @@
+BATCH,,201206,B,3552.0000,
+INVOICE,IN,,05810193,,06/01/2012,222.0000,"Invoice-Private",,06/01/2012,06/10/2012,,05813923MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,2,82.0000,164.00,"Basic Service Fee - Studio for Jun: Holstein, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,2,29.0000,58.00,"Resident Care - Level 2 for Jun: Holstein, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,05810193,,06/01/2012,3330,"Invoice-Private",,06/01/2012,06/10/2012,,05813923MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2460,2460,"CR:Basic Service F... B.Holstein 201206: Holstein, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,870,870,"CR:Resident Care -... B.Holstein 201206: Holstein, Bertha",,,,,,,,,,,,,,,

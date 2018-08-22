@@ -1,0 +1,5 @@
+BATCH,,201109,B,3955.0000,
+INVOICE,IN,,11210265,,09/01/2011,3955.0000,"September_Rent-Kovalcik. Bill",,09/01/2011,09/10/2011,,11215612,7683.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,30,94.0000,2820,"Basic Service Fee - Studio         : Kovalcik. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,30,37.0000,1110,"Resident Care - Level 2: Kovalcik. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Kovalcik. Bill",,,,,,,,,,,,,,,

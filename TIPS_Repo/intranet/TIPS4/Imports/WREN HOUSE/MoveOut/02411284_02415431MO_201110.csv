@@ -1,0 +1,6 @@
+BATCH,,201110,B,4860.0000,
+INVOICE,IN,,02411284,,10/12/2011,1915.0000,"Invoice-Private",,10/12/2011,10/12/2011,,02415431MO,-1030.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,775.0000,775.00,"CR:Limited Term Di... M.Powell 201110: Powell, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,12,95.0000,1140.00,"Basic Service Fee - Studio for Oct: Powell, Mattie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411284,,10/12/2011,2945,"Invoice-Private",,10/12/2011,10/12/2011,,02415431MO,-1030.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2945,2945,"CR:Basic Service F... M.Powell 201110: Powell, Mattie",,,,,,,,,,,,,,,

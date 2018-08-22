@@ -1,0 +1,7 @@
+BATCH,,201207,B,7735.9400,
+INVOICE,IN,,53210105,,07/01/2012,1457.0000,"Invoice-Private",,07/01/2012,07/10/2012,,53215304MO,-4821.9400,,,,,,,,,,
+TRANSACTION,3320,010319532,1,1457.0000,1457.00,"CR:Limited Term Di... M.Nimke 201207: Nimke, Marie Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,53210105,,07/01/2012,6278.94,"Invoice-Private",,07/01/2012,07/10/2012,,53215304MO,-4821.9400,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3534,3534,"CR:Basic Service F... M.Nimke 201207: Nimke, Marie Ann",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"CR:Pendant Fee... M.Nimke 201207: Nimke, Marie Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2719.94,2719.94,"CR:Resident Care -... M.Nimke 201207: Nimke, Marie Ann",,,,,,,,,,,,,,,

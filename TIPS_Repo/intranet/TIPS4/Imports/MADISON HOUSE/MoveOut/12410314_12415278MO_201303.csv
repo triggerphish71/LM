@@ -1,0 +1,6 @@
+BATCH,,201303,B,2411.0000,
+INVOICE,IN,,12410314,,03/19/2013,594.0000,"Invoice-Private",,03/19/2013,03/19/2013,,12415278MO,-4228.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,6,99.0000,594.00,"Basic Service Fee - One Bedroom for Mar: Pflanz, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,12410314,,03/19/2013,1817,"Invoice-Private",,03/19/2013,03/19/2013,,12415278MO,-4228.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,1782,1782,"CR:Basic Service F... R.Pflanz 201303: Pflanz, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... R.Pflanz 201303: Pflanz, Rosemary",,,,,,,,,,,,,,,

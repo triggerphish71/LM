@@ -1,0 +1,5 @@
+BATCH,,201204,B,1320.0000,
+INVOICE,IN,,08810218,,04/01/2012,660.0000,"Invoice-Private",,04/01/2012,04/10/2012,,08814273MO,-3683.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,22.0000,660.00,"Credit for Limited Term Discount: Currall, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,08810218,,04/01/2012,660,"Invoice-Private",,04/01/2012,04/10/2012,,08814273MO,-3683.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,22,660,"Limited Term Discount: Currall, Ruth",,,,,,,,,,,,,,,

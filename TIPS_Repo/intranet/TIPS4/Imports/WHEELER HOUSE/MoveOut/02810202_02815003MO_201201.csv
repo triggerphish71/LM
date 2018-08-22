@@ -1,0 +1,5 @@
+BATCH,,201201,B,4675.0000,
+INVOICE,CM,,02810202,,01/01/2012,4675,"Invoice-Private",,01/01/2012,01/10/2012,,02815003MO,-4675.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3503,3503,"CR:Basic Service F... L.Wheeler 201201: Wheeler, Lacey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25,25,"CR:Monthly Cable... L.Wheeler 201201: Wheeler, Lacey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,1147,1147,"CR:Resident Care -... L.Wheeler 201201: Wheeler, Lacey",,,,,,,,,,,,,,,

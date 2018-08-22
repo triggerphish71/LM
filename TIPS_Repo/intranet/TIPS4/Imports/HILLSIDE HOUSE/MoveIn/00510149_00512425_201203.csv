@@ -1,0 +1,5 @@
+BATCH,,201203,B,2305.6000,
+INVOICE,IN,,00510149,,03/20/2012,2305.6000,"MoveIn-McCamman. Elvera",,03/20/2012,03/20/2012,,00512425,5569.6000,,,,,,,,,,
+TRANSACTION,3010,010101005,12,73.0000,876,"Basic Service Fee - Studio: McCamman. Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,12,35.8000,429.6,"Resident Care - Level 20: McCamman. Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: McCamman. Elvera",,,,,,,,,,,,,,,

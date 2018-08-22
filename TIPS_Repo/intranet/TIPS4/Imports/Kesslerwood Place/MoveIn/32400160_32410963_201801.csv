@@ -1,0 +1,5 @@
+BATCH,,201801,B,7002.0000,
+INVOICE,IN,,32400160,,01/15/2018,7002.0000,"MoveIn-pudding. hello",,01/15/2018,01/15/2018,,32410963,7002.0000,,,,,,,,,,
+TRANSACTION,3010,070009324,17,90.0000,1530,"Studio: pudding. hello",,,,,,,,,,,,,,,
+TRANSACTION,3216,070009324,1,2736.0000,2736,"Community Fee: pudding. hello",,,,,,,,,,,,,,,
+TRANSACTION,3216,070009324,1,2736.0000,2736,"Monthly Deferral Charge: pudding. hello",,,,,,,,,,,,,,,

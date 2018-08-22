@@ -1,0 +1,5 @@
+BATCH,,201108,B,2046.0000,
+INVOICE,IN,,11710218,,08/01/2011,1023.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11713582MO,-1447.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,31,33.0000,1023.00,"Credit for Limited Term Discount: Goldfarb, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,11710218,,08/01/2011,1023,"Invoice-Private",,08/01/2011,08/10/2011,,11713582MO,-1447.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,31,33,1023,"Limited Term Discount: Goldfarb, Jean",,,,,,,,,,,,,,,

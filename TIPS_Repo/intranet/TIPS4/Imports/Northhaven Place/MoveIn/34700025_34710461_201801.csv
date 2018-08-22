@@ -1,0 +1,6 @@
+BATCH,,201801,B,6101.6600,
+INVOICE,IN,,34700025,,01/01/2018,6101.6600,"MoveIn-Hlavaty. Gene",,01/01/2018,01/01/2018,,34710461,6101.6600,,,,,,,,,,
+TRANSACTION,3010,070029347,31,110.0000,3410,"One Bedroom: Hlavaty. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,070029347,1,2000.0000,2000,"Community Fee: Hlavaty. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,070029347,1,25.0000,25,"Monthly Cable: Hlavaty. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,070029347,1,666.6600,666.66,"Monthly Deferral Charge: Hlavaty. Gene",,,,,,,,,,,,,,,

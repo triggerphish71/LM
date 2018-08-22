@@ -1,0 +1,8 @@
+BATCH,,201207,B,3380.0000,
+INVOICE,IN,,11510251,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,11514296MO,-4494.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,62.0000,62.00,"CR:Limited Term Di... J.King 201207: King, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,11510251,,07/01/2012,3318,"Invoice-Private",,07/01/2012,07/10/2012,,11514296MO,-4494.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2046,2046,"CR:Basic Service F... J.King 201207: King, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... J.King 201207: King, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308115,1,35,35,"CR:Pendant Fee... J.King 201207: King, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,1209,1209,"CR:Resident Care -... J.King 201207: King, Joe",,,,,,,,,,,,,,,

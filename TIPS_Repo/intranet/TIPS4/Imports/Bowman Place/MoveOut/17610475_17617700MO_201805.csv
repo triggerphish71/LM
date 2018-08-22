@@ -1,0 +1,7 @@
+BATCH,,201805,B,10004.0000,
+INVOICE,IN,,17610475,,05/30/2018,4920.0000,"Invoice-Private",,05/30/2018,05/30/2018,,17617700MO,536.0000,,,,,,,,,,
+TRANSACTION,3020,010015176,30,129.0000,3870.00,"Basic Service Fee - One Bedroom for May: DeLong, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010015176,30,35.0000,1050.00,"Resident Care - Level 2 for May: DeLong, June",,,,,,,,,,,,,,,
+INVOICE,CM,,17610475,,05/30/2018,5084,"Invoice-Private",,05/30/2018,05/30/2018,,17617700MO,536.0000,,,,,,,,,,
+TRANSACTION,3020,010015176,1,3999,3999,"CR:Basic Service F... J.DeLong 201805: DeLong, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010015176,1,1085,1085,"CR:Resident Care -... J.DeLong 201805: DeLong, June",,,,,,,,,,,,,,,

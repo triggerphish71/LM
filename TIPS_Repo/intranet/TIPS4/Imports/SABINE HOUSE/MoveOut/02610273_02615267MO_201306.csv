@@ -1,0 +1,8 @@
+BATCH,,201306,B,3927.0000,
+INVOICE,IN,,02610273,,06/01/2013,1560.0000,"Invoice-Private",,06/01/2013,06/10/2013,,02615267MO,-807.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,20,65.0000,1300.00,"Basic Service Fee - Studio for Jun: O'Quinn, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,20,13.0000,260.00,"Resident Care - Level 1 for Jun: O'Quinn, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,02610273,,06/01/2013,2367,"Invoice-Private",,06/01/2013,06/10/2013,,02615267MO,-807.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,1950,1950,"CR:Basic Service F... R.O'Quinn 201306: O'Quinn, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... R.O'Quinn 201306: O'Quinn, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,390,390,"CR:Resident Care -... R.O'Quinn 201306: O'Quinn, Rosemary",,,,,,,,,,,,,,,

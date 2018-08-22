@@ -1,0 +1,7 @@
+BATCH,,201202,B,4715.0000,
+INVOICE,IN,,10910196,,02/12/2012,1380.0000,"Invoice-Private",,02/12/2012,02/12/2012,,10914581MO,-1955.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,12,82.0000,984.00,"Basic Service Fee - Studio for Feb: Raymond, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,12,33.0000,396.00,"Resident Care - Level 2 for Feb: Raymond, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10910196,,02/12/2012,3335,"Invoice-Private",,02/12/2012,02/12/2012,,10914581MO,-1955.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2378,2378,"CR:Basic Service F... R.Raymond 201202: Raymond, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,957,957,"CR:Resident Care -... R.Raymond 201202: Raymond, Robert",,,,,,,,,,,,,,,

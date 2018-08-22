@@ -1,0 +1,7 @@
+BATCH,,201303,B,6084.0000,
+INVOICE,IN,,16810338,,03/01/2013,1248.0000,"Invoice-Private",,03/01/2013,03/10/2013,,16817230MO,-3588.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,8,118.0000,944.00,"Basic Service Fee - One BR Premium for Mar: Juneau, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,8,38.0000,304.00,"Resident Care - Level 3 for Mar: Juneau, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,16810338,,03/01/2013,4836,"Invoice-Private",,03/01/2013,03/10/2013,,16817230MO,-3588.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3658,3658,"CR:Basic Service F... J.Juneau 201303: Juneau, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1178,1178,"CR:Resident Care -... J.Juneau 201303: Juneau, Joan",,,,,,,,,,,,,,,

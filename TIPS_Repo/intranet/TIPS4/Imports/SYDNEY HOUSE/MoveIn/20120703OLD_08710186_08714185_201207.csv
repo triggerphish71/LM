@@ -1,0 +1,5 @@
+BATCH,,201207,B,4984.1000,
+INVOICE,IN,,08710186,,07/03/2012,4984.1000,"MoveIn-Gates. Clifton",,07/03/2012,07/03/2012,,08714185,4984.1000,,,,,,,,,,
+TRANSACTION,3010,010103087,29,85.0000,2465,"Basic Service Fee - Studio: Gates. Clifton",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103087,29,17.9000,519.1,"Resident Care - Level 10: Gates. Clifton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103087,1,2000.0000,2000,"New Resident Fee: Gates. Clifton",,,,,,,,,,,,,,,

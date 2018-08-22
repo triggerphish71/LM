@@ -1,0 +1,5 @@
+BATCH,,201301,B,434.0000,
+INVOICE,IN,,05710273,,01/01/2013,217.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05715762MO,-3509.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,31,7.0000,217.00,"Credit for Limited Term Discount: Bland, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,05710273,,01/01/2013,217,"Invoice-Private",,01/01/2013,01/10/2013,,05715762MO,-3509.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,31,7,217,"Limited Term Discount: Bland, Ellen",,,,,,,,,,,,,,,

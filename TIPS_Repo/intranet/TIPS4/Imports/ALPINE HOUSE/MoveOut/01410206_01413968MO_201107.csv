@@ -1,0 +1,7 @@
+BATCH,,201107,B,4171.0000,
+INVOICE,IN,,01410206,,07/01/2011,1164.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01413968MO,-1843.0000,,,,,,,,,,
+TRANSACTION,3027,010202014,12,17.0000,204.00,"Resident Care - Level 1 for Jul: Wahlgreen, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202014,12,80.0000,960.00,"Room and Board - Studio for Jul: Wahlgreen, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,01410206,,07/01/2011,3007,"Invoice-Private",,07/01/2011,07/10/2011,,01413968MO,-1843.0000,,,,,,,,,,
+TRANSACTION,3027,010202014,1,527,527,"CR:Resident Care -... H.Wahlgreen 201107: Wahlgreen, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2480,2480,"CR:Room and Board ... H.Wahlgreen 201107: Wahlgreen, Helen",,,,,,,,,,,,,,,

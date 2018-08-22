@@ -1,0 +1,5 @@
+BATCH,,201110,B,620.0000,
+INVOICE,IN,,00710166,,10/01/2011,310.0000,"Invoice-Private",,10/01/2011,10/10/2011,,00713239MO,-3314.4000,,,,,,,,,,
+TRANSACTION,3320,010101007,31,10.0000,310.00,"Credit for Limited Term Discount: St John, John",,,,,,,,,,,,,,,
+INVOICE,CM,,00710166,,10/01/2011,310,"Invoice-Private",,10/01/2011,10/10/2011,,00713239MO,-3314.4000,,,,,,,,,,
+TRANSACTION,3320,010101007,31,10,310,"Limited Term Discount: St John, John",,,,,,,,,,,,,,,

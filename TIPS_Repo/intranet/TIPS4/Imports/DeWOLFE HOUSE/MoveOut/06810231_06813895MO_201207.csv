@@ -1,0 +1,8 @@
+BATCH,,201207,B,5122.0000,
+INVOICE,IN,,06810231,,07/01/2012,980.0000,"Invoice-Private",,07/01/2012,07/10/2012,,06813895MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,930.0000,930.00,"CR:Limited Term Di... E.Carter 201207: Carter, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3150,010305068,1,50.0000,50.00,"Late Fee Adjustment: Carter, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,06810231,,07/01/2012,4142,"Invoice-Private",,07/01/2012,07/10/2012,,06813895MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2635,2635,"CR:Basic Service F... E.Carter 201207: Carter, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1457,1457,"CR:Resident Care -... E.Carter 201207: Carter, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3150,010305068,1,50,50,"Late Fee Adjustment: Carter, Ethel",,,,,,,,,,,,,,,

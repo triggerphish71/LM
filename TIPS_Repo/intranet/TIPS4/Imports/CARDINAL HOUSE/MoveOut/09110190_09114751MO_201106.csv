@@ -1,0 +1,7 @@
+BATCH,,201106,B,7540.0000,
+INVOICE,IN,,09110190,,06/22/2011,3190.0000,"Invoice-Private",,06/22/2011,06/22/2011,,09114751MO,-5655.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,22,65.0000,1430.00,"Resident Care - Level 4 for Jun: Bock, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,22,80.0000,1760.00,"Room and Board - Studio for Jun: Bock, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,09110190,,06/22/2011,4350,"Invoice-Private",,06/22/2011,06/22/2011,,09114751MO,-5655.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1950,1950,"CR:Resident Care -... E.Bock 201106: Bock, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2400,2400,"CR:Room and Board ... E.Bock 201106: Bock, Eleanor",,,,,,,,,,,,,,,

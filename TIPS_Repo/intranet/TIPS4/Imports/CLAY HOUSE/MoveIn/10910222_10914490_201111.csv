@@ -1,0 +1,5 @@
+BATCH,,201111,B,2625.0000,
+INVOICE,IN,,10910222,,11/25/2011,2625.0000,"MoveIn-Updike. Jerry",,11/25/2011,11/25/2011,,10914490,5750.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,6,100.0000,600,"Basic Service Fee- One Bedroom Prem: Updike. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Updike. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Updike. Jerry",,,,,,,,,,,,,,,

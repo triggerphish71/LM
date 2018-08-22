@@ -1,0 +1,5 @@
+BATCH,,201303,B,1752.0000,
+INVOICE,IN,,09210288,,03/24/2013,1752.0000,"MoveIn-Elkins. Robert",,03/24/2013,03/24/2013,,09215138,4572.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,8,78.0000,624,"Basic Service Fee - Studio: Elkins. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,8,16.0000,128,"Resident Care - Level 1: Elkins. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,1000.0000,1000,"New Resident Fee: Elkins. Robert",,,,,,,,,,,,,,,

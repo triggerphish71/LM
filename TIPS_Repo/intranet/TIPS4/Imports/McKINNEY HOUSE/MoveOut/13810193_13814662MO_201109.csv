@@ -1,0 +1,7 @@
+BATCH,,201109,B,8083.0000,
+INVOICE,IN,,13810193,,09/29/2011,3973.0000,"Invoice-Private",,09/29/2011,09/29/2011,,13814662MO,-4384.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,29,93.0000,2697.00,"Basic Service Fee - Studio for Sep: Newell, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309138,29,44.0000,1276.00,"Private Care Rate Adjustments for Sep: Newell, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,13810193,,09/29/2011,4110,"Invoice-Private",,09/29/2011,09/29/2011,,13814662MO,-4384.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2790,2790,"CR:Basic Service F... W.Newell 201109: Newell, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309138,1,1320,1320,"CR:Private Care Ra... W.Newell 201109: Newell, Wilma",,,,,,,,,,,,,,,

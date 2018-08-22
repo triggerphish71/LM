@@ -1,0 +1,7 @@
+BATCH,,201306,B,3321.0000,
+INVOICE,IN,,15510210,,06/01/2013,891.0000,"Invoice-Private",,06/01/2013,06/10/2013,,15515854MO,-1539.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,11,32.0000,352.00,"Basic Service Fee - Second Resident for Jun: Podrasky, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,11,49.0000,539.00,"Resident Care - Level 3 for Jun: Podrasky, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,15510210,,06/01/2013,2430,"Invoice-Private",,06/01/2013,06/10/2013,,15515854MO,-1539.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,960,960,"CR:Basic Service F... G.Podrasky 201306: Podrasky, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1470,1470,"CR:Resident Care -... G.Podrasky 201306: Podrasky, Geraldine",,,,,,,,,,,,,,,

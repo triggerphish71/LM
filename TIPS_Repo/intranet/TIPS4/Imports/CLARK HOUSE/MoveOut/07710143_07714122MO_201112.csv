@@ -1,0 +1,8 @@
+BATCH,,201112,B,8590.0000,
+INVOICE,IN,,07710143,,12/30/2011,4839.0000,"Invoice-Private",,12/30/2011,12/30/2011,,07714122MO,-2725.0000,,,,,,,,,,
+TRANSACTION,3320,010104077,1,1209.0000,1209.00,"CR:Limited Term Di... Y.Ng 201112: Ng, Yew Por",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104077,30,92.0000,2760.00,"Basic Service Fee - Studio for Dec: Ng, Yew Por",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,30,29.0000,870.00,"Resident Care - Level 2 for Dec: Ng, Yew Por",,,,,,,,,,,,,,,
+INVOICE,CM,,07710143,,12/30/2011,3751,"Invoice-Private",,12/30/2011,12/30/2011,,07714122MO,-2725.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2852,2852,"CR:Basic Service F... Y.Ng 201112: Ng, Yew Por",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,899,899,"CR:Resident Care -... Y.Ng 201112: Ng, Yew Por",,,,,,,,,,,,,,,

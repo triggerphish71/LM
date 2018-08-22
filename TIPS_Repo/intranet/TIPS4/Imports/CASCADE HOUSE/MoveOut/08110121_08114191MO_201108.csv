@@ -1,0 +1,7 @@
+BATCH,,201108,B,4063.4800,
+INVOICE,IN,,08110121,,08/21/2011,1478.1900,"Invoice-Medicaid",,08/21/2011,08/21/2011,,08114191MO,-3609.8000,,,,,,,,,,
+TRANSACTION,3021,010103081,21,70.3900,1478.19,"Medicaid Co-Pay for Aug: Carruthers, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08110121,,08/21/2011,2585.29,"Invoice-Medicaid",,08/21/2011,08/21/2011,,08114191MO,-3609.8000,,,,,,,,,,
+TRANSACTION,3021,010103081,1,2182.07,2182.07,"CR:Medicaid Co-Pay... H.Carruthers 201108: Carruthers, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... H.Carruthers 201108: Carruthers, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103081,1,378.22,378.22,"CR:State Medicaid... H.Carruthers 201108: Carruthers, Helen",,,,,,,,,,,,,,,

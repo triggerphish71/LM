@@ -1,0 +1,7 @@
+BATCH,,201804,B,4104.3000,
+INVOICE,IN,,50510231,,04/01/2018,58.0000,"Invoice-Private",,04/01/2018,04/10/2018,,50515040MO,-6502.6000,,,,,,,,,,
+TRANSACTION,3017,010005505,2,29.0000,58.00," Level Care:  4  -from 2018-02-27: Holtschulte, Stephen",,,,,,,,,,,,,,,
+INVOICE,CM,,50510231,,04/01/2018,4046.3,"Invoice-Private",,04/01/2018,04/10/2018,,50515040MO,-6502.6000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,3450,3450,"CR:Basic Service F... S.Holtschulte 201804: Holtschulte, Stephen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010005505,1,26.3,26.3,"CR:Monthly Cable... S.Holtschulte 201804: Holtschulte, Stephen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,570,570,"CR:Resident Care -... S.Holtschulte 201804: Holtschulte, Stephen",,,,,,,,,,,,,,,

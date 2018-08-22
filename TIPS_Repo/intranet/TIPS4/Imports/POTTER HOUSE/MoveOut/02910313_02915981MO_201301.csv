@@ -1,0 +1,8 @@
+BATCH,,201301,B,7400.0000,
+INVOICE,IN,,02910313,,01/19/2013,3773.0000,"Invoice-Private",,01/19/2013,01/19/2013,,02915981MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,1550.0000,1550.00,"CR:Limited Term Di... L.Tyson 201301: Tyson, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,19,17.0000,323.00,"Resident Care - Level 1 for Jan: Tyson, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,19,100.0000,1900.00,"Room and Board - Studio for Jan: Tyson, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,02910313,,01/19/2013,3627,"Invoice-Private",,01/19/2013,01/19/2013,,02915981MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,1,527,527,"CR:Resident Care -... L.Tyson 201301: Tyson, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Room and Board ... L.Tyson 201301: Tyson, Linda",,,,,,,,,,,,,,,

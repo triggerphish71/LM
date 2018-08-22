@@ -1,0 +1,7 @@
+BATCH,,201308,B,6162.0000,
+INVOICE,IN,,11610273,,08/01/2013,1264.0000,"Invoice-Private",,08/01/2013,08/10/2013,,11615644MO,-3634.0000,,,,,,,,,,
+TRANSACTION,3027,010309116,8,34.0000,272.00,"Resident Care - Level 2 for Aug: Price, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,8,124.0000,992.00,"Room and Board - One Bedroom for Aug: Price, Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,11610273,,08/01/2013,4898,"Invoice-Private",,08/01/2013,08/10/2013,,11615644MO,-3634.0000,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... L.Price 201308: Price, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3844,3844,"CR:Room and Board ... L.Price 201308: Price, Lucy",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,4296.0000,
+INVOICE,IN,,21610257,,12/31/2012,1103.0000,"MoveIn-Hanson. David",,12/31/2012,12/31/2012,,21613894,4296.0000,,,,,,,,,,
+TRANSACTION,3014,010216216,1,103.0000,103,"D.Hanson: One Bedroom: Hanson. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216216,1,1000.0000,1000,"New Resident Fee: Hanson. David",,,,,,,,,,,,,,,
+INVOICE,IN,,21610257,,01/01/2013,3193.0000,"January_Rent-Hanson. David",,01/01/2013,01/10/2013,,21613894,4296.0000,,,,,,,,,,
+TRANSACTION,3010,010216216,31,103.0000,3193,"D.Hanson: One Bedroom: Hanson. David",,,,,,,,,,,,,,,

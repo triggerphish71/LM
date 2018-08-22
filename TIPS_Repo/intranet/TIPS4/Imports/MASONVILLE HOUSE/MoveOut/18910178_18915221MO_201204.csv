@@ -1,0 +1,8 @@
+BATCH,,201204,B,7162.0000,
+INVOICE,IN,,18910178,,04/17/2012,2482.0000,"Invoice-Private",,04/17/2012,04/17/2012,,18915221MO,-7034.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,17,113.0000,1921.00,"Basic Service Fee - One Bedroom for Apr: McLauchlin, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,17,33.0000,561.00,"Resident Care - Level 2 for Apr: McLauchlin, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,18910178,,04/17/2012,4680,"Invoice-Private",,04/17/2012,04/17/2012,,18915221MO,-7034.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,3390,3390,"CR:Basic Service F... M.McLauchlin 201204: McLauchlin, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,300,300,"CR:CC Meals... M.McLauchlin 201204: McLauchlin, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,990,990,"CR:Resident Care -... M.McLauchlin 201204: McLauchlin, Marjorie",,,,,,,,,,,,,,,

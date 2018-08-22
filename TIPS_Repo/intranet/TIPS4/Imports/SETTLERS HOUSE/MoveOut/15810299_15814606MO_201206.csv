@@ -1,0 +1,7 @@
+BATCH,,201206,B,6858.0000,
+INVOICE,IN,,15810299,,06/01/2012,3048.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15814606MO,-4699.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,24,96.0000,2304.00,"Basic Service Fee - Studio for Jun: Gagle, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,24,31.0000,744.00,"Resident Care - Level 2 for Jun: Gagle, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,15810299,,06/01/2012,3810,"Invoice-Private",,06/01/2012,06/10/2012,,15814606MO,-4699.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2880,2880,"CR:Basic Service F... B.Gagle 201206: Gagle, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,930,930,"CR:Resident Care -... B.Gagle 201206: Gagle, Bob",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,2852.0000,
+INVOICE,IN,,53410421,,01/26/2012,2852.0000,"MoveIn-Matthias. Marion",,01/26/2012,01/26/2012,,53420402,6970.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,6,89.0000,534,"M.Matthias: Basic Service Fee - Two Bedroom: Matthias. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319534,6,53.0000,318,"M.Matthias: Resident Care - Level 2: Matthias. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319534,1,2000.0000,2000,"New Resident Fee: Matthias. Marion",,,,,,,,,,,,,,,

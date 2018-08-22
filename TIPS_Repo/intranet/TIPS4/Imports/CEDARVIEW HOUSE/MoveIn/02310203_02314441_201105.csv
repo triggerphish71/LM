@@ -1,0 +1,5 @@
+BATCH,,201105,B,2480.0000,
+INVOICE,IN,,02310203,,05/27/2011,2480.0000,"MoveIn-Hawkins. Dorothy",,05/27/2011,05/27/2011,,02314441,5235.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,5,91.0000,455,"Basic Service Fee - Studio         : Hawkins. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Hawkins. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Hawkins. Dorothy",,,,,,,,,,,,,,,

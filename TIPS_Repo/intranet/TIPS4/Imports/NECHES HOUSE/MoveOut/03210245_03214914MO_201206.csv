@@ -1,0 +1,8 @@
+BATCH,,201206,B,4848.0000,
+INVOICE,IN,,03210245,,06/01/2012,1068.0000,"Invoice-Private",,06/01/2012,06/10/2012,,03214914MO,-2712.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,60.0000,60.00,"CR:Limited Term Di... S.Ford 201206: Ford, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,8,94.0000,752.00,"Basic Service Fee - Studio for Jun: Ford, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,8,32.0000,256.00,"Resident Care - Level 2 for Jun: Ford, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,03210245,,06/01/2012,3780,"Invoice-Private",,06/01/2012,06/10/2012,,03214914MO,-2712.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... S.Ford 201206: Ford, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,960,960,"CR:Resident Care -... S.Ford 201206: Ford, Sylvia",,,,,,,,,,,,,,,

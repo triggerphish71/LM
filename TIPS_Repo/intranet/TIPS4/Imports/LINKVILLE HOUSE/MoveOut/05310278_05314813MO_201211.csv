@@ -1,0 +1,7 @@
+BATCH,,201211,B,7580.0600,
+INVOICE,IN,,05310278,,11/01/2012,3289.4600,"Invoice-Private",,11/01/2012,11/01/2012,,05314813MO,-1001.1400,,,,,,,,,,
+TRANSACTION,3020,010101053,23,75.0000,1725.00,"Basic Service Fee - Studio for Nov: Webster, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,23,68.0200,1564.46,"Resident Care - Level 38 for Nov: Webster, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,05310278,,11/01/2012,4290.6,"Invoice-Private",,11/01/2012,11/01/2012,,05314813MO,-1001.1400,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2250,2250,"CR:Basic Service F... K.Webster 201211: Webster, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,2040.6,2040.6,"CR:Resident Care -... K.Webster 201211: Webster, Katherine",,,,,,,,,,,,,,,

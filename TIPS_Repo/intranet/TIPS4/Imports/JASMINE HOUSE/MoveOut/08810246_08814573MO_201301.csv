@@ -1,0 +1,7 @@
+BATCH,,201301,B,10858.0000,
+INVOICE,IN,,08810246,,01/01/2013,5340.0000,"Invoice-Private",,01/01/2013,01/01/2013,,08814573MO,-178.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,30,97.0000,2910.00,"Basic Service Fee - Studio for Jan: Kohles, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,30,81.0000,2430.00,"Resident Care - Level 6 for Jan: Kohles, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,08810246,,01/01/2013,5518,"Invoice-Private",,01/01/2013,01/01/2013,,08814573MO,-178.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... D.Kohles 201301: Kohles, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,2511,2511,"CR:Resident Care -... D.Kohles 201301: Kohles, Dale",,,,,,,,,,,,,,,

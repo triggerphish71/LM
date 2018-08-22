@@ -1,0 +1,7 @@
+BATCH,,201302,B,4011.0000,
+INVOICE,IN,,15210139,,02/01/2013,56.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15214053MO,-5832.0000,,,,,,,,,,
+TRANSACTION,3320,010211152,1,56.0000,56.00,"CR:Limited Term Di... D.Willis 201302: Willis, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,15210139,,02/01/2013,3955,"Invoice-Private",,02/01/2013,02/10/2013,,15214053MO,-5832.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... D.Willis 201302: Willis, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,1932,1932,"CR:Resident Care -... D.Willis 201302: Willis, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,1,1988,1988,"CR:Room and Board ... D.Willis 201302: Willis, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,3838.0000,
+INVOICE,IN,,05710311,,03/01/2012,3838.0000,"March_Rent-Yeates. Robert",,03/01/2012,03/10/2012,,05715415,6351.0000,,,,,,,,,,
+TRANSACTION,3010,010202057,31,94.0000,2914,"Basic Service Fee - Studio: Yeates. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202057,31,29.0000,899,"Resident Care - Level 2: Yeates. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25.0000,25,"Monthly Cable: Yeates. Robert",,,,,,,,,,,,,,,

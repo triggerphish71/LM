@@ -1,0 +1,8 @@
+BATCH,,201109,B,7277.0000,
+INVOICE,IN,,03410250,,09/11/2011,3500.0000,"Invoice-Private",,09/11/2011,09/11/2011,,03415223MO,-3129.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,28,93.0000,2604.00,"E.McMickin: Basic Service Fee - Studio for Sep: McMickin, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202034,28,32.0000,896.00,"Private Care Rate Adjustments for Sep: McMickin, Emma",,,,,,,,,,,,,,,
+INVOICE,CM,,03410250,,09/11/2011,3777,"Invoice-Private",,09/11/2011,09/11/2011,,03415223MO,-3129.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2790,2790,"CR:E.McMickin: Bas... E.McMickin 201109: McMickin, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... E.McMickin 201109: McMickin, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202034,1,960,960,"CR:Private Care Ra... E.McMickin 201109: McMickin, Emma",,,,,,,,,,,,,,,

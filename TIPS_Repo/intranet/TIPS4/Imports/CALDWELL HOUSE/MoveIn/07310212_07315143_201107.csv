@@ -1,0 +1,5 @@
+BATCH,,201107,B,5631.0000,
+INVOICE,IN,,07310212,,07/01/2011,5631.0000,"July_Rent-Yardlay. John",,07/01/2011,07/10/2011,,07315143,10366.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,31,94.0000,2914,"Basic Service Fee - Studio: Yardlay. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,31,87.0000,2697,"Resident Care - Level 6: Yardlay. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Yardlay. John",,,,,,,,,,,,,,,

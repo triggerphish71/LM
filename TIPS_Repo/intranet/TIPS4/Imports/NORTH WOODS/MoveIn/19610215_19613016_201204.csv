@@ -1,0 +1,6 @@
+BATCH,,201204,B,4885.0000,
+INVOICE,IN,,19610215,,04/06/2012,4885.0000,"MoveIn-Knudsen. Virgina",,04/06/2012,04/06/2012,,19613016,4885.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,25,104.0000,2600,"Basic Service Fee - One Bedroom: Knudsen. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Knudsen. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,25,10.0000,250,"CC Meals: Knudsen. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,2000.0000,2000,"New Tenant Fee: Knudsen. Virgina",,,,,,,,,,,,,,,

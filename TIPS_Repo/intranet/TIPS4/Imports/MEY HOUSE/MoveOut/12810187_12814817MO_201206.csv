@@ -1,0 +1,5 @@
+BATCH,,201206,B,3660.0000,
+INVOICE,IN,,12810187,,06/01/2012,1830.0000,"Invoice-Private",,06/01/2012,06/10/2012,,12814817MO,-189.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,30,61.0000,1830.00,"Credit for Limited Term Discount: Paravechia, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,12810187,,06/01/2012,1830,"Invoice-Private",,06/01/2012,06/10/2012,,12814817MO,-189.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,30,61,1830,"Limited Term Discount: Paravechia, Theresa",,,,,,,,,,,,,,,

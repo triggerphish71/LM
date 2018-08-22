@@ -1,0 +1,5 @@
+BATCH,,201212,B,1550.0000,
+INVOICE,IN,,03910195,,12/01/2012,775.0000,"Invoice-Private",,12/01/2012,12/10/2012,,03914602MO,-3178.2300,,,,,,,,,,
+TRANSACTION,3320,010101039,31,25.0000,775.00,"Credit for Limited Term Discount: Tascher, Shirley Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,03910195,,12/01/2012,775,"Invoice-Private",,12/01/2012,12/10/2012,,03914602MO,-3178.2300,,,,,,,,,,
+TRANSACTION,3320,010101039,31,25,775,"Limited Term Discount: Tascher, Shirley Mae",,,,,,,,,,,,,,,

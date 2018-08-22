@@ -1,0 +1,8 @@
+BATCH,,201209,B,5778.0000,
+INVOICE,IN,,53110295,,08/31/2012,1638.0000,"MoveIn-Hertzberg. Barbara",,08/31/2012,08/31/2012,,53114278,10056.0000,,,,,,,,,,
+TRANSACTION,3014,010319531,1,123.0000,123,"Basic Service Fee - One Bedroom: Hertzberg. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,1,15.0000,15,"Resident Care - Level 1: Hertzberg. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,1500.0000,1500,"New Resident Fee: Hertzberg. Barbara",,,,,,,,,,,,,,,
+INVOICE,IN,,53110295,,09/01/2012,4140.0000,"September_Rent-Hertzberg. Barbara",,09/01/2012,09/10/2012,,53114278,10056.0000,,,,,,,,,,
+TRANSACTION,3010,010319531,30,123.0000,3690,"Basic Service Fee - One Bedroom: Hertzberg. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,30,15.0000,450,"Resident Care - Level 1: Hertzberg. Barbara",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,7727.0000,
+INVOICE,IN,,15610307,,10/19/2012,1718.1000,"Invoice-Private",,10/19/2012,10/19/2012,,15615430MO,-10017.8000,,,,,,,,,,
+TRANSACTION,3020,010211156,9,90.0000,810.00,"Basic Service Fee - Studio for Oct: Zoubek, Luella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,9,100.9000,908.10,"Resident Care - Level 6+10 points for Oct: Zoubek, Luella",,,,,,,,,,,,,,,
+INVOICE,CM,,15610307,,10/19/2012,6008.9,"Invoice-Private",,10/19/2012,10/19/2012,,15615430MO,-10017.8000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1890,1890,"CR:Basic Service F... L.Zoubek 201210: Zoubek, Luella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000,2000,"CR:New Resident Fe... L.Zoubek 201210: Zoubek, Luella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2118.9,2118.9,"CR:Resident Care -... L.Zoubek 201210: Zoubek, Luella",,,,,,,,,,,,,,,

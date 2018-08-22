@@ -1,0 +1,8 @@
+BATCH,,201112,B,8665.0000,
+INVOICE,IN,,02310172,,12/24/2011,4176.0000,"Invoice-Private",,12/24/2011,12/24/2011,,02314738MO,-4926.0000,,,,,,,,,,
+TRANSACTION,3027,010202023,29,53.0000,1537.00,"Resident Care - Level 4 for Dec: Hankins, Dick",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,29,91.0000,2639.00,"Room and Board - Studio for Dec: Hankins, Dick",,,,,,,,,,,,,,,
+INVOICE,CM,,02310172,,12/24/2011,4489,"Invoice-Private",,12/24/2011,12/24/2011,,02314738MO,-4926.0000,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... D.Hankins 201112: Hankins, Dick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,1643,1643,"CR:Resident Care -... D.Hankins 201112: Hankins, Dick",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2821,2821,"CR:Room and Board ... D.Hankins 201112: Hankins, Dick",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,56.0000,
+INVOICE,IN,,11510267,,06/01/2012,28.0000,"Invoice-Private",,06/01/2012,06/10/2012,,11514193MO,-4828.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Vaughn, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,11510267,,06/01/2012,28,"Invoice-Private",,06/01/2012,06/10/2012,,11514193MO,-4828.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Vaughn, Margaret",,,,,,,,,,,,,,,

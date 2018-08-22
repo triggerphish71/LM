@@ -1,0 +1,6 @@
+BATCH,,201803,B,6106.6300,
+INVOICE,IN,,02710167,,03/01/2018,6106.6300,"MoveIn-Anderson. Louis & Ferne",,03/01/2018,03/01/2018,,02716148,6106.6300,,,,,,,,,,
+TRANSACTION,3010,010002027,31,85.0000,2635,"Basic Service Fee - Studio: Anderson. Louis & Ferne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002027,1,26.3000,26.3,"Monthly Cable: Anderson. Louis & Ferne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,2584.0000,2584,"Community Fee: Anderson. Louis & Ferne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,861.3300,861.33,"Monthly Deferral Charge: Anderson. Louis & Ferne",,,,,,,,,,,,,,,

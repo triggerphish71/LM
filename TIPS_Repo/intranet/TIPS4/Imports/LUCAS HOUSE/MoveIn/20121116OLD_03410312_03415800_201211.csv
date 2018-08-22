@@ -1,0 +1,6 @@
+BATCH,,201211,B,3380.0000,
+INVOICE,IN,,03410312,,11/14/2012,3380.0000,"MoveIn-Mitchell. Jeweline",,11/14/2012,11/14/2012,,03415800,3380.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,17,96.0000,1632,"Basic Service Fee - Studio: Mitchell. Jeweline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,17,13.0000,221,"Resident Care - Level 1: Mitchell. Jeweline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Mitchell. Jeweline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Mitchell. Jeweline",,,,,,,,,,,,,,,

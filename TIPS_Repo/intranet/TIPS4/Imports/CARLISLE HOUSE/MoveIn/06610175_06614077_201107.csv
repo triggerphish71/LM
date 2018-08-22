@@ -1,0 +1,8 @@
+BATCH,,201107,B,5750.0000,
+INVOICE,IN,,06610175,,06/30/2011,1875.0000,"MoveIn-Miller. Trellis",,06/30/2011,06/30/2011,,06614077,5750.0000,,,,,,,,,,
+TRANSACTION,3014,010305066,1,93.0000,93,"T.Miller: Basic Service Fee - Studio: Miller. Trellis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,1,32.0000,32,"T.Miller: Resident Care - Level 2: Miller. Trellis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Miller. Trellis",,,,,,,,,,,,,,,
+INVOICE,IN,,06610175,,07/01/2011,3875.0000,"July_Rent-Miller. Trellis",,07/01/2011,07/10/2011,,06614077,5750.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,31,93.0000,2883,"T.Miller: Basic Service Fee - Studio: Miller. Trellis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,31,32.0000,992,"T.Miller: Resident Care - Level 2: Miller. Trellis",,,,,,,,,,,,,,,

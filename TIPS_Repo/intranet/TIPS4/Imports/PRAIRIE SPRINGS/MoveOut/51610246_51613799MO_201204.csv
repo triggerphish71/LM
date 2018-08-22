@@ -1,0 +1,6 @@
+BATCH,,201204,B,5738.0000,
+INVOICE,IN,,51610246,,04/22/2012,3068.0000,"Invoice-Private",,04/22/2012,04/22/2012,,51613799MO,-1214.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,1110.0000,1110.00,"CR:Limited Term Di... M.Vanselus 201204: Vanselus, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103516,22,89.0000,1958.00,"Room and Board - Studio for Apr: Vanselus, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,51610246,,04/22/2012,2670,"Invoice-Private",,04/22/2012,04/22/2012,,51613799MO,-1214.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2670,2670,"CR:Room and Board ... M.Vanselus 201204: Vanselus, Marion",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,7970.8000,
+INVOICE,IN,,08110219,,08/01/2011,7970.8000,"MoveIn-Vanderlaan. Johanna",,08/01/2011,08/01/2011,,08114157,7970.8000,,,,,,,,,,
+TRANSACTION,3010,010103081,31,100.0000,3100,"Basic Service Fee - One Bedroom    : Vanderlaan. Johanna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,31,91.8000,2845.8,"Resident Care - Level 54: Vanderlaan. Johanna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Vanderlaan. Johanna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Vanderlaan. Johanna",,,,,,,,,,,,,,,

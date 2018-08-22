@@ -1,0 +1,7 @@
+BATCH,,201107,B,6720.0000,
+INVOICE,IN,,50410192,,07/17/2011,2380.0000,"Invoice-Private",,07/17/2011,07/17/2011,,50413414MO,-6300.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,17,108.0000,1836.00,"Basic Service Fee - Studio Deluxe for Jul: Foster, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,17,32.0000,544.00,"Resident Care - Level 2 for Jul: Foster, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50410192,,07/17/2011,4340,"Invoice-Private",,07/17/2011,07/17/2011,,50413414MO,-6300.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3348,3348,"CR:Basic Service F... C.Foster 201107: Foster, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,992,992,"CR:Resident Care -... C.Foster 201107: Foster, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,4914.0000,
+INVOICE,IN,,07710141,,08/05/2011,4914.0000,"MoveIn-Roberts. Dorthy",,08/05/2011,08/05/2011,,07714012,4914.0000,,,,,,,,,,
+TRANSACTION,3010,010104077,27,92.0000,2484,"Basic Service Fee - Studio         : Roberts. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104077,27,15.0000,405,"Resident Care - Level 1: Roberts. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25,"Monthly Cable: Roberts. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104077,1,2000.0000,2000,"New Resident Fee: Roberts. Dorthy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201207,B,2470.0000,
+INVOICE,IN,,06910172,,07/18/2012,2470.0000,"MoveIn-Huffman. Jack",,07/18/2012,07/18/2012,,06913916,5725.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,14,76.0000,1064,"Basic Service Fee - Studio: Huffman. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,14,29.0000,406,"Resident Care - Level 2: Huffman. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1000.0000,1000,"New Resident Fee: Huffman. Jack",,,,,,,,,,,,,,,

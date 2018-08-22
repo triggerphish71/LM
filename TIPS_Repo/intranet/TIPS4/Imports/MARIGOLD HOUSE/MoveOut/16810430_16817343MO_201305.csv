@@ -1,0 +1,7 @@
+BATCH,,201305,B,6157.0000,
+INVOICE,IN,,16810430,,05/01/2013,2096.0000,"Invoice-Private",,05/01/2013,05/10/2013,,16817343MO,-1965.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,16,118.0000,1888.00,"Basic Service Fee - One Bedroom Premium for May: Dowell, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,16,13.0000,208.00,"Resident Care - Level 1 for May: Dowell, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,16810430,,05/01/2013,4061,"Invoice-Private",,05/01/2013,05/10/2013,,16817343MO,-1965.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3658,3658,"CR:Basic Service F... L.Dowell 201305: Dowell, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... L.Dowell 201305: Dowell, Louise",,,,,,,,,,,,,,,

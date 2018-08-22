@@ -1,0 +1,7 @@
+BATCH,,201304,B,5005.0000,
+INVOICE,IN,,03710024,,04/25/2013,2275.0000,"Invoice-Private",,04/25/2013,04/25/2013,,03714637MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,25,60.0000,1500.00,"Basic Service Fee - Studio for Apr: Davis, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,25,31.0000,775.00,"Resident Care - Level 2 for Apr: Davis, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,03710024,,04/25/2013,2730,"Invoice-Private",,04/25/2013,04/25/2013,,03714637MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,1800,1800,"CR:Basic Service F... R.Davis 201304: Davis, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,930,930,"CR:Resident Care -... R.Davis 201304: Davis, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,2242.0000,
+INVOICE,IN,,16710232,,01/30/2012,2242.0000,"MoveIn-Nordmeyer. Wilber",,01/30/2012,01/30/2012,,16713724,5346.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,2,91.0000,182,"Basic Service Fee - Studio: Nordmeyer. Wilber",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,2,15.0000,30,"Resident Care - Level 1: Nordmeyer. Wilber",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Nordmeyer. Wilber",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211167,1,2000.0000,2000,"New Resident Fee: Nordmeyer. Wilber",,,,,,,,,,,,,,,

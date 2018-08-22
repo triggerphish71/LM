@@ -1,0 +1,5 @@
+BATCH,,201202,B,3167.0000,
+INVOICE,IN,,04110224,,02/10/2012,3167.0000,"MoveIn-Callan Jr.. Rex",,02/10/2012,02/10/2012,,04114240,3167.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,20,82.0000,1640,"Basic Service Fee - Studio: Callan Jr.. Rex",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27,"Monthly Cable: Callan Jr.. Rex",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Callan Jr.. Rex",,,,,,,,,,,,,,,

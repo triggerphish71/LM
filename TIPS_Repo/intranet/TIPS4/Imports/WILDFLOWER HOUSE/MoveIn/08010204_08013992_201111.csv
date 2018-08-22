@@ -1,0 +1,5 @@
+BATCH,,201111,B,2907.0000,
+INVOICE,IN,,08010204,,11/01/2011,2907.0000,"November_Rent-Brooks. James",,11/01/2011,11/10/2011,,08013992,4230.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,30,67.0000,2010,"Basic Service Fee - Studio         : Brooks. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202080,30,29.0000,870,"Resident Care - Level 2: Brooks. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Brooks. James",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201804,B,3840.0000,
+INVOICE,IN,,12910452,,04/01/2018,690.0000,"Invoice-Private",,04/01/2018,04/10/2018,,12919127MO,-6414.0000,,,,,,,,,,
+TRANSACTION,3017,010010129,23,22.0000,506.00,"Level Care:  1  - 2018-02-24: Kimmel, Edward Joseph ( Joe)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010129,4,46.0000,184.00," Level Care:  2 : Kimmel, Edward Joseph ( Joe)",,,,,,,,,,,,,,,
+INVOICE,CM,,12910452,,04/01/2018,3150,"Invoice-Private",,04/01/2018,04/10/2018,,12919127MO,-6414.0000,,,,,,,,,,
+TRANSACTION,3020,010010129,1,2490,2490,"CR:Basic Service F... E.Kimmel 201804: Kimmel, Edward Joseph ( Joe)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010129,1,660,660,"CR:Resident Care -... E.Kimmel 201804: Kimmel, Edward Joseph ( Joe)",,,,,,,,,,,,,,,

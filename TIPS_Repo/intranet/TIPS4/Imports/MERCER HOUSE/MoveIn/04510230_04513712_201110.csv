@@ -1,0 +1,5 @@
+BATCH,,201110,B,3060.0000,
+INVOICE,IN,,04510230,,10/11/2011,3060.0000,"MoveIn-Oakes. Leta",,10/11/2011,10/11/2011,,04513712,3060.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,21,73.0000,1533,"Basic Service Fee - Studio         : Oakes. Leta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Oakes. Leta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Oakes. Leta",,,,,,,,,,,,,,,

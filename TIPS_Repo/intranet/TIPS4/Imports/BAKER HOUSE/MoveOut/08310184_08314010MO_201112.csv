@@ -1,0 +1,5 @@
+BATCH,,201112,B,4464.0000,
+INVOICE,IN,,08310184,,12/01/2011,2232.0000,"Invoice-Private",,12/01/2011,12/10/2011,,08314010MO,-1220.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,72.0000,2232.00,"Credit for Limited Term Discount: Cruz Collazo, Angel",,,,,,,,,,,,,,,
+INVOICE,CM,,08310184,,12/01/2011,2232,"Invoice-Private",,12/01/2011,12/10/2011,,08314010MO,-1220.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,72,2232,"Limited Term Discount: Cruz Collazo, Angel",,,,,,,,,,,,,,,

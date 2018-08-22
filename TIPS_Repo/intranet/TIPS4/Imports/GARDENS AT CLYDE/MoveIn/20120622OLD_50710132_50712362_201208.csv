@@ -1,0 +1,5 @@
+BATCH,,201208,B,1000.0000,
+INVOICE,IN,,50710132,,07/01/2012,111.1100,"July_Rent-Russell. Robert",,07/01/2012,07/10/2012,,50712362,2862.2200,,,,,,,,,,
+TRANSACTION,3216,010305507,1,111.1100,111.11,"Monthly Deferral Charge: Russell. Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,50710132,,07/01/2012,888.8900,"July_Rent-Russell. Robert",,07/01/2012,07/10/2012,,50712362,2862.2200,,,,,,,,,,
+TRANSACTION,3216,010305507,1,888.89,888.89,"New Resident Fee Deferred: Russell. Robert",,,,,,,,,,,,,,,

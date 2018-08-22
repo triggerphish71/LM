@@ -1,0 +1,7 @@
+BATCH,,201208,B,8538.0200,
+INVOICE,IN,,08710189,,08/16/2012,2906.5600,"Invoice-Private",,08/16/2012,08/16/2012,,08714224MO,-8174.7000,,,,,,,,,,
+TRANSACTION,3020,010103087,16,85.0000,1360.00,"Basic Service Fee - Studio for Aug: Sullivan, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,16,96.6600,1546.56,"Resident Care - Level 54 for Aug: Sullivan, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,08710189,,08/16/2012,5631.46,"Invoice-Private",,08/16/2012,08/16/2012,,08714224MO,-8174.7000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2635,2635,"CR:Basic Service F... J.Sullivan 201208: Sullivan, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,2996.46,2996.46,"CR:Resident Care -... J.Sullivan 201208: Sullivan, Joyce",,,,,,,,,,,,,,,

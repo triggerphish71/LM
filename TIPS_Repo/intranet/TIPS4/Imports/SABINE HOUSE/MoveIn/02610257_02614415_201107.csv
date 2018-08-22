@@ -1,0 +1,5 @@
+BATCH,,201107,B,3344.0000,
+INVOICE,IN,,02610257,,07/01/2011,3344.0000,"July_Rent-Berry. Ruth",,07/01/2011,07/10/2011,,02614415,5427.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,31,94.0000,2914,"Basic Service Fee - Studio         : Berry. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,31,13.0000,403,"Resident Care - Level 1: Berry. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Berry. Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,50.0000,
+INVOICE,IN,,08110226,,12/01/2011,25.0000,"Invoice-Private",,12/01/2011,12/10/2011,,08114255MO,-4912.0000,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25.00,"Monthly Cable: Seldal, Patti",,,,,,,,,,,,,,,
+INVOICE,CM,,08110226,,12/01/2011,25,"Invoice-Private",,12/01/2011,12/10/2011,,08114255MO,-4912.0000,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"Credit for Monthly Cable: Seldal, Patti",,,,,,,,,,,,,,,

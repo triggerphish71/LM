@@ -1,0 +1,5 @@
+BATCH,,201105,B,4499.0000,
+INVOICE,IN,,01210209,,05/02/2011,4499.0000,"MoveIn-Hansen. Delbert",,05/02/2011,05/02/2011,,01213595,4499.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,30,99.0000,2970,"Basic Service Fee - One Bedroom    : Hansen. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Hansen. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Hansen. Delbert",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,3961.4200,
+INVOICE,IN,,05310287,,01/06/2013,3961.4200,"MoveIn-Evans. Fern",,01/06/2013,01/06/2013,,05314897,3961.4200,,,,,,,,,,
+TRANSACTION,3010,010101053,26,91.0000,2366,"Basic Service Fee - Studio: Evans. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,26,41.1700,1070.42,"Resident Care - Level 23: Evans. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Evans. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,500.0000,500,"New Resident Fee: Evans. Fern",,,,,,,,,,,,,,,

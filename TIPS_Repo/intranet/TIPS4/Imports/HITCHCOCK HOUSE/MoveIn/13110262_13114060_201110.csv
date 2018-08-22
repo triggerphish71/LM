@@ -1,0 +1,5 @@
+BATCH,,201110,B,1113.0000,
+INVOICE,IN,,13110262,,10/31/2011,1113.0000,"MoveIn-Bundy. Florence",,10/31/2011,10/31/2011,,13114060,4503.0000,,,,,,,,,,
+TRANSACTION,3010,010308131,1,97.0000,97,"Basic Service Fee - Studio         : Bundy. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308131,1,16.0000,16,"Resident Care - Level 1: Bundy. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1000.0000,1000,"New Resident Fee: Bundy. Florence",,,,,,,,,,,,,,,

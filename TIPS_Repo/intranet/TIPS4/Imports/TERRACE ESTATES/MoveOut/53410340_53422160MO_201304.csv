@@ -1,0 +1,8 @@
+BATCH,,201304,B,4704.0000,
+INVOICE,IN,,53410340,,04/08/2013,984.0000,"Invoice-Private",,04/08/2013,04/08/2013,,53422160MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,8,70.0000,560.00,"Basic Service Fee - Studio for Apr: Ninmer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,8,53.0000,424.00,"Resident Care - Level 2 for Apr: Ninmer, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,53410340,,04/08/2013,3720,"Invoice-Private",,04/08/2013,04/08/2013,,53422160MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2100,2100,"CR:Basic Service F... R.Ninmer 201304: Ninmer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... R.Ninmer 201304: Ninmer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1590,1590,"CR:Resident Care -... R.Ninmer 201304: Ninmer, Ralph",,,,,,,,,,,,,,,

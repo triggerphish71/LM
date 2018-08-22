@@ -1,0 +1,5 @@
+BATCH,,201303,B,4620.0000,
+INVOICE,IN,,53410395,,03/28/2013,2233.0000,"Invoice-Private",,03/28/2013,03/28/2013,,53422158MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,29,77.0000,2233.00,"Basic Service Fee - One Bedroom for Mar: Berenschot, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,53410395,,03/28/2013,2387,"Invoice-Private",,03/28/2013,03/28/2013,,53422158MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2387,2387,"CR:Basic Service F... M.Berenschot 201303: Berenschot, Marie",,,,,,,,,,,,,,,

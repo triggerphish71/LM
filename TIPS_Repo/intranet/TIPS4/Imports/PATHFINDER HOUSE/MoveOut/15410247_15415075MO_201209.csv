@@ -1,0 +1,8 @@
+BATCH,,201209,B,3640.0000,
+INVOICE,IN,,15410247,,09/01/2012,515.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15415075MO,-2610.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,5,85.0000,425.00,"Basic Service Fee - One Bedroom for Sep: Brester, Lambert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,5,18.0000,90.00,"Resident Care - Level 1 for Sep: Brester, Lambert",,,,,,,,,,,,,,,
+INVOICE,CM,,15410247,,09/01/2012,3125,"Invoice-Private",,09/01/2012,09/10/2012,,15415075MO,-2610.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2550,2550,"CR:Basic Service F... L.Brester 201209: Brester, Lambert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... L.Brester 201209: Brester, Lambert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,540,540,"CR:Resident Care -... L.Brester 201209: Brester, Lambert",,,,,,,,,,,,,,,

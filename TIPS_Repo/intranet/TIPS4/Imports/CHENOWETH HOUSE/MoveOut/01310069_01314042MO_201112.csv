@@ -1,0 +1,7 @@
+BATCH,,201112,B,2478.1600,
+INVOICE,IN,,01310069,,12/29/2011,558.5400,"Invoice-Medicaid",,12/29/2011,12/29/2011,,01314042MO,-3280.7000,,,,,,,,,,
+TRANSACTION,3021,010103013,29,19.2600,558.54,"Medicaid Co-Pay for Dec: Elledge, Willa",,,,,,,,,,,,,,,
+INVOICE,CM,,01310069,,12/29/2011,1919.62,"Invoice-Medicaid",,12/29/2011,12/29/2011,,01314042MO,-3280.7000,,,,,,,,,,
+TRANSACTION,3021,010103013,1,597.21,597.21,"CR:Medicaid Co-Pay... W.Elledge 201112: Elledge, Willa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... W.Elledge 201112: Elledge, Willa",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,1294.41,1294.41,"CR:State Medicaid... W.Elledge 201112: Elledge, Willa",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201305,B,3347.0000,
+INVOICE,IN,,00810274,,05/09/2013,747.0000,"Invoice-Private",,05/09/2013,05/09/2013,,00815133MO,-4343.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,9,83.0000,747.00,"Basic Service Fee - Studio for May: Hodges, Paula",,,,,,,,,,,,,,,
+INVOICE,CM,,00810274,,05/09/2013,2600,"Invoice-Private",,05/09/2013,05/09/2013,,00815133MO,-4343.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2573,2573,"CR:Basic Service F... P.Hodges 201305: Hodges, Paula",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... P.Hodges 201305: Hodges, Paula",,,,,,,,,,,,,,,

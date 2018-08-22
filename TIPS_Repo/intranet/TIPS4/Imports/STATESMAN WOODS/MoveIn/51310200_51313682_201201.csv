@@ -1,0 +1,5 @@
+BATCH,,201201,B,4337.0000,
+INVOICE,IN,,51310200,,01/13/2012,4337.0000,"MoveIn-Keaton. Harry",,01/13/2012,01/13/2012,,51313682,4337.0000,,,,,,,,,,
+TRANSACTION,3010,010310513,19,108.0000,2052,"Basic Service Fee- Studio: Keaton. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310513,19,15.0000,285,"Resident Care - Level 1: Keaton. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310513,1,2000.0000,2000,"New Resident Fee: Keaton. Harry",,,,,,,,,,,,,,,

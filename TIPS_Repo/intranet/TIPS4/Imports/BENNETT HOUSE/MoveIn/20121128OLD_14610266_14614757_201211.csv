@@ -1,0 +1,5 @@
+BATCH,,201211,B,2309.0000,
+INVOICE,IN,,14610266,,11/28/2012,2309.0000,"MoveIn-Ingle. Mary",,11/28/2012,11/28/2012,,14614757,5222.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,3,93.0000,279,"Basic Service Fee - Studio: Ingle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Ingle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,2000.0000,2000,"New Resident Fee: Ingle. Mary",,,,,,,,,,,,,,,

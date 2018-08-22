@@ -1,0 +1,8 @@
+BATCH,,201804,B,3943.0000,
+INVOICE,IN,,20210348,,04/05/2018,553.0000,"Invoice-Private",,04/05/2018,04/05/2018,,20215291MO,-6340.0000,,,,,,,,,,
+TRANSACTION,3010,010016202,1,25.0000,25.00,"AL credit LOC charges - 04-02-2018: Davis, Gail ",,,,,,,,,,,,,,,
+TRANSACTION,3010,010016202,1,88.0000,88.00,"Studio - 04-02-2018: Davis, Gail ",,,,,,,,,,,,,,,
+TRANSACTION,3010,010016202,3,146.6667,440.00,"Basic Service Fee - MC Studio: Davis, Gail ",,,,,,,,,,,,,,,
+INVOICE,CM,,20210348,,04/05/2018,3390,"Invoice-Private",,04/05/2018,04/05/2018,,20215291MO,-6340.0000,,,,,,,,,,
+TRANSACTION,3027,010016202,1,750,750,"CR:Resident Care -... G.Davis 201804: Davis, Gail ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010016202,1,2640,2640,"CR:Studio... G.Davis 201804: Davis, Gail ",,,,,,,,,,,,,,,

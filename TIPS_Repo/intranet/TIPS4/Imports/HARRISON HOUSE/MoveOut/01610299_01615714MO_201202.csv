@@ -1,0 +1,8 @@
+BATCH,,201202,B,6289.0000,
+INVOICE,IN,,01610299,,02/01/2012,2900.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01615714MO,-489.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,25,99.0000,2475.00,"C.Solomon-Hall: Basic Service Fee - One Bedroom : Solomon-Hall, Carla",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,25,17.0000,425.00,"C.Solomon-Hall: Resident Care - Level 1 for Feb: Solomon-Hall, Carla",,,,,,,,,,,,,,,
+INVOICE,CM,,01610299,,02/01/2012,3389,"Invoice-Private",,02/01/2012,02/10/2012,,01615714MO,-489.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2871,2871,"CR:C.Solomon-Hall:... C.Solomon-Hall 201202: Solomon-Hall, Carla",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,493,493,"CR:C.Solomon-Hall:... C.Solomon-Hall 201202: Solomon-Hall, Carla",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... C.Solomon-Hall 201202: Solomon-Hall, Carla",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,3507.0000,
+INVOICE,IN,,51110161,,06/01/2011,3507.0000,"June_Rent-Colella. Flora",,06/01/2011,06/10/2011,,51112109,7042.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,30,97.0000,2910,"Basic Service Fee - Studio: Colella. Flora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,30,19.0000,570,"Resident Care - Level 1: Colella. Flora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Colella. Flora",,,,,,,,,,,,,,,

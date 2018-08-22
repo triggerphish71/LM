@@ -1,0 +1,8 @@
+BATCH,,201203,B,5849.0000,
+INVOICE,IN,,53610079,,03/07/2012,1071.0000,"Invoice-Private",,03/07/2012,03/07/2012,,53613495MO,-3707.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,7,124.0000,868.00,"Basic Service Fee - One Bedroom for Mar: Holm, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,7,29.0000,203.00,"Resident Care - Level 2 for Mar: Holm, Lyle",,,,,,,,,,,,,,,
+INVOICE,CM,,53610079,,03/07/2012,4778,"Invoice-Private",,03/07/2012,03/07/2012,,53613495MO,-3707.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3844,3844,"CR:Basic Service F... L.Holm 201203: Holm, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... L.Holm 201203: Holm, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,899,899,"CR:Resident Care -... L.Holm 201203: Holm, Lyle",,,,,,,,,,,,,,,

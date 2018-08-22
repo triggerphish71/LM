@@ -1,0 +1,8 @@
+BATCH,,201304,B,4988.4500,
+INVOICE,IN,,05310292,,04/23/2013,2153.9500,"Invoice-Private",,04/23/2013,04/23/2013,,05315023MO,-3608.7000,,,,,,,,,,
+TRANSACTION,3020,010101053,23,40.0000,920.00,"Basic Service Fee - Studio for Apr: Rosenburg, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,23,53.6500,1233.95,"Resident Care - Level 29 for Apr: Rosenburg, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,05310292,,04/23/2013,2834.5,"Invoice-Private",,04/23/2013,04/23/2013,,05315023MO,-3608.7000,,,,,,,,,,
+TRANSACTION,3020,010101053,1,1200,1200,"CR:Basic Service F... F.Rosenburg 201304: Rosenburg, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25,25,"CR:Monthly Cable... F.Rosenburg 201304: Rosenburg, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,1609.5,1609.5,"CR:Resident Care -... F.Rosenburg 201304: Rosenburg, Frances",,,,,,,,,,,,,,,

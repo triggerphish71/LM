@@ -1,0 +1,5 @@
+BATCH,,201210,B,4554.0000,
+INVOICE,IN,,09310166,,10/01/2012,1485.0000,"Invoice-Private",,10/01/2012,10/10/2012,,09315491MO,-1584.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,15,99.0000,1485.00,"Basic Service Fee - Studio for Oct: Snyder, William",,,,,,,,,,,,,,,
+INVOICE,CM,,09310166,,10/01/2012,3069,"Invoice-Private",,10/01/2012,10/10/2012,,09315491MO,-1584.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... W.Snyder 201210: Snyder, William",,,,,,,,,,,,,,,

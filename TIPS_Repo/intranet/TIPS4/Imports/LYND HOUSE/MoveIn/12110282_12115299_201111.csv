@@ -1,0 +1,5 @@
+BATCH,,201111,B,5345.0000,
+INVOICE,IN,,12110282,,11/01/2011,5345.0000,"November_Rent-Rakes. Elizabeth",,11/01/2011,11/10/2011,,12115299,9504.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,30,120.0000,3600,"Basic Service Fee- One Bedroom Prem: Rakes. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309121,30,57.0000,1710,"Resident Care - Level 4: Rakes. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Rakes. Elizabeth",,,,,,,,,,,,,,,

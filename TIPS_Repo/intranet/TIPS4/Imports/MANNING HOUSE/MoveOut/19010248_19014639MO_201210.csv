@@ -1,0 +1,5 @@
+BATCH,,201210,B,54.0000,
+INVOICE,IN,,19010248,,10/01/2012,27.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19014639MO,-2169.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Killian, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,19010248,,10/01/2012,27,"Invoice-Private",,10/01/2012,10/10/2012,,19014639MO,-2169.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Killian, Harold",,,,,,,,,,,,,,,

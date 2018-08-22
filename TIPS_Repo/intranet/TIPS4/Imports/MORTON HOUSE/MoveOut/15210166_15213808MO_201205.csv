@@ -1,0 +1,8 @@
+BATCH,,201205,B,3896.0000,
+INVOICE,IN,,15210166,,05/08/2012,792.0000,"Invoice-Private",,05/08/2012,05/08/2012,,15213808MO,-2312.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,8,81.0000,648.00,"Basic Service Fee - Deluxe for May: Payne, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,8,18.0000,144.00,"Resident Care - Level 1 for May: Payne, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,15210166,,05/08/2012,3104,"Invoice-Private",,05/08/2012,05/08/2012,,15213808MO,-2312.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2511,2511,"CR:Basic Service F... J.Payne 201205: Payne, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... J.Payne 201205: Payne, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,558,558,"CR:Resident Care -... J.Payne 201205: Payne, Joan",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,174.0000,
+INVOICE,IN,,14510267,,06/01/2011,87.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14514935MO,-3859.0000,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27.0000,27.00,"Monthly Cable: Crosby, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308145,30,2.0000,60.00,"Credit for Limited Term Discount: Crosby, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,14510267,,06/01/2011,87,"Invoice-Private",,06/01/2011,06/10/2011,,14514935MO,-3859.0000,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"Credit for Monthly Cable: Crosby, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308145,30,2,60,"Limited Term Discount: Crosby, Carl",,,,,,,,,,,,,,,

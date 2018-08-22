@@ -1,0 +1,8 @@
+BATCH,,201206,B,5070.0000,
+INVOICE,IN,,20410154,,06/15/2012,1950.0000,"Invoice-Private",,06/15/2012,06/15/2012,,20413044MO,-3991.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,390.0000,390.00,"CR:Limited Term Di... G.Ball 201206: Ball, Glennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,15,22.0000,330.00,"Resident Care - Level 2 for Jun: Ball, Glennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,15,82.0000,1230.00,"Studio for Jun: Ball, Glennis",,,,,,,,,,,,,,,
+INVOICE,CM,,20410154,,06/15/2012,3120,"Invoice-Private",,06/15/2012,06/15/2012,,20413044MO,-3991.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,660,660,"CR:Resident Care -... G.Ball 201206: Ball, Glennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Studio... G.Ball 201206: Ball, Glennis",,,,,,,,,,,,,,,

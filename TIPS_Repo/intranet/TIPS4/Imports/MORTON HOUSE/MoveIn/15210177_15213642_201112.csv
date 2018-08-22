@@ -1,0 +1,6 @@
+BATCH,,201112,B,4841.0000,
+INVOICE,IN,,15210177,,12/09/2011,4841.0000,"MoveIn-Smith. Josephine",,12/09/2011,12/09/2011,,15213642,4841.0000,,,,,,,,,,
+TRANSACTION,3010,010211152,23,89.0000,2047,"Basic Service Fee - One Bedroom: Smith. Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211152,23,33.0000,759,"Resident Care - Level 2: Smith. Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35,"Monthly Cable: Smith. Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211152,1,2000.0000,2000,"New Resident Fee: Smith. Josephine",,,,,,,,,,,,,,,

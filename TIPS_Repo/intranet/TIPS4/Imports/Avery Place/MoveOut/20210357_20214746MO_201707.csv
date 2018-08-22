@@ -1,0 +1,7 @@
+BATCH,,201707,B,5374.9600,
+INVOICE,IN,,20210357,,07/20/2017,1824.8000,"Invoice-Private",,07/20/2017,07/20/2017,,20214746MO,-1725.3600,,,,,,,,,,
+TRANSACTION,3010,010016202,10,135.4800,1354.80,"MC Studio  for Jul: Avery, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010016202,10,47.0000,470.00,"Resident Care Level Change  for Jul: Avery, Bud",,,,,,,,,,,,,,,
+INVOICE,CM,,20210357,,07/20/2017,3550.16,"Invoice-Private",,07/20/2017,07/20/2017,,20214746MO,-1725.3600,,,,,,,,,,
+TRANSACTION,3010,010016202,1,2845.16,2845.16,"CR:MC Studio... B.Avery 201707: Avery, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010016202,1,705,705,"CR:Resident Care L... B.Avery 201707: Avery, Bud",,,,,,,,,,,,,,,

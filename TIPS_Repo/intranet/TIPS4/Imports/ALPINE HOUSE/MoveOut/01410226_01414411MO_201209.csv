@@ -1,0 +1,7 @@
+BATCH,,201209,B,4704.0000,
+INVOICE,IN,,01410226,,09/01/2012,1344.0000,"Invoice-Private",,09/01/2012,09/10/2012,,01414411MO,-2016.0000,,,,,,,,,,
+TRANSACTION,3027,010202014,12,17.0000,204.00,"Resident Care - Level 1 for Sep: Littlefield, Corine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202014,12,95.0000,1140.00,"Room and Board - Studio for Sep: Littlefield, Corine",,,,,,,,,,,,,,,
+INVOICE,CM,,01410226,,09/01/2012,3360,"Invoice-Private",,09/01/2012,09/10/2012,,01414411MO,-2016.0000,,,,,,,,,,
+TRANSACTION,3027,010202014,1,510,510,"CR:Resident Care -... C.Littlefield 201209: Littlefield, Corine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2850,2850,"CR:Room and Board ... C.Littlefield 201209: Littlefield, Corine",,,,,,,,,,,,,,,

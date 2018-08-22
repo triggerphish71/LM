@@ -1,0 +1,7 @@
+BATCH,,201105,B,5002.0000,
+INVOICE,IN,,05510214,,05/01/2011,2460.0000,"Invoice-Private",,05/01/2011,05/10/2011,,05514088MO,-82.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,30,30.0000,900.00,"Basic Service Fee - Second Resident for May: Nail, Maurine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,30,52.0000,1560.00,"Resident Care - Level 3 for May: Nail, Maurine",,,,,,,,,,,,,,,
+INVOICE,CM,,05510214,,05/01/2011,2542,"Invoice-Private",,05/01/2011,05/10/2011,,05514088MO,-82.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,930,930,"CR:Basic Service F... M.Nail 201105: Nail, Maurine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,1612,1612,"CR:Resident Care -... M.Nail 201105: Nail, Maurine",,,,,,,,,,,,,,,

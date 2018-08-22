@@ -1,0 +1,7 @@
+BATCH,,201112,B,4747.0000,
+INVOICE,IN,,13210173,,12/01/2011,62.0000,"Invoice-Private",,12/01/2011,12/10/2011,,13215191MO,-5198.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,62.0000,62.00,"CR:Limited Term Di... F.Walker 201112: Walker, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,13210173,,12/01/2011,4685,"Invoice-Private",,12/01/2011,12/10/2011,,13215191MO,-5198.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2945,2945,"CR:Basic Service F... F.Walker 201112: Walker, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308132,1,35,35,"CR:Pendant Fee... F.Walker 201112: Walker, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1705,1705,"CR:Resident Care -... F.Walker 201112: Walker, Fred",,,,,,,,,,,,,,,

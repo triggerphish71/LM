@@ -1,0 +1,7 @@
+BATCH,,201109,B,4410.0000,
+INVOICE,IN,,03410256,,09/01/2011,93.0000,"Invoice-Private",,09/01/2011,09/01/2011,,03415167MO,-4224.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,93.0000,93.00,"Basic Service Fee - Studio for Sep: Alfred, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,03410256,,09/01/2011,4317,"Invoice-Private",,09/01/2011,09/01/2011,,03415167MO,-4224.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2790,2790,"CR:Basic Service F... A.Alfred 201109: Alfred, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... A.Alfred 201109: Alfred, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500,1500,"CR:New Resident Fe... A.Alfred 201109: Alfred, Albert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,372.0000,
+INVOICE,IN,,05610122,,10/01/2012,186.0000,"Invoice-Private",,10/01/2012,10/10/2012,,05614519MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010202056,31,6.0000,186.00,"Credit for Limited Term Discount: Bridwell, Reba",,,,,,,,,,,,,,,
+INVOICE,CM,,05610122,,10/01/2012,186,"Invoice-Private",,10/01/2012,10/10/2012,,05614519MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010202056,31,6,186,"Limited Term Discount: Bridwell, Reba",,,,,,,,,,,,,,,

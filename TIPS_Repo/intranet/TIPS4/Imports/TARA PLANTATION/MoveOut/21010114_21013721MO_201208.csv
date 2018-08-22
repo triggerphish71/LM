@@ -1,0 +1,7 @@
+BATCH,,201208,B,5510.0000,
+INVOICE,IN,,21010114,,08/07/2012,1015.0000,"Invoice-Private",,08/07/2012,08/07/2012,,21013721MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,7,51.0000,357.00,"Resident Care - Level 5 for Aug: Calnan, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,7,94.0000,658.00,"Room and Board - Studio for Aug: Calnan, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,21010114,,08/07/2012,4495,"Invoice-Private",,08/07/2012,08/07/2012,,21013721MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1581,1581,"CR:Resident Care -... V.Calnan 201208: Calnan, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Room and Board ... V.Calnan 201208: Calnan, Virginia",,,,,,,,,,,,,,,

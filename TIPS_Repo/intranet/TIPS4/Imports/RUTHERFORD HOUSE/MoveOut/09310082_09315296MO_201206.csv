@@ -1,0 +1,7 @@
+BATCH,,201206,B,4704.0000,
+INVOICE,IN,,09310082,,06/01/2012,294.0000,"Invoice-Private",,06/01/2012,06/01/2012,,09315296MO,-4116.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,2,99.0000,198.00,"Basic Service Fee - Studio for Jun: Dorobek, Casimir",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,2,48.0000,96.00,"Resident Care - Level 3 for Jun: Dorobek, Casimir",,,,,,,,,,,,,,,
+INVOICE,CM,,09310082,,06/01/2012,4410,"Invoice-Private",,06/01/2012,06/01/2012,,09315296MO,-4116.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2970,2970,"CR:Basic Service F... C.Dorobek 201206: Dorobek, Casimir",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1440,1440,"CR:Resident Care -... C.Dorobek 201206: Dorobek, Casimir",,,,,,,,,,,,,,,

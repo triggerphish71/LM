@@ -1,0 +1,7 @@
+BATCH,,201301,B,6472.4200,
+INVOICE,IN,,13910193,,01/01/2013,62.0000,"Invoice-Private",,01/01/2013,01/10/2013,,13916520MO,-6348.4200,,,,,,,,,,
+TRANSACTION,3320,010103139,1,62.0000,62.00,"CR:Limited Term Di... R.Shimojima 201301: Shimojima, Rosie",,,,,,,,,,,,,,,
+INVOICE,CM,,13910193,,01/01/2013,6410.42,"Invoice-Private",,01/01/2013,01/10/2013,,13916520MO,-6348.4200,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... R.Shimojima 201301: Shimojima, Rosie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... R.Shimojima 201301: Shimojima, Rosie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,3218.42,3218.42,"CR:Resident Care -... R.Shimojima 201301: Shimojima, Rosie",,,,,,,,,,,,,,,

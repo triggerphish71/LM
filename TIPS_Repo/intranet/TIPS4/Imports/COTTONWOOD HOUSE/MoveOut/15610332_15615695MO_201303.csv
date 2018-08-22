@@ -1,0 +1,6 @@
+BATCH,,201303,B,4592.0000,
+INVOICE,IN,,15610332,,03/27/2013,1080.0000,"Invoice-Private",,03/27/2013,03/27/2013,,15615695MO,-5672.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,10,108.0000,1080.00,"Basic Service Fee - One Bedroom for Mar: Prien, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,15610332,,03/27/2013,3512,"Invoice-Private",,03/27/2013,03/27/2013,,15615695MO,-5672.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1512,1512,"CR:Basic Service F... W.Prien 201303: Prien, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000,2000,"CR:New Resident Fe... W.Prien 201303: Prien, Wanda",,,,,,,,,,,,,,,

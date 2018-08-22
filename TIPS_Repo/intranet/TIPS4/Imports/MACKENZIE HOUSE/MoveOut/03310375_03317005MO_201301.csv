@@ -1,0 +1,8 @@
+BATCH,,201301,B,5625.0000,
+INVOICE,IN,,03310375,,01/19/2013,2128.0000,"Invoice-Private",,01/19/2013,01/19/2013,,03317005MO,-4505.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,19,95.0000,1805.00,"Basic Service Fee - Studio for Jan: DeLeon, Delio",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,19,17.0000,323.00,"Resident Care - Level 1 for Jan: DeLeon, Delio",,,,,,,,,,,,,,,
+INVOICE,CM,,03310375,,01/19/2013,3497,"Invoice-Private",,01/19/2013,01/19/2013,,03317005MO,-4505.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2945,2945,"CR:Basic Service F... D.DeLeon 201301: DeLeon, Delio",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... D.DeLeon 201301: DeLeon, Delio",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... D.DeLeon 201301: DeLeon, Delio",,,,,,,,,,,,,,,

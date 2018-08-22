@@ -1,0 +1,5 @@
+BATCH,,201301,B,50.0000,
+INVOICE,IN,,10910282,,01/01/2013,25.0000,"Invoice-Private",,01/01/2013,01/10/2013,,10915041MO,-4150.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Bradford, John",,,,,,,,,,,,,,,
+INVOICE,CM,,10910282,,01/01/2013,25,"Invoice-Private",,01/01/2013,01/10/2013,,10915041MO,-4150.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Bradford, John",,,,,,,,,,,,,,,

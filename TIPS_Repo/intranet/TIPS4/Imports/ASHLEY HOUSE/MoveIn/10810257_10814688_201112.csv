@@ -1,0 +1,5 @@
+BATCH,,201112,B,2300.0000,
+INVOICE,IN,,10810257,,12/19/2011,2300.0000,"MoveIn-Voiselle. Alice",,12/19/2011,12/19/2011,,10814688,5400.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,13,84.0000,1092,"Basic Service Fee - Studio         : Voiselle. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308108,13,16.0000,208,"Resident Care - Level 1: Voiselle. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Voiselle. Alice",,,,,,,,,,,,,,,

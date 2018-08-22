@@ -1,0 +1,7 @@
+BATCH,,201206,B,4392.0000,
+INVOICE,IN,,53510078,,06/06/2012,732.0000,"Invoice-Private",,06/06/2012,06/06/2012,,53514641MO,-2928.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,6,79.0000,474.00,"Basic Service Fee - Studio Deluxe for Jun: LeClair, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,6,43.0000,258.00,"Resident Care - Level 3 for Jun: LeClair, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,53510078,,06/06/2012,3660,"Invoice-Private",,06/06/2012,06/06/2012,,53514641MO,-2928.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2370,2370,"CR:Basic Service F... R.LeClair 201206: LeClair, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1290,1290,"CR:Resident Care -... R.LeClair 201206: LeClair, Ruth",,,,,,,,,,,,,,,

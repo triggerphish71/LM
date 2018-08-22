@@ -1,0 +1,6 @@
+BATCH,,201203,B,5523.5800,
+INVOICE,IN,,00910081,,03/01/2012,155.0000,"Invoice-Private",,03/01/2012,03/10/2012,,00913548MO,-5934.4800,,,,,,,,,,
+TRANSACTION,3320,010101009,1,155.0000,155.00,"CR:Limited Term Di... B.Frigaard 201203: Frigaard, Bernette",,,,,,,,,,,,,,,
+INVOICE,CM,,00910081,,03/01/2012,5368.58,"Invoice-Private",,03/01/2012,03/10/2012,,00913548MO,-5934.4800,,,,,,,,,,
+TRANSACTION,3020,010101009,1,3038,3038,"CR:Basic Service F... B.Frigaard 201203: Frigaard, Bernette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,2330.58,2330.58,"CR:Resident Care -... B.Frigaard 201203: Frigaard, Bernette",,,,,,,,,,,,,,,

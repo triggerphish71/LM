@@ -1,0 +1,5 @@
+BATCH,,201712,B,3406.0000,
+INVOICE,IN,,14610412,,12/07/2017,131.0000,"Invoice-Private",,12/07/2017,12/07/2017,,14617385MO,-489.0700,,,,,,,,,,
+TRANSACTION,3020,010009146,1,131.0000,131.00,"Basic Service Fee - One Bedroom  for Dec: Drabek, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14610412,,12/07/2017,3275,"Invoice-Private",,12/07/2017,12/07/2017,,14617385MO,-489.0700,,,,,,,,,,
+TRANSACTION,3020,010009146,1,3275,3275,"CR:Basic Service F... M.Drabek 201712: Drabek, Mary",,,,,,,,,,,,,,,

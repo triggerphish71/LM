@@ -1,0 +1,7 @@
+BATCH,,201108,B,110.0000,
+INVOICE,IN,,18410032,,08/01/2011,55.0000,"Invoice-Private",,08/01/2011,08/10/2011,,18415022MO,-1822.0000,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25.0000,25.00,"Monthly Cable: Duke, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313184,1,30.0000,30.00,"Pendant Fee: Duke, Leo",,,,,,,,,,,,,,,
+INVOICE,CM,,18410032,,08/01/2011,55,"Invoice-Private",,08/01/2011,08/10/2011,,18415022MO,-1822.0000,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"Credit for Monthly Cable: Duke, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313184,1,30,30,"Credit for Pendant Fee: Duke, Leo",,,,,,,,,,,,,,,

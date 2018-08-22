@@ -1,0 +1,8 @@
+BATCH,,201208,B,2389.0000,
+INVOICE,IN,,17510225,,08/01/2012,1242.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17517662MO,95.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,465.0000,465.00,"CR:Limited Term Di... L.Brown 201208: Brown, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,21,25.0000,525.00,"Basic Service Fee - Second Resident for Aug: Brown, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,21,12.0000,252.00,"Resident Care - Level 1 for Aug: Brown, Loretta",,,,,,,,,,,,,,,
+INVOICE,CM,,17510225,,08/01/2012,1147,"Invoice-Private",,08/01/2012,08/10/2012,,17517662MO,95.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,775,775,"CR:Basic Service F... L.Brown 201208: Brown, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... L.Brown 201208: Brown, Loretta",,,,,,,,,,,,,,,

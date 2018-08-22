@@ -1,0 +1,8 @@
+BATCH,,201204,B,4151.7600,
+INVOICE,IN,,01510206,,04/06/2012,1416.9600,"Invoice-Private",,04/06/2012,04/06/2012,,01514216MO,-1317.8400,,,,,,,,,,
+TRANSACTION,3320,010103015,1,870.0000,870.00,"CR:Limited Term Di... M.Johnson 201204: Johnson, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,6,84.0000,504.00,"Basic Service Fee - Studio for Apr: Johnson, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,6,7.1600,42.96,"Resident Care - Level 4 for Apr: Johnson, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,01510206,,04/06/2012,2734.8,"Invoice-Private",,04/06/2012,04/06/2012,,01514216MO,-1317.8400,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2520,2520,"CR:Basic Service F... M.Johnson 201204: Johnson, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,214.8,214.8,"CR:Resident Care -... M.Johnson 201204: Johnson, Mabel",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,4346.0000,
+INVOICE,IN,,03210250,,07/01/2011,4346.0000,"MoveIn-David. Sylvia",,07/01/2011,07/01/2011,,03214509,4346.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,31,91.0000,2821,"S.David: Basic Service Fee - Studio: David. Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: David. Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: David. Sylvia",,,,,,,,,,,,,,,

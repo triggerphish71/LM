@@ -1,0 +1,6 @@
+BATCH,,201105,B,5043.0000,
+INVOICE,IN,,51110158,,05/06/2011,5043.0000,"MoveIn-Jackson. Marge",,05/06/2011,05/06/2011,,51112077,5043.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,26,97.0000,2522,"Basic Service Fee - Studio: Jackson. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,26,19.0000,494,"Resident Care - Level 1: Jackson. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Jackson. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310511,1,2000.0000,2000,"New Resident Fee: Jackson. Marge",,,,,,,,,,,,,,,

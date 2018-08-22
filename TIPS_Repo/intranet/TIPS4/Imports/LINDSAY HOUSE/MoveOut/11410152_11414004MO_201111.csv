@@ -1,0 +1,7 @@
+BATCH,,201111,B,5760.0000,
+INVOICE,IN,,11410152,,11/01/2011,1440.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11414004MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,10,125.0000,1250.00,"Basic Service Fee - Deluxe for Nov: Foxwell, Elvira",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,10,19.0000,190.00,"Swan Personal Care - L1 for Nov: Foxwell, Elvira",,,,,,,,,,,,,,,
+INVOICE,CM,,11410152,,11/01/2011,4320,"Invoice-Private",,11/01/2011,11/10/2011,,11414004MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3750,3750,"CR:Basic Service F... E.Foxwell 201111: Foxwell, Elvira",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,570,570,"CR:Swan Personal C... E.Foxwell 201111: Foxwell, Elvira",,,,,,,,,,,,,,,

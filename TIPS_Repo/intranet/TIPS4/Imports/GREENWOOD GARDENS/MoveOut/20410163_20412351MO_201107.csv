@@ -1,0 +1,5 @@
+BATCH,,201107,B,1550.0000,
+INVOICE,IN,,20410163,,07/01/2011,775.0000,"Invoice-Private",,07/01/2011,07/10/2011,,20412351MO,-3507.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,25.0000,775.00,"Credit for Limited Term Discount: Anderson, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,20410163,,07/01/2011,775,"Invoice-Private",,07/01/2011,07/10/2011,,20412351MO,-3507.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,25,775,"Limited Term Discount: Anderson, Geneva",,,,,,,,,,,,,,,

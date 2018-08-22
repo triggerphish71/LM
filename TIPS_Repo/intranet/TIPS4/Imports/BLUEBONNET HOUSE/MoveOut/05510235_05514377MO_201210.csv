@@ -1,0 +1,5 @@
+BATCH,,201210,B,1550.0000,
+INVOICE,IN,,05510235,,10/01/2012,775.0000,"Invoice-Private",,10/01/2012,10/10/2012,,05514377MO,490.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,31,25.0000,775.00,"Credit for Limited Term Discount: Bryant, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,05510235,,10/01/2012,775,"Invoice-Private",,10/01/2012,10/10/2012,,05514377MO,490.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,31,25,775,"Limited Term Discount: Bryant, Jack",,,,,,,,,,,,,,,

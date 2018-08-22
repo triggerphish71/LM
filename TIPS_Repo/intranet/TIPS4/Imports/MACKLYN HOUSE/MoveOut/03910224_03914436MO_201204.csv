@@ -1,0 +1,7 @@
+BATCH,,201204,B,9213.7500,
+INVOICE,IN,,03910224,,04/09/2012,2126.2500,"Invoice-Private",,04/09/2012,04/09/2012,,03914436MO,-4961.2500,,,,,,,,,,
+TRANSACTION,3020,010101039,9,102.0000,918.00,"Basic Service Fee - One Bedroom for Apr: Sirrine, Kent",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,9,134.2500,1208.25,"Resident Care - Level 75 for Apr: Sirrine, Kent",,,,,,,,,,,,,,,
+INVOICE,CM,,03910224,,04/09/2012,7087.5,"Invoice-Private",,04/09/2012,04/09/2012,,03914436MO,-4961.2500,,,,,,,,,,
+TRANSACTION,3020,010101039,1,3060,3060,"CR:Basic Service F... K.Sirrine 201204: Sirrine, Kent",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,4027.5,4027.5,"CR:Resident Care -... K.Sirrine 201204: Sirrine, Kent",,,,,,,,,,,,,,,

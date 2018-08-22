@@ -1,0 +1,5 @@
+BATCH,,201212,B,3032.1000,
+INVOICE,IN,,00510175,,12/18/2012,3032.1000,"MoveIn-Wearty. Helen",,12/18/2012,12/18/2012,,00512578,7531.7500,,,,,,,,,,
+TRANSACTION,3010,010101005,14,73.0000,1022,"Basic Service Fee - Studio: Wearty. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,14,72.1500,1010.1,"Resident Care - Level 39: Wearty. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Wearty. Helen",,,,,,,,,,,,,,,

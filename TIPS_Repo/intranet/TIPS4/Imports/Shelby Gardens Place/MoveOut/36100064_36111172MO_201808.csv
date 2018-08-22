@@ -1,0 +1,7 @@
+BATCH,,201808,B,5396.8900,
+INVOICE,IN,,36100064,,08/20/2018,2116.4000,"Invoice-Private",,08/20/2018,08/20/2018,,36111172MO,-1164.0900,,,,,,,,,,
+TRANSACTION,3020,070025361,20,75.8200,1516.40,"BSF Studio  for Aug: Speer, Loyce Alfreida",,,,,,,,,,,,,,,
+TRANSACTION,3027,070025361,20,30.0000,600.00,"Resident Care - Level 2  for Aug: Speer, Loyce Alfreida",,,,,,,,,,,,,,,
+INVOICE,CM,,36100064,,08/20/2018,3280.49,"Invoice-Private",,08/20/2018,08/20/2018,,36111172MO,-1164.0900,,,,,,,,,,
+TRANSACTION,3020,070025361,1,2350.49,2350.49,"CR:BSF Studio... L.Speer 201808: Speer, Loyce Alfreida",,,,,,,,,,,,,,,
+TRANSACTION,3027,070025361,1,930,930,"CR:Resident Care -... L.Speer 201808: Speer, Loyce Alfreida",,,,,,,,,,,,,,,

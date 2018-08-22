@@ -1,0 +1,5 @@
+BATCH,,201108,B,248.0000,
+INVOICE,IN,,15710214,,08/01/2011,124.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15714121MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,31,4.0000,124.00,"Credit for Limited Term Discount: Clingenpeel, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,15710214,,08/01/2011,124,"Invoice-Private",,08/01/2011,08/10/2011,,15714121MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,31,4,124,"Limited Term Discount: Clingenpeel, Catherine",,,,,,,,,,,,,,,

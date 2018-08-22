@@ -1,0 +1,8 @@
+BATCH,,201304,B,3145.0000,
+INVOICE,IN,,53610218,,04/18/2013,1170.0000,"Invoice-Private",,04/18/2013,04/18/2013,,53613966MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,18,50.0000,900.00,"Basic Service Fee - Studio for Apr: Raymond, Neil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,18,15.0000,270.00,"Resident Care Level Change for Apr: Raymond, Neil",,,,,,,,,,,,,,,
+INVOICE,CM,,53610218,,04/18/2013,1975,"Invoice-Private",,04/18/2013,04/18/2013,,53613966MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,1500,1500,"CR:Basic Service F... N.Raymond 201304: Raymond, Neil",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"CR:Pendant Fee... N.Raymond 201304: Raymond, Neil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,450,450,"CR:Resident Care L... N.Raymond 201304: Raymond, Neil",,,,,,,,,,,,,,,

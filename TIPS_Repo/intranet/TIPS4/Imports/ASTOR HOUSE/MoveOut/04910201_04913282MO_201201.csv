@@ -1,0 +1,6 @@
+BATCH,,201201,B,4433.3100,
+INVOICE,IN,,04910201,,01/01/2012,682.0000,"Invoice-Private",,01/01/2012,01/10/2012,,04913282MO,-3069.3100,,,,,,,,,,
+TRANSACTION,3320,010101049,1,682.0000,682.00,"CR:Limited Term Di... W.Maddox 201201: Maddox, William",,,,,,,,,,,,,,,
+INVOICE,CM,,04910201,,01/01/2012,3751.31,"Invoice-Private",,01/01/2012,01/10/2012,,04913282MO,-3069.3100,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2697,2697,"CR:Basic Service F... W.Maddox 201201: Maddox, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,1054.31,1054.31,"CR:Resident Care -... W.Maddox 201201: Maddox, William",,,,,,,,,,,,,,,

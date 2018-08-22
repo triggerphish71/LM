@@ -1,0 +1,7 @@
+BATCH,,201105,B,6498.0000,
+INVOICE,IN,,02411222,,05/27/2011,3526.0000,"Invoice-Private",,05/27/2011,05/27/2011,,02415306MO,-1393.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,961.0000,961.00,"CR:Limited Term Di... D.Owens 201105: Owens, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,27,95.0000,2565.00,"Basic Service Fee - Studio for May: Owens, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02411222,,05/27/2011,2972,"Invoice-Private",,05/27/2011,05/27/2011,,02415306MO,-1393.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2945,2945,"CR:Basic Service F... D.Owens 201105: Owens, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... D.Owens 201105: Owens, Dorothy",,,,,,,,,,,,,,,

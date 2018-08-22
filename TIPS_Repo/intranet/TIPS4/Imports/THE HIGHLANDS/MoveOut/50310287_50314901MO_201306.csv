@@ -1,0 +1,7 @@
+BATCH,,201306,B,140.0000,
+INVOICE,IN,,50310287,,06/01/2013,70.0000,"Invoice-Private",,06/01/2013,06/10/2013,,50314901MO,-3256.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Baker, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35.0000,35.00,"Pendant Fee: Baker, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,50310287,,06/01/2013,70,"Invoice-Private",,06/01/2013,06/10/2013,,50314901MO,-3256.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Baker, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35,35,"Credit for Pendant Fee: Baker, Laura",,,,,,,,,,,,,,,

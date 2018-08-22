@@ -1,0 +1,6 @@
+BATCH,,201212,B,3906.0000,
+INVOICE,IN,,13110262,,12/01/2012,310.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13114726MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,310.0000,310.00,"CR:Limited Term Di... F.Bundy 201212: Bundy, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,13110262,,12/01/2012,3596,"Invoice-Private",,12/01/2012,12/10/2012,,13114726MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... F.Bundy 201212: Bundy, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... F.Bundy 201212: Bundy, Florence",,,,,,,,,,,,,,,

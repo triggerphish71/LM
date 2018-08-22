@@ -1,0 +1,8 @@
+BATCH,,201302,B,6788.0000,
+INVOICE,IN,,53410138,,02/22/2013,3092.0000,"Invoice-Private",,02/22/2013,02/22/2013,,53422040MO,-4665.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,56.0000,56.00,"CR:Limited Term Di... A.Reiss 201302: Reiss, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,23,79.0000,1817.00,"Basic Service Fee - One Bedroom Del for Feb: Reiss, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,23,53.0000,1219.00,"Resident Care - Level 2 for Feb: Reiss, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,53410138,,02/22/2013,3696,"Invoice-Private",,02/22/2013,02/22/2013,,53422040MO,-4665.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2212,2212,"CR:Basic Service F... A.Reiss 201302: Reiss, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1484,1484,"CR:Resident Care -... A.Reiss 201302: Reiss, Agnes",,,,,,,,,,,,,,,

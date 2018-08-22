@@ -1,0 +1,7 @@
+BATCH,,201301,B,4250.0000,
+INVOICE,IN,,13510278,,01/01/2013,1430.0000,"Invoice-Private",,01/01/2013,01/10/2013,,13515547MO,-1390.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,620.0000,620.00,"CR:Limited Term Di... J.Hollers 201301: Hollers, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309135,9,90.0000,810.00,"Basic Service Fee - Studio for Jan: Hollers, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,13510278,,01/01/2013,2820,"Invoice-Private",,01/01/2013,01/10/2013,,13515547MO,-1390.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2790,2790,"CR:Basic Service F... J.Hollers 201301: Hollers, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... J.Hollers 201301: Hollers, Jack",,,,,,,,,,,,,,,

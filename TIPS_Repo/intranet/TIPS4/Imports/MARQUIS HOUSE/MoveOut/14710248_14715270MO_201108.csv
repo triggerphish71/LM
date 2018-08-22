@@ -1,0 +1,8 @@
+BATCH,,201108,B,8535.0000,
+INVOICE,IN,,14710248,,08/23/2011,3874.0000,"Invoice-Private",,08/23/2011,08/23/2011,,14715270MO,-5299.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,26,98.0000,2548.00,"Basic Service Fee - Studio for Aug: Porter, Maude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,26,51.0000,1326.00,"Resident Care - Level 3 for Aug: Porter, Maude",,,,,,,,,,,,,,,
+INVOICE,CM,,14710248,,08/23/2011,4661,"Invoice-Private",,08/23/2011,08/23/2011,,14715270MO,-5299.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3038,3038,"CR:Basic Service F... M.Porter 201108: Porter, Maude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... M.Porter 201108: Porter, Maude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1581,1581,"CR:Resident Care -... M.Porter 201108: Porter, Maude",,,,,,,,,,,,,,,

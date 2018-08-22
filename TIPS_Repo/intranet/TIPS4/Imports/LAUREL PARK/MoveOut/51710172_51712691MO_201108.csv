@@ -1,0 +1,8 @@
+BATCH,,201108,B,4894.0000,
+INVOICE,IN,,51710172,,08/13/2011,1443.0000,"Invoice-Private",,08/13/2011,08/13/2011,,51712691MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3020,010103517,13,94.0000,1222.00,"Basic Service Fee - Studio for Aug: Anderson, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,13,17.0000,221.00,"Resident Care - Level 10 for Aug: Anderson, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,51710172,,08/13/2011,3451,"Invoice-Private",,08/13/2011,08/13/2011,,51712691MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3020,010103517,1,2914,2914,"CR:Basic Service F... J.Anderson 201108: Anderson, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"CR:Pendant Fee... J.Anderson 201108: Anderson, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,527,527,"CR:Resident Care -... J.Anderson 201108: Anderson, Janice",,,,,,,,,,,,,,,

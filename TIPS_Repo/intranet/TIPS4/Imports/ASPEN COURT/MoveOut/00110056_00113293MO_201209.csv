@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,00110056,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,00113293MO,-4300.9600,,,,,,,,,,
+TRANSACTION,3320,010101001,30,2.0000,60.00,"Credit for Limited Term Discount: Farrell, Alys Belle",,,,,,,,,,,,,,,
+INVOICE,CM,,00110056,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,00113293MO,-4300.9600,,,,,,,,,,
+TRANSACTION,3320,010101001,30,2,60,"Limited Term Discount: Farrell, Alys Belle",,,,,,,,,,,,,,,

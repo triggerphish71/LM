@@ -1,0 +1,7 @@
+BATCH,,201211,B,979.0000,
+INVOICE,IN,,53610197,,11/01/2012,489.5000,"Invoice-Private",,11/01/2012,11/10/2012,,53613757MO,-2045.3500,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Schulner, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3316,010319536,30,15.1500,454.50,"Credit for Employee Discount: Schulner, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,53610197,,11/01/2012,489.5,"Invoice-Private",,11/01/2012,11/10/2012,,53613757MO,-2045.3500,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Schulner, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3316,010319536,30,15.15,454.5,"Employee Discount: Schulner, Gary",,,,,,,,,,,,,,,

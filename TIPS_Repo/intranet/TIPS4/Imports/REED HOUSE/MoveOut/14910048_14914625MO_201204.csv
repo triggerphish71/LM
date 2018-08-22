@@ -1,0 +1,8 @@
+BATCH,,201204,B,7469.0000,
+INVOICE,IN,,14910048,,04/13/2012,2249.0000,"Invoice-Private",,04/13/2012,04/13/2012,,14914625MO,-2971.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,13,100.0000,1300.00,"Basic Service Fee - Studio for Apr: North, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,13,73.0000,949.00,"Resident Care - Level 5 for Apr: North, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14910048,,04/13/2012,5220,"Invoice-Private",,04/13/2012,04/13/2012,,14914625MO,-2971.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3000,3000,"CR:Basic Service F... H.North 201204: North, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... H.North 201204: North, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,2190,2190,"CR:Resident Care -... H.North 201204: North, Helen",,,,,,,,,,,,,,,

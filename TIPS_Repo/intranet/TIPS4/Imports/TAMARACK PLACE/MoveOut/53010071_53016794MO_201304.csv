@@ -1,0 +1,8 @@
+BATCH,,201304,B,7240.0000,
+INVOICE,IN,,53010071,,04/10/2013,1800.0000,"Invoice-Private",,04/10/2013,04/10/2013,,53016794MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,10,111.0000,1110.00,"Basic Service Fee - One Bedroom Del for Apr: Trayser, Marceal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,10,69.0000,690.00,"Resident Care - Level 4 for Apr: Trayser, Marceal",,,,,,,,,,,,,,,
+INVOICE,CM,,53010071,,04/10/2013,5440,"Invoice-Private",,04/10/2013,04/10/2013,,53016794MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3330,3330,"CR:Basic Service F... M.Trayser 201304: Trayser, Marceal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... M.Trayser 201304: Trayser, Marceal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,2070,2070,"CR:Resident Care -... M.Trayser 201304: Trayser, Marceal",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201803,B,70.0000,
+INVOICE,IN,,32200004,,03/01/2018,35.0000,"Invoice-Private",,03/01/2018,03/10/2018,,32210564MO,-5390.0000,,,,,,,,,,
+TRANSACTION,3260,070024322,1,35.0000,35.00,"Monthly Cable: Barrett, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,32200004,,03/01/2018,35,"Invoice-Private",,03/01/2018,03/10/2018,,32210564MO,-5390.0000,,,,,,,,,,
+TRANSACTION,3260,070024322,1,35,35,"Credit for Monthly Cable: Barrett, Wilbur",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,5396.0000,
+INVOICE,IN,,06910065,,10/04/2011,994.0000,"Invoice-Private",,10/04/2011,10/04/2011,,06913675MO,-3408.0000,,,,,,,,,,
+TRANSACTION,3027,010305069,7,69.0000,483.00,"Resident Care - Level 5 for Oct: Coatney, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,7,73.0000,511.00,"Room and Board - Studio for Oct: Coatney, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,06910065,,10/04/2011,4402,"Invoice-Private",,10/04/2011,10/04/2011,,06913675MO,-3408.0000,,,,,,,,,,
+TRANSACTION,3027,010305069,1,2139,2139,"CR:Resident Care -... B.Coatney 201110: Coatney, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2263,2263,"CR:Room and Board ... B.Coatney 201110: Coatney, Barbara",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,6995.0000,
+INVOICE,IN,,53610210,,04/01/2013,2310.0000,"Invoice-Private",,04/01/2013,04/10/2013,,53613937MO,-4031.0000,,,,,,,,,,
+TRANSACTION,3027,010319536,1,2310.0000,2310.00,"CR:Resident Care L... M.Parroni 201304: Parroni, Manlio",,,,,,,,,,,,,,,
+INVOICE,CM,,53610210,,04/01/2013,4685,"Invoice-Private",,04/01/2013,04/10/2013,,53613937MO,-4031.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2340,2340,"CR:Basic Service F... M.Parroni 201304: Parroni, Manlio",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... M.Parroni 201304: Parroni, Manlio",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,2310,2310,"CR:Resident Care -... M.Parroni 201304: Parroni, Manlio",,,,,,,,,,,,,,,

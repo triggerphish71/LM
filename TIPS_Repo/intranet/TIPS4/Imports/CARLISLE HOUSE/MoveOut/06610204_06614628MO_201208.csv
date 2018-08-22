@@ -1,0 +1,7 @@
+BATCH,,201208,B,2835.0000,
+INVOICE,IN,,06610204,,08/01/2012,324.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06614628MO,-2187.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,4,33.0000,132.00,"Basic Service Fee - Second Resident for Aug: Heydinger, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,4,48.0000,192.00,"Resident Care - Level 3 for Aug: Heydinger, Maria",,,,,,,,,,,,,,,
+INVOICE,CM,,06610204,,08/01/2012,2511,"Invoice-Private",,08/01/2012,08/10/2012,,06614628MO,-2187.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,1023,1023,"CR:Basic Service F... M.Heydinger 201208: Heydinger, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1488,1488,"CR:Resident Care -... M.Heydinger 201208: Heydinger, Maria",,,,,,,,,,,,,,,

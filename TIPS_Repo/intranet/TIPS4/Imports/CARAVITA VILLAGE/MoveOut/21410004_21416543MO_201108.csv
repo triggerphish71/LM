@@ -1,0 +1,5 @@
+BATCH,,201108,B,1550.0000,
+INVOICE,IN,,21410004,,08/01/2011,558.0000,"Invoice-Private",,08/01/2011,08/10/2011,,21416543MO,-434.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,1,558.0000,558.00,"CR:Daily Discount... R.MacCambridge 201108: MacCambridge, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,21410004,,08/01/2011,992,"Invoice-Private",,08/01/2011,08/10/2011,,21416543MO,-434.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,992,992,"CR:IL Second Resid... R.MacCambridge 201108: MacCambridge, Ruth",,,,,,,,,,,,,,,

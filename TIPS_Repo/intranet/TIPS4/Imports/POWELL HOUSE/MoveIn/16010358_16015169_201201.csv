@@ -1,0 +1,6 @@
+BATCH,,201201,B,2755.0000,
+INVOICE,IN,,16010358,,01/27/2012,2755.0000,"MoveIn-Grimes. Robert",,01/27/2012,01/27/2012,,16015169,7014.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,5,118.0000,590,"Basic Service Fee - One Bedroom: Grimes. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,5,28.0000,140,"Resident Care - Level 2: Grimes. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Grimes. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,2000.0000,2000,"New Resident Fee: Grimes. Robert",,,,,,,,,,,,,,,

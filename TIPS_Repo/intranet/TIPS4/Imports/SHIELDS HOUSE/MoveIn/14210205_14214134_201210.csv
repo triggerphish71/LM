@@ -1,0 +1,5 @@
+BATCH,,201210,B,4215.0000,
+INVOICE,IN,,14210205,,10/02/2012,4215.0000,"MoveIn-West. Frances",,10/02/2012,10/02/2012,,14214134,4215.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,30,106.0000,3180,"Basic Service Fee - One Bedroom: West. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: West. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: West. Frances",,,,,,,,,,,,,,,

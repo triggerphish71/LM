@@ -1,0 +1,5 @@
+BATCH,,201304,B,2743.0000,
+INVOICE,IN,,01310218,,04/01/2013,2743.0000,"April_Rent-Watkins. Fern",,04/01/2013,04/10/2013,,01314381,5400.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,30,72.0000,2160,"Basic Service Fee - Studio: Watkins. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,30,18.5000,555,"Resident Care - Level 10: Watkins. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Watkins. Fern",,,,,,,,,,,,,,,

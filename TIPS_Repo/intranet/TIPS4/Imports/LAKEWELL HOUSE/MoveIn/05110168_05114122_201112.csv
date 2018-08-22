@@ -1,0 +1,5 @@
+BATCH,,201112,B,3325.0000,
+INVOICE,IN,,05110168,,12/14/2011,3325.0000,"MoveIn-Lee. Richard",,12/14/2011,12/14/2011,,05114122,3325.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,18,100.0000,1800,"Basic Service Fee - Studio: Lee. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25.0000,25,"Monthly Cable: Lee. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202051,1,1500.0000,1500,"New Resident Fee: Lee. Richard",,,,,,,,,,,,,,,

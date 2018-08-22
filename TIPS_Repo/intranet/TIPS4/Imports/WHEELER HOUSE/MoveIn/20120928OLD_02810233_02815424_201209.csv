@@ -1,0 +1,5 @@
+BATCH,,201209,B,2450.0000,
+INVOICE,IN,,02810233,,09/28/2012,2450.0000,"MoveIn-Swanner. Melvin",,09/28/2012,09/28/2012,,02815424,7100.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,3,113.0000,339,"M.Swanner: Basic Service Fee - Studio: Swanner. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,3,37.0000,111,"M.Swanner: Resident Care - Level 3: Swanner. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Swanner. Melvin",,,,,,,,,,,,,,,

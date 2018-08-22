@@ -1,0 +1,5 @@
+BATCH,,201204,B,3750.0000,
+INVOICE,CM,,53410263,,04/01/2012,3750,"Invoice-Private",,04/01/2012,04/10/2012,,53420703MO,-5268.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Basic Service F... J.Gunther 201204: Gunther, John",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Gunther 201204: Gunther, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1590,1590,"CR:Resident Care -... J.Gunther 201204: Gunther, John",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201206,B,5025.0000,
+INVOICE,IN,,13510254,,06/07/2012,945.0000,"Invoice-Private",,06/07/2012,06/07/2012,,13515219MO,-3135.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,7,119.0000,833.00,"Basic Service Fee- One Bedroom Prem for Jun: Strack, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,7,16.0000,112.00,"Resident Care - Level 1 for Jun: Strack, Marge",,,,,,,,,,,,,,,
+INVOICE,CM,,13510254,,06/07/2012,4080,"Invoice-Private",,06/07/2012,06/07/2012,,13515219MO,-3135.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,3570,3570,"CR:Basic Service F... M.Strack 201206: Strack, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... M.Strack 201206: Strack, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,480,480,"CR:Resident Care -... M.Strack 201206: Strack, Marge",,,,,,,,,,,,,,,

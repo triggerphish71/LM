@@ -1,0 +1,7 @@
+BATCH,,201204,B,1750.0000,
+INVOICE,IN,,50110199,,04/01/2012,875.0000,"Invoice-Private",,04/01/2012,04/10/2012,,50113987MO,-3073.0000,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35.00,"Pendant Fee: Seybold, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,30,28.0000,840.00,"Credit for Limited Term Discount: Seybold, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,50110199,,04/01/2012,875,"Invoice-Private",,04/01/2012,04/10/2012,,50113987MO,-3073.0000,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"Credit for Pendant Fee: Seybold, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,30,28,840,"Limited Term Discount: Seybold, Thomas",,,,,,,,,,,,,,,

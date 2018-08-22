@@ -1,0 +1,7 @@
+BATCH,,201804,B,5784.0000,
+INVOICE,IN,,15110291,,04/12/2018,2184.0000,"Invoice-Private",,04/12/2018,04/12/2018,,15116818MO,-1416.0000,,,,,,,,,,
+TRANSACTION,3017,010012151,12,81.0000,972.00," Level: 5 : Wise, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012151,12,101.0000,1212.00,"Basic Service Fee- One Bedroom Premium  for Apr: Wise, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,15110291,,04/12/2018,3600,"Invoice-Private",,04/12/2018,04/12/2018,,15116818MO,-1416.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,3030,3030,"CR:Basic Service F... R.Wise 201804: Wise, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,570,570,"CR:Resident Care -... R.Wise 201804: Wise, Ruth",,,,,,,,,,,,,,,

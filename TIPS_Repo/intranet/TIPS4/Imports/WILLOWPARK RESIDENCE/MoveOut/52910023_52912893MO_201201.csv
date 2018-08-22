@@ -1,0 +1,6 @@
+BATCH,,201201,B,5253.0000,
+INVOICE,CM,,52910023,,01/01/2012,5253,"Invoice-Private",,01/01/2012,01/10/2012,,52912893MO,-5793.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2914,2914,"CR:Basic Service F... E.Voigt 201201: Voigt, Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... E.Voigt 201201: Voigt, Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... E.Voigt 201201: Voigt, Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,2294,2294,"CR:Resident Care -... E.Voigt 201201: Voigt, Elvera",,,,,,,,,,,,,,,

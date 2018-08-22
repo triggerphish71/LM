@@ -1,0 +1,6 @@
+BATCH,,201211,B,3615.0000,
+INVOICE,IN,,02210202,,11/15/2012,170.0000,"Invoice-Private",,11/15/2012,11/15/2012,,02214568MO,-5910.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,2,85.0000,170.00,"Basic Service Fee - Studio for Nov: Plunkett, Robbie",,,,,,,,,,,,,,,
+INVOICE,CM,,02210202,,11/15/2012,3445,"Invoice-Private",,11/15/2012,11/15/2012,,02214568MO,-5910.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,1445,1445,"CR:Basic Service F... R.Plunkett 201211: Plunkett, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000,2000,"CR:New Resident Fe... R.Plunkett 201211: Plunkett, Robbie",,,,,,,,,,,,,,,

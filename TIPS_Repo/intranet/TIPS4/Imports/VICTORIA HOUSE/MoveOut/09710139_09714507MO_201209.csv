@@ -1,0 +1,6 @@
+BATCH,,201209,B,6556.0000,
+INVOICE,IN,,09710139,,09/26/2012,3076.0000,"Invoice-Private",,09/26/2012,09/26/2012,,09714507MO,-3938.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,60.0000,60.00,"CR:Limited Term Di... E.Brown 201209: Brown, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,26,116.0000,3016.00,"Basic Service Fee - One Bedroom for Sep: Brown, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,09710139,,09/26/2012,3480,"Invoice-Private",,09/26/2012,09/26/2012,,09714507MO,-3938.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,3480,3480,"CR:Basic Service F... E.Brown 201209: Brown, Elizabeth",,,,,,,,,,,,,,,

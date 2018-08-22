@@ -1,0 +1,5 @@
+BATCH,,201306,B,1276.0000,
+INVOICE,IN,,06910188,,06/28/2013,1276.0000,"MoveIn-Peters. Carol",,06/28/2013,06/28/2013,,06914194,4128.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,3,76.0000,228,"Basic Service Fee - Studio: Peters. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,3,16.0000,48,"Resident Care - Level 1: Peters. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1000.0000,1000,"New Resident Fee: Peters. Carol",,,,,,,,,,,,,,,

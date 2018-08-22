@@ -1,0 +1,8 @@
+BATCH,,201210,B,6504.0000,
+INVOICE,IN,,04510260,,10/01/2012,2540.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04514230MO,-1424.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,20,98.0000,1960.00,"Basic Service Fee - One Bedroom for Oct: Hoskins, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,20,29.0000,580.00,"Resident Care - Level 2 for Oct: Hoskins, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,04510260,,10/01/2012,3964,"Invoice-Private",,10/01/2012,10/10/2012,,04514230MO,-1424.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,3038,3038,"CR:Basic Service F... V.Hoskins 201210: Hoskins, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... V.Hoskins 201210: Hoskins, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,899,899,"CR:Resident Care -... V.Hoskins 201210: Hoskins, Virginia",,,,,,,,,,,,,,,

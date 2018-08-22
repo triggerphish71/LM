@@ -1,0 +1,8 @@
+BATCH,,201106,B,5457.0000,
+INVOICE,IN,,01110254,,06/24/2011,2592.0000,"Invoice-Private",,06/24/2011,06/24/2011,,01113695MO,-2923.5000,,,,,,,,,,
+TRANSACTION,3320,010101011,1,300.0000,300.00,"CR:Limited Term Di... L.Keyte 201106: Keyte, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101011,24,87.0000,2088.00,"Basic Service Fee - One Bedroom for Jun: Keyte, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,24,8.5000,204.00,"Resident Care - Level 5 for Jun: Keyte, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,01110254,,06/24/2011,2865,"Invoice-Private",,06/24/2011,06/24/2011,,01113695MO,-2923.5000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2610,2610,"CR:Basic Service F... L.Keyte 201106: Keyte, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,255,255,"CR:Resident Care -... L.Keyte 201106: Keyte, Lawrence",,,,,,,,,,,,,,,

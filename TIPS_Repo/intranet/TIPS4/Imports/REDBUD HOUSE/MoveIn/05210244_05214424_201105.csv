@@ -1,0 +1,6 @@
+BATCH,,201105,B,2507.0000,
+INVOICE,IN,,05210244,,05/27/2011,2507.0000,"MoveIn-Sanders. Jerldine",,05/27/2011,05/27/2011,,05214424,5414.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,5,79.0000,395,"Basic Service Fee - Studio         : Sanders. Jerldine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202052,5,17.0000,85,"Resident Care - Level 1: Sanders. Jerldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Sanders. Jerldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Sanders. Jerldine",,,,,,,,,,,,,,,

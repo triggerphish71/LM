@@ -1,0 +1,5 @@
+BATCH,,201202,B,1625.0000,
+INVOICE,IN,,02910303,,02/29/2012,1625.0000,"MoveIn-Cole. Fred",,02/29/2012,02/29/2012,,02915487,4750.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,1,100.0000,100,"Basic Service Fee - Studio: Cole. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Cole. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Cole. Fred",,,,,,,,,,,,,,,

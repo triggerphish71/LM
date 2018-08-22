@@ -1,0 +1,8 @@
+BATCH,,201106,B,4057.0000,
+INVOICE,IN,,01610178,,06/02/2011,252.0000,"Invoice-Private",,06/02/2011,06/02/2011,,01615324MO,-3553.0000,,,,,,,,,,
+TRANSACTION,3027,010202016,2,32.0000,64.00,"Resident Care - Level 2 for Jun: Whitten, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202016,2,94.0000,188.00,"Room and Board - One Bedroom for Jun: Whitten, Aubrey",,,,,,,,,,,,,,,
+INVOICE,CM,,01610178,,06/02/2011,3805,"Invoice-Private",,06/02/2011,06/02/2011,,01615324MO,-3553.0000,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... A.Whitten 201106: Whitten, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,960,960,"CR:Resident Care -... A.Whitten 201106: Whitten, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2820,2820,"CR:Room and Board ... A.Whitten 201106: Whitten, Aubrey",,,,,,,,,,,,,,,

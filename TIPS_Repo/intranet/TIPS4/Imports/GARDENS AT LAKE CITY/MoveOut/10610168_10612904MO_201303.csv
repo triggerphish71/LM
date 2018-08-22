@@ -1,0 +1,8 @@
+BATCH,,201303,B,10527.0000,
+INVOICE,IN,,10610168,,03/29/2013,5160.0000,"Invoice-Private",,03/29/2013,03/29/2013,,10612904MO,-5402.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,30,88.0000,2640.00,"Basic Service Fee - Studio for Mar: Kagin, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,30,84.0000,2520.00,"Resident Care - Level 6 for Mar: Kagin, June",,,,,,,,,,,,,,,
+INVOICE,CM,,10610168,,03/29/2013,5367,"Invoice-Private",,03/29/2013,03/29/2013,,10612904MO,-5402.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2728,2728,"CR:Basic Service F... J.Kagin 201303: Kagin, June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... J.Kagin 201303: Kagin, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,2604,2604,"CR:Resident Care -... J.Kagin 201303: Kagin, June",,,,,,,,,,,,,,,

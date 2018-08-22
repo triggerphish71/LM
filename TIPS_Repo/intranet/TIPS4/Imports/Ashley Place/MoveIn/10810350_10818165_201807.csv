@@ -1,0 +1,7 @@
+BATCH,,201807,B,8560.6000,
+INVOICE,IN,,10810350,,07/19/2018,8560.6000,"MoveIn-Riege. Fred",,07/19/2018,07/19/2018,,10818165,8560.6000,,,,,,,,,,
+TRANSACTION,3010,010008108,13,112.0000,1456,"Basic Service Fee - Studio         : Riege. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010008108,13,20.0000,260,"Resident Care - Level 1: Riege. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35.0000,35,"Monthly Cable: Riege. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008108,1,3404.8000,3404.8,"Community Fee: Riege. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008108,1,3404.8000,3404.8,"Monthly Deferral Charge: Riege. Fred",,,,,,,,,,,,,,,

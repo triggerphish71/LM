@@ -1,0 +1,7 @@
+BATCH,,201307,B,7473.0000,
+INVOICE,IN,,11910278,,07/21/2013,3102.0000,"Invoice-Private",,07/21/2013,07/21/2013,,11916434MO,-5675.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,22,123.0000,2706.00,"Basic Service Fee - One Bedroom for Jul: Dietz, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,22,18.0000,396.00,"Resident Care - Level 1 for Jul: Dietz, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,11910278,,07/21/2013,4371,"Invoice-Private",,07/21/2013,07/21/2013,,11916434MO,-5675.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3813,3813,"CR:Basic Service F... H.Dietz 201307: Dietz, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,558,558,"CR:Resident Care -... H.Dietz 201307: Dietz, Henry",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,2234.0000,
+INVOICE,IN,,11710265,,07/18/2013,2234.0000,"MoveIn-Waterfield. Sally",,07/18/2013,07/18/2013,,11714160,4930.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,14,86.0000,1204,"Basic Service Fee - Studio: Waterfield. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Waterfield. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1000.0000,1000,"New Resident Fee: Waterfield. Sally",,,,,,,,,,,,,,,

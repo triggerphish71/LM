@@ -1,0 +1,5 @@
+BATCH,,201209,B,3774.0000,
+INVOICE,IN,,08910171,,09/04/2012,444.0000,"Invoice-Private",,09/04/2012,09/04/2012,,08914946MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,4,111.0000,444.00,"Room and Board - Studio for Sep: Clement, Oleta",,,,,,,,,,,,,,,
+INVOICE,CM,,08910171,,09/04/2012,3330,"Invoice-Private",,09/04/2012,09/04/2012,,08914946MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3330,3330,"CR:Room and Board ... O.Clement 201209: Clement, Oleta",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201304,B,2109.0000,
+INVOICE,IN,,19810154,,04/02/2013,189.0000,"Invoice-Private",,04/02/2013,04/02/2013,,19818463MO,-1731.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,3,63.0000,189.00,"Basic Service Fee AL - One Bedroom for Apr: Link, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,19810154,,04/02/2013,1920,"Invoice-Private",,04/02/2013,04/02/2013,,19818463MO,-1731.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1890,1890,"CR:Basic Service F... A.Link 201304: Link, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... A.Link 201304: Link, Alice",,,,,,,,,,,,,,,

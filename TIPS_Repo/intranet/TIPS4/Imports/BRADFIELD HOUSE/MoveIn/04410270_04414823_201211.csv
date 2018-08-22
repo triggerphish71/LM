@@ -1,0 +1,5 @@
+BATCH,,201211,B,3445.0000,
+INVOICE,IN,,04410270,,11/01/2012,3445.0000,"November_Rent-Wilson. Eunice",,11/01/2012,11/10/2012,,04414823,5654.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,30,85.0000,2550,"Basic Service Fee - Studio: Wilson. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,30,29.0000,870,"Resident Care - Level 2: Wilson. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Wilson. Eunice",,,,,,,,,,,,,,,

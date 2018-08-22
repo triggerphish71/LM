@@ -1,0 +1,7 @@
+BATCH,,201304,B,10528.0000,
+INVOICE,IN,,10110126,,04/01/2013,4888.0000,"Invoice-Private",,04/01/2013,04/10/2013,,10112506MO,-752.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,26,113.0000,2938.00,"Basic Service Fee- One Bedroom Prem for Apr: Meilander, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,26,75.0000,1950.00,"Resident Care - Level 6 for Apr: Meilander, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,10110126,,04/01/2013,5640,"Invoice-Private",,04/01/2013,04/10/2013,,10112506MO,-752.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,3390,3390,"CR:Basic Service F... W.Meilander 201304: Meilander, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,2250,2250,"CR:Resident Care -... W.Meilander 201304: Meilander, Warren",,,,,,,,,,,,,,,

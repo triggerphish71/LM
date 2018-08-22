@@ -1,0 +1,6 @@
+BATCH,,201205,B,3269.0000,
+INVOICE,IN,,50210191,,05/16/2012,3269.0000,"MoveIn-Hoosier. Archie",,05/16/2012,05/16/2012,,50213412,3269.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,16,83.0000,1328,"Basic Service Fee - Studio: Hoosier. Archie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,16,26.0000,416,"Resident Care - Level 2: Hoosier. Archie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Hoosier. Archie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Hoosier. Archie",,,,,,,,,,,,,,,

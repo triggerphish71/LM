@@ -1,0 +1,7 @@
+BATCH,,201804,B,5336.6700,
+INVOICE,IN,,34900177,,04/11/2018,1886.6700,"Invoice-Private",,04/11/2018,04/11/2018,,34912177MO,-5128.3300,,,,,,,,,,
+TRANSACTION,3010,070027349,4,50.0000,200.00,"AL level care - 04-05-2018: Harris, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3010,070027349,4,115.0000,460.00,"One Bedroom - 04-05-2018: Harris, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3010,070027349,1,1226.6667,1226.67,"Basic Service Fee - MC Studio: Harris, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,34900177,,04/11/2018,3450,"Invoice-Private",,04/11/2018,04/11/2018,,34912177MO,-5128.3300,,,,,,,,,,
+TRANSACTION,3020,070027349,1,3450,3450,"CR:One Bedroom... R.Harris 201804: Harris, Ronald",,,,,,,,,,,,,,,

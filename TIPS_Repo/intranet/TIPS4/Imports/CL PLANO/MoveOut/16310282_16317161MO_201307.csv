@@ -1,0 +1,8 @@
+BATCH,,201307,B,2907.0000,
+INVOICE,IN,,16310282,,07/01/2013,90.0000,"Invoice-Private",,07/01/2013,07/01/2013,,16317161MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,55.0000,55.00,"Basic Service Fee - Studio Deluxe for Jul: Williamson, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,35.0000,35.00,"Resident Care - Level 3 for Jul: Williamson, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,16310282,,07/01/2013,2817,"Invoice-Private",,07/01/2013,07/01/2013,,16317161MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,1705,1705,"CR:Basic Service F... B.Williamson 201307: Williamson, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... B.Williamson 201307: Williamson, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1085,1085,"CR:Resident Care -... B.Williamson 201307: Williamson, Bernice",,,,,,,,,,,,,,,

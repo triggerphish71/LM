@@ -1,0 +1,8 @@
+BATCH,,201212,B,5761.3000,
+INVOICE,IN,,00910155,,12/14/2012,2390.3600,"Invoice-Private",,12/14/2012,12/14/2012,,00913862MO,-3483.5200,,,,,,,,,,
+TRANSACTION,3320,010101009,1,868.0000,868.00,"CR:Limited Term Di... D.Craig 201212: Craig, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,14,98.0000,1372.00,"Basic Service Fee - One Bedroom for Dec: Craig, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,14,10.7400,150.36,"Resident Care - Level 6 for Dec: Craig, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,00910155,,12/14/2012,3370.94,"Invoice-Private",,12/14/2012,12/14/2012,,00913862MO,-3483.5200,,,,,,,,,,
+TRANSACTION,3020,010101009,1,3038,3038,"CR:Basic Service F... D.Craig 201212: Craig, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,332.94,332.94,"CR:Resident Care -... D.Craig 201212: Craig, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,3155.0000,
+INVOICE,IN,,15410214,,07/08/2011,640.0000,"Invoice-Private",,07/08/2011,07/08/2011,,15414438MO,-1875.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,8,62.0000,496.00,"Basic Service Fee - Studio for Jul: Arandus, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,8,18.0000,144.00,"Resident Care - Level 1 for Jul: Arandus, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,15410214,,07/08/2011,2515,"Invoice-Private",,07/08/2011,07/08/2011,,15414438MO,-1875.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1922,1922,"CR:Basic Service F... H.Arandus 201107: Arandus, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... H.Arandus 201107: Arandus, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,558,558,"CR:Resident Care -... H.Arandus 201107: Arandus, Harriet",,,,,,,,,,,,,,,

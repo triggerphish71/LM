@@ -1,0 +1,7 @@
+BATCH,,201109,B,4699.0000,
+INVOICE,IN,,06610176,,09/01/2011,1280.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06614171MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,510.0000,510.00,"CR:Decrease Room a... V.Karl 201109: Karl, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,7,110.0000,770.00,"Basic Service Fee - Deluxe for Sep: Karl, Viola",,,,,,,,,,,,,,,
+INVOICE,CM,,06610176,,09/01/2011,3419,"Invoice-Private",,09/01/2011,09/10/2011,,06614171MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3300,3300,"CR:Basic Service F... V.Karl 201109: Karl, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,7,17,119,"Decrease Room and Board for Sep: Karl, Viola",,,,,,,,,,,,,,,

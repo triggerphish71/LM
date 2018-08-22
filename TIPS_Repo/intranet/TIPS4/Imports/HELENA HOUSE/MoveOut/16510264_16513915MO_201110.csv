@@ -1,0 +1,6 @@
+BATCH,,201110,B,4491.0000,
+INVOICE,IN,,16510264,,10/01/2011,1457.0000,"Invoice-Private",,10/01/2011,10/10/2011,,16513915MO,-485.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,1457.0000,1457.00,"CR:Limited Term Di... R.Chapman 201110: Chapman, Rufus",,,,,,,,,,,,,,,
+INVOICE,CM,,16510264,,10/01/2011,3034,"Invoice-Private",,10/01/2011,10/10/2011,,16513915MO,-485.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... R.Chapman 201110: Chapman, Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... R.Chapman 201110: Chapman, Rufus",,,,,,,,,,,,,,,

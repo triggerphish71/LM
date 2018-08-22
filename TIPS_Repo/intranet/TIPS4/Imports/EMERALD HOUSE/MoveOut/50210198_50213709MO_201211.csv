@@ -1,0 +1,8 @@
+BATCH,,201211,B,4681.0000,
+INVOICE,IN,,50210198,,11/01/2012,1746.0000,"Invoice-Private",,11/01/2012,11/10/2012,,50213709MO,-4221.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,18,14.0000,252.00,"Resident Care - Level 1 for Nov: Buhr, Wilford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,18,83.0000,1494.00,"Room and Board - Studio for Nov: Buhr, Wilford",,,,,,,,,,,,,,,
+INVOICE,CM,,50210198,,11/01/2012,2935,"Invoice-Private",,11/01/2012,11/10/2012,,50213709MO,-4221.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... W.Buhr 201211: Buhr, Wilford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,420,420,"CR:Resident Care -... W.Buhr 201211: Buhr, Wilford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2490,2490,"CR:Room and Board ... W.Buhr 201211: Buhr, Wilford",,,,,,,,,,,,,,,

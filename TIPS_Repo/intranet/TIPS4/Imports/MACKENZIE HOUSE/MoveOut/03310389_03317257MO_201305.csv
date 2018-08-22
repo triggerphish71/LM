@@ -1,0 +1,7 @@
+BATCH,,201305,B,8058.0000,
+INVOICE,IN,,03310389,,05/20/2013,3160.0000,"Invoice-Private",,05/20/2013,05/20/2013,,03317257MO,-6478.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,20,117.0000,2340.00,"Basic Service Fee - One Bedroom for May: Campbell, Genny",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,20,41.0000,820.00,"Resident Care - Level 3 for May: Campbell, Genny",,,,,,,,,,,,,,,
+INVOICE,CM,,03310389,,05/20/2013,4898,"Invoice-Private",,05/20/2013,05/20/2013,,03317257MO,-6478.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3627,3627,"CR:Basic Service F... G.Campbell 201305: Campbell, Genny",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,1271,1271,"CR:Resident Care -... G.Campbell 201305: Campbell, Genny",,,,,,,,,,,,,,,

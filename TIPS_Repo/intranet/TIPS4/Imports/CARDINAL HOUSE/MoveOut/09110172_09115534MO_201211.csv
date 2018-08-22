@@ -1,0 +1,7 @@
+BATCH,,201211,B,11312.0000,
+INVOICE,IN,,09110172,,11/26/2012,5252.0000,"Invoice-Private",,11/26/2012,11/26/2012,,09115534MO,-7070.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,26,110.0000,2860.00,"Basic Service Fee - One Bedroom for Nov: Miley, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,26,92.0000,2392.00,"Resident Care - Level 6 for Nov: Miley, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,09110172,,11/26/2012,6060,"Invoice-Private",,11/26/2012,11/26/2012,,09115534MO,-7070.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,3300,3300,"CR:Basic Service F... R.Miley 201211: Miley, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2760,2760,"CR:Resident Care -... R.Miley 201211: Miley, Roberta",,,,,,,,,,,,,,,

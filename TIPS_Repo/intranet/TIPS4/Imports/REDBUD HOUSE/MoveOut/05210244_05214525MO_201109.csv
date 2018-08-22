@@ -1,0 +1,5 @@
+BATCH,,201109,B,54.0000,
+INVOICE,IN,,05210244,,09/01/2011,27.0000,"Invoice-Private",,09/01/2011,09/10/2011,,05214525MO,-7638.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27.00,"Monthly Cable: Sanders, Jerldine",,,,,,,,,,,,,,,
+INVOICE,CM,,05210244,,09/01/2011,27,"Invoice-Private",,09/01/2011,09/10/2011,,05214525MO,-7638.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"Credit for Monthly Cable: Sanders, Jerldine",,,,,,,,,,,,,,,

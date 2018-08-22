@@ -1,0 +1,7 @@
+BATCH,,201303,B,3069.0000,
+INVOICE,IN,,08610245,,03/01/2013,186.0000,"Invoice-Private",,03/01/2013,03/10/2013,,08615139MO,-2697.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,2,60.0000,120.00,"Basic Service Fee - Studio for Mar: Scheff, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,2,33.0000,66.00,"Resident Care - Level 2 for Mar: Scheff, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,08610245,,03/01/2013,2883,"Invoice-Private",,03/01/2013,03/10/2013,,08615139MO,-2697.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,1860,1860,"CR:Basic Service F... D.Scheff 201303: Scheff, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1023,1023,"CR:Resident Care -... D.Scheff 201303: Scheff, Donna",,,,,,,,,,,,,,,

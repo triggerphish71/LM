@@ -1,0 +1,5 @@
+BATCH,,201107,B,4975.0000,
+INVOICE,IN,,15610274,,07/07/2011,4975.0000,"MoveIn-Jarosz. Raymond",,07/07/2011,07/07/2011,,15614855,4975.0000,,,,,,,,,,
+TRANSACTION,3010,010211156,25,87.0000,2175,"Basic Service Fee - Studio         : Jarosz. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211156,25,32.0000,800,"Resident Care - Level 2: Jarosz. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000.0000,2000,"New Resident Fee: Jarosz. Raymond",,,,,,,,,,,,,,,

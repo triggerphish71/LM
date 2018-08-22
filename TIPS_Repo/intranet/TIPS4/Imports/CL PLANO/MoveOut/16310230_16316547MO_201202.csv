@@ -1,0 +1,7 @@
+BATCH,,201202,B,74.0000,
+INVOICE,IN,,16310230,,02/01/2012,37.0000,"Invoice-Private",,02/01/2012,02/10/2012,,16316547MO,-4168.0000,,,,,,,,,,
+TRANSACTION,3130,010202163,1,10.0000,10.00,"Pendant Fee: Mackey, Estelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Mackey, Estelle",,,,,,,,,,,,,,,
+INVOICE,CM,,16310230,,02/01/2012,37,"Invoice-Private",,02/01/2012,02/10/2012,,16316547MO,-4168.0000,,,,,,,,,,
+TRANSACTION,3130,010202163,1,10,10,"Credit for Pendant Fee: Mackey, Estelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Mackey, Estelle",,,,,,,,,,,,,,,

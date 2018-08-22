@@ -1,0 +1,6 @@
+BATCH,,201204,B,3864.5000,
+INVOICE,IN,,01210245,,04/13/2012,3864.5000,"MoveIn-Wagoner. Merle",,04/13/2012,04/13/2012,,01213937,3864.5000,,,,,,,,,,
+TRANSACTION,3010,010103012,18,85.0000,1530,"Basic Service Fee - Studio: Wagoner. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,18,44.7500,805.5,"Resident Care - Level 25: Wagoner. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Wagoner. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Wagoner. Merle",,,,,,,,,,,,,,,

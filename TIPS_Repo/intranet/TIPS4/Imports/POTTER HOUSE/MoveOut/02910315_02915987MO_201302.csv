@@ -1,0 +1,6 @@
+BATCH,,201302,B,4828.0000,
+INVOICE,IN,,02910315,,02/13/2013,2028.0000,"Invoice-Private",,02/13/2013,02/13/2013,,02915987MO,-772.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,728.0000,728.00,"CR:Limited Term Di... K.Bradley 201302: Bradley, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,13,100.0000,1300.00,"Basic Service Fee - Studio for Feb: Bradley, Katie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910315,,02/13/2013,2800,"Invoice-Private",,02/13/2013,02/13/2013,,02915987MO,-772.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2800,2800,"CR:Basic Service F... K.Bradley 201302: Bradley, Katie",,,,,,,,,,,,,,,

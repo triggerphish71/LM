@@ -1,0 +1,7 @@
+BATCH,,201805,B,8360.1300,
+INVOICE,IN,,20810449,,05/15/2018,3245.1300,"Invoice-Private",,05/15/2018,05/15/2018,,20816617MO,-1869.8700,,,,,,,,,,
+TRANSACTION,3017,010016208,3,113.0000,339.00,"One Bedroom: Noles, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010016208,1,2906.1290,2906.13,"Basic Service Fee - MC Studio: Noles, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,20810449,,05/15/2018,5115,"Invoice-Private",,05/15/2018,05/15/2018,,20816617MO,-1869.8700,,,,,,,,,,
+TRANSACTION,3020,010016208,1,3503,3503,"CR:One Bedroom... E.Noles 201805: Noles, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010016208,1,1612,1612,"CR:Resident Care -... E.Noles 201805: Noles, Edna",,,,,,,,,,,,,,,

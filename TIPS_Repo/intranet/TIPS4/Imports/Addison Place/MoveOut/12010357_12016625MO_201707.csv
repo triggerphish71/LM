@@ -1,0 +1,8 @@
+BATCH,,201707,B,1563.2000,
+INVOICE,IN,,12010357,,07/01/2017,1031.6000,"Invoice-Private",,07/01/2017,07/10/2017,,12016625MO,-1981.6000,,,,,,,,,,
+TRANSACTION,1113,010009120,1,500.0000,500.00,"Community Fee Unpaid Balance: Frost, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6000,31.60,"Monthly Cable: Frost, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,500.0000,500.00,"Community Fee Installment Charge: Frost, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,12010357,,07/01/2017,531.6,"Invoice-Private",,07/01/2017,07/10/2017,,12016625MO,-1981.6000,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6,31.6,"Credit for Monthly Cable: Frost, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,500,500,"Credit for Community Fee Installment Charge: Frost, Ray",,,,,,,,,,,,,,,

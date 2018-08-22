@@ -1,0 +1,5 @@
+BATCH,,201801,B,4077.0000,
+INVOICE,IN,,16210234,,01/01/2018,4077.0000,"MoveIn-Eriksen. Lou",,01/01/2018,01/01/2018,,16215027,4077.0000,,,,,,,,,,
+TRANSACTION,3010,010011162,31,32.0000,992,"Basic Service Fee - Second Resident: Eriksen. Lou",,,,,,,,,,,,,,,
+TRANSACTION,3017,010011162,31,35.0000,1085,"Resident Care - Level 2: Eriksen. Lou",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,1,2000.0000,2000,"Community Fee: Eriksen. Lou",,,,,,,,,,,,,,,

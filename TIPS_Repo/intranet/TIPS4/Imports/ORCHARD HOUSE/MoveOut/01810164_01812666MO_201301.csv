@@ -1,0 +1,7 @@
+BATCH,,201301,B,5731.6000,
+INVOICE,IN,,01810164,,01/25/2013,2558.7500,"Invoice-Private",,01/25/2013,01/25/2013,,01812666MO,-3479.9000,,,,,,,,,,
+TRANSACTION,3020,010103018,25,45.0000,1125.00,"Basic Service Fee - Studio for Jan: Cavin, Marylin",,,,,,,,,,,,,,,
+TRANSACTION,3037,010103018,25,57.3500,1433.75,"Private Care Rate Adjustment for Jan: Cavin, Marylin",,,,,,,,,,,,,,,
+INVOICE,CM,,01810164,,01/25/2013,3172.85,"Invoice-Private",,01/25/2013,01/25/2013,,01812666MO,-3479.9000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,1395,1395,"CR:Basic Service F... M.Cavin 201301: Cavin, Marylin",,,,,,,,,,,,,,,
+TRANSACTION,3037,010103018,1,1777.85,1777.85,"CR:Private Care Ra... M.Cavin 201301: Cavin, Marylin",,,,,,,,,,,,,,,

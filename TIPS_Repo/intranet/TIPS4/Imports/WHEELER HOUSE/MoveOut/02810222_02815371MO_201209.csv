@@ -1,0 +1,6 @@
+BATCH,,201209,B,5430.0000,
+INVOICE,IN,,02810222,,09/01/2012,1290.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02815371MO,-3587.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,1,1290.0000,1290.00,"CR:Limited Term Di... V.Koebelen 201209: Koebelen, Velva",,,,,,,,,,,,,,,
+INVOICE,CM,,02810222,,09/01/2012,4140,"Invoice-Private",,09/01/2012,09/10/2012,,02815371MO,-3587.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3390,3390,"CR:Basic Service F... V.Koebelen 201209: Koebelen, Velva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,750,750,"CR:Resident Care -... V.Koebelen 201209: Koebelen, Velva",,,,,,,,,,,,,,,

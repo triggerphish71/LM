@@ -1,0 +1,8 @@
+BATCH,,201201,B,3907.0000,
+INVOICE,IN,,19310299,,01/01/2012,218.0000,"Invoice-Private",,01/01/2012,01/10/2012,,19315040MO,-3471.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,2,76.0000,152.00,"Basic Service Fee - Studio for Jan: Podd, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,2,33.0000,66.00,"Resident Care - Level 2 for Jan: Podd, Leonard",,,,,,,,,,,,,,,
+INVOICE,CM,,19310299,,01/01/2012,3689,"Invoice-Private",,01/01/2012,01/10/2012,,19315040MO,-3471.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2356,2356,"CR:Basic Service F... L.Podd 201201: Podd, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... L.Podd 201201: Podd, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1023,1023,"CR:Resident Care -... L.Podd 201201: Podd, Leonard",,,,,,,,,,,,,,,

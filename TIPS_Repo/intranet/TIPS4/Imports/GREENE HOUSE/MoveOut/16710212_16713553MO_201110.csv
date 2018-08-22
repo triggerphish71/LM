@@ -1,0 +1,5 @@
+BATCH,,201110,B,737.8000,
+INVOICE,IN,,16710212,,10/01/2011,368.9000,"Invoice-Private",,10/01/2011,10/10/2011,,16713553MO,-7064.8000,,,,,,,,,,
+TRANSACTION,3019,010211167,31,11.9000,368.90,"Additional Service Charge: Franssen, Magdalen",,,,,,,,,,,,,,,
+INVOICE,CM,,16710212,,10/01/2011,368.9,"Invoice-Private",,10/01/2011,10/10/2011,,16713553MO,-7064.8000,,,,,,,,,,
+TRANSACTION,3019,010211167,31,11.9,368.9,"Credit for Additional Service Charge: Franssen, Magdalen",,,,,,,,,,,,,,,

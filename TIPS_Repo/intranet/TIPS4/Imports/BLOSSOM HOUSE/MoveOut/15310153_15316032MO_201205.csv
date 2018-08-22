@@ -1,0 +1,7 @@
+BATCH,,201205,B,3909.1200,
+INVOICE,IN,,15310153,,05/01/2012,122.1600,"Invoice-Private",,05/01/2012,05/10/2012,,15316032MO,-3664.8000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,115.0000,115.00,"Basic Service Fee - One Bedroom for May: Caldwell, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,7.1600,7.16,"Resident Care - Level 4 for May: Caldwell, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15310153,,05/01/2012,3786.96,"Invoice-Private",,05/01/2012,05/10/2012,,15316032MO,-3664.8000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3565,3565,"CR:Basic Service F... M.Caldwell 201205: Caldwell, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,221.96,221.96,"CR:Resident Care -... M.Caldwell 201205: Caldwell, Mary",,,,,,,,,,,,,,,

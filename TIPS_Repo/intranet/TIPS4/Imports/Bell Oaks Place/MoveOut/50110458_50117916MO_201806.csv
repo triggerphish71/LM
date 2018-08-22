@@ -1,0 +1,8 @@
+BATCH,,201806,B,7254.0000,
+INVOICE,IN,,50110458,,06/18/2018,2844.0000,"Invoice-Private",,06/18/2018,06/18/2018,,50117916MO,-6123.0000,,,,,,,,,,
+TRANSACTION,3017,010009501,7,72.0000,504.00,"Level: 5 : Jacobs, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009501,15,46.0000,690.00," Level: 3 : Jacobs, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009501,22,75.0000,1650.00,"Basic Service Fee - One Bedroom for Jun: Jacobs, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,50110458,,06/18/2018,4410,"Invoice-Private",,06/18/2018,06/18/2018,,50117916MO,-6123.0000,,,,,,,,,,
+TRANSACTION,3020,010009501,1,2250,2250,"CR:Basic Service F... K.Jacobs 201806: Jacobs, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009501,1,2160,2160,"CR:Resident Care -... K.Jacobs 201806: Jacobs, Kenneth",,,,,,,,,,,,,,,

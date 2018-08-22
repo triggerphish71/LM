@@ -1,0 +1,5 @@
+BATCH,,201106,B,3503.0000,
+INVOICE,IN,,04610192,,06/13/2011,3503.0000,"MoveIn-Kennedy. John",,06/13/2011,06/13/2011,,04613348,6504.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,18,96.0000,1728,"Basic Service Fee - Studio         : Kennedy. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Kennedy. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Kennedy. John",,,,,,,,,,,,,,,

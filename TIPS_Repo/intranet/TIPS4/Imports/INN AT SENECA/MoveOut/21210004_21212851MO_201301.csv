@@ -1,0 +1,5 @@
+BATCH,,201301,B,868.0000,
+INVOICE,IN,,21210004,,01/01/2013,434.0000,"Invoice-Private",,01/01/2013,01/10/2013,,21212851MO,-3396.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,14.0000,434.00,"Credit for Limited Term Discount: Kunkel, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,21210004,,01/01/2013,434,"Invoice-Private",,01/01/2013,01/10/2013,,21212851MO,-3396.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,14,434,"Limited Term Discount: Kunkel, Geneva",,,,,,,,,,,,,,,

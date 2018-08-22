@@ -1,0 +1,5 @@
+BATCH,,201107,B,744.0000,
+INVOICE,IN,,06410160,,07/01/2011,372.0000,"Invoice-Private",,07/01/2011,07/10/2011,,06413483MO,-3183.0000,,,,,,,,,,
+TRANSACTION,3320,010305064,31,12.0000,372.00,"Credit for Limited Term Discount: Covault, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06410160,,07/01/2011,372,"Invoice-Private",,07/01/2011,07/10/2011,,06413483MO,-3183.0000,,,,,,,,,,
+TRANSACTION,3320,010305064,31,12,372,"Limited Term Discount: Covault, Mary",,,,,,,,,,,,,,,

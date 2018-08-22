@@ -1,0 +1,7 @@
+BATCH,,201111,B,720.0000,
+INVOICE,IN,,19310191,,11/01/2011,360.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19314910MO,-3670.0000,,,,,,,,,,
+TRANSACTION,3320,010315193,30,2.0000,60.00,"Credit for Limited Term Discount: Dykstra, Allard",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10.0000,300.00,"CC Meals: Dykstra, Allard",,,,,,,,,,,,,,,
+INVOICE,CM,,19310191,,11/01/2011,360,"Invoice-Private",,11/01/2011,11/10/2011,,19314910MO,-3670.0000,,,,,,,,,,
+TRANSACTION,3320,010315193,30,2,60,"Limited Term Discount: Dykstra, Allard",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10,300,"Credit for CC Meals: Dykstra, Allard",,,,,,,,,,,,,,,

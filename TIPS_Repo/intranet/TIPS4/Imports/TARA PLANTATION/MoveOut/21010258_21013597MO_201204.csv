@@ -1,0 +1,7 @@
+BATCH,,201204,B,8625.0000,
+INVOICE,IN,,21010258,,04/18/2012,3450.0000,"Invoice-Private",,04/18/2012,04/18/2012,,21013597MO,-7072.5000,,,,,,,,,,
+TRANSACTION,3027,010216210,20,78.5000,1570.00,"Resident Care - Level 6+10 pts for Apr: Callaway, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,20,94.0000,1880.00,"Studio for Apr: Callaway, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,21010258,,04/18/2012,5175,"Invoice-Private",,04/18/2012,04/18/2012,,21013597MO,-7072.5000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,2355,2355,"CR:Resident Care -... C.Callaway 201204: Callaway, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2820,2820,"CR:Studio... C.Callaway 201204: Callaway, Carol",,,,,,,,,,,,,,,

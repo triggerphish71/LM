@@ -1,0 +1,5 @@
+BATCH,,201308,B,5432.1000,
+INVOICE,IN,,51610286,,08/01/2013,5432.1000,"August_Rent-Messenger. Barbara",,08/01/2013,08/10/2013,,51614158,10002.7000,,,,,,,,,,
+TRANSACTION,3010,010103516,31,89.0000,2759,"Basic Service Fee - Studio: Messenger. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103516,31,85.1000,2638.1,"Resident Care - Level 46: Messenger. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103516,1,35.0000,35,"Pendant Fee: Messenger. Barbara",,,,,,,,,,,,,,,

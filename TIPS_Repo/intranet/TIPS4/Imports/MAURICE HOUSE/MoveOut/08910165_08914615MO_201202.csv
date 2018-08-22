@@ -1,0 +1,7 @@
+BATCH,,201202,B,5104.0000,
+INVOICE,IN,,08910165,,02/01/2012,2552.0000,"Invoice-Private",,02/01/2012,02/10/2012,,08914615MO,-1886.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,29,44.0000,1276.00,"Credit for Limited Term Discount: LeMaster, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010306089,29,44.0000,1276.00,"Credit for Limited Term Discount: LeMaster, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,08910165,,02/01/2012,2552,"Invoice-Private",,02/01/2012,02/10/2012,,08914615MO,-1886.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,29,44,1276,"Limited Term Discount: LeMaster, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010306089,29,44,1276,"Limited Term Discount: LeMaster, Mabel",,,,,,,,,,,,,,,

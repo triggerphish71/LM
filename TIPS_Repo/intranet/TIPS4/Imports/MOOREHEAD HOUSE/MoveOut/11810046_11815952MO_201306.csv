@@ -1,0 +1,8 @@
+BATCH,,201306,B,8296.0000,
+INVOICE,IN,,11810046,,06/18/2013,3096.0000,"Invoice-Private",,06/18/2013,06/18/2013,,11815952MO,-7476.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,18,101.0000,1818.00,"Basic Service Fee - Studio for Jun: Gamer, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,18,71.0000,1278.00,"Resident Care - Level 5 for Jun: Gamer, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,11810046,,06/18/2013,5200,"Invoice-Private",,06/18/2013,06/18/2013,,11815952MO,-7476.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3030,3030,"CR:Basic Service F... J.Gamer 201306: Gamer, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... J.Gamer 201306: Gamer, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,2130,2130,"CR:Resident Care -... J.Gamer 201306: Gamer, Jean",,,,,,,,,,,,,,,

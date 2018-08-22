@@ -1,0 +1,5 @@
+BATCH,,201305,B,70.0000,
+INVOICE,IN,,50310304,,05/01/2013,35.0000,"Invoice-Private",,05/01/2013,05/10/2013,,50314850MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Girdler, June",,,,,,,,,,,,,,,
+INVOICE,CM,,50310304,,05/01/2013,35,"Invoice-Private",,05/01/2013,05/10/2013,,50314850MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Girdler, June",,,,,,,,,,,,,,,

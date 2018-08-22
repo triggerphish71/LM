@@ -1,0 +1,5 @@
+BATCH,,201111,B,3850.0000,
+INVOICE,IN,,06610179,,11/01/2011,550.0000,"Invoice-Private",,11/01/2011,11/10/2011,,06614257MO,-2750.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,5,110.0000,550.00,"Basic Service Fee - Deluxe for Nov: Williams, Elnora",,,,,,,,,,,,,,,
+INVOICE,CM,,06610179,,11/01/2011,3300,"Invoice-Private",,11/01/2011,11/10/2011,,06614257MO,-2750.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3300,3300,"CR:Basic Service F... E.Williams 201111: Williams, Elnora",,,,,,,,,,,,,,,

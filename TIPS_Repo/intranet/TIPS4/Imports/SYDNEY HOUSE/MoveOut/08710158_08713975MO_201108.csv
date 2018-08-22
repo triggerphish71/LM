@@ -1,0 +1,6 @@
+BATCH,,201108,B,3044.2000,
+INVOICE,IN,,08710158,,08/01/2011,62.0000,"Invoice-Private",,08/01/2011,08/10/2011,,08713975MO,-2228.8000,,,,,,,,,,
+TRANSACTION,3320,010103087,1,62.0000,62.00,"CR:Limited Term Di... R.Nelson 201108: Nelson, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,08710158,,08/01/2011,2982.2,"Invoice-Private",,08/01/2011,08/10/2011,,08713975MO,-2228.8000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,1085,1085,"CR:Basic Service F... R.Nelson 201108: Nelson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1897.2,1897.2,"CR:Resident Care -... R.Nelson 201108: Nelson, Ruth",,,,,,,,,,,,,,,

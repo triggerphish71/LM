@@ -1,0 +1,8 @@
+BATCH,,201209,B,8081.8800,
+INVOICE,IN,,09810206,,09/19/2012,3758.2800,"Invoice-Private",,09/19/2012,09/19/2012,,09814808MO,-3979.0400,,,,,,,,,,
+TRANSACTION,3320,010103098,1,1020.0000,1020.00,"CR:Limited Term Di... A.Lacy 201209: Lacy, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103098,19,94.0000,1786.00,"Basic Service Fee - Studio for Sep: Lacy, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,19,50.1200,952.28,"Resident Care - Level 28 for Sep: Lacy, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,09810206,,09/19/2012,4323.6,"Invoice-Private",,09/19/2012,09/19/2012,,09814808MO,-3979.0400,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2820,2820,"CR:Basic Service F... A.Lacy 201209: Lacy, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1503.6,1503.6,"CR:Resident Care -... A.Lacy 201209: Lacy, Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,4940.0000,
+INVOICE,IN,,50110242,,08/01/2011,4940.0000,"MoveIn-Etienne. Joseph",,08/01/2011,08/01/2011,,50113610,4940.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,31,84.0000,2604,"Basic Service Fee - Studio: Etienne. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,31,26.0000,806,"Resident Care - Level 2: Etienne. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Etienne. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Etienne. Joseph",,,,,,,,,,,,,,,

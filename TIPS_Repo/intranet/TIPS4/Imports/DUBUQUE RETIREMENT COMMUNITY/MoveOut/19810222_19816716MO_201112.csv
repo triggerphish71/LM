@@ -1,0 +1,7 @@
+BATCH,,201112,B,683.1000,
+INVOICE,IN,,19810222,,12/01/2011,341.5500,"Invoice-Private",,12/01/2011,12/10/2011,,19816716MO,-3802.9500,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Munson, Darda",,,,,,,,,,,,,,,
+TRANSACTION,3316,010112198,31,10.0500,311.55,"Credit for Employee Discount: Munson, Darda",,,,,,,,,,,,,,,
+INVOICE,CM,,19810222,,12/01/2011,341.55,"Invoice-Private",,12/01/2011,12/10/2011,,19816716MO,-3802.9500,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Munson, Darda",,,,,,,,,,,,,,,
+TRANSACTION,3316,010112198,31,10.05,311.55,"Employee Discount: Munson, Darda",,,,,,,,,,,,,,,

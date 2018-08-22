@@ -1,0 +1,6 @@
+BATCH,,201211,B,2755.0000,
+INVOICE,IN,,51910235,,11/01/2012,1705.0000,"Invoice-Private",,11/01/2012,11/01/2012,,51913469MO,655.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,690.0000,690.00,"CR:Limited Term Di... D.Stroy 201211: Stroy, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,29,35.0000,1015.00,"Basic Service Fee - Second Resident for Nov: Stroy, David",,,,,,,,,,,,,,,
+INVOICE,CM,,51910235,,11/01/2012,1050,"Invoice-Private",,11/01/2012,11/01/2012,,51913469MO,655.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,1050,1050,"CR:Basic Service F... D.Stroy 201211: Stroy, David",,,,,,,,,,,,,,,

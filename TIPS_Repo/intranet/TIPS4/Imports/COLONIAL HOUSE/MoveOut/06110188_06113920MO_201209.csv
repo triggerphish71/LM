@@ -1,0 +1,7 @@
+BATCH,,201209,B,4076.2600,
+INVOICE,IN,,06110188,,09/08/2012,858.1600,"Invoice-Private",,09/08/2012,09/08/2012,,06113920MO,-2359.9400,,,,,,,,,,
+TRANSACTION,3020,010103061,8,84.0000,672.00,"Basic Service Fee - Studio for Sep: Schauer, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,8,23.2700,186.16,"Resident Care - Level 13 for Sep: Schauer, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,06110188,,09/08/2012,3218.1,"Invoice-Private",,09/08/2012,09/08/2012,,06113920MO,-2359.9400,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2520,2520,"CR:Basic Service F... F.Schauer 201209: Schauer, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,698.1,698.1,"CR:Resident Care -... F.Schauer 201209: Schauer, Frank",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,620.0000,
+INVOICE,IN,,50910128,,01/01/2013,310.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50913214MO,-1581.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,31,10.0000,310.00,"Credit for Limited Term Discount: Cloud, Carrol",,,,,,,,,,,,,,,
+INVOICE,CM,,50910128,,01/01/2013,310,"Invoice-Private",,01/01/2013,01/10/2013,,50913214MO,-1581.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,31,10,310,"Limited Term Discount: Cloud, Carrol",,,,,,,,,,,,,,,

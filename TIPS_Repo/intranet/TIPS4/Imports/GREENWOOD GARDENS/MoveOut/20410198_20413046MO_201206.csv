@@ -1,0 +1,7 @@
+BATCH,,201206,B,5175.0000,
+INVOICE,IN,,20410198,,06/01/2012,1725.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20413046MO,-1725.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,15,12.0000,180.00,"Resident Care - Level 1 for Jun: Steen, Mary Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,15,103.0000,1545.00,"Room and Board - Two Bedroom for Jun: Steen, Mary Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,20410198,,06/01/2012,3450,"Invoice-Private",,06/01/2012,06/10/2012,,20413046MO,-1725.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,360,360,"CR:Resident Care -... M.Steen 201206: Steen, Mary Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,3090,3090,"CR:Room and Board ... M.Steen 201206: Steen, Mary Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,4945.0000,
+INVOICE,IN,,14110162,,09/01/2011,1495.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14113575MO,-5520.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,13,84.0000,1092.00,"Basic Service Fee - Studio for Sep: Spurling, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,13,31.0000,403.00,"Resident Care - Level 2 for Sep: Spurling, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,14110162,,09/01/2011,3450,"Invoice-Private",,09/01/2011,09/10/2011,,14113575MO,-5520.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2520,2520,"CR:Basic Service F... A.Spurling 201109: Spurling, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,930,930,"CR:Resident Care -... A.Spurling 201109: Spurling, Alice",,,,,,,,,,,,,,,

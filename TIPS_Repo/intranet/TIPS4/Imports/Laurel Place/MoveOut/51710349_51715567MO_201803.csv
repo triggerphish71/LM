@@ -1,0 +1,7 @@
+BATCH,,201803,B,5992.6000,
+INVOICE,IN,,51710349,,03/07/2018,1103.9000,"Invoice-Private",,03/07/2018,03/07/2018,,51715567MO,-8515.8000,,,,,,,,,,
+TRANSACTION,3020,010003517,7,137.0000,959.00,"Basic Service Fee - One Bedroom  for Mar: Moore, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,7,20.7000,144.90,"Resident Care - Level 9  for Mar: Moore, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,51710349,,03/07/2018,4888.7,"Invoice-Private",,03/07/2018,03/07/2018,,51715567MO,-8515.8000,,,,,,,,,,
+TRANSACTION,3020,010003517,1,4247,4247,"CR:Basic Service F... D.Moore 201803: Moore, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,1,641.7,641.7,"CR:Resident Care -... D.Moore 201803: Moore, Donna",,,,,,,,,,,,,,,

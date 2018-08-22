@@ -1,0 +1,8 @@
+BATCH,,201105,B,5901.0000,
+INVOICE,IN,,01610043,,05/21/2011,2373.0000,"Invoice-Private",,05/21/2011,05/21/2011,,01615319MO,-4570.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,21,81.0000,1701.00,"Basic Service Fee - Studio for May: Fulbright, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,21,32.0000,672.00,"Resident Care - Level 2 for May: Fulbright, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01610043,,05/21/2011,3528,"Invoice-Private",,05/21/2011,05/21/2011,,01615319MO,-4570.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2511,2511,"CR:Basic Service F... R.Fulbright 201105: Fulbright, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... R.Fulbright 201105: Fulbright, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,992,992,"CR:Resident Care -... R.Fulbright 201105: Fulbright, Ruth",,,,,,,,,,,,,,,

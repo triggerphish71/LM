@@ -1,0 +1,8 @@
+BATCH,,201205,B,5725.0000,
+INVOICE,IN,,16310267,,05/06/2012,924.0000,"Invoice-Private",,05/06/2012,05/06/2012,,16316689MO,-3877.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,6,108.0000,648.00,"Basic Service Fee - Studio Deluxe for May: Moore, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,6,46.0000,276.00,"Resident Care - Level 4 for May: Moore, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,16310267,,05/06/2012,4801,"Invoice-Private",,05/06/2012,05/06/2012,,16316689MO,-3877.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... C.Moore 201205: Moore, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... C.Moore 201205: Moore, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1426,1426,"CR:Resident Care -... C.Moore 201205: Moore, Clara",,,,,,,,,,,,,,,

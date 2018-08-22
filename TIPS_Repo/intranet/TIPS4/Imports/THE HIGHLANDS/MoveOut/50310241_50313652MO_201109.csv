@@ -1,0 +1,5 @@
+BATCH,,201109,B,70.0000,
+INVOICE,IN,,50310241,,09/01/2011,35.0000,"Invoice-Private",,09/01/2011,09/10/2011,,50313652MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Roland, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,50310241,,09/01/2011,35,"Invoice-Private",,09/01/2011,09/10/2011,,50313652MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Roland, Ernest",,,,,,,,,,,,,,,

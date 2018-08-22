@@ -1,0 +1,6 @@
+BATCH,,201110,B,1979.0000,
+INVOICE,IN,,16510282,,10/28/2011,1979.0000,"MoveIn-McCall. George",,10/28/2011,10/28/2011,,16513974,5396.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,4,97.0000,388,"Basic Service Fee - Studio         : McCall. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,4,16.0000,64,"Resident Care - Level 1: McCall. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: McCall. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: McCall. George",,,,,,,,,,,,,,,

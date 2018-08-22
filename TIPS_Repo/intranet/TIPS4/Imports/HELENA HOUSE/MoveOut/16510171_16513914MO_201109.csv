@@ -1,0 +1,8 @@
+BATCH,,201109,B,6468.0000,
+INVOICE,IN,,16510171,,09/23/2011,3051.0000,"Invoice-Private",,09/23/2011,09/23/2011,,16513914MO,-3896.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,27,97.0000,2619.00,"Basic Service Fee - Studio for Sep: Spivey, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,27,16.0000,432.00,"Resident Care - Level 1 for Sep: Spivey, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,16510171,,09/23/2011,3417,"Invoice-Private",,09/23/2011,09/23/2011,,16513914MO,-3896.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2910,2910,"CR:Basic Service F... J.Spivey 201109: Spivey, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... J.Spivey 201109: Spivey, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,480,480,"CR:Resident Care -... J.Spivey 201109: Spivey, Jean",,,,,,,,,,,,,,,

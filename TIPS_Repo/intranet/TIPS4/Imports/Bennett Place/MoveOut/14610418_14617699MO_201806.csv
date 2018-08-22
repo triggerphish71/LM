@@ -1,0 +1,7 @@
+BATCH,,201806,B,5635.0000,
+INVOICE,IN,,14610418,,06/05/2018,445.0000,"Invoice-Private",,06/05/2018,06/05/2018,,14617699MO,-7504.0000,,,,,,,,,,
+TRANSACTION,3020,010009146,5,89.0000,445.00,"Basic Service Fee - Studio for Jun: Hall, Mary Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,14610418,,06/05/2018,5190,"Invoice-Private",,06/05/2018,06/05/2018,,14617699MO,-7504.0000,,,,,,,,,,
+TRANSACTION,3020,010009146,1,2670,2670,"CR:Basic Service F... M.Hall 201806: Hall, Mary Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009146,1,630,630,"CR:Resident Care -... M.Hall 201806: Hall, Mary Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009146,1,1890,1890,"CR:Resident Care L... M.Hall 201806: Hall, Mary Louise",,,,,,,,,,,,,,,

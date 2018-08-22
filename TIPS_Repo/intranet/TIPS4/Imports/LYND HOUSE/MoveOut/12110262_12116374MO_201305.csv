@@ -1,0 +1,7 @@
+BATCH,,201305,B,4469.0000,
+INVOICE,IN,,12110262,,05/09/2013,1090.0000,"Invoice-Private",,05/09/2013,05/09/2013,,12116374MO,-2289.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,10,80.0000,800.00,"Basic Service Fee - One Bedroom for May: Mullis, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,10,29.0000,290.00,"Resident Care - Level 2 for May: Mullis, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,12110262,,05/09/2013,3379,"Invoice-Private",,05/09/2013,05/09/2013,,12116374MO,-2289.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2480,2480,"CR:Basic Service F... B.Mullis 201305: Mullis, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,899,899,"CR:Resident Care -... B.Mullis 201305: Mullis, Billy",,,,,,,,,,,,,,,

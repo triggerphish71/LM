@@ -1,0 +1,8 @@
+BATCH,,201211,B,5198.5300,
+INVOICE,IN,,13910290,,11/07/2012,977.8300,"Invoice-Private",,11/07/2012,11/07/2012,,13916425MO,-3242.8700,,,,,,,,,,
+TRANSACTION,3020,010103139,7,120.0000,840.00,"Basic Service Fee - One Bedroom for Nov: Kelly, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,7,19.6900,137.83,"Resident Care - Level 11 for Nov: Kelly, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,13910290,,11/07/2012,4220.7,"Invoice-Private",,11/07/2012,11/07/2012,,13916425MO,-3242.8700,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3600,3600,"CR:Basic Service F... L.Kelly 201211: Kelly, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... L.Kelly 201211: Kelly, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,590.7,590.7,"CR:Resident Care -... L.Kelly 201211: Kelly, Larry",,,,,,,,,,,,,,,

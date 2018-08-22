@@ -1,0 +1,7 @@
+BATCH,,201203,B,3634.0000,
+INVOICE,IN,,02411258,,03/01/2012,50.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02415621MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3150,010202024,1,50.0000,50.00,"Late Fee Adjustment: Milliorn, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411258,,03/01/2012,3584,"Invoice-Private",,03/01/2012,03/10/2012,,02415621MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3038,3038,"CR:Basic Service F... W.Milliorn 201203: Milliorn, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,496,496,"CR:Resident Care -... W.Milliorn 201203: Milliorn, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3150,010202024,1,50,50,"Late Fee Adjustment: Milliorn, Willie",,,,,,,,,,,,,,,

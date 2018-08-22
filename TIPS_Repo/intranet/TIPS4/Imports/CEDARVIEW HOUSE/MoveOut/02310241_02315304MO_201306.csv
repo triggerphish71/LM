@@ -1,0 +1,8 @@
+BATCH,,201306,B,2761.0000,
+INVOICE,IN,,02310241,,06/01/2013,576.0000,"Invoice-Private",,06/01/2013,06/10/2013,,02315304MO,-1609.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,8,55.0000,440.00,"Basic Service Fee - Studio for Jun: Mott, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,8,17.0000,136.00,"Resident Care - Level 1 for Jun: Mott, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,02310241,,06/01/2013,2185,"Invoice-Private",,06/01/2013,06/10/2013,,02315304MO,-1609.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,1650,1650,"CR:Basic Service F... M.Mott 201306: Mott, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... M.Mott 201306: Mott, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,510,510,"CR:Resident Care -... M.Mott 201306: Mott, Marjorie",,,,,,,,,,,,,,,

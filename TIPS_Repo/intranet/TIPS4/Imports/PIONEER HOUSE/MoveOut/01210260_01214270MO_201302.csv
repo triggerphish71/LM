@@ -1,0 +1,8 @@
+BATCH,,201302,B,4315.8000,
+INVOICE,IN,,01210260,,02/07/2013,857.3600,"Invoice-Private",,02/07/2013,02/07/2013,,01214270MO,-2601.0800,,,,,,,,,,
+TRANSACTION,3020,010103012,7,101.0000,707.00,"Basic Service Fee - One Bedroom for Feb: Burney, Burvil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,7,21.4800,150.36,"Resident Care - Level 12 for Feb: Burney, Burvil",,,,,,,,,,,,,,,
+INVOICE,CM,,01210260,,02/07/2013,3458.44,"Invoice-Private",,02/07/2013,02/07/2013,,01214270MO,-2601.0800,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2828,2828,"CR:Basic Service F... B.Burney 201302: Burney, Burvil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... B.Burney 201302: Burney, Burvil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,601.44,601.44,"CR:Resident Care -... B.Burney 201302: Burney, Burvil",,,,,,,,,,,,,,,

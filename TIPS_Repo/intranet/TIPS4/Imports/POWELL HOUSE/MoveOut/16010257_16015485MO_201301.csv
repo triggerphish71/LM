@@ -1,0 +1,8 @@
+BATCH,,201301,B,9375.0000,
+INVOICE,IN,,16010257,,01/19/2013,3553.0000,"Invoice-Private",,01/19/2013,01/19/2013,,16015485MO,-7530.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,19,118.0000,2242.00,"Basic Service Fee - One Bedroom for Jan: Hook, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,19,69.0000,1311.00,"Resident Care - Level 5 for Jan: Hook, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,16010257,,01/19/2013,5822,"Invoice-Private",,01/19/2013,01/19/2013,,16015485MO,-7530.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3658,3658,"CR:Basic Service F... P.Hook 201301: Hook, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... P.Hook 201301: Hook, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,2139,2139,"CR:Resident Care -... P.Hook 201301: Hook, Phyllis",,,,,,,,,,,,,,,

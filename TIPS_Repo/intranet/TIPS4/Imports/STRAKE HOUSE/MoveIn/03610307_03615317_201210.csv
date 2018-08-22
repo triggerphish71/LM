@@ -1,0 +1,6 @@
+BATCH,,201210,B,2245.0000,
+INVOICE,IN,,03610307,,10/25/2012,2245.0000,"MoveIn-Varady. Margaret",,10/25/2012,10/25/2012,,03615317,7492.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,7,101.0000,707,"M.Varady: Basic Service Fee - Studio: Varady. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,7,73.0000,511,"M.Varady: Resident Care - Level 5: Varady. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Varady. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1000.0000,1000,"New Resident Fee: Varady. Margaret",,,,,,,,,,,,,,,

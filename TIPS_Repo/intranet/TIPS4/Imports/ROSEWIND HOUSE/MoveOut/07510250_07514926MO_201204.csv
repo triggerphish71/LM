@@ -1,0 +1,8 @@
+BATCH,,201204,B,7869.0000,
+INVOICE,IN,,07510250,,04/27/2012,3759.0000,"Invoice-Private",,04/27/2012,04/27/2012,,07514926MO,-4536.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,1,60.0000,60.00,"CR:Limited Term Di... A.Hansen 201204: Hansen, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104075,27,108.0000,2916.00,"Basic Service Fee - One Bedroom for Apr: Hansen, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,27,29.0000,783.00,"Resident Care - Level 2 for Apr: Hansen, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,07510250,,04/27/2012,4110,"Invoice-Private",,04/27/2012,04/27/2012,,07514926MO,-4536.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,3240,3240,"CR:Basic Service F... A.Hansen 201204: Hansen, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,870,870,"CR:Resident Care -... A.Hansen 201204: Hansen, Anna",,,,,,,,,,,,,,,

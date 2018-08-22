@@ -1,0 +1,6 @@
+BATCH,,201210,B,2480.0000,
+INVOICE,IN,,02411290,,10/02/2012,1519.0000,"Invoice-Private",,10/02/2012,10/02/2012,,02415901MO,558.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,651.0000,651.00,"CR:Limited Term Di... O.Carlock 201210: Carlock, Oscar",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,28,31.0000,868.00,"Basic Service Fee - Second Resident for Oct: Carlock, Oscar",,,,,,,,,,,,,,,
+INVOICE,CM,,02411290,,10/02/2012,961,"Invoice-Private",,10/02/2012,10/02/2012,,02415901MO,558.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,961,961,"CR:Basic Service F... O.Carlock 201210: Carlock, Oscar",,,,,,,,,,,,,,,

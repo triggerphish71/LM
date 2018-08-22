@@ -1,0 +1,8 @@
+BATCH,,201110,B,6376.0000,
+INVOICE,IN,,09310183,,10/06/2011,1943.0000,"Invoice-Private",,10/06/2011,10/06/2011,,09314909MO,-2490.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,1,1085.0000,1085.00,"CR:Limited Term Di... H.Kern 201110: Kern, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,6,48.0000,288.00,"Resident Care - Level 3 for Oct: Kern, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,6,95.0000,570.00,"Room and Board - Studio for Oct: Kern, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,09310183,,10/06/2011,4433,"Invoice-Private",,10/06/2011,10/06/2011,,09314909MO,-2490.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... H.Kern 201110: Kern, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2945,2945,"CR:Room and Board ... H.Kern 201110: Kern, Harold",,,,,,,,,,,,,,,

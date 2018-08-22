@@ -1,0 +1,7 @@
+BATCH,,201209,B,5977.0000,
+INVOICE,IN,,08510220,,09/08/2012,1807.0000,"Invoice-Private",,09/08/2012,09/08/2012,,08514336MO,-2363.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,13,44.0000,572.00,"Resident Care - Level 3 for Sep: Rainey, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,13,95.0000,1235.00,"Room and Board - Deluxe for Sep: Rainey, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,08510220,,09/08/2012,4170,"Invoice-Private",,09/08/2012,09/08/2012,,08514336MO,-2363.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,1,1320,1320,"CR:Resident Care -... S.Rainey 201209: Rainey, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2850,2850,"CR:Room and Board ... S.Rainey 201209: Rainey, Sue",,,,,,,,,,,,,,,

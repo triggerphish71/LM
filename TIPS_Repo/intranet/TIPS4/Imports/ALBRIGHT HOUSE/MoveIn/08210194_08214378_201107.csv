@@ -1,0 +1,6 @@
+BATCH,,201107,B,3477.0000,
+INVOICE,IN,,08210194,,07/22/2011,3477.0000,"MoveIn-Chabot. Mimi",,07/22/2011,07/22/2011,,08214378,8003.2000,,,,,,,,,,
+TRANSACTION,3010,010103082,10,84.0000,840,"Basic Service Fee - Studio         : Chabot. Mimi",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103082,10,61.2000,612,"Resident Care - Level 36: Chabot. Mimi",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25.0000,25,"Monthly Cable: Chabot. Mimi",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103082,1,2000.0000,2000,"New Resident Fee: Chabot. Mimi",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,6385.0000,
+INVOICE,IN,,21010179,,04/01/2012,660.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21013528MO,-5153.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,660.0000,660.00,"CR:Limited Term Di... E.Evans 201204: Evans, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,21010179,,04/01/2012,5725,"Invoice-Private",,04/01/2012,04/10/2012,,21013528MO,-5153.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... E.Evans 201204: Evans, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,2880,2880,"CR:Resident Care -... E.Evans 201204: Evans, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2820,2820,"CR:Studio... E.Evans 201204: Evans, Elizabeth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,3426.4000,
+INVOICE,IN,,00910202,,10/17/2012,3426.4000,"MoveIn-Drapal. Blanche",,10/17/2012,10/17/2012,,00913798,8279.2000,,,,,,,,,,
+TRANSACTION,3010,010101009,15,83.0000,1245,"Basic Service Fee - Studio: Drapal. Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,15,78.7600,1181.4,"Resident Care - Level 44: Drapal. Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Drapal. Blanche",,,,,,,,,,,,,,,

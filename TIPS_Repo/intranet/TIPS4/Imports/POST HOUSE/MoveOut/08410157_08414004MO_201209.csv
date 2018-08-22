@@ -1,0 +1,7 @@
+BATCH,,201209,B,6909.0000,
+INVOICE,IN,,08410157,,09/19/2012,2679.0000,"Invoice-Private",,09/19/2012,09/19/2012,,08414004MO,-5922.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,19,106.0000,2014.00,"Basic Service Fee - Studio for Sep: Read, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,19,35.0000,665.00,"Resident Care - Level 2 for Sep: Read, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08410157,,09/19/2012,4230,"Invoice-Private",,09/19/2012,09/19/2012,,08414004MO,-5922.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,3180,3180,"CR:Basic Service F... H.Read 201209: Read, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,1050,1050,"CR:Resident Care -... H.Read 201209: Read, Helen",,,,,,,,,,,,,,,

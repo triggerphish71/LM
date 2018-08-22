@@ -1,0 +1,6 @@
+BATCH,,201107,B,3875.0000,
+INVOICE,IN,,17610280,,07/07/2011,3875.0000,"MoveIn-Reynolds. Hazel",,07/07/2011,07/07/2011,,17613989,3875.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,25,69.0000,1725,"Basic Service Fee - Studio         : Reynolds. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,25,16.0000,400,"Resident Care - Level 1: Reynolds. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Reynolds. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315176,25,10.0000,250,"HSG Meals: Reynolds. Hazel",,,,,,,,,,,,,,,

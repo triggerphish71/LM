@@ -1,0 +1,8 @@
+BATCH,,201804,B,6893.0000,
+INVOICE,IN,,10810377,,04/15/2018,2063.0000,"Invoice-Private",,04/15/2018,04/15/2018,,10818070MO,-7830.2800,,,,,,,,,,
+TRANSACTION,3017,010008108,4,52.0000,208.00,"Level: 3 : Allen, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010008108,11,20.0000,220.00," Level: 1 : Allen, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008108,15,109.0000,1635.00,"Basic Service Fee - Studio  for Apr: Allen, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,10810377,,04/15/2018,4830,"Invoice-Private",,04/15/2018,04/15/2018,,10818070MO,-7830.2800,,,,,,,,,,
+TRANSACTION,3020,010008108,1,3270,3270,"CR:Basic Service F... P.Allen 201804: Allen, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,1,1560,1560,"CR:Resident Care -... P.Allen 201804: Allen, Pauline",,,,,,,,,,,,,,,

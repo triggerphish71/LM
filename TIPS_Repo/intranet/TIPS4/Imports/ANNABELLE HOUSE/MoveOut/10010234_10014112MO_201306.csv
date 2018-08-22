@@ -1,0 +1,8 @@
+BATCH,,201306,B,2800.0000,
+INVOICE,IN,,10010234,,06/07/2013,525.0000,"Invoice-Private",,06/07/2013,06/07/2013,,10014112MO,-1750.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,7,60.0000,420.00,"Basic Service Fee - Studio for Jun: Allen, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,7,15.0000,105.00,"Resident Care - Level 1 for Jun: Allen, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,10010234,,06/07/2013,2275,"Invoice-Private",,06/07/2013,06/07/2013,,10014112MO,-1750.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,1800,1800,"CR:Basic Service F... J.Allen 201306: Allen, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... J.Allen 201306: Allen, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,450,450,"CR:Resident Care -... J.Allen 201306: Allen, Joann",,,,,,,,,,,,,,,

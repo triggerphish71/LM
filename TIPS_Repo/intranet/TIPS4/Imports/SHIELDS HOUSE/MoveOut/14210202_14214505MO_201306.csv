@@ -1,0 +1,6 @@
+BATCH,,201306,B,5286.0000,
+INVOICE,IN,,14210202,,06/27/2013,2581.0000,"Invoice-Private",,06/27/2013,06/27/2013,,14214505MO,-2918.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,29,89.0000,2581.00,"Basic Service Fee - Studio for Jun: Lentz, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,14210202,,06/27/2013,2705,"Invoice-Private",,06/27/2013,06/27/2013,,14214505MO,-2918.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2670,2670,"CR:Basic Service F... R.Lentz 201306: Lentz, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... R.Lentz 201306: Lentz, Rose",,,,,,,,,,,,,,,

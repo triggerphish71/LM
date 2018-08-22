@@ -1,0 +1,7 @@
+BATCH,,201109,B,1519.7800,
+INVOICE,IN,,01310050,,09/01/2011,759.8900,"Invoice-Medicaid",,09/01/2011,09/10/2011,,01313926MO,-1445.2400,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Medrano, Margarita",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,731.8900,731.89,"State Medicaid: Medrano, Margarita",,,,,,,,,,,,,,,
+INVOICE,CM,,01310050,,09/01/2011,759.89,"Invoice-Medicaid",,09/01/2011,09/10/2011,,01313926MO,-1445.2400,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Medrano, Margarita",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,731.89,731.89,"Credit for State Medicaid: Medrano, Margarita",,,,,,,,,,,,,,,

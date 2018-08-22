@@ -1,0 +1,6 @@
+BATCH,,201203,B,2821.0000,
+INVOICE,IN,,02910306,,03/23/2012,2821.0000,"MoveIn-Smith. Zada",,03/23/2012,03/23/2012,,02915522,7166.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,9,100.0000,900,"Z.Smith: Basic Service Fee - Studio: Smith. Zada",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,9,44.0000,396,"Z.Smith: Resident Care - Level 3: Smith. Zada",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Smith. Zada",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Smith. Zada",,,,,,,,,,,,,,,

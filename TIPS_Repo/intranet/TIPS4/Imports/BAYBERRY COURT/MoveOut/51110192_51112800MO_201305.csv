@@ -1,0 +1,6 @@
+BATCH,,201305,B,4433.0000,
+INVOICE,IN,,51110192,,05/01/2013,589.0000,"Invoice-Private",,05/01/2013,05/10/2013,,51112800MO,-3778.0000,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589.0000,589.00,"CR:Resident Care L... F.Grogno 201305: Grogno, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,51110192,,05/01/2013,3844,"Invoice-Private",,05/01/2013,05/10/2013,,51112800MO,-3778.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... F.Grogno 201305: Grogno, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589,589,"CR:Resident Care -... F.Grogno 201305: Grogno, Frances",,,,,,,,,,,,,,,

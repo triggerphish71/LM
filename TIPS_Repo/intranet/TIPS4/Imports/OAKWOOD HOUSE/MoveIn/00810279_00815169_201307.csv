@@ -1,0 +1,5 @@
+BATCH,,201307,B,3561.0000,
+INVOICE,IN,,00810279,,07/01/2013,3561.0000,"July_Rent-Agee. Harold",,07/01/2013,07/10/2013,,00815169,5658.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,31,83.0000,2573,"Basic Service Fee - Studio: Agee. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,31,31.0000,961,"Resident Care - Level 2: Agee. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Agee. Harold",,,,,,,,,,,,,,,

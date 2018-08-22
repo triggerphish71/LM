@@ -1,0 +1,8 @@
+BATCH,,201804,B,7512.0000,
+INVOICE,IN,,06810349,,04/12/2018,2442.0000,"Invoice-Private",,04/12/2018,04/12/2018,,06816615MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3017,010005068,3,59.0000,177.00,"Level: 3  to  Level: 6  - 04/04: Drees, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005068,9,105.0000,945.00," Level: 6 : Drees, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005068,12,110.0000,1320.00,"Basic Service Fee - Studio  for Apr: Drees, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,06810349,,04/12/2018,5070,"Invoice-Private",,04/12/2018,04/12/2018,,06816615MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3020,010005068,1,3300,3300,"CR:Basic Service F... R.Drees 201804: Drees, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005068,1,1770,1770,"CR:Resident Care -... R.Drees 201804: Drees, Rita",,,,,,,,,,,,,,,

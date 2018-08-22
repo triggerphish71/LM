@@ -1,0 +1,5 @@
+BATCH,,201306,B,1488.0000,
+INVOICE,IN,,14010253,,06/01/2013,558.0000,"Invoice-Private",,06/01/2013,06/10/2013,,14014304MO,-372.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,18,31.0000,558.00,"Basic Service Fee - Second Resident for Jun: Hoersting, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14010253,,06/01/2013,930,"Invoice-Private",,06/01/2013,06/10/2013,,14014304MO,-372.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,930,930,"CR:Basic Service F... R.Hoersting 201306: Hoersting, Ruth",,,,,,,,,,,,,,,

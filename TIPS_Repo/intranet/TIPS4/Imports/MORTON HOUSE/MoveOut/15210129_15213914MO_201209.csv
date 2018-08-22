@@ -1,0 +1,7 @@
+BATCH,,201209,B,4900.0000,
+INVOICE,IN,,15210129,,09/05/2012,700.0000,"Invoice-Private",,09/05/2012,09/05/2012,,15213914MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,5,71.0000,355.00,"Basic Service Fee - Studio for Sep: Ruffcorn, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,5,69.0000,345.00,"Resident Care - Level 5 for Sep: Ruffcorn, Viola",,,,,,,,,,,,,,,
+INVOICE,CM,,15210129,,09/05/2012,4200,"Invoice-Private",,09/05/2012,09/05/2012,,15213914MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2130,2130,"CR:Basic Service F... V.Ruffcorn 201209: Ruffcorn, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,2070,2070,"CR:Resident Care -... V.Ruffcorn 201209: Ruffcorn, Viola",,,,,,,,,,,,,,,

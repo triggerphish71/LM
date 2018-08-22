@@ -1,0 +1,7 @@
+BATCH,,201202,B,7650.0000,
+INVOICE,IN,,09310203,,02/17/2012,3300.0000,"Invoice-Private",,02/17/2012,02/17/2012,,09315139MO,-5700.0000,,,,,,,,,,
+TRANSACTION,3037,010305093,22,18.0000,396.00,"Private Care Rate Adjustments for Feb: Hurst, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,22,132.0000,2904.00,"Room and Board - One Bedroom for Feb: Hurst, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,09310203,,02/17/2012,4350,"Invoice-Private",,02/17/2012,02/17/2012,,09315139MO,-5700.0000,,,,,,,,,,
+TRANSACTION,3037,010305093,1,522,522,"CR:Private Care Ra... V.Hurst 201202: Hurst, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3828,3828,"CR:Room and Board ... V.Hurst 201202: Hurst, Violet",,,,,,,,,,,,,,,

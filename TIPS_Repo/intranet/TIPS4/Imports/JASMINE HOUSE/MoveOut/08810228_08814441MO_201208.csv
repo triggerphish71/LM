@@ -1,0 +1,7 @@
+BATCH,,201208,B,6628.0000,
+INVOICE,IN,,08810228,,08/01/2012,3591.0000,"Invoice-Private",,08/01/2012,08/10/2012,,08814441MO,554.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,1457.0000,1457.00,"CR:Limited Term Di... K.Kelley 201208: Kelley, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,22,97.0000,2134.00,"Basic Service Fee - Studio for Aug: Kelley, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,08810228,,08/01/2012,3037,"Invoice-Private",,08/01/2012,08/10/2012,,08814441MO,554.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... K.Kelley 201208: Kelley, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30,30,"CR:Pendant Fee... K.Kelley 201208: Kelley, Karen",,,,,,,,,,,,,,,

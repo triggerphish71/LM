@@ -1,0 +1,7 @@
+BATCH,,201108,B,160.0000,
+INVOICE,IN,,06010073,,08/01/2011,80.0000,"Invoice-Private",,08/01/2011,08/10/2011,,06013957MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Des Rosiers, Andre",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40.0000,40.00,"Pendant Fee: Des Rosiers, Andre",,,,,,,,,,,,,,,
+INVOICE,CM,,06010073,,08/01/2011,80,"Invoice-Private",,08/01/2011,08/10/2011,,06013957MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Des Rosiers, Andre",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"Credit for Pendant Fee: Des Rosiers, Andre",,,,,,,,,,,,,,,

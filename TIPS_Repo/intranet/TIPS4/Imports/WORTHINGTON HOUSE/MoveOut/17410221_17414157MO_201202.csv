@@ -1,0 +1,8 @@
+BATCH,,201202,B,6488.0000,
+INVOICE,IN,,17410221,,02/01/2012,3269.0000,"Invoice-Private",,02/01/2012,02/10/2012,,17414157MO,50.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,1160.0000,1160.00,"CR:Limited Term Di... B.Aydt 201202: Aydt, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,19,95.0000,1805.00,"Basic Service Fee - Studio for Feb: Aydt, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,19,16.0000,304.00,"Resident Care - Level 1 for Feb: Aydt, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,17410221,,02/01/2012,3219,"Invoice-Private",,02/01/2012,02/10/2012,,17414157MO,50.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2755,2755,"CR:Basic Service F... B.Aydt 201202: Aydt, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,464,464,"CR:Resident Care -... B.Aydt 201202: Aydt, Bobbie",,,,,,,,,,,,,,,

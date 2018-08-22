@@ -1,0 +1,6 @@
+BATCH,,201301,B,5987.0000,
+INVOICE,IN,,03610319,,01/01/2013,5987.0000,"MoveIn-Burkett. Mary",,01/01/2013,01/01/2013,,03615421,5987.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,31,101.0000,3131,"M.Burkett: Basic Service Fee - Studio: Burkett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,31,59.0000,1829,"M.Burkett: Resident Care - Level 4: Burkett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Burkett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1000.0000,1000,"New Resident Fee: Burkett. Mary",,,,,,,,,,,,,,,

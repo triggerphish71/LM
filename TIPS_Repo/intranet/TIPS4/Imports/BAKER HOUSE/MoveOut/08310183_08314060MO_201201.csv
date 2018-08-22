@@ -1,0 +1,8 @@
+BATCH,,201201,B,9036.0000,
+INVOICE,IN,,08310183,,01/17/2012,3921.0000,"Invoice-Private",,01/17/2012,01/17/2012,,08314060MO,-4935.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,1116.0000,1116.00,"CR:Limited Term Di... D.Dyer 201201: Dyer, Doreen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,17,130.0000,2210.00,"Basic Service Fee - One Bedroom for Jan: Dyer, Doreen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,17,35.0000,595.00,"Resident Care - Level 2 for Jan: Dyer, Doreen",,,,,,,,,,,,,,,
+INVOICE,CM,,08310183,,01/17/2012,5115,"Invoice-Private",,01/17/2012,01/17/2012,,08314060MO,-4935.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,4030,4030,"CR:Basic Service F... D.Dyer 201201: Dyer, Doreen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1085,1085,"CR:Resident Care -... D.Dyer 201201: Dyer, Doreen",,,,,,,,,,,,,,,

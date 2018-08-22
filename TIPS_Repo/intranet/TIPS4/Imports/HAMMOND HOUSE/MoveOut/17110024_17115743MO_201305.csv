@@ -1,0 +1,6 @@
+BATCH,,201305,B,5815.0000,
+INVOICE,IN,,17110024,,05/12/2013,2850.0000,"Invoice-Private",,05/12/2013,05/12/2013,,17115743MO,-2985.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,30,95.0000,2850.00,"Basic Service Fee - Studio for May: Burnett, Abbie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110024,,05/12/2013,2965,"Invoice-Private",,05/12/2013,05/12/2013,,17115743MO,-2985.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2945,2945,"CR:Basic Service F... A.Burnett 201305: Burnett, Abbie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20,20,"CR:Pendant Fee... A.Burnett 201305: Burnett, Abbie",,,,,,,,,,,,,,,

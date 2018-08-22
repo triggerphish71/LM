@@ -1,0 +1,7 @@
+BATCH,,201204,B,3318.0000,
+INVOICE,IN,,12010216,,04/05/2012,948.0000,"Invoice-Private",,04/05/2012,04/05/2012,,12014359MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,1,480.0000,480.00,"CR:Limited Term Di... C.Wright 201204: Wright, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,6,78.0000,468.00,"Basic Service Fee - Studio for Apr: Wright, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,12010216,,04/05/2012,2370,"Invoice-Private",,04/05/2012,04/05/2012,,12014359MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2340,2340,"CR:Basic Service F... C.Wright 201204: Wright, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... C.Wright 201204: Wright, Christine",,,,,,,,,,,,,,,

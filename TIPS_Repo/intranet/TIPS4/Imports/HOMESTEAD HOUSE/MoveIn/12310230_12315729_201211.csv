@@ -1,0 +1,5 @@
+BATCH,,201211,B,3470.0000,
+INVOICE,IN,,12310230,,11/21/2012,3470.0000,"MoveIn-Jones. Alice",,11/21/2012,11/21/2012,,12315729,7252.0000,,,,,,,,,,
+TRANSACTION,3010,010211123,10,103.0000,1030,"Basic Service Fee - Studio: Jones. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211123,10,19.0000,190,"Resident Care - Level 1: Jones. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211123,1,2250.0000,2250,"New Resident Fee: Jones. Alice",,,,,,,,,,,,,,,

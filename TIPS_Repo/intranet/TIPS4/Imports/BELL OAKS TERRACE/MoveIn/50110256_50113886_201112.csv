@@ -1,0 +1,5 @@
+BATCH,,201112,B,1822.0000,
+INVOICE,IN,,50110256,,12/23/2011,1822.0000,"MoveIn-Fronek. Florence",,12/23/2011,12/23/2011,,50113886,4580.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,9,88.0000,792,"Basic Service Fee - Studio: Fronek. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Fronek. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Fronek. Florence",,,,,,,,,,,,,,,

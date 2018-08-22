@@ -1,0 +1,8 @@
+BATCH,,201201,B,5617.0000,
+INVOICE,IN,,05510207,,01/01/2012,1560.0000,"Invoice-Private",,01/01/2012,01/10/2012,,05514250MO,-2497.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,12,95.0000,1140.00,"Basic Service Fee - Studio for Jan: Harper, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,12,35.0000,420.00,"Resident Care - Level 2 for Jan: Harper, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,05510207,,01/01/2012,4057,"Invoice-Private",,01/01/2012,01/10/2012,,05514250MO,-2497.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2945,2945,"CR:Basic Service F... M.Harper 201201: Harper, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"CR:Monthly Cable... M.Harper 201201: Harper, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,1085,1085,"CR:Resident Care -... M.Harper 201201: Harper, Mildred",,,,,,,,,,,,,,,

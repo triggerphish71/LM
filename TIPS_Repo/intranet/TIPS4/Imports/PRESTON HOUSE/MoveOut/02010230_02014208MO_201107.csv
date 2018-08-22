@@ -1,0 +1,7 @@
+BATCH,,201107,B,4520.0000,
+INVOICE,IN,,02010230,,07/01/2011,496.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02014208MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,496.0000,496.00,"CR:Limited Term Di... R.Graham 201107: Graham, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,02010230,,07/01/2011,4024,"Invoice-Private",,07/01/2011,07/10/2011,,02014208MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2821,2821,"CR:Basic Service F... R.Graham 201107: Graham, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... R.Graham 201107: Graham, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,1178,1178,"CR:Resident Care -... R.Graham 201107: Graham, Roy",,,,,,,,,,,,,,,

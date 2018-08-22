@@ -1,0 +1,5 @@
+BATCH,,201208,B,1645.0000,
+INVOICE,IN,,50210202,,08/20/2012,1645.0000,"MoveIn-Butcher. Charles",,08/20/2012,08/20/2012,,50213576,5720.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,12,121.0000,1452,"Basic Service Fee - One Bedroom Del: Butcher. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,12,14.0000,168,"Resident Care - Level 1: Butcher. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Butcher. Charles",,,,,,,,,,,,,,,

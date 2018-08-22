@@ -1,0 +1,7 @@
+BATCH,,201304,B,4774.0000,
+INVOICE,IN,,14510328,,04/01/2013,154.0000,"Invoice-Private",,04/01/2013,04/01/2013,,14515919MO,-4466.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,99.0000,99.00,"Basic Service Fee - Studio for Apr: Brumm, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,55.0000,55.00,"Resident Care - Level 4 for Apr: Brumm, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,14510328,,04/01/2013,4620,"Invoice-Private",,04/01/2013,04/01/2013,,14515919MO,-4466.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2970,2970,"CR:Basic Service F... C.Brumm 201304: Brumm, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1650,1650,"CR:Resident Care -... C.Brumm 201304: Brumm, Charles",,,,,,,,,,,,,,,

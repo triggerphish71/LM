@@ -1,0 +1,8 @@
+BATCH,,201112,B,8222.2000,
+INVOICE,IN,,03010169,,12/21/2011,3708.6000,"Invoice-Private",,12/21/2011,12/21/2011,,03013935MO,-5517.6200,,,,,,,,,,
+TRANSACTION,3320,010103030,1,651.0000,651.00,"CR:Limited Term Di... M.Nicklesen 201112: Nicklesen, Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103030,21,81.0000,1701.00,"Basic Service Fee - Studio for Dec: Nicklesen, Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,21,64.6000,1356.60,"Resident Care - Level 38 for Dec: Nicklesen, Marlene",,,,,,,,,,,,,,,
+INVOICE,CM,,03010169,,12/21/2011,4513.6,"Invoice-Private",,12/21/2011,12/21/2011,,03013935MO,-5517.6200,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2511,2511,"CR:Basic Service F... M.Nicklesen 201112: Nicklesen, Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,2002.6,2002.6,"CR:Resident Care -... M.Nicklesen 201112: Nicklesen, Marlene",,,,,,,,,,,,,,,

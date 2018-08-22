@@ -1,0 +1,5 @@
+BATCH,,201204,B,1883.0000,
+INVOICE,IN,,04610201,,04/30/2012,1883.0000,"MoveIn-Wiggins. Thomas",,04/30/2012,04/30/2012,,04613605,6006.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,1,116.0000,116,"Basic Service Fee - One Bedroom: Wiggins. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,1,17.0000,17,"Resident Care - Level 1: Wiggins. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Wiggins. Thomas",,,,,,,,,,,,,,,

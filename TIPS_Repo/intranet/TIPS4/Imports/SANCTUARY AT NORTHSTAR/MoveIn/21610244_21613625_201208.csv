@@ -1,0 +1,5 @@
+BATCH,,201208,B,1500.0000,
+INVOICE,IN,,21610244,,07/01/2012,250.0000,"July_Rent-Minter. Nettie",,07/01/2012,07/10/2012,,21613625,4770.0000,,,,,,,,,,
+TRANSACTION,3216,010216216,1,250.0000,250,"Monthly Deferral Charge: Minter. Nettie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610244,,07/01/2012,1250.0000,"July_Rent-Minter. Nettie",,07/01/2012,07/10/2012,,21613625,4770.0000,,,,,,,,,,
+TRANSACTION,3216,010216216,1,1250,1250,"New Resident Fee Deferred: Minter. Nettie",,,,,,,,,,,,,,,

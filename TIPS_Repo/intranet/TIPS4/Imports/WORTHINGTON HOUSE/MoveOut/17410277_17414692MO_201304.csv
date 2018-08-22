@@ -1,0 +1,7 @@
+BATCH,,201304,B,5080.0000,
+INVOICE,IN,,17410277,,04/10/2013,1270.0000,"Invoice-Private",,04/10/2013,04/10/2013,,17414692MO,-2540.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,10,95.0000,950.00,"Basic Service Fee - Studio for Apr: Fenoglio, Judith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,10,32.0000,320.00,"Resident Care Level Change for Apr: Fenoglio, Judith",,,,,,,,,,,,,,,
+INVOICE,CM,,17410277,,04/10/2013,3810,"Invoice-Private",,04/10/2013,04/10/2013,,17414692MO,-2540.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2850,2850,"CR:Basic Service F... J.Fenoglio 201304: Fenoglio, Judith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,960,960,"CR:Resident Care L... J.Fenoglio 201304: Fenoglio, Judith",,,,,,,,,,,,,,,

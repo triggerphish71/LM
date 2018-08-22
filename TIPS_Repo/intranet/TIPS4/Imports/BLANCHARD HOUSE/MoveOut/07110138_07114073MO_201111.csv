@@ -1,0 +1,6 @@
+BATCH,,201111,B,3396.0000,
+INVOICE,IN,,07110138,,11/01/2011,816.0000,"Invoice-Private",,11/01/2011,11/10/2011,,07114073MO,-1732.0000,,,,,,,,,,
+TRANSACTION,3211,010305071,1,36.0000,36.00,"CR:Laundry... A.Vaughan 201111: Vaughan, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305071,1,780.0000,780.00,"CR:Limited Term Di... A.Vaughan 201111: Vaughan, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,07110138,,11/01/2011,2580,"Invoice-Private",,11/01/2011,11/10/2011,,07114073MO,-1732.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2580,2580,"CR:Room and Board ... A.Vaughan 201111: Vaughan, Anna",,,,,,,,,,,,,,,

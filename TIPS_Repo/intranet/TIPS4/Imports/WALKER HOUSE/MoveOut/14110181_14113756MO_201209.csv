@@ -1,0 +1,5 @@
+BATCH,,201209,B,1500.0000,
+INVOICE,IN,,14110181,,09/01/2012,750.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14113756MO,-1409.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,30,25.0000,750.00,"Credit for Limited Term Discount: Jones, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,14110181,,09/01/2012,750,"Invoice-Private",,09/01/2012,09/10/2012,,14113756MO,-1409.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,30,25,750,"Limited Term Discount: Jones, Mildred",,,,,,,,,,,,,,,

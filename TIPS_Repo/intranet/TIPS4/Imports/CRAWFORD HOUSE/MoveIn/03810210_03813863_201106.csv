@@ -1,0 +1,6 @@
+BATCH,,201106,B,3951.6000,
+INVOICE,IN,,03810210,,06/12/2011,3951.6000,"MoveIn-Reeves. Bill",,06/12/2011,06/12/2011,,03813863,3951.6000,,,,,,,,,,
+TRANSACTION,3010,010103038,19,81.0000,1539,"Basic Service Fee - Studio         : Reeves. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,19,20.4000,387.6,"Resident Care - Level 12: Reeves. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Reeves. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Reeves. Bill",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201206,B,2694.0000,
+INVOICE,IN,,19010214,,06/01/2012,1347.0000,"Invoice-Private",,06/01/2012,06/10/2012,,19014489MO,-805.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,30,44.0000,1320.00,"Credit for Limited Term Discount: Raymond, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Raymond, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,19010214,,06/01/2012,1347,"Invoice-Private",,06/01/2012,06/10/2012,,19014489MO,-805.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,30,44,1320,"Limited Term Discount: Raymond, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Raymond, Rita",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,2294.0000,
+INVOICE,IN,,02610261,,08/01/2012,1147.0000,"Invoice-Private",,08/01/2012,08/10/2012,,02614838MO,-3103.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,31,37.0000,1147.00,"Credit for Limited Term Discount: Thayer, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,02610261,,08/01/2012,1147,"Invoice-Private",,08/01/2012,08/10/2012,,02614838MO,-3103.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,31,37,1147,"Limited Term Discount: Thayer, Francis",,,,,,,,,,,,,,,

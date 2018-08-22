@@ -1,0 +1,8 @@
+BATCH,,201212,B,5635.0000,
+INVOICE,IN,,50310022,,12/19/2012,2128.0000,"Invoice-Private",,12/19/2012,12/19/2012,,50314657MO,-4886.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,19,98.0000,1862.00,"Basic Service Fee - One Bedroom for Dec: Walker, Helene Kiser",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,19,14.0000,266.00,"Resident Care - Level 1 for Dec: Walker, Helene Kiser",,,,,,,,,,,,,,,
+INVOICE,CM,,50310022,,12/19/2012,3507,"Invoice-Private",,12/19/2012,12/19/2012,,50314657MO,-4886.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,3038,3038,"CR:Basic Service F... H.Walker 201212: Walker, Helene Kiser",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... H.Walker 201212: Walker, Helene Kiser",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... H.Walker 201212: Walker, Helene Kiser",,,,,,,,,,,,,,,

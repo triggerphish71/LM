@@ -1,0 +1,7 @@
+BATCH,,201202,B,166.0000,
+INVOICE,IN,,17510252,,02/01/2012,83.0000,"Invoice-Private",,02/01/2012,02/10/2012,,17517376MO,-3951.7500,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25.00,"Monthly Cable: Lassiter, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202175,29,2.0000,58.00,"Credit for Limited Term Discount: Lassiter, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,17510252,,02/01/2012,83,"Invoice-Private",,02/01/2012,02/10/2012,,17517376MO,-3951.7500,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"Credit for Monthly Cable: Lassiter, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202175,29,2,58,"Limited Term Discount: Lassiter, Mildred",,,,,,,,,,,,,,,

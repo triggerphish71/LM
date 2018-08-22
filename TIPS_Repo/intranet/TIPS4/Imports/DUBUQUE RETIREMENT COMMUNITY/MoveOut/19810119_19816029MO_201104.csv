@@ -1,0 +1,7 @@
+BATCH,,201104,B,5750.0000,
+INVOICE,IN,,19810119,,04/01/2011,2300.0000,"Invoice-Private",,04/01/2011,04/10/2011,,19816029MO,-4715.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,20,13.0000,260.00,"Basic Service Fee Second Resident for Apr: Schoenauer, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,20,102.0000,2040.00,"Swan Personal Care - L6 for Apr: Schoenauer, June",,,,,,,,,,,,,,,
+INVOICE,CM,,19810119,,04/01/2011,3450,"Invoice-Private",,04/01/2011,04/10/2011,,19816029MO,-4715.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,390,390,"CR:Basic Service F... J.Schoenauer 201104: Schoenauer, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,3060,3060,"CR:Swan Personal C... J.Schoenauer 201104: Schoenauer, June",,,,,,,,,,,,,,,

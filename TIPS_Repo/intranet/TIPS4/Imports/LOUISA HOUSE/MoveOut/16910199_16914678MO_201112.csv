@@ -1,0 +1,8 @@
+BATCH,,201112,B,5328.1000,
+INVOICE,IN,,16910199,,12/12/2011,1710.4000,"Invoice-Private",,12/12/2011,12/12/2011,,16914678MO,-1907.3000,,,,,,,,,,
+TRANSACTION,3320,010103169,1,310.0000,310.00,"CR:Limited Term Di... R.Long 201112: Long, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103169,12,30.0000,360.00,"Basic Service Fee - Second Resident for Dec: Long, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,12,86.7000,1040.40,"Resident Care - Level 51 for Dec: Long, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,16910199,,12/12/2011,3617.7,"Invoice-Private",,12/12/2011,12/12/2011,,16914678MO,-1907.3000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,930,930,"CR:Basic Service F... R.Long 201112: Long, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,2687.7,2687.7,"CR:Resident Care -... R.Long 201112: Long, Ruth",,,,,,,,,,,,,,,

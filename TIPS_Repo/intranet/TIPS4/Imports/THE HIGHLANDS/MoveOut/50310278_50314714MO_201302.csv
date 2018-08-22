@@ -1,0 +1,7 @@
+BATCH,,201302,B,3255.0000,
+INVOICE,IN,,50310278,,02/01/2013,420.0000,"Invoice-Private",,02/01/2013,02/10/2013,,50314714MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,420.0000,420.00,"CR:Limited Term Di... M.Mullins 201302: Mullins, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310278,,02/01/2013,2835,"Invoice-Private",,02/01/2013,02/10/2013,,50314714MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2100,2100,"CR:Basic Service F... M.Mullins 201302: Mullins, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... M.Mullins 201302: Mullins, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,700,700,"CR:Resident Care -... M.Mullins 201302: Mullins, Minnie",,,,,,,,,,,,,,,

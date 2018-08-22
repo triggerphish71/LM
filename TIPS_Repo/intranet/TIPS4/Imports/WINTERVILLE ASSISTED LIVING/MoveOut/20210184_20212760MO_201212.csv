@@ -1,0 +1,8 @@
+BATCH,,201212,B,5724.0000,
+INVOICE,IN,,20210184,,12/13/2012,2810.0000,"Invoice-Private",,12/13/2012,12/13/2012,,20212760MO,-2088.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,930.0000,930.00,"CR:Limited Term Di... R.Beck 201212: Beck, Ruville",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,20,11.0000,220.00,"Resident Care - Level 1 for Dec: Beck, Ruville",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,20,83.0000,1660.00,"Studio for Dec: Beck, Ruville",,,,,,,,,,,,,,,
+INVOICE,CM,,20210184,,12/13/2012,2914,"Invoice-Private",,12/13/2012,12/13/2012,,20212760MO,-2088.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... R.Beck 201212: Beck, Ruville",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... R.Beck 201212: Beck, Ruville",,,,,,,,,,,,,,,

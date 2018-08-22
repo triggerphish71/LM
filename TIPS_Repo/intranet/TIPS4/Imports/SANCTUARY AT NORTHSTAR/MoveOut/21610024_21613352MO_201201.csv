@@ -1,0 +1,7 @@
+BATCH,,201201,B,7125.0000,
+INVOICE,IN,,21610024,,01/26/2012,3250.0000,"Invoice-Private",,01/26/2012,01/26/2012,,21613352MO,-4250.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,26,103.0000,2678.00,"One Bedroom for Jan: Loomis, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,26,22.0000,572.00,"Resident Care - Level 2 for Jan: Loomis, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,21610024,,01/26/2012,3875,"Invoice-Private",,01/26/2012,01/26/2012,,21613352MO,-4250.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3193,3193,"CR:One Bedroom... M.Loomis 201201: Loomis, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,682,682,"CR:Resident Care -... M.Loomis 201201: Loomis, Marilyn",,,,,,,,,,,,,,,

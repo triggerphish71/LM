@@ -1,0 +1,5 @@
+BATCH,,201110,B,4075.0000,
+INVOICE,IN,,12110281,,10/15/2011,4075.0000,"MoveIn-Johnson. Don",,10/15/2011,10/15/2011,,12115232,4075.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,17,120.0000,2040,"Basic Service Fee- One Bedroom Prem: Johnson. Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Johnson. Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Johnson. Don",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,4154.0000,
+INVOICE,IN,,11710233,,12/01/2012,961.0000,"Invoice-Private",,12/01/2012,12/10/2012,,11713937MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,1,961.0000,961.00,"CR:Limited Term Di... R.Keller 201212: Keller, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,11710233,,12/01/2012,3193,"Invoice-Private",,12/01/2012,12/10/2012,,11713937MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2666,2666,"CR:Basic Service F... R.Keller 201212: Keller, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,527,527,"CR:Resident Care -... R.Keller 201212: Keller, Ronald",,,,,,,,,,,,,,,

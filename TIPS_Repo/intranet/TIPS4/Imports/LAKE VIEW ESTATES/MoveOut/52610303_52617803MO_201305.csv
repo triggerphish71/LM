@@ -1,0 +1,5 @@
+BATCH,,201305,B,960.0000,
+INVOICE,IN,,52610303,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/01/2013,,52617803MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,30.0000,30.00,"Basic Service Fee - One Bedroom for May: Gralapp, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,52610303,,05/01/2013,930,"Invoice-Private",,05/01/2013,05/01/2013,,52617803MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,930,930,"CR:Basic Service F... G.Gralapp 201305: Gralapp, Gloria",,,,,,,,,,,,,,,

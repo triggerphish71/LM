@@ -1,0 +1,8 @@
+BATCH,,201110,B,5205.0000,
+INVOICE,IN,,19310274,,10/24/2011,2136.0000,"Invoice-Private",,10/24/2011,10/24/2011,,19314946MO,-3903.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,24,72.0000,1728.00,"Basic Service Fee - Studio for Oct: Priest, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,24,17.0000,408.00,"Resident Care - Level 1 for Oct: Priest, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,19310274,,10/24/2011,3069,"Invoice-Private",,10/24/2011,10/24/2011,,19314946MO,-3903.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2232,2232,"CR:Basic Service F... V.Priest 201110: Priest, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... V.Priest 201110: Priest, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,527,527,"CR:Resident Care -... V.Priest 201110: Priest, Virginia",,,,,,,,,,,,,,,

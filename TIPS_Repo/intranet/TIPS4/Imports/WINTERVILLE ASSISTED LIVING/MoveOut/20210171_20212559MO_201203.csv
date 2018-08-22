@@ -1,0 +1,8 @@
+BATCH,,201203,B,3910.0000,
+INVOICE,IN,,20210171,,03/06/2012,686.0000,"Invoice-Private",,03/06/2012,03/06/2012,,20212559MO,-5598.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,62.0000,62.00,"CR:Limited Term Di... D.Robinson 201203: Robinson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,6,21.0000,126.00,"Resident Care - Level 2 for Mar: Robinson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,6,83.0000,498.00,"Room and Board - Studio for Mar: Robinson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,20210171,,03/06/2012,3224,"Invoice-Private",,03/06/2012,03/06/2012,,20212559MO,-5598.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,651,651,"CR:Resident Care -... D.Robinson 201203: Robinson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Room and Board ... D.Robinson 201203: Robinson, Dorothy",,,,,,,,,,,,,,,

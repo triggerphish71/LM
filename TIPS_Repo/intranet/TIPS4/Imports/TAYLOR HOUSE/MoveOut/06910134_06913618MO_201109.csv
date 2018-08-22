@@ -1,0 +1,5 @@
+BATCH,,201109,B,480.0000,
+INVOICE,IN,,06910134,,09/01/2011,240.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06913618MO,-2059.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,30,8.0000,240.00,"Credit for Limited Term Discount: Stacy, Lynn",,,,,,,,,,,,,,,
+INVOICE,CM,,06910134,,09/01/2011,240,"Invoice-Private",,09/01/2011,09/10/2011,,06913618MO,-2059.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,30,8,240,"Limited Term Discount: Stacy, Lynn",,,,,,,,,,,,,,,

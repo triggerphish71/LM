@@ -1,0 +1,5 @@
+BATCH,,201206,B,70.0000,
+INVOICE,IN,,19210256,,06/01/2012,35.0000,"Invoice-Private",,06/01/2012,06/10/2012,,19215202MO,-3827.0000,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35.0000,35.00,"Pendant Fee: Goldsby, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19210256,,06/01/2012,35,"Invoice-Private",,06/01/2012,06/10/2012,,19215202MO,-3827.0000,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"Credit for Pendant Fee: Goldsby, Margaret",,,,,,,,,,,,,,,

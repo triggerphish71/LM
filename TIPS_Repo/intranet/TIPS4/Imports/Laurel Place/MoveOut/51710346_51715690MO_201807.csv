@@ -1,0 +1,7 @@
+BATCH,,201807,B,8835.6000,
+INVOICE,IN,,51710346,,07/06/2018,1432.8000,"Invoice-Private",,07/06/2018,07/06/2018,,51715690MO,-5970.0000,,,,,,,,,,
+TRANSACTION,3020,010003517,6,63.0000,378.00,"Basic Service Fee - Studio Deluxe for Jul: Truckenmiller, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,6,175.8000,1054.80,"Resident Care - Level 78 for Jul: Truckenmiller, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,51710346,,07/06/2018,7402.8,"Invoice-Private",,07/06/2018,07/06/2018,,51715690MO,-5970.0000,,,,,,,,,,
+TRANSACTION,3020,010003517,1,1953,1953,"CR:Basic Service F... P.Truckenmiller 201807: Truckenmiller, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,1,5449.8,5449.8,"CR:Resident Care -... P.Truckenmiller 201807: Truckenmiller, Patricia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201805,B,56.8000,
+INVOICE,IN,,02411427,,05/01/2018,28.4000,"Invoice-Private",,05/01/2018,05/10/2018,,02418277MO,-3830.4000,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4000,28.40,"Monthly Cable: George, Laverne",,,,,,,,,,,,,,,
+INVOICE,CM,,02411427,,05/01/2018,28.4,"Invoice-Private",,05/01/2018,05/10/2018,,02418277MO,-3830.4000,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4,28.4,"Credit for Monthly Cable: George, Laverne",,,,,,,,,,,,,,,

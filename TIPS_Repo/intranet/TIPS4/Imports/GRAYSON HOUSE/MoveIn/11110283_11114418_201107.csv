@@ -1,0 +1,5 @@
+BATCH,,201107,B,4303.0000,
+INVOICE,IN,,11110283,,07/01/2011,4303.0000,"July_Rent-Peterson. Dorothy",,07/01/2011,07/10/2011,,11114418,9502.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,31,109.0000,3379,"Basic Service Fee - One Bedroom    : Peterson. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,31,29.0000,899,"Resident Care - Level 2: Peterson. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Peterson. Dorothy",,,,,,,,,,,,,,,

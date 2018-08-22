@@ -1,0 +1,6 @@
+BATCH,,201204,B,4445.0000,
+INVOICE,CM,,50110244,,04/01/2012,4445,"Invoice-Private",,04/01/2012,04/10/2012,,50114046MO,-4445.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2640,2640,"CR:Basic Service F... J.Anderson 201204: Anderson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... J.Anderson 201204: Anderson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... J.Anderson 201204: Anderson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1740,1740,"CR:Resident Care -... J.Anderson 201204: Anderson, Jean",,,,,,,,,,,,,,,

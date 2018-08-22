@@ -1,0 +1,7 @@
+BATCH,,201201,B,2830.0000,
+INVOICE,IN,,18910293,,01/23/2012,2830.0000,"MoveIn-Gibbs. Arthur",,01/23/2012,01/23/2012,,18915080,7060.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,9,118.0000,1062,"Basic Service Fee- One Bedroom Prem: Gibbs. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,9,17.0000,153,"Resident Care - Level 1: Gibbs. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Gibbs. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,1500.0000,1500,"New Tenant Fee: Gibbs. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,9,10.0000,90,"CC Meals: Gibbs. Arthur",,,,,,,,,,,,,,,

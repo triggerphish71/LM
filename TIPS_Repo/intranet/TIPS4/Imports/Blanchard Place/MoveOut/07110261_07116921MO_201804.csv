@@ -1,0 +1,5 @@
+BATCH,,201804,B,2000.0000,
+INVOICE,IN,,07110261,,04/01/2018,1000.0000,"Invoice-Private",,04/01/2018,04/10/2018,,07116921MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3216,010005071,1,1000.0000,1000.00,"Community Fee Installment Charge: Southward, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,07110261,,04/01/2018,1000,"Invoice-Private",,04/01/2018,04/10/2018,,07116921MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3216,010005071,1,1000,1000,"Credit for Community Fee Installment Charge: Southward, Ruby",,,,,,,,,,,,,,,

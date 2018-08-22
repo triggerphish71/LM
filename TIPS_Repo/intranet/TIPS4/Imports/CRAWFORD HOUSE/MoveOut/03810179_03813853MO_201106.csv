@@ -1,0 +1,7 @@
+BATCH,,201106,B,4090.0000,
+INVOICE,IN,,03810179,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03813853MO,-6069.0000,,,,,,,,,,
+TRANSACTION,3320,010103038,1,60.0000,60.00,"CR:Limited Term Di... A.Stroud 201106: Stroud, Alyce",,,,,,,,,,,,,,,
+INVOICE,CM,,03810179,,06/01/2011,4030,"Invoice-Private",,06/01/2011,06/10/2011,,03813853MO,-6069.0000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2730,2730,"CR:Basic Service F... A.Stroud 201106: Stroud, Alyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... A.Stroud 201106: Stroud, Alyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,1275,1275,"CR:Resident Care -... A.Stroud 201106: Stroud, Alyce",,,,,,,,,,,,,,,

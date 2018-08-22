@@ -1,0 +1,5 @@
+BATCH,,201206,B,4072.0000,
+INVOICE,IN,,15510250,,06/08/2012,4072.0000,"MoveIn-Thomas. Richard",,06/08/2012,06/08/2012,,15515262,4072.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,23,89.0000,2047,"Basic Service Fee - Studio: Thomas. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Thomas. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Thomas. Richard",,,,,,,,,,,,,,,

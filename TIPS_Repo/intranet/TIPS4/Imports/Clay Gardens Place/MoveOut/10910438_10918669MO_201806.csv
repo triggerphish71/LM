@@ -1,0 +1,7 @@
+BATCH,,201806,B,3594.0000,
+INVOICE,IN,,10910438,,06/10/2018,984.0000,"Invoice-Private",,06/10/2018,06/10/2018,,10918669MO,-4323.0000,,,,,,,,,,
+TRANSACTION,3017,010005109,8,33.0000,264.00," Level: 4 : Flinn, William H",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005109,15,48.0000,720.00,"Basic Service Fee - Studio for Jun: Flinn, William H",,,,,,,,,,,,,,,
+INVOICE,CM,,10910438,,06/10/2018,2610,"Invoice-Private",,06/10/2018,06/10/2018,,10918669MO,-4323.0000,,,,,,,,,,
+TRANSACTION,3020,010005109,1,1440,1440,"CR:Basic Service F... W.Flinn 201806: Flinn, William H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005109,1,1170,1170,"CR:Resident Care L... W.Flinn 201806: Flinn, William H",,,,,,,,,,,,,,,

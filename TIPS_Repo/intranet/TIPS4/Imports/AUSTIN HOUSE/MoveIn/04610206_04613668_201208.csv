@@ -1,0 +1,6 @@
+BATCH,,201208,B,4075.0000,
+INVOICE,IN,,04610206,,07/31/2012,975.0000,"MoveIn-Alexander. Lois",,07/31/2012,07/31/2012,,04613668,4075.0000,,,,,,,,,,
+TRANSACTION,3014,010202046,1,100.0000,100,"Basic Service Fee - Studio: Alexander. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,875.0000,875,"New Resident Fee: Alexander. Lois",,,,,,,,,,,,,,,
+INVOICE,IN,,04610206,,08/01/2012,3100.0000,"August_Rent-Alexander. Lois",,08/01/2012,08/10/2012,,04613668,4075.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,31,100.0000,3100,"Basic Service Fee - Studio: Alexander. Lois",,,,,,,,,,,,,,,

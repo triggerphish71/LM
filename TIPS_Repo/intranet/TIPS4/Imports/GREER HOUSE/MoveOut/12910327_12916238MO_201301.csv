@@ -1,0 +1,7 @@
+BATCH,,201301,B,4928.0000,
+INVOICE,IN,,12910327,,01/01/2013,806.0000,"Invoice-Private",,01/01/2013,01/10/2013,,12916238MO,-3316.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,1,806.0000,806.00,"CR:Limited Term Di... H.Seamans 201301: Seamans, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,12910327,,01/01/2013,4122,"Invoice-Private",,01/01/2013,01/10/2013,,12916238MO,-3316.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2976,2976,"CR:Basic Service F... H.Seamans 201301: Seamans, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... H.Seamans 201301: Seamans, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1116,1116,"CR:Resident Care -... H.Seamans 201301: Seamans, Helen",,,,,,,,,,,,,,,

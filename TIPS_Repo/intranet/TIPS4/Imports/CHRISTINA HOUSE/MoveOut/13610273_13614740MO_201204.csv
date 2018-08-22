@@ -1,0 +1,6 @@
+BATCH,,201204,B,2865.0000,
+INVOICE,IN,,13610273,,04/09/2012,1215.0000,"Invoice-Private",,04/09/2012,04/09/2012,,13614740MO,-3074.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,1,60.0000,60.00,"CR:Limited Term Di... J.Morton 201204: Morton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309136,21,55.0000,1155.00,"Basic Service Fee - Studio for Apr: Morton, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,13610273,,04/09/2012,1650,"Invoice-Private",,04/09/2012,04/09/2012,,13614740MO,-3074.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1650,1650,"CR:Basic Service F... J.Morton 201204: Morton, Jane",,,,,,,,,,,,,,,

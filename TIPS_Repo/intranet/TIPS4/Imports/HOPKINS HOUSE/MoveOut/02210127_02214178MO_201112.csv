@@ -1,0 +1,8 @@
+BATCH,,201112,B,6681.0000,
+INVOICE,IN,,02210127,,12/21/2011,2688.0000,"Invoice-Private",,12/21/2011,12/21/2011,,02214178MO,-5360.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,21,111.0000,2331.00,"Basic Service Fee - One Bedroom for Dec: Bell, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,21,17.0000,357.00,"Resident Care - Level 1 for Dec: Bell, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,02210127,,12/21/2011,3993,"Invoice-Private",,12/21/2011,12/21/2011,,02214178MO,-5360.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3441,3441,"CR:Basic Service F... M.Bell 201112: Bell, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... M.Bell 201112: Bell, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,527,527,"CR:Resident Care -... M.Bell 201112: Bell, Maxine",,,,,,,,,,,,,,,

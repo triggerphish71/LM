@@ -1,0 +1,6 @@
+BATCH,,201107,B,6576.0000,
+INVOICE,IN,,02310203,,07/07/2011,3755.0000,"Invoice-Private",,07/07/2011,07/07/2011,,02314484MO,934.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,1116.0000,1116.00,"CR:Limited Term Di... D.Hawkins 201107: Hawkins, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,29,91.0000,2639.00,"Basic Service Fee - Studio for Jul: Hawkins, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02310203,,07/07/2011,2821,"Invoice-Private",,07/07/2011,07/07/2011,,02314484MO,934.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2821,2821,"CR:Basic Service F... D.Hawkins 201107: Hawkins, Dorothy",,,,,,,,,,,,,,,

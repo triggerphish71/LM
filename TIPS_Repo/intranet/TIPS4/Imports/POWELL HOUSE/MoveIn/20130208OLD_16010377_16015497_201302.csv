@@ -1,0 +1,6 @@
+BATCH,,201302,B,3940.0000,
+INVOICE,IN,,16010377,,02/08/2013,3940.0000,"MoveIn-Flora. Carol",,02/08/2013,02/08/2013,,16015497,3940.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,21,99.0000,2079,"C.Flora: Basic Service Fee - Studio: Flora. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,21,16.0000,336,"C.Flora: Resident Care - Level 1: Flora. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Flora. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,1500.0000,1500,"New Resident Fee: Flora. Carol",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,7598.0000,
+INVOICE,IN,,11610250,,10/01/2011,3537.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11614799MO,-524.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,27,97.0000,2619.00,"Basic Service Fee - Studio for Oct: Cox, Kitty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,27,34.0000,918.00,"Resident Care - Level 2 for Oct: Cox, Kitty",,,,,,,,,,,,,,,
+INVOICE,CM,,11610250,,10/01/2011,4061,"Invoice-Private",,10/01/2011,10/10/2011,,11614799MO,-524.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3007,3007,"CR:Basic Service F... K.Cox 201110: Cox, Kitty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... K.Cox 201110: Cox, Kitty",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201306,B,5575.0000,
+INVOICE,IN,,19410252,,06/15/2013,1845.0000,"Invoice-Private",,06/15/2013,06/15/2013,,19414590MO,-5233.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,15,75.0000,1125.00,"Basic Service Fee - Studio for Jun: West, Rine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,15,48.0000,720.00,"Resident Care Level Change for Jun: West, Rine",,,,,,,,,,,,,,,
+INVOICE,CM,,19410252,,06/15/2013,3730,"Invoice-Private",,06/15/2013,06/15/2013,,19414590MO,-5233.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2250,2250,"CR:Basic Service F... R.West 201306: West, Rine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... R.West 201306: West, Rine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,1440,1440,"CR:Resident Care L... R.West 201306: West, Rine",,,,,,,,,,,,,,,

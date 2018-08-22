@@ -1,0 +1,5 @@
+BATCH,,201302,B,2606.0000,
+INVOICE,IN,,53510222,,02/01/2013,2606.0000,"February_Rent-Mayer. Vera",,02/01/2013,02/10/2013,,53515130,4723.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,28,75.0000,2100,"Basic Service Fee - Studio: Mayer. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319535,28,17.0000,476,"Resident Care - Level 1: Mayer. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30.0000,30,"Monthly Cable: Mayer. Vera",,,,,,,,,,,,,,,

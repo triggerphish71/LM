@@ -1,0 +1,5 @@
+BATCH,,201203,B,4370.0000,
+INVOICE,IN,,14610246,,03/01/2012,4370.0000,"March_Rent-Burden. James",,03/01/2012,03/10/2012,,14614394,6520.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,31,93.0000,2883,"Basic Service Fee - Studio: Burden. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309146,31,47.0000,1457,"Resident Care - Level 3: Burden. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Burden. James",,,,,,,,,,,,,,,

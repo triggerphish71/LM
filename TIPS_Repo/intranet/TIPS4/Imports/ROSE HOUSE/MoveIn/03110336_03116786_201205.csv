@@ -1,0 +1,6 @@
+BATCH,,201205,B,6789.0000,
+INVOICE,IN,,03110336,,05/04/2012,6789.0000,"MoveIn-Strauss. Myrtle",,05/04/2012,05/04/2012,,03116786,6789.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,28,99.0000,2772,"M.Strauss: Basic Service Fee - Studio: Strauss. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,28,80.0000,2240,"M.Strauss: Resident Care - Level 6: Strauss. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Strauss. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Strauss. Myrtle",,,,,,,,,,,,,,,

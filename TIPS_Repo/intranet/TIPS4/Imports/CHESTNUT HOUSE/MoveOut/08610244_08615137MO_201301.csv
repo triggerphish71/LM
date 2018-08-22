@@ -1,0 +1,8 @@
+BATCH,,201301,B,7145.0000,
+INVOICE,IN,,08610244,,01/24/2013,2205.0000,"Invoice-Private",,01/24/2013,01/24/2013,,08615137MO,-4863.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,21,89.0000,1869.00,"Basic Service Fee - Studio for Jan: Potter, Delores ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,21,16.0000,336.00,"Resident Care - Level 1 for Jan: Potter, Delores ",,,,,,,,,,,,,,,
+INVOICE,CM,,08610244,,01/24/2013,4940,"Invoice-Private",,01/24/2013,01/24/2013,,08615137MO,-4863.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2492,2492,"CR:Basic Service F... D.Potter 201301: Potter, Delores ",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000,2000,"CR:New Resident Fe... D.Potter 201301: Potter, Delores ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,448,448,"CR:Resident Care -... D.Potter 201301: Potter, Delores ",,,,,,,,,,,,,,,

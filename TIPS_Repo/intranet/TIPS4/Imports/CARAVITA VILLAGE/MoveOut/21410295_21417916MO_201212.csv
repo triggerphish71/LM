@@ -1,0 +1,5 @@
+BATCH,,201212,B,1016.8000,
+INVOICE,IN,,21410295,,12/01/2012,508.4000,"Invoice-Private",,12/01/2012,12/10/2012,,21417916MO,-1886.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,16.4000,508.40,"Credit for Limited Term Discount: Warren, Sara Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,21410295,,12/01/2012,508.4,"Invoice-Private",,12/01/2012,12/10/2012,,21417916MO,-1886.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,16.4,508.4,"Limited Term Discount: Warren, Sara Ann",,,,,,,,,,,,,,,

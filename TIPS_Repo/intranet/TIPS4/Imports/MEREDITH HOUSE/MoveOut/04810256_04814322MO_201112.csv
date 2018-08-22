@@ -1,0 +1,5 @@
+BATCH,,201112,B,2418.0000,
+INVOICE,IN,,04810256,,12/01/2011,1209.0000,"Invoice-Private",,12/01/2011,12/10/2011,,04814322MO,-17337.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,31,39.0000,1209.00,"Credit for Limited Term Discount: Shelhamer, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,04810256,,12/01/2011,1209,"Invoice-Private",,12/01/2011,12/10/2011,,04814322MO,-17337.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,31,39,1209,"Limited Term Discount: Shelhamer, Lois",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201803,B,3448.4000,
+INVOICE,IN,,02411385,,03/07/2018,785.0000,"Invoice-Private",,03/07/2018,03/07/2018,,02418244MO,-1878.4000,,,,,,,,,,
+TRANSACTION,3017,010002024,5,38.0000,190.00," Level Care:  2 : Daugherty, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,7,85.0000,595.00,"Basic Service Fee - Studio  for Mar: Daugherty, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411385,,03/07/2018,2663.4,"Invoice-Private",,03/07/2018,03/07/2018,,02418244MO,-1878.4000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,2635,2635,"CR:Basic Service F... J.Daugherty 201803: Daugherty, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4,28.4,"CR:Monthly Cable... J.Daugherty 201803: Daugherty, Johnnie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,6546.2600,
+INVOICE,IN,,05810239,,12/07/2012,1205.8900,"Invoice-Private",,12/07/2012,12/07/2012,,05814174MO,-4134.4800,,,,,,,,,,
+TRANSACTION,3027,010202058,7,107.2700,750.89,"Resident Care - Level 6+13 pts for Dec: Echols, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,7,65.0000,455.00,"Room and Board - Studio for Dec: Echols, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,05810239,,12/07/2012,5340.37,"Invoice-Private",,12/07/2012,12/07/2012,,05814174MO,-4134.4800,,,,,,,,,,
+TRANSACTION,3027,010202058,1,3325.37,3325.37,"CR:Resident Care -... D.Echols 201212: Echols, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2015,2015,"CR:Room and Board ... D.Echols 201212: Echols, Dorothy",,,,,,,,,,,,,,,

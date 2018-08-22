@@ -1,0 +1,7 @@
+BATCH,,201306,B,3876.0000,
+INVOICE,IN,,08810119,,06/01/2013,456.0000,"Invoice-Private",,06/01/2013,06/10/2013,,08814694MO,-2964.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,4,55.0000,220.00,"Basic Service Fee - Studio for Jun: Hilton, Leslie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,4,59.0000,236.00,"Resident Care - Level 4 for Jun: Hilton, Leslie",,,,,,,,,,,,,,,
+INVOICE,CM,,08810119,,06/01/2013,3420,"Invoice-Private",,06/01/2013,06/10/2013,,08814694MO,-2964.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1650,1650,"CR:Basic Service F... L.Hilton 201306: Hilton, Leslie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1770,1770,"CR:Resident Care -... L.Hilton 201306: Hilton, Leslie",,,,,,,,,,,,,,,

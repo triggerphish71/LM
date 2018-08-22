@@ -1,0 +1,5 @@
+BATCH,,201211,B,1860.0000,
+INVOICE,IN,,04710131,,11/01/2012,930.0000,"Invoice-Private",,11/01/2012,11/10/2012,,04713265MO,-2542.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,30,31.0000,930.00,"Credit for Limited Term Discount: Finley, James",,,,,,,,,,,,,,,
+INVOICE,CM,,04710131,,11/01/2012,930,"Invoice-Private",,11/01/2012,11/10/2012,,04713265MO,-2542.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,30,31,930,"Limited Term Discount: Finley, James",,,,,,,,,,,,,,,

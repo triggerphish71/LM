@@ -1,0 +1,7 @@
+BATCH,,201211,B,7084.0000,
+INVOICE,IN,,15710203,,11/01/2012,2254.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15714755MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,14,92.0000,1288.00,"Basic Service Fee - Studio for Nov: Vonderau, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,14,69.0000,966.00,"Resident Care - Level 5 for Nov: Vonderau, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,15710203,,11/01/2012,4830,"Invoice-Private",,11/01/2012,11/10/2012,,15714755MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2760,2760,"CR:Basic Service F... B.Vonderau 201211: Vonderau, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,2070,2070,"CR:Resident Care -... B.Vonderau 201211: Vonderau, Betty",,,,,,,,,,,,,,,

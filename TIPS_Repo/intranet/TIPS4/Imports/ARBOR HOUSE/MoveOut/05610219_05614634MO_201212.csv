@@ -1,0 +1,6 @@
+BATCH,,201212,B,3267.0000,
+INVOICE,IN,,05610219,,12/01/2012,1380.0000,"Invoice-Private",,12/01/2012,12/10/2012,,05614634MO,-507.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,23,60.0000,1380.00,"Basic Service Fee - Studio for Dec: Bassett, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,05610219,,12/01/2012,1887,"Invoice-Private",,12/01/2012,12/10/2012,,05614634MO,-507.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,1860,1860,"CR:Basic Service F... C.Bassett 201212: Bassett, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... C.Bassett 201212: Bassett, Carl",,,,,,,,,,,,,,,

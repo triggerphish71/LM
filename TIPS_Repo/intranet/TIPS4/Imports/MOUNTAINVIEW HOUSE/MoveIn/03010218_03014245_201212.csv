@@ -1,0 +1,5 @@
+BATCH,,201212,B,2343.0000,
+INVOICE,IN,,03010218,,12/17/2012,2343.0000,"MoveIn-Ackerman. Ila",,12/17/2012,12/17/2012,,03014245,5635.2000,,,,,,,,,,
+TRANSACTION,3010,010103030,15,84.0000,1260,"I.Ackerman: Basic Service Fee - Studio: Ackerman. Ila",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,15,22.2000,333,"I.Ackerman: Resident Care - Level 12: Ackerman. Ila",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,750.0000,750,"New Resident Fee: Ackerman. Ila",,,,,,,,,,,,,,,

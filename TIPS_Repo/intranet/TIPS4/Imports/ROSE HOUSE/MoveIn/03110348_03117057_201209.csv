@@ -1,0 +1,6 @@
+BATCH,,201209,B,3825.0000,
+INVOICE,IN,,03110348,,09/15/2012,3825.0000,"MoveIn-Root. Mary Ann",,09/15/2012,09/15/2012,,03117057,7820.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,16,99.0000,1584,"Basic Service Fee - Studio: Root. Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,16,29.0000,464,"Resident Care - Level 2: Root. Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Root. Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Root. Mary Ann",,,,,,,,,,,,,,,

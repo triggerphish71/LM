@@ -1,0 +1,6 @@
+BATCH,,201303,B,1952.0000,
+INVOICE,IN,,02411312,,03/04/2013,220.0000,"Invoice-Private",,03/04/2013,03/04/2013,,02416078MO,-1512.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,4,55.0000,220.00,"Basic Service Fee - Studio for Mar: Flower, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02411312,,03/04/2013,1732,"Invoice-Private",,03/04/2013,03/04/2013,,02416078MO,-1512.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,1705,1705,"CR:Basic Service F... D.Flower 201303: Flower, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... D.Flower 201303: Flower, Dorothy",,,,,,,,,,,,,,,

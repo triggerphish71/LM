@@ -1,0 +1,6 @@
+BATCH,,201802,B,7398.2700,
+INVOICE,IN,,07810128,,02/21/2018,3652.4700,"MoveIn-Sells. Claude",,02/21/2018,02/21/2018,,07816597,7398.2700,,,,,,,,,,
+TRANSACTION,3010,010004078,8,120.0000,960,"C.Sells: Basic Service Fee - One Bedroom: Sells. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010004078,1,2000.0000,2000,"Community Fee: Sells. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010004078,1,25.8000,25.8,"Monthly Cable: Sells. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010004078,1,666.6700,666.67,"Monthly Deferral Charge: Sells. Claude",,,,,,,,,,,,,,,

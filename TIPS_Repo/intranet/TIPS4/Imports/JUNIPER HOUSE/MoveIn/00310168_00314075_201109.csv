@@ -1,0 +1,6 @@
+BATCH,,201109,B,4432.6000,
+INVOICE,IN,,00310168,,09/07/2011,4432.6000,"MoveIn-Wasson. Patricia",,09/07/2011,09/07/2011,,00314075,4432.6000,,,,,,,,,,
+TRANSACTION,3010,010101003,24,79.0000,1896,"Basic Service Fee - Studio         : Wasson. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101003,24,62.9000,1509.6,"Resident Care - Level 37: Wasson. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Wasson. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Wasson. Patricia",,,,,,,,,,,,,,,

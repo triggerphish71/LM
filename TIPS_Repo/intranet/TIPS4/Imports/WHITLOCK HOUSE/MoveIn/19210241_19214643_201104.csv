@@ -1,0 +1,5 @@
+BATCH,,201104,B,2725.0000,
+INVOICE,IN,,19210241,,04/26/2011,2725.0000,"MoveIn-Burnstein. Jeanne",,04/26/2011,04/26/2011,,19214643,7220.0000,,,,,,,,,,
+TRANSACTION,3010,010309192,5,109.0000,545,"Basic Service Fee - Studio         : Burnstein. Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,5,36.0000,180,"Resident Care - Level 2: Burnstein. Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309192,1,2000.0000,2000,"New Resident Fee: Burnstein. Jeanne",,,,,,,,,,,,,,,

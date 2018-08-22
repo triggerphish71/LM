@@ -1,0 +1,5 @@
+BATCH,,201202,B,6701.5100,
+INVOICE,IN,,03910225,,02/03/2012,6701.5100,"MoveIn-Noblitt. Emma",,02/03/2012,02/03/2012,,03914385,6701.5100,,,,,,,,,,
+TRANSACTION,3010,010101039,27,90.0000,2430,"Basic Service Fee - Studio: Noblitt. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,27,84.1300,2271.51,"Resident Care - Level 47: Noblitt. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Noblitt. Emma",,,,,,,,,,,,,,,

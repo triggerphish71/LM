@@ -1,0 +1,6 @@
+BATCH,,201212,B,2025.0000,
+INVOICE,IN,,01610313,,12/13/2012,100.0000,"Invoice-Private",,12/13/2012,12/13/2012,,01616188MO,-4950.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,100.0000,100.00,"Basic Service Fee - One Bedroom for Dec: Crawford, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01610313,,12/13/2012,1925,"Invoice-Private",,12/13/2012,12/13/2012,,01616188MO,-4950.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,1900,1900,"CR:Basic Service F... R.Crawford 201212: Crawford, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... R.Crawford 201212: Crawford, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,8265.0000,
+INVOICE,IN,,14810241,,05/26/2011,3770.0000,"Invoice-Private",,05/26/2011,05/26/2011,,14814570MO,-5075.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,26,88.0000,2288.00,"Basic Service Fee - Studio for May: Bevelacqua, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,26,57.0000,1482.00,"Resident Care - Level 4 for May: Bevelacqua, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,14810241,,05/26/2011,4495,"Invoice-Private",,05/26/2011,05/26/2011,,14814570MO,-5075.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2728,2728,"CR:Basic Service F... C.Bevelacqua 201105: Bevelacqua, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1767,1767,"CR:Resident Care -... C.Bevelacqua 201105: Bevelacqua, Charles",,,,,,,,,,,,,,,

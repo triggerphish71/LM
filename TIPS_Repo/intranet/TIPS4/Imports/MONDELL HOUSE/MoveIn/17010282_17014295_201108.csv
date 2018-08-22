@@ -1,0 +1,5 @@
+BATCH,,201108,B,2115.0000,
+INVOICE,IN,,17010282,,08/31/2011,2115.0000,"MoveIn-Short. Lela",,08/31/2011,08/31/2011,,17014295,4840.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,1,90.0000,90,"Basic Service Fee - Studio         : Short. Lela",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Short. Lela",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Short. Lela",,,,,,,,,,,,,,,

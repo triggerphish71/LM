@@ -1,0 +1,5 @@
+BATCH,,201307,B,2112.0000,
+INVOICE,IN,,13810261,,07/13/2013,192.0000,"Invoice-Private",,07/13/2013,07/13/2013,,13815770MO,-4704.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,2,96.0000,192.00,"Basic Service Fee - Studio for Jul: Partridge, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,13810261,,07/13/2013,1920,"Invoice-Private",,07/13/2013,07/13/2013,,13815770MO,-4704.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,1920,1920,"CR:Basic Service F... J.Partridge 201307: Partridge, Josephine",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201206,B,4260.0000,
+INVOICE,IN,,15810294,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15814567MO,-4638.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,60.0000,60.00,"CR:Limited Term Di... B.Barning 201206: Barning, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,15810294,,06/01/2012,4200,"Invoice-Private",,06/01/2012,06/10/2012,,15814567MO,-4638.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1320,1320,"CR:Resident Care -... B.Barning 201206: Barning, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2880,2880,"CR:Room and Board ... B.Barning 201206: Barning, Bonnie",,,,,,,,,,,,,,,

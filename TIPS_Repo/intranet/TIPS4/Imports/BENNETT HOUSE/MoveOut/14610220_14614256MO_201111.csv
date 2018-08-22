@@ -1,0 +1,8 @@
+BATCH,,201111,B,4246.0000,
+INVOICE,IN,,14610220,,11/01/2011,136.0000,"Invoice-Private",,11/01/2011,11/01/2011,,14614256MO,-3974.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,89.0000,89.00,"Basic Service Fee - Studio for Nov: Miller, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,47.0000,47.00,"Resident Care - Level 3 for Nov: Miller, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,14610220,,11/01/2011,4110,"Invoice-Private",,11/01/2011,11/01/2011,,14614256MO,-3974.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2670,2670,"CR:Basic Service F... L.Miller 201111: Miller, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... L.Miller 201111: Miller, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1410,1410,"CR:Resident Care -... L.Miller 201111: Miller, Lawrence",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,4410.0000,
+INVOICE,IN,,08810176,,06/01/2011,720.0000,"Invoice-Private",,06/01/2011,06/10/2011,,08814037MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,720.0000,720.00,"CR:Limited Term Di... J.Martin 201106: Martin, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,08810176,,06/01/2011,3690,"Invoice-Private",,06/01/2011,06/10/2011,,08814037MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2820,2820,"CR:Basic Service F... J.Martin 201106: Martin, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,870,870,"CR:Resident Care -... J.Martin 201106: Martin, Jane",,,,,,,,,,,,,,,

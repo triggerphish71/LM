@@ -1,0 +1,5 @@
+BATCH,,201206,B,2220.0000,
+INVOICE,IN,,51610246,,06/01/2012,1110.0000,"Invoice-Private",,06/01/2012,06/10/2012,,51613799MO,-1214.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,30,37.0000,1110.00,"Credit for Limited Term Discount: Vanselus, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,51610246,,06/01/2012,1110,"Invoice-Private",,06/01/2012,06/10/2012,,51613799MO,-1214.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,30,37,1110,"Limited Term Discount: Vanselus, Marion",,,,,,,,,,,,,,,

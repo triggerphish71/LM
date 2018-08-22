@@ -1,0 +1,6 @@
+BATCH,,201304,B,2760.0000,
+INVOICE,IN,,53310283,,04/01/2013,1140.0000,"Invoice-Private",,04/01/2013,04/10/2013,,53315345MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3321,010319533,1,1140.0000,1140.00,"CR:2nd Resident Fr... J.Englert 201304: Englert, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53310283,,04/01/2013,1620,"Invoice-Private",,04/01/2013,04/10/2013,,53315345MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1140,1140,"CR:Basic Service F... J.Englert 201304: Englert, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,480,480,"CR:Resident Care L... J.Englert 201304: Englert, John",,,,,,,,,,,,,,,

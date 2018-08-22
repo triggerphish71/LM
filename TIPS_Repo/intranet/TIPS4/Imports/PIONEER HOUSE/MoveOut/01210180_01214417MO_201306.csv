@@ -1,0 +1,7 @@
+BATCH,,201306,B,5706.0500,
+INVOICE,IN,,01210180,,06/19/2013,2212.5500,"Invoice-Private",,06/19/2013,06/19/2013,,01214417MO,-4890.9000,,,,,,,,,,
+TRANSACTION,3020,010103012,19,85.0000,1615.00,"Basic Service Fee - Studio for Jun: Elder, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,19,31.4500,597.55,"Resident Care - Level 17 for Jun: Elder, William",,,,,,,,,,,,,,,
+INVOICE,CM,,01210180,,06/19/2013,3493.5,"Invoice-Private",,06/19/2013,06/19/2013,,01214417MO,-4890.9000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2550,2550,"CR:Basic Service F... W.Elder 201306: Elder, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,943.5,943.5,"CR:Resident Care -... W.Elder 201306: Elder, William",,,,,,,,,,,,,,,

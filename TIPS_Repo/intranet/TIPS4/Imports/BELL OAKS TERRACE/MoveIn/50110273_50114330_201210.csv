@@ -1,0 +1,7 @@
+BATCH,,201210,B,4371.0000,
+INVOICE,IN,,50110273,,10/03/2012,4371.0000,"MoveIn-Wolf. Bernice",,10/03/2012,10/03/2012,,50114330,4371.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,29,88.0000,2552,"Basic Service Fee - Studio: Wolf. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,29,26.0000,754,"Resident Care - Level 2: Wolf. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Wolf. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Wolf. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35,"Pendant Fee: Wolf. Bernice",,,,,,,,,,,,,,,

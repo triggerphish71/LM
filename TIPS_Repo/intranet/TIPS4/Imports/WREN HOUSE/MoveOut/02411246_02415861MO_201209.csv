@@ -1,0 +1,7 @@
+BATCH,,201209,B,4467.0000,
+INVOICE,IN,,02411246,,09/01/2012,1020.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02415861MO,-1946.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,1020.0000,1020.00,"CR:Limited Term Di... E.Jobe 201209: Jobe, Evalena",,,,,,,,,,,,,,,
+INVOICE,CM,,02411246,,09/01/2012,3447,"Invoice-Private",,09/01/2012,09/10/2012,,02415861MO,-1946.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2940,2940,"CR:Basic Service F... E.Jobe 201209: Jobe, Evalena",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... E.Jobe 201209: Jobe, Evalena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,480,480,"CR:Resident Care -... E.Jobe 201209: Jobe, Evalena",,,,,,,,,,,,,,,

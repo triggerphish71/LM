@@ -1,0 +1,6 @@
+BATCH,,201112,B,5590.0000,
+INVOICE,IN,,14710259,,12/14/2011,5590.0000,"MoveIn-Fiffik. Mike Sr.",,12/14/2011,12/14/2011,,14715413,5590.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,18,102.0000,1836,"Basic Service Fee - Studio: Fiffik. Mike Sr.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310147,18,84.0000,1512,"Resident Care - Level 6: Fiffik. Mike Sr.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: Fiffik. Mike Sr.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310147,1,2200.0000,2200,"New Resident Fee: Fiffik. Mike Sr.",,,,,,,,,,,,,,,

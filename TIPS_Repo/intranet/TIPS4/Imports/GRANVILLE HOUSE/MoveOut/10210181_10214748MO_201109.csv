@@ -1,0 +1,7 @@
+BATCH,,201109,B,6716.0000,
+INVOICE,IN,,10210181,,09/03/2011,2336.0000,"Invoice-Private",,09/03/2011,09/03/2011,,10214748MO,-2044.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,16,111.0000,1776.00,"Basic Service Fee - Studio for Sep: Reichert, Margaretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,16,35.0000,560.00,"Swan Personal Care - L2 for Sep: Reichert, Margaretta",,,,,,,,,,,,,,,
+INVOICE,CM,,10210181,,09/03/2011,4380,"Invoice-Private",,09/03/2011,09/03/2011,,10214748MO,-2044.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3330,3330,"CR:Basic Service F... M.Reichert 201109: Reichert, Margaretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1050,1050,"CR:Swan Personal C... M.Reichert 201109: Reichert, Margaretta",,,,,,,,,,,,,,,

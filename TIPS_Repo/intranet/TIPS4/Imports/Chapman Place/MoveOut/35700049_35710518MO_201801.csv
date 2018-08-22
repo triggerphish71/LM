@@ -1,0 +1,7 @@
+BATCH,,201801,B,40.0000,
+INVOICE,IN,,35700049,,01/01/2018,20.0000,"Invoice-Private",,01/01/2018,01/10/2018,,35710518MO,-1396.2500,,,,,,,,,,
+TRANSACTION,3210,070009357,2,5.0000,10.00,"Personal Services: Pressler, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3210,070009357,2,5.0000,10.00,"Personal Services: Pressler, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,35700049,,01/01/2018,20,"Invoice-Private",,01/01/2018,01/10/2018,,35710518MO,-1396.2500,,,,,,,,,,
+TRANSACTION,3210,070009357,2,5,10,"Credit for Personal Services: Pressler, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3210,070009357,2,5,10,"Credit for Personal Services: Pressler, Margaret",,,,,,,,,,,,,,,

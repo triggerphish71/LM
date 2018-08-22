@@ -1,0 +1,6 @@
+BATCH,,201108,B,3026.0000,
+INVOICE,IN,,11910234,,08/24/2011,3026.0000,"MoveIn-LaDue. Peter",,08/24/2011,08/24/2011,,11915343,6802.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,8,89.0000,712,"Basic Service Fee - Studio         : LaDue. Peter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,8,36.0000,288,"Resident Care - Level 2: LaDue. Peter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: LaDue. Peter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310119,1,2000.0000,2000,"New Resident Fee: LaDue. Peter",,,,,,,,,,,,,,,

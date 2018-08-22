@@ -1,0 +1,5 @@
+BATCH,,201202,B,2910.0000,
+INVOICE,IN,,12110260,,02/01/2012,97.0000,"Invoice-Private",,02/01/2012,02/10/2012,,12115464MO,-2716.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,97.0000,97.00,"Basic Service Fee - Studio for Feb: Arnold, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,12110260,,02/01/2012,2813,"Invoice-Private",,02/01/2012,02/10/2012,,12115464MO,-2716.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2813,2813,"CR:Basic Service F... W.Arnold 201202: Arnold, Wanda",,,,,,,,,,,,,,,

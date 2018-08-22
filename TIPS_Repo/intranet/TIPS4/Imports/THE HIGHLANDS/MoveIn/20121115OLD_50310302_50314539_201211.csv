@@ -1,0 +1,5 @@
+BATCH,,201211,B,2810.0000,
+INVOICE,IN,,50310302,,11/14/2012,2810.0000,"MoveIn-Pierce. Russell",,11/14/2012,11/14/2012,,50314539,2810.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,17,75.0000,1275,"Basic Service Fee - Studio: Pierce. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Pierce. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Pierce. Russell",,,,,,,,,,,,,,,

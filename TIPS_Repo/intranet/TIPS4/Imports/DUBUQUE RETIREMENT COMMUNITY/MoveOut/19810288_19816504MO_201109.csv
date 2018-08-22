@@ -1,0 +1,8 @@
+BATCH,,201109,B,6996.0000,
+INVOICE,IN,,19810288,,09/13/2011,2106.0000,"Invoice-Private",,09/13/2011,09/13/2011,,19816504MO,-2784.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,13,60.0000,780.00,"Basic Service Fee AL - Studio A for Sep: Gassman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,13,102.0000,1326.00,"Swan Personal Care - L6 for Sep: Gassman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,19810288,,09/13/2011,4890,"Invoice-Private",,09/13/2011,09/13/2011,,19816504MO,-2784.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1800,1800,"CR:Basic Service F... R.Gassman 201109: Gassman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... R.Gassman 201109: Gassman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,3060,3060,"CR:Swan Personal C... R.Gassman 201109: Gassman, Ruth",,,,,,,,,,,,,,,

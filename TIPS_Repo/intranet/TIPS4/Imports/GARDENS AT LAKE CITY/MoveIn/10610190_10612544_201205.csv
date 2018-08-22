@@ -1,0 +1,5 @@
+BATCH,,201205,B,4232.0000,
+INVOICE,IN,,10610190,,05/01/2012,4232.0000,"MoveIn-Breeden. Austin",,05/01/2012,05/01/2012,,10612544,4232.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,31,87.0000,2697,"Basic Service Fee - Studio: Breeden. Austin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Breeden. Austin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309106,1,1500.0000,1500,"New Resident Fee: Breeden. Austin",,,,,,,,,,,,,,,

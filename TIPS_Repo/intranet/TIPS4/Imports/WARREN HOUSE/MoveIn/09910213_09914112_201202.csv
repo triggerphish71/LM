@@ -1,0 +1,5 @@
+BATCH,,201202,B,3401.0000,
+INVOICE,IN,,09910213,,02/03/2012,3401.0000,"MoveIn-Harris. Marva",,02/03/2012,02/03/2012,,09914112,3401.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,27,88.0000,2376,"Basic Service Fee - Studio: Harris. Marva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Harris. Marva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,1000.0000,1000,"New Resident Fee: Harris. Marva",,,,,,,,,,,,,,,

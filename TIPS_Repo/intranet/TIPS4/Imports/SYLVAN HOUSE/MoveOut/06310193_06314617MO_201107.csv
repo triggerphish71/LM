@@ -1,0 +1,8 @@
+BATCH,,201107,B,6705.0000,
+INVOICE,IN,,06310193,,07/01/2011,1503.0000,"Invoice-Private",,07/01/2011,07/10/2011,,06314617MO,-3699.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,9,93.0000,837.00,"Basic Service Fee - Deluxe for Jul: Kindler, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,9,74.0000,666.00,"Resident Care - Level 5 for Jul: Kindler, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,06310193,,07/01/2011,5202,"Invoice-Private",,07/01/2011,07/10/2011,,06314617MO,-3699.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,2883,2883,"CR:Basic Service F... A.Kindler 201107: Kindler, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... A.Kindler 201107: Kindler, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,2294,2294,"CR:Resident Care -... A.Kindler 201107: Kindler, Anne",,,,,,,,,,,,,,,

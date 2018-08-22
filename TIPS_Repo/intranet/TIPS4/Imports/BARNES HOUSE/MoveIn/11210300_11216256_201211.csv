@@ -1,0 +1,5 @@
+BATCH,,201211,B,5005.0000,
+INVOICE,IN,,11210300,,11/01/2012,5005.0000,"November_Rent-Waibel. Donna",,11/01/2012,11/10/2012,,11216256,9188.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,30,97.0000,2910,"D.Waibel: Basic Service Fee - Studio: Waibel. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,30,69.0000,2070,"D.Waibel: Resident Care - Level 4: Waibel. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Waibel. Donna",,,,,,,,,,,,,,,

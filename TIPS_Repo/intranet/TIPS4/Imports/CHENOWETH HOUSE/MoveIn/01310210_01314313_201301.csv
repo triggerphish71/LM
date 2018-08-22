@@ -1,0 +1,6 @@
+BATCH,,201301,B,1140.7000,
+INVOICE,IN,,01310210,,01/31/2013,1140.7000,"MoveIn-Arnold. Ruth",,01/31/2013,01/31/2013,,01314313,4324.3000,,,,,,,,,,
+TRANSACTION,3010,010103013,1,72.0000,72,"Basic Service Fee - Studio: Arnold. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,1,40.7000,40.7,"Resident Care - Level 22: Arnold. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Arnold. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Arnold. Ruth",,,,,,,,,,,,,,,

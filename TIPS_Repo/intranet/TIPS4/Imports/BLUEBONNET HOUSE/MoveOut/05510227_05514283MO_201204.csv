@@ -1,0 +1,5 @@
+BATCH,,201204,B,2400.0000,
+INVOICE,IN,,05510227,,04/01/2012,1200.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05514283MO,-1535.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,30,40.0000,1200.00,"Credit for Limited Term Discount: Dotson, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,05510227,,04/01/2012,1200,"Invoice-Private",,04/01/2012,04/10/2012,,05514283MO,-1535.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,30,40,1200,"Limited Term Discount: Dotson, Richard",,,,,,,,,,,,,,,

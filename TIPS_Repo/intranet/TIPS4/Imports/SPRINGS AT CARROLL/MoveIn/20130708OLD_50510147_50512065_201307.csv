@@ -1,0 +1,5 @@
+BATCH,,201307,B,3881.0000,
+INVOICE,IN,,50510147,,07/08/2013,3881.0000,"MoveIn-Burgess. Charles",,07/08/2013,07/08/2013,,50512065,3881.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,24,119.0000,2856,"Basic Service Fee - One Bedroom: Burgess. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Burgess. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1000.0000,1000,"New Resident Fee: Burgess. Charles",,,,,,,,,,,,,,,

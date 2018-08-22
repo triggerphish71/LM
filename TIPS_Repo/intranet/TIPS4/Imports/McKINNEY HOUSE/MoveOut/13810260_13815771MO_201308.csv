@@ -1,0 +1,5 @@
+BATCH,,201308,B,6144.0000,
+INVOICE,IN,,13810260,,08/01/2013,2176.0000,"Invoice-Private",,08/01/2013,08/10/2013,,13815771MO,-1792.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,17,128.0000,2176.00,"Basic Service Fee- One Bedroom Premium for Aug: Clothier, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,13810260,,08/01/2013,3968,"Invoice-Private",,08/01/2013,08/10/2013,,13815771MO,-1792.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,3968,3968,"CR:Basic Service F... L.Clothier 201308: Clothier, Lillian",,,,,,,,,,,,,,,

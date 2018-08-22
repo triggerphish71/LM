@@ -1,0 +1,5 @@
+BATCH,,201304,B,1729.0000,
+INVOICE,IN,,14210215,,04/17/2013,1729.0000,"MoveIn-Geisler. Fred",,04/17/2013,04/17/2013,,14214406,5515.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,14,88.0000,1232,"Basic Service Fee - Studio: Geisler. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,14,33.0000,462,"Resident Care - Level 2: Geisler. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Geisler. Fred",,,,,,,,,,,,,,,

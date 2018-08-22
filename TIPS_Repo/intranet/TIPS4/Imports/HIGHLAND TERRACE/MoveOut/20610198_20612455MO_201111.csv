@@ -1,0 +1,8 @@
+BATCH,,201111,B,6096.0000,
+INVOICE,IN,,20610198,,11/14/2011,2226.0000,"Invoice-Private",,11/14/2011,11/14/2011,,20612455MO,-5209.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,420.0000,420.00,"CR:Limited Term Di... M.Fanelli 201111: Fanelli, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,14,42.0000,588.00,"Resident Care - Level 4 for Nov: Fanelli, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,14,87.0000,1218.00,"Studio for Nov: Fanelli, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,20610198,,11/14/2011,3870,"Invoice-Private",,11/14/2011,11/14/2011,,20612455MO,-5209.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1260,1260,"CR:Resident Care -... M.Fanelli 201111: Fanelli, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2610,2610,"CR:Studio... M.Fanelli 201111: Fanelli, Mary",,,,,,,,,,,,,,,

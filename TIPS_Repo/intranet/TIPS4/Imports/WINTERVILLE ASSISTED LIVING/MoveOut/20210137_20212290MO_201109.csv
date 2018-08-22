@@ -1,0 +1,5 @@
+BATCH,,201109,B,60.0000,
+INVOICE,IN,,20210137,,09/01/2011,30.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20212290MO,-1426.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,30,1.0000,30.00,"Credit for Limited Term Discount: Bryant, Jimmie Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,20210137,,09/01/2011,30,"Invoice-Private",,09/01/2011,09/10/2011,,20212290MO,-1426.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,30,1,30,"Limited Term Discount: Bryant, Jimmie Lee",,,,,,,,,,,,,,,

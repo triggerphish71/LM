@@ -1,0 +1,8 @@
+BATCH,,201106,B,6230.0000,
+INVOICE,IN,,15910162,,06/20/2011,2480.0000,"Invoice-Private",,06/20/2011,06/20/2011,,15914306MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,20,108.0000,2160.00,"Basic Service Fee - One Bedroom for Jun: Bruch, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,20,16.0000,320.00,"Swan Personal Care - L1 for Jun: Bruch, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,15910162,,06/20/2011,3750,"Invoice-Private",,06/20/2011,06/20/2011,,15914306MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3240,3240,"CR:Basic Service F... R.Bruch 201106: Bruch, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... R.Bruch 201106: Bruch, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,480,480,"CR:Swan Personal C... R.Bruch 201106: Bruch, Rosemary",,,,,,,,,,,,,,,

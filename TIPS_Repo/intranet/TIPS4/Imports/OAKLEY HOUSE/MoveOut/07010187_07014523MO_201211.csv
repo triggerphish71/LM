@@ -1,0 +1,5 @@
+BATCH,,201211,B,1920.0000,
+INVOICE,IN,,07010187,,11/01/2012,960.0000,"Invoice-Private",,11/01/2012,11/10/2012,,07014523MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,30,32.0000,960.00,"Credit for Limited Term Discount: Miles, Melissa",,,,,,,,,,,,,,,
+INVOICE,CM,,07010187,,11/01/2012,960,"Invoice-Private",,11/01/2012,11/10/2012,,07014523MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,30,32,960,"Limited Term Discount: Miles, Melissa",,,,,,,,,,,,,,,

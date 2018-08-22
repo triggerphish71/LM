@@ -1,0 +1,5 @@
+BATCH,,201304,B,1320.0000,
+INVOICE,IN,,09710258,,04/02/2013,120.0000,"Invoice-Private",,04/02/2013,04/02/2013,,09714665MO,-1080.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,3,40.0000,120.00,"Basic Service Fee - Studio for Apr: Thomson, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,09710258,,04/02/2013,1200,"Invoice-Private",,04/02/2013,04/02/2013,,09714665MO,-1080.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,1200,1200,"CR:Basic Service F... B.Thomson 201304: Thomson, Barbara",,,,,,,,,,,,,,,

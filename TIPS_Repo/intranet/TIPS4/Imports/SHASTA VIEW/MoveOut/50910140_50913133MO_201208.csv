@@ -1,0 +1,6 @@
+BATCH,,201208,B,2512.0000,
+INVOICE,IN,,50910140,,08/25/2012,1396.0000,"Invoice-Private",,08/25/2012,08/25/2012,,50913133MO,-320.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,496.0000,496.00,"CR:Limited Term Di... R.Chance 201208: Chance, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,25,36.0000,900.00,"Basic Service Fee - Second Resident for Aug: Chance, Ron",,,,,,,,,,,,,,,
+INVOICE,CM,,50910140,,08/25/2012,1116,"Invoice-Private",,08/25/2012,08/25/2012,,50913133MO,-320.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1116,1116,"CR:Basic Service F... R.Chance 201208: Chance, Ron",,,,,,,,,,,,,,,

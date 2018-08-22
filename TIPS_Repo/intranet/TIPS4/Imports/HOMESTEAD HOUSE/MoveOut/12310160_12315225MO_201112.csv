@@ -1,0 +1,8 @@
+BATCH,,201112,B,12428.0000,
+INVOICE,IN,,12310160,,12/30/2011,6090.0000,"Invoice-Private",,12/30/2011,12/30/2011,,12315225MO,-6710.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,30,121.0000,3630.00,"Basic Service Fee - One Bedroom for Dec: Penner, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,30,82.0000,2460.00,"Resident Care - Level 5 for Dec: Penner, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,12310160,,12/30/2011,6338,"Invoice-Private",,12/30/2011,12/30/2011,,12315225MO,-6710.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3751,3751,"CR:Basic Service F... E.Penner 201112: Penner, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45,45,"CR:Pendant Fee... E.Penner 201112: Penner, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,2542,2542,"CR:Resident Care -... E.Penner 201112: Penner, Elsie",,,,,,,,,,,,,,,

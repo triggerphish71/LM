@@ -1,0 +1,6 @@
+BATCH,,201305,B,4501.0000,
+INVOICE,IN,,50510141,,05/03/2013,4501.0000,"MoveIn-Moyer. Amanda",,05/03/2013,05/03/2013,,50511990,4501.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,29,119.0000,3451,"Basic Service Fee - One Bedroom: Moyer. Amanda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Moyer. Amanda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1000.0000,1000,"New Resident Fee: Moyer. Amanda",,,,,,,,,,,,,,,
+TRANSACTION,3130,010305505,1,25.0000,25,"Pendant Fee: Moyer. Amanda",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,1496.0000,
+INVOICE,IN,,15110178,,07/01/2012,748.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15113991MO,-2855.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Roland, Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212151,31,23.0000,713.00,"Credit for Limited Term Discount: Roland, Peggy",,,,,,,,,,,,,,,
+INVOICE,CM,,15110178,,07/01/2012,748,"Invoice-Private",,07/01/2012,07/10/2012,,15113991MO,-2855.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Roland, Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212151,31,23,713,"Limited Term Discount: Roland, Peggy",,,,,,,,,,,,,,,

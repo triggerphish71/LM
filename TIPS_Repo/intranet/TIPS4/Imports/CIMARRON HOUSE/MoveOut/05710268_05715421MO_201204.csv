@@ -1,0 +1,5 @@
+BATCH,,201204,B,900.0000,
+INVOICE,IN,,05710268,,04/01/2012,450.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05715421MO,-2389.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,30,15.0000,450.00,"Credit for Limited Term Discount: Ballard, John",,,,,,,,,,,,,,,
+INVOICE,CM,,05710268,,04/01/2012,450,"Invoice-Private",,04/01/2012,04/10/2012,,05715421MO,-2389.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,30,15,450,"Limited Term Discount: Ballard, John",,,,,,,,,,,,,,,

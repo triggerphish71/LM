@@ -1,0 +1,8 @@
+BATCH,,201202,B,9677.0000,
+INVOICE,IN,,04310182,,02/24/2012,4921.0000,"Invoice-Private",,02/24/2012,02/24/2012,,04313878MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,1,493.0000,493.00,"CR:Limited Term Di... M.Reedy 201202: Reedy, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202043,27,98.0000,2646.00,"Basic Service Fee - Studio for Feb: Reedy, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,27,66.0000,1782.00,"Resident Care - Level 4 for Feb: Reedy, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,04310182,,02/24/2012,4756,"Invoice-Private",,02/24/2012,02/24/2012,,04313878MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2842,2842,"CR:Basic Service F... M.Reedy 201202: Reedy, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,1914,1914,"CR:Resident Care -... M.Reedy 201202: Reedy, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,4797.0000,
+INVOICE,IN,,02810134,,11/01/2011,1107.0000,"Invoice-Private",,11/01/2011,11/10/2011,,02814877MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,9,109.0000,981.00,"Basic Service Fee - Studio for Nov: Hendricks, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,9,14.0000,126.00,"Resident Care - Level 1 for Nov: Hendricks, Lydia",,,,,,,,,,,,,,,
+INVOICE,CM,,02810134,,11/01/2011,3690,"Invoice-Private",,11/01/2011,11/10/2011,,02814877MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3270,3270,"CR:Basic Service F... L.Hendricks 201111: Hendricks, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,420,420,"CR:Resident Care -... L.Hendricks 201111: Hendricks, Lydia",,,,,,,,,,,,,,,

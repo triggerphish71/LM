@@ -1,0 +1,7 @@
+BATCH,,201302,B,4483.6000,
+INVOICE,IN,,11810171,,02/01/2013,355.6000,"Invoice-Private",,02/01/2013,02/10/2013,,11815726MO,-3856.7000,,,,,,,,,,
+TRANSACTION,3312,010310118,1,355.6000,355.60,"CR:Two Room Rental... B.Shoenfelt 201302: Shoenfelt, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,11810171,,02/01/2013,4128,"Invoice-Private",,02/01/2013,02/10/2013,,11815726MO,-3856.7000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3556,3556,"CR:Basic Service F... B.Shoenfelt 201302: Shoenfelt, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... B.Shoenfelt 201302: Shoenfelt, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,532,532,"CR:Resident Care -... B.Shoenfelt 201302: Shoenfelt, Bessie",,,,,,,,,,,,,,,

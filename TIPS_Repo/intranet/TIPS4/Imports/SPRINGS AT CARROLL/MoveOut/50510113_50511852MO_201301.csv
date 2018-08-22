@@ -1,0 +1,7 @@
+BATCH,,201301,B,5853.0000,
+INVOICE,IN,,50510113,,01/01/2013,1674.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50511852MO,-1124.0000,,,,,,,,,,
+TRANSACTION,3320,010305505,1,1674.0000,1674.00,"CR:Limited Term Di... J.Thompson 201301: Thompson, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,50510113,,01/01/2013,4179,"Invoice-Private",,01/01/2013,01/10/2013,,50511852MO,-1124.0000,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... J.Thompson 201301: Thompson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,465,465,"CR:Resident Care -... J.Thompson 201301: Thompson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,1,3689,3689,"CR:Room and Board ... J.Thompson 201301: Thompson, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201804,B,6168.0000,
+INVOICE,IN,,10810428,,04/12/2018,2298.0000,"Invoice-Private",,04/12/2018,04/12/2018,,10818065MO,-5606.0000,,,,,,,,,,
+TRANSACTION,3017,010008108,4,49.0000,196.00,"Level: 3  to  Level: 1  - 04/05: Eanes, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010008108,18,19.0000,342.00," Level: 1 : Eanes, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008108,22,80.0000,1760.00,"Basic Service Fee - Studio  for Apr: Eanes, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,10810428,,04/12/2018,3870,"Invoice-Private",,04/12/2018,04/12/2018,,10818065MO,-5606.0000,,,,,,,,,,
+TRANSACTION,3020,010008108,1,2400,2400,"CR:Basic Service F... H.Eanes 201804: Eanes, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,1,1470,1470,"CR:Resident Care -... H.Eanes 201804: Eanes, Helen",,,,,,,,,,,,,,,

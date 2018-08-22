@@ -1,0 +1,7 @@
+BATCH,,201204,B,4344.0000,
+INVOICE,IN,,51110141,,04/01/2012,27.0000,"Invoice-Private",,04/01/2012,04/10/2012,,51112420MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Dlubak, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,51110141,,04/01/2012,4317,"Invoice-Private",,04/01/2012,04/10/2012,,51112420MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3150,3150,"CR:Basic Service F... W.Dlubak 201204: Dlubak, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1140,1140,"CR:Resident Care -... W.Dlubak 201204: Dlubak, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Dlubak, Walter",,,,,,,,,,,,,,,

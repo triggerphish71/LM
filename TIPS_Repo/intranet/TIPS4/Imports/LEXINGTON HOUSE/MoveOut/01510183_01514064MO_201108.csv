@@ -1,0 +1,8 @@
+BATCH,,201108,B,4277.7000,
+INVOICE,IN,,01510183,,08/01/2011,870.8000,"Invoice-Private",,08/01/2011,08/10/2011,,01514064MO,-2536.1000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,651.0000,651.00,"CR:Limited Term Di... R.Bouldin 201108: Bouldin, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,2,81.0000,162.00,"Basic Service Fee - Studio for Aug: Bouldin, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,2,28.9000,57.80,"Resident Care - Level 17 for Aug: Bouldin, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01510183,,08/01/2011,3406.9,"Invoice-Private",,08/01/2011,08/10/2011,,01514064MO,-2536.1000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2511,2511,"CR:Basic Service F... R.Bouldin 201108: Bouldin, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,895.9,895.9,"CR:Resident Care -... R.Bouldin 201108: Bouldin, Ruth",,,,,,,,,,,,,,,

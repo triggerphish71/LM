@@ -1,0 +1,8 @@
+BATCH,,201108,B,6576.8000,
+INVOICE,IN,,09810219,,07/31/2011,1658.6500,"MoveIn-Burk. Thelma",,07/31/2011,07/31/2011,,09814397,6576.8000,,,,,,,,,,
+TRANSACTION,3014,010103098,1,91.0000,91,"Basic Service Fee - Studio         : Burk. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,1,67.6500,67.65,"Resident Care - Level 41: Burk. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1500.0000,1500,"New Resident Fee: Burk. Thelma",,,,,,,,,,,,,,,
+INVOICE,IN,,09810219,,08/01/2011,4918.1500,"August_Rent-Burk. Thelma",,08/01/2011,08/10/2011,,09814397,6576.8000,,,,,,,,,,
+TRANSACTION,3010,010103098,31,91.0000,2821,"Basic Service Fee - Studio         : Burk. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,31,67.6500,2097.15,"Resident Care - Level 41: Burk. Thelma",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201803,B,6145.8000,
+INVOICE,IN,,07810403,,03/14/2018,1904.0000,"Invoice-Private",,03/14/2018,03/14/2018,,07816614MO,-2337.8000,,,,,,,,,,
+TRANSACTION,3020,010004078,14,118.0000,1652.00,"Basic Service Fee - One Bedroom  for Mar: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004078,14,18.0000,252.00,"Resident Care - Level 1  for Mar: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,
+INVOICE,CM,,07810403,,03/14/2018,4241.8,"Invoice-Private",,03/14/2018,03/14/2018,,07816614MO,-2337.8000,,,,,,,,,,
+TRANSACTION,3020,010004078,1,3658,3658,"CR:Basic Service F... V.Sweeney 201803: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010004078,1,25.8,25.8,"CR:Monthly Cable... V.Sweeney 201803: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004078,1,558,558,"CR:Resident Care -... V.Sweeney 201803: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,

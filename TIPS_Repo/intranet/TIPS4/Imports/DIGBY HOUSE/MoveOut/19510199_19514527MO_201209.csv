@@ -1,0 +1,8 @@
+BATCH,,201209,B,5568.0000,
+INVOICE,IN,,19510199,,09/01/2012,978.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19514527MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,1,60.0000,60.00,"CR:Limited Term Di... H.Detchon 201209: Detchon, Hugh",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309195,6,117.0000,702.00,"Basic Service Fee - One Bedroom for Sep: Detchon, Hugh",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,6,36.0000,216.00,"Resident Care - Level 2 for Sep: Detchon, Hugh",,,,,,,,,,,,,,,
+INVOICE,CM,,19510199,,09/01/2012,4590,"Invoice-Private",,09/01/2012,09/10/2012,,19514527MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,3510,3510,"CR:Basic Service F... H.Detchon 201209: Detchon, Hugh",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1080,1080,"CR:Resident Care -... H.Detchon 201209: Detchon, Hugh",,,,,,,,,,,,,,,

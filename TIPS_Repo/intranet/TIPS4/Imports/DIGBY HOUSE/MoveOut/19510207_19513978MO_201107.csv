@@ -1,0 +1,7 @@
+BATCH,,201107,B,10320.0000,
+INVOICE,IN,,19510207,,07/29/2011,4988.0000,"Invoice-Private",,07/29/2011,07/29/2011,,19513978MO,-5676.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,29,90.0000,2610.00,"Basic Service Fee - Studio for Jul: Burk, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,29,82.0000,2378.00,"Resident Care - Level 6 for Jul: Burk, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,19510207,,07/29/2011,5332,"Invoice-Private",,07/29/2011,07/29/2011,,19513978MO,-5676.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2790,2790,"CR:Basic Service F... R.Burk 201107: Burk, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,2542,2542,"CR:Resident Care -... R.Burk 201107: Burk, Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,2275.0000,
+INVOICE,IN,,17610331,,04/01/2013,1225.0000,"Invoice-Private",,04/01/2013,04/10/2013,,17614979MO,175.0000,,,,,,,,,,
+TRANSACTION,3321,010315176,1,750.0000,750.00,"CR:2nd Resident Fr... B.Sanderson 201304: Sanderson, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,19,25.0000,475.00,"Basic Service Fee - Second Resident for Apr: Sanderson, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,17610331,,04/01/2013,1050,"Invoice-Private",,04/01/2013,04/10/2013,,17614979MO,175.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,750,750,"CR:Basic Service F... B.Sanderson 201304: Sanderson, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... B.Sanderson 201304: Sanderson, Beatrice",,,,,,,,,,,,,,,

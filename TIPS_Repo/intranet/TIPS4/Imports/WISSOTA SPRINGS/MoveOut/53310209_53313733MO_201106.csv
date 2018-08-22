@@ -1,0 +1,7 @@
+BATCH,,201106,B,3567.0000,
+INVOICE,IN,,53310209,,06/01/2011,957.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53313733MO,-1653.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,11,35.0000,385.00,"Basic Service Fee - Second Resident for Jun: Nichols, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,11,52.0000,572.00,"Resident Care - Level 4 for Jun: Nichols, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,53310209,,06/01/2011,2610,"Invoice-Private",,06/01/2011,06/10/2011,,53313733MO,-1653.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1050,1050,"CR:Basic Service F... M.Nichols 201106: Nichols, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,1560,1560,"CR:Resident Care -... M.Nichols 201106: Nichols, Marjorie",,,,,,,,,,,,,,,

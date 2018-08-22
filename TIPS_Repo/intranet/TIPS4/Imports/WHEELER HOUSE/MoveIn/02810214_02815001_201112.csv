@@ -1,0 +1,5 @@
+BATCH,,201112,B,2364.0000,
+INVOICE,IN,,02810214,,12/29/2011,2364.0000,"MoveIn-Melton. Grace",,12/29/2011,12/29/2011,,02815001,5892.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,3,113.0000,339,"Basic Service Fee - Studio: Melton. Grace",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Melton. Grace",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Melton. Grace",,,,,,,,,,,,,,,

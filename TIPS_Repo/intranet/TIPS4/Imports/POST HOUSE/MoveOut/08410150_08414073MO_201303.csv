@@ -1,0 +1,7 @@
+BATCH,,201303,B,5474.0000,
+INVOICE,IN,,08410150,,03/01/2013,483.0000,"Invoice-Private",,03/01/2013,03/10/2013,,08414073MO,-4508.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,3,80.0000,240.00,"Basic Service Fee - Studio for Mar: Mitchell, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,3,81.0000,243.00,"Resident Care - Level 5 for Mar: Mitchell, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,08410150,,03/01/2013,4991,"Invoice-Private",,03/01/2013,03/10/2013,,08414073MO,-4508.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,2480,2480,"CR:Basic Service F... M.Mitchell 201303: Mitchell, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,2511,2511,"CR:Resident Care -... M.Mitchell 201303: Mitchell, Marion",,,,,,,,,,,,,,,

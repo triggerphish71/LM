@@ -1,0 +1,7 @@
+BATCH,,201202,B,100.0000,
+INVOICE,IN,,21010225,,02/01/2012,50.0000,"Invoice-Private",,02/01/2012,02/10/2012,,21013370MO,-6339.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25.00,"Monthly Cable: Strickland, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216210,1,25.0000,25.00,"Pendant Fee: Strickland, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,21010225,,02/01/2012,50,"Invoice-Private",,02/01/2012,02/10/2012,,21013370MO,-6339.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Credit for Monthly Cable: Strickland, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216210,1,25,25,"Credit for Pendant Fee: Strickland, Geraldine",,,,,,,,,,,,,,,

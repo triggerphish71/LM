@@ -1,0 +1,8 @@
+BATCH,,201111,B,6232.0000,
+INVOICE,IN,,05210168,,11/02/2011,2962.0000,"Invoice-Private",,11/02/2011,11/02/2011,,05214629MO,-308.0000,,,,,,,,,,
+TRANSACTION,3312,010202052,1,237.0000,237.00,"CR:Two Room Rental... J.Day 201111: Day, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,25,79.0000,1975.00,"Basic Service Fee - Studio for Nov: Day, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,25,30.0000,750.00,"Resident Care - Level 2 for Nov: Day, James",,,,,,,,,,,,,,,
+INVOICE,CM,,05210168,,11/02/2011,3270,"Invoice-Private",,11/02/2011,11/02/2011,,05214629MO,-308.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2370,2370,"CR:Basic Service F... J.Day 201111: Day, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,900,900,"CR:Resident Care -... J.Day 201111: Day, James",,,,,,,,,,,,,,,

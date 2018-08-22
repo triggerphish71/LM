@@ -1,0 +1,7 @@
+BATCH,,201104,B,5652.0000,
+INVOICE,IN,,13710172,,04/27/2011,3042.0000,"Invoice-Private",,04/27/2011,04/27/2011,,13713879MO,-1520.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,1,720.0000,720.00,"CR:Limited Term Di... I.Koughn 201104: Koughn, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,27,86.0000,2322.00,"Basic Service Fee - Studio for Apr: Koughn, Iris",,,,,,,,,,,,,,,
+INVOICE,CM,,13710172,,04/27/2011,2610,"Invoice-Private",,04/27/2011,04/27/2011,,13713879MO,-1520.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2580,2580,"CR:Basic Service F... I.Koughn 201104: Koughn, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... I.Koughn 201104: Koughn, Iris",,,,,,,,,,,,,,,

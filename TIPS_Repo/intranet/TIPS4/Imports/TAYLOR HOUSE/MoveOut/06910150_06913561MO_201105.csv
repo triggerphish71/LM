@@ -1,0 +1,7 @@
+BATCH,,201105,B,1496.0000,
+INVOICE,IN,,06910150,,05/03/2011,132.0000,"Invoice-Private",,05/03/2011,05/03/2011,,06913561MO,-1232.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,3,28.0000,84.00,"Basic Service Fee - Second Resident for May: Hendricks, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,3,16.0000,48.00,"Resident Care - Level 1 for May: Hendricks, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,06910150,,05/03/2011,1364,"Invoice-Private",,05/03/2011,05/03/2011,,06913561MO,-1232.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,868,868,"CR:Basic Service F... B.Hendricks 201105: Hendricks, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,496,496,"CR:Resident Care -... B.Hendricks 201105: Hendricks, Bob",,,,,,,,,,,,,,,

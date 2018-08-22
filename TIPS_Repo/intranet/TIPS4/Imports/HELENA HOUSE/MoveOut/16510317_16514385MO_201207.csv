@@ -1,0 +1,8 @@
+BATCH,,201207,B,3777.0000,
+INVOICE,IN,,16510317,,07/22/2012,1375.0000,"Invoice-Private",,07/22/2012,07/22/2012,,16514385MO,-4902.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,11,97.0000,1067.00,"C.Weaver: Basic Service Fee - Studio for Jul: Weaver, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,11,28.0000,308.00,"C.Weaver: Resident Care - Level 2 for Jul: Weaver, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,16510317,,07/22/2012,2402,"Invoice-Private",,07/22/2012,07/22/2012,,16514385MO,-4902.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,1843,1843,"CR:C.Weaver: Basic... C.Weaver 201207: Weaver, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,532,532,"CR:C.Weaver: Resid... C.Weaver 201207: Weaver, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... C.Weaver 201207: Weaver, Carolyn",,,,,,,,,,,,,,,

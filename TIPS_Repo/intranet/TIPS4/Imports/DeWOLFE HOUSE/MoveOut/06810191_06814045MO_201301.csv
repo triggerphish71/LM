@@ -1,0 +1,7 @@
+BATCH,,201301,B,5180.0000,
+INVOICE,IN,,06810191,,01/04/2013,592.0000,"Invoice-Private",,01/04/2013,01/04/2013,,06814045MO,-3996.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,4,85.0000,340.00,"Basic Service Fee - Studio for Jan: Caldwell, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,4,63.0000,252.00,"Resident Care - Level 4 for Jan: Caldwell, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,06810191,,01/04/2013,4588,"Invoice-Private",,01/04/2013,01/04/2013,,06814045MO,-3996.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2635,2635,"CR:Basic Service F... E.Caldwell 201301: Caldwell, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1953,1953,"CR:Resident Care -... E.Caldwell 201301: Caldwell, Esther",,,,,,,,,,,,,,,

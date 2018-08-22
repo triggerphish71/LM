@@ -1,0 +1,5 @@
+BATCH,,201106,B,2040.0000,
+INVOICE,IN,,01810127,,06/01/2011,1020.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01812358MO,-2739.7000,,,,,,,,,,
+TRANSACTION,3320,010103018,30,34.0000,1020.00,"Credit for Limited Term Discount: Dellinger, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,01810127,,06/01/2011,1020,"Invoice-Private",,06/01/2011,06/10/2011,,01812358MO,-2739.7000,,,,,,,,,,
+TRANSACTION,3320,010103018,30,34,1020,"Limited Term Discount: Dellinger, Esther",,,,,,,,,,,,,,,

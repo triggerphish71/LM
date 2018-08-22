@@ -1,0 +1,8 @@
+BATCH,,201207,B,5304.0000,
+INVOICE,IN,,50110197,,07/01/2012,248.0000,"Invoice-Private",,07/01/2012,07/10/2012,,50114201MO,-4430.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,248.0000,248.00,"CR:Limited Term Di... E.Csmereka 201207: Csmereka, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,50110197,,07/01/2012,5056,"Invoice-Private",,07/01/2012,07/10/2012,,50114201MO,-4430.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... E.Csmereka 201207: Csmereka, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... E.Csmereka 201207: Csmereka, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... E.Csmereka 201207: Csmereka, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,2263,2263,"CR:Resident Care -... E.Csmereka 201207: Csmereka, Elizabeth",,,,,,,,,,,,,,,

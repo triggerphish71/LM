@@ -1,0 +1,4 @@
+BATCH,,201111,B,3480.0000,
+INVOICE,CM,,10510245,,11/01/2011,3480,"Invoice-Private",,11/01/2011,11/10/2011,,10513834MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3027,010309105,1,480,480,"CR:Resident Care -... G.Case 201111: Case, Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3000,3000,"CR:Room and Board ... G.Case 201111: Case, Glenda",,,,,,,,,,,,,,,

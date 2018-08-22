@@ -1,0 +1,5 @@
+BATCH,,201205,B,70.0000,
+INVOICE,IN,,50310274,,05/01/2012,35.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50314121MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Routin, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,50310274,,05/01/2012,35,"Invoice-Private",,05/01/2012,05/10/2012,,50314121MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Routin, Dorothy",,,,,,,,,,,,,,,

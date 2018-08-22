@@ -1,0 +1,6 @@
+BATCH,,201107,B,3406.0000,
+INVOICE,IN,,03610187,,07/01/2011,372.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03614712MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,372.0000,372.00,"CR:Limited Term Di... N.Johnson 201107: Johnson, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,03610187,,07/01/2011,3034,"Invoice-Private",,07/01/2011,07/10/2011,,03614712MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3007,3007,"CR:Basic Service F... N.Johnson 201107: Johnson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... N.Johnson 201107: Johnson, Norma",,,,,,,,,,,,,,,

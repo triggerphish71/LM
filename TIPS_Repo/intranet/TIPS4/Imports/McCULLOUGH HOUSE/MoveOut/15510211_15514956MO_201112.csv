@@ -1,0 +1,5 @@
+BATCH,,201112,B,1798.0000,
+INVOICE,IN,,15510211,,12/01/2011,899.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15514956MO,-1665.0000,,,,,,,,,,
+TRANSACTION,3320,010310155,31,29.0000,899.00,"Credit for Limited Term Discount: Salem, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15510211,,12/01/2011,899,"Invoice-Private",,12/01/2011,12/10/2011,,15514956MO,-1665.0000,,,,,,,,,,
+TRANSACTION,3320,010310155,31,29,899,"Limited Term Discount: Salem, Mary",,,,,,,,,,,,,,,

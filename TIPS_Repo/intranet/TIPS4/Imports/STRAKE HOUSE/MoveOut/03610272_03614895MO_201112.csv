@@ -1,0 +1,5 @@
+BATCH,,201112,B,1674.0000,
+INVOICE,IN,,03610272,,12/01/2011,837.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03614895MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,31,27.0000,837.00,"Credit for Limited Term Discount: Gaylor, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,03610272,,12/01/2011,837,"Invoice-Private",,12/01/2011,12/10/2011,,03614895MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,31,27,837,"Limited Term Discount: Gaylor, Harry",,,,,,,,,,,,,,,

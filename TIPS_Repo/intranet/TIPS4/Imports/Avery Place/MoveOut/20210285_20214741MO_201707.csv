@@ -1,0 +1,5 @@
+BATCH,,201707,B,5012.8500,
+INVOICE,IN,,20210285,,07/11/2017,1312.8500,"Invoice-Private",,07/11/2017,07/11/2017,,20214741MO,-2387.1500,,,,,,,,,,
+TRANSACTION,3010,010016202,11,119.3500,1312.85,"MC Studio  for Jul: Heatherington, Frankie",,,,,,,,,,,,,,,
+INVOICE,CM,,20210285,,07/11/2017,3700,"Invoice-Private",,07/11/2017,07/11/2017,,20214741MO,-2387.1500,,,,,,,,,,
+TRANSACTION,3010,010016202,1,3700,3700,"CR:MC Studio... F.Heatherington 201707: Heatherington, Frankie",,,,,,,,,,,,,,,

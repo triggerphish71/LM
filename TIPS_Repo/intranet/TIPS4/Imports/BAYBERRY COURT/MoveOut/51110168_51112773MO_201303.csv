@@ -1,0 +1,8 @@
+BATCH,,201303,B,6027.0000,
+INVOICE,IN,,51110168,,03/17/2013,2125.0000,"Invoice-Private",,03/17/2013,03/17/2013,,51112773MO,-4474.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,17,106.0000,1802.00,"Basic Service Fee - Studio for Mar: Colin, Lew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,17,19.0000,323.00,"Resident Care - Level 1 for Mar: Colin, Lew",,,,,,,,,,,,,,,
+INVOICE,CM,,51110168,,03/17/2013,3902,"Invoice-Private",,03/17/2013,03/17/2013,,51112773MO,-4474.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3286,3286,"CR:Basic Service F... L.Colin 201303: Colin, Lew",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... L.Colin 201303: Colin, Lew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589,589,"CR:Resident Care -... L.Colin 201303: Colin, Lew",,,,,,,,,,,,,,,

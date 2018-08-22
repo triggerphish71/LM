@@ -1,0 +1,5 @@
+BATCH,,201303,B,3367.0000,
+INVOICE,IN,,13410204,,03/01/2013,546.0000,"Invoice-Private",,03/01/2013,03/10/2013,,13416019MO,-2275.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,6,91.0000,546.00,"Basic Service Fee - Studio for Mar: Bernease Bauer, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,13410204,,03/01/2013,2821,"Invoice-Private",,03/01/2013,03/10/2013,,13416019MO,-2275.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2821,2821,"CR:Basic Service F... A.Bernease Bauer 201303: Bernease Bauer, Agnes",,,,,,,,,,,,,,,

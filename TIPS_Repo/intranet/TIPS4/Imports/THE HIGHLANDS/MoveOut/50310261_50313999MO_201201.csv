@@ -1,0 +1,8 @@
+BATCH,,201201,B,5197.0000,
+INVOICE,IN,,50310261,,01/27/2012,2403.0000,"Invoice-Private",,01/27/2012,01/27/2012,,50313999MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,27,75.0000,2025.00,"Basic Service Fee - Studio for Jan: Davis, Bradford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,27,14.0000,378.00,"Resident Care - Level 1 for Jan: Davis, Bradford",,,,,,,,,,,,,,,
+INVOICE,CM,,50310261,,01/27/2012,2794,"Invoice-Private",,01/27/2012,01/27/2012,,50313999MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... B.Davis 201201: Davis, Bradford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... B.Davis 201201: Davis, Bradford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... B.Davis 201201: Davis, Bradford",,,,,,,,,,,,,,,

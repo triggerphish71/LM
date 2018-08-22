@@ -1,0 +1,5 @@
+BATCH,,201108,B,1240.0000,
+INVOICE,IN,,16210118,,08/01/2011,620.0000,"Invoice-Private",,08/01/2011,08/10/2011,,16212783MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,31,20.0000,620.00,"Credit for Limited Term Discount: Myer, Dolly",,,,,,,,,,,,,,,
+INVOICE,CM,,16210118,,08/01/2011,620,"Invoice-Private",,08/01/2011,08/10/2011,,16212783MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,31,20,620,"Limited Term Discount: Myer, Dolly",,,,,,,,,,,,,,,

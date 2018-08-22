@@ -1,0 +1,5 @@
+BATCH,,201305,B,4530.0000,
+INVOICE,IN,,01410250,,05/03/2013,4530.0000,"MoveIn-Harrison. Dr. Donald",,05/03/2013,05/03/2013,,01414696,4530.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,29,95.0000,2755,"Basic Service Fee - Studio: Harrison. Dr. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Harrison. Dr. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1750.0000,1750,"New Resident Fee: Harrison. Dr. Donald",,,,,,,,,,,,,,,

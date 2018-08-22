@@ -1,0 +1,7 @@
+BATCH,,201203,B,6534.0000,
+INVOICE,IN,,09010219,,03/23/2012,2783.0000,"Invoice-Private",,03/23/2012,03/23/2012,,09014932MO,-4598.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,23,92.0000,2116.00,"Basic Service Fee - Studio for Mar: Kimball, Annabelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,23,29.0000,667.00,"Resident Care - Level 2 for Mar: Kimball, Annabelle",,,,,,,,,,,,,,,
+INVOICE,CM,,09010219,,03/23/2012,3751,"Invoice-Private",,03/23/2012,03/23/2012,,09014932MO,-4598.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2852,2852,"CR:Basic Service F... A.Kimball 201203: Kimball, Annabelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,899,899,"CR:Resident Care -... A.Kimball 201203: Kimball, Annabelle",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,3215.0000,
+INVOICE,IN,,02210203,,11/17/2012,3215.0000,"MoveIn-Hawkins. Robert",,11/17/2012,11/17/2012,,02214566,5875.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,14,85.0000,1190,"R.Hawkins: Basic Service Fee - Studio: Hawkins. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Hawkins. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Hawkins. Robert",,,,,,,,,,,,,,,

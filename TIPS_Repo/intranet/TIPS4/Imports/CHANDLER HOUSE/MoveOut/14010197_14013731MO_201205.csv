@@ -1,0 +1,5 @@
+BATCH,,201205,B,1550.0000,
+INVOICE,IN,,14010197,,05/01/2012,775.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14013731MO,-1907.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,31,25.0000,775.00,"Credit for Limited Term Discount: Katz, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,14010197,,05/01/2012,775,"Invoice-Private",,05/01/2012,05/10/2012,,14013731MO,-1907.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,31,25,775,"Limited Term Discount: Katz, Gladys",,,,,,,,,,,,,,,

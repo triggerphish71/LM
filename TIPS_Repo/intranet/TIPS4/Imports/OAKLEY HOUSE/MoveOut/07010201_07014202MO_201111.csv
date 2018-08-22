@@ -1,0 +1,8 @@
+BATCH,,201111,B,6570.0000,
+INVOICE,IN,,07010201,,11/20/2011,2620.0000,"Invoice-Private",,11/20/2011,11/20/2011,,07014202MO,-5411.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,20,86.0000,1720.00,"Basic Service Fee - Studio for Nov: Sims, Jeryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,20,45.0000,900.00,"Resident Care - Level 3 for Nov: Sims, Jeryl",,,,,,,,,,,,,,,
+INVOICE,CM,,07010201,,11/20/2011,3950,"Invoice-Private",,11/20/2011,11/20/2011,,07014202MO,-5411.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2580,2580,"CR:Basic Service F... J.Sims 201111: Sims, Jeryl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... J.Sims 201111: Sims, Jeryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1350,1350,"CR:Resident Care -... J.Sims 201111: Sims, Jeryl",,,,,,,,,,,,,,,

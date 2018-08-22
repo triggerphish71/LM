@@ -1,0 +1,8 @@
+BATCH,,201303,B,3717.2500,
+INVOICE,IN,,13910279,,03/04/2013,421.4000,"Invoice-Private",,03/04/2013,03/04/2013,,13916593MO,-2874.4500,,,,,,,,,,
+TRANSACTION,3020,010103139,4,48.0000,192.00,"Basic Service Fee - Studio for Mar: Morris, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,4,57.3500,229.40,"Resident Care - Level 31 for Mar: Morris, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,13910279,,03/04/2013,3295.85,"Invoice-Private",,03/04/2013,03/04/2013,,13916593MO,-2874.4500,,,,,,,,,,
+TRANSACTION,3020,010103139,1,1488,1488,"CR:Basic Service F... B.Morris 201303: Morris, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... B.Morris 201303: Morris, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,1777.85,1777.85,"CR:Resident Care -... B.Morris 201303: Morris, Barbara",,,,,,,,,,,,,,,

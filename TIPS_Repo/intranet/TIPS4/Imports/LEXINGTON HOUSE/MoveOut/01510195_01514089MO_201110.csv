@@ -1,0 +1,5 @@
+BATCH,,201110,B,4371.0000,
+INVOICE,IN,,01510195,,10/08/2011,1488.0000,"Invoice-Private",,10/08/2011,10/08/2011,,01514089MO,-1395.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,16,93.0000,1488.00,"Basic Service Fee - One Bedroom for Oct: Springer, Mathew",,,,,,,,,,,,,,,
+INVOICE,CM,,01510195,,10/08/2011,2883,"Invoice-Private",,10/08/2011,10/08/2011,,01514089MO,-1395.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2883,2883,"CR:Basic Service F... M.Springer 201110: Springer, Mathew",,,,,,,,,,,,,,,

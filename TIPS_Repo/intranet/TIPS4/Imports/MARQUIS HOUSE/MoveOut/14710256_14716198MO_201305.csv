@@ -1,0 +1,8 @@
+BATCH,,201305,B,9457.7400,
+INVOICE,IN,,14710256,,05/15/2013,3070.3500,"Invoice-Private",,05/15/2013,05/15/2013,,14716198MO,-9499.7400,,,,,,,,,,
+TRANSACTION,3020,010310147,15,101.0000,1515.00,"Basic Service Fee - Studio for May: Komacek, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,15,103.6900,1555.35,"Resident Care - Level 6+11 pts for May: Komacek, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,14710256,,05/15/2013,6387.39,"Invoice-Private",,05/15/2013,05/15/2013,,14716198MO,-9499.7400,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3131,3131,"CR:Basic Service F... A.Komacek 201305: Komacek, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... A.Komacek 201305: Komacek, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,3214.39,3214.39,"CR:Resident Care -... A.Komacek 201305: Komacek, Albert",,,,,,,,,,,,,,,

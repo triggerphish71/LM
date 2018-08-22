@@ -1,0 +1,7 @@
+BATCH,,201201,B,3500.0000,
+INVOICE,IN,,50310233,,01/04/2012,400.0000,"Invoice-Private",,01/04/2012,01/04/2012,,50313943MO,-2700.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,4,75.0000,300.00,"Basic Service Fee - Studio for Jan: Griffin, Flora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,4,25.0000,100.00,"Resident Care - Level 2 for Jan: Griffin, Flora",,,,,,,,,,,,,,,
+INVOICE,CM,,50310233,,01/04/2012,3100,"Invoice-Private",,01/04/2012,01/04/2012,,50313943MO,-2700.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... F.Griffin 201201: Griffin, Flora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,775,775,"CR:Resident Care -... F.Griffin 201201: Griffin, Flora",,,,,,,,,,,,,,,

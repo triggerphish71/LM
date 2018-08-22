@@ -1,0 +1,5 @@
+BATCH,,201110,B,4760.0000,
+INVOICE,IN,,16110218,,10/24/2011,2125.0000,"Invoice-Private",,10/24/2011,10/24/2011,,16115248MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,25,85.0000,2125.00,"Room and Board - Studio for Oct: Castleman, Oscar",,,,,,,,,,,,,,,
+INVOICE,CM,,16110218,,10/24/2011,2635,"Invoice-Private",,10/24/2011,10/24/2011,,16115248MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2635,2635,"CR:Room and Board ... O.Castleman 201110: Castleman, Oscar",,,,,,,,,,,,,,,

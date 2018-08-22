@@ -1,0 +1,5 @@
+BATCH,,201109,B,3447.0000,
+INVOICE,IN,,19010222,,09/01/2011,3447.0000,"September_Rent-Harrison. Letty",,09/01/2011,09/10/2011,,19014244,6412.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,30,98.0000,2940,"Basic Service Fee - Studio         : Harrison. Letty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,30,16.0000,480,"Resident Care - Level 1: Harrison. Letty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Harrison. Letty",,,,,,,,,,,,,,,

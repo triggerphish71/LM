@@ -1,0 +1,5 @@
+BATCH,,201111,B,70.0000,
+INVOICE,IN,,50310232,,11/01/2011,35.0000,"Invoice-Private",,11/01/2011,11/10/2011,,50313769MO,-1691.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Griffin, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50310232,,11/01/2011,35,"Invoice-Private",,11/01/2011,11/10/2011,,50313769MO,-1691.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Griffin, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,10525.0000,
+INVOICE,IN,,19210267,,10/26/2012,5627.0000,"Invoice-Private",,10/26/2012,10/26/2012,,19215496MO,-2541.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,1519.0000,1519.00,"CR:Limited Term Di... O.Gowens 201210: Gowens, Olen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309192,26,114.0000,2964.00,"Basic Service Fee - Studio for Oct: Gowens, Olen",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,26,44.0000,1144.00,"Private Care Rate Adjustments for Oct: Gowens, Olen",,,,,,,,,,,,,,,
+INVOICE,CM,,19210267,,10/26/2012,4898,"Invoice-Private",,10/26/2012,10/26/2012,,19215496MO,-2541.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... O.Gowens 201210: Gowens, Olen",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,1,1364,1364,"CR:Private Care Ra... O.Gowens 201210: Gowens, Olen",,,,,,,,,,,,,,,

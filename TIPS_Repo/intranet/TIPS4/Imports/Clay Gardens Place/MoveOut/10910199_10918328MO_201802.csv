@@ -1,0 +1,5 @@
+BATCH,,201802,B,52.5400,
+INVOICE,IN,,10910199,,02/01/2018,26.2700,"Invoice-Private",,02/01/2018,02/10/2018,,10918328MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010005109,1,26.2700,26.27,"Monthly Cable: Grubb, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,10910199,,02/01/2018,26.27,"Invoice-Private",,02/01/2018,02/10/2018,,10918328MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010005109,1,26.27,26.27,"Credit for Monthly Cable: Grubb, Maxine",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,6164.0000,
+INVOICE,IN,,09310242,,03/01/2013,2010.0000,"Invoice-Private",,03/01/2013,03/10/2013,,09315750MO,-2144.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,15,134.0000,2010.00,"Basic Service Fee - One Bedroom for Mar: Ginnever, James",,,,,,,,,,,,,,,
+INVOICE,CM,,09310242,,03/01/2013,4154,"Invoice-Private",,03/01/2013,03/10/2013,,09315750MO,-2144.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,4154,4154,"CR:Basic Service F... J.Ginnever 201303: Ginnever, James",,,,,,,,,,,,,,,

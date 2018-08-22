@@ -1,0 +1,5 @@
+BATCH,,201301,B,2542.0000,
+INVOICE,IN,,09810221,,01/01/2013,1271.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09814877MO,-4004.0400,,,,,,,,,,
+TRANSACTION,3320,010103098,31,41.0000,1271.00,"Credit for Limited Term Discount: Boulden, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,09810221,,01/01/2013,1271,"Invoice-Private",,01/01/2013,01/10/2013,,09814877MO,-4004.0400,,,,,,,,,,
+TRANSACTION,3320,010103098,31,41,1271,"Limited Term Discount: Boulden, Marion",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,4650.0000,
+INVOICE,IN,,14010207,,02/01/2013,56.0000,"Invoice-Private",,02/01/2013,02/10/2013,,14014162MO,-5810.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,1,56.0000,56.00,"CR:Limited Term Di... N.Parrish 201302: Parrish, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,14010207,,02/01/2013,4594,"Invoice-Private",,02/01/2013,02/10/2013,,14014162MO,-5810.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2464,2464,"CR:Basic Service F... N.Parrish 201302: Parrish, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... N.Parrish 201302: Parrish, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,2100,2100,"CR:Resident Care -... N.Parrish 201302: Parrish, Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,5385.0000,
+INVOICE,IN,,53510193,,11/21/2012,2205.0000,"Invoice-Private",,11/21/2012,11/21/2012,,53515010MO,-4260.0000,,,,,,,,,,
+TRANSACTION,3027,010319535,21,30.0000,630.00,"Resident Care - Level 2 for Nov: Greening, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319535,21,75.0000,1575.00,"Room and Board - One Bedroom for Nov: Greening, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,53510193,,11/21/2012,3180,"Invoice-Private",,11/21/2012,11/21/2012,,53515010MO,-4260.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... T.Greening 201211: Greening, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,900,900,"CR:Resident Care -... T.Greening 201211: Greening, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2250,2250,"CR:Room and Board ... T.Greening 201211: Greening, Theresa",,,,,,,,,,,,,,,

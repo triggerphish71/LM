@@ -1,0 +1,5 @@
+BATCH,,201202,B,2601.0000,
+INVOICE,IN,,06210230,,02/24/2012,2601.0000,"MoveIn-Dreiszus. Alveriah",,02/24/2012,02/24/2012,,06213713,5602.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,6,96.0000,576,"Basic Service Fee - One Bedroom: Dreiszus. Alveriah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Dreiszus. Alveriah",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Dreiszus. Alveriah",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201107,B,3980.4000,
+INVOICE,IN,,51910115,,07/01/2011,217.0000,"Invoice-Private",,07/01/2011,07/10/2011,,51913141MO,-3546.4000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,217.0000,217.00,"CR:Limited Term Di... B.Asbach 201107: Asbach, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,51910115,,07/01/2011,3763.4,"Invoice-Private",,07/01/2011,07/10/2011,,51913141MO,-3546.4000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2604,2604,"CR:Basic Service F... B.Asbach 201107: Asbach, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,1159.4,1159.4,"CR:Resident Care -... B.Asbach 201107: Asbach, Bessie",,,,,,,,,,,,,,,

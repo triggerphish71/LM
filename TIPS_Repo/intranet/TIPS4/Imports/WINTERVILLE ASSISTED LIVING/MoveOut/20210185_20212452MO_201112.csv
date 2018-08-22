@@ -1,0 +1,7 @@
+BATCH,,201112,B,7381.0000,
+INVOICE,IN,,20210185,,12/30/2011,3630.0000,"Invoice-Private",,12/30/2011,12/30/2011,,20212452MO,-3965.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,30,41.0000,1230.00,"Resident Care - Level 4 for Dec: Hammond, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,30,80.0000,2400.00,"Studio for Dec: Hammond, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,20210185,,12/30/2011,3751,"Invoice-Private",,12/30/2011,12/30/2011,,20212452MO,-3965.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1271,1271,"CR:Resident Care -... B.Hammond 201112: Hammond, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Studio... B.Hammond 201112: Hammond, Beulah",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201804,B,3648.6200,
+INVOICE,IN,,34900159,,04/12/2018,1185.3200,"Invoice-Private",,04/12/2018,04/12/2018,,34912123MO,-3823.3900,,,,,,,,,,
+TRANSACTION,3017,070027349,10,20.0000,200.00," Level: 1 : Ridolph, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3020,070027349,12,82.1100,985.32,"Studio deluxe  for Apr: Ridolph, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,34900159,,04/12/2018,2463.3,"Invoice-Private",,04/12/2018,04/12/2018,,34912123MO,-3823.3900,,,,,,,,,,
+TRANSACTION,3020,070027349,1,2463.3,2463.3,"CR:Studio deluxe... B.Ridolph 201804: Ridolph, Bernice",,,,,,,,,,,,,,,

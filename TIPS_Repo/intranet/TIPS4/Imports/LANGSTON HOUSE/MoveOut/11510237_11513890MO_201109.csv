@@ -1,0 +1,7 @@
+BATCH,,201109,B,4747.0000,
+INVOICE,IN,,11510237,,09/17/2011,1717.0000,"Invoice-Private",,09/17/2011,09/17/2011,,11513890MO,-4472.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,17,75.0000,1275.00,"Basic Service Fee - One Bedroom for Sep: Harris, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,17,26.0000,442.00,"Resident Care - Level 2 for Sep: Harris, Imogene",,,,,,,,,,,,,,,
+INVOICE,CM,,11510237,,09/17/2011,3030,"Invoice-Private",,09/17/2011,09/17/2011,,11513890MO,-4472.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2250,2250,"CR:Basic Service F... I.Harris 201109: Harris, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,780,780,"CR:Resident Care -... I.Harris 201109: Harris, Imogene",,,,,,,,,,,,,,,

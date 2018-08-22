@@ -1,0 +1,7 @@
+BATCH,,201210,B,2162.0000,
+INVOICE,IN,,02411246,,10/01/2012,1081.0000,"Invoice-Private",,10/01/2012,10/10/2012,,02415861MO,-1946.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Jobe, Evalena",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,34.0000,1054.00,"Credit for Limited Term Discount: Jobe, Evalena",,,,,,,,,,,,,,,
+INVOICE,CM,,02411246,,10/01/2012,1081,"Invoice-Private",,10/01/2012,10/10/2012,,02415861MO,-1946.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Jobe, Evalena",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,34,1054,"Limited Term Discount: Jobe, Evalena",,,,,,,,,,,,,,,

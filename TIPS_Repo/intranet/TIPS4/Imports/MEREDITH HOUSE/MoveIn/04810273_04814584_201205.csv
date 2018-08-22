@@ -1,0 +1,5 @@
+BATCH,,201205,B,1762.0000,
+INVOICE,IN,,04810273,,05/30/2012,1762.0000,"MoveIn-Thompson. Mary",,05/30/2012,05/30/2012,,04814584,5692.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,2,103.0000,206,"Basic Service Fee - Studio: Thompson. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,2,28.0000,56,"Resident Care - Level 2: Thompson. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Thompson. Mary",,,,,,,,,,,,,,,

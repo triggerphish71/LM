@@ -1,0 +1,5 @@
+BATCH,,201208,B,1250.0000,
+INVOICE,IN,,00310178,,07/01/2012,250.0000,"July_Rent-Jensen. Ivan",,07/01/2012,07/10/2012,,00314277,3010.0000,,,,,,,,,,
+TRANSACTION,3216,010101003,1,250.0000,250,"Monthly Deferral Charge: Jensen. Ivan",,,,,,,,,,,,,,,
+INVOICE,CM,,00310178,,07/01/2012,1000.0000,"July_Rent-Jensen. Ivan",,07/01/2012,07/10/2012,,00314277,3010.0000,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000,1000,"New Resident Fee Deferred: Jensen. Ivan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,3128.0000,
+INVOICE,IN,,01810155,,04/04/2013,368.0000,"Invoice-Private",,04/04/2013,04/04/2013,,01812692MO,-2392.0000,,,,,,,,,,
+TRANSACTION,3020,010103018,4,92.0000,368.00,"Basic Service Fee - One Bedroom for Apr: Olmstead, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,01810155,,04/04/2013,2760,"Invoice-Private",,04/04/2013,04/04/2013,,01812692MO,-2392.0000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2760,2760,"CR:Basic Service F... B.Olmstead 201304: Olmstead, Betty",,,,,,,,,,,,,,,

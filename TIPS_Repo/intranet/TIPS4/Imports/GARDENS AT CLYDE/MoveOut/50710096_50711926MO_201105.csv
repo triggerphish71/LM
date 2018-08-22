@@ -1,0 +1,5 @@
+BATCH,,201105,B,2850.0000,
+INVOICE,IN,,50710096,,05/06/2011,525.0000,"Invoice-Private",,05/06/2011,05/06/2011,,50711926MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,7,75.0000,525.00,"Basic Service Fee - One Bedroom for May: Stroud, Gail",,,,,,,,,,,,,,,
+INVOICE,CM,,50710096,,05/06/2011,2325,"Invoice-Private",,05/06/2011,05/06/2011,,50711926MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,2325,2325,"CR:Basic Service F... G.Stroud 201105: Stroud, Gail",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,4488.0000,
+INVOICE,IN,,15310253,,03/17/2013,1589.5000,"Invoice-Private",,03/17/2013,03/17/2013,,15316468MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,17,75.0000,1275.00,"Basic Service Fee - Studio for Mar: Noble, Elda Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,17,18.5000,314.50,"Resident Care - Level 10 for Mar: Noble, Elda Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,15310253,,03/17/2013,2898.5,"Invoice-Private",,03/17/2013,03/17/2013,,15316468MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2325,2325,"CR:Basic Service F... E.Noble 201303: Noble, Elda Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,573.5,573.5,"CR:Resident Care -... E.Noble 201303: Noble, Elda Jane",,,,,,,,,,,,,,,

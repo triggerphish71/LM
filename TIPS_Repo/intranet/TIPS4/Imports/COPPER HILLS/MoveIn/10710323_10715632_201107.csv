@@ -1,0 +1,5 @@
+BATCH,,201107,B,5075.0000,
+INVOICE,IN,,10710323,,07/07/2011,5075.0000,"MoveIn-Rosselot. Doris",,07/07/2011,07/07/2011,,10715632,5075.0000,,,,,,,,,,
+TRANSACTION,3010,010107107,25,95.0000,2375,"Basic Service Fee - Studio         : Rosselot. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107107,25,28.0000,700,"Resident Care - Level 2: Rosselot. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107107,1,2000.0000,2000,"New Resident Fee: Rosselot. Doris",,,,,,,,,,,,,,,

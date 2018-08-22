@@ -1,0 +1,7 @@
+BATCH,,201201,B,90.0000,
+INVOICE,IN,,52910141,,01/01/2012,45.0000,"Invoice-Private",,01/01/2012,01/10/2012,,52912853MO,-5718.0000,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25.00,"Monthly Cable: Schierl, William",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20.0000,20.00,"Pendant Fee: Schierl, William",,,,,,,,,,,,,,,
+INVOICE,CM,,52910141,,01/01/2012,45,"Invoice-Private",,01/01/2012,01/10/2012,,52912853MO,-5718.0000,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"Credit for Monthly Cable: Schierl, William",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"Credit for Pendant Fee: Schierl, William",,,,,,,,,,,,,,,

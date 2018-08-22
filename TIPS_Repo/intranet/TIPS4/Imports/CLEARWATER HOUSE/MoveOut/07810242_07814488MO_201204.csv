@@ -1,0 +1,8 @@
+BATCH,,201204,B,4473.0000,
+INVOICE,IN,,07810242,,04/02/2012,278.0000,"Invoice-Private",,04/02/2012,04/02/2012,,07814488MO,-3917.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,2,96.0000,192.00,"Basic Service Fee - Deluxe for Apr: Moran, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,2,43.0000,86.00,"Resident Care - Level 3 for Apr: Moran, Ron",,,,,,,,,,,,,,,
+INVOICE,CM,,07810242,,04/02/2012,4195,"Invoice-Private",,04/02/2012,04/02/2012,,07814488MO,-3917.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2880,2880,"CR:Basic Service F... R.Moran 201204: Moran, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... R.Moran 201204: Moran, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1290,1290,"CR:Resident Care -... R.Moran 201204: Moran, Ron",,,,,,,,,,,,,,,

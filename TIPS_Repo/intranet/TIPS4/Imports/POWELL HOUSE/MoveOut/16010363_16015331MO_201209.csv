@@ -1,0 +1,7 @@
+BATCH,,201209,B,2990.0000,
+INVOICE,IN,,16010363,,09/01/2012,1495.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16015331MO,-1932.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25.00,"Monthly Cable: Baxter, Ethelwynne",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,30,49.0000,1470.00,"Credit for Limited Term Discount: Baxter, Ethelwynne",,,,,,,,,,,,,,,
+INVOICE,CM,,16010363,,09/01/2012,1495,"Invoice-Private",,09/01/2012,09/10/2012,,16015331MO,-1932.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"Credit for Monthly Cable: Baxter, Ethelwynne",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,30,49,1470,"Limited Term Discount: Baxter, Ethelwynne",,,,,,,,,,,,,,,

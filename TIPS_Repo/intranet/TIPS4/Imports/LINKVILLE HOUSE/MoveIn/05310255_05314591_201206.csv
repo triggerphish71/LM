@@ -1,0 +1,6 @@
+BATCH,,201206,B,5614.2000,
+INVOICE,IN,,05310255,,06/01/2012,5614.2000,"MoveIn-Roll. LeOpal",,06/01/2012,06/01/2012,,05314591,5614.2000,,,,,,,,,,
+TRANSACTION,3010,010101053,30,91.0000,2730,"L.Roll: Basic Service Fee - Studio: Roll. LeOpal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,30,28.6400,859.2,"L.Roll: Resident Care - Level 16: Roll. LeOpal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Roll. LeOpal",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Roll. LeOpal",,,,,,,,,,,,,,,

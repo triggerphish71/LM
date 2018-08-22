@@ -1,0 +1,6 @@
+BATCH,,201109,B,4284.0000,
+INVOICE,IN,,53510202,,09/02/2011,4284.0000,"MoveIn-Honzik. Ardis",,09/02/2011,09/02/2011,,53514023,4284.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,29,71.0000,2059,"Basic Service Fee - Studio: Honzik. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Honzik. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Honzik. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Honzik. Ardis",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,3068.0000,
+INVOICE,IN,,50910124,,09/01/2011,1298.0000,"Invoice-Private",,09/01/2011,09/10/2011,,50912740MO,-472.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,22,59.0000,1298.00,"Room and Board - One Bedroom for Sep: Dooley, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,50910124,,09/01/2011,1770,"Invoice-Private",,09/01/2011,09/10/2011,,50912740MO,-472.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1770,1770,"CR:Room and Board ... K.Dooley 201109: Dooley, Kenneth",,,,,,,,,,,,,,,

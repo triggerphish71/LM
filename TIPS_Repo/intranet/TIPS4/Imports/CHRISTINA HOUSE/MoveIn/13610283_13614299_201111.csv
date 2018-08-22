@@ -1,0 +1,5 @@
+BATCH,,201111,B,2466.0000,
+INVOICE,IN,,13610283,,11/04/2011,2466.0000,"MoveIn-Scholen. Anna",,11/04/2011,11/04/2011,,13614299,2466.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,27,53.0000,1431,"Basic Service Fee - Studio: Scholen. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Scholen. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Scholen. Anna",,,,,,,,,,,,,,,

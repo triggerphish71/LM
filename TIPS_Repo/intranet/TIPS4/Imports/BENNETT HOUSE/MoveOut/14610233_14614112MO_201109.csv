@@ -1,0 +1,5 @@
+BATCH,,201109,B,60.0000,
+INVOICE,IN,,14610233,,09/01/2011,30.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14614112MO,-119.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Ashby, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,14610233,,09/01/2011,30,"Invoice-Private",,09/01/2011,09/10/2011,,14614112MO,-119.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Ashby, Mabel",,,,,,,,,,,,,,,

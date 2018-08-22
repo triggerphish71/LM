@@ -1,0 +1,7 @@
+BATCH,,201305,B,1173.1500,
+INVOICE,IN,,01010185,,05/02/2013,71.1000,"Invoice-Private",,05/02/2013,05/02/2013,,01012953MO,-1030.9500,,,,,,,,,,
+TRANSACTION,3020,010101010,2,30.0000,60.00,"Basic Service Fee - Studio for May: Becker, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,2,5.5500,11.10,"Resident Care - Level 3 for May: Becker, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,01010185,,05/02/2013,1102.05,"Invoice-Private",,05/02/2013,05/02/2013,,01012953MO,-1030.9500,,,,,,,,,,
+TRANSACTION,3020,010101010,1,930,930,"CR:Basic Service F... B.Becker 201305: Becker, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,172.05,172.05,"CR:Resident Care -... B.Becker 201305: Becker, Barbara",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,5100.0000,
+INVOICE,IN,,16110187,,04/13/2012,2040.0000,"Invoice-Private",,04/13/2012,04/13/2012,,16115441MO,-4182.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,20,88.0000,1760.00,"Basic Service Fee - Studio for Apr: Lirette, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,20,14.0000,280.00,"Resident Care - Level 1 for Apr: Lirette, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,16110187,,04/13/2012,3060,"Invoice-Private",,04/13/2012,04/13/2012,,16115441MO,-4182.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2640,2640,"CR:Basic Service F... A.Lirette 201204: Lirette, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,420,420,"CR:Resident Care -... A.Lirette 201204: Lirette, Andrew",,,,,,,,,,,,,,,

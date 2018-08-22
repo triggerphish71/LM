@@ -1,0 +1,7 @@
+BATCH,,201302,B,5244.0000,
+INVOICE,IN,,15910231,,02/18/2013,2052.0000,"Invoice-Private",,02/18/2013,02/18/2013,,15915127MO,-4704.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,18,85.0000,1530.00,"Basic Service Fee- One Bedroom Premium for Feb: Kerper, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,18,29.0000,522.00,"Swan Personal Care - L2 for Feb: Kerper, James",,,,,,,,,,,,,,,
+INVOICE,CM,,15910231,,02/18/2013,3192,"Invoice-Private",,02/18/2013,02/18/2013,,15915127MO,-4704.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,2380,2380,"CR:Basic Service F... J.Kerper 201302: Kerper, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,812,812,"CR:Swan Personal C... J.Kerper 201302: Kerper, James",,,,,,,,,,,,,,,

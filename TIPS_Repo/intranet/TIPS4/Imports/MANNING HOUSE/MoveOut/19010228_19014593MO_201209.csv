@@ -1,0 +1,7 @@
+BATCH,,201209,B,1734.0000,
+INVOICE,IN,,19010228,,09/01/2012,867.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19014593MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Hipps, Bub",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,30,28.0000,840.00,"Credit for Limited Term Discount: Hipps, Bub",,,,,,,,,,,,,,,
+INVOICE,CM,,19010228,,09/01/2012,867,"Invoice-Private",,09/01/2012,09/10/2012,,19014593MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Hipps, Bub",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,30,28,840,"Limited Term Discount: Hipps, Bub",,,,,,,,,,,,,,,

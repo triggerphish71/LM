@@ -1,0 +1,7 @@
+BATCH,,201108,B,6063.0000,
+INVOICE,IN,,20610207,,08/13/2011,2064.0000,"Invoice-Private",,08/13/2011,08/13/2011,,20612309MO,-5805.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,16,42.0000,672.00,"Resident Care - Level 4 for Aug: Doan, Mable",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,16,87.0000,1392.00,"Room and Board - Studio for Aug: Doan, Mable",,,,,,,,,,,,,,,
+INVOICE,CM,,20610207,,08/13/2011,3999,"Invoice-Private",,08/13/2011,08/13/2011,,20612309MO,-5805.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1302,1302,"CR:Resident Care -... M.Doan 201108: Doan, Mable",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... M.Doan 201108: Doan, Mable",,,,,,,,,,,,,,,

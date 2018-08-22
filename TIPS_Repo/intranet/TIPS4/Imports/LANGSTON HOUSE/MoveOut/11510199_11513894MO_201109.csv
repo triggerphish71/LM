@@ -1,0 +1,7 @@
+BATCH,,201109,B,3544.0000,
+INVOICE,IN,,11510199,,09/24/2011,1596.0000,"Invoice-Private",,09/24/2011,09/24/2011,,11513894MO,-2302.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,60.0000,60.00,"CR:Limited Term Di... G.Atkins 201109: Atkins, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308115,24,64.0000,1536.00,"Basic Service Fee - Studio for Sep: Atkins, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,11510199,,09/24/2011,1948,"Invoice-Private",,09/24/2011,09/24/2011,,11513894MO,-2302.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1920,1920,"CR:Basic Service F... G.Atkins 201109: Atkins, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... G.Atkins 201109: Atkins, Geraldine",,,,,,,,,,,,,,,

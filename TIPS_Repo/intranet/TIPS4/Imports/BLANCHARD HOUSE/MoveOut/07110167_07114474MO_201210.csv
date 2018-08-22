@@ -1,0 +1,5 @@
+BATCH,,201210,B,5850.0000,
+INVOICE,IN,,07110167,,10/13/2012,2223.0000,"Invoice-Private",,10/13/2012,10/13/2012,,07114474MO,-4914.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,19,117.0000,2223.00,"Basic Service Fee - One Bedroom for Oct: Barrett, Jeannette",,,,,,,,,,,,,,,
+INVOICE,CM,,07110167,,10/13/2012,3627,"Invoice-Private",,10/13/2012,10/13/2012,,07114474MO,-4914.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,3627,3627,"CR:Basic Service F... J.Barrett 201210: Barrett, Jeannette",,,,,,,,,,,,,,,

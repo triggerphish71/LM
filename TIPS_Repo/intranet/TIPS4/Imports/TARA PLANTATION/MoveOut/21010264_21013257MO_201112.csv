@@ -1,0 +1,7 @@
+BATCH,,201112,B,1290.0000,
+INVOICE,IN,,21010264,,12/01/2011,645.0000,"Invoice-Private",,12/01/2011,12/10/2011,,21013257MO,490.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25.00,"Monthly Cable: Long, Porter ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,31,20.0000,620.00,"Credit for Limited Term Discount: Long, Porter ",,,,,,,,,,,,,,,
+INVOICE,CM,,21010264,,12/01/2011,645,"Invoice-Private",,12/01/2011,12/10/2011,,21013257MO,490.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Credit for Monthly Cable: Long, Porter ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,31,20,620,"Limited Term Discount: Long, Porter ",,,,,,,,,,,,,,,

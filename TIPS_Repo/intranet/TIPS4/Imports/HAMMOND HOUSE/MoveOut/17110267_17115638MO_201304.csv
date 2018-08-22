@@ -1,0 +1,5 @@
+BATCH,,201304,B,54.0000,
+INVOICE,IN,,17110267,,04/01/2013,27.0000,"Invoice-Private",,04/01/2013,04/10/2013,,17115638MO,-1968.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Copen, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,17110267,,04/01/2013,27,"Invoice-Private",,04/01/2013,04/10/2013,,17115638MO,-1968.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Copen, Gladys",,,,,,,,,,,,,,,

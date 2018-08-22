@@ -1,0 +1,8 @@
+BATCH,,201302,B,5220.0000,
+INVOICE,IN,,14610261,,02/13/2013,2090.0000,"Invoice-Private",,02/13/2013,02/13/2013,,14614881MO,-4500.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,19,93.0000,1767.00,"Basic Service Fee - Studio for Feb: Adkins, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,19,17.0000,323.00,"Resident Care - Level 1 for Feb: Adkins, Lauretta",,,,,,,,,,,,,,,
+INVOICE,CM,,14610261,,02/13/2013,3130,"Invoice-Private",,02/13/2013,02/13/2013,,14614881MO,-4500.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2604,2604,"CR:Basic Service F... L.Adkins 201302: Adkins, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309146,1,50,50,"CR:Pendant Fee... L.Adkins 201302: Adkins, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,476,476,"CR:Resident Care -... L.Adkins 201302: Adkins, Lauretta",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,1881.0000,
+INVOICE,IN,,14710280,,01/02/2013,114.0000,"Invoice-Private",,01/02/2013,01/02/2013,,14715984MO,-1653.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,2,38.0000,76.00,"Basic Service Fee - Second Resident for Jan: Koval, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,2,19.0000,38.00,"Resident Care - Level 1 for Jan: Koval, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14710280,,01/02/2013,1767,"Invoice-Private",,01/02/2013,01/02/2013,,14715984MO,-1653.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,1178,1178,"CR:Basic Service F... M.Koval 201301: Koval, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,589,589,"CR:Resident Care -... M.Koval 201301: Koval, Mary",,,,,,,,,,,,,,,

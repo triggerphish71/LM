@@ -1,0 +1,5 @@
+BATCH,,201211,B,5580.0000,
+INVOICE,IN,,06510208,,11/01/2012,5580.0000,"MoveIn-Boff. Lola",,11/01/2012,11/01/2012,,06514872,5580.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,30,99.0000,2970,"Basic Service Fee - Studio         : Boff. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,30,37.0000,1110,"Resident Care - Level 2: Boff. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305065,1,1500.0000,1500,"New Resident Fee: Boff. Lola",,,,,,,,,,,,,,,

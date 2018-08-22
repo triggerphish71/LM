@@ -1,0 +1,7 @@
+BATCH,,201209,B,6832.0000,
+INVOICE,IN,,17910221,,09/26/2012,3172.0000,"Invoice-Private",,09/26/2012,09/26/2012,,17915127MO,-4270.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,26,82.0000,2132.00,"Basic Service Fee - Studio for Sep: Richard, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,26,40.0000,1040.00,"Resident Care - Level 3 for Sep: Richard, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,17910221,,09/26/2012,3660,"Invoice-Private",,09/26/2012,09/26/2012,,17915127MO,-4270.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2460,2460,"CR:Basic Service F... B.Richard 201209: Richard, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,1200,1200,"CR:Resident Care -... B.Richard 201209: Richard, Beulah",,,,,,,,,,,,,,,

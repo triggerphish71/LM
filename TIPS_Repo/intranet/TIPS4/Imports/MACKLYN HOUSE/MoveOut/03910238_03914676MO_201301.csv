@@ -1,0 +1,7 @@
+BATCH,,201301,B,6844.3200,
+INVOICE,IN,,03910238,,01/21/2013,3055.5000,"Invoice-Private",,01/21/2013,01/21/2013,,03914676MO,-4155.4800,,,,,,,,,,
+TRANSACTION,3020,010101039,25,90.0000,2250.00,"Basic Service Fee - Studio for Jan: Bonde, Claire",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,25,32.2200,805.50,"Resident Care - Level 18 for Jan: Bonde, Claire",,,,,,,,,,,,,,,
+INVOICE,CM,,03910238,,01/21/2013,3788.82,"Invoice-Private",,01/21/2013,01/21/2013,,03914676MO,-4155.4800,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... C.Bonde 201301: Bonde, Claire",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,998.82,998.82,"CR:Resident Care -... C.Bonde 201301: Bonde, Claire",,,,,,,,,,,,,,,

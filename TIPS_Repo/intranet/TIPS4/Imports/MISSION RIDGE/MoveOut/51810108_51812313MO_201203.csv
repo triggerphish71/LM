@@ -1,0 +1,5 @@
+BATCH,,201203,B,4000.0000,
+INVOICE,IN,,51810108,,03/09/2012,900.0000,"Invoice-Private",,03/09/2012,03/09/2012,,51812313MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010103518,9,100.0000,900.00,"Basic Service Fee - One Bedroom for Mar: Gillingham, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,51810108,,03/09/2012,3100,"Invoice-Private",,03/09/2012,03/09/2012,,51812313MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,3100,3100,"CR:Basic Service F... M.Gillingham 201203: Gillingham, Maxine",,,,,,,,,,,,,,,

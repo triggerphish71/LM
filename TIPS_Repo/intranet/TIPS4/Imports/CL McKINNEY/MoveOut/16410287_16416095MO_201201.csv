@@ -1,0 +1,7 @@
+BATCH,,201201,B,4500.0000,
+INVOICE,IN,,16410287,,01/14/2012,1400.0000,"Invoice-Private",,01/14/2012,01/14/2012,,16416095MO,-4600.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,14,85.0000,1190.00,"Basic Service Fee - Studio for Jan: Garcia, Alexander",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,14,15.0000,210.00,"Resident Care - Level 1 for Jan: Garcia, Alexander",,,,,,,,,,,,,,,
+INVOICE,CM,,16410287,,01/14/2012,3100,"Invoice-Private",,01/14/2012,01/14/2012,,16416095MO,-4600.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2635,2635,"CR:Basic Service F... A.Garcia 201201: Garcia, Alexander",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,465,465,"CR:Resident Care -... A.Garcia 201201: Garcia, Alexander",,,,,,,,,,,,,,,

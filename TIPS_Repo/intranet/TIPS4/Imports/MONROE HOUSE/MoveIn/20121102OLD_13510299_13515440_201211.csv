@@ -1,0 +1,7 @@
+BATCH,,201211,B,3300.0000,
+INVOICE,IN,,13510299,,10/26/2012,570.0000,"MoveIn-Renshaw. Jerry",,10/26/2012,10/26/2012,,13515440,3300.0000,,,,,,,,,,
+TRANSACTION,3014,010309135,6,90.0000,540,"Basic Service Fee - Studio: Renshaw. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Renshaw. Jerry",,,,,,,,,,,,,,,
+INVOICE,IN,,13510299,,11/01/2012,2730.0000,"November_Rent-Renshaw. Jerry",,11/01/2012,11/10/2012,,13515440,3300.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,30,90.0000,2700,"Basic Service Fee - Studio: Renshaw. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Renshaw. Jerry",,,,,,,,,,,,,,,

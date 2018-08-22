@@ -1,0 +1,6 @@
+BATCH,,201202,B,6328.0000,
+INVOICE,IN,,19210251,,02/26/2012,3022.0000,"Invoice-Private",,02/26/2012,02/26/2012,,19215104MO,-3756.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,58.0000,58.00,"CR:Limited Term Di... V.Spencer 201202: Spencer, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309192,26,114.0000,2964.00,"Basic Service Fee - Studio for Feb: Spencer, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,19210251,,02/26/2012,3306,"Invoice-Private",,02/26/2012,02/26/2012,,19215104MO,-3756.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3306,3306,"CR:Basic Service F... V.Spencer 201202: Spencer, Vivian",,,,,,,,,,,,,,,

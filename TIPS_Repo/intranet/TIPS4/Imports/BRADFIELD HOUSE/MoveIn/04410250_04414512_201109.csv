@@ -1,0 +1,5 @@
+BATCH,,201109,B,1689.0000,
+INVOICE,IN,,04410250,,09/29/2011,1689.0000,"MoveIn-Davis. John",,09/29/2011,09/29/2011,,04414512,4256.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,2,82.0000,164,"Basic Service Fee - Studio         : Davis. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Davis. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Davis. John",,,,,,,,,,,,,,,

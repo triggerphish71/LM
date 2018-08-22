@@ -1,0 +1,5 @@
+BATCH,,201212,B,70.0000,
+INVOICE,IN,,17810228,,12/01/2012,35.0000,"Invoice-Private",,12/01/2012,12/10/2012,,17816270MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Sorenson, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,17810228,,12/01/2012,35,"Invoice-Private",,12/01/2012,12/10/2012,,17816270MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Sorenson, Gloria",,,,,,,,,,,,,,,

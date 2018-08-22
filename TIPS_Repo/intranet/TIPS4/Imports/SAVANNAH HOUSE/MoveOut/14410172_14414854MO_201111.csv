@@ -1,0 +1,7 @@
+BATCH,,201111,B,2336.0000,
+INVOICE,IN,,14410172,,11/01/2011,1168.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14414854MO,-200.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Smith, Cornelius",,,,,,,,,,,,,,,
+TRANSACTION,3321,010308144,30,38.0000,1140.00,"Credit for 2nd Resident Free Discount: Smith, Cornelius",,,,,,,,,,,,,,,
+INVOICE,CM,,14410172,,11/01/2011,1168,"Invoice-Private",,11/01/2011,11/10/2011,,14414854MO,-200.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Smith, Cornelius",,,,,,,,,,,,,,,
+TRANSACTION,3321,010308144,30,38,1140,"2nd Resident Free Discount: Smith, Cornelius",,,,,,,,,,,,,,,

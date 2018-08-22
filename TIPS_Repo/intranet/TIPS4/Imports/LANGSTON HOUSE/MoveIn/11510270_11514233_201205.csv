@@ -1,0 +1,6 @@
+BATCH,,201205,B,1343.0000,
+INVOICE,IN,,11510270,,05/29/2012,1343.0000,"MoveIn-Hughey. Doris",,05/29/2012,05/29/2012,,11514233,4556.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,3,66.0000,198,"Basic Service Fee - Studio: Hughey. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,3,39.0000,117,"Resident Care - Level 3: Hughey. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Hughey. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Hughey. Doris",,,,,,,,,,,,,,,

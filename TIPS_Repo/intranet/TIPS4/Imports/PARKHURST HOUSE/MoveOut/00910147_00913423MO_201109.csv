@@ -1,0 +1,7 @@
+BATCH,,201109,B,6400.8000,
+INVOICE,IN,,00910147,,09/12/2011,2971.8000,"Invoice-Private",,09/12/2011,09/12/2011,,00913423MO,-457.2000,,,,,,,,,,
+TRANSACTION,3027,010101009,26,32.3000,839.80,"Resident Care - Level 19 for Sep: Hamm, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,26,82.0000,2132.00,"Room and Board - Studio for Sep: Hamm, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,00910147,,09/12/2011,3429,"Invoice-Private",,09/12/2011,09/12/2011,,00913423MO,-457.2000,,,,,,,,,,
+TRANSACTION,3027,010101009,1,969,969,"CR:Resident Care -... R.Hamm 201109: Hamm, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2460,2460,"CR:Room and Board ... R.Hamm 201109: Hamm, Robert",,,,,,,,,,,,,,,

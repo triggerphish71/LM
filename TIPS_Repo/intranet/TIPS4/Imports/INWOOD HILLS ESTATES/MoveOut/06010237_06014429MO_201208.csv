@@ -1,0 +1,7 @@
+BATCH,,201208,B,5310.0000,
+INVOICE,IN,,06010237,,08/01/2012,620.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06014429MO,-3950.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,620.0000,620.00,"CR:Limited Term Di... M.Mann 201208: Mann, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,06010237,,08/01/2012,4690,"Invoice-Private",,08/01/2012,08/10/2012,,06014429MO,-3950.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2790,2790,"CR:Basic Service F... M.Mann 201208: Mann, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... M.Mann 201208: Mann, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1860,1860,"CR:Resident Care -... M.Mann 201208: Mann, Maxine",,,,,,,,,,,,,,,

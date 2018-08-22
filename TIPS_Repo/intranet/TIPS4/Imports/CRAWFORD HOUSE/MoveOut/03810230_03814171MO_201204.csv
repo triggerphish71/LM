@@ -1,0 +1,8 @@
+BATCH,,201204,B,4829.1000,
+INVOICE,IN,,03810230,,04/12/2012,1422.6000,"Invoice-Private",,04/12/2012,04/12/2012,,03814171MO,-1983.9000,,,,,,,,,,
+TRANSACTION,3320,010103038,1,60.0000,60.00,"CR:Limited Term Di... E.Nelson 201204: Nelson, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103038,12,33.0000,396.00,"Basic Service Fee - Second Resident for Apr: Nelson, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,12,80.5500,966.60,"Resident Care - Level 45 for Apr: Nelson, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,03810230,,04/12/2012,3406.5,"Invoice-Private",,04/12/2012,04/12/2012,,03814171MO,-1983.9000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,990,990,"CR:Basic Service F... E.Nelson 201204: Nelson, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,2416.5,2416.5,"CR:Resident Care -... E.Nelson 201204: Nelson, Elizabeth",,,,,,,,,,,,,,,

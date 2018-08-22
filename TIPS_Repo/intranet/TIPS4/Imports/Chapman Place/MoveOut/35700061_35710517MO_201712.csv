@@ -1,0 +1,7 @@
+BATCH,,201712,B,6364.0000,
+INVOICE,IN,,35700061,,12/12/2017,1776.0000,"Invoice-Private",,12/12/2017,12/12/2017,,35710517MO,-2812.0000,,,,,,,,,,
+TRANSACTION,3020,070009357,12,109.0000,1308.00,"BSF One Bedroom  for Dec: Tishler, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,070009357,12,39.0000,468.00,"Resident Care - Level 2  for Dec: Tishler, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,35700061,,12/12/2017,4588,"Invoice-Private",,12/12/2017,12/12/2017,,35710517MO,-2812.0000,,,,,,,,,,
+TRANSACTION,3020,070009357,1,3379,3379,"CR:BSF One Bedroom... L.Tishler 201712: Tishler, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,070009357,1,1209,1209,"CR:Resident Care -... L.Tishler 201712: Tishler, Lorraine",,,,,,,,,,,,,,,

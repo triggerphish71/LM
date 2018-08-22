@@ -1,0 +1,8 @@
+BATCH,,201110,B,3355.0000,
+INVOICE,IN,,20810182,,10/01/2011,255.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20812747MO,-2845.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,155.0000,155.00,"CR:Limited Term Di... B.Talley 201110: Talley, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,21.0000,21.00,"Resident Care - Level 2 for Oct: Talley, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,79.0000,79.00,"Studio Deluxe for Oct: Talley, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,20810182,,10/01/2011,3100,"Invoice-Private",,10/01/2011,10/10/2011,,20812747MO,-2845.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,651,651,"CR:Resident Care -... B.Talley 201110: Talley, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2449,2449,"CR:Studio Deluxe... B.Talley 201110: Talley, Betty",,,,,,,,,,,,,,,

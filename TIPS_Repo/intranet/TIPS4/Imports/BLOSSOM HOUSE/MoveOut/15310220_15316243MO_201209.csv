@@ -1,0 +1,7 @@
+BATCH,,201209,B,6378.1900,
+INVOICE,IN,,15310220,,09/13/2012,1928.2900,"Invoice-Private",,09/13/2012,09/13/2012,,15316243MO,-7119.8400,,,,,,,,,,
+TRANSACTION,3020,010103153,13,100.0000,1300.00,"Basic Service Fee - Studio for Sep: Huibregtse, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,13,48.3300,628.29,"Resident Care - Level 27 for Sep: Huibregtse, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,15310220,,09/13/2012,4449.9,"Invoice-Private",,09/13/2012,09/13/2012,,15316243MO,-7119.8400,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... F.Huibregtse 201209: Huibregtse, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1449.9,1449.9,"CR:Resident Care -... F.Huibregtse 201209: Huibregtse, Florence",,,,,,,,,,,,,,,

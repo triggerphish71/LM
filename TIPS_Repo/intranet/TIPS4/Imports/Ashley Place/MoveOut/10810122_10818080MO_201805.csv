@@ -1,0 +1,5 @@
+BATCH,,201805,B,4530.0000,
+INVOICE,CM,,10810122,,05/01/2018,4530,"Invoice-Private",,05/01/2018,05/10/2018,,10818080MO,-6679.0100,,,,,,,,,,
+TRANSACTION,3020,010008108,1,3472,3472,"CR:Basic Service F... J.Miller 201805: Miller, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35,35,"CR:Monthly Cable... J.Miller 201805: Miller, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,1,1023,1023,"CR:Resident Care -... J.Miller 201805: Miller, James",,,,,,,,,,,,,,,

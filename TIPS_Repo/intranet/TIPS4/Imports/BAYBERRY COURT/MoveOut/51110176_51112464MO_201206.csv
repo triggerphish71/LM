@@ -1,0 +1,6 @@
+BATCH,,201206,B,4740.0000,
+INVOICE,IN,,51110176,,06/01/2012,450.0000,"Invoice-Private",,06/01/2012,06/10/2012,,51112464MO,-5377.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,1,450.0000,450.00,"CR:Limited Term Di... E.Zencuch 201206: Zencuch, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,51110176,,06/01/2012,4290,"Invoice-Private",,06/01/2012,06/10/2012,,51112464MO,-5377.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3150,3150,"CR:Basic Service F... E.Zencuch 201206: Zencuch, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1140,1140,"CR:Resident Care -... E.Zencuch 201206: Zencuch, Elizabeth",,,,,,,,,,,,,,,

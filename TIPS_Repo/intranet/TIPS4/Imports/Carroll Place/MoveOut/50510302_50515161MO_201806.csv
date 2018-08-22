@@ -1,0 +1,7 @@
+BATCH,,201806,B,4202.0000,
+INVOICE,IN,,50510302,,06/01/2018,92.0000,"Invoice-Private",,06/01/2018,06/01/2018,,50515161MO,-4738.0000,,,,,,,,,,
+TRANSACTION,3017,010005505,1,48.0000,48.00," Level: 3 : Dunkle, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005505,1,44.0000,44.00,"Basic Service Fee - Studio for Jun: Dunkle, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,50510302,,06/01/2018,4110,"Invoice-Private",,06/01/2018,06/01/2018,,50515161MO,-4738.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,1320,1320,"CR:Basic Service F... D.Dunkle 201806: Dunkle, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,2790,2790,"CR:Resident Care -... D.Dunkle 201806: Dunkle, Dorothy",,,,,,,,,,,,,,,

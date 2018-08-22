@@ -1,0 +1,8 @@
+BATCH,,201110,B,8318.1000,
+INVOICE,IN,,09510208,,10/27/2011,4322.2000,"Invoice-Private",,10/27/2011,10/27/2011,,09514593MO,-2850.7000,,,,,,,,,,
+TRANSACTION,3320,010103095,1,713.0000,713.00,"CR:Limited Term Di... B.Hanson 201110: Hanson, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,28,83.0000,2324.00,"Basic Service Fee - Studio for Oct: Hanson, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,28,45.9000,1285.20,"Resident Care - Level 27 for Oct: Hanson, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,09510208,,10/27/2011,3995.9,"Invoice-Private",,10/27/2011,10/27/2011,,09514593MO,-2850.7000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2573,2573,"CR:Basic Service F... B.Hanson 201110: Hanson, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1422.9,1422.9,"CR:Resident Care -... B.Hanson 201110: Hanson, Bob",,,,,,,,,,,,,,,

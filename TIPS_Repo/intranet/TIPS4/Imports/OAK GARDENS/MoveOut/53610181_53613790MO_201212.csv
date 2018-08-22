@@ -1,0 +1,7 @@
+BATCH,,201212,B,194.0000,
+INVOICE,IN,,53610181,,12/01/2012,97.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53613790MO,-4647.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,31,2.0000,62.00,"Credit for Limited Term Discount: Rickstad, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Rickstad, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,53610181,,12/01/2012,97,"Invoice-Private",,12/01/2012,12/10/2012,,53613790MO,-4647.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,31,2,62,"Limited Term Discount: Rickstad, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Rickstad, Dale",,,,,,,,,,,,,,,

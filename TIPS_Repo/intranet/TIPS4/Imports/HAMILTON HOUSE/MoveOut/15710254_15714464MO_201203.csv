@@ -1,0 +1,6 @@
+BATCH,,201203,B,4975.0000,
+INVOICE,IN,,15710254,,03/12/2012,1380.0000,"Invoice-Private",,03/12/2012,03/12/2012,,15714464MO,-2215.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,12,115.0000,1380.00,"Basic Service Fee - One Bedroom for Mar: Busse, Roxie",,,,,,,,,,,,,,,
+INVOICE,CM,,15710254,,03/12/2012,3595,"Invoice-Private",,03/12/2012,03/12/2012,,15714464MO,-2215.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3565,3565,"CR:Basic Service F... R.Busse 201203: Busse, Roxie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... R.Busse 201203: Busse, Roxie",,,,,,,,,,,,,,,

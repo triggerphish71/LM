@@ -1,0 +1,5 @@
+BATCH,,201207,B,1488.0000,
+INVOICE,IN,,08610226,,07/01/2012,744.0000,"Invoice-Private",,07/01/2012,07/10/2012,,08614822MO,-2196.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,31,24.0000,744.00,"Credit for Limited Term Discount: Hempel, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,08610226,,07/01/2012,744,"Invoice-Private",,07/01/2012,07/10/2012,,08614822MO,-2196.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,31,24,744,"Limited Term Discount: Hempel, Rose",,,,,,,,,,,,,,,

@@ -1,0 +1,651 @@
+<!----------------------------------------------------------------------------------------------
+| DESCRIPTION                                                                                  |
+|----------------------------------------------------------------------------------------------|
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| STORED PROCEDURES                                                                            |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| INCLUDES                                                                                     |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| HISTORY                                                                                      |
+|----------------------------------------------------------------------------------------------|
+| Author     | Date       | Description                                                        |
+|------------|------------|--------------------------------------------------------------------|
+| pbuendia   | 02/07/2002 | Original Authorship                                                |
+| pbuendia   | 04/29/2002 | Added jscript document write to avoid processing errors            |
+| ranklam    | 11/27/2006 | Created                                                            |
+| ranklam    | 11/22/2006 | fixing problem with pdclose not relocating people                  |
+| ranklam    | 12/22/2006 | fixing problem with rdoclose reopening houses                      |
+| mlaw       | 01/24/2007 | Remove mlaw@alcco.com                                              |
+| mlaw       | 02/26/2007 | add centralize report function for AR                              |
+| RTS		 | 11/11/2008 | Modifications added for Project 26955  Bond Designations           |
+| RTS		 | 09/15/2009 | Proj 42877 - Invoice Details Admin for IT Support				   |
+| RTS	     | 10/09/2009 | Proj 42573 - Closed Account MO Date change                         |
+| RTS		 | 01/19/2010 | Proj 35227 - MI AutoApply RecurringCharges						   |
+| Sathya     | 02/26/2010 | Proj 20933 made changes for Late Fee                               |
+|Sathya      |07/16/2010  | Project 20933-PartB added the link to CurrentLateFee.cfm           |
+----------------------------------------------------------------------------------------------->
+<cfoutput>
+<CFIF NOT IsDefined("SESSION.USERID") OR SESSION.UserId EQ "" OR NOT IsDefined("SESSION.qSelectedHouse.iHouse_ID") OR SESSION.qSelectedHouse.iHouse_ID EQ "">
+	<CFOUTPUT><CFLOCATION URL="http://#server_name#/alc"></CFOUTPUT>
+</CFIF>
+
+<SCRIPT>
+	function wait(close,url)
+	{ 
+		
+		document.write("<CENTER><B STYLE='font-size: 24; color: red;'>Processing Please Wait....</B></CENTER>"); 
+		
+		if(close)
+		{	
+			window.location = url + '?close=1';
+		}
+		else
+		{
+			window.location = url + '?open=1';
+		}
+	}
+</SCRIPT>
+<script language="javascript">
+	function updateHouseLog(obj)
+	{
+			
+		var url = '';
+		var querystring = '';
+		var isChecked = false;
+		
+		url = 'http://#server_name#/intranet/TIPS4/Admin/CentralizeReport/ActionFiles/act_centralizereport.cfm';
+		
+		if (obj.checked) 
+		{
+		  isChecked = true;
+		}
+		
+		querystring = '?houseid=' + #session.qselectedhouse.ihouse_id# +
+					  '&checked=' + isChecked.toString() +
+					  '&db=' + '#application.datasource#';
+		//alert(url+querystring); return;
+		
+		responseXml = doPost(url,querystring);
+		
+		response = responseXml.documentElement;
+		//alert(response.xml); return;
+		//alert(response.childNodes[0].nodeName);return;
+		if(response.childNodes[0].nodeName == 'success')
+		{
+			//alert('good');
+			ShowMessage('messageBox',response.childNodes[0].childNodes[0].nodeValue,true);
+		}
+		else
+		{
+			alert('false');
+			//ShowMessage('messageBox',response.childNodes[0].childNodes[0].nodeValue,true);
+		}
+	}
+	
+	//populate the message grid via ajax call
+	function doPost(url,querystring)
+	{		
+		//if activex is available (ms browser)
+		if (window.ActiveXObject) 
+		{ 
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP"); 
+		} 
+		else if(window.XMLHttpRequest)
+		{ 
+			xmlhttp = new XMLHttpRequest(); 
+		}
+		
+		//open the request
+		xmlhttp.open("Get",url+querystring,false);
+		xmlhttp.setRequestHeader("Content-Type","application/x-www-form-urlencoded;");
+		
+		xmlhttp.send();
+		
+		//display the return values
+		return xmlhttp.responseXML;
+	}
+
+	function ShowMessage(divName,message,isError)
+	{	
+		messageArea = document.getElementsByName(divName)[0];
+		
+		if(isError)
+		{
+			messageArea.className = 'error';
+		}
+		else
+		{
+			messageArea.className = 'success';
+		}
+		messageArea.style.visibility = 'visible';
+		messageArea.innerHTML = message;
+	}
+	
+	function HideMessage()
+	{
+		messageArea = document.getElementsByName('message')[0];
+		messageArea.style.display = 'none';
+	}
+</script>
+
+<CFTRY>
+	<!--- ==============================================================================
+	Retrieve data for changes to EOM since last admin viewing
+	NO parameters signifying MID MONTH ROLL thus rollingback all changes and not commiting
+	any changes.
+	=============================================================================== --->
+	<CFIF SESSION.qSelectedHouse.iHouse_ID EQ 200><CFSET Procname='rw.sp_EOM1'><CFELSE><CFSET Procname='sp_EOM1'></CFIF>
+	<cfstoredproc procedure="#Procname#" datasource="#APPLICATION.datasource#" RETURNCODE="YES" debug="Yes">
+
+	<cfprocresult NAME="MidMonth" resultset="1">
+	<!--- ==============================================================================
+	<cfprocresult NAME="ComplexCatchUp" resultset="1">
+	=============================================================================== --->
+
+	<cfprocparam type="IN" value="#SESSION.qSelectedHouse.cNumber#" DBVARNAME="@HouseNumber" cfsqltype="CF_SQL_VARCHAR">
+	<cfprocparam type="IN" value="1" DBVARNAME="@bCheckForChanges" cfsqltype="CF_SQL_BIT">
+	<cfprocparam type="IN" value="0" DBVARNAME="@bCommitChanges" cfsqltype="CF_SQL_BIT">
+	<cfprocparam type="IN" value="0" DBVARNAME="@bMonthEnd" cfsqltype="CF_SQL_BIT">
+	<cfprocparam type="OUT" variable=iCnt DBVARNAME="@iChangeCount" cfsqltype="CF_SQL_INTEGER">
+
+	</cfstoredproc>
+
+	<CFCATCH TYPE="Lock">
+
+		<CFSCRIPT>
+			message = "***BEGIN***<BR>";
+			if (IsDefined("Error.Diagnostics")) { message = message & "Diagnostics ** #Error.Diagnostics# **<BR>"; }
+			message = message & "Remote Address: #REMOTE_ADDR#<BR>";
+			message = message & "Referer: [#HTTP.REFERER#]<BR>";
+			if (IsDefined("Error.Type")) { message = message & "Catch Type: #ERROR.Type#<BR>"; }
+			if (IsDefined("SESSION.USERID") AND SESSION.USERID NEQ "" ) { message = message & "UserID : #SESSION.USERID#<BR>"; } else { message = message & "**USERID IS NULL **<BR>"; }
+			if (IsDefined("SESSION.FULLNAME")) { message = message & "User: <B>#SESSION.FULLNAME#</B><BR>"; }
+			if (IsDefined("SESSION.qSelectedHouse.iHouse_ID") AND SESSION.qSelectedHouse.iHouse_ID NEQ "") { message = message & "iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID#<BR>"; }
+			if (IsStruct("url") AND YesNoFormat(StructIsEmpty(url)) EQ 'NO') {
+				message = message & "URL VARIABLES: <BR>";
+				for( l=1; l LTE len(url); l=l+1){
+					message = message & #l# & '==' &  #Evaluate(url[l])# & '<BR>';
+				}
+			}
+			if (IsDefined("form.fieldnames")) {
+				for( i=1; i LTE Listlen(form.fieldnames); i=i+1){
+					message = message & "#ListGetAt(form.fieldnames,i,',')# == #Evaluate(ListGetAt(form.fieldnames,i,','))# <BR>";
+				}
+			}
+			if (isDefined("iTenant_id") AND iTenant_ID NEQ "") { message = message & "TenantID = " & iTenant_ID; }
+			message = message & 'Template path=' & gettemplatepath();
+			message = message & 'Time=' & now() & '<BR>***END***<BR><BR>';
+		</CFSCRIPT>
+
+		<CFMAIL TYPE="html" FROM="MidMonth-Message" TO="#session.developerEmailList#" SUBJECT="Error in MidMonth">
+			#SESSION.HouseName# : #SESSION.qSelectedHouse.iHouse_ID#<BR>generated by User: #SESSION.FULLNAME#<BR>
+			#message#<BR>
+			____________________________________________________
+		</CFMAIL>
+
+		<SCRIPT>alert("An error has occurred for the MidMonth Check. \r An email has been sent to the adminstrator."); </SCRIPT>
+	</CFCATCH>
+</CFTRY>
+
+<!--- ==============================================================================
+Retrieve House Month Information
+=============================================================================== --->
+<CFQUERY NAME = "HouseLog" DATASOURCE = "#APPLICATION.datasource#">
+	SELECT	* FROM HouseLog	WHERE iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID# AND dtRowDeleted IS NULL
+</CFQUERY>
+<!--- Project 20125/34423 modification. 06/10/2008 Sathya added this query to get house information  --->
+<!--- Retrive the house information --->
+<CFQUERY NAME = "House" DATASOURCE = "#APPLICATION.datasource#">
+SELECT	* FROM House WHERE iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID# AND dtRowDeleted IS NULL
+</CFQUERY>
+
+
+<!--- ==============================================================================
+Include intranet header
+=============================================================================== --->
+<CFINCLUDE TEMPLATE="../../header.cfm">
+
+<TITLE> Tips 4-Admin </TITLE>
+<BODY>
+<H1 CLASS="PageTitle"> Tips 4 - Administrative Tasks </H1>
+
+<!--- ==============================================================================
+Include TIPS header for the House
+=============================================================================== --->
+<CFINCLUDE TEMPLATE="../Shared/HouseHeader.cfm">
+
+<!--- KA 9/18/03: If user accessing page is NOT myself, Paul or Steve D., and ICNT is GT 0, send an email notifying us of the issue to look at --->
+<cfparam name="SESSION.Old_ICNT" default="0">
+<cfif ICNT GT SESSION.Old_ICNT>
+	<CFIF SESSION.USERID IS NOT 3025 AND SESSION.USERID is not 3271 AND SESSION.USERID is not 3146 AND SESSION.USERID is not 3240>
+		<!--- <cfmail to="KDeborde@alcco.com, SDavison@alcco.com, mlaw@alcco.com, BThomas@alcco.com" from="TIPS4-Message@alcco.com" subject="Mid Month check revealed an Invoice change">Check out House "#SESSION.qSelectedHouse.cName#" - an invoice has revealed a change showing up in the "Acknowledge Changes" area.
+
+		http://#server_name#/intranet/tips4/Admin/Menu.cfm
+		</cfmail> --->
+		<cfset SESSION.Old_ICNT = ICNT>
+	</CFIF>
+</cfif>
+
+<CFOUTPUT>
+<TABLE>
+	<TR><TH COLSPAN="3"> Administration	</TH></TR>
+	<TR>
+		<TD> Administrators - </TD>
+		<TD> Are you closing the month of #DateFormat(SESSION.TIPSMonth, "mmmm, yyyy")#? </TD>
+		<TD STYLE="width: 25%;">
+			<CFIF HouseLog.bIsPDclosed NEQ ""> 		
+				<CFSET Checked = 'Checked'>
+				<CFIF ListFindNoCase(session.CodeBlock,23) EQ 0>
+					Status: Closed
+				<CFELSE>
+					<INPUT TYPE="checkbox" NAME="pdclose" #Variables.Checked# onClick="wait(false,'PDClose.cfm');">
+				</CFIF>		
+			<CFELSE>
+				<CFSET Checked = ''>
+				<INPUT TYPE="checkbox" NAME="pdclose" #Variables.Checked# onClick="wait(true,'PDClose.cfm');">
+				Yes.
+			</CFIF>	
+		</TD>
+	</TR>
+
+	<CFIF listfindNocase(session.codeblock,23) GTE 1 AND HouseLog.bIsPDClosed GT 0>
+		<TR>
+			<TD> Accounting Close -	</TD> 
+			<TD> I have reviewed and approve the closing of #DateFormat(SESSION.TIPSMonth, "mmmm, yyyy")#	</TD>
+			<TD> 
+				<INPUT TYPE="checkbox" NAME="OpsReview" onClick="wait(true,'RDOClose.cfm')"> </TD>
+		</TR>
+	<CFELSEIF listfindNocase(session.codeblock,23) EQ 0>
+		<TR><TD COLSPAN="100%">Accounting Approval (available upon House Admin. Close)</TD></TR>
+	</CFIF>
+</TABLE>
+
+<!--- KA 9/18/03: Temporarily adding blockout of acknowledge changes area and complex billing area for SL Change pro-ration testing --->
+<!--- OR SESSION.USERID is 3240 OR SESSION.USERID is 3260 OR SESSION.USERID is 3243 OR SESSION.USERID is 3244 OR SESSION.USERID is 3245 OR SESSION.USERID is 3242 OR SESSION.USERID is 3097--->
+<!--- <CFIF SESSION.USERID IS 3025 OR SESSION.USERID is 3271 OR SESSION.USERID is 3146 OR SESSION.USERID is 3240> --->
+
+<CFIF IsDefined("ICNT") AND ICNT GT 0>
+	<FORM ACTION='ApproveChanges.cfm' METHOD='POST'>
+	<TABLE STYLE="text-align: right;">
+		<TR>
+			<TH NOWRAP STYLE="text-align:left;"> Trx </TH>
+			<TH NOWRAP STYLE="text-align:left;">Full Name</TH>
+			<TH NOWRAP STYLE="text-align:left;">Sol. Key</TH>
+			<TH NOWRAP STYLE="text-align:left;">Description</TH>
+			<TH NOWRAP STYLE="text-align:left;">Old Amt</TH>
+			<TH NOWRAP STYLE="text-align:left;">New Amt</TH>
+			<TH NOWRAP STYLE="text-align:left;">Period</TH>
+			<TH NOWRAP STYLE="text-align:left;">Action</TH>
+		</TR>
+		<!--- <TR><TD COLSPAN=100><CFDUMP VAR='#MidMonth#'></TD></TR> --->
+		<CFLOOP QUERY="MidMonth">
+			<CFQUERY NAME="MidMonthInfo" DATASOURCE="#APPLICATION.datasource#">
+				SELECT * FROM Tenant T WHERE T.dtRowDeleted IS NULL AND T.iTenant_ID = #MidMonth.iTenant_ID#
+			</CFQUERY>
+			<CFSCRIPT>
+				backcolor='';
+				if (MidMonth.RecordCount GT 2) {
+					if (Evaluate(MidMonth.currentRow MOD 2) EQ 1) { backcolor="STYLE='background: white;'"; }
+				}
+			</CFSCRIPT>
+			<INPUT TYPE='hidden' NAME='invoicemasterid_#midmonth.currentrow#' VALUE='#midmonth.iInvoiceMaster_ID#'>
+			<INPUT TYPE='hidden' NAME='itenantid_#midmonth.currentrow#' VALUE='#midmonth.itenant_id#'>
+			<INPUT TYPE='hidden' NAME='ichargetypeid_#midmonth.currentrow#' VALUE='#midmonth.ichargetype_id#'>
+			<INPUT TYPE='hidden' NAME='description_#midmonth.currentrow#' VALUE='#midmonth.cdescription#'>
+			<INPUT TYPE='hidden' NAME='action_#midmonth.currentrow#' VALUE='#midmonth.caction#'>
+			<INPUT TYPE='hidden' NAME='inewquantity_#midmonth.currentrow#' VALUE='#midmonth.inewquantity#'>
+			<INPUT TYPE='hidden' NAME='ioldquantity_#midmonth.currentrow#' VALUE='#midmonth.ioldquantity#'>
+			<INPUT TYPE='hidden' NAME='mnewamount_#midmonth.currentrow#' VALUE='#midmonth.mnewamount#'>
+			<INPUT TYPE='hidden' NAME='moldamount_#midmonth.currentrow#' VALUE='#midmonth.moldamount#'>
+			<INPUT TYPE='hidden' NAME='comments_#midmonth.currentrow#' VALUE='#midmonth.ccomments#'>
+			<INPUT TYPE='hidden' NAME='newdetailid_#midmonth.currentrow#' VALUE='#midmonth.newdetailid#'>
+			<INPUT TYPE='hidden' NAME='olddetailid_#midmonth.currentrow#' VALUE='#midmonth.olddetailid#'>
+			<INPUT TYPE='hidden' NAME='ihouseid_#midmonth.currentrow#' VALUE='#midmonth.ihouse_id#'>
+			<INPUT TYPE='hidden' NAME='cappliestoacctperiod_#midmonth.currentrow#' VALUE='#midmonth.cappliestoacctperiod#'>
+			<TR>
+				<TD #backcolor# STYLE="text-align: left"><INPUT TYPE='checkbox' NAME='row_#midmonth.currentrow#' VALUE='#midmonth.currentrow#' checked onClick='approvebutton();'></TD>
+				<TD #backcolor# NOWRAP STYLE="text-align: left">#MidMonthInfo.cLastName#, #MidMonthInfo.cFirstName#</TD>
+				<TD #backcolor# STYLE="text-align: left">#MidMonthInfo.cSolomonKey#</TD>
+				<TD #backcolor# NOWRAP STYLE="text-align: left">#MidMonth.cDescription#</TD>
+				<TD #backcolor# >#LSCurrencyFormat(MidMonth.OldAmount)#</TD>
+				<TD #backcolor# >#LSCurrencyFormat(MidMonth.NewAmount)#</TD>
+				<TD #backcolor# STYLE="text-align: left">#MidMonth.cAppliesToAcctPeriod#</TD>
+				<TD #backcolor# NOWRAP STYLE="text-align: left">#MidMonth.cAction#</TD>
+			</TR>
+		</CFLOOP>
+		<TR>
+			<TD COLSPAN="#Len(MidMonth.ColumnList)#" STYLE="text-align: center;">
+			<!--- KA 9/18/03: Temporarily disabling acknowledge changes button for SL change Pro-ration testing --->
+				<!--- <INPUT TYPE="BUTTON" NAME="UpdateMonth" VALUE="Acknowledge Changes" STYLE="color: blue;" onClick="location.href='MidMonth.cfm'"> --->
+			</TD>
+		</TR>
+		<TR><TD COLSPAN=100 STYLE='text-align:center;'><INPUT TYPE='submit' NAME='SubmitChoices' VALUE='Approve Selected Changes'></TD></TR>
+	</TABLE>
+	</FORM>
+<CFELSEIF IsDefined("ICNT") AND ICNT is not "" AND ICNT LT 0>
+	<CFSET InvalidPointsCount = iCnt * -1>
+	<CFSET backcolor=''>
+	<TABLE STYLE="text-align: center;">
+		<TR><TH COLSPAN=4>WARNING:<br>#InvalidPointsCount# residents have invalid points for their service level.<br>System charges can not be checked until these points are corrected.</TH></TR>
+		<TR>
+			<TH NOWRAP STYLE="text-align: left">Full Name</TH>
+			<TH NOWRAP>Sol. Key</TH>
+			<TH NOWRAP>Service Set</TH>
+			<TH NOWRAP>Points</TH>
+		</TR>
+		<CFLOOP QUERY="MidMonth">
+			<!--- Katie: 6/28/05: commenting out for oldbirch so can run page --->
+			<cfif server_name is not "Oldbirch">
+			<TR>
+				<TD #backcolor# NOWRAP STYLE="text-align: left">#MidMonth.cLastName#, #MidMonth.cFirstName#</TD>
+				<TD #backcolor# >#MidMonth.cSolomonKey#</TD>
+				<TD #backcolor# NOWRAP>#MidMonth.CSLevelTypeSet#</TD>
+				<TD #backcolor# >#MidMonth.iSPoints#</TD>
+			</TR>
+			</cfif>
+		</CFLOOP>
+	</TABLE>
+<CFELSE>
+	<TABLE STYLE="text-align: center;">
+		<TR><TH>System charges are up to date.</TH></TR>
+	</TABLE>
+</CFIF><!--- <BR>
+
+<CFIF IsDefined("ComplexCatchUp.recordcount") AND ComplexCatchUp.recordcount AND NOT (IsDefined("ICNT") AND ICNT LT 0)>
+	<TABLE STYLE="text-align: right;">
+		<TR><TH COLSPAN = "5" STYLE="text-align: center;">Residents With Complex Catch-up Billing</TH></TR>
+		<TR>
+			<TH STYLE="background:gainsboro;color:navy;">Full Name</TH>
+			<TH STYLE="background:gainsboro;color:navy;">Resident ID</TH>
+			<TH STYLE="background:gainsboro;color:navy;">Solomon Key</TH>
+			<TH STYLE="background:gainsboro;color:navy;">Apt Number</TH>
+			<TH STYLE="background:gainsboro;color:navy;">Complexity Reason</TH>
+		</TR>
+
+		<CFLOOP QUERY="ComplexCatchUp">
+			<CFQUERY NAME="CatchUpInfo" DATASOURCE="#APPLICATION.datasource#">
+				SELECT * FROM Tenant T WHERE T.dtRowDeleted IS NULL AND T.iTenant_ID = #ComplexCatchUp.iTenant_ID#
+			</CFQUERY>
+			<TR>
+				<TD>#CatchUpInfo.cLastName#, #CatchUpInfo.cFirstName#</TD>
+				<TD>#CatchUpInfo.iTenant_ID#</TD>
+				<TD>#CatchUpInfo.cSolomonKey#</TD>
+				<TD>#ComplexCatchUp.cAptNumber#</TD>
+				<TD><A HREF="/intranet/TIPS4/Reports/ActivityLogSummaryReport.cfm?ID=#CatchUpInfo.iTenant_ID#">#ComplexCatchUp.cReason#</A></TD>
+			</TR>
+		</CFLOOP>
+	</TABLE>
+<CFELSE>
+	<TABLE STYLE="text-align: center;"><TR><TH>No complex catchup billing issues found.</TH></TR></TABLE>
+</CFIF> --->
+<!---</CFIF> ---> <!--- end of temporary disable of acknowledge changes and complex billing areas --->
+
+<BR>
+<CFIF listfindNocase(session.codeblock,25) GTE 1>
+	<TABLE>
+		<TR><TH COLSPAN="2" STYLE="text-align: left;">	FOR ADMINISTRATIVE USE ONLY: </TH></TR>
+		<CFIF (IsDefined("SESSION.USERID") AND ( SESSION.USERID EQ 3240 OR SESSION.userid eq 3307
+			OR SESSION.USERID eq 3025 OR SESSION.USERID eq 3146 ) )>
+		<TR>
+			<TD COLSPAN=2>
+				<FORM ACTION="KeyChange.cfm" METHOD="POST">
+					<TABLE STYLE="text-align: center; border: 1px solid gray;">
+						<TR><TH COLSPAN=4 STYLE="background:gainsboro;color:navy;"> Solomon Key Change </TH></TR>
+						<TR>
+							<!--- ==============================================================================
+							Retrieve all valid Solomon Keys for keychange
+							=============================================================================== --->
+							<CFQUERY NAME="qTenant" DATASOURCE="#APPLICATION.datasource#">
+								SELECT	(T.cLastName+', '+T.cFirstName) as FullName, T.cSolomonKey, T.iTenant_ID
+								FROM Tenant T
+								JOIN TenantState TS	ON (TS.iTenant_ID = T.iTenant_ID AND TS.dtRowDeleted IS NULL)
+								WHERE T.dtRowDeleted IS NULL
+								AND T.iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID#
+								AND TS.iTenantStateCode_ID = 2
+								ORDER BY T.cLastName
+							</CFQUERY>
+							<TD> Please Choose Person to Change </TD>
+							<TD> Please Choose Solomon Key To Change To:</TD>
+						</TR>
+						<TR>
+							<TD><SELECT NAME="cSolomonKey"><CFLOOP QUERY="qTenant"><OPTION VALUE="#qTenant.cSolomonKey#"> #qTenant.FullName# / #qTenant.cSolomonKey# </OPTION></CFLOOP></SELECT></TD>
+							<TD><SELECT NAME="AssociateTo"><CFLOOP QUERY="qTenant"><OPTION VALUE="#qTenant.cSolomonKey#"> #qTenant.cSolomonKey# / #qTenant.FullName# </OPTION></CFLOOP></SELECT></TD>
+						</TR>
+						<TR><TD COLSPAN=2><INPUT TYPE="Submit" NAME="KeyChange" VALUE="Run Key Change" STYLE="color: green;"></TD></TR>
+					</TABLE>
+				</FORM>
+			</TD>
+		</TR>
+		</CFIF>
+		<TR>
+		<TD><A HREF="../DataTableMaintenance/House/House.cfm">  House Administration </A></TD>
+		<TD>
+		<a href="reImportInv.cfm" target="_mimo">Re-import Move-in or Move-out</a><br>
+		<a href="missedMonthlyImports.cfm" target="_month">Re-import Monthly Invoices</a>
+		</TD>
+		</TR>
+		<TR>
+			<!--- <TD><A HREF="../DataTableMaintenance/DepositType/DepositType.cfm"> Deposit Type Administration</A></TD> --->
+			<TD><A href="../DataTableMaintenance/ActivityLog/ActivityCodes/ActivityCodes.cfm"> Activity Codes </A></TD>
+			<TD><A HREF="../DataTableMaintenance/Region/Region.cfm">  Region Administration </A></TD>
+		</TR>
+		<TR>
+			<TD><A href="../DataTableMaintenance/TenantStateCodes/TenantStateCodes.cfm"> Resident State Codes </A></TD>
+			<TD><A href="../DataTableMaintenance/OPSAreas/OPSAreas.cfm"> OPS Areas Administration </A></TD>
+		</TR>
+		<TR>
+			<CFSET colspan=1>
+			<CFSET authlist='ALC\PaulB,ALC\KDeborde,ALC\StephenD,ALC\SteveA,ALC\GloryC,ALC\KennethD,ALC\BThomas'>
+			<CFIF listfindnocase(authlist,auth_user,",") GT 0 OR listfindNocase(session.codeblock,25) GTE 1>
+				<TD><A href="../DataTableMaintenance/ChargeType/ChargeType.cfm"> Charge Types </A></TD>
+				<CFSET colspan=2>
+			</CFIF>
+			<TD #colspan#><A href="../DataTableMaintenance/Charges/DepositCharges.cfm">  House Specific Deposits </A></TD>
+		</TR>
+		<TR>
+			<TD><A href="../DataTableMaintenance/Charges/Charges.cfm?Insert=1&ID=general">  General Charges </A> </TD>
+			<TD><A href="../DataTableMaintenance/Charges/Charges.cfm?Insert=1&ID=House">  House Specific Charges </A></TD>
+		</TR>
+		<TR>
+			<TD><A HREF="../DataTableMaintenance/MoveOutReasons/MoveOutReasons.cfm">  Move Out Reasons Administration </A></TD>
+			<TD><A HREF="../DataTableMaintenance/House/HouseApts.cfm">House AptType Assignment</A></TD>
+		</TR>
+		<TR>
+			<!--- <TD><A HREF="ChargesProposed.cfm">Proposed Rate Administration</A></TD> --->
+			<CFIF SESSION.userid eq 3025 OR SESSION.userid eq 3146 OR SESSION.userid eq 36 OR SESSION.userid eq 3271 OR listfindNocase(session.codeblock,25) GTE 1>
+				<TD><A HREF="ResidentCareAdministration.cfm">Resident Care Administration</A></TD>
+			</CFIF>
+			<TD><a href="ControlFiles\ctl_ManageGlCodes.cfm">Manage Room Type GL Code Mappings</a></TD>
+		</TR>
+		<CFIF SESSION.userid eq 3025 OR SESSION.userid eq 3146 OR SESSION.userid eq 36 OR SESSION.userid eq 3271 OR listfindNocase(session.codeblock,25) GTE 1><!--- 25 is Sr. Acct--->
+			<TR><TD><A HREF="RoomAndBoardAdministration.cfm">Room & Board Administration</A></TD>
+			<!--- Proj 20125 - promotion link --->
+			<TD><A HREF="TenantPromotions.cfm">Promotions </A></TD>
+			</TR>
+		</CFIF>
+		<TR>
+			<TD>
+				<!--- Proj 42877 - RTS 9/15/2009 - Invoice Details Admin --->
+				<!--- 42593 RTS 11/4/09 AR allowed access, 11/5/09 access taken away --->
+			<CFIF ListContains(SESSION.codeblock, '19') or ListContains(SESSION.groupid, '240')>  <!--- (SESSION.groupid, '240') gt 0 (SESSION.groupid, '1') gt 0--->
+				<A HREF="InvoiceAdmin.cfm">Invoice Administration</A>
+			</CFIF>
+			</TD>
+			<!--- Proj 26955 BOND Rschuette 2/25/2009 Limited access to Bond Admin group (284) --->
+			<CFIF ListContains(SESSION.groupid, '284')>
+				<TD><A HREF="BondInfo.cfm">Bond Administration</A></TD>
+			 </CFIF> 
+		</TR>
+		<!--- 06/23/2010 Project 20933 Sathya Start of code change --->
+		<!--- 02/26/2010 sathya added this as per project 20933 late fee Only the AR analyst and AR Admin
+							240 is Ar Admin and 192 is AR can see this section --->
+		<cfif (ListContains(session.groupid,'240') gt 0) or (ListContains(session.groupid,'192') gt 0)> 
+       
+		<tr>
+			
+			<TD><A HREF="LateFeeExemptTenants.cfm">Late Fee Information</A></TD>
+			
+			<!--- 07/16/2010 Project 20933-PartB Sathya Added Current list of late fee  --->
+			<TD><A HREF="CurrentLateFee.cfm">List of Current Late Fee</A></TD>
+			 <!--- 07/16/2010 Project 20933-PartB ENd of code --->
+		
+		</tr>
+		</cfif> 
+		<!--- 06/23/2010 Project 20933 ENd --->
+		<!--- Proj 42573 - 10/9/09 rts - Closed Account MO Date change --->
+		<cfif listcontains(session.groupid,'285')>
+		<TR>
+			<TD>
+			<a href="TenantDateAdjustments.cfm">Closed Account Date Admin</a>
+			</TD>
+			<TD>
+			</TD>
+		</TR>
+		</cfif>
+		<TR>
+			<TD>
+				<form name="updatehouselog">
+					<tr>
+					<td>
+						<input name="checkboxCentralized" type="checkbox" onclick="updateHouseLog(this)" <cfif HouseLog.bIsCentralized eq 1> checked </cfif>/> Centralize Invoice Report 
+					</td>
+					</tr>
+					<tr>
+					<td>
+						<font color="red" size="2">
+						<div name="messageBox" id="messageBox">&nbsp;</div>
+						</font>
+					</td>
+					</tr>
+				</form>			
+			</TD>
+		</TR>
+	</TABLE>
+<CFELSEIF listfindNocase(session.codeblock,23) GTE 1><!--- 23 is AR --->
+	<TABLE>
+		<TH COLSPAN="2" STYLE="text-align: left;"> FOR ADMINISTRATIVE USE ONLY: </TH>
+		<CFIF (IsDefined("SESSION.USERID") AND ( SESSION.USERID EQ 3227 OR SESSION.USERID EQ 3240
+			OR SESSION.USERID eq 3025 OR SESSION.USERID eq 3146 ))>
+		<TR>
+			<TD COLSPAN=2>
+				<FORM ACTION="KeyChange.cfm" METHOD="POST">
+					<TABLE STYLE="text-align: center;">
+						<TR><TH COLSPAN=4 STYLE="background:gainsboro;color:navy;"> Solomon Key Change </TH></TR>
+						<TR>
+							<!--- ==============================================================================
+							Retrieve all valid Solomon Keys for keychange
+							=============================================================================== --->
+							<CFQUERY NAME="qTenant" DATASOURCE="#APPLICATION.datasource#">
+								SELECT	(T.cLastName+', '+T.cFirstName) as FullName, T.cSolomonKey, T.iTenant_ID
+								FROM	Tenant T
+								JOIN	TenantState TS	ON (TS.iTenant_ID = T.iTenant_ID AND TS.dtRowDeleted IS NULL)
+								WHERE	T.dtRowDeleted IS NULL
+								AND	T.iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID# AND TS.iTenantStateCode_ID = 2
+								ORDER BY T.cLastName
+							</CFQUERY>
+							<TD> Please Choose Person to Change </TD>
+							<TD> Please Choose Solomon Key To Change To:</TD>
+						</TR>
+						<TR>
+							<TD><SELECT NAME="cSolomonKey"><CFLOOP QUERY="qTenant"><OPTION VALUE="#qTenant.cSolomonKey#"> #qTenant.FullName# / #qTenant.cSolomonKey# </OPTION></CFLOOP></SELECT></TD>
+							<TD><SELECT NAME="AssociateTo"><CFLOOP QUERY="qTenant"><OPTION VALUE="#qTenant.cSolomonKey#"> #qTenant.cSolomonKey# / #qTenant.FullName# </OPTION></CFLOOP></SELECT></TD>
+						</TR>
+						<TR><TD COLSPAN=2><INPUT TYPE="Submit" NAME="KeyChange" VALUE="Run Key Change" STYLE="color: green;"></TD></TR>
+					</TABLE>
+				</FORM>
+			</TD>
+		</TR>
+		</CFIF>
+		<TR><TD><A  HREF="../DataTableMaintenance/House/House.cfm">  House Administration</A></TD></TR>
+		<!----
+		Restrict AR access to Senior only -- according to Kenneth
+		-Paul Buendia 3.23.04
+
+			<TR><TD><A href="../DataTableMaintenance/Charges/DepositCharges.cfm">  House Specific Deposits </A></TD></TR>
+			<TR><TD><A href="../DataTableMaintenance/Charges/Charges.cfm?Insert=1&ID=House">  House Specific Charges </A></TD></TR>
+		---->
+		<TR><TD><!--- <A HREF="ChargesProposed.cfm">Proposed Rate Administration</A> ---></TD></TR>
+		<CFIF isDefined("SESSION.AccessRights") AND SESSION.AccessRights EQ 'iDirectorUser_id'>
+		<!--- Katie disabling access for RDOs 7/6/2005:
+			<TR><TD><A HREF="ResidentCareAdministration.cfm">Resident Care Administration</A></TD></TR>
+			<TR><TD><A HREF="RoomAndBoardAdministration.cfm">Room & Board Administration</A></TD></TR>
+		--->
+		</CFIF>
+	</TABLE>
+<CFELSE>
+	<TABLE>
+		<TR><TH COLSPAN="2" STYLE="text-align: left;"> FOR ADMINISTRATIVE USE: </TH></TR>
+		<!--- <TR><TD><A HREF="ChargesProposed.cfm">Proposed Rate Administration</A></TD></TR> --->
+		<!--- OR (isDefined("SESSION.CodeBlock") AND listfindNocase(session.codeblock,21) GTE 1) --->
+		<CFIF isDefined("SESSION.AccessRights") AND SESSION.AccessRights EQ 'iDirectorUser_id'
+			OR (isDefined("SESSION.CodeBlock") AND listfindNocase(session.codeblock,25) GTE 1) >
+			<!--- OR (isDefined("SESSION.CodeBlock") AND listfindNocase(session.codeblock,21) GTE 1) --->
+			<!--- Katie disabling access for RDOs 7/6/2005:
+			<TR><TD><A HREF="ResidentCareAdministration.cfm">Resident Care Administration</A></TD></TR>
+			<TR><TD><A HREF="RoomAndBoardAdministration.cfm">Room & Board Administration</A></TD></TR>
+			--->
+		</CFIF>
+		<TABLE STYLE="text-align: center; border: 1px solid gray;">
+		<TR><TD colspan="2"></TD>
+		<!--- Proj 26955 BOND Rschuette 2/25/2009 Limited access to Bond Admin group (285) --->
+		<CFIF ListContains(SESSION.groupid, '284')>
+			<TD colspan="2"><A HREF="BondInfo.cfm">Bond Administration</A></TD>
+		 </CFIF> 
+		</TR>
+		</TABLE>
+	</TABLE>
+</CFIF>
+<!--- Proj 35227 - RTS - MI AutoApply RecurringCharges --->
+</br>
+<TABLE>
+		<tr><th colspan="3" style="center"> ADMINISTRATION OVER ALL HOUSES </th></tr>
+		<tr>
+			<td>
+				<cfif listcontains(session.groupid,'285')>
+				<a href="DisplayFiles/dsp_HouseAutoApplyMIChargeSelection.cfm">House Auto-Apply MI Charge Admin </a>
+				</cfif>
+			</td>
+			<td>
+				<!--- 51267 - RTS - 4/8/2010 MO Codes  - 1381: DEV AR_MASTER_ADMIN --->
+				<cfif ListContains(SESSION.groupid, '285')>
+					<A HREF="../DataTableMaintenance/MoveOutLocations/MoveOutLocations.cfm">Move Out Location Admin</A>
+				</cfif>
+				<!--- end 51267 --->
+			</td>
+		<tr>
+			<td>
+			<!--- 4/21/2010 - RTS - 53842 TenantPointDifferences  - IT (1) & AR Master Admin (dev1381 or prod285)--->
+			<CFIF ListFindNoCase(SESSION.groupid, '1')or ListContains(SESSION.groupid, '285')> 
+				<A HREF="../DataTableMaintenance/PointDifferences/TenantPointDifferences.cfm">Tenant Point Difference Admin</A>
+			</cfif>
+			</td>
+			<!--- end 53842 --->
+		</tr>
+		</tr>
+</TABLE>
+<!--- End 35227 --->
+<!---Project 20125/34423 modification. 06/10/08 Ssathya Only the AR analyst can declare the house as bond house  --->
+ 
+	<BR>
+	<A Href="../../../intranet/Tips4/MainMenu.cfm" style="Font-size: 18;">Click Here to Go Back To Main Screen</a>
+</CFOUTPUT>
+<SCRIPT>
+function approvebutton() {
+	counter=0;
+	for (t=0;t<=document.forms[0].elements.length-1;t++){
+		if (document.forms[0].elements[t].checked == true) { counter=counter+1; }
+	}
+	if (counter == 0) { document.forms[0].SubmitChoices.disabled = true; }
+	else { document.forms[0].SubmitChoices.disabled = false; }
+}
+</SCRIPT>
+<!--- ==============================================================================
+Include Intranet footer
+=============================================================================== --->
+<CFINCLUDE TEMPLATE='../../Footer.cfm'>
+</cfoutput>

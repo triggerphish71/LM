@@ -1,0 +1,6 @@
+BATCH,,201801,B,2710.0000,
+INVOICE,IN,,53310321,,01/01/2018,1532.0000,"Invoice-Private",,01/01/2018,01/10/2018,,53318630MO,354.0000,,,,,,,,,,
+TRANSACTION,3020,010019533,14,38.0000,532.00,"Basic Service Fee- One Bedroom Premium  for Jan: Wesenberg, Donald ",,,,,,,,,,,,,,,
+TRANSACTION,3216,010019533,1,1000.0000,1000.00,"Deferred NRF Unpaid Balance: Wesenberg, Donald ",,,,,,,,,,,,,,,
+INVOICE,CM,,53310321,,01/01/2018,1178,"Invoice-Private",,01/01/2018,01/10/2018,,53318630MO,354.0000,,,,,,,,,,
+TRANSACTION,3020,010019533,1,1178,1178,"CR:Basic Service F... D.Wesenberg 201801: Wesenberg, Donald ",,,,,,,,,,,,,,,

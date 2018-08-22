@@ -1,0 +1,5 @@
+BATCH,,201307,B,60.0000,
+INVOICE,IN,,14910184,,07/01/2013,30.0000,"Invoice-Private",,07/01/2013,07/10/2013,,14915096MO,-6224.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Glackin, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,14910184,,07/01/2013,30,"Invoice-Private",,07/01/2013,07/10/2013,,14915096MO,-6224.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Glackin, Joan",,,,,,,,,,,,,,,

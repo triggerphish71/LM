@@ -1,0 +1,8 @@
+BATCH,,201110,B,7860.0000,
+INVOICE,IN,,13710170,,10/01/2011,3335.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13714102MO,-1190.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,23,110.0000,2530.00,"Basic Service Fee - One Bedroom for Oct: Feazel, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,23,35.0000,805.00,"Resident Care - Level 2 for Oct: Feazel, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,13710170,,10/01/2011,4525,"Invoice-Private",,10/01/2011,10/10/2011,,13714102MO,-1190.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,3410,3410,"CR:Basic Service F... G.Feazel 201110: Feazel, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... G.Feazel 201110: Feazel, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1085,1085,"CR:Resident Care -... G.Feazel 201110: Feazel, Glenn",,,,,,,,,,,,,,,

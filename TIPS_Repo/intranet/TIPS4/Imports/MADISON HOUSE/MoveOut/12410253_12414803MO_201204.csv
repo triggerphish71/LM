@@ -1,0 +1,8 @@
+BATCH,,201204,B,6458.0000,
+INVOICE,IN,,12410253,,04/25/2012,3068.0000,"Invoice-Private",,04/25/2012,04/25/2012,,12414803MO,-3573.9000,,,,,,,,,,
+TRANSACTION,3312,010211124,1,243.0000,243.00,"CR:Two Room Rental... A.Downing 201204: Downing, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211124,25,81.0000,2025.00,"Basic Service Fee - Studio for Apr: Downing, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,25,32.0000,800.00,"Resident Care - Level 2 for Apr: Downing, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,12410253,,04/25/2012,3390,"Invoice-Private",,04/25/2012,04/25/2012,,12414803MO,-3573.9000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2430,2430,"CR:Basic Service F... A.Downing 201204: Downing, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,960,960,"CR:Resident Care -... A.Downing 201204: Downing, Audrey",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,60.0000,
+INVOICE,IN,,50110255,,06/01/2012,30.0000,"Invoice-Private",,06/01/2012,06/10/2012,,50114093MO,-4962.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Nurrenbern, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,50110255,,06/01/2012,30,"Invoice-Private",,06/01/2012,06/10/2012,,50114093MO,-4962.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Nurrenbern, Carolyn",,,,,,,,,,,,,,,

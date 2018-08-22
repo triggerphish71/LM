@@ -1,0 +1,7 @@
+BATCH,,201207,B,6832.0000,
+INVOICE,IN,,02310188,,07/30/2012,3360.0000,"Invoice-Private",,07/30/2012,07/30/2012,,02314984MO,-3584.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,30,95.0000,2850.00,"Basic Service Fee - Studio for Jul: Campbell, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,30,17.0000,510.00,"Resident Care - Level 1 for Jul: Campbell, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,02310188,,07/30/2012,3472,"Invoice-Private",,07/30/2012,07/30/2012,,02314984MO,-3584.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2945,2945,"CR:Basic Service F... L.Campbell 201207: Campbell, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,527,527,"CR:Resident Care -... L.Campbell 201207: Campbell, Lois",,,,,,,,,,,,,,,

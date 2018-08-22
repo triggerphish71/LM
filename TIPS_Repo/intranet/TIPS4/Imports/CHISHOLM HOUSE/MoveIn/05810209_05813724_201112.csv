@@ -1,0 +1,5 @@
+BATCH,,201112,B,2911.0000,
+INVOICE,IN,,05810209,,12/09/2011,2911.0000,"MoveIn-Fry. Douglas",,12/09/2011,12/09/2011,,05813724,2911.0000,,,,,,,,,,
+TRANSACTION,3010,010202058,23,82.0000,1886,"Basic Service Fee - Studio: Fry. Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25,"Monthly Cable: Fry. Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000.0000,1000,"New Resident Fee: Fry. Douglas",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,3568.0000,
+INVOICE,IN,,13810211,,02/16/2012,3568.0000,"MoveIn-Wilfong. Dale",,02/16/2012,02/16/2012,,13814883,7040.0000,,,,,,,,,,
+TRANSACTION,3010,010309138,14,96.0000,1344,"Basic Service Fee - Studio: Wilfong. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309138,14,16.0000,224,"Resident Care - Level 1: Wilfong. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309138,1,2000.0000,2000,"New Resident Fee: Wilfong. Dale",,,,,,,,,,,,,,,

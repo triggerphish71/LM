@@ -1,0 +1,5 @@
+BATCH,,201307,B,3050.0000,
+INVOICE,IN,,09410318,,07/12/2013,3050.0000,"MoveIn-Strope. Doris",,07/12/2013,07/12/2013,,09416454,3050.0000,,,,,,,,,,
+TRANSACTION,3010,010107094,20,98.0000,1960,"Basic Service Fee - Studio: Strope. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107094,20,17.0000,340,"Resident Care - Level 1: Strope. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107094,1,750.0000,750,"New Resident Fee: Strope. Doris",,,,,,,,,,,,,,,

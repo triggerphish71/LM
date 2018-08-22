@@ -1,0 +1,6 @@
+BATCH,,201203,B,4711.0000,
+INVOICE,IN,,02411300,,03/01/2012,1673.0000,"Invoice-Private",,03/01/2012,03/01/2012,,02415622MO,-1365.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,1085.0000,1085.00,"CR:Limited Term Di... D.Owens 201203: Owens, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,6,98.0000,588.00,"Basic Service Fee - Studio for Mar: Owens, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02411300,,03/01/2012,3038,"Invoice-Private",,03/01/2012,03/01/2012,,02415622MO,-1365.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3038,3038,"CR:Basic Service F... D.Owens 201203: Owens, Dorothy",,,,,,,,,,,,,,,

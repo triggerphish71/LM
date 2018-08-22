@@ -1,0 +1,5 @@
+BATCH,,201204,B,2640.0000,
+INVOICE,IN,,09410294,,04/26/2012,2640.0000,"MoveIn-Student. Otto",,04/26/2012,04/26/2012,,09415920,6608.0000,,,,,,,,,,
+TRANSACTION,3010,010107094,5,98.0000,490,"Basic Service Fee - Studio: Student. Otto",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107094,5,30.0000,150,"Resident Care - Level 2: Student. Otto",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107094,1,2000.0000,2000,"New Resident Fee: Student. Otto",,,,,,,,,,,,,,,

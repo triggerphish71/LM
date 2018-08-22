@@ -1,0 +1,8 @@
+BATCH,,201207,B,7550.0000,
+INVOICE,IN,,08310165,,07/01/2012,2249.0000,"Invoice-Private",,07/01/2012,07/01/2012,,08314136MO,-3052.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,1736.0000,1736.00,"CR:Limited Term Di... A.Tamburro 201207: Tamburro, Annetta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,3,106.0000,318.00,"Basic Service Fee - Studio for Jul: Tamburro, Annetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,3,65.0000,195.00,"Resident Care - Level 4 for Jul: Tamburro, Annetta",,,,,,,,,,,,,,,
+INVOICE,CM,,08310165,,07/01/2012,5301,"Invoice-Private",,07/01/2012,07/01/2012,,08314136MO,-3052.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3286,3286,"CR:Basic Service F... A.Tamburro 201207: Tamburro, Annetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,2015,2015,"CR:Resident Care -... A.Tamburro 201207: Tamburro, Annetta",,,,,,,,,,,,,,,

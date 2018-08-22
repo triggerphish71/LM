@@ -1,0 +1,7 @@
+BATCH,,201208,B,4388.2400,
+INVOICE,IN,,09810274,,08/01/2012,808.3600,"Invoice-Private",,08/01/2012,08/10/2012,,09814740MO,-2771.5200,,,,,,,,,,
+TRANSACTION,3020,010103098,7,94.0000,658.00,"Basic Service Fee - Studio for Aug: Pforsich, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,7,21.4800,150.36,"Resident Care - Level 12 for Aug: Pforsich, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,09810274,,08/01/2012,3579.88,"Invoice-Private",,08/01/2012,08/10/2012,,09814740MO,-2771.5200,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2914,2914,"CR:Basic Service F... B.Pforsich 201208: Pforsich, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,665.88,665.88,"CR:Resident Care -... B.Pforsich 201208: Pforsich, Bob",,,,,,,,,,,,,,,

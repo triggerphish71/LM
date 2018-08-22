@@ -1,0 +1,5 @@
+BATCH,,201107,B,5920.0000,
+INVOICE,IN,,14810309,,07/01/2011,5920.0000,"July_Rent-Thompson. Jerome",,07/01/2011,07/10/2011,,14814597,7140.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,31,111.0000,3441,"Basic Service Fee - One Bedroom    : Thompson. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,31,79.0000,2449,"Resident Care - Level 6: Thompson. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Thompson. Jerome",,,,,,,,,,,,,,,

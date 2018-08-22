@@ -1,0 +1,8 @@
+BATCH,,201209,B,6588.0000,
+INVOICE,IN,,06510188,,09/01/2012,1368.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06514779MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1020.0000,1020.00,"CR:Limited Term Di... O.Warren 201209: Warren, Oleta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,2,99.0000,198.00,"Basic Service Fee - Studio for Sep: Warren, Oleta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,2,75.0000,150.00,"Resident Care - Level 4 for Sep: Warren, Oleta",,,,,,,,,,,,,,,
+INVOICE,CM,,06510188,,09/01/2012,5220,"Invoice-Private",,09/01/2012,09/10/2012,,06514779MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2970,2970,"CR:Basic Service F... O.Warren 201209: Warren, Oleta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,2250,2250,"CR:Resident Care -... O.Warren 201209: Warren, Oleta",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,6528.0000,
+INVOICE,IN,,15810290,,11/01/2011,2448.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15814279MO,-1632.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,18,92.0000,1656.00,"Basic Service Fee - Studio for Nov: Hynek, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,18,44.0000,792.00,"Resident Care - Level 3 for Nov: Hynek, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,15810290,,11/01/2011,4080,"Invoice-Private",,11/01/2011,11/10/2011,,15814279MO,-1632.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2760,2760,"CR:Basic Service F... M.Hynek 201111: Hynek, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1320,1320,"CR:Resident Care -... M.Hynek 201111: Hynek, Marian",,,,,,,,,,,,,,,

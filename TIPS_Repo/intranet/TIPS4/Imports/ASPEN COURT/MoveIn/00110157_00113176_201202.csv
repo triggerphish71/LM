@@ -1,0 +1,6 @@
+BATCH,,201202,B,4105.3800,
+INVOICE,IN,,00110157,,02/01/2012,4105.3800,"MoveIn-Crow. Beth",,02/01/2012,02/01/2012,,00113176,4105.3800,,,,,,,,,,
+TRANSACTION,3010,010101001,29,74.0000,2146,"Basic Service Fee - Studio: Crow. Beth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,29,32.2200,934.38,"Resident Care - Level 18: Crow. Beth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Crow. Beth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Crow. Beth",,,,,,,,,,,,,,,

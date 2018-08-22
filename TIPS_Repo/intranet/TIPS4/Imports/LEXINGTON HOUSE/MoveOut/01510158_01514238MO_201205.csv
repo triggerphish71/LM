@@ -1,0 +1,8 @@
+BATCH,,201205,B,6300.6200,
+INVOICE,IN,,01510158,,05/01/2012,2719.1900,"Invoice-Private",,05/01/2012,05/10/2012,,01514238MO,-862.2400,,,,,,,,,,
+TRANSACTION,3320,010103015,1,62.0000,62.00,"CR:Limited Term Di... C.Payne 201205: Payne, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,23,103.0000,2369.00,"Basic Service Fee - One Bedroom for May: Payne, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,23,12.5300,288.19,"Resident Care - Level 7 for May: Payne, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,01510158,,05/01/2012,3581.43,"Invoice-Private",,05/01/2012,05/10/2012,,01514238MO,-862.2400,,,,,,,,,,
+TRANSACTION,3020,010103015,1,3193,3193,"CR:Basic Service F... C.Payne 201205: Payne, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,388.43,388.43,"CR:Resident Care -... C.Payne 201205: Payne, Carol",,,,,,,,,,,,,,,

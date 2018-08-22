@@ -1,0 +1,6 @@
+BATCH,,201107,B,4650.0000,
+INVOICE,IN,,08610191,,07/01/2011,961.0000,"Invoice-Private",,07/01/2011,07/10/2011,,08614429MO,-1905.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,961.0000,961.00,"CR:Limited Term Di... P.Pickenpaugh 201107: Pickenpaugh, Pansy",,,,,,,,,,,,,,,
+INVOICE,CM,,08610191,,07/01/2011,3689,"Invoice-Private",,07/01/2011,07/10/2011,,08614429MO,-1905.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2666,2666,"CR:Basic Service F... P.Pickenpaugh 201107: Pickenpaugh, Pansy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1023,1023,"CR:Resident Care -... P.Pickenpaugh 201107: Pickenpaugh, Pansy",,,,,,,,,,,,,,,

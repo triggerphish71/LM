@@ -1,0 +1,7 @@
+BATCH,,201303,B,3802.0000,
+INVOICE,IN,,19810249,,03/01/2013,1728.0000,"Invoice-Private",,03/01/2013,03/10/2013,,19818458MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,27,64.0000,1728.00,"Basic Service Fee AL - One Bdrm B for Mar: Baxter, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,19810249,,03/01/2013,2074,"Invoice-Private",,03/01/2013,03/10/2013,,19818458MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1984,1984,"CR:Basic Service F... C.Baxter 201303: Baxter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3211,010112198,1,60,60,"CR:Laundry... C.Baxter 201303: Baxter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... C.Baxter 201303: Baxter, Charlotte",,,,,,,,,,,,,,,

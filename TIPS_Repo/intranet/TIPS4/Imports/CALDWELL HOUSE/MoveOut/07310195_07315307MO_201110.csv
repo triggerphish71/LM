@@ -1,0 +1,7 @@
+BATCH,,201110,B,9063.0000,
+INVOICE,IN,,07310195,,10/22/2011,3762.0000,"Invoice-Private",,10/22/2011,10/22/2011,,07315307MO,-6669.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,22,94.0000,2068.00,"Basic Service Fee - Studio for Oct: Haas, Onalee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,22,77.0000,1694.00,"Resident Care - Level 5 for Oct: Haas, Onalee",,,,,,,,,,,,,,,
+INVOICE,CM,,07310195,,10/22/2011,5301,"Invoice-Private",,10/22/2011,10/22/2011,,07315307MO,-6669.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2914,2914,"CR:Basic Service F... O.Haas 201110: Haas, Onalee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2387,2387,"CR:Resident Care -... O.Haas 201110: Haas, Onalee",,,,,,,,,,,,,,,

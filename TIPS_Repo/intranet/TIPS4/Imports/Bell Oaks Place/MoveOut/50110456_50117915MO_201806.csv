@@ -1,0 +1,7 @@
+BATCH,,201806,B,6344.0000,
+INVOICE,IN,,50110456,,06/18/2018,2684.0000,"Invoice-Private",,06/18/2018,06/18/2018,,50117915MO,-4758.0000,,,,,,,,,,
+TRANSACTION,3020,010009501,22,50.0000,1100.00,"Basic Service Fee - Studio for Jun: Tanner, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009501,22,72.0000,1584.00,"Resident Care - Level 5 for Jun: Tanner, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,50110456,,06/18/2018,3660,"Invoice-Private",,06/18/2018,06/18/2018,,50117915MO,-4758.0000,,,,,,,,,,
+TRANSACTION,3020,010009501,1,1500,1500,"CR:Basic Service F... M.Tanner 201806: Tanner, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009501,1,2160,2160,"CR:Resident Care -... M.Tanner 201806: Tanner, Mary",,,,,,,,,,,,,,,

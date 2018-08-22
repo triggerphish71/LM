@@ -1,0 +1,5 @@
+BATCH,,201205,B,54.0000,
+INVOICE,IN,,02411299,,05/01/2012,27.0000,"Invoice-Private",,05/01/2012,05/10/2012,,02415663MO,-2691.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Zook, Mardelle",,,,,,,,,,,,,,,
+INVOICE,CM,,02411299,,05/01/2012,27,"Invoice-Private",,05/01/2012,05/10/2012,,02415663MO,-2691.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Zook, Mardelle",,,,,,,,,,,,,,,

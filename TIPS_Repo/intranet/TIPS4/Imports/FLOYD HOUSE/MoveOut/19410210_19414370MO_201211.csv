@@ -1,0 +1,8 @@
+BATCH,,201211,B,5296.9800,
+INVOICE,IN,,19410210,,11/01/2012,169.5800,"Invoice-Private",,11/01/2012,11/01/2012,,19414370MO,-4957.8200,,,,,,,,,,
+TRANSACTION,3020,010212194,1,75.0000,75.00,"Basic Service Fee - Studio for Nov: Coon, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,94.5800,94.58,"Swan Personal Care - L6+2 pts for Nov: Coon, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,19410210,,11/01/2012,5127.4,"Invoice-Private",,11/01/2012,11/01/2012,,19414370MO,-4957.8200,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2250,2250,"CR:Basic Service F... T.Coon 201211: Coon, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... T.Coon 201211: Coon, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,2837.4,2837.4,"CR:Swan Personal C... T.Coon 201211: Coon, Thomas",,,,,,,,,,,,,,,

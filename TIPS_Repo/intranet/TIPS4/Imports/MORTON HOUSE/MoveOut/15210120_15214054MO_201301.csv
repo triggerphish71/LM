@@ -1,0 +1,8 @@
+BATCH,,201301,B,7500.1000,
+INVOICE,IN,,15210120,,01/21/2013,3160.1000,"Invoice-Private",,01/21/2013,01/21/2013,,15214054MO,-4901.1000,,,,,,,,,,
+TRANSACTION,3312,010211152,1,220.1000,220.10,"CR:Two Room Rental... D.Wander 201301: Wander, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,21,71.0000,1491.00,"Basic Service Fee - Studio for Jan: Wander, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,21,69.0000,1449.00,"Resident Care - Level 5 for Jan: Wander, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,15210120,,01/21/2013,4340,"Invoice-Private",,01/21/2013,01/21/2013,,15214054MO,-4901.1000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2201,2201,"CR:Basic Service F... D.Wander 201301: Wander, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,2139,2139,"CR:Resident Care -... D.Wander 201301: Wander, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,1519.0000,
+INVOICE,IN,,17110208,,02/20/2012,620.0000,"Invoice-Private",,02/20/2012,02/20/2012,,17114976MO,-930.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,20,31.0000,620.00,"Basic Service Fee - Second Resident for Feb: Harris, Rudy",,,,,,,,,,,,,,,
+INVOICE,CM,,17110208,,02/20/2012,899,"Invoice-Private",,02/20/2012,02/20/2012,,17114976MO,-930.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,899,899,"CR:Basic Service F... R.Harris 201202: Harris, Rudy",,,,,,,,,,,,,,,

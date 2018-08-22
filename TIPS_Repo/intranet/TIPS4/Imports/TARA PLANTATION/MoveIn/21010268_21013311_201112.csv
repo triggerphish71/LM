@@ -1,0 +1,6 @@
+BATCH,,201112,B,3012.6700,
+INVOICE,IN,,21010268,,12/01/2011,2987.6700,"December_Rent-Hospice. Agape",,12/01/2011,12/10/2011,,21013311,4491.7900,,,,,,,,,,
+TRANSACTION,3010,010216210,31,95.5700,2962.67,"A.Hospice: Studio: Hospice. Agape",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25,"Monthly Cable: Hospice. Agape",,,,,,,,,,,,,,,
+INVOICE,CM,,21010268,,12/01/2011,25.0000,"December_Rent-Hospice. Agape",,12/01/2011,12/10/2011,,21013311,4491.7900,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Monthly Cable: Hospice. Agape",,,,,,,,,,,,,,,

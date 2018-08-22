@@ -1,0 +1,7 @@
+BATCH,,201309,B,94.0000,
+INVOICE,IN,,01710083,,09/01/2013,47.0000,"Invoice-Private",,09/01/2013,09/10/2013,,01714099MO,-6184.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Kersh, James",,,,,,,,,,,,,,,
+TRANSACTION,3228,010202017,1,20.0000,20.00,"Sharps Disposal - 4+ Per Day: Kersh, James",,,,,,,,,,,,,,,
+INVOICE,CM,,01710083,,09/01/2013,47,"Invoice-Private",,09/01/2013,09/10/2013,,01714099MO,-6184.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Kersh, James",,,,,,,,,,,,,,,
+TRANSACTION,3228,010202017,1,20,20,"Credit for Sharps Disposal - 4+ Per Day: Kersh, James",,,,,,,,,,,,,,,

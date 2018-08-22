@@ -1,0 +1,7 @@
+BATCH,,201201,B,2802.1500,
+INVOICE,IN,,05310226,,01/14/2012,871.7800,"Invoice-Private",,01/14/2012,01/14/2012,,05314397MO,-1058.5900,,,,,,,,,,
+TRANSACTION,3020,010101053,14,39.0000,546.00,"Basic Service Fee - Second Resident for Jan: Foster, Faith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,14,23.2700,325.78,"Resident Care - Level 13 for Jan: Foster, Faith",,,,,,,,,,,,,,,
+INVOICE,CM,,05310226,,01/14/2012,1930.37,"Invoice-Private",,01/14/2012,01/14/2012,,05314397MO,-1058.5900,,,,,,,,,,
+TRANSACTION,3020,010101053,1,1209,1209,"CR:Basic Service F... F.Foster 201201: Foster, Faith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,721.37,721.37,"CR:Resident Care -... F.Foster 201201: Foster, Faith",,,,,,,,,,,,,,,

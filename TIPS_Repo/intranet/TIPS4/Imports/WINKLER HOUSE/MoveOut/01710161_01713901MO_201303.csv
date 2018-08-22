@@ -1,0 +1,5 @@
+BATCH,,201303,B,806.0000,
+INVOICE,IN,,01710161,,03/01/2013,403.0000,"Invoice-Private",,03/01/2013,03/10/2013,,01713901MO,-1271.0000,,,,,,,,,,
+TRANSACTION,3320,010202017,31,13.0000,403.00,"Credit for Limited Term Discount: Beasly, Nettie",,,,,,,,,,,,,,,
+INVOICE,CM,,01710161,,03/01/2013,403,"Invoice-Private",,03/01/2013,03/10/2013,,01713901MO,-1271.0000,,,,,,,,,,
+TRANSACTION,3320,010202017,31,13,403,"Limited Term Discount: Beasly, Nettie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,5067.1500,
+INVOICE,CM,,08110239,,03/01/2013,5067.15,"Invoice-Private",,03/01/2013,03/10/2013,,08114652MO,-5082.8900,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2232,2232,"CR:Basic Service F... G.Smith 201303: Smith, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... G.Smith 201303: Smith, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,2810.15,2810.15,"CR:Resident Care -... G.Smith 201303: Smith, Gene",,,,,,,,,,,,,,,

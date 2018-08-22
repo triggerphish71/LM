@@ -1,0 +1,7 @@
+BATCH,,201107,B,4489.7000,
+INVOICE,IN,,51810153,,07/07/2011,827.0500,"Invoice-Private",,07/07/2011,07/07/2011,,51812226MO,-2835.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,7,100.0000,700.00,"Basic Service Fee - One Bedroom for Jul: Funk, James  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,7,18.1500,127.05,"Resident Care - Level 11 for Jul: Funk, James  ",,,,,,,,,,,,,,,
+INVOICE,CM,,51810153,,07/07/2011,3662.65,"Invoice-Private",,07/07/2011,07/07/2011,,51812226MO,-2835.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,3100,3100,"CR:Basic Service F... J.Funk 201107: Funk, James  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,562.65,562.65,"CR:Resident Care -... J.Funk 201107: Funk, James  ",,,,,,,,,,,,,,,

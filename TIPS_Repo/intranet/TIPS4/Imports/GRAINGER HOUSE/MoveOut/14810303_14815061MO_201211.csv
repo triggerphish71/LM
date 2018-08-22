@@ -1,0 +1,6 @@
+BATCH,,201211,B,5100.0000,
+INVOICE,IN,,14810303,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14815061MO,-6146.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,60.0000,60.00,"CR:Limited Term Di... R.Leoni 201211: Leoni, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,14810303,,11/01/2012,5040,"Invoice-Private",,11/01/2012,11/10/2012,,14815061MO,-6146.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,3330,3330,"CR:Basic Service F... R.Leoni 201211: Leoni, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1710,1710,"CR:Resident Care -... R.Leoni 201211: Leoni, Robert",,,,,,,,,,,,,,,

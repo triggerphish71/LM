@@ -1,0 +1,7 @@
+BATCH,,201305,B,180.0000,
+INVOICE,IN,,19810249,,05/01/2013,90.0000,"Invoice-Private",,05/01/2013,05/10/2013,,19818458MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Baxter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3211,010112198,4,15.0000,60.00,"Laundry: Baxter, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,19810249,,05/01/2013,90,"Invoice-Private",,05/01/2013,05/10/2013,,19818458MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Baxter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3211,010112198,4,15,60,"Credit for Laundry: Baxter, Charlotte",,,,,,,,,,,,,,,

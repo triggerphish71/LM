@@ -1,0 +1,8 @@
+BATCH,,201107,B,4099.4000,
+INVOICE,IN,,51910146,,07/01/2011,1073.8000,"Invoice-Private",,07/01/2011,07/10/2011,,51913140MO,-1951.8000,,,,,,,,,,
+TRANSACTION,3316,010103519,1,390.6000,390.60,"CR:Employee Discou... F.Miyoshi 201107: Miyoshi, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,7,84.0000,588.00,"Basic Service Fee - Studio for Jul: Miyoshi, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,7,13.6000,95.20,"Resident Care - Level 8 for Jul: Miyoshi, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,51910146,,07/01/2011,3025.6,"Invoice-Private",,07/01/2011,07/10/2011,,51913140MO,-1951.8000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2604,2604,"CR:Basic Service F... F.Miyoshi 201107: Miyoshi, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,421.6,421.6,"CR:Resident Care -... F.Miyoshi 201107: Miyoshi, Fred",,,,,,,,,,,,,,,

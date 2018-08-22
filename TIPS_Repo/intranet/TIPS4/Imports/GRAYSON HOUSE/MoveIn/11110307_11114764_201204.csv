@@ -1,0 +1,6 @@
+BATCH,,201204,B,4419.0000,
+INVOICE,IN,,11110307,,04/12/2012,4419.0000,"MoveIn-Finley. Doerthe",,04/12/2012,04/12/2012,,11114764,4419.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,19,97.0000,1843,"Basic Service Fee - Studio: Finley. Doerthe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,19,29.0000,551,"Resident Care - Level 2: Finley. Doerthe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Finley. Doerthe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Finley. Doerthe",,,,,,,,,,,,,,,

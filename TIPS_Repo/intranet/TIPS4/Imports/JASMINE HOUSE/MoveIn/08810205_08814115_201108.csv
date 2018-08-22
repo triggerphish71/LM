@@ -1,0 +1,5 @@
+BATCH,,201108,B,2123.0000,
+INVOICE,IN,,08810205,,08/31/2011,2123.0000,"MoveIn-Pierson. Martha",,08/31/2011,08/31/2011,,08814115,5813.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,1,94.0000,94,"Basic Service Fee - Studio         : Pierson. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,1,29.0000,29,"Resident Care - Level 2: Pierson. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000.0000,2000,"New Resident Fee: Pierson. Martha",,,,,,,,,,,,,,,

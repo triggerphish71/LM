@@ -1,0 +1,8 @@
+BATCH,,201306,B,1827.0000,
+INVOICE,IN,,13210316,,06/26/2013,540.0000,"Invoice-Private",,06/26/2013,06/26/2013,,13216016MO,-6354.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,3,124.0000,372.00,"Basic Service Fee - One Bedroom for Jun: Owens, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,3,56.0000,168.00,"Resident Care - Level 4 for Jun: Owens, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,13210316,,06/26/2013,1287,"Invoice-Private",,06/26/2013,06/26/2013,,13216016MO,-6354.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,868,868,"CR:Basic Service F... J.Owens 201306: Owens, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... J.Owens 201306: Owens, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,392,392,"CR:Resident Care -... J.Owens 201306: Owens, Joyce",,,,,,,,,,,,,,,

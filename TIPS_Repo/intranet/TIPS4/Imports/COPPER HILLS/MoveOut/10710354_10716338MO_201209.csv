@@ -1,0 +1,5 @@
+BATCH,,201209,B,1085.0000,
+INVOICE,IN,,10710354,,09/01/2012,35.0000,"Invoice-Private",,09/01/2012,09/01/2012,,10716338MO,-1015.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,35.0000,35.00,"Basic Service Fee - Second Resident for Sep: Wimer, Anabelle",,,,,,,,,,,,,,,
+INVOICE,CM,,10710354,,09/01/2012,1050,"Invoice-Private",,09/01/2012,09/01/2012,,10716338MO,-1015.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,1050,1050,"CR:Basic Service F... A.Wimer 201209: Wimer, Anabelle",,,,,,,,,,,,,,,

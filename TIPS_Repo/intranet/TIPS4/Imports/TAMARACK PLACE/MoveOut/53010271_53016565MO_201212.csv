@@ -1,0 +1,5 @@
+BATCH,,201212,B,4132.0000,
+INVOICE,CM,,53010271,,12/01/2012,4132,"Invoice-Private",,12/01/2012,12/10/2012,,53016565MO,-4132.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3162,3162,"CR:E.Klund: Basic ... E.Klund 201212: Klund, Elton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,930,930,"CR:E.Klund: Reside... E.Klund 201212: Klund, Elton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... E.Klund 201212: Klund, Elton",,,,,,,,,,,,,,,

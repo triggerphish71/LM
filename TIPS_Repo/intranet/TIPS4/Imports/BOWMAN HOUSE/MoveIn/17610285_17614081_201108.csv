@@ -1,0 +1,6 @@
+BATCH,,201108,B,3670.0000,
+INVOICE,IN,,17610285,,08/18/2011,3670.0000,"MoveIn-Prange. Arlene",,08/18/2011,08/18/2011,,17614081,8320.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,14,69.0000,966,"Basic Service Fee - Studio         : Prange. Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,14,76.0000,1064,"Resident Care - Level 6: Prange. Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Prange. Arlene",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,14,10.0000,140,"CC Meals: Prange. Arlene",,,,,,,,,,,,,,,

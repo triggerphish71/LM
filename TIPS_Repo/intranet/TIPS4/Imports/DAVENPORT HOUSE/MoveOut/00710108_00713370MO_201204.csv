@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,00710108,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,00713370MO,-6490.3800,,,,,,,,,,
+TRANSACTION,3320,010101007,30,2.0000,60.00,"Credit for Limited Term Discount: Cornwell, George",,,,,,,,,,,,,,,
+INVOICE,CM,,00710108,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,00713370MO,-6490.3800,,,,,,,,,,
+TRANSACTION,3320,010101007,30,2,60,"Limited Term Discount: Cornwell, George",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,2785.0000,
+INVOICE,IN,,19810064,,11/01/2011,210.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19816717MO,-2287.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,210.0000,210.00,"CR:Limited Term Di... C.Steger 201111: Steger, Cleo",,,,,,,,,,,,,,,
+INVOICE,CM,,19810064,,11/01/2011,2575,"Invoice-Private",,11/01/2011,11/10/2011,,19816717MO,-2287.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2520,2520,"CR:Basic Service F... C.Steger 201111: Steger, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... C.Steger 201111: Steger, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3299,010112198,1,25,25,"CR:Storage Unit... C.Steger 201111: Steger, Cleo",,,,,,,,,,,,,,,

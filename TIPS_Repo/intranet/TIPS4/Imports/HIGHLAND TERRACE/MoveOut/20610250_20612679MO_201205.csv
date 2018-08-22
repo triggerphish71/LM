@@ -1,0 +1,7 @@
+BATCH,,201205,B,4921.0000,
+INVOICE,IN,,20610250,,05/01/2012,798.0000,"Invoice-Private",,05/01/2012,05/10/2012,,20612679MO,-3325.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,6,42.0000,252.00,"Resident Care - Level 4 for May: Erwin, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,6,91.0000,546.00,"Studio for May: Erwin, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,20610250,,05/01/2012,4123,"Invoice-Private",,05/01/2012,05/10/2012,,20612679MO,-3325.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1302,1302,"CR:Resident Care -... M.Erwin 201205: Erwin, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... M.Erwin 201205: Erwin, Mildred",,,,,,,,,,,,,,,

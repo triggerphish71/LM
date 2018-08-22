@@ -1,0 +1,7 @@
+BATCH,,201304,B,5328.0000,
+INVOICE,IN,,09310240,,04/05/2013,888.0000,"Invoice-Private",,04/05/2013,04/05/2013,,09315791MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,6,115.0000,690.00,"Basic Service Fee - Deluxe for Apr: Knight, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,6,33.0000,198.00,"Resident Care - Level 2 for Apr: Knight, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,09310240,,04/05/2013,4440,"Invoice-Private",,04/05/2013,04/05/2013,,09315791MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3450,3450,"CR:Basic Service F... J.Knight 201304: Knight, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,990,990,"CR:Resident Care -... J.Knight 201304: Knight, Joyce",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201108,B,3635.0000,
+INVOICE,IN,,15410206,,08/01/2011,1120.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15414488MO,-1395.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,14,62.0000,868.00,"Basic Service Fee - Studio for Aug: Luebker, Anna May",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,14,18.0000,252.00,"Resident Care - Level 1 for Aug: Luebker, Anna May",,,,,,,,,,,,,,,
+INVOICE,CM,,15410206,,08/01/2011,2515,"Invoice-Private",,08/01/2011,08/10/2011,,15414488MO,-1395.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1922,1922,"CR:Basic Service F... A.Luebker 201108: Luebker, Anna May",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... A.Luebker 201108: Luebker, Anna May",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,558,558,"CR:Resident Care -... A.Luebker 201108: Luebker, Anna May",,,,,,,,,,,,,,,

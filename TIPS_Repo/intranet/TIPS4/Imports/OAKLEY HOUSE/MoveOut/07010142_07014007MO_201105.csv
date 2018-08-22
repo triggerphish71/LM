@@ -1,0 +1,8 @@
+BATCH,,201105,B,6475.0000,
+INVOICE,IN,,07010142,,05/07/2011,1825.0000,"Invoice-Private",,05/07/2011,05/07/2011,,07014007MO,-2825.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,1,775.0000,775.00,"CR:Limited Term Di... T.Brenner 201105: Brenner, Treva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305070,7,95.0000,665.00,"Basic Service Fee - Deluxe for May: Brenner, Treva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,7,55.0000,385.00,"Resident Care - Level 4 for May: Brenner, Treva",,,,,,,,,,,,,,,
+INVOICE,CM,,07010142,,05/07/2011,4650,"Invoice-Private",,05/07/2011,05/07/2011,,07014007MO,-2825.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2945,2945,"CR:Basic Service F... T.Brenner 201105: Brenner, Treva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1705,1705,"CR:Resident Care -... T.Brenner 201105: Brenner, Treva",,,,,,,,,,,,,,,

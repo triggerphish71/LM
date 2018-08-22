@@ -1,0 +1,7 @@
+BATCH,,201307,B,4998.0000,
+INVOICE,IN,,10710376,,07/20/2013,1960.0000,"Invoice-Private",,07/20/2013,07/20/2013,,10716799MO,-4116.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,20,70.0000,1400.00,"Basic Service Fee - One Bedroom for Jul: Hamilton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,20,28.0000,560.00,"Resident Care - Level 2 for Jul: Hamilton, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10710376,,07/20/2013,3038,"Invoice-Private",,07/20/2013,07/20/2013,,10716799MO,-4116.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2170,2170,"CR:Basic Service F... R.Hamilton 201307: Hamilton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,868,868,"CR:Resident Care -... R.Hamilton 201307: Hamilton, Robert",,,,,,,,,,,,,,,

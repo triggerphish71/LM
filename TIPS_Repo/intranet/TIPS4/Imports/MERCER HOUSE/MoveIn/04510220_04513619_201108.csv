@@ -1,0 +1,5 @@
+BATCH,,201108,B,3964.0000,
+INVOICE,IN,,04510220,,08/01/2011,3964.0000,"August_Rent-Miller. Betty",,08/01/2011,08/10/2011,,04513619,7777.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,31,73.0000,2263,"Basic Service Fee - Studio         : Miller. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,31,54.0000,1674,"Resident Care - Level 4: Miller. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Miller. Betty",,,,,,,,,,,,,,,

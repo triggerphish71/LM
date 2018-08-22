@@ -1,0 +1,5 @@
+BATCH,,201111,B,2204.0000,
+INVOICE,IN,,09110218,,11/29/2011,2204.0000,"MoveIn-Rogers. Mary",,11/29/2011,11/29/2011,,09114976,5366.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,2,85.0000,170,"Basic Service Fee - Studio: Rogers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,2,17.0000,34,"Resident Care - Level 1: Rogers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Rogers. Mary",,,,,,,,,,,,,,,

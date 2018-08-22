@@ -1,0 +1,6 @@
+BATCH,,201201,B,4929.0000,
+INVOICE,IN,,13210269,,01/01/2012,124.0000,"Invoice-Private",,01/01/2012,01/10/2012,,13215233MO,-6284.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,124.0000,124.00,"CR:Limited Term Di... C.Johnson 201201: Johnson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13210269,,01/01/2012,4805,"Invoice-Private",,01/01/2012,01/10/2012,,13215233MO,-6284.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3069,3069,"CR:Basic Service F... C.Johnson 201201: Johnson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1736,1736,"CR:Resident Care -... C.Johnson 201201: Johnson, Charles",,,,,,,,,,,,,,,

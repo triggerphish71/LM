@@ -1,0 +1,7 @@
+BATCH,,201806,B,3875.0000,
+INVOICE,IN,,11010511,,06/01/2018,125.0000,"Invoice-Private",,06/01/2018,06/01/2018,,11017410MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,77.0000,77.00,"Basic Service Fee - Studio for Jun: Klennert, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,48.0000,48.00,"Resident Care - Level 3 for Jun: Klennert, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,11010511,,06/01/2018,3750,"Invoice-Private",,06/01/2018,06/01/2018,,11017410MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2310,2310,"CR:Basic Service F... E.Klennert 201806: Klennert, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,1440,1440,"CR:Resident Care -... E.Klennert 201806: Klennert, Evelyn",,,,,,,,,,,,,,,

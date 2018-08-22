@@ -1,0 +1,5 @@
+BATCH,,201306,B,4464.0000,
+INVOICE,IN,,14610280,,06/18/2013,1674.0000,"Invoice-Private",,06/18/2013,06/18/2013,,14615047MO,-4556.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,18,93.0000,1674.00,"Basic Service Fee - Studio for Jun: Grimes, cheryl",,,,,,,,,,,,,,,
+INVOICE,CM,,14610280,,06/18/2013,2790,"Invoice-Private",,06/18/2013,06/18/2013,,14615047MO,-4556.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2790,2790,"CR:Basic Service F... c.Grimes 201306: Grimes, cheryl",,,,,,,,,,,,,,,

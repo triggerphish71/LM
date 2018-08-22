@@ -1,0 +1,8 @@
+BATCH,,201205,B,10862.5000,
+INVOICE,IN,,06110206,,05/01/2012,5484.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06113865MO,105.5000,,,,,,,,,,
+TRANSACTION,3320,010103061,1,279.0000,279.00,"CR:Limited Term Di... M.Barlow 201205: Barlow, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,30,89.5000,2685.00,"Resident Care - Level 50 for May: Barlow, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,30,84.0000,2520.00,"Room and Board - Studio for May: Barlow, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,06110206,,05/01/2012,5378.5,"Invoice-Private",,05/01/2012,05/10/2012,,06113865MO,105.5000,,,,,,,,,,
+TRANSACTION,3027,010103061,1,2774.5,2774.5,"CR:Resident Care -... M.Barlow 201205: Barlow, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2604,2604,"CR:Room and Board ... M.Barlow 201205: Barlow, Margie",,,,,,,,,,,,,,,

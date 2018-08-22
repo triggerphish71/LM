@@ -1,0 +1,6 @@
+BATCH,,201304,B,4900.0000,
+INVOICE,IN,,14810350,,04/01/2013,4900.0000,"MoveIn-Floyd. Muriel",,04/01/2013,04/01/2013,,14815143,4900.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,30,111.0000,3330,"Basic Service Fee - One Bedroom    : Floyd. Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,30,18.0000,540,"Resident Care - Level 1: Floyd. Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Floyd. Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Floyd. Muriel",,,,,,,,,,,,,,,

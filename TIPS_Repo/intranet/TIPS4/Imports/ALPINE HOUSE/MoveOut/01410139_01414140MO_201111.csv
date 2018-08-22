@@ -1,0 +1,8 @@
+BATCH,,201111,B,6845.0000,
+INVOICE,IN,,01410139,,11/14/2011,3100.0000,"Invoice-Private",,11/14/2011,11/14/2011,,01414140MO,-4514.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,25,80.0000,2000.00,"Basic Service Fee - Studio for Nov: Havis, Lily",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,25,44.0000,1100.00,"Resident Care - Level 3 for Nov: Havis, Lily",,,,,,,,,,,,,,,
+INVOICE,CM,,01410139,,11/14/2011,3745,"Invoice-Private",,11/14/2011,11/14/2011,,01414140MO,-4514.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2400,2400,"CR:Basic Service F... L.Havis 201111: Havis, Lily",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... L.Havis 201111: Havis, Lily",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,1320,1320,"CR:Resident Care -... L.Havis 201111: Havis, Lily",,,,,,,,,,,,,,,

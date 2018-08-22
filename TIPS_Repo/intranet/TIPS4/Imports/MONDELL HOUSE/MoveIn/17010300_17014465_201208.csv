@@ -1,0 +1,5 @@
+BATCH,,201208,B,2500.0000,
+INVOICE,IN,,17010300,,07/01/2012,500.0000,"July_Rent-Stoops. Thelma",,07/01/2012,07/10/2012,,17014465,5764.0000,,,,,,,,,,
+TRANSACTION,3216,010107170,1,500.0000,500,"Monthly Deferral Charge: Stoops. Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,17010300,,07/01/2012,2000.0000,"July_Rent-Stoops. Thelma",,07/01/2012,07/10/2012,,17014465,5764.0000,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000,2000,"New Resident Fee Deferred: Stoops. Thelma",,,,,,,,,,,,,,,

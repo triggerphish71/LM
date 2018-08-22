@@ -1,0 +1,7 @@
+BATCH,,201306,B,2706.0000,
+INVOICE,IN,,20210192,,06/11/2013,726.0000,"Invoice-Private",,06/11/2013,06/11/2013,,20212841MO,-1254.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,11,11.0000,121.00,"Resident Care - Level 1 for Jun: Rice, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,11,55.0000,605.00,"Room and Board - Studio for Jun: Rice, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,20210192,,06/11/2013,1980,"Invoice-Private",,06/11/2013,06/11/2013,,20212841MO,-1254.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,330,330,"CR:Resident Care -... G.Rice 201306: Rice, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,1650,1650,"CR:Room and Board ... G.Rice 201306: Rice, Geneva",,,,,,,,,,,,,,,

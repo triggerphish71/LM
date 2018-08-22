@@ -1,0 +1,8 @@
+BATCH,,201108,B,7959.0000,
+INVOICE,IN,,11610174,,08/22/2011,3340.0000,"Invoice-Private",,08/22/2011,08/22/2011,,11614755MO,-5689.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,62.0000,62.00,"CR:Limited Term Di... T.Medlock 201108: Medlock, Tommye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,22,97.0000,2134.00,"Basic Service Fee - Studio for Aug: Medlock, Tommye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,22,52.0000,1144.00,"Resident Care - Level 3 for Aug: Medlock, Tommye",,,,,,,,,,,,,,,
+INVOICE,CM,,11610174,,08/22/2011,4619,"Invoice-Private",,08/22/2011,08/22/2011,,11614755MO,-5689.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3007,3007,"CR:Basic Service F... T.Medlock 201108: Medlock, Tommye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1612,1612,"CR:Resident Care -... T.Medlock 201108: Medlock, Tommye",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,1080.0000,
+INVOICE,IN,,21410004,,09/01/2011,540.0000,"Invoice-Private",,09/01/2011,09/10/2011,,21416543MO,-434.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,30,18.0000,540.00,"Credit for Daily Discount: MacCambridge, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,21410004,,09/01/2011,540,"Invoice-Private",,09/01/2011,09/10/2011,,21416543MO,-434.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,30,18,540,"Daily Discount: MacCambridge, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,12607.2000,
+INVOICE,IN,,53310233,,08/03/2011,777.6000,"Invoice-Respite",,08/03/2011,08/03/2011,,53313901MO,-11052.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,3,132.0000,396.00,"Basic Service Fee- Respite One Bedr for Aug: Fischer, Frank ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,3,127.2000,381.60,"Basic Service Fee- Respite One Bedr for Aug: Fischer, Frank ",,,,,,,,,,,,,,,
+INVOICE,CM,,53310233,,08/03/2011,11829.6,"Invoice-Respite",,08/03/2011,08/03/2011,,53313901MO,-11052.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,3,3943.2,11829.6,"Basic Service Fee- Respite One Bedr for Aug: Fischer, Frank ",,,,,,,,,,,,,,,

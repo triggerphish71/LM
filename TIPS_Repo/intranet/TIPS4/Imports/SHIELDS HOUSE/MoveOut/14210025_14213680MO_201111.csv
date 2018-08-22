@@ -1,0 +1,5 @@
+BATCH,,201111,B,70.0000,
+INVOICE,IN,,14210025,,11/01/2011,35.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14213680MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly cable: Wintin, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,14210025,,11/01/2011,35,"Invoice-Private",,11/01/2011,11/10/2011,,14213680MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly cable: Wintin, Frank",,,,,,,,,,,,,,,

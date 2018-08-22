@@ -1,0 +1,7 @@
+BATCH,,201112,B,6588.0000,
+INVOICE,IN,,21410012,,12/26/2011,3240.0000,"Invoice-Private",,12/26/2011,12/26/2011,,21417078MO,-3549.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,30,85.0000,2550.00,"Basic Service Fee - Studio for Dec: Rogers, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,30,23.0000,690.00,"Resident Care - Level 2 for Dec: Rogers, Inez",,,,,,,,,,,,,,,
+INVOICE,CM,,21410012,,12/26/2011,3348,"Invoice-Private",,12/26/2011,12/26/2011,,21417078MO,-3549.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2635,2635,"CR:Basic Service F... I.Rogers 201112: Rogers, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... I.Rogers 201112: Rogers, Inez",,,,,,,,,,,,,,,

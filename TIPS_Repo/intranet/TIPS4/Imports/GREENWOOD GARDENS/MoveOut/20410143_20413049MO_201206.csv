@@ -1,0 +1,8 @@
+BATCH,,201206,B,4785.0000,
+INVOICE,IN,,20410143,,06/09/2012,1635.0000,"Invoice-Private",,06/09/2012,06/09/2012,,20413049MO,-1515.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,690.0000,690.00,"CR:Limited Term Di... E.Campbell 201206: Campbell, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,9,32.0000,288.00,"Resident Care - Level 3 for Jun: Campbell, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,9,73.0000,657.00,"Room and Board - Companion Two Bedroom for Jun: Campbell, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,20410143,,06/09/2012,3150,"Invoice-Private",,06/09/2012,06/09/2012,,20413049MO,-1515.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,960,960,"CR:Resident Care -... E.Campbell 201206: Campbell, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2190,2190,"CR:Room and Board ... E.Campbell 201206: Campbell, Ethel",,,,,,,,,,,,,,,

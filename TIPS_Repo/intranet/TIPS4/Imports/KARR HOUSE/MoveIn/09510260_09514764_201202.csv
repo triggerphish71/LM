@@ -1,0 +1,5 @@
+BATCH,,201202,B,5220.7400,
+INVOICE,IN,,09510260,,02/01/2012,5220.7400,"MoveIn-Hammonds. Winona",,02/01/2012,02/01/2012,,09514764,5220.7400,,,,,,,,,,
+TRANSACTION,3010,010103095,29,86.0000,2494,"Basic Service Fee - Studio: Hammonds. Winona",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103095,29,25.0600,726.74,"Resident Care - Level 14: Hammonds. Winona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000.0000,2000,"New Resident Fee: Hammonds. Winona",,,,,,,,,,,,,,,

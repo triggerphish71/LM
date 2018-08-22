@@ -1,0 +1,5 @@
+BATCH,,201106,B,1188.0000,
+INVOICE,IN,,12510181,,06/03/2011,108.0000,"Invoice-Private",,06/03/2011,06/03/2011,,12513929MO,-972.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,3,36.0000,108.00,"Basic Service Fee - Second Resident for Jun: Even, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,12510181,,06/03/2011,1080,"Invoice-Private",,06/03/2011,06/03/2011,,12513929MO,-972.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,1080,1080,"CR:Basic Service F... D.Even 201106: Even, Donna",,,,,,,,,,,,,,,

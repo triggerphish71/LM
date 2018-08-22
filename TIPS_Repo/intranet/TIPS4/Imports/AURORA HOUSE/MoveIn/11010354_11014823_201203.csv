@@ -1,0 +1,6 @@
+BATCH,,201203,B,3915.0000,
+INVOICE,IN,,11010354,,03/14/2012,3915.0000,"MoveIn-Paquette. Wilfred",,03/14/2012,03/14/2012,,11014823,3915.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,18,91.0000,1638,"W.Paquette: Basic Service Fee - Studio: Paquette. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,18,14.0000,252,"W.Paquette: Resident Care - Level 1: Paquette. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Paquette. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Paquette. Wilfred",,,,,,,,,,,,,,,

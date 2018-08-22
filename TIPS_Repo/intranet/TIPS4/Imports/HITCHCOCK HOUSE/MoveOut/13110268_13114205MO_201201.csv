@@ -1,0 +1,7 @@
+BATCH,,201201,B,8568.0000,
+INVOICE,IN,,13110268,,01/25/2012,3825.0000,"Invoice-Private",,01/25/2012,01/25/2012,,13114205MO,-4775.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,25,100.0000,2500.00,"Basic Service Fee - Studio for Jan: Ergle, David",,,,,,,,,,,,,,,
+TRANSACTION,3037,010308131,25,53.0000,1325.00,"Private Care Rate Adjustments for Jan: Ergle, David",,,,,,,,,,,,,,,
+INVOICE,CM,,13110268,,01/25/2012,4743,"Invoice-Private",,01/25/2012,01/25/2012,,13114205MO,-4775.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... D.Ergle 201201: Ergle, David",,,,,,,,,,,,,,,
+TRANSACTION,3037,010308131,1,1643,1643,"CR:Private Care Ra... D.Ergle 201201: Ergle, David",,,,,,,,,,,,,,,

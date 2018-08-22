@@ -1,0 +1,7 @@
+BATCH,,201205,B,670.0000,
+INVOICE,IN,,16010328,,05/01/2012,335.0000,"Invoice-Private",,05/01/2012,05/10/2012,,16015227MO,-4774.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25.00,"Monthly Cable: Banozich, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,10.0000,310.00,"Credit for Limited Term Discount: Banozich, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,16010328,,05/01/2012,335,"Invoice-Private",,05/01/2012,05/10/2012,,16015227MO,-4774.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"Credit for Monthly Cable: Banozich, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,10,310,"Limited Term Discount: Banozich, Carol",,,,,,,,,,,,,,,

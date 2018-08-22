@@ -1,0 +1,8 @@
+BATCH,,201204,B,4511.0000,
+INVOICE,IN,,05610171,,04/01/2012,944.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05614364MO,-2623.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,8,68.0000,544.00,"Basic Service Fee - Studio for Apr: Clifton, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,8,50.0000,400.00,"Resident Care - Level 4 for Apr: Clifton, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,05610171,,04/01/2012,3567,"Invoice-Private",,04/01/2012,04/10/2012,,05614364MO,-2623.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,2040,2040,"CR:Basic Service F... G.Clifton 201204: Clifton, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... G.Clifton 201204: Clifton, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,1,1500,1500,"CR:Resident Care -... G.Clifton 201204: Clifton, Gerald",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,3327.0000,
+INVOICE,IN,,02610276,,04/01/2012,3327.0000,"April_Rent-Lewis. Virginia",,04/01/2012,04/10/2012,,02614734,5154.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,30,97.0000,2910,"Basic Service Fee - Studio: Lewis. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,30,13.0000,390,"Resident Care - Level 1: Lewis. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Lewis. Virginia",,,,,,,,,,,,,,,

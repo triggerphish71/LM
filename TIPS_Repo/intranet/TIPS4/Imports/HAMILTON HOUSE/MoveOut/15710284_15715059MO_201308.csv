@@ -1,0 +1,7 @@
+BATCH,,201308,B,6854.0000,
+INVOICE,IN,,15710284,,08/01/2013,2235.0000,"Invoice-Private",,08/01/2013,08/10/2013,,15715059MO,-2384.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,15,92.0000,1380.00,"Basic Service Fee - Studio for Aug: Kuhlhorst, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,15,57.0000,855.00,"Resident Care - Level 4 for Aug: Kuhlhorst, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,15710284,,08/01/2013,4619,"Invoice-Private",,08/01/2013,08/10/2013,,15715059MO,-2384.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... W.Kuhlhorst 201308: Kuhlhorst, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1767,1767,"CR:Resident Care -... W.Kuhlhorst 201308: Kuhlhorst, Walter",,,,,,,,,,,,,,,

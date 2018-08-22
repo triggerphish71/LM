@@ -1,0 +1,7 @@
+BATCH,,201106,B,3745.3000,
+INVOICE,IN,,51310017,,06/13/2011,1132.3000,"Invoice-Private",,06/13/2011,06/13/2011,,51313343MO,-1480.7000,,,,,,,,,,
+TRANSACTION,3020,010310513,13,72.1000,937.30,"Basic Service Fee - Companion Studio for Jun: Mohan, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,13,15.0000,195.00,"Resident Care - Level 1 for Jun: Mohan, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,51310017,,06/13/2011,2613,"Invoice-Private",,06/13/2011,06/13/2011,,51313343MO,-1480.7000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,2163,2163,"CR:Basic Service F... M.Mohan 201106: Mohan, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,450,450,"CR:Resident Care -... M.Mohan 201106: Mohan, Marie",,,,,,,,,,,,,,,

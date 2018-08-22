@@ -1,0 +1,7 @@
+BATCH,,201106,B,4703.6000,
+INVOICE,IN,,01510191,,06/01/2011,900.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01514016MO,-2543.6000,,,,,,,,,,
+TRANSACTION,3321,010103015,1,900.0000,900.00,"CR:2nd Resident Fr... B.Willmschen 201106: Willmschen, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,01510191,,06/01/2011,3803.6,"Invoice-Private",,06/01/2011,06/10/2011,,01514016MO,-2543.6000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,900,900,"CR:Basic Service F... B.Willmschen 201106: Willmschen, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3037,010103015,1,1475.6,1475.6,"CR:Private Care Ra... B.Willmschen 201106: Willmschen, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,1428,1428,"CR:Resident Care -... B.Willmschen 201106: Willmschen, Bill",,,,,,,,,,,,,,,

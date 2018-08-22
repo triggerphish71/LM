@@ -1,0 +1,5 @@
+BATCH,,201306,B,54.0000,
+INVOICE,IN,,02610295,,06/01/2013,27.0000,"Invoice-Private",,06/01/2013,06/10/2013,,02615227MO,-8629.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27.00,"Monthly Cable: Kimbro, Frankie",,,,,,,,,,,,,,,
+INVOICE,CM,,02610295,,06/01/2013,27,"Invoice-Private",,06/01/2013,06/10/2013,,02615227MO,-8629.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"Credit for Monthly Cable: Kimbro, Frankie",,,,,,,,,,,,,,,

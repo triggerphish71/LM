@@ -1,0 +1,6 @@
+BATCH,,201212,B,5886.0000,
+INVOICE,IN,,12910341,,12/27/2012,2880.0000,"Invoice-Private",,12/27/2012,12/27/2012,,12916231MO,-3102.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,30,96.0000,2880.00,"J.Terranova: Basic Service Fee - Studio for Dec: Terranova, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,12910341,,12/27/2012,3006,"Invoice-Private",,12/27/2012,12/27/2012,,12916231MO,-3102.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2976,2976,"CR:J.Terranova: Ba... J.Terranova 201212: Terranova, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... J.Terranova 201212: Terranova, Jean",,,,,,,,,,,,,,,

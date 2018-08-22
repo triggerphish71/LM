@@ -1,0 +1,8 @@
+BATCH,,201212,B,4628.7500,
+INVOICE,IN,,00510175,,12/28/2012,1596.6500,"Invoice-Private",,12/28/2012,12/28/2012,,00512580MO,-5935.1000,,,,,,,,,,
+TRANSACTION,3020,010101005,11,73.0000,803.00,"Basic Service Fee - Studio for Dec: Whearty, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,11,72.1500,793.65,"Resident Care - Level 39 for Dec: Whearty, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,00510175,,12/28/2012,3032.1,"Invoice-Private",,12/28/2012,12/28/2012,,00512580MO,-5935.1000,,,,,,,,,,
+TRANSACTION,3020,010101005,1,1022,1022,"CR:Basic Service F... H.Whearty 201212: Whearty, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000,1000,"CR:New Resident Fe... H.Whearty 201212: Whearty, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,1010.1,1010.1,"CR:Resident Care -... H.Whearty 201212: Whearty, Helen",,,,,,,,,,,,,,,

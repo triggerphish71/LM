@@ -1,0 +1,7 @@
+BATCH,,201801,B,8345.4000,
+INVOICE,IN,,51110281,,01/28/2018,8345.4000,"MoveIn-Merian. Simone",,01/28/2018,01/28/2018,,51114485,12517.8000,,,,,,,,,,
+TRANSACTION,3010,010010511,5,125.0000,625,"Basic Service Fee - Studio: Merian. Simone",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010511,4,23.0000,92,"Resident Care - Level 1: Merian. Simone",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010511,1,28.4000,28.4,"Monthly Cable: Merian. Simone",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010511,1,3800.0000,3800,"Community Fee: Merian. Simone",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010511,1,3800.0000,3800,"Monthly Deferral Charge: Merian. Simone",,,,,,,,,,,,,,,

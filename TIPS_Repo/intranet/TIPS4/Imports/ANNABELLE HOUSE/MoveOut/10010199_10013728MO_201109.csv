@@ -1,0 +1,8 @@
+BATCH,,201109,B,4735.0000,
+INVOICE,IN,,10010199,,09/01/2011,985.0000,"Invoice-Private",,09/01/2011,09/10/2011,,10013728MO,-2765.0000,,,,,,,,,,
+TRANSACTION,3320,010104100,1,360.0000,360.00,"CR:Limited Term Di... V.Taylor 201109: Taylor, Viciell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104100,5,82.0000,410.00,"Basic Service Fee - Studio for Sep: Taylor, Viciell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,5,43.0000,215.00,"Resident Care - Level 3 for Sep: Taylor, Viciell",,,,,,,,,,,,,,,
+INVOICE,CM,,10010199,,09/01/2011,3750,"Invoice-Private",,09/01/2011,09/10/2011,,10013728MO,-2765.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2460,2460,"CR:Basic Service F... V.Taylor 201109: Taylor, Viciell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,1290,1290,"CR:Resident Care -... V.Taylor 201109: Taylor, Viciell",,,,,,,,,,,,,,,

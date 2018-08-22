@@ -1,0 +1,5 @@
+BATCH,,201201,B,3085.0000,
+INVOICE,IN,,04110223,,01/13/2012,3085.0000,"MoveIn-Smith. Louise",,01/13/2012,01/13/2012,,04114207,3085.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,19,82.0000,1558,"Basic Service Fee - Studio: Smith. Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27,"Monthly Cable: Smith. Louise",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Smith. Louise",,,,,,,,,,,,,,,

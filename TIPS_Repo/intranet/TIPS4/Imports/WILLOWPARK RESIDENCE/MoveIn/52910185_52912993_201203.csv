@@ -1,0 +1,6 @@
+BATCH,,201203,B,5050.0000,
+INVOICE,IN,,52910185,,03/07/2012,5050.0000,"MoveIn-Buchholz. Len Doris",,03/07/2012,03/07/2012,,52912993,5050.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,25,113.0000,2825,"Basic Service Fee - One Bedroom: Buchholz. Len Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,25,28.0000,700,"Resident Care - Level 2: Buchholz. Len Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Buchholz. Len Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,1500.0000,1500,"New Resident Fee: Buchholz. Len Doris",,,,,,,,,,,,,,,

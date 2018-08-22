@@ -1,0 +1,5 @@
+BATCH,,201301,B,5584.0000,
+INVOICE,IN,,11910265,,01/01/2013,5584.0000,"January_Rent-Kipin. Peter",,01/01/2013,01/10/2013,,11916095,7977.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,31,95.0000,2945,"Basic Service Fee - Studio: Kipin. Peter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,31,84.0000,2604,"Resident Care - Level 6: Kipin. Peter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,35.0000,35,"Monthly Cable: Kipin. Peter",,,,,,,,,,,,,,,

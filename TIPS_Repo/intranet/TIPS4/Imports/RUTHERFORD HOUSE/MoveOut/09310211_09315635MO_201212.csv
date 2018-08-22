@@ -1,0 +1,8 @@
+BATCH,,201212,B,5210.0000,
+INVOICE,IN,,09310211,,12/08/2012,1118.0000,"Invoice-Private",,12/08/2012,12/08/2012,,09315635MO,-7004.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,1,62.0000,62.00,"CR:Limited Term Di... M.Brown 201212: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,8,33.0000,264.00,"Resident Care - Level 2 for Dec: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,8,99.0000,792.00,"Room and Board - Studio for Dec: Brown, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09310211,,12/08/2012,4092,"Invoice-Private",,12/08/2012,12/08/2012,,09315635MO,-7004.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1023,1023,"CR:Resident Care -... M.Brown 201212: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Room and Board ... M.Brown 201212: Brown, Mary",,,,,,,,,,,,,,,

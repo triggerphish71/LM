@@ -1,0 +1,5 @@
+BATCH,,201111,B,3210.0000,
+INVOICE,CM,,17610283,,11/01/2011,3210,"Invoice-Private",,11/01/2011,11/10/2011,,17614170MO,-3714.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2070,2070,"CR:Basic Service F... J.Dudd 201111: Dudd, John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... J.Dudd 201111: Dudd, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,840,840,"CR:Resident Care -... J.Dudd 201111: Dudd, John",,,,,,,,,,,,,,,

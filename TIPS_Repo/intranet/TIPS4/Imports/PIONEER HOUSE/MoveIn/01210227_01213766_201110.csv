@@ -1,0 +1,5 @@
+BATCH,,201110,B,2691.0000,
+INVOICE,IN,,01210227,,10/18/2011,2691.0000,"MoveIn-Winnett. Howard",,10/18/2011,10/18/2011,,01213766,5210.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,14,83.0000,1162,"Basic Service Fee - Studio         : Winnett. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Winnett. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Winnett. Howard",,,,,,,,,,,,,,,

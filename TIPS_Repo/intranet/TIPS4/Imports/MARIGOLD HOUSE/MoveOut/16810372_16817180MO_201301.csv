@@ -1,0 +1,7 @@
+BATCH,,201301,B,5512.5000,
+INVOICE,IN,,16810372,,01/18/2013,2025.0000,"Invoice-Private",,01/18/2013,01/18/2013,,16817180MO,-4612.5000,,,,,,,,,,
+TRANSACTION,3020,010313168,18,74.5000,1341.00,"Basic Service Fee - Second Resident for Jan: Miller, Odis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,18,38.0000,684.00,"Resident Care - Level 3 for Jan: Miller, Odis",,,,,,,,,,,,,,,
+INVOICE,CM,,16810372,,01/18/2013,3487.5,"Invoice-Private",,01/18/2013,01/18/2013,,16817180MO,-4612.5000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2309.5,2309.5,"CR:Basic Service F... O.Miller 201301: Miller, Odis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1178,1178,"CR:Resident Care -... O.Miller 201301: Miller, Odis",,,,,,,,,,,,,,,

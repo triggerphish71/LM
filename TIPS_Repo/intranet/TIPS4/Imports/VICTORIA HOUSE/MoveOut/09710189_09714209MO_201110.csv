@@ -1,0 +1,5 @@
+BATCH,,201110,B,1240.0000,
+INVOICE,IN,,09710189,,10/01/2011,620.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09714209MO,-4597.8000,,,,,,,,,,
+TRANSACTION,3320,010103097,31,20.0000,620.00,"Credit for Limited Term Discount: Decava, Jim (James)",,,,,,,,,,,,,,,
+INVOICE,CM,,09710189,,10/01/2011,620,"Invoice-Private",,10/01/2011,10/10/2011,,09714209MO,-4597.8000,,,,,,,,,,
+TRANSACTION,3320,010103097,31,20,620,"Limited Term Discount: Decava, Jim (James)",,,,,,,,,,,,,,,

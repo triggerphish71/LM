@@ -1,0 +1,7 @@
+BATCH,,201208,B,3910.9000,
+INVOICE,IN,,01210255,,08/04/2012,446.9600,"Invoice-Private",,08/04/2012,08/04/2012,,01214071MO,-3016.9800,,,,,,,,,,
+TRANSACTION,3020,010103012,4,101.0000,404.00,"Basic Service Fee - One Bedroom for Aug: Morris, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,4,10.7400,42.96,"Resident Care - Level 6 for Aug: Morris, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01210255,,08/04/2012,3463.94,"Invoice-Private",,08/04/2012,08/04/2012,,01214071MO,-3016.9800,,,,,,,,,,
+TRANSACTION,3020,010103012,1,3131,3131,"CR:Basic Service F... J.Morris 201208: Morris, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,332.94,332.94,"CR:Resident Care -... J.Morris 201208: Morris, John",,,,,,,,,,,,,,,

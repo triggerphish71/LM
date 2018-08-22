@@ -1,0 +1,8 @@
+BATCH,,201112,B,8352.0000,
+INVOICE,IN,,51310145,,12/04/2011,2834.0000,"Invoice-Private",,12/04/2011,12/04/2011,,51313637MO,-2684.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,11,103.0000,1133.00,"Basic Service Fee- Studio for Dec: Blank, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,11,75.0000,825.00,"Resident Care - Level 6 for Dec: Blank, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3299,010310513,1,876.0000,876.00,"Damages: Blank, Vernon",,,,,,,,,,,,,,,
+INVOICE,CM,,51310145,,12/04/2011,5518,"Invoice-Private",,12/04/2011,12/04/2011,,51313637MO,-2684.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3193,3193,"CR:Basic Service F... V.Blank 201112: Blank, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2325,2325,"CR:Resident Care -... V.Blank 201112: Blank, Vernon",,,,,,,,,,,,,,,

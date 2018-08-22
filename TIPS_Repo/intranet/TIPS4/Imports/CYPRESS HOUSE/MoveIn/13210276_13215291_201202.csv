@@ -1,0 +1,6 @@
+BATCH,,201202,B,4847.0000,
+INVOICE,IN,,13210276,,02/10/2012,4847.0000,"MoveIn-Noble. Lucille",,02/10/2012,02/10/2012,,13215291,4847.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,20,124.0000,2480,"Basic Service Fee - One Bedroom: Noble. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,20,17.0000,340,"Resident Care - Level 1: Noble. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Noble. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Noble. Lucille",,,,,,,,,,,,,,,

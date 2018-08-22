@@ -1,0 +1,7 @@
+BATCH,,201202,B,126.0000,
+INVOICE,IN,,14410228,,02/01/2012,63.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14414982MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Henslee, Claud",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Henslee, Claud",,,,,,,,,,,,,,,
+INVOICE,CM,,14410228,,02/01/2012,63,"Invoice-Private",,02/01/2012,02/10/2012,,14414982MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Henslee, Claud",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Henslee, Claud",,,,,,,,,,,,,,,

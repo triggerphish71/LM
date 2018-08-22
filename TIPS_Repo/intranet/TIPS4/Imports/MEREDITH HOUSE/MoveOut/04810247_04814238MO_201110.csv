@@ -1,0 +1,5 @@
+BATCH,,201110,B,2418.0000,
+INVOICE,IN,,04810247,,10/01/2011,1209.0000,"Invoice-Private",,10/01/2011,10/10/2011,,04814238MO,-1284.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,31,39.0000,1209.00,"Credit for Limited Term Discount: Frazier, Leroy",,,,,,,,,,,,,,,
+INVOICE,CM,,04810247,,10/01/2011,1209,"Invoice-Private",,10/01/2011,10/10/2011,,04814238MO,-1284.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,31,39,1209,"Limited Term Discount: Frazier, Leroy",,,,,,,,,,,,,,,

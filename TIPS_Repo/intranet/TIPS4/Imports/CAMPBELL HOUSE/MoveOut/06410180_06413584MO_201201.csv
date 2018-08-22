@@ -1,0 +1,5 @@
+BATCH,,201201,B,70.0000,
+INVOICE,IN,,06410180,,01/01/2012,35.0000,"Invoice-Private",,01/01/2012,01/10/2012,,06413584MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35.00,"Monthly Cable: Prather, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,06410180,,01/01/2012,35,"Invoice-Private",,01/01/2012,01/10/2012,,06413584MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"Credit for Monthly Cable: Prather, Juanita",,,,,,,,,,,,,,,

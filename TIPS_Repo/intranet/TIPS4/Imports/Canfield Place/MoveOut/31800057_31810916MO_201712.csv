@@ -1,0 +1,7 @@
+BATCH,,201712,B,6422.0000,
+INVOICE,IN,,31800057,,12/07/2017,1183.0000,"Invoice-Private",,12/07/2017,12/07/2017,,31810916MO,-4056.0000,,,,,,,,,,
+TRANSACTION,3020,070005318,7,101.0000,707.00,"One Bedroom  for Dec: Wallace, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,070005318,7,68.0000,476.00,"Resident Care - Level 4  for Dec: Wallace, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,31800057,,12/07/2017,5239,"Invoice-Private",,12/07/2017,12/07/2017,,31810916MO,-4056.0000,,,,,,,,,,
+TRANSACTION,3020,070005318,1,3131,3131,"CR:One Bedroom... J.Wallace 201712: Wallace, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,070005318,1,2108,2108,"CR:Resident Care -... J.Wallace 201712: Wallace, Joseph",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,7760.0000,
+INVOICE,IN,,12110272,,11/01/2012,3560.0000,"Invoice-Private",,11/01/2012,11/01/2012,,12116089MO,-3616.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,1320.0000,1320.00,"CR:Limited Term Di... R.Kiersztyn 201211: Kiersztyn, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,16,124.0000,1984.00,"Basic Service Fee- One Bedroom Prem for Nov: Kiersztyn, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,16,16.0000,256.00,"Resident Care - Level 1 for Nov: Kiersztyn, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,12110272,,11/01/2012,4200,"Invoice-Private",,11/01/2012,11/01/2012,,12116089MO,-3616.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3720,3720,"CR:Basic Service F... R.Kiersztyn 201211: Kiersztyn, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,480,480,"CR:Resident Care -... R.Kiersztyn 201211: Kiersztyn, Rosemary",,,,,,,,,,,,,,,

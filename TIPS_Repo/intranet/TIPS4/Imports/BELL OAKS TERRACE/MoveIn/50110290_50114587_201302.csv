@@ -1,0 +1,5 @@
+BATCH,,201302,B,2850.0000,
+INVOICE,IN,,50110290,,02/14/2013,2850.0000,"MoveIn-Guerro. Ramona",,02/14/2013,02/14/2013,,50114587,5608.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,15,88.0000,1320,"Basic Service Fee - Studio: Guerro. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Guerro. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Guerro. Ramona",,,,,,,,,,,,,,,

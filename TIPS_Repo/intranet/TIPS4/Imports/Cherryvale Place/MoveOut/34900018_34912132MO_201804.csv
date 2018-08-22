@@ -1,0 +1,5 @@
+BATCH,,201804,B,5866.7000,
+INVOICE,IN,,34900018,,04/10/2018,1466.7000,"Invoice-Private",,04/10/2018,04/10/2018,,34912132MO,-7333.3000,,,,,,,,,,
+TRANSACTION,3010,070027349,1,1466.7000,1466.70,"MC Studio Deluxe  for Apr: Falkenstein, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,34900018,,04/10/2018,4400,"Invoice-Private",,04/10/2018,04/10/2018,,34912132MO,-7333.3000,,,,,,,,,,
+TRANSACTION,3010,070027349,1,4400,4400,"CR:MC Studio Delux... S.Falkenstein 201804: Falkenstein, Shirley",,,,,,,,,,,,,,,

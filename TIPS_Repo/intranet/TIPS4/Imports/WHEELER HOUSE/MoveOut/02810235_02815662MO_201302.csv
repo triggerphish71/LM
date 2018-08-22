@@ -1,0 +1,7 @@
+BATCH,,201302,B,4845.0000,
+INVOICE,IN,,02810235,,02/23/2013,2185.0000,"Invoice-Private",,02/23/2013,02/23/2013,,02815662MO,-3104.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,23,70.0000,1610.00,"Basic Service Fee - Studio for Feb: Brasher, Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,23,25.0000,575.00,"Resident Care - Level 2 for Feb: Brasher, Sherry",,,,,,,,,,,,,,,
+INVOICE,CM,,02810235,,02/23/2013,2660,"Invoice-Private",,02/23/2013,02/23/2013,,02815662MO,-3104.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,1960,1960,"CR:Basic Service F... S.Brasher 201302: Brasher, Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,700,700,"CR:Resident Care -... S.Brasher 201302: Brasher, Sherry",,,,,,,,,,,,,,,

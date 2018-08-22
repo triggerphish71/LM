@@ -1,0 +1,5 @@
+BATCH,,201112,B,3277.0000,
+INVOICE,IN,,07410214,,12/09/2011,3277.0000,"MoveIn-McGee. Melva",,12/09/2011,12/09/2011,,07413706,3277.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,23,84.0000,1932,"Basic Service Fee - Deluxe: McGee. Melva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,23,15.0000,345,"Resident Care - Level 1: McGee. Melva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: McGee. Melva",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,54.0000,
+INVOICE,IN,,13010270,,10/01/2011,27.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13015352MO,-571.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Noca, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,13010270,,10/01/2011,27,"Invoice-Private",,10/01/2011,10/10/2011,,13015352MO,-571.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Noca, Josephine",,,,,,,,,,,,,,,

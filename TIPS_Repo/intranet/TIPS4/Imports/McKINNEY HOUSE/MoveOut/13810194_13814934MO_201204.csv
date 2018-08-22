@@ -1,0 +1,7 @@
+BATCH,,201204,B,4410.0000,
+INVOICE,IN,,13810194,,04/01/2012,630.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13814934MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,5,96.0000,480.00,"Basic Service Fee - Studio for Apr: Hahnert, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,5,30.0000,150.00,"Resident Care - Level 2 for Apr: Hahnert, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,13810194,,04/01/2012,3780,"Invoice-Private",,04/01/2012,04/10/2012,,13814934MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2880,2880,"CR:Basic Service F... J.Hahnert 201204: Hahnert, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,900,900,"CR:Resident Care -... J.Hahnert 201204: Hahnert, Jack",,,,,,,,,,,,,,,

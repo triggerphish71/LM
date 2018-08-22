@@ -1,0 +1,7 @@
+BATCH,,201308,B,3840.0000,
+INVOICE,IN,,05710340,,08/01/2013,864.0000,"Invoice-Private",,08/01/2013,08/10/2013,,05716111MO,-2112.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,9,80.0000,720.00,"Basic Service Fee - One Bedroom for Aug: Livingston, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,9,16.0000,144.00,"Resident Care - Level 1 for Aug: Livingston, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,05710340,,08/01/2013,2976,"Invoice-Private",,08/01/2013,08/10/2013,,05716111MO,-2112.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2480,2480,"CR:Basic Service F... C.Livingston 201308: Livingston, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,496,496,"CR:Resident Care -... C.Livingston 201308: Livingston, Carol",,,,,,,,,,,,,,,

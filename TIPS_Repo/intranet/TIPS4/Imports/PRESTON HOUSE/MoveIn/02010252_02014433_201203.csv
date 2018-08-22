@@ -1,0 +1,5 @@
+BATCH,,201203,B,4439.0000,
+INVOICE,IN,,02010252,,03/01/2012,4439.0000,"MoveIn-Wilcox. Doris",,03/01/2012,03/01/2012,,02014433,4439.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,31,94.0000,2914,"Basic Service Fee - Studio: Wilcox. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Wilcox. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202020,1,1500.0000,1500,"New Resident Fee: Wilcox. Doris",,,,,,,,,,,,,,,

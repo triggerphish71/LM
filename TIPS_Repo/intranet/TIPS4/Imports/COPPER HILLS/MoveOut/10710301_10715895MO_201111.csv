@@ -1,0 +1,7 @@
+BATCH,,201111,B,5904.0000,
+INVOICE,IN,,10710301,,11/17/2011,2214.0000,"Invoice-Private",,11/17/2011,11/17/2011,,10715895MO,-5289.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,18,95.0000,1710.00,"Basic Service Fee - Studio for Nov: Huffman, Hope",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,18,28.0000,504.00,"Resident Care - Level 2 for Nov: Huffman, Hope",,,,,,,,,,,,,,,
+INVOICE,CM,,10710301,,11/17/2011,3690,"Invoice-Private",,11/17/2011,11/17/2011,,10715895MO,-5289.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2850,2850,"CR:Basic Service F... H.Huffman 201111: Huffman, Hope",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,840,840,"CR:Resident Care -... H.Huffman 201111: Huffman, Hope",,,,,,,,,,,,,,,

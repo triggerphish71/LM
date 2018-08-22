@@ -1,0 +1,6 @@
+BATCH,,201301,B,6534.0000,
+INVOICE,IN,,11410153,,01/22/2013,3093.0000,"Invoice-Private",,01/22/2013,01/22/2013,,11414227MO,-2868.0000,,,,,,,,,,
+TRANSACTION,3320,010306114,1,651.0000,651.00,"CR:Limited Term Di... M.Austin 201301: Austin, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306114,22,111.0000,2442.00,"Basic Service Fee - Studio for Jan: Austin, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,11410153,,01/22/2013,3441,"Invoice-Private",,01/22/2013,01/22/2013,,11414227MO,-2868.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3441,3441,"CR:Basic Service F... M.Austin 201301: Austin, Mildred",,,,,,,,,,,,,,,

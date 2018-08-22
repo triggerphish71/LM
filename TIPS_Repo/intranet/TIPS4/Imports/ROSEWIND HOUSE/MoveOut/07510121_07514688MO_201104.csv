@@ -1,0 +1,8 @@
+BATCH,,201104,B,2415.9600,
+INVOICE,IN,,07510121,,04/23/2011,704.2600,"Invoice-Medicaid",,04/23/2011,04/23/2011,,07514688MO,-2756.7300,,,,,,,,,,
+TRANSACTION,3021,010104075,23,11.1500,256.45,"Medicaid Co-Pay for Apr: Bashford, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104075,23,19.4700,447.81,"Medicaid Room & Board for Apr: Bashford, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,07510121,,04/23/2011,1711.7,"Invoice-Medicaid",,04/23/2011,04/23/2011,,07514688MO,-2756.7300,,,,,,,,,,
+TRANSACTION,3021,010104075,1,334.53,334.53,"CR:Medicaid Co-Pay... R.Bashford 201104: Bashford, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104075,1,584,584,"CR:Medicaid Room &... R.Bashford 201104: Bashford, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104075,1,793.17,793.17,"CR:State Medicaid... R.Bashford 201104: Bashford, Ruth",,,,,,,,,,,,,,,

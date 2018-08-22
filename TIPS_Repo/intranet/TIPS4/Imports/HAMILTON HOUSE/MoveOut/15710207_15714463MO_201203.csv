@@ -1,0 +1,8 @@
+BATCH,,201203,B,5990.0000,
+INVOICE,IN,,15710207,,03/02/2012,1341.0000,"Invoice-Private",,03/02/2012,03/02/2012,,15714463MO,-3308.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,9,92.0000,828.00,"Basic Service Fee - Studio for Mar: Marqueling, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,9,57.0000,513.00,"Resident Care - Level 4 for Mar: Marqueling, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,15710207,,03/02/2012,4649,"Invoice-Private",,03/02/2012,03/02/2012,,15714463MO,-3308.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... F.Marqueling 201203: Marqueling, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... F.Marqueling 201203: Marqueling, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1767,1767,"CR:Resident Care -... F.Marqueling 201203: Marqueling, Francis",,,,,,,,,,,,,,,

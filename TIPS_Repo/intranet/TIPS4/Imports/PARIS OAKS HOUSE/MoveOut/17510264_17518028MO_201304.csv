@@ -1,0 +1,7 @@
+BATCH,,201304,B,4400.0000,
+INVOICE,IN,,17510264,,04/20/2013,1760.0000,"Invoice-Private",,04/20/2013,04/20/2013,,17518028MO,-3608.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,20,76.0000,1520.00,"Basic Service Fee - Studio Deluxe for Apr: Arney, Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,20,12.0000,240.00,"Resident Care - Level 1 for Apr: Arney, Calvin",,,,,,,,,,,,,,,
+INVOICE,CM,,17510264,,04/20/2013,2640,"Invoice-Private",,04/20/2013,04/20/2013,,17518028MO,-3608.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Basic Service F... C.Arney 201304: Arney, Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,360,360,"CR:Resident Care -... C.Arney 201304: Arney, Calvin",,,,,,,,,,,,,,,

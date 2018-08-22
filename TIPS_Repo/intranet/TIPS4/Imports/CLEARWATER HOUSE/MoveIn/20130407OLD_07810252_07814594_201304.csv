@@ -1,0 +1,6 @@
+BATCH,,201304,B,4784.2500,
+INVOICE,IN,,07810252,,04/06/2013,4784.2500,"MoveIn-Jones. Charlotte",,04/06/2013,04/06/2013,,07814594,4784.2500,,,,,,,,,,
+TRANSACTION,3010,010104078,25,81.0000,2025,"C.Jones: Basic Service Fee - Studio: Jones. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,25,89.3700,2234.25,"C.Jones: Resident Care - Level 6 + 3 points: Jones. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Jones. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,500.0000,500,"New Resident Fee: Jones. Charlotte",,,,,,,,,,,,,,,

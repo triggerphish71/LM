@@ -1,0 +1,6 @@
+BATCH,,201306,B,3515.0000,
+INVOICE,IN,,02010267,,06/01/2013,3515.0000,"MoveIn-Godbey. Dorothy",,06/01/2013,06/01/2013,,02014743,3515.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,30,94.0000,2820,"Basic Service Fee - Studio: Godbey. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202020,30,14.0000,420,"Resident Care - Level 1: Godbey. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Godbey. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3299,010202020,1,250.0000,250,"Pet Fee - Non Refundable: Godbey. Dorothy",,,,,,,,,,,,,,,

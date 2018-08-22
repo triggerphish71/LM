@@ -1,0 +1,7 @@
+BATCH,,201212,B,6300.0000,
+INVOICE,IN,,15810273,,12/14/2012,1960.0000,"Invoice-Private",,12/14/2012,12/14/2012,,15814857MO,-6720.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,14,96.0000,1344.00,"Basic Service Fee - Studio for Dec: Tibbs, Lilly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,14,44.0000,616.00,"Resident Care - Level 3 for Dec: Tibbs, Lilly",,,,,,,,,,,,,,,
+INVOICE,CM,,15810273,,12/14/2012,4340,"Invoice-Private",,12/14/2012,12/14/2012,,15814857MO,-6720.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... L.Tibbs 201212: Tibbs, Lilly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1364,1364,"CR:Resident Care -... L.Tibbs 201212: Tibbs, Lilly",,,,,,,,,,,,,,,

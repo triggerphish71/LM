@@ -1,0 +1,6 @@
+BATCH,,201202,B,5673.4600,
+INVOICE,IN,,15310239,,02/01/2012,5673.4600,"MoveIn-Riggs. Mable",,02/01/2012,02/01/2012,,15315883,5673.4600,,,,,,,,,,
+TRANSACTION,3010,010103153,29,115.0000,3335,"Basic Service Fee - One Bedroom: Riggs. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,29,10.7400,311.46,"Resident Care - Level 6: Riggs. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Riggs. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Riggs. Mable",,,,,,,,,,,,,,,

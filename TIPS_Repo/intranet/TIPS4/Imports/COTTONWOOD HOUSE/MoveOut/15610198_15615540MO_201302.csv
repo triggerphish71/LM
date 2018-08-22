@@ -1,0 +1,5 @@
+BATCH,,201302,B,90.0000,
+INVOICE,IN,,15610198,,02/01/2013,45.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15615540MO,-7930.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45.0000,45.00,"Pendant Fee: Musser, Elizabeth Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,15610198,,02/01/2013,45,"Invoice-Private",,02/01/2013,02/10/2013,,15615540MO,-7930.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"Credit for Pendant Fee: Musser, Elizabeth Betty",,,,,,,,,,,,,,,

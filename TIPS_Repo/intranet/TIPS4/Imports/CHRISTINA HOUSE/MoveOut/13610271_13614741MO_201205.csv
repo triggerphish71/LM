@@ -1,0 +1,8 @@
+BATCH,,201205,B,4481.0000,
+INVOICE,IN,,13610271,,05/01/2012,912.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13614741MO,-2657.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,8,55.0000,440.00,"Basic Service Fee - Studio for May: Caviston, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,8,59.0000,472.00,"Resident Care - Level 4 for May: Caviston, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,13610271,,05/01/2012,3569,"Invoice-Private",,05/01/2012,05/10/2012,,13614741MO,-2657.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1705,1705,"CR:Basic Service F... E.Caviston 201205: Caviston, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... E.Caviston 201205: Caviston, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,1829,1829,"CR:Resident Care -... E.Caviston 201205: Caviston, Eugene",,,,,,,,,,,,,,,

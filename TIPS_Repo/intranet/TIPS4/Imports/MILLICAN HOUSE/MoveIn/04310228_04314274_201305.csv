@@ -1,0 +1,5 @@
+BATCH,,201305,B,2460.0000,
+INVOICE,IN,,04310228,,05/17/2013,2460.0000,"MoveIn-Post. Marietta",,05/17/2013,05/17/2013,,04314274,5880.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,15,98.0000,1470,"Basic Service Fee - Studio: Post. Marietta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,15,16.0000,240,"Resident Care - Level 1: Post. Marietta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,750.0000,750,"New Resident Fee: Post. Marietta",,,,,,,,,,,,,,,

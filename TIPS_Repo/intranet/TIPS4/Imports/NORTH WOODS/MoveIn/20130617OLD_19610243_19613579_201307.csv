@@ -1,0 +1,6 @@
+BATCH,,201307,B,4716.0000,
+INVOICE,IN,,19610243,,07/01/2013,4716.0000,"July_Rent-Baum. Nancy",,07/01/2013,07/10/2013,,19613579,9167.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,31,106.0000,3286,"Basic Service Fee - One Bedroom: Baum. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,31,35.0000,1085,"Resident Care - Level 3: Baum. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Baum. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10.0000,310,"CC Meals: Baum. Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,4215.0000,
+INVOICE,IN,,05810233,,08/24/2012,1978.0000,"Invoice-Private",,08/24/2012,08/24/2012,,05814040MO,-2839.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,23,37.0000,851.00,"Basic Service Fee - Second Resident for Aug: Mary, Rock",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,23,49.0000,1127.00,"Service : lvl 0 to lvl 4 - 8/9/12 for Aug: Mary, Rock",,,,,,,,,,,,,,,
+INVOICE,CM,,05810233,,08/24/2012,2237,"Invoice-Private",,08/24/2012,08/24/2012,,05814040MO,-2839.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,1110,1110,"CR:Basic Service F... R.Mary 201208: Mary, Rock",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1127,1127,"CR:Service : lvl 0... R.Mary 201208: Mary, Rock",,,,,,,,,,,,,,,

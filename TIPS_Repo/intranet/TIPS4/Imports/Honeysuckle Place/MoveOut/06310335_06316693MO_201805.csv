@@ -1,0 +1,5 @@
+BATCH,,201805,B,51.6000,
+INVOICE,IN,,06310335,,05/01/2018,25.8000,"Invoice-Private",,05/01/2018,05/10/2018,,06316693MO,-5465.8000,,,,,,,,,,
+TRANSACTION,3260,010004063,1,25.8000,25.80,"Monthly Cable: Erickson, Glen",,,,,,,,,,,,,,,
+INVOICE,CM,,06310335,,05/01/2018,25.8,"Invoice-Private",,05/01/2018,05/10/2018,,06316693MO,-5465.8000,,,,,,,,,,
+TRANSACTION,3260,010004063,1,25.8,25.8,"Credit for Monthly Cable: Erickson, Glen",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,7570.0000,
+INVOICE,IN,,11710226,,05/01/2013,3045.0000,"Invoice-Private",,05/01/2013,05/10/2013,,11714110MO,-5860.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,21,87.0000,1827.00,"Basic Service Fee - Studio for May: Rafferty, Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,21,58.0000,1218.00,"Resident Care - Level 4 for May: Rafferty, Eloise",,,,,,,,,,,,,,,
+INVOICE,CM,,11710226,,05/01/2013,4525,"Invoice-Private",,05/01/2013,05/10/2013,,11714110MO,-5860.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2697,2697,"CR:Basic Service F... E.Rafferty 201305: Rafferty, Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30,30,"CR:Monthly Cable... E.Rafferty 201305: Rafferty, Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,1798,1798,"CR:Resident Care -... E.Rafferty 201305: Rafferty, Eloise",,,,,,,,,,,,,,,

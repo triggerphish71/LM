@@ -1,0 +1,7 @@
+BATCH,,201203,B,8745.0000,
+INVOICE,IN,,15610291,,03/15/2012,3816.0000,"Invoice-Private",,03/15/2012,03/15/2012,,15615172MO,-5883.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,24,111.0000,2664.00,"Basic Service Fee - One Bedroom for Mar: Hollis, Willaim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,24,48.0000,1152.00,"Resident Care - Level 3 for Mar: Hollis, Willaim",,,,,,,,,,,,,,,
+INVOICE,CM,,15610291,,03/15/2012,4929,"Invoice-Private",,03/15/2012,03/15/2012,,15615172MO,-5883.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3441,3441,"CR:Basic Service F... W.Hollis 201203: Hollis, Willaim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,1488,1488,"CR:Resident Care -... W.Hollis 201203: Hollis, Willaim",,,,,,,,,,,,,,,

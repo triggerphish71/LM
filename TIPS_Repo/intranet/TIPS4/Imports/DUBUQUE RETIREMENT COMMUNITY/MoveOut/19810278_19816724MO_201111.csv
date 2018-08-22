@@ -1,0 +1,7 @@
+BATCH,,201111,B,2542.0000,
+INVOICE,IN,,19810278,,11/11/2011,682.0000,"Invoice-Private",,11/11/2011,11/11/2011,,19816724MO,-1178.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,11,15.0000,165.00,"Basic Service Fee Second Resident for Nov: Kramer, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,11,47.0000,517.00,"Swan Personal Care - L2 for Nov: Kramer, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,19810278,,11/11/2011,1860,"Invoice-Private",,11/11/2011,11/11/2011,,19816724MO,-1178.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,450,450,"CR:Basic Service F... G.Kramer 201111: Kramer, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1410,1410,"CR:Swan Personal C... G.Kramer 201111: Kramer, Geraldine",,,,,,,,,,,,,,,

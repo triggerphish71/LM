@@ -1,0 +1,5 @@
+BATCH,,201211,B,961.0000,
+INVOICE,IN,,16810425,,10/31/2012,31.0000,"MoveIn-Cornes. Carol",,10/31/2012,10/31/2012,,16817009,961.0000,,,,,,,,,,
+TRANSACTION,3014,010313168,1,31.0000,31,"Basic Service Fee - Second Resident: Cornes. Carol",,,,,,,,,,,,,,,
+INVOICE,IN,,16810425,,11/01/2012,930.0000,"November_Rent-Cornes. Carol",,11/01/2012,11/10/2012,,16817009,961.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,30,31.0000,930,"Basic Service Fee - Second Resident: Cornes. Carol",,,,,,,,,,,,,,,

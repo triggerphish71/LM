@@ -1,0 +1,5 @@
+BATCH,,201106,B,3210.0000,
+INVOICE,CM,,14810301,,06/01/2011,3210,"Invoice-Private",,06/01/2011,06/10/2011,,14814571MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... H.Hood 201106: Hood, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,540,540,"CR:Resident Care -... H.Hood 201106: Hood, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2640,2640,"CR:Room and Board ... H.Hood 201106: Hood, Helen",,,,,,,,,,,,,,,

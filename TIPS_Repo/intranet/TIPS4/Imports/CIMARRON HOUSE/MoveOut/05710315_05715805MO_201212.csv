@@ -1,0 +1,6 @@
+BATCH,,201212,B,6158.0000,
+INVOICE,IN,,05710315,,12/20/2012,3244.0000,"Invoice-Private",,12/20/2012,12/20/2012,,05715805MO,-1220.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,1,1364.0000,1364.00,"CR:Limited Term Di... R.Maddux 201212: Maddux, Rickey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202057,20,94.0000,1880.00,"Basic Service Fee - Studio for Dec: Maddux, Rickey",,,,,,,,,,,,,,,
+INVOICE,CM,,05710315,,12/20/2012,2914,"Invoice-Private",,12/20/2012,12/20/2012,,05715805MO,-1220.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2914,2914,"CR:Basic Service F... R.Maddux 201212: Maddux, Rickey",,,,,,,,,,,,,,,

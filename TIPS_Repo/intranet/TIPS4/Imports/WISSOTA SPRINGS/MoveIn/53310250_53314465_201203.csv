@@ -1,0 +1,5 @@
+BATCH,,201203,B,3182.0000,
+INVOICE,IN,,53310250,,03/19/2012,3182.0000,"MoveIn-Dahl. Merle",,03/19/2012,03/19/2012,,53314465,5877.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,13,89.0000,1157,"Basic Service Fee - Studio: Dahl. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Dahl. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319533,1,2000.0000,2000,"New Resident Fee: Dahl. Merle",,,,,,,,,,,,,,,

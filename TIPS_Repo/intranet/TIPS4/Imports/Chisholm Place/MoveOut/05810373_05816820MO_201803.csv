@@ -1,0 +1,6 @@
+BATCH,,201803,B,4629.0000,
+INVOICE,IN,,05810373,,03/26/2018,2379.0000,"Invoice-Private",,03/26/2018,03/26/2018,,05816820MO,-2121.0000,,,,,,,,,,
+TRANSACTION,3017,010002058,14,36.0000,504.00," Level: 2 : Winters, Mr. Mr. Elza",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002058,25,75.0000,1875.00,"Basic Service Fee - Studio  for Mar: Winters, Mr. Mr. Elza",,,,,,,,,,,,,,,
+INVOICE,CM,,05810373,,03/26/2018,2250,"Invoice-Private",,03/26/2018,03/26/2018,,05816820MO,-2121.0000,,,,,,,,,,
+TRANSACTION,3020,010002058,1,2250,2250,"CR:Basic Service F... M.Winters 201803: Winters, Mr. Mr. Elza",,,,,,,,,,,,,,,

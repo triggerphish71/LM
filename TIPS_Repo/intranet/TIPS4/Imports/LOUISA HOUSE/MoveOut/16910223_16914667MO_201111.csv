@@ -1,0 +1,5 @@
+BATCH,,201111,B,1740.0000,
+INVOICE,IN,,16910223,,11/19/2011,840.0000,"Invoice-Private",,11/19/2011,11/19/2011,,16914667MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,28,30.0000,840.00,"Basic Service Fee - Second Resident for Nov: Hanson, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,16910223,,11/19/2011,900,"Invoice-Private",,11/19/2011,11/19/2011,,16914667MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,900,900,"CR:Basic Service F... H.Hanson 201111: Hanson, Harold",,,,,,,,,,,,,,,

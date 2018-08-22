@@ -1,0 +1,5 @@
+BATCH,,201207,B,4416.0000,
+INVOICE,IN,,03510073,,07/17/2012,1564.0000,"Invoice-Private",,07/17/2012,07/17/2012,,03513374MO,-4140.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,17,92.0000,1564.00,"Basic Service Fee - Studio for Jul: Rogers, Naurvelle E",,,,,,,,,,,,,,,
+INVOICE,CM,,03510073,,07/17/2012,2852,"Invoice-Private",,07/17/2012,07/17/2012,,03513374MO,-4140.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2852,2852,"CR:Basic Service F... N.Rogers 201207: Rogers, Naurvelle E",,,,,,,,,,,,,,,

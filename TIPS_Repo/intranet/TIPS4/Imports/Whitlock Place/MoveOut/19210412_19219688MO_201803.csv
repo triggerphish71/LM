@@ -1,0 +1,8 @@
+BATCH,,201803,B,4933.0000,
+INVOICE,IN,,19210412,,03/12/2018,1492.0000,"Invoice-Private",,03/12/2018,03/12/2018,,19219688MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3017,010009192,7,22.0000,154.00,"Level Care:  1  - 2018-03-08: O'Dell, Hulah",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009192,5,54.0000,270.00," Level Care:  3 : O'Dell, Hulah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009192,12,89.0000,1068.00,"Basic Service Fee- One Bedroom Premium  for Mar: O'Dell, Hulah",,,,,,,,,,,,,,,
+INVOICE,CM,,19210412,,03/12/2018,3441,"Invoice-Private",,03/12/2018,03/12/2018,,19219688MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3020,010009192,1,2759,2759,"CR:Basic Service F... H.O'Dell 201803: O'Dell, Hulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009192,1,682,682,"CR:Resident Care -... H.O'Dell 201803: O'Dell, Hulah",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,4794.0000,
+INVOICE,IN,,21410021,,01/03/2012,1632.0000,"Invoice-Private",,01/03/2012,01/03/2012,,21417089MO,-1530.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,16,12.0000,192.00,"Resident Care - Level 1 for Jan: Singley, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,16,90.0000,1440.00,"Studio AL B for Jan: Singley, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,21410021,,01/03/2012,3162,"Invoice-Private",,01/03/2012,01/03/2012,,21417089MO,-1530.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,372,372,"CR:Resident Care -... J.Singley 201201: Singley, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Studio AL B... J.Singley 201201: Singley, Juanita",,,,,,,,,,,,,,,

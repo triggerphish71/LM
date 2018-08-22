@@ -1,0 +1,5 @@
+BATCH,,201209,B,420.0000,
+INVOICE,IN,,51910205,,09/01/2012,210.0000,"Invoice-Private",,09/01/2012,09/10/2012,,51913420MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,30,7.0000,210.00,"Credit for Limited Term Discount: Tribble, Jovieta",,,,,,,,,,,,,,,
+INVOICE,CM,,51910205,,09/01/2012,210,"Invoice-Private",,09/01/2012,09/10/2012,,51913420MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,30,7,210,"Limited Term Discount: Tribble, Jovieta",,,,,,,,,,,,,,,

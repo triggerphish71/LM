@@ -1,0 +1,6 @@
+BATCH,,201107,B,2995.0000,
+INVOICE,IN,,05610165,,07/08/2011,2995.0000,"MoveIn-Gorrell. Leon",,07/08/2011,07/08/2011,,05614121,2995.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,24,66.0000,1584,"Basic Service Fee - Studio         : Gorrell. Leon",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,24,16.0000,384,"Resident Care - Level 1: Gorrell. Leon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Gorrell. Leon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Gorrell. Leon",,,,,,,,,,,,,,,

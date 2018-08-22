@@ -1,0 +1,6 @@
+BATCH,,201209,B,993.0000,
+INVOICE,IN,,07510267,,09/28/2012,993.0000,"MoveIn-Czuchna. Paul",,09/28/2012,09/28/2012,,07514991,5854.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,3,85.0000,255,"Basic Service Fee - Studio: Czuchna. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,3,71.0000,213,"Resident Care - Level 5: Czuchna. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Czuchna. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,500.0000,500,"New Resident Fee: Czuchna. Paul",,,,,,,,,,,,,,,

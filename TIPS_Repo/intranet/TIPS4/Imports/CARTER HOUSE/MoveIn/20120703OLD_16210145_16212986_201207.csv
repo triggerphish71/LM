@@ -1,0 +1,5 @@
+BATCH,,201207,B,4910.0000,
+INVOICE,IN,,16210145,,07/01/2012,4910.0000,"MoveIn-Bilau. Odella",,07/01/2012,07/01/2012,,16212986,4910.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,31,82.0000,2542,"Basic Service Fee - One Bedroom: Bilau. Odella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,31,28.0000,868,"Resident Care - Level 2: Bilau. Odella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Bilau. Odella",,,,,,,,,,,,,,,

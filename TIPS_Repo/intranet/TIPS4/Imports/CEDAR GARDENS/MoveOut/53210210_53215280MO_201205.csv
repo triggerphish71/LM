@@ -1,0 +1,7 @@
+BATCH,,201205,B,8151.0000,
+INVOICE,IN,,53210210,,05/18/2012,3718.0000,"Invoice-Private",,05/18/2012,05/18/2012,,53215280MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,26,114.0000,2964.00,"Basic Service Fee - Studio for May: Bannow, Judith A.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,26,29.0000,754.00,"Resident Care - Level 2 for May: Bannow, Judith A.",,,,,,,,,,,,,,,
+INVOICE,CM,,53210210,,05/18/2012,4433,"Invoice-Private",,05/18/2012,05/18/2012,,53215280MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3534,3534,"CR:Basic Service F... J.Bannow 201205: Bannow, Judith A.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,899,899,"CR:Resident Care -... J.Bannow 201205: Bannow, Judith A.",,,,,,,,,,,,,,,

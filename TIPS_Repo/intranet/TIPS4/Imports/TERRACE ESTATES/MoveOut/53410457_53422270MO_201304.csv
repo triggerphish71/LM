@@ -1,0 +1,8 @@
+BATCH,,201304,B,2820.0000,
+INVOICE,IN,,53410457,,04/17/2013,138.0000,"Invoice-Private",,04/17/2013,04/17/2013,,53422270MO,-6822.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,71.0000,71.00,"Basic Service Fee - Studio for Apr: Vander Weele, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,67.0000,67.00,"Resident Care - Level 3 for Apr: Vander Weele, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,53410457,,04/17/2013,2682,"Invoice-Private",,04/17/2013,04/17/2013,,53422270MO,-6822.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,994,994,"CR:Basic Service F... H.Vander Weele 201304: Vander Weele, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319534,1,750,750,"CR:New Resident Fe... H.Vander Weele 201304: Vander Weele, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,938,938,"CR:Resident Care -... H.Vander Weele 201304: Vander Weele, Harriet",,,,,,,,,,,,,,,

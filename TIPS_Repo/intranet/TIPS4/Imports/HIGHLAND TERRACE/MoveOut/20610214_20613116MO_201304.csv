@@ -1,0 +1,7 @@
+BATCH,,201304,B,6272.0000,
+INVOICE,IN,,20610214,,04/01/2013,2912.0000,"Invoice-Private",,04/01/2013,04/10/2013,,20613116MO,-448.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,26,21.0000,546.00,"Resident Care - Level 2 for Apr: Wilds, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,26,91.0000,2366.00,"Studio for Apr: Wilds, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,20610214,,04/01/2013,3360,"Invoice-Private",,04/01/2013,04/10/2013,,20613116MO,-448.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,630,630,"CR:Resident Care -... J.Wilds 201304: Wilds, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2730,2730,"CR:Studio... J.Wilds 201304: Wilds, Joe",,,,,,,,,,,,,,,

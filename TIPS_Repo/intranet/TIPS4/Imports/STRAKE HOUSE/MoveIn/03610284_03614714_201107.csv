@@ -1,0 +1,5 @@
+BATCH,,201107,B,4863.0000,
+INVOICE,IN,,03610284,,07/01/2011,4863.0000,"July_Rent-Matlock. Bill",,07/01/2011,07/10/2011,,03614714,6546.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,31,97.0000,3007,"Basic Service Fee - Studio         : Matlock. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,31,59.0000,1829,"Resident Care - Level 4: Matlock. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Matlock. Bill",,,,,,,,,,,,,,,

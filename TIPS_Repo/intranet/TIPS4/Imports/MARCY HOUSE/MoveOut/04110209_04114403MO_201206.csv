@@ -1,0 +1,6 @@
+BATCH,,201206,B,4020.0000,
+INVOICE,IN,,04110209,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,04114403MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,60.0000,60.00,"CR:Limited Term Di... L.Beckwith 201206: Beckwith, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,04110209,,06/01/2012,3960,"Invoice-Private",,06/01/2012,06/10/2012,,04114403MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2460,2460,"CR:Basic Service F... L.Beckwith 201206: Beckwith, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,1500,1500,"CR:Resident Care -... L.Beckwith 201206: Beckwith, Linda",,,,,,,,,,,,,,,

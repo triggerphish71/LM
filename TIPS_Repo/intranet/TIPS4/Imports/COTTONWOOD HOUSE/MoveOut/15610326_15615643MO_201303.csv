@@ -1,0 +1,7 @@
+BATCH,,201303,B,5907.0000,
+INVOICE,IN,,15610326,,03/01/2013,358.0000,"Invoice-Private",,03/01/2013,03/01/2013,,15615643MO,-5191.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,2,96.0000,192.00,"Basic Service Fee - Deluxe for Mar: Saalfeld, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,2,83.0000,166.00,"Resident Care Level Change for Mar: Saalfeld, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,15610326,,03/01/2013,5549,"Invoice-Private",,03/01/2013,03/01/2013,,15615643MO,-5191.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2976,2976,"CR:Basic Service F... L.Saalfeld 201303: Saalfeld, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2573,2573,"CR:Resident Care L... L.Saalfeld 201303: Saalfeld, Lorraine",,,,,,,,,,,,,,,

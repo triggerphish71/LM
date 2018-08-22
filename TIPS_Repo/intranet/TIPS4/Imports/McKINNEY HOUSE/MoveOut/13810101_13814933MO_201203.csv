@@ -1,0 +1,7 @@
+BATCH,,201203,B,4705.0000,
+INVOICE,IN,,13810101,,03/17/2012,1694.0000,"Invoice-Private",,03/17/2012,03/17/2012,,13814933MO,-4172.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,62.0000,62.00,"CR:Limited Term Di... M.Kathrens 201203: Kathrens, Mable",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,17,96.0000,1632.00,"Basic Service Fee - Studio for Mar: Kathrens, Mable",,,,,,,,,,,,,,,
+INVOICE,CM,,13810101,,03/17/2012,3011,"Invoice-Private",,03/17/2012,03/17/2012,,13814933MO,-4172.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... M.Kathrens 201203: Kathrens, Mable",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35,35,"CR:Pendant Fee... M.Kathrens 201203: Kathrens, Mable",,,,,,,,,,,,,,,

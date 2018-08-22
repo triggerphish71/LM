@@ -1,0 +1,7 @@
+BATCH,,201206,B,5775.0000,
+INVOICE,IN,,07710113,,06/01/2012,825.0000,"Invoice-Private",,06/01/2012,06/10/2012,,07714177MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,5,94.0000,470.00,"Basic Service Fee - Studio for Jun: McKenzie, Darlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,5,71.0000,355.00,"Resident Care - Level 5 for Jun: McKenzie, Darlene",,,,,,,,,,,,,,,
+INVOICE,CM,,07710113,,06/01/2012,4950,"Invoice-Private",,06/01/2012,06/10/2012,,07714177MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2820,2820,"CR:Basic Service F... D.McKenzie 201206: McKenzie, Darlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,2130,2130,"CR:Resident Care -... D.McKenzie 201206: McKenzie, Darlene",,,,,,,,,,,,,,,

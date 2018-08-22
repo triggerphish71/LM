@@ -1,0 +1,7 @@
+BATCH,,201208,B,6909.0000,
+INVOICE,IN,,52610209,,08/14/2012,2352.0000,"Invoice-Private",,08/14/2012,08/14/2012,,52617145MO,-6615.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,16,96.0000,1536.00,"Basic Service Fee - One Bedroom Del for Aug: Ditter, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,16,51.0000,816.00,"Resident Care - Level 2 for Aug: Ditter, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,52610209,,08/14/2012,4557,"Invoice-Private",,08/14/2012,08/14/2012,,52617145MO,-6615.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2976,2976,"CR:Basic Service F... D.Ditter 201208: Ditter, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1581,1581,"CR:Resident Care -... D.Ditter 201208: Ditter, Dorothy",,,,,,,,,,,,,,,

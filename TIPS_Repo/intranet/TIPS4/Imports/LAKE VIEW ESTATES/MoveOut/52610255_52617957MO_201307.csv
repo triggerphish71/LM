@@ -1,0 +1,6 @@
+BATCH,,201307,B,3308.0000,
+INVOICE,CM,,52610255,,07/01/2013,3308,"Invoice-Private",,07/01/2013,07/10/2013,,52617957MO,-4852.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3038,3038,"CR:Basic Service F... G.Burke 201307: Burke, Gen",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319526,1,40,40,"CR:Garage Rental... G.Burke 201307: Burke, Gen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... G.Burke 201307: Burke, Gen",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"CR:Resident Meals... G.Burke 201307: Burke, Gen",,,,,,,,,,,,,,,

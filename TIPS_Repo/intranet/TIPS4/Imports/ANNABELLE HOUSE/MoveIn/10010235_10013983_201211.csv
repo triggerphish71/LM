@@ -1,0 +1,6 @@
+BATCH,,201211,B,1875.0000,
+INVOICE,IN,,10010235,,11/16/2012,1875.0000,"MoveIn-Kimbrell. Dorothy",,11/16/2012,11/16/2012,,10013983,1875.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,15,75.0000,1125,"Basic Service Fee - Studio: Kimbrell. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,15,15.0000,225,"Resident Care - Level 1: Kimbrell. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Kimbrell. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Kimbrell. Dorothy",,,,,,,,,,,,,,,

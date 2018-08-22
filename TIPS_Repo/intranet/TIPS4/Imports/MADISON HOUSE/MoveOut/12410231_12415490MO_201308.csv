@@ -1,0 +1,8 @@
+BATCH,,201308,B,6967.0800,
+INVOICE,IN,,12410231,,08/01/2013,1275.1200,"Invoice-Private",,08/01/2013,08/01/2013,,12415490MO,-4416.8400,,,,,,,,,,
+TRANSACTION,3020,010211124,7,88.0000,616.00,"Basic Service Fee - Deluxe for Aug: Fay, Tessa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,7,94.1600,659.12,"Resident Care - Level 6+4 pts for Aug: Fay, Tessa",,,,,,,,,,,,,,,
+INVOICE,CM,,12410231,,08/01/2013,5691.96,"Invoice-Private",,08/01/2013,08/01/2013,,12415490MO,-4416.8400,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2728,2728,"CR:Basic Service F... T.Fay 201308: Fay, Tessa",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211124,1,45,45,"CR:Pendant Fee... T.Fay 201308: Fay, Tessa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,2918.96,2918.96,"CR:Resident Care -... T.Fay 201308: Fay, Tessa",,,,,,,,,,,,,,,

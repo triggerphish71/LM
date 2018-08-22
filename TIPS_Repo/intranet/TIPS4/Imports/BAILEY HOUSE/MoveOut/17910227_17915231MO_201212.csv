@@ -1,0 +1,5 @@
+BATCH,,201212,B,3608.0000,
+INVOICE,IN,,17910227,,12/13/2012,1066.0000,"Invoice-Private",,12/13/2012,12/13/2012,,17915231MO,-4018.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,13,82.0000,1066.00,"Basic Service Fee - Studio for Dec: Bradley, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17910227,,12/13/2012,2542,"Invoice-Private",,12/13/2012,12/13/2012,,17915231MO,-4018.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Basic Service F... B.Bradley 201212: Bradley, Barbara",,,,,,,,,,,,,,,

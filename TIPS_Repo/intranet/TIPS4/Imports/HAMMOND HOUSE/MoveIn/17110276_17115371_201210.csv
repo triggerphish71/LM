@@ -1,0 +1,6 @@
+BATCH,,201210,B,5850.0000,
+INVOICE,IN,,17110276,,10/01/2012,5850.0000,"MoveIn-McCain. Mrs.",,10/01/2012,10/01/2012,,17115371,5850.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,31,116.0000,3596,"M.McCain: Basic Service Fee - One Bedroom: McCain. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308171,31,17.0000,527,"M.McCain: Resident Care - Level 1: McCain. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: McCain. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1700.0000,1700,"New Resident Fee: McCain. Mrs.",,,,,,,,,,,,,,,

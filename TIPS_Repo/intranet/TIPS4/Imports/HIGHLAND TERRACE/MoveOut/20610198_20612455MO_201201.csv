@@ -1,0 +1,5 @@
+BATCH,,201201,B,868.0000,
+INVOICE,IN,,20610198,,01/01/2012,434.0000,"Invoice-Private",,01/01/2012,01/10/2012,,20612455MO,-5209.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,31,14.0000,434.00,"Credit for Limited Term Discount: Fanelli, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,20610198,,01/01/2012,434,"Invoice-Private",,01/01/2012,01/10/2012,,20612455MO,-5209.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,31,14,434,"Limited Term Discount: Fanelli, Mary",,,,,,,,,,,,,,,

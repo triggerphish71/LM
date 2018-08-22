@@ -1,0 +1,6 @@
+BATCH,,201210,B,3711.0000,
+INVOICE,IN,,15510268,,10/15/2012,3711.0000,"MoveIn-Kerrick. Kenneth",,10/15/2012,10/15/2012,,15515476,3711.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,17,89.0000,1513,"Basic Service Fee - Studio: Kerrick. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,17,69.0000,1173,"Resident Care - Level 5: Kerrick. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Kerrick. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,1000.0000,1000,"New Resident Fee: Kerrick. Kenneth",,,,,,,,,,,,,,,

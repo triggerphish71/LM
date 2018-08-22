@@ -1,0 +1,8 @@
+BATCH,,201209,B,7315.0000,
+INVOICE,IN,,50210202,,09/24/2012,3240.0000,"Invoice-Private",,09/24/2012,09/24/2012,,50213624MO,-5020.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,24,121.0000,2904.00,"Basic Service Fee - One Bedroom Del for Sep: Butcher, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,24,14.0000,336.00,"Resident Care - Level 1 for Sep: Butcher, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50210202,,09/24/2012,4075,"Invoice-Private",,09/24/2012,09/24/2012,,50213624MO,-5020.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3630,3630,"CR:Basic Service F... C.Butcher 201209: Butcher, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... C.Butcher 201209: Butcher, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,420,420,"CR:Resident Care -... C.Butcher 201209: Butcher, Charles",,,,,,,,,,,,,,,

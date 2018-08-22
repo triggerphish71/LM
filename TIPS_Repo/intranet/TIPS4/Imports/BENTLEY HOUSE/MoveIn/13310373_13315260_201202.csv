@@ -1,0 +1,6 @@
+BATCH,,201202,B,5196.0000,
+INVOICE,IN,,13310373,,02/01/2012,5196.0000,"MoveIn-Karpf. Arthur",,02/01/2012,02/01/2012,,13315260,5196.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,29,92.0000,2668,"Basic Service Fee - Studio: Karpf. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,29,17.0000,493,"Resident Care - Level 1: Karpf. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Karpf. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Karpf. Arthur",,,,,,,,,,,,,,,

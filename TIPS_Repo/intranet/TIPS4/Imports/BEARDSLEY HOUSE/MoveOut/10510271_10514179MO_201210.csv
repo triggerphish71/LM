@@ -1,0 +1,8 @@
+BATCH,,201210,B,6090.0000,
+INVOICE,IN,,10510271,,10/20/2012,2897.0000,"Invoice-Private",,10/20/2012,10/20/2012,,10514179MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,837.0000,837.00,"CR:Limited Term Di... W.Stigall 201210: Stigall, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,20,87.0000,1740.00,"Basic Service Fee - Studio for Oct: Stigall, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,20,16.0000,320.00,"Resident Care - Level 1 for Oct: Stigall, William",,,,,,,,,,,,,,,
+INVOICE,CM,,10510271,,10/20/2012,3193,"Invoice-Private",,10/20/2012,10/20/2012,,10514179MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2697,2697,"CR:Basic Service F... W.Stigall 201210: Stigall, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,496,496,"CR:Resident Care -... W.Stigall 201210: Stigall, William",,,,,,,,,,,,,,,

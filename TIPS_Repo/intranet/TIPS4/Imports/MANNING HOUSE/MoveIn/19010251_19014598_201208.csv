@@ -1,0 +1,5 @@
+BATCH,,201208,B,3183.0000,
+INVOICE,IN,,19010251,,08/10/2012,3183.0000,"MoveIn-Smith. Frances",,08/10/2012,08/10/2012,,19014598,3183.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,22,98.0000,2156,"Basic Service Fee - Studio: Smith. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Smith. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Smith. Frances",,,,,,,,,,,,,,,

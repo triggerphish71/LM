@@ -1,0 +1,5 @@
+BATCH,,201304,B,1702.0000,
+INVOICE,IN,,03610265,,04/08/2013,592.0000,"Invoice-Private",,04/08/2013,04/08/2013,,03615594MO,-1665.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,16,37.0000,592.00,"Basic Service Fee - Second Resident for Apr: Hurt, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,03610265,,04/08/2013,1110,"Invoice-Private",,04/08/2013,04/08/2013,,03615594MO,-1665.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,1110,1110,"CR:Basic Service F... M.Hurt 201304: Hurt, Marion",,,,,,,,,,,,,,,

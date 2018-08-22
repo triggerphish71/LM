@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,21410339,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21417291MO,-3013.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,2.0000,60.00,"Credit for Limited Term Discount: Woodson, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,21410339,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,21417291MO,-3013.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,2,60,"Limited Term Discount: Woodson, Ruth",,,,,,,,,,,,,,,

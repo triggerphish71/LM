@@ -1,0 +1,5 @@
+BATCH,,201111,B,3432.0000,
+INVOICE,IN,,16210128,,11/10/2011,3432.0000,"MoveIn-Wilcox. Robert",,11/10/2011,11/10/2011,,16212833,3432.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,21,64.0000,1344,"Basic Service Fee - Studio         : Wilcox. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,21,28.0000,588,"Resident Care - Level 2: Wilcox. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Wilcox. Robert",,,,,,,,,,,,,,,

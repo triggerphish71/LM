@@ -1,0 +1,7 @@
+BATCH,,201206,B,5547.0000,
+INVOICE,IN,,19010237,,06/01/2012,900.0000,"Invoice-Private",,06/01/2012,06/10/2012,,19014525MO,-4866.7200,,,,,,,,,,
+TRANSACTION,3320,010308190,1,900.0000,900.00,"CR:Limited Term Di... M.Smith 201206: Smith, Milton",,,,,,,,,,,,,,,
+INVOICE,CM,,19010237,,06/01/2012,4647,"Invoice-Private",,06/01/2012,06/10/2012,,19014525MO,-4866.7200,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3390,3390,"CR:Basic Service F... M.Smith 201206: Smith, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... M.Smith 201206: Smith, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,1230,1230,"CR:Resident Care -... M.Smith 201206: Smith, Milton",,,,,,,,,,,,,,,

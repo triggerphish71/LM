@@ -1,0 +1,8 @@
+BATCH,,201112,B,4427.7800,
+INVOICE,IN,,20810191,,12/03/2011,1792.7800,"Invoice-Private",,12/03/2011,12/03/2011,,20812895MO,-842.2200,,,,,,,,,,
+TRANSACTION,3320,010216208,1,1282.7800,1282.78,"CR:Limited Term Di... J.Walls 201112: Walls, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,6,11.0000,66.00,"Resident Care - Level 1 for Dec: Walls, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,6,74.0000,444.00,"Studio for Dec: Walls, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20810191,,12/03/2011,2635,"Invoice-Private",,12/03/2011,12/03/2011,,20812895MO,-842.2200,,,,,,,,,,
+TRANSACTION,3027,010216208,1,341,341,"CR:Resident Care -... J.Walls 201112: Walls, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2294,2294,"CR:Studio... J.Walls 201112: Walls, James",,,,,,,,,,,,,,,

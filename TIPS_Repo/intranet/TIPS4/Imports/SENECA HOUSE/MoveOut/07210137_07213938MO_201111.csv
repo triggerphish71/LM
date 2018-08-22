@@ -1,0 +1,7 @@
+BATCH,,201111,B,6438.0000,
+INVOICE,IN,,07210137,,11/27/2011,3108.0000,"Invoice-Private",,11/27/2011,11/27/2011,,07213938MO,-3663.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,28,93.0000,2604.00,"Basic Service Fee - Studio for Nov: Boes, Louis ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,28,18.0000,504.00,"Resident Care - Level 1 for Nov: Boes, Louis ",,,,,,,,,,,,,,,
+INVOICE,CM,,07210137,,11/27/2011,3330,"Invoice-Private",,11/27/2011,11/27/2011,,07213938MO,-3663.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2790,2790,"CR:Basic Service F... L.Boes 201111: Boes, Louis ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,540,540,"CR:Resident Care -... L.Boes 201111: Boes, Louis ",,,,,,,,,,,,,,,

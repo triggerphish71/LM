@@ -1,0 +1,8 @@
+BATCH,,201204,B,8359.0000,
+INVOICE,IN,,08410164,,04/01/2012,2749.0000,"Invoice-Private",,04/01/2012,04/10/2012,,08413955MO,-2861.0000,,,,,,,,,,
+TRANSACTION,3320,010306084,1,1440.0000,1440.00,"CR:Limited Term Di... M.Thornton 201204: Thornton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306084,7,106.0000,742.00,"Basic Service Fee - Studio for Apr: Thornton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,7,81.0000,567.00,"Resident Care - Level 5 for Apr: Thornton, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08410164,,04/01/2012,5610,"Invoice-Private",,04/01/2012,04/10/2012,,08413955MO,-2861.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,3180,3180,"CR:Basic Service F... M.Thornton 201204: Thornton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,2430,2430,"CR:Resident Care -... M.Thornton 201204: Thornton, Mary",,,,,,,,,,,,,,,

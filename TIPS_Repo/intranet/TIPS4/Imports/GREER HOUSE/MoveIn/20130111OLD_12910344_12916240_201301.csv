@@ -1,0 +1,5 @@
+BATCH,,201301,B,3186.0000,
+INVOICE,IN,,12910344,,01/10/2013,3186.0000,"MoveIn-Baxter. James",,01/10/2013,01/10/2013,,12916240,3186.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,22,98.0000,2156,"Basic Service Fee - Studio: Baxter. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Baxter. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,1000.0000,1000,"New Resident Fee: Baxter. James",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,5830.0000,
+INVOICE,IN,,04110248,,01/01/2013,2761.0000,"Invoice-Private",,01/01/2013,01/10/2013,,04114750MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,682.0000,682.00,"CR:Limited Term Di... L.Turner 201301: Turner, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,21,82.0000,1722.00,"Basic Service Fee - Studio for Jan: Turner, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,21,17.0000,357.00,"Resident Care - Level 1 for Jan: Turner, Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,04110248,,01/01/2013,3069,"Invoice-Private",,01/01/2013,01/10/2013,,04114750MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... L.Turner 201301: Turner, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... L.Turner 201301: Turner, Lee",,,,,,,,,,,,,,,

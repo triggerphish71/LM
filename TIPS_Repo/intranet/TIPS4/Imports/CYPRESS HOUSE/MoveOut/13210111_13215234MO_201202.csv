@@ -1,0 +1,5 @@
+BATCH,,201202,B,54.0000,
+INVOICE,IN,,13210111,,02/01/2012,27.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13215234MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Case, Verneil",,,,,,,,,,,,,,,
+INVOICE,CM,,13210111,,02/01/2012,27,"Invoice-Private",,02/01/2012,02/10/2012,,13215234MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Case, Verneil",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,4278.0000,
+INVOICE,IN,,15710251,,11/01/2012,138.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15714753MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,92.0000,92.00,"Basic Service Fee - Studio for Nov: Guethe, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,46.0000,46.00,"Resident Care - Level 3 for Nov: Guethe, Iris",,,,,,,,,,,,,,,
+INVOICE,CM,,15710251,,11/01/2012,4140,"Invoice-Private",,11/01/2012,11/10/2012,,15714753MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2760,2760,"CR:Basic Service F... I.Guethe 201211: Guethe, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1380,1380,"CR:Resident Care -... I.Guethe 201211: Guethe, Iris",,,,,,,,,,,,,,,

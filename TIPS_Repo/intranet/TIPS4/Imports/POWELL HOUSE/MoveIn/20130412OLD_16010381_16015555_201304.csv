@@ -1,0 +1,5 @@
+BATCH,,201304,B,3406.0000,
+INVOICE,IN,,16010381,,04/12/2013,3406.0000,"MoveIn-Taylor. Rose",,04/12/2013,04/12/2013,,16015555,3406.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,19,99.0000,1881,"Basic Service Fee - Studio: Taylor. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Taylor. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,1500.0000,1500,"New Resident Fee: Taylor. Rose",,,,,,,,,,,,,,,

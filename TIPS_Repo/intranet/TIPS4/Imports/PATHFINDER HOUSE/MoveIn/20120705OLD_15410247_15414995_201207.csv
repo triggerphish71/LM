@@ -1,0 +1,5 @@
+BATCH,,201207,B,3920.0000,
+INVOICE,IN,,15410247,,07/01/2012,3920.0000,"MoveIn-Brester. Bert",,07/01/2012,07/01/2012,,15414995,3920.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,31,85.0000,2635,"Basic Service Fee - One Bedroom: Brester. Bert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Brester. Bert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,1250.0000,1250,"New Resident Fee: Brester. Bert",,,,,,,,,,,,,,,

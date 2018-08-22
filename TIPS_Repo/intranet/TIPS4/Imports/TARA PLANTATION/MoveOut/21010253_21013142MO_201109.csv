@@ -1,0 +1,8 @@
+BATCH,,201109,B,6700.0000,
+INVOICE,IN,,21010253,,09/03/2011,3700.0000,"Invoice-Private",,09/03/2011,09/03/2011,,21013142MO,700.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,1200.0000,1200.00,"CR:Limited Term Di... L.Mills 201109: Mills, Leman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,25,10.0000,250.00,"Resident Care - Level 1 for Sep: Mills, Leman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,25,90.0000,2250.00,"Studio for Sep: Mills, Leman",,,,,,,,,,,,,,,
+INVOICE,CM,,21010253,,09/03/2011,3000,"Invoice-Private",,09/03/2011,09/03/2011,,21013142MO,700.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,300,300,"CR:Resident Care -... L.Mills 201109: Mills, Leman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2700,2700,"CR:Studio... L.Mills 201109: Mills, Leman",,,,,,,,,,,,,,,

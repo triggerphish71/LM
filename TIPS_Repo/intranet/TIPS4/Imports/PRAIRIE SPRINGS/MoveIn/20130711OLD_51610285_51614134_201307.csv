@@ -1,0 +1,6 @@
+BATCH,,201307,B,3813.2500,
+INVOICE,IN,,51610285,,07/11/2013,3813.2500,"MoveIn-Cutsigner. Delbert",,07/11/2013,07/11/2013,,51614134,3813.2500,,,,,,,,,,
+TRANSACTION,3010,010103516,21,89.0000,1869,"Basic Service Fee - Studio: Cutsigner. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103516,21,9.2500,194.25,"Resident Care - Level 5: Cutsigner. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103516,1,1500.0000,1500,"New Resident Fee: Cutsigner. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3299,010103516,1,250.0000,250,"Pet Fee - Non Refundable: Cutsigner. Delbert",,,,,,,,,,,,,,,

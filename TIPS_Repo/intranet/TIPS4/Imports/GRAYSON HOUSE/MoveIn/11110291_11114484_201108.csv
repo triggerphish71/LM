@@ -1,0 +1,5 @@
+BATCH,,201108,B,3905.0000,
+INVOICE,IN,,11110291,,08/12/2011,3905.0000,"MoveIn-Poling. Phil",,08/12/2011,08/12/2011,,11114484,3905.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,20,94.0000,1880,"Basic Service Fee - Studio         : Poling. Phil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Poling. Phil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Poling. Phil",,,,,,,,,,,,,,,

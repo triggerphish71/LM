@@ -1,0 +1,7 @@
+BATCH,,201305,B,8262.0000,
+INVOICE,IN,,09310210,,05/16/2013,3240.0000,"Invoice-Private",,05/16/2013,05/16/2013,,09315865MO,-6642.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,20,48.0000,960.00,"Resident Care - Level 3 for May: Mehling, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,20,114.0000,2280.00,"Room and Board - Deluxe for May: Mehling, Julia",,,,,,,,,,,,,,,
+INVOICE,CM,,09310210,,05/16/2013,5022,"Invoice-Private",,05/16/2013,05/16/2013,,09315865MO,-6642.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... J.Mehling 201305: Mehling, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3534,3534,"CR:Room and Board ... J.Mehling 201305: Mehling, Julia",,,,,,,,,,,,,,,

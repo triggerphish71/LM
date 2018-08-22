@@ -1,0 +1,7 @@
+BATCH,,201207,B,194.0000,
+INVOICE,IN,,13410260,,07/01/2012,97.0000,"Invoice-Private",,07/01/2012,07/10/2012,,13415513MO,-1964.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Byers, Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,31,2.0000,62.00,"Credit for Limited Term Discount: Byers, Winnie",,,,,,,,,,,,,,,
+INVOICE,CM,,13410260,,07/01/2012,97,"Invoice-Private",,07/01/2012,07/10/2012,,13415513MO,-1964.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Byers, Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,31,2,62,"Limited Term Discount: Byers, Winnie",,,,,,,,,,,,,,,

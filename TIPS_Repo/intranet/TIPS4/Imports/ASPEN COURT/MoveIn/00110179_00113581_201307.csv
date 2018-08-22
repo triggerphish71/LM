@@ -1,0 +1,6 @@
+BATCH,,201307,B,2045.0000,
+INVOICE,IN,,00110179,,07/21/2013,2045.0000,"MoveIn-Johnson. Marlys",,07/21/2013,07/21/2013,,00113581,4240.0000,,,,,,,,,,
+TRANSACTION,3010,010101001,11,70.0000,770,"M.Johnson: Basic Service Fee - IL One Bedroom: Johnson. Marlys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Johnson. Marlys",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Johnson. Marlys",,,,,,,,,,,,,,,
+TRANSACTION,3213,010101001,1,250.0000,250,"Pet Fee: Johnson. Marlys",,,,,,,,,,,,,,,

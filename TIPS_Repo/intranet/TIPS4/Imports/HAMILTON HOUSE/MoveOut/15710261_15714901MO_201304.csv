@@ -1,0 +1,5 @@
+BATCH,,201304,B,60.0000,
+INVOICE,IN,,15710261,,04/01/2013,30.0000,"Invoice-Private",,04/01/2013,04/10/2013,,15714901MO,-9291.6700,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Rodenbeck, Wilmer",,,,,,,,,,,,,,,
+INVOICE,CM,,15710261,,04/01/2013,30,"Invoice-Private",,04/01/2013,04/10/2013,,15714901MO,-9291.6700,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Rodenbeck, Wilmer",,,,,,,,,,,,,,,

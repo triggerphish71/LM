@@ -1,0 +1,5 @@
+BATCH,,201712,B,46.0000,
+INVOICE,IN,,31300018,,12/01/2017,23.0000,"Invoice-Medicaid",,12/01/2017,12/10/2017,,31310444MO,-23.0000,,,,,,,,,,
+TRANSACTION,3260,070024313,1,23.0000,23.00,"Monthly Cable: Long, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,31300018,,12/01/2017,23,"Invoice-Medicaid",,12/01/2017,12/10/2017,,31310444MO,-23.0000,,,,,,,,,,
+TRANSACTION,3260,070024313,1,23,23,"Credit for Monthly Cable: Long, Delbert",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201307,B,1965.0000,
+INVOICE,IN,,10010246,,07/16/2013,1965.0000,"MoveIn-Domek. Netha",,07/16/2013,07/16/2013,,10014147,4780.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,16,75.0000,1200,"Basic Service Fee - Studio: Domek. Netha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,16,15.0000,240,"Resident Care - Level 1: Domek. Netha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Domek. Netha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Domek. Netha",,,,,,,,,,,,,,,

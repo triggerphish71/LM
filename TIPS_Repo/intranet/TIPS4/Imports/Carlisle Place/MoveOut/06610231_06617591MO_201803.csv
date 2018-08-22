@@ -1,0 +1,8 @@
+BATCH,,201803,B,9775.0000,
+INVOICE,IN,,06610231,,03/12/2018,2521.0000,"Invoice-Private",,03/12/2018,03/12/2018,,06617591MO,-4733.0000,,,,,,,,,,
+TRANSACTION,3017,010005066,5,83.0000,415.00,"Level Care:  4  - 2018-03-06: McCormick, Isabelle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005066,7,42.0000,294.00," Level Care:  2 : McCormick, Isabelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005066,12,151.0000,1812.00,"Basic Service Fee - Deluxe  for Mar: McCormick, Isabelle",,,,,,,,,,,,,,,
+INVOICE,CM,,06610231,,03/12/2018,7254,"Invoice-Private",,03/12/2018,03/12/2018,,06617591MO,-4733.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,1,4681,4681,"CR:Basic Service F... I.McCormick 201803: McCormick, Isabelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,1,2573,2573,"CR:Resident Care -... I.McCormick 201803: McCormick, Isabelle",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201206,B,3605.0000,
+INVOICE,IN,,12010251,,06/06/2012,3605.0000,"MoveIn-Baty. Frances",,06/06/2012,06/06/2012,,12014444,3605.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,25,78.0000,1950,"Basic Service Fee - Studio: Baty. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,25,25.0000,625,"Resident Care - Level 2: Baty. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Baty. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Baty. Frances",,,,,,,,,,,,,,,

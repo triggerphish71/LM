@@ -1,0 +1,5 @@
+BATCH,,201202,B,174.0000,
+INVOICE,IN,,50910112,,02/01/2012,87.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50912858MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,29,3.0000,87.00,"Credit for Limited Term Discount: Murphy, Fred  ",,,,,,,,,,,,,,,
+INVOICE,CM,,50910112,,02/01/2012,87,"Invoice-Private",,02/01/2012,02/10/2012,,50912858MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,29,3,87,"Limited Term Discount: Murphy, Fred  ",,,,,,,,,,,,,,,

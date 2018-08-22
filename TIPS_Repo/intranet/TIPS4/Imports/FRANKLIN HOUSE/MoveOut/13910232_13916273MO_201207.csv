@@ -1,0 +1,7 @@
+BATCH,,201207,B,12545.9600,
+INVOICE,IN,,13910232,,07/01/2012,4608.7200,"Invoice-Private",,07/01/2012,07/01/2012,,13916273MO,-3328.5200,,,,,,,,,,
+TRANSACTION,3020,010103139,18,120.0000,2160.00,"Basic Service Fee - One Bedroom for Jul: Nelson, Spencer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,18,136.0400,2448.72,"Resident Care - Level 76 for Jul: Nelson, Spencer",,,,,,,,,,,,,,,
+INVOICE,CM,,13910232,,07/01/2012,7937.24,"Invoice-Private",,07/01/2012,07/01/2012,,13916273MO,-3328.5200,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3720,3720,"CR:Basic Service F... S.Nelson 201207: Nelson, Spencer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,4217.24,4217.24,"CR:Resident Care -... S.Nelson 201207: Nelson, Spencer",,,,,,,,,,,,,,,

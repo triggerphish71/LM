@@ -1,0 +1,5 @@
+BATCH,,201112,B,1426.0000,
+INVOICE,IN,,17510248,,12/01/2011,713.0000,"Invoice-Private",,12/01/2011,12/10/2011,,17517288MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010202175,31,23.0000,713.00,"Credit for 2nd Resident Free Discount: Parsons, Aubrey",,,,,,,,,,,,,,,
+INVOICE,CM,,17510248,,12/01/2011,713,"Invoice-Private",,12/01/2011,12/10/2011,,17517288MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010202175,31,23,713,"2nd Resident Free Discount: Parsons, Aubrey",,,,,,,,,,,,,,,

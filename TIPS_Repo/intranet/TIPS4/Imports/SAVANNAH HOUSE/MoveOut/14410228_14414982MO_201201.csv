@@ -1,0 +1,8 @@
+BATCH,,201201,B,5428.0000,
+INVOICE,IN,,14410228,,01/09/2012,1215.0000,"Invoice-Private",,01/09/2012,01/09/2012,,14414982MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,9,106.0000,954.00,"Basic Service Fee - Studio for Jan: Henslee, Claud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,9,29.0000,261.00,"Resident Care - Level 2 for Jan: Henslee, Claud",,,,,,,,,,,,,,,
+INVOICE,CM,,14410228,,01/09/2012,4213,"Invoice-Private",,01/09/2012,01/09/2012,,14414982MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... C.Henslee 201201: Henslee, Claud",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... C.Henslee 201201: Henslee, Claud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,899,899,"CR:Resident Care -... C.Henslee 201201: Henslee, Claud",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,7128.0000,
+INVOICE,IN,,09110228,,02/05/2013,3432.0000,"Invoice-Private",,02/05/2013,02/05/2013,,09115674MO,-4387.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,26,96.0000,2496.00,"Basic Service Fee - Deluxe for Feb: Larrick, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,26,36.0000,936.00,"Resident Care - Level 2 for Feb: Larrick, James",,,,,,,,,,,,,,,
+INVOICE,CM,,09110228,,02/05/2013,3696,"Invoice-Private",,02/05/2013,02/05/2013,,09115674MO,-4387.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2688,2688,"CR:Basic Service F... J.Larrick 201302: Larrick, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1008,1008,"CR:Resident Care -... J.Larrick 201302: Larrick, James",,,,,,,,,,,,,,,

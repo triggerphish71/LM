@@ -1,0 +1,7 @@
+BATCH,,201301,B,100.0000,
+INVOICE,IN,,53310046,,01/01/2013,50.0000,"Invoice-Private",,01/01/2013,01/10/2013,,53315061MO,-6794.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25.00,"Pendant Fee: Colbert, Clarice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25.00,"Monthly Cable: Colbert, Clarice",,,,,,,,,,,,,,,
+INVOICE,CM,,53310046,,01/01/2013,50,"Invoice-Private",,01/01/2013,01/10/2013,,53315061MO,-6794.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"Credit for Pendant Fee: Colbert, Clarice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"Credit for Monthly Cable: Colbert, Clarice",,,,,,,,,,,,,,,

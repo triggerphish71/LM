@@ -1,0 +1,5 @@
+BATCH,,201111,B,3885.5000,
+INVOICE,IN,,01810142,,11/02/2011,3885.5000,"MoveIn-Phelps. Bud",,11/02/2011,11/02/2011,,01812405,3885.5000,,,,,,,,,,
+TRANSACTION,3010,010103018,29,74.0000,2146,"Basic Service Fee - Studio: Phelps. Bud",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103018,29,25.5000,739.5,"Resident Care - Level 15: Phelps. Bud",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103018,1,1000.0000,1000,"New Resident Fee: Phelps. Bud",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,2606.0000,
+INVOICE,IN,,17110236,,02/01/2012,1303.0000,"Invoice-Private",,02/01/2012,02/10/2012,,17114889MO,-2847.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Baxley, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,29,44.0000,1276.00,"Credit for Limited Term Discount: Baxley, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,17110236,,02/01/2012,1303,"Invoice-Private",,02/01/2012,02/10/2012,,17114889MO,-2847.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Baxley, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,29,44,1276,"Limited Term Discount: Baxley, Sue",,,,,,,,,,,,,,,

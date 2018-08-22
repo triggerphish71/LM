@@ -1,0 +1,7 @@
+BATCH,,201304,B,7007.0000,
+INVOICE,IN,,01910227,,04/08/2013,2717.0000,"Invoice-Private",,04/08/2013,04/08/2013,,01915342MO,-1573.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,19,96.0000,1824.00,"Basic Service Fee - Studio for Apr: Moyer, Corinne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,19,47.0000,893.00,"Resident Care - Level 3 for Apr: Moyer, Corinne",,,,,,,,,,,,,,,
+INVOICE,CM,,01910227,,04/08/2013,4290,"Invoice-Private",,04/08/2013,04/08/2013,,01915342MO,-1573.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2880,2880,"CR:Basic Service F... C.Moyer 201304: Moyer, Corinne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,1410,1410,"CR:Resident Care -... C.Moyer 201304: Moyer, Corinne",,,,,,,,,,,,,,,

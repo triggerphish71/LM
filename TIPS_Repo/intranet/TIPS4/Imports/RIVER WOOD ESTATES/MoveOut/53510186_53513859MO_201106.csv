@@ -1,0 +1,8 @@
+BATCH,,201106,B,5853.0000,
+INVOICE,IN,,53510186,,06/17/2011,2108.0000,"Invoice-Private",,06/17/2011,06/17/2011,,53513859MO,-5506.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,17,95.0000,1615.00,"Basic Service Fee - One Bedroom for Jun: Prochnow, Harland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,17,29.0000,493.00,"Resident Care - Level 2 for Jun: Prochnow, Harland",,,,,,,,,,,,,,,
+INVOICE,CM,,53510186,,06/17/2011,3745,"Invoice-Private",,06/17/2011,06/17/2011,,53513859MO,-5506.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2850,2850,"CR:Basic Service F... H.Prochnow 201106: Prochnow, Harland",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... H.Prochnow 201106: Prochnow, Harland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,870,870,"CR:Resident Care -... H.Prochnow 201106: Prochnow, Harland",,,,,,,,,,,,,,,

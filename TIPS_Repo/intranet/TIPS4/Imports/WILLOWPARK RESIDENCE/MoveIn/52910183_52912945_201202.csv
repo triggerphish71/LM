@@ -1,0 +1,5 @@
+BATCH,,201202,B,3853.0000,
+INVOICE,IN,,52910183,,02/01/2012,3853.0000,"February_Rent-Heiner. Harold",,02/01/2012,02/10/2012,,52912945,5510.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,29,91.0000,2639,"Basic Service Fee - Studio: Heiner. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,29,41.0000,1189,"Resident Care - Level 3: Heiner. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Heiner. Harold",,,,,,,,,,,,,,,

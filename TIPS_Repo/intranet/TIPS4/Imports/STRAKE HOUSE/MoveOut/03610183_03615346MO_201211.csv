@@ -1,0 +1,8 @@
+BATCH,,201211,B,8203.0000,
+INVOICE,IN,,03610183,,11/20/2012,3796.0000,"Invoice-Private",,11/20/2012,11/20/2012,,03615346MO,-5164.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,26,101.0000,2626.00,"Basic Service Fee - Studio for Nov: Pamuk, Dottie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,26,45.0000,1170.00,"Resident Care - Level 3 for Nov: Pamuk, Dottie",,,,,,,,,,,,,,,
+INVOICE,CM,,03610183,,11/20/2012,4407,"Invoice-Private",,11/20/2012,11/20/2012,,03615346MO,-5164.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3030,3030,"CR:Basic Service F... D.Pamuk 201211: Pamuk, Dottie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... D.Pamuk 201211: Pamuk, Dottie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,1350,1350,"CR:Resident Care -... D.Pamuk 201211: Pamuk, Dottie",,,,,,,,,,,,,,,

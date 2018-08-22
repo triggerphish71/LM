@@ -1,0 +1,5 @@
+BATCH,,201307,B,3285.0000,
+INVOICE,CM,,53410122,,07/01/2013,3285,"Invoice-Private",,07/01/2013,07/10/2013,,53422539MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Baumann 201307: Baumann, John",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319534,1,465,465,"CR:Resident Meals... J.Baumann 201307: Baumann, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2790,2790,"CR:Room and Board ... J.Baumann 201307: Baumann, John",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,117.8000,
+INVOICE,IN,,16710211,,07/01/2011,58.9000,"Invoice-Private",,07/01/2011,07/10/2011,,16713458MO,-10721.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Franssen, James",,,,,,,,,,,,,,,
+TRANSACTION,3019,010211167,1,28.9000,28.90,"Additional Service Charge: Franssen, James",,,,,,,,,,,,,,,
+INVOICE,CM,,16710211,,07/01/2011,58.9,"Invoice-Private",,07/01/2011,07/10/2011,,16713458MO,-10721.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Franssen, James",,,,,,,,,,,,,,,
+TRANSACTION,3019,010211167,1,28.9,28.9,"Credit for Additional Service Charge: Franssen, James",,,,,,,,,,,,,,,

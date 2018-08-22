@@ -1,0 +1,5 @@
+BATCH,,201111,B,420.0000,
+INVOICE,IN,,19210174,,11/01/2011,210.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19214886MO,-3988.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,30,7.0000,210.00,"Credit for Limited Term Discount: Eagleson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,19210174,,11/01/2011,210,"Invoice-Private",,11/01/2011,11/10/2011,,19214886MO,-3988.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,30,7,210,"Limited Term Discount: Eagleson, Robert",,,,,,,,,,,,,,,

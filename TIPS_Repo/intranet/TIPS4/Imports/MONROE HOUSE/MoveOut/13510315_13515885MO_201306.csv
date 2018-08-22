@@ -1,0 +1,8 @@
+BATCH,,201306,B,3982.0000,
+INVOICE,IN,,13510315,,06/21/2013,1672.0000,"Invoice-Private",,06/21/2013,06/21/2013,,13515885MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,22,60.0000,1320.00,"Basic Service Fee - Studio for Jun: Hagemeier, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,22,16.0000,352.00,"Resident Care - Level 1 for Jun: Hagemeier, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510315,,06/21/2013,2310,"Invoice-Private",,06/21/2013,06/21/2013,,13515885MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1800,1800,"CR:Basic Service F... G.Hagemeier 201306: Hagemeier, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... G.Hagemeier 201306: Hagemeier, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,480,480,"CR:Resident Care -... G.Hagemeier 201306: Hagemeier, Gwen",,,,,,,,,,,,,,,

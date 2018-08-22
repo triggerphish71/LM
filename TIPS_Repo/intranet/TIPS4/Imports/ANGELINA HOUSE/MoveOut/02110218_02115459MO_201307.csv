@@ -1,0 +1,5 @@
+BATCH,,201307,B,3355.0000,
+INVOICE,IN,,02110218,,07/29/2013,1650.0000,"Invoice-Private",,07/29/2013,07/29/2013,,02115459MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,30,55.0000,1650.00,"Basic Service Fee - Studio for Jul: Cooper, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,02110218,,07/29/2013,1705,"Invoice-Private",,07/29/2013,07/29/2013,,02115459MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,1705,1705,"CR:Basic Service F... B.Cooper 201307: Cooper, Bernice",,,,,,,,,,,,,,,

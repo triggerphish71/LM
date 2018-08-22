@@ -1,0 +1,8 @@
+BATCH,,201805,B,6158.8700,
+INVOICE,IN,,32400165,,05/20/2018,2903.8700,"Invoice-Private",,05/20/2018,05/20/2018,,32411191MO,-351.1300,,,,,,,,,,
+TRANSACTION,3017,070009324,6,53.0000,318.00,"AL level care - 05-07-2018: Jackson, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3010,070009324,6,52.0000,312.00,"Studio: Jackson, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3017,070009324,1,2273.8710,2273.87,"Basic Service Fee - MC Companion Studio: Jackson, Viola",,,,,,,,,,,,,,,
+INVOICE,CM,,32400165,,05/20/2018,3255,"Invoice-Private",,05/20/2018,05/20/2018,,32411191MO,-351.1300,,,,,,,,,,
+TRANSACTION,3027,070009324,1,1643,1643,"CR:Resident Care -... V.Jackson 201805: Jackson, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3020,070009324,1,1612,1612,"CR:Studio... V.Jackson 201805: Jackson, Viola",,,,,,,,,,,,,,,

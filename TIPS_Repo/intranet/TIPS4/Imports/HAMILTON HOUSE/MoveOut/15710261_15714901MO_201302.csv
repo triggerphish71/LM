@@ -1,0 +1,8 @@
+BATCH,,201302,B,9476.3600,
+INVOICE,IN,,15710261,,02/16/2013,3435.0400,"Invoice-Private",,02/16/2013,02/16/2013,,15714901MO,-9291.6700,,,,,,,,,,
+TRANSACTION,3020,010309157,16,115.0000,1840.00,"Basic Service Fee - One Bedroom for Feb: Rodenbeck, Wilmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,16,99.6900,1595.04,"Resident Care - Level 6+11 pts for Feb: Rodenbeck, Wilmer",,,,,,,,,,,,,,,
+INVOICE,CM,,15710261,,02/16/2013,6041.32,"Invoice-Private",,02/16/2013,02/16/2013,,15714901MO,-9291.6700,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3220,3220,"CR:Basic Service F... W.Rodenbeck 201302: Rodenbeck, Wilmer",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... W.Rodenbeck 201302: Rodenbeck, Wilmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,2791.32,2791.32,"CR:Resident Care -... W.Rodenbeck 201302: Rodenbeck, Wilmer",,,,,,,,,,,,,,,

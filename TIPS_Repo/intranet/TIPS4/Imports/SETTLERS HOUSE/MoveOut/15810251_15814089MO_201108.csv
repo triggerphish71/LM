@@ -1,0 +1,5 @@
+BATCH,,201108,B,70.0000,
+INVOICE,IN,,15810251,,08/01/2011,35.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15814089MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35.0000,35.00,"Pendant Fee: Justus, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,15810251,,08/01/2011,35,"Invoice-Private",,08/01/2011,08/10/2011,,15814089MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35,35,"Credit for Pendant Fee: Justus, Robert",,,,,,,,,,,,,,,

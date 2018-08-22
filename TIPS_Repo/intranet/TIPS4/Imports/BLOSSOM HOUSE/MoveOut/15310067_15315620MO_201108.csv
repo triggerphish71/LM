@@ -1,0 +1,6 @@
+BATCH,,201108,B,2919.6300,
+INVOICE,IN,,15310067,,08/30/2011,649.5000,"Invoice-Medicaid",,08/30/2011,08/30/2011,,15315620MO,-3978.9300,,,,,,,,,,
+TRANSACTION,3021,010103153,30,21.6500,649.50,"Medicaid Co-Pay for Aug: Reynolds, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,15310067,,08/30/2011,2270.13,"Invoice-Medicaid",,08/30/2011,08/30/2011,,15315620MO,-3978.9300,,,,,,,,,,
+TRANSACTION,3021,010103153,1,671.21,671.21,"CR:Medicaid Co-Pay... J.Reynolds 201108: Reynolds, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103153,1,1598.92,1598.92,"CR:State Medicaid... J.Reynolds 201108: Reynolds, Juanita",,,,,,,,,,,,,,,

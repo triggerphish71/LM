@@ -1,0 +1,5 @@
+BATCH,,201111,B,3524.8000,
+INVOICE,IN,,00910158,,11/07/2011,3524.8000,"MoveIn-Schmid. Juanita",,11/07/2011,11/07/2011,,00913468,3524.8000,,,,,,,,,,
+TRANSACTION,3010,010101009,24,95.0000,2280,"Basic Service Fee - One Bedroom    : Schmid. Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,24,10.2000,244.8,"Resident Care - Level 6: Schmid. Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Schmid. Juanita",,,,,,,,,,,,,,,

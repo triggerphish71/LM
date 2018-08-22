@@ -1,0 +1,6 @@
+BATCH,,201110,B,3825.0000,
+INVOICE,IN,,19810293,,10/11/2011,3825.0000,"MoveIn-Germaine. Mary",,10/11/2011,10/11/2011,,19816612,3825.0000,,,,,,,,,,
+TRANSACTION,3010,010112198,21,60.0000,1260,"Basic Service Fee AL - Studio A: Germaine. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30,"Monthly Cable: Germaine. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010112198,1,2500.0000,2500,"New Resident Fee: Germaine. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35.0000,35,"Pendant Fee: Germaine. Mary",,,,,,,,,,,,,,,

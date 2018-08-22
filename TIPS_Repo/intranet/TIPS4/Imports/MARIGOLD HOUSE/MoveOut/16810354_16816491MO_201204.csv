@@ -1,0 +1,6 @@
+BATCH,,201204,B,4898.0000,
+INVOICE,IN,,16810354,,04/11/2012,1358.0000,"Invoice-Private",,04/11/2012,04/11/2012,,16816491MO,-2182.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,1,60.0000,60.00,"CR:Limited Term Di... J.Taylor 201204: Taylor, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,11,118.0000,1298.00,"Basic Service Fee - One BR Premium for Apr: Taylor, John",,,,,,,,,,,,,,,
+INVOICE,CM,,16810354,,04/11/2012,3540,"Invoice-Private",,04/11/2012,04/11/2012,,16816491MO,-2182.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3540,3540,"CR:Basic Service F... J.Taylor 201204: Taylor, John",,,,,,,,,,,,,,,

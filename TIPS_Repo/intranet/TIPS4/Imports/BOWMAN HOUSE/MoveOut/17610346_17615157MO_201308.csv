@@ -1,0 +1,8 @@
+BATCH,,201308,B,3643.0000,
+INVOICE,IN,,17610346,,08/01/2013,202.0000,"Invoice-Private",,08/01/2013,08/10/2013,,17615157MO,-3239.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,2,73.0000,146.00,"Basic Service Fee - Studio for Aug: Abrams, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,2,28.0000,56.00,"Resident Care Level Change for Aug: Abrams, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17610346,,08/01/2013,3441,"Invoice-Private",,08/01/2013,08/10/2013,,17615157MO,-3239.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... J.Abrams 201308: Abrams, James",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... J.Abrams 201308: Abrams, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care L... J.Abrams 201308: Abrams, James",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,7144.0000,
+INVOICE,IN,,16510322,,06/17/2013,2584.0000,"Invoice-Private",,06/17/2013,06/17/2013,,16514924MO,-6688.0000,,,,,,,,,,
+TRANSACTION,3027,010308165,17,53.0000,901.00,"Resident Care - Level 4 for Jun: Boyce, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308165,17,99.0000,1683.00,"Room and Board - Studio for Jun: Boyce, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,16510322,,06/17/2013,4560,"Invoice-Private",,06/17/2013,06/17/2013,,16514924MO,-6688.0000,,,,,,,,,,
+TRANSACTION,3027,010308165,1,1590,1590,"CR:Resident Care -... F.Boyce 201306: Boyce, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2970,2970,"CR:Room and Board ... F.Boyce 201306: Boyce, Frances",,,,,,,,,,,,,,,

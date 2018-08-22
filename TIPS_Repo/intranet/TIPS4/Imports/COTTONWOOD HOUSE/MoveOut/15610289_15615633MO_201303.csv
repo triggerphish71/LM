@@ -1,0 +1,7 @@
+BATCH,,201303,B,6188.0000,
+INVOICE,IN,,15610289,,03/01/2013,546.0000,"Invoice-Private",,03/01/2013,03/10/2013,,15615633MO,-4886.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,3,99.0000,297.00,"Basic Service Fee - Deluxe for Mar: Heese, Marjeane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,3,83.0000,249.00,"Resident Care - Level 6 for Mar: Heese, Marjeane",,,,,,,,,,,,,,,
+INVOICE,CM,,15610289,,03/01/2013,5642,"Invoice-Private",,03/01/2013,03/10/2013,,15615633MO,-4886.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3069,3069,"CR:Basic Service F... M.Heese 201303: Heese, Marjeane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2573,2573,"CR:Resident Care -... M.Heese 201303: Heese, Marjeane",,,,,,,,,,,,,,,

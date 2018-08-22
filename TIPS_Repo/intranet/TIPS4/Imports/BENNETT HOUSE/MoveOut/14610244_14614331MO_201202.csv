@@ -1,0 +1,7 @@
+BATCH,,201202,B,3501.0000,
+INVOICE,IN,,14610244,,02/01/2012,774.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14614331MO,-1953.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,8,93.0000,744.00,"Basic Service Fee - Studio for Feb: Marking, Theresa  ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Marking, Theresa  ",,,,,,,,,,,,,,,
+INVOICE,CM,,14610244,,02/01/2012,2727,"Invoice-Private",,02/01/2012,02/10/2012,,14614331MO,-1953.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2697,2697,"CR:Basic Service F... T.Marking 201202: Marking, Theresa  ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Marking, Theresa  ",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,3600.0000,
+INVOICE,IN,,10510256,,07/08/2011,3600.0000,"MoveIn-King. Jeanette",,07/08/2011,07/08/2011,,10513707,3600.0000,,,,,,,,,,
+TRANSACTION,3010,010309105,21,84.0000,1764,"Basic Service Fee - Studio         : King. Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309105,21,16.0000,336,"Resident Care - Level 1: King. Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309105,1,1500.0000,1500,"New Resident Fee: King. Jeanette",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,7304.7000,
+INVOICE,IN,,03910214,,10/01/2011,1498.4000,"Invoice-Private",,10/01/2011,10/10/2011,,03914274MO,-4307.9000,,,,,,,,,,
+TRANSACTION,3020,010101039,8,87.0000,696.00,"Basic Service Fee - Studio for Oct: Henderson, Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,8,100.3000,802.40,"Resident Care - Level 59 for Oct: Henderson, Bruce",,,,,,,,,,,,,,,
+INVOICE,CM,,03910214,,10/01/2011,5806.3,"Invoice-Private",,10/01/2011,10/10/2011,,03914274MO,-4307.9000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2697,2697,"CR:Basic Service F... B.Henderson 201110: Henderson, Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,3109.3,3109.3,"CR:Resident Care -... B.Henderson 201110: Henderson, Bruce",,,,,,,,,,,,,,,

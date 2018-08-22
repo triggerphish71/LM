@@ -1,0 +1,5 @@
+BATCH,,201207,B,3222.0000,
+INVOICE,IN,,50110268,,07/04/2012,3222.0000,"MoveIn-Toone. Donna",,07/04/2012,07/04/2012,,50114203,3257.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,28,88.0000,2464,"Basic Service Fee - Studio: Toone. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,28,26.0000,728,"Resident Care - Level 2: Toone. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Toone. Donna",,,,,,,,,,,,,,,

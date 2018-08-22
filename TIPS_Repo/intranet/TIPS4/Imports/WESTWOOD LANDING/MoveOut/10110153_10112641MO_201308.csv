@@ -1,0 +1,7 @@
+BATCH,,201308,B,4859.2000,
+INVOICE,IN,,10110153,,08/01/2013,151.8500,"Invoice-Private",,08/01/2013,08/10/2013,,10112641MO,-4555.5000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,50.0000,50.00,"Basic Service Fee - Studio for Aug: Frye, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,101.8500,101.85,"Resident Care - Level 6+15 pts for Aug: Frye, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,10110153,,08/01/2013,4707.35,"Invoice-Private",,08/01/2013,08/10/2013,,10112641MO,-4555.5000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,1550,1550,"CR:Basic Service F... J.Frye 201308: Frye, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,3157.35,3157.35,"CR:Resident Care -... J.Frye 201308: Frye, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201802,B,12078.6000,
+INVOICE,IN,,11210002,,02/26/2018,7185.3000,"MoveIn-Dickey. Harold",,02/26/2018,02/26/2018,,11220106,12078.6000,,,,,,,,,,
+TRANSACTION,3010,010010112,3,110.0000,330,"Basic Service Fee - Studio: Dickey. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010112,3,47.0000,141,"Resident Care - Level 2: Dickey. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010112,1,3344.0000,3344,"Community Fee: Dickey. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010112,1,26.3000,26.3,"Monthly Cable: Dickey. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010112,1,3344.0000,3344,"Monthly Deferral Charge: Dickey. Harold",,,,,,,,,,,,,,,

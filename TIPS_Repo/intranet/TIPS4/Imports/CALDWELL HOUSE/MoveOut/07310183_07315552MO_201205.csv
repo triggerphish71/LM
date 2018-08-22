@@ -1,0 +1,8 @@
+BATCH,,201205,B,5795.0000,
+INVOICE,IN,,07310183,,05/04/2012,660.0000,"Invoice-Private",,05/04/2012,05/04/2012,,07315552MO,-4475.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,4,97.0000,388.00,"Basic Service Fee - Studio for May: Boone, Roseanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,4,68.0000,272.00,"Resident Care - Level 4 for May: Boone, Roseanne",,,,,,,,,,,,,,,
+INVOICE,CM,,07310183,,05/04/2012,5135,"Invoice-Private",,05/04/2012,05/04/2012,,07315552MO,-4475.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... R.Boone 201205: Boone, Roseanne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... R.Boone 201205: Boone, Roseanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2108,2108,"CR:Resident Care -... R.Boone 201205: Boone, Roseanne",,,,,,,,,,,,,,,

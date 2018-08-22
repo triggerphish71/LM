@@ -1,0 +1,7 @@
+BATCH,,201302,B,180.0000,
+INVOICE,IN,,50110283,,02/01/2013,90.0000,"Invoice-Private",,02/01/2013,02/10/2013,,50114487MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3250,010209501,3,5.0000,15.00,"Guest Meal: Eubanks, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3250,010209501,15,5.0000,75.00,"Guest Meal: Eubanks, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,50110283,,02/01/2013,90,"Invoice-Private",,02/01/2013,02/10/2013,,50114487MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3250,010209501,3,5,15,"Credit for Guest Meal: Eubanks, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3250,010209501,15,5,75,"Credit for Guest Meal: Eubanks, Irene",,,,,,,,,,,,,,,

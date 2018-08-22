@@ -1,0 +1,6 @@
+BATCH,,201206,B,2172.0000,
+INVOICE,IN,,03110334,,06/24/2012,975.0000,"Invoice-Private",,06/24/2012,06/24/2012,,03116890MO,-1458.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,25,39.0000,975.00,"Basic Service Fee - Second Resident for Jun: Lee, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03110334,,06/24/2012,1197,"Invoice-Private",,06/24/2012,06/24/2012,,03116890MO,-1458.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,1170,1170,"CR:Basic Service F... M.Lee 201206: Lee, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... M.Lee 201206: Lee, Mary",,,,,,,,,,,,,,,

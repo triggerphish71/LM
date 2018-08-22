@@ -1,0 +1,5 @@
+BATCH,,201211,B,3184.0000,
+INVOICE,IN,,08610241,,11/18/2012,3184.0000,"MoveIn-Loveridge. John",,11/18/2012,11/18/2012,,08615052,8392.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,13,89.0000,1157,"Basic Service Fee - Studio: Loveridge. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,13,79.0000,1027,"Resident Care - Level 5: Loveridge. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,1000.0000,1000,"New Resident Fee: Loveridge. John",,,,,,,,,,,,,,,

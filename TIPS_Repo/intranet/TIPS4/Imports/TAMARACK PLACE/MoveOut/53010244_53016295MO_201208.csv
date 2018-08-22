@@ -1,0 +1,8 @@
+BATCH,,201208,B,7490.0000,
+INVOICE,IN,,53010244,,08/13/2012,2831.0000,"Invoice-Private",,08/13/2012,08/13/2012,,53016295MO,-1828.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,19,119.0000,2261.00,"Basic Service Fee-One Bedroom Premi for Aug: Radtke, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,19,30.0000,570.00,"Resident Care - Level 1 for Aug: Radtke, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,53010244,,08/13/2012,4659,"Invoice-Private",,08/13/2012,08/13/2012,,53016295MO,-1828.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3689,3689,"CR:Basic Service F... B.Radtke 201208: Radtke, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Radtke 201208: Radtke, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,930,930,"CR:Resident Care -... B.Radtke 201208: Radtke, Bill",,,,,,,,,,,,,,,

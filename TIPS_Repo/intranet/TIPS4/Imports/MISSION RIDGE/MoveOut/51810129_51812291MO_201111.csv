@@ -1,0 +1,7 @@
+BATCH,,201111,B,5108.3000,
+INVOICE,IN,,51810129,,11/16/2011,1776.8000,"Invoice-Private",,11/16/2011,11/16/2011,,51812291MO,-4997.2500,,,,,,,,,,
+TRANSACTION,3020,010103518,16,83.0000,1328.00,"Basic Service Fee - Studio for Nov: Allison, Sandee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,16,28.0500,448.80,"Resident Care - Level 17 for Nov: Allison, Sandee",,,,,,,,,,,,,,,
+INVOICE,CM,,51810129,,11/16/2011,3331.5,"Invoice-Private",,11/16/2011,11/16/2011,,51812291MO,-4997.2500,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2490,2490,"CR:Basic Service F... S.Allison 201111: Allison, Sandee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,841.5,841.5,"CR:Resident Care -... S.Allison 201111: Allison, Sandee",,,,,,,,,,,,,,,

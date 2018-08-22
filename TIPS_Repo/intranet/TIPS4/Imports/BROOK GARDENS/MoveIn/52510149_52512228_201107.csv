@@ -1,0 +1,6 @@
+BATCH,,201107,B,4574.0000,
+INVOICE,IN,,52510149,,07/15/2011,4574.0000,"MoveIn-Asche. Marie",,07/15/2011,07/15/2011,,52512228,8356.0000,,,,,,,,,,
+TRANSACTION,3010,010319525,17,107.0000,1819,"Basic Service Fee - Studio: Asche. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319525,17,15.0000,255,"Resident Care - Level 1: Asche. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319525,1,2000.0000,2000,"New Resident Fee: Asche. Marie",,,,,,,,,,,,,,,
+TRANSACTION,2210,010319525,1,500.0000,500,"NRF: Asche. Marie",,,,,,,,,,,,,,,

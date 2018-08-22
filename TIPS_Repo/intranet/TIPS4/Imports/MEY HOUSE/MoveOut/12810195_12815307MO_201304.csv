@@ -1,0 +1,7 @@
+BATCH,,201304,B,5200.0000,
+INVOICE,IN,,12810195,,04/10/2013,1300.0000,"Invoice-Private",,04/10/2013,04/10/2013,,12815307MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,10,111.0000,1110.00,"Basic Service Fee - Studio for Apr: Kleshick, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,10,19.0000,190.00,"Swan Personal Care - L1 for Apr: Kleshick, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,12810195,,04/10/2013,3900,"Invoice-Private",,04/10/2013,04/10/2013,,12815307MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3330,3330,"CR:Basic Service F... F.Kleshick 201304: Kleshick, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,570,570,"CR:Swan Personal C... F.Kleshick 201304: Kleshick, Frank",,,,,,,,,,,,,,,

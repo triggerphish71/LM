@@ -1,0 +1,7 @@
+BATCH,,201112,B,4654.0000,
+INVOICE,IN,,19210184,,12/01/2011,124.0000,"Invoice-Private",,12/01/2011,12/10/2011,,19214974MO,-4756.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,124.0000,124.00,"CR:Limited Term Di... H.Rivers 201112: Rivers, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,19210184,,12/01/2011,4530,"Invoice-Private",,12/01/2011,12/10/2011,,19214974MO,-4756.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3937,3937,"CR:Basic Service F... H.Rivers 201112: Rivers, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... H.Rivers 201112: Rivers, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,558,558,"CR:Resident Care -... H.Rivers 201112: Rivers, Helen",,,,,,,,,,,,,,,

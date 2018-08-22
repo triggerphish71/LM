@@ -1,0 +1,8 @@
+BATCH,,201204,B,5414.5800,
+INVOICE,IN,,13910271,,04/21/2012,2217.1800,"Invoice-Private",,04/21/2012,04/21/2012,,13916190MO,-4283.2000,,,,,,,,,,
+TRANSACTION,3020,010103139,21,102.0000,2142.00,"Basic Service Fee - Studio for Apr: Kelly, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,21,3.5800,75.18,"Resident Care - Level 2 for Apr: Kelly, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,13910271,,04/21/2012,3197.4,"Invoice-Private",,04/21/2012,04/21/2012,,13916190MO,-4283.2000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3060,3060,"CR:Basic Service F... C.Kelly 201204: Kelly, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... C.Kelly 201204: Kelly, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,107.4,107.4,"CR:Resident Care -... C.Kelly 201204: Kelly, Carolyn",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,6756.0900,
+INVOICE,IN,,51910199,,05/01/2012,3448.7000,"Invoice-Private",,05/01/2012,05/01/2012,,51913378MO,141.3100,,,,,,,,,,
+TRANSACTION,3320,010103519,1,248.0000,248.00,"CR:Limited Term Di... S.Sayler 201205: Sayler, Steven",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,30,87.0000,2610.00,"Basic Service Fee - Studio for May: Sayler, Steven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,30,19.6900,590.70,"Resident Care - Level 11 for May: Sayler, Steven",,,,,,,,,,,,,,,
+INVOICE,CM,,51910199,,05/01/2012,3307.39,"Invoice-Private",,05/01/2012,05/01/2012,,51913378MO,141.3100,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2697,2697,"CR:Basic Service F... S.Sayler 201205: Sayler, Steven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,610.39,610.39,"CR:Resident Care -... S.Sayler 201205: Sayler, Steven",,,,,,,,,,,,,,,

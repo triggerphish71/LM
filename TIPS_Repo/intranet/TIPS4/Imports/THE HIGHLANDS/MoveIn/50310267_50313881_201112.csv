@@ -1,0 +1,5 @@
+BATCH,,201112,B,2985.0000,
+INVOICE,IN,,50310267,,12/06/2011,2985.0000,"MoveIn-Coffey. Cleo",,12/06/2011,12/06/2011,,50313881,2985.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,26,75.0000,1950,"Basic Service Fee - Studio: Coffey. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Coffey. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1000.0000,1000,"New Resident Fee: Coffey. Cleo",,,,,,,,,,,,,,,

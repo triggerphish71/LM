@@ -1,0 +1,5 @@
+BATCH,,201203,B,70.0000,
+INVOICE,IN,,13210262,,03/01/2012,35.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13215280MO,-3515.0000,,,,,,,,,,
+TRANSACTION,3130,010308132,1,35.0000,35.00,"Pendant Fee: Bowers, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,13210262,,03/01/2012,35,"Invoice-Private",,03/01/2012,03/10/2012,,13215280MO,-3515.0000,,,,,,,,,,
+TRANSACTION,3130,010308132,1,35,35,"Credit for Pendant Fee: Bowers, Beatrice",,,,,,,,,,,,,,,

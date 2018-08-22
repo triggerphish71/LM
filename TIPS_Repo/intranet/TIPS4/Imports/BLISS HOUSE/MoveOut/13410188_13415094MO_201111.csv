@@ -1,0 +1,7 @@
+BATCH,,201111,B,3725.0000,
+INVOICE,IN,,13410188,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,13415094MO,-4546.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,1,60.0000,60.00,"CR:Limited Term Di... W.Petty 201111: Petty, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,13410188,,11/01/2011,3665,"Invoice-Private",,11/01/2011,11/10/2011,,13415094MO,-4546.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2670,2670,"CR:Basic Service F... W.Petty 201111: Petty, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... W.Petty 201111: Petty, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,960,960,"CR:Resident Care -... W.Petty 201111: Petty, Warren",,,,,,,,,,,,,,,

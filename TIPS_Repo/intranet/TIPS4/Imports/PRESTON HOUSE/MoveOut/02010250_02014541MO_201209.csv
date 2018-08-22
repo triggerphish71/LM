@@ -1,0 +1,7 @@
+BATCH,,201209,B,1250.0000,
+INVOICE,IN,,02010250,,09/01/2012,625.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02014541MO,-4134.0000,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25.00,"Monthly Cable: Grigg, Lois Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202020,30,20.0000,600.00,"Credit for Limited Term Discount: Grigg, Lois Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,02010250,,09/01/2012,625,"Invoice-Private",,09/01/2012,09/10/2012,,02014541MO,-4134.0000,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"Credit for Monthly Cable: Grigg, Lois Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202020,30,20,600,"Limited Term Discount: Grigg, Lois Jean",,,,,,,,,,,,,,,

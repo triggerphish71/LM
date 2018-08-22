@@ -1,0 +1,8 @@
+BATCH,,201302,B,5243.0000,
+INVOICE,IN,,19610215,,02/01/2013,1372.0000,"Invoice-Private",,02/01/2013,02/10/2013,,19613412MO,-2722.0000,,,,,,,,,,
+TRANSACTION,3320,010315196,1,1372.0000,1372.00,"CR:Limited Term Di... V.Knudsen 201302: Knudsen, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,19610215,,02/01/2013,3871,"Invoice-Private",,02/01/2013,02/10/2013,,19613412MO,-2722.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,2912,2912,"CR:Basic Service F... V.Knudsen 201302: Knudsen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,280,280,"CR:CC Meals... V.Knudsen 201302: Knudsen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"CR:Monthly Cable... V.Knudsen 201302: Knudsen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,644,644,"CR:Resident Care -... V.Knudsen 201302: Knudsen, Virginia",,,,,,,,,,,,,,,

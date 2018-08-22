@@ -1,0 +1,5 @@
+BATCH,,201201,B,310.0000,
+INVOICE,IN,,16910199,,01/01/2012,155.0000,"Invoice-Private",,01/01/2012,01/10/2012,,16914678MO,-1907.3000,,,,,,,,,,
+TRANSACTION,3320,010103169,31,5.0000,155.00,"Credit for Limited Term Discount: Long, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,16910199,,01/01/2012,155,"Invoice-Private",,01/01/2012,01/10/2012,,16914678MO,-1907.3000,,,,,,,,,,
+TRANSACTION,3320,010103169,31,5,155,"Limited Term Discount: Long, Ruth",,,,,,,,,,,,,,,

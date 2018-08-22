@@ -1,0 +1,6 @@
+BATCH,,201108,B,3472.0000,
+INVOICE,IN,,10710297,,08/01/2011,62.0000,"Invoice-Private",,08/01/2011,08/10/2011,,10715685MO,-4056.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,62.0000,62.00,"CR:Limited Term Di... C.Whitmore 201108: Whitmore, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,10710297,,08/01/2011,3410,"Invoice-Private",,08/01/2011,08/10/2011,,10715685MO,-4056.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2945,2945,"CR:Basic Service F... C.Whitmore 201108: Whitmore, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,465,465,"CR:Resident Care -... C.Whitmore 201108: Whitmore, Charlotte",,,,,,,,,,,,,,,

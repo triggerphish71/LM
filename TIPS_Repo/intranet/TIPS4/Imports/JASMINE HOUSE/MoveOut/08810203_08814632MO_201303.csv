@@ -1,0 +1,8 @@
+BATCH,,201303,B,4650.0000,
+INVOICE,IN,,08810203,,03/07/2013,1365.0000,"Invoice-Private",,03/07/2013,03/07/2013,,08814632MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,13,76.0000,988.00,"Basic Service Fee - Studio for Mar: Day, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,13,29.0000,377.00,"Resident Care - Level 2 for Mar: Day, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08810203,,03/07/2013,3285,"Invoice-Private",,03/07/2013,03/07/2013,,08814632MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2356,2356,"CR:Basic Service F... H.Day 201303: Day, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30,30,"CR:Pendant Fee... H.Day 201303: Day, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,899,899,"CR:Resident Care -... H.Day 201303: Day, Helen",,,,,,,,,,,,,,,

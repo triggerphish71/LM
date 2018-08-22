@@ -1,0 +1,5 @@
+BATCH,,201112,B,2242.0000,
+INVOICE,IN,,09110221,,12/30/2011,2242.0000,"MoveIn-Kovalchik. Ann",,12/30/2011,12/30/2011,,09115022,5993.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,2,85.0000,170,"Basic Service Fee - Studio: Kovalchik. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,2,36.0000,72,"Resident Care - Level 2: Kovalchik. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Kovalchik. Ann",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201201,B,6406.0000,
+INVOICE,IN,,20410179,,01/30/2012,3182.0000,"Invoice-Private",,01/30/2012,01/30/2012,,20412823MO,-3870.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,62.0000,62.00,"CR:Limited Term Di... C.Stewart 201201: Stewart, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,30,22.0000,660.00,"Resident Care - Level 2 for Jan: Stewart, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,30,82.0000,2460.00,"Studio for Jan: Stewart, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,20410179,,01/30/2012,3224,"Invoice-Private",,01/30/2012,01/30/2012,,20412823MO,-3870.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,682,682,"CR:Resident Care -... C.Stewart 201201: Stewart, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2542,2542,"CR:Studio... C.Stewart 201201: Stewart, Charles",,,,,,,,,,,,,,,

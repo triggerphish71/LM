@@ -1,0 +1,6 @@
+BATCH,,201303,B,3102.0000,
+INVOICE,IN,,14410276,,03/15/2013,3102.0000,"MoveIn-Boone. Delores",,03/15/2013,03/15/2013,,14415526,6790.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,17,106.0000,1802,"Basic Service Fee - Studio: Boone. Delores",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,17,16.0000,272,"Resident Care - Level 1: Boone. Delores",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Boone. Delores",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,1000.0000,1000,"New Resident Fee: Boone. Delores",,,,,,,,,,,,,,,

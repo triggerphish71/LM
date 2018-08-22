@@ -1,0 +1,8 @@
+BATCH,,201209,B,7446.0000,
+INVOICE,IN,,11810183,,09/16/2012,2576.0000,"Invoice-Private",,09/16/2012,09/16/2012,,11815533MO,-7325.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,16,100.0000,1600.00,"Basic Service Fee - Studio for Sep: Smith, Noami",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,16,61.0000,976.00,"Resident Care - Level 4 for Sep: Smith, Noami",,,,,,,,,,,,,,,
+INVOICE,CM,,11810183,,09/16/2012,4870,"Invoice-Private",,09/16/2012,09/16/2012,,11815533MO,-7325.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3000,3000,"CR:Basic Service F... N.Smith 201209: Smith, Noami",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... N.Smith 201209: Smith, Noami",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1830,1830,"CR:Resident Care -... N.Smith 201209: Smith, Noami",,,,,,,,,,,,,,,

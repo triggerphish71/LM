@@ -1,0 +1,5 @@
+BATCH,,201207,B,60.0000,
+INVOICE,IN,,13510261,,07/01/2012,30.0000,"Invoice-Private",,07/01/2012,07/10/2012,,13515223MO,-3866.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Binkley, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510261,,07/01/2012,30,"Invoice-Private",,07/01/2012,07/10/2012,,13515223MO,-3866.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Binkley, Helen",,,,,,,,,,,,,,,

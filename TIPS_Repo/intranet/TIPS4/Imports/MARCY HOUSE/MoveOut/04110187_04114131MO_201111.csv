@@ -1,0 +1,8 @@
+BATCH,,201111,B,5080.0000,
+INVOICE,IN,,04110187,,11/11/2011,1780.0000,"Invoice-Private",,11/11/2011,11/11/2011,,04114131MO,-1520.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,240.0000,240.00,"CR:Limited Term Di... M.McDanial 201111: McDanial, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,14,31.0000,434.00,"Resident Care - Level 2 for Nov: McDanial, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,14,79.0000,1106.00,"Room and Board - Studio for Nov: McDanial, Mattie",,,,,,,,,,,,,,,
+INVOICE,CM,,04110187,,11/11/2011,3300,"Invoice-Private",,11/11/2011,11/11/2011,,04114131MO,-1520.0000,,,,,,,,,,
+TRANSACTION,3027,010202041,1,930,930,"CR:Resident Care -... M.McDanial 201111: McDanial, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2370,2370,"CR:Room and Board ... M.McDanial 201111: McDanial, Mattie",,,,,,,,,,,,,,,

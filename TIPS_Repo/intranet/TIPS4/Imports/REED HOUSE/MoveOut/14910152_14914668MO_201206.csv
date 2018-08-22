@@ -1,0 +1,7 @@
+BATCH,,201206,B,180.0000,
+INVOICE,IN,,14910152,,06/01/2012,90.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14914668MO,-3208.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Hollander, Vergene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,30,2.0000,60.00,"Credit for Limited Term Discount: Hollander, Vergene",,,,,,,,,,,,,,,
+INVOICE,CM,,14910152,,06/01/2012,90,"Invoice-Private",,06/01/2012,06/10/2012,,14914668MO,-3208.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Hollander, Vergene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,30,2,60,"Limited Term Discount: Hollander, Vergene",,,,,,,,,,,,,,,

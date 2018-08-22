@@ -1,0 +1,7 @@
+BATCH,,201304,B,5343.2500,
+INVOICE,IN,,10410260,,04/25/2013,2428.7500,"Invoice-Private",,04/25/2013,04/25/2013,,10415343MO,-3497.4000,,,,,,,,,,
+TRANSACTION,3020,010101104,25,62.0000,1550.00,"Basic Service Fee - Studio for Apr: Anderson, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,25,35.1500,878.75,"Resident Care - Level 19 for Apr: Anderson, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,10410260,,04/25/2013,2914.5,"Invoice-Private",,04/25/2013,04/25/2013,,10415343MO,-3497.4000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,1860,1860,"CR:Basic Service F... L.Anderson 201304: Anderson, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,1054.5,1054.5,"CR:Resident Care -... L.Anderson 201304: Anderson, Lois",,,,,,,,,,,,,,,

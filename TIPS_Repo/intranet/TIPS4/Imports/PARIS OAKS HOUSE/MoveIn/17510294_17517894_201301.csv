@@ -1,0 +1,5 @@
+BATCH,,201301,B,1753.0000,
+INVOICE,IN,,17510294,,01/29/2013,1753.0000,"MoveIn-Pitts. Colin",,01/29/2013,01/29/2013,,17517894,3906.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,3,76.0000,228,"Basic Service Fee - Studio Deluxe: Pitts. Colin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Pitts. Colin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Pitts. Colin",,,,,,,,,,,,,,,

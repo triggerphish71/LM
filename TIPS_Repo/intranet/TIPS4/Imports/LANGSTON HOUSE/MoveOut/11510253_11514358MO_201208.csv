@@ -1,0 +1,8 @@
+BATCH,,201208,B,3469.0000,
+INVOICE,IN,,11510253,,08/04/2012,558.0000,"Invoice-Private",,08/04/2012,08/04/2012,,11514358MO,-2353.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,6,78.0000,468.00,"Basic Service Fee - One Bedroom for Aug: Smith, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,6,15.0000,90.00,"Resident Care - Level 1 for Aug: Smith, Myrtle",,,,,,,,,,,,,,,
+INVOICE,CM,,11510253,,08/04/2012,2911,"Invoice-Private",,08/04/2012,08/04/2012,,11514358MO,-2353.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2418,2418,"CR:Basic Service F... M.Smith 201208: Smith, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... M.Smith 201208: Smith, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,465,465,"CR:Resident Care -... M.Smith 201208: Smith, Myrtle",,,,,,,,,,,,,,,

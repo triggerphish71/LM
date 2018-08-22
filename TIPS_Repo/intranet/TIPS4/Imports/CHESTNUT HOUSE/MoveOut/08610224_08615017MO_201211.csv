@@ -1,0 +1,8 @@
+BATCH,,201211,B,5722.0000,
+INVOICE,IN,,08610224,,11/11/2012,2062.0000,"Invoice-Private",,11/11/2012,11/11/2012,,08615017MO,-1598.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,720.0000,720.00,"CR:Limited Term Di... M.King 201211: King, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305086,11,89.0000,979.00,"Basic Service Fee - Studio for Nov: King, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,11,33.0000,363.00,"Resident Care - Level 2 for Nov: King, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08610224,,11/11/2012,3660,"Invoice-Private",,11/11/2012,11/11/2012,,08615017MO,-1598.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2670,2670,"CR:Basic Service F... M.King 201211: King, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,990,990,"CR:Resident Care -... M.King 201211: King, Mary",,,,,,,,,,,,,,,

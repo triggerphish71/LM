@@ -1,0 +1,7 @@
+BATCH,,201111,B,4030.0000,
+INVOICE,IN,,51310178,,11/01/2011,130.0000,"Invoice-Private",,11/01/2011,11/01/2011,,51313591MO,-3770.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,103.0000,103.00,"Basic Service Fee- Studio for Nov: Wooley, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,27.0000,27.00,"Resident Care - Level 2 for Nov: Wooley, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,51310178,,11/01/2011,3900,"Invoice-Private",,11/01/2011,11/01/2011,,51313591MO,-3770.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3090,3090,"CR:Basic Service F... M.Wooley 201111: Wooley, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,810,810,"CR:Resident Care -... M.Wooley 201111: Wooley, Mary",,,,,,,,,,,,,,,

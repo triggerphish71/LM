@@ -1,0 +1,7 @@
+BATCH,,201210,B,94.0000,
+INVOICE,IN,,17110066,,10/01/2012,47.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17115310MO,-5915.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Hanshew, Christine    D",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20.0000,20.00,"Pendant Fee: Hanshew, Christine    D",,,,,,,,,,,,,,,
+INVOICE,CM,,17110066,,10/01/2012,47,"Invoice-Private",,10/01/2012,10/10/2012,,17115310MO,-5915.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Hanshew, Christine    D",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20,20,"Credit for Pendant Fee: Hanshew, Christine    D",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,4860.0000,
+INVOICE,IN,,19510230,,08/01/2011,2070.0000,"Invoice-Private",,08/01/2011,08/10/2011,,19513979MO,-720.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,23,90.0000,2070.00,"Basic Service Fee - Studio for Aug: Deroque, Steven",,,,,,,,,,,,,,,
+INVOICE,CM,,19510230,,08/01/2011,2790,"Invoice-Private",,08/01/2011,08/10/2011,,19513979MO,-720.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2790,2790,"CR:Basic Service F... S.Deroque 201108: Deroque, Steven",,,,,,,,,,,,,,,

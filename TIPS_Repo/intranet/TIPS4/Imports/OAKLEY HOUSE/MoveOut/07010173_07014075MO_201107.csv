@@ -1,0 +1,7 @@
+BATCH,,201107,B,5848.0000,
+INVOICE,IN,,07010173,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,07014075MO,-7229.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,1,62.0000,62.00,"CR:Limited Term Di... E.Hamilton 201107: Hamilton, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07010173,,07/01/2011,5786,"Invoice-Private",,07/01/2011,07/10/2011,,07014075MO,-7229.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,3503,3503,"CR:Basic Service F... E.Hamilton 201107: Hamilton, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010305070,1,20,20,"CR:Pendant Fee... E.Hamilton 201107: Hamilton, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2263,2263,"CR:Resident Care -... E.Hamilton 201107: Hamilton, Evelyn",,,,,,,,,,,,,,,

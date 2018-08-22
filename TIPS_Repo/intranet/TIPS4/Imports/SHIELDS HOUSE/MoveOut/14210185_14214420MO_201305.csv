@@ -1,0 +1,6 @@
+BATCH,,201305,B,2555.0000,
+INVOICE,IN,,14210185,,05/01/2013,350.0000,"Invoice-Private",,05/01/2013,05/10/2013,,14214420MO,-1855.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,5,70.0000,350.00,"Room and Board - One Bedroom for May: Webb, Jeanetta",,,,,,,,,,,,,,,
+INVOICE,CM,,14210185,,05/01/2013,2205,"Invoice-Private",,05/01/2013,05/10/2013,,14214420MO,-1855.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... J.Webb 201305: Webb, Jeanetta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2170,2170,"CR:Room and Board ... J.Webb 201305: Webb, Jeanetta",,,,,,,,,,,,,,,

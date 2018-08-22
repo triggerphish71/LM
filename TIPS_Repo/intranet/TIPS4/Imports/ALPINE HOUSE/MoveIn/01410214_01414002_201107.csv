@@ -1,0 +1,5 @@
+BATCH,,201107,B,2135.0000,
+INVOICE,IN,,01410214,,07/28/2011,2135.0000,"MoveIn-Smith. Inagene",,07/28/2011,07/28/2011,,01414002,4950.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,4,90.0000,360,"Basic Service Fee - Studio         : Smith. Inagene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Smith. Inagene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1750.0000,1750,"New Resident Fee: Smith. Inagene",,,,,,,,,,,,,,,

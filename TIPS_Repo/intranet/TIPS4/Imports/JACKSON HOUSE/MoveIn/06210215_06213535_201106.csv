@@ -1,0 +1,5 @@
+BATCH,,201106,B,3978.0000,
+INVOICE,IN,,06210215,,06/10/2011,3978.0000,"MoveIn-Long. Charlotte",,06/10/2011,06/10/2011,,06213535,3978.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,21,93.0000,1953,"Basic Service Fee - One Bedroom    : Long. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Long. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Long. Charlotte",,,,,,,,,,,,,,,

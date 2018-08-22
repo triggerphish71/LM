@@ -1,0 +1,7 @@
+BATCH,,201112,B,7844.0000,
+INVOICE,IN,,50510081,,12/22/2011,3256.0000,"Invoice-Private",,12/22/2011,12/22/2011,,50511541MO,-6013.0000,,,,,,,,,,
+TRANSACTION,3027,010305505,22,61.0000,1342.00,"Resident Care - Level 5 for Dec: Hatem, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,22,87.0000,1914.00,"Room and Board - Studio for Dec: Hatem, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,50510081,,12/22/2011,4588,"Invoice-Private",,12/22/2011,12/22/2011,,50511541MO,-6013.0000,,,,,,,,,,
+TRANSACTION,3027,010305505,1,1891,1891,"CR:Resident Care -... J.Hatem 201112: Hatem, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,1,2697,2697,"CR:Room and Board ... J.Hatem 201112: Hatem, Joseph",,,,,,,,,,,,,,,

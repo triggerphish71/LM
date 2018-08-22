@@ -1,0 +1,7 @@
+BATCH,,201207,B,1914.0000,
+INVOICE,IN,,19010237,,07/01/2012,957.0000,"Invoice-Private",,07/01/2012,07/10/2012,,19014525MO,-4866.7200,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Smith, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,30.0000,930.00,"Credit for Limited Term Discount: Smith, Milton",,,,,,,,,,,,,,,
+INVOICE,CM,,19010237,,07/01/2012,957,"Invoice-Private",,07/01/2012,07/10/2012,,19014525MO,-4866.7200,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Smith, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,30,930,"Limited Term Discount: Smith, Milton",,,,,,,,,,,,,,,

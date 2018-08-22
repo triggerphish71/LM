@@ -1,0 +1,7 @@
+BATCH,,201303,B,5781.0000,
+INVOICE,IN,,20810137,,03/10/2013,1968.0000,"Invoice-Private",,03/10/2013,03/10/2013,,20813503MO,-1845.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,16,101.0000,1616.00,"One Bedroom for Mar: Reeves, Hilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,16,22.0000,352.00,"Resident Care - Level 2 for Mar: Reeves, Hilma",,,,,,,,,,,,,,,
+INVOICE,CM,,20810137,,03/10/2013,3813,"Invoice-Private",,03/10/2013,03/10/2013,,20813503MO,-1845.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3131,3131,"CR:One Bedroom... H.Reeves 201303: Reeves, Hilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,682,682,"CR:Resident Care -... H.Reeves 201303: Reeves, Hilma",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,70.0000,
+INVOICE,IN,,12410276,,12/01/2012,35.0000,"Invoice-Private",,12/01/2012,12/10/2012,,12415060MO,-2323.0000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Estey, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,12410276,,12/01/2012,35,"Invoice-Private",,12/01/2012,12/10/2012,,12415060MO,-2323.0000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Estey, Harold",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,5940.0000,
+INVOICE,IN,,08810207,,11/01/2012,1260.0000,"Invoice-Private",,11/01/2012,11/10/2012,,08814509MO,-4509.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,1260.0000,1260.00,"CR:Limited Term Di... G.Westfall 201211: Westfall, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,08810207,,11/01/2012,4680,"Invoice-Private",,11/01/2012,11/10/2012,,08814509MO,-4509.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2910,2910,"CR:Basic Service F... G.Westfall 201211: Westfall, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1770,1770,"CR:Resident Care -... G.Westfall 201211: Westfall, Gerald",,,,,,,,,,,,,,,

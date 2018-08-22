@@ -1,0 +1,5 @@
+BATCH,,201210,B,4861.0000,
+INVOICE,IN,,07510267,,10/01/2012,4861.0000,"October_Rent-Czuchna. Paul",,10/01/2012,10/10/2012,,07514991,5854.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,85.0000,2635,"Basic Service Fee - Studio: Czuchna. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,71.0000,2201,"Resident Care - Level 5: Czuchna. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Czuchna. Paul",,,,,,,,,,,,,,,

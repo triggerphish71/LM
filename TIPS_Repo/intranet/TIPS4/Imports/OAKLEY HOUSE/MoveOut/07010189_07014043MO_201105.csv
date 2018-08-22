@@ -1,0 +1,7 @@
+BATCH,,201105,B,9300.0000,
+INVOICE,IN,,07010189,,05/29/2011,4495.0000,"Invoice-Private",,05/29/2011,05/29/2011,,07014043MO,-2890.0000,,,,,,,,,,
+TRANSACTION,3027,010305070,29,69.0000,2001.00,"Resident Care - Level 5 for May: Henry, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305070,29,86.0000,2494.00,"Room and Board - Studio for May: Henry, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,07010189,,05/29/2011,4805,"Invoice-Private",,05/29/2011,05/29/2011,,07014043MO,-2890.0000,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2139,2139,"CR:Resident Care -... T.Henry 201105: Henry, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2666,2666,"CR:Room and Board ... T.Henry 201105: Henry, Thelma",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,5625.0000,
+INVOICE,IN,,20810018,,06/08/2013,1875.0000,"Invoice-Private",,06/08/2013,06/08/2013,,20813576MO,-1875.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,15,62.0000,930.00,"Resident Care - Level 6 for Jun: Mann, Cora Vernell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,15,63.0000,945.00,"Studio for Jun: Mann, Cora Vernell",,,,,,,,,,,,,,,
+INVOICE,CM,,20810018,,06/08/2013,3750,"Invoice-Private",,06/08/2013,06/08/2013,,20813576MO,-1875.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1860,1860,"CR:Resident Care -... C.Mann 201306: Mann, Cora Vernell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,1890,1890,"CR:Studio... C.Mann 201306: Mann, Cora Vernell",,,,,,,,,,,,,,,

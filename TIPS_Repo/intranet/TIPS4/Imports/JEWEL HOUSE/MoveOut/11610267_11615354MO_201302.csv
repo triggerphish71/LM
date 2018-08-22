@@ -1,0 +1,5 @@
+BATCH,,201302,B,1960.0000,
+INVOICE,IN,,11610267,,02/01/2013,980.0000,"Invoice-Private",,02/01/2013,02/10/2013,,11615354MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,28,35.0000,980.00,"Credit for Limited Term Discount: Schoenhoeft, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,11610267,,02/01/2013,980,"Invoice-Private",,02/01/2013,02/10/2013,,11615354MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,28,35,980,"Limited Term Discount: Schoenhoeft, Norma",,,,,,,,,,,,,,,

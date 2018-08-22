@@ -1,0 +1,7 @@
+BATCH,,201305,B,3887.0000,
+INVOICE,IN,,17610334,,05/02/2013,1407.0000,"Invoice-Private",,05/02/2013,05/02/2013,,17615028MO,-1073.0000,,,,,,,,,,
+TRANSACTION,3312,010315176,1,217.0000,217.00,"CR:Two Room Rental... L.Carr 201305: Carr, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,17,70.0000,1190.00,"Basic Service Fee - Studio for May: Carr, Lyle",,,,,,,,,,,,,,,
+INVOICE,CM,,17610334,,05/02/2013,2480,"Invoice-Private",,05/02/2013,05/02/2013,,17615028MO,-1073.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2170,2170,"CR:Basic Service F... L.Carr 201305: Carr, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... L.Carr 201305: Carr, Lyle",,,,,,,,,,,,,,,

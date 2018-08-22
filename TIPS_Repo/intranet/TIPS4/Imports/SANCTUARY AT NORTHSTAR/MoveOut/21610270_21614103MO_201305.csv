@@ -1,0 +1,7 @@
+BATCH,,201305,B,8083.0000,
+INVOICE,IN,,21610270,,05/06/2013,3836.0000,"Invoice-Private",,05/06/2013,05/06/2013,,21614103MO,-411.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,28,85.0000,2380.00,"Companion Two Bedroom for May: Turnipseed, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,28,52.0000,1456.00,"Resident Care - Level 5 for May: Turnipseed, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,21610270,,05/06/2013,4247,"Invoice-Private",,05/06/2013,05/06/2013,,21614103MO,-411.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2635,2635,"CR:Companion Two B... M.Turnipseed 201305: Turnipseed, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1612,1612,"CR:Resident Care -... M.Turnipseed 201305: Turnipseed, Mary",,,,,,,,,,,,,,,

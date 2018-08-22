@@ -1,0 +1,7 @@
+BATCH,,201110,B,3700.0000,
+INVOICE,IN,,10510213,,10/01/2011,600.0000,"Invoice-Private",,10/01/2011,10/10/2011,,10513770MO,-2500.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,6,84.0000,504.00,"Basic Service Fee - Studio for Oct: Phelps, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,6,16.0000,96.00,"Resident Care - Level 1 for Oct: Phelps, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,10510213,,10/01/2011,3100,"Invoice-Private",,10/01/2011,10/10/2011,,10513770MO,-2500.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2604,2604,"CR:Basic Service F... E.Phelps 201110: Phelps, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,496,496,"CR:Resident Care -... E.Phelps 201110: Phelps, Edith",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,2795.0000,
+INVOICE,IN,,16510291,,04/13/2012,845.0000,"Invoice-Private",,04/13/2012,04/13/2012,,16514189MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,13,37.0000,481.00,"Basic Service Fee - Second Resident for Apr: McLenagan, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,13,28.0000,364.00,"Resident Care - Level 2 for Apr: McLenagan, Marge",,,,,,,,,,,,,,,
+INVOICE,CM,,16510291,,04/13/2012,1950,"Invoice-Private",,04/13/2012,04/13/2012,,16514189MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,1110,1110,"CR:Basic Service F... M.McLenagan 201204: McLenagan, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,840,840,"CR:Resident Care -... M.McLenagan 201204: McLenagan, Marge",,,,,,,,,,,,,,,

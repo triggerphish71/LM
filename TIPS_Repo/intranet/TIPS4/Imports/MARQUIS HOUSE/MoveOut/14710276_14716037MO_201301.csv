@@ -1,0 +1,7 @@
+BATCH,,201301,B,7595.0000,
+INVOICE,IN,,14710276,,01/18/2013,2790.0000,"Invoice-Private",,01/18/2013,01/18/2013,,14716037MO,-6397.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,18,102.0000,1836.00,"Basic Service Fee - Studio for Jan: Martin, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,18,53.0000,954.00,"Resident Care - Level 3 for Jan: Martin, Lenora",,,,,,,,,,,,,,,
+INVOICE,CM,,14710276,,01/18/2013,4805,"Invoice-Private",,01/18/2013,01/18/2013,,14716037MO,-6397.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... L.Martin 201301: Martin, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1643,1643,"CR:Resident Care -... L.Martin 201301: Martin, Lenora",,,,,,,,,,,,,,,

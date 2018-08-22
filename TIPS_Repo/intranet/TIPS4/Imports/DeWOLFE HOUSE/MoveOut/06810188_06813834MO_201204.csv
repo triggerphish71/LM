@@ -1,0 +1,7 @@
+BATCH,,201204,B,6952.0000,
+INVOICE,IN,,06810188,,04/09/2012,2212.0000,"Invoice-Private",,04/09/2012,04/09/2012,,06813834MO,-2528.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,14,111.0000,1554.00,"Basic Service Fee - One Bedroom for Apr: Plough, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,14,47.0000,658.00,"Resident Care - Level 3 for Apr: Plough, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,06810188,,04/09/2012,4740,"Invoice-Private",,04/09/2012,04/09/2012,,06813834MO,-2528.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,3330,3330,"CR:Basic Service F... D.Plough 201204: Plough, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1410,1410,"CR:Resident Care -... D.Plough 201204: Plough, Dorothy",,,,,,,,,,,,,,,

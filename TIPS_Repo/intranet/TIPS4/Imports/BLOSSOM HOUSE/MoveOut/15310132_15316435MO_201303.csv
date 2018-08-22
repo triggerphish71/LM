@@ -1,0 +1,7 @@
+BATCH,,201303,B,7279.8000,
+INVOICE,IN,,15310132,,03/02/2013,441.2000,"Invoice-Private",,03/02/2013,03/02/2013,,15316435MO,-6397.4000,,,,,,,,,,
+TRANSACTION,3020,010103153,2,117.0000,234.00,"Basic Service Fee - One Bedroom for Mar: Schmitt, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,2,103.6000,207.20,"Resident Care - Level 56 for Mar: Schmitt, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,15310132,,03/02/2013,6838.6,"Invoice-Private",,03/02/2013,03/02/2013,,15316435MO,-6397.4000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3627,3627,"CR:Basic Service F... J.Schmitt 201303: Schmitt, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,3211.6,3211.6,"CR:Resident Care -... J.Schmitt 201303: Schmitt, Juanita",,,,,,,,,,,,,,,

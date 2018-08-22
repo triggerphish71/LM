@@ -1,0 +1,6 @@
+BATCH,,201301,B,3316.0000,
+INVOICE,IN,,01710163,,01/11/2013,3316.0000,"MoveIn-Pope. Ouida",,01/11/2013,01/11/2013,,01713870,3316.0000,,,,,,,,,,
+TRANSACTION,3010,010202017,21,93.0000,1953,"Basic Service Fee - Studio: Pope. Ouida",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202017,21,16.0000,336,"Resident Care - Level 1: Pope. Ouida",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202017,1,1000.0000,1000,"New Resident Fee: Pope. Ouida",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27,"Monthly Cable: Pope. Ouida",,,,,,,,,,,,,,,

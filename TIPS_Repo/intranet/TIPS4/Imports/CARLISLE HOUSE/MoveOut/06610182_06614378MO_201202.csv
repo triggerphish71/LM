@@ -1,0 +1,6 @@
+BATCH,,201202,B,5568.0000,
+INVOICE,IN,,06610182,,02/01/2012,899.0000,"Invoice-Private",,02/01/2012,02/10/2012,,06614378MO,-5063.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,899.0000,899.00,"CR:Limited Term Di... M.Heydinger 201202: Heydinger, Maria",,,,,,,,,,,,,,,
+INVOICE,CM,,06610182,,02/01/2012,4669,"Invoice-Private",,02/01/2012,02/10/2012,,06614378MO,-5063.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2784,2784,"CR:Basic Service F... M.Heydinger 201202: Heydinger, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1885,1885,"CR:Resident Care -... M.Heydinger 201202: Heydinger, Maria",,,,,,,,,,,,,,,

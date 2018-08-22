@@ -1,0 +1,7 @@
+BATCH,,201202,B,2159.6300,
+INVOICE,IN,,50910113,,02/01/2012,71.6300,"Invoice-Private",,02/01/2012,02/01/2012,,50912895MO,-2016.3700,,,,,,,,,,
+TRANSACTION,3020,010101509,1,10.6300,10.63,"Increase Room and Board for Feb: Murphy, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,1,61.0000,61.00,"Room and Board - One Bedroom for Feb: Murphy, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,50910113,,02/01/2012,2088,"Invoice-Private",,02/01/2012,02/01/2012,,50912895MO,-2016.3700,,,,,,,,,,
+TRANSACTION,3020,010101509,1,319,319,"CR:Increase Room a... D.Murphy 201202: Murphy, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1769,1769,"CR:Room and Board ... D.Murphy 201202: Murphy, Donna",,,,,,,,,,,,,,,

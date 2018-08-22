@@ -1,0 +1,8 @@
+BATCH,,201211,B,5868.0000,
+INVOICE,IN,,19210206,,11/14/2012,1908.0000,"Invoice-Private",,11/14/2012,11/14/2012,,19215503MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,60.0000,60.00,"CR:Limited Term Di... D.Ratcliff 201211: Ratcliff, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309192,14,114.0000,1596.00,"Basic Service Fee - Studio for Nov: Ratcliff, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,14,18.0000,252.00,"Private Care Rate Adjustments for Nov: Ratcliff, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,19210206,,11/14/2012,3960,"Invoice-Private",,11/14/2012,11/14/2012,,19215503MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3420,3420,"CR:Basic Service F... D.Ratcliff 201211: Ratcliff, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,1,540,540,"CR:Private Care Ra... D.Ratcliff 201211: Ratcliff, Dale",,,,,,,,,,,,,,,

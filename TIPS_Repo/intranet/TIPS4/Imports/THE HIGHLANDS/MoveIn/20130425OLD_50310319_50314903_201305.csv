@@ -1,0 +1,5 @@
+BATCH,,201305,B,2794.0000,
+INVOICE,IN,,50310319,,05/01/2013,2794.0000,"May_Rent-Tower. James",,05/01/2013,05/10/2013,,50314903,3452.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,31,75.0000,2325,"Basic Service Fee - Studio: Tower. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,31,14.0000,434,"Resident Care - Level 1: Tower. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Tower. James",,,,,,,,,,,,,,,

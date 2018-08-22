@@ -1,0 +1,5 @@
+BATCH,,201203,B,60.0000,
+INVOICE,IN,,13510249,,03/01/2012,30.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13515033MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Stines, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13510249,,03/01/2012,30,"Invoice-Private",,03/01/2012,03/10/2012,,13515033MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Stines, Betty",,,,,,,,,,,,,,,

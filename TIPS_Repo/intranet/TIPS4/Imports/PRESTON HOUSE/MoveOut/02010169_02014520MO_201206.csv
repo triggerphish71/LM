@@ -1,0 +1,8 @@
+BATCH,,201206,B,8527.0000,
+INVOICE,IN,,02010169,,06/25/2012,4237.0000,"Invoice-Private",,06/25/2012,06/25/2012,,02014520MO,-4393.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,90.0000,90.00,"CR:Limited Term Di... P.Mitchell 201206: Mitchell, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202020,29,94.0000,2726.00,"Basic Service Fee - Studio for Jun: Mitchell, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,29,49.0000,1421.00,"Resident Care - Level 4 for Jun: Mitchell, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,02010169,,06/25/2012,4290,"Invoice-Private",,06/25/2012,06/25/2012,,02014520MO,-4393.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2820,2820,"CR:Basic Service F... P.Mitchell 201206: Mitchell, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,1470,1470,"CR:Resident Care -... P.Mitchell 201206: Mitchell, Pauline",,,,,,,,,,,,,,,

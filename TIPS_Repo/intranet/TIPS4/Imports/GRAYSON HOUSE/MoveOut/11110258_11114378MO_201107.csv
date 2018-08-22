@@ -1,0 +1,7 @@
+BATCH,,201107,B,174.0000,
+INVOICE,IN,,11110258,,07/01/2011,87.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11114378MO,-3139.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25.00,"Monthly Cable: Payson, Phil",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107111,31,2.0000,62.00,"Credit for Limited Term Discount: Payson, Phil",,,,,,,,,,,,,,,
+INVOICE,CM,,11110258,,07/01/2011,87,"Invoice-Private",,07/01/2011,07/10/2011,,11114378MO,-3139.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"Credit for Monthly Cable: Payson, Phil",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107111,31,2,62,"Limited Term Discount: Payson, Phil",,,,,,,,,,,,,,,

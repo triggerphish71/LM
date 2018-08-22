@@ -1,0 +1,7 @@
+BATCH,,201109,B,4425.0000,
+INVOICE,IN,,50710110,,09/24/2011,2175.0000,"Invoice-Private",,09/24/2011,09/24/2011,,50712061MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,29,64.0000,1856.00,"Basic Service Fee - Studio for Sep: Lundberg, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,29,11.0000,319.00,"Resident Care - Level 1 for Sep: Lundberg, Leonard",,,,,,,,,,,,,,,
+INVOICE,CM,,50710110,,09/24/2011,2250,"Invoice-Private",,09/24/2011,09/24/2011,,50712061MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,1920,1920,"CR:Basic Service F... L.Lundberg 201109: Lundberg, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,330,330,"CR:Resident Care -... L.Lundberg 201109: Lundberg, Leonard",,,,,,,,,,,,,,,

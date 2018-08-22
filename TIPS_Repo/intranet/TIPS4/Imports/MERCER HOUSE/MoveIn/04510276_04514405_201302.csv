@@ -1,0 +1,6 @@
+BATCH,,201302,B,3015.0000,
+INVOICE,IN,,04510276,,02/13/2013,3015.0000,"MoveIn-Richardson. Melba",,02/13/2013,02/13/2013,,04514405,3015.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,16,77.0000,1232,"Basic Service Fee - Studio: Richardson. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,16,16.0000,256,"Resident Care - Level 1: Richardson. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Richardson. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Richardson. Melba",,,,,,,,,,,,,,,

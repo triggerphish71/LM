@@ -1,0 +1,7 @@
+BATCH,,201307,B,4644.0000,
+INVOICE,IN,,03510158,,07/23/2013,1978.0000,"Invoice-Private",,07/23/2013,07/23/2013,,03513617MO,-3354.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,23,70.0000,1610.00,"Basic Service Fee - One Bedroom for Jul: Webb, Almaz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,23,16.0000,368.00,"Resident Care - Level 1 for Jul: Webb, Almaz",,,,,,,,,,,,,,,
+INVOICE,CM,,03510158,,07/23/2013,2666,"Invoice-Private",,07/23/2013,07/23/2013,,03513617MO,-3354.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2170,2170,"CR:Basic Service F... A.Webb 201307: Webb, Almaz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,496,496,"CR:Resident Care -... A.Webb 201307: Webb, Almaz",,,,,,,,,,,,,,,

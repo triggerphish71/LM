@@ -1,0 +1,5 @@
+BATCH,,201206,B,70.0000,
+INVOICE,IN,,14310138,,06/01/2012,35.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14314428MO,-2085.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: McKinney, Rosalie",,,,,,,,,,,,,,,
+INVOICE,CM,,14310138,,06/01/2012,35,"Invoice-Private",,06/01/2012,06/10/2012,,14314428MO,-2085.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: McKinney, Rosalie",,,,,,,,,,,,,,,

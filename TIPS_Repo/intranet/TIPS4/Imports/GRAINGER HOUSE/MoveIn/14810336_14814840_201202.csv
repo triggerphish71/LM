@@ -1,0 +1,6 @@
+BATCH,,201202,B,4473.0000,
+INVOICE,IN,,14810336,,02/03/2012,4473.0000,"MoveIn-Maxim. John",,02/03/2012,02/03/2012,,14814840,4473.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,27,91.0000,2457,"Basic Service Fee - Studio: Maxim. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,27,18.0000,486,"Resident Care - Level 1: Maxim. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Maxim. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1500.0000,1500,"New Resident Fee: Maxim. John",,,,,,,,,,,,,,,

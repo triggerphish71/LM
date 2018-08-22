@@ -1,0 +1,7 @@
+BATCH,,201208,B,3062.0000,
+INVOICE,IN,,00310179,,07/31/2012,121.0000,"MoveIn-Morris. Frances",,07/31/2012,07/31/2012,,00314299,3062.0000,,,,,,,,,,
+TRANSACTION,3014,010101003,1,94.0000,94,"Basic Service Fee - One Bedroom: Morris. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Morris. Frances",,,,,,,,,,,,,,,
+INVOICE,IN,,00310179,,08/01/2012,2941.0000,"August_Rent-Morris. Frances",,08/01/2012,08/10/2012,,00314299,3062.0000,,,,,,,,,,
+TRANSACTION,3010,010101003,31,94.0000,2914,"Basic Service Fee - One Bedroom: Morris. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Morris. Frances",,,,,,,,,,,,,,,

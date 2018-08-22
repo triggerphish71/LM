@@ -1,0 +1,7 @@
+BATCH,,201209,B,1500.0000,
+INVOICE,IN,,08810196,,09/01/2012,750.0000,"Invoice-Private",,09/01/2012,09/10/2012,,08814442MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,24.0000,720.00,"Credit for Limited Term Discount: McCall, Dagny",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30.0000,30.00,"Pendant Fee: McCall, Dagny",,,,,,,,,,,,,,,
+INVOICE,CM,,08810196,,09/01/2012,750,"Invoice-Private",,09/01/2012,09/10/2012,,08814442MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,24,720,"Limited Term Discount: McCall, Dagny",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30,30,"Credit for Pendant Fee: McCall, Dagny",,,,,,,,,,,,,,,

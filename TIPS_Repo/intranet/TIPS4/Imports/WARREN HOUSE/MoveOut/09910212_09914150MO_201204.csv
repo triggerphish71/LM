@@ -1,0 +1,5 @@
+BATCH,,201204,B,3535.0000,
+INVOICE,CM,,09910212,,04/01/2012,3535,"Invoice-Private",,04/01/2012,04/10/2012,,09914150MO,-4471.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2640,2640,"CR:Basic Service F... J.Roper 201204: Roper, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... J.Roper 201204: Roper, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,870,870,"CR:Resident Care -... J.Roper 201204: Roper, Jim",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,4900.0000,
+INVOICE,IN,,16010362,,05/07/2012,4900.0000,"MoveIn-Mogil. Henrietta",,05/07/2012,05/07/2012,,16015252,4900.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,25,99.0000,2475,"H.Mogil: Basic Service Fee - Studio: Mogil. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,25,16.0000,400,"H.Mogil: Resident Care - Level 1: Mogil. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Mogil. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,2000.0000,2000,"New Resident Fee: Mogil. Henrietta",,,,,,,,,,,,,,,

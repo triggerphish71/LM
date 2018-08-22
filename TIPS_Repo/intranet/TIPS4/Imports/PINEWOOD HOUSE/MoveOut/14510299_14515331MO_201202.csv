@@ -1,0 +1,8 @@
+BATCH,,201202,B,4026.0000,
+INVOICE,IN,,14510299,,02/02/2012,314.0000,"Invoice-Private",,02/02/2012,02/02/2012,,14515331MO,-3398.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,58.0000,58.00,"CR:Limited Term Di... A.Mitro 201202: Mitro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,2,99.0000,198.00,"Basic Service Fee - Studio for Feb: Mitro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,2,29.0000,58.00,"Resident Care - Level 2 for Feb: Mitro, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,14510299,,02/02/2012,3712,"Invoice-Private",,02/02/2012,02/02/2012,,14515331MO,-3398.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2871,2871,"CR:Basic Service F... A.Mitro 201202: Mitro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,841,841,"CR:Resident Care -... A.Mitro 201202: Mitro, Albert",,,,,,,,,,,,,,,

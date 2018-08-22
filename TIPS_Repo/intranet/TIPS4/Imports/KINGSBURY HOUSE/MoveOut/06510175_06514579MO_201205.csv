@@ -1,0 +1,5 @@
+BATCH,,201205,B,2852.0000,
+INVOICE,IN,,06510175,,05/01/2012,1426.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06514579MO,-2474.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,46.0000,1426.00,"Credit for Limited Term Discount: Thieroff, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,06510175,,05/01/2012,1426,"Invoice-Private",,05/01/2012,05/10/2012,,06514579MO,-2474.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,46,1426,"Limited Term Discount: Thieroff, Dorothy",,,,,,,,,,,,,,,

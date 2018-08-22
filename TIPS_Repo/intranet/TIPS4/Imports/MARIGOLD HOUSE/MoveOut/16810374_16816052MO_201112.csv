@@ -1,0 +1,7 @@
+BATCH,,201112,B,918.0000,
+INVOICE,IN,,16810374,,12/01/2011,459.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16816052MO,-3143.0000,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25.00,"Monthly Cable: Williams, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3320,010313168,31,14.0000,434.00,"Credit for Limited Term Discount: Williams, Inez",,,,,,,,,,,,,,,
+INVOICE,CM,,16810374,,12/01/2011,459,"Invoice-Private",,12/01/2011,12/10/2011,,16816052MO,-3143.0000,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25,25,"Credit for Monthly Cable: Williams, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3320,010313168,31,14,434,"Limited Term Discount: Williams, Inez",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,8772.0000,
+INVOICE,IN,,09210186,,07/01/2012,3440.0000,"Invoice-Private",,07/01/2012,07/10/2012,,09214840MO,-1892.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,20,78.0000,1560.00,"Basic Service Fee - Studio for Jul: Sheeley, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,20,94.0000,1880.00,"Resident Care - Level 6 for Jul: Sheeley, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09210186,,07/01/2012,5332,"Invoice-Private",,07/01/2012,07/10/2012,,09214840MO,-1892.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2418,2418,"CR:Basic Service F... M.Sheeley 201207: Sheeley, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,2914,2914,"CR:Resident Care -... M.Sheeley 201207: Sheeley, Mary",,,,,,,,,,,,,,,

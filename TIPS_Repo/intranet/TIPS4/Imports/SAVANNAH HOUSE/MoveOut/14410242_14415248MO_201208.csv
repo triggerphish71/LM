@@ -1,0 +1,7 @@
+BATCH,,201208,B,5188.0000,
+INVOICE,IN,,14410242,,08/10/2012,1250.0000,"Invoice-Private",,08/10/2012,08/10/2012,,14415248MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,10,125.0000,1250.00,"Basic Service Fee - One Bedroom for Aug: Condon, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14410242,,08/10/2012,3938,"Invoice-Private",,08/10/2012,08/10/2012,,14415248MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3875,3875,"CR:Basic Service F... M.Condon 201208: Condon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... M.Condon 201208: Condon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"CR:Pendant Fee... M.Condon 201208: Condon, Mary",,,,,,,,,,,,,,,

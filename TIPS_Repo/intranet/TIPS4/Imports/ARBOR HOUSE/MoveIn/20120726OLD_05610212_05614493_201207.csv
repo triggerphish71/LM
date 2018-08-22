@@ -1,0 +1,5 @@
+BATCH,,201207,B,1507.0000,
+INVOICE,IN,,05610212,,07/26/2012,1507.0000,"MoveIn-Bowen. Alice",,07/26/2012,07/26/2012,,05614493,4014.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,6,80.0000,480,"Basic Service Fee - One Bedroom: Bowen. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Bowen. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Bowen. Alice",,,,,,,,,,,,,,,

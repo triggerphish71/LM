@@ -1,0 +1,6 @@
+BATCH,,201108,B,3795.0000,
+INVOICE,IN,,02610259,,08/08/2011,3795.0000,"MoveIn-Bergeron. Bill",,08/08/2011,08/08/2011,,02614455,3795.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,24,94.0000,2256,"Basic Service Fee - Studio         : Bergeron. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,24,13.0000,312,"Resident Care - Level 1: Bergeron. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Bergeron. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1200.0000,1200,"New Resident Fee: Bergeron. Bill",,,,,,,,,,,,,,,

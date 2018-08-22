@@ -1,0 +1,7 @@
+BATCH,,201204,B,3696.0000,
+INVOICE,IN,,13810211,,04/01/2012,336.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13814940MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,3,96.0000,288.00,"Basic Service Fee - Studio for Apr: Wilfong, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,3,16.0000,48.00,"Resident Care - Level 1 for Apr: Wilfong, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,13810211,,04/01/2012,3360,"Invoice-Private",,04/01/2012,04/10/2012,,13814940MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2880,2880,"CR:Basic Service F... D.Wilfong 201204: Wilfong, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,480,480,"CR:Resident Care -... D.Wilfong 201204: Wilfong, Dale",,,,,,,,,,,,,,,

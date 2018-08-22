@@ -1,0 +1,7 @@
+BATCH,,201207,B,4763.0000,
+INVOICE,IN,,02610262,,07/06/2012,1729.0000,"Invoice-Private",,07/06/2012,07/06/2012,,02614839MO,-1305.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,1,1147.0000,1147.00,"CR:Limited Term Di... F.Thayer 201207: Thayer, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,6,97.0000,582.00,"Basic Service Fee - Studio for Jul: Thayer, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,02610262,,07/06/2012,3034,"Invoice-Private",,07/06/2012,07/06/2012,,02614839MO,-1305.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3007,3007,"CR:Basic Service F... F.Thayer 201207: Thayer, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... F.Thayer 201207: Thayer, Francis",,,,,,,,,,,,,,,

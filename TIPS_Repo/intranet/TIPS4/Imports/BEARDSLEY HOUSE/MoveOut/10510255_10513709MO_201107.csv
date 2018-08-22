@@ -1,0 +1,8 @@
+BATCH,,201107,B,5116.0000,
+INVOICE,IN,,10510255,,07/08/2011,678.0000,"Invoice-Private",,07/08/2011,07/08/2011,,10513709MO,-3760.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,6,84.0000,504.00,"Basic Service Fee - Studio for Jul: House, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,6,29.0000,174.00,"Resident Care - Level 2 for Jul: House, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,10510255,,07/08/2011,4438,"Invoice-Private",,07/08/2011,07/08/2011,,10513709MO,-3760.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2184,2184,"CR:Basic Service F... R.House 201107: House, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309105,1,1500,1500,"CR:New Resident Fe... R.House 201107: House, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,754,754,"CR:Resident Care -... R.House 201107: House, Ruth",,,,,,,,,,,,,,,

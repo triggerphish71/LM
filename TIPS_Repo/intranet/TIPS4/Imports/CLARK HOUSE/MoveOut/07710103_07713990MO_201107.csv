@@ -1,0 +1,7 @@
+BATCH,,201107,B,3993.0000,
+INVOICE,IN,,07710103,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,07713990MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3320,010104077,1,62.0000,62.00,"CR:Limited Term Di... R.OReilly 201107: OReilly, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,07710103,,07/01/2011,3931,"Invoice-Private",,07/01/2011,07/10/2011,,07713990MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,3441,3441,"CR:Basic Service F... R.OReilly 201107: OReilly, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... R.OReilly 201107: OReilly, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,465,465,"CR:Resident Care -... R.OReilly 201107: OReilly, Ruth",,,,,,,,,,,,,,,

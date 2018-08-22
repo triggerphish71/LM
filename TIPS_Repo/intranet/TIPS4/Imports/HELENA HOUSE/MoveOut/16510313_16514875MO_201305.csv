@@ -1,0 +1,6 @@
+BATCH,,201305,B,4827.0000,
+INVOICE,IN,,16510313,,05/17/2013,1700.0000,"Invoice-Private",,05/17/2013,05/17/2013,,16514875MO,-4454.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,17,100.0000,1700.00,"Room and Board - Studio for May: Woods, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,16510313,,05/17/2013,3127,"Invoice-Private",,05/17/2013,05/17/2013,,16514875MO,-4454.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... E.Woods 201305: Woods, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3100,3100,"CR:Room and Board ... E.Woods 201305: Woods, Elizabeth",,,,,,,,,,,,,,,

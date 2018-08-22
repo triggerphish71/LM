@@ -1,0 +1,7 @@
+BATCH,,201304,B,5777.0000,
+INVOICE,IN,,18410086,,04/23/2013,2507.0000,"Invoice-Private",,04/23/2013,04/23/2013,,18415555MO,-4142.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,23,96.0000,2208.00,"Basic Service Fee - Studio for Apr: Hinton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,23,13.0000,299.00,"Resident Care - Level 1 for Apr: Hinton, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,18410086,,04/23/2013,3270,"Invoice-Private",,04/23/2013,04/23/2013,,18415555MO,-4142.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2880,2880,"CR:Basic Service F... M.Hinton 201304: Hinton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,390,390,"CR:Resident Care -... M.Hinton 201304: Hinton, Mary",,,,,,,,,,,,,,,

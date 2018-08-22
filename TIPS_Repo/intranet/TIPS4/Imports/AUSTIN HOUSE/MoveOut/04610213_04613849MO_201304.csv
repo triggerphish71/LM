@@ -1,0 +1,5 @@
+BATCH,,201304,B,1860.0000,
+INVOICE,IN,,04610213,,04/01/2013,930.0000,"Invoice-Private",,04/01/2013,04/10/2013,,04613849MO,-1776.0000,,,,,,,,,,
+TRANSACTION,3321,010202046,30,31.0000,930.00,"Credit for 2nd Resident Free Discount: Duke, Billy Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,04610213,,04/01/2013,930,"Invoice-Private",,04/01/2013,04/10/2013,,04613849MO,-1776.0000,,,,,,,,,,
+TRANSACTION,3321,010202046,30,31,930,"2nd Resident Free Discount: Duke, Billy Joe",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,4484.0000,
+INVOICE,IN,,09010224,,07/07/2011,826.0000,"Invoice-Private",,07/07/2011,07/07/2011,,09014667MO,-2832.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,7,89.0000,623.00,"Basic Service Fee - Studio for Jul: Larsen, Earlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,7,29.0000,203.00,"Resident Care - Level 2 for Jul: Larsen, Earlene",,,,,,,,,,,,,,,
+INVOICE,CM,,09010224,,07/07/2011,3658,"Invoice-Private",,07/07/2011,07/07/2011,,09014667MO,-2832.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2759,2759,"CR:Basic Service F... E.Larsen 201107: Larsen, Earlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,899,899,"CR:Resident Care -... E.Larsen 201107: Larsen, Earlene",,,,,,,,,,,,,,,

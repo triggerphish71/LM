@@ -1,0 +1,5 @@
+BATCH,,201107,B,3192.0000,
+INVOICE,IN,,20210157,,07/01/2011,588.0000,"Invoice-Private",,07/01/2011,07/10/2011,,20212250MO,-2016.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,7,84.0000,588.00,"Room and Board - Studio for Jul: Scarborough, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,20210157,,07/01/2011,2604,"Invoice-Private",,07/01/2011,07/10/2011,,20212250MO,-2016.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2604,2604,"CR:Room and Board ... E.Scarborough 201107: Scarborough, Earl",,,,,,,,,,,,,,,

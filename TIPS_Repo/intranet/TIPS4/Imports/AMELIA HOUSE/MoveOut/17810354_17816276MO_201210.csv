@@ -1,0 +1,8 @@
+BATCH,,201210,B,10355.0000,
+INVOICE,IN,,17810354,,10/29/2012,4988.0000,"Invoice-Private",,10/29/2012,10/29/2012,,17816276MO,-5119.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,29,101.0000,2929.00,"J.Green: Basic Service Fee - One Bedroom for Oct: Green, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,29,71.0000,2059.00,"J.Green: Swan Personal Care - L5 for Oct: Green, John",,,,,,,,,,,,,,,
+INVOICE,CM,,17810354,,10/29/2012,5367,"Invoice-Private",,10/29/2012,10/29/2012,,17816276MO,-5119.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,3131,3131,"CR:J.Green: Basic ... J.Green 201210: Green, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,2201,2201,"CR:J.Green: Swan P... J.Green 201210: Green, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... J.Green 201210: Green, John",,,,,,,,,,,,,,,

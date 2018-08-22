@@ -1,0 +1,5 @@
+BATCH,,201204,B,4325.0000,
+INVOICE,IN,,17610304,,04/06/2012,4325.0000,"MoveIn-Black. Elmer",,04/06/2012,04/06/2012,,17614401,4325.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,25,103.0000,2575,"Basic Service Fee - One Bedroom: Black. Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Black. Elmer",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,25,10.0000,250,"CC Meals: Black. Elmer",,,,,,,,,,,,,,,

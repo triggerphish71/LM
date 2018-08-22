@@ -1,0 +1,7 @@
+BATCH,,201206,B,4077.0000,
+INVOICE,IN,,17110248,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17115152MO,-3957.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,60.0000,60.00,"CR:Limited Term Di... J.Albanese 201206: Albanese, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,17110248,,06/01/2012,4017,"Invoice-Private",,06/01/2012,06/10/2012,,17115152MO,-3957.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3480,3480,"CR:Basic Service F... J.Albanese 201206: Albanese, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... J.Albanese 201206: Albanese, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... J.Albanese 201206: Albanese, Joseph",,,,,,,,,,,,,,,

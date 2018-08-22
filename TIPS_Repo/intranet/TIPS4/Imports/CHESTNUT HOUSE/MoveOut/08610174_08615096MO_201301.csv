@@ -1,0 +1,7 @@
+BATCH,,201301,B,5032.0000,
+INVOICE,IN,,08610174,,01/03/2013,444.0000,"Invoice-Private",,01/03/2013,01/03/2013,,08615096MO,-4144.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,3,89.0000,267.00,"Basic Service Fee - Studio for Jan: Frazier, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,3,59.0000,177.00,"Resident Care - Level 4 for Jan: Frazier, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,08610174,,01/03/2013,4588,"Invoice-Private",,01/03/2013,01/03/2013,,08615096MO,-4144.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2759,2759,"CR:Basic Service F... R.Frazier 201301: Frazier, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1829,1829,"CR:Resident Care -... R.Frazier 201301: Frazier, Richard",,,,,,,,,,,,,,,

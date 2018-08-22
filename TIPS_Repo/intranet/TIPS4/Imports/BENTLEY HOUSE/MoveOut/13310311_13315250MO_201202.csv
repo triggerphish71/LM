@@ -1,0 +1,7 @@
+BATCH,,201202,B,4960.0000,
+INVOICE,IN,,13310311,,02/01/2012,1364.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13315250MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,11,92.0000,1012.00,"Basic Service Fee - Studio for Feb: Ferreri, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,11,32.0000,352.00,"Resident Care - Level 2 for Feb: Ferreri, Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,13310311,,02/01/2012,3596,"Invoice-Private",,02/01/2012,02/10/2012,,13315250MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2668,2668,"CR:Basic Service F... L.Ferreri 201202: Ferreri, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,928,928,"CR:Resident Care -... L.Ferreri 201202: Ferreri, Lucy",,,,,,,,,,,,,,,

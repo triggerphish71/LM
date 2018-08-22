@@ -1,0 +1,6 @@
+BATCH,,201202,B,3781.0000,
+INVOICE,IN,,52910184,,02/14/2012,3781.0000,"MoveIn-Stoelting. Frederick",,02/14/2012,02/14/2012,,52912951,3801.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,16,113.0000,1808,"F.Stoelting: Basic Service Fee - One Bedroom: Stoelting. Frederick",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,16,28.0000,448,"F.Stoelting: Resident Care - Level 2: Stoelting. Frederick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Stoelting. Frederick",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,1500.0000,1500,"New Resident Fee: Stoelting. Frederick",,,,,,,,,,,,,,,

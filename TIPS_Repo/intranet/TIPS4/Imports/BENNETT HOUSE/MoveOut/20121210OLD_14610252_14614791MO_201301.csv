@@ -1,0 +1,7 @@
+BATCH,,201301,B,5579.0000,
+INVOICE,IN,,14610252,,01/01/2013,868.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14614791MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3320,010309146,1,868.0000,868.00,"CR:Limited Term Di... M.Ellars 201301: Ellars, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,14610252,,01/01/2013,4711,"Invoice-Private",,01/01/2013,01/10/2013,,14614791MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... M.Ellars 201301: Ellars, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Ellars 201301: Ellars, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1798,1798,"CR:Resident Care -... M.Ellars 201301: Ellars, Marian",,,,,,,,,,,,,,,

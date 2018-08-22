@@ -1,0 +1,7 @@
+BATCH,,201303,B,4186.0000,
+INVOICE,IN,,16110268,,03/01/2013,1365.0000,"Invoice-Private",,03/01/2013,03/10/2013,,16115850MO,-4186.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,15,56.0000,840.00,"Basic Service Fee - Studio for Mar: LeBlanc, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,15,35.0000,525.00,"Resident Care - Level 3 for Mar: LeBlanc, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,16110268,,03/01/2013,2821,"Invoice-Private",,03/01/2013,03/10/2013,,16115850MO,-4186.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,1736,1736,"CR:Basic Service F... V.LeBlanc 201303: LeBlanc, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,1085,1085,"CR:Resident Care -... V.LeBlanc 201303: LeBlanc, Virginia",,,,,,,,,,,,,,,

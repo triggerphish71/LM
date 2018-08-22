@@ -1,0 +1,5 @@
+BATCH,,201204,B,5047.0000,
+INVOICE,IN,,01510176,,04/19/2012,1957.0000,"Invoice-Private",,04/19/2012,04/19/2012,,01514233MO,-4326.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,19,103.0000,1957.00,"Basic Service Fee - One Bedroom for Apr: Cummins, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,01510176,,04/19/2012,3090,"Invoice-Private",,04/19/2012,04/19/2012,,01514233MO,-4326.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,3090,3090,"CR:Basic Service F... J.Cummins 201204: Cummins, Josephine",,,,,,,,,,,,,,,

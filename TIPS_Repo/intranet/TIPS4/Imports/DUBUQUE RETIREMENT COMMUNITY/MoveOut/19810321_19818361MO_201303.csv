@@ -1,0 +1,8 @@
+BATCH,,201303,B,4980.0000,
+INVOICE,IN,,19810321,,03/01/2013,1881.0000,"Invoice-Private",,03/01/2013,03/10/2013,,19818361MO,-1218.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,19,66.0000,1254.00,"Basic Service Fee-One Bdrm AL C for Mar: Jasper, Herb",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,19,33.0000,627.00,"Swan Personal Care - L1 for Mar: Jasper, Herb",,,,,,,,,,,,,,,
+INVOICE,CM,,19810321,,03/01/2013,3099,"Invoice-Private",,03/01/2013,03/10/2013,,19818361MO,-1218.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2046,2046,"CR:Basic Service F... H.Jasper 201303: Jasper, Herb",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... H.Jasper 201303: Jasper, Herb",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1023,1023,"CR:Swan Personal C... H.Jasper 201303: Jasper, Herb",,,,,,,,,,,,,,,

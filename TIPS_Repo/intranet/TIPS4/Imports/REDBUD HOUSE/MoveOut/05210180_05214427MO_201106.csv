@@ -1,0 +1,8 @@
+BATCH,,201106,B,5537.0000,
+INVOICE,IN,,05210180,,06/01/2011,1160.0000,"Invoice-Private",,06/01/2011,06/10/2011,,05214427MO,-3217.0000,,,,,,,,,,
+TRANSACTION,3027,010202052,8,66.0000,528.00,"Resident Care - Level 5 for Jun: Garrett, Arwood",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,8,79.0000,632.00,"Room and Board - Studio for Jun: Garrett, Arwood",,,,,,,,,,,,,,,
+INVOICE,CM,,05210180,,06/01/2011,4377,"Invoice-Private",,06/01/2011,06/10/2011,,05214427MO,-3217.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... A.Garrett 201106: Garrett, Arwood",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,1980,1980,"CR:Resident Care -... A.Garrett 201106: Garrett, Arwood",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2370,2370,"CR:Room and Board ... A.Garrett 201106: Garrett, Arwood",,,,,,,,,,,,,,,

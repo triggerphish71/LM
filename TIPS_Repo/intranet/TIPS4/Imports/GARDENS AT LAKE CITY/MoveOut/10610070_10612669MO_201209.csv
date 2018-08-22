@@ -1,0 +1,7 @@
+BATCH,,201209,B,3905.0000,
+INVOICE,IN,,10610070,,09/01/2012,420.0000,"Invoice-Private",,09/01/2012,09/10/2012,,10612669MO,-4391.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,1,420.0000,420.00,"CR:Limited Term Di... R.Barlow 201209: Barlow, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,10610070,,09/01/2012,3485,"Invoice-Private",,09/01/2012,09/10/2012,,10612669MO,-4391.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2610,2610,"CR:Basic Service F... R.Barlow 201209: Barlow, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... R.Barlow 201209: Barlow, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,840,840,"CR:Resident Care -... R.Barlow 201209: Barlow, Ruby",,,,,,,,,,,,,,,

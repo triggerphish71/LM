@@ -1,0 +1,7 @@
+BATCH,,201301,B,1176.0000,
+INVOICE,IN,,50110219,,01/01/2013,588.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50114438MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Zimmerman, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,18.0000,558.00,"Credit for Limited Term Discount: Zimmerman, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,50110219,,01/01/2013,588,"Invoice-Private",,01/01/2013,01/10/2013,,50114438MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Zimmerman, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,18,558,"Limited Term Discount: Zimmerman, Mary",,,,,,,,,,,,,,,

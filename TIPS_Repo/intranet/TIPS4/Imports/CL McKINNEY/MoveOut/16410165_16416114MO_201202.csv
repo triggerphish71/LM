@@ -1,0 +1,7 @@
+BATCH,,201202,B,5658.0000,
+INVOICE,IN,,16410165,,02/17/2012,2091.0000,"Invoice-Private",,02/17/2012,02/17/2012,,16416114MO,-5289.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,17,99.0000,1683.00,"Basic Service Fee - Studio Premium for Feb: Welch, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,17,24.0000,408.00,"Resident Care - Level 2 for Feb: Welch, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,16410165,,02/17/2012,3567,"Invoice-Private",,02/17/2012,02/17/2012,,16416114MO,-5289.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2871,2871,"CR:Basic Service F... K.Welch 201202: Welch, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,696,696,"CR:Resident Care -... K.Welch 201202: Welch, Kathryn",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201302,B,3711.0000,
+INVOICE,IN,,06510170,,02/01/2013,939.0000,"Invoice-Private",,02/01/2013,02/10/2013,,06515028MO,-1833.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,840.0000,840.00,"CR:Limited Term Di... A.Williams 201302: Williams, Alene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,1,99.0000,99.00,"Basic Service Fee - Studio for Feb: Williams, Alene",,,,,,,,,,,,,,,
+INVOICE,CM,,06510170,,02/01/2013,2772,"Invoice-Private",,02/01/2013,02/10/2013,,06515028MO,-1833.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2772,2772,"CR:Basic Service F... A.Williams 201302: Williams, Alene",,,,,,,,,,,,,,,

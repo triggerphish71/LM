@@ -1,0 +1,7 @@
+BATCH,,201105,B,6348.0000,
+INVOICE,IN,,12310183,,05/15/2011,2070.0000,"Invoice-Private",,05/15/2011,05/15/2011,,12314963MO,-6348.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,15,100.0000,1500.00,"Basic Service Fee - Studio for May: Rhodes, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,15,38.0000,570.00,"Resident Care - Level 2 for May: Rhodes, John",,,,,,,,,,,,,,,
+INVOICE,CM,,12310183,,05/15/2011,4278,"Invoice-Private",,05/15/2011,05/15/2011,,12314963MO,-6348.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3100,3100,"CR:Basic Service F... J.Rhodes 201105: Rhodes, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1178,1178,"CR:Resident Care -... J.Rhodes 201105: Rhodes, John",,,,,,,,,,,,,,,

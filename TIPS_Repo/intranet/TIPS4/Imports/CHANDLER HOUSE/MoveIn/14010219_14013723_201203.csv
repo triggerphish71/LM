@@ -1,0 +1,5 @@
+BATCH,,201203,B,3285.0000,
+INVOICE,IN,,14010219,,03/01/2012,3285.0000,"March_Rent-Jarman. James (Jack)",,03/01/2012,03/10/2012,,14013723,6390.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,31,88.0000,2728,"Basic Service Fee - Studio: Jarman. James (Jack)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,31,17.0000,527,"Resident Care - Level 1: Jarman. James (Jack)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Jarman. James (Jack)",,,,,,,,,,,,,,,

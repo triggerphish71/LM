@@ -1,0 +1,8 @@
+BATCH,,201305,B,4391.0000,
+INVOICE,IN,,07510272,,05/13/2013,2072.0000,"Invoice-Private",,05/13/2013,05/13/2013,,07515159MO,-247.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,28,45.0000,1260.00,"Basic Service Fee - Studio for May: West, Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,28,29.0000,812.00,"Resident Care - Level 2 for May: West, Dorthy",,,,,,,,,,,,,,,
+INVOICE,CM,,07510272,,05/13/2013,2319,"Invoice-Private",,05/13/2013,05/13/2013,,07515159MO,-247.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,1395,1395,"CR:Basic Service F... D.West 201305: West, Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... D.West 201305: West, Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,899,899,"CR:Resident Care -... D.West 201305: West, Dorthy",,,,,,,,,,,,,,,

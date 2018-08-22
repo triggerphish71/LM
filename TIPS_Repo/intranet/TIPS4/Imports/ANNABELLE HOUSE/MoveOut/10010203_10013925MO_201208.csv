@@ -1,0 +1,5 @@
+BATCH,,201208,B,3869.0000,
+INVOICE,CM,,10010203,,08/01/2012,3869,"Invoice-Private",,08/01/2012,08/10/2012,,10013925MO,-3869.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2945,2945,"CR:Basic Service F... C.Cassity 201208: Cassity, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... C.Cassity 201208: Cassity, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,899,899,"CR:Resident Care -... C.Cassity 201208: Cassity, Carl",,,,,,,,,,,,,,,

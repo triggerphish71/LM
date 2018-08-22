@@ -1,0 +1,5 @@
+BATCH,,201201,B,1054.0000,
+INVOICE,IN,,04310157,,01/01/2012,527.0000,"Invoice-Private",,01/01/2012,01/10/2012,,04313790MO,-2193.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,31,17.0000,527.00,"Credit for Limited Term Discount: Phillips, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,04310157,,01/01/2012,527,"Invoice-Private",,01/01/2012,01/10/2012,,04313790MO,-2193.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,31,17,527,"Limited Term Discount: Phillips, Edna",,,,,,,,,,,,,,,

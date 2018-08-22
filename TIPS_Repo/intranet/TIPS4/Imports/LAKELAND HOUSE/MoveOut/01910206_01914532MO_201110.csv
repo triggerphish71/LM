@@ -1,0 +1,7 @@
+BATCH,,201110,B,5917.0000,
+INVOICE,IN,,01910206,,10/01/2011,961.0000,"Invoice-Private",,10/01/2011,10/10/2011,,01914532MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3320,010202019,1,961.0000,961.00,"CR:Limited Term Di... M.Wilson 201110: Wilson, Myra",,,,,,,,,,,,,,,
+INVOICE,CM,,01910206,,10/01/2011,4956,"Invoice-Private",,10/01/2011,10/10/2011,,01914532MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2821,2821,"CR:Basic Service F... M.Wilson 201110: Wilson, Myra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"CR:Monthly Cable... M.Wilson 201110: Wilson, Myra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,2108,2108,"CR:Resident Care -... M.Wilson 201110: Wilson, Myra",,,,,,,,,,,,,,,

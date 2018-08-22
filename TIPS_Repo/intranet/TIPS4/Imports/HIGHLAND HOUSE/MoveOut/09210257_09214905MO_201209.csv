@@ -1,0 +1,7 @@
+BATCH,,201209,B,4104.0000,
+INVOICE,IN,,09210257,,09/08/2012,864.0000,"Invoice-Private",,09/08/2012,09/08/2012,,09214905MO,-2376.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,8,92.0000,736.00,"Basic Service Fee - Deluxe for Sep: Ragle, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,8,16.0000,128.00,"Resident Care - Level 1 for Sep: Ragle, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,09210257,,09/08/2012,3240,"Invoice-Private",,09/08/2012,09/08/2012,,09214905MO,-2376.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2760,2760,"CR:Basic Service F... C.Ragle 201209: Ragle, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,480,480,"CR:Resident Care -... C.Ragle 201209: Ragle, Christine",,,,,,,,,,,,,,,

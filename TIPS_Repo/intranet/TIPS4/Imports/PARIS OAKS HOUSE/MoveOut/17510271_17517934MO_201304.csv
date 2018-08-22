@@ -1,0 +1,5 @@
+BATCH,,201304,B,684.0000,
+INVOICE,IN,,17510271,,04/01/2013,342.0000,"Invoice-Private",,04/01/2013,04/10/2013,,17517934MO,-2747.4000,,,,,,,,,,
+TRANSACTION,3316,010202175,30,11.4000,342.00,"Credit for Employee Discount: McIntyre, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,17510271,,04/01/2013,342,"Invoice-Private",,04/01/2013,04/10/2013,,17517934MO,-2747.4000,,,,,,,,,,
+TRANSACTION,3316,010202175,30,11.4,342,"Employee Discount: McIntyre, Kenneth",,,,,,,,,,,,,,,

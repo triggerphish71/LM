@@ -1,0 +1,5 @@
+BATCH,,201206,B,5253.0000,
+INVOICE,IN,,04810268,,06/21/2012,2163.0000,"Invoice-Private",,06/21/2012,06/21/2012,,04814627MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,21,103.0000,2163.00,"Basic Service Fee - Studio for Jun: Terrell, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,04810268,,06/21/2012,3090,"Invoice-Private",,06/21/2012,06/21/2012,,04814627MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... C.Terrell 201206: Terrell, Charles",,,,,,,,,,,,,,,

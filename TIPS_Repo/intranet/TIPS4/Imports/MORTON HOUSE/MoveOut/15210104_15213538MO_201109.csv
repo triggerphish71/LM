@@ -1,0 +1,8 @@
+BATCH,,201109,B,3419.0000,
+INVOICE,IN,,15210104,,09/01/2011,564.0000,"Invoice-Private",,09/01/2011,09/10/2011,,15213538MO,-2291.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,6,77.0000,462.00,"Basic Service Fee - Deluxe for Sep: Powles, Erskine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,6,17.0000,102.00,"Resident Care - Level 1 for Sep: Powles, Erskine",,,,,,,,,,,,,,,
+INVOICE,CM,,15210104,,09/01/2011,2855,"Invoice-Private",,09/01/2011,09/10/2011,,15213538MO,-2291.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2310,2310,"CR:Basic Service F... E.Powles 201109: Powles, Erskine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... E.Powles 201109: Powles, Erskine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,510,510,"CR:Resident Care -... E.Powles 201109: Powles, Erskine",,,,,,,,,,,,,,,

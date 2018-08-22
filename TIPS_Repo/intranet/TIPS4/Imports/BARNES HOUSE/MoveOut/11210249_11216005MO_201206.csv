@@ -1,0 +1,8 @@
+BATCH,,201206,B,4983.0000,
+INVOICE,IN,,11210249,,06/07/2012,938.0000,"Invoice-Private",,06/07/2012,06/07/2012,,11216005MO,-3107.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,7,97.0000,679.00,"Basic Service Fee - Studio for Jun: Honse, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,7,37.0000,259.00,"Resident Care - Level 2 for Jun: Honse, Samuel",,,,,,,,,,,,,,,
+INVOICE,CM,,11210249,,06/07/2012,4045,"Invoice-Private",,06/07/2012,06/07/2012,,11216005MO,-3107.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,2910,2910,"CR:Basic Service F... S.Honse 201206: Honse, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... S.Honse 201206: Honse, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1110,1110,"CR:Resident Care -... S.Honse 201206: Honse, Samuel",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,7380.0000,
+INVOICE,IN,,13410111,,05/26/2013,3567.0000,"Invoice-Private",,05/26/2013,05/26/2013,,13416174MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,29,91.0000,2639.00,"Basic Service Fee - Studio for May: Buttz, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,29,32.0000,928.00,"Resident Care - Level 2 for May: Buttz, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,13410111,,05/26/2013,3813,"Invoice-Private",,05/26/2013,05/26/2013,,13416174MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2821,2821,"CR:Basic Service F... E.Buttz 201305: Buttz, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,992,992,"CR:Resident Care -... E.Buttz 201305: Buttz, Elizabeth",,,,,,,,,,,,,,,

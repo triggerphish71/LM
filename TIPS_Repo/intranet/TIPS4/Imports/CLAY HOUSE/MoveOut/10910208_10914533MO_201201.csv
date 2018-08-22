@@ -1,0 +1,8 @@
+BATCH,,201201,B,4705.0000,
+INVOICE,IN,,10910208,,01/14/2012,1456.0000,"Invoice-Private",,01/14/2012,01/14/2012,,10914533MO,-1793.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,14,88.0000,1232.00,"Basic Service Fee - Deluxe for Jan: Anderson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,14,16.0000,224.00,"Resident Care - Level 1 for Jan: Anderson, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,10910208,,01/14/2012,3249,"Invoice-Private",,01/14/2012,01/14/2012,,10914533MO,-1793.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2728,2728,"CR:Basic Service F... R.Anderson 201201: Anderson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... R.Anderson 201201: Anderson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,496,496,"CR:Resident Care -... R.Anderson 201201: Anderson, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,5338.0000,
+INVOICE,IN,,19010269,,12/16/2012,1808.0000,"Invoice-Private",,12/16/2012,12/16/2012,,19014810MO,-5318.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,16,113.0000,1808.00,"Basic Service Fee - One Bedroom for Dec: Lord, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,19010269,,12/16/2012,3530,"Invoice-Private",,12/16/2012,12/16/2012,,19014810MO,-5318.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3503,3503,"CR:Basic Service F... B.Lord 201212: Lord, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... B.Lord 201212: Lord, Betty",,,,,,,,,,,,,,,

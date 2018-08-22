@@ -1,0 +1,5 @@
+BATCH,,201211,B,1980.0000,
+INVOICE,IN,,20210197,,11/01/2012,990.0000,"Invoice-Private",,11/01/2012,11/10/2012,,20212703MO,-1977.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,30,33.0000,990.00,"Credit for Limited Term Discount: Burroughs, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,20210197,,11/01/2012,990,"Invoice-Private",,11/01/2012,11/10/2012,,20212703MO,-1977.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,30,33,990,"Limited Term Discount: Burroughs, Jack",,,,,,,,,,,,,,,

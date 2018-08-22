@@ -1,0 +1,6 @@
+BATCH,,201111,B,3021.0000,
+INVOICE,IN,,17510264,,11/14/2011,3021.0000,"MoveIn-Arney. Calvin",,11/14/2011,11/14/2011,,17517293,3021.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,17,76.0000,1292,"Basic Service Fee - Studio Deluxe: Arney. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,17,12.0000,204,"Resident Care - Level 1: Arney. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Arney. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Arney. Calvin",,,,,,,,,,,,,,,

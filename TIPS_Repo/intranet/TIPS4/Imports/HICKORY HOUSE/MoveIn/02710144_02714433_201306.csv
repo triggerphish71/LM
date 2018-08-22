@@ -1,0 +1,5 @@
+BATCH,,201306,B,3900.0000,
+INVOICE,IN,,02710144,,06/06/2013,3900.0000,"MoveIn-Weaver. June",,06/06/2013,06/06/2013,,02714433,3900.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,25,95.0000,2375,"Basic Service Fee - Studio: Weaver. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Weaver. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Weaver. June",,,,,,,,,,,,,,,

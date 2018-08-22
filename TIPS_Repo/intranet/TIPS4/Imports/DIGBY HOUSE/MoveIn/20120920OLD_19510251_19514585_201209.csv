@@ -1,0 +1,5 @@
+BATCH,,201209,B,3196.0000,
+INVOICE,IN,,19510251,,08/28/2012,376.0000,"MoveIn-Pierce. Mary",,08/28/2012,08/28/2012,,19514585,6110.0000,,,,,,,,,,
+TRANSACTION,3014,010309195,4,94.0000,376,"Basic Service Fee - Studio: Pierce. Mary",,,,,,,,,,,,,,,
+INVOICE,IN,,19510251,,09/01/2012,2820.0000,"September_Rent-Pierce. Mary",,09/01/2012,09/10/2012,,19514585,6110.0000,,,,,,,,,,
+TRANSACTION,3010,010309195,30,94.0000,2820,"Basic Service Fee - Studio: Pierce. Mary",,,,,,,,,,,,,,,

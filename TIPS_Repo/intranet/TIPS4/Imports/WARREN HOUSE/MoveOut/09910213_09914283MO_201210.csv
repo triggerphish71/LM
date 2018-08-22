@@ -1,0 +1,7 @@
+BATCH,,201210,B,5757.0000,
+INVOICE,IN,,09910213,,10/12/2012,2626.0000,"Invoice-Private",,10/12/2012,10/12/2012,,09914283MO,-3535.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,26,86.0000,2236.00,"Basic Service Fee - Studio for Oct: Harris, Marva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,26,15.0000,390.00,"Resident Care - Level 1 for Oct: Harris, Marva",,,,,,,,,,,,,,,
+INVOICE,CM,,09910213,,10/12/2012,3131,"Invoice-Private",,10/12/2012,10/12/2012,,09914283MO,-3535.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2666,2666,"CR:Basic Service F... M.Harris 201210: Harris, Marva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,465,465,"CR:Resident Care -... M.Harris 201210: Harris, Marva",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,5048.0000,
+INVOICE,IN,,19210244,,07/08/2011,5048.0000,"MoveIn-Frederick. Don",,07/08/2011,07/08/2011,,19214741,5048.0000,,,,,,,,,,
+TRANSACTION,3010,010309192,24,109.0000,2616,"Basic Service Fee - Studio         : Frederick. Don",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,24,18.0000,432,"Resident Care - Level 1: Frederick. Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309192,1,2000.0000,2000,"New Resident Fee: Frederick. Don",,,,,,,,,,,,,,,

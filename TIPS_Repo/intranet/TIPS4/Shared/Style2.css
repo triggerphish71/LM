@@ -1,0 +1,42 @@
+BODY {color: 000066; font-family: Tahoma, Arial, Sans-Serif, Helvetica;}
+A {color: 000066;}
+A:hover { color: eaeaea; background: 003399; }
+th {color: white; font-weight: bold; background: navy; font-size: x-small; height: 20px; }
+TD:hover { color: eaeaea; background: 003399;}
+TD {font-size: x-small; /*background: white;*/ padding: 4px; border-bottom: 1px solid whitesmoke; vertical-align:text-top;}
+Table {background: white; width: 640px; border-collapse: collapse; border: outset 1px gainsboro; }
+INPUT {font-family: geneva; font-size: x-small; color: navy;}
+SELECT {color: navy; z-index: -1; } 
+.memcare { color: #336699; }
+.memcare:hover { color: navy; padding: 2px 2px 2px 1px; background-color:eaeaea; border: 1px solid cccccc;}
+.hidden {position: absolute; visibility: hidden;}
+.detail {font-size: 18px; text-align: center; background: white;}
+.BlendedButton { color: red; width: 75px; font-size: xx-small; background: gainsboro; }
+.MoveOutButton { color: red; vertical-align: 'center'; width: 52px;  font-size: 10px;  height: 18px; background: gainsboro; 
+font-family:Arial, Helvetica, sans-serif; }
+.DontSaveButton {color: Crimson; font-size: xx-small; width: 100px; height: 25px;} 
+.required {color: Red;}
+.hlinks {background: white; font-weight: bold;}
+.name {text-align: left;}
+.Large {font-size: medium; font-weight: bold; background: white;}
+CAPTION {color: #ff6633; font-weight: Bold;}
+FORM.Center {text-align: left;}
+.PageTitle {font-size: 18px;}
+.UrlStatusMessage  {color: Red; font-weight: Bold;}
+.FormErrorMessage  {color: Red; font-weight: Bold;}
+.FormLabelGood {color: Navy; font-weight: Bold;}
+.FormLabelBad  {color: Red; font-weight: Bold;}
+.SaveButton {color: DarkGreen; font-weight: 900; width: 100px; height: 25px; font-size: x-small;}
+.summary {font-weight: Bold; font-size: 18px; background: white;} 
+.HelpSymbol {background: Yellow; border: solid red thin; text-align: center; font-weight: bold; width: 2em; height: 1.5em;}
+.HelpText {visibility: hidden; position:  relative; background: Yellow; border: solid red thin; font-weight: bold;
+ width: 30em; height: 3em;}
+.HouseHeader {font-weight: bold; font-size: medium; width: 0; background: transparent; text-align: left;}
+.BlendedTextBoxC {Background: aliceblue; border: 0; color: navy; text-align: center; font-size: xx-small;}
+.BlendedTextBoxR {Background: aliceblue; border: 0; color: navy; text-align: right; font-size: xx-small;}
+.noborder {border: none;}
+.transparent {color: black; background: aliceblue;/*transparent;*/ font-family: Arial, Tahoma, Sans-Serif, Helvetica;}
+tr.evenRow {background: silver;}
+tr.oddRow {background: white;}
+tr.evenRow a:hover {color: #F79608;}
+tr.oddRow a:hover {color: #F79608;}

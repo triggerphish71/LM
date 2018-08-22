@@ -1,0 +1,5 @@
+BATCH,,201303,B,60.0000,
+INVOICE,IN,,14010218,,03/01/2013,30.0000,"Invoice-Private",,03/01/2013,03/10/2013,,14014166MO,-3243.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30.00,"Monthly Cable: Perrine, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,14010218,,03/01/2013,30,"Invoice-Private",,03/01/2013,03/10/2013,,14014166MO,-3243.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"Credit for Monthly Cable: Perrine, Patricia",,,,,,,,,,,,,,,

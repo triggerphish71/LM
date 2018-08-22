@@ -1,0 +1,6 @@
+BATCH,,201307,B,1624.0000,
+INVOICE,IN,,53110318,,07/15/2013,88.0000,"Invoice-Private",,07/15/2013,07/15/2013,,53114634MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,88.0000,88.00,"Basic Service Fee - Studio for Jul: Glinberg, Leon",,,,,,,,,,,,,,,
+INVOICE,CM,,53110318,,07/15/2013,1536,"Invoice-Private",,07/15/2013,07/15/2013,,53114634MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,1496,1496,"CR:Basic Service F... L.Glinberg 201307: Glinberg, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40,40,"CR:Monthly Cable... L.Glinberg 201307: Glinberg, Leon",,,,,,,,,,,,,,,

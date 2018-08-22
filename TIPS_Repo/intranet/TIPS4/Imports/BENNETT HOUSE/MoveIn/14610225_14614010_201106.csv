@@ -1,0 +1,5 @@
+BATCH,,201106,B,2632.0000,
+INVOICE,IN,,14610225,,06/13/2011,2632.0000,"MoveIn-Lamm. Milton",,06/13/2011,06/13/2011,,14614010,2632.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,18,89.0000,1602,"Basic Service Fee - Studio         : Lamm. Milton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Lamm. Milton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,1000.0000,1000,"New Resident Fee: Lamm. Milton",,,,,,,,,,,,,,,

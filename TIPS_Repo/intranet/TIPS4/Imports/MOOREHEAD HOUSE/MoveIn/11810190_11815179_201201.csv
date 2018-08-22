@@ -1,0 +1,6 @@
+BATCH,,201201,B,2478.0000,
+INVOICE,IN,,11810190,,01/30/2012,2478.0000,"MoveIn-Irvin. LIllian",,01/30/2012,01/30/2012,,11815179,5969.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,2,100.0000,200,"Basic Service Fee - Studio: Irvin. LIllian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,2,19.0000,38,"Resident Care - Level 1: Irvin. LIllian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Irvin. LIllian",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2200.0000,2200,"New Resident Fee: Irvin. LIllian",,,,,,,,,,,,,,,

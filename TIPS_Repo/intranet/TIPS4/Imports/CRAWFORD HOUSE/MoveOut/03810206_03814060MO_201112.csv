@@ -1,0 +1,6 @@
+BATCH,,201112,B,5184.8000,
+INVOICE,CM,,03810206,,12/01/2011,5184.8,"Invoice-Private",,12/01/2011,12/10/2011,,03814060MO,-5184.8000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2821,2821,"CR:Basic Service F... K.Wilke 201112: Wilke, Kellie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... K.Wilke 201112: Wilke, Kellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,2318.8,2318.8,"CR:Resident Care -... K.Wilke 201112: Wilke, Kellie",,,,,,,,,,,,,,,
+TRANSACTION,3228,010103038,1,20,20,"CR:Sharps Disposal... K.Wilke 201112: Wilke, Kellie",,,,,,,,,,,,,,,

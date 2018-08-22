@@ -1,0 +1,6 @@
+BATCH,,201111,B,2745.0000,
+INVOICE,IN,,13710224,,11/22/2011,2745.0000,"MoveIn-Nix. Mary",,11/22/2011,11/22/2011,,13714192,6960.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,9,90.0000,810,"Basic Service Fee - Studio: Nix. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,9,45.0000,405,"Resident Care - Level 3: Nix. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Nix. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Nix. Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,8700.0000,
+INVOICE,IN,,21010226,,01/22/2013,4515.0000,"Invoice-Private",,01/22/2013,01/22/2013,,21013911MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,465.0000,465.00,"CR:Limited Term Di... H.Lawrence 201301: Lawrence, Hesta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,30,41.0000,1230.00,"Resident Care - Level 4 for Jan: Lawrence, Hesta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,30,94.0000,2820.00,"Studio for Jan: Lawrence, Hesta",,,,,,,,,,,,,,,
+INVOICE,CM,,21010226,,01/22/2013,4185,"Invoice-Private",,01/22/2013,01/22/2013,,21013911MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1271,1271,"CR:Resident Care -... H.Lawrence 201301: Lawrence, Hesta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... H.Lawrence 201301: Lawrence, Hesta",,,,,,,,,,,,,,,

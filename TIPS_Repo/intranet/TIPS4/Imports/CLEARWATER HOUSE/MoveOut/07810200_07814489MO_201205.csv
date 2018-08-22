@@ -1,0 +1,7 @@
+BATCH,,201205,B,4736.0000,
+INVOICE,IN,,07810200,,05/01/2012,148.0000,"Invoice-Private",,05/01/2012,05/10/2012,,07814489MO,-4440.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,91.0000,91.00,"Basic Service Fee - Studio for May: Fisher, Reed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,57.0000,57.00,"Resident Care - Level 4 for May: Fisher, Reed",,,,,,,,,,,,,,,
+INVOICE,CM,,07810200,,05/01/2012,4588,"Invoice-Private",,05/01/2012,05/10/2012,,07814489MO,-4440.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2821,2821,"CR:Basic Service F... R.Fisher 201205: Fisher, Reed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1767,1767,"CR:Resident Care -... R.Fisher 201205: Fisher, Reed",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,7128.0000,
+INVOICE,IN,,16710169,,04/08/2012,2028.0000,"Invoice-Private",,04/08/2012,04/08/2012,,16713801MO,-3072.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,12,103.0000,1236.00,"Basic Service Fee - One Bedroom for Apr: Carlson, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,12,66.0000,792.00,"Resident Care - Level 5 for Apr: Carlson, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,16710169,,04/08/2012,5100,"Invoice-Private",,04/08/2012,04/08/2012,,16713801MO,-3072.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,3090,3090,"CR:Basic Service F... V.Carlson 201204: Carlson, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... V.Carlson 201204: Carlson, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1980,1980,"CR:Resident Care -... V.Carlson 201204: Carlson, Virginia",,,,,,,,,,,,,,,

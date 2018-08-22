@@ -1,0 +1,7 @@
+BATCH,,201112,B,4190.6000,
+INVOICE,IN,,01310134,,12/15/2011,1366.5000,"Invoice-Private",,12/15/2011,12/15/2011,,01314026MO,-1457.6000,,,,,,,,,,
+TRANSACTION,3020,010103013,15,69.0000,1035.00,"Basic Service Fee - Studio for Dec: Kruger, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,15,22.1000,331.50,"Resident Care - Level 13 for Dec: Kruger, Dona",,,,,,,,,,,,,,,
+INVOICE,CM,,01310134,,12/15/2011,2824.1,"Invoice-Private",,12/15/2011,12/15/2011,,01314026MO,-1457.6000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2139,2139,"CR:Basic Service F... D.Kruger 201112: Kruger, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,685.1,685.1,"CR:Resident Care -... D.Kruger 201112: Kruger, Dona",,,,,,,,,,,,,,,

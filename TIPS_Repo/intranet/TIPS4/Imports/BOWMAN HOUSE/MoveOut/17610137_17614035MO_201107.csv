@@ -1,0 +1,8 @@
+BATCH,,201107,B,7320.0000,
+INVOICE,IN,,17610137,,07/21/2011,2835.0000,"Invoice-Private",,07/21/2011,07/21/2011,,17614035MO,-6135.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,21,69.0000,1449.00,"Basic Service Fee - Studio for Jul: Whelan, Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,21,66.0000,1386.00,"Resident Care - Level 5 for Jul: Whelan, Wilfred",,,,,,,,,,,,,,,
+INVOICE,CM,,17610137,,07/21/2011,4485,"Invoice-Private",,07/21/2011,07/21/2011,,17614035MO,-6135.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2139,2139,"CR:Basic Service F... W.Whelan 201107: Whelan, Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315176,1,300,300,"CR:HSG Meals... W.Whelan 201107: Whelan, Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,2046,2046,"CR:Resident Care -... W.Whelan 201107: Whelan, Wilfred",,,,,,,,,,,,,,,

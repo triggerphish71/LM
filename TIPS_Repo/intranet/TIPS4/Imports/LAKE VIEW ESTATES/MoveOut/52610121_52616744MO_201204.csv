@@ -1,0 +1,8 @@
+BATCH,,201204,B,6582.0000,
+INVOICE,IN,,52610121,,04/09/2012,1512.0000,"Invoice-Private",,04/09/2012,04/09/2012,,52616744MO,-3558.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,9,117.0000,1053.00,"Basic Service Fee - Two Bedroom Del for Apr: Rosenthal, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,9,51.0000,459.00,"Resident Care - Level 2 for Apr: Rosenthal, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,52610121,,04/09/2012,5070,"Invoice-Private",,04/09/2012,04/09/2012,,52616744MO,-3558.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3510,3510,"CR:Basic Service F... T.Rosenthal 201204: Rosenthal, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... T.Rosenthal 201204: Rosenthal, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1530,1530,"CR:Resident Care -... T.Rosenthal 201204: Rosenthal, Thomas",,,,,,,,,,,,,,,

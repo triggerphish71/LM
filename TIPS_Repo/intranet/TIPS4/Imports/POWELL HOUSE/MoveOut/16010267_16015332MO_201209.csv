@@ -1,0 +1,5 @@
+BATCH,,201209,B,50.0000,
+INVOICE,IN,,16010267,,09/01/2012,25.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16015332MO,-5341.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25.00,"Monthly Cable: Moody, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,16010267,,09/01/2012,25,"Invoice-Private",,09/01/2012,09/10/2012,,16015332MO,-5341.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"Credit for Monthly Cable: Moody, Gerald",,,,,,,,,,,,,,,

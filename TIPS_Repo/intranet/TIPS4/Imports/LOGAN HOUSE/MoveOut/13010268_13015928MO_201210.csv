@@ -1,0 +1,5 @@
+BATCH,,201210,B,54.0000,
+INVOICE,IN,,13010268,,10/01/2012,27.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13015928MO,-4168.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Scott, George",,,,,,,,,,,,,,,
+INVOICE,CM,,13010268,,10/01/2012,27,"Invoice-Private",,10/01/2012,10/10/2012,,13015928MO,-4168.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Scott, George",,,,,,,,,,,,,,,

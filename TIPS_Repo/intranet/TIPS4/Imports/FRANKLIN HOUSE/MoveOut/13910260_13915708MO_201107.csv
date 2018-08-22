@@ -1,0 +1,6 @@
+BATCH,,201107,B,5947.0000,
+INVOICE,IN,,13910260,,07/30/2011,2910.0000,"Invoice-Private",,07/30/2011,07/30/2011,,13915708MO,-3164.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,30,97.0000,2910.00,"Basic Service Fee - Studio for Jul: Young, Wade",,,,,,,,,,,,,,,
+INVOICE,CM,,13910260,,07/30/2011,3037,"Invoice-Private",,07/30/2011,07/30/2011,,13915708MO,-3164.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3007,3007,"CR:Basic Service F... W.Young 201107: Young, Wade",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... W.Young 201107: Young, Wade",,,,,,,,,,,,,,,

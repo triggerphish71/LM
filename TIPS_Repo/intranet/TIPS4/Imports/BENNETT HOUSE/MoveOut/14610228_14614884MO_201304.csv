@@ -1,0 +1,5 @@
+BATCH,,201304,B,100.0000,
+INVOICE,IN,,14610228,,04/01/2013,50.0000,"Invoice-Private",,04/01/2013,04/10/2013,,14614884MO,-4371.0000,,,,,,,,,,
+TRANSACTION,3130,010309146,1,50.0000,50.00,"Pendant Fee: Phillips, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,14610228,,04/01/2013,50,"Invoice-Private",,04/01/2013,04/10/2013,,14614884MO,-4371.0000,,,,,,,,,,
+TRANSACTION,3130,010309146,1,50,50,"Credit for Pendant Fee: Phillips, Marjorie",,,,,,,,,,,,,,,

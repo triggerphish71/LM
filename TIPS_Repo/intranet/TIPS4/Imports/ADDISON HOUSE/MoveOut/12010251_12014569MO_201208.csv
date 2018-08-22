@@ -1,0 +1,7 @@
+BATCH,,201208,B,5356.0000,
+INVOICE,IN,,12010251,,08/17/2012,2163.0000,"Invoice-Private",,08/17/2012,08/17/2012,,12014569MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,21,78.0000,1638.00,"Basic Service Fee - Studio for Aug: Baty, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,21,25.0000,525.00,"Resident Care - Level 2 for Aug: Baty, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,12010251,,08/17/2012,3193,"Invoice-Private",,08/17/2012,08/17/2012,,12014569MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2418,2418,"CR:Basic Service F... F.Baty 201208: Baty, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,775,775,"CR:Resident Care -... F.Baty 201208: Baty, Frances",,,,,,,,,,,,,,,

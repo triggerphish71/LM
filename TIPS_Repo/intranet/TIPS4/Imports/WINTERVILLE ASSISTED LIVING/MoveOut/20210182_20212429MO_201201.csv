@@ -1,0 +1,5 @@
+BATCH,,201201,B,2170.0000,
+INVOICE,IN,,20210182,,01/01/2012,1085.0000,"Invoice-Private",,01/01/2012,01/10/2012,,20212429MO,-1465.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,35.0000,1085.00,"Credit for Limited Term Discount: Fournier, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,20210182,,01/01/2012,1085,"Invoice-Private",,01/01/2012,01/10/2012,,20212429MO,-1465.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,35,1085,"Limited Term Discount: Fournier, Robert",,,,,,,,,,,,,,,

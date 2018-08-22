@@ -1,0 +1,5 @@
+BATCH,,201110,B,3501.0000,
+INVOICE,IN,,10010214,,10/14/2011,3501.0000,"MoveIn-Allison. Lloyd "Al"",,10/14/2011,10/14/2011,,10013755,3501.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,18,82.0000,1476,"Basic Service Fee - Studio         : Allison. Lloyd "Al"",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Allison. Lloyd "Al"",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,2000.0000,2000,"New Resident Fee: Allison. Lloyd "Al"",,,,,,,,,,,,,,,

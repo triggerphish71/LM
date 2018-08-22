@@ -1,0 +1,5 @@
+BATCH,,201203,B,2247.0000,
+INVOICE,IN,,12810215,,03/30/2012,2247.0000,"MoveIn-Scarborough. Shirley",,03/30/2012,03/30/2012,,12814776,5602.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,2,111.0000,222,"Basic Service Fee - Studio         : Scarborough. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: Scarborough. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306128,1,2000.0000,2000,"New Resident Fee: Scarborough. Shirley",,,,,,,,,,,,,,,

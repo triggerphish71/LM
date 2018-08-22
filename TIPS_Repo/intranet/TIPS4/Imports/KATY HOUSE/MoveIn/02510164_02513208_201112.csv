@@ -1,0 +1,6 @@
+BATCH,,201112,B,3557.0000,
+INVOICE,IN,,02510164,,12/16/2011,3557.0000,"MoveIn-Edgar. John",,12/16/2011,12/16/2011,,02513208,3557.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,16,85.0000,1360,"Basic Service Fee - Studio: Edgar. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202025,16,42.0000,672,"Resident Care - Level 3: Edgar. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Edgar. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1500.0000,1500,"New Resident Fee: Edgar. John",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201110,B,2821.0000,
+INVOICE,IN,,15910196,,10/01/2011,806.0000,"Invoice-Private",,10/01/2011,10/10/2011,,15914454MO,-494.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,806.0000,806.00,"CR:Limited Term Di... H.Fleshner 201110: Fleshner, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,15910196,,10/01/2011,2015,"Invoice-Private",,10/01/2011,10/10/2011,,15914454MO,-494.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,1116,1116,"CR:Basic Service F... H.Fleshner 201110: Fleshner, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,899,899,"CR:Swan Personal C... H.Fleshner 201110: Fleshner, Harvey",,,,,,,,,,,,,,,

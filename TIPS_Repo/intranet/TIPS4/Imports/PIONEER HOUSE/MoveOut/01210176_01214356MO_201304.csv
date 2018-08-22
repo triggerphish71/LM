@@ -1,0 +1,7 @@
+BATCH,,201304,B,9243.0000,
+INVOICE,IN,,01210176,,04/15/2013,3081.0000,"Invoice-Private",,04/15/2013,04/15/2013,,01214356MO,-9448.4000,,,,,,,,,,
+TRANSACTION,3027,010103012,15,118.4000,1776.00,"Resident Care - Level 64 for Apr: Ferguson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103012,15,87.0000,1305.00,"Room and Board - Studio for Apr: Ferguson, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,01210176,,04/15/2013,6162,"Invoice-Private",,04/15/2013,04/15/2013,,01214356MO,-9448.4000,,,,,,,,,,
+TRANSACTION,3027,010103012,1,3552,3552,"CR:Resident Care -... G.Ferguson 201304: Ferguson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2610,2610,"CR:Room and Board ... G.Ferguson 201304: Ferguson, Gladys",,,,,,,,,,,,,,,

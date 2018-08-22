@@ -1,0 +1,8 @@
+BATCH,,201803,B,3906.0000,
+INVOICE,IN,,15110315,,03/11/2018,1178.0000,"Invoice-Private",,03/11/2018,03/11/2018,,15116761MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3017,010012151,4,14.0000,56.00," Level Care:  2  -from 2018-02-25: Black, Timothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012151,11,32.0000,352.00," Level Care:  2 : Black, Timothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012151,11,70.0000,770.00,"Basic Service Fee - Studio  for Mar: Black, Timothy",,,,,,,,,,,,,,,
+INVOICE,CM,,15110315,,03/11/2018,2728,"Invoice-Private",,03/11/2018,03/11/2018,,15116761MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,2170,2170,"CR:Basic Service F... T.Black 201803: Black, Timothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,558,558,"CR:Resident Care -... T.Black 201803: Black, Timothy",,,,,,,,,,,,,,,

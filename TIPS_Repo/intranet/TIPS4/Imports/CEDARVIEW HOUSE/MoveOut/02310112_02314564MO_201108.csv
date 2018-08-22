@@ -1,0 +1,8 @@
+BATCH,,201108,B,5209.0000,
+INVOICE,IN,,02310112,,08/10/2011,1836.0000,"Invoice-Private",,08/10/2011,08/10/2011,,02314564MO,-4802.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,17,91.0000,1547.00,"Basic Service Fee - Studio for Aug: Harris, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,17,17.0000,289.00,"Resident Care - Level 1 for Aug: Harris, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,02310112,,08/10/2011,3373,"Invoice-Private",,08/10/2011,08/10/2011,,02314564MO,-4802.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2821,2821,"CR:Basic Service F... R.Harris 201108: Harris, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... R.Harris 201108: Harris, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,527,527,"CR:Resident Care -... R.Harris 201108: Harris, Robert",,,,,,,,,,,,,,,

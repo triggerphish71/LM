@@ -1,0 +1,5 @@
+BATCH,,201111,B,4240.0000,
+INVOICE,IN,,17910189,,11/01/2011,1060.0000,"Invoice-Private",,11/01/2011,11/10/2011,,17914733MO,-2120.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,10,106.0000,1060.00,"Basic Service Fee- One Bedroom Prem for Nov: Rabalais, Madelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,17910189,,11/01/2011,3180,"Invoice-Private",,11/01/2011,11/10/2011,,17914733MO,-2120.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,3180,3180,"CR:Basic Service F... M.Rabalais 201111: Rabalais, Madelyn",,,,,,,,,,,,,,,

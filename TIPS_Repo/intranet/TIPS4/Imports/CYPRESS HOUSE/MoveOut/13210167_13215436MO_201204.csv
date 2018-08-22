@@ -1,0 +1,8 @@
+BATCH,,201204,B,7160.0000,
+INVOICE,IN,,13210167,,04/20/2012,2900.0000,"Invoice-Private",,04/20/2012,04/20/2012,,13215436MO,-5700.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,60.0000,60.00,"CR:Limited Term Di... J.Terry 201204: Terry, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308132,20,99.0000,1980.00,"Basic Service Fee - Studio for Apr: Terry, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,20,43.0000,860.00,"Resident Care - Level 3 for Apr: Terry, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,13210167,,04/20/2012,4260,"Invoice-Private",,04/20/2012,04/20/2012,,13215436MO,-5700.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... J.Terry 201204: Terry, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1290,1290,"CR:Resident Care -... J.Terry 201204: Terry, Joan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,3544.2000,
+INVOICE,IN,,01110310,,03/01/2013,3544.2000,"MoveIn-Obrien. John",,03/01/2013,03/01/2013,,01114054,3544.2000,,,,,,,,,,
+TRANSACTION,3010,010101011,31,76.0000,2356,"Basic Service Fee - Studio: Obrien. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,31,22.2000,688.2,"Resident Care - Level 12: Obrien. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,500.0000,500,"New Resident Fee: Obrien. John",,,,,,,,,,,,,,,

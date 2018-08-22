@@ -1,0 +1,5 @@
+BATCH,,201109,B,84.0000,
+INVOICE,IN,,14710252,,09/01/2011,42.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14715226MO,-2160.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Rusyniak, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,14710252,,09/01/2011,42,"Invoice-Private",,09/01/2011,09/10/2011,,14715226MO,-2160.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Rusyniak, Irene",,,,,,,,,,,,,,,

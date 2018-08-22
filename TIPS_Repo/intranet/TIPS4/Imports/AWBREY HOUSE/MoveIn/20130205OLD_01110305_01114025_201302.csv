@@ -1,0 +1,5 @@
+BATCH,,201302,B,3480.9500,
+INVOICE,IN,,01110305,,02/02/2013,3480.9500,"MoveIn-Deming. Inez",,02/02/2013,02/02/2013,,01114025,3480.9500,,,,,,,,,,
+TRANSACTION,3010,010101011,27,90.0000,2430,"Basic Service Fee - One Bedroom: Deming. Inez",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,27,1.8500,49.95,"Resident Care - Level 1: Deming. Inez",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1001.0000,1001,"New Resident Fee: Deming. Inez",,,,,,,,,,,,,,,

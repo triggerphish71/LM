@@ -1,0 +1,7 @@
+BATCH,,201209,B,4216.0000,
+INVOICE,IN,,51110181,,09/01/2012,496.0000,"Invoice-Private",,09/01/2012,09/10/2012,,51112544MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,4,105.0000,420.00,"Basic Service Fee - Studio for Sep: Hudec, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,4,19.0000,76.00,"Resident Care - Level 1 for Sep: Hudec, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,51110181,,09/01/2012,3720,"Invoice-Private",,09/01/2012,09/10/2012,,51112544MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3150,3150,"CR:Basic Service F... J.Hudec 201209: Hudec, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,570,570,"CR:Resident Care -... J.Hudec 201209: Hudec, Joseph",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,3120.0000,
+INVOICE,IN,,52910183,,11/01/2012,1560.0000,"Invoice-Private",,11/01/2012,11/10/2012,,52913286MO,-286.0000,,,,,,,,,,
+TRANSACTION,3320,010319529,30,52.0000,1560.00,"Credit for Limited Term Discount: Heiner, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,52910183,,11/01/2012,1560,"Invoice-Private",,11/01/2012,11/10/2012,,52913286MO,-286.0000,,,,,,,,,,
+TRANSACTION,3320,010319529,30,52,1560,"Limited Term Discount: Heiner, Harold",,,,,,,,,,,,,,,

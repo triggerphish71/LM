@@ -1,0 +1,5 @@
+BATCH,,201107,B,1234.1600,
+INVOICE,IN,,09010061,,07/01/2011,617.0800,"Invoice-Medicaid",,07/01/2011,07/10/2011,,09014633MO,-2022.4100,,,,,,,,,,
+TRANSACTION,3012,010104090,1,617.0800,617.08,"State Medicaid: Sheldon, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,09010061,,07/01/2011,617.08,"Invoice-Medicaid",,07/01/2011,07/10/2011,,09014633MO,-2022.4100,,,,,,,,,,
+TRANSACTION,3012,010104090,1,617.08,617.08,"Credit for State Medicaid: Sheldon, Blanche",,,,,,,,,,,,,,,

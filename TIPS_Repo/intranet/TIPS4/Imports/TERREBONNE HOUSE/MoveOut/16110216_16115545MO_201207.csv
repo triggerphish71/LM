@@ -1,0 +1,7 @@
+BATCH,,201207,B,7830.0000,
+INVOICE,IN,,16110216,,07/27/2012,3645.0000,"Invoice-Private",,07/27/2012,07/27/2012,,16115545MO,-4725.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,27,88.0000,2376.00,"Basic Service Fee - Studio for Jul: Bergeron, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,27,47.0000,1269.00,"Resident Care - Level 4 for Jul: Bergeron, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,16110216,,07/27/2012,4185,"Invoice-Private",,07/27/2012,07/27/2012,,16115545MO,-4725.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... D.Bergeron 201207: Bergeron, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,1457,1457,"CR:Resident Care -... D.Bergeron 201207: Bergeron, Dorothy",,,,,,,,,,,,,,,

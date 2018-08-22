@@ -1,0 +1,6 @@
+BATCH,,201203,B,5971.0000,
+INVOICE,IN,,15110145,,03/22/2012,2464.0000,"Invoice-Private",,03/22/2012,03/22/2012,,15113943MO,-4438.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,22,112.0000,2464.00,"Basic Service Fee- One Bedroom Prem for Mar: Sunderman, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,15110145,,03/22/2012,3507,"Invoice-Private",,03/22/2012,03/22/2012,,15113943MO,-4438.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,3472,3472,"CR:Basic Service F... C.Sunderman 201203: Sunderman, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... C.Sunderman 201203: Sunderman, Clara",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201801,B,6325.2600,
+INVOICE,IN,,14610421,,01/01/2018,6325.2600,"MoveIn-George. Edith",,01/01/2018,01/01/2018,,14617422,6325.2600,,,,,,,,,,
+TRANSACTION,3010,010009146,31,117.0000,3627,"Basic Service Fee - Studio: George. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009146,1,31.6000,31.6,"Monthly Cable: George. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,2000.0000,2000,"Community Fee: George. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,666.6600,666.66,"Monthly Deferral Charge: George. Edith",,,,,,,,,,,,,,,

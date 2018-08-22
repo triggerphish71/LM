@@ -1,0 +1,5 @@
+BATCH,,201304,B,3775.0000,
+INVOICE,CM,,08210151,,04/01/2013,3775,"Invoice-Private",,04/01/2013,04/10/2013,,08214681MO,-5175.0000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2640,2640,"CR:Basic Service F... S.Morrison 201304: Morrison, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... S.Morrison 201304: Morrison, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,1110,1110,"CR:Resident Care -... S.Morrison 201304: Morrison, Steve",,,,,,,,,,,,,,,

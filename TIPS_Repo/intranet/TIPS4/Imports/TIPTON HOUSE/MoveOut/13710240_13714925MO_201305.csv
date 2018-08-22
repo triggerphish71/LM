@@ -1,0 +1,5 @@
+BATCH,,201305,B,3905.0000,
+INVOICE,CM,,13710240,,05/01/2013,3905,"Invoice-Private",,05/01/2013,05/10/2013,,13714925MO,-3905.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... J.Kennedy 201305: Kennedy, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... J.Kennedy 201305: Kennedy, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1085,1085,"CR:Resident Care -... J.Kennedy 201305: Kennedy, Jean",,,,,,,,,,,,,,,

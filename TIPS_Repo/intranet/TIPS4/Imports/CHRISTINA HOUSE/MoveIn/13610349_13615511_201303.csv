@@ -1,0 +1,5 @@
+BATCH,,201303,B,3215.0000,
+INVOICE,IN,,13610349,,03/08/2013,3215.0000,"MoveIn-Garro. Avis Jean",,03/08/2013,03/08/2013,,13615511,3215.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,24,70.0000,1680,"Basic Service Fee - Studio: Garro. Avis Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Garro. Avis Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1500.0000,1500,"New Resident Fee: Garro. Avis Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201207,B,1972.0000,
+INVOICE,IN,,11510281,,07/18/2012,567.0000,"Invoice-Private",,07/18/2012,07/18/2012,,11514357MO,-3377.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,7,66.0000,462.00,"R.Sharpe: Basic Service Fee - Studio for Jul: Sharpe, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,7,15.0000,105.00,"R.Sharpe: Resident Care - Level 1 for Jul: Sharpe, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,11510281,,07/18/2012,1405,"Invoice-Private",,07/18/2012,07/18/2012,,11514357MO,-3377.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... R.Sharpe 201207: Sharpe, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1122,1122,"CR:R.Sharpe: Basic... R.Sharpe 201207: Sharpe, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,255,255,"CR:R.Sharpe: Resid... R.Sharpe 201207: Sharpe, Ruth",,,,,,,,,,,,,,,

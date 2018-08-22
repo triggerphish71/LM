@@ -1,0 +1,8 @@
+BATCH,,201202,B,5910.0000,
+INVOICE,IN,,06510076,,02/02/2012,1444.0000,"Invoice-Private",,02/02/2012,02/02/2012,,06514522MO,-3022.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,58.0000,58.00,"CR:Limited Term Di... D.Roehrs 201202: Roehrs, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,9,99.0000,891.00,"Basic Service Fee - Studio for Feb: Roehrs, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,9,55.0000,495.00,"Resident Care - Level 3 for Feb: Roehrs, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,06510076,,02/02/2012,4466,"Invoice-Private",,02/02/2012,02/02/2012,,06514522MO,-3022.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2871,2871,"CR:Basic Service F... D.Roehrs 201202: Roehrs, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1595,1595,"CR:Resident Care -... D.Roehrs 201202: Roehrs, Dorothy",,,,,,,,,,,,,,,

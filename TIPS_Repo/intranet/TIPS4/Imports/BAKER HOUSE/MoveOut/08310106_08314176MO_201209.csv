@@ -1,0 +1,7 @@
+BATCH,,201209,B,6510.0000,
+INVOICE,IN,,08310106,,09/12/2012,1860.0000,"Invoice-Private",,09/12/2012,09/12/2012,,08314176MO,-2790.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,12,106.0000,1272.00,"Basic Service Fee - Studio for Sep: Haydack Sr, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,12,49.0000,588.00,"Resident Care - Level 3 for Sep: Haydack Sr, John",,,,,,,,,,,,,,,
+INVOICE,CM,,08310106,,09/12/2012,4650,"Invoice-Private",,09/12/2012,09/12/2012,,08314176MO,-2790.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3180,3180,"CR:Basic Service F... J.Haydack Sr 201209: Haydack Sr, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1470,1470,"CR:Resident Care -... J.Haydack Sr 201209: Haydack Sr, John",,,,,,,,,,,,,,,

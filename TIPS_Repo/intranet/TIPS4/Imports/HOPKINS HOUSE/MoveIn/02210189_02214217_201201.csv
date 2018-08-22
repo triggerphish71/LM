@@ -1,0 +1,6 @@
+BATCH,,201201,B,4863.0000,
+INVOICE,IN,,02210189,,01/10/2012,4863.0000,"MoveIn-Sloan. Bobbie",,01/10/2012,01/10/2012,,02214217,4863.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,22,85.0000,1870,"Basic Service Fee - Studio: Sloan. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,22,44.0000,968,"Resident Care - Level 3: Sloan. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Sloan. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Sloan. Bobbie",,,,,,,,,,,,,,,

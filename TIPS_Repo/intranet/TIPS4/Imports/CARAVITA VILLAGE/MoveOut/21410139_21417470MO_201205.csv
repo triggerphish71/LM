@@ -1,0 +1,7 @@
+BATCH,,201205,B,7139.0000,
+INVOICE,IN,,21410139,,05/01/2012,3388.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21417470MO,-363.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,28,33.0000,924.00,"Resident Care - Level 3 for May: Larson, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,28,88.0000,2464.00,"Studio for May: Larson, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,21410139,,05/01/2012,3751,"Invoice-Private",,05/01/2012,05/10/2012,,21417470MO,-363.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1023,1023,"CR:Resident Care -... L.Larson 201205: Larson, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2728,2728,"CR:Studio... L.Larson 201205: Larson, Louise",,,,,,,,,,,,,,,

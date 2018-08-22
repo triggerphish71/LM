@@ -1,0 +1,7 @@
+BATCH,,201308,B,4719.0000,
+INVOICE,IN,,02210191,,08/01/2013,286.0000,"Invoice-Private",,08/01/2013,08/10/2013,,02214855MO,-4147.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,2,112.0000,224.00,"Basic Service Fee- One Bedroom Prem for Aug: Rosson, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,2,31.0000,62.00,"Resident Care - Level 2 for Aug: Rosson, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,02210191,,08/01/2013,4433,"Invoice-Private",,08/01/2013,08/10/2013,,02214855MO,-4147.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3472,3472,"CR:Basic Service F... L.Rosson 201308: Rosson, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,961,961,"CR:Resident Care -... L.Rosson 201308: Rosson, Lucille",,,,,,,,,,,,,,,

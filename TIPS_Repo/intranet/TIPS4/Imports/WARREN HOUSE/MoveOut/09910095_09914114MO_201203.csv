@@ -1,0 +1,7 @@
+BATCH,,201203,B,2301.2200,
+INVOICE,IN,,09910095,,03/01/2012,1150.6100,"Invoice-Medicaid",,03/01/2012,03/10/2012,,09914114MO,-1460.5900,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25.00,"Monthly Cable: Rogers, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104099,1,1125.6100,1125.61,"State Medicaid: Rogers, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,09910095,,03/01/2012,1150.61,"Invoice-Medicaid",,03/01/2012,03/10/2012,,09914114MO,-1460.5900,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"Credit for Monthly Cable: Rogers, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104099,1,1125.61,1125.61,"Credit for State Medicaid: Rogers, Gene",,,,,,,,,,,,,,,

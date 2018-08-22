@@ -1,0 +1,5 @@
+BATCH,,201203,B,3564.0000,
+INVOICE,IN,,12910315,,03/01/2012,3564.0000,"March_Rent-Bowser. Sally",,03/01/2012,03/10/2012,,12915762,6392.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,31,96.0000,2976,"Basic Service Fee - Studio: Bowser. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,31,18.0000,558,"Resident Care - Level 1: Bowser. Sally",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Bowser. Sally",,,,,,,,,,,,,,,

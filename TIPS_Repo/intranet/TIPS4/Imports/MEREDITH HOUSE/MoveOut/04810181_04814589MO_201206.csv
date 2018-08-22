@@ -1,0 +1,7 @@
+BATCH,,201206,B,5814.0000,
+INVOICE,IN,,04810181,,06/04/2012,684.0000,"Invoice-Private",,06/04/2012,06/04/2012,,04814589MO,-4446.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,4,103.0000,412.00,"Basic Service Fee - Studio for Jun: Bellamy, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,4,68.0000,272.00,"Resident Care - Level 6 for Jun: Bellamy, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04810181,,06/04/2012,5130,"Invoice-Private",,06/04/2012,06/04/2012,,04814589MO,-4446.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... D.Bellamy 201206: Bellamy, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,2040,2040,"CR:Resident Care -... D.Bellamy 201206: Bellamy, Dorothy",,,,,,,,,,,,,,,

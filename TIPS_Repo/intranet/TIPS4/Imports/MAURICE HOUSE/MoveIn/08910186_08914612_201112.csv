@@ -1,0 +1,5 @@
+BATCH,,201112,B,3514.0000,
+INVOICE,IN,,08910186,,12/23/2011,3514.0000,"MoveIn-Harges. Nancy",,12/23/2011,12/23/2011,,08914612,8040.0000,,,,,,,,,,
+TRANSACTION,3010,010306089,9,111.0000,999,"Basic Service Fee - Studio: Harges. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306089,9,35.0000,315,"Resident Care - Level 2: Harges. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306089,1,2200.0000,2200,"New Resident Fee: Harges. Nancy",,,,,,,,,,,,,,,

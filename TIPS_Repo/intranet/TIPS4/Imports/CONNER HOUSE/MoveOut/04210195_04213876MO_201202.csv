@@ -1,0 +1,7 @@
+BATCH,,201202,B,6536.0000,
+INVOICE,IN,,04210195,,02/09/2012,1548.0000,"Invoice-Private",,02/09/2012,02/09/2012,,04213876MO,-3440.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,9,99.0000,891.00,"Basic Service Fee - Studio for Feb: Gregg, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,9,73.0000,657.00,"Resident Care - Level 6 for Feb: Gregg, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04210195,,02/09/2012,4988,"Invoice-Private",,02/09/2012,02/09/2012,,04213876MO,-3440.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2871,2871,"CR:Basic Service F... M.Gregg 201202: Gregg, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,2117,2117,"CR:Resident Care -... M.Gregg 201202: Gregg, Mary",,,,,,,,,,,,,,,

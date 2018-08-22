@@ -1,0 +1,8 @@
+BATCH,,201211,B,3492.0000,
+INVOICE,IN,,21210128,,11/02/2012,372.0000,"Invoice-Private",,11/02/2012,11/02/2012,,21212792MO,-2748.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,60.0000,60.00,"CR:Limited Term Di... D.Grant 201211: Grant, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,3,12.0000,36.00,"Resident Care - Level 1 for Nov: Grant, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,3,92.0000,276.00,"Studio Deluxe for Nov: Grant, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,21210128,,11/02/2012,3120,"Invoice-Private",,11/02/2012,11/02/2012,,21212792MO,-2748.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,360,360,"CR:Resident Care -... D.Grant 201211: Grant, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... D.Grant 201211: Grant, Doris",,,,,,,,,,,,,,,

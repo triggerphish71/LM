@@ -1,0 +1,5 @@
+BATCH,,201202,B,70.0000,
+INVOICE,IN,,15410229,,02/01/2012,35.0000,"Invoice-Private",,02/01/2012,02/10/2012,,15414715MO,-2381.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Clifford, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,15410229,,02/01/2012,35,"Invoice-Private",,02/01/2012,02/10/2012,,15414715MO,-2381.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Clifford, Helen",,,,,,,,,,,,,,,

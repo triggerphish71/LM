@@ -1,0 +1,8 @@
+BATCH,,201110,B,8066.0000,
+INVOICE,IN,,11910208,,10/29/2011,3886.0000,"Invoice-Private",,10/29/2011,10/29/2011,,11915453MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,29,116.0000,3364.00,"Basic Service Fee - One Bedroom for Oct: Howk, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,29,18.0000,522.00,"Resident Care - Level 1 for Oct: Howk, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,11910208,,10/29/2011,4180,"Invoice-Private",,10/29/2011,10/29/2011,,11915453MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3596,3596,"CR:Basic Service F... C.Howk 201110: Howk, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... C.Howk 201110: Howk, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,558,558,"CR:Resident Care -... C.Howk 201110: Howk, Carolyn",,,,,,,,,,,,,,,

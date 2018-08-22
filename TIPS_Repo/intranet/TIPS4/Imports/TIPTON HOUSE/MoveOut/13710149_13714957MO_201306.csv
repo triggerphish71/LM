@@ -1,0 +1,7 @@
+BATCH,,201306,B,5460.0000,
+INVOICE,IN,,13710149,,06/01/2013,1350.0000,"Invoice-Private",,06/01/2013,06/10/2013,,13714957MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1350.0000,1350.00,"CR:Resident Care L... A.Lynn 201306: Lynn, Anna Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,13710149,,06/01/2013,4110,"Invoice-Private",,06/01/2013,06/10/2013,,13714957MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2730,2730,"CR:Basic Service F... A.Lynn 201306: Lynn, Anna Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... A.Lynn 201306: Lynn, Anna Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1350,1350,"CR:Resident Care -... A.Lynn 201306: Lynn, Anna Mae",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201306,B,3105.0000,
+INVOICE,IN,,51910177,,06/01/2013,277.5000,"Invoice-Private",,06/01/2013,06/10/2013,,51913559MO,-2550.0000,,,,,,,,,,
+TRANSACTION,3027,010103519,1,277.5000,277.50,"CR:Resident Care L... D.Cheatham 201306: Cheatham, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,51910177,,06/01/2013,2827.5,"Invoice-Private",,06/01/2013,06/10/2013,,51913559MO,-2550.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2550,2550,"CR:Basic Service F... D.Cheatham 201306: Cheatham, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,277.5,277.5,"CR:Resident Care -... D.Cheatham 201306: Cheatham, Dorothy",,,,,,,,,,,,,,,

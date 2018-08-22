@@ -1,0 +1,5 @@
+BATCH,,201107,B,1140.0000,
+INVOICE,IN,,09010225,,07/07/2011,210.0000,"Invoice-Private",,07/07/2011,07/07/2011,,09014668MO,-720.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,7,30.0000,210.00,"Basic Service Fee - Second Resident for Jul: Larsen, Jesse",,,,,,,,,,,,,,,
+INVOICE,CM,,09010225,,07/07/2011,930,"Invoice-Private",,07/07/2011,07/07/2011,,09014668MO,-720.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,930,930,"CR:Basic Service F... J.Larsen 201107: Larsen, Jesse",,,,,,,,,,,,,,,

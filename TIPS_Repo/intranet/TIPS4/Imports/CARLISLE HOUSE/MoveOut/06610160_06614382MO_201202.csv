@@ -1,0 +1,6 @@
+BATCH,,201202,B,5568.0000,
+INVOICE,IN,,06610160,,02/01/2012,899.0000,"Invoice-Private",,02/01/2012,02/10/2012,,06614382MO,-5380.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,899.0000,899.00,"CR:Limited Term Di... B.Nickum 201202: Nickum, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06610160,,02/01/2012,4669,"Invoice-Private",,02/01/2012,02/10/2012,,06614382MO,-5380.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2784,2784,"CR:Basic Service F... B.Nickum 201202: Nickum, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1885,1885,"CR:Resident Care -... B.Nickum 201202: Nickum, Betty",,,,,,,,,,,,,,,

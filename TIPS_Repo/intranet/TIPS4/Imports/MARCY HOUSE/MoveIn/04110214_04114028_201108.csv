@@ -1,0 +1,5 @@
+BATCH,,201108,B,3660.0000,
+INVOICE,IN,,04110214,,08/05/2011,3660.0000,"MoveIn-Turner. James",,08/05/2011,08/05/2011,,04114028,3660.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,27,79.0000,2133,"Basic Service Fee - Studio         : Turner. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27,"Monthly Cable: Turner. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Turner. James",,,,,,,,,,,,,,,

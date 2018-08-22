@@ -1,0 +1,5 @@
+BATCH,,201212,B,4179.0000,
+INVOICE,IN,,53310272,,12/01/2012,4179.0000,"December_Rent-Stockman. Robert",,12/01/2012,12/10/2012,,53315055,4874.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,31,119.0000,3689,"Basic Service Fee - One Bedroom Del: Stockman. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319533,31,15.0000,465,"Resident Care - Level 1: Stockman. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Stockman. Robert",,,,,,,,,,,,,,,

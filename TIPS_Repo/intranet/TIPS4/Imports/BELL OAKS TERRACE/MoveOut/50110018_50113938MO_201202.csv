@@ -1,0 +1,7 @@
+BATCH,,201202,B,6042.2800,
+INVOICE,IN,,50110018,,02/01/2012,406.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50113938MO,-6759.4800,,,,,,,,,,
+TRANSACTION,3320,010209501,1,406.0000,406.00,"CR:Limited Term Di... M.Garrett 201202: Garrett, Morris",,,,,,,,,,,,,,,
+INVOICE,CM,,50110018,,02/01/2012,5636.28,"Invoice-Private",,02/01/2012,02/10/2012,,50113938MO,-6759.4800,,,,,,,,,,
+TRANSACTION,3020,010209501,1,3074,3074,"CR:Basic Service F... M.Garrett 201202: Garrett, Morris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Garrett 201202: Garrett, Morris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,2532.28,2532.28,"CR:Resident Care -... M.Garrett 201202: Garrett, Morris",,,,,,,,,,,,,,,

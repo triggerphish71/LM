@@ -1,0 +1,7 @@
+BATCH,,201205,B,2162.0000,
+INVOICE,IN,,19010204,,05/01/2012,1081.0000,"Invoice-Private",,05/01/2012,05/10/2012,,19014450MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Austin, James ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,34.0000,1054.00,"Credit for Limited Term Discount: Austin, James ",,,,,,,,,,,,,,,
+INVOICE,CM,,19010204,,05/01/2012,1081,"Invoice-Private",,05/01/2012,05/10/2012,,19014450MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Austin, James ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,34,1054,"Limited Term Discount: Austin, James ",,,,,,,,,,,,,,,

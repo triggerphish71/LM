@@ -1,0 +1,5 @@
+BATCH,,201108,B,2552.0000,
+INVOICE,IN,,21410045,,08/01/2011,1276.0000,"Invoice-Private",,08/01/2011,08/10/2011,,21416433MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3210,010221214,1,1276.0000,1276.00,"Personal Services: Haigler, George",,,,,,,,,,,,,,,
+INVOICE,CM,,21410045,,08/01/2011,1276,"Invoice-Private",,08/01/2011,08/10/2011,,21416433MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3210,010221214,1,1276,1276,"Credit for Personal Services: Haigler, George",,,,,,,,,,,,,,,

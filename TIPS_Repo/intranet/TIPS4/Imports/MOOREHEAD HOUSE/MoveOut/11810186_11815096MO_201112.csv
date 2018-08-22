@@ -1,0 +1,6 @@
+BATCH,,201112,B,3944.0000,
+INVOICE,IN,,11810186,,12/01/2011,122.0000,"Invoice-Private",,12/01/2011,12/01/2011,,11815096MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,122.0000,122.00,"Basic Service Fee - One Bedroom for Dec: Adamson, Howard Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,11810186,,12/01/2011,3822,"Invoice-Private",,12/01/2011,12/01/2011,,11815096MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3782,3782,"CR:Basic Service F... H.Adamson 201112: Adamson, Howard Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... H.Adamson 201112: Adamson, Howard Joseph",,,,,,,,,,,,,,,

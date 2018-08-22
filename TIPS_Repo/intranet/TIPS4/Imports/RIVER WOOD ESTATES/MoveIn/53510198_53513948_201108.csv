@@ -1,0 +1,5 @@
+BATCH,,201108,B,1604.0000,
+INVOICE,IN,,53510198,,08/05/2011,1604.0000,"MoveIn-Broeckert. Ruth",,08/05/2011,08/05/2011,,53513948,1604.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,27,37.0000,999,"Basic Service Fee - Second Resident: Broeckert. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319535,27,15.0000,405,"Resident Care - Level 1: Broeckert. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Broeckert. Ruth",,,,,,,,,,,,,,,

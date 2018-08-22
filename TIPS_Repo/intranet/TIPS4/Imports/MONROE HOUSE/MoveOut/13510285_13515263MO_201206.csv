@@ -1,0 +1,6 @@
+BATCH,,201206,B,4170.0000,
+INVOICE,IN,,13510285,,06/16/2012,1440.0000,"Invoice-Private",,06/16/2012,06/16/2012,,13515263MO,-2995.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,16,90.0000,1440.00,"Basic Service Fee - Studio for Jun: Perry, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,13510285,,06/16/2012,2730,"Invoice-Private",,06/16/2012,06/16/2012,,13515263MO,-2995.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... J.Perry 201206: Perry, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... J.Perry 201206: Perry, Jim",,,,,,,,,,,,,,,

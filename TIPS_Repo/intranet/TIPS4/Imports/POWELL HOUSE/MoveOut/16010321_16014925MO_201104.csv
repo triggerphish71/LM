@@ -1,0 +1,8 @@
+BATCH,,201104,B,6668.0000,
+INVOICE,IN,,16010321,,04/29/2011,3308.0000,"Invoice-Private",,04/29/2011,04/29/2011,,16014925MO,-3462.0000,,,,,,,,,,
+TRANSACTION,3320,010107160,1,60.0000,60.00,"CR:Limited Term Di... A.Gilbert 201104: Gilbert, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107160,29,96.0000,2784.00,"Basic Service Fee - Studio for Apr: Gilbert, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,29,16.0000,464.00,"Resident Care - Level 1 for Apr: Gilbert, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,16010321,,04/29/2011,3360,"Invoice-Private",,04/29/2011,04/29/2011,,16014925MO,-3462.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,2880,2880,"CR:Basic Service F... A.Gilbert 201104: Gilbert, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,480,480,"CR:Resident Care -... A.Gilbert 201104: Gilbert, Anne",,,,,,,,,,,,,,,

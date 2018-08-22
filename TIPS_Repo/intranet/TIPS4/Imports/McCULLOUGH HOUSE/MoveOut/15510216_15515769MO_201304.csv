@@ -1,0 +1,7 @@
+BATCH,,201304,B,5478.0000,
+INVOICE,IN,,15510216,,04/01/2013,498.0000,"Invoice-Private",,04/01/2013,04/10/2013,,15515769MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,3,88.0000,264.00,"Basic Service Fee - Studio for Apr: Roberts, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,3,78.0000,234.00,"Resident Care - Level 6 for Apr: Roberts, Laverne",,,,,,,,,,,,,,,
+INVOICE,CM,,15510216,,04/01/2013,4980,"Invoice-Private",,04/01/2013,04/10/2013,,15515769MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2640,2640,"CR:Basic Service F... L.Roberts 201304: Roberts, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2340,2340,"CR:Resident Care -... L.Roberts 201304: Roberts, Laverne",,,,,,,,,,,,,,,

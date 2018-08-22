@@ -1,0 +1,5 @@
+BATCH,,201212,B,2880.0000,
+INVOICE,IN,,21410221,,12/01/2012,90.0000,"Invoice-Private",,12/01/2012,12/01/2012,,21418066MO,-2700.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,90.0000,90.00,"Room and Board - IL Two Bedroom Deluxe - C for Dec: Davis Walker, Edwina",,,,,,,,,,,,,,,
+INVOICE,CM,,21410221,,12/01/2012,2790,"Invoice-Private",,12/01/2012,12/01/2012,,21418066MO,-2700.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Room and Board ... E.Davis Walker 201212: Davis Walker, Edwina",,,,,,,,,,,,,,,

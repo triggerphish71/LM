@@ -1,0 +1,5 @@
+BATCH,,201201,B,1240.0000,
+INVOICE,IN,,08310175,,01/01/2012,620.0000,"Invoice-Private",,01/01/2012,01/10/2012,,08314034MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,20.0000,620.00,"Credit for Limited Term Discount: Castor, Betty Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,08310175,,01/01/2012,620,"Invoice-Private",,01/01/2012,01/10/2012,,08314034MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,20,620,"Limited Term Discount: Castor, Betty Jane",,,,,,,,,,,,,,,

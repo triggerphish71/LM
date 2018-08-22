@@ -1,0 +1,7 @@
+BATCH,,201104,B,2915.0000,
+INVOICE,IN,,06510142,,04/25/2011,1325.0000,"Invoice-Private",,04/25/2011,04/25/2011,,06514279MO,-1877.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,25,35.0000,875.00,"Basic Service Fee - Second Resident for Apr: Squires, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,25,18.0000,450.00,"Resident Care - Level 1 for Apr: Squires, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,06510142,,04/25/2011,1590,"Invoice-Private",,04/25/2011,04/25/2011,,06514279MO,-1877.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1050,1050,"CR:Basic Service F... G.Squires 201104: Squires, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,540,540,"CR:Resident Care -... G.Squires 201104: Squires, Geneva",,,,,,,,,,,,,,,

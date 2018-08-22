@@ -1,0 +1,7 @@
+BATCH,,201304,B,5814.0000,
+INVOICE,IN,,01610173,,04/27/2013,2754.0000,"Invoice-Private",,04/27/2013,04/27/2013,,01616346MO,-3468.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,27,70.0000,1890.00,"Basic Service Fee - One Bedroom for Apr: Curtis, Gaynell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,27,32.0000,864.00,"Resident Care - Level 2 for Apr: Curtis, Gaynell",,,,,,,,,,,,,,,
+INVOICE,CM,,01610173,,04/27/2013,3060,"Invoice-Private",,04/27/2013,04/27/2013,,01616346MO,-3468.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2100,2100,"CR:Basic Service F... G.Curtis 201304: Curtis, Gaynell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,960,960,"CR:Resident Care -... G.Curtis 201304: Curtis, Gaynell",,,,,,,,,,,,,,,

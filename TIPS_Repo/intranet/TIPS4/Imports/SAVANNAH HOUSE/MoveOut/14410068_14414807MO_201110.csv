@@ -1,0 +1,7 @@
+BATCH,,201110,B,242.0000,
+INVOICE,IN,,14410068,,10/01/2011,121.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14414807MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Spare, Lea",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,3.0000,93.00,"Credit for Limited Term Discount: Spare, Lea",,,,,,,,,,,,,,,
+INVOICE,CM,,14410068,,10/01/2011,121,"Invoice-Private",,10/01/2011,10/10/2011,,14414807MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Spare, Lea",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,3,93,"Limited Term Discount: Spare, Lea",,,,,,,,,,,,,,,

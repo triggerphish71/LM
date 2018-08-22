@@ -1,0 +1,8 @@
+BATCH,,201107,B,9407.0000,
+INVOICE,IN,,10510207,,07/30/2011,5036.0000,"Invoice-Private",,07/30/2011,07/30/2011,,10513742MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,806.0000,806.00,"CR:Limited Term Di... R.Antisdel 201107: Antisdel, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,30,84.0000,2520.00,"Basic Service Fee - Studio for Jul: Antisdel, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,30,57.0000,1710.00,"Resident Care - Level 4 for Jul: Antisdel, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10510207,,07/30/2011,4371,"Invoice-Private",,07/30/2011,07/30/2011,,10513742MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2604,2604,"CR:Basic Service F... R.Antisdel 201107: Antisdel, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,1767,1767,"CR:Resident Care -... R.Antisdel 201107: Antisdel, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,1550.0000,
+INVOICE,IN,,21410317,,08/01/2011,775.0000,"Invoice-Private",,08/01/2011,08/10/2011,,21416434MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,25.0000,775.00,"Credit for Limited Term Discount: Bryant, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,21410317,,08/01/2011,775,"Invoice-Private",,08/01/2011,08/10/2011,,21416434MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,25,775,"Limited Term Discount: Bryant, Mary",,,,,,,,,,,,,,,

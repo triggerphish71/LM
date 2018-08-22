@@ -1,0 +1,8 @@
+BATCH,,201203,B,5050.0000,
+INVOICE,IN,,13210273,,03/11/2012,1454.0000,"Invoice-Private",,03/11/2012,03/11/2012,,13215343MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,62.0000,62.00,"CR:Limited Term Di... K.Klerner 201203: Klerner, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308132,12,99.0000,1188.00,"Basic Service Fee - Studio for Mar: Klerner, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,12,17.0000,204.00,"Resident Care - Level 1 for Mar: Klerner, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,13210273,,03/11/2012,3596,"Invoice-Private",,03/11/2012,03/11/2012,,13215343MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3069,3069,"CR:Basic Service F... K.Klerner 201203: Klerner, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,527,527,"CR:Resident Care -... K.Klerner 201203: Klerner, Kathleen",,,,,,,,,,,,,,,

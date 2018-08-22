@@ -1,0 +1,5 @@
+BATCH,,201301,B,60.0000,
+INVOICE,IN,,15310236,,01/01/2013,30.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15316334MO,-5787.0800,,,,,,,,,,
+TRANSACTION,3130,010103153,1,30.0000,30.00,"Pendant Fee: Gunter, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,15310236,,01/01/2013,30,"Invoice-Private",,01/01/2013,01/10/2013,,15316334MO,-5787.0800,,,,,,,,,,
+TRANSACTION,3130,010103153,1,30,30,"Credit for Pendant Fee: Gunter, Blanche",,,,,,,,,,,,,,,

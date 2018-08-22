@@ -1,0 +1,6 @@
+BATCH,,201211,B,2157.0000,
+INVOICE,IN,,02610292,,11/23/2012,2157.0000,"MoveIn-Bourgeois. Mary",,11/23/2012,11/23/2012,,02615033,5594.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,8,97.0000,776,"Basic Service Fee - Studio: Bourgeois. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,8,13.0000,104,"Resident Care - Level 1: Bourgeois. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Bourgeois. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1250.0000,1250,"New Resident Fee: Bourgeois. Mary",,,,,,,,,,,,,,,

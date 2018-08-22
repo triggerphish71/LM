@@ -1,0 +1,5 @@
+BATCH,,201111,B,2970.0000,
+INVOICE,CM,,19310274,,11/01/2011,2970,"Invoice-Private",,11/01/2011,11/10/2011,,19314946MO,-3903.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2160,2160,"CR:Basic Service F... V.Priest 201111: Priest, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... V.Priest 201111: Priest, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,510,510,"CR:Resident Care -... V.Priest 201111: Priest, Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,3990.0000,
+INVOICE,IN,,1750030,,01/08/2013,1262.0000,"Invoice-Private",,01/08/2013,01/08/2013,,17517854MO,-1466.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,558.0000,558.00,"CR:Limited Term Di... T.McAlister 201301: McAlister, Tobitha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,8,76.0000,608.00,"Basic Service Fee - Studio Deluxe for Jan: McAlister, Tobitha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,8,12.0000,96.00,"Resident Care - Level 1 for Jan: McAlister, Tobitha",,,,,,,,,,,,,,,
+INVOICE,CM,,1750030,,01/08/2013,2728,"Invoice-Private",,01/08/2013,01/08/2013,,17517854MO,-1466.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2356,2356,"CR:Basic Service F... T.McAlister 201301: McAlister, Tobitha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... T.McAlister 201301: McAlister, Tobitha",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201205,B,160.0000,
+INVOICE,IN,,06010134,,05/01/2012,80.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06014336MO,-4160.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Kawka, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40.0000,40.00,"Pendant Fee: Kawka, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,06010134,,05/01/2012,80,"Invoice-Private",,05/01/2012,05/10/2012,,06014336MO,-4160.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Kawka, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"Credit for Pendant Fee: Kawka, Helen",,,,,,,,,,,,,,,

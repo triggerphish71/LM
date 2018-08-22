@@ -1,0 +1,7 @@
+BATCH,,201201,B,3666.0000,
+INVOICE,IN,,20210037,,01/08/2012,752.0000,"Invoice-Private",,01/08/2012,01/08/2012,,20212457MO,-2162.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,8,11.0000,88.00,"Resident Care - Level 1 for Jan: Parker, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,8,83.0000,664.00,"Studio for Jan: Parker, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,20210037,,01/08/2012,2914,"Invoice-Private",,01/08/2012,01/08/2012,,20212457MO,-2162.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... D.Parker 201201: Parker, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... D.Parker 201201: Parker, Donald",,,,,,,,,,,,,,,

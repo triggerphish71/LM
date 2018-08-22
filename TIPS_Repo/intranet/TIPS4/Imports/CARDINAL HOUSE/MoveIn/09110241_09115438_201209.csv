@@ -1,0 +1,5 @@
+BATCH,,201209,B,1450.0000,
+INVOICE,IN,,09110241,,09/28/2012,1450.0000,"MoveIn-Kerr. Richard",,09/28/2012,09/28/2012,,09115438,6100.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,3,85.0000,255,"Basic Service Fee - Studio: Kerr. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,3,65.0000,195,"Resident Care - Level 4: Kerr. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,1000.0000,1000,"New Resident Fee: Kerr. Richard",,,,,,,,,,,,,,,

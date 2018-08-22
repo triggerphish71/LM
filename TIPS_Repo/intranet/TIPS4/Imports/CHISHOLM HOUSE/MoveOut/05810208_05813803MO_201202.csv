@@ -1,0 +1,6 @@
+BATCH,,201202,B,2845.0000,
+INVOICE,IN,,05810208,,02/01/2012,94.0000,"Invoice-Private",,02/01/2012,02/10/2012,,05813803MO,-5596.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,94.0000,94.00,"Basic Service Fee - One Bedroom for Feb: Batson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,05810208,,02/01/2012,2751,"Invoice-Private",,02/01/2012,02/10/2012,,05813803MO,-5596.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2726,2726,"CR:Basic Service F... J.Batson 201202: Batson, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... J.Batson 201202: Batson, James",,,,,,,,,,,,,,,

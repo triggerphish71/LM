@@ -1,0 +1,7 @@
+BATCH,,201203,B,4972.0000,
+INVOICE,IN,,03710174,,03/13/2012,1469.0000,"Invoice-Private",,03/13/2012,03/13/2012,,03714140MO,-2034.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,13,97.0000,1261.00,"Basic Service Fee - Studio for Mar: Harper, Woody",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,13,16.0000,208.00,"Resident Care - Level 1 for Mar: Harper, Woody",,,,,,,,,,,,,,,
+INVOICE,CM,,03710174,,03/13/2012,3503,"Invoice-Private",,03/13/2012,03/13/2012,,03714140MO,-2034.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,3007,3007,"CR:Basic Service F... W.Harper 201203: Harper, Woody",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,496,496,"CR:Resident Care -... W.Harper 201203: Harper, Woody",,,,,,,,,,,,,,,

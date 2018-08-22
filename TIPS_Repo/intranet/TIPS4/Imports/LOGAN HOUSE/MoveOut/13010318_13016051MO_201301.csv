@@ -1,0 +1,5 @@
+BATCH,,201301,B,54.0000,
+INVOICE,IN,,13010318,,01/01/2013,27.0000,"Invoice-Private",,01/01/2013,01/10/2013,,13016051MO,-6598.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Larko, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,13010318,,01/01/2013,27,"Invoice-Private",,01/01/2013,01/10/2013,,13016051MO,-6598.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Larko, Gloria",,,,,,,,,,,,,,,

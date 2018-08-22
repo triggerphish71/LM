@@ -1,0 +1,6 @@
+BATCH,,201303,B,2637.0000,
+INVOICE,IN,,03110362,,03/18/2013,2637.0000,"MoveIn-Duhr. Bruno",,03/18/2013,03/18/2013,,03117387,6114.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,14,99.0000,1386,"Basic Service Fee - Studio: Duhr. Bruno",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,14,16.0000,224,"Resident Care - Level 1: Duhr. Bruno",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Duhr. Bruno",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1000.0000,1000,"New Resident Fee: Duhr. Bruno",,,,,,,,,,,,,,,

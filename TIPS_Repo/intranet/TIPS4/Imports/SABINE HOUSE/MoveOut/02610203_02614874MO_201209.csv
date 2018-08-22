@@ -1,0 +1,7 @@
+BATCH,,201209,B,636.0000,
+INVOICE,IN,,02610203,,09/01/2012,318.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02614874MO,-4372.6000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27.00,"Monthly Cable: Ross, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3312,010202026,30,9.7000,291.00,"Credit for Two Room Rental Discount: Ross, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,02610203,,09/01/2012,318,"Invoice-Private",,09/01/2012,09/10/2012,,02614874MO,-4372.6000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"Credit for Monthly Cable: Ross, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3312,010202026,30,9.7,291,"Two Room Rental Discount: Ross, Russell",,,,,,,,,,,,,,,

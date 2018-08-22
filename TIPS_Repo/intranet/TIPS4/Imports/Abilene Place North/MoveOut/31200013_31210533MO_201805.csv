@@ -1,0 +1,7 @@
+BATCH,,201805,B,1278.5700,
+INVOICE,IN,,31200013,,05/30/2018,628.8000,"Invoice-Medicaid",,05/30/2018,05/30/2018,,31210533MO,-670.7400,,,,,,,,,,
+TRANSACTION,3021,070024312,30,0.8400,25.20,"Medicaid Copay for May: Meeks, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3021,070024312,30,20.1200,603.60,"Medicaid Private BSF for May: Meeks, Sharon",,,,,,,,,,,,,,,
+INVOICE,CM,,31200013,,05/30/2018,649.77,"Invoice-Medicaid",,05/30/2018,05/30/2018,,31210533MO,-670.7400,,,,,,,,,,
+TRANSACTION,3021,070024312,1,26,26,"CR:Medicaid Copay... S.Meeks 201805: Meeks, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3021,070024312,1,623.77,623.77,"CR:Medicaid Privat... S.Meeks 201805: Meeks, Sharon",,,,,,,,,,,,,,,

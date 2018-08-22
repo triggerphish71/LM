@@ -1,0 +1,5 @@
+BATCH,,201110,B,1836.0000,
+INVOICE,IN,,13710171,,10/01/2011,782.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13714103MO,-272.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,23,34.0000,782.00,"Basic Service Fee - Second Resident for Oct: Feazel, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,13710171,,10/01/2011,1054,"Invoice-Private",,10/01/2011,10/10/2011,,13714103MO,-272.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,1054,1054,"CR:Basic Service F... M.Feazel 201110: Feazel, Marjorie",,,,,,,,,,,,,,,

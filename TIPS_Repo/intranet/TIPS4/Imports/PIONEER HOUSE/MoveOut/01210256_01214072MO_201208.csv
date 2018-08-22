@@ -1,0 +1,7 @@
+BATCH,,201208,B,1425.9000,
+INVOICE,IN,,01210256,,08/04/2012,162.9600,"Invoice-Private",,08/04/2012,08/04/2012,,01214072MO,-1099.9800,,,,,,,,,,
+TRANSACTION,3020,010103012,4,30.0000,120.00,"Basic Service Fee - Second Resident for Aug: Morris, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,4,10.7400,42.96,"Resident Care - Level 6 for Aug: Morris, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,01210256,,08/04/2012,1262.94,"Invoice-Private",,08/04/2012,08/04/2012,,01214072MO,-1099.9800,,,,,,,,,,
+TRANSACTION,3020,010103012,1,930,930,"CR:Basic Service F... F.Morris 201208: Morris, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,332.94,332.94,"CR:Resident Care -... F.Morris 201208: Morris, Francis",,,,,,,,,,,,,,,

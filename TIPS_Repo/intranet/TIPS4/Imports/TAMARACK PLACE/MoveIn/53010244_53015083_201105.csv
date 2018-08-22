@@ -1,0 +1,5 @@
+BATCH,,201105,B,4408.0000,
+INVOICE,IN,,53010244,,05/20/2011,4408.0000,"MoveIn-Radtke. Bill",,05/20/2011,05/20/2011,,53015083,7868.0000,,,,,,,,,,
+TRANSACTION,3010,010319530,12,114.0000,1368,"Basic Service Fee-One Bedroom Premi: Radtke. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40,"Monthly Cable: Radtke. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319530,1,3000.0000,3000,"New Resident Fee: Radtke. Bill",,,,,,,,,,,,,,,

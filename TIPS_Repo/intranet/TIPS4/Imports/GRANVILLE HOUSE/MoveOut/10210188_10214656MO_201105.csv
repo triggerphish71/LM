@@ -1,0 +1,8 @@
+BATCH,,201105,B,7510.0000,
+INVOICE,IN,,10210188,,05/19/2011,3046.0000,"Invoice-Private",,05/19/2011,05/19/2011,,10214656MO,-5438.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,1,310.0000,310.00,"CR:Limited Term Di... C.Barksdale 201105: Barksdale, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306102,19,125.0000,2375.00,"Basic Service Fee - Deluxe for May: Barksdale, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,19,19.0000,361.00,"Swan Personal Care - L1 for May: Barksdale, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,10210188,,05/19/2011,4464,"Invoice-Private",,05/19/2011,05/19/2011,,10214656MO,-5438.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3875,3875,"CR:Basic Service F... C.Barksdale 201105: Barksdale, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,589,589,"CR:Swan Personal C... C.Barksdale 201105: Barksdale, Clarence",,,,,,,,,,,,,,,

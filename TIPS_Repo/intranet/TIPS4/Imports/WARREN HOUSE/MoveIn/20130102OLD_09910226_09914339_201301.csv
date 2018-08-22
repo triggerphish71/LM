@@ -1,0 +1,6 @@
+BATCH,,201301,B,3975.0000,
+INVOICE,IN,,09910226,,01/02/2013,3975.0000,"MoveIn-MacDonald. Helen",,01/02/2013,01/02/2013,,09914339,3975.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,30,86.0000,2580,"Basic Service Fee - Studio: MacDonald. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,30,29.0000,870,"Resident Care - Level 2: MacDonald. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: MacDonald. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: MacDonald. Helen",,,,,,,,,,,,,,,

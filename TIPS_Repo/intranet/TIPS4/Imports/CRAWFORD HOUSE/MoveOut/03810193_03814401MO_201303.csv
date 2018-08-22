@@ -1,0 +1,8 @@
+BATCH,,201303,B,4816.6000,
+INVOICE,IN,,03810193,,03/13/2013,1415.7000,"Invoice-Private",,03/13/2013,03/13/2013,,03814401MO,-1985.2000,,,,,,,,,,
+TRANSACTION,3020,010103038,13,83.0000,1079.00,"Basic Service Fee - Studio for Mar: Adams, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,13,25.9000,336.70,"Resident Care - Level 14 for Mar: Adams, Phillip",,,,,,,,,,,,,,,
+INVOICE,CM,,03810193,,03/13/2013,3400.9,"Invoice-Private",,03/13/2013,03/13/2013,,03814401MO,-1985.2000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2573,2573,"CR:Basic Service F... P.Adams 201303: Adams, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... P.Adams 201303: Adams, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,802.9,802.9,"CR:Resident Care -... P.Adams 201303: Adams, Phillip",,,,,,,,,,,,,,,

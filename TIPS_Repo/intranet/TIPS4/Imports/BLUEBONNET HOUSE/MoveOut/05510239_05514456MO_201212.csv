@@ -1,0 +1,7 @@
+BATCH,,201212,B,6348.0000,
+INVOICE,IN,,05510239,,12/15/2012,2070.0000,"Invoice-Private",,12/15/2012,12/15/2012,,05514456MO,-6486.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,15,55.0000,825.00,"Basic Service Fee - Studio for Dec: Rushing, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,15,83.0000,1245.00,"Resident Care - Level 6 for Dec: Rushing, Melba",,,,,,,,,,,,,,,
+INVOICE,CM,,05510239,,12/15/2012,4278,"Invoice-Private",,12/15/2012,12/15/2012,,05514456MO,-6486.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,1705,1705,"CR:Basic Service F... M.Rushing 201212: Rushing, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,2573,2573,"CR:Resident Care -... M.Rushing 201212: Rushing, Melba",,,,,,,,,,,,,,,

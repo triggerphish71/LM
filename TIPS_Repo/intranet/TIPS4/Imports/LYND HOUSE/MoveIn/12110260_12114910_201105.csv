@@ -1,0 +1,5 @@
+BATCH,,201105,B,4479.0000,
+INVOICE,IN,,12110260,,05/06/2011,4479.0000,"MoveIn-Arnold. Wanda",,05/06/2011,05/06/2011,,12114910,4479.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,26,94.0000,2444,"Basic Service Fee - Studio         : Arnold. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Arnold. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Arnold. Wanda",,,,,,,,,,,,,,,

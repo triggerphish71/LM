@@ -1,0 +1,5 @@
+BATCH,,201202,B,4486.0000,
+INVOICE,IN,,10710351,,02/08/2012,4486.0000,"MoveIn-Moenk. Andrew",,02/08/2012,02/08/2012,,10716020,4486.0000,,,,,,,,,,
+TRANSACTION,3010,010107107,22,98.0000,2156,"Basic Service Fee - Studio: Moenk. Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107107,22,15.0000,330,"Resident Care - Level 1: Moenk. Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107107,1,2000.0000,2000,"New Resident Fee: Moenk. Andrew",,,,,,,,,,,,,,,

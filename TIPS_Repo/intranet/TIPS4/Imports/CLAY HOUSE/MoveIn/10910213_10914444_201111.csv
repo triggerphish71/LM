@@ -1,0 +1,6 @@
+BATCH,,201111,B,4286.0000,
+INVOICE,IN,,10910213,,11/14/2011,4286.0000,"MoveIn-Burley. Ina",,11/14/2011,11/14/2011,,10914444,4286.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,17,100.0000,1700,"Basic Service Fee- One Bedroom Prem: Burley. Ina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,17,33.0000,561,"Resident Care - Level 2: Burley. Ina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Burley. Ina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Burley. Ina",,,,,,,,,,,,,,,

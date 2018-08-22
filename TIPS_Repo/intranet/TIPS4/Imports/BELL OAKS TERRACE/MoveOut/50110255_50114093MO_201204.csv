@@ -1,0 +1,8 @@
+BATCH,,201204,B,6867.0000,
+INVOICE,IN,,50110255,,04/01/2012,2967.0000,"Invoice-Private",,04/01/2012,04/10/2012,,50114093MO,-4962.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,23,114.0000,2622.00,"Basic Service Fee - One Bedroom Del for Apr: Nurrenbern, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,23,15.0000,345.00,"Resident Care - Level 1 for Apr: Nurrenbern, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,50110255,,04/01/2012,3900,"Invoice-Private",,04/01/2012,04/10/2012,,50114093MO,-4962.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,3420,3420,"CR:Basic Service F... C.Nurrenbern 201204: Nurrenbern, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... C.Nurrenbern 201204: Nurrenbern, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,450,450,"CR:Resident Care -... C.Nurrenbern 201204: Nurrenbern, Carolyn",,,,,,,,,,,,,,,

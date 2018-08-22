@@ -1,0 +1,8 @@
+BATCH,,201110,B,4297.0000,
+INVOICE,IN,,14710251,,10/05/2011,690.0000,"Invoice-Private",,10/05/2011,10/05/2011,,14715325MO,-2917.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,6,98.0000,588.00,"Basic Service Fee - Studio for Oct: Sharpe, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,6,17.0000,102.00,"Resident Care - Level 1 for Oct: Sharpe, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,14710251,,10/05/2011,3607,"Invoice-Private",,10/05/2011,10/05/2011,,14715325MO,-2917.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3038,3038,"CR:Basic Service F... F.Sharpe 201110: Sharpe, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... F.Sharpe 201110: Sharpe, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,527,527,"CR:Resident Care -... F.Sharpe 201110: Sharpe, Francis",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,960.0000,
+INVOICE,IN,,08310159,,06/01/2011,480.0000,"Invoice-Private",,06/01/2011,06/10/2011,,08313913MO,-4619.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,30,16.0000,480.00,"Credit for Limited Term Discount: Shields, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,08310159,,06/01/2011,480,"Invoice-Private",,06/01/2011,06/10/2011,,08313913MO,-4619.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,30,16,480,"Limited Term Discount: Shields, Ruth",,,,,,,,,,,,,,,

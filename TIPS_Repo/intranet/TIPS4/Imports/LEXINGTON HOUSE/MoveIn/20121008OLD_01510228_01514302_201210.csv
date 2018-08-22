@@ -1,0 +1,5 @@
+BATCH,,201210,B,4875.2000,
+INVOICE,IN,,01510228,,10/08/2012,4875.2000,"MoveIn-Worden. Gene",,10/08/2012,10/08/2012,,01514302,4875.2000,,,,,,,,,,
+TRANSACTION,3010,010103015,24,84.0000,2016,"Basic Service Fee - Studio: Worden. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,24,35.8000,859.2,"Resident Care - Level 20: Worden. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: Worden. Gene",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201803,B,4290.0000,
+INVOICE,IN,,15010244,,03/25/2018,44.0000,"Invoice-Private",,03/25/2018,03/25/2018,,15017361MO,198.0000,,,,,,,,,,
+TRANSACTION,3017,010012150,2,22.0000,44.00,"Level: 0  to  Level: 1  - on 02/27: Herzberg, Luetta",,,,,,,,,,,,,,,
+INVOICE,IN,,15010244,,03/25/2018,2200.0000,"Invoice-Private",,03/25/2018,03/25/2018,,15017361MO,198.0000,,,,,,,,,,
+TRANSACTION,3017,010012150,25,22.0000,550.00," Level: 1 : Herzberg, Luetta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012150,25,66.0000,1650.00,"Basic Service Fee - Studio  for Mar: Herzberg, Luetta",,,,,,,,,,,,,,,
+INVOICE,CM,,15010244,,03/25/2018,2046,"Invoice-Private",,03/25/2018,03/25/2018,,15017361MO,198.0000,,,,,,,,,,
+TRANSACTION,3020,010012150,1,2046,2046,"CR:Basic Service F... L.Herzberg 201803: Herzberg, Luetta",,,,,,,,,,,,,,,

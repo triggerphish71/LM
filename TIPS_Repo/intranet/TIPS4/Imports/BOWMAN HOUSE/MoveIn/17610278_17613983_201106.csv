@@ -1,0 +1,5 @@
+BATCH,,201106,B,1895.0000,
+INVOICE,IN,,17610278,,06/26/2011,1895.0000,"MoveIn-Mohney. Melba",,06/26/2011,06/26/2011,,17613983,4344.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,5,69.0000,345,"Basic Service Fee - Studio         : Mohney. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Mohney. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315176,5,10.0000,50,"HSG Meals: Mohney. Melba",,,,,,,,,,,,,,,

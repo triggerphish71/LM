@@ -1,0 +1,7 @@
+BATCH,,201806,B,6480.0000,
+INVOICE,IN,,16510439,,06/01/2018,2160.0000,"Invoice-Private",,06/01/2018,06/10/2018,,16517662MO,-2160.0000,,,,,,,,,,
+TRANSACTION,3020,010008165,15,124.0000,1860.00,"Basic Service Fee - Studio for Jun: Walsh, Clara Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008165,15,20.0000,300.00,"Resident Care - Level 1 for Jun: Walsh, Clara Elizabeth (Betty)",,,,,,,,,,,,,,,
+INVOICE,CM,,16510439,,06/01/2018,4320,"Invoice-Private",,06/01/2018,06/10/2018,,16517662MO,-2160.0000,,,,,,,,,,
+TRANSACTION,3020,010008165,1,3720,3720,"CR:Basic Service F... C.Walsh 201806: Walsh, Clara Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008165,1,600,600,"CR:Resident Care -... C.Walsh 201806: Walsh, Clara Elizabeth (Betty)",,,,,,,,,,,,,,,

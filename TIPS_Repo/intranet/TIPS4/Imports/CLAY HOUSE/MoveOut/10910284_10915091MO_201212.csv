@@ -1,0 +1,8 @@
+BATCH,,201212,B,5965.0000,
+INVOICE,IN,,10910284,,12/13/2012,1755.0000,"Invoice-Private",,12/13/2012,12/13/2012,,10915091MO,-5772.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,13,88.0000,1144.00,"G.Orndoff: Basic Service Fee - Deluxe for Dec: Orndoff, Georgetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,13,47.0000,611.00,"Service : lvl 0 to lvl 3 - 12/1/12 for Dec: Orndoff, Georgetta",,,,,,,,,,,,,,,
+INVOICE,CM,,10910284,,12/13/2012,4210,"Invoice-Private",,12/13/2012,12/13/2012,,10915091MO,-5772.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2728,2728,"CR:G.Orndoff: Basi... G.Orndoff 201212: Orndoff, Georgetta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... G.Orndoff 201212: Orndoff, Georgetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,1457,1457,"CR:Service : lvl 0... G.Orndoff 201212: Orndoff, Georgetta",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,402.0000,
+INVOICE,IN,,03110220,,02/01/2012,201.0000,"Invoice-Private",,02/01/2012,02/10/2012,,03116569MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Gros, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,29,6.0000,174.00,"Credit for Limited Term Discount: Gros, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,03110220,,02/01/2012,201,"Invoice-Private",,02/01/2012,02/10/2012,,03116569MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Gros, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,29,6,174,"Limited Term Discount: Gros, Elaine",,,,,,,,,,,,,,,

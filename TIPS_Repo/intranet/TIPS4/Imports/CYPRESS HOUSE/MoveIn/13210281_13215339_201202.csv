@@ -1,0 +1,6 @@
+BATCH,,201202,B,3860.0000,
+INVOICE,IN,,13210281,,02/17/2012,3860.0000,"MoveIn-Hull. Jean",,02/17/2012,02/17/2012,,13215339,8258.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,13,124.0000,1612,"Basic Service Fee - One Bedroom: Hull. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,13,17.0000,221,"Resident Care - Level 1: Hull. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Hull. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Hull. Jean",,,,,,,,,,,,,,,

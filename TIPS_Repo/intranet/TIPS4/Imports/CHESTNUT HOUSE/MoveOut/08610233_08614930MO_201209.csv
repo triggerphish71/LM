@@ -1,0 +1,7 @@
+BATCH,,201209,B,10473.1800,
+INVOICE,IN,,08610233,,09/01/2012,4960.9800,"Invoice-Private",,09/01/2012,09/01/2012,,08614930MO,-551.2200,,,,,,,,,,
+TRANSACTION,3020,010305086,27,89.0000,2403.00,"Basic Service Fee - Studio for Sep: Starcher, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,27,94.7400,2557.98,"Resident Care - Level 6+6 points for Sep: Starcher, Harley",,,,,,,,,,,,,,,
+INVOICE,CM,,08610233,,09/01/2012,5512.2,"Invoice-Private",,09/01/2012,09/01/2012,,08614930MO,-551.2200,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2670,2670,"CR:Basic Service F... H.Starcher 201209: Starcher, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,2842.2,2842.2,"CR:Resident Care -... H.Starcher 201209: Starcher, Harley",,,,,,,,,,,,,,,

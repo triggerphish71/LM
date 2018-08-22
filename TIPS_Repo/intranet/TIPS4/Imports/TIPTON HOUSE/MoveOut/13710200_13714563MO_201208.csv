@@ -1,0 +1,7 @@
+BATCH,,201208,B,7125.0000,
+INVOICE,IN,,13710200,,08/01/2012,3250.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13714563MO,-625.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,26,90.0000,2340.00,"Basic Service Fee - Studio for Aug: Hart, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,26,35.0000,910.00,"Resident Care - Level 2 for Aug: Hart, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13710200,,08/01/2012,3875,"Invoice-Private",,08/01/2012,08/10/2012,,13714563MO,-625.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... R.Hart 201208: Hart, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1085,1085,"CR:Resident Care -... R.Hart 201208: Hart, Robert",,,,,,,,,,,,,,,

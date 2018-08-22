@@ -1,0 +1,8 @@
+BATCH,,201301,B,3878.0000,
+INVOICE,IN,,20410199,,01/05/2013,592.0000,"Invoice-Private",,01/05/2013,01/05/2013,,20413347MO,-2694.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,62.0000,62.00,"CR:Limited Term Di... C.Rowland 201301: Rowland, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,5,22.0000,110.00,"Resident Care - Level 2 for Jan: Rowland, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,5,84.0000,420.00,"Room and Board - Studio for Jan: Rowland, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,20410199,,01/05/2013,3286,"Invoice-Private",,01/05/2013,01/05/2013,,20413347MO,-2694.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,682,682,"CR:Resident Care -... C.Rowland 201301: Rowland, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2604,2604,"CR:Room and Board ... C.Rowland 201301: Rowland, Clara",,,,,,,,,,,,,,,

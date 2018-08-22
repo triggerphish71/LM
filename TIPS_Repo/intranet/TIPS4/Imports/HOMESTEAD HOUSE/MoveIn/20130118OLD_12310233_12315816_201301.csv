@@ -1,0 +1,5 @@
+BATCH,,201301,B,4840.0000,
+INVOICE,IN,,12310233,,01/18/2013,4840.0000,"MoveIn-Harms. Tena",,01/18/2013,01/18/2013,,12315816,10020.0000,,,,,,,,,,
+TRANSACTION,3010,010211123,14,103.0000,1442,"Basic Service Fee - Studio: Harms. Tena",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211123,14,82.0000,1148,"Resident Care - Level 5: Harms. Tena",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211123,1,2250.0000,2250,"New Resident Fee: Harms. Tena",,,,,,,,,,,,,,,

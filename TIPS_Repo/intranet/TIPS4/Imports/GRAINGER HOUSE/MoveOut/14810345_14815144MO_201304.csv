@@ -1,0 +1,8 @@
+BATCH,,201304,B,4432.0000,
+INVOICE,IN,,14810345,,04/01/2013,142.0000,"Invoice-Private",,04/01/2013,04/01/2013,,14815144MO,-4148.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,91.0000,91.00,"Basic Service Fee - Studio for Apr: Stynchula, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,51.0000,51.00,"Resident Care - Level 3 for Apr: Stynchula, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,14810345,,04/01/2013,4290,"Invoice-Private",,04/01/2013,04/01/2013,,14815144MO,-4148.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2730,2730,"CR:Basic Service F... J.Stynchula 201304: Stynchula, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... J.Stynchula 201304: Stynchula, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1530,1530,"CR:Resident Care -... J.Stynchula 201304: Stynchula, Joseph",,,,,,,,,,,,,,,

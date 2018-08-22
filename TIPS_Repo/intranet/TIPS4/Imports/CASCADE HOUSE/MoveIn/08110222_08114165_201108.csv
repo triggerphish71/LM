@@ -1,0 +1,5 @@
+BATCH,,201108,B,4401.0000,
+INVOICE,IN,,08110222,,08/05/2011,4401.0000,"MoveIn-Shields. John",,08/05/2011,08/05/2011,,08114165,4401.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,27,88.0000,2376,"Basic Service Fee - Studio         : Shields. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Shields. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Shields. John",,,,,,,,,,,,,,,

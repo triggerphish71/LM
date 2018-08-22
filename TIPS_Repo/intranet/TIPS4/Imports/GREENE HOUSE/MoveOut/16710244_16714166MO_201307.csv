@@ -1,0 +1,8 @@
+BATCH,,201307,B,7374.0000,
+INVOICE,IN,,16710244,,07/17/2013,2601.0000,"Invoice-Private",,07/17/2013,07/17/2013,,16714166MO,-6945.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,17,75.0000,1275.00,"Basic Service Fee - Studio for Jul: Crabb, Dr. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,17,78.0000,1326.00,"Resident Care - Level 6 for Jul: Crabb, Dr. Wilfred",,,,,,,,,,,,,,,
+INVOICE,CM,,16710244,,07/17/2013,4773,"Invoice-Private",,07/17/2013,07/17/2013,,16714166MO,-6945.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2325,2325,"CR:Basic Service F... D.Crabb 201307: Crabb, Dr. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... D.Crabb 201307: Crabb, Dr. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,2418,2418,"CR:Resident Care -... D.Crabb 201307: Crabb, Dr. Wilfred",,,,,,,,,,,,,,,

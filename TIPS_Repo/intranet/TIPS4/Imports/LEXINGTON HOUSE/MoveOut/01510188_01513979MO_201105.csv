@@ -1,0 +1,8 @@
+BATCH,,201105,B,4338.6000,
+INVOICE,IN,,01510188,,05/01/2011,1616.8000,"Invoice-Private",,05/01/2011,05/10/2011,,01513979MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,651.0000,651.00,"CR:Limited Term Di... M.Baum 201105: Baum, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,11,81.0000,891.00,"Basic Service Fee - Studio for May: Baum, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,11,6.8000,74.80,"Resident Care - Level 4 for May: Baum, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,01510188,,05/01/2011,2721.8,"Invoice-Private",,05/01/2011,05/10/2011,,01513979MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2511,2511,"CR:Basic Service F... M.Baum 201105: Baum, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,210.8,210.8,"CR:Resident Care -... M.Baum 201105: Baum, Mildred",,,,,,,,,,,,,,,

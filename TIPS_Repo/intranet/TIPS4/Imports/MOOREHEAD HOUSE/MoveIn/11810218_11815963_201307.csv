@@ -1,0 +1,5 @@
+BATCH,,201307,B,3080.0000,
+INVOICE,IN,,11810218,,07/12/2013,3080.0000,"MoveIn-McPherson. Mae",,07/12/2013,07/12/2013,,11815963,3080.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,20,102.0000,2040,"Basic Service Fee - Studio: McPherson. Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: McPherson. Mae",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,1000.0000,1000,"New Resident Fee: McPherson. Mae",,,,,,,,,,,,,,,

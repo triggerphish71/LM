@@ -1,0 +1,7 @@
+BATCH,,201303,B,7788.0000,
+INVOICE,IN,,07410241,,03/27/2013,3696.0000,"Invoice-Private",,03/27/2013,03/27/2013,,07414301MO,-3816.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,28,73.0000,2044.00,"Basic Service Fee - Studio for Mar: Grevenkamp, Urban",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,28,59.0000,1652.00,"Resident Care - Level 4 for Mar: Grevenkamp, Urban",,,,,,,,,,,,,,,
+INVOICE,CM,,07410241,,03/27/2013,4092,"Invoice-Private",,03/27/2013,03/27/2013,,07414301MO,-3816.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2263,2263,"CR:Basic Service F... U.Grevenkamp 201303: Grevenkamp, Urban",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,1829,1829,"CR:Resident Care -... U.Grevenkamp 201303: Grevenkamp, Urban",,,,,,,,,,,,,,,

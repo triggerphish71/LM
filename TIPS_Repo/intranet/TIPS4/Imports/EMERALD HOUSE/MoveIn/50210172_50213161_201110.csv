@@ -1,0 +1,6 @@
+BATCH,,201110,B,2559.0000,
+INVOICE,IN,,50210172,,10/21/2011,2559.0000,"MoveIn-Green. Margery",,10/21/2011,10/21/2011,,50213161,5404.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,11,80.0000,880,"Basic Service Fee - Studio: Green. Margery",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,11,14.0000,154,"Resident Care - Level 1: Green. Margery",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Green. Margery",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Green. Margery",,,,,,,,,,,,,,,

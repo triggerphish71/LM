@@ -1,0 +1,6 @@
+BATCH,,201106,B,3585.0000,
+INVOICE,IN,,14210179,,06/06/2011,3585.0000,"MoveIn-Back. Fion",,06/06/2011,06/06/2011,,14213509,3585.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,25,85.0000,2125,"Basic Service Fee - Studio         : Back. Fion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,25,17.0000,425,"Resident Care - Level 1: Back. Fion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Back. Fion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Back. Fion",,,,,,,,,,,,,,,

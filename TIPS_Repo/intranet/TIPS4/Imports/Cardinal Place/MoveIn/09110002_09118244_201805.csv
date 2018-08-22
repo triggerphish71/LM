@@ -1,0 +1,6 @@
+BATCH,,201805,B,5514.4000,
+INVOICE,IN,,09110002,,05/10/2018,5514.4000,"MoveIn-Mehok. John",,05/10/2018,05/10/2018,,09118244,9054.4000,,,,,,,,,,
+TRANSACTION,3010,010005091,22,72.0000,1584,"Basic Service Fee - Studio: Mehok. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005091,22,46.0000,1012,"Resident Care - Level 2: Mehok. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005091,1,2188.8000,2188.8,"Community Fee: Mehok. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005091,1,729.6000,729.6,"Monthly Deferral Charge: Mehok. John",,,,,,,,,,,,,,,

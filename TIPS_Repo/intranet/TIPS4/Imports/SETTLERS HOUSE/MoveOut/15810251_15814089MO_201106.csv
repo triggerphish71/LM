@@ -1,0 +1,8 @@
+BATCH,,201106,B,5693.0000,
+INVOICE,IN,,15810251,,06/16/2011,1968.0000,"Invoice-Private",,06/16/2011,06/16/2011,,15814089MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,16,92.0000,1472.00,"Basic Service Fee - Studio for Jun: Justus, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,16,31.0000,496.00,"Resident Care - Level 2 for Jun: Justus, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,15810251,,06/16/2011,3725,"Invoice-Private",,06/16/2011,06/16/2011,,15814089MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2760,2760,"CR:Basic Service F... R.Justus 201106: Justus, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35,35,"CR:Pendant Fee... R.Justus 201106: Justus, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,930,930,"CR:Resident Care -... R.Justus 201106: Justus, Robert",,,,,,,,,,,,,,,

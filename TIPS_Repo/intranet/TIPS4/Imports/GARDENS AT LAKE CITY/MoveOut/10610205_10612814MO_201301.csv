@@ -1,0 +1,6 @@
+BATCH,,201301,B,3689.0000,
+INVOICE,IN,,10610205,,01/11/2013,957.0000,"Invoice-Private",,01/11/2013,01/11/2013,,10612814MO,-1775.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,11,87.0000,957.00,"D.Wooden: Basic Service Fee - Studio for Jan: Wooden, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,10610205,,01/11/2013,2732,"Invoice-Private",,01/11/2013,01/11/2013,,10612814MO,-1775.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2697,2697,"CR:D.Wooden: Basic... D.Wooden 201301: Wooden, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... D.Wooden 201301: Wooden, Donald",,,,,,,,,,,,,,,

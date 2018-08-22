@@ -1,0 +1,6 @@
+BATCH,,201204,B,2528.2000,
+INVOICE,IN,,08110237,,04/27/2012,2528.2000,"MoveIn-Coriell. Julia",,04/27/2012,04/27/2012,,08114405,6453.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,4,90.0000,360,"Basic Service Fee - Studio: Coriell. Julia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,4,35.8000,143.2,"Resident Care - Level 20: Coriell. Julia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Coriell. Julia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Coriell. Julia",,,,,,,,,,,,,,,

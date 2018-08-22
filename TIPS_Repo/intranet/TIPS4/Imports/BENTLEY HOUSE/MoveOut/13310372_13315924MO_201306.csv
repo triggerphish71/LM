@@ -1,0 +1,8 @@
+BATCH,,201306,B,7285.0000,
+INVOICE,IN,,13310372,,06/17/2013,3500.0000,"Invoice-Private",,06/17/2013,06/17/2013,,13315924MO,-3203.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,28,93.0000,2604.00,"Basic Service Fee - Studio for Jun: Clarke, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,28,32.0000,896.00,"Resident Care - Level 2 for Jun: Clarke, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,13310372,,06/17/2013,3785,"Invoice-Private",,06/17/2013,06/17/2013,,13315924MO,-3203.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2790,2790,"CR:Basic Service F... D.Clarke 201306: Clarke, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... D.Clarke 201306: Clarke, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,960,960,"CR:Resident Care -... D.Clarke 201306: Clarke, Doris",,,,,,,,,,,,,,,

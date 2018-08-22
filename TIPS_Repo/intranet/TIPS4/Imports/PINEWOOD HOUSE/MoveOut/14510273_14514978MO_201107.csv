@@ -1,0 +1,5 @@
+BATCH,,201107,B,50.0000,
+INVOICE,IN,,14510273,,07/01/2011,25.0000,"Invoice-Private",,07/01/2011,07/10/2011,,14514978MO,-4269.0000,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25.0000,25.00,"Pendant Fee: Billham, Brenda",,,,,,,,,,,,,,,
+INVOICE,CM,,14510273,,07/01/2011,25,"Invoice-Private",,07/01/2011,07/10/2011,,14514978MO,-4269.0000,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"Credit for Pendant Fee: Billham, Brenda",,,,,,,,,,,,,,,

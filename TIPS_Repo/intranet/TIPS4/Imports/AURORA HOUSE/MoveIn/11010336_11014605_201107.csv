@@ -1,0 +1,5 @@
+BATCH,,201107,B,4086.0000,
+INVOICE,IN,,11010336,,07/01/2011,4086.0000,"July_Rent-Sams, jr.. Orville",,07/01/2011,07/10/2011,,11014605,7814.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821,"Basic Service Fee - Studio         : Sams, jr.. Orville",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,40.0000,1240,"Resident Care - Level 3: Sams, jr.. Orville",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Sams, jr.. Orville",,,,,,,,,,,,,,,

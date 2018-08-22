@@ -1,0 +1,7 @@
+BATCH,,201201,B,6345.0000,
+INVOICE,IN,,21610189,,01/01/2012,2160.0000,"Invoice-Private",,01/01/2012,01/10/2012,,21613351MO,-5940.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,16,103.0000,1648.00,"One Bedroom for Jan: Evans, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,16,32.0000,512.00,"Resident Care - Level 3 for Jan: Evans, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,21610189,,01/01/2012,4185,"Invoice-Private",,01/01/2012,01/10/2012,,21613351MO,-5940.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3193,3193,"CR:One Bedroom... H.Evans 201201: Evans, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,992,992,"CR:Resident Care -... H.Evans 201201: Evans, Hazel",,,,,,,,,,,,,,,

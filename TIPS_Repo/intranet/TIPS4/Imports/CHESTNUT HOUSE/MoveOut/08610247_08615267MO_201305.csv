@@ -1,0 +1,7 @@
+BATCH,,201305,B,3800.0000,
+INVOICE,IN,,08610247,,05/01/2013,1444.0000,"Invoice-Private",,05/01/2013,05/10/2013,,08615267MO,-912.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,19,60.0000,1140.00,"Basic Service Fee - Studio for May: Price, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,19,16.0000,304.00,"Resident Care - Level 1 for May: Price, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,08610247,,05/01/2013,2356,"Invoice-Private",,05/01/2013,05/10/2013,,08615267MO,-912.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,1860,1860,"CR:Basic Service F... B.Price 201305: Price, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,496,496,"CR:Resident Care -... B.Price 201305: Price, Beulah",,,,,,,,,,,,,,,

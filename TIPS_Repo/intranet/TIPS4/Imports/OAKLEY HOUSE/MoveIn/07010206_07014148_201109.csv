@@ -1,0 +1,6 @@
+BATCH,,201109,B,1622.0000,
+INVOICE,IN,,07010206,,09/30/2011,1622.0000,"MoveIn-Grilliot. Delbert",,09/30/2011,09/30/2011,,07014148,4804.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,1,86.0000,86,"Basic Service Fee - Studio         : Grilliot. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,1,16.0000,16,"Resident Care - Level 1: Grilliot. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Grilliot. Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1500.0000,1500,"New Resident Fee: Grilliot. Delbert",,,,,,,,,,,,,,,

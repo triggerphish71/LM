@@ -1,0 +1,7 @@
+BATCH,,201108,B,4123.5000,
+INVOICE,IN,,14210170,,08/14/2011,1453.5000,"Invoice-Private",,08/14/2011,08/14/2011,,14213636MO,-3546.5000,,,,,,,,,,
+TRANSACTION,3312,010309142,1,263.5000,263.50,"CR:Two Room Rental... H.Darby 201108: Darby, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,14,85.0000,1190.00,"Basic Service Fee - Studio for Aug: Darby, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,14210170,,08/14/2011,2670,"Invoice-Private",,08/14/2011,08/14/2011,,14213636MO,-3546.5000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2635,2635,"CR:Basic Service F... H.Darby 201108: Darby, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... H.Darby 201108: Darby, Harold",,,,,,,,,,,,,,,

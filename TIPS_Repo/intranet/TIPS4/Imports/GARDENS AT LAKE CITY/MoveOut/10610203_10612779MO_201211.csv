@@ -1,0 +1,6 @@
+BATCH,,201211,B,905.0000,
+INVOICE,IN,,10610203,,11/24/2012,174.0000,"Invoice-Private",,11/24/2012,11/24/2012,,10612779MO,-3289.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,2,87.0000,174.00,"Basic Service Fee - Studio for Nov: Ginter, Carlyle",,,,,,,,,,,,,,,
+INVOICE,CM,,10610203,,11/24/2012,731,"Invoice-Private",,11/24/2012,11/24/2012,,10612779MO,-3289.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,696,696,"CR:Basic Service F... C.Ginter 201211: Ginter, Carlyle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... C.Ginter 201211: Ginter, Carlyle",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,3968.9900,
+INVOICE,IN,,00710211,,02/09/2013,965.4300,"Invoice-Private",,02/09/2013,02/09/2013,,00713618MO,-2038.1300,,,,,,,,,,
+TRANSACTION,3020,010101007,9,84.0000,756.00,"Basic Service Fee - Studio for Feb: Church, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,9,23.2700,209.43,"Resident Care - Level 13 for Feb: Church, Verne",,,,,,,,,,,,,,,
+INVOICE,CM,,00710211,,02/09/2013,3003.56,"Invoice-Private",,02/09/2013,02/09/2013,,00713618MO,-2038.1300,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2352,2352,"CR:Basic Service F... V.Church 201302: Church, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,651.56,651.56,"CR:Resident Care -... V.Church 201302: Church, Verne",,,,,,,,,,,,,,,

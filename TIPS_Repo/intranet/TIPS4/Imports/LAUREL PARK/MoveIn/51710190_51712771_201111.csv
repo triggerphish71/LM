@@ -1,0 +1,7 @@
+BATCH,,201111,B,3006.7000,
+INVOICE,IN,,51710190,,11/25/2011,3006.7000,"MoveIn-Read. Virgil",,11/25/2011,11/25/2011,,51712771,6822.1500,,,,,,,,,,
+TRANSACTION,3010,010103517,6,113.0000,678,"V.Read: Basic Service Fee - One Bedroom: Read. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103517,6,8.9500,53.7,"V.Read: Resident Care - Level 5: Read. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Read. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,2000.0000,2000,"New Resident Fee: Read. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3213,010103517,1,250.0000,250,"Pet Fee: Read. Virgil",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,4075.0000,
+INVOICE,IN,,07510233,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,07514828MO,-3955.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,1,60.0000,60.00,"CR:Limited Term Di... A.Gant 201111: Gant, Avis",,,,,,,,,,,,,,,
+INVOICE,CM,,07510233,,11/01/2011,4015,"Invoice-Private",,11/01/2011,11/10/2011,,07514828MO,-3955.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,3120,3120,"CR:Basic Service F... A.Gant 201111: Gant, Avis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... A.Gant 201111: Gant, Avis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,870,870,"CR:Resident Care -... A.Gant 201111: Gant, Avis",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,8281.0000,
+INVOICE,IN,,19210246,,01/18/2012,3042.0000,"Invoice-Private",,01/18/2012,01/18/2012,,19215064MO,-7202.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,18,133.0000,2394.00,"Basic Service Fee - One Bedroom for Jan: Bymaster, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,18,36.0000,648.00,"Resident Care - Level 2 for Jan: Bymaster, Glen",,,,,,,,,,,,,,,
+INVOICE,CM,,19210246,,01/18/2012,5239,"Invoice-Private",,01/18/2012,01/18/2012,,19215064MO,-7202.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,4123,4123,"CR:Basic Service F... G.Bymaster 201201: Bymaster, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1116,1116,"CR:Resident Care -... G.Bymaster 201201: Bymaster, Glen",,,,,,,,,,,,,,,

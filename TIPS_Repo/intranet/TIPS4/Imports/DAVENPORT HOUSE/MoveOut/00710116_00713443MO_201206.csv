@@ -1,0 +1,7 @@
+BATCH,,201206,B,6308.7500,
+INVOICE,IN,,00710116,,06/19/2012,2446.2500,"Invoice-Private",,06/19/2012,06/19/2012,,00713443MO,-5407.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,19,84.0000,1596.00,"Basic Service Fee - Studio for Jun: Imel, Cliff",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,19,44.7500,850.25,"Resident Care - Level 25 for Jun: Imel, Cliff",,,,,,,,,,,,,,,
+INVOICE,CM,,00710116,,06/19/2012,3862.5,"Invoice-Private",,06/19/2012,06/19/2012,,00713443MO,-5407.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2520,2520,"CR:Basic Service F... C.Imel 201206: Imel, Cliff",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1342.5,1342.5,"CR:Resident Care -... C.Imel 201206: Imel, Cliff",,,,,,,,,,,,,,,

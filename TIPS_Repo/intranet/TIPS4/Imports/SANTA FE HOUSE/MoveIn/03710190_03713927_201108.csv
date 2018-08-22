@@ -1,0 +1,6 @@
+BATCH,,201108,B,4205.0000,
+INVOICE,IN,,03710190,,08/12/2011,4205.0000,"MoveIn-Walberg. Donald",,08/12/2011,08/12/2011,,03713927,4205.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,20,93.0000,1860,"Basic Service Fee - Studio         : Walberg. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202037,20,16.0000,320,"Resident Care - Level 1: Walberg. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Walberg. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,2000.0000,2000,"New Resident Fee: Walberg. Donald",,,,,,,,,,,,,,,

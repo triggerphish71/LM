@@ -1,0 +1,6 @@
+BATCH,,201203,B,3862.2900,
+INVOICE,IN,,00910076,,03/01/2012,62.0000,"Invoice-Private",,03/01/2012,03/10/2012,,00913549MO,-4048.0600,,,,,,,,,,
+TRANSACTION,3320,010101009,1,62.0000,62.00,"CR:Limited Term Di... M.Bronson 201203: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+INVOICE,CM,,00910076,,03/01/2012,3800.29,"Invoice-Private",,03/01/2012,03/10/2012,,00913549MO,-4048.0600,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2635,2635,"CR:Basic Service F... M.Bronson 201203: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1165.29,1165.29,"CR:Resident Care -... M.Bronson 201203: Bronson, Mildred Rowena",,,,,,,,,,,,,,,

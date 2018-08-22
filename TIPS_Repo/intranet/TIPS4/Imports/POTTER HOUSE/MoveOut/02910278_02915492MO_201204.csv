@@ -1,0 +1,8 @@
+BATCH,,201204,B,6000.0000,
+INVOICE,IN,,02910278,,04/01/2012,2040.0000,"Invoice-Private",,04/01/2012,04/10/2012,,02915492MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,720.0000,720.00,"CR:Limited Term Di... R.Hill 201204: Hill, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,10,100.0000,1000.00,"Basic Service Fee - Studio for Apr: Hill, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,10,32.0000,320.00,"Resident Care - Level 2 for Apr: Hill, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,02910278,,04/01/2012,3960,"Invoice-Private",,04/01/2012,04/10/2012,,02915492MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3000,3000,"CR:Basic Service F... R.Hill 201204: Hill, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,960,960,"CR:Resident Care -... R.Hill 201204: Hill, Ruth",,,,,,,,,,,,,,,

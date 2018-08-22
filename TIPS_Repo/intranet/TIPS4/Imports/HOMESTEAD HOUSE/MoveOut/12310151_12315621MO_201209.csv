@@ -1,0 +1,8 @@
+BATCH,,201209,B,6755.0000,
+INVOICE,IN,,12310151,,09/25/2012,3050.0000,"Invoice-Private",,09/25/2012,09/25/2012,,12315621MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,25,103.0000,2575.00,"Basic Service Fee - Studio for Sep: Ideus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,25,19.0000,475.00,"Resident Care - Level 1 for Sep: Ideus, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,12310151,,09/25/2012,3705,"Invoice-Private",,09/25/2012,09/25/2012,,12315621MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3090,3090,"CR:Basic Service F... M.Ideus 201209: Ideus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45,45,"CR:Pendant Fee... M.Ideus 201209: Ideus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,570,570,"CR:Resident Care -... M.Ideus 201209: Ideus, Margaret",,,,,,,,,,,,,,,

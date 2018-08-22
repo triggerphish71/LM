@@ -1,0 +1,5 @@
+BATCH,,201205,B,3782.0000,
+INVOICE,IN,,10210142,,05/01/2012,1891.0000,"Invoice-Private",,05/01/2012,05/10/2012,,10214916MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,31,61.0000,1891.00,"Credit for Limited Term Discount: Torretta, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,10210142,,05/01/2012,1891,"Invoice-Private",,05/01/2012,05/10/2012,,10214916MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,31,61,1891,"Limited Term Discount: Torretta, Margaret",,,,,,,,,,,,,,,

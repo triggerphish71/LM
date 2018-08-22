@@ -1,0 +1,7 @@
+BATCH,,201112,B,1061.7900,
+INVOICE,IN,,01310075,,12/04/2011,111.1600,"Invoice-Medicaid",,12/04/2011,12/04/2011,,01314025MO,-839.4700,,,,,,,,,,
+TRANSACTION,3021,010103013,4,27.7900,111.16,"Medicaid Co-Pay for Dec: Rosalez, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,01310075,,12/04/2011,950.63,"Invoice-Medicaid",,12/04/2011,12/04/2011,,01314025MO,-839.4700,,,,,,,,,,
+TRANSACTION,3021,010103013,1,861.61,861.61,"CR:Medicaid Co-Pay... R.Rosalez 201112: Rosalez, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... R.Rosalez 201112: Rosalez, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,61.02,61.02,"CR:State Medicaid... R.Rosalez 201112: Rosalez, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,302.0000,
+INVOICE,IN,,08010171,,10/01/2011,151.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08013960MO,-567.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Clawson, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,4.0000,124.00,"Credit for Limited Term Discount: Clawson, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,08010171,,10/01/2011,151,"Invoice-Private",,10/01/2011,10/10/2011,,08013960MO,-567.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Clawson, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,4,124,"Limited Term Discount: Clawson, Evelyn",,,,,,,,,,,,,,,

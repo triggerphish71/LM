@@ -1,0 +1,8 @@
+BATCH,,201111,B,4084.0000,
+INVOICE,IN,,03210189,,11/03/2011,369.0000,"Invoice-Private",,11/03/2011,11/03/2011,,03214665MO,-3346.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,3,91.0000,273.00,"Basic Service Fee - Studio for Nov: Hudson, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,3,32.0000,96.00,"Resident Care - Level 2 for Nov: Hudson, Lewis",,,,,,,,,,,,,,,
+INVOICE,CM,,03210189,,11/03/2011,3715,"Invoice-Private",,11/03/2011,11/03/2011,,03214665MO,-3346.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2730,2730,"CR:Basic Service F... L.Hudson 201111: Hudson, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"CR:Monthly Cable... L.Hudson 201111: Hudson, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,960,960,"CR:Resident Care -... L.Hudson 201111: Hudson, Lewis",,,,,,,,,,,,,,,

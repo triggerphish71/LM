@@ -1,0 +1,7 @@
+BATCH,,201104,B,8378.0000,
+INVOICE,IN,,20210145,,04/29/2011,4118.0000,"Invoice-Private",,04/29/2011,04/29/2011,,20212171MO,-4544.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,29,121.0000,3509.00,"One Bedroom for Apr: Carter, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,29,21.0000,609.00,"Resident Care - Level 2 for Apr: Carter, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,20210145,,04/29/2011,4260,"Invoice-Private",,04/29/2011,04/29/2011,,20212171MO,-4544.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,3630,3630,"CR:One Bedroom... B.Carter 201104: Carter, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,630,630,"CR:Resident Care -... B.Carter 201104: Carter, Blanche",,,,,,,,,,,,,,,

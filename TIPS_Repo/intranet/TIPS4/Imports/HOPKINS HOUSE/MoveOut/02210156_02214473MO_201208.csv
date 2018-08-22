@@ -1,0 +1,7 @@
+BATCH,,201208,B,7095.0000,
+INVOICE,IN,,02210156,,08/24/2012,3096.0000,"Invoice-Private",,08/24/2012,08/24/2012,,02214473MO,-4773.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,24,112.0000,2688.00,"Basic Service Fee- One Bedroom Prem for Aug: Glaspey, Murlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,24,17.0000,408.00,"Resident Care - Level 1 for Aug: Glaspey, Murlene",,,,,,,,,,,,,,,
+INVOICE,CM,,02210156,,08/24/2012,3999,"Invoice-Private",,08/24/2012,08/24/2012,,02214473MO,-4773.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3472,3472,"CR:Basic Service F... M.Glaspey 201208: Glaspey, Murlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,527,527,"CR:Resident Care -... M.Glaspey 201208: Glaspey, Murlene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,2460.0000,
+INVOICE,IN,,20610239,,04/01/2012,1230.0000,"Invoice-Private",,04/01/2012,04/10/2012,,20612617MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,30,41.0000,1230.00,"Credit for Limited Term Discount: Pitzonka, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,20610239,,04/01/2012,1230,"Invoice-Private",,04/01/2012,04/10/2012,,20612617MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,30,41,1230,"Limited Term Discount: Pitzonka, Walter",,,,,,,,,,,,,,,

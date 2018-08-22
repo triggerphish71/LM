@@ -1,0 +1,7 @@
+BATCH,,201305,B,2747.0000,
+INVOICE,IN,,17510289,,05/10/2013,670.0000,"Invoice-Private",,05/10/2013,05/10/2013,,17518062MO,-3417.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,10,55.0000,550.00,"Basic Service Fee - Studio Deluxe for May: Ordelheide, Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,10,12.0000,120.00,"Resident Care - Level 1 for May: Ordelheide, Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,17510289,,05/10/2013,2077,"Invoice-Private",,05/10/2013,05/10/2013,,17518062MO,-3417.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1705,1705,"CR:Basic Service F... L.Ordelheide 201305: Ordelheide, Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... L.Ordelheide 201305: Ordelheide, Lou",,,,,,,,,,,,,,,

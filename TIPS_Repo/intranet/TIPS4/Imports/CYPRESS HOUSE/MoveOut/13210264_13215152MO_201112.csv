@@ -1,0 +1,5 @@
+BATCH,,201112,B,54.0000,
+INVOICE,IN,,13210264,,12/01/2011,27.0000,"Invoice-Private",,12/01/2011,12/10/2011,,13215152MO,-5667.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Nolland, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,13210264,,12/01/2011,27,"Invoice-Private",,12/01/2011,12/10/2011,,13215152MO,-5667.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Nolland, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,1703.8000,
+INVOICE,IN,,03010211,,10/30/2012,1703.8000,"MoveIn-Lougheed. Celia",,10/30/2012,10/30/2012,,03014174,4760.8000,,,,,,,,,,
+TRANSACTION,3010,010103030,2,84.0000,168,"Basic Service Fee - Studio: Lougheed. Celia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,2,17.9000,35.8,"Resident Care - Level 10: Lougheed. Celia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,1500.0000,1500,"New Resident Fee: Lougheed. Celia",,,,,,,,,,,,,,,

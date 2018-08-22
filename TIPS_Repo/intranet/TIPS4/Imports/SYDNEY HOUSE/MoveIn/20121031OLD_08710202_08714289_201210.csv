@@ -1,0 +1,5 @@
+BATCH,,201210,B,1011.8500,
+INVOICE,IN,,08710202,,10/31/2012,1011.8500,"MoveIn-Tarin. Josefa",,10/31/2012,10/31/2012,,08714289,4367.3500,,,,,,,,,,
+TRANSACTION,3010,010103087,1,85.0000,85,"Basic Service Fee - Studio: Tarin. Josefa",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103087,1,26.8500,26.85,"Resident Care - Level 15: Tarin. Josefa",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103087,1,900.0000,900,"New Resident Fee: Tarin. Josefa",,,,,,,,,,,,,,,

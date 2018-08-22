@@ -1,0 +1,8 @@
+BATCH,,201202,B,9323.5400,
+INVOICE,IN,,00910081,,02/24/2012,4301.3200,"Invoice-Private",,02/24/2012,02/24/2012,,00913548MO,-5934.4800,,,,,,,,,,
+TRANSACTION,3320,010101009,1,145.0000,145.00,"CR:Limited Term Di... B.Frigaard 201202: Frigaard, Bernette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,24,98.0000,2352.00,"Basic Service Fee - One Bedroom for Feb: Frigaard, Bernette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,24,75.1800,1804.32,"Resident Care - Level 42 for Feb: Frigaard, Bernette",,,,,,,,,,,,,,,
+INVOICE,CM,,00910081,,02/24/2012,5022.22,"Invoice-Private",,02/24/2012,02/24/2012,,00913548MO,-5934.4800,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2842,2842,"CR:Basic Service F... B.Frigaard 201202: Frigaard, Bernette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,2180.22,2180.22,"CR:Resident Care -... B.Frigaard 201202: Frigaard, Bernette",,,,,,,,,,,,,,,

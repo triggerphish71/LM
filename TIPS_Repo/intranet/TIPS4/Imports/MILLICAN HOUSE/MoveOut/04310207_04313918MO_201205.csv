@@ -1,0 +1,5 @@
+BATCH,,201205,B,2666.0000,
+INVOICE,IN,,04310207,,05/01/2012,1333.0000,"Invoice-Private",,05/01/2012,05/10/2012,,04313918MO,-3752.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,31,43.0000,1333.00,"Credit for Limited Term Discount: Alexander, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,04310207,,05/01/2012,1333,"Invoice-Private",,05/01/2012,05/10/2012,,04313918MO,-3752.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,31,43,1333,"Limited Term Discount: Alexander, Dale",,,,,,,,,,,,,,,

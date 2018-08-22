@@ -1,0 +1,7 @@
+BATCH,,201112,B,3835.0000,
+INVOICE,IN,,06010241,,12/01/2011,1098.0000,"Invoice-Private",,12/01/2011,12/10/2011,,06014191MO,-1639.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,837.0000,837.00,"CR:Limited Term Di... D.Yeagley 201112: Yeagley, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,3,87.0000,261.00,"Room and Board - Studio for Dec: Yeagley, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,06010241,,12/01/2011,2737,"Invoice-Private",,12/01/2011,12/10/2011,,06014191MO,-1639.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... D.Yeagley 201112: Yeagley, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2697,2697,"CR:Room and Board ... D.Yeagley 201112: Yeagley, Donald",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,2484.0000,
+INVOICE,IN,,03310260,,02/17/2012,918.0000,"Invoice-Private",,02/17/2012,02/17/2012,,03316334MO,-2322.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,17,37.0000,629.00,"Basic Service Fee - Second Resident for Feb: Gist, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,17,17.0000,289.00,"Resident Care - Level 1 for Feb: Gist, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03310260,,02/17/2012,1566,"Invoice-Private",,02/17/2012,02/17/2012,,03316334MO,-2322.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,1073,1073,"CR:Basic Service F... M.Gist 201202: Gist, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,493,493,"CR:Resident Care -... M.Gist 201202: Gist, Mary",,,,,,,,,,,,,,,

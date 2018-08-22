@@ -1,0 +1,8 @@
+BATCH,,201203,B,5347.0000,
+INVOICE,IN,,05510227,,03/06/2012,1906.0000,"Invoice-Private",,03/06/2012,03/06/2012,,05514283MO,-1535.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,1,1240.0000,1240.00,"CR:Limited Term Di... R.Dotson 201203: Dotson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202055,6,95.0000,570.00,"Basic Service Fee - Studio for Mar: Dotson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,6,16.0000,96.00,"Resident Care - Level 1 for Mar: Dotson, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,05510227,,03/06/2012,3441,"Invoice-Private",,03/06/2012,03/06/2012,,05514283MO,-1535.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2945,2945,"CR:Basic Service F... R.Dotson 201203: Dotson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,496,496,"CR:Resident Care -... R.Dotson 201203: Dotson, Richard",,,,,,,,,,,,,,,

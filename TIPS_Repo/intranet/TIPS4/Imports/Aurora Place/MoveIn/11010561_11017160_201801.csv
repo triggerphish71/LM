@@ -1,0 +1,6 @@
+BATCH,,201801,B,5947.9700,
+INVOICE,IN,,11010561,,01/01/2018,5947.9700,"MoveIn-Valchunas. Fran",,01/01/2018,01/01/2018,,11017160,5947.9700,,,,,,,,,,
+TRANSACTION,3010,010007110,31,105.0000,3255,"Basic Service Fee - Studio         : Valchunas. Fran",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Valchunas. Fran",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,2000.0000,2000,"Community Fee: Valchunas. Fran",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,666.6700,666.67,"Monthly Deferral Charge: Valchunas. Fran",,,,,,,,,,,,,,,

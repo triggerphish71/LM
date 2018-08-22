@@ -1,0 +1,7 @@
+BATCH,,201203,B,3649.0000,
+INVOICE,IN,,53510212,,03/21/2012,3649.0000,"MoveIn-Rundle. Walter",,03/21/2012,03/21/2012,,53514509,6644.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,11,99.0000,1089,"Basic Service Fee - One Bedroom: Rundle. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Rundle. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Rundle. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3213,010319535,1,500.0000,500,"Pet Fee: Rundle. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35.0000,35,"Pendant Fee: Rundle. Walter",,,,,,,,,,,,,,,

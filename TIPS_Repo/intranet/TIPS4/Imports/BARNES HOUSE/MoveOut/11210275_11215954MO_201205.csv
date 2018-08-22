@@ -1,0 +1,8 @@
+BATCH,,201205,B,7117.0000,
+INVOICE,IN,,11210275,,05/05/2012,985.0000,"Invoice-Private",,05/05/2012,05/05/2012,,11215954MO,-5147.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,5,128.0000,640.00,"Basic Service Fee- One Bedroom Prem for May: Ankney, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,5,69.0000,345.00,"Resident Care - Level 4 for May: Ankney, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,11210275,,05/05/2012,6132,"Invoice-Private",,05/05/2012,05/05/2012,,11215954MO,-5147.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3968,3968,"CR:Basic Service F... G.Ankney 201205: Ankney, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... G.Ankney 201205: Ankney, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,2139,2139,"CR:Resident Care -... G.Ankney 201205: Ankney, Glenn",,,,,,,,,,,,,,,

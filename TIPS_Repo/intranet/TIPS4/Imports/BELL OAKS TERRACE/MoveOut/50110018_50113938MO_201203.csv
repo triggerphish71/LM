@@ -1,0 +1,7 @@
+BATCH,,201203,B,928.0000,
+INVOICE,IN,,50110018,,03/01/2012,464.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50113938MO,-6759.4800,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Garrett, Morris",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,14.0000,434.00,"Credit for Limited Term Discount: Garrett, Morris",,,,,,,,,,,,,,,
+INVOICE,CM,,50110018,,03/01/2012,464,"Invoice-Private",,03/01/2012,03/10/2012,,50113938MO,-6759.4800,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Garrett, Morris",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,14,434,"Limited Term Discount: Garrett, Morris",,,,,,,,,,,,,,,

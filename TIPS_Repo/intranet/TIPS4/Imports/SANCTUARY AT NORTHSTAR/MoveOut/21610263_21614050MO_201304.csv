@@ -1,0 +1,7 @@
+BATCH,,201304,B,2706.0000,
+INVOICE,IN,,21610263,,04/03/2013,246.0000,"Invoice-Private",,04/03/2013,04/03/2013,,21614050MO,-2214.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,3,22.0000,66.00,"Resident Care - Level 2 for Apr: Allison, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,3,60.0000,180.00,"Studio Deluxe for Apr: Allison, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,21610263,,04/03/2013,2460,"Invoice-Private",,04/03/2013,04/03/2013,,21614050MO,-2214.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,660,660,"CR:Resident Care -... E.Allison 201304: Allison, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,1800,1800,"CR:Studio Deluxe... E.Allison 201304: Allison, Elizabeth",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,4923.5500,
+INVOICE,IN,,05310241,,02/01/2012,4923.5500,"MoveIn-O'Neil. Bernard",,02/01/2012,02/01/2012,,05314433,4923.5500,,,,,,,,,,
+TRANSACTION,3010,010101053,29,91.0000,2639,"B.O'Neil: Basic Service Fee - Studio: O'Neil. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,29,8.9500,259.55,"B.O'Neil: Resident Care - Level 5: O'Neil. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: O'Neil. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: O'Neil. Bernard",,,,,,,,,,,,,,,

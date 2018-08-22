@@ -1,0 +1,8 @@
+BATCH,,201203,B,6623.0000,
+INVOICE,IN,,21210111,,03/28/2012,3399.0000,"Invoice-Private",,03/28/2012,03/28/2012,,21212432MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,279.0000,279.00,"CR:Limited Term Di... S.Barnes 201203: Barnes, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,30,22.0000,660.00,"Resident Care - Level 2 for Mar: Barnes, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,30,82.0000,2460.00,"Studio for Mar: Barnes, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,21210111,,03/28/2012,3224,"Invoice-Private",,03/28/2012,03/28/2012,,21212432MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,682,682,"CR:Resident Care -... S.Barnes 201203: Barnes, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2542,2542,"CR:Studio... S.Barnes 201203: Barnes, Sarah",,,,,,,,,,,,,,,

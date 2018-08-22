@@ -1,0 +1,6 @@
+BATCH,,201204,B,3780.0000,
+INVOICE,IN,,14110185,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,14113690MO,-3660.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,60.0000,60.00,"CR:Limited Term Di... A.Riffey 201204: Riffey, Ada",,,,,,,,,,,,,,,
+INVOICE,CM,,14110185,,04/01/2012,3720,"Invoice-Private",,04/01/2012,04/10/2012,,14113690MO,-3660.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,3210,3210,"CR:Basic Service F... A.Riffey 201204: Riffey, Ada",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,510,510,"CR:Resident Care -... A.Riffey 201204: Riffey, Ada",,,,,,,,,,,,,,,

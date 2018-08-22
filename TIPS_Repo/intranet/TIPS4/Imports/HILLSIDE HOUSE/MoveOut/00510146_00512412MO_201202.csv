@@ -1,0 +1,8 @@
+BATCH,,201202,B,6995.6800,
+INVOICE,IN,,00510146,,02/21/2012,2498.2000,"Invoice-Private",,02/21/2012,02/21/2012,,00512412MO,-5871.4900,,,,,,,,,,
+TRANSACTION,3020,010101005,20,73.0000,1460.00,"Basic Service Fee - Studio for Feb: Knight, Gorgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,20,51.9100,1038.20,"Resident Care - Level 29 for Feb: Knight, Gorgia",,,,,,,,,,,,,,,
+INVOICE,CM,,00510146,,02/21/2012,4497.48,"Invoice-Private",,02/21/2012,02/21/2012,,00512412MO,-5871.4900,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2044,2044,"CR:Basic Service F... G.Knight 201202: Knight, Gorgia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000,1000,"CR:New Resident Fe... G.Knight 201202: Knight, Gorgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,1453.48,1453.48,"CR:Resident Care -... G.Knight 201202: Knight, Gorgia",,,,,,,,,,,,,,,

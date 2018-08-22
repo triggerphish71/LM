@@ -1,0 +1,5 @@
+BATCH,,201206,B,3785.0000,
+INVOICE,IN,,50310282,,06/01/2012,3785.0000,"MoveIn-Brown. Carolyn",,06/01/2012,06/01/2012,,50314235,3785.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,30,75.0000,2250,"C.Brown: Basic Service Fee - Studio: Brown. Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Brown. Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Brown. Carolyn",,,,,,,,,,,,,,,

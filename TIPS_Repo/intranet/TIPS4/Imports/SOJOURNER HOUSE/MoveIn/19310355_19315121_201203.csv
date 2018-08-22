@@ -1,0 +1,6 @@
+BATCH,,201203,B,5650.0000,
+INVOICE,IN,,19310355,,03/07/2012,5650.0000,"MoveIn-Grgurich. Doris",,03/07/2012,03/07/2012,,19315121,5650.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,25,76.0000,1900,"Basic Service Fee - Studio: Grgurich. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,25,80.0000,2000,"Resident Care - Level 6: Grgurich. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Grgurich. Doris",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,25,10.0000,250,"CC Meals: Grgurich. Doris",,,,,,,,,,,,,,,

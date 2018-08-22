@@ -1,0 +1,5 @@
+BATCH,,201111,B,3989.0000,
+INVOICE,IN,,01510203,,11/14/2011,3989.0000,"MoveIn-Noce 1. James",,11/14/2011,11/14/2011,,01514107,3989.0000,,,,,,,,,,
+TRANSACTION,3010,010103015,17,103.0000,1751,"Basic Service Fee - One Bedroom: Noce 1. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,17,14.0000,238,"Resident Care - Level 8: Noce 1. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: Noce 1. James",,,,,,,,,,,,,,,

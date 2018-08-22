@@ -1,0 +1,7 @@
+BATCH,,201306,B,2376.0000,
+INVOICE,IN,,09210292,,06/01/2013,396.0000,"Invoice-Private",,06/01/2013,06/10/2013,,09215241MO,-1584.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,6,50.0000,300.00,"Basic Service Fee - Studio for Jun: Wallace, Elizbeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,6,16.0000,96.00,"Resident Care - Level 1 for Jun: Wallace, Elizbeth",,,,,,,,,,,,,,,
+INVOICE,CM,,09210292,,06/01/2013,1980,"Invoice-Private",,06/01/2013,06/10/2013,,09215241MO,-1584.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,1500,1500,"CR:Basic Service F... E.Wallace 201306: Wallace, Elizbeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,480,480,"CR:Resident Care -... E.Wallace 201306: Wallace, Elizbeth",,,,,,,,,,,,,,,

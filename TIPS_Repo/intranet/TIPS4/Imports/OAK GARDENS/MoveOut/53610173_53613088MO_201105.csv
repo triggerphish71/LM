@@ -1,0 +1,7 @@
+BATCH,,201105,B,7992.0000,
+INVOICE,IN,,53610173,,05/23/2011,3404.0000,"Invoice-Private",,05/23/2011,05/23/2011,,53613088MO,-5624.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,23,94.0000,2162.00,"Basic Service Fee - Studio for May: Hazen, Emery",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,23,54.0000,1242.00,"Resident Care - Level 4 for May: Hazen, Emery",,,,,,,,,,,,,,,
+INVOICE,CM,,53610173,,05/23/2011,4588,"Invoice-Private",,05/23/2011,05/23/2011,,53613088MO,-5624.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2914,2914,"CR:Basic Service F... E.Hazen 201105: Hazen, Emery",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,1674,1674,"CR:Resident Care -... E.Hazen 201105: Hazen, Emery",,,,,,,,,,,,,,,

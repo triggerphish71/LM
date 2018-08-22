@@ -1,0 +1,6 @@
+BATCH,,201204,B,5252.0000,
+INVOICE,IN,,13210285,,04/06/2012,5252.0000,"MoveIn-Dodson. Elizabeth",,04/06/2012,04/06/2012,,13215399,5252.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,25,99.0000,2475,"Basic Service Fee - Studio: Dodson. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,25,30.0000,750,"Resident Care - Level 2: Dodson. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Dodson. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Dodson. Elizabeth",,,,,,,,,,,,,,,

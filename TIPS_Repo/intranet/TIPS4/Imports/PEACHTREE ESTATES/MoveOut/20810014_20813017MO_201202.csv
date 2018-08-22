@@ -1,0 +1,6 @@
+BATCH,,201202,B,2917.4000,
+INVOICE,IN,,20810014,,02/01/2012,162.4000,"Invoice-Private",,02/01/2012,02/10/2012,,20813017MO,-2687.6000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,162.4000,162.40,"CR:Limited Term Di... L.Cline 201202: Cline, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,20810014,,02/01/2012,2755,"Invoice-Private",,02/01/2012,02/10/2012,,20813017MO,-2687.6000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,348,348,"CR:Resident Care -... L.Cline 201202: Cline, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2407,2407,"CR:Studio Deluxe... L.Cline 201202: Cline, Lawrence",,,,,,,,,,,,,,,

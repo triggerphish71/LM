@@ -1,0 +1,6 @@
+BATCH,,201203,B,6783.0000,
+INVOICE,IN,,13210274,,03/30/2012,3714.0000,"Invoice-Private",,03/30/2012,03/30/2012,,13215396MO,-1632.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,744.0000,744.00,"CR:Limited Term Di... P.Turney 201203: Turney, Paula",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308132,30,99.0000,2970.00,"Basic Service Fee - Studio for Mar: Turney, Paula",,,,,,,,,,,,,,,
+INVOICE,CM,,13210274,,03/30/2012,3069,"Invoice-Private",,03/30/2012,03/30/2012,,13215396MO,-1632.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3069,3069,"CR:Basic Service F... P.Turney 201203: Turney, Paula",,,,,,,,,,,,,,,

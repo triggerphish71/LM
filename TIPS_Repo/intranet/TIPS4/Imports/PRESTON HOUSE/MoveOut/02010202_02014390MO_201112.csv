@@ -1,0 +1,6 @@
+BATCH,,201112,B,4719.0000,
+INVOICE,IN,,02010202,,12/12/2011,1898.0000,"Invoice-Private",,12/12/2011,12/12/2011,,02014390MO,-3837.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,806.0000,806.00,"CR:Limited Term Di... C.Weathers 201112: Weathers, Cecile",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202020,12,91.0000,1092.00,"Basic Service Fee - Studio for Dec: Weathers, Cecile",,,,,,,,,,,,,,,
+INVOICE,CM,,02010202,,12/12/2011,2821,"Invoice-Private",,12/12/2011,12/12/2011,,02014390MO,-3837.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2821,2821,"CR:Basic Service F... C.Weathers 201112: Weathers, Cecile",,,,,,,,,,,,,,,

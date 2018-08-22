@@ -1,0 +1,5 @@
+BATCH,,201209,B,54.0000,
+INVOICE,IN,,03110343,,09/01/2012,27.0000,"Invoice-Private",,09/01/2012,09/10/2012,,03116952MO,-4347.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Fletcher, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,03110343,,09/01/2012,27,"Invoice-Private",,09/01/2012,09/10/2012,,03116952MO,-4347.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Fletcher, Marie",,,,,,,,,,,,,,,

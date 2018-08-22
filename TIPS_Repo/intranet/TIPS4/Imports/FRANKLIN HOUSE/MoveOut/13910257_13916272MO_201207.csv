@@ -1,0 +1,6 @@
+BATCH,,201207,B,2340.0000,
+INVOICE,IN,,13910257,,07/01/2012,1193.0000,"Invoice-Private",,07/01/2012,07/01/2012,,13916272MO,46.0000,,,,,,,,,,
+TRANSACTION,3320,010103139,1,527.0000,527.00,"CR:Limited Term Di... J.Nelson 201207: Nelson, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103139,18,37.0000,666.00,"Basic Service Fee - Second Resident for Jul: Nelson, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,13910257,,07/01/2012,1147,"Invoice-Private",,07/01/2012,07/01/2012,,13916272MO,46.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,1147,1147,"CR:Basic Service F... J.Nelson 201207: Nelson, Janice",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,3718.0000,
+INVOICE,IN,,53210328,,10/01/2011,1859.0000,"Invoice-Private",,10/01/2011,10/10/2011,,53214991MO,-5274.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30.00,"Monthly Cable: Landmann, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319532,31,59.0000,1829.00,"Credit for Limited Term Discount: Landmann, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,53210328,,10/01/2011,1859,"Invoice-Private",,10/01/2011,10/10/2011,,53214991MO,-5274.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"Credit for Monthly Cable: Landmann, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319532,31,59,1829,"Limited Term Discount: Landmann, Helen",,,,,,,,,,,,,,,

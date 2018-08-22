@@ -1,0 +1,6 @@
+BATCH,,201804,B,3000.0000,
+INVOICE,IN,,17810533,,04/01/2018,2000.0000,"Invoice-Private",,04/01/2018,04/10/2018,,17819609MO,-3810.0000,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1000.0000,1000.00,"Community Fee Unpaid Balance: Tweedy, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1000.0000,1000.00,"Community Fee Installment Charge: Tweedy, Maria",,,,,,,,,,,,,,,
+INVOICE,CM,,17810533,,04/01/2018,1000,"Invoice-Private",,04/01/2018,04/10/2018,,17819609MO,-3810.0000,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1000,1000,"Credit for Community Fee Installment Charge: Tweedy, Maria",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,7257.6000,
+INVOICE,IN,,00710168,,11/01/2011,3225.6000,"Invoice-Private",,11/01/2011,11/10/2011,,00713286MO,-806.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,24,80.0000,1920.00,"Basic Service Fee - Studio for Nov: Hunegs, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,24,54.4000,1305.60,"Resident Care - Level 32 for Nov: Hunegs, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,00710168,,11/01/2011,4032,"Invoice-Private",,11/01/2011,11/10/2011,,00713286MO,-806.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2400,2400,"CR:Basic Service F... H.Hunegs 201111: Hunegs, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1632,1632,"CR:Resident Care -... H.Hunegs 201111: Hunegs, Harry",,,,,,,,,,,,,,,

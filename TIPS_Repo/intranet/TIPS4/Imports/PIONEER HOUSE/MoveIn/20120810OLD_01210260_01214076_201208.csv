@@ -1,0 +1,6 @@
+BATCH,,201208,B,4066.0400,
+INVOICE,IN,,01210260,,08/10/2012,4066.0400,"MoveIn-Burney. B.",,08/10/2012,08/10/2012,,01214076,4066.0400,,,,,,,,,,
+TRANSACTION,3010,010103012,22,101.0000,2222,"Basic Service Fee - One Bedroom: Burney. B.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,22,14.3200,315.04,"Resident Care - Level 8: Burney. B.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Burney. B.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Burney. B.",,,,,,,,,,,,,,,

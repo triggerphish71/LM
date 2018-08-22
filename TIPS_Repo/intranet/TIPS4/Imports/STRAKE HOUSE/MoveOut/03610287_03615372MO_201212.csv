@@ -1,0 +1,7 @@
+BATCH,,201212,B,6264.0000,
+INVOICE,IN,,03610287,,12/05/2012,870.0000,"Invoice-Private",,12/05/2012,12/05/2012,,03615372MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,5,101.0000,505.00,"Basic Service Fee - Studio for Dec: Brown, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,5,73.0000,365.00,"Resident Care - Level 5 for Dec: Brown, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,03610287,,12/05/2012,5394,"Invoice-Private",,12/05/2012,12/05/2012,,03615372MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... M.Brown 201212: Brown, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,2263,2263,"CR:Resident Care -... M.Brown 201212: Brown, Michael",,,,,,,,,,,,,,,

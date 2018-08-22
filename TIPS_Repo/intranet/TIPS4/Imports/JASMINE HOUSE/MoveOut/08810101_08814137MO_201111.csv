@@ -1,0 +1,5 @@
+BATCH,,201111,B,2940.0000,
+INVOICE,IN,,08810101,,11/01/2011,1470.0000,"Invoice-Private",,11/01/2011,11/10/2011,,08814137MO,-3131.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,49.0000,1470.00,"Credit for Limited Term Discount: Richer, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,08810101,,11/01/2011,1470,"Invoice-Private",,11/01/2011,11/10/2011,,08814137MO,-3131.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,49,1470,"Limited Term Discount: Richer, Virgil",,,,,,,,,,,,,,,

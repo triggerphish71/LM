@@ -1,0 +1,8 @@
+BATCH,,201305,B,4264.0000,
+INVOICE,IN,,50310271,,05/15/2013,1485.0000,"Invoice-Private",,05/15/2013,05/15/2013,,50314955MO,-4299.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,15,74.0000,1110.00,"Basic Service Fee - Studio for May: Deaton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,15,25.0000,375.00,"Resident Care Level Change for May: Deaton, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,50310271,,05/15/2013,2779,"Invoice-Private",,05/15/2013,05/15/2013,,50314955MO,-4299.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2294,2294,"CR:Basic Service F... R.Deaton 201305: Deaton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... R.Deaton 201305: Deaton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,450,450,"CR:Resident Care L... R.Deaton 201305: Deaton, Robert",,,,,,,,,,,,,,,

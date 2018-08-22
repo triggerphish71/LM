@@ -1,0 +1,6 @@
+BATCH,,201107,B,3416.2000,
+INVOICE,IN,,01810121,,07/01/2011,279.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01812377MO,-2993.0000,,,,,,,,,,
+TRANSACTION,3320,010103018,1,279.0000,279.00,"CR:Limited Term Di... L.Donaldson 201107: Donaldson, Lenore",,,,,,,,,,,,,,,
+INVOICE,CM,,01810121,,07/01/2011,3137.2,"Invoice-Private",,07/01/2011,07/10/2011,,01812377MO,-2993.0000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2294,2294,"CR:Basic Service F... L.Donaldson 201107: Donaldson, Lenore",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,843.2,843.2,"CR:Resident Care -... L.Donaldson 201107: Donaldson, Lenore",,,,,,,,,,,,,,,

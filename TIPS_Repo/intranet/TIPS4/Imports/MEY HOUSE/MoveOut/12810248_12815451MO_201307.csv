@@ -1,0 +1,7 @@
+BATCH,,201307,B,8784.0000,
+INVOICE,IN,,12810248,,07/30/2013,4320.0000,"Invoice-Private",,07/30/2013,07/30/2013,,12815451MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,30,125.0000,3750.00,"Basic Service Fee - Deluxe for Jul: Stover, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,30,19.0000,570.00,"Swan Personal Care - L1 for Jul: Stover, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,12810248,,07/30/2013,4464,"Invoice-Private",,07/30/2013,07/30/2013,,12815451MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3875,3875,"CR:Basic Service F... G.Stover 201307: Stover, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,589,589,"CR:Swan Personal C... G.Stover 201307: Stover, Gerald",,,,,,,,,,,,,,,

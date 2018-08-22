@@ -1,0 +1,7 @@
+BATCH,,201209,B,9072.0000,
+INVOICE,IN,,10910170,,09/26/2012,4212.0000,"Invoice-Private",,09/26/2012,09/26/2012,,10914922MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,26,83.0000,2158.00,"Basic Service Fee - Studio for Sep: Dailey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,26,79.0000,2054.00,"Resident Care - Level 5 for Sep: Dailey, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,10910170,,09/26/2012,4860,"Invoice-Private",,09/26/2012,09/26/2012,,10914922MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2490,2490,"CR:Basic Service F... M.Dailey 201209: Dailey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,2370,2370,"CR:Resident Care -... M.Dailey 201209: Dailey, Mary",,,,,,,,,,,,,,,

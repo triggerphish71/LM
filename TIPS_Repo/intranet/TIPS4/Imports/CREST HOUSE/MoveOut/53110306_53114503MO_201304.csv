@@ -1,0 +1,5 @@
+BATCH,,201304,B,3440.0000,
+INVOICE,CM,,53110306,,04/01/2013,3440,"Invoice-Private",,04/01/2013,04/10/2013,,53114503MO,-3708.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,1200,1200,"CR:Basic Service F... G.Harrison 201304: Harrison, Genevieve",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... G.Harrison 201304: Harrison, Genevieve",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,2220,2220,"CR:Resident Care -... G.Harrison 201304: Harrison, Genevieve",,,,,,,,,,,,,,,

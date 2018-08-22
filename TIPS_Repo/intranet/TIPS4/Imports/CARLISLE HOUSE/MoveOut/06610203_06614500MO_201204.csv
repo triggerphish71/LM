@@ -1,0 +1,7 @@
+BATCH,,201204,B,8496.0000,
+INVOICE,IN,,06610203,,04/29/2012,4176.0000,"Invoice-Private",,04/29/2012,04/29/2012,,06614500MO,-4546.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,29,96.0000,2784.00,"Basic Service Fee - Studio for Apr: Ackerman, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,29,48.0000,1392.00,"Resident Care - Level 3 for Apr: Ackerman, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,06610203,,04/29/2012,4320,"Invoice-Private",,04/29/2012,04/29/2012,,06614500MO,-4546.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2880,2880,"CR:Basic Service F... H.Ackerman 201204: Ackerman, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1440,1440,"CR:Resident Care -... H.Ackerman 201204: Ackerman, Helen",,,,,,,,,,,,,,,

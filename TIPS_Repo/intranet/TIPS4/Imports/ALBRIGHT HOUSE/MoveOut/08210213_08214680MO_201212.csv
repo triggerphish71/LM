@@ -1,0 +1,8 @@
+BATCH,,201212,B,4827.1600,
+INVOICE,IN,,08210213,,12/01/2012,1883.2000,"Invoice-Private",,12/01/2012,12/10/2012,,08214680MO,-1060.7600,,,,,,,,,,
+TRANSACTION,3020,010103082,20,87.0000,1740.00,"Basic Service Fee - Studio for Dec: Rudman, Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,20,7.1600,143.20,"Resident Care - Level 4 for Dec: Rudman, Valerie",,,,,,,,,,,,,,,
+INVOICE,CM,,08210213,,12/01/2012,2943.96,"Invoice-Private",,12/01/2012,12/10/2012,,08214680MO,-1060.7600,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2697,2697,"CR:Basic Service F... V.Rudman 201212: Rudman, Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... V.Rudman 201212: Rudman, Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,221.96,221.96,"CR:Resident Care -... V.Rudman 201212: Rudman, Valerie",,,,,,,,,,,,,,,

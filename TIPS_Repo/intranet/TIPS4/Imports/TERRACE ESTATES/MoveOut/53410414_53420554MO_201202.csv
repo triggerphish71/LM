@@ -1,0 +1,8 @@
+BATCH,,201202,B,7182.0000,
+INVOICE,IN,,53410414,,02/19/2012,2831.0000,"Invoice-Private",,02/19/2012,02/19/2012,,53420554MO,-6169.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,19,71.0000,1349.00,"Basic Service Fee - Studio for Feb: Den Boer, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,19,78.0000,1482.00,"Resident Care - Level 4 for Feb: Den Boer, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,53410414,,02/19/2012,4351,"Invoice-Private",,02/19/2012,02/19/2012,,53420554MO,-6169.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2059,2059,"CR:Basic Service F... B.Den Boer 201202: Den Boer, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... B.Den Boer 201202: Den Boer, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2262,2262,"CR:Resident Care -... B.Den Boer 201202: Den Boer, Betty",,,,,,,,,,,,,,,

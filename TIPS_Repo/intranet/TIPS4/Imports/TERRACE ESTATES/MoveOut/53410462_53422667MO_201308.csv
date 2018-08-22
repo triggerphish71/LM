@@ -1,0 +1,5 @@
+BATCH,,201308,B,418.0000,
+INVOICE,IN,,53410462,,08/05/2013,77.0000,"Invoice-Private",,08/05/2013,08/05/2013,,53422667MO,-264.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,7,11.0000,77.00,"Basic Service Fee - Second Resident for Aug: Schultz, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,53410462,,08/05/2013,341,"Invoice-Private",,08/05/2013,08/05/2013,,53422667MO,-264.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,341,341,"CR:Basic Service F... M.Schultz 201308: Schultz, Marjorie",,,,,,,,,,,,,,,

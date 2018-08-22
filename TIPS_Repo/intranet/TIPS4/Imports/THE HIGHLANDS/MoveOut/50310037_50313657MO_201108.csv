@@ -1,0 +1,8 @@
+BATCH,,201108,B,3819.0000,
+INVOICE,IN,,50310037,,08/13/2011,1118.0000,"Invoice-Private",,08/13/2011,08/13/2011,,50313657MO,-1548.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,13,72.0000,936.00,"Basic Service Fee - Studio for Aug: Rodkey, Nina Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,13,14.0000,182.00,"Resident Care - Level 1 for Aug: Rodkey, Nina Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,50310037,,08/13/2011,2701,"Invoice-Private",,08/13/2011,08/13/2011,,50313657MO,-1548.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2232,2232,"CR:Basic Service F... N.Rodkey 201108: Rodkey, Nina Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... N.Rodkey 201108: Rodkey, Nina Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... N.Rodkey 201108: Rodkey, Nina Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,4677.0000,
+INVOICE,IN,,17110196,,08/01/2012,155.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17115255MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,155.0000,155.00,"CR:Limited Term Di... W.Beard 201208: Beard, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,17110196,,08/01/2012,4522,"Invoice-Private",,08/01/2012,08/10/2012,,17115255MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3596,3596,"CR:Basic Service F... W.Beard 201208: Beard, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... W.Beard 201208: Beard, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,899,899,"CR:Resident Care -... W.Beard 201208: Beard, Wayne",,,,,,,,,,,,,,,

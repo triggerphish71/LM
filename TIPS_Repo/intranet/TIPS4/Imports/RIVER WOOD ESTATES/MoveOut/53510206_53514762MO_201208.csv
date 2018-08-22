@@ -1,0 +1,8 @@
+BATCH,,201208,B,4359.0000,
+INVOICE,IN,,53510206,,08/06/2012,702.0000,"Invoice-Private",,08/06/2012,08/06/2012,,53514762MO,-2955.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,6,101.0000,606.00,"Basic Service Fee - One Bedroom Del for Aug: Richter, Anton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,6,16.0000,96.00,"Resident Care - Level 1 for Aug: Richter, Anton",,,,,,,,,,,,,,,
+INVOICE,CM,,53510206,,08/06/2012,3657,"Invoice-Private",,08/06/2012,08/06/2012,,53514762MO,-2955.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3131,3131,"CR:Basic Service F... A.Richter 201208: Richter, Anton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... A.Richter 201208: Richter, Anton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,496,496,"CR:Resident Care -... A.Richter 201208: Richter, Anton",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,3415.0000,
+INVOICE,IN,,11110331,,11/01/2012,3415.0000,"November_Rent-Alcala. Martha",,11/01/2012,11/10/2012,,11115009,5922.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,30,97.0000,2910,"Basic Service Fee - Studio: Alcala. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,30,16.0000,480,"Resident Care - Level 1: Alcala. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Alcala. Martha",,,,,,,,,,,,,,,

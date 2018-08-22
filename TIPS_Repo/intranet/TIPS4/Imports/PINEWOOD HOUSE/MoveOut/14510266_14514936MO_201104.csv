@@ -1,0 +1,6 @@
+BATCH,,201104,B,2264.0000,
+INVOICE,IN,,14510266,,04/28/2011,1124.0000,"Invoice-Private",,04/28/2011,04/28/2011,,14514936MO,-1132.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,60.0000,60.00,"CR:Limited Term Di... D.Crosby 201104: Crosby, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,28,38.0000,1064.00,"Basic Service Fee - Second Resident for Apr: Crosby, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,14510266,,04/28/2011,1140,"Invoice-Private",,04/28/2011,04/28/2011,,14514936MO,-1132.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,1140,1140,"CR:Basic Service F... D.Crosby 201104: Crosby, Doris",,,,,,,,,,,,,,,

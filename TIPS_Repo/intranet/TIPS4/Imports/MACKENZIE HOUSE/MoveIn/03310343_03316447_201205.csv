@@ -1,0 +1,5 @@
+BATCH,,201205,B,4210.0000,
+INVOICE,IN,,03310343,,05/01/2012,4210.0000,"May_Rent-Blair. James",,05/01/2012,05/10/2012,,03316447,6930.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,31,94.0000,2914,"Basic Service Fee - Studio: Blair. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202033,31,41.0000,1271,"Resident Care - Level 3: Blair. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Blair. James",,,,,,,,,,,,,,,

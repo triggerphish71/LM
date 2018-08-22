@@ -1,0 +1,7 @@
+BATCH,,201201,B,7140.0000,
+INVOICE,IN,,21410323,,01/07/2012,3451.0000,"Invoice-Private",,01/07/2012,01/07/2012,,21417090MO,-238.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,29,12.0000,348.00,"Resident Care - Level 1 for Jan: Hobbs, Flo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,29,107.0000,3103.00,"Studio Suite for Jan: Hobbs, Flo",,,,,,,,,,,,,,,
+INVOICE,CM,,21410323,,01/07/2012,3689,"Invoice-Private",,01/07/2012,01/07/2012,,21417090MO,-238.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,372,372,"CR:Resident Care -... F.Hobbs 201201: Hobbs, Flo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,3317,3317,"CR:Studio Suite... F.Hobbs 201201: Hobbs, Flo",,,,,,,,,,,,,,,

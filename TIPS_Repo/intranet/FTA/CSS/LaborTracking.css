@@ -1,0 +1,40 @@
+	
+div#tbl-container {
+	height: expression(getReportTableHeight());
+	width: expression(screen.availWidth - 90);
+	overflow: auto;
+	scrollbar-base-color: darkgray;
+}
+
+table#tbl {
+	height: expression(getReportTablePct());
+	width: 2800px;
+	table-layout: fixed;
+	border-collapse: collapse;
+	top: -2;
+	left: -3px;
+	position: relative;
+}
+
+
+thead th, thead th.locked, tfoot td, tfoot td.locked	{
+	position:relative;
+	cursor: default; 
+}
+	
+thead th {
+	top: expression(document.getElementById("tbl-container").scrollTop+1); /* IE5+ only */
+	z-index: 20;
+}
+
+
+td.locked,  th.locked{
+	left: expression(parentNode.parentNode.parentNode.parentNode.scrollLeft+2); /* IE5+ only */
+	position: relative;
+	z-index: 10;
+}
+
+thead th.locked 
+{
+	z-index: 35;
+}

@@ -1,0 +1,5 @@
+BATCH,,201302,B,4970.0000,
+INVOICE,IN,,14710285,,02/01/2013,4970.0000,"February_Rent-King  III. Clark",,02/01/2013,02/10/2013,,14716032,7476.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,28,102.0000,2856,"Basic Service Fee - Studio: King  III. Clark",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310147,28,74.0000,2072,"Resident Care - Level 5: King  III. Clark",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: King  III. Clark",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,8839.6500,
+INVOICE,IN,,00310173,,04/01/2012,4005.7500,"Invoice-Private",,04/01/2012,04/10/2012,,00314214MO,-828.1500,,,,,,,,,,
+TRANSACTION,3020,010101003,25,94.0000,2350.00,"Basic Service Fee - One Bedroom for Apr: Cogan, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,25,66.2300,1655.75,"Resident Care - Level 37 for Apr: Cogan, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,00310173,,04/01/2012,4833.9,"Invoice-Private",,04/01/2012,04/10/2012,,00314214MO,-828.1500,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2820,2820,"CR:Basic Service F... N.Cogan 201204: Cogan, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... N.Cogan 201204: Cogan, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,1986.9,1986.9,"CR:Resident Care -... N.Cogan 201204: Cogan, Nellie",,,,,,,,,,,,,,,

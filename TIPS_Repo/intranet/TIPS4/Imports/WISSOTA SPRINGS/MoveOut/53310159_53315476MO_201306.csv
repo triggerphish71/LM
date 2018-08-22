@@ -1,0 +1,6 @@
+BATCH,,201306,B,3140.0000,
+INVOICE,IN,,53310159,,06/01/2013,445.0000,"Invoice-Private",,06/01/2013,06/10/2013,,53315476MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,5,89.0000,445.00,"Basic Service Fee - Studio for Jun: Borneman, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,53310159,,06/01/2013,2695,"Invoice-Private",,06/01/2013,06/10/2013,,53315476MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2670,2670,"CR:Basic Service F... B.Borneman 201306: Borneman, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... B.Borneman 201306: Borneman, Bill",,,,,,,,,,,,,,,

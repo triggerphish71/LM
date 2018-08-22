@@ -1,0 +1,5 @@
+BATCH,,201112,B,3466.0000,
+INVOICE,IN,,50510104,,12/01/2011,3466.0000,"December_Rent-McGlone. Mary",,12/01/2011,12/10/2011,,50511518,6323.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,31,96.0000,2976,"M.McGlone: Basic Service Fee - Studio Premium: McGlone. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,31,15.0000,465,"M.McGlone: Resident Care - Level 1: McGlone. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: McGlone. Mary",,,,,,,,,,,,,,,

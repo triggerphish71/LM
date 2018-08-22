@@ -1,0 +1,8 @@
+BATCH,,201301,B,9468.1000,
+INVOICE,IN,,10410185,,01/24/2013,4166.4800,"Invoice-Private",,01/24/2013,01/24/2013,,10415204MO,-5867.7000,,,,,,,,,,
+TRANSACTION,3320,010101104,1,62.0000,62.00,"CR:Limited Term Di... M.Snyder 201301: Snyder, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101104,24,103.0000,2472.00,"Basic Service Fee - One Bedroom for Jan: Snyder, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,24,68.0200,1632.48,"Resident Care - Level 38 for Jan: Snyder, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,10410185,,01/24/2013,5301.62,"Invoice-Private",,01/24/2013,01/24/2013,,10415204MO,-5867.7000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,3193,3193,"CR:Basic Service F... M.Snyder 201301: Snyder, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,2108.62,2108.62,"CR:Resident Care -... M.Snyder 201301: Snyder, Marguerite",,,,,,,,,,,,,,,

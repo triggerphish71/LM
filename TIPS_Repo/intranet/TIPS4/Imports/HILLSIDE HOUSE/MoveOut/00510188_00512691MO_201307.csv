@@ -1,0 +1,7 @@
+BATCH,,201307,B,4691.7500,
+INVOICE,IN,,00510188,,07/04/2013,536.2000,"Invoice-Private",,07/04/2013,07/04/2013,,00512691MO,-3619.3500,,,,,,,,,,
+TRANSACTION,3020,010101005,4,73.0000,292.00,"Basic Service Fee - Studio for Jul: Hagerman, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,4,61.0500,244.20,"Resident Care - Level 33 for Jul: Hagerman, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,00510188,,07/04/2013,4155.55,"Invoice-Private",,07/04/2013,07/04/2013,,00512691MO,-3619.3500,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2263,2263,"CR:Basic Service F... B.Hagerman 201307: Hagerman, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,1892.55,1892.55,"CR:Resident Care -... B.Hagerman 201307: Hagerman, Barbara",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,240.0000,
+INVOICE,IN,,03610228,,10/01/2011,120.0000,"Invoice-Private",,10/01/2011,10/10/2011,,03614815MO,-4697.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Daigle, Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,31,3.0000,93.00,"Credit for Limited Term Discount: Daigle, Carroll",,,,,,,,,,,,,,,
+INVOICE,CM,,03610228,,10/01/2011,120,"Invoice-Private",,10/01/2011,10/10/2011,,03614815MO,-4697.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Daigle, Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,31,3,93,"Limited Term Discount: Daigle, Carroll",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,5654.0000,
+INVOICE,IN,,17910221,,07/31/2012,1872.0000,"MoveIn-Richard. Beulah",,07/31/2012,07/31/2012,,17915055,5654.0000,,,,,,,,,,
+TRANSACTION,3014,010313179,1,82.0000,82,"B.Richard: Basic Service Fee - Studio: Richard. Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313179,1,40.0000,40,"B.Richard: Resident Care - Level 3: Richard. Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313179,1,1750.0000,1750,"New Resident Fee: Richard. Beulah",,,,,,,,,,,,,,,
+INVOICE,IN,,17910221,,08/01/2012,3782.0000,"August_Rent-Richard. Beulah",,08/01/2012,08/10/2012,,17915055,5654.0000,,,,,,,,,,
+TRANSACTION,3010,010313179,31,82.0000,2542,"B.Richard: Basic Service Fee - Studio: Richard. Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313179,31,40.0000,1240,"B.Richard: Resident Care - Level 3: Richard. Beulah",,,,,,,,,,,,,,,

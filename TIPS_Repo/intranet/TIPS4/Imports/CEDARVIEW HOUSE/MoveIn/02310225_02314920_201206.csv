@@ -1,0 +1,5 @@
+BATCH,,201206,B,4875.0000,
+INVOICE,IN,,02310225,,06/01/2012,4875.0000,"MoveIn-Todd. Oscar",,06/01/2012,06/01/2012,,02314920,4875.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,30,95.0000,2850,"Basic Service Fee - Studio: Todd. Oscar",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Todd. Oscar",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Todd. Oscar",,,,,,,,,,,,,,,

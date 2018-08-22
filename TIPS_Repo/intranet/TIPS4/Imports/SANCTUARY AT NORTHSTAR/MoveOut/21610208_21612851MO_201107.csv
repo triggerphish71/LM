@@ -1,0 +1,5 @@
+BATCH,,201107,B,2728.0000,
+INVOICE,IN,,21610208,,07/01/2011,1364.0000,"Invoice-Private",,07/01/2011,07/10/2011,,21612851MO,-571.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,44.0000,1364.00,"Credit for Limited Term Discount: Colston, Mrs. Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610208,,07/01/2011,1364,"Invoice-Private",,07/01/2011,07/10/2011,,21612851MO,-571.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,44,1364,"Limited Term Discount: Colston, Mrs. Willie",,,,,,,,,,,,,,,

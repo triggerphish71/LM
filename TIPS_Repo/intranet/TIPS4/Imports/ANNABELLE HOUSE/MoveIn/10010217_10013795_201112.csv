@@ -1,0 +1,5 @@
+BATCH,,201112,B,3660.0000,
+INVOICE,IN,,10010217,,12/01/2011,3660.0000,"MoveIn-Osa. Lucia",,12/01/2011,12/01/2011,,10013795,3660.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,31,85.0000,2635,"L.Osa: Basic Service Fee - Studio: Osa. Lucia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Osa. Lucia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,1000.0000,1000,"New Resident Fee: Osa. Lucia",,,,,,,,,,,,,,,

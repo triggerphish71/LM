@@ -1,0 +1,5 @@
+BATCH,,201203,B,688.2000,
+INVOICE,IN,,53410417,,03/01/2012,344.1000,"Invoice-Private",,03/01/2012,03/10/2012,,53420410MO,-2955.1000,,,,,,,,,,
+TRANSACTION,3316,010319534,31,11.1000,344.10,"Credit for Employee Discount: Shopofski, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53410417,,03/01/2012,344.1,"Invoice-Private",,03/01/2012,03/10/2012,,53420410MO,-2955.1000,,,,,,,,,,
+TRANSACTION,3316,010319534,31,11.1,344.1,"Employee Discount: Shopofski, John",,,,,,,,,,,,,,,

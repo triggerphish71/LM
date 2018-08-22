@@ -1,0 +1,5 @@
+BATCH,,201108,B,4551.0000,
+INVOICE,CM,,07810232,,08/01/2011,4551,"Invoice-Private",,08/01/2011,08/10/2011,,07814317MO,-4989.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2759,2759,"CR:Basic Service F... R.Hall 201108: Hall, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... R.Hall 201108: Hall, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1767,1767,"CR:Resident Care -... R.Hall 201108: Hall, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,8504.0000,
+INVOICE,IN,,15510261,,05/30/2013,4170.0000,"Invoice-Private",,05/30/2013,05/30/2013,,15515855MO,-4359.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,30,90.0000,2700.00,"Basic Service Fee - Studio for May: Belichak, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,30,49.0000,1470.00,"Resident Care - Level 3 for May: Belichak, Mike",,,,,,,,,,,,,,,
+INVOICE,CM,,15510261,,05/30/2013,4334,"Invoice-Private",,05/30/2013,05/30/2013,,15515855MO,-4359.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2790,2790,"CR:Basic Service F... M.Belichak 201305: Belichak, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... M.Belichak 201305: Belichak, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1519,1519,"CR:Resident Care -... M.Belichak 201305: Belichak, Mike",,,,,,,,,,,,,,,

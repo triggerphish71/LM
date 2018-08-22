@@ -1,0 +1,7 @@
+BATCH,,201204,B,790.4400,
+INVOICE,IN,,07810101,,04/01/2012,395.2200,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07814476MO,-1818.6200,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25.00,"Monthly Cable: MacPherson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104078,1,370.2200,370.22,"State Medicaid: MacPherson, Myrtle",,,,,,,,,,,,,,,
+INVOICE,CM,,07810101,,04/01/2012,395.22,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07814476MO,-1818.6200,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"Credit for Monthly Cable: MacPherson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104078,1,370.22,370.22,"Credit for State Medicaid: MacPherson, Myrtle",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201303,B,3502.0000,
+INVOICE,IN,,07310264,,03/19/2013,3502.0000,"MoveIn-Skinner. Henrietta",,03/19/2013,03/19/2013,,07316076,6942.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,13,97.0000,1261,"Basic Service Fee - Studio: Skinner. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,13,17.0000,221,"Resident Care - Level 1: Skinner. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Skinner. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000.0000,2000,"New Resident Fee: Skinner. Henrietta",,,,,,,,,,,,,,,

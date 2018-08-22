@@ -1,0 +1,7 @@
+BATCH,,201212,B,442.0000,
+INVOICE,IN,,19210187,,12/01/2012,221.0000,"Invoice-Private",,12/01/2012,12/10/2012,,19215487MO,-5110.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,31,6.0000,186.00,"Credit for Limited Term Discount: Allee, Leotta",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35.0000,35.00,"Pendant Fee: Allee, Leotta",,,,,,,,,,,,,,,
+INVOICE,CM,,19210187,,12/01/2012,221,"Invoice-Private",,12/01/2012,12/10/2012,,19215487MO,-5110.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,31,6,186,"Limited Term Discount: Allee, Leotta",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"Credit for Pendant Fee: Allee, Leotta",,,,,,,,,,,,,,,

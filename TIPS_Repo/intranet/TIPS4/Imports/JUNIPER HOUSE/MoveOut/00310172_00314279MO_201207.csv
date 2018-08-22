@@ -1,0 +1,8 @@
+BATCH,,201207,B,6093.0100,
+INVOICE,IN,,00310172,,07/02/2012,1692.8400,"Invoice-Private",,07/02/2012,07/02/2012,,00314279MO,-2707.3300,,,,,,,,,,
+TRANSACTION,3020,010101003,12,82.0000,984.00,"Basic Service Fee - Studio for Jul: Bostwick, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,12,59.0700,708.84,"Resident Care - Level 33 for Jul: Bostwick, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,00310172,,07/02/2012,4400.17,"Invoice-Private",,07/02/2012,07/02/2012,,00314279MO,-2707.3300,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2542,2542,"CR:Basic Service F... J.Bostwick 201207: Bostwick, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... J.Bostwick 201207: Bostwick, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,1831.17,1831.17,"CR:Resident Care -... J.Bostwick 201207: Bostwick, Jim",,,,,,,,,,,,,,,

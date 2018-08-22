@@ -1,0 +1,7 @@
+BATCH,,201109,B,5487.0000,
+INVOICE,IN,,06610136,,09/01/2011,177.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06614158MO,-5133.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,93.0000,93.00,"Basic Service Fee - Studio for Sep: Frum, Dora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,84.0000,84.00,"Resident Care - Level 6 for Sep: Frum, Dora",,,,,,,,,,,,,,,
+INVOICE,CM,,06610136,,09/01/2011,5310,"Invoice-Private",,09/01/2011,09/10/2011,,06614158MO,-5133.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2790,2790,"CR:Basic Service F... D.Frum 201109: Frum, Dora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2520,2520,"CR:Resident Care -... D.Frum 201109: Frum, Dora",,,,,,,,,,,,,,,

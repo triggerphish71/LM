@@ -1,0 +1,7 @@
+BATCH,,201205,B,4189.0000,
+INVOICE,IN,,13310302,,05/01/2012,310.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13315373MO,-4916.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,1,310.0000,310.00,"CR:Limited Term Di... V.D'Amato 201205: D'Amato, Venetia",,,,,,,,,,,,,,,
+INVOICE,CM,,13310302,,05/01/2012,3879,"Invoice-Private",,05/01/2012,05/10/2012,,13315373MO,-4916.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... V.D'Amato 201205: D'Amato, Venetia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... V.D'Amato 201205: D'Amato, Venetia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... V.D'Amato 201205: D'Amato, Venetia",,,,,,,,,,,,,,,

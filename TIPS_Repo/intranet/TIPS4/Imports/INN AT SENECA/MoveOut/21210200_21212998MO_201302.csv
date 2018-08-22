@@ -1,0 +1,8 @@
+BATCH,,201302,B,6806.0000,
+INVOICE,IN,,21210200,,02/22/2013,3026.0000,"Invoice-Private",,02/22/2013,02/22/2013,,21212998MO,-4939.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,56.0000,56.00,"CR:Limited Term Di... D.McCuan 201302: McCuan, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,22,43.0000,946.00,"Resident Care - Level 4 for Feb: McCuan, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,22,92.0000,2024.00,"Room and Board - Studio Deluxe for Feb: McCuan, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21210200,,02/22/2013,3780,"Invoice-Private",,02/22/2013,02/22/2013,,21212998MO,-4939.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1204,1204,"CR:Resident Care -... D.McCuan 201302: McCuan, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2576,2576,"CR:Room and Board ... D.McCuan 201302: McCuan, David",,,,,,,,,,,,,,,

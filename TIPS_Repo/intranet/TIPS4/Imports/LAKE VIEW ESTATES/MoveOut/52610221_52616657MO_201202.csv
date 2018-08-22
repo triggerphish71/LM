@@ -1,0 +1,8 @@
+BATCH,,201202,B,5764.0000,
+INVOICE,IN,,52610221,,02/18/2012,2196.0000,"Invoice-Private",,02/18/2012,02/18/2012,,52616657MO,-5184.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,18,84.0000,1512.00,"Basic Service Fee - One Bedroom for Feb: Blakely, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,18,38.0000,684.00,"Resident Care - Level 1 for Feb: Blakely, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,52610221,,02/18/2012,3568,"Invoice-Private",,02/18/2012,02/18/2012,,52616657MO,-5184.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2436,2436,"CR:Basic Service F... E.Blakely 201202: Blakely, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... E.Blakely 201202: Blakely, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1102,1102,"CR:Resident Care -... E.Blakely 201202: Blakely, Esther",,,,,,,,,,,,,,,

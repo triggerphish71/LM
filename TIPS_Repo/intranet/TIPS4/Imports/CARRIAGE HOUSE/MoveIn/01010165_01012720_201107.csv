@@ -1,0 +1,4 @@
+BATCH,,201107,B,3280.0000,
+INVOICE,IN,,01010165,,07/08/2011,3280.0000,"MoveIn-Gibson. Clara",,07/08/2011,07/08/2011,,01012720,3280.0000,,,,,,,,,,
+TRANSACTION,3010,010101010,24,95.0000,2280,"Basic Service Fee - One Bedroom    : Gibson. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,1000.0000,1000,"New Resident Fee: Gibson. Clara",,,,,,,,,,,,,,,

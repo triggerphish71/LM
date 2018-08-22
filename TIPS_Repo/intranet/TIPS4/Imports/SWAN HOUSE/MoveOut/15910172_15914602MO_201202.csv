@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,15910172,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,15914602MO,-1502.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Loneman, Merlin",,,,,,,,,,,,,,,
+INVOICE,CM,,15910172,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,15914602MO,-1502.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Loneman, Merlin",,,,,,,,,,,,,,,

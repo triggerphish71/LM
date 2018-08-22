@@ -1,0 +1,8 @@
+BATCH,,201210,B,3678.0000,
+INVOICE,IN,,21410114,,10/01/2012,175.0000,"Invoice-Private",,10/01/2012,10/01/2012,,21417914MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,62.0000,62.00,"CR:Limited Term Di... A.Sankey 201210: Sankey, Annesse",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,1,23.0000,23.00,"Resident Care - Level 2 for Oct: Sankey, Annesse",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,90.0000,90.00,"Studio AL B for Oct: Sankey, Annesse",,,,,,,,,,,,,,,
+INVOICE,CM,,21410114,,10/01/2012,3503,"Invoice-Private",,10/01/2012,10/01/2012,,21417914MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... A.Sankey 201210: Sankey, Annesse",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Studio AL B... A.Sankey 201210: Sankey, Annesse",,,,,,,,,,,,,,,

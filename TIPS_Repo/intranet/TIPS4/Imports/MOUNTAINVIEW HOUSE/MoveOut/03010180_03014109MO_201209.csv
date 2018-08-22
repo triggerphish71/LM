@@ -1,0 +1,8 @@
+BATCH,,201209,B,3773.8000,
+INVOICE,IN,,03010180,,09/01/2012,179.8000,"Invoice-Private",,09/01/2012,09/01/2012,,03014109MO,-3414.2000,,,,,,,,,,
+TRANSACTION,3320,010103030,1,60.0000,60.00,"CR:Limited Term Di... H.Leroy 201209: Leroy, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103030,1,84.0000,84.00,"Basic Service Fee - Studio for Sep: Leroy, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,35.8000,35.80,"Resident Care - Level 20 for Sep: Leroy, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,03010180,,09/01/2012,3594,"Invoice-Private",,09/01/2012,09/01/2012,,03014109MO,-3414.2000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2520,2520,"CR:Basic Service F... H.Leroy 201209: Leroy, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,1074,1074,"CR:Resident Care -... H.Leroy 201209: Leroy, Howard",,,,,,,,,,,,,,,

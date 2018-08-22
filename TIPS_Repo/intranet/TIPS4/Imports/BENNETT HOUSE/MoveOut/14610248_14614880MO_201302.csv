@@ -1,0 +1,7 @@
+BATCH,,201302,B,6042.0000,
+INVOICE,IN,,14610248,,02/16/2013,2792.0000,"Invoice-Private",,02/16/2013,02/16/2013,,14614880MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3320,010309146,1,952.0000,952.00,"CR:Limited Term Di... L.Temple 201302: Temple, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309146,16,115.0000,1840.00,"Room and Board - One Bedroom for Feb: Temple, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,14610248,,02/16/2013,3250,"Invoice-Private",,02/16/2013,02/16/2013,,14614880MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... L.Temple 201302: Temple, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309146,1,3220,3220,"CR:Room and Board ... L.Temple 201302: Temple, Lawrence",,,,,,,,,,,,,,,

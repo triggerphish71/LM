@@ -1,0 +1,8 @@
+BATCH,,201210,B,5945.0000,
+INVOICE,IN,,04110250,,09/27/2012,2008.0000,"MoveIn-Pippin. Mike",,09/27/2012,09/27/2012,,04114586,5945.0000,,,,,,,,,,
+TRANSACTION,3014,010202041,4,82.0000,328,"Basic Service Fee - Studio: Pippin. Mike",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,4,45.0000,180,"Resident Care - Level 3: Pippin. Mike",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Pippin. Mike",,,,,,,,,,,,,,,
+INVOICE,IN,,04110250,,10/01/2012,3937.0000,"October_Rent-Pippin. Mike",,10/01/2012,10/10/2012,,04114586,5945.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,31,82.0000,2542,"Basic Service Fee - Studio: Pippin. Mike",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,31,45.0000,1395,"Resident Care - Level 3: Pippin. Mike",,,,,,,,,,,,,,,

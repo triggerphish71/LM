@@ -1,0 +1,7 @@
+BATCH,,201305,B,3880.0000,
+INVOICE,IN,,04610211,,05/09/2013,873.0000,"Invoice-Private",,05/09/2013,05/09/2013,,04613911MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,9,65.0000,585.00,"Basic Service Fee - Studio for May: Muckleroy, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,9,32.0000,288.00,"Resident Care - Level 2 for May: Muckleroy, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,04610211,,05/09/2013,3007,"Invoice-Private",,05/09/2013,05/09/2013,,04613911MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,2015,2015,"CR:Basic Service F... S.Muckleroy 201305: Muckleroy, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,992,992,"CR:Resident Care -... S.Muckleroy 201305: Muckleroy, Sue",,,,,,,,,,,,,,,

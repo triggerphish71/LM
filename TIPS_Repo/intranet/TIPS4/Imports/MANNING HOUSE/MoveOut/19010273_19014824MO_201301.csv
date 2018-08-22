@@ -1,0 +1,6 @@
+BATCH,,201301,B,3555.0000,
+INVOICE,IN,,19010273,,01/05/2013,490.0000,"Invoice-Private",,01/05/2013,01/05/2013,,19014824MO,-2575.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,5,98.0000,490.00,"Basic Service Fee - Studio for Jan: Lord, Delma",,,,,,,,,,,,,,,
+INVOICE,CM,,19010273,,01/05/2013,3065,"Invoice-Private",,01/05/2013,01/05/2013,,19014824MO,-2575.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... D.Lord 201301: Lord, Delma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... D.Lord 201301: Lord, Delma",,,,,,,,,,,,,,,

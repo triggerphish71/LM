@@ -1,0 +1,7 @@
+BATCH,,201206,B,8478.0000,
+INVOICE,IN,,06510190,,06/24/2012,3768.0000,"Invoice-Private",,06/24/2012,06/24/2012,,06514701MO,-5809.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,24,120.0000,2880.00,"M.Simpson: Basic Service Fee- One Bedroom Prem : Simpson, Margene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,24,37.0000,888.00,"M.Simpson: Resident Care - Level 2 for Jun: Simpson, Margene",,,,,,,,,,,,,,,
+INVOICE,CM,,06510190,,06/24/2012,4710,"Invoice-Private",,06/24/2012,06/24/2012,,06514701MO,-5809.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3600,3600,"CR:M.Simpson: Basi... M.Simpson 201206: Simpson, Margene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1110,1110,"CR:M.Simpson: Resi... M.Simpson 201206: Simpson, Margene",,,,,,,,,,,,,,,

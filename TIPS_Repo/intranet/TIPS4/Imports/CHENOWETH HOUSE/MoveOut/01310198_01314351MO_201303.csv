@@ -1,0 +1,8 @@
+BATCH,,201303,B,4794.2500,
+INVOICE,IN,,01310198,,03/10/2013,1162.5000,"Invoice-Private",,03/10/2013,03/10/2013,,01314351MO,-2469.2500,,,,,,,,,,
+TRANSACTION,3020,010103013,10,70.0000,700.00,"Basic Service Fee - One Bedroom for Mar: Hope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,10,46.2500,462.50,"Resident Care - Level 25 for Mar: Hope, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,01310198,,03/10/2013,3631.75,"Invoice-Private",,03/10/2013,03/10/2013,,01314351MO,-2469.2500,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2170,2170,"CR:Basic Service F... C.Hope 201303: Hope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... C.Hope 201303: Hope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1433.75,1433.75,"CR:Resident Care -... C.Hope 201303: Hope, Charles",,,,,,,,,,,,,,,

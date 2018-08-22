@@ -1,0 +1,8 @@
+BATCH,,201107,B,5131.0000,
+INVOICE,IN,,04310185,,07/10/2011,1665.0000,"Invoice-Private",,07/10/2011,07/10/2011,,04313649MO,-1801.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,15,95.0000,1425.00,"Basic Service Fee - Studio for Jul: McDaniel, Irmgard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,15,16.0000,240.00,"Resident Care - Level 1 for Jul: McDaniel, Irmgard",,,,,,,,,,,,,,,
+INVOICE,CM,,04310185,,07/10/2011,3466,"Invoice-Private",,07/10/2011,07/10/2011,,04313649MO,-1801.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2945,2945,"CR:Basic Service F... I.McDaniel 201107: McDaniel, Irmgard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25,25,"CR:Monthly Cable... I.McDaniel 201107: McDaniel, Irmgard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,496,496,"CR:Resident Care -... I.McDaniel 201107: McDaniel, Irmgard",,,,,,,,,,,,,,,

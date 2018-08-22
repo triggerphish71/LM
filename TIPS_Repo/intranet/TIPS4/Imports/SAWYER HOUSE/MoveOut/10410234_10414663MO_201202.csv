@@ -1,0 +1,7 @@
+BATCH,,201202,B,3262.3000,
+INVOICE,IN,,10410234,,02/05/2012,479.7500,"Invoice-Private",,02/05/2012,02/05/2012,,10414663MO,-2302.8000,,,,,,,,,,
+TRANSACTION,3020,010101104,5,87.0000,435.00,"Basic Service Fee - Studio for Feb: Whaley, Dave",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,5,8.9500,44.75,"Resident Care - Level 5 for Feb: Whaley, Dave",,,,,,,,,,,,,,,
+INVOICE,CM,,10410234,,02/05/2012,2782.55,"Invoice-Private",,02/05/2012,02/05/2012,,10414663MO,-2302.8000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2523,2523,"CR:Basic Service F... D.Whaley 201202: Whaley, Dave",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,259.55,259.55,"CR:Resident Care -... D.Whaley 201202: Whaley, Dave",,,,,,,,,,,,,,,

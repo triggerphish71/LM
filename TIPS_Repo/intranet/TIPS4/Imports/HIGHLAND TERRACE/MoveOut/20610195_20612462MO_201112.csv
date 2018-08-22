@@ -1,0 +1,7 @@
+BATCH,,201112,B,6708.0000,
+INVOICE,IN,,20610195,,12/01/2011,2709.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20612462MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,21,42.0000,882.00,"Resident Care - Level 4 for Dec: Festa, Al",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,21,87.0000,1827.00,"Room and Board - Studio for Dec: Festa, Al",,,,,,,,,,,,,,,
+INVOICE,CM,,20610195,,12/01/2011,3999,"Invoice-Private",,12/01/2011,12/10/2011,,20612462MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1302,1302,"CR:Resident Care -... A.Festa 201112: Festa, Al",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... A.Festa 201112: Festa, Al",,,,,,,,,,,,,,,

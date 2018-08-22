@@ -1,0 +1,5 @@
+BATCH,,201107,B,4752.8000,
+INVOICE,IN,,08710184,,07/01/2011,4752.8000,"MoveIn-Meeker. Charles",,07/01/2011,07/01/2011,,08713944,4752.8000,,,,,,,,,,
+TRANSACTION,3010,010103087,31,82.0000,2542,"Basic Service Fee - Studio         : Meeker. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103087,31,6.8000,210.8,"Resident Care - Level 4: Meeker. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103087,1,2000.0000,2000,"New Resident Fee: Meeker. Charles",,,,,,,,,,,,,,,

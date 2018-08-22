@@ -1,0 +1,7 @@
+BATCH,,201111,B,4830.0000,
+INVOICE,IN,,12610224,,11/05/2011,690.0000,"Invoice-Private",,11/05/2011,11/05/2011,,12614844MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,5,105.0000,525.00,"Basic Service Fee - Deluxe for Nov: Pool, Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,5,33.0000,165.00,"Resident Care - Level 2 for Nov: Pool, Darwin",,,,,,,,,,,,,,,
+INVOICE,CM,,12610224,,11/05/2011,4140,"Invoice-Private",,11/05/2011,11/05/2011,,12614844MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3150,3150,"CR:Basic Service F... D.Pool 201111: Pool, Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,990,990,"CR:Resident Care -... D.Pool 201111: Pool, Darwin",,,,,,,,,,,,,,,

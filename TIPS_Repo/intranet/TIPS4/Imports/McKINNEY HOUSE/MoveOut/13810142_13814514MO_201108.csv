@@ -1,0 +1,5 @@
+BATCH,,201108,B,40.0000,
+INVOICE,IN,,13810142,,08/01/2011,20.0000,"Invoice-Private",,08/01/2011,08/10/2011,,13814514MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3228,010309138,1,20.0000,20.00,"Sharps Disposal: Wootten, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,13810142,,08/01/2011,20,"Invoice-Private",,08/01/2011,08/10/2011,,13814514MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3228,010309138,1,20,20,"Credit for Sharps Disposal: Wootten, Shirley",,,,,,,,,,,,,,,

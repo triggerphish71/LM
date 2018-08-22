@@ -1,0 +1,7 @@
+BATCH,,201204,B,6119.5200,
+INVOICE,IN,,01310165,,04/07/2012,2294.8200,"Invoice-Private",,04/07/2012,04/07/2012,,01314077MO,-5482.0700,,,,,,,,,,
+TRANSACTION,3020,010103013,18,72.0000,1296.00,"Basic Service Fee - Studio for Apr: Koberstein, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,18,55.4900,998.82,"Resident Care - Level 31 for Apr: Koberstein, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,01310165,,04/07/2012,3824.7,"Invoice-Private",,04/07/2012,04/07/2012,,01314077MO,-5482.0700,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2160,2160,"CR:Basic Service F... C.Koberstein 201204: Koberstein, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1664.7,1664.7,"CR:Resident Care -... C.Koberstein 201204: Koberstein, Clifford",,,,,,,,,,,,,,,

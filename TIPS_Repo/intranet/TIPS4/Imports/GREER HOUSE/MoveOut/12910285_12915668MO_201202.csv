@@ -1,0 +1,5 @@
+BATCH,,201202,B,116.0000,
+INVOICE,IN,,12910285,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,12915668MO,-3974.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,29,2.0000,58.00,"Credit for Limited Term Discount: Othites, Eugenia",,,,,,,,,,,,,,,
+INVOICE,CM,,12910285,,02/01/2012,58,"Invoice-Private",,02/01/2012,02/10/2012,,12915668MO,-3974.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,29,2,58,"Limited Term Discount: Othites, Eugenia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,2232.0000,
+INVOICE,IN,,03410289,,01/01/2013,1116.0000,"Invoice-Private",,01/01/2013,01/10/2013,,03415847MO,-2802.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,31,36.0000,1116.00,"Credit for Limited Term Discount: Read, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,03410289,,01/01/2013,1116,"Invoice-Private",,01/01/2013,01/10/2013,,03415847MO,-2802.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,31,36,1116,"Limited Term Discount: Read, Lawrence",,,,,,,,,,,,,,,

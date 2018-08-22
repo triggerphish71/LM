@@ -1,0 +1,5 @@
+BATCH,,201202,B,100.0000,
+INVOICE,IN,,03310316,,02/29/2012,50.0000,"Invoice-Private",,02/29/2012,02/29/2012,,03316342MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3150,010202033,1,50.0000,50.00,"Late Fee Adjustment: Agee, Charlie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310316,,02/29/2012,50,"Invoice-Private",,02/29/2012,02/29/2012,,03316342MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3150,010202033,1,50,50,"Late Fee Adjustment: Agee, Charlie",,,,,,,,,,,,,,,

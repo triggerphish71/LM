@@ -1,0 +1,5 @@
+BATCH,,201105,B,3606.0000,
+INVOICE,IN,,06510170,,05/14/2011,3606.0000,"MoveIn-Williams. Alene",,05/14/2011,05/14/2011,,06514290,3606.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,18,99.0000,1782,"Basic Service Fee - Studio         : Williams. Alene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,18,18.0000,324,"Resident Care - Level 1: Williams. Alene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305065,1,1500.0000,1500,"New Resident Fee: Williams. Alene",,,,,,,,,,,,,,,

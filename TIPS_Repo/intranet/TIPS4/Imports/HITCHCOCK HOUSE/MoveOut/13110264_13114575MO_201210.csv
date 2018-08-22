@@ -1,0 +1,5 @@
+BATCH,,201210,B,70.0000,
+INVOICE,IN,,13110264,,10/01/2012,35.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13114575MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35.0000,35.00,"Pendant Fee: Burnett, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13110264,,10/01/2012,35,"Invoice-Private",,10/01/2012,10/10/2012,,13114575MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35,35,"Credit for Pendant Fee: Burnett, Betty",,,,,,,,,,,,,,,

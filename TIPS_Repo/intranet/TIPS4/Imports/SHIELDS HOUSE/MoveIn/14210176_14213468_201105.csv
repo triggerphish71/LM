@@ -1,0 +1,6 @@
+BATCH,,201105,B,3993.0000,
+INVOICE,IN,,14210176,,05/03/2011,3993.0000,"MoveIn-Bell. Wanda",,05/03/2011,05/03/2011,,14213468,3993.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,29,85.0000,2465,"Basic Service Fee - Studio         : Bell. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,29,17.0000,493,"Resident Care - Level 1: Bell. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Bell. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Bell. Wanda",,,,,,,,,,,,,,,

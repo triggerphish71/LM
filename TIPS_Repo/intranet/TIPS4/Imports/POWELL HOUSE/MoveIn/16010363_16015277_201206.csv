@@ -1,0 +1,6 @@
+BATCH,,201206,B,5475.0000,
+INVOICE,IN,,16010363,,06/01/2012,5475.0000,"MoveIn-Baxter. Bee",,06/01/2012,06/01/2012,,16015277,5475.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,30,99.0000,2970,"Basic Service Fee - Studio: Baxter. Bee",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,30,16.0000,480,"Resident Care - Level 1: Baxter. Bee",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Baxter. Bee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,2000.0000,2000,"New Resident Fee: Baxter. Bee",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,3265.0000,
+INVOICE,IN,,03210255,,11/01/2011,3265.0000,"November_Rent-Massie. James",,11/01/2011,11/10/2011,,03214658,6626.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,30,91.0000,2730,"J.Massie: Basic Service Fee - Studio: Massie. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,30,17.0000,510,"J.Massie: Resident Care - Level 1: Massie. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Massie. James",,,,,,,,,,,,,,,

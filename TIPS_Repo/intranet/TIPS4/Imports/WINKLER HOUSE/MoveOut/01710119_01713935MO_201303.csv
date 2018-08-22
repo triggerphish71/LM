@@ -1,0 +1,8 @@
+BATCH,,201303,B,3772.0000,
+INVOICE,IN,,01710119,,03/04/2013,428.0000,"Invoice-Private",,03/04/2013,03/04/2013,,01713935MO,-2916.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,4,91.0000,364.00,"Basic Service Fee - One Bedroom for Mar: Pennington, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,4,16.0000,64.00,"Resident Care - Level 1 for Mar: Pennington, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,01710119,,03/04/2013,3344,"Invoice-Private",,03/04/2013,03/04/2013,,01713935MO,-2916.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2821,2821,"CR:Basic Service F... R.Pennington 201303: Pennington, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... R.Pennington 201303: Pennington, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,496,496,"CR:Resident Care -... R.Pennington 201303: Pennington, Richard",,,,,,,,,,,,,,,

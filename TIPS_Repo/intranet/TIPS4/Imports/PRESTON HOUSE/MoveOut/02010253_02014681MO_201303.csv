@@ -1,0 +1,6 @@
+BATCH,,201303,B,2365.0000,
+INVOICE,IN,,02010253,,03/04/2013,480.0000,"Invoice-Private",,03/04/2013,03/04/2013,,02014681MO,-1405.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,8,60.0000,480.00,"Basic Service Fee - Studio for Mar: Raines, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,02010253,,03/04/2013,1885,"Invoice-Private",,03/04/2013,03/04/2013,,02014681MO,-1405.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,1860,1860,"CR:Basic Service F... M.Raines 201303: Raines, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... M.Raines 201303: Raines, Mary",,,,,,,,,,,,,,,

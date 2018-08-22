@@ -1,0 +1,5 @@
+BATCH,,201211,B,1818.0000,
+INVOICE,IN,,16510330,,11/28/2012,1818.0000,"MoveIn-Culp. Virginia",,11/28/2012,11/28/2012,,16514584,4852.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,3,97.0000,291,"Basic Service Fee - Studio         : Culp. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Culp. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: Culp. Virginia",,,,,,,,,,,,,,,

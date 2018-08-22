@@ -1,0 +1,8 @@
+BATCH,,201308,B,2470.0000,
+INVOICE,IN,,00110180,,07/31/2013,585.0000,"MoveIn-Barnett. James",,07/31/2013,07/31/2013,,00113585,2470.0000,,,,,,,,,,
+TRANSACTION,3014,010101001,1,60.0000,60,"Basic Service Fee - IL Studio: Barnett. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Barnett. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,500.0000,500,"New Resident Fee: Barnett. James",,,,,,,,,,,,,,,
+INVOICE,IN,,00110180,,08/01/2013,1885.0000,"August_Rent-Barnett. James",,08/01/2013,08/10/2013,,00113585,2470.0000,,,,,,,,,,
+TRANSACTION,3010,010101001,31,60.0000,1860,"Basic Service Fee - IL Studio: Barnett. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Barnett. James",,,,,,,,,,,,,,,

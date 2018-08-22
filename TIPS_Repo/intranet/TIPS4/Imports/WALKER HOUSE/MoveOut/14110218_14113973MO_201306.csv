@@ -1,0 +1,7 @@
+BATCH,,201306,B,3936.0000,
+INVOICE,IN,,14110218,,06/02/2013,246.0000,"Invoice-Private",,06/02/2013,06/02/2013,,14113973MO,-3444.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,2,70.0000,140.00,"Basic Service Fee - One Bedroom for Jun: Kuhn, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,2,53.0000,106.00,"Resident Care - Level 4 for Jun: Kuhn, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,14110218,,06/02/2013,3690,"Invoice-Private",,06/02/2013,06/02/2013,,14113973MO,-3444.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2100,2100,"CR:Basic Service F... G.Kuhn 201306: Kuhn, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,1590,1590,"CR:Resident Care -... G.Kuhn 201306: Kuhn, Gladys",,,,,,,,,,,,,,,

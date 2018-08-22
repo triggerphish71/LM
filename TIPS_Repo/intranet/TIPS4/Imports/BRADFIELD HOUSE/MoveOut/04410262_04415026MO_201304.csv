@@ -1,0 +1,8 @@
+BATCH,,201304,B,2538.0000,
+INVOICE,IN,,04410262,,04/08/2013,528.0000,"Invoice-Private",,04/08/2013,04/08/2013,,04415026MO,-1482.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,8,50.0000,400.00,"Basic Service Fee - Studio for Apr: Kuharsky, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,8,16.0000,128.00,"Resident Care - Level 1 for Apr: Kuharsky, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,04410262,,04/08/2013,2010,"Invoice-Private",,04/08/2013,04/08/2013,,04415026MO,-1482.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1500,1500,"CR:Basic Service F... G.Kuharsky 201304: Kuharsky, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202044,1,30,30,"CR:Pendant Fee... G.Kuharsky 201304: Kuharsky, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,480,480,"CR:Resident Care -... G.Kuharsky 201304: Kuharsky, Grace",,,,,,,,,,,,,,,

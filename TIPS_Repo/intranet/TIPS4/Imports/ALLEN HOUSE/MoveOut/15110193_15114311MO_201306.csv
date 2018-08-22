@@ -1,0 +1,8 @@
+BATCH,,201306,B,3500.0000,
+INVOICE,IN,,15110193,,06/15/2013,1155.0000,"Invoice-Private",,06/15/2013,06/15/2013,,15114311MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,15,50.0000,750.00,"Basic Service Fee - Studio for Jun: Derby, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,15,27.0000,405.00,"Swan Personal Care - L2 for Jun: Derby, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,15110193,,06/15/2013,2345,"Invoice-Private",,06/15/2013,06/15/2013,,15114311MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,1500,1500,"CR:Basic Service F... J.Derby 201306: Derby, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,35,35,"CR:Pendant Fee... J.Derby 201306: Derby, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,810,810,"CR:Swan Personal C... J.Derby 201306: Derby, Joann",,,,,,,,,,,,,,,

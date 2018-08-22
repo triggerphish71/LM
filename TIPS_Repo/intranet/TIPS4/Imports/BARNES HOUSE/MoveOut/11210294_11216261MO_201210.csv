@@ -1,0 +1,8 @@
+BATCH,,201210,B,7165.0000,
+INVOICE,IN,,11210294,,10/20/2012,2800.0000,"Invoice-Private",,10/20/2012,10/20/2012,,11216261MO,-5765.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,20,103.0000,2060.00,"Basic Service Fee- Studio Premium for Oct: Maher, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,20,37.0000,740.00,"Resident Care - Level 2 for Oct: Maher, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,11210294,,10/20/2012,4365,"Invoice-Private",,10/20/2012,10/20/2012,,11216261MO,-5765.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3193,3193,"CR:Basic Service F... P.Maher 201210: Maher, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... P.Maher 201210: Maher, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1147,1147,"CR:Resident Care -... P.Maher 201210: Maher, Patricia",,,,,,,,,,,,,,,

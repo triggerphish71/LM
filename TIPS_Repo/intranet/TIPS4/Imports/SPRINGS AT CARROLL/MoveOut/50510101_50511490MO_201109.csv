@@ -1,0 +1,7 @@
+BATCH,,201109,B,5184.0000,
+INVOICE,IN,,50510101,,09/24/2011,2304.0000,"Invoice-Private",,09/24/2011,09/24/2011,,50511490MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,24,35.0000,840.00,"Basic Service Fee - Second Resident for Sep: McKinster, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,24,61.0000,1464.00,"Resident Care - Level 5 for Sep: McKinster, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,50510101,,09/24/2011,2880,"Invoice-Private",,09/24/2011,09/24/2011,,50511490MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,1050,1050,"CR:Basic Service F... D.McKinster 201109: McKinster, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,1830,1830,"CR:Resident Care -... D.McKinster 201109: McKinster, Donna",,,,,,,,,,,,,,,

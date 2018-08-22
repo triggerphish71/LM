@@ -1,0 +1,7 @@
+BATCH,,201112,B,5875.0000,
+INVOICE,IN,,16810359,,12/10/2011,2000.0000,"Invoice-Private",,12/10/2011,12/10/2011,,16816145MO,-1875.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,16,112.0000,1792.00,"Basic Service Fee - One BR Premium for Dec: Ward, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,16,13.0000,208.00,"Resident Care - Level 1 for Dec: Ward, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,16810359,,12/10/2011,3875,"Invoice-Private",,12/10/2011,12/10/2011,,16816145MO,-1875.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3472,3472,"CR:Basic Service F... J.Ward 201112: Ward, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... J.Ward 201112: Ward, Joyce",,,,,,,,,,,,,,,

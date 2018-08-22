@@ -1,0 +1,5 @@
+BATCH,,201108,B,2820.0000,
+INVOICE,IN,,14210184,,08/11/2011,2820.0000,"MoveIn-Myron. Harold",,08/11/2011,08/11/2011,,14213600,2820.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,21,85.0000,1785,"Basic Service Fee - Studio         : Myron. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Myron. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Myron. Harold",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,3559.0000,
+INVOICE,IN,,05110167,,10/01/2011,3559.0000,"October_Rent-Bradford. Virginia",,10/01/2011,10/10/2011,,05114070,7408.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,31,97.0000,3007,"Basic Service Fee - Studio         : Bradford. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202051,31,17.0000,527,"Resident Care - Level 1: Bradford. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25.0000,25,"Monthly Cable: Bradford. Virginia",,,,,,,,,,,,,,,

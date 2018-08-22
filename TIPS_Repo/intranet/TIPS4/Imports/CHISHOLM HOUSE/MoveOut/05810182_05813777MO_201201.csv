@@ -1,0 +1,5 @@
+BATCH,,201201,B,1776.0000,
+INVOICE,IN,,05810182,,01/17/2012,629.0000,"Invoice-Private",,01/17/2012,01/17/2012,,05813777MO,-1591.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,17,37.0000,629.00,"Basic Service Fee - Second Resident for Jan: Barlow, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,05810182,,01/17/2012,1147,"Invoice-Private",,01/17/2012,01/17/2012,,05813777MO,-1591.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,1147,1147,"CR:Basic Service F... D.Barlow 201201: Barlow, Dorothy",,,,,,,,,,,,,,,

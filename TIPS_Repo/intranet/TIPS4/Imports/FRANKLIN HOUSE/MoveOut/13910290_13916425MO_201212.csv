@@ -1,0 +1,5 @@
+BATCH,,201212,B,60.0000,
+INVOICE,IN,,13910290,,12/01/2012,30.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13916425MO,-3242.8700,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Kelly, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,13910290,,12/01/2012,30,"Invoice-Private",,12/01/2012,12/10/2012,,13916425MO,-3242.8700,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Kelly, Larry",,,,,,,,,,,,,,,

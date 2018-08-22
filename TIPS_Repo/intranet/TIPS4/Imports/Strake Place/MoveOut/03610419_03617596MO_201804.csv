@@ -1,0 +1,5 @@
+BATCH,,201804,B,56.8000,
+INVOICE,IN,,03610419,,04/01/2018,28.4000,"Invoice-Private",,04/01/2018,04/10/2018,,03617596MO,-2729.4000,,,,,,,,,,
+TRANSACTION,3260,010002036,1,28.4000,28.40,"Monthly Cable: Fenley, Doyle",,,,,,,,,,,,,,,
+INVOICE,CM,,03610419,,04/01/2018,28.4,"Invoice-Private",,04/01/2018,04/10/2018,,03617596MO,-2729.4000,,,,,,,,,,
+TRANSACTION,3260,010002036,1,28.4,28.4,"Credit for Monthly Cable: Fenley, Doyle",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,3384.0000,
+INVOICE,IN,,03210268,,06/10/2013,1224.0000,"Invoice-Private",,06/10/2013,06/10/2013,,03215398MO,-936.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,17,55.0000,935.00,"Basic Service Fee - Studio for Jun: Bresie, Patsy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,17,17.0000,289.00,"Resident Care - Level 1 for Jun: Bresie, Patsy",,,,,,,,,,,,,,,
+INVOICE,CM,,03210268,,06/10/2013,2160,"Invoice-Private",,06/10/2013,06/10/2013,,03215398MO,-936.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,1650,1650,"CR:Basic Service F... P.Bresie 201306: Bresie, Patsy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,510,510,"CR:Resident Care -... P.Bresie 201306: Bresie, Patsy",,,,,,,,,,,,,,,

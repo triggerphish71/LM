@@ -1,0 +1,8 @@
+BATCH,,201207,B,4418.3200,
+INVOICE,IN,,09510238,,07/07/2012,864.4800,"Invoice-Private",,07/07/2012,07/07/2012,,09515011MO,-2689.3600,,,,,,,,,,
+TRANSACTION,3320,010103095,1,62.0000,62.00,"CR:Limited Term Di... R.Golick 201207: Golick, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,7,86.0000,602.00,"Basic Service Fee - Studio for Jul: Golick, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,7,28.6400,200.48,"Resident Care - Level 16 for Jul: Golick, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,09510238,,07/07/2012,3553.84,"Invoice-Private",,07/07/2012,07/07/2012,,09515011MO,-2689.3600,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... R.Golick 201207: Golick, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,887.84,887.84,"CR:Resident Care -... R.Golick 201207: Golick, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,1980.0000,
+INVOICE,IN,,04310209,,09/01/2012,990.0000,"Invoice-Private",,09/01/2012,09/10/2012,,04314032MO,-3730.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,33.0000,990.00,"Credit for Limited Term Discount: Todd, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,04310209,,09/01/2012,990,"Invoice-Private",,09/01/2012,09/10/2012,,04314032MO,-3730.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,33,990,"Limited Term Discount: Todd, Doris",,,,,,,,,,,,,,,

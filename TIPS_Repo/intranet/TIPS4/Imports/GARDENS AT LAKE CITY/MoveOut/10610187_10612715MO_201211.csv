@@ -1,0 +1,5 @@
+BATCH,,201211,B,2220.0000,
+INVOICE,IN,,10610187,,11/01/2012,1110.0000,"Invoice-Private",,11/01/2012,11/10/2012,,10612715MO,-1289.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,30,37.0000,1110.00,"Credit for Limited Term Discount: Kabrich, Teri",,,,,,,,,,,,,,,
+INVOICE,CM,,10610187,,11/01/2012,1110,"Invoice-Private",,11/01/2012,11/10/2012,,10612715MO,-1289.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,30,37,1110,"Limited Term Discount: Kabrich, Teri",,,,,,,,,,,,,,,

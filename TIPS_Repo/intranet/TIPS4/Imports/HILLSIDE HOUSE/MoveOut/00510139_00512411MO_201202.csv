@@ -1,0 +1,7 @@
+BATCH,,201202,B,4019.9100,
+INVOICE,IN,,00510139,,02/18/2012,1539.5400,"Invoice-Private",,02/18/2012,02/18/2012,,00512411MO,-3592.2600,,,,,,,,,,
+TRANSACTION,3020,010101005,18,73.0000,1314.00,"Basic Service Fee - Studio for Feb: Jackson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,18,12.5300,225.54,"Resident Care - Level 7 for Feb: Jackson, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,00510139,,02/18/2012,2480.37,"Invoice-Private",,02/18/2012,02/18/2012,,00512411MO,-3592.2600,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2117,2117,"CR:Basic Service F... J.Jackson 201202: Jackson, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,363.37,363.37,"CR:Resident Care -... J.Jackson 201202: Jackson, Jean",,,,,,,,,,,,,,,

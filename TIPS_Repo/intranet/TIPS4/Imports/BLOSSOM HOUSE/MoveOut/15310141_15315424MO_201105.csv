@@ -1,0 +1,7 @@
+BATCH,,201105,B,7648.0000,
+INVOICE,IN,,15310141,,05/05/2011,1720.8000,"Invoice-Private",,05/05/2011,05/05/2011,,15315424MO,-4206.4000,,,,,,,,,,
+TRANSACTION,3027,010103153,9,95.2000,856.80,"Resident Care - Level 56 for May: Munson, Elda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,9,96.0000,864.00,"Room and Board - Studio for May: Munson, Elda",,,,,,,,,,,,,,,
+INVOICE,CM,,15310141,,05/05/2011,5927.2,"Invoice-Private",,05/05/2011,05/05/2011,,15315424MO,-4206.4000,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2951.2,2951.2,"CR:Resident Care -... E.Munson 201105: Munson, Elda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2976,2976,"CR:Room and Board ... E.Munson 201105: Munson, Elda",,,,,,,,,,,,,,,

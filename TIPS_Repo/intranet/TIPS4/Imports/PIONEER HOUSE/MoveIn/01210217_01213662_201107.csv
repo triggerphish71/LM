@@ -1,0 +1,6 @@
+BATCH,,201107,B,3859.0000,
+INVOICE,IN,,01210217,,07/07/2011,3859.0000,"MoveIn-Egg. Deanie",,07/07/2011,07/07/2011,,01213662,3859.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,25,83.0000,2075,"Basic Service Fee - Studio         : Egg. Deanie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,25,10.2000,255,"Resident Care - Level 6: Egg. Deanie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Egg. Deanie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Egg. Deanie",,,,,,,,,,,,,,,

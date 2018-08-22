@@ -1,0 +1,5 @@
+BATCH,,201108,B,186.0000,
+INVOICE,IN,,53410013,,08/01/2011,93.0000,"Invoice-Private",,08/01/2011,08/10/2011,,53419370MO,-2108.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Back, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,53410013,,08/01/2011,93,"Invoice-Private",,08/01/2011,08/10/2011,,53419370MO,-2108.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Back, Marion",,,,,,,,,,,,,,,

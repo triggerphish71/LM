@@ -1,0 +1,6 @@
+BATCH,,201106,B,4307.0000,
+INVOICE,IN,,11010335,,06/17/2011,4307.0000,"MoveIn-Sylvia. Virginia",,06/17/2011,06/17/2011,,11014603,9385.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,14,91.0000,1274,"Basic Service Fee - Studio         : Sylvia. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,14,72.0000,1008,"Resident Care - Level 6: Sylvia. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Sylvia. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Sylvia. Virginia",,,,,,,,,,,,,,,

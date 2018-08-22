@@ -1,0 +1,7 @@
+BATCH,,201304,B,5624.0000,
+INVOICE,IN,,15710202,,04/01/2013,1184.0000,"Invoice-Private",,04/01/2013,04/10/2013,,15714958MO,-3256.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,8,91.0000,728.00,"Basic Service Fee - Studio for Apr: Greener, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,8,57.0000,456.00,"Resident Care - Level 4 for Apr: Greener, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,15710202,,04/01/2013,4440,"Invoice-Private",,04/01/2013,04/10/2013,,15714958MO,-3256.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2730,2730,"CR:Basic Service F... H.Greener 201304: Greener, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1710,1710,"CR:Resident Care -... H.Greener 201304: Greener, Hilda",,,,,,,,,,,,,,,

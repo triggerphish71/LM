@@ -1,0 +1,7 @@
+BATCH,,201802,B,7241.2700,
+INVOICE,IN,,11210005,,02/26/2018,3091.9700,"MoveIn-Domenic. Lucille",,02/26/2018,02/26/2018,,11220109,7241.2700,,,,,,,,,,
+TRANSACTION,3010,010010112,3,110.0000,330,"Basic Service Fee - Studio: Domenic. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010112,3,23.0000,69,"Resident Care - Level 1: Domenic. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010112,1,26.3000,26.3,"Monthly Cable: Domenic. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010112,1,2000.0000,2000,"Community Fee: Domenic. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010112,1,666.6700,666.67,"Monthly Deferral Charge: Domenic. Lucille",,,,,,,,,,,,,,,

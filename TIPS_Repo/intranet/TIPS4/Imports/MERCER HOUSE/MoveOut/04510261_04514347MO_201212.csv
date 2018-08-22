@@ -1,0 +1,8 @@
+BATCH,,201212,B,5455.0000,
+INVOICE,IN,,04510261,,12/28/2012,2576.0000,"Invoice-Private",,12/28/2012,12/28/2012,,04514347MO,-3182.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,28,76.0000,2128.00,"Basic Service Fee - Studio for Dec: Pickett, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,28,16.0000,448.00,"Resident Care - Level 1 for Dec: Pickett, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04510261,,12/28/2012,2879,"Invoice-Private",,12/28/2012,12/28/2012,,04514347MO,-3182.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2356,2356,"CR:Basic Service F... M.Pickett 201212: Pickett, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... M.Pickett 201212: Pickett, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... M.Pickett 201212: Pickett, Mary",,,,,,,,,,,,,,,

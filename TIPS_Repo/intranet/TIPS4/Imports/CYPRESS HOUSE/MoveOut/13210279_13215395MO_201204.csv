@@ -1,0 +1,7 @@
+BATCH,,201204,B,4720.0000,
+INVOICE,IN,,13210279,,04/01/2012,50.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13215395MO,-4684.9000,,,,,,,,,,
+TRANSACTION,3150,010308132,1,50.0000,50.00,"Late Fee Adjustment: DeGiulo, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,13210279,,04/01/2012,4670,"Invoice-Private",,04/01/2012,04/10/2012,,13215395MO,-4684.9000,,,,,,,,,,
+TRANSACTION,3027,010308132,1,900,900,"CR:Resident Care -... F.DeGiulo 201204: DeGiulo, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3720,3720,"CR:Room and Board ... F.DeGiulo 201204: DeGiulo, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3150,010308132,1,50,50,"Late Fee Adjustment: DeGiulo, Fred",,,,,,,,,,,,,,,

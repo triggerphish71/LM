@@ -1,0 +1,5 @@
+BATCH,,201112,B,5775.0000,
+INVOICE,IN,,06610196,,12/07/2011,5775.0000,"MoveIn-Truka. Pauline",,12/07/2011,12/07/2011,,06614298,5775.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,25,96.0000,2400,"Basic Service Fee - Studio: Truka. Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,25,65.0000,1625,"Resident Care - Level 4: Truka. Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Truka. Pauline",,,,,,,,,,,,,,,

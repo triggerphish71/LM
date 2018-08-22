@@ -1,0 +1,5 @@
+BATCH,,201211,B,3005.0000,
+INVOICE,IN,,12410304,,11/01/2012,3005.0000,"November_Rent-Tiedgen. Doris",,11/01/2012,11/10/2012,,12415052,5327.0000,,,,,,,,,,
+TRANSACTION,3010,010211124,30,81.0000,2430,"D.Tiedgen: Basic Service Fee - Studio: Tiedgen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211124,30,18.0000,540,"D.Tiedgen: Resident Care - Level 1: Tiedgen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35,"Monthly Cable: Tiedgen. Doris",,,,,,,,,,,,,,,

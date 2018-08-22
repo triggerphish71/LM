@@ -1,0 +1,5 @@
+BATCH,,201210,B,1674.0000,
+INVOICE,IN,,01810153,,10/01/2012,837.0000,"Invoice-Private",,10/01/2012,10/10/2012,,01812575MO,-745.8400,,,,,,,,,,
+TRANSACTION,3320,010103018,31,27.0000,837.00,"Credit for Limited Term Discount: Golladay, Lourene",,,,,,,,,,,,,,,
+INVOICE,CM,,01810153,,10/01/2012,837,"Invoice-Private",,10/01/2012,10/10/2012,,01812575MO,-745.8400,,,,,,,,,,
+TRANSACTION,3320,010103018,31,27,837,"Limited Term Discount: Golladay, Lourene",,,,,,,,,,,,,,,

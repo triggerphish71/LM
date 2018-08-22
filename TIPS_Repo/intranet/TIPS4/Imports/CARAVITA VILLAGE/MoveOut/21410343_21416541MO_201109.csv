@@ -1,0 +1,5 @@
+BATCH,,201109,B,2100.0000,
+INVOICE,IN,,21410343,,09/01/2011,1050.0000,"Invoice-Private",,09/01/2011,09/10/2011,,21416541MO,-2315.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,35.0000,1050.00,"Credit for Limited Term Discount: Lossman, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,21410343,,09/01/2011,1050,"Invoice-Private",,09/01/2011,09/10/2011,,21416541MO,-2315.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,35,1050,"Limited Term Discount: Lossman, Betty",,,,,,,,,,,,,,,

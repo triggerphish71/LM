@@ -1,0 +1,5 @@
+BATCH,,201105,B,4101.0000,
+INVOICE,IN,,53210325,,05/13/2011,4101.0000,"MoveIn-Bruessel. Darwin",,05/13/2011,05/13/2011,,53214873,7401.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,19,109.0000,2071,"Basic Service Fee - Studio: Bruessel. Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Bruessel. Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,2000.0000,2000,"New Resident Fee: Bruessel. Darwin",,,,,,,,,,,,,,,

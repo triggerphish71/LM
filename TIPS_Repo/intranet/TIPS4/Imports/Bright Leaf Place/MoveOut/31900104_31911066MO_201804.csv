@@ -1,0 +1,6 @@
+BATCH,,201804,B,5206.1400,
+INVOICE,IN,,31900104,,04/12/2018,1076.0400,"Invoice-Private",,04/12/2018,04/12/2018,,31911066MO,-3054.0600,,,,,,,,,,
+TRANSACTION,3027,070026319,12,89.6700,1076.04,"Resident Care - Level 3  for Apr: Marshall, Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,31900104,,04/12/2018,4130.1,"Invoice-Private",,04/12/2018,04/12/2018,,31911066MO,-3054.0600,,,,,,,,,,
+TRANSACTION,3027,070026319,1,1440,1440,"CR:Resident Care -... N.Marshall 201804: Marshall, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026319,1,2690.1,2690.1,"CR:Studio... N.Marshall 201804: Marshall, Naomi",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,8584.0000,
+INVOICE,IN,,11410174,,05/19/2013,2618.0000,"Invoice-Private",,05/19/2013,05/19/2013,,11414321MO,-6018.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,17,135.0000,2295.00,"Basic Service Fee - One Bedroom for May: Oechsle, Peryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,17,19.0000,323.00,"Swan Personal Care - L1 for May: Oechsle, Peryl",,,,,,,,,,,,,,,
+INVOICE,CM,,11410174,,05/19/2013,5966,"Invoice-Private",,05/19/2013,05/19/2013,,11414321MO,-6018.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3915,3915,"CR:Basic Service F... P.Oechsle 201305: Oechsle, Peryl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306114,1,1500,1500,"CR:New Resident Fe... P.Oechsle 201305: Oechsle, Peryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,551,551,"CR:Swan Personal C... P.Oechsle 201305: Oechsle, Peryl",,,,,,,,,,,,,,,

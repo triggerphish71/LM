@@ -1,0 +1,5 @@
+BATCH,,201206,B,800.0000,
+INVOICE,IN,,17510276,,05/30/2012,50.0000,"MoveIn-Bryan. Norma",,05/30/2012,05/30/2012,,17517572,800.0000,,,,,,,,,,
+TRANSACTION,3014,010202175,2,25.0000,50,"N.Bryan: Basic Service Fee - Second Resident: Bryan. Norma",,,,,,,,,,,,,,,
+INVOICE,IN,,17510276,,06/01/2012,750.0000,"June_Rent-Bryan. Norma",,06/01/2012,06/10/2012,,17517572,800.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,30,25.0000,750,"N.Bryan: Basic Service Fee - Second Resident: Bryan. Norma",,,,,,,,,,,,,,,

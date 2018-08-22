@@ -1,0 +1,7 @@
+BATCH,,201107,B,1728.0000,
+INVOICE,IN,,05510183,,07/01/2011,864.0000,"Invoice-Private",,07/01/2011,07/10/2011,,05514112MO,-2979.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27.00,"Monthly Cable: Miller, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202055,31,27.0000,837.00,"Credit for Limited Term Discount: Miller, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,05510183,,07/01/2011,864,"Invoice-Private",,07/01/2011,07/10/2011,,05514112MO,-2979.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"Credit for Monthly Cable: Miller, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202055,31,27,837,"Limited Term Discount: Miller, Margaret",,,,,,,,,,,,,,,

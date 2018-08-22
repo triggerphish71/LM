@@ -1,0 +1,7 @@
+BATCH,,201306,B,5685.0500,
+INVOICE,IN,,15310225,,06/05/2013,1075.5500,"Invoice-Private",,06/05/2013,06/05/2013,,15316525MO,-3533.9500,,,,,,,,,,
+TRANSACTION,3020,010103153,7,100.0000,700.00,"Basic Service Fee - Studio for Jun: Johnson, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,7,53.6500,375.55,"Resident Care - Level 29 for Jun: Johnson, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,15310225,,06/05/2013,4609.5,"Invoice-Private",,06/05/2013,06/05/2013,,15316525MO,-3533.9500,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... S.Johnson 201306: Johnson, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1609.5,1609.5,"CR:Resident Care -... S.Johnson 201306: Johnson, Stanley",,,,,,,,,,,,,,,

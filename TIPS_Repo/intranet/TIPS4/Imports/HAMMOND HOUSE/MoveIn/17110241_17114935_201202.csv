@@ -1,0 +1,5 @@
+BATCH,,201202,B,4265.0000,
+INVOICE,IN,,17110241,,02/03/2012,4265.0000,"MoveIn-Dear. John",,02/03/2012,02/03/2012,,17114935,4265.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,27,94.0000,2538,"J.Dear: Basic Service Fee - Studio: Dear. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Dear. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1700.0000,1700,"New Resident Fee: Dear. John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,992.0000,
+INVOICE,IN,,13710202,,07/01/2011,496.0000,"Invoice-Private",,07/01/2011,07/10/2011,,13713923MO,-2896.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,31,16.0000,496.00,"Credit for Limited Term Discount: Scher, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13710202,,07/01/2011,496,"Invoice-Private",,07/01/2011,07/10/2011,,13713923MO,-2896.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,31,16,496,"Limited Term Discount: Scher, Thomas",,,,,,,,,,,,,,,

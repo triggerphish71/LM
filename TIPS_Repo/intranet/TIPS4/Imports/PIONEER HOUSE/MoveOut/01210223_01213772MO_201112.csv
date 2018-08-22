@@ -1,0 +1,7 @@
+BATCH,,201112,B,1484.0000,
+INVOICE,IN,,01210223,,12/01/2011,742.0000,"Invoice-Private",,12/01/2011,12/10/2011,,01213772MO,-1080.8000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Faber, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103012,31,23.0000,713.00,"Credit for Limited Term Discount: Faber, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,01210223,,12/01/2011,742,"Invoice-Private",,12/01/2011,12/10/2011,,01213772MO,-1080.8000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Faber, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103012,31,23,713,"Limited Term Discount: Faber, Ellen",,,,,,,,,,,,,,,

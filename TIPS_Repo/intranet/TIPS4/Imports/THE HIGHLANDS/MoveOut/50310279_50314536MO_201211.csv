@@ -1,0 +1,6 @@
+BATCH,,201211,B,2960.0000,
+INVOICE,IN,,50310279,,11/09/2012,675.0000,"Invoice-Private",,11/09/2012,11/09/2012,,50314536MO,-1610.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,9,75.0000,675.00,"Basic Service Fee - Studio for Nov: Boon, Jr., William",,,,,,,,,,,,,,,
+INVOICE,CM,,50310279,,11/09/2012,2285,"Invoice-Private",,11/09/2012,11/09/2012,,50314536MO,-1610.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2250,2250,"CR:Basic Service F... W.Boon, Jr. 201211: Boon, Jr., William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... W.Boon, Jr. 201211: Boon, Jr., William",,,,,,,,,,,,,,,

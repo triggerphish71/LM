@@ -1,0 +1,5 @@
+BATCH,,201204,B,1320.0000,
+INVOICE,IN,,09710071,,04/01/2012,660.0000,"Invoice-Private",,04/01/2012,04/10/2012,,09714322MO,-1754.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,30,22.0000,660.00,"Credit for Limited Term Discount: Syverson, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,09710071,,04/01/2012,660,"Invoice-Private",,04/01/2012,04/10/2012,,09714322MO,-1754.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,30,22,660,"Limited Term Discount: Syverson, Howard",,,,,,,,,,,,,,,

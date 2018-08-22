@@ -1,0 +1,6 @@
+BATCH,,201112,B,4276.0000,
+INVOICE,IN,,02810164,,12/08/2011,872.0000,"Invoice-Private",,12/08/2011,12/08/2011,,02814959MO,-2532.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,8,109.0000,872.00,"Basic Service Fee - Studio for Dec: McIntyre, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,02810164,,12/08/2011,3404,"Invoice-Private",,12/08/2011,12/08/2011,,02814959MO,-2532.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3379,3379,"CR:Basic Service F... G.McIntyre 201112: McIntyre, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25,25,"CR:Monthly Cable... G.McIntyre 201112: McIntyre, Glenn",,,,,,,,,,,,,,,

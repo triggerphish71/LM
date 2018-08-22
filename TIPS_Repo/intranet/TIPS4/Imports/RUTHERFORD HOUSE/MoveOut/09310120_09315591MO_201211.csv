@@ -1,0 +1,7 @@
+BATCH,,201211,B,6762.0000,
+INVOICE,IN,,09310120,,11/14/2012,2352.0000,"Invoice-Private",,11/14/2012,11/14/2012,,09315591MO,-6615.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,16,99.0000,1584.00,"Basic Service Fee - Studio for Nov: Swartz, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,16,48.0000,768.00,"Resident Care - Level 3 for Nov: Swartz, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,09310120,,11/14/2012,4410,"Invoice-Private",,11/14/2012,11/14/2012,,09315591MO,-6615.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2970,2970,"CR:Basic Service F... C.Swartz 201211: Swartz, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1440,1440,"CR:Resident Care -... C.Swartz 201211: Swartz, Carl",,,,,,,,,,,,,,,

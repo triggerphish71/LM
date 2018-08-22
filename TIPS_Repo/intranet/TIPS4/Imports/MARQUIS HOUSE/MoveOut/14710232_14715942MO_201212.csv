@@ -1,0 +1,8 @@
+BATCH,,201212,B,4700.2000,
+INVOICE,IN,,14710232,,12/01/2012,453.2000,"Invoice-Private",,12/01/2012,12/01/2012,,14715942MO,-3793.8000,,,,,,,,,,
+TRANSACTION,3312,010310147,1,316.2000,316.20,"CR:Two Room Rental... R.Barber 201212: Barber, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,35.0000,35.00,"Resident Care - Level 2 for Dec: Barber, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,1,102.0000,102.00,"Room and Board - Studio for Dec: Barber, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14710232,,12/01/2012,4247,"Invoice-Private",,12/01/2012,12/01/2012,,14715942MO,-3793.8000,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1085,1085,"CR:Resident Care -... R.Barber 201212: Barber, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Room and Board ... R.Barber 201212: Barber, Ruth",,,,,,,,,,,,,,,

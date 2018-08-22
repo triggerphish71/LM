@@ -1,0 +1,7 @@
+BATCH,,201303,B,5917.0000,
+INVOICE,IN,,06510217,,03/30/2013,2910.0000,"Invoice-Private",,03/30/2013,03/30/2013,,06515153MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,30,60.0000,1800.00,"Basic Service Fee - Studio for Mar: Hohenbrink, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,30,37.0000,1110.00,"Resident Care - Level 2 for Mar: Hohenbrink, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,06510217,,03/30/2013,3007,"Invoice-Private",,03/30/2013,03/30/2013,,06515153MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1860,1860,"CR:Basic Service F... E.Hohenbrink 201303: Hohenbrink, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1147,1147,"CR:Resident Care -... E.Hohenbrink 201303: Hohenbrink, Eileen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,930.0000,
+INVOICE,IN,,15310248,,12/01/2012,465.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15316290MO,-4735.4000,,,,,,,,,,
+TRANSACTION,3320,010103153,31,15.0000,465.00,"Credit for Limited Term Discount: Baker, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,15310248,,12/01/2012,465,"Invoice-Private",,12/01/2012,12/10/2012,,15316290MO,-4735.4000,,,,,,,,,,
+TRANSACTION,3320,010103153,31,15,465,"Limited Term Discount: Baker, Jane",,,,,,,,,,,,,,,

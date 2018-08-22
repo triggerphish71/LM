@@ -1,0 +1,5 @@
+BATCH,,201210,B,3860.0000,
+INVOICE,IN,,50310293,,10/01/2012,3860.0000,"MoveIn-Jones. Marjorie",,10/01/2012,10/01/2012,,50314462,3860.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,31,75.0000,2325,"Basic Service Fee - Studio: Jones. Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Jones. Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Jones. Marjorie",,,,,,,,,,,,,,,

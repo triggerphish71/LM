@@ -1,0 +1,7 @@
+BATCH,,201208,B,5723.8400,
+INVOICE,IN,,01510218,,08/01/2012,178.8700,"Invoice-Private",,08/01/2012,08/10/2012,,01514271MO,-5366.1000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,84.0000,84.00,"Basic Service Fee - Studio for Aug: Hughes, Sheila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,94.8700,94.87,"Resident Care - Level 53 for Aug: Hughes, Sheila",,,,,,,,,,,,,,,
+INVOICE,CM,,01510218,,08/01/2012,5544.97,"Invoice-Private",,08/01/2012,08/10/2012,,01514271MO,-5366.1000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:Basic Service F... S.Hughes 201208: Hughes, Sheila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,2940.97,2940.97,"CR:Resident Care -... S.Hughes 201208: Hughes, Sheila",,,,,,,,,,,,,,,

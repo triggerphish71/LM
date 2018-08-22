@@ -1,0 +1,8 @@
+BATCH,,201201,B,5006.2000,
+INVOICE,IN,,05210234,,01/01/2012,1937.2000,"Invoice-Private",,01/01/2012,01/10/2012,,05214703MO,-1131.8000,,,,,,,,,,
+TRANSACTION,3312,010202052,1,254.2000,254.20,"CR:Two Room Rental... E.Jones 201201: Jones, Eola",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,17,82.0000,1394.00,"Basic Service Fee - Studio for Jan: Jones, Eola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,17,17.0000,289.00,"Resident Care - Level 1 for Jan: Jones, Eola",,,,,,,,,,,,,,,
+INVOICE,CM,,05210234,,01/01/2012,3069,"Invoice-Private",,01/01/2012,01/10/2012,,05214703MO,-1131.8000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2542,2542,"CR:Basic Service F... E.Jones 201201: Jones, Eola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,527,527,"CR:Resident Care -... E.Jones 201201: Jones, Eola",,,,,,,,,,,,,,,

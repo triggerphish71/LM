@@ -1,0 +1,6 @@
+BATCH,,201210,B,3933.0000,
+INVOICE,IN,,19010251,,10/01/2012,868.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19014668MO,-2393.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,868.0000,868.00,"CR:Limited Term Di... F.Smith 201210: Smith, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,19010251,,10/01/2012,3065,"Invoice-Private",,10/01/2012,10/10/2012,,19014668MO,-2393.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... F.Smith 201210: Smith, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... F.Smith 201210: Smith, Frances",,,,,,,,,,,,,,,

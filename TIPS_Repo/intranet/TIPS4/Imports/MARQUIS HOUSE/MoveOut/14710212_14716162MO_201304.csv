@@ -1,0 +1,8 @@
+BATCH,,201304,B,7794.0000,
+INVOICE,IN,,14710212,,04/27/2013,3672.0000,"Invoice-Private",,04/27/2013,04/27/2013,,14716162MO,-4708.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,27,101.0000,2727.00,"Basic Service Fee - Studio for Apr: Little, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,27,35.0000,945.00,"Resident Care - Level 2 for Apr: Little, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14710212,,04/27/2013,4122,"Invoice-Private",,04/27/2013,04/27/2013,,14716162MO,-4708.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3030,3030,"CR:Basic Service F... B.Little 201304: Little, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... B.Little 201304: Little, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1050,1050,"CR:Resident Care -... B.Little 201304: Little, Betty",,,,,,,,,,,,,,,

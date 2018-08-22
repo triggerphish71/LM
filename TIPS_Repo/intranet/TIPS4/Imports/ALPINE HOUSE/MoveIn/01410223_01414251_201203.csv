@@ -1,0 +1,5 @@
+BATCH,,201203,B,4400.0000,
+INVOICE,IN,,01410223,,03/07/2012,4400.0000,"MoveIn-Stocker. Dorothy",,03/07/2012,03/07/2012,,01414251,4400.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,25,95.0000,2375,"D.Stocker: Basic Service Fee - Studio: Stocker. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Stocker. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,2000.0000,2000,"New Resident Fee: Stocker. Dorothy",,,,,,,,,,,,,,,

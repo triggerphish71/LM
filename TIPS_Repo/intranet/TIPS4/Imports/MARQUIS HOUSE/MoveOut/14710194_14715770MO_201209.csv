@@ -1,0 +1,5 @@
+BATCH,,201209,B,84.0000,
+INVOICE,IN,,14710194,,09/01/2012,42.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14715770MO,-3607.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Softcheck, Terrance",,,,,,,,,,,,,,,
+INVOICE,CM,,14710194,,09/01/2012,42,"Invoice-Private",,09/01/2012,09/10/2012,,14715770MO,-3607.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Softcheck, Terrance",,,,,,,,,,,,,,,

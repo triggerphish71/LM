@@ -1,0 +1,5 @@
+BATCH,,201204,B,100.0000,
+INVOICE,IN,,17810283,,04/30/2012,50.0000,"Invoice-Private",,04/30/2012,04/30/2012,,17816045MO,-3193.0000,,,,,,,,,,
+TRANSACTION,3150,010212178,1,50.0000,50.00,"Late Fee Adjustment: Mulvihill, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,17810283,,04/30/2012,50,"Invoice-Private",,04/30/2012,04/30/2012,,17816045MO,-3193.0000,,,,,,,,,,
+TRANSACTION,3150,010212178,1,50,50,"Late Fee Adjustment: Mulvihill, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,3452.9800,
+INVOICE,IN,,16910220,,03/01/2012,620.0000,"Invoice-Private",,03/01/2012,03/10/2012,,16914798MO,-2212.9800,,,,,,,,,,
+TRANSACTION,3320,010103169,1,620.0000,620.00,"CR:Limited Term Di... D.Nelson 201203: Nelson, David",,,,,,,,,,,,,,,
+INVOICE,CM,,16910220,,03/01/2012,2832.98,"Invoice-Private",,03/01/2012,03/10/2012,,16914798MO,-2212.9800,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2697,2697,"CR:Basic Service F... D.Nelson 201203: Nelson, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... D.Nelson 201203: Nelson, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,110.98,110.98,"CR:Resident Care -... D.Nelson 201203: Nelson, David",,,,,,,,,,,,,,,

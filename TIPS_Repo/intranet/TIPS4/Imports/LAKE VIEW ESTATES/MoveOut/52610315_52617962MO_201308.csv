@@ -1,0 +1,5 @@
+BATCH,,201308,B,400.0000,
+INVOICE,IN,,52610315,,08/01/2013,200.0000,"Invoice-Private",,08/01/2013,08/10/2013,,52617962MO,-2277.0000,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200.0000,200.00,"Resident Meals: Demunck, Arline",,,,,,,,,,,,,,,
+INVOICE,CM,,52610315,,08/01/2013,200,"Invoice-Private",,08/01/2013,08/10/2013,,52617962MO,-2277.0000,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"Credit for Resident Meals: Demunck, Arline",,,,,,,,,,,,,,,

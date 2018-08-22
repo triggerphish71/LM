@@ -1,0 +1,6 @@
+BATCH,,201210,B,3493.0500,
+INVOICE,IN,,12410283,,10/01/2012,451.0500,"Invoice-Private",,10/01/2012,10/10/2012,,12415011MO,-2577.4500,,,,,,,,,,
+TRANSACTION,3320,010211124,1,451.0500,451.05,"CR:Limited Term Di... H.Easland 201210: Easland, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,12410283,,10/01/2012,3042,"Invoice-Private",,10/01/2012,10/10/2012,,12415011MO,-2577.4500,,,,,,,,,,
+TRANSACTION,3020,010211124,1,3007,3007,"CR:Basic Service F... H.Easland 201210: Easland, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... H.Easland 201210: Easland, Helen",,,,,,,,,,,,,,,

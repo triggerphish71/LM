@@ -1,0 +1,5 @@
+BATCH,,201203,B,1224.0000,
+INVOICE,IN,,02210163,,03/01/2012,108.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02214295MO,-1008.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,3,36.0000,108.00,"Basic Service Fee - Second Resident for Mar: Hiller, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,02210163,,03/01/2012,1116,"Invoice-Private",,03/01/2012,03/10/2012,,02214295MO,-1008.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,1116,1116,"CR:Basic Service F... M.Hiller 201203: Hiller, Maxine",,,,,,,,,,,,,,,

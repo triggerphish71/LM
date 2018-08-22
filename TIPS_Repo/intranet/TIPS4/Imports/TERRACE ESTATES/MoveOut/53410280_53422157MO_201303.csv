@@ -1,0 +1,8 @@
+BATCH,,201303,B,9382.0000,
+INVOICE,IN,,53410280,,03/25/2013,4175.0000,"Invoice-Private",,03/25/2013,03/25/2013,,53422157MO,-6072.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,25,77.0000,1925.00,"Basic Service Fee - One Bedroom for Mar: Suscha, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,25,90.0000,2250.00,"Resident Care - Level 5 for Mar: Suscha, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,53410280,,03/25/2013,5207,"Invoice-Private",,03/25/2013,03/25/2013,,53422157MO,-6072.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2387,2387,"CR:Basic Service F... J.Suscha 201303: Suscha, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Suscha 201303: Suscha, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2790,2790,"CR:Resident Care -... J.Suscha 201303: Suscha, Joseph",,,,,,,,,,,,,,,

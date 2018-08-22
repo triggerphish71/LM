@@ -1,0 +1,7 @@
+BATCH,,201207,B,8480.0000,
+INVOICE,IN,,08910191,,07/22/2012,3520.0000,"Invoice-Private",,07/22/2012,07/22/2012,,08914896MO,-6400.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,22,111.0000,2442.00,"Basic Service Fee - Studio for Jul: Deckard, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,22,49.0000,1078.00,"Resident Care - Level 3 for Jul: Deckard, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,08910191,,07/22/2012,4960,"Invoice-Private",,07/22/2012,07/22/2012,,08914896MO,-6400.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3441,3441,"CR:Basic Service F... R.Deckard 201207: Deckard, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1519,1519,"CR:Resident Care -... R.Deckard 201207: Deckard, Rita",,,,,,,,,,,,,,,

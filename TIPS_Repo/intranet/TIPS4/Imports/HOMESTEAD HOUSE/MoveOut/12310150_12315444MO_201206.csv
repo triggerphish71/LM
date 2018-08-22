@@ -1,0 +1,8 @@
+BATCH,,201206,B,6252.0000,
+INVOICE,IN,,12310150,,06/06/2012,1092.0000,"Invoice-Private",,06/06/2012,06/06/2012,,12315444MO,-4068.0000,,,,,,,,,,
+TRANSACTION,3320,010211123,1,60.0000,60.00,"CR:Limited Term Di... E.Patrick 201206: Patrick, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211123,6,103.0000,618.00,"Basic Service Fee - Studio for Jun: Patrick, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,6,69.0000,414.00,"Resident Care - Level 4 for Jun: Patrick, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,12310150,,06/06/2012,5160,"Invoice-Private",,06/06/2012,06/06/2012,,12315444MO,-4068.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3090,3090,"CR:Basic Service F... E.Patrick 201206: Patrick, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,2070,2070,"CR:Resident Care -... E.Patrick 201206: Patrick, Evelyn",,,,,,,,,,,,,,,

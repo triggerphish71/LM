@@ -1,0 +1,7 @@
+BATCH,,201110,B,6072.0000,
+INVOICE,IN,,09010232,,10/13/2011,1980.0000,"Invoice-Private",,10/13/2011,10/13/2011,,09014803MO,-6072.0000,,,,,,,,,,
+TRANSACTION,3027,010104090,15,43.0000,645.00,"Resident Care - Level 3 for Oct: Stevens, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104090,15,89.0000,1335.00,"Room and Board - Studio for Oct: Stevens, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,09010232,,10/13/2011,4092,"Invoice-Private",,10/13/2011,10/13/2011,,09014803MO,-6072.0000,,,,,,,,,,
+TRANSACTION,3027,010104090,1,1333,1333,"CR:Resident Care -... R.Stevens 201110: Stevens, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2759,2759,"CR:Room and Board ... R.Stevens 201110: Stevens, Ruth",,,,,,,,,,,,,,,

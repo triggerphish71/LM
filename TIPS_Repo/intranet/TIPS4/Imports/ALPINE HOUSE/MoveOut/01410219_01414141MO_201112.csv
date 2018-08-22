@@ -1,0 +1,8 @@
+BATCH,,201112,B,8382.0000,
+INVOICE,IN,,01410219,,12/01/2011,4110.0000,"Invoice-Private",,12/01/2011,12/01/2011,,01414141MO,-162.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,30,120.0000,3600.00,"Basic Service Fee - One Bedroom for Dec: Fory, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,30,17.0000,510.00,"Resident Care - Level 1 for Dec: Fory, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,01410219,,12/01/2011,4272,"Invoice-Private",,12/01/2011,12/01/2011,,01414141MO,-162.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,3720,3720,"CR:Basic Service F... H.Fory 201112: Fory, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... H.Fory 201112: Fory, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,527,527,"CR:Resident Care -... H.Fory 201112: Fory, Howard",,,,,,,,,,,,,,,

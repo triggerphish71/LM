@@ -1,0 +1,6 @@
+BATCH,,201306,B,3886.5000,
+INVOICE,IN,,51910216,,06/01/2013,222.0000,"Invoice-Private",,06/01/2013,06/10/2013,,51913560MO,-3442.5000,,,,,,,,,,
+TRANSACTION,3027,010103519,1,222.0000,222.00,"CR:Resident Care L... D.Stewart 201306: Stewart, David",,,,,,,,,,,,,,,
+INVOICE,CM,,51910216,,06/01/2013,3664.5,"Invoice-Private",,06/01/2013,06/10/2013,,51913560MO,-3442.5000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2610,2610,"CR:Basic Service F... D.Stewart 201306: Stewart, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,1054.5,1054.5,"CR:Resident Care -... D.Stewart 201306: Stewart, David",,,,,,,,,,,,,,,

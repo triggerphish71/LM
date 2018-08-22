@@ -1,0 +1,5 @@
+BATCH,,201207,B,4470.0000,
+INVOICE,IN,,04110242,,07/02/2012,4470.0000,"MoveIn-Range Jr . Byron ",,07/02/2012,07/02/2012,,04114447,4470.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,30,82.0000,2460,"Basic Service Fee - Studio: Range Jr . Byron ",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,30,17.0000,510,"Resident Care - Level 1: Range Jr . Byron ",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Range Jr . Byron ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,5871.0000,
+INVOICE,IN,,09910138,,05/26/2013,2678.0000,"Invoice-Private",,05/26/2013,05/26/2013,,09914528MO,-3605.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,26,88.0000,2288.00,"Basic Service Fee - Studio for May: Rigby, Janetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,26,15.0000,390.00,"Resident Care - Level 1 for May: Rigby, Janetta",,,,,,,,,,,,,,,
+INVOICE,CM,,09910138,,05/26/2013,3193,"Invoice-Private",,05/26/2013,05/26/2013,,09914528MO,-3605.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2728,2728,"CR:Basic Service F... J.Rigby 201305: Rigby, Janetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,465,465,"CR:Resident Care -... J.Rigby 201305: Rigby, Janetta",,,,,,,,,,,,,,,

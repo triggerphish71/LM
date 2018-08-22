@@ -1,0 +1,6 @@
+BATCH,,201707,B,8156.6000,
+INVOICE,IN,,18000099,,07/01/2017,8156.6000,"MoveIn-Pinicon2. Joe",,07/01/2017,07/01/2017,,18011283,8156.6000,,,,,,,,,,
+TRANSACTION,3010,010012180,1,3250.0000,3250,"Basic Service Fee - Studio: Pinicon2. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012180,1,31.6000,31.6,"Monthly Cable: Pinicon2. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012180,1,3250.0000,3250,"CommunityFee: Pinicon2. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012180,1,1625.0000,1625,"Monthly Deferral Charge: Pinicon2. Joe",,,,,,,,,,,,,,,

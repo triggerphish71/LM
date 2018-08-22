@@ -1,0 +1,7 @@
+BATCH,,201803,B,7124.0000,
+INVOICE,IN,,05810326,,03/21/2018,2877.0000,"Invoice-Private",,03/21/2018,03/21/2018,,05816806MO,-5480.0000,,,,,,,,,,
+TRANSACTION,3020,010002058,21,101.0000,2121.00,"Basic Service Fee - Studio  for Mar: Smith, Alice Florine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002058,21,36.0000,756.00,"Resident Care - Level 2  for Mar: Smith, Alice Florine",,,,,,,,,,,,,,,
+INVOICE,CM,,05810326,,03/21/2018,4247,"Invoice-Private",,03/21/2018,03/21/2018,,05816806MO,-5480.0000,,,,,,,,,,
+TRANSACTION,3020,010002058,1,3131,3131,"CR:Basic Service F... A.Smith 201803: Smith, Alice Florine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002058,1,1116,1116,"CR:Resident Care -... A.Smith 201803: Smith, Alice Florine",,,,,,,,,,,,,,,

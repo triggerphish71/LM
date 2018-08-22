@@ -1,0 +1,6 @@
+BATCH,,201204,B,4629.0000,
+INVOICE,IN,,17610305,,04/10/2012,4629.0000,"MoveIn-Groebner. Elaine",,04/10/2012,04/10/2012,,17614404,4629.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,21,73.0000,1533,"Basic Service Fee - Studio: Groebner. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,21,66.0000,1386,"Resident Care - Level 5: Groebner. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Groebner. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,21,10.0000,210,"CC Meals: Groebner. Elaine",,,,,,,,,,,,,,,

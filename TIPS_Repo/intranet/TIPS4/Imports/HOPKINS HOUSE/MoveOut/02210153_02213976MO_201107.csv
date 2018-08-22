@@ -1,0 +1,7 @@
+BATCH,,201107,B,4923.0000,
+INVOICE,IN,,02210153,,07/01/2011,682.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02213976MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,1,682.0000,682.00,"CR:Limited Term Di... B.Jones 201107: Jones, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,02210153,,07/01/2011,4241,"Invoice-Private",,07/01/2011,07/10/2011,,02213976MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2542,2542,"CR:Basic Service F... B.Jones 201107: Jones, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... B.Jones 201107: Jones, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,1674,1674,"CR:Resident Care -... B.Jones 201107: Jones, Billy",,,,,,,,,,,,,,,

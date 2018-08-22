@@ -1,0 +1,5 @@
+BATCH,,201305,B,4435.0000,
+INVOICE,IN,,11110346,,05/02/2013,4435.0000,"MoveIn-Mencik. Jitka",,05/02/2013,05/02/2013,,11115189,4435.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,30,97.0000,2910,"Basic Service Fee - Studio: Mencik. Jitka",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Mencik. Jitka",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,1500.0000,1500,"New Resident Fee: Mencik. Jitka",,,,,,,,,,,,,,,

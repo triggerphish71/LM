@@ -1,0 +1,5 @@
+BATCH,,201209,B,960.0000,
+INVOICE,IN,,50910136,,09/01/2012,480.0000,"Invoice-Private",,09/01/2012,09/10/2012,,50913096MO,-556.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,16.0000,480.00,"Credit for Limited Term Discount: Fitzhugh, Billie",,,,,,,,,,,,,,,
+INVOICE,CM,,50910136,,09/01/2012,480,"Invoice-Private",,09/01/2012,09/10/2012,,50913096MO,-556.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,16,480,"Limited Term Discount: Fitzhugh, Billie",,,,,,,,,,,,,,,

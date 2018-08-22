@@ -1,0 +1,7 @@
+BATCH,,201209,B,9185.0000,
+INVOICE,IN,,52510075,,09/23/2012,4175.0000,"Invoice-Private",,09/23/2012,09/23/2012,,52512626MO,-6012.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,25,112.0000,2800.00,"Basic Service Fee - Studio for Sep: Wakeman, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,25,55.0000,1375.00,"Resident Care - Level 4 for Sep: Wakeman, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,52510075,,09/23/2012,5010,"Invoice-Private",,09/23/2012,09/23/2012,,52512626MO,-6012.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3360,3360,"CR:Basic Service F... A.Wakeman 201209: Wakeman, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,1650,1650,"CR:Resident Care -... A.Wakeman 201209: Wakeman, Anne",,,,,,,,,,,,,,,

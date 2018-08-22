@@ -1,0 +1,7 @@
+BATCH,,201304,B,6587.1600,
+INVOICE,IN,,11710217,,04/04/2013,774.9600,"Invoice-Private",,04/04/2013,04/04/2013,,11714053MO,-5037.2400,,,,,,,,,,
+TRANSACTION,3020,010305117,4,94.0000,376.00,"Basic Service Fee - Deluxe for Apr: Rogers, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,4,99.7400,398.96,"Resident Care - Level 6+6 pts for Apr: Rogers, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,11710217,,04/04/2013,5812.2,"Invoice-Private",,04/04/2013,04/04/2013,,11714053MO,-5037.2400,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2820,2820,"CR:Basic Service F... B.Rogers 201304: Rogers, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,2992.2,2992.2,"CR:Resident Care -... B.Rogers 201304: Rogers, Barbara",,,,,,,,,,,,,,,

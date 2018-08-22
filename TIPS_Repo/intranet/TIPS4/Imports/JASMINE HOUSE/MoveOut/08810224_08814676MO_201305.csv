@@ -1,0 +1,7 @@
+BATCH,,201305,B,2982.0000,
+INVOICE,IN,,08810224,,05/09/2013,781.0000,"Invoice-Private",,05/09/2013,05/09/2013,,08814676MO,-1420.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,11,55.0000,605.00,"Basic Service Fee - Studio for May: Robbins, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,11,16.0000,176.00,"Resident Care - Level 1 for May: Robbins, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08810224,,05/09/2013,2201,"Invoice-Private",,05/09/2013,05/09/2013,,08814676MO,-1420.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1705,1705,"CR:Basic Service F... H.Robbins 201305: Robbins, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,496,496,"CR:Resident Care -... H.Robbins 201305: Robbins, Helen",,,,,,,,,,,,,,,

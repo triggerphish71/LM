@@ -1,0 +1,6 @@
+BATCH,,201801,B,6790.2700,
+INVOICE,IN,,14610411,,01/01/2018,6790.2700,"MoveIn-Eveslage. Frances",,01/01/2018,01/01/2018,,14617431,6790.2700,,,,,,,,,,
+TRANSACTION,3010,010009146,31,132.0000,4092,"Basic Service Fee - One Bedroom: Eveslage. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009146,1,31.6000,31.6,"Monthly Cable: Eveslage. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,2000.0000,2000,"Community Fee: Eveslage. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,666.6700,666.67,"Monthly Deferral Charge: Eveslage. Frances",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,3505.0000,
+INVOICE,IN,,10910245,,06/01/2012,3505.0000,"June_Rent-Scott. Charles",,06/01/2012,06/10/2012,,10914730,5646.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,30,100.0000,3000,"C.Scott: Basic Service Fee- One Bedroom Prem: Scott. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,30,16.0000,480,"C.Scott: Resident Care - Level 1: Scott. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Scott. Charles",,,,,,,,,,,,,,,

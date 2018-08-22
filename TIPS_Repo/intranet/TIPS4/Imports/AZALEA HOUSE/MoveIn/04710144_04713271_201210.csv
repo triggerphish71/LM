@@ -1,0 +1,5 @@
+BATCH,,201210,B,3486.0000,
+INVOICE,IN,,04710144,,10/10/2012,3486.0000,"MoveIn-Moss. Thelma",,10/10/2012,10/10/2012,,04713271,3486.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,22,96.0000,2112,"Basic Service Fee - Studio         : Moss. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,22,17.0000,374,"Resident Care - Level 1: Moss. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Moss. Thelma",,,,,,,,,,,,,,,

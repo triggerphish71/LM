@@ -1,0 +1,6 @@
+BATCH,,201207,B,5983.0000,
+INVOICE,IN,,17410213,,07/01/2012,124.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17414336MO,-6938.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,124.0000,124.00,"CR:Limited Term Di... R.Thompson 201207: Thompson, R",,,,,,,,,,,,,,,
+INVOICE,CM,,17410213,,07/01/2012,5859,"Invoice-Private",,07/01/2012,07/10/2012,,17414336MO,-6938.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,3472,3472,"CR:Basic Service F... R.Thompson 201207: Thompson, R",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,2387,2387,"CR:Resident Care -... R.Thompson 201207: Thompson, R",,,,,,,,,,,,,,,

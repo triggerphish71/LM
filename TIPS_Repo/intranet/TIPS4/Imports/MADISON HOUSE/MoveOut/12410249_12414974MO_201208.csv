@@ -1,0 +1,8 @@
+BATCH,,201208,B,7091.0000,
+INVOICE,IN,,12410249,,08/17/2012,2499.0000,"Invoice-Private",,08/17/2012,08/17/2012,,12414974MO,-6538.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,17,86.0000,1462.00,"Basic Service Fee - Deluxe for Aug: Ensminger, Raman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,17,61.0000,1037.00,"Resident Care - Level 4 for Aug: Ensminger, Raman",,,,,,,,,,,,,,,
+INVOICE,CM,,12410249,,08/17/2012,4592,"Invoice-Private",,08/17/2012,08/17/2012,,12414974MO,-6538.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2666,2666,"CR:Basic Service F... R.Ensminger 201208: Ensminger, Raman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... R.Ensminger 201208: Ensminger, Raman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,1891,1891,"CR:Resident Care -... R.Ensminger 201208: Ensminger, Raman",,,,,,,,,,,,,,,

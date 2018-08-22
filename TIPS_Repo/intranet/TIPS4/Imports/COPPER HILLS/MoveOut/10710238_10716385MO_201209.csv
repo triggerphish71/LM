@@ -1,0 +1,8 @@
+BATCH,,201209,B,5838.0000,
+INVOICE,IN,,10710238,,09/08/2012,1608.0000,"Invoice-Private",,09/08/2012,09/08/2012,,10716385MO,-6497.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,480.0000,480.00,"CR:Limited Term Di... V.Burdsall 201209: Burdsall, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,8,98.0000,784.00,"Basic Service Fee - Studio for Sep: Burdsall, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,8,43.0000,344.00,"Resident Care - Level 3 for Sep: Burdsall, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,10710238,,09/08/2012,4230,"Invoice-Private",,09/08/2012,09/08/2012,,10716385MO,-6497.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2940,2940,"CR:Basic Service F... V.Burdsall 201209: Burdsall, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1290,1290,"CR:Resident Care -... V.Burdsall 201209: Burdsall, Virginia",,,,,,,,,,,,,,,

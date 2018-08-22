@@ -1,0 +1,5 @@
+BATCH,,201211,B,575.0000,
+INVOICE,IN,,13210300,,11/29/2012,575.0000,"MoveIn-Saunders. Percy",,11/29/2012,11/29/2012,,13215720,3671.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,2,99.0000,198,"Basic Service Fee - Studio: Saunders. Percy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Saunders. Percy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,350.0000,350,"New Resident Fee: Saunders. Percy",,,,,,,,,,,,,,,

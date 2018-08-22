@@ -1,0 +1,5 @@
+BATCH,,201112,B,489.8000,
+INVOICE,IN,,05210168,,12/01/2011,244.9000,"Invoice-Private",,12/01/2011,12/10/2011,,05214629MO,-308.0000,,,,,,,,,,
+TRANSACTION,3312,010202052,31,7.9000,244.90,"Credit for Two Room Rental Discount: Day, James",,,,,,,,,,,,,,,
+INVOICE,CM,,05210168,,12/01/2011,244.9,"Invoice-Private",,12/01/2011,12/10/2011,,05214629MO,-308.0000,,,,,,,,,,
+TRANSACTION,3312,010202052,31,7.9,244.9,"Two Room Rental Discount: Day, James",,,,,,,,,,,,,,,

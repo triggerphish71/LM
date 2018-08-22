@@ -1,0 +1,5 @@
+BATCH,,201206,B,2688.0000,
+INVOICE,IN,,02910326,,06/22/2012,2688.0000,"MoveIn-Cross. Blanche",,06/22/2012,06/22/2012,,02915661,6780.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,9,100.0000,900,"Basic Service Fee - Studio: Cross. Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,9,32.0000,288,"Resident Care - Level 2: Cross. Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Cross. Blanche",,,,,,,,,,,,,,,

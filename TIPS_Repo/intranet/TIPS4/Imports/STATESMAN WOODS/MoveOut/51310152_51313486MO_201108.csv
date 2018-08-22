@@ -1,0 +1,7 @@
+BATCH,,201108,B,9296.0000,
+INVOICE,IN,,51310152,,08/25/2011,4150.0000,"Invoice-Private",,08/25/2011,08/25/2011,,51313486MO,-5976.0000,,,,,,,,,,
+TRANSACTION,3027,010310513,25,63.0000,1575.00,"Resident Care - Level 5 for Aug: Johnson, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,25,103.0000,2575.00,"Room and Board - Studio for Aug: Johnson, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,51310152,,08/25/2011,5146,"Invoice-Private",,08/25/2011,08/25/2011,,51313486MO,-5976.0000,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1953,1953,"CR:Resident Care -... E.Johnson 201108: Johnson, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3193,3193,"CR:Room and Board ... E.Johnson 201108: Johnson, Eva",,,,,,,,,,,,,,,

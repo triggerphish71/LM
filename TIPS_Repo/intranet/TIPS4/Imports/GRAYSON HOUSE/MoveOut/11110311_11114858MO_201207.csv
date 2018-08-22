@@ -1,0 +1,8 @@
+BATCH,,201207,B,6875.0000,
+INVOICE,IN,,11110311,,07/05/2012,2969.0000,"Invoice-Private",,07/05/2012,07/05/2012,,11114858MO,-937.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,1457.0000,1457.00,"CR:Limited Term Di... E.Scott 201207: Scott, Edith Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107111,12,97.0000,1164.00,"Basic Service Fee - Studio for Jul: Scott, Edith Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,12,29.0000,348.00,"Resident Care - Level 2 for Jul: Scott, Edith Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,11110311,,07/05/2012,3906,"Invoice-Private",,07/05/2012,07/05/2012,,11114858MO,-937.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3007,3007,"CR:Basic Service F... E.Scott 201207: Scott, Edith Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,899,899,"CR:Resident Care -... E.Scott 201207: Scott, Edith Juanita",,,,,,,,,,,,,,,

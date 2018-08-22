@@ -1,0 +1,5 @@
+BATCH,,201201,B,3077.0000,
+INVOICE,IN,,17610295,,01/13/2012,3077.0000,"MoveIn-Jewell. Harold",,01/13/2012,01/13/2012,,17614253,3077.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,19,73.0000,1387,"Basic Service Fee - Studio: Jewell. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Jewell. Harold",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,19,10.0000,190,"CC Meals: Jewell. Harold",,,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+BATCH,,201304,B,3630.0000,
+INVOICE,CM,,50510080,,04/01/2013,3630,"Invoice-Private",,04/01/2013,04/10/2013,,50511953MO,-5445.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,2850,2850,"CR:Basic Service F... P.Rule 201304: Rule, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,780,780,"CR:Resident Care -... P.Rule 201304: Rule, Phyllis",,,,,,,,,,,,,,,

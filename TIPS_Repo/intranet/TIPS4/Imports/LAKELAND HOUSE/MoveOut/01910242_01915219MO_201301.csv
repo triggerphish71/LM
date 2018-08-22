@@ -1,0 +1,6 @@
+BATCH,,201301,B,3045.0000,
+INVOICE,IN,,01910242,,01/01/2013,50.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01915219MO,-4017.0000,,,,,,,,,,
+TRANSACTION,3150,010202019,1,50.0000,50.00,"Late Fee Adjustment: Hickman, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,01910242,,01/01/2013,2995,"Invoice-Private",,01/01/2013,01/10/2013,,01915219MO,-4017.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2945,2945,"CR:Basic Service F... L.Hickman 201301: Hickman, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3150,010202019,1,50,50,"Late Fee Adjustment: Hickman, Lois",,,,,,,,,,,,,,,

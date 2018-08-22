@@ -1,0 +1,5 @@
+BATCH,,201207,B,3420.0000,
+INVOICE,IN,,01910229,,07/05/2012,475.0000,"Invoice-Private",,07/05/2012,07/05/2012,,01914954MO,-2470.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,5,95.0000,475.00,"Basic Service Fee - Studio for Jul: Austin, Lawanda",,,,,,,,,,,,,,,
+INVOICE,CM,,01910229,,07/05/2012,2945,"Invoice-Private",,07/05/2012,07/05/2012,,01914954MO,-2470.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2945,2945,"CR:Basic Service F... L.Austin 201207: Austin, Lawanda",,,,,,,,,,,,,,,

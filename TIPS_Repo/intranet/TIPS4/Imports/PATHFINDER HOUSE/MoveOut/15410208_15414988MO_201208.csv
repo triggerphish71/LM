@@ -1,0 +1,5 @@
+BATCH,,201208,B,70.0000,
+INVOICE,IN,,15410208,,08/01/2012,35.0000,"Invoice-Private",,08/01/2012,08/10/2012,,15414988MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Sindelar, Lenora",,,,,,,,,,,,,,,
+INVOICE,CM,,15410208,,08/01/2012,35,"Invoice-Private",,08/01/2012,08/10/2012,,15414988MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Sindelar, Lenora",,,,,,,,,,,,,,,

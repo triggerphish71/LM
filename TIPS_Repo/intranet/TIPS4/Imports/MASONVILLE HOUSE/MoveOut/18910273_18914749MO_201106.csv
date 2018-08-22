@@ -1,0 +1,7 @@
+BATCH,,201106,B,2065.0000,
+INVOICE,IN,,18910273,,06/05/2011,945.0000,"Invoice-Private",,06/05/2011,06/05/2011,,18914749MO,-175.0000,,,,,,,,,,
+TRANSACTION,3321,010315189,1,810.0000,810.00,"CR:2nd Resident Fr... M.Lukas 201106: Lukas, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315189,5,27.0000,135.00,"Basic Service Fee - Second Resident for Jun: Lukas, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,18910273,,06/05/2011,1120,"Invoice-Private",,06/05/2011,06/05/2011,,18914749MO,-175.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,810,810,"CR:Basic Service F... M.Lukas 201106: Lukas, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315189,1,310,310,"CR:HSG Meals... M.Lukas 201106: Lukas, Mary",,,,,,,,,,,,,,,

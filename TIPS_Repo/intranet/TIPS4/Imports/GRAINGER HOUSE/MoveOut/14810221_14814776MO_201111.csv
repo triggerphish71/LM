@@ -1,0 +1,8 @@
+BATCH,,201111,B,5990.0000,
+INVOICE,IN,,14810221,,11/20/2011,2432.0000,"Invoice-Private",,11/20/2011,11/20/2011,,14814776MO,-4740.6000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,60.0000,60.00,"CR:Limited Term Di... M.Nuzzo 201111: Nuzzo, Mary Grace",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,20,61.6000,1232.00,"Basic Service Fee - Companion Studio for Nov: Nuzzo, Mary Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,20,57.0000,1140.00,"Resident Care - Level 4 for Nov: Nuzzo, Mary Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,14810221,,11/20/2011,3558,"Invoice-Private",,11/20/2011,11/20/2011,,14814776MO,-4740.6000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,1848,1848,"CR:Basic Service F... M.Nuzzo 201111: Nuzzo, Mary Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1710,1710,"CR:Resident Care -... M.Nuzzo 201111: Nuzzo, Mary Grace",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201307,B,5328.0000,
+INVOICE,IN,,03210302,,07/04/2013,1887.0000,"Invoice-Private",,07/04/2013,07/04/2013,,03215437MO,-1554.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,17,94.0000,1598.00,"Basic Service Fee - Studio for Jul: Betty, Lyons",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,17,17.0000,289.00,"Resident Care - Level 1 for Jul: Betty, Lyons",,,,,,,,,,,,,,,
+INVOICE,CM,,03210302,,07/04/2013,3441,"Invoice-Private",,07/04/2013,07/04/2013,,03215437MO,-1554.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... L.Betty 201307: Betty, Lyons",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,527,527,"CR:Resident Care -... L.Betty 201307: Betty, Lyons",,,,,,,,,,,,,,,

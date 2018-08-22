@@ -1,0 +1,8 @@
+BATCH,,201110,B,6337.0000,
+INVOICE,IN,,19510124,,10/14/2011,2055.0000,"Invoice-Private",,10/14/2011,10/14/2011,,19514065MO,-2227.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,15,90.0000,1350.00,"Basic Service Fee - Studio for Oct: Ewing, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,15,47.0000,705.00,"Resident Care - Level 3 for Oct: Ewing, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,19510124,,10/14/2011,4282,"Invoice-Private",,10/14/2011,10/14/2011,,19514065MO,-2227.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2790,2790,"CR:Basic Service F... D.Ewing 201110: Ewing, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309195,1,35,35,"CR:Pendant Fee... D.Ewing 201110: Ewing, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1457,1457,"CR:Resident Care -... D.Ewing 201110: Ewing, Dorothy",,,,,,,,,,,,,,,

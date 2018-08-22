@@ -1,0 +1,8 @@
+BATCH,,201804,B,8136.0000,
+INVOICE,IN,,14810502,,04/10/2018,2166.0000,"Invoice-Private",,04/10/2018,04/10/2018,,14817763MO,-3804.0000,,,,,,,,,,
+TRANSACTION,3017,010010148,2,65.0000,130.00,"Level: 3  to  Level: 5  - 04/03: Johnson, Livingstone",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010148,8,87.0000,696.00," Level: 5 : Johnson, Livingstone",,,,,,,,,,,,,,,
+TRANSACTION,3020,010010148,10,134.0000,1340.00,"Basic Service Fee - One Bedroom  for Apr: Johnson, Livingstone",,,,,,,,,,,,,,,
+INVOICE,CM,,14810502,,04/10/2018,5970,"Invoice-Private",,04/10/2018,04/10/2018,,14817763MO,-3804.0000,,,,,,,,,,
+TRANSACTION,3020,010010148,1,4020,4020,"CR:Basic Service F... L.Johnson 201804: Johnson, Livingstone",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010148,1,1950,1950,"CR:Resident Care -... L.Johnson 201804: Johnson, Livingstone",,,,,,,,,,,,,,,

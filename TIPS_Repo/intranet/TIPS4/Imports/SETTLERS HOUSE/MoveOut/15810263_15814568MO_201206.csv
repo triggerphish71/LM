@@ -1,0 +1,6 @@
+BATCH,,201206,B,3870.0000,
+INVOICE,IN,,15810263,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15814568MO,-4704.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,60.0000,60.00,"CR:Limited Term Di... H.Buss 201206: Buss, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,15810263,,06/01/2012,3810,"Invoice-Private",,06/01/2012,06/10/2012,,15814568MO,-4704.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2880,2880,"CR:Basic Service F... H.Buss 201206: Buss, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,930,930,"CR:Resident Care -... H.Buss 201206: Buss, Harriet",,,,,,,,,,,,,,,

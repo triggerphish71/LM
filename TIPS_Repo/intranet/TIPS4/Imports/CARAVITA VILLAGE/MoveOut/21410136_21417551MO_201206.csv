@@ -1,0 +1,7 @@
+BATCH,,201206,B,3689.0000,
+INVOICE,IN,,21410136,,06/01/2012,119.0000,"Invoice-Private",,06/01/2012,06/10/2012,,21417551MO,-3451.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,12.0000,12.00,"Resident Care - Level 1 for Jun: Grant, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,107.0000,107.00,"Studio Suite for Jun: Grant, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21410136,,06/01/2012,3570,"Invoice-Private",,06/01/2012,06/10/2012,,21417551MO,-3451.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,360,360,"CR:Resident Care -... F.Grant 201206: Grant, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,3210,3210,"CR:Studio Suite... F.Grant 201206: Grant, Frances",,,,,,,,,,,,,,,

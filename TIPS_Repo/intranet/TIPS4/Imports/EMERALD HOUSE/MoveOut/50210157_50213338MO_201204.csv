@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,50210157,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,50213338MO,-2440.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,30,2.0000,60.00,"Credit for Limited Term Discount: Cooper, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,50210157,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,50213338MO,-2440.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,30,2,60,"Limited Term Discount: Cooper, Joe",,,,,,,,,,,,,,,

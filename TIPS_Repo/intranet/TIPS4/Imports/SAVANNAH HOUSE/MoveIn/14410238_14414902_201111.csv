@@ -1,0 +1,6 @@
+BATCH,,201111,B,4023.0000,
+INVOICE,IN,,14410238,,11/14/2011,4023.0000,"MoveIn-Blanton. Edith",,11/14/2011,11/14/2011,,14414902,4023.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,17,106.0000,1802,"Basic Service Fee - Studio: Blanton. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,17,29.0000,493,"Resident Care - Level 2: Blanton. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Blanton. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,1700.0000,1700,"New Resident Fee: Blanton. Edith",,,,,,,,,,,,,,,

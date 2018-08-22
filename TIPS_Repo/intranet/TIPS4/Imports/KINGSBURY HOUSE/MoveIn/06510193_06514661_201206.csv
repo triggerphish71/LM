@@ -1,0 +1,5 @@
+BATCH,,201206,B,5875.0000,
+INVOICE,IN,,06510193,,06/06/2012,5875.0000,"MoveIn-Siler. Cletus",,06/06/2012,06/06/2012,,06514661,5875.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,25,120.0000,3000,"Basic Service Fee- One Bedroom Prem: Siler. Cletus",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,25,55.0000,1375,"Resident Care - Level 3: Siler. Cletus",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305065,1,1500.0000,1500,"New Resident Fee: Siler. Cletus",,,,,,,,,,,,,,,

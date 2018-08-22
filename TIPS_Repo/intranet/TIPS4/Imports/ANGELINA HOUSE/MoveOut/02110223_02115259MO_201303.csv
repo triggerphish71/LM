@@ -1,0 +1,6 @@
+BATCH,,201303,B,2828.0000,
+INVOICE,IN,,02110223,,03/22/2013,98.0000,"Invoice-Private",,03/22/2013,03/22/2013,,02115259MO,-5572.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,98.0000,98.00,"Basic Service Fee - Studio for Mar: jay, ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,02110223,,03/22/2013,2730,"Invoice-Private",,03/22/2013,03/22/2013,,02115259MO,-5572.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,980,980,"CR:Basic Service F... r.jay 201303: jay, ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202021,1,1750,1750,"CR:New Resident Fe... r.jay 201303: jay, ruth",,,,,,,,,,,,,,,

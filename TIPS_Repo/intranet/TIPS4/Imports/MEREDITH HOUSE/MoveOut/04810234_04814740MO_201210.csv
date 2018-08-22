@@ -1,0 +1,6 @@
+BATCH,,201210,B,4588.0000,
+INVOICE,IN,,04810234,,10/01/2012,527.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04814740MO,-4596.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,1,527.0000,527.00,"CR:Limited Term Di... B.Fulcher 201210: Fulcher, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,04810234,,10/01/2012,4061,"Invoice-Private",,10/01/2012,10/10/2012,,04814740MO,-4596.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3193,3193,"CR:Basic Service F... B.Fulcher 201210: Fulcher, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,868,868,"CR:Resident Care -... B.Fulcher 201210: Fulcher, Bill",,,,,,,,,,,,,,,

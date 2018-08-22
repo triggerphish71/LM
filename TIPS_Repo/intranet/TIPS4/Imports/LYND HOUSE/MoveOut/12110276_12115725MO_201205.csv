@@ -1,0 +1,7 @@
+BATCH,,201205,B,5154.0000,
+INVOICE,IN,,12110276,,05/01/2012,1240.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12115725MO,-1668.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,1240.0000,1240.00,"CR:Limited Term Di... D.Oliver 201205: Oliver, Debra",,,,,,,,,,,,,,,
+INVOICE,CM,,12110276,,05/01/2012,3914,"Invoice-Private",,05/01/2012,05/10/2012,,12115725MO,-1668.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3844,3844,"CR:Basic Service F... D.Oliver 201205: Oliver, Debra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... D.Oliver 201205: Oliver, Debra",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309121,1,35,35,"CR:Pendant Fee... D.Oliver 201205: Oliver, Debra",,,,,,,,,,,,,,,

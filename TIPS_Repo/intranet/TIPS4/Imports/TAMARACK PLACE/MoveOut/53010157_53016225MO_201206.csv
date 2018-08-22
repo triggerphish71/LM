@@ -1,0 +1,8 @@
+BATCH,,201206,B,10587.0000,
+INVOICE,IN,,53010157,,06/08/2012,4577.0000,"Invoice-Private",,06/08/2012,06/08/2012,,53016225MO,-7642.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,23,119.0000,2737.00,"Basic Service Fee-One Bedroom Premi for Jun: Schweiss, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,23,80.0000,1840.00,"Resident Care - Level 5 for Jun: Schweiss, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,53010157,,06/08/2012,6010,"Invoice-Private",,06/08/2012,06/08/2012,,53016225MO,-7642.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3570,3570,"CR:Basic Service F... C.Schweiss 201206: Schweiss, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... C.Schweiss 201206: Schweiss, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,2400,2400,"CR:Resident Care -... C.Schweiss 201206: Schweiss, Charles",,,,,,,,,,,,,,,

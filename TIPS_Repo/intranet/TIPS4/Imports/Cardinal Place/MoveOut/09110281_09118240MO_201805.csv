@@ -1,0 +1,8 @@
+BATCH,,201805,B,9728.0000,
+INVOICE,IN,,09110281,,05/07/2018,3528.0000,"Invoice-Private",,05/07/2018,05/07/2018,,09118240MO,-8672.0000,,,,,,,,,,
+TRANSACTION,3017,010005091,3,65.0000,195.00,"Level: 3 : Craig, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005091,12,109.0000,1308.00," Level: 5 : Craig, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005091,15,135.0000,2025.00,"Basic Service Fee - One Bedroom  for May: Craig, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,09110281,,05/07/2018,6200,"Invoice-Private",,05/07/2018,05/07/2018,,09118240MO,-8672.0000,,,,,,,,,,
+TRANSACTION,3020,010005091,1,4185,4185,"CR:Basic Service F... M.Craig 201805: Craig, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005091,1,2015,2015,"CR:Resident Care -... M.Craig 201805: Craig, Margaret",,,,,,,,,,,,,,,

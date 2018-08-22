@@ -1,0 +1,5 @@
+BATCH,,201305,B,3498.0000,
+INVOICE,IN,,50110294,,05/04/2013,3498.0000,"MoveIn-Day. Rita",,05/04/2013,05/04/2013,,50114691,3498.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,28,106.0000,2968,"Basic Service Fee - One Bedroom: Day. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Day. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,500.0000,500,"New Resident Fee: Day. Rita",,,,,,,,,,,,,,,

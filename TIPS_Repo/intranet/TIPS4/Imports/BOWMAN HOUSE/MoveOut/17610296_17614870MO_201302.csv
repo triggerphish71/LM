@@ -1,0 +1,8 @@
+BATCH,,201302,B,3850.0000,
+INVOICE,IN,,17610296,,02/02/2013,238.0000,"Invoice-Private",,02/02/2013,02/02/2013,,17614870MO,-3374.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,2,103.0000,206.00,"Basic Service Fee - One Bedroom for Feb: Custard, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,2,16.0000,32.00,"Resident Care - Level 1 for Feb: Custard, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,17610296,,02/02/2013,3612,"Invoice-Private",,02/02/2013,02/02/2013,,17614870MO,-3374.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2884,2884,"CR:Basic Service F... D.Custard 201302: Custard, Donald",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,280,280,"CR:CC Meals... D.Custard 201302: Custard, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,448,448,"CR:Resident Care -... D.Custard 201302: Custard, Donald",,,,,,,,,,,,,,,

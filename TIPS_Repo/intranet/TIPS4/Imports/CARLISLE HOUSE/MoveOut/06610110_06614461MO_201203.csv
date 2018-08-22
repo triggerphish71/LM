@@ -1,0 +1,7 @@
+BATCH,,201203,B,9222.0000,
+INVOICE,IN,,06610110,,03/24/2012,4293.0000,"Invoice-Private",,03/24/2012,03/24/2012,,06614461MO,-5406.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,27,127.0000,3429.00,"Basic Service Fee - One Bedroom for Mar: McKean, Dorothy Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,27,32.0000,864.00,"Resident Care - Level 2 for Mar: McKean, Dorothy Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,06610110,,03/24/2012,4929,"Invoice-Private",,03/24/2012,03/24/2012,,06614461MO,-5406.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3937,3937,"CR:Basic Service F... D.McKean 201203: McKean, Dorothy Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,992,992,"CR:Resident Care -... D.McKean 201203: McKean, Dorothy Jane",,,,,,,,,,,,,,,

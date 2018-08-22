@@ -1,0 +1,5 @@
+BATCH,,201108,B,3885.0000,
+INVOICE,IN,,06210217,,08/12/2011,3885.0000,"MoveIn-Graham. Mary",,08/12/2011,08/12/2011,,06213569,3885.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,20,93.0000,1860,"Basic Service Fee - One Bedroom    : Graham. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Graham. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Graham. Mary",,,,,,,,,,,,,,,

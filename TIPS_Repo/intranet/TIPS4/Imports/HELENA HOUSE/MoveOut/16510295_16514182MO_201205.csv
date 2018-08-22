@@ -1,0 +1,7 @@
+BATCH,,201205,B,2968.0000,
+INVOICE,IN,,16510295,,05/01/2012,1484.0000,"Invoice-Private",,05/01/2012,05/10/2012,,16514182MO,-3701.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Anderson, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,31,47.0000,1457.00,"Credit for Limited Term Discount: Anderson, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,16510295,,05/01/2012,1484,"Invoice-Private",,05/01/2012,05/10/2012,,16514182MO,-3701.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Anderson, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,31,47,1457,"Limited Term Discount: Anderson, Joseph",,,,,,,,,,,,,,,

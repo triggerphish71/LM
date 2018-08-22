@@ -1,0 +1,5 @@
+BATCH,,201112,B,4180.0000,
+INVOICE,IN,,08810201,,12/07/2011,770.0000,"Invoice-Private",,12/07/2011,12/07/2011,,08814194MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,7,110.0000,770.00,"Basic Service Fee - One Bedroom for Dec: Milosevich, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08810201,,12/07/2011,3410,"Invoice-Private",,12/07/2011,12/07/2011,,08814194MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3410,3410,"CR:Basic Service F... M.Milosevich 201112: Milosevich, Mary",,,,,,,,,,,,,,,

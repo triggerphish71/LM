@@ -1,0 +1,5 @@
+BATCH,,201110,B,1356.7000,
+INVOICE,IN,,01110273,,10/29/2011,1356.7000,"MoveIn-Jones. Ronald",,10/29/2011,10/29/2011,,01113756,4923.7000,,,,,,,,,,
+TRANSACTION,3010,010101011,3,73.0000,219,"Basic Service Fee - Studio         : Jones. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,3,45.9000,137.7,"Resident Care - Level 27: Jones. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Jones. Ronald",,,,,,,,,,,,,,,

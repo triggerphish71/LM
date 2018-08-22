@@ -1,0 +1,6 @@
+BATCH,,201109,B,3720.0000,
+INVOICE,IN,,53410184,,09/01/2011,420.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53419671MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,420.0000,420.00,"CR:Limited Term Di... H.Oldenburg 201109: Oldenburg, Herman",,,,,,,,,,,,,,,
+INVOICE,CM,,53410184,,09/01/2011,3300,"Invoice-Private",,09/01/2011,09/10/2011,,53419671MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Basic Service F... H.Oldenburg 201109: Oldenburg, Herman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1170,1170,"CR:Resident Care -... H.Oldenburg 201109: Oldenburg, Herman",,,,,,,,,,,,,,,

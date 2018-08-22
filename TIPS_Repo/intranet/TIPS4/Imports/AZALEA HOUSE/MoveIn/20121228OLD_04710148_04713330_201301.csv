@@ -1,0 +1,5 @@
+BATCH,,201301,B,3528.0000,
+INVOICE,IN,,04710148,,01/01/2013,3528.0000,"January_Rent-Alexander. Jo",,01/01/2013,01/10/2013,,04713330,4955.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,31,96.0000,2976,"Basic Service Fee - Studio         : Alexander. Jo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,31,17.0000,527,"Resident Care - Level 1: Alexander. Jo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Alexander. Jo",,,,,,,,,,,,,,,

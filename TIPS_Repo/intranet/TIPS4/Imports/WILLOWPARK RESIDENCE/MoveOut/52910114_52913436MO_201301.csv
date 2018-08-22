@@ -1,0 +1,8 @@
+BATCH,,201301,B,5222.0000,
+INVOICE,IN,,52910114,,01/01/2013,62.0000,"Invoice-Private",,01/01/2013,01/10/2013,,52913436MO,-6297.0000,,,,,,,,,,
+TRANSACTION,3320,010319529,1,62.0000,62.00,"CR:Limited Term Di... E.Wilkens 201301: Wilkens, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,52910114,,01/01/2013,5160,"Invoice-Private",,01/01/2013,01/10/2013,,52913436MO,-6297.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,3503,3503,"CR:Basic Service F... E.Wilkens 201301: Wilkens, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... E.Wilkens 201301: Wilkens, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... E.Wilkens 201301: Wilkens, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,1612,1612,"CR:Resident Care -... E.Wilkens 201301: Wilkens, Elaine",,,,,,,,,,,,,,,

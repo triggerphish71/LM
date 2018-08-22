@@ -1,0 +1,5 @@
+BATCH,,201210,B,992.0000,
+INVOICE,IN,,20610230,,10/01/2012,496.0000,"Invoice-Private",,10/01/2012,10/10/2012,,20612846MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3010,010214206,31,16.0000,496.00,"Credit for Private BSF Daily Discount: Gunter, James D.",,,,,,,,,,,,,,,
+INVOICE,CM,,20610230,,10/01/2012,496,"Invoice-Private",,10/01/2012,10/10/2012,,20612846MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3010,010214206,31,16,496,"Private BSF Daily Discount: Gunter, James D.",,,,,,,,,,,,,,,

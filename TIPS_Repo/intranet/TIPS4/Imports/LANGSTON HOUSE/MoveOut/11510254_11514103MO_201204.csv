@@ -1,0 +1,7 @@
+BATCH,,201204,B,1016.0000,
+INVOICE,IN,,11510254,,04/01/2012,508.0000,"Invoice-Private",,04/01/2012,04/10/2012,,11514103MO,-1576.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Clark, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,16.0000,480.00,"Credit for Limited Term Discount: Clark, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,11510254,,04/01/2012,508,"Invoice-Private",,04/01/2012,04/10/2012,,11514103MO,-1576.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Clark, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,16,480,"Limited Term Discount: Clark, Ethel",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,3284.0000,
+INVOICE,IN,,13910291,,10/05/2012,3284.0000,"MoveIn-Penz. Ralph",,10/05/2012,10/05/2012,,13916388,3284.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,27,102.0000,2754,"Basic Service Fee - Studio: Penz. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Penz. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,500.0000,500,"New Resident Fee: Penz. Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,7644.0000,
+INVOICE,IN,,03510055,,08/14/2011,2808.0000,"Invoice-Private",,08/14/2011,08/14/2011,,03513223MO,-6708.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,18,108.0000,1944.00,"Basic Service Fee - One Bedroom for Aug: Walding, Sibyl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,18,48.0000,864.00,"Resident Care - Level 4 for Aug: Walding, Sibyl",,,,,,,,,,,,,,,
+INVOICE,CM,,03510055,,08/14/2011,4836,"Invoice-Private",,08/14/2011,08/14/2011,,03513223MO,-6708.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,3348,3348,"CR:Basic Service F... S.Walding 201108: Walding, Sibyl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,1488,1488,"CR:Resident Care -... S.Walding 201108: Walding, Sibyl",,,,,,,,,,,,,,,

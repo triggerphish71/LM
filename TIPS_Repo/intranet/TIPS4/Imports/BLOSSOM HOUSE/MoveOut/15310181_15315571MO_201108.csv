@@ -1,0 +1,8 @@
+BATCH,,201108,B,3980.4000,
+INVOICE,IN,,15310181,,08/02/2011,239.6000,"Invoice-Private",,08/02/2011,08/02/2011,,15315571MO,-3501.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,2,96.0000,192.00,"Basic Service Fee - Studio for Aug: Scheer, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,2,23.8000,47.60,"Resident Care - Level 14 for Aug: Scheer, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310181,,08/02/2011,3740.8,"Invoice-Private",,08/02/2011,08/02/2011,,15315571MO,-3501.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2976,2976,"CR:Basic Service F... J.Scheer 201108: Scheer, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... J.Scheer 201108: Scheer, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,737.8,737.8,"CR:Resident Care -... J.Scheer 201108: Scheer, Johnnie",,,,,,,,,,,,,,,

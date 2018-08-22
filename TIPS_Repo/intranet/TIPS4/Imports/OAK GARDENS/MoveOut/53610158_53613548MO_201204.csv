@@ -1,0 +1,7 @@
+BATCH,,201204,B,9676.0000,
+INVOICE,IN,,53610158,,04/06/2012,4756.0000,"Invoice-Private",,04/06/2012,04/06/2012,,53613548MO,-164.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,29,98.0000,2842.00,"Basic Service Fee - Studio for Apr: Krammes, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,29,66.0000,1914.00,"Resident Care - Level 5 for Apr: Krammes, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,53610158,,04/06/2012,4920,"Invoice-Private",,04/06/2012,04/06/2012,,53613548MO,-164.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2940,2940,"CR:Basic Service F... D.Krammes 201204: Krammes, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,1980,1980,"CR:Resident Care -... D.Krammes 201204: Krammes, Dale",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,4303.0000,
+INVOICE,IN,,05810207,,02/02/2012,276.0000,"Invoice-Private",,02/02/2012,02/02/2012,,05813783MO,-3751.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,2,94.0000,188.00,"Basic Service Fee - One Bedroom for Feb: Allcorn, Harvie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,2,44.0000,88.00,"Resident Care - Level 3 for Feb: Allcorn, Harvie",,,,,,,,,,,,,,,
+INVOICE,CM,,05810207,,02/02/2012,4027,"Invoice-Private",,02/02/2012,02/02/2012,,05813783MO,-3751.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2726,2726,"CR:Basic Service F... H.Allcorn 201202: Allcorn, Harvie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... H.Allcorn 201202: Allcorn, Harvie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1276,1276,"CR:Resident Care -... H.Allcorn 201202: Allcorn, Harvie",,,,,,,,,,,,,,,

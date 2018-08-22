@@ -1,0 +1,7 @@
+BATCH,,201203,B,3842.0000,
+INVOICE,IN,,09110226,,03/03/2012,339.0000,"Invoice-Private",,03/03/2012,03/03/2012,,09115125MO,-3164.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,3,96.0000,288.00,"Basic Service Fee - Deluxe for Mar: Thorla, Clifford Dean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,3,17.0000,51.00,"Resident Care - Level 1 for Mar: Thorla, Clifford Dean",,,,,,,,,,,,,,,
+INVOICE,CM,,09110226,,03/03/2012,3503,"Invoice-Private",,03/03/2012,03/03/2012,,09115125MO,-3164.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2976,2976,"CR:Basic Service F... C.Thorla 201203: Thorla, Clifford Dean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,527,527,"CR:Resident Care -... C.Thorla 201203: Thorla, Clifford Dean",,,,,,,,,,,,,,,

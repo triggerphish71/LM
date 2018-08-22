@@ -1,0 +1,5 @@
+BATCH,,201209,B,2940.0000,
+INVOICE,IN,,14510297,,09/01/2012,1470.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14515580MO,-872.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,30,49.0000,1470.00,"Credit for Limited Term Discount: Smith, Cornelius",,,,,,,,,,,,,,,
+INVOICE,CM,,14510297,,09/01/2012,1470,"Invoice-Private",,09/01/2012,09/10/2012,,14515580MO,-872.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,30,49,1470,"Limited Term Discount: Smith, Cornelius",,,,,,,,,,,,,,,

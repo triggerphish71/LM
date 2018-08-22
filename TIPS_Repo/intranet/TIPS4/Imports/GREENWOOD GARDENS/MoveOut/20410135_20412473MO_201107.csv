@@ -1,0 +1,7 @@
+BATCH,,201107,B,6426.0000,
+INVOICE,IN,,20410135,,07/23/2011,2737.0000,"Invoice-Private",,07/23/2011,07/23/2011,,20412473MO,-4641.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,23,41.0000,943.00,"Resident Care - Level 4 for Jul: Kinney, Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,23,78.0000,1794.00,"Room and Board - Studio for Jul: Kinney, Alberta",,,,,,,,,,,,,,,
+INVOICE,CM,,20410135,,07/23/2011,3689,"Invoice-Private",,07/23/2011,07/23/2011,,20412473MO,-4641.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1271,1271,"CR:Resident Care -... A.Kinney 201107: Kinney, Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2418,2418,"CR:Room and Board ... A.Kinney 201107: Kinney, Alberta",,,,,,,,,,,,,,,

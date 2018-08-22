@@ -1,0 +1,5 @@
+BATCH,,201302,B,3245.0000,
+INVOICE,IN,,02110222,,02/14/2013,3245.0000,"MoveIn-Pugh. Nellie",,02/14/2013,02/14/2013,,02115219,6308.0000,,,,,,,,,,
+TRANSACTION,3010,010202021,15,98.0000,1470,"N.Pugh: Basic Service Fee - Studio: Pugh. Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202021,1,25.0000,25,"Monthly Cable: Pugh. Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202021,1,1750.0000,1750,"New Resident Fee: Pugh. Nellie",,,,,,,,,,,,,,,

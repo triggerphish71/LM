@@ -1,0 +1,5 @@
+BATCH,,201207,B,54.0000,
+INVOICE,IN,,17110239,,07/01/2012,27.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17115153MO,-1467.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Brown, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,17110239,,07/01/2012,27,"Invoice-Private",,07/01/2012,07/10/2012,,17115153MO,-1467.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Brown, Patricia",,,,,,,,,,,,,,,

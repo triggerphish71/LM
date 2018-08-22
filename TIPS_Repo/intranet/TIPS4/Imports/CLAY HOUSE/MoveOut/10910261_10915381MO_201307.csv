@@ -1,0 +1,8 @@
+BATCH,,201307,B,3349.0000,
+INVOICE,IN,,10910261,,07/01/2013,50.0000,"Invoice-Private",,07/01/2013,07/10/2013,,10915381MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3150,010305109,1,50.0000,50.00,"Late Fee Adjustment: Scott, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,10910261,,07/01/2013,3299,"Invoice-Private",,07/01/2013,07/10/2013,,10915381MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... C.Scott 201307: Scott, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,1023,1023,"CR:Resident Care -... C.Scott 201307: Scott, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2201,2201,"CR:Room and Board ... C.Scott 201307: Scott, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3150,010305109,1,50,50,"Late Fee Adjustment: Scott, Charles",,,,,,,,,,,,,,,

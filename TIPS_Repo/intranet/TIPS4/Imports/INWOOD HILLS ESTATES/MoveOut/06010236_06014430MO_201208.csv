@@ -1,0 +1,8 @@
+BATCH,,201208,B,3925.0000,
+INVOICE,IN,,06010236,,08/06/2012,630.0000,"Invoice-Private",,08/06/2012,08/06/2012,,06014430MO,-2665.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,6,90.0000,540.00,"Basic Service Fee - Studio for Aug: Kubiak, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,6,15.0000,90.00,"Resident Care - Level 1 for Aug: Kubiak, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,06010236,,08/06/2012,3295,"Invoice-Private",,08/06/2012,08/06/2012,,06014430MO,-2665.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2790,2790,"CR:Basic Service F... C.Kubiak 201208: Kubiak, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... C.Kubiak 201208: Kubiak, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,465,465,"CR:Resident Care -... C.Kubiak 201208: Kubiak, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,5515.0000,
+INVOICE,IN,,06810234,,08/01/2012,2384.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06813915MO,-747.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,465.0000,465.00,"CR:Limited Term Di... S.Spears 201208: Spears, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,19,85.0000,1615.00,"Basic Service Fee - Studio for Aug: Spears, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,19,16.0000,304.00,"Resident Care - Level 1 for Aug: Spears, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,06810234,,08/01/2012,3131,"Invoice-Private",,08/01/2012,08/10/2012,,06813915MO,-747.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2635,2635,"CR:Basic Service F... S.Spears 201208: Spears, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,496,496,"CR:Resident Care -... S.Spears 201208: Spears, Stanley",,,,,,,,,,,,,,,

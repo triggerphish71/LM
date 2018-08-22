@@ -1,0 +1,5 @@
+BATCH,,201106,B,1440.0000,
+INVOICE,IN,,12510187,,06/01/2011,720.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12513886MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,30,24.0000,720.00,"Credit for Limited Term Discount: Dunn, Debrah",,,,,,,,,,,,,,,
+INVOICE,CM,,12510187,,06/01/2011,720,"Invoice-Private",,06/01/2011,06/10/2011,,12513886MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,30,24,720,"Limited Term Discount: Dunn, Debrah",,,,,,,,,,,,,,,

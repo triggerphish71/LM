@@ -1,0 +1,6 @@
+BATCH,,201204,B,3514.0000,
+INVOICE,IN,,02910313,,04/14/2012,3514.0000,"MoveIn-Tyson. Linda",,04/14/2012,04/14/2012,,02915545,3514.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,17,100.0000,1700,"Basic Service Fee - Studio: Tyson. Linda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,17,17.0000,289,"Resident Care - Level 1: Tyson. Linda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Tyson. Linda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Tyson. Linda",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,5094.0000,
+INVOICE,IN,,19410207,,08/21/2012,2078.0000,"Invoice-Private",,08/21/2012,08/21/2012,,19414323MO,-5028.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,62.0000,62.00,"CR:Limited Term Di... C.Vakulskas 201208: Vakulskas, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,21,96.0000,2016.00,"Basic Service Fee - One Bedroom for Aug: Vakulskas, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,19410207,,08/21/2012,3016,"Invoice-Private",,08/21/2012,08/21/2012,,19414323MO,-5028.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2976,2976,"CR:Basic Service F... C.Vakulskas 201208: Vakulskas, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... C.Vakulskas 201208: Vakulskas, Charles",,,,,,,,,,,,,,,

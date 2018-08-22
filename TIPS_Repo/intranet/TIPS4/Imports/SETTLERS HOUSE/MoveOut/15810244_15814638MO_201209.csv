@@ -1,0 +1,5 @@
+BATCH,,201209,B,1068.0000,
+INVOICE,IN,,15810244,,09/01/2012,534.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15814638MO,-2951.2000,,,,,,,,,,
+TRANSACTION,3316,010309158,30,17.8000,534.00,"Credit for Employee Discount: Jones, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,15810244,,09/01/2012,534,"Invoice-Private",,09/01/2012,09/10/2012,,15814638MO,-2951.2000,,,,,,,,,,
+TRANSACTION,3316,010309158,30,17.8,534,"Employee Discount: Jones, Agnes",,,,,,,,,,,,,,,

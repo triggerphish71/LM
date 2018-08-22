@@ -1,0 +1,7 @@
+BATCH,,201112,B,6946.0000,
+INVOICE,IN,,15810241,,12/01/2011,2265.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15814316MO,-2416.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,15,59.0000,885.00,"Resident Care - Level 4 for Dec: Lorentzsen, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,15,92.0000,1380.00,"Room and Board - Studio for Dec: Lorentzsen, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,15810241,,12/01/2011,4681,"Invoice-Private",,12/01/2011,12/10/2011,,15814316MO,-2416.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1829,1829,"CR:Resident Care -... A.Lorentzsen 201112: Lorentzsen, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2852,2852,"CR:Room and Board ... A.Lorentzsen 201112: Lorentzsen, Arthur",,,,,,,,,,,,,,,

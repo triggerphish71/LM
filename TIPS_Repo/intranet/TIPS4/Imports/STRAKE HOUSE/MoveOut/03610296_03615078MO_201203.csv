@@ -1,0 +1,6 @@
+BATCH,,201203,B,5885.0000,
+INVOICE,IN,,03610296,,03/01/2012,2727.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03615078MO,-3488.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,27,101.0000,2727.00,"Basic Service Fee - Studio for Mar: Pickett, Ivy",,,,,,,,,,,,,,,
+INVOICE,CM,,03610296,,03/01/2012,3158,"Invoice-Private",,03/01/2012,03/10/2012,,03615078MO,-3488.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... I.Pickett 201203: Pickett, Ivy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... I.Pickett 201203: Pickett, Ivy",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201112,B,3220.0000,
+INVOICE,IN,,53010229,,12/01/2011,2135.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53015652MO,1050.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,1085.0000,1085.00,"CR:Limited Term Di... M.Metzger 201112: Metzger, Martin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,30,35.0000,1050.00,"Basic Service Fee - Second Resident for Dec: Metzger, Martin",,,,,,,,,,,,,,,
+INVOICE,CM,,53010229,,12/01/2011,1085,"Invoice-Private",,12/01/2011,12/10/2011,,53015652MO,1050.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,1085,1085,"CR:Basic Service F... M.Metzger 201112: Metzger, Martin",,,,,,,,,,,,,,,

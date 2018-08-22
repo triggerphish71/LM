@@ -1,0 +1,7 @@
+BATCH,,201301,B,3036.0000,
+INVOICE,IN,,09210274,,01/15/2013,990.0000,"Invoice-Private",,01/15/2013,01/15/2013,,09215078MO,-2904.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,15,50.0000,750.00,"Basic Service Fee - Studio for Jan: Behm, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,15,16.0000,240.00,"Resident Care - Level 1 for Jan: Behm, Velma",,,,,,,,,,,,,,,
+INVOICE,CM,,09210274,,01/15/2013,2046,"Invoice-Private",,01/15/2013,01/15/2013,,09215078MO,-2904.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,1550,1550,"CR:Basic Service F... V.Behm 201301: Behm, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,496,496,"CR:Resident Care -... V.Behm 201301: Behm, Velma",,,,,,,,,,,,,,,

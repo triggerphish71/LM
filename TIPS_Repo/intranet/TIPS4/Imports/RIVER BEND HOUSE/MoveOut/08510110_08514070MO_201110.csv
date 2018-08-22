@@ -1,0 +1,8 @@
+BATCH,,201110,B,7630.2000,
+INVOICE,IN,,08510110,,10/01/2011,2385.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08514070MO,-2860.2000,,,,,,,,,,
+TRANSACTION,3020,010305085,15,83.0000,1245.00,"Basic Service Fee - Studio for Oct: Eaton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,15,76.0000,1140.00,"Resident Care - Level 6 for Oct: Eaton, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08510110,,10/01/2011,5245.2,"Invoice-Private",,10/01/2011,10/10/2011,,08514070MO,-2860.2000,,,,,,,,,,
+TRANSACTION,3019,010305085,1,316.2,316.2,"CR:Additional Serv... M.Eaton 201110: Eaton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2573,2573,"CR:Basic Service F... M.Eaton 201110: Eaton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,1,2356,2356,"CR:Resident Care -... M.Eaton 201110: Eaton, Mary",,,,,,,,,,,,,,,

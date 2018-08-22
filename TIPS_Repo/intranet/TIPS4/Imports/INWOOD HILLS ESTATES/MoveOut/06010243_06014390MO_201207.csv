@@ -1,0 +1,5 @@
+BATCH,,201207,B,1984.0000,
+INVOICE,IN,,06010243,,07/01/2012,992.0000,"Invoice-Private",,07/01/2012,07/10/2012,,06014390MO,-2190.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,32.0000,992.00,"Credit for Limited Term Discount: Harmon, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,06010243,,07/01/2012,992,"Invoice-Private",,07/01/2012,07/10/2012,,06014390MO,-2190.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,32,992,"Limited Term Discount: Harmon, Thelma",,,,,,,,,,,,,,,

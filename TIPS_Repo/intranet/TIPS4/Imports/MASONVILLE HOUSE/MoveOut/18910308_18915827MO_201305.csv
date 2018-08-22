@@ -1,0 +1,7 @@
+BATCH,,201305,B,3438.1000,
+INVOICE,IN,,18910308,,05/01/2013,282.1000,"Invoice-Private",,05/01/2013,05/10/2013,,18915827MO,-5033.9000,,,,,,,,,,
+TRANSACTION,3312,010315189,1,282.1000,282.10,"CR:Two Room Rental... J.Gibbs 201305: Gibbs, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,18910308,,05/01/2013,3156,"Invoice-Private",,05/01/2013,05/10/2013,,18915827MO,-5033.9000,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... J.Gibbs 201305: Gibbs, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... J.Gibbs 201305: Gibbs, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2821,2821,"CR:Room and Board ... J.Gibbs 201305: Gibbs, Joan",,,,,,,,,,,,,,,

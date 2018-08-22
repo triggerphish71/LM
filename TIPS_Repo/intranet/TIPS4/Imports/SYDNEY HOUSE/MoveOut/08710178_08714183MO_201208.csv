@@ -1,0 +1,5 @@
+BATCH,,201208,B,2790.0000,
+INVOICE,IN,,08710178,,08/01/2012,1395.0000,"Invoice-Private",,08/01/2012,08/10/2012,,08714183MO,-5791.4200,,,,,,,,,,
+TRANSACTION,3320,010103087,31,45.0000,1395.00,"Credit for Limited Term Discount: Brewer, Tsuneko",,,,,,,,,,,,,,,
+INVOICE,CM,,08710178,,08/01/2012,1395,"Invoice-Private",,08/01/2012,08/10/2012,,08714183MO,-5791.4200,,,,,,,,,,
+TRANSACTION,3320,010103087,31,45,1395,"Limited Term Discount: Brewer, Tsuneko",,,,,,,,,,,,,,,

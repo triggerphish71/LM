@@ -1,0 +1,8 @@
+BATCH,,201202,B,11982.5000,
+INVOICE,IN,,04910132,,02/01/2012,5022.1500,"Invoice-Private",,02/01/2012,02/01/2012,,04913340MO,-9376.8500,,,,,,,,,,
+TRANSACTION,3027,010101049,21,152.1500,3195.15,"Resident Care - Level 85 for Feb: Thompson, Ivern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101049,21,87.0000,1827.00,"Room and Board - Studio for Feb: Thompson, Ivern",,,,,,,,,,,,,,,
+INVOICE,CM,,04910132,,02/01/2012,6960.35,"Invoice-Private",,02/01/2012,02/01/2012,,04913340MO,-9376.8500,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... I.Thompson 201202: Thompson, Ivern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,4412.35,4412.35,"CR:Resident Care -... I.Thompson 201202: Thompson, Ivern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2523,2523,"CR:Room and Board ... I.Thompson 201202: Thompson, Ivern",,,,,,,,,,,,,,,

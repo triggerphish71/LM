@@ -1,0 +1,7 @@
+BATCH,,201206,B,3000.0000,
+INVOICE,IN,,17510212,,06/01/2012,330.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17517565MO,-2205.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,330.0000,330.00,"CR:Limited Term Di... L.Bush 201206: Bush, Lorene",,,,,,,,,,,,,,,
+INVOICE,CM,,17510212,,06/01/2012,2670,"Invoice-Private",,06/01/2012,06/10/2012,,17517565MO,-2205.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Basic Service F... L.Bush 201206: Bush, Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202175,1,30,30,"CR:Pendant Fee... L.Bush 201206: Bush, Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,360,360,"CR:Resident Care -... L.Bush 201206: Bush, Lorene",,,,,,,,,,,,,,,

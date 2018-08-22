@@ -1,0 +1,6 @@
+BATCH,,201110,B,1623.0000,
+INVOICE,IN,,15210176,,10/31/2011,1623.0000,"MoveIn-Mead. Robert (Bob)",,10/31/2011,10/31/2011,,15213607,4298.0000,,,,,,,,,,
+TRANSACTION,3010,010211152,1,71.0000,71,"Basic Service Fee - Studio: Mead. Robert (Bob)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211152,1,17.0000,17,"Resident Care - Level 1: Mead. Robert (Bob)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35,"Monthly Cable: Mead. Robert (Bob)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211152,1,1500.0000,1500,"New Resident Fee: Mead. Robert (Bob)",,,,,,,,,,,,,,,

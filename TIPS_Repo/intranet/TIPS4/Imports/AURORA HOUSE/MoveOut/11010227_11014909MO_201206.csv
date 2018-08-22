@@ -1,0 +1,6 @@
+BATCH,,201206,B,6426.6000,
+INVOICE,IN,,11010227,,06/01/2012,570.0000,"Invoice-Private",,06/01/2012,06/10/2012,,11014909MO,-5286.6000,,,,,,,,,,
+TRANSACTION,3320,010107110,1,570.0000,570.00,"CR:Limited Term Di... D.Allore 201206: Allore, David",,,,,,,,,,,,,,,
+INVOICE,CM,,11010227,,06/01/2012,5856.6,"Invoice-Private",,06/01/2012,06/10/2012,,11014909MO,-5286.6000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2730,2730,"CR:Basic Service F... D.Allore 201206: Allore, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,3126.6,3126.6,"CR:Resident Care -... D.Allore 201206: Allore, David",,,,,,,,,,,,,,,

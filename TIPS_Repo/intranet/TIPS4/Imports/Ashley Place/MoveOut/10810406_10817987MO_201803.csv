@@ -1,0 +1,7 @@
+BATCH,,201803,B,4248.0000,
+INVOICE,IN,,10810406,,03/05/2018,590.0000,"Invoice-Private",,03/05/2018,03/05/2018,,10817987MO,-3068.0000,,,,,,,,,,
+TRANSACTION,3020,010008108,5,66.0000,330.00,"Basic Service Fee - Studio  for Mar: Moon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,5,52.0000,260.00,"Resident Care - Level 3  for Mar: Moon, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,10810406,,03/05/2018,3658,"Invoice-Private",,03/05/2018,03/05/2018,,10817987MO,-3068.0000,,,,,,,,,,
+TRANSACTION,3020,010008108,1,2046,2046,"CR:Basic Service F... B.Moon 201803: Moon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,1,1612,1612,"CR:Resident Care -... B.Moon 201803: Moon, Betty",,,,,,,,,,,,,,,

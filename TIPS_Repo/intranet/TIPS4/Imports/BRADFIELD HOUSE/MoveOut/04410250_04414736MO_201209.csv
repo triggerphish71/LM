@@ -1,0 +1,5 @@
+BATCH,,201209,B,1680.0000,
+INVOICE,IN,,04410250,,09/01/2012,840.0000,"Invoice-Private",,09/01/2012,09/10/2012,,04414736MO,-322.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,30,28.0000,840.00,"Credit for Limited Term Discount: Davis, John",,,,,,,,,,,,,,,
+INVOICE,CM,,04410250,,09/01/2012,840,"Invoice-Private",,09/01/2012,09/10/2012,,04414736MO,-322.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,30,28,840,"Limited Term Discount: Davis, John",,,,,,,,,,,,,,,

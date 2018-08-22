@@ -1,0 +1,7 @@
+BATCH,,201208,B,176.0000,
+INVOICE,IN,,11910188,,08/01/2012,88.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11915838MO,-979.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Baccari, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,31,2.0000,62.00,"Credit for Limited Term Discount: Baccari, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11910188,,08/01/2012,88,"Invoice-Private",,08/01/2012,08/10/2012,,11915838MO,-979.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Baccari, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,31,2,62,"Limited Term Discount: Baccari, Mary",,,,,,,,,,,,,,,

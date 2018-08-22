@@ -1,0 +1,8 @@
+BATCH,,201306,B,6847.0000,
+INVOICE,IN,,12410323,,06/01/2013,2882.0000,"Invoice-Private",,06/01/2013,06/10/2013,,12415408MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,22,99.0000,2178.00,"Basic Service Fee - One Bedroom for Jun: Anderson, Arlein",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,22,32.0000,704.00,"Resident Care - Level 2 for Jun: Anderson, Arlein",,,,,,,,,,,,,,,
+INVOICE,CM,,12410323,,06/01/2013,3965,"Invoice-Private",,06/01/2013,06/10/2013,,12415408MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2970,2970,"CR:Basic Service F... A.Anderson 201306: Anderson, Arlein",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... A.Anderson 201306: Anderson, Arlein",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,960,960,"CR:Resident Care -... A.Anderson 201306: Anderson, Arlein",,,,,,,,,,,,,,,

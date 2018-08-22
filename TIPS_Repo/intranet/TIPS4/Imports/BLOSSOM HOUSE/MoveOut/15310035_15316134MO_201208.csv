@@ -1,0 +1,7 @@
+BATCH,,201208,B,6593.6500,
+INVOICE,IN,,15310035,,08/01/2012,753.5600,"Invoice-Private",,08/01/2012,08/10/2012,,15316134MO,-5086.5300,,,,,,,,,,
+TRANSACTION,3020,010103153,4,115.0000,460.00,"Basic Service Fee - One Bedroom for Aug: Crabb, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,4,73.3900,293.56,"Resident Care - Level 41 for Aug: Crabb, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,15310035,,08/01/2012,5840.09,"Invoice-Private",,08/01/2012,08/10/2012,,15316134MO,-5086.5300,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3565,3565,"CR:Basic Service F... W.Crabb 201208: Crabb, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2275.09,2275.09,"CR:Resident Care -... W.Crabb 201208: Crabb, Wilma",,,,,,,,,,,,,,,

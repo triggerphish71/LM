@@ -1,0 +1,8 @@
+BATCH,,201204,B,4506.0000,
+INVOICE,IN,,07510255,,04/08/2012,996.0000,"Invoice-Private",,04/08/2012,04/08/2012,,07514916MO,-2514.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,1,60.0000,60.00,"CR:Limited Term Di... V.Naser 201204: Naser, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104075,8,88.0000,704.00,"Basic Service Fee - Studio for Apr: Naser, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,8,29.0000,232.00,"Resident Care - Level 2 for Apr: Naser, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,07510255,,04/08/2012,3510,"Invoice-Private",,04/08/2012,04/08/2012,,07514916MO,-2514.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2640,2640,"CR:Basic Service F... V.Naser 201204: Naser, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,870,870,"CR:Resident Care -... V.Naser 201204: Naser, Virgil",,,,,,,,,,,,,,,

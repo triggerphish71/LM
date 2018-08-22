@@ -1,0 +1,7 @@
+BATCH,,201110,B,4025.0000,
+INVOICE,IN,,07410188,,10/04/2011,460.0000,"Invoice-Private",,10/04/2011,10/04/2011,,07413655MO,-3105.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,4,70.0000,280.00,"Basic Service Fee - Studio for Oct: Smith, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,4,45.0000,180.00,"Resident Care - Level 3 for Oct: Smith, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07410188,,10/04/2011,3565,"Invoice-Private",,10/04/2011,10/04/2011,,07413655MO,-3105.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2170,2170,"CR:Basic Service F... H.Smith 201110: Smith, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,1395,1395,"CR:Resident Care -... H.Smith 201110: Smith, Helen",,,,,,,,,,,,,,,

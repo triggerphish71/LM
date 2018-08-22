@@ -1,0 +1,5 @@
+BATCH,,201301,B,2438.0000,
+INVOICE,IN,,50110288,,01/16/2013,2438.0000,"MoveIn-Lockyear. Jon",,01/16/2013,01/16/2013,,50114536,4932.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,16,88.0000,1408,"Basic Service Fee - Studio: Lockyear. Jon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Lockyear. Jon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Lockyear. Jon",,,,,,,,,,,,,,,

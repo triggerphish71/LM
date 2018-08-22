@@ -1,0 +1,5 @@
+BATCH,,201209,B,40.0000,
+INVOICE,IN,,21610224,,09/01/2012,20.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21613679MO,-2360.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20.0000,20.00,"Pendant Fee: Kilpatrick, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610224,,09/01/2012,20,"Invoice-Private",,09/01/2012,09/10/2012,,21613679MO,-2360.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"Credit for Pendant Fee: Kilpatrick, Minnie",,,,,,,,,,,,,,,

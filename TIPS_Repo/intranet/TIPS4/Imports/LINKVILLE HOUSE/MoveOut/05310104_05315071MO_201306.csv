@@ -1,0 +1,5 @@
+BATCH,,201306,B,4609.5000,
+INVOICE,CM,,05310104,,06/01/2013,4609.5,"Invoice-Private",,06/01/2013,06/10/2013,,05315071MO,-5400.1500,,,,,,,,,,
+TRANSACTION,3020,010101053,1,3000,3000,"CR:Basic Service F... N.Caporale 201306: Caporale , Noel ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,999,999,"CR:Resident Care -... N.Caporale 201306: Caporale , Noel ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,610.5,610.5,"CR:Resident Care L... N.Caporale 201306: Caporale , Noel ",,,,,,,,,,,,,,,

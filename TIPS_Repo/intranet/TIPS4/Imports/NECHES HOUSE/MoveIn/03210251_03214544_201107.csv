@@ -1,0 +1,6 @@
+BATCH,,201107,B,3499.0000,
+INVOICE,IN,,03210251,,07/18/2011,3499.0000,"MoveIn-Bardwell. Walt",,07/18/2011,07/18/2011,,03214544,7895.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,14,109.0000,1526,"Basic Service Fee - One Bedroom    : Bardwell. Walt",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,14,32.0000,448,"Resident Care - Level 2: Bardwell. Walt",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Bardwell. Walt",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Bardwell. Walt",,,,,,,,,,,,,,,

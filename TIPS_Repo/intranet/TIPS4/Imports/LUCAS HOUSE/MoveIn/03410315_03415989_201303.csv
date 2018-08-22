@@ -1,0 +1,5 @@
+BATCH,,201303,B,3716.0000,
+INVOICE,IN,,03410315,,03/01/2013,3716.0000,"March_Rent-Seib. James",,03/01/2013,03/10/2013,,03415989,6028.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,31,96.0000,2976,"Basic Service Fee - Studio: Seib. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,31,23.0000,713,"Resident Care - Level 2: Seib. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Seib. James",,,,,,,,,,,,,,,

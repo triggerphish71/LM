@@ -1,0 +1,7 @@
+BATCH,,201204,B,8848.0000,
+INVOICE,IN,,06910159,,04/26/2012,4108.0000,"Invoice-Private",,04/26/2012,04/26/2012,,06913825MO,-5530.0000,,,,,,,,,,
+TRANSACTION,3027,010305069,26,69.0000,1794.00,"Resident Care - Level 5 for Apr: Bibler, Reva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,26,89.0000,2314.00,"Room and Board - Deluxe for Apr: Bibler, Reva",,,,,,,,,,,,,,,
+INVOICE,CM,,06910159,,04/26/2012,4740,"Invoice-Private",,04/26/2012,04/26/2012,,06913825MO,-5530.0000,,,,,,,,,,
+TRANSACTION,3027,010305069,1,2070,2070,"CR:Resident Care -... R.Bibler 201204: Bibler, Reva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2670,2670,"CR:Room and Board ... R.Bibler 201204: Bibler, Reva",,,,,,,,,,,,,,,

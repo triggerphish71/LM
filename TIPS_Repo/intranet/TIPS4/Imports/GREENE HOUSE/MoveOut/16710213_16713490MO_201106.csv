@@ -1,0 +1,8 @@
+BATCH,,201106,B,5814.0000,
+INVOICE,IN,,16710213,,06/22/2011,2682.0000,"Invoice-Private",,06/22/2011,06/22/2011,,16713490MO,-5589.8000,,,,,,,,,,
+TRANSACTION,3027,010211167,1,264.0000,264.00,"CR:Service level: ... C.Flyr 201106: Flyr, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211167,26,93.0000,2418.00,"C.Flyr: Basic Service Fee - Deluxe for Jun: Flyr, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,16710213,,06/22/2011,3132,"Invoice-Private",,06/22/2011,06/22/2011,,16713490MO,-5589.8000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2790,2790,"CR:C.Flyr: Basic S... C.Flyr 201106: Flyr, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... C.Flyr 201106: Flyr, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,26,12,312,"Service level: lvl 6 to lvl 5 - 6/9/11 for Jun: Flyr, Charlotte",,,,,,,,,,,,,,,

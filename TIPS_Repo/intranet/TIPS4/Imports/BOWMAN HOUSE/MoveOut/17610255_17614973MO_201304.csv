@@ -1,0 +1,8 @@
+BATCH,,201304,B,3462.0000,
+INVOICE,IN,,17610255,,04/01/2013,102.0000,"Invoice-Private",,04/01/2013,04/10/2013,,17614973MO,-3258.0000,,,,,,,,,,
+TRANSACTION,3027,010315176,1,28.0000,28.00,"Resident Care - Level 2 for Apr: Bauman, Marjorie L",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,74.0000,74.00,"Room and Board - Studio for Apr: Bauman, Marjorie L",,,,,,,,,,,,,,,
+INVOICE,CM,,17610255,,04/01/2013,3360,"Invoice-Private",,04/01/2013,04/10/2013,,17614973MO,-3258.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... M.Bauman 201304: Bauman, Marjorie L",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,840,840,"CR:Resident Care -... M.Bauman 201304: Bauman, Marjorie L",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2220,2220,"CR:Room and Board ... M.Bauman 201304: Bauman, Marjorie L",,,,,,,,,,,,,,,

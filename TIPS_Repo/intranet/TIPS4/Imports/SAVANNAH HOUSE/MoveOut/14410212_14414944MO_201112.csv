@@ -1,0 +1,8 @@
+BATCH,,201112,B,4825.0000,
+INVOICE,IN,,14410212,,12/10/2011,1170.0000,"Invoice-Private",,12/10/2011,12/10/2011,,14414944MO,-2485.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,10,101.0000,1010.00,"Basic Service Fee - Studio for Dec: Berry, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,10,16.0000,160.00,"Resident Care - Level 1 for Dec: Berry, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14410212,,12/10/2011,3655,"Invoice-Private",,12/10/2011,12/10/2011,,14414944MO,-2485.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3131,3131,"CR:Basic Service F... B.Berry 201112: Berry, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... B.Berry 201112: Berry, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... B.Berry 201112: Berry, Betty",,,,,,,,,,,,,,,

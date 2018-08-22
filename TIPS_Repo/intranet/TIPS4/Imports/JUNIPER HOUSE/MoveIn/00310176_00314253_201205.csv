@@ -1,0 +1,6 @@
+BATCH,,201205,B,1358.9200,
+INVOICE,IN,,00310176,,05/29/2012,1358.9200,"MoveIn-Johnson. Elsie",,05/29/2012,05/29/2012,,00314253,4705.1200,,,,,,,,,,
+TRANSACTION,3010,010101003,3,82.0000,246,"Basic Service Fee - Studio: Johnson. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101003,3,28.6400,85.92,"Resident Care - Level 16: Johnson. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Johnson. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Johnson. Elsie",,,,,,,,,,,,,,,

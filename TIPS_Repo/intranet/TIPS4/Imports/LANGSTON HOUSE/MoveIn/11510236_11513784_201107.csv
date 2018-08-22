@@ -1,0 +1,6 @@
+BATCH,,201107,B,1344.0000,
+INVOICE,IN,,11510236,,07/28/2011,1344.0000,"MoveIn-Fortney. Jessie",,07/28/2011,07/28/2011,,11513784,3821.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,4,64.0000,256,"Basic Service Fee - Studio         : Fortney. Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,4,15.0000,60,"Resident Care - Level 1: Fortney. Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Fortney. Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Fortney. Jessie",,,,,,,,,,,,,,,

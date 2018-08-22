@@ -1,0 +1,6 @@
+BATCH,,201204,B,4221.0000,
+INVOICE,IN,,53010262,,04/07/2012,791.0000,"Invoice-Private",,04/07/2012,04/07/2012,,53015997MO,-2639.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,7,113.0000,791.00,"E.Bowers: Basic Service Fee - One Bedroom Del : Bowers, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,53010262,,04/07/2012,3430,"Invoice-Private",,04/07/2012,04/07/2012,,53015997MO,-2639.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3390,3390,"CR:E.Bowers: Basic... E.Bowers 201204: Bowers, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... E.Bowers 201204: Bowers, Edward",,,,,,,,,,,,,,,

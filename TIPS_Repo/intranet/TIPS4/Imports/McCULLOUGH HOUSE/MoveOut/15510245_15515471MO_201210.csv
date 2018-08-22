@@ -1,0 +1,8 @@
+BATCH,,201210,B,4865.0000,
+INVOICE,IN,,15510245,,10/08/2012,1089.0000,"Invoice-Private",,10/08/2012,10/08/2012,,15515471MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,9,89.0000,801.00,"Basic Service Fee - Studio for Oct: Horn, Regina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,9,32.0000,288.00,"Resident Care - Level 2 for Oct: Horn, Regina",,,,,,,,,,,,,,,
+INVOICE,CM,,15510245,,10/08/2012,3776,"Invoice-Private",,10/08/2012,10/08/2012,,15515471MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... R.Horn 201210: Horn, Regina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... R.Horn 201210: Horn, Regina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,992,992,"CR:Resident Care -... R.Horn 201210: Horn, Regina",,,,,,,,,,,,,,,

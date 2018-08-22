@@ -1,0 +1,7 @@
+BATCH,,201110,B,1082.0000,
+INVOICE,IN,,52610287,,10/01/2011,541.0000,"Invoice-Private",,10/01/2011,10/10/2011,,52616191MO,-2300.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,31,11.0000,341.00,"Credit for Limited Term Discount: Breiner, Javan",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200.0000,200.00,"Resident Meals: Breiner, Javan",,,,,,,,,,,,,,,
+INVOICE,CM,,52610287,,10/01/2011,541,"Invoice-Private",,10/01/2011,10/10/2011,,52616191MO,-2300.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,31,11,341,"Limited Term Discount: Breiner, Javan",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"Credit for Resident Meals: Breiner, Javan",,,,,,,,,,,,,,,

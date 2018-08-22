@@ -1,0 +1,6 @@
+BATCH,,201301,B,3860.0000,
+INVOICE,IN,,09910227,,01/03/2013,3860.0000,"MoveIn-Otte. Donna",,01/03/2013,01/03/2013,,09914342,3860.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,29,86.0000,2494,"Basic Service Fee - Studio: Otte. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,29,29.0000,841,"Resident Care - Level 2: Otte. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Otte. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Otte. Donna",,,,,,,,,,,,,,,

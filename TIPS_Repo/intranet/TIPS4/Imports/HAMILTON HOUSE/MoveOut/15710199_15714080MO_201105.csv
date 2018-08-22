@@ -1,0 +1,6 @@
+BATCH,,201105,B,1753.0000,
+INVOICE,IN,,15710199,,05/16/2011,699.0000,"Invoice-Private",,05/16/2011,05/16/2011,,15714080MO,-1225.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,155.0000,155.00,"CR:Limited Term Di... E.Waikel 201105: Waikel, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,16,34.0000,544.00,"Basic Service Fee - Second Resident for May: Waikel, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,15710199,,05/16/2011,1054,"Invoice-Private",,05/16/2011,05/16/2011,,15714080MO,-1225.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,1054,1054,"CR:Basic Service F... E.Waikel 201105: Waikel, Ed",,,,,,,,,,,,,,,

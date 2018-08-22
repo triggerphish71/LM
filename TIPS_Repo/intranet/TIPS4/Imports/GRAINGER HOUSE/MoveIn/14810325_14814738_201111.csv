@@ -1,0 +1,5 @@
+BATCH,,201111,B,3210.0000,
+INVOICE,IN,,14810325,,11/01/2011,3210.0000,"November_Rent-Lovelace. Luther",,11/01/2011,11/10/2011,,14814738,4346.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,30,88.0000,2640,"Basic Service Fee - Studio         : Lovelace. Luther",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,30,18.0000,540,"Resident Care - Level 1: Lovelace. Luther",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Lovelace. Luther",,,,,,,,,,,,,,,

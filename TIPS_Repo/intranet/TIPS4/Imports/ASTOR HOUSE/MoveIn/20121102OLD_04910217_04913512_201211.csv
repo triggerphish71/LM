@@ -1,0 +1,5 @@
+BATCH,,201211,B,4548.0000,
+INVOICE,IN,,04910217,,11/02/2012,4548.0000,"MoveIn-Mason. Edna",,11/02/2012,11/02/2012,,04913512,4548.0000,,,,,,,,,,
+TRANSACTION,3010,010101049,29,87.0000,2523,"E.Mason: Basic Service Fee - Studio: Mason. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Mason. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Mason. Edna",,,,,,,,,,,,,,,

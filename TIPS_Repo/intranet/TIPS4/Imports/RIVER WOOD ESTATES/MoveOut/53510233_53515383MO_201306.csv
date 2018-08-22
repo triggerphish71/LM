@@ -1,0 +1,6 @@
+BATCH,,201306,B,3363.0000,
+INVOICE,IN,,53510233,,06/03/2013,303.0000,"Invoice-Private",,06/03/2013,06/03/2013,,53515383MO,-2757.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,3,101.0000,303.00,"Basic Service Fee - One Bedroom for Jun: Leschig, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,53510233,,06/03/2013,3060,"Invoice-Private",,06/03/2013,06/03/2013,,53515383MO,-2757.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3030,3030,"CR:Basic Service F... P.Leschig 201306: Leschig, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... P.Leschig 201306: Leschig, Phyllis",,,,,,,,,,,,,,,

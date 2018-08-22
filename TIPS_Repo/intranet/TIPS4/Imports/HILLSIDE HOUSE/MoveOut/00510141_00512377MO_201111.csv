@@ -1,0 +1,7 @@
+BATCH,,201111,B,4293.8000,
+INVOICE,IN,,00510141,,11/13/2011,1384.6000,"Invoice-Private",,11/13/2011,11/13/2011,,00512377MO,-1524.6000,,,,,,,,,,
+TRANSACTION,3020,010101005,14,70.0000,980.00,"Basic Service Fee - Studio for Nov: La Pointe, Rhonndo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,14,28.9000,404.60,"Service level: lvl 0 to lvl 17 - 11/3/11 for Nov: La Pointe, Rhonndo",,,,,,,,,,,,,,,
+INVOICE,CM,,00510141,,11/13/2011,2909.2,"Invoice-Private",,11/13/2011,11/13/2011,,00512377MO,-1524.6000,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2100,2100,"CR:Basic Service F... R.La Pointe 201111: La Pointe, Rhonndo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,809.2,809.2,"CR:Service level: ... R.La Pointe 201111: La Pointe, Rhonndo",,,,,,,,,,,,,,,

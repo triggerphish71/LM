@@ -1,0 +1,7 @@
+BATCH,,201202,B,3882.0000,
+INVOICE,IN,,50210146,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50213286MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,1,58.0000,58.00,"CR:Limited Term Di... F.Fisher 201202: Fisher, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,50210146,,02/01/2012,3824,"Invoice-Private",,02/01/2012,02/10/2012,,50213286MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2407,2407,"CR:Basic Service F... F.Fisher 201202: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... F.Fisher 201202: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1392,1392,"CR:Resident Care -... F.Fisher 201202: Fisher, Francis",,,,,,,,,,,,,,,

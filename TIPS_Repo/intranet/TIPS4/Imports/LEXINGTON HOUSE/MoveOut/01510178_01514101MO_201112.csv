@@ -1,0 +1,5 @@
+BATCH,,201112,B,1922.0000,
+INVOICE,IN,,01510178,,12/01/2011,961.0000,"Invoice-Private",,12/01/2011,12/10/2011,,01514101MO,-1813.2000,,,,,,,,,,
+TRANSACTION,3320,010103015,31,31.0000,961.00,"Credit for Limited Term Discount: Meyer, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,01510178,,12/01/2011,961,"Invoice-Private",,12/01/2011,12/10/2011,,01514101MO,-1813.2000,,,,,,,,,,
+TRANSACTION,3320,010103015,31,31,961,"Limited Term Discount: Meyer, Elizabeth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,4608.0000,
+INVOICE,IN,,06510213,,11/26/2012,640.0000,"MoveIn-White. Emily",,11/26/2012,11/26/2012,,06514926,4608.0000,,,,,,,,,,
+TRANSACTION,3014,010305065,5,110.0000,550,"Basic Service Fee - Deluxe: White. Emily",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,5,18.0000,90,"Resident Care - Level 1: White. Emily",,,,,,,,,,,,,,,
+INVOICE,IN,,06510213,,12/01/2012,3968.0000,"December_Rent-White. Emily",,12/01/2012,12/10/2012,,06514926,4608.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,31,110.0000,3410,"Basic Service Fee - Deluxe: White. Emily",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,31,18.0000,558,"Resident Care - Level 1: White. Emily",,,,,,,,,,,,,,,

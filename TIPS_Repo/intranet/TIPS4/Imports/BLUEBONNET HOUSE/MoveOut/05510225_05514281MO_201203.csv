@@ -1,0 +1,8 @@
+BATCH,,201203,B,6189.0000,
+INVOICE,IN,,05510225,,03/08/2012,1264.0000,"Invoice-Private",,03/08/2012,03/08/2012,,05514281MO,-3661.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,8,95.0000,760.00,"Basic Service Fee - Studio for Mar: Petty, Herbert ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,8,63.0000,504.00,"Resident Care - Level 4 for Mar: Petty, Herbert ",,,,,,,,,,,,,,,
+INVOICE,CM,,05510225,,03/08/2012,4925,"Invoice-Private",,03/08/2012,03/08/2012,,05514281MO,-3661.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2945,2945,"CR:Basic Service F... H.Petty 201203: Petty, Herbert ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"CR:Monthly Cable... H.Petty 201203: Petty, Herbert ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,1953,1953,"CR:Resident Care -... H.Petty 201203: Petty, Herbert ",,,,,,,,,,,,,,,

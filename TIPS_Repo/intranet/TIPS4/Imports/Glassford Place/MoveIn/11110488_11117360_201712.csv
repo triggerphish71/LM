@@ -1,0 +1,5 @@
+BATCH,,201712,B,9639.0000,
+INVOICE,IN,,11110488,,01/01/2018,9639.0000,"MoveIn-Weigandt. Dale",,01/01/2018,01/01/2018,,11117360,12920.3000,,,,,,,,,,
+TRANSACTION,3010,010007111,31,105.0000,3255,"Basic Service Fee - Studio: Weigandt. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007111,1,3192.0000,3192,"Community Fee: Weigandt. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007111,1,3192.0000,3192,"Monthly Deferral Charge: Weigandt. Dale",,,,,,,,,,,,,,,

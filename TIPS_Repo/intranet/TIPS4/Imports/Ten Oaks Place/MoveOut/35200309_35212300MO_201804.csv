@@ -1,0 +1,6 @@
+BATCH,,201804,B,6400.0000,
+INVOICE,IN,,35200309,,04/10/2018,2560.0000,"Invoice-Private",,04/10/2018,04/10/2018,,35212300MO,-1280.0000,,,,,,,,,,
+TRANSACTION,3010,070029352,10,128.0000,1280.00,"MC Companion Studio Deluxe: Booker, William Marlan",,,,,,,,,,,,,,,
+TRANSACTION,3010,070029352,1,1280.0000,1280.00,"MC Companion Studio Deluxe  for Apr: Booker, William Marlan",,,,,,,,,,,,,,,
+INVOICE,CM,,35200309,,04/10/2018,3840,"Invoice-Private",,04/10/2018,04/10/2018,,35212300MO,-1280.0000,,,,,,,,,,
+TRANSACTION,3010,070029352,1,3840,3840,"CR:MC Companion St... W.Booker 201804: Booker, William Marlan",,,,,,,,,,,,,,,

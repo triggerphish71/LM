@@ -1,0 +1,5 @@
+BATCH,,201109,B,3265.0000,
+INVOICE,IN,,02310210,,09/01/2011,3265.0000,"September_Rent-Hale. Roy",,09/01/2011,09/10/2011,,02314571,6370.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,30,91.0000,2730,"R.Hale: Basic Service Fee - Studio: Hale. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202023,30,17.0000,510,"R.Hale: Resident Care - Level 1: Hale. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Hale. Roy",,,,,,,,,,,,,,,

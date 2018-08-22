@@ -1,0 +1,8 @@
+BATCH,,201208,B,10878.0000,
+INVOICE,IN,,07310223,,08/11/2012,5340.0000,"Invoice-Private",,08/11/2012,08/11/2012,,07315685MO,-198.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,30,68.0000,2040.00,"Resident Care - Level 4 for Aug: Mortimer, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,30,110.0000,3300.00,"Room and Board - Deluxe for Aug: Mortimer, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07310223,,08/11/2012,5538,"Invoice-Private",,08/11/2012,08/11/2012,,07315685MO,-198.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... E.Mortimer 201208: Mortimer, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2108,2108,"CR:Resident Care -... E.Mortimer 201208: Mortimer, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3410,3410,"CR:Room and Board ... E.Mortimer 201208: Mortimer, Evelyn",,,,,,,,,,,,,,,

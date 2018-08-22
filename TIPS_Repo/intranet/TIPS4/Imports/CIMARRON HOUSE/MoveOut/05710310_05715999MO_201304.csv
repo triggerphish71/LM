@@ -1,0 +1,7 @@
+BATCH,,201304,B,4865.0000,
+INVOICE,IN,,05710310,,04/01/2013,695.0000,"Invoice-Private",,04/01/2013,04/10/2013,,05715999MO,-3475.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,5,95.0000,475.00,"Basic Service Fee - Studio for Apr: Ramey, LaJean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,5,44.0000,220.00,"Resident Care - Level 3 for Apr: Ramey, LaJean",,,,,,,,,,,,,,,
+INVOICE,CM,,05710310,,04/01/2013,4170,"Invoice-Private",,04/01/2013,04/10/2013,,05715999MO,-3475.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2850,2850,"CR:Basic Service F... L.Ramey 201304: Ramey, LaJean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,1320,1320,"CR:Resident Care -... L.Ramey 201304: Ramey, LaJean",,,,,,,,,,,,,,,

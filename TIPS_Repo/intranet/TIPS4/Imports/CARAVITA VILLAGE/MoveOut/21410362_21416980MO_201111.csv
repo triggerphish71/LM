@@ -1,0 +1,8 @@
+BATCH,,201111,B,3494.0000,
+INVOICE,IN,,21410362,,10/20/2011,58.0000,"Invoice-Private",,10/20/2011,10/20/2011,,21416980MO,-5176.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,58.0000,58.00,"IL Investor Two Bedroom Luxury for Oct: Pruitt, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,21410362,,10/20/2011,1696,"Invoice-Private",,10/20/2011,10/20/2011,,21416980MO,-5176.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,696,696,"CR:IL Investor Two... E.Pruitt 201110: Pruitt, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3216,010221214,1,1000,1000,"CR:New Resident Fe... E.Pruitt 201110: Pruitt, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,21410362,,11/01/2011,1740,"Invoice-Private",,11/01/2011,11/10/2011,,21416980MO,-5176.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,1740,1740,"CR:IL Investor Two... E.Pruitt 201111: Pruitt, Ernest",,,,,,,,,,,,,,,

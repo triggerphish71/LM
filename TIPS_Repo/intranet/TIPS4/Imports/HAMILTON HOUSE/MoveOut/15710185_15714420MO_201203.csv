@@ -1,0 +1,5 @@
+BATCH,,201203,B,434.0000,
+INVOICE,IN,,15710185,,03/01/2012,217.0000,"Invoice-Private",,03/01/2012,03/10/2012,,15714420MO,-2892.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,31,7.0000,217.00,"Credit for Limited Term Discount: Dreyer, Ella",,,,,,,,,,,,,,,
+INVOICE,CM,,15710185,,03/01/2012,217,"Invoice-Private",,03/01/2012,03/10/2012,,15714420MO,-2892.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,31,7,217,"Limited Term Discount: Dreyer, Ella",,,,,,,,,,,,,,,

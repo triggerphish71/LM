@@ -1,0 +1,7 @@
+BATCH,,201304,B,2414.0000,
+INVOICE,IN,,03510152,,04/01/2013,284.0000,"Invoice-Private",,04/01/2013,04/10/2013,,03513532MO,-1846.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,4,55.0000,220.00,"Basic Service Fee - Studio for Apr: Tona, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,4,16.0000,64.00,"Resident Care - Level 1 for Apr: Tona, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,03510152,,04/01/2013,2130,"Invoice-Private",,04/01/2013,04/10/2013,,03513532MO,-1846.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,1650,1650,"CR:Basic Service F... E.Tona 201304: Tona, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,480,480,"CR:Resident Care -... E.Tona 201304: Tona, Ethel",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,3864.0000,
+INVOICE,IN,,07310207,,12/01/2012,837.0000,"Invoice-Private",,12/01/2012,12/10/2012,,07315888MO,-2190.0000,,,,,,,,,,
+TRANSACTION,3320,010305073,1,837.0000,837.00,"CR:Limited Term Di... F.Deeter 201212: Deeter, Fidella",,,,,,,,,,,,,,,
+INVOICE,CM,,07310207,,12/01/2012,3027,"Invoice-Private",,12/01/2012,12/10/2012,,07315888MO,-2190.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... F.Deeter 201212: Deeter, Fidella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... F.Deeter 201212: Deeter, Fidella",,,,,,,,,,,,,,,

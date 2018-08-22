@@ -1,0 +1,8 @@
+BATCH,,201210,B,4964.0000,
+INVOICE,IN,,16110260,,09/30/2012,1523.0000,"MoveIn-Roussel. Ned",,09/30/2012,09/30/2012,,16115628,4964.0000,,,,,,,,,,
+TRANSACTION,3014,010313161,1,88.0000,88,"N.Roussel: Basic Service Fee - Studio: Roussel. Ned",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313161,1,23.0000,23,"N.Roussel: Resident Care - Level 2: Roussel. Ned",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313161,1,1412.0000,1412,"New Resident Fee: Roussel. Ned",,,,,,,,,,,,,,,
+INVOICE,IN,,16110260,,10/01/2012,3441.0000,"October_Rent-Roussel. Ned",,10/01/2012,10/10/2012,,16115628,4964.0000,,,,,,,,,,
+TRANSACTION,3010,010313161,31,88.0000,2728,"N.Roussel: Basic Service Fee - Studio: Roussel. Ned",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313161,31,23.0000,713,"N.Roussel: Resident Care - Level 2: Roussel. Ned",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,5120.0000,
+INVOICE,CM,,53110208,,11/01/2011,5120,"Invoice-Private",,11/01/2011,11/10/2011,,53113877MO,-7010.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3510,3510,"CR:Basic Service F... A.Raffaele 201111: Raffaele, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... A.Raffaele 201111: Raffaele, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1590,1590,"CR:Resident Care -... A.Raffaele 201111: Raffaele, Anne",,,,,,,,,,,,,,,

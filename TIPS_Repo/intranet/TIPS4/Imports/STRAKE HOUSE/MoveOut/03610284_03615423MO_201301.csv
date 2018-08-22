@@ -1,0 +1,7 @@
+BATCH,,201301,B,7308.0000,
+INVOICE,IN,,03610284,,01/05/2013,1914.0000,"Invoice-Private",,01/05/2013,01/05/2013,,03615423MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,11,101.0000,1111.00,"Basic Service Fee - Studio for Jan: Matlock, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,11,73.0000,803.00,"Resident Care - Level 5 for Jan: Matlock, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,03610284,,01/05/2013,5394,"Invoice-Private",,01/05/2013,01/05/2013,,03615423MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... B.Matlock 201301: Matlock, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,2263,2263,"CR:Resident Care -... B.Matlock 201301: Matlock, Bill",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201109,B,2260.0000,
+INVOICE,IN,,14810321,,09/21/2011,2260.0000,"MoveIn-O'Neill. John",,09/21/2011,09/21/2011,,14814705,6103.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,10,88.0000,880,"Basic Service Fee - Studio         : O'Neill. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,10,35.0000,350,"Resident Care - Level 2: O'Neill. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: O'Neill. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: O'Neill. John",,,,,,,,,,,,,,,

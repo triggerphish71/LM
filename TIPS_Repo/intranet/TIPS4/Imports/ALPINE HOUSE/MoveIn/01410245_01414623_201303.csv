@@ -1,0 +1,5 @@
+BATCH,,201303,B,3805.0000,
+INVOICE,IN,,01410245,,03/08/2013,3805.0000,"MoveIn-Miller. Maxine",,03/08/2013,03/08/2013,,01414623,3805.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,24,95.0000,2280,"M.Miller: Basic Service Fee - Studio: Miller. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Miller. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1500.0000,1500,"New Resident Fee: Miller. Maxine",,,,,,,,,,,,,,,

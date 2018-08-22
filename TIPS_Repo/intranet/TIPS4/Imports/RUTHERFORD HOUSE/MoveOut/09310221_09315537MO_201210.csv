@@ -1,0 +1,7 @@
+BATCH,,201210,B,9240.0000,
+INVOICE,IN,,09310221,,10/25/2012,4125.0000,"Invoice-Private",,10/25/2012,10/25/2012,,09315537MO,-5940.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,25,132.0000,3300.00,"Basic Service Fee - One Bedroom for Oct: Bloom, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,25,33.0000,825.00,"Resident Care - Level 2 for Oct: Bloom, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,09310221,,10/25/2012,5115,"Invoice-Private",,10/25/2012,10/25/2012,,09315537MO,-5940.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,4092,4092,"CR:Basic Service F... C.Bloom 201210: Bloom, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1023,1023,"CR:Resident Care -... C.Bloom 201210: Bloom, Charles",,,,,,,,,,,,,,,

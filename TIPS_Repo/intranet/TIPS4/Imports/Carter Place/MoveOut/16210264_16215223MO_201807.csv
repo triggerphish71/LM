@@ -1,0 +1,7 @@
+BATCH,,201807,B,5738.0000,
+INVOICE,IN,,16210264,,07/01/2018,1057.0000,"Invoice-Private",,07/01/2018,07/10/2018,,16215223MO,-3624.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,7,81.0000,567.00,"Basic Service Fee - Studio for Jul: Breyfogle, Doty (Doris)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,7,70.0000,490.00,"Resident Care - Level 4 for Jul: Breyfogle, Doty (Doris)",,,,,,,,,,,,,,,
+INVOICE,CM,,16210264,,07/01/2018,4681,"Invoice-Private",,07/01/2018,07/10/2018,,16215223MO,-3624.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,1,2511,2511,"CR:Basic Service F... D.Breyfogle 201807: Breyfogle, Doty (Doris)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,1,2170,2170,"CR:Resident Care -... D.Breyfogle 201807: Breyfogle, Doty (Doris)",,,,,,,,,,,,,,,

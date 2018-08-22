@@ -1,0 +1,6 @@
+BATCH,,201109,B,3930.0000,
+INVOICE,IN,,09110160,,09/01/2011,450.0000,"Invoice-Private",,09/01/2011,09/10/2011,,09114847MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,1,450.0000,450.00,"CR:Limited Term Di... W.Lambert 201109: Lambert, Willovene",,,,,,,,,,,,,,,
+INVOICE,CM,,09110160,,09/01/2011,3480,"Invoice-Private",,09/01/2011,09/10/2011,,09114847MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2400,2400,"CR:Basic Service F... W.Lambert 201109: Lambert, Willovene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... W.Lambert 201109: Lambert, Willovene",,,,,,,,,,,,,,,

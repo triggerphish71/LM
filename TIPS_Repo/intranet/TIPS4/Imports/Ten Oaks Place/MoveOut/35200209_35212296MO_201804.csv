@@ -1,0 +1,7 @@
+BATCH,,201804,B,3342.0000,
+INVOICE,IN,,35200209,,04/11/2018,873.0000,"Invoice-Private",,04/11/2018,04/11/2018,,35212296MO,-1596.0000,,,,,,,,,,
+TRANSACTION,3017,070029352,8,17.0000,136.00," Level: 1 : White, John Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3020,070029352,11,67.0000,737.00,"Studio Deluxe  for Apr: White, John Micheal",,,,,,,,,,,,,,,
+INVOICE,CM,,35200209,,04/11/2018,2469,"Invoice-Private",,04/11/2018,04/11/2018,,35212296MO,-1596.0000,,,,,,,,,,
+TRANSACTION,3027,070029352,1,459,459,"CR:Resident Care L... J.White 201804: White, John Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3020,070029352,1,2010,2010,"CR:Studio Deluxe... J.White 201804: White, John Micheal",,,,,,,,,,,,,,,

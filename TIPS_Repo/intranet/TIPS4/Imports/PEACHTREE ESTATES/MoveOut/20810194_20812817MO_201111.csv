@@ -1,0 +1,8 @@
+BATCH,,201111,B,3365.0000,
+INVOICE,IN,,20810194,,11/01/2011,515.0000,"Invoice-Private",,11/01/2011,11/10/2011,,20812817MO,-2335.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,420.0000,420.00,"CR:Limited Term Di... W.Matthews 201111: Matthews, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,21.0000,21.00,"Resident Care - Level 2 for Nov: Matthews, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,74.0000,74.00,"Room and Board - Studio for Nov: Matthews, William",,,,,,,,,,,,,,,
+INVOICE,CM,,20810194,,11/01/2011,2850,"Invoice-Private",,11/01/2011,11/10/2011,,20812817MO,-2335.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,630,630,"CR:Resident Care -... W.Matthews 201111: Matthews, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2220,2220,"CR:Room and Board ... W.Matthews 201111: Matthews, William",,,,,,,,,,,,,,,

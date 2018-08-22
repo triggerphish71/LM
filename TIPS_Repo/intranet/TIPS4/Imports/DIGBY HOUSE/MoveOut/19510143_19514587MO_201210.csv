@@ -1,0 +1,8 @@
+BATCH,,201210,B,4335.0000,
+INVOICE,IN,,19510143,,10/01/2012,863.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19514587MO,-2609.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,1,527.0000,527.00,"CR:Limited Term Di... C.Sawyer 201210: Sawyer, Claude",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309195,3,94.0000,282.00,"Basic Service Fee - Studio for Oct: Sawyer, Claude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,3,18.0000,54.00,"Resident Care - Level 1 for Oct: Sawyer, Claude",,,,,,,,,,,,,,,
+INVOICE,CM,,19510143,,10/01/2012,3472,"Invoice-Private",,10/01/2012,10/10/2012,,19514587MO,-2609.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2914,2914,"CR:Basic Service F... C.Sawyer 201210: Sawyer, Claude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,558,558,"CR:Resident Care -... C.Sawyer 201210: Sawyer, Claude",,,,,,,,,,,,,,,

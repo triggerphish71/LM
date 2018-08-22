@@ -1,0 +1,5 @@
+BATCH,,201109,B,3210.0000,
+INVOICE,CM,,14810312,,09/01/2011,3210,"Invoice-Private",,09/01/2011,09/10/2011,,14814672MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2640,2640,"CR:Basic Service F... L.Lozier 201109: Lozier, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... L.Lozier 201109: Lozier, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,540,540,"CR:Resident Care -... L.Lozier 201109: Lozier, Linda",,,,,,,,,,,,,,,

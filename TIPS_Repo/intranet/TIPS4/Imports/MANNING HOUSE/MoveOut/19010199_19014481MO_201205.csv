@@ -1,0 +1,6 @@
+BATCH,,201205,B,4898.0000,
+INVOICE,IN,,19010199,,05/01/2012,589.0000,"Invoice-Private",,05/01/2012,05/10/2012,,19014481MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,589.0000,589.00,"CR:Limited Term Di... D.Cronin 201205: Cronin, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,19010199,,05/01/2012,4309,"Invoice-Private",,05/01/2012,05/10/2012,,19014481MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... D.Cronin 201205: Cronin, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,1271,1271,"CR:Resident Care -... D.Cronin 201205: Cronin, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,6040.0000,
+INVOICE,IN,,53110140,,02/01/2012,1661.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53113979MO,-2718.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,11,98.0000,1078.00,"Basic Service Fee - Studio for Feb: Gordon, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,11,53.0000,583.00,"Resident Care - Level 4 for Feb: Gordon, Gordon",,,,,,,,,,,,,,,
+INVOICE,CM,,53110140,,02/01/2012,4379,"Invoice-Private",,02/01/2012,02/10/2012,,53113979MO,-2718.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2842,2842,"CR:Basic Service F... G.Gordon 201202: Gordon, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1537,1537,"CR:Resident Care -... G.Gordon 201202: Gordon, Gordon",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,5343.0000,
+INVOICE,IN,,19510203,,04/01/2012,423.0000,"Invoice-Private",,04/01/2012,04/10/2012,,19514324MO,-5207.9000,,,,,,,,,,
+TRANSACTION,3316,010309195,1,423.0000,423.00,"CR:Employee Discou... A.Greenwell 201204: Greenwell, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,19510203,,04/01/2012,4920,"Invoice-Private",,04/01/2012,04/10/2012,,19514324MO,-5207.9000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2820,2820,"CR:Basic Service F... A.Greenwell 201204: Greenwell, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,2100,2100,"CR:Resident Care -... A.Greenwell 201204: Greenwell, Anna",,,,,,,,,,,,,,,

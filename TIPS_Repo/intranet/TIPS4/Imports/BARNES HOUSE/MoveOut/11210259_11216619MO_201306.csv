@@ -1,0 +1,7 @@
+BATCH,,201306,B,4416.0000,
+INVOICE,IN,,11210259,,06/01/2013,1656.0000,"Invoice-Private",,06/01/2013,06/10/2013,,11216619MO,-1104.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,18,55.0000,990.00,"Basic Service Fee - Studio for Jun: Palombo, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,18,37.0000,666.00,"Resident Care - Level 2 for Jun: Palombo, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11210259,,06/01/2013,2760,"Invoice-Private",,06/01/2013,06/10/2013,,11216619MO,-1104.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,1650,1650,"CR:Basic Service F... M.Palombo 201306: Palombo, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1110,1110,"CR:Resident Care -... M.Palombo 201306: Palombo, Mary",,,,,,,,,,,,,,,

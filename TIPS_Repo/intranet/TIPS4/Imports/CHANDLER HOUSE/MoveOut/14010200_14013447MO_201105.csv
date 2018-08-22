@@ -1,0 +1,6 @@
+BATCH,,201105,B,4620.0000,
+INVOICE,IN,,14010200,,05/05/2011,1955.0000,"Invoice-Private",,05/05/2011,05/05/2011,,14013447MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,23,85.0000,1955.00,"Basic Service Fee - Studio for May: Reiske, Beth",,,,,,,,,,,,,,,
+INVOICE,CM,,14010200,,05/05/2011,2665,"Invoice-Private",,05/05/2011,05/05/2011,,14013447MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2635,2635,"CR:Basic Service F... B.Reiske 201105: Reiske, Beth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... B.Reiske 201105: Reiske, Beth",,,,,,,,,,,,,,,

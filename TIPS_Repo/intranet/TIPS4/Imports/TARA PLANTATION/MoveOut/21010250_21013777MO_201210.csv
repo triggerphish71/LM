@@ -1,0 +1,8 @@
+BATCH,,201210,B,5475.0000,
+INVOICE,IN,,21010250,,10/01/2012,1240.0000,"Invoice-Private",,10/01/2012,10/10/2012,,21013777MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,1240.0000,1240.00,"CR:Limited Term Di... A.Alexander 201210: Alexander, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,21010250,,10/01/2012,4235,"Invoice-Private",,10/01/2012,10/10/2012,,21013777MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... A.Alexander 201210: Alexander, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216210,1,25,25,"CR:Pendant Fee... A.Alexander 201210: Alexander, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1271,1271,"CR:Resident Care -... A.Alexander 201210: Alexander, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... A.Alexander 201210: Alexander, Albert",,,,,,,,,,,,,,,

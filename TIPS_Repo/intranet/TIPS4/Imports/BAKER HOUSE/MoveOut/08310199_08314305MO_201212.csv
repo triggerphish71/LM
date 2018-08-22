@@ -1,0 +1,7 @@
+BATCH,,201212,B,7144.0000,
+INVOICE,IN,,08310199,,12/16/2012,2432.0000,"Invoice-Private",,12/16/2012,12/16/2012,,08314305MO,-6992.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,16,117.0000,1872.00,"Basic Service Fee - Deluxe for Dec: Modelle, Adrienne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,16,35.0000,560.00,"Resident Care - Level 2 for Dec: Modelle, Adrienne",,,,,,,,,,,,,,,
+INVOICE,CM,,08310199,,12/16/2012,4712,"Invoice-Private",,12/16/2012,12/16/2012,,08314305MO,-6992.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3627,3627,"CR:Basic Service F... A.Modelle 201212: Modelle, Adrienne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1085,1085,"CR:Resident Care -... A.Modelle 201212: Modelle, Adrienne",,,,,,,,,,,,,,,

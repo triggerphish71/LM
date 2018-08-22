@@ -1,0 +1,7 @@
+BATCH,,201106,B,5746.0000,
+INVOICE,IN,,08810136,,06/04/2011,676.0000,"Invoice-Private",,06/04/2011,06/04/2011,,08814038MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,4,110.0000,440.00,"Basic Service Fee - One Bedroom for Jun: Scheetz, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,4,59.0000,236.00,"Resident Care - Level 4 for Jun: Scheetz, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,08810136,,06/04/2011,5070,"Invoice-Private",,06/04/2011,06/04/2011,,08814038MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3300,3300,"CR:Basic Service F... L.Scheetz 201106: Scheetz, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1770,1770,"CR:Resident Care -... L.Scheetz 201106: Scheetz, Laura",,,,,,,,,,,,,,,

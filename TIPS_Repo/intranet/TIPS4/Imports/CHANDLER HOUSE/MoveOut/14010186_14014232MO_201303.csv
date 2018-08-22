@@ -1,0 +1,8 @@
+BATCH,,201303,B,6566.0000,
+INVOICE,IN,,14010186,,03/12/2013,1824.0000,"Invoice-Private",,03/12/2013,03/12/2013,,14014232MO,-7508.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,12,87.0000,1044.00,"Basic Service Fee - Studio for Mar: Boese, Angeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,12,65.0000,780.00,"Resident Care - Level 5 for Mar: Boese, Angeline",,,,,,,,,,,,,,,
+INVOICE,CM,,14010186,,03/12/2013,4742,"Invoice-Private",,03/12/2013,03/12/2013,,14014232MO,-7508.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2697,2697,"CR:Basic Service F... A.Boese 201303: Boese, Angeline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... A.Boese 201303: Boese, Angeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,2015,2015,"CR:Resident Care -... A.Boese 201303: Boese, Angeline",,,,,,,,,,,,,,,

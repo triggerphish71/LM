@@ -1,0 +1,8 @@
+BATCH,,201303,B,6127.0000,
+INVOICE,IN,,01410227,,03/21/2013,2599.0000,"Invoice-Private",,03/21/2013,03/21/2013,,01414662MO,-4344.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,23,96.0000,2208.00,"Basic Service Fee - Studio for Mar: Freeman, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,23,17.0000,391.00,"Resident Care - Level 1 for Mar: Freeman, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,01410227,,03/21/2013,3528,"Invoice-Private",,03/21/2013,03/21/2013,,01414662MO,-4344.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2976,2976,"CR:Basic Service F... L.Freeman 201303: Freeman, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... L.Freeman 201303: Freeman, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,527,527,"CR:Resident Care -... L.Freeman 201303: Freeman, Lucille",,,,,,,,,,,,,,,

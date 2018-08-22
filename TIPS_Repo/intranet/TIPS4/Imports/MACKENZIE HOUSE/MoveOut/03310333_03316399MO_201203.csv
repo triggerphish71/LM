@@ -1,0 +1,7 @@
+BATCH,,201203,B,3132.0000,
+INVOICE,IN,,03310333,,03/10/2012,1458.0000,"Invoice-Private",,03/10/2012,03/10/2012,,03316399MO,-1836.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,27,37.0000,999.00,"Basic Service Fee - Second Resident for Mar: Brown, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,27,17.0000,459.00,"Resident Care - Level 1 for Mar: Brown, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,03310333,,03/10/2012,1674,"Invoice-Private",,03/10/2012,03/10/2012,,03316399MO,-1836.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,1147,1147,"CR:Basic Service F... E.Brown 201203: Brown, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... E.Brown 201203: Brown, Eva",,,,,,,,,,,,,,,

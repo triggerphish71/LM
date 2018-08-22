@@ -1,0 +1,5 @@
+BATCH,,201207,B,1368.0000,
+INVOICE,IN,,53610205,,07/05/2012,190.0000,"Invoice-Private",,07/05/2012,07/05/2012,,53613669MO,-988.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,5,38.0000,190.00,"Basic Service Fee - Second Resident for Jul: Baker, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,53610205,,07/05/2012,1178,"Invoice-Private",,07/05/2012,07/05/2012,,53613669MO,-988.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,1178,1178,"CR:Basic Service F... D.Baker 201207: Baker, Dorothy",,,,,,,,,,,,,,,

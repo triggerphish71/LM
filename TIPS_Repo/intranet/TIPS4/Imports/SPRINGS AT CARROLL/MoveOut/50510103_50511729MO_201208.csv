@@ -1,0 +1,8 @@
+BATCH,,201208,B,5485.0000,
+INVOICE,IN,,50510103,,08/21/2012,2205.0000,"Invoice-Private",,08/21/2012,08/21/2012,,50511729MO,-4250.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,21,90.0000,1890.00,"Basic Service Fee - Studio for Aug: Hooper, Karlheinz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,21,15.0000,315.00,"Resident Care - Level 1 for Aug: Hooper, Karlheinz",,,,,,,,,,,,,,,
+INVOICE,CM,,50510103,,08/21/2012,3280,"Invoice-Private",,08/21/2012,08/21/2012,,50511729MO,-4250.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,2790,2790,"CR:Basic Service F... K.Hooper 201208: Hooper, Karlheinz",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... K.Hooper 201208: Hooper, Karlheinz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,465,465,"CR:Resident Care -... K.Hooper 201208: Hooper, Karlheinz",,,,,,,,,,,,,,,

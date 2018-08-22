@@ -1,0 +1,7 @@
+BATCH,,201202,B,200.0000,
+INVOICE,IN,,14710173,,02/01/2012,100.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14715455MO,-6269.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Gustovich, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,29,2.0000,58.00,"Credit for Limited Term Discount: Gustovich, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,14710173,,02/01/2012,100,"Invoice-Private",,02/01/2012,02/10/2012,,14715455MO,-6269.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Gustovich, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,29,2,58,"Limited Term Discount: Gustovich, Margaret",,,,,,,,,,,,,,,

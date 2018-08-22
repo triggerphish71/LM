@@ -1,0 +1,5 @@
+BATCH,,201111,B,3715.0000,
+INVOICE,IN,,02810204,,11/01/2011,3715.0000,"November_Rent-Miller. Herbie",,11/01/2011,11/10/2011,,02814919,6232.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,30,109.0000,3270,"Basic Service Fee - Studio         : Miller. Herbie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,30,14.0000,420,"Resident Care - Level 1: Miller. Herbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Miller. Herbie",,,,,,,,,,,,,,,

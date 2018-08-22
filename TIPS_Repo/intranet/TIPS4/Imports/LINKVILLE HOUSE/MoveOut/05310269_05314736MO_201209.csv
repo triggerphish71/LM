@@ -1,0 +1,6 @@
+BATCH,,201209,B,3617.4000,
+INVOICE,IN,,05310269,,09/01/2012,780.0000,"Invoice-Private",,09/01/2012,09/10/2012,,05314736MO,-4744.4600,,,,,,,,,,
+TRANSACTION,3320,010101053,1,780.0000,780.00,"CR:Limited Term Di... J.Purcell 201209: Purcell, John",,,,,,,,,,,,,,,
+INVOICE,CM,,05310269,,09/01/2012,2837.4,"Invoice-Private",,09/01/2012,09/10/2012,,05314736MO,-4744.4600,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2730,2730,"CR:Basic Service F... J.Purcell 201209: Purcell, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,107.4,107.4,"CR:Resident Care -... J.Purcell 201209: Purcell, John",,,,,,,,,,,,,,,

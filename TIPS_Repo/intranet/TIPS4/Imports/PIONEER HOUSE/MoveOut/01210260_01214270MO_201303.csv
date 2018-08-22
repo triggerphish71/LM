@@ -1,0 +1,5 @@
+BATCH,,201303,B,58.0000,
+INVOICE,IN,,01210260,,03/01/2013,29.0000,"Invoice-Private",,03/01/2013,03/10/2013,,01214270MO,-2601.0800,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Burney, Burvil",,,,,,,,,,,,,,,
+INVOICE,CM,,01210260,,03/01/2013,29,"Invoice-Private",,03/01/2013,03/10/2013,,01214270MO,-2601.0800,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Burney, Burvil",,,,,,,,,,,,,,,

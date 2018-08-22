@@ -1,0 +1,5 @@
+BATCH,,201208,B,124.0000,
+INVOICE,IN,,12510195,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,12514281MO,-2788.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,31,2.0000,62.00,"Credit for Limited Term Discount: Lefler, Emma ",,,,,,,,,,,,,,,
+INVOICE,CM,,12510195,,08/01/2012,62,"Invoice-Private",,08/01/2012,08/10/2012,,12514281MO,-2788.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,31,2,62,"Limited Term Discount: Lefler, Emma ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,740.0000,
+INVOICE,IN,,19310276,,09/01/2011,370.0000,"Invoice-Private",,09/01/2011,09/10/2011,,19314806MO,-2651.0000,,,,,,,,,,
+TRANSACTION,3320,010315193,30,2.0000,60.00,"Credit for Limited Term Discount: Robbins, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Robbins, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,19310276,,09/01/2011,370,"Invoice-Private",,09/01/2011,09/10/2011,,19314806MO,-2651.0000,,,,,,,,,,
+TRANSACTION,3320,010315193,30,2,60,"Limited Term Discount: Robbins, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Robbins, Joseph",,,,,,,,,,,,,,,

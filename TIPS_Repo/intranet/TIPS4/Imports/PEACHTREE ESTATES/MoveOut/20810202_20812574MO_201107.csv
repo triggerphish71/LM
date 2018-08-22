@@ -1,0 +1,6 @@
+BATCH,,201107,B,4830.0000,
+INVOICE,IN,,20810202,,07/14/2011,1823.0000,"Invoice-Private",,07/14/2011,07/14/2011,,20812574MO,-1184.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,465.0000,465.00,"CR:Limited Term Di... V.Johnson 201107: Johnson, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,14,97.0000,1358.00,"Room and Board - One Bedroom for Jul: Johnson, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,20810202,,07/14/2011,3007,"Invoice-Private",,07/14/2011,07/14/2011,,20812574MO,-1184.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3007,3007,"CR:Room and Board ... V.Johnson 201107: Johnson, Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,3235.0000,
+INVOICE,IN,,01410246,,03/14/2013,3235.0000,"MoveIn-McBride. Homer",,03/14/2013,03/14/2013,,01414654,6110.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,18,95.0000,1710,"H.McBride: Basic Service Fee - Studio: McBride. Homer",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: McBride. Homer",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1500.0000,1500,"New Resident Fee: McBride. Homer",,,,,,,,,,,,,,,

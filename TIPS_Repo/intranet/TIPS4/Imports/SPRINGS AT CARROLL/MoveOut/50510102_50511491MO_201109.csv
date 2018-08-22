@@ -1,0 +1,8 @@
+BATCH,,201109,B,9529.0000,
+INVOICE,IN,,50510102,,09/24/2011,4224.0000,"Invoice-Private",,09/24/2011,09/24/2011,,50511491MO,-6562.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,24,115.0000,2760.00,"Basic Service Fee - One Bedroom for Sep: McKinster, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,24,61.0000,1464.00,"Resident Care - Level 5 for Sep: McKinster, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,50510102,,09/24/2011,5305,"Invoice-Private",,09/24/2011,09/24/2011,,50511491MO,-6562.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,3450,3450,"CR:Basic Service F... R.McKinster 201109: McKinster, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... R.McKinster 201109: McKinster, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,1830,1830,"CR:Resident Care -... R.McKinster 201109: McKinster, Ray",,,,,,,,,,,,,,,

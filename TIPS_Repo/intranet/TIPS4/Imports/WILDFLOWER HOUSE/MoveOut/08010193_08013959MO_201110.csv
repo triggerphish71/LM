@@ -1,0 +1,7 @@
+BATCH,,201110,B,1666.0000,
+INVOICE,IN,,08010193,,10/01/2011,833.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08013959MO,-3198.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: McNiel, Johnny",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,26.0000,806.00,"Credit for Limited Term Discount: McNiel, Johnny",,,,,,,,,,,,,,,
+INVOICE,CM,,08010193,,10/01/2011,833,"Invoice-Private",,10/01/2011,10/10/2011,,08013959MO,-3198.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: McNiel, Johnny",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,26,806,"Limited Term Discount: McNiel, Johnny",,,,,,,,,,,,,,,

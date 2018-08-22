@@ -1,0 +1,5 @@
+BATCH,,201212,B,2666.0000,
+INVOICE,IN,,17010296,,12/01/2012,1333.0000,"Invoice-Private",,12/01/2012,12/10/2012,,17014543MO,-767.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,31,43.0000,1333.00,"Credit for Limited Term Discount: Tannas, Rosemarie",,,,,,,,,,,,,,,
+INVOICE,CM,,17010296,,12/01/2012,1333,"Invoice-Private",,12/01/2012,12/10/2012,,17014543MO,-767.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,31,43,1333,"Limited Term Discount: Tannas, Rosemarie",,,,,,,,,,,,,,,

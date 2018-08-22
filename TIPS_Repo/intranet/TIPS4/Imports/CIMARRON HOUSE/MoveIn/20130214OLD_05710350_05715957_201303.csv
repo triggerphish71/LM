@@ -1,0 +1,5 @@
+BATCH,,201303,B,3435.0000,
+INVOICE,IN,,05710350,,03/01/2013,3435.0000,"March_Rent-Browning. Blanch",,03/01/2013,03/10/2013,,05715957,5110.0000,,,,,,,,,,
+TRANSACTION,3010,010202057,31,94.0000,2914,"B.Browning: Basic Service Fee - Studio: Browning. Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202057,31,16.0000,496,"B.Browning: Resident Care - Level 1: Browning. Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25.0000,25,"Monthly Cable: Browning. Blanch",,,,,,,,,,,,,,,

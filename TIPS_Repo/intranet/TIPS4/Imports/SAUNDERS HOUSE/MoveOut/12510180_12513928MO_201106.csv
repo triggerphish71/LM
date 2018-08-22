@@ -1,0 +1,6 @@
+BATCH,,201106,B,3676.5000,
+INVOICE,IN,,12510180,,06/03/2011,1456.5000,"Invoice-Private",,06/03/2011,06/03/2011,,12513928MO,-763.5000,,,,,,,,,,
+TRANSACTION,3320,010211125,1,1234.5000,1234.50,"CR:Limited Term Di...  .Even 201106: Even,  Larry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211125,3,74.0000,222.00,"Basic Service Fee - Studio for Jun: Even,  Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,12510180,,06/03/2011,2220,"Invoice-Private",,06/03/2011,06/03/2011,,12513928MO,-763.5000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2220,2220,"CR:Basic Service F...  .Even 201106: Even,  Larry",,,,,,,,,,,,,,,

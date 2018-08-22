@@ -1,0 +1,5 @@
+BATCH,,201105,B,4144.0000,
+INVOICE,IN,,12510193,,05/16/2011,4144.0000,"MoveIn-Clayton. Robert",,05/16/2011,05/16/2011,,12513894,4144.0000,,,,,,,,,,
+TRANSACTION,3010,010211125,16,74.0000,1184,"R.Clayton: Basic Service Fee - Studio: Clayton. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211125,16,60.0000,960,"R.Clayton: Resident Care - Level 4: Clayton. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211125,1,2000.0000,2000,"New Resident Fee: Clayton. Robert",,,,,,,,,,,,,,,

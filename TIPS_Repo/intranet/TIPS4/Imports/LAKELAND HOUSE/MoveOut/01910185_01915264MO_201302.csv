@@ -1,0 +1,8 @@
+BATCH,,201302,B,5007.0000,
+INVOICE,IN,,01910185,,02/01/2013,443.0000,"Invoice-Private",,02/01/2013,02/01/2013,,01915264MO,-4121.0000,,,,,,,,,,
+TRANSACTION,3320,010202019,1,280.0000,280.00,"CR:Limited Term Di... J.Hutton 201302: Hutton, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202019,1,95.0000,95.00,"Basic Service Fee - Studio for Feb: Hutton, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,68.0000,68.00,"Resident Care - Level 5 for Feb: Hutton, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01910185,,02/01/2013,4564,"Invoice-Private",,02/01/2013,02/01/2013,,01915264MO,-4121.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2660,2660,"CR:Basic Service F... J.Hutton 201302: Hutton, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,1904,1904,"CR:Resident Care -... J.Hutton 201302: Hutton, John",,,,,,,,,,,,,,,

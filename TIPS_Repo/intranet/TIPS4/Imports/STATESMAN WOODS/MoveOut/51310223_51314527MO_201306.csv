@@ -1,0 +1,7 @@
+BATCH,,201306,B,8288.0000,
+INVOICE,IN,,51310223,,06/26/2013,3848.0000,"Invoice-Private",,06/26/2013,06/26/2013,,51314527MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,26,133.0000,3458.00,"Basic Service Fee - One Bedroom for Jun: Kowalsky, Lori",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,26,15.0000,390.00,"Resident Care - Level 1 for Jun: Kowalsky, Lori",,,,,,,,,,,,,,,
+INVOICE,CM,,51310223,,06/26/2013,4440,"Invoice-Private",,06/26/2013,06/26/2013,,51314527MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3990,3990,"CR:Basic Service F... L.Kowalsky 201306: Kowalsky, Lori",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,450,450,"CR:Resident Care -... L.Kowalsky 201306: Kowalsky, Lori",,,,,,,,,,,,,,,

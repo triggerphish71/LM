@@ -1,0 +1,8 @@
+BATCH,,201205,B,7697.0000,
+INVOICE,IN,,13110219,,05/26/2012,4101.0000,"Invoice-Private",,05/26/2012,05/26/2012,,13114406MO,-1925.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,1085.0000,1085.00,"CR:Limited Term Di... G.Rollins 201205: Rollins, Grady",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,26,100.0000,2600.00,"Basic Service Fee - Studio for May: Rollins, Grady",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,26,16.0000,416.00,"Resident Care - Level 1 for May: Rollins, Grady",,,,,,,,,,,,,,,
+INVOICE,CM,,13110219,,05/26/2012,3596,"Invoice-Private",,05/26/2012,05/26/2012,,13114406MO,-1925.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... G.Rollins 201205: Rollins, Grady",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... G.Rollins 201205: Rollins, Grady",,,,,,,,,,,,,,,

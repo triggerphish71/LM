@@ -1,0 +1,7 @@
+BATCH,,201107,B,276.0000,
+INVOICE,IN,,53410049,,07/01/2011,138.0000,"Invoice-Private",,07/01/2011,07/10/2011,,53419214MO,-4461.0000,,,,,,,,,,
+TRANSACTION,3214,010319534,1,45.0000,45.00,"Garage Rental: Laack, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Laack, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,53410049,,07/01/2011,138,"Invoice-Private",,07/01/2011,07/10/2011,,53419214MO,-4461.0000,,,,,,,,,,
+TRANSACTION,3214,010319534,1,45,45,"Credit for Garage Rental: Laack, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Laack, Nellie",,,,,,,,,,,,,,,

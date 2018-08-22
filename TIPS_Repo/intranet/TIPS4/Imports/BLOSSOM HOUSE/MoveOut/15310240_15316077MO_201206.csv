@@ -1,0 +1,7 @@
+BATCH,,201206,B,8964.0200,
+INVOICE,IN,,15310240,,06/01/2012,3117.9200,"Invoice-Private",,06/01/2012,06/10/2012,,15316077MO,-2728.1800,,,,,,,,,,
+TRANSACTION,3020,010103153,16,100.0000,1600.00,"Basic Service Fee - Studio for Jun: Thorp, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,16,94.8700,1517.92,"Resident Care - Level 53 for Jun: Thorp, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,15310240,,06/01/2012,5846.1,"Invoice-Private",,06/01/2012,06/10/2012,,15316077MO,-2728.1800,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... D.Thorp 201206: Thorp, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2846.1,2846.1,"CR:Resident Care -... D.Thorp 201206: Thorp, Dorothy",,,,,,,,,,,,,,,

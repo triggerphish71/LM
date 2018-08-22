@@ -1,0 +1,7 @@
+BATCH,,201303,B,7268.0000,
+INVOICE,IN,,07410213,,03/14/2013,2370.0000,"Invoice-Private",,03/14/2013,03/14/2013,,07414299MO,-7268.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,15,74.0000,1110.00,"Basic Service Fee - Studio for Mar: Miller, Jessalyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,15,84.0000,1260.00,"Resident Care - Level 6 for Mar: Miller, Jessalyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07410213,,03/14/2013,4898,"Invoice-Private",,03/14/2013,03/14/2013,,07414299MO,-7268.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2294,2294,"CR:Basic Service F... J.Miller 201303: Miller, Jessalyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,2604,2604,"CR:Resident Care -... J.Miller 201303: Miller, Jessalyn",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201803,B,4389.0000,
+INVOICE,IN,,15110317,,03/02/2018,266.0000,"Invoice-Private",,03/02/2018,03/02/2018,,15116770MO,-3857.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,2,101.0000,202.00,"Basic Service Fee- One Bedroom Premium  for Mar: Scarf, Cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,2,32.0000,64.00,"Resident Care - Level 2  for Mar: Scarf, Cheryl",,,,,,,,,,,,,,,
+INVOICE,CM,,15110317,,03/02/2018,4123,"Invoice-Private",,03/02/2018,03/02/2018,,15116770MO,-3857.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,3131,3131,"CR:Basic Service F... C.Scarf 201803: Scarf, Cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,992,992,"CR:Resident Care -... C.Scarf 201803: Scarf, Cheryl",,,,,,,,,,,,,,,

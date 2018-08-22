@@ -1,0 +1,7 @@
+BATCH,,201303,B,4930.0000,
+INVOICE,IN,,16210150,,03/01/2013,435.0000,"Invoice-Private",,03/01/2013,03/10/2013,,16213153MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,3,75.0000,225.00,"Basic Service Fee - Deluxe for Mar: Fleming, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,3,70.0000,210.00,"Resident Care - Level 5 for Mar: Fleming, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,16210150,,03/01/2013,4495,"Invoice-Private",,03/01/2013,03/10/2013,,16213153MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2325,2325,"CR:Basic Service F... M.Fleming 201303: Fleming, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,2170,2170,"CR:Resident Care -... M.Fleming 201303: Fleming, Marilyn",,,,,,,,,,,,,,,

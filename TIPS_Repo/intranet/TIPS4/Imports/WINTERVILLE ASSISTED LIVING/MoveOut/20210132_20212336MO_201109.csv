@@ -1,0 +1,8 @@
+BATCH,,201109,B,2980.0000,
+INVOICE,IN,,20210132,,09/01/2011,200.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20212336MO,-2516.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,150.0000,150.00,"CR:Limited Term Di... B.Bryant 201109: Bryant, Brady",,,,,,,,,,,,,,,
+TRANSACTION,3150,010216202,1,50.0000,50.00,"Late Fee Adjustment: Bryant, Brady",,,,,,,,,,,,,,,
+INVOICE,CM,,20210132,,09/01/2011,2780,"Invoice-Private",,09/01/2011,09/10/2011,,20212336MO,-2516.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,330,330,"CR:Resident Care -... B.Bryant 201109: Bryant, Brady",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2400,2400,"CR:Room and Board ... B.Bryant 201109: Bryant, Brady",,,,,,,,,,,,,,,
+TRANSACTION,3150,010216202,1,50,50,"Late Fee Adjustment: Bryant, Brady",,,,,,,,,,,,,,,

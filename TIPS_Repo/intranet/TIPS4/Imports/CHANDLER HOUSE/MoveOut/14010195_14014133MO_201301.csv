@@ -1,0 +1,8 @@
+BATCH,,201301,B,7435.0000,
+INVOICE,IN,,14010195,,01/02/2013,3380.0000,"Invoice-Private",,01/02/2013,01/02/2013,,14014133MO,-675.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,26,88.0000,2288.00,"Basic Service Fee - Studio for Jan: Van Kleek, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,26,42.0000,1092.00,"Resident Care - Level 3 for Jan: Van Kleek, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,14010195,,01/02/2013,4055,"Invoice-Private",,01/02/2013,01/02/2013,,14014133MO,-675.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2728,2728,"CR:Basic Service F... K.Van Kleek 201301: Van Kleek, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309140,1,25,25,"CR:Pendant Fee... K.Van Kleek 201301: Van Kleek, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1302,1302,"CR:Resident Care -... K.Van Kleek 201301: Van Kleek, Keith",,,,,,,,,,,,,,,

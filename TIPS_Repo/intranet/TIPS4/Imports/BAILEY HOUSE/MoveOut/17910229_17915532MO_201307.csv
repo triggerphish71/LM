@@ -1,0 +1,5 @@
+BATCH,,201307,B,2744.0000,
+INVOICE,IN,,17910229,,07/18/2013,1008.0000,"Invoice-Private",,07/18/2013,07/18/2013,,17915532MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,18,56.0000,1008.00,"Basic Service Fee - Studio for Jul: Aresement, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,17910229,,07/18/2013,1736,"Invoice-Private",,07/18/2013,07/18/2013,,17915532MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,1736,1736,"CR:Basic Service F... S.Aresement 201307: Aresement, Shirley",,,,,,,,,,,,,,,

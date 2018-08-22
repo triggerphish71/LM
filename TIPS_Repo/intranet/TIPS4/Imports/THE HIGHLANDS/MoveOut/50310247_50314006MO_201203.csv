@@ -1,0 +1,5 @@
+BATCH,,201203,B,1054.0000,
+INVOICE,IN,,50310247,,03/01/2012,527.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50314006MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,31,17.0000,527.00,"Credit for Limited Term Discount: Sears, Leonard",,,,,,,,,,,,,,,
+INVOICE,CM,,50310247,,03/01/2012,527,"Invoice-Private",,03/01/2012,03/10/2012,,50314006MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,31,17,527,"Limited Term Discount: Sears, Leonard",,,,,,,,,,,,,,,

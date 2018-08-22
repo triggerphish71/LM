@@ -1,0 +1,5 @@
+BATCH,,201212,B,2108.0000,
+INVOICE,IN,,10210201,,12/01/2012,1054.0000,"Invoice-Private",,12/01/2012,12/10/2012,,10215084MO,-6372.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,31,34.0000,1054.00,"Credit for Limited Term Discount: Fields, Otis",,,,,,,,,,,,,,,
+INVOICE,CM,,10210201,,12/01/2012,1054,"Invoice-Private",,12/01/2012,12/10/2012,,10215084MO,-6372.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,31,34,1054,"Limited Term Discount: Fields, Otis",,,,,,,,,,,,,,,

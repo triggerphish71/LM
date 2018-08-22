@@ -1,0 +1,8 @@
+BATCH,,201201,B,5603.7500,
+INVOICE,IN,,05010164,,01/10/2012,1732.5000,"Invoice-Private",,01/10/2012,01/10/2012,,05013219MO,-2138.7500,,,,,,,,,,
+TRANSACTION,3020,010101050,14,79.0000,1106.00,"Basic Service Fee - Studio for Jan: Walkenshaw, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,14,44.7500,626.50,"Resident Care - Level 25 for Jan: Walkenshaw, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,05010164,,01/10/2012,3871.25,"Invoice-Private",,01/10/2012,01/10/2012,,05013219MO,-2138.7500,,,,,,,,,,
+TRANSACTION,3020,010101050,1,2449,2449,"CR:Basic Service F... B.Walkenshaw 201201: Walkenshaw, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101050,1,35,35,"CR:Monthly Cable... B.Walkenshaw 201201: Walkenshaw, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,1387.25,1387.25,"CR:Resident Care -... B.Walkenshaw 201201: Walkenshaw, Bill",,,,,,,,,,,,,,,

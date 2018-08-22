@@ -1,0 +1,5 @@
+BATCH,,201204,B,1704.0000,
+INVOICE,IN,,53410432,,04/17/2012,426.0000,"Invoice-Private",,04/17/2012,04/17/2012,,53420837MO,-3053.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,6,71.0000,426.00,"Basic Service Fee - Studio for Apr: Dumke, Alberta",,,,,,,,,,,,,,,
+INVOICE,CM,,53410432,,04/17/2012,1278,"Invoice-Private",,04/17/2012,04/17/2012,,53420837MO,-3053.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,1278,1278,"CR:Basic Service F... A.Dumke 201204: Dumke, Alberta",,,,,,,,,,,,,,,

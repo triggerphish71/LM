@@ -1,0 +1,7 @@
+BATCH,,201303,B,3402.0000,
+INVOICE,IN,,13610285,,03/23/2013,1449.0000,"Invoice-Private",,03/23/2013,03/23/2013,,13615580MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,23,32.0000,736.00,"Basic Service Fee - Second Resident for Mar: Eaton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,23,31.0000,713.00,"Resident Care - Level 2 for Mar: Eaton, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13610285,,03/23/2013,1953,"Invoice-Private",,03/23/2013,03/23/2013,,13615580MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,992,992,"CR:Basic Service F... B.Eaton 201303: Eaton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... B.Eaton 201303: Eaton, Betty",,,,,,,,,,,,,,,

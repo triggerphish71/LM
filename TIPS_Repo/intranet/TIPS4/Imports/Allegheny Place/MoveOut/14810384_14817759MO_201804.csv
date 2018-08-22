@@ -1,0 +1,8 @@
+BATCH,,201804,B,5652.0000,
+INVOICE,CM,,14810384,,04/06/2018,270,"Invoice-Private",,04/06/2018,04/06/2018,,14817759MO,-4308.0000,,,,,,,,,,
+TRANSACTION,3017,010010148,6,45,270,"Level: 2  to  Level: base level  - on 03/26: Snook, Maggie",,,,,,,,,,,,,,,
+INVOICE,IN,,14810384,,04/06/2018,672.0000,"Invoice-Private",,04/06/2018,04/06/2018,,14817759MO,-4308.0000,,,,,,,,,,
+TRANSACTION,3020,010010148,6,112.0000,672.00,"Basic Service Fee - Studio  for Apr: Snook, Maggie",,,,,,,,,,,,,,,
+INVOICE,CM,,14810384,,04/06/2018,4710,"Invoice-Private",,04/06/2018,04/06/2018,,14817759MO,-4308.0000,,,,,,,,,,
+TRANSACTION,3020,010010148,1,3360,3360,"CR:Basic Service F... M.Snook 201804: Snook, Maggie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010148,1,1350,1350,"CR:Resident Care -... M.Snook 201804: Snook, Maggie",,,,,,,,,,,,,,,

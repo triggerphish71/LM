@@ -1,0 +1,5 @@
+BATCH,,201307,B,54.0000,
+INVOICE,IN,,00810272,,07/01/2013,27.0000,"Invoice-Private",,07/01/2013,07/10/2013,,00815135MO,-2577.0000,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27.00,"Monthly Cable: Brown, James",,,,,,,,,,,,,,,
+INVOICE,CM,,00810272,,07/01/2013,27,"Invoice-Private",,07/01/2013,07/10/2013,,00815135MO,-2577.0000,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"Credit for Monthly Cable: Brown, James",,,,,,,,,,,,,,,

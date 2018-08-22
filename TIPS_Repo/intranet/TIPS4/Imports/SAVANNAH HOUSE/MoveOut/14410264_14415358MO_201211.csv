@@ -1,0 +1,6 @@
+BATCH,,201211,B,5653.0000,
+INVOICE,IN,,14410264,,11/14/2012,1875.0000,"Invoice-Private",,11/14/2012,11/14/2012,,14415358MO,-1903.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,15,125.0000,1875.00,"M.Haring: Basic Service Fee - One Bedroom for Nov: Haring, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410264,,11/14/2012,3778,"Invoice-Private",,11/14/2012,11/14/2012,,14415358MO,-1903.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3750,3750,"CR:M.Haring: Basic... M.Haring 201211: Haring, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... M.Haring 201211: Haring, Marie",,,,,,,,,,,,,,,

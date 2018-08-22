@@ -1,0 +1,5 @@
+BATCH,,201105,B,4740.0000,
+INVOICE,IN,,16110230,,05/05/2011,4740.0000,"MoveIn-Arcement. Raymond",,05/05/2011,05/05/2011,,16115023,4740.0000,,,,,,,,,,
+TRANSACTION,3010,010313161,27,85.0000,2295,"Basic Service Fee - Studio         : Arcement. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313161,27,35.0000,945,"Resident Care - Level 3: Arcement. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313161,1,1500.0000,1500,"New Resident Fee: Arcement. Raymond",,,,,,,,,,,,,,,

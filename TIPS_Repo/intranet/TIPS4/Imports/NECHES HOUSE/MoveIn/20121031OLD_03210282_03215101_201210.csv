@@ -1,0 +1,5 @@
+BATCH,,201210,B,1626.0000,
+INVOICE,IN,,03210282,,10/31/2012,1626.0000,"MoveIn-Gholson. Annie",,10/31/2012,10/31/2012,,03215101,5406.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,1,94.0000,94,"Basic Service Fee - Studio: Gholson. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,1,32.0000,32,"Resident Care - Level 2: Gholson. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Gholson. Annie",,,,,,,,,,,,,,,

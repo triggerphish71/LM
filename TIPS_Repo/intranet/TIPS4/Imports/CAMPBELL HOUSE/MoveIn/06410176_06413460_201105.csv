@@ -1,0 +1,5 @@
+BATCH,,201105,B,3449.0000,
+INVOICE,IN,,06410176,,05/10/2011,3449.0000,"MoveIn-Bond. Bonnie",,05/10/2011,05/10/2011,,06413460,3449.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,22,87.0000,1914,"Basic Service Fee - Studio: Bond. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Bond. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305064,1,1500.0000,1500,"New Resident Fee: Bond. Bonnie",,,,,,,,,,,,,,,

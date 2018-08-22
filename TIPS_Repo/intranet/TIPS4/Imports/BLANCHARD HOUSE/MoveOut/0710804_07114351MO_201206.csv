@@ -1,0 +1,7 @@
+BATCH,,201206,B,7682.0000,
+INVOICE,IN,,0710804,,06/13/2012,2672.0000,"Invoice-Private",,06/13/2012,06/13/2012,,07114351MO,-7515.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,16,90.0000,1440.00,"Basic Service Fee - Studio for Jun: Sharp, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,16,77.0000,1232.00,"Resident Care - Level 6 for Jun: Sharp, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,0710804,,06/13/2012,5010,"Invoice-Private",,06/13/2012,06/13/2012,,07114351MO,-7515.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2700,2700,"CR:Basic Service F... R.Sharp 201206: Sharp, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,2310,2310,"CR:Resident Care -... R.Sharp 201206: Sharp, Richard",,,,,,,,,,,,,,,

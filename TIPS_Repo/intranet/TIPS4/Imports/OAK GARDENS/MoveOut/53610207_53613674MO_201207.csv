@@ -1,0 +1,5 @@
+BATCH,,201207,B,1938.0000,
+INVOICE,IN,,53610207,,07/11/2012,760.0000,"Invoice-Private",,07/11/2012,07/11/2012,,53613674MO,-418.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,20,38.0000,760.00,"Basic Service Fee - Second Resident for Jul: Gerahty, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53610207,,07/11/2012,1178,"Invoice-Private",,07/11/2012,07/11/2012,,53613674MO,-418.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,1178,1178,"CR:Basic Service F... J.Gerahty 201207: Gerahty, Jean",,,,,,,,,,,,,,,

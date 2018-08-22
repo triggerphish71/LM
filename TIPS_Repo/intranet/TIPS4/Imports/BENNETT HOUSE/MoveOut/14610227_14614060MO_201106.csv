@@ -1,0 +1,7 @@
+BATCH,,201106,B,21320.2000,
+INVOICE,IN,,14610227,,06/24/2011,2470.6000,"Invoice-Respite",,06/24/2011,06/24/2011,,14614060MO,-16379.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,11,106.8000,1174.80,"Basic Service Fee- Respite Studio for Jun: Reed, Mona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309146,11,100.8000,1108.80,"Basic Service Fee- Respite Studio for Jun: Reed, Mona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,11,17.0000,187.00,"Resident Care - Level 1 for Jun: Reed, Mona",,,,,,,,,,,,,,,
+INVOICE,CM,,14610227,,06/24/2011,18849.6,"Invoice-Respite",,06/24/2011,06/24/2011,,14614060MO,-16379.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,11,1713.6,18849.6,"Basic Service Fee- Respite Studio for Jun: Reed, Mona",,,,,,,,,,,,,,,

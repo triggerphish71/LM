@@ -1,0 +1,7 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,50310230,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,50314362MO,-2625.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: MacNeill, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,25.0000,25.00,"Pendant Fee: MacNeill, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,50310230,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,50314362MO,-2625.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: MacNeill, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,25,25,"Credit for Pendant Fee: MacNeill, Rita",,,,,,,,,,,,,,,

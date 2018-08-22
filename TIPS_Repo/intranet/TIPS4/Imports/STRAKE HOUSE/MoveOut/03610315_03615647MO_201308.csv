@@ -1,0 +1,5 @@
+BATCH,,201308,B,54.0000,
+INVOICE,IN,,03610315,,08/01/2013,27.0000,"Invoice-Private",,08/01/2013,08/10/2013,,03615647MO,-4054.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Bush, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,03610315,,08/01/2013,27,"Invoice-Private",,08/01/2013,08/10/2013,,03615647MO,-4054.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Bush, Robert",,,,,,,,,,,,,,,

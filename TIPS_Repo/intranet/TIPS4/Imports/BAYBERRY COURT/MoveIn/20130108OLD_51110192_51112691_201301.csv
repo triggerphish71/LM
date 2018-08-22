@@ -1,0 +1,5 @@
+BATCH,,201301,B,3499.0000,
+INVOICE,IN,,51110192,,01/04/2013,3499.0000,"MoveIn-Grogno. Frances",,01/04/2013,01/04/2013,,51112691,3499.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,28,105.0000,2940,"Basic Service Fee - Studio: Grogno. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,28,19.0000,532,"Resident Care - Level 1: Grogno. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Grogno. Frances",,,,,,,,,,,,,,,

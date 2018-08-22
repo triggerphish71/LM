@@ -1,0 +1,8 @@
+BATCH,,201210,B,7513.0000,
+INVOICE,IN,,07510267,,10/12/2012,2652.0000,"Invoice-Private",,10/12/2012,10/12/2012,,07514999MO,-2209.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,17,85.0000,1445.00,"Basic Service Fee - Studio for Oct: Czuchna, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,17,71.0000,1207.00,"Resident Care - Level 5 for Oct: Czuchna, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,07510267,,10/12/2012,4861,"Invoice-Private",,10/12/2012,10/12/2012,,07514999MO,-2209.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2635,2635,"CR:Basic Service F... P.Czuchna 201210: Czuchna, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... P.Czuchna 201210: Czuchna, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,2201,2201,"CR:Resident Care -... P.Czuchna 201210: Czuchna, Paul",,,,,,,,,,,,,,,

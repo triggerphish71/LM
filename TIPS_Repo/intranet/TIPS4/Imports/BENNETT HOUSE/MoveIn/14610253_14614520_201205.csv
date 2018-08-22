@@ -1,0 +1,5 @@
+BATCH,,201205,B,1867.0000,
+INVOICE,IN,,14610253,,05/23/2012,1867.0000,"MoveIn-Adams. William",,05/23/2012,05/23/2012,,14614520,4687.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,9,93.0000,837,"Basic Service Fee - Studio: Adams. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Adams. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,1000.0000,1000,"New Resident Fee: Adams. William",,,,,,,,,,,,,,,

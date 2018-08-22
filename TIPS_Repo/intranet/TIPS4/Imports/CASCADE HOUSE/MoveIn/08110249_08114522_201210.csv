@@ -1,0 +1,5 @@
+BATCH,,201210,B,3825.0000,
+INVOICE,IN,,08110249,,10/12/2012,3825.0000,"MoveIn-Schatz. Helen",,10/12/2012,10/12/2012,,08114522,3825.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,20,90.0000,1800,"H.Schatz: Basic Service Fee - Studio: Schatz. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Schatz. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Schatz. Helen",,,,,,,,,,,,,,,

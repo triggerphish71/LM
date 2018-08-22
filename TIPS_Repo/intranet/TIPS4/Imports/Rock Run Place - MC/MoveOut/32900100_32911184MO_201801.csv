@@ -1,0 +1,5 @@
+BATCH,,201801,B,6435.4000,
+INVOICE,IN,,32900100,,01/26/2018,2935.4000,"Invoice-Private",,01/26/2018,01/26/2018,,32911184MO,-564.6000,,,,,,,,,,
+TRANSACTION,3010,070027329,1,2935.4000,2935.40,"MC Companion Studio  for Jan: Holmes, Estherlene",,,,,,,,,,,,,,,
+INVOICE,CM,,32900100,,01/26/2018,3500,"Invoice-Private",,01/26/2018,01/26/2018,,32911184MO,-564.6000,,,,,,,,,,
+TRANSACTION,3010,070027329,1,3500,3500,"CR:MC Companion St... E.Holmes 201801: Holmes, Estherlene",,,,,,,,,,,,,,,

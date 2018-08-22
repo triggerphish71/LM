@@ -1,0 +1,7 @@
+BATCH,,201805,B,5399.0000,
+INVOICE,IN,,15110233,,05/03/2018,1090.0000,"Invoice-Private",,05/03/2018,05/03/2018,,15116860MO,-3219.0000,,,,,,,,,,
+TRANSACTION,3017,010012151,10,34.0000,340.00," Level: 2 : Hawthorne, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012151,10,75.0000,750.00,"Basic Service Fee - Studio  for May: Hawthorne, Cleo",,,,,,,,,,,,,,,
+INVOICE,CM,,15110233,,05/03/2018,4309,"Invoice-Private",,05/03/2018,05/03/2018,,15116860MO,-3219.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,2325,2325,"CR:Basic Service F... C.Hawthorne 201805: Hawthorne, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,1984,1984,"CR:Resident Care -... C.Hawthorne 201805: Hawthorne, Cleo",,,,,,,,,,,,,,,

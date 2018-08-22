@@ -1,0 +1,5 @@
+BATCH,,201212,B,50.0000,
+INVOICE,IN,,16910268,,12/01/2012,25.0000,"Invoice-Private",,12/01/2012,12/10/2012,,16915212MO,-3246.4400,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25.00,"Monthly Cable: Hawkins, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,16910268,,12/01/2012,25,"Invoice-Private",,12/01/2012,12/10/2012,,16915212MO,-3246.4400,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"Credit for Monthly Cable: Hawkins, Patricia",,,,,,,,,,,,,,,

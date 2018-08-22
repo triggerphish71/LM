@@ -1,0 +1,8 @@
+BATCH,,201201,B,4001.8400,
+INVOICE,IN,,00110150,,01/01/2012,1460.8800,"Invoice-Private",,01/01/2012,01/10/2012,,00113152MO,-1080.0800,,,,,,,,,,
+TRANSACTION,3020,010101001,18,74.0000,1332.00,"Basic Service Fee - Studio for Jan: Moore, Rosalie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,18,7.1600,128.88,"Resident Care - Level 4 for Jan: Moore, Rosalie",,,,,,,,,,,,,,,
+INVOICE,CM,,00110150,,01/01/2012,2540.96,"Invoice-Private",,01/01/2012,01/10/2012,,00113152MO,-1080.0800,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2294,2294,"CR:Basic Service F... R.Moore 201201: Moore, Rosalie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... R.Moore 201201: Moore, Rosalie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,221.96,221.96,"CR:Resident Care -... R.Moore 201201: Moore, Rosalie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,4028.0000,
+INVOICE,IN,,07110107,,09/01/2011,188.0000,"Invoice-Private",,09/01/2011,09/01/2011,,07113987MO,-3652.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,60.0000,60.00,"CR:Limited Term Di... W.Kritzler 201109: Kritzler, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,1,96.0000,96.00,"Basic Service Fee - Deluxe for Sep: Kritzler, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,32.0000,32.00,"Resident Care - Level 2 for Sep: Kritzler, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,07110107,,09/01/2011,3840,"Invoice-Private",,09/01/2011,09/01/2011,,07113987MO,-3652.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2880,2880,"CR:Basic Service F... W.Kritzler 201109: Kritzler, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,960,960,"CR:Resident Care -... W.Kritzler 201109: Kritzler, Wilbur",,,,,,,,,,,,,,,

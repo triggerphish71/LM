@@ -1,0 +1,10 @@
+
+
+
+
+<CFQUERY NAME = "OPSAreas"	DATASOURCE = "#APPLICATION.datasource#">
+	SELECT	*
+	FROM	OPSAREA
+	WHERE	dtRowDeleted IS NULL
+	ORDER BY cName
+</CFQUERY>

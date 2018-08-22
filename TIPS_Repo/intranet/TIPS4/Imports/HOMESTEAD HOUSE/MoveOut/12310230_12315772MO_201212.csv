@@ -1,0 +1,7 @@
+BATCH,,201212,B,6466.0000,
+INVOICE,IN,,12310230,,12/22/2012,2684.0000,"Invoice-Private",,12/22/2012,12/22/2012,,12315772MO,-4880.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,22,103.0000,2266.00,"Basic Service Fee - Studio for Dec: Jones, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,22,19.0000,418.00,"Resident Care - Level 1 for Dec: Jones, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,12310230,,12/22/2012,3782,"Invoice-Private",,12/22/2012,12/22/2012,,12315772MO,-4880.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... A.Jones 201212: Jones, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,589,589,"CR:Resident Care -... A.Jones 201212: Jones, Alice",,,,,,,,,,,,,,,

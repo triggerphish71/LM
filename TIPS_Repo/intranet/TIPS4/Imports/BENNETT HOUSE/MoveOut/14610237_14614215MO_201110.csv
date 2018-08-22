@@ -1,0 +1,7 @@
+BATCH,,201110,B,4876.0000,
+INVOICE,IN,,14610237,,10/15/2011,1590.0000,"Invoice-Private",,10/15/2011,10/15/2011,,14614215MO,-1696.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,15,89.0000,1335.00,"Basic Service Fee - Studio for Oct: Willhoite, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,15,17.0000,255.00,"Resident Care - Level 1 for Oct: Willhoite, James",,,,,,,,,,,,,,,
+INVOICE,CM,,14610237,,10/15/2011,3286,"Invoice-Private",,10/15/2011,10/15/2011,,14614215MO,-1696.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... J.Willhoite 201110: Willhoite, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,527,527,"CR:Resident Care -... J.Willhoite 201110: Willhoite, James",,,,,,,,,,,,,,,

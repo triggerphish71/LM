@@ -1,0 +1,8 @@
+BATCH,,201210,B,4212.8200,
+INVOICE,IN,,16910267,,10/12/2012,1182.8800,"Invoice-Private",,10/12/2012,10/12/2012,,16915171MO,-1847.0600,,,,,,,,,,
+TRANSACTION,3020,010103169,12,87.0000,1044.00,"Basic Service Fee - Studio for Oct: Wifler, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,12,10.7400,128.88,"Resident Care - Level 6 for Oct: Wifler, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3299,010103169,1,10.0000,10.00,"Damages: Wifler, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,16910267,,10/12/2012,3029.94,"Invoice-Private",,10/12/2012,10/12/2012,,16915171MO,-1847.0600,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2697,2697,"CR:Basic Service F... H.Wifler 201210: Wifler, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,332.94,332.94,"CR:Resident Care -... H.Wifler 201210: Wifler, Helen",,,,,,,,,,,,,,,

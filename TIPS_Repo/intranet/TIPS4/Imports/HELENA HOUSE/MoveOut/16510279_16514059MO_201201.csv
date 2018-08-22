@@ -1,0 +1,5 @@
+BATCH,,201201,B,3530.0000,
+INVOICE,CM,,16510279,,01/01/2012,3530,"Invoice-Private",,01/01/2012,01/10/2012,,16514059MO,-3530.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... J.Sawyer 201201: Sawyer, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... J.Sawyer 201201: Sawyer, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,496,496,"CR:Resident Care -... J.Sawyer 201201: Sawyer, Janet",,,,,,,,,,,,,,,

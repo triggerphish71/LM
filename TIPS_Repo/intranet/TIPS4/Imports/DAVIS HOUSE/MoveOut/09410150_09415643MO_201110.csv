@@ -1,0 +1,7 @@
+BATCH,,201110,B,4125.0000,
+INVOICE,IN,,09410150,,10/02/2011,250.0000,"Invoice-Private",,10/02/2011,10/02/2011,,09415643MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,2,95.0000,190.00,"Basic Service Fee - Studio for Oct: Colony, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,2,30.0000,60.00,"Resident Care - Level 2 for Oct: Colony, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,09410150,,10/02/2011,3875,"Invoice-Private",,10/02/2011,10/02/2011,,09415643MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2945,2945,"CR:Basic Service F... C.Colony 201110: Colony, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,930,930,"CR:Resident Care -... C.Colony 201110: Colony, Chester",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,160.0000,
+INVOICE,IN,,06010153,,09/01/2012,80.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06014428MO,-6296.2000,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40.0000,40.00,"Pendant Fee: Vardeman, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Vardeman, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,06010153,,09/01/2012,80,"Invoice-Private",,09/01/2012,09/10/2012,,06014428MO,-6296.2000,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"Credit for Pendant Fee: Vardeman, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Vardeman, Kathryn",,,,,,,,,,,,,,,

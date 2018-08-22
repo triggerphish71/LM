@@ -1,0 +1,8 @@
+BATCH,,201301,B,4654.0000,
+INVOICE,IN,,09410267,,01/01/2013,1089.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09416252MO,-2476.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,744.0000,744.00,"CR:Limited Term Di... A.Regalado 201301: Regalado, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,3,98.0000,294.00,"Basic Service Fee - Studio for Jan: Regalado, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,3,17.0000,51.00,"Resident Care - Level 1 for Jan: Regalado, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,09410267,,01/01/2013,3565,"Invoice-Private",,01/01/2013,01/10/2013,,09416252MO,-2476.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3038,3038,"CR:Basic Service F... A.Regalado 201301: Regalado, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,527,527,"CR:Resident Care -... A.Regalado 201301: Regalado, Albert",,,,,,,,,,,,,,,

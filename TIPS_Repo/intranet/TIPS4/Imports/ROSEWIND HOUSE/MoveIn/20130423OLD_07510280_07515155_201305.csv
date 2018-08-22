@@ -1,0 +1,5 @@
+BATCH,,201305,B,3125.0000,
+INVOICE,IN,,07510280,,05/01/2013,3125.0000,"May_Rent-Thomas. June",,05/01/2013,05/10/2013,,07515155,4450.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,85.0000,2635,"Basic Service Fee - Studio: Thomas. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,15.0000,465,"Resident Care - Level 1: Thomas. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Thomas. June",,,,,,,,,,,,,,,

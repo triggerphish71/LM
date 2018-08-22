@@ -1,0 +1,6 @@
+BATCH,,201301,B,4991.0000,
+INVOICE,IN,,50210142,,01/01/2013,651.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50213762MO,-4104.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,1,651.0000,651.00,"CR:Limited Term Di... N.Farmer 201301: Farmer, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,50210142,,01/01/2013,4340,"Invoice-Private",,01/01/2013,01/10/2013,,50213762MO,-4104.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2573,2573,"CR:Basic Service F... N.Farmer 201301: Farmer, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1767,1767,"CR:Resident Care -... N.Farmer 201301: Farmer, Nellie",,,,,,,,,,,,,,,

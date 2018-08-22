@@ -1,0 +1,7 @@
+BATCH,,201112,B,8944.0000,
+INVOICE,IN,,11710203,,12/21/2011,3612.0000,"Invoice-Private",,12/21/2011,12/21/2011,,11713697MO,-7145.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,21,83.0000,1743.00,"Basic Service Fee - Studio for Dec: Barnard, Vonnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,21,89.0000,1869.00,"Resident Care - Level 6 for Dec: Barnard, Vonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,11710203,,12/21/2011,5332,"Invoice-Private",,12/21/2011,12/21/2011,,11713697MO,-7145.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2573,2573,"CR:Basic Service F... V.Barnard 201112: Barnard, Vonnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,2759,2759,"CR:Resident Care -... V.Barnard 201112: Barnard, Vonnie",,,,,,,,,,,,,,,

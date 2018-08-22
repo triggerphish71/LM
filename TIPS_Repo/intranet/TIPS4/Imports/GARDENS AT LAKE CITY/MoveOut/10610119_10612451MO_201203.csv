@@ -1,0 +1,5 @@
+BATCH,,201203,B,1674.0000,
+INVOICE,IN,,10610119,,03/01/2012,837.0000,"Invoice-Private",,03/01/2012,03/10/2012,,10612451MO,-1869.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,31,27.0000,837.00,"Credit for Limited Term Discount: Johnson, Adell",,,,,,,,,,,,,,,
+INVOICE,CM,,10610119,,03/01/2012,837,"Invoice-Private",,03/01/2012,03/10/2012,,10612451MO,-1869.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,31,27,837,"Limited Term Discount: Johnson, Adell",,,,,,,,,,,,,,,

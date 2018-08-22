@@ -1,0 +1,5 @@
+BATCH,,201204,B,54.0000,
+INVOICE,IN,,13010223,,04/01/2012,27.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13015659MO,-5499.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Burk, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13010223,,04/01/2012,27,"Invoice-Private",,04/01/2012,04/10/2012,,13015659MO,-5499.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Burk, Charles",,,,,,,,,,,,,,,

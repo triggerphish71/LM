@@ -1,0 +1,7 @@
+BATCH,,201106,B,660.0000,
+INVOICE,IN,,19810012,,06/01/2011,330.0000,"Invoice-Private",,06/01/2011,06/10/2011,,19816036MO,-104.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Pfiffner, Aloysious",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,30,10.0000,300.00,"Credit for Limited Term Discount: Pfiffner, Aloysious",,,,,,,,,,,,,,,
+INVOICE,CM,,19810012,,06/01/2011,330,"Invoice-Private",,06/01/2011,06/10/2011,,19816036MO,-104.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Pfiffner, Aloysious",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,30,10,300,"Limited Term Discount: Pfiffner, Aloysious",,,,,,,,,,,,,,,

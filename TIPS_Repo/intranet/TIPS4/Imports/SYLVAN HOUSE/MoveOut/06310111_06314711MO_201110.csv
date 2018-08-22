@@ -1,0 +1,7 @@
+BATCH,,201110,B,1865.6200,
+INVOICE,IN,,06310111,,10/15/2011,282.6000,"Invoice-Medicaid",,10/15/2011,10/15/2011,,06314711MO,-1300.4200,,,,,,,,,,
+TRANSACTION,3021,010104063,15,18.8400,282.60,"Medicaid Room & Board for Oct: FranzLuebbers, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,06310111,,10/15/2011,1583.02,"Invoice-Medicaid",,10/15/2011,10/15/2011,,06314711MO,-1300.4200,,,,,,,,,,
+TRANSACTION,3021,010104063,1,584,584,"CR:Medicaid Room &... C.FranzLuebbers 201110: FranzLuebbers, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... C.FranzLuebbers 201110: FranzLuebbers, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104063,1,974.02,974.02,"CR:State Medicaid... C.FranzLuebbers 201110: FranzLuebbers, Catherine",,,,,,,,,,,,,,,

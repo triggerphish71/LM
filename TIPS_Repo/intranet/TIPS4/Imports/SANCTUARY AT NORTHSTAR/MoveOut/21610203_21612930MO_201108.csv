@@ -1,0 +1,5 @@
+BATCH,,201108,B,26.0000,
+INVOICE,IN,,21610203,,08/01/2011,13.0000,"Invoice-Private",,08/01/2011,08/10/2011,,21612930MO,514.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,13.0000,13.00,"Credit for Limited Term Discount: Kilgore, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21610203,,08/01/2011,13,"Invoice-Private",,08/01/2011,08/10/2011,,21612930MO,514.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,13,13,"Limited Term Discount: Kilgore, Frances",,,,,,,,,,,,,,,

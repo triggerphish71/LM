@@ -1,0 +1,7 @@
+BATCH,,201108,B,5488.0000,
+INVOICE,IN,,53310221,,08/01/2011,2450.0000,"Invoice-Private",,08/01/2011,08/10/2011,,53313912MO,-588.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,25,35.0000,875.00,"Basic Service Fee - Second Resident for Aug: Kane, Marshall",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,25,63.0000,1575.00,"Resident Care - Level 5 for Aug: Kane, Marshall",,,,,,,,,,,,,,,
+INVOICE,CM,,53310221,,08/01/2011,3038,"Invoice-Private",,08/01/2011,08/10/2011,,53313912MO,-588.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1085,1085,"CR:Basic Service F... M.Kane 201108: Kane, Marshall",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,1953,1953,"CR:Resident Care -... M.Kane 201108: Kane, Marshall",,,,,,,,,,,,,,,

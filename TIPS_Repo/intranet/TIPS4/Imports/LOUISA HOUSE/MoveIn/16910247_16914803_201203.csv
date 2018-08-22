@@ -1,0 +1,6 @@
+BATCH,,201203,B,7108.0700,
+INVOICE,IN,,16910247,,03/01/2012,7108.0700,"MoveIn-Murphy. Albert",,03/01/2012,03/01/2012,,16914803,7108.0700,,,,,,,,,,
+TRANSACTION,3010,010103169,31,87.0000,2697,"Basic Service Fee - Studio: Murphy. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103169,31,76.9700,2386.07,"Resident Care - Level 43: Murphy. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Murphy. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Murphy. Albert",,,,,,,,,,,,,,,

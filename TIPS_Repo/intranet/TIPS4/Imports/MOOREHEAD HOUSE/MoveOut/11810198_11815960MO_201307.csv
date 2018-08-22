@@ -1,0 +1,7 @@
+BATCH,,201307,B,4920.0000,
+INVOICE,IN,,11810198,,07/10/2013,1200.0000,"Invoice-Private",,07/10/2013,07/10/2013,,11815960MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,10,101.0000,1010.00,"Basic Service Fee - Studio for Jul: Fink, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,10,19.0000,190.00,"Resident Care - Level 1 for Jul: Fink, Bette",,,,,,,,,,,,,,,
+INVOICE,CM,,11810198,,07/10/2013,3720,"Invoice-Private",,07/10/2013,07/10/2013,,11815960MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3131,3131,"CR:Basic Service F... B.Fink 201307: Fink, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,589,589,"CR:Resident Care -... B.Fink 201307: Fink, Bette",,,,,,,,,,,,,,,

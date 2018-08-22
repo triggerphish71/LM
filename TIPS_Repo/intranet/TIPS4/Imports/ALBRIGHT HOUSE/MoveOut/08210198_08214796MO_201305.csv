@@ -1,0 +1,8 @@
+BATCH,,201305,B,6563.5000,
+INVOICE,IN,,08210198,,05/14/2013,2034.2000,"Invoice-Private",,05/14/2013,05/14/2013,,08214796MO,-6879.1000,,,,,,,,,,
+TRANSACTION,3020,010103082,14,112.0000,1568.00,"Basic Service Fee - One Bedroom for May: Wilshire, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,14,33.3000,466.20,"Resident Care - Level 18 for May: Wilshire, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,08210198,,05/14/2013,4529.3,"Invoice-Private",,05/14/2013,05/14/2013,,08214796MO,-6879.1000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,3472,3472,"CR:Basic Service F... R.Wilshire 201305: Wilshire, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... R.Wilshire 201305: Wilshire, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,1032.3,1032.3,"CR:Resident Care -... R.Wilshire 201305: Wilshire, Rose",,,,,,,,,,,,,,,

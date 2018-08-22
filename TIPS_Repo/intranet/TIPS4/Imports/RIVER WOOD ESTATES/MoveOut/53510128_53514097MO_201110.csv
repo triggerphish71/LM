@@ -1,0 +1,7 @@
+BATCH,,201110,B,3993.0000,
+INVOICE,IN,,53510128,,10/01/2011,93.0000,"Invoice-Private",,10/01/2011,10/10/2011,,53514097MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3320,010319535,1,93.0000,93.00,"CR:Limited Term Di... S.Kasten 201110: Kasten, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,53510128,,10/01/2011,3900,"Invoice-Private",,10/01/2011,10/10/2011,,53514097MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2201,2201,"CR:Basic Service F... S.Kasten 201110: Kasten, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... S.Kasten 201110: Kasten, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1674,1674,"CR:Resident Care -... S.Kasten 201110: Kasten, Sylvia",,,,,,,,,,,,,,,

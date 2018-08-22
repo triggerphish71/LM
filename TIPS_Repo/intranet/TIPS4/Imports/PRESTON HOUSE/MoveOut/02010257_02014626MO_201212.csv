@@ -1,0 +1,7 @@
+BATCH,,201212,B,3777.0000,
+INVOICE,IN,,02010257,,12/01/2012,838.0000,"Invoice-Private",,12/01/2012,12/01/2012,,02014626MO,-2101.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,744.0000,744.00,"CR:Limited Term Di... J.Elliott 201212: Elliott, Jolene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202020,1,94.0000,94.00,"Basic Service Fee - Studio for Dec: Elliott, Jolene",,,,,,,,,,,,,,,
+INVOICE,CM,,02010257,,12/01/2012,2939,"Invoice-Private",,12/01/2012,12/01/2012,,02014626MO,-2101.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2914,2914,"CR:Basic Service F... J.Elliott 201212: Elliott, Jolene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... J.Elliott 201212: Elliott, Jolene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,3547.2000,
+INVOICE,IN,,03010177,,01/01/2012,110.8500,"Invoice-Private",,01/01/2012,01/01/2012,,03013942MO,-3325.5000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,84.0000,84.00,"Basic Service Fee - Studio for Jan: Brown, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,26.8500,26.85,"Resident Care - Level 15 for Jan: Brown, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,03010177,,01/01/2012,3436.35,"Invoice-Private",,01/01/2012,01/01/2012,,03013942MO,-3325.5000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2604,2604,"CR:Basic Service F... R.Brown 201201: Brown, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,832.35,832.35,"CR:Resident Care -... R.Brown 201201: Brown, Robert",,,,,,,,,,,,,,,

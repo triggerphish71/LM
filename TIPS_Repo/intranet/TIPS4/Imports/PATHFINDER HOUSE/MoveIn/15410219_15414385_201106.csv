@@ -1,0 +1,5 @@
+BATCH,,201106,B,3395.0000,
+INVOICE,IN,,15410219,,06/01/2011,3395.0000,"June_Rent-Kwiatkowski. Leander",,06/01/2011,06/10/2011,,15414385,6550.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,30,62.0000,1860,"Basic Service Fee - Studio         : Kwiatkowski. Leander",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,30,50.0000,1500,"Resident Care - Level 3: Kwiatkowski. Leander",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Kwiatkowski. Leander",,,,,,,,,,,,,,,

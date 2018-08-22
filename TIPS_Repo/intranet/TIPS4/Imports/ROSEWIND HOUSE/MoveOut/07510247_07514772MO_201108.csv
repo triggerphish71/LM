@@ -1,0 +1,8 @@
+BATCH,,201108,B,4875.0000,
+INVOICE,IN,,07510247,,08/01/2011,1775.0000,"Invoice-Private",,08/01/2011,08/01/2011,,07514772MO,-1325.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,1,775.0000,775.00,"CR:Limited Term Di... N.Phillips 201108: Phillips, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104075,10,85.0000,850.00,"Basic Service Fee - Studio for Aug: Phillips, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,10,15.0000,150.00,"Resident Care - Level 1 for Aug: Phillips, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,07510247,,08/01/2011,3100,"Invoice-Private",,08/01/2011,08/01/2011,,07514772MO,-1325.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2635,2635,"CR:Basic Service F... N.Phillips 201108: Phillips, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,465,465,"CR:Resident Care -... N.Phillips 201108: Phillips, Norman",,,,,,,,,,,,,,,

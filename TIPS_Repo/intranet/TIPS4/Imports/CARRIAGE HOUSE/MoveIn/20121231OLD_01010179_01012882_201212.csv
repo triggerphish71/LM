@@ -1,0 +1,5 @@
+BATCH,,201212,B,585.1600,
+INVOICE,IN,,01010179,,12/31/2012,585.1600,"MoveIn-Lembke. Shirley",,12/31/2012,12/31/2012,,01012882,3225.1200,,,,,,,,,,
+TRANSACTION,3010,010101010,1,78.0000,78,"Basic Service Fee - Studio: Lembke. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101010,1,7.1600,7.16,"Resident Care - Level 4: Lembke. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,500.0000,500,"New Resident Fee: Lembke. Shirley",,,,,,,,,,,,,,,

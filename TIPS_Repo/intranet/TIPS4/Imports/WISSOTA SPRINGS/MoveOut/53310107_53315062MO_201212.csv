@@ -1,0 +1,8 @@
+BATCH,,201212,B,5043.0000,
+INVOICE,IN,,53310107,,12/01/2012,2234.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53315062MO,-2435.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,899.0000,899.00,"CR:Limited Term Di... F.Campbell 201212: Campbell, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,15,89.0000,1335.00,"Basic Service Fee - Studio for Dec: Campbell, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,53310107,,12/01/2012,2809,"Invoice-Private",,12/01/2012,12/10/2012,,53315062MO,-2435.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2759,2759,"CR:Basic Service F... F.Campbell 201212: Campbell, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... F.Campbell 201212: Campbell, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... F.Campbell 201212: Campbell, Frances",,,,,,,,,,,,,,,

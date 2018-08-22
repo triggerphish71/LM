@@ -1,0 +1,5 @@
+BATCH,,201201,B,3843.0000,
+INVOICE,IN,,11710228,,01/01/2012,3843.0000,"January_Rent-Hemmer. Richard",,01/01/2012,01/10/2012,,11713699,6226.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,31,93.0000,2883,"Basic Service Fee - Deluxe: Hemmer. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,31,30.0000,930,"Resident Care - Level 2: Hemmer. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Hemmer. Richard",,,,,,,,,,,,,,,

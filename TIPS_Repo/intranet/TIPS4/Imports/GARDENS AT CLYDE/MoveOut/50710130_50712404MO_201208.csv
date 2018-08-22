@@ -1,0 +1,7 @@
+BATCH,,201208,B,2464.0000,
+INVOICE,IN,,50710130,,08/01/2012,77.0000,"Invoice-Private",,08/01/2012,08/10/2012,,50712404MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,66.0000,66.00,"Basic Service Fee - Studio for Aug: Mackey, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,11.0000,11.00,"Resident Care - Level 1 for Aug: Mackey, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50710130,,08/01/2012,2387,"Invoice-Private",,08/01/2012,08/10/2012,,50712404MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,2046,2046,"CR:Basic Service F... C.Mackey 201208: Mackey, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,341,341,"CR:Resident Care -... C.Mackey 201208: Mackey, Charles",,,,,,,,,,,,,,,

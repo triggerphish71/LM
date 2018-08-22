@@ -1,0 +1,8 @@
+BATCH,,201106,B,8313.0000,
+INVOICE,IN,,03510137,,06/05/2011,3848.0000,"Invoice-Private",,06/05/2011,06/05/2011,,03513187MO,-5205.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,26,89.0000,2314.00,"H.Taylor: Basic Service Fee - Studio for Jun: Taylor, Hettie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,26,59.0000,1534.00,"H.Taylor: Resident Care - Level 5 for Jun: Taylor, Hettie",,,,,,,,,,,,,,,
+INVOICE,CM,,03510137,,06/05/2011,4465,"Invoice-Private",,06/05/2011,06/05/2011,,03513187MO,-5205.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2670,2670,"CR:H.Taylor: Basic... H.Taylor 201106: Taylor, Hettie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,1770,1770,"CR:H.Taylor: Resid... H.Taylor 201106: Taylor, Hettie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... H.Taylor 201106: Taylor, Hettie",,,,,,,,,,,,,,,

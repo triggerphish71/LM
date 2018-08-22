@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,08610228,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,08614889MO,-2182.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,30,2.0000,60.00,"Credit for Limited Term Discount: Clay, Valeria",,,,,,,,,,,,,,,
+INVOICE,CM,,08610228,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,08614889MO,-2182.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,30,2,60,"Limited Term Discount: Clay, Valeria",,,,,,,,,,,,,,,

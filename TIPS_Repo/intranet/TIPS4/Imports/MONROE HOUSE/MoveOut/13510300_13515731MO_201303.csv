@@ -1,0 +1,8 @@
+BATCH,,201303,B,6450.0000,
+INVOICE,IN,,13510300,,03/23/2013,3726.0000,"Invoice-Private",,03/23/2013,03/23/2013,,13515731MO,-3168.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,27,50.0000,1350.00,"Basic Service Fee - Studio for Mar: Taylor, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,27,88.0000,2376.00,"Resident Care Level Change for Mar: Taylor, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,13510300,,03/23/2013,2724,"Invoice-Private",,03/23/2013,03/23/2013,,13515731MO,-3168.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1550,1550,"CR:Basic Service F... R.Taylor 201303: Taylor, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... R.Taylor 201303: Taylor, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,1144,1144,"CR:Resident Care L... R.Taylor 201303: Taylor, Ruth",,,,,,,,,,,,,,,

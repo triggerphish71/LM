@@ -1,0 +1,8 @@
+BATCH,,201107,B,3557.0000,
+INVOICE,IN,,14510222,,07/01/2011,560.0000,"Invoice-Private",,07/01/2011,07/01/2011,,14515029MO,-2437.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,465.0000,465.00,"CR:Limited Term Di... A.Houston 201107: Houston, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,1,95.0000,95.00,"Basic Service Fee - Studio for Jul: Houston, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,14510222,,07/01/2011,2997,"Invoice-Private",,07/01/2011,07/01/2011,,14515029MO,-2437.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2945,2945,"CR:Basic Service F... A.Houston 201107: Houston, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... A.Houston 201107: Houston, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"CR:Pendant Fee... A.Houston 201107: Houston, Andrew",,,,,,,,,,,,,,,

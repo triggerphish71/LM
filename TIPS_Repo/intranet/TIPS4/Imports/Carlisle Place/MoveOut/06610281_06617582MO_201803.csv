@@ -1,0 +1,7 @@
+BATCH,,201803,B,10752.0000,
+INVOICE,IN,,06610281,,03/11/2018,2816.0000,"Invoice-Private",,03/11/2018,03/11/2018,,06617582MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,11,173.0000,1903.00,"Basic Service Fee - One Bedroom  for Mar: Ruth, Gale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,11,83.0000,913.00,"Resident Care - Level 4  for Mar: Ruth, Gale",,,,,,,,,,,,,,,
+INVOICE,CM,,06610281,,03/11/2018,7936,"Invoice-Private",,03/11/2018,03/11/2018,,06617582MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,1,5363,5363,"CR:Basic Service F... G.Ruth 201803: Ruth, Gale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,1,2573,2573,"CR:Resident Care -... G.Ruth 201803: Ruth, Gale",,,,,,,,,,,,,,,

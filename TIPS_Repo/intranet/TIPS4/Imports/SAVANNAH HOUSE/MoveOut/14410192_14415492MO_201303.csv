@@ -1,0 +1,5 @@
+BATCH,,201303,B,3349.0000,
+INVOICE,CM,,14410192,,03/01/2013,3349,"Invoice-Private",,03/01/2013,03/10/2013,,14415492MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... I.Dobies 201303: Dobies, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... I.Dobies 201303: Dobies, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"CR:Pendant Fee... I.Dobies 201303: Dobies, Ida",,,,,,,,,,,,,,,

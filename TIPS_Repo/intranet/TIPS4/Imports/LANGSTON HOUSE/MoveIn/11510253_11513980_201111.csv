@@ -1,0 +1,6 @@
+BATCH,,201111,B,1586.0000,
+INVOICE,IN,,11510253,,11/25/2011,1586.0000,"MoveIn-Smith. Myrtle",,11/25/2011,11/25/2011,,11513980,4497.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,6,78.0000,468,"Basic Service Fee - One Bedroom: Smith. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,6,15.0000,90,"Resident Care - Level 1: Smith. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Smith. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Smith. Myrtle",,,,,,,,,,,,,,,

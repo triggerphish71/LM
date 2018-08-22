@@ -1,0 +1,5 @@
+BATCH,,201205,B,5019.0000,
+INVOICE,IN,,14410247,,05/01/2012,5019.0000,"May_Rent-Owens. Ezell",,05/01/2012,05/10/2012,,14415132,8818.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,31,106.0000,3286,"Basic Service Fee - Studio: Owens. Ezell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,31,55.0000,1705,"Resident Care - Level 4: Owens. Ezell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Owens. Ezell",,,,,,,,,,,,,,,

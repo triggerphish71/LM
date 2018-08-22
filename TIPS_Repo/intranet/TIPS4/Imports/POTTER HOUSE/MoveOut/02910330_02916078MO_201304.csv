@@ -1,0 +1,7 @@
+BATCH,,201304,B,5626.0000,
+INVOICE,IN,,02910330,,04/04/2013,2716.0000,"Invoice-Private",,04/04/2013,04/04/2013,,02916078MO,-3201.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,28,80.0000,2240.00,"Basic Service Fee - Studio for Apr: Russell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,28,17.0000,476.00,"Resident Care - Level 1 for Apr: Russell, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,02910330,,04/04/2013,2910,"Invoice-Private",,04/04/2013,04/04/2013,,02916078MO,-3201.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2400,2400,"CR:Basic Service F... M.Russell 201304: Russell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,510,510,"CR:Resident Care -... M.Russell 201304: Russell, Margaret",,,,,,,,,,,,,,,

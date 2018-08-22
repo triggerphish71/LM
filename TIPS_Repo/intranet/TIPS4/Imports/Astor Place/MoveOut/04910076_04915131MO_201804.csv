@@ -1,0 +1,5 @@
+BATCH,,201804,B,52.5400,
+INVOICE,IN,,04910076,,04/01/2018,26.2700,"Invoice-Private",,04/01/2018,04/10/2018,,04915131MO,-6000.1000,,,,,,,,,,
+TRANSACTION,3260,010001049,1,26.2700,26.27,"Monthly Cable: Rusinko, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,04910076,,04/01/2018,26.27,"Invoice-Private",,04/01/2018,04/10/2018,,04915131MO,-6000.1000,,,,,,,,,,
+TRANSACTION,3260,010001049,1,26.27,26.27,"Credit for Monthly Cable: Rusinko, Doris",,,,,,,,,,,,,,,

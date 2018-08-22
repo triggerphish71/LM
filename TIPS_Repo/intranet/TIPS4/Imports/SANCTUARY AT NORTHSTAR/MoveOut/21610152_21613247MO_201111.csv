@@ -1,0 +1,7 @@
+BATCH,,201111,B,7560.0000,
+INVOICE,IN,,21610152,,11/26/2011,3510.0000,"Invoice-Private",,11/26/2011,11/26/2011,,21613247MO,-4725.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,26,41.0000,1066.00,"Resident Care - Level 4 for Nov: Putnam, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,26,94.0000,2444.00,"Studio Deluxe for Nov: Putnam, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,21610152,,11/26/2011,4050,"Invoice-Private",,11/26/2011,11/26/2011,,21613247MO,-4725.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1230,1230,"CR:Resident Care -... C.Putnam 201111: Putnam, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2820,2820,"CR:Studio Deluxe... C.Putnam 201111: Putnam, Carolyn",,,,,,,,,,,,,,,

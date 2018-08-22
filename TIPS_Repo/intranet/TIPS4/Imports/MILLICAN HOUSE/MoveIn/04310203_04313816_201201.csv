@@ -1,0 +1,5 @@
+BATCH,,201201,B,5109.0000,
+INVOICE,IN,,04310203,,01/01/2012,5109.0000,"January_Rent-Bond. Rueben",,01/01/2012,01/10/2012,,04313816,7290.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,31,98.0000,3038,"Basic Service Fee - Studio: Bond. Rueben",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,31,66.0000,2046,"Resident Care - Level 4: Bond. Rueben",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Bond. Rueben",,,,,,,,,,,,,,,

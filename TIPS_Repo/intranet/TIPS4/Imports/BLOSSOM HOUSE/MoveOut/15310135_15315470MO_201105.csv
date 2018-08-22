@@ -1,0 +1,8 @@
+BATCH,,201105,B,6207.0000,
+INVOICE,IN,,15310135,,05/14/2011,2348.4000,"Invoice-Private",,05/14/2011,05/14/2011,,15315470MO,-5245.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,19,110.0000,2090.00,"Basic Service Fee - One Bedroom for May: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,19,13.6000,258.40,"Resident Care - Level 8 for May: Dillman, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,15310135,,05/14/2011,3858.6,"Invoice-Private",,05/14/2011,05/14/2011,,15315470MO,-5245.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3410,3410,"CR:Basic Service F... B.Dillman 201105: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... B.Dillman 201105: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,421.6,421.6,"CR:Resident Care -... B.Dillman 201105: Dillman, Beverly",,,,,,,,,,,,,,,

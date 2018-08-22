@@ -1,0 +1,7 @@
+BATCH,,201306,B,2025.7000,
+INVOICE,IN,,08110247,,06/17/2013,732.7000,"Invoice-Private",,06/17/2013,06/17/2013,,08114754MO,-1896.4000,,,,,,,,,,
+TRANSACTION,3020,010103081,17,32.0000,544.00,"Basic Service Fee - Second Resident for Jun: Austin, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,17,11.1000,188.70,"Resident Care - Level 6 for Jun: Austin, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,08110247,,06/17/2013,1293,"Invoice-Private",,06/17/2013,06/17/2013,,08114754MO,-1896.4000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,960,960,"CR:Basic Service F... C.Austin 201306: Austin, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,333,333,"CR:Resident Care -... C.Austin 201306: Austin, Carolyn",,,,,,,,,,,,,,,

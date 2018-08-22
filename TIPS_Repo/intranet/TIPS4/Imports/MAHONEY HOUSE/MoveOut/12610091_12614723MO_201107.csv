@@ -1,0 +1,7 @@
+BATCH,,201107,B,5076.0000,
+INVOICE,IN,,12610091,,07/01/2011,1728.0000,"Invoice-Private",,07/01/2011,07/10/2011,,12614723MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3027,010211126,16,18.0000,288.00,"Resident Care - Level 1 for Jul: Schmitz, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211126,16,90.0000,1440.00,"Room and Board - Studio for Jul: Schmitz, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,12610091,,07/01/2011,3348,"Invoice-Private",,07/01/2011,07/10/2011,,12614723MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3027,010211126,1,558,558,"CR:Resident Care -... C.Schmitz 201107: Schmitz, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2790,2790,"CR:Room and Board ... C.Schmitz 201107: Schmitz, Clara",,,,,,,,,,,,,,,

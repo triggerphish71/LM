@@ -1,0 +1,5 @@
+BATCH,,201202,B,1226.0000,
+INVOICE,IN,,11510261,,02/27/2012,1226.0000,"MoveIn-Bennett. Mary",,02/27/2012,02/27/2012,,11514105,3300.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,3,66.0000,198,"Basic Service Fee - Studio: Bennett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Bennett. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Bennett. Mary",,,,,,,,,,,,,,,

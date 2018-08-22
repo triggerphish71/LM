@@ -1,0 +1,8 @@
+BATCH,,201301,B,4116.0000,
+INVOICE,IN,,19410239,,01/24/2013,2163.0000,"Invoice-Private",,01/24/2013,01/24/2013,,19414461MO,-966.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,651.0000,651.00,"CR:Limited Term Di... D.McFarland 201301: McFarland, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,24,31.0000,744.00,"Basic Service Fee - Second Resident for Jan: McFarland, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,24,32.0000,768.00,"Swan Personal Care - L2 for Jan: McFarland, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,19410239,,01/24/2013,1953,"Invoice-Private",,01/24/2013,01/24/2013,,19414461MO,-966.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,961,961,"CR:Basic Service F... D.McFarland 201301: McFarland, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,992,992,"CR:Swan Personal C... D.McFarland 201301: McFarland, Darrell",,,,,,,,,,,,,,,

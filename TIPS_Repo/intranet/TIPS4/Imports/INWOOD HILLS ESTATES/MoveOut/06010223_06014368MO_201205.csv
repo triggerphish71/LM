@@ -1,0 +1,7 @@
+BATCH,,201205,B,4039.0000,
+INVOICE,IN,,06010223,,05/01/2012,744.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06014368MO,-2251.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,744.0000,744.00,"CR:Limited Term Di... K.Nifong 201205: Nifong, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,06010223,,05/01/2012,3295,"Invoice-Private",,05/01/2012,05/10/2012,,06014368MO,-2251.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2790,2790,"CR:Basic Service F... K.Nifong 201205: Nifong, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... K.Nifong 201205: Nifong, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,465,465,"CR:Resident Care -... K.Nifong 201205: Nifong, Kathleen",,,,,,,,,,,,,,,

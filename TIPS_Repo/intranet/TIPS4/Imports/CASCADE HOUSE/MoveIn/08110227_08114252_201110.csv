@@ -1,0 +1,6 @@
+BATCH,,201110,B,2465.8000,
+INVOICE,IN,,08110227,,10/28/2011,2465.8000,"MoveIn-Edwards. Theresa",,10/28/2011,10/28/2011,,08114252,5796.8000,,,,,,,,,,
+TRANSACTION,3010,010103081,4,100.0000,400,"Basic Service Fee - One Bedroom    : Edwards. Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,4,10.2000,40.8,"Resident Care - Level 6: Edwards. Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Edwards. Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Edwards. Theresa",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201210,B,1842.0000,
+INVOICE,IN,,04210211,,10/30/2012,114.0000,"Invoice-Private",,10/30/2012,10/30/2012,,04214016MO,-5034.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,114.0000,114.00,"Basic Service Fee - One Bedroom for Oct: Urioste, Bennie",,,,,,,,,,,,,,,
+INVOICE,CM,,04210211,,10/30/2012,1728,"Invoice-Private",,10/30/2012,10/30/2012,,04214016MO,-5034.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,228,228,"CR:Basic Service F... B.Urioste 201210: Urioste, Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202042,1,1500,1500,"CR:New Resident Fe... B.Urioste 201210: Urioste, Bennie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,6780.0000,
+INVOICE,IN,,21010241,,04/01/2012,2130.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21013549MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,1200.0000,1200.00,"CR:Limited Term Di... C.Rezzano 201204: Rezzano, Carlos",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,6,61.0000,366.00,"Resident Care - Level 6 for Apr: Rezzano, Carlos",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,6,94.0000,564.00,"Studio for Apr: Rezzano, Carlos",,,,,,,,,,,,,,,
+INVOICE,CM,,21010241,,04/01/2012,4650,"Invoice-Private",,04/01/2012,04/10/2012,,21013549MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1830,1830,"CR:Resident Care -... C.Rezzano 201204: Rezzano, Carlos",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2820,2820,"CR:Studio... C.Rezzano 201204: Rezzano, Carlos",,,,,,,,,,,,,,,

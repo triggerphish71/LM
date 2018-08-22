@@ -1,0 +1,8 @@
+BATCH,,201208,B,5301.0000,
+INVOICE,IN,,20210096,,08/01/2012,1457.0000,"Invoice-Private",,08/01/2012,08/10/2012,,20212657MO,-2387.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,837.0000,837.00,"CR:Limited Term Di... E.Fowler 201208: Fowler, Eddie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,5,41.0000,205.00,"Resident Care - Level 4 for Aug: Fowler, Eddie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,5,83.0000,415.00,"Studio for Aug: Fowler, Eddie",,,,,,,,,,,,,,,
+INVOICE,CM,,20210096,,08/01/2012,3844,"Invoice-Private",,08/01/2012,08/10/2012,,20212657MO,-2387.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1271,1271,"CR:Resident Care -... E.Fowler 201208: Fowler, Eddie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... E.Fowler 201208: Fowler, Eddie",,,,,,,,,,,,,,,

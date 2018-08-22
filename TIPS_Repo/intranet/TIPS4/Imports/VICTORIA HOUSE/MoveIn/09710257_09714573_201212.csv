@@ -1,0 +1,5 @@
+BATCH,,201212,B,3777.0000,
+INVOICE,IN,,09710257,,12/12/2012,3777.0000,"MoveIn-Colee. Mary",,12/12/2012,12/12/2012,,09714573,6531.3500,,,,,,,,,,
+TRANSACTION,3010,010103097,20,87.0000,1740,"Basic Service Fee - Studio: Colee. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103097,20,1.8500,37,"Resident Care - Level 1: Colee. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103097,1,2000.0000,2000,"New Resident Fee: Colee. Mary",,,,,,,,,,,,,,,

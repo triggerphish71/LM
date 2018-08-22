@@ -1,0 +1,6 @@
+BATCH,,201206,B,1745.0000,
+INVOICE,IN,,03410294,,06/29/2012,1745.0000,"MoveIn-Hodges. Verna",,06/29/2012,06/29/2012,,03415595,5151.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,2,96.0000,192,"Basic Service Fee - Studio: Hodges. Verna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,2,13.0000,26,"Resident Care - Level 1: Hodges. Verna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Hodges. Verna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Hodges. Verna",,,,,,,,,,,,,,,

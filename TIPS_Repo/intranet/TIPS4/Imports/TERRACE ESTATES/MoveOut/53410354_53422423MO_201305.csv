@@ -1,0 +1,6 @@
+BATCH,,201305,B,4470.0000,
+INVOICE,IN,,53410354,,05/28/2013,2100.0000,"Invoice-Private",,05/28/2013,05/28/2013,,53422423MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,28,75.0000,2100.00,"Basic Service Fee - One Bedroom for May: Paske, Allen",,,,,,,,,,,,,,,
+INVOICE,CM,,53410354,,05/28/2013,2370,"Invoice-Private",,05/28/2013,05/28/2013,,53422423MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2325,2325,"CR:Basic Service F... A.Paske 201305: Paske, Allen",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319534,1,45,45,"CR:Garage Rental... A.Paske 201305: Paske, Allen",,,,,,,,,,,,,,,

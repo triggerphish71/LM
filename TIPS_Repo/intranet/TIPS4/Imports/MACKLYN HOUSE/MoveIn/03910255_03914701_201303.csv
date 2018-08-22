@@ -1,0 +1,4 @@
+BATCH,,201303,B,4790.0000,
+INVOICE,IN,,03910255,,03/01/2013,4790.0000,"MoveIn-Van Lith. Frank",,03/01/2013,03/01/2013,,03914701,4790.0000,,,,,,,,,,
+TRANSACTION,3010,010101039,31,90.0000,2790,"Basic Service Fee - Studio: Van Lith. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Van Lith. Frank",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,3720.0000,
+INVOICE,IN,,12010232,,11/01/2011,3720.0000,"November_Rent-Stairhime. Erma",,11/01/2011,11/10/2011,,12014136,6472.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,30,75.0000,2250,"Basic Service Fee - Studio         : Stairhime. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,30,48.0000,1440,"Resident Care - Level 4: Stairhime. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Stairhime. Erma",,,,,,,,,,,,,,,

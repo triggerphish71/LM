@@ -1,0 +1,6 @@
+BATCH,,201206,B,4710.0000,
+INVOICE,IN,,13210288,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13215483MO,-8787.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,60.0000,60.00,"CR:Limited Term Di... F.Hutson 201206: Hutson, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,13210288,,06/01/2012,4650,"Invoice-Private",,06/01/2012,06/10/2012,,13215483MO,-8787.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... F.Hutson 201206: Hutson, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1680,1680,"CR:Resident Care -... F.Hutson 201206: Hutson, Frank",,,,,,,,,,,,,,,

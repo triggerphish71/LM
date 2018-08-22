@@ -1,0 +1,6 @@
+BATCH,,201105,B,3340.0000,
+INVOICE,IN,,19310334,,05/16/2011,3340.0000,"MoveIn-Johnson. Wanda",,05/16/2011,05/16/2011,,19314668,3340.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,16,72.0000,1152,"Basic Service Fee - Studio         : Johnson. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,16,33.0000,528,"Resident Care - Level 2: Johnson. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Johnson. Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315193,16,10.0000,160,"HSG Meals: Johnson. Wanda",,,,,,,,,,,,,,,

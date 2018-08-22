@@ -1,0 +1,8 @@
+BATCH,,201212,B,6200.1200,
+INVOICE,IN,,16910276,,12/25/2012,2756.7500,"Invoice-Private",,12/25/2012,12/25/2012,,16915323MO,-4129.9900,,,,,,,,,,
+TRANSACTION,3020,010103169,25,87.0000,2175.00,"Basic Service Fee - Studio for Dec: Gardiner, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,25,23.2700,581.75,"Resident Care - Level 13 for Dec: Gardiner, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,16910276,,12/25/2012,3443.37,"Invoice-Private",,12/25/2012,12/25/2012,,16915323MO,-4129.9900,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2697,2697,"CR:Basic Service F... S.Gardiner 201212: Gardiner, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... S.Gardiner 201212: Gardiner, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,721.37,721.37,"CR:Resident Care -... S.Gardiner 201212: Gardiner, Shirley",,,,,,,,,,,,,,,

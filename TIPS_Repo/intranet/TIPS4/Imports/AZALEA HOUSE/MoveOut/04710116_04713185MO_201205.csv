@@ -1,0 +1,7 @@
+BATCH,,201205,B,4284.0000,
+INVOICE,IN,,04710116,,05/03/2012,378.0000,"Invoice-Private",,05/03/2012,05/03/2012,,04713185MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,3,109.0000,327.00,"Basic Service Fee - One Bedroom for May: Hester, Odelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,3,17.0000,51.00,"Resident Care - Level 1 for May: Hester, Odelle",,,,,,,,,,,,,,,
+INVOICE,CM,,04710116,,05/03/2012,3906,"Invoice-Private",,05/03/2012,05/03/2012,,04713185MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,3379,3379,"CR:Basic Service F... O.Hester 201205: Hester, Odelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,527,527,"CR:Resident Care -... O.Hester 201205: Hester, Odelle",,,,,,,,,,,,,,,

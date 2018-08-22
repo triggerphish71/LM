@@ -1,0 +1,5 @@
+BATCH,,201205,B,124.0000,
+INVOICE,IN,,21210167,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21212427MO,-4324.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,2.0000,62.00,"Credit for Limited Term Discount: Cross, Rosemarie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210167,,05/01/2012,62,"Invoice-Private",,05/01/2012,05/10/2012,,21212427MO,-4324.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,2,62,"Limited Term Discount: Cross, Rosemarie",,,,,,,,,,,,,,,

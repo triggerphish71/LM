@@ -1,0 +1,7 @@
+BATCH,,201203,B,1786.0000,
+INVOICE,IN,,10910118,,03/01/2012,893.0000,"Invoice-Private",,03/01/2012,03/10/2012,,10914582MO,-1805.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Brock, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305109,31,28.0000,868.00,"Credit for Limited Term Discount: Brock, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,10910118,,03/01/2012,893,"Invoice-Private",,03/01/2012,03/10/2012,,10914582MO,-1805.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Brock, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305109,31,28,868,"Limited Term Discount: Brock, Shirley",,,,,,,,,,,,,,,

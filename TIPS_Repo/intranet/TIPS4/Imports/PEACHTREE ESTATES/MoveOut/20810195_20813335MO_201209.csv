@@ -1,0 +1,7 @@
+BATCH,,201209,B,5175.0000,
+INVOICE,IN,,20810195,,09/15/2012,1725.0000,"Invoice-Private",,09/15/2012,09/15/2012,,20813335MO,-1725.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,15,32.0000,480.00,"Resident Care - Level 3 for Sep: Mitchell, Terry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,15,83.0000,1245.00,"Studio Deluxe for Sep: Mitchell, Terry",,,,,,,,,,,,,,,
+INVOICE,CM,,20810195,,09/15/2012,3450,"Invoice-Private",,09/15/2012,09/15/2012,,20813335MO,-1725.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,960,960,"CR:Resident Care -... T.Mitchell 201209: Mitchell, Terry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2490,2490,"CR:Studio Deluxe... T.Mitchell 201209: Mitchell, Terry",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201206,B,5331.0000,
+INVOICE,IN,,00810224,,06/08/2012,1224.0000,"Invoice-Private",,06/08/2012,06/08/2012,,00814729MO,-2883.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,9,83.0000,747.00,"Basic Service Fee - Studio for Jun: Peters, Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,9,53.0000,477.00,"Resident Care - Level 4 for Jun: Peters, Cecelia",,,,,,,,,,,,,,,
+INVOICE,CM,,00810224,,06/08/2012,4107,"Invoice-Private",,06/08/2012,06/08/2012,,00814729MO,-2883.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2490,2490,"CR:Basic Service F... C.Peters 201206: Peters, Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... C.Peters 201206: Peters, Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,1590,1590,"CR:Resident Care -... C.Peters 201206: Peters, Cecelia",,,,,,,,,,,,,,,

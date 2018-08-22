@@ -1,0 +1,7 @@
+BATCH,,201805,B,4760.0000,
+INVOICE,IN,,09110286,,05/09/2018,1071.0000,"Invoice-Private",,05/09/2018,05/09/2018,,09118249MO,-6188.0000,,,,,,,,,,
+TRANSACTION,3020,010005091,9,73.0000,657.00,"Basic Service Fee - Studio  for May: Weber, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005091,9,46.0000,414.00,"Resident Care - Level 2  for May: Weber, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,09110286,,05/09/2018,3689,"Invoice-Private",,05/09/2018,05/09/2018,,09118249MO,-6188.0000,,,,,,,,,,
+TRANSACTION,3020,010005091,1,2263,2263,"CR:Basic Service F... L.Weber 201805: Weber, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005091,1,1426,1426,"CR:Resident Care -... L.Weber 201805: Weber, Laura",,,,,,,,,,,,,,,

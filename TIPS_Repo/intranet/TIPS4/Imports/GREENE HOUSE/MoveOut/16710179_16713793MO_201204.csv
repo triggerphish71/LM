@@ -1,0 +1,5 @@
+BATCH,,201204,B,4320.0000,
+INVOICE,CM,,16710179,,04/01/2012,4320,"Invoice-Private",,04/01/2012,04/10/2012,,16713793MO,-4779.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2730,2730,"CR:Basic Service F... M.Ebers 201204: Ebers, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... M.Ebers 201204: Ebers, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1560,1560,"CR:Resident Care -... M.Ebers 201204: Ebers, Merle",,,,,,,,,,,,,,,

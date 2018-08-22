@@ -1,0 +1,5 @@
+BATCH,,201202,B,82.0000,
+INVOICE,IN,,21210037,,02/01/2012,41.0000,"Invoice-Private",,02/01/2012,02/10/2012,,21212255MO,-2403.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Moore, Lewis Hayes",,,,,,,,,,,,,,,
+INVOICE,CM,,21210037,,02/01/2012,41,"Invoice-Private",,02/01/2012,02/10/2012,,21212255MO,-2403.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Moore, Lewis Hayes",,,,,,,,,,,,,,,

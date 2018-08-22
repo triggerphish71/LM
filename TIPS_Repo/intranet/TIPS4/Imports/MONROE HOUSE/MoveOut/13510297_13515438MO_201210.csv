@@ -1,0 +1,5 @@
+BATCH,,201210,B,341.0000,
+INVOICE,IN,,13510297,,10/22/2012,31.0000,"Invoice-Private",,10/22/2012,10/22/2012,,13515438MO,-1209.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,31.0000,31.00,"Basic Service Fee - Second Resident for Oct: Lawson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,13510297,,10/22/2012,310,"Invoice-Private",,10/22/2012,10/22/2012,,13515438MO,-1209.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,310,310,"CR:Basic Service F... J.Lawson 201210: Lawson, James",,,,,,,,,,,,,,,

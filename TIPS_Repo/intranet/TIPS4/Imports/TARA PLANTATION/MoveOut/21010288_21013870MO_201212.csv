@@ -1,0 +1,7 @@
+BATCH,,201212,B,3354.0000,
+INVOICE,IN,,21010288,,12/08/2012,688.0000,"Invoice-Private",,12/08/2012,12/08/2012,,21013870MO,-4669.0000,,,,,,,,,,
+TRANSACTION,3020,010216210,8,75.0000,600.00,"One Bedroom for Dec: Kliemt, Fauniel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,8,11.0000,88.00,"Resident Care - Level 1 for Dec: Kliemt, Fauniel",,,,,,,,,,,,,,,
+INVOICE,CM,,21010288,,12/08/2012,2666,"Invoice-Private",,12/08/2012,12/08/2012,,21013870MO,-4669.0000,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2325,2325,"CR:One Bedroom... F.Kliemt 201212: Kliemt, Fauniel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,341,341,"CR:Resident Care -... F.Kliemt 201212: Kliemt, Fauniel",,,,,,,,,,,,,,,

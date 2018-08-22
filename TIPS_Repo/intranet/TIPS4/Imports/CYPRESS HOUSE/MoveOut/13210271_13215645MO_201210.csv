@@ -1,0 +1,7 @@
+BATCH,,201210,B,3685.0000,
+INVOICE,IN,,13210271,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13215645MO,-4920.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,62.0000,62.00,"CR:Limited Term Di... J.Birdsong 201210: Birdsong, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13210271,,10/01/2012,3623,"Invoice-Private",,10/01/2012,10/10/2012,,13215645MO,-4920.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3069,3069,"CR:Basic Service F... J.Birdsong 201210: Birdsong, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... J.Birdsong 201210: Birdsong, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,527,527,"CR:Resident Care -... J.Birdsong 201210: Birdsong, Jean",,,,,,,,,,,,,,,

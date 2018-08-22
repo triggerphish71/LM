@@ -1,0 +1,7 @@
+BATCH,,201205,B,3693.0000,
+INVOICE,IN,,15410191,,05/01/2012,775.0000,"Invoice-Private",,05/01/2012,05/10/2012,,15414901MO,-2172.0000,,,,,,,,,,
+TRANSACTION,3320,010211154,1,775.0000,775.00,"CR:Limited Term Di... R.Wagner 201205: Wagner, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,15410191,,05/01/2012,2918,"Invoice-Private",,05/01/2012,05/10/2012,,15414901MO,-2172.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... R.Wagner 201205: Wagner, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,558,558,"CR:Resident Care -... R.Wagner 201205: Wagner, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2325,2325,"CR:Room and Board ... R.Wagner 201205: Wagner, Roberta",,,,,,,,,,,,,,,

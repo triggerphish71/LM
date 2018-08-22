@@ -1,0 +1,8 @@
+BATCH,,201112,B,4939.0000,
+INVOICE,IN,,20810210,,12/18/2011,2304.0000,"Invoice-Private",,12/18/2011,12/18/2011,,20812951MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,434.0000,434.00,"CR:Limited Term Di... C.Johnson 201112: Johnson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,22,11.0000,242.00,"Resident Care - Level 1 for Dec: Johnson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,22,74.0000,1628.00,"Room and Board - Studio for Dec: Johnson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,20810210,,12/18/2011,2635,"Invoice-Private",,12/18/2011,12/18/2011,,20812951MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,341,341,"CR:Resident Care -... C.Johnson 201112: Johnson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2294,2294,"CR:Room and Board ... C.Johnson 201112: Johnson, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,3450.0000,
+INVOICE,IN,,50110300,,07/02/2013,3450.0000,"MoveIn-Harris. Walter",,07/02/2013,07/02/2013,,50114803,3450.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,30,88.0000,2640,"Basic Service Fee - Studio: Harris. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,30,26.0000,780,"Resident Care - Level 2: Harris. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Harris. Walter",,,,,,,,,,,,,,,

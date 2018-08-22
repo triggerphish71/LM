@@ -1,0 +1,7 @@
+BATCH,,201301,B,3470.0000,
+INVOICE,IN,,19610235,,01/17/2013,3470.0000,"MoveIn-Godin. Virginia",,01/17/2013,01/17/2013,,19613409,7117.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,15,106.0000,1590,"Basic Service Fee - One Bedroom: Godin. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,15,13.0000,195,"Resident Care - Level 1: Godin. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Godin. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,1500.0000,1500,"New Tenant Fee: Godin. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,15,10.0000,150,"CC Meals: Godin. Virginia",,,,,,,,,,,,,,,

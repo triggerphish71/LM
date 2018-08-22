@@ -1,0 +1,6 @@
+BATCH,,201207,B,4526.0000,
+INVOICE,IN,,02010169,,07/01/2012,93.0000,"Invoice-Private",,07/01/2012,07/10/2012,,02014520MO,-4393.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,93.0000,93.00,"CR:Limited Term Di... P.Mitchell 201207: Mitchell, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,02010169,,07/01/2012,4433,"Invoice-Private",,07/01/2012,07/10/2012,,02014520MO,-4393.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2914,2914,"CR:Basic Service F... P.Mitchell 201207: Mitchell, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,1519,1519,"CR:Resident Care -... P.Mitchell 201207: Mitchell, Pauline",,,,,,,,,,,,,,,

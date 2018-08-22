@@ -1,0 +1,5 @@
+BATCH,,201201,B,1922.0000,
+INVOICE,IN,,09510244,,01/01/2012,961.0000,"Invoice-Private",,01/01/2012,01/10/2012,,09514650MO,-6968.5000,,,,,,,,,,
+TRANSACTION,3320,010103095,31,31.0000,961.00,"Credit for Limited Term Discount: Jarbo, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09510244,,01/01/2012,961,"Invoice-Private",,01/01/2012,01/10/2012,,09514650MO,-6968.5000,,,,,,,,,,
+TRANSACTION,3320,010103095,31,31,961,"Limited Term Discount: Jarbo, Mary",,,,,,,,,,,,,,,

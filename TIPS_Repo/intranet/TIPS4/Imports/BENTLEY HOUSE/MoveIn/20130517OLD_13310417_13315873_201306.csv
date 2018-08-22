@@ -1,0 +1,5 @@
+BATCH,,201306,B,4235.0000,
+INVOICE,IN,,13310417,,06/01/2013,4235.0000,"June_Rent-Evers. Mary",,06/01/2013,06/10/2013,,13315873,6510.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,30,92.0000,2760,"Basic Service Fee - Studio: Evers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,30,48.0000,1440,"Resident Care - Level 3: Evers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Evers. Mary",,,,,,,,,,,,,,,

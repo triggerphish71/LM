@@ -1,0 +1,8 @@
+BATCH,,201107,B,10122.0000,
+INVOICE,IN,,15910209,,07/01/2011,4698.0000,"Invoice-Private",,07/01/2011,07/10/2011,,15914310MO,-726.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,27,108.0000,2916.00,"Basic Service Fee - One Bedroom for Jul: Volk, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,27,66.0000,1782.00,"Swan Personal Care - L5 for Jul: Volk, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,15910209,,07/01/2011,5424,"Invoice-Private",,07/01/2011,07/10/2011,,15914310MO,-726.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3348,3348,"CR:Basic Service F... M.Volk 201107: Volk, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... M.Volk 201107: Volk, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,2046,2046,"CR:Swan Personal C... M.Volk 201107: Volk, Marian",,,,,,,,,,,,,,,

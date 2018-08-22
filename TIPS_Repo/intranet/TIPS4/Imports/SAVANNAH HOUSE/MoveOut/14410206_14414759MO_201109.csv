@@ -1,0 +1,7 @@
+BATCH,,201109,B,126.0000,
+INVOICE,IN,,14410206,,09/01/2011,63.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14414759MO,-6678.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Patrick, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Patrick, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,14410206,,09/01/2011,63,"Invoice-Private",,09/01/2011,09/10/2011,,14414759MO,-6678.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Patrick, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Patrick, Robert",,,,,,,,,,,,,,,

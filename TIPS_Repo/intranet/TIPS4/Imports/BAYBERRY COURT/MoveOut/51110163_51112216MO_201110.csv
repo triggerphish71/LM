@@ -1,0 +1,7 @@
+BATCH,,201110,B,791.8000,
+INVOICE,IN,,51110163,,10/01/2011,395.9000,"Invoice-Private",,10/01/2011,10/10/2011,,51112216MO,-1355.9000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Theoret, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310511,31,11.9000,368.90,"Additional Service Charge: Theoret, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,51110163,,10/01/2011,395.9,"Invoice-Private",,10/01/2011,10/10/2011,,51112216MO,-1355.9000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Theoret, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310511,31,11.9,368.9,"Credit for Additional Service Charge: Theoret, Ronald",,,,,,,,,,,,,,,

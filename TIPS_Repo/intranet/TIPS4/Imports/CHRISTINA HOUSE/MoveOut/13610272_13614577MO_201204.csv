@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,13610272,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13614577MO,-2680.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,30,2.0000,60.00,"Credit for Limited Term Discount: Eagler, George",,,,,,,,,,,,,,,
+INVOICE,CM,,13610272,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,13614577MO,-2680.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,30,2,60,"Limited Term Discount: Eagler, George",,,,,,,,,,,,,,,

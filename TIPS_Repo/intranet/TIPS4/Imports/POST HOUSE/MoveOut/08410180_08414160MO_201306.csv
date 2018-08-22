@@ -1,0 +1,7 @@
+BATCH,,201306,B,7050.0000,
+INVOICE,IN,,08410180,,06/10/2013,2820.0000,"Invoice-Private",,06/10/2013,06/10/2013,,08414160MO,-5781.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,20,106.0000,2120.00,"Basic Service Fee - Studio for Jun: Fanfarillo Jr., Alex",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,20,35.0000,700.00,"Resident Care - Level 2 for Jun: Fanfarillo Jr., Alex",,,,,,,,,,,,,,,
+INVOICE,CM,,08410180,,06/10/2013,4230,"Invoice-Private",,06/10/2013,06/10/2013,,08414160MO,-5781.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,3180,3180,"CR:Basic Service F... A.Fanfarillo Jr. 201306: Fanfarillo Jr., Alex",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,1050,1050,"CR:Resident Care -... A.Fanfarillo Jr. 201306: Fanfarillo Jr., Alex",,,,,,,,,,,,,,,

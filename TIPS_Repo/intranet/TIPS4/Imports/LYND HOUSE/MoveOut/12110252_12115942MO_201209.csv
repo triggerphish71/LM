@@ -1,0 +1,8 @@
+BATCH,,201209,B,7875.0000,
+INVOICE,IN,,12110252,,09/07/2012,3640.0000,"Invoice-Private",,09/07/2012,09/07/2012,,12115942MO,-595.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,26,124.0000,3224.00,"Basic Service Fee- One Bedroom Prem for Sep: Robb, Samual",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,26,16.0000,416.00,"Resident Care - Level 1 for Sep: Robb, Samual",,,,,,,,,,,,,,,
+INVOICE,CM,,12110252,,09/07/2012,4235,"Invoice-Private",,09/07/2012,09/07/2012,,12115942MO,-595.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3720,3720,"CR:Basic Service F... S.Robb 201209: Robb, Samual",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... S.Robb 201209: Robb, Samual",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,480,480,"CR:Resident Care -... S.Robb 201209: Robb, Samual",,,,,,,,,,,,,,,

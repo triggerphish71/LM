@@ -1,0 +1,5 @@
+BATCH,,201301,B,632.4000,
+INVOICE,IN,,14710232,,01/01/2013,316.2000,"Invoice-Private",,01/01/2013,01/10/2013,,14715942MO,-3793.8000,,,,,,,,,,
+TRANSACTION,3312,010310147,31,10.2000,316.20,"Credit for Two Room Rental Discount: Barber, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14710232,,01/01/2013,316.2,"Invoice-Private",,01/01/2013,01/10/2013,,14715942MO,-3793.8000,,,,,,,,,,
+TRANSACTION,3312,010310147,31,10.2,316.2,"Two Room Rental Discount: Barber, Ruth",,,,,,,,,,,,,,,

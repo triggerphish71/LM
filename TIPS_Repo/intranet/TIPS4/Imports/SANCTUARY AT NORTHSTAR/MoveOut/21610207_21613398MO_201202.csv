@@ -1,0 +1,8 @@
+BATCH,,201202,B,7860.0000,
+INVOICE,IN,,21610207,,02/23/2012,3800.0000,"Invoice-Private",,02/23/2012,02/23/2012,,21613398MO,-3980.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,580.0000,580.00,"CR:Limited Term Di... J.Trompeter 201202: Trompeter, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,23,42.0000,966.00,"Resident Care - Level 4 for Feb: Trompeter, June",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,23,98.0000,2254.00,"Studio Deluxe for Feb: Trompeter, June",,,,,,,,,,,,,,,
+INVOICE,CM,,21610207,,02/23/2012,4060,"Invoice-Private",,02/23/2012,02/23/2012,,21613398MO,-3980.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1218,1218,"CR:Resident Care -... J.Trompeter 201202: Trompeter, June",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2842,2842,"CR:Studio Deluxe... J.Trompeter 201202: Trompeter, June",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,1726.5200,
+INVOICE,IN,,01310102,,10/01/2011,863.2600,"Invoice-Medicaid",,10/01/2011,10/10/2011,,01313956MO,-1369.5600,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Jackson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,835.2600,835.26,"State Medicaid: Jackson, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,01310102,,10/01/2011,863.26,"Invoice-Medicaid",,10/01/2011,10/10/2011,,01313956MO,-1369.5600,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Jackson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,835.26,835.26,"Credit for State Medicaid: Jackson, Ruby",,,,,,,,,,,,,,,

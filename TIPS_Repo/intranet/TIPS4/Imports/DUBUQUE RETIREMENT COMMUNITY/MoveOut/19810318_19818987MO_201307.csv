@@ -1,0 +1,7 @@
+BATCH,,201307,B,3333.0000,
+INVOICE,IN,,19810318,,07/18/2013,1206.0000,"Invoice-Private",,07/18/2013,07/18/2013,,19818987MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,18,67.0000,1206.00,"Basic Service Fee IL - One Bdrm D for Jul: Laufenburg, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,19810318,,07/18/2013,2127,"Invoice-Private",,07/18/2013,07/18/2013,,19818987MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2077,2077,"CR:Basic Service F... R.Laufenburg 201307: Laufenburg, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... R.Laufenburg 201307: Laufenburg, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3228,010112198,1,20,20,"CR:Sharps Disposal... R.Laufenburg 201307: Laufenburg, Roy",,,,,,,,,,,,,,,

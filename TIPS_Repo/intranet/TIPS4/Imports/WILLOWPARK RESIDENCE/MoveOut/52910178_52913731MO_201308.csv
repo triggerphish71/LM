@@ -1,0 +1,8 @@
+BATCH,,201308,B,4564.0000,
+INVOICE,IN,,52910178,,08/01/2013,142.0000,"Invoice-Private",,08/01/2013,08/10/2013,,52913731MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,114.0000,114.00,"Basic Service Fee - One Bedroom for Aug: Nadler, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,28.0000,28.00,"Resident Care - Level 2 for Aug: Nadler, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,52910178,,08/01/2013,4422,"Invoice-Private",,08/01/2013,08/10/2013,,52913731MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,3534,3534,"CR:Basic Service F... E.Nadler 201308: Nadler, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... E.Nadler 201308: Nadler, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,868,868,"CR:Resident Care -... E.Nadler 201308: Nadler, Elsie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201804,B,5076.5000,
+INVOICE,IN,,51710383,,04/25/2018,2307.5000,"Invoice-Private",,04/25/2018,04/25/2018,,51715580MO,-461.5000,,,,,,,,,,
+TRANSACTION,3020,010003517,25,90.0000,2250.00,"Basic Service Fee - Studio Deluxe  for Apr: Anderson, Aloma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,25,2.3000,57.50,"Resident Care - Level 1  for Apr: Anderson, Aloma",,,,,,,,,,,,,,,
+INVOICE,CM,,51710383,,04/25/2018,2769,"Invoice-Private",,04/25/2018,04/25/2018,,51715580MO,-461.5000,,,,,,,,,,
+TRANSACTION,3020,010003517,1,2700,2700,"CR:Basic Service F... A.Anderson 201804: Anderson, Aloma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,1,69,69,"CR:Resident Care -... A.Anderson 201804: Anderson, Aloma",,,,,,,,,,,,,,,

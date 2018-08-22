@@ -1,0 +1,8 @@
+BATCH,,201208,B,7062.0000,
+INVOICE,IN,,06610210,,08/01/2012,1637.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06614630MO,-3788.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,62.0000,62.00,"CR:Limited Term Di... J.Inscho 201208: Inscho, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,9,127.0000,1143.00,"Basic Service Fee - One Bedroom for Aug: Inscho, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,9,48.0000,432.00,"Resident Care - Level 3 for Aug: Inscho, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,06610210,,08/01/2012,5425,"Invoice-Private",,08/01/2012,08/10/2012,,06614630MO,-3788.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3937,3937,"CR:Basic Service F... J.Inscho 201208: Inscho, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1488,1488,"CR:Resident Care -... J.Inscho 201208: Inscho, Janice",,,,,,,,,,,,,,,

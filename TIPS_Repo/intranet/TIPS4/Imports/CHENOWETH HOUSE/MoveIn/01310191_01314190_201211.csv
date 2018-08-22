@@ -1,0 +1,5 @@
+BATCH,,201211,B,2510.2000,
+INVOICE,IN,,01310191,,11/01/2012,2510.2000,"November_Rent-Oesterle. Una",,11/01/2012,11/10/2012,,01314190,4862.0400,,,,,,,,,,
+TRANSACTION,3010,010103013,30,72.0000,2160,"Basic Service Fee - Studio: Oesterle. Una",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,30,10.7400,322.2,"Resident Care - Level 6: Oesterle. Una",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Oesterle. Una",,,,,,,,,,,,,,,

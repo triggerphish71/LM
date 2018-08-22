@@ -1,0 +1,7 @@
+BATCH,,201307,B,6000.0000,
+INVOICE,IN,,08810249,,07/28/2013,2900.0000,"Invoice-Private",,07/28/2013,07/28/2013,,08814736MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,29,56.0000,1624.00,"Basic Service Fee - Studio for Jul: Harris, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,29,44.0000,1276.00,"Resident Care - Level 3 for Jul: Harris, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,08810249,,07/28/2013,3100,"Invoice-Private",,07/28/2013,07/28/2013,,08814736MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1736,1736,"CR:Basic Service F... J.Harris 201307: Harris, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1364,1364,"CR:Resident Care -... J.Harris 201307: Harris, Jane",,,,,,,,,,,,,,,

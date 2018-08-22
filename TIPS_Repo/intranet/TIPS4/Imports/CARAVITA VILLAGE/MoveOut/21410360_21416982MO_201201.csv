@@ -1,0 +1,7 @@
+BATCH,,201201,B,2096.0000,
+INVOICE,IN,,21410360,,01/01/2012,1048.0000,"Invoice-Private",,01/01/2012,01/10/2012,,21416982MO,-976.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,8.0000,248.00,"Credit for Limited Term Discount: Sokol, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3315,010221214,1,800.0000,800.00,"Credit for Promotional Discount: Sokol, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,21410360,,01/01/2012,1048,"Invoice-Private",,01/01/2012,01/10/2012,,21416982MO,-976.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,8,248,"Limited Term Discount: Sokol, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3315,010221214,1,800,800,"Promotional Discount: Sokol, Charles",,,,,,,,,,,,,,,

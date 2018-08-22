@@ -1,0 +1,7 @@
+BATCH,,201109,B,5840.0000,
+INVOICE,IN,,08610181,,09/01/2011,1460.0000,"Invoice-Private",,09/01/2011,09/10/2011,,08614508MO,-2920.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,10,99.0000,990.00,"Basic Service Fee - Deluxe for Sep: Denhardt, Justus",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,10,47.0000,470.00,"Resident Care - Level 3 for Sep: Denhardt, Justus",,,,,,,,,,,,,,,
+INVOICE,CM,,08610181,,09/01/2011,4380,"Invoice-Private",,09/01/2011,09/10/2011,,08614508MO,-2920.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2970,2970,"CR:Basic Service F... J.Denhardt 201109: Denhardt, Justus",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1410,1410,"CR:Resident Care -... J.Denhardt 201109: Denhardt, Justus",,,,,,,,,,,,,,,

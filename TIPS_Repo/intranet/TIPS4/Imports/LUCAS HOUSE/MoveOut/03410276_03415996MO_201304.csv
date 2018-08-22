@@ -1,0 +1,5 @@
+BATCH,,201304,B,54.0000,
+INVOICE,IN,,03410276,,04/01/2013,27.0000,"Invoice-Private",,04/01/2013,04/10/2013,,03415996MO,-2321.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Quinn, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,03410276,,04/01/2013,27,"Invoice-Private",,04/01/2013,04/10/2013,,03415996MO,-2321.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Quinn, Evelyn",,,,,,,,,,,,,,,

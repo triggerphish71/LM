@@ -1,0 +1,5 @@
+BATCH,,201211,B,120.0000,
+INVOICE,IN,,08610048,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,08614967MO,-1184.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,30,2.0000,60.00,"Credit for Limited Term Discount: Obert, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,08610048,,11/01/2012,60,"Invoice-Private",,11/01/2012,11/10/2012,,08614967MO,-1184.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,30,2,60,"Limited Term Discount: Obert, Grace",,,,,,,,,,,,,,,

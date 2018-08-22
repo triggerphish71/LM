@@ -1,0 +1,7 @@
+BATCH,,201209,B,5739.3600,
+INVOICE,IN,,00510159,,09/01/2012,521.7600,"Invoice-Private",,09/01/2012,09/10/2012,,00512516MO,-4695.8400,,,,,,,,,,
+TRANSACTION,3020,010101005,3,88.0000,264.00,"Basic Service Fee - One Bedroom for Sep: Krager, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,3,85.9200,257.76,"Resident Care - Level 48 for Sep: Krager, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,00510159,,09/01/2012,5217.6,"Invoice-Private",,09/01/2012,09/10/2012,,00512516MO,-4695.8400,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2640,2640,"CR:Basic Service F... D.Krager 201209: Krager, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,2577.6,2577.6,"CR:Resident Care -... D.Krager 201209: Krager, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,8110.0000,
+INVOICE,IN,,09310069,,11/12/2012,3280.0000,"Invoice-Private",,11/12/2012,11/12/2012,,09315592MO,-6479.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,1,60.0000,60.00,"CR:Limited Term Di... L.Bessire 201211: Bessire, Louisa",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,20,99.0000,1980.00,"Basic Service Fee - Studio for Nov: Bessire, Louisa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,20,62.0000,1240.00,"Resident Care - Level 4 for Nov: Bessire, Louisa",,,,,,,,,,,,,,,
+INVOICE,CM,,09310069,,11/12/2012,4830,"Invoice-Private",,11/12/2012,11/12/2012,,09315592MO,-6479.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2970,2970,"CR:Basic Service F... L.Bessire 201211: Bessire, Louisa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1860,1860,"CR:Resident Care -... L.Bessire 201211: Bessire, Louisa",,,,,,,,,,,,,,,

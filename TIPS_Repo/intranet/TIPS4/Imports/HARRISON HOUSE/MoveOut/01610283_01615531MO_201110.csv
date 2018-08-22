@@ -1,0 +1,8 @@
+BATCH,,201110,B,3641.0000,
+INVOICE,IN,,01610283,,10/01/2011,113.0000,"Invoice-Private",,10/01/2011,10/01/2011,,01615531MO,-3415.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,81.0000,81.00,"Basic Service Fee - Studio for Oct: Lane, Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,32.0000,32.00,"Resident Care - Level 2 for Oct: Lane, Forrest",,,,,,,,,,,,,,,
+INVOICE,CM,,01610283,,10/01/2011,3528,"Invoice-Private",,10/01/2011,10/01/2011,,01615531MO,-3415.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2511,2511,"CR:Basic Service F... F.Lane 201110: Lane, Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... F.Lane 201110: Lane, Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,992,992,"CR:Resident Care -... F.Lane 201110: Lane, Forrest",,,,,,,,,,,,,,,

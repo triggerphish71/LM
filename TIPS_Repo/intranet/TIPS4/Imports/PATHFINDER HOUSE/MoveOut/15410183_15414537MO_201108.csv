@@ -1,0 +1,6 @@
+BATCH,,201108,B,3631.0000,
+INVOICE,IN,,15410183,,08/27/2011,1674.0000,"Invoice-Private",,08/27/2011,08/27/2011,,15414537MO,-2178.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,27,62.0000,1674.00,"Room and Board - Studio for Aug: Engelbart, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,15410183,,08/27/2011,1957,"Invoice-Private",,08/27/2011,08/27/2011,,15414537MO,-2178.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... R.Engelbart 201108: Engelbart, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1922,1922,"CR:Room and Board ... R.Engelbart 201108: Engelbart, Roger",,,,,,,,,,,,,,,

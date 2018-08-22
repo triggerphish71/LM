@@ -1,0 +1,7 @@
+BATCH,,201208,B,4365.0000,
+INVOICE,IN,,15010151,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,15014537MO,-6688.0000,,,,,,,,,,
+TRANSACTION,3320,010212150,1,62.0000,62.00,"CR:Limited Term Di... F.Benner 201208: Benner, Fern",,,,,,,,,,,,,,,
+INVOICE,CM,,15010151,,08/01/2012,4303,"Invoice-Private",,08/01/2012,08/10/2012,,15014537MO,-6688.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,3720,3720,"CR:Basic Service F... F.Benner 201208: Benner, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25,25,"CR:Monthly Cable... F.Benner 201208: Benner, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,1,558,558,"CR:Resident Care -... F.Benner 201208: Benner, Fern",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,7876.0000,
+INVOICE,IN,,52510154,,03/05/2012,2327.0000,"Invoice-Private",,03/05/2012,03/05/2012,,52512433MO,-3222.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,13,112.0000,1456.00,"Basic Service Fee - Studio for Mar: Petruska, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,13,67.0000,871.00,"Resident Care - Level 5 for Mar: Petruska, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,52510154,,03/05/2012,5549,"Invoice-Private",,03/05/2012,03/05/2012,,52512433MO,-3222.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3472,3472,"CR:Basic Service F... R.Petruska 201203: Petruska, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,2077,2077,"CR:Resident Care -... R.Petruska 201203: Petruska, Robert",,,,,,,,,,,,,,,

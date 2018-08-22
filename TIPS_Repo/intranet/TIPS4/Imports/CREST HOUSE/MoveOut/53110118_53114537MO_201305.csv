@@ -1,0 +1,6 @@
+BATCH,,201305,B,3320.0000,
+INVOICE,CM,,53110118,,05/01/2013,3320,"Invoice-Private",,05/01/2013,05/10/2013,,53114537MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,1612,1612,"CR:Basic Service F... P.Kindrai 201305: Kindrai, Penelope",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40,40,"CR:Monthly Cable... P.Kindrai 201305: Kindrai, Penelope",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25,25,"CR:Pendant Fee... P.Kindrai 201305: Kindrai, Penelope",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1643,1643,"CR:Resident Care -... P.Kindrai 201305: Kindrai, Penelope",,,,,,,,,,,,,,,

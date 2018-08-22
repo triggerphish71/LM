@@ -1,0 +1,5 @@
+BATCH,,201305,B,3403.0000,
+INVOICE,IN,,20210217,,05/10/2013,830.0000,"Invoice-Private",,05/10/2013,05/10/2013,,20212826MO,-1743.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,10,83.0000,830.00,"Studio for May: Martinovich, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,20210217,,05/10/2013,2573,"Invoice-Private",,05/10/2013,05/10/2013,,20212826MO,-1743.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... K.Martinovich 201305: Martinovich, Katherine",,,,,,,,,,,,,,,

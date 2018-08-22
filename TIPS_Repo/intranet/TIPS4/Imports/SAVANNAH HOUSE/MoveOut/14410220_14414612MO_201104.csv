@@ -1,0 +1,7 @@
+BATCH,,201104,B,7081.0000,
+INVOICE,IN,,14410220,,04/23/2011,2323.0000,"Invoice-Private",,04/23/2011,04/23/2011,,14414612MO,-6465.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,23,101.0000,2323.00,"Basic Service Fee - Studio for Apr: Kanapaux, Connie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410220,,04/23/2011,4758,"Invoice-Private",,04/23/2011,04/23/2011,,14414612MO,-6465.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3030,3030,"CR:Basic Service F... C.Kanapaux 201104: Kanapaux, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... C.Kanapaux 201104: Kanapaux, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,1700,1700,"CR:New Resident Fe... C.Kanapaux 201104: Kanapaux, Connie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,176.0000,
+INVOICE,IN,,15910213,,02/01/2012,88.0000,"Invoice-Private",,02/01/2012,02/10/2012,,15914603MO,-1804.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Ludwig, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,29,2.0000,58.00,"Credit for Limited Term Discount: Ludwig, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,15910213,,02/01/2012,88,"Invoice-Private",,02/01/2012,02/10/2012,,15914603MO,-1804.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Ludwig, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,29,2,58,"Limited Term Discount: Ludwig, Clarence",,,,,,,,,,,,,,,

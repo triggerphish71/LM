@@ -1,0 +1,5 @@
+BATCH,,201710,B,8274.0000,
+INVOICE,IN,,11010551,,12/05/2017,8274.0000,"MoveIn-test. aurora",,12/05/2017,12/05/2017,,11017036,11424.0000,,,,,,,,,,
+TRANSACTION,3010,010007110,18,105.0000,1890,"Basic Service Fee - Studio         : test. aurora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,3192.0000,3192,"Community Fee: test. aurora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,3192.0000,3192,"Monthly Deferral Charge: test. aurora",,,,,,,,,,,,,,,

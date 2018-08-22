@@ -1,0 +1,8 @@
+BATCH,,201203,B,3937.0000,
+INVOICE,IN,,19310339,,03/01/2012,744.0000,"Invoice-Private",,03/01/2012,03/10/2012,,19315123MO,-2449.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,8,76.0000,608.00,"Basic Service Fee - Studio for Mar: Shields, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,8,17.0000,136.00,"Resident Care - Level 1 for Mar: Shields, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,19310339,,03/01/2012,3193,"Invoice-Private",,03/01/2012,03/10/2012,,19315123MO,-2449.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2356,2356,"CR:Basic Service F... K.Shields 201203: Shields, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... K.Shields 201203: Shields, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,527,527,"CR:Resident Care -... K.Shields 201203: Shields, Kathryn",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201106,B,3836.0000,
+INVOICE,IN,,17110150,,06/02/2011,296.0000,"Invoice-Private",,06/02/2011,06/02/2011,,17114591MO,-3244.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,60.0000,60.00,"CR:Limited Term Di... L.Baker 201106: Baker, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,2,90.0000,180.00,"Basic Service Fee - Studio for Jun: Baker, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,2,28.0000,56.00,"Resident Care - Level 2 for Jun: Baker, Leland",,,,,,,,,,,,,,,
+INVOICE,CM,,17110150,,06/02/2011,3540,"Invoice-Private",,06/02/2011,06/02/2011,,17114591MO,-3244.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2700,2700,"CR:Basic Service F... L.Baker 201106: Baker, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,840,840,"CR:Resident Care -... L.Baker 201106: Baker, Leland",,,,,,,,,,,,,,,

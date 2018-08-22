@@ -1,0 +1,7 @@
+BATCH,,201108,B,5247.0000,
+INVOICE,IN,,21410123,,08/15/2011,2178.0000,"Invoice-Private",,08/15/2011,08/15/2011,,21416651MO,-3861.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,22,12.0000,264.00,"Resident Care - Level 1 for Aug: Kirkland, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,22,87.0000,1914.00,"Studio AL B for Aug: Kirkland, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,21410123,,08/15/2011,3069,"Invoice-Private",,08/15/2011,08/15/2011,,21416651MO,-3861.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,372,372,"CR:Resident Care -... D.Kirkland 201108: Kirkland, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2697,2697,"CR:Studio AL B... D.Kirkland 201108: Kirkland, Dorothy",,,,,,,,,,,,,,,

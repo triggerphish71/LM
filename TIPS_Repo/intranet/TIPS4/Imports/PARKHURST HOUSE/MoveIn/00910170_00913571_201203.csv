@@ -1,0 +1,5 @@
+BATCH,,201203,B,1875.8000,
+INVOICE,IN,,00910170,,03/28/2012,1875.8000,"MoveIn-Guisto. Thelma",,03/28/2012,03/28/2012,,00913571,4694.3000,,,,,,,,,,
+TRANSACTION,3010,010101009,4,85.0000,340,"Basic Service Fee - Studio: Guisto. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,4,8.9500,35.8,"Resident Care - Level 5: Guisto. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1500.0000,1500,"New Resident Fee: Guisto. Thelma",,,,,,,,,,,,,,,

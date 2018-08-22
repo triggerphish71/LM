@@ -1,0 +1,6 @@
+BATCH,,201301,B,2337.0000,
+INVOICE,IN,,06410199,,01/15/2013,2337.0000,"MoveIn-Meister. Charlie",,01/15/2013,01/15/2013,,06413837,5340.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,17,90.0000,1530,"Basic Service Fee - Studio: Meister. Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305064,17,16.0000,272,"Resident Care - Level 1: Meister. Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Meister. Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305064,1,500.0000,500,"New Resident Fee: Meister. Charlie",,,,,,,,,,,,,,,

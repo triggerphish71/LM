@@ -1,0 +1,7 @@
+BATCH,,201109,B,670.0000,
+INVOICE,IN,,18910268,,09/01/2011,335.0000,"Invoice-Private",,09/01/2011,09/10/2011,,18914824MO,-2915.0000,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25.00,"Monthly Cable: Longhini, Henry",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310.00,"CC Meals: Longhini, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,18910268,,09/01/2011,335,"Invoice-Private",,09/01/2011,09/10/2011,,18914824MO,-2915.0000,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"Credit for Monthly Cable: Longhini, Henry",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10,310,"Credit for CC Meals: Longhini, Henry",,,,,,,,,,,,,,,

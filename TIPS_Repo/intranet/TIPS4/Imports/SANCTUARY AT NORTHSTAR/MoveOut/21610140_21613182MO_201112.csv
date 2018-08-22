@@ -1,0 +1,5 @@
+BATCH,,201112,B,1864.3400,
+INVOICE,IN,,21610140,,12/01/2011,932.1700,"Invoice-Private",,12/01/2011,12/10/2011,,21613182MO,-1447.9000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,30.0700,932.17,"Credit for Limited Term Discount: Schmidt, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610140,,12/01/2011,932.17,"Invoice-Private",,12/01/2011,12/10/2011,,21613182MO,-1447.9000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,30.07,932.17,"Limited Term Discount: Schmidt, Marjorie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,3616.0000,
+INVOICE,IN,,21410180,,10/01/2012,113.0000,"Invoice-Private",,10/01/2012,10/01/2012,,21417909MO,-3390.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,23.0000,23.00,"Resident Care - Level 2 for Oct: Thomas, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,90.0000,90.00,"Studio AL B for Oct: Thomas, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,21410180,,10/01/2012,3503,"Invoice-Private",,10/01/2012,10/01/2012,,21417909MO,-3390.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... D.Thomas 201210: Thomas, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Studio AL B... D.Thomas 201210: Thomas, Dorothy",,,,,,,,,,,,,,,

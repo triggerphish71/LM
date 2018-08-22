@@ -1,0 +1,5 @@
+BATCH,,201303,B,2074.0000,
+INVOICE,IN,,03510168,,03/29/2013,2074.0000,"MoveIn-Roberson. Clinton",,03/29/2013,03/29/2013,,03513535,5314.0000,,,,,,,,,,
+TRANSACTION,3010,010202035,3,92.0000,276,"Basic Service Fee - Studio: Roberson. Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202035,3,16.0000,48,"Resident Care - Level 1: Roberson. Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202035,1,1750.0000,1750,"New Resident Fee: Roberson. Clinton",,,,,,,,,,,,,,,

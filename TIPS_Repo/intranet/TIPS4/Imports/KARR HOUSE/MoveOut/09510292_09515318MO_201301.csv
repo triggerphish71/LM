@@ -1,0 +1,6 @@
+BATCH,,201301,B,1903.0000,
+INVOICE,IN,,09510292,,01/01/2013,756.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09515318MO,-391.0000,,,,,,,,,,
+TRANSACTION,3320,010103095,1,682.0000,682.00,"CR:Limited Term Di... S.Johnson 201301: Johnson, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,2,37.0000,74.00,"Basic Service Fee - Second Resident for Jan: Johnson, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,09510292,,01/01/2013,1147,"Invoice-Private",,01/01/2013,01/10/2013,,09515318MO,-391.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,1147,1147,"CR:Basic Service F... S.Johnson 201301: Johnson, Shirley",,,,,,,,,,,,,,,

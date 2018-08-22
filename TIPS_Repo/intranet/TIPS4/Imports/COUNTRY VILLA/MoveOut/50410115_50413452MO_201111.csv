@@ -1,0 +1,7 @@
+BATCH,,201111,B,7638.0000,
+INVOICE,IN,,50410115,,11/01/2011,1608.0000,"Invoice-Private",,11/01/2011,11/10/2011,,50413452MO,-4422.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,8,127.0000,1016.00,"Basic Service Fee - One Bedroom for Nov: Finch, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,8,74.0000,592.00,"Resident Care - Level 5 for Nov: Finch, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,50410115,,11/01/2011,6030,"Invoice-Private",,11/01/2011,11/10/2011,,50413452MO,-4422.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3810,3810,"CR:Basic Service F... F.Finch 201111: Finch, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,2220,2220,"CR:Resident Care -... F.Finch 201111: Finch, Florence",,,,,,,,,,,,,,,

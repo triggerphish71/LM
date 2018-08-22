@@ -1,0 +1,5 @@
+BATCH,,201206,B,120.0000,
+INVOICE,IN,,09410236,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,09415922MO,-5658.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,30,2.0000,60.00,"Credit for Limited Term Discount: Marecek, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,09410236,,06/01/2012,60,"Invoice-Private",,06/01/2012,06/10/2012,,09415922MO,-5658.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,30,2,60,"Limited Term Discount: Marecek, Joseph",,,,,,,,,,,,,,,

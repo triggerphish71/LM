@@ -1,0 +1,8 @@
+BATCH,,201202,B,8301.2000,
+INVOICE,IN,,17610293,,02/04/2012,3171.1000,"Invoice-Private",,02/04/2012,02/04/2012,,17614306MO,-1959.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,19,73.0000,1387.00,"Basic Service Fee - Studio for Feb: Witmeyer, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,19,93.9000,1784.10,"Resident Care - Level 6+10 pts for Feb: Witmeyer, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,17610293,,02/04/2012,5130.1,"Invoice-Private",,02/04/2012,02/04/2012,,17614306MO,-1959.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2117,2117,"CR:Basic Service F... D.Witmeyer 201202: Witmeyer, Donna",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,290,290,"CR:CC Meals... D.Witmeyer 201202: Witmeyer, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,2723.1,2723.1,"CR:Resident Care -... D.Witmeyer 201202: Witmeyer, Donna",,,,,,,,,,,,,,,

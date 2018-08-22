@@ -1,0 +1,7 @@
+BATCH,,201109,B,5249.2000,
+INVOICE,IN,,00910152,,09/14/2011,1670.2000,"Invoice-Private",,09/14/2011,09/14/2011,,00913425MO,-1908.8000,,,,,,,,,,
+TRANSACTION,3020,010101009,14,87.0000,1218.00,"J.Mills: Basic Service Fee - Studio Deluxe for Sep: Mills, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,14,32.3000,452.20,"J.Mills: Resident Care - Level 19 for Sep: Mills, John",,,,,,,,,,,,,,,
+INVOICE,CM,,00910152,,09/14/2011,3579,"Invoice-Private",,09/14/2011,09/14/2011,,00913425MO,-1908.8000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2610,2610,"CR:J.Mills: Basic ... J.Mills 201109: Mills, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,969,969,"CR:J.Mills: Reside... J.Mills 201109: Mills, John",,,,,,,,,,,,,,,

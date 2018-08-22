@@ -1,0 +1,7 @@
+BATCH,,201210,B,4905.6000,
+INVOICE,IN,,00310181,,10/09/2012,1103.7600,"Invoice-Private",,10/09/2012,10/09/2012,,00314356MO,-2698.0800,,,,,,,,,,
+TRANSACTION,3020,010101003,9,94.0000,846.00,"Basic Service Fee - One Bedroom for Oct: Gallaher, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,9,28.6400,257.76,"Resident Care - Level 16 for Oct: Gallaher, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,00310181,,10/09/2012,3801.84,"Invoice-Private",,10/09/2012,10/09/2012,,00314356MO,-2698.0800,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2914,2914,"CR:Basic Service F... R.Gallaher 201210: Gallaher, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,887.84,887.84,"CR:Resident Care -... R.Gallaher 201210: Gallaher, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,5031.0000,
+INVOICE,IN,,13210286,,06/09/2013,1161.0000,"Invoice-Private",,06/09/2013,06/09/2013,,13215978MO,-2709.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,9,99.0000,891.00,"Basic Service Fee - Studio for Jun: Williams, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,9,30.0000,270.00,"Resident Care - Level 2 for Jun: Williams, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,13210286,,06/09/2013,3870,"Invoice-Private",,06/09/2013,06/09/2013,,13215978MO,-2709.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... B.Williams 201306: Williams, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,900,900,"CR:Resident Care -... B.Williams 201306: Williams, Barbara",,,,,,,,,,,,,,,

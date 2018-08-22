@@ -1,0 +1,6 @@
+BATCH,,201104,B,5499.0000,
+INVOICE,IN,,15310215,,04/22/2011,2592.0000,"Invoice-Private",,04/22/2011,04/22/2011,,15315423MO,-3291.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,27,96.0000,2592.00,"Basic Service Fee - Studio for Apr: Schut, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310215,,04/22/2011,2907,"Invoice-Private",,04/22/2011,04/22/2011,,15315423MO,-3291.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2880,2880,"CR:Basic Service F... M.Schut 201104: Schut, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... M.Schut 201104: Schut, Marie",,,,,,,,,,,,,,,

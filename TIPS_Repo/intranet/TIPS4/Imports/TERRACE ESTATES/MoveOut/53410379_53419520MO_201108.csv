@@ -1,0 +1,5 @@
+BATCH,,201108,B,4990.0000,
+INVOICE,CM,,53410379,,08/01/2011,4990,"Invoice-Private",,08/01/2011,08/10/2011,,53419520MO,-4990.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2883,2883,"CR:Basic Service F... G.Christus 201108: Christus, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... G.Christus 201108: Christus, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2077,2077,"CR:Resident Care -... G.Christus 201108: Christus, George",,,,,,,,,,,,,,,

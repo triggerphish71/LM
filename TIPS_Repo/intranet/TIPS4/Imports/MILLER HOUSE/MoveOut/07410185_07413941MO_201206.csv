@@ -1,0 +1,8 @@
+BATCH,,201206,B,5604.0000,
+INVOICE,IN,,07410185,,06/26/2012,2634.0000,"Invoice-Private",,06/26/2012,06/26/2012,,07413941MO,-3343.0000,,,,,,,,,,
+TRANSACTION,3320,010305074,1,60.0000,60.00,"CR:Limited Term Di... R.Remaklus 201206: Remaklus, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,26,15.0000,390.00,"Resident Care - Level 1 for Jun: Remaklus, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305074,26,84.0000,2184.00,"Room and Board - Deluxe for Jun: Remaklus, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,07410185,,06/26/2012,2970,"Invoice-Private",,06/26/2012,06/26/2012,,07413941MO,-3343.0000,,,,,,,,,,
+TRANSACTION,3027,010305074,1,450,450,"CR:Resident Care -... R.Remaklus 201206: Remaklus, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2520,2520,"CR:Room and Board ... R.Remaklus 201206: Remaklus, Rita",,,,,,,,,,,,,,,

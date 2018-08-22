@@ -1,0 +1,7 @@
+BATCH,,201212,B,7956.3600,
+INVOICE,IN,,15310186,,12/22/2012,3302.6400,"Invoice-Private",,12/22/2012,12/22/2012,,15316365MO,-6004.8000,,,,,,,,,,
+TRANSACTION,3020,010103153,22,100.0000,2200.00,"Basic Service Fee - Studio for Dec: Jones, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,22,50.1200,1102.64,"Resident Care - Level 28 for Dec: Jones, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,15310186,,12/22/2012,4653.72,"Invoice-Private",,12/22/2012,12/22/2012,,15316365MO,-6004.8000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... E.Jones 201212: Jones, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1553.72,1553.72,"CR:Resident Care -... E.Jones 201212: Jones, Ethel",,,,,,,,,,,,,,,

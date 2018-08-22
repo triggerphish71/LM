@@ -1,0 +1,7 @@
+BATCH,,201109,B,2934.0000,
+INVOICE,IN,,19010215,,09/01/2011,1467.0000,"Invoice-Private",,09/01/2011,09/10/2011,,19014217MO,-3033.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Burton , Sr., Allen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,30,48.0000,1440.00,"Credit for Limited Term Discount: Burton , Sr., Allen",,,,,,,,,,,,,,,
+INVOICE,CM,,19010215,,09/01/2011,1467,"Invoice-Private",,09/01/2011,09/10/2011,,19014217MO,-3033.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Burton , Sr., Allen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,30,48,1440,"Limited Term Discount: Burton , Sr., Allen",,,,,,,,,,,,,,,

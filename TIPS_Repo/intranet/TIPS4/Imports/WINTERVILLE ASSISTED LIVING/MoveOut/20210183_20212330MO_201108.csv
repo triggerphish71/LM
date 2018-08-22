@@ -1,0 +1,8 @@
+BATCH,,201108,B,6440.0000,
+INVOICE,IN,,20210183,,08/17/2011,1703.0000,"Invoice-Private",,08/17/2011,08/17/2011,,20212330MO,-6604.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,13,51.0000,663.00,"Resident Care - Level 5 for Aug: Fox, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,13,80.0000,1040.00,"Studio for Aug: Fox, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,20210183,,08/17/2011,4737,"Invoice-Private",,08/17/2011,08/17/2011,,20212330MO,-6604.0000,,,,,,,,,,
+TRANSACTION,3216,010216202,1,1200,1200,"CR:New Resident Fe... E.Fox 201108: Fox, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1377,1377,"CR:Resident Care -... E.Fox 201108: Fox, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2160,2160,"CR:Studio... E.Fox 201108: Fox, Evelyn",,,,,,,,,,,,,,,

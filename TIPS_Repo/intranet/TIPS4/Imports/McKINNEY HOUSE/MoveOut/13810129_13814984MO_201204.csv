@@ -1,0 +1,8 @@
+BATCH,,201204,B,7368.0000,
+INVOICE,IN,,13810129,,04/28/2012,3588.0000,"Invoice-Private",,04/28/2012,04/28/2012,,13814984MO,-4036.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,60.0000,60.00,"CR:Limited Term Di... M.Brown 201204: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,28,96.0000,2688.00,"Basic Service Fee - Studio for Apr: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,28,30.0000,840.00,"Resident Care - Level 2 for Apr: Brown, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13810129,,04/28/2012,3780,"Invoice-Private",,04/28/2012,04/28/2012,,13814984MO,-4036.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2880,2880,"CR:Basic Service F... M.Brown 201204: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,900,900,"CR:Resident Care -... M.Brown 201204: Brown, Mary",,,,,,,,,,,,,,,

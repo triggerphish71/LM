@@ -1,0 +1,5 @@
+BATCH,,201203,B,1772.0000,
+INVOICE,IN,,16210137,,03/30/2012,1772.0000,"MoveIn-Andersen. Jens",,03/30/2012,03/30/2012,,16212914,5852.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,2,66.0000,132,"Basic Service Fee - Studio: Andersen. Jens",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,2,70.0000,140,"Resident Care - Level 5: Andersen. Jens",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Andersen. Jens",,,,,,,,,,,,,,,

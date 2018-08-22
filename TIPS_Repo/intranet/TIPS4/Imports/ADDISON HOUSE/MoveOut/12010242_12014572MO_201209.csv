@@ -1,0 +1,7 @@
+BATCH,,201209,B,2880.0000,
+INVOICE,IN,,12010242,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,12014572MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,1,60.0000,60.00,"CR:Limited Term Di... P.Stohler 201209: Stohler, Phil",,,,,,,,,,,,,,,
+INVOICE,CM,,12010242,,09/01/2012,2820,"Invoice-Private",,09/01/2012,09/10/2012,,12014572MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2340,2340,"CR:Basic Service F... P.Stohler 201209: Stohler, Phil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... P.Stohler 201209: Stohler, Phil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,450,450,"CR:Resident Care -... P.Stohler 201209: Stohler, Phil",,,,,,,,,,,,,,,

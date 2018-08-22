@@ -1,0 +1,5 @@
+BATCH,,201203,B,2721.0000,
+INVOICE,IN,,51910229,,03/24/2012,2721.0000,"MoveIn-Hull. Joseph",,03/24/2012,03/24/2012,,51913355,5356.0000,,,,,,,,,,
+TRANSACTION,3010,010103519,8,87.0000,696,"Basic Service Fee - Studio: Hull. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25.0000,25,"Monthly Cable: Hull. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103519,1,2000.0000,2000,"New Resident Fee: Hull. Joseph",,,,,,,,,,,,,,,

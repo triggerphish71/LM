@@ -1,0 +1,5 @@
+BATCH,,201109,B,2211.0000,
+INVOICE,IN,,03710194,,09/29/2011,2211.0000,"MoveIn-Oler. Mary",,09/29/2011,09/29/2011,,03714001,5119.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,2,93.0000,186,"Basic Service Fee - Studio         : Oler. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Oler. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,2000.0000,2000,"New Resident Fee: Oler. Mary",,,,,,,,,,,,,,,

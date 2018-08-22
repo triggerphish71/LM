@@ -1,0 +1,7 @@
+BATCH,,201203,B,174.0000,
+INVOICE,IN,,50210146,,03/01/2012,87.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50213286MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25.00,"Monthly Cable: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209502,31,2.0000,62.00,"Credit for Limited Term Discount: Fisher, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,50210146,,03/01/2012,87,"Invoice-Private",,03/01/2012,03/10/2012,,50213286MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"Credit for Monthly Cable: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209502,31,2,62,"Limited Term Discount: Fisher, Francis",,,,,,,,,,,,,,,

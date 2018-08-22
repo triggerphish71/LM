@@ -1,0 +1,8 @@
+BATCH,,201305,B,3836.0000,
+INVOICE,IN,,07510260,,05/03/2013,618.0000,"Invoice-Private",,05/03/2013,05/03/2013,,07515158MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,6,74.0000,444.00,"Basic Service Fee - Studio for May: Morris, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,6,29.0000,174.00,"Resident Care - Level 2 for May: Morris, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,07510260,,05/03/2013,3218,"Invoice-Private",,05/03/2013,05/03/2013,,07515158MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2294,2294,"CR:Basic Service F... R.Morris 201305: Morris, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... R.Morris 201305: Morris, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,899,899,"CR:Resident Care -... R.Morris 201305: Morris, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201307,B,4235.0000,
+INVOICE,IN,,50510145,,07/02/2013,4235.0000,"MoveIn-Hentchel. Jodi",,07/02/2013,07/02/2013,,50512061,4235.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,30,90.0000,2700,"Basic Service Fee - Studio: Hentchel. Jodi",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,30,26.0000,780,"Resident Care - Level 2: Hentchel. Jodi",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Hentchel. Jodi",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,730.0000,730,"New Resident Fee: Hentchel. Jodi",,,,,,,,,,,,,,,

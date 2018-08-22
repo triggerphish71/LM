@@ -1,0 +1,6 @@
+BATCH,,201111,B,3837.6000,
+INVOICE,IN,,20410188,,11/15/2011,2587.6000,"MoveIn-Hospice. Agape",,11/15/2011,11/15/2011,,20412697,3929.2000,,,,,,,,,,
+TRANSACTION,3010,010216204,16,83.6000,1337.6,"A.Hospice: Studio: Hospice. Agape",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216204,1,1250.0000,1250,"New Resident Fee: Hospice. Agape",,,,,,,,,,,,,,,
+INVOICE,CM,,20410188,,11/15/2011,1250.0000,"MoveIn-Hospice. Agape",,11/15/2011,11/15/2011,,20412697,3929.2000,,,,,,,,,,
+TRANSACTION,3216,010216204,1,1250,1250,"New Resident Fee: Hospice. Agape",,,,,,,,,,,,,,,

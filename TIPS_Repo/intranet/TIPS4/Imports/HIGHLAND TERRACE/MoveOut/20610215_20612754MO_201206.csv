@@ -1,0 +1,6 @@
+BATCH,,201206,B,3420.0000,
+INVOICE,IN,,20610215,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20612754MO,-4022.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,60.0000,60.00,"CR:Limited Term Di... H.Purvis 201206: Purvis, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,20610215,,06/01/2012,3360,"Invoice-Private",,06/01/2012,06/10/2012,,20612754MO,-4022.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,630,630,"CR:Resident Care -... H.Purvis 201206: Purvis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2730,2730,"CR:Studio... H.Purvis 201206: Purvis, Helen",,,,,,,,,,,,,,,

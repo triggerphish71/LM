@@ -1,0 +1,5 @@
+BATCH,,201110,B,2130.0000,
+INVOICE,IN,,07210178,,10/27/2011,2130.0000,"MoveIn-Reinhart. Joseph",,10/27/2011,10/27/2011,,07213875,5910.0000,,,,,,,,,,
+TRANSACTION,3010,010305072,5,93.0000,465,"Basic Service Fee - Studio         : Reinhart. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305072,5,33.0000,165,"Resident Care - Level 2: Reinhart. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305072,1,1500.0000,1500,"New Resident Fee: Reinhart. Joseph",,,,,,,,,,,,,,,

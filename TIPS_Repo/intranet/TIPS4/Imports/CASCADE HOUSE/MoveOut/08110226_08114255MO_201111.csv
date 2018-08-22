@@ -1,0 +1,5 @@
+BATCH,,201111,B,4912.0000,
+INVOICE,CM,,08110226,,11/01/2011,4912,"Invoice-Private",,11/01/2011,11/10/2011,,08114255MO,-4912.0000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,3000,3000,"CR:Basic Service F... P.Seldal 201111: Seldal, Patti",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... P.Seldal 201111: Seldal, Patti",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1887,1887,"CR:Resident Care -... P.Seldal 201111: Seldal, Patti",,,,,,,,,,,,,,,

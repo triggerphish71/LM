@@ -1,0 +1,7 @@
+BATCH,,201206,B,5134.0000,
+INVOICE,IN,,53110283,,06/04/2012,604.0000,"Invoice-Private",,06/04/2012,06/04/2012,,53114132MO,-3926.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,4,123.0000,492.00,"Basic Service Fee - One Bedroom for Jun: Ellertson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,4,28.0000,112.00,"Resident Care - Level 2 for Jun: Ellertson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,53110283,,06/04/2012,4530,"Invoice-Private",,06/04/2012,06/04/2012,,53114132MO,-3926.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3690,3690,"CR:Basic Service F... D.Ellertson 201206: Ellertson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,840,840,"CR:Resident Care -... D.Ellertson 201206: Ellertson, Dorothy",,,,,,,,,,,,,,,

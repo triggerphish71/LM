@@ -1,0 +1,7 @@
+BATCH,,201205,B,3901.0000,
+INVOICE,IN,,18910302,,05/14/2012,3901.0000,"MoveIn-Harvey. Roberta",,05/14/2012,05/14/2012,,18915228,3901.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,18,89.0000,1602,"Basic Service Fee - Studio: Harvey. Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,18,33.0000,594,"Resident Care - Level 2: Harvey. Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Harvey. Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,1500.0000,1500,"New Tenant Fee: Harvey. Roberta",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,18,10.0000,180,"CC Meals: Harvey. Roberta",,,,,,,,,,,,,,,

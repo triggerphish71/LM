@@ -1,0 +1,5 @@
+BATCH,,201303,B,4380.0000,
+INVOICE,IN,,15610329,,03/12/2013,4380.0000,"MoveIn-Haferland. Wilma",,03/12/2013,03/12/2013,,15615647,4380.0000,,,,,,,,,,
+TRANSACTION,3010,010211156,20,87.0000,1740,"Basic Service Fee - Studio: Haferland. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211156,20,32.0000,640,"Resident Care - Level 2: Haferland. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000.0000,2000,"New Resident Fee: Haferland. Wilma",,,,,,,,,,,,,,,

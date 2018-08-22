@@ -1,0 +1,5 @@
+BATCH,,201204,B,3035.0000,
+INVOICE,IN,,50310275,,04/01/2012,3035.0000,"April_Rent-Coombe. John",,04/01/2012,04/10/2012,,50314113,5670.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,30,75.0000,2250,"Basic Service Fee - Studio: Coombe. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,30,25.0000,750,"Resident Care - Level 2: Coombe. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Coombe. John",,,,,,,,,,,,,,,

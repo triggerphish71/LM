@@ -1,0 +1,6 @@
+BATCH,,201202,B,3603.0000,
+INVOICE,IN,,13510280,,02/17/2012,3603.0000,"MoveIn-Cooper. Earle",,02/17/2012,02/17/2012,,13515073,7384.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,13,90.0000,1170,"Basic Service Fee - Studio: Cooper. Earle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309135,13,31.0000,403,"Resident Care - Level 2: Cooper. Earle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Cooper. Earle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Cooper. Earle",,,,,,,,,,,,,,,

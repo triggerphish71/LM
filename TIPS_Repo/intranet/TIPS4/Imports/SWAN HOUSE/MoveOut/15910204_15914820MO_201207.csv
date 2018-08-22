@@ -1,0 +1,7 @@
+BATCH,,201207,B,2974.0000,
+INVOICE,IN,,15910204,,07/01/2012,1487.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15914820MO,-5641.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Rees, Maynard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,31,47.0000,1457.00,"Credit for Limited Term Discount: Rees, Maynard",,,,,,,,,,,,,,,
+INVOICE,CM,,15910204,,07/01/2012,1487,"Invoice-Private",,07/01/2012,07/10/2012,,15914820MO,-5641.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Rees, Maynard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,31,47,1457,"Limited Term Discount: Rees, Maynard",,,,,,,,,,,,,,,

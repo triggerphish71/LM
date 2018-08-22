@@ -1,0 +1,6 @@
+BATCH,,201205,B,3534.0000,
+INVOICE,IN,,20410134,,05/01/2012,217.0000,"Invoice-Private",,05/01/2012,05/10/2012,,20412997MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,217.0000,217.00,"CR:Limited Term Di... L.Burnett 201205: Burnett, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,20410134,,05/01/2012,3317,"Invoice-Private",,05/01/2012,05/10/2012,,20412997MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,682,682,"CR:Resident Care -... L.Burnett 201205: Burnett, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2635,2635,"CR:Studio... L.Burnett 201205: Burnett, Louise",,,,,,,,,,,,,,,

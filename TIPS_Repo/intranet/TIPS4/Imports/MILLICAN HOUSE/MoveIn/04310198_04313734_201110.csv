@@ -1,0 +1,6 @@
+BATCH,,201110,B,3883.0000,
+INVOICE,IN,,04310198,,10/14/2011,3883.0000,"MoveIn-Gray. Ollie Mae",,10/14/2011,10/14/2011,,04313734,3883.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,18,95.0000,1710,"Basic Service Fee - Studio         : Gray. Ollie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,18,36.0000,648,"Resident Care - Level 2: Gray. Ollie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Gray. Ollie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Gray. Ollie Mae",,,,,,,,,,,,,,,

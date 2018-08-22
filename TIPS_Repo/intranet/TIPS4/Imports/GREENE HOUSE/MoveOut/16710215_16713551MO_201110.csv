@@ -1,0 +1,5 @@
+BATCH,,201110,B,60.0000,
+INVOICE,IN,,16710215,,10/01/2011,30.0000,"Invoice-Private",,10/01/2011,10/10/2011,,16713551MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Reiling, Lavina",,,,,,,,,,,,,,,
+INVOICE,CM,,16710215,,10/01/2011,30,"Invoice-Private",,10/01/2011,10/10/2011,,16713551MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Reiling, Lavina",,,,,,,,,,,,,,,

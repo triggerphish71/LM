@@ -1,0 +1,5 @@
+BATCH,,201108,B,50.0000,
+INVOICE,IN,,04310185,,08/01/2011,25.0000,"Invoice-Private",,08/01/2011,08/10/2011,,04313649MO,-1801.0000,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25.00,"Monthly Cable: McDaniel, Irmgard",,,,,,,,,,,,,,,
+INVOICE,CM,,04310185,,08/01/2011,25,"Invoice-Private",,08/01/2011,08/10/2011,,04313649MO,-1801.0000,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25,25,"Credit for Monthly Cable: McDaniel, Irmgard",,,,,,,,,,,,,,,

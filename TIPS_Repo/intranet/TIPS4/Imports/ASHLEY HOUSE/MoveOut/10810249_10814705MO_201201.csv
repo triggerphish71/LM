@@ -1,0 +1,8 @@
+BATCH,,201201,B,4765.0000,
+INVOICE,IN,,10810249,,01/12/2012,1320.0000,"Invoice-Private",,01/12/2012,01/12/2012,,10814705MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,12,84.0000,1008.00,"Basic Service Fee - Studio for Jan: Bowsher, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,12,26.0000,312.00,"Resident Care - Level 2 for Jan: Bowsher, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,10810249,,01/12/2012,3445,"Invoice-Private",,01/12/2012,01/12/2012,,10814705MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Basic Service F... C.Bowsher 201201: Bowsher, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35,35,"CR:Pendant Fee... C.Bowsher 201201: Bowsher, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,806,806,"CR:Resident Care -... C.Bowsher 201201: Bowsher, Carol",,,,,,,,,,,,,,,

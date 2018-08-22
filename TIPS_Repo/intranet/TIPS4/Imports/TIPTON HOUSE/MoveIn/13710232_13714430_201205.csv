@@ -1,0 +1,5 @@
+BATCH,,201205,B,4050.0000,
+INVOICE,IN,,13710232,,05/04/2012,4050.0000,"MoveIn-Kistler. Frances",,05/04/2012,05/04/2012,,13714430,4050.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,28,90.0000,2520,"Basic Service Fee - Studio: Kistler. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Kistler. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Kistler. Frances",,,,,,,,,,,,,,,

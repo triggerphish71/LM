@@ -1,0 +1,5 @@
+BATCH,,201111,B,3755.0000,
+INVOICE,IN,,15410230,,11/01/2011,3755.0000,"November_Rent-Engelbart. Roger",,11/01/2011,11/10/2011,,15414623,6782.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,30,74.0000,2220,"Basic Service Fee - Deluxe: Engelbart. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,30,50.0000,1500,"Resident Care - Level 3: Engelbart. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Engelbart. Roger",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,3090.0000,
+INVOICE,IN,,19310344,,11/01/2011,3090.0000,"November_Rent-Myers. Robert",,11/01/2011,11/10/2011,,19314948,5002.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,30,76.0000,2280,"Basic Service Fee - Studio: Myers. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,30,17.0000,510,"Resident Care - Level 1: Myers. Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10.0000,300,"CC Meals: Myers. Robert",,,,,,,,,,,,,,,

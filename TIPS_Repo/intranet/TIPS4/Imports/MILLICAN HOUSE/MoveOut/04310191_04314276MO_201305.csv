@@ -1,0 +1,7 @@
+BATCH,,201305,B,6336.0000,
+INVOICE,IN,,04310191,,05/17/2013,2244.0000,"Invoice-Private",,05/17/2013,05/17/2013,,04314276MO,-5808.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,17,96.0000,1632.00,"Basic Service Fee - Studio for May: Valenta, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,17,36.0000,612.00,"Resident Care - Level 2 for May: Valenta, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,04310191,,05/17/2013,4092,"Invoice-Private",,05/17/2013,05/17/2013,,04314276MO,-5808.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2976,2976,"CR:Basic Service F... J.Valenta 201305: Valenta, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,1116,1116,"CR:Resident Care -... J.Valenta 201305: Valenta, Joe",,,,,,,,,,,,,,,

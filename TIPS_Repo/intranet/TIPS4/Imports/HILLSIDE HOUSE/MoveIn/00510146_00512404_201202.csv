@@ -1,0 +1,5 @@
+BATCH,,201202,B,4497.4800,
+INVOICE,IN,,00510146,,02/02/2012,4497.4800,"MoveIn-Knight. Gorgia",,02/02/2012,02/02/2012,,00512404,4497.4800,,,,,,,,,,
+TRANSACTION,3010,010101005,28,73.0000,2044,"Basic Service Fee - Studio: Knight. Gorgia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,28,51.9100,1453.48,"Resident Care - Level 29: Knight. Gorgia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Knight. Gorgia",,,,,,,,,,,,,,,

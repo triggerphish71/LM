@@ -1,0 +1,8 @@
+BATCH,,201202,B,6800.4500,
+INVOICE,IN,,00910076,,02/26/2012,3245.3400,"Invoice-Private",,02/26/2012,02/26/2012,,00913549MO,-4048.0600,,,,,,,,,,
+TRANSACTION,3320,010101009,1,58.0000,58.00,"CR:Limited Term Di... M.Bronson 201202: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,26,85.0000,2210.00,"Basic Service Fee - Studio for Feb: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,26,37.5900,977.34,"Resident Care - Level 21 for Feb: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+INVOICE,CM,,00910076,,02/26/2012,3555.11,"Invoice-Private",,02/26/2012,02/26/2012,,00913549MO,-4048.0600,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2465,2465,"CR:Basic Service F... M.Bronson 201202: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1090.11,1090.11,"CR:Resident Care -... M.Bronson 201202: Bronson, Mildred Rowena",,,,,,,,,,,,,,,

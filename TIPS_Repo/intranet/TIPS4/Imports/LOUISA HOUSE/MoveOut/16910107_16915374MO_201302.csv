@@ -1,0 +1,8 @@
+BATCH,,201302,B,5914.8000,
+INVOICE,IN,,16910107,,02/07/2013,1177.9600,"Invoice-Private",,02/07/2013,02/07/2013,,16915374MO,-3558.8800,,,,,,,,,,
+TRANSACTION,3020,010103169,7,111.0000,777.00,"Basic Service Fee - One Bedroom for Feb: Bailey, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,7,57.2800,400.96,"Resident Care - Level 32 for Feb: Bailey, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,16910107,,02/07/2013,4736.84,"Invoice-Private",,02/07/2013,02/07/2013,,16915374MO,-3558.8800,,,,,,,,,,
+TRANSACTION,3020,010103169,1,3108,3108,"CR:Basic Service F... L.Bailey 201302: Bailey, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... L.Bailey 201302: Bailey, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,1603.84,1603.84,"CR:Resident Care -... L.Bailey 201302: Bailey, Lucille",,,,,,,,,,,,,,,

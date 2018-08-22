@@ -1,0 +1,4 @@
+BATCH,,201201,B,3410.0000,
+INVOICE,CM,,09210246,,01/01/2012,3410,"Invoice-Private",,01/01/2012,01/10/2012,,09214680MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2418,2418,"CR:Basic Service F... M.Burns 201201: Burns, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,992,992,"CR:Resident Care -... M.Burns 201201: Burns, Mary",,,,,,,,,,,,,,,

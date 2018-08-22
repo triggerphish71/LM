@@ -1,0 +1,6 @@
+BATCH,,201112,B,2759.0000,
+INVOICE,IN,,07510218,,12/01/2011,775.0000,"Invoice-Private",,12/01/2011,12/10/2011,,07514852MO,-1209.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,1,775.0000,775.00,"CR:Limited Term Di... B.Ketchum 201112: Ketchum, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,07510218,,12/01/2011,1984,"Invoice-Private",,12/01/2011,12/10/2011,,07514852MO,-1209.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,1085,1085,"CR:Basic Service F... B.Ketchum 201112: Ketchum, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,899,899,"CR:Resident Care -... B.Ketchum 201112: Ketchum, Bessie",,,,,,,,,,,,,,,

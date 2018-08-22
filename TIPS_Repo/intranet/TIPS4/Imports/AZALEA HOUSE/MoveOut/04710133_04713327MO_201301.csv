@@ -1,0 +1,6 @@
+BATCH,,201301,B,4929.0000,
+INVOICE,IN,,04710133,,01/01/2013,961.0000,"Invoice-Private",,01/01/2013,01/10/2013,,04713327MO,-5630.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,1,961.0000,961.00,"CR:Limited Term Di... J.Barham 201301: Barham, James",,,,,,,,,,,,,,,
+INVOICE,CM,,04710133,,01/01/2013,3968,"Invoice-Private",,01/01/2013,01/10/2013,,04713327MO,-5630.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2976,2976,"CR:Basic Service F... J.Barham 201301: Barham, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,992,992,"CR:Resident Care -... J.Barham 201301: Barham, James",,,,,,,,,,,,,,,

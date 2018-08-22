@@ -1,0 +1,8 @@
+BATCH,,201305,B,7203.0000,
+INVOICE,IN,,11910257,,05/25/2013,3200.0000,"Invoice-Private",,05/25/2013,05/25/2013,,11916345MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,25,92.0000,2300.00,"Basic Service Fee - Studio for May: Bowser, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,25,36.0000,900.00,"Resident Care - Level 2 for May: Bowser, Sara",,,,,,,,,,,,,,,
+INVOICE,CM,,11910257,,05/25/2013,4003,"Invoice-Private",,05/25/2013,05/25/2013,,11916345MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2852,2852,"CR:Basic Service F... S.Bowser 201305: Bowser, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,35,35,"CR:Monthly Cable... S.Bowser 201305: Bowser, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1116,1116,"CR:Resident Care -... S.Bowser 201305: Bowser, Sara",,,,,,,,,,,,,,,

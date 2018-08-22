@@ -1,0 +1,7 @@
+BATCH,,201309,B,100.0000,
+INVOICE,IN,,19810318,,09/01/2013,50.0000,"Invoice-Private",,09/01/2013,09/10/2013,,19818987MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Laufenburg, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3228,010112198,1,20.0000,20.00,"Sharps Disposal - 4+ Per Day: Laufenburg, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,19810318,,09/01/2013,50,"Invoice-Private",,09/01/2013,09/10/2013,,19818987MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Laufenburg, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3228,010112198,1,20,20,"Credit for Sharps Disposal - 4+ Per Day: Laufenburg, Roy",,,,,,,,,,,,,,,

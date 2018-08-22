@@ -1,0 +1,6 @@
+BATCH,,201109,B,4011.0000,
+INVOICE,IN,,02910288,,09/01/2011,1101.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02915336MO,-1809.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,810.0000,810.00,"CR:Limited Term Di... J.Piccinini 201109: Piccinini, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,3,97.0000,291.00,"Basic Service Fee - Studio for Sep: Piccinini, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,02910288,,09/01/2011,2910,"Invoice-Private",,09/01/2011,09/10/2011,,02915336MO,-1809.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2910,2910,"CR:Basic Service F... J.Piccinini 201109: Piccinini, Joyce",,,,,,,,,,,,,,,

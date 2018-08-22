@@ -1,0 +1,7 @@
+BATCH,,201111,B,3920.0000,
+INVOICE,IN,,10610124,,11/05/2011,560.0000,"Invoice-Private",,11/05/2011,11/05/2011,,10612364MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,5,84.0000,420.00,"Basic Service Fee - Studio for Nov: Ellsworth, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,5,28.0000,140.00,"Resident Care - Level 2 for Nov: Ellsworth, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,10610124,,11/05/2011,3360,"Invoice-Private",,11/05/2011,11/05/2011,,10612364MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2520,2520,"CR:Basic Service F... M.Ellsworth 201111: Ellsworth, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,840,840,"CR:Resident Care -... M.Ellsworth 201111: Ellsworth, Martha",,,,,,,,,,,,,,,

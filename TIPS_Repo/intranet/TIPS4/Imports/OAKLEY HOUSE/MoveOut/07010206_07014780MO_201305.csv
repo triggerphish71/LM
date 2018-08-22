@@ -1,0 +1,7 @@
+BATCH,,201305,B,6282.0000,
+INVOICE,IN,,07010206,,05/01/2013,1705.0000,"Invoice-Private",,05/01/2013,05/10/2013,,07014780MO,-4269.0000,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1705.0000,1705.00,"CR:Resident Care L... D.Grilliot 201305: Grilliot, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,07010206,,05/01/2013,4577,"Invoice-Private",,05/01/2013,05/10/2013,,07014780MO,-4269.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2294,2294,"CR:Basic Service F... D.Grilliot 201305: Grilliot, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... D.Grilliot 201305: Grilliot, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2263,2263,"CR:Resident Care -... D.Grilliot 201305: Grilliot, Delbert",,,,,,,,,,,,,,,

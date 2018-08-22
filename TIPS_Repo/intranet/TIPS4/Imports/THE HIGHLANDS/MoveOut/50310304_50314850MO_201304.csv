@@ -1,0 +1,8 @@
+BATCH,,201304,B,4832.0000,
+INVOICE,IN,,50310304,,04/09/2013,1107.0000,"Invoice-Private",,04/09/2013,04/09/2013,,50314850MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,9,75.0000,675.00,"Basic Service Fee - Studio for Apr: Girdler, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,9,48.0000,432.00,"Resident Care - Level 4 for Apr: Girdler, June",,,,,,,,,,,,,,,
+INVOICE,CM,,50310304,,04/09/2013,3725,"Invoice-Private",,04/09/2013,04/09/2013,,50314850MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2250,2250,"CR:Basic Service F... J.Girdler 201304: Girdler, June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... J.Girdler 201304: Girdler, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1440,1440,"CR:Resident Care -... J.Girdler 201304: Girdler, June",,,,,,,,,,,,,,,

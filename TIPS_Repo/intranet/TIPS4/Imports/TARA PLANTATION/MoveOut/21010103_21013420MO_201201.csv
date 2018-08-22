@@ -1,0 +1,7 @@
+BATCH,,201201,B,7998.7500,
+INVOICE,IN,,21010103,,01/14/2012,2488.5000,"Invoice-Private",,01/14/2012,01/14/2012,,21013420MO,-8176.5000,,,,,,,,,,
+TRANSACTION,3027,010216210,14,83.7500,1172.50,"Resident Care - Level 6+13 pts for Jan: Pope, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,14,94.0000,1316.00,"Room and Board - Studio for Jan: Pope, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,21010103,,01/14/2012,5510.25,"Invoice-Private",,01/14/2012,01/14/2012,,21013420MO,-8176.5000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,2596.25,2596.25,"CR:Resident Care -... E.Pope 201201: Pope, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Room and Board ... E.Pope 201201: Pope, Edith",,,,,,,,,,,,,,,

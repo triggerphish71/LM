@@ -1,0 +1,8 @@
+BATCH,,201112,B,5596.0000,
+INVOICE,IN,,11510250,,11/26/2011,1664.0000,"Invoice-Private",,11/26/2011,11/26/2011,,11513983MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,26,64.0000,1664.00,"Basic Service Fee - Studio for Nov: Bennett, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,11510250,,11/26/2011,1948,"Invoice-Private",,11/26/2011,11/26/2011,,11513983MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1920,1920,"CR:Basic Service F... J.Bennett 201111: Bennett, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... J.Bennett 201111: Bennett, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,11510250,,12/01/2011,1984,"Invoice-Private",,12/01/2011,12/10/2011,,11513983MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1984,1984,"CR:Basic Service F... J.Bennett 201112: Bennett, Jerry",,,,,,,,,,,,,,,

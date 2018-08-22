@@ -1,0 +1,5 @@
+BATCH,,201302,B,2320.0000,
+INVOICE,IN,,51310230,,02/27/2013,2320.0000,"MoveIn-Seymour. Virgina",,02/27/2013,02/27/2013,,51314342,7280.0000,,,,,,,,,,
+TRANSACTION,3010,010310513,2,133.0000,266,"Basic Service Fee - One Bedroom: Seymour. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310513,2,27.0000,54,"Resident Care - Level 2: Seymour. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310513,1,2000.0000,2000,"New Resident Fee: Seymour. Virgina",,,,,,,,,,,,,,,

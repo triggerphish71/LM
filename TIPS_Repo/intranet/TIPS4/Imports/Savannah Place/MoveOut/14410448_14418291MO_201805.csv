@@ -1,0 +1,7 @@
+BATCH,,201805,B,6052.2200,
+INVOICE,IN,,14410448,,05/07/2018,1973.5500,"Invoice-Private",,05/07/2018,05/07/2018,,14418291MO,-2105.1200,,,,,,,,,,
+TRANSACTION,3020,010008144,15,111.5700,1673.55,"Basic Service Fee - Studio  for May: Adams, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008144,15,20.0000,300.00,"Resident Care - Level 1  for May: Adams, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,14410448,,05/07/2018,4078.67,"Invoice-Private",,05/07/2018,05/07/2018,,14418291MO,-2105.1200,,,,,,,,,,
+TRANSACTION,3020,010008144,1,3458.67,3458.67,"CR:Basic Service F... M.Adams 201805: Adams, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008144,1,620,620,"CR:Resident Care -... M.Adams 201805: Adams, Marian",,,,,,,,,,,,,,,

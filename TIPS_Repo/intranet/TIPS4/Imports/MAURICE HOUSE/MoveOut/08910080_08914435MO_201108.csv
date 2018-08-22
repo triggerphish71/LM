@@ -1,0 +1,8 @@
+BATCH,,201108,B,4162.3000,
+INVOICE,IN,,08910080,,08/25/2011,1268.2500,"Invoice-Medicaid",,08/25/2011,08/25/2011,,08914435MO,-4449.8500,,,,,,,,,,
+TRANSACTION,3021,010306089,25,27.3700,684.25,"Medicaid Co-Pay for Aug: Everly, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,25,23.3600,584.00,"Medicaid Room & Board for Aug: Everly, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,08910080,,08/25/2011,2894.05,"Invoice-Medicaid",,08/25/2011,08/25/2011,,08914435MO,-4449.8500,,,,,,,,,,
+TRANSACTION,3021,010306089,1,848.52,848.52,"CR:Medicaid Co-Pay... C.Everly 201108: Everly, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,724.05,724.05,"CR:Medicaid Room &... C.Everly 201108: Everly, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3022,010306089,1,1321.48,1321.48,"CR:State Medicaid... C.Everly 201108: Everly, Catherine",,,,,,,,,,,,,,,

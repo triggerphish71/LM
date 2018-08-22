@@ -1,0 +1,6 @@
+BATCH,,201105,B,2642.0000,
+INVOICE,IN,,14610224,,05/19/2011,2642.0000,"MoveIn-Ingle. Opal",,05/19/2011,05/19/2011,,14614005,6392.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,13,89.0000,1157,"Basic Service Fee - Studio         : Ingle. Opal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309146,13,35.0000,455,"Resident Care - Level 2: Ingle. Opal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Ingle. Opal",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,1000.0000,1000,"New Resident Fee: Ingle. Opal",,,,,,,,,,,,,,,

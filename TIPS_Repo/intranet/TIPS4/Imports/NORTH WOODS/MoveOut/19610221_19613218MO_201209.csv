@@ -1,0 +1,8 @@
+BATCH,,201209,B,6522.0000,
+INVOICE,IN,,19610221,,09/01/2012,2562.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19613218MO,-1398.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,21,87.0000,1827.00,"Basic Service Fee - Studio for Sep: Clemons, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,21,35.0000,735.00,"Resident Care - Level 3 for Sep: Clemons, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,19610221,,09/01/2012,3960,"Invoice-Private",,09/01/2012,09/10/2012,,19613218MO,-1398.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,2610,2610,"CR:Basic Service F... A.Clemons 201209: Clemons, Alice",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,300,300,"CR:CC Meals... A.Clemons 201209: Clemons, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,1050,1050,"CR:Resident Care -... A.Clemons 201209: Clemons, Alice",,,,,,,,,,,,,,,

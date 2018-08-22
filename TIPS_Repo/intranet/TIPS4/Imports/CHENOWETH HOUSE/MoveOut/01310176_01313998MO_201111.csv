@@ -1,0 +1,7 @@
+BATCH,,201111,B,3817.8000,
+INVOICE,IN,,01310176,,11/05/2011,1090.8000,"Invoice-Private",,11/05/2011,11/05/2011,,01313998MO,-1636.2000,,,,,,,,,,
+TRANSACTION,3020,010103013,12,79.0000,948.00,"Basic Service Fee - One Bedroom for Nov: Doucette, Maurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,12,11.9000,142.80,"Resident Care - Level 7 for Nov: Doucette, Maurice",,,,,,,,,,,,,,,
+INVOICE,CM,,01310176,,11/05/2011,2727,"Invoice-Private",,11/05/2011,11/05/2011,,01313998MO,-1636.2000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2370,2370,"CR:Basic Service F... M.Doucette 201111: Doucette, Maurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,357,357,"CR:Resident Care -... M.Doucette 201111: Doucette, Maurice",,,,,,,,,,,,,,,

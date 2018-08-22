@@ -1,0 +1,5 @@
+BATCH,,201209,B,3477.0000,
+INVOICE,IN,,03110345,,09/01/2012,3477.0000,"September_Rent-Garrison. Irene",,09/01/2012,09/10/2012,,03117001,7094.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,30,99.0000,2970,"Basic Service Fee - Studio: Garrison. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,30,16.0000,480,"Resident Care - Level 1: Garrison. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Garrison. Irene",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,6719.0000,
+INVOICE,IN,,19310183,,04/19/2012,2489.0000,"Invoice-Private",,04/19/2012,04/19/2012,,19315202MO,-6112.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,19,114.0000,2166.00,"Basic Service Fee - One Bedroom for Apr: Hill, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,19,17.0000,323.00,"Resident Care - Level 1 for Apr: Hill, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,19310183,,04/19/2012,4230,"Invoice-Private",,04/19/2012,04/19/2012,,19315202MO,-6112.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,3420,3420,"CR:Basic Service F... B.Hill 201204: Hill, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... B.Hill 201204: Hill, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,510,510,"CR:Resident Care -... B.Hill 201204: Hill, Blanche",,,,,,,,,,,,,,,

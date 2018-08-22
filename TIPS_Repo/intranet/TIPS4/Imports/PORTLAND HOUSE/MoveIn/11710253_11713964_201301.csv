@@ -1,0 +1,5 @@
+BATCH,,201301,B,3440.0000,
+INVOICE,IN,,11710253,,01/01/2013,3440.0000,"January_Rent-Righi. Emma",,01/01/2013,01/10/2013,,11713964,4910.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,31,93.0000,2883,"Basic Service Fee - Deluxe: Righi. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,31,17.0000,527,"Resident Care - Level 1: Righi. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Righi. Emma",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,1488.0000,
+INVOICE,IN,,21410325,,10/01/2012,744.0000,"Invoice-Private",,10/01/2012,10/10/2012,,21417832MO,-1524.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,24.0000,744.00,"Credit for Limited Term Discount: Freck, Virginia Ford",,,,,,,,,,,,,,,
+INVOICE,CM,,21410325,,10/01/2012,744,"Invoice-Private",,10/01/2012,10/10/2012,,21417832MO,-1524.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,24,744,"Limited Term Discount: Freck, Virginia Ford",,,,,,,,,,,,,,,

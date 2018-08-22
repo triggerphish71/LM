@@ -1,0 +1,7 @@
+BATCH,,201209,B,176.0000,
+INVOICE,IN,,01310140,,09/01/2012,88.0000,"Invoice-Private",,09/01/2012,09/10/2012,,01314135MO,-4450.1500,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Carpenter, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103013,30,2.0000,60.00,"Credit for Limited Term Discount: Carpenter, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,01310140,,09/01/2012,88,"Invoice-Private",,09/01/2012,09/10/2012,,01314135MO,-4450.1500,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Carpenter, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103013,30,2,60,"Limited Term Discount: Carpenter, Agnes",,,,,,,,,,,,,,,

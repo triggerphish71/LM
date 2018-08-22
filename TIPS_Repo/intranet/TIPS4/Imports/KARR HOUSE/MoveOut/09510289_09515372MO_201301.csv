@@ -1,0 +1,8 @@
+BATCH,,201301,B,7202.0900,
+INVOICE,IN,,09510289,,01/20/2013,3370.8000,"Invoice-Private",,01/20/2013,01/20/2013,,09515372MO,-3109.0100,,,,,,,,,,
+TRANSACTION,3320,010103095,1,899.0000,899.00,"CR:Limited Term Di... J.Hallam 201301: Hallam, Joscelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,20,86.0000,1720.00,"Basic Service Fee - Studio for Jan: Hallam, Joscelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,20,37.5900,751.80,"Resident Care - Level 21 for Jan: Hallam, Joscelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,09510289,,01/20/2013,3831.29,"Invoice-Private",,01/20/2013,01/20/2013,,09515372MO,-3109.0100,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... J.Hallam 201301: Hallam, Joscelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1165.29,1165.29,"CR:Resident Care -... J.Hallam 201301: Hallam, Joscelyn",,,,,,,,,,,,,,,

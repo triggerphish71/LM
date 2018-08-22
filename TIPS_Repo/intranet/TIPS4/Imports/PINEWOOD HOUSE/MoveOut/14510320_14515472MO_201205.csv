@@ -1,0 +1,7 @@
+BATCH,,201205,B,6160.0000,
+INVOICE,IN,,14510320,,05/09/2012,1386.0000,"Invoice-Private",,05/09/2012,05/09/2012,,14515472MO,-3388.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,9,99.0000,891.00,"Basic Service Fee - Studio for May: Smith, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,9,55.0000,495.00,"Resident Care - Level 4 for May: Smith, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,14510320,,05/09/2012,4774,"Invoice-Private",,05/09/2012,05/09/2012,,14515472MO,-3388.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3069,3069,"CR:Basic Service F... L.Smith 201205: Smith, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1705,1705,"CR:Resident Care -... L.Smith 201205: Smith, Louis",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,5336.0000,
+INVOICE,IN,,10910257,,12/01/2012,1808.0000,"Invoice-Private",,12/01/2012,12/10/2012,,10915048MO,-1720.0000,,,,,,,,,,
+TRANSACTION,3027,010305109,16,33.0000,528.00,"Resident Care - Level 2 for Dec: Parsons, Freda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305109,16,80.0000,1280.00,"Room and Board - Studio for Dec: Parsons, Freda",,,,,,,,,,,,,,,
+INVOICE,CM,,10910257,,12/01/2012,3528,"Invoice-Private",,12/01/2012,12/10/2012,,10915048MO,-1720.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... F.Parsons 201212: Parsons, Freda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,1023,1023,"CR:Resident Care -... F.Parsons 201212: Parsons, Freda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2480,2480,"CR:Room and Board ... F.Parsons 201212: Parsons, Freda",,,,,,,,,,,,,,,

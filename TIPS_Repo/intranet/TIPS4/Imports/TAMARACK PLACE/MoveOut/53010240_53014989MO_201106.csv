@@ -1,0 +1,8 @@
+BATCH,,201106,B,4338.0000,
+INVOICE,IN,,53010240,,06/01/2011,838.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53014989MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,7,114.0000,798.00,"Basic Service Fee-One Bedroom Premi for Jun: Flores, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40.00,"Monthly Cable: Flores, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,53010240,,06/01/2011,3500,"Invoice-Private",,06/01/2011,06/10/2011,,53014989MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3420,3420,"CR:Basic Service F... E.Flores 201106: Flores, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... E.Flores 201106: Flores, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"Credit for Monthly Cable: Flores, Ellen",,,,,,,,,,,,,,,

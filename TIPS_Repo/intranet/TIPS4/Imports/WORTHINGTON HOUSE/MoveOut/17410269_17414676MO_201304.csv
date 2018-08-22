@@ -1,0 +1,7 @@
+BATCH,,201304,B,4140.0000,
+INVOICE,IN,,17410269,,04/01/2013,690.0000,"Invoice-Private",,04/01/2013,04/10/2013,,17414676MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,6,70.0000,420.00,"Basic Service Fee - Studio for Apr: LaFollette, Patty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,6,45.0000,270.00,"Resident Care - Level 3 for Apr: LaFollette, Patty",,,,,,,,,,,,,,,
+INVOICE,CM,,17410269,,04/01/2013,3450,"Invoice-Private",,04/01/2013,04/10/2013,,17414676MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2100,2100,"CR:Basic Service F... P.LaFollette 201304: LaFollette, Patty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,1350,1350,"CR:Resident Care -... P.LaFollette 201304: LaFollette, Patty",,,,,,,,,,,,,,,

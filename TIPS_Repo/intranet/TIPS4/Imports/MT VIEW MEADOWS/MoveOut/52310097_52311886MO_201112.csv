@@ -1,0 +1,8 @@
+BATCH,,201112,B,6030.2000,
+INVOICE,IN,,52310097,,12/29/2011,3265.0000,"Invoice-Private",,12/29/2011,12/29/2011,,52311886MO,-2375.1400,,,,,,,,,,
+TRANSACTION,3320,010103523,1,589.0000,589.00,"CR:Limited Term Di... S.Manteufel 201112: Manteufel, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103523,30,79.0000,2370.00,"Basic Service Fee - Studio for Dec: Manteufel, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,30,10.2000,306.00,"Resident Care - Level 6 for Dec: Manteufel, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,52310097,,12/29/2011,2765.2,"Invoice-Private",,12/29/2011,12/29/2011,,52311886MO,-2375.1400,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2449,2449,"CR:Basic Service F... S.Manteufel 201112: Manteufel, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,316.2,316.2,"CR:Resident Care -... S.Manteufel 201112: Manteufel, Shirley",,,,,,,,,,,,,,,

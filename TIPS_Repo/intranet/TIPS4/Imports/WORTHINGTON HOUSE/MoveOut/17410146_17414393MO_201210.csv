@@ -1,0 +1,5 @@
+BATCH,,201210,B,2790.0000,
+INVOICE,IN,,17410146,,10/01/2012,1395.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17414393MO,-1450.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,45.0000,1395.00,"Credit for Limited Term Discount: House, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17410146,,10/01/2012,1395,"Invoice-Private",,10/01/2012,10/10/2012,,17414393MO,-1450.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,45,1395,"Limited Term Discount: House, James",,,,,,,,,,,,,,,

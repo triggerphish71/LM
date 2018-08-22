@@ -1,0 +1,7 @@
+BATCH,,201202,B,1316.0000,
+INVOICE,IN,,07310217,,02/01/2012,658.0000,"Invoice-Private",,02/01/2012,02/10/2012,,07315390MO,-1084.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20.00,"Monthly Cable: Crum, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305073,29,22.0000,638.00,"Credit for Limited Term Discount: Crum, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,07310217,,02/01/2012,658,"Invoice-Private",,02/01/2012,02/10/2012,,07315390MO,-1084.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"Credit for Monthly Cable: Crum, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305073,29,22,638,"Limited Term Discount: Crum, Rachel",,,,,,,,,,,,,,,

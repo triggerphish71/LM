@@ -1,0 +1,5 @@
+BATCH,,201303,B,2117.0000,
+INVOICE,IN,,12110321,,03/26/2013,2117.0000,"MoveIn-York. Robert",,03/26/2013,03/26/2013,,12116307,5062.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,6,97.0000,582,"Basic Service Fee - Studio: York. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: York. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,1500.0000,1500,"New Resident Fee: York. Robert",,,,,,,,,,,,,,,

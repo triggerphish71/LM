@@ -1,0 +1,5 @@
+BATCH,,201804,B,51.6000,
+INVOICE,IN,,07810403,,04/01/2018,25.8000,"Invoice-Private",,04/01/2018,04/10/2018,,07816614MO,-2337.8000,,,,,,,,,,
+TRANSACTION,3260,010004078,1,25.8000,25.80,"Monthly Cable: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,
+INVOICE,CM,,07810403,,04/01/2018,25.8,"Invoice-Private",,04/01/2018,04/10/2018,,07816614MO,-2337.8000,,,,,,,,,,
+TRANSACTION,3260,010004078,1,25.8,25.8,"Credit for Monthly Cable: Sweeney, Virginia (Teena)",,,,,,,,,,,,,,,

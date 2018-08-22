@@ -1,0 +1,5 @@
+BATCH,,201210,B,54.0000,
+INVOICE,IN,,51110181,,10/01/2012,27.0000,"Invoice-Private",,10/01/2012,10/10/2012,,51112544MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Hudec, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,51110181,,10/01/2012,27,"Invoice-Private",,10/01/2012,10/10/2012,,51112544MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Hudec, Joseph",,,,,,,,,,,,,,,

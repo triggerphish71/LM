@@ -1,0 +1,7 @@
+BATCH,,201108,B,8262.0000,
+INVOICE,IN,,07310137,,08/20/2011,3240.0000,"Invoice-Private",,08/20/2011,08/20/2011,,07315226MO,-6642.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,20,68.0000,1360.00,"Resident Care - Level 4 for Aug: Heigel, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,20,94.0000,1880.00,"Room and Board - Studio for Aug: Heigel, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,07310137,,08/20/2011,5022,"Invoice-Private",,08/20/2011,08/20/2011,,07315226MO,-6642.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2108,2108,"CR:Resident Care -... R.Heigel 201108: Heigel, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2914,2914,"CR:Room and Board ... R.Heigel 201108: Heigel, Ralph",,,,,,,,,,,,,,,

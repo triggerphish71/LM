@@ -1,0 +1,7 @@
+BATCH,,201109,B,6369.0000,
+INVOICE,IN,,07210154,,09/01/2011,579.0000,"Invoice-Private",,09/01/2011,09/10/2011,,07213816MO,-5211.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,3,105.0000,315.00,"Basic Service Fee - Deluxe for Sep: Kilgore, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,3,88.0000,264.00,"Resident Care - Level 6 for Sep: Kilgore, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,07210154,,09/01/2011,5790,"Invoice-Private",,09/01/2011,09/10/2011,,07213816MO,-5211.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3150,3150,"CR:Basic Service F... E.Kilgore 201109: Kilgore, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2640,2640,"CR:Resident Care -... E.Kilgore 201109: Kilgore, Edith",,,,,,,,,,,,,,,

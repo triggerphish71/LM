@@ -1,0 +1,7 @@
+BATCH,,201210,B,1860.0000,
+INVOICE,IN,,19310254,,10/01/2012,930.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19315371MO,-2140.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Bonnema, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315193,31,20.0000,620.00,"Credit for Limited Term Discount: Bonnema, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,19310254,,10/01/2012,930,"Invoice-Private",,10/01/2012,10/10/2012,,19315371MO,-2140.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Bonnema, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315193,31,20,620,"Limited Term Discount: Bonnema, Dorothy",,,,,,,,,,,,,,,

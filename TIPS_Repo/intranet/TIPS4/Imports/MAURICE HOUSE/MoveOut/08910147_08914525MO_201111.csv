@@ -1,0 +1,7 @@
+BATCH,,201111,B,6474.0000,
+INVOICE,IN,,08910147,,11/09/2011,1494.0000,"Invoice-Private",,11/09/2011,11/09/2011,,08914525MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3027,010306089,9,49.0000,441.00,"Resident Care - Level 3 for Nov: Bianco, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,9,117.0000,1053.00,"Room and Board - Deluxe for Nov: Bianco, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08910147,,11/09/2011,4980,"Invoice-Private",,11/09/2011,11/09/2011,,08914525MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1470,1470,"CR:Resident Care -... M.Bianco 201111: Bianco, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3510,3510,"CR:Room and Board ... M.Bianco 201111: Bianco, Mary",,,,,,,,,,,,,,,

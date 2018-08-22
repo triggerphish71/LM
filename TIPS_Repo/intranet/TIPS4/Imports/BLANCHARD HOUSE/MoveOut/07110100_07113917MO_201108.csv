@@ -1,0 +1,5 @@
+BATCH,,201108,B,595.2000,
+INVOICE,IN,,07110100,,08/01/2011,297.6000,"Invoice-Private",,08/01/2011,08/10/2011,,07113917MO,-4166.4000,,,,,,,,,,
+TRANSACTION,3312,010305071,31,9.6000,297.60,"Credit for Two Room Rental Discount: Beach, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07110100,,08/01/2011,297.6,"Invoice-Private",,08/01/2011,08/10/2011,,07113917MO,-4166.4000,,,,,,,,,,
+TRANSACTION,3312,010305071,31,9.6,297.6,"Two Room Rental Discount: Beach, Carolyn",,,,,,,,,,,,,,,

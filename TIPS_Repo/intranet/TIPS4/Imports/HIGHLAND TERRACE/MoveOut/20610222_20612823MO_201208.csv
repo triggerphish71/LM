@@ -1,0 +1,6 @@
+BATCH,,201208,B,3165.1000,
+INVOICE,IN,,20610222,,08/01/2012,344.1000,"Invoice-Private",,08/01/2012,08/10/2012,,20612823MO,-3588.8000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,62.0000,62.00,"CR:Limited Term Di... J.Lodispoto 201208: Lodispoto, John",,,,,,,,,,,,,,,
+TRANSACTION,3312,010214206,1,282.1000,282.10,"CR:Two Room Rental... J.Lodispoto 201208: Lodispoto, John",,,,,,,,,,,,,,,
+INVOICE,CM,,20610222,,08/01/2012,2821,"Invoice-Private",,08/01/2012,08/10/2012,,20612823MO,-3588.8000,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... J.Lodispoto 201208: Lodispoto, John",,,,,,,,,,,,,,,

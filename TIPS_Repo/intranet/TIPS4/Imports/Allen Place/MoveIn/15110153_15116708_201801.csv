@@ -1,0 +1,6 @@
+BATCH,,201801,B,5338.4700,
+INVOICE,IN,,15110153,,01/01/2018,5338.4700,"MoveIn-Gilbert. Vernon",,01/01/2018,01/01/2018,,15116708,7755.2700,,,,,,,,,,
+TRANSACTION,3010,010012151,31,85.0000,2635,"Basic Service Fee - Studio: Gilbert. Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012151,1,2000.0000,2000,"Community Fee: Gilbert. Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.8000,36.8,"Monthly Cable: Gilbert. Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012151,1,666.6700,666.67,"Monthly Deferral Charge: Gilbert. Vernon",,,,,,,,,,,,,,,

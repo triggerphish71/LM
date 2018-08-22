@@ -1,0 +1,5 @@
+BATCH,,201212,B,4438.0000,
+INVOICE,IN,,17910229,,12/04/2012,4438.0000,"MoveIn-Aresement. Shirley",,12/04/2012,12/04/2012,,17915201,4438.0000,,,,,,,,,,
+TRANSACTION,3010,010313179,28,82.0000,2296,"S.Aresement: Basic Service Fee - Studio: Aresement. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313179,28,14.0000,392,"S.Aresement: Resident Care - Level 1: Aresement. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313179,1,1750.0000,1750,"New Resident Fee: Aresement. Shirley",,,,,,,,,,,,,,,

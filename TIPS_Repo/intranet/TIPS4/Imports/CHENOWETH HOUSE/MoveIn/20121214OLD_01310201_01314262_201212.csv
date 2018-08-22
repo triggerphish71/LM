@@ -1,0 +1,6 @@
+BATCH,,201212,B,2990.0000,
+INVOICE,IN,,01310201,,12/14/2012,2990.0000,"MoveIn-Demmitt. Thomas "Tom"",,12/14/2012,12/14/2012,,01314262,6397.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,18,72.0000,1296,"Basic Service Fee - Studio: Demmitt. Thomas "Tom"",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,18,37.0000,666,"Resident Care - Level 20: Demmitt. Thomas "Tom"",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Demmitt. Thomas "Tom"",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Demmitt. Thomas "Tom"",,,,,,,,,,,,,,,

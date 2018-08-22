@@ -1,0 +1,7 @@
+BATCH,,201202,B,7742.0000,
+INVOICE,IN,,15510220,,02/20/2012,3160.0000,"Invoice-Private",,02/20/2012,02/20/2012,,15515133MO,-6320.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,20,89.0000,1780.00,"Basic Service Fee - Studio for Feb: Grening, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,20,69.0000,1380.00,"Resident Care - Level 5 for Feb: Grening, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,15510220,,02/20/2012,4582,"Invoice-Private",,02/20/2012,02/20/2012,,15515133MO,-6320.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2581,2581,"CR:Basic Service F... F.Grening 201202: Grening, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2001,2001,"CR:Resident Care -... F.Grening 201202: Grening, Fred",,,,,,,,,,,,,,,

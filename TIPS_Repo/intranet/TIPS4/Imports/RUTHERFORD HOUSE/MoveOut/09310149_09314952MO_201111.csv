@@ -1,0 +1,6 @@
+BATCH,,201111,B,4470.0000,
+INVOICE,IN,,09310149,,11/03/2011,690.0000,"Invoice-Private",,11/03/2011,11/03/2011,,09314952MO,-3090.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,1,60.0000,60.00,"CR:Limited Term Di... W.Smith 201111: Smith, Wilbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,5,126.0000,630.00,"Basic Service Fee - One Bedroom for Nov: Smith, Wilbert",,,,,,,,,,,,,,,
+INVOICE,CM,,09310149,,11/03/2011,3780,"Invoice-Private",,11/03/2011,11/03/2011,,09314952MO,-3090.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3780,3780,"CR:Basic Service F... W.Smith 201111: Smith, Wilbert",,,,,,,,,,,,,,,

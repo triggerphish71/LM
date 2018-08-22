@@ -1,0 +1,5 @@
+BATCH,,201209,B,1500.0000,
+INVOICE,IN,,15610263,,09/01/2012,750.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15615303MO,-1898.0000,,,,,,,,,,
+TRANSACTION,3320,010211156,30,25.0000,750.00,"Credit for Limited Term Discount: Whitefoot, Venus",,,,,,,,,,,,,,,
+INVOICE,CM,,15610263,,09/01/2012,750,"Invoice-Private",,09/01/2012,09/10/2012,,15615303MO,-1898.0000,,,,,,,,,,
+TRANSACTION,3320,010211156,30,25,750,"Limited Term Discount: Whitefoot, Venus",,,,,,,,,,,,,,,

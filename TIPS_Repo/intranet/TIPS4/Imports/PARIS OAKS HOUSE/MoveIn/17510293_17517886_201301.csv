@@ -1,0 +1,6 @@
+BATCH,,201301,B,3285.0000,
+INVOICE,IN,,17510293,,01/12/2013,3285.0000,"MoveIn-Glass. Geraldine",,01/12/2013,01/12/2013,,17517886,5774.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,20,76.0000,1520,"Basic Service Fee - Studio Deluxe: Glass. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,20,12.0000,240,"Resident Care - Level 1: Glass. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Glass. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Glass. Geraldine",,,,,,,,,,,,,,,

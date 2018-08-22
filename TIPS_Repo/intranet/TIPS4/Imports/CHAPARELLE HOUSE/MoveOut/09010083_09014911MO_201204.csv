@@ -1,0 +1,7 @@
+BATCH,,201204,B,1667.0600,
+INVOICE,IN,,09010083,,04/01/2012,833.5300,"Invoice-Medicaid",,04/01/2012,04/10/2012,,09014911MO,-1934.1700,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25.00,"Monthly Cable: Andre, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104090,1,808.5300,808.53,"State Medicaid: Andre, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,09010083,,04/01/2012,833.53,"Invoice-Medicaid",,04/01/2012,04/10/2012,,09014911MO,-1934.1700,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"Credit for Monthly Cable: Andre, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104090,1,808.53,808.53,"Credit for State Medicaid: Andre, Alice",,,,,,,,,,,,,,,

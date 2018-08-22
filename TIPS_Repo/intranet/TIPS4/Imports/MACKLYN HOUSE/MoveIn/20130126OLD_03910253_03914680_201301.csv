@@ -1,0 +1,5 @@
+BATCH,,201301,B,2651.0000,
+INVOICE,IN,,03910253,,01/26/2013,2651.0000,"MoveIn-Johnson. Betty",,01/26/2013,01/26/2013,,03914680,5689.0000,,,,,,,,,,
+TRANSACTION,3010,010101039,6,90.0000,540,"Basic Service Fee - Studio: Johnson. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,6,18.5000,111,"Resident Care - Level 10: Johnson. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Johnson. Betty",,,,,,,,,,,,,,,

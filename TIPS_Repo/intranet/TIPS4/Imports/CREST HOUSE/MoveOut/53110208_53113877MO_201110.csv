@@ -1,0 +1,8 @@
+BATCH,,201110,B,8690.0000,
+INVOICE,IN,,53110208,,10/18/2011,3400.0000,"Invoice-Private",,10/18/2011,10/18/2011,,53113877MO,-7010.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,20,117.0000,2340.00,"Basic Service Fee - One Bedroom for Oct: Raffaele, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,20,53.0000,1060.00,"Resident Care - Level 4 for Oct: Raffaele, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,53110208,,10/18/2011,5290,"Invoice-Private",,10/18/2011,10/18/2011,,53113877MO,-7010.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3627,3627,"CR:Basic Service F... A.Raffaele 201110: Raffaele, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... A.Raffaele 201110: Raffaele, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1643,1643,"CR:Resident Care -... A.Raffaele 201110: Raffaele, Anne",,,,,,,,,,,,,,,

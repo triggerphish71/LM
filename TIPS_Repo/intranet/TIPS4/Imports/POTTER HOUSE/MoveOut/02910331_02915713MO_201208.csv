@@ -1,0 +1,7 @@
+BATCH,,201208,B,7182.0000,
+INVOICE,IN,,02910331,,08/11/2012,1881.0000,"Invoice-Private",,08/11/2012,08/11/2012,,02915713MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,11,100.0000,1100.00,"Basic Service Fee - Studio for Aug: Luvaul, Selma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,11,71.0000,781.00,"Resident Care - Level 6 for Aug: Luvaul, Selma",,,,,,,,,,,,,,,
+INVOICE,CM,,02910331,,08/11/2012,5301,"Invoice-Private",,08/11/2012,08/11/2012,,02915713MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Basic Service F... S.Luvaul 201208: Luvaul, Selma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,2201,2201,"CR:Resident Care -... S.Luvaul 201208: Luvaul, Selma",,,,,,,,,,,,,,,

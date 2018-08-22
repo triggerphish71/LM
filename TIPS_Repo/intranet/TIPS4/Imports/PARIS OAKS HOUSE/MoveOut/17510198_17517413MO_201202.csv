@@ -1,0 +1,6 @@
+BATCH,,201202,B,2607.0000,
+INVOICE,CM,,17510198,,02/01/2012,2607,"Invoice-Private",,02/01/2012,02/10/2012,,17517413MO,-3806.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2204,2204,"CR:Basic Service F... L.Park 201202: Park, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"CR:Monthly Cable... L.Park 201202: Park, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202175,1,30,30,"CR:Pendant Fee... L.Park 201202: Park, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,348,348,"CR:Resident Care -... L.Park 201202: Park, Lois",,,,,,,,,,,,,,,

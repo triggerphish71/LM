@@ -1,0 +1,5 @@
+BATCH,,201105,B,4443.0000,
+INVOICE,IN,,03710176,,05/06/2011,4443.0000,"MoveIn-Jackson. Quessie",,05/06/2011,05/06/2011,,03713812,4443.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,26,93.0000,2418,"Basic Service Fee - Studio         : Jackson. Quessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Jackson. Quessie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,2000.0000,2000,"New Resident Fee: Jackson. Quessie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,3463.0000,
+INVOICE,IN,,52510150,,08/23/2011,3463.0000,"MoveIn-Michaelis. Sarah",,08/23/2011,08/23/2011,,52512257,6673.0000,,,,,,,,,,
+TRANSACTION,3010,010319525,9,107.0000,963,"Basic Service Fee - Studio: Michaelis. Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319525,1,2000.0000,2000,"New Resident Fee: Michaelis. Sarah",,,,,,,,,,,,,,,
+TRANSACTION,2210,010319525,1,500.0000,500,"Security Deposits: Michaelis. Sarah",,,,,,,,,,,,,,,

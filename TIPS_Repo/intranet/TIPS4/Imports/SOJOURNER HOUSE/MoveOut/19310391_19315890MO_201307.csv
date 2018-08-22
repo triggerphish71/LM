@@ -1,0 +1,8 @@
+BATCH,,201307,B,6414.0000,
+INVOICE,IN,,19310391,,07/19/2013,2725.0000,"Invoice-Private",,07/19/2013,07/19/2013,,19315890MO,-4663.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,25,76.0000,1900.00,"Basic Service Fee - Studio for Jul: MacPhee, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,25,33.0000,825.00,"Resident Care - Level 2 for Jul: MacPhee, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,19310391,,07/19/2013,3689,"Invoice-Private",,07/19/2013,07/19/2013,,19315890MO,-4663.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2356,2356,"CR:Basic Service F... D.MacPhee 201307: MacPhee, Donald",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... D.MacPhee 201307: MacPhee, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1023,1023,"CR:Resident Care -... D.MacPhee 201307: MacPhee, Donald",,,,,,,,,,,,,,,

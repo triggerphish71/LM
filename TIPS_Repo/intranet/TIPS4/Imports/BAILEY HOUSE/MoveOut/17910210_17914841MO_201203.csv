@@ -1,0 +1,5 @@
+BATCH,,201203,B,1271.0000,
+INVOICE,IN,,17910210,,03/01/2012,310.0000,"Invoice-Private",,03/01/2012,03/10/2012,,17914841MO,-651.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,10,31.0000,310.00,"Basic Service Fee - Second Resident for Mar: Collette, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,17910210,,03/01/2012,961,"Invoice-Private",,03/01/2012,03/10/2012,,17914841MO,-651.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,961,961,"CR:Basic Service F... G.Collette 201203: Collette, Gladys",,,,,,,,,,,,,,,

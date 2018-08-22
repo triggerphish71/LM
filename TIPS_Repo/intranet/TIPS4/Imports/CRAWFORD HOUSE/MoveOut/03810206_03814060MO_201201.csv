@@ -1,0 +1,5 @@
+BATCH,,201201,B,40.0000,
+INVOICE,IN,,03810206,,01/01/2012,20.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03814060MO,-5184.8000,,,,,,,,,,
+TRANSACTION,3228,010103038,1,20.0000,20.00,"Sharps Disposal - 4+ Per Day: Wilke, Kellie",,,,,,,,,,,,,,,
+INVOICE,CM,,03810206,,01/01/2012,20,"Invoice-Private",,01/01/2012,01/10/2012,,03814060MO,-5184.8000,,,,,,,,,,
+TRANSACTION,3228,010103038,1,20,20,"Credit for Sharps Disposal - 4+ Per Day: Wilke, Kellie",,,,,,,,,,,,,,,

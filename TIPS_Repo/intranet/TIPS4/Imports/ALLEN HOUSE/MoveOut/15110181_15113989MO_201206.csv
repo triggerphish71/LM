@@ -1,0 +1,7 @@
+BATCH,,201206,B,4115.0000,
+INVOICE,IN,,15110181,,06/01/2012,990.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15113989MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3320,010212151,1,990.0000,990.00,"CR:Limited Term Di... L.Schroeder 201206: Schroeder, Lloyd",,,,,,,,,,,,,,,
+INVOICE,CM,,15110181,,06/01/2012,3125,"Invoice-Private",,06/01/2012,06/10/2012,,15113989MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,2640,2640,"CR:Basic Service F... L.Schroeder 201206: Schroeder, Lloyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... L.Schroeder 201206: Schroeder, Lloyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,450,450,"CR:Swan Personal C... L.Schroeder 201206: Schroeder, Lloyd",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201206,B,3672.0000,
+INVOICE,IN,,03210258,,06/03/2012,852.0000,"Invoice-Private",,06/03/2012,06/03/2012,,03214915MO,-1968.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,570.0000,570.00,"CR:Limited Term Di... C.Smith 201206: Smith, Claude",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,3,94.0000,282.00,"Basic Service Fee - Studio for Jun: Smith, Claude",,,,,,,,,,,,,,,
+INVOICE,CM,,03210258,,06/03/2012,2820,"Invoice-Private",,06/03/2012,06/03/2012,,03214915MO,-1968.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... C.Smith 201206: Smith, Claude",,,,,,,,,,,,,,,

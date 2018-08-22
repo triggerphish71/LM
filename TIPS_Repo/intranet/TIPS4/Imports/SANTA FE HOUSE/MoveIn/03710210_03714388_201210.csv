@@ -1,0 +1,5 @@
+BATCH,,201210,B,3873.0000,
+INVOICE,IN,,03710210,,10/11/2012,3873.0000,"MoveIn-Compton. Noma",,10/11/2012,10/11/2012,,03714388,3873.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,21,97.0000,2037,"Basic Service Fee - Studio: Compton. Noma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202037,21,16.0000,336,"Resident Care - Level 1: Compton. Noma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,1500.0000,1500,"New Resident Fee: Compton. Noma",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,4711.0000,
+INVOICE,IN,,09310196,,09/10/2011,4711.0000,"MoveIn-Huffman. Bruce",,09/10/2011,09/10/2011,,09314859,4711.0000,,,,,,,,,,
+TRANSACTION,3010,010305093,21,108.0000,2268,"Basic Service Fee - Deluxe: Huffman. Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305093,21,33.0000,693,"Resident Care - Level 2: Huffman. Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305093,1,1750.0000,1750,"New Resident Fee: Huffman. Bruce",,,,,,,,,,,,,,,

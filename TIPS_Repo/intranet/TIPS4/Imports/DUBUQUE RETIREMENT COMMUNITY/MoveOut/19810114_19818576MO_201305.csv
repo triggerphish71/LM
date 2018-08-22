@@ -1,0 +1,6 @@
+BATCH,,201305,B,3032.0000,
+INVOICE,IN,,19810114,,05/01/2013,553.0000,"Invoice-Private",,05/01/2013,05/10/2013,,19818576MO,-1926.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,7,79.0000,553.00,"Basic Service Fee IL - Two Bedroom for May: Hofer, Vila",,,,,,,,,,,,,,,
+INVOICE,CM,,19810114,,05/01/2013,2479,"Invoice-Private",,05/01/2013,05/10/2013,,19818576MO,-1926.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2449,2449,"CR:Basic Service F... V.Hofer 201305: Hofer, Vila",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... V.Hofer 201305: Hofer, Vila",,,,,,,,,,,,,,,

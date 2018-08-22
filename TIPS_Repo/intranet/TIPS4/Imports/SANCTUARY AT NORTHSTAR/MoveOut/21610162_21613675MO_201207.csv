@@ -1,0 +1,8 @@
+BATCH,,201207,B,7688.0000,
+INVOICE,IN,,21610162,,07/17/2012,3266.0000,"Invoice-Private",,07/17/2012,07/17/2012,,21613675MO,-5558.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,23,12.0000,276.00,"Resident Care - Level 1 for Jul: Burnette, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,23,130.0000,2990.00,"Two Bedroom for Jul: Burnette, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610162,,07/17/2012,4422,"Invoice-Private",,07/17/2012,07/17/2012,,21613675MO,-5558.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... M.Burnette 201207: Burnette, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,372,372,"CR:Resident Care -... M.Burnette 201207: Burnette, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,4030,4030,"CR:Two Bedroom... M.Burnette 201207: Burnette, Marjorie",,,,,,,,,,,,,,,

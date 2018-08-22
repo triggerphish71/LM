@@ -1,0 +1,6 @@
+BATCH,,201201,B,3674.0000,
+INVOICE,IN,,08010208,,01/13/2012,3674.0000,"MoveIn-Smith. Freddie",,01/13/2012,01/13/2012,,08014028,3674.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,19,96.0000,1824,"F.Smith: Basic Service Fee - Studio: Smith. Freddie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202080,19,17.0000,323,"F.Smith: Resident Care - Level 1: Smith. Freddie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Smith. Freddie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202080,1,1500.0000,1500,"New Resident Fee: Smith. Freddie",,,,,,,,,,,,,,,

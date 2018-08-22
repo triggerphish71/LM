@@ -1,0 +1,5 @@
+BATCH,,201211,B,4303.0000,
+INVOICE,IN,,03310371,,11/08/2012,4303.0000,"MoveIn-Smith. Earl",,11/08/2012,11/08/2012,,03316830,4303.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,23,94.0000,2162,"Basic Service Fee - Studio: Smith. Earl",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202033,23,17.0000,391,"Resident Care - Level 1: Smith. Earl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202033,1,1750.0000,1750,"New Resident Fee: Smith. Earl",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,2937.0000,
+INVOICE,IN,,03210202,,06/02/2011,182.0000,"Invoice-Private",,06/02/2011,06/02/2011,,03214466MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,2,91.0000,182.00,"Basic Service Fee - Studio for Jun: Perritte, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,03210202,,06/02/2011,2755,"Invoice-Private",,06/02/2011,06/02/2011,,03214466MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2730,2730,"CR:Basic Service F... D.Perritte 201106: Perritte, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"CR:Monthly Cable... D.Perritte 201106: Perritte, Delbert",,,,,,,,,,,,,,,

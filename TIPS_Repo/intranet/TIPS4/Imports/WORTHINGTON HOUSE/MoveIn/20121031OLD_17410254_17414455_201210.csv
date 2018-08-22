@@ -1,0 +1,5 @@
+BATCH,,201210,B,1111.0000,
+INVOICE,IN,,17410254,,10/31/2012,1111.0000,"MoveIn-Jones II. Wesley",,10/31/2012,10/31/2012,,17414455,4441.0000,,,,,,,,,,
+TRANSACTION,3010,010309174,1,95.0000,95,"Basic Service Fee - Studio: Jones II. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,1,16.0000,16,"Resident Care - Level 1: Jones II. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309174,1,1000.0000,1000,"New Resident Fee: Jones II. Wesley",,,,,,,,,,,,,,,

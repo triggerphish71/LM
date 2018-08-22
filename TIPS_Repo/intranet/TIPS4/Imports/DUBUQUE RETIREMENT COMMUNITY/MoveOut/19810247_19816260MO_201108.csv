@@ -1,0 +1,5 @@
+BATCH,,201108,B,60.0000,
+INVOICE,IN,,19810247,,08/01/2011,30.0000,"Invoice-Private",,08/01/2011,08/10/2011,,19816260MO,-3502.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Clark, James  ",,,,,,,,,,,,,,,
+INVOICE,CM,,19810247,,08/01/2011,30,"Invoice-Private",,08/01/2011,08/10/2011,,19816260MO,-3502.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Clark, James  ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,8189.6100,
+INVOICE,IN,,08910217,,05/01/2013,496.3400,"Invoice-Private",,05/01/2013,05/10/2013,,08915258MO,-7196.9300,,,,,,,,,,
+TRANSACTION,3020,010306089,2,111.0000,222.00,"Basic Service Fee - Studio for May: Barbagli, Sam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,2,137.1700,274.34,"Resident Care - Level 6+23 pts for May: Barbagli, Sam",,,,,,,,,,,,,,,
+INVOICE,CM,,08910217,,05/01/2013,7693.27,"Invoice-Private",,05/01/2013,05/10/2013,,08915258MO,-7196.9300,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3441,3441,"CR:Basic Service F... S.Barbagli 201305: Barbagli, Sam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,4252.27,4252.27,"CR:Resident Care -... S.Barbagli 201305: Barbagli, Sam",,,,,,,,,,,,,,,

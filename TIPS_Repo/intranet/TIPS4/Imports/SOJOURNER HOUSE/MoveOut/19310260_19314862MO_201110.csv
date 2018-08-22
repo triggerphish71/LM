@@ -1,0 +1,7 @@
+BATCH,,201110,B,744.0000,
+INVOICE,IN,,19310260,,10/01/2011,372.0000,"Invoice-Private",,10/01/2011,10/10/2011,,19314862MO,-329.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Lehto, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315193,31,2.0000,62.00,"Credit for Limited Term Discount: Lehto, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,19310260,,10/01/2011,372,"Invoice-Private",,10/01/2011,10/10/2011,,19314862MO,-329.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Lehto, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315193,31,2,62,"Limited Term Discount: Lehto, Roy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,6295.0000,
+INVOICE,IN,,19310327,,07/26/2011,2730.0000,"Invoice-Private",,07/26/2011,07/26/2011,,19314804MO,-4400.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,26,72.0000,1872.00,"Basic Service Fee - Studio for Jul: Nakken, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,26,33.0000,858.00,"Resident Care - Level 2 for Jul: Nakken, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,19310327,,07/26/2011,3565,"Invoice-Private",,07/26/2011,07/26/2011,,19314804MO,-4400.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2232,2232,"CR:Basic Service F... P.Nakken 201107: Nakken, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315193,1,310,310,"CR:HSG Meals... P.Nakken 201107: Nakken, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1023,1023,"CR:Resident Care -... P.Nakken 201107: Nakken, Phyllis",,,,,,,,,,,,,,,

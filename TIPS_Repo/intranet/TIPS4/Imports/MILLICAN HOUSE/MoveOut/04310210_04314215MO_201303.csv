@@ -1,0 +1,7 @@
+BATCH,,201303,B,2916.0000,
+INVOICE,IN,,04310210,,03/01/2013,405.0000,"Invoice-Private",,03/01/2013,03/10/2013,,04314215MO,-2106.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,5,65.0000,325.00,"Basic Service Fee - Studio for Mar: Evans, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,5,16.0000,80.00,"Resident Care - Level 1 for Mar: Evans, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04310210,,03/01/2013,2511,"Invoice-Private",,03/01/2013,03/10/2013,,04314215MO,-2106.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2015,2015,"CR:Basic Service F... D.Evans 201303: Evans, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,496,496,"CR:Resident Care -... D.Evans 201303: Evans, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,3650.0000,
+INVOICE,IN,,16310324,,12/01/2012,1825.0000,"Invoice-Private",,12/01/2012,12/10/2012,,16316891MO,-2741.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Latil, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,31,58.0000,1798.00,"Credit for Limited Term Discount: Latil, Diane",,,,,,,,,,,,,,,
+INVOICE,CM,,16310324,,12/01/2012,1825,"Invoice-Private",,12/01/2012,12/10/2012,,16316891MO,-2741.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Latil, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,31,58,1798,"Limited Term Discount: Latil, Diane",,,,,,,,,,,,,,,

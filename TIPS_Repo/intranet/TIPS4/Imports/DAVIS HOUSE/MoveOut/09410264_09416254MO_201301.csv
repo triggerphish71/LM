@@ -1,0 +1,7 @@
+BATCH,,201301,B,2379.0000,
+INVOICE,IN,,09410264,,01/08/2013,488.0000,"Invoice-Private",,01/08/2013,01/08/2013,,09416254MO,-1403.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,8,31.0000,248.00,"Basic Service Fee - Second Resident for Jan: Ridenour, Dixie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,8,30.0000,240.00,"Resident Care - Level 2 for Jan: Ridenour, Dixie",,,,,,,,,,,,,,,
+INVOICE,CM,,09410264,,01/08/2013,1891,"Invoice-Private",,01/08/2013,01/08/2013,,09416254MO,-1403.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,961,961,"CR:Basic Service F... D.Ridenour 201301: Ridenour, Dixie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,930,930,"CR:Resident Care -... D.Ridenour 201301: Ridenour, Dixie",,,,,,,,,,,,,,,

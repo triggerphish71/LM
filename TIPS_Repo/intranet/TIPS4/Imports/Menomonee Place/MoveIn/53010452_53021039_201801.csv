@@ -1,0 +1,5 @@
+BATCH,,201801,B,5766.6700,
+INVOICE,IN,,53010452,,01/01/2018,5766.6700,"MoveIn-Raymond. Mary",,01/01/2018,01/01/2018,,53021039,5766.6700,,,,,,,,,,
+TRANSACTION,3010,010019530,31,100.0000,3100,"Basic Service Fee - One Bedroom: Raymond. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010019530,1,2000.0000,2000,"Community Fee: Raymond. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010019530,1,666.6700,666.67,"Monthly Deferral Charge: Raymond. Mary",,,,,,,,,,,,,,,

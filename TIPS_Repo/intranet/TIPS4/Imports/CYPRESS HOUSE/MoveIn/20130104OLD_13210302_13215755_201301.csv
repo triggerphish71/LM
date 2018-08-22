@@ -1,0 +1,6 @@
+BATCH,,201301,B,5275.0000,
+INVOICE,IN,,13210302,,01/04/2013,5275.0000,"MoveIn-Cusack. Annie",,01/04/2013,01/04/2013,,13215755,5275.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,28,99.0000,2772,"Basic Service Fee - Studio: Cusack. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,28,17.0000,476,"Resident Care - Level 1: Cusack. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Cusack. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Cusack. Annie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,716.0000,
+INVOICE,IN,,11510268,,11/01/2012,358.0000,"Invoice-Private",,11/01/2012,11/10/2012,,11514431MO,-3433.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Barber, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,11.0000,330.00,"Credit for Limited Term Discount: Barber, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,11510268,,11/01/2012,358,"Invoice-Private",,11/01/2012,11/10/2012,,11514431MO,-3433.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Barber, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,11,330,"Limited Term Discount: Barber, Dorothy",,,,,,,,,,,,,,,

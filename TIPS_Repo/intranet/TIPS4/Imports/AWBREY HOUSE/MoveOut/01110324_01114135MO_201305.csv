@@ -1,0 +1,7 @@
+BATCH,,201305,B,4118.4000,
+INVOICE,IN,,01110324,,05/01/2013,844.8000,"Invoice-Private",,05/01/2013,05/01/2013,,01114135MO,-2428.8000,,,,,,,,,,
+TRANSACTION,3020,010101011,8,76.0000,608.00,"Basic Service Fee - Studio for May: Marcum, Cora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,8,29.6000,236.80,"Resident Care - Level 16 for May: Marcum, Cora",,,,,,,,,,,,,,,
+INVOICE,CM,,01110324,,05/01/2013,3273.6,"Invoice-Private",,05/01/2013,05/01/2013,,01114135MO,-2428.8000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... C.Marcum 201305: Marcum, Cora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,917.6,917.6,"CR:Resident Care -... C.Marcum 201305: Marcum, Cora",,,,,,,,,,,,,,,

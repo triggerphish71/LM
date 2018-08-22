@@ -1,0 +1,7 @@
+BATCH,,201301,B,6783.0000,
+INVOICE,IN,,20410105,,01/26/2013,3094.0000,"Invoice-Private",,01/26/2013,01/26/2013,,20413400MO,-3927.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,26,32.0000,832.00,"Resident Care - Level 3 for Jan: Bottoms, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,26,87.0000,2262.00,"Studio for Jan: Bottoms, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20410105,,01/26/2013,3689,"Invoice-Private",,01/26/2013,01/26/2013,,20413400MO,-3927.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,992,992,"CR:Resident Care -... J.Bottoms 201301: Bottoms, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2697,2697,"CR:Studio... J.Bottoms 201301: Bottoms, James",,,,,,,,,,,,,,,

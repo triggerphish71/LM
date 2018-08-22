@@ -1,0 +1,7 @@
+BATCH,,201109,B,3570.0000,
+INVOICE,IN,,16710206,,09/01/2011,90.0000,"Invoice-Private",,09/01/2011,09/10/2011,,16713552MO,-4477.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,1,90.0000,90.00,"CR:Limited Term Di... V.Parham 201109: Parham, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,16710206,,09/01/2011,3480,"Invoice-Private",,09/01/2011,09/10/2011,,16713552MO,-4477.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2640,2640,"CR:Basic Service F... V.Parham 201109: Parham, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... V.Parham 201109: Parham, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,810,810,"CR:Resident Care -... V.Parham 201109: Parham, Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,54.0000,
+INVOICE,IN,,04510262,,10/01/2012,27.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04514191MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Thompson, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,04510262,,10/01/2012,27,"Invoice-Private",,10/01/2012,10/10/2012,,04514191MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Thompson, Patricia",,,,,,,,,,,,,,,

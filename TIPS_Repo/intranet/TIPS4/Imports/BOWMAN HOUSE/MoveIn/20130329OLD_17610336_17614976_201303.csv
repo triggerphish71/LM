@@ -1,0 +1,5 @@
+BATCH,,201303,B,1749.0000,
+INVOICE,IN,,17610336,,03/29/2013,1749.0000,"MoveIn-Smith. Vivian",,03/29/2013,03/29/2013,,17614976,4239.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,3,73.0000,219,"Basic Service Fee - Studio: Smith. Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Smith. Vivian",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,3,10.0000,30,"CC Meals: Smith. Vivian",,,,,,,,,,,,,,,

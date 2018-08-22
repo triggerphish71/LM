@@ -1,0 +1,7 @@
+BATCH,,201712,B,3855.4000,
+INVOICE,IN,,15310380,,12/06/2017,625.2000,"Invoice-Private",,12/06/2017,12/06/2017,,15318586MO,-2605.0000,,,,,,,,,,
+TRANSACTION,3020,010003153,6,95.0000,570.00,"Basic Service Fee - One Bedroom  for Dec: Marley, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,6,9.2000,55.20,"Resident Care - Level 4  for Dec: Marley, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,15310380,,12/06/2017,3230.2,"Invoice-Private",,12/06/2017,12/06/2017,,15318586MO,-2605.0000,,,,,,,,,,
+TRANSACTION,3020,010003153,1,2945,2945,"CR:Basic Service F... J.Marley 201712: Marley, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,1,285.2,285.2,"CR:Resident Care -... J.Marley 201712: Marley, Janet",,,,,,,,,,,,,,,

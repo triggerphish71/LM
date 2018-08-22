@@ -1,0 +1,5 @@
+BATCH,,201301,B,3683.0000,
+INVOICE,IN,,04510270,,01/04/2013,3683.0000,"MoveIn-Camp. Mary",,01/04/2013,01/04/2013,,04514350,3683.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,28,77.0000,2156,"M.Camp: Basic Service Fee - Studio: Camp. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Camp. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Camp. Mary",,,,,,,,,,,,,,,

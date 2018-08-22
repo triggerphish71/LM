@@ -1,0 +1,5 @@
+BATCH,,201206,B,4080.0000,
+INVOICE,IN,,13510286,,06/01/2012,4080.0000,"June_Rent-Bell. David",,06/01/2012,06/10/2012,,13515214,6245.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,30,119.0000,3570,"D.Bell: Basic Service Fee- One Bedroom Prem: Bell. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309135,30,16.0000,480,"D.Bell: Resident Care - Level 1: Bell. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Bell. David",,,,,,,,,,,,,,,

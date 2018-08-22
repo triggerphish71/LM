@@ -1,0 +1,8 @@
+BATCH,,201801,B,8395.0000,
+INVOICE,IN,,32200004,,01/24/2018,3648.0000,"Invoice-Private",,01/24/2018,01/24/2018,,32210564MO,-5390.0000,,,,,,,,,,
+TRANSACTION,3020,070024322,24,101.0000,2424.00,"One Bedroom  for Jan: Barrett, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024322,24,51.0000,1224.00,"Resident Care - Level 3  for Jan: Barrett, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,32200004,,01/24/2018,4747,"Invoice-Private",,01/24/2018,01/24/2018,,32210564MO,-5390.0000,,,,,,,,,,
+TRANSACTION,3260,070024322,1,35,35,"CR:Monthly Cable... W.Barrett 201801: Barrett, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024322,1,3131,3131,"CR:One Bedroom... W.Barrett 201801: Barrett, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024322,1,1581,1581,"CR:Resident Care -... W.Barrett 201801: Barrett, Wilbur",,,,,,,,,,,,,,,

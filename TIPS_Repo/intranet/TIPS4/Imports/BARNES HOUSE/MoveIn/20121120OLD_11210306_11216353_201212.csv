@@ -1,0 +1,5 @@
+BATCH,,201212,B,4613.0000,
+INVOICE,IN,,11210306,,12/01/2012,4613.0000,"December_Rent-Martin. Edward",,12/01/2012,12/10/2012,,11216353,8266.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,31,97.0000,3007,"Basic Service Fee - Studio: Martin. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,31,51.0000,1581,"Resident Care - Level 3: Martin. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Martin. Edward",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,3378.0000,
+INVOICE,IN,,12010228,,10/01/2011,3378.0000,"October_Rent-Wasson. James",,10/01/2011,10/10/2011,,12014093,5596.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,31,93.0000,2883,"Basic Service Fee - One Bedroom    : Wasson. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,31,15.0000,465,"Resident Care - Level 1: Wasson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Wasson. James",,,,,,,,,,,,,,,

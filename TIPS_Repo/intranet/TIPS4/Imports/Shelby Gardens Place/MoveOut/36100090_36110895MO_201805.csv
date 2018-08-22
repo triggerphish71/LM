@@ -1,0 +1,7 @@
+BATCH,,201805,B,12345.1600,
+INVOICE,IN,,36100090,,05/30/2018,8005.1600,"Invoice-Private",,05/30/2018,05/30/2018,,36110895MO,3665.1600,,,,,,,,,,
+TRANSACTION,3010,070025361,9,140.0000,1260.00,"BSF One Bedroom: Boyd, Avie",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025361,1,2777.4194,2777.42,"Basic Service Fee - MC Studio-Shared bath: Boyd, Avie",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025361,1,3967.7419,3967.74,"Basic Service Fee - MC Studio-Shared bath: Boyd, Avie",,,,,,,,,,,,,,,
+INVOICE,CM,,36100090,,05/30/2018,4340,"Invoice-Private",,05/30/2018,05/30/2018,,36110895MO,3665.1600,,,,,,,,,,
+TRANSACTION,3020,070025361,1,4340,4340,"CR:BSF One Bedroom... A.Boyd 201805: Boyd, Avie",,,,,,,,,,,,,,,

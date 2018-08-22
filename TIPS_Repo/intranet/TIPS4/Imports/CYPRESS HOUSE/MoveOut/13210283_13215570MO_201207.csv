@@ -1,0 +1,7 @@
+BATCH,,201207,B,6844.0000,
+INVOICE,IN,,13210283,,07/27/2012,3248.0000,"Invoice-Private",,07/27/2012,07/27/2012,,13215570MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,28,99.0000,2772.00,"Basic Service Fee - Studio for Jul: Clarke, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,28,17.0000,476.00,"Resident Care - Level 1 for Jul: Clarke, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,13210283,,07/27/2012,3596,"Invoice-Private",,07/27/2012,07/27/2012,,13215570MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3069,3069,"CR:Basic Service F... H.Clarke 201207: Clarke, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,527,527,"CR:Resident Care -... H.Clarke 201207: Clarke, Henry",,,,,,,,,,,,,,,

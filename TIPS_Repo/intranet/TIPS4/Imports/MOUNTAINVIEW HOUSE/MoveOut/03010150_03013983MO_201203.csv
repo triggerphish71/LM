@@ -1,0 +1,7 @@
+BATCH,,201203,B,8799.0000,
+INVOICE,IN,,03010150,,03/29/2012,4252.8500,"Invoice-Private",,03/29/2012,03/29/2012,,03013983MO,-4692.8000,,,,,,,,,,
+TRANSACTION,3020,010103030,29,84.0000,2436.00,"Basic Service Fee - Studio for Mar: Hinschberger, LaMerne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,29,62.6500,1816.85,"Resident Care - Level 35 for Mar: Hinschberger, LaMerne",,,,,,,,,,,,,,,
+INVOICE,CM,,03010150,,03/29/2012,4546.15,"Invoice-Private",,03/29/2012,03/29/2012,,03013983MO,-4692.8000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2604,2604,"CR:Basic Service F... L.Hinschberger 201203: Hinschberger, LaMerne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,1942.15,1942.15,"CR:Resident Care -... L.Hinschberger 201203: Hinschberger, LaMerne",,,,,,,,,,,,,,,

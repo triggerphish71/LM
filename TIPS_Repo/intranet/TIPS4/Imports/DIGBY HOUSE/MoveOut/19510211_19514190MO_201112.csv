@@ -1,0 +1,7 @@
+BATCH,,201112,B,6048.0000,
+INVOICE,IN,,19510211,,12/24/2011,2700.0000,"Invoice-Private",,12/24/2011,12/24/2011,,19514190MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,25,90.0000,2250.00,"Basic Service Fee - Studio for Dec: DeVault, Elnora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,25,18.0000,450.00,"Resident Care - Level 1 for Dec: DeVault, Elnora",,,,,,,,,,,,,,,
+INVOICE,CM,,19510211,,12/24/2011,3348,"Invoice-Private",,12/24/2011,12/24/2011,,19514190MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2790,2790,"CR:Basic Service F... E.DeVault 201112: DeVault, Elnora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,558,558,"CR:Resident Care -... E.DeVault 201112: DeVault, Elnora",,,,,,,,,,,,,,,

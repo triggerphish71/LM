@@ -1,0 +1,6 @@
+BATCH,,201210,B,6169.0000,
+INVOICE,IN,,11010339,,10/01/2012,1116.0000,"Invoice-Private",,10/01/2012,10/10/2012,,11015013MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,1,1116.0000,1116.00,"CR:Limited Term Di... L.Donoho 201210: Donoho, Lucilia Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010339,,10/01/2012,5053,"Invoice-Private",,10/01/2012,10/10/2012,,11015013MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3027,010107110,1,2232,2232,"CR:Resident Care -... L.Donoho 201210: Donoho, Lucilia Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Room and Board ... L.Donoho 201210: Donoho, Lucilia Marie",,,,,,,,,,,,,,,

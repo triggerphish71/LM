@@ -1,0 +1,8 @@
+BATCH,,201202,B,5718.0000,
+INVOICE,IN,,53010209,,02/01/2012,835.0000,"Invoice-Private",,02/01/2012,02/01/2012,,53015908MO,-9265.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,5,137.0000,685.00,"Basic Service Fee-Two Bedroom Premi for Feb: Keup, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,5,30.0000,150.00,"Resident Care - Level 1 for Feb: Keup, Jan",,,,,,,,,,,,,,,
+INVOICE,CM,,53010209,,02/01/2012,4883,"Invoice-Private",,02/01/2012,02/01/2012,,53015908MO,-9265.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3973,3973,"CR:Basic Service F... J.Keup 201202: Keup, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... J.Keup 201202: Keup, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,870,870,"CR:Resident Care -... J.Keup 201202: Keup, Jan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,1240.0000,
+INVOICE,IN,,13610302,,04/01/2012,310.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13614596MO,-620.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,10,31.0000,310.00,"Basic Service Fee - Second Resident for Apr: Bowman, Lennis",,,,,,,,,,,,,,,
+INVOICE,CM,,13610302,,04/01/2012,930,"Invoice-Private",,04/01/2012,04/10/2012,,13614596MO,-620.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,930,930,"CR:Basic Service F... L.Bowman 201204: Bowman, Lennis",,,,,,,,,,,,,,,

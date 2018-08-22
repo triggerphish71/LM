@@ -1,0 +1,5 @@
+BATCH,,201204,B,3777.0000,
+INVOICE,IN,,02610275,,04/01/2012,3777.0000,"April_Rent-Parsons. Betty",,04/01/2012,04/10/2012,,02614731,5804.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,30,112.0000,3360,"Basic Service Fee - One Bedroom: Parsons. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,30,13.0000,390,"Resident Care - Level 1: Parsons. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Parsons. Betty",,,,,,,,,,,,,,,

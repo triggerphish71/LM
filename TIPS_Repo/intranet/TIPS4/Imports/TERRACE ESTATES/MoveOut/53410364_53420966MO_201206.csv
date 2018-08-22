@@ -1,0 +1,8 @@
+BATCH,,201206,B,5412.0000,
+INVOICE,IN,,53410364,,06/09/2012,1242.0000,"Invoice-Private",,06/09/2012,06/09/2012,,53420966MO,-2928.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,9,67.0000,603.00,"Resident Care - Level 3 for Jun: Korlesky, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,9,71.0000,639.00,"Room and Board - Studio for Jun: Korlesky, Ervin",,,,,,,,,,,,,,,
+INVOICE,CM,,53410364,,06/09/2012,4170,"Invoice-Private",,06/09/2012,06/09/2012,,53420966MO,-2928.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... E.Korlesky 201206: Korlesky, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2010,2010,"CR:Resident Care -... E.Korlesky 201206: Korlesky, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Room and Board ... E.Korlesky 201206: Korlesky, Ervin",,,,,,,,,,,,,,,

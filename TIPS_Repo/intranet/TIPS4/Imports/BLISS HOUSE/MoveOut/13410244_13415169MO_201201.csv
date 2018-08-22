@@ -1,0 +1,7 @@
+BATCH,,201201,B,1744.0000,
+INVOICE,IN,,13410244,,01/01/2012,872.0000,"Invoice-Private",,01/01/2012,01/10/2012,,13415169MO,-863.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Blackwell-Root, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,31,27.0000,837.00,"Credit for Limited Term Discount: Blackwell-Root, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,13410244,,01/01/2012,872,"Invoice-Private",,01/01/2012,01/10/2012,,13415169MO,-863.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Blackwell-Root, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,31,27,837,"Limited Term Discount: Blackwell-Root, Janice",,,,,,,,,,,,,,,

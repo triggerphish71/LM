@@ -1,0 +1,6 @@
+BATCH,,201206,B,2849.0000,
+INVOICE,IN,,00810193,,06/01/2012,332.0000,"Invoice-Private",,06/01/2012,06/10/2012,,00814728MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,4,83.0000,332.00,"Basic Service Fee - Studio for Jun: Brunson, Ella",,,,,,,,,,,,,,,
+INVOICE,CM,,00810193,,06/01/2012,2517,"Invoice-Private",,06/01/2012,06/10/2012,,00814728MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2490,2490,"CR:Basic Service F... E.Brunson 201206: Brunson, Ella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... E.Brunson 201206: Brunson, Ella",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,6440.0000,
+INVOICE,IN,,19510249,,02/25/2013,3304.0000,"Invoice-Private",,02/25/2013,02/25/2013,,19514780MO,-2901.0000,,,,,,,,,,
+TRANSACTION,3316,010309195,1,392.0000,392.00,"CR:Employee Discou... E.Miley 201302: Miley, Earline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309195,26,94.0000,2444.00,"Basic Service Fee - Studio for Feb: Miley, Earline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,26,18.0000,468.00,"Resident Care - Level 1 for Feb: Miley, Earline",,,,,,,,,,,,,,,
+INVOICE,CM,,19510249,,02/25/2013,3136,"Invoice-Private",,02/25/2013,02/25/2013,,19514780MO,-2901.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2632,2632,"CR:Basic Service F... E.Miley 201302: Miley, Earline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,504,504,"CR:Resident Care -... E.Miley 201302: Miley, Earline",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,58.0000,
+INVOICE,IN,,01210209,,10/01/2011,29.0000,"Invoice-Private",,10/01/2011,10/10/2011,,01213717MO,-4784.8000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Hansen, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,01210209,,10/01/2011,29,"Invoice-Private",,10/01/2011,10/10/2011,,01213717MO,-4784.8000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Hansen, Delbert",,,,,,,,,,,,,,,

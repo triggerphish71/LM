@@ -1,0 +1,8 @@
+BATCH,,201207,B,7607.8000,
+INVOICE,IN,,04910199,,07/01/2012,3665.0200,"Invoice-Private",,07/01/2012,07/10/2012,,04913443MO,-277.7600,,,,,,,,,,
+TRANSACTION,3020,010101049,29,87.0000,2523.00,"Basic Service Fee - Studio for Jul: Peck, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,29,39.3800,1142.02,"Resident Care - Level 22 for Jul: Peck, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,04910199,,07/01/2012,3942.78,"Invoice-Private",,07/01/2012,07/10/2012,,04913443MO,-277.7600,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2697,2697,"CR:Basic Service F... H.Peck 201207: Peck, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... H.Peck 201207: Peck, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,1220.78,1220.78,"CR:Resident Care -... H.Peck 201207: Peck, Howard",,,,,,,,,,,,,,,

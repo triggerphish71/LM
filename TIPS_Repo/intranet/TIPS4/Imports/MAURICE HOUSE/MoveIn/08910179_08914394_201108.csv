@@ -1,0 +1,5 @@
+BATCH,,201108,B,5192.0000,
+INVOICE,IN,,08910179,,08/16/2011,5192.0000,"MoveIn-Coleman. George",,08/16/2011,08/16/2011,,08914394,5192.0000,,,,,,,,,,
+TRANSACTION,3010,010306089,16,106.0000,1696,"Basic Service Fee - Studio         : Coleman. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306089,16,81.0000,1296,"Resident Care - Level 5: Coleman. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306089,1,2200.0000,2200,"New Resident Fee: Coleman. George",,,,,,,,,,,,,,,

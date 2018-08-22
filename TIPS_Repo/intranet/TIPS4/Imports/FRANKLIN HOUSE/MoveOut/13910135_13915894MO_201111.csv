@@ -1,0 +1,8 @@
+BATCH,,201111,B,5345.2000,
+INVOICE,IN,,13910135,,11/14/2011,1691.2000,"Invoice-Private",,11/14/2011,11/14/2011,,13915894MO,-1962.8000,,,,,,,,,,
+TRANSACTION,3020,010103139,14,97.0000,1358.00,"Basic Service Fee - Studio for Nov: Bronson, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,14,23.8000,333.20,"Resident Care - Level 14 for Nov: Bronson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,13910135,,11/14/2011,3654,"Invoice-Private",,11/14/2011,11/14/2011,,13915894MO,-1962.8000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,2910,2910,"CR:Basic Service F... J.Bronson 201111: Bronson, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... J.Bronson 201111: Bronson, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,714,714,"CR:Resident Care -... J.Bronson 201111: Bronson, James",,,,,,,,,,,,,,,

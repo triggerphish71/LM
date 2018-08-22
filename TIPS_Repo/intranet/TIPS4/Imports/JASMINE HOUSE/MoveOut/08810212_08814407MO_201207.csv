@@ -1,0 +1,8 @@
+BATCH,,201207,B,7222.0000,
+INVOICE,IN,,08810212,,07/01/2012,2324.0000,"Invoice-Private",,07/01/2012,07/10/2012,,08814407MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,744.0000,744.00,"CR:Limited Term Di... J.Swearingen 201207: Swearingen, Julia Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,10,44.0000,440.00,"Resident Care - Level 3 for Jul: Swearingen, Julia Judy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,10,114.0000,1140.00,"Room and Board - One Bedroom for Jul: Swearingen, Julia Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,08810212,,07/01/2012,4898,"Invoice-Private",,07/01/2012,07/10/2012,,08814407MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1364,1364,"CR:Resident Care -... J.Swearingen 201207: Swearingen, Julia Judy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3534,3534,"CR:Room and Board ... J.Swearingen 201207: Swearingen, Julia Judy",,,,,,,,,,,,,,,

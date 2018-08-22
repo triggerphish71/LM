@@ -1,0 +1,5 @@
+BATCH,,201212,B,3073.0000,
+INVOICE,IN,,01710162,,12/10/2012,3073.0000,"MoveIn-Smith. Ruth",,12/10/2012,12/10/2012,,01713839,3073.0000,,,,,,,,,,
+TRANSACTION,3010,010202017,22,93.0000,2046,"Basic Service Fee - Studio: Smith. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202017,1,1000.0000,1000,"New Resident Fee: Smith. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27,"Monthly Cable OLD: Smith. Ruth",,,,,,,,,,,,,,,

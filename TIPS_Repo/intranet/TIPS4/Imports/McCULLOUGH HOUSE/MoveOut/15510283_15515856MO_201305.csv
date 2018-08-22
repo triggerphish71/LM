@@ -1,0 +1,7 @@
+BATCH,,201305,B,8906.0000,
+INVOICE,IN,,15510283,,05/30/2013,4380.0000,"Invoice-Private",,05/30/2013,05/30/2013,,15515856MO,-4551.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,30,68.0000,2040.00,"Basic Service Fee - Studio for May: Martinovich, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,30,78.0000,2340.00,"Resident Care - Level 6 for May: Martinovich, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,15510283,,05/30/2013,4526,"Invoice-Private",,05/30/2013,05/30/2013,,15515856MO,-4551.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2108,2108,"CR:Basic Service F... M.Martinovich 201305: Martinovich, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2418,2418,"CR:Resident Care -... M.Martinovich 201305: Martinovich, Michael",,,,,,,,,,,,,,,

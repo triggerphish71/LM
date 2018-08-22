@@ -1,0 +1,5 @@
+BATCH,,201108,B,3125.0000,
+INVOICE,IN,,21010253,,08/01/2011,3125.0000,"August_Rent-Mills. Leman",,08/01/2011,08/10/2011,,21013077,4700.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,31,90.0000,2790,"Studio: Mills. Leman",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216210,31,10.0000,310,"Resident Care - Level 1: Mills. Leman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25,"Monthly Cable: Mills. Leman",,,,,,,,,,,,,,,

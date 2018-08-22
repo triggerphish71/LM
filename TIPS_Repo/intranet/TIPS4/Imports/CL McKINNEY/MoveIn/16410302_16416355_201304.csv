@@ -1,0 +1,5 @@
+BATCH,,201304,B,3761.0000,
+INVOICE,IN,,16410302,,04/12/2013,3761.0000,"MoveIn-Gross. Mary",,04/12/2013,04/12/2013,,16416355,3761.0000,,,,,,,,,,
+TRANSACTION,3010,010202164,19,95.0000,1805,"Basic Service Fee - Studio Deluxe: Gross. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202164,19,24.0000,456,"Resident Care - Level 2: Gross. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202164,1,1500.0000,1500,"New Resident Fee: Gross. Mary",,,,,,,,,,,,,,,

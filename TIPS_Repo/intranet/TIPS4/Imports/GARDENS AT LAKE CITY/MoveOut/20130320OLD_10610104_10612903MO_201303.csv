@@ -1,0 +1,7 @@
+BATCH,,201303,B,8000.0000,
+INVOICE,IN,,10610104,,03/19/2013,3040.0000,"Invoice-Private",,03/19/2013,03/19/2013,,10612903MO,-6720.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,19,88.0000,1672.00,"Basic Service Fee - Studio for Mar: Florey, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,19,72.0000,1368.00,"Resident Care - Level 5 for Mar: Florey, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,10610104,,03/19/2013,4960,"Invoice-Private",,03/19/2013,03/19/2013,,10612903MO,-6720.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2728,2728,"CR:Basic Service F... N.Florey 201303: Florey, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,2232,2232,"CR:Resident Care -... N.Florey 201303: Florey, Norma",,,,,,,,,,,,,,,

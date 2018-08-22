@@ -1,0 +1,7 @@
+BATCH,,201303,B,3665.1000,
+INVOICE,IN,,10410311,,03/07/2013,675.1500,"Invoice-Private",,03/07/2013,03/07/2013,,10415259MO,-2314.8000,,,,,,,,,,
+TRANSACTION,3020,010101104,7,65.0000,455.00,"Basic Service Fee - Studio for Mar: Staley, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,7,31.4500,220.15,"Resident Care - Level 17 for Mar: Staley, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,10410311,,03/07/2013,2989.95,"Invoice-Private",,03/07/2013,03/07/2013,,10415259MO,-2314.8000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2015,2015,"CR:Basic Service F... R.Staley 201303: Staley, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,974.95,974.95,"CR:Resident Care -... R.Staley 201303: Staley, Roberta",,,,,,,,,,,,,,,

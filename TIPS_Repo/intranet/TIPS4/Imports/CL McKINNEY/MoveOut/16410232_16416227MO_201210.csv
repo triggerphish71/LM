@@ -1,0 +1,7 @@
+BATCH,,201210,B,4469.0000,
+INVOICE,IN,,16410232,,10/08/2012,1090.0000,"Invoice-Private",,10/08/2012,10/08/2012,,16416227MO,-2289.0000,,,,,,,,,,
+TRANSACTION,3027,010202164,10,24.0000,240.00,"Resident Care - Level 2 for Oct: Boyd, Narene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202164,10,85.0000,850.00,"Room and Board - Studio for Oct: Boyd, Narene",,,,,,,,,,,,,,,
+INVOICE,CM,,16410232,,10/08/2012,3379,"Invoice-Private",,10/08/2012,10/08/2012,,16416227MO,-2289.0000,,,,,,,,,,
+TRANSACTION,3027,010202164,1,744,744,"CR:Resident Care -... N.Boyd 201210: Boyd, Narene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2635,2635,"CR:Room and Board ... N.Boyd 201210: Boyd, Narene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201206,B,9975.0000,
+INVOICE,IN,,06510128,,06/27/2012,4725.0000,"Invoice-Private",,06/27/2012,06/27/2012,,06514703MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,27,120.0000,3240.00,"Basic Service Fee- One Bedroom Premium for Jun: Squires, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,27,55.0000,1485.00,"Resident Care - Level 3 for Jun: Squires, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,06510128,,06/27/2012,5250,"Invoice-Private",,06/27/2012,06/27/2012,,06514703MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3600,3600,"CR:Basic Service F... R.Squires 201206: Squires, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1650,1650,"CR:Resident Care -... R.Squires 201206: Squires, Richard",,,,,,,,,,,,,,,

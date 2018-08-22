@@ -1,0 +1,7 @@
+BATCH,,201110,B,5183.0000,
+INVOICE,IN,,03210161,,10/01/2011,2337.0000,"Invoice-Private",,10/01/2011,10/10/2011,,03214661MO,-3204.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,62.0000,62.00,"CR:Limited Term Di... M.Faulkner 201110: Faulkner, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,25,91.0000,2275.00,"Basic Service Fee - Studio for Oct: Faulkner, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,03210161,,10/01/2011,2846,"Invoice-Private",,10/01/2011,10/10/2011,,03214661MO,-3204.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2821,2821,"CR:Basic Service F... M.Faulkner 201110: Faulkner, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"CR:Monthly Cable... M.Faulkner 201110: Faulkner, Mildred",,,,,,,,,,,,,,,

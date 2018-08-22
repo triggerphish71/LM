@@ -1,0 +1,8 @@
+BATCH,,201108,B,3598.0000,
+INVOICE,IN,,17610142,,08/03/2011,291.0000,"Invoice-Private",,08/03/2011,08/03/2011,,17614040MO,-3016.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,3,69.0000,207.00,"Basic Service Fee - Studio for Aug: Gilbert, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,3,28.0000,84.00,"Resident Care - Level 2 for Aug: Gilbert, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17610142,,08/03/2011,3307,"Invoice-Private",,08/03/2011,08/03/2011,,17614040MO,-3016.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2139,2139,"CR:Basic Service F... M.Gilbert 201108: Gilbert, Mary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... M.Gilbert 201108: Gilbert, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... M.Gilbert 201108: Gilbert, Mary",,,,,,,,,,,,,,,

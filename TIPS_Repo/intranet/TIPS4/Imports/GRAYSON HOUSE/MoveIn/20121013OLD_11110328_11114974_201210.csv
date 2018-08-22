@@ -1,0 +1,6 @@
+BATCH,,201210,B,5483.0000,
+INVOICE,IN,,11110328,,10/13/2012,5483.0000,"MoveIn-Moenk. Myrl",,10/13/2012,10/13/2012,,11114974,5483.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,19,113.0000,2147,"Basic Service Fee - One Bedroom: Moenk. Myrl",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,19,69.0000,1311,"Resident Care - Level 5: Moenk. Myrl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Moenk. Myrl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Moenk. Myrl",,,,,,,,,,,,,,,

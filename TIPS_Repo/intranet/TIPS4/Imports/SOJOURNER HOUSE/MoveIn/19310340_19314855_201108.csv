@@ -1,0 +1,5 @@
+BATCH,,201108,B,1582.0000,
+INVOICE,IN,,19310340,,08/31/2011,1582.0000,"MoveIn-Northup. Floyd",,08/31/2011,08/31/2011,,19314855,4042.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,1,72.0000,72,"Basic Service Fee - Studio         : Northup. Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Northup. Floyd",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,10.0000,10,"CC Meals: Northup. Floyd",,,,,,,,,,,,,,,

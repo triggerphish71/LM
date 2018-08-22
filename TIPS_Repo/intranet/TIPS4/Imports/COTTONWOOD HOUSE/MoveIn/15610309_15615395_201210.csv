@@ -1,0 +1,5 @@
+BATCH,,201210,B,4560.0000,
+INVOICE,IN,,15610309,,10/16/2012,4560.0000,"MoveIn-Moeller. Verona",,10/16/2012,10/16/2012,,15615395,4560.0000,,,,,,,,,,
+TRANSACTION,3010,010211156,16,90.0000,1440,"V.Moeller: Basic Service Fee - Studio: Moeller. Verona",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211156,16,70.0000,1120,"V.Moeller: Resident Care - Level 5: Moeller. Verona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000.0000,2000,"New Resident Fee: Moeller. Verona",,,,,,,,,,,,,,,

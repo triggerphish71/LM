@@ -1,0 +1,7 @@
+BATCH,,201112,B,4116.0000,
+INVOICE,IN,,20610231,,12/11/2011,1078.0000,"Invoice-Private",,12/11/2011,12/11/2011,,20612468MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,11,11.0000,121.00,"Resident Care - Level 1 for Dec: Hotchkiss, Leona Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,11,87.0000,957.00,"Room and Board - Studio for Dec: Hotchkiss, Leona Pearl",,,,,,,,,,,,,,,
+INVOICE,CM,,20610231,,12/11/2011,3038,"Invoice-Private",,12/11/2011,12/11/2011,,20612468MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... L.Hotchkiss 201112: Hotchkiss, Leona Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... L.Hotchkiss 201112: Hotchkiss, Leona Pearl",,,,,,,,,,,,,,,

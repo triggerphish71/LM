@@ -1,0 +1,5 @@
+BATCH,,201302,B,3944.0000,
+INVOICE,IN,,09410263,,02/04/2013,696.0000,"Invoice-Private",,02/04/2013,02/04/2013,,09416287MO,-2552.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,6,116.0000,696.00,"Basic Service Fee - One Bedroom for Feb: Ridenour, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,09410263,,02/04/2013,3248,"Invoice-Private",,02/04/2013,02/04/2013,,09416287MO,-2552.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3248,3248,"CR:Basic Service F... J.Ridenour 201302: Ridenour, Joseph",,,,,,,,,,,,,,,

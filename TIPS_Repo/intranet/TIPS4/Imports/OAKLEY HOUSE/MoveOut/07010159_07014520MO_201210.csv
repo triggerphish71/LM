@@ -1,0 +1,7 @@
+BATCH,,201210,B,4019.0000,
+INVOICE,IN,,07010159,,10/01/2012,744.0000,"Invoice-Private",,10/01/2012,10/10/2012,,07014520MO,-6042.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,1,744.0000,744.00,"CR:Limited Term Di... E.Lindamood 201210: Lindamood, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,07010159,,10/01/2012,3275,"Invoice-Private",,10/01/2012,10/10/2012,,07014520MO,-6042.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2759,2759,"CR:Basic Service F... E.Lindamood 201210: Lindamood, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... E.Lindamood 201210: Lindamood, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,496,496,"CR:Resident Care -... E.Lindamood 201210: Lindamood, Eugene",,,,,,,,,,,,,,,

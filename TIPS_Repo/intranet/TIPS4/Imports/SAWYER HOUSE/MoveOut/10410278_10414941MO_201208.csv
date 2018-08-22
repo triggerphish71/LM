@@ -1,0 +1,5 @@
+BATCH,,201208,B,4738.0000,
+INVOICE,IN,,10410278,,08/01/2012,1545.0000,"Invoice-Private",,08/01/2012,08/10/2012,,10414941MO,-1648.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,15,103.0000,1545.00,"Basic Service Fee - One Bedroom for Aug: Mclaughlin, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,10410278,,08/01/2012,3193,"Invoice-Private",,08/01/2012,08/10/2012,,10414941MO,-1648.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,3193,3193,"CR:Basic Service F... M.Mclaughlin 201208: Mclaughlin, Melvin",,,,,,,,,,,,,,,

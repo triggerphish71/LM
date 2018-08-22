@@ -1,0 +1,6 @@
+BATCH,,201104,B,4530.0000,
+INVOICE,IN,,53310215,,04/23/2011,1955.0000,"Invoice-Private",,04/23/2011,04/23/2011,,53313650MO,-5208.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,23,85.0000,1955.00,"Basic Service Fee - Studio for Apr: Winger, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,53310215,,04/23/2011,2575,"Invoice-Private",,04/23/2011,04/23/2011,,53313650MO,-5208.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2550,2550,"CR:Basic Service F... C.Winger 201104: Winger, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... C.Winger 201104: Winger, Clarence",,,,,,,,,,,,,,,

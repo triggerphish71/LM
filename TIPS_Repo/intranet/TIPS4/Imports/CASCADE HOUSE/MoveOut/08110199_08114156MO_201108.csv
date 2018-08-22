@@ -1,0 +1,6 @@
+BATCH,,201108,B,4739.9000,
+INVOICE,IN,,08110199,,08/01/2011,62.0000,"Invoice-Private",,08/01/2011,08/10/2011,,08114156MO,-6968.3000,,,,,,,,,,
+TRANSACTION,3320,010103081,1,62.0000,62.00,"CR:Limited Term Di... R.Wilson 201108: Wilson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,08110199,,08/01/2011,4677.9,"Invoice-Private",,08/01/2011,08/10/2011,,08114156MO,-6968.3000,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1949.9,1949.9,"CR:Resident Care -... R.Wilson 201108: Wilson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2728,2728,"CR:Room and Board ... R.Wilson 201108: Wilson, Robert",,,,,,,,,,,,,,,

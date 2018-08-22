@@ -1,0 +1,7 @@
+BATCH,,201108,B,4577.8000,
+INVOICE,IN,,03310300,,08/03/2011,1080.8000,"Invoice-Private",,08/03/2011,08/03/2011,,03315966MO,-2416.2000,,,,,,,,,,
+TRANSACTION,3316,010202033,1,520.8000,520.80,"CR:Employee Discou... V.Alston 201108: Alston, Veda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,5,112.0000,560.00,"Basic Service Fee - One Bedroom for Aug: Alston, Veda",,,,,,,,,,,,,,,
+INVOICE,CM,,03310300,,08/03/2011,3497,"Invoice-Private",,08/03/2011,08/03/2011,,03315966MO,-2416.2000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3472,3472,"CR:Basic Service F... V.Alston 201108: Alston, Veda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... V.Alston 201108: Alston, Veda",,,,,,,,,,,,,,,

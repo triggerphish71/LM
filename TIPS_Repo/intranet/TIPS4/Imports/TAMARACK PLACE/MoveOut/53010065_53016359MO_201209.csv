@@ -1,0 +1,5 @@
+BATCH,,201209,B,5170.0000,
+INVOICE,CM,,53010065,,09/01/2012,5170,"Invoice-Private",,09/01/2012,09/10/2012,,53016359MO,-5170.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3060,3060,"CR:Basic Service F... L.Sengpiel 201209: Sengpiel, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... L.Sengpiel 201209: Sengpiel, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,2070,2070,"CR:Resident Care -... L.Sengpiel 201209: Sengpiel, Lucille",,,,,,,,,,,,,,,

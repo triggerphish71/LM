@@ -1,0 +1,8 @@
+BATCH,,201208,B,7733.0000,
+INVOICE,IN,,06810201,,08/25/2012,3641.0000,"Invoice-Private",,08/25/2012,08/25/2012,,06813939MO,-4081.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,341.0000,341.00,"CR:Limited Term Di... G.Hetrick 201208: Hetrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,25,85.0000,2125.00,"Basic Service Fee - Studio for Aug: Hetrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,25,47.0000,1175.00,"Resident Care - Level 3 for Aug: Hetrick, George",,,,,,,,,,,,,,,
+INVOICE,CM,,06810201,,08/25/2012,4092,"Invoice-Private",,08/25/2012,08/25/2012,,06813939MO,-4081.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2635,2635,"CR:Basic Service F... G.Hetrick 201208: Hetrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1457,1457,"CR:Resident Care -... G.Hetrick 201208: Hetrick, George",,,,,,,,,,,,,,,

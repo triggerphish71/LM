@@ -1,0 +1,6 @@
+BATCH,,201105,B,5223.0000,
+INVOICE,IN,,11110275,,05/06/2011,5223.0000,"MoveIn-Wilson. Billie",,05/06/2011,05/06/2011,,11114330,5223.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,26,94.0000,2444,"Basic Service Fee - Studio         : Wilson. Billie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,26,29.0000,754,"Resident Care - Level 2: Wilson. Billie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Wilson. Billie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Wilson. Billie",,,,,,,,,,,,,,,

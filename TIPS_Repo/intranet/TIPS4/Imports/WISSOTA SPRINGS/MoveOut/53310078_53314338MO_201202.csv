@@ -1,0 +1,8 @@
+BATCH,,201202,B,3878.0000,
+INVOICE,IN,,53310078,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53314338MO,-4920.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,58.0000,58.00,"CR:Limited Term Di... H.Murphy 201202: Murphy, Hedwig",,,,,,,,,,,,,,,
+INVOICE,CM,,53310078,,02/01/2012,3820,"Invoice-Private",,02/01/2012,02/10/2012,,53314338MO,-4920.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2581,2581,"CR:Basic Service F... H.Murphy 201202: Murphy, Hedwig",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... H.Murphy 201202: Murphy, Hedwig",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... H.Murphy 201202: Murphy, Hedwig",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,1189,1189,"CR:Resident Care -... H.Murphy 201202: Murphy, Hedwig",,,,,,,,,,,,,,,

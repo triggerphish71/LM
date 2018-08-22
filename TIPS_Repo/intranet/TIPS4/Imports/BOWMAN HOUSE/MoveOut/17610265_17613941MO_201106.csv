@@ -1,0 +1,6 @@
+BATCH,,201106,B,4710.0000,
+INVOICE,IN,,17610265,,06/15/2011,1470.0000,"Invoice-Private",,06/15/2011,06/15/2011,,17613941MO,-1770.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,15,98.0000,1470.00,"Basic Service Fee - One Bedroom for Jun: Schrader, Gwynn",,,,,,,,,,,,,,,
+INVOICE,CM,,17610265,,06/15/2011,3240,"Invoice-Private",,06/15/2011,06/15/2011,,17613941MO,-1770.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2940,2940,"CR:Basic Service F... G.Schrader 201106: Schrader, Gwynn",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315176,1,300,300,"CR:HSG Meals... G.Schrader 201106: Schrader, Gwynn",,,,,,,,,,,,,,,

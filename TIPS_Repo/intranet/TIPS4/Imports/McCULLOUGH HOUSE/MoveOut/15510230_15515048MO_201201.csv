@@ -1,0 +1,7 @@
+BATCH,,201201,B,4788.0000,
+INVOICE,IN,,15510230,,01/01/2012,665.0000,"Invoice-Private",,01/01/2012,01/10/2012,,15515048MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,5,117.0000,585.00,"Basic Service Fee - One Bedroom for Jan: Long, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,5,16.0000,80.00,"Resident Care - Level 1 for Jan: Long, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,15510230,,01/01/2012,4123,"Invoice-Private",,01/01/2012,01/10/2012,,15515048MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,3627,3627,"CR:Basic Service F... K.Long 201201: Long, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,496,496,"CR:Resident Care -... K.Long 201201: Long, Kenneth",,,,,,,,,,,,,,,

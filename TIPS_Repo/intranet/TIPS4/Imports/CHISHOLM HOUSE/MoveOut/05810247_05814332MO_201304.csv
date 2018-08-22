@@ -1,0 +1,7 @@
+BATCH,,201304,B,6720.0000,
+INVOICE,IN,,05810247,,04/18/2013,2520.0000,"Invoice-Private",,04/18/2013,04/18/2013,,05814332MO,-6020.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,18,75.0000,1350.00,"Basic Service Fee - Studio for Apr: Merrell, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,18,65.0000,1170.00,"Resident Care - Level 5 for Apr: Merrell, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,05810247,,04/18/2013,4200,"Invoice-Private",,04/18/2013,04/18/2013,,05814332MO,-6020.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2250,2250,"CR:Basic Service F... M.Merrell 201304: Merrell, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1950,1950,"CR:Resident Care -... M.Merrell 201304: Merrell, Martha",,,,,,,,,,,,,,,

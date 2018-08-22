@@ -1,0 +1,5 @@
+BATCH,,201303,B,3465.0000,
+INVOICE,IN,,14510341,,03/04/2013,396.0000,"Invoice-Private",,03/04/2013,03/04/2013,,14515868MO,-2673.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,4,99.0000,396.00,"Basic Service Fee - Studio for Mar: Tangemann, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,14510341,,03/04/2013,3069,"Invoice-Private",,03/04/2013,03/04/2013,,14515868MO,-2673.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3069,3069,"CR:Basic Service F... G.Tangemann 201303: Tangemann, Grace",,,,,,,,,,,,,,,

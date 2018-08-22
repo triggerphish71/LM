@@ -1,0 +1,5 @@
+BATCH,,201209,B,2160.0000,
+INVOICE,IN,,14810315,,09/01/2012,1080.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14814991MO,-1474.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,30,36.0000,1080.00,"Credit for Limited Term Discount: Hachman, David",,,,,,,,,,,,,,,
+INVOICE,CM,,14810315,,09/01/2012,1080,"Invoice-Private",,09/01/2012,09/10/2012,,14814991MO,-1474.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,30,36,1080,"Limited Term Discount: Hachman, David",,,,,,,,,,,,,,,

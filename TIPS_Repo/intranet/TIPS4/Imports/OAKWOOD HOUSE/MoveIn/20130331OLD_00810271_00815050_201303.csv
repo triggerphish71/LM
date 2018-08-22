@@ -1,0 +1,5 @@
+BATCH,,201303,B,1610.0000,
+INVOICE,IN,,00810271,,03/31/2013,1610.0000,"MoveIn-Roberts. Eva",,03/31/2013,03/31/2013,,00815050,4127.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,1,83.0000,83,"Basic Service Fee - Studio: Roberts. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Roberts. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Roberts. Eva",,,,,,,,,,,,,,,

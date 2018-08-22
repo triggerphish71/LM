@@ -1,0 +1,7 @@
+BATCH,,201106,B,4340.0000,
+INVOICE,IN,,09110107,,06/01/2011,140.0000,"Invoice-Private",,06/01/2011,06/01/2011,,09114707MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,104.0000,104.00,"Basic Service Fee - One Bedroom for Jun: Pearson, Reita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,36.0000,36.00,"Resident Care - Level 2 for Jun: Pearson, Reita",,,,,,,,,,,,,,,
+INVOICE,CM,,09110107,,06/01/2011,4200,"Invoice-Private",,06/01/2011,06/01/2011,,09114707MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,3120,3120,"CR:Basic Service F... R.Pearson 201106: Pearson, Reita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... R.Pearson 201106: Pearson, Reita",,,,,,,,,,,,,,,

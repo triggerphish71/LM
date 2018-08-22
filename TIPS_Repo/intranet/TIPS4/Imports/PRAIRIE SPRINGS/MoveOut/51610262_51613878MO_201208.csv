@@ -1,0 +1,6 @@
+BATCH,,201208,B,4800.3500,
+INVOICE,IN,,51610262,,08/01/2012,1209.0000,"Invoice-Private",,08/01/2012,08/10/2012,,51613878MO,-2216.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,1209.0000,1209.00,"CR:Limited Term Di... J.Messerschmidt 201208: Messerschmidt, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,51610262,,08/01/2012,3591.35,"Invoice-Private",,08/01/2012,08/10/2012,,51613878MO,-2216.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2759,2759,"CR:Basic Service F... J.Messerschmidt 201208: Messerschmidt, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,832.35,832.35,"CR:Resident Care -... J.Messerschmidt 201208: Messerschmidt, Jean",,,,,,,,,,,,,,,

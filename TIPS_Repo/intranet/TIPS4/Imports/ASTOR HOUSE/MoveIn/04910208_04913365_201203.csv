@@ -1,0 +1,6 @@
+BATCH,,201203,B,3521.5000,
+INVOICE,IN,,04910208,,03/22/2012,3521.5000,"MoveIn-Carson. Joe",,03/22/2012,03/22/2012,,04913365,8036.0000,,,,,,,,,,
+TRANSACTION,3010,010101049,10,87.0000,870,"Basic Service Fee - Studio: Carson. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,10,62.6500,626.5,"Resident Care - Level 35: Carson. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Carson. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Carson. Joe",,,,,,,,,,,,,,,

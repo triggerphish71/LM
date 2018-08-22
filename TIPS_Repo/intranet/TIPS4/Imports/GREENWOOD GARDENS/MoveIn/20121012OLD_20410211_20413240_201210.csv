@@ -1,0 +1,5 @@
+BATCH,,201210,B,3580.0000,
+INVOICE,IN,,20410211,,10/12/2012,3580.0000,"MoveIn-Grose. Lacey",,10/12/2012,10/12/2012,,20413240,3580.0000,,,,,,,,,,
+TRANSACTION,3010,010216204,20,82.0000,1640,"Studio: Grose. Lacey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216204,20,22.0000,440,"Resident Care - Level 2: Grose. Lacey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216204,1,1500.0000,1500,"New Resident Fee: Grose. Lacey",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,6002.0000,
+INVOICE,IN,,11510220,,07/27/2011,2781.0000,"Invoice-Private",,07/27/2011,07/27/2011,,11513786MO,-3661.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,27,64.0000,1728.00,"Basic Service Fee - Studio for Jul: Hartley, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,27,39.0000,1053.00,"Resident Care - Level 3 for Jul: Hartley, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,11510220,,07/27/2011,3221,"Invoice-Private",,07/27/2011,07/27/2011,,11513786MO,-3661.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1984,1984,"CR:Basic Service F... R.Hartley 201107: Hartley, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... R.Hartley 201107: Hartley, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,1209,1209,"CR:Resident Care -... R.Hartley 201107: Hartley, Ray",,,,,,,,,,,,,,,

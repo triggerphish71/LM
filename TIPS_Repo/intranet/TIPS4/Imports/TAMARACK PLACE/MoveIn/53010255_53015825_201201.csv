@@ -1,0 +1,6 @@
+BATCH,,201201,B,3700.0000,
+INVOICE,IN,,53010255,,01/27/2012,3700.0000,"MoveIn-Bierman. Jerome",,01/27/2012,01/27/2012,,53015825,7568.0000,,,,,,,,,,
+TRANSACTION,3010,010319530,5,102.0000,510,"Basic Service Fee - One Bedroom: Bierman. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319530,5,30.0000,150,"Resident Care - Level 1: Bierman. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40,"Monthly Cable: Bierman. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319530,1,3000.0000,3000,"New Resident Fee: Bierman. Jerome",,,,,,,,,,,,,,,

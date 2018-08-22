@@ -1,0 +1,5 @@
+BATCH,,201202,B,2035.0000,
+INVOICE,IN,,04410257,,02/24/2012,2035.0000,"MoveIn-Ross. Tommy",,02/24/2012,02/24/2012,,04414634,4695.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,6,85.0000,510,"Basic Service Fee - Studio: Ross. Tommy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Ross. Tommy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Ross. Tommy",,,,,,,,,,,,,,,

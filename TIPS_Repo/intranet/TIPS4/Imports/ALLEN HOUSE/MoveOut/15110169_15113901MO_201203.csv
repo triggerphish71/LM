@@ -1,0 +1,5 @@
+BATCH,,201203,B,496.0000,
+INVOICE,IN,,15110169,,03/01/2012,248.0000,"Invoice-Private",,03/01/2012,03/10/2012,,15113901MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3320,010212151,31,8.0000,248.00,"Credit for Limited Term Discount: Derville, John",,,,,,,,,,,,,,,
+INVOICE,CM,,15110169,,03/01/2012,248,"Invoice-Private",,03/01/2012,03/10/2012,,15113901MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3320,010212151,31,8,248,"Limited Term Discount: Derville, John",,,,,,,,,,,,,,,

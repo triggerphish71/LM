@@ -1,0 +1,7 @@
+BATCH,,201107,B,5494.0000,
+INVOICE,IN,,12510193,,07/10/2011,1340.0000,"Invoice-Private",,07/10/2011,07/10/2011,,12513966MO,-2814.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,10,74.0000,740.00,"Basic Service Fee - Studio for Jul: Clayton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,10,60.0000,600.00,"Resident Care - Level 4 for Jul: Clayton, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,12510193,,07/10/2011,4154,"Invoice-Private",,07/10/2011,07/10/2011,,12513966MO,-2814.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2294,2294,"CR:Basic Service F... R.Clayton 201107: Clayton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1860,1860,"CR:Resident Care -... R.Clayton 201107: Clayton, Robert",,,,,,,,,,,,,,,

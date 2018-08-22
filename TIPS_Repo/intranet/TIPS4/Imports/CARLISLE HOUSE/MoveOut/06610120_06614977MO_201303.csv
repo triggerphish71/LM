@@ -1,0 +1,7 @@
+BATCH,,201303,B,9120.0000,
+INVOICE,IN,,06610120,,03/17/2013,3230.0000,"Invoice-Private",,03/17/2013,03/17/2013,,06614977MO,-8360.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,17,115.0000,1955.00,"Basic Service Fee - Deluxe for Mar: Zucker, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,17,75.0000,1275.00,"Resident Care - Level 5 for Mar: Zucker, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,06610120,,03/17/2013,5890,"Invoice-Private",,03/17/2013,03/17/2013,,06614977MO,-8360.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3565,3565,"CR:Basic Service F... D.Zucker 201303: Zucker, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2325,2325,"CR:Resident Care -... D.Zucker 201303: Zucker, Dorothy",,,,,,,,,,,,,,,

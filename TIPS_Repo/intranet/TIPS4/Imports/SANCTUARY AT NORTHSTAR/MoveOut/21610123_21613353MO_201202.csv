@@ -1,0 +1,7 @@
+BATCH,,201202,B,3738.0000,
+INVOICE,IN,,21610123,,02/13/2012,1157.0000,"Invoice-Private",,02/13/2012,02/13/2012,,21613353MO,-1424.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,13,12.0000,156.00,"Resident Care - Level 1 for Feb: Gandolfo, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,13,77.0000,1001.00,"Studio for Feb: Gandolfo, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,21610123,,02/13/2012,2581,"Invoice-Private",,02/13/2012,02/13/2012,,21613353MO,-1424.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,348,348,"CR:Resident Care -... C.Gandolfo 201202: Gandolfo, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2233,2233,"CR:Studio... C.Gandolfo 201202: Gandolfo, Charles",,,,,,,,,,,,,,,

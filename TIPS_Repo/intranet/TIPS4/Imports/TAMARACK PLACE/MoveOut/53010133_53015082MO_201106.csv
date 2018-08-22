@@ -1,0 +1,7 @@
+BATCH,,201106,B,5500.0000,
+INVOICE,IN,,53010133,,06/01/2011,120.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53015082MO,-10792.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,120.0000,120.00,"CR:Limited Term Di... H.Holm 201106: Holm, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,53010133,,06/01/2011,5380,"Invoice-Private",,06/01/2011,06/10/2011,,53015082MO,-10792.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3630,3630,"CR:Basic Service F... H.Holm 201106: Holm, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... H.Holm 201106: Holm, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1710,1710,"CR:Resident Care -... H.Holm 201106: Holm, Harvey",,,,,,,,,,,,,,,

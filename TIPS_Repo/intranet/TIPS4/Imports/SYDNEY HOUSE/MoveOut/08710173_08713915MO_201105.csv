@@ -1,0 +1,7 @@
+BATCH,,201105,B,6728.0000,
+INVOICE,IN,,08710173,,05/22/2011,3132.0000,"Invoice-Private",,05/22/2011,05/22/2011,,08713915MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,27,82.0000,2214.00,"Basic Service Fee - Studio for May: Watchman, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,27,34.0000,918.00,"Resident Care - Level 20 for May: Watchman, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,08710173,,05/22/2011,3596,"Invoice-Private",,05/22/2011,05/22/2011,,08713915MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2542,2542,"CR:Basic Service F... J.Watchman 201105: Watchman, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1054,1054,"CR:Resident Care -... J.Watchman 201105: Watchman, Janice",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,4860.0000,
+INVOICE,IN,,15510243,,02/03/2012,4860.0000,"MoveIn-Reighard. Stanford",,02/03/2012,02/03/2012,,15515091,4860.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,27,89.0000,2403,"Basic Service Fee - Studio: Reighard. Stanford",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,27,16.0000,432,"Resident Care - Level 1: Reighard. Stanford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Reighard. Stanford",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Reighard. Stanford",,,,,,,,,,,,,,,

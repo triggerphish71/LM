@@ -1,0 +1,7 @@
+BATCH,,201108,B,6972.0000,
+INVOICE,IN,,08310103,,08/05/2011,1826.0000,"Invoice-Private",,08/05/2011,08/05/2011,,08313954MO,-3320.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,11,117.0000,1287.00,"Basic Service Fee - Deluxe for Aug: Neri, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,11,49.0000,539.00,"Resident Care - Level 3 for Aug: Neri, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,08310103,,08/05/2011,5146,"Invoice-Private",,08/05/2011,08/05/2011,,08313954MO,-3320.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3627,3627,"CR:Basic Service F... P.Neri 201108: Neri, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1519,1519,"CR:Resident Care -... P.Neri 201108: Neri, Pauline",,,,,,,,,,,,,,,

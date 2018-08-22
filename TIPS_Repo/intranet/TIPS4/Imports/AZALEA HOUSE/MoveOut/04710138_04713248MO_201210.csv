@@ -1,0 +1,5 @@
+BATCH,,201210,B,620.0000,
+INVOICE,IN,,04710138,,10/01/2012,310.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04713248MO,-4564.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,31,10.0000,310.00,"Credit for Limited Term Discount: Cox, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,04710138,,10/01/2012,310,"Invoice-Private",,10/01/2012,10/10/2012,,04713248MO,-4564.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,31,10,310,"Limited Term Discount: Cox, Margaret",,,,,,,,,,,,,,,

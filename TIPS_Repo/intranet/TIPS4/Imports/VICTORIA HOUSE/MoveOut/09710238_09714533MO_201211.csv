@@ -1,0 +1,7 @@
+BATCH,,201211,B,4896.3200,
+INVOICE,IN,,09710238,,11/04/2012,2071.5200,"Invoice-Private",,11/04/2012,11/04/2012,,09714533MO,-753.2800,,,,,,,,,,
+TRANSACTION,3020,010103097,22,87.0000,1914.00,"Basic Service Fee - Studio for Nov: Dunlap, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,22,7.1600,157.52,"Resident Care - Level 4 for Nov: Dunlap, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,09710238,,11/04/2012,2824.8,"Invoice-Private",,11/04/2012,11/04/2012,,09714533MO,-753.2800,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2610,2610,"CR:Basic Service F... R.Dunlap 201211: Dunlap, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,214.8,214.8,"CR:Resident Care -... R.Dunlap 201211: Dunlap, Robert",,,,,,,,,,,,,,,

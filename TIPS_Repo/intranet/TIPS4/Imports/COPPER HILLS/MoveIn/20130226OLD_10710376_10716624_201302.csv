@@ -1,0 +1,5 @@
+BATCH,,201302,B,1884.0000,
+INVOICE,IN,,10710376,,02/26/2013,1884.0000,"MoveIn-Hamilton. Bob",,02/26/2013,02/26/2013,,10716624,5852.0000,,,,,,,,,,
+TRANSACTION,3010,010107107,3,113.0000,339,"Basic Service Fee - One Bedroom: Hamilton. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107107,3,15.0000,45,"Resident Care - Level 1: Hamilton. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107107,1,1500.0000,1500,"New Resident Fee: Hamilton. Bob",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,1231.0000,
+INVOICE,IN,,50710130,,05/29/2012,1231.0000,"MoveIn-Mackey. Charles",,05/29/2012,05/29/2012,,50712326,3541.0000,,,,,,,,,,
+TRANSACTION,3010,010305507,3,66.0000,198,"Basic Service Fee - Studio: Mackey. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305507,3,11.0000,33,"Resident Care - Level 1: Mackey. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305507,1,1000.0000,1000,"New Resident Fee: Mackey. Charles",,,,,,,,,,,,,,,

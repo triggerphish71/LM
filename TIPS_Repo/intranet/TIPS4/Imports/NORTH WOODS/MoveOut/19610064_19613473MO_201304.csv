@@ -1,0 +1,8 @@
+BATCH,,201304,B,6215.0000,
+INVOICE,IN,,19610064,,04/01/2013,1350.0000,"Invoice-Private",,04/01/2013,04/10/2013,,19613473MO,-5476.0000,,,,,,,,,,
+TRANSACTION,3027,010315196,1,1350.0000,1350.00,"CR:Resident Care L... A.Young 201304: Young, Anita",,,,,,,,,,,,,,,
+INVOICE,CM,,19610064,,04/01/2013,4865,"Invoice-Private",,04/01/2013,04/10/2013,,19613473MO,-5476.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,3180,3180,"CR:Basic Service F... A.Young 201304: Young, Anita",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,300,300,"CR:CC Meals... A.Young 201304: Young, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"CR:Monthly Cable... A.Young 201304: Young, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,1350,1350,"CR:Resident Care -... A.Young 201304: Young, Anita",,,,,,,,,,,,,,,

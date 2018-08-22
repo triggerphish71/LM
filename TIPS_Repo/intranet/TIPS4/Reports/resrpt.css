@@ -1,0 +1,19 @@
+      
+               .col_title  { font-size:xx-large; border-bottom: 1px solid black;}
+				#tb1 { width: 100%; }
+				
+				#tb2 { width: 100%; }
+				
+				#tb1 tr { width: 100%; }
+				
+				#tb2 tr { width: 100%; }
+				
+				.col1 { width: 16.7%; }
+				.col2 { width: 16.7%; }
+				.col3 { width: 16.7%; }
+				.col4 { width: 16.7%; }
+				.col5 { width: 16.7%; }
+				.col6 { width: 16.7%; }				
+				#tb1, #tb2 {     table-layout: fixed;     }
+				#tb1 td, #tb2 td {     word-wrap: break-word;     }			   
+       

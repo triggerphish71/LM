@@ -1,0 +1,8 @@
+BATCH,,201212,B,5677.0000,
+INVOICE,IN,,17910201,,12/13/2012,2267.0000,"Invoice-Private",,12/13/2012,12/13/2012,,17915230MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,837.0000,837.00,"CR:Limited Term Di... B.Bradley 201212: Bradley, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,13,28.0000,364.00,"Resident Care - Level 2 for Dec: Bradley, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,13,82.0000,1066.00,"Room and Board - Studio for Dec: Bradley, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17910201,,12/13/2012,3410,"Invoice-Private",,12/13/2012,12/13/2012,,17915230MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3027,010313179,1,868,868,"CR:Resident Care -... B.Bradley 201212: Bradley, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Room and Board ... B.Bradley 201212: Bradley, Barbara",,,,,,,,,,,,,,,

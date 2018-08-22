@@ -1,0 +1,5 @@
+BATCH,,201211,B,3346.2000,
+INVOICE,IN,,00310186,,11/01/2012,3346.2000,"November_Rent-Hunkapiller. Patricia",,11/01/2012,11/10/2012,,00314377,5147.6800,,,,,,,,,,
+TRANSACTION,3010,010101003,30,82.0000,2460,"Basic Service Fee - Studio: Hunkapiller. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101003,30,28.6400,859.2,"Resident Care - Level 16: Hunkapiller. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Hunkapiller. Patricia",,,,,,,,,,,,,,,

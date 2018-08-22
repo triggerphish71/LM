@@ -1,0 +1,8 @@
+BATCH,,201108,B,5740.0000,
+INVOICE,IN,,19210189,,08/01/2011,652.0000,"Invoice-Private",,08/01/2011,08/10/2011,,19214791MO,-4436.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,4,127.0000,508.00,"Basic Service Fee - One Bedroom for Aug: Esra, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,4,36.0000,144.00,"Resident Care - Level 2 for Aug: Esra, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,19210189,,08/01/2011,5088,"Invoice-Private",,08/01/2011,08/10/2011,,19214791MO,-4436.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3937,3937,"CR:Basic Service F... T.Esra 201108: Esra, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... T.Esra 201108: Esra, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1116,1116,"CR:Resident Care -... T.Esra 201108: Esra, Theresa",,,,,,,,,,,,,,,

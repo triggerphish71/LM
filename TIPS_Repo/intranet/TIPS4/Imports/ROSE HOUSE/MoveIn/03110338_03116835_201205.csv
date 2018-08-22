@@ -1,0 +1,6 @@
+BATCH,,201205,B,2122.0000,
+INVOICE,IN,,03110338,,05/29/2012,2122.0000,"MoveIn-Johnsen. Margo",,05/29/2012,05/29/2012,,03116835,5599.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,3,99.0000,297,"Basic Service Fee - Studio: Johnsen. Margo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,3,16.0000,48,"Resident Care - Level 1: Johnsen. Margo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Johnsen. Margo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Johnsen. Margo",,,,,,,,,,,,,,,

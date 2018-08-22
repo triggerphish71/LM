@@ -1,0 +1,8 @@
+BATCH,,201108,B,5011.0000,
+INVOICE,IN,,04510215,,08/01/2011,2225.0000,"Invoice-Private",,08/01/2011,08/10/2011,,04513634MO,-561.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,25,73.0000,1825.00,"Basic Service Fee - Studio for Aug: Hill, Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,25,16.0000,400.00,"Resident Care - Level 1 for Aug: Hill, Mickey",,,,,,,,,,,,,,,
+INVOICE,CM,,04510215,,08/01/2011,2786,"Invoice-Private",,08/01/2011,08/10/2011,,04513634MO,-561.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2263,2263,"CR:Basic Service F... M.Hill 201108: Hill, Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... M.Hill 201108: Hill, Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... M.Hill 201108: Hill, Mickey",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,3686.0000,
+INVOICE,IN,,13110249,,07/07/2011,679.0000,"Invoice-Private",,07/07/2011,07/07/2011,,13113893MO,-2328.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,7,97.0000,679.00,"Basic Service Fee - Studio for Jul: Krueger, Alma",,,,,,,,,,,,,,,
+INVOICE,CM,,13110249,,07/07/2011,3007,"Invoice-Private",,07/07/2011,07/07/2011,,13113893MO,-2328.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3007,3007,"CR:Basic Service F... A.Krueger 201107: Krueger, Alma",,,,,,,,,,,,,,,

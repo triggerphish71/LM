@@ -1,0 +1,8 @@
+BATCH,,201206,B,4722.0000,
+INVOICE,IN,,13310315,,06/13/2012,1417.0000,"Invoice-Private",,06/13/2012,06/13/2012,,13315420MO,-1888.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,13,92.0000,1196.00,"Basic Service Fee - Studio for Jun: McMurdy, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,13,17.0000,221.00,"Resident Care - Level 1 for Jun: McMurdy, William",,,,,,,,,,,,,,,
+INVOICE,CM,,13310315,,06/13/2012,3305,"Invoice-Private",,06/13/2012,06/13/2012,,13315420MO,-1888.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2760,2760,"CR:Basic Service F... W.McMurdy 201206: McMurdy, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... W.McMurdy 201206: McMurdy, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,510,510,"CR:Resident Care -... W.McMurdy 201206: McMurdy, William",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,3500.4100,
+INVOICE,IN,,03810228,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,03814288MO,-4550.6200,,,,,,,,,,
+TRANSACTION,3320,010103038,1,62.0000,62.00,"CR:Limited Term Di... W.Nelson 201208: Nelson, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,03810228,,08/01/2012,3438.41,"Invoice-Private",,08/01/2012,08/10/2012,,03814288MO,-4550.6200,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2914,2914,"CR:Basic Service F... W.Nelson 201208: Nelson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... W.Nelson 201208: Nelson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,499.41,499.41,"CR:Resident Care -... W.Nelson 201208: Nelson, Walter",,,,,,,,,,,,,,,

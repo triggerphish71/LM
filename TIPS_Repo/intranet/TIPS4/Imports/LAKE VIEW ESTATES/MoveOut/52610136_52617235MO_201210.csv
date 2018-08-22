@@ -1,0 +1,5 @@
+BATCH,,201210,B,2666.0000,
+INVOICE,IN,,52610136,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,52617235MO,-2902.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,62.0000,62.00,"CR:Limited Term Di... K.Kleinschmidt 201210: Kleinschmidt, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,52610136,,10/01/2012,2604,"Invoice-Private",,10/01/2012,10/10/2012,,52617235MO,-2902.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2604,2604,"CR:Basic Service F... K.Kleinschmidt 201210: Kleinschmidt, Kenneth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,7592.0000,
+INVOICE,IN,,08910156,,01/20/2012,3066.0000,"Invoice-Private",,01/20/2012,01/20/2012,,08914652MO,-5694.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,21,111.0000,2331.00,"Basic Service Fee - Studio for Jan: Moore, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,21,35.0000,735.00,"Resident Care - Level 2 for Jan: Moore, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,08910156,,01/20/2012,4526,"Invoice-Private",,01/20/2012,01/20/2012,,08914652MO,-5694.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3441,3441,"CR:Basic Service F... E.Moore 201201: Moore, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1085,1085,"CR:Resident Care -... E.Moore 201201: Moore, Eleanor",,,,,,,,,,,,,,,

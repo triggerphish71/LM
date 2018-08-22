@@ -1,0 +1,4 @@
+BATCH,,201108,B,3112.4000,
+INVOICE,IN,,00710166,,08/01/2011,3112.4000,"August_Rent-St John. John",,08/01/2011,08/10/2011,,00713203,4413.6000,,,,,,,,,,
+TRANSACTION,3010,010101007,31,80.0000,2480,"Basic Service Fee - Studio         : St John. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,31,20.4000,632.4,"Resident Care - Level 12: St John. John",,,,,,,,,,,,,,,

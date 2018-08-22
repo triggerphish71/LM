@@ -1,0 +1,7 @@
+BATCH,,201208,B,3419.0000,
+INVOICE,IN,,19410171,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,19414305MO,-4343.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,62.0000,62.00,"CR:Limited Term Di... E.Dugdale 201208: Dugdale, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,19410171,,08/01/2012,3357,"Invoice-Private",,08/01/2012,08/10/2012,,19414305MO,-4343.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2325,2325,"CR:Basic Service F... E.Dugdale 201208: Dugdale, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... E.Dugdale 201208: Dugdale, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,992,992,"CR:Swan Personal C... E.Dugdale 201208: Dugdale, Ethel",,,,,,,,,,,,,,,

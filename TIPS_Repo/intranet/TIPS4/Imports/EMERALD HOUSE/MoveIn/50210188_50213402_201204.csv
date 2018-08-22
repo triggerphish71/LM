@@ -1,0 +1,5 @@
+BATCH,,201204,B,1857.0000,
+INVOICE,IN,,50210188,,04/27/2012,1857.0000,"MoveIn-Hill. Verline",,04/27/2012,04/27/2012,,50213402,4455.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,4,83.0000,332,"Basic Service Fee - Studio: Hill. Verline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Hill. Verline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Hill. Verline",,,,,,,,,,,,,,,

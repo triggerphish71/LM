@@ -1,0 +1,8 @@
+BATCH,,201803,B,8127.0000,
+INVOICE,IN,,10810427,,03/26/2018,3818.0000,"Invoice-Private",,03/26/2018,03/26/2018,,10818056MO,-4696.0000,,,,,,,,,,
+TRANSACTION,3017,010008108,9,19.0000,171.00,"Level Care:  1  - 2018-03-10: Strom, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010008108,17,31.0000,527.00," Level Care:  2 : Strom, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008108,26,120.0000,3120.00,"Basic Service Fee - One Bedroom  for Mar: Strom, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,10810427,,03/26/2018,4309,"Invoice-Private",,03/26/2018,03/26/2018,,10818056MO,-4696.0000,,,,,,,,,,
+TRANSACTION,3020,010008108,1,3720,3720,"CR:Basic Service F... C.Strom 201803: Strom, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,1,589,589,"CR:Resident Care -... C.Strom 201803: Strom, Carolyn",,,,,,,,,,,,,,,

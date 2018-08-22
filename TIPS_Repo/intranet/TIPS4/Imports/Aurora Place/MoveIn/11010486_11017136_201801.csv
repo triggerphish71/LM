@@ -1,0 +1,5 @@
+BATCH,,201801,B,3839.3000,
+INVOICE,IN,,11010486,,01/01/2018,3839.3000,"January_Rent-Dawson. Bill",,01/01/2018,01/10/2018,,11017136,8287.2700,,,,,,,,,,
+TRANSACTION,3010,010007110,31,105.0000,3255,"Basic Service Fee - Studio         : Dawson. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,31,18.0000,558,"Resident Care - Level 1: Dawson. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Dawson. Bill",,,,,,,,,,,,,,,

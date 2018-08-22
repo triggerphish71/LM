@@ -1,0 +1,8 @@
+BATCH,,201108,B,7785.8000,
+INVOICE,IN,,00710150,,08/17/2011,3672.1000,"Invoice-Private",,08/17/2011,08/17/2011,,00713242MO,-3822.6000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,620.0000,620.00,"CR:Limited Term Di... A.Lichatowich 201108: Lichatowich, August",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,23,80.0000,1840.00,"Basic Service Fee - Studio for Aug: Lichatowich, August",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,23,52.7000,1212.10,"Resident Care - Level 31 for Aug: Lichatowich, August",,,,,,,,,,,,,,,
+INVOICE,CM,,00710150,,08/17/2011,4113.7,"Invoice-Private",,08/17/2011,08/17/2011,,00713242MO,-3822.6000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2480,2480,"CR:Basic Service F... A.Lichatowich 201108: Lichatowich, August",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1633.7,1633.7,"CR:Resident Care -... A.Lichatowich 201108: Lichatowich, August",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,6295.0000,
+INVOICE,IN,,07410190,,04/13/2012,1945.0000,"Invoice-Private",,04/13/2012,04/13/2012,,07413826MO,-2405.0000,,,,,,,,,,
+TRANSACTION,3320,010305074,1,60.0000,60.00,"CR:Limited Term Di... M.Sheets 201204: Sheets, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305074,13,73.0000,949.00,"Basic Service Fee - Studio for Apr: Sheets, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,13,72.0000,936.00,"Resident Care - Level 5 for Apr: Sheets, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,07410190,,04/13/2012,4350,"Invoice-Private",,04/13/2012,04/13/2012,,07413826MO,-2405.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2190,2190,"CR:Basic Service F... M.Sheets 201204: Sheets, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,2160,2160,"CR:Resident Care -... M.Sheets 201204: Sheets, Mary",,,,,,,,,,,,,,,

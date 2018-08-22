@@ -1,0 +1,7 @@
+BATCH,,201209,B,200.0000,
+INVOICE,IN,,19410171,,09/01/2012,100.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19414305MO,-4343.0000,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40.00,"Monthly Cable: Dugdale, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212194,30,2.0000,60.00,"Credit for Limited Term Discount: Dugdale, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,19410171,,09/01/2012,100,"Invoice-Private",,09/01/2012,09/10/2012,,19414305MO,-4343.0000,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"Credit for Monthly Cable: Dugdale, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212194,30,2,60,"Limited Term Discount: Dugdale, Ethel",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201111,B,3181.0800,
+INVOICE,IN,,08910051,,11/09/2011,357.0300,"Invoice-Medicaid",,11/09/2011,11/09/2011,,08914524MO,-2467.0200,,,,,,,,,,
+TRANSACTION,3021,010306089,9,15.5300,139.77,"Medicaid Co-Pay for Nov: Smith, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,9,24.1400,217.26,"Medicaid Room & Board for Nov: Smith, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,08910051,,11/09/2011,2824.05,"Invoice-Medicaid",,11/09/2011,11/09/2011,,08914524MO,-2467.0200,,,,,,,,,,
+TRANSACTION,3021,010306089,1,465.85,465.85,"CR:Medicaid Co-Pay... F.Smith 201111: Smith, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,724.05,724.05,"CR:Medicaid Room &... F.Smith 201111: Smith, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3022,010306089,1,1634.15,1634.15,"CR:State Medicaid... F.Smith 201111: Smith, Frances",,,,,,,,,,,,,,,

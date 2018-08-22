@@ -1,0 +1,8 @@
+BATCH,,201207,B,6417.0000,
+INVOICE,IN,,13410238,,07/12/2012,2573.0000,"Invoice-Private",,07/12/2012,07/12/2012,,13415577MO,-1271.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,1,1085.0000,1085.00,"CR:Limited Term Di... J.Huckleberry 201207: Huckleberry, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309134,12,92.0000,1104.00,"Basic Service Fee - Studio for Jul: Huckleberry, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,12,32.0000,384.00,"Resident Care - Level 2 for Jul: Huckleberry, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13410238,,07/12/2012,3844,"Invoice-Private",,07/12/2012,07/12/2012,,13415577MO,-1271.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2852,2852,"CR:Basic Service F... J.Huckleberry 201207: Huckleberry, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,992,992,"CR:Resident Care -... J.Huckleberry 201207: Huckleberry, Jean",,,,,,,,,,,,,,,

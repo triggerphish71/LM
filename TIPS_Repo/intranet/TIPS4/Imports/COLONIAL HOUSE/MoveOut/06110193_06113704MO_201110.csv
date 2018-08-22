@@ -1,0 +1,5 @@
+BATCH,,201110,B,1612.0000,
+INVOICE,IN,,06110193,,10/01/2011,806.0000,"Invoice-Private",,10/01/2011,10/10/2011,,06113704MO,-4158.7000,,,,,,,,,,
+TRANSACTION,3320,010103061,31,26.0000,806.00,"Credit for Limited Term Discount: Haglund, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,06110193,,10/01/2011,806,"Invoice-Private",,10/01/2011,10/10/2011,,06113704MO,-4158.7000,,,,,,,,,,
+TRANSACTION,3320,010103061,31,26,806,"Limited Term Discount: Haglund, Francis",,,,,,,,,,,,,,,

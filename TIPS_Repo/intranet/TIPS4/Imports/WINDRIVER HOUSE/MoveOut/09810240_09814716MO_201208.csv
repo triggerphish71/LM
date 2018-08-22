@@ -1,0 +1,5 @@
+BATCH,,201208,B,2108.0000,
+INVOICE,IN,,09810240,,08/01/2012,1054.0000,"Invoice-Private",,08/01/2012,08/10/2012,,09814716MO,-2122.8800,,,,,,,,,,
+TRANSACTION,3320,010103098,31,34.0000,1054.00,"Credit for Limited Term Discount: Mylnar, Tony",,,,,,,,,,,,,,,
+INVOICE,CM,,09810240,,08/01/2012,1054,"Invoice-Private",,08/01/2012,08/10/2012,,09814716MO,-2122.8800,,,,,,,,,,
+TRANSACTION,3320,010103098,31,34,1054,"Limited Term Discount: Mylnar, Tony",,,,,,,,,,,,,,,

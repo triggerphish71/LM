@@ -1,0 +1,7 @@
+BATCH,,201201,B,4200.0000,
+INVOICE,IN,,16410245,,01/01/2012,1100.0000,"Invoice-Private",,01/01/2012,01/10/2012,,16416050MO,-2000.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,11,85.0000,935.00,"Basic Service Fee - Studio for Jan: Orbeck, Estella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,11,15.0000,165.00,"Resident Care - Level 1 for Jan: Orbeck, Estella",,,,,,,,,,,,,,,
+INVOICE,CM,,16410245,,01/01/2012,3100,"Invoice-Private",,01/01/2012,01/10/2012,,16416050MO,-2000.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2635,2635,"CR:Basic Service F... E.Orbeck 201201: Orbeck, Estella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,465,465,"CR:Resident Care -... E.Orbeck 201201: Orbeck, Estella",,,,,,,,,,,,,,,

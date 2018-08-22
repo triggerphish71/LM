@@ -1,0 +1,5 @@
+BATCH,,201203,B,50.0000,
+INVOICE,IN,,53310211,,03/01/2012,25.0000,"Invoice-Private",,03/01/2012,03/10/2012,,53314337MO,-2014.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25.00,"Pendant Fee: Nichols, Emeline",,,,,,,,,,,,,,,
+INVOICE,CM,,53310211,,03/01/2012,25,"Invoice-Private",,03/01/2012,03/10/2012,,53314337MO,-2014.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"Credit for Pendant Fee: Nichols, Emeline",,,,,,,,,,,,,,,

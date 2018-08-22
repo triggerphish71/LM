@@ -1,0 +1,7 @@
+BATCH,,201109,B,4932.3000,
+INVOICE,IN,,05310218,,09/07/2011,1323.3000,"Invoice-Private",,09/07/2011,09/07/2011,,05314251MO,-2285.7000,,,,,,,,,,
+TRANSACTION,3027,010101053,11,32.3000,355.30,"Resident Care - Level 19 for Sep: Welling, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,11,88.0000,968.00,"Room and Board - Studio for Sep: Welling, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,05310218,,09/07/2011,3609,"Invoice-Private",,09/07/2011,09/07/2011,,05314251MO,-2285.7000,,,,,,,,,,
+TRANSACTION,3027,010101053,1,969,969,"CR:Resident Care -... N.Welling 201109: Welling, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2640,2640,"CR:Room and Board ... N.Welling 201109: Welling, Norman",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,4220.0000,
+INVOICE,IN,,50310274,,03/01/2012,4220.0000,"March_Rent-Routin. Dorothy",,03/01/2012,03/10/2012,,50314063,6335.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,31,75.0000,2325,"Basic Service Fee - Studio: Routin. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,31,60.0000,1860,"Resident Care - Level 5: Routin. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Routin. Dorothy",,,,,,,,,,,,,,,

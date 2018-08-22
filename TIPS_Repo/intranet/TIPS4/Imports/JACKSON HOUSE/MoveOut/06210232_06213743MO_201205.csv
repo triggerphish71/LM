@@ -1,0 +1,5 @@
+BATCH,,201205,B,1155.0000,
+INVOICE,IN,,06210232,,05/01/2012,70.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06213743MO,-1015.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,2,35.0000,70.00,"Basic Service Fee - Second Resident for May: Potter, Irma",,,,,,,,,,,,,,,
+INVOICE,CM,,06210232,,05/01/2012,1085,"Invoice-Private",,05/01/2012,05/10/2012,,06213743MO,-1015.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,1085,1085,"CR:Basic Service F... I.Potter 201205: Potter, Irma",,,,,,,,,,,,,,,

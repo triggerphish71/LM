@@ -1,0 +1,8 @@
+BATCH,,201209,B,4632.0000,
+INVOICE,IN,,53010254,,09/02/2012,1232.0000,"Invoice-Private",,09/02/2012,09/02/2012,,53016360MO,-2168.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,11,82.0000,902.00,"Basic Service Fee - Studio for Sep: Haas, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,11,30.0000,330.00,"Resident Care - Level 1 for Sep: Haas, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,53010254,,09/02/2012,3400,"Invoice-Private",,09/02/2012,09/02/2012,,53016360MO,-2168.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,2460,2460,"CR:Basic Service F... J.Haas 201209: Haas, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... J.Haas 201209: Haas, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,900,900,"CR:Resident Care -... J.Haas 201209: Haas, Jane",,,,,,,,,,,,,,,

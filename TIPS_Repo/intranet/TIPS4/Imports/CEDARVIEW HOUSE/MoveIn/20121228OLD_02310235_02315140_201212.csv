@@ -1,0 +1,5 @@
+BATCH,,201212,B,2405.0000,
+INVOICE,IN,,02310235,,12/28/2012,2405.0000,"MoveIn-Anderson. Lillie",,12/28/2012,12/28/2012,,02315140,5375.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,4,95.0000,380,"Basic Service Fee - Studio: Anderson. Lillie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Anderson. Lillie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Anderson. Lillie",,,,,,,,,,,,,,,

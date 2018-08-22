@@ -1,0 +1,5 @@
+BATCH,,201109,B,4935.0000,
+INVOICE,IN,,05110166,,09/01/2011,4935.0000,"MoveIn-Smith. Evelyn",,09/01/2011,09/01/2011,,05114042,4935.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,30,97.0000,2910,"Basic Service Fee - Studio         : Smith. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25.0000,25,"Monthly Cable: Smith. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202051,1,2000.0000,2000,"New Resident Fee: Smith. Evelyn",,,,,,,,,,,,,,,

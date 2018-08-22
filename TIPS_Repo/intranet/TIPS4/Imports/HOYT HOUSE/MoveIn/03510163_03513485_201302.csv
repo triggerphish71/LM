@@ -1,0 +1,6 @@
+BATCH,,201302,B,5359.0000,
+INVOICE,IN,,03510163,,02/01/2013,5359.0000,"MoveIn-Scott. AJ",,02/01/2013,02/01/2013,,03513485,5359.0000,,,,,,,,,,
+TRANSACTION,3010,010202035,28,112.0000,3136,"Basic Service Fee - One Bedroom: Scott. AJ",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202035,28,16.0000,448,"Resident Care - Level 1: Scott. AJ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25.0000,25,"Monthly Cable: Scott. AJ",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202035,1,1750.0000,1750,"New Resident Fee: Scott. AJ",,,,,,,,,,,,,,,

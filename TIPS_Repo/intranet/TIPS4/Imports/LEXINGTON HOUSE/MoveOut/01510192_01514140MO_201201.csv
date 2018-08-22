@@ -1,0 +1,5 @@
+BATCH,,201201,B,3914.0000,
+INVOICE,IN,,01510192,,01/07/2012,721.0000,"Invoice-Private",,01/07/2012,01/07/2012,,01514140MO,-2472.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,7,103.0000,721.00,"Basic Service Fee - One Bedroom for Jan: Willmschen, Nada",,,,,,,,,,,,,,,
+INVOICE,CM,,01510192,,01/07/2012,3193,"Invoice-Private",,01/07/2012,01/07/2012,,01514140MO,-2472.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,3193,3193,"CR:Basic Service F... N.Willmschen 201201: Willmschen, Nada",,,,,,,,,,,,,,,

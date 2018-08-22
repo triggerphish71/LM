@@ -1,0 +1,5 @@
+BATCH,,201108,B,4086.0000,
+INVOICE,IN,,04310191,,08/01/2011,4086.0000,"August_Rent-Valenta. Joe",,08/01/2011,08/10/2011,,04313667,8100.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,31,95.0000,2945,"Basic Service Fee - Studio         : Valenta. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,31,36.0000,1116,"Resident Care - Level 2: Valenta. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Valenta. Joe",,,,,,,,,,,,,,,

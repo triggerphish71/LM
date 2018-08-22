@@ -1,0 +1,5 @@
+BATCH,,201108,B,60.0000,
+INVOICE,IN,,12910278,,08/01/2011,30.0000,"Invoice-Private",,08/01/2011,08/10/2011,,12915390MO,-4525.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Hazen, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,12910278,,08/01/2011,30,"Invoice-Private",,08/01/2011,08/10/2011,,12915390MO,-4525.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Hazen, Betty",,,,,,,,,,,,,,,

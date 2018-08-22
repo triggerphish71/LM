@@ -1,0 +1,5 @@
+BATCH,,201201,B,4969.0000,
+INVOICE,CM,,53010215,,01/01/2012,4969,"Invoice-Private",,01/01/2012,01/10/2012,,53015741MO,-4969.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3162,3162,"CR:Basic Service F... C.Payne 201201: Payne, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... C.Payne 201201: Payne, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1767,1767,"CR:Resident Care -... C.Payne 201201: Payne, Charles",,,,,,,,,,,,,,,

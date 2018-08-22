@@ -1,0 +1,7 @@
+BATCH,,201109,B,1570.0000,
+INVOICE,IN,,14210168,,09/01/2011,785.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14213594MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Bauer, Berta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,30,25.0000,750.00,"Credit for Limited Term Discount: Bauer, Berta",,,,,,,,,,,,,,,
+INVOICE,CM,,14210168,,09/01/2011,785,"Invoice-Private",,09/01/2011,09/10/2011,,14213594MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Bauer, Berta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,30,25,750,"Limited Term Discount: Bauer, Berta",,,,,,,,,,,,,,,

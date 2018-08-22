@@ -1,0 +1,4 @@
+BATCH,,201206,B,3840.0000,
+INVOICE,CM,,09410294,,06/01/2012,3840,"Invoice-Private",,06/01/2012,06/10/2012,,09415964MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2940,2940,"CR:Basic Service F... O.Student 201206: Student, Otto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,900,900,"CR:Resident Care -... O.Student 201206: Student, Otto",,,,,,,,,,,,,,,

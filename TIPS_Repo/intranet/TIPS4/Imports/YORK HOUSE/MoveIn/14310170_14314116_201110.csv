@@ -1,0 +1,5 @@
+BATCH,,201110,B,4015.0000,
+INVOICE,IN,,14310170,,10/01/2011,4015.0000,"MoveIn-Cunningham. Marie",,10/01/2011,10/01/2011,,14314116,4015.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,31,80.0000,2480,"Basic Service Fee - Studio         : Cunningham. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Cunningham. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Cunningham. Marie",,,,,,,,,,,,,,,

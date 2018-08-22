@@ -1,0 +1,6 @@
+BATCH,,201212,B,4092.0000,
+INVOICE,IN,,05510202,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,05514429MO,-5078.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,1,62.0000,62.00,"CR:Limited Term Di... W.Howard 201212: Howard, William",,,,,,,,,,,,,,,
+INVOICE,CM,,05510202,,12/01/2012,4030,"Invoice-Private",,12/01/2012,12/10/2012,,05514429MO,-5078.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2945,2945,"CR:Basic Service F... W.Howard 201212: Howard, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,1085,1085,"CR:Resident Care -... W.Howard 201212: Howard, William",,,,,,,,,,,,,,,

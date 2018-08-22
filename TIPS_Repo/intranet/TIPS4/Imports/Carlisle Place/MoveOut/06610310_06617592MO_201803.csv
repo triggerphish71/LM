@@ -1,0 +1,8 @@
+BATCH,,201803,B,8133.0000,
+INVOICE,IN,,06610310,,03/12/2018,2708.0000,"Invoice-Private",,03/12/2018,03/12/2018,,06617592MO,-2717.0000,,,,,,,,,,
+TRANSACTION,3017,010005066,4,38.0000,152.00," Level Care:  3  -from 2018-02-25: Dunn, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005066,12,60.0000,720.00," Level Care:  3 : Dunn, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005066,12,153.0000,1836.00,"Basic Service Fee - Deluxe  for Mar: Dunn, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,06610310,,03/12/2018,5425,"Invoice-Private",,03/12/2018,03/12/2018,,06617592MO,-2717.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,1,4743,4743,"CR:Basic Service F... J.Dunn 201803: Dunn, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,1,682,682,"CR:Resident Care -... J.Dunn 201803: Dunn, Joan",,,,,,,,,,,,,,,

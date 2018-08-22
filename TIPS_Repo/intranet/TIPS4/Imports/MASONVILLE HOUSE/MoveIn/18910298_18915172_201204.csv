@@ -1,0 +1,5 @@
+BATCH,,201204,B,3865.0000,
+INVOICE,IN,,18910298,,04/01/2012,3865.0000,"April_Rent-Shelton. Doug",,04/01/2012,04/10/2012,,18915172,7438.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,30,118.0000,3540,"Basic Service Fee- One Bedroom Prem: Shelton. Doug",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Shelton. Doug",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300,"CC Meals: Shelton. Doug",,,,,,,,,,,,,,,

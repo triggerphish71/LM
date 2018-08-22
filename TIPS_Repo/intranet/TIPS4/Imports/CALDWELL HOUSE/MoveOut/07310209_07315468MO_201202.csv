@@ -1,0 +1,5 @@
+BATCH,,201202,B,5335.0000,
+INVOICE,IN,,07310209,,02/26/2012,2522.0000,"Invoice-Private",,02/26/2012,02/26/2012,,07315468MO,-3298.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,26,97.0000,2522.00,"Basic Service Fee - Studio for Feb: Etherington, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07310209,,02/26/2012,2813,"Invoice-Private",,02/26/2012,02/26/2012,,07315468MO,-3298.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2813,2813,"CR:Basic Service F... B.Etherington 201202: Etherington, Betty",,,,,,,,,,,,,,,

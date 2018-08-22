@@ -1,0 +1,7 @@
+BATCH,,201210,B,5785.5600,
+INVOICE,IN,,00510152,,10/01/2012,803.5500,"Invoice-Private",,10/01/2012,10/10/2012,,00512532MO,-4178.4600,,,,,,,,,,
+TRANSACTION,3020,010101005,5,73.0000,365.00,"Basic Service Fee - Studio for Oct: Dement, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,5,87.7100,438.55,"Resident Care - Level 49 for Oct: Dement, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,00510152,,10/01/2012,4982.01,"Invoice-Private",,10/01/2012,10/10/2012,,00512532MO,-4178.4600,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2263,2263,"CR:Basic Service F... N.Dement 201210: Dement, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,2719.01,2719.01,"CR:Resident Care -... N.Dement 201210: Dement, Norma",,,,,,,,,,,,,,,

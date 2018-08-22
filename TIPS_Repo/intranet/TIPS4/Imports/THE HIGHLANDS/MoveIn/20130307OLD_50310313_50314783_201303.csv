@@ -1,0 +1,5 @@
+BATCH,,201303,B,2635.0000,
+INVOICE,IN,,50310313,,03/04/2013,2635.0000,"MoveIn-Dalton. Freda",,03/04/2013,03/04/2013,,50314783,2635.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,28,75.0000,2100,"Basic Service Fee - Studio: Dalton. Freda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Dalton. Freda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,500.0000,500,"New Resident Fee: Dalton. Freda",,,,,,,,,,,,,,,

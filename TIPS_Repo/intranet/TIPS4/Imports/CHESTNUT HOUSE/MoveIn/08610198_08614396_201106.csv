@@ -1,0 +1,5 @@
+BATCH,,201106,B,4128.0000,
+INVOICE,IN,,08610198,,06/16/2011,4128.0000,"MoveIn-bayer. marvin",,06/16/2011,06/16/2011,,08614396,4128.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,16,86.0000,1376,"Basic Service Fee - Studio         : bayer. marvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,16,47.0000,752,"Resident Care - Level 3: bayer. marvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000.0000,2000,"New Resident Fee: bayer. marvin",,,,,,,,,,,,,,,

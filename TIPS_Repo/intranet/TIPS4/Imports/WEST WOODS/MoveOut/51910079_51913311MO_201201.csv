@@ -1,0 +1,8 @@
+BATCH,,201201,B,7769.2500,
+INVOICE,IN,,51910079,,01/16/2012,2972.0000,"Invoice-Private",,01/16/2012,01/16/2012,,51913311MO,-5849.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,496.0000,496.00,"CR:Limited Term Di... D.Perkins 201201: Perkins, Dorothy H",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,16,110.0000,1760.00,"Basic Service Fee - One Bedroom for Jan: Perkins, Dorothy H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,16,44.7500,716.00,"Resident Care - Level 25 for Jan: Perkins, Dorothy H",,,,,,,,,,,,,,,
+INVOICE,CM,,51910079,,01/16/2012,4797.25,"Invoice-Private",,01/16/2012,01/16/2012,,51913311MO,-5849.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3410,3410,"CR:Basic Service F... D.Perkins 201201: Perkins, Dorothy H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,1387.25,1387.25,"CR:Resident Care -... D.Perkins 201201: Perkins, Dorothy H",,,,,,,,,,,,,,,

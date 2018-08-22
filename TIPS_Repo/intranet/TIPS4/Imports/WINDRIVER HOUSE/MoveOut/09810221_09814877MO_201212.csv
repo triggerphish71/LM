@@ -1,0 +1,6 @@
+BATCH,,201212,B,5960.6800,
+INVOICE,IN,,09810221,,12/01/2012,1271.0000,"Invoice-Private",,12/01/2012,12/10/2012,,09814877MO,-4004.0400,,,,,,,,,,
+TRANSACTION,3320,010103098,1,1271.0000,1271.00,"CR:Limited Term Di... M.Boulden 201212: Boulden, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,09810221,,12/01/2012,4689.68,"Invoice-Private",,12/01/2012,12/10/2012,,09814877MO,-4004.0400,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2914,2914,"CR:Basic Service F... M.Boulden 201212: Boulden, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1775.68,1775.68,"CR:Resident Care -... M.Boulden 201212: Boulden, Marion",,,,,,,,,,,,,,,

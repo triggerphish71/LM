@@ -1,0 +1,8 @@
+BATCH,,201306,B,5222.0000,
+INVOICE,IN,,19210300,,06/09/2013,1197.0000,"Invoice-Private",,06/09/2013,06/09/2013,,19215881MO,-2828.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,9,115.0000,1035.00,"Basic Service Fee - Studio for Jun: Otterman, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,9,18.0000,162.00,"Resident Care - Level 1 for Jun: Otterman, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19210300,,06/09/2013,4025,"Invoice-Private",,06/09/2013,06/09/2013,,19215881MO,-2828.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3450,3450,"CR:Basic Service F... J.Otterman 201306: Otterman, James",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... J.Otterman 201306: Otterman, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,540,540,"CR:Resident Care -... J.Otterman 201306: Otterman, James",,,,,,,,,,,,,,,

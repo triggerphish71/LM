@@ -1,0 +1,6 @@
+BATCH,,201112,B,5580.0000,
+INVOICE,IN,,15410232,,12/03/2011,5580.0000,"MoveIn-Fender. Vada",,12/03/2011,12/03/2011,,15414669,5580.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,29,70.0000,2030,"Basic Service Fee - Studio: Fender. Vada",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,29,35.0000,1015,"Resident Care - Level 2: Fender. Vada",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Fender. Vada",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2500.0000,2500,"New Resident Fee: Fender. Vada",,,,,,,,,,,,,,,

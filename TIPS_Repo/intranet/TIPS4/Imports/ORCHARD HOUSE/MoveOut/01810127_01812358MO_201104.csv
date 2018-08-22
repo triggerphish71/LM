@@ -1,0 +1,8 @@
+BATCH,,201104,B,8045.4000,
+INVOICE,IN,,01810127,,04/24/2011,4142.4000,"Invoice-Private",,04/24/2011,04/24/2011,,01812358MO,-2739.7000,,,,,,,,,,
+TRANSACTION,3320,010103018,1,1020.0000,1020.00,"CR:Limited Term Di... E.Dellinger 201104: Dellinger, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,24,56.1000,1346.40,"Resident Care - Level 33 for Apr: Dellinger, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,24,74.0000,1776.00,"Room and Board - Studio for Apr: Dellinger, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,01810127,,04/24/2011,3903,"Invoice-Private",,04/24/2011,04/24/2011,,01812358MO,-2739.7000,,,,,,,,,,
+TRANSACTION,3027,010103018,1,1683,1683,"CR:Resident Care -... E.Dellinger 201104: Dellinger, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2220,2220,"CR:Room and Board ... E.Dellinger 201104: Dellinger, Esther",,,,,,,,,,,,,,,

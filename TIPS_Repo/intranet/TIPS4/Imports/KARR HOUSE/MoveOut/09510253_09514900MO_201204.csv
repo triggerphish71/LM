@@ -1,0 +1,8 @@
+BATCH,,201204,B,7183.6500,
+INVOICE,IN,,09510253,,04/20/2012,3690.7500,"Invoice-Private",,04/20/2012,04/20/2012,,09514900MO,-2605.4800,,,,,,,,,,
+TRANSACTION,3320,010103095,1,780.0000,780.00,"CR:Limited Term Di... M.McGuire 201204: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,25,86.0000,2150.00,"Basic Service Fee - Studio for Apr: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,25,30.4300,760.75,"Resident Care - Level 17 for Apr: McGuire, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09510253,,04/20/2012,3492.9,"Invoice-Private",,04/20/2012,04/20/2012,,09514900MO,-2605.4800,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2580,2580,"CR:Basic Service F... M.McGuire 201204: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,912.9,912.9,"CR:Resident Care -... M.McGuire 201204: McGuire, Mary",,,,,,,,,,,,,,,

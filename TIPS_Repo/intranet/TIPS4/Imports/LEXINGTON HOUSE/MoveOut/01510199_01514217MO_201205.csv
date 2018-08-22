@@ -1,0 +1,5 @@
+BATCH,,201205,B,1178.0000,
+INVOICE,IN,,01510199,,05/01/2012,589.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01514217MO,-1832.6400,,,,,,,,,,
+TRANSACTION,3320,010103015,31,19.0000,589.00,"Credit for Limited Term Discount: Kolstad, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,01510199,,05/01/2012,589,"Invoice-Private",,05/01/2012,05/10/2012,,01514217MO,-1832.6400,,,,,,,,,,
+TRANSACTION,3320,010103015,31,19,589,"Limited Term Discount: Kolstad, Edith",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201209,B,5050.0000,
+INVOICE,IN,,18910306,,09/14/2012,2055.0000,"Invoice-Private",,09/14/2012,09/14/2012,,18915455MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,720.0000,720.00,"CR:Limited Term Di... M.Brower 201209: Brower, Margret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315189,15,89.0000,1335.00,"Basic Service Fee - Studio for Sep: Brower, Margret",,,,,,,,,,,,,,,
+INVOICE,CM,,18910306,,09/14/2012,2995,"Invoice-Private",,09/14/2012,09/14/2012,,18915455MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2670,2670,"CR:Basic Service F... M.Brower 201209: Brower, Margret",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,300,300,"CR:CC Meals... M.Brower 201209: Brower, Margret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... M.Brower 201209: Brower, Margret",,,,,,,,,,,,,,,

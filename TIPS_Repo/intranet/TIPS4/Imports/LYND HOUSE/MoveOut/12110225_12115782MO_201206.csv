@@ -1,0 +1,8 @@
+BATCH,,201206,B,1862.0000,
+INVOICE,IN,,12110225,,06/01/2012,272.0000,"Invoice-Private",,06/01/2012,06/01/2012,,12115782MO,-1318.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,60.0000,60.00,"CR:Limited Term Di... L.Sexton 201206: Sexton, Loma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,4,37.0000,148.00,"Basic Service Fee - Second Resident for Jun: Sexton, Loma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,4,16.0000,64.00,"Resident Care - Level 1 for Jun: Sexton, Loma",,,,,,,,,,,,,,,
+INVOICE,CM,,12110225,,06/01/2012,1590,"Invoice-Private",,06/01/2012,06/01/2012,,12115782MO,-1318.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,1110,1110,"CR:Basic Service F... L.Sexton 201206: Sexton, Loma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,480,480,"CR:Resident Care -... L.Sexton 201206: Sexton, Loma",,,,,,,,,,,,,,,

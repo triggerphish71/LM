@@ -1,0 +1,6 @@
+BATCH,,201106,B,3565.0000,
+INVOICE,IN,,11110282,,06/17/2011,3565.0000,"MoveIn-Achten. Mark",,06/17/2011,06/17/2011,,11114386,3565.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,14,94.0000,1316,"M.Achten: Basic Service Fee - Studio: Achten. Mark",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,14,16.0000,224,"M.Achten: Resident Care - Level 1: Achten. Mark",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Achten. Mark",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Achten. Mark",,,,,,,,,,,,,,,

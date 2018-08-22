@@ -1,0 +1,7 @@
+BATCH,,201204,B,3058.0000,
+INVOICE,IN,,12010246,,04/06/2012,78.0000,"Invoice-Private",,04/06/2012,04/06/2012,,12014362MO,-2902.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,78.0000,78.00,"Basic Service Fee - Studio for Apr: Cooney, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,12010246,,04/06/2012,2980,"Invoice-Private",,04/06/2012,04/06/2012,,12014362MO,-2902.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,1950,1950,"CR:Basic Service F... P.Cooney 201204: Cooney, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... P.Cooney 201204: Cooney, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000,1000,"CR:New Resident Fe... P.Cooney 201204: Cooney, Phyllis",,,,,,,,,,,,,,,

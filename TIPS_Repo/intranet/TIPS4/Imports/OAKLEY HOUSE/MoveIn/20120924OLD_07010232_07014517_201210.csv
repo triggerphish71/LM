@@ -1,0 +1,5 @@
+BATCH,,201210,B,3895.0000,
+INVOICE,IN,,07010232,,10/01/2012,3895.0000,"October_Rent-Wilson. Mary Catherine",,10/01/2012,10/10/2012,,07014517,5165.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,31,98.0000,3038,"Basic Service Fee - Deluxe: Wilson. Mary Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,31,27.0000,837,"Resident Care - Level 2: Wilson. Mary Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Wilson. Mary Catherine",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,7380.0000,
+INVOICE,IN,,10710353,,12/28/2012,3877.0000,"Invoice-Private",,12/28/2012,12/28/2012,,10716542MO,-2416.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,713.0000,713.00,"CR:Limited Term Di... L.Jones 201212: Jones, Ledora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,28,98.0000,2744.00,"Basic Service Fee - Studio for Dec: Jones, Ledora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,28,15.0000,420.00,"Resident Care - Level 1 for Dec: Jones, Ledora",,,,,,,,,,,,,,,
+INVOICE,CM,,10710353,,12/28/2012,3503,"Invoice-Private",,12/28/2012,12/28/2012,,10716542MO,-2416.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... L.Jones 201212: Jones, Ledora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,465,465,"CR:Resident Care -... L.Jones 201212: Jones, Ledora",,,,,,,,,,,,,,,

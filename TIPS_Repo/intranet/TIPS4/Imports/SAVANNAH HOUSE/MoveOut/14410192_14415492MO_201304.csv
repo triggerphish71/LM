@@ -1,0 +1,7 @@
+BATCH,,201304,B,126.0000,
+INVOICE,IN,,14410192,,04/01/2013,63.0000,"Invoice-Private",,04/01/2013,04/10/2013,,14415492MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Dobies, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Dobies, Ida",,,,,,,,,,,,,,,
+INVOICE,CM,,14410192,,04/01/2013,63,"Invoice-Private",,04/01/2013,04/10/2013,,14415492MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Dobies, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Dobies, Ida",,,,,,,,,,,,,,,

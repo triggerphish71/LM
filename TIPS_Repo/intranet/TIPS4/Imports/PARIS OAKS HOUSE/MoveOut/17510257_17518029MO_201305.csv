@@ -1,0 +1,7 @@
+BATCH,,201305,B,6902.0000,
+INVOICE,IN,,17510257,,05/01/2013,3213.0000,"Invoice-Private",,05/01/2013,05/10/2013,,17518029MO,-4046.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,27,45.0000,1215.00,"Resident Care - Level 4 for May: Dowdy, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,27,74.0000,1998.00,"Room and Board - Studio Deluxe for May: Dowdy, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,17510257,,05/01/2013,3689,"Invoice-Private",,05/01/2013,05/10/2013,,17518029MO,-4046.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,1,1395,1395,"CR:Resident Care -... D.Dowdy 201305: Dowdy, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2294,2294,"CR:Room and Board ... D.Dowdy 201305: Dowdy, Doris",,,,,,,,,,,,,,,

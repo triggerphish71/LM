@@ -1,0 +1,7 @@
+BATCH,,201108,B,256.0000,
+INVOICE,IN,,17810159,,08/01/2011,128.0000,"Invoice-Private",,08/01/2011,08/10/2011,,17815662MO,-1524.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Powell, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,3.0000,93.00,"Credit for Limited Term Discount: Powell, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,17810159,,08/01/2011,128,"Invoice-Private",,08/01/2011,08/10/2011,,17815662MO,-1524.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Powell, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,3,93,"Limited Term Discount: Powell, Marguerite",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,3190.0000,
+INVOICE,IN,,02411323,,03/30/2013,223.0000,"MoveIn-Rogers. Bette",,03/30/2013,03/30/2013,,02416112,3190.0000,,,,,,,,,,
+TRANSACTION,3014,010202024,2,98.0000,196,"B.Rogers: Basic Service Fee - Studio: Rogers. Bette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27,"Monthly Cable: Rogers. Bette",,,,,,,,,,,,,,,
+INVOICE,IN,,02411323,,04/01/2013,2967.0000,"April_Rent-Rogers. Bette",,04/01/2013,04/10/2013,,02416112,3190.0000,,,,,,,,,,
+TRANSACTION,3010,010202024,30,98.0000,2940,"B.Rogers: Basic Service Fee - Studio: Rogers. Bette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27,"Monthly Cable: Rogers. Bette",,,,,,,,,,,,,,,

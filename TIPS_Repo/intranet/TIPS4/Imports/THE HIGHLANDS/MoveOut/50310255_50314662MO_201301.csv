@@ -1,0 +1,5 @@
+BATCH,,201301,B,3135.0000,
+INVOICE,CM,,50310255,,01/01/2013,3135,"Invoice-Private",,01/01/2013,01/10/2013,,50314662MO,-4045.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... R.Marcum 201301: Marcum, Reva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... R.Marcum 201301: Marcum, Reva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,775,775,"CR:Resident Care -... R.Marcum 201301: Marcum, Reva",,,,,,,,,,,,,,,

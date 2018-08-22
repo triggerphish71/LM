@@ -1,0 +1,5 @@
+BATCH,,201202,B,6156.0000,
+INVOICE,IN,,19210260,,02/25/2012,2850.0000,"Invoice-Private",,02/25/2012,02/25/2012,,19215103MO,-3990.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,25,114.0000,2850.00,"Basic Service Fee - Studio for Feb: Zimmerman, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,19210260,,02/25/2012,3306,"Invoice-Private",,02/25/2012,02/25/2012,,19215103MO,-3990.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3306,3306,"CR:Basic Service F... W.Zimmerman 201202: Zimmerman, Wilma",,,,,,,,,,,,,,,

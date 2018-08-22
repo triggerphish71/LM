@@ -1,0 +1,8 @@
+BATCH,,201112,B,8435.0000,
+INVOICE,IN,,15810142,,12/12/2011,2975.0000,"Invoice-Private",,12/12/2011,12/12/2011,,15814351MO,-8069.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,17,92.0000,1564.00,"Basic Service Fee - Studio for Dec: Smith, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,17,83.0000,1411.00,"Resident Care - Level 6 for Dec: Smith, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,15810142,,12/12/2011,5460,"Invoice-Private",,12/12/2011,12/12/2011,,15814351MO,-8069.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2852,2852,"CR:Basic Service F... P.Smith 201112: Smith, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35,35,"CR:Pendant Fee... P.Smith 201112: Smith, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,2573,2573,"CR:Resident Care -... P.Smith 201112: Smith, Phyllis",,,,,,,,,,,,,,,

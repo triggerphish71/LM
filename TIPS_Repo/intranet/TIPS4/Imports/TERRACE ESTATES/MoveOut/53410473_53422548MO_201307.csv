@@ -1,0 +1,7 @@
+BATCH,,201307,B,4851.0000,
+INVOICE,IN,,53410473,,06/28/2013,792.0000,"Invoice-Private",,06/28/2013,06/28/2013,,53422548MO,-3267.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,8,99.0000,792.00,"Basic Service Fee - Two Bed Two Bath for Jun: Fisher, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53410473,,06/28/2013,990,"Invoice-Private",,06/28/2013,06/28/2013,,53422548MO,-3267.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,990,990,"CR:Basic Service F... J.Fisher 201306: Fisher, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53410473,,07/01/2013,3069,"Invoice-Private",,07/01/2013,07/10/2013,,53422548MO,-3267.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,3069,3069,"CR:Basic Service F... J.Fisher 201307: Fisher, Jean",,,,,,,,,,,,,,,

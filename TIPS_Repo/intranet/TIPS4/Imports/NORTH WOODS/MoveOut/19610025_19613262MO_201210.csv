@@ -1,0 +1,8 @@
+BATCH,,201210,B,5922.0000,
+INVOICE,IN,,19610025,,10/15/2012,1830.0000,"Invoice-Private",,10/15/2012,10/15/2012,,19613262MO,-2262.0000,,,,,,,,,,
+TRANSACTION,3027,010315196,15,35.0000,525.00,"Resident Care - Level 3 for Oct: Barnes, Violet Faye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315196,15,87.0000,1305.00,"Room and Board - Studio for Oct: Barnes, Violet Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,19610025,,10/15/2012,4092,"Invoice-Private",,10/15/2012,10/15/2012,,19613262MO,-2262.0000,,,,,,,,,,
+TRANSACTION,2094,010315196,1,310,310,"CR:CC Meals... V.Barnes 201210: Barnes, Violet Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,1085,1085,"CR:Resident Care -... V.Barnes 201210: Barnes, Violet Faye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315196,1,2697,2697,"CR:Room and Board ... V.Barnes 201210: Barnes, Violet Faye",,,,,,,,,,,,,,,

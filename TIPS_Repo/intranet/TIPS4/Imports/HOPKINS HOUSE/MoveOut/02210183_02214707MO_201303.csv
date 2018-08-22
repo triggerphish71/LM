@@ -1,0 +1,7 @@
+BATCH,,201303,B,7869.0000,
+INVOICE,IN,,02210183,,03/30/2013,3870.0000,"Invoice-Private",,03/30/2013,03/30/2013,,02214707MO,-3999.0000,,,,,,,,,,
+TRANSACTION,3027,010202022,30,44.0000,1320.00,"Resident Care - Level 3 for Mar: Skidmore, Jo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202022,30,85.0000,2550.00,"Room and Board - Studio for Mar: Skidmore, Jo",,,,,,,,,,,,,,,
+INVOICE,CM,,02210183,,03/30/2013,3999,"Invoice-Private",,03/30/2013,03/30/2013,,02214707MO,-3999.0000,,,,,,,,,,
+TRANSACTION,3027,010202022,1,1364,1364,"CR:Resident Care -... J.Skidmore 201303: Skidmore, Jo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2635,2635,"CR:Room and Board ... J.Skidmore 201303: Skidmore, Jo",,,,,,,,,,,,,,,

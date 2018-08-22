@@ -1,0 +1,8 @@
+BATCH,,201212,B,5703.0000,
+INVOICE,IN,,13310389,,12/21/2012,2289.0000,"Invoice-Private",,12/21/2012,12/21/2012,,13315688MO,-4539.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,21,92.0000,1932.00,"Basic Service Fee - Studio for Dec: Rowlands, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,21,17.0000,357.00,"Resident Care - Level 1 for Dec: Rowlands, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,13310389,,12/21/2012,3414,"Invoice-Private",,12/21/2012,12/21/2012,,13315688MO,-4539.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... P.Rowlands 201212: Rowlands, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... P.Rowlands 201212: Rowlands, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,527,527,"CR:Resident Care -... P.Rowlands 201212: Rowlands, Pauline",,,,,,,,,,,,,,,

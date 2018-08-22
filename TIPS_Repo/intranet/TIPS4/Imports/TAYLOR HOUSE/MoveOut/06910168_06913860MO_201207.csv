@@ -1,0 +1,7 @@
+BATCH,,201207,B,4725.0000,
+INVOICE,IN,,06910168,,07/01/2012,1470.0000,"Invoice-Private",,07/01/2012,07/10/2012,,06913860MO,-1785.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,14,76.0000,1064.00,"Basic Service Fee - Studio for Jul: Nivison, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,14,29.0000,406.00,"Resident Care - Level 2 for Jul: Nivison, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,06910168,,07/01/2012,3255,"Invoice-Private",,07/01/2012,07/10/2012,,06913860MO,-1785.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2356,2356,"CR:Basic Service F... D.Nivison 201207: Nivison, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,899,899,"CR:Resident Care -... D.Nivison 201207: Nivison, Dale",,,,,,,,,,,,,,,

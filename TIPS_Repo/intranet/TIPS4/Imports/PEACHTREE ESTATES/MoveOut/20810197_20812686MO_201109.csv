@@ -1,0 +1,6 @@
+BATCH,,201109,B,4140.0000,
+INVOICE,IN,,20810197,,09/01/2011,600.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20812686MO,-2556.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,600.0000,600.00,"CR:Limited Term Di... E.Crider 201109: Crider, Edgar",,,,,,,,,,,,,,,
+INVOICE,CM,,20810197,,09/01/2011,3540,"Invoice-Private",,09/01/2011,09/10/2011,,20812686MO,-2556.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2910,2910,"CR:One Bedroom... E.Crider 201109: Crider, Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,630,630,"CR:Resident Care -... E.Crider 201109: Crider, Edgar",,,,,,,,,,,,,,,

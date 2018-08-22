@@ -1,0 +1,5 @@
+BATCH,,201301,B,4099.0000,
+INVOICE,IN,,02810239,,01/15/2013,4099.0000,"MoveIn-Bennett. Sidney",,01/15/2013,01/15/2013,,02815567,4099.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,17,122.0000,2074,"Basic Service Fee - One Bedroom: Bennett. Sidney",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Bennett. Sidney",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Bennett. Sidney",,,,,,,,,,,,,,,

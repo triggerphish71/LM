@@ -1,0 +1,8 @@
+BATCH,,201202,B,7013.0000,
+INVOICE,IN,,20610239,,02/21/2012,3765.0000,"Invoice-Private",,02/21/2012,02/21/2012,,20612617MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,1189.0000,1189.00,"CR:Limited Term Di... W.Pitzonka 201202: Pitzonka, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,23,21.0000,483.00,"Resident Care - Level 2 for Feb: Pitzonka, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,23,91.0000,2093.00,"Room and Board - Studio for Feb: Pitzonka, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,20610239,,02/21/2012,3248,"Invoice-Private",,02/21/2012,02/21/2012,,20612617MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,609,609,"CR:Resident Care -... W.Pitzonka 201202: Pitzonka, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2639,2639,"CR:Room and Board ... W.Pitzonka 201202: Pitzonka, Walter",,,,,,,,,,,,,,,

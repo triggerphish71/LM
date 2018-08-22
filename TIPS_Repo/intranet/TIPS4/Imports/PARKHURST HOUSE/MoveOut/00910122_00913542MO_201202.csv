@@ -1,0 +1,8 @@
+BATCH,,201202,B,5819.7300,
+INVOICE,IN,,00910122,,02/18/2012,2264.6200,"Invoice-Private",,02/18/2012,02/18/2012,,00913542MO,-5028.7800,,,,,,,,,,
+TRANSACTION,3320,010101009,1,58.0000,58.00,"CR:Limited Term Di... W.Bayless 201202: Bayless, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,18,85.0000,1530.00,"Basic Service Fee - Studio for Feb: Bayless, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,18,37.5900,676.62,"Resident Care - Level 21 for Feb: Bayless, William",,,,,,,,,,,,,,,
+INVOICE,CM,,00910122,,02/18/2012,3555.11,"Invoice-Private",,02/18/2012,02/18/2012,,00913542MO,-5028.7800,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2465,2465,"CR:Basic Service F... W.Bayless 201202: Bayless, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1090.11,1090.11,"CR:Resident Care -... W.Bayless 201202: Bayless, William",,,,,,,,,,,,,,,

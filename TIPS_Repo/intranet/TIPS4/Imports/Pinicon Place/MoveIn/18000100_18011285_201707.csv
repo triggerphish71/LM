@@ -1,0 +1,6 @@
+BATCH,,201707,B,9467.0800,
+INVOICE,IN,,18000100,,07/12/2017,9467.0800,"MoveIn-pinicon2. Mable",,07/12/2017,07/12/2017,,18011285,9467.0800,,,,,,,,,,
+TRANSACTION,3010,010012180,1,2935.4800,2935.48,"Basic Service Fee - Studio: pinicon2. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012180,1,3250.0000,3250,"CommunityFee: pinicon2. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012180,1,31.6000,31.6,"Monthly Cable: pinicon2. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012180,1,3250.0000,3250,"Monthly Deferral Charge: pinicon2. Mable",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,3666.0000,
+INVOICE,IN,,15710242,,07/08/2011,3666.0000,"MoveIn-Evard. Phyllis",,07/08/2011,07/08/2011,,15714132,3666.0000,,,,,,,,,,
+TRANSACTION,3010,010309157,24,89.0000,2136,"Basic Service Fee - Studio         : Evard. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30,"Monthly Cable: Evard. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309157,1,1500.0000,1500,"New Resident Fee: Evard. Phyllis",,,,,,,,,,,,,,,

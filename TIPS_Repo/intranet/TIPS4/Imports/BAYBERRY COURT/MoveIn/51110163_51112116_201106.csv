@@ -1,0 +1,6 @@
+BATCH,,201106,B,5828.0000,
+INVOICE,IN,,51110163,,06/10/2011,5828.0000,"MoveIn-Theoret. Ronald",,06/10/2011,06/10/2011,,51112116,5828.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,21,97.0000,2037,"Basic Service Fee - Studio: Theoret. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,21,84.0000,1764,"Resident Care - Level 6: Theoret. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Theoret. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310511,1,2000.0000,2000,"New Resident Fee: Theoret. Ronald",,,,,,,,,,,,,,,

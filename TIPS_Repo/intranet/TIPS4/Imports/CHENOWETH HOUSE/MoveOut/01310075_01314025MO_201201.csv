@@ -1,0 +1,7 @@
+BATCH,,201201,B,2116.0200,
+INVOICE,IN,,01310075,,01/01/2012,1058.0100,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314025MO,-839.4700,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Rosalez, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1030.0100,1030.01,"State Medicaid: Rosalez, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,01310075,,01/01/2012,1058.01,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314025MO,-839.4700,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Rosalez, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1030.01,1030.01,"Credit for State Medicaid: Rosalez, Richard",,,,,,,,,,,,,,,

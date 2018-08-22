@@ -1,0 +1,5 @@
+BATCH,,201201,B,3157.0000,
+INVOICE,IN,,05810211,,01/06/2012,3157.0000,"MoveIn-Madison. Sue",,01/06/2012,01/06/2012,,05813753,3157.0000,,,,,,,,,,
+TRANSACTION,3010,010202058,26,82.0000,2132,"Basic Service Fee - Studio: Madison. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25,"Monthly Cable: Madison. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000.0000,1000,"New Resident Fee: Madison. Sue",,,,,,,,,,,,,,,

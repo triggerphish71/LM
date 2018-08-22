@@ -1,0 +1,7 @@
+BATCH,,201107,B,670.0000,
+INVOICE,IN,,14010204,,07/01/2011,335.0000,"Invoice-Private",,07/01/2011,07/10/2011,,14013449MO,-3265.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,31,10.0000,310.00,"Credit for Limited Term Discount: Sarber, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309140,1,25.0000,25.00,"Pendant Fee: Sarber, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,14010204,,07/01/2011,335,"Invoice-Private",,07/01/2011,07/10/2011,,14013449MO,-3265.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,31,10,310,"Limited Term Discount: Sarber, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309140,1,25,25,"Credit for Pendant Fee: Sarber, Geraldine",,,,,,,,,,,,,,,

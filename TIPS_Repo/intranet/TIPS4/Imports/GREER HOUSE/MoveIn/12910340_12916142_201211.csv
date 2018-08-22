@@ -1,0 +1,5 @@
+BATCH,,201211,B,4142.0000,
+INVOICE,IN,,12910340,,11/09/2012,4142.0000,"MoveIn-Fee. Thomas",,11/09/2012,11/09/2012,,12916142,4142.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,22,96.0000,2112,"Basic Service Fee - Studio: Fee. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Fee. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Fee. Thomas",,,,,,,,,,,,,,,

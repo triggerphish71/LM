@@ -1,0 +1,8 @@
+BATCH,,201206,B,8672.0000,
+INVOICE,IN,,12910319,,06/28/2012,4172.0000,"Invoice-Private",,06/28/2012,06/28/2012,,12915956MO,-4977.0000,,,,,,,,,,
+TRANSACTION,3027,010310129,28,53.0000,1484.00,"Resident Care - Level 3 for Jun: Pitzer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,28,96.0000,2688.00,"Room and Board - Studio for Jun: Pitzer, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,12910319,,06/28/2012,4500,"Invoice-Private",,06/28/2012,06/28/2012,,12915956MO,-4977.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... R.Pitzer 201206: Pitzer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1590,1590,"CR:Resident Care -... R.Pitzer 201206: Pitzer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2880,2880,"CR:Room and Board ... R.Pitzer 201206: Pitzer, Ralph",,,,,,,,,,,,,,,

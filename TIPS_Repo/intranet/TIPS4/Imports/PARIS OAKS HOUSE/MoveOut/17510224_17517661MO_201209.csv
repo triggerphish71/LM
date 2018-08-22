@@ -1,0 +1,5 @@
+BATCH,,201209,B,780.0000,
+INVOICE,IN,,17510224,,09/01/2012,390.0000,"Invoice-Private",,09/01/2012,09/10/2012,,17517661MO,-587.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,13.0000,390.00,"Credit for Limited Term Discount: Brown, Aud",,,,,,,,,,,,,,,
+INVOICE,CM,,17510224,,09/01/2012,390,"Invoice-Private",,09/01/2012,09/10/2012,,17517661MO,-587.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,13,390,"Limited Term Discount: Brown, Aud",,,,,,,,,,,,,,,

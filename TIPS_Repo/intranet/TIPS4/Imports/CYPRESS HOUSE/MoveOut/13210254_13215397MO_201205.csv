@@ -1,0 +1,5 @@
+BATCH,,201205,B,54.0000,
+INVOICE,IN,,13210254,,05/01/2012,27.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13215397MO,-3043.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Haynes, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13210254,,05/01/2012,27,"Invoice-Private",,05/01/2012,05/10/2012,,13215397MO,-3043.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Haynes, Jean",,,,,,,,,,,,,,,

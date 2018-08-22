@@ -1,0 +1,6 @@
+BATCH,,201211,B,3765.9000,
+INVOICE,IN,,51610265,,11/01/2012,720.0000,"Invoice-Private",,11/01/2012,11/10/2012,,51613937MO,-2325.9000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,720.0000,720.00,"CR:Limited Term Di... D.Israel 201211: Israel, Dorthey",,,,,,,,,,,,,,,
+INVOICE,CM,,51610265,,11/01/2012,3045.9,"Invoice-Private",,11/01/2012,11/10/2012,,51613937MO,-2325.9000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2670,2670,"CR:Basic Service F... D.Israel 201211: Israel, Dorthey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,375.9,375.9,"CR:Resident Care -... D.Israel 201211: Israel, Dorthey",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201306,B,4974.0000,
+INVOICE,IN,,16110253,,06/18/2013,1854.0000,"Invoice-Private",,06/18/2013,06/18/2013,,16115919MO,-4489.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,18,89.0000,1602.00,"Basic Service Fee - Studio for Jun: Hodges, Waunita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,18,14.0000,252.00,"Resident Care - Level 1 for Jun: Hodges, Waunita",,,,,,,,,,,,,,,
+INVOICE,CM,,16110253,,06/18/2013,3120,"Invoice-Private",,06/18/2013,06/18/2013,,16115919MO,-4489.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2670,2670,"CR:Basic Service F... W.Hodges 201306: Hodges, Waunita",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313161,1,30,30,"CR:Pendant Fee... W.Hodges 201306: Hodges, Waunita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,420,420,"CR:Resident Care -... W.Hodges 201306: Hodges, Waunita",,,,,,,,,,,,,,,

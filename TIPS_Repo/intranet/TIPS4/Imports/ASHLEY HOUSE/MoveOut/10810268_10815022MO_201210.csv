@@ -1,0 +1,8 @@
+BATCH,,201210,B,5999.0000,
+INVOICE,IN,,10810268,,10/20/2012,2899.0000,"Invoice-Private",,10/20/2012,10/20/2012,,10815022MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,1,899.0000,899.00,"CR:Limited Term Di... T.Parrish 201210: Parrish, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,20,84.0000,1680.00,"Basic Service Fee - Studio for Oct: Parrish, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,20,16.0000,320.00,"Resident Care - Level 1 for Oct: Parrish, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,10810268,,10/20/2012,3100,"Invoice-Private",,10/20/2012,10/20/2012,,10815022MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Basic Service F... T.Parrish 201210: Parrish, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... T.Parrish 201210: Parrish, Thelma",,,,,,,,,,,,,,,

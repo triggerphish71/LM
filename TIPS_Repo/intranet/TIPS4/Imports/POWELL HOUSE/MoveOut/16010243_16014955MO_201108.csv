@@ -1,0 +1,7 @@
+BATCH,,201108,B,174.0000,
+INVOICE,IN,,16010243,,08/01/2011,87.0000,"Invoice-Private",,08/01/2011,08/10/2011,,16014955MO,-4374.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25.00,"Monthly Cable: Maxwell, Vonda",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,2.0000,62.00,"Credit for Limited Term Discount: Maxwell, Vonda",,,,,,,,,,,,,,,
+INVOICE,CM,,16010243,,08/01/2011,87,"Invoice-Private",,08/01/2011,08/10/2011,,16014955MO,-4374.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"Credit for Monthly Cable: Maxwell, Vonda",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,2,62,"Limited Term Discount: Maxwell, Vonda",,,,,,,,,,,,,,,

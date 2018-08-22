@@ -1,0 +1,5 @@
+BATCH,,201106,B,120.0000,
+INVOICE,IN,,51610164,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,51613486MO,-3075.4000,,,,,,,,,,
+TRANSACTION,3320,010103516,30,2.0000,60.00,"Credit for Limited Term Discount: Chymiy, Marinette",,,,,,,,,,,,,,,
+INVOICE,CM,,51610164,,06/01/2011,60,"Invoice-Private",,06/01/2011,06/10/2011,,51613486MO,-3075.4000,,,,,,,,,,
+TRANSACTION,3320,010103516,30,2,60,"Limited Term Discount: Chymiy, Marinette",,,,,,,,,,,,,,,

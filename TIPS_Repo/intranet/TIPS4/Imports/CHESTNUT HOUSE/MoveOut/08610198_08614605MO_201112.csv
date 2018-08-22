@@ -1,0 +1,8 @@
+BATCH,,201112,B,5286.0000,
+INVOICE,IN,,08610198,,12/10/2011,2124.0000,"Invoice-Private",,12/10/2011,12/10/2011,,08614605MO,-1038.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,186.0000,186.00,"CR:Limited Term Di... M.Bayer 201112: Bayer, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305086,19,86.0000,1634.00,"Basic Service Fee - Studio for Dec: Bayer, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,19,16.0000,304.00,"Resident Care - Level 1 for Dec: Bayer, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,08610198,,12/10/2011,3162,"Invoice-Private",,12/10/2011,12/10/2011,,08614605MO,-1038.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2666,2666,"CR:Basic Service F... M.Bayer 201112: Bayer, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,496,496,"CR:Resident Care -... M.Bayer 201112: Bayer, Marvin",,,,,,,,,,,,,,,

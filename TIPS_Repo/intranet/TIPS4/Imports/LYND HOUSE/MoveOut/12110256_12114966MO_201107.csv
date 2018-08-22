@@ -1,0 +1,7 @@
+BATCH,,201107,B,2178.0000,
+INVOICE,IN,,12110256,,07/01/2011,1089.0000,"Invoice-Private",,07/01/2011,07/10/2011,,12114966MO,-672.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Manor, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,34.0000,1054.00,"Credit for Limited Term Discount: Manor, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,12110256,,07/01/2011,1089,"Invoice-Private",,07/01/2011,07/10/2011,,12114966MO,-672.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Manor, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,34,1054,"Limited Term Discount: Manor, Mary Lou",,,,,,,,,,,,,,,

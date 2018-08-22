@@ -1,0 +1,7 @@
+BATCH,,201202,B,7400.0000,
+INVOICE,IN,,51310002,,02/21/2012,3108.0000,"Invoice-Private",,02/21/2012,02/21/2012,,51313771MO,-5772.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,21,133.0000,2793.00,"Basic Service Fee - One Bedroom for Feb: Bakun, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,21,15.0000,315.00,"Resident Care - Level 1 for Feb: Bakun, Stella",,,,,,,,,,,,,,,
+INVOICE,CM,,51310002,,02/21/2012,4292,"Invoice-Private",,02/21/2012,02/21/2012,,51313771MO,-5772.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3857,3857,"CR:Basic Service F... S.Bakun 201202: Bakun, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,435,435,"CR:Resident Care -... S.Bakun 201202: Bakun, Stella",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,7819.0000,
+INVOICE,IN,,02810222,,08/16/2012,3541.0000,"Invoice-Private",,08/16/2012,08/16/2012,,02815371MO,-3587.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,1,1333.0000,1333.00,"CR:Limited Term Di... V.Koebelen 201208: Koebelen, Velva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,16,113.0000,1808.00,"Basic Service Fee - Studio for Aug: Koebelen, Velva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,16,25.0000,400.00,"Resident Care - Level 2 for Aug: Koebelen, Velva",,,,,,,,,,,,,,,
+INVOICE,CM,,02810222,,08/16/2012,4278,"Invoice-Private",,08/16/2012,08/16/2012,,02815371MO,-3587.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3503,3503,"CR:Basic Service F... V.Koebelen 201208: Koebelen, Velva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,775,775,"CR:Resident Care -... V.Koebelen 201208: Koebelen, Velva",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,6439.0000,
+INVOICE,IN,,02210199,,10/10/2012,2192.0000,"Invoice-Private",,10/10/2012,10/10/2012,,02214502MO,-2055.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,16,106.0000,1696.00,"Basic Service Fee - One Bedroom for Oct: Crumley, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,16,31.0000,496.00,"Resident Care - Level 2 for Oct: Crumley, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,02210199,,10/10/2012,4247,"Invoice-Private",,10/10/2012,10/10/2012,,02214502MO,-2055.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3286,3286,"CR:Basic Service F... D.Crumley 201210: Crumley, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,961,961,"CR:Resident Care -... D.Crumley 201210: Crumley, Don",,,,,,,,,,,,,,,

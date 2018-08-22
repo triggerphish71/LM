@@ -1,0 +1,8 @@
+BATCH,,201202,B,4054.0000,
+INVOICE,IN,,14410226,,02/04/2012,488.0000,"Invoice-Private",,02/04/2012,02/04/2012,,14415023MO,-3078.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,4,106.0000,424.00,"Basic Service Fee - Studio for Feb: Dubs, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,4,16.0000,64.00,"Resident Care - Level 1 for Feb: Dubs, Sharon",,,,,,,,,,,,,,,
+INVOICE,CM,,14410226,,02/04/2012,3566,"Invoice-Private",,02/04/2012,02/04/2012,,14415023MO,-3078.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3074,3074,"CR:Basic Service F... S.Dubs 201202: Dubs, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... S.Dubs 201202: Dubs, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,464,464,"CR:Resident Care -... S.Dubs 201202: Dubs, Sharon",,,,,,,,,,,,,,,

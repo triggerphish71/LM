@@ -1,0 +1,5 @@
+BATCH,,201207,B,4057.0000,
+INVOICE,CM,,05210181,,07/01/2012,4057,"Invoice-Private",,07/01/2012,07/10/2012,,05214916MO,-4844.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,3100,3100,"CR:Basic Service F... M.Van Meter 201207: Van Meter, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... M.Van Meter 201207: Van Meter, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,930,930,"CR:Resident Care -... M.Van Meter 201207: Van Meter, Mike",,,,,,,,,,,,,,,

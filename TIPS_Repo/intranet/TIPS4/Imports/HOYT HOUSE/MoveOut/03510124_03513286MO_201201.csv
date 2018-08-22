@@ -1,0 +1,6 @@
+BATCH,,201201,B,3337.0000,
+INVOICE,IN,,03510124,,01/05/2012,460.0000,"Invoice-Private",,01/05/2012,01/05/2012,,03513286MO,-2417.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,5,92.0000,460.00,"Basic Service Fee - Studio for Jan: Feaster, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,03510124,,01/05/2012,2877,"Invoice-Private",,01/05/2012,01/05/2012,,03513286MO,-2417.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2852,2852,"CR:Basic Service F... D.Feaster 201201: Feaster, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... D.Feaster 201201: Feaster, Doris",,,,,,,,,,,,,,,

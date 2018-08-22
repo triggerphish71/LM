@@ -1,0 +1,6 @@
+BATCH,,201204,B,5765.0000,
+INVOICE,IN,,04610199,,04/01/2012,5765.0000,"MoveIn-Rogde. Floy",,04/01/2012,04/01/2012,,04613584,5765.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,30,116.0000,3480,"Basic Service Fee - One Bedroom: Rogde. Floy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,30,17.0000,510,"Resident Care - Level 1: Rogde. Floy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Rogde. Floy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Rogde. Floy",,,,,,,,,,,,,,,

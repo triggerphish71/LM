@@ -1,0 +1,6 @@
+BATCH,,201106,B,2946.0000,
+INVOICE,IN,,04210198,,06/20/2011,2946.0000,"MoveIn-Richardson. Newton",,06/20/2011,06/20/2011,,04213740,6972.0000,,,,,,,,,,
+TRANSACTION,3010,010202042,11,96.0000,1056,"Basic Service Fee - Studio         : Richardson. Newton",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202042,11,33.0000,363,"Resident Care - Level 2: Richardson. Newton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27,"Monthly Cable: Richardson. Newton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202042,1,1500.0000,1500,"New Resident Fee: Richardson. Newton",,,,,,,,,,,,,,,

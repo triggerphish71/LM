@@ -1,0 +1,6 @@
+BATCH,,201301,B,5368.0000,
+INVOICE,IN,,03310345,,01/11/2013,1772.0000,"Invoice-Private",,01/11/2013,01/11/2013,,03316951MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,496.0000,496.00,"CR:Limited Term Di... M.Franklin 201301: Franklin, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,11,116.0000,1276.00,"Basic Service Fee - One Bedroom for Jan: Franklin, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,03310345,,01/11/2013,3596,"Invoice-Private",,01/11/2013,01/11/2013,,03316951MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3596,3596,"CR:Basic Service F... M.Franklin 201301: Franklin, Martha",,,,,,,,,,,,,,,

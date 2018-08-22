@@ -1,0 +1,5 @@
+BATCH,,201206,B,1191.0000,
+INVOICE,IN,,00310178,,06/29/2012,1191.0000,"MoveIn-Jensen. Ivan",,06/29/2012,06/29/2012,,00314277,3010.0000,,,,,,,,,,
+TRANSACTION,3010,010101003,2,82.0000,164,"Basic Service Fee - Studio: Jensen. Ivan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Jensen. Ivan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Jensen. Ivan",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201206,B,5608.0500,
+INVOICE,IN,,09810256,,06/05/2012,801.1500,"Invoice-Private",,06/05/2012,06/05/2012,,09814686MO,-4005.7500,,,,,,,,,,
+TRANSACTION,3020,010103098,5,94.0000,470.00,"Basic Service Fee - Studio for Jun: Holman, Floyd (Allan)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,5,66.2300,331.15,"Resident Care - Level 37 for Jun: Holman, Floyd (Allan)",,,,,,,,,,,,,,,
+INVOICE,CM,,09810256,,06/05/2012,4806.9,"Invoice-Private",,06/05/2012,06/05/2012,,09814686MO,-4005.7500,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2820,2820,"CR:Basic Service F... F.Holman 201206: Holman, Floyd (Allan)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1986.9,1986.9,"CR:Resident Care -... F.Holman 201206: Holman, Floyd (Allan)",,,,,,,,,,,,,,,

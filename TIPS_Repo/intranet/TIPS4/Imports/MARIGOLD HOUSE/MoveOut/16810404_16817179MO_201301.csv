@@ -1,0 +1,5 @@
+BATCH,,201301,B,5904.0000,
+INVOICE,IN,,16810404,,01/01/2013,2091.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16817179MO,-5166.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,17,123.0000,2091.00,"Room and Board - One Bedroom Premium w/Patio : Lynch, Bertie",,,,,,,,,,,,,,,
+INVOICE,CM,,16810404,,01/01/2013,3813,"Invoice-Private",,01/01/2013,01/10/2013,,16817179MO,-5166.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3813,3813,"CR:Room and Board ... B.Lynch 201301: Lynch, Bertie",,,,,,,,,,,,,,,

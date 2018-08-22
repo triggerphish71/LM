@@ -1,0 +1,7 @@
+BATCH,,201307,B,1406.0000,
+INVOICE,IN,,05610182,,07/06/2013,228.0000,"Invoice-Private",,07/06/2013,07/06/2013,,05614920MO,-950.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,6,22.0000,132.00,"Basic Service Fee - Second Resident for Jul: White, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,6,16.0000,96.00,"Resident Care - Level 1 for Jul: White, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,05610182,,07/06/2013,1178,"Invoice-Private",,07/06/2013,07/06/2013,,05614920MO,-950.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,682,682,"CR:Basic Service F... B.White 201307: White, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,1,496,496,"CR:Resident Care -... B.White 201307: White, Barbara",,,,,,,,,,,,,,,

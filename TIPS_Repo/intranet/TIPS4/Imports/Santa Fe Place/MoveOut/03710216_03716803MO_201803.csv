@@ -1,0 +1,8 @@
+BATCH,,201803,B,5682.0000,
+INVOICE,IN,,03710216,,03/07/2018,1218.0000,"Invoice-Private",,03/07/2018,03/07/2018,,03716803MO,-3246.0000,,,,,,,,,,
+TRANSACTION,3017,010002037,1,20.0000,20.00,"Level Care:  1  - 2018-03-02: Smith, Latina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002037,6,55.0000,330.00," Level Care:  3 : Smith, Latina",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002037,7,124.0000,868.00,"Basic Service Fee - Studio  for Mar: Smith, Latina",,,,,,,,,,,,,,,
+INVOICE,CM,,03710216,,03/07/2018,4464,"Invoice-Private",,03/07/2018,03/07/2018,,03716803MO,-3246.0000,,,,,,,,,,
+TRANSACTION,3020,010002037,1,3844,3844,"CR:Basic Service F... L.Smith 201803: Smith, Latina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002037,1,620,620,"CR:Resident Care -... L.Smith 201803: Smith, Latina",,,,,,,,,,,,,,,

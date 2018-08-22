@@ -1,0 +1,8 @@
+BATCH,,201207,B,7173.0000,
+INVOICE,IN,,10510222,,07/01/2012,1992.0000,"Invoice-Private",,07/01/2012,07/10/2012,,10514072MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,12,87.0000,1044.00,"Basic Service Fee - Studio for Jul: Swinehart, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,12,79.0000,948.00,"Resident Care - Level 6 for Jul: Swinehart, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,10510222,,07/01/2012,5181,"Invoice-Private",,07/01/2012,07/10/2012,,10514072MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2697,2697,"CR:Basic Service F... J.Swinehart 201207: Swinehart, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309105,1,35,35,"CR:Pendant Fee... J.Swinehart 201207: Swinehart, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,2449,2449,"CR:Resident Care -... J.Swinehart 201207: Swinehart, Jean",,,,,,,,,,,,,,,

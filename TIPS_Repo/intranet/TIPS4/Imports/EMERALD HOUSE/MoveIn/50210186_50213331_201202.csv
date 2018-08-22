@@ -1,0 +1,6 @@
+BATCH,,201202,B,3331.0000,
+INVOICE,IN,,50210186,,02/16/2012,3331.0000,"MoveIn-Craney. Leone",,02/16/2012,02/16/2012,,50213331,7355.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,14,91.0000,1274,"Basic Service Fee - Studio Deluxe: Craney. Leone",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,14,38.0000,532,"Resident Care - Level 3: Craney. Leone",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Craney. Leone",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Craney. Leone",,,,,,,,,,,,,,,

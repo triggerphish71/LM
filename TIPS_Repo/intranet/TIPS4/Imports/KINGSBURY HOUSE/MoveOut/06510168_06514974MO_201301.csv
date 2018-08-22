@@ -1,0 +1,6 @@
+BATCH,,201301,B,5358.0000,
+INVOICE,IN,,06510168,,01/01/2013,1638.0000,"Invoice-Private",,01/01/2013,01/10/2013,,06514974MO,-2082.0000,,,,,,,,,,
+TRANSACTION,3316,010305065,1,558.0000,558.00,"CR:Employee Discou... N.Brown 201301: Brown, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,9,120.0000,1080.00,"Basic Service Fee- One Bedroom Prem for Jan: Brown, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,06510168,,01/01/2013,3720,"Invoice-Private",,01/01/2013,01/10/2013,,06514974MO,-2082.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3720,3720,"CR:Basic Service F... N.Brown 201301: Brown, Norman",,,,,,,,,,,,,,,

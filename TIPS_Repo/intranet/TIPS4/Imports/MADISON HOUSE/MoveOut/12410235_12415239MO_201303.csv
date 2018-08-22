@@ -1,0 +1,7 @@
+BATCH,,201303,B,3607.1000,
+INVOICE,IN,,12410235,,03/01/2013,1061.1000,"Invoice-Private",,03/01/2013,03/10/2013,,12415239MO,-1484.9000,,,,,,,,,,
+TRANSACTION,3312,010211124,1,251.1000,251.10,"CR:Two Room Rental... C.Hinken 201303: Hinken, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211124,10,81.0000,810.00,"Basic Service Fee - Studio for Mar: Hinken, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,12410235,,03/01/2013,2546,"Invoice-Private",,03/01/2013,03/10/2013,,12415239MO,-1484.9000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2511,2511,"CR:Basic Service F... C.Hinken 201303: Hinken, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... C.Hinken 201303: Hinken, Clara",,,,,,,,,,,,,,,

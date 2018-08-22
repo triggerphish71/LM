@@ -1,0 +1,109 @@
+<!----------------------------------------------------------------------------------------------
+| DESCRIPTION   : This page is to add the promotions for the tenants as per project 20125      |                                                                              |
+|----------------------------------------------------------------------------------------------|
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| STORED PROCEDURES                                                                            |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| INCLUDES                                                                                     |
+|----------------------------------------------------------------------------------------------|
+|   none                                                                                       |
+|----------------------------------------------------------------------------------------------|
+| HISTORY                                                                                      |
+|----------------------------------------------------------------------------------------------|
+| Author     | Date       | Description                                                        |
+|------------|------------|--------------------------------------------------------------------|
+| Sathya	 |06/06/08    | Added Flowerbox                                                    |
+|                                                                 |
+----------------------------------------------------------------------------------------------->
+
+<script language="JavaScript" type="text/javascript">
+	function validationOnSave()
+	{
+			
+		if(document.TenantPromotioninsert.cDescription.value =='')
+		{
+			alert("Please Enter the Description if you want to enter a Promotion");
+			return false;
+		}
+		else if(document.TenantPromotioninsert.dtEffectiveStart.value=='')
+		{
+			alert("Please enter Effective Start Date of Promotion");
+			return false;
+		}
+		
+	    else if(document.TenantPromotioninsert.dtEffectiveEnd.value == '')
+		{
+			alert("Please Enter the Effective End Date of Promotion");
+			return false;
+		}
+		
+	   	else
+		{
+			return true;
+		}
+	}
+	
+</script>
+<cfquery name="TenantPromotionSet" datasource="#application.datasource#">
+	Select * from TenantPromotionSet where dtrowdeleted is null
+</cfquery>
+
+
+<cfoutput>
+<!--- Include header file --->
+<cfinclude template='../../header.cfm'>
+<cfinclude template='../Shared/HouseHeader.cfm'>
+<BR> <a href='menu.cfm'>Click Here to Go Back to the Administration Screen.</a> <br>
+
+
+
+<form name="TenantPromotioninsert" action = "TenantPromotionInsert.cfm" method="POST">
+<table style="text-align: center;">
+	<tr><th>Add a Promotion Here</tr>
+</table>
+<table>
+	<tr>
+		<td style="text-align:left;"> 
+			<b>PromotionDescription</b>
+			 <input type="text" Name="cDescription"  maxlength="100" 
+		size="35" onKeyUp="this.value=LettersNumbers(this.value); this.size=this.value.length;"> </td>
+	<tr>
+	<tr>
+		<td style="text-align:left;"> 
+			<b>PromotionStartDate</b>
+			<input type="text" Name="dtEffectiveStart" size="12"> <b>PromotionEndDate</b>
+		   <input type="text" Name="dtEffectiveEnd" size="12"> </td> 
+	</tr>		
+	<td colspan="1" style="text-align: left;"><input class="SaveButton" type="submit" name="Save" value="Save" onmouseover="validationOnSave()" onfocus="validationOnSave()" ></td>	
+	<td colspan="1" style="text-align: right;"><input class="DontSaveButton" type="button" name="DontSave" value="Don't Save" onClick="location.href='#CGI.HTTP_REFERER#'"></td>
+	</tr>
+	<tr><td colspan="4" style="font-weight: bold; color: red;"> <U>NOTE:</U> You must SAVE to keep information which you have entered! </td></tr>	
+		</td>	
+	</tr>	
+	
+</table>
+</form>
+
+
+ <b>Existing promotions are listed below.Click on the promotion to edit.</b>
+<!--- <table style="text-align: left;"> --->
+<table style="text-align: center;nowrap">
+	<tr><th>Description   </th><th> EffectiveStartDate</th><th>EffectiveEndDate</th><th></th> </tr>
+	<cfloop query="TenantPromotionSet">	
+		<tr>                           
+			<td style="text-align: left;" nowrap><a href="TenantPromotionEdit.cfm?ID=#TenantPromotionSet.iPromotion_ID#">#TenantPromotionSet.cDescription#</A></td>
+			 <td style="text-align: center;"> #DateFormat(TenantPromotionSet.dtEffectiveStart,"mm/dd/yyyy")# </td>
+			 <td style="text-align: center;">  #DateFormat(tenantPromotionSet.dtEffectiveEnd,"mm/dd/yyyy")#</td>
+			 <td style="text-align: right;"><input class = "BlendedButton" TYPE="button" name="Delete" value="Delete Now" onClick="self.location.href='DeleteTenantPromotion.cfm?typeID=#TenantPromotionSet.iPromotion_ID#'"></td>
+		</tr>
+	</cfloop>
+</table>
+
+
+
+
+	
+</cfoutput>

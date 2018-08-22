@@ -1,0 +1,7 @@
+BATCH,,201305,B,6000.0000,
+INVOICE,IN,,20810021,,05/01/2013,2900.0000,"Invoice-Private",,05/01/2013,05/10/2013,,20813554MO,-200.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,29,22.0000,638.00,"Resident Care - Level 2 for May: Simmons, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,29,78.0000,2262.00,"Studio for May: Simmons, Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,20810021,,05/01/2013,3100,"Invoice-Private",,05/01/2013,05/10/2013,,20813554MO,-200.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,682,682,"CR:Resident Care -... F.Simmons 201305: Simmons, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... F.Simmons 201305: Simmons, Faye",,,,,,,,,,,,,,,

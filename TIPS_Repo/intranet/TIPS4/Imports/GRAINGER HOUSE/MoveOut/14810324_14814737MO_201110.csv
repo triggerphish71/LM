@@ -1,0 +1,8 @@
+BATCH,,201110,B,6390.0000,
+INVOICE,IN,,14810324,,10/19/2011,2044.0000,"Invoice-Private",,10/19/2011,10/19/2011,,14814737MO,-5092.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,14,111.0000,1554.00,"Basic Service Fee - One Bedroom for Oct: Held, Jospehine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,14,35.0000,490.00,"Service level: lvl 0 to lvl 2 - 10/7/11 for Oct: Held, Jospehine",,,,,,,,,,,,,,,
+INVOICE,CM,,14810324,,10/19/2011,4346,"Invoice-Private",,10/19/2011,10/19/2011,,14814737MO,-5092.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,3441,3441,"CR:Basic Service F... J.Held 201110: Held, Jospehine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... J.Held 201110: Held, Jospehine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,875,875,"CR:Service level: ... J.Held 201110: Held, Jospehine",,,,,,,,,,,,,,,

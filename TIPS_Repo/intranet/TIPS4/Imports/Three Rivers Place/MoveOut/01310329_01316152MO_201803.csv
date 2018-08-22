@@ -1,0 +1,8 @@
+BATCH,,201803,B,3241.1000,
+INVOICE,IN,,01310329,,03/15/2018,559.5000,"Invoice-Private",,03/15/2018,03/15/2018,,01316152MO,-2122.1000,,,,,,,,,,
+TRANSACTION,3017,010003013,15,2.3000,34.50," Level Care:  1 : Salinas, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003013,15,35.0000,525.00,"Basic Service Fee - Studio  for Mar: Salinas, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,01310329,,03/15/2018,2681.6,"Invoice-Private",,03/15/2018,03/15/2018,,01316152MO,-2122.1000,,,,,,,,,,
+TRANSACTION,3020,010003013,1,1085,1085,"CR:Basic Service F... N.Salinas 201803: Salinas, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010003013,1,28,28,"CR:Monthly Cable... N.Salinas 201803: Salinas, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003013,1,1568.6,1568.6,"CR:Resident Care -... N.Salinas 201803: Salinas, Nancy",,,,,,,,,,,,,,,

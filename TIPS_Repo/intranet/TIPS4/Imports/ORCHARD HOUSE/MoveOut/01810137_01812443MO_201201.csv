@@ -1,0 +1,6 @@
+BATCH,,201201,B,4475.8000,
+INVOICE,IN,,01810137,,01/13/2012,1623.8000,"Invoice-Private",,01/13/2012,01/13/2012,,01812443MO,-1228.2000,,,,,,,,,,
+TRANSACTION,3316,010103018,1,427.8000,427.80,"CR:Employee Discou... R.Breitling 201201: Breitling, Ruben",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,13,92.0000,1196.00,"Basic Service Fee - One Bedroom for Jan: Breitling, Ruben",,,,,,,,,,,,,,,
+INVOICE,CM,,01810137,,01/13/2012,2852,"Invoice-Private",,01/13/2012,01/13/2012,,01812443MO,-1228.2000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2852,2852,"CR:Basic Service F... R.Breitling 201201: Breitling, Ruben",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,54.0000,
+INVOICE,IN,,19010277,,05/01/2013,27.0000,"Invoice-Private",,05/01/2013,05/10/2013,,19014948MO,-1677.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Traynham, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,19010277,,05/01/2013,27,"Invoice-Private",,05/01/2013,05/10/2013,,19014948MO,-1677.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Traynham, Eileen",,,,,,,,,,,,,,,

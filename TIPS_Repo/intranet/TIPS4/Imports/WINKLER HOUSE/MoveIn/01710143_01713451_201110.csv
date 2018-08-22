@@ -1,0 +1,5 @@
+BATCH,,201110,B,1387.0000,
+INVOICE,IN,,01710143,,10/28/2011,1387.0000,"MoveIn-Jones. Iris",,10/28/2011,10/28/2011,,01713451,4114.0000,,,,,,,,,,
+TRANSACTION,3010,010202017,4,90.0000,360,"Basic Service Fee - Studio         : Jones. Iris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27,"Monthly Cable: Jones. Iris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202017,1,1000.0000,1000,"New Resident Fee: Jones. Iris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,6240.0000,
+INVOICE,IN,,21010228,,11/18/2011,2340.0000,"Invoice-Private",,11/18/2011,11/18/2011,,21013313MO,-5590.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,18,40.0000,720.00,"Resident Care - Level 4 for Nov: Worley, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,18,90.0000,1620.00,"Studio for Nov: Worley, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,21010228,,11/18/2011,3900,"Invoice-Private",,11/18/2011,11/18/2011,,21013313MO,-5590.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1200,1200,"CR:Resident Care -... C.Worley 201111: Worley, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2700,2700,"CR:Studio... C.Worley 201111: Worley, Christine",,,,,,,,,,,,,,,

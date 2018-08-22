@@ -1,0 +1,6 @@
+BATCH,,201303,B,3640.0000,
+INVOICE,IN,,53510223,,03/07/2013,3640.0000,"MoveIn-Bahr. Marion",,03/07/2013,03/07/2013,,53515188,3640.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,25,103.0000,2575,"Basic Service Fee - One Bedroom Deluxe: Bahr. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30.0000,30,"Monthly Cable: Bahr. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,1000.0000,1000,"New Resident Fee: Bahr. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35.0000,35,"Pendant Fee: Bahr. Marion",,,,,,,,,,,,,,,

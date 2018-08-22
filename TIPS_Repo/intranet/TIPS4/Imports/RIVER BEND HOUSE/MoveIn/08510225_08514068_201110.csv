@@ -1,0 +1,5 @@
+BATCH,,201110,B,6202.0000,
+INVOICE,IN,,08510225,,10/04/2011,6202.0000,"MoveIn-Campbell. Aileen",,10/04/2011,10/04/2011,,08514068,6202.0000,,,,,,,,,,
+TRANSACTION,3010,010305085,28,83.0000,2324,"Basic Service Fee - Studio         : Campbell. Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305085,28,76.0000,2128,"Resident Care - Level 6: Campbell. Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305085,1,1750.0000,1750,"New Resident Fee: Campbell. Aileen",,,,,,,,,,,,,,,

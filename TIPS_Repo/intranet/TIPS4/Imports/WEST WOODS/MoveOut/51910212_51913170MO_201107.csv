@@ -1,0 +1,5 @@
+BATCH,,201107,B,6466.0000,
+INVOICE,IN,,51910212,,07/26/2011,3180.0000,"Invoice-Private",,07/26/2011,07/26/2011,,51913170MO,-3392.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,30,106.0000,3180.00,"Basic Service Fee - One Bedroom for Jul: Millner, Verna",,,,,,,,,,,,,,,
+INVOICE,CM,,51910212,,07/26/2011,3286,"Invoice-Private",,07/26/2011,07/26/2011,,51913170MO,-3392.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3286,3286,"CR:Basic Service F... V.Millner 201107: Millner, Verna",,,,,,,,,,,,,,,

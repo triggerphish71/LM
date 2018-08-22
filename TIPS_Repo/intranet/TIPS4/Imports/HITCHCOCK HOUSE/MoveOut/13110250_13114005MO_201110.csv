@@ -1,0 +1,5 @@
+BATCH,,201110,B,3905.0000,
+INVOICE,CM,,13110250,,10/01/2011,3905,"Invoice-Private",,10/01/2011,10/10/2011,,13114005MO,-4435.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3007,3007,"CR:Basic Service F... M.Schneider 201110: Schneider, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30,30,"CR:Pendant Fee... M.Schneider 201110: Schneider, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,868,868,"CR:Resident Care -... M.Schneider 201110: Schneider, Marion",,,,,,,,,,,,,,,

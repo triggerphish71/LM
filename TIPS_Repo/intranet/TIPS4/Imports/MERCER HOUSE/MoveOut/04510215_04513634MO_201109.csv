@@ -1,0 +1,5 @@
+BATCH,,201109,B,54.0000,
+INVOICE,IN,,04510215,,09/01/2011,27.0000,"Invoice-Private",,09/01/2011,09/10/2011,,04513634MO,-561.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Hill, Mickey",,,,,,,,,,,,,,,
+INVOICE,CM,,04510215,,09/01/2011,27,"Invoice-Private",,09/01/2011,09/10/2011,,04513634MO,-561.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Hill, Mickey",,,,,,,,,,,,,,,

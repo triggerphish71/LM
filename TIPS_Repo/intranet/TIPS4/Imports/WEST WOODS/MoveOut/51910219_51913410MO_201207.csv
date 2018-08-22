@@ -1,0 +1,7 @@
+BATCH,,201207,B,3984.4200,
+INVOICE,IN,,51910219,,07/01/2012,241.4800,"Invoice-Private",,07/01/2012,07/01/2012,,51913410MO,-3501.4600,,,,,,,,,,
+TRANSACTION,3020,010103519,2,110.0000,220.00,"Basic Service Fee - One Bedroom for Jul: Burwell, Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,2,10.7400,21.48,"Resident Care - Level 6 for Jul: Burwell, Peggy",,,,,,,,,,,,,,,
+INVOICE,CM,,51910219,,07/01/2012,3742.94,"Invoice-Private",,07/01/2012,07/01/2012,,51913410MO,-3501.4600,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3410,3410,"CR:Basic Service F... P.Burwell 201207: Burwell, Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,332.94,332.94,"CR:Resident Care -... P.Burwell 201207: Burwell, Peggy",,,,,,,,,,,,,,,

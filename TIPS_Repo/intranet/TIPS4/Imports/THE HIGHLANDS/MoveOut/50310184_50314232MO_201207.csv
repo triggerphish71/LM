@@ -1,0 +1,5 @@
+BATCH,,201207,B,465.0000,
+INVOICE,IN,,50310184,,07/01/2012,232.5000,"Invoice-Private",,07/01/2012,07/10/2012,,50314232MO,-2025.0000,,,,,,,,,,
+TRANSACTION,3312,010220503,31,7.5000,232.50,"Credit for Two Room Rental Discount: Turpen, James",,,,,,,,,,,,,,,
+INVOICE,CM,,50310184,,07/01/2012,232.5,"Invoice-Private",,07/01/2012,07/10/2012,,50314232MO,-2025.0000,,,,,,,,,,
+TRANSACTION,3312,010220503,31,7.5,232.5,"Two Room Rental Discount: Turpen, James",,,,,,,,,,,,,,,

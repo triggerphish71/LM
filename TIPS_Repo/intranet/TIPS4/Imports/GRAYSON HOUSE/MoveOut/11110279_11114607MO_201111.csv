@@ -1,0 +1,6 @@
+BATCH,,201111,B,3570.0000,
+INVOICE,IN,,11110279,,11/01/2011,900.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11114607MO,-790.0000,,,,,,,,,,
+TRANSACTION,3321,010107111,1,900.0000,900.00,"CR:2nd Resident Fr... E.Moore 201111: Moore, Edwin",,,,,,,,,,,,,,,
+INVOICE,CM,,11110279,,11/01/2011,2670,"Invoice-Private",,11/01/2011,11/10/2011,,11114607MO,-790.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,900,900,"CR:Basic Service F... E.Moore 201111: Moore, Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1770,1770,"CR:Resident Care -... E.Moore 201111: Moore, Edwin",,,,,,,,,,,,,,,

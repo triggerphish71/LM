@@ -1,0 +1,5 @@
+BATCH,,201107,B,310.0000,
+INVOICE,IN,,15710199,,07/01/2011,155.0000,"Invoice-Private",,07/01/2011,07/10/2011,,15714080MO,-1225.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,31,5.0000,155.00,"Credit for Limited Term Discount: Waikel, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,15710199,,07/01/2011,155,"Invoice-Private",,07/01/2011,07/10/2011,,15714080MO,-1225.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,31,5,155,"Limited Term Discount: Waikel, Ed",,,,,,,,,,,,,,,

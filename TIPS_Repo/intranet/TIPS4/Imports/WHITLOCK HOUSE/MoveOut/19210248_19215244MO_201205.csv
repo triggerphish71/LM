@@ -1,0 +1,8 @@
+BATCH,,201205,B,8135.0000,
+INVOICE,IN,,19210248,,05/23/2012,3450.0000,"Invoice-Private",,05/23/2012,05/23/2012,,19215244MO,-5770.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,23,114.0000,2622.00,"Basic Service Fee - Studio for May: Pinkstaff, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,23,36.0000,828.00,"Resident Care - Level 2 for May: Pinkstaff, Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,19210248,,05/23/2012,4685,"Invoice-Private",,05/23/2012,05/23/2012,,19215244MO,-5770.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... M.Pinkstaff 201205: Pinkstaff, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... M.Pinkstaff 201205: Pinkstaff, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1116,1116,"CR:Resident Care -... M.Pinkstaff 201205: Pinkstaff, Mae",,,,,,,,,,,,,,,

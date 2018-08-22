@@ -1,0 +1,5 @@
+BATCH,,201803,B,4893.3000,
+INVOICE,IN,,11210002,,03/01/2018,4893.3000,"March_Rent-Dickey. Harold",,03/01/2018,03/10/2018,,11220106,12078.6000,,,,,,,,,,
+TRANSACTION,3010,010010112,31,110.0000,3410,"Basic Service Fee - Studio: Dickey. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010112,31,47.0000,1457,"Resident Care - Level 2: Dickey. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010112,1,26.3000,26.3,"Monthly Cable: Dickey. Harold",,,,,,,,,,,,,,,

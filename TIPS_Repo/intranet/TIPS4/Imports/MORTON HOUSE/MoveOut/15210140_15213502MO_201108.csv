@@ -1,0 +1,8 @@
+BATCH,,201108,B,4215.0000,
+INVOICE,IN,,15210140,,08/01/2011,770.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15213502MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3027,010211152,7,42.0000,294.00,"Resident Care - Level 3 for Aug: Weddle, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,7,68.0000,476.00,"Room and Board - Studio for Aug: Weddle, Ida",,,,,,,,,,,,,,,
+INVOICE,CM,,15210140,,08/01/2011,3445,"Invoice-Private",,08/01/2011,08/10/2011,,15213502MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... I.Weddle 201108: Weddle, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,1302,1302,"CR:Resident Care -... I.Weddle 201108: Weddle, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2108,2108,"CR:Room and Board ... I.Weddle 201108: Weddle, Ida",,,,,,,,,,,,,,,

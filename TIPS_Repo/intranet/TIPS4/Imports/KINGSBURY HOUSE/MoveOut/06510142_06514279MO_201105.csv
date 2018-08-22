@@ -1,0 +1,6 @@
+BATCH,,201105,B,1674.0000,
+INVOICE,IN,,06510142,,05/01/2011,31.0000,"Invoice-Private",,05/01/2011,05/10/2011,,06514279MO,-1877.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,1,31.0000,31.00,"CR:Daily Discount... G.Squires 201105: Squires, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,06510142,,05/01/2011,1643,"Invoice-Private",,05/01/2011,05/10/2011,,06514279MO,-1877.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1085,1085,"CR:Basic Service F... G.Squires 201105: Squires, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,558,558,"CR:Resident Care -... G.Squires 201105: Squires, Geneva",,,,,,,,,,,,,,,

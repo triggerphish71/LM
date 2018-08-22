@@ -1,0 +1,5 @@
+BATCH,,201201,B,3004.0000,
+INVOICE,IN,,00510143,,01/07/2012,3004.0000,"MoveIn-Katkansky. Pat",,01/07/2012,01/07/2012,,00512389,3004.0000,,,,,,,,,,
+TRANSACTION,3010,010101005,25,73.0000,1825,"Basic Service Fee - Studio: Katkansky. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,25,7.1600,179,"Resident Care - Level 4: Katkansky. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Katkansky. Pat",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,3350.0000,
+INVOICE,IN,,17510295,,05/19/2013,1273.0000,"Invoice-Private",,05/19/2013,05/19/2013,,17518064MO,-2814.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,19,55.0000,1045.00,"Basic Service Fee - Studio Deluxe for May: Armstrong, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,19,12.0000,228.00,"Resident Care - Level 1 for May: Armstrong, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17510295,,05/19/2013,2077,"Invoice-Private",,05/19/2013,05/19/2013,,17518064MO,-2814.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1705,1705,"CR:Basic Service F... M.Armstrong 201305: Armstrong, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... M.Armstrong 201305: Armstrong, Mary",,,,,,,,,,,,,,,

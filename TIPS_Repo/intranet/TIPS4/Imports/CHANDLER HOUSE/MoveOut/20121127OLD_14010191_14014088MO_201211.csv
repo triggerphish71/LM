@@ -1,0 +1,8 @@
+BATCH,,201211,B,7926.0000,
+INVOICE,IN,,14010191,,11/26/2012,3666.0000,"Invoice-Private",,11/26/2012,11/26/2012,,14014088MO,-4995.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,26,88.0000,2288.00,"Basic Service Fee - Studio for Nov: King, Anna Belle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,26,53.0000,1378.00,"Resident Care - Level 4 for Nov: King, Anna Belle",,,,,,,,,,,,,,,
+INVOICE,CM,,14010191,,11/26/2012,4260,"Invoice-Private",,11/26/2012,11/26/2012,,14014088MO,-4995.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2640,2640,"CR:Basic Service F... A.King 201211: King, Anna Belle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... A.King 201211: King, Anna Belle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1590,1590,"CR:Resident Care -... A.King 201211: King, Anna Belle",,,,,,,,,,,,,,,

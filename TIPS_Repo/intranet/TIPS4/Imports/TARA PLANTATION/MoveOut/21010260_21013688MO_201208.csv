@@ -1,0 +1,7 @@
+BATCH,,201208,B,2530.0000,
+INVOICE,IN,,21010260,,08/01/2012,1265.0000,"Invoice-Private",,08/01/2012,08/10/2012,,21013688MO,-1540.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25.00,"Monthly Cable: Thomas, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,31,40.0000,1240.00,"Credit for Limited Term Discount: Thomas, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,21010260,,08/01/2012,1265,"Invoice-Private",,08/01/2012,08/10/2012,,21013688MO,-1540.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Credit for Monthly Cable: Thomas, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,31,40,1240,"Limited Term Discount: Thomas, Walter",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,1412.0000,
+INVOICE,IN,,11510252,,10/26/2011,1412.0000,"MoveIn-King. Cora",,10/26/2011,10/26/2011,,11513943,3360.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,6,64.0000,384,"Basic Service Fee - Studio         : King. Cora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: King. Cora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: King. Cora",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,4179.0000,
+INVOICE,IN,,02810188,,08/01/2011,4179.0000,"August_Rent-Sisson. Albert",,08/01/2011,08/10/2011,,02814785,6606.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,31,109.0000,3379,"A.Sisson: Basic Service Fee - Studio: Sisson. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,31,25.0000,775,"A.Sisson: Resident Care - Level 2: Sisson. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Sisson. Albert",,,,,,,,,,,,,,,

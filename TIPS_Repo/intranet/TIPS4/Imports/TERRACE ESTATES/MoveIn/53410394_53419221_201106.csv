@@ -1,0 +1,5 @@
+BATCH,,201106,B,2072.0000,
+INVOICE,IN,,53410394,,06/03/2011,1988.0000,"MoveIn-Kasberger. Jean",,06/03/2011,06/03/2011,,53419221,1904.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,28,71.0000,1988,"J.Kasberger: Basic Service Fee - One Bedroom: Kasberger. Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53410394,,06/03/2011,84.0000,"MoveIn-Kasberger. Jean",,06/03/2011,06/03/2011,,53419221,1904.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,28,3,84,"Limited Term Discount: Kasberger. Jean",,,,,,,,,,,,,,,

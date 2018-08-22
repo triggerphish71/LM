@@ -1,0 +1,6 @@
+BATCH,,201105,B,5765.0000,
+INVOICE,IN,,16810356,,05/02/2011,5765.0000,"MoveIn-Marcantell. Zell",,05/02/2011,05/02/2011,,16815580,5765.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,30,112.0000,3360,"Basic Service Fee - One BR Premium: Marcantell. Zell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,30,21.0000,630,"Resident Care - Level 2: Marcantell. Zell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Marcantell. Zell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Marcantell. Zell",,,,,,,,,,,,,,,

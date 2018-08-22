@@ -1,0 +1,8 @@
+BATCH,,201110,B,7926.0000,
+INVOICE,IN,,12910265,,10/15/2011,2688.0000,"Invoice-Private",,10/15/2011,10/15/2011,,12915570MO,-7620.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,16,115.0000,1840.00,"Basic Service Fee - One Bedroom for Oct: Sutch, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,16,53.0000,848.00,"Resident Care - Level 3 for Oct: Sutch, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,12910265,,10/15/2011,5238,"Invoice-Private",,10/15/2011,10/15/2011,,12915570MO,-7620.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,3565,3565,"CR:Basic Service F... E.Sutch 201110: Sutch, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... E.Sutch 201110: Sutch, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1643,1643,"CR:Resident Care -... E.Sutch 201110: Sutch, Edna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,56.0000,
+INVOICE,IN,,01310147,,02/01/2012,28.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01314041MO,-5852.6600,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Pugh, Margret",,,,,,,,,,,,,,,
+INVOICE,CM,,01310147,,02/01/2012,28,"Invoice-Private",,02/01/2012,02/10/2012,,01314041MO,-5852.6600,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Pugh, Margret",,,,,,,,,,,,,,,

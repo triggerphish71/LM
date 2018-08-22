@@ -1,0 +1,8 @@
+BATCH,,201201,B,4634.8800,
+INVOICE,IN,,15310233,,01/01/2012,1285.9200,"Invoice-Private",,01/01/2012,01/10/2012,,15315834MO,-2063.0400,,,,,,,,,,
+TRANSACTION,3020,010103153,12,100.0000,1200.00,"Basic Service Fee - Studio for Jan: Freda, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,12,7.1600,85.92,"Resident Care - Level 4 for Jan: Freda, James",,,,,,,,,,,,,,,
+INVOICE,CM,,15310233,,01/01/2012,3348.96,"Invoice-Private",,01/01/2012,01/10/2012,,15315834MO,-2063.0400,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... J.Freda 201201: Freda, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... J.Freda 201201: Freda, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,221.96,221.96,"CR:Resident Care -... J.Freda 201201: Freda, James",,,,,,,,,,,,,,,

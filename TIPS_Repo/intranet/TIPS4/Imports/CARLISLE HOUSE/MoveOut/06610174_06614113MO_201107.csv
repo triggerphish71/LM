@@ -1,0 +1,7 @@
+BATCH,,201107,B,10080.0000,
+INVOICE,IN,,06610174,,07/29/2011,4872.0000,"Invoice-Private",,07/29/2011,07/29/2011,,06614113MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,29,93.0000,2697.00,"Basic Service Fee - Studio for Jul: Zucker, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,29,75.0000,2175.00,"Resident Care - Level 5 for Jul: Zucker, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,06610174,,07/29/2011,5208,"Invoice-Private",,07/29/2011,07/29/2011,,06614113MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2883,2883,"CR:Basic Service F... D.Zucker 201107: Zucker, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2325,2325,"CR:Resident Care -... D.Zucker 201107: Zucker, Doris",,,,,,,,,,,,,,,

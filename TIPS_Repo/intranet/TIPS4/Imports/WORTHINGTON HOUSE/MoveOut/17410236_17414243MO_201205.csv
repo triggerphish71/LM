@@ -1,0 +1,7 @@
+BATCH,,201205,B,5184.0000,
+INVOICE,IN,,17410236,,05/01/2012,162.0000,"Invoice-Private",,05/01/2012,05/01/2012,,17414243MO,-4860.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,95.0000,95.00,"Basic Service Fee - Studio for May: Wert, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,67.0000,67.00,"Resident Care - Level 5 for May: Wert, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,17410236,,05/01/2012,5022,"Invoice-Private",,05/01/2012,05/01/2012,,17414243MO,-4860.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... T.Wert 201205: Wert, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,2077,2077,"CR:Resident Care -... T.Wert 201205: Wert, Thomas",,,,,,,,,,,,,,,

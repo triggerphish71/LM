@@ -1,0 +1,6 @@
+BATCH,,201108,B,3751.0000,
+INVOICE,IN,,16210117,,08/01/2011,837.0000,"Invoice-Private",,08/01/2011,08/10/2011,,16212797MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,837.0000,837.00,"CR:Limited Term Di... J.Gravett 201108: Gravett, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,16210117,,08/01/2011,2914,"Invoice-Private",,08/01/2011,08/10/2011,,16212797MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2449,2449,"CR:Basic Service F... J.Gravett 201108: Gravett, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,465,465,"CR:Resident Care -... J.Gravett 201108: Gravett, Jean",,,,,,,,,,,,,,,

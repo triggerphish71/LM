@@ -1,0 +1,6 @@
+BATCH,,201209,B,5370.0000,
+INVOICE,IN,,09110159,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,09115390MO,-6781.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,1,60.0000,60.00,"CR:Limited Term Di... A.Groznik 201209: Groznik, Anna P",,,,,,,,,,,,,,,
+INVOICE,CM,,09110159,,09/01/2012,5310,"Invoice-Private",,09/01/2012,09/10/2012,,09115390MO,-6781.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... A.Groznik 201209: Groznik, Anna P",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2760,2760,"CR:Resident Care -... A.Groznik 201209: Groznik, Anna P",,,,,,,,,,,,,,,

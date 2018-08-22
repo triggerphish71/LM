@@ -1,0 +1,7 @@
+BATCH,,201305,B,11038.1600,
+INVOICE,IN,,51310196,,05/24/2013,4927.7500,"Invoice-Private",,05/24/2013,05/24/2013,,51314484MO,-7095.9600,,,,,,,,,,
+TRANSACTION,3020,010310513,25,106.0000,2650.00,"Basic Service Fee- Studio for May: Crowley, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,25,91.1100,2277.75,"Resident Care - Level 6+9 pts for May: Crowley, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,51310196,,05/24/2013,6110.41,"Invoice-Private",,05/24/2013,05/24/2013,,51314484MO,-7095.9600,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3286,3286,"CR:Basic Service F... M.Crowley 201305: Crowley, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2824.41,2824.41,"CR:Resident Care -... M.Crowley 201305: Crowley, Mary",,,,,,,,,,,,,,,

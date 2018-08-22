@@ -1,0 +1,6 @@
+BATCH,,201211,B,1657.0000,
+INVOICE,IN,,02910351,,11/30/2012,1657.0000,"MoveIn-Coldiron. Dallas",,11/30/2012,11/30/2012,,02915905,5774.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,1,100.0000,100,"D.Coldiron: Basic Service Fee - Studio: Coldiron. Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,1,32.0000,32,"D.Coldiron: Resident Care - Level 2: Coldiron. Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Coldiron. Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Coldiron. Dallas",,,,,,,,,,,,,,,

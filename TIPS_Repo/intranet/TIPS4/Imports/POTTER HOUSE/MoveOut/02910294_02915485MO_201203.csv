@@ -1,0 +1,5 @@
+BATCH,,201203,B,4700.0000,
+INVOICE,IN,,02910294,,03/01/2012,1600.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02915485MO,-1500.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,16,100.0000,1600.00,"Basic Service Fee - Studio for Mar: Weatherly, Leon",,,,,,,,,,,,,,,
+INVOICE,CM,,02910294,,03/01/2012,3100,"Invoice-Private",,03/01/2012,03/10/2012,,02915485MO,-1500.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Basic Service F... L.Weatherly 201203: Weatherly, Leon",,,,,,,,,,,,,,,

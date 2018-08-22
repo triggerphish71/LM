@@ -1,0 +1,5 @@
+BATCH,,201203,B,558.0000,
+INVOICE,IN,,21010047,,03/01/2012,279.0000,"Invoice-Private",,03/01/2012,03/10/2012,,21013424MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,31,9.0000,279.00,"Credit for Limited Term Discount: Merritt, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,21010047,,03/01/2012,279,"Invoice-Private",,03/01/2012,03/10/2012,,21013424MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,31,9,279,"Limited Term Discount: Merritt, Margaret",,,,,,,,,,,,,,,

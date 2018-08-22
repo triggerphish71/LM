@@ -1,0 +1,7 @@
+BATCH,,201205,B,6223.0000,
+INVOICE,IN,,16810394,,05/18/2012,2286.0000,"Invoice-Private",,05/18/2012,05/18/2012,,16816645MO,-5461.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,18,89.0000,1602.00,"Basic Service Fee - Efficiency for May: Moser, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,18,38.0000,684.00,"Resident Care - Level 3 for May: Moser, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,16810394,,05/18/2012,3937,"Invoice-Private",,05/18/2012,05/18/2012,,16816645MO,-5461.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2759,2759,"CR:Basic Service F... D.Moser 201205: Moser, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1178,1178,"CR:Resident Care -... D.Moser 201205: Moser, Doris",,,,,,,,,,,,,,,

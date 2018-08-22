@@ -1,0 +1,7 @@
+BATCH,,201806,B,6144.0000,
+INVOICE,IN,,50110449,,06/18/2018,2304.0000,"Invoice-Private",,06/18/2018,06/18/2018,,50117917MO,-5504.0000,,,,,,,,,,
+TRANSACTION,3020,010009501,18,109.0000,1962.00,"Basic Service Fee - One Bedroom for Jun: Taylor, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009501,18,19.0000,342.00,"Resident Care - Level 1 for Jun: Taylor, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,50110449,,06/18/2018,3840,"Invoice-Private",,06/18/2018,06/18/2018,,50117917MO,-5504.0000,,,,,,,,,,
+TRANSACTION,3020,010009501,1,3270,3270,"CR:Basic Service F... M.Taylor 201806: Taylor, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009501,1,570,570,"CR:Resident Care -... M.Taylor 201806: Taylor, Mary Lou",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,510.0000,
+INVOICE,IN,,09110130,,04/01/2012,255.0000,"Invoice-Private",,04/01/2012,04/10/2012,,09115129MO,-2277.5000,,,,,,,,,,
+TRANSACTION,3312,010305091,30,8.5000,255.00,"Credit for Two Room Rental Discount: Stewart, Henry Blair",,,,,,,,,,,,,,,
+INVOICE,CM,,09110130,,04/01/2012,255,"Invoice-Private",,04/01/2012,04/10/2012,,09115129MO,-2277.5000,,,,,,,,,,
+TRANSACTION,3312,010305091,30,8.5,255,"Two Room Rental Discount: Stewart, Henry Blair",,,,,,,,,,,,,,,

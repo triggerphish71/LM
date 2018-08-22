@@ -1,0 +1,5 @@
+BATCH,,201305,B,4460.0000,
+INVOICE,IN,,51110196,,05/01/2013,4460.0000,"May_Rent-Maxwell. Lola",,05/01/2013,05/10/2013,,51112798,6345.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,31,105.0000,3255,"Basic Service Fee - Studio: Maxwell. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,31,38.0000,1178,"Resident Care - Level 2: Maxwell. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Maxwell. Lola",,,,,,,,,,,,,,,

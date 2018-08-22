@@ -1,0 +1,6 @@
+BATCH,,201206,B,4440.0000,
+INVOICE,IN,,53610146,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,53613626MO,-5718.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,1,60.0000,60.00,"CR:Limited Term Di... L.Goetzke 201206: Goetzke, Lovina",,,,,,,,,,,,,,,
+INVOICE,CM,,53610146,,06/01/2012,4380,"Invoice-Private",,06/01/2012,06/10/2012,,53613626MO,-5718.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3030,3030,"CR:Basic Service F... L.Goetzke 201206: Goetzke, Lovina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,1350,1350,"CR:Resident Care -... L.Goetzke 201206: Goetzke, Lovina",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,120.0000,
+INVOICE,IN,,53610200,,03/01/2013,60.0000,"Invoice-Private",,03/01/2013,03/10/2013,,53613873MO,-5845.9200,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Garside, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25.0000,25.00,"Pendant Fee: Garside, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,53610200,,03/01/2013,60,"Invoice-Private",,03/01/2013,03/10/2013,,53613873MO,-5845.9200,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Garside, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"Credit for Pendant Fee: Garside, Shirley",,,,,,,,,,,,,,,

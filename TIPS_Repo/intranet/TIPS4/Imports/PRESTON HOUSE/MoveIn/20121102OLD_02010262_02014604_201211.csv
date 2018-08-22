@@ -1,0 +1,5 @@
+BATCH,,201211,B,4628.0000,
+INVOICE,IN,,02010262,,11/02/2012,4628.0000,"MoveIn-Wagner. Bob",,11/02/2012,11/02/2012,,02014604,4628.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,29,107.0000,3103,"Basic Service Fee - One Bedroom: Wagner. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Wagner. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202020,1,1500.0000,1500,"New Resident Fee: Wagner. Bob",,,,,,,,,,,,,,,

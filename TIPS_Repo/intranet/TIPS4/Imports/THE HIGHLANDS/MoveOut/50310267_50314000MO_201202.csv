@@ -1,0 +1,8 @@
+BATCH,,201202,B,6515.0000,
+INVOICE,IN,,50310267,,02/01/2012,2565.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50314000MO,-1385.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,19,75.0000,1425.00,"Basic Service Fee - Studio for Feb: Coffey, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,19,60.0000,1140.00,"Resident Care - Level 5 for Feb: Coffey, Cleo",,,,,,,,,,,,,,,
+INVOICE,CM,,50310267,,02/01/2012,3950,"Invoice-Private",,02/01/2012,02/10/2012,,50314000MO,-1385.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2175,2175,"CR:Basic Service F... C.Coffey 201202: Coffey, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... C.Coffey 201202: Coffey, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1740,1740,"CR:Resident Care -... C.Coffey 201202: Coffey, Cleo",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,3760.0000,
+INVOICE,IN,,53210357,,07/12/2013,3760.0000,"MoveIn-Bley. Steven",,07/12/2013,07/12/2013,,53215593,3760.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,20,98.0000,1960,"Basic Service Fee - Studio Suite: Bley. Steven",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,20,15.0000,300,"Resident Care - Level 1: Bley. Steven",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: Bley. Steven",,,,,,,,,,,,,,,

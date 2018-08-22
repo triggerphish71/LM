@@ -1,0 +1,7 @@
+BATCH,,201206,B,6627.0000,
+INVOICE,IN,,19510239,,06/17/2012,2397.0000,"Invoice-Private",,06/17/2012,06/17/2012,,19514446MO,-6204.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,17,94.0000,1598.00,"Basic Service Fee - Studio for Jun: Ezra, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,17,47.0000,799.00,"Resident Care - Level 3 for Jun: Ezra, Max",,,,,,,,,,,,,,,
+INVOICE,CM,,19510239,,06/17/2012,4230,"Invoice-Private",,06/17/2012,06/17/2012,,19514446MO,-6204.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2820,2820,"CR:Basic Service F... M.Ezra 201206: Ezra, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1410,1410,"CR:Resident Care -... M.Ezra 201206: Ezra, Max",,,,,,,,,,,,,,,

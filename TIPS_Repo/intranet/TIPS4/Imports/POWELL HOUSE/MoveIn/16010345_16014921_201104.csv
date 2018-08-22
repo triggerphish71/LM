@@ -1,0 +1,6 @@
+BATCH,,201104,B,2585.0000,
+INVOICE,IN,,16010345,,04/26/2011,2585.0000,"MoveIn-Moon. Bill",,04/26/2011,04/26/2011,,16014921,6950.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,4,96.0000,384,"Basic Service Fee - Studio         : Moon. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,4,44.0000,176,"Resident Care - Level 3: Moon. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Moon. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,2000.0000,2000,"New Resident Fee: Moon. Bill",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,5258.6100,
+INVOICE,IN,,09710176,,12/01/2012,2062.2000,"Invoice-Private",,12/01/2012,12/10/2012,,09714553MO,-1134.2100,,,,,,,,,,
+TRANSACTION,3020,010103097,20,87.0000,1740.00,"Basic Service Fee - Studio for Dec: Oldroyd, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,20,16.1100,322.20,"Resident Care - Level 9 for Dec: Oldroyd, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,09710176,,12/01/2012,3196.41,"Invoice-Private",,12/01/2012,12/10/2012,,09714553MO,-1134.2100,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2697,2697,"CR:Basic Service F... P.Oldroyd 201212: Oldroyd, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,499.41,499.41,"CR:Resident Care -... P.Oldroyd 201212: Oldroyd, Phyllis",,,,,,,,,,,,,,,

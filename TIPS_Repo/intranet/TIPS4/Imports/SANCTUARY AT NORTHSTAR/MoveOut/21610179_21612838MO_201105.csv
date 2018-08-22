@@ -1,0 +1,7 @@
+BATCH,,201105,B,8220.0000,
+INVOICE,IN,,21610179,,05/10/2011,3973.0000,"Invoice-Private",,05/10/2011,05/10/2011,,21612838MO,-4384.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,29,11.0000,319.00,"Resident Care - Level 1 for May: Spitz, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,29,126.0000,3654.00,"Room and Board - Two Bedroom for May: Spitz, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,21610179,,05/10/2011,4247,"Invoice-Private",,05/10/2011,05/10/2011,,21612838MO,-4384.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,341,341,"CR:Resident Care -... M.Spitz 201105: Spitz, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3906,3906,"CR:Room and Board ... M.Spitz 201105: Spitz, Marilyn",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,6404.4000,
+INVOICE,IN,,10010231,,12/09/2012,1440.9900,"Invoice-Private",,12/09/2012,12/09/2012,,10014021MO,-8510.8300,,,,,,,,,,
+TRANSACTION,3020,010104100,9,60.0000,540.00,"Basic Service Fee - Studio for Dec: Allen, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,9,100.1100,900.99,"Resident Care - Level 6+9 pts for Dec: Allen, Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,10010231,,12/09/2012,4963.41,"Invoice-Private",,12/09/2012,12/09/2012,,10014021MO,-8510.8300,,,,,,,,,,
+TRANSACTION,3020,010104100,1,1860,1860,"CR:Basic Service F... J.Allen 201212: Allen, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,3103.41,3103.41,"CR:Resident Care -... J.Allen 201212: Allen, Judy",,,,,,,,,,,,,,,

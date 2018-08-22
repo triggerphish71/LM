@@ -1,0 +1,8 @@
+BATCH,,201211,B,7467.0000,
+INVOICE,IN,,05710273,,11/27/2012,3777.0000,"Invoice-Private",,11/27/2012,11/27/2012,,05715762MO,-3509.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,1,210.0000,210.00,"CR:Limited Term Di... E.Bland 201211: Bland, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202057,29,94.0000,2726.00,"Basic Service Fee - Studio for Nov: Bland, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,29,29.0000,841.00,"Resident Care - Level 2 for Nov: Bland, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,05710273,,11/27/2012,3690,"Invoice-Private",,11/27/2012,11/27/2012,,05715762MO,-3509.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2820,2820,"CR:Basic Service F... E.Bland 201211: Bland, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,870,870,"CR:Resident Care -... E.Bland 201211: Bland, Ellen",,,,,,,,,,,,,,,

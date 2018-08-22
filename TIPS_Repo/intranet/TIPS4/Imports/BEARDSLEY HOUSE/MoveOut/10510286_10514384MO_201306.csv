@@ -1,0 +1,8 @@
+BATCH,,201306,B,4501.0000,
+INVOICE,IN,,10510286,,06/28/2013,2156.0000,"Invoice-Private",,06/28/2013,06/28/2013,,10514384MO,-2611.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,28,61.0000,1708.00,"Basic Service Fee - Studio for Jun: Evans, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,28,16.0000,448.00,"Resident Care - Level 1 for Jun: Evans, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,10510286,,06/28/2013,2345,"Invoice-Private",,06/28/2013,06/28/2013,,10514384MO,-2611.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,1830,1830,"CR:Basic Service F... R.Evans 201306: Evans, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309105,1,35,35,"CR:Pendant Fee... R.Evans 201306: Evans, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,480,480,"CR:Resident Care -... R.Evans 201306: Evans, Ruby",,,,,,,,,,,,,,,

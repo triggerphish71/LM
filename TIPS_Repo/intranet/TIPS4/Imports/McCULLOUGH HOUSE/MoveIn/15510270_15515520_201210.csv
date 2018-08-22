@@ -1,0 +1,6 @@
+BATCH,,201210,B,3696.0000,
+INVOICE,IN,,15510270,,10/19/2012,3696.0000,"MoveIn-Stahl. Erma",,10/19/2012,10/19/2012,,15515520,8731.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,13,89.0000,1157,"Basic Service Fee - Studio: Stahl. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,13,78.0000,1014,"Resident Care - Level 6: Stahl. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Stahl. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,1500.0000,1500,"New Resident Fee: Stahl. Erma",,,,,,,,,,,,,,,

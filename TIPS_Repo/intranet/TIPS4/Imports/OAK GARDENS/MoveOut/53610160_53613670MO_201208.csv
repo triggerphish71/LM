@@ -1,0 +1,7 @@
+BATCH,,201208,B,174.0000,
+INVOICE,IN,,53610160,,08/01/2012,87.0000,"Invoice-Private",,08/01/2012,08/10/2012,,53613670MO,-2737.0000,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25.0000,25.00,"Pendant Fee: Gullingsrud, Verna",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319536,31,2.0000,62.00,"Credit for Limited Term Discount: Gullingsrud, Verna",,,,,,,,,,,,,,,
+INVOICE,CM,,53610160,,08/01/2012,87,"Invoice-Private",,08/01/2012,08/10/2012,,53613670MO,-2737.0000,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"Credit for Pendant Fee: Gullingsrud, Verna",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319536,31,2,62,"Limited Term Discount: Gullingsrud, Verna",,,,,,,,,,,,,,,

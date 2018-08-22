@@ -1,0 +1,5 @@
+BATCH,,201302,B,3442.0000,
+INVOICE,IN,,17410270,,02/07/2013,3442.0000,"MoveIn-Richard. Fulkerson",,02/07/2013,02/07/2013,,17414600,3442.0000,,,,,,,,,,
+TRANSACTION,3010,010309174,22,95.0000,2090,"F.Richard: Basic Service Fee - Studio: Richard. Fulkerson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,22,16.0000,352,"F.Richard: Resident Care - Level 1: Richard. Fulkerson",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309174,1,1000.0000,1000,"New Resident Fee: Richard. Fulkerson",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,3044.0000,
+INVOICE,IN,,05910115,,08/23/2011,3044.0000,"MoveIn-Issaacs. Lewis",,08/23/2011,08/23/2011,,05913123,6524.0000,,,,,,,,,,
+TRANSACTION,3010,010101059,9,82.0000,738,"Basic Service Fee - Studio         : Issaacs. Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101059,9,34.0000,306,"Resident Care - Level 20: Issaacs. Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101059,1,2000.0000,2000,"New Resident Fee: Issaacs. Lewis",,,,,,,,,,,,,,,

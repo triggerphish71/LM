@@ -1,0 +1,5 @@
+BATCH,,201105,B,4876.8000,
+INVOICE,IN,,53210324,,04/30/2011,152.4000,"MoveIn-Battista. Diane",,04/30/2011,04/30/2011,,53214836,4876.8000,,,,,,,,,,
+TRANSACTION,3014,010319532,1,152.4000,152.4,"Basic Service Fee - Respite Deluxe: Battista. Diane",,,,,,,,,,,,,,,
+INVOICE,IN,,53210324,,05/01/2011,4724.4000,"May_Rent-Battista. Diane",,05/01/2011,05/10/2011,,53214836,4876.8000,,,,,,,,,,
+TRANSACTION,3010,010319532,31,152.4000,4724.4,"Basic Service Fee - Respite Deluxe: Battista. Diane",,,,,,,,,,,,,,,

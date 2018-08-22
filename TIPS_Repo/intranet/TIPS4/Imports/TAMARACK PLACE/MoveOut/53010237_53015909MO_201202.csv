@@ -1,0 +1,6 @@
+BATCH,,201202,B,6828.0000,
+INVOICE,IN,,53010237,,02/22/2012,3332.0000,"Invoice-Private",,02/22/2012,02/22/2012,,53015909MO,-3898.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,28,119.0000,3332.00,"Basic Service Fee-One Bedroom Premi for Feb: Claffey, Mariclaire",,,,,,,,,,,,,,,
+INVOICE,CM,,53010237,,02/22/2012,3496,"Invoice-Private",,02/22/2012,02/22/2012,,53015909MO,-3898.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3451,3451,"CR:Basic Service F... M.Claffey 201202: Claffey, Mariclaire",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319530,1,45,45,"CR:Garage Rental... M.Claffey 201202: Claffey, Mariclaire",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,3487.0000,
+INVOICE,IN,,04510173,,07/01/2011,1197.0000,"Invoice-Private",,07/01/2011,07/10/2011,,04513586MO,-1093.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,1,248.0000,248.00,"CR:Limited Term Di... D.Douglas 201107: Douglas, Don",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,13,73.0000,949.00,"Room and Board - Studio for Jul: Douglas, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,04510173,,07/01/2011,2290,"Invoice-Private",,07/01/2011,07/10/2011,,04513586MO,-1093.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... D.Douglas 201107: Douglas, Don",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2263,2263,"CR:Room and Board ... D.Douglas 201107: Douglas, Don",,,,,,,,,,,,,,,

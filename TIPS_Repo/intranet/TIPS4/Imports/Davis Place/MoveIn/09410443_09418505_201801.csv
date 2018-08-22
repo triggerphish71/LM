@@ -1,0 +1,5 @@
+BATCH,,201801,B,8056.0000,
+INVOICE,IN,,09410443,,01/08/2018,8056.0000,"MoveIn-Pike. John",,01/08/2018,01/08/2018,,09418505,8056.0000,,,,,,,,,,
+TRANSACTION,3010,010007094,24,95.0000,2280,"Basic Service Fee - Studio: Pike. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007094,1,2888.0000,2888,"Community Fee: Pike. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007094,1,2888.0000,2888,"Monthly Deferral Charge: Pike. John",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,4332.0000,
+INVOICE,IN,,03510159,,04/08/2013,912.0000,"Invoice-Private",,04/08/2013,04/08/2013,,03513539MO,-2508.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,8,55.0000,440.00,"Basic Service Fee - Studio for Apr: Duvall, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,8,59.0000,472.00,"Resident Care - Level 5 for Apr: Duvall, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,03510159,,04/08/2013,3420,"Invoice-Private",,04/08/2013,04/08/2013,,03513539MO,-2508.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,1650,1650,"CR:Basic Service F... H.Duvall 201304: Duvall, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,1770,1770,"CR:Resident Care -... H.Duvall 201304: Duvall, Harold",,,,,,,,,,,,,,,

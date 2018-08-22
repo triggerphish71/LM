@@ -1,0 +1,5 @@
+BATCH,,201211,B,2345.0000,
+INVOICE,IN,,14210211,,11/09/2012,2345.0000,"MoveIn-Stigdon. Albert",,11/09/2012,11/09/2012,,14214191,2345.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,22,88.0000,1936,"A.Stigdon: Basic Service Fee - Studio: Stigdon. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,22,17.0000,374,"A.Stigdon: Resident Care - Level 1: Stigdon. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Stigdon. Albert",,,,,,,,,,,,,,,

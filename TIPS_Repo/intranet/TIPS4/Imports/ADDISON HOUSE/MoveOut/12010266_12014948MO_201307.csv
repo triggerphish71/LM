@@ -1,0 +1,6 @@
+BATCH,,201307,B,2490.0000,
+INVOICE,IN,,12010266,,07/01/2013,600.0000,"Invoice-Private",,07/01/2013,07/01/2013,,12014948MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,10,60.0000,600.00,"Basic Service Fee - Studio for Jul: Butler, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,12010266,,07/01/2013,1890,"Invoice-Private",,07/01/2013,07/01/2013,,12014948MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,1860,1860,"CR:Basic Service F... G.Butler 201307: Butler, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... G.Butler 201307: Butler, Gloria",,,,,,,,,,,,,,,

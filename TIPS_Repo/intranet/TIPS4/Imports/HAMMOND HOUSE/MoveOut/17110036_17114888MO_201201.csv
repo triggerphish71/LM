@@ -1,0 +1,5 @@
+BATCH,,201201,B,5421.0000,
+INVOICE,CM,,17110036,,01/01/2012,5421,"Invoice-Private",,01/01/2012,01/10/2012,,17114888MO,-5421.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... A.Thompson 201201: Thompson, Allean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... A.Thompson 201201: Thompson, Allean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,2480,2480,"CR:Resident Care -... A.Thompson 201201: Thompson, Allean",,,,,,,,,,,,,,,

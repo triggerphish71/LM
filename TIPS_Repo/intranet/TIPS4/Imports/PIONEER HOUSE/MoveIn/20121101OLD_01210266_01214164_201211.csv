@@ -1,0 +1,5 @@
+BATCH,,201211,B,4512.2000,
+INVOICE,IN,,01210266,,11/01/2012,4512.2000,"November_Rent-Campbell. Reita",,11/01/2012,11/10/2012,,01214164,5590.6400,,,,,,,,,,
+TRANSACTION,3010,010103012,30,85.0000,2550,"Basic Service Fee - Studio: Campbell. Reita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,30,64.4400,1933.2,"Resident Care - Level 36: Campbell. Reita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Campbell. Reita",,,,,,,,,,,,,,,

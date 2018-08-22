@@ -1,0 +1,8 @@
+BATCH,,201303,B,3756.0000,
+INVOICE,IN,,13510304,,03/13/2013,1215.0000,"Invoice-Private",,03/13/2013,03/13/2013,,13515725MO,-3786.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,15,50.0000,750.00,"Basic Service Fee - Studio for Mar: Tatum, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,15,31.0000,465.00,"Resident Care - Level 2 for Mar: Tatum, William",,,,,,,,,,,,,,,
+INVOICE,CM,,13510304,,03/13/2013,2541,"Invoice-Private",,03/13/2013,03/13/2013,,13515725MO,-3786.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1550,1550,"CR:Basic Service F... W.Tatum 201303: Tatum, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... W.Tatum 201303: Tatum, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... W.Tatum 201303: Tatum, William",,,,,,,,,,,,,,,

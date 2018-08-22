@@ -1,0 +1,5 @@
+BATCH,,201111,B,1500.0000,
+INVOICE,CM,,19610194,,11/01/2011,1500,"Invoice-Private",,11/01/2011,11/10/2011,,19612801MO,-2330.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,510,510,"CR:Basic Service F... F.Krause 201111: Krause, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,300,300,"CR:CC Meals... F.Krause 201111: Krause, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,690,690,"CR:Resident Care -... F.Krause 201111: Krause, Floyd",,,,,,,,,,,,,,,

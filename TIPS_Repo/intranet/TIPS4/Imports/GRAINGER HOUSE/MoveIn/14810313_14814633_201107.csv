@@ -1,0 +1,6 @@
+BATCH,,201107,B,2302.0000,
+INVOICE,IN,,14810313,,07/20/2011,2302.0000,"MoveIn-Dern. Paul",,07/20/2011,07/20/2011,,14814633,5618.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,12,88.0000,1056,"Basic Service Fee - Studio         : Dern. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,12,18.0000,216,"Resident Care - Level 1: Dern. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Dern. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Dern. Paul",,,,,,,,,,,,,,,

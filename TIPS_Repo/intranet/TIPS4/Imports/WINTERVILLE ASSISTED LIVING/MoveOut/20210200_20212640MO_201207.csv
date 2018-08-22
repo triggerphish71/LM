@@ -1,0 +1,8 @@
+BATCH,,201207,B,4508.0000,
+INVOICE,IN,,20210200,,07/04/2012,1284.0000,"Invoice-Private",,07/04/2012,07/04/2012,,20212640MO,-1940.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,868.0000,868.00,"CR:Limited Term Di... C.Seabolt 201207: Seabolt, Cora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,4,21.0000,84.00,"Resident Care - Level 2 for Jul: Seabolt, Cora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,4,83.0000,332.00,"Studio for Jul: Seabolt, Cora",,,,,,,,,,,,,,,
+INVOICE,CM,,20210200,,07/04/2012,3224,"Invoice-Private",,07/04/2012,07/04/2012,,20212640MO,-1940.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,651,651,"CR:Resident Care -... C.Seabolt 201207: Seabolt, Cora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... C.Seabolt 201207: Seabolt, Cora",,,,,,,,,,,,,,,

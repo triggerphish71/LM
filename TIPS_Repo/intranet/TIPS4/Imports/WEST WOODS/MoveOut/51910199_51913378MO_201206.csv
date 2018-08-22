@@ -1,0 +1,5 @@
+BATCH,,201206,B,480.0000,
+INVOICE,IN,,51910199,,06/01/2012,240.0000,"Invoice-Private",,06/01/2012,06/10/2012,,51913378MO,141.3100,,,,,,,,,,
+TRANSACTION,3320,010103519,30,8.0000,240.00,"Credit for Limited Term Discount: Sayler, Steven",,,,,,,,,,,,,,,
+INVOICE,CM,,51910199,,06/01/2012,240,"Invoice-Private",,06/01/2012,06/10/2012,,51913378MO,141.3100,,,,,,,,,,
+TRANSACTION,3320,010103519,30,8,240,"Limited Term Discount: Sayler, Steven",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201309,B,60.0000,
+INVOICE,IN,,12910218,,09/01/2013,30.0000,"Invoice-Private",,09/01/2013,09/10/2013,,12916591MO,-3037.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Seymour, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,12910218,,09/01/2013,30,"Invoice-Private",,09/01/2013,09/10/2013,,12916591MO,-3037.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Seymour, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,4819.0000,
+INVOICE,IN,,20010675,,10/12/2011,2370.0000,"Invoice-Private",,10/12/2011,10/12/2011,,20017675MO,-79.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,30,79.0000,2370.00,"Basic Service Fee - Studio for Oct: Holmes, Santonio",,,,,,,,,,,,,,,
+INVOICE,CM,,20010675,,10/12/2011,2449,"Invoice-Private",,10/12/2011,10/12/2011,,20017675MO,-79.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2449,2449,"CR:Basic Service F... S.Holmes 201110: Holmes, Santonio",,,,,,,,,,,,,,,

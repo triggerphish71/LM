@@ -1,0 +1,8 @@
+BATCH,,201204,B,1944.0000,
+INVOICE,IN,,13710226,,04/04/2012,324.0000,"Invoice-Private",,04/04/2012,04/04/2012,,13714374MO,-1296.0000,,,,,,,,,,
+TRANSACTION,3317,010309137,1,108.0000,108.00,"CR:HealthCare Syne... B.Scher 201204: Scher, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,4,36.0000,144.00,"Basic Service Fee - Second Resident for Apr: Scher, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,4,18.0000,72.00,"Resident Care - Level 1 for Apr: Scher, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,13710226,,04/04/2012,1620,"Invoice-Private",,04/04/2012,04/04/2012,,13714374MO,-1296.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,1080,1080,"CR:Basic Service F... B.Scher 201204: Scher, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,540,540,"CR:Resident Care -... B.Scher 201204: Scher, Bernard",,,,,,,,,,,,,,,

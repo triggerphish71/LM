@@ -1,0 +1,7 @@
+BATCH,,201208,B,4241.0000,
+INVOICE,IN,,50210171,,08/01/2012,465.0000,"Invoice-Private",,08/01/2012,08/10/2012,,50213530MO,-4686.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,1,465.0000,465.00,"CR:Limited Term Di... F.Porter 201208: Porter, Fern",,,,,,,,,,,,,,,
+INVOICE,CM,,50210171,,08/01/2012,3776,"Invoice-Private",,08/01/2012,08/10/2012,,50213530MO,-4686.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2573,2573,"CR:Basic Service F... F.Porter 201208: Porter, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... F.Porter 201208: Porter, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1178,1178,"CR:Resident Care -... F.Porter 201208: Porter, Fern",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,6617.4500,
+INVOICE,IN,,09810207,,09/01/2011,2565.9500,"Invoice-Private",,09/01/2011,09/10/2011,,09814408MO,-1485.5500,,,,,,,,,,
+TRANSACTION,3020,010103098,19,107.0000,2033.00,"Basic Service Fee - One Bedroom for Sep: Taylor, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,19,28.0500,532.95,"Resident Care - Level 17 for Sep: Taylor, Glen",,,,,,,,,,,,,,,
+INVOICE,CM,,09810207,,09/01/2011,4051.5,"Invoice-Private",,09/01/2011,09/10/2011,,09814408MO,-1485.5500,,,,,,,,,,
+TRANSACTION,3020,010103098,1,3210,3210,"CR:Basic Service F... G.Taylor 201109: Taylor, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,841.5,841.5,"CR:Resident Care -... G.Taylor 201109: Taylor, Glen",,,,,,,,,,,,,,,

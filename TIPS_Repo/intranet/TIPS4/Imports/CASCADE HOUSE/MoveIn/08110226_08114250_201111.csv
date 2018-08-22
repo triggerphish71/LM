@@ -1,0 +1,5 @@
+BATCH,,201111,B,4912.0000,
+INVOICE,IN,,08110226,,11/01/2011,4912.0000,"November_Rent-Seldal. Patti",,11/01/2011,11/10/2011,,08114250,7588.6000,,,,,,,,,,
+TRANSACTION,3010,010103081,30,100.0000,3000,"Basic Service Fee - One Bedroom    : Seldal. Patti",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,30,62.9000,1887,"Resident Care - Level 37: Seldal. Patti",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Seldal. Patti",,,,,,,,,,,,,,,

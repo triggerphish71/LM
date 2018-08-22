@@ -1,0 +1,7 @@
+BATCH,,201202,B,8640.0000,
+INVOICE,IN,,10210132,,02/25/2012,4000.0000,"Invoice-Private",,02/25/2012,02/25/2012,,10214896MO,-5600.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,25,111.0000,2775.00,"Basic Service Fee - Studio for Feb: Brock, Adella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,25,49.0000,1225.00,"Swan Personal Care - L3 for Feb: Brock, Adella",,,,,,,,,,,,,,,
+INVOICE,CM,,10210132,,02/25/2012,4640,"Invoice-Private",,02/25/2012,02/25/2012,,10214896MO,-5600.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3219,3219,"CR:Basic Service F... A.Brock 201202: Brock, Adella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1421,1421,"CR:Swan Personal C... A.Brock 201202: Brock, Adella",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201110,B,4051.0000,
+INVOICE,IN,,15010158,,10/01/2011,244.0000,"Invoice-Private",,10/01/2011,10/10/2011,,15014241MO,-3563.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,2,92.0000,184.00,"Basic Service Fee - Studio for Oct: Livingston, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,2,30.0000,60.00,"Resident Care - Level 2 for Oct: Livingston, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,15010158,,10/01/2011,3807,"Invoice-Private",,10/01/2011,10/10/2011,,15014241MO,-3563.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,2852,2852,"CR:Basic Service F... W.Livingston 201110: Livingston, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25,25,"CR:Monthly Cable... W.Livingston 201110: Livingston, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,1,930,930,"CR:Resident Care -... W.Livingston 201110: Livingston, Wayne",,,,,,,,,,,,,,,

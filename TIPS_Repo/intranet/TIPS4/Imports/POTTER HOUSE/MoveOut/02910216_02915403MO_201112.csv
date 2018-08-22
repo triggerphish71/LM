@@ -1,0 +1,8 @@
+BATCH,,201112,B,6796.0000,
+INVOICE,IN,,02910216,,12/20/2011,2797.0000,"Invoice-Private",,12/20/2011,12/20/2011,,02915403MO,-5294.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,1,217.0000,217.00,"CR:Daily Discount... J.Ellis 201112: Ellis, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,20,97.0000,1940.00,"Basic Service Fee - Studio for Dec: Ellis, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,20,32.0000,640.00,"Resident Care - Level 2 for Dec: Ellis, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910216,,12/20/2011,3999,"Invoice-Private",,12/20/2011,12/20/2011,,02915403MO,-5294.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3007,3007,"CR:Basic Service F... J.Ellis 201112: Ellis, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,992,992,"CR:Resident Care -... J.Ellis 201112: Ellis, Johnnie",,,,,,,,,,,,,,,

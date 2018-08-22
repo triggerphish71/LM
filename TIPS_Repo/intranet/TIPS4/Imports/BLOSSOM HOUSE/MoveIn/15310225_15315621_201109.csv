@@ -1,0 +1,5 @@
+BATCH,,201109,B,4907.0000,
+INVOICE,IN,,15310225,,09/01/2011,4907.0000,"MoveIn-Johnson. Stanley",,09/01/2011,09/01/2011,,15315621,4907.0000,,,,,,,,,,
+TRANSACTION,3010,010103153,30,96.0000,2880,"Basic Service Fee - Studio         : Johnson. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Johnson. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Johnson. Stanley",,,,,,,,,,,,,,,

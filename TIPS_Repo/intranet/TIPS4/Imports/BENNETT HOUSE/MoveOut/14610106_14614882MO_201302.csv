@@ -1,0 +1,8 @@
+BATCH,,201302,B,7731.0000,
+INVOICE,IN,,14610106,,02/21/2013,3473.0000,"Invoice-Private",,02/21/2013,02/21/2013,,14614882MO,-5496.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,23,93.0000,2139.00,"Basic Service Fee - Studio for Feb: Parris, Bonnie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,23,58.0000,1334.00,"Resident Care - Level 4 for Feb: Parris, Bonnie Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,14610106,,02/21/2013,4258,"Invoice-Private",,02/21/2013,02/21/2013,,14614882MO,-5496.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2604,2604,"CR:Basic Service F... B.Parris 201302: Parris, Bonnie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... B.Parris 201302: Parris, Bonnie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1624,1624,"CR:Resident Care -... B.Parris 201302: Parris, Bonnie Mae",,,,,,,,,,,,,,,

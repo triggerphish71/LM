@@ -1,0 +1,7 @@
+BATCH,,201305,B,2706.0000,
+INVOICE,IN,,53310268,,05/10/2013,660.0000,"Invoice-Private",,05/10/2013,05/10/2013,,53315410MO,-1386.0000,,,,,,,,,,
+TRANSACTION,3027,010319533,10,16.0000,160.00,"Resident Care - Level 1 for May: Costner, W.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,10,50.0000,500.00,"Room and Board - Studio for May: Costner, W.",,,,,,,,,,,,,,,
+INVOICE,CM,,53310268,,05/10/2013,2046,"Invoice-Private",,05/10/2013,05/10/2013,,53315410MO,-1386.0000,,,,,,,,,,
+TRANSACTION,3027,010319533,1,496,496,"CR:Resident Care -... W.Costner 201305: Costner, W.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1550,1550,"CR:Room and Board ... W.Costner 201305: Costner, W.",,,,,,,,,,,,,,,

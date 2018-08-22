@@ -1,0 +1,7 @@
+BATCH,,201108,B,3888.0000,
+INVOICE,IN,,16310275,,08/05/2011,540.0000,"Invoice-Private",,08/05/2011,08/05/2011,,16316366MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,5,95.0000,475.00,"Basic Service Fee - Studio for Aug: Sieb, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,5,13.0000,65.00,"Resident Care - Level 1 for Aug: Sieb, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,16310275,,08/05/2011,3348,"Invoice-Private",,08/05/2011,08/05/2011,,16316366MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,2945,2945,"CR:Basic Service F... E.Sieb 201108: Sieb, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,403,403,"CR:Resident Care -... E.Sieb 201108: Sieb, Edward",,,,,,,,,,,,,,,

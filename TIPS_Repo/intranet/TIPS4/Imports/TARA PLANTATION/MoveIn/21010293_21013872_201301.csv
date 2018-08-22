@@ -1,0 +1,5 @@
+BATCH,,201301,B,4210.0000,
+INVOICE,IN,,21010293,,01/01/2013,4210.0000,"January_Rent-Snead. Percy",,01/01/2013,01/10/2013,,21013872,6275.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,31,94.0000,2914,"Studio: Snead. Percy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216210,31,41.0000,1271,"Resident Care - Level 4: Snead. Percy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25,"Monthly Cable: Snead. Percy",,,,,,,,,,,,,,,

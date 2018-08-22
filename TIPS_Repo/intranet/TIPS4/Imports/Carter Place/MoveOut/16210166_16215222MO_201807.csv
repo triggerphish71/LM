@@ -1,0 +1,7 @@
+BATCH,,201807,B,5676.4200,
+INVOICE,IN,,16210166,,07/01/2018,133.9400,"Invoice-Private",,07/01/2018,07/10/2018,,16215222MO,-9372.9200,,,,,,,,,,
+TRANSACTION,3311,010011162,1,133.9400,133.94,"CR:Advance Payment... M.Stick 201807: Stick, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,16210166,,07/01/2018,5542.48,"Invoice-Private",,07/01/2018,07/10/2018,,16215222MO,-9372.9200,,,,,,,,,,
+TRANSACTION,3020,010011162,1,2790,2790,"CR:Basic Service F... M.Stick 201807: Stick, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010011162,1,24.48,24.48,"CR:Pendant Fee... M.Stick 201807: Stick, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,1,2728,2728,"CR:Resident Care -... M.Stick 201807: Stick, Maxine",,,,,,,,,,,,,,,

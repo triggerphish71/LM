@@ -1,0 +1,7 @@
+BATCH,,201112,B,6255.0000,
+INVOICE,IN,,10010215,,12/01/2011,1946.0000,"Invoice-Private",,12/01/2011,12/01/2011,,10013797MO,-2363.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,14,82.0000,1148.00,"Basic Service Fee - Studio for Dec: Zatica, Erma jean ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,14,57.0000,798.00,"Resident Care - Level 4 for Dec: Zatica, Erma jean ",,,,,,,,,,,,,,,
+INVOICE,CM,,10010215,,12/01/2011,4309,"Invoice-Private",,12/01/2011,12/01/2011,,10013797MO,-2363.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2542,2542,"CR:Basic Service F... E.Zatica 201112: Zatica, Erma jean ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,1767,1767,"CR:Resident Care -... E.Zatica 201112: Zatica, Erma jean ",,,,,,,,,,,,,,,

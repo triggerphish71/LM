@@ -1,0 +1,7 @@
+BATCH,,201112,B,3638.0000,
+INVOICE,IN,,16910058,,12/05/2011,1009.0000,"Invoice-Private",,12/05/2011,12/05/2011,,16914677MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3320,010103169,1,589.0000,589.00,"CR:Limited Term Di... E.Schiffner 201112: Schiffner, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103169,5,84.0000,420.00,"Basic Service Fee - Studio for Dec: Schiffner, Erma",,,,,,,,,,,,,,,
+INVOICE,CM,,16910058,,12/05/2011,2629,"Invoice-Private",,12/05/2011,12/05/2011,,16914677MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2604,2604,"CR:Basic Service F... E.Schiffner 201112: Schiffner, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... E.Schiffner 201112: Schiffner, Erma",,,,,,,,,,,,,,,

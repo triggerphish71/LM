@@ -1,0 +1,7 @@
+BATCH,,201804,B,3292.0000,
+INVOICE,IN,,12010342,,04/11/2018,1342.0000,"Invoice-Private",,04/11/2018,04/11/2018,,12017155MO,-2682.9600,,,,,,,,,,
+TRANSACTION,3017,010009120,11,88.0000,968.00," Level: 6 : Clarkson, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009120,11,34.0000,374.00,"Basic Service Fee- Companion Studio  for Apr: Clarkson, William",,,,,,,,,,,,,,,
+INVOICE,CM,,12010342,,04/11/2018,1950,"Invoice-Private",,04/11/2018,04/11/2018,,12017155MO,-2682.9600,,,,,,,,,,
+TRANSACTION,3020,010009120,1,1020,1020,"CR:Basic Service F... W.Clarkson 201804: Clarkson, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009120,1,930,930,"CR:Resident Care -... W.Clarkson 201804: Clarkson, William",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,1650.8900,
+INVOICE,IN,,07810118,,02/06/2012,246.4800,"Invoice-Medicaid",,02/06/2012,02/06/2012,,07814458MO,-1157.9300,,,,,,,,,,
+TRANSACTION,3021,010104078,6,20.9400,125.64,"Medicaid Co-Pay for Feb: Spoon, Nancy Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104078,6,20.1400,120.84,"Medicaid Room & Board for Feb: Spoon, Nancy Jewel",,,,,,,,,,,,,,,
+INVOICE,CM,,07810118,,02/06/2012,1404.41,"Invoice-Medicaid",,02/06/2012,02/06/2012,,07814458MO,-1157.9300,,,,,,,,,,
+TRANSACTION,3021,010104078,1,607.4,607.4,"CR:Medicaid Co-Pay... N.Spoon 201202: Spoon, Nancy Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104078,1,584,584,"CR:Medicaid Room &... N.Spoon 201202: Spoon, Nancy Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104078,1,213.01,213.01,"CR:State Medicaid... N.Spoon 201202: Spoon, Nancy Jewel",,,,,,,,,,,,,,,

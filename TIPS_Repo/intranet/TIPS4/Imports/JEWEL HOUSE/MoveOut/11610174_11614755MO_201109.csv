@@ -1,0 +1,6 @@
+BATCH,,201109,B,4530.0000,
+INVOICE,IN,,11610174,,09/01/2011,60.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11614755MO,-5689.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,60.0000,60.00,"CR:Limited Term Di... T.Medlock 201109: Medlock, Tommye",,,,,,,,,,,,,,,
+INVOICE,CM,,11610174,,09/01/2011,4470,"Invoice-Private",,09/01/2011,09/10/2011,,11614755MO,-5689.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,2910,2910,"CR:Basic Service F... T.Medlock 201109: Medlock, Tommye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1560,1560,"CR:Resident Care -... T.Medlock 201109: Medlock, Tommye",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,5586.0000,
+INVOICE,IN,,09110213,,06/12/2013,1596.0000,"Invoice-Private",,06/12/2013,06/12/2013,,09115811MO,-6517.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,12,97.0000,1164.00,"Basic Service Fee - Deluxe for Jun: Bradam, Clesta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,12,36.0000,432.00,"Resident Care - Level 2 for Jun: Bradam, Clesta",,,,,,,,,,,,,,,
+INVOICE,CM,,09110213,,06/12/2013,3990,"Invoice-Private",,06/12/2013,06/12/2013,,09115811MO,-6517.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2910,2910,"CR:Basic Service F... C.Bradam 201306: Bradam, Clesta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... C.Bradam 201306: Bradam, Clesta",,,,,,,,,,,,,,,

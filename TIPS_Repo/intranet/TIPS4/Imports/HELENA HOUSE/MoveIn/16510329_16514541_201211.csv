@@ -1,0 +1,5 @@
+BATCH,,201211,B,3370.0000,
+INVOICE,IN,,16510329,,11/12/2012,3370.0000,"MoveIn-McGee. Margaret",,11/12/2012,11/12/2012,,16514541,3370.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,19,97.0000,1843,"Basic Service Fee - Studio         : McGee. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: McGee. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: McGee. Margaret",,,,,,,,,,,,,,,

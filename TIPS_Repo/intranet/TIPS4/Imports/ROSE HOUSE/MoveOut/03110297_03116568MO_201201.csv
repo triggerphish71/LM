@@ -1,0 +1,8 @@
+BATCH,,201201,B,6705.0000,
+INVOICE,IN,,03110297,,01/01/2012,1749.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03116568MO,-3207.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,11,115.0000,1265.00,"Basic Service Fee - One Bedroom for Jan: Gonzales, Julian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,11,44.0000,484.00,"Resident Care - Level 3 for Jan: Gonzales, Julian",,,,,,,,,,,,,,,
+INVOICE,CM,,03110297,,01/01/2012,4956,"Invoice-Private",,01/01/2012,01/10/2012,,03116568MO,-3207.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3565,3565,"CR:Basic Service F... J.Gonzales 201201: Gonzales, Julian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... J.Gonzales 201201: Gonzales, Julian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1364,1364,"CR:Resident Care -... J.Gonzales 201201: Gonzales, Julian",,,,,,,,,,,,,,,

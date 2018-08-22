@@ -1,0 +1,5 @@
+BATCH,,201301,B,3135.0000,
+INVOICE,IN,,09510291,,01/01/2013,190.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09515317MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,2,95.0000,190.00,"Room and Board - One Bedroom for Jan: Johnson, Gilbert",,,,,,,,,,,,,,,
+INVOICE,CM,,09510291,,01/01/2013,2945,"Invoice-Private",,01/01/2013,01/10/2013,,09515317MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2945,2945,"CR:Room and Board ... G.Johnson 201301: Johnson, Gilbert",,,,,,,,,,,,,,,

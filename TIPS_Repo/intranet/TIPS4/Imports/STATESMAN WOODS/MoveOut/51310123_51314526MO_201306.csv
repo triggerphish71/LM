@@ -1,0 +1,7 @@
+BATCH,,201306,B,10408.3200,
+INVOICE,IN,,51310123,,06/22/2013,4403.5200,"Invoice-Private",,06/22/2013,06/22/2013,,51314526MO,-7806.2400,,,,,,,,,,
+TRANSACTION,3020,010310513,22,118.0000,2596.00,"Basic Service Fee - Studio Deluxe for Jun: Szafranski, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,22,82.1600,1807.52,"Resident Care - Level 6+4 pts for Jun: Szafranski, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,51310123,,06/22/2013,6004.8,"Invoice-Private",,06/22/2013,06/22/2013,,51314526MO,-7806.2400,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3540,3540,"CR:Basic Service F... R.Szafranski 201306: Szafranski, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2464.8,2464.8,"CR:Resident Care -... R.Szafranski 201306: Szafranski, Ruth",,,,,,,,,,,,,,,

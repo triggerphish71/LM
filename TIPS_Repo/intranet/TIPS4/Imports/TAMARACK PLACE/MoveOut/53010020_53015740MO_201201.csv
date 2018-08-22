@@ -1,0 +1,5 @@
+BATCH,,201201,B,5062.0000,
+INVOICE,CM,,53010020,,01/01/2012,5062,"Invoice-Private",,01/01/2012,01/10/2012,,53015740MO,-5062.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,2542,2542,"CR:Basic Service F... R.Gerschke 201201: Gerschke, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... R.Gerschke 201201: Gerschke, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,2480,2480,"CR:Resident Care -... R.Gerschke 201201: Gerschke, Rosemary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201209,B,4215.0000,
+INVOICE,IN,,12010261,,09/15/2012,1395.0000,"Invoice-Private",,09/15/2012,09/15/2012,,12014602MO,-4308.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,15,78.0000,1170.00,"Basic Service Fee - Studio for Sep: Teel, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,15,15.0000,225.00,"Resident Care - Level 1 for Sep: Teel, Cleo",,,,,,,,,,,,,,,
+INVOICE,CM,,12010261,,09/15/2012,2820,"Invoice-Private",,09/15/2012,09/15/2012,,12014602MO,-4308.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2340,2340,"CR:Basic Service F... C.Teel 201209: Teel, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... C.Teel 201209: Teel, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,450,450,"CR:Resident Care -... C.Teel 201209: Teel, Cleo",,,,,,,,,,,,,,,

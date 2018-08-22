@@ -1,0 +1,6 @@
+BATCH,,201207,B,4888.0000,
+INVOICE,IN,,51110180,,07/05/2012,4888.0000,"MoveIn-Hull. Norma",,07/05/2012,07/05/2012,,51112495,4888.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,27,105.0000,2835,"Basic Service Fee - Studio: Hull. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,27,38.0000,1026,"Resident Care - Level 2: Hull. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Hull. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310511,1,1000.0000,1000,"New Resident Fee: Hull. Norma",,,,,,,,,,,,,,,

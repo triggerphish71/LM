@@ -1,0 +1,6 @@
+BATCH,,201204,B,5006.0000,
+INVOICE,IN,,03310295,,04/14/2012,2186.0000,"Invoice-Private",,04/14/2012,04/14/2012,,03316445MO,-2649.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,870.0000,870.00,"CR:Limited Term Di... N.Godyn 201204: Godyn, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,14,94.0000,1316.00,"Basic Service Fee - Studio for Apr: Godyn, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,03310295,,04/14/2012,2820,"Invoice-Private",,04/14/2012,04/14/2012,,03316445MO,-2649.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2820,2820,"CR:Basic Service F... N.Godyn 201204: Godyn, Norma",,,,,,,,,,,,,,,

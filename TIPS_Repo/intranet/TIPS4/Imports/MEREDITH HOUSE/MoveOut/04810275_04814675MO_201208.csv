@@ -1,0 +1,7 @@
+BATCH,,201208,B,4602.0000,
+INVOICE,IN,,04810275,,08/08/2012,944.0000,"Invoice-Private",,08/08/2012,08/08/2012,,04814675MO,-2714.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,8,103.0000,824.00,"Basic Service Fee - Studio for Aug: Gallimore, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,8,15.0000,120.00,"Resident Care - Level 1 for Aug: Gallimore, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04810275,,08/08/2012,3658,"Invoice-Private",,08/08/2012,08/08/2012,,04814675MO,-2714.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3193,3193,"CR:Basic Service F... D.Gallimore 201208: Gallimore, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,465,465,"CR:Resident Care -... D.Gallimore 201208: Gallimore, Dorothy",,,,,,,,,,,,,,,

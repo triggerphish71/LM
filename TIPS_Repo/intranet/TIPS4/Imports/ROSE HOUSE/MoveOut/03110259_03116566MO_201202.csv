@@ -1,0 +1,5 @@
+BATCH,,201202,B,54.0000,
+INVOICE,IN,,03110259,,02/01/2012,27.0000,"Invoice-Private",,02/01/2012,02/10/2012,,03116566MO,-4241.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,03110259,,02/01/2012,27,"Invoice-Private",,02/01/2012,02/10/2012,,03116566MO,-4241.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Lalonde, Mary Lucy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,3600.0000,
+INVOICE,IN,,13110243,,06/01/2011,1800.0000,"Invoice-Private",,06/01/2011,06/10/2011,,13113795MO,-2945.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,30,30.0000,900.00,"Credit for Limited Term Discount: Strickland, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308131,30,30.0000,900.00,"Credit for Limited Term Discount: Strickland, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,13110243,,06/01/2011,1800,"Invoice-Private",,06/01/2011,06/10/2011,,13113795MO,-2945.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,30,30,900,"Limited Term Discount: Strickland, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308131,30,30,900,"Limited Term Discount: Strickland, Annie",,,,,,,,,,,,,,,

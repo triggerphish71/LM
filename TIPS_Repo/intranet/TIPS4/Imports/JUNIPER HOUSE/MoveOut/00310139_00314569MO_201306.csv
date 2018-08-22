@@ -1,0 +1,6 @@
+BATCH,,201306,B,4209.0000,
+INVOICE,IN,,00310139,,06/01/2013,1722.0000,"Invoice-Private",,06/01/2013,06/10/2013,,00314569MO,-765.0000,,,,,,,,,,
+TRANSACTION,3020,010101003,21,82.0000,1722.00,"Basic Service Fee - Studio for Jun: Swenson, Dora Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,00310139,,06/01/2013,2487,"Invoice-Private",,06/01/2013,06/10/2013,,00314569MO,-765.0000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2460,2460,"CR:Basic Service F... D.Swenson 201306: Swenson, Dora Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... D.Swenson 201306: Swenson, Dora Jean",,,,,,,,,,,,,,,

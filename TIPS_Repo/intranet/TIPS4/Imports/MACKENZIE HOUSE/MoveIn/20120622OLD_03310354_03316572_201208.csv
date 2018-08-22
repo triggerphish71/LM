@@ -1,0 +1,5 @@
+BATCH,,201208,B,1944.4400,
+INVOICE,IN,,03310354,,07/01/2012,194.4400,"July_Rent-Smith. Eleanor",,07/01/2012,07/10/2012,,03316572,3954.4400,,,,,,,,,,
+TRANSACTION,3216,010202033,1,194.4400,194.44,"Monthly Deferral Charge: Smith. Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,03310354,,07/01/2012,1750.0000,"July_Rent-Smith. Eleanor",,07/01/2012,07/10/2012,,03316572,3954.4400,,,,,,,,,,
+TRANSACTION,3216,010202033,1,1750,1750,"New Resident Fee Deferred: Smith. Eleanor",,,,,,,,,,,,,,,

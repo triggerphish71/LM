@@ -1,0 +1,5 @@
+BATCH,,201304,B,4577.4000,
+INVOICE,IN,,53110303,,04/01/2013,2327.4000,"Invoice-Private",,04/01/2013,04/10/2013,,53114504MO,-270.3400,,,,,,,,,,
+TRANSACTION,3027,010319531,1,2327.4000,2327.40,"CR:Resident Care L... C.Chojnacki 201304: Chojnacki, Cecilia",,,,,,,,,,,,,,,
+INVOICE,CM,,53110303,,04/01/2013,2250,"Invoice-Private",,04/01/2013,04/10/2013,,53114504MO,-270.3400,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2250,2250,"CR:Basic Service F... C.Chojnacki 201304: Chojnacki, Cecilia",,,,,,,,,,,,,,,

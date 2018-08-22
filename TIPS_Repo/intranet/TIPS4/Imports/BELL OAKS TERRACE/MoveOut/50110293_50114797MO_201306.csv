@@ -1,0 +1,7 @@
+BATCH,,201306,B,7182.0000,
+INVOICE,IN,,50110293,,06/27/2013,3402.0000,"Invoice-Private",,06/27/2013,06/27/2013,,50114797MO,-3977.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,27,88.0000,2376.00,"Basic Service Fee - Studio for Jun: Waters, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,27,38.0000,1026.00,"Resident Care - Level 3 for Jun: Waters, Reba",,,,,,,,,,,,,,,
+INVOICE,CM,,50110293,,06/27/2013,3780,"Invoice-Private",,06/27/2013,06/27/2013,,50114797MO,-3977.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2640,2640,"CR:Basic Service F... R.Waters 201306: Waters, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1140,1140,"CR:Resident Care -... R.Waters 201306: Waters, Reba",,,,,,,,,,,,,,,

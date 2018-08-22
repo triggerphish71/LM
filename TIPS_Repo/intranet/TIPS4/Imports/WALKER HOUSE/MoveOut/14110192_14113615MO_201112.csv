@@ -1,0 +1,8 @@
+BATCH,,201112,B,4885.0000,
+INVOICE,IN,,14110192,,12/01/2011,1754.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14113615MO,-1377.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,744.0000,744.00,"CR:Limited Term Di... D.Purdy 201112: Purdy, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,10,17.0000,170.00,"Resident Care - Level 1 for Dec: Purdy, Don",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,10,84.0000,840.00,"Room and Board - Studio for Dec: Purdy, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,14110192,,12/01/2011,3131,"Invoice-Private",,12/01/2011,12/10/2011,,14113615MO,-1377.0000,,,,,,,,,,
+TRANSACTION,3027,010309141,1,527,527,"CR:Resident Care -... D.Purdy 201112: Purdy, Don",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2604,2604,"CR:Room and Board ... D.Purdy 201112: Purdy, Don",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,3035.1000,
+INVOICE,IN,,06210242,,07/01/2013,3035.1000,"July_Rent-Jackson. James",,07/01/2013,07/10/2013,,06213900,3254.3000,,,,,,,,,,
+TRANSACTION,3010,010101062,31,86.0000,2666,"Basic Service Fee - Studio: Jackson. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,31,11.1000,344.1,"Resident Care - Level 6: Jackson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Jackson. James",,,,,,,,,,,,,,,

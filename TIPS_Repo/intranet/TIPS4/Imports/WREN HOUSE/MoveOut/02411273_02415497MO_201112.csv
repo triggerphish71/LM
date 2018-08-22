@@ -1,0 +1,6 @@
+BATCH,,201112,B,4526.0000,
+INVOICE,IN,,02411273,,12/01/2011,1085.0000,"Invoice-Private",,12/01/2011,12/10/2011,,02415497MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,1085.0000,1085.00,"CR:Limited Term Di... D.Lindsey 201112: Lindsey, Dottie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411273,,12/01/2011,3441,"Invoice-Private",,12/01/2011,12/10/2011,,02415497MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3027,010202024,1,496,496,"CR:Resident Care -... D.Lindsey 201112: Lindsey, Dottie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2945,2945,"CR:Room and Board ... D.Lindsey 201112: Lindsey, Dottie",,,,,,,,,,,,,,,

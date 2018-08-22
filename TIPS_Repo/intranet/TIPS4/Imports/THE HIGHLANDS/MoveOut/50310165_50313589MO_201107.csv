@@ -1,0 +1,6 @@
+BATCH,,201107,B,4154.0000,
+INVOICE,IN,,50310165,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,50313589MO,-5290.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,62.0000,62.00,"CR:Limited Term Di... H.Creamer 201107: Creamer, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,50310165,,07/01/2011,4092,"Invoice-Private",,07/01/2011,07/10/2011,,50313589MO,-5290.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2232,2232,"CR:Basic Service F... H.Creamer 201107: Creamer, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1860,1860,"CR:Resident Care -... H.Creamer 201107: Creamer, Hilda",,,,,,,,,,,,,,,

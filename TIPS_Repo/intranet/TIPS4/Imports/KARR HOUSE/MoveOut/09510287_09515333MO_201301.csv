@@ -1,0 +1,7 @@
+BATCH,,201301,B,4433.8500,
+INVOICE,IN,,09510287,,01/14/2013,1379.4200,"Invoice-Private",,01/14/2013,01/14/2013,,09515333MO,-1675.0100,,,,,,,,,,
+TRANSACTION,3020,010103095,14,86.0000,1204.00,"Basic Service Fee - Studio for Jan: Black, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,14,12.5300,175.42,"Resident Care - Level 7 for Jan: Black, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09510287,,01/14/2013,3054.43,"Invoice-Private",,01/14/2013,01/14/2013,,09515333MO,-1675.0100,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... M.Black 201301: Black, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,388.43,388.43,"CR:Resident Care -... M.Black 201301: Black, Mary",,,,,,,,,,,,,,,

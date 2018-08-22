@@ -1,0 +1,8 @@
+BATCH,,201307,B,9176.5000,
+INVOICE,IN,,16510256,,07/01/2013,2193.2500,"Invoice-Private",,07/01/2013,07/10/2013,,16514925MO,-7745.7500,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2193.2500,2193.25,"CR:Resident Care L... J.Stump 201307: Stump, John",,,,,,,,,,,,,,,
+INVOICE,CM,,16510256,,07/01/2013,6983.25,"Invoice-Private",,07/01/2013,07/10/2013,,16514925MO,-7745.7500,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3100,3100,"CR:Basic Service F... J.Stump 201307: Stump, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... J.Stump 201307: Stump, John",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308165,1,20,20,"CR:Pendant Fee... J.Stump 201307: Stump, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,3836.25,3836.25,"CR:Resident Care -... J.Stump 201307: Stump, John",,,,,,,,,,,,,,,

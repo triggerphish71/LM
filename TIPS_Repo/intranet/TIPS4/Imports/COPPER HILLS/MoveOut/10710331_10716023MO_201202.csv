@@ -1,0 +1,7 @@
+BATCH,,201202,B,5040.0000,
+INVOICE,IN,,10710331,,02/09/2012,1386.0000,"Invoice-Private",,02/09/2012,02/09/2012,,10716023MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,11,98.0000,1078.00,"Basic Service Fee - Studio for Feb: Murdock, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,11,28.0000,308.00,"Resident Care - Level 2 for Feb: Murdock, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10710331,,02/09/2012,3654,"Invoice-Private",,02/09/2012,02/09/2012,,10716023MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2842,2842,"CR:Basic Service F... R.Murdock 201202: Murdock, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,812,812,"CR:Resident Care -... R.Murdock 201202: Murdock, Robert",,,,,,,,,,,,,,,

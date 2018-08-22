@@ -1,0 +1,7 @@
+BATCH,,201112,B,5150.0000,
+INVOICE,IN,,12110270,,12/01/2011,434.0000,"Invoice-Private",,12/01/2011,12/10/2011,,12115381MO,-4652.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,434.0000,434.00,"CR:Limited Term Di... M.Scrivner 201112: Scrivner, Marcia",,,,,,,,,,,,,,,
+INVOICE,CM,,12110270,,12/01/2011,4716,"Invoice-Private",,12/01/2011,12/10/2011,,12115381MO,-4652.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2914,2914,"CR:Basic Service F... M.Scrivner 201112: Scrivner, Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... M.Scrivner 201112: Scrivner, Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,1767,1767,"CR:Resident Care -... M.Scrivner 201112: Scrivner, Marcia",,,,,,,,,,,,,,,

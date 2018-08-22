@@ -1,0 +1,5 @@
+BATCH,,201203,B,558.0000,
+INVOICE,IN,,06810190,,03/01/2012,279.0000,"Invoice-Private",,03/01/2012,03/10/2012,,06813796MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,31,9.0000,279.00,"Credit for Limited Term Discount: Smith, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06810190,,03/01/2012,279,"Invoice-Private",,03/01/2012,03/10/2012,,06813796MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,31,9,279,"Limited Term Discount: Smith, Betty",,,,,,,,,,,,,,,

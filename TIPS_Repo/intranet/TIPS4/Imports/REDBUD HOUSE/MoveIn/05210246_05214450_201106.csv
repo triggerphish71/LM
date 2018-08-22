@@ -1,0 +1,5 @@
+BATCH,,201106,B,3370.0000,
+INVOICE,IN,,05210246,,06/14/2011,3370.0000,"MoveIn-Tuggle. Mary",,06/14/2011,06/14/2011,,05214450,3370.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,17,79.0000,1343,"M.Tuggle: Basic Service Fee - Studio: Tuggle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Tuggle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Tuggle. Mary",,,,,,,,,,,,,,,

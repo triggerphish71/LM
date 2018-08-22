@@ -1,0 +1,5 @@
+BATCH,,201804,B,73.6000,
+INVOICE,IN,,50310450,,04/01/2018,36.8000,"Invoice-Private",,04/01/2018,04/10/2018,,50318067MO,-1495.8000,,,,,,,,,,
+TRANSACTION,3260,010020503,1,36.8000,36.80,"Monthly Cable: Hardgrove, Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,50310450,,04/01/2018,36.8,"Invoice-Private",,04/01/2018,04/10/2018,,50318067MO,-1495.8000,,,,,,,,,,
+TRANSACTION,3260,010020503,1,36.8,36.8,"Credit for Monthly Cable: Hardgrove, Lee",,,,,,,,,,,,,,,

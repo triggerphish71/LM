@@ -1,0 +1,6 @@
+BATCH,,201302,B,2312.0000,
+INVOICE,IN,,03410315,,02/14/2013,2312.0000,"MoveIn-Seib. James",,02/14/2013,02/14/2013,,03415989,6028.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,15,96.0000,1440,"Basic Service Fee - Studio: Seib. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,15,23.0000,345,"Resident Care - Level 2: Seib. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Seib. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,500.0000,500,"New Resident Fee: Seib. James",,,,,,,,,,,,,,,

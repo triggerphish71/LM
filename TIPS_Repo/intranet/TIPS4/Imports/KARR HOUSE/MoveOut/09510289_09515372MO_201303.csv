@@ -1,0 +1,5 @@
+BATCH,,201303,B,1798.0000,
+INVOICE,IN,,09510289,,03/01/2013,899.0000,"Invoice-Private",,03/01/2013,03/10/2013,,09515372MO,-3109.0100,,,,,,,,,,
+TRANSACTION,3320,010103095,31,29.0000,899.00,"Credit for Limited Term Discount: Hallam, Joscelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,09510289,,03/01/2013,899,"Invoice-Private",,03/01/2013,03/10/2013,,09515372MO,-3109.0100,,,,,,,,,,
+TRANSACTION,3320,010103095,31,29,899,"Limited Term Discount: Hallam, Joscelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,7006.0000,
+INVOICE,IN,,12510178,,09/13/2011,2041.0000,"Invoice-Private",,09/13/2011,09/13/2011,,12514031MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,13,74.0000,962.00,"Basic Service Fee - Studio for Sep: Hughes, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,13,83.0000,1079.00,"Resident Care - Level 6 for Sep: Hughes, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,12510178,,09/13/2011,4965,"Invoice-Private",,09/13/2011,09/13/2011,,12514031MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3019,010211125,1,255,255,"CR:Additional Serv... C.Hughes 201109: Hughes, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2220,2220,"CR:Basic Service F... C.Hughes 201109: Hughes, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,2490,2490,"CR:Resident Care -... C.Hughes 201109: Hughes, Clifford",,,,,,,,,,,,,,,

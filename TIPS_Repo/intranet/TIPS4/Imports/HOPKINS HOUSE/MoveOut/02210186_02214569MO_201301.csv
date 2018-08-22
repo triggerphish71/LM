@@ -1,0 +1,5 @@
+BATCH,,201301,B,930.0000,
+INVOICE,IN,,02210186,,01/01/2013,465.0000,"Invoice-Private",,01/01/2013,01/10/2013,,02214569MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,31,15.0000,465.00,"Credit for Limited Term Discount: Grubbs, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,02210186,,01/01/2013,465,"Invoice-Private",,01/01/2013,01/10/2013,,02214569MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,31,15,465,"Limited Term Discount: Grubbs, Henry",,,,,,,,,,,,,,,

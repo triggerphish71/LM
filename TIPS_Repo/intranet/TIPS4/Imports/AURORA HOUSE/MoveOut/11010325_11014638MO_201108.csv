@@ -1,0 +1,8 @@
+BATCH,,201108,B,5653.0000,
+INVOICE,IN,,11010325,,08/06/2011,1592.0000,"Invoice-Private",,08/06/2011,08/06/2011,,11014638MO,-2469.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,1,806.0000,806.00,"CR:Limited Term Di... D.Allen 201108: Allen, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107110,6,91.0000,546.00,"Basic Service Fee - Studio for Aug: Allen, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,6,40.0000,240.00,"Resident Care - Level 3 for Aug: Allen, Donnie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010325,,08/06/2011,4061,"Invoice-Private",,08/06/2011,08/06/2011,,11014638MO,-2469.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Basic Service F... D.Allen 201108: Allen, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,1240,1240,"CR:Resident Care -... D.Allen 201108: Allen, Donnie",,,,,,,,,,,,,,,

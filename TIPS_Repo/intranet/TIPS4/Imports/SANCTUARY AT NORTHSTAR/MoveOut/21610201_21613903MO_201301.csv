@@ -1,0 +1,6 @@
+BATCH,,201301,B,3625.0000,
+INVOICE,IN,,21610201,,01/04/2013,412.0000,"Invoice-Private",,01/04/2013,01/04/2013,,21613903MO,-2801.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,4,103.0000,412.00,"One Bedroom for Jan: Haggerty, James",,,,,,,,,,,,,,,
+INVOICE,CM,,21610201,,01/04/2013,3213,"Invoice-Private",,01/04/2013,01/04/2013,,21613903MO,-2801.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3193,3193,"CR:One Bedroom... J.Haggerty 201301: Haggerty, James",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... J.Haggerty 201301: Haggerty, James",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,3279.0000,
+INVOICE,IN,,19610193,,08/15/2011,3279.0000,"MoveIn-Krause. Virginia",,08/15/2011,08/15/2011,,19612669,3279.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,17,99.0000,1683,"Basic Service Fee - One Bedroom    : Krause. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,17,23.0000,391,"Resident Care - Level 2: Krause. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Krause. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,17,10.0000,170,"CC Meals: Krause. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,1000.0000,1000,"New Tenant Fee: Krause. Virginia",,,,,,,,,,,,,,,

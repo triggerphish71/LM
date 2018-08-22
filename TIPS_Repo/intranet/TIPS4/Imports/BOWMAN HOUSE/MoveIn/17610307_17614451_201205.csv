@@ -1,0 +1,6 @@
+BATCH,,201205,B,6429.0000,
+INVOICE,IN,,17610307,,05/01/2012,6429.0000,"MoveIn-Cook. Eva",,05/01/2012,05/01/2012,,17614451,6429.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,31,73.0000,2263,"Basic Service Fee - Studio: Cook. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,31,76.0000,2356,"Resident Care - Level 6: Cook. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Cook. Eva",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10.0000,310,"CC Meals: Cook. Eva",,,,,,,,,,,,,,,

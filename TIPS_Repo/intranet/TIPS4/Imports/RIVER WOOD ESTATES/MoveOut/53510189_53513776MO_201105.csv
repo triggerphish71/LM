@@ -1,0 +1,5 @@
+BATCH,,201105,B,518.0000,
+INVOICE,IN,,53510189,,05/19/2011,37.0000,"Invoice-Private",,05/19/2011,05/19/2011,,53513776MO,-1554.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,37.0000,37.00,"Basic Service Fee - Second Resident for May: Duchow, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,53510189,,05/19/2011,481,"Invoice-Private",,05/19/2011,05/19/2011,,53513776MO,-1554.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,481,481,"CR:Basic Service F... L.Duchow 201105: Duchow, Lorraine",,,,,,,,,,,,,,,

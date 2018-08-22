@@ -1,0 +1,5 @@
+BATCH,,201112,B,2628.0000,
+INVOICE,IN,,16210132,,12/20/2011,2628.0000,"MoveIn-Kuhr. Jane",,12/20/2011,12/20/2011,,16212862,5542.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,12,66.0000,792,"J.Kuhr: Basic Service Fee - Studio: Kuhr. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,12,28.0000,336,"J.Kuhr: Resident Care - Level 2: Kuhr. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Kuhr. Jane",,,,,,,,,,,,,,,

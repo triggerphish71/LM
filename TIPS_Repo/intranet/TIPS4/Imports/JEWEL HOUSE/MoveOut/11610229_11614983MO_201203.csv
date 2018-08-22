@@ -1,0 +1,7 @@
+BATCH,,201203,B,5214.0000,
+INVOICE,IN,,11610229,,03/01/2012,316.0000,"Invoice-Private",,03/01/2012,03/10/2012,,11614983MO,-4582.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,2,124.0000,248.00,"Basic Service Fee - One Bedroom for Mar: Bush, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,2,34.0000,68.00,"Resident Care - Level 2 for Mar: Bush, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,11610229,,03/01/2012,4898,"Invoice-Private",,03/01/2012,03/10/2012,,11614983MO,-4582.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3844,3844,"CR:Basic Service F... M.Bush 201203: Bush, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... M.Bush 201203: Bush, Marvin",,,,,,,,,,,,,,,

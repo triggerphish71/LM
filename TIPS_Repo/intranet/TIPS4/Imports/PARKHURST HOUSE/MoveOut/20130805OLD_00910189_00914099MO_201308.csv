@@ -1,0 +1,7 @@
+BATCH,,201308,B,4125.9000,
+INVOICE,IN,,00910189,,08/01/2013,364.0500,"Invoice-Private",,08/01/2013,08/10/2013,,00914099MO,-3397.8000,,,,,,,,,,
+TRANSACTION,3027,010101009,3,20.3500,61.05,"Resident Care - Level 11 for Aug: Flynn, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,3,101.0000,303.00,"Room and Board - One Bedroom for Aug: Flynn, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,00910189,,08/01/2013,3761.85,"Invoice-Private",,08/01/2013,08/10/2013,,00914099MO,-3397.8000,,,,,,,,,,
+TRANSACTION,3027,010101009,1,630.85,630.85,"CR:Resident Care -... W.Flynn 201308: Flynn, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,1,3131,3131,"CR:Room and Board ... W.Flynn 201308: Flynn, Willard",,,,,,,,,,,,,,,

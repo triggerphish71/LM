@@ -1,0 +1,5 @@
+BATCH,,201301,B,3280.0000,
+INVOICE,IN,,15510277,,01/01/2013,3280.0000,"January_Rent-Robertson. Phyllis",,01/01/2013,01/10/2013,,15515623,5460.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,31,89.0000,2759,"Basic Service Fee - Studio: Robertson. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,31,16.0000,496,"Resident Care - Level 1: Robertson. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Robertson. Phyllis",,,,,,,,,,,,,,,

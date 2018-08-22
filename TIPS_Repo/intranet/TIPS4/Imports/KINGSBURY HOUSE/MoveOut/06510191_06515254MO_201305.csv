@@ -1,0 +1,7 @@
+BATCH,,201305,B,4664.0000,
+INVOICE,IN,,06510191,,05/10/2013,1378.0000,"Invoice-Private",,05/10/2013,05/10/2013,,06515254MO,-5088.0000,,,,,,,,,,
+TRANSACTION,3027,010305065,13,55.0000,715.00,"Resident Care - Level 3 for May: Rockey, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,13,51.0000,663.00,"Room and Board - Studio for May: Rockey, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,06510191,,05/10/2013,3286,"Invoice-Private",,05/10/2013,05/10/2013,,06515254MO,-5088.0000,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1705,1705,"CR:Resident Care -... R.Rockey 201305: Rockey, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1581,1581,"CR:Room and Board ... R.Rockey 201305: Rockey, Richard",,,,,,,,,,,,,,,

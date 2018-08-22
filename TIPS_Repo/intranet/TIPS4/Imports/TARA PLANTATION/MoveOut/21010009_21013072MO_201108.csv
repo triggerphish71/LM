@@ -1,0 +1,6 @@
+BATCH,,201108,B,4278.0000,
+INVOICE,IN,,21010009,,08/01/2011,248.0000,"Invoice-Private",,08/01/2011,08/10/2011,,21013072MO,-4859.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,1,248.0000,248.00,"CR:Private BSF Dai... M.Lawrence 201108: Lawrence, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,21010009,,08/01/2011,4030,"Invoice-Private",,08/01/2011,08/10/2011,,21013072MO,-4859.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1240,1240,"CR:Resident Care -... M.Lawrence 201108: Lawrence, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2790,2790,"CR:Room and Board ... M.Lawrence 201108: Lawrence, Marjorie",,,,,,,,,,,,,,,

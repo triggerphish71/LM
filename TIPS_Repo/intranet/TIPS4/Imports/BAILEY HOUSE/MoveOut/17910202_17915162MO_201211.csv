@@ -1,0 +1,8 @@
+BATCH,,201211,B,3978.0000,
+INVOICE,IN,,17910202,,11/03/2012,1098.0000,"Invoice-Private",,11/03/2012,11/03/2012,,17915162MO,-1782.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,810.0000,810.00,"CR:Limited Term Di... D.Bradley 201211: Bradley, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,3,14.0000,42.00,"Resident Care - Level 1 for Nov: Bradley, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,3,82.0000,246.00,"Room and Board - Studio for Nov: Bradley, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,17910202,,11/03/2012,2880,"Invoice-Private",,11/03/2012,11/03/2012,,17915162MO,-1782.0000,,,,,,,,,,
+TRANSACTION,3027,010313179,1,420,420,"CR:Resident Care -... D.Bradley 201211: Bradley, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2460,2460,"CR:Room and Board ... D.Bradley 201211: Bradley, Darrell",,,,,,,,,,,,,,,

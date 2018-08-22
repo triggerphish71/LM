@@ -1,0 +1,6 @@
+BATCH,,201804,B,7212.6700,
+INVOICE,IN,,32000113,,04/28/2018,4392.6700,"Invoice-Private",,04/28/2018,04/28/2018,,32012275MO,-1366.3300,,,,,,,,,,
+TRANSACTION,3010,070025320,9,94.0000,846.00,"Studio deluxe - 04-10-2018: Helton, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025320,1,3546.6667,3546.67,"Basic Service Fee - MC Studio: Helton, Susan",,,,,,,,,,,,,,,
+INVOICE,CM,,32000113,,04/28/2018,2820,"Invoice-Private",,04/28/2018,04/28/2018,,32012275MO,-1366.3300,,,,,,,,,,
+TRANSACTION,3020,070025320,1,2820,2820,"CR:Studio deluxe... S.Helton 201804: Helton, Susan",,,,,,,,,,,,,,,

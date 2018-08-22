@@ -1,0 +1,7 @@
+BATCH,,201202,B,4115.0000,
+INVOICE,IN,,19410232,,02/10/2012,75.0000,"Invoice-Private",,02/10/2012,02/10/2012,,19414179MO,-3965.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,75.0000,75.00,"Basic Service Fee - Studio for Feb: Reynolds, Laurence",,,,,,,,,,,,,,,
+INVOICE,CM,,19410232,,02/10/2012,4040,"Invoice-Private",,02/10/2012,02/10/2012,,19414179MO,-3965.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,1500,1500,"CR:Basic Service F... L.Reynolds 201202: Reynolds, Laurence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... L.Reynolds 201202: Reynolds, Laurence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212194,1,2500,2500,"CR:New Resident Fe... L.Reynolds 201202: Reynolds, Laurence",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,3430.0000,
+INVOICE,IN,,01910237,,08/18/2012,3430.0000,"MoveIn-Smith. Hazel",,08/18/2012,08/18/2012,,01915037,6280.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,14,95.0000,1330,"H.Smith: Basic Service Fee - Studio: Smith. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202019,1,1750.0000,1750,"New Resident Fee: Smith. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3213,010202019,1,350.0000,350,"Pet Fee: Smith. Hazel",,,,,,,,,,,,,,,

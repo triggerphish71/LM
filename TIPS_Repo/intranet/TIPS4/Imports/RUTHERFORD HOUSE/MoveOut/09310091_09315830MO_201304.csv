@@ -1,0 +1,7 @@
+BATCH,,201304,B,8096.0000,
+INVOICE,IN,,09310091,,04/15/2013,2816.0000,"Invoice-Private",,04/15/2013,04/15/2013,,09315830MO,-7920.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,16,100.0000,1600.00,"Basic Service Fee - Studio for Apr: Tuck, Colleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,16,76.0000,1216.00,"Resident Care - Level 5 for Apr: Tuck, Colleen",,,,,,,,,,,,,,,
+INVOICE,CM,,09310091,,04/15/2013,5280,"Invoice-Private",,04/15/2013,04/15/2013,,09315830MO,-7920.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3000,3000,"CR:Basic Service F... C.Tuck 201304: Tuck, Colleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2280,2280,"CR:Resident Care -... C.Tuck 201304: Tuck, Colleen",,,,,,,,,,,,,,,

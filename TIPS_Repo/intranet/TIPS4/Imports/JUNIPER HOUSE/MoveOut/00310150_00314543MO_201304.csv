@@ -1,0 +1,8 @@
+BATCH,,201304,B,8251.2000,
+INVOICE,IN,,00310150,,04/24/2013,3655.2000,"Invoice-Private",,04/24/2013,04/24/2013,,00314543MO,-5689.1000,,,,,,,,,,
+TRANSACTION,3020,010101003,24,82.0000,1968.00,"Basic Service Fee - Studio for Apr: Murphy, Philip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,24,70.3000,1687.20,"Resident Care - Level 38 for Apr: Murphy, Philip",,,,,,,,,,,,,,,
+INVOICE,CM,,00310150,,04/24/2013,4596,"Invoice-Private",,04/24/2013,04/24/2013,,00314543MO,-5689.1000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2460,2460,"CR:Basic Service F... P.Murphy 201304: Murphy, Philip",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... P.Murphy 201304: Murphy, Philip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,2109,2109,"CR:Resident Care -... P.Murphy 201304: Murphy, Philip",,,,,,,,,,,,,,,

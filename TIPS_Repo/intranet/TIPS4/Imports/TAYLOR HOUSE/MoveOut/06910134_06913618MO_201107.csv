@@ -1,0 +1,6 @@
+BATCH,,201107,B,4482.0000,
+INVOICE,IN,,06910134,,07/27/2011,2219.0000,"Invoice-Private",,07/27/2011,07/27/2011,,06913618MO,-2059.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,1,248.0000,248.00,"CR:Limited Term Di... L.Stacy 201107: Stacy, Lynn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,27,73.0000,1971.00,"Basic Service Fee - Studio for Jul: Stacy, Lynn",,,,,,,,,,,,,,,
+INVOICE,CM,,06910134,,07/27/2011,2263,"Invoice-Private",,07/27/2011,07/27/2011,,06913618MO,-2059.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2263,2263,"CR:Basic Service F... L.Stacy 201107: Stacy, Lynn",,,,,,,,,,,,,,,

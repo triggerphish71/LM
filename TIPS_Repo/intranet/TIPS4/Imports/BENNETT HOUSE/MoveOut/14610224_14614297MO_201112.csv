@@ -1,0 +1,7 @@
+BATCH,,201112,B,6572.0000,
+INVOICE,IN,,14610224,,12/01/2011,2728.0000,"Invoice-Private",,12/01/2011,12/01/2011,,14614297MO,-1116.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,22,89.0000,1958.00,"Basic Service Fee - Studio for Dec: Ingle, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,22,35.0000,770.00,"Resident Care - Level 2 for Dec: Ingle, Opal",,,,,,,,,,,,,,,
+INVOICE,CM,,14610224,,12/01/2011,3844,"Invoice-Private",,12/01/2011,12/01/2011,,14614297MO,-1116.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... O.Ingle 201112: Ingle, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1085,1085,"CR:Resident Care -... O.Ingle 201112: Ingle, Opal",,,,,,,,,,,,,,,

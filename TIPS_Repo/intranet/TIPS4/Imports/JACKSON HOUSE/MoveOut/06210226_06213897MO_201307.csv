@@ -1,0 +1,7 @@
+BATCH,,201307,B,7241.8000,
+INVOICE,IN,,06210226,,07/01/2013,2523.4000,"Invoice-Private",,07/01/2013,07/10/2013,,06213897MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3027,010101062,1,2523.4000,2523.40,"CR:Resident Care L... F.Coffey 201307: Coffey, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,06210226,,07/01/2013,4718.4,"Invoice-Private",,07/01/2013,07/10/2013,,06213897MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2170,2170,"CR:Basic Service F... F.Coffey 201307: Coffey, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"CR:Monthly Cable... F.Coffey 201307: Coffey, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,2523.4,2523.4,"CR:Resident Care -... F.Coffey 201307: Coffey, Frances",,,,,,,,,,,,,,,

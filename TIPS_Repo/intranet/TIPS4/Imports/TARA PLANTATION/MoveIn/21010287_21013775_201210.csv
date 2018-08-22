@@ -1,0 +1,5 @@
+BATCH,,201210,B,3280.0000,
+INVOICE,IN,,21010287,,10/01/2012,3280.0000,"October_Rent-Young. Carroll",,10/01/2012,10/10/2012,,21013775,6485.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,31,94.0000,2914,"Studio: Young. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216210,31,11.0000,341,"Resident Care - Level 1: Young. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25,"Monthly Cable: Young. Carroll",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,4284.0000,
+INVOICE,IN,,14210103,,06/04/2013,714.0000,"Invoice-Private",,06/04/2013,06/04/2013,,14214469MO,-2856.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,6,71.0000,426.00,"Basic Service Fee - Studio for Jun: Sharer, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,6,48.0000,288.00,"Resident Care - Level 3 for Jun: Sharer, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,14210103,,06/04/2013,3570,"Invoice-Private",,06/04/2013,06/04/2013,,14214469MO,-2856.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2130,2130,"CR:Basic Service F... A.Sharer 201306: Sharer, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1440,1440,"CR:Resident Care -... A.Sharer 201306: Sharer, Ann",,,,,,,,,,,,,,,

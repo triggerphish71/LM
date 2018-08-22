@@ -1,0 +1,5 @@
+BATCH,,201105,B,2555.0000,
+INVOICE,IN,,15210168,,05/17/2011,2555.0000,"MoveIn-Holtzman. Mary",,05/17/2011,05/17/2011,,15213430,4630.0000,,,,,,,,,,
+TRANSACTION,3010,010211152,15,68.0000,1020,"Basic Service Fee - Studio         : Holtzman. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35,"Monthly Cable: Holtzman. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211152,1,1500.0000,1500,"New Resident Fee: Holtzman. Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,4625.0000,
+INVOICE,IN,,08910177,,09/01/2011,875.0000,"Invoice-Private",,09/01/2011,09/10/2011,,08914436MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,7,106.0000,742.00,"Basic Service Fee - Studio for Sep: Kolonich, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,7,19.0000,133.00,"Resident Care - Level 1 for Sep: Kolonich, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,08910177,,09/01/2011,3750,"Invoice-Private",,09/01/2011,09/10/2011,,08914436MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3180,3180,"CR:Basic Service F... A.Kolonich 201109: Kolonich, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,570,570,"CR:Resident Care -... A.Kolonich 201109: Kolonich, Albert",,,,,,,,,,,,,,,

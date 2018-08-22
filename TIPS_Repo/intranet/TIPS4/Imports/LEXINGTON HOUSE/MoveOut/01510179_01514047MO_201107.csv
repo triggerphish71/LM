@@ -1,0 +1,6 @@
+BATCH,,201107,B,6076.0000,
+INVOICE,IN,,01510179,,07/30/2011,3193.0000,"Invoice-Private",,07/30/2011,07/30/2011,,01514047MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,403.0000,403.00,"CR:Limited Term Di... W.Lindblad 201107: Lindblad, Wally",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,30,93.0000,2790.00,"Basic Service Fee - One Bedroom for Jul: Lindblad, Wally",,,,,,,,,,,,,,,
+INVOICE,CM,,01510179,,07/30/2011,2883,"Invoice-Private",,07/30/2011,07/30/2011,,01514047MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2883,2883,"CR:Basic Service F... W.Lindblad 201107: Lindblad, Wally",,,,,,,,,,,,,,,

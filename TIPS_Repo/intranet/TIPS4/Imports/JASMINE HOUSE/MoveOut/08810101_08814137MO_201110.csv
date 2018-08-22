@@ -1,0 +1,6 @@
+BATCH,,201110,B,6262.0000,
+INVOICE,IN,,08810101,,10/01/2011,1519.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08814137MO,-3131.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,1519.0000,1519.00,"CR:Limited Term Di... V.Richer 201110: Richer, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,08810101,,10/01/2011,4743,"Invoice-Private",,10/01/2011,10/10/2011,,08814137MO,-3131.0000,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1829,1829,"CR:Resident Care -... V.Richer 201110: Richer, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2914,2914,"CR:Room and Board ... V.Richer 201110: Richer, Virgil",,,,,,,,,,,,,,,

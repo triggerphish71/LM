@@ -1,0 +1,6 @@
+BATCH,,201107,B,5462.0000,
+INVOICE,IN,,01610290,,07/01/2011,5462.0000,"MoveIn-Payne. Tom",,07/01/2011,07/01/2011,,01615378,5462.0000,,,,,,,,,,
+TRANSACTION,3010,010202016,31,81.0000,2511,"T.Payne: Basic Service Fee - Studio: Payne. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202016,31,46.0000,1426,"T.Payne: Resident Care - Level 3: Payne. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25.0000,25,"Monthly Cable: Payne. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202016,1,1500.0000,1500,"New Resident Fee: Payne. Tom",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,5460.0000,
+INVOICE,IN,,20210122,,05/14/2011,2639.0000,"Invoice-Private",,05/14/2011,05/14/2011,,20212212MO,-2912.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,29,80.0000,2320.00,"Basic Service Fee - Studio for May: Lanier, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,29,11.0000,319.00,"Resident Care - Level 1 for May: Lanier, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,20210122,,05/14/2011,2821,"Invoice-Private",,05/14/2011,05/14/2011,,20212212MO,-2912.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Basic Service F... R.Lanier 201105: Lanier, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... R.Lanier 201105: Lanier, Roger",,,,,,,,,,,,,,,

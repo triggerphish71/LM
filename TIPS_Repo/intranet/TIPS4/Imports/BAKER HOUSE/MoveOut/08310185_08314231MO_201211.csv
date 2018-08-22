@@ -1,0 +1,8 @@
+BATCH,,201211,B,8348.6400,
+INVOICE,IN,,08310185,,11/06/2012,1966.4400,"Invoice-Private",,11/06/2012,11/06/2012,,08314231MO,-4415.7600,,,,,,,,,,
+TRANSACTION,3320,010306083,1,690.0000,690.00,"CR:Limited Term Di... M.Howard 201211: Howard, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,6,106.0000,636.00,"Basic Service Fee - Studio for Nov: Howard, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,6,106.7400,640.44,"Resident Care - Level 6+6 pts for Nov: Howard, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,08310185,,11/06/2012,6382.2,"Invoice-Private",,11/06/2012,11/06/2012,,08314231MO,-4415.7600,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3180,3180,"CR:Basic Service F... M.Howard 201211: Howard, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,3202.2,3202.2,"CR:Resident Care -... M.Howard 201211: Howard, Margaret",,,,,,,,,,,,,,,

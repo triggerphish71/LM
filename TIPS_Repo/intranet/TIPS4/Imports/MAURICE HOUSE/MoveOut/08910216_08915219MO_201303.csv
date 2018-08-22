@@ -1,0 +1,5 @@
+BATCH,,201303,B,4880.0000,
+INVOICE,IN,,08910216,,03/09/2013,1098.0000,"Invoice-Private",,03/09/2013,03/09/2013,,08915219MO,-2684.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,9,122.0000,1098.00,"Basic Service Fee - Deluxe for Mar: Steinhauer, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08910216,,03/09/2013,3782,"Invoice-Private",,03/09/2013,03/09/2013,,08915219MO,-2684.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3782,3782,"CR:Basic Service F... M.Steinhauer 201303: Steinhauer, Mary",,,,,,,,,,,,,,,

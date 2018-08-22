@@ -1,0 +1,7 @@
+BATCH,,201107,B,178.0000,
+INVOICE,IN,,14510223,,07/01/2011,89.0000,"Invoice-Private",,07/01/2011,07/10/2011,,14514988MO,-1955.0000,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27.0000,27.00,"Monthly Cable: Easter, Jarvis",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308145,31,2.0000,62.00,"Credit for Limited Term Discount: Easter, Jarvis",,,,,,,,,,,,,,,
+INVOICE,CM,,14510223,,07/01/2011,89,"Invoice-Private",,07/01/2011,07/10/2011,,14514988MO,-1955.0000,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"Credit for Monthly Cable: Easter, Jarvis",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308145,31,2,62,"Limited Term Discount: Easter, Jarvis",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,3873.0000,
+INVOICE,IN,,15010187,,01/11/2013,3873.0000,"MoveIn-Burton. Duane",,01/11/2013,01/11/2013,,15014678,3873.0000,,,,,,,,,,
+TRANSACTION,3010,010212150,21,70.0000,1470,"Basic Service Fee - Studio: Burton. Duane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212150,21,18.0000,378,"Resident Care - Level 1: Burton. Duane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25,"Monthly Cable: Burton. Duane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212150,1,2000.0000,2000,"New Resident Fee: Burton. Duane",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,6087.0000,
+INVOICE,IN,,14710194,,08/08/2012,1240.0000,"Invoice-Private",,08/08/2012,08/08/2012,,14715770MO,-3607.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,8,102.0000,816.00,"Basic Service Fee - Studio for Aug: Softcheck, Terrance",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,8,53.0000,424.00,"Resident Care - Level 3 for Aug: Softcheck, Terrance",,,,,,,,,,,,,,,
+INVOICE,CM,,14710194,,08/08/2012,4847,"Invoice-Private",,08/08/2012,08/08/2012,,14715770MO,-3607.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... T.Softcheck 201208: Softcheck, Terrance",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... T.Softcheck 201208: Softcheck, Terrance",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1643,1643,"CR:Resident Care -... T.Softcheck 201208: Softcheck, Terrance",,,,,,,,,,,,,,,

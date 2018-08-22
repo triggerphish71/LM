@@ -1,0 +1,5 @@
+BATCH,,201107,B,332.0000,
+INVOICE,IN,,53510199,,07/30/2011,332.0000,"MoveIn-Arndt. Paul",,07/30/2011,07/30/2011,,53513942,2378.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,2,37.0000,74,"P.Arndt: Basic Service Fee - Second Resident: Arndt. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319535,2,29.0000,58,"P.Arndt: Resident Care - Level 2: Arndt. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Arndt. Paul",,,,,,,,,,,,,,,

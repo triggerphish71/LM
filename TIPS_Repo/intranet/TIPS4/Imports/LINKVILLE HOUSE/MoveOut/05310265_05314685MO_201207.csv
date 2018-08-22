@@ -1,0 +1,7 @@
+BATCH,,201207,B,996.3200,
+INVOICE,IN,,05310265,,07/17/2012,62.2700,"Invoice-Private",,07/17/2012,07/17/2012,,05314685MO,-2802.1500,,,,,,,,,,
+TRANSACTION,3020,010101053,1,39.0000,39.00,"Basic Service Fee - Second Resident for Jul: Richardson, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,23.2700,23.27,"Resident Care - Level 13 for Jul: Richardson, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,05310265,,07/17/2012,934.05,"Invoice-Private",,07/17/2012,07/17/2012,,05314685MO,-2802.1500,,,,,,,,,,
+TRANSACTION,3020,010101053,1,585,585,"CR:Basic Service F... M.Richardson 201207: Richardson, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,349.05,349.05,"CR:Resident Care -... M.Richardson 201207: Richardson, Margie",,,,,,,,,,,,,,,

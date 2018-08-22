@@ -1,0 +1,5 @@
+BATCH,,201201,B,2046.0000,
+INVOICE,IN,,03710184,,01/01/2012,1023.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03714070MO,626.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,31,33.0000,1023.00,"Credit for Limited Term Discount: Carter, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,03710184,,01/01/2012,1023,"Invoice-Private",,01/01/2012,01/10/2012,,03714070MO,626.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,31,33,1023,"Limited Term Discount: Carter, Gwen",,,,,,,,,,,,,,,

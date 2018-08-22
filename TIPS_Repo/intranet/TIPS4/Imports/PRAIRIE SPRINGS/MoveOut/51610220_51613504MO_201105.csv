@@ -1,0 +1,6 @@
+BATCH,,201105,B,4276.0000,
+INVOICE,IN,,51610220,,05/04/2011,1610.0000,"Invoice-Private",,05/04/2011,05/04/2011,,51613504MO,-3576.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,62.0000,62.00,"CR:Limited Term Di... G.Theisen 201105: Theisen, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103516,18,86.0000,1548.00,"Basic Service Fee - Studio for May: Theisen, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,51610220,,05/04/2011,2666,"Invoice-Private",,05/04/2011,05/04/2011,,51613504MO,-3576.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2666,2666,"CR:Basic Service F... G.Theisen 201105: Theisen, Gerald",,,,,,,,,,,,,,,

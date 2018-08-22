@@ -1,0 +1,6 @@
+BATCH,,201305,B,4300.0000,
+INVOICE,IN,,11710259,,05/30/2013,2100.0000,"Invoice-Private",,05/30/2013,05/30/2013,,11714113MO,-2230.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,30,70.0000,2100.00,"Basic Service Fee - One Bedroom for May: Collins, Ocie",,,,,,,,,,,,,,,
+INVOICE,CM,,11710259,,05/30/2013,2200,"Invoice-Private",,05/30/2013,05/30/2013,,11714113MO,-2230.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2170,2170,"CR:Basic Service F... O.Collins 201305: Collins, Ocie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30,30,"CR:Monthly Cable... O.Collins 201305: Collins, Ocie",,,,,,,,,,,,,,,

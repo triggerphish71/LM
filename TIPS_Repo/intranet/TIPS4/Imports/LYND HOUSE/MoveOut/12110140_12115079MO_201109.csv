@@ -1,0 +1,7 @@
+BATCH,,201109,B,430.0000,
+INVOICE,IN,,12110140,,09/01/2011,215.0000,"Invoice-Private",,09/01/2011,09/10/2011,,12115079MO,-3880.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Shockney, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,30,6.0000,180.00,"Credit for Limited Term Discount: Shockney, Reba",,,,,,,,,,,,,,,
+INVOICE,CM,,12110140,,09/01/2011,215,"Invoice-Private",,09/01/2011,09/10/2011,,12115079MO,-3880.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Shockney, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,30,6,180,"Limited Term Discount: Shockney, Reba",,,,,,,,,,,,,,,

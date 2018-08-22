@@ -1,0 +1,5 @@
+BATCH,,201211,B,2600.0000,
+INVOICE,IN,,07710158,,11/06/2012,2600.0000,"MoveIn-Ketchum. Kathy",,11/06/2012,11/06/2012,,07714256,2600.0000,,,,,,,,,,
+TRANSACTION,3010,010104077,25,83.0000,2075,"Basic Service Fee - Studio: Ketchum. Kathy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25,"Monthly Cable: Ketchum. Kathy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104077,1,500.0000,500,"New Resident Fee: Ketchum. Kathy",,,,,,,,,,,,,,,

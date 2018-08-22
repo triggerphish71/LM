@@ -1,0 +1,8 @@
+BATCH,,201106,B,4428.0000,
+INVOICE,IN,,19510168,,06/01/2011,648.0000,"Invoice-Private",,06/01/2011,06/10/2011,,19513894MO,-3132.0000,,,,,,,,,,
+TRANSACTION,3312,010309195,1,270.0000,270.00,"CR:Two Room Rental... C.Haan 201106: Haan, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309195,3,90.0000,270.00,"Basic Service Fee - Studio for Jun: Haan, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,3,36.0000,108.00,"Resident Care - Level 2 for Jun: Haan, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,19510168,,06/01/2011,3780,"Invoice-Private",,06/01/2011,06/10/2011,,19513894MO,-3132.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2700,2700,"CR:Basic Service F... C.Haan 201106: Haan, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1080,1080,"CR:Resident Care -... C.Haan 201106: Haan, Charles",,,,,,,,,,,,,,,

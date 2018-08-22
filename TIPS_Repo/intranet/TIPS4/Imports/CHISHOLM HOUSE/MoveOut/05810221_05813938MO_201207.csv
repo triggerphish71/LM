@@ -1,0 +1,8 @@
+BATCH,,201207,B,3683.0000,
+INVOICE,IN,,05810221,,07/01/2012,1091.0000,"Invoice-Private",,07/01/2012,07/10/2012,,05813938MO,-1501.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,13,82.0000,1066.00,"Basic Service Fee - Studio for Jul: Kelly, Carlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25.00,"Monthly Cable: Kelly, Carlene",,,,,,,,,,,,,,,
+INVOICE,CM,,05810221,,07/01/2012,2592,"Invoice-Private",,07/01/2012,07/10/2012,,05813938MO,-1501.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... C.Kelly 201207: Kelly, Carlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... C.Kelly 201207: Kelly, Carlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"Credit for Monthly Cable: Kelly, Carlene",,,,,,,,,,,,,,,

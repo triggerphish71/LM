@@ -1,0 +1,5 @@
+BATCH,,201108,B,100.0000,
+INVOICE,IN,,50910123,,09/01/2011,50.0000,"Invoice-Private",,09/01/2011,09/01/2011,,50912743MO,-2001.0000,,,,,,,,,,
+TRANSACTION,3150,010101509,1,50.0000,50.00,"Late Fee Adjustment: Foster, Faith",,,,,,,,,,,,,,,
+INVOICE,CM,,50910123,,09/01/2011,50,"Invoice-Private",,09/01/2011,09/01/2011,,50912743MO,-2001.0000,,,,,,,,,,
+TRANSACTION,3150,010101509,1,50,50,"Late Fee Adjustment: Foster, Faith",,,,,,,,,,,,,,,

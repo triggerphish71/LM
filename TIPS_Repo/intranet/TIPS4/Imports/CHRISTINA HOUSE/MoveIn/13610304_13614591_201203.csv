@@ -1,0 +1,6 @@
+BATCH,,201203,B,4323.0000,
+INVOICE,IN,,13610304,,03/08/2012,4323.0000,"MoveIn-Tillett. Fred",,03/08/2012,03/08/2012,,13614591,4323.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,24,55.0000,1320,"Basic Service Fee - Studio: Tillett. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309136,24,82.0000,1968,"Resident Care - Level 6: Tillett. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Tillett. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Tillett. Fred",,,,,,,,,,,,,,,

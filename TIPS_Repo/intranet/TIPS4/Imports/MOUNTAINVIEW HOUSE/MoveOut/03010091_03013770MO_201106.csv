@@ -1,0 +1,5 @@
+BATCH,,201106,B,1080.0000,
+INVOICE,IN,,03010091,,06/01/2011,540.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03013770MO,-3068.4600,,,,,,,,,,
+TRANSACTION,3320,010103030,30,18.0000,540.00,"Credit for Limited Term Discount: Atwood, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,03010091,,06/01/2011,540,"Invoice-Private",,06/01/2011,06/10/2011,,03013770MO,-3068.4600,,,,,,,,,,
+TRANSACTION,3320,010103030,30,18,540,"Limited Term Discount: Atwood, Howard",,,,,,,,,,,,,,,

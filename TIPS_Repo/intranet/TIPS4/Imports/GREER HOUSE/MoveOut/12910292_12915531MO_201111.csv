@@ -1,0 +1,7 @@
+BATCH,,201111,B,1380.0000,
+INVOICE,IN,,12910292,,11/01/2011,690.0000,"Invoice-Private",,11/01/2011,11/10/2011,,12915531MO,-3698.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Piccirillo, Genero",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310129,30,22.0000,660.00,"Credit for Limited Term Discount: Piccirillo, Genero",,,,,,,,,,,,,,,
+INVOICE,CM,,12910292,,11/01/2011,690,"Invoice-Private",,11/01/2011,11/10/2011,,12915531MO,-3698.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Piccirillo, Genero",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310129,30,22,660,"Limited Term Discount: Piccirillo, Genero",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,5507.0000,
+INVOICE,IN,,53110274,,12/01/2012,279.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53114350MO,-4949.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,279.0000,279.00,"CR:Limited Term Di... M.Sirna 201212: Sirna, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,53110274,,12/01/2012,5228,"Invoice-Private",,12/01/2012,12/10/2012,,53114350MO,-4949.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3906,3906,"CR:Basic Service F... M.Sirna 201212: Sirna, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... M.Sirna 201212: Sirna, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1302,1302,"CR:Resident Care -... M.Sirna 201212: Sirna, Mildred",,,,,,,,,,,,,,,

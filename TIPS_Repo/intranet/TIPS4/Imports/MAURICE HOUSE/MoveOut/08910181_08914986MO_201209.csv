@@ -1,0 +1,8 @@
+BATCH,,201209,B,8585.0000,
+INVOICE,IN,,08910181,,09/19/2012,3935.0000,"Invoice-Private",,09/19/2012,09/19/2012,,08914986MO,-5458.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,1,60.0000,60.00,"CR:Limited Term Di... H.Brooks 201209: Brooks, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,25,136.0000,3400.00,"Basic Service Fee - One Bedroom for Sep: Brooks, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,25,19.0000,475.00,"Resident Care - Level 1 for Sep: Brooks, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,08910181,,09/19/2012,4650,"Invoice-Private",,09/19/2012,09/19/2012,,08914986MO,-5458.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,4080,4080,"CR:Basic Service F... H.Brooks 201209: Brooks, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,570,570,"CR:Resident Care -... H.Brooks 201209: Brooks, Hazel",,,,,,,,,,,,,,,

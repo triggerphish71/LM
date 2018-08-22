@@ -1,0 +1,5 @@
+BATCH,,201110,B,4082.0000,
+INVOICE,IN,,15710245,,10/10/2011,4082.0000,"MoveIn-Greulach. Ned",,10/10/2011,10/10/2011,,15714250,4082.0000,,,,,,,,,,
+TRANSACTION,3010,010309157,22,116.0000,2552,"Basic Service Fee - One Bedroom: Greulach. Ned",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30,"Monthly Cable: Greulach. Ned",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309157,1,1500.0000,1500,"New Resident Fee: Greulach. Ned",,,,,,,,,,,,,,,

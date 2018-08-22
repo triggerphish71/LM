@@ -1,0 +1,5 @@
+BATCH,,201205,B,1630.0000,
+INVOICE,IN,,05510232,,05/31/2012,1630.0000,"MoveIn-Cantrell. Howard",,05/31/2012,05/31/2012,,05514326,5530.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,1,95.0000,95,"Basic Service Fee - Studio: Cantrell. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,1,35.0000,35,"Resident Care - Level 2: Cantrell. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202055,1,1500.0000,1500,"New Resident Fee: Cantrell. Howard",,,,,,,,,,,,,,,

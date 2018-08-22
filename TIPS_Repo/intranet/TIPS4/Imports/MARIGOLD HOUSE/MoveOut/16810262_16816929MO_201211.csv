@@ -1,0 +1,5 @@
+BATCH,,201211,B,120.0000,
+INVOICE,IN,,16810262,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16816929MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,30,2.0000,60.00,"Credit for Limited Term Discount: Mayo, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,16810262,,11/01/2012,60,"Invoice-Private",,11/01/2012,11/10/2012,,16816929MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,30,2,60,"Limited Term Discount: Mayo, Gwen",,,,,,,,,,,,,,,

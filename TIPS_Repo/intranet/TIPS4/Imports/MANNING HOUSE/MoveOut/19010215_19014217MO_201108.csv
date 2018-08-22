@@ -1,0 +1,6 @@
+BATCH,,201108,B,5394.0000,
+INVOICE,IN,,19010215,,08/01/2011,1488.0000,"Invoice-Private",,08/01/2011,08/10/2011,,19014217MO,-3033.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,1488.0000,1488.00,"CR:Limited Term Di... A.Burton , Sr. 201108: Burton , Sr., Allen",,,,,,,,,,,,,,,
+INVOICE,CM,,19010215,,08/01/2011,3906,"Invoice-Private",,08/01/2011,08/10/2011,,19014217MO,-3033.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... A.Burton , Sr. 201108: Burton , Sr., Allen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,868,868,"CR:Resident Care -... A.Burton , Sr. 201108: Burton , Sr., Allen",,,,,,,,,,,,,,,

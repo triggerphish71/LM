@@ -1,0 +1,6 @@
+BATCH,,201307,B,5881.0000,
+INVOICE,IN,,11810188,,07/28/2013,2772.0000,"Invoice-Private",,07/28/2013,07/28/2013,,11816014MO,-3446.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,28,99.0000,2772.00,"Basic Service Fee - Studio for Jul: Obush, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11810188,,07/28/2013,3109,"Invoice-Private",,07/28/2013,07/28/2013,,11816014MO,-3446.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3069,3069,"CR:Basic Service F... M.Obush 201307: Obush, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... M.Obush 201307: Obush, Mary",,,,,,,,,,,,,,,

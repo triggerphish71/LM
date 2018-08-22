@@ -1,0 +1,6 @@
+BATCH,,201105,B,5225.6000,
+INVOICE,IN,,04910186,,05/06/2011,5225.6000,"MoveIn-Berg. James",,05/06/2011,05/06/2011,,04913051,5225.6000,,,,,,,,,,
+TRANSACTION,3010,010101049,26,84.0000,2184,"J.Berg: Basic Service Fee - Studio: Berg. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,26,39.1000,1016.6,"J.Berg: Resident Care - Level 23: Berg. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Berg. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Berg. James",,,,,,,,,,,,,,,

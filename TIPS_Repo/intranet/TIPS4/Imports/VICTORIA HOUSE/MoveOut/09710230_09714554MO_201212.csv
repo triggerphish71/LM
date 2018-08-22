@@ -1,0 +1,6 @@
+BATCH,,201212,B,4279.0000,
+INVOICE,IN,,09710230,,12/01/2012,1582.0000,"Invoice-Private",,12/01/2012,12/10/2012,,09714554MO,-1115.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,1147.0000,1147.00,"CR:Limited Term Di... M.Arnold 201212: Arnold, Margery",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,5,87.0000,435.00,"Room and Board - Studio for Dec: Arnold, Margery",,,,,,,,,,,,,,,
+INVOICE,CM,,09710230,,12/01/2012,2697,"Invoice-Private",,12/01/2012,12/10/2012,,09714554MO,-1115.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2697,2697,"CR:Room and Board ... M.Arnold 201212: Arnold, Margery",,,,,,,,,,,,,,,

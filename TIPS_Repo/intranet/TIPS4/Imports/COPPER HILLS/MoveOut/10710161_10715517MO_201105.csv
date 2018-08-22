@@ -1,0 +1,6 @@
+BATCH,,201105,B,5673.0000,
+INVOICE,IN,,10710161,,05/01/2011,930.0000,"Invoice-Private",,05/01/2011,05/10/2011,,10715517MO,-3813.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,930.0000,930.00,"CR:Limited Term Di... J.Castiglione 201105: Castiglione, Jeanette",,,,,,,,,,,,,,,
+INVOICE,CM,,10710161,,05/01/2011,4743,"Invoice-Private",,05/01/2011,05/10/2011,,10715517MO,-3813.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2945,2945,"CR:Basic Service F... J.Castiglione 201105: Castiglione, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1798,1798,"CR:Resident Care -... J.Castiglione 201105: Castiglione, Jeanette",,,,,,,,,,,,,,,

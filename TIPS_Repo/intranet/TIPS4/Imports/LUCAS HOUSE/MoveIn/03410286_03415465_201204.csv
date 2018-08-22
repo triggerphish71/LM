@@ -1,0 +1,6 @@
+BATCH,,201204,B,3489.0000,
+INVOICE,IN,,03410286,,04/13/2012,3489.0000,"MoveIn-Warner. Jewel",,04/13/2012,04/13/2012,,03415465,3489.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,18,96.0000,1728,"Basic Service Fee - Studio: Warner. Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,18,13.0000,234,"Resident Care - Level 1: Warner. Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Warner. Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Warner. Jewel",,,,,,,,,,,,,,,

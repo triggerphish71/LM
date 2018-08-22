@@ -1,0 +1,8 @@
+BATCH,,201208,B,3642.6400,
+INVOICE,IN,,00510164,,08/07/2012,101.6400,"Invoice-Private",,08/07/2012,08/07/2012,,00512501MO,-3439.3600,,,,,,,,,,
+TRANSACTION,3020,010101005,1,73.0000,73.00,"Basic Service Fee - Studio for Aug: Howard, Florence B",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,28.6400,28.64,"Resident Care - Level 16 for Aug: Howard, Florence B",,,,,,,,,,,,,,,
+INVOICE,CM,,00510164,,08/07/2012,3541,"Invoice-Private",,08/07/2012,08/07/2012,,00512501MO,-3439.3600,,,,,,,,,,
+TRANSACTION,3020,010101005,1,1825,1825,"CR:Basic Service F... F.Howard 201208: Howard, Florence B",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000,1000,"CR:New Resident Fe... F.Howard 201208: Howard, Florence B",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,716,716,"CR:Resident Care -... F.Howard 201208: Howard, Florence B",,,,,,,,,,,,,,,

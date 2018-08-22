@@ -1,0 +1,5 @@
+BATCH,,201307,B,2400.0000,
+INVOICE,IN,,19410253,,07/01/2013,75.0000,"Invoice-Private",,07/01/2013,07/01/2013,,19414597MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,75.0000,75.00,"Basic Service Fee - Studio for Jul: West, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,19410253,,07/01/2013,2325,"Invoice-Private",,07/01/2013,07/01/2013,,19414597MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2325,2325,"CR:Basic Service F... V.West 201307: West, Virginia",,,,,,,,,,,,,,,

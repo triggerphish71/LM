@@ -1,0 +1,8 @@
+BATCH,,201202,B,4296.0000,
+INVOICE,IN,,20810230,,02/01/2012,1106.0000,"Invoice-Private",,02/01/2012,02/10/2012,,20813008MO,-2084.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,116.0000,116.00,"CR:Limited Term Di... C.Hall 201202: Hall, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,9,32.0000,288.00,"Resident Care - Level 3 for Feb: Hall, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,9,78.0000,702.00,"Studio for Feb: Hall, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,20810230,,02/01/2012,3190,"Invoice-Private",,02/01/2012,02/10/2012,,20813008MO,-2084.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,928,928,"CR:Resident Care -... C.Hall 201202: Hall, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2262,2262,"CR:Studio... C.Hall 201202: Hall, Charles",,,,,,,,,,,,,,,

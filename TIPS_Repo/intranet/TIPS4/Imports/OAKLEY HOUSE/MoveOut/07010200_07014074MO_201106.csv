@@ -1,0 +1,6 @@
+BATCH,,201106,B,4750.0000,
+INVOICE,IN,,07010200,,06/25/2011,2150.0000,"Invoice-Private",,06/25/2011,06/25/2011,,07014074MO,-3116.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,25,86.0000,2150.00,"Basic Service Fee - Studio for Jun: Garrett, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07010200,,06/25/2011,2600,"Invoice-Private",,06/25/2011,06/25/2011,,07014074MO,-3116.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2580,2580,"CR:Basic Service F... B.Garrett 201106: Garrett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... B.Garrett 201106: Garrett, Betty",,,,,,,,,,,,,,,

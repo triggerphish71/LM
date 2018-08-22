@@ -1,0 +1,8 @@
+BATCH,,201110,B,5346.0000,
+INVOICE,IN,,09310158,,10/04/2011,913.0000,"Invoice-Private",,10/04/2011,10/04/2011,,09314908MO,-3520.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,1,341.0000,341.00,"CR:Limited Term Di... T.Jones 201110: Jones, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,4,48.0000,192.00,"Resident Care - Level 3 for Oct: Jones, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,4,95.0000,380.00,"Room and Board - Studio for Oct: Jones, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,09310158,,10/04/2011,4433,"Invoice-Private",,10/04/2011,10/04/2011,,09314908MO,-3520.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... T.Jones 201110: Jones, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2945,2945,"CR:Room and Board ... T.Jones 201110: Jones, Ted",,,,,,,,,,,,,,,

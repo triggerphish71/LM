@@ -1,0 +1,5 @@
+BATCH,,201301,B,60.0000,
+INVOICE,IN,,14610222,,01/01/2013,30.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14614759MO,-6759.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Sullivan, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,14610222,,01/01/2013,30,"Invoice-Private",,01/01/2013,01/10/2013,,14614759MO,-6759.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Sullivan, Gloria",,,,,,,,,,,,,,,

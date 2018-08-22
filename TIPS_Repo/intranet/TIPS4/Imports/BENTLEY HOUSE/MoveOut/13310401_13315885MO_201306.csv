@@ -1,0 +1,6 @@
+BATCH,,201306,B,5371.0000,
+INVOICE,IN,,13310401,,06/01/2013,2576.0000,"Invoice-Private",,06/01/2013,06/10/2013,,13315885MO,-219.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,28,92.0000,2576.00,"Basic Service Fee - Studio for Jun: Amon, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,13310401,,06/01/2013,2795,"Invoice-Private",,06/01/2013,06/10/2013,,13315885MO,-219.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2760,2760,"CR:Basic Service F... M.Amon 201306: Amon, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... M.Amon 201306: Amon, Margaret",,,,,,,,,,,,,,,

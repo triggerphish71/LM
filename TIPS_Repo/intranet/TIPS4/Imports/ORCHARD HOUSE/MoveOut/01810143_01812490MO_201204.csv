@@ -1,0 +1,8 @@
+BATCH,,201204,B,8196.4600,
+INVOICE,IN,,01810143,,04/13/2012,4919.8600,"Invoice-Private",,04/13/2012,04/13/2012,,01812490MO,-1742.5600,,,,,,,,,,
+TRANSACTION,3299,010103018,1,3500.0000,3500.00,"Damages: Armijo, Antonio",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,13,77.0000,1001.00,"Basic Service Fee - Studio for Apr: Armijo, Antonio",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,13,32.2200,418.86,"Resident Care - Level 18 for Apr: Armijo, Antonio",,,,,,,,,,,,,,,
+INVOICE,CM,,01810143,,04/13/2012,3276.6,"Invoice-Private",,04/13/2012,04/13/2012,,01812490MO,-1742.5600,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2310,2310,"CR:Basic Service F... A.Armijo 201204: Armijo, Antonio",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,966.6,966.6,"CR:Resident Care -... A.Armijo 201204: Armijo, Antonio",,,,,,,,,,,,,,,

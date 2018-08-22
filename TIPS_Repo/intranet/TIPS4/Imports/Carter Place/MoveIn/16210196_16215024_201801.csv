@@ -1,0 +1,5 @@
+BATCH,,201801,B,5766.6700,
+INVOICE,IN,,16210196,,01/01/2018,5766.6700,"MoveIn-Christopher. Laurie",,01/01/2018,01/01/2018,,16215024,5766.6700,,,,,,,,,,
+TRANSACTION,3010,010011162,31,100.0000,3100,"Basic Service Fee - Deluxe: Christopher. Laurie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,1,2000.0000,2000,"Community Fee: Christopher. Laurie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,1,666.6700,666.67,"Monthly Deferral Charge: Christopher. Laurie",,,,,,,,,,,,,,,

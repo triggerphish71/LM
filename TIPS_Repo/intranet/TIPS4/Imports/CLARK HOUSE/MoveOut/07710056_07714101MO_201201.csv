@@ -1,0 +1,7 @@
+BATCH,,201201,B,1575.3800,
+INVOICE,IN,,07710056,,01/01/2012,787.6900,"Invoice-Medicaid",,01/01/2012,01/10/2012,,07714101MO,-2401.8000,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25.00,"Monthly Cable: Brower, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104077,1,762.6900,762.69,"State Medicaid: Brower, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,07710056,,01/01/2012,787.69,"Invoice-Medicaid",,01/01/2012,01/10/2012,,07714101MO,-2401.8000,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"Credit for Monthly Cable: Brower, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104077,1,762.69,762.69,"Credit for State Medicaid: Brower, Bessie",,,,,,,,,,,,,,,

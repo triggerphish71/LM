@@ -1,0 +1,5 @@
+BATCH,,201108,B,3246.2000,
+INVOICE,IN,,00710169,,08/10/2011,3246.2000,"MoveIn-LaPointe. Winona",,08/10/2011,08/10/2011,,00713208,3246.2000,,,,,,,,,,
+TRANSACTION,3010,010101007,22,80.0000,1760,"Basic Service Fee - Studio         : LaPointe. Winona",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,22,22.1000,486.2,"Resident Care - Level 13: LaPointe. Winona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: LaPointe. Winona",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,4017.8000,
+INVOICE,CM,,00110091,,10/01/2011,4017.8,"Invoice-Private",,10/01/2011,10/10/2011,,00113088MO,-4017.8000,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2201,2201,"CR:Basic Service F... H.Lundy 201110: Lundy, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... H.Lundy 201110: Lundy, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,1791.8,1791.8,"CR:Resident Care -... H.Lundy 201110: Lundy, Helen",,,,,,,,,,,,,,,

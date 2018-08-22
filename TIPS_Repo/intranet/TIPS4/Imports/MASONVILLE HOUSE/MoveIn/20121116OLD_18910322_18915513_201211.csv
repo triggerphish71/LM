@@ -1,0 +1,6 @@
+BATCH,,201211,B,3017.0000,
+INVOICE,IN,,18910322,,11/09/2012,3017.0000,"MoveIn-Malcolm. Doris",,11/09/2012,11/09/2012,,18915513,3017.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,22,93.0000,2046,"Basic Service Fee- Studio Premium: Malcolm. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,22,33.0000,726,"Resident Care - Level 2: Malcolm. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Malcolm. Doris",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,22,10.0000,220,"CC Meals: Malcolm. Doris",,,,,,,,,,,,,,,

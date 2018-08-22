@@ -1,0 +1,8 @@
+BATCH,,201210,B,8190.0000,
+INVOICE,IN,,07010170,,10/12/2012,2280.0000,"Invoice-Private",,10/12/2012,10/12/2012,,07014529MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,12,117.0000,1404.00,"Basic Service Fee - One Bedroom for Oct: Shiverdecker, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,12,73.0000,876.00,"Resident Care - Level 6 for Oct: Shiverdecker, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,07010170,,10/12/2012,5910,"Invoice-Private",,10/12/2012,10/12/2012,,07014529MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,3627,3627,"CR:Basic Service F... R.Shiverdecker 201210: Shiverdecker, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... R.Shiverdecker 201210: Shiverdecker, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2263,2263,"CR:Resident Care -... R.Shiverdecker 201210: Shiverdecker, Ralph",,,,,,,,,,,,,,,

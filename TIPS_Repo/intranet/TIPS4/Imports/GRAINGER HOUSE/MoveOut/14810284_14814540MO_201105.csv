@@ -1,0 +1,8 @@
+BATCH,,201105,B,4570.2000,
+INVOICE,IN,,14810284,,05/16/2011,1545.6000,"Invoice-Private",,05/16/2011,05/16/2011,,14814540MO,-1479.0000,,,,,,,,,,
+TRANSACTION,3027,010310148,16,35.0000,560.00,"Resident Care - Level 2 for May: Millington, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,16,61.6000,985.60,"Room and Board - Companion Studio for May: Millington, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14810284,,05/16/2011,3024.6,"Invoice-Private",,05/16/2011,05/16/2011,,14814540MO,-1479.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... D.Millington 201105: Millington, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1085,1085,"CR:Resident Care -... D.Millington 201105: Millington, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,1,1909.6,1909.6,"CR:Room and Board ... D.Millington 201105: Millington, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,5455.0000,
+INVOICE,IN,,14910043,,01/01/2013,62.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14914930MO,-8240.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,62.0000,62.00,"CR:Limited Term Di... M.Tracy 201301: Tracy, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,14910043,,01/01/2013,5393,"Invoice-Private",,01/01/2013,01/10/2013,,14914930MO,-8240.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... M.Tracy 201301: Tracy, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,2263,2263,"CR:Resident Care -... M.Tracy 201301: Tracy, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Room and Board ... M.Tracy 201301: Tracy, Margaret",,,,,,,,,,,,,,,

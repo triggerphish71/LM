@@ -1,0 +1,7 @@
+BATCH,,201112,B,5990.3000,
+INVOICE,IN,,00910150,,12/06/2011,971.4000,"Invoice-Private",,12/06/2011,12/06/2011,,00913488MO,-4047.5000,,,,,,,,,,
+TRANSACTION,3020,010101009,6,82.0000,492.00,"Basic Service Fee - Studio for Dec: Beekman, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,6,79.9000,479.40,"Resident Care - Level 47 for Dec: Beekman, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,00910150,,12/06/2011,5018.9,"Invoice-Private",,12/06/2011,12/06/2011,,00913488MO,-4047.5000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2542,2542,"CR:Basic Service F... M.Beekman 201112: Beekman, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,2476.9,2476.9,"CR:Resident Care -... M.Beekman 201112: Beekman, Margaret",,,,,,,,,,,,,,,

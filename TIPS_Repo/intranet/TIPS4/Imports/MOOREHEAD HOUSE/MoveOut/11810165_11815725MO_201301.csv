@@ -1,0 +1,7 @@
+BATCH,,201301,B,10098.0000,
+INVOICE,IN,,11810165,,01/20/2013,3960.0000,"Invoice-Private",,01/20/2013,01/20/2013,,11815725MO,-7722.0000,,,,,,,,,,
+TRANSACTION,3027,010310118,20,71.0000,1420.00,"Resident Care - Level 5 for Jan: OBrien, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310118,20,127.0000,2540.00,"Room and Board - One Bedroom for Jan: OBrien, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,11810165,,01/20/2013,6138,"Invoice-Private",,01/20/2013,01/20/2013,,11815725MO,-7722.0000,,,,,,,,,,
+TRANSACTION,3027,010310118,1,2201,2201,"CR:Resident Care -... R.OBrien 201301: OBrien, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3937,3937,"CR:Room and Board ... R.OBrien 201301: OBrien, Rita",,,,,,,,,,,,,,,

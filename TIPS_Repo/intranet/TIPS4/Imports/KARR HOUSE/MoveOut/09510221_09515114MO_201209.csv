@@ -1,0 +1,8 @@
+BATCH,,201209,B,4263.0400,
+INVOICE,IN,,09510221,,09/01/2012,716.4400,"Invoice-Private",,09/01/2012,09/10/2012,,09515114MO,-2830.1600,,,,,,,,,,
+TRANSACTION,3320,010103095,1,480.0000,480.00,"CR:Limited Term Di... R.Moore 201209: Moore, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,2,86.0000,172.00,"Basic Service Fee - Studio for Sep: Moore, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,2,32.2200,64.44,"Resident Care - Level 18 for Sep: Moore, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,09510221,,09/01/2012,3546.6,"Invoice-Private",,09/01/2012,09/10/2012,,09515114MO,-2830.1600,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2580,2580,"CR:Basic Service F... R.Moore 201209: Moore, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,966.6,966.6,"CR:Resident Care -... R.Moore 201209: Moore, Ray",,,,,,,,,,,,,,,

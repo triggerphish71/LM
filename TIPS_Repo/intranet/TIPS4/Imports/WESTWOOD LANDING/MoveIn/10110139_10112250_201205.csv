@@ -1,0 +1,5 @@
+BATCH,,201205,B,5631.0000,
+INVOICE,IN,,10110139,,05/05/2012,5631.0000,"MoveIn-Miller. Russell",,05/05/2012,05/05/2012,,10112250,5631.0000,,,,,,,,,,
+TRANSACTION,3010,010305101,27,100.0000,2700,"R.Miller: Basic Service Fee - One Bedroom: Miller. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305101,27,53.0000,1431,"R.Miller: Resident Care - Level 4: Miller. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305101,1,1500.0000,1500,"New Resident Fee: Miller. Russell",,,,,,,,,,,,,,,

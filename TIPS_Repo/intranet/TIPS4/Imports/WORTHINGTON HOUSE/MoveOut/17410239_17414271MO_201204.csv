@@ -1,0 +1,7 @@
+BATCH,,201204,B,7365.0000,
+INVOICE,IN,,17410239,,04/29/2012,3683.0000,"Invoice-Private",,04/29/2012,04/29/2012,,17414271MO,-3006.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,29,95.0000,2755.00,"Basic Service Fee - Studio for Apr: Eaton, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,29,32.0000,928.00,"Service : lvl 0 to lvl 2 - 4/5/12 for Apr: Eaton, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,17410239,,04/29/2012,3682,"Invoice-Private",,04/29/2012,04/29/2012,,17414271MO,-3006.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2850,2850,"CR:Basic Service F... J.Eaton 201204: Eaton, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,832,832,"CR:Service : lvl 0... J.Eaton 201204: Eaton, Jack",,,,,,,,,,,,,,,

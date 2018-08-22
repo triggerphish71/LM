@@ -1,0 +1,8 @@
+BATCH,,201205,B,8094.0000,
+INVOICE,IN,,21010282,,05/01/2012,3909.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21013603MO,-276.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,1209.0000,1209.00,"CR:Limited Term Di... S.Holbrook 201205: Holbrook, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,20,41.0000,820.00,"Resident Care - Level 4 for May: Holbrook, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,20,94.0000,1880.00,"Studio for May: Holbrook, Sara",,,,,,,,,,,,,,,
+INVOICE,CM,,21010282,,05/01/2012,4185,"Invoice-Private",,05/01/2012,05/10/2012,,21013603MO,-276.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1271,1271,"CR:Resident Care -... S.Holbrook 201205: Holbrook, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... S.Holbrook 201205: Holbrook, Sara",,,,,,,,,,,,,,,

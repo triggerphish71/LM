@@ -1,0 +1,7 @@
+BATCH,,201301,B,5290.0000,
+INVOICE,IN,,09910190,,01/15/2013,1725.0000,"Invoice-Private",,01/15/2013,01/15/2013,,09914351MO,-1840.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,15,86.0000,1290.00,"Basic Service Fee - Studio for Jan: Jones, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,15,29.0000,435.00,"Resident Care - Level 2 for Jan: Jones, William",,,,,,,,,,,,,,,
+INVOICE,CM,,09910190,,01/15/2013,3565,"Invoice-Private",,01/15/2013,01/15/2013,,09914351MO,-1840.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2666,2666,"CR:Basic Service F... W.Jones 201301: Jones, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,899,899,"CR:Resident Care -... W.Jones 201301: Jones, William",,,,,,,,,,,,,,,

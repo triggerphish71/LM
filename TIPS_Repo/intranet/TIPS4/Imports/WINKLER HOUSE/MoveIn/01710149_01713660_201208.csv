@@ -1,0 +1,5 @@
+BATCH,,201208,B,1001.2500,
+INVOICE,IN,,01710149,,07/01/2012,111.2500,"July_Rent-Session. Wondell",,07/01/2012,07/10/2012,,01713660,3981.2500,,,,,,,,,,
+TRANSACTION,3216,010202017,1,111.2500,111.25,"Monthly Deferral Charge: Session. Wondell",,,,,,,,,,,,,,,
+INVOICE,CM,,01710149,,07/01/2012,890.0000,"July_Rent-Session. Wondell",,07/01/2012,07/10/2012,,01713660,3981.2500,,,,,,,,,,
+TRANSACTION,3216,010202017,1,890,890,"New Resident Fee Deferred: Session. Wondell",,,,,,,,,,,,,,,

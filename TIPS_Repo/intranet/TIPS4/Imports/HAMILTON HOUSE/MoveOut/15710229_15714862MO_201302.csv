@@ -1,0 +1,7 @@
+BATCH,,201302,B,4730.0000,
+INVOICE,IN,,15710229,,02/01/2013,1650.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15714862MO,-1430.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,15,92.0000,1380.00,"Basic Service Fee - Studio for Feb: Berghoff, Rhonda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,15,18.0000,270.00,"Resident Care - Level 1 for Feb: Berghoff, Rhonda",,,,,,,,,,,,,,,
+INVOICE,CM,,15710229,,02/01/2013,3080,"Invoice-Private",,02/01/2013,02/10/2013,,15714862MO,-1430.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2576,2576,"CR:Basic Service F... R.Berghoff 201302: Berghoff, Rhonda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,504,504,"CR:Resident Care -... R.Berghoff 201302: Berghoff, Rhonda",,,,,,,,,,,,,,,

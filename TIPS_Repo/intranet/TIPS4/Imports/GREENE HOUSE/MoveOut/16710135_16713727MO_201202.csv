@@ -1,0 +1,6 @@
+BATCH,,201202,B,3326.0000,
+INVOICE,IN,,16710135,,02/01/2012,309.0000,"Invoice-Private",,02/01/2012,02/01/2012,,16713727MO,-2708.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,3,103.0000,309.00,"Basic Service Fee - One Bedroom for Feb: Winkelmann, Milton",,,,,,,,,,,,,,,
+INVOICE,CM,,16710135,,02/01/2012,3017,"Invoice-Private",,02/01/2012,02/01/2012,,16713727MO,-2708.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2987,2987,"CR:Basic Service F... M.Winkelmann 201202: Winkelmann, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... M.Winkelmann 201202: Winkelmann, Milton",,,,,,,,,,,,,,,

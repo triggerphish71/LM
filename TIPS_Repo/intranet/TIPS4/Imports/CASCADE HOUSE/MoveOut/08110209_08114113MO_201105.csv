@@ -1,0 +1,7 @@
+BATCH,,201105,B,6401.5000,
+INVOICE,IN,,08110209,,05/16/2011,3038.0000,"Invoice-Private",,05/16/2011,05/16/2011,,08114113MO,-3580.5000,,,,,,,,,,
+TRANSACTION,3020,010103081,28,100.0000,2800.00,"Basic Service Fee - One Bedroom for May: Chadwick, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,28,8.5000,238.00,"Resident Care - Level 5 for May: Chadwick, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,08110209,,05/16/2011,3363.5,"Invoice-Private",,05/16/2011,05/16/2011,,08114113MO,-3580.5000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,3100,3100,"CR:Basic Service F... R.Chadwick 201105: Chadwick, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,263.5,263.5,"CR:Resident Care -... R.Chadwick 201105: Chadwick, Ronald",,,,,,,,,,,,,,,

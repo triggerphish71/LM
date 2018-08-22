@@ -1,0 +1,7 @@
+BATCH,,201112,B,2798.0000,
+INVOICE,IN,,12110163,,12/01/2011,1399.0000,"Invoice-Private",,12/01/2011,12/10/2011,,12115301MO,-1131.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Mullen, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,44.0000,1364.00,"Credit for Limited Term Discount: Mullen, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,12110163,,12/01/2011,1399,"Invoice-Private",,12/01/2011,12/10/2011,,12115301MO,-1131.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Mullen, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,44,1364,"Limited Term Discount: Mullen, Margie",,,,,,,,,,,,,,,

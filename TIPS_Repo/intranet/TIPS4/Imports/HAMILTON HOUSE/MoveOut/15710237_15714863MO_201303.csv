@@ -1,0 +1,5 @@
+BATCH,,201303,B,60.0000,
+INVOICE,IN,,15710237,,03/01/2013,30.0000,"Invoice-Private",,03/01/2013,03/10/2013,,15714863MO,-4321.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Edwards, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,15710237,,03/01/2013,30,"Invoice-Private",,03/01/2013,03/10/2013,,15714863MO,-4321.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Edwards, Carl",,,,,,,,,,,,,,,

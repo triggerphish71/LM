@@ -1,0 +1,7 @@
+BATCH,,201210,B,4150.0000,
+INVOICE,IN,,06010050,,10/01/2012,660.0000,"Invoice-Private",,10/01/2012,10/10/2012,,06014450MO,-2830.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,6,110.0000,660.00,"Basic Service Fee - One Bedroom for Oct: Heemstra, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,06010050,,10/01/2012,3490,"Invoice-Private",,10/01/2012,10/10/2012,,06014450MO,-2830.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3410,3410,"CR:Basic Service F... R.Heemstra 201210: Heemstra, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... R.Heemstra 201210: Heemstra, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... R.Heemstra 201210: Heemstra, Ruth",,,,,,,,,,,,,,,

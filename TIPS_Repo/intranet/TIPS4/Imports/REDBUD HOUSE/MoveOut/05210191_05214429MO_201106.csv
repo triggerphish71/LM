@@ -1,0 +1,8 @@
+BATCH,,201106,B,3899.0000,
+INVOICE,IN,,05210191,,06/02/2011,242.0000,"Invoice-Private",,06/02/2011,06/02/2011,,05214429MO,-3415.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,2,79.0000,158.00,"Basic Service Fee - Studio for Jun: Christopherson, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,2,42.0000,84.00,"Resident Care - Level 3 for Jun: Christopherson, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,05210191,,06/02/2011,3657,"Invoice-Private",,06/02/2011,06/02/2011,,05214429MO,-3415.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2370,2370,"CR:Basic Service F... J.Christopherson 201106: Christopherson, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... J.Christopherson 201106: Christopherson, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,1260,1260,"CR:Resident Care -... J.Christopherson 201106: Christopherson, Juanita",,,,,,,,,,,,,,,

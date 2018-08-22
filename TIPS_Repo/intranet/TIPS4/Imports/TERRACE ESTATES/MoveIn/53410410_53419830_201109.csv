@@ -1,0 +1,5 @@
+BATCH,,201109,B,2076.0000,
+INVOICE,IN,,53410410,,09/30/2011,76.0000,"MoveIn-Smies. Corinne",,09/30/2011,09/30/2011,,53419830,432.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,1,76.0000,76,"C.Smies: Basic Service Fee - One Bedroom: Smies. Corinne",,,,,,,,,,,,,,,
+INVOICE,CM,,53410410,,09/30/2011,2000.0000,"MoveIn-Smies. Corinne",,09/30/2011,09/30/2011,,53419830,432.0000,,,,,,,,,,
+TRANSACTION,2210,010319534,1,2000,2000,"Security Deposits: Smies. Corinne",,,,,,,,,,,,,,,

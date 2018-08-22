@@ -1,0 +1,6 @@
+BATCH,,201202,B,4951.7500,
+INVOICE,IN,,51910079,,02/01/2012,464.0000,"Invoice-Private",,02/01/2012,02/10/2012,,51913311MO,-5849.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,464.0000,464.00,"CR:Limited Term Di... D.Perkins 201202: Perkins, Dorothy H",,,,,,,,,,,,,,,
+INVOICE,CM,,51910079,,02/01/2012,4487.75,"Invoice-Private",,02/01/2012,02/10/2012,,51913311MO,-5849.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3190,3190,"CR:Basic Service F... D.Perkins 201202: Perkins, Dorothy H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,1297.75,1297.75,"CR:Resident Care -... D.Perkins 201202: Perkins, Dorothy H",,,,,,,,,,,,,,,

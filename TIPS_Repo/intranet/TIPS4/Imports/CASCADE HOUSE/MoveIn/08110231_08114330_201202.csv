@@ -1,0 +1,5 @@
+BATCH,,201202,B,4065.0000,
+INVOICE,IN,,08110231,,02/10/2012,4065.0000,"MoveIn-Trover. Orville",,02/10/2012,02/10/2012,,08114330,4065.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,20,102.0000,2040,"Basic Service Fee - One Bedroom: Trover. Orville",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Trover. Orville",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Trover. Orville",,,,,,,,,,,,,,,

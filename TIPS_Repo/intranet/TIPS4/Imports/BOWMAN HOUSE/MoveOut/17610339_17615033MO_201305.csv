@@ -1,0 +1,8 @@
+BATCH,,201305,B,2321.0000,
+INVOICE,IN,,17610339,,05/12/2013,101.0000,"Invoice-Private",,05/12/2013,05/12/2013,,17615033MO,-2119.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,73.0000,73.00,"Basic Service Fee - Studio for May: Huff, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,28.0000,28.00,"Resident Care - Level 2 for May: Huff, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,17610339,,05/12/2013,2220,"Invoice-Private",,05/12/2013,05/12/2013,,17615033MO,-2119.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,1460,1460,"CR:Basic Service F... C.Huff 201305: Huff, Clara",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,200,200,"CR:CC Meals... C.Huff 201305: Huff, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,560,560,"CR:Resident Care -... C.Huff 201305: Huff, Clara",,,,,,,,,,,,,,,

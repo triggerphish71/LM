@@ -1,0 +1,8 @@
+BATCH,,201303,B,7018.3200,
+INVOICE,IN,,16410297,,03/23/2013,4538.3200,"Invoice-Private",,03/23/2013,03/23/2013,,16416353MO,-341.6800,,,,,,,,,,
+TRANSACTION,3020,010202164,23,65.0000,1495.00,"Basic Service Fee - Studio Deluxe for Mar: Bernard, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,23,15.0000,345.00,"Resident Care - Level 1 for Mar: Bernard, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3299,010202164,1,2698.3200,2698.32,"Damages: Bernard, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,16410297,,03/23/2013,2480,"Invoice-Private",,03/23/2013,03/23/2013,,16416353MO,-341.6800,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2015,2015,"CR:Basic Service F... W.Bernard 201303: Bernard, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,465,465,"CR:Resident Care -... W.Bernard 201303: Bernard, Warren",,,,,,,,,,,,,,,

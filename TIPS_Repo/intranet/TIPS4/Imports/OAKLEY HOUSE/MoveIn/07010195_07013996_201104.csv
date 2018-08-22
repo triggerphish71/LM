@@ -1,0 +1,5 @@
+BATCH,,201104,B,1864.0000,
+INVOICE,IN,,07010195,,04/27/2011,1864.0000,"MoveIn-Fischer. Carl",,04/27/2011,04/27/2011,,07013996,4550.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,4,86.0000,344,"Basic Service Fee - Studio         : Fischer. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Fischer. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1500.0000,1500,"New Resident Fee: Fischer. Carl",,,,,,,,,,,,,,,

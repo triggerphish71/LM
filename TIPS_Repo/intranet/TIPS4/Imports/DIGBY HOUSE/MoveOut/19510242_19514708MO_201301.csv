@@ -1,0 +1,7 @@
+BATCH,,201301,B,4032.0000,
+INVOICE,IN,,19510242,,01/05/2013,560.0000,"Invoice-Private",,01/05/2013,01/05/2013,,19514708MO,-2912.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,5,94.0000,470.00,"Basic Service Fee - Studio for Jan: Fulton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,5,18.0000,90.00,"Resident Care - Level 1 for Jan: Fulton, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,19510242,,01/05/2013,3472,"Invoice-Private",,01/05/2013,01/05/2013,,19514708MO,-2912.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2914,2914,"CR:Basic Service F... R.Fulton 201301: Fulton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,558,558,"CR:Resident Care -... R.Fulton 201301: Fulton, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,7433.2400,
+INVOICE,IN,,15310208,,01/26/2013,3424.3200,"Invoice-Private",,01/26/2013,01/26/2013,,15316399MO,-4149.5600,,,,,,,,,,
+TRANSACTION,3320,010103153,1,62.0000,62.00,"CR:Limited Term Di... R.Lynch 201301: Lynch, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,26,115.0000,2990.00,"Basic Service Fee - One Bedroom for Jan: Lynch, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,26,14.3200,372.32,"Resident Care - Level 8 for Jan: Lynch, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,15310208,,01/26/2013,4008.92,"Invoice-Private",,01/26/2013,01/26/2013,,15316399MO,-4149.5600,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3565,3565,"CR:Basic Service F... R.Lynch 201301: Lynch, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,443.92,443.92,"CR:Resident Care -... R.Lynch 201301: Lynch, Richard",,,,,,,,,,,,,,,

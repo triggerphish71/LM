@@ -1,0 +1,7 @@
+BATCH,,201111,B,2945.6000,
+INVOICE,IN,,08110021,,11/20/2011,925.0000,"Invoice-Medicaid",,11/20/2011,11/20/2011,,08114276MO,-3182.7200,,,,,,,,,,
+TRANSACTION,3021,010103081,20,46.2500,925.00,"Medicaid Co-Pay for Nov: OBrien, Alma Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,08110021,,11/20/2011,2020.6,"Invoice-Medicaid",,11/20/2011,11/20/2011,,08114276MO,-3182.7200,,,,,,,,,,
+TRANSACTION,3021,010103081,1,1387.63,1387.63,"CR:Medicaid Co-Pay... A.OBrien 201111: OBrien, Alma Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... A.OBrien 201111: OBrien, Alma Jean",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103081,1,607.97,607.97,"CR:State Medicaid ... A.OBrien 201111: OBrien, Alma Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201307,B,5739.0000,
+INVOICE,IN,,14610274,,07/01/2013,346.0000,"Invoice-Private",,07/01/2013,07/10/2013,,14615059MO,-5047.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,2,115.0000,230.00,"Basic Service Fee - One Bedroom for Jul: Zufall, Conrad",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,2,58.0000,116.00,"Resident Care - Level 4 for Jul: Zufall, Conrad",,,,,,,,,,,,,,,
+INVOICE,CM,,14610274,,07/01/2013,5393,"Invoice-Private",,07/01/2013,07/10/2013,,14615059MO,-5047.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,3565,3565,"CR:Basic Service F... C.Zufall 201307: Zufall, Conrad",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... C.Zufall 201307: Zufall, Conrad",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1798,1798,"CR:Resident Care -... C.Zufall 201307: Zufall, Conrad",,,,,,,,,,,,,,,

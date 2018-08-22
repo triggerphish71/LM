@@ -1,0 +1,7 @@
+BATCH,,201304,B,6345.0000,
+INVOICE,IN,,03710217,,04/15/2013,2115.0000,"Invoice-Private",,04/15/2013,04/15/2013,,03714633MO,-6486.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,15,97.0000,1455.00,"Basic Service Fee - Studio for Apr: Madera, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,15,44.0000,660.00,"Resident Care - Level 3 for Apr: Madera, Nadine",,,,,,,,,,,,,,,
+INVOICE,CM,,03710217,,04/15/2013,4230,"Invoice-Private",,04/15/2013,04/15/2013,,03714633MO,-6486.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2910,2910,"CR:Basic Service F... N.Madera 201304: Madera, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,1320,1320,"CR:Resident Care -... N.Madera 201304: Madera, Nadine",,,,,,,,,,,,,,,

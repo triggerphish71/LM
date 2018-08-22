@@ -1,0 +1,7 @@
+BATCH,,201207,B,5111.0000,
+INVOICE,IN,,51110161,,07/01/2012,1240.0000,"Invoice-Private",,07/01/2012,07/10/2012,,51112490MO,-3442.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,1,1240.0000,1240.00,"CR:Limited Term Di... F.Colella 201207: Colella, Flora",,,,,,,,,,,,,,,
+INVOICE,CM,,51110161,,07/01/2012,3871,"Invoice-Private",,07/01/2012,07/10/2012,,51112490MO,-3442.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... F.Colella 201207: Colella, Flora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... F.Colella 201207: Colella, Flora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589,589,"CR:Resident Care -... F.Colella 201207: Colella, Flora",,,,,,,,,,,,,,,

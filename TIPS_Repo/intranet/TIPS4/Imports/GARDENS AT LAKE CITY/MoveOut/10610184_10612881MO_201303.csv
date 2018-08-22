@@ -1,0 +1,8 @@
+BATCH,,201303,B,4481.0000,
+INVOICE,IN,,10610184,,03/03/2013,2028.0000,"Invoice-Private",,03/03/2013,03/03/2013,,10612881MO,-425.0000,,,,,,,,,,
+TRANSACTION,3027,010309106,26,28.0000,728.00,"Resident Care - Level 2 for Mar: Stieglitz, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309106,26,50.0000,1300.00,"Room and Board - Studio for Mar: Stieglitz, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,10610184,,03/03/2013,2453,"Invoice-Private",,03/03/2013,03/03/2013,,10612881MO,-425.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... B.Stieglitz 201303: Stieglitz, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,868,868,"CR:Resident Care -... B.Stieglitz 201303: Stieglitz, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309106,1,1550,1550,"CR:Room and Board ... B.Stieglitz 201303: Stieglitz, Beverly",,,,,,,,,,,,,,,

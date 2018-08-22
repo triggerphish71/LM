@@ -1,0 +1,7 @@
+BATCH,,201305,B,4033.0000,
+INVOICE,IN,,05810242,,05/06/2013,654.0000,"Invoice-Private",,05/06/2013,05/06/2013,,05814336MO,-2725.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,6,65.0000,390.00,"Basic Service Fee - Studio for May: Nail, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,6,44.0000,264.00,"Resident Care - Level 3 for May: Nail, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,05810242,,05/06/2013,3379,"Invoice-Private",,05/06/2013,05/06/2013,,05814336MO,-2725.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2015,2015,"CR:Basic Service F... L.Nail 201305: Nail, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1364,1364,"CR:Resident Care -... L.Nail 201305: Nail, Linda",,,,,,,,,,,,,,,

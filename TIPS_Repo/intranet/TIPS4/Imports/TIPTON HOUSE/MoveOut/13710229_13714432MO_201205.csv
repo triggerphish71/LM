@@ -1,0 +1,7 @@
+BATCH,,201205,B,4388.4100,
+INVOICE,IN,,13710229,,05/07/2012,823.4100,"Invoice-Private",,05/07/2012,05/07/2012,,13714432MO,-2741.5900,,,,,,,,,,
+TRANSACTION,3020,010309137,7,36.0000,252.00,"F.Anderson: Basic Service Fee - Second Resident : Anderson, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,7,81.6300,571.41,"Increase Room and Board for May: Anderson, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,13710229,,05/07/2012,3565,"Invoice-Private",,05/07/2012,05/07/2012,,13714432MO,-2741.5900,,,,,,,,,,
+TRANSACTION,3020,010309137,1,1116,1116,"CR:F.Anderson: Bas... F.Anderson 201205: Anderson, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2449,2449,"CR:Increase Room a... F.Anderson 201205: Anderson, Floyd",,,,,,,,,,,,,,,

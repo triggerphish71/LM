@@ -1,0 +1,8 @@
+BATCH,,201210,B,4502.0000,
+INVOICE,IN,,21410309,,10/09/2012,1061.0000,"Invoice-Private",,10/09/2012,10/09/2012,,21417919MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,62.0000,62.00,"CR:Limited Term Di... B.Davis 201210: Davis, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,9,23.0000,207.00,"Resident Care - Level 2 for Oct: Davis, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,9,88.0000,792.00,"Studio for Oct: Davis, Ben",,,,,,,,,,,,,,,
+INVOICE,CM,,21410309,,10/09/2012,3441,"Invoice-Private",,10/09/2012,10/09/2012,,21417919MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... B.Davis 201210: Davis, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2728,2728,"CR:Studio... B.Davis 201210: Davis, Ben",,,,,,,,,,,,,,,

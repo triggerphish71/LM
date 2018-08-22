@@ -1,0 +1,8 @@
+BATCH,,201203,B,4422.0000,
+INVOICE,IN,,03410177,,03/01/2012,1043.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03415416MO,-2336.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,62.0000,62.00,"CR:Limited Term Di... L.Herford 201203: Herford, Lamar",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202034,9,96.0000,864.00,"Basic Service Fee - Studio for Mar: Herford, Lamar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,9,13.0000,117.00,"Resident Care - Level 1 for Mar: Herford, Lamar",,,,,,,,,,,,,,,
+INVOICE,CM,,03410177,,03/01/2012,3379,"Invoice-Private",,03/01/2012,03/10/2012,,03415416MO,-2336.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... L.Herford 201203: Herford, Lamar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... L.Herford 201203: Herford, Lamar",,,,,,,,,,,,,,,

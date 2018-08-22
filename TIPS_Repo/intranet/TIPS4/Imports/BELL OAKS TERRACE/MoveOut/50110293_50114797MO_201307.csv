@@ -1,0 +1,6 @@
+BATCH,,201307,B,3599.0000,
+INVOICE,CM,,50110293,,07/01/2013,3599,"Invoice-Private",,07/01/2013,07/10/2013,,50114797MO,-3977.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... R.Waters 201307: Waters, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... R.Waters 201307: Waters, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... R.Waters 201307: Waters, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,806,806,"CR:Resident Care -... R.Waters 201307: Waters, Reba",,,,,,,,,,,,,,,

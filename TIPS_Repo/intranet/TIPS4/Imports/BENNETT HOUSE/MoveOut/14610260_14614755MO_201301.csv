@@ -1,0 +1,7 @@
+BATCH,,201301,B,1176.0000,
+INVOICE,IN,,14610260,,01/01/2013,588.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14614755MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Der Ohanian, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309146,31,18.0000,558.00,"Credit for Limited Term Discount: Der Ohanian, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,14610260,,01/01/2013,588,"Invoice-Private",,01/01/2013,01/10/2013,,14614755MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Der Ohanian, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309146,31,18,558,"Limited Term Discount: Der Ohanian, Lillian",,,,,,,,,,,,,,,

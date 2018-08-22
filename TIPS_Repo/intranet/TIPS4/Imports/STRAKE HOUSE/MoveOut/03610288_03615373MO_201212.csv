@@ -1,0 +1,8 @@
+BATCH,,201212,B,6867.0000,
+INVOICE,IN,,03610288,,12/05/2012,950.0000,"Invoice-Private",,12/05/2012,12/05/2012,,03615373MO,-4967.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,5,101.0000,505.00,"Basic Service Fee - Studio for Dec: Brown, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,5,89.0000,445.00,"Resident Care - Level 6 for Dec: Brown, June",,,,,,,,,,,,,,,
+INVOICE,CM,,03610288,,12/05/2012,5917,"Invoice-Private",,12/05/2012,12/05/2012,,03615373MO,-4967.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... J.Brown 201212: Brown, June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Brown 201212: Brown, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,2759,2759,"CR:Resident Care -... J.Brown 201212: Brown, June",,,,,,,,,,,,,,,

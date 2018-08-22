@@ -1,0 +1,6 @@
+BATCH,,201111,B,3020.0000,
+INVOICE,IN,,21210168,,11/01/2011,50.0000,"Invoice-Private",,11/01/2011,11/10/2011,,21212142MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3150,010208212,1,50.0000,50.00,"Late Fee Payment: Gustafson, Orall",,,,,,,,,,,,,,,
+INVOICE,CM,,21210168,,11/01/2011,2970,"Invoice-Private",,11/01/2011,11/10/2011,,21212142MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,630,630,"CR:Resident Care -... O.Gustafson 201111: Gustafson, Orall",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2340,2340,"CR:Studio... O.Gustafson 201111: Gustafson, Orall",,,,,,,,,,,,,,,

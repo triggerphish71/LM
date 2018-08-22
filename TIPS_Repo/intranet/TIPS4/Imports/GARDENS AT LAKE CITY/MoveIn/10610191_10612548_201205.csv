@@ -1,0 +1,5 @@
+BATCH,,201205,B,3101.0000,
+INVOICE,IN,,10610191,,05/14/2012,3101.0000,"MoveIn-Diemer. Michael",,05/14/2012,05/14/2012,,10612548,3101.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,18,87.0000,1566,"Basic Service Fee - Studio: Diemer. Michael",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Diemer. Michael",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309106,1,1500.0000,1500,"New Resident Fee: Diemer. Michael",,,,,,,,,,,,,,,

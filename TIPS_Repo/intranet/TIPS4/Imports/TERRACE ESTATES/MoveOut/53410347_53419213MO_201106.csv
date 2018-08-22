@@ -1,0 +1,7 @@
+BATCH,,201106,B,3720.0000,
+INVOICE,IN,,53410347,,06/01/2011,90.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53419213MO,-5037.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,90.0000,90.00,"CR:Limited Term Di... B.Wassell 201106: Wassell, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,53410347,,06/01/2011,3630,"Invoice-Private",,06/01/2011,06/10/2011,,53419213MO,-5037.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2010,2010,"CR:Basic Service F... B.Wassell 201106: Wassell, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... B.Wassell 201106: Wassell, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1590,1590,"CR:Resident Care -... B.Wassell 201106: Wassell, Bernice",,,,,,,,,,,,,,,

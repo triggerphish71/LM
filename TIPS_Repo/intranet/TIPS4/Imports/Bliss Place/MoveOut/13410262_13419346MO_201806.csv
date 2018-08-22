@@ -1,0 +1,7 @@
+BATCH,,201806,B,2883.0000,
+INVOICE,IN,,13410262,,06/01/2018,93.0000,"Invoice-Private",,06/01/2018,06/01/2018,,13419346MO,-2697.0000,,,,,,,,,,
+TRANSACTION,3020,010009134,1,53.0000,53.00,"Basic Service Fee - Studio for Jun: Gilstrap, Luther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009134,1,40.0000,40.00,"Resident Care - Level 2 for Jun: Gilstrap, Luther",,,,,,,,,,,,,,,
+INVOICE,CM,,13410262,,06/01/2018,2790,"Invoice-Private",,06/01/2018,06/01/2018,,13419346MO,-2697.0000,,,,,,,,,,
+TRANSACTION,3020,010009134,1,1590,1590,"CR:Basic Service F... L.Gilstrap 201806: Gilstrap, Luther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009134,1,1200,1200,"CR:Resident Care -... L.Gilstrap 201806: Gilstrap, Luther",,,,,,,,,,,,,,,

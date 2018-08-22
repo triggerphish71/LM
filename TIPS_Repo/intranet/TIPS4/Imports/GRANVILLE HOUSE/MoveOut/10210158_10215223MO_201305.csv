@@ -1,0 +1,7 @@
+BATCH,,201305,B,5792.0000,
+INVOICE,IN,,10210158,,05/01/2013,181.0000,"Invoice-Private",,05/01/2013,05/10/2013,,10215223MO,-5430.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,85.0000,85.00,"Basic Service Fee - Deluxe for May: Chorlton, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,96.0000,96.00,"Swan Personal Care - L6 for May: Chorlton, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,10210158,,05/01/2013,5611,"Invoice-Private",,05/01/2013,05/10/2013,,10215223MO,-5430.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,2635,2635,"CR:Basic Service F... C.Chorlton 201305: Chorlton, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2976,2976,"CR:Swan Personal C... C.Chorlton 201305: Chorlton, Carolyn",,,,,,,,,,,,,,,

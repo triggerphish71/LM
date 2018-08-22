@@ -1,0 +1,7 @@
+BATCH,,201801,B,4372.9700,
+INVOICE,IN,,11010005,,01/22/2018,4372.9700,"MoveIn-Corbin. Vera",,01/22/2018,01/22/2018,,11017162,4372.9700,,,,,,,,,,
+TRANSACTION,3010,010007110,10,105.0000,1050,"V.Corbin: Basic Service Fee - Studio: Corbin. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,10,63.0000,630,"V.Corbin: Resident Care - Level 4: Corbin. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Corbin. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,2000.0000,2000,"Community Fee: Corbin. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,666.6700,666.67,"Monthly Deferral Charge: Corbin. Vera",,,,,,,,,,,,,,,

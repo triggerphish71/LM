@@ -1,0 +1,7 @@
+BATCH,,201307,B,4066.0000,
+INVOICE,IN,,16710259,,07/10/2013,4066.0000,"MoveIn-Luft. Robert",,07/10/2013,07/10/2013,,16714144,4066.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,22,86.0000,1892,"Basic Service Fee - Studio: Luft. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,22,52.0000,1144,"Resident Care - Level 4: Luft. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Luft. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211167,1,500.0000,500,"New Resident Fee: Luft. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3299,010211167,1,500.0000,500,"Pet Fee - Non Refundable: Luft. Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,170.0000,
+INVOICE,IN,,03310221,,06/01/2011,85.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03315796MO,-4892.0000,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25.00,"Monthly Cable: Meil, Dollie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202033,30,2.0000,60.00,"Credit for Limited Term Discount: Meil, Dollie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310221,,06/01/2011,85,"Invoice-Private",,06/01/2011,06/10/2011,,03315796MO,-4892.0000,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"Credit for Monthly Cable: Meil, Dollie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202033,30,2,60,"Limited Term Discount: Meil, Dollie",,,,,,,,,,,,,,,

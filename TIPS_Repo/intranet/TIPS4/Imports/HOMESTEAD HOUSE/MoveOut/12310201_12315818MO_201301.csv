@@ -1,0 +1,7 @@
+BATCH,,201301,B,6100.0000,
+INVOICE,IN,,12310201,,01/19/2013,2318.0000,"Invoice-Private",,01/19/2013,01/19/2013,,12315818MO,-4880.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,19,103.0000,1957.00,"Basic Service Fee - Studio for Jan: Decker, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,19,19.0000,361.00,"Resident Care - Level 1 for Jan: Decker, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,12310201,,01/19/2013,3782,"Invoice-Private",,01/19/2013,01/19/2013,,12315818MO,-4880.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... P.Decker 201301: Decker, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,589,589,"CR:Resident Care -... P.Decker 201301: Decker, Pauline",,,,,,,,,,,,,,,

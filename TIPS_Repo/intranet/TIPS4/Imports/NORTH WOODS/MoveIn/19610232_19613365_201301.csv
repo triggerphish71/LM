@@ -1,0 +1,6 @@
+BATCH,,201301,B,4654.0000,
+INVOICE,IN,,19610232,,01/01/2013,4654.0000,"January_Rent-Pratt. Rosemary",,01/01/2013,01/10/2013,,19613365,6328.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,31,116.0000,3596,"Basic Service Fee - One Bedroom: Pratt. Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,31,23.0000,713,"Resident Care - Level 2: Pratt. Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Pratt. Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10.0000,310,"CC Meals: Pratt. Rosemary",,,,,,,,,,,,,,,

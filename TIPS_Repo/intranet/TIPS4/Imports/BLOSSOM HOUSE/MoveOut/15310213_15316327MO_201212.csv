@@ -1,0 +1,8 @@
+BATCH,,201212,B,8065.4800,
+INVOICE,IN,,15310213,,12/01/2012,1303.1400,"Invoice-Private",,12/01/2012,12/01/2012,,15316327MO,-5459.2000,,,,,,,,,,
+TRANSACTION,3320,010103153,1,1085.0000,1085.00,"CR:Limited Term Di... S.Phillips 201212: Phillips, Sadie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,100.0000,100.00,"Basic Service Fee - Studio for Dec: Phillips, Sadie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,118.1400,118.14,"Resident Care - Level 66 for Dec: Phillips, Sadie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310213,,12/01/2012,6762.34,"Invoice-Private",,12/01/2012,12/01/2012,,15316327MO,-5459.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... S.Phillips 201212: Phillips, Sadie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,3662.34,3662.34,"CR:Resident Care -... S.Phillips 201212: Phillips, Sadie",,,,,,,,,,,,,,,

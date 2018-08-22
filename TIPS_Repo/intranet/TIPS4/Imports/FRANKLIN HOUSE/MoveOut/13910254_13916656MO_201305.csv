@@ -1,0 +1,8 @@
+BATCH,,201305,B,5220.0000,
+INVOICE,IN,,13910254,,05/01/2013,1167.7500,"Invoice-Private",,05/01/2013,05/10/2013,,13916656MO,-2884.5000,,,,,,,,,,
+TRANSACTION,3020,010103139,9,102.0000,918.00,"Basic Service Fee - Studio for May: Walston, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,9,27.7500,249.75,"Resident Care - Level 15 for May: Walston, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,13910254,,05/01/2013,4052.25,"Invoice-Private",,05/01/2013,05/10/2013,,13916656MO,-2884.5000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... R.Walston 201305: Walston, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... R.Walston 201305: Walston, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,860.25,860.25,"CR:Resident Care -... R.Walston 201305: Walston, Roger",,,,,,,,,,,,,,,

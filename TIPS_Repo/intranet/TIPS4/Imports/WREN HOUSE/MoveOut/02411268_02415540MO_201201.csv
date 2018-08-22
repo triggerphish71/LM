@@ -1,0 +1,5 @@
+BATCH,,201201,B,3561.0000,
+INVOICE,CM,,02411268,,01/01/2012,3561,"Invoice-Private",,01/01/2012,01/10/2012,,02415540MO,-3561.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3038,3038,"CR:Basic Service F... T.Haverkorn 201201: Haverkorn, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... T.Haverkorn 201201: Haverkorn, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,496,496,"CR:Resident Care -... T.Haverkorn 201201: Haverkorn, Thomas",,,,,,,,,,,,,,,

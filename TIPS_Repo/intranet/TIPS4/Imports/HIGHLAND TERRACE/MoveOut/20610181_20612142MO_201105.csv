@@ -1,0 +1,7 @@
+BATCH,,201105,B,7280.0000,
+INVOICE,IN,,20610181,,05/21/2011,2940.0000,"Invoice-Private",,05/21/2011,05/21/2011,,20612142MO,-5600.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,21,53.0000,1113.00,"Resident Care - Level 5 for May: Mehochko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,21,87.0000,1827.00,"Studio for May: Mehochko, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,20610181,,05/21/2011,4340,"Invoice-Private",,05/21/2011,05/21/2011,,20612142MO,-5600.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1643,1643,"CR:Resident Care -... D.Mehochko 201105: Mehochko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Studio... D.Mehochko 201105: Mehochko, Doris",,,,,,,,,,,,,,,

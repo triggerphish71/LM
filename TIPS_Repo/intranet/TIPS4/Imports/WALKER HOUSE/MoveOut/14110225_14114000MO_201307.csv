@@ -1,0 +1,7 @@
+BATCH,,201307,B,3536.0000,
+INVOICE,IN,,14110225,,07/03/2013,312.0000,"Invoice-Private",,07/03/2013,07/03/2013,,14114000MO,-2912.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,3,87.0000,261.00,"Basic Service Fee - Studio for Jul: Richardson, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,3,17.0000,51.00,"Resident Care - Level 1 for Jul: Richardson, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,14110225,,07/03/2013,3224,"Invoice-Private",,07/03/2013,07/03/2013,,14114000MO,-2912.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2697,2697,"CR:Basic Service F... B.Richardson 201307: Richardson, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,527,527,"CR:Resident Care -... B.Richardson 201307: Richardson, Barbara",,,,,,,,,,,,,,,

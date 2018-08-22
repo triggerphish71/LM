@@ -1,0 +1,5 @@
+BATCH,,201303,B,3962.0000,
+INVOICE,IN,,16010379,,03/01/2013,3962.0000,"March_Rent-Bjornstad. William",,03/01/2013,03/10/2013,,16015523,5376.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,31,99.0000,3069,"Basic Service Fee - Studio: Bjornstad. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,31,28.0000,868,"Resident Care - Level 2: Bjornstad. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Bjornstad. William",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201805,B,5241.6000,
+INVOICE,IN,,09110001,,06/15/2018,5241.6000,"MoveIn-Jones. Martha",,06/15/2018,06/15/2018,,09118251,8137.6000,,,,,,,,,,
+TRANSACTION,3010,010005091,12,72.0000,864,"Basic Service Fee - Studio: Jones. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005091,1,2188.8000,2188.8,"Community Fee: Jones. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005091,1,2188.8000,2188.8,"Monthly Deferral Charge: Jones. Martha",,,,,,,,,,,,,,,

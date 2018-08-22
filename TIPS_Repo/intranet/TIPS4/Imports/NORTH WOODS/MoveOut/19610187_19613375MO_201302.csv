@@ -1,0 +1,7 @@
+BATCH,,201302,B,630.0000,
+INVOICE,IN,,19610187,,02/01/2013,315.0000,"Invoice-Private",,02/01/2013,02/10/2013,,19613375MO,-1905.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35.00,"Monthly Cable: McDermott, Helen",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,28,10.0000,280.00,"CC Meals: McDermott, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,19610187,,02/01/2013,315,"Invoice-Private",,02/01/2013,02/10/2013,,19613375MO,-1905.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"Credit for Monthly Cable: McDermott, Helen",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,28,10,280,"Credit for CC Meals: McDermott, Helen",,,,,,,,,,,,,,,

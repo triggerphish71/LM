@@ -1,0 +1,8 @@
+BATCH,,201302,B,3295.0000,
+INVOICE,CM,,12010116,,11/11/2011,300,"Invoice-Private",,11/11/2011,11/11/2011,,12014180MO,-3071.0000,,,,,,,,,,
+TRANSACTION,3027,010309120,20,15,300,"Private Care Timing Adjustment: Jolley, Ernest E",,,,,,,,,,,,,,,
+INVOICE,IN,,12010116,,12/01/2011,112.0000,"Invoice-Private",,12/01/2011,12/10/2011,,12014180MO,-3071.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,1,62.0000,62.00,"CR:Limited Term Di... E.Jolley 201112: Jolley, Ernest E",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309120,1,50.0000,50.00,"Late Fee Payment: Jolley, Ernest E",,,,,,,,,,,,,,,
+INVOICE,CM,,12010116,,12/01/2011,2883,"Invoice-Private",,12/01/2011,12/10/2011,,12014180MO,-3071.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2883,2883,"CR:Basic Service F... E.Jolley 201112: Jolley, Ernest E",,,,,,,,,,,,,,,

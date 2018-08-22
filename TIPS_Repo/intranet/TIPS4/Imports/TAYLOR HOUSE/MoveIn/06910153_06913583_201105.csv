@@ -1,0 +1,5 @@
+BATCH,,201105,B,1589.0000,
+INVOICE,IN,,06910153,,05/31/2011,1589.0000,"MoveIn-Strack. Edith",,05/31/2011,05/31/2011,,06913583,4259.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,1,73.0000,73,"Basic Service Fee - Studio         : Strack. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,1,16.0000,16,"Resident Care - Level 1: Strack. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1500.0000,1500,"New Resident Fee: Strack. Edith",,,,,,,,,,,,,,,

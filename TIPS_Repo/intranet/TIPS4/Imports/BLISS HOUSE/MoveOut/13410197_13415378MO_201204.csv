@@ -1,0 +1,6 @@
+BATCH,,201204,B,3750.0000,
+INVOICE,IN,,13410197,,04/01/2012,480.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13415378MO,-3057.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,1,480.0000,480.00,"CR:Limited Term Di... T.Fountaine 201204: Fountaine, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13410197,,04/01/2012,3270,"Invoice-Private",,04/01/2012,04/10/2012,,13415378MO,-3057.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2760,2760,"CR:Basic Service F... T.Fountaine 201204: Fountaine, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,510,510,"CR:Resident Care -... T.Fountaine 201204: Fountaine, Thomas",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,3175.0000,
+INVOICE,IN,,50510124,,11/01/2012,3175.0000,"November_Rent-Whoriskey. William",,11/01/2012,11/10/2012,,50511780,4460.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,30,90.0000,2700,"Basic Service Fee - Studio: Whoriskey. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,30,15.0000,450,"Resident Care - Level 1: Whoriskey. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Whoriskey. William",,,,,,,,,,,,,,,

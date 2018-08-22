@@ -1,0 +1,5 @@
+BATCH,,201109,B,3490.0000,
+INVOICE,IN,,11810184,,09/01/2011,3490.0000,"September_Rent-Holliday. Catherine",,09/01/2011,09/10/2011,,11814953,6220.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,30,96.0000,2880,"Basic Service Fee - Studio         : Holliday. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,30,19.0000,570,"Resident Care - Level 1: Holliday. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Holliday. Catherine",,,,,,,,,,,,,,,

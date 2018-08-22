@@ -1,0 +1,6 @@
+BATCH,,201202,B,5229.0000,
+INVOICE,IN,,13010293,,02/22/2012,2244.0000,"Invoice-Private",,02/22/2012,02/22/2012,,13015657MO,-3930.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,22,102.0000,2244.00,"Basic Service Fee - Studio for Feb: Vorp, David",,,,,,,,,,,,,,,
+INVOICE,CM,,13010293,,02/22/2012,2985,"Invoice-Private",,02/22/2012,02/22/2012,,13015657MO,-3930.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,2958,2958,"CR:Basic Service F... D.Vorp 201202: Vorp, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... D.Vorp 201202: Vorp, David",,,,,,,,,,,,,,,

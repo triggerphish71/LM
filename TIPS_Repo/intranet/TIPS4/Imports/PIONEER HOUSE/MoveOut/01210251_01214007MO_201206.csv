@@ -1,0 +1,8 @@
+BATCH,,201206,B,5677.6600,
+INVOICE,IN,,01210251,,06/01/2012,2776.4600,"Invoice-Private",,06/01/2012,06/10/2012,,01214007MO,-124.7400,,,,,,,,,,
+TRANSACTION,3020,010103012,29,85.0000,2465.00,"Basic Service Fee - Studio for Jun: Pierce, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,29,10.7400,311.46,"Resident Care - Level 6 for Jun: Pierce, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,01210251,,06/01/2012,2901.2,"Invoice-Private",,06/01/2012,06/10/2012,,01214007MO,-124.7400,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2550,2550,"CR:Basic Service F... J.Pierce 201206: Pierce, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... J.Pierce 201206: Pierce, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,322.2,322.2,"CR:Resident Care -... J.Pierce 201206: Pierce, Jack",,,,,,,,,,,,,,,

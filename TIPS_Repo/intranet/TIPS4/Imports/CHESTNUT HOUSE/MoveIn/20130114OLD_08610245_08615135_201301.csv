@@ -1,0 +1,5 @@
+BATCH,,201301,B,3696.0000,
+INVOICE,IN,,08610245,,01/14/2013,3696.0000,"MoveIn-Scheff. Donna",,01/14/2013,01/14/2013,,08615135,7112.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,18,89.0000,1602,"Basic Service Fee - Studio: Scheff. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,18,33.0000,594,"Resident Care - Level 2: Scheff. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,1500.0000,1500,"New Resident Fee: Scheff. Donna",,,,,,,,,,,,,,,

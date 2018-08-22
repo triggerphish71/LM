@@ -1,0 +1,7 @@
+BATCH,,201210,B,7961.2500,
+INVOICE,IN,,15310218,,10/24/2012,3474.0000,"Invoice-Private",,10/24/2012,10/24/2012,,15316281MO,-5355.7500,,,,,,,,,,
+TRANSACTION,3020,010103153,24,100.0000,2400.00,"Basic Service Fee - Studio for Oct: Devore, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,24,44.7500,1074.00,"Resident Care - Level 25 for Oct: Devore, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,15310218,,10/24/2012,4487.25,"Invoice-Private",,10/24/2012,10/24/2012,,15316281MO,-5355.7500,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... J.Devore 201210: Devore, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1387.25,1387.25,"CR:Resident Care -... J.Devore 201210: Devore, Janet",,,,,,,,,,,,,,,

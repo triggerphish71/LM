@@ -1,0 +1,8 @@
+BATCH,,201204,B,4368.0000,
+INVOICE,IN,,04610188,,04/04/2012,858.0000,"Invoice-Private",,04/04/2012,04/04/2012,,04613582MO,-2652.0000,,,,,,,,,,
+TRANSACTION,3320,010202046,1,390.0000,390.00,"CR:Limited Term Di... E.Burk 201204: Burk, EB",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202046,4,100.0000,400.00,"Basic Service Fee - Studio for Apr: Burk, EB",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,4,17.0000,68.00,"Resident Care - Level 1 for Apr: Burk, EB",,,,,,,,,,,,,,,
+INVOICE,CM,,04610188,,04/04/2012,3510,"Invoice-Private",,04/04/2012,04/04/2012,,04613582MO,-2652.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,3000,3000,"CR:Basic Service F... E.Burk 201204: Burk, EB",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,510,510,"CR:Resident Care -... E.Burk 201204: Burk, EB",,,,,,,,,,,,,,,

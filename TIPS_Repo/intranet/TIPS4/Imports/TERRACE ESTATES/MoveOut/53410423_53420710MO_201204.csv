@@ -1,0 +1,8 @@
+BATCH,,201204,B,5841.0000,
+INVOICE,IN,,53410423,,04/01/2012,1341.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53420710MO,-3159.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,9,71.0000,639.00,"Basic Service Fee - Studio for Apr: Hendrikse, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,9,78.0000,702.00,"Resident Care - Level 4 for Apr: Hendrikse, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53410423,,04/01/2012,4500,"Invoice-Private",,04/01/2012,04/10/2012,,53420710MO,-3159.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Basic Service F... J.Hendrikse 201204: Hendrikse, John",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Hendrikse 201204: Hendrikse, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2340,2340,"CR:Resident Care -... J.Hendrikse 201204: Hendrikse, John",,,,,,,,,,,,,,,

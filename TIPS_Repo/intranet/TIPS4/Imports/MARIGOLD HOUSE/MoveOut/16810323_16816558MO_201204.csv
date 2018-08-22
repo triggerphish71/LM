@@ -1,0 +1,8 @@
+BATCH,,201204,B,4875.0000,
+INVOICE,IN,,16810323,,04/15/2012,1665.0000,"Invoice-Private",,04/15/2012,04/15/2012,,16816558MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,1,60.0000,60.00,"CR:Limited Term Di... M.Echenique 201204: Echenique, Mercedes",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,15,94.0000,1410.00,"Basic Service Fee - Studio Deluxe for Apr: Echenique, Mercedes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,15,13.0000,195.00,"Resident Care - Level 1 for Apr: Echenique, Mercedes",,,,,,,,,,,,,,,
+INVOICE,CM,,16810323,,04/15/2012,3210,"Invoice-Private",,04/15/2012,04/15/2012,,16816558MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2820,2820,"CR:Basic Service F... M.Echenique 201204: Echenique, Mercedes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,390,390,"CR:Resident Care -... M.Echenique 201204: Echenique, Mercedes",,,,,,,,,,,,,,,

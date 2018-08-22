@@ -1,0 +1,8 @@
+BATCH,,201305,B,4549.3500,
+INVOICE,IN,,08110257,,05/10/2013,1103.5000,"Invoice-Private",,05/10/2013,05/10/2013,,08114705MO,-2342.3500,,,,,,,,,,
+TRANSACTION,3020,010103081,10,90.0000,900.00,"Basic Service Fee - Studio for May: Turelli, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,10,20.3500,203.50,"Resident Care - Level 11 for May: Turelli, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,08110257,,05/10/2013,3445.85,"Invoice-Private",,05/10/2013,05/10/2013,,08114705MO,-2342.3500,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2790,2790,"CR:Basic Service F... D.Turelli 201305: Turelli, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... D.Turelli 201305: Turelli, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,630.85,630.85,"CR:Resident Care -... D.Turelli 201305: Turelli, Donna",,,,,,,,,,,,,,,

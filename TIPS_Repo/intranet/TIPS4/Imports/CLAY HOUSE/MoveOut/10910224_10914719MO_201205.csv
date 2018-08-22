@@ -1,0 +1,8 @@
+BATCH,,201205,B,9870.0000,
+INVOICE,IN,,10910224,,05/24/2012,4296.0000,"Invoice-Private",,05/24/2012,05/24/2012,,10914719MO,-6673.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,24,100.0000,2400.00,"Basic Service Fee- One Bedroom Prem for May: Carr, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,24,79.0000,1896.00,"Resident Care - Level 5 for May: Carr, Sara",,,,,,,,,,,,,,,
+INVOICE,CM,,10910224,,05/24/2012,5574,"Invoice-Private",,05/24/2012,05/24/2012,,10914719MO,-6673.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,3100,3100,"CR:Basic Service F... S.Carr 201205: Carr, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... S.Carr 201205: Carr, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,2449,2449,"CR:Resident Care -... S.Carr 201205: Carr, Sara",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,7630.0000,
+INVOICE,IN,,11810130,,03/24/2013,3312.0000,"Invoice-Private",,03/24/2013,03/24/2013,,11815811MO,-5186.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,24,101.0000,2424.00,"Basic Service Fee - Studio for Mar: Buchanan, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,24,37.0000,888.00,"Resident Care - Level 2 for Mar: Buchanan, Jan",,,,,,,,,,,,,,,
+INVOICE,CM,,11810130,,03/24/2013,4318,"Invoice-Private",,03/24/2013,03/24/2013,,11815811MO,-5186.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3131,3131,"CR:Basic Service F... J.Buchanan 201303: Buchanan, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... J.Buchanan 201303: Buchanan, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1147,1147,"CR:Resident Care -... J.Buchanan 201303: Buchanan, Jan",,,,,,,,,,,,,,,

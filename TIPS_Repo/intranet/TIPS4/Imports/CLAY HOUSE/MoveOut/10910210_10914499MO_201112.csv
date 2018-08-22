@@ -1,0 +1,7 @@
+BATCH,,201112,B,3597.0000,
+INVOICE,IN,,10910210,,12/02/2011,218.0000,"Invoice-Private",,12/02/2011,12/02/2011,,10914499MO,-3161.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,2,30.0000,60.00,"Basic Service Fee - Second Resident for Dec: Rider, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,2,79.0000,158.00,"Resident Care - Level 5 for Dec: Rider, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,10910210,,12/02/2011,3379,"Invoice-Private",,12/02/2011,12/02/2011,,10914499MO,-3161.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,930,930,"CR:Basic Service F... T.Rider 201112: Rider, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,2449,2449,"CR:Resident Care -... T.Rider 201112: Rider, Ted",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,5005.0000,
+INVOICE,IN,,53010242,,08/12/2011,1380.0000,"Invoice-Private",,08/12/2011,08/12/2011,,53015376MO,-5735.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,12,115.0000,1380.00,"One Bedroom Premium Plus for Aug: Murphy, Gregory",,,,,,,,,,,,,,,
+INVOICE,CM,,53010242,,08/12/2011,3625,"Invoice-Private",,08/12/2011,08/12/2011,,53015376MO,-5735.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... G.Murphy 201108: Murphy, Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3565,3565,"CR:One Bedroom Pre... G.Murphy 201108: Murphy, Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... G.Murphy 201108: Murphy, Gregory",,,,,,,,,,,,,,,

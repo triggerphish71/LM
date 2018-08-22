@@ -1,0 +1,5 @@
+BATCH,,201109,B,527.0000,
+INVOICE,IN,,06610167,,09/01/2011,263.5000,"Invoice-Private",,09/01/2011,09/10/2011,,06614114MO,-6191.0000,,,,,,,,,,
+TRANSACTION,3019,010305066,31,8.5000,263.50,"Additional Service Charge: Loy, Clinton",,,,,,,,,,,,,,,
+INVOICE,CM,,06610167,,09/01/2011,263.5,"Invoice-Private",,09/01/2011,09/10/2011,,06614114MO,-6191.0000,,,,,,,,,,
+TRANSACTION,3019,010305066,31,8.5,263.5,"Credit for Additional Service Charge: Loy, Clinton",,,,,,,,,,,,,,,

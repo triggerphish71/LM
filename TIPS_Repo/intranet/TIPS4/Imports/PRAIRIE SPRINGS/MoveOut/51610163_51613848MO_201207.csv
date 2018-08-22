@@ -1,0 +1,6 @@
+BATCH,,201207,B,4480.7400,
+INVOICE,IN,,51610163,,07/01/2012,279.0000,"Invoice-Private",,07/01/2012,07/10/2012,,51613848MO,-4465.9800,,,,,,,,,,
+TRANSACTION,3320,010103516,1,279.0000,279.00,"CR:Limited Term Di... H.Mitchell 201207: Mitchell, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,51610163,,07/01/2012,4201.74,"Invoice-Private",,07/01/2012,07/10/2012,,51613848MO,-4465.9800,,,,,,,,,,
+TRANSACTION,3027,010103516,1,1442.74,1442.74,"CR:Resident Care -... H.Mitchell 201207: Mitchell, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2759,2759,"CR:Room and Board ... H.Mitchell 201207: Mitchell, Helen",,,,,,,,,,,,,,,

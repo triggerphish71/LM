@@ -1,0 +1,7 @@
+BATCH,,201202,B,5125.0000,
+INVOICE,IN,,02310202,,02/12/2012,1500.0000,"Invoice-Private",,02/12/2012,02/12/2012,,02314808MO,-6000.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,12,95.0000,1140.00,"Basic Service Fee - Studio for Feb: Galvan, Raul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,12,30.0000,360.00,"Resident Care - Level 2 for Feb: Galvan, Raul",,,,,,,,,,,,,,,
+INVOICE,CM,,02310202,,02/12/2012,3625,"Invoice-Private",,02/12/2012,02/12/2012,,02314808MO,-6000.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2755,2755,"CR:Basic Service F... R.Galvan 201202: Galvan, Raul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,870,870,"CR:Resident Care -... R.Galvan 201202: Galvan, Raul",,,,,,,,,,,,,,,

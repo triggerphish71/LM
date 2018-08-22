@@ -1,0 +1,8 @@
+BATCH,,201205,B,10147.5600,
+INVOICE,IN,,08110200,,05/01/2012,4519.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08114407MO,-1109.5600,,,,,,,,,,
+TRANSACTION,3020,010103081,25,102.0000,2550.00,"Basic Service Fee - One Bedroom for May: Sundby, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,25,78.7600,1969.00,"Resident Care - Level 44 for May: Sundby, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,08110200,,05/01/2012,5628.56,"Invoice-Private",,05/01/2012,05/10/2012,,08114407MO,-1109.5600,,,,,,,,,,
+TRANSACTION,3020,010103081,1,3162,3162,"CR:Basic Service F... A.Sundby 201205: Sundby, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... A.Sundby 201205: Sundby, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,2441.56,2441.56,"CR:Resident Care -... A.Sundby 201205: Sundby, Alice",,,,,,,,,,,,,,,

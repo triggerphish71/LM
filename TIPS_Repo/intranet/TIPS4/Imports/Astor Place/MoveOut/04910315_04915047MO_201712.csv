@@ -1,0 +1,8 @@
+BATCH,,201712,B,7631.3000,
+INVOICE,IN,,04910315,,12/19/2017,2889.9000,"Invoice-Private",,12/19/2017,12/19/2017,,04915047MO,-1851.5000,,,,,,,,,,
+TRANSACTION,3020,010001049,19,136.0000,2584.00,"Basic Service Fee - One Bedroom  for Dec: Lloyd, Ilene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,19,16.1000,305.90,"Resident Care - Level 7  for Dec: Lloyd, Ilene",,,,,,,,,,,,,,,
+INVOICE,CM,,04910315,,12/19/2017,4741.4,"Invoice-Private",,12/19/2017,12/19/2017,,04915047MO,-1851.5000,,,,,,,,,,
+TRANSACTION,3020,010001049,1,4216,4216,"CR:Basic Service F... I.Lloyd 201712: Lloyd, Ilene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010001049,1,26.3,26.3,"CR:Monthly Cable... I.Lloyd 201712: Lloyd, Ilene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,1,499.1,499.1,"CR:Resident Care -... I.Lloyd 201712: Lloyd, Ilene",,,,,,,,,,,,,,,

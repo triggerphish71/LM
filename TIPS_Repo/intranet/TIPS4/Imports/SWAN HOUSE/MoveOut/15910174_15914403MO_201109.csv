@@ -1,0 +1,6 @@
+BATCH,,201109,B,3810.0000,
+INVOICE,IN,,15910174,,09/01/2011,390.0000,"Invoice-Private",,09/01/2011,09/10/2011,,15914403MO,-6160.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,390.0000,390.00,"CR:Limited Term Di... O.Truitt 201109: Truitt, Orville",,,,,,,,,,,,,,,
+INVOICE,CM,,15910174,,09/01/2011,3420,"Invoice-Private",,09/01/2011,09/10/2011,,15914403MO,-6160.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3390,3390,"CR:Basic Service F... O.Truitt 201109: Truitt, Orville",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... O.Truitt 201109: Truitt, Orville",,,,,,,,,,,,,,,

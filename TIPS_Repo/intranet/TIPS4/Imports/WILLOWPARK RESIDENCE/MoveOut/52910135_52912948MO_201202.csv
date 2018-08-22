@@ -1,0 +1,8 @@
+BATCH,,201202,B,9260.8400,
+INVOICE,IN,,52910135,,02/08/2012,2188.6200,"Invoice-Private",,02/08/2012,02/08/2012,,52912948MO,-4883.6000,,,,,,,,,,
+TRANSACTION,3020,010319529,9,94.0000,846.00,"Basic Service Fee - Studio Deluxe for Feb: Verick, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,9,149.1800,1342.62,"Resident Care - Level 6+42 pts for Feb: Verick, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,52910135,,02/08/2012,7072.22,"Invoice-Private",,02/08/2012,02/08/2012,,52912948MO,-4883.6000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2726,2726,"CR:Basic Service F... G.Verick 201202: Verick, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... G.Verick 201202: Verick, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,4326.22,4326.22,"CR:Resident Care -... G.Verick 201202: Verick, Glenn",,,,,,,,,,,,,,,

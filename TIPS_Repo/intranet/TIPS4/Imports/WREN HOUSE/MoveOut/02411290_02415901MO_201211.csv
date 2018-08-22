@@ -1,0 +1,5 @@
+BATCH,,201211,B,1260.0000,
+INVOICE,IN,,02411290,,11/01/2012,630.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02415901MO,558.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,21.0000,630.00,"Credit for Limited Term Discount: Carlock, Oscar",,,,,,,,,,,,,,,
+INVOICE,CM,,02411290,,11/01/2012,630,"Invoice-Private",,11/01/2012,11/10/2012,,02415901MO,558.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,21,630,"Limited Term Discount: Carlock, Oscar",,,,,,,,,,,,,,,

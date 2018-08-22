@@ -1,0 +1,5 @@
+BATCH,,201201,B,3683.0000,
+INVOICE,CM,,01610252,,01/01/2012,3683,"Invoice-Private",,01/01/2012,01/10/2012,,01615669MO,-3683.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... K.Hedge 201201: Hedge, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... K.Hedge 201201: Hedge, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,992,992,"CR:Resident Care -... K.Hedge 201201: Hedge, Katherine",,,,,,,,,,,,,,,

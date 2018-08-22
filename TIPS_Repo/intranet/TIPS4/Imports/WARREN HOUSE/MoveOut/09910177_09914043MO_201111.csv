@@ -1,0 +1,8 @@
+BATCH,,201111,B,5427.0000,
+INVOICE,IN,,09910177,,11/07/2011,1022.0000,"Invoice-Private",,11/07/2011,11/07/2011,,09914043MO,-3383.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,7,103.0000,721.00,"Basic Service Fee - One Bedroom for Nov: Mahoney, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,7,43.0000,301.00,"Resident Care - Level 3 for Nov: Mahoney, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,09910177,,11/07/2011,4405,"Invoice-Private",,11/07/2011,11/07/2011,,09914043MO,-3383.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,3090,3090,"CR:Basic Service F... L.Mahoney 201111: Mahoney, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... L.Mahoney 201111: Mahoney, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,1290,1290,"CR:Resident Care -... L.Mahoney 201111: Mahoney, Larry",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,7755.0000,
+INVOICE,IN,,13210276,,03/24/2012,3384.0000,"Invoice-Private",,03/24/2012,03/24/2012,,13215390MO,-5244.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,24,124.0000,2976.00,"Basic Service Fee - One Bedroom for Mar: Noble, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,24,17.0000,408.00,"Resident Care - Level 1 for Mar: Noble, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,13210276,,03/24/2012,4371,"Invoice-Private",,03/24/2012,03/24/2012,,13215390MO,-5244.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3844,3844,"CR:Basic Service F... L.Noble 201203: Noble, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,527,527,"CR:Resident Care -... L.Noble 201203: Noble, Lucille",,,,,,,,,,,,,,,

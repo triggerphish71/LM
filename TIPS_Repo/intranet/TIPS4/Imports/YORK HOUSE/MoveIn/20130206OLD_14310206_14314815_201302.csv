@@ -1,0 +1,6 @@
+BATCH,,201302,B,4157.0000,
+INVOICE,IN,,14310206,,02/06/2013,4157.0000,"MoveIn-Pearson. Mary Jane",,02/06/2013,02/06/2013,,14314815,4157.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,23,82.0000,1886,"Basic Service Fee - Studio: Pearson. Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309143,23,32.0000,736,"Resident Care - Level 2: Pearson. Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Pearson. Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Pearson. Mary Jane",,,,,,,,,,,,,,,

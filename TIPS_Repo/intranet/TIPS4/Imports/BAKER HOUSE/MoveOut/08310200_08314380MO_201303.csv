@@ -1,0 +1,5 @@
+BATCH,,201303,B,2960.0000,
+INVOICE,IN,,08310200,,03/06/2013,480.0000,"Invoice-Private",,03/06/2013,03/06/2013,,08314380MO,-2000.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,6,80.0000,480.00,"Basic Service Fee - Deluxe for Mar: Barbagli Sr, Sam",,,,,,,,,,,,,,,
+INVOICE,CM,,08310200,,03/06/2013,2480,"Invoice-Private",,03/06/2013,03/06/2013,,08314380MO,-2000.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,2480,2480,"CR:Basic Service F... S.Barbagli Sr 201303: Barbagli Sr, Sam",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,4277.0000,
+INVOICE,IN,,11010289,,03/16/2012,1456.0000,"Invoice-Private",,03/16/2012,03/16/2012,,11014845MO,-4095.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,16,91.0000,1456.00,"Room and Board - Studio for Mar: Schaefer, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,11010289,,03/16/2012,2821,"Invoice-Private",,03/16/2012,03/16/2012,,11014845MO,-4095.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Room and Board ... C.Schaefer 201203: Schaefer, Charles",,,,,,,,,,,,,,,

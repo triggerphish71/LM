@@ -1,0 +1,7 @@
+BATCH,,201303,B,4855.0000,
+INVOICE,IN,,00810266,,03/05/2013,4855.0000,"MoveIn-Jackson. Marion",,03/05/2013,03/05/2013,,00815003,4855.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,27,83.0000,2241,"Basic Service Fee - Studio: Jackson. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,27,31.0000,837,"Resident Care - Level 2: Jackson. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Jackson. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Jackson. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3213,010202008,1,250.0000,250,"Pet Fee: Jackson. Marion",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,2257.6500,
+INVOICE,IN,,16910226,,02/01/2012,580.0000,"Invoice-Private",,02/01/2012,02/10/2012,,16914757MO,-1097.6500,,,,,,,,,,
+TRANSACTION,3320,010103169,1,580.0000,580.00,"CR:Limited Term Di... E.Hergenreder 201202: Hergenreder, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,16910226,,02/01/2012,1677.65,"Invoice-Private",,02/01/2012,02/10/2012,,16914757MO,-1097.6500,,,,,,,,,,
+TRANSACTION,3020,010103169,1,899,899,"CR:Basic Service F... E.Hergenreder 201202: Hergenreder, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,778.65,778.65,"CR:Resident Care -... E.Hergenreder 201202: Hergenreder, Edna",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,2496.6000,
+INVOICE,IN,,05310219,,09/01/2011,1182.6000,"Invoice-Private",,09/01/2011,09/10/2011,,05314249MO,-131.4000,,,,,,,,,,
+TRANSACTION,3020,010101053,27,37.0000,999.00,"Basic Service Fee - Second Resident for Sep: Booth, Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,27,6.8000,183.60,"Resident Care - Level 4 for Sep: Booth, Gerry",,,,,,,,,,,,,,,
+INVOICE,CM,,05310219,,09/01/2011,1314,"Invoice-Private",,09/01/2011,09/10/2011,,05314249MO,-131.4000,,,,,,,,,,
+TRANSACTION,3020,010101053,1,1110,1110,"CR:Basic Service F... G.Booth 201109: Booth, Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,204,204,"CR:Resident Care -... G.Booth 201109: Booth, Gerry",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201205,B,2592.0000,
+INVOICE,IN,,05310127,,05/01/2012,1296.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05314522MO,-524.0000,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25.00,"Monthly Cable: Myers, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101053,31,41.0000,1271.00,"Credit for Limited Term Discount: Myers, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,05310127,,05/01/2012,1296,"Invoice-Private",,05/01/2012,05/10/2012,,05314522MO,-524.0000,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25,25,"Credit for Monthly Cable: Myers, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101053,31,41,1271,"Limited Term Discount: Myers, Jane",,,,,,,,,,,,,,,

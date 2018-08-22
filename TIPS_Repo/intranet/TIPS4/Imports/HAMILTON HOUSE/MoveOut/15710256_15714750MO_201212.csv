@@ -1,0 +1,7 @@
+BATCH,,201212,B,1734.0000,
+INVOICE,IN,,15710256,,12/01/2012,867.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15714750MO,-3404.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Jarvis, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309157,31,27.0000,837.00,"Credit for Limited Term Discount: Jarvis, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,15710256,,12/01/2012,867,"Invoice-Private",,12/01/2012,12/10/2012,,15714750MO,-3404.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Jarvis, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309157,31,27,837,"Limited Term Discount: Jarvis, Sue",,,,,,,,,,,,,,,

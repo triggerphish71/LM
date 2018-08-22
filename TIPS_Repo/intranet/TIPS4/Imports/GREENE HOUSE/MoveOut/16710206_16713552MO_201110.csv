@@ -1,0 +1,7 @@
+BATCH,,201110,B,246.0000,
+INVOICE,IN,,16710206,,10/01/2011,123.0000,"Invoice-Private",,10/01/2011,10/10/2011,,16713552MO,-4477.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Parham, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211167,31,3.0000,93.00,"Credit for Limited Term Discount: Parham, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,16710206,,10/01/2011,123,"Invoice-Private",,10/01/2011,10/10/2011,,16713552MO,-4477.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Parham, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211167,31,3,93,"Limited Term Discount: Parham, Virginia",,,,,,,,,,,,,,,

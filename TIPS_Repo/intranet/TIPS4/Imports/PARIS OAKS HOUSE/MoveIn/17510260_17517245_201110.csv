@@ -1,0 +1,5 @@
+BATCH,,201110,B,2660.0000,
+INVOICE,IN,,17510260,,10/01/2011,2660.0000,"October_Rent-Barnes. Grover",,10/01/2011,10/10/2011,,17517245,4270.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,31,73.0000,2263,"Basic Service Fee - Studio Deluxe: Barnes. Grover",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,31,12.0000,372,"Resident Care - Level 1: Barnes. Grover",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Barnes. Grover",,,,,,,,,,,,,,,

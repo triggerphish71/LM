@@ -1,0 +1,8 @@
+BATCH,,201207,B,3067.0000,
+INVOICE,IN,,53410359,,07/01/2012,178.0000,"Invoice-Private",,07/01/2012,07/10/2012,,53421083MO,-2711.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,2,89.0000,178.00,"Basic Service Fee - Two Bedroom for Jul: Barfuss, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,53410359,,07/01/2012,2889,"Invoice-Private",,07/01/2012,07/10/2012,,53421083MO,-2711.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2759,2759,"CR:Basic Service F... H.Barfuss 201207: Barfuss, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3211,010319534,1,50,50,"CR:Laundry... H.Barfuss 201207: Barfuss, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... H.Barfuss 201207: Barfuss, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3210,010319534,1,50,50,"CR:Personal Servic... H.Barfuss 201207: Barfuss, Harold",,,,,,,,,,,,,,,

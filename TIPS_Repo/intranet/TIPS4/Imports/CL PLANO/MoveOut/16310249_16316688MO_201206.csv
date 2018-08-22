@@ -1,0 +1,5 @@
+BATCH,,201206,B,120.0000,
+INVOICE,IN,,16310249,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,16316688MO,-4630.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,30,2.0000,60.00,"Credit for Limited Term Discount: Watson, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,16310249,,06/01/2012,60,"Invoice-Private",,06/01/2012,06/10/2012,,16316688MO,-4630.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,30,2,60,"Limited Term Discount: Watson, Joyce",,,,,,,,,,,,,,,

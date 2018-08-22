@@ -1,0 +1,6 @@
+BATCH,,201205,B,5275.0000,
+INVOICE,IN,,13210286,,05/04/2012,5275.0000,"MoveIn-Williams. Barbra",,05/04/2012,05/04/2012,,13215442,5275.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,28,99.0000,2772,"Basic Service Fee - Studio: Williams. Barbra",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,28,17.0000,476,"Resident Care - Level 1: Williams. Barbra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Williams. Barbra",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Williams. Barbra",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,5047.0000,
+INVOICE,IN,,21010042,,10/01/2012,837.0000,"Invoice-Private",,10/01/2012,10/10/2012,,21013779MO,-2723.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,837.0000,837.00,"CR:Limited Term Di... M.Marshall 201210: Marshall, Max",,,,,,,,,,,,,,,
+INVOICE,CM,,21010042,,10/01/2012,4210,"Invoice-Private",,10/01/2012,10/10/2012,,21013779MO,-2723.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... M.Marshall 201210: Marshall, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1271,1271,"CR:Resident Care -... M.Marshall 201210: Marshall, Max",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... M.Marshall 201210: Marshall, Max",,,,,,,,,,,,,,,

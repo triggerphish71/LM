@@ -1,0 +1,8 @@
+BATCH,,201204,B,8262.0000,
+INVOICE,IN,,53210332,,04/01/2012,3192.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53215230MO,-1878.0000,,,,,,,,,,
+TRANSACTION,3027,010319532,19,29.0000,551.00,"Resident Care - Level 2 for Apr: McGaver, Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319532,19,139.0000,2641.00,"Room and Board - One Bedroom for Apr: McGaver, Bernadine",,,,,,,,,,,,,,,
+INVOICE,CM,,53210332,,04/01/2012,5070,"Invoice-Private",,04/01/2012,04/10/2012,,53215230MO,-1878.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... B.McGaver 201204: McGaver, Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,870,870,"CR:Resident Care -... B.McGaver 201204: McGaver, Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319532,1,4170,4170,"CR:Room and Board ... B.McGaver 201204: McGaver, Bernadine",,,,,,,,,,,,,,,

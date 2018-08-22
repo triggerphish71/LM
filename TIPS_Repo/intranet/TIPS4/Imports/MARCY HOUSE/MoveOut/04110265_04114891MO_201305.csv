@@ -1,0 +1,7 @@
+BATCH,,201305,B,4920.0000,
+INVOICE,IN,,04110265,,05/29/2013,2378.0000,"Invoice-Private",,05/29/2013,05/29/2013,,04114891MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,29,65.0000,1885.00,"Basic Service Fee - Studio for May: Moore, EvaNell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,29,17.0000,493.00,"Resident Care - Level 1 for May: Moore, EvaNell",,,,,,,,,,,,,,,
+INVOICE,CM,,04110265,,05/29/2013,2542,"Invoice-Private",,05/29/2013,05/29/2013,,04114891MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2015,2015,"CR:Basic Service F... E.Moore 201305: Moore, EvaNell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... E.Moore 201305: Moore, EvaNell",,,,,,,,,,,,,,,

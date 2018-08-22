@@ -1,0 +1,6 @@
+BATCH,,201201,B,4172.0000,
+INVOICE,IN,,02210190,,01/13/2012,4172.0000,"MoveIn-Wallace. George",,01/13/2012,01/13/2012,,02214220,4172.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,19,96.0000,1824,"Basic Service Fee- Studio Premium: Wallace. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,19,17.0000,323,"Resident Care - Level 1: Wallace. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Wallace. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Wallace. George",,,,,,,,,,,,,,,

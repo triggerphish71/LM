@@ -1,0 +1,6 @@
+BATCH,,201207,B,5921.0000,
+INVOICE,IN,,06610105,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,06614584MO,-6493.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,62.0000,62.00,"CR:Limited Term Di... D.Wallimire 201207: Wallimire, Doyle",,,,,,,,,,,,,,,
+INVOICE,CM,,06610105,,07/01/2012,5859,"Invoice-Private",,07/01/2012,07/10/2012,,06614584MO,-6493.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3534,3534,"CR:Basic Service F... D.Wallimire 201207: Wallimire, Doyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2325,2325,"CR:Resident Care -... D.Wallimire 201207: Wallimire, Doyle",,,,,,,,,,,,,,,

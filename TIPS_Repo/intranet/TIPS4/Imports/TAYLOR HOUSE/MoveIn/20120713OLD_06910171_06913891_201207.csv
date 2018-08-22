@@ -1,0 +1,5 @@
+BATCH,,201207,B,3242.0000,
+INVOICE,IN,,06910171,,07/13/2012,3242.0000,"MoveIn-Smith. Leonna",,07/13/2012,07/13/2012,,06913891,3242.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,19,89.0000,1691,"L.Smith: Basic Service Fee - Deluxe: Smith. Leonna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,19,29.0000,551,"L.Smith: Resident Care - Level 2: Smith. Leonna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1000.0000,1000,"New Resident Fee: Smith. Leonna",,,,,,,,,,,,,,,

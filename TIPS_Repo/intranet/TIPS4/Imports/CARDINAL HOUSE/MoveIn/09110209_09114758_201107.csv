@@ -1,0 +1,5 @@
+BATCH,,201107,B,4320.0000,
+INVOICE,IN,,09110209,,07/12/2011,4320.0000,"MoveIn-Gibson. Glenn",,07/12/2011,07/12/2011,,09114758,4320.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,20,80.0000,1600,"Basic Service Fee - Studio         : Gibson. Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,20,36.0000,720,"Resident Care - Level 2: Gibson. Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Gibson. Glenn",,,,,,,,,,,,,,,

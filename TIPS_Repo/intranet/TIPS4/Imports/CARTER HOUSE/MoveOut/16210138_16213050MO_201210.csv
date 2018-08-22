@@ -1,0 +1,6 @@
+BATCH,,201210,B,2976.0000,
+INVOICE,IN,,16210138,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16213050MO,-3826.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,62.0000,62.00,"CR:Limited Term Di... G.Flax 201210: Flax, Gilbert",,,,,,,,,,,,,,,
+INVOICE,CM,,16210138,,10/01/2012,2914,"Invoice-Private",,10/01/2012,10/10/2012,,16213050MO,-3826.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2046,2046,"CR:Basic Service F... G.Flax 201210: Flax, Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,868,868,"CR:Resident Care -... G.Flax 201210: Flax, Gilbert",,,,,,,,,,,,,,,

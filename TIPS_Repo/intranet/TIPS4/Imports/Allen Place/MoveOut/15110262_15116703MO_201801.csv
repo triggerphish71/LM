@@ -1,0 +1,8 @@
+BATCH,,201801,B,8604.8000,
+INVOICE,IN,,15110262,,01/25/2018,3825.0000,"Invoice-Private",,01/25/2018,01/25/2018,,15116703MO,-5275.6000,,,,,,,,,,
+TRANSACTION,3020,010012151,25,119.0000,2975.00,"Basic Service Fee- One Bedroom Premium  for Jan: Stephenson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,25,34.0000,850.00,"Resident Care - Level 2  for Jan: Stephenson, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,15110262,,01/25/2018,4779.8,"Invoice-Private",,01/25/2018,01/25/2018,,15116703MO,-5275.6000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,3689,3689,"CR:Basic Service F... M.Stephenson 201801: Stephenson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.8,36.8,"CR:Monthly Cable... M.Stephenson 201801: Stephenson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,1054,1054,"CR:Resident Care -... M.Stephenson 201801: Stephenson, Martha",,,,,,,,,,,,,,,

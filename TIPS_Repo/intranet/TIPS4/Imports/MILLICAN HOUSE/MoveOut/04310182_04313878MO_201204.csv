@@ -1,0 +1,5 @@
+BATCH,,201204,B,1020.0000,
+INVOICE,IN,,04310182,,04/01/2012,510.0000,"Invoice-Private",,04/01/2012,04/10/2012,,04313878MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,17.0000,510.00,"Credit for Limited Term Discount: Reedy, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,04310182,,04/01/2012,510,"Invoice-Private",,04/01/2012,04/10/2012,,04313878MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,17,510,"Limited Term Discount: Reedy, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,360.0000,
+INVOICE,IN,,17510261,,11/01/2012,180.0000,"Invoice-Private",,11/01/2012,11/10/2012,,17517745MO,-2066.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,6.0000,180.00,"Credit for Limited Term Discount: Berry, Haskell",,,,,,,,,,,,,,,
+INVOICE,CM,,17510261,,11/01/2012,180,"Invoice-Private",,11/01/2012,11/10/2012,,17517745MO,-2066.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,6,180,"Limited Term Discount: Berry, Haskell",,,,,,,,,,,,,,,

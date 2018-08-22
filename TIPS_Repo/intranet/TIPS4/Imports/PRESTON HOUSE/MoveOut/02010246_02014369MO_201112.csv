@@ -1,0 +1,8 @@
+BATCH,,201112,B,7077.0000,
+INVOICE,IN,,02010246,,12/12/2011,1968.0000,"Invoice-Private",,12/12/2011,12/12/2011,,02014369MO,-3141.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,12,103.0000,1236.00,"Basic Service Fee - One Bedroom for Dec: Nurre, Jerre",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,12,61.0000,732.00,"Resident Care - Level 5 for Dec: Nurre, Jerre",,,,,,,,,,,,,,,
+INVOICE,CM,,02010246,,12/12/2011,5109,"Invoice-Private",,12/12/2011,12/12/2011,,02014369MO,-3141.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,3193,3193,"CR:Basic Service F... J.Nurre 201112: Nurre, Jerre",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... J.Nurre 201112: Nurre, Jerre",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,1891,1891,"CR:Resident Care -... J.Nurre 201112: Nurre, Jerre",,,,,,,,,,,,,,,

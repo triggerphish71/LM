@@ -1,0 +1,5 @@
+BATCH,,201111,B,2987.0000,
+INVOICE,IN,,04510237,,11/11/2011,2987.0000,"MoveIn-Roberds. Walter",,11/11/2011,11/11/2011,,04513757,2987.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,20,73.0000,1460,"Basic Service Fee - Studio         : Roberds. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Roberds. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Roberds. Walter",,,,,,,,,,,,,,,

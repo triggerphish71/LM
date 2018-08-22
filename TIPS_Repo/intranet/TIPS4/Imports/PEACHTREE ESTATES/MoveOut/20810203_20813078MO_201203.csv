@@ -1,0 +1,7 @@
+BATCH,,201203,B,3600.0000,
+INVOICE,IN,,20810203,,03/04/2012,500.0000,"Invoice-Private",,03/04/2012,03/04/2012,,20813078MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,5,22.0000,110.00,"Resident Care - Level 2 for Mar: Fry, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,5,78.0000,390.00,"Studio for Mar: Fry, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,20810203,,03/04/2012,3100,"Invoice-Private",,03/04/2012,03/04/2012,,20813078MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,682,682,"CR:Resident Care -... H.Fry 201203: Fry, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... H.Fry 201203: Fry, Harry",,,,,,,,,,,,,,,

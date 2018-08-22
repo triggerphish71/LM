@@ -1,0 +1,6 @@
+BATCH,,201306,B,2969.6000,
+INVOICE,IN,,05310306,,06/19/2013,2969.6000,"MoveIn-Klein. John",,06/19/2013,06/19/2013,,05315098,8018.1500,,,,,,,,,,
+TRANSACTION,3010,010101053,12,101.0000,1212,"Basic Service Fee - Deluxe: Klein. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,12,61.0500,732.6,"Resident Care - Level 33: Klein. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Klein. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,1000.0000,1000,"New Resident Fee: Klein. John",,,,,,,,,,,,,,,

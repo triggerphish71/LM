@@ -1,0 +1,6 @@
+BATCH,,201208,B,4948.0000,
+INVOICE,IN,,04410250,,08/01/2012,2313.0000,"Invoice-Private",,08/01/2012,08/10/2012,,04414736MO,-322.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,1,868.0000,868.00,"CR:Limited Term Di... J.Davis 201208: Davis, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202044,17,85.0000,1445.00,"Basic Service Fee - Studio for Aug: Davis, John",,,,,,,,,,,,,,,
+INVOICE,CM,,04410250,,08/01/2012,2635,"Invoice-Private",,08/01/2012,08/10/2012,,04414736MO,-322.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... J.Davis 201208: Davis, John",,,,,,,,,,,,,,,

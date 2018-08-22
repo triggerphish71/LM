@@ -1,0 +1,8 @@
+BATCH,,201107,B,6182.0000,
+INVOICE,IN,,50210125,,07/01/2011,2096.0000,"Invoice-Private",,07/01/2011,07/10/2011,,50213036MO,-1990.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,16,117.0000,1872.00,"Basic Service Fee - One Bedroom Deluxe for Jul: Craney, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,16,14.0000,224.00,"Resident Care - Level 1 for Jul: Craney, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,50210125,,07/01/2011,4086,"Invoice-Private",,07/01/2011,07/10/2011,,50213036MO,-1990.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3627,3627,"CR:Basic Service F... B.Craney 201107: Craney, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... B.Craney 201107: Craney, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,434,434,"CR:Resident Care -... B.Craney 201107: Craney, Betty",,,,,,,,,,,,,,,

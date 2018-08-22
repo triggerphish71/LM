@@ -1,0 +1,334 @@
+/*********************************************
+*            Navigation Classes              *
+*********************************************/
+table.navigation
+{
+	background-color:#999999;
+	width: 800px;
+}
+
+.administrationLink
+{
+	text-align: right;
+	width: 800px;
+}
+
+td.navigationNoLink
+{
+	background-color:#5A8AC6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	height:20px;
+	text-decoration:none;
+}
+
+td.navigation
+{
+	background-color:#5A8AC6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	height:20px;
+	text-decoration:underLine;
+}
+
+td.navigationOver
+{
+	background-color:#FFCC00;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	height:20px;
+	cursor: hand;
+	text-decoration:underline;
+}
+/*********************************************
+*          Sub Navigation Classes            *
+*********************************************/
+
+div.subNavigation
+{
+	position:absolute;
+	z-index:1;
+	visibility:hidden;
+}
+
+table.subNavigation
+{
+	background-color:#5A8AC6;
+	position:absolute;
+	z-index:1;
+	visibility:hidden;
+}
+
+td.subNavigation
+{
+	background-color:#CCCCCC;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	height:20px;
+	text-decoration:underline;
+}
+
+td.subNavigationOver
+{
+	background-color:#FFCC00;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	height:20px;
+	cursor: hand;
+	text-decoration:underline;
+}
+
+/*********************************************
+*               Header Classes               *
+*********************************************/
+a.header
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000084;
+	text-decoration:underline;
+}
+
+a.header:hover
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	color: #000084;
+	text-decoration:none;
+}
+
+.header
+{
+	color:#5A8AC6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;	
+}
+/*********************************************
+*          Assessment Main Classes           *
+*********************************************/
+.assessmentMain
+{
+	font-size:10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+table.assessmentMain
+{
+	background-color:#999999;
+	width: 800px;
+}
+
+th.assessmentMain
+{
+	color: #FFFFFF;
+	background-color: #FFCC00;
+	font-weight:bold;
+}
+
+td.assessmentMain
+{
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+input.assessmentMain
+{
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+select.assessmentMain
+{
+	color: #000000;
+	background-color: #FFFFFF;
+}
+
+td.assessmentMainOver
+{
+	background-color: #FFFFD2;
+}
+
+td.assessmentMainDark
+{
+	color: #000000;
+	background-color: #E3E3E3;
+}
+
+a.assessmentMain
+{
+	text-decoration:none;
+	text-decoration:underline;
+	font-size:11px;
+}
+
+.plusMinus
+{
+	width:10px;
+}
+
+.assessmentMainHeader
+{
+	color:#5A8AC6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+strong.assessmentMain
+{
+	color:#FF0000;
+	font-weight:bold;
+}
+.blackLine
+{
+	background-color:#000000;
+	height:1px;
+	width:100%;
+}
+
+a.breadcrumbs
+{
+	color:#5A8AC6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	text-decoration:none;
+}
+
+a.breadcrumbs:hover
+{
+	text-decoration:underline;
+}
+
+.serviceCategory
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #E3E3E3;
+	width: 800px;
+}
+
+.administration
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #E3E3E3;
+}
+
+.assessmentHeader
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	background-color: #E3E3E3;
+	width: 260x;
+}
+
+button.assessmentMain
+{
+	color:#5A8AC6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;	
+}
+
+.service
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	background-color: #ffffff;
+	width: 600px;
+}
+
+.serviceOption
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	background-color: #ffffff;
+	width: 110px;
+	vertical-align:top; 
+}
+
+.assessment
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	background-color: #ffffff;
+	vertical-align:top; 
+}
+.serviceText
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	background-color: #ffffff;
+	width: 600px;
+	vertical-align:top;
+}
+
+select
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+input
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+}
+
+.points
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #0000FF;
+	text-align: center;
+	width: 150px;
+	position: relative;
+	left: 650px;
+	background-color: #ffffff;
+	border: 1px solid #e3e3e3;
+	padding: 2px;
+}
+
+.highlight
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	background-color: #ffff00;
+	vertical-align:top; 
+}
+
+.error
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #FF0000;
+}
+
+.assessmentDirections
+{
+	font-size:12px;
+	font-family: Arial, Helvetica, sans-serif;
+	background-color: #ffffff;
+}

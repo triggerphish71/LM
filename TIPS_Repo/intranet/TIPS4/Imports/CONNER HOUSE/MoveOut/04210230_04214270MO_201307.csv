@@ -1,0 +1,7 @@
+BATCH,,201307,B,3672.0000,
+INVOICE,IN,,04210230,,07/01/2013,324.0000,"Invoice-Private",,07/01/2013,07/10/2013,,04214270MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3027,010202042,3,33.0000,99.00,"Resident Care - Level 2 for Jul: Stout, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,3,75.0000,225.00,"Room and Board - Studio for Jul: Stout, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,04210230,,07/01/2013,3348,"Invoice-Private",,07/01/2013,07/10/2013,,04214270MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1023,1023,"CR:Resident Care -... C.Stout 201307: Stout, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2325,2325,"CR:Room and Board ... C.Stout 201307: Stout, Clifford",,,,,,,,,,,,,,,

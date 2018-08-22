@@ -1,0 +1,7 @@
+BATCH,,201105,B,3550.3000,
+INVOICE,IN,,52310078,,05/01/2011,50.0000,"Invoice-Private",,05/01/2011,05/10/2011,,52311730MO,-3450.3000,,,,,,,,,,
+TRANSACTION,3150,010103523,1,50.0000,50.00,"Late Fee Adjustment: Talerico, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,52310078,,05/01/2011,3500.3,"Invoice-Private",,05/01/2011,05/10/2011,,52311730MO,-3450.3000,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2449,2449,"CR:Basic Service F... J.Talerico 201105: Talerico, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,1001.3,1001.3,"CR:Resident Care -... J.Talerico 201105: Talerico, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3150,010103523,1,50,50,"Late Fee Adjustment: Talerico, Jean",,,,,,,,,,,,,,,

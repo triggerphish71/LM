@@ -1,0 +1,5 @@
+BATCH,,201210,B,3038.3000,
+INVOICE,IN,,03910243,,10/15/2012,3038.3000,"MoveIn-Cole. Frank",,10/15/2012,10/15/2012,,03914584,3038.3000,,,,,,,,,,
+TRANSACTION,3010,010101039,17,102.0000,1734,"Basic Service Fee - One Bedroom: Cole. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,17,17.9000,304.3,"Resident Care - Level 10: Cole. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,1000.0000,1000,"New Resident Fee: Cole. Frank",,,,,,,,,,,,,,,

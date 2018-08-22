@@ -1,0 +1,5 @@
+BATCH,,201306,B,3928.0000,
+INVOICE,IN,,08610254,,06/07/2013,3928.0000,"MoveIn-Hall. Joey",,06/07/2013,06/07/2013,,08615310,3928.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,24,89.0000,2136,"Basic Service Fee - Studio: Hall. Joey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,24,33.0000,792,"Resident Care - Level 2: Hall. Joey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,1000.0000,1000,"New Resident Fee: Hall. Joey",,,,,,,,,,,,,,,

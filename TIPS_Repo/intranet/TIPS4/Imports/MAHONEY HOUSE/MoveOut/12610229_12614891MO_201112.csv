@@ -1,0 +1,7 @@
+BATCH,,201112,B,10638.0000,
+INVOICE,IN,,12610229,,12/23/2011,4531.0000,"Invoice-Private",,12/23/2011,12/23/2011,,12614891MO,-7745.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,23,114.0000,2622.00,"Basic Service Fee - One Bedroom for Dec: Schrader, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,23,83.0000,1909.00,"Resident Care - Level 6 for Dec: Schrader, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,12610229,,12/23/2011,6107,"Invoice-Private",,12/23/2011,12/23/2011,,12614891MO,-7745.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3534,3534,"CR:Basic Service F... D.Schrader 201112: Schrader, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,2573,2573,"CR:Resident Care -... D.Schrader 201112: Schrader, Doris",,,,,,,,,,,,,,,

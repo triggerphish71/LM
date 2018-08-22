@@ -1,0 +1,5 @@
+BATCH,,201306,B,3528.0000,
+INVOICE,IN,,02411325,,06/01/2013,588.0000,"Invoice-Private",,06/01/2013,06/10/2013,,02416183MO,-2352.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,6,98.0000,588.00,"Basic Service Fee - Studio for Jun: Wright, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,02411325,,06/01/2013,2940,"Invoice-Private",,06/01/2013,06/10/2013,,02416183MO,-2352.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2940,2940,"CR:Basic Service F... L.Wright 201306: Wright, Linda",,,,,,,,,,,,,,,

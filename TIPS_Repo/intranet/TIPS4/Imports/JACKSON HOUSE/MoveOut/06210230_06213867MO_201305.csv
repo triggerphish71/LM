@@ -1,0 +1,5 @@
+BATCH,,201305,B,4800.0000,
+INVOICE,IN,,06210230,,05/19/2013,1824.0000,"Invoice-Private",,05/19/2013,05/19/2013,,06213867MO,-4032.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,19,96.0000,1824.00,"Basic Service Fee - One Bedroom for May: Dreiszus, Alveriah",,,,,,,,,,,,,,,
+INVOICE,CM,,06210230,,05/19/2013,2976,"Invoice-Private",,05/19/2013,05/19/2013,,06213867MO,-4032.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2976,2976,"CR:Basic Service F... A.Dreiszus 201305: Dreiszus, Alveriah",,,,,,,,,,,,,,,

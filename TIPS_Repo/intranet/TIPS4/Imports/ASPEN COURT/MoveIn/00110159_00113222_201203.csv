@@ -1,0 +1,6 @@
+BATCH,,201203,B,1226.3800,
+INVOICE,IN,,00110159,,03/30/2012,1226.3800,"MoveIn-Hillman. Jean",,03/30/2012,03/30/2012,,00113222,4272.0800,,,,,,,,,,
+TRANSACTION,3010,010101001,2,81.0000,162,"J.Hillman: Basic Service Fee - One Bedroom: Hillman. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,2,19.6900,39.38,"J.Hillman: Resident Care - Level 11: Hillman. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Hillman. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Hillman. Jean",,,,,,,,,,,,,,,

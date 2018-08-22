@@ -1,0 +1,8 @@
+BATCH,,201207,B,3318.0000,
+INVOICE,IN,,19310360,,07/01/2012,94.0000,"Invoice-Private",,07/01/2012,07/01/2012,,19315290MO,-3130.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,25.0000,25.00,"Basic Service Fee - Second Resident for Jul: Homoki, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,69.0000,69.00,"Resident Care - Level 5 for Jul: Homoki, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,19310360,,07/01/2012,3224,"Invoice-Private",,07/01/2012,07/01/2012,,19315290MO,-3130.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,775,775,"CR:Basic Service F... K.Homoki 201207: Homoki, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... K.Homoki 201207: Homoki, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,2139,2139,"CR:Resident Care -... K.Homoki 201207: Homoki, Kathleen",,,,,,,,,,,,,,,

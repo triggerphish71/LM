@@ -1,0 +1,5 @@
+BATCH,,201211,B,4016.0900,
+INVOICE,IN,,03910245,,11/12/2012,4016.0900,"MoveIn-Haynes. Kay",,11/12/2012,11/12/2012,,03914605,4016.0900,,,,,,,,,,
+TRANSACTION,3010,010101039,19,90.0000,1710,"Basic Service Fee - Studio: Haynes. Kay",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,19,16.1100,306.09,"Resident Care - Level 9: Haynes. Kay",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Haynes. Kay",,,,,,,,,,,,,,,

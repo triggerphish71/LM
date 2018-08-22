@@ -1,0 +1,7 @@
+BATCH,,201204,B,174.0000,
+INVOICE,IN,,15310172,,04/01/2012,87.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15315937MO,-5149.0400,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Larsen, Fyrn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103153,30,2.0000,60.00,"Credit for Limited Term Discount: Larsen, Fyrn",,,,,,,,,,,,,,,
+INVOICE,CM,,15310172,,04/01/2012,87,"Invoice-Private",,04/01/2012,04/10/2012,,15315937MO,-5149.0400,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Larsen, Fyrn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103153,30,2,60,"Limited Term Discount: Larsen, Fyrn",,,,,,,,,,,,,,,

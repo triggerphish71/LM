@@ -1,0 +1,5 @@
+BATCH,,201112,B,4477.0000,
+INVOICE,IN,,01010167,,12/02/2011,4477.0000,"MoveIn-Hockett. CA",,12/02/2011,12/02/2011,,01012754,4477.0000,,,,,,,,,,
+TRANSACTION,3010,010101010,30,98.0000,2940,"Basic Service Fee - One Bedroom: Hockett. CA",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101010,30,17.9000,537,"Resident Care - Level 10: Hockett. CA",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,1000.0000,1000,"New Resident Fee: Hockett. CA",,,,,,,,,,,,,,,

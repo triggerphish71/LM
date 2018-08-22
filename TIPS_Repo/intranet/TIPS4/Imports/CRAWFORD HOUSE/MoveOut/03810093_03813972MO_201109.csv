@@ -1,0 +1,5 @@
+BATCH,,201109,B,1823.2000,
+INVOICE,CM,,03810093,,09/01/2011,1823.2,"Invoice-Medicaid",,09/01/2011,09/10/2011,,03813972MO,-2806.6700,,,,,,,,,,
+TRANSACTION,3021,010103038,1,959.21,959.21,"CR:Medicaid Co-Pay... A.Lomen 201109: Lomen, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... A.Lomen 201109: Lomen, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103038,1,838.99,838.99,"CR:State Medicaid... A.Lomen 201109: Lomen, Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201111,B,3795.0000,
+INVOICE,IN,,16810383,,11/11/2011,3795.0000,"MoveIn-Ross, Sr.. Robert",,11/11/2011,11/11/2011,,16816056,3795.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,20,88.0000,1760,"Basic Service Fee - Efficiency: Ross, Sr.. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,20,13.0000,260,"Resident Care - Level 1: Ross, Sr.. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Ross, Sr.. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Ross, Sr.. Robert",,,,,,,,,,,,,,,

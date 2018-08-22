@@ -1,0 +1,6 @@
+BATCH,,201201,B,6918.0000,
+INVOICE,IN,,07710145,,01/30/2012,3390.0000,"Invoice-Private",,01/30/2012,01/30/2012,,07714136MO,-3415.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,30,113.0000,3390.00,"Basic Service Fee - One Bedroom for Jan: Dobbins, Yvonne",,,,,,,,,,,,,,,
+INVOICE,CM,,07710145,,01/30/2012,3528,"Invoice-Private",,01/30/2012,01/30/2012,,07714136MO,-3415.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,3503,3503,"CR:Basic Service F... Y.Dobbins 201201: Dobbins, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... Y.Dobbins 201201: Dobbins, Yvonne",,,,,,,,,,,,,,,

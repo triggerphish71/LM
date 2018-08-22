@@ -1,0 +1,5 @@
+BATCH,,201105,B,3108.0000,
+INVOICE,IN,,53410389,,05/06/2011,504.0000,"Invoice-Private",,05/06/2011,05/06/2011,,53419072MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,6,84.0000,504.00,"Basic Service Fee - Two Bedroom for May: Greenwood, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,53410389,,05/06/2011,2604,"Invoice-Private",,05/06/2011,05/06/2011,,53419072MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2604,2604,"CR:Basic Service F... N.Greenwood 201105: Greenwood, Nora",,,,,,,,,,,,,,,

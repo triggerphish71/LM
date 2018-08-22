@@ -1,0 +1,5 @@
+BATCH,,201208,B,3210.0000,
+INVOICE,IN,,20210205,,08/17/2012,3210.0000,"MoveIn-Smith. Ralph",,08/17/2012,08/17/2012,,20212673,6630.0000,,,,,,,,,,
+TRANSACTION,3010,010216202,15,83.0000,1245,"Studio: Smith. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216202,15,31.0000,465,"Resident Care - Level 3: Smith. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216202,1,1500.0000,1500,"New Resident Fee: Smith. Ralph",,,,,,,,,,,,,,,

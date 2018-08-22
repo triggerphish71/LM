@@ -1,0 +1,7 @@
+BATCH,,201201,B,7625.0000,
+INVOICE,IN,,21210166,,01/30/2012,3750.0000,"Invoice-Private",,01/30/2012,01/30/2012,,21212304MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,30,33.0000,990.00,"Resident Care - Level 3 for Jan: Williams, Janie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,30,92.0000,2760.00,"Studio Deluxe for Jan: Williams, Janie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210166,,01/30/2012,3875,"Invoice-Private",,01/30/2012,01/30/2012,,21212304MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1023,1023,"CR:Resident Care -... J.Williams 201201: Williams, Janie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2852,2852,"CR:Studio Deluxe... J.Williams 201201: Williams, Janie",,,,,,,,,,,,,,,

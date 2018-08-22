@@ -1,0 +1,5 @@
+BATCH,,201211,B,1626.0000,
+INVOICE,IN,,04410275,,11/30/2012,1626.0000,"MoveIn-Stone. Margaret",,11/30/2012,11/30/2012,,04414867,5282.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,1,101.0000,101,"Basic Service Fee - One Bedroom: Stone. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Stone. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Stone. Margaret",,,,,,,,,,,,,,,

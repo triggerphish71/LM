@@ -1,0 +1,7 @@
+BATCH,,201209,B,4662.0000,
+INVOICE,IN,,09210130,,09/01/2012,882.0000,"Invoice-Private",,09/01/2012,09/01/2012,,09214904MO,-2898.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,7,78.0000,546.00,"Basic Service Fee - Studio for Sep: RandallChambers, Nel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,7,48.0000,336.00,"Resident Care - Level 3 for Sep: RandallChambers, Nel",,,,,,,,,,,,,,,
+INVOICE,CM,,09210130,,09/01/2012,3780,"Invoice-Private",,09/01/2012,09/01/2012,,09214904MO,-2898.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2340,2340,"CR:Basic Service F... N.RandallChambers 201209: RandallChambers, Nel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,1440,1440,"CR:Resident Care -... N.RandallChambers 201209: RandallChambers, Nel",,,,,,,,,,,,,,,

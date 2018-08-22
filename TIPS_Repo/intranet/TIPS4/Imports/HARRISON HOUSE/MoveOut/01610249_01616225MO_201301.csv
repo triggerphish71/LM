@@ -1,0 +1,8 @@
+BATCH,,201301,B,8440.0000,
+INVOICE,IN,,01610249,,01/20/2013,3300.0000,"Invoice-Private",,01/20/2013,01/20/2013,,01616225MO,-6485.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,20,86.0000,1720.00,"Basic Service Fee - Studio for Jan: Cartwright, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,20,79.0000,1580.00,"Resident Care - Level 6 for Jan: Cartwright, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,01610249,,01/20/2013,5140,"Invoice-Private",,01/20/2013,01/20/2013,,01616225MO,-6485.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... D.Cartwright 201301: Cartwright, Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... D.Cartwright 201301: Cartwright, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,2449,2449,"CR:Resident Care -... D.Cartwright 201301: Cartwright, Don",,,,,,,,,,,,,,,

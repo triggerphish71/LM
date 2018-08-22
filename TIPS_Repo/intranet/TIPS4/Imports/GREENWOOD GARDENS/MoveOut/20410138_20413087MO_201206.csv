@@ -1,0 +1,8 @@
+BATCH,,201206,B,6786.0000,
+INVOICE,IN,,20410138,,06/29/2012,3366.0000,"Invoice-Private",,06/29/2012,06/29/2012,,20413087MO,-3526.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,60.0000,60.00,"CR:Limited Term Di... B.King 201206: King, Barbara (Bobbie)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,29,32.0000,928.00,"Resident Care - Level 3 for Jun: King, Barbara (Bobbie)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,29,82.0000,2378.00,"Room and Board - Studio for Jun: King, Barbara (Bobbie)",,,,,,,,,,,,,,,
+INVOICE,CM,,20410138,,06/29/2012,3420,"Invoice-Private",,06/29/2012,06/29/2012,,20413087MO,-3526.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,960,960,"CR:Resident Care -... B.King 201206: King, Barbara (Bobbie)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Room and Board ... B.King 201206: King, Barbara (Bobbie)",,,,,,,,,,,,,,,

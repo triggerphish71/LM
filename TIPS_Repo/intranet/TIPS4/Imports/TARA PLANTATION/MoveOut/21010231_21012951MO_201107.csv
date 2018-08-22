@@ -1,0 +1,5 @@
+BATCH,,201107,B,1860.0000,
+INVOICE,IN,,21010231,,07/01/2011,930.0000,"Invoice-Private",,07/01/2011,07/10/2011,,21012951MO,-810.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,31,30.0000,930.00,"Credit for Limited Term Discount: Turner, William",,,,,,,,,,,,,,,
+INVOICE,CM,,21010231,,07/01/2011,930,"Invoice-Private",,07/01/2011,07/10/2011,,21012951MO,-810.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,31,30,930,"Limited Term Discount: Turner, William",,,,,,,,,,,,,,,

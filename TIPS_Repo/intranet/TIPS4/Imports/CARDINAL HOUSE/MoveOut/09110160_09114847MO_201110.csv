@@ -1,0 +1,5 @@
+BATCH,,201110,B,930.0000,
+INVOICE,IN,,09110160,,10/01/2011,465.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09114847MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,31,15.0000,465.00,"Credit for Limited Term Discount: Lambert, Willovene",,,,,,,,,,,,,,,
+INVOICE,CM,,09110160,,10/01/2011,465,"Invoice-Private",,10/01/2011,10/10/2011,,09114847MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,31,15,465,"Limited Term Discount: Lambert, Willovene",,,,,,,,,,,,,,,

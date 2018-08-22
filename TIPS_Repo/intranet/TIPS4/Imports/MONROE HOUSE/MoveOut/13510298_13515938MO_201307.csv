@@ -1,0 +1,6 @@
+BATCH,,201307,B,2680.0000,
+INVOICE,IN,,13510298,,07/22/2013,1100.0000,"Invoice-Private",,07/22/2013,07/22/2013,,13515938MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,22,50.0000,1100.00,"Basic Service Fee - Studio for Jul: Conklin, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,13510298,,07/22/2013,1580,"Invoice-Private",,07/22/2013,07/22/2013,,13515938MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1550,1550,"CR:Basic Service F... R.Conklin 201307: Conklin, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... R.Conklin 201307: Conklin, Ruth",,,,,,,,,,,,,,,

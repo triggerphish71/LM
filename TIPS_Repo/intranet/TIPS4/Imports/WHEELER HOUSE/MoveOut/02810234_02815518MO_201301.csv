@@ -1,0 +1,5 @@
+BATCH,,201301,B,2666.0000,
+INVOICE,IN,,02810234,,01/01/2013,1333.0000,"Invoice-Private",,01/01/2013,01/10/2013,,02815518MO,-4509.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,31,43.0000,1333.00,"Credit for Limited Term Discount: Harrell, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,02810234,,01/01/2013,1333,"Invoice-Private",,01/01/2013,01/10/2013,,02815518MO,-4509.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,31,43,1333,"Limited Term Discount: Harrell, Jerry",,,,,,,,,,,,,,,

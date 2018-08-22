@@ -1,0 +1,7 @@
+BATCH,,201202,B,8721.0000,
+INVOICE,IN,,11810182,,02/01/2012,3762.0000,"Invoice-Private",,02/01/2012,02/10/2012,,11815181MO,-1197.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,22,100.0000,2200.00,"Basic Service Fee - Studio for Feb: Fleming, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,22,71.0000,1562.00,"Resident Care - Level 5 for Feb: Fleming, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,11810182,,02/01/2012,4959,"Invoice-Private",,02/01/2012,02/10/2012,,11815181MO,-1197.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2900,2900,"CR:Basic Service F... D.Fleming 201202: Fleming, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,2059,2059,"CR:Resident Care -... D.Fleming 201202: Fleming, Donald",,,,,,,,,,,,,,,

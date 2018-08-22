@@ -1,0 +1,6 @@
+BATCH,,201108,B,3212.0000,
+INVOICE,IN,,01910138,,08/01/2011,364.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01914494MO,-2484.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,4,91.0000,364.00,"Basic Service Fee - Studio for Aug: Jones, Franchelle",,,,,,,,,,,,,,,
+INVOICE,CM,,01910138,,08/01/2011,2848,"Invoice-Private",,08/01/2011,08/10/2011,,01914494MO,-2484.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2821,2821,"CR:Basic Service F... F.Jones 201108: Jones, Franchelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"CR:Monthly Cable... F.Jones 201108: Jones, Franchelle",,,,,,,,,,,,,,,

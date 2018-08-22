@@ -1,0 +1,7 @@
+BATCH,,201301,B,3160.0000,
+INVOICE,IN,,00810259,,01/09/2013,711.0000,"Invoice-Private",,01/09/2013,01/09/2013,,00814935MO,-1738.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,9,37.0000,333.00,"Basic Service Fee - Second Resident for Jan: Nelson, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,9,42.0000,378.00,"Resident Care - Level 3 for Jan: Nelson, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,00810259,,01/09/2013,2449,"Invoice-Private",,01/09/2013,01/09/2013,,00814935MO,-1738.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,1147,1147,"CR:Basic Service F... M.Nelson 201301: Nelson, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,1302,1302,"CR:Resident Care -... M.Nelson 201301: Nelson, Marie",,,,,,,,,,,,,,,

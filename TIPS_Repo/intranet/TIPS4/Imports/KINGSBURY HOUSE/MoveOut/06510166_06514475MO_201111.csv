@@ -1,0 +1,8 @@
+BATCH,,201111,B,6903.0000,
+INVOICE,IN,,06510166,,11/19/2011,3393.0000,"Invoice-Private",,11/19/2011,11/19/2011,,06514475MO,-2535.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1170.0000,1170.00,"CR:Limited Term Di... B.Lulfs 201111: Lulfs, Bernita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,19,99.0000,1881.00,"Basic Service Fee - Studio for Nov: Lulfs, Bernita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,19,18.0000,342.00,"Resident Care - Level 1 for Nov: Lulfs, Bernita",,,,,,,,,,,,,,,
+INVOICE,CM,,06510166,,11/19/2011,3510,"Invoice-Private",,11/19/2011,11/19/2011,,06514475MO,-2535.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2970,2970,"CR:Basic Service F... B.Lulfs 201111: Lulfs, Bernita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,540,540,"CR:Resident Care -... B.Lulfs 201111: Lulfs, Bernita",,,,,,,,,,,,,,,

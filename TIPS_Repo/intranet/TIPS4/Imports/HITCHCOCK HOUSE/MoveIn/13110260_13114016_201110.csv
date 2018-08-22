@@ -1,0 +1,5 @@
+BATCH,,201110,B,5050.0000,
+INVOICE,IN,,13110260,,10/05/2011,5050.0000,"MoveIn-Gregorieff. Gertrude",,10/05/2011,10/05/2011,,13114016,5050.0000,,,,,,,,,,
+TRANSACTION,3010,010308131,27,97.0000,2619,"G.Gregorieff: Basic Service Fee - Studio: Gregorieff. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308131,27,53.0000,1431,"G.Gregorieff: Resident Care - Level 4: Gregorieff. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1000.0000,1000,"New Resident Fee: Gregorieff. Gertrude",,,,,,,,,,,,,,,

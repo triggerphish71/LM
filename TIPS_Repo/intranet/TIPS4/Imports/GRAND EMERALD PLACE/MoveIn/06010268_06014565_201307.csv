@@ -1,0 +1,5 @@
+BATCH,,201307,B,1840.0000,
+INVOICE,IN,,06010268,,07/11/2013,1840.0000,"MoveIn-Sheets. Mike",,07/11/2013,07/11/2013,,06014565,1840.0000,,,,,,,,,,
+TRANSACTION,3010,010206060,21,50.0000,1050,"Basic Service Fee - Studio: Sheets. Mike",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40,"Monthly Cable: Sheets. Mike",,,,,,,,,,,,,,,
+TRANSACTION,3216,010206060,1,750.0000,750,"New Resident Fee: Sheets. Mike",,,,,,,,,,,,,,,

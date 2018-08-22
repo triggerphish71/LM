@@ -1,0 +1,8 @@
+BATCH,,201806,B,9136.0000,
+INVOICE,IN,,11210168,,06/25/2018,4816.0000,"Invoice-Private",,06/25/2018,06/25/2018,,11220305MO,496.0000,,,,,,,,,,
+TRANSACTION,3017,010010112,6,23.0000,138.00,"Level: 1 : Pugliese, Lena",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010112,19,87.0000,1653.00," Level: 4 : Pugliese, Lena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010010112,25,121.0000,3025.00,"Basic Service Fee - Studio for Jun: Pugliese, Lena",,,,,,,,,,,,,,,
+INVOICE,CM,,11210168,,06/25/2018,4320,"Invoice-Private",,06/25/2018,06/25/2018,,11220305MO,496.0000,,,,,,,,,,
+TRANSACTION,3020,010010112,1,3630,3630,"CR:Basic Service F... L.Pugliese 201806: Pugliese, Lena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010112,1,690,690,"CR:Resident Care -... L.Pugliese 201806: Pugliese, Lena",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201108,B,4592.0000,
+INVOICE,IN,,07310210,,08/05/2011,635.0000,"Invoice-Private",,08/05/2011,08/05/2011,,07315191MO,-3322.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,5,33.0000,165.00,"Resident Care - Level 2 for Aug: Shellabarger, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,5,94.0000,470.00,"Room and Board - Studio for Aug: Shellabarger, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,07310210,,08/05/2011,3957,"Invoice-Private",,08/05/2011,08/05/2011,,07315191MO,-3322.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... R.Shellabarger 201108: Shellabarger, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1023,1023,"CR:Resident Care -... R.Shellabarger 201108: Shellabarger, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2914,2914,"CR:Room and Board ... R.Shellabarger 201108: Shellabarger, Robert",,,,,,,,,,,,,,,

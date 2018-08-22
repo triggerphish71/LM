@@ -1,0 +1,5 @@
+BATCH,,201108,B,1950.0000,
+INVOICE,IN,,50110245,,08/27/2011,1950.0000,"MoveIn-Witherspoon. Marie",,08/27/2011,08/27/2011,,50113666,4500.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,5,84.0000,420,"Basic Service Fee - Studio: Witherspoon. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Witherspoon. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Witherspoon. Marie",,,,,,,,,,,,,,,

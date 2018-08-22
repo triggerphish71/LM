@@ -1,0 +1,8 @@
+BATCH,,201106,B,6351.0000,
+INVOICE,IN,,03110298,,06/01/2011,2604.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03116172MO,-1143.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,21,95.0000,1995.00,"Basic Service Fee - Studio for Jun: Barnett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,21,29.0000,609.00,"Resident Care - Level 2 for Jun: Barnett, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03110298,,06/01/2011,3747,"Invoice-Private",,06/01/2011,06/10/2011,,03116172MO,-1143.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2850,2850,"CR:Basic Service F... B.Barnett 201106: Barnett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... B.Barnett 201106: Barnett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,870,870,"CR:Resident Care -... B.Barnett 201106: Barnett, Betty",,,,,,,,,,,,,,,

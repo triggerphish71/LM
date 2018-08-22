@@ -1,0 +1,7 @@
+BATCH,,201111,B,918.0000,
+INVOICE,IN,,04210192,,11/01/2011,459.0000,"Invoice-Private",,11/01/2011,11/10/2011,,04213812MO,-1560.6000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Allen, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3316,010202042,30,14.4000,432.00,"Credit for Employee Discount: Allen, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,04210192,,11/01/2011,459,"Invoice-Private",,11/01/2011,11/10/2011,,04213812MO,-1560.6000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Allen, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3316,010202042,30,14.4,432,"Employee Discount: Allen, Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,682.0000,
+INVOICE,IN,,02910265,,12/01/2012,341.0000,"Invoice-Private",,12/01/2012,12/10/2012,,02915811MO,-5841.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,11.0000,341.00,"Credit for Limited Term Discount: Bales, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,02910265,,12/01/2012,341,"Invoice-Private",,12/01/2012,12/10/2012,,02915811MO,-5841.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,11,341,"Limited Term Discount: Bales, Wanda",,,,,,,,,,,,,,,

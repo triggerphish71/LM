@@ -1,0 +1,6 @@
+BATCH,,201112,B,4836.0000,
+INVOICE,IN,,06510166,,12/01/2011,1209.0000,"Invoice-Private",,12/01/2011,12/10/2011,,06514475MO,-2535.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1209.0000,1209.00,"CR:Limited Term Di... B.Lulfs 201112: Lulfs, Bernita",,,,,,,,,,,,,,,
+INVOICE,CM,,06510166,,12/01/2011,3627,"Invoice-Private",,12/01/2011,12/10/2011,,06514475MO,-2535.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3069,3069,"CR:Basic Service F... B.Lulfs 201112: Lulfs, Bernita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,558,558,"CR:Resident Care -... B.Lulfs 201112: Lulfs, Bernita",,,,,,,,,,,,,,,

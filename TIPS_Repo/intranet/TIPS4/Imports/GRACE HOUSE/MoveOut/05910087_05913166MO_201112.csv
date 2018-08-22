@@ -1,0 +1,5 @@
+BATCH,,201112,B,744.0000,
+INVOICE,IN,,05910087,,12/01/2011,372.0000,"Invoice-Private",,12/01/2011,12/10/2011,,05913166MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010101059,31,12.0000,372.00,"Credit for Limited Term Discount: Courser, Diane",,,,,,,,,,,,,,,
+INVOICE,CM,,05910087,,12/01/2011,372,"Invoice-Private",,12/01/2011,12/10/2011,,05913166MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010101059,31,12,372,"Limited Term Discount: Courser, Diane",,,,,,,,,,,,,,,

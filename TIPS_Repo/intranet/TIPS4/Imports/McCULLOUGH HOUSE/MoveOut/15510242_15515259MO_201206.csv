@@ -1,0 +1,8 @@
+BATCH,,201206,B,6115.0000,
+INVOICE,IN,,15510242,,06/01/2012,2940.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15515259MO,-235.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,28,89.0000,2492.00,"Basic Service Fee - Studio for Jun: Kuchenbrod, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,28,16.0000,448.00,"Resident Care - Level 1 for Jun: Kuchenbrod, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,15510242,,06/01/2012,3175,"Invoice-Private",,06/01/2012,06/10/2012,,15515259MO,-235.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2670,2670,"CR:Basic Service F... R.Kuchenbrod 201206: Kuchenbrod, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... R.Kuchenbrod 201206: Kuchenbrod, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,480,480,"CR:Resident Care -... R.Kuchenbrod 201206: Kuchenbrod, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201110,B,8204.0000,
+INVOICE,IN,,14510231,,10/01/2011,2717.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14515157MO,-2770.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,62.0000,62.00,"CR:Limited Term Di... D.Marion 201110: Marion, Doris H",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,15,95.0000,1425.00,"Basic Service Fee - Studio for Oct: Marion, Doris H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,15,82.0000,1230.00,"Resident Care - Level 6 for Oct: Marion, Doris H",,,,,,,,,,,,,,,
+INVOICE,CM,,14510231,,10/01/2011,5487,"Invoice-Private",,10/01/2011,10/10/2011,,14515157MO,-2770.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2945,2945,"CR:Basic Service F... D.Marion 201110: Marion, Doris H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2542,2542,"CR:Resident Care -... D.Marion 201110: Marion, Doris H",,,,,,,,,,,,,,,

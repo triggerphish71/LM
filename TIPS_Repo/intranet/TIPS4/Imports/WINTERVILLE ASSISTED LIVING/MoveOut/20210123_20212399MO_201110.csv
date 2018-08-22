@@ -1,0 +1,7 @@
+BATCH,,201110,B,5187.0000,
+INVOICE,IN,,20210123,,10/26/2011,2366.0000,"Invoice-Private",,10/26/2011,10/26/2011,,20212399MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,26,80.0000,2080.00,"Basic Service Fee - Studio for Oct: Taylor, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,26,11.0000,286.00,"Resident Care - Level 1 for Oct: Taylor, Donnie",,,,,,,,,,,,,,,
+INVOICE,CM,,20210123,,10/26/2011,2821,"Invoice-Private",,10/26/2011,10/26/2011,,20212399MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Basic Service F... D.Taylor 201110: Taylor, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... D.Taylor 201110: Taylor, Donnie",,,,,,,,,,,,,,,

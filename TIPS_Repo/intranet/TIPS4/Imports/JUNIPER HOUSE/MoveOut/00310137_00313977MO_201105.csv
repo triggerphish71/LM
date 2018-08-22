@@ -1,0 +1,8 @@
+BATCH,,201105,B,4211.7000,
+INVOICE,IN,,00310137,,05/06/2011,678.6000,"Invoice-Private",,05/06/2011,05/06/2011,,00313977MO,-2854.5000,,,,,,,,,,
+TRANSACTION,3020,010101003,6,91.0000,546.00,"Basic Service Fee - One Bedroom for May: Bonbright, LaVelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,6,22.1000,132.60,"Resident Care - Level 13 for May: Bonbright, LaVelle",,,,,,,,,,,,,,,
+INVOICE,CM,,00310137,,05/06/2011,3533.1,"Invoice-Private",,05/06/2011,05/06/2011,,00313977MO,-2854.5000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2821,2821,"CR:Basic Service F... L.Bonbright 201105: Bonbright, LaVelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... L.Bonbright 201105: Bonbright, LaVelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,685.1,685.1,"CR:Resident Care -... L.Bonbright 201105: Bonbright, LaVelle",,,,,,,,,,,,,,,

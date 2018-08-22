@@ -1,0 +1,5 @@
+BATCH,,201108,B,4893.0000,
+INVOICE,IN,,06510174,,08/03/2011,4893.0000,"MoveIn-Keller. Valera",,08/03/2011,08/03/2011,,06514370,4893.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,29,99.0000,2871,"Basic Service Fee - Studio         : Keller. Valera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,29,18.0000,522,"Resident Care - Level 1: Keller. Valera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305065,1,1500.0000,1500,"New Resident Fee: Keller. Valera",,,,,,,,,,,,,,,

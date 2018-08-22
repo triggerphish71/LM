@@ -1,0 +1,5 @@
+BATCH,,201109,B,300.0000,
+INVOICE,IN,,20610139,,09/01/2011,150.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20612265MO,-1609.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,30,5.0000,150.00,"Credit for Limited Term Discount: Bland, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20610139,,09/01/2011,150,"Invoice-Private",,09/01/2011,09/10/2011,,20612265MO,-1609.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,30,5,150,"Limited Term Discount: Bland, James",,,,,,,,,,,,,,,

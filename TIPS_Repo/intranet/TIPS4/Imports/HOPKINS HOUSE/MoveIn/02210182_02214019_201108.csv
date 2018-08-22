@@ -1,0 +1,5 @@
+BATCH,,201108,B,3094.0000,
+INVOICE,IN,,02210182,,08/01/2011,3094.0000,"August_Rent-Eagle. Pat",,08/01/2011,08/10/2011,,02214019,6802.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,31,82.0000,2542,"P.Eagle: Basic Service Fee - Studio: Eagle. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,31,17.0000,527,"P.Eagle: Resident Care - Level 1: Eagle. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Eagle. Pat",,,,,,,,,,,,,,,

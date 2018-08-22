@@ -1,0 +1,8 @@
+BATCH,,201205,B,6529.0000,
+INVOICE,IN,,04110200,,05/29/2012,3460.0000,"Invoice-Private",,05/29/2012,05/29/2012,,04114402MO,-2009.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,589.0000,589.00,"CR:Limited Term Di... L.Musgrove 201205: Musgrove, LaDell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,29,82.0000,2378.00,"Basic Service Fee - Studio for May: Musgrove, LaDell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,29,17.0000,493.00,"Resident Care - Level 1 for May: Musgrove, LaDell",,,,,,,,,,,,,,,
+INVOICE,CM,,04110200,,05/29/2012,3069,"Invoice-Private",,05/29/2012,05/29/2012,,04114402MO,-2009.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... L.Musgrove 201205: Musgrove, LaDell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... L.Musgrove 201205: Musgrove, LaDell",,,,,,,,,,,,,,,

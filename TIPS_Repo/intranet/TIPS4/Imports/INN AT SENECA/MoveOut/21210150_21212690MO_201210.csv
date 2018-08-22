@@ -1,0 +1,5 @@
+BATCH,,201210,B,868.0000,
+INVOICE,IN,,21210150,,10/01/2012,434.0000,"Invoice-Private",,10/01/2012,10/10/2012,,21212690MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,14.0000,434.00,"Credit for Limited Term Discount: Goff, Valmarie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210150,,10/01/2012,434,"Invoice-Private",,10/01/2012,10/10/2012,,21212690MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,14,434,"Limited Term Discount: Goff, Valmarie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,4500.0000,
+INVOICE,IN,,20810213,,11/20/2011,1800.0000,"Invoice-Private",,11/20/2011,11/20/2011,,20812877MO,-3690.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,20,11.0000,220.00,"Resident Care - Level 1 for Nov: Putnam, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,20,79.0000,1580.00,"Studio Deluxe for Nov: Putnam, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,20810213,,11/20/2011,2700,"Invoice-Private",,11/20/2011,11/20/2011,,20812877MO,-3690.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,330,330,"CR:Resident Care -... R.Putnam 201111: Putnam, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2370,2370,"CR:Studio Deluxe... R.Putnam 201111: Putnam, Ruth",,,,,,,,,,,,,,,

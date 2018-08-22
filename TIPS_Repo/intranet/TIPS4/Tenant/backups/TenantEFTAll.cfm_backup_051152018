@@ -1,0 +1,623 @@
+<!---  -----------------------------------------------------------------------------------------
+ sfarmer     | 9/5/2012   | Project 93488 -  removed approval button.   added link for download|
+ sfarmer     | 11/20/2012 |tickets 97882, 95010, 95009, 95468, 97570, 97710 for  misc. updates |
+| sfarmer    | 08/08/2013 |project 106456 EFT Updates                                          |
+| sfarmer    | 09/05/2013 |project 106456 EFT Updates - corrections                            |
+|sfarmer     | 11/25/2013 | 110630 - updates for eft draw amt                                  |
+----------------------------------------------------------------------------------------------->
+<!--- Include Intranet Header --->
+	<cfinclude template="../../header.cfm">
+	<h1 class="PageTitle"> Tips 4 - Tenant EFT Information Edit </h1>
+	
+	<cfinclude template="../Shared/HouseHeader.cfm">
+	<cfparam name="view" default="thismonth">	
+	<cfparam name="startqryday" default="">
+	<cfparam name="endqryday" default="">		 
+
+ 	 <cfif IsDefined('url.view') and url.view is "nextmonth">
+		 <cfset thisdate = dateformat(dateadd('m', 1,  #now()#) , 'YYYYMM')> 
+		 <cfset eftpulmonth = dateformat(dateadd('m', 1,  #now()#) , 'YYYYMM')>
+		 <cfset compmonth =  dateadd('m', 1,  #now()#) >
+		 <cfset view = 'nextmonth'>
+	 <cfelseif IsDefined('form.view') and form.view is "nextmonth">
+		 <cfset thisdate = dateformat(dateadd('m', 1,  #now()#) , 'YYYYMM')> 
+		 <cfset eftpulmonth = dateformat(dateadd('m', 1,  #now()#) , 'YYYYMM')>
+		 <cfset compmonth =  dateadd('m', 1,  #now()#) >		 
+		 <cfset view = 'nextmonth'>
+	 <cfelseif IsDefined('url.view') and url.view is "thismonth">
+		 <cfset thisdate = dateformat(#now()#, 'YYYYMM')> 
+		 <cfset eftpulmonth = dateformat( #now()#, 'YYYYMM') >
+		 <cfset compmonth =    #now()#  >
+		 <cfset view = 'thismonth'>
+	 <cfelse>
+		 <cfset thisdate = dateformat(#now()#, 'YYYYMM')> 
+		 <cfset eftpulmonth = dateformat( #now()#, 'YYYYMM') >
+		 <cfset view = 'thismonth'>
+		 <cfset compmonth =    #now()#  >
+	 </cfif>
+	<cfinclude template="../Shared/Queries/StateCodes.cfm">
+	<cfinclude template="../Shared/Queries/PhoneType.cfm">
+	<cfinclude template="../Shared/Queries/TenantInformation.cfm">
+ 
+	<cfinclude template="../Shared/Queries/SolomonKeyList.cfm">
+	<cfinclude template="../Shared/Queries/Relation.cfm">
+	<cfif IsDefined('form.days') and form.days is 'seldays'>
+		<cfset strtday = form.startqryday>
+		<cfset endday = form.endqryday> 
+	<cfelse>
+		<cfset strtday = 1>
+		<cfset endday = 25> 	
+	</cfif>	
+	<cfset totalcount = 0>
+	<cfset housecount = 0>
+	<cfset totalallcount = 0>
+	<cfset houseallcount = 0>	
+	<cfparam name="nextorderpull" default="">
+	<cfparam name="CID" default="">
+ 	<cfparam name="netchgamt" default="0">
+ 	<cfparam name="firstpaymntamt" default="0">
+ 	<cfparam name="secondpaymntamt" default="0">	
+	<cfparam name="showall" default="Y">		
+
+ 	<cfquery name="EFTinfo" datasource="#application.datasource#">
+
+  		SELECT 
+			t.clastname + ', ' + T.cfirstname as 'TenantName'
+			,t.csolomonkey
+			,''  as 'ContactName'
+			,T.itenant_id
+			,T.cEmail  as 'Email' 
+			,ts.bUsesEFT
+			,ts.dVAChampsAmt	 as 'VAChampsAmt'	
+			,EFTA.iEFTAccount_ID 
+			,EFTA.cRoutingNumber 
+			,EFTA.CaCCOUNTnUMBER 
+			,EFTA.cAccountType 
+			,EFTA.iOrderofPull 
+			,EFTA.iDayofFirstPull 
+			,EFTA.dPctFirstPull 
+			,EFTA.dAmtFirstPull 
+			,EFTA.iDayofSecondPull 
+			,EFTA.dPctSecondPull 
+			,EFTA.dAmtSecondPull 
+			,EFTA.iContact_id 
+			,EFTA.dtBeginEFTDate 
+			,EFTA.dtEndEFTDate 
+			,EFTA.bApproved 
+			,EFTA.dtRowDeleted 
+
+		
+			,h.cname as 'cHouseName'
+			,h.ihouse_id  AS 'houseID'
+			,IM.mInvoiceTotal
+			,TS.dDeferral 
+			,TS.dSocSec 
+			,TS.dMiscPayment
+			,TS.dMakeUpAmt		
+			,T.bIsPayer	as 'IsPayer'
+			,TS.bIsPrimaryPayer as 'IsPrimPayer'
+			,'' as 'IsContactPayer'
+			,'' as 'IsContactPrimPayer'
+			,'' as 'isLTC'
+ 			
+		FROM  
+		dbo.tenant T join dbo.tenantstate ts on  t.iTenant_ID = ts.iTenant_ID
+		 join dbo.house h on t.ihouse_id = h.ihouse_id
+		 join dbo.InvoiceMaster IM on IM.cSolomonKey = T.cSolomonKey 
+		 join EFTAccount EFTA on  EFTA.cSolomonKey = T.cSolomonKey
+		 		<!--- 	left join #Application.HOUSES_APPDBServer#.HOUSES_APP.dbo.ar_balances arb on (arb.custid = t.cSolomonKey) --->
+		
+		  
+		WHERE 
+			EFTA.iContact_id is  null
+			<cfif showall is not "Y">
+				and EFTA.dtRowDeleted is  null 
+				<!--- and  EFTA.dtRowEnd  is  null  --->  
+		 		and ts.bUsesEFT =  1
+
+			</cfif>	
+			and ts.iTenantStateCode_ID = 2		
+			and im.cAppliesToAcctPeriod =   '#thisdate#'	
+			and IM.dtRowDeleted is null			
+			<cfif   IsDefined('form.days') and form.days is "seldays">
+				<cfif #strtday# is 1>
+				and  (((EFTA.iDayofFirstPull between #strtday# and #endday#)
+					or (EFTA.iDayofSecondPull between #strtday# and #endday#))	
+					or 		(EFTA.iDayofFirstPull is null))	
+				<cfelse>
+				and  ((EFTA.iDayofFirstPull between #strtday# and #endday#)
+					or (EFTA.iDayofSecondPull between #strtday# and #endday#))
+				</cfif>
+			</cfif>		
+			and t.ihouse_id <> 200
+ 
+  			
+			UNION     
+			
+			SELECT 
+				t.clastname + ', ' + T.cfirstname	as 'TenantName'	
+				,t.csolomonkey			
+				,C.cFirstName + ' ' +  C.cLastName as   'ContactName'  
+				,T.itenant_id
+ 				,C.cEmail as  'Email' 
+				,LTC.bIsEFT 
+				,''	 as 'VAChampsAmt'
+				,EFTA.iEFTAccount_ID 
+				,EFTA.cRoutingNumber 
+				,EFTA.CaCCOUNTnUMBER 
+				,EFTA.cAccountType 
+				,EFTA.iOrderofPull 
+				,EFTA.iDayofFirstPull 
+				,EFTA.dPctFirstPull 
+				,EFTA.dAmtFirstPull 
+				,EFTA.iDayofSecondPull 
+				,EFTA.dPctSecondPull 
+				,EFTA.dAmtSecondPull 
+				,EFTA.iContact_id 
+				,EFTA.dtBeginEFTDate 
+				,EFTA.dtEndEFTDate 
+				,EFTA.bApproved 
+				,EFTA.dtRowDeleted 
+		
+				,h.cname as 'cHouseName'
+				,h.ihouse_id  AS 'houseID'
+				,IM.mInvoiceTotal
+				,TS.dDeferral 
+				,TS.dSocSec 
+				,TS.dMiscPayment
+				,TS.dMakeUpAmt	
+				,'' as 'IsPayer'
+				,'' as 'IsPrimPayer'
+				,LTC.bIsPayer as 'IsContactPayer'
+				,LTC.bIsPrimaryPayer as 'IsContactPrimPayer'				
+				,'Y' as 'isLTC'
+ 
+			FROM 
+			dbo.tenant T join dbo.tenantState TS on T.iTenant_ID = ts.iTenant_ID
+			   	join dbo.LinkTenantContact LTC on  T.iTenant_ID = LTC.iTenant_ID 
+					join dbo.Contact C on LTC.iContact_ID = C.iContact_ID
+						join dbo.EFTAccount EFTA  on EFTA.cSolomonKey = T.cSolomonKey 
+							join dbo.house h on t.ihouse_id = h.ihouse_id
+								join dbo.InvoiceMaster IM on IM.cSolomonKey = T.cSolomonKey
+ 			WHERE 
+				LTC.bIsEFT = 1 
+				<cfif showall is not "Y">
+					and EFTA.dtRowDeleted is  null   
+					and ts.bUsesEFT =  1 
+				</cfif>  
+				and ts.iTenantStateCode_ID = 2
+				and EFTA.iContact_ID = LTC.iContact_ID	
+			and im.cAppliesToAcctPeriod =   '#thisdate#'
+			and IM.dtRowDeleted is null		
+			<cfif   IsDefined('form.days') and form.days is "seldays">
+				<cfif #strtday# is 1>
+				and  (((EFTA.iDayofFirstPull between #strtday# and #endday#)
+					or (EFTA.iDayofSecondPull between #strtday# and #endday#))	
+					or 	(EFTA.iDayofFirstPull is null))
+				<cfelse>
+				and  ((EFTA.iDayofFirstPull between #strtday# and #endday#)
+					or (EFTA.iDayofSecondPull between #strtday# and #endday#))
+				</cfif>
+			</cfif>											
+ 			and t.ihouse_id <> 200
+			order by cHouseName, cSolomonkey, EFTA.iOrderofPull
+	</cfquery>	
+
+
+ <script language="JavaScript"  type="text/javascript">
+ function loadstartqryday()
+ {
+// document.getElementById("startqryday").value = document.getElementById("iStartDay").value
+ var e = document.getElementById("iStartDay");    
+var strday = e.options[e.selectedIndex].text; 
+//alert (strday);
+document.getElementById("startqryday").value = strday;
+document.getElementById("days").value = 'seldays';
+ }
+ 
+ function loadendqryday()
+ {
+//  document.getElementById("endqryday").value = document.getElementById("iEndDay").value
+   var e = document.getElementById("iEndDay");    
+var endday = e.options[e.selectedIndex].text; 
+//alert (endday);
+document.getElementById("endqryday").value = endday;
+ }
+ 
+  function firstfive() 
+ {
+ 
+document.getElementById("days").value = 'seldays';
+document.getElementById("startqryday").value = 1;
+document.getElementById("endqryday").value = 5;
+ formSubmit();
+ }
+ 
+   function alldays() 
+ {
+ 
+document.getElementById("days").value = 'seldays';
+document.getElementById("startqryday").value = 1;
+document.getElementById("endqryday").value = 31;
+ formSubmit();
+ }
+ 
+function formSubmit()
+{
+document.getElementById("tenanteftall").submit();
+}
+   function thismonth() 
+ {
+document.getElementById("View").value = 'thismonth';
+document.getElementById("days").value = 'seldays';
+document.getElementById("startqryday").value = 1;
+document.getElementById("endqryday").value = 25; 
+ formSubmit();
+ }
+    function nextmonth() 
+ {
+document.getElementById("View").value = 'nextmonth';
+document.getElementById("days").value = 'seldays';
+document.getElementById("startqryday").value = 1;
+document.getElementById("endqryday").value = 25; 
+ formSubmit();
+ }
+ </script>
+			<cfset counter = 0>
+ 			<cfset thisperson = "">	
+ 			<cfset thishouse = "">				
+			<cfset totalpaymentamt = 0>
+			<cfset pullacctperiod = #dateformat(eftpulmonth,'YYYYMM')#>		
+			<form name="tenanteftall" action="tenanteftall.cfm?View=#view#&days=#days#&strtday=#startqryday#&endday=#endqryday#&showall=#showall#" id="tenanteftall"	 method="post">	
+			<cfoutput>			
+			<input type="hidden"  name="View" id="View" value="#view#" />					
+			<input type="hidden"  name="startqryday" id="startqryday" value="" />
+			<input type="hidden"  name="endqryday" id="endqryday" value="" />	
+			<input type="hidden"  name="days" id="days" value="" />			
+			</cfoutput>
+			<table  >
+			<cfoutput>
+				<tr>
+					<td colspan="15" align="center">EFT's - All Houses</td>
+				</tr>							
+				<tr>
+					<td colspan="15">  Pull Period: #eftpulmonth# </td>
+				</TR>
+				<tr bordercolor="darkgreen">
+					<cfif View is "nextmonth">
+						<td colspan="15"><input    type="submit"  name="viewthismonth" id="viewthismonth" value="View EFT's for this Accounting Period - #dateformat(now(), 'YYYYMM')#" size="20" onClick="thismonth()"> <!---  self.location.href='TenantEFTHouse.cfm?View=thismonth' ---> </td>
+					<cfelse>
+						<td colspan="15"><input    type="submit"  name="viewnextmonth" id="viewnextmonth" value="View Next Accounting Period - #dateformat(dateadd('m', 1,now()), 'YYYYMM')#" size="20" onClick="nextmonth()"> <!--- self.location.href='TenantEFTHouse.cfm?View=nextmonth' ---></td>
+					</cfif>
+				</tr>
+				<tr  bordercolor="darkgreen">
+					<td colspan="3" style="background-color:##66CC66; text-align:center"><input    type="button"  name="viewalldays" id="viewalldays" value="View All Days" size="20" onClick="alldays()"></td><!--- self.location.href='TenantEFTHouse.cfm?View=#view#&days=All' --->
+					<td colspan="3" style="background-color:##66CC66; text-align:center"><input    type="button"  name="viewdays1to5" id="viewdays1to5" value="View Days 1 - 5" size="20" onclick="firstfive();" ></td> <!--- onClick="self.location.href='TenantEFTHouse.cfm?View=#view#&days=1to5'" --->
+				</tr>
+				<tr  bordercolor="darkgreen">
+					<td colspan="6" nowrap="nowrap" style="background-color:##66CC66">Select Start Day: <select name="iStartDay" id="iStartDay" onchange="loadstartqryday(this)"> 
+													<option>1</option>
+													<cfloop from="2" to="25" index="i">
+													<option>#i#</option>
+													</cfloop>
+												</select>
+									
+										Select End Day: <select name="iEndDay" id="iEndDay" onchange="loadendqryday(this)">
+													<option>1</option>
+													<cfloop from="2" to="25" index="i">
+													<option>#i#</option>
+													</cfloop>
+												</select>
+										<input    type="button"  name="viewdaysselect" id="viewdaysselect"  value="View Selected Days"onClick="formSubmit()" />  <!--- onClick="self.location.href='TenantEFTHouse.cfm?View=#view#&days=seldays&strtday=#startqryday#&endday=#endqryday#' " --->
+				</td> 				
+				<td colspan="9" nowrap="nowrap" style="background-color:##66CC66">Showing Days:  #strtday# through #endday#</td>
+				
+				</tr>				
+			</cfoutput>
+			<cfoutput query="EFTInfo" group="cHouseName">
+				<cfset thishouse = #houseID#>
+				<cfif housecount gt 0>
+					<tr>
+						<td colspan="15">Total Active House EFT Count: #housecount#</td>
+					<tr>
+
+					<tr>
+						<td colspan="15">Total House All EFT Count: #houseallcount#</td>
+					<tr>				</cfif>
+				<cfset housecount = 0>
+				<cfset houseallcount = 0>
+				<tr   style="background:##FFFF99">
+					<td colspan="15" >#cHouseName# #houseID#</td>
+				</tr>
+<!--- 				<tr>
+					<td colspan="14"  class="BlendedTextBoxC"  >Tenant Name - Solomon</td>								
+				</tr> --->
+				<tr>
+					<td colspan="2" class="BlendedTextBoxC">Name</td>
+					<td colspan="2" class="BlendedTextBoxC">Resident ID</td>
+					<td class="BlendedTextBoxC">Not<br />Active</td>
+					<td class="BlendedTextBoxC">EFT ID</td>
+					<td class="BlendedTextBoxC">R/C</td>
+					<td class="BlendedTextBoxC">Routing Number <br />(Last 4 Digits) </td>
+					<td class="BlendedTextBoxC">Account Number <br />(Last 4 Digits)</td>
+					<!--- <TD class="BlendedTextBoxC">Account Type</TD> --->
+					<!--- <td class="BlendedTextBoxC">Order of Draw</td> --->
+					<td class="BlendedTextBoxC">First Draw Day</td>
+					<!--- <td class="BlendedTextBoxC">First Draw Percent (%)</td> --->
+					<!--- <td class="BlendedTextBoxC">First Draw Amount ($)</td> --->
+					 
+					<!--- <td class="BlendedTextBoxC">Second Draw Percent (%)</td>  --->
+					<!--- <td class="BlendedTextBoxC">Second Draw Amount ($)</td>  --->
+					
+					<!--- <td class="BlendedTextBoxC">Tenant Email</td> --->
+					<!--- <td class="BlendedTextBoxC">Invoice Total</td> 
+					
+					<td class="BlendedTextBoxC">Total Charges</td>  
+					<td class="BlendedTextBoxC">Direct Payments</td>
+					<td class="BlendedTextBoxC">Misc Payments</td> --->	
+					<!--- <td class="BlendedTextBoxC">Net Payment</td>  ---> 	
+					<td class="BlendedTextBoxC">First Payment Amt</td>  
+					<td class="BlendedTextBoxC">Secound Draw Day</td> 
+					<td class="BlendedTextBoxC">Second Payment Amt</td> 																																											
+					<!--- <td class="BlendedTextBoxC" nowrap="nowrap">Contact<br/>Name</td> 
+					<td class="BlendedTextBoxC">Payer</td>
+					<td class="BlendedTextBoxC">Primary<br />Payer</td> --->
+					<td class="BlendedTextBoxC">LateFee</td> 
+ 					<td class="BlendedTextBoxC">EFT Begin Date</td>
+					<td class="BlendedTextBoxC">EFT End Date</td>
+<!--- 					<cfif showall  is "Y">
+
+					</cfif> --->										
+				</tr>
+				  <cfoutput group="cSolomonkey">  
+					<cfif thisperson is not "" and thisperson is not #cSolomonkey#> 
+						<cfset totalpaymentamt = 0>
+						<cfset thisperson = #cSolomonkey#>
+					<cfelse>
+						<cfset totalpaymentamt = 0>
+						<cfset thisperson = #cSolomonkey#> 	
+					</cfif> 	
+					<TR style="background:##CCCCCC">
+						<td colspan="2" ><a href="TenantEdit.cfm?iEFTAccount_ID=#iEFTAccount_ID#&ID=#eftinfo.iTenant_ID#&tenantSolomonKey=#eftinfo.cSolomonKey#">#TenantName#</a></td>
+						<td colspan="2">#cSolomonkey#</td>
+						<td colspan="11">&nbsp;</td>					 
+						<!--- <cfoutput>	 --->
+						<cfquery name="sumpaymnt"  datasource="#application.datasource#"> 
+							 select sum(isnull(dAmtSecondPull,0) + isnull(dAmtFirstPull,0)) as dollarsum
+							 from dbo.EFTAccount efta   
+							 where  dtRowDeleted is null and csolomonkey = '#EFTinfo.csolomonkey#' 
+						</cfquery>
+							<cfquery name="qryInvAmt" datasource="#application.datasource#"> 
+								Select IM.mLastInvoiceTotal
+								,IM.dtInvoiceStart 
+								,IM.dtInvoiceEnd 
+								,IM.iInvoiceMaster_ID
+								,(select sum (inv.iquantity * inv.mamount) from  InvoiceDetail INV 
+								where IM.iInvoiceMaster_ID = INV.iInvoiceMaster_ID and INV.dtrowdeleted is null) as 'TipsSum'
+								from
+								InvoiceMaster IM
+								where  IM.cSolomonKey =   '#eftinfo.cSolomonKey#'
+								<!--- and IM.bMoveInInvoice is null ---> 
+								and IM.bMoveOutInvoice is null						 
+								and IM.bFinalized = 1 
+								and im.cAppliesToAcctPeriod =  '#thisdate#'	
+							</cfquery>
+							<cfquery name="qrysolomon" datasource="#application.datasource#">	
+								select  isNull(Sum(amount ) , 0) as  'SolomonTotal'  
+								from rw.vw_Get_Trx
+								where custid = '#eftinfo.cSolomonKey#' 
+								and	rlsed = 1
+								and	user7 > '#qryInvAmt.dtInvoiceStart#'
+								and	user7 <=  '#qryInvAmt.dtInvoiceEnd#' 
+							</cfquery>
+							<cfquery name="qryOffset" datasource="#application.datasource#"> 
+								SELECT 	IsNull(Sum(amount), 0) as 'paOffset'
+								from rw.vw_Get_Trx
+								where custid = '#eftinfo.cSolomonKey#' 
+								and	rlsed = 1
+								and	user7 > '#qryInvAmt.dtInvoiceEnd#'
+								and	user7 <=  #Now()# 
+								and doctype in ('PA', 'CM', 'RP', 'NS', 'NC') 						
+							</cfquery>			
+				 			<cfinclude template="latefeecalc.cfm">
+ 
+																	
+							<cfif IsNumeric(qryOffset.paOffset)>
+								<cfset paOffset = qryOffset.paOffset>
+							<cfelse>
+								<cfset paOffset = 0>
+							</cfif>						
+							<cfif IsNumeric(qrysolomon.SolomonTotal)>
+								 <cfset SolomonTotal = qrysolomon.SolomonTotal>
+							<cfelse>
+								<cfset SolomonTotal = 0> 
+							</cfif>			
+							<cfif IsNumeric(qryInvAmt.mLastInvoiceTotal) >
+								<cfset mLastInvoiceTotal = qryInvAmt.mLastInvoiceTotal>
+							<cfelse>
+								<cfset mLastInvoiceTotal = 0>
+							</cfif>										
+							<cfif IsNumeric(qryInvAmt.TipsSum)>
+								<cfset TipsSum = qryInvAmt.TipsSum>
+							<cfelse>
+								<cfset TipsSum = 0>
+							</cfif>	
+								<cfset invoicechg = paOffset + SolomonTotal + mLastInvoiceTotal + TipsSum>						
+								<cfset adjfinal = paOffset + SolomonTotal + mLastInvoiceTotal + TipsSum + LateFee>
+								<cfset sum = adjfinal>
+								<cfset netchgamt =0>	
+								<cfset firstpaymntamt = 0>	
+								<cfset secondpaymntamt = 0>								
+								<cfset netchgamt = sum>
+							<cfif   dDeferral is not "" >
+								<cfset netchgamt = netchgamt - dDeferral>
+							</cfif>
+							<cfif   dSocSec  is not "" >										
+								<cfset netchgamt = netchgamt - dSocSec>
+							</cfif>
+							<cfif   dMiscPayment  is not "" >										
+								<cfset netchgamt = netchgamt - dMiscPayment>
+							</cfif>										
+							
+							<cfif (dPctFirstPull is not "") and  dPctFirstPull is not 0>
+								<cfset firstpaymntamt = (dPctFirstPull/100) * netchgamt>
+							<cfelseif  (dAmtFirstPull is not "") and  dPctFirstPull is not 0>
+								<cfset firstpaymntamt = dAmtFirstPull>									 	
+							</cfif>	 	
+							
+							<cfif  (dPctSecondPull is not "") and  dPctSecondPull is not 0>
+								<cfset secondpaymntamt = (dPctSecondPull/100) * netchgamt>										 
+							<cfelseif  (dAmtSecondPull is not "") and dAmtSecondPull is not 0>
+								<cfset secondpaymntamt = dAmtSecondPull>
+							</cfif>	 
+							
+							<cfif dPctFirstPull is "" and dPctSecondPull is "" and dAmtFirstPull is "" and dAmtSecondPull is "">
+								<cfset firstpaymntamt = netchgamt>
+							</cfif>	 	
+																																
+							<cfset counter = counter + 1>
+ 
+ 										
+<!--- 	<td nowrap="nowrap"><a href="TenantEdit.cfm?iEFTAccount_ID=#iEFTAccount_ID#&ID=#eftinfo.iTenant_ID#&tenantSolomonKey=#eftinfo.cSolomonKey#">#TenantName#</a></td>  --->	
+
+ 
+					<cfset netchgamt = adjfinal>
+					<cfif   dDeferral is not "" >
+						<cfset netchgamt = netchgamt - dDeferral>
+					</cfif>
+					<cfif   dSocSec  is not "" >										
+						<cfset netchgamt = netchgamt - dSocSec>
+					</cfif>
+					<cfif   dMiscPayment  is not "" >										
+						<cfset netchgamt = netchgamt - dMiscPayment>
+					</cfif>
+					<!---	< td style="text-align:right">#dollarformat(netchgamt)# </td> --->	
+				</tr>
+				 <cfoutput> 
+					<cfset totalallcount = totalallcount + 1>
+					<cfset houseallcount = houseallcount + 1>
+					<cfset totaleftpaymentamt  =    firstpaymntamt  + secondpaymntamt>
+					<tr style="background:##EEEEEE">
+								<td colspan="2">&nbsp;</td>
+								<td colspan="2">&nbsp;</td>
+								<!--- <td>&nbsp;</td> --->
+								<!--- <td>&nbsp;</td> --->
+								<cfif showall  is "Y">
+									<!--- <CFIF dtRowDeleted IS NOT "" OR dtRowEnd IS NOT "" or bUsesEFT is ""> --->
+									<CFIF dtRowDeleted IS NOT ''   or bUsesEFT is ''
+									OR ((dtEndEFTDate is not '') and  ( dtEndEFTDate  LE compmonth))
+										or ((dtBeginEFTDate is not '') and (dtBeginEFTDate GE compmonth))>
+										<td class="BlendedTextBoxC">X</td>
+										
+									<cfelse>
+										<td class="BlendedTextBoxC">&nbsp;</td>
+										<cfset totalcount = totalcount + 1>
+										<cfset housecount = housecount + 1>
+										
+									</CFIF>
+								</cfif>	
+								<cfif isDefined("session.CodeBlock") and ListFindNoCase(session.CodeBlock,25) GT 0>
+									<td><a href="TenantEFTDetailEdit.cfm?iEFTAccount_ID=#iEFTAccount_ID#&iTenant_ID=#eftinfo.iTenant_ID#&tenantSolomonKey=#eftinfo.cSolomonKey#">#iEFTAccount_ID#</a></td>
+								<cfelse>
+									<td>#iEFTAccount_ID#</td>
+								</cfif>
+									<td><cfif IsContactPayer is 1> C<cfelse>R</cfif></td>
+								<!--- <td><cfif (isLTC is "Y") and (IsContactPayer is 1)>C<cfelseif (isLTC is "") and (IsPayer is 1) >T<cfelse>&nbsp;</cfif></td>
+								<td><cfif (isLTC is "Y") and (IsContactPrimPayer is 1)>C<cfelseif (isLTC is "") and (IsPrimPayer is 1) >T<cfelse>&nbsp;</cfif></td> --->
+								<td>#right(cRoutingNumber,4)#</td>
+								<td>#right(CaCCOUNTnUMBER,4)#</td>
+								<!--- <TD><cfif ((cAccountType is 'C') or  (cAccountType is 'c'))>C<cfelse>S</cfif></TD>
+								<td>#iOrderofPull#</td> --->
+								<td align="center"><cfif iDayofFirstPull is not ""> #iDayofFirstPull#<cfelse>1</cfif></td>
+								
+								 <cfif (dPctFirstPull is "") <!--- and (iDayofFirstPull is "") 106456 - correction ---> and (dAmtFirstPull is "")>
+									<cfset pctfirstpull = 100>
+								<cfelse>
+									<cfset pctfirstpull = dPctFirstPull>
+								</cfif>
+								<!--- <td>#pctfirstpull#</td> --->
+						<CFIF (dtRowDeleted IS NOT '') <!--- OR (dtRowEnd IS NOT '') --->
+									 or (bUsesEFT is '')
+									OR ((dtEndEFTDate is not '') and  ( dtEndEFTDate  LE compmonth))
+										or ((dtBeginEFTDate is not '') and (dtBeginEFTDate GE compmonth))>		
+								<td>Not Active</td>
+								<!--- <td align="center">#iDayofSecondPull#</td> --->
+								<td>N/A</td>
+								<td>N/A</td>
+								<td>N/A</td>
+						<cfelse>	
+								<CFIF iSnUMERIC(pctfirstpull) and isnumeric(sumpaymnt.dollarsum) and isnumeric(netchgamt)>
+									<cfset pctamt = ((netchgamt- sumpaymnt.dollarsum) * (pctfirstpull/100))>
+								<CFELSE>
+									<cfset pctamt = 0 >
+								</CFIF>
+								<cfif ((dAmtFirstPull   is '') or  (dAmtFirstPull is 0 ))>
+									<td><cfif pctamt lte 0>#dollarformat(0.00)#<cfelse>#dollarformat(pctamt)#</cfif> </td>
+								<cfelse>
+									<td style="color:red;">#dollarformat(dAmtFirstPull)#  Fixed </td>
+								</cfif>
+								<td align="center">#iDayofSecondPull#</td>
+								<!--- <td>#dPctSecondPull#</td> --->
+								<CFIF iSnUMERIC(dPctSecondPull)>
+									<cfif not IsNumeric(sumpaymnt.dollarsum)><cfset thisdollarsum = 0> <cfelse> <cfset thisdollarsum = sumpaymnt.dollarsum	> </cfif>	
+									<cfif not Isnumeric(netchgamt)> <cfset netchgamt = 0></cfif>
+									<cfset pctamt = ((netchgamt- thisdollarsum) * (dPctSecondPull/100))>
+								<CFELSE>
+									<cfset pctamt = 0 >
+								</CFIF>
+								<cfif  ((dAmtSecondPull  is '') or  (dAmtSecondPull  is 0)) >
+									<td>#Dollarformat(pctamt)#</td>
+								<cfelse>
+									<td style="color:red;">#dollarformat(dAmtSecondPull)#  Fixed </td>
+								</cfif>
+								<cfif LateFee gt 0>
+									<cfif (((dAmtSecondPull is not '')  and  (dAmtSecondPull is not 0) ) or  ((dAmtFirstPull is not '')  and  (dAmtFirstPull is not 0 )  )   )>
+										<td>Exmpt-Fixed Amt</td>
+									<cfelse>
+										<td>#dollarformat(LateFee)#</td>
+									</cfif>
+								<cfelse>
+									<td>&nbsp;</td>
+								</cfif>
+						</CFIF>
+								<td>#dateformat(dtBeginEFTDate, 'mm/dd/yyyy')#</td>
+								<td>#dateformat(dtEndEFTDate, 'mm/dd/yyyy')#</td>
+								<!--- <td>#Email#</td> --->
+					</tr>
+							<cfif  (firstpaymntamt is not "")>
+								<cfset totalpaymentamt =  totalpaymentamt     + firstpaymntamt>
+							</cfif>
+							<cfif  (secondpaymntamt is not "")>
+								<cfset totalpaymentamt =  totalpaymentamt  +  secondpaymntamt>
+							</cfif>																				
+						</cfoutput>
+					</cfoutput>
+		 		</cfoutput>
+ 				<!--- 	 <tr>
+						 	<td colspan="29">Show all EFT's  including non-current EFT's. <input type="button" name="Show All EFT's"  value="ShowAll"  onClick="location.href='TenantEFTAll.cfm?ShowAll=Y'" /></td>
+						 </tr>  --->
+				<cfoutput>
+					<tr>
+						<td colspan="15">Total House Active EFT Count: #housecount#</td>
+					<tr>
+					<tr>
+						<td colspan="15">Total House All EFT Count: #houseallcount#</td>
+					<tr>				
+					<tr style=" background-color:##66FF66">
+						<td colspan="15">Total All Active EFT Count: #totalcount#</td>
+					<tr>
+					<tr style=" background-color:##66FF66">
+						<td colspan="15">Total All EFT Count: #totalallcount#</td>
+					<tr>
+				</cfoutput>
+					 <cfif (ListContains(session.groupid,'240') gt 0) or (ListContains(session.groupid,'192') gt 0)>
+						 <tr>
+							<td colspan="15"><cfoutput><input type="button" name="DownloadFile"  value="Create Download File"  onClick="location.href='TenantEFTAllDwnld.cfm?thisdate=#thisdate#&eftpulmonth=#eftpulmonth#&strtday=#startqryday#&endday=#endqryday#&showall=#showall#'" /></cfoutput></td>
+						 </tr>							 
+					 </cfif>						
+				</table>
+			 </form>
+ 
+		<!--- Include intranet footer --->
+		<cfinclude template="../../footer.cfm">		
+

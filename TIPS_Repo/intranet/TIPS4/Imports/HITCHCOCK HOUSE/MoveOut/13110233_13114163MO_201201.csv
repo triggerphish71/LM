@@ -1,0 +1,5 @@
+BATCH,,201201,B,3626.0000,
+INVOICE,CM,,13110233,,01/01/2012,3626,"Invoice-Private",,01/01/2012,01/10/2012,,13114163MO,-3626.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... E.Perre 201201: Perre, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30,30,"CR:Pendant Fee... E.Perre 201201: Perre, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... E.Perre 201201: Perre, Evelyn",,,,,,,,,,,,,,,

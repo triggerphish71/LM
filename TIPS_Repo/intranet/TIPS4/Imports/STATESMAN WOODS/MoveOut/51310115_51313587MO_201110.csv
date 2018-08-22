@@ -1,0 +1,7 @@
+BATCH,,201110,B,8932.0000,
+INVOICE,IN,,51310115,,10/22/2011,4158.0000,"Invoice-Private",,10/22/2011,10/22/2011,,51313587MO,-5236.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,27,127.0000,3429.00,"Basic Service Fee - One Bedroom for Oct: Bill, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,27,27.0000,729.00,"Resident Care - Level 2 for Oct: Bill, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,51310115,,10/22/2011,4774,"Invoice-Private",,10/22/2011,10/22/2011,,51313587MO,-5236.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3937,3937,"CR:Basic Service F... R.Bill 201110: Bill, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,837,837,"CR:Resident Care -... R.Bill 201110: Bill, Robert",,,,,,,,,,,,,,,

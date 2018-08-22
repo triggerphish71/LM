@@ -1,0 +1,7 @@
+BATCH,,201109,B,4066.0000,
+INVOICE,IN,,01410209,,09/08/2011,856.0000,"Invoice-Private",,09/08/2011,09/08/2011,,01414040MO,-2354.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,8,90.0000,720.00,"Basic Service Fee - Studio for Sep: Priestly, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,8,17.0000,136.00,"Resident Care - Level 1 for Sep: Priestly, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,01410209,,09/08/2011,3210,"Invoice-Private",,09/08/2011,09/08/2011,,01414040MO,-2354.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2700,2700,"CR:Basic Service F... J.Priestly 201109: Priestly, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,510,510,"CR:Resident Care -... J.Priestly 201109: Priestly, Joan",,,,,,,,,,,,,,,

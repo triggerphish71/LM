@@ -1,0 +1,5 @@
+BATCH,,201206,B,960.0000,
+INVOICE,IN,,17510269,,06/01/2012,480.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17517531MO,320.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,16.0000,480.00,"Credit for Limited Term Discount: Jackson, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,17510269,,06/01/2012,480,"Invoice-Private",,06/01/2012,06/10/2012,,17517531MO,320.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,16,480,"Limited Term Discount: Jackson, Wilma",,,,,,,,,,,,,,,

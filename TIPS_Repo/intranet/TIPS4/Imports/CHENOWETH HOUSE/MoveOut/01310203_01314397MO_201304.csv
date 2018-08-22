@@ -1,0 +1,7 @@
+BATCH,,201304,B,3299.4000,
+INVOICE,IN,,01310203,,04/06/2013,1466.4000,"Invoice-Private",,04/06/2013,04/06/2013,,01314397MO,-366.6000,,,,,,,,,,
+TRANSACTION,3020,010103013,24,50.0000,1200.00,"Basic Service Fee - Studio for Apr: Shafer, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,24,11.1000,266.40,"Resident Care - Level 6 for Apr: Shafer, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,01310203,,04/06/2013,1833,"Invoice-Private",,04/06/2013,04/06/2013,,01314397MO,-366.6000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,1500,1500,"CR:Basic Service F... B.Shafer 201304: Shafer, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,333,333,"CR:Resident Care -... B.Shafer 201304: Shafer, Betty",,,,,,,,,,,,,,,

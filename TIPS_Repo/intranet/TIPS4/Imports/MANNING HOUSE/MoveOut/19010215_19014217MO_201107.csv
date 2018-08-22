@@ -1,0 +1,6 @@
+BATCH,,201107,B,5515.0000,
+INVOICE,IN,,19010215,,07/24/2011,2450.0000,"Invoice-Private",,07/24/2011,07/24/2011,,19014217MO,-3033.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,25,98.0000,2450.00,"A.Burton for Jul: Burton , Sr., Allen",,,,,,,,,,,,,,,
+INVOICE,CM,,19010215,,07/24/2011,3065,"Invoice-Private",,07/24/2011,07/24/2011,,19014217MO,-3033.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:A.Burton ... A.Burton , Sr. 201107: Burton , Sr., Allen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR: Sr.: Basic Ser... A.Burton , Sr. 201107: Burton , Sr., Allen",,,,,,,,,,,,,,,

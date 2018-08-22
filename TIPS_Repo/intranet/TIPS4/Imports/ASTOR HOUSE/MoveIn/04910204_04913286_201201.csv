@@ -1,0 +1,6 @@
+BATCH,,201201,B,4383.0900,
+INVOICE,IN,,04910204,,01/13/2012,4383.0900,"MoveIn-Whitener. Martha",,01/13/2012,01/13/2012,,04913286,4383.0900,,,,,,,,,,
+TRANSACTION,3010,010101049,19,108.0000,2052,"Basic Service Fee - One Bedroom: Whitener. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,19,16.1100,306.09,"Resident Care - Level 9: Whitener. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Whitener. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Whitener. Martha",,,,,,,,,,,,,,,

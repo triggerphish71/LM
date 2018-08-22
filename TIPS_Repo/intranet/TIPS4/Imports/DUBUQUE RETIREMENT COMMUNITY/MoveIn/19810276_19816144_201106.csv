@@ -1,0 +1,6 @@
+BATCH,,201106,B,2610.0000,
+INVOICE,IN,,19810276,,06/01/2011,2610.0000,"June_Rent-Stephens. Catherine",,06/01/2011,06/10/2011,,19816144,5896.0000,,,,,,,,,,
+TRANSACTION,3010,010112198,30,84.0000,2520,"Basic Service Fee IL - Two Bedroom : Stephens. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30,"Monthly Cable: Stephens. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35.0000,35,"Pendant Fee: Stephens. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3299,010112198,1,25.0000,25,"Other Services and Revenue: Stephens. Catherine",,,,,,,,,,,,,,,

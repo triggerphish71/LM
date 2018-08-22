@@ -1,0 +1,5 @@
+BATCH,,201104,B,3054.0000,
+INVOICE,IN,,05210237,,04/18/2011,3054.0000,"MoveIn-Henderson. James",,04/18/2011,04/18/2011,,05214361,5530.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,13,79.0000,1027,"Basic Service Fee - Studio         : Henderson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Henderson. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Henderson. James",,,,,,,,,,,,,,,

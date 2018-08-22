@@ -1,0 +1,5 @@
+BATCH,,201305,B,3818.0000,
+INVOICE,IN,,50110295,,05/06/2013,3818.0000,"MoveIn-Barrett. Alice",,05/06/2013,05/06/2013,,50114694,3818.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,26,88.0000,2288,"Basic Service Fee - Studio: Barrett. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Barrett. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Barrett. Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,4420.0000,
+INVOICE,IN,,09110227,,03/21/2012,1785.0000,"Invoice-Private",,03/21/2012,03/21/2012,,09115168MO,-3400.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,21,85.0000,1785.00,"Basic Service Fee - Studio for Mar: Stewart, James",,,,,,,,,,,,,,,
+INVOICE,CM,,09110227,,03/21/2012,2635,"Invoice-Private",,03/21/2012,03/21/2012,,09115168MO,-3400.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2635,2635,"CR:Basic Service F... J.Stewart 201203: Stewart, James",,,,,,,,,,,,,,,

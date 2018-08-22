@@ -1,0 +1,7 @@
+BATCH,,201109,B,8874.0000,
+INVOICE,IN,,10710305,,09/21/2011,4284.0000,"Invoice-Private",,09/21/2011,09/21/2011,,10715775MO,-5049.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,28,95.0000,2660.00,"Basic Service Fee - Studio for Sep: Gavin, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,28,58.0000,1624.00,"Resident Care - Level 4 for Sep: Gavin, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,10710305,,09/21/2011,4590,"Invoice-Private",,09/21/2011,09/21/2011,,10715775MO,-5049.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2850,2850,"CR:Basic Service F... E.Gavin 201109: Gavin, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1740,1740,"CR:Resident Care -... E.Gavin 201109: Gavin, Evelyn",,,,,,,,,,,,,,,

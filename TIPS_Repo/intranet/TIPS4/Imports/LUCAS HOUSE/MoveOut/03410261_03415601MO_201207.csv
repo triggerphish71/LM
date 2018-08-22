@@ -1,0 +1,7 @@
+BATCH,,201207,B,4770.0000,
+INVOICE,IN,,03410261,,07/01/2012,1054.0000,"Invoice-Private",,07/01/2012,07/10/2012,,03415601MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1054.0000,1054.00,"CR:Limited Term Di... B.Kutz 201207: Kutz, Benard",,,,,,,,,,,,,,,
+INVOICE,CM,,03410261,,07/01/2012,3716,"Invoice-Private",,07/01/2012,07/10/2012,,03415601MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... B.Kutz 201207: Kutz, Benard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... B.Kutz 201207: Kutz, Benard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,713,713,"CR:Resident Care -... B.Kutz 201207: Kutz, Benard",,,,,,,,,,,,,,,

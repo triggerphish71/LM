@@ -1,0 +1,8 @@
+BATCH,,201303,B,5701.0000,
+INVOICE,IN,,17010305,,03/08/2013,1584.0000,"Invoice-Private",,03/08/2013,03/08/2013,,17014585MO,-2533.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,12,70.0000,840.00,"Basic Service Fee - One Bedroom for Mar: Foster, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,12,62.0000,744.00,"Resident Care - Level 5 for Mar: Foster, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,17010305,,03/08/2013,4117,"Invoice-Private",,03/08/2013,03/08/2013,,17014585MO,-2533.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,1,2170,2170,"CR:Basic Service F... E.Foster 201303: Foster, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25,25,"CR:Monthly Cable... E.Foster 201303: Foster, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,1,1922,1922,"CR:Resident Care -... E.Foster 201303: Foster, Esther",,,,,,,,,,,,,,,

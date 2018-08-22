@@ -1,0 +1,5 @@
+BATCH,,201307,B,5400.0000,
+INVOICE,IN,,01410255,,07/05/2013,5400.0000,"MoveIn-Rice. Thelma",,07/05/2013,07/05/2013,,01414776,5400.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,27,125.0000,3375,"Basic Service Fee - One Bedroom: Rice. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Rice. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,2000.0000,2000,"New Resident Fee: Rice. Thelma",,,,,,,,,,,,,,,

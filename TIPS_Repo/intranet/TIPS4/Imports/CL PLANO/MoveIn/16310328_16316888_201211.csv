@@ -1,0 +1,7 @@
+BATCH,,201211,B,5130.0000,
+INVOICE,IN,,16310328,,10/15/2012,1863.0000,"MoveIn-True. James ",,10/15/2012,10/15/2012,,16316888,5130.0000,,,,,,,,,,
+TRANSACTION,3014,010202163,17,108.0000,1836,"Basic Service Fee - Studio Deluxe: True. James ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27,"Monthly Cable: True. James ",,,,,,,,,,,,,,,
+INVOICE,IN,,16310328,,11/01/2012,3267.0000,"November_Rent-True. James ",,11/01/2012,11/10/2012,,16316888,5130.0000,,,,,,,,,,
+TRANSACTION,3010,010202163,30,108.0000,3240,"Basic Service Fee - Studio Deluxe: True. James ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27,"Monthly Cable: True. James ",,,,,,,,,,,,,,,

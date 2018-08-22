@@ -1,0 +1,6 @@
+BATCH,,201301,B,3682.5000,
+INVOICE,IN,,16210151,,01/17/2013,3682.5000,"MoveIn-Hunt. Edna",,01/17/2013,01/17/2013,,16213123,7742.5000,,,,,,,,,,
+TRANSACTION,3010,010211162,15,75.0000,1125,"Basic Service Fee - Deluxe: Hunt. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,15,70.0000,1050,"Resident Care - Level 5: Hunt. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Hunt. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211162,1,7.5000,7.5,"Pendant Fee: Hunt. Edna",,,,,,,,,,,,,,,

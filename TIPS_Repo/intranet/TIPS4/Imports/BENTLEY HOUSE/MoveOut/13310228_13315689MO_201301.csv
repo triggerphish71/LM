@@ -1,0 +1,8 @@
+BATCH,,201301,B,7180.0000,
+INVOICE,IN,,13310228,,01/10/2013,2220.0000,"Invoice-Private",,01/10/2013,01/10/2013,,13315689MO,-2740.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,1,620.0000,620.00,"CR:Limited Term Di... M.Miklos 201301: Miklos, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,10,92.0000,920.00,"Basic Service Fee - Studio for Jan: Miklos, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,10,68.0000,680.00,"Resident Care - Level 5 for Jan: Miklos, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13310228,,01/10/2013,4960,"Invoice-Private",,01/10/2013,01/10/2013,,13315689MO,-2740.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... M.Miklos 201301: Miklos, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,2108,2108,"CR:Resident Care -... M.Miklos 201301: Miklos, Mary",,,,,,,,,,,,,,,

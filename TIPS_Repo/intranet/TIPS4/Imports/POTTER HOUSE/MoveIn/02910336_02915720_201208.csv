@@ -1,0 +1,5 @@
+BATCH,,201208,B,4932.0000,
+INVOICE,IN,,02910336,,08/06/2012,4932.0000,"MoveIn-Montgomery. Louis",,08/06/2012,08/06/2012,,02915720,4932.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,26,100.0000,2600,"Basic Service Fee - Studio: Montgomery. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,26,32.0000,832,"Resident Care - Level 2: Montgomery. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Montgomery. Louis",,,,,,,,,,,,,,,

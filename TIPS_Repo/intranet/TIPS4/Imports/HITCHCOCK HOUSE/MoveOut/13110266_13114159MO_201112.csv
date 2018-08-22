@@ -1,0 +1,6 @@
+BATCH,,201112,B,7365.0000,
+INVOICE,IN,,13110266,,12/20/2011,2300.0000,"Invoice-Private",,12/20/2011,12/20/2011,,13114159MO,-6330.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,20,115.0000,2300.00,"Basic Service Fee - One Bedroom for Dec: Cline, Marvel",,,,,,,,,,,,,,,
+INVOICE,CM,,13110266,,12/20/2011,5065,"Invoice-Private",,12/20/2011,12/20/2011,,13114159MO,-6330.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3565,3565,"CR:Basic Service F... M.Cline 201112: Cline, Marvel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1500,1500,"CR:New Resident Fe... M.Cline 201112: Cline, Marvel",,,,,,,,,,,,,,,

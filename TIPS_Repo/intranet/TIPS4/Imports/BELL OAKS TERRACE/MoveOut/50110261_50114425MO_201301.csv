@@ -1,0 +1,5 @@
+BATCH,,201301,B,1116.0000,
+INVOICE,IN,,50110261,,01/01/2013,558.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50114425MO,-2872.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,18.0000,558.00,"Credit for Limited Term Discount: Shears, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,50110261,,01/01/2013,558,"Invoice-Private",,01/01/2013,01/10/2013,,50114425MO,-2872.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,18,558,"Limited Term Discount: Shears, Mary",,,,,,,,,,,,,,,

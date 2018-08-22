@@ -1,0 +1,7 @@
+BATCH,,201304,B,6568.2500,
+INVOICE,IN,,00510174,,04/01/2013,1985.7500,"Invoice-Private",,04/01/2013,04/10/2013,,00512625MO,-2596.7500,,,,,,,,,,
+TRANSACTION,3020,010101005,13,88.0000,1144.00,"Basic Service Fee - One Bedroom for Apr: Gross, Malcolm",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,13,64.7500,841.75,"Resident Care - Level 35 for Apr: Gross, Malcolm",,,,,,,,,,,,,,,
+INVOICE,CM,,00510174,,04/01/2013,4582.5,"Invoice-Private",,04/01/2013,04/10/2013,,00512625MO,-2596.7500,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2640,2640,"CR:Basic Service F... M.Gross 201304: Gross, Malcolm",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,1942.5,1942.5,"CR:Resident Care -... M.Gross 201304: Gross, Malcolm",,,,,,,,,,,,,,,

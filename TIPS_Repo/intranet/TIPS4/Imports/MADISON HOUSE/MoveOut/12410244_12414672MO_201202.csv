@@ -1,0 +1,7 @@
+BATCH,,201202,B,3671.9000,
+INVOICE,IN,,12410244,,02/12/2012,1287.9000,"Invoice-Private",,02/12/2012,02/12/2012,,12414672MO,-1096.1000,,,,,,,,,,
+TRANSACTION,3312,010211124,1,234.9000,234.90,"CR:Two Room Rental... B.Mastny 201202: Mastny, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211124,13,81.0000,1053.00,"Basic Service Fee - Studio for Feb: Mastny, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,12410244,,02/12/2012,2384,"Invoice-Private",,02/12/2012,02/12/2012,,12414672MO,-1096.1000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2349,2349,"CR:Basic Service F... B.Mastny 201202: Mastny, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... B.Mastny 201202: Mastny, Betty",,,,,,,,,,,,,,,

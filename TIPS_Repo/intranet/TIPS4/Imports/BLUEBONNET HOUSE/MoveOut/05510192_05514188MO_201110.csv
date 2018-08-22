@@ -1,0 +1,6 @@
+BATCH,,201110,B,4811.0000,
+INVOICE,IN,,05510192,,10/01/2011,1932.0000,"Invoice-Private",,10/01/2011,10/10/2011,,05514188MO,-947.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,21,92.0000,1932.00,"Basic Service Fee - Studio for Oct: Parrack, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,05510192,,10/01/2011,2879,"Invoice-Private",,10/01/2011,10/10/2011,,05514188MO,-947.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2852,2852,"CR:Basic Service F... J.Parrack 201110: Parrack, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"CR:Monthly Cable... J.Parrack 201110: Parrack, Jim",,,,,,,,,,,,,,,

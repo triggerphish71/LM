@@ -1,0 +1,5 @@
+BATCH,,201108,B,2294.0000,
+INVOICE,IN,,20610205,,08/01/2011,1147.0000,"Invoice-Private",,08/01/2011,08/10/2011,,20612184MO,-2942.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,31,37.0000,1147.00,"Credit for Limited Term Discount: Williamson, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,20610205,,08/01/2011,1147,"Invoice-Private",,08/01/2011,08/10/2011,,20612184MO,-2942.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,31,37,1147,"Limited Term Discount: Williamson, Frank",,,,,,,,,,,,,,,

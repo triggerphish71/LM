@@ -1,0 +1,8 @@
+BATCH,,201108,B,7077.0000,
+INVOICE,IN,,09110160,,08/24/2011,3481.0000,"Invoice-Private",,08/24/2011,08/24/2011,,09114847MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,1,465.0000,465.00,"CR:Limited Term Di... W.Lambert 201108: Lambert, Willovene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,26,80.0000,2080.00,"Basic Service Fee - Studio for Aug: Lambert, Willovene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,26,36.0000,936.00,"Resident Care - Level 2 for Aug: Lambert, Willovene",,,,,,,,,,,,,,,
+INVOICE,CM,,09110160,,08/24/2011,3596,"Invoice-Private",,08/24/2011,08/24/2011,,09114847MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2480,2480,"CR:Basic Service F... W.Lambert 201108: Lambert, Willovene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... W.Lambert 201108: Lambert, Willovene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,70.0000,
+INVOICE,IN,,13410239,,09/01/2012,35.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13415625MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Hornback, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13410239,,09/01/2012,35,"Invoice-Private",,09/01/2012,09/10/2012,,13415625MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Hornback, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201801,B,2860.0000,
+INVOICE,IN,,35200204,,01/24/2018,1248.0000,"Invoice-Private",,01/24/2018,01/24/2018,,35212121MO,-3432.0000,,,,,,,,,,
+TRANSACTION,3020,070029352,24,52.0000,1248.00,"Studio Deluxe  for Jan: Hausheer, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,35200204,,01/24/2018,1612,"Invoice-Private",,01/24/2018,01/24/2018,,35212121MO,-3432.0000,,,,,,,,,,
+TRANSACTION,3020,070029352,1,1612,1612,"CR:Studio Deluxe... M.Hausheer 201801: Hausheer, Margaret",,,,,,,,,,,,,,,

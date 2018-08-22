@@ -1,0 +1,8 @@
+BATCH,,201107,B,3707.0000,
+INVOICE,IN,,14210160,,07/05/2011,510.0000,"Invoice-Private",,07/05/2011,07/05/2011,,14213555MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,5,85.0000,425.00,"Basic Service Fee - Studio for Jul: Burnside, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,5,17.0000,85.00,"Resident Care - Level 1 for Jul: Burnside, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,14210160,,07/05/2011,3197,"Invoice-Private",,07/05/2011,07/05/2011,,14213555MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2635,2635,"CR:Basic Service F... V.Burnside 201107: Burnside, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... V.Burnside 201107: Burnside, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,527,527,"CR:Resident Care -... V.Burnside 201107: Burnside, Virgil",,,,,,,,,,,,,,,

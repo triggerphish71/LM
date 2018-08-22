@@ -1,0 +1,8 @@
+BATCH,,201201,B,4753.0000,
+INVOICE,IN,,19010230,,01/03/2012,417.0000,"Invoice-Private",,01/03/2012,01/03/2012,,19014352MO,-3919.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,3,98.0000,294.00,"S.Black: Basic Service Fee - Studio for Jan: Black, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,3,41.0000,123.00,"S.Black: Resident Care - Level 3 for Jan: Black, Samuel",,,,,,,,,,,,,,,
+INVOICE,CM,,19010230,,01/03/2012,4336,"Invoice-Private",,01/03/2012,01/03/2012,,19014352MO,-3919.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... S.Black 201201: Black, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:S.Black: Basic ... S.Black 201201: Black, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,1271,1271,"CR:S.Black: Reside... S.Black 201201: Black, Samuel",,,,,,,,,,,,,,,

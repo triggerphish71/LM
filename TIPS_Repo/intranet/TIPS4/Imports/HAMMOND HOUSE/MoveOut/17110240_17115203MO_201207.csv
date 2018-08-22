@@ -1,0 +1,7 @@
+BATCH,,201207,B,5365.0000,
+INVOICE,IN,,17110240,,07/06/2012,870.0000,"Invoice-Private",,07/06/2012,07/06/2012,,17115203MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,6,116.0000,696.00,"Basic Service Fee - One Bedroom for Jul: Brown, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,6,29.0000,174.00,"Resident Care - Level 2 for Jul: Brown, David",,,,,,,,,,,,,,,
+INVOICE,CM,,17110240,,07/06/2012,4495,"Invoice-Private",,07/06/2012,07/06/2012,,17115203MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3596,3596,"CR:Basic Service F... D.Brown 201207: Brown, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,899,899,"CR:Resident Care -... D.Brown 201207: Brown, David",,,,,,,,,,,,,,,

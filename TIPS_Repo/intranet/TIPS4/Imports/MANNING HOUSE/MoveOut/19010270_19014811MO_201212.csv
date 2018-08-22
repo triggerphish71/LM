@@ -1,0 +1,7 @@
+BATCH,,201212,B,2098.0000,
+INVOICE,IN,,19010270,,12/16/2012,736.0000,"Invoice-Private",,12/16/2012,12/16/2012,,19014811MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,16,30.0000,480.00,"Basic Service Fee - Second Resident for Dec: Lord, Delma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,16,16.0000,256.00,"Service : lvl 0 to lvl 1 - 12/5/12 for Dec: Lord, Delma",,,,,,,,,,,,,,,
+INVOICE,CM,,19010270,,12/16/2012,1362,"Invoice-Private",,12/16/2012,12/16/2012,,19014811MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,930,930,"CR:Basic Service F... D.Lord 201212: Lord, Delma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,432,432,"CR:Service : lvl 0... D.Lord 201212: Lord, Delma",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201203,B,4445.0000,
+INVOICE,IN,,53610132,,03/04/2012,1372.0000,"Invoice-Private",,03/04/2012,03/04/2012,,53613496MO,-1701.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,14,98.0000,1372.00,"Basic Service Fee - Studio for Mar: Brown, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,53610132,,03/04/2012,3073,"Invoice-Private",,03/04/2012,03/04/2012,,53613496MO,-1701.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3038,3038,"CR:Basic Service F... G.Brown 201203: Brown, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... G.Brown 201203: Brown, Geraldine",,,,,,,,,,,,,,,

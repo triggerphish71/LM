@@ -1,0 +1,8 @@
+BATCH,,201105,B,1637.0000,
+INVOICE,IN,,20410166,,05/16/2011,129.0000,"Invoice-Private",,05/16/2011,05/16/2011,,20412352MO,-5249.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,51.0000,51.00,"Resident Care - Level 5 for May: Waldron, Sam",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,78.0000,78.00,"Studio for May: Waldron, Sam",,,,,,,,,,,,,,,
+INVOICE,CM,,20410166,,05/16/2011,1508,"Invoice-Private",,05/16/2011,05/16/2011,,20412352MO,-5249.0000,,,,,,,,,,
+TRANSACTION,3216,010216204,1,1250,1250,"CR:New Resident Fe... S.Waldron 201105: Waldron, Sam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,1,102,102,"CR:Resident Care -... S.Waldron 201105: Waldron, Sam",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,156,156,"CR:Studio... S.Waldron 201105: Waldron, Sam",,,,,,,,,,,,,,,

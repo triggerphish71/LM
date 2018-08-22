@@ -1,0 +1,5 @@
+BATCH,,201801,B,3581.0000,
+INVOICE,IN,,16210247,,01/01/2018,3581.0000,"MoveIn-Anderson. Donald",,01/01/2018,01/01/2018,,16215031,3581.0000,,,,,,,,,,
+TRANSACTION,3010,010011162,31,32.0000,992,"D.Anderson: Basic Service Fee - Second Resident: Anderson. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010011162,31,19.0000,589,"D.Anderson: Resident Care - Level 1: Anderson. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,1,2000.0000,2000,"Community Fee: Anderson. Donald",,,,,,,,,,,,,,,

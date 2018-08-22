@@ -1,0 +1,7 @@
+BATCH,,201202,B,2962.7400,
+INVOICE,IN,,0130596,,02/01/2012,1481.3700,"Invoice-Medicaid",,02/01/2012,02/10/2012,,01314043MO,-3533.2400,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Lincoln, Rodger",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1453.3700,1453.37,"State Medicaid: Lincoln, Rodger",,,,,,,,,,,,,,,
+INVOICE,CM,,0130596,,02/01/2012,1481.37,"Invoice-Medicaid",,02/01/2012,02/10/2012,,01314043MO,-3533.2400,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Lincoln, Rodger",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1453.37,1453.37,"Credit for State Medicaid: Lincoln, Rodger",,,,,,,,,,,,,,,

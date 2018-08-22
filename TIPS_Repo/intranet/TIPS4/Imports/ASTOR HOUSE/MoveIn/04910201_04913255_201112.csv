@@ -1,0 +1,6 @@
+BATCH,,201112,B,6675.6000,
+INVOICE,IN,,04910201,,12/02/2011,6675.6000,"MoveIn-Maddox. William",,12/02/2011,12/02/2011,,04913255,6675.6000,,,,,,,,,,
+TRANSACTION,3010,010101049,30,87.0000,2610,"Basic Service Fee - Studio: Maddox. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,30,68.0200,2040.6,"Resident Care - Level 38: Maddox. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Maddox. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Maddox. William",,,,,,,,,,,,,,,

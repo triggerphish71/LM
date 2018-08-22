@@ -1,0 +1,5 @@
+BATCH,,201108,B,1240.0000,
+INVOICE,IN,,00710147,,08/01/2011,620.0000,"Invoice-Private",,08/01/2011,08/10/2011,,00713177MO,-1268.5000,,,,,,,,,,
+TRANSACTION,3320,010101007,31,20.0000,620.00,"Credit for Limited Term Discount: Grossnickle, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,00710147,,08/01/2011,620,"Invoice-Private",,08/01/2011,08/10/2011,,00713177MO,-1268.5000,,,,,,,,,,
+TRANSACTION,3320,010101007,31,20,620,"Limited Term Discount: Grossnickle, Jean",,,,,,,,,,,,,,,

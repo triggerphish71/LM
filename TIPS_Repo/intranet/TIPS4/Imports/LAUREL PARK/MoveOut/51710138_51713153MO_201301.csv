@@ -1,0 +1,7 @@
+BATCH,,201301,B,144.0000,
+INVOICE,IN,,51710138,,01/01/2013,72.0000,"Invoice-Private",,01/01/2013,01/10/2013,,51713153MO,-4009.3100,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10.0000,10.00,"Pendant Fee: Lorentzen, Bryce",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103517,31,2.0000,62.00,"Credit for Limited Term Discount: Lorentzen, Bryce",,,,,,,,,,,,,,,
+INVOICE,CM,,51710138,,01/01/2013,72,"Invoice-Private",,01/01/2013,01/10/2013,,51713153MO,-4009.3100,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"Credit for Pendant Fee: Lorentzen, Bryce",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103517,31,2,62,"Limited Term Discount: Lorentzen, Bryce",,,,,,,,,,,,,,,

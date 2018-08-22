@@ -1,0 +1,7 @@
+BATCH,,201111,B,2476.9500,
+INVOICE,IN,,09010067,,11/22/2011,486.7500,"Invoice-Medicaid",,11/22/2011,11/22/2011,,09014832MO,-3539.6900,,,,,,,,,,
+TRANSACTION,3021,010104090,25,19.4700,486.75,"Medicaid Room & Board for Nov: Parks, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,09010067,,11/22/2011,1990.2,"Invoice-Medicaid",,11/22/2011,11/22/2011,,09014832MO,-3539.6900,,,,,,,,,,
+TRANSACTION,3021,010104090,1,584,584,"CR:Medicaid Room &... J.Parks 201111: Parks, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... J.Parks 201111: Parks, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104090,1,1381.2,1381.2,"CR:State Medicaid... J.Parks 201111: Parks, Joyce",,,,,,,,,,,,,,,

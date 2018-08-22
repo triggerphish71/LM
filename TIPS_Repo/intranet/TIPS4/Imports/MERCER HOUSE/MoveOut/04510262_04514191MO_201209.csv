@@ -1,0 +1,7 @@
+BATCH,,201209,B,4550.0000,
+INVOICE,IN,,04510262,,09/05/2012,650.0000,"Invoice-Private",,09/05/2012,09/05/2012,,04514191MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,5,76.0000,380.00,"Basic Service Fee - Studio for Sep: Thompson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,5,54.0000,270.00,"Resident Care - Level 4 for Sep: Thompson, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,04510262,,09/05/2012,3900,"Invoice-Private",,09/05/2012,09/05/2012,,04514191MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2280,2280,"CR:Basic Service F... P.Thompson 201209: Thompson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,1620,1620,"CR:Resident Care -... P.Thompson 201209: Thompson, Patricia",,,,,,,,,,,,,,,

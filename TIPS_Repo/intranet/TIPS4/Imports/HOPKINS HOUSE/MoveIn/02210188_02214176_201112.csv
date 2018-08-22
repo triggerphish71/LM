@@ -1,0 +1,5 @@
+BATCH,,201112,B,3621.0000,
+INVOICE,IN,,02210188,,12/01/2011,3621.0000,"December_Rent-Kidwell. Cozy",,12/01/2011,12/10/2011,,02214176,5878.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,31,85.0000,2635,"Basic Service Fee - Studio: Kidwell. Cozy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,31,31.0000,961,"Resident Care - Level 2: Kidwell. Cozy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Kidwell. Cozy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,2592.0000,
+INVOICE,IN,,08810253,,06/01/2013,432.0000,"Invoice-Private",,06/01/2013,06/10/2013,,08814695MO,-1728.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,6,56.0000,336.00,"Basic Service Fee - Studio for Jun: Fenton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,6,16.0000,96.00,"Resident Care - Level 1 for Jun: Fenton, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,08810253,,06/01/2013,2160,"Invoice-Private",,06/01/2013,06/10/2013,,08814695MO,-1728.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1680,1680,"CR:Basic Service F... B.Fenton 201306: Fenton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,480,480,"CR:Resident Care -... B.Fenton 201306: Fenton, Betty",,,,,,,,,,,,,,,

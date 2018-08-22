@@ -1,0 +1,5 @@
+BATCH,,201204,B,1734.0000,
+INVOICE,IN,,16210141,,04/29/2012,1734.0000,"MoveIn-Paynter. Richard",,04/29/2012,04/29/2012,,16212943,5361.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,2,75.0000,150,"Basic Service Fee - Deluxe: Paynter. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,2,42.0000,84,"Resident Care - Level 3: Paynter. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Paynter. Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,54.0000,
+INVOICE,IN,,15310212,,09/01/2011,27.0000,"Invoice-Private",,09/01/2011,09/10/2011,,15315567MO,-6161.6000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Reiss, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,15310212,,09/01/2011,27,"Invoice-Private",,09/01/2011,09/10/2011,,15315567MO,-6161.6000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Reiss, Betty",,,,,,,,,,,,,,,

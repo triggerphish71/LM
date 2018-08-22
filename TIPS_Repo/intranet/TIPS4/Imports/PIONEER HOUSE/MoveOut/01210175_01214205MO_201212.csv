@@ -1,0 +1,7 @@
+BATCH,,201212,B,5334.0300,
+INVOICE,IN,,01210175,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,01214205MO,-5210.0300,,,,,,,,,,
+TRANSACTION,3320,010103012,1,62.0000,62.00,"CR:Limited Term Di... G.Jantz 201212: Jantz, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,01210175,,12/01/2012,5272.03,"Invoice-Private",,12/01/2012,12/10/2012,,01214205MO,-5210.0300,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2635,2635,"CR:Basic Service F... G.Jantz 201212: Jantz, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... G.Jantz 201212: Jantz, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,2608.03,2608.03,"CR:Resident Care -... G.Jantz 201212: Jantz, Gladys",,,,,,,,,,,,,,,

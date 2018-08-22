@@ -1,0 +1,8 @@
+BATCH,,201112,B,7228.0000,
+INVOICE,IN,,19810271,,12/13/2011,3416.0000,"Invoice-Private",,12/13/2011,12/13/2011,,19816826MO,-396.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,28,62.0000,1736.00,"Basic Service Fee AL - Studio B for Dec: Buhr, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,28,60.0000,1680.00,"Swan Personal Care - L3 for Dec: Buhr, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,19810271,,12/13/2011,3812,"Invoice-Private",,12/13/2011,12/13/2011,,19816826MO,-396.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1922,1922,"CR:Basic Service F... R.Buhr 201112: Buhr, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... R.Buhr 201112: Buhr, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1860,1860,"CR:Swan Personal C... R.Buhr 201112: Buhr, Rose",,,,,,,,,,,,,,,

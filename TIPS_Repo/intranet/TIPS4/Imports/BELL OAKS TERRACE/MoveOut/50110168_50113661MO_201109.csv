@@ -1,0 +1,8 @@
+BATCH,,201109,B,4445.0000,
+INVOICE,IN,,50110168,,09/01/2011,120.0000,"Invoice-Private",,09/01/2011,09/10/2011,,50113661MO,-5708.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,120.0000,120.00,"CR:Limited Term Di... V.Spooner 201109: Spooner, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,50110168,,09/01/2011,4325,"Invoice-Private",,09/01/2011,09/10/2011,,50113661MO,-5708.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2520,2520,"CR:Basic Service F... V.Spooner 201109: Spooner, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... V.Spooner 201109: Spooner, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... V.Spooner 201109: Spooner, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1740,1740,"CR:Resident Care -... V.Spooner 201109: Spooner, Vivian",,,,,,,,,,,,,,,

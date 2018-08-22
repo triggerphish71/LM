@@ -1,0 +1,5 @@
+BATCH,,201206,B,60.0000,
+INVOICE,IN,,52610148,,06/01/2012,30.0000,"Invoice-Private",,06/01/2012,06/10/2012,,52616821MO,-4264.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30.0000,30.00,"Garage Rental: Noe, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,52610148,,06/01/2012,30,"Invoice-Private",,06/01/2012,06/10/2012,,52616821MO,-4264.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"Credit for Garage Rental: Noe, Lillian",,,,,,,,,,,,,,,

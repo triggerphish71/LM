@@ -1,0 +1,5 @@
+BATCH,,201107,B,4427.0000,
+INVOICE,IN,,11010337,,07/01/2011,4427.0000,"July_Rent-Britt. Virginia",,07/01/2011,07/10/2011,,11014610,7588.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821,"Basic Service Fee - Studio         : Britt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,51.0000,1581,"Resident Care - Level 4: Britt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Britt. Virginia",,,,,,,,,,,,,,,

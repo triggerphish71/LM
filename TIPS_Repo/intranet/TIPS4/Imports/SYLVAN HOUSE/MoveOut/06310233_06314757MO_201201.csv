@@ -1,0 +1,8 @@
+BATCH,,201201,B,4783.0000,
+INVOICE,IN,,06310233,,01/05/2012,976.0000,"Invoice-Private",,01/05/2012,01/05/2012,,06314757MO,-2831.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,8,107.0000,856.00,"Basic Service Fee - One Bedroom for Jan: Cabanne, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,8,15.0000,120.00,"Resident Care - Level 1 for Jan: Cabanne, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06310233,,01/05/2012,3807,"Invoice-Private",,01/05/2012,01/05/2012,,06314757MO,-2831.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,3317,3317,"CR:Basic Service F... B.Cabanne 201201: Cabanne, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... B.Cabanne 201201: Cabanne, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,465,465,"CR:Resident Care -... B.Cabanne 201201: Cabanne, Betty",,,,,,,,,,,,,,,

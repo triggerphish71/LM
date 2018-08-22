@@ -1,0 +1,5 @@
+BATCH,,201205,B,3776.0000,
+INVOICE,IN,,16810397,,05/01/2012,118.0000,"Invoice-Private",,05/01/2012,05/01/2012,,16816565MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,118.0000,118.00,"Room and Board - One Bedroom Premium for May: Holliday, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,16810397,,05/01/2012,3658,"Invoice-Private",,05/01/2012,05/01/2012,,16816565MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3658,3658,"CR:Room and Board ... L.Holliday 201205: Holliday, Louise",,,,,,,,,,,,,,,

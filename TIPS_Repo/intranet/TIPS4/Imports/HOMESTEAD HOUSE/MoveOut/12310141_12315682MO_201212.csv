@@ -1,0 +1,5 @@
+BATCH,,201212,B,90.0000,
+INVOICE,IN,,12310141,,12/01/2012,45.0000,"Invoice-Private",,12/01/2012,12/10/2012,,12315682MO,-2340.0000,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45.0000,45.00,"Pendant Fee: Williams, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,12310141,,12/01/2012,45,"Invoice-Private",,12/01/2012,12/10/2012,,12315682MO,-2340.0000,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45,45,"Credit for Pendant Fee: Williams, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201105,B,2435.0000,
+INVOICE,IN,,10010209,,05/27/2011,2435.0000,"MoveIn-Richards. Eunice",,05/27/2011,05/27/2011,,10013670,4920.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,5,82.0000,410,"Basic Service Fee - Studio         : Richards. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Richards. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,2000.0000,2000,"New Resident Fee: Richards. Eunice",,,,,,,,,,,,,,,

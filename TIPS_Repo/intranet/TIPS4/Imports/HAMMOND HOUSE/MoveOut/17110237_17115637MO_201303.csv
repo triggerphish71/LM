@@ -1,0 +1,8 @@
+BATCH,,201303,B,4437.0000,
+INVOICE,IN,,17110237,,03/06/2013,1155.0000,"Invoice-Private",,03/06/2013,03/06/2013,,17115637MO,-2127.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,11,63.0000,693.00,"Basic Service Fee - Studio for Mar: Simpkins, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,11,42.0000,462.00,"Resident Care - Level 3 for Mar: Simpkins, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,17110237,,03/06/2013,3282,"Invoice-Private",,03/06/2013,03/06/2013,,17115637MO,-2127.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,1953,1953,"CR:Basic Service F... A.Simpkins 201303: Simpkins, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... A.Simpkins 201303: Simpkins, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1302,1302,"CR:Resident Care -... A.Simpkins 201303: Simpkins, Andrew",,,,,,,,,,,,,,,

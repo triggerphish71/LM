@@ -1,0 +1,7 @@
+BATCH,,201211,B,3669.4700,
+INVOICE,IN,,51710205,,11/01/2012,118.3700,"Invoice-Private",,11/01/2012,11/01/2012,,51713121MO,-3432.7300,,,,,,,,,,
+TRANSACTION,3027,010103517,1,5.3700,5.37,"Resident Care - Level 3 for Nov: Gott, Jaynne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103517,1,113.0000,113.00,"Room and Board - One Bedroom for Nov: Gott, Jaynne",,,,,,,,,,,,,,,
+INVOICE,CM,,51710205,,11/01/2012,3551.1,"Invoice-Private",,11/01/2012,11/01/2012,,51713121MO,-3432.7300,,,,,,,,,,
+TRANSACTION,3027,010103517,1,161.1,161.1,"CR:Resident Care -... J.Gott 201211: Gott, Jaynne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103517,1,3390,3390,"CR:Room and Board ... J.Gott 201211: Gott, Jaynne",,,,,,,,,,,,,,,

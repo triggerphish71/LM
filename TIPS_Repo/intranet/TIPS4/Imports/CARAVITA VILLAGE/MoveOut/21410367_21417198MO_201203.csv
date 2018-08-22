@@ -1,0 +1,5 @@
+BATCH,,201203,B,4092.0000,
+INVOICE,IN,,21410367,,03/01/2012,2046.0000,"Invoice-Private",,03/01/2012,03/10/2012,,21417198MO,522.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,66.0000,2046.00,"Credit for Limited Term Discount: Rucker, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,21410367,,03/01/2012,2046,"Invoice-Private",,03/01/2012,03/10/2012,,21417198MO,522.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,66,2046,"Limited Term Discount: Rucker, Ruby",,,,,,,,,,,,,,,

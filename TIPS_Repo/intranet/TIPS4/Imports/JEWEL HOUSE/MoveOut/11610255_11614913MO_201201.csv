@@ -1,0 +1,5 @@
+BATCH,,201201,B,5084.0000,
+INVOICE,IN,,11610255,,01/01/2012,1240.0000,"Invoice-Private",,01/01/2012,01/10/2012,,11614913MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,10,124.0000,1240.00,"Room and Board - One Bedroom for Jan: Kitchens, Fleurette",,,,,,,,,,,,,,,
+INVOICE,CM,,11610255,,01/01/2012,3844,"Invoice-Private",,01/01/2012,01/10/2012,,11614913MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3844,3844,"CR:Room and Board ... F.Kitchens 201201: Kitchens, Fleurette",,,,,,,,,,,,,,,

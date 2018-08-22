@@ -1,0 +1,7 @@
+BATCH,,201209,B,3420.0000,
+INVOICE,IN,,13510239,,09/04/2012,690.0000,"Invoice-Private",,09/04/2012,09/04/2012,,13515348MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,60.0000,60.00,"CR:Limited Term Di... H.Jarvis 201209: Jarvis, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309135,7,90.0000,630.00,"Basic Service Fee - Studio for Sep: Jarvis, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,13510239,,09/04/2012,2730,"Invoice-Private",,09/04/2012,09/04/2012,,13515348MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... H.Jarvis 201209: Jarvis, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Jarvis 201209: Jarvis, Henry",,,,,,,,,,,,,,,

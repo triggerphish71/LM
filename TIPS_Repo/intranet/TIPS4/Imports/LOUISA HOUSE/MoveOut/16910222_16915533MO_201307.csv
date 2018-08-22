@@ -1,0 +1,5 @@
+BATCH,,201307,B,50.0000,
+INVOICE,IN,,16910222,,07/01/2013,25.0000,"Invoice-Private",,07/01/2013,07/10/2013,,16915533MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25.00,"Monthly Cable: Hanson, Carmen",,,,,,,,,,,,,,,
+INVOICE,CM,,16910222,,07/01/2013,25,"Invoice-Private",,07/01/2013,07/10/2013,,16915533MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"Credit for Monthly Cable: Hanson, Carmen",,,,,,,,,,,,,,,

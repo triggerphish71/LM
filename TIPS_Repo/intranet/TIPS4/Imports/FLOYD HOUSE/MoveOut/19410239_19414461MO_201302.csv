@@ -1,0 +1,6 @@
+BATCH,,201302,B,2352.0000,
+INVOICE,IN,,19410239,,02/01/2013,588.0000,"Invoice-Private",,02/01/2013,02/10/2013,,19414461MO,-966.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,588.0000,588.00,"CR:Limited Term Di... D.McFarland 201302: McFarland, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,19410239,,02/01/2013,1764,"Invoice-Private",,02/01/2013,02/10/2013,,19414461MO,-966.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,868,868,"CR:Basic Service F... D.McFarland 201302: McFarland, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,896,896,"CR:Swan Personal C... D.McFarland 201302: McFarland, Darrell",,,,,,,,,,,,,,,

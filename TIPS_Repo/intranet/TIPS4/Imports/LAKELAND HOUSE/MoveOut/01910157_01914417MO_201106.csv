@@ -1,0 +1,6 @@
+BATCH,,201106,B,3303.0000,
+INVOICE,IN,,01910157,,06/05/2011,546.0000,"Invoice-Private",,06/05/2011,06/05/2011,,01914417MO,-2211.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,6,91.0000,546.00,"Basic Service Fee - Studio for Jun: Smitson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,01910157,,06/05/2011,2757,"Invoice-Private",,06/05/2011,06/05/2011,,01914417MO,-2211.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2730,2730,"CR:Basic Service F... D.Smitson 201106: Smitson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"CR:Monthly Cable... D.Smitson 201106: Smitson, Dorothy",,,,,,,,,,,,,,,

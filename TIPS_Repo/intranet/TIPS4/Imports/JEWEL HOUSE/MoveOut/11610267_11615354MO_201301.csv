@@ -1,0 +1,6 @@
+BATCH,,201301,B,4743.0000,
+INVOICE,IN,,11610267,,01/01/2013,1085.0000,"Invoice-Private",,01/01/2013,01/10/2013,,11615354MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,1085.0000,1085.00,"CR:Limited Term Di... N.Schoenhoeft 201301: Schoenhoeft, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,11610267,,01/01/2013,3658,"Invoice-Private",,01/01/2013,01/10/2013,,11615354MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Basic Service F... N.Schoenhoeft 201301: Schoenhoeft, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,558,558,"CR:Resident Care -... N.Schoenhoeft 201301: Schoenhoeft, Norma",,,,,,,,,,,,,,,

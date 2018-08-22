@@ -1,0 +1,7 @@
+BATCH,,201107,B,8614.0000,
+INVOICE,IN,,07810232,,07/13/2011,4088.0000,"Invoice-Private",,07/13/2011,07/13/2011,,07814317MO,-4989.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,28,89.0000,2492.00,"Basic Service Fee - Studio for Jul: Hall, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,28,57.0000,1596.00,"Resident Care - Level 4 for Jul: Hall, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,07810232,,07/13/2011,4526,"Invoice-Private",,07/13/2011,07/13/2011,,07814317MO,-4989.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2759,2759,"CR:Basic Service F... R.Hall 201107: Hall, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1767,1767,"CR:Resident Care -... R.Hall 201107: Hall, Robert",,,,,,,,,,,,,,,

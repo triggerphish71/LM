@@ -1,0 +1,5 @@
+BATCH,,201201,B,2132.0000,
+INVOICE,IN,,13910283,,01/31/2012,2132.0000,"MoveIn-Braga. Mary",,01/31/2012,01/31/2012,,13916047,5120.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,1,102.0000,102,"M.Braga: Basic Service Fee - Studio: Braga. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Braga. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000.0000,2000,"New Resident Fee: Braga. Mary",,,,,,,,,,,,,,,

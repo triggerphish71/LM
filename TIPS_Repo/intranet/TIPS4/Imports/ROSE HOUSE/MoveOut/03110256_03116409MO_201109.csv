@@ -1,0 +1,8 @@
+BATCH,,201109,B,9113.0000,
+INVOICE,IN,,03110256,,09/01/2011,4466.0000,"Invoice-Private",,09/01/2011,09/10/2011,,03116409MO,-4982.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,29,110.0000,3190.00,"Basic Service Fee - One Bedroom for Sep: Boullion, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,29,44.0000,1276.00,"Resident Care - Level 3 for Sep: Boullion, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,03110256,,09/01/2011,4647,"Invoice-Private",,09/01/2011,09/10/2011,,03116409MO,-4982.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3300,3300,"CR:Basic Service F... J.Boullion 201109: Boullion, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... J.Boullion 201109: Boullion, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1320,1320,"CR:Resident Care -... J.Boullion 201109: Boullion, Josephine",,,,,,,,,,,,,,,

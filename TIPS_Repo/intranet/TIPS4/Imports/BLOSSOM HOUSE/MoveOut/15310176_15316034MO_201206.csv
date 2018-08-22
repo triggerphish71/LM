@@ -1,0 +1,7 @@
+BATCH,,201206,B,6216.7400,
+INVOICE,IN,,15310176,,06/01/2012,1176.1400,"Invoice-Private",,06/01/2012,06/10/2012,,15316034MO,-3864.4600,,,,,,,,,,
+TRANSACTION,3020,010103153,7,100.0000,700.00,"Basic Service Fee - Studio for Jun: Montoya, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,7,68.0200,476.14,"Resident Care - Level 38 for Jun: Montoya, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,15310176,,06/01/2012,5040.6,"Invoice-Private",,06/01/2012,06/10/2012,,15316034MO,-3864.4600,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... F.Montoya 201206: Montoya, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2040.6,2040.6,"CR:Resident Care -... F.Montoya 201206: Montoya, Fred",,,,,,,,,,,,,,,

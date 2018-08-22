@@ -1,0 +1,5 @@
+BATCH,,201801,B,4648.0000,
+INVOICE,IN,,15110267,,01/25/2018,2075.0000,"Invoice-Private",,01/25/2018,01/25/2018,,15116701MO,-2822.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,25,83.0000,2075.00,"Basic Service Fee- One Bedroom Premium  for Jan: Crandall, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,15110267,,01/25/2018,2573,"Invoice-Private",,01/25/2018,01/25/2018,,15116701MO,-2822.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,2573,2573,"CR:Basic Service F... D.Crandall 201801: Crandall, Donna",,,,,,,,,,,,,,,

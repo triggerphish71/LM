@@ -1,0 +1,8 @@
+BATCH,,201207,B,5819.4000,
+INVOICE,IN,,01210237,,07/04/2012,661.7600,"Invoice-Private",,07/04/2012,07/04/2012,,01214038MO,-4495.8800,,,,,,,,,,
+TRANSACTION,3020,010103012,4,101.0000,404.00,"Basic Service Fee - One Bedroom for Jul: Nash, Lorena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,4,64.4400,257.76,"Resident Care - Level 36 for Jul: Nash, Lorena",,,,,,,,,,,,,,,
+INVOICE,CM,,01210237,,07/04/2012,5157.64,"Invoice-Private",,07/04/2012,07/04/2012,,01214038MO,-4495.8800,,,,,,,,,,
+TRANSACTION,3020,010103012,1,3131,3131,"CR:Basic Service F... L.Nash 201207: Nash, Lorena",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... L.Nash 201207: Nash, Lorena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1997.64,1997.64,"CR:Resident Care -... L.Nash 201207: Nash, Lorena",,,,,,,,,,,,,,,

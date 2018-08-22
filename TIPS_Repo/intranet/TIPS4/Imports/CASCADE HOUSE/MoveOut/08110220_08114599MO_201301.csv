@@ -1,0 +1,8 @@
+BATCH,,201301,B,2360.4600,
+INVOICE,IN,,08110220,,01/10/2013,622.6000,"Invoice-Private",,01/10/2013,01/10/2013,,08114599MO,-1115.2600,,,,,,,,,,
+TRANSACTION,3320,010103081,1,62.0000,62.00,"CR:Limited Term Di... R.Vanderlaan 201301: Vanderlaan, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,10,31.0000,310.00,"Basic Service Fee - Second Resident for Jan: Vanderlaan, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,10,25.0600,250.60,"Resident Care - Level 14 for Jan: Vanderlaan, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,08110220,,01/10/2013,1737.86,"Invoice-Private",,01/10/2013,01/10/2013,,08114599MO,-1115.2600,,,,,,,,,,
+TRANSACTION,3020,010103081,1,961,961,"CR:Basic Service F... R.Vanderlaan 201301: Vanderlaan, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,776.86,776.86,"CR:Resident Care -... R.Vanderlaan 201301: Vanderlaan, Ralph",,,,,,,,,,,,,,,

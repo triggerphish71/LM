@@ -1,0 +1,7 @@
+BATCH,,201106,B,670.0000,
+INVOICE,IN,,19610152,,06/01/2011,335.0000,"Invoice-Private",,06/01/2011,06/10/2011,,19612546MO,-3059.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35.00,"Monthly Cable: Raspor, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315196,30,10.0000,300.00,"HSG Meals: Raspor, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,19610152,,06/01/2011,335,"Invoice-Private",,06/01/2011,06/10/2011,,19612546MO,-3059.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"Credit for Monthly Cable: Raspor, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315196,30,10,300,"Credit for HSG Meals: Raspor, Dorothy",,,,,,,,,,,,,,,

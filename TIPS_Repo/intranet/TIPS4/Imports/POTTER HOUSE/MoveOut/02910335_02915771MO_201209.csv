@@ -1,0 +1,7 @@
+BATCH,,201209,B,4356.0000,
+INVOICE,IN,,02910335,,09/01/2012,396.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02915771MO,-3564.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,3,100.0000,300.00,"Basic Service Fee - Studio for Sep: Graham, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,3,32.0000,96.00,"Resident Care - Level 2 for Sep: Graham, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,02910335,,09/01/2012,3960,"Invoice-Private",,09/01/2012,09/10/2012,,02915771MO,-3564.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3000,3000,"CR:Basic Service F... J.Graham 201209: Graham, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,960,960,"CR:Resident Care -... J.Graham 201209: Graham, Joseph",,,,,,,,,,,,,,,

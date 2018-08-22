@@ -1,0 +1,7 @@
+BATCH,,201201,B,2935.6600,
+INVOICE,IN,,51710198,,01/21/2012,2935.6600,"MoveIn-Ward. MaryBelle",,01/21/2012,01/21/2012,,51712841,5282.4000,,,,,,,,,,
+TRANSACTION,3010,010103517,11,55.0000,605,"Basic Service Fee - Studio: Ward. MaryBelle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103517,11,25.0600,275.66,"Resident Care - Level 14: Ward. MaryBelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Ward. MaryBelle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,2000.0000,2000,"New Resident Fee: Ward. MaryBelle",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,30.0000,30,"Pendant Fee: Ward. MaryBelle",,,,,,,,,,,,,,,

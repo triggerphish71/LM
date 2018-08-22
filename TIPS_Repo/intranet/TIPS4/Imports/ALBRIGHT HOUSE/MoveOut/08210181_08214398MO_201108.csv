@@ -1,0 +1,8 @@
+BATCH,,201108,B,4655.8000,
+INVOICE,IN,,08210181,,08/20/2011,1816.0000,"Invoice-Private",,08/20/2011,08/20/2011,,08214398MO,-3772.8000,,,,,,,,,,
+TRANSACTION,3027,010103082,20,6.8000,136.00,"Resident Care - Level 4 for Aug: Plucinski, Fredric",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103082,20,84.0000,1680.00,"Room and Board - Studio for Aug: Plucinski, Fredric",,,,,,,,,,,,,,,
+INVOICE,CM,,08210181,,08/20/2011,2839.8,"Invoice-Private",,08/20/2011,08/20/2011,,08214398MO,-3772.8000,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... F.Plucinski 201108: Plucinski, Fredric",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,210.8,210.8,"CR:Resident Care -... F.Plucinski 201108: Plucinski, Fredric",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2604,2604,"CR:Room and Board ... F.Plucinski 201108: Plucinski, Fredric",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,3776.0000,
+INVOICE,IN,,17410187,,03/28/2013,1792.0000,"Invoice-Private",,03/28/2013,03/28/2013,,17414685MO,-2112.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,28,64.0000,1792.00,"Basic Service Fee - Studio for Mar: Spencer, Ronnie",,,,,,,,,,,,,,,
+INVOICE,CM,,17410187,,03/28/2013,1984,"Invoice-Private",,03/28/2013,03/28/2013,,17414685MO,-2112.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,1984,1984,"CR:Basic Service F... R.Spencer 201303: Spencer, Ronnie",,,,,,,,,,,,,,,

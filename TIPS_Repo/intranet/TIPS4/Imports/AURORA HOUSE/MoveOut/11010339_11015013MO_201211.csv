@@ -1,0 +1,5 @@
+BATCH,,201211,B,2160.0000,
+INVOICE,IN,,11010339,,11/01/2012,1080.0000,"Invoice-Private",,11/01/2012,11/10/2012,,11015013MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,30,36.0000,1080.00,"Credit for Limited Term Discount: Donoho, Lucilia Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010339,,11/01/2012,1080,"Invoice-Private",,11/01/2012,11/10/2012,,11015013MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,30,36,1080,"Limited Term Discount: Donoho, Lucilia Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201210,B,6362.0000,
+INVOICE,IN,,13410274,,10/01/2012,2886.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13415742MO,-590.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,26,111.0000,2886.00,"Basic Service Fee- One Bedroom Prem for Oct: Sweeny, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13410274,,10/01/2012,3476,"Invoice-Private",,10/01/2012,10/10/2012,,13415742MO,-590.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,3441,3441,"CR:Basic Service F... J.Sweeny 201210: Sweeny, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... J.Sweeny 201210: Sweeny, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201307,B,4613.0000,
+INVOICE,IN,,13610274,,07/11/2013,1199.0000,"Invoice-Private",,07/11/2013,07/11/2013,,13615819MO,-2215.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,11,78.0000,858.00,"Basic Service Fee- One Bedroom Prem for Jul: Thomas, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,11,31.0000,341.00,"Resident Care - Level 2 for Jul: Thomas, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13610274,,07/11/2013,3414,"Invoice-Private",,07/11/2013,07/11/2013,,13615819MO,-2215.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2418,2418,"CR:Basic Service F... R.Thomas 201307: Thomas, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... R.Thomas 201307: Thomas, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... R.Thomas 201307: Thomas, Robert",,,,,,,,,,,,,,,

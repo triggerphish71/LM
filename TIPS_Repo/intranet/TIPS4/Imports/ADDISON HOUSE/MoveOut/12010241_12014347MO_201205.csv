@@ -1,0 +1,7 @@
+BATCH,,201205,B,184.0000,
+INVOICE,IN,,12010241,,05/01/2012,92.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12014347MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: Robinson, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,2.0000,62.00,"Credit for Limited Term Discount: Robinson, Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,12010241,,05/01/2012,92,"Invoice-Private",,05/01/2012,05/10/2012,,12014347MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: Robinson, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,2,62,"Limited Term Discount: Robinson, Faye",,,,,,,,,,,,,,,

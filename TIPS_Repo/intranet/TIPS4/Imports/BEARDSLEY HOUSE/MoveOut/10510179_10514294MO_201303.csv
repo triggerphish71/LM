@@ -1,0 +1,7 @@
+BATCH,,201303,B,8524.5600,
+INVOICE,IN,,10510179,,03/13/2013,2518.6200,"Invoice-Private",,03/13/2013,03/13/2013,,10514294MO,-3487.3200,,,,,,,,,,
+TRANSACTION,3020,010309105,13,104.0000,1352.00,"Basic Service Fee - One Bedroom for Mar: Sailor, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,13,89.7400,1166.62,"Resident Care - Level 6+6 pts for Mar: Sailor, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,10510179,,03/13/2013,6005.94,"Invoice-Private",,03/13/2013,03/13/2013,,10514294MO,-3487.3200,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3224,3224,"CR:Basic Service F... B.Sailor 201303: Sailor, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,2781.94,2781.94,"CR:Resident Care -... B.Sailor 201303: Sailor, Betty",,,,,,,,,,,,,,,

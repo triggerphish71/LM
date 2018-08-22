@@ -1,0 +1,7 @@
+BATCH,,201204,B,4950.0000,
+INVOICE,IN,,09210162,,04/15/2012,1650.0000,"Invoice-Private",,04/15/2012,04/15/2012,,09214760MO,-1650.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,15,78.0000,1170.00,"Basic Service Fee - Studio for Apr: Green, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,15,32.0000,480.00,"Resident Care - Level 2 for Apr: Green, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,09210162,,04/15/2012,3300,"Invoice-Private",,04/15/2012,04/15/2012,,09214760MO,-1650.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2340,2340,"CR:Basic Service F... M.Green 201204: Green, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,960,960,"CR:Resident Care -... M.Green 201204: Green, Mabel",,,,,,,,,,,,,,,

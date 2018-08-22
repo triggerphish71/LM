@@ -1,0 +1,6 @@
+BATCH,,201806,B,2860.0000,
+INVOICE,IN,,34900098,,06/06/2018,760.0000,"Invoice-Private",,06/06/2018,06/06/2018,,34912262MO,-1340.0000,,,,,,,,,,
+TRANSACTION,3010,070027349,1,760.0000,760.00,"Basic Service Fee - MC Studio: Madsen, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,34900098,,06/06/2018,2100,"Invoice-Private",,06/06/2018,06/06/2018,,34912262MO,-1340.0000,,,,,,,,,,
+TRANSACTION,3027,070027349,1,1110,1110,"CR:Resident Care -... L.Madsen 201806: Madsen, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3020,070027349,1,990,990,"CR:Studio deluxe... L.Madsen 201806: Madsen, Lorraine",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,5388.0000,
+INVOICE,IN,,19510255,,11/30/2012,2474.0000,"MoveIn-Dernovish. Cecil",,11/30/2012,11/30/2012,,19514665,5388.0000,,,,,,,,,,
+TRANSACTION,3014,010309195,1,94.0000,94,"Basic Service Fee - Studio: Dernovish. Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309195,1,2380.0000,2380,"New Resident Fee: Dernovish. Cecil",,,,,,,,,,,,,,,
+INVOICE,IN,,19510255,,12/01/2012,2914.0000,"December_Rent-Dernovish. Cecil",,12/01/2012,12/10/2012,,19514665,5388.0000,,,,,,,,,,
+TRANSACTION,3010,010309195,31,94.0000,2914,"Basic Service Fee - Studio: Dernovish. Cecil",,,,,,,,,,,,,,,

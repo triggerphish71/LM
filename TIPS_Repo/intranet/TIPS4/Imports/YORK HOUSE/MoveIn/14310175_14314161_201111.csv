@@ -1,0 +1,5 @@
+BATCH,,201111,B,3695.0000,
+INVOICE,IN,,14310175,,11/04/2011,3695.0000,"MoveIn-Miller. Norman",,11/04/2011,11/04/2011,,14314161,3695.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,27,80.0000,2160,"Basic Service Fee - Studio         : Miller. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Miller. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Miller. Norman",,,,,,,,,,,,,,,

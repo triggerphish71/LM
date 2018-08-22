@@ -1,0 +1,7 @@
+BATCH,,201210,B,4599.0000,
+INVOICE,IN,,14210183,,10/11/2012,1836.0000,"Invoice-Private",,10/11/2012,10/11/2012,,14214139MO,-927.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,1,868.0000,868.00,"CR:Limited Term Di... T.Rajchel 201210: Rajchel, Theodore ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,11,88.0000,968.00,"Basic Service Fee - Studio for Oct: Rajchel, Theodore ",,,,,,,,,,,,,,,
+INVOICE,CM,,14210183,,10/11/2012,2763,"Invoice-Private",,10/11/2012,10/11/2012,,14214139MO,-927.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2728,2728,"CR:Basic Service F... T.Rajchel 201210: Rajchel, Theodore ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... T.Rajchel 201210: Rajchel, Theodore ",,,,,,,,,,,,,,,

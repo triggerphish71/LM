@@ -1,0 +1,7 @@
+BATCH,,201211,B,130.0000,
+INVOICE,IN,,13610287,,11/01/2012,65.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13615104MO,-2301.0000,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30.0000,30.00,"Pendant Fee: McLary, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35.00,"Monthly Cable: McLary, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13610287,,11/01/2012,65,"Invoice-Private",,11/01/2012,11/10/2012,,13615104MO,-2301.0000,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"Credit for Pendant Fee: McLary, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"Credit for Monthly Cable: McLary, Richard",,,,,,,,,,,,,,,

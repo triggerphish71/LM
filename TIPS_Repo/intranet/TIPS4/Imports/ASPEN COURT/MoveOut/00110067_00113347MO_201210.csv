@@ -1,0 +1,8 @@
+BATCH,,201210,B,3387.6000,
+INVOICE,IN,,00110067,,10/01/2012,296.7000,"Invoice-Private",,10/01/2012,10/10/2012,,00113347MO,-2794.2000,,,,,,,,,,
+TRANSACTION,3020,010101001,3,81.0000,243.00,"Basic Service Fee - One Bedroom for Oct: Jahns, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,3,17.9000,53.70,"Resident Care - Level 10 for Oct: Jahns, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,00110067,,10/01/2012,3090.9,"Invoice-Private",,10/01/2012,10/10/2012,,00113347MO,-2794.2000,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2511,2511,"CR:Basic Service F... M.Jahns 201210: Jahns, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... M.Jahns 201210: Jahns, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,554.9,554.9,"CR:Resident Care -... M.Jahns 201210: Jahns, Margaret",,,,,,,,,,,,,,,

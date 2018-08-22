@@ -1,0 +1,7 @@
+BATCH,,201212,B,160.0000,
+INVOICE,IN,,15410149,,12/01/2012,80.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15415154MO,-3601.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Grashorn, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45.0000,45.00,"Pendant Fee: Grashorn, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,15410149,,12/01/2012,80,"Invoice-Private",,12/01/2012,12/10/2012,,15415154MO,-3601.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Grashorn, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45,45,"Credit for Pendant Fee: Grashorn, Rita",,,,,,,,,,,,,,,

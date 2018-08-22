@@ -1,0 +1,8 @@
+BATCH,,201803,B,3564.5000,
+INVOICE,IN,,13910437,,03/02/2018,250.6000,"Invoice-Private",,03/02/2018,03/02/2018,,13919110MO,-3063.3000,,,,,,,,,,
+TRANSACTION,3017,010003139,0,29.9000,0.00,"Level Care:  13  - 2018-03-01: Mellor, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003139,2,48.3000,96.60," Level Care:  21 : Mellor, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003139,2,77.0000,154.00,"Basic Service Fee - Studio  for Mar: Mellor, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,13910437,,03/02/2018,3313.9,"Invoice-Private",,03/02/2018,03/02/2018,,13919110MO,-3063.3000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,2387,2387,"CR:Basic Service F... R.Mellor 201803: Mellor, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,926.9,926.9,"CR:Resident Care -... R.Mellor 201803: Mellor, Raymond",,,,,,,,,,,,,,,

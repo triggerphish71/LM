@@ -1,0 +1,5 @@
+BATCH,,201110,B,4232.0000,
+INVOICE,IN,,03310325,,10/05/2011,4232.0000,"MoveIn-Wishert. Johnny",,10/05/2011,10/05/2011,,03316073,4232.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,27,91.0000,2457,"Basic Service Fee - Studio         : Wishert. Johnny",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Wishert. Johnny",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202033,1,1750.0000,1750,"New Resident Fee: Wishert. Johnny",,,,,,,,,,,,,,,

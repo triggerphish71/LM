@@ -1,0 +1,6 @@
+BATCH,,201301,B,1155.0000,
+INVOICE,IN,,10010240,,01/25/2013,1155.0000,"MoveIn-Burroughs. Audrey",,01/25/2013,01/25/2013,,10014048,3700.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,7,75.0000,525,"Basic Service Fee - Studio: Burroughs. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,7,15.0000,105,"Resident Care - Level 1: Burroughs. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Burroughs. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Burroughs. Audrey",,,,,,,,,,,,,,,

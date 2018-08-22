@@ -1,0 +1,7 @@
+BATCH,,201306,B,6919.0000,
+INVOICE,IN,,19210311,,06/07/2013,1309.0000,"Invoice-Private",,06/07/2013,06/07/2013,,19215877MO,-4301.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,7,143.0000,1001.00,"Basic Service Fee- One Bedroom Premium for Jun: Simmons, Emory",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,7,44.0000,308.00,"Resident Care - Level 3 for Jun: Simmons, Emory",,,,,,,,,,,,,,,
+INVOICE,CM,,19210311,,06/07/2013,5610,"Invoice-Private",,06/07/2013,06/07/2013,,19215877MO,-4301.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,4290,4290,"CR:Basic Service F... E.Simmons 201306: Simmons, Emory",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1320,1320,"CR:Resident Care -... E.Simmons 201306: Simmons, Emory",,,,,,,,,,,,,,,

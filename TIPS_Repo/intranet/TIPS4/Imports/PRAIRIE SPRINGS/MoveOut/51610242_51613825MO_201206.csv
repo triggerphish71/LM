@@ -1,0 +1,7 @@
+BATCH,,201206,B,5012.9400,
+INVOICE,IN,,51610242,,06/13/2012,1515.5400,"Invoice-Private",,06/13/2012,06/13/2012,,51613825MO,-1981.8600,,,,,,,,,,
+TRANSACTION,3020,010103516,13,113.0000,1469.00,"Basic Service Fee - One Bedroom for Jun: Haag, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,13,3.5800,46.54,"Resident Care - Level 2 for Jun: Haag, Leo",,,,,,,,,,,,,,,
+INVOICE,CM,,51610242,,06/13/2012,3497.4,"Invoice-Private",,06/13/2012,06/13/2012,,51613825MO,-1981.8600,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3390,3390,"CR:Basic Service F... L.Haag 201206: Haag, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,107.4,107.4,"CR:Resident Care -... L.Haag 201206: Haag, Leo",,,,,,,,,,,,,,,

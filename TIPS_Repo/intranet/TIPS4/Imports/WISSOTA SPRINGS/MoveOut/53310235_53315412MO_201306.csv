@@ -1,0 +1,7 @@
+BATCH,,201306,B,100.0000,
+INVOICE,IN,,53310235,,06/01/2013,50.0000,"Invoice-Private",,06/01/2013,06/10/2013,,53315412MO,-1858.0000,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25.00,"Monthly Cable: Fischer, Frank ",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25.00,"Pendant Fee: Fischer, Frank ",,,,,,,,,,,,,,,
+INVOICE,CM,,53310235,,06/01/2013,50,"Invoice-Private",,06/01/2013,06/10/2013,,53315412MO,-1858.0000,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"Credit for Monthly Cable: Fischer, Frank ",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"Credit for Pendant Fee: Fischer, Frank ",,,,,,,,,,,,,,,

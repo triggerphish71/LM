@@ -1,0 +1,6 @@
+BATCH,,201107,B,3943.0000,
+INVOICE,IN,,13310351,,07/14/2011,3943.0000,"MoveIn-Dickson. Alfred",,07/14/2011,07/14/2011,,13314988,3943.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,18,89.0000,1602,"Basic Service Fee - Studio         : Dickson. Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,18,17.0000,306,"Resident Care - Level 1: Dickson. Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Dickson. Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Dickson. Alfred",,,,,,,,,,,,,,,

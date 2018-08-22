@@ -1,0 +1,5 @@
+BATCH,,201305,B,2968.0000,
+INVOICE,IN,,06510194,,05/01/2013,1232.0000,"Invoice-Private",,05/01/2013,05/10/2013,,06515208MO,-504.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,22,56.0000,1232.00,"Basic Service Fee - Studio for May: Kroeckel, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,06510194,,05/01/2013,1736,"Invoice-Private",,05/01/2013,05/10/2013,,06515208MO,-504.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1736,1736,"CR:Basic Service F... J.Kroeckel 201305: Kroeckel, Joseph",,,,,,,,,,,,,,,

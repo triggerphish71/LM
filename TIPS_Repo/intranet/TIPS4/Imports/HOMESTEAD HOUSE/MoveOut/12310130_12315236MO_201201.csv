@@ -1,0 +1,7 @@
+BATCH,,201201,B,7130.0000,
+INVOICE,IN,,12310130,,01/15/2012,2325.0000,"Invoice-Private",,01/15/2012,01/15/2012,,12315236MO,-2480.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,15,103.0000,1545.00,"Basic Service Fee - Studio for Jan: Diener, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,15,52.0000,780.00,"Resident Care - Level 3 for Jan: Diener, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,12310130,,01/15/2012,4805,"Invoice-Private",,01/15/2012,01/15/2012,,12315236MO,-2480.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... I.Diener 201201: Diener, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... I.Diener 201201: Diener, Irene",,,,,,,,,,,,,,,

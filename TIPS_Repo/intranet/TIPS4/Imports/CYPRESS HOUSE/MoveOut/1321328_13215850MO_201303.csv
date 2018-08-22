@@ -1,0 +1,7 @@
+BATCH,,201303,B,5987.0000,
+INVOICE,IN,,1321328,,03/01/2013,2573.0000,"Invoice-Private",,03/01/2013,03/10/2013,,13215850MO,-540.0000,,,,,,,,,,
+TRANSACTION,3027,010308132,1,2573.0000,2573.00,"CR:Resident Care L... A.McGraw 201303: McGraw, Anita",,,,,,,,,,,,,,,
+INVOICE,CM,,1321328,,03/01/2013,3414,"Invoice-Private",,03/01/2013,03/10/2013,,13215850MO,-540.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,806,806,"CR:Basic Service F... A.McGraw 201303: McGraw, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308132,1,35,35,"CR:Pendant Fee... A.McGraw 201303: McGraw, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,2573,2573,"CR:Resident Care -... A.McGraw 201303: McGraw, Anita",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,6760.0000,
+INVOICE,IN,,12310176,,05/21/2011,2730.0000,"Invoice-Private",,05/21/2011,05/21/2011,,12314964MO,-5200.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,21,111.0000,2331.00,"Basic Service Fee - Deluxe for May: Hajek, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,21,19.0000,399.00,"Resident Care - Level 1 for May: Hajek, John",,,,,,,,,,,,,,,
+INVOICE,CM,,12310176,,05/21/2011,4030,"Invoice-Private",,05/21/2011,05/21/2011,,12314964MO,-5200.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3441,3441,"CR:Basic Service F... J.Hajek 201105: Hajek, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,589,589,"CR:Resident Care -... J.Hajek 201105: Hajek, John",,,,,,,,,,,,,,,

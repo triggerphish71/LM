@@ -1,0 +1,5 @@
+BATCH,,201201,B,1822.0000,
+INVOICE,IN,,50110257,,01/23/2012,1822.0000,"MoveIn-Dixon. Mary",,01/23/2012,01/23/2012,,50113940,4404.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,9,88.0000,792,"Basic Service Fee - Studio: Dixon. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Dixon. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Dixon. Mary",,,,,,,,,,,,,,,

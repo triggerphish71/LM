@@ -1,0 +1,8 @@
+BATCH,,201109,B,8372.0000,
+INVOICE,IN,,13510270,,09/29/2011,4832.0000,"Invoice-Private",,09/29/2011,09/29/2011,,13514867MO,-939.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,1410.0000,1410.00,"CR:Limited Term Di... H.Brozio 201109: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309135,29,87.0000,2523.00,"Basic Service Fee - Studio for Sep: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,29,31.0000,899.00,"Resident Care - Level 2 for Sep: Brozio, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510270,,09/29/2011,3540,"Invoice-Private",,09/29/2011,09/29/2011,,13514867MO,-939.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2610,2610,"CR:Basic Service F... H.Brozio 201109: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,930,930,"CR:Resident Care -... H.Brozio 201109: Brozio, Helen",,,,,,,,,,,,,,,

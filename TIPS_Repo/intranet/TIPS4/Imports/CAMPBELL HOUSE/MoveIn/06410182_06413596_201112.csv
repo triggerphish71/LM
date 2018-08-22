@@ -1,0 +1,5 @@
+BATCH,,201112,B,1215.0000,
+INVOICE,IN,,06410182,,12/30/2011,1215.0000,"MoveIn-Oates. Ruth",,12/30/2011,12/30/2011,,06413596,4040.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,2,90.0000,180,"Basic Service Fee - Studio: Oates. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Oates. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305064,1,1000.0000,1000,"New Resident Fee: Oates. Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,60.0000,
+INVOICE,IN,,14910112,,10/01/2011,30.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14914350MO,-6180.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Berthelsen, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,14910112,,10/01/2011,30,"Invoice-Private",,10/01/2011,10/10/2011,,14914350MO,-6180.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Berthelsen, Audrey",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,5950.0000,
+INVOICE,CM,,04910167,,06/01/2012,5950,"Invoice-Private",,06/01/2012,06/10/2012,,04913424MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,3240,3240,"CR:Basic Service F... E.Gerttula 201206: Gerttula, E.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... E.Gerttula 201206: Gerttula, E.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,2685,2685,"CR:Resident Care -... E.Gerttula 201206: Gerttula, E.",,,,,,,,,,,,,,,

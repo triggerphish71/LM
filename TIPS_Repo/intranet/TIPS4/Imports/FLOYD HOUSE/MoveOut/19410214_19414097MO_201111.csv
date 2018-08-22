@@ -1,0 +1,8 @@
+BATCH,,201111,B,8293.0000,
+INVOICE,IN,,19410214,,11/01/2011,660.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19414097MO,-7798.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,660.0000,660.00,"CR:Limited Term Di... L.Epling 201111: Epling, Leroy",,,,,,,,,,,,,,,
+INVOICE,CM,,19410214,,11/01/2011,7633,"Invoice-Private",,11/01/2011,11/10/2011,,19414097MO,-7798.0000,,,,,,,,,,
+TRANSACTION,3019,010212194,1,2703,2703,"CR:Additional Serv... L.Epling 201111: Epling, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... L.Epling 201111: Epling, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2160,2160,"CR:Room and Board ... L.Epling 201111: Epling, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,2730,2730,"CR:Swan Personal C... L.Epling 201111: Epling, Leroy",,,,,,,,,,,,,,,

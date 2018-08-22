@@ -1,0 +1,5 @@
+BATCH,,201805,B,58.0000,
+INVOICE,IN,,13210442,,05/01/2018,29.0000,"Invoice-Private",,05/01/2018,05/10/2018,,13218754MO,-7200.0000,,,,,,,,,,
+TRANSACTION,3260,010008132,1,29.0000,29.00,"Monthly Cable: Davis, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13210442,,05/01/2018,29,"Invoice-Private",,05/01/2018,05/10/2018,,13218754MO,-7200.0000,,,,,,,,,,
+TRANSACTION,3260,010008132,1,29,29,"Credit for Monthly Cable: Davis, Betty",,,,,,,,,,,,,,,

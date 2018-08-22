@@ -1,0 +1,8 @@
+BATCH,,201210,B,4594.0000,
+INVOICE,IN,,17610320,,10/01/2012,378.0000,"Invoice-Private",,10/01/2012,10/01/2012,,17614700MO,-3838.0000,,,,,,,,,,
+TRANSACTION,3027,010315176,3,53.0000,159.00,"Resident Care - Level 4 for Oct: Hoyt, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,3,73.0000,219.00,"Room and Board - Studio for Oct: Hoyt, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,17610320,,10/01/2012,4216,"Invoice-Private",,10/01/2012,10/01/2012,,17614700MO,-3838.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... J.Hoyt 201210: Hoyt, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1643,1643,"CR:Resident Care -... J.Hoyt 201210: Hoyt, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Room and Board ... J.Hoyt 201210: Hoyt, Joyce",,,,,,,,,,,,,,,

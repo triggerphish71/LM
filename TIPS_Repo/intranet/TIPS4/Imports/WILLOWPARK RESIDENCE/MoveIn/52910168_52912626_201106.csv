@@ -1,0 +1,6 @@
+BATCH,,201106,B,2128.0000,
+INVOICE,IN,,52910168,,06/30/2011,2128.0000,"MoveIn-Voigt. Joyce",,06/30/2011,06/30/2011,,52912626,5346.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,1,88.0000,88,"Basic Service Fee - Studio: Voigt. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,1,15.0000,15,"Resident Care - Level 1: Voigt. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Voigt. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,2000.0000,2000,"New Resident Fee: Voigt. Joyce",,,,,,,,,,,,,,,

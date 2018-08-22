@@ -1,0 +1,5 @@
+BATCH,,201305,B,54.0000,
+INVOICE,IN,,13210302,,05/01/2013,27.0000,"Invoice-Private",,05/01/2013,05/10/2013,,13215903MO,-5472.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Cusack, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,13210302,,05/01/2013,27,"Invoice-Private",,05/01/2013,05/10/2013,,13215903MO,-5472.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Cusack, Annie",,,,,,,,,,,,,,,

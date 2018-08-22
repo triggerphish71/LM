@@ -1,0 +1,7 @@
+BATCH,,201203,B,6080.0000,
+INVOICE,IN,,02910279,,03/01/2012,1120.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02915482MO,-3840.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,7,116.0000,812.00,"Basic Service Fee - One Bedroom for Mar: Shofner, Fredella ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,7,44.0000,308.00,"Resident Care - Level 3 for Mar: Shofner, Fredella ",,,,,,,,,,,,,,,
+INVOICE,CM,,02910279,,03/01/2012,4960,"Invoice-Private",,03/01/2012,03/10/2012,,02915482MO,-3840.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3596,3596,"CR:Basic Service F... F.Shofner 201203: Shofner, Fredella ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1364,1364,"CR:Resident Care -... F.Shofner 201203: Shofner, Fredella ",,,,,,,,,,,,,,,

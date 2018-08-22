@@ -1,0 +1,7 @@
+BATCH,,201211,B,5460.0000,
+INVOICE,IN,,53410233,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53421568MO,-5487.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,60.0000,60.00,"CR:Limited Term Di... G.Schwarz 201211: Schwarz, Goldie",,,,,,,,,,,,,,,
+INVOICE,CM,,53410233,,11/01/2012,5400,"Invoice-Private",,11/01/2012,11/10/2012,,53421568MO,-5487.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... G.Schwarz 201211: Schwarz, Goldie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2700,2700,"CR:Resident Care -... G.Schwarz 201211: Schwarz, Goldie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2670,2670,"CR:Room and Board ... G.Schwarz 201211: Schwarz, Goldie",,,,,,,,,,,,,,,

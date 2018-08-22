@@ -1,0 +1,5 @@
+BATCH,,201211,B,989.0000,
+INVOICE,IN,,16110260,,11/02/2012,690.0000,"Invoice-Private",,11/02/2012,11/02/2012,,16115672MO,391.0000,,,,,,,,,,
+TRANSACTION,3037,010313161,1,690.0000,690.00,"CR:Private Care Ra... N.Roussel 201211: Roussel, Ned",,,,,,,,,,,,,,,
+INVOICE,CM,,16110260,,11/02/2012,299,"Invoice-Private",,11/02/2012,11/02/2012,,16115672MO,391.0000,,,,,,,,,,
+TRANSACTION,3037,010313161,13,23,299,"Private Care Rate Adjustments for Nov: Roussel, Ned",,,,,,,,,,,,,,,

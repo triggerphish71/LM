@@ -1,0 +1,6 @@
+BATCH,,201307,B,2901.0500,
+INVOICE,IN,,08110263,,07/25/2013,2901.0500,"MoveIn-Mirtallo. Bill",,07/25/2013,07/25/2013,,08114780,6805.7000,,,,,,,,,,
+TRANSACTION,3010,010103081,7,90.0000,630,"B.Mirtallo: Basic Service Fee - Studio: Mirtallo. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,7,35.1500,246.05,"B.Mirtallo: Resident Care - Level 19: Mirtallo. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Mirtallo. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Mirtallo. Bill",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,6407.0000,
+INVOICE,IN,,12610220,,06/01/2013,1937.0000,"Invoice-Private",,06/01/2013,06/10/2013,,12615288MO,-2533.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,13,78.0000,1014.00,"Basic Service Fee - Deluxe for Jun: Couch, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,13,71.0000,923.00,"Resident Care - Level 5 for Jun: Couch, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,12610220,,06/01/2013,4470,"Invoice-Private",,06/01/2013,06/10/2013,,12615288MO,-2533.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2340,2340,"CR:Basic Service F... K.Couch 201306: Couch, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,2130,2130,"CR:Resident Care -... K.Couch 201306: Couch, Kathryn",,,,,,,,,,,,,,,

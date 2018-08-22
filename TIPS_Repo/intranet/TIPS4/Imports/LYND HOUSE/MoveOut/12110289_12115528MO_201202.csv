@@ -1,0 +1,8 @@
+BATCH,,201202,B,5705.0000,
+INVOICE,IN,,12110289,,02/01/2012,2016.0000,"Invoice-Private",,02/01/2012,02/10/2012,,12115528MO,-1673.0000,,,,,,,,,,
+TRANSACTION,3027,010309121,16,29.0000,464.00,"Resident Care - Level 2 for Feb: Harshman, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,16,97.0000,1552.00,"Room and Board - Studio for Feb: Harshman, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,12110289,,02/01/2012,3689,"Invoice-Private",,02/01/2012,02/10/2012,,12115528MO,-1673.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... J.Harshman 201202: Harshman, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,841,841,"CR:Resident Care -... J.Harshman 201202: Harshman, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2813,2813,"CR:Room and Board ... J.Harshman 201202: Harshman, Jack",,,,,,,,,,,,,,,

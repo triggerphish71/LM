@@ -1,0 +1,5 @@
+BATCH,,201105,B,5065.0000,
+INVOICE,IN,,03010181,,05/01/2011,5065.0000,"MoveIn-Atwood. Howard",,05/01/2011,05/01/2011,,03013772,5065.0000,,,,,,,,,,
+TRANSACTION,3010,010103030,31,81.0000,2511,"Basic Service Fee - Studio         : Atwood. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,31,34.0000,1054,"Resident Care - Level 20: Atwood. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,1500.0000,1500,"New Resident Fee: Atwood. Howard",,,,,,,,,,,,,,,

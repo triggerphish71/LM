@@ -1,0 +1,5 @@
+BATCH,,201212,B,4119.0000,
+INVOICE,IN,,05510242,,12/01/2012,4119.0000,"December_Rent-Fox. David",,12/01/2012,12/10/2012,,05514435,5910.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,31,116.0000,3596,"Basic Service Fee - One Bedroom: Fox. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,31,16.0000,496,"Resident Care - Level 1: Fox. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Fox. David",,,,,,,,,,,,,,,

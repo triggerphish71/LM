@@ -1,0 +1,5 @@
+BATCH,,201309,B,324.0000,
+INVOICE,IN,,50910155,,09/01/2013,162.0000,"Invoice-Private",,09/01/2013,09/10/2013,,50913410MO,-876.6000,,,,,,,,,,
+TRANSACTION,3316,010101509,30,5.4000,162.00,"Credit for Employee Discount: Smith, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,50910155,,09/01/2013,162,"Invoice-Private",,09/01/2013,09/10/2013,,50913410MO,-876.6000,,,,,,,,,,
+TRANSACTION,3316,010101509,30,5.4,162,"Employee Discount: Smith, Frank",,,,,,,,,,,,,,,

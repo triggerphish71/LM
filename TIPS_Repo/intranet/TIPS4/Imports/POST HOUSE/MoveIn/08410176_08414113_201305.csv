@@ -1,0 +1,5 @@
+BATCH,,201305,B,5089.0000,
+INVOICE,IN,,08410176,,05/03/2013,5089.0000,"MoveIn-Nelson. James",,05/03/2013,05/03/2013,,08414113,5089.0000,,,,,,,,,,
+TRANSACTION,3010,010306084,29,106.0000,3074,"Basic Service Fee - Studio         : Nelson. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306084,29,35.0000,1015,"Resident Care - Level 2: Nelson. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306084,1,1000.0000,1000,"New Resident Fee: Nelson. James",,,,,,,,,,,,,,,

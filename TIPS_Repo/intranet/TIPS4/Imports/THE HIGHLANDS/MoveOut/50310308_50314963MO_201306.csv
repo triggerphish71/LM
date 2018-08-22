@@ -1,0 +1,7 @@
+BATCH,,201306,B,5855.0000,
+INVOICE,IN,,50310308,,06/01/2013,1440.0000,"Invoice-Private",,06/01/2013,06/10/2013,,50314963MO,-5390.0000,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1440.0000,1440.00,"CR:Resident Care L... B.Dudley 201306: Dudley, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,50310308,,06/01/2013,4415,"Invoice-Private",,06/01/2013,06/10/2013,,50314963MO,-5390.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2940,2940,"CR:Basic Service F... B.Dudley 201306: Dudley, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... B.Dudley 201306: Dudley, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1440,1440,"CR:Resident Care -... B.Dudley 201306: Dudley, Bertha",,,,,,,,,,,,,,,

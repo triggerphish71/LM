@@ -1,0 +1,4 @@
+BATCH,,201207,B,1440.0000,
+INVOICE,IN,,04110243,,07/02/2012,1440.0000,"MoveIn-Range. Jean",,07/02/2012,07/02/2012,,04114450,1440.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,30,31.0000,930,"Basic Service Fee - Second Resident: Range. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,30,17.0000,510,"Resident Care - Level 1: Range. Jean",,,,,,,,,,,,,,,

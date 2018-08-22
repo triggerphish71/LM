@@ -1,0 +1,5 @@
+BATCH,,201212,B,4024.0000,
+INVOICE,IN,,09910221,,12/01/2012,4024.0000,"December_Rent-Bacon. Jim",,12/01/2012,12/10/2012,,09914307,5065.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,31,86.0000,2666,"J.Bacon: Basic Service Fee - Studio: Bacon. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,31,43.0000,1333,"J.Bacon: Resident Care - Level 3: Bacon. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Bacon. Jim",,,,,,,,,,,,,,,

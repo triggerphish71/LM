@@ -1,0 +1,8 @@
+BATCH,,201304,B,5947.0000,
+INVOICE,IN,,05210290,,04/24/2013,2516.0000,"Invoice-Private",,04/24/2013,04/24/2013,,05215295MO,-5503.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,17,82.0000,1394.00,"Basic Service Fee - Studio for Apr: Martin, Arvil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,17,66.0000,1122.00,"Resident Care - Level 5 for Apr: Martin, Arvil",,,,,,,,,,,,,,,
+INVOICE,CM,,05210290,,04/24/2013,3431,"Invoice-Private",,04/24/2013,04/24/2013,,05215295MO,-5503.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,1886,1886,"CR:Basic Service F... A.Martin 201304: Martin, Arvil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... A.Martin 201304: Martin, Arvil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,1518,1518,"CR:Resident Care -... A.Martin 201304: Martin, Arvil",,,,,,,,,,,,,,,

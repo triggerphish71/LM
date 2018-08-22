@@ -1,0 +1,7 @@
+BATCH,,201207,B,4557.0000,
+INVOICE,IN,,20610227,,07/01/2012,1085.0000,"Invoice-Private",,07/01/2012,07/10/2012,,20612788MO,-6502.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,1085.0000,1085.00,"CR:Limited Term Di... O.Santoro 201207: Santoro, Ozwald",,,,,,,,,,,,,,,
+INVOICE,CM,,20610227,,07/01/2012,3472,"Invoice-Private",,07/01/2012,07/10/2012,,20612788MO,-6502.0000,,,,,,,,,,
+TRANSACTION,3020,010214206,1,310,310,"CR:Increase Room a... O.Santoro 201207: Santoro, Ozwald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... O.Santoro 201207: Santoro, Ozwald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... O.Santoro 201207: Santoro, Ozwald",,,,,,,,,,,,,,,

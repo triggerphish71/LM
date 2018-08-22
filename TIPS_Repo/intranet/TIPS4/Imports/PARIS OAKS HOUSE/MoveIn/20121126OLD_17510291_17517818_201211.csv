@@ -1,0 +1,6 @@
+BATCH,,201211,B,2020.0000,
+INVOICE,IN,,17510291,,11/26/2012,2020.0000,"MoveIn-Brooks. John",,11/26/2012,11/26/2012,,17517818,5114.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,5,76.0000,380,"Basic Service Fee - Studio Deluxe: Brooks. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,5,23.0000,115,"Resident Care - Level 2: Brooks. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Brooks. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Brooks. John",,,,,,,,,,,,,,,

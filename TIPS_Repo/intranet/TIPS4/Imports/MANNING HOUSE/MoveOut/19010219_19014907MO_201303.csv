@@ -1,0 +1,7 @@
+BATCH,,201303,B,4165.0000,
+INVOICE,IN,,19010219,,03/04/2013,476.0000,"Invoice-Private",,03/04/2013,03/04/2013,,19014907MO,-3213.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,4,66.0000,264.00,"Basic Service Fee - Studio for Mar: Cudd, Bennett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,4,53.0000,212.00,"Resident Care - Level 4 for Mar: Cudd, Bennett",,,,,,,,,,,,,,,
+INVOICE,CM,,19010219,,03/04/2013,3689,"Invoice-Private",,03/04/2013,03/04/2013,,19014907MO,-3213.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2046,2046,"CR:Basic Service F... B.Cudd 201303: Cudd, Bennett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,1643,1643,"CR:Resident Care -... B.Cudd 201303: Cudd, Bennett",,,,,,,,,,,,,,,

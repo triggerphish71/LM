@@ -1,0 +1,7 @@
+BATCH,,201204,B,774.0000,
+INVOICE,IN,,01910222,,04/01/2012,387.0000,"Invoice-Private",,04/01/2012,04/10/2012,,01914780MO,-1052.0000,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27.00,"Monthly Cable: Smith, Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202019,30,12.0000,360.00,"Credit for Limited Term Discount: Smith, Mickey",,,,,,,,,,,,,,,
+INVOICE,CM,,01910222,,04/01/2012,387,"Invoice-Private",,04/01/2012,04/10/2012,,01914780MO,-1052.0000,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"Credit for Monthly Cable: Smith, Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202019,30,12,360,"Limited Term Discount: Smith, Mickey",,,,,,,,,,,,,,,

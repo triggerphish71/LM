@@ -1,0 +1,6 @@
+BATCH,,201801,B,3741.6700,
+INVOICE,IN,,01210394,,01/22/2018,3741.6700,"MoveIn-Pudding. tester",,01/22/2018,01/22/2018,,01216032,6751.6700,,,,,,,,,,
+TRANSACTION,3010,010003012,10,96.0000,960,"Basic Service Fee - Studio: Pudding. tester",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003012,10,11.5000,115,"Resident Care - Level 5: Pudding. tester",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003012,1,2000.0000,2000,"Community Fee: Pudding. tester",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003012,1,666.6667,666.6667,"Monthly Deferral Charge: Pudding. tester",,,,,,,,,,,,,,,

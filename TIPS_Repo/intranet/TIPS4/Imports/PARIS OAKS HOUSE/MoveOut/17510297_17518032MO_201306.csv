@@ -1,0 +1,7 @@
+BATCH,,201306,B,2345.0000,
+INVOICE,IN,,17510297,,06/01/2013,335.0000,"Invoice-Private",,06/01/2013,06/10/2013,,17518032MO,-1675.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,5,55.0000,275.00,"Basic Service Fee - Studio Deluxe for Jun: Erickson, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,5,12.0000,60.00,"Resident Care - Level 1 for Jun: Erickson, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,17510297,,06/01/2013,2010,"Invoice-Private",,06/01/2013,06/10/2013,,17518032MO,-1675.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1650,1650,"CR:Basic Service F... L.Erickson 201306: Erickson, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,360,360,"CR:Resident Care -... L.Erickson 201306: Erickson, Lorraine",,,,,,,,,,,,,,,

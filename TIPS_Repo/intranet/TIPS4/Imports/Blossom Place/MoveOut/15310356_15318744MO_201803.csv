@@ -1,0 +1,8 @@
+BATCH,,201803,B,6651.2000,
+INVOICE,IN,,15310356,,03/07/2018,910.0000,"Invoice-Private",,03/07/2018,03/07/2018,,15318744MO,-4831.2000,,,,,,,,,,
+TRANSACTION,3017,010003153,0,101.1999,0.00,"Level Care:  44  - 2018-03-01: Johnson, William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003153,7,46.0000,322.00," Level Care:  20 : Johnson, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003153,7,84.0000,588.00,"Basic Service Fee - Studio  for Mar: Johnson, William",,,,,,,,,,,,,,,
+INVOICE,CM,,15310356,,03/07/2018,5741.2,"Invoice-Private",,03/07/2018,03/07/2018,,15318744MO,-4831.2000,,,,,,,,,,
+TRANSACTION,3020,010003153,1,2604,2604,"CR:Basic Service F... W.Johnson 201803: Johnson, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,1,3137.2,3137.2,"CR:Resident Care -... W.Johnson 201803: Johnson, William",,,,,,,,,,,,,,,

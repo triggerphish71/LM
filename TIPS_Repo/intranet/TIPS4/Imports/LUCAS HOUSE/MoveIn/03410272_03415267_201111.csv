@@ -1,0 +1,6 @@
+BATCH,,201111,B,3271.0000,
+INVOICE,IN,,03410272,,11/15/2011,3271.0000,"MoveIn-Fontenot. Harold",,11/15/2011,11/15/2011,,03415267,3271.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,16,96.0000,1536,"Basic Service Fee - Studio: Fontenot. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,16,13.0000,208,"Resident Care - Level 1: Fontenot. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Fontenot. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Fontenot. Harold",,,,,,,,,,,,,,,

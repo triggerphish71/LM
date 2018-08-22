@@ -1,0 +1,6 @@
+BATCH,,201210,B,4464.0000,
+INVOICE,IN,,04710131,,10/01/2012,961.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04713265MO,-2542.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,1,961.0000,961.00,"CR:Limited Term Di... J.Finley 201210: Finley, James",,,,,,,,,,,,,,,
+INVOICE,CM,,04710131,,10/01/2012,3503,"Invoice-Private",,10/01/2012,10/10/2012,,04713265MO,-2542.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2976,2976,"CR:Basic Service F... J.Finley 201210: Finley, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,527,527,"CR:Resident Care -... J.Finley 201210: Finley, James",,,,,,,,,,,,,,,

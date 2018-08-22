@@ -1,0 +1,5 @@
+BATCH,,201211,B,4184.0000,
+INVOICE,IN,,07110173,,11/09/2012,4184.0000,"MoveIn-Molk. Eulah",,11/09/2012,11/09/2012,,07114483,4184.0000,,,,,,,,,,
+TRANSACTION,3010,010305071,22,90.0000,1980,"Basic Service Fee - Studio: Molk. Eulah",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305071,22,32.0000,704,"Resident Care - Level 2: Molk. Eulah",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305071,1,1500.0000,1500,"New Resident Fee: Molk. Eulah",,,,,,,,,,,,,,,

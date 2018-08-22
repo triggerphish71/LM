@@ -1,0 +1,7 @@
+BATCH,,201207,B,2782.0000,
+INVOICE,IN,,17110255,,07/01/2012,1391.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17115143MO,-6077.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Horton, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,44.0000,1364.00,"Credit for Limited Term Discount: Horton, William",,,,,,,,,,,,,,,
+INVOICE,CM,,17110255,,07/01/2012,1391,"Invoice-Private",,07/01/2012,07/10/2012,,17115143MO,-6077.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Horton, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,44,1364,"Limited Term Discount: Horton, William",,,,,,,,,,,,,,,

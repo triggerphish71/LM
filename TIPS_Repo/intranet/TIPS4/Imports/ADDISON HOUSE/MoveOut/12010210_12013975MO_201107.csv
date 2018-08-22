@@ -1,0 +1,7 @@
+BATCH,,201107,B,1610.0000,
+INVOICE,IN,,12010210,,07/01/2011,805.0000,"Invoice-Private",,07/01/2011,07/10/2011,,12013975MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: Hankins, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,25.0000,775.00,"Credit for Limited Term Discount: Hankins, Steve",,,,,,,,,,,,,,,
+INVOICE,CM,,12010210,,07/01/2011,805,"Invoice-Private",,07/01/2011,07/10/2011,,12013975MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: Hankins, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,25,775,"Limited Term Discount: Hankins, Steve",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,4323.0000,
+INVOICE,IN,,19510223,,05/01/2013,262.0000,"Invoice-Private",,05/01/2013,05/10/2013,,19514856MO,-3799.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,2,95.0000,190.00,"Basic Service Fee - Studio for May: Bell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,2,36.0000,72.00,"Resident Care - Level 2 for May: Bell, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19510223,,05/01/2013,4061,"Invoice-Private",,05/01/2013,05/10/2013,,19514856MO,-3799.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2945,2945,"CR:Basic Service F... M.Bell 201305: Bell, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1116,1116,"CR:Resident Care -... M.Bell 201305: Bell, Margaret",,,,,,,,,,,,,,,

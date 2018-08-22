@@ -1,0 +1,6 @@
+BATCH,,201112,B,2383.0000,
+INVOICE,IN,,11710228,,12/21/2011,2383.0000,"MoveIn-Hemmer. Richard",,12/21/2011,12/21/2011,,11713699,6226.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,11,93.0000,1023,"Basic Service Fee - Deluxe: Hemmer. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,11,30.0000,330,"Resident Care - Level 2: Hemmer. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1000.0000,1000,"New Resident Fee: Hemmer. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Hemmer. Richard",,,,,,,,,,,,,,,

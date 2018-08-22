@@ -1,0 +1,8 @@
+BATCH,,201803,B,10259.0000,
+INVOICE,IN,,41800132,,03/22/2018,4246.0000,"Invoice-Private",,03/22/2018,03/22/2018,,41811706MO,-7587.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,22,68.0000,1496.00,"Resident Care - Level 5  for Mar: Compton, Sophie",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,22,125.0000,2750.00,"Studio Deluxe  for Mar: Compton, Sophie",,,,,,,,,,,,,,,
+INVOICE,CM,,41800132,,03/22/2018,6013,"Invoice-Private",,03/22/2018,03/22/2018,,41811706MO,-7587.0000,,,,,,,,,,
+TRANSACTION,3260,060010418,1,30,30,"CR:Monthly Cable... S.Compton 201803: Compton, Sophie",,,,,,,,,,,,,,,
+TRANSACTION,3027,060010418,1,2108,2108,"CR:Resident Care -... S.Compton 201803: Compton, Sophie",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,1,3875,3875,"CR:Studio Deluxe... S.Compton 201803: Compton, Sophie",,,,,,,,,,,,,,,

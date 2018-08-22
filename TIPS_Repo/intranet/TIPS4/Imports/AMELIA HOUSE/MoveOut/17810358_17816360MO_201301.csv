@@ -1,0 +1,8 @@
+BATCH,,201301,B,3929.0000,
+INVOICE,IN,,17810358,,01/01/2013,1848.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17816360MO,-233.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,28,50.0000,1400.00,"Basic Service Fee - Studio for Jan: Powers, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,28,16.0000,448.00,"Swan Personal Care - L1 for Jan: Powers, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17810358,,01/01/2013,2081,"Invoice-Private",,01/01/2013,01/10/2013,,17816360MO,-233.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,1550,1550,"CR:Basic Service F... J.Powers 201301: Powers, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... J.Powers 201301: Powers, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,496,496,"CR:Swan Personal C... J.Powers 201301: Powers, James",,,,,,,,,,,,,,,

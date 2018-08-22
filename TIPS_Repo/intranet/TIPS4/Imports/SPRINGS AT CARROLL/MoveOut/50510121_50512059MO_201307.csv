@@ -1,0 +1,7 @@
+BATCH,,201307,B,3424.0000,
+INVOICE,IN,,50510121,,07/01/2013,107.0000,"Invoice-Private",,07/01/2013,07/10/2013,,50512059MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,81.0000,81.00,"Basic Service Fee - One Bedroom for Jul: Beavers, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,26.0000,26.00,"Resident Care - Level 2 for Jul: Beavers, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,50510121,,07/01/2013,3317,"Invoice-Private",,07/01/2013,07/10/2013,,50512059MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,2511,2511,"CR:Basic Service F... I.Beavers 201307: Beavers, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,806,806,"CR:Resident Care -... I.Beavers 201307: Beavers, Irene",,,,,,,,,,,,,,,

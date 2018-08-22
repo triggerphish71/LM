@@ -1,0 +1,7 @@
+BATCH,,201109,B,4680.0000,
+INVOICE,IN,,21410242,,09/09/2011,1080.0000,"Invoice-Private",,09/09/2011,09/09/2011,,21416671MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,9,23.0000,207.00,"Resident Care - Level 2 for Sep: Murray, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,9,97.0000,873.00,"Studio Deluxe for Sep: Murray, Myrtle",,,,,,,,,,,,,,,
+INVOICE,CM,,21410242,,09/09/2011,3600,"Invoice-Private",,09/09/2011,09/09/2011,,21416671MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,690,690,"CR:Resident Care -... M.Murray 201109: Murray, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2910,2910,"CR:Studio Deluxe... M.Murray 201109: Murray, Myrtle",,,,,,,,,,,,,,,

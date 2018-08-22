@@ -1,0 +1,7 @@
+BATCH,,201108,B,204.0000,
+INVOICE,IN,,11810117,,08/01/2011,102.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11814855MO,-4845.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40.00,"Monthly Cable: Mauro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310118,31,2.0000,62.00,"Credit for Limited Term Discount: Mauro, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,11810117,,08/01/2011,102,"Invoice-Private",,08/01/2011,08/10/2011,,11814855MO,-4845.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"Credit for Monthly Cable: Mauro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310118,31,2,62,"Limited Term Discount: Mauro, Albert",,,,,,,,,,,,,,,

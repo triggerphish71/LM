@@ -1,0 +1,6 @@
+BATCH,,201202,B,3785.0000,
+INVOICE,IN,,16810298,,02/04/2012,1034.0000,"Invoice-Private",,02/04/2012,02/04/2012,,16816313MO,-1717.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,11,94.0000,1034.00,"Basic Service Fee - Studio Deluxe for Feb: Cipolloni, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,16810298,,02/04/2012,2751,"Invoice-Private",,02/04/2012,02/04/2012,,16816313MO,-1717.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2726,2726,"CR:Basic Service F... M.Cipolloni 201202: Cipolloni, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25,25,"CR:Monthly Cable... M.Cipolloni 201202: Cipolloni, Mary",,,,,,,,,,,,,,,

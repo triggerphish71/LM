@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,53410280,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,53422157MO,-6072.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Suscha, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,53410280,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,53422157MO,-6072.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Suscha, Joseph",,,,,,,,,,,,,,,

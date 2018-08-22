@@ -1,0 +1,7 @@
+BATCH,,201107,B,4992.0000,
+INVOICE,IN,,14110098,,07/01/2011,156.0000,"Invoice-Private",,07/01/2011,07/01/2011,,14113503MO,-4680.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,103.0000,103.00,"Basic Service Fee - One Bedroom for Jul: Cochran, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,53.0000,53.00,"Resident Care - Level 4 for Jul: Cochran, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14110098,,07/01/2011,4836,"Invoice-Private",,07/01/2011,07/01/2011,,14113503MO,-4680.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,3193,3193,"CR:Basic Service F... H.Cochran 201107: Cochran, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,1643,1643,"CR:Resident Care -... H.Cochran 201107: Cochran, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,3339.0000,
+INVOICE,IN,,13510296,,10/22/2012,119.0000,"Invoice-Private",,10/22/2012,10/22/2012,,13515437MO,-6701.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,119.0000,119.00,"Basic Service Fee- One Bedroom Prem for Oct: Lawson, Vida",,,,,,,,,,,,,,,
+INVOICE,CM,,13510296,,10/22/2012,3220,"Invoice-Private",,10/22/2012,10/22/2012,,13515437MO,-6701.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1190,1190,"CR:Basic Service F... V.Lawson 201210: Lawson, Vida",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... V.Lawson 201210: Lawson, Vida",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000,2000,"CR:New Resident Fe... V.Lawson 201210: Lawson, Vida",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,3575.0000,
+INVOICE,CM,,06410193,,11/01/2012,3575,"Invoice-Private",,11/01/2012,11/10/2012,,06413764MO,-3575.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,3060,3060,"CR:C.Meister: Basi... C.Meister 201211: Meister, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,480,480,"CR:C.Meister: Resi... C.Meister 201211: Meister, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... C.Meister 201211: Meister, Charlie",,,,,,,,,,,,,,,

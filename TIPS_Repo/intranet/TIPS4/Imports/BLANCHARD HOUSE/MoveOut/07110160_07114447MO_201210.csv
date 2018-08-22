@@ -1,0 +1,8 @@
+BATCH,,201210,B,5055.0000,
+INVOICE,IN,,07110160,,10/07/2012,1738.0000,"Invoice-Private",,10/07/2012,10/07/2012,,07114447MO,-1579.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,775.0000,775.00,"CR:Limited Term Di... W.Brown 201210: Brown, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,9,90.0000,810.00,"Basic Service Fee - Studio for Oct: Brown, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,9,17.0000,153.00,"Resident Care - Level 1 for Oct: Brown, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,07110160,,10/07/2012,3317,"Invoice-Private",,10/07/2012,10/07/2012,,07114447MO,-1579.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2790,2790,"CR:Basic Service F... W.Brown 201210: Brown, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,527,527,"CR:Resident Care -... W.Brown 201210: Brown, Wilma",,,,,,,,,,,,,,,

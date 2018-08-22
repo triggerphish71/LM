@@ -1,0 +1,8 @@
+BATCH,,201211,B,3449.7400,
+INVOICE,IN,,03010212,,10/31/2012,607.5400,"MoveIn-Burgstahler. Edwin",,10/31/2012,10/31/2012,,03014177,3449.7400,,,,,,,,,,
+TRANSACTION,3014,010103030,1,84.0000,84,"Basic Service Fee - Studio: Burgstahler. Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,1,10.7400,10.74,"Resident Care - Level 6: Burgstahler. Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,512.8000,512.8,"New Resident Fee: Burgstahler. Edwin",,,,,,,,,,,,,,,
+INVOICE,IN,,03010212,,11/01/2012,2842.2000,"November_Rent-Burgstahler. Edwin",,11/01/2012,11/10/2012,,03014177,3449.7400,,,,,,,,,,
+TRANSACTION,3010,010103030,30,84.0000,2520,"Basic Service Fee - Studio: Burgstahler. Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,30,10.7400,322.2,"Resident Care - Level 6: Burgstahler. Edwin",,,,,,,,,,,,,,,

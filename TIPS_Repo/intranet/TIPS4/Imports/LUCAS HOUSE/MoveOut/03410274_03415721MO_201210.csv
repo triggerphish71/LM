@@ -1,0 +1,7 @@
+BATCH,,201210,B,4987.0000,
+INVOICE,IN,,03410274,,10/01/2012,1271.0000,"Invoice-Private",,10/01/2012,10/10/2012,,03415721MO,-3146.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1271.0000,1271.00,"CR:Limited Term Di... M.Andrus 201210: Andrus, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,03410274,,10/01/2012,3716,"Invoice-Private",,10/01/2012,10/10/2012,,03415721MO,-3146.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... M.Andrus 201210: Andrus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... M.Andrus 201210: Andrus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,713,713,"CR:Resident Care -... M.Andrus 201210: Andrus, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,3749.0000,
+INVOICE,IN,,03310336,,02/09/2012,3749.0000,"MoveIn-Ward. Bernice",,02/09/2012,02/09/2012,,03316287,3749.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,21,94.0000,1974,"Basic Service Fee - Studio: Ward. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Ward. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202033,1,1750.0000,1750,"New Resident Fee: Ward. Bernice",,,,,,,,,,,,,,,

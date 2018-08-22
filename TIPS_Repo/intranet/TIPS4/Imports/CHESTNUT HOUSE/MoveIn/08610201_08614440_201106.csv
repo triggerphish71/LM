@@ -1,0 +1,5 @@
+BATCH,,201106,B,2510.0000,
+INVOICE,IN,,08610201,,06/28/2011,2510.0000,"MoveIn-Bush. Niles",,06/28/2011,06/28/2011,,08614440,7780.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,3,86.0000,258,"Basic Service Fee - Studio         : Bush. Niles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,3,84.0000,252,"Resident Care - Level 6: Bush. Niles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000.0000,2000,"New Resident Fee: Bush. Niles",,,,,,,,,,,,,,,

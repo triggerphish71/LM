@@ -1,0 +1,7 @@
+BATCH,,201209,B,7344.0000,
+INVOICE,IN,,17410230,,09/21/2012,3024.0000,"Invoice-Private",,09/21/2012,09/21/2012,,17414415MO,-5760.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,21,112.0000,2352.00,"Basic Service Fee - One Bedroom for Sep: Deal, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,21,32.0000,672.00,"Resident Care - Level 2 for Sep: Deal, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17410230,,09/21/2012,4320,"Invoice-Private",,09/21/2012,09/21/2012,,17414415MO,-5760.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,3360,3360,"CR:Basic Service F... B.Deal 201209: Deal, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,960,960,"CR:Resident Care -... B.Deal 201209: Deal, Barbara",,,,,,,,,,,,,,,

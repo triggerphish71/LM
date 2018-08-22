@@ -1,0 +1,5 @@
+BATCH,,201203,B,2318.0000,
+INVOICE,IN,,12910319,,03/29/2012,2318.0000,"MoveIn-Pitzer. Ralph",,03/29/2012,03/29/2012,,12915816,5228.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,3,96.0000,288,"Basic Service Fee - Studio: Pitzer. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Pitzer. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Pitzer. Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,4332.0000,
+INVOICE,IN,,07010240,,01/09/2013,4332.0000,"MoveIn-Krager. Paul",,01/09/2013,01/09/2013,,07014624,4332.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,23,117.0000,2691,"Basic Service Fee - One Bedroom: Krager. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,23,27.0000,621,"Resident Care - Level 2: Krager. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Krager. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1000.0000,1000,"New Resident Fee: Krager. Paul",,,,,,,,,,,,,,,

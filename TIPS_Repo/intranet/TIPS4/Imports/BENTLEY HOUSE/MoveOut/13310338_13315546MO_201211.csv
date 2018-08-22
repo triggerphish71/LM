@@ -1,0 +1,7 @@
+BATCH,,201211,B,1210.0000,
+INVOICE,IN,,13310338,,11/01/2012,605.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13315546MO,-66.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,30,19.0000,570.00,"Credit for Limited Term Discount: Yeany, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Yeany, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13310338,,11/01/2012,605,"Invoice-Private",,11/01/2012,11/10/2012,,13315546MO,-66.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,30,19,570,"Limited Term Discount: Yeany, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Yeany, Helen",,,,,,,,,,,,,,,

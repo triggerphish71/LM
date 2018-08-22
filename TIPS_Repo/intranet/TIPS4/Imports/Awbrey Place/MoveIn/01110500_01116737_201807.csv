@@ -1,0 +1,6 @@
+BATCH,,201807,B,6661.4000,
+INVOICE,IN,,01110500,,07/18/2018,6661.4000,"MoveIn-Bonham. John",,07/18/2018,07/18/2018,,01116737,10251.2000,,,,,,,,,,
+TRANSACTION,3010,010001011,17,79.0000,1343,"Basic Service Fee - Studio: Bonham. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010001011,14,36.8000,515.2,"Resident Care - Level 16: Bonham. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001011,1,2401.6000,2401.6,"Community Fee: Bonham. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001011,1,2401.6000,2401.6,"Monthly Deferral Charge: Bonham. John",,,,,,,,,,,,,,,

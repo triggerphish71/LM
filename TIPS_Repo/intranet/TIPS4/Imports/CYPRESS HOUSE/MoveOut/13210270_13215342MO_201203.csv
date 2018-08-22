@@ -1,0 +1,8 @@
+BATCH,,201203,B,7479.0000,
+INVOICE,IN,,13210270,,03/04/2012,1035.0000,"Invoice-Private",,03/04/2012,03/04/2012,,13215342MO,-5409.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,5,124.0000,620.00,"Basic Service Fee - One Bedroom for Mar: Stewart, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,5,83.0000,415.00,"Resident Care - Level 6 for Mar: Stewart, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,13210270,,03/04/2012,6444,"Invoice-Private",,03/04/2012,03/04/2012,,13215342MO,-5409.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3844,3844,"CR:Basic Service F... V.Stewart 201203: Stewart, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... V.Stewart 201203: Stewart, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,2573,2573,"CR:Resident Care -... V.Stewart 201203: Stewart, Virginia",,,,,,,,,,,,,,,

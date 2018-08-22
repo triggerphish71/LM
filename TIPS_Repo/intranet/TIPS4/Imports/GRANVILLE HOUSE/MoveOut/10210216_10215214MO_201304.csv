@@ -1,0 +1,7 @@
+BATCH,,201304,B,4275.0000,
+INVOICE,IN,,10210216,,04/01/2013,1425.0000,"Invoice-Private",,04/01/2013,04/10/2013,,10215214MO,-1425.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,15,60.0000,900.00,"Basic Service Fee - Deluxe for Apr: Pinter, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,15,35.0000,525.00,"Swan Personal Care - L2 for Apr: Pinter, Steve",,,,,,,,,,,,,,,
+INVOICE,CM,,10210216,,04/01/2013,2850,"Invoice-Private",,04/01/2013,04/10/2013,,10215214MO,-1425.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,1800,1800,"CR:Basic Service F... S.Pinter 201304: Pinter, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1050,1050,"CR:Swan Personal C... S.Pinter 201304: Pinter, Steve",,,,,,,,,,,,,,,

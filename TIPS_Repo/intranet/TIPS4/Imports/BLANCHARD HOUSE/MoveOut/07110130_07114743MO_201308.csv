@@ -1,0 +1,7 @@
+BATCH,,201308,B,6900.0000,
+INVOICE,IN,,07110130,,08/01/2013,2250.0000,"Invoice-Private",,08/01/2013,08/10/2013,,07114743MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,15,118.0000,1770.00,"Basic Service Fee - One Bedroom for Aug: Ervin, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,15,32.0000,480.00,"Resident Care - Level 2 for Aug: Ervin, John",,,,,,,,,,,,,,,
+INVOICE,CM,,07110130,,08/01/2013,4650,"Invoice-Private",,08/01/2013,08/10/2013,,07114743MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,3658,3658,"CR:Basic Service F... J.Ervin 201308: Ervin, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,992,992,"CR:Resident Care -... J.Ervin 201308: Ervin, John",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,160.0000,
+INVOICE,IN,,21610086,,09/01/2012,80.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21613677MO,-4158.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20.0000,20.00,"Pendant Fee: Carlson, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216216,30,2.0000,60.00,"Credit for Limited Term Discount: Carlson, William",,,,,,,,,,,,,,,
+INVOICE,CM,,21610086,,09/01/2012,80,"Invoice-Private",,09/01/2012,09/10/2012,,21613677MO,-4158.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"Credit for Pendant Fee: Carlson, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216216,30,2,60,"Limited Term Discount: Carlson, William",,,,,,,,,,,,,,,

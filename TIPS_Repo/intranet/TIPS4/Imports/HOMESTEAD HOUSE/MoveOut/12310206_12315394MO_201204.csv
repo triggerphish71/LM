@@ -1,0 +1,7 @@
+BATCH,,201204,B,7191.0000,
+INVOICE,IN,,12310206,,04/21/2012,2961.0000,"Invoice-Private",,04/21/2012,04/21/2012,,12315394MO,-5640.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,21,103.0000,2163.00,"Basic Service Fee - Studio for Apr: Deke, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,21,38.0000,798.00,"Resident Care - Level 2 for Apr: Deke, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,12310206,,04/21/2012,4230,"Invoice-Private",,04/21/2012,04/21/2012,,12315394MO,-5640.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3090,3090,"CR:Basic Service F... G.Deke 201204: Deke, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1140,1140,"CR:Resident Care -... G.Deke 201204: Deke, Gloria",,,,,,,,,,,,,,,

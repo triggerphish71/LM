@@ -1,0 +1,6 @@
+BATCH,,201209,B,5370.0000,
+INVOICE,IN,,08810204,,09/01/2012,690.0000,"Invoice-Private",,09/01/2012,09/10/2012,,08814464MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,690.0000,690.00,"CR:Limited Term Di... M.Durand 201209: Durand, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,08810204,,09/01/2012,4680,"Invoice-Private",,09/01/2012,09/10/2012,,08814464MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2910,2910,"CR:Basic Service F... M.Durand 201209: Durand, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1770,1770,"CR:Resident Care -... M.Durand 201209: Durand, Muriel",,,,,,,,,,,,,,,

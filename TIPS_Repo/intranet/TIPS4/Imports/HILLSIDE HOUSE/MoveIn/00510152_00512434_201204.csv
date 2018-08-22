@@ -1,0 +1,5 @@
+BATCH,,201204,B,2990.6200,
+INVOICE,IN,,00510152,,04/13/2012,2990.6200,"MoveIn-Dement. Norma",,04/13/2012,04/13/2012,,00512434,2990.6200,,,,,,,,,,
+TRANSACTION,3010,010101005,18,73.0000,1314,"Basic Service Fee - Studio: Dement. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,18,37.5900,676.62,"Resident Care - Level 21: Dement. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Dement. Norma",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,6357.0000,
+INVOICE,IN,,19210238,,07/08/2011,1304.0000,"Invoice-Private",,07/08/2011,07/08/2011,,19214738MO,-3749.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,8,127.0000,1016.00,"Basic Service Fee - One Bedroom for Jul: Ellis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,8,36.0000,288.00,"Resident Care - Level 2 for Jul: Ellis, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,19210238,,07/08/2011,5053,"Invoice-Private",,07/08/2011,07/08/2011,,19214738MO,-3749.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3937,3937,"CR:Basic Service F... H.Ellis 201107: Ellis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1116,1116,"CR:Resident Care -... H.Ellis 201107: Ellis, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,3767.5000,
+INVOICE,IN,,01110313,,06/25/2013,1712.5000,"Invoice-Private",,06/25/2013,06/25/2013,,01114163MO,-1204.3000,,,,,,,,,,
+TRANSACTION,3020,010101011,25,50.0000,1250.00,"Basic Service Fee - Studio for Jun: Stafford, Allan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,25,18.5000,462.50,"Resident Care - Level 10 for Jun: Stafford, Allan",,,,,,,,,,,,,,,
+INVOICE,CM,,01110313,,06/25/2013,2055,"Invoice-Private",,06/25/2013,06/25/2013,,01114163MO,-1204.3000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,1500,1500,"CR:Basic Service F... A.Stafford 201306: Stafford, Allan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,555,555,"CR:Resident Care -... A.Stafford 201306: Stafford, Allan",,,,,,,,,,,,,,,

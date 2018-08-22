@@ -1,0 +1,6 @@
+BATCH,,201108,B,3771.0000,
+INVOICE,IN,,04510223,,08/10/2011,3771.0000,"MoveIn-Fouquette. Roger",,08/10/2011,08/10/2011,,04513636,3771.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,22,73.0000,1606,"Basic Service Fee - Studio         : Fouquette. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,22,29.0000,638,"Resident Care - Level 2: Fouquette. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Fouquette. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Fouquette. Roger",,,,,,,,,,,,,,,

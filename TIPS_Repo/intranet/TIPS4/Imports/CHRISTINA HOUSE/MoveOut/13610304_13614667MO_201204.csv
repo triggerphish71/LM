@@ -1,0 +1,5 @@
+BATCH,,201204,B,4290.0000,
+INVOICE,CM,,13610304,,04/01/2012,4290,"Invoice-Private",,04/01/2012,04/10/2012,,13614667MO,-4290.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1800,1800,"CR:Basic Service F... F.Tillett 201204: Tillett, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"CR:Pendant Fee... F.Tillett 201204: Tillett, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,2460,2460,"CR:Resident Care -... F.Tillett 201204: Tillett, Fred",,,,,,,,,,,,,,,

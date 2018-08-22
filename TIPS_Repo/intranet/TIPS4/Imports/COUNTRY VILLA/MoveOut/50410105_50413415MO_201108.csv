@@ -1,0 +1,7 @@
+BATCH,,201108,B,8280.0000,
+INVOICE,IN,,50410105,,08/13/2011,2576.0000,"Invoice-Private",,08/13/2011,08/13/2011,,50413415MO,-3128.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,14,110.0000,1540.00,"Basic Service Fee - Studio Suite for Aug: Petersen, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,14,74.0000,1036.00,"Resident Care - Level 5 for Aug: Petersen, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,50410105,,08/13/2011,5704,"Invoice-Private",,08/13/2011,08/13/2011,,50413415MO,-3128.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3410,3410,"CR:Basic Service F... M.Petersen 201108: Petersen, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,2294,2294,"CR:Resident Care -... M.Petersen 201108: Petersen, Margaret",,,,,,,,,,,,,,,

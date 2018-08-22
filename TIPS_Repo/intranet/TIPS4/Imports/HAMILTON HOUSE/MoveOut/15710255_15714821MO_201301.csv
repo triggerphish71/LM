@@ -1,0 +1,7 @@
+BATCH,,201301,B,7563.3100,
+INVOICE,IN,,15710255,,01/01/2013,1147.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15714821MO,-5182.3600,,,,,,,,,,
+TRANSACTION,3320,010309157,1,1147.0000,1147.00,"CR:Limited Term Di... R.Swain 201301: Swain, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,15710255,,01/01/2013,6416.31,"Invoice-Private",,01/01/2013,01/10/2013,,15714821MO,-5182.3600,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... R.Swain 201301: Swain, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... R.Swain 201301: Swain, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,3534.31,3534.31,"CR:Resident Care -... R.Swain 201301: Swain, Richard",,,,,,,,,,,,,,,

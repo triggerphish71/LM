@@ -1,0 +1,7 @@
+BATCH,,201112,B,6537.0000,
+INVOICE,IN,,16310290,,12/01/2011,992.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16316440MO,-7358.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,992.0000,992.00,"CR:Limited Term Di... J.Jackson 201112: Jackson, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,16310290,,12/01/2011,5545,"Invoice-Private",,12/01/2011,12/10/2011,,16316440MO,-7358.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3224,3224,"CR:Basic Service F... J.Jackson 201112: Jackson, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... J.Jackson 201112: Jackson, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,2294,2294,"CR:Resident Care -... J.Jackson 201112: Jackson, Jim",,,,,,,,,,,,,,,

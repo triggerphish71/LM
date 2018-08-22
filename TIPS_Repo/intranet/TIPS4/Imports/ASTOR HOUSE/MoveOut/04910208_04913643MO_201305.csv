@@ -1,0 +1,8 @@
+BATCH,,201305,B,9418.3000,
+INVOICE,IN,,04910208,,05/23/2013,4000.8500,"Invoice-Private",,05/23/2013,05/23/2013,,04913643MO,-6660.1000,,,,,,,,,,
+TRANSACTION,3020,010101049,23,87.0000,2001.00,"Basic Service Fee - Studio for May: Carson, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,23,86.9500,1999.85,"Resident Care - Level 47 for May: Carson, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,04910208,,05/23/2013,5417.45,"Invoice-Private",,05/23/2013,05/23/2013,,04913643MO,-6660.1000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2697,2697,"CR:Basic Service F... J.Carson 201305: Carson, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... J.Carson 201305: Carson, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,2695.45,2695.45,"CR:Resident Care -... J.Carson 201305: Carson, Joe",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201306,B,2871.0000,
+INVOICE,IN,,14110222,,06/03/2013,261.0000,"Invoice-Private",,06/03/2013,06/03/2013,,14113975MO,-2349.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,3,87.0000,261.00,"Basic Service Fee - Studio for Jun: Gosnell, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14110222,,06/03/2013,2610,"Invoice-Private",,06/03/2013,06/03/2013,,14113975MO,-2349.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2610,2610,"CR:Basic Service F... D.Gosnell 201306: Gosnell, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201308,B,4160.0000,
+INVOICE,IN,,03710172,,08/01/2013,130.0000,"Invoice-Private",,08/01/2013,08/01/2013,,03714773MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,114.0000,114.00,"Basic Service Fee - One Bedroom for Aug: Martin, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,16.0000,16.00,"Resident Care - Level 1 for Aug: Martin, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03710172,,08/01/2013,4030,"Invoice-Private",,08/01/2013,08/01/2013,,03714773MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,3534,3534,"CR:Basic Service F... M.Martin 201308: Martin, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,496,496,"CR:Resident Care -... M.Martin 201308: Martin, Mary",,,,,,,,,,,,,,,

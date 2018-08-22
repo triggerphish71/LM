@@ -1,0 +1,8 @@
+BATCH,,201709,B,9521.2700,
+INVOICE,IN,,50210095,,09/15/2017,3165.0000,"Invoice-Private",,09/15/2017,09/15/2017,,50216223MO,-3191.2700,,,,,,,,,,
+TRANSACTION,3020,010009502,15,144.0000,2160.00,"Basic Service Fee - One Bedroom Del  for Sep: Schwab, Polly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009502,15,67.0000,1005.00,"Resident Care - Level 5  for Sep: Schwab, Polly",,,,,,,,,,,,,,,
+INVOICE,CM,,50210095,,09/15/2017,6356.27,"Invoice-Private",,09/15/2017,09/15/2017,,50216223MO,-3191.2700,,,,,,,,,,
+TRANSACTION,3020,010009502,1,4320,4320,"CR:Basic Service F... P.Schwab 201709: Schwab, Polly",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009502,1,26.27,26.27,"CR:Monthly Cable... P.Schwab 201709: Schwab, Polly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009502,1,2010,2010,"CR:Resident Care -... P.Schwab 201709: Schwab, Polly",,,,,,,,,,,,,,,

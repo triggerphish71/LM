@@ -1,0 +1,5 @@
+BATCH,,201211,B,54.0000,
+INVOICE,IN,,00310181,,11/01/2012,27.0000,"Invoice-Private",,11/01/2012,11/10/2012,,00314356MO,-2698.0800,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27.00,"Monthly Cable: Gallaher, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,00310181,,11/01/2012,27,"Invoice-Private",,11/01/2012,11/10/2012,,00314356MO,-2698.0800,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"Credit for Monthly Cable: Gallaher, Ruth",,,,,,,,,,,,,,,

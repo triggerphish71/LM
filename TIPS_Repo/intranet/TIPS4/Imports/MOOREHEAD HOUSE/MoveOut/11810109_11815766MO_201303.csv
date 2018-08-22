@@ -1,0 +1,7 @@
+BATCH,,201303,B,10030.0000,
+INVOICE,IN,,11810109,,03/01/2013,4760.0000,"Invoice-Private",,03/01/2013,03/10/2013,,11815766MO,-510.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,28,99.0000,2772.00,"Basic Service Fee - Studio for Mar: Irvin, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,28,71.0000,1988.00,"Resident Care - Level 5 for Mar: Irvin, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,11810109,,03/01/2013,5270,"Invoice-Private",,03/01/2013,03/10/2013,,11815766MO,-510.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3069,3069,"CR:Basic Service F... H.Irvin 201303: Irvin, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,2201,2201,"CR:Resident Care -... H.Irvin 201303: Irvin, Harold",,,,,,,,,,,,,,,

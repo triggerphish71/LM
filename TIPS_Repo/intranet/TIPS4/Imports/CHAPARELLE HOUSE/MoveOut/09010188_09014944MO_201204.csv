@@ -1,0 +1,8 @@
+BATCH,,201204,B,5228.0000,
+INVOICE,IN,,09010188,,04/13/2012,1573.0000,"Invoice-Private",,04/13/2012,04/13/2012,,09014944MO,-2082.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,13,92.0000,1196.00,"Basic Service Fee - Studio for Apr: Rudolph, Ken",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,13,29.0000,377.00,"Resident Care - Level 2 for Apr: Rudolph, Ken",,,,,,,,,,,,,,,
+INVOICE,CM,,09010188,,04/13/2012,3655,"Invoice-Private",,04/13/2012,04/13/2012,,09014944MO,-2082.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Basic Service F... K.Rudolph 201204: Rudolph, Ken",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... K.Rudolph 201204: Rudolph, Ken",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,870,870,"CR:Resident Care -... K.Rudolph 201204: Rudolph, Ken",,,,,,,,,,,,,,,

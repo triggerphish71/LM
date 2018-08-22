@@ -1,0 +1,6 @@
+BATCH,,201306,B,4480.0000,
+INVOICE,IN,,13710196,,06/20/2013,1780.0000,"Invoice-Private",,06/20/2013,06/20/2013,,13714988MO,-3679.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,20,89.0000,1780.00,"Basic Service Fee - Studio for Jun: Heeter, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,13710196,,06/20/2013,2700,"Invoice-Private",,06/20/2013,06/20/2013,,13714988MO,-3679.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2670,2670,"CR:Basic Service F... G.Heeter 201306: Heeter, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... G.Heeter 201306: Heeter, Geneva",,,,,,,,,,,,,,,

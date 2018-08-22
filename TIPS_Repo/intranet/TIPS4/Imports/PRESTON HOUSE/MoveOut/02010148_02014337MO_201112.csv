@@ -1,0 +1,5 @@
+BATCH,,201112,B,50.0000,
+INVOICE,IN,,02010148,,12/01/2011,25.0000,"Invoice-Private",,12/01/2011,12/10/2011,,02014337MO,-961.0000,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25.00,"Monthly Cable: Mullican, Jacqueline",,,,,,,,,,,,,,,
+INVOICE,CM,,02010148,,12/01/2011,25,"Invoice-Private",,12/01/2011,12/10/2011,,02014337MO,-961.0000,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"Credit for Monthly Cable: Mullican, Jacqueline",,,,,,,,,,,,,,,

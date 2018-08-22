@@ -1,0 +1,5 @@
+BATCH,,201107,B,2492.0000,
+INVOICE,IN,,08810200,,07/28/2011,2492.0000,"MoveIn-Day. Helen",,07/28/2011,07/28/2011,,08814079,6305.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,4,94.0000,376,"H.Day: Basic Service Fee - Studio: Day. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,4,29.0000,116,"H.Day: Resident Care - Level 2: Day. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000.0000,2000,"New Resident Fee: Day. Helen",,,,,,,,,,,,,,,

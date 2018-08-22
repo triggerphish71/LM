@@ -1,0 +1,6 @@
+BATCH,,201202,B,5015.0000,
+INVOICE,IN,,14310181,,02/01/2012,5015.0000,"MoveIn-Stanley. Donald",,02/01/2012,02/01/2012,,14314288,5015.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,29,103.0000,2987,"D.Stanley: Basic Service Fee - One Bedroom: Stanley. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309143,29,17.0000,493,"D.Stanley: Resident Care - Level 1: Stanley. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Stanley. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Stanley. Donald",,,,,,,,,,,,,,,

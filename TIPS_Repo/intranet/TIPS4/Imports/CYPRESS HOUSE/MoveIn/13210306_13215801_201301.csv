@@ -1,0 +1,5 @@
+BATCH,,201301,B,3710.0000,
+INVOICE,IN,,13210306,,01/15/2013,3710.0000,"MoveIn-Fitch. Norman",,01/15/2013,01/15/2013,,13215801,6509.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,17,99.0000,1683,"N.Fitch: Basic Service Fee - Studio: Fitch. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Fitch. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Fitch. Norman",,,,,,,,,,,,,,,

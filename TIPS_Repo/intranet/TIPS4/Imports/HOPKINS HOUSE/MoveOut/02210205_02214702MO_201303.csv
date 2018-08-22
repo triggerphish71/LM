@@ -1,0 +1,6 @@
+BATCH,,201303,B,3050.0000,
+INVOICE,IN,,02210205,,03/01/2013,1320.0000,"Invoice-Private",,03/01/2013,03/10/2013,,02214702MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,24,55.0000,1320.00,"Basic Service Fee - Studio for Mar: Thurman, Havah",,,,,,,,,,,,,,,
+INVOICE,CM,,02210205,,03/01/2013,1730,"Invoice-Private",,03/01/2013,03/10/2013,,02214702MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,1705,1705,"CR:Basic Service F... H.Thurman 201303: Thurman, Havah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... H.Thurman 201303: Thurman, Havah",,,,,,,,,,,,,,,

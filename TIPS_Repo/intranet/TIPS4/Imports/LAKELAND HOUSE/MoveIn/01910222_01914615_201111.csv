@@ -1,0 +1,5 @@
+BATCH,,201111,B,3387.0000,
+INVOICE,IN,,01910222,,11/01/2011,3387.0000,"November_Rent-Smith. Mickey",,11/01/2011,11/10/2011,,01914615,6396.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,30,95.0000,2850,"Basic Service Fee - Studio: Smith. Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,30,17.0000,510,"Resident Care - Level 1: Smith. Mickey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27,"Monthly Cable: Smith. Mickey",,,,,,,,,,,,,,,

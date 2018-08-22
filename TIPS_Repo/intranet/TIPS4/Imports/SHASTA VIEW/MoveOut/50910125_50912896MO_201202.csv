@@ -1,0 +1,7 @@
+BATCH,,201202,B,5246.0000,
+INVOICE,IN,,50910125,,01/26/2012,1586.0000,"Invoice-Private",,01/26/2012,01/26/2012,,50912896MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,26,61.0000,1586.00,"Basic Service Fee - One Bedroom for Jan: Schlumbohm, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,50910125,,01/26/2012,1891,"Invoice-Private",,01/26/2012,01/26/2012,,50912896MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1891,1891,"CR:Basic Service F... S.Schlumbohm 201201: Schlumbohm, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,50910125,,02/01/2012,1769,"Invoice-Private",,02/01/2012,02/10/2012,,50912896MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1769,1769,"CR:Basic Service F... S.Schlumbohm 201202: Schlumbohm, Sylvia",,,,,,,,,,,,,,,

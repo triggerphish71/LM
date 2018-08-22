@@ -1,0 +1,7 @@
+BATCH,,201108,B,10620.0000,
+INVOICE,IN,,06310204,,08/01/2011,5133.0000,"Invoice-Private",,08/01/2011,08/10/2011,,06314678MO,-5664.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,29,89.0000,2581.00,"Basic Service Fee - Studio for Aug: Burke, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,29,88.0000,2552.00,"Resident Care - Level 6 for Aug: Burke, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,06310204,,08/01/2011,5487,"Invoice-Private",,08/01/2011,08/10/2011,,06314678MO,-5664.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,2759,2759,"CR:Basic Service F... H.Burke 201108: Burke, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,2728,2728,"CR:Resident Care -... H.Burke 201108: Burke, Hazel",,,,,,,,,,,,,,,

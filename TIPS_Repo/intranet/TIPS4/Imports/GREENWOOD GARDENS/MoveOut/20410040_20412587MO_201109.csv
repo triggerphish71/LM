@@ -1,0 +1,7 @@
+BATCH,,201109,B,5928.0000,
+INVOICE,IN,,20410040,,09/18/2011,2508.0000,"Invoice-Private",,09/18/2011,09/18/2011,,20412587MO,-4446.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,22,36.0000,792.00,"Resident Care - Level 7A for Sep: Graham, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,22,78.0000,1716.00,"Studio for Sep: Graham, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,20410040,,09/18/2011,3420,"Invoice-Private",,09/18/2011,09/18/2011,,20412587MO,-4446.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1080,1080,"CR:Resident Care -... E.Graham 201109: Graham, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2340,2340,"CR:Studio... E.Graham 201109: Graham, Eleanor",,,,,,,,,,,,,,,

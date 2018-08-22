@@ -1,0 +1,189 @@
+<cfoutput>
+	<div id="dvHeader">
+</cfoutput>
+
+<cfparam name="iHouse_Id" default="0">
+<cfparam name="session.eid" default="A8W999999">
+<cfparam name="EHSIFacilityID" default="0">
+<cfparam name="debug" default="false">
+<cfparam name="session.username" default="dhollingsworth">
+<cfparam name="session.developers" default="">
+<cfparam name="datetouse" default="#NOW()#">
+<cfparam name="SubAccountNumber" default="0">
+<cfparam name="session.ADDescription" default="RDQCS - Washington Region (Greenway)">
+<!---
+<cfparam name="iHouse_Id" default="0">
+<cfparam name="session.eid" default="A8W999098">
+<cfparam name="EHSIFacilityID" default="0">
+<cfparam name="debug" default="false">
+<cfparam name="session.username" default="jkiperash">
+<cfparam name="session.developers" default="">
+<cfparam name="datetouse" default="#NOW()#">
+<cfparam name="SubAccountNumber" default="010103098">
+<cfparam name="session.ADDescription" default="Windriver House - Administrator">
+
+<cfparam name="iHouse_Id" default="0">
+<cfparam name="session.eid" default="A8W999999">
+<cfparam name="EHSIFacilityID" default="0">
+<cfparam name="debug" default="false">
+<cfparam name="session.username" default="tusher">
+<cfparam name="session.developers" default="">
+<cfparam name="datetouse" default="#NOW()#">
+<cfparam name="SubAccountNumber" default="0">
+<cfparam name="session.ADDescription" default="VP Division Operations - Midwest/Atlantic">
+
+<cfparam name="iHouse_Id" default="0">
+<cfparam name="session.eid" default="A8W999999">
+<cfparam name="EHSIFacilityID" default="0">
+<cfparam name="debug" default="false">
+<cfparam name="session.username" default="ktuma">
+<cfparam name="session.developers" default="">
+<cfparam name="datetouse" default="#NOW()#">
+<cfparam name="SubAccountNumber" default="0">
+<cfparam name="session.ADDescription" default="RDSM - PA">
+--->
+<!--- Fetch any records in the impersonation table that have the current user's identity. --->
+<cfquery name="dsUserNameImpersonation" datasource="#FtaDs#">
+	SELECT TOP 1
+		cNewIdentity
+	FROM
+		dbo.Impersonation
+	WHERE
+		cIdentity = '#session.userName#' AND
+		bIsDescriptionIdentity = 0 AND
+		dtRowDeleted IS NULL;
+</cfquery>
+<!--- Fetch any records in the impersonation table that have the current user's description field as an identity. --->
+<cfquery name="dsUserDescImpersonation" datasource="#FtaDs#">
+	SELECT TOP 1
+		cNewIdentity
+	FROM
+		dbo.Impersonation
+	WHERE
+		cIdentity = '#session.ADDescription#' AND
+		bIsDescriptionIdentity = 1 AND
+		dtRowDeleted IS NULL;
+</cfquery>
+
+<!--- Check if the current User Name needs to be impersonated. --->
+<cfif dsUserNameImpersonation.RecordCount gt 0>
+	<!--- Impersonate the current User Name. --->
+	<cfset session.userName = dsUserNameImpersonation.cNewIdentity>
+</cfif>
+<!--- Check if the current User Description needs to be impersonated. --->
+<cfif dsUserDescImpersonation.RecordCount gt 0>
+	<!--- Impersonate the current User Description. --->
+	<cfset session.ADDescription = dsUserDescImpersonation.cNewIdentity>
+</cfif>
+<!--- Check if there is an Query String parameter with the name dateToUse? --->
+<cfif isDefined("url.datetouse")>
+	<cfset datetouse = #url.datetouse#>
+</cfif>
+
+<!--- eid presnet in session but empty, user not set up in ad properly --->
+<cfif session.eid eq "">
+	<center><H3><font color="red" face="arial">You do not have a EID set up in Active Directory and cannot access this application.<BR>
+	If you need access to the Online FTA, please contact the Help Desk and have them enter your EID in your network account.
+	</font></H3></center>
+	<cfabort>
+<!--- session.eid = 0, this page created it, they are not logged in --->
+<cfelseif session.eid eq 0>
+	<center><H3><font color="red" face="arial">You must be logged in with your network name and password to access the Online FTA.<BR>
+	<A href="/intranet/loginindex.cfm">Please try again</A>
+	</font></H3></center>
+	<cfabort>
+<!--- they are logged in with an ad eid set up --->
+<cfelse>
+	<!--- no house id was passed into this page --->
+	<cfif iHouse_ID eq 0>
+		<!--- get subaccount from AD --->
+		<CFLDAP ACTION="query" NAME="FindSubAccount" START="DC=alcco,DC=com" SCOPE="subtree" ATTRIBUTES="physicalDeliveryOfficeName,company" SERVER="#ADserver#" PORT="389"  FILTER="(&(objectCategory=CN=Person,CN=Schema,CN=Configuration,DC=alcco,DC=com)(physicalDeliveryOfficeName=#SESSION.EID#))" USERNAME="ldap" PASSWORD="paulLDAP939">
+
+		<cfset SubAccountNumber = #FindSubAccount.company#>
+		<cfset subAccount = #SubAccountNumber#>
+		<cfset useHouseId = false>
+
+		<cfset dsSubAccount = helperObj.FetchSubAccount(false, subAccount)>
+		<cfset EHSIFacilityID = #trim(dsSubAccount.EHSIFacilityID)#>
+		
+		<cfset dsHouseInfo = #helperObj.FetchHouseInfo(subAccount)#>
+		<cfset unitId = #dsHouseInfo.unitId#>
+		<cfset houseId = #dsHouseInfo.iHouse_ID#>			
+		<cfset HouseNumber = #trim(dsHouseInfo.EHSIFacilityID)#>
+	<cfelse>
+		<!--- iHouse_ID is defined, so this is an AP person coming in pretending to be a house --->
+		<CFLDAP ACTION="query" NAME="FindSubAccount" START="DC=alcco,DC=com" SCOPE="subtree" ATTRIBUTES="physicalDeliveryOfficeName,company,Name" SERVER="#ADserver#" PORT="389"  FILTER="(&(objectCategory=CN=Person,CN=Schema,CN=Configuration,DC=alcco,DC=com)(physicalDeliveryOfficeName=#SESSION.EID#))" USERNAME="ldap" PASSWORD="paulLDAP939">
+
+		<cfset dsSubAccount = helperObj.FetchSubAccount(true, iHouse_ID)>
+		<cfset SubAccountNumber = trim(dsSubAccount.cGLsubaccount)>
+		<cfset subAccount = #SubAccountNumber#>
+		
+		<cfset dsHouseInfo = #helperObj.FetchHouseInfo(subAccount)#>
+		<cfset unitId = #dsHouseInfo.unitId#>
+		<cfset houseId = #dsHouseInfo.iHouse_ID#>			
+		<cfset HouseNumber = #trim(dsHouseInfo.EHSIFacilityID)#>
+		<cfset EHSIFacilityID = trim(dsSubAccount.EHSIFacilityID)>
+	</cfif>
+
+	<!--- if session.eid is not temp (what does that mean) or there was no subaccount found in the lookup --->
+	<cfif SESSION.EID neq "temp" AND (FindSubAccount.recordcount eq 0 OR FindSubAccount.company is "")>
+		<center><H3><font color="red" face="arial">Sorry, your Active Directory Account has not yet been set up with a SubAccount.  Please contact IT.</font></H3></center>
+		<cfabort>
+	</cfif>
+</cfif>
+
+<!--- user is not a RDO (they do not have RDO in their ad dscription --->
+<cfif find("RDO", session.ADdescription) neq 0>
+
+	<cfset RDOposition = Find("RDO",SESSION.ADdescription)>
+
+	<cfset endposition = rdoposition + 5>
+
+	<cfset regionname = removechars(SESSION.ADdescription,1,endposition)>
+
+	<cfquery name="findOpsAreaID" datasource="prodTips4">
+		select
+			 iOpsArea_ID
+			,cName
+		from
+			OpsArea
+		where
+			dtRowDeleted IS NULL
+		and
+			cName = '#Trim(RegionName)#'                                                                                                                                                                                                                                                          
+	</cfquery>
+
+	<cfif findOpsAreaID.recordcount gt 0>
+		<cfset RDOrestrict = findOpsAreaID.iOpsArea_ID>
+	</cfif>
+</cfif>
+
+<!--- Show the House Drop-down list. --->
+<cfinclude template="HouseSelect.cfm">
+
+<!--- Check if there is an active sub account number. --->
+<cfif subAccount neq 0>
+	<cfoutput>
+		<!--- Display the FTA name, page name, and selected date. --->
+		<h3>Online FTA- 
+			<font color="##C88A5B">                                                                                                                                                                                        
+				#Page#-
+			</font> 
+			<font color="##0066CC">
+				#dsHouseInfo.cName#-
+			</font> 
+			<font color="##7F7E7E">
+				#DateFormat(datetouse,'mmmm yyyy')#
+			</Font>
+		</h3>
+	</cfoutput>
+	<!--- Show the Month selection along with the Toolbar Menu. --->
+	<cfinclude template="MonthSelect.cfm">
+<cfelse>
+	<h3>
+		Online FTA
+	</h3>
+</cfif>
+<cfoutput>
+	</div>
+</cfoutput>

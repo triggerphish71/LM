@@ -1,0 +1,8 @@
+BATCH,,201109,B,7035.0000,
+INVOICE,IN,,00710095,,09/01/2011,2850.0000,"Invoice-Private",,09/01/2011,09/10/2011,,00713241MO,-1335.0000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,60.0000,60.00,"CR:Limited Term Di... E.Clary 201109: Clary, Evelyn (Ida)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,20,80.0000,1600.00,"Basic Service Fee - Studio for Sep: Clary, Evelyn (Ida)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,20,59.5000,1190.00,"Resident Care - Level 35 for Sep: Clary, Evelyn (Ida)",,,,,,,,,,,,,,,
+INVOICE,CM,,00710095,,09/01/2011,4185,"Invoice-Private",,09/01/2011,09/10/2011,,00713241MO,-1335.0000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2400,2400,"CR:Basic Service F... E.Clary 201109: Clary, Evelyn (Ida)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1785,1785,"CR:Resident Care -... E.Clary 201109: Clary, Evelyn (Ida)",,,,,,,,,,,,,,,

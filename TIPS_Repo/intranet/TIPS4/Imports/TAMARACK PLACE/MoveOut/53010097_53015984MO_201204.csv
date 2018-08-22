@@ -1,0 +1,5 @@
+BATCH,,201204,B,1628.0000,
+INVOICE,IN,,53010097,,04/01/2012,518.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53015984MO,-592.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,14,37.0000,518.00,"Basic Service Fee - Second Resident for Apr: Menacher, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,53010097,,04/01/2012,1110,"Invoice-Private",,04/01/2012,04/10/2012,,53015984MO,-592.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,1110,1110,"CR:Basic Service F... M.Menacher 201204: Menacher, Marjorie",,,,,,,,,,,,,,,

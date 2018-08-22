@@ -1,0 +1,6 @@
+BATCH,,201301,B,3397.0000,
+INVOICE,IN,,14310200,,01/10/2013,820.0000,"Invoice-Private",,01/10/2013,01/10/2013,,14314765MO,-1757.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,10,82.0000,820.00,"Basic Service Fee - Studio for Jan: Bradford, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,14310200,,01/10/2013,2577,"Invoice-Private",,01/10/2013,01/10/2013,,14314765MO,-1757.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... N.Bradford 201301: Bradford, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... N.Bradford 201301: Bradford, Norma",,,,,,,,,,,,,,,

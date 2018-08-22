@@ -1,0 +1,7 @@
+BATCH,,201303,B,126.0000,
+INVOICE,IN,,11510284,,03/01/2013,63.0000,"Invoice-Private",,03/01/2013,03/10/2013,,11514615MO,-3112.3400,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: MacMillan, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308115,1,35.0000,35.00,"Pendant Fee: MacMillan, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,11510284,,03/01/2013,63,"Invoice-Private",,03/01/2013,03/10/2013,,11514615MO,-3112.3400,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: MacMillan, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308115,1,35,35,"Credit for Pendant Fee: MacMillan, Robert",,,,,,,,,,,,,,,

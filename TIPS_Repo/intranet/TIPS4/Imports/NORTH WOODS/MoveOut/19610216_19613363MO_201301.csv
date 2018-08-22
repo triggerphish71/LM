@@ -1,0 +1,8 @@
+BATCH,,201301,B,4592.0000,
+INVOICE,IN,,19610216,,01/01/2013,1147.0000,"Invoice-Private",,01/01/2013,01/10/2013,,19613363MO,-3096.0000,,,,,,,,,,
+TRANSACTION,3320,010315196,1,1147.0000,1147.00,"CR:Limited Term Di... C.Wille 201301: Wille, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,19610216,,01/01/2013,3445,"Invoice-Private",,01/01/2013,01/10/2013,,19613363MO,-3096.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,2697,2697,"CR:Basic Service F... C.Wille 201301: Wille, Carol",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,310,310,"CR:CC Meals... C.Wille 201301: Wille, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"CR:Monthly Cable... C.Wille 201301: Wille, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,403,403,"CR:Resident Care -... C.Wille 201301: Wille, Carol",,,,,,,,,,,,,,,

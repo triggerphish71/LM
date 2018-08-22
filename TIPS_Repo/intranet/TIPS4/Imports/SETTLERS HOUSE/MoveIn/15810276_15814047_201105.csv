@@ -1,0 +1,5 @@
+BATCH,,201105,B,3135.0000,
+INVOICE,IN,,15810276,,05/17/2011,3135.0000,"MoveIn-Zych. Marge",,05/17/2011,05/17/2011,,15814047,6405.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,15,92.0000,1380,"Basic Service Fee - Studio         : Zych. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,15,17.0000,255,"Resident Care - Level 1: Zych. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: Zych. Marge",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,3764.0000,
+INVOICE,IN,,03610310,,12/06/2012,606.0000,"Invoice-Private",,12/06/2012,12/06/2012,,03615376MO,-2552.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,6,101.0000,606.00,"M.Durrant: Basic Service Fee - Studio for Dec: Durrant, Marcine",,,,,,,,,,,,,,,
+INVOICE,CM,,03610310,,12/06/2012,3158,"Invoice-Private",,12/06/2012,12/06/2012,,03615376MO,-2552.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:M.Durrant: Basi... M.Durrant 201212: Durrant, Marcine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... M.Durrant 201212: Durrant, Marcine",,,,,,,,,,,,,,,

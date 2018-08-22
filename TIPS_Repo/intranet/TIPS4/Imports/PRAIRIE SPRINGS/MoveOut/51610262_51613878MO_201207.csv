@@ -1,0 +1,8 @@
+BATCH,,201207,B,7349.0500,
+INVOICE,IN,,51610262,,07/22/2012,3757.7000,"Invoice-Private",,07/22/2012,07/22/2012,,51613878MO,-2216.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,1209.0000,1209.00,"CR:Limited Term Di... J.Messerschmidt 201207: Messerschmidt, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103516,22,89.0000,1958.00,"Basic Service Fee - Studio for Jul: Messerschmidt, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,22,26.8500,590.70,"Resident Care - Level 15 for Jul: Messerschmidt, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,51610262,,07/22/2012,3591.35,"Invoice-Private",,07/22/2012,07/22/2012,,51613878MO,-2216.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2759,2759,"CR:Basic Service F... J.Messerschmidt 201207: Messerschmidt, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,832.35,832.35,"CR:Resident Care -... J.Messerschmidt 201207: Messerschmidt, Jean",,,,,,,,,,,,,,,

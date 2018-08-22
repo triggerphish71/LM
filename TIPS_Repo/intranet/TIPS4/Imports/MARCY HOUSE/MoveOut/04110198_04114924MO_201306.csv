@@ -1,0 +1,5 @@
+BATCH,,201306,B,3417.0000,
+INVOICE,IN,,04110198,,06/15/2013,1407.0000,"Invoice-Private",,06/15/2013,06/15/2013,,04114924MO,-2680.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,21,67.0000,1407.00,"Basic Service Fee - Studio for Jun: Franklin, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,04110198,,06/15/2013,2010,"Invoice-Private",,06/15/2013,06/15/2013,,04114924MO,-2680.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2010,2010,"CR:Basic Service F... M.Franklin 201306: Franklin, Mildred",,,,,,,,,,,,,,,

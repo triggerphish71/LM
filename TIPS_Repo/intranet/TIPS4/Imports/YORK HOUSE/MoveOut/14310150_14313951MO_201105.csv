@@ -1,0 +1,8 @@
+BATCH,,201105,B,5165.0000,
+INVOICE,IN,,14310150,,05/07/2011,945.0000,"Invoice-Private",,05/07/2011,05/07/2011,,14313951MO,-3275.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,7,80.0000,560.00,"Basic Service Fee - Studio for May: Patterson, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,7,55.0000,385.00,"Resident Care - Level 4 for May: Patterson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,14310150,,05/07/2011,4220,"Invoice-Private",,05/07/2011,05/07/2011,,14313951MO,-3275.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2480,2480,"CR:Basic Service F... J.Patterson 201105: Patterson, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... J.Patterson 201105: Patterson, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,1705,1705,"CR:Resident Care -... J.Patterson 201105: Patterson, John",,,,,,,,,,,,,,,

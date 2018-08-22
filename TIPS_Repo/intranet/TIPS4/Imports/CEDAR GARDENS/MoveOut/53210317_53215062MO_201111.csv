@@ -1,0 +1,8 @@
+BATCH,,201111,B,5538.0000,
+INVOICE,IN,,53210317,,11/04/2011,1043.0000,"Invoice-Private",,11/04/2011,11/04/2011,,53215062MO,-3452.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,7,134.0000,938.00,"Basic Service Fee - One Bedroom for Nov: Eernisse, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,7,15.0000,105.00,"Resident Care - Level 1 for Nov: Eernisse, Georgia",,,,,,,,,,,,,,,
+INVOICE,CM,,53210317,,11/04/2011,4495,"Invoice-Private",,11/04/2011,11/04/2011,,53215062MO,-3452.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,4020,4020,"CR:Basic Service F... G.Eernisse 201111: Eernisse, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"CR:Pendant Fee... G.Eernisse 201111: Eernisse, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,450,450,"CR:Resident Care -... G.Eernisse 201111: Eernisse, Georgia",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201108,B,7478.0000,
+INVOICE,IN,,14810308,,08/24/2011,3665.0000,"Invoice-Private",,08/24/2011,08/24/2011,,14814665MO,-2638.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,713.0000,713.00,"CR:Limited Term Di... R.Bagnato 201108: Bagnato, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,24,88.0000,2112.00,"Basic Service Fee - Studio for Aug: Bagnato, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,24,35.0000,840.00,"Resident Care - Level 2 for Aug: Bagnato, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,14810308,,08/24/2011,3813,"Invoice-Private",,08/24/2011,08/24/2011,,14814665MO,-2638.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2728,2728,"CR:Basic Service F... R.Bagnato 201108: Bagnato, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1085,1085,"CR:Resident Care -... R.Bagnato 201108: Bagnato, Rose",,,,,,,,,,,,,,,

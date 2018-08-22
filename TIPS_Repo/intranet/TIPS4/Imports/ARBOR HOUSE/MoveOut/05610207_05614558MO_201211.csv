@@ -1,0 +1,5 @@
+BATCH,,201211,B,54.0000,
+INVOICE,IN,,05610207,,11/01/2012,27.0000,"Invoice-Private",,11/01/2012,11/10/2012,,05614558MO,-2570.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27.00,"Monthly Cable: Hickson, Jasper",,,,,,,,,,,,,,,
+INVOICE,CM,,05610207,,11/01/2012,27,"Invoice-Private",,11/01/2012,11/10/2012,,05614558MO,-2570.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"Credit for Monthly Cable: Hickson, Jasper",,,,,,,,,,,,,,,

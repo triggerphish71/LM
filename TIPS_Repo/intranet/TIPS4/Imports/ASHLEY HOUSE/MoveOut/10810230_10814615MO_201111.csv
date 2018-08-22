@@ -1,0 +1,7 @@
+BATCH,,201111,B,1510.0000,
+INVOICE,IN,,10810230,,11/01/2011,755.0000,"Invoice-Private",,11/01/2011,11/10/2011,,10814615MO,-3949.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,30,24.0000,720.00,"Credit for Limited Term Discount: Uldrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35.0000,35.00,"Pendant Fee: Uldrick, George",,,,,,,,,,,,,,,
+INVOICE,CM,,10810230,,11/01/2011,755,"Invoice-Private",,11/01/2011,11/10/2011,,10814615MO,-3949.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,30,24,720,"Limited Term Discount: Uldrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35,35,"Credit for Pendant Fee: Uldrick, George",,,,,,,,,,,,,,,

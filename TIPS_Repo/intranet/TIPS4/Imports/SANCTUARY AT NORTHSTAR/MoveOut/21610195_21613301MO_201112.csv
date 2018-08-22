@@ -1,0 +1,8 @@
+BATCH,,201112,B,5520.0000,
+INVOICE,IN,,21610195,,12/19/2011,2090.0000,"Invoice-Private",,12/19/2011,12/19/2011,,21613301MO,-4925.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,19,99.0000,1881.00,"One Bedroom for Dec: Ludlum, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,19,11.0000,209.00,"Resident Care - Level 1 for Dec: Ludlum, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,21610195,,12/19/2011,3430,"Invoice-Private",,12/19/2011,12/19/2011,,21613301MO,-4925.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3069,3069,"CR:One Bedroom... K.Ludlum 201112: Ludlum, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... K.Ludlum 201112: Ludlum, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,341,341,"CR:Resident Care -... K.Ludlum 201112: Ludlum, Kathryn",,,,,,,,,,,,,,,

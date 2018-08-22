@@ -1,0 +1,8 @@
+BATCH,,201108,B,3034.4900,
+INVOICE,IN,,03010019,,08/28/2011,742.2800,"Invoice-Medicaid",,08/28/2011,08/28/2011,,03013867MO,-3930.3100,,,,,,,,,,
+TRANSACTION,3031,010103030,28,0.7100,19.88,"Med Private CoPay Rate Adjustment for Aug: Kraft, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3021,010103030,28,25.8000,722.40,"Medicaid Co-Pay for Aug: Kraft, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,03010019,,08/28/2011,2292.21,"Invoice-Medicaid",,08/28/2011,08/28/2011,,03013867MO,-3930.3100,,,,,,,,,,
+TRANSACTION,3031,010103030,1,22.08,22.08,"CR:Med Private CoP... P.Kraft 201108: Kraft, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3021,010103030,1,799.73,799.73,"CR:Medicaid Co-Pay... P.Kraft 201108: Kraft, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103030,1,1470.4,1470.4,"CR:State Medicaid... P.Kraft 201108: Kraft, Phyllis",,,,,,,,,,,,,,,

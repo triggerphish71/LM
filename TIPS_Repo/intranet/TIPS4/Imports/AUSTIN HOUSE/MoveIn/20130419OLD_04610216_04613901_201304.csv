@@ -1,0 +1,5 @@
+BATCH,,201304,B,3154.0000,
+INVOICE,IN,,04610216,,04/19/2013,3154.0000,"MoveIn-Davis. Pat",,04/19/2013,04/19/2013,,04613901,6781.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,12,100.0000,1200,"Basic Service Fee - Studio: Davis. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,12,17.0000,204,"Resident Care - Level 1: Davis. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Davis. Pat",,,,,,,,,,,,,,,

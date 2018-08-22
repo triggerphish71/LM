@@ -1,0 +1,8 @@
+BATCH,,201109,B,5980.0000,
+INVOICE,IN,,14610045,,09/01/2011,850.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14614160MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,5,89.0000,445.00,"Basic Service Fee - Studio for Sep: Keslosky, Natalie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,5,81.0000,405.00,"Resident Care - Level 6 for Sep: Keslosky, Natalie",,,,,,,,,,,,,,,
+INVOICE,CM,,14610045,,09/01/2011,5130,"Invoice-Private",,09/01/2011,09/10/2011,,14614160MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2670,2670,"CR:Basic Service F... N.Keslosky 201109: Keslosky, Natalie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... N.Keslosky 201109: Keslosky, Natalie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,2430,2430,"CR:Resident Care -... N.Keslosky 201109: Keslosky, Natalie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201803,B,3663.8000,
+INVOICE,IN,,07810371,,03/15/2018,1623.0000,"Invoice-Private",,03/15/2018,03/15/2018,,07816616MO,-417.8000,,,,,,,,,,
+TRANSACTION,3017,010004078,3,36.0000,108.00," Level Care:  2  -from 2018-02-26: Foster, Stan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010004078,15,36.0000,540.00," Level Care:  2 : Foster, Stan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010004078,15,65.0000,975.00,"Basic Service Fee - One Bedroom  for Mar: Foster, Stan",,,,,,,,,,,,,,,
+INVOICE,CM,,07810371,,03/15/2018,2040.8,"Invoice-Private",,03/15/2018,03/15/2018,,07816616MO,-417.8000,,,,,,,,,,
+TRANSACTION,3020,010004078,1,2015,2015,"CR:Basic Service F... S.Foster 201803: Foster, Stan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010004078,1,25.8,25.8,"CR:Monthly Cable... S.Foster 201803: Foster, Stan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,3285.0000,
+INVOICE,IN,,15910212,,10/01/2011,3285.0000,"October_Rent-Justice. David",,10/01/2011,10/10/2011,,15914451,6000.0000,,,,,,,,,,
+TRANSACTION,3010,010212159,31,89.0000,2759,"Basic Service Fee - Studio         : Justice. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212159,31,16.0000,496,"Swan Personal Care - L1: Justice. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30,"Monthly Cable: Justice. David",,,,,,,,,,,,,,,

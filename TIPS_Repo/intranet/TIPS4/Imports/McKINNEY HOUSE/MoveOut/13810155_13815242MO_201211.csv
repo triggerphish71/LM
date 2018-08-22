@@ -1,0 +1,8 @@
+BATCH,,201211,B,9320.0000,
+INVOICE,IN,,13810155,,11/28/2012,5120.0000,"Invoice-Private",,11/28/2012,11/28/2012,,13815242MO,-2180.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,1200.0000,1200.00,"CR:Limited Term Di... L.Billingsley 201211: Billingsley, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,28,96.0000,2688.00,"Basic Service Fee - Studio for Nov: Billingsley, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,28,44.0000,1232.00,"Resident Care - Level 3 for Nov: Billingsley, Lenora",,,,,,,,,,,,,,,
+INVOICE,CM,,13810155,,11/28/2012,4200,"Invoice-Private",,11/28/2012,11/28/2012,,13815242MO,-2180.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2880,2880,"CR:Basic Service F... L.Billingsley 201211: Billingsley, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,1320,1320,"CR:Resident Care -... L.Billingsley 201211: Billingsley, Lenora",,,,,,,,,,,,,,,

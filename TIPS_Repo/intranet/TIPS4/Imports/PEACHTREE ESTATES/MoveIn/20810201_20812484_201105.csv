@@ -1,0 +1,5 @@
+BATCH,,201105,B,2020.0000,
+INVOICE,IN,,20810201,,05/20/2011,2020.0000,"MoveIn-Johnson. Bob",,05/20/2011,05/20/2011,,20812484,4570.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,12,74.0000,888,"Studio: Johnson. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216208,12,11.0000,132,"Resident Care - Level 1: Johnson. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1000.0000,1000,"New Resident Fee: Johnson. Bob",,,,,,,,,,,,,,,

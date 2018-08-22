@@ -1,0 +1,6 @@
+BATCH,,201209,B,6383.0000,
+INVOICE,IN,,52910183,,09/23/2012,3653.0000,"Invoice-Private",,09/23/2012,09/23/2012,,52913286MO,-286.0000,,,,,,,,,,
+TRANSACTION,3320,010319529,1,1560.0000,1560.00,"CR:Limited Term Di... H.Heiner 201209: Heiner, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,23,91.0000,2093.00,"Basic Service Fee - Studio for Sep: Heiner, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,52910183,,09/23/2012,2730,"Invoice-Private",,09/23/2012,09/23/2012,,52913286MO,-286.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2730,2730,"CR:Basic Service F... H.Heiner 201209: Heiner, Harold",,,,,,,,,,,,,,,

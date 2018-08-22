@@ -1,0 +1,8 @@
+BATCH,,201305,B,5368.0000,
+INVOICE,IN,,11810102,,05/06/2013,864.0000,"Invoice-Private",,05/06/2013,05/06/2013,,11815857MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,6,83.0000,498.00,"Basic Service Fee - Studio for May: Setlock, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,6,61.0000,366.00,"Resident Care - Level 4 for May: Setlock, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,11810102,,05/06/2013,4504,"Invoice-Private",,05/06/2013,05/06/2013,,11815857MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2573,2573,"CR:Basic Service F... J.Setlock 201305: Setlock, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... J.Setlock 201305: Setlock, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1891,1891,"CR:Resident Care -... J.Setlock 201305: Setlock, Joseph",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,5480.0000,
+INVOICE,IN,,12610258,,03/02/2013,5480.0000,"MoveIn-Heiden. Herbert",,03/02/2013,03/02/2013,,12615219,5480.0000,,,,,,,,,,
+TRANSACTION,3010,010211126,30,70.0000,2100,"Basic Service Fee - Studio         : Heiden. Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211126,30,46.0000,1380,"Resident Care - Level 3: Heiden. Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211126,1,2000.0000,2000,"New Resident Fee: Heiden. Herbert",,,,,,,,,,,,,,,

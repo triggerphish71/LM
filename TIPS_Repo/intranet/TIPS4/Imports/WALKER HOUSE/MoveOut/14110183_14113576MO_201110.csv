@@ -1,0 +1,8 @@
+BATCH,,201110,B,8519.0000,
+INVOICE,IN,,14110183,,10/04/2011,4489.0000,"Invoice-Private",,10/04/2011,10/04/2011,,14113576MO,459.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,589.0000,589.00,"CR:Limited Term Di... G.Higdon 201110: Higdon, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,30,84.0000,2520.00,"Basic Service Fee - Studio for Oct: Higdon, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,30,46.0000,1380.00,"Resident Care - Level 3 for Oct: Higdon, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,14110183,,10/04/2011,4030,"Invoice-Private",,10/04/2011,10/04/2011,,14113576MO,459.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2604,2604,"CR:Basic Service F... G.Higdon 201110: Higdon, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,1426,1426,"CR:Resident Care -... G.Higdon 201110: Higdon, Geneva",,,,,,,,,,,,,,,

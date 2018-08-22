@@ -1,0 +1,8 @@
+BATCH,,201202,B,3295.0000,
+INVOICE,IN,,50210184,,02/01/2012,109.0000,"Invoice-Private",,02/01/2012,02/01/2012,,50213293MO,-3077.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,83.0000,83.00,"Basic Service Fee - Studio for Feb: Gordon, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,26.0000,26.00,"Resident Care - Level 2 for Feb: Gordon, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50210184,,02/01/2012,3186,"Invoice-Private",,02/01/2012,02/01/2012,,50213293MO,-3077.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2407,2407,"CR:Basic Service F... C.Gordon 201202: Gordon, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... C.Gordon 201202: Gordon, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,754,754,"CR:Resident Care -... C.Gordon 201202: Gordon, Charles",,,,,,,,,,,,,,,

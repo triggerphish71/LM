@@ -1,0 +1,6 @@
+BATCH,,201107,B,3730.0000,
+INVOICE,IN,,50110240,,07/12/2011,3730.0000,"MoveIn-VerWayne. Geraldine",,07/12/2011,07/12/2011,,50113560,3730.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,20,84.0000,1680,"Basic Service Fee - Studio: VerWayne. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,20,26.0000,520,"Resident Care - Level 2: VerWayne. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: VerWayne. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: VerWayne. Geraldine",,,,,,,,,,,,,,,

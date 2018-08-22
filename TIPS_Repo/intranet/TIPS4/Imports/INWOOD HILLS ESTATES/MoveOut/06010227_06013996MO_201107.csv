@@ -1,0 +1,8 @@
+BATCH,,201107,B,8005.0000,
+INVOICE,IN,,06010227,,07/11/2011,2478.0000,"Invoice-Private",,07/11/2011,07/11/2011,,06013996MO,-8576.0000,,,,,,,,,,
+TRANSACTION,3027,010206060,14,71.0000,994.00,"Resident Care - Level 6 for Jul: Yeoman, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,14,106.0000,1484.00,"Room and Board - One Bedroom for Jul: Yeoman, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,06010227,,07/11/2011,5527,"Invoice-Private",,07/11/2011,07/11/2011,,06013996MO,-8576.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... H.Yeoman 201107: Yeoman, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,2201,2201,"CR:Resident Care -... H.Yeoman 201107: Yeoman, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3286,3286,"CR:Room and Board ... H.Yeoman 201107: Yeoman, Harry",,,,,,,,,,,,,,,

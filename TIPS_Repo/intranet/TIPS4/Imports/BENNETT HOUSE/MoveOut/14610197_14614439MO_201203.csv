@@ -1,0 +1,8 @@
+BATCH,,201203,B,9426.0000,
+INVOICE,IN,,14610197,,03/23/2012,4002.0000,"Invoice-Private",,03/23/2012,03/23/2012,,14614439MO,-6672.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,23,93.0000,2139.00,"Basic Service Fee - Studio for Mar: McCaffrey, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,23,81.0000,1863.00,"Resident Care - Level 6 for Mar: McCaffrey, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,14610197,,03/23/2012,5424,"Invoice-Private",,03/23/2012,03/23/2012,,14614439MO,-6672.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... M.McCaffrey 201203: McCaffrey, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.McCaffrey 201203: McCaffrey, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,2511,2511,"CR:Resident Care -... M.McCaffrey 201203: McCaffrey, Martha",,,,,,,,,,,,,,,

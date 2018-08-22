@@ -1,0 +1,7 @@
+BATCH,,201210,B,184.0000,
+INVOICE,IN,,14610166,,10/01/2012,92.0000,"Invoice-Private",,10/01/2012,10/10/2012,,14614643MO,-6783.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Dietz, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309146,31,2.0000,62.00,"Credit for Limited Term Discount: Dietz, Dortha",,,,,,,,,,,,,,,
+INVOICE,CM,,14610166,,10/01/2012,92,"Invoice-Private",,10/01/2012,10/10/2012,,14614643MO,-6783.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Dietz, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309146,31,2,62,"Limited Term Discount: Dietz, Dortha",,,,,,,,,,,,,,,

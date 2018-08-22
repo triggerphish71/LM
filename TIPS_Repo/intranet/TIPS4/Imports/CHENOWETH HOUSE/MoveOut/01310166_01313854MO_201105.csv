@@ -1,0 +1,6 @@
+BATCH,,201105,B,3202.0000,
+INVOICE,IN,,01310166,,05/15/2011,1035.0000,"Invoice-Private",,05/15/2011,05/15/2011,,01313854MO,-3202.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,15,69.0000,1035.00,"Basic Service Fee - Studio for May: Long, Emma Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,01310166,,05/15/2011,2167,"Invoice-Private",,05/15/2011,05/15/2011,,01313854MO,-3202.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2139,2139,"CR:Basic Service F... E.Long 201105: Long, Emma Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... E.Long 201105: Long, Emma Gene",,,,,,,,,,,,,,,

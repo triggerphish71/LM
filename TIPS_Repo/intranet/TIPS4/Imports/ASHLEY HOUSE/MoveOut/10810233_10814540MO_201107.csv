@@ -1,0 +1,8 @@
+BATCH,,201107,B,4189.0000,
+INVOICE,IN,,10810233,,07/05/2011,1089.0000,"Invoice-Private",,07/05/2011,07/05/2011,,10814540MO,-2011.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,1,589.0000,589.00,"CR:Limited Term Di... E.Schaewe 201107: Schaewe, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,5,84.0000,420.00,"Basic Service Fee - Studio for Jul: Schaewe, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,5,16.0000,80.00,"Resident Care - Level 1 for Jul: Schaewe, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,10810233,,07/05/2011,3100,"Invoice-Private",,07/05/2011,07/05/2011,,10814540MO,-2011.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Basic Service F... E.Schaewe 201107: Schaewe, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... E.Schaewe 201107: Schaewe, Edith",,,,,,,,,,,,,,,

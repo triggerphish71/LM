@@ -1,0 +1,8 @@
+BATCH,,201212,B,7305.0000,
+INVOICE,IN,,50210165,,12/19/2012,2940.0000,"Invoice-Private",,12/19/2012,12/19/2012,,50213763MO,-5790.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,21,57.0000,1197.00,"Resident Care - Level 5 for Dec: Staley, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,21,83.0000,1743.00,"Room and Board - Studio for Dec: Staley, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,50210165,,12/19/2012,4365,"Invoice-Private",,12/19/2012,12/19/2012,,50213763MO,-5790.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... R.Staley 201212: Staley, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1767,1767,"CR:Resident Care -... R.Staley 201212: Staley, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2573,2573,"CR:Room and Board ... R.Staley 201212: Staley, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,9287.0000,
+INVOICE,IN,,16210151,,05/14/2013,4560.0000,"Invoice-Private",,05/14/2013,05/14/2013,,16213217MO,-4742.0000,,,,,,,,,,
+TRANSACTION,3027,010211162,30,70.0000,2100.00,"Resident Care - Level 5 for May: Hunt, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,30,82.0000,2460.00,"Room and Board - One Bedroom for May: Hunt, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,16210151,,05/14/2013,4727,"Invoice-Private",,05/14/2013,05/14/2013,,16213217MO,-4742.0000,,,,,,,,,,
+TRANSACTION,3130,010211162,1,15,15,"CR:Pendant Fee... E.Hunt 201305: Hunt, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,2170,2170,"CR:Resident Care -... E.Hunt 201305: Hunt, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2542,2542,"CR:Room and Board ... E.Hunt 201305: Hunt, Edna",,,,,,,,,,,,,,,

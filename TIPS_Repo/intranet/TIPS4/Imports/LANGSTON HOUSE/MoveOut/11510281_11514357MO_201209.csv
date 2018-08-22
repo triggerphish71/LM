@@ -1,0 +1,5 @@
+BATCH,,201209,B,56.0000,
+INVOICE,IN,,11510281,,09/01/2012,28.0000,"Invoice-Private",,09/01/2012,09/10/2012,,11514357MO,-3377.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Sharpe, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,11510281,,09/01/2012,28,"Invoice-Private",,09/01/2012,09/10/2012,,11514357MO,-3377.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Sharpe, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,3585.0000,
+INVOICE,IN,,01610300,,02/10/2012,3585.0000,"MoveIn-Miller. George",,02/10/2012,02/10/2012,,01615717,3585.0000,,,,,,,,,,
+TRANSACTION,3010,010202016,20,86.0000,1720,"G.Miller: Basic Service Fee - Studio: Miller. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202016,20,17.0000,340,"G.Miller: Resident Care - Level 1: Miller. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25.0000,25,"Monthly Cable: Miller. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202016,1,1500.0000,1500,"New Resident Fee: Miller. George",,,,,,,,,,,,,,,

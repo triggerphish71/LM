@@ -1,0 +1,5 @@
+BATCH,,201111,B,4435.0000,
+INVOICE,IN,,12110285,,11/11/2011,4435.0000,"MoveIn-Hoover. John",,11/11/2011,11/11/2011,,12115307,4435.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,20,120.0000,2400,"Basic Service Fee- One Bedroom Prem: Hoover. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Hoover. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Hoover. John",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201110,B,7811.0000,
+INVOICE,IN,,13610095,,10/23/2011,3312.0000,"Invoice-Private",,10/23/2011,10/23/2011,,13614294MO,-5542.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,23,74.0000,1702.00,"Basic Service Fee - Studio for Oct: Miller, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,23,70.0000,1610.00,"Resident Care - Level 5 for Oct: Miller, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,13610095,,10/23/2011,4499,"Invoice-Private",,10/23/2011,10/23/2011,,13614294MO,-5542.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2294,2294,"CR:Basic Service F... E.Miller 201110: Miller, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... E.Miller 201110: Miller, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,2170,2170,"CR:Resident Care -... E.Miller 201110: Miller, Ethel",,,,,,,,,,,,,,,

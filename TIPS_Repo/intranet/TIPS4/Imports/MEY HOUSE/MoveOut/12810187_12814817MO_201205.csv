@@ -1,0 +1,8 @@
+BATCH,,201205,B,7871.0000,
+INVOICE,IN,,12810187,,05/15/2012,3841.0000,"Invoice-Private",,05/15/2012,05/15/2012,,12814817MO,-189.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,1,1891.0000,1891.00,"CR:Limited Term Di... T.Paravechia 201205: Paravechia, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306128,15,111.0000,1665.00,"Basic Service Fee - Studio for May: Paravechia, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,15,19.0000,285.00,"Swan Personal Care - L1 for May: Paravechia, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,12810187,,05/15/2012,4030,"Invoice-Private",,05/15/2012,05/15/2012,,12814817MO,-189.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3441,3441,"CR:Basic Service F... T.Paravechia 201205: Paravechia, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,589,589,"CR:Swan Personal C... T.Paravechia 201205: Paravechia, Theresa",,,,,,,,,,,,,,,

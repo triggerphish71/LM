@@ -1,0 +1,5 @@
+BATCH,,201111,B,60.0000,
+INVOICE,IN,,15710241,,11/01/2011,30.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15714248MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Stearns, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,15710241,,11/01/2011,30,"Invoice-Private",,11/01/2011,11/10/2011,,15714248MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Stearns, Karen",,,,,,,,,,,,,,,

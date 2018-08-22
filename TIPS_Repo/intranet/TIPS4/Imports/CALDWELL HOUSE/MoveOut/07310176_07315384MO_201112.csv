@@ -1,0 +1,7 @@
+BATCH,,201112,B,8352.0000,
+INVOICE,IN,,07310176,,12/27/2011,3888.0000,"Invoice-Private",,12/27/2011,12/27/2011,,07315384MO,-5133.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,27,94.0000,2538.00,"Basic Service Fee - Studio for Dec: Markley, Goldie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,27,50.0000,1350.00,"Resident Care - Level 3 for Dec: Markley, Goldie",,,,,,,,,,,,,,,
+INVOICE,CM,,07310176,,12/27/2011,4464,"Invoice-Private",,12/27/2011,12/27/2011,,07315384MO,-5133.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2914,2914,"CR:Basic Service F... G.Markley 201112: Markley, Goldie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1550,1550,"CR:Resident Care -... G.Markley 201112: Markley, Goldie",,,,,,,,,,,,,,,

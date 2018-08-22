@@ -1,0 +1,8 @@
+BATCH,,201203,B,3420.0000,
+INVOICE,IN,,13710191,,03/01/2012,570.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13714281MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,6,90.0000,540.00,"Basic Service Fee - Studio for Mar: Richardson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30.00,"Monthly Cable: Richardson, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,13710191,,03/01/2012,2850,"Invoice-Private",,03/01/2012,03/10/2012,,13714281MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... J.Richardson 201203: Richardson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... J.Richardson 201203: Richardson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"Credit for Monthly Cable: Richardson, Jack",,,,,,,,,,,,,,,

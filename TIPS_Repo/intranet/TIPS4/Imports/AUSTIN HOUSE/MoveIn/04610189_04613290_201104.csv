@@ -1,0 +1,6 @@
+BATCH,,201104,B,2001.0000,
+INVOICE,IN,,04610189,,04/29/2011,2001.0000,"MoveIn-Jones. Gerald",,04/29/2011,04/29/2011,,04613290,5529.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,2,96.0000,192,"G.Jones: Basic Service Fee - Studio: Jones. Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,2,17.0000,34,"G.Jones: Resident Care - Level 1: Jones. Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Jones. Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Jones. Gerald",,,,,,,,,,,,,,,

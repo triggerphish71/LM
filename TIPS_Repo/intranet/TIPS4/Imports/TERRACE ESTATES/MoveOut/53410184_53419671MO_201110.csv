@@ -1,0 +1,5 @@
+BATCH,,201110,B,868.0000,
+INVOICE,IN,,53410184,,10/01/2011,434.0000,"Invoice-Private",,10/01/2011,10/10/2011,,53419671MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,14.0000,434.00,"Credit for Limited Term Discount: Oldenburg, Herman",,,,,,,,,,,,,,,
+INVOICE,CM,,53410184,,10/01/2011,434,"Invoice-Private",,10/01/2011,10/10/2011,,53419671MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,14,434,"Limited Term Discount: Oldenburg, Herman",,,,,,,,,,,,,,,

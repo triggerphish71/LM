@@ -1,0 +1,5 @@
+BATCH,,201205,B,3845.0000,
+INVOICE,IN,,11010360,,05/12/2012,3845.0000,"MoveIn-Panik. Francis",,05/12/2012,05/12/2012,,11014885,3845.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,20,91.0000,1820,"Basic Service Fee - Studio         : Panik. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Panik. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Panik. Francis",,,,,,,,,,,,,,,

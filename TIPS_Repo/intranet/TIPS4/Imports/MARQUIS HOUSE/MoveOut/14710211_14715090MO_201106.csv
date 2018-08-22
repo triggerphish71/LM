@@ -1,0 +1,5 @@
+BATCH,,201106,B,180.0000,
+INVOICE,IN,,14710211,,06/01/2011,90.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14715090MO,-3957.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,30,3.0000,90.00,"Credit for Limited Term Discount: DeMotte, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14710211,,06/01/2011,90,"Invoice-Private",,06/01/2011,06/10/2011,,14715090MO,-3957.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,30,3,90,"Limited Term Discount: DeMotte, Ruth",,,,,,,,,,,,,,,

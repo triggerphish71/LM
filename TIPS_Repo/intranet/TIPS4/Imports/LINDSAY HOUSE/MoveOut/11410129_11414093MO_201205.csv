@@ -1,0 +1,5 @@
+BATCH,,201205,B,2232.0000,
+INVOICE,IN,,11410129,,05/01/2012,1116.0000,"Invoice-Private",,05/01/2012,05/10/2012,,11414093MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3320,010306114,31,36.0000,1116.00,"Credit for Limited Term Discount: Gorman, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,11410129,,05/01/2012,1116,"Invoice-Private",,05/01/2012,05/10/2012,,11414093MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3320,010306114,31,36,1116,"Limited Term Discount: Gorman, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,4823.0000,
+INVOICE,IN,,03710212,,03/01/2013,2002.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03714565MO,-819.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,22,75.0000,1650.00,"Basic Service Fee - Studio for Mar: Sims, Jonell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,22,16.0000,352.00,"Resident Care - Level 1 for Mar: Sims, Jonell",,,,,,,,,,,,,,,
+INVOICE,CM,,03710212,,03/01/2013,2821,"Invoice-Private",,03/01/2013,03/10/2013,,03714565MO,-819.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2325,2325,"CR:Basic Service F... J.Sims 201303: Sims, Jonell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,496,496,"CR:Resident Care -... J.Sims 201303: Sims, Jonell",,,,,,,,,,,,,,,

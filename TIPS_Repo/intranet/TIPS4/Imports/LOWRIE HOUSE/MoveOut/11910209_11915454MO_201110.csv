@@ -1,0 +1,7 @@
+BATCH,,201110,B,4920.0000,
+INVOICE,IN,,11910209,,10/29/2011,2378.0000,"Invoice-Private",,10/29/2011,10/29/2011,,11915454MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,29,30.0000,870.00,"Basic Service Fee - Second Resident for Oct: Howk, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,29,52.0000,1508.00,"Resident Care - Level 3 for Oct: Howk, John",,,,,,,,,,,,,,,
+INVOICE,CM,,11910209,,10/29/2011,2542,"Invoice-Private",,10/29/2011,10/29/2011,,11915454MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,930,930,"CR:Basic Service F... J.Howk 201110: Howk, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1612,1612,"CR:Resident Care -... J.Howk 201110: Howk, John",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,7065.0000,
+INVOICE,IN,,12310135,,07/08/2011,1440.0000,"Invoice-Private",,07/08/2011,07/08/2011,,12315000MO,-4185.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,8,111.0000,888.00,"Basic Service Fee - Deluxe for Jul: Glass, Pam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,8,69.0000,552.00,"Resident Care - Level 4 for Jul: Glass, Pam",,,,,,,,,,,,,,,
+INVOICE,CM,,12310135,,07/08/2011,5625,"Invoice-Private",,07/08/2011,07/08/2011,,12315000MO,-4185.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3441,3441,"CR:Basic Service F... P.Glass 201107: Glass, Pam",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45,45,"CR:Pendant Fee... P.Glass 201107: Glass, Pam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,2139,2139,"CR:Resident Care -... P.Glass 201107: Glass, Pam",,,,,,,,,,,,,,,

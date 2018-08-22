@@ -1,0 +1,5 @@
+BATCH,,201806,B,5398.4000,
+INVOICE,CM,,02411432,,06/01/2018,5398.4,"Invoice-Private",,06/01/2018,06/10/2018,,02418358MO,-10579.4000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,2760,2760,"CR:Basic Service F... B.Smith 201806: Smith, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4,28.4,"CR:Monthly Cable... B.Smith 201806: Smith, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,2610,2610,"CR:Resident Care -... B.Smith 201806: Smith, Betty J",,,,,,,,,,,,,,,

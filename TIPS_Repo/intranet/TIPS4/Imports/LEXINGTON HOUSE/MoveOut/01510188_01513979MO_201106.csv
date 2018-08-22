@@ -1,0 +1,5 @@
+BATCH,,201106,B,1260.0000,
+INVOICE,IN,,01510188,,06/01/2011,630.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01513979MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,21.0000,630.00,"Credit for Limited Term Discount: Baum, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,01510188,,06/01/2011,630,"Invoice-Private",,06/01/2011,06/10/2011,,01513979MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,21,630,"Limited Term Discount: Baum, Mildred",,,,,,,,,,,,,,,

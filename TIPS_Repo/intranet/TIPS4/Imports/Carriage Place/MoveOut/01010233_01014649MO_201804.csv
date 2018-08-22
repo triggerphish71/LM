@@ -1,0 +1,5 @@
+BATCH,,201804,B,57.9600,
+INVOICE,IN,,01010233,,04/01/2018,28.9800,"Invoice-Private",,04/01/2018,04/10/2018,,01014649MO,-1522.4800,,,,,,,,,,
+TRANSACTION,3260,010001010,1,28.9800,28.98,"Monthly Cable: Fairchild, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,01010233,,04/01/2018,28.98,"Invoice-Private",,04/01/2018,04/10/2018,,01014649MO,-1522.4800,,,,,,,,,,
+TRANSACTION,3260,010001010,1,28.98,28.98,"Credit for Monthly Cable: Fairchild, Glenn",,,,,,,,,,,,,,,

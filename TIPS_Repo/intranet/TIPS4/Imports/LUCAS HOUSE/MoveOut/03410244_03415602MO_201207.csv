@@ -1,0 +1,7 @@
+BATCH,,201207,B,4480.0000,
+INVOICE,IN,,03410244,,07/04/2012,512.0000,"Invoice-Private",,07/04/2012,07/04/2012,,03415602MO,-3456.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,4,96.0000,384.00,"Basic Service Fee - Studio for Jul: Hall, Doris ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,4,32.0000,128.00,"Resident Care - Level 3 for Jul: Hall, Doris ",,,,,,,,,,,,,,,
+INVOICE,CM,,03410244,,07/04/2012,3968,"Invoice-Private",,07/04/2012,07/04/2012,,03415602MO,-3456.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... D.Hall 201207: Hall, Doris ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,992,992,"CR:Resident Care -... D.Hall 201207: Hall, Doris ",,,,,,,,,,,,,,,

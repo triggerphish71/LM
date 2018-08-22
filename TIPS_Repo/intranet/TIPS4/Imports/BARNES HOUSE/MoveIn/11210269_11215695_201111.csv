@@ -1,0 +1,6 @@
+BATCH,,201111,B,5076.0000,
+INVOICE,IN,,11210269,,11/04/2011,5076.0000,"MoveIn-Hauger. Lucille",,11/04/2011,11/04/2011,,11215695,5076.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,27,94.0000,2538,"Basic Service Fee - Studio         : Hauger. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,27,19.0000,513,"Resident Care - Level 1: Hauger. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Hauger. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Hauger. Lucille",,,,,,,,,,,,,,,

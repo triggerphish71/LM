@@ -1,0 +1,5 @@
+BATCH,,201206,B,3319.0000,
+INVOICE,IN,,07110164,,06/14/2012,3319.0000,"MoveIn-Dripps. Audrey",,06/14/2012,06/14/2012,,07114317,3319.0000,,,,,,,,,,
+TRANSACTION,3010,010305071,17,90.0000,1530,"Basic Service Fee - Studio: Dripps. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305071,17,17.0000,289,"Resident Care - Level 1: Dripps. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305071,1,1500.0000,1500,"New Resident Fee: Dripps. Audrey",,,,,,,,,,,,,,,

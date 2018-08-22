@@ -1,0 +1,5 @@
+BATCH,,201110,B,20.0000,
+INVOICE,IN,,51710172,,10/01/2011,10.0000,"Invoice-Private",,10/01/2011,10/10/2011,,51712691MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10.0000,10.00,"Pendant Fee: Anderson, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,51710172,,10/01/2011,10,"Invoice-Private",,10/01/2011,10/10/2011,,51712691MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"Credit for Pendant Fee: Anderson, Janice",,,,,,,,,,,,,,,

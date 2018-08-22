@@ -1,0 +1,5 @@
+BATCH,,201207,B,3528.0000,
+INVOICE,IN,,02110204,,07/01/2012,490.0000,"Invoice-Private",,07/01/2012,07/10/2012,,02114951MO,-2548.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,5,98.0000,490.00,"Basic Service Fee - Studio for Jul: Springer, Emily",,,,,,,,,,,,,,,
+INVOICE,CM,,02110204,,07/01/2012,3038,"Invoice-Private",,07/01/2012,07/10/2012,,02114951MO,-2548.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,3038,3038,"CR:Basic Service F... E.Springer 201207: Springer, Emily",,,,,,,,,,,,,,,

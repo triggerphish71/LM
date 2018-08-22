@@ -1,0 +1,5 @@
+BATCH,,201307,B,3670.0000,
+INVOICE,IN,,15810334,,07/18/2013,3670.0000,"MoveIn-John. Gail",,07/18/2013,07/18/2013,,15815128,8475.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,14,96.0000,1344,"Basic Service Fee - Studio: John. Gail",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,14,59.0000,826,"Resident Care - Level 4: John. Gail",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: John. Gail",,,,,,,,,,,,,,,

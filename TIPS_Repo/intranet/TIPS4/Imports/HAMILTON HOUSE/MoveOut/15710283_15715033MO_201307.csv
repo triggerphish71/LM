@@ -1,0 +1,7 @@
+BATCH,,201307,B,2300.0000,
+INVOICE,IN,,15710283,,07/01/2013,50.0000,"Invoice-Private",,07/01/2013,07/10/2013,,15715033MO,-2690.0000,,,,,,,,,,
+TRANSACTION,3150,010309157,1,50.0000,50.00,"Late Fee Adjustment: Macquire, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,15710283,,07/01/2013,2250,"Invoice-Private",,07/01/2013,07/10/2013,,15715033MO,-2690.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2170,2170,"CR:Basic Service F... B.Macquire 201307: Macquire, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... B.Macquire 201307: Macquire, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309157,1,50,50,"Late Fee Adjustment: Macquire, Beatrice",,,,,,,,,,,,,,,

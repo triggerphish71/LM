@@ -1,0 +1,5 @@
+BATCH,,201304,B,4170.0000,
+INVOICE,CM,,13510300,,04/01/2013,4170,"Invoice-Private",,04/01/2013,04/10/2013,,13515731MO,-3168.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1500,1500,"CR:Basic Service F... R.Taylor 201304: Taylor, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... R.Taylor 201304: Taylor, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,2640,2640,"CR:Resident Care L... R.Taylor 201304: Taylor, Ruth",,,,,,,,,,,,,,,

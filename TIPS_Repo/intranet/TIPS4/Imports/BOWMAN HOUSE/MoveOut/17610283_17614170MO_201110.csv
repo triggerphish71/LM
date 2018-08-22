@@ -1,0 +1,8 @@
+BATCH,,201110,B,6130.0000,
+INVOICE,IN,,17610283,,10/29/2011,2813.0000,"Invoice-Private",,10/29/2011,10/29/2011,,17614170MO,-3714.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,29,69.0000,2001.00,"Basic Service Fee - Studio for Oct: Dudd, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,29,28.0000,812.00,"Resident Care - Level 2 for Oct: Dudd, John",,,,,,,,,,,,,,,
+INVOICE,CM,,17610283,,10/29/2011,3317,"Invoice-Private",,10/29/2011,10/29/2011,,17614170MO,-3714.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2139,2139,"CR:Basic Service F... J.Dudd 201110: Dudd, John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... J.Dudd 201110: Dudd, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... J.Dudd 201110: Dudd, John",,,,,,,,,,,,,,,

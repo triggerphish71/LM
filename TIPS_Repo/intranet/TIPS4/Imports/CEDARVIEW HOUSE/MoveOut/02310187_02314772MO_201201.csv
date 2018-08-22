@@ -1,0 +1,8 @@
+BATCH,,201201,B,7277.0000,
+INVOICE,IN,,02310187,,01/16/2012,2664.0000,"Invoice-Private",,01/16/2012,01/16/2012,,02314772MO,-6266.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,18,95.0000,1710.00,"Basic Service Fee - Studio for Jan: Cashin, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,18,53.0000,954.00,"Resident Care - Level 4 for Jan: Cashin, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,02310187,,01/16/2012,4613,"Invoice-Private",,01/16/2012,01/16/2012,,02314772MO,-6266.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2945,2945,"CR:Basic Service F... J.Cashin 201201: Cashin, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... J.Cashin 201201: Cashin, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,1643,1643,"CR:Resident Care -... J.Cashin 201201: Cashin, Joseph",,,,,,,,,,,,,,,

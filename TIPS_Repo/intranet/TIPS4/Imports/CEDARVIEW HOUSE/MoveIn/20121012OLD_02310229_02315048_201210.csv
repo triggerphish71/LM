@@ -1,0 +1,5 @@
+BATCH,,201210,B,4305.0000,
+INVOICE,IN,,02310229,,10/12/2012,4305.0000,"MoveIn-Brown. Oscar",,10/12/2012,10/12/2012,,02315048,4305.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,20,114.0000,2280,"O.Brown: Basic Service Fee - One Bedroom: Brown. Oscar",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Brown. Oscar",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Brown. Oscar",,,,,,,,,,,,,,,

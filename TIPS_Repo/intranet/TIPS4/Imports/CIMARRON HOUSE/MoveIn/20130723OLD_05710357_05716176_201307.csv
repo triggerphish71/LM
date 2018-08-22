@@ -1,0 +1,5 @@
+BATCH,,201307,B,3208.0000,
+INVOICE,IN,,05710357,,07/23/2013,3208.0000,"MoveIn-Masten. P.D.",,07/23/2013,07/23/2013,,05716176,8230.0000,,,,,,,,,,
+TRANSACTION,3010,010202057,9,94.0000,846,"Basic Service Fee - Studio: Masten. P.D.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202057,9,68.0000,612,"Resident Care - Level 6: Masten. P.D.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202057,1,1750.0000,1750,"New Resident Fee: Masten. P.D.",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,4025.0000,
+INVOICE,IN,,11910257,,05/01/2012,4025.0000,"May_Rent-Bowser. Sara",,05/01/2012,05/10/2012,,11915749,7728.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,31,93.0000,2883,"Basic Service Fee - Studio: Bowser. Sara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,31,36.0000,1116,"Resident Care - Level 2: Bowser. Sara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Bowser. Sara",,,,,,,,,,,,,,,

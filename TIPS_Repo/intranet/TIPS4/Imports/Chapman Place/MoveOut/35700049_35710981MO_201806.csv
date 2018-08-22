@@ -1,0 +1,7 @@
+BATCH,,201806,B,6468.7500,
+INVOICE,IN,,35700049,,06/18/2018,2531.2500,"Invoice-Private",,06/18/2018,06/18/2018,,35710981MO,-1406.2500,,,,,,,,,,
+TRANSACTION,3017,070009357,25,70.0000,1750.00," Level: 4 : Pressler, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,070009357,25,31.2500,781.25,"BSF Studio for Jun: Pressler, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,35700049,,06/18/2018,3937.5,"Invoice-Private",,06/18/2018,06/18/2018,,35710981MO,-1406.2500,,,,,,,,,,
+TRANSACTION,3020,070009357,1,937.5,937.5,"CR:BSF Studio... M.Pressler 201806: Pressler, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,070009357,1,3000,3000,"CR:Resident Care -... M.Pressler 201806: Pressler, Margaret",,,,,,,,,,,,,,,

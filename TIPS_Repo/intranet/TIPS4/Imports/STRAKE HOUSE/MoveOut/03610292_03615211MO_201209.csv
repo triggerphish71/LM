@@ -1,0 +1,5 @@
+BATCH,,201209,B,54.0000,
+INVOICE,IN,,03610292,,09/01/2012,27.0000,"Invoice-Private",,09/01/2012,09/10/2012,,03615211MO,-6684.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Armstrong, James",,,,,,,,,,,,,,,
+INVOICE,CM,,03610292,,09/01/2012,27,"Invoice-Private",,09/01/2012,09/10/2012,,03615211MO,-6684.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Armstrong, James",,,,,,,,,,,,,,,

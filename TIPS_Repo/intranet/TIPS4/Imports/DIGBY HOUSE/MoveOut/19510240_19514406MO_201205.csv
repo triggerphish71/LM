@@ -1,0 +1,5 @@
+BATCH,,201205,B,5850.0000,
+INVOICE,IN,,19510240,,05/18/2012,2223.0000,"Invoice-Private",,05/18/2012,05/18/2012,,19514406MO,-4914.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,19,117.0000,2223.00,"Basic Service Fee - One Bedroom for May: Stanfield, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,19510240,,05/18/2012,3627,"Invoice-Private",,05/18/2012,05/18/2012,,19514406MO,-4914.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,3627,3627,"CR:Basic Service F... R.Stanfield 201205: Stanfield, Robert",,,,,,,,,,,,,,,

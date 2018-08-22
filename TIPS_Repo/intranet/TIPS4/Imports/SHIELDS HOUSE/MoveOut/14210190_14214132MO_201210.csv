@@ -1,0 +1,7 @@
+BATCH,,201210,B,3562.8000,
+INVOICE,IN,,14210190,,10/01/2012,272.8000,"Invoice-Private",,10/01/2012,10/10/2012,,14214132MO,-3017.2000,,,,,,,,,,
+TRANSACTION,3312,010309142,1,272.8000,272.80,"CR:Two Room Rental... J.Lester 201210: Lester, Julia",,,,,,,,,,,,,,,
+INVOICE,CM,,14210190,,10/01/2012,3290,"Invoice-Private",,10/01/2012,10/10/2012,,14214132MO,-3017.2000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2728,2728,"CR:Basic Service F... J.Lester 201210: Lester, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... J.Lester 201210: Lester, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,527,527,"CR:Resident Care -... J.Lester 201210: Lester, Julia",,,,,,,,,,,,,,,

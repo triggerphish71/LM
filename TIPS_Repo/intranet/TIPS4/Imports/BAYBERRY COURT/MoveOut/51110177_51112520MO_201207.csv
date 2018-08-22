@@ -1,0 +1,7 @@
+BATCH,,201207,B,8008.0000,
+INVOICE,IN,,51110177,,07/25/2012,3575.0000,"Invoice-Private",,07/25/2012,07/25/2012,,51112520MO,-5291.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,25,105.0000,2625.00,"Basic Service Fee - Studio for Jul: Zeigler, Caroline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,25,38.0000,950.00,"Resident Care - Level 2 for Jul: Zeigler, Caroline",,,,,,,,,,,,,,,
+INVOICE,CM,,51110177,,07/25/2012,4433,"Invoice-Private",,07/25/2012,07/25/2012,,51112520MO,-5291.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... C.Zeigler 201207: Zeigler, Caroline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1178,1178,"CR:Resident Care -... C.Zeigler 201207: Zeigler, Caroline",,,,,,,,,,,,,,,

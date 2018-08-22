@@ -1,0 +1,6 @@
+BATCH,,201105,B,3440.0000,
+INVOICE,IN,,13710172,,05/01/2011,744.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13713879MO,-1520.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,1,744.0000,744.00,"CR:Limited Term Di... I.Koughn 201105: Koughn, Iris",,,,,,,,,,,,,,,
+INVOICE,CM,,13710172,,05/01/2011,2696,"Invoice-Private",,05/01/2011,05/10/2011,,13713879MO,-1520.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2666,2666,"CR:Basic Service F... I.Koughn 201105: Koughn, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... I.Koughn 201105: Koughn, Iris",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201203,B,5400.0000,
+INVOICE,IN,,13110271,,03/10/2012,900.0000,"Invoice-Private",,03/10/2012,03/10/2012,,13114258MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,9,100.0000,900.00,"Basic Service Fee - Studio for Mar: O'Connell, Dennis",,,,,,,,,,,,,,,
+INVOICE,CM,,13110271,,03/10/2012,4500,"Invoice-Private",,03/10/2012,03/10/2012,,13114258MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3000,3000,"CR:Basic Service F... D.O'Connell 201203: O'Connell, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1500,1500,"CR:New Resident Fe... D.O'Connell 201203: O'Connell, Dennis",,,,,,,,,,,,,,,

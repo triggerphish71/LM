@@ -1,0 +1,5 @@
+BATCH,,201210,B,2542.0000,
+INVOICE,IN,,20810200,,10/01/2012,1271.0000,"Invoice-Private",,10/01/2012,10/10/2012,,20813337MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,41.0000,1271.00,"Credit for Limited Term Discount: Coleman, Delories",,,,,,,,,,,,,,,
+INVOICE,CM,,20810200,,10/01/2012,1271,"Invoice-Private",,10/01/2012,10/10/2012,,20813337MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,41,1271,"Limited Term Discount: Coleman, Delories",,,,,,,,,,,,,,,

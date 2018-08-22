@@ -1,0 +1,7 @@
+BATCH,,201207,B,7755.0000,
+INVOICE,IN,,10710308,,07/24/2012,3384.0000,"Invoice-Private",,07/24/2012,07/24/2012,,10716291MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,24,98.0000,2352.00,"Basic Service Fee - Studio for Jul: Halvorson, Alta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,24,43.0000,1032.00,"Resident Care - Level 3 for Jul: Halvorson, Alta",,,,,,,,,,,,,,,
+INVOICE,CM,,10710308,,07/24/2012,4371,"Invoice-Private",,07/24/2012,07/24/2012,,10716291MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... A.Halvorson 201207: Halvorson, Alta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1333,1333,"CR:Resident Care -... A.Halvorson 201207: Halvorson, Alta",,,,,,,,,,,,,,,

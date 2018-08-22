@@ -1,0 +1,8 @@
+BATCH,,201207,B,7982.0000,
+INVOICE,IN,,02310149,,07/24/2012,3518.0000,"Invoice-Private",,07/24/2012,07/24/2012,,02314983MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,62.0000,62.00,"CR:Limited Term Di... C.Allen 201207: Allen, Corrine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,24,114.0000,2736.00,"Basic Service Fee - One Bedroom for Jul: Allen, Corrine",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202023,24,30.0000,720.00,"Private Care Rate Adjustments for Jul: Allen, Corrine",,,,,,,,,,,,,,,
+INVOICE,CM,,02310149,,07/24/2012,4464,"Invoice-Private",,07/24/2012,07/24/2012,,02314983MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,3534,3534,"CR:Basic Service F... C.Allen 201207: Allen, Corrine",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202023,1,930,930,"CR:Private Care Ra... C.Allen 201207: Allen, Corrine",,,,,,,,,,,,,,,

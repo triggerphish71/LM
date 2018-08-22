@@ -1,0 +1,5 @@
+BATCH,,201208,B,434.0000,
+INVOICE,IN,,08810235,,08/01/2012,217.0000,"Invoice-Private",,08/01/2012,08/10/2012,,08814414MO,-756.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,7.0000,217.00,"Credit for Limited Term Discount: Mills, Van",,,,,,,,,,,,,,,
+INVOICE,CM,,08810235,,08/01/2012,217,"Invoice-Private",,08/01/2012,08/10/2012,,08814414MO,-756.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,7,217,"Limited Term Discount: Mills, Van",,,,,,,,,,,,,,,

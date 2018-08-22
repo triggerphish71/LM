@@ -1,0 +1,5 @@
+BATCH,,201201,B,7192.0000,
+INVOICE,IN,,12110287,,01/16/2012,3348.0000,"Invoice-Private",,01/16/2012,01/16/2012,,12115526MO,-4127.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,27,124.0000,3348.00,"Basic Service Fee- One Bedroom Prem for Jan: Hodson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,12110287,,01/16/2012,3844,"Invoice-Private",,01/16/2012,01/16/2012,,12115526MO,-4127.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3844,3844,"CR:Basic Service F... D.Hodson 201201: Hodson, Dorothy",,,,,,,,,,,,,,,

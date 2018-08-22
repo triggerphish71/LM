@@ -1,0 +1,8 @@
+BATCH,,201111,B,6957.0000,
+INVOICE,IN,,04210184,,11/12/2011,1980.0000,"Invoice-Private",,11/12/2011,11/12/2011,,04213814MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,12,110.0000,1320.00,"Basic Service Fee - One Bedroom for Nov: Cotter, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,12,55.0000,660.00,"Resident Care - Level 4 for Nov: Cotter, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04210184,,11/12/2011,4977,"Invoice-Private",,11/12/2011,11/12/2011,,04213814MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3300,3300,"CR:Basic Service F... D.Cotter 201111: Cotter, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... D.Cotter 201111: Cotter, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1650,1650,"CR:Resident Care -... D.Cotter 201111: Cotter, Dorothy",,,,,,,,,,,,,,,

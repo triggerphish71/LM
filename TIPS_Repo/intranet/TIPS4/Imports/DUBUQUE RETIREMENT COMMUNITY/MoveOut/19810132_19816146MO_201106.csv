@@ -1,0 +1,5 @@
+BATCH,,201106,B,2600.0000,
+INVOICE,CM,,19810132,,06/01/2011,2600,"Invoice-Private",,06/01/2011,06/10/2011,,19816146MO,-3268.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2520,2520,"CR:Basic Service F... L.Recker 201106: Recker, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3214,010112198,1,50,50,"CR:Garage Rental... L.Recker 201106: Recker, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... L.Recker 201106: Recker, Louis",,,,,,,,,,,,,,,

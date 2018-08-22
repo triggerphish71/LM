@@ -1,0 +1,8 @@
+BATCH,,201205,B,6394.0000,
+INVOICE,IN,,17610277,,05/04/2012,1248.0000,"Invoice-Private",,05/04/2012,05/04/2012,,17614455MO,-3898.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,8,103.0000,824.00,"Basic Service Fee - One Bedroom for May: Nasstrom, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,8,53.0000,424.00,"Resident Care - Level 4 for May: Nasstrom, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,17610277,,05/04/2012,5146,"Invoice-Private",,05/04/2012,05/04/2012,,17614455MO,-3898.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,3193,3193,"CR:Basic Service F... C.Nasstrom 201205: Nasstrom, Charles",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... C.Nasstrom 201205: Nasstrom, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1643,1643,"CR:Resident Care -... C.Nasstrom 201205: Nasstrom, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201105,B,1465.0000,
+INVOICE,IN,,50310251,,05/27/2011,1465.0000,"MoveIn-Casada. Geraldine",,05/27/2011,05/27/2011,,50313530,4080.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,5,72.0000,360,"Basic Service Fee - Studio: Casada. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,5,14.0000,70,"Resident Care - Level 1: Casada. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Casada. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1000.0000,1000,"New Resident Fee: Casada. Geraldine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,5705.0000,
+INVOICE,IN,,14610239,,01/01/2013,652.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14614802MO,-4401.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,4,93.0000,372.00,"Basic Service Fee - Studio for Jan: Tinnell, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,4,70.0000,280.00,"Resident Care - Level 5 for Jan: Tinnell, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,14610239,,01/01/2013,5053,"Invoice-Private",,01/01/2013,01/10/2013,,14614802MO,-4401.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... E.Tinnell 201301: Tinnell, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,2170,2170,"CR:Resident Care -... E.Tinnell 201301: Tinnell, Ethel",,,,,,,,,,,,,,,

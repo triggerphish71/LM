@@ -1,0 +1,5 @@
+BATCH,,201302,B,3395.0000,
+INVOICE,CM,,15410233,,02/01/2013,3395,"Invoice-Private",,02/01/2013,02/10/2013,,15415250MO,-3395.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1960,1960,"CR:Basic Service F... J.Cave 201302: Cave, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... J.Cave 201302: Cave, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1400,1400,"CR:Resident Care -... J.Cave 201302: Cave, James",,,,,,,,,,,,,,,

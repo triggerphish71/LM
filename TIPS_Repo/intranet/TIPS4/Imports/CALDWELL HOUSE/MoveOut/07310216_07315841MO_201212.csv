@@ -1,0 +1,7 @@
+BATCH,,201212,B,1528.0000,
+INVOICE,IN,,07310216,,12/01/2012,764.0000,"Invoice-Private",,12/01/2012,12/10/2012,,07315841MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20.00,"Monthly Cable: Freshour, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305073,31,24.0000,744.00,"Credit for Limited Term Discount: Freshour, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07310216,,12/01/2012,764,"Invoice-Private",,12/01/2012,12/10/2012,,07315841MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"Credit for Monthly Cable: Freshour, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305073,31,24,744,"Limited Term Discount: Freshour, Helen",,,,,,,,,,,,,,,

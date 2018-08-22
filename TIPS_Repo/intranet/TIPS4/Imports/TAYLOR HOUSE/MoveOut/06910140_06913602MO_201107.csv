@@ -1,0 +1,7 @@
+BATCH,,201107,B,5202.0000,
+INVOICE,IN,,06910140,,07/14/2011,2040.0000,"Invoice-Private",,07/14/2011,07/14/2011,,06913602MO,-1122.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,20,86.0000,1720.00,"Basic Service Fee - Deluxe for Jul: Keeran, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,20,16.0000,320.00,"Resident Care - Level 1 for Jul: Keeran, John",,,,,,,,,,,,,,,
+INVOICE,CM,,06910140,,07/14/2011,3162,"Invoice-Private",,07/14/2011,07/14/2011,,06913602MO,-1122.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2666,2666,"CR:Basic Service F... J.Keeran 201107: Keeran, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,496,496,"CR:Resident Care -... J.Keeran 201107: Keeran, John",,,,,,,,,,,,,,,

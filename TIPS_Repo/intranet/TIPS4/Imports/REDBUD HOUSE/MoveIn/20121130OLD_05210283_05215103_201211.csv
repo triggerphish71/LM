@@ -1,0 +1,5 @@
+BATCH,,201211,B,1109.0000,
+INVOICE,IN,,05210283,,11/30/2012,1109.0000,"MoveIn-McCormick. Nadine",,11/30/2012,11/30/2012,,05215103,3678.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,1,82.0000,82,"Basic Service Fee - Studio: McCormick. Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: McCormick. Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,1000.0000,1000,"New Resident Fee: McCormick. Nadine",,,,,,,,,,,,,,,

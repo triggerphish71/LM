@@ -1,0 +1,7 @@
+BATCH,,201107,B,3716.0000,
+INVOICE,IN,,02610223,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02614413MO,-4729.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,1,62.0000,62.00,"CR:Limited Term Di... J.Odom 201107: Odom, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02610223,,07/01/2011,3654,"Invoice-Private",,07/01/2011,07/10/2011,,02614413MO,-4729.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2914,2914,"CR:Basic Service F... J.Odom 201107: Odom, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... J.Odom 201107: Odom, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,713,713,"CR:Resident Care -... J.Odom 201107: Odom, James",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,3756.0000,
+INVOICE,IN,,50210185,,02/07/2012,3756.0000,"MoveIn-Talley. Gloria",,02/07/2012,02/07/2012,,50213296,3756.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,23,83.0000,1909,"Basic Service Fee - Studio: Talley. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,23,14.0000,322,"Resident Care - Level 1: Talley. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Talley. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Talley. Gloria",,,,,,,,,,,,,,,

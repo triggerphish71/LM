@@ -1,0 +1,8 @@
+BATCH,,201307,B,2300.0000,
+INVOICE,IN,,07010192,,07/01/2013,513.0000,"Invoice-Private",,07/01/2013,07/10/2013,,07014856MO,-1274.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,9,41.0000,369.00,"Basic Service Fee - Studio for Jul: Baker, Frances Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,9,16.0000,144.00,"Resident Care - Level 1 for Jul: Baker, Frances Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,07010192,,07/01/2013,1787,"Invoice-Private",,07/01/2013,07/10/2013,,07014856MO,-1274.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,1271,1271,"CR:Basic Service F... F.Baker 201307: Baker, Frances Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... F.Baker 201307: Baker, Frances Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,496,496,"CR:Resident Care -... F.Baker 201307: Baker, Frances Maxine",,,,,,,,,,,,,,,

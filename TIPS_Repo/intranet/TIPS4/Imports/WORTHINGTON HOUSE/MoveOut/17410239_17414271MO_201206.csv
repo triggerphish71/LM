@@ -1,0 +1,5 @@
+BATCH,,201206,B,1800.0000,
+INVOICE,IN,,17410239,,06/01/2012,900.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17414271MO,-3006.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,30,30.0000,900.00,"Credit for Limited Term Discount: Eaton, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,17410239,,06/01/2012,900,"Invoice-Private",,06/01/2012,06/10/2012,,17414271MO,-3006.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,30,30,900,"Limited Term Discount: Eaton, Jack",,,,,,,,,,,,,,,

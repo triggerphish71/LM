@@ -1,0 +1,5 @@
+BATCH,,201108,B,3165.0000,
+INVOICE,IN,,04410248,,08/12/2011,3165.0000,"MoveIn-Stewart. Clay",,08/12/2011,08/12/2011,,04414485,5650.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,20,82.0000,1640,"Basic Service Fee - Studio         : Stewart. Clay",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Stewart. Clay",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Stewart. Clay",,,,,,,,,,,,,,,

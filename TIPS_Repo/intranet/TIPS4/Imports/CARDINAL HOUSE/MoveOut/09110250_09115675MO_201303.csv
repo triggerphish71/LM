@@ -1,0 +1,7 @@
+BATCH,,201303,B,4864.0000,
+INVOICE,IN,,09110250,,03/01/2013,152.0000,"Invoice-Private",,03/01/2013,03/01/2013,,09115675MO,-4560.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,87.0000,87.00,"Basic Service Fee - Studio for Mar: Shepard, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,65.0000,65.00,"Resident Care - Level 4 for Mar: Shepard, John",,,,,,,,,,,,,,,
+INVOICE,CM,,09110250,,03/01/2013,4712,"Invoice-Private",,03/01/2013,03/01/2013,,09115675MO,-4560.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2697,2697,"CR:Basic Service F... J.Shepard 201303: Shepard, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2015,2015,"CR:Resident Care -... J.Shepard 201303: Shepard, John",,,,,,,,,,,,,,,

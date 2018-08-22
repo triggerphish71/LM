@@ -1,0 +1,5 @@
+BATCH,,201301,B,3445.0000,
+INVOICE,IN,,04410276,,01/02/2013,3445.0000,"MoveIn-Lancaster. Grady",,01/02/2013,01/02/2013,,04414899,3445.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,30,85.0000,2550,"Basic Service Fee - Studio: Lancaster. Grady",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,30,29.0000,870,"Resident Care - Level 2: Lancaster. Grady",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Lancaster. Grady",,,,,,,,,,,,,,,

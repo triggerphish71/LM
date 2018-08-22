@@ -1,0 +1,8 @@
+BATCH,,201201,B,5008.0000,
+INVOICE,IN,,09210252,,12/31/2011,2094.0000,"MoveIn-Pack. Lessley",,12/31/2011,12/31/2011,,09214678,5008.0000,,,,,,,,,,
+TRANSACTION,3014,010305092,1,78.0000,78,"Basic Service Fee - Studio: Pack. Lessley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,1,16.0000,16,"Resident Care - Level 1: Pack. Lessley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,2000.0000,2000,"New Resident Fee: Pack. Lessley",,,,,,,,,,,,,,,
+INVOICE,IN,,09210252,,01/01/2012,2914.0000,"January_Rent-Pack. Lessley",,01/01/2012,01/10/2012,,09214678,5008.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,31,78.0000,2418,"Basic Service Fee - Studio: Pack. Lessley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,31,16.0000,496,"Resident Care - Level 1: Pack. Lessley",,,,,,,,,,,,,,,

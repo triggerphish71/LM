@@ -1,0 +1,7 @@
+BATCH,,201804,B,6116.3000,
+INVOICE,IN,,11010555,,04/01/2018,1620.0000,"Invoice-Private",,04/01/2018,04/10/2018,,11017296MO,-5614.3200,,,,,,,,,,
+TRANSACTION,3027,010007110,1,1620.0000,1620.00,"CR:Resident Care L... M.Dixon 201804: Dixon, Millie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010555,,04/01/2018,4496.3,"Invoice-Private",,04/01/2018,04/10/2018,,11017296MO,-5614.3200,,,,,,,,,,
+TRANSACTION,3020,010007110,1,1950,1950,"CR:Basic Service F... M.Dixon 201804: Dixon, Millie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3,26.3,"CR:Monthly Cable... M.Dixon 201804: Dixon, Millie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,2520,2520,"CR:Resident Care -... M.Dixon 201804: Dixon, Millie",,,,,,,,,,,,,,,

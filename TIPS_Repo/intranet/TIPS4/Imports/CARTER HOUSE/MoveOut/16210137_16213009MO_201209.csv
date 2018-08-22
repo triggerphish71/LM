@@ -1,0 +1,5 @@
+BATCH,,201209,B,660.0000,
+INVOICE,IN,,16210137,,09/01/2012,330.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16213009MO,-3739.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,30,11.0000,330.00,"Credit for Limited Term Discount: Andersen, Jens",,,,,,,,,,,,,,,
+INVOICE,CM,,16210137,,09/01/2012,330,"Invoice-Private",,09/01/2012,09/10/2012,,16213009MO,-3739.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,30,11,330,"Limited Term Discount: Andersen, Jens",,,,,,,,,,,,,,,

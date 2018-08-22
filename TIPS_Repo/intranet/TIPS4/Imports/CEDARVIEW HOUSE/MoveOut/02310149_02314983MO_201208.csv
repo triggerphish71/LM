@@ -1,0 +1,6 @@
+BATCH,,201208,B,4526.0000,
+INVOICE,IN,,02310149,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,02314983MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,62.0000,62.00,"CR:Limited Term Di... C.Allen 201208: Allen, Corrine",,,,,,,,,,,,,,,
+INVOICE,CM,,02310149,,08/01/2012,4464,"Invoice-Private",,08/01/2012,08/10/2012,,02314983MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,3534,3534,"CR:Basic Service F... C.Allen 201208: Allen, Corrine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,930,930,"CR:Resident Care -... C.Allen 201208: Allen, Corrine",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201207,B,3102.0000,
+INVOICE,IN,,12510195,,07/01/2012,157.0000,"Invoice-Private",,07/01/2012,07/01/2012,,12514281MO,-2788.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,1,62.0000,62.00,"CR:Limited Term Di... E.Lefler 201207: Lefler, Emma ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211125,1,77.0000,77.00,"Basic Service Fee - Studio for Jul: Lefler, Emma ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,18.0000,18.00,"Resident Care - Level 1 for Jul: Lefler, Emma ",,,,,,,,,,,,,,,
+INVOICE,CM,,12510195,,07/01/2012,2945,"Invoice-Private",,07/01/2012,07/01/2012,,12514281MO,-2788.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2387,2387,"CR:Basic Service F... E.Lefler 201207: Lefler, Emma ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,558,558,"CR:Resident Care -... E.Lefler 201207: Lefler, Emma ",,,,,,,,,,,,,,,

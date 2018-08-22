@@ -1,0 +1,7 @@
+BATCH,,201106,B,1002.0000,
+INVOICE,IN,,14710239,,06/01/2011,501.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14715097MO,-2562.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Robel, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310147,30,15.3000,459.00,"Additional Service Charge: Robel, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14710239,,06/01/2011,501,"Invoice-Private",,06/01/2011,06/10/2011,,14715097MO,-2562.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Robel, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310147,30,15.3,459,"Credit for Additional Service Charge: Robel, Helen",,,,,,,,,,,,,,,

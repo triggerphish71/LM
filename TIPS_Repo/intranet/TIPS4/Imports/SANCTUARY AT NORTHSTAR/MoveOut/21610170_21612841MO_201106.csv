@@ -1,0 +1,5 @@
+BATCH,,201106,B,3366.0000,
+INVOICE,IN,,21610170,,06/01/2011,396.0000,"Invoice-Private",,06/01/2011,06/10/2011,,21612841MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,4,99.0000,396.00,"Room and Board - One Bedroom for Jun: Trice, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,21610170,,06/01/2011,2970,"Invoice-Private",,06/01/2011,06/10/2011,,21612841MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2970,2970,"CR:Room and Board ... D.Trice 201106: Trice, Dorothy",,,,,,,,,,,,,,,

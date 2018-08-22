@@ -1,0 +1,7 @@
+BATCH,,201803,B,3352.0000,
+INVOICE,IN,,19210372,,03/11/2018,1523.0000,"Invoice-Private",,03/11/2018,03/11/2018,,19219679MO,-2076.0000,,,,,,,,,,
+TRANSACTION,3017,010009192,8,46.0000,368.00," Level Care:  2  -from 2018-02-21: Paloski, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009192,11,46.0000,506.00," Level Care:  2 : Paloski, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009192,11,59.0000,649.00,"Companion Studio  for Mar: Paloski, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,19210372,,03/11/2018,1829,"Invoice-Private",,03/11/2018,03/11/2018,,19219679MO,-2076.0000,,,,,,,,,,
+TRANSACTION,3020,010009192,1,1829,1829,"CR:Companion Studi... J.Paloski 201803: Paloski, Joseph",,,,,,,,,,,,,,,

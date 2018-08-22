@@ -1,0 +1,6 @@
+BATCH,,201209,B,4220.0000,
+INVOICE,IN,,06010230,,09/08/2012,880.0000,"Invoice-Private",,09/08/2012,09/08/2012,,06014444MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,8,110.0000,880.00,"Basic Service Fee - One Bedroom for Sep: Foley, DeeBee",,,,,,,,,,,,,,,
+INVOICE,CM,,06010230,,09/08/2012,3340,"Invoice-Private",,09/08/2012,09/08/2012,,06014444MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3300,3300,"CR:Basic Service F... D.Foley 201209: Foley, DeeBee",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... D.Foley 201209: Foley, DeeBee",,,,,,,,,,,,,,,

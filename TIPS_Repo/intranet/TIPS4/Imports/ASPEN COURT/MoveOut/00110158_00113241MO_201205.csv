@@ -1,0 +1,7 @@
+BATCH,,201205,B,7769.4000,
+INVOICE,IN,,00110158,,05/01/2012,3755.2100,"Invoice-Private",,05/01/2012,05/10/2012,,00113241MO,-258.9800,,,,,,,,,,
+TRANSACTION,3020,010101001,29,74.0000,2146.00,"Basic Service Fee - Studio for May: Pitman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,29,55.4900,1609.21,"Resident Care - Level 31 for May: Pitman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,00110158,,05/01/2012,4014.19,"Invoice-Private",,05/01/2012,05/10/2012,,00113241MO,-258.9800,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2294,2294,"CR:Basic Service F... R.Pitman 201205: Pitman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,1720.19,1720.19,"CR:Resident Care -... R.Pitman 201205: Pitman, Ruth",,,,,,,,,,,,,,,

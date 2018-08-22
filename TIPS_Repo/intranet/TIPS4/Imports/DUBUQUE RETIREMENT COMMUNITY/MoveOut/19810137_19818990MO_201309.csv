@@ -1,0 +1,5 @@
+BATCH,,201309,B,60.0000,
+INVOICE,IN,,19810137,,09/01/2013,30.0000,"Invoice-Private",,09/01/2013,09/10/2013,,19818990MO,-4749.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: OHearn, William",,,,,,,,,,,,,,,
+INVOICE,CM,,19810137,,09/01/2013,30,"Invoice-Private",,09/01/2013,09/10/2013,,19818990MO,-4749.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: OHearn, William",,,,,,,,,,,,,,,

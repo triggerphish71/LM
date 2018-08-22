@@ -1,0 +1,5 @@
+BATCH,,201210,B,5220.0000,
+INVOICE,IN,,53110300,,10/12/2012,5220.0000,"MoveIn-Knoll. Mary",,10/12/2012,10/12/2012,,53114284,5220.0000,,,,,,,,,,
+TRANSACTION,3010,010319531,20,123.0000,2460,"Basic Service Fee - One Bedroom: Knoll. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,20,63.0000,1260,"Resident Care - Level 5: Knoll. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,1500.0000,1500,"New Resident Fee: Knoll. Mary",,,,,,,,,,,,,,,

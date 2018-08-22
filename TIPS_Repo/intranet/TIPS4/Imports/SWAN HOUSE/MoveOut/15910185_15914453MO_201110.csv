@@ -1,0 +1,7 @@
+BATCH,,201110,B,4055.3500,
+INVOICE,IN,,15910185,,10/01/2011,460.3500,"Invoice-Private",,10/01/2011,10/10/2011,,15914453MO,-2949.1500,,,,,,,,,,
+TRANSACTION,3316,010212159,1,460.3500,460.35,"CR:Employee Discou... J.Crampton 201110: Crampton, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,15910185,,10/01/2011,3595,"Invoice-Private",,10/01/2011,10/10/2011,,15914453MO,-2949.1500,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3069,3069,"CR:Basic Service F... J.Crampton 201110: Crampton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... J.Crampton 201110: Crampton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,496,496,"CR:Swan Personal C... J.Crampton 201110: Crampton, Jane",,,,,,,,,,,,,,,

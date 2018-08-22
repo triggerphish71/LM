@@ -1,0 +1,6 @@
+BATCH,,201105,B,4080.0000,
+INVOICE,IN,,51610237,,05/03/2011,86.0000,"Invoice-Private",,05/03/2011,05/03/2011,,51613483MO,-3908.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,86.0000,86.00,"A.Kibizoff: Basic Service Fee - Studio for May: Kibizoff, Alex",,,,,,,,,,,,,,,
+INVOICE,CM,,51610237,,05/03/2011,3994,"Invoice-Private",,05/03/2011,05/03/2011,,51613483MO,-3908.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2494,2494,"CR:A.Kibizoff: Bas... A.Kibizoff 201105: Kibizoff, Alex",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103516,1,1500,1500,"CR:New Resident Fe... A.Kibizoff 201105: Kibizoff, Alex",,,,,,,,,,,,,,,

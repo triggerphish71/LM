@@ -1,0 +1,7 @@
+BATCH,,201306,B,6646.2000,
+INVOICE,IN,,08710155,,06/01/2013,604.2000,"Invoice-Private",,06/01/2013,06/10/2013,,08714440MO,-5437.8000,,,,,,,,,,
+TRANSACTION,3020,010103087,3,83.0000,249.00,"Basic Service Fee - Studio for Jun: Kochhafen, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,3,118.4000,355.20,"Resident Care - Level 64 for Jun: Kochhafen, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,08710155,,06/01/2013,6042,"Invoice-Private",,06/01/2013,06/10/2013,,08714440MO,-5437.8000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2490,2490,"CR:Basic Service F... M.Kochhafen 201306: Kochhafen, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,3552,3552,"CR:Resident Care -... M.Kochhafen 201306: Kochhafen, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,4366.0000,
+INVOICE,IN,,20810055,,10/01/2011,708.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20812746MO,-2950.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,6,97.0000,582.00,"One Bedroom for Oct: Williams, Mozelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,6,21.0000,126.00,"Resident Care - Level 2 for Oct: Williams, Mozelle",,,,,,,,,,,,,,,
+INVOICE,CM,,20810055,,10/01/2011,3658,"Invoice-Private",,10/01/2011,10/10/2011,,20812746MO,-2950.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3007,3007,"CR:One Bedroom... M.Williams 201110: Williams, Mozelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,651,651,"CR:Resident Care -... M.Williams 201110: Williams, Mozelle",,,,,,,,,,,,,,,

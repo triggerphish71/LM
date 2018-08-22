@@ -1,0 +1,6 @@
+BATCH,,201112,B,5588.0000,
+INVOICE,IN,,05710305,,12/01/2011,5588.0000,"MoveIn-Howell. Lawrence",,12/01/2011,12/01/2011,,05715311,5588.0000,,,,,,,,,,
+TRANSACTION,3010,010202057,31,94.0000,2914,"Basic Service Fee - Studio: Howell. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202057,31,29.0000,899,"Resident Care - Level 2: Howell. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25.0000,25,"Monthly Cable: Howell. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202057,1,1750.0000,1750,"New Resident Fee: Howell. Lawrence",,,,,,,,,,,,,,,

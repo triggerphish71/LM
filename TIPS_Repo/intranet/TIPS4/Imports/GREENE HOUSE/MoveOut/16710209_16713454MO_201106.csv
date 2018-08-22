@@ -1,0 +1,8 @@
+BATCH,,201106,B,5316.0000,
+INVOICE,IN,,16710209,,06/01/2011,918.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16713454MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3019,010211167,30,30.6000,918.00,"Additional Service Charge: Barghahn, Gerhard",,,,,,,,,,,,,,,
+INVOICE,CM,,16710209,,06/01/2011,4398,"Invoice-Private",,06/01/2011,06/10/2011,,16713454MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2640,2640,"CR:Basic Service F... G.Barghahn 201106: Barghahn, Gerhard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... G.Barghahn 201106: Barghahn, Gerhard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,810,810,"CR:Resident Care -... G.Barghahn 201106: Barghahn, Gerhard",,,,,,,,,,,,,,,
+TRANSACTION,3019,010211167,30,30.6,918,"Credit for Additional Service Charge: Barghahn, Gerhard",,,,,,,,,,,,,,,

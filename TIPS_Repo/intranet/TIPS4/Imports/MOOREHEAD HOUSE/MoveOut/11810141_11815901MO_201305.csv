@@ -1,0 +1,8 @@
+BATCH,,201305,B,6388.0000,
+INVOICE,IN,,11810141,,05/15/2013,2070.0000,"Invoice-Private",,05/15/2013,05/15/2013,,11815901MO,-7148.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,15,101.0000,1515.00,"Basic Service Fee - Studio for May: Becker, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,15,37.0000,555.00,"Resident Care - Level 2 for May: Becker, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,11810141,,05/15/2013,4318,"Invoice-Private",,05/15/2013,05/15/2013,,11815901MO,-7148.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3131,3131,"CR:Basic Service F... M.Becker 201305: Becker, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... M.Becker 201305: Becker, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1147,1147,"CR:Resident Care -... M.Becker 201305: Becker, Margaret",,,,,,,,,,,,,,,

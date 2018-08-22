@@ -1,0 +1,8 @@
+BATCH,,201307,B,7035.0000,
+INVOICE,IN,,13610327,,07/24/2013,3125.0000,"Invoice-Private",,07/24/2013,07/24/2013,,13615882MO,-4695.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,25,66.0000,1650.00,"Basic Service Fee - Studio for Jul: Whitham, Daisy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,25,59.0000,1475.00,"Resident Care - Level 4 for Jul: Whitham, Daisy",,,,,,,,,,,,,,,
+INVOICE,CM,,13610327,,07/24/2013,3910,"Invoice-Private",,07/24/2013,07/24/2013,,13615882MO,-4695.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2046,2046,"CR:Basic Service F... D.Whitham 201307: Whitham, Daisy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... D.Whitham 201307: Whitham, Daisy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,1829,1829,"CR:Resident Care -... D.Whitham 201307: Whitham, Daisy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,11610213,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,11615150MO,-5282.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,30,2.0000,60.00,"Credit for Limited Term Discount: Stewart, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,11610213,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,11615150MO,-5282.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,30,2,60,"Limited Term Discount: Stewart, Helen",,,,,,,,,,,,,,,

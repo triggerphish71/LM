@@ -1,0 +1,5 @@
+BATCH,,201106,B,54.0000,
+INVOICE,IN,,16510257,,06/01/2011,27.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16513751MO,-3034.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: McMillan, James",,,,,,,,,,,,,,,
+INVOICE,CM,,16510257,,06/01/2011,27,"Invoice-Private",,06/01/2011,06/10/2011,,16513751MO,-3034.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: McMillan, James",,,,,,,,,,,,,,,

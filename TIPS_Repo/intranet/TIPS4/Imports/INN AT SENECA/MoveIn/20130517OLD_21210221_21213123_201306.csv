@@ -1,0 +1,5 @@
+BATCH,,201306,B,2921.0000,
+INVOICE,IN,,21210221,,06/01/2013,2921.0000,"June_Rent-Smith. Sandra",,06/01/2013,06/10/2013,,21213123,5902.0000,,,,,,,,,,
+TRANSACTION,3010,010208212,30,84.0000,2520,"Studio: Smith. Sandra",,,,,,,,,,,,,,,
+TRANSACTION,3017,010208212,30,12.0000,360,"Resident Care - Level 1: Smith. Sandra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41,"Monthly Cable: Smith. Sandra",,,,,,,,,,,,,,,

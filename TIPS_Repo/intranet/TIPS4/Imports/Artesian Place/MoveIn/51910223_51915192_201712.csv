@@ -1,0 +1,5 @@
+BATCH,,201712,B,7002.0000,
+INVOICE,IN,,51910223,,12/15/2017,7002.0000,"MoveIn-Leland. Norman",,12/15/2017,12/15/2017,,51915192,7002.0000,,,,,,,,,,
+TRANSACTION,3010,010003519,17,90.0000,1530,"Basic Service Fee - Studio: Leland. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003519,1,2736.0000,2736,"Community Fee: Leland. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003519,1,2736.0000,2736,"Monthly Deferral Charge: Leland. Norman",,,,,,,,,,,,,,,

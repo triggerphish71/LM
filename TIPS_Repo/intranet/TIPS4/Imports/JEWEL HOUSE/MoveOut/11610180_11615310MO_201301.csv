@@ -1,0 +1,7 @@
+BATCH,,201301,B,184.9800,
+INVOICE,IN,,11610180,,01/01/2013,92.4900,"Invoice-Private",,01/01/2013,01/10/2013,,11615310MO,-4008.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,31,2.0000,62.00,"Credit for Limited Term Discount: Pocobello, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309116,1,30.4900,30.49,"Pendant Fee: Pocobello, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,11610180,,01/01/2013,92.49,"Invoice-Private",,01/01/2013,01/10/2013,,11615310MO,-4008.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,31,2,62,"Limited Term Discount: Pocobello, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309116,1,30.49,30.49,"Credit for Pendant Fee: Pocobello, Esther",,,,,,,,,,,,,,,

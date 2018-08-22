@@ -1,0 +1,8 @@
+BATCH,,201203,B,8298.4200,
+INVOICE,IN,,12910234,,03/07/2012,1523.1300,"Invoice-Private",,03/07/2012,03/07/2012,,12915773MO,-5252.1600,,,,,,,,,,
+TRANSACTION,3020,010310129,7,96.0000,672.00,"Basic Service Fee - Studio for Mar: Shoaf, Eileen ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,7,121.5900,851.13,"Resident Care - Level 6+21 pts for Mar: Shoaf, Eileen ",,,,,,,,,,,,,,,
+INVOICE,CM,,12910234,,03/07/2012,6775.29,"Invoice-Private",,03/07/2012,03/07/2012,,12915773MO,-5252.1600,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2976,2976,"CR:Basic Service F... E.Shoaf 201203: Shoaf, Eileen ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... E.Shoaf 201203: Shoaf, Eileen ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,3769.29,3769.29,"CR:Resident Care -... E.Shoaf 201203: Shoaf, Eileen ",,,,,,,,,,,,,,,

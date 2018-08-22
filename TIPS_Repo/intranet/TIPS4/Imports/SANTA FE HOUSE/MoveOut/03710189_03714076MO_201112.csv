@@ -1,0 +1,8 @@
+BATCH,,201112,B,8370.0000,
+INVOICE,IN,,03710189,,12/09/2011,4526.0000,"Invoice-Private",,12/09/2011,12/09/2011,,03714076MO,682.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,1,1178.0000,1178.00,"CR:Limited Term Di... D.Bowman 201112: Bowman, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,27,93.0000,2511.00,"Basic Service Fee - Studio for Dec: Bowman, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,27,31.0000,837.00,"Resident Care - Level 2 for Dec: Bowman, Donnie",,,,,,,,,,,,,,,
+INVOICE,CM,,03710189,,12/09/2011,3844,"Invoice-Private",,12/09/2011,12/09/2011,,03714076MO,682.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2883,2883,"CR:Basic Service F... D.Bowman 201112: Bowman, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,961,961,"CR:Resident Care -... D.Bowman 201112: Bowman, Donnie",,,,,,,,,,,,,,,

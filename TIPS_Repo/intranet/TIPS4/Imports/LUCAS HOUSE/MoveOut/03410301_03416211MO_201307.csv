@@ -1,0 +1,8 @@
+BATCH,,201307,B,5697.0000,
+INVOICE,IN,,03410301,,07/07/2013,1485.0000,"Invoice-Private",,07/07/2013,07/07/2013,,03416211MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,11,70.0000,770.00,"Basic Service Fee - Studio for Jul: Wier, Una",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,11,65.0000,715.00,"Resident Care - Level 6 for Jul: Wier, Una",,,,,,,,,,,,,,,
+INVOICE,CM,,03410301,,07/07/2013,4212,"Invoice-Private",,07/07/2013,07/07/2013,,03416211MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2170,2170,"CR:Basic Service F... U.Wier 201307: Wier, Una",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... U.Wier 201307: Wier, Una",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,2015,2015,"CR:Resident Care -... U.Wier 201307: Wier, Una",,,,,,,,,,,,,,,

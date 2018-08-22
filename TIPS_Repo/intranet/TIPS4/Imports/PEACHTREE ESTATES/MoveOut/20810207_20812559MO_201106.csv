@@ -1,0 +1,8 @@
+BATCH,,201106,B,1510.0000,
+INVOICE,IN,,20810207,,06/23/2011,85.0000,"Invoice-Private",,06/23/2011,06/23/2011,,20812559MO,-3975.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,11.0000,11.00,"Resident Care - Level 1 for Jun: Morgan, Florine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,74.0000,74.00,"Studio for Jun: Morgan, Florine",,,,,,,,,,,,,,,
+INVOICE,CM,,20810207,,06/23/2011,1425,"Invoice-Private",,06/23/2011,06/23/2011,,20812559MO,-3975.0000,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1000,1000,"CR:New Resident Fe... F.Morgan 201106: Morgan, Florine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,55,55,"CR:Resident Care -... F.Morgan 201106: Morgan, Florine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,370,370,"CR:Studio... F.Morgan 201106: Morgan, Florine",,,,,,,,,,,,,,,

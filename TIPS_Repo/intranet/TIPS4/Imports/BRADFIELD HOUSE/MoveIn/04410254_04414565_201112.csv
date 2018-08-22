@@ -1,0 +1,6 @@
+BATCH,,201112,B,5395.0000,
+INVOICE,IN,,04410254,,12/02/2011,5395.0000,"MoveIn-Wright. Mary",,12/02/2011,12/02/2011,,04414565,5395.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,30,85.0000,2550,"Basic Service Fee - Studio: Wright. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,30,44.0000,1320,"Resident Care - Level 3: Wright. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Wright. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Wright. Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,3720.0000,
+INVOICE,IN,,15010173,,04/01/2012,120.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15014399MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,120.0000,120.00,"Basic Service Fee- One Bedroom Prem for Apr: Wyckoff, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,15010173,,04/01/2012,3600,"Invoice-Private",,04/01/2012,04/10/2012,,15014399MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,3600,3600,"CR:Basic Service F... E.Wyckoff 201204: Wyckoff, Eva",,,,,,,,,,,,,,,

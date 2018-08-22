@@ -1,0 +1,7 @@
+BATCH,,201305,B,2401.0000,
+INVOICE,IN,,09410271,,05/18/2013,882.0000,"Invoice-Private",,05/18/2013,05/18/2013,,09416422MO,-2107.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,18,32.0000,576.00,"Basic Service Fee - Second Resident for May: Whited, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,18,17.0000,306.00,"Resident Care - Level 1 for May: Whited, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09410271,,05/18/2013,1519,"Invoice-Private",,05/18/2013,05/18/2013,,09416422MO,-2107.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,992,992,"CR:Basic Service F... M.Whited 201305: Whited, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,527,527,"CR:Resident Care -... M.Whited 201305: Whited, Mary",,,,,,,,,,,,,,,

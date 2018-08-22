@@ -1,0 +1,7 @@
+BATCH,,201201,B,8151.0000,
+INVOICE,IN,,20610189,,01/26/2012,3718.0000,"Invoice-Private",,01/26/2012,01/26/2012,,20612563MO,-4862.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,26,42.0000,1092.00,"Resident Care - Level 4 for Jan: Debella, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,26,101.0000,2626.00,"Studio Deluxe for Jan: Debella, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,20610189,,01/26/2012,4433,"Invoice-Private",,01/26/2012,01/26/2012,,20612563MO,-4862.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1302,1302,"CR:Resident Care -... M.Debella 201201: Debella, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,3131,3131,"CR:Studio Deluxe... M.Debella 201201: Debella, Michael",,,,,,,,,,,,,,,

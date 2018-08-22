@@ -1,0 +1,5 @@
+BATCH,,201202,B,2085.1800,
+INVOICE,IN,,00910167,,02/24/2012,2085.1800,"MoveIn-Landgren-Womack. Bertha",,02/24/2012,02/24/2012,,00913546,5108.6100,,,,,,,,,,
+TRANSACTION,3010,010101009,6,85.0000,510,"Basic Service Fee - Studio: Landgren-Womack. Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,6,12.5300,75.18,"Resident Care - Level 7: Landgren-Womack. Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1500.0000,1500,"New Resident Fee: Landgren-Womack. Bertha",,,,,,,,,,,,,,,

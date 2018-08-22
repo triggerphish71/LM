@@ -1,0 +1,6 @@
+BATCH,,201301,B,5983.0000,
+INVOICE,IN,,12310229,,01/01/2013,1178.0000,"Invoice-Private",,01/01/2013,01/10/2013,,12315770MO,-4303.0000,,,,,,,,,,
+TRANSACTION,3320,010211123,1,1178.0000,1178.00,"CR:Limited Term Di... E.Oltman 201301: Oltman, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,12310229,,01/01/2013,4805,"Invoice-Private",,01/01/2013,01/10/2013,,12315770MO,-4303.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... E.Oltman 201301: Oltman, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... E.Oltman 201301: Oltman, Elizabeth",,,,,,,,,,,,,,,

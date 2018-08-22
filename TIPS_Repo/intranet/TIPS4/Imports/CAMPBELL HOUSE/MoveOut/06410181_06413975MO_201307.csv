@@ -1,0 +1,8 @@
+BATCH,,201307,B,1883.0000,
+INVOICE,IN,,06410181,,07/02/2013,112.0000,"Invoice-Private",,07/02/2013,07/02/2013,,06413975MO,-1659.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,2,40.0000,80.00,"Basic Service Fee - Studio for Jul: Hinkle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,2,16.0000,32.00,"Resident Care - Level 1 for Jul: Hinkle, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06410181,,07/02/2013,1771,"Invoice-Private",,07/02/2013,07/02/2013,,06413975MO,-1659.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,1240,1240,"CR:Basic Service F... M.Hinkle 201307: Hinkle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... M.Hinkle 201307: Hinkle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,496,496,"CR:Resident Care -... M.Hinkle 201307: Hinkle, Mary",,,,,,,,,,,,,,,

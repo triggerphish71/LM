@@ -1,0 +1,5 @@
+BATCH,,201309,B,40.0000,
+INVOICE,IN,,11210162,,09/01/2013,20.0000,"Invoice-Private",,09/01/2013,09/10/2013,,11216687MO,-2939.0000,,,,,,,,,,
+TRANSACTION,3260,010310112,1,20.0000,20.00,"Monthly Cable: Heinz, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,11210162,,09/01/2013,20,"Invoice-Private",,09/01/2013,09/10/2013,,11216687MO,-2939.0000,,,,,,,,,,
+TRANSACTION,3260,010310112,1,20,20,"Credit for Monthly Cable: Heinz, Dorothy",,,,,,,,,,,,,,,

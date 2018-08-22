@@ -1,0 +1,7 @@
+BATCH,,201210,B,4060.0000,
+INVOICE,IN,,13610261,,10/24/2012,1890.0000,"Invoice-Private",,10/24/2012,10/24/2012,,13615193MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,27,55.0000,1485.00,"Basic Service Fee - Studio for Oct: Sands, Lester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,27,15.0000,405.00,"Resident Care - Level 1 for Oct: Sands, Lester",,,,,,,,,,,,,,,
+INVOICE,CM,,13610261,,10/24/2012,2170,"Invoice-Private",,10/24/2012,10/24/2012,,13615193MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1705,1705,"CR:Basic Service F... L.Sands 201210: Sands, Lester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,465,465,"CR:Resident Care -... L.Sands 201210: Sands, Lester",,,,,,,,,,,,,,,

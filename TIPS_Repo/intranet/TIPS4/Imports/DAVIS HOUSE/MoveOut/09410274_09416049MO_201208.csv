@@ -1,0 +1,6 @@
+BATCH,,201208,B,5828.0000,
+INVOICE,IN,,09410274,,08/01/2012,868.0000,"Invoice-Private",,08/01/2012,08/10/2012,,09416049MO,-2822.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,868.0000,868.00,"CR:Limited Term Di... D.Brown 201208: Brown, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,09410274,,08/01/2012,4960,"Invoice-Private",,08/01/2012,08/10/2012,,09416049MO,-2822.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3038,3038,"CR:Basic Service F... D.Brown 201208: Brown, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,1922,1922,"CR:Resident Care -... D.Brown 201208: Brown, Dorothy",,,,,,,,,,,,,,,

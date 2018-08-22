@@ -1,0 +1,5 @@
+BATCH,,201210,B,3600.0000,
+INVOICE,IN,,15110189,,10/01/2012,3600.0000,"October_Rent-Ford. Emma",,10/01/2012,10/10/2012,,15114081,5245.0000,,,,,,,,,,
+TRANSACTION,3010,010212151,31,88.0000,2728,"Basic Service Fee - Studio: Ford. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212151,31,27.0000,837,"Swan Personal Care - L2: Ford. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35,"Monthly Cable: Ford. Emma",,,,,,,,,,,,,,,

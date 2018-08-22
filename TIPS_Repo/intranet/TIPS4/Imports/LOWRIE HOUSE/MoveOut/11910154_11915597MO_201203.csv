@@ -1,0 +1,5 @@
+BATCH,,201203,B,52.0000,
+INVOICE,IN,,11910154,,03/01/2012,26.0000,"Invoice-Private",,03/01/2012,03/10/2012,,11915597MO,-5198.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Bauldoff, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,11910154,,03/01/2012,26,"Invoice-Private",,03/01/2012,03/10/2012,,11915597MO,-5198.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Bauldoff, Melvin",,,,,,,,,,,,,,,

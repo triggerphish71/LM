@@ -1,0 +1,7 @@
+BATCH,,201110,B,7182.0000,
+INVOICE,IN,,06610135,,10/08/2011,1881.0000,"Invoice-Private",,10/08/2011,10/08/2011,,06614215MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,11,123.0000,1353.00,"Basic Service Fee - One Bedroom for Oct: Heydinger, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,11,48.0000,528.00,"Resident Care - Level 3 for Oct: Heydinger, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,06610135,,10/08/2011,5301,"Invoice-Private",,10/08/2011,10/08/2011,,06614215MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3813,3813,"CR:Basic Service F... L.Heydinger 201110: Heydinger, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1488,1488,"CR:Resident Care -... L.Heydinger 201110: Heydinger, Lucille",,,,,,,,,,,,,,,

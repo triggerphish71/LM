@@ -1,0 +1,7 @@
+BATCH,,201302,B,2177.7000,
+INVOICE,IN,,00510170,,02/01/2013,435.5400,"Invoice-Private",,02/01/2013,02/01/2013,,00512594MO,-1306.6200,,,,,,,,,,
+TRANSACTION,3020,010101005,7,30.0000,210.00,"Basic Service Fee - Studio for Feb: Kautzman, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,7,32.2200,225.54,"Resident Care - Level 18 for Feb: Kautzman, Dortha",,,,,,,,,,,,,,,
+INVOICE,CM,,00510170,,02/01/2013,1742.16,"Invoice-Private",,02/01/2013,02/01/2013,,00512594MO,-1306.6200,,,,,,,,,,
+TRANSACTION,3020,010101005,1,840,840,"CR:Basic Service F... D.Kautzman 201302: Kautzman, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,902.16,902.16,"CR:Resident Care -... D.Kautzman 201302: Kautzman, Dortha",,,,,,,,,,,,,,,

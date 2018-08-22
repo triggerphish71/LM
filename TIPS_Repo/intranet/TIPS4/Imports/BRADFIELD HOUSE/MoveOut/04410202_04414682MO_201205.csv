@@ -1,0 +1,6 @@
+BATCH,,201205,B,3193.0000,
+INVOICE,IN,,04410202,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,04414682MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,1,62.0000,62.00,"CR:Limited Term Di... J.Johnson 201205: Johnson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,04410202,,05/01/2012,3131,"Invoice-Private",,05/01/2012,05/10/2012,,04414682MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... J.Johnson 201205: Johnson, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496,496,"CR:Resident Care -... J.Johnson 201205: Johnson, John",,,,,,,,,,,,,,,

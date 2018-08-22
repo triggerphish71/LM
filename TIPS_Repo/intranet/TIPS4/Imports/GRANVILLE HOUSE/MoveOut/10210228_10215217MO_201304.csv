@@ -1,0 +1,5 @@
+BATCH,,201304,B,3663.0000,
+INVOICE,IN,,10210228,,04/03/2013,333.0000,"Invoice-Private",,04/03/2013,04/03/2013,,10215217MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,3,111.0000,333.00,"Basic Service Fee - Studio for Apr: Nelson, Anthus",,,,,,,,,,,,,,,
+INVOICE,CM,,10210228,,04/03/2013,3330,"Invoice-Private",,04/03/2013,04/03/2013,,10215217MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3330,3330,"CR:Basic Service F... A.Nelson 201304: Nelson, Anthus",,,,,,,,,,,,,,,

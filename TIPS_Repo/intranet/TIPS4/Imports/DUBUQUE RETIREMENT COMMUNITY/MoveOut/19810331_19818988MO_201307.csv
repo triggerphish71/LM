@@ -1,0 +1,5 @@
+BATCH,,201307,B,686.0000,
+INVOICE,IN,,19810331,,07/18/2013,252.0000,"Invoice-Private",,07/18/2013,07/18/2013,,19818988MO,-616.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,18,14.0000,252.00,"Basic Service Fee Second Resident for Jul: Laufenberg, Jeanette",,,,,,,,,,,,,,,
+INVOICE,CM,,19810331,,07/18/2013,434,"Invoice-Private",,07/18/2013,07/18/2013,,19818988MO,-616.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,434,434,"CR:Basic Service F... J.Laufenberg 201307: Laufenberg, Jeanette",,,,,,,,,,,,,,,

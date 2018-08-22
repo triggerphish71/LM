@@ -1,0 +1,8 @@
+BATCH,,201203,B,6258.0000,
+INVOICE,IN,,14910166,,03/05/2012,865.0000,"Invoice-Private",,03/05/2012,03/05/2012,,14914588MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,5,100.0000,500.00,"Basic Service Fee - Studio for Mar: Wenzel, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,5,73.0000,365.00,"Resident Care - Level 5 for Mar: Wenzel, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,14910166,,03/05/2012,5393,"Invoice-Private",,03/05/2012,03/05/2012,,14914588MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Basic Service F... E.Wenzel 201203: Wenzel, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... E.Wenzel 201203: Wenzel, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,2263,2263,"CR:Resident Care -... E.Wenzel 201203: Wenzel, Edna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,3956.0000,
+INVOICE,IN,,09110231,,04/01/2013,1376.0000,"Invoice-Private",,04/01/2013,04/10/2013,,09115709MO,-1204.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,16,86.0000,1376.00,"Basic Service Fee - Studio for Apr: Stoneburner, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,09110231,,04/01/2013,2580,"Invoice-Private",,04/01/2013,04/10/2013,,09115709MO,-1204.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2580,2580,"CR:Basic Service F... B.Stoneburner 201304: Stoneburner, Betty",,,,,,,,,,,,,,,

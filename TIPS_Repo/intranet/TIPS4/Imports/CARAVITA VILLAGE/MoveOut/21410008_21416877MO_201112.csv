@@ -1,0 +1,5 @@
+BATCH,,201112,B,186.0000,
+INVOICE,IN,,21410008,,12/01/2011,93.0000,"Invoice-Private",,12/01/2011,12/10/2011,,21416877MO,-15469.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,31,3.0000,93.00,"Credit for Daily Discount: Anderson, Mary Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,21410008,,12/01/2011,93,"Invoice-Private",,12/01/2011,12/10/2011,,21416877MO,-15469.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,31,3,93,"Daily Discount: Anderson, Mary Alice",,,,,,,,,,,,,,,

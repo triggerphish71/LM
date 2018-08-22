@@ -1,0 +1,8 @@
+BATCH,,201210,B,5232.0000,
+INVOICE,IN,,52610122,,10/15/2012,2040.0000,"Invoice-Private",,10/15/2012,10/15/2012,,52617320MO,-4242.0000,,,,,,,,,,
+TRANSACTION,3027,010319526,20,38.0000,760.00,"Resident Care - Level 1 for Oct: Freischmidt, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,20,64.0000,1280.00,"Room and Board - Studio for Oct: Freischmidt, Olive",,,,,,,,,,,,,,,
+INVOICE,CM,,52610122,,10/15/2012,3192,"Invoice-Private",,10/15/2012,10/15/2012,,52617320MO,-4242.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... O.Freischmidt 201210: Freischmidt, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1178,1178,"CR:Resident Care -... O.Freischmidt 201210: Freischmidt, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,1,1984,1984,"CR:Room and Board ... O.Freischmidt 201210: Freischmidt, Olive",,,,,,,,,,,,,,,

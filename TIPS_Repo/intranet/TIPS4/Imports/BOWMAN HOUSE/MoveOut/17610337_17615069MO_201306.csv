@@ -1,0 +1,8 @@
+BATCH,,201306,B,5552.0000,
+INVOICE,IN,,17610337,,06/01/2013,2222.0000,"Invoice-Private",,06/01/2013,06/10/2013,,17615069MO,-1108.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,22,73.0000,1606.00,"Basic Service Fee - Studio for Jun: Wells, Ardena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,22,28.0000,616.00,"Resident Care - Level 2 for Jun: Wells, Ardena",,,,,,,,,,,,,,,
+INVOICE,CM,,17610337,,06/01/2013,3330,"Invoice-Private",,06/01/2013,06/10/2013,,17615069MO,-1108.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2190,2190,"CR:Basic Service F... A.Wells 201306: Wells, Ardena",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... A.Wells 201306: Wells, Ardena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,840,840,"CR:Resident Care -... A.Wells 201306: Wells, Ardena",,,,,,,,,,,,,,,

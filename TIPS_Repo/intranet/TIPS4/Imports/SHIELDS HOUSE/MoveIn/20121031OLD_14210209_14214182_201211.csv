@@ -1,0 +1,5 @@
+BATCH,,201211,B,4115.0000,
+INVOICE,IN,,14210209,,11/01/2012,4115.0000,"November_Rent-Hinton. David",,11/01/2012,11/10/2012,,14214182,6286.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,30,88.0000,2640,"Basic Service Fee - Studio: Hinton. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,30,48.0000,1440,"Resident Care - Level 3: Hinton. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Hinton. David",,,,,,,,,,,,,,,

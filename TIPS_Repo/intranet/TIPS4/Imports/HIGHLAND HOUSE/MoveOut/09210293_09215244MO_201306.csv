@@ -1,0 +1,5 @@
+BATCH,,201306,B,2100.0000,
+INVOICE,IN,,09210293,,06/12/2013,600.0000,"Invoice-Private",,06/12/2013,06/12/2013,,09215244MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,12,50.0000,600.00,"Basic Service Fee - Studio for Jun: Wallace, Mike",,,,,,,,,,,,,,,
+INVOICE,CM,,09210293,,06/12/2013,1500,"Invoice-Private",,06/12/2013,06/12/2013,,09215244MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,1500,1500,"CR:Basic Service F... M.Wallace 201306: Wallace, Mike",,,,,,,,,,,,,,,

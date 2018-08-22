@@ -1,0 +1,7 @@
+BATCH,,201803,B,7536.0000,
+INVOICE,IN,,17810508,,03/07/2018,1332.0000,"Invoice-Private",,03/07/2018,03/07/2018,,17819613MO,-4872.0000,,,,,,,,,,
+TRANSACTION,3017,010012178,6,89.0000,534.00," Level Care:  5 : Pastore, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012178,7,114.0000,798.00,"Basic Service Fee - Studio  for Mar: Pastore, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,17810508,,03/07/2018,6204,"Invoice-Private",,03/07/2018,03/07/2018,,17819613MO,-4872.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,1,3534,3534,"CR:Basic Service F... F.Pastore 201803: Pastore, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,1,2670,2670,"CR:Resident Care L... F.Pastore 201803: Pastore, Francis",,,,,,,,,,,,,,,

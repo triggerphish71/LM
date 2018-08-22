@@ -1,0 +1,5 @@
+BATCH,,201112,B,3280.0000,
+INVOICE,IN,,06310236,,12/01/2011,3280.0000,"December_Rent-Jessee. Kenneth",,12/01/2011,12/10/2011,,06314742,5120.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,31,90.0000,2790,"Basic Service Fee - Studio: Jessee. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,31,15.0000,465,"Resident Care - Level 1: Jessee. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Jessee. Kenneth",,,,,,,,,,,,,,,

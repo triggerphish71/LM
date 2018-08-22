@@ -1,0 +1,5 @@
+BATCH,,201212,B,1736.0000,
+INVOICE,IN,,20410176,,12/01/2012,868.0000,"Invoice-Private",,12/01/2012,12/10/2012,,20413279MO,-1134.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,28.0000,868.00,"Credit for Limited Term Discount: McConaghy, Barry",,,,,,,,,,,,,,,
+INVOICE,CM,,20410176,,12/01/2012,868,"Invoice-Private",,12/01/2012,12/10/2012,,20413279MO,-1134.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,28,868,"Limited Term Discount: McConaghy, Barry",,,,,,,,,,,,,,,

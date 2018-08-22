@@ -1,0 +1,5 @@
+BATCH,,201203,B,3750.0000,
+INVOICE,IN,,12610244,,03/18/2012,3750.0000,"MoveIn-Kranz. Elaine",,03/18/2012,03/18/2012,,12614959,7500.0000,,,,,,,,,,
+TRANSACTION,3010,010211126,14,107.0000,1498,"Basic Service Fee - Deluxe: Kranz. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211126,14,18.0000,252,"Resident Care - Level 1: Kranz. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211126,1,2000.0000,2000,"New Resident Fee: Kranz. Elaine",,,,,,,,,,,,,,,

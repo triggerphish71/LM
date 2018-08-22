@@ -1,0 +1,7 @@
+BATCH,,201203,B,2475.0000,
+INVOICE,IN,,13610219,,03/01/2012,150.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13614586MO,-2175.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,2,60.0000,120.00,"Basic Service Fee- Studio Premium for Mar: Drake, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,2,15.0000,30.00,"Resident Care - Level 1 for Mar: Drake, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,13610219,,03/01/2012,2325,"Invoice-Private",,03/01/2012,03/10/2012,,13614586MO,-2175.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1860,1860,"CR:Basic Service F... G.Drake 201203: Drake, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,465,465,"CR:Resident Care -... G.Drake 201203: Drake, Gary",,,,,,,,,,,,,,,

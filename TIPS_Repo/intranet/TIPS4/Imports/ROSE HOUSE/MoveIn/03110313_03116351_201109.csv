@@ -1,0 +1,6 @@
+BATCH,,201109,B,5107.0000,
+INVOICE,IN,,03110313,,09/01/2011,5107.0000,"MoveIn-Wood. Margarette",,09/01/2011,09/01/2011,,03116351,5107.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,30,95.0000,2850,"Basic Service Fee - Studio         : Wood. Margarette",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,30,16.0000,480,"Resident Care - Level 1: Wood. Margarette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Wood. Margarette",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Wood. Margarette",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,3840.0000,
+INVOICE,IN,,17110244,,03/01/2012,3840.0000,"March_Rent-Wilder. Annie",,03/01/2012,03/10/2012,,17114980,6182.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,31,94.0000,2914,"A.Wilder: Basic Service Fee - Studio: Wilder. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308171,31,29.0000,899,"A.Wilder: Resident Care - Level 2: Wilder. Annie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Wilder. Annie",,,,,,,,,,,,,,,

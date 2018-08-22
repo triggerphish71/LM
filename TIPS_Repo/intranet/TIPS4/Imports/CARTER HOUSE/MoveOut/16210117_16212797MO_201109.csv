@@ -1,0 +1,5 @@
+BATCH,,201109,B,1620.0000,
+INVOICE,IN,,16210117,,09/01/2011,810.0000,"Invoice-Private",,09/01/2011,09/10/2011,,16212797MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,30,27.0000,810.00,"Credit for Limited Term Discount: Gravett, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,16210117,,09/01/2011,810,"Invoice-Private",,09/01/2011,09/10/2011,,16212797MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,30,27,810,"Limited Term Discount: Gravett, Jean",,,,,,,,,,,,,,,

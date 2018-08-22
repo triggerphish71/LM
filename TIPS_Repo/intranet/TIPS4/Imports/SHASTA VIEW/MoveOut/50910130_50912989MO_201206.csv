@@ -1,0 +1,7 @@
+BATCH,,201206,B,180.0000,
+INVOICE,IN,,50910130,,06/01/2012,90.0000,"Invoice-Private",,06/01/2012,06/10/2012,,50912989MO,-944.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,2.0000,60.00,"Credit for Limited Term Discount: Oldham, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3130,010101509,1,30.0000,30.00,"Pendant Fee: Oldham, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,50910130,,06/01/2012,90,"Invoice-Private",,06/01/2012,06/10/2012,,50912989MO,-944.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,2,60,"Limited Term Discount: Oldham, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3130,010101509,1,30,30,"Credit for Pendant Fee: Oldham, Martha",,,,,,,,,,,,,,,

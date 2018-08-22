@@ -1,0 +1,8 @@
+BATCH,,201212,B,4004.4000,
+INVOICE,IN,,03010175,,12/04/2012,512.5600,"Invoice-Private",,12/04/2012,12/04/2012,,03014217MO,-2979.2800,,,,,,,,,,
+TRANSACTION,3320,010103030,1,62.0000,62.00,"CR:Limited Term Di... M.Pate 201212: Pate, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103030,4,84.0000,336.00,"Basic Service Fee - Studio for Dec: Pate, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,4,28.6400,114.56,"Resident Care - Level 16 for Dec: Pate, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,03010175,,12/04/2012,3491.84,"Invoice-Private",,12/04/2012,12/04/2012,,03014217MO,-2979.2800,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2604,2604,"CR:Basic Service F... M.Pate 201212: Pate, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,887.84,887.84,"CR:Resident Care -... M.Pate 201212: Pate, Marjorie",,,,,,,,,,,,,,,

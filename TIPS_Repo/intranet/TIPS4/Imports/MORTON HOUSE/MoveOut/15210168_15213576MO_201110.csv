@@ -1,0 +1,8 @@
+BATCH,,201110,B,6035.0000,
+INVOICE,IN,,15210168,,10/08/2011,2900.0000,"Invoice-Private",,10/08/2011,10/08/2011,,15213576MO,-235.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,29,68.0000,1972.00,"Basic Service Fee - Studio for Oct: Holtzman, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,29,32.0000,928.00,"Resident Care - Level 2 for Oct: Holtzman, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15210168,,10/08/2011,3135,"Invoice-Private",,10/08/2011,10/08/2011,,15213576MO,-235.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2108,2108,"CR:Basic Service F... M.Holtzman 201110: Holtzman, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... M.Holtzman 201110: Holtzman, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,992,992,"CR:Resident Care -... M.Holtzman 201110: Holtzman, Mary",,,,,,,,,,,,,,,

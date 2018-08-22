@@ -1,0 +1,5 @@
+BATCH,,201706,B,2639.9800,
+INVOICE,IN,,32000105,,06/06/2017,439.9800,"Invoice-Private",,06/06/2017,06/06/2017,,32011094MO,-1760.0200,,,,,,,,,,
+TRANSACTION,3010,070025320,6,73.3300,439.98,"MC Companion Studio Premium  for Jun: Wilson, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,32000105,,06/06/2017,2200,"Invoice-Private",,06/06/2017,06/06/2017,,32011094MO,-1760.0200,,,,,,,,,,
+TRANSACTION,3010,070025320,1,2200,2200,"CR:MC Companion St... F.Wilson 201706: Wilson, Francis",,,,,,,,,,,,,,,

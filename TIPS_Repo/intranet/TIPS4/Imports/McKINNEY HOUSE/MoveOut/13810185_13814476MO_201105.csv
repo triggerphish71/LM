@@ -1,0 +1,7 @@
+BATCH,,201105,B,6415.0000,
+INVOICE,IN,,13810185,,05/28/2011,3052.0000,"Invoice-Private",,05/28/2011,05/28/2011,,13814476MO,-3581.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,28,93.0000,2604.00,"Basic Service Fee - Studio for May: Fleener, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,28,16.0000,448.00,"Service level: lvl 0 to lvl 1 - 5/2/11 for May: Fleener, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13810185,,05/28/2011,3363,"Invoice-Private",,05/28/2011,05/28/2011,,13814476MO,-3581.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2883,2883,"CR:Basic Service F... M.Fleener 201105: Fleener, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,480,480,"CR:Service level: ... M.Fleener 201105: Fleener, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,5292.0000,
+INVOICE,IN,,16010100,,03/22/2013,2254.0000,"Invoice-Private",,03/22/2013,03/22/2013,,16015549MO,-3724.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,23,98.0000,2254.00,"Basic Service Fee - Studio for Mar: Willoughby, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,16010100,,03/22/2013,3038,"Invoice-Private",,03/22/2013,03/22/2013,,16015549MO,-3724.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3038,3038,"CR:Basic Service F... J.Willoughby 201303: Willoughby, Joyce",,,,,,,,,,,,,,,

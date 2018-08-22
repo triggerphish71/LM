@@ -1,0 +1,5 @@
+BATCH,,201106,B,56.0000,
+INVOICE,IN,,14410220,,06/01/2011,28.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14414612MO,-6465.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Kanapaux, Connie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410220,,06/01/2011,28,"Invoice-Private",,06/01/2011,06/10/2011,,14414612MO,-6465.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Kanapaux, Connie",,,,,,,,,,,,,,,

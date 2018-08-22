@@ -1,0 +1,7 @@
+BATCH,,201209,B,5195.0000,
+INVOICE,IN,,19210175,,09/01/2012,90.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19215382MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,90.0000,90.00,"CR:Limited Term Di... M.Simpson 201209: Simpson, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,19210175,,09/01/2012,5105,"Invoice-Private",,09/01/2012,09/10/2012,,19215382MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3420,3420,"CR:Basic Service F... M.Simpson 201209: Simpson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... M.Simpson 201209: Simpson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1650,1650,"CR:Resident Care -... M.Simpson 201209: Simpson, Martha",,,,,,,,,,,,,,,

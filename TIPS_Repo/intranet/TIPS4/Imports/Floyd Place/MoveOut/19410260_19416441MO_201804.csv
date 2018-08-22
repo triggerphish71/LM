@@ -1,0 +1,8 @@
+BATCH,,201804,B,6415.0000,
+INVOICE,IN,,19410260,,04/13/2018,2065.0000,"Invoice-Private",,04/13/2018,04/13/2018,,19416441MO,-2285.0000,,,,,,,,,,
+TRANSACTION,3017,010012194,4,95.0000,380.00,"Level: 5  to  Level: 6  - 04/05: Twining, Bernadette",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012194,9,115.0000,1035.00," Level: 6 : Twining, Bernadette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012194,13,50.0000,650.00,"Basic Service Fee - Studio  for Apr: Twining, Bernadette",,,,,,,,,,,,,,,
+INVOICE,CM,,19410260,,04/13/2018,4350,"Invoice-Private",,04/13/2018,04/13/2018,,19416441MO,-2285.0000,,,,,,,,,,
+TRANSACTION,3020,010012194,1,1500,1500,"CR:Basic Service F... B.Twining 201804: Twining, Bernadette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012194,1,2850,2850,"CR:Resident Care -... B.Twining 201804: Twining, Bernadette",,,,,,,,,,,,,,,

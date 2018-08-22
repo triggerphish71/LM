@@ -1,0 +1,5 @@
+BATCH,,201209,B,1302.0000,
+INVOICE,IN,,11510259,,09/12/2012,372.0000,"Invoice-Private",,09/12/2012,09/12/2012,,11514430MO,-1519.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,12,31.0000,372.00,"Basic Service Fee - Second Resident for Sep: Overstreet, Janette",,,,,,,,,,,,,,,
+INVOICE,CM,,11510259,,09/12/2012,930,"Invoice-Private",,09/12/2012,09/12/2012,,11514430MO,-1519.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,930,930,"CR:Basic Service F... J.Overstreet 201209: Overstreet, Janette",,,,,,,,,,,,,,,

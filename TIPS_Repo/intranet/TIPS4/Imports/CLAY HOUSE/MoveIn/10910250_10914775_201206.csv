@@ -1,0 +1,6 @@
+BATCH,,201206,B,4057.0000,
+INVOICE,IN,,10910250,,06/15/2012,4057.0000,"MoveIn-Beckert. Fred",,06/15/2012,06/15/2012,,10914775,8019.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,16,80.0000,1280,"Basic Service Fee - Studio         : Beckert. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,16,47.0000,752,"Resident Care - Level 3: Beckert. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Beckert. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Beckert. Fred",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,2670.0000,
+INVOICE,IN,,11410166,,01/23/2013,2670.0000,"MoveIn-Keisen. Raymond",,01/23/2013,01/23/2013,,11414229,6310.0000,,,,,,,,,,
+TRANSACTION,3010,010306114,9,111.0000,999,"Basic Service Fee - Studio         : Keisen. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306114,9,19.0000,171,"Swan Personal Care - L1: Keisen. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306114,1,1500.0000,1500,"New Resident Fee: Keisen. Raymond",,,,,,,,,,,,,,,

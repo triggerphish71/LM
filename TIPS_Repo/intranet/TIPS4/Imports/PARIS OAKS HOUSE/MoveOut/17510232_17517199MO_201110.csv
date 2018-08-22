@@ -1,0 +1,7 @@
+BATCH,,201110,B,174.0000,
+INVOICE,IN,,17510232,,10/01/2011,87.0000,"Invoice-Private",,10/01/2011,10/10/2011,,17517199MO,-1555.0000,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25.00,"Monthly Cable: Ralson, Marion ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202175,31,2.0000,62.00,"Credit for Limited Term Discount: Ralson, Marion ",,,,,,,,,,,,,,,
+INVOICE,CM,,17510232,,10/01/2011,87,"Invoice-Private",,10/01/2011,10/10/2011,,17517199MO,-1555.0000,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"Credit for Monthly Cable: Ralson, Marion ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202175,31,2,62,"Limited Term Discount: Ralson, Marion ",,,,,,,,,,,,,,,

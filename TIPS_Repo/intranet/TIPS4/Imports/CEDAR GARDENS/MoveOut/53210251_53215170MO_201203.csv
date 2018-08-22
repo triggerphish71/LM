@@ -1,0 +1,5 @@
+BATCH,,201203,B,60.0000,
+INVOICE,IN,,53210251,,03/01/2012,30.0000,"Invoice-Private",,03/01/2012,03/10/2012,,53215170MO,-1031.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30.00,"Monthly Cable: Berge, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,53210251,,03/01/2012,30,"Invoice-Private",,03/01/2012,03/10/2012,,53215170MO,-1031.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"Credit for Monthly Cable: Berge, Harold",,,,,,,,,,,,,,,

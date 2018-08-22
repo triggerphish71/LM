@@ -1,0 +1,8 @@
+BATCH,,201304,B,3776.0000,
+INVOICE,IN,,02510151,,04/01/2013,121.0000,"Invoice-Private",,04/01/2013,04/01/2013,,02513452MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,55.0000,55.00,"Basic Service Fee - Studio for Apr: McCandless, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,1,66.0000,66.00,"Resident Care - Level 5 for Apr: McCandless, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,02510151,,04/01/2013,3655,"Invoice-Private",,04/01/2013,04/01/2013,,02513452MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,1650,1650,"CR:Basic Service F... J.McCandless 201304: McCandless, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25,25,"CR:Monthly Cable... J.McCandless 201304: McCandless, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,1,1980,1980,"CR:Resident Care -... J.McCandless 201304: McCandless, Joann",,,,,,,,,,,,,,,

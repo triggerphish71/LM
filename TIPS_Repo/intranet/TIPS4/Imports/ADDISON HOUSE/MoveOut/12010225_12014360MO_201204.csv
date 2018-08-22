@@ -1,0 +1,6 @@
+BATCH,,201204,B,2946.0000,
+INVOICE,IN,,12010225,,04/07/2012,606.0000,"Invoice-Private",,04/07/2012,04/07/2012,,12014360MO,-1734.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,1,60.0000,60.00,"CR:Limited Term Di... M.Warner 201204: Warner, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,7,78.0000,546.00,"Basic Service Fee - Studio for Apr: Warner, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,12010225,,04/07/2012,2340,"Invoice-Private",,04/07/2012,04/07/2012,,12014360MO,-1734.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2340,2340,"CR:Basic Service F... M.Warner 201204: Warner, Margie",,,,,,,,,,,,,,,

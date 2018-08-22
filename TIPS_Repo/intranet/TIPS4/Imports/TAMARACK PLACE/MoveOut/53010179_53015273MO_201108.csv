@@ -1,0 +1,7 @@
+BATCH,,201108,B,4284.2100,
+INVOICE,IN,,53010179,,08/01/2011,183.2100,"Invoice-Private",,08/01/2011,08/10/2011,,53015273MO,-3917.7900,,,,,,,,,,
+TRANSACTION,3311,010319530,1,121.2100,121.21,"CR:Advance Payment... B.Frerichs 201108: Frerichs, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319530,1,62.0000,62.00,"CR:Limited Term Di... B.Frerichs 201108: Frerichs, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,53010179,,08/01/2011,4101,"Invoice-Private",,08/01/2011,08/10/2011,,53015273MO,-3917.7900,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Frerichs 201108: Frerichs, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,4061,4061,"CR:Room and Board ... B.Frerichs 201108: Frerichs, Bill",,,,,,,,,,,,,,,

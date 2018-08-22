@@ -1,0 +1,8 @@
+BATCH,,201205,B,4639.0000,
+INVOICE,IN,,20810176,,05/14/2012,1849.0000,"Invoice-Private",,05/14/2012,05/14/2012,,20813179MO,-941.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,589.0000,589.00,"CR:Limited Term Di... R.Hamrick 201205: Hamrick, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,14,12.0000,168.00,"Resident Care - Level 1 for May: Hamrick, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,14,78.0000,1092.00,"Studio for May: Hamrick, Robbie",,,,,,,,,,,,,,,
+INVOICE,CM,,20810176,,05/14/2012,2790,"Invoice-Private",,05/14/2012,05/14/2012,,20813179MO,-941.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,372,372,"CR:Resident Care -... R.Hamrick 201205: Hamrick, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... R.Hamrick 201205: Hamrick, Robbie",,,,,,,,,,,,,,,

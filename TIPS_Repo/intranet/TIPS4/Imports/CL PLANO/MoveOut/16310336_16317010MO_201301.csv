@@ -1,0 +1,6 @@
+BATCH,,201301,B,6399.0000,
+INVOICE,IN,,16310336,,01/28/2013,3024.0000,"Invoice-Private",,01/28/2013,01/28/2013,,16317010MO,-2031.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,28,108.0000,3024.00,"Basic Service Fee - Studio Deluxe for Jan: Brianza, Terry",,,,,,,,,,,,,,,
+INVOICE,CM,,16310336,,01/28/2013,3375,"Invoice-Private",,01/28/2013,01/28/2013,,16317010MO,-2031.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... T.Brianza 201301: Brianza, Terry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... T.Brianza 201301: Brianza, Terry",,,,,,,,,,,,,,,

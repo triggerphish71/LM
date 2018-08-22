@@ -1,0 +1,5 @@
+BATCH,,201204,B,84.0000,
+INVOICE,IN,,14710259,,04/01/2012,42.0000,"Invoice-Private",,04/01/2012,04/10/2012,,14715546MO,-5550.7200,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Fiffik Sr, Mike",,,,,,,,,,,,,,,
+INVOICE,CM,,14710259,,04/01/2012,42,"Invoice-Private",,04/01/2012,04/10/2012,,14715546MO,-5550.7200,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Fiffik Sr, Mike",,,,,,,,,,,,,,,

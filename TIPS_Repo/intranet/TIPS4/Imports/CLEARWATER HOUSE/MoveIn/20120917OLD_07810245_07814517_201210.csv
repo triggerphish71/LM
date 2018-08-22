@@ -1,0 +1,5 @@
+BATCH,,201210,B,3063.0000,
+INVOICE,IN,,07810245,,10/01/2012,3063.0000,"October_Rent-Estes. Lawrence",,10/01/2012,10/10/2012,,07814517,4960.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,31,83.0000,2573,"Basic Service Fee - Deluxe: Estes. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,31,15.0000,465,"Resident Care - Level 1: Estes. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Estes. Lawrence",,,,,,,,,,,,,,,

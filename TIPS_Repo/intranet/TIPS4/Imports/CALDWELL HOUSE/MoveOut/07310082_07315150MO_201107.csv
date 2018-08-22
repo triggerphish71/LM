@@ -1,0 +1,6 @@
+BATCH,,201107,B,4896.0000,
+INVOICE,IN,,07310082,,07/14/2011,1590.0000,"Invoice-Private",,07/14/2011,07/14/2011,,07315150MO,-1716.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,15,106.0000,1590.00,"Basic Service Fee - Deluxe for Jul: Olwine, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07310082,,07/14/2011,3306,"Invoice-Private",,07/14/2011,07/14/2011,,07315150MO,-1716.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3286,3286,"CR:Basic Service F... H.Olwine 201107: Olwine, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... H.Olwine 201107: Olwine, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,4095.0000,
+INVOICE,IN,,12610232,,09/01/2011,945.0000,"Invoice-Private",,09/01/2011,09/10/2011,,12614784MO,-2205.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,9,105.0000,945.00,"Room and Board - Deluxe for Sep: Straube, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,12610232,,09/01/2011,3150,"Invoice-Private",,09/01/2011,09/10/2011,,12614784MO,-2205.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3150,3150,"CR:Room and Board ... N.Straube 201109: Straube, Nora",,,,,,,,,,,,,,,

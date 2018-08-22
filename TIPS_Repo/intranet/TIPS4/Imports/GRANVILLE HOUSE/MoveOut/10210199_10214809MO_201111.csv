@@ -1,0 +1,8 @@
+BATCH,,201111,B,7640.0000,
+INVOICE,IN,,10210199,,11/11/2011,2840.0000,"Invoice-Private",,11/11/2011,11/11/2011,,10214809MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,1,1080.0000,1080.00,"CR:Limited Term Di... J.Gibbs 201111: Gibbs, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306102,11,111.0000,1221.00,"Basic Service Fee - Studio for Nov: Gibbs, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,11,49.0000,539.00,"Swan Personal Care - L3 for Nov: Gibbs, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,10210199,,11/11/2011,4800,"Invoice-Private",,11/11/2011,11/11/2011,,10214809MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3330,3330,"CR:Basic Service F... J.Gibbs 201111: Gibbs, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1470,1470,"CR:Swan Personal C... J.Gibbs 201111: Gibbs, Jane",,,,,,,,,,,,,,,

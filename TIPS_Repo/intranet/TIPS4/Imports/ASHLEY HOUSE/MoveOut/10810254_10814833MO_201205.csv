@@ -1,0 +1,7 @@
+BATCH,,201205,B,4510.0000,
+INVOICE,IN,,10810254,,05/10/2012,1100.0000,"Invoice-Private",,05/10/2012,05/10/2012,,10814833MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3027,010308108,10,26.0000,260.00,"Resident Care - Level 2 for May: Haynes, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,10,84.0000,840.00,"Room and Board - Studio for May: Haynes, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,10810254,,05/10/2012,3410,"Invoice-Private",,05/10/2012,05/10/2012,,10814833MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3027,010308108,1,806,806,"CR:Resident Care -... E.Haynes 201205: Haynes, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Room and Board ... E.Haynes 201205: Haynes, Ethel",,,,,,,,,,,,,,,

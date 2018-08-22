@@ -1,0 +1,8 @@
+BATCH,,201212,B,6080.3000,
+INVOICE,IN,,16710208,,12/01/2012,533.8500,"Invoice-Private",,12/01/2012,12/10/2012,,16713983MO,-5012.6000,,,,,,,,,,
+TRANSACTION,3020,010211167,3,91.0000,273.00,"Basic Service Fee - Studio for Dec: Smola, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,3,86.9500,260.85,"Resident Care - Level 6+5 pts for Dec: Smola, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,16710208,,12/01/2012,5546.45,"Invoice-Private",,12/01/2012,12/10/2012,,16713983MO,-5012.6000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2821,2821,"CR:Basic Service F... E.Smola 201212: Smola, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... E.Smola 201212: Smola, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,2695.45,2695.45,"CR:Resident Care -... E.Smola 201212: Smola, Elsie",,,,,,,,,,,,,,,

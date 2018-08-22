@@ -1,0 +1,8 @@
+BATCH,,201202,B,4732.0000,
+INVOICE,IN,,21210162,,02/12/2012,1426.0000,"Invoice-Private",,02/12/2012,02/12/2012,,21212313MO,-1880.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,58.0000,58.00,"CR:Limited Term Di... A.Mauldin 201202: Mauldin, Artie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,12,22.0000,264.00,"Resident Care - Level 2 for Feb: Mauldin, Artie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,12,92.0000,1104.00,"Studio Deluxe for Feb: Mauldin, Artie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210162,,02/12/2012,3306,"Invoice-Private",,02/12/2012,02/12/2012,,21212313MO,-1880.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,638,638,"CR:Resident Care -... A.Mauldin 201202: Mauldin, Artie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2668,2668,"CR:Studio Deluxe... A.Mauldin 201202: Mauldin, Artie",,,,,,,,,,,,,,,

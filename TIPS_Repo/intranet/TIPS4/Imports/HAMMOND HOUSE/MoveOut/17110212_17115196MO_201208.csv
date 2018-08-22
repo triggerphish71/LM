@@ -1,0 +1,7 @@
+BATCH,,201208,B,178.0000,
+INVOICE,IN,,17110212,,08/01/2012,89.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17115196MO,-4729.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Brownell, Peg",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,2.0000,62.00,"Credit for Limited Term Discount: Brownell, Peg",,,,,,,,,,,,,,,
+INVOICE,CM,,17110212,,08/01/2012,89,"Invoice-Private",,08/01/2012,08/10/2012,,17115196MO,-4729.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Brownell, Peg",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,2,62,"Limited Term Discount: Brownell, Peg",,,,,,,,,,,,,,,

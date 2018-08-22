@@ -1,0 +1,5 @@
+BATCH,,201306,B,2160.0000,
+INVOICE,CM,,04410268,,06/01/2013,2160,"Invoice-Private",,06/01/2013,06/10/2013,,04415109MO,-3042.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1650,1650,"CR:Basic Service F... W.Holland 201306: Holland, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202044,1,30,30,"CR:Pendant Fee... W.Holland 201306: Holland, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,480,480,"CR:Resident Care -... W.Holland 201306: Holland, Willie",,,,,,,,,,,,,,,

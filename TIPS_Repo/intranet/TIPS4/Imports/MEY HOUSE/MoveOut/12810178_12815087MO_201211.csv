@@ -1,0 +1,8 @@
+BATCH,,201211,B,4697.0000,
+INVOICE,IN,,12810178,,11/01/2012,292.0000,"Invoice-Private",,11/01/2012,11/01/2012,,12815087MO,-4113.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,2,111.0000,222.00,"Basic Service Fee - Studio for Nov: Offie, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,2,35.0000,70.00,"Swan Personal Care - L2 for Nov: Offie, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,12810178,,11/01/2012,4405,"Invoice-Private",,11/01/2012,11/01/2012,,12815087MO,-4113.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3330,3330,"CR:Basic Service F... S.Offie 201211: Offie, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25,25,"CR:Monthly Cable... S.Offie 201211: Offie, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,1050,1050,"CR:Swan Personal C... S.Offie 201211: Offie, Sarah",,,,,,,,,,,,,,,

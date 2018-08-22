@@ -1,0 +1,7 @@
+BATCH,,201111,B,5075.0000,
+INVOICE,IN,,19210241,,11/05/2011,725.0000,"Invoice-Private",,11/05/2011,11/05/2011,,19214928MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,5,109.0000,545.00,"Basic Service Fee - Studio for Nov: Burnstein, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,5,36.0000,180.00,"Resident Care - Level 2 for Nov: Burnstein, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,19210241,,11/05/2011,4350,"Invoice-Private",,11/05/2011,11/05/2011,,19214928MO,-3625.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3270,3270,"CR:Basic Service F... J.Burnstein 201111: Burnstein, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1080,1080,"CR:Resident Care -... J.Burnstein 201111: Burnstein, Jeanne",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,4809.0000,
+INVOICE,CM,,19210157,,03/01/2013,4809,"Invoice-Private",,03/01/2013,03/10/2013,,19215701MO,-7672.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,2666,2666,"CR:Basic Service F... N.Mitchell 201303: Mitchell, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... N.Mitchell 201303: Mitchell, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,2108,2108,"CR:Resident Care -... N.Mitchell 201303: Mitchell, Norma",,,,,,,,,,,,,,,

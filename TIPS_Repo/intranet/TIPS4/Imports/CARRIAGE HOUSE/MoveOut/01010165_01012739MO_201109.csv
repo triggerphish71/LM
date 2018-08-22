@@ -1,0 +1,5 @@
+BATCH,,201109,B,194.4000,
+INVOICE,IN,,01010165,,10/05/2011,97.2000,"Invoice-Private",,10/05/2011,10/05/2011,,01012739MO,-2878.2000,,,,,,,,,,
+TRANSACTION,3210,010101010,2,48.6000,97.20,"Credit for Personal Services: Gibson, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,01010165,,10/05/2011,97.2,"Invoice-Private",,10/05/2011,10/05/2011,,01012739MO,-2878.2000,,,,,,,,,,
+TRANSACTION,3210,010101010,2,48.6,97.2,"Personal Services: Gibson, Clara",,,,,,,,,,,,,,,

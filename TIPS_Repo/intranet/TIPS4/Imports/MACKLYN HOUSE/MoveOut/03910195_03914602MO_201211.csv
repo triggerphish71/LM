@@ -1,0 +1,8 @@
+BATCH,,201211,B,5551.1700,
+INVOICE,IN,,03910195,,11/01/2012,1186.4700,"Invoice-Private",,11/01/2012,11/10/2012,,03914602MO,-3178.2300,,,,,,,,,,
+TRANSACTION,3320,010101039,1,750.0000,750.00,"CR:Limited Term Di... S.Tascher 201211: Tascher, Shirley Mae",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,3,90.0000,270.00,"Basic Service Fee - Studio for Nov: Tascher, Shirley Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,3,55.4900,166.47,"Resident Care - Level 31 for Nov: Tascher, Shirley Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,03910195,,11/01/2012,4364.7,"Invoice-Private",,11/01/2012,11/10/2012,,03914602MO,-3178.2300,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2700,2700,"CR:Basic Service F... S.Tascher 201211: Tascher, Shirley Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,1664.7,1664.7,"CR:Resident Care -... S.Tascher 201211: Tascher, Shirley Mae",,,,,,,,,,,,,,,

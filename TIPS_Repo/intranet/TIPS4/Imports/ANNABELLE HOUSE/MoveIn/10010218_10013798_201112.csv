@@ -1,0 +1,5 @@
+BATCH,,201112,B,2470.0000,
+INVOICE,IN,,10010218,,12/15/2011,2470.0000,"MoveIn-Ward. Elva",,12/15/2011,12/15/2011,,10013798,2470.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,17,85.0000,1445,"Basic Service Fee - Studio: Ward. Elva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Ward. Elva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,1000.0000,1000,"New Resident Fee: Ward. Elva",,,,,,,,,,,,,,,

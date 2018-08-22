@@ -1,0 +1,7 @@
+BATCH,,201306,B,3306.0000,
+INVOICE,IN,,03210298,,06/01/2013,696.0000,"Invoice-Private",,06/01/2013,06/10/2013,,03215355MO,-1914.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,8,70.0000,560.00,"Basic Service Fee - Studio for Jun: Parker, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,8,17.0000,136.00,"Resident Care - Level 1 for Jun: Parker, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,03210298,,06/01/2013,2610,"Invoice-Private",,06/01/2013,06/10/2013,,03215355MO,-1914.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2100,2100,"CR:Basic Service F... S.Parker 201306: Parker, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,510,510,"CR:Resident Care -... S.Parker 201306: Parker, Shirley",,,,,,,,,,,,,,,

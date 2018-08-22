@@ -1,0 +1,8 @@
+BATCH,,201304,B,5451.7000,
+INVOICE,IN,,01310226,,04/25/2013,1888.6000,"Invoice-Private",,04/25/2013,04/25/2013,,01314433MO,-5732.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,14,72.0000,1008.00,"Basic Service Fee - Studio for Apr: Kujawski, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,14,62.9000,880.60,"Resident Care - Level 34 for Apr: Kujawski, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,01310226,,04/25/2013,3563.1,"Invoice-Private",,04/25/2013,04/25/2013,,01314433MO,-5732.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,1368,1368,"CR:Basic Service F... F.Kujawski 201304: Kujawski, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000,1000,"CR:New Resident Fe... F.Kujawski 201304: Kujawski, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1195.1,1195.1,"CR:Resident Care -... F.Kujawski 201304: Kujawski, Frances",,,,,,,,,,,,,,,

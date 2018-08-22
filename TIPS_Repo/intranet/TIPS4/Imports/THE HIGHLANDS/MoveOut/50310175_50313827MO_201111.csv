@@ -1,0 +1,8 @@
+BATCH,,201111,B,4206.0000,
+INVOICE,IN,,50310175,,11/13/2011,1261.0000,"Invoice-Private",,11/13/2011,11/13/2011,,50313827MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3027,010220503,13,25.0000,325.00,"Resident Care - Level 2 for Nov: Norton, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,13,72.0000,936.00,"Room and Board - Studio for Nov: Norton, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,50310175,,11/13/2011,2945,"Invoice-Private",,11/13/2011,11/13/2011,,50313827MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... C.Norton 201111: Norton, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,750,750,"CR:Resident Care -... C.Norton 201111: Norton, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2160,2160,"CR:Room and Board ... C.Norton 201111: Norton, Carol",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,1020.0000,
+INVOICE,IN,,19510143,,11/01/2012,510.0000,"Invoice-Private",,11/01/2012,11/10/2012,,19514587MO,-2609.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,30,17.0000,510.00,"Credit for Limited Term Discount: Sawyer, Claude",,,,,,,,,,,,,,,
+INVOICE,CM,,19510143,,11/01/2012,510,"Invoice-Private",,11/01/2012,11/10/2012,,19514587MO,-2609.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,30,17,510,"Limited Term Discount: Sawyer, Claude",,,,,,,,,,,,,,,

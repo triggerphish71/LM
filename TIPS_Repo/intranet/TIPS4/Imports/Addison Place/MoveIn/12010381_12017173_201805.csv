@@ -1,0 +1,7 @@
+BATCH,,201805,B,5101.4700,
+INVOICE,IN,,12010381,,05/20/2018,5101.4700,"MoveIn-Pudding. Blue",,05/20/2018,05/20/2018,,12017173,5101.4700,,,,,,,,,,
+TRANSACTION,3010,010009120,12,86.0000,1032,"Basic Service Fee - Studio: Pudding. Blue",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009120,12,46.0000,552,"Resident Care - Level 3: Pudding. Blue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6000,31.6,"Monthly Cable: Pudding. Blue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2614.4000,2614.4,"Community Fee: Pudding. Blue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,871.4700,871.47,"Monthly Deferral Charge: Pudding. Blue",,,,,,,,,,,,,,,

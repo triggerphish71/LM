@@ -1,0 +1,5 @@
+BATCH,,201805,B,52.6000,
+INVOICE,IN,,51710370,,05/01/2018,26.3000,"Invoice-Private",,05/01/2018,05/10/2018,,51715574MO,-7743.1000,,,,,,,,,,
+TRANSACTION,3260,010003517,1,26.3000,26.30,"Monthly Cable: Fredrickson, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,51710370,,05/01/2018,26.3,"Invoice-Private",,05/01/2018,05/10/2018,,51715574MO,-7743.1000,,,,,,,,,,
+TRANSACTION,3260,010003517,1,26.3,26.3,"Credit for Monthly Cable: Fredrickson, Jim",,,,,,,,,,,,,,,

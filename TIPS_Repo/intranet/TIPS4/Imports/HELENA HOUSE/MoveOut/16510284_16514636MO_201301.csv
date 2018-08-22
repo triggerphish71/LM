@@ -1,0 +1,7 @@
+BATCH,,201301,B,4832.0000,
+INVOICE,IN,,16510284,,01/01/2013,930.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16514636MO,-4569.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,930.0000,930.00,"CR:Limited Term Di... R.Ossman 201301: Ossman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,16510284,,01/01/2013,3902,"Invoice-Private",,01/01/2013,01/10/2013,,16514636MO,-4569.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... R.Ossman 201301: Ossman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... R.Ossman 201301: Ossman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,868,868,"CR:Resident Care -... R.Ossman 201301: Ossman, Ruth",,,,,,,,,,,,,,,

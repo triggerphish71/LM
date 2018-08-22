@@ -1,0 +1,7 @@
+BATCH,,201202,B,2838.0000,
+INVOICE,IN,,19010230,,02/01/2012,1419.0000,"Invoice-Private",,02/01/2012,02/10/2012,,19014352MO,-3919.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Black, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,29,48.0000,1392.00,"Credit for Limited Term Discount: Black, Samuel",,,,,,,,,,,,,,,
+INVOICE,CM,,19010230,,02/01/2012,1419,"Invoice-Private",,02/01/2012,02/10/2012,,19014352MO,-3919.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Black, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,29,48,1392,"Limited Term Discount: Black, Samuel",,,,,,,,,,,,,,,

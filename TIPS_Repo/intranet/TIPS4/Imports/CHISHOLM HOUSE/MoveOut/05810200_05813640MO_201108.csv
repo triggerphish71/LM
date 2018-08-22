@@ -1,0 +1,8 @@
+BATCH,,201108,B,4453.0000,
+INVOICE,IN,,05810200,,08/01/2011,1080.0000,"Invoice-Private",,08/01/2011,08/10/2011,,05813640MO,-5558.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,10,79.0000,790.00,"Basic Service Fee - Studio for Aug: Lawson, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,10,29.0000,290.00,"Resident Care - Level 2 for Aug: Lawson, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,05810200,,08/01/2011,3373,"Invoice-Private",,08/01/2011,08/10/2011,,05813640MO,-5558.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2449,2449,"CR:Basic Service F... P.Lawson 201108: Lawson, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... P.Lawson 201108: Lawson, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,899,899,"CR:Resident Care -... P.Lawson 201108: Lawson, Pauline",,,,,,,,,,,,,,,

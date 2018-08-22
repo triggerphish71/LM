@@ -1,0 +1,5 @@
+BATCH,,201208,B,806.0000,
+INVOICE,IN,,20410154,,08/01/2012,403.0000,"Invoice-Private",,08/01/2012,08/10/2012,,20413044MO,-3991.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,13.0000,403.00,"Credit for Limited Term Discount: Ball, Glennis",,,,,,,,,,,,,,,
+INVOICE,CM,,20410154,,08/01/2012,403,"Invoice-Private",,08/01/2012,08/10/2012,,20413044MO,-3991.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,13,403,"Limited Term Discount: Ball, Glennis",,,,,,,,,,,,,,,

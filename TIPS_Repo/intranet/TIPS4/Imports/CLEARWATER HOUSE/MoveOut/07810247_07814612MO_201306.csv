@@ -1,0 +1,7 @@
+BATCH,,201306,B,2520.0000,
+INVOICE,IN,,07810247,,06/01/2013,420.0000,"Invoice-Private",,06/01/2013,06/10/2013,,07814612MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,6,55.0000,330.00,"Basic Service Fee - Studio for Jun: Smith, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,6,15.0000,90.00,"Resident Care - Level 1 for Jun: Smith, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,07810247,,06/01/2013,2100,"Invoice-Private",,06/01/2013,06/10/2013,,07814612MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,1650,1650,"CR:Basic Service F... L.Smith 201306: Smith, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,450,450,"CR:Resident Care -... L.Smith 201306: Smith, Leona",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,960.0000,
+INVOICE,IN,,14510314,,11/01/2012,480.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14515653MO,-7446.0000,,,,,,,,,,
+TRANSACTION,3210,010308145,1,480.0000,480.00,"Personal Services: Kurts, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,14510314,,11/01/2012,480,"Invoice-Private",,11/01/2012,11/10/2012,,14515653MO,-7446.0000,,,,,,,,,,
+TRANSACTION,3210,010308145,1,480,480,"Credit for Personal Services: Kurts, Kenneth",,,,,,,,,,,,,,,

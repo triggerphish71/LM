@@ -1,0 +1,5 @@
+BATCH,,201207,B,2971.1000,
+INVOICE,IN,,03910238,,07/23/2012,2971.1000,"MoveIn-Bonde. Claire",,07/23/2012,07/23/2012,,03914530,6316.0000,,,,,,,,,,
+TRANSACTION,3010,010101039,9,90.0000,810,"Basic Service Fee - Studio: Bonde. Claire",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,9,17.9000,161.1,"Resident Care - Level 10: Bonde. Claire",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Bonde. Claire",,,,,,,,,,,,,,,

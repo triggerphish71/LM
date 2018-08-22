@@ -1,0 +1,7 @@
+BATCH,,201304,B,5067.0000,
+INVOICE,IN,,13210298,,04/01/2013,1290.0000,"Invoice-Private",,04/01/2013,04/10/2013,,13215904MO,-3952.0000,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1290.0000,1290.00,"CR:Resident Care L... W.Riddleberger 201304: Riddleberger, William ",,,,,,,,,,,,,,,
+INVOICE,CM,,13210298,,04/01/2013,3777,"Invoice-Private",,04/01/2013,04/10/2013,,13215904MO,-3952.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2460,2460,"CR:Basic Service F... W.Riddleberger 201304: Riddleberger, William ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... W.Riddleberger 201304: Riddleberger, William ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1290,1290,"CR:Resident Care -... W.Riddleberger 201304: Riddleberger, William ",,,,,,,,,,,,,,,

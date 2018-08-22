@@ -1,0 +1,7 @@
+BATCH,,201209,B,6292.0000,
+INVOICE,IN,,53410179,,09/22/2012,2662.0000,"Invoice-Private",,09/22/2012,09/22/2012,,53421450MO,-4719.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,22,31.0000,682.00,"Basic Service Fee - Second Resident for Sep: Tiboris, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,22,90.0000,1980.00,"Resident Care - Level 5 for Sep: Tiboris, Stella",,,,,,,,,,,,,,,
+INVOICE,CM,,53410179,,09/22/2012,3630,"Invoice-Private",,09/22/2012,09/22/2012,,53421450MO,-4719.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,930,930,"CR:Basic Service F... S.Tiboris 201209: Tiboris, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2700,2700,"CR:Resident Care -... S.Tiboris 201209: Tiboris, Stella",,,,,,,,,,,,,,,

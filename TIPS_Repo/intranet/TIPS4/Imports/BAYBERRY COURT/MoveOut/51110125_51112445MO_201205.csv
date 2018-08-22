@@ -1,0 +1,8 @@
+BATCH,,201205,B,7776.0000,
+INVOICE,IN,,51110125,,05/10/2012,1890.0000,"Invoice-Private",,05/10/2012,05/10/2012,,51112445MO,-3996.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,10,105.0000,1050.00,"Basic Service Fee - Studio for May: Watkins, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,10,84.0000,840.00,"Resident Care - Level 6 for May: Watkins, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,51110125,,05/10/2012,5886,"Invoice-Private",,05/10/2012,05/10/2012,,51112445MO,-3996.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... J.Watkins 201205: Watkins, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... J.Watkins 201205: Watkins, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,2604,2604,"CR:Resident Care -... J.Watkins 201205: Watkins, Joan",,,,,,,,,,,,,,,

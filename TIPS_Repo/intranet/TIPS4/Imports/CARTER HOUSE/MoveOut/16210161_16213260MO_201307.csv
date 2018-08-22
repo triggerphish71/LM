@@ -1,0 +1,5 @@
+BATCH,,201307,B,3198.0000,
+INVOICE,IN,,16210161,,07/01/2013,656.0000,"Invoice-Private",,07/01/2013,07/10/2013,,16213260MO,-4428.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,8,82.0000,656.00,"Basic Service Fee - One Bedroom for Jul: Novak, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,16210161,,07/01/2013,2542,"Invoice-Private",,07/01/2013,07/10/2013,,16213260MO,-4428.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2542,2542,"CR:Basic Service F... M.Novak 201307: Novak, Marie",,,,,,,,,,,,,,,

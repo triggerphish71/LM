@@ -1,0 +1,5 @@
+BATCH,,201308,B,40.0000,
+INVOICE,IN,,17110276,,08/01/2013,20.0000,"Invoice-Private",,08/01/2013,08/10/2013,,17115782MO,-3505.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20.0000,20.00,"Pendant Fee: Michael, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,17110276,,08/01/2013,20,"Invoice-Private",,08/01/2013,08/10/2013,,17115782MO,-3505.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20,20,"Credit for Pendant Fee: Michael, Elizabeth",,,,,,,,,,,,,,,

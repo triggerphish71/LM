@@ -1,0 +1,5 @@
+BATCH,,201111,B,660.0000,
+INVOICE,IN,,09310158,,11/01/2011,330.0000,"Invoice-Private",,11/01/2011,11/10/2011,,09314908MO,-3520.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,30,11.0000,330.00,"Credit for Limited Term Discount: Jones, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,09310158,,11/01/2011,330,"Invoice-Private",,11/01/2011,11/10/2011,,09314908MO,-3520.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,30,11,330,"Limited Term Discount: Jones, Ted",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,3998.3000,
+INVOICE,IN,,52310137,,02/24/2013,1085.1500,"Invoice-Private",,02/24/2013,02/24/2013,,52312221MO,-4886.1500,,,,,,,,,,
+TRANSACTION,3020,010103523,11,82.0000,902.00,"C.Helgeson: Basic Service Fee - Studio for Feb: Helgeson, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,11,16.6500,183.15,"Resident Care Level Change for Feb: Helgeson, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,52310137,,02/24/2013,2913.15,"Invoice-Private",,02/24/2013,02/24/2013,,52312221MO,-4886.1500,,,,,,,,,,
+TRANSACTION,3020,010103523,1,1230,1230,"CR:C.Helgeson: Bas... C.Helgeson 201302: Helgeson, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103523,1,1500,1500,"CR:New Resident Fe... C.Helgeson 201302: Helgeson, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,183.15,183.15,"CR:Resident Care L... C.Helgeson 201302: Helgeson, Clarence",,,,,,,,,,,,,,,

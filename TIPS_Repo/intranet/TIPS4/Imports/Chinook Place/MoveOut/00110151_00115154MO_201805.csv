@@ -1,0 +1,7 @@
+BATCH,,201805,B,12852.7000,
+INVOICE,IN,,00110151,,05/30/2018,6321.0000,"Invoice-Private",,05/30/2018,05/30/2018,,00115154MO,-210.7000,,,,,,,,,,
+TRANSACTION,3020,010001001,30,75.0000,2250.00,"Basic Service Fee - One Bedroom AL for May: Brashears, Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001001,30,135.7000,4071.00,"Resident Care - Level 59 for May: Brashears, Gerry",,,,,,,,,,,,,,,
+INVOICE,CM,,00110151,,05/30/2018,6531.7,"Invoice-Private",,05/30/2018,05/30/2018,,00115154MO,-210.7000,,,,,,,,,,
+TRANSACTION,3020,010001001,1,2325,2325,"CR:Basic Service F... G.Brashears 201805: Brashears, Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001001,1,4206.7,4206.7,"CR:Resident Care -... G.Brashears 201805: Brashears, Gerry",,,,,,,,,,,,,,,

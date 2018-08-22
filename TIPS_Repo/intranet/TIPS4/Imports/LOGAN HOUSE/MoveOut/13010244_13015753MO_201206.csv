@@ -1,0 +1,5 @@
+BATCH,,201206,B,54.0000,
+INVOICE,IN,,13010244,,06/01/2012,27.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13015753MO,-492.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Belli, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13010244,,06/01/2012,27,"Invoice-Private",,06/01/2012,06/10/2012,,13015753MO,-492.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Belli, Helen",,,,,,,,,,,,,,,

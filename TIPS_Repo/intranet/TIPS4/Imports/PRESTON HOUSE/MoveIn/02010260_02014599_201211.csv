@@ -1,0 +1,5 @@
+BATCH,,201211,B,3625.0000,
+INVOICE,IN,,02010260,,11/01/2012,3625.0000,"November_Rent-Brazzel. Billy",,11/01/2012,11/10/2012,,02014599,5630.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,30,94.0000,2820,"Basic Service Fee - Studio: Brazzel. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202020,30,26.0000,780,"Resident Care - Level 2: Brazzel. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Brazzel. Billy",,,,,,,,,,,,,,,

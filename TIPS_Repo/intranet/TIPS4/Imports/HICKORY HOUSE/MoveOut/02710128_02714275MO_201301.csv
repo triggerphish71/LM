@@ -1,0 +1,6 @@
+BATCH,,201301,B,4378.7500,
+INVOICE,IN,,02710128,,01/01/2013,441.7500,"Invoice-Private",,01/01/2013,01/10/2013,,02714275MO,-3688.5000,,,,,,,,,,
+TRANSACTION,3316,010202027,1,441.7500,441.75,"CR:Employee Discou... E.Fragoso 201301: Fragoso, Enrique",,,,,,,,,,,,,,,
+INVOICE,CM,,02710128,,01/01/2013,3937,"Invoice-Private",,01/01/2013,01/10/2013,,02714275MO,-3688.5000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2945,2945,"CR:Basic Service F... E.Fragoso 201301: Fragoso, Enrique",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,992,992,"CR:Resident Care -... E.Fragoso 201301: Fragoso, Enrique",,,,,,,,,,,,,,,

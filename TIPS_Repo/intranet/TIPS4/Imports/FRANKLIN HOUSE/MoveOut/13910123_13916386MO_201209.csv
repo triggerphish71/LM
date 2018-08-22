@@ -1,0 +1,8 @@
+BATCH,,201209,B,7584.3500,
+INVOICE,IN,,13910123,,09/29/2012,3739.5500,"Invoice-Private",,09/29/2012,09/29/2012,,13916386MO,-4132.7000,,,,,,,,,,
+TRANSACTION,3020,010103139,29,120.0000,3480.00,"Basic Service Fee - One Bedroom for Sep: Caldwell, Enid",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,29,8.9500,259.55,"Service : lvl 0 to lvl 5 - 9/7/12 for Sep: Caldwell, Enid",,,,,,,,,,,,,,,
+INVOICE,CM,,13910123,,09/29/2012,3844.8,"Invoice-Private",,09/29/2012,09/29/2012,,13916386MO,-4132.7000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3600,3600,"CR:Basic Service F... E.Caldwell 201209: Caldwell, Enid",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... E.Caldwell 201209: Caldwell, Enid",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,214.8,214.8,"CR:Service : lvl 0... E.Caldwell 201209: Caldwell, Enid",,,,,,,,,,,,,,,

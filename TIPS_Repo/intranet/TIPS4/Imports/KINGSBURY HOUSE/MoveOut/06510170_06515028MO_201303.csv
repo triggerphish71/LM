@@ -1,0 +1,5 @@
+BATCH,,201303,B,1860.0000,
+INVOICE,IN,,06510170,,03/01/2013,930.0000,"Invoice-Private",,03/01/2013,03/10/2013,,06515028MO,-1833.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,30.0000,930.00,"Credit for Limited Term Discount: Williams, Alene",,,,,,,,,,,,,,,
+INVOICE,CM,,06510170,,03/01/2013,930,"Invoice-Private",,03/01/2013,03/10/2013,,06515028MO,-1833.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,30,930,"Limited Term Discount: Williams, Alene",,,,,,,,,,,,,,,

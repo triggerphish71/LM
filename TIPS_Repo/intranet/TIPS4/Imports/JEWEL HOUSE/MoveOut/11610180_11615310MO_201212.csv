@@ -1,0 +1,6 @@
+BATCH,,201212,B,3720.0000,
+INVOICE,IN,,11610180,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,11615310MO,-4008.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,62.0000,62.00,"CR:Limited Term Di... E.Pocobello 201212: Pocobello, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,11610180,,12/01/2012,3658,"Invoice-Private",,12/01/2012,12/10/2012,,11615310MO,-4008.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Basic Service F... E.Pocobello 201212: Pocobello, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,558,558,"CR:Resident Care -... E.Pocobello 201212: Pocobello, Esther",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,186.0000,
+INVOICE,IN,,53410394,,07/01/2011,93.0000,"Invoice-Private",,07/01/2011,07/10/2011,,53419230MO,-1846.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Kasberger, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53410394,,07/01/2011,93,"Invoice-Private",,07/01/2011,07/10/2011,,53419230MO,-1846.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Kasberger, Jean",,,,,,,,,,,,,,,

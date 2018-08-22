@@ -1,0 +1,6 @@
+BATCH,,201110,B,5867.0000,
+INVOICE,IN,,14710258,,10/07/2011,5867.0000,"MoveIn-Metts. Lois",,10/07/2011,10/07/2011,,14715327,5867.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,25,102.0000,2550,"Basic Service Fee - Studio: Metts. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310147,25,51.0000,1275,"Resident Care - Level 3: Metts. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: Metts. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310147,1,2000.0000,2000,"New Resident Fee: Metts. Lois",,,,,,,,,,,,,,,

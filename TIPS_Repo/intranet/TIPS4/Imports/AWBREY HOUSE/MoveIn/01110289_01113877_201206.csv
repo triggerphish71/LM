@@ -1,0 +1,5 @@
+BATCH,,201206,B,3763.3000,
+INVOICE,IN,,01110289,,06/01/2012,3763.3000,"MoveIn-Shobe. Richard",,06/01/2012,06/01/2012,,01113877,3763.3000,,,,,,,,,,
+TRANSACTION,3010,010101011,30,76.0000,2280,"R.Shobe: Basic Service Fee - Studio: Shobe. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,30,16.1100,483.3,"R.Shobe: Resident Care - Level 9: Shobe. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Shobe. Richard",,,,,,,,,,,,,,,

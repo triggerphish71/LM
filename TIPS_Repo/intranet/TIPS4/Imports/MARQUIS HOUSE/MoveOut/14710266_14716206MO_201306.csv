@@ -1,0 +1,7 @@
+BATCH,,201306,B,4836.0000,
+INVOICE,IN,,14710266,,06/01/2013,156.0000,"Invoice-Private",,06/01/2013,06/01/2013,,14716206MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,103.0000,103.00,"Basic Service Fee - Studio for Jun: Hasson, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,53.0000,53.00,"Resident Care - Level 3 for Jun: Hasson, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,14710266,,06/01/2013,4680,"Invoice-Private",,06/01/2013,06/01/2013,,14716206MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3090,3090,"CR:Basic Service F... T.Hasson 201306: Hasson, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1590,1590,"CR:Resident Care -... T.Hasson 201306: Hasson, Thelma",,,,,,,,,,,,,,,

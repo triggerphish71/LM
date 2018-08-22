@@ -1,0 +1,5 @@
+BATCH,,201108,B,56.0000,
+INVOICE,IN,,01310167,,08/01/2011,28.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01313896MO,-4715.2000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Leiske, Tillman",,,,,,,,,,,,,,,
+INVOICE,CM,,01310167,,08/01/2011,28,"Invoice-Private",,08/01/2011,08/10/2011,,01313896MO,-4715.2000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Leiske, Tillman",,,,,,,,,,,,,,,

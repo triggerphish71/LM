@@ -1,0 +1,8 @@
+BATCH,,201805,B,5411.0000,
+INVOICE,IN,,1650411,,05/14/2018,2032.0000,"Invoice-Private",,05/14/2018,05/14/2018,,16517658MO,-4644.5400,,,,,,,,,,
+TRANSACTION,3017,010008165,3,20.0000,60.00,"Level: 1 : Casanova, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010008165,11,66.0000,726.00," Level: 4 : Casanova, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008165,14,89.0000,1246.00,"Basic Service Fee - Studio  for May: Casanova, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,1650411,,05/14/2018,3379,"Invoice-Private",,05/14/2018,05/14/2018,,16517658MO,-4644.5400,,,,,,,,,,
+TRANSACTION,3020,010008165,1,2759,2759,"CR:Basic Service F... A.Casanova 201805: Casanova, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008165,1,620,620,"CR:Resident Care -... A.Casanova 201805: Casanova, Arthur",,,,,,,,,,,,,,,

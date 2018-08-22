@@ -1,0 +1,5 @@
+BATCH,,201107,B,3528.0000,
+INVOICE,IN,,14410230,,07/17/2011,3528.0000,"MoveIn-Hughes. John",,07/17/2011,07/17/2011,,14414714,3528.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,15,120.0000,1800,"Basic Service Fee - One Bedroom    : Hughes. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Hughes. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,1700.0000,1700,"New Resident Fee: Hughes. John",,,,,,,,,,,,,,,

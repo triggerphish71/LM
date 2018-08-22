@@ -1,0 +1,5 @@
+BATCH,,201107,B,1386.0000,
+INVOICE,IN,,14610233,,07/28/2011,1386.0000,"MoveIn-Ashby. Mabel",,07/28/2011,07/28/2011,,14614110,4175.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,4,89.0000,356,"Basic Service Fee - Studio         : Ashby. Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Ashby. Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,1000.0000,1000,"New Resident Fee: Ashby. Mabel",,,,,,,,,,,,,,,

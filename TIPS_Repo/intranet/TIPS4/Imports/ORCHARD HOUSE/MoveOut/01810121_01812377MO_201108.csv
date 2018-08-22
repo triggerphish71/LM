@@ -1,0 +1,5 @@
+BATCH,,201108,B,558.0000,
+INVOICE,IN,,01810121,,08/01/2011,279.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01812377MO,-2993.0000,,,,,,,,,,
+TRANSACTION,3320,010103018,31,9.0000,279.00,"Credit for Limited Term Discount: Donaldson, Lenore",,,,,,,,,,,,,,,
+INVOICE,CM,,01810121,,08/01/2011,279,"Invoice-Private",,08/01/2011,08/10/2011,,01812377MO,-2993.0000,,,,,,,,,,
+TRANSACTION,3320,010103018,31,9,279,"Limited Term Discount: Donaldson, Lenore",,,,,,,,,,,,,,,

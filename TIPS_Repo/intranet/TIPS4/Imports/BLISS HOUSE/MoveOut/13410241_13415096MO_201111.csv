@@ -1,0 +1,5 @@
+BATCH,,201111,B,3471.0000,
+INVOICE,IN,,13410241,,11/09/2011,801.0000,"Invoice-Private",,11/09/2011,11/09/2011,,13415096MO,-1869.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,9,89.0000,801.00,"Basic Service Fee - Studio for Nov: Elliott, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13410241,,11/09/2011,2670,"Invoice-Private",,11/09/2011,11/09/2011,,13415096MO,-1869.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2670,2670,"CR:Basic Service F... M.Elliott 201111: Elliott, Mary",,,,,,,,,,,,,,,

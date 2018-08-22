@@ -1,0 +1,8 @@
+BATCH,,201304,B,4216.0000,
+INVOICE,IN,,02411306,,04/29/2013,2059.0000,"Invoice-Private",,04/29/2013,04/29/2013,,02416151MO,-2326.0000,,,,,,,,,,
+TRANSACTION,3027,010202024,29,16.0000,464.00,"Resident Care - Level 1 for Apr: Pruett, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,29,55.0000,1595.00,"Room and Board - Studio for Apr: Pruett, Gayle",,,,,,,,,,,,,,,
+INVOICE,CM,,02411306,,04/29/2013,2157,"Invoice-Private",,04/29/2013,04/29/2013,,02416151MO,-2326.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... G.Pruett 201304: Pruett, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,480,480,"CR:Resident Care -... G.Pruett 201304: Pruett, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,1,1650,1650,"CR:Room and Board ... G.Pruett 201304: Pruett, Gayle",,,,,,,,,,,,,,,

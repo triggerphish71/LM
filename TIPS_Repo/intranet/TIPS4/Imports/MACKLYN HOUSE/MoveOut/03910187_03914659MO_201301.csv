@@ -1,0 +1,6 @@
+BATCH,,201301,B,4052.0000,
+INVOICE,IN,,03910187,,01/03/2013,1262.0000,"Invoice-Private",,01/03/2013,01/03/2013,,03914659MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3320,010101039,1,992.0000,992.00,"CR:Limited Term Di... F.Van Lith 201301: Van Lith, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,3,90.0000,270.00,"Basic Service Fee - Studio for Jan: Van Lith, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,03910187,,01/03/2013,2790,"Invoice-Private",,01/03/2013,01/03/2013,,03914659MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... F.Van Lith 201301: Van Lith, Frank",,,,,,,,,,,,,,,

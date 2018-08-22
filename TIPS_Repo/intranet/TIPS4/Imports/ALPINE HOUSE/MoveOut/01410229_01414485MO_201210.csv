@@ -1,0 +1,6 @@
+BATCH,,201210,B,4775.0000,
+INVOICE,IN,,01410229,,10/17/2012,1805.0000,"Invoice-Private",,10/17/2012,10/17/2012,,01414485MO,-4015.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,19,95.0000,1805.00,"Basic Service Fee - Studio for Oct: Richardson, Eulene",,,,,,,,,,,,,,,
+INVOICE,CM,,01410229,,10/17/2012,2970,"Invoice-Private",,10/17/2012,10/17/2012,,01414485MO,-4015.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2945,2945,"CR:Basic Service F... E.Richardson 201210: Richardson, Eulene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... E.Richardson 201210: Richardson, Eulene",,,,,,,,,,,,,,,

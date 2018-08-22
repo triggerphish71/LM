@@ -1,0 +1,8 @@
+BATCH,,201208,B,7716.5200,
+INVOICE,IN,,03810240,,08/23/2012,3891.7400,"Invoice-Private",,08/23/2012,08/23/2012,,03814308MO,-2614.4400,,,,,,,,,,
+TRANSACTION,3320,010103038,1,1054.0000,1054.00,"CR:Limited Term Di... M.Kurtz 201208: Kurtz, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103038,23,84.0000,1932.00,"Basic Service Fee - Studio for Aug: Kurtz, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,23,39.3800,905.74,"Resident Care - Level 22 for Aug: Kurtz, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,03810240,,08/23/2012,3824.78,"Invoice-Private",,08/23/2012,08/23/2012,,03814308MO,-2614.4400,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2604,2604,"CR:Basic Service F... M.Kurtz 201208: Kurtz, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,1220.78,1220.78,"CR:Resident Care -... M.Kurtz 201208: Kurtz, Marvin",,,,,,,,,,,,,,,

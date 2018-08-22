@@ -1,0 +1,7 @@
+BATCH,,201111,B,240.0000,
+INVOICE,IN,,53410333,,11/01/2011,120.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53419837MO,-2129.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Marchiando, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,30,3.0000,90.00,"Credit for Limited Term Discount: Marchiando, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,53410333,,11/01/2011,120,"Invoice-Private",,11/01/2011,11/10/2011,,53419837MO,-2129.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Marchiando, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,30,3,90,"Limited Term Discount: Marchiando, Dorothy",,,,,,,,,,,,,,,

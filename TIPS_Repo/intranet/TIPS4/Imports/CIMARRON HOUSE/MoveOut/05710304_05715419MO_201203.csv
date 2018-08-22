@@ -1,0 +1,7 @@
+BATCH,,201203,B,1748.0000,
+INVOICE,IN,,05710304,,03/07/2012,322.0000,"Invoice-Private",,03/07/2012,03/07/2012,,05715419MO,-1104.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,7,30.0000,210.00,"Basic Service Fee - Second Resident for Mar: Howell, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,7,16.0000,112.00,"Resident Care - Level 1 for Mar: Howell, Robbie",,,,,,,,,,,,,,,
+INVOICE,CM,,05710304,,03/07/2012,1426,"Invoice-Private",,03/07/2012,03/07/2012,,05715419MO,-1104.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,930,930,"CR:Basic Service F... R.Howell 201203: Howell, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,496,496,"CR:Resident Care -... R.Howell 201203: Howell, Robbie",,,,,,,,,,,,,,,

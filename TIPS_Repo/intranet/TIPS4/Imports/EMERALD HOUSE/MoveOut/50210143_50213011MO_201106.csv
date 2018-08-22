@@ -1,0 +1,7 @@
+BATCH,,201106,B,4888.0000,
+INVOICE,IN,,50210143,,06/01/2011,2068.0000,"Invoice-Private",,06/01/2011,06/10/2011,,50213011MO,-752.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,22,80.0000,1760.00,"Basic Service Fee - Studio for Jun: Pickett, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,22,14.0000,308.00,"Resident Care - Level 1 for Jun: Pickett, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,50210143,,06/01/2011,2820,"Invoice-Private",,06/01/2011,06/10/2011,,50213011MO,-752.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2400,2400,"CR:Basic Service F... C.Pickett 201106: Pickett, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,420,420,"CR:Resident Care -... C.Pickett 201106: Pickett, Clarence",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,2736.0000,
+INVOICE,IN,,17410275,,03/26/2013,456.0000,"MoveIn-Stockwell. Lois",,03/26/2013,03/26/2013,,17414686,2736.0000,,,,,,,,,,
+TRANSACTION,3014,010309174,6,31.0000,186,"L.Stockwell: Basic Service Fee - Second Resident: Stockwell. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,6,45.0000,270,"L.Stockwell: Resident Care - Level 3: Stockwell. Lois",,,,,,,,,,,,,,,
+INVOICE,IN,,17410275,,04/01/2013,2280.0000,"April_Rent-Stockwell. Lois",,04/01/2013,04/10/2013,,17414686,2736.0000,,,,,,,,,,
+TRANSACTION,3010,010309174,30,31.0000,930,"L.Stockwell: Basic Service Fee - Second Resident: Stockwell. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,30,45.0000,1350,"L.Stockwell: Resident Care - Level 3: Stockwell. Lois",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,7756.0000,
+INVOICE,IN,,15010170,,05/11/2012,2079.0000,"Invoice-Private",,05/11/2012,05/11/2012,,15014455MO,-3598.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,11,120.0000,1320.00,"Basic Service Fee- One Bedroom Prem for May: Lee, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,11,69.0000,759.00,"Service : lvl 0 to lvl 5 - 5/4/12 for May: Lee, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,15010170,,05/11/2012,5677,"Invoice-Private",,05/11/2012,05/11/2012,,15014455MO,-3598.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,3720,3720,"CR:Basic Service F... K.Lee 201205: Lee, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25,25,"CR:Monthly Cable... K.Lee 201205: Lee, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,1,1932,1932,"CR:Service : lvl 0... K.Lee 201205: Lee, Kathryn",,,,,,,,,,,,,,,

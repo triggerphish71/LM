@@ -1,0 +1,6 @@
+BATCH,,201307,B,3276.2500,
+INVOICE,IN,,04910227,,07/19/2013,3276.2500,"MoveIn-Barrows. Larry",,07/19/2013,07/19/2013,,04913671,6285.0000,,,,,,,,,,
+TRANSACTION,3010,010101049,13,87.0000,1131,"Basic Service Fee - Studio: Barrows. Larry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,13,9.2500,120.25,"Resident Care - Level 5: Barrows. Larry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Barrows. Larry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Barrows. Larry",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,360.0000,
+INVOICE,IN,,07410179,,06/01/2011,180.0000,"Invoice-Private",,06/01/2011,06/10/2011,,07413511MO,-3364.0000,,,,,,,,,,
+TRANSACTION,3320,010305074,30,6.0000,180.00,"Credit for Limited Term Discount: Waggoner, Lela",,,,,,,,,,,,,,,
+INVOICE,CM,,07410179,,06/01/2011,180,"Invoice-Private",,06/01/2011,06/10/2011,,07413511MO,-3364.0000,,,,,,,,,,
+TRANSACTION,3320,010305074,30,6,180,"Limited Term Discount: Waggoner, Lela",,,,,,,,,,,,,,,

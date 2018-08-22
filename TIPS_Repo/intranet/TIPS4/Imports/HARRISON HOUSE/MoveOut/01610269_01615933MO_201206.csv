@@ -1,0 +1,5 @@
+BATCH,,201206,B,1908.0000,
+INVOICE,IN,,01610269,,06/23/2012,828.0000,"Invoice-Private",,06/23/2012,06/23/2012,,01615933MO,-1368.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,23,36.0000,828.00,"Basic Service Fee - Second Resident for Jun: Ethridge, Sam",,,,,,,,,,,,,,,
+INVOICE,CM,,01610269,,06/23/2012,1080,"Invoice-Private",,06/23/2012,06/23/2012,,01615933MO,-1368.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,1080,1080,"CR:Basic Service F... S.Ethridge 201206: Ethridge, Sam",,,,,,,,,,,,,,,

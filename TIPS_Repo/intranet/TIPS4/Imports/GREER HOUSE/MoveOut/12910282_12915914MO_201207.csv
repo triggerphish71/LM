@@ -1,0 +1,5 @@
+BATCH,,201207,B,60.0000,
+INVOICE,IN,,12910282,,07/01/2012,30.0000,"Invoice-Private",,07/01/2012,07/10/2012,,12915914MO,-426.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Natcher, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,12910282,,07/01/2012,30,"Invoice-Private",,07/01/2012,07/10/2012,,12915914MO,-426.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Natcher, Betty",,,,,,,,,,,,,,,

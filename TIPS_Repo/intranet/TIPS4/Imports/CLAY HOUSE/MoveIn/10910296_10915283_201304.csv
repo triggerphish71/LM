@@ -1,0 +1,5 @@
+BATCH,,201304,B,3081.0000,
+INVOICE,IN,,10910296,,04/19/2013,3081.0000,"MoveIn-Fitz. Rose",,04/19/2013,04/19/2013,,10915283,5834.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,12,88.0000,1056,"R.Fitz: Basic Service Fee - Deluxe: Fitz. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Fitz. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Fitz. Rose",,,,,,,,,,,,,,,

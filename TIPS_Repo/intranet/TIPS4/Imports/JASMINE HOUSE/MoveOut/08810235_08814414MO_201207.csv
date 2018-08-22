@@ -1,0 +1,7 @@
+BATCH,,201207,B,7056.0000,
+INVOICE,IN,,08810235,,07/01/2012,3150.0000,"Invoice-Private",,07/01/2012,07/10/2012,,08814414MO,-756.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,25,97.0000,2425.00,"Basic Service Fee - Studio for Jul: Mills, Van",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,25,29.0000,725.00,"Resident Care - Level 2 for Jul: Mills, Van",,,,,,,,,,,,,,,
+INVOICE,CM,,08810235,,07/01/2012,3906,"Invoice-Private",,07/01/2012,07/10/2012,,08814414MO,-756.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... V.Mills 201207: Mills, Van",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,899,899,"CR:Resident Care -... V.Mills 201207: Mills, Van",,,,,,,,,,,,,,,

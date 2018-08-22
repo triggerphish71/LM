@@ -1,0 +1,5 @@
+BATCH,,201203,B,54.0000,
+INVOICE,IN,,01710081,,03/01/2012,27.0000,"Invoice-Private",,03/01/2012,03/10/2012,,01713530MO,-2421.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Bassett, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,01710081,,03/01/2012,27,"Invoice-Private",,03/01/2012,03/10/2012,,01713530MO,-2421.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Bassett, Agnes",,,,,,,,,,,,,,,

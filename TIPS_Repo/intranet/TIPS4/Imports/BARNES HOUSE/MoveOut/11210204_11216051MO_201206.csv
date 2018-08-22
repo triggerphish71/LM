@@ -1,0 +1,7 @@
+BATCH,,201206,B,6844.0000,
+INVOICE,IN,,11210204,,06/29/2012,3364.0000,"Invoice-Private",,06/29/2012,06/29/2012,,11216051MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,29,97.0000,2813.00,"Basic Service Fee - Studio for Jun: Adams, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,29,19.0000,551.00,"Resident Care - Level 1 for Jun: Adams, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,11210204,,06/29/2012,3480,"Invoice-Private",,06/29/2012,06/29/2012,,11216051MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,2910,2910,"CR:Basic Service F... H.Adams 201206: Adams, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,570,570,"CR:Resident Care -... H.Adams 201206: Adams, Helen",,,,,,,,,,,,,,,

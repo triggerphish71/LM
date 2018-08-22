@@ -1,0 +1,6 @@
+BATCH,,201105,B,4755.0000,
+INVOICE,IN,,11010326,,05/06/2011,4755.0000,"MoveIn-Hruska. Marge",,05/06/2011,05/06/2011,,11014549,4755.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,26,91.0000,2366,"Basic Service Fee - Studio         : Hruska. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,26,14.0000,364,"Resident Care - Level 1: Hruska. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Hruska. Marge",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Hruska. Marge",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,4008.0000,
+INVOICE,IN,,52510158,,03/23/2012,4008.0000,"MoveIn-Wagner. Russel",,03/23/2012,03/23/2012,,52512465,7368.0000,,,,,,,,,,
+TRANSACTION,3010,010319525,9,112.0000,1008,"R.Wagner: Basic Service Fee - Studio: Wagner. Russel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319525,1,2500.0000,2500,"New Resident Fee: Wagner. Russel",,,,,,,,,,,,,,,
+TRANSACTION,3213,010319525,1,500.0000,500,"Pet Fee: Wagner. Russel",,,,,,,,,,,,,,,

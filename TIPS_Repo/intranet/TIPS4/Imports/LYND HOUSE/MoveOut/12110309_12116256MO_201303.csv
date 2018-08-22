@@ -1,0 +1,8 @@
+BATCH,,201303,B,3368.0000,
+INVOICE,IN,,12110309,,03/01/2013,202.0000,"Invoice-Private",,03/01/2013,03/10/2013,,12116256MO,-2964.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,2,85.0000,170.00,"Basic Service Fee- One Bedroom Prem for Mar: Holt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,2,16.0000,32.00,"Resident Care - Level 1 for Mar: Holt, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,12110309,,03/01/2013,3166,"Invoice-Private",,03/01/2013,03/10/2013,,12116256MO,-2964.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2635,2635,"CR:Basic Service F... V.Holt 201303: Holt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... V.Holt 201303: Holt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,496,496,"CR:Resident Care -... V.Holt 201303: Holt, Virginia",,,,,,,,,,,,,,,

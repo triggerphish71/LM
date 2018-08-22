@@ -1,0 +1,5 @@
+BATCH,,201302,B,3612.0000,
+INVOICE,CM,,18910244,,02/01/2013,3612,"Invoice-Private",,02/01/2013,02/10/2013,,18915653MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,1400,1400,"CR:Basic Service F... K.Walkup 201302: Walkup, Ketha",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,280,280,"CR:CC Meals... K.Walkup 201302: Walkup, Ketha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1932,1932,"CR:Resident Care -... K.Walkup 201302: Walkup, Ketha",,,,,,,,,,,,,,,

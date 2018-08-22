@@ -1,0 +1,8 @@
+BATCH,,201108,B,7579.0000,
+INVOICE,IN,,16310289,,08/01/2011,3584.0000,"Invoice-Private",,08/01/2011,08/10/2011,,16316398MO,-4251.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,28,104.0000,2912.00,"Basic Service Fee - Studio Deluxe for Aug: Wileman, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,28,24.0000,672.00,"Resident Care - Level 2 for Aug: Wileman, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,16310289,,08/01/2011,3995,"Invoice-Private",,08/01/2011,08/10/2011,,16316398MO,-4251.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3224,3224,"CR:Basic Service F... B.Wileman 201108: Wileman, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... B.Wileman 201108: Wileman, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,744,744,"CR:Resident Care -... B.Wileman 201108: Wileman, Bob",,,,,,,,,,,,,,,

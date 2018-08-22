@@ -1,0 +1,6 @@
+BATCH,,201802,B,9806.6700,
+INVOICE,IN,,06110316,,02/26/2018,3296.6700,"MoveIn-Goodwin. Elden",,02/26/2018,02/26/2018,,06115664,9806.6700,,,,,,,,,,
+TRANSACTION,3010,010003061,3,95.0000,285,"Basic Service Fee - Studio: Goodwin. Elden",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003061,3,115.0000,345,"Resident Care - Level 50: Goodwin. Elden",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003061,1,2000.0000,2000,"Community Fee: Goodwin. Elden",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003061,1,666.6700,666.67,"Monthly Deferral Charge: Goodwin. Elden",,,,,,,,,,,,,,,

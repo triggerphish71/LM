@@ -1,0 +1,8 @@
+BATCH,,201205,B,9201.8400,
+INVOICE,IN,,06210223,,05/01/2012,4513.2000,"Invoice-Private",,05/01/2012,05/10/2012,,06213758MO,-175.4400,,,,,,,,,,
+TRANSACTION,3027,010101062,30,64.4400,1933.20,"Resident Care - Level 36 for May: Long, Charolette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101062,30,86.0000,2580.00,"Room and Board - Studio for May: Long, Charolette",,,,,,,,,,,,,,,
+INVOICE,CM,,06210223,,05/01/2012,4688.64,"Invoice-Private",,05/01/2012,05/10/2012,,06213758MO,-175.4400,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"CR:Monthly Cable... C.Long 201205: Long, Charolette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1997.64,1997.64,"CR:Resident Care -... C.Long 201205: Long, Charolette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2666,2666,"CR:Room and Board ... C.Long 201205: Long, Charolette",,,,,,,,,,,,,,,

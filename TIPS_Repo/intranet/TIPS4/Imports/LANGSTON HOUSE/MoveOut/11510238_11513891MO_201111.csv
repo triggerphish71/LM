@@ -1,0 +1,5 @@
+BATCH,,201111,B,1800.0000,
+INVOICE,IN,,11510238,,11/01/2011,900.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11513891MO,-390.0000,,,,,,,,,,
+TRANSACTION,3321,010308115,30,30.0000,900.00,"Credit for 2nd Resident Free Discount: Harris, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,11510238,,11/01/2011,900,"Invoice-Private",,11/01/2011,11/10/2011,,11513891MO,-390.0000,,,,,,,,,,
+TRANSACTION,3321,010308115,30,30,900,"2nd Resident Free Discount: Harris, Fred",,,,,,,,,,,,,,,

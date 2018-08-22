@@ -1,0 +1,8 @@
+BATCH,,201105,B,5710.2000,
+INVOICE,IN,,03610274,,05/01/2011,1522.1000,"Invoice-Private",,05/01/2011,05/10/2011,,03614633MO,-2666.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,837.0000,837.00,"CR:Limited Term Di... J.Dyson 201105: Dyson, John",,,,,,,,,,,,,,,
+TRANSACTION,3019,010202036,31,22.1000,685.10,"Additional Service Charge: Dyson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03610274,,05/01/2011,4188.1,"Invoice-Private",,05/01/2011,05/10/2011,,03614633MO,-2666.0000,,,,,,,,,,
+TRANSACTION,3027,010202036,1,496,496,"CR:Resident Care -... J.Dyson 201105: Dyson, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3007,3007,"CR:Room and Board ... J.Dyson 201105: Dyson, John",,,,,,,,,,,,,,,
+TRANSACTION,3019,010202036,31,22.1,685.1,"Credit for Additional Service Charge: Dyson, John",,,,,,,,,,,,,,,

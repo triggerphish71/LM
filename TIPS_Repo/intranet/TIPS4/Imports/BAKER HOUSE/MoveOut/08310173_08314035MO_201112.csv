@@ -1,0 +1,8 @@
+BATCH,,201112,B,8592.0000,
+INVOICE,IN,,08310173,,12/16/2011,3477.0000,"Invoice-Private",,12/16/2011,12/16/2011,,08314035MO,-1638.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,837.0000,837.00,"CR:Limited Term Di... J.Barone 201112: Barone, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,16,130.0000,2080.00,"Basic Service Fee - One Bedroom for Dec: Barone, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,16,35.0000,560.00,"Resident Care - Level 2 for Dec: Barone, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,08310173,,12/16/2011,5115,"Invoice-Private",,12/16/2011,12/16/2011,,08314035MO,-1638.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,4030,4030,"CR:Basic Service F... J.Barone 201112: Barone, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1085,1085,"CR:Resident Care -... J.Barone 201112: Barone, Joseph",,,,,,,,,,,,,,,

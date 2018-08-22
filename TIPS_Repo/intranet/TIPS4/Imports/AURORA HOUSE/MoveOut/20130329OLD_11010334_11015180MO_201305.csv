@@ -1,0 +1,7 @@
+BATCH,,201305,B,250.0000,
+INVOICE,IN,,11010334,,05/01/2013,125.0000,"Invoice-Private",,05/01/2013,05/10/2013,,11015180MO,-4386.0000,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25.00,"Monthly Cable: Swanson, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,1,100.0000,100.00,"Room Upgrade 3010: Swanson, Marcella",,,,,,,,,,,,,,,
+INVOICE,CM,,11010334,,05/01/2013,125,"Invoice-Private",,05/01/2013,05/10/2013,,11015180MO,-4386.0000,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25,25,"Credit for Monthly Cable: Swanson, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,1,100,100,"Credit for Room Upgrade 3010: Swanson, Marcella",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,1603.0000,
+INVOICE,IN,,19310353,,01/31/2012,1603.0000,"MoveIn-Goldstein. Norman",,01/31/2012,01/31/2012,,19315082,4590.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,1,76.0000,76,"Basic Service Fee - Studio: Goldstein. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,1,17.0000,17,"Resident Care - Level 1: Goldstein. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Goldstein. Norman",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,10.0000,10,"CC Meals: Goldstein. Norman",,,,,,,,,,,,,,,

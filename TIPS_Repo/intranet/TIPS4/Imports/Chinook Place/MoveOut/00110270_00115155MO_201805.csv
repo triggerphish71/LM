@@ -1,0 +1,7 @@
+BATCH,,201805,B,5880.4000,
+INVOICE,IN,,00110270,,05/30/2018,2892.0000,"Invoice-Private",,05/30/2018,05/30/2018,,00115155MO,-96.4000,,,,,,,,,,
+TRANSACTION,3020,010001001,30,78.0000,2340.00,"Basic Service Fee - Studio AL for May: Woerz, Lesley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001001,30,18.4000,552.00,"Resident Care - Level 8 for May: Woerz, Lesley",,,,,,,,,,,,,,,
+INVOICE,CM,,00110270,,05/30/2018,2988.4,"Invoice-Private",,05/30/2018,05/30/2018,,00115155MO,-96.4000,,,,,,,,,,
+TRANSACTION,3020,010001001,1,2418,2418,"CR:Basic Service F... L.Woerz 201805: Woerz, Lesley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001001,1,570.4,570.4,"CR:Resident Care -... L.Woerz 201805: Woerz, Lesley",,,,,,,,,,,,,,,

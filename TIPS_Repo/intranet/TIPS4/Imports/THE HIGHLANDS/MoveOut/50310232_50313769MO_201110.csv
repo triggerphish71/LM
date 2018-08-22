@@ -1,0 +1,6 @@
+BATCH,,201110,B,2843.0000,
+INVOICE,IN,,50310232,,10/08/2011,576.0000,"Invoice-Private",,10/08/2011,10/08/2011,,50313769MO,-1691.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,8,72.0000,576.00,"Basic Service Fee - Studio for Oct: Griffin, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50310232,,10/08/2011,2267,"Invoice-Private",,10/08/2011,10/08/2011,,50313769MO,-1691.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2232,2232,"CR:Basic Service F... C.Griffin 201110: Griffin, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... C.Griffin 201110: Griffin, Charles",,,,,,,,,,,,,,,

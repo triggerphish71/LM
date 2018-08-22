@@ -1,0 +1,7 @@
+BATCH,,201210,B,3456.0000,
+INVOICE,IN,,17910223,,10/01/2012,480.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17915094MO,-2496.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,5,82.0000,410.00,"Basic Service Fee - Studio for Oct: Cushman, Luther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,5,14.0000,70.00,"Resident Care - Level 1 for Oct: Cushman, Luther",,,,,,,,,,,,,,,
+INVOICE,CM,,17910223,,10/01/2012,2976,"Invoice-Private",,10/01/2012,10/10/2012,,17915094MO,-2496.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Basic Service F... L.Cushman 201210: Cushman, Luther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,434,434,"CR:Resident Care -... L.Cushman 201210: Cushman, Luther",,,,,,,,,,,,,,,

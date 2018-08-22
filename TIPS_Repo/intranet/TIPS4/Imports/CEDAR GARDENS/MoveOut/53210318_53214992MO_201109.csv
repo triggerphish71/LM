@@ -1,0 +1,7 @@
+BATCH,,201109,B,6493.0000,
+INVOICE,IN,,53210318,,09/01/2011,1963.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53214992MO,-2567.0000,,,,,,,,,,
+TRANSACTION,3027,010319532,13,42.0000,546.00,"Resident Care - Level 3 for Sep: Gordon, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319532,13,109.0000,1417.00,"Room and Board - Studio for Sep: Gordon, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,53210318,,09/01/2011,4530,"Invoice-Private",,09/01/2011,09/10/2011,,53214992MO,-2567.0000,,,,,,,,,,
+TRANSACTION,3027,010319532,1,1260,1260,"CR:Resident Care -... D.Gordon 201109: Gordon, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3270,3270,"CR:Room and Board ... D.Gordon 201109: Gordon, Dorothy",,,,,,,,,,,,,,,

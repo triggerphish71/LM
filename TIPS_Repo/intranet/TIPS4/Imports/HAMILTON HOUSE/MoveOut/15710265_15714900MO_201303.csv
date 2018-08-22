@@ -1,0 +1,7 @@
+BATCH,,201303,B,1462.0000,
+INVOICE,IN,,15710265,,03/01/2013,129.0000,"Invoice-Private",,03/01/2013,03/10/2013,,15714900MO,-1204.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,3,10.0000,30.00,"Basic Service Fee - Second Resident for Mar: Bennett, Vesta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,3,33.0000,99.00,"Resident Care - Level 2 for Mar: Bennett, Vesta",,,,,,,,,,,,,,,
+INVOICE,CM,,15710265,,03/01/2013,1333,"Invoice-Private",,03/01/2013,03/10/2013,,15714900MO,-1204.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,310,310,"CR:Basic Service F... V.Bennett 201303: Bennett, Vesta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1023,1023,"CR:Resident Care -... V.Bennett 201303: Bennett, Vesta",,,,,,,,,,,,,,,

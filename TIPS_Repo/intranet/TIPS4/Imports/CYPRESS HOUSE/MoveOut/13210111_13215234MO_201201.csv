@@ -1,0 +1,8 @@
+BATCH,,201201,B,6231.0000,
+INVOICE,IN,,13210111,,01/04/2012,1833.0000,"Invoice-Private",,01/04/2012,01/04/2012,,13215234MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,13,124.0000,1612.00,"Basic Service Fee - One Bedroom for Jan: Case, Verneil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,13,17.0000,221.00,"Resident Care - Level 1 for Jan: Case, Verneil",,,,,,,,,,,,,,,
+INVOICE,CM,,13210111,,01/04/2012,4398,"Invoice-Private",,01/04/2012,01/04/2012,,13215234MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3844,3844,"CR:Basic Service F... V.Case 201201: Case, Verneil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... V.Case 201201: Case, Verneil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,527,527,"CR:Resident Care -... V.Case 201201: Case, Verneil",,,,,,,,,,,,,,,

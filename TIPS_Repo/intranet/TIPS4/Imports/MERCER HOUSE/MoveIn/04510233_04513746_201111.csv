@@ -1,0 +1,5 @@
+BATCH,,201111,B,3087.0000,
+INVOICE,IN,,04510233,,11/01/2011,3087.0000,"November_Rent-Jackson. John",,11/01/2011,11/10/2011,,04513746,5022.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,30,73.0000,2190,"Basic Service Fee - Studio         : Jackson. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,30,29.0000,870,"Resident Care - Level 2: Jackson. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Jackson. John",,,,,,,,,,,,,,,

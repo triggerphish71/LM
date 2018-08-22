@@ -1,0 +1,7 @@
+BATCH,,201112,B,4864.0000,
+INVOICE,IN,,08910128,,12/01/2011,152.0000,"Invoice-Private",,12/01/2011,12/01/2011,,08914568MO,-4560.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,117.0000,117.00,"Basic Service Fee - Deluxe for Dec: Breeden, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,35.0000,35.00,"Resident Care - Level 2 for Dec: Breeden, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,08910128,,12/01/2011,4712,"Invoice-Private",,12/01/2011,12/01/2011,,08914568MO,-4560.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3627,3627,"CR:Basic Service F... W.Breeden 201112: Breeden, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1085,1085,"CR:Resident Care -... W.Breeden 201112: Breeden, Wilbur",,,,,,,,,,,,,,,

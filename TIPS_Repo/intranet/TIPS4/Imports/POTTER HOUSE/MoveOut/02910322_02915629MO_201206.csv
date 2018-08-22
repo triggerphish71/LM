@@ -1,0 +1,7 @@
+BATCH,,201206,B,7776.0000,
+INVOICE,IN,,02910322,,06/01/2012,3456.0000,"Invoice-Private",,06/01/2012,06/01/2012,,02915629MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,24,100.0000,2400.00,"Basic Service Fee - Studio for Jun: Benham, Farris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,24,44.0000,1056.00,"Resident Care - Level 3 for Jun: Benham, Farris",,,,,,,,,,,,,,,
+INVOICE,CM,,02910322,,06/01/2012,4320,"Invoice-Private",,06/01/2012,06/01/2012,,02915629MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3000,3000,"CR:Basic Service F... F.Benham 201206: Benham, Farris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1320,1320,"CR:Resident Care -... F.Benham 201206: Benham, Farris",,,,,,,,,,,,,,,

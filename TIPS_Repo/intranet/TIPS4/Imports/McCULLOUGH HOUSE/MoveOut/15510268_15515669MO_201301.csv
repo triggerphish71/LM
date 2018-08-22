@@ -1,0 +1,6 @@
+BATCH,,201301,B,5365.0000,
+INVOICE,IN,,15510268,,01/22/2013,2581.0000,"Invoice-Private",,01/22/2013,01/22/2013,,15515669MO,-4652.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,29,89.0000,2581.00,"Basic Service Fee - Studio for Jan: Kerrick, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,15510268,,01/22/2013,2784,"Invoice-Private",,01/22/2013,01/22/2013,,15515669MO,-4652.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... K.Kerrick 201301: Kerrick, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... K.Kerrick 201301: Kerrick, Kenneth",,,,,,,,,,,,,,,

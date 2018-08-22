@@ -1,0 +1,8 @@
+BATCH,,201106,B,5439.0000,
+INVOICE,IN,,13210195,,06/01/2011,492.0000,"Invoice-Private",,06/01/2011,06/10/2011,,13214935MO,-4455.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,3,95.0000,285.00,"Basic Service Fee - Studio for Jun: Williams, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,3,69.0000,207.00,"Resident Care - Level 5 for Jun: Williams, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13210195,,06/01/2011,4947,"Invoice-Private",,06/01/2011,06/10/2011,,13214935MO,-4455.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2850,2850,"CR:Basic Service F... D.Williams 201106: Williams, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... D.Williams 201106: Williams, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,2070,2070,"CR:Resident Care -... D.Williams 201106: Williams, Dorothy",,,,,,,,,,,,,,,

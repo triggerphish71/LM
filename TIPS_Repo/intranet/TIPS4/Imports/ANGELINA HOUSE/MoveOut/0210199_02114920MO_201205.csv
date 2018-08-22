@@ -1,0 +1,7 @@
+BATCH,,201205,B,7616.0000,
+INVOICE,IN,,0210199,,05/01/2012,3400.0000,"Invoice-Private",,05/01/2012,05/10/2012,,02114920MO,-4896.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,25,119.0000,2975.00,"Basic Service Fee - One Bedroom for May: Williams, Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,25,17.0000,425.00,"Resident Care - Level 1 for May: Williams, Jewel",,,,,,,,,,,,,,,
+INVOICE,CM,,0210199,,05/01/2012,4216,"Invoice-Private",,05/01/2012,05/10/2012,,02114920MO,-4896.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,3689,3689,"CR:Basic Service F... J.Williams 201205: Williams, Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,527,527,"CR:Resident Care -... J.Williams 201205: Williams, Jewel",,,,,,,,,,,,,,,

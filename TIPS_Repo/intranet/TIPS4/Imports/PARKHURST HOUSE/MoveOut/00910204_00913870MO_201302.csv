@@ -1,0 +1,5 @@
+BATCH,,201302,B,2968.0000,
+INVOICE,IN,,00910204,,02/01/2013,1484.0000,"Invoice-Private",,02/01/2013,02/10/2013,,00913870MO,355.7000,,,,,,,,,,
+TRANSACTION,3320,010101009,28,53.0000,1484.00,"Credit for Limited Term Discount: Rose, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,00910204,,02/01/2013,1484,"Invoice-Private",,02/01/2013,02/10/2013,,00913870MO,355.7000,,,,,,,,,,
+TRANSACTION,3320,010101009,28,53,1484,"Limited Term Discount: Rose, Harold",,,,,,,,,,,,,,,

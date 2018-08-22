@@ -1,0 +1,6 @@
+BATCH,,201207,B,657.0000,
+INVOICE,IN,,10010225,,07/31/2012,657.0000,"MoveIn-Ferreyra. Lila",,07/31/2012,07/31/2012,,10013923,4774.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,1,75.0000,75,"Basic Service Fee - Studio: Ferreyra. Lila",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,1,57.0000,57,"Resident Care - Level 4: Ferreyra. Lila",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Ferreyra. Lila",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Ferreyra. Lila",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,4725.0000,
+INVOICE,IN,,07010198,,01/14/2012,1470.0000,"Invoice-Private",,01/14/2012,01/14/2012,,07014237MO,-1785.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,14,89.0000,1246.00,"Basic Service Fee - Studio for Jan: Johnson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,14,16.0000,224.00,"Resident Care - Level 1 for Jan: Johnson, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,07010198,,01/14/2012,3255,"Invoice-Private",,01/14/2012,01/14/2012,,07014237MO,-1785.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2759,2759,"CR:Basic Service F... R.Johnson 201201: Johnson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,496,496,"CR:Resident Care -... R.Johnson 201201: Johnson, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201105,B,5901.0000,
+INVOICE,IN,,13510143,,05/26/2011,2678.0000,"Invoice-Private",,05/26/2011,05/26/2011,,13514684MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,26,87.0000,2262.00,"Basic Service Fee - Studio for May: Brown, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,26,16.0000,416.00,"Resident Care - Level 1 for May: Brown, Hollis",,,,,,,,,,,,,,,
+INVOICE,CM,,13510143,,05/26/2011,3223,"Invoice-Private",,05/26/2011,05/26/2011,,13514684MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2697,2697,"CR:Basic Service F... H.Brown 201105: Brown, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Brown 201105: Brown, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,496,496,"CR:Resident Care -... H.Brown 201105: Brown, Hollis",,,,,,,,,,,,,,,

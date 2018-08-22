@@ -1,0 +1,7 @@
+BATCH,,201304,B,6120.0000,
+INVOICE,IN,,11410159,,04/15/2013,2040.0000,"Invoice-Private",,04/15/2013,04/15/2013,,11414293MO,-6256.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,15,71.0000,1065.00,"Basic Service Fee - Studio for Apr: Kupelian, Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,15,65.0000,975.00,"Swan Personal Care - L4 for Apr: Kupelian, Gregory",,,,,,,,,,,,,,,
+INVOICE,CM,,11410159,,04/15/2013,4080,"Invoice-Private",,04/15/2013,04/15/2013,,11414293MO,-6256.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,2130,2130,"CR:Basic Service F... G.Kupelian 201304: Kupelian, Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,1950,1950,"CR:Swan Personal C... G.Kupelian 201304: Kupelian, Gregory",,,,,,,,,,,,,,,

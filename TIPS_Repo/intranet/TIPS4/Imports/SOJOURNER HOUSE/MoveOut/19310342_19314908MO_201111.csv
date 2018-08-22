@@ -1,0 +1,7 @@
+BATCH,,201111,B,1110.0000,
+INVOICE,IN,,19310342,,11/01/2011,555.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19314908MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3019,010315193,30,8.5000,255.00,"Additional Service Charge: Naas, Dorathy",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10.0000,300.00,"CC Meals: Naas, Dorathy",,,,,,,,,,,,,,,
+INVOICE,CM,,19310342,,11/01/2011,555,"Invoice-Private",,11/01/2011,11/10/2011,,19314908MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3019,010315193,30,8.5,255,"Credit for Additional Service Charge: Naas, Dorathy",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10,300,"Credit for CC Meals: Naas, Dorathy",,,,,,,,,,,,,,,

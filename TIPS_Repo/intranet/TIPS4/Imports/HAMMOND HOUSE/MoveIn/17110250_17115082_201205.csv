@@ -1,0 +1,5 @@
+BATCH,,201205,B,4150.0000,
+INVOICE,IN,,17110250,,05/01/2012,4150.0000,"May_Rent-Carter. James",,05/01/2012,05/10/2012,,17115082,7191.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,31,116.0000,3596,"J.Carter: Basic Service Fee - One Bedroom: Carter. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308171,31,17.0000,527,"J.Carter: Resident Care - Level 1: Carter. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Carter. James",,,,,,,,,,,,,,,

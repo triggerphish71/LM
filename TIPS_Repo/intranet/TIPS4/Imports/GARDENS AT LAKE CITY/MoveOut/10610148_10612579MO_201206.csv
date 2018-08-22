@@ -1,0 +1,7 @@
+BATCH,,201206,B,5301.0000,
+INVOICE,IN,,10610148,,06/01/2012,171.0000,"Invoice-Private",,06/01/2012,06/01/2012,,10612579MO,-4959.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,87.0000,87.00,"Basic Service Fee - Studio for Jun: Wright, Waitsel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,84.0000,84.00,"Resident Care - Level 6 for Jun: Wright, Waitsel",,,,,,,,,,,,,,,
+INVOICE,CM,,10610148,,06/01/2012,5130,"Invoice-Private",,06/01/2012,06/01/2012,,10612579MO,-4959.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2610,2610,"CR:Basic Service F... W.Wright 201206: Wright, Waitsel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,2520,2520,"CR:Resident Care -... W.Wright 201206: Wright, Waitsel",,,,,,,,,,,,,,,

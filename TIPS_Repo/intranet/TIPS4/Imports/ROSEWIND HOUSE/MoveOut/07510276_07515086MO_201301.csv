@@ -1,0 +1,8 @@
+BATCH,,201301,B,6125.0000,
+INVOICE,IN,,07510276,,01/26/2013,3000.0000,"Invoice-Private",,01/26/2013,01/26/2013,,07515086MO,-1945.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,30,85.0000,2550.00,"K.Clarkston: Basic Service Fee - Studio for Jan: Clarkston, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,30,15.0000,450.00,"K.Clarkston: Resident Care - Level 1 for Jan: Clarkston, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,07510276,,01/26/2013,3125,"Invoice-Private",,01/26/2013,01/26/2013,,07515086MO,-1945.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2635,2635,"CR:K.Clarkston: Ba... K.Clarkston 201301: Clarkston, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,465,465,"CR:K.Clarkston: Re... K.Clarkston 201301: Clarkston, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... K.Clarkston 201301: Clarkston, Karen",,,,,,,,,,,,,,,

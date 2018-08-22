@@ -1,0 +1,7 @@
+BATCH,,201301,B,2117.0000,
+INVOICE,IN,,53510222,,01/26/2013,2117.0000,"MoveIn-Mayer. Vera",,01/26/2013,01/26/2013,,53515130,4723.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,6,75.0000,450,"Basic Service Fee - Studio: Mayer. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319535,6,17.0000,102,"Resident Care - Level 1: Mayer. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30.0000,30,"Monthly Cable: Mayer. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,1500.0000,1500,"New Resident Fee: Mayer. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35.0000,35,"Pendant Fee: Mayer. Vera",,,,,,,,,,,,,,,

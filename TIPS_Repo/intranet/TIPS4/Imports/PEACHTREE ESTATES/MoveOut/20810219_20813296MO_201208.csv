@@ -1,0 +1,6 @@
+BATCH,,201208,B,6688.0000,
+INVOICE,IN,,20810219,,08/01/2012,3557.0000,"Invoice-Private",,08/01/2012,08/10/2012,,20813296MO,426.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,527.0000,527.00,"CR:Limited Term Di... R.Herrera 201208: Herrera, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,30,101.0000,3030.00,"One Bedroom for Aug: Herrera, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,20810219,,08/01/2012,3131,"Invoice-Private",,08/01/2012,08/10/2012,,20813296MO,426.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3131,3131,"CR:One Bedroom... R.Herrera 201208: Herrera, Raymond",,,,,,,,,,,,,,,

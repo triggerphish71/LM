@@ -1,0 +1,7 @@
+BATCH,,201206,B,2280.0000,
+INVOICE,IN,,18910293,,06/01/2012,1140.0000,"Invoice-Private",,06/01/2012,06/10/2012,,18915222MO,0.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300.00,"CC Meals: Gibbs, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,28.0000,840.00,"Credit for Limited Term Discount: Gibbs, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,18910293,,06/01/2012,1140,"Invoice-Private",,06/01/2012,06/10/2012,,18915222MO,0.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10,300,"Credit for CC Meals: Gibbs, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,28,840,"Limited Term Discount: Gibbs, Arthur",,,,,,,,,,,,,,,

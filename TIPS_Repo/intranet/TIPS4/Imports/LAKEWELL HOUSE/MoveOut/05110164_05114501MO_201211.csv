@@ -1,0 +1,7 @@
+BATCH,,201211,B,7128.0000,
+INVOICE,IN,,05110164,,11/16/2012,3168.0000,"Invoice-Private",,11/16/2012,11/16/2012,,05114501MO,-4884.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,24,115.0000,2760.00,"Basic Service Fee - One Bedroom for Nov: Wickes, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,24,17.0000,408.00,"Resident Care - Level 1 for Nov: Wickes, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,05110164,,11/16/2012,3960,"Invoice-Private",,11/16/2012,11/16/2012,,05114501MO,-4884.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3450,3450,"CR:Basic Service F... M.Wickes 201211: Wickes, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,510,510,"CR:Resident Care -... M.Wickes 201211: Wickes, Martha",,,,,,,,,,,,,,,

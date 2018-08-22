@@ -1,0 +1,7 @@
+BATCH,,201304,B,5301.0000,
+INVOICE,IN,,04510272,,04/25/2013,2511.0000,"Invoice-Private",,04/25/2013,04/25/2013,,04514529MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,27,77.0000,2079.00,"Basic Service Fee - Studio for Apr: Mathis, LC",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,27,16.0000,432.00,"Resident Care - Level 1 for Apr: Mathis, LC",,,,,,,,,,,,,,,
+INVOICE,CM,,04510272,,04/25/2013,2790,"Invoice-Private",,04/25/2013,04/25/2013,,04514529MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2310,2310,"CR:Basic Service F... L.Mathis 201304: Mathis, LC",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,480,480,"CR:Resident Care -... L.Mathis 201304: Mathis, LC",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,5700.0000,
+INVOICE,IN,,07210136,,02/01/2012,2394.0000,"Invoice-Private",,02/01/2012,02/10/2012,,07213999MO,-912.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,21,96.0000,2016.00,"Basic Service Fee - Studio for Feb: Hepperly, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,21,18.0000,378.00,"Resident Care - Level 1 for Feb: Hepperly, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07210136,,02/01/2012,3306,"Invoice-Private",,02/01/2012,02/10/2012,,07213999MO,-912.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2784,2784,"CR:Basic Service F... H.Hepperly 201202: Hepperly, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,522,522,"CR:Resident Care -... H.Hepperly 201202: Hepperly, Helen",,,,,,,,,,,,,,,

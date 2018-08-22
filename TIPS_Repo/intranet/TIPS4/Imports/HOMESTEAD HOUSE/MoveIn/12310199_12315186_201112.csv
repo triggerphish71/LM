@@ -1,0 +1,5 @@
+BATCH,,201112,B,5350.0000,
+INVOICE,IN,,12310199,,12/12/2011,5350.0000,"MoveIn-Frantz. Marion",,12/12/2011,12/12/2011,,12315186,5350.0000,,,,,,,,,,
+TRANSACTION,3010,010211123,20,103.0000,2060,"Basic Service Fee - Studio: Frantz. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211123,20,52.0000,1040,"Resident Care - Level 3: Frantz. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211123,1,2250.0000,2250,"New Resident Fee: Frantz. Marion",,,,,,,,,,,,,,,

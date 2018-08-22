@@ -1,0 +1,5 @@
+BATCH,,201301,B,3762.0000,
+INVOICE,IN,,09310165,,01/07/2013,693.0000,"Invoice-Private",,01/07/2013,01/07/2013,,09315654MO,-2376.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,7,99.0000,693.00,"Basic Service Fee - Studio for Jan: Snyder, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,09310165,,01/07/2013,3069,"Invoice-Private",,01/07/2013,01/07/2013,,09315654MO,-2376.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... J.Snyder 201301: Snyder, Jeanne",,,,,,,,,,,,,,,

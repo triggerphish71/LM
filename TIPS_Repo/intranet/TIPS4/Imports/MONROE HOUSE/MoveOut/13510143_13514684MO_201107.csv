@@ -1,0 +1,5 @@
+BATCH,,201107,B,60.0000,
+INVOICE,IN,,13510143,,07/01/2011,30.0000,"Invoice-Private",,07/01/2011,07/10/2011,,13514684MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Brown, Hollis",,,,,,,,,,,,,,,
+INVOICE,CM,,13510143,,07/01/2011,30,"Invoice-Private",,07/01/2011,07/10/2011,,13514684MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Brown, Hollis",,,,,,,,,,,,,,,

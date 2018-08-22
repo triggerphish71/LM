@@ -1,0 +1,7 @@
+BATCH,,201209,B,4995.0000,
+INVOICE,IN,,19510246,,09/07/2012,945.0000,"Invoice-Private",,09/07/2012,09/07/2012,,19514539MO,-3105.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,7,117.0000,819.00,"Basic Service Fee - One Bedroom for Sep: Wynkoop, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,7,18.0000,126.00,"Resident Care - Level 1 for Sep: Wynkoop, William",,,,,,,,,,,,,,,
+INVOICE,CM,,19510246,,09/07/2012,4050,"Invoice-Private",,09/07/2012,09/07/2012,,19514539MO,-3105.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,3510,3510,"CR:Basic Service F... W.Wynkoop 201209: Wynkoop, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,540,540,"CR:Resident Care -... W.Wynkoop 201209: Wynkoop, William",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,186.0000,
+INVOICE,IN,,00510134,,01/01/2013,93.0000,"Invoice-Private",,01/01/2013,01/10/2013,,00512568MO,-3978.8400,,,,,,,,,,
+TRANSACTION,3320,010101005,31,3.0000,93.00,"Credit for Limited Term Discount: Gomberg, Connie",,,,,,,,,,,,,,,
+INVOICE,CM,,00510134,,01/01/2013,93,"Invoice-Private",,01/01/2013,01/10/2013,,00512568MO,-3978.8400,,,,,,,,,,
+TRANSACTION,3320,010101005,31,3,93,"Limited Term Discount: Gomberg, Connie",,,,,,,,,,,,,,,

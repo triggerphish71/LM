@@ -1,0 +1,7 @@
+BATCH,,201210,B,5950.0000,
+INVOICE,IN,,14810149,,10/04/2012,680.0000,"Invoice-Private",,10/04/2012,10/04/2012,,14815043MO,-4590.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,4,91.0000,364.00,"Basic Service Fee - Studio for Oct: Dillon, Velda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,4,79.0000,316.00,"Resident Care - Level 6 for Oct: Dillon, Velda",,,,,,,,,,,,,,,
+INVOICE,CM,,14810149,,10/04/2012,5270,"Invoice-Private",,10/04/2012,10/04/2012,,14815043MO,-4590.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2821,2821,"CR:Basic Service F... V.Dillon 201210: Dillon, Velda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,2449,2449,"CR:Resident Care -... V.Dillon 201210: Dillon, Velda",,,,,,,,,,,,,,,

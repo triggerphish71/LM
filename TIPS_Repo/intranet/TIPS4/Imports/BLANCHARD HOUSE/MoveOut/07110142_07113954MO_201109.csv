@@ -1,0 +1,7 @@
+BATCH,,201109,B,3068.0000,
+INVOICE,IN,,07110142,,09/01/2011,1534.0000,"Invoice-Private",,09/01/2011,09/10/2011,,07113954MO,-4144.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,30,16.0000,480.00,"Credit for Limited Term Discount: Seymour, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3019,010305071,31,34.0000,1054.00,"Additional Service Charge: Seymour, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,07110142,,09/01/2011,1534,"Invoice-Private",,09/01/2011,09/10/2011,,07113954MO,-4144.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,30,16,480,"Limited Term Discount: Seymour, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3019,010305071,31,34,1054,"Credit for Additional Service Charge: Seymour, Robert",,,,,,,,,,,,,,,

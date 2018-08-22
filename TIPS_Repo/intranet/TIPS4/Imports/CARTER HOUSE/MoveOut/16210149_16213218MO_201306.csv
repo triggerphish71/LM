@@ -1,0 +1,7 @@
+BATCH,,201306,B,3630.0000,
+INVOICE,IN,,16210149,,06/03/2013,330.0000,"Invoice-Private",,06/03/2013,06/03/2013,,16213218MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,3,82.0000,246.00,"Basic Service Fee - One Bedroom for Jun: Musick, Madelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,3,28.0000,84.00,"Resident Care - Level 2 for Jun: Musick, Madelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,16210149,,06/03/2013,3300,"Invoice-Private",,06/03/2013,06/03/2013,,16213218MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2460,2460,"CR:Basic Service F... M.Musick 201306: Musick, Madelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,840,840,"CR:Resident Care -... M.Musick 201306: Musick, Madelyn",,,,,,,,,,,,,,,

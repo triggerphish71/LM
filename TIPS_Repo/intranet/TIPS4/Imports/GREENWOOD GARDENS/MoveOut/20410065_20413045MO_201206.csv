@@ -1,0 +1,6 @@
+BATCH,,201206,B,4590.0000,
+INVOICE,IN,,20410065,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20413045MO,-5918.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,60.0000,60.00,"CR:Limited Term Di... P.Pritchett 201206: Pritchett, Peggy",,,,,,,,,,,,,,,
+INVOICE,CM,,20410065,,06/01/2012,4530,"Invoice-Private",,06/01/2012,06/10/2012,,20413045MO,-5918.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,2070,2070,"CR:Resident Care -... P.Pritchett 201206: Pritchett, Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Studio... P.Pritchett 201206: Pritchett, Peggy",,,,,,,,,,,,,,,

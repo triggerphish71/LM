@@ -1,0 +1,6 @@
+BATCH,,201211,B,1759.0000,
+INVOICE,IN,,02910352,,11/29/2012,1759.0000,"MoveIn-Jackson. Susan",,11/29/2012,11/29/2012,,02915903,5411.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,2,100.0000,200,"Basic Service Fee - Studio: Jackson. Susan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,2,17.0000,34,"Resident Care - Level 1: Jackson. Susan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Jackson. Susan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Jackson. Susan",,,,,,,,,,,,,,,

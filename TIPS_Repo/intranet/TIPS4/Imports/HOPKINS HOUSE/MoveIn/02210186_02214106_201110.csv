@@ -1,0 +1,6 @@
+BATCH,,201110,B,3987.0000,
+INVOICE,IN,,02210186,,10/14/2011,3987.0000,"MoveIn-Grubbs. Henry",,10/14/2011,10/14/2011,,02214106,3987.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,18,92.0000,1656,"Basic Service Fee- Studio Premium: Grubbs. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,18,17.0000,306,"Resident Care - Level 1: Grubbs. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Grubbs. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Grubbs. Henry",,,,,,,,,,,,,,,

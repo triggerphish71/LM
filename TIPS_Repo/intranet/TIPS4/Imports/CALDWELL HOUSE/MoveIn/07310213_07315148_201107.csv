@@ -1,0 +1,6 @@
+BATCH,,201107,B,4684.0000,
+INVOICE,IN,,07310213,,07/08/2011,4684.0000,"MoveIn-Weng. Patty",,07/08/2011,07/08/2011,,07315148,4684.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,24,94.0000,2256,"Basic Service Fee - Studio: Weng. Patty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,24,17.0000,408,"Resident Care - Level 1: Weng. Patty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Weng. Patty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000.0000,2000,"New Resident Fee: Weng. Patty",,,,,,,,,,,,,,,

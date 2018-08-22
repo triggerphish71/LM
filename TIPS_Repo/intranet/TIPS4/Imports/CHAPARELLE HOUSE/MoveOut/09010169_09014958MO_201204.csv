@@ -1,0 +1,8 @@
+BATCH,,201204,B,6041.0000,
+INVOICE,IN,,09010169,,04/17/2012,2176.0000,"Invoice-Private",,04/17/2012,04/17/2012,,09014958MO,-1689.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,17,113.0000,1921.00,"Basic Service Fee - One Bedroom for Apr: ODonnell, Anna Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,17,15.0000,255.00,"Resident Care - Level 1 for Apr: ODonnell, Anna Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,09010169,,04/17/2012,3865,"Invoice-Private",,04/17/2012,04/17/2012,,09014958MO,-1689.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,3390,3390,"CR:Basic Service F... A.ODonnell 201204: ODonnell, Anna Faye",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... A.ODonnell 201204: ODonnell, Anna Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,450,450,"CR:Resident Care -... A.ODonnell 201204: ODonnell, Anna Faye",,,,,,,,,,,,,,,

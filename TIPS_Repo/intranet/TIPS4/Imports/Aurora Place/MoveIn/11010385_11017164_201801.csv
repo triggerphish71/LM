@@ -1,0 +1,7 @@
+BATCH,,201801,B,4045.9700,
+INVOICE,IN,,11010385,,01/21/2018,4045.9700,"MoveIn-Powers. Alex",,01/21/2018,01/21/2018,,11017164,4045.9700,,,,,,,,,,
+TRANSACTION,3010,010007110,11,105.0000,1155,"Basic Service Fee - Studio         : Powers. Alex",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,11,18.0000,198,"Resident Care - Level 1: Powers. Alex",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Powers. Alex",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,2000.0000,2000,"Community Fee: Powers. Alex",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,666.6700,666.67,"Monthly Deferral Charge: Powers. Alex",,,,,,,,,,,,,,,

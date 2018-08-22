@@ -1,0 +1,8 @@
+BATCH,,201306,B,5659.0000,
+INVOICE,IN,,14710289,,06/11/2013,1507.0000,"Invoice-Private",,06/11/2013,06/11/2013,,14716207MO,-2645.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,11,102.0000,1122.00,"Basic Service Fee - Studio for Jun: Perno, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,11,35.0000,385.00,"Resident Care - Level 2 for Jun: Perno, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,14710289,,06/11/2013,4152,"Invoice-Private",,06/11/2013,06/11/2013,,14716207MO,-2645.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3060,3060,"CR:Basic Service F... D.Perno 201306: Perno, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... D.Perno 201306: Perno, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1050,1050,"CR:Resident Care -... D.Perno 201306: Perno, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,8296.0000,
+INVOICE,IN,,13010263,,05/01/2011,4080.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13015141MO,-136.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,30,98.0000,2940.00,"Basic Service Fee - Studio for May: Sassani, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,30,38.0000,1140.00,"Resident Care - Level 2 for May: Sassani, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,13010263,,05/01/2011,4216,"Invoice-Private",,05/01/2011,05/10/2011,,13015141MO,-136.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3038,3038,"CR:Basic Service F... L.Sassani 201105: Sassani, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1178,1178,"CR:Resident Care -... L.Sassani 201105: Sassani, Lawrence",,,,,,,,,,,,,,,

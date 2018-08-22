@@ -1,0 +1,6 @@
+BATCH,,201211,B,5435.0000,
+INVOICE,CM,,53510215,,11/01/2012,5435,"Invoice-Private",,11/01/2012,11/10/2012,,53514954MO,-6365.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3030,3030,"CR:Basic Service F... G.Cornelius 201211: Cornelius, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... G.Cornelius 201211: Cornelius, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35,35,"CR:Pendant Fee... G.Cornelius 201211: Cornelius, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,2340,2340,"CR:Resident Care -... G.Cornelius 201211: Cornelius, Gertrude",,,,,,,,,,,,,,,

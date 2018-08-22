@@ -1,0 +1,7 @@
+BATCH,,201301,B,3306.0000,
+INVOICE,IN,,08610240,,01/27/2013,1539.0000,"Invoice-Private",,01/27/2013,01/27/2013,,08615138MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,27,10.0000,270.00,"Basic Service Fee - Second Resident for Jan: Lane, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,27,47.0000,1269.00,"Resident Care - Level 3 for Jan: Lane, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,08610240,,01/27/2013,1767,"Invoice-Private",,01/27/2013,01/27/2013,,08615138MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,310,310,"CR:Basic Service F... H.Lane 201301: Lane, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1457,1457,"CR:Resident Care -... H.Lane 201301: Lane, Harold",,,,,,,,,,,,,,,

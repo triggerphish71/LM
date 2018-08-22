@@ -1,0 +1,5 @@
+BATCH,,201804,B,15.7600,
+INVOICE,IN,,32700046,,04/01/2018,7.8800,"Invoice-Private",,04/01/2018,04/10/2018,,32710754MO,-3865.3400,,,,,,,,,,
+TRANSACTION,3250,070014327,1,7.8800,7.88,"Resident Meals: Johnston, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,32700046,,04/01/2018,7.88,"Invoice-Private",,04/01/2018,04/10/2018,,32710754MO,-3865.3400,,,,,,,,,,
+TRANSACTION,3250,070014327,1,7.88,7.88,"Credit for Resident Meals: Johnston, Virginia",,,,,,,,,,,,,,,

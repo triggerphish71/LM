@@ -1,0 +1,4 @@
+BATCH,,201110,B,3037.0000,
+INVOICE,IN,,13910275,,10/01/2011,3037.0000,"October_Rent-Etl. Alice",,10/01/2011,10/10/2011,,13915833,6134.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,31,97.0000,3007,"Basic Service Fee - Studio         : Etl. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Etl. Alice",,,,,,,,,,,,,,,

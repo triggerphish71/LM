@@ -1,0 +1,7 @@
+BATCH,,201212,B,7920.0000,
+INVOICE,IN,,12310040,,12/09/2012,1782.0000,"Invoice-Private",,12/09/2012,12/09/2012,,12315732MO,-4356.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,9,103.0000,927.00,"Basic Service Fee - Studio for Dec: Meints, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,9,95.0000,855.00,"Resident Care - Level 6 for Dec: Meints, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,12310040,,12/09/2012,6138,"Invoice-Private",,12/09/2012,12/09/2012,,12315732MO,-4356.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... A.Meints 201212: Meints, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,2945,2945,"CR:Resident Care -... A.Meints 201212: Meints, Anna",,,,,,,,,,,,,,,

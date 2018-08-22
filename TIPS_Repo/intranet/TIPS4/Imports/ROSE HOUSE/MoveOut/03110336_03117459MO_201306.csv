@@ -1,0 +1,7 @@
+BATCH,,201306,B,114.0000,
+INVOICE,IN,,03110336,,06/01/2013,57.0000,"Invoice-Private",,06/01/2013,06/10/2013,,03117459MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Strauss, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30.0000,30.00,"Pendant Fee: Strauss, Myrtle",,,,,,,,,,,,,,,
+INVOICE,CM,,03110336,,06/01/2013,57,"Invoice-Private",,06/01/2013,06/10/2013,,03117459MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Strauss, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"Credit for Pendant Fee: Strauss, Myrtle",,,,,,,,,,,,,,,

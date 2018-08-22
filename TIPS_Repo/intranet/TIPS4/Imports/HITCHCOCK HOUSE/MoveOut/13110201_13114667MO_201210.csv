@@ -1,0 +1,7 @@
+BATCH,,201210,B,8450.0000,
+INVOICE,IN,,13110201,,10/19/2012,3211.0000,"Invoice-Private",,10/19/2012,10/19/2012,,13114667MO,-7098.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,19,69.0000,1311.00,"Resident Care - Level 6 for Oct: Manberg, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,19,100.0000,1900.00,"Room and Board - Studio for Oct: Manberg, William",,,,,,,,,,,,,,,
+INVOICE,CM,,13110201,,10/19/2012,5239,"Invoice-Private",,10/19/2012,10/19/2012,,13114667MO,-7098.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,1,2139,2139,"CR:Resident Care -... W.Manberg 201210: Manberg, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Room and Board ... W.Manberg 201210: Manberg, William",,,,,,,,,,,,,,,

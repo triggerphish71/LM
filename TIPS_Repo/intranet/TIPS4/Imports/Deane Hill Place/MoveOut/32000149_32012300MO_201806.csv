@@ -1,0 +1,5 @@
+BATCH,,201806,B,98.9600,
+INVOICE,IN,,32000149,,06/01/2018,49.4800,"Invoice-Private",,06/01/2018,06/10/2018,,32012300MO,-537.0000,,,,,,,,,,
+TRANSACTION,3210,070025320,1,49.4800,49.48,"Personal Services: Burke, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,32000149,,06/01/2018,49.48,"Invoice-Private",,06/01/2018,06/10/2018,,32012300MO,-537.0000,,,,,,,,,,
+TRANSACTION,3210,070025320,1,49.48,49.48,"Credit for Personal Services: Burke, Josephine",,,,,,,,,,,,,,,

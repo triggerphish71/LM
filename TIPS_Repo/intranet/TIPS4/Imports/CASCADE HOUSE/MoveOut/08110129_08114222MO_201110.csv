@@ -1,0 +1,7 @@
+BATCH,,201110,B,3535.2400,
+INVOICE,IN,,08110129,,10/11/2011,392.2600,"Invoice-Medicaid",,10/11/2011,10/11/2011,,08114222MO,-2750.7200,,,,,,,,,,
+TRANSACTION,3021,010103081,11,35.6600,392.26,"Medicaid Co-Pay for Oct: Hunt, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,08110129,,10/11/2011,3142.98,"Invoice-Medicaid",,10/11/2011,10/11/2011,,08114222MO,-2750.7200,,,,,,,,,,
+TRANSACTION,3021,010103081,1,1105.51,1105.51,"CR:Medicaid Co-Pay... N.Hunt 201110: Hunt, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... N.Hunt 201110: Hunt, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103081,1,2012.47,2012.47,"CR:State Medicaid... N.Hunt 201110: Hunt, Norman",,,,,,,,,,,,,,,

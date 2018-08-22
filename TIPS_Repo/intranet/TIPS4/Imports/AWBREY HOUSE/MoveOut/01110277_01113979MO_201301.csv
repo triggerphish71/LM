@@ -1,0 +1,5 @@
+BATCH,,201301,B,1302.0000,
+INVOICE,IN,,01110277,,01/01/2013,651.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01113979MO,-1135.8600,,,,,,,,,,
+TRANSACTION,3320,010101011,31,21.0000,651.00,"Credit for Limited Term Discount: Harman, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,01110277,,01/01/2013,651,"Invoice-Private",,01/01/2013,01/10/2013,,01113979MO,-1135.8600,,,,,,,,,,
+TRANSACTION,3320,010101011,31,21,651,"Limited Term Discount: Harman, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201107,B,3685.0000,
+INVOICE,IN,,02411233,,07/01/2011,713.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02415333MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,713.0000,713.00,"CR:Limited Term Di... M.Mc Mahon 201107: Mc Mahon, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,02411233,,07/01/2011,2972,"Invoice-Private",,07/01/2011,07/10/2011,,02415333MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2945,2945,"CR:Basic Service F... M.Mc Mahon 201107: Mc Mahon, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... M.Mc Mahon 201107: Mc Mahon, Martha",,,,,,,,,,,,,,,

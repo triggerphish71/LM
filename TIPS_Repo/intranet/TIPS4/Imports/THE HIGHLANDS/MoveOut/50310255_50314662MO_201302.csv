@@ -1,0 +1,5 @@
+BATCH,,201302,B,70.0000,
+INVOICE,IN,,50310255,,02/01/2013,35.0000,"Invoice-Private",,02/01/2013,02/10/2013,,50314662MO,-4045.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Marcum, Reva",,,,,,,,,,,,,,,
+INVOICE,CM,,50310255,,02/01/2013,35,"Invoice-Private",,02/01/2013,02/10/2013,,50314662MO,-4045.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Marcum, Reva",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,4760.0000,
+INVOICE,IN,,02810215,,03/01/2013,2125.0000,"Invoice-Private",,03/01/2013,03/10/2013,,02815708MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,25,71.0000,1775.00,"Basic Service Fee - Studio for Mar: Huchton, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,25,14.0000,350.00,"Resident Care - Level 1 for Mar: Huchton, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,02810215,,03/01/2013,2635,"Invoice-Private",,03/01/2013,03/10/2013,,02815708MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,2201,2201,"CR:Basic Service F... T.Huchton 201303: Huchton, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,434,434,"CR:Resident Care -... T.Huchton 201303: Huchton, Theresa",,,,,,,,,,,,,,,

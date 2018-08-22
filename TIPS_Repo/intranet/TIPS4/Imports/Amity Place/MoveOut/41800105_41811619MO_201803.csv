@@ -1,0 +1,7 @@
+BATCH,,201803,B,11058.0000,
+INVOICE,IN,,41800105,,03/26/2018,5044.0000,"Invoice-Private",,03/26/2018,03/26/2018,,41811619MO,-970.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,26,87.0000,2262.00,"Resident Care - Level 6  for Mar: Custer, Judith Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,26,107.0000,2782.00,"Studio  for Mar: Custer, Judith Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,41800105,,03/26/2018,6014,"Invoice-Private",,03/26/2018,03/26/2018,,41811619MO,-970.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,1,2697,2697,"CR:Resident Care -... J.Custer 201803: Custer, Judith Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,1,3317,3317,"CR:Studio... J.Custer 201803: Custer, Judith Ann",,,,,,,,,,,,,,,

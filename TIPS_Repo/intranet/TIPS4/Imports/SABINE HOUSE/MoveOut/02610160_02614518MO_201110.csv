@@ -1,0 +1,5 @@
+BATCH,,201110,B,4522.0000,
+INVOICE,CM,,02610160,,10/01/2011,4522,"Invoice-Private",,10/01/2011,10/10/2011,,02614518MO,-6579.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3348,3348,"CR:Basic Service F... H.Morgan 201110: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... H.Morgan 201110: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,1147,1147,"CR:Resident Care -... H.Morgan 201110: Morgan, Helen",,,,,,,,,,,,,,,

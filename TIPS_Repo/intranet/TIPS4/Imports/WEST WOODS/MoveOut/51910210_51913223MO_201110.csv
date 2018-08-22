@@ -1,0 +1,8 @@
+BATCH,,201110,B,3584.8000,
+INVOICE,IN,,51910210,,10/05/2011,496.5000,"Invoice-Private",,10/05/2011,10/05/2011,,51913223MO,-2591.8000,,,,,,,,,,
+TRANSACTION,3027,010103519,5,15.3000,76.50,"Resident Care - Level 9 for Oct: Exley, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,5,84.0000,420.00,"Room and Board - Studio for Oct: Exley, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,51910210,,10/05/2011,3088.3,"Invoice-Private",,10/05/2011,10/05/2011,,51913223MO,-2591.8000,,,,,,,,,,
+TRANSACTION,3130,010103519,1,10,10,"CR:Pendant Fee... R.Exley 201110: Exley, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,474.3,474.3,"CR:Resident Care -... R.Exley 201110: Exley, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2604,2604,"CR:Room and Board ... R.Exley 201110: Exley, Rita",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,3249.0000,
+INVOICE,IN,,03610331,,05/10/2013,3249.0000,"MoveIn-Carnes. Betty",,05/10/2013,05/10/2013,,03615606,3249.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,22,101.0000,2222,"Basic Service Fee - Studio: Carnes. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Carnes. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1000.0000,1000,"New Resident Fee: Carnes. Betty",,,,,,,,,,,,,,,

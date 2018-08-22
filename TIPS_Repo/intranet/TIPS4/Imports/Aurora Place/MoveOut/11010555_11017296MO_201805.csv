@@ -1,0 +1,8 @@
+BATCH,,201805,B,85.5700,
+INVOICE,IN,,11010555,,05/01/2018,48.2800,"Invoice-Private",,05/01/2018,05/10/2018,,11017296MO,-5614.3200,,,,,,,,,,
+TRANSACTION,3211,010007110,1,10.9900,10.99,"Laundry: Dixon, Millie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.30,"Monthly Cable: Dixon, Millie",,,,,,,,,,,,,,,
+TRANSACTION,3211,010007110,1,10.9900,10.99,"Laundry: Dixon, Millie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010555,,05/01/2018,37.29,"Invoice-Private",,05/01/2018,05/10/2018,,11017296MO,-5614.3200,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3,26.3,"Credit for Monthly Cable: Dixon, Millie",,,,,,,,,,,,,,,
+TRANSACTION,3211,010007110,1,10.99,10.99,"Credit for Laundry: Dixon, Millie",,,,,,,,,,,,,,,

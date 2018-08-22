@@ -1,0 +1,6 @@
+BATCH,,201105,B,1165.0000,
+INVOICE,IN,,12010207,,05/31/2011,1165.0000,"MoveIn-Adkins. Rufus",,05/31/2011,05/31/2011,,12013984,5245.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,1,75.0000,75,"Basic Service Fee - Studio         : Adkins. Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,1,60.0000,60,"Resident Care - Level 5: Adkins. Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Adkins. Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Adkins. Rufus",,,,,,,,,,,,,,,

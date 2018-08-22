@@ -1,0 +1,8 @@
+BATCH,,201301,B,3489.0000,
+INVOICE,IN,,12810210,,01/04/2013,1195.0000,"Invoice-Private",,01/04/2013,01/04/2013,,12815175MO,-1099.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,1,899.0000,899.00,"CR:Limited Term Di... E.Harris 201301: Harris, Estelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306128,4,39.0000,156.00,"Basic Service Fee - Second Resident for Jan: Harris, Estelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,4,35.0000,140.00,"Swan Personal Care - L2 for Jan: Harris, Estelle",,,,,,,,,,,,,,,
+INVOICE,CM,,12810210,,01/04/2013,2294,"Invoice-Private",,01/04/2013,01/04/2013,,12815175MO,-1099.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,1209,1209,"CR:Basic Service F... E.Harris 201301: Harris, Estelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,1085,1085,"CR:Swan Personal C... E.Harris 201301: Harris, Estelle",,,,,,,,,,,,,,,

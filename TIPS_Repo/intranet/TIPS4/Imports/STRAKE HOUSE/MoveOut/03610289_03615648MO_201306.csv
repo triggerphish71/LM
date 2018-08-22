@@ -1,0 +1,8 @@
+BATCH,,201306,B,5879.0000,
+INVOICE,IN,,03610289,,06/01/2013,1862.0000,"Invoice-Private",,06/01/2013,06/10/2013,,03615648MO,-2155.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,14,88.0000,1232.00,"Basic Service Fee - Studio for Jun: Molett, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,14,45.0000,630.00,"Resident Care - Level 3 for Jun: Molett, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,03610289,,06/01/2013,4017,"Invoice-Private",,06/01/2013,06/10/2013,,03615648MO,-2155.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,2640,2640,"CR:Basic Service F... E.Molett 201306: Molett, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... E.Molett 201306: Molett, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,1350,1350,"CR:Resident Care -... E.Molett 201306: Molett, Ethel",,,,,,,,,,,,,,,

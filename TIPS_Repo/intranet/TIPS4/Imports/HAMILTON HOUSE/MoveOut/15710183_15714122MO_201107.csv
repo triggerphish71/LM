@@ -1,0 +1,7 @@
+BATCH,,201107,B,4602.5000,
+INVOICE,IN,,15710183,,07/01/2011,387.5000,"Invoice-Private",,07/01/2011,07/10/2011,,15714122MO,-4967.5000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,387.5000,387.50,"CR:Limited Term Di... W.Houston 201107: Houston, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,15710183,,07/01/2011,4215,"Invoice-Private",,07/01/2011,07/10/2011,,15714122MO,-4967.5000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2759,2759,"CR:Basic Service F... W.Houston 201107: Houston, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... W.Houston 201107: Houston, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1426,1426,"CR:Resident Care -... W.Houston 201107: Houston, Willie",,,,,,,,,,,,,,,

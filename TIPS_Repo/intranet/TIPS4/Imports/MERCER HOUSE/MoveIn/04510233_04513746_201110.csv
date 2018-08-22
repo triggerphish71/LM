@@ -1,0 +1,6 @@
+BATCH,,201110,B,1935.0000,
+INVOICE,IN,,04510233,,10/28/2011,1935.0000,"MoveIn-Jackson. John",,10/28/2011,10/28/2011,,04513746,5022.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,4,73.0000,292,"Basic Service Fee - Studio         : Jackson. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,4,29.0000,116,"Resident Care - Level 2: Jackson. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Jackson. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Jackson. John",,,,,,,,,,,,,,,

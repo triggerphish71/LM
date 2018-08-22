@@ -1,0 +1,5 @@
+BATCH,,201205,B,54.0000,
+INVOICE,IN,,00310173,,05/01/2012,27.0000,"Invoice-Private",,05/01/2012,05/10/2012,,00314214MO,-828.1500,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27.00,"Monthly Cable: Cogan, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,00310173,,05/01/2012,27,"Invoice-Private",,05/01/2012,05/10/2012,,00314214MO,-828.1500,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"Credit for Monthly Cable: Cogan, Nellie",,,,,,,,,,,,,,,

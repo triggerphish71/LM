@@ -1,0 +1,5 @@
+BATCH,,201204,B,54.0000,
+INVOICE,IN,,17110238,,04/01/2012,27.0000,"Invoice-Private",,04/01/2012,04/10/2012,,17114983MO,-2659.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Thornton, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110238,,04/01/2012,27,"Invoice-Private",,04/01/2012,04/10/2012,,17114983MO,-2659.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Thornton, Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201207,B,4713.3800,
+INVOICE,IN,,01810140,,07/01/2012,1882.4600,"Invoice-Private",,07/01/2012,07/10/2012,,01812543MO,-948.4600,,,,,,,,,,
+TRANSACTION,3312,010103018,1,238.7000,238.70,"CR:Two Room Rental... B.Frank 201207: Frank, Bess",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,18,77.0000,1386.00,"Basic Service Fee - Studio for Jul: Frank, Bess",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,18,14.3200,257.76,"Resident Care - Level 8 for Jul: Frank, Bess",,,,,,,,,,,,,,,
+INVOICE,CM,,01810140,,07/01/2012,2830.92,"Invoice-Private",,07/01/2012,07/10/2012,,01812543MO,-948.4600,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2387,2387,"CR:Basic Service F... B.Frank 201207: Frank, Bess",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,443.92,443.92,"CR:Resident Care -... B.Frank 201207: Frank, Bess",,,,,,,,,,,,,,,

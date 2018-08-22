@@ -1,0 +1,5 @@
+BATCH,,201303,B,2631.0000,
+INVOICE,IN,,05610231,,03/01/2013,2631.0000,"March_Rent-Ray. Phyliss",,03/01/2013,03/10/2013,,05614743,3242.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,31,68.0000,2108,"Basic Service Fee - Studio: Ray. Phyliss",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,31,16.0000,496,"Resident Care - Level 1: Ray. Phyliss",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Ray. Phyliss",,,,,,,,,,,,,,,

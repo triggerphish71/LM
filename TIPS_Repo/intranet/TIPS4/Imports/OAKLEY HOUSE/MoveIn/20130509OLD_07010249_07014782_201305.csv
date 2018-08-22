@@ -1,0 +1,6 @@
+BATCH,,201305,B,3688.0000,
+INVOICE,IN,,07010249,,05/09/2013,3688.0000,"MoveIn-Deloye. Richard",,05/09/2013,05/09/2013,,07014782,3688.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,23,89.0000,2047,"Basic Service Fee - Studio: Deloye. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,23,27.0000,621,"Resident Care - Level 2: Deloye. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Deloye. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1000.0000,1000,"New Resident Fee: Deloye. Richard",,,,,,,,,,,,,,,

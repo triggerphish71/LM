@@ -1,0 +1,5 @@
+BATCH,,201309,B,60.0000,
+INVOICE,IN,,13510298,,09/01/2013,30.0000,"Invoice-Private",,09/01/2013,09/10/2013,,13515938MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Conklin, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,13510298,,09/01/2013,30,"Invoice-Private",,09/01/2013,09/10/2013,,13515938MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Conklin, Ruth",,,,,,,,,,,,,,,

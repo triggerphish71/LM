@@ -1,0 +1,6 @@
+BATCH,,201212,B,1983.0000,
+INVOICE,IN,,50910048,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,50913216MO,-2012.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,62.0000,62.00,"CR:Limited Term Di... M.Myers 201212: Myers, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,50910048,,12/01/2012,1921,"Invoice-Private",,12/01/2012,12/10/2012,,50913216MO,-2012.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1891,1891,"CR:Basic Service F... M.Myers 201212: Myers, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3130,010101509,1,30,30,"CR:Pendant Fee... M.Myers 201212: Myers, Margaret",,,,,,,,,,,,,,,

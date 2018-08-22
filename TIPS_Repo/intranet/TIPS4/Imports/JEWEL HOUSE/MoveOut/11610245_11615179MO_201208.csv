@@ -1,0 +1,7 @@
+BATCH,,201208,B,8544.0000,
+INVOICE,IN,,11610245,,08/17/2012,3026.0000,"Invoice-Private",,08/17/2012,08/17/2012,,11615179MO,-7832.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,17,100.0000,1700.00,"Basic Service Fee - Studio for Aug: Smith, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,17,78.0000,1326.00,"Resident Care - Level 5 for Aug: Smith, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,11610245,,08/17/2012,5518,"Invoice-Private",,08/17/2012,08/17/2012,,11615179MO,-7832.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Basic Service F... C.Smith 201208: Smith, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,2418,2418,"CR:Resident Care -... C.Smith 201208: Smith, Chester",,,,,,,,,,,,,,,

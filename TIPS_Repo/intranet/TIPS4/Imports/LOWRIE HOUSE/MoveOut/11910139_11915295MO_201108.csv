@@ -1,0 +1,8 @@
+BATCH,,201108,B,5243.0000,
+INVOICE,IN,,11910139,,08/06/2011,846.0000,"Invoice-Private",,08/06/2011,08/06/2011,,11915295MO,-3551.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,6,89.0000,534.00,"Basic Service Fee - Studio for Aug: Escher, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,6,52.0000,312.00,"Resident Care - Level 3 for Aug: Escher, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,11910139,,08/06/2011,4397,"Invoice-Private",,08/06/2011,08/06/2011,,11915295MO,-3551.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2759,2759,"CR:Basic Service F... J.Escher 201108: Escher, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... J.Escher 201108: Escher, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1612,1612,"CR:Resident Care -... J.Escher 201108: Escher, Joseph",,,,,,,,,,,,,,,

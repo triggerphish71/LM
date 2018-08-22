@@ -1,0 +1,8 @@
+BATCH,,201107,B,5754.0000,
+INVOICE,IN,,14610223,,07/09/2011,2438.0000,"Invoice-Private",,07/09/2011,07/09/2011,,14614064MO,-878.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,23,89.0000,2047.00,"Basic Service Fee - Studio for Jul: Courtney, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,23,17.0000,391.00,"Resident Care - Level 1 for Jul: Courtney, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,14610223,,07/09/2011,3316,"Invoice-Private",,07/09/2011,07/09/2011,,14614064MO,-878.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... G.Courtney 201107: Courtney, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... G.Courtney 201107: Courtney, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,527,527,"CR:Resident Care -... G.Courtney 201107: Courtney, Gladys",,,,,,,,,,,,,,,

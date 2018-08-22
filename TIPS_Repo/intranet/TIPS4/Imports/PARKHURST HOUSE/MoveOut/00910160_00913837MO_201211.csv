@@ -1,0 +1,7 @@
+BATCH,,201211,B,5952.9600,
+INVOICE,IN,,00910160,,11/23/2012,2583.3600,"Invoice-Private",,11/23/2012,11/23/2012,,00913837MO,-3824.2400,,,,,,,,,,
+TRANSACTION,3020,010101009,23,98.0000,2254.00,"Basic Service Fee - One Bedroom for Nov: Schmidt, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,23,14.3200,329.36,"Resident Care - Level 8 for Nov: Schmidt, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,00910160,,11/23/2012,3369.6,"Invoice-Private",,11/23/2012,11/23/2012,,00913837MO,-3824.2400,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2940,2940,"CR:Basic Service F... J.Schmidt 201211: Schmidt, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,429.6,429.6,"CR:Resident Care -... J.Schmidt 201211: Schmidt, Janet",,,,,,,,,,,,,,,

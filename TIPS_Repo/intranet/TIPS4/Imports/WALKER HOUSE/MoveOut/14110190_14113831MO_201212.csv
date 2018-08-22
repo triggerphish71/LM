@@ -1,0 +1,7 @@
+BATCH,,201212,B,4389.0000,
+INVOICE,IN,,14110190,,12/02/2012,266.0000,"Invoice-Private",,12/02/2012,12/02/2012,,14113831MO,-3857.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,2,87.0000,174.00,"Basic Service Fee - Studio for Dec: Moore, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,2,46.0000,92.00,"Resident Care - Level 3 for Dec: Moore, Fern",,,,,,,,,,,,,,,
+INVOICE,CM,,14110190,,12/02/2012,4123,"Invoice-Private",,12/02/2012,12/02/2012,,14113831MO,-3857.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2697,2697,"CR:Basic Service F... F.Moore 201212: Moore, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,1426,1426,"CR:Resident Care -... F.Moore 201212: Moore, Fern",,,,,,,,,,,,,,,

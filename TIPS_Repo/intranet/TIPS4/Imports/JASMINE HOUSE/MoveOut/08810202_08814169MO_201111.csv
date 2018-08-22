@@ -1,0 +1,8 @@
+BATCH,,201111,B,3638.0000,
+INVOICE,IN,,08810202,,11/07/2011,1418.0000,"Invoice-Private",,11/07/2011,11/07/2011,,08814169MO,-802.0000,,,,,,,,,,
+TRANSACTION,3321,010107088,1,900.0000,900.00,"CR:2nd Resident Fr... R.Milosevich 201111: Milosevich, Risto",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,7,30.0000,210.00,"Basic Service Fee - Second Resident for Nov: Milosevich, Risto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,7,44.0000,308.00,"Resident Care - Level 3 for Nov: Milosevich, Risto",,,,,,,,,,,,,,,
+INVOICE,CM,,08810202,,11/07/2011,2220,"Invoice-Private",,11/07/2011,11/07/2011,,08814169MO,-802.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,900,900,"CR:Basic Service F... R.Milosevich 201111: Milosevich, Risto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1320,1320,"CR:Resident Care -... R.Milosevich 201111: Milosevich, Risto",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,54.0000,
+INVOICE,IN,,19010227,,03/01/2012,27.0000,"Invoice-Private",,03/01/2012,03/10/2012,,19014374MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Kennette, Wade",,,,,,,,,,,,,,,
+INVOICE,CM,,19010227,,03/01/2012,27,"Invoice-Private",,03/01/2012,03/10/2012,,19014374MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Kennette, Wade",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,4525.0000,
+INVOICE,IN,,50510100,,06/06/2011,4525.0000,"MoveIn-Woodward. Shirley",,06/06/2011,06/06/2011,,50511433,4525.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,25,105.0000,2625,"S.Woodward: Basic Service Fee - Studio Deluxe: Woodward. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,25,15.0000,375,"S.Woodward: Resident Care - Level 1: Woodward. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Woodward. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Woodward. Shirley",,,,,,,,,,,,,,,

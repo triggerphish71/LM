@@ -1,0 +1,7 @@
+BATCH,,201107,B,2849.2900,
+INVOICE,IN,,15310058,,07/28/2011,552.1600,"Invoice-Medicaid",,07/28/2011,07/28/2011,,15315569MO,-4042.1000,,,,,,,,,,
+TRANSACTION,3021,010103153,28,19.7200,552.16,"Medicaid Co-Pay for Jul: Blanchard, Cherie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310058,,07/28/2011,2297.13,"Invoice-Medicaid",,07/28/2011,07/28/2011,,15315569MO,-4042.1000,,,,,,,,,,
+TRANSACTION,3021,010103153,1,611.21,611.21,"CR:Medicaid Co-Pay... C.Blanchard 201107: Blanchard, Cherie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... C.Blanchard 201107: Blanchard, Cherie",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103153,1,1658.92,1658.92,"CR:State Medicaid... C.Blanchard 201107: Blanchard, Cherie",,,,,,,,,,,,,,,

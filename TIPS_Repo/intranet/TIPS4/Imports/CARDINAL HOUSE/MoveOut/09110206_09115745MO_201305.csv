@@ -1,0 +1,7 @@
+BATCH,,201305,B,5207.0000,
+INVOICE,IN,,09110206,,05/01/2013,1270.0000,"Invoice-Private",,05/01/2013,05/01/2013,,09115745MO,-2667.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,10,76.0000,760.00,"Basic Service Fee - Studio for May: Lengen, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,10,51.0000,510.00,"Resident Care - Level 3 for May: Lengen, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,09110206,,05/01/2013,3937,"Invoice-Private",,05/01/2013,05/01/2013,,09115745MO,-2667.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2356,2356,"CR:Basic Service F... R.Lengen 201305: Lengen, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1581,1581,"CR:Resident Care -... R.Lengen 201305: Lengen, Roberta",,,,,,,,,,,,,,,

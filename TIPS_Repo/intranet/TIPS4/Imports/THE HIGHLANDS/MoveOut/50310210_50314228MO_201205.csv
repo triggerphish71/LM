@@ -1,0 +1,8 @@
+BATCH,,201205,B,5927.0000,
+INVOICE,IN,,50310210,,05/23/2012,2827.0000,"Invoice-Private",,05/23/2012,05/23/2012,,50314228MO,-2763.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,527.0000,527.00,"CR:Limited Term Di... M.Witham 201205: Witham, Maxie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,23,75.0000,1725.00,"Basic Service Fee - Studio for May: Witham, Maxie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,23,25.0000,575.00,"Resident Care - Level 2 for May: Witham, Maxie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310210,,05/23/2012,3100,"Invoice-Private",,05/23/2012,05/23/2012,,50314228MO,-2763.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... M.Witham 201205: Witham, Maxie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,775,775,"CR:Resident Care -... M.Witham 201205: Witham, Maxie",,,,,,,,,,,,,,,

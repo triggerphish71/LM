@@ -1,0 +1,6 @@
+BATCH,,201111,B,5001.0000,
+INVOICE,IN,,52910178,,11/07/2011,5001.0000,"MoveIn-Nadler. Elsie",,11/07/2011,11/07/2011,,52912810,5001.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,24,109.0000,2616,"Basic Service Fee - One Bedroom: Nadler. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,24,15.0000,360,"Resident Care - Level 1: Nadler. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Nadler. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,2000.0000,2000,"New Resident Fee: Nadler. Elsie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,160.0000,
+INVOICE,IN,,15410209,,12/01/2011,80.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15414626MO,-3744.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Dahl, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45.0000,45.00,"Pendant Fee: Dahl, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,15410209,,12/01/2011,80,"Invoice-Private",,12/01/2011,12/10/2011,,15414626MO,-3744.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Dahl, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45,45,"Credit for Pendant Fee: Dahl, Henry",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,4980.4900,
+INVOICE,CM,,05210206,,01/01/2012,4980.49,"Invoice-Private",,01/01/2012,01/10/2012,,05214717MO,-4980.4900,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2542,2542,"CR:Basic Service F... T.Westlake 201201: Westlake, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... T.Westlake 201201: Westlake, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,2411.49,2411.49,"CR:Resident Care -... T.Westlake 201201: Westlake, Tom",,,,,,,,,,,,,,,

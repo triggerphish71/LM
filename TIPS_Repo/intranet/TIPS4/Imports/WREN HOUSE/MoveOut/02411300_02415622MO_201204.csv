@@ -1,0 +1,5 @@
+BATCH,,201204,B,2100.0000,
+INVOICE,IN,,02411300,,04/01/2012,1050.0000,"Invoice-Private",,04/01/2012,04/10/2012,,02415622MO,-1365.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,35.0000,1050.00,"Credit for Limited Term Discount: Owens, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02411300,,04/01/2012,1050,"Invoice-Private",,04/01/2012,04/10/2012,,02415622MO,-1365.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,35,1050,"Limited Term Discount: Owens, Dorothy",,,,,,,,,,,,,,,

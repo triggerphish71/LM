@@ -1,0 +1,6 @@
+BATCH,,201303,B,5209.9000,
+INVOICE,IN,,01310214,,03/01/2013,5209.9000,"MoveIn-Turrell. David",,03/01/2013,03/01/2013,,01314342,5209.9000,,,,,,,,,,
+TRANSACTION,3010,010103013,31,72.0000,2232,"Basic Service Fee - Studio: Turrell. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,31,62.9000,1949.9,"Resident Care - Level 34: Turrell. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Turrell. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Turrell. David",,,,,,,,,,,,,,,

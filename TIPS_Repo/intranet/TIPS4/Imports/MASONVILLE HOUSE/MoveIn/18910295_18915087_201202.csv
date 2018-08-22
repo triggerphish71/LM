@@ -1,0 +1,6 @@
+BATCH,,201202,B,2921.0000,
+INVOICE,IN,,18910295,,02/01/2012,2921.0000,"February_Rent-LaDuke. Geneba",,02/01/2012,02/10/2012,,18915087,4545.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,29,89.0000,2581,"Basic Service Fee - Studio: LaDuke. Geneba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: LaDuke. Geneba",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,29,10.0000,290,"CC Meals: LaDuke. Geneba",,,,,,,,,,,,,,,
+TRANSACTION,3130,010315189,1,25.0000,25,"Pendant Fee: LaDuke. Geneba",,,,,,,,,,,,,,,

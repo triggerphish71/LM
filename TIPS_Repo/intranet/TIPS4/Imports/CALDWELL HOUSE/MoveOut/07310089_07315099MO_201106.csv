@@ -1,0 +1,6 @@
+BATCH,,201106,B,3028.0000,
+INVOICE,IN,,07310089,,06/02/2011,188.0000,"Invoice-Private",,06/02/2011,06/02/2011,,07315099MO,-2652.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,2,94.0000,188.00,"Room and Board - Studio for Jun: Thaxton, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,07310089,,06/02/2011,2840,"Invoice-Private",,06/02/2011,06/02/2011,,07315099MO,-2652.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... D.Thaxton 201106: Thaxton, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2820,2820,"CR:Room and Board ... D.Thaxton 201106: Thaxton, Dorothy",,,,,,,,,,,,,,,

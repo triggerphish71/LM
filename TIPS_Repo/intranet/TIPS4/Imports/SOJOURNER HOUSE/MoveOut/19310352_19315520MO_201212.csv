@@ -1,0 +1,8 @@
+BATCH,,201212,B,6533.6200,
+INVOICE,IN,,19310352,,12/08/2012,1276.6400,"Invoice-Private",,12/08/2012,12/08/2012,,19315520MO,-3980.3400,,,,,,,,,,
+TRANSACTION,3020,010315193,8,76.0000,608.00,"Basic Service Fee - Studio for Dec: Haire, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,8,83.5800,668.64,"Resident Care - Level 6+2 pts for Dec: Haire, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,19310352,,12/08/2012,5256.98,"Invoice-Private",,12/08/2012,12/08/2012,,19315520MO,-3980.3400,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2356,2356,"CR:Basic Service F... R.Haire 201212: Haire, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... R.Haire 201212: Haire, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,2590.98,2590.98,"CR:Resident Care -... R.Haire 201212: Haire, Rosemary",,,,,,,,,,,,,,,

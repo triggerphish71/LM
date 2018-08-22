@@ -1,0 +1,7 @@
+BATCH,,201305,B,100.0000,
+INVOICE,IN,,53310225,,05/01/2013,50.0000,"Invoice-Private",,05/01/2013,05/10/2013,,53315347MO,-3603.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25.00,"Pendant Fee: Koepl, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25.00,"Monthly Cable: Koepl, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,53310225,,05/01/2013,50,"Invoice-Private",,05/01/2013,05/10/2013,,53315347MO,-3603.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"Credit for Pendant Fee: Koepl, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"Credit for Monthly Cable: Koepl, Rosemary",,,,,,,,,,,,,,,

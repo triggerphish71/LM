@@ -1,0 +1,5 @@
+BATCH,,201109,B,4317.0000,
+INVOICE,IN,,03410256,,09/09/2011,4317.0000,"MoveIn-Alfred. Albert",,09/09/2011,09/09/2011,,03415158,4317.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,30,93.0000,2790,"Basic Service Fee - Studio         : Alfred. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Alfred. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Alfred. Albert",,,,,,,,,,,,,,,

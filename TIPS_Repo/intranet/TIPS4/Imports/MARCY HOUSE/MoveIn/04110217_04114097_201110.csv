@@ -1,0 +1,5 @@
+BATCH,,201110,B,3265.0000,
+INVOICE,IN,,04110217,,10/10/2011,3265.0000,"MoveIn-Snider. James",,10/10/2011,10/10/2011,,04114097,3265.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,22,79.0000,1738,"Basic Service Fee - Studio         : Snider. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27,"Monthly Cable: Snider. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Snider. James",,,,,,,,,,,,,,,

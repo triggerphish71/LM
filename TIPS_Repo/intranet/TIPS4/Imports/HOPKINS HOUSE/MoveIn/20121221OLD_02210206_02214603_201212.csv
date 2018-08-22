@@ -1,0 +1,5 @@
+BATCH,,201212,B,1457.0000,
+INVOICE,IN,,02210206,,12/21/2012,1457.0000,"MoveIn-Patty. Mary",,12/21/2012,12/21/2012,,02214603,4954.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,11,112.0000,1232,"Basic Service Fee - One Bedroom Premium: Patty. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Patty. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,200.0000,200,"New Resident Fee: Patty. Mary",,,,,,,,,,,,,,,

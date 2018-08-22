@@ -1,0 +1,7 @@
+BATCH,,201301,B,6554.0000,
+INVOICE,IN,,12110311,,01/01/2013,3051.0000,"Invoice-Private",,01/01/2013,01/10/2013,,12116146MO,-452.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,27,97.0000,2619.00,"Basic Service Fee - Studio for Jan: Mock, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,27,16.0000,432.00,"Resident Care - Level 1 for Jan: Mock, Erma",,,,,,,,,,,,,,,
+INVOICE,CM,,12110311,,01/01/2013,3503,"Invoice-Private",,01/01/2013,01/10/2013,,12116146MO,-452.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3007,3007,"CR:Basic Service F... E.Mock 201301: Mock, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,496,496,"CR:Resident Care -... E.Mock 201301: Mock, Erma",,,,,,,,,,,,,,,

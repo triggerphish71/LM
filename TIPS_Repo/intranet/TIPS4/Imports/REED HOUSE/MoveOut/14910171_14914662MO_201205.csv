@@ -1,0 +1,7 @@
+BATCH,,201205,B,5827.0000,
+INVOICE,IN,,14910171,,05/01/2012,775.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14914662MO,-5177.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,775.0000,775.00,"CR:Limited Term Di... S.Lee 201205: Lee, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,14910171,,05/01/2012,5052,"Invoice-Private",,05/01/2012,05/10/2012,,14914662MO,-5177.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Basic Service F... S.Lee 201205: Lee, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... S.Lee 201205: Lee, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1922,1922,"CR:Resident Care -... S.Lee 201205: Lee, Shirley",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,504.0000,
+INVOICE,IN,,50310258,,01/01/2013,252.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50314595MO,-3114.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,31,7.0000,217.00,"Credit for Limited Term Discount: Turner, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Turner, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,50310258,,01/01/2013,252,"Invoice-Private",,01/01/2013,01/10/2013,,50314595MO,-3114.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,31,7,217,"Limited Term Discount: Turner, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Turner, Russell",,,,,,,,,,,,,,,

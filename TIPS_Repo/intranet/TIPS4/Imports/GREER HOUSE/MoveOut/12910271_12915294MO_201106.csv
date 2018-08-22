@@ -1,0 +1,5 @@
+BATCH,,201106,B,1500.0000,
+INVOICE,IN,,12910271,,06/01/2011,750.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12915294MO,-310.0000,,,,,,,,,,
+TRANSACTION,3315,010310129,30,25.0000,750.00,"Credit for Promotional Discount: Pitzer, June",,,,,,,,,,,,,,,
+INVOICE,CM,,12910271,,06/01/2011,750,"Invoice-Private",,06/01/2011,06/10/2011,,12915294MO,-310.0000,,,,,,,,,,
+TRANSACTION,3315,010310129,30,25,750,"Promotional Discount: Pitzer, June",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,6140.0000,
+INVOICE,IN,,07810214,,09/01/2011,1340.0000,"Invoice-Private",,09/01/2011,09/10/2011,,07814345MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3320,010104078,1,60.0000,60.00,"CR:Limited Term Di... G.Price 201109: Price, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,8,71.0000,568.00,"Resident Care - Level 5 for Sep: Price, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104078,8,89.0000,712.00,"Room and Board - Studio for Sep: Price, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,07810214,,09/01/2011,4800,"Invoice-Private",,09/01/2011,09/10/2011,,07814345MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3027,010104078,1,2130,2130,"CR:Resident Care -... G.Price 201109: Price, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2670,2670,"CR:Room and Board ... G.Price 201109: Price, Gladys",,,,,,,,,,,,,,,

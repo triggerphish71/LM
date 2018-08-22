@@ -1,0 +1,8 @@
+BATCH,,201212,B,4540.0000,
+INVOICE,IN,,05310203,,12/29/2012,2498.6500,"Invoice-Private",,12/29/2012,12/29/2012,,05314890MO,-995.0500,,,,,,,,,,
+TRANSACTION,3320,010101053,1,589.0000,589.00,"CR:Limited Term Di... V.Key 201212: Key, Veneta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,29,39.0000,1131.00,"Basic Service Fee - Second Resident for Dec: Key, Veneta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,29,26.8500,778.65,"Resident Care - Level 15 for Dec: Key, Veneta",,,,,,,,,,,,,,,
+INVOICE,CM,,05310203,,12/29/2012,2041.35,"Invoice-Private",,12/29/2012,12/29/2012,,05314890MO,-995.0500,,,,,,,,,,
+TRANSACTION,3020,010101053,1,1209,1209,"CR:Basic Service F... V.Key 201212: Key, Veneta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,832.35,832.35,"CR:Resident Care -... V.Key 201212: Key, Veneta",,,,,,,,,,,,,,,

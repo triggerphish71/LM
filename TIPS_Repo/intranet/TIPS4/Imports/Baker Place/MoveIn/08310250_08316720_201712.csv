@@ -1,0 +1,5 @@
+BATCH,,201712,B,10552.2000,
+INVOICE,IN,,08310250,,12/11/2017,10552.2000,"MoveIn-Baker. George",,12/11/2017,12/11/2017,,08316720,10552.2000,,,,,,,,,,
+TRANSACTION,3010,010006083,21,129.0000,2709,"Basic Service Fee - Studio         : Baker. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010006083,1,3921.6000,3921.6,"Community Fee: Baker. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010006083,1,3921.6000,3921.6,"Monthly Deferral Charge: Baker. George",,,,,,,,,,,,,,,

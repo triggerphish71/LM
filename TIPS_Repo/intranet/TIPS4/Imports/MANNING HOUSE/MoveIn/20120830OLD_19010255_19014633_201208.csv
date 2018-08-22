@@ -1,0 +1,6 @@
+BATCH,,201208,B,1255.0000,
+INVOICE,IN,,19010255,,08/30/2012,1255.0000,"MoveIn-Glenn. Agatha",,08/30/2012,08/30/2012,,19014633,4702.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,2,98.0000,196,"Basic Service Fee - Studio: Glenn. Agatha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,2,16.0000,32,"Resident Care - Level 1: Glenn. Agatha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Glenn. Agatha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Glenn. Agatha",,,,,,,,,,,,,,,

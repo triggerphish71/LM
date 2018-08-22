@@ -1,0 +1,6 @@
+BATCH,,201107,B,4391.0000,
+INVOICE,IN,,14610181,,07/10/2011,1602.0000,"Invoice-Private",,07/10/2011,07/10/2011,,14614065MO,-1187.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,18,89.0000,1602.00,"Basic Service Fee - Studio for Jul: Willhoite, James",,,,,,,,,,,,,,,
+INVOICE,CM,,14610181,,07/10/2011,2789,"Invoice-Private",,07/10/2011,07/10/2011,,14614065MO,-1187.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... J.Willhoite 201107: Willhoite, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... J.Willhoite 201107: Willhoite, James",,,,,,,,,,,,,,,

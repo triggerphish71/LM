@@ -1,0 +1,7 @@
+BATCH,,201206,B,720.0000,
+INVOICE,IN,,18910294,,06/01/2012,360.0000,"Invoice-Private",,06/01/2012,06/10/2012,,18915223MO,0.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300.00,"CC Meals: Gibbs, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,2.0000,60.00,"Credit for Limited Term Discount: Gibbs, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,18910294,,06/01/2012,360,"Invoice-Private",,06/01/2012,06/10/2012,,18915223MO,0.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10,300,"Credit for CC Meals: Gibbs, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,2,60,"Limited Term Discount: Gibbs, Joan",,,,,,,,,,,,,,,

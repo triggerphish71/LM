@@ -1,0 +1,7 @@
+BATCH,,201210,B,180.0000,
+INVOICE,IN,,14410255,,10/01/2012,90.0000,"Invoice-Private",,10/01/2012,10/10/2012,,14415271MO,-5214.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Swanson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2.0000,62.00,"Credit for Limited Term Discount: Swanson, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,14410255,,10/01/2012,90,"Invoice-Private",,10/01/2012,10/10/2012,,14415271MO,-5214.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Swanson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2,62,"Limited Term Discount: Swanson, Joan",,,,,,,,,,,,,,,

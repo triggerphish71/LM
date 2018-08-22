@@ -1,0 +1,7 @@
+BATCH,,201105,B,6426.0000,
+INVOICE,IN,,10010205,,05/01/2011,1683.0000,"Invoice-Private",,05/01/2011,05/10/2011,,10013669MO,-7675.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,11,82.0000,902.00,"Basic Service Fee - Studio for May: Castle, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,11,71.0000,781.00,"Resident Care - Level 5 for May: Castle, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,10010205,,05/01/2011,4743,"Invoice-Private",,05/01/2011,05/10/2011,,10013669MO,-7675.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2542,2542,"CR:Basic Service F... S.Castle 201105: Castle, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,2201,2201,"CR:Resident Care -... S.Castle 201105: Castle, Sue",,,,,,,,,,,,,,,

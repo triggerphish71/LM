@@ -1,0 +1,7 @@
+BATCH,,201210,B,160.0000,
+INVOICE,IN,,06010129,,10/01/2012,80.0000,"Invoice-Private",,10/01/2012,10/10/2012,,06014442MO,-2150.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Pauszek, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40.0000,40.00,"Pendant Fee: Pauszek, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,06010129,,10/01/2012,80,"Invoice-Private",,10/01/2012,10/10/2012,,06014442MO,-2150.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Pauszek, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"Credit for Pendant Fee: Pauszek, Alice",,,,,,,,,,,,,,,

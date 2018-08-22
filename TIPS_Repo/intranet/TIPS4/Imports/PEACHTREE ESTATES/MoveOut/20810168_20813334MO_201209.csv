@@ -1,0 +1,8 @@
+BATCH,,201209,B,5190.0000,
+INVOICE,IN,,20810168,,09/01/2012,2490.0000,"Invoice-Private",,09/01/2012,09/01/2012,,20813334MO,-210.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,420.0000,420.00,"CR:Limited Term Di... P.Page 201209: Page, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,23,12.0000,276.00,"Resident Care - Level 1 for Sep: Page, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,23,78.0000,1794.00,"Studio for Sep: Page, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,20810168,,09/01/2012,2700,"Invoice-Private",,09/01/2012,09/01/2012,,20813334MO,-210.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,360,360,"CR:Resident Care -... P.Page 201209: Page, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2340,2340,"CR:Studio... P.Page 201209: Page, Paul",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,5328.0000,
+INVOICE,IN,,13810251,,06/01/2013,1008.0000,"Invoice-Private",,06/01/2013,06/10/2013,,13815641MO,-3312.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,7,128.0000,896.00,"Basic Service Fee- One Bedroom Premium for Jun: Baer, Emery",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,7,16.0000,112.00,"Resident Care - Level 1 for Jun: Baer, Emery",,,,,,,,,,,,,,,
+INVOICE,CM,,13810251,,06/01/2013,4320,"Invoice-Private",,06/01/2013,06/10/2013,,13815641MO,-3312.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,3840,3840,"CR:Basic Service F... E.Baer 201306: Baer, Emery",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,480,480,"CR:Resident Care -... E.Baer 201306: Baer, Emery",,,,,,,,,,,,,,,

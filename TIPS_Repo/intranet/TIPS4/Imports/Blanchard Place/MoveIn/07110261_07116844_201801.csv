@@ -1,0 +1,6 @@
+BATCH,,201801,B,6756.0000,
+INVOICE,IN,,07110261,,01/29/2018,6756.0000,"MoveIn-Pudding. Rassberry",,01/29/2018,01/29/2018,,07116844,6756.0000,,,,,,,,,,
+TRANSACTION,3010,010005071,6,115.0000,690,"Basic Service Fee - Deluxe: Pudding. Rassberry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005071,3,22.0000,66,"Resident Care - Level 1: Pudding. Rassberry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005071,1,4500.0000,4500,"Community Fee: Pudding. Rassberry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005071,1,1500.0000,1500,"Monthly Deferral Charge: Pudding. Rassberry",,,,,,,,,,,,,,,

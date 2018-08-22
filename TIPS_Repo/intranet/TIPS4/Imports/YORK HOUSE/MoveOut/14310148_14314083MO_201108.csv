@@ -1,0 +1,8 @@
+BATCH,,201108,B,8366.2000,
+INVOICE,IN,,14310148,,08/19/2011,3059.0000,"Invoice-Private",,08/19/2011,08/19/2011,,14314083MO,-7384.2000,,,,,,,,,,
+TRANSACTION,3027,010309143,19,81.0000,1539.00,"Resident Care - Level 6 for Aug: Real, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309143,19,80.0000,1520.00,"Room and Board - Studio for Aug: Real, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,14310148,,08/19/2011,5307.2,"Invoice-Private",,08/19/2011,08/19/2011,,14314083MO,-7384.2000,,,,,,,,,,
+TRANSACTION,3019,010309143,1,316.2,316.2,"CR:Additional Serv... W.Real 201108: Real, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,2511,2511,"CR:Resident Care -... W.Real 201108: Real, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2480,2480,"CR:Room and Board ... W.Real 201108: Real, Wanda",,,,,,,,,,,,,,,

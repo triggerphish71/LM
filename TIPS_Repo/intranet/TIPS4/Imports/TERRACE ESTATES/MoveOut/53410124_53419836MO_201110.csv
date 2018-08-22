@@ -1,0 +1,7 @@
+BATCH,,201110,B,2827.0000,
+INVOICE,IN,,53410124,,10/01/2011,93.0000,"Invoice-Private",,10/01/2011,10/10/2011,,53419836MO,-2641.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,93.0000,93.00,"CR:Limited Term Di... D.Huber 201110: Huber, Delores",,,,,,,,,,,,,,,
+INVOICE,CM,,53410124,,10/01/2011,2734,"Invoice-Private",,10/01/2011,10/10/2011,,53419836MO,-2641.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2604,2604,"CR:Basic Service F... D.Huber 201110: Huber, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... D.Huber 201110: Huber, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3210,010319534,1,100,100,"CR:Personal Servic... D.Huber 201110: Huber, Delores",,,,,,,,,,,,,,,

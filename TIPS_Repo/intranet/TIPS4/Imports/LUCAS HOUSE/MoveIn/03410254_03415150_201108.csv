@@ -1,0 +1,6 @@
+BATCH,,201108,B,1633.0000,
+INVOICE,IN,,03410254,,08/31/2011,1633.0000,"MoveIn-McClure. Flora",,08/31/2011,08/31/2011,,03415150,4840.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,1,93.0000,93,"Basic Service Fee - Studio         : McClure. Flora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,1,13.0000,13,"Resident Care - Level 1: McClure. Flora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: McClure. Flora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: McClure. Flora",,,,,,,,,,,,,,,

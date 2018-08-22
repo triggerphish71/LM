@@ -1,0 +1,5 @@
+BATCH,,201111,B,3390.0000,
+INVOICE,IN,,12010233,,11/01/2011,3390.0000,"November_Rent-Franklin. Mary Alice",,11/01/2011,11/10/2011,,12014139,4980.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,30,75.0000,2250,"Basic Service Fee - Studio         : Franklin. Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,30,37.0000,1110,"Resident Care - Level 3: Franklin. Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Franklin. Mary Alice",,,,,,,,,,,,,,,

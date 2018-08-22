@@ -1,0 +1,5 @@
+BATCH,,201107,B,2294.0000,
+INVOICE,IN,,11610212,,07/01/2011,1147.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11614638MO,62.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,31,37.0000,1147.00,"Credit for Limited Term Discount: Miller, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,11610212,,07/01/2011,1147,"Invoice-Private",,07/01/2011,07/10/2011,,11614638MO,62.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,31,37,1147,"Limited Term Discount: Miller, Helen",,,,,,,,,,,,,,,

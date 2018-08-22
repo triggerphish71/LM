@@ -1,0 +1,5 @@
+BATCH,,201304,B,1800.0000,
+INVOICE,IN,,06010259,,04/01/2013,300.0000,"Invoice-Private",,04/01/2013,04/10/2013,,06014516MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,6,50.0000,300.00,"Basic Service Fee - Studio for Apr: Howard, James",,,,,,,,,,,,,,,
+INVOICE,CM,,06010259,,04/01/2013,1500,"Invoice-Private",,04/01/2013,04/10/2013,,06014516MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1500,1500,"CR:Basic Service F... J.Howard 201304: Howard, James",,,,,,,,,,,,,,,

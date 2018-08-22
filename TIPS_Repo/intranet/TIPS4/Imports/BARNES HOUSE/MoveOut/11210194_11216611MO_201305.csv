@@ -1,0 +1,8 @@
+BATCH,,201305,B,4875.0000,
+INVOICE,IN,,11210194,,05/16/2013,1843.0000,"Invoice-Private",,05/16/2013,05/16/2013,,11216611MO,-4124.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,19,60.0000,1140.00,"Basic Service Fee - Studio for May: Osborne, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,19,37.0000,703.00,"Resident Care - Level 2 for May: Osborne, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,11210194,,05/16/2013,3032,"Invoice-Private",,05/16/2013,05/16/2013,,11216611MO,-4124.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,1860,1860,"CR:Basic Service F... N.Osborne 201305: Osborne, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... N.Osborne 201305: Osborne, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1147,1147,"CR:Resident Care -... N.Osborne 201305: Osborne, Nora",,,,,,,,,,,,,,,

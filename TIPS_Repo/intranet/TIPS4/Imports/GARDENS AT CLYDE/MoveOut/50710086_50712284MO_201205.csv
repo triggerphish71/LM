@@ -1,0 +1,6 @@
+BATCH,,201205,B,2542.0000,
+INVOICE,IN,,50710086,,05/01/2012,155.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50712284MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3320,010305507,1,155.0000,155.00,"CR:Limited Term Di... M.Heschel 201205: Heschel, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,50710086,,05/01/2012,2387,"Invoice-Private",,05/01/2012,05/10/2012,,50712284MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,2046,2046,"CR:Basic Service F... M.Heschel 201205: Heschel, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,341,341,"CR:Resident Care -... M.Heschel 201205: Heschel, Mary Lou",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201104,B,2503.2000,
+INVOICE,IN,,08110218,,04/28/2011,2503.2000,"MoveIn-Hubbard. George",,04/28/2011,04/28/2011,,08114087,7469.6000,,,,,,,,,,
+TRANSACTION,3010,010103081,3,88.0000,264,"Basic Service Fee - Studio         : Hubbard. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,3,71.4000,214.2,"Resident Care - Level 42: Hubbard. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Hubbard. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Hubbard. George",,,,,,,,,,,,,,,

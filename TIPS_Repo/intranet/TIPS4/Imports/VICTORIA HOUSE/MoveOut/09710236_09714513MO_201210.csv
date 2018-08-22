@@ -1,0 +1,7 @@
+BATCH,,201210,B,4781.7000,
+INVOICE,IN,,09710236,,10/09/2012,1252.3500,"Invoice-Private",,10/09/2012,10/09/2012,,09714513MO,-2277.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,11,87.0000,957.00,"Basic Service Fee - Studio for Oct: Hermanson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,11,26.8500,295.35,"Resident Care - Level 15 for Oct: Hermanson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,09710236,,10/09/2012,3529.35,"Invoice-Private",,10/09/2012,10/09/2012,,09714513MO,-2277.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2697,2697,"CR:Basic Service F... D.Hermanson 201210: Hermanson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,832.35,832.35,"CR:Resident Care -... D.Hermanson 201210: Hermanson, Dorothy",,,,,,,,,,,,,,,

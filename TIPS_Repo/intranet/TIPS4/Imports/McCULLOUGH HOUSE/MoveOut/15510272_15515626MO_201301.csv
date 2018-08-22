@@ -1,0 +1,7 @@
+BATCH,,201301,B,5372.0000,
+INVOICE,IN,,15510272,,01/01/2013,474.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15515626MO,-4424.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,3,89.0000,267.00,"Basic Service Fee - Studio for Jan: Gilmore, Thomas ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,3,69.0000,207.00,"Resident Care - Level 5 for Jan: Gilmore, Thomas ",,,,,,,,,,,,,,,
+INVOICE,CM,,15510272,,01/01/2013,4898,"Invoice-Private",,01/01/2013,01/10/2013,,15515626MO,-4424.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... T.Gilmore 201301: Gilmore, Thomas ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2139,2139,"CR:Resident Care -... T.Gilmore 201301: Gilmore, Thomas ",,,,,,,,,,,,,,,

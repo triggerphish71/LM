@@ -1,0 +1,5 @@
+BATCH,,201212,B,60.0000,
+INVOICE,IN,,15710252,,12/01/2012,30.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15714751MO,-5502.9800,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: DeRemer, Leon ",,,,,,,,,,,,,,,
+INVOICE,CM,,15710252,,12/01/2012,30,"Invoice-Private",,12/01/2012,12/10/2012,,15714751MO,-5502.9800,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: DeRemer, Leon ",,,,,,,,,,,,,,,

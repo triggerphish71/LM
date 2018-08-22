@@ -1,0 +1,5 @@
+BATCH,,201202,B,2436.0000,
+INVOICE,IN,,08810214,,02/01/2012,1218.0000,"Invoice-Private",,02/01/2012,02/10/2012,,08814222MO,-4190.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,29,42.0000,1218.00,"Credit for Limited Term Discount: Holliday, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,08810214,,02/01/2012,1218,"Invoice-Private",,02/01/2012,02/10/2012,,08814222MO,-4190.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,29,42,1218,"Limited Term Discount: Holliday, Richard",,,,,,,,,,,,,,,

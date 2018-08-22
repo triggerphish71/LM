@@ -1,0 +1,135 @@
+select
+{
+	border: #C0C0C0 inset 1px;
+	font: 10pt Courier New, Courier, mono;
+	padding: 1px;
+	color: #550000;
+	background: #FDFBEB;
+}
+
+input
+{
+	border: #C0C0C0 inset 1px;
+	font: 10pt Courier New, Courier, mono;
+	padding: 1px;
+	color: #550000;
+	background: #FDFBEB;
+}
+
+input.checkbox
+{
+	border: #C0C0C0 inset 0px;
+	font: 10pt Courier New, Courier, mono;
+	padding: 0px;
+	color: #550000;
+	background: #C0DCC0;
+}
+
+input.radio
+{
+	border: #C0C0C0 inset 0px;
+	font: 10pt Courier New, Courier, mono;
+	padding: 0px;
+	color: #550000;
+	background: #C0DCC0;
+}
+
+input.normal
+{
+	border: #000000 inset 2px;
+	font: 10pt Courier New, Courier, mono;
+	padding: 1px;
+	color: #000000;
+	background: #c0c0c0;
+}
+
+textarea
+{
+	border: #C0C0C0 inset 1px;
+	font: 10pt Courier New, Courier, mono;
+	padding: 1px;
+	color: #550000;
+	background: #FDFBEB;
+}
+
+Table
+{
+	background: transparent;
+	margin-left: auto;
+	margin-right: auto;
+	padding-right: auto;
+	padding-left: auto;
+}
+
+TD
+{
+	font-size: x-small;
+	color: black;
+	background: #DADADA;
+	padding: 2px;
+	text-align: right;
+}
+
+TD.variance
+{
+	font-size: x-small;
+	color: black;
+	background: #ccffff;
+	padding: 2px;
+	text-align: right;
+}
+
+TD.generalleft
+{
+	font-size: x-small;
+	color: black;
+	background: #DADADA;
+	padding: 2px;
+	text-align: left;
+}
+
+TD:hover
+{
+	color: White;
+	border: SlateBlue;
+}
+
+TD.mainarea
+{
+	font-size: x-small;
+	background: #ffff99;
+	color: black;
+	text-align: right;
+	padding: 2px;
+}
+
+TD.mainareaheader
+{
+	font-size: x-small;
+	background: #0066CC;
+	color: white;
+	text-align: center;
+	font-weight: bold;
+	padding: 2px;
+}
+
+TD.white
+{
+	font-size: x-small;
+	background: white;
+	padding: 2px;
+}
+
+TD.whiteleft
+{
+	font-size: x-small;
+	background: white;
+	padding: 2px;
+	text-align: left;
+}
+
+A.nounderline
+{
+	text-decoration: none;
+}
+

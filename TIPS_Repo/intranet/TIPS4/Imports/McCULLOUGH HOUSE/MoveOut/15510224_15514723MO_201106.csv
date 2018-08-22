@@ -1,0 +1,5 @@
+BATCH,,201106,B,3400.0000,
+INVOICE,IN,,15510224,,06/10/2011,850.0000,"Invoice-Private",,06/10/2011,06/10/2011,,15514723MO,-1700.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,10,85.0000,850.00,"Basic Service Fee - Studio for Jun: Brunnet, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,15510224,,06/10/2011,2550,"Invoice-Private",,06/10/2011,06/10/2011,,15514723MO,-1700.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2550,2550,"CR:Basic Service F... E.Brunnet 201106: Brunnet, Ernest",,,,,,,,,,,,,,,

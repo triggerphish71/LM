@@ -1,0 +1,5 @@
+BATCH,,201306,B,60.0000,
+INVOICE,IN,,14810350,,06/01/2013,30.0000,"Invoice-Private",,06/01/2013,06/10/2013,,14815165MO,-3887.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30.00,"Monthly Cable: Floyd, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,14810350,,06/01/2013,30,"Invoice-Private",,06/01/2013,06/10/2013,,14815165MO,-3887.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"Credit for Monthly Cable: Floyd, Muriel",,,,,,,,,,,,,,,

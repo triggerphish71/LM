@@ -1,0 +1,8 @@
+BATCH,,201304,B,5247.0000,
+INVOICE,IN,,53010250,,04/04/2013,612.0000,"Invoice-Private",,04/04/2013,04/04/2013,,53016788MO,-4023.0000,,,,,,,,,,
+TRANSACTION,3027,010319530,4,30.0000,120.00,"Resident Care - Level 1 for Apr: Petroff, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,4,123.0000,492.00,"Room and Board - Two Bedroom Premium for Apr: Petroff, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,53010250,,04/04/2013,4635,"Invoice-Private",,04/04/2013,04/04/2013,,53016788MO,-4023.0000,,,,,,,,,,
+TRANSACTION,3214,010319530,1,45,45,"CR:Garage Rental... P.Petroff 201304: Petroff, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,900,900,"CR:Resident Care -... P.Petroff 201304: Petroff, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3690,3690,"CR:Room and Board ... P.Petroff 201304: Petroff, Pat",,,,,,,,,,,,,,,

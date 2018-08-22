@@ -1,0 +1,7 @@
+BATCH,,201201,B,10431.0000,
+INVOICE,IN,,09410199,,01/26/2012,4758.0000,"Invoice-Private",,01/26/2012,01/26/2012,,09415788MO,-6222.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,26,98.0000,2548.00,"Basic Service Fee - Studio for Jan: Shadwick, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,26,85.0000,2210.00,"Resident Care - Level 6 for Jan: Shadwick, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,09410199,,01/26/2012,5673,"Invoice-Private",,01/26/2012,01/26/2012,,09415788MO,-6222.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3038,3038,"CR:Basic Service F... J.Shadwick 201201: Shadwick, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2635,2635,"CR:Resident Care -... J.Shadwick 201201: Shadwick, Jim",,,,,,,,,,,,,,,

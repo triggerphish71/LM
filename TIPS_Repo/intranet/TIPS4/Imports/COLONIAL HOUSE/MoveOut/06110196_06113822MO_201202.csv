@@ -1,0 +1,6 @@
+BATCH,,201202,B,4875.4800,
+INVOICE,IN,,06110196,,02/01/2012,986.0000,"Invoice-Private",,02/01/2012,02/10/2012,,06113822MO,-2903.4800,,,,,,,,,,
+TRANSACTION,3320,010103061,1,986.0000,986.00,"CR:Limited Term Di... S.Newton 201202: Newton, Steven",,,,,,,,,,,,,,,
+INVOICE,CM,,06110196,,02/01/2012,3889.48,"Invoice-Private",,02/01/2012,02/10/2012,,06113822MO,-2903.4800,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2436,2436,"CR:Basic Service F... S.Newton 201202: Newton, Steven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,1453.48,1453.48,"CR:Resident Care -... S.Newton 201202: Newton, Steven",,,,,,,,,,,,,,,

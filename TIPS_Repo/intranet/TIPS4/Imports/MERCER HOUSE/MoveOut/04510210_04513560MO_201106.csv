@@ -1,0 +1,7 @@
+BATCH,,201106,B,3774.0000,
+INVOICE,IN,,04510210,,06/04/2011,444.0000,"Invoice-Private",,06/04/2011,06/04/2011,,04513560MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,4,95.0000,380.00,"Basic Service Fee - One Bedroom for Jun: Carter, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,4,16.0000,64.00,"Resident Care - Level 1 for Jun: Carter, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,04510210,,06/04/2011,3330,"Invoice-Private",,06/04/2011,06/04/2011,,04513560MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2850,2850,"CR:Basic Service F... P.Carter 201106: Carter, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,480,480,"CR:Resident Care -... P.Carter 201106: Carter, Paul",,,,,,,,,,,,,,,

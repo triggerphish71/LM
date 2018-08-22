@@ -1,0 +1,7 @@
+BATCH,,201105,B,11400.0000,
+INVOICE,IN,,10210184,,05/01/2011,5510.0000,"Invoice-Private",,05/01/2011,05/10/2011,,10214632MO,-380.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,29,125.0000,3625.00,"Basic Service Fee - Deluxe for May: DiPretore, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,29,65.0000,1885.00,"Swan Personal Care - L4 for May: DiPretore, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,10210184,,05/01/2011,5890,"Invoice-Private",,05/01/2011,05/10/2011,,10214632MO,-380.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3875,3875,"CR:Basic Service F... L.DiPretore 201105: DiPretore, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2015,2015,"CR:Swan Personal C... L.DiPretore 201105: DiPretore, Lois",,,,,,,,,,,,,,,

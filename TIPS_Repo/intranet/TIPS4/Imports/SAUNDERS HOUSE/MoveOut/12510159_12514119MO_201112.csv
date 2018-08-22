@@ -1,0 +1,7 @@
+BATCH,,201112,B,4066.0000,
+INVOICE,IN,,12510159,,12/07/2011,749.0000,"Invoice-Private",,12/07/2011,12/07/2011,,12514119MO,-2568.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,7,74.0000,518.00,"Basic Service Fee - Studio for Dec: Wellman, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,7,33.0000,231.00,"Resident Care - Level 2 for Dec: Wellman, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,12510159,,12/07/2011,3317,"Invoice-Private",,12/07/2011,12/07/2011,,12514119MO,-2568.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2294,2294,"CR:Basic Service F... D.Wellman 201112: Wellman, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1023,1023,"CR:Resident Care -... D.Wellman 201112: Wellman, Dorothy",,,,,,,,,,,,,,,

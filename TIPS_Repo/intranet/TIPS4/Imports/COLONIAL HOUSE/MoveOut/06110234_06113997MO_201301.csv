@@ -1,0 +1,7 @@
+BATCH,,201301,B,4185.4000,
+INVOICE,IN,,06110234,,01/03/2013,369.3000,"Invoice-Private",,01/03/2013,01/03/2013,,06113997MO,-3446.8000,,,,,,,,,,
+TRANSACTION,3020,010103061,3,75.0000,225.00,"Basic Service Fee - Studio for Jan: Overbay, Elma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,3,48.1000,144.30,"Resident Care - Level 26 for Jan: Overbay, Elma",,,,,,,,,,,,,,,
+INVOICE,CM,,06110234,,01/03/2013,3816.1,"Invoice-Private",,01/03/2013,01/03/2013,,06113997MO,-3446.8000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2325,2325,"CR:Basic Service F... E.Overbay 201301: Overbay, Elma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,1491.1,1491.1,"CR:Resident Care -... E.Overbay 201301: Overbay, Elma",,,,,,,,,,,,,,,

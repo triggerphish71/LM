@@ -1,0 +1,7 @@
+BATCH,,201210,B,3872.0000,
+INVOICE,IN,,21410255,,10/01/2012,121.0000,"Invoice-Private",,10/01/2012,10/01/2012,,21417910MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,33.0000,33.00,"Resident Care - Level 3 for Oct: Hargrove, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,88.0000,88.00,"Studio for Oct: Hargrove, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,21410255,,10/01/2012,3751,"Invoice-Private",,10/01/2012,10/01/2012,,21417910MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1023,1023,"CR:Resident Care -... E.Hargrove 201210: Hargrove, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2728,2728,"CR:Studio... E.Hargrove 201210: Hargrove, Edna",,,,,,,,,,,,,,,

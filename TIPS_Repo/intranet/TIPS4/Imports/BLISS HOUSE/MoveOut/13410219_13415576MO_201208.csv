@@ -1,0 +1,5 @@
+BATCH,,201208,B,2294.0000,
+INVOICE,IN,,13410219,,08/01/2012,1147.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13415576MO,-3568.5200,,,,,,,,,,
+TRANSACTION,3320,010309134,31,37.0000,1147.00,"Credit for Limited Term Discount: Mosier, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13410219,,08/01/2012,1147,"Invoice-Private",,08/01/2012,08/10/2012,,13415576MO,-3568.5200,,,,,,,,,,
+TRANSACTION,3320,010309134,31,37,1147,"Limited Term Discount: Mosier, Dorothy",,,,,,,,,,,,,,,

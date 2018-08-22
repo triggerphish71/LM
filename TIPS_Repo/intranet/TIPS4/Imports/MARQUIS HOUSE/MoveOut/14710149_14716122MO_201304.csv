@@ -1,0 +1,8 @@
+BATCH,,201304,B,7072.0000,
+INVOICE,IN,,14710149,,04/08/2013,1480.0000,"Invoice-Private",,04/08/2013,04/08/2013,,14716122MO,-4112.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,8,101.0000,808.00,"Basic Service Fee - Studio for Apr: Dziedzicki, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,8,84.0000,672.00,"Resident Care - Level 6 for Apr: Dziedzicki, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,14710149,,04/08/2013,5592,"Invoice-Private",,04/08/2013,04/08/2013,,14716122MO,-4112.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3030,3030,"CR:Basic Service F... R.Dziedzicki 201304: Dziedzicki, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... R.Dziedzicki 201304: Dziedzicki, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,2520,2520,"CR:Resident Care -... R.Dziedzicki 201304: Dziedzicki, Ralph",,,,,,,,,,,,,,,

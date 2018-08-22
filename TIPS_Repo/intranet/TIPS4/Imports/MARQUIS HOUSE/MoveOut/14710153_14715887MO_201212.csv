@@ -1,0 +1,7 @@
+BATCH,,201212,B,208.0000,
+INVOICE,IN,,14710153,,12/01/2012,104.0000,"Invoice-Private",,12/01/2012,12/10/2012,,14715887MO,-390.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Matich, George",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,31,2.0000,62.00,"Credit for Limited Term Discount: Matich, George",,,,,,,,,,,,,,,
+INVOICE,CM,,14710153,,12/01/2012,104,"Invoice-Private",,12/01/2012,12/10/2012,,14715887MO,-390.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Matich, George",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,31,2,62,"Limited Term Discount: Matich, George",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,5938.6800,
+INVOICE,IN,,17110277,,02/04/2013,738.9600,"Invoice-Private",,02/04/2013,02/04/2013,,17115596MO,-4460.7600,,,,,,,,,,
+TRANSACTION,3020,010308171,4,94.0000,376.00,"Basic Service Fee - Studio for Feb: Wunder, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,4,90.7400,362.96,"Resident Care - Level 6+6 pts for Feb: Wunder, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,17110277,,02/04/2013,5199.72,"Invoice-Private",,02/04/2013,02/04/2013,,17115596MO,-4460.7600,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2632,2632,"CR:Basic Service F... L.Wunder 201302: Wunder, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... L.Wunder 201302: Wunder, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,2540.72,2540.72,"CR:Resident Care -... L.Wunder 201302: Wunder, Lucille",,,,,,,,,,,,,,,

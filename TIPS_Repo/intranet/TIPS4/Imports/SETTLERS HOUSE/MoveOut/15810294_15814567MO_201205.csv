@@ -1,0 +1,8 @@
+BATCH,,201205,B,8182.0000,
+INVOICE,IN,,15810294,,05/01/2012,3842.0000,"Invoice-Private",,05/01/2012,05/10/2012,,15814567MO,-4638.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,62.0000,62.00,"CR:Limited Term Di... B.Barning 201205: Barning, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,27,96.0000,2592.00,"Basic Service Fee - Studio for May: Barning, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,27,44.0000,1188.00,"Resident Care - Level 3 for May: Barning, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,15810294,,05/01/2012,4340,"Invoice-Private",,05/01/2012,05/10/2012,,15814567MO,-4638.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... B.Barning 201205: Barning, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1364,1364,"CR:Resident Care -... B.Barning 201205: Barning, Bonnie",,,,,,,,,,,,,,,

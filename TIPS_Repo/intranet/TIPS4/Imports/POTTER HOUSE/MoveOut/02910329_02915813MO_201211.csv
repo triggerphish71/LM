@@ -1,0 +1,5 @@
+BATCH,,201211,B,2100.0000,
+INVOICE,IN,,02910329,,11/01/2012,1050.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02915813MO,-2065.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,30,35.0000,1050.00,"Credit for Limited Term Discount: Cheek, Patsy",,,,,,,,,,,,,,,
+INVOICE,CM,,02910329,,11/01/2012,1050,"Invoice-Private",,11/01/2012,11/10/2012,,02915813MO,-2065.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,30,35,1050,"Limited Term Discount: Cheek, Patsy",,,,,,,,,,,,,,,

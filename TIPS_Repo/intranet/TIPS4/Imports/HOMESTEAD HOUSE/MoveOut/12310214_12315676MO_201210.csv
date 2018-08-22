@@ -1,0 +1,7 @@
+BATCH,,201210,B,4680.0000,
+INVOICE,IN,,12310214,,10/21/2012,1890.0000,"Invoice-Private",,10/21/2012,10/21/2012,,12315676MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,21,38.0000,798.00,"Basic Service Fee - Second Resident for Oct: Hajek, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,21,52.0000,1092.00,"Resident Care - Level 3 for Oct: Hajek, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,12310214,,10/21/2012,2790,"Invoice-Private",,10/21/2012,10/21/2012,,12315676MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,1178,1178,"CR:Basic Service F... M.Hajek 201210: Hajek, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... M.Hajek 201210: Hajek, Marie",,,,,,,,,,,,,,,

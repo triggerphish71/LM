@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,00910076,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,00913549MO,-4048.0600,,,,,,,,,,
+TRANSACTION,3320,010101009,30,2.0000,60.00,"Credit for Limited Term Discount: Bronson, Mildred Rowena",,,,,,,,,,,,,,,
+INVOICE,CM,,00910076,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,00913549MO,-4048.0600,,,,,,,,,,
+TRANSACTION,3320,010101009,30,2,60,"Limited Term Discount: Bronson, Mildred Rowena",,,,,,,,,,,,,,,

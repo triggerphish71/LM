@@ -1,0 +1,7 @@
+BATCH,,201206,B,3836.1000,
+INVOICE,IN,,01810148,,06/06/2012,807.6000,"Invoice-Private",,06/06/2012,06/06/2012,,01812524MO,-2220.9000,,,,,,,,,,
+TRANSACTION,3020,010103018,8,92.0000,736.00,"Basic Service Fee - One Bedroom for Jun: Smith, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,8,8.9500,71.60,"Resident Care - Level 5 for Jun: Smith, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,01810148,,06/06/2012,3028.5,"Invoice-Private",,06/06/2012,06/06/2012,,01812524MO,-2220.9000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2760,2760,"CR:Basic Service F... R.Smith 201206: Smith, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,268.5,268.5,"CR:Resident Care -... R.Smith 201206: Smith, Robert",,,,,,,,,,,,,,,

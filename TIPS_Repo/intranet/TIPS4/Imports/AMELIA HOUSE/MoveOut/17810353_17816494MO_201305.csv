@@ -1,0 +1,6 @@
+BATCH,,201305,B,3150.0000,
+INVOICE,IN,,17810353,,05/01/2013,356.0000,"Invoice-Private",,05/01/2013,05/10/2013,,17816494MO,-2438.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,4,89.0000,356.00,"Basic Service Fee - Studio for May: Shaver, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,17810353,,05/01/2013,2794,"Invoice-Private",,05/01/2013,05/10/2013,,17816494MO,-2438.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2759,2759,"CR:Basic Service F... G.Shaver 201305: Shaver, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... G.Shaver 201305: Shaver, Gertrude",,,,,,,,,,,,,,,

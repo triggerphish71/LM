@@ -1,0 +1,8 @@
+BATCH,,201201,B,7361.0000,
+INVOICE,IN,,50210146,,01/25/2012,3275.0000,"Invoice-Private",,01/25/2012,01/25/2012,,50213286MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,25,83.0000,2075.00,"Basic Service Fee - Studio for Jan: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,25,48.0000,1200.00,"Resident Care - Level 4 for Jan: Fisher, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,50210146,,01/25/2012,4086,"Invoice-Private",,01/25/2012,01/25/2012,,50213286MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2573,2573,"CR:Basic Service F... F.Fisher 201201: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... F.Fisher 201201: Fisher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1488,1488,"CR:Resident Care -... F.Fisher 201201: Fisher, Francis",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,4175.0000,
+INVOICE,IN,,05810219,,04/06/2012,4175.0000,"MoveIn-Hector. Nelson",,04/06/2012,04/06/2012,,05813850,4175.0000,,,,,,,,,,
+TRANSACTION,3010,010202058,25,82.0000,2050,"Basic Service Fee - Studio: Hector. Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202058,25,44.0000,1100,"Resident Care - Level 3: Hector. Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25,"Monthly Cable: Hector. Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000.0000,1000,"New Resident Fee: Hector. Nelson",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201307,B,3198.0000,
+INVOICE,IN,,13310415,,07/01/2013,311.0000,"Invoice-Private",,07/01/2013,07/10/2013,,13315886MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,3,92.0000,276.00,"Basic Service Fee - Studio for Jul: Davis, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Davis, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13310415,,07/01/2013,2887,"Invoice-Private",,07/01/2013,07/10/2013,,13315886MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... R.Davis 201307: Davis, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Davis, Richard",,,,,,,,,,,,,,,

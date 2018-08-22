@@ -1,0 +1,7 @@
+BATCH,,201208,B,4445.0000,
+INVOICE,IN,,15810287,,08/04/2012,508.0000,"Invoice-Private",,08/04/2012,08/04/2012,,15814651MO,-3429.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,4,96.0000,384.00,"Basic Service Fee - Studio for Aug: Wiltfong, Marsena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,4,31.0000,124.00,"Resident Care - Level 2 for Aug: Wiltfong, Marsena",,,,,,,,,,,,,,,
+INVOICE,CM,,15810287,,08/04/2012,3937,"Invoice-Private",,08/04/2012,08/04/2012,,15814651MO,-3429.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... M.Wiltfong 201208: Wiltfong, Marsena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,961,961,"CR:Resident Care -... M.Wiltfong 201208: Wiltfong, Marsena",,,,,,,,,,,,,,,

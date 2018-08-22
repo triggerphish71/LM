@@ -1,0 +1,5 @@
+BATCH,,201107,B,3561.0000,
+INVOICE,IN,,19010214,,07/01/2011,3561.0000,"July_Rent-Raymond. Rita",,07/01/2011,07/10/2011,,19014178,4702.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,31,98.0000,3038,"R.Raymond: Basic Service Fee - Studio: Raymond. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,31,16.0000,496,"R.Raymond: Resident Care - Level 1: Raymond. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Raymond. Rita",,,,,,,,,,,,,,,

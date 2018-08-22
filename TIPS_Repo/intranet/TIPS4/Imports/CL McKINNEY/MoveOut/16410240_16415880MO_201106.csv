@@ -1,0 +1,8 @@
+BATCH,,201106,B,5129.0000,
+INVOICE,IN,,16410240,,06/01/2011,1624.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16415880MO,-1881.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,14,92.0000,1288.00,"Basic Service Fee - Studio Deluxe for Jun: Miller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,14,24.0000,336.00,"Resident Care - Level 2 for Jun: Miller, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,16410240,,06/01/2011,3505,"Invoice-Private",,06/01/2011,06/10/2011,,16415880MO,-1881.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2760,2760,"CR:Basic Service F... M.Miller 201106: Miller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25,25,"CR:Monthly Cable... M.Miller 201106: Miller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,720,720,"CR:Resident Care -... M.Miller 201106: Miller, Mary",,,,,,,,,,,,,,,

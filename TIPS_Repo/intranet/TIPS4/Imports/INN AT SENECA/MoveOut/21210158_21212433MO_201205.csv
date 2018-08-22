@@ -1,0 +1,5 @@
+BATCH,,201205,B,372.0000,
+INVOICE,IN,,21210158,,05/01/2012,186.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21212433MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,6.0000,186.00,"Credit for Limited Term Discount: Holmlin, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,21210158,,05/01/2012,186,"Invoice-Private",,05/01/2012,05/10/2012,,21212433MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,6,186,"Limited Term Discount: Holmlin, Mary Ann",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,5017.0000,
+INVOICE,IN,,19310328,,09/23/2011,2047.0000,"Invoice-Private",,09/23/2011,09/23/2011,,19314909MO,-3992.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,23,72.0000,1656.00,"Basic Service Fee - Studio for Sep: Van Luke, Jill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,23,17.0000,391.00,"Resident Care - Level 1 for Sep: Van Luke, Jill",,,,,,,,,,,,,,,
+INVOICE,CM,,19310328,,09/23/2011,2970,"Invoice-Private",,09/23/2011,09/23/2011,,19314909MO,-3992.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2160,2160,"CR:Basic Service F... J.Van Luke 201109: Van Luke, Jill",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... J.Van Luke 201109: Van Luke, Jill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,510,510,"CR:Resident Care -... J.Van Luke 201109: Van Luke, Jill",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,7045.0000,
+INVOICE,IN,,14910155,,07/30/2011,3450.0000,"Invoice-Private",,07/30/2011,07/30/2011,,14914313MO,-3740.0000,,,,,,,,,,
+TRANSACTION,3027,010212149,30,18.0000,540.00,"Resident Care - Level 1 for Jul: Campbell, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,30,97.0000,2910.00,"Room and Board - Studio for Jul: Campbell, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,14910155,,07/30/2011,3595,"Invoice-Private",,07/30/2011,07/30/2011,,14914313MO,-3740.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... E.Campbell 201107: Campbell, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,558,558,"CR:Resident Care -... E.Campbell 201107: Campbell, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3007,3007,"CR:Room and Board ... E.Campbell 201107: Campbell, Edna",,,,,,,,,,,,,,,

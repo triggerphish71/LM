@@ -1,0 +1,7 @@
+BATCH,,201108,B,742.0000,
+INVOICE,IN,,13510193,,08/01/2011,371.0000,"Invoice-Private",,08/01/2011,08/10/2011,,13514685MO,-6759.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Owings, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,31,11.0000,341.00,"Credit for Limited Term Discount: Owings, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,13510193,,08/01/2011,371,"Invoice-Private",,08/01/2011,08/10/2011,,13514685MO,-6759.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Owings, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,31,11,341,"Limited Term Discount: Owings, Herbert",,,,,,,,,,,,,,,

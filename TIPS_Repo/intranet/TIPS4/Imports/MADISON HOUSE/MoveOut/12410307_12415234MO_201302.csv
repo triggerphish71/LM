@@ -1,0 +1,8 @@
+BATCH,,201302,B,4217.0000,
+INVOICE,IN,,12410307,,02/23/2013,1886.0000,"Invoice-Private",,02/23/2013,02/23/2013,,12415234MO,-3022.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,23,50.0000,1150.00,"Basic Service Fee - Studio for Feb: Lee, Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3037,010211124,23,32.0000,736.00,"Private Care Rate Adjustment for Feb: Lee, Glenda",,,,,,,,,,,,,,,
+INVOICE,CM,,12410307,,02/23/2013,2331,"Invoice-Private",,02/23/2013,02/23/2013,,12415234MO,-3022.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,1400,1400,"CR:Basic Service F... G.Lee 201302: Lee, Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... G.Lee 201302: Lee, Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3037,010211124,1,896,896,"CR:Private Care Ra... G.Lee 201302: Lee, Glenda",,,,,,,,,,,,,,,

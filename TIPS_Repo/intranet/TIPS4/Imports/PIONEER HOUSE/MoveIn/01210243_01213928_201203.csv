@@ -1,0 +1,5 @@
+BATCH,,201203,B,2294.0000,
+INVOICE,IN,,01210243,,03/23/2012,2294.0000,"MoveIn-Lloyd. Bill",,03/23/2012,03/23/2012,,01213928,4873.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,9,85.0000,765,"B.Lloyd: Basic Service Fee - Studio: Lloyd. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Lloyd. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Lloyd. Bill",,,,,,,,,,,,,,,

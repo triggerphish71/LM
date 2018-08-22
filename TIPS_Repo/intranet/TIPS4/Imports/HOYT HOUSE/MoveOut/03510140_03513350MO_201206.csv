@@ -1,0 +1,5 @@
+BATCH,,201206,B,1080.0000,
+INVOICE,IN,,03510140,,06/01/2012,540.0000,"Invoice-Private",,06/01/2012,06/10/2012,,03513350MO,-4813.0000,,,,,,,,,,
+TRANSACTION,3320,010202035,30,18.0000,540.00,"Credit for Limited Term Discount: Blanchard, Ross",,,,,,,,,,,,,,,
+INVOICE,CM,,03510140,,06/01/2012,540,"Invoice-Private",,06/01/2012,06/10/2012,,03513350MO,-4813.0000,,,,,,,,,,
+TRANSACTION,3320,010202035,30,18,540,"Limited Term Discount: Blanchard, Ross",,,,,,,,,,,,,,,

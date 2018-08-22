@@ -1,0 +1,6 @@
+BATCH,,201205,B,3275.0000,
+INVOICE,IN,,13610313,,05/04/2012,3275.0000,"MoveIn-Wilcox. Ann",,05/04/2012,05/04/2012,,13614748,3275.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,28,65.0000,1820,"Basic Service Fee - Studio: Wilcox. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309136,28,15.0000,420,"Resident Care - Level 1: Wilcox. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Wilcox. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Wilcox. Ann",,,,,,,,,,,,,,,

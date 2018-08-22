@@ -1,0 +1,7 @@
+BATCH,,201204,B,4678.4000,
+INVOICE,IN,,00510149,,04/13/2012,1414.4000,"Invoice-Private",,04/13/2012,04/13/2012,,00512436MO,-1849.6000,,,,,,,,,,
+TRANSACTION,3020,010101005,13,73.0000,949.00,"Basic Service Fee - Studio for Apr: McCamman, Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,13,35.8000,465.40,"Resident Care - Level 20 for Apr: McCamman, Elvera",,,,,,,,,,,,,,,
+INVOICE,CM,,00510149,,04/13/2012,3264,"Invoice-Private",,04/13/2012,04/13/2012,,00512436MO,-1849.6000,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2190,2190,"CR:Basic Service F... E.McCamman 201204: McCamman, Elvera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,1074,1074,"CR:Resident Care -... E.McCamman 201204: McCamman, Elvera",,,,,,,,,,,,,,,

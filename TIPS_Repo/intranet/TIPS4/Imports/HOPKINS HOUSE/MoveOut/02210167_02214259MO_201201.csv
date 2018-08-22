@@ -1,0 +1,7 @@
+BATCH,,201201,B,6728.0000,
+INVOICE,IN,,02210167,,01/13/2012,3132.0000,"Invoice-Private",,01/13/2012,01/13/2012,,02214259MO,-3828.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,27,85.0000,2295.00,"Basic Service Fee - Studio for Jan: Thomas, Dixie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,27,31.0000,837.00,"Resident Care - Level 2 for Jan: Thomas, Dixie",,,,,,,,,,,,,,,
+INVOICE,CM,,02210167,,01/13/2012,3596,"Invoice-Private",,01/13/2012,01/13/2012,,02214259MO,-3828.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2635,2635,"CR:Basic Service F... D.Thomas 201201: Thomas, Dixie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,961,961,"CR:Resident Care -... D.Thomas 201201: Thomas, Dixie",,,,,,,,,,,,,,,

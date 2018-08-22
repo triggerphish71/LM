@@ -1,0 +1,6 @@
+BATCH,,201205,B,3607.0000,
+INVOICE,IN,,20210189,,05/02/2012,1034.0000,"Invoice-Private",,05/02/2012,05/02/2012,,20212618MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,868.0000,868.00,"CR:Limited Term Di... D.Spencer 201205: Spencer, Demetria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,2,83.0000,166.00,"Room and Board - Studio for May: Spencer, Demetria",,,,,,,,,,,,,,,
+INVOICE,CM,,20210189,,05/02/2012,2573,"Invoice-Private",,05/02/2012,05/02/2012,,20212618MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Room and Board ... D.Spencer 201205: Spencer, Demetria",,,,,,,,,,,,,,,

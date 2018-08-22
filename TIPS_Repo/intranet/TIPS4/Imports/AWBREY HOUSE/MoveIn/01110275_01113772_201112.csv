@@ -1,0 +1,4 @@
+BATCH,,201112,B,3070.0000,
+INVOICE,IN,,01110275,,12/09/2011,3070.0000,"MoveIn-Williams. Claude",,12/09/2011,12/09/2011,,01113772,3070.0000,,,,,,,,,,
+TRANSACTION,3010,010101011,23,90.0000,2070,"Basic Service Fee - One Bedroom: Williams. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Williams. Claude",,,,,,,,,,,,,,,

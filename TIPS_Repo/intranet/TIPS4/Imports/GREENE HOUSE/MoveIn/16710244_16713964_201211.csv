@@ -1,0 +1,5 @@
+BATCH,,201211,B,5100.0000,
+INVOICE,IN,,16710244,,11/01/2012,5100.0000,"November_Rent-Crabb. Dr. Wilfred",,11/01/2012,11/10/2012,,16713964,5299.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,30,91.0000,2730,"D.Crabb: Basic Service Fee - Studio: Crabb. Dr. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,30,78.0000,2340,"D.Crabb: Resident Care - Level 6: Crabb. Dr. Wilfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Crabb. Dr. Wilfred",,,,,,,,,,,,,,,

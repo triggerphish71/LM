@@ -1,0 +1,8 @@
+BATCH,,201302,B,3916.0000,
+INVOICE,IN,,17510190,,02/09/2013,1452.0000,"Invoice-Private",,02/09/2013,02/09/2013,,17517897MO,-1012.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,308.0000,308.00,"CR:Limited Term Di... M.Daugherty 201302: Daugherty, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,13,76.0000,988.00,"Basic Service Fee - Studio Deluxe for Feb: Daugherty, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,13,12.0000,156.00,"Resident Care - Level 1 for Feb: Daugherty, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,17510190,,02/09/2013,2464,"Invoice-Private",,02/09/2013,02/09/2013,,17517897MO,-1012.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2128,2128,"CR:Basic Service F... M.Daugherty 201302: Daugherty, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,336,336,"CR:Resident Care -... M.Daugherty 201302: Daugherty, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,8874.0000,
+INVOICE,IN,,12310149,,11/28/2012,4284.0000,"Invoice-Private",,11/28/2012,11/28/2012,,12315731MO,-5049.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,28,115.0000,3220.00,"Basic Service Fee - Deluxe for Nov: Simmons, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,28,38.0000,1064.00,"Resident Care - Level 2 for Nov: Simmons, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,12310149,,11/28/2012,4590,"Invoice-Private",,11/28/2012,11/28/2012,,12315731MO,-5049.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3450,3450,"CR:Basic Service F... E.Simmons 201211: Simmons, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1140,1140,"CR:Resident Care -... E.Simmons 201211: Simmons, Eileen",,,,,,,,,,,,,,,

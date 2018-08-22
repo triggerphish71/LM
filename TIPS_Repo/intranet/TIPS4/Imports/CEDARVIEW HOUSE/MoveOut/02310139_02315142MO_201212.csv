@@ -1,0 +1,8 @@
+BATCH,,201212,B,6859.0000,
+INVOICE,IN,,02310139,,12/30/2012,3608.0000,"Invoice-Private",,12/30/2012,12/30/2012,,02315142MO,-2340.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,248.0000,248.00,"CR:Limited Term Di... R.Marcrum 201212: Marcrum, Roland",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,30,95.0000,2850.00,"Basic Service Fee - Studio for Dec: Marcrum, Roland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,30,17.0000,510.00,"Service : lvl 0 to lvl 1 - 12/14/12 for Dec: Marcrum, Roland",,,,,,,,,,,,,,,
+INVOICE,CM,,02310139,,12/30/2012,3251,"Invoice-Private",,12/30/2012,12/30/2012,,02315142MO,-2340.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2945,2945,"CR:Basic Service F... R.Marcrum 201212: Marcrum, Roland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,306,306,"CR:Service : lvl 0... R.Marcrum 201212: Marcrum, Roland",,,,,,,,,,,,,,,

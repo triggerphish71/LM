@@ -1,0 +1,8 @@
+BATCH,,201110,B,1850.0000,
+INVOICE,IN,,09010234,,10/01/2011,455.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09014775MO,-940.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,9,30.0000,270.00,"Basic Service Fee - Second Resident for Oct: Webb, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,9,15.0000,135.00,"Resident Care - Level 1 for Oct: Webb, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3150,010104090,1,50.0000,50.00,"Late Fee Payment: Webb, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,09010234,,10/01/2011,1395,"Invoice-Private",,10/01/2011,10/10/2011,,09014775MO,-940.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,930,930,"CR:Basic Service F... S.Webb 201110: Webb, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,465,465,"CR:Resident Care -... S.Webb 201110: Webb, Shirley",,,,,,,,,,,,,,,

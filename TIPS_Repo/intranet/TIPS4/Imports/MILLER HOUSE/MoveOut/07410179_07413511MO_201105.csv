@@ -1,0 +1,8 @@
+BATCH,,201105,B,5440.0000,
+INVOICE,IN,,07410179,,05/06/2011,1038.0000,"Invoice-Private",,05/06/2011,05/06/2011,,07413511MO,-3364.0000,,,,,,,,,,
+TRANSACTION,3320,010305074,1,186.0000,186.00,"CR:Limited Term Di... L.Waggoner 201105: Waggoner, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305074,6,70.0000,420.00,"Basic Service Fee - Studio for May: Waggoner, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,6,72.0000,432.00,"Resident Care - Level 5 for May: Waggoner, Lela",,,,,,,,,,,,,,,
+INVOICE,CM,,07410179,,05/06/2011,4402,"Invoice-Private",,05/06/2011,05/06/2011,,07413511MO,-3364.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2170,2170,"CR:Basic Service F... L.Waggoner 201105: Waggoner, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,2232,2232,"CR:Resident Care -... L.Waggoner 201105: Waggoner, Lela",,,,,,,,,,,,,,,

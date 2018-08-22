@@ -1,0 +1,6 @@
+BATCH,,201305,B,4515.0000,
+INVOICE,IN,,16010384,,05/06/2013,4515.0000,"MoveIn-Pontious. Maizel",,05/06/2013,05/06/2013,,16015582,4515.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,26,99.0000,2574,"Basic Service Fee - Studio: Pontious. Maizel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,26,16.0000,416,"Resident Care - Level 1: Pontious. Maizel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Pontious. Maizel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,1500.0000,1500,"New Resident Fee: Pontious. Maizel",,,,,,,,,,,,,,,

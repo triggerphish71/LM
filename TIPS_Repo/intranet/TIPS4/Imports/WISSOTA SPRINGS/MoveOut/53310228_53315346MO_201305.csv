@@ -1,0 +1,7 @@
+BATCH,,201305,B,100.0000,
+INVOICE,IN,,53310228,,05/01/2013,50.0000,"Invoice-Private",,05/01/2013,05/10/2013,,53315346MO,-4900.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25.00,"Pendant Fee: Stockinger, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25.00,"Monthly Cable: Stockinger, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,53310228,,05/01/2013,50,"Invoice-Private",,05/01/2013,05/10/2013,,53315346MO,-4900.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"Credit for Pendant Fee: Stockinger, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"Credit for Monthly Cable: Stockinger, Paul",,,,,,,,,,,,,,,

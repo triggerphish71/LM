@@ -1,0 +1,8 @@
+BATCH,,201210,B,4055.6000,
+INVOICE,IN,,04910214,,10/04/2012,460.6400,"Invoice-Private",,10/04/2012,10/04/2012,,04913478MO,-3134.3200,,,,,,,,,,
+TRANSACTION,3020,010101049,4,108.0000,432.00,"Basic Service Fee - One Bedroom for Oct: Reith, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,4,7.1600,28.64,"Resident Care - Level 4 for Oct: Reith, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,04910214,,10/04/2012,3594.96,"Invoice-Private",,10/04/2012,10/04/2012,,04913478MO,-3134.3200,,,,,,,,,,
+TRANSACTION,3020,010101049,1,3348,3348,"CR:Basic Service F... L.Reith 201210: Reith, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... L.Reith 201210: Reith, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,221.96,221.96,"CR:Resident Care -... L.Reith 201210: Reith, Laura",,,,,,,,,,,,,,,

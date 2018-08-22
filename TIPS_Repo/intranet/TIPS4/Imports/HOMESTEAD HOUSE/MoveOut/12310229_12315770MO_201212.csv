@@ -1,0 +1,6 @@
+BATCH,,201212,B,5710.0000,
+INVOICE,IN,,12310229,,12/13/2012,2517.0000,"Invoice-Private",,12/13/2012,12/13/2012,,12315770MO,-4303.0000,,,,,,,,,,
+TRANSACTION,3320,010211123,1,1178.0000,1178.00,"CR:Limited Term Di... E.Oltman 201212: Oltman, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211123,13,103.0000,1339.00,"Basic Service Fee - Studio for Dec: Oltman, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,12310229,,12/13/2012,3193,"Invoice-Private",,12/13/2012,12/13/2012,,12315770MO,-4303.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... E.Oltman 201212: Oltman, Elizabeth",,,,,,,,,,,,,,,

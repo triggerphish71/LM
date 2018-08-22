@@ -1,0 +1,8 @@
+BATCH,,201306,B,4448.0000,
+INVOICE,IN,,18910344,,06/01/2013,488.0000,"Invoice-Private",,06/01/2013,06/01/2013,,18915904MO,-3472.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,4,89.0000,356.00,"Basic Service Fee - Studio for Jun: Smead, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,4,33.0000,132.00,"Resident Care - Level 2 for Jun: Smead, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,18910344,,06/01/2013,3960,"Invoice-Private",,06/01/2013,06/01/2013,,18915904MO,-3472.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2670,2670,"CR:Basic Service F... W.Smead 201306: Smead, Willard",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,300,300,"CR:CC Meals... W.Smead 201306: Smead, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,990,990,"CR:Resident Care -... W.Smead 201306: Smead, Willard",,,,,,,,,,,,,,,

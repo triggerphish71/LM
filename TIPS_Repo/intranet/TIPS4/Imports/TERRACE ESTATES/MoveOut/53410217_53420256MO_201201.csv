@@ -1,0 +1,5 @@
+BATCH,,201201,B,5021.0000,
+INVOICE,CM,,53410217,,01/01/2012,5021,"Invoice-Private",,01/01/2012,01/10/2012,,53420256MO,-5021.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2201,2201,"CR:Basic Service F... C.Westover 201201: Westover, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... C.Westover 201201: Westover, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2790,2790,"CR:Resident Care -... C.Westover 201201: Westover, Catherine",,,,,,,,,,,,,,,

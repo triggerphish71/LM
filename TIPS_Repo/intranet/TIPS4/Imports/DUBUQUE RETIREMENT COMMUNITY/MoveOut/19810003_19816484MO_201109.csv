@@ -1,0 +1,7 @@
+BATCH,,201109,B,4200.0000,
+INVOICE,IN,,19810003,,09/01/2011,240.0000,"Invoice-Private",,09/01/2011,09/10/2011,,19816484MO,-4372.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,240.0000,240.00,"CR:Limited Term Di... F.Noel 201109: Noel, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,19810003,,09/01/2011,3960,"Invoice-Private",,09/01/2011,09/10/2011,,19816484MO,-4372.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2520,2520,"CR:Basic Service F... F.Noel 201109: Noel, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... F.Noel 201109: Noel, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1410,1410,"CR:Swan Personal C... F.Noel 201109: Noel, Florence",,,,,,,,,,,,,,,

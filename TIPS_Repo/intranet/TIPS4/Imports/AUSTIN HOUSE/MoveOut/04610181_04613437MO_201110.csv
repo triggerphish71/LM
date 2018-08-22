@@ -1,0 +1,7 @@
+BATCH,,201110,B,4383.0000,
+INVOICE,IN,,04610181,,10/01/2011,1382.0000,"Invoice-Private",,10/01/2011,10/01/2011,,04613437MO,-1619.0000,,,,,,,,,,
+TRANSACTION,3320,010202046,1,806.0000,806.00,"CR:Limited Term Di... F.Sowell 201110: Sowell, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202046,6,96.0000,576.00,"Basic Service Fee - Studio for Oct: Sowell, Frankie",,,,,,,,,,,,,,,
+INVOICE,CM,,04610181,,10/01/2011,3001,"Invoice-Private",,10/01/2011,10/01/2011,,04613437MO,-1619.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,2976,2976,"CR:Basic Service F... F.Sowell 201110: Sowell, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25,25,"CR:Monthly Cable... F.Sowell 201110: Sowell, Frankie",,,,,,,,,,,,,,,

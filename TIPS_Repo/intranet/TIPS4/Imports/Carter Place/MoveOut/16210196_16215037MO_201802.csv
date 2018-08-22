@@ -1,0 +1,6 @@
+BATCH,,201802,B,6933.3300,
+INVOICE,IN,,16210196,,02/01/2018,4133.3300,"Invoice-Private",,02/01/2018,02/10/2018,,16215037MO,3733.3300,,,,,,,,,,
+TRANSACTION,3216,010011162,1,1333.3300,1333.33,"Community Fee Unpaid Balance: Christopher, Laurie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,28,100.0000,2800.00,"Community Fee Installment Charge: Christopher, Laurie",,,,,,,,,,,,,,,
+INVOICE,CM,,16210196,,02/01/2018,2800,"Invoice-Private",,02/01/2018,02/10/2018,,16215037MO,3733.3300,,,,,,,,,,
+TRANSACTION,3216,010011162,28,100,2800,"Credit for Community Fee Installment Charge: Christopher, Laurie",,,,,,,,,,,,,,,

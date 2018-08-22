@@ -1,0 +1,8 @@
+BATCH,,201106,B,5305.0000,
+INVOICE,IN,,21010242,,06/01/2011,1980.0000,"Invoice-Private",,06/01/2011,06/10/2011,,21012948MO,-1345.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,18,20.0000,360.00,"Resident Care - Level 2 for Jun: Giansiracusa, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,18,90.0000,1620.00,"Studio for Jun: Giansiracusa, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,21010242,,06/01/2011,3325,"Invoice-Private",,06/01/2011,06/10/2011,,21012948MO,-1345.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... B.Giansiracusa 201106: Giansiracusa, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,600,600,"CR:Resident Care -... B.Giansiracusa 201106: Giansiracusa, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2700,2700,"CR:Studio... B.Giansiracusa 201106: Giansiracusa, Beatrice",,,,,,,,,,,,,,,

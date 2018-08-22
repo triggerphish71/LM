@@ -1,0 +1,8 @@
+BATCH,,201208,B,5667.0000,
+INVOICE,IN,,18910092,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,18915365MO,-8706.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,62.0000,62.00,"CR:Limited Term Di... R.Adams 201208: Adams, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,18910092,,08/01/2012,5605,"Invoice-Private",,08/01/2012,08/10/2012,,18915365MO,-8706.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,3503,3503,"CR:Basic Service F... R.Adams 201208: Adams, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... R.Adams 201208: Adams, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... R.Adams 201208: Adams, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1767,1767,"CR:Resident Care -... R.Adams 201208: Adams, Ruth",,,,,,,,,,,,,,,

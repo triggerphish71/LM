@@ -1,0 +1,7 @@
+BATCH,,201107,B,3397.2000,
+INVOICE,IN,,51810154,,07/07/2011,625.8000,"Invoice-Private",,07/07/2011,07/07/2011,,51812227MO,-2145.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,7,30.0000,210.00,"Basic Service Fee - Second Resident for Jul: Funk, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,7,59.4000,415.80,"Resident Care - Level 36 for Jul: Funk, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,51810154,,07/07/2011,2771.4,"Invoice-Private",,07/07/2011,07/07/2011,,51812227MO,-2145.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,930,930,"CR:Basic Service F... B.Funk 201107: Funk, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,1841.4,1841.4,"CR:Resident Care -... B.Funk 201107: Funk, Barbara",,,,,,,,,,,,,,,

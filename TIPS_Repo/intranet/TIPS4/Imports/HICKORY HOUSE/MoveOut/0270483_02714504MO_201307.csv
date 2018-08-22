@@ -1,0 +1,8 @@
+BATCH,,201307,B,6889.0000,
+INVOICE,IN,,0270483,,07/16/2013,2772.0000,"Invoice-Private",,07/16/2013,07/16/2013,,02714504MO,-5462.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,21,115.0000,2415.00,"Basic Service Fee - One Bedroom for Jul: Blume, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,21,17.0000,357.00,"Resident Care - Level 1 for Jul: Blume, Charlene",,,,,,,,,,,,,,,
+INVOICE,CM,,0270483,,07/16/2013,4117,"Invoice-Private",,07/16/2013,07/16/2013,,02714504MO,-5462.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,3565,3565,"CR:Basic Service F... C.Blume 201307: Blume, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"CR:Monthly Cable... C.Blume 201307: Blume, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,527,527,"CR:Resident Care -... C.Blume 201307: Blume, Charlene",,,,,,,,,,,,,,,

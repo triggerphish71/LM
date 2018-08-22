@@ -1,0 +1,8 @@
+BATCH,,201211,B,5665.0000,
+INVOICE,IN,,11110319,,11/10/2012,1410.0000,"Invoice-Private",,11/10/2012,11/10/2012,,11115018MO,-2845.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,10,97.0000,970.00,"Basic Service Fee - Studio for Nov: Ellery, Betty Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,10,44.0000,440.00,"Resident Care - Level 3 for Nov: Ellery, Betty Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,11110319,,11/10/2012,4255,"Invoice-Private",,11/10/2012,11/10/2012,,11115018MO,-2845.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2910,2910,"CR:Basic Service F... B.Ellery 201211: Ellery, Betty Lou",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... B.Ellery 201211: Ellery, Betty Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1320,1320,"CR:Resident Care -... B.Ellery 201211: Ellery, Betty Lou",,,,,,,,,,,,,,,

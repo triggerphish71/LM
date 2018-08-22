@@ -1,0 +1,6 @@
+BATCH,,201207,B,4308.0000,
+INVOICE,IN,,14610249,,07/01/2012,1395.0000,"Invoice-Private",,07/01/2012,07/10/2012,,14614553MO,-1518.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,15,93.0000,1395.00,"Basic Service Fee - Studio for Jul: Diduck, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14610249,,07/01/2012,2913,"Invoice-Private",,07/01/2012,07/10/2012,,14614553MO,-1518.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... M.Diduck 201207: Diduck, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Diduck 201207: Diduck, Mary",,,,,,,,,,,,,,,

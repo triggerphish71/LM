@@ -1,0 +1,5 @@
+BATCH,,201109,B,5740.0000,
+INVOICE,IN,,53010251,,09/06/2011,5740.0000,"MoveIn-Chapman. Ruby",,09/06/2011,09/06/2011,,53015381,5740.0000,,,,,,,,,,
+TRANSACTION,3010,010319530,25,108.0000,2700,"Basic Service Fee - One Bedroom Del: Chapman. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40,"Monthly Cable: Chapman. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319530,1,3000.0000,3000,"New Resident Fee: Chapman. Ruby",,,,,,,,,,,,,,,

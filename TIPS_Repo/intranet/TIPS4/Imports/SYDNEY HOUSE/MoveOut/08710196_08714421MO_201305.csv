@@ -1,0 +1,7 @@
+BATCH,,201305,B,1560.6500,
+INVOICE,IN,,08710196,,05/01/2013,573.3000,"Invoice-Private",,05/01/2013,05/10/2013,,08714421MO,-414.0500,,,,,,,,,,
+TRANSACTION,3020,010103087,18,30.0000,540.00,"Basic Service Fee - Studio for May: Peterson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,18,1.8500,33.30,"Resident Care - Level 1 for May: Peterson, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08710196,,05/01/2013,987.35,"Invoice-Private",,05/01/2013,05/10/2013,,08714421MO,-414.0500,,,,,,,,,,
+TRANSACTION,3020,010103087,1,930,930,"CR:Basic Service F... M.Peterson 201305: Peterson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,57.35,57.35,"CR:Resident Care -... M.Peterson 201305: Peterson, Mary",,,,,,,,,,,,,,,

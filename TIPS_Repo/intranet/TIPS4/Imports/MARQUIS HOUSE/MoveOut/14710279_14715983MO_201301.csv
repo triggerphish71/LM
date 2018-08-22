@@ -1,0 +1,7 @@
+BATCH,,201301,B,5379.0000,
+INVOICE,IN,,14710279,,01/02/2013,326.0000,"Invoice-Private",,01/02/2013,01/02/2013,,14715983MO,-4727.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,2,102.0000,204.00,"Basic Service Fee - Studio for Jan: Fusco, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,2,61.0000,122.00,"Resident Care - Level 4 for Jan: Fusco, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,14710279,,01/02/2013,5053,"Invoice-Private",,01/02/2013,01/02/2013,,14715983MO,-4727.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... E.Fusco 201301: Fusco, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1891,1891,"CR:Resident Care -... E.Fusco 201301: Fusco, Elsie",,,,,,,,,,,,,,,

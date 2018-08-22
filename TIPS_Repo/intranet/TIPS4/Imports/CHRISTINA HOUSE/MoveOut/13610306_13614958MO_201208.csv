@@ -1,0 +1,7 @@
+BATCH,,201208,B,3975.0000,
+INVOICE,IN,,13610306,,08/01/2012,1650.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13614958MO,-675.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,22,60.0000,1320.00,"Basic Service Fee - Studio for Aug: Cooper, Jerry June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,22,15.0000,330.00,"Resident Care - Level 1 for Aug: Cooper, Jerry June",,,,,,,,,,,,,,,
+INVOICE,CM,,13610306,,08/01/2012,2325,"Invoice-Private",,08/01/2012,08/10/2012,,13614958MO,-675.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1860,1860,"CR:Basic Service F... J.Cooper 201208: Cooper, Jerry June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,465,465,"CR:Resident Care -... J.Cooper 201208: Cooper, Jerry June",,,,,,,,,,,,,,,

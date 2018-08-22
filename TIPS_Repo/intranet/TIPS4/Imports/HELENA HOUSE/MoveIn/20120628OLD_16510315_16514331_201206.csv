@@ -1,0 +1,6 @@
+BATCH,,201206,B,1977.0000,
+INVOICE,IN,,16510315,,06/28/2012,1977.0000,"MoveIn-Hauser. Virginia",,06/28/2012,06/28/2012,,16514331,6654.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,3,97.0000,291,"Basic Service Fee - Studio         : Hauser. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,3,53.0000,159,"Resident Care - Level 4: Hauser. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Hauser. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: Hauser. Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,3054.0000,
+INVOICE,IN,,14810326,,11/08/2011,3054.0000,"MoveIn-Haines. Roy",,11/08/2011,11/08/2011,,14814740,3054.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,23,88.0000,2024,"Basic Service Fee - Studio         : Haines. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Haines. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Haines. Roy",,,,,,,,,,,,,,,

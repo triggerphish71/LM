@@ -1,0 +1,5 @@
+BATCH,,201109,B,1320.0000,
+INVOICE,IN,,16410275,,09/01/2011,660.0000,"Invoice-Private",,09/01/2011,09/10/2011,,16415940MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,30,22.0000,660.00,"Credit for Limited Term Discount: Hopper, Myra",,,,,,,,,,,,,,,
+INVOICE,CM,,16410275,,09/01/2011,660,"Invoice-Private",,09/01/2011,09/10/2011,,16415940MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,30,22,660,"Limited Term Discount: Hopper, Myra",,,,,,,,,,,,,,,

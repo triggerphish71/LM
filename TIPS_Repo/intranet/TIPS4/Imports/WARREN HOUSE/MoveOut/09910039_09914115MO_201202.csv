@@ -1,0 +1,8 @@
+BATCH,,201202,B,2050.8900,
+INVOICE,IN,,09910039,,02/10/2012,341.4000,"Invoice-Medicaid",,02/10/2012,02/10/2012,,09914115MO,-1368.0900,,,,,,,,,,
+TRANSACTION,3021,010104099,10,14.0000,140.00,"Medicaid Co-Pay for Feb: Kasper, Joanna",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104099,10,20.1400,201.40,"Medicaid Room & Board for Feb: Kasper, Joanna",,,,,,,,,,,,,,,
+INVOICE,CM,,09910039,,02/10/2012,1709.49,"Invoice-Medicaid",,02/10/2012,02/10/2012,,09914115MO,-1368.0900,,,,,,,,,,
+TRANSACTION,3021,010104099,1,406.1,406.1,"CR:Medicaid Co-Pay... J.Kasper 201202: Kasper, Joanna",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104099,1,584,584,"CR:Medicaid Room &... J.Kasper 201202: Kasper, Joanna",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104099,1,719.39,719.39,"CR:State Medicaid... J.Kasper 201202: Kasper, Joanna",,,,,,,,,,,,,,,

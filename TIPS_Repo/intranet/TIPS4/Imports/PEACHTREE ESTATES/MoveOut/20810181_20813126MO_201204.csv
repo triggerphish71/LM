@@ -1,0 +1,7 @@
+BATCH,,201204,B,6300.0000,
+INVOICE,IN,,20810181,,04/01/2012,2100.0000,"Invoice-Private",,04/01/2012,04/10/2012,,20813126MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,15,62.0000,930.00,"Resident Care - Level 6 for Apr: Meek, Willoughby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,15,78.0000,1170.00,"Studio for Apr: Meek, Willoughby",,,,,,,,,,,,,,,
+INVOICE,CM,,20810181,,04/01/2012,4200,"Invoice-Private",,04/01/2012,04/10/2012,,20813126MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1860,1860,"CR:Resident Care -... W.Meek 201204: Meek, Willoughby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2340,2340,"CR:Studio... W.Meek 201204: Meek, Willoughby",,,,,,,,,,,,,,,

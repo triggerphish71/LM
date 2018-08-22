@@ -1,0 +1,7 @@
+BATCH,,201804,B,93.2000,
+INVOICE,IN,,13910430,,04/01/2018,46.6000,"Invoice-Private",,04/01/2018,04/10/2018,,13919108MO,-5058.1000,,,,,,,,,,
+TRANSACTION,3260,010003139,1,31.6000,31.60,"Monthly Cable: Whitman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010003139,1,15.0000,15.00,"Pendant Fee: Whitman, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,13910430,,04/01/2018,46.6,"Invoice-Private",,04/01/2018,04/10/2018,,13919108MO,-5058.1000,,,,,,,,,,
+TRANSACTION,3260,010003139,1,31.6,31.6,"Credit for Monthly Cable: Whitman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010003139,1,15,15,"Credit for Pendant Fee: Whitman, Shirley",,,,,,,,,,,,,,,

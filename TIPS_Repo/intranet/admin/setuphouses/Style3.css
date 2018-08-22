@@ -1,0 +1,272 @@
+BODY {
+/* 	background-image: url(../../images/gradient.gif);
+background-repeat: repeat; background: white; */
+color: ##363636; font-family: Verdana, tahoma; font-size: x-small;
+}
+
+A:link {color: black;}
+A:visited {color: #484848;}
+
+A:hover { color: white; background: #006699;}
+
+A { cursor: 'hand'; }
+
+CAPTION { color: #ff6633; font-weight: Bold;}
+
+IFRAME { width: 100%; height; 100000px;}
+
+INPUT, TEXTAREA	{font-size: xx-small; color: navy;}
+
+SELECT	{color: navy; font-size: xx-small; z-index: 1 }
+
+TD:hover {color: White; border: SlateBlue;}
+
+Table {
+	background: transparent;
+	width: 700;
+	border-collapse: collapse;
+	margin-left:auto;
+	margin-right:auto;
+	padding-right: auto;
+	padding-left: auto;
+	list-style-type: circle;
+}
+		
+TH {
+color: white;/*##363636;*/
+background: 006699;/*gainsboro 006699;*/
+font-size: x-small;
+white-space: nowrap;
+font-family: Verdana, Arial, Helvetica, sans-serif;
+/* Georgia, "Times New Roman", Times, serif; */
+letter-spacing: 0.8px;
+.padding-bottom: 3px; .padding-top: 3px;
+}
+
+TD					{font-size:		xx-small;
+/*background:    	#eceff4;*/
+padding-left: 10px;
+padding-right: 10px;
+vertical-align: top;
+}
+
+.BlendedButton		{color: 		red; 
+width: 			75px; 
+font-size: 		10; 
+background: 	gainsboro;
+}
+
+.detail				{font-size: 	medium; 
+text-align: 	center; 
+background: 	white;}
+
+.DontSaveButton    	{color:         Crimson;
+font-size:		12;
+width:			100;
+height:			25;}
+
+.hlinks				{background:	white;
+font-weight:	bold;
+border: 		none;}
+
+.hidden 			{position: 		absolute; 
+visibility: 	hidden;}
+
+.Large				{font-size:		18;
+font-weight:	bold;
+background:		white;}
+
+.MoveOutButton		{color: 		red; 
+width: 			52px; 
+font-size: 		10; 
+height: 		20px;
+background: 	gainsboro;
+}					
+
+.name {text-align: left;}
+
+.required {color: Red;}
+
+FORM.Center {text-align: left;}
+
+.PageTitle {font-size: 22;}
+
+.UrlStatusMessage{
+color: Red;
+font-weight:    Bold;}
+
+.FormErrorMessage{
+color:          Red;
+font-weight:    Bold;}
+
+.FormLabelGood{
+color:          Navy;
+font-weight:    Bold;}
+
+.FormLabelBad{
+color:          Red;
+font-weight:    Bold;}
+
+.SaveButton{
+color:         DarkGreen;
+font-weight:    900;
+width:			100;
+height:			25;}
+
+.summary{
+font-weight:	Bold;
+font-size:		18;
+background:		white;}					
+
+.HelpSymbol{
+background:    Yellow;
+border:         solid red thin;
+text-align:     center;
+font-weight:    bold;
+width:          2em;
+height:         1.5em;}                    
+
+.HelpText{
+visibility:     hidden;
+position:       relative;
+background:     Yellow;
+border:         solid red thin;
+font-weight:    bold;
+width:          30em;
+height:         3em;}
+
+.HouseHeader{
+font-weight: 	bold;
+font-size:		20;
+width:			0;
+Background:		transparent;
+text-align:		cener;}
+
+.BlendedTextBoxC{
+Background:	linen;
+border:			0;
+color:			navy;
+text-align: 	center;
+font-size:		14;}
+
+.BlendedTextBoxR	{
+Background:	linen;
+border:			0;
+color:			navy;
+text-align: 	right;
+font-size:		14;}
+
+Table.OverLibTable {background: white; width: 140;}
+
+.noborder {border: noborder; border: none;}
+
+.bottomborder {border-bottom: 1px solid navy;}
+
+.subheader {background:	gainsboro;
+font-size: x-small;
+text-align: center;
+font-weight: bold;}
+
+.transparent {color: Navy;
+background: "White";
+font-family: Times new roman;
+font-size: small;}
+
+.A_nohighlight:hover { background: transparent; } 
+
+.top {
+background-image: url(images/table_topcap.gif);
+background-repeat: no-repeat;
+background-position: bottom;
+background-color: transparent;
+height: 1px;
+border: noborder;
+}
+
+.middle {
+background-image: url(Images/middle.gif);
+background-repeat: no-repeat;
+background-position: right top;
+background-color: transparent;
+height: 1px;
+border: noborder;
+color: white;
+}
+
+.leftborder { border-left: 1px solid #336699; padding-left: 10px;}
+.rightborder { border-right: 2px solid #336699; padding-right: 10px;}
+.leftrightborder { border-left: 1px solid #336699; border-right: 2px solid #336699; }
+.borderbottom { border-bottom: 1px solid #336699; }
+.bottomleftborder { border-bottom: 1px solid #336699; border-left: 1px solid #336699; padding-left: 10px;}
+.bottomrightborder { border-bottom: 1px solid #336699; border-right: 1px solid #336699; padding-right: 10px;}
+
+.topleft {
+background-image: url(images/left.gif);
+background-repeat: no-repeat;
+background-position: left top;
+background-color: transparent;
+height: 1px;
+border-left: 336699;
+color: white;
+}
+
+.right {
+background-image: url(images/right.gif);
+background-repeat: no-repeat;
+background-position: right top;
+background-color: transparent;
+height: 1px;
+border: noborder;
+color: white;
+}
+
+.bottomleftcap{
+/*background-image: url(../../MarketingLeads/table_bottomcap.gif);*/
+background-image: url(images/base.gif);
+background-repeat: no-repeat;
+background-position: left top;
+background-color: transparent;
+height: 8px;
+border: noborder;
+color: white;
+}
+
+.bottomrightcap{
+/*background-image: url(../../MarketingLeads/table_bottomcap.gif);*/
+background-image: url(images/base.gif);
+background-repeat: no-repeat;
+background-position: right top;
+background-color: transparent;
+height: 8px;
+border: noborder;
+color: white;
+}
+
+.topleftcap{
+/*background-image: url(../../MarketingLeads/table_topcap.gif);*/
+background-image: url(images/cap.gif);
+background-repeat: no-repeat;
+background-position: left bottom;
+background-color: transparent;
+height: 8px;
+border: noborder;
+color: white;
+}
+
+.toprightcap{
+/*background-image: url(../../MarketingLeads/table_topcap.gif);*/
+background-image: url(images/cap.gif);
+background-repeat: no-repeat;
+background-position: right bottom;
+background-color: transparent;
+height: 8px;
+border: noborder;
+color: white;
+}
+
+.stylebutton { 
+background: 006699;
+color: ffffff;
+font-size: xx-small;
+font-weight: bold;
+}

@@ -1,0 +1,8 @@
+BATCH,,201303,B,3387.4000,
+INVOICE,IN,,08210176,,03/05/2013,467.0000,"Invoice-Private",,03/05/2013,03/05/2013,,08214755MO,-2453.4000,,,,,,,,,,
+TRANSACTION,3020,010103082,5,86.0000,430.00,"Basic Service Fee - Studio for Mar: Troka, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,5,7.4000,37.00,"Resident Care - Level 4 for Mar: Troka, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,08210176,,03/05/2013,2920.4,"Invoice-Private",,03/05/2013,03/05/2013,,08214755MO,-2453.4000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2666,2666,"CR:Basic Service F... J.Troka 201303: Troka, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... J.Troka 201303: Troka, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,229.4,229.4,"CR:Resident Care -... J.Troka 201303: Troka, Jerry",,,,,,,,,,,,,,,

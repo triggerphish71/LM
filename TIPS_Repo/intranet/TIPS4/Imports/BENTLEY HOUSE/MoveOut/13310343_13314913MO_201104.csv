@@ -1,0 +1,8 @@
+BATCH,,201104,B,7570.0000,
+INVOICE,IN,,13310343,,04/25/2011,3425.0000,"Invoice-Private",,04/25/2011,04/25/2011,,13314913MO,-4967.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,25,89.0000,2225.00,"Basic Service Fee - Studio for Apr: Thompson, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,25,48.0000,1200.00,"Resident Care - Level 3 for Apr: Thompson, Olive",,,,,,,,,,,,,,,
+INVOICE,CM,,13310343,,04/25/2011,4145,"Invoice-Private",,04/25/2011,04/25/2011,,13314913MO,-4967.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2670,2670,"CR:Basic Service F... O.Thompson 201104: Thompson, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... O.Thompson 201104: Thompson, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,1440,1440,"CR:Resident Care -... O.Thompson 201104: Thompson, Olive",,,,,,,,,,,,,,,

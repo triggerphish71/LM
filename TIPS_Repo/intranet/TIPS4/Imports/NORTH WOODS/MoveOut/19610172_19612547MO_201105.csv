@@ -1,0 +1,7 @@
+BATCH,,201105,B,3909.0000,
+INVOICE,IN,,19610172,,05/01/2011,495.0000,"Invoice-Private",,05/01/2011,05/10/2011,,19612547MO,-2919.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,5,99.0000,495.00,"Basic Service Fee - One Bedroom for May: Noren, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,19610172,,05/01/2011,3414,"Invoice-Private",,05/01/2011,05/10/2011,,19612547MO,-2919.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,3069,3069,"CR:Basic Service F... D.Noren 201105: Noren, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315196,1,310,310,"CR:HSG Meals... D.Noren 201105: Noren, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"CR:Monthly Cable... D.Noren 201105: Noren, Dorothy",,,,,,,,,,,,,,,

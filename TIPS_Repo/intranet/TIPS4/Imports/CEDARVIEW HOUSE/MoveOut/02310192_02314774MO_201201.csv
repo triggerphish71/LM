@@ -1,0 +1,7 @@
+BATCH,,201201,B,6608.0000,
+INVOICE,IN,,02310192,,01/24/2012,3136.0000,"Invoice-Private",,01/24/2012,01/24/2012,,02314774MO,-3584.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,28,95.0000,2660.00,"Basic Service Fee - Studio for Jan: Splawn, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,28,17.0000,476.00,"Resident Care - Level 1 for Jan: Splawn, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,02310192,,01/24/2012,3472,"Invoice-Private",,01/24/2012,01/24/2012,,02314774MO,-3584.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2945,2945,"CR:Basic Service F... E.Splawn 201201: Splawn, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,527,527,"CR:Resident Care -... E.Splawn 201201: Splawn, Elsie",,,,,,,,,,,,,,,

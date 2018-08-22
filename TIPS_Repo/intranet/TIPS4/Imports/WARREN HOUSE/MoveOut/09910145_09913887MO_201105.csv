@@ -1,0 +1,8 @@
+BATCH,,201105,B,6979.0000,
+INVOICE,IN,,09910145,,05/01/2011,1281.0000,"Invoice-Private",,05/01/2011,05/10/2011,,09913887MO,-4357.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,7,103.0000,721.00,"Basic Service Fee - One Bedroom for May: Martin, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,7,80.0000,560.00,"Resident Care - Level 6 for May: Martin, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,09910145,,05/01/2011,5698,"Invoice-Private",,05/01/2011,05/10/2011,,09913887MO,-4357.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,3193,3193,"CR:Basic Service F... A.Martin 201105: Martin, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... A.Martin 201105: Martin, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,2480,2480,"CR:Resident Care -... A.Martin 201105: Martin, Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,5760.0000,
+INVOICE,IN,,16010330,,01/04/2013,800.0000,"Invoice-Private",,01/04/2013,01/04/2013,,16015462MO,-4160.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,5,99.0000,495.00,"Basic Service Fee - Studio for Jan: Taylor, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,5,61.0000,305.00,"Resident Care - Level 4 for Jan: Taylor, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,16010330,,01/04/2013,4960,"Invoice-Private",,01/04/2013,01/04/2013,,16015462MO,-4160.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3069,3069,"CR:Basic Service F... E.Taylor 201301: Taylor, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,1891,1891,"CR:Resident Care -... E.Taylor 201301: Taylor, Ethel",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201205,B,1660.0000,
+INVOICE,IN,,53410423,,05/01/2012,830.0000,"Invoice-Private",,05/01/2012,05/10/2012,,53420710MO,-3159.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Hendrikse, John",,,,,,,,,,,,,,,
+TRANSACTION,3315,010319534,1,800.0000,800.00,"Credit for Promotional Discount: Hendrikse, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53410423,,05/01/2012,830,"Invoice-Private",,05/01/2012,05/10/2012,,53420710MO,-3159.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Hendrikse, John",,,,,,,,,,,,,,,
+TRANSACTION,3315,010319534,1,800,800,"Promotional Discount: Hendrikse, John",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,330.0000,
+INVOICE,IN,,21210101,,07/01/2011,165.0000,"Invoice-Private",,07/01/2011,07/10/2011,,21211915MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Grant, Cladie ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010208212,31,4.0000,124.00,"Credit for Limited Term Discount: Grant, Cladie ",,,,,,,,,,,,,,,
+INVOICE,CM,,21210101,,07/01/2011,165,"Invoice-Private",,07/01/2011,07/10/2011,,21211915MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Grant, Cladie ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010208212,31,4,124,"Limited Term Discount: Grant, Cladie ",,,,,,,,,,,,,,,

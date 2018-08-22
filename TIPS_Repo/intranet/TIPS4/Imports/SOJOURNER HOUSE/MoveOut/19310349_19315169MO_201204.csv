@@ -1,0 +1,8 @@
+BATCH,,201204,B,6535.0000,
+INVOICE,IN,,19310349,,04/11/2012,1885.0000,"Invoice-Private",,04/11/2012,04/11/2012,,19315169MO,-2765.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,13,76.0000,988.00,"Basic Service Fee - Studio for Apr: Smith, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,13,69.0000,897.00,"Resident Care - Level 5 for Apr: Smith, Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,19310349,,04/11/2012,4650,"Invoice-Private",,04/11/2012,04/11/2012,,19315169MO,-2765.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2280,2280,"CR:Basic Service F... N.Smith 201204: Smith, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... N.Smith 201204: Smith, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,2070,2070,"CR:Resident Care -... N.Smith 201204: Smith, Naomi",,,,,,,,,,,,,,,

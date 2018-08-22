@@ -1,0 +1,6 @@
+BATCH,,201205,B,5650.0000,
+INVOICE,IN,,08110235,,05/01/2012,2860.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08114403MO,70.0000,,,,,,,,,,
+TRANSACTION,3320,010103081,1,1240.0000,1240.00,"CR:Limited Term Di... T.Bellos 201205: Bellos, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,18,90.0000,1620.00,"Basic Service Fee - Studio for May: Bellos, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,08110235,,05/01/2012,2790,"Invoice-Private",,05/01/2012,05/10/2012,,08114403MO,70.0000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2790,2790,"CR:Basic Service F... T.Bellos 201205: Bellos, Tom",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,5365.0000,
+INVOICE,IN,,05810211,,01/19/2013,2823.0000,"Invoice-Private",,01/19/2013,01/19/2013,,05814243MO,-1539.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,1,527.0000,527.00,"CR:Limited Term Di... L.Madison 201301: Madison, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,28,82.0000,2296.00,"Room and Board - Studio for Jan: Madison, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,05810211,,01/19/2013,2542,"Invoice-Private",,01/19/2013,01/19/2013,,05814243MO,-1539.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Room and Board ... L.Madison 201301: Madison, Lillian",,,,,,,,,,,,,,,

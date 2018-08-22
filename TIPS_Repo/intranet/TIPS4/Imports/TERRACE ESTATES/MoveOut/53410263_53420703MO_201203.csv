@@ -1,0 +1,8 @@
+BATCH,,201203,B,6230.0000,
+INVOICE,IN,,53410263,,03/19/2012,2356.0000,"Invoice-Private",,03/19/2012,03/19/2012,,53420703MO,-5268.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,19,71.0000,1349.00,"Basic Service Fee - Studio for Mar: Gunther, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,19,53.0000,1007.00,"Resident Care - Level 2 for Mar: Gunther, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53410263,,03/19/2012,3874,"Invoice-Private",,03/19/2012,03/19/2012,,53420703MO,-5268.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2201,2201,"CR:Basic Service F... J.Gunther 201203: Gunther, John",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Gunther 201203: Gunther, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1643,1643,"CR:Resident Care -... J.Gunther 201203: Gunther, John",,,,,,,,,,,,,,,

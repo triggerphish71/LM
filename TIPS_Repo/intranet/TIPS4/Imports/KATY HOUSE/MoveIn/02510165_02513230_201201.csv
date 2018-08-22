@@ -1,0 +1,5 @@
+BATCH,,201201,B,3310.0000,
+INVOICE,IN,,02510165,,01/11/2012,3310.0000,"MoveIn-Terry. Norma",,01/11/2012,01/11/2012,,02513230,3310.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,21,85.0000,1785,"Basic Service Fee - Studio: Terry. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Terry. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1500.0000,1500,"New Resident Fee: Terry. Norma",,,,,,,,,,,,,,,

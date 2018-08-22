@@ -1,0 +1,8 @@
+BATCH,,201207,B,7809.0000,
+INVOICE,IN,,02710052,,07/01/2012,3872.0000,"Invoice-Private",,07/01/2012,07/01/2012,,02714069MO,-65.0000,,,,,,,,,,
+TRANSACTION,3320,010202027,1,62.0000,62.00,"CR:Limited Term Di... O.Schmalsteig 201207: Schmalsteig, Ollie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202027,30,95.0000,2850.00,"Basic Service Fee - Studio for Jul: Schmalsteig, Ollie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,30,32.0000,960.00,"Resident Care - Level 2 for Jul: Schmalsteig, Ollie",,,,,,,,,,,,,,,
+INVOICE,CM,,02710052,,07/01/2012,3937,"Invoice-Private",,07/01/2012,07/01/2012,,02714069MO,-65.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2945,2945,"CR:Basic Service F... O.Schmalsteig 201207: Schmalsteig, Ollie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,992,992,"CR:Resident Care -... O.Schmalsteig 201207: Schmalsteig, Ollie",,,,,,,,,,,,,,,

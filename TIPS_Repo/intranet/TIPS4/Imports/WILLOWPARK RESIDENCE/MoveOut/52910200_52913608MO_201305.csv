@@ -1,0 +1,8 @@
+BATCH,,201305,B,4244.0000,
+INVOICE,IN,,52910200,,05/01/2013,256.0000,"Invoice-Private",,05/01/2013,05/10/2013,,52913608MO,-3732.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,2,113.0000,226.00,"Basic Service Fee - One Bedroom for May: Gebhart, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,2,15.0000,30.00,"Resident Care - Level 1 for May: Gebhart, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,52910200,,05/01/2013,3988,"Invoice-Private",,05/01/2013,05/10/2013,,52913608MO,-3732.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,3503,3503,"CR:Basic Service F... E.Gebhart 201305: Gebhart, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... E.Gebhart 201305: Gebhart, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,465,465,"CR:Resident Care -... E.Gebhart 201305: Gebhart, Eleanor",,,,,,,,,,,,,,,

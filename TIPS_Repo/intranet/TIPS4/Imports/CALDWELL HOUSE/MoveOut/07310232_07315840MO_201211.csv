@@ -1,0 +1,5 @@
+BATCH,,201211,B,5540.0000,
+INVOICE,CM,,07310232,,11/01/2012,5540,"Invoice-Private",,11/01/2012,11/10/2012,,07315840MO,-6664.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2910,2910,"CR:Basic Service F... M.Arthur 201211: Arthur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... M.Arthur 201211: Arthur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2610,2610,"CR:Resident Care -... M.Arthur 201211: Arthur, Mary",,,,,,,,,,,,,,,

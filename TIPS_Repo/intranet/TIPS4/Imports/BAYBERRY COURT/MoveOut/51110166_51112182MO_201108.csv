@@ -1,0 +1,7 @@
+BATCH,,201108,B,7965.0000,
+INVOICE,IN,,51110166,,08/01/2011,3780.0000,"Invoice-Private",,08/01/2011,08/10/2011,,51112182MO,-405.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,28,97.0000,2716.00,"Basic Service Fee - Studio for Aug: Shields, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,28,38.0000,1064.00,"Resident Care - Level 2 for Aug: Shields, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,51110166,,08/01/2011,4185,"Invoice-Private",,08/01/2011,08/10/2011,,51112182MO,-405.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3007,3007,"CR:Basic Service F... M.Shields 201108: Shields, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1178,1178,"CR:Resident Care -... M.Shields 201108: Shields, Michael",,,,,,,,,,,,,,,

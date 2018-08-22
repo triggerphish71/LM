@@ -1,0 +1,7 @@
+BATCH,,201805,B,7506.0000,
+INVOICE,IN,,11510364,,05/20/2018,3197.0000,"Invoice-Private",,05/20/2018,05/20/2018,,11517369MO,-1111.9900,,,,,,,,,,
+TRANSACTION,3020,010008115,23,89.0000,2047.00,"Basic Service Fee - Studio for May: Bennett, W.C.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008115,23,50.0000,1150.00,"Resident Care - Level 3 for May: Bennett, W.C.",,,,,,,,,,,,,,,
+INVOICE,CM,,11510364,,05/20/2018,4309,"Invoice-Private",,05/20/2018,05/20/2018,,11517369MO,-1111.9900,,,,,,,,,,
+TRANSACTION,3020,010008115,1,2759,2759,"CR:Basic Service F... W.Bennett 201805: Bennett, W.C.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008115,1,1550,1550,"CR:Resident Care -... W.Bennett 201805: Bennett, W.C.",,,,,,,,,,,,,,,

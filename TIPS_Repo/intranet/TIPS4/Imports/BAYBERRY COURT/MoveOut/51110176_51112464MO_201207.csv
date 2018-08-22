@@ -1,0 +1,5 @@
+BATCH,,201207,B,930.0000,
+INVOICE,IN,,51110176,,07/01/2012,465.0000,"Invoice-Private",,07/01/2012,07/10/2012,,51112464MO,-5377.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,31,15.0000,465.00,"Credit for Limited Term Discount: Zencuch, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,51110176,,07/01/2012,465,"Invoice-Private",,07/01/2012,07/10/2012,,51112464MO,-5377.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,31,15,465,"Limited Term Discount: Zencuch, Elizabeth",,,,,,,,,,,,,,,

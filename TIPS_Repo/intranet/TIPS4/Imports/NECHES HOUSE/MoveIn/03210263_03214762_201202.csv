@@ -1,0 +1,5 @@
+BATCH,,201202,B,3405.0000,
+INVOICE,IN,,03210263,,02/10/2012,3405.0000,"MoveIn-McMullen. Mary",,02/10/2012,02/10/2012,,03214762,3405.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,20,94.0000,1880,"M.McMullen: Basic Service Fee - Studio: McMullen. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: McMullen. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: McMullen. Mary",,,,,,,,,,,,,,,

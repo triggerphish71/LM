@@ -1,0 +1,5 @@
+BATCH,,201205,B,124.0000,
+INVOICE,IN,,05910099,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05913274MO,-4446.7200,,,,,,,,,,
+TRANSACTION,3320,010101059,31,2.0000,62.00,"Credit for Limited Term Discount: Sendek, Genowefa",,,,,,,,,,,,,,,
+INVOICE,CM,,05910099,,05/01/2012,62,"Invoice-Private",,05/01/2012,05/10/2012,,05913274MO,-4446.7200,,,,,,,,,,
+TRANSACTION,3320,010101059,31,2,62,"Limited Term Discount: Sendek, Genowefa",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,6426.0000,
+INVOICE,IN,,16710220,,08/19/2012,2583.0000,"Invoice-Private",,08/19/2012,08/19/2012,,16713922MO,-4980.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,21,96.0000,2016.00,"Basic Service Fee - Deluxe for Aug: Schulz, O'Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,21,27.0000,567.00,"Resident Care - Level 2 for Aug: Schulz, O'Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,16710220,,08/19/2012,3843,"Invoice-Private",,08/19/2012,08/19/2012,,16713922MO,-4980.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2976,2976,"CR:Basic Service F... O.Schulz 201208: Schulz, O'Linda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... O.Schulz 201208: Schulz, O'Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,837,837,"CR:Resident Care -... O.Schulz 201208: Schulz, O'Linda",,,,,,,,,,,,,,,

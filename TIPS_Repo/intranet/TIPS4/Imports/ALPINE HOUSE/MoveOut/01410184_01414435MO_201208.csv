@@ -1,0 +1,8 @@
+BATCH,,201208,B,8725.0000,
+INVOICE,IN,,01410184,,08/29/2012,4205.0000,"Invoice-Private",,08/29/2012,08/29/2012,,01414435MO,-4690.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,29,90.0000,2610.00,"Basic Service Fee - Studio for Aug: Rice, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,29,55.0000,1595.00,"Resident Care - Level 4 for Aug: Rice, James",,,,,,,,,,,,,,,
+INVOICE,CM,,01410184,,08/29/2012,4520,"Invoice-Private",,08/29/2012,08/29/2012,,01414435MO,-4690.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2790,2790,"CR:Basic Service F... J.Rice 201208: Rice, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... J.Rice 201208: Rice, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,1705,1705,"CR:Resident Care -... J.Rice 201208: Rice, James",,,,,,,,,,,,,,,

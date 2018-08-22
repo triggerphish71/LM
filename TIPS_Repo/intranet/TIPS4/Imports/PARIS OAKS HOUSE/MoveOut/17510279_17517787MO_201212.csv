@@ -1,0 +1,5 @@
+BATCH,,201212,B,1550.0000,
+INVOICE,IN,,17510279,,12/01/2012,775.0000,"Invoice-Private",,12/01/2012,12/10/2012,,17517787MO,375.0000,,,,,,,,,,
+TRANSACTION,3321,010202175,31,25.0000,775.00,"Credit for 2nd Resident Free Discount: Migliacco, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,17510279,,12/01/2012,775,"Invoice-Private",,12/01/2012,12/10/2012,,17517787MO,375.0000,,,,,,,,,,
+TRANSACTION,3321,010202175,31,25,775,"2nd Resident Free Discount: Migliacco, Jeanne",,,,,,,,,,,,,,,

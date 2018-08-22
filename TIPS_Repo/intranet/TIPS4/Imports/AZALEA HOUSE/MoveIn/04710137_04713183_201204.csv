@@ -1,0 +1,6 @@
+BATCH,,201204,B,1477.0000,
+INVOICE,IN,,04710137,,04/27/2012,1477.0000,"MoveIn-Grider. Velma",,04/27/2012,04/27/2012,,04713183,5005.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,4,96.0000,384,"Basic Service Fee - Studio         : Grider. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,4,17.0000,68,"Resident Care - Level 1: Grider. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Grider. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Grider. Velma",,,,,,,,,,,,,,,

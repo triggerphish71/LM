@@ -1,0 +1,7 @@
+BATCH,,201203,B,5544.0000,
+INVOICE,IN,,05510211,,03/01/2012,1452.0000,"Invoice-Private",,03/01/2012,03/01/2012,,05514282MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,11,116.0000,1276.00,"Basic Service Fee - One Bedroom for Mar: Reeves, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,11,16.0000,176.00,"Resident Care - Level 1 for Mar: Reeves, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,05510211,,03/01/2012,4092,"Invoice-Private",,03/01/2012,03/01/2012,,05514282MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,3596,3596,"CR:Basic Service F... V.Reeves 201203: Reeves, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,496,496,"CR:Resident Care -... V.Reeves 201203: Reeves, Virginia",,,,,,,,,,,,,,,

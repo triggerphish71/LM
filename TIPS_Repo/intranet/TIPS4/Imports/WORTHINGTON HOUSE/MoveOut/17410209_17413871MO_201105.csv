@@ -1,0 +1,7 @@
+BATCH,,201105,B,5724.0000,
+INVOICE,IN,,17410209,,05/01/2011,2376.0000,"Invoice-Private",,05/01/2011,05/10/2011,,17413871MO,-972.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,22,92.0000,2024.00,"Basic Service Fee - Studio for May: Groce, Joy",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309174,22,16.0000,352.00,"Private Care Rate Adjustments for May: Groce, Joy",,,,,,,,,,,,,,,
+INVOICE,CM,,17410209,,05/01/2011,3348,"Invoice-Private",,05/01/2011,05/10/2011,,17413871MO,-972.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2852,2852,"CR:Basic Service F... J.Groce 201105: Groce, Joy",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309174,1,496,496,"CR:Private Care Ra... J.Groce 201105: Groce, Joy",,,,,,,,,,,,,,,

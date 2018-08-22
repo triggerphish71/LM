@@ -1,0 +1,8 @@
+BATCH,,201805,B,7302.0000,
+INVOICE,IN,,04310315,,05/21/2018,2962.0000,"Invoice-Private",,05/21/2018,05/21/2018,,04315890MO,-1378.0000,,,,,,,,,,
+TRANSACTION,3017,010002043,3,46.0000,138.00,"Level: 2 : Nichols, Loraine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002043,19,20.0000,380.00," Level: 1 : Nichols, Loraine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002043,26,94.0000,2444.00,"Basic Service Fee - Studio for May: Nichols, Loraine",,,,,,,,,,,,,,,
+INVOICE,CM,,04310315,,05/21/2018,4340,"Invoice-Private",,05/21/2018,05/21/2018,,04315890MO,-1378.0000,,,,,,,,,,
+TRANSACTION,3020,010002043,1,2914,2914,"CR:Basic Service F... L.Nichols 201805: Nichols, Loraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002043,1,1426,1426,"CR:Resident Care -... L.Nichols 201805: Nichols, Loraine",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,1200.0000,
+INVOICE,IN,,02210189,,09/01/2012,600.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02214442MO,-2863.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,30,20.0000,600.00,"Credit for Limited Term Discount: Sloan, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,02210189,,09/01/2012,600,"Invoice-Private",,09/01/2012,09/10/2012,,02214442MO,-2863.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,30,20,600,"Limited Term Discount: Sloan, Bobbie",,,,,,,,,,,,,,,

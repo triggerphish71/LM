@@ -1,0 +1,7 @@
+BATCH,,201307,B,6888.0000,
+INVOICE,IN,,10910240,,07/25/2013,3075.0000,"Invoice-Private",,07/25/2013,07/25/2013,,10915427MO,-4551.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,25,61.0000,1525.00,"Basic Service Fee - Studio for Jul: Stewart, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,25,62.0000,1550.00,"Resident Care - Level 4 for Jul: Stewart, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,10910240,,07/25/2013,3813,"Invoice-Private",,07/25/2013,07/25/2013,,10915427MO,-4551.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,1891,1891,"CR:Basic Service F... B.Stewart 201307: Stewart, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,1922,1922,"CR:Resident Care -... B.Stewart 201307: Stewart, Betty",,,,,,,,,,,,,,,

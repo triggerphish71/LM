@@ -1,0 +1,6 @@
+BATCH,,201108,B,4980.0000,
+INVOICE,IN,,53510201,,08/03/2011,4980.0000,"MoveIn-Birringer. Paul",,08/03/2011,08/03/2011,,53513945,4980.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,29,95.0000,2755,"Basic Service Fee - One Bedroom: Birringer. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Birringer. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Birringer. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Birringer. Paul",,,,,,,,,,,,,,,

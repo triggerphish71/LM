@@ -1,0 +1,5 @@
+BATCH,,201105,B,3070.0000,
+INVOICE,IN,,02010242,,05/17/2011,3070.0000,"MoveIn-Shaum. Eugene",,05/17/2011,05/17/2011,,02014151,6185.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,15,103.0000,1545,"Basic Service Fee - One Bedroom    : Shaum. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Shaum. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202020,1,1500.0000,1500,"New Resident Fee: Shaum. Eugene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,6578.5000,
+INVOICE,IN,,01310129,,08/12/2011,3122.0000,"Invoice-Private",,08/12/2011,08/12/2011,,01313954MO,-3679.5000,,,,,,,,,,
+TRANSACTION,3020,010103013,28,69.0000,1932.00,"Basic Service Fee - Studio for Aug: Meyers, Glendora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,28,42.5000,1190.00,"Resident Care - Level 25 for Aug: Meyers, Glendora",,,,,,,,,,,,,,,
+INVOICE,CM,,01310129,,08/12/2011,3456.5,"Invoice-Private",,08/12/2011,08/12/2011,,01313954MO,-3679.5000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2139,2139,"CR:Basic Service F... G.Meyers 201108: Meyers, Glendora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1317.5,1317.5,"CR:Resident Care -... G.Meyers 201108: Meyers, Glendora",,,,,,,,,,,,,,,

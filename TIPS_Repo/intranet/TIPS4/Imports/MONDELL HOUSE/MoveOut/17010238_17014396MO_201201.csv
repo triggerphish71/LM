@@ -1,0 +1,7 @@
+BATCH,,201201,B,6624.0000,
+INVOICE,IN,,17010238,,01/10/2012,2160.0000,"Invoice-Private",,01/10/2012,01/10/2012,,17014396MO,-6480.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,15,93.0000,1395.00,"Basic Service Fee - Studio for Jan: Roberts, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,15,51.0000,765.00,"Resident Care - Level 4 for Jan: Roberts, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,17010238,,01/10/2012,4464,"Invoice-Private",,01/10/2012,01/10/2012,,17014396MO,-6480.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,1,2883,2883,"CR:Basic Service F... M.Roberts 201201: Roberts, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,1,1581,1581,"CR:Resident Care -... M.Roberts 201201: Roberts, Melvin",,,,,,,,,,,,,,,

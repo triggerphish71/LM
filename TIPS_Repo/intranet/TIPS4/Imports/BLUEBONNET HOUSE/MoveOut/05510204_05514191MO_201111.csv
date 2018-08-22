@@ -1,0 +1,7 @@
+BATCH,,201111,B,174.0000,
+INVOICE,IN,,05510204,,11/01/2011,87.0000,"Invoice-Private",,11/01/2011,11/10/2011,,05514191MO,-6000.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27.00,"Monthly Cable: Boenig, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202055,30,2.0000,60.00,"Credit for Limited Term Discount: Boenig, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,05510204,,11/01/2011,87,"Invoice-Private",,11/01/2011,11/10/2011,,05514191MO,-6000.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"Credit for Monthly Cable: Boenig, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202055,30,2,60,"Limited Term Discount: Boenig, Ernest",,,,,,,,,,,,,,,

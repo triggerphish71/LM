@@ -1,0 +1,8 @@
+BATCH,,201111,B,4890.0000,
+INVOICE,IN,,05710284,,11/05/2011,695.0000,"Invoice-Private",,11/05/2011,11/05/2011,,05715282MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,5,110.0000,550.00,"Basic Service Fee - One Bedroom for Nov: Miller Shihadeh, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,5,29.0000,145.00,"Resident Care - Level 2 for Nov: Miller Shihadeh, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,05710284,,11/05/2011,4195,"Invoice-Private",,11/05/2011,11/05/2011,,05715282MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3300,3300,"CR:Basic Service F... B.Miller Shihadeh 201111: Miller Shihadeh, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25,25,"CR:Monthly Cable... B.Miller Shihadeh 201111: Miller Shihadeh, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,870,870,"CR:Resident Care -... B.Miller Shihadeh 201111: Miller Shihadeh, Barbara",,,,,,,,,,,,,,,

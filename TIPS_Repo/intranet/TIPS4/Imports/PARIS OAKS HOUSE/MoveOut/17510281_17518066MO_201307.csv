@@ -1,0 +1,7 @@
+BATCH,,201307,B,2624.0000,
+INVOICE,IN,,17510281,,07/01/2013,82.0000,"Invoice-Private",,07/01/2013,07/10/2013,,17518066MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,70.0000,70.00,"Basic Service Fee - Studio Deluxe for Jul: Pershall, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,12.0000,12.00,"Resident Care - Level 1 for Jul: Pershall, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,17510281,,07/01/2013,2542,"Invoice-Private",,07/01/2013,07/10/2013,,17518066MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2170,2170,"CR:Basic Service F... R.Pershall 201307: Pershall, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... R.Pershall 201307: Pershall, Robert",,,,,,,,,,,,,,,

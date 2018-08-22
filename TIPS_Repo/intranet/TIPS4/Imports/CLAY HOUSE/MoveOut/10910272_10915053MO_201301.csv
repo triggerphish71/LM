@@ -1,0 +1,5 @@
+BATCH,,201301,B,50.0000,
+INVOICE,IN,,10910272,,01/01/2013,25.0000,"Invoice-Private",,01/01/2013,01/10/2013,,10915053MO,-5065.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Warne, Garnetta",,,,,,,,,,,,,,,
+INVOICE,CM,,10910272,,01/01/2013,25,"Invoice-Private",,01/01/2013,01/10/2013,,10915053MO,-5065.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Warne, Garnetta",,,,,,,,,,,,,,,

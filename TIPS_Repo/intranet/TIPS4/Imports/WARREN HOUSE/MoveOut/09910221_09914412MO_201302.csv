@@ -1,0 +1,7 @@
+BATCH,,201302,B,3634.0000,
+INVOICE,IN,,09910221,,02/18/2013,1422.0000,"Invoice-Private",,02/18/2013,02/18/2013,,09914412MO,-3239.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,18,50.0000,900.00,"Basic Service Fee - Studio for Feb: Bacon, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,18,29.0000,522.00,"Resident Care - Level 2 for Feb: Bacon, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,09910221,,02/18/2013,2212,"Invoice-Private",,02/18/2013,02/18/2013,,09914412MO,-3239.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,1400,1400,"CR:Basic Service F... J.Bacon 201302: Bacon, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,812,812,"CR:Resident Care -... J.Bacon 201302: Bacon, Jim",,,,,,,,,,,,,,,

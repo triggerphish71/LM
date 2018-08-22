@@ -1,0 +1,8 @@
+BATCH,,201803,B,3370.2700,
+INVOICE,IN,,50510172,,03/13/2018,988.0000,"Invoice-Private",,03/13/2018,03/13/2018,,50514995MO,-1394.2700,,,,,,,,,,
+TRANSACTION,3020,010005505,13,43.0000,559.00,"Basic Service Fee- Companion Studio  for Mar: Collen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,13,33.0000,429.00,"Resident Care - Level 2  for Mar: Collen, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,50510172,,03/13/2018,2382.27,"Invoice-Private",,03/13/2018,03/13/2018,,50514995MO,-1394.2700,,,,,,,,,,
+TRANSACTION,3020,010005505,1,1333,1333,"CR:Basic Service F... M.Collen 201803: Collen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010005505,1,26.27,26.27,"CR:Monthly Cable... M.Collen 201803: Collen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,1023,1023,"CR:Resident Care -... M.Collen 201803: Collen, Mildred",,,,,,,,,,,,,,,

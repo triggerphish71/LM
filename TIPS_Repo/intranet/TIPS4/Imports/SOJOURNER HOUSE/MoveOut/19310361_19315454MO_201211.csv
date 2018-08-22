@@ -1,0 +1,8 @@
+BATCH,,201211,B,4060.0000,
+INVOICE,IN,,19310361,,11/01/2012,50.0000,"Invoice-Private",,11/01/2012,11/10/2012,,19315454MO,-4458.0000,,,,,,,,,,
+TRANSACTION,3150,010315193,1,50.0000,50.00,"Late Fee Adjustment: McCarthy, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19310361,,11/01/2012,4010,"Invoice-Private",,11/01/2012,11/10/2012,,19315454MO,-4458.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2280,2280,"CR:Basic Service F... J.McCarthy 201211: McCarthy, James",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... J.McCarthy 201211: McCarthy, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1380,1380,"CR:Resident Care -... J.McCarthy 201211: McCarthy, James",,,,,,,,,,,,,,,
+TRANSACTION,3150,010315193,1,50,50,"Late Fee Adjustment: McCarthy, James",,,,,,,,,,,,,,,

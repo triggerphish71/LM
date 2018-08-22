@@ -1,0 +1,5 @@
+BATCH,,201304,B,1346.0000,
+INVOICE,IN,,53510228,,04/08/2013,1346.0000,"MoveIn-VanderSande. Roger",,04/08/2013,04/08/2013,,53515255,1346.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,23,40.0000,920,"Basic Service Fee - Second Resident: VanderSande. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319535,23,17.0000,391,"Resident Care - Level 1: VanderSande. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35.0000,35,"Pendant Fee: VanderSande. Roger",,,,,,,,,,,,,,,

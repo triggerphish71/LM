@@ -1,0 +1,6 @@
+BATCH,,201204,B,3807.0000,
+INVOICE,IN,,13410242,,04/09/2012,1012.0000,"Invoice-Private",,04/09/2012,04/09/2012,,13415388MO,-1783.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,11,92.0000,1012.00,"Basic Service Fee - Studio for Apr: Kidd, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13410242,,04/09/2012,2795,"Invoice-Private",,04/09/2012,04/09/2012,,13415388MO,-1783.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2760,2760,"CR:Basic Service F... C.Kidd 201204: Kidd, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... C.Kidd 201204: Kidd, Charles",,,,,,,,,,,,,,,

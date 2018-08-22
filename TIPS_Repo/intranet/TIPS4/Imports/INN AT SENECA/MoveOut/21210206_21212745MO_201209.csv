@@ -1,0 +1,7 @@
+BATCH,,201209,B,2775.0000,
+INVOICE,IN,,21210206,,09/29/2012,1350.0000,"Invoice-Private",,09/29/2012,09/29/2012,,21212745MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,18,32.0000,576.00,"Basic Service Fee - Second Resident for Sep: Tucker, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,18,43.0000,774.00,"Resident Care - Level 4 for Sep: Tucker, Lydia",,,,,,,,,,,,,,,
+INVOICE,CM,,21210206,,09/29/2012,1425,"Invoice-Private",,09/29/2012,09/29/2012,,21212745MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,1,608,608,"CR:Basic Service F... L.Tucker 201209: Tucker, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,817,817,"CR:Resident Care -... L.Tucker 201209: Tucker, Lydia",,,,,,,,,,,,,,,

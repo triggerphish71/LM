@@ -1,0 +1,5 @@
+BATCH,,201201,B,372.0000,
+INVOICE,IN,,05610164,,01/01/2012,186.0000,"Invoice-Private",,01/01/2012,01/10/2012,,05614237MO,-2325.0000,,,,,,,,,,
+TRANSACTION,3320,010202056,31,6.0000,186.00,"Credit for Limited Term Discount: Robinson, Tommy",,,,,,,,,,,,,,,
+INVOICE,CM,,05610164,,01/01/2012,186,"Invoice-Private",,01/01/2012,01/10/2012,,05614237MO,-2325.0000,,,,,,,,,,
+TRANSACTION,3320,010202056,31,6,186,"Limited Term Discount: Robinson, Tommy",,,,,,,,,,,,,,,

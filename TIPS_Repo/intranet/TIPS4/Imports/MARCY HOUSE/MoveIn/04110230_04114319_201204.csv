@@ -1,0 +1,6 @@
+BATCH,,201204,B,3606.0000,
+INVOICE,IN,,04110230,,04/10/2012,3606.0000,"MoveIn-Barr. Betty",,04/10/2012,04/10/2012,,04114319,3606.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,21,82.0000,1722,"Basic Service Fee - Studio: Barr. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,21,17.0000,357,"Resident Care - Level 1: Barr. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27,"Monthly Cable: Barr. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Barr. Betty",,,,,,,,,,,,,,,

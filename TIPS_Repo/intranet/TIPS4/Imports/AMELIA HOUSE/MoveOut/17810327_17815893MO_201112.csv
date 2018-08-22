@@ -1,0 +1,7 @@
+BATCH,,201112,B,5625.0000,
+INVOICE,IN,,17810327,,12/01/2011,2986.0000,"Invoice-Private",,12/01/2011,12/10/2011,,17815893MO,-2385.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,1054.0000,1054.00,"CR:Limited Term Di... R.Ganey 201112: Ganey, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,23,84.0000,1932.00,"Basic Service Fee - Studio for Dec: Ganey, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,17810327,,12/01/2011,2639,"Invoice-Private",,12/01/2011,12/10/2011,,17815893MO,-2385.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2604,2604,"CR:Basic Service F... R.Ganey 201112: Ganey, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... R.Ganey 201112: Ganey, Roy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,3465.0000,
+INVOICE,IN,,13710176,,02/03/2013,525.0000,"Invoice-Private",,02/03/2013,02/03/2013,,13714816MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,5,70.0000,350.00,"Basic Service Fee - Studio for Feb: Koehler, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,5,35.0000,175.00,"Resident Care - Level 2 for Feb: Koehler, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,13710176,,02/03/2013,2940,"Invoice-Private",,02/03/2013,02/03/2013,,13714816MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,1960,1960,"CR:Basic Service F... L.Koehler 201302: Koehler, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,980,980,"CR:Resident Care -... L.Koehler 201302: Koehler, Lois",,,,,,,,,,,,,,,

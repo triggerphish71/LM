@@ -1,0 +1,7 @@
+BATCH,,201303,B,8151.0000,
+INVOICE,IN,,09410222,,03/22/2013,3718.0000,"Invoice-Private",,03/22/2013,03/22/2013,,09416349MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,26,97.0000,2522.00,"Basic Service Fee - Studio for Mar: Keltner, Elizabeth (Libby)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,26,46.0000,1196.00,"Resident Care - Level 3 for Mar: Keltner, Elizabeth (Libby)",,,,,,,,,,,,,,,
+INVOICE,CM,,09410222,,03/22/2013,4433,"Invoice-Private",,03/22/2013,03/22/2013,,09416349MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3007,3007,"CR:Basic Service F... E.Keltner 201303: Keltner, Elizabeth (Libby)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,1426,1426,"CR:Resident Care -... E.Keltner 201303: Keltner, Elizabeth (Libby)",,,,,,,,,,,,,,,

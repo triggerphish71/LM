@@ -1,0 +1,5 @@
+BATCH,,201207,B,124.0000,
+INVOICE,IN,,01910173,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,01914909MO,-6658.0000,,,,,,,,,,
+TRANSACTION,3320,010202019,31,2.0000,62.00,"Credit for Limited Term Discount: Carr, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,01910173,,07/01/2012,62,"Invoice-Private",,07/01/2012,07/10/2012,,01914909MO,-6658.0000,,,,,,,,,,
+TRANSACTION,3320,010202019,31,2,62,"Limited Term Discount: Carr, Virginia",,,,,,,,,,,,,,,

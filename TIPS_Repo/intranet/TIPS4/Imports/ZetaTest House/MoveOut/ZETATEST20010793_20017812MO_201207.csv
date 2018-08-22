@@ -1,0 +1,5 @@
+BATCH,,201207,B,3825.0000,
+INVOICE,IN,,20010793,,07/20/2012,1500.0000,"Invoice-Private",,07/20/2012,07/20/2012,,20017812MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,20,75.0000,1500.00,"Basic Service Fee - Studio for Jul: Reiss, Practice",,,,,,,,,,,,,,,
+INVOICE,CM,,20010793,,07/20/2012,2325,"Invoice-Private",,07/20/2012,07/20/2012,,20017812MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2325,2325,"CR:Basic Service F... P.Reiss 201207: Reiss, Practice",,,,,,,,,,,,,,,

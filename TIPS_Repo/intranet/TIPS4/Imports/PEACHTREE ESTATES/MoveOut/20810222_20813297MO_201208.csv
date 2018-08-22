@@ -1,0 +1,8 @@
+BATCH,,201208,B,5424.0000,
+INVOICE,IN,,20810222,,08/01/2012,2324.0000,"Invoice-Private",,08/01/2012,08/10/2012,,20813297MO,-776.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,124.0000,124.00,"CR:Limited Term Di... M.Martin 201208: Martin, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,22,22.0000,484.00,"Resident Care - Level 2 for Aug: Martin, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,22,78.0000,1716.00,"Studio for Aug: Martin, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,20810222,,08/01/2012,3100,"Invoice-Private",,08/01/2012,08/10/2012,,20813297MO,-776.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,682,682,"CR:Resident Care -... M.Martin 201208: Martin, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... M.Martin 201208: Martin, Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,3388.4000,
+INVOICE,IN,,09510235,,10/19/2011,3388.4000,"MoveIn-Moir. Sherry",,10/19/2011,10/19/2011,,09514587,6592.4000,,,,,,,,,,
+TRANSACTION,3010,010103095,13,83.0000,1079,"Basic Service Fee - Studio         : Moir. Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103095,13,23.8000,309.4,"Resident Care - Level 14: Moir. Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000.0000,2000,"New Resident Fee: Moir. Sherry",,,,,,,,,,,,,,,

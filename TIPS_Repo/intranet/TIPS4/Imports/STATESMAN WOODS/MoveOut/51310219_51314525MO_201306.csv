@@ -1,0 +1,7 @@
+BATCH,,201306,B,6909.0000,
+INVOICE,IN,,51310219,,06/17/2013,2499.0000,"Invoice-Private",,06/17/2013,06/17/2013,,51314525MO,-6468.0000,,,,,,,,,,
+TRANSACTION,3027,010310513,17,39.0000,663.00,"Resident Care - Level 3 for Jun: Gallagher, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,17,108.0000,1836.00,"Room and Board - Studio for Jun: Gallagher, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,51310219,,06/17/2013,4410,"Invoice-Private",,06/17/2013,06/17/2013,,51314525MO,-6468.0000,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1170,1170,"CR:Resident Care -... J.Gallagher 201306: Gallagher, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3240,3240,"CR:Room and Board ... J.Gallagher 201306: Gallagher, Joan",,,,,,,,,,,,,,,

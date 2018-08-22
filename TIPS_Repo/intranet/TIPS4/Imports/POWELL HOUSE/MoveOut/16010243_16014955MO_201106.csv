@@ -1,0 +1,7 @@
+BATCH,,201106,B,6013.0000,
+INVOICE,IN,,16010243,,06/22/2011,2568.0000,"Invoice-Private",,06/22/2011,06/22/2011,,16014955MO,-4374.0000,,,,,,,,,,
+TRANSACTION,3320,010107160,1,60.0000,60.00,"CR:Limited Term Di... V.Maxwell 201106: Maxwell, Vonda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107160,22,114.0000,2508.00,"Basic Service Fee - One Bedroom for Jun: Maxwell, Vonda",,,,,,,,,,,,,,,
+INVOICE,CM,,16010243,,06/22/2011,3445,"Invoice-Private",,06/22/2011,06/22/2011,,16014955MO,-4374.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3420,3420,"CR:Basic Service F... V.Maxwell 201106: Maxwell, Vonda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... V.Maxwell 201106: Maxwell, Vonda",,,,,,,,,,,,,,,

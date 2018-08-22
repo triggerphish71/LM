@@ -1,0 +1,8 @@
+BATCH,,201208,B,6006.0000,
+INVOICE,IN,,14410255,,08/18/2012,2196.0000,"Invoice-Private",,08/18/2012,08/18/2012,,14415271MO,-5214.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,18,106.0000,1908.00,"Basic Service Fee - Studio for Aug: Swanson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,18,16.0000,288.00,"Service : lvl 0 to lvl 1 - 8/1/12 for Aug: Swanson, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,14410255,,08/18/2012,3810,"Invoice-Private",,08/18/2012,08/18/2012,,14415271MO,-5214.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... J.Swanson 201208: Swanson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... J.Swanson 201208: Swanson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Service : lvl 0... J.Swanson 201208: Swanson, Joan",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,4900.0000,
+INVOICE,IN,,04410241,,09/20/2011,1960.0000,"Invoice-Private",,09/20/2011,09/20/2011,,04414509MO,-4018.0000,,,,,,,,,,
+TRANSACTION,3027,010202044,20,16.0000,320.00,"Resident Care - Level 1 for Sep: Cook, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202044,20,82.0000,1640.00,"Room and Board - Studio for Sep: Cook, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,04410241,,09/20/2011,2940,"Invoice-Private",,09/20/2011,09/20/2011,,04414509MO,-4018.0000,,,,,,,,,,
+TRANSACTION,3027,010202044,1,480,480,"CR:Resident Care -... B.Cook 201109: Cook, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2460,2460,"CR:Room and Board ... B.Cook 201109: Cook, Bertha",,,,,,,,,,,,,,,

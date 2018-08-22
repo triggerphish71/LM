@@ -1,0 +1,6 @@
+BATCH,,201108,B,5012.7000,
+INVOICE,IN,,52310092,,08/01/2011,244.9000,"Invoice-Private",,08/01/2011,08/10/2011,,52311785MO,-4522.9000,,,,,,,,,,
+TRANSACTION,3320,010103523,1,244.9000,244.90,"CR:Limited Term Di... T.Bandli 201108: Bandli, Theo",,,,,,,,,,,,,,,
+INVOICE,CM,,52310092,,08/01/2011,4767.8,"Invoice-Private",,08/01/2011,08/10/2011,,52311785MO,-4522.9000,,,,,,,,,,
+TRANSACTION,3027,010103523,1,2318.8,2318.8,"CR:Resident Care -... T.Bandli 201108: Bandli, Theo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2449,2449,"CR:Room and Board ... T.Bandli 201108: Bandli, Theo",,,,,,,,,,,,,,,

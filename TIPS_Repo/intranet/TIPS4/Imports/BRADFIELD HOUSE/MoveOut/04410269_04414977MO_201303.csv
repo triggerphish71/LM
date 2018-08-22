@@ -1,0 +1,7 @@
+BATCH,,201303,B,2840.0000,
+INVOICE,IN,,04410269,,03/09/2013,639.0000,"Invoice-Private",,03/09/2013,03/09/2013,,04414977MO,-1562.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,9,55.0000,495.00,"Basic Service Fee - Studio for Mar: Carnaghan, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,9,16.0000,144.00,"Resident Care - Level 1 for Mar: Carnaghan, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,04410269,,03/09/2013,2201,"Invoice-Private",,03/09/2013,03/09/2013,,04414977MO,-1562.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1705,1705,"CR:Basic Service F... R.Carnaghan 201303: Carnaghan, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496,496,"CR:Resident Care -... R.Carnaghan 201303: Carnaghan, Richard",,,,,,,,,,,,,,,

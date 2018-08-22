@@ -1,0 +1,7 @@
+BATCH,,201302,B,1656.0000,
+INVOICE,IN,,11510172,,02/01/2013,828.0000,"Invoice-Private",,02/01/2013,02/10/2013,,11514572MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Boozer, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3315,010308115,1,800.0000,800.00,"Credit for Promotional Discount: Boozer, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,11510172,,02/01/2013,828,"Invoice-Private",,02/01/2013,02/10/2013,,11514572MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Boozer, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3315,010308115,1,800,800,"Promotional Discount: Boozer, Mabel",,,,,,,,,,,,,,,

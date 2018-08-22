@@ -1,0 +1,8 @@
+BATCH,,201105,B,6321.0000,
+INVOICE,IN,,21410326,,05/16/2011,2663.0000,"Invoice-Private",,05/16/2011,05/16/2011,,21416319MO,-3785.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,775.0000,775.00,"CR:Limited Term Di... D.Thompson 201105: Thompson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,16,33.0000,528.00,"Resident Care - Level 3 for May: Thompson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,16,85.0000,1360.00,"Studio for May: Thompson, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,21410326,,05/16/2011,3658,"Invoice-Private",,05/16/2011,05/16/2011,,21416319MO,-3785.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1023,1023,"CR:Resident Care -... D.Thompson 201105: Thompson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2635,2635,"CR:Studio... D.Thompson 201105: Thompson, Doris",,,,,,,,,,,,,,,

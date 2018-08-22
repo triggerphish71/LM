@@ -1,0 +1,5 @@
+BATCH,,201206,B,3780.0000,
+INVOICE,IN,,15710255,,06/01/2012,3780.0000,"June_Rent-Swain. Richard",,06/01/2012,06/10/2012,,15714566,6435.0000,,,,,,,,,,
+TRANSACTION,3010,010309157,30,92.0000,2760,"Basic Service Fee - Studio: Swain. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309157,30,33.0000,990,"Resident Care - Level 2: Swain. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30,"Monthly Cable: Swain. Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,5180.0000,
+INVOICE,IN,,11810199,,09/21/2012,2040.0000,"MoveIn-Casaday. Marion",,09/21/2012,09/21/2012,,11815539,5180.0000,,,,,,,,,,
+TRANSACTION,3014,010310118,10,100.0000,1000,"Basic Service Fee - Studio: Casaday. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Casaday. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,1000.0000,1000,"New Resident Fee: Casaday. Marion",,,,,,,,,,,,,,,
+INVOICE,IN,,11810199,,10/01/2012,3140.0000,"October_Rent-Casaday. Marion",,10/01/2012,10/10/2012,,11815539,5180.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,31,100.0000,3100,"Basic Service Fee - Studio: Casaday. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Casaday. Marion",,,,,,,,,,,,,,,

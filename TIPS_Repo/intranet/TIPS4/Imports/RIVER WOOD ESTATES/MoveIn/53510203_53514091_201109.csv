@@ -1,0 +1,6 @@
+BATCH,,201109,B,3080.0000,
+INVOICE,IN,,53510203,,09/22/2011,3080.0000,"MoveIn-Kane. Gene",,09/22/2011,09/22/2011,,53514091,6050.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,9,95.0000,855,"Basic Service Fee - One Bedroom: Kane. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Kane. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Kane. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Kane. Gene",,,,,,,,,,,,,,,

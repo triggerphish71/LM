@@ -1,0 +1,5 @@
+BATCH,,201111,B,3350.0000,
+INVOICE,IN,,07310219,,11/01/2011,3350.0000,"November_Rent-Felver. Alberta",,11/01/2011,11/10/2011,,07315305,6702.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,30,94.0000,2820,"Basic Service Fee - Studio: Felver. Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,30,17.0000,510,"Resident Care - Level 1: Felver. Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Felver. Alberta",,,,,,,,,,,,,,,

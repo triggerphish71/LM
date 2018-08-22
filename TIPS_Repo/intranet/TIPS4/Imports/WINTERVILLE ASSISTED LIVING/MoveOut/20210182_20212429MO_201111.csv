@@ -1,0 +1,6 @@
+BATCH,,201111,B,4730.0000,
+INVOICE,IN,,20210182,,11/01/2011,2330.0000,"Invoice-Private",,11/01/2011,11/10/2011,,20212429MO,-1465.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,1050.0000,1050.00,"CR:Limited Term Di... R.Fournier 201111: Fournier, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,16,80.0000,1280.00,"Studio for Nov: Fournier, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,20210182,,11/01/2011,2400,"Invoice-Private",,11/01/2011,11/10/2011,,20212429MO,-1465.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2400,2400,"CR:Studio... R.Fournier 201111: Fournier, Robert",,,,,,,,,,,,,,,

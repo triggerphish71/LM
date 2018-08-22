@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,13510200,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13514994MO,-4230.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Dalrymple, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,13510200,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,13514994MO,-4230.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Dalrymple, Marjorie",,,,,,,,,,,,,,,

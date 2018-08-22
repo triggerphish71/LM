@@ -1,0 +1,6 @@
+BATCH,,201202,B,3882.0000,
+INVOICE,IN,,53210334,,02/16/2012,3882.0000,"MoveIn-Berge. Harold",,02/16/2012,02/16/2012,,53215200,9120.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,14,114.0000,1596,"Basic Service Fee - Studio: Berge. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,14,54.0000,756,"Resident Care - Level 4: Berge. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Berge. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: Berge. Harold",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,40.0000,
+INVOICE,IN,,21610054,,01/01/2012,20.0000,"Invoice-Private",,01/01/2012,01/10/2012,,21613248MO,-3330.0000,,,,,,,,,,
+TRANSACTION,3228,010216216,1,20.0000,20.00,"Sharps Disposal - 4+ Per Day: Loudermilk, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,21610054,,01/01/2012,20,"Invoice-Private",,01/01/2012,01/10/2012,,21613248MO,-3330.0000,,,,,,,,,,
+TRANSACTION,3228,010216216,1,20,20,"Credit for Sharps Disposal - 4+ Per Day: Loudermilk, Shirley",,,,,,,,,,,,,,,

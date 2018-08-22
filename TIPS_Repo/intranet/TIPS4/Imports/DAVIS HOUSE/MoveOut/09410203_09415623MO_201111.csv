@@ -1,0 +1,7 @@
+BATCH,,201111,B,2310.0000,
+INVOICE,IN,,09410203,,11/01/2011,1155.0000,"Invoice-Private",,11/01/2011,11/10/2011,,09415623MO,-6174.5000,,,,,,,,,,
+TRANSACTION,3320,010107094,30,30.0000,900.00,"Credit for Limited Term Discount: Agresto, Vito",,,,,,,,,,,,,,,
+TRANSACTION,3019,010107094,30,8.5000,255.00,"Additional Service Charge: Agresto, Vito",,,,,,,,,,,,,,,
+INVOICE,CM,,09410203,,11/01/2011,1155,"Invoice-Private",,11/01/2011,11/10/2011,,09415623MO,-6174.5000,,,,,,,,,,
+TRANSACTION,3320,010107094,30,30,900,"Limited Term Discount: Agresto, Vito",,,,,,,,,,,,,,,
+TRANSACTION,3019,010107094,30,8.5,255,"Credit for Additional Service Charge: Agresto, Vito",,,,,,,,,,,,,,,

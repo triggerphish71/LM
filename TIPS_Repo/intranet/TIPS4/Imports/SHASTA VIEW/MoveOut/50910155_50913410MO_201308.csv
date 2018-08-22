@@ -1,0 +1,6 @@
+BATCH,,201308,B,1355.4000,
+INVOICE,IN,,50910155,,08/02/2013,239.4000,"Invoice-Private",,08/02/2013,08/02/2013,,50913410MO,-876.6000,,,,,,,,,,
+TRANSACTION,3316,010101509,1,167.4000,167.40,"CR:Employee Discou... F.Smith 201308: Smith, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,2,36.0000,72.00,"Basic Service Fee - Second Resident for Aug: Smith, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,50910155,,08/02/2013,1116,"Invoice-Private",,08/02/2013,08/02/2013,,50913410MO,-876.6000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1116,1116,"CR:Basic Service F... F.Smith 201308: Smith, Frank",,,,,,,,,,,,,,,

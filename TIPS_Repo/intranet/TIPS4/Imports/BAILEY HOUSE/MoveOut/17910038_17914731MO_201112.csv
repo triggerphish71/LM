@@ -1,0 +1,8 @@
+BATCH,,201112,B,5690.0000,
+INVOICE,IN,,17910038,,12/01/2011,2187.0000,"Invoice-Private",,12/01/2011,12/10/2011,,17914731MO,-1316.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,1054.0000,1054.00,"CR:Limited Term Di... W.Hastings 201112: Hastings, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,1,79.0000,79.00,"Basic Service Fee - Studio for Dec: Hastings, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010313179,31,34.0000,1054.00,"Credit for Limited Term Discount: Hastings, William",,,,,,,,,,,,,,,
+INVOICE,CM,,17910038,,12/01/2011,3503,"Invoice-Private",,12/01/2011,12/10/2011,,17914731MO,-1316.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2449,2449,"CR:Basic Service F... W.Hastings 201112: Hastings, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010313179,31,34,1054,"Limited Term Discount: Hastings, William",,,,,,,,,,,,,,,

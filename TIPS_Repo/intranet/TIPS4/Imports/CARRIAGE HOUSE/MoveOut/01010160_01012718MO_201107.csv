@@ -1,0 +1,5 @@
+BATCH,,201107,B,2475.0000,
+INVOICE,IN,,01010160,,07/01/2011,150.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01012718MO,-2175.0000,,,,,,,,,,
+TRANSACTION,3020,010101010,2,75.0000,150.00,"Basic Service Fee - Studio for Jul: Babcock, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,01010160,,07/01/2011,2325,"Invoice-Private",,07/01/2011,07/10/2011,,01012718MO,-2175.0000,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2325,2325,"CR:Basic Service F... C.Babcock 201107: Babcock, Clarence",,,,,,,,,,,,,,,

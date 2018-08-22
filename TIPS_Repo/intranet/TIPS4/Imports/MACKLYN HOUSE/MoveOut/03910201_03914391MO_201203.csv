@@ -1,0 +1,5 @@
+BATCH,,201203,B,208.3200,
+INVOICE,IN,,03910201,,03/01/2012,104.1600,"Invoice-Private",,03/01/2012,03/10/2012,,03914391MO,-1470.2400,,,,,,,,,,
+TRANSACTION,3311,010101039,31,3.3600,104.16,"Credit for Advance Payment Discount: Adams, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,03910201,,03/01/2012,104.16,"Invoice-Private",,03/01/2012,03/10/2012,,03914391MO,-1470.2400,,,,,,,,,,
+TRANSACTION,3311,010101039,31,3.36,104.16,"Advance Payment Discount: Adams, Phyllis",,,,,,,,,,,,,,,

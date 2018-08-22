@@ -1,0 +1,7 @@
+BATCH,,201304,B,2944.0000,
+INVOICE,IN,,07110173,,04/01/2013,184.0000,"Invoice-Private",,04/01/2013,04/10/2013,,07114627MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,2,60.0000,120.00,"Basic Service Fee - Studio for Apr: Molk, Eulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,2,32.0000,64.00,"Resident Care - Level 2 for Apr: Molk, Eulah",,,,,,,,,,,,,,,
+INVOICE,CM,,07110173,,04/01/2013,2760,"Invoice-Private",,04/01/2013,04/10/2013,,07114627MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,1800,1800,"CR:Basic Service F... E.Molk 201304: Molk, Eulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,960,960,"CR:Resident Care -... E.Molk 201304: Molk, Eulah",,,,,,,,,,,,,,,

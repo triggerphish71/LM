@@ -1,0 +1,8 @@
+BATCH,,201207,B,2670.0000,
+INVOICE,IN,,15910202,,07/01/2012,2175.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15914817MO,1164.0000,,,,,,,,,,
+TRANSACTION,3299,010212159,1,1680.0000,1680.00,"Repair and Maintenance-Damages 4230: Krogh, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Krogh, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,31,15.0000,465.00,"Credit for Limited Term Discount: Krogh, Theodore",,,,,,,,,,,,,,,
+INVOICE,CM,,15910202,,07/01/2012,495,"Invoice-Private",,07/01/2012,07/10/2012,,15914817MO,1164.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Krogh, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,31,15,465,"Limited Term Discount: Krogh, Theodore",,,,,,,,,,,,,,,

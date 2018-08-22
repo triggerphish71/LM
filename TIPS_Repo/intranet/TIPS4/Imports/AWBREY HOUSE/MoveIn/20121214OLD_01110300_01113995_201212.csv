@@ -1,0 +1,5 @@
+BATCH,,201212,B,4551.4000,
+INVOICE,IN,,01110300,,12/14/2012,4551.4000,"MoveIn-Smart. John",,12/14/2012,12/14/2012,,01113995,10667.7000,,,,,,,,,,
+TRANSACTION,3010,010101011,18,90.0000,1620,"J.Smart: Basic Service Fee - One Bedroom: Smart. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,18,107.3000,1931.4,"J.Smart: Resident Care - Level 58: Smart. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Smart. John",,,,,,,,,,,,,,,

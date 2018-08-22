@@ -1,0 +1,7 @@
+BATCH,,201305,B,1590.0000,
+INVOICE,IN,,12810204,,05/05/2013,660.0000,"Invoice-Private",,05/05/2013,05/05/2013,,12815342MO,-270.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,22,11.0000,242.00,"Basic Service Fee - Second Resident for May: Hahn, Maurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,22,19.0000,418.00,"Swan Personal Care - L1 for May: Hahn, Maurice",,,,,,,,,,,,,,,
+INVOICE,CM,,12810204,,05/05/2013,930,"Invoice-Private",,05/05/2013,05/05/2013,,12815342MO,-270.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,341,341,"CR:Basic Service F... M.Hahn 201305: Hahn, Maurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,589,589,"CR:Swan Personal C... M.Hahn 201305: Hahn, Maurice",,,,,,,,,,,,,,,

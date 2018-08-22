@@ -1,0 +1,5 @@
+BATCH,,201301,B,1302.0000,
+INVOICE,IN,,04110231,,01/01/2013,651.0000,"Invoice-Private",,01/01/2013,01/10/2013,,04114665MO,-1338.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,31,21.0000,651.00,"Credit for Limited Term Discount: Earley, Glendon",,,,,,,,,,,,,,,
+INVOICE,CM,,04110231,,01/01/2013,651,"Invoice-Private",,01/01/2013,01/10/2013,,04114665MO,-1338.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,31,21,651,"Limited Term Discount: Earley, Glendon",,,,,,,,,,,,,,,

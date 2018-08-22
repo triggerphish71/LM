@@ -1,0 +1,6 @@
+BATCH,,201205,B,3201.0000,
+INVOICE,IN,,11210285,,05/24/2012,3201.0000,"MoveIn-Gundy. Betty",,05/24/2012,05/24/2012,,11216003,7636.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,8,128.0000,1024,"Basic Service Fee- One Bedroom Prem: Gundy. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,8,19.0000,152,"Resident Care - Level 1: Gundy. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Gundy. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Gundy. Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,4161.0000,
+INVOICE,IN,,07810234,,07/21/2011,623.0000,"Invoice-Private",,07/21/2011,07/21/2011,,07814312MO,-5699.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,7,89.0000,623.00,"Basic Service Fee - Studio for Jul: Seubert, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,07810234,,07/21/2011,3538,"Invoice-Private",,07/21/2011,07/21/2011,,07814312MO,-5699.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,1513,1513,"CR:Basic Service F... H.Seubert 201107: Seubert, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... H.Seubert 201107: Seubert, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,2000,2000,"CR:New Resident Fe... H.Seubert 201107: Seubert, Howard",,,,,,,,,,,,,,,

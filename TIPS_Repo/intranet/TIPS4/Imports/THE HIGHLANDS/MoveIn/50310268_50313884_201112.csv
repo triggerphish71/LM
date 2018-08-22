@@ -1,0 +1,6 @@
+BATCH,,201112,B,3030.0000,
+INVOICE,IN,,50310268,,12/06/2011,3030.0000,"MoveIn-Kuhn. Billy",,12/06/2011,12/06/2011,,50313884,3030.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,26,75.0000,1950,"Basic Service Fee - Studio: Kuhn. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Kuhn. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1000.0000,1000,"New Resident Fee: Kuhn. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,45.0000,45,"Pendant Fee: Kuhn. Billy",,,,,,,,,,,,,,,

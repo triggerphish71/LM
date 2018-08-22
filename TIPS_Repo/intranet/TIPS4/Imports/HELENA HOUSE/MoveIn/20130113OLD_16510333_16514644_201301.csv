@@ -1,0 +1,6 @@
+BATCH,,201301,B,3940.0000,
+INVOICE,IN,,16510333,,01/13/2013,3940.0000,"MoveIn-French-Briggs. Helen",,01/13/2013,01/13/2013,,16514644,3940.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,19,99.0000,1881,"Basic Service Fee - Studio         : French-Briggs. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,19,28.0000,532,"Resident Care - Level 2: French-Briggs. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: French-Briggs. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: French-Briggs. Helen",,,,,,,,,,,,,,,

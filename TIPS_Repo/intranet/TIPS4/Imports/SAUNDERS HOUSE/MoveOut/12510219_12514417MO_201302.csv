@@ -1,0 +1,7 @@
+BATCH,,201302,B,3400.0000,
+INVOICE,IN,,12510219,,02/01/2013,1496.0000,"Invoice-Private",,02/01/2013,02/10/2013,,12514417MO,-408.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,22,50.0000,1100.00,"Basic Service Fee - Studio for Feb: Bouc, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,22,18.0000,396.00,"Resident Care - Level 1 for Feb: Bouc, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,12510219,,02/01/2013,1904,"Invoice-Private",,02/01/2013,02/10/2013,,12514417MO,-408.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,1400,1400,"CR:Basic Service F... M.Bouc 201302: Bouc, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,504,504,"CR:Resident Care -... M.Bouc 201302: Bouc, Marie",,,,,,,,,,,,,,,

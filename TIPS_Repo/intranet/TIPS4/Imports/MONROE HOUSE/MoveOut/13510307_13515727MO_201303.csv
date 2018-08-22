@@ -1,0 +1,8 @@
+BATCH,,201303,B,3982.0000,
+INVOICE,IN,,13510307,,03/16/2013,1596.0000,"Invoice-Private",,03/16/2013,03/16/2013,,13515727MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,21,60.0000,1260.00,"Basic Service Fee - Studio for Mar: Harris, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,21,16.0000,336.00,"Resident Care - Level 1 for Mar: Harris, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13510307,,03/16/2013,2386,"Invoice-Private",,03/16/2013,03/16/2013,,13515727MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1860,1860,"CR:Basic Service F... R.Harris 201303: Harris, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... R.Harris 201303: Harris, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,496,496,"CR:Resident Care -... R.Harris 201303: Harris, Richard",,,,,,,,,,,,,,,

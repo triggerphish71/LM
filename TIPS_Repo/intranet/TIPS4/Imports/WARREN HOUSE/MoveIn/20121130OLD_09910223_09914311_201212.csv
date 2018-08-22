@@ -1,0 +1,5 @@
+BATCH,,201212,B,4117.0000,
+INVOICE,IN,,09910223,,12/01/2012,4117.0000,"December_Rent-Merrill. Keith",,12/01/2012,12/10/2012,,09914311,4774.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,31,103.0000,3193,"Basic Service Fee - One Bedroom: Merrill. Keith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,31,29.0000,899,"Resident Care - Level 2: Merrill. Keith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Merrill. Keith",,,,,,,,,,,,,,,

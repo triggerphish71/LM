@@ -1,0 +1,7 @@
+BATCH,,201306,B,5004.4000,
+INVOICE,IN,,12010229,,06/10/2013,1251.1000,"Invoice-Private",,06/10/2013,06/10/2013,,12014910MO,-2502.2000,,,,,,,,,,
+TRANSACTION,3020,010309120,10,38.0000,380.00,"Basic Service Fee - Second Resident for Jun: Hileman, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,10,87.1100,871.10,"Resident Care - Level 6+9 pts for Jun: Hileman, James",,,,,,,,,,,,,,,
+INVOICE,CM,,12010229,,06/10/2013,3753.3,"Invoice-Private",,06/10/2013,06/10/2013,,12014910MO,-2502.2000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,1140,1140,"CR:Basic Service F... J.Hileman 201306: Hileman, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,2613.3,2613.3,"CR:Resident Care -... J.Hileman 201306: Hileman, James",,,,,,,,,,,,,,,

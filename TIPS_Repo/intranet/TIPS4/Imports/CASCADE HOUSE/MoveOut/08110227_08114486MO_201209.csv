@@ -1,0 +1,7 @@
+BATCH,,201209,B,4152.4000,
+INVOICE,IN,,08110227,,09/01/2012,960.0000,"Invoice-Private",,09/01/2012,09/10/2012,,08114486MO,-2532.3600,,,,,,,,,,
+TRANSACTION,3320,010103081,1,960.0000,960.00,"CR:Limited Term Di... T.Edwards 201209: Edwards, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,08110227,,09/01/2012,3192.4,"Invoice-Private",,09/01/2012,09/10/2012,,08114486MO,-2532.3600,,,,,,,,,,
+TRANSACTION,3020,010103081,1,3060,3060,"CR:Basic Service F... T.Edwards 201209: Edwards, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... T.Edwards 201209: Edwards, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,107.4,107.4,"CR:Resident Care -... T.Edwards 201209: Edwards, Theresa",,,,,,,,,,,,,,,

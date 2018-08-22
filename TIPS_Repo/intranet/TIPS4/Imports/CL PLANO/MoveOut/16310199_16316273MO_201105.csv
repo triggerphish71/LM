@@ -1,0 +1,8 @@
+BATCH,,201105,B,8391.0000,
+INVOICE,IN,,16310199,,05/01/2011,3280.0000,"Invoice-Private",,05/01/2011,05/01/2011,,16316273MO,-1831.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,20,104.0000,2080.00,"Basic Service Fee - Studio Deluxe for May: Montgomery, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,20,60.0000,1200.00,"Resident Care - Level 5 for May: Montgomery, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,16310199,,05/01/2011,5111,"Invoice-Private",,05/01/2011,05/01/2011,,16316273MO,-1831.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3224,3224,"CR:Basic Service F... F.Montgomery 201105: Montgomery, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... F.Montgomery 201105: Montgomery, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1860,1860,"CR:Resident Care -... F.Montgomery 201105: Montgomery, Frances",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,5866.0000,
+INVOICE,IN,,53110138,,09/06/2011,1106.0000,"Invoice-Private",,09/06/2011,09/06/2011,,53113775MO,-3654.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,7,95.0000,665.00,"Basic Service Fee - Studio for Sep: Dixon, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,7,63.0000,441.00,"Resident Care - Level 5 for Sep: Dixon, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,53110138,,09/06/2011,4760,"Invoice-Private",,09/06/2011,09/06/2011,,53113775MO,-3654.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2850,2850,"CR:Basic Service F... E.Dixon 201109: Dixon, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... E.Dixon 201109: Dixon, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1890,1890,"CR:Resident Care -... E.Dixon 201109: Dixon, Esther",,,,,,,,,,,,,,,

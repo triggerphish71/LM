@@ -1,0 +1,7 @@
+BATCH,,201107,B,4836.0000,
+INVOICE,IN,,17410212,,07/08/2011,992.0000,"Invoice-Private",,07/08/2011,07/08/2011,,17413958MO,-6696.0000,,,,,,,,,,
+TRANSACTION,3027,010309174,8,16.0000,128.00,"Resident Care - Level 1 for Jul: Mardis, Leavern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,8,108.0000,864.00,"Room and Board - One Bedroom for Jul: Mardis, Leavern",,,,,,,,,,,,,,,
+INVOICE,CM,,17410212,,07/08/2011,3844,"Invoice-Private",,07/08/2011,07/08/2011,,17413958MO,-6696.0000,,,,,,,,,,
+TRANSACTION,3027,010309174,1,496,496,"CR:Resident Care -... L.Mardis 201107: Mardis, Leavern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,1,3348,3348,"CR:Room and Board ... L.Mardis 201107: Mardis, Leavern",,,,,,,,,,,,,,,

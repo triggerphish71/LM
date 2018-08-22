@@ -1,0 +1,7 @@
+BATCH,,201109,B,4681.0000,
+INVOICE,IN,,04210116,,09/01/2011,151.0000,"Invoice-Private",,09/01/2011,09/01/2011,,04213789MO,-4379.0000,,,,,,,,,,
+TRANSACTION,3027,010202042,1,55.0000,55.00,"Resident Care - Level 4 for Sep: Bim, OA",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,1,96.0000,96.00,"Room and Board - Studio for Sep: Bim, OA",,,,,,,,,,,,,,,
+INVOICE,CM,,04210116,,09/01/2011,4530,"Invoice-Private",,09/01/2011,09/01/2011,,04213789MO,-4379.0000,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1650,1650,"CR:Resident Care -... O.Bim 201109: Bim, OA",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2880,2880,"CR:Room and Board ... O.Bim 201109: Bim, OA",,,,,,,,,,,,,,,

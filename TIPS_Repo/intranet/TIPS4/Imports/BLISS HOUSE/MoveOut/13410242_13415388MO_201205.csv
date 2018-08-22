@@ -1,0 +1,5 @@
+BATCH,,201205,B,70.0000,
+INVOICE,IN,,13410242,,05/01/2012,35.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13415388MO,-1783.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Kidd, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13410242,,05/01/2012,35,"Invoice-Private",,05/01/2012,05/10/2012,,13415388MO,-1783.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Kidd, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201308,B,70.0000,
+INVOICE,IN,,19210201,,08/01/2013,35.0000,"Invoice-Private",,08/01/2013,08/10/2013,,19215937MO,-3525.0600,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35.0000,35.00,"Pendant Fee: Craig, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,19210201,,08/01/2013,35,"Invoice-Private",,08/01/2013,08/10/2013,,19215937MO,-3525.0600,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"Credit for Pendant Fee: Craig, Barbara",,,,,,,,,,,,,,,

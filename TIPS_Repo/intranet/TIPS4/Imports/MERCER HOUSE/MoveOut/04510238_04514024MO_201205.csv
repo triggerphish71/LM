@@ -1,0 +1,6 @@
+BATCH,,201205,B,3555.0000,
+INVOICE,IN,,04510238,,05/05/2012,490.0000,"Invoice-Private",,05/05/2012,05/05/2012,,04514024MO,-2575.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,5,98.0000,490.00,"Room and Board - One Bedroom for May: Wiles, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,04510238,,05/05/2012,3065,"Invoice-Private",,05/05/2012,05/05/2012,,04514024MO,-2575.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... K.Wiles 201205: Wiles, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,1,3038,3038,"CR:Room and Board ... K.Wiles 201205: Wiles, Kenneth",,,,,,,,,,,,,,,

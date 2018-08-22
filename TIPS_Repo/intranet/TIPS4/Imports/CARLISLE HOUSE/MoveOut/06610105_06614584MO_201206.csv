@@ -1,0 +1,8 @@
+BATCH,,201206,B,10644.0000,
+INVOICE,IN,,06610105,,06/26/2012,4974.0000,"Invoice-Private",,06/26/2012,06/26/2012,,06614584MO,-6493.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,60.0000,60.00,"CR:Limited Term Di... D.Wallimire 201206: Wallimire, Doyle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,26,114.0000,2964.00,"Basic Service Fee - Deluxe for Jun: Wallimire, Doyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,26,75.0000,1950.00,"Resident Care - Level 5 for Jun: Wallimire, Doyle",,,,,,,,,,,,,,,
+INVOICE,CM,,06610105,,06/26/2012,5670,"Invoice-Private",,06/26/2012,06/26/2012,,06614584MO,-6493.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3420,3420,"CR:Basic Service F... D.Wallimire 201206: Wallimire, Doyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2250,2250,"CR:Resident Care -... D.Wallimire 201206: Wallimire, Doyle",,,,,,,,,,,,,,,

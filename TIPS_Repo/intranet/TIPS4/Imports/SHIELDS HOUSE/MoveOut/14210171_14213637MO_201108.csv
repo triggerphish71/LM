@@ -1,0 +1,6 @@
+BATCH,,201108,B,4088.5000,
+INVOICE,IN,,14210171,,08/14/2011,1453.5000,"Invoice-Private",,08/14/2011,08/14/2011,,14213637MO,-3476.5000,,,,,,,,,,
+TRANSACTION,3312,010309142,1,263.5000,263.50,"CR:Two Room Rental... M.Darby 201108: Darby, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,14,85.0000,1190.00,"Basic Service Fee - Studio for Aug: Darby, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,14210171,,08/14/2011,2635,"Invoice-Private",,08/14/2011,08/14/2011,,14213637MO,-3476.5000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2635,2635,"CR:Basic Service F... M.Darby 201108: Darby, Marilyn",,,,,,,,,,,,,,,

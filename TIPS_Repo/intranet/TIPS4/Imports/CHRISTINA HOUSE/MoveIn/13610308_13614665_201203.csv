@@ -1,0 +1,6 @@
+BATCH,,201203,B,1251.0000,
+INVOICE,IN,,13610308,,03/30/2012,1251.0000,"MoveIn-McNew. Marian",,03/30/2012,03/30/2012,,13614665,4526.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,2,77.0000,154,"Basic Service Fee- One Bedroom Prem: McNew. Marian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309136,2,31.0000,62,"Resident Care - Level 2: McNew. Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: McNew. Marian",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: McNew. Marian",,,,,,,,,,,,,,,

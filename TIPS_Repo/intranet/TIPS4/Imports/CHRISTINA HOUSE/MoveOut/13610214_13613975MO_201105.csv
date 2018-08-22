@@ -1,0 +1,8 @@
+BATCH,,201105,B,2483.0000,
+INVOICE,IN,,13610214,,05/01/2011,340.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13613975MO,-1803.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,5,53.0000,265.00,"Basic Service Fee - Studio for May: Davy, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,5,15.0000,75.00,"Resident Care - Level 1 for May: Davy, Bette",,,,,,,,,,,,,,,
+INVOICE,CM,,13610214,,05/01/2011,2143,"Invoice-Private",,05/01/2011,05/10/2011,,13613975MO,-1803.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1643,1643,"CR:Basic Service F... B.Davy 201105: Davy, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... B.Davy 201105: Davy, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,465,465,"CR:Resident Care -... B.Davy 201105: Davy, Bette",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,7381.0000,
+INVOICE,IN,,20210118,,10/30/2011,3630.0000,"Invoice-Private",,10/30/2011,10/30/2011,,20212400MO,-4051.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,30,41.0000,1230.00,"Resident Care - Level 4 for Oct: Tyner, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,30,80.0000,2400.00,"Studio for Oct: Tyner, Samuel",,,,,,,,,,,,,,,
+INVOICE,CM,,20210118,,10/30/2011,3751,"Invoice-Private",,10/30/2011,10/30/2011,,20212400MO,-4051.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1271,1271,"CR:Resident Care -... S.Tyner 201110: Tyner, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Studio... S.Tyner 201110: Tyner, Samuel",,,,,,,,,,,,,,,

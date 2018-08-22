@@ -1,0 +1,6 @@
+BATCH,,201201,B,3168.0000,
+INVOICE,IN,,53410418,,01/16/2012,3136.0000,"MoveIn-Green. Eunice",,01/16/2012,01/16/2012,,53420392,5105.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,16,71.0000,1136,"E.Green: Basic Service Fee - Studio: Green. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319534,1,2000.0000,2000,"New Resident Fee: Green. Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,53410418,,01/16/2012,32.0000,"MoveIn-Green. Eunice",,01/16/2012,01/16/2012,,53420392,5105.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,16,2,32,"Limited Term Discount: Green. Eunice",,,,,,,,,,,,,,,

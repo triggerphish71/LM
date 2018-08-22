@@ -1,0 +1,6 @@
+BATCH,,201210,B,3663.0000,
+INVOICE,IN,,11110329,,10/19/2012,3663.0000,"MoveIn-McMann. Fay",,10/19/2012,10/19/2012,,11115001,7468.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,13,97.0000,1261,"Basic Service Fee - Studio: McMann. Fay",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,13,29.0000,377,"Resident Care - Level 2: McMann. Fay",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: McMann. Fay",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: McMann. Fay",,,,,,,,,,,,,,,

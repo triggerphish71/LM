@@ -1,0 +1,8 @@
+BATCH,,201202,B,4780.0000,
+INVOICE,IN,,14410221,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14415017MO,-5299.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,1,58.0000,58.00,"CR:Limited Term Di... D.Sopalsky 201202: Sopalsky, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14410221,,02/01/2012,4722,"Invoice-Private",,02/01/2012,02/10/2012,,14415017MO,-5299.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3074,3074,"CR:Basic Service F... D.Sopalsky 201202: Sopalsky, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... D.Sopalsky 201202: Sopalsky, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,25,25,"CR:Pendant Fee... D.Sopalsky 201202: Sopalsky, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,1595,1595,"CR:Resident Care -... D.Sopalsky 201202: Sopalsky, Dorothy",,,,,,,,,,,,,,,

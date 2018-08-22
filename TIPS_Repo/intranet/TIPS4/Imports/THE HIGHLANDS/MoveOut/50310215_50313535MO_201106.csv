@@ -1,0 +1,8 @@
+BATCH,,201106,B,3389.0000,
+INVOICE,IN,,50310215,,06/09/2011,774.0000,"Invoice-Private",,06/09/2011,06/09/2011,,50313535MO,-1841.0000,,,,,,,,,,
+TRANSACTION,3027,010220503,9,14.0000,126.00,"Resident Care - Level 1 for Jun: Belt, Rollie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,9,72.0000,648.00,"Room and Board - Studio for Jun: Belt, Rollie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310215,,06/09/2011,2615,"Invoice-Private",,06/09/2011,06/09/2011,,50313535MO,-1841.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... R.Belt 201106: Belt, Rollie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,420,420,"CR:Resident Care -... R.Belt 201106: Belt, Rollie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2160,2160,"CR:Room and Board ... R.Belt 201106: Belt, Rollie",,,,,,,,,,,,,,,

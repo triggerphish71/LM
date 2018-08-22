@@ -1,0 +1,5 @@
+BATCH,,201308,B,540.0000,
+INVOICE,IN,,20010785,,08/05/2013,75.0000,"Invoice-Private",,08/05/2013,08/05/2013,,20017874MO,-840.0000,,,,,,,,,,
+TRANSACTION,3027,010001200,5,15.0000,75.00,"Resident Care - Level 1 for Aug: Smith, Chrhistina",,,,,,,,,,,,,,,
+INVOICE,CM,,20010785,,08/05/2013,465,"Invoice-Private",,08/05/2013,08/05/2013,,20017874MO,-840.0000,,,,,,,,,,
+TRANSACTION,3027,010001200,1,465,465,"CR:Resident Care -... C.Smith 201308: Smith, Chrhistina",,,,,,,,,,,,,,,

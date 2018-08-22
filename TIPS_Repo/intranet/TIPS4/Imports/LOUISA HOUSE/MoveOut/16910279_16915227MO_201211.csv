@@ -1,0 +1,7 @@
+BATCH,,201211,B,5244.0000,
+INVOICE,IN,,16910279,,11/05/2012,222.0000,"Invoice-Private",,11/05/2012,11/05/2012,,16915227MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,2,111.0000,222.00,"Basic Service Fee - One Bedroom for Nov: Reynolds, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,16910279,,11/05/2012,5022,"Invoice-Private",,11/05/2012,11/05/2012,,16915227MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2997,2997,"CR:Basic Service F... D.Reynolds 201211: Reynolds, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... D.Reynolds 201211: Reynolds, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000,2000,"CR:New Resident Fe... D.Reynolds 201211: Reynolds, Dale",,,,,,,,,,,,,,,

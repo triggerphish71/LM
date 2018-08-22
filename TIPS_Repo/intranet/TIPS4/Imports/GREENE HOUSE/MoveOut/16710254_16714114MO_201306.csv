@@ -1,0 +1,7 @@
+BATCH,,201306,B,4294.0000,
+INVOICE,IN,,16710254,,06/08/2013,904.0000,"Invoice-Private",,06/08/2013,06/08/2013,,16714114MO,-2486.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,8,86.0000,688.00,"Basic Service Fee - Studio for Jun: Luft, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,8,27.0000,216.00,"Resident Care - Level 2 for Jun: Luft, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,16710254,,06/08/2013,3390,"Invoice-Private",,06/08/2013,06/08/2013,,16714114MO,-2486.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2580,2580,"CR:Basic Service F... R.Luft 201306: Luft, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,810,810,"CR:Resident Care -... R.Luft 201306: Luft, Robert",,,,,,,,,,,,,,,

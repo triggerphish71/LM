@@ -1,0 +1,5 @@
+BATCH,,201205,B,3924.8000,
+INVOICE,IN,,08110237,,05/01/2012,3924.8000,"May_Rent-Coriell. Julia",,05/01/2012,05/10/2012,,08114405,6453.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,31,90.0000,2790,"Basic Service Fee - Studio: Coriell. Julia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,31,35.8000,1109.8,"Resident Care - Level 20: Coriell. Julia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Coriell. Julia",,,,,,,,,,,,,,,

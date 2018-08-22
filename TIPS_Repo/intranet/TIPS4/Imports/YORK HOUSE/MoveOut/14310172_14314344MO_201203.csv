@@ -1,0 +1,8 @@
+BATCH,,201203,B,6226.0000,
+INVOICE,IN,,14310172,,03/10/2012,1510.0000,"Invoice-Private",,03/10/2012,03/10/2012,,14314344MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,10,82.0000,820.00,"Basic Service Fee - Studio for Mar: Brown, Doug",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,10,69.0000,690.00,"Resident Care - Level 5 for Mar: Brown, Doug",,,,,,,,,,,,,,,
+INVOICE,CM,,14310172,,03/10/2012,4716,"Invoice-Private",,03/10/2012,03/10/2012,,14314344MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... D.Brown 201203: Brown, Doug",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... D.Brown 201203: Brown, Doug",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,2139,2139,"CR:Resident Care -... D.Brown 201203: Brown, Doug",,,,,,,,,,,,,,,

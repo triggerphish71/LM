@@ -1,0 +1,6 @@
+BATCH,,201201,B,1624.0000,
+INVOICE,IN,,18910295,,01/31/2012,1624.0000,"MoveIn-LaDuke. Geneba",,01/31/2012,01/31/2012,,18915087,4545.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,1,89.0000,89,"Basic Service Fee - Studio: LaDuke. Geneba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: LaDuke. Geneba",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,1500.0000,1500,"New Tenant Fee: LaDuke. Geneba",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,10.0000,10,"CC Meals: LaDuke. Geneba",,,,,,,,,,,,,,,

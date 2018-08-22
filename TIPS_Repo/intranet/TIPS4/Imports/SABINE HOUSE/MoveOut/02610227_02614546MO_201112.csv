@@ -1,0 +1,5 @@
+BATCH,,201112,B,54.0000,
+INVOICE,IN,,02610227,,12/01/2011,27.0000,"Invoice-Private",,12/01/2011,12/10/2011,,02614546MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27.00,"Monthly Cable: Hilliard, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,02610227,,12/01/2011,27,"Invoice-Private",,12/01/2011,12/10/2011,,02614546MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"Credit for Monthly Cable: Hilliard, Mary Lou",,,,,,,,,,,,,,,

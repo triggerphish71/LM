@@ -1,0 +1,4 @@
+BATCH,,201105,B,3000.8000,
+INVOICE,CM,,00710146,,05/01/2011,3000.8,"Invoice-Private",,05/01/2011,05/10/2011,,00713124MO,-3000.8000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,1736,1736,"CR:Basic Service F... B.Bird 201105: Bird, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1264.8,1264.8,"CR:Resident Care -... B.Bird 201105: Bird, Betty",,,,,,,,,,,,,,,

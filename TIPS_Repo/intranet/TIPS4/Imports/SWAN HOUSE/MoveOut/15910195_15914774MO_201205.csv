@@ -1,0 +1,7 @@
+BATCH,,201205,B,4699.0000,
+INVOICE,IN,,15910195,,05/01/2012,1197.0000,"Invoice-Private",,05/01/2012,05/01/2012,,15914774MO,-2305.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,1085.0000,1085.00,"CR:Limited Term Di... J.Fleshner 201205: Fleshner, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212159,1,112.0000,112.00,"Basic Service Fee - One Bedroom for May: Fleshner, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,15910195,,05/01/2012,3502,"Invoice-Private",,05/01/2012,05/01/2012,,15914774MO,-2305.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3472,3472,"CR:Basic Service F... J.Fleshner 201205: Fleshner, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... J.Fleshner 201205: Fleshner, Jean",,,,,,,,,,,,,,,

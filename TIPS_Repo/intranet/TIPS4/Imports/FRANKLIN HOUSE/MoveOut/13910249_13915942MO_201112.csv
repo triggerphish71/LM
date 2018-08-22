@@ -1,0 +1,8 @@
+BATCH,,201112,B,6966.6000,
+INVOICE,IN,,13910249,,12/02/2011,420.4000,"Invoice-Private",,12/02/2011,12/02/2011,,13915942MO,-6125.8000,,,,,,,,,,
+TRANSACTION,3020,010103139,2,115.0000,230.00,"Basic Service Fee - One Bedroom for Dec: Wilde, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,2,95.2000,190.40,"Resident Care - Level 56 for Dec: Wilde, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,13910249,,12/02/2011,6546.2,"Invoice-Private",,12/02/2011,12/02/2011,,13915942MO,-6125.8000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3565,3565,"CR:Basic Service F... R.Wilde 201112: Wilde, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... R.Wilde 201112: Wilde, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,2951.2,2951.2,"CR:Resident Care -... R.Wilde 201112: Wilde, Roger",,,,,,,,,,,,,,,

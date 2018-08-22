@@ -1,0 +1,6 @@
+BATCH,,201304,B,3806.0000,
+INVOICE,IN,,53110309,,04/09/2013,3806.0000,"MoveIn-Schael. Judy",,04/09/2013,04/09/2013,,53114506,3806.0000,,,,,,,,,,
+TRANSACTION,3010,010319531,22,88.0000,1936,"Basic Service Fee - Studio: Schael. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,22,15.0000,330,"Resident Care - Level 1: Schael. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,1500.0000,1500,"New Resident Fee: Schael. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40.0000,40,"Monthly Cable: Schael. Judy",,,,,,,,,,,,,,,

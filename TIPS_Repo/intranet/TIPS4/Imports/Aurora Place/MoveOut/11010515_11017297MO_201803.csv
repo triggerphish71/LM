@@ -1,0 +1,7 @@
+BATCH,,201803,B,4191.0000,
+INVOICE,IN,,11010515,,03/02/2018,254.0000,"Invoice-Private",,03/02/2018,03/02/2018,,11017297MO,-7493.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,2,79.0000,158.00,"Basic Service Fee - Studio  for Mar: Mahler, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,2,48.0000,96.00,"Resident Care - Level 3  for Mar: Mahler, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,11010515,,03/02/2018,3937,"Invoice-Private",,03/02/2018,03/02/2018,,11017297MO,-7493.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2449,2449,"CR:Basic Service F... J.Mahler 201803: Mahler, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,1488,1488,"CR:Resident Care -... J.Mahler 201803: Mahler, Jack",,,,,,,,,,,,,,,

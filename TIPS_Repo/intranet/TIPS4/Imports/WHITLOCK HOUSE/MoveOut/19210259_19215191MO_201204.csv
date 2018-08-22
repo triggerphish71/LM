@@ -1,0 +1,5 @@
+BATCH,,201204,B,2166.0000,
+INVOICE,IN,,19210259,,04/27/2012,1026.0000,"Invoice-Private",,04/27/2012,04/27/2012,,19215191MO,-1292.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,27,38.0000,1026.00,"Basic Service Fee - Second Resident for Apr: Carrell, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,19210259,,04/27/2012,1140,"Invoice-Private",,04/27/2012,04/27/2012,,19215191MO,-1292.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,1140,1140,"CR:Basic Service F... B.Carrell 201204: Carrell, Beverly",,,,,,,,,,,,,,,

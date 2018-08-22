@@ -1,0 +1,7 @@
+BATCH,,201206,B,8083.5300,
+INVOICE,IN,,07310214,,06/09/2012,1865.4300,"Invoice-Private",,06/09/2012,06/09/2012,,07315598MO,-4352.6700,,,,,,,,,,
+TRANSACTION,3027,010305073,9,110.2700,992.43,"Resident Care - Level 6+13 pts for Jun: Phillis, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,9,97.0000,873.00,"Room and Board - Studio for Jun: Phillis, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,07310214,,06/09/2012,6218.1,"Invoice-Private",,06/09/2012,06/09/2012,,07315598MO,-4352.6700,,,,,,,,,,
+TRANSACTION,3027,010305073,1,3308.1,3308.1,"CR:Resident Care -... K.Phillis 201206: Phillis, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2910,2910,"CR:Room and Board ... K.Phillis 201206: Phillis, Katherine",,,,,,,,,,,,,,,

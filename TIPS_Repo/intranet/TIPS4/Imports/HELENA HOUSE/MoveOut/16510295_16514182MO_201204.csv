@@ -1,0 +1,6 @@
+BATCH,,201204,B,6330.0000,
+INVOICE,IN,,16510295,,04/01/2012,1410.0000,"Invoice-Private",,04/01/2012,04/10/2012,,16514182MO,-3701.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,1410.0000,1410.00,"CR:Limited Term Di... J.Anderson 201204: Anderson, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,16510295,,04/01/2012,4920,"Invoice-Private",,04/01/2012,04/10/2012,,16514182MO,-3701.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2910,2910,"CR:Basic Service F... J.Anderson 201204: Anderson, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2010,2010,"CR:Resident Care -... J.Anderson 201204: Anderson, Joseph",,,,,,,,,,,,,,,

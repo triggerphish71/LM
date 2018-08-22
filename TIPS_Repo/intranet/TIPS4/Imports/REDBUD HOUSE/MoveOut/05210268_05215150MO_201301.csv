@@ -1,0 +1,7 @@
+BATCH,,201301,B,4299.0000,
+INVOICE,IN,,05210268,,01/01/2013,1730.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05215150MO,-839.0000,,,,,,,,,,
+TRANSACTION,3320,010202052,1,992.0000,992.00,"CR:Limited Term Di... M.Buraczenski 201301: Buraczenski, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,9,82.0000,738.00,"Basic Service Fee - Studio for Jan: Buraczenski, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,05210268,,01/01/2013,2569,"Invoice-Private",,01/01/2013,01/10/2013,,05215150MO,-839.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2542,2542,"CR:Basic Service F... M.Buraczenski 201301: Buraczenski, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... M.Buraczenski 201301: Buraczenski, Margaret",,,,,,,,,,,,,,,

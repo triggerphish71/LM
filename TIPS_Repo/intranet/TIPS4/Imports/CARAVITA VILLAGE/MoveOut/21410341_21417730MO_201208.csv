@@ -1,0 +1,6 @@
+BATCH,,201208,B,4154.0000,
+INVOICE,IN,,21410341,,08/01/2012,1054.0000,"Invoice-Private",,08/01/2012,08/10/2012,,21417730MO,-2504.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,1054.0000,1054.00,"CR:Limited Term Di... L.Matthews 201208: Matthews, Louisiana",,,,,,,,,,,,,,,
+INVOICE,CM,,21410341,,08/01/2012,3100,"Invoice-Private",,08/01/2012,08/10/2012,,21417730MO,-2504.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,372,372,"CR:Resident Care -... L.Matthews 201208: Matthews, Louisiana",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2728,2728,"CR:Studio... L.Matthews 201208: Matthews, Louisiana",,,,,,,,,,,,,,,

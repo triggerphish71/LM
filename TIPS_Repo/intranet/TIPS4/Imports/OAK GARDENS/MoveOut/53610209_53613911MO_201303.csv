@@ -1,0 +1,7 @@
+BATCH,,201303,B,6160.0000,
+INVOICE,IN,,53610209,,03/04/2013,704.0000,"Invoice-Private",,03/04/2013,03/04/2013,,53613911MO,-4752.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,4,99.0000,396.00,"Basic Service Fee - Studio for Mar: Holbrook, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,4,77.0000,308.00,"Resident Care - Level 6 for Mar: Holbrook, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,53610209,,03/04/2013,5456,"Invoice-Private",,03/04/2013,03/04/2013,,53613911MO,-4752.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3069,3069,"CR:Basic Service F... E.Holbrook 201303: Holbrook, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,2387,2387,"CR:Resident Care -... E.Holbrook 201303: Holbrook, Eleanor",,,,,,,,,,,,,,,

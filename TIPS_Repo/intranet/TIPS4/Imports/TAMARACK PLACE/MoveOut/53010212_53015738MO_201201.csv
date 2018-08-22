@@ -1,0 +1,6 @@
+BATCH,,201201,B,4927.0000,
+INVOICE,CM,,53010212,,01/01/2012,4927,"Invoice-Private",,01/01/2012,01/10/2012,,53015738MO,-4927.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3503,3503,"CR:Basic Service F... J.Bub 201201: Bub, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... J.Bub 201201: Bub, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... J.Bub 201201: Bub, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1364,1364,"CR:Resident Care -... J.Bub 201201: Bub, Jim",,,,,,,,,,,,,,,

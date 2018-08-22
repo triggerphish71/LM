@@ -1,0 +1,301 @@
+<!--- -------------------------------------------------------------------------------------------
+ | sfarmer    | 11/20/2012 |tickets 97882, 95010, 95009, 95468, 97570, 97710 for  misc. updates |
+ | sfarmer    | 08/08/2013 |project 106456 EFT Updates                                          |
+------------------------------------------------------------------------------------------------>
+<cfparam name="showall" default="Y">
+<cfparam name="View" default="">
+<cfparam name="days" default="">
+<cfparam name="strtday" default="">
+<cfparam name="endday" default="">  
+<CFPARAM name="thisdate" default="">
+<CFPARAM name="eftpulmonth" default="">
+
+<cfset eftpulmonth = dateadd('m', -1,  #session.TIPSMonth#) >
+<cfoutput>#eftpulmonth#</cfoutput>
+<cfset thisyy = mid(eftpulmonth,6,4)>
+<cfset thismm = mid(eftpulmonth,11,2)>
+<cfset pullacctperiod = #dateformat(eftpulmonth,'YYYYMM')#>	
+<cfset thisdate = #thisdate#>
+<br /><cfoutput> #thisdate# -- #pullacctperiod# </cfoutput><br />
+  
+
+  
+<cfif cgi.SERVER_NAME is "vmappprod01dev3">
+	<cfset destFilePath = "\\fs01\ALC_IT\EFTPull">	
+	<cfset filename = "EFTUserData">
+<cfelse>
+	<cfset destFilePath = "\\fs01\ar\Auto Withdrawal EFT">
+	<cfset filename = "EFTUserData">
+</cfif>
+<cfoutput>
+	<cfif FileExists("#destFilePath#\#filename#.csv")>
+		<cffile action="delete"  file="#destFilePath#\#filename#.csv" >
+		<br />Deleted #destFilePath#\#filename#.csv<br />
+	</cfif>
+</cfoutput>	
+ 	<cfquery name="EFTinfo" datasource="#application.datasource#">
+  		SELECT 
+			t.clastname + '; ' + T.cfirstname as 'TenantName'
+			,t.csolomonkey
+			,''  as 'ContactName'
+			,T.itenant_id
+			,T.cEmail  as 'Email' 
+			,ts.bUsesEFT
+			,ts.dVAChampsAmt	 as 'VAChampsAmt'	
+			,EFTA.iEFTAccount_ID 
+			,EFTA.cRoutingNumber 
+			,EFTA.CaCCOUNTnUMBER 
+			,EFTA.cAccountType 
+			,EFTA.iOrderofPull 
+			,EFTA.iDayofFirstPull 
+			,EFTA.dPctFirstPull 
+			,EFTA.dAmtFirstPull 
+			,EFTA.iDayofSecondPull 
+			,EFTA.dPctSecondPull 
+			,EFTA.dAmtSecondPull 
+			,EFTA.iContact_id 
+			,EFTA.dtBeginEFTDate 
+			,EFTA.dtEndEFTDate 
+			,EFTA.bApproved 
+			,EFTA.dtRowDeleted 
+			<!--- ,EFTA.dtRowEnd	 --->						
+			,h.cname as 'cHouseName'
+			,h.ihouse_id  AS 'houseID'
+			,IM.mInvoiceTotal
+			,TS.dDeferral 
+			,TS.dSocSec 
+			,TS.dMiscPayment
+			,TS.dMakeUpAmt	
+			,ts.bDeferredPayment 				
+			,T.bIsPayer	as 'IsPayer'
+			,TS.bIsPrimaryPayer as 'IsPrimPayer'
+			,TS.bUsesEFT   as 'EFTUSER'
+			,'' as 'IsContactPayer'
+			,'' as 'IsContactPrimPayer'
+			,'' as 'isLTC'
+ 
+		FROM  
+		dbo.tenant T join dbo.tenantstate ts on  t.iTenant_ID = ts.iTenant_ID
+		 join dbo.house h on t.ihouse_id = h.ihouse_id
+		 join dbo.InvoiceMaster IM on IM.cSolomonKey = T.cSolomonKey 
+		 join EFTAccount EFTA on  EFTA.cSolomonKey = T.cSolomonKey
+		 	 
+		
+		  
+		WHERE 
+			EFTA.iContact_id is  null
+			<cfif showall is not "Y">
+				and EFTA.dtRowDeleted is  null 
+			<!--- 	and  EFTA.dtRowEnd  is  null --->   
+		 		and ts.bUsesEFT =  1
+
+			</cfif>	
+			and ts.iTenantStateCode_ID = 2		
+			and im.cAppliesToAcctPeriod =   '#thisdate#'	
+			and IM.dtRowDeleted is null			
+			and IM.bMoveInInvoice is null	
+			and h.ihouse_id <> 200	
+ 
+	 			
+			UNION     
+			
+			SELECT 
+				t.clastname + '; ' + T.cfirstname	as 'TenantName'	
+				,t.csolomonkey			
+				,C.cFirstName + ' ' +  C.cLastName as   'ContactName'  
+				,T.itenant_id
+ 				,C.cEmail as  'Email' 
+				,LTC.bIsEFT 
+				,''	 as 'VAChampsAmt'
+				,EFTA.iEFTAccount_ID 
+				,EFTA.cRoutingNumber 
+				,EFTA.CaCCOUNTnUMBER 
+				,EFTA.cAccountType 
+				,EFTA.iOrderofPull 
+				,EFTA.iDayofFirstPull 
+				,EFTA.dPctFirstPull 
+				,EFTA.dAmtFirstPull 
+				,EFTA.iDayofSecondPull 
+				,EFTA.dPctSecondPull 
+				,EFTA.dAmtSecondPull 
+				,EFTA.iContact_id 
+				,EFTA.dtBeginEFTDate 
+				,EFTA.dtEndEFTDate 
+				,EFTA.bApproved 
+				,EFTA.dtRowDeleted 
+			<!--- 	,EFTA.dtRowEnd	 --->			
+				,h.cname as 'cHouseName'
+				,h.ihouse_id  AS 'houseID'
+				,IM.mInvoiceTotal
+				,TS.dDeferral 
+				,TS.dSocSec 
+				,TS.dMiscPayment
+				,TS.dMakeUpAmt	
+				,ts.bDeferredPayment 				
+				,'' as 'IsPayer'
+				,'' as 'IsPrimPayer'
+				,LTC.bIsPayer as 'IsContactPayer'
+				,LTC.bIsPrimaryPayer as 'IsContactPrimPayer'				
+				,'Y' as 'isLTC'
+				,TS.bUsesEFT as 'EFTUSER'
+ 				
+			FROM 
+			dbo.tenant T join dbo.tenantState TS on T.iTenant_ID = ts.iTenant_ID
+			   	join dbo.LinkTenantContact LTC on  T.iTenant_ID = LTC.iTenant_ID 
+					join dbo.Contact C on LTC.iContact_ID = C.iContact_ID
+						join dbo.EFTAccount EFTA  on EFTA.cSolomonKey = T.cSolomonKey 
+							join dbo.house h on t.ihouse_id = h.ihouse_id
+								join dbo.InvoiceMaster IM on IM.cSolomonKey = T.cSolomonKey
+								 		
+			WHERE 
+				LTC.bIsEFT = 1 
+				<cfif showall is not "Y">
+					and EFTA.dtRowDeleted is  null   
+					<!--- and  EFTA.dtRowEnd  is  null  ---> 
+					and ts.bUsesEFT =  1 
+				</cfif>  
+				and ts.iTenantStateCode_ID = 2
+				and EFTA.iContact_ID = LTC.iContact_ID	
+			and im.cAppliesToAcctPeriod =   '#thisdate#'
+			and IM.dtRowDeleted is null		
+			and IM.bMoveInInvoice is null											
+			and im.cAppliesToAcctPeriod =   '#thisdate#'
+			and IM.dtRowDeleted is null		
+			<!--- and IM.bMoveInInvoice is null --->	
+			<cfif   IsDefined('form.days') and form.days is "seldays">
+				<cfif #strtday# is 1>
+				and  (((EFTA.iDayofFirstPull between #strtday# and #endday#)
+					or (EFTA.iDayofSecondPull between #strtday# and #endday#))	
+					or 	(EFTA.iDayofFirstPull is null))
+				<cfelse>
+				and  ((EFTA.iDayofFirstPull between #strtday# and #endday#)
+					or (EFTA.iDayofSecondPull between #strtday# and #endday#))
+				</cfif>
+			</cfif>											
+ 			and t.ihouse_id <> 200
+			order by cHouseName, cSolomonkey, EFTA.iOrderofPull
+	</cfquery>
+   
+<cfset delim = 44>  
+
+<cfoutput>
+	<cfset TempFile =  #destFilePath# & "\" & #filename#  & ".csv"  >
+ 
+	<cfset QueryOutput = CreateObject("java","java.lang.StringBuffer").Init() >
+<!--- 	<cfset QueryOutput.Append("House Name#chr(delim)#house ID#chr(delim)#Tenant Name#chr(delim)#Solomon Key#chr(delim)#Contact Name#chr(delim)#Tenant ID#chr(delim)#Email#chr(delim)#Current EFT User (Y/N)#chr(delim)#EFTAccount_ID#chr(delim)#RoutingNumber#chr(delim)#Account_Number#chr(delim)#AccountType#chr(delim)# Deferred#chr(delim)# OrderofPull#chr(delim)#Day of First Pull#chr(delim)#First Pull %#chr(delim)#First Pull Fixed $#chr(delim)#First Pull Total Payment Amount#chr(delim)#Day of Second Pull#chr(delim)# Second Pull %#chr(delim)# Second Pull Fixed $#chr(delim)#Second Pull Total Payment Amount#chr(delim)# Invoice Total#chr(delim)#Deferral#chr(delim)#SocSecPaymnt#chr(delim)#MiscPayment#chr(delim)#LateFee#chr(delim)# BeginEFTDate#chr(delim)#End EFT Date#chr(delim)#Row Deleted#chr(delim)#Date End#chr(delim)#Tenant Is Payer#chr(delim)#Tenant is Primary Payer#chr(delim)#Contact Payer#chr(delim)#Contact IS Primary Payer#chr(delim)#" & chr(13) & chr(10))>  --->	
+ 
+ 	<cfset QueryOutput.Append("House Name#chr(delim)#Tenant Name#chr(delim)#Solomon Key#chr(delim)#EFTAccount_ID#chr(delim)#RoutingNumber#chr(delim)#Account_Number#chr(delim)#Day of First Pull#chr(delim)#First Pull Total Payment Amount#chr(delim)#Day of Second Pull#chr(delim)#Second Pull Total Payment Amount#chr(delim)# BeginEFTDate#chr(delim)#End EFT Date#chr(delim)#" & chr(13) & chr(10))>
+
+	<cfset Queryid = -1 >
+ 
+	 <cfloop  query="EFTinfo">	
+		<cfif bDeferredPayment  is 1><cfset DeferredPymnt = "Y"><cfelse><cfset DeferredPymnt = ""></cfif> 
+		 <cfset TenantNames = replace(TenantName, "," ,"  ", "All" )>
+		 <cfset Emails = replace(Email, "," ," ", "All" )>
+		 <cfif eftuser is 1><cfset Thiseftuser = "Y"><cfelse><cfset Thiseftuser = "N"></cfif>
+		 <cfif IsPayer is 1><cfset ThisIsPayer = "Y"><cfelse><cfset ThisIsPayer = ""></cfif>
+		 <cfif IsPrimPayer is 1><cfset ThisIsPrimPayer = "Y"><cfelse><cfset ThisIsPrimPayer = ""></cfif>
+		 <cfif IsContactPayer is 1><cfset ThisIsContactPayer = "Y"><cfelse><cfset ThisIsContactPayer = ""></cfif>
+		 <cfif IsContactPrimPayer is 1><cfset ThisIsContactPrimPayer = "Y"><cfelse><cfset ThisIsContactPrimPayer = ""></cfif>
+		
+		<cfquery name="qryInvAmt" datasource="#application.datasource#"> 
+			Select IM.mLastInvoiceTotal
+			,IM.dtInvoiceStart , mInvoiceTotal
+			,IM.dtInvoiceEnd 
+			,IM.iInvoiceMaster_ID
+			,(select sum (inv.iquantity * inv.mamount) from  InvoiceDetail INV 
+			where IM.iInvoiceMaster_ID = INV.iInvoiceMaster_ID and INV.dtrowdeleted is null) as 'TipsSum'
+			from
+			InvoiceMaster IM
+			where  IM.cSolomonKey =   '#eftinfo.cSolomonKey#'
+			and IM.bMoveInInvoice is null 
+			and IM.bMoveOutInvoice is null						 
+			and IM.bFinalized = 1 
+			and im.cAppliesToAcctPeriod =  '#thisdate#'	
+		</cfquery>
+		
+		<cfquery name="qrysolomon" datasource="#application.datasource#">	
+			select  isNull(Sum(amount ) , 0) as  'SolomonTotal'  
+			from rw.vw_Get_Trx
+			where custid = '#eftinfo.cSolomonKey#' 
+			and	rlsed = 1
+			and	user7 > '#qryInvAmt.dtInvoiceStart#'
+			and	user7 <=  '#qryInvAmt.dtInvoiceEnd#' 
+		</cfquery>  
+		
+		<cfquery name="qryOffset" datasource="#application.datasource#"> 
+			SELECT 	IsNull(Sum(amount), 0) as 'paOffset'
+			from rw.vw_Get_Trx
+			where custid = '#eftinfo.cSolomonKey#' 
+			and	rlsed = 1
+			and	user7 > '#qryInvAmt.dtInvoiceEnd#'
+			and	user7 <=  #Now()# 
+			and doctype in ('PA', 'CM','RP', 'NS', 'NC') 						
+		</cfquery>	 				
+
+  		<cfinclude template="latefeecalc.cfm">							
+
+		<cfif  qryOffset.paOffset is ''>
+			<cfset paOffset = 0>
+		<cfelse>
+			<cfset paOffset =  qryOffset.paOffset>
+		</cfif>						
+		<cfif qrysolomon.SolomonTotal is ''>
+			<cfset SolomonTotal = 0>
+		<cfelse>
+		<cfset SolomonTotal = qrysolomon.SolomonTotal>
+		</cfif>			
+		<cfif qryInvAmt.mLastInvoiceTotal is ''>
+			<cfset mLastInvoiceTotal = 0>
+		<cfelse>
+			<cfset mLastInvoiceTotal = qryInvAmt.mLastInvoiceTotal>
+		</cfif>										
+		<cfif qryInvAmt.TipsSum is ''>
+			<cfset TipsSum = 0>
+		<cfelse>
+			<cfset TipsSum = qryInvAmt.TipsSum>
+		</cfif>	
+		
+		<cfset sum = paOffset + SolomonTotal + mLastInvoiceTotal + TipsSum>
+			<cfset netchgamt =0>	
+			<cfset firstpaymntamt = 0>	
+			<cfset secondpaymntamt = 0>								
+			<cfset netchgamt = sum>
+		<cfif   dDeferral is not "" >
+			<cfset netchgamt = netchgamt - dDeferral>
+		</cfif>
+		<cfif   dSocSec  is not "" >										
+			<cfset netchgamt = netchgamt - dSocSec>
+		</cfif>
+		<cfif   dMiscPayment  is not "" >										
+			<cfset netchgamt = netchgamt - dMiscPayment>
+		</cfif>										
+		
+		<cfif (dPctFirstPull is not "") and  dPctFirstPull is not 0>
+			<cfset firstpaymntamt = (dPctFirstPull/100) * netchgamt>
+		<cfelseif  (dAmtFirstPull is not "") and  dPctFirstPull is not 0>
+			<cfset firstpaymntamt = dAmtFirstPull>									 	
+		</cfif>	 	
+		
+		<cfif  (dPctSecondPull is not "") and  dPctSecondPull is not 0>
+			<cfset secondpaymntamt = (dPctSecondPull/100) * netchgamt>										 
+		<cfelseif  (dAmtSecondPull is not "") and dAmtSecondPull is not 0>
+			<cfset secondpaymntamt = dAmtSecondPull>
+		</cfif>	 
+		
+		<cfif dPctFirstPull is "" and dPctSecondPull is "" and dAmtFirstPull is "" and dAmtSecondPull is "">
+			<cfset firstpaymntamt = netchgamt>
+		</cfif>	 
+ 	<cfset tcsolomonkey = '`'&#csolomonkey#>
+ 	<cfset tcRoutingNumber = '`'&#cRoutingNumber#>
+ 	<cfset tCaCCOUNTnUMBER = '`'&#CaCCOUNTnUMBER#>
+<!--- 		<cfset QueryOutput.Append("#cHouseName##chr(delim)##houseID##chr(delim)##TenantNames##chr(delim)##csolomonkey##chr(delim)##ContactName##chr(delim)##itenant_id##chr(delim)##Emails##chr(delim)##Thiseftuser##chr(delim)##iEFTAccount_ID##chr(delim)##cRoutingNumber##chr(delim)##CaCCOUNTnUMBER##chr(delim)##cAccountType##chr(delim)##DeferredPymnt##chr(delim)##iOrderofPull##chr(delim)##iDayofFirstPull##chr(delim)##dPctFirstPull##chr(delim)# #dAmtFirstPull##chr(delim)# #firstpaymntamt##chr(delim)##iDayofSecondPull##chr(delim)##dPctSecondPull##chr(delim)##dAmtSecondPull##chr(delim)##secondpaymntamt##chr(delim)##qryInvAmt.mInvoiceTotal##chr(delim)##dDeferral##chr(delim)##dSocSec##chr(delim)##dMiscPayment##chr(delim)##LateFee##chr(delim)##dtBeginEFTDate##chr(delim)##dtEndEFTDate##chr(delim)##dtRowDeleted##chr(delim)##ThisIsPayer##chr(delim)##ThisIsPrimPayer##chr(delim)##ThisIsContactPayer##chr(delim)##ThisIsContactPrimPayer##chr(delim)#"  & chr(13) & chr(10))>  --->		
+<cfset QueryOutput.Append("#cHouseName##chr(delim)##TenantNames##chr(delim)##tcsolomonkey##chr(delim)##iEFTAccount_ID##chr(delim)##tcRoutingNumber##chr(delim)##tCaCCOUNTnUMBER##chr(delim)##iDayofFirstPull##chr(delim)##firstpaymntamt##chr(delim)##iDayofSecondPull##chr(delim)##secondpaymntamt##chr(delim)##dtBeginEFTDate##chr(delim)##dtEndEFTDate##chr(delim)#"  & chr(13) & chr(10))>
+	 
+	 
+</cfloop>
+</cfoutput>
+	<cfoutput>
+		<cffile action="write" file="#TempFile#" output="#QueryOutput.ToString()#">
+	</cfoutput>
+	<div><cfoutput>File Created at: #destFilePath#\#filename#.csv :: #TempFile#</cfoutput></div>		  

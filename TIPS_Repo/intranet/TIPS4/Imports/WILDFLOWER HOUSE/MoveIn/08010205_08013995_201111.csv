@@ -1,0 +1,5 @@
+BATCH,,201111,B,2768.0000,
+INVOICE,IN,,08010205,,11/08/2011,2768.0000,"MoveIn-Williford. James",,11/08/2011,11/08/2011,,08013995,2768.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,23,67.0000,1541,"Basic Service Fee - Studio         : Williford. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Williford. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202080,1,1200.0000,1200,"New Resident Fee: Williford. James",,,,,,,,,,,,,,,

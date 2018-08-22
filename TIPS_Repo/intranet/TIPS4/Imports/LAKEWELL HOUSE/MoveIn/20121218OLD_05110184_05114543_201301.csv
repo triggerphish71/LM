@@ -1,0 +1,5 @@
+BATCH,,201301,B,4396.0000,
+INVOICE,IN,,05110184,,01/01/2013,4396.0000,"January_Rent-Smith. Margaret",,01/01/2013,01/10/2013,,05114543,8036.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,31,101.0000,3131,"Basic Service Fee - Studio: Smith. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202051,31,40.0000,1240,"Resident Care - Level 3: Smith. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25.0000,25,"Monthly Cable: Smith. Margaret",,,,,,,,,,,,,,,

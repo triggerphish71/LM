@@ -1,0 +1,5 @@
+BATCH,,201206,B,4635.0000,
+INVOICE,IN,,16910264,,06/01/2012,4635.0000,"MoveIn-Michel. Victor",,06/01/2012,06/01/2012,,16914960,4635.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,30,87.0000,2610,"Basic Service Fee - Studio: Michel. Victor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Michel. Victor",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Michel. Victor",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,5254.0000,
+INVOICE,IN,,19610131,,02/05/2012,730.0000,"Invoice-Private",,02/05/2012,02/05/2012,,19612934MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,5,89.0000,445.00,"Basic Service Fee - Studio Deluxe for Feb: O'Connell, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,5,57.0000,285.00,"Resident Care - Level 5 for Feb: O'Connell, William",,,,,,,,,,,,,,,
+INVOICE,CM,,19610131,,02/05/2012,4524,"Invoice-Private",,02/05/2012,02/05/2012,,19612934MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,2581,2581,"CR:Basic Service F... W.O'Connell 201202: O'Connell, William",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,290,290,"CR:CC Meals... W.O'Connell 201202: O'Connell, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,1653,1653,"CR:Resident Care -... W.O'Connell 201202: O'Connell, William",,,,,,,,,,,,,,,

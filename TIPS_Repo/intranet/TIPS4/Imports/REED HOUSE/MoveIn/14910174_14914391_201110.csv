@@ -1,0 +1,5 @@
+BATCH,,201110,B,4091.0000,
+INVOICE,IN,,14910174,,10/01/2011,4091.0000,"October_Rent-Dettbarn. Dorothy",,10/01/2011,10/10/2011,,14914391,6145.0000,,,,,,,,,,
+TRANSACTION,3010,010212149,31,97.0000,3007,"Basic Service Fee - Studio         : Dettbarn. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212149,31,34.0000,1054,"Resident Care - Level 2: Dettbarn. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30,"Monthly Cable: Dettbarn. Dorothy",,,,,,,,,,,,,,,

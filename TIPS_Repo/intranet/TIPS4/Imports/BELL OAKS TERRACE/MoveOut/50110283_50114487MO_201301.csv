@@ -1,0 +1,6 @@
+BATCH,,201301,B,3374.0000,
+INVOICE,IN,,50110283,,01/07/2013,616.0000,"Invoice-Private",,01/07/2013,01/07/2013,,50114487MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,7,88.0000,616.00,"Basic Service Fee - Studio for Jan: Eubanks, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,50110283,,01/07/2013,2758,"Invoice-Private",,01/07/2013,01/07/2013,,50114487MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... I.Eubanks 201301: Eubanks, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... I.Eubanks 201301: Eubanks, Irene",,,,,,,,,,,,,,,

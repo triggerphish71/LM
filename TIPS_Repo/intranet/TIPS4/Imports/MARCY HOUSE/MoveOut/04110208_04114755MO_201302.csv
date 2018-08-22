@@ -1,0 +1,8 @@
+BATCH,,201302,B,3982.0000,
+INVOICE,IN,,04110208,,02/06/2013,1210.0000,"Invoice-Private",,02/06/2013,02/06/2013,,04114755MO,-1562.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,616.0000,616.00,"CR:Limited Term Di... W.Neves 201302: Neves, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,6,82.0000,492.00,"Basic Service Fee - Studio for Feb: Neves, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,6,17.0000,102.00,"Resident Care - Level 1 for Feb: Neves, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,04110208,,02/06/2013,2772,"Invoice-Private",,02/06/2013,02/06/2013,,04114755MO,-1562.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2296,2296,"CR:Basic Service F... W.Neves 201302: Neves, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,476,476,"CR:Resident Care -... W.Neves 201302: Neves, Willie",,,,,,,,,,,,,,,

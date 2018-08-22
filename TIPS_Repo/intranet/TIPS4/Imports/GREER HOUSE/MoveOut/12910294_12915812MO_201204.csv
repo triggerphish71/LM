@@ -1,0 +1,7 @@
+BATCH,,201204,B,3480.0000,
+INVOICE,IN,,12910294,,04/01/2012,30.0000,"Invoice-Private",,04/01/2012,04/10/2012,,12915812MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Buchowski, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,12910294,,04/01/2012,3450,"Invoice-Private",,04/01/2012,04/10/2012,,12915812MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2880,2880,"CR:Basic Service F... M.Buchowski 201204: Buchowski, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,540,540,"CR:Resident Care -... M.Buchowski 201204: Buchowski, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Buchowski, Mary",,,,,,,,,,,,,,,

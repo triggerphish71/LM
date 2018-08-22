@@ -1,0 +1,5 @@
+BATCH,,201210,B,58.0000,
+INVOICE,IN,,01210259,,10/01/2012,29.0000,"Invoice-Private",,10/01/2012,10/10/2012,,01214105MO,-7891.5000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Gehlhausen, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,01210259,,10/01/2012,29,"Invoice-Private",,10/01/2012,10/10/2012,,01214105MO,-7891.5000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Gehlhausen, Larry",,,,,,,,,,,,,,,

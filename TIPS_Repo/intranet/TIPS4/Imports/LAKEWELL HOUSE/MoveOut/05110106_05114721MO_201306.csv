@@ -1,0 +1,7 @@
+BATCH,,201306,B,5624.0000,
+INVOICE,IN,,05110106,,06/04/2013,1064.0000,"Invoice-Private",,06/04/2013,06/04/2013,,05114721MO,-3496.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,7,101.0000,707.00,"Basic Service Fee - Studio for Jun: Mader, Verdon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,7,51.0000,357.00,"Resident Care - Level 4 for Jun: Mader, Verdon",,,,,,,,,,,,,,,
+INVOICE,CM,,05110106,,06/04/2013,4560,"Invoice-Private",,06/04/2013,06/04/2013,,05114721MO,-3496.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3030,3030,"CR:Basic Service F... V.Mader 201306: Mader, Verdon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,1530,1530,"CR:Resident Care -... V.Mader 201306: Mader, Verdon",,,,,,,,,,,,,,,

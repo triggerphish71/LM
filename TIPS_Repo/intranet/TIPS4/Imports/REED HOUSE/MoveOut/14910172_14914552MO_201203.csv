@@ -1,0 +1,5 @@
+BATCH,,201203,B,60.0000,
+INVOICE,IN,,14910172,,03/01/2012,30.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14914552MO,-4460.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Lutz, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14910172,,03/01/2012,30,"Invoice-Private",,03/01/2012,03/10/2012,,14914552MO,-4460.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Lutz, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,2121.0000,
+INVOICE,IN,,16010352,,08/31/2011,2121.0000,"MoveIn-Guthrie. Violet",,08/31/2011,08/31/2011,,16015041,5026.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,1,96.0000,96,"Basic Service Fee - Studio         : Guthrie. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Guthrie. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,2000.0000,2000,"New Resident Fee: Guthrie. Violet",,,,,,,,,,,,,,,

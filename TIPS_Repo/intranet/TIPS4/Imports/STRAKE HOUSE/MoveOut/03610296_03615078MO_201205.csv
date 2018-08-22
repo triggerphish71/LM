@@ -1,0 +1,5 @@
+BATCH,,201205,B,54.0000,
+INVOICE,IN,,03610296,,05/01/2012,27.0000,"Invoice-Private",,05/01/2012,05/10/2012,,03615078MO,-3488.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Pickett, Ivy",,,,,,,,,,,,,,,
+INVOICE,CM,,03610296,,05/01/2012,27,"Invoice-Private",,05/01/2012,05/10/2012,,03615078MO,-3488.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Pickett, Ivy",,,,,,,,,,,,,,,

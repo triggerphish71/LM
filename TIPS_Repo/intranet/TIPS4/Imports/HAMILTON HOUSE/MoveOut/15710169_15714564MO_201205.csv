@@ -1,0 +1,8 @@
+BATCH,,201205,B,7726.0000,
+INVOICE,IN,,15710169,,05/21/2012,3108.0000,"Invoice-Private",,05/21/2012,05/21/2012,,15714564MO,-5980.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,21,115.0000,2415.00,"Basic Service Fee - One Bedroom for May: Showalter, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,21,33.0000,693.00,"Resident Care - Level 2 for May: Showalter, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,15710169,,05/21/2012,4618,"Invoice-Private",,05/21/2012,05/21/2012,,15714564MO,-5980.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3565,3565,"CR:Basic Service F... V.Showalter 201205: Showalter, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... V.Showalter 201205: Showalter, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1023,1023,"CR:Resident Care -... V.Showalter 201205: Showalter, Virgil",,,,,,,,,,,,,,,

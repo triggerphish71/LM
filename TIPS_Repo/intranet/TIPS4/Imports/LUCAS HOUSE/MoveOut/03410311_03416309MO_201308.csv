@@ -1,0 +1,8 @@
+BATCH,,201308,B,4785.0000,
+INVOICE,IN,,03410311,,08/05/2013,2340.0000,"Invoice-Private",,08/05/2013,08/05/2013,,03416309MO,-105.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,30,65.0000,1950.00,"Basic Service Fee - Studio for Aug: Smith, Miyoko",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,30,13.0000,390.00,"Resident Care - Level 1 for Aug: Smith, Miyoko",,,,,,,,,,,,,,,
+INVOICE,CM,,03410311,,08/05/2013,2445,"Invoice-Private",,08/05/2013,08/05/2013,,03416309MO,-105.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2015,2015,"CR:Basic Service F... M.Smith 201308: Smith, Miyoko",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... M.Smith 201308: Smith, Miyoko",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... M.Smith 201308: Smith, Miyoko",,,,,,,,,,,,,,,

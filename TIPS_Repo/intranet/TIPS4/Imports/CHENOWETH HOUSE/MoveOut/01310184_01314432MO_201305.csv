@@ -1,0 +1,7 @@
+BATCH,,201305,B,7659.0000,
+INVOICE,IN,,01310184,,05/01/2013,2497.5000,"Invoice-Private",,05/01/2013,05/10/2013,,01314432MO,-2664.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,15,74.0000,1110.00,"Basic Service Fee - Studio for May: Ling, Raymond ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,15,92.5000,1387.50,"Resident Care - Level 50 for May: Ling, Raymond ",,,,,,,,,,,,,,,
+INVOICE,CM,,01310184,,05/01/2013,5161.5,"Invoice-Private",,05/01/2013,05/10/2013,,01314432MO,-2664.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2294,2294,"CR:Basic Service F... R.Ling 201305: Ling, Raymond ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,2867.5,2867.5,"CR:Resident Care -... R.Ling 201305: Ling, Raymond ",,,,,,,,,,,,,,,

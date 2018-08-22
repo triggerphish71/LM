@@ -1,0 +1,5 @@
+BATCH,,201804,B,52.5400,
+INVOICE,IN,,15010230,,04/01/2018,26.2700,"Invoice-Private",,04/01/2018,04/10/2018,,15017353MO,-5140.5400,,,,,,,,,,
+TRANSACTION,3260,010012150,1,26.2700,26.27,"Monthly Cable: Nothwehr, Theda",,,,,,,,,,,,,,,
+INVOICE,CM,,15010230,,04/01/2018,26.27,"Invoice-Private",,04/01/2018,04/10/2018,,15017353MO,-5140.5400,,,,,,,,,,
+TRANSACTION,3260,010012150,1,26.27,26.27,"Credit for Monthly Cable: Nothwehr, Theda",,,,,,,,,,,,,,,

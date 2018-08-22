@@ -1,0 +1,6 @@
+BATCH,,201204,B,5766.0000,
+INVOICE,IN,,0370123,,04/01/2012,2856.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03714202MO,-54.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,1,1110.0000,1110.00,"CR:Limited Term Di... L.Taack 201204: Taack, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,18,97.0000,1746.00,"Basic Service Fee - Studio for Apr: Taack, Lela",,,,,,,,,,,,,,,
+INVOICE,CM,,0370123,,04/01/2012,2910,"Invoice-Private",,04/01/2012,04/10/2012,,03714202MO,-54.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2910,2910,"CR:Basic Service F... L.Taack 201204: Taack, Lela",,,,,,,,,,,,,,,

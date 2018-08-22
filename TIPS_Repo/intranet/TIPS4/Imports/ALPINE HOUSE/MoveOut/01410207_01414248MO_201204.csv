@@ -1,0 +1,5 @@
+BATCH,,201204,B,300.0000,
+INVOICE,IN,,01410207,,04/01/2012,150.0000,"Invoice-Private",,04/01/2012,04/10/2012,,01414248MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3320,010202014,30,5.0000,150.00,"Credit for Limited Term Discount: Springer, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,01410207,,04/01/2012,150,"Invoice-Private",,04/01/2012,04/10/2012,,01414248MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3320,010202014,30,5,150,"Limited Term Discount: Springer, Harold",,,,,,,,,,,,,,,

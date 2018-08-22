@@ -1,0 +1,7 @@
+BATCH,,201108,B,804.0000,
+INVOICE,IN,,50110201,,08/01/2011,402.0000,"Invoice-Private",,08/01/2011,08/10/2011,,50113554MO,-4452.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Marcoccia, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,12.0000,372.00,"Credit for Limited Term Discount: Marcoccia, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,50110201,,08/01/2011,402,"Invoice-Private",,08/01/2011,08/10/2011,,50113554MO,-4452.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Marcoccia, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,12,372,"Limited Term Discount: Marcoccia, Frank",,,,,,,,,,,,,,,

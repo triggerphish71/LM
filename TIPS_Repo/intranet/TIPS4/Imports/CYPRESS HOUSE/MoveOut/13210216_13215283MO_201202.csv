@@ -1,0 +1,8 @@
+BATCH,,201202,B,4284.0000,
+INVOICE,IN,,13210216,,02/04/2012,516.0000,"Invoice-Private",,02/04/2012,02/04/2012,,13215283MO,-3252.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,4,99.0000,396.00,"Basic Service Fee - Studio for Feb: Roszell, Novice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,4,30.0000,120.00,"Resident Care - Level 2 for Feb: Roszell, Novice",,,,,,,,,,,,,,,
+INVOICE,CM,,13210216,,02/04/2012,3768,"Invoice-Private",,02/04/2012,02/04/2012,,13215283MO,-3252.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2871,2871,"CR:Basic Service F... N.Roszell 201202: Roszell, Novice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... N.Roszell 201202: Roszell, Novice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,870,870,"CR:Resident Care -... N.Roszell 201202: Roszell, Novice",,,,,,,,,,,,,,,

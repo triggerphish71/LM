@@ -1,0 +1,7 @@
+BATCH,,201301,B,3723.0000,
+INVOICE,IN,,01310186,,01/01/2013,1463.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01314269MO,-797.0000,,,,,,,,,,
+TRANSACTION,3320,010103013,1,527.0000,527.00,"CR:Limited Term Di... T.McGuffin 201301: McGuffin, Twilla",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,13,72.0000,936.00,"Basic Service Fee - Studio for Jan: McGuffin, Twilla",,,,,,,,,,,,,,,
+INVOICE,CM,,01310186,,01/01/2013,2260,"Invoice-Private",,01/01/2013,01/10/2013,,01314269MO,-797.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... T.McGuffin 201301: McGuffin, Twilla",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... T.McGuffin 201301: McGuffin, Twilla",,,,,,,,,,,,,,,

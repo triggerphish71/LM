@@ -1,0 +1,7 @@
+BATCH,,201204,B,8964.0000,
+INVOICE,IN,,10710338,,04/21/2012,3984.0000,"Invoice-Private",,04/21/2012,04/21/2012,,10716163MO,-6142.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,24,98.0000,2352.00,"Basic Service Fee - Studio for Apr: Houseman, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,24,68.0000,1632.00,"Resident Care - Level 5 for Apr: Houseman, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,10710338,,04/21/2012,4980,"Invoice-Private",,04/21/2012,04/21/2012,,10716163MO,-6142.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2940,2940,"CR:Basic Service F... B.Houseman 201204: Houseman, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,2040,2040,"CR:Resident Care -... B.Houseman 201204: Houseman, Betty",,,,,,,,,,,,,,,

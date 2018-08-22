@@ -1,0 +1,8 @@
+BATCH,,201804,B,6579.0000,
+INVOICE,IN,,31200031,,04/13/2018,2259.0000,"Invoice-Private",,04/13/2018,04/13/2018,,31210512MO,-6550.0000,,,,,,,,,,
+TRANSACTION,3017,070024312,4,29.0000,116.00,"Level: 2  to  Level: 5  - 04/05: Sellin, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3017,070024312,9,72.0000,648.00," Level: 5 : Sellin, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,13,115.0000,1495.00,"Studio Deluxe  for Apr: Sellin, Yvonne",,,,,,,,,,,,,,,
+INVOICE,CM,,31200031,,04/13/2018,4320,"Invoice-Private",,04/13/2018,04/13/2018,,31210512MO,-6550.0000,,,,,,,,,,
+TRANSACTION,3027,070024312,1,870,870,"CR:Resident Care -... Y.Sellin 201804: Sellin, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,1,3450,3450,"CR:Studio Deluxe... Y.Sellin 201804: Sellin, Yvonne",,,,,,,,,,,,,,,

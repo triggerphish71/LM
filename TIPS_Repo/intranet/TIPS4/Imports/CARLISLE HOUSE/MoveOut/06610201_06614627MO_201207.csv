@@ -1,0 +1,8 @@
+BATCH,,201207,B,6974.0000,
+INVOICE,IN,,06610201,,07/23/2012,3006.0000,"Invoice-Private",,07/23/2012,07/23/2012,,06614627MO,-4868.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,62.0000,62.00,"CR:Limited Term Di... E.Smith 201207: Smith, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,23,32.0000,736.00,"Resident Care - Level 2 for Jul: Smith, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,23,96.0000,2208.00,"Room and Board - Studio for Jul: Smith, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,06610201,,07/23/2012,3968,"Invoice-Private",,07/23/2012,07/23/2012,,06614627MO,-4868.0000,,,,,,,,,,
+TRANSACTION,3027,010305066,1,992,992,"CR:Resident Care -... E.Smith 201207: Smith, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Room and Board ... E.Smith 201207: Smith, Edward",,,,,,,,,,,,,,,

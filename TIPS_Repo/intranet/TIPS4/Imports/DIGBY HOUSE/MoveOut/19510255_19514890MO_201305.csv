@@ -1,0 +1,5 @@
+BATCH,,201305,B,4640.0000,
+INVOICE,IN,,19510255,,05/20/2013,2160.0000,"Invoice-Private",,05/20/2013,05/20/2013,,19514890MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,27,80.0000,2160.00,"Basic Service Fee - Studio for May: Dernovish, Cecil",,,,,,,,,,,,,,,
+INVOICE,CM,,19510255,,05/20/2013,2480,"Invoice-Private",,05/20/2013,05/20/2013,,19514890MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2480,2480,"CR:Basic Service F... C.Dernovish 201305: Dernovish, Cecil",,,,,,,,,,,,,,,

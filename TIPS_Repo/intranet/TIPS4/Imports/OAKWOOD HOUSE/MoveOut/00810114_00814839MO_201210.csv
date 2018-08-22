@@ -1,0 +1,8 @@
+BATCH,,201210,B,3591.0000,
+INVOICE,IN,,00810114,,10/01/2012,216.0000,"Invoice-Private",,10/01/2012,10/10/2012,,00814839MO,-3159.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,2,92.0000,184.00,"Basic Service Fee - Studio for Oct: Jordan, TnineC",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,2,16.0000,32.00,"Resident Care - Level 1 for Oct: Jordan, TnineC",,,,,,,,,,,,,,,
+INVOICE,CM,,00810114,,10/01/2012,3375,"Invoice-Private",,10/01/2012,10/10/2012,,00814839MO,-3159.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2852,2852,"CR:Basic Service F... T.Jordan 201210: Jordan, TnineC",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... T.Jordan 201210: Jordan, TnineC",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,496,496,"CR:Resident Care -... T.Jordan 201210: Jordan, TnineC",,,,,,,,,,,,,,,

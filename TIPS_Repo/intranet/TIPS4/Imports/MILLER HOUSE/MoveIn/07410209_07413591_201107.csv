@@ -1,0 +1,5 @@
+BATCH,,201107,B,1269.0000,
+INVOICE,IN,,07410209,,06/15/2011,432.0000,"MoveIn-Purdy. Don",,06/15/2011,06/15/2011,,07413591,2106.0000,,,,,,,,,,
+TRANSACTION,3014,010305074,16,27.0000,432,"Basic Service Fee - Second Resident: Purdy. Don",,,,,,,,,,,,,,,
+INVOICE,IN,,07410209,,07/01/2011,837.0000,"July_Rent-Purdy. Don",,07/01/2011,07/10/2011,,07413591,2106.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,31,27.0000,837,"Basic Service Fee - Second Resident: Purdy. Don",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,1492.2000,
+INVOICE,IN,,07810083,,04/01/2012,746.1000,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07814475MO,-2176.8400,,,,,,,,,,
+TRANSACTION,3012,010104078,1,746.1000,746.10,"State Medicaid: Schueler, Clark",,,,,,,,,,,,,,,
+INVOICE,CM,,07810083,,04/01/2012,746.1,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07814475MO,-2176.8400,,,,,,,,,,
+TRANSACTION,3012,010104078,1,746.1,746.1,"Credit for State Medicaid: Schueler, Clark",,,,,,,,,,,,,,,

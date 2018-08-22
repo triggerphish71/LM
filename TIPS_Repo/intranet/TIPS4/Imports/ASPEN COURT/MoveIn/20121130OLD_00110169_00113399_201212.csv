@@ -1,0 +1,5 @@
+BATCH,,201212,B,3508.7800,
+INVOICE,IN,,00110169,,12/01/2012,3508.7800,"December_Rent-Breneman. Archie",,12/01/2012,12/10/2012,,00113399,4646.1600,,,,,,,,,,
+TRANSACTION,3010,010101001,31,73.0000,2263,"Basic Service Fee - Studio: Breneman. Archie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,31,39.3800,1220.78,"Resident Care - Level 22: Breneman. Archie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Breneman. Archie",,,,,,,,,,,,,,,

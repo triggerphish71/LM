@@ -1,0 +1,5 @@
+BATCH,,201202,B,3288.0000,
+INVOICE,IN,,53010254,,02/01/2012,3288.0000,"February_Rent-Haas. Jane",,02/01/2012,02/10/2012,,53015822,7000.0000,,,,,,,,,,
+TRANSACTION,3010,010319530,29,82.0000,2378,"J.Haas: Basic Service Fee - Studio: Haas. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319530,29,30.0000,870,"J.Haas: Resident Care - Level 1: Haas. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40,"Monthly Cable: Haas. Jane",,,,,,,,,,,,,,,

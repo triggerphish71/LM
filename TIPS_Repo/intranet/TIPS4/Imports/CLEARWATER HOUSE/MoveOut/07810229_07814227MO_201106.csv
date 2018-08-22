@@ -1,0 +1,5 @@
+BATCH,,201106,B,1740.0000,
+INVOICE,IN,,07810229,,06/01/2011,870.0000,"Invoice-Private",,06/01/2011,06/10/2011,,07814227MO,-3758.0000,,,,,,,,,,
+TRANSACTION,3320,010104078,30,29.0000,870.00,"Credit for Limited Term Discount: Cornwell, James (Jim)",,,,,,,,,,,,,,,
+INVOICE,CM,,07810229,,06/01/2011,870,"Invoice-Private",,06/01/2011,06/10/2011,,07814227MO,-3758.0000,,,,,,,,,,
+TRANSACTION,3320,010104078,30,29,870,"Limited Term Discount: Cornwell, James (Jim)",,,,,,,,,,,,,,,

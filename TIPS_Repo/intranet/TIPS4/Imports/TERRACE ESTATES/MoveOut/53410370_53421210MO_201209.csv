@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,53410370,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,53421210MO,-899.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,30,2.0000,60.00,"Credit for Limited Term Discount: Fehrenbach, Darlene",,,,,,,,,,,,,,,
+INVOICE,CM,,53410370,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,53421210MO,-899.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,30,2,60,"Limited Term Discount: Fehrenbach, Darlene",,,,,,,,,,,,,,,

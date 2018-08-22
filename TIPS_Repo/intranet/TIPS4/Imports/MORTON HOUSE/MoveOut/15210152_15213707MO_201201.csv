@@ -1,0 +1,8 @@
+BATCH,,201201,B,4129.0000,
+INVOICE,IN,,15210152,,01/15/2012,1335.0000,"Invoice-Private",,01/15/2012,01/15/2012,,15213707MO,-4075.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,15,71.0000,1065.00,"Basic Service Fee - Studio for Jan: Viox, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,15,18.0000,270.00,"Resident Care - Level 1 for Jan: Viox, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,15210152,,01/15/2012,2794,"Invoice-Private",,01/15/2012,01/15/2012,,15213707MO,-4075.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2201,2201,"CR:Basic Service F... F.Viox 201201: Viox, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... F.Viox 201201: Viox, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,558,558,"CR:Resident Care -... F.Viox 201201: Viox, Fred",,,,,,,,,,,,,,,

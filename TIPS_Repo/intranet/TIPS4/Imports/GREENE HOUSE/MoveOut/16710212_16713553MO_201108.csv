@@ -1,0 +1,8 @@
+BATCH,,201108,B,9773.9000,
+INVOICE,IN,,16710212,,08/23/2011,4104.0000,"Invoice-Private",,08/23/2011,08/23/2011,,16713553MO,-7064.8000,,,,,,,,,,
+TRANSACTION,3027,010211167,24,78.0000,1872.00,"Resident Care - Level 6 for Aug: Franssen, Magdalen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211167,24,93.0000,2232.00,"Room and Board - Deluxe for Aug: Franssen, Magdalen",,,,,,,,,,,,,,,
+INVOICE,CM,,16710212,,08/23/2011,5669.9,"Invoice-Private",,08/23/2011,08/23/2011,,16713553MO,-7064.8000,,,,,,,,,,
+TRANSACTION,3019,010211167,1,368.9,368.9,"CR:Additional Serv... M.Franssen 201108: Franssen, Magdalen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,2418,2418,"CR:Resident Care -... M.Franssen 201108: Franssen, Magdalen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2883,2883,"CR:Room and Board ... M.Franssen 201108: Franssen, Magdalen",,,,,,,,,,,,,,,

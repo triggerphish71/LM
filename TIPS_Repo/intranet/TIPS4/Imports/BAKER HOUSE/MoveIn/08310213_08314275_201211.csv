@@ -1,0 +1,5 @@
+BATCH,,201211,B,2342.0000,
+INVOICE,IN,,08310213,,11/29/2012,2342.0000,"MoveIn-Coulter. Lester",,11/29/2012,11/29/2012,,08314275,7643.0000,,,,,,,,,,
+TRANSACTION,3010,010306083,2,106.0000,212,"Basic Service Fee - Studio         : Coulter. Lester",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306083,2,65.0000,130,"Resident Care - Level 4: Coulter. Lester",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306083,1,2000.0000,2000,"New Resident Fee: Coulter. Lester",,,,,,,,,,,,,,,

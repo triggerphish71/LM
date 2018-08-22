@@ -1,0 +1,6 @@
+BATCH,,201211,B,3789.2900,
+INVOICE,IN,,04910218,,11/20/2012,3789.2900,"MoveIn-Carlson. Virginia",,11/20/2012,11/20/2012,,04913529,8786.3800,,,,,,,,,,
+TRANSACTION,3010,010101049,11,87.0000,957,"V.Carlson: Basic Service Fee - Studio: Carlson. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,11,73.3900,807.29,"V.Carlson: Resident Care - Level 41: Carlson. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Carlson. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Carlson. Virginia",,,,,,,,,,,,,,,

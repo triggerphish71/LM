@@ -1,0 +1,7 @@
+BATCH,,201108,B,318.0000,
+INVOICE,IN,,50110188,,08/01/2011,159.0000,"Invoice-Private",,08/01/2011,08/10/2011,,50113559MO,-2815.0000,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35.00,"Pendant Fee: Hines, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,4.0000,124.00,"Credit for Limited Term Discount: Hines, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,50110188,,08/01/2011,159,"Invoice-Private",,08/01/2011,08/10/2011,,50113559MO,-2815.0000,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"Credit for Pendant Fee: Hines, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,4,124,"Limited Term Discount: Hines, Carolyn",,,,,,,,,,,,,,,

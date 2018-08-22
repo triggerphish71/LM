@@ -1,0 +1,7 @@
+BATCH,,201204,B,114.0000,
+INVOICE,IN,,03110328,,04/01/2012,57.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03116672MO,-8557.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Jorgensen, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30.0000,30.00,"Pendant Fee: Jorgensen, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,03110328,,04/01/2012,57,"Invoice-Private",,04/01/2012,04/10/2012,,03116672MO,-8557.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Jorgensen, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"Credit for Pendant Fee: Jorgensen, Patricia",,,,,,,,,,,,,,,

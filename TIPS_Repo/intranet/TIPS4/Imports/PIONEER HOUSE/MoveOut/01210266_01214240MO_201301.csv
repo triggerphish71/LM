@@ -1,0 +1,8 @@
+BATCH,,201301,B,4743.8800,
+INVOICE,IN,,01210266,,01/01/2013,147.3400,"Invoice-Private",,01/01/2013,01/01/2013,,01214240MO,-4449.2000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,65.0000,65.00,"Basic Service Fee - Studio for Jan: Campbell, Reita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,82.3400,82.34,"Resident Care - Level 46 for Jan: Campbell, Reita",,,,,,,,,,,,,,,
+INVOICE,CM,,01210266,,01/01/2013,4596.54,"Invoice-Private",,01/01/2013,01/01/2013,,01214240MO,-4449.2000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2015,2015,"CR:Basic Service F... R.Campbell 201301: Campbell, Reita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... R.Campbell 201301: Campbell, Reita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,2552.54,2552.54,"CR:Resident Care -... R.Campbell 201301: Campbell, Reita",,,,,,,,,,,,,,,

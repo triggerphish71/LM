@@ -1,0 +1,7 @@
+BATCH,,201301,B,184.0000,
+INVOICE,IN,,53410418,,01/01/2013,92.0000,"Invoice-Private",,01/01/2013,01/10/2013,,53421684MO,-4195.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,2.0000,62.00,"Credit for Limited Term Discount: Green, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Green, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,53410418,,01/01/2013,92,"Invoice-Private",,01/01/2013,01/10/2013,,53421684MO,-4195.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,2,62,"Limited Term Discount: Green, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Green, Eunice",,,,,,,,,,,,,,,

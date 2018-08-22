@@ -1,0 +1,6 @@
+BATCH,,201301,B,4861.0000,
+INVOICE,CM,,18910262,,01/01/2013,4861,"Invoice-Private",,01/01/2013,01/10/2013,,18915605MO,-6567.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... E.Grove 201301: Grove, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... E.Grove 201301: Grove, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1767,1767,"CR:Resident Care -... E.Grove 201301: Grove, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2759,2759,"CR:Room and Board ... E.Grove 201301: Grove, Edward",,,,,,,,,,,,,,,

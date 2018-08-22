@@ -1,0 +1,7 @@
+BATCH,,201301,B,1744.0000,
+INVOICE,IN,,13310386,,01/01/2013,872.0000,"Invoice-Private",,01/01/2013,01/10/2013,,13315650MO,-118.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Cyrulik, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,31,27.0000,837.00,"Credit for Limited Term Discount: Cyrulik, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,13310386,,01/01/2013,872,"Invoice-Private",,01/01/2013,01/10/2013,,13315650MO,-118.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Cyrulik, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,31,27,837,"Limited Term Discount: Cyrulik, Joseph",,,,,,,,,,,,,,,

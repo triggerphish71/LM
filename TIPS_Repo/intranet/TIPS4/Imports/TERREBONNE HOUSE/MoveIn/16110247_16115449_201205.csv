@@ -1,0 +1,5 @@
+BATCH,,201205,B,3942.0000,
+INVOICE,IN,,16110247,,05/10/2012,3942.0000,"MoveIn-LeCompte. Mae",,05/10/2012,05/10/2012,,16115449,3942.0000,,,,,,,,,,
+TRANSACTION,3010,010313161,22,88.0000,1936,"Basic Service Fee - Studio: LeCompte. Mae",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313161,22,23.0000,506,"Resident Care - Level 2: LeCompte. Mae",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313161,1,1500.0000,1500,"New Resident Fee: LeCompte. Mae",,,,,,,,,,,,,,,

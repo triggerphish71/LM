@@ -1,0 +1,8 @@
+BATCH,,201301,B,4967.0000,
+INVOICE,IN,,17110273,,01/07/2013,910.0000,"Invoice-Private",,01/07/2013,01/07/2013,,17115553MO,-3147.0000,,,,,,,,,,
+TRANSACTION,3027,010308171,7,80.0000,560.00,"Resident Care - Level 6 for Jan: Tyberski, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,7,50.0000,350.00,"Room and Board - Studio for Jan: Tyberski, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,17110273,,01/07/2013,4057,"Invoice-Private",,01/07/2013,01/07/2013,,17115553MO,-3147.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... T.Tyberski 201301: Tyberski, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,2480,2480,"CR:Resident Care -... T.Tyberski 201301: Tyberski, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,1,1550,1550,"CR:Room and Board ... T.Tyberski 201301: Tyberski, Ted",,,,,,,,,,,,,,,

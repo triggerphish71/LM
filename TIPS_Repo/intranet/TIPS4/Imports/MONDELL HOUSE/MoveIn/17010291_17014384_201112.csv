@@ -1,0 +1,5 @@
+BATCH,,201112,B,2211.0000,
+INVOICE,IN,,17010291,,12/30/2011,2211.0000,"MoveIn-Kent. Myrtle",,12/30/2011,12/30/2011,,17014384,5119.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,2,93.0000,186,"Basic Service Fee - Studio: Kent. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Kent. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Kent. Myrtle",,,,,,,,,,,,,,,

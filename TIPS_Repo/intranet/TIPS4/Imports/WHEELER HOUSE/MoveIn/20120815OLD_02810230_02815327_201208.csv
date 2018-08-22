@@ -1,0 +1,5 @@
+BATCH,,201208,B,3346.0000,
+INVOICE,IN,,02810230,,08/15/2012,3346.0000,"MoveIn-Eichor. James",,08/15/2012,08/15/2012,,02815327,3346.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,17,113.0000,1921,"Basic Service Fee - Studio: Eichor. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,17,25.0000,425,"Resident Care - Level 2: Eichor. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,1000.0000,1000,"New Resident Fee: Eichor. James",,,,,,,,,,,,,,,

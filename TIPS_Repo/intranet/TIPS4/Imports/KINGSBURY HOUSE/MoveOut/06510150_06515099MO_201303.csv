@@ -1,0 +1,7 @@
+BATCH,,201303,B,6755.0000,
+INVOICE,IN,,06510150,,03/02/2013,772.0000,"Invoice-Private",,03/02/2013,03/02/2013,,06515099MO,-5211.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,4,118.0000,472.00,"Basic Service Fee- One Bedroom Premium for Mar: Bauer, Ardon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,4,75.0000,300.00,"Resident Care - Level 4 for Mar: Bauer, Ardon",,,,,,,,,,,,,,,
+INVOICE,CM,,06510150,,03/02/2013,5983,"Invoice-Private",,03/02/2013,03/02/2013,,06515099MO,-5211.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3658,3658,"CR:Basic Service F... A.Bauer 201303: Bauer, Ardon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,2325,2325,"CR:Resident Care -... A.Bauer 201303: Bauer, Ardon",,,,,,,,,,,,,,,

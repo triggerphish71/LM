@@ -1,0 +1,8 @@
+BATCH,,201110,B,4454.0000,
+INVOICE,IN,,10510246,,10/03/2011,1354.0000,"Invoice-Private",,10/03/2011,10/03/2011,,10513801MO,-1746.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,1054.0000,1054.00,"CR:Limited Term Di... J.Kotzmacher 201110: Kotzmacher, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,3,84.0000,252.00,"Basic Service Fee - Studio for Oct: Kotzmacher, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,3,16.0000,48.00,"Resident Care - Level 1 for Oct: Kotzmacher, John",,,,,,,,,,,,,,,
+INVOICE,CM,,10510246,,10/03/2011,3100,"Invoice-Private",,10/03/2011,10/03/2011,,10513801MO,-1746.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2604,2604,"CR:Basic Service F... J.Kotzmacher 201110: Kotzmacher, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,496,496,"CR:Resident Care -... J.Kotzmacher 201110: Kotzmacher, John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,50.0000,
+INVOICE,IN,,53110211,,11/01/2012,25.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53114280MO,-7967.1000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25.0000,25.00,"Pendant Fee: Bauer, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,53110211,,11/01/2012,25,"Invoice-Private",,11/01/2012,11/10/2012,,53114280MO,-7967.1000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25,25,"Credit for Pendant Fee: Bauer, Christine",,,,,,,,,,,,,,,

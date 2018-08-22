@@ -1,0 +1,7 @@
+BATCH,,201201,B,7638.0000,
+INVOICE,IN,,11610209,,01/26/2012,3484.0000,"Invoice-Private",,01/26/2012,01/26/2012,,11614944MO,-4556.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,26,100.0000,2600.00,"Basic Service Fee - Studio for Jan: Bauer, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,26,34.0000,884.00,"Resident Care - Level 2 for Jan: Bauer, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,11610209,,01/26/2012,4154,"Invoice-Private",,01/26/2012,01/26/2012,,11614944MO,-4556.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Basic Service F... V.Bauer 201201: Bauer, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... V.Bauer 201201: Bauer, Virginia",,,,,,,,,,,,,,,

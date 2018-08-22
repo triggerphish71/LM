@@ -1,0 +1,5 @@
+BATCH,,201202,B,1986.0000,
+INVOICE,IN,,16210133,,02/24/2012,1986.0000,"MoveIn-Camden. Mary",,02/24/2012,02/24/2012,,16212890,4497.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,6,66.0000,396,"Basic Service Fee - Studio: Camden. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,6,15.0000,90,"Resident Care - Level 1: Camden. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Camden. Mary",,,,,,,,,,,,,,,

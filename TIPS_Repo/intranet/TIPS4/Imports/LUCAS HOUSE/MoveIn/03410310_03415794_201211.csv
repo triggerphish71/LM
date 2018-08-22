@@ -1,0 +1,6 @@
+BATCH,,201211,B,4359.0000,
+INVOICE,IN,,03410310,,11/15/2012,4359.0000,"MoveIn-Masterson. Leonora",,11/15/2012,11/15/2012,,03415794,4359.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,16,112.0000,1792,"Basic Service Fee - One Bedroom: Masterson. Leonora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,16,65.0000,1040,"Resident Care - Level 6: Masterson. Leonora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Masterson. Leonora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Masterson. Leonora",,,,,,,,,,,,,,,

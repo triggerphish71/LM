@@ -1,0 +1,5 @@
+BATCH,,201203,B,5301.0000,
+INVOICE,IN,,14610205,,03/26/2012,2418.0000,"Invoice-Private",,03/26/2012,03/26/2012,,14614440MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,26,93.0000,2418.00,"Basic Service Fee - Studio for Mar: Hatfield, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,14610205,,03/26/2012,2883,"Invoice-Private",,03/26/2012,03/26/2012,,14614440MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... M.Hatfield 201203: Hatfield, Mabel",,,,,,,,,,,,,,,

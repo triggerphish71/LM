@@ -1,0 +1,7 @@
+BATCH,,201206,B,4598.0000,
+INVOICE,IN,,09110221,,06/08/2012,968.0000,"Invoice-Private",,06/08/2012,06/08/2012,,09115260MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,8,85.0000,680.00,"Basic Service Fee - Studio for Jun: Kovalchik, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,8,36.0000,288.00,"Resident Care - Level 2 for Jun: Kovalchik, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,09110221,,06/08/2012,3630,"Invoice-Private",,06/08/2012,06/08/2012,,09115260MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... A.Kovalchik 201206: Kovalchik, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... A.Kovalchik 201206: Kovalchik, Ann",,,,,,,,,,,,,,,

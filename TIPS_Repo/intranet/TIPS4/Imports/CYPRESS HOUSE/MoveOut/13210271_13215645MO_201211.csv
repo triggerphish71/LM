@@ -1,0 +1,7 @@
+BATCH,,201211,B,174.0000,
+INVOICE,IN,,13210271,,11/01/2012,87.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13215645MO,-4920.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Birdsong, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308132,30,2.0000,60.00,"Credit for Limited Term Discount: Birdsong, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13210271,,11/01/2012,87,"Invoice-Private",,11/01/2012,11/10/2012,,13215645MO,-4920.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Birdsong, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308132,30,2,60,"Limited Term Discount: Birdsong, Jean",,,,,,,,,,,,,,,

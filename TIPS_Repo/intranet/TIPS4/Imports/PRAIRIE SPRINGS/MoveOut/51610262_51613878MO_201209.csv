@@ -1,0 +1,5 @@
+BATCH,,201209,B,2340.0000,
+INVOICE,IN,,51610262,,09/01/2012,1170.0000,"Invoice-Private",,09/01/2012,09/10/2012,,51613878MO,-2216.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,30,39.0000,1170.00,"Credit for Limited Term Discount: Messerschmidt, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,51610262,,09/01/2012,1170,"Invoice-Private",,09/01/2012,09/10/2012,,51613878MO,-2216.0000,,,,,,,,,,
+TRANSACTION,3320,010103516,30,39,1170,"Limited Term Discount: Messerschmidt, Jean",,,,,,,,,,,,,,,

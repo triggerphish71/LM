@@ -1,0 +1,7 @@
+BATCH,,201303,B,3315.0000,
+INVOICE,IN,,06610165,,03/05/2013,1300.0000,"Invoice-Private",,03/05/2013,03/05/2013,,06614978MO,-2665.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,20,33.0000,660.00,"Basic Service Fee - Second Resident for Mar: Klingenberger, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,20,32.0000,640.00,"Resident Care - Level 2 for Mar: Klingenberger, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,06610165,,03/05/2013,2015,"Invoice-Private",,03/05/2013,03/05/2013,,06614978MO,-2665.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,1023,1023,"CR:Basic Service F... A.Klingenberger 201303: Klingenberger, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,992,992,"CR:Resident Care -... A.Klingenberger 201303: Klingenberger, Audrey",,,,,,,,,,,,,,,

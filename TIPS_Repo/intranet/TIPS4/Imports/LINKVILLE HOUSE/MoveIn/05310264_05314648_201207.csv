@@ -1,0 +1,6 @@
+BATCH,,201207,B,4400.1900,
+INVOICE,IN,,05310264,,07/13/2012,4400.1900,"MoveIn-Aper. John",,07/13/2012,07/13/2012,,05314648,4400.1900,,,,,,,,,,
+TRANSACTION,3010,010101053,19,91.0000,1729,"J.Aper: Basic Service Fee - Studio: Aper. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,19,34.0100,646.19,"J.Aper: Resident Care - Level 19: Aper. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Aper. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Aper. John",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201306,B,3315.0000,
+INVOICE,IN,,13610329,,06/11/2013,880.0000,"Invoice-Private",,06/11/2013,06/11/2013,,13615734MO,-1555.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,11,80.0000,880.00,"Basic Service Fee- One Bedroom Prem for Jun: Stege, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,13610329,,06/11/2013,2435,"Invoice-Private",,06/11/2013,06/11/2013,,13615734MO,-1555.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2400,2400,"CR:Basic Service F... R.Stege 201306: Stege, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... R.Stege 201306: Stege, Ruby",,,,,,,,,,,,,,,

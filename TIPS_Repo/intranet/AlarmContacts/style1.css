@@ -1,0 +1,88 @@
+.RowHeaderBlack {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FFFFFF;
+	font-weight: bold;
+	background-color: #345576;
+}
+.Siemens {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003366;
+	background-color: #C9D7E7;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.NotSet {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #433523;
+	background-color: #EEE3C1;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+.OtherCo {
+
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #433523;
+	background-color: #D8E6CA;
+	padding-right: 3px;
+	padding-left: 3px;
+}
+a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #433523;
+}
+a:visited {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #433523;
+}
+a:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #433523;
+}
+a:visited:hover {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #433523;
+}.SiemensHeading {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003366;
+	background-color: #AAC0D9;
+	padding-right: 3px;
+	padding-left: 3px;
+	font-weight: bold;
+}
+.NotSetHeader {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	color: #433523;
+	background-color: #EEE3C1;
+	padding-right: 3px;
+	padding-left: 3px;
+	font-weight: bold;
+}
+.RowHeaderBlue {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #003366;
+	background-color: #C9D7E7;
+	padding-right: 3px;
+	padding-left: 3px;
+	font-weight: bold;
+}
+.PlainText {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #003366;
+	padding-right: 3px;
+	padding-left: 3px;
+}

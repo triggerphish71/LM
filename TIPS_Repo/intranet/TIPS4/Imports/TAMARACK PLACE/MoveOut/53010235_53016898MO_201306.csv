@@ -1,0 +1,8 @@
+BATCH,,201306,B,5406.0000,
+INVOICE,IN,,53010235,,06/01/2013,1776.0000,"Invoice-Private",,06/01/2013,06/01/2013,,53016898MO,-1854.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,4,119.0000,476.00,"Basic Service Fee-One Bedroom Premi for Jun: Wright, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3299,010319530,1,1300.0000,1300.00,"Damages: Wright, Bud",,,,,,,,,,,,,,,
+INVOICE,CM,,53010235,,06/01/2013,3630,"Invoice-Private",,06/01/2013,06/01/2013,,53016898MO,-1854.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3570,3570,"CR:Basic Service F... B.Wright 201306: Wright, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Wright 201306: Wright, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... B.Wright 201306: Wright, Bud",,,,,,,,,,,,,,,

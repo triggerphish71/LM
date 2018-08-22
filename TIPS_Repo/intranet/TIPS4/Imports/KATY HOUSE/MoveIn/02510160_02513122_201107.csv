@@ -1,0 +1,6 @@
+BATCH,,201107,B,5495.0000,
+INVOICE,IN,,02510160,,07/01/2011,5495.0000,"MoveIn-Weyer. George",,07/01/2011,07/01/2011,,02513122,5495.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,31,104.0000,3224,"Basic Service Fee - One Bedroom    : Weyer. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202025,31,16.0000,496,"Resident Care - Level 1: Weyer. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Weyer. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1750.0000,1750,"New Resident Fee: Weyer. George",,,,,,,,,,,,,,,

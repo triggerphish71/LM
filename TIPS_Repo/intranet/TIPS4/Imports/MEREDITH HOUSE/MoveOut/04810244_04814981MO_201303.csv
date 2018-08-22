@@ -1,0 +1,7 @@
+BATCH,,201303,B,5100.0000,
+INVOICE,IN,,04810244,,03/20/2013,2000.0000,"Invoice-Private",,03/20/2013,03/20/2013,,04814981MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,20,85.0000,1700.00,"Basic Service Fee - Studio for Mar: Cornelison, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,20,15.0000,300.00,"Resident Care - Level 1 for Mar: Cornelison, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,04810244,,03/20/2013,3100,"Invoice-Private",,03/20/2013,03/20/2013,,04814981MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,2635,2635,"CR:Basic Service F... F.Cornelison 201303: Cornelison, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,465,465,"CR:Resident Care -... F.Cornelison 201303: Cornelison, Frances",,,,,,,,,,,,,,,

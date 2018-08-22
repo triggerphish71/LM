@@ -1,0 +1,5 @@
+BATCH,,201112,B,2775.0000,
+INVOICE,IN,,08410163,,12/27/2011,2775.0000,"MoveIn-Niziol. Tadeusc",,12/27/2011,12/27/2011,,08413920,7580.0000,,,,,,,,,,
+TRANSACTION,3010,010306084,5,106.0000,530,"Basic Service Fee - Studio         : Niziol. Tadeusc",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306084,5,49.0000,245,"Resident Care - Level 3: Niziol. Tadeusc",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306084,1,2000.0000,2000,"New Resident Fee: Niziol. Tadeusc",,,,,,,,,,,,,,,

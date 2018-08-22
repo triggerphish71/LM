@@ -1,0 +1,6 @@
+BATCH,,201112,B,4440.0000,
+INVOICE,IN,,15510241,,12/09/2011,4440.0000,"MoveIn-Buchovecky. Agnes",,12/09/2011,12/09/2011,,15515004,4440.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,23,89.0000,2047,"Basic Service Fee - Studio: Buchovecky. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,23,16.0000,368,"Resident Care - Level 1: Buchovecky. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Buchovecky. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Buchovecky. Agnes",,,,,,,,,,,,,,,

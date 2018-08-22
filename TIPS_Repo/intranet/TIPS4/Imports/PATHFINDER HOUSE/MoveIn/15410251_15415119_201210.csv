@@ -1,0 +1,7 @@
+BATCH,,201210,B,2450.0000,
+INVOICE,IN,,15410251,,09/28/2012,245.0000,"MoveIn-Mueller. Verda",,09/28/2012,09/28/2012,,15415119,2450.0000,,,,,,,,,,
+TRANSACTION,3014,010211154,3,70.0000,210,"Basic Service Fee - Studio: Mueller. Verda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Mueller. Verda",,,,,,,,,,,,,,,
+INVOICE,IN,,15410251,,10/01/2012,2205.0000,"October_Rent-Mueller. Verda",,10/01/2012,10/10/2012,,15415119,2450.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,31,70.0000,2170,"Basic Service Fee - Studio: Mueller. Verda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Mueller. Verda",,,,,,,,,,,,,,,

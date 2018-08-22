@@ -1,0 +1,7 @@
+BATCH,,201303,B,5175.0000,
+INVOICE,IN,,52910198,,03/02/2013,5175.0000,"MoveIn-Muenster. Mary",,03/02/2013,03/02/2013,,52913512,5175.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,30,80.0000,2400,"Basic Service Fee - Studio: Muenster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,30,41.0000,1230,"Resident Care - Level 3: Muenster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Muenster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,1500.0000,1500,"New Resident Fee: Muenster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20.0000,20,"Pendant Fee: Muenster. Mary",,,,,,,,,,,,,,,

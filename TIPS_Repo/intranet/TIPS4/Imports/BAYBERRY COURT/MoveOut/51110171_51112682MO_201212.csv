@@ -1,0 +1,8 @@
+BATCH,,201212,B,7784.0000,
+INVOICE,IN,,51110171,,12/23/2012,3351.0000,"Invoice-Private",,12/23/2012,12/23/2012,,51112682MO,-5453.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,1,62.0000,62.00,"CR:Limited Term Di... T.Mills 201212: Mills, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,23,38.0000,874.00,"Resident Care - Level 2 for Dec: Mills, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310511,23,105.0000,2415.00,"Room and Board - Studio for Dec: Mills, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,51110171,,12/23/2012,4433,"Invoice-Private",,12/23/2012,12/23/2012,,51112682MO,-5453.0000,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1178,1178,"CR:Resident Care -... T.Mills 201212: Mills, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Room and Board ... T.Mills 201212: Mills, Thomas",,,,,,,,,,,,,,,

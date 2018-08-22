@@ -1,0 +1,6 @@
+BATCH,,201110,B,5810.0000,
+INVOICE,IN,,16710223,,10/05/2011,5810.0000,"MoveIn-Pitsch. Dr. Richard",,10/05/2011,10/05/2011,,16713589,5810.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,27,88.0000,2376,"Basic Service Fee - Studio         : Pitsch. Dr. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,27,52.0000,1404,"Resident Care - Level 4: Pitsch. Dr. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Pitsch. Dr. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211167,1,2000.0000,2000,"New Resident Fee: Pitsch. Dr. Richard",,,,,,,,,,,,,,,

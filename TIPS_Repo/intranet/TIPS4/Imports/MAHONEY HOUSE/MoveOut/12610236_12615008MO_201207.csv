@@ -1,0 +1,5 @@
+BATCH,,201207,B,1240.0000,
+INVOICE,IN,,12610236,,07/01/2012,620.0000,"Invoice-Private",,07/01/2012,07/10/2012,,12615008MO,-2630.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,31,20.0000,620.00,"Credit for Limited Term Discount: Rathje, Elmer",,,,,,,,,,,,,,,
+INVOICE,CM,,12610236,,07/01/2012,620,"Invoice-Private",,07/01/2012,07/10/2012,,12615008MO,-2630.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,31,20,620,"Limited Term Discount: Rathje, Elmer",,,,,,,,,,,,,,,

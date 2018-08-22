@@ -1,0 +1,7 @@
+BATCH,,201107,B,3959.0000,
+INVOICE,IN,,16210120,,07/01/2011,642.0000,"Invoice-Private",,07/01/2011,07/10/2011,,16212784MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3027,010211162,6,28.0000,168.00,"Resident Care - Level 2 for Jul: Mahaffey, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,6,79.0000,474.00,"Room and Board - One Bedroom for Jul: Mahaffey, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,16210120,,07/01/2011,3317,"Invoice-Private",,07/01/2011,07/10/2011,,16212784MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3027,010211162,1,868,868,"CR:Resident Care -... R.Mahaffey 201107: Mahaffey, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2449,2449,"CR:Room and Board ... R.Mahaffey 201107: Mahaffey, Ruth",,,,,,,,,,,,,,,

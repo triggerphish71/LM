@@ -1,0 +1,5 @@
+BATCH,,201301,B,3408.0000,
+INVOICE,IN,,16510334,,01/13/2013,3408.0000,"MoveIn-Wells. Ina Mae",,01/13/2013,01/13/2013,,16514647,3408.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,19,99.0000,1881,"Basic Service Fee - Studio         : Wells. Ina Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Wells. Ina Mae",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: Wells. Ina Mae",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201206,B,5610.0000,
+INVOICE,IN,,21610233,,06/01/2012,660.0000,"Invoice-Private",,06/01/2012,06/10/2012,,21613572MO,-4290.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,4,103.0000,412.00,"One Bedroom for Jun: Worthy, Sr, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,4,62.0000,248.00,"Resident Care - Level 6 for Jun: Worthy, Sr, William",,,,,,,,,,,,,,,
+INVOICE,CM,,21610233,,06/01/2012,4950,"Invoice-Private",,06/01/2012,06/10/2012,,21613572MO,-4290.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3090,3090,"CR:One Bedroom... W.Worthy, Sr 201206: Worthy, Sr, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1860,1860,"CR:Resident Care -... W.Worthy, Sr 201206: Worthy, Sr, William",,,,,,,,,,,,,,,

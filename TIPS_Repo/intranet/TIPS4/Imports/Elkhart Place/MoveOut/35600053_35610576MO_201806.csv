@@ -1,0 +1,7 @@
+BATCH,,201806,B,2976.5000,
+INVOICE,IN,,35600053,,06/18/2018,1190.6000,"Invoice-Private",,06/18/2018,06/18/2018,,35610576MO,-595.3000,,,,,,,,,,
+TRANSACTION,3020,070009356,20,40.5300,810.60,"BSF Studio for Jun: Fink, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,070009356,20,19.0000,380.00,"Resident Care - Level 1 for Jun: Fink, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,35600053,,06/18/2018,1785.9,"Invoice-Private",,06/18/2018,06/18/2018,,35610576MO,-595.3000,,,,,,,,,,
+TRANSACTION,3020,070009356,1,1215.9,1215.9,"CR:BSF Studio... C.Fink 201806: Fink, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,070009356,1,570,570,"CR:Resident Care -... C.Fink 201806: Fink, Carol",,,,,,,,,,,,,,,

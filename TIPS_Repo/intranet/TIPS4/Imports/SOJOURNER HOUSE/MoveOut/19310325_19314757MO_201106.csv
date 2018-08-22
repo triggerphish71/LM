@@ -1,0 +1,7 @@
+BATCH,,201106,B,3695.0000,
+INVOICE,IN,,19310325,,06/20/2011,1440.0000,"Invoice-Private",,06/20/2011,06/20/2011,,19314757MO,-3142.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,20,72.0000,1440.00,"Basic Service Fee - Studio for Jun: Whitcomb, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,19310325,,06/20/2011,2255,"Invoice-Private",,06/20/2011,06/20/2011,,19314757MO,-3142.0000,,,,,,,,,,
+TRANSACTION,3299,010315193,1,85,85,"CR:Ancillary Rent... L.Whitcomb 201106: Whitcomb, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2160,2160,"CR:Basic Service F... L.Whitcomb 201106: Whitcomb, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315193,1,10,10,"CR:HSG Meals... L.Whitcomb 201106: Whitcomb, Laura",,,,,,,,,,,,,,,

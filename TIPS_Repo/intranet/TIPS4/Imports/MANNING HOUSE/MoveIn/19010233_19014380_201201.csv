@@ -1,0 +1,5 @@
+BATCH,,201201,B,1125.0000,
+INVOICE,IN,,19010233,,01/31/2012,1125.0000,"MoveIn-Pope. Roosevelt",,01/31/2012,01/31/2012,,19014380,3994.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"R.Pope: Basic Service Fee - Studio: Pope. Roosevelt",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Pope. Roosevelt",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Pope. Roosevelt",,,,,,,,,,,,,,,

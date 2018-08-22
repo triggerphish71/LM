@@ -1,0 +1,5 @@
+BATCH,,201211,B,120.0000,
+INVOICE,IN,,21210172,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,21212746MO,-2502.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,30,2.0000,60.00,"Credit for Limited Term Discount: Glatz, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210172,,11/01/2012,60,"Invoice-Private",,11/01/2012,11/10/2012,,21212746MO,-2502.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,30,2,60,"Limited Term Discount: Glatz, Marie",,,,,,,,,,,,,,,

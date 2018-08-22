@@ -1,0 +1,7 @@
+BATCH,,201303,B,5208.5200,
+INVOICE,IN,,00110144,,03/23/2013,2471.8400,"Invoice-Private",,03/23/2013,03/23/2013,,00113485MO,-2970.8400,,,,,,,,,,
+TRANSACTION,3020,010101001,28,31.0000,868.00,"Basic Service Fee - Second Resident for Mar: Crawford, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,28,57.2800,1603.84,"Resident Care - Level 32 for Mar: Crawford, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,00110144,,03/23/2013,2736.68,"Invoice-Private",,03/23/2013,03/23/2013,,00113485MO,-2970.8400,,,,,,,,,,
+TRANSACTION,3020,010101001,1,961,961,"CR:Basic Service F... M.Crawford 201303: Crawford, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,1775.68,1775.68,"CR:Resident Care -... M.Crawford 201303: Crawford, Mary",,,,,,,,,,,,,,,

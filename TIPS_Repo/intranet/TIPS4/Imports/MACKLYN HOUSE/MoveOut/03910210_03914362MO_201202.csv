@@ -1,0 +1,7 @@
+BATCH,,201202,B,8666.7000,
+INVOICE,IN,,03910210,,02/01/2012,2682.5500,"Invoice-Private",,02/01/2012,02/10/2012,,03914362MO,-3301.6000,,,,,,,,,,
+TRANSACTION,3020,010101039,13,90.0000,1170.00,"Basic Service Fee - Studio for Feb: Doll, Charles (Chuck)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,13,116.3500,1512.55,"Resident Care - Level 65 for Feb: Doll, Charles (Chuck)",,,,,,,,,,,,,,,
+INVOICE,CM,,03910210,,02/01/2012,5984.15,"Invoice-Private",,02/01/2012,02/10/2012,,03914362MO,-3301.6000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2610,2610,"CR:Basic Service F... C.Doll 201202: Doll, Charles (Chuck)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,3374.15,3374.15,"CR:Resident Care -... C.Doll 201202: Doll, Charles (Chuck)",,,,,,,,,,,,,,,

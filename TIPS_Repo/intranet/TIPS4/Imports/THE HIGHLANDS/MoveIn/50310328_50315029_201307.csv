@@ -1,0 +1,7 @@
+BATCH,,201307,B,4240.0000,
+INVOICE,IN,,50310328,,07/02/2013,4240.0000,"MoveIn-Caldwell. Ardis",,07/02/2013,07/02/2013,,50315029,4240.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,30,75.0000,2250,"Basic Service Fee - Studio: Caldwell. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,30,14.0000,420,"Resident Care - Level 1: Caldwell. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Caldwell. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Caldwell. Ardis",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35.0000,35,"Pendant Fee: Caldwell. Ardis",,,,,,,,,,,,,,,

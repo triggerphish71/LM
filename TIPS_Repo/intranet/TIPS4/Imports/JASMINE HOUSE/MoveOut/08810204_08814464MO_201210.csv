@@ -1,0 +1,5 @@
+BATCH,,201210,B,1426.0000,
+INVOICE,IN,,08810204,,10/01/2012,713.0000,"Invoice-Private",,10/01/2012,10/10/2012,,08814464MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,23.0000,713.00,"Credit for Limited Term Discount: Durand, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,08810204,,10/01/2012,713,"Invoice-Private",,10/01/2012,10/10/2012,,08814464MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,23,713,"Limited Term Discount: Durand, Muriel",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,6911.0000,
+INVOICE,IN,,03410289,,11/19/2012,3341.0000,"Invoice-Private",,11/19/2012,11/19/2012,,03415847MO,-2802.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1080.0000,1080.00,"CR:Limited Term Di... L.Read 201211: Read, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202034,19,96.0000,1824.00,"Basic Service Fee - Studio for Nov: Read, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,19,23.0000,437.00,"Resident Care - Level 2 for Nov: Read, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,03410289,,11/19/2012,3570,"Invoice-Private",,11/19/2012,11/19/2012,,03415847MO,-2802.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2880,2880,"CR:Basic Service F... L.Read 201211: Read, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,690,690,"CR:Resident Care -... L.Read 201211: Read, Lawrence",,,,,,,,,,,,,,,

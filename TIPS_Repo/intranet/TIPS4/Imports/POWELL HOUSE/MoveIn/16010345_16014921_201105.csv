@@ -1,0 +1,5 @@
+BATCH,,201105,B,4365.0000,
+INVOICE,IN,,16010345,,05/01/2011,4365.0000,"May_Rent-Moon. Bill",,05/01/2011,05/10/2011,,16014921,6950.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,31,96.0000,2976,"Basic Service Fee - Studio         : Moon. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,31,44.0000,1364,"Resident Care - Level 3: Moon. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Moon. Bill",,,,,,,,,,,,,,,

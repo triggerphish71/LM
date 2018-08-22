@@ -1,0 +1,8 @@
+BATCH,,201201,B,7153.0000,
+INVOICE,IN,,02010249,,01/01/2012,3036.0000,"Invoice-Private",,01/01/2012,01/10/2012,,02014412MO,-4934.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,23,94.0000,2162.00,"Basic Service Fee - Studio for Jan: Carter, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,23,38.0000,874.00,"Resident Care - Level 3 for Jan: Carter, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,02010249,,01/01/2012,4117,"Invoice-Private",,01/01/2012,01/10/2012,,02014412MO,-4934.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2914,2914,"CR:Basic Service F... P.Carter 201201: Carter, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... P.Carter 201201: Carter, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,1178,1178,"CR:Resident Care -... P.Carter 201201: Carter, Paul",,,,,,,,,,,,,,,

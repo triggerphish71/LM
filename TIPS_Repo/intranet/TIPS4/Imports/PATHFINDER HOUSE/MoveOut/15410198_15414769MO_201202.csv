@@ -1,0 +1,8 @@
+BATCH,,201202,B,8670.0000,
+INVOICE,IN,,15410198,,02/01/2012,4082.0000,"Invoice-Private",,02/01/2012,02/10/2012,,15414769MO,-506.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,26,85.0000,2210.00,"Basic Service Fee - One Bedroom for Feb: Heimann, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,26,72.0000,1872.00,"Resident Care - Level 5 for Feb: Heimann, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,15410198,,02/01/2012,4588,"Invoice-Private",,02/01/2012,02/10/2012,,15414769MO,-506.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2465,2465,"CR:Basic Service F... A.Heimann 201202: Heimann, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... A.Heimann 201202: Heimann, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,2088,2088,"CR:Resident Care -... A.Heimann 201202: Heimann, Arlene",,,,,,,,,,,,,,,

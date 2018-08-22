@@ -1,0 +1,8 @@
+BATCH,,201212,B,5301.0000,
+INVOICE,IN,,12010224,,12/11/2012,2418.0000,"Invoice-Private",,12/11/2012,12/11/2012,,12014743MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,1,744.0000,744.00,"CR:Limited Term Di... G.Showalter 201212: Showalter, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,18,78.0000,1404.00,"Basic Service Fee - Studio for Dec: Showalter, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,18,15.0000,270.00,"Resident Care - Level 1 for Dec: Showalter, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,12010224,,12/11/2012,2883,"Invoice-Private",,12/11/2012,12/11/2012,,12014743MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2418,2418,"CR:Basic Service F... G.Showalter 201212: Showalter, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,465,465,"CR:Resident Care -... G.Showalter 201212: Showalter, Gladys",,,,,,,,,,,,,,,

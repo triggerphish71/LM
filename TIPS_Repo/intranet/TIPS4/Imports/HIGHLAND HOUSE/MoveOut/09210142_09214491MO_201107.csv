@@ -1,0 +1,7 @@
+BATCH,,201107,B,7866.0000,
+INVOICE,IN,,09210142,,07/15/2011,2565.0000,"Invoice-Private",,07/15/2011,07/15/2011,,09214491MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,15,89.0000,1335.00,"Basic Service Fee - Deluxe for Jul: McIntosh, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,15,82.0000,1230.00,"Resident Care - Level 5 for Jul: McIntosh, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,09210142,,07/15/2011,5301,"Invoice-Private",,07/15/2011,07/15/2011,,09214491MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2759,2759,"CR:Basic Service F... A.McIntosh 201107: McIntosh, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,2542,2542,"CR:Resident Care -... A.McIntosh 201107: McIntosh, Alice",,,,,,,,,,,,,,,

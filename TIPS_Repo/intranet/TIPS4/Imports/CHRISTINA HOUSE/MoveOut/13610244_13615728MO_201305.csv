@@ -1,0 +1,7 @@
+BATCH,,201305,B,5047.0000,
+INVOICE,IN,,13610244,,05/17/2013,1854.0000,"Invoice-Private",,05/17/2013,05/17/2013,,13615728MO,-4429.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,18,56.0000,1008.00,"Basic Service Fee - Studio for May: McGee, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,18,47.0000,846.00,"Resident Care - Level 3 for May: McGee, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,13610244,,05/17/2013,3193,"Invoice-Private",,05/17/2013,05/17/2013,,13615728MO,-4429.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1736,1736,"CR:Basic Service F... E.McGee 201305: McGee, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,1457,1457,"CR:Resident Care -... E.McGee 201305: McGee, Evelyn",,,,,,,,,,,,,,,

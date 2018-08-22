@@ -1,0 +1,8 @@
+BATCH,,201202,B,3684.0000,
+INVOICE,IN,,50310263,,02/04/2012,1068.0000,"Invoice-Private",,02/04/2012,02/04/2012,,50314011MO,-1548.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,12,75.0000,900.00,"Basic Service Fee - Studio for Feb: Ping, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,12,14.0000,168.00,"Resident Care - Level 1 for Feb: Ping, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,50310263,,02/04/2012,2616,"Invoice-Private",,02/04/2012,02/04/2012,,50314011MO,-1548.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2175,2175,"CR:Basic Service F... L.Ping 201202: Ping, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... L.Ping 201202: Ping, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,406,406,"CR:Resident Care -... L.Ping 201202: Ping, Lucille",,,,,,,,,,,,,,,

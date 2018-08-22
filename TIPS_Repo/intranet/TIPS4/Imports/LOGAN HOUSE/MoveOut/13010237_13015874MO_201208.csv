@@ -1,0 +1,6 @@
+BATCH,,201208,B,4026.0000,
+INVOICE,IN,,13010237,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13015874MO,-3902.0000,,,,,,,,,,
+TRANSACTION,3320,010310130,1,62.0000,62.00,"CR:Limited Term Di... M.Gosser 201208: Gosser, Margaret ",,,,,,,,,,,,,,,
+INVOICE,CM,,13010237,,08/01/2012,3964,"Invoice-Private",,08/01/2012,08/10/2012,,13015874MO,-3902.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3937,3937,"CR:Basic Service F... M.Gosser 201208: Gosser, Margaret ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... M.Gosser 201208: Gosser, Margaret ",,,,,,,,,,,,,,,

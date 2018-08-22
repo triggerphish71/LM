@@ -1,0 +1,7 @@
+BATCH,,201202,B,6608.5600,
+INVOICE,IN,,00710144,,02/01/2012,3186.2700,"Invoice-Private",,02/01/2012,02/10/2012,,00713354MO,-236.0200,,,,,,,,,,
+TRANSACTION,3020,010101007,27,84.0000,2268.00,"Basic Service Fee - Studio for Feb: Kreiger, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,27,34.0100,918.27,"Resident Care - Level 19 for Feb: Kreiger, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,00710144,,02/01/2012,3422.29,"Invoice-Private",,02/01/2012,02/10/2012,,00713354MO,-236.0200,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2436,2436,"CR:Basic Service F... M.Kreiger 201202: Kreiger, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,986.29,986.29,"CR:Resident Care -... M.Kreiger 201202: Kreiger, Marvin",,,,,,,,,,,,,,,

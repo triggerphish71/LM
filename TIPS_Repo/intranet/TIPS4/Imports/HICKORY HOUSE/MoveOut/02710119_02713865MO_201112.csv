@@ -1,0 +1,7 @@
+BATCH,,201112,B,4375.0000,
+INVOICE,IN,,02710119,,12/15/2011,665.0000,"Invoice-Private",,12/15/2011,12/15/2011,,02713865MO,-3045.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,7,95.0000,665.00,"B.Arnwine: Basic Service Fee - Studio for Dec: Arnwine, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,02710119,,12/15/2011,3710,"Invoice-Private",,12/15/2011,12/15/2011,,02713865MO,-3045.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2185,2185,"CR:B.Arnwine: Basi... B.Arnwine 201112: Arnwine, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"CR:Monthly Cable... B.Arnwine 201112: Arnwine, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500,1500,"CR:New Resident Fe... B.Arnwine 201112: Arnwine, Bobbie",,,,,,,,,,,,,,,

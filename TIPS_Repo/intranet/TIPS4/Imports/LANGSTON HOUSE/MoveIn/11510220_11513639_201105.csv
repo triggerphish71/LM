@@ -1,0 +1,5 @@
+BATCH,,201105,B,3221.0000,
+INVOICE,IN,,11510220,,05/01/2011,3221.0000,"May_Rent-Hartley. Ray",,05/01/2011,05/10/2011,,11513639,4455.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,31,64.0000,1984,"Basic Service Fee - Studio         : Hartley. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,31,39.0000,1209,"Resident Care - Level 3: Hartley. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Hartley. Ray",,,,,,,,,,,,,,,

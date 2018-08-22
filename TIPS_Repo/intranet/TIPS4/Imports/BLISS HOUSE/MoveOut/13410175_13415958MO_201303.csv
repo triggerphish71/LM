@@ -1,0 +1,7 @@
+BATCH,,201303,B,194.0000,
+INVOICE,IN,,13410175,,03/01/2013,97.0000,"Invoice-Private",,03/01/2013,03/10/2013,,13415958MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Carson, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,31,2.0000,62.00,"Credit for Limited Term Discount: Carson, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,13410175,,03/01/2013,97,"Invoice-Private",,03/01/2013,03/10/2013,,13415958MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Carson, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,31,2,62,"Limited Term Discount: Carson, Bill",,,,,,,,,,,,,,,

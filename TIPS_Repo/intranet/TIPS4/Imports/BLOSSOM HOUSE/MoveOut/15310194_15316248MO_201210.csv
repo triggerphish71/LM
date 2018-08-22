@@ -1,0 +1,8 @@
+BATCH,,201210,B,6381.4400,
+INVOICE,IN,,15310194,,10/01/2012,2060.6600,"Invoice-Private",,10/01/2012,10/10/2012,,15316248MO,-2260.1200,,,,,,,,,,
+TRANSACTION,3320,010103153,1,1085.0000,1085.00,"CR:Limited Term Di... R.Perala 201210: Perala, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,7,100.0000,700.00,"Basic Service Fee - Studio for Oct: Perala, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,7,39.3800,275.66,"Resident Care - Level 22 for Oct: Perala, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,15310194,,10/01/2012,4320.78,"Invoice-Private",,10/01/2012,10/10/2012,,15316248MO,-2260.1200,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... R.Perala 201210: Perala, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1220.78,1220.78,"CR:Resident Care -... R.Perala 201210: Perala, Rachel",,,,,,,,,,,,,,,

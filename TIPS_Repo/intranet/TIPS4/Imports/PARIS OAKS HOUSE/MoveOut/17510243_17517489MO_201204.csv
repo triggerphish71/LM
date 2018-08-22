@@ -1,0 +1,7 @@
+BATCH,,201204,B,6171.0000,
+INVOICE,IN,,17510243,,04/01/2012,2541.0000,"Invoice-Private",,04/01/2012,04/10/2012,,17517489MO,-1089.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,21,76.0000,1596.00,"Basic Service Fee - Studio Deluxe for Apr: Underwood, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,21,45.0000,945.00,"Resident Care - Level 4 for Apr: Underwood, Opal",,,,,,,,,,,,,,,
+INVOICE,CM,,17510243,,04/01/2012,3630,"Invoice-Private",,04/01/2012,04/10/2012,,17517489MO,-1089.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Basic Service F... O.Underwood 201204: Underwood, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,1350,1350,"CR:Resident Care -... O.Underwood 201204: Underwood, Opal",,,,,,,,,,,,,,,

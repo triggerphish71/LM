@@ -1,0 +1,5 @@
+BATCH,,201801,B,2868.6700,
+INVOICE,IN,,00710342,,01/30/2018,2868.6700,"MoveIn-Port. Daven",,01/30/2018,01/30/2018,,00715332,2868.6700,,,,,,,,,,
+TRANSACTION,3010,010001007,2,101.0000,202,"Basic Service Fee - Studio: Port. Daven",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001007,1,2000.0000,2000,"Community Fee: Port. Daven",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001007,1,666.6700,666.67,"Monthly Deferral Charge: Port. Daven",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,3825.0000,
+INVOICE,IN,,09410309,,06/01/2013,1275.0000,"Invoice-Private",,06/01/2013,06/10/2013,,09416449MO,-3910.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,15,55.0000,825.00,"Basic Service Fee - Studio for Jun: Singel, Margaret  ( Peggy)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,15,30.0000,450.00,"Resident Care - Level 2 for Jun: Singel, Margaret  ( Peggy)",,,,,,,,,,,,,,,
+INVOICE,CM,,09410309,,06/01/2013,2550,"Invoice-Private",,06/01/2013,06/10/2013,,09416449MO,-3910.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,1650,1650,"CR:Basic Service F... M.Singel 201306: Singel, Margaret  ( Peggy)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,900,900,"CR:Resident Care -... M.Singel 201306: Singel, Margaret  ( Peggy)",,,,,,,,,,,,,,,

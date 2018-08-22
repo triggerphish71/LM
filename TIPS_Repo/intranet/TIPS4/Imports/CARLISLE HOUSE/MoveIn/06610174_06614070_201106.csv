@@ -1,0 +1,5 @@
+BATCH,,201106,B,1918.0000,
+INVOICE,IN,,06610174,,06/30/2011,1918.0000,"MoveIn-Zucker. Doris",,06/30/2011,06/30/2011,,06614070,7126.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,1,93.0000,93,"Basic Service Fee - Studio         : Zucker. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,1,75.0000,75,"Resident Care - Level 5: Zucker. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Zucker. Doris",,,,,,,,,,,,,,,

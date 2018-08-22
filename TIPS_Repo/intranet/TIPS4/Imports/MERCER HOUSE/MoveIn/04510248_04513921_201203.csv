@@ -1,0 +1,5 @@
+BATCH,,201203,B,3427.0000,
+INVOICE,IN,,04510248,,03/07/2012,3427.0000,"MoveIn-Scott. Fulton",,03/07/2012,03/07/2012,,04513921,3427.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,25,76.0000,1900,"Basic Service Fee - Studio: Scott. Fulton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Scott. Fulton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Scott. Fulton",,,,,,,,,,,,,,,

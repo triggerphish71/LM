@@ -1,0 +1,6 @@
+BATCH,,201109,B,4251.0000,
+INVOICE,IN,,04210147,,09/14/2011,1344.0000,"Invoice-Private",,09/14/2011,09/14/2011,,04213788MO,-4566.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,14,96.0000,1344.00,"Basic Service Fee - Studio for Sep: Brown, Madelene",,,,,,,,,,,,,,,
+INVOICE,CM,,04210147,,09/14/2011,2907,"Invoice-Private",,09/14/2011,09/14/2011,,04213788MO,-4566.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2880,2880,"CR:Basic Service F... M.Brown 201109: Brown, Madelene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... M.Brown 201109: Brown, Madelene",,,,,,,,,,,,,,,

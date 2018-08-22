@@ -1,0 +1,5 @@
+BATCH,,201205,B,3543.7800,
+INVOICE,IN,,10410277,,05/18/2012,3543.7800,"MoveIn-McMaster. Mary",,05/18/2012,05/18/2012,,10414833,6851.8800,,,,,,,,,,
+TRANSACTION,3010,010101104,14,87.0000,1218,"Basic Service Fee - Studio: McMaster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101104,14,23.2700,325.78,"Resident Care - Level 13: McMaster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000.0000,2000,"New Resident Fee: McMaster. Mary",,,,,,,,,,,,,,,

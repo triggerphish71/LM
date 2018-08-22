@@ -1,0 +1,5 @@
+BATCH,,201206,B,540.0000,
+INVOICE,IN,,06110206,,06/01/2012,270.0000,"Invoice-Private",,06/01/2012,06/10/2012,,06113865MO,105.5000,,,,,,,,,,
+TRANSACTION,3320,010103061,30,9.0000,270.00,"Credit for Limited Term Discount: Barlow, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,06110206,,06/01/2012,270,"Invoice-Private",,06/01/2012,06/10/2012,,06113865MO,105.5000,,,,,,,,,,
+TRANSACTION,3320,010103061,30,9,270,"Limited Term Discount: Barlow, Margie",,,,,,,,,,,,,,,

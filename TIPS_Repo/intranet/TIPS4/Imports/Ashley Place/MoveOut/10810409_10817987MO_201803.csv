@@ -1,0 +1,7 @@
+BATCH,,201803,B,7860.0000,
+INVOICE,IN,,10810409,,03/29/2018,3799.0000,"Invoice-Private",,03/29/2018,03/29/2018,,10817987MO,-262.0000,,,,,,,,,,
+TRANSACTION,3020,010008108,29,79.0000,2291.00,"Basic Service Fee - Studio  for Mar: Robertson, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,29,52.0000,1508.00,"Resident Care - Level 3  for Mar: Robertson, Velma",,,,,,,,,,,,,,,
+INVOICE,CM,,10810409,,03/29/2018,4061,"Invoice-Private",,03/29/2018,03/29/2018,,10817987MO,-262.0000,,,,,,,,,,
+TRANSACTION,3020,010008108,1,2449,2449,"CR:Basic Service F... V.Robertson 201803: Robertson, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008108,1,1612,1612,"CR:Resident Care -... V.Robertson 201803: Robertson, Velma",,,,,,,,,,,,,,,

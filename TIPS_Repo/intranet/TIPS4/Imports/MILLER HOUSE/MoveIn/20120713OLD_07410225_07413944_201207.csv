@@ -1,0 +1,5 @@
+BATCH,,201207,B,2760.0000,
+INVOICE,IN,,07410225,,07/12/2012,2760.0000,"MoveIn-Sudman. Betty",,07/12/2012,07/12/2012,,07413944,2760.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,20,73.0000,1460,"Basic Service Fee - Studio: Sudman. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,20,15.0000,300,"Resident Care - Level 1: Sudman. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Sudman. Betty",,,,,,,,,,,,,,,

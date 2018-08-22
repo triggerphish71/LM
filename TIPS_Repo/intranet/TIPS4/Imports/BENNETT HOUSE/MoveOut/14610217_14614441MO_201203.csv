@@ -1,0 +1,6 @@
+BATCH,,201203,B,5703.0000,
+INVOICE,IN,,14610217,,03/20/2012,2790.0000,"Invoice-Private",,03/20/2012,03/20/2012,,14614441MO,-2943.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,30,93.0000,2790.00,"Basic Service Fee - Studio for Mar: Sheckells, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,14610217,,03/20/2012,2913,"Invoice-Private",,03/20/2012,03/20/2012,,14614441MO,-2943.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... R.Sheckells 201203: Sheckells, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... R.Sheckells 201203: Sheckells, Robert",,,,,,,,,,,,,,,

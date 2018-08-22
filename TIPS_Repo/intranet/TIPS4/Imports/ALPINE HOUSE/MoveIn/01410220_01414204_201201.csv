@@ -1,0 +1,5 @@
+BATCH,,201201,B,3775.0000,
+INVOICE,IN,,01410220,,01/18/2012,3775.0000,"MoveIn-Vance. Mary",,01/18/2012,01/18/2012,,01414204,7425.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,14,125.0000,1750,"Basic Service Fee - One Bedroom: Vance. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Vance. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,2000.0000,2000,"New Resident Fee: Vance. Mary",,,,,,,,,,,,,,,

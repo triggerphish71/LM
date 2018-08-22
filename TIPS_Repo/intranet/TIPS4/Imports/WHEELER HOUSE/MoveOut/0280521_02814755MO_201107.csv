@@ -1,0 +1,8 @@
+BATCH,,201107,B,5117.0000,
+INVOICE,IN,,0280521,,07/01/2011,938.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02814755MO,-3241.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,7,109.0000,763.00,"Basic Service Fee - Studio for Jul: Dale, Jo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,7,25.0000,175.00,"Resident Care - Level 2 for Jul: Dale, Jo",,,,,,,,,,,,,,,
+INVOICE,CM,,0280521,,07/01/2011,4179,"Invoice-Private",,07/01/2011,07/10/2011,,02814755MO,-3241.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3379,3379,"CR:Basic Service F... J.Dale 201107: Dale, Jo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25,25,"CR:Monthly Cable... J.Dale 201107: Dale, Jo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,775,775,"CR:Resident Care -... J.Dale 201107: Dale, Jo",,,,,,,,,,,,,,,

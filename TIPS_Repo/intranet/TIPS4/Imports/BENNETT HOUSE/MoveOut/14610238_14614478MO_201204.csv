@@ -1,0 +1,6 @@
+BATCH,,201204,B,4773.0000,
+INVOICE,IN,,14610238,,04/21/2012,1953.0000,"Invoice-Private",,04/21/2012,04/21/2012,,14614478MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,21,93.0000,1953.00,"Basic Service Fee - Studio for Apr: Reeder, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,14610238,,04/21/2012,2820,"Invoice-Private",,04/21/2012,04/21/2012,,14614478MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2790,2790,"CR:Basic Service F... M.Reeder 201204: Reeder, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Reeder 201204: Reeder, Marian",,,,,,,,,,,,,,,

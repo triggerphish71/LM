@@ -1,0 +1,5 @@
+BATCH,,201305,B,3196.0000,
+INVOICE,IN,,16810388,,05/03/2013,282.0000,"Invoice-Private",,05/03/2013,05/03/2013,,16817344MO,-2632.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,3,94.0000,282.00,"Basic Service Fee - Studio Deluxe for May: Malkowski, Marshall",,,,,,,,,,,,,,,
+INVOICE,CM,,16810388,,05/03/2013,2914,"Invoice-Private",,05/03/2013,05/03/2013,,16817344MO,-2632.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2914,2914,"CR:Basic Service F... M.Malkowski 201305: Malkowski, Marshall",,,,,,,,,,,,,,,

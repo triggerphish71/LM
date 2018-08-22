@@ -1,0 +1,8 @@
+BATCH,,201106,B,2592.8000,
+INVOICE,IN,,01510186,,06/01/2011,1488.8000,"Invoice-Private",,06/01/2011,06/10/2011,,01514021MO,384.8000,,,,,,,,,,
+TRANSACTION,3321,010103015,1,900.0000,900.00,"CR:2nd Resident Fr... D.Miller 201106: Miller, Della",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,16,30.0000,480.00,"Basic Service Fee - Second Resident for Jun: Miller, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,16,6.8000,108.80,"Resident Care - Level 4 for Jun: Miller, Della",,,,,,,,,,,,,,,
+INVOICE,CM,,01510186,,06/01/2011,1104,"Invoice-Private",,06/01/2011,06/10/2011,,01514021MO,384.8000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,900,900,"CR:Basic Service F... D.Miller 201106: Miller, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,204,204,"CR:Resident Care -... D.Miller 201106: Miller, Della",,,,,,,,,,,,,,,

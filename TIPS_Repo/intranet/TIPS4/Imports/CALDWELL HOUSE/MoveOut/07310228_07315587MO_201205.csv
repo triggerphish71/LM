@@ -1,0 +1,7 @@
+BATCH,,201205,B,2688.0000,
+INVOICE,IN,,07310228,,05/25/2012,1200.0000,"Invoice-Private",,05/25/2012,05/25/2012,,07315587MO,-1728.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,25,31.0000,775.00,"Basic Service Fee - Second Resident for May: Wogoman, Lesla",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,25,17.0000,425.00,"Resident Care - Level 1 for May: Wogoman, Lesla",,,,,,,,,,,,,,,
+INVOICE,CM,,07310228,,05/25/2012,1488,"Invoice-Private",,05/25/2012,05/25/2012,,07315587MO,-1728.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,961,961,"CR:Basic Service F... L.Wogoman 201205: Wogoman, Lesla",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,527,527,"CR:Resident Care -... L.Wogoman 201205: Wogoman, Lesla",,,,,,,,,,,,,,,

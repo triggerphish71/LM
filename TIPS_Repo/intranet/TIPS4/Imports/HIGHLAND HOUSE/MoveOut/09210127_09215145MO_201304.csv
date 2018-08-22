@@ -1,0 +1,7 @@
+BATCH,,201304,B,4375.0000,
+INVOICE,IN,,09210127,,04/01/2013,625.0000,"Invoice-Private",,04/01/2013,04/01/2013,,09215145MO,-3125.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,5,93.0000,465.00,"Basic Service Fee - Deluxe for Apr: Walesch, Sina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,5,32.0000,160.00,"Resident Care - Level 2 for Apr: Walesch, Sina",,,,,,,,,,,,,,,
+INVOICE,CM,,09210127,,04/01/2013,3750,"Invoice-Private",,04/01/2013,04/01/2013,,09215145MO,-3125.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2790,2790,"CR:Basic Service F... S.Walesch 201304: Walesch, Sina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,960,960,"CR:Resident Care -... S.Walesch 201304: Walesch, Sina",,,,,,,,,,,,,,,

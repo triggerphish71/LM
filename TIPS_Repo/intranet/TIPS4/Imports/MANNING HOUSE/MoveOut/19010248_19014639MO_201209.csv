@@ -1,0 +1,8 @@
+BATCH,,201209,B,5445.0000,
+INVOICE,IN,,19010248,,09/13/2012,1638.0000,"Invoice-Private",,09/13/2012,09/13/2012,,19014639MO,-2169.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,13,98.0000,1274.00,"Basic Service Fee - Studio for Sep: Killian, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,13,28.0000,364.00,"Resident Care - Level 2 for Sep: Killian, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,19010248,,09/13/2012,3807,"Invoice-Private",,09/13/2012,09/13/2012,,19014639MO,-2169.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2940,2940,"CR:Basic Service F... H.Killian 201209: Killian, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... H.Killian 201209: Killian, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,840,840,"CR:Resident Care -... H.Killian 201209: Killian, Harold",,,,,,,,,,,,,,,

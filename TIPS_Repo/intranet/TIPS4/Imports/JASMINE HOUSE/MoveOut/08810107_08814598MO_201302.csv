@@ -1,0 +1,7 @@
+BATCH,,201302,B,5266.0000,
+INVOICE,IN,,08810107,,02/01/2013,112.0000,"Invoice-Private",,02/01/2013,02/10/2013,,08814598MO,-6512.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,112.0000,112.00,"CR:Limited Term Di... H.Rogers 201302: Rogers, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08810107,,02/01/2013,5154,"Invoice-Private",,02/01/2013,02/10/2013,,08814598MO,-6512.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3192,3192,"CR:Basic Service F... H.Rogers 201302: Rogers, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30,30,"CR:Pendant Fee... H.Rogers 201302: Rogers, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1932,1932,"CR:Resident Care -... H.Rogers 201302: Rogers, Helen",,,,,,,,,,,,,,,

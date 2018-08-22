@@ -1,0 +1,8 @@
+BATCH,,201207,B,5326.0000,
+INVOICE,IN,,18910253,,07/01/2012,806.0000,"Invoice-Private",,07/01/2012,07/10/2012,,18915326MO,-3529.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,806.0000,806.00,"CR:Limited Term Di... J.Luce 201207: Luce, John",,,,,,,,,,,,,,,
+INVOICE,CM,,18910253,,07/01/2012,4520,"Invoice-Private",,07/01/2012,07/10/2012,,18915326MO,-3529.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2759,2759,"CR:Basic Service F... J.Luce 201207: Luce, John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... J.Luce 201207: Luce, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... J.Luce 201207: Luce, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1426,1426,"CR:Resident Care -... J.Luce 201207: Luce, John",,,,,,,,,,,,,,,

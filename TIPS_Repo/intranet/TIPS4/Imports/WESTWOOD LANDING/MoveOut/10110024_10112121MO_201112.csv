@@ -1,0 +1,7 @@
+BATCH,,201112,B,1342.0000,
+INVOICE,IN,,10110024,,12/01/2011,671.0000,"Invoice-Private",,12/01/2011,12/10/2011,,10112121MO,-2365.0000,,,,,,,,,,
+TRANSACTION,3130,010305101,1,20.0000,20.00,"Pendant Fee: Snyder, Jesse",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305101,31,21.0000,651.00,"Credit for Limited Term Discount: Snyder, Jesse",,,,,,,,,,,,,,,
+INVOICE,CM,,10110024,,12/01/2011,671,"Invoice-Private",,12/01/2011,12/10/2011,,10112121MO,-2365.0000,,,,,,,,,,
+TRANSACTION,3130,010305101,1,20,20,"Credit for Pendant Fee: Snyder, Jesse",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305101,31,21,651,"Limited Term Discount: Snyder, Jesse",,,,,,,,,,,,,,,

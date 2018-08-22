@@ -1,0 +1,5 @@
+BATCH,,201203,B,20.0000,
+INVOICE,IN,,53010007,,03/01/2012,10.0000,"Invoice-Private",,03/01/2012,03/10/2012,,53015819MO,-3710.0000,,,,,,,,,,
+TRANSACTION,3130,010319530,1,10.0000,10.00,"Pendant Fee: Strycharske, Loraine",,,,,,,,,,,,,,,
+INVOICE,CM,,53010007,,03/01/2012,10,"Invoice-Private",,03/01/2012,03/10/2012,,53015819MO,-3710.0000,,,,,,,,,,
+TRANSACTION,3130,010319530,1,10,10,"Credit for Pendant Fee: Strycharske, Loraine",,,,,,,,,,,,,,,

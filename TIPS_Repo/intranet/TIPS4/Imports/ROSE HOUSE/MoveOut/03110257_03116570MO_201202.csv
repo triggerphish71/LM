@@ -1,0 +1,7 @@
+BATCH,,201202,B,634.0000,
+INVOICE,IN,,03110257,,02/01/2012,317.0000,"Invoice-Private",,02/01/2012,02/10/2012,,03116570MO,-2937.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Blanchard, Pete",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,29,10.0000,290.00,"Credit for Limited Term Discount: Blanchard, Pete",,,,,,,,,,,,,,,
+INVOICE,CM,,03110257,,02/01/2012,317,"Invoice-Private",,02/01/2012,02/10/2012,,03116570MO,-2937.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Blanchard, Pete",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,29,10,290,"Limited Term Discount: Blanchard, Pete",,,,,,,,,,,,,,,

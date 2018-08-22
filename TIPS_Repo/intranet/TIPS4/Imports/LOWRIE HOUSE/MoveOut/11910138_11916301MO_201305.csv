@@ -1,0 +1,8 @@
+BATCH,,201305,B,6671.0000,
+INVOICE,IN,,11910138,,05/11/2013,1738.0000,"Invoice-Private",,05/11/2013,05/11/2013,,11916301MO,-3195.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,11,122.0000,1342.00,"Basic Service Fee - One Bedroom for May: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,11,36.0000,396.00,"Resident Care - Level 2 for May: McGuire, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11910138,,05/11/2013,4933,"Invoice-Private",,05/11/2013,05/11/2013,,11916301MO,-3195.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3782,3782,"CR:Basic Service F... M.McGuire 201305: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,35,35,"CR:Monthly Cable... M.McGuire 201305: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1116,1116,"CR:Resident Care -... M.McGuire 201305: McGuire, Mary",,,,,,,,,,,,,,,

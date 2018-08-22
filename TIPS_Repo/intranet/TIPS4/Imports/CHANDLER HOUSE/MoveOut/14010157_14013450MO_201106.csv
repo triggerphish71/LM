@@ -1,0 +1,8 @@
+BATCH,,201106,B,5304.0000,
+INVOICE,IN,,14010157,,06/08/2011,1164.0000,"Invoice-Private",,06/08/2011,06/08/2011,,14013450MO,-2976.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,1,60.0000,60.00,"CR:Limited Term Di... L.Hartman 201106: Hartman, Leola",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309140,8,85.0000,680.00,"Basic Service Fee - Studio for Jun: Hartman, Leola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,8,53.0000,424.00,"Resident Care - Level 4 for Jun: Hartman, Leola",,,,,,,,,,,,,,,
+INVOICE,CM,,14010157,,06/08/2011,4140,"Invoice-Private",,06/08/2011,06/08/2011,,14013450MO,-2976.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2550,2550,"CR:Basic Service F... L.Hartman 201106: Hartman, Leola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1590,1590,"CR:Resident Care -... L.Hartman 201106: Hartman, Leola",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,3480.0000,
+INVOICE,IN,,03210271,,06/10/2013,870.0000,"Invoice-Private",,06/10/2013,06/10/2013,,03215399MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,10,55.0000,550.00,"Basic Service Fee - Studio for Jun: Thebeau, Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,10,32.0000,320.00,"Resident Care - Level 2 for Jun: Thebeau, Winnie",,,,,,,,,,,,,,,
+INVOICE,CM,,03210271,,06/10/2013,2610,"Invoice-Private",,06/10/2013,06/10/2013,,03215399MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,1650,1650,"CR:Basic Service F... W.Thebeau 201306: Thebeau, Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,960,960,"CR:Resident Care -... W.Thebeau 201306: Thebeau, Winnie",,,,,,,,,,,,,,,

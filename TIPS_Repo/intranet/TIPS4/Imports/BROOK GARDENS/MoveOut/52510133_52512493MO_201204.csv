@@ -1,0 +1,8 @@
+BATCH,,201204,B,11130.0000,
+INVOICE,IN,,52510133,,04/24/2012,4980.0000,"Invoice-Private",,04/24/2012,04/24/2012,,52512493MO,-7463.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,1,60.0000,60.00,"CR:Limited Term Di... A.Lazers 201204: Lazers, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319525,24,127.0000,3048.00,"Basic Service Fee - Studio Deluxe for Apr: Lazers, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,24,78.0000,1872.00,"Resident Care - Level 6 for Apr: Lazers, Alvin",,,,,,,,,,,,,,,
+INVOICE,CM,,52510133,,04/24/2012,6150,"Invoice-Private",,04/24/2012,04/24/2012,,52512493MO,-7463.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3810,3810,"CR:Basic Service F... A.Lazers 201204: Lazers, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,2340,2340,"CR:Resident Care -... A.Lazers 201204: Lazers, Alvin",,,,,,,,,,,,,,,

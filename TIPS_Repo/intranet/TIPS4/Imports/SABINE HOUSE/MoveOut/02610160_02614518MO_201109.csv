@@ -1,0 +1,8 @@
+BATCH,,201109,B,6697.0000,
+INVOICE,IN,,02610160,,09/01/2011,2320.0000,"Invoice-Private",,09/01/2011,09/01/2011,,02614518MO,-6579.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,16,108.0000,1728.00,"Basic Service Fee - One Bedroom for Sep: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,16,37.0000,592.00,"Resident Care - Level 3 for Sep: Morgan, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,02610160,,09/01/2011,4377,"Invoice-Private",,09/01/2011,09/01/2011,,02614518MO,-6579.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3240,3240,"CR:Basic Service F... H.Morgan 201109: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... H.Morgan 201109: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,1110,1110,"CR:Resident Care -... H.Morgan 201109: Morgan, Helen",,,,,,,,,,,,,,,

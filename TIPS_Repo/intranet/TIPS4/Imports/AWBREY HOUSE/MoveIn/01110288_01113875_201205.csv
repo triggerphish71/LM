@@ -1,0 +1,5 @@
+BATCH,,201205,B,1212.2200,
+INVOICE,IN,,01110288,,05/30/2012,1212.2200,"MoveIn-Fulton. Miriam",,05/30/2012,05/30/2012,,01113875,4395.5200,,,,,,,,,,
+TRANSACTION,3010,010101011,2,90.0000,180,"M.Fulton: Basic Service Fee - One Bedroom: Fulton. Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,2,16.1100,32.22,"M.Fulton: Resident Care - Level 9: Fulton. Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Fulton. Miriam",,,,,,,,,,,,,,,

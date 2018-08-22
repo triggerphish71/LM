@@ -1,0 +1,8 @@
+BATCH,,201107,B,5028.4000,
+INVOICE,IN,,01310137,,07/23/2011,2129.8000,"Invoice-Private",,07/23/2011,07/23/2011,,01313924MO,-3667.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,23,79.0000,1817.00,"Basic Service Fee - One Bedroom for Jul: Baker, Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,23,13.6000,312.80,"Resident Care - Level 8 for Jul: Baker, Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,01310137,,07/23/2011,2898.6,"Invoice-Private",,07/23/2011,07/23/2011,,01313924MO,-3667.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2449,2449,"CR:Basic Service F... L.Baker 201107: Baker, Lou",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... L.Baker 201107: Baker, Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,421.6,421.6,"CR:Resident Care -... L.Baker 201107: Baker, Lou",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,1591.0000,
+INVOICE,IN,,03110155,,07/12/2011,444.0000,"Invoice-Private",,07/12/2011,07/12/2011,,03116229MO,-703.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,12,37.0000,444.00,"Basic Service Fee - Second Resident for Jul: Sullivan, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,03110155,,07/12/2011,1147,"Invoice-Private",,07/12/2011,07/12/2011,,03116229MO,-703.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,1147,1147,"CR:Basic Service F... W.Sullivan 201107: Sullivan, Willard",,,,,,,,,,,,,,,

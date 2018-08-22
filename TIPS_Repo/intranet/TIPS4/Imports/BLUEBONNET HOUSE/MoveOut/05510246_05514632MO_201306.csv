@@ -1,0 +1,7 @@
+BATCH,,201306,B,5250.0000,
+INVOICE,IN,,05510246,,06/20/2013,2100.0000,"Invoice-Private",,06/20/2013,06/20/2013,,05514632MO,-4305.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,20,70.0000,1400.00,"Basic Service Fee - One Bedroom for Jun: Yawn, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,20,35.0000,700.00,"Resident Care - Level 2 for Jun: Yawn, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,05510246,,06/20/2013,3150,"Invoice-Private",,06/20/2013,06/20/2013,,05514632MO,-4305.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2100,2100,"CR:Basic Service F... S.Yawn 201306: Yawn, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,1050,1050,"CR:Resident Care -... S.Yawn 201306: Yawn, Shirley",,,,,,,,,,,,,,,

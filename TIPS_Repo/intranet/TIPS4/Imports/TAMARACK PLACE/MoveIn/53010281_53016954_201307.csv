@@ -1,0 +1,6 @@
+BATCH,,201307,B,5400.0000,
+INVOICE,IN,,53010281,,07/12/2013,5400.0000,"MoveIn-Heineman. William",,07/12/2013,07/12/2013,,53016954,5400.0000,,,,,,,,,,
+TRANSACTION,3010,010319530,20,113.0000,2260,"Basic Service Fee - One Bedroom Deluxe: Heineman. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319530,20,80.0000,1600,"Resident Care - Level 5: Heineman. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40,"Monthly Cable: Heineman. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319530,1,1500.0000,1500,"New Resident Fee: Heineman. William",,,,,,,,,,,,,,,

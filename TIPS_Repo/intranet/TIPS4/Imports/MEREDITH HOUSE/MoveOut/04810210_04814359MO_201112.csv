@@ -1,0 +1,8 @@
+BATCH,,201112,B,4960.0000,
+INVOICE,IN,,04810210,,12/04/2011,564.0000,"Invoice-Private",,12/04/2011,12/04/2011,,04814359MO,-3832.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,4,99.0000,396.00,"Basic Service Fee - Studio for Dec: Wolfinbarger, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,4,42.0000,168.00,"Resident Care - Level 3 for Dec: Wolfinbarger, Nina",,,,,,,,,,,,,,,
+INVOICE,CM,,04810210,,12/04/2011,4396,"Invoice-Private",,12/04/2011,12/04/2011,,04814359MO,-3832.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3069,3069,"CR:Basic Service F... N.Wolfinbarger 201112: Wolfinbarger, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25,25,"CR:Monthly Cable... N.Wolfinbarger 201112: Wolfinbarger, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,1302,1302,"CR:Resident Care -... N.Wolfinbarger 201112: Wolfinbarger, Nina",,,,,,,,,,,,,,,

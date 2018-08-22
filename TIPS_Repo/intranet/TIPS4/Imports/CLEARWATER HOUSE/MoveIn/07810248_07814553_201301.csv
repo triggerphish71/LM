@@ -1,0 +1,5 @@
+BATCH,,201301,B,3001.0000,
+INVOICE,IN,,07810248,,01/01/2013,3001.0000,"January_Rent-Gunning. Elaine",,01/01/2013,01/10/2013,,07814553,4870.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,31,81.0000,2511,"Basic Service Fee - Studio         : Gunning. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,31,15.0000,465,"Resident Care - Level 1: Gunning. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Gunning. Elaine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,3948.0000,
+INVOICE,IN,,02810238,,04/17/2013,1428.0000,"Invoice-Private",,04/17/2013,04/17/2013,,02815756MO,-3696.0000,,,,,,,,,,
+TRANSACTION,3027,010202028,17,14.0000,238.00,"Resident Care - Level 1 for Apr: Busch, Roween",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,17,70.0000,1190.00,"Room and Board - Studio for Apr: Busch, Roween",,,,,,,,,,,,,,,
+INVOICE,CM,,02810238,,04/17/2013,2520,"Invoice-Private",,04/17/2013,04/17/2013,,02815756MO,-3696.0000,,,,,,,,,,
+TRANSACTION,3027,010202028,1,420,420,"CR:Resident Care -... R.Busch 201304: Busch, Roween",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,1,2100,2100,"CR:Room and Board ... R.Busch 201304: Busch, Roween",,,,,,,,,,,,,,,

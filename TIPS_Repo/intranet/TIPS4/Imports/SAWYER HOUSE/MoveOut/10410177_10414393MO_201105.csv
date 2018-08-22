@@ -1,0 +1,7 @@
+BATCH,,201105,B,3480.4000,
+INVOICE,IN,,10410177,,05/01/2011,744.0000,"Invoice-Private",,05/01/2011,05/10/2011,,10414393MO,-1649.0000,,,,,,,,,,
+TRANSACTION,3320,010101104,1,744.0000,744.00,"CR:Limited Term Di... R.Jacobs 201105: Jacobs, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,10410177,,05/01/2011,2736.4,"Invoice-Private",,05/01/2011,05/10/2011,,10414393MO,-1649.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2604,2604,"CR:Basic Service F... R.Jacobs 201105: Jacobs, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101104,1,27,27,"CR:Monthly Cable... R.Jacobs 201105: Jacobs, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,105.4,105.4,"CR:Resident Care -... R.Jacobs 201105: Jacobs, Ruth",,,,,,,,,,,,,,,

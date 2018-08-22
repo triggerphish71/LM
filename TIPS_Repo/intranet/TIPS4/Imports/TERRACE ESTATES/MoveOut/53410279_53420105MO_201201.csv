@@ -1,0 +1,5 @@
+BATCH,,201201,B,186.0000,
+INVOICE,IN,,53410279,,01/01/2012,93.0000,"Invoice-Private",,01/01/2012,01/10/2012,,53420105MO,-2511.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Guenther, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,53410279,,01/01/2012,93,"Invoice-Private",,01/01/2012,01/10/2012,,53420105MO,-2511.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Guenther, Ruth",,,,,,,,,,,,,,,

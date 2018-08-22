@@ -1,0 +1,7 @@
+BATCH,,201111,B,90.0000,
+INVOICE,IN,,21010131,,11/01/2011,45.0000,"Invoice-Private",,11/01/2011,11/10/2011,,21013200MO,-1915.0000,,,,,,,,,,
+TRANSACTION,3130,010216210,1,20.0000,20.00,"Pendant Fee: Brewer, Sybil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25.00,"Monthly Cable: Brewer, Sybil",,,,,,,,,,,,,,,
+INVOICE,CM,,21010131,,11/01/2011,45,"Invoice-Private",,11/01/2011,11/10/2011,,21013200MO,-1915.0000,,,,,,,,,,
+TRANSACTION,3130,010216210,1,20,20,"Credit for Pendant Fee: Brewer, Sybil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Credit for Monthly Cable: Brewer, Sybil",,,,,,,,,,,,,,,

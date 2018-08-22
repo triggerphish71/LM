@@ -1,0 +1,5 @@
+BATCH,,201203,B,2170.0000,
+INVOICE,IN,,17410231,,03/01/2012,1085.0000,"Invoice-Private",,03/01/2012,03/10/2012,,17414162MO,540.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,35.0000,1085.00,"Credit for Limited Term Discount: Baker, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,17410231,,03/01/2012,1085,"Invoice-Private",,03/01/2012,03/10/2012,,17414162MO,540.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,35,1085,"Limited Term Discount: Baker, Dorothy",,,,,,,,,,,,,,,

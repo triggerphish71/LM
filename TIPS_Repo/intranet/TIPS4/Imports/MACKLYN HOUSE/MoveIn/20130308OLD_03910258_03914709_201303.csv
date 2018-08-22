@@ -1,0 +1,5 @@
+BATCH,,201303,B,4435.0000,
+INVOICE,IN,,03910258,,03/07/2013,4435.0000,"MoveIn-Terrell. Beverly",,03/07/2013,03/07/2013,,03914709,4435.0000,,,,,,,,,,
+TRANSACTION,3010,010101039,25,90.0000,2250,"Basic Service Fee - Studio: Terrell. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,25,7.4000,185,"Resident Care - Level 4: Terrell. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Terrell. Beverly",,,,,,,,,,,,,,,

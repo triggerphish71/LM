@@ -1,0 +1,5 @@
+BATCH,,201108,B,3316.0000,
+INVOICE,IN,,14810313,,08/01/2011,3316.0000,"August_Rent-Dern. Paul",,08/01/2011,08/10/2011,,14814633,5618.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,31,88.0000,2728,"Basic Service Fee - Studio         : Dern. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,31,18.0000,558,"Resident Care - Level 1: Dern. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Dern. Paul",,,,,,,,,,,,,,,

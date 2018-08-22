@@ -1,0 +1,5 @@
+BATCH,,201203,B,682.0000,
+INVOICE,IN,,50310254,,03/01/2012,341.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50314001MO,-1681.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,31,11.0000,341.00,"Credit for Limited Term Discount: Foley, James",,,,,,,,,,,,,,,
+INVOICE,CM,,50310254,,03/01/2012,341,"Invoice-Private",,03/01/2012,03/10/2012,,50314001MO,-1681.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,31,11,341,"Limited Term Discount: Foley, James",,,,,,,,,,,,,,,

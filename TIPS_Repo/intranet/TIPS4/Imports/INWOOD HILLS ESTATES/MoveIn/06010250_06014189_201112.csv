@@ -1,0 +1,6 @@
+BATCH,,201112,B,5756.0000,
+INVOICE,IN,,06010250,,12/01/2011,5756.0000,"MoveIn-Brouillette. Jean",,12/01/2011,12/01/2011,,06014189,5756.0000,,,,,,,,,,
+TRANSACTION,3010,010206060,31,110.0000,3410,"J.Brouillette: Basic Service Fee - One Bedroom: Brouillette. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010206060,31,26.0000,806,"J.Brouillette: Resident Care - Level 2: Brouillette. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40,"Monthly Cable: Brouillette. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010206060,1,1500.0000,1500,"New Resident Fee: Brouillette. Jean",,,,,,,,,,,,,,,

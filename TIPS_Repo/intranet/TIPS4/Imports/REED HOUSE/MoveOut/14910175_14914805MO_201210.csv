@@ -1,0 +1,7 @@
+BATCH,,201210,B,1114.0000,
+INVOICE,IN,,14910175,,10/01/2012,557.0000,"Invoice-Private",,10/01/2012,10/10/2012,,14914805MO,-4639.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Paulsen, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,31,17.0000,527.00,"Credit for Limited Term Discount: Paulsen, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14910175,,10/01/2012,557,"Invoice-Private",,10/01/2012,10/10/2012,,14914805MO,-4639.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Paulsen, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,31,17,527,"Limited Term Discount: Paulsen, Betty",,,,,,,,,,,,,,,

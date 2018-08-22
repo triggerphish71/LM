@@ -1,0 +1,5 @@
+BATCH,,201110,B,421.6000,
+INVOICE,IN,,51310189,,10/01/2011,210.8000,"Invoice-Private",,10/01/2011,10/10/2011,,51313487MO,-5359.2000,,,,,,,,,,
+TRANSACTION,3019,010310513,31,6.8000,210.80,"Additional Service Charge: King, Lincoln",,,,,,,,,,,,,,,
+INVOICE,CM,,51310189,,10/01/2011,210.8,"Invoice-Private",,10/01/2011,10/10/2011,,51313487MO,-5359.2000,,,,,,,,,,
+TRANSACTION,3019,010310513,31,6.8,210.8,"Credit for Additional Service Charge: King, Lincoln",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201111,B,6402.0000,
+INVOICE,IN,,51910160,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,51913242MO,-7277.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,60.0000,60.00,"CR:Limited Term Di... C.Whyte 201111: Whyte, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,51910160,,11/01/2011,6342,"Invoice-Private",,11/01/2011,11/10/2011,,51913242MO,-7277.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3180,3180,"CR:Basic Service F... C.Whyte 201111: Whyte, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,3162,3162,"CR:Resident Care -... C.Whyte 201111: Whyte, Charles",,,,,,,,,,,,,,,

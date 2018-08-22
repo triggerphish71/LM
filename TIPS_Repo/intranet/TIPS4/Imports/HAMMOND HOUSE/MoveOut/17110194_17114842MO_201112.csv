@@ -1,0 +1,7 @@
+BATCH,,201112,B,4720.0000,
+INVOICE,IN,,17110194,,12/02/2011,1062.0000,"Invoice-Private",,12/02/2011,12/02/2011,,17114842MO,-2596.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,9,90.0000,810.00,"Basic Service Fee - Studio for Dec: Jensen, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,9,28.0000,252.00,"Resident Care - Level 2 for Dec: Jensen, Velma",,,,,,,,,,,,,,,
+INVOICE,CM,,17110194,,12/02/2011,3658,"Invoice-Private",,12/02/2011,12/02/2011,,17114842MO,-2596.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2790,2790,"CR:Basic Service F... V.Jensen 201112: Jensen, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,868,868,"CR:Resident Care -... V.Jensen 201112: Jensen, Velma",,,,,,,,,,,,,,,

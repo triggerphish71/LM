@@ -1,0 +1,8 @@
+BATCH,,201301,B,8589.0000,
+INVOICE,IN,,13410275,,01/16/2013,2912.0000,"Invoice-Private",,01/16/2013,01/16/2013,,13415957MO,-7896.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,16,111.0000,1776.00,"Basic Service Fee- One Bedroom Prem for Jan: Norman, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309134,16,71.0000,1136.00,"Private Care Rate Adjustment for Jan: Norman, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,13410275,,01/16/2013,5677,"Invoice-Private",,01/16/2013,01/16/2013,,13415957MO,-7896.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,3441,3441,"CR:Basic Service F... H.Norman 201301: Norman, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... H.Norman 201301: Norman, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309134,1,2201,2201,"CR:Private Care Ra... H.Norman 201301: Norman, Hazel",,,,,,,,,,,,,,,

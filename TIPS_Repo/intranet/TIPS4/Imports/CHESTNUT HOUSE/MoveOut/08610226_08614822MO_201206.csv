@@ -1,0 +1,7 @@
+BATCH,,201206,B,5124.0000,
+INVOICE,IN,,08610226,,06/12/2012,1464.0000,"Invoice-Private",,06/12/2012,06/12/2012,,08614822MO,-2196.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,12,89.0000,1068.00,"Basic Service Fee - Studio for Jun: Hempel, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,12,33.0000,396.00,"Resident Care - Level 2 for Jun: Hempel, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,08610226,,06/12/2012,3660,"Invoice-Private",,06/12/2012,06/12/2012,,08614822MO,-2196.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2670,2670,"CR:Basic Service F... R.Hempel 201206: Hempel, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,990,990,"CR:Resident Care -... R.Hempel 201206: Hempel, Rose",,,,,,,,,,,,,,,

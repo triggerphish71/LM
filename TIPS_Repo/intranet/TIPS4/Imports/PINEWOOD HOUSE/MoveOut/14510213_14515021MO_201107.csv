@@ -1,0 +1,6 @@
+BATCH,,201107,B,5146.0000,
+INVOICE,IN,,14510213,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,14515021MO,-7041.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,62.0000,62.00,"CR:Limited Term Di... D.Johnson 201107: Johnson, Deettee",,,,,,,,,,,,,,,
+INVOICE,CM,,14510213,,07/01/2011,5084,"Invoice-Private",,07/01/2011,07/10/2011,,14515021MO,-7041.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2945,2945,"CR:Basic Service F... D.Johnson 201107: Johnson, Deettee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2139,2139,"CR:Resident Care -... D.Johnson 201107: Johnson, Deettee",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,2760.0000,
+INVOICE,IN,,13810059,,09/01/2012,1380.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13815102MO,-3317.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,46.0000,1380.00,"Credit for Limited Term Discount: Iles, Delores C",,,,,,,,,,,,,,,
+INVOICE,CM,,13810059,,09/01/2012,1380,"Invoice-Private",,09/01/2012,09/10/2012,,13815102MO,-3317.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,46,1380,"Limited Term Discount: Iles, Delores C",,,,,,,,,,,,,,,

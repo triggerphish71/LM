@@ -1,0 +1,7 @@
+BATCH,,201209,B,5065.0000,
+INVOICE,IN,,15510188,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15515414MO,-5904.0000,,,,,,,,,,
+TRANSACTION,3320,010310155,1,60.0000,60.00,"CR:Limited Term Di... M.Griffith 201209: Griffith, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15510188,,09/01/2012,5005,"Invoice-Private",,09/01/2012,09/10/2012,,15515414MO,-5904.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,3510,3510,"CR:Basic Service F... M.Griffith 201209: Griffith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... M.Griffith 201209: Griffith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1470,1470,"CR:Resident Care -... M.Griffith 201209: Griffith, Mary",,,,,,,,,,,,,,,

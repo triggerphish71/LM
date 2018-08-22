@@ -1,0 +1,5 @@
+BATCH,,201205,B,1488.0000,
+INVOICE,IN,,03810227,,05/01/2012,744.0000,"Invoice-Private",,05/01/2012,05/10/2012,,03814162MO,-2515.6000,,,,,,,,,,
+TRANSACTION,3320,010103038,31,24.0000,744.00,"Credit for Limited Term Discount: Jones, David",,,,,,,,,,,,,,,
+INVOICE,CM,,03810227,,05/01/2012,744,"Invoice-Private",,05/01/2012,05/10/2012,,03814162MO,-2515.6000,,,,,,,,,,
+TRANSACTION,3320,010103038,31,24,744,"Limited Term Discount: Jones, David",,,,,,,,,,,,,,,

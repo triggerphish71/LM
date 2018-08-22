@@ -1,0 +1,5 @@
+BATCH,,201108,B,2046.0000,
+INVOICE,IN,,10110045,,08/01/2011,1023.0000,"Invoice-Private",,08/01/2011,08/10/2011,,10112050MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010305101,31,33.0000,1023.00,"Credit for 2nd Resident Free Discount: Jeffers, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,10110045,,08/01/2011,1023,"Invoice-Private",,08/01/2011,08/10/2011,,10112050MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010305101,31,33,1023,"2nd Resident Free Discount: Jeffers, Barbara",,,,,,,,,,,,,,,

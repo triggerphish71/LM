@@ -1,0 +1,6 @@
+BATCH,,201307,B,3285.0000,
+INVOICE,IN,,07810253,,07/12/2013,3285.0000,"MoveIn-VanOrder. Donald",,07/12/2013,07/12/2013,,07814624,3285.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,20,81.0000,1620,"Basic Service Fee - Studio         : VanOrder. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,20,57.0000,1140,"Resident Care - Level 4: VanOrder. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: VanOrder. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,500.0000,500,"New Resident Fee: VanOrder. Donald",,,,,,,,,,,,,,,

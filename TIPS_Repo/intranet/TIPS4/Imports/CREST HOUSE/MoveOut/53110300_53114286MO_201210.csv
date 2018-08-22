@@ -1,0 +1,8 @@
+BATCH,,201210,B,5964.0000,
+INVOICE,IN,,53110300,,10/15/2012,744.0000,"Invoice-Private",,10/15/2012,10/15/2012,,53114286MO,-4476.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,4,123.0000,492.00,"Basic Service Fee - One Bedroom for Oct: Knoll, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,4,63.0000,252.00,"Resident Care - Level 5 for Oct: Knoll, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,53110300,,10/15/2012,5220,"Invoice-Private",,10/15/2012,10/15/2012,,53114286MO,-4476.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2460,2460,"CR:Basic Service F... M.Knoll 201210: Knoll, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,1500,1500,"CR:New Resident Fe... M.Knoll 201210: Knoll, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1260,1260,"CR:Resident Care -... M.Knoll 201210: Knoll, Mary",,,,,,,,,,,,,,,

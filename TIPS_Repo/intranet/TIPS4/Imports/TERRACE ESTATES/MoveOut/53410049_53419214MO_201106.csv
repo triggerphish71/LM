@@ -1,0 +1,7 @@
+BATCH,,201106,B,4275.0000,
+INVOICE,IN,,53410049,,06/01/2011,90.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53419214MO,-4461.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,90.0000,90.00,"CR:Limited Term Di... N.Laack 201106: Laack, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,53410049,,06/01/2011,4185,"Invoice-Private",,06/01/2011,06/10/2011,,53419214MO,-4461.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Basic Service F... N.Laack 201106: Laack, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319534,1,45,45,"CR:Garage Rental... N.Laack 201106: Laack, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2010,2010,"CR:Resident Care -... N.Laack 201106: Laack, Nellie",,,,,,,,,,,,,,,

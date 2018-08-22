@@ -1,0 +1,5 @@
+BATCH,,201211,B,1380.0000,
+INVOICE,IN,,02910308,,11/01/2012,690.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02915812MO,-2851.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,30,23.0000,690.00,"Credit for Limited Term Discount: Armstrong, JW",,,,,,,,,,,,,,,
+INVOICE,CM,,02910308,,11/01/2012,690,"Invoice-Private",,11/01/2012,11/10/2012,,02915812MO,-2851.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,30,23,690,"Limited Term Discount: Armstrong, JW",,,,,,,,,,,,,,,

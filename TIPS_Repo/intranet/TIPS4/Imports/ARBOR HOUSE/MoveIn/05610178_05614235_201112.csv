@@ -1,0 +1,6 @@
+BATCH,,201112,B,3235.0000,
+INVOICE,IN,,05610178,,12/09/2011,3235.0000,"MoveIn-King. Margaret",,12/09/2011,12/09/2011,,05614235,3235.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,23,80.0000,1840,"M.King: Basic Service Fee - One Bedroom: King. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,23,16.0000,368,"M.King: Resident Care - Level 1: King. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: King. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: King. Margaret",,,,,,,,,,,,,,,

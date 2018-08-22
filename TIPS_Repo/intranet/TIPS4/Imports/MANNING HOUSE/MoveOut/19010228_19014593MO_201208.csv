@@ -1,0 +1,7 @@
+BATCH,,201208,B,6010.0000,
+INVOICE,IN,,19010228,,08/01/2012,868.0000,"Invoice-Private",,08/01/2012,08/10/2012,,19014593MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,868.0000,868.00,"CR:Limited Term Di... B.Hipps 201208: Hipps, Bub",,,,,,,,,,,,,,,
+INVOICE,CM,,19010228,,08/01/2012,5142,"Invoice-Private",,08/01/2012,08/10/2012,,19014593MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... B.Hipps 201208: Hipps, Bub",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... B.Hipps 201208: Hipps, Bub",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,2077,2077,"CR:Resident Care -... B.Hipps 201208: Hipps, Bub",,,,,,,,,,,,,,,

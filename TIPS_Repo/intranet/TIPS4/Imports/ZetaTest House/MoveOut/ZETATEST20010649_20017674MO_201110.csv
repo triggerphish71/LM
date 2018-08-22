@@ -1,0 +1,5 @@
+BATCH,,201110,B,2617.7400,
+INVOICE,IN,,20010649,,10/10/2011,1308.9000,"Invoice-Private",,10/10/2011,10/10/2011,,20017674MO,0.0600,,,,,,,,,,
+TRANSACTION,3020,010001200,30,43.6300,1308.90,"Increase Room and Board for Oct: Sylvester, Matt",,,,,,,,,,,,,,,
+INVOICE,CM,,20010649,,10/10/2011,1308.84,"Invoice-Private",,10/10/2011,10/10/2011,,20017674MO,0.0600,,,,,,,,,,
+TRANSACTION,3020,010001200,1,1308.84,1308.84,"CR:Increase Room a... M.Sylvester 201110: Sylvester, Matt",,,,,,,,,,,,,,,

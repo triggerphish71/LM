@@ -1,0 +1,6 @@
+BATCH,,201205,B,5795.0000,
+INVOICE,IN,,14910181,,05/01/2012,2695.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14914663MO,-405.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,1395.0000,1395.00,"CR:Limited Term Di... L.Haase 201205: Haase, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,13,100.0000,1300.00,"Basic Service Fee - Studio for May: Haase, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,14910181,,05/01/2012,3100,"Invoice-Private",,05/01/2012,05/10/2012,,14914663MO,-405.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Basic Service F... L.Haase 201205: Haase, Lillian",,,,,,,,,,,,,,,

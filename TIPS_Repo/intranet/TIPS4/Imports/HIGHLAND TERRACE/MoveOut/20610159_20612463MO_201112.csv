@@ -1,0 +1,6 @@
+BATCH,,201112,B,5719.5000,
+INVOICE,IN,,20610159,,12/01/2011,961.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20612463MO,-3797.5000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,961.0000,961.00,"CR:Limited Term Di... T.Musgrave 201112: Musgrave, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,20610159,,12/01/2011,4758.5,"Invoice-Private",,12/01/2011,12/10/2011,,20612463MO,-3797.5000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,2061.5,2061.5,"CR:Resident Care -... T.Musgrave 201112: Musgrave, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Studio... T.Musgrave 201112: Musgrave, Thomas",,,,,,,,,,,,,,,

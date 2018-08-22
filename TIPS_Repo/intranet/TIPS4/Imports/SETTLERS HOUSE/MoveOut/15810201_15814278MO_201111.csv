@@ -1,0 +1,8 @@
+BATCH,,201111,B,4557.0000,
+INVOICE,IN,,15810201,,11/01/2011,1287.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15814278MO,-1983.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,960.0000,960.00,"CR:Limited Term Di... D.Satterfield 201111: Satterfield, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,3,17.0000,51.00,"Resident Care - Level 1 for Nov: Satterfield, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,3,92.0000,276.00,"Room and Board - Studio for Nov: Satterfield, Dennis",,,,,,,,,,,,,,,
+INVOICE,CM,,15810201,,11/01/2011,3270,"Invoice-Private",,11/01/2011,11/10/2011,,15814278MO,-1983.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,510,510,"CR:Resident Care -... D.Satterfield 201111: Satterfield, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2760,2760,"CR:Room and Board ... D.Satterfield 201111: Satterfield, Dennis",,,,,,,,,,,,,,,

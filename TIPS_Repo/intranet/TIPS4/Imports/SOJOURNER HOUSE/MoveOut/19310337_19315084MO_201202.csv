@@ -1,0 +1,8 @@
+BATCH,,201202,B,5078.0000,
+INVOICE,IN,,19310337,,02/07/2012,931.0000,"Invoice-Private",,02/07/2012,02/07/2012,,19315084MO,-3216.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,7,76.0000,532.00,"Basic Service Fee - Studio for Feb: Salak, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,7,57.0000,399.00,"Resident Care - Level 4 for Feb: Salak, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,19310337,,02/07/2012,4147,"Invoice-Private",,02/07/2012,02/07/2012,,19315084MO,-3216.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2204,2204,"CR:Basic Service F... M.Salak 201202: Salak, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,290,290,"CR:CC Meals... M.Salak 201202: Salak, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1653,1653,"CR:Resident Care -... M.Salak 201202: Salak, Mildred",,,,,,,,,,,,,,,

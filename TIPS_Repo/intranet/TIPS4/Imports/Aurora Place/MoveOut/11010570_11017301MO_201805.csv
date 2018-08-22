@@ -1,0 +1,5 @@
+BATCH,,201805,B,52.6000,
+INVOICE,IN,,11010570,,05/01/2018,26.3000,"Invoice-Private",,05/01/2018,05/10/2018,,11017301MO,-5986.3000,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.30,"Monthly Cable: Nash, William",,,,,,,,,,,,,,,
+INVOICE,CM,,11010570,,05/01/2018,26.3,"Invoice-Private",,05/01/2018,05/10/2018,,11017301MO,-5986.3000,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3,26.3,"Credit for Monthly Cable: Nash, William",,,,,,,,,,,,,,,

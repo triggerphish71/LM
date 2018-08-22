@@ -1,0 +1,5 @@
+BATCH,,201108,B,694.4000,
+INVOICE,IN,,07110099,,08/01/2011,347.2000,"Invoice-Private",,08/01/2011,08/10/2011,,07113918MO,-5170.8000,,,,,,,,,,
+TRANSACTION,3312,010305071,31,11.2000,347.20,"Credit for Two Room Rental Discount: Beach, Gordon",,,,,,,,,,,,,,,
+INVOICE,CM,,07110099,,08/01/2011,347.2,"Invoice-Private",,08/01/2011,08/10/2011,,07113918MO,-5170.8000,,,,,,,,,,
+TRANSACTION,3312,010305071,31,11.2,347.2,"Two Room Rental Discount: Beach, Gordon",,,,,,,,,,,,,,,

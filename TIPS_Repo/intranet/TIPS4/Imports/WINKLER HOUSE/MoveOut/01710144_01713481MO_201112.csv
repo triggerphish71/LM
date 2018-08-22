@@ -1,0 +1,5 @@
+BATCH,,201112,B,4743.0000,
+INVOICE,IN,,01710144,,12/01/2011,1860.0000,"Invoice-Private",,12/01/2011,12/10/2011,,01713481MO,-1023.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,20,93.0000,1860.00,"Basic Service Fee - Studio for Dec: Gipson, Florine",,,,,,,,,,,,,,,
+INVOICE,CM,,01710144,,12/01/2011,2883,"Invoice-Private",,12/01/2011,12/10/2011,,01713481MO,-1023.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2883,2883,"CR:Basic Service F... F.Gipson 201112: Gipson, Florine",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,4320.0000,
+INVOICE,IN,,02210179,,07/09/2011,972.0000,"Invoice-Private",,07/09/2011,07/09/2011,,02214021MO,-6710.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,9,108.0000,972.00,"Basic Service Fee- One Bedroom Prem for Jul: Fielden, Clydene",,,,,,,,,,,,,,,
+INVOICE,CM,,02210179,,07/09/2011,3348,"Invoice-Private",,07/09/2011,07/09/2011,,02214021MO,-6710.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3348,3348,"CR:Basic Service F... C.Fielden 201107: Fielden, Clydene",,,,,,,,,,,,,,,

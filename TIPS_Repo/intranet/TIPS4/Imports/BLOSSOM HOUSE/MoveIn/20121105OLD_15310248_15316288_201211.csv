@@ -1,0 +1,5 @@
+BATCH,,201211,B,5453.6000,
+INVOICE,IN,,15310248,,11/01/2012,5453.6000,"MoveIn-Baker. Jane",,11/01/2012,11/01/2012,,15316288,5453.6000,,,,,,,,,,
+TRANSACTION,3010,010103153,30,115.0000,3450,"J.Baker: Basic Service Fee - One Bedroom: Baker. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,30,50.1200,1503.6,"J.Baker: Resident Care - Level 28: Baker. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,500.0000,500,"New Resident Fee: Baker. Jane",,,,,,,,,,,,,,,

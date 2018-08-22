@@ -1,0 +1,8 @@
+BATCH,,201304,B,4062.0000,
+INVOICE,IN,,14810340,,04/02/2013,252.0000,"Invoice-Private",,04/02/2013,04/02/2013,,14815145MO,-3558.0000,,,,,,,,,,
+TRANSACTION,3027,010310148,2,35.0000,70.00,"Resident Care - Level 2 for Apr: Duke, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,2,91.0000,182.00,"Room and Board - Studio for Apr: Duke, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,14810340,,04/02/2013,3810,"Invoice-Private",,04/02/2013,04/02/2013,,14815145MO,-3558.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... G.Duke 201304: Duke, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1050,1050,"CR:Resident Care -... G.Duke 201304: Duke, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2730,2730,"CR:Room and Board ... G.Duke 201304: Duke, Gerald",,,,,,,,,,,,,,,

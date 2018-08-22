@@ -1,0 +1,7 @@
+BATCH,,201304,B,2797.0000,
+INVOICE,IN,,19810332,,04/29/2013,89.0000,"Invoice-Private",,04/29/2013,04/29/2013,,19818570MO,-5408.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,89.0000,89.00,"Basic Service Fee - Two Bedroom IL B for Apr: Schroeder, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,19810332,,04/29/2013,2708,"Invoice-Private",,04/29/2013,04/29/2013,,19818570MO,-5408.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,178,178,"CR:Basic Service F... D.Schroeder 201304: Schroeder, Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... D.Schroeder 201304: Schroeder, Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010112198,1,2500,2500,"CR:New Resident Fe... D.Schroeder 201304: Schroeder, Don",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,4577.0000,
+INVOICE,IN,,02610289,,11/01/2012,4577.0000,"MoveIn-Featherston. Nell",,11/01/2012,11/01/2012,,02614992,4577.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,30,97.0000,2910,"Basic Service Fee - Studio: Featherston. Nell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,30,13.0000,390,"Resident Care - Level 1: Featherston. Nell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Featherston. Nell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1250.0000,1250,"New Resident Fee: Featherston. Nell",,,,,,,,,,,,,,,

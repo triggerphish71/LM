@@ -1,0 +1,8 @@
+BATCH,,201304,B,10040.0000,
+INVOICE,IN,,06510225,,04/01/2013,5390.0000,"Invoice-Private",,04/01/2013,04/10/2013,,06515161MO,740.0000,,,,,,,,,,
+TRANSACTION,3321,010305065,1,1050.0000,1050.00,"CR:2nd Resident Fr... B.Vogelsong 201304: Vogelsong, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,28,35.0000,980.00,"Basic Service Fee - Second Resident for Apr: Vogelsong, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3030,010305065,28,120.0000,3360.00,"Private BSF Rate Adjustment for Apr: Vogelsong, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,06510225,,04/01/2013,4650,"Invoice-Private",,04/01/2013,04/10/2013,,06515161MO,740.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1050,1050,"CR:Basic Service F... B.Vogelsong 201304: Vogelsong, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3030,010305065,1,3600,3600,"CR:Private BSF Rat... B.Vogelsong 201304: Vogelsong, Barbara",,,,,,,,,,,,,,,

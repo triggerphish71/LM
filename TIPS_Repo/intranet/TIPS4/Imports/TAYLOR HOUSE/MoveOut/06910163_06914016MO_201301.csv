@@ -1,0 +1,5 @@
+BATCH,,201301,B,1426.0000,
+INVOICE,IN,,06910163,,01/01/2013,713.0000,"Invoice-Private",,01/01/2013,01/10/2013,,06914016MO,-365.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,31,23.0000,713.00,"Credit for Limited Term Discount: Stahl, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06910163,,01/01/2013,713,"Invoice-Private",,01/01/2013,01/10/2013,,06914016MO,-365.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,31,23,713,"Limited Term Discount: Stahl, Betty",,,,,,,,,,,,,,,

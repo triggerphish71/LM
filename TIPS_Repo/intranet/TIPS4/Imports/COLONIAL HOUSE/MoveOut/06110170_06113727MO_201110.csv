@@ -1,0 +1,7 @@
+BATCH,,201110,B,6484.1000,
+INVOICE,IN,,06110170,,10/01/2011,3077.2000,"Invoice-Private",,10/01/2011,10/10/2011,,06113727MO,-329.7000,,,,,,,,,,
+TRANSACTION,3027,010103061,28,28.9000,809.20,"Resident Care - Level 17 for Oct: Miller, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,28,81.0000,2268.00,"Room and Board - Studio for Oct: Miller, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,06110170,,10/01/2011,3406.9,"Invoice-Private",,10/01/2011,10/10/2011,,06113727MO,-329.7000,,,,,,,,,,
+TRANSACTION,3027,010103061,1,895.9,895.9,"CR:Resident Care -... W.Miller 201110: Miller, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2511,2511,"CR:Room and Board ... W.Miller 201110: Miller, Wanda",,,,,,,,,,,,,,,

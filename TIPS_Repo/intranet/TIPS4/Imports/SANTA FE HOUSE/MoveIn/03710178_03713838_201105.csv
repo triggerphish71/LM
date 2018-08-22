@@ -1,0 +1,5 @@
+BATCH,,201105,B,2490.0000,
+INVOICE,IN,,03710178,,05/27/2011,2490.0000,"MoveIn-Wyatt. Susan",,05/27/2011,05/27/2011,,03713838,5305.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,5,93.0000,465,"Basic Service Fee - Studio         : Wyatt. Susan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Wyatt. Susan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,2000.0000,2000,"New Resident Fee: Wyatt. Susan",,,,,,,,,,,,,,,

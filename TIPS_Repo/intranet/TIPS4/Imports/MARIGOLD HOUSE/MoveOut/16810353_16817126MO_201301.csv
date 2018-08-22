@@ -1,0 +1,8 @@
+BATCH,,201301,B,5438.0000,
+INVOICE,IN,,16810353,,01/01/2013,1470.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16817126MO,-2498.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,1,62.0000,62.00,"CR:Limited Term Di... P.Taylor 201301: Taylor, Pinkie (Ruth)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,11,21.0000,231.00,"Resident Care - Level 2 for Jan: Taylor, Pinkie (Ruth)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,11,107.0000,1177.00,"Room and Board - One Bedroom for Jan: Taylor, Pinkie (Ruth)",,,,,,,,,,,,,,,
+INVOICE,CM,,16810353,,01/01/2013,3968,"Invoice-Private",,01/01/2013,01/10/2013,,16817126MO,-2498.0000,,,,,,,,,,
+TRANSACTION,3027,010313168,1,651,651,"CR:Resident Care -... P.Taylor 201301: Taylor, Pinkie (Ruth)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3317,3317,"CR:Room and Board ... P.Taylor 201301: Taylor, Pinkie (Ruth)",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201801,B,3681.0700,
+INVOICE,IN,,13410304,,01/01/2018,2742.4000,"Invoice-Private",,01/01/2018,01/10/2018,,13418993MO,1803.7300,,,,,,,,,,
+TRANSACTION,3216,010009134,1,1803.7300,1803.73,"Community Fee Unpaid Balance: Thorne, Tom Thorne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009134,1,36.8000,36.80,"Monthly Cable: Thorne, Tom Thorne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009134,1,901.8700,901.87,"Community Fee Installment Charge: Thorne, Tom Thorne",,,,,,,,,,,,,,,
+INVOICE,CM,,13410304,,01/01/2018,938.67,"Invoice-Private",,01/01/2018,01/10/2018,,13418993MO,1803.7300,,,,,,,,,,
+TRANSACTION,3260,010009134,1,36.8,36.8,"Credit for Monthly Cable: Thorne, Tom Thorne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009134,1,901.87,901.87,"Credit for Community Fee Installment Charge: Thorne, Tom Thorne",,,,,,,,,,,,,,,

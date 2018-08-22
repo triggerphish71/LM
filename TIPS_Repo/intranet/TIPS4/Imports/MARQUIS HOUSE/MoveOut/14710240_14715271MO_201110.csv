@@ -1,0 +1,7 @@
+BATCH,,201110,B,691.6000,
+INVOICE,IN,,14710240,,10/01/2011,345.8000,"Invoice-Private",,10/01/2011,10/10/2011,,14715271MO,-4321.2000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Furin, Joseph ",,,,,,,,,,,,,,,
+TRANSACTION,3312,010310147,31,9.8000,303.80,"Credit for Two Room Rental Discount: Furin, Joseph ",,,,,,,,,,,,,,,
+INVOICE,CM,,14710240,,10/01/2011,345.8,"Invoice-Private",,10/01/2011,10/10/2011,,14715271MO,-4321.2000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Furin, Joseph ",,,,,,,,,,,,,,,
+TRANSACTION,3312,010310147,31,9.8,303.8,"Two Room Rental Discount: Furin, Joseph ",,,,,,,,,,,,,,,

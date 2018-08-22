@@ -1,0 +1,5 @@
+BATCH,,201210,B,40.0000,
+INVOICE,IN,,07010223,,10/01/2012,20.0000,"Invoice-Private",,10/01/2012,10/10/2012,,07014485MO,-2948.0000,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20.00,"Monthly Cable: Meyer, Duane",,,,,,,,,,,,,,,
+INVOICE,CM,,07010223,,10/01/2012,20,"Invoice-Private",,10/01/2012,10/10/2012,,07014485MO,-2948.0000,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"Credit for Monthly Cable: Meyer, Duane",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201305,B,4555.0000,
+INVOICE,IN,,04410292,,05/02/2013,4555.0000,"MoveIn-Nelson. Terry",,05/02/2013,05/02/2013,,04415067,4555.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,30,85.0000,2550,"Basic Service Fee - Studio: Nelson. Terry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,30,16.0000,480,"Resident Care - Level 1: Nelson. Terry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Nelson. Terry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Nelson. Terry",,,,,,,,,,,,,,,

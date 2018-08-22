@@ -1,0 +1,8 @@
+BATCH,,201203,B,4613.0000,
+INVOICE,IN,,21410339,,03/06/2012,800.0000,"Invoice-Private",,03/06/2012,03/06/2012,,21417291MO,-3013.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,62.0000,62.00,"CR:Limited Term Di... R.Woodson 201203: Woodson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,6,33.0000,198.00,"Resident Care - Level 3 for Mar: Woodson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,6,90.0000,540.00,"Studio AL B for Mar: Woodson, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,21410339,,03/06/2012,3813,"Invoice-Private",,03/06/2012,03/06/2012,,21417291MO,-3013.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1023,1023,"CR:Resident Care -... R.Woodson 201203: Woodson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Studio AL B... R.Woodson 201203: Woodson, Ruth",,,,,,,,,,,,,,,

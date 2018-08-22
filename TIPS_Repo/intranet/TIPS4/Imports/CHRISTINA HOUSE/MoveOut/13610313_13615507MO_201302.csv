@@ -1,0 +1,8 @@
+BATCH,,201302,B,4547.0000,
+INVOICE,IN,,13610313,,02/01/2013,1824.0000,"Invoice-Private",,02/01/2013,02/01/2013,,13615507MO,-3910.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,19,65.0000,1235.00,"Basic Service Fee - Studio for Feb: Wilcox, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,19,31.0000,589.00,"Resident Care - Level 2 for Feb: Wilcox, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,13610313,,02/01/2013,2723,"Invoice-Private",,02/01/2013,02/01/2013,,13615507MO,-3910.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1820,1820,"CR:Basic Service F... A.Wilcox 201302: Wilcox, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... A.Wilcox 201302: Wilcox, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,868,868,"CR:Resident Care -... A.Wilcox 201302: Wilcox, Ann",,,,,,,,,,,,,,,

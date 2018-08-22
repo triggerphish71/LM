@@ -1,0 +1,7 @@
+BATCH,,201112,B,9638.0000,
+INVOICE,IN,,02710094,,12/30/2011,4740.0000,"Invoice-Private",,12/30/2011,12/30/2011,,02713893MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,30,91.0000,2730.00,"Basic Service Fee - Studio for Dec: Moreland, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,30,67.0000,2010.00,"Resident Care - Level 5 for Dec: Moreland, June",,,,,,,,,,,,,,,
+INVOICE,CM,,02710094,,12/30/2011,4898,"Invoice-Private",,12/30/2011,12/30/2011,,02713893MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2821,2821,"CR:Basic Service F... J.Moreland 201112: Moreland, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,2077,2077,"CR:Resident Care -... J.Moreland 201112: Moreland, June",,,,,,,,,,,,,,,

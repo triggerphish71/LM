@@ -1,0 +1,7 @@
+BATCH,,201208,B,4585.0000,
+INVOICE,IN,,15610264,,08/01/2012,524.0000,"Invoice-Private",,08/01/2012,08/10/2012,,15615304MO,-3537.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,4,99.0000,396.00,"Basic Service Fee - Deluxe for Aug: Zaruba, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,4,32.0000,128.00,"Resident Care - Level 2 for Aug: Zaruba, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,15610264,,08/01/2012,4061,"Invoice-Private",,08/01/2012,08/10/2012,,15615304MO,-3537.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3069,3069,"CR:Basic Service F... M.Zaruba 201208: Zaruba, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,992,992,"CR:Resident Care -... M.Zaruba 201208: Zaruba, Margaret",,,,,,,,,,,,,,,

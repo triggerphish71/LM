@@ -1,0 +1,7 @@
+BATCH,,201206,B,9450.0000,
+INVOICE,IN,,09110164,,06/24/2012,4200.0000,"Invoice-Private",,06/24/2012,06/24/2012,,09115302MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,24,110.0000,2640.00,"Basic Service Fee - One Bedroom for Jun: Adkins, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,24,65.0000,1560.00,"Resident Care - Level 4 for Jun: Adkins, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,09110164,,06/24/2012,5250,"Invoice-Private",,06/24/2012,06/24/2012,,09115302MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,3300,3300,"CR:Basic Service F... L.Adkins 201206: Adkins, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1950,1950,"CR:Resident Care -... L.Adkins 201206: Adkins, Linda",,,,,,,,,,,,,,,

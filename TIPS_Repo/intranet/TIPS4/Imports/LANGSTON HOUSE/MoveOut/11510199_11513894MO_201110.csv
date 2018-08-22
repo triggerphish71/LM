@@ -1,0 +1,6 @@
+BATCH,,201110,B,2074.0000,
+INVOICE,IN,,11510199,,10/01/2011,62.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11513894MO,-2302.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,62.0000,62.00,"CR:Limited Term Di... G.Atkins 201110: Atkins, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,11510199,,10/01/2011,2012,"Invoice-Private",,10/01/2011,10/10/2011,,11513894MO,-2302.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1984,1984,"CR:Basic Service F... G.Atkins 201110: Atkins, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... G.Atkins 201110: Atkins, Geraldine",,,,,,,,,,,,,,,

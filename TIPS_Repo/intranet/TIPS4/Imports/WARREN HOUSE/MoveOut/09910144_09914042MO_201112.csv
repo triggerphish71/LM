@@ -1,0 +1,7 @@
+BATCH,,201112,B,174.0000,
+INVOICE,IN,,09910144,,12/01/2011,87.0000,"Invoice-Private",,12/01/2011,12/10/2011,,09914042MO,-6206.0000,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25.00,"Monthly Cable: Parker, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104099,31,2.0000,62.00,"Credit for Limited Term Discount: Parker, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,09910144,,12/01/2011,87,"Invoice-Private",,12/01/2011,12/10/2011,,09914042MO,-6206.0000,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"Credit for Monthly Cable: Parker, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104099,31,2,62,"Limited Term Discount: Parker, Frances",,,,,,,,,,,,,,,

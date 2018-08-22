@@ -1,0 +1,8 @@
+BATCH,,201111,B,3564.0000,
+INVOICE,IN,,53010103,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53015559MO,-4199.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,60.0000,60.00,"CR:Limited Term Di... R.Romano 201111: Romano, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,53010103,,11/01/2011,3504,"Invoice-Private",,11/01/2011,11/10/2011,,53015559MO,-4199.0000,,,,,,,,,,
+TRANSACTION,3019,010319530,1,204,204,"CR:Additional Serv... R.Romano 201111: Romano, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3240,3240,"CR:Basic Service F... R.Romano 201111: Romano, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... R.Romano 201111: Romano, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... R.Romano 201111: Romano, Ruth",,,,,,,,,,,,,,,

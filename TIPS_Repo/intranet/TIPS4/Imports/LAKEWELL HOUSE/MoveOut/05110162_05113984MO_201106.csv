@@ -1,0 +1,5 @@
+BATCH,,201106,B,1440.0000,
+INVOICE,IN,,05110162,,06/18/2011,540.0000,"Invoice-Private",,06/18/2011,06/18/2011,,05113984MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,18,30.0000,540.00,"Basic Service Fee - Second Resident for Jun: Dill,  Georgia",,,,,,,,,,,,,,,
+INVOICE,CM,,05110162,,06/18/2011,900,"Invoice-Private",,06/18/2011,06/18/2011,,05113984MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,900,900,"CR:Basic Service F...  .Dill 201106: Dill,  Georgia",,,,,,,,,,,,,,,

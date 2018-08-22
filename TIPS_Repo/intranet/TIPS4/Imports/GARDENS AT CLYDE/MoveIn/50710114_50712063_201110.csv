@@ -1,0 +1,5 @@
+BATCH,,201110,B,3710.0000,
+INVOICE,IN,,50710114,,10/06/2011,3710.0000,"MoveIn-Kern. Harold",,10/06/2011,10/06/2011,,50712063,3710.0000,,,,,,,,,,
+TRANSACTION,3010,010305507,26,64.0000,1664,"Basic Service Fee - Studio: Kern. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305507,26,21.0000,546,"Resident Care - Level 2: Kern. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305507,1,1500.0000,1500,"New Resident Fee: Kern. Harold",,,,,,,,,,,,,,,

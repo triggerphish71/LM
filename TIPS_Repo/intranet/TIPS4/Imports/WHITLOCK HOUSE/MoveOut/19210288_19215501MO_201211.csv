@@ -1,0 +1,7 @@
+BATCH,,201211,B,5148.0000,
+INVOICE,IN,,19210288,,11/09/2012,1188.0000,"Invoice-Private",,11/09/2012,11/09/2012,,19215501MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3037,010309192,9,18.0000,162.00,"Private Care Rate Adjustments for Nov: Swank, Mary ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309192,9,114.0000,1026.00,"Room and Board - Studio for Nov: Swank, Mary ",,,,,,,,,,,,,,,
+INVOICE,CM,,19210288,,11/09/2012,3960,"Invoice-Private",,11/09/2012,11/09/2012,,19215501MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3037,010309192,1,540,540,"CR:Private Care Ra... M.Swank 201211: Swank, Mary ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3420,3420,"CR:Room and Board ... M.Swank 201211: Swank, Mary ",,,,,,,,,,,,,,,

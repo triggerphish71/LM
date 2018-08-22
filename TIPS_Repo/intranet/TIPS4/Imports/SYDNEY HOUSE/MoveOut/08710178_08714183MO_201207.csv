@@ -1,0 +1,8 @@
+BATCH,,201207,B,8581.4200,
+INVOICE,IN,,08710178,,07/01/2012,1395.0000,"Invoice-Private",,07/01/2012,07/10/2012,,08714183MO,-5791.4200,,,,,,,,,,
+TRANSACTION,3320,010103087,1,62.0000,62.00,"CR:Limited Term Di... T.Brewer 201207: Brewer, Tsuneko",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103087,31,43.0000,1333.00,"Credit for Limited Term Discount: Brewer, Tsuneko",,,,,,,,,,,,,,,
+INVOICE,CM,,08710178,,07/01/2012,7186.42,"Invoice-Private",,07/01/2012,07/10/2012,,08714183MO,-5791.4200,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2635,2635,"CR:Basic Service F... T.Brewer 201207: Brewer, Tsuneko",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,3218.42,3218.42,"CR:Resident Care -... T.Brewer 201207: Brewer, Tsuneko",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103087,31,43,1333,"Limited Term Discount: Brewer, Tsuneko",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,50.0000,
+INVOICE,IN,,08210154,,08/01/2012,25.0000,"Invoice-Private",,08/01/2012,08/10/2012,,08214585MO,-1427.3200,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25.0000,25.00,"Monthly Cable: Duvall, Dirk",,,,,,,,,,,,,,,
+INVOICE,CM,,08210154,,08/01/2012,25,"Invoice-Private",,08/01/2012,08/10/2012,,08214585MO,-1427.3200,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"Credit for Monthly Cable: Duvall, Dirk",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,4402.0000,
+INVOICE,IN,,14510290,,08/16/2011,475.0000,"Invoice-Private",,08/16/2011,08/16/2011,,14515107MO,-6329.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,5,95.0000,475.00,"G.Underwood: Basic Service Fee - Studio for Aug: Underwood, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,14510290,,08/16/2011,3927,"Invoice-Private",,08/16/2011,08/16/2011,,14515107MO,-6329.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,1900,1900,"CR:G.Underwood: Ba... G.Underwood 201108: Underwood, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... G.Underwood 201108: Underwood, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308145,1,2000,2000,"CR:New Resident Fe... G.Underwood 201108: Underwood, Gary",,,,,,,,,,,,,,,

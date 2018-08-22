@@ -1,0 +1,8 @@
+BATCH,,201211,B,3964.1200,
+INVOICE,IN,,01810157,,11/08/2012,881.9200,"Invoice-Private",,11/08/2012,11/08/2012,,01812599MO,-2200.2800,,,,,,,,,,
+TRANSACTION,3320,010103018,1,60.0000,60.00,"CR:Limited Term Di... M.Davis 201211: Davis, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,8,92.0000,736.00,"Basic Service Fee - One Bedroom for Nov: Davis, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,8,10.7400,85.92,"Resident Care - Level 6 for Nov: Davis, Marcella",,,,,,,,,,,,,,,
+INVOICE,CM,,01810157,,11/08/2012,3082.2,"Invoice-Private",,11/08/2012,11/08/2012,,01812599MO,-2200.2800,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2760,2760,"CR:Basic Service F... M.Davis 201211: Davis, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,322.2,322.2,"CR:Resident Care -... M.Davis 201211: Davis, Marcella",,,,,,,,,,,,,,,

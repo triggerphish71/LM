@@ -1,0 +1,5 @@
+BATCH,,201205,B,70.0000,
+INVOICE,IN,,14410218,,05/01/2012,35.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14415094MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Warren, Minnie Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14410218,,05/01/2012,35,"Invoice-Private",,05/01/2012,05/10/2012,,14415094MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Warren, Minnie Ruth",,,,,,,,,,,,,,,

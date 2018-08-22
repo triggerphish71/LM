@@ -1,0 +1,5 @@
+BATCH,,201211,B,3060.0000,
+INVOICE,IN,,09110245,,11/06/2012,510.0000,"Invoice-Private",,11/06/2012,11/06/2012,,09115490MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,6,85.0000,510.00,"Basic Service Fee - Studio for Nov: Goodwin, Patsy",,,,,,,,,,,,,,,
+INVOICE,CM,,09110245,,11/06/2012,2550,"Invoice-Private",,11/06/2012,11/06/2012,,09115490MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... P.Goodwin 201211: Goodwin, Patsy",,,,,,,,,,,,,,,

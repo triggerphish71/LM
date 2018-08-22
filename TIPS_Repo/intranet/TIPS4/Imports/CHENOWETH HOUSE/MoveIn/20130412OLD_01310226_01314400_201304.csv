@@ -1,0 +1,5 @@
+BATCH,,201304,B,3563.1000,
+INVOICE,IN,,01310226,,04/12/2013,3563.1000,"MoveIn-Kujawski. Frances",,04/12/2013,04/12/2013,,01314400,3563.1000,,,,,,,,,,
+TRANSACTION,3010,010103013,19,72.0000,1368,"Basic Service Fee - Studio: Kujawski. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,19,62.9000,1195.1,"Resident Care - Level 34: Kujawski. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Kujawski. Frances",,,,,,,,,,,,,,,

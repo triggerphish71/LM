@@ -1,0 +1,8 @@
+BATCH,,201307,B,4335.0000,
+INVOICE,IN,,12110219,,07/19/2013,1634.0000,"Invoice-Private",,07/19/2013,07/19/2013,,12116522MO,-3768.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,19,70.0000,1330.00,"Basic Service Fee - Studio for Jul: Meyers, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,19,16.0000,304.00,"Resident Care - Level 1 for Jul: Meyers, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,12110219,,07/19/2013,2701,"Invoice-Private",,07/19/2013,07/19/2013,,12116522MO,-3768.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2170,2170,"CR:Basic Service F... R.Meyers 201307: Meyers, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... R.Meyers 201307: Meyers, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,496,496,"CR:Resident Care -... R.Meyers 201307: Meyers, Ruth",,,,,,,,,,,,,,,

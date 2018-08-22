@@ -1,0 +1,5 @@
+BATCH,,201801,B,6745.1600,
+INVOICE,IN,,35700079,,01/31/2018,6745.1600,"MoveIn-twomonth. TestMC",,01/31/2018,01/31/2018,,35710654,10545.1600,,,,,,,,,,
+TRANSACTION,3010,070009357,1,145.1600,145.16,"BSF MC Studio: twomonth. TestMC",,,,,,,,,,,,,,,
+TRANSACTION,3216,070009357,1,3300.0000,3300,"CommunityFee: twomonth. TestMC",,,,,,,,,,,,,,,
+TRANSACTION,3216,070009357,1,3300.0000,3300,"Monthly Deferral Charge: twomonth. TestMC",,,,,,,,,,,,,,,

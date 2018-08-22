@@ -1,0 +1,5 @@
+BATCH,,201205,B,186.0000,
+INVOICE,IN,,16810297,,05/01/2012,93.0000,"Invoice-Private",,05/01/2012,05/10/2012,,16816487MO,-3825.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,31,3.0000,93.00,"Credit for Limited Term Discount: Miller, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,16810297,,05/01/2012,93,"Invoice-Private",,05/01/2012,05/10/2012,,16816487MO,-3825.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,31,3,93,"Limited Term Discount: Miller, Muriel",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201110,B,4017.6000,
+INVOICE,IN,,13910200,,10/01/2011,62.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13915843MO,-3893.6000,,,,,,,,,,
+TRANSACTION,3320,010103139,1,62.0000,62.00,"CR:Limited Term Di... C.Cuthbert 201110: Cuthbert, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13910200,,10/01/2011,3955.6,"Invoice-Private",,10/01/2011,10/10/2011,,13915843MO,-3893.6000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3007,3007,"CR:Basic Service F... C.Cuthbert 201110: Cuthbert, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,948.6,948.6,"CR:Resident Care -... C.Cuthbert 201110: Cuthbert, Charles",,,,,,,,,,,,,,,

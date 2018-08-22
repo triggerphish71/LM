@@ -1,0 +1,5 @@
+BATCH,,201109,B,3484.0000,
+INVOICE,IN,,06910159,,09/15/2011,3484.0000,"MoveIn-Bibler. Reva",,09/15/2011,09/15/2011,,06913652,3484.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,16,95.0000,1520,"Basic Service Fee - One Bedroom    : Bibler. Reva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,16,29.0000,464,"Resident Care - Level 2: Bibler. Reva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1500.0000,1500,"New Resident Fee: Bibler. Reva",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,56.0000,
+INVOICE,IN,,01310166,,07/01/2011,28.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01313854MO,-3202.0000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Long, Emma Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,01310166,,07/01/2011,28,"Invoice-Private",,07/01/2011,07/10/2011,,01313854MO,-3202.0000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Long, Emma Gene",,,,,,,,,,,,,,,

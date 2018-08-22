@@ -1,0 +1,6 @@
+BATCH,,201202,B,5043.0000,
+INVOICE,IN,,13210273,,02/04/2012,5043.0000,"MoveIn-Klerner. Kathleen",,02/04/2012,02/04/2012,,13215285,5043.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,26,99.0000,2574,"Basic Service Fee - Studio: Klerner. Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,26,17.0000,442,"Resident Care - Level 1: Klerner. Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Klerner. Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Klerner. Kathleen",,,,,,,,,,,,,,,

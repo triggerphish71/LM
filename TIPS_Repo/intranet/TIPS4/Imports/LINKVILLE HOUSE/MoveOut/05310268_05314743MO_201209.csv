@@ -1,0 +1,7 @@
+BATCH,,201209,B,6124.0000,
+INVOICE,IN,,05310268,,09/01/2012,2449.6000,"Invoice-Private",,09/01/2012,09/10/2012,,05314743MO,-1224.8000,,,,,,,,,,
+TRANSACTION,3020,010101053,20,101.0000,2020.00,"Basic Service Fee - Deluxe for Sep: Teeple, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,20,21.4800,429.60,"Resident Care - Level 12 for Sep: Teeple, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,05310268,,09/01/2012,3674.4,"Invoice-Private",,09/01/2012,09/10/2012,,05314743MO,-1224.8000,,,,,,,,,,
+TRANSACTION,3020,010101053,1,3030,3030,"CR:Basic Service F... B.Teeple 201209: Teeple, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,644.4,644.4,"CR:Resident Care -... B.Teeple 201209: Teeple, Billy",,,,,,,,,,,,,,,

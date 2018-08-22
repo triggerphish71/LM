@@ -1,0 +1,5 @@
+BATCH,,201201,B,1815.0000,
+INVOICE,IN,,08010209,,01/29/2012,1815.0000,"MoveIn-Pitts. Bobbie",,01/29/2012,01/29/2012,,08014043,4626.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,3,96.0000,288,"Basic Service Fee - Studio: Pitts. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Pitts. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202080,1,1500.0000,1500,"New Resident Fee: Pitts. Bobbie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,2862.0000,
+INVOICE,IN,,03210284,,03/22/2013,1188.0000,"Invoice-Private",,03/22/2013,03/22/2013,,03215302MO,-2106.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,22,37.0000,814.00,"Basic Service Fee - Second Resident for Mar: Moorer, Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,22,17.0000,374.00,"Resident Care - Level 1 for Mar: Moorer, Darwin",,,,,,,,,,,,,,,
+INVOICE,CM,,03210284,,03/22/2013,1674,"Invoice-Private",,03/22/2013,03/22/2013,,03215302MO,-2106.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,1147,1147,"CR:Basic Service F... D.Moorer 201303: Moorer, Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,527,527,"CR:Resident Care -... D.Moorer 201303: Moorer, Darwin",,,,,,,,,,,,,,,

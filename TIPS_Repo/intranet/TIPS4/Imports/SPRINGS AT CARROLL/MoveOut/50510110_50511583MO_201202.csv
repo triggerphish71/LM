@@ -1,0 +1,7 @@
+BATCH,,201202,B,3055.0000,
+INVOICE,IN,,50510110,,02/14/2012,90.0000,"Invoice-Private",,02/14/2012,02/14/2012,,50511583MO,-5690.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,90.0000,90.00,"R.Haddick: Basic Service Fee - Studio for Feb: Haddick, Reid",,,,,,,,,,,,,,,
+INVOICE,CM,,50510110,,02/14/2012,2965,"Invoice-Private",,02/14/2012,02/14/2012,,50511583MO,-5690.0000,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... R.Haddick 201202: Haddick, Reid",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500,1500,"CR:New Resident Fe... R.Haddick 201202: Haddick, Reid",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,1,1440,1440,"CR:R.Haddick: Basi... R.Haddick 201202: Haddick, Reid",,,,,,,,,,,,,,,

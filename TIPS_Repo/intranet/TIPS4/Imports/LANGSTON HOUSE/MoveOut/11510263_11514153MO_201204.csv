@@ -1,0 +1,8 @@
+BATCH,,201204,B,4320.0000,
+INVOICE,IN,,11510263,,04/07/2012,812.0000,"Invoice-Private",,04/07/2012,04/07/2012,,11514153MO,-2696.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,7,66.0000,462.00,"E.Kelly: Basic Service Fee - Studio for Apr: Kelly, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,7,50.0000,350.00,"E.Kelly: Resident Care - Level 4 for Apr: Kelly, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,11510263,,04/07/2012,3508,"Invoice-Private",,04/07/2012,04/07/2012,,11514153MO,-2696.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1980,1980,"CR:E.Kelly: Basic ... E.Kelly 201204: Kelly, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,1500,1500,"CR:E.Kelly: Reside... E.Kelly 201204: Kelly, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... E.Kelly 201204: Kelly, Edna",,,,,,,,,,,,,,,

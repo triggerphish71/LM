@@ -1,0 +1,8 @@
+BATCH,,201202,B,7551.0000,
+INVOICE,IN,,53510201,,02/24/2012,3408.0000,"Invoice-Private",,02/24/2012,02/24/2012,,53514446MO,-5162.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,24,99.0000,2376.00,"Basic Service Fee - One Bedroom for Feb: Birringer, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,24,43.0000,1032.00,"Resident Care - Level 3 for Feb: Birringer, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,53510201,,02/24/2012,4143,"Invoice-Private",,02/24/2012,02/24/2012,,53514446MO,-5162.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2871,2871,"CR:Basic Service F... P.Birringer 201202: Birringer, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... P.Birringer 201202: Birringer, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1247,1247,"CR:Resident Care -... P.Birringer 201202: Birringer, Paul",,,,,,,,,,,,,,,

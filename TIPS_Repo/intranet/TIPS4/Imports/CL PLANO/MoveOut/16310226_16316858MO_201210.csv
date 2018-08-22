@@ -1,0 +1,7 @@
+BATCH,,201210,B,6536.0000,
+INVOICE,IN,,16310226,,10/07/2012,1204.0000,"Invoice-Private",,10/07/2012,10/07/2012,,16316858MO,-4128.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,7,98.0000,686.00,"Basic Service Fee - Studio for Oct: Nash, Verna   Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,7,74.0000,518.00,"Resident Care - Level 6 for Oct: Nash, Verna   Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,16310226,,10/07/2012,5332,"Invoice-Private",,10/07/2012,10/07/2012,,16316858MO,-4128.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3038,3038,"CR:Basic Service F... V.Nash 201210: Nash, Verna   Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,2294,2294,"CR:Resident Care -... V.Nash 201210: Nash, Verna   Lee",,,,,,,,,,,,,,,

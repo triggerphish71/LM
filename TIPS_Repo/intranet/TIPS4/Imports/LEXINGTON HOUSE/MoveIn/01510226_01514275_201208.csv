@@ -1,0 +1,7 @@
+BATCH,,201208,B,3646.4000,
+INVOICE,IN,,01510226,,07/23/2012,820.4400,"MoveIn-Lawer. Robert",,07/23/2012,07/23/2012,,01514275,3646.4000,,,,,,,,,,
+TRANSACTION,3014,010103015,9,84.0000,756,"Basic Service Fee - Studio: Lawer. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,9,7.1600,64.44,"Resident Care - Level 4: Lawer. Robert",,,,,,,,,,,,,,,
+INVOICE,IN,,01510226,,08/01/2012,2825.9600,"August_Rent-Lawer. Robert",,08/01/2012,08/10/2012,,01514275,3646.4000,,,,,,,,,,
+TRANSACTION,3010,010103015,31,84.0000,2604,"Basic Service Fee - Studio: Lawer. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,31,7.1600,221.96,"Resident Care - Level 4: Lawer. Robert",,,,,,,,,,,,,,,

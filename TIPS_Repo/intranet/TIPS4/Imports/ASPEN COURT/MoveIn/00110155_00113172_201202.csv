@@ -1,0 +1,5 @@
+BATCH,,201202,B,4087.0300,
+INVOICE,IN,,00110155,,02/01/2012,4087.0300,"February_Rent-Olsen. Mildred",,02/01/2012,02/10/2012,,00113172,6652.8000,,,,,,,,,,
+TRANSACTION,3010,010101001,29,81.0000,2349,"Basic Service Fee - One Bedroom: Olsen. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,29,59.0700,1713.03,"Resident Care - Level 33: Olsen. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Olsen. Mildred",,,,,,,,,,,,,,,

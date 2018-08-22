@@ -1,0 +1,6 @@
+BATCH,,201206,B,5024.0000,
+INVOICE,IN,,51310211,,06/04/2012,108.0000,"Invoice-Private",,06/04/2012,06/04/2012,,51313929MO,-4808.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,108.0000,108.00,"Basic Service Fee- Studio for Jun: Plantarick, William",,,,,,,,,,,,,,,
+INVOICE,CM,,51310211,,06/04/2012,4916,"Invoice-Private",,06/04/2012,06/04/2012,,51313929MO,-4808.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,2916,2916,"CR:Basic Service F... W.Plantarick 201206: Plantarick, William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310513,1,2000,2000,"CR:New Resident Fe... W.Plantarick 201206: Plantarick, William",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,2108.0000,
+INVOICE,IN,,14110198,,03/01/2012,1054.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14113655MO,-1610.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,31,34.0000,1054.00,"Credit for Limited Term Discount: Jones, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,14110198,,03/01/2012,1054,"Invoice-Private",,03/01/2012,03/10/2012,,14113655MO,-1610.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,31,34,1054,"Limited Term Discount: Jones, Lillian",,,,,,,,,,,,,,,

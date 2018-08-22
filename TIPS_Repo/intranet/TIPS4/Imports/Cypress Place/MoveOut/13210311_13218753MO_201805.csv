@@ -1,0 +1,6 @@
+BATCH,,201805,B,815.0800,
+INVOICE,IN,,13210311,,05/01/2018,787.5400,"Invoice-Private",,05/01/2018,05/10/2018,,13218753MO,-4847.0800,,,,,,,,,,
+TRANSACTION,3260,010008132,1,27.5400,27.54,"Monthly Cable: Mckeever , Annie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008132,1,760.0000,760.00,"Deferred NRF Unpaid Balance: Mckeever , Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,13210311,,05/01/2018,27.54,"Invoice-Private",,05/01/2018,05/10/2018,,13218753MO,-4847.0800,,,,,,,,,,
+TRANSACTION,3260,010008132,1,27.54,27.54,"Credit for Monthly Cable: Mckeever , Annie",,,,,,,,,,,,,,,

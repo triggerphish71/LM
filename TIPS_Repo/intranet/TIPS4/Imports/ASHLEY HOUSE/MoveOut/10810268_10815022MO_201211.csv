@@ -1,0 +1,6 @@
+BATCH,,201211,B,3870.0000,
+INVOICE,IN,,10810268,,11/01/2012,870.0000,"Invoice-Private",,11/01/2012,11/10/2012,,10815022MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,1,870.0000,870.00,"CR:Limited Term Di... T.Parrish 201211: Parrish, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,10810268,,11/01/2012,3000,"Invoice-Private",,11/01/2012,11/10/2012,,10815022MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2520,2520,"CR:Basic Service F... T.Parrish 201211: Parrish, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,480,480,"CR:Resident Care -... T.Parrish 201211: Parrish, Thelma",,,,,,,,,,,,,,,

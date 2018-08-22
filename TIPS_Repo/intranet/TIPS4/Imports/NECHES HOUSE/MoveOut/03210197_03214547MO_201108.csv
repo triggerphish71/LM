@@ -1,0 +1,7 @@
+BATCH,,201108,B,4120.0000,
+INVOICE,IN,,03210197,,08/06/2011,716.0000,"Invoice-Private",,08/06/2011,08/06/2011,,03214547MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,62.0000,62.00,"CR:Limited Term Di... L.Beinhorn 201108: Beinhorn, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,6,109.0000,654.00,"Basic Service Fee - One Bedroom for Aug: Beinhorn, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,03210197,,08/06/2011,3404,"Invoice-Private",,08/06/2011,08/06/2011,,03214547MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,3379,3379,"CR:Basic Service F... L.Beinhorn 201108: Beinhorn, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"CR:Monthly Cable... L.Beinhorn 201108: Beinhorn, Linda",,,,,,,,,,,,,,,

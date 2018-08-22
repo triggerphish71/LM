@@ -1,0 +1,5 @@
+BATCH,,201106,B,54.0000,
+INVOICE,IN,,01710104,,06/01/2011,27.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01713275MO,-2041.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Schultz, Nona",,,,,,,,,,,,,,,
+INVOICE,CM,,01710104,,06/01/2011,27,"Invoice-Private",,06/01/2011,06/10/2011,,01713275MO,-2041.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Schultz, Nona",,,,,,,,,,,,,,,

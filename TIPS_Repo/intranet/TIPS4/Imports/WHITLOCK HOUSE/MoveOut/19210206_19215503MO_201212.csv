@@ -1,0 +1,5 @@
+BATCH,,201212,B,124.0000,
+INVOICE,IN,,19210206,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,19215503MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,31,2.0000,62.00,"Credit for Limited Term Discount: Ratcliff, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,19210206,,12/01/2012,62,"Invoice-Private",,12/01/2012,12/10/2012,,19215503MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,31,2,62,"Limited Term Discount: Ratcliff, Dale",,,,,,,,,,,,,,,

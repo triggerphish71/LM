@@ -1,0 +1,7 @@
+BATCH,,201106,B,8154.0000,
+INVOICE,IN,,52510145,,06/23/2011,3624.0000,"Invoice-Private",,06/23/2011,06/23/2011,,52512189MO,-5587.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,24,122.0000,2928.00,"Basic Service Fee - Studio Deluxe for Jun: Weber, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,24,29.0000,696.00,"Resident Care - Level 2 for Jun: Weber, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,52510145,,06/23/2011,4530,"Invoice-Private",,06/23/2011,06/23/2011,,52512189MO,-5587.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3660,3660,"CR:Basic Service F... D.Weber 201106: Weber, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,870,870,"CR:Resident Care -... D.Weber 201106: Weber, Don",,,,,,,,,,,,,,,

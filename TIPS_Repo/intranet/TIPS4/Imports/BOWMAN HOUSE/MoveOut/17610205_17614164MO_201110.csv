@@ -1,0 +1,8 @@
+BATCH,,201110,B,6526.0000,
+INVOICE,IN,,17610205,,10/25/2011,2775.0000,"Invoice-Private",,10/25/2011,10/25/2011,,17614164MO,-4606.0000,,,,,,,,,,
+TRANSACTION,3027,010315176,25,42.0000,1050.00,"Resident Care - Level 3 for Oct: Hallock, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,25,69.0000,1725.00,"Room and Board - Studio for Oct: Hallock, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,17610205,,10/25/2011,3751,"Invoice-Private",,10/25/2011,10/25/2011,,17614164MO,-4606.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... C.Hallock 201110: Hallock, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1302,1302,"CR:Resident Care -... C.Hallock 201110: Hallock, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2139,2139,"CR:Room and Board ... C.Hallock 201110: Hallock, Charles",,,,,,,,,,,,,,,

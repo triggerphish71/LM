@@ -1,0 +1,7 @@
+BATCH,,201305,B,5820.0000,
+INVOICE,IN,,06510212,,05/22/2013,2813.0000,"Invoice-Private",,05/22/2013,05/22/2013,,06515258MO,-3104.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,29,60.0000,1740.00,"Basic Service Fee - Deluxe for May: Troyer, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,29,37.0000,1073.00,"Resident Care - Level 2 for May: Troyer, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,06510212,,05/22/2013,3007,"Invoice-Private",,05/22/2013,05/22/2013,,06515258MO,-3104.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1860,1860,"CR:Basic Service F... R.Troyer 201305: Troyer, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1147,1147,"CR:Resident Care -... R.Troyer 201305: Troyer, Ruth",,,,,,,,,,,,,,,

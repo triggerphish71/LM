@@ -1,0 +1,5 @@
+BATCH,,201210,B,310.0000,
+INVOICE,IN,,16810383,,10/01/2012,155.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16816862MO,-3163.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,31,5.0000,155.00,"Credit for Limited Term Discount: Ross, Sr., Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,16810383,,10/01/2012,155,"Invoice-Private",,10/01/2012,10/10/2012,,16816862MO,-3163.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,31,5,155,"Limited Term Discount: Ross, Sr., Robert",,,,,,,,,,,,,,,

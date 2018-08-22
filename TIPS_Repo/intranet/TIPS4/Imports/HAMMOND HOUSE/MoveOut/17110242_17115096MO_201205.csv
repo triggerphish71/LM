@@ -1,0 +1,8 @@
+BATCH,,201205,B,5799.0000,
+INVOICE,IN,,17110242,,05/08/2012,1184.0000,"Invoice-Private",,05/08/2012,05/08/2012,,17115096MO,-3431.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,8,94.0000,752.00,"Basic Service Fee - Studio for May: Usry, Sol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,8,54.0000,432.00,"Resident Care - Level 4 for May: Usry, Sol",,,,,,,,,,,,,,,
+INVOICE,CM,,17110242,,05/08/2012,4615,"Invoice-Private",,05/08/2012,05/08/2012,,17115096MO,-3431.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... S.Usry 201205: Usry, Sol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... S.Usry 201205: Usry, Sol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1674,1674,"CR:Resident Care -... S.Usry 201205: Usry, Sol",,,,,,,,,,,,,,,

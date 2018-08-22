@@ -1,0 +1,7 @@
+BATCH,,201106,B,3908.0000,
+INVOICE,IN,,05010170,,06/01/2011,420.0000,"Invoice-Private",,06/01/2011,06/10/2011,,05013145MO,-3129.4000,,,,,,,,,,
+TRANSACTION,3320,010101050,1,420.0000,420.00,"CR:Limited Term Di... J.Fulham 201106: Fulham, Joecille",,,,,,,,,,,,,,,
+INVOICE,CM,,05010170,,06/01/2011,3488,"Invoice-Private",,06/01/2011,06/10/2011,,05013145MO,-3129.4000,,,,,,,,,,
+TRANSACTION,3260,010101050,1,35,35,"CR:Monthly Cable... J.Fulham 201106: Fulham, Joecille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,1173,1173,"CR:Resident Care -... J.Fulham 201106: Fulham, Joecille",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101050,1,2280,2280,"CR:Room and Board ... J.Fulham 201106: Fulham, Joecille",,,,,,,,,,,,,,,

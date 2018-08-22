@@ -1,0 +1,6 @@
+BATCH,,201107,B,3133.0000,
+INVOICE,IN,,19810072,,07/01/2011,504.0000,"Invoice-Private",,07/01/2011,07/01/2011,,19816259MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,6,84.0000,504.00,"Basic Service Fee IL - Two Bedroom A for Jul: Smith, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,19810072,,07/01/2011,2629,"Invoice-Private",,07/01/2011,07/01/2011,,19816259MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2604,2604,"CR:Basic Service F... H.Smith 201107: Smith, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3299,010112198,1,25,25,"CR:Storage Unit... H.Smith 201107: Smith, Harriet",,,,,,,,,,,,,,,

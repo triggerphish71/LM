@@ -1,0 +1,8 @@
+BATCH,,201302,B,6356.0000,
+INVOICE,IN,,10710293,,02/13/2013,2828.0000,"Invoice-Private",,02/13/2013,02/13/2013,,10716622MO,-4575.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,56.0000,56.00,"CR:Limited Term Di... V.Lagergren 201302: Lagergren, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,22,98.0000,2156.00,"Basic Service Fee - Studio for Feb: Lagergren, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,22,28.0000,616.00,"Resident Care - Level 2 for Feb: Lagergren, Verne",,,,,,,,,,,,,,,
+INVOICE,CM,,10710293,,02/13/2013,3528,"Invoice-Private",,02/13/2013,02/13/2013,,10716622MO,-4575.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2744,2744,"CR:Basic Service F... V.Lagergren 201302: Lagergren, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,784,784,"CR:Resident Care -... V.Lagergren 201302: Lagergren, Verne",,,,,,,,,,,,,,,

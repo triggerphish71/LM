@@ -1,0 +1,4 @@
+BATCH,,201302,B,1120.0000,
+INVOICE,CM,,02310230,,02/01/2013,1120,"Invoice-Private",,02/01/2013,02/10/2013,,02315176MO,-1120.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,280,280,"CR:Basic Service F... M.Brown 201302: Brown, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,840,840,"CR:Resident Care -... M.Brown 201302: Brown, Mary",,,,,,,,,,,,,,,

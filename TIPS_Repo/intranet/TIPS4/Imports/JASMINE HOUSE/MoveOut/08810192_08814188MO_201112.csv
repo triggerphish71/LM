@@ -1,0 +1,6 @@
+BATCH,,201112,B,4154.0000,
+INVOICE,IN,,08810192,,12/01/2011,744.0000,"Invoice-Private",,12/01/2011,12/10/2011,,08814188MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,744.0000,744.00,"CR:Limited Term Di... M.Anderson 201112: Anderson, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,08810192,,12/01/2011,3410,"Invoice-Private",,12/01/2011,12/10/2011,,08814188MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2914,2914,"CR:Basic Service F... M.Anderson 201112: Anderson, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,496,496,"CR:Resident Care -... M.Anderson 201112: Anderson, Margaret",,,,,,,,,,,,,,,

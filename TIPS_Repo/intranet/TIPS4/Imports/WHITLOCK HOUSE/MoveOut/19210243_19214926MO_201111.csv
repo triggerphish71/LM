@@ -1,0 +1,7 @@
+BATCH,,201111,B,3937.0000,
+INVOICE,IN,,19210243,,11/01/2011,127.0000,"Invoice-Private",,11/01/2011,11/01/2011,,19214926MO,-3683.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,109.0000,109.00,"Basic Service Fee - Studio for Nov: Kalweit, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,18.0000,18.00,"Resident Care - Level 1 for Nov: Kalweit, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19210243,,11/01/2011,3810,"Invoice-Private",,11/01/2011,11/01/2011,,19214926MO,-3683.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3270,3270,"CR:Basic Service F... J.Kalweit 201111: Kalweit, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,540,540,"CR:Resident Care -... J.Kalweit 201111: Kalweit, James",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,4930.0000,
+INVOICE,IN,,06310190,,04/01/2012,1635.0000,"Invoice-Private",,04/01/2012,04/01/2012,,06314797MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,15,94.0000,1410.00,"Basic Service Fee - Deluxe for Apr: Fink, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,15,15.0000,225.00,"Resident Care - Level 1 for Apr: Fink, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,06310190,,04/01/2012,3295,"Invoice-Private",,04/01/2012,04/01/2012,,06314797MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,2820,2820,"CR:Basic Service F... H.Fink 201204: Fink, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... H.Fink 201204: Fink, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,450,450,"CR:Resident Care -... H.Fink 201204: Fink, Harry",,,,,,,,,,,,,,,

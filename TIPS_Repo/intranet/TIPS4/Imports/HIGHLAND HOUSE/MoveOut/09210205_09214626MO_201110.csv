@@ -1,0 +1,8 @@
+BATCH,,201110,B,6467.0000,
+INVOICE,IN,,09210205,,10/30/2011,3212.0000,"Invoice-Private",,10/30/2011,10/30/2011,,09214626MO,-3133.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,1,62.0000,62.00,"CR:Limited Term Di... P.Williams 201110: Williams, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,30,16.0000,480.00,"Resident Care - Level 1 for Oct: Williams, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305092,30,89.0000,2670.00,"Room and Board - Deluxe for Oct: Williams, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,09210205,,10/30/2011,3255,"Invoice-Private",,10/30/2011,10/30/2011,,09214626MO,-3133.0000,,,,,,,,,,
+TRANSACTION,3027,010305092,1,496,496,"CR:Resident Care -... P.Williams 201110: Williams, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2759,2759,"CR:Room and Board ... P.Williams 201110: Williams, Pauline",,,,,,,,,,,,,,,

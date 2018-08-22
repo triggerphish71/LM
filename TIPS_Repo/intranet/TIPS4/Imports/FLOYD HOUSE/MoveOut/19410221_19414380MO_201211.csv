@@ -1,0 +1,6 @@
+BATCH,,201211,B,4335.0000,
+INVOICE,IN,,19410221,,11/07/2012,2085.0000,"Invoice-Private",,11/07/2012,11/07/2012,,19414380MO,-165.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,60.0000,60.00,"CR:Limited Term Di... R.Powell 201211: Powell, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,27,75.0000,2025.00,"Basic Service Fee - Studio for Nov: Powell, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,19410221,,11/07/2012,2250,"Invoice-Private",,11/07/2012,11/07/2012,,19414380MO,-165.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2250,2250,"CR:Basic Service F... R.Powell 201211: Powell, Richard",,,,,,,,,,,,,,,

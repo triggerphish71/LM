@@ -1,0 +1,7 @@
+BATCH,,201105,B,3224.0000,
+INVOICE,IN,,13210224,,05/02/2011,252.0000,"Invoice-Private",,05/02/2011,05/02/2011,,13214895MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,62.0000,62.00,"CR:Limited Term Di... M.King 201105: King, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308132,2,95.0000,190.00,"Basic Service Fee - Studio for May: King, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,13210224,,05/02/2011,2972,"Invoice-Private",,05/02/2011,05/02/2011,,13214895MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2945,2945,"CR:Basic Service F... M.King 201105: King, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... M.King 201105: King, Muriel",,,,,,,,,,,,,,,

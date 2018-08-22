@@ -1,0 +1,5 @@
+BATCH,,201301,B,2487.5000,
+INVOICE,IN,,00710217,,01/22/2013,2487.5000,"MoveIn-McIntire. Viola",,01/22/2013,01/22/2013,,00713610,6652.5000,,,,,,,,,,
+TRANSACTION,3010,010101007,10,84.0000,840,"Basic Service Fee - Studio: McIntire. Viola",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,10,64.7500,647.5,"Resident Care - Level 35: McIntire. Viola",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: McIntire. Viola",,,,,,,,,,,,,,,

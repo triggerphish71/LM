@@ -1,0 +1,5 @@
+BATCH,,201305,B,2550.0000,
+INVOICE,IN,,53410323,,05/01/2013,225.0000,"Invoice-Private",,05/01/2013,05/10/2013,,53422271MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,3,75.0000,225.00,"Basic Service Fee - One Bedroom for May: Zerger, Elsbeth",,,,,,,,,,,,,,,
+INVOICE,CM,,53410323,,05/01/2013,2325,"Invoice-Private",,05/01/2013,05/10/2013,,53422271MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2325,2325,"CR:Basic Service F... E.Zerger 201305: Zerger, Elsbeth",,,,,,,,,,,,,,,

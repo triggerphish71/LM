@@ -1,0 +1,5 @@
+BATCH,,201112,B,3195.0000,
+INVOICE,IN,,06410181,,12/08/2011,3195.0000,"MoveIn-Hinkle. Mary",,12/08/2011,12/08/2011,,06413582,3195.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,24,90.0000,2160,"M.Hinkle: Basic Service Fee - Studio: Hinkle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Hinkle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305064,1,1000.0000,1000,"New Resident Fee: Hinkle. Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201105,B,4095.0000,
+INVOICE,IN,,04210151,,05/01/2011,565.0000,"Invoice-Private",,05/01/2011,05/10/2011,,04213692MO,-2965.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,5,96.0000,480.00,"Basic Service Fee - Studio for May: Wattenbarger, Ima",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,5,17.0000,85.00,"Resident Care - Level 1 for May: Wattenbarger, Ima",,,,,,,,,,,,,,,
+INVOICE,CM,,04210151,,05/01/2011,3530,"Invoice-Private",,05/01/2011,05/10/2011,,04213692MO,-2965.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2976,2976,"CR:Basic Service F... I.Wattenbarger 201105: Wattenbarger, Ima",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... I.Wattenbarger 201105: Wattenbarger, Ima",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,527,527,"CR:Resident Care -... I.Wattenbarger 201105: Wattenbarger, Ima",,,,,,,,,,,,,,,

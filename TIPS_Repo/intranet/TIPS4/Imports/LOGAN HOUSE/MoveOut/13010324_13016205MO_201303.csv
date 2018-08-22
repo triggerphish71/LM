@@ -1,0 +1,7 @@
+BATCH,,201303,B,3081.0000,
+INVOICE,IN,,13010324,,03/05/2013,632.0000,"Invoice-Private",,03/05/2013,03/05/2013,,13016205MO,-1817.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,8,60.0000,480.00,"Basic Service Fee - Studio for Mar: Troutman, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,8,19.0000,152.00,"Resident Care - Level 1 for Mar: Troutman, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,13010324,,03/05/2013,2449,"Invoice-Private",,03/05/2013,03/05/2013,,13016205MO,-1817.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,1860,1860,"CR:Basic Service F... G.Troutman 201303: Troutman, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,589,589,"CR:Resident Care -... G.Troutman 201303: Troutman, Glenn",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,7292.0000,
+INVOICE,IN,,0830458,,01/15/2013,2921.0000,"Invoice-Private",,01/15/2013,01/15/2013,,08314340MO,-4670.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,806.0000,806.00,"CR:Limited Term Di... D.Cullen 201301: Cullen, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,15,106.0000,1590.00,"Basic Service Fee - Studio for Jan: Cullen, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,15,35.0000,525.00,"Resident Care - Level 2 for Jan: Cullen, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,0830458,,01/15/2013,4371,"Invoice-Private",,01/15/2013,01/15/2013,,08314340MO,-4670.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3286,3286,"CR:Basic Service F... D.Cullen 201301: Cullen, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1085,1085,"CR:Resident Care -... D.Cullen 201301: Cullen, Dorothy",,,,,,,,,,,,,,,

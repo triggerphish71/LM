@@ -1,0 +1,8 @@
+BATCH,,201112,B,9907.0000,
+INVOICE,IN,,02210131,,12/30/2011,4860.0000,"Invoice-Private",,12/30/2011,12/30/2011,,02214184MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,30,108.0000,3240.00,"Basic Service Fee - One Bedroom Premium for Dec: Dickerson, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,30,54.0000,1620.00,"Resident Care - Level 4 for Dec: Dickerson, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,02210131,,12/30/2011,5047,"Invoice-Private",,12/30/2011,12/30/2011,,02214184MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3348,3348,"CR:Basic Service F... A.Dickerson 201112: Dickerson, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... A.Dickerson 201112: Dickerson, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,1674,1674,"CR:Resident Care -... A.Dickerson 201112: Dickerson, Annie",,,,,,,,,,,,,,,

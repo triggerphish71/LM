@@ -1,0 +1,8 @@
+BATCH,,201207,B,2440.0000,
+INVOICE,IN,,50510116,,07/10/2012,105.0000,"Invoice-Private",,07/10/2012,07/10/2012,,50511676MO,-2230.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,90.0000,90.00,"P.Boch: Basic Service Fee - Studio for Jul: Boch, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,15.0000,15.00,"P.Boch: Resident Care - Level 1 for Jul: Boch, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,50510116,,07/10/2012,2335,"Invoice-Private",,07/10/2012,07/10/2012,,50511676MO,-2230.0000,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... P.Boch 201207: Boch, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,1,1980,1980,"CR:P.Boch: Basic S... P.Boch 201207: Boch, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,330,330,"CR:P.Boch: Residen... P.Boch 201207: Boch, Patricia",,,,,,,,,,,,,,,

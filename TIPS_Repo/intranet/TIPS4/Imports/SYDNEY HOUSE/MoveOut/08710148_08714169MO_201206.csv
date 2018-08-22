@@ -1,0 +1,6 @@
+BATCH,,201206,B,4435.8000,
+INVOICE,IN,,08710148,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,08714169MO,-6295.8400,,,,,,,,,,
+TRANSACTION,3320,010103087,1,60.0000,60.00,"CR:Limited Term Di... M.Garrison 201206: Garrison, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,08710148,,06/01/2012,4375.8,"Invoice-Private",,06/01/2012,06/10/2012,,08714169MO,-6295.8400,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2550,2550,"CR:Basic Service F... M.Garrison 201206: Garrison, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1825.8,1825.8,"CR:Resident Care -... M.Garrison 201206: Garrison, Marjorie",,,,,,,,,,,,,,,

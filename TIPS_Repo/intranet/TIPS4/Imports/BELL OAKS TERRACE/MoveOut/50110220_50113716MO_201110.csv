@@ -1,0 +1,6 @@
+BATCH,,201110,B,3379.0000,
+INVOICE,IN,,50110220,,10/01/2011,310.0000,"Invoice-Private",,10/01/2011,10/10/2011,,50113716MO,-2756.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,310.0000,310.00,"CR:Limited Term Di... J.Brown 201110: Brown, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,50110220,,10/01/2011,3069,"Invoice-Private",,10/01/2011,10/10/2011,,50113716MO,-2756.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2604,2604,"CR:Basic Service F... J.Brown 201110: Brown, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,465,465,"CR:Resident Care -... J.Brown 201110: Brown, Joseph",,,,,,,,,,,,,,,

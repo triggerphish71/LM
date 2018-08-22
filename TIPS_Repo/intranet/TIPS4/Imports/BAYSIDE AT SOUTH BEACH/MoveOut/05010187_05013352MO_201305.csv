@@ -1,0 +1,7 @@
+BATCH,,201305,B,4870.4500,
+INVOICE,IN,,05010187,,05/28/2013,2311.4000,"Invoice-Private",,05/28/2013,05/28/2013,,05013352MO,-2724.1500,,,,,,,,,,
+TRANSACTION,3020,010101050,28,77.0000,2156.00,"Basic Service Fee - Studio for May: Johnson, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,28,5.5500,155.40,"Resident Care - Level 3 for May: Johnson, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,05010187,,05/28/2013,2559.05,"Invoice-Private",,05/28/2013,05/28/2013,,05013352MO,-2724.1500,,,,,,,,,,
+TRANSACTION,3020,010101050,1,2387,2387,"CR:Basic Service F... L.Johnson 201305: Johnson, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,172.05,172.05,"CR:Resident Care -... L.Johnson 201305: Johnson, Linda",,,,,,,,,,,,,,,

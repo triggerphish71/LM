@@ -1,0 +1,7 @@
+BATCH,,201108,B,5148.0000,
+INVOICE,IN,,06810217,,08/02/2011,312.0000,"Invoice-Private",,08/02/2011,08/02/2011,,06813674MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,2,82.0000,164.00,"Basic Service Fee - Studio for Aug: Soper, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,2,74.0000,148.00,"Resident Care - Level 5 for Aug: Soper, John",,,,,,,,,,,,,,,
+INVOICE,CM,,06810217,,08/02/2011,4836,"Invoice-Private",,08/02/2011,08/02/2011,,06813674MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2542,2542,"CR:Basic Service F... J.Soper 201108: Soper, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,2294,2294,"CR:Resident Care -... J.Soper 201108: Soper, John",,,,,,,,,,,,,,,

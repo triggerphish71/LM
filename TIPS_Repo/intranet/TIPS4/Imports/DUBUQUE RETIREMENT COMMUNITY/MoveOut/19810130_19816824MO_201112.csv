@@ -1,0 +1,8 @@
+BATCH,,201112,B,5529.0000,
+INVOICE,IN,,19810130,,12/08/2011,1128.0000,"Invoice-Private",,12/08/2011,12/08/2011,,19816824MO,-3273.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,8,67.0000,536.00,"Basic Service Fee AL - One Bedroom C for Dec: Wedewer, Germaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,8,74.0000,592.00,"Swan Personal Care - L4 for Dec: Wedewer, Germaine",,,,,,,,,,,,,,,
+INVOICE,CM,,19810130,,12/08/2011,4401,"Invoice-Private",,12/08/2011,12/08/2011,,19816824MO,-3273.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2077,2077,"CR:Basic Service F... G.Wedewer 201112: Wedewer, Germaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... G.Wedewer 201112: Wedewer, Germaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,2294,2294,"CR:Swan Personal C... G.Wedewer 201112: Wedewer, Germaine",,,,,,,,,,,,,,,

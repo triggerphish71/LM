@@ -1,0 +1,8 @@
+BATCH,,201804,B,5449.3300,
+INVOICE,IN,,34900104,,04/11/2018,2209.3300,"Invoice-Private",,04/11/2018,04/11/2018,,34912178MO,-4378.6700,,,,,,,,,,
+TRANSACTION,3017,070027349,2,21.0000,42.00,"AL level care - 04-03-2018: Jacobson, John",,,,,,,,,,,,,,,
+TRANSACTION,3010,070027349,2,87.0000,174.00,"Studio - 04-03-2018: Jacobson, John",,,,,,,,,,,,,,,
+TRANSACTION,3010,070027349,1,1993.3333,1993.33,"Basic Service Fee - MC Studio: Jacobson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,34900104,,04/11/2018,3240,"Invoice-Private",,04/11/2018,04/11/2018,,34912178MO,-4378.6700,,,,,,,,,,
+TRANSACTION,3027,070027349,1,630,630,"CR:Resident Care -... J.Jacobson 201804: Jacobson, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,070027349,1,2610,2610,"CR:Studio... J.Jacobson 201804: Jacobson, John",,,,,,,,,,,,,,,

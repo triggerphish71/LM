@@ -1,0 +1,5 @@
+BATCH,,201206,B,54.0000,
+INVOICE,IN,,51110125,,06/01/2012,27.0000,"Invoice-Private",,06/01/2012,06/10/2012,,51112445MO,-3996.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Watkins, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,51110125,,06/01/2012,27,"Invoice-Private",,06/01/2012,06/10/2012,,51112445MO,-3996.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Watkins, Joan",,,,,,,,,,,,,,,

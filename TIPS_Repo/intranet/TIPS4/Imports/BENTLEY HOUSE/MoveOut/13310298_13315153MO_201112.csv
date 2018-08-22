@@ -1,0 +1,7 @@
+BATCH,,201112,B,876.0000,
+INVOICE,IN,,13310298,,12/01/2011,438.0000,"Invoice-Private",,12/01/2011,12/10/2011,,13315153MO,-3441.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Frye, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,31,13.0000,403.00,"Credit for Limited Term Discount: Frye, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,13310298,,12/01/2011,438,"Invoice-Private",,12/01/2011,12/10/2011,,13315153MO,-3441.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Frye, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,31,13,403,"Limited Term Discount: Frye, Harold",,,,,,,,,,,,,,,

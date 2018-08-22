@@ -1,0 +1,4 @@
+BATCH,,201110,B,3392.0000,
+INVOICE,IN,,07110152,,10/10/2011,3392.0000,"MoveIn-Lingrel. Alice",,10/10/2011,10/10/2011,,07114030,3392.0000,,,,,,,,,,
+TRANSACTION,3010,010305071,22,86.0000,1892,"Basic Service Fee - Studio         : Lingrel. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305071,1,1500.0000,1500,"New Resident Fee: Lingrel. Alice",,,,,,,,,,,,,,,

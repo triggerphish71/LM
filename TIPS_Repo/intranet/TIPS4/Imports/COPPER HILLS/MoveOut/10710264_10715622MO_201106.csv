@@ -1,0 +1,8 @@
+BATCH,,201106,B,6499.0000,
+INVOICE,IN,,10710264,,06/17/2011,2389.0000,"Invoice-Private",,06/17/2011,06/17/2011,,10715622MO,-5906.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,60.0000,60.00,"CR:Limited Term Di... F.Jones 201106: Jones, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,17,109.0000,1853.00,"Basic Service Fee - One Bedroom for Jun: Jones, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,17,28.0000,476.00,"Resident Care - Level 2 for Jun: Jones, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,10710264,,06/17/2011,4110,"Invoice-Private",,06/17/2011,06/17/2011,,10715622MO,-5906.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3270,3270,"CR:Basic Service F... F.Jones 201106: Jones, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,840,840,"CR:Resident Care -... F.Jones 201106: Jones, Floyd",,,,,,,,,,,,,,,

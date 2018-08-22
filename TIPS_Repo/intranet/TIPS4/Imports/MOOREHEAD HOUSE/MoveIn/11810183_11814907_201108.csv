@@ -1,0 +1,5 @@
+BATCH,,201108,B,4632.0000,
+INVOICE,IN,,11810183,,08/05/2011,4632.0000,"MoveIn-Smith. Noami",,08/05/2011,08/05/2011,,11814907,4632.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,27,96.0000,2592,"Basic Service Fee - Studio         : Smith. Noami",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Smith. Noami",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2000.0000,2000,"New Resident Fee: Smith. Noami",,,,,,,,,,,,,,,

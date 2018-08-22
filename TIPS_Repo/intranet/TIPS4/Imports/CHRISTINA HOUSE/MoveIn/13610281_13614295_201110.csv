@@ -1,0 +1,5 @@
+BATCH,,201110,B,1291.0000,
+INVOICE,IN,,13610281,,10/28/2011,1291.0000,"MoveIn-Eaton. Charles",,10/28/2011,10/28/2011,,13614295,3246.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,4,64.0000,256,"Basic Service Fee - One Bedroom: Eaton. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Eaton. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Eaton. Charles",,,,,,,,,,,,,,,

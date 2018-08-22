@@ -1,0 +1,5 @@
+BATCH,,201107,B,2183.0000,
+INVOICE,IN,,50910106,,07/06/2011,354.0000,"Invoice-Private",,07/06/2011,07/06/2011,,50912667MO,-1475.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,6,59.0000,354.00,"Basic Service Fee - One Bedroom for Jul: Richardson, June",,,,,,,,,,,,,,,
+INVOICE,CM,,50910106,,07/06/2011,1829,"Invoice-Private",,07/06/2011,07/06/2011,,50912667MO,-1475.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1829,1829,"CR:Basic Service F... J.Richardson 201107: Richardson, June",,,,,,,,,,,,,,,

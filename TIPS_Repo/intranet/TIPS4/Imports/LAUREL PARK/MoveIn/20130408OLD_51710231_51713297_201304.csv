@@ -1,0 +1,5 @@
+BATCH,,201304,B,3756.0000,
+INVOICE,IN,,51710231,,04/08/2013,3756.0000,"MoveIn-Fairchild. John",,04/08/2013,04/08/2013,,51713297,3756.0000,,,,,,,,,,
+TRANSACTION,3010,010103517,23,97.0000,2231,"Basic Service Fee - Studio Deluxe: Fairchild. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Fairchild. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,1500.0000,1500,"New Resident Fee: Fairchild. John",,,,,,,,,,,,,,,

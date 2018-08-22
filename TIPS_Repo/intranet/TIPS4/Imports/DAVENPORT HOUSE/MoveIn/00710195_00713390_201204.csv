@@ -1,0 +1,5 @@
+BATCH,,201204,B,3892.7500,
+INVOICE,IN,,00710195,,04/02/2012,3892.7500,"MoveIn-McEwen. Blannie",,04/02/2012,04/02/2012,,00713390,3892.7500,,,,,,,,,,
+TRANSACTION,3010,010101007,29,55.0000,1595,"Basic Service Fee - Studio: McEwen. Blannie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,29,44.7500,1297.75,"Resident Care - Level 25: McEwen. Blannie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: McEwen. Blannie",,,,,,,,,,,,,,,

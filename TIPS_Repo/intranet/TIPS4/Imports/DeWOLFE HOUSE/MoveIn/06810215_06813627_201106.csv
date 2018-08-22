@@ -1,0 +1,5 @@
+BATCH,,201106,B,3082.0000,
+INVOICE,IN,,06810215,,06/17/2011,3082.0000,"MoveIn-Bell. Paul",,06/17/2011,06/17/2011,,06813627,3082.0000,,,,,,,,,,
+TRANSACTION,3010,010305068,14,82.0000,1148,"Basic Service Fee - Studio         : Bell. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305068,14,31.0000,434,"Resident Care - Level 2: Bell. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305068,1,1500.0000,1500,"New Resident Fee: Bell. Paul",,,,,,,,,,,,,,,

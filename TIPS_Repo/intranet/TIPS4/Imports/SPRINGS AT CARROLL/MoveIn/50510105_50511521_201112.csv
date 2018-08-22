@@ -1,0 +1,6 @@
+BATCH,,201112,B,4565.0000,
+INVOICE,IN,,50510105,,12/01/2011,4565.0000,"MoveIn-Cline. Tom",,12/01/2011,12/01/2011,,50511521,4565.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,31,90.0000,2790,"T.Cline: Basic Service Fee - Studio: Cline. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Cline. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Cline. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3213,010305505,1,250.0000,250,"Pet Fee: Cline. Tom",,,,,,,,,,,,,,,

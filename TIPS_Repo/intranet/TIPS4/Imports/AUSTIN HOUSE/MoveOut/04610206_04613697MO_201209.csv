@@ -1,0 +1,7 @@
+BATCH,,201209,B,7788.0000,
+INVOICE,IN,,04610206,,09/02/2012,3828.0000,"Invoice-Private",,09/02/2012,09/02/2012,,04613697MO,-132.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,29,100.0000,2900.00,"Basic Service Fee - Studio for Sep: Alexander, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,29,32.0000,928.00,"Resident Care - Level 2 for Sep: Alexander, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,04610206,,09/02/2012,3960,"Invoice-Private",,09/02/2012,09/02/2012,,04613697MO,-132.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,3000,3000,"CR:Basic Service F... L.Alexander 201209: Alexander, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,960,960,"CR:Resident Care -... L.Alexander 201209: Alexander, Lois",,,,,,,,,,,,,,,

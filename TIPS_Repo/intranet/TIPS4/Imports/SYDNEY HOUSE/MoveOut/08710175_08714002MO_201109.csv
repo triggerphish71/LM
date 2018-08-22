@@ -1,0 +1,8 @@
+BATCH,,201109,B,3169.2000,
+INVOICE,IN,,08710175,,09/01/2011,505.2000,"Invoice-Private",,09/01/2011,09/10/2011,,08714002MO,-2158.8000,,,,,,,,,,
+TRANSACTION,3320,010103087,1,150.0000,150.00,"CR:Limited Term Di... G.Richardson 201109: Richardson, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103087,4,82.0000,328.00,"Basic Service Fee - Studio for Sep: Richardson, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,4,6.8000,27.20,"Resident Care - Level 4 for Sep: Richardson, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,08710175,,09/01/2011,2664,"Invoice-Private",,09/01/2011,09/10/2011,,08714002MO,-2158.8000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2460,2460,"CR:Basic Service F... G.Richardson 201109: Richardson, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,204,204,"CR:Resident Care -... G.Richardson 201109: Richardson, Geraldine",,,,,,,,,,,,,,,

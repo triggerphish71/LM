@@ -1,0 +1,7 @@
+BATCH,,201201,B,3417.0000,
+INVOICE,IN,,12610238,,12/31/2011,50.0000,"Invoice-Private",,12/31/2011,12/31/2011,,12614894MO,-3317.0000,,,,,,,,,,
+TRANSACTION,3150,010211126,1,50.0000,50.00,"Late Fee Adjustment: VanHouse, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,12610238,,12/31/2011,50,"Invoice-Private",,12/31/2011,12/31/2011,,12614894MO,-3317.0000,,,,,,,,,,
+TRANSACTION,3150,010211126,1,50,50,"Late Fee Adjustment: VanHouse, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,12610238,,01/01/2012,3317,"Invoice-Private",,01/01/2012,01/10/2012,,12614894MO,-3317.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3317,3317,"CR:Basic Service F... M.VanHouse 201201: VanHouse, Mildred",,,,,,,,,,,,,,,

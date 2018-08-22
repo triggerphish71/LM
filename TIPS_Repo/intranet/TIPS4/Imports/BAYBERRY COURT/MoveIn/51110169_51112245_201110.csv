@@ -1,0 +1,6 @@
+BATCH,,201110,B,5499.0000,
+INVOICE,IN,,51110169,,10/04/2011,5499.0000,"MoveIn-Yusko. Florence",,10/04/2011,10/04/2011,,51112245,5499.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,28,105.0000,2940,"F.Yusko: Basic Service Fee - Studio: Yusko. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,28,19.0000,532,"F.Yusko: Resident Care - Level 1: Yusko. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Yusko. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310511,1,2000.0000,2000,"New Resident Fee: Yusko. Florence",,,,,,,,,,,,,,,

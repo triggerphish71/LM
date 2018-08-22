@@ -1,0 +1,7 @@
+BATCH,,201210,B,5610.0000,
+INVOICE,IN,,15710244,,10/14/2012,2200.0000,"Invoice-Private",,10/14/2012,10/14/2012,,15714754MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3027,010309157,20,18.0000,360.00,"Resident Care - Level 1 for Oct: Shoda, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,20,92.0000,1840.00,"Room and Board - Studio for Oct: Shoda, William",,,,,,,,,,,,,,,
+INVOICE,CM,,15710244,,10/14/2012,3410,"Invoice-Private",,10/14/2012,10/14/2012,,15714754MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3027,010309157,1,558,558,"CR:Resident Care -... W.Shoda 201210: Shoda, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Room and Board ... W.Shoda 201210: Shoda, William",,,,,,,,,,,,,,,

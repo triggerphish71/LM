@@ -1,0 +1,6 @@
+BATCH,,201108,B,3643.0000,
+INVOICE,IN,,03610201,,08/01/2011,636.0000,"Invoice-Private",,08/01/2011,08/10/2011,,03614750MO,-2371.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,248.0000,248.00,"CR:Limited Term Di... M.Hayes 201108: Hayes, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202036,4,97.0000,388.00,"Room and Board - Studio for Aug: Hayes, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,03610201,,08/01/2011,3007,"Invoice-Private",,08/01/2011,08/10/2011,,03614750MO,-2371.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3007,3007,"CR:Room and Board ... M.Hayes 201108: Hayes, Marie",,,,,,,,,,,,,,,

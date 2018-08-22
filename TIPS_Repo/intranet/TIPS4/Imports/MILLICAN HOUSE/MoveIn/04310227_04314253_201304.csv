@@ -1,0 +1,5 @@
+BATCH,,201304,B,2070.0000,
+INVOICE,IN,,04310227,,04/26/2013,2070.0000,"MoveIn-Ponzio. Sam",,04/26/2013,04/26/2013,,04314253,5604.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,5,98.0000,490,"Basic Service Fee - Studio: Ponzio. Sam",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,5,16.0000,80,"Resident Care - Level 1: Ponzio. Sam",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Ponzio. Sam",,,,,,,,,,,,,,,

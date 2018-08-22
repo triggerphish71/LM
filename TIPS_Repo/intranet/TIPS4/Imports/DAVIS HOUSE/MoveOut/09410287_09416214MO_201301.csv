@@ -1,0 +1,5 @@
+BATCH,,201301,B,2356.0000,
+INVOICE,IN,,09410287,,01/01/2013,1178.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09416214MO,-1762.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,31,38.0000,1178.00,"Credit for Limited Term Discount: Parsons, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,09410287,,01/01/2013,1178,"Invoice-Private",,01/01/2013,01/10/2013,,09416214MO,-1762.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,31,38,1178,"Limited Term Discount: Parsons, Evelyn",,,,,,,,,,,,,,,

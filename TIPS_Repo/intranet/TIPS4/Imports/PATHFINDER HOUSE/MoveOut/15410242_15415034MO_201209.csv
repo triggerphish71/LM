@@ -1,0 +1,7 @@
+BATCH,,201209,B,490.0000,
+INVOICE,IN,,15410242,,09/01/2012,245.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15415034MO,-4361.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Buresh, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3312,010211154,30,7.0000,210.00,"Credit for Two Room Rental Discount: Buresh, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,15410242,,09/01/2012,245,"Invoice-Private",,09/01/2012,09/10/2012,,15415034MO,-4361.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Buresh, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3312,010211154,30,7,210,"Two Room Rental Discount: Buresh, Larry",,,,,,,,,,,,,,,

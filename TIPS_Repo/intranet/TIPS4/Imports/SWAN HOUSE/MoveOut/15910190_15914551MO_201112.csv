@@ -1,0 +1,8 @@
+BATCH,,201112,B,8037.0000,
+INVOICE,IN,,15910190,,12/01/2011,3140.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15914551MO,-1757.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,20,113.0000,2260.00,"Basic Service Fee- One Bedroom Prem for Dec: Clemsen, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,20,44.0000,880.00,"Swan Personal Care - L3 for Dec: Clemsen, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,15910190,,12/01/2011,4897,"Invoice-Private",,12/01/2011,12/10/2011,,15914551MO,-1757.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3503,3503,"CR:Basic Service F... V.Clemsen 201112: Clemsen, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... V.Clemsen 201112: Clemsen, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,1364,1364,"CR:Swan Personal C... V.Clemsen 201112: Clemsen, Virgil",,,,,,,,,,,,,,,

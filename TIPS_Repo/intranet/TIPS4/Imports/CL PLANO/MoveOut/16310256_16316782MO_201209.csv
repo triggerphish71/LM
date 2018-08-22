@@ -1,0 +1,7 @@
+BATCH,,201209,B,2094.0000,
+INVOICE,IN,,16310256,,09/01/2012,1047.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16316782MO,-1618.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Neubauer, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,30,34.0000,1020.00,"Credit for Limited Term Discount: Neubauer, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,16310256,,09/01/2012,1047,"Invoice-Private",,09/01/2012,09/10/2012,,16316782MO,-1618.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Neubauer, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,30,34,1020,"Limited Term Discount: Neubauer, Rita",,,,,,,,,,,,,,,

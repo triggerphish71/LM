@@ -1,0 +1,7 @@
+BATCH,,201305,B,5508.0000,
+INVOICE,IN,,03210200,,05/13/2013,2160.0000,"Invoice-Private",,05/13/2013,05/13/2013,,03215356MO,-1188.0000,,,,,,,,,,
+TRANSACTION,3027,010202032,20,53.0000,1060.00,"Resident Care - Level 4 for May: Glidden, Alliene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,20,55.0000,1100.00,"Room and Board - Studio for May: Glidden, Alliene",,,,,,,,,,,,,,,
+INVOICE,CM,,03210200,,05/13/2013,3348,"Invoice-Private",,05/13/2013,05/13/2013,,03215356MO,-1188.0000,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1643,1643,"CR:Resident Care -... A.Glidden 201305: Glidden, Alliene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,1,1705,1705,"CR:Room and Board ... A.Glidden 201305: Glidden, Alliene",,,,,,,,,,,,,,,

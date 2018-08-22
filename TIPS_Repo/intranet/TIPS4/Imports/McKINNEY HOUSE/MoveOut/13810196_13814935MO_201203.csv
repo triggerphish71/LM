@@ -1,0 +1,7 @@
+BATCH,,201203,B,7200.0000,
+INVOICE,IN,,13810196,,03/09/2012,1620.0000,"Invoice-Private",,03/09/2012,03/09/2012,,13814935MO,-9360.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,9,96.0000,864.00,"Basic Service Fee - Studio for Mar: Schlaug, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,9,84.0000,756.00,"Resident Care - Level 6 for Mar: Schlaug, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,13810196,,03/09/2012,5580,"Invoice-Private",,03/09/2012,03/09/2012,,13814935MO,-9360.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... M.Schlaug 201203: Schlaug, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,2604,2604,"CR:Resident Care -... M.Schlaug 201203: Schlaug, Marilyn",,,,,,,,,,,,,,,

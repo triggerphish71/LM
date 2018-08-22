@@ -1,0 +1,5 @@
+BATCH,,201205,B,3999.0000,
+INVOICE,CM,,17610289,,05/01/2012,3999,"Invoice-Private",,05/01/2012,05/10/2012,,17614449MO,-3999.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... G.White 201205: White, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,496,496,"CR:Resident Care -... G.White 201205: White, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,3193,3193,"CR:Room and Board ... G.White 201205: White, Gordon",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,5610.0000,
+INVOICE,IN,,10810236,,08/20/2011,2200.0000,"Invoice-Private",,08/20/2011,08/20/2011,,10814585MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3027,010308108,20,26.0000,520.00,"Resident Care - Level 2 for Aug: Scurry, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,20,84.0000,1680.00,"Room and Board - Studio for Aug: Scurry, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,10810236,,08/20/2011,3410,"Invoice-Private",,08/20/2011,08/20/2011,,10814585MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3027,010308108,1,806,806,"CR:Resident Care -... W.Scurry 201108: Scurry, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Room and Board ... W.Scurry 201108: Scurry, Wilbur",,,,,,,,,,,,,,,

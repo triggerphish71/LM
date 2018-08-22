@@ -1,0 +1,6 @@
+BATCH,,201109,B,5539.0000,
+INVOICE,IN,,13310361,,09/07/2011,5539.0000,"MoveIn-Kawana. Eugene",,09/07/2011,09/07/2011,,13315082,5539.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,24,89.0000,2136,"Basic Service Fee - Studio         : Kawana. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,24,57.0000,1368,"Resident Care - Level 4: Kawana. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Kawana. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Kawana. Eugene",,,,,,,,,,,,,,,

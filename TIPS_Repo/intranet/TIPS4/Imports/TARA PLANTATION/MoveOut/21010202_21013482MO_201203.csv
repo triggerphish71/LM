@@ -1,0 +1,7 @@
+BATCH,,201203,B,7500.0000,
+INVOICE,IN,,21010202,,03/03/2012,3625.0000,"Invoice-Private",,03/03/2012,03/03/2012,,21013482MO,-250.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,29,31.0000,899.00,"Resident Care - Level 3 for Mar: Tanner, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,29,94.0000,2726.00,"Studio for Mar: Tanner, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,21010202,,03/03/2012,3875,"Invoice-Private",,03/03/2012,03/03/2012,,21013482MO,-250.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,961,961,"CR:Resident Care -... C.Tanner 201203: Tanner, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... C.Tanner 201203: Tanner, Carolyn",,,,,,,,,,,,,,,

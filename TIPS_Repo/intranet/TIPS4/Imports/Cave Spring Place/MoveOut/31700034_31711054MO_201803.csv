@@ -1,0 +1,8 @@
+BATCH,,201803,B,6298.0000,
+INVOICE,IN,,31700034,,03/15/2018,2485.0000,"Invoice-Private",,03/15/2018,03/15/2018,,31711054MO,-3818.0000,,,,,,,,,,
+TRANSACTION,3017,070026317,15,23.0000,345.00," Level Care:  1 : Lundy, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3027,070026317,1,1240.0000,1240.00,"CR:Resident Care L... K.Lundy 201803: Lundy, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,15,60.0000,900.00,"Studio  for Mar: Lundy, Katie",,,,,,,,,,,,,,,
+INVOICE,CM,,31700034,,03/15/2018,3813,"Invoice-Private",,03/15/2018,03/15/2018,,31711054MO,-3818.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,1,1953,1953,"CR:Resident Care -... K.Lundy 201803: Lundy, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,1,1860,1860,"CR:Studio... K.Lundy 201803: Lundy, Katie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,4339.0000,
+INVOICE,IN,,53310246,,01/06/2012,4339.0000,"MoveIn-Friedel. Cleora",,01/06/2012,01/06/2012,,53314267,4339.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,26,89.0000,2314,"Basic Service Fee - Studio: Friedel. Cleora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Friedel. Cleora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319533,1,2000.0000,2000,"New Resident Fee: Friedel. Cleora",,,,,,,,,,,,,,,

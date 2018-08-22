@@ -1,0 +1,5 @@
+BATCH,,201107,B,4393.5400,
+INVOICE,IN,,09510092,,07/01/2011,2196.7700,"Invoice-Medicaid",,07/01/2011,07/10/2011,,09514397MO,-5243.8000,,,,,,,,,,
+TRANSACTION,3012,010103095,1,2196.7700,2196.77,"State Medicaid: Ashenbrenner, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,09510092,,07/01/2011,2196.77,"Invoice-Medicaid",,07/01/2011,07/10/2011,,09514397MO,-5243.8000,,,,,,,,,,
+TRANSACTION,3012,010103095,1,2196.77,2196.77,"Credit for State Medicaid: Ashenbrenner, Marguerite",,,,,,,,,,,,,,,

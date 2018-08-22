@@ -1,0 +1,4 @@
+BATCH,,201707,B,1410.2500,
+INVOICE,IN,,00910321,,07/05/2017,1410.2500,"MoveIn-Parkhurst. test1",,07/05/2017,07/05/2017,,00915656,1410.2500,,,,,,,,,,
+TRANSACTION,3010,010001009,31,37.0000,1147,"Basic Service Fee - Second Resident: Parkhurst. test1",,,,,,,,,,,,,,,
+TRANSACTION,3017,010001009,27,9.7500,263.25,"Resident Care - Level 5: Parkhurst. test1",,,,,,,,,,,,,,,

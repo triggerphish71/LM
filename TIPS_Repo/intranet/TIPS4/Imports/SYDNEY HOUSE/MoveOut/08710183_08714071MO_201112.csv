@@ -1,0 +1,7 @@
+BATCH,,201112,B,3625.2000,
+INVOICE,IN,,08710183,,12/01/2011,503.5000,"Invoice-Private",,12/01/2011,12/10/2011,,08714071MO,-2618.2000,,,,,,,,,,
+TRANSACTION,3020,010103087,5,99.0000,495.00,"Basic Service Fee - One Bedroom for Dec: Steinman, Ernie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,5,1.7000,8.50,"Resident Care - Level 1 for Dec: Steinman, Ernie",,,,,,,,,,,,,,,
+INVOICE,CM,,08710183,,12/01/2011,3121.7,"Invoice-Private",,12/01/2011,12/10/2011,,08714071MO,-2618.2000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,3069,3069,"CR:Basic Service F... E.Steinman 201112: Steinman, Ernie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,52.7,52.7,"CR:Resident Care -... E.Steinman 201112: Steinman, Ernie",,,,,,,,,,,,,,,

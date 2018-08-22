@@ -1,0 +1,7 @@
+BATCH,,201204,B,1600.0000,
+INVOICE,IN,,09810241,,04/01/2012,650.0000,"Invoice-Private",,04/01/2012,04/10/2012,,09814609MO,-300.0000,,,,,,,,,,
+TRANSACTION,3320,010103098,1,600.0000,600.00,"CR:Limited Term Di... V.Mylnar 201204: Mylnar, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3150,010103098,1,50.0000,50.00,"Late Fee Adjustment: Mylnar, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,09810241,,04/01/2012,950,"Invoice-Private",,04/01/2012,04/10/2012,,09814609MO,-300.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,900,900,"CR:Basic Service F... V.Mylnar 201204: Mylnar, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3150,010103098,1,50,50,"Late Fee Adjustment: Mylnar, Violet",,,,,,,,,,,,,,,

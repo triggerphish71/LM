@@ -1,0 +1,7 @@
+BATCH,,201212,B,5076.0000,
+INVOICE,IN,,03110350,,12/08/2012,1728.0000,"Invoice-Private",,12/08/2012,12/08/2012,,03117216MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,16,39.0000,624.00,"Basic Service Fee - Second Resident for Dec: McCoy, Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,16,69.0000,1104.00,"Resident Care - Level 5 for Dec: McCoy, Glenda",,,,,,,,,,,,,,,
+INVOICE,CM,,03110350,,12/08/2012,3348,"Invoice-Private",,12/08/2012,12/08/2012,,03117216MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,1209,1209,"CR:Basic Service F... G.McCoy 201212: McCoy, Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,2139,2139,"CR:Resident Care -... G.McCoy 201212: McCoy, Glenda",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201307,B,5474.8500,
+INVOICE,IN,,05010181,,07/20/2013,2147.0000,"Invoice-Private",,07/20/2013,07/20/2013,,05013376MO,-4508.7000,,,,,,,,,,
+TRANSACTION,3020,010101050,20,50.0000,1000.00,"Basic Service Fee - Studio for Jul: Long, H W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,20,57.3500,1147.00,"Resident Care - Level 31 for Jul: Long, H W",,,,,,,,,,,,,,,
+INVOICE,CM,,05010181,,07/20/2013,3327.85,"Invoice-Private",,07/20/2013,07/20/2013,,05013376MO,-4508.7000,,,,,,,,,,
+TRANSACTION,3020,010101050,1,1550,1550,"CR:Basic Service F... H.Long 201307: Long, H W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,1777.85,1777.85,"CR:Resident Care -... H.Long 201307: Long, H W",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,4263.0000,
+INVOICE,IN,,53610218,,03/01/2013,4263.0000,"MoveIn-Raymond. Neil",,03/01/2013,03/01/2013,,53613909,4263.0000,,,,,,,,,,
+TRANSACTION,3010,010319536,31,88.0000,2728,"Basic Service Fee - Studio: Raymond. Neil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35,"Monthly Cable: Raymond. Neil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319536,1,1500.0000,1500,"New Resident Fee: Raymond. Neil",,,,,,,,,,,,,,,

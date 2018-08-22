@@ -1,0 +1,8 @@
+BATCH,,201110,B,6520.0000,
+INVOICE,IN,,50110243,,10/28/2011,3080.0000,"Invoice-Private",,10/28/2011,10/28/2011,,50113779MO,-3690.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,28,84.0000,2352.00,"Basic Service Fee - Studio for Oct: Driesch, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,28,26.0000,728.00,"Resident Care - Level 2 for Oct: Driesch, James",,,,,,,,,,,,,,,
+INVOICE,CM,,50110243,,10/28/2011,3440,"Invoice-Private",,10/28/2011,10/28/2011,,50113779MO,-3690.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2604,2604,"CR:Basic Service F... J.Driesch 201110: Driesch, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... J.Driesch 201110: Driesch, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,806,806,"CR:Resident Care -... J.Driesch 201110: Driesch, James",,,,,,,,,,,,,,,

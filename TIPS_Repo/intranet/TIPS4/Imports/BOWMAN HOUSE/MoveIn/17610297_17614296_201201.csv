@@ -1,0 +1,6 @@
+BATCH,,201201,B,2193.0000,
+INVOICE,IN,,17610297,,01/25/2012,2193.0000,"MoveIn-Clark. Esther",,01/25/2012,01/25/2012,,17614296,5064.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,7,73.0000,511,"Basic Service Fee - Studio: Clark. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,7,16.0000,112,"Resident Care - Level 1: Clark. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Clark. Esther",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,7,10.0000,70,"CC Meals: Clark. Esther",,,,,,,,,,,,,,,

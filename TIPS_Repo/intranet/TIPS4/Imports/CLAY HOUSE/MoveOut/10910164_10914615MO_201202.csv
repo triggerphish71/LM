@@ -1,0 +1,8 @@
+BATCH,,201202,B,6438.0000,
+INVOICE,IN,,10910164,,02/23/2012,3074.0000,"Invoice-Private",,02/23/2012,02/23/2012,,10914615MO,-3824.0000,,,,,,,,,,
+TRANSACTION,3320,010305109,1,58.0000,58.00,"CR:Limited Term Di... L.Beers 201202: Beers, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305109,26,83.0000,2158.00,"Basic Service Fee - Studio for Feb: Beers, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,26,33.0000,858.00,"Resident Care - Level 2 for Feb: Beers, Leland",,,,,,,,,,,,,,,
+INVOICE,CM,,10910164,,02/23/2012,3364,"Invoice-Private",,02/23/2012,02/23/2012,,10914615MO,-3824.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2407,2407,"CR:Basic Service F... L.Beers 201202: Beers, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,957,957,"CR:Resident Care -... L.Beers 201202: Beers, Leland",,,,,,,,,,,,,,,

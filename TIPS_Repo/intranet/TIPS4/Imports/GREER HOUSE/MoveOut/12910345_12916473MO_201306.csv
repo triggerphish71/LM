@@ -1,0 +1,6 @@
+BATCH,,201306,B,4146.0000,
+INVOICE,IN,,12910345,,06/12/2013,1176.0000,"Invoice-Private",,06/12/2013,06/12/2013,,12916473MO,-1794.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,12,98.0000,1176.00,"Basic Service Fee - Studio for Jun: Bucci, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,12910345,,06/12/2013,2970,"Invoice-Private",,06/12/2013,06/12/2013,,12916473MO,-1794.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2940,2940,"CR:Basic Service F... M.Bucci 201306: Bucci, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... M.Bucci 201306: Bucci, Mary",,,,,,,,,,,,,,,

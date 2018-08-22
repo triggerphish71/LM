@@ -1,0 +1,7 @@
+BATCH,,201108,B,8745.0000,
+INVOICE,IN,,17410220,,08/01/2011,3816.0000,"Invoice-Private",,08/01/2011,08/10/2011,,17413959MO,-1113.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,24,92.0000,2208.00,"Basic Service Fee - Studio for Aug: Groce, Joy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,24,67.0000,1608.00,"Resident Care - Level 5 for Aug: Groce, Joy",,,,,,,,,,,,,,,
+INVOICE,CM,,17410220,,08/01/2011,4929,"Invoice-Private",,08/01/2011,08/10/2011,,17413959MO,-1113.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2852,2852,"CR:Basic Service F... J.Groce 201108: Groce, Joy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,2077,2077,"CR:Resident Care -... J.Groce 201108: Groce, Joy",,,,,,,,,,,,,,,

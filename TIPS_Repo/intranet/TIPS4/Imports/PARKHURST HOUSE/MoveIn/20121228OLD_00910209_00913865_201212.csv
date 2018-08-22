@@ -1,0 +1,5 @@
+BATCH,,201212,B,1996.0000,
+INVOICE,IN,,00910209,,12/28/2012,1996.0000,"MoveIn-Clark. Myrtle",,12/28/2012,12/28/2012,,00913865,5840.0000,,,,,,,,,,
+TRANSACTION,3010,010101009,4,87.0000,348,"Basic Service Fee - Studio: Clark. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,4,37.0000,148,"Resident Care - Level 20: Clark. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1500.0000,1500,"New Resident Fee: Clark. Myrtle",,,,,,,,,,,,,,,

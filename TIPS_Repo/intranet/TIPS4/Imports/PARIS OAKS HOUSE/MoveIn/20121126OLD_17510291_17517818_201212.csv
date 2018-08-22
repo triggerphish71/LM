@@ -1,0 +1,5 @@
+BATCH,,201212,B,3094.0000,
+INVOICE,IN,,17510291,,12/01/2012,3094.0000,"December_Rent-Brooks. John",,12/01/2012,12/10/2012,,17517818,5114.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,31,76.0000,2356,"Basic Service Fee - Studio Deluxe: Brooks. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,31,23.0000,713,"Resident Care - Level 2: Brooks. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Brooks. John",,,,,,,,,,,,,,,

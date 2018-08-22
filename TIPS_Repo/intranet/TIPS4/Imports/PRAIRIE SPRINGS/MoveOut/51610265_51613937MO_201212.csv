@@ -1,0 +1,5 @@
+BATCH,,201212,B,1488.0000,
+INVOICE,IN,,51610265,,12/01/2012,744.0000,"Invoice-Private",,12/01/2012,12/10/2012,,51613937MO,-2325.9000,,,,,,,,,,
+TRANSACTION,3320,010103516,31,24.0000,744.00,"Credit for Limited Term Discount: Israel, Dorthey",,,,,,,,,,,,,,,
+INVOICE,CM,,51610265,,12/01/2012,744,"Invoice-Private",,12/01/2012,12/10/2012,,51613937MO,-2325.9000,,,,,,,,,,
+TRANSACTION,3320,010103516,31,24,744,"Limited Term Discount: Israel, Dorthey",,,,,,,,,,,,,,,

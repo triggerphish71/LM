@@ -1,0 +1,7 @@
+BATCH,,201212,B,2960.0000,
+INVOICE,IN,,11110333,,11/30/2012,185.0000,"MoveIn-Frazier. Virginia",,11/30/2012,11/30/2012,,11115041,2960.0000,,,,,,,,,,
+TRANSACTION,3014,010107111,1,116.0000,116,"BSF  Studio Respite: Frazier. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,1,69.0000,69,"Resident Care - Level 5: Frazier. Virginia",,,,,,,,,,,,,,,
+INVOICE,IN,,11110333,,12/01/2012,2775.0000,"December_Rent-Frazier. Virginia",,12/01/2012,12/10/2012,,11115041,2960.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,15,116.0000,1740,"BSF  Studio Respite: Frazier. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,15,69.0000,1035,"Resident Care - Level 5: Frazier. Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,5102.1500,
+INVOICE,IN,,01210240,,03/01/2012,5102.1500,"March_Rent-Larson. Dorothy",,03/01/2012,03/10/2012,,01213891,7613.0500,,,,,,,,,,
+TRANSACTION,3010,010103012,31,101.0000,3131,"Basic Service Fee - One Bedroom: Larson. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,31,62.6500,1942.15,"Resident Care - Level 35: Larson. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Larson. Dorothy",,,,,,,,,,,,,,,

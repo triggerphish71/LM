@@ -1,0 +1,8 @@
+BATCH,,201107,B,5616.0000,
+INVOICE,IN,,17010240,,07/11/2011,2020.0000,"Invoice-Private",,07/11/2011,07/11/2011,,17014251MO,-1576.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,1,744.0000,744.00,"CR:Limited Term Di... D.Fitzpatrick 201107: Fitzpatrick, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107170,11,90.0000,990.00,"Basic Service Fee - Studio for Jul: Fitzpatrick, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,11,26.0000,286.00,"Resident Care - Level 2 for Jul: Fitzpatrick, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,17010240,,07/11/2011,3596,"Invoice-Private",,07/11/2011,07/11/2011,,17014251MO,-1576.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,1,2790,2790,"CR:Basic Service F... D.Fitzpatrick 201107: Fitzpatrick, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,1,806,806,"CR:Resident Care -... D.Fitzpatrick 201107: Fitzpatrick, Doris",,,,,,,,,,,,,,,

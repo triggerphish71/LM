@@ -1,0 +1,5 @@
+BATCH,,201108,B,992.0000,
+INVOICE,IN,,20210137,,08/01/2011,31.0000,"Invoice-Private",,08/01/2011,08/10/2011,,20212290MO,-1426.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,31.0000,31.00,"CR:Limited Term Di... J.Bryant 201108: Bryant, Jimmie Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,20210137,,08/01/2011,961,"Invoice-Private",,08/01/2011,08/10/2011,,20212290MO,-1426.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,961,961,"CR:Second Resident... J.Bryant 201108: Bryant, Jimmie Lee",,,,,,,,,,,,,,,

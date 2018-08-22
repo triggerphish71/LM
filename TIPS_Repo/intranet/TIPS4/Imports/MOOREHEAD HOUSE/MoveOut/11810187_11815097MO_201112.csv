@@ -1,0 +1,7 @@
+BATCH,,201112,B,2432.0000,
+INVOICE,IN,,11810187,,12/01/2011,76.0000,"Invoice-Private",,12/01/2011,12/01/2011,,11815097MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,39.0000,39.00,"Basic Service Fee - Second Resident for Dec: Adamson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,37.0000,37.00,"Resident Care - Level 2 for Dec: Adamson, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,11810187,,12/01/2011,2356,"Invoice-Private",,12/01/2011,12/01/2011,,11815097MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,1209,1209,"CR:Basic Service F... G.Adamson 201112: Adamson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1147,1147,"CR:Resident Care -... G.Adamson 201112: Adamson, Gladys",,,,,,,,,,,,,,,

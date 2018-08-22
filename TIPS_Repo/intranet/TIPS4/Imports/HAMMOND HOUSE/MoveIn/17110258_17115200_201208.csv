@@ -1,0 +1,5 @@
+BATCH,,201208,B,1678.8900,
+INVOICE,IN,,17110258,,07/01/2012,167.8900,"July_Rent-lamb. mother",,07/01/2012,07/10/2012,,17115200,3418.8900,,,,,,,,,,
+TRANSACTION,3216,010308171,1,167.8900,167.89,"Monthly Deferral Charge: lamb. mother",,,,,,,,,,,,,,,
+INVOICE,CM,,17110258,,07/01/2012,1511.0000,"July_Rent-lamb. mother",,07/01/2012,07/10/2012,,17115200,3418.8900,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1511,1511,"New Resident Fee Deferred: lamb. mother",,,,,,,,,,,,,,,

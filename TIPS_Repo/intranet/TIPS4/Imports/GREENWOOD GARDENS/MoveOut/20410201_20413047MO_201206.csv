@@ -1,0 +1,7 @@
+BATCH,,201206,B,1980.0000,
+INVOICE,IN,,20410201,,06/01/2012,660.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20413047MO,-660.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,15,12.0000,180.00,"Resident Care - Level 1 for Jun: Steen, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,15,32.0000,480.00,"Second Resident for Jun: Steen, John",,,,,,,,,,,,,,,
+INVOICE,CM,,20410201,,06/01/2012,1320,"Invoice-Private",,06/01/2012,06/10/2012,,20413047MO,-660.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,360,360,"CR:Resident Care -... J.Steen 201206: Steen, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,960,960,"CR:Second Resident... J.Steen 201206: Steen, John",,,,,,,,,,,,,,,

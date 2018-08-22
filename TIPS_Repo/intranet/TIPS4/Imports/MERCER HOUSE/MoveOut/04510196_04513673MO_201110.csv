@@ -1,0 +1,7 @@
+BATCH,,201110,B,860.0000,
+INVOICE,IN,,04510196,,10/01/2011,430.0000,"Invoice-Private",,10/01/2011,10/10/2011,,04513673MO,57.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Lewis, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202045,31,13.0000,403.00,"Credit for Limited Term Discount: Lewis, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,04510196,,10/01/2011,430,"Invoice-Private",,10/01/2011,10/10/2011,,04513673MO,57.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Lewis, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202045,31,13,403,"Limited Term Discount: Lewis, Ann",,,,,,,,,,,,,,,

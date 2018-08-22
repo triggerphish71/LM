@@ -1,0 +1,5 @@
+BATCH,,201307,B,60.0000,
+INVOICE,IN,,04410268,,07/01/2013,30.0000,"Invoice-Private",,07/01/2013,07/10/2013,,04415109MO,-3042.0000,,,,,,,,,,
+TRANSACTION,3130,010202044,1,30.0000,30.00,"Pendant Fee: Holland, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,04410268,,07/01/2013,30,"Invoice-Private",,07/01/2013,07/10/2013,,04415109MO,-3042.0000,,,,,,,,,,
+TRANSACTION,3130,010202044,1,30,30,"Credit for Pendant Fee: Holland, Willie",,,,,,,,,,,,,,,

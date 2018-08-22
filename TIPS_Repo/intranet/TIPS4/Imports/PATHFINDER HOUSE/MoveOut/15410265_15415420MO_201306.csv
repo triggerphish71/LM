@@ -1,0 +1,8 @@
+BATCH,,201306,B,2345.0000,
+INVOICE,IN,,15410265,,06/11/2013,110.0000,"Invoice-Private",,06/11/2013,06/11/2013,,15415420MO,-5535.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,74.0000,74.00,"Basic Service Fee - Studio for Jun: Lane, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,36.0000,36.00,"Resident Care - Level 2 for Jun: Lane, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,15410265,,06/11/2013,2235,"Invoice-Private",,06/11/2013,06/11/2013,,15415420MO,-5535.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1480,1480,"CR:Basic Service F... D.Lane 201306: Lane, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... D.Lane 201306: Lane, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,720,720,"CR:Resident Care -... D.Lane 201306: Lane, Donna",,,,,,,,,,,,,,,

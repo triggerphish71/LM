@@ -1,0 +1,6 @@
+BATCH,,201305,B,3955.0000,
+INVOICE,IN,,12410318,,05/07/2013,3955.0000,"MoveIn-Gallop Sr.. John",,05/07/2013,05/07/2013,,12415322,3955.0000,,,,,,,,,,
+TRANSACTION,3010,010211124,25,83.0000,2075,"Basic Service Fee - Studio: Gallop Sr.. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211124,25,72.0000,1800,"Resident Care - Level 5: Gallop Sr.. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35,"Monthly Cable: Gallop Sr.. John",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211124,1,45.0000,45,"Pendant Fee: Gallop Sr.. John",,,,,,,,,,,,,,,

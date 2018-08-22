@@ -1,0 +1,7 @@
+BATCH,,201305,B,7297.2900,
+INVOICE,IN,,53410365,,05/08/2013,1496.8800,"Invoice-Private",,05/08/2013,05/08/2013,,53422295MO,-4303.5300,,,,,,,,,,
+TRANSACTION,3027,010319534,8,117.1100,936.88,"Resident Care - Level 6+9 pts for May: Schulte, June",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,8,70.0000,560.00,"Room and Board - Studio for May: Schulte, June",,,,,,,,,,,,,,,
+INVOICE,CM,,53410365,,05/08/2013,5800.41,"Invoice-Private",,05/08/2013,05/08/2013,,53422295MO,-4303.5300,,,,,,,,,,
+TRANSACTION,3027,010319534,1,3630.41,3630.41,"CR:Resident Care -... J.Schulte 201305: Schulte, June",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2170,2170,"CR:Room and Board ... J.Schulte 201305: Schulte, June",,,,,,,,,,,,,,,

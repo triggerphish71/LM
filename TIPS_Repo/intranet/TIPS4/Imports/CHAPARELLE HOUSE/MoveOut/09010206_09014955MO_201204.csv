@@ -1,0 +1,8 @@
+BATCH,,201204,B,5712.0000,
+INVOICE,IN,,09010206,,04/17/2012,2057.0000,"Invoice-Private",,04/17/2012,04/17/2012,,09014955MO,-1598.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,17,92.0000,1564.00,"Basic Service Fee - Studio for Apr: Ruffner, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,17,29.0000,493.00,"Resident Care - Level 2 for Apr: Ruffner, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,09010206,,04/17/2012,3655,"Invoice-Private",,04/17/2012,04/17/2012,,09014955MO,-1598.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Basic Service F... B.Ruffner 201204: Ruffner, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... B.Ruffner 201204: Ruffner, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,870,870,"CR:Resident Care -... B.Ruffner 201204: Ruffner, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201308,B,3040.0000,
+INVOICE,IN,,05710350,,08/01/2013,684.0000,"Invoice-Private",,08/01/2013,08/10/2013,,05716178MO,-1672.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,9,60.0000,540.00,"Basic Service Fee - Studio for Aug: Browning, Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,9,16.0000,144.00,"Resident Care - Level 1 for Aug: Browning, Blanch",,,,,,,,,,,,,,,
+INVOICE,CM,,05710350,,08/01/2013,2356,"Invoice-Private",,08/01/2013,08/10/2013,,05716178MO,-1672.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,1860,1860,"CR:Basic Service F... B.Browning 201308: Browning, Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,496,496,"CR:Resident Care -... B.Browning 201308: Browning, Blanch",,,,,,,,,,,,,,,

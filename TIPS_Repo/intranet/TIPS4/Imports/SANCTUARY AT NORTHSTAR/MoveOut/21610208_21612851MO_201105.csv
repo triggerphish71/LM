@@ -1,0 +1,8 @@
+BATCH,,201105,B,7769.0000,
+INVOICE,IN,,21610208,,05/30/2011,4514.0000,"Invoice-Private",,05/30/2011,05/30/2011,,21612851MO,-571.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,1364.0000,1364.00,"CR:Limited Term Di... M.Colston 201105: Colston, Mrs. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,30,11.0000,330.00,"Resident Care - Level 1 for May: Colston, Mrs. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,30,94.0000,2820.00,"Studio Deluxe for May: Colston, Mrs. Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610208,,05/30/2011,3255,"Invoice-Private",,05/30/2011,05/30/2011,,21612851MO,-571.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,341,341,"CR:Resident Care -... M.Colston 201105: Colston, Mrs. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2914,2914,"CR:Studio Deluxe... M.Colston 201105: Colston, Mrs. Willie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,5029.0000,
+INVOICE,IN,,17810365,,04/17/2013,1819.0000,"Invoice-Private",,04/17/2013,04/17/2013,,17816534MO,-4708.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,17,50.0000,850.00,"Basic Service Fee - Studio for Apr: Wathen, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,17,57.0000,969.00,"Swan Personal Care - L4 for Apr: Wathen, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,17810365,,04/17/2013,3210,"Invoice-Private",,04/17/2013,04/17/2013,,17816534MO,-4708.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,1500,1500,"CR:Basic Service F... M.Wathen 201304: Wathen, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,1710,1710,"CR:Swan Personal C... M.Wathen 201304: Wathen, Marion",,,,,,,,,,,,,,,

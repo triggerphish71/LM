@@ -1,0 +1,7 @@
+BATCH,,201111,B,654.0000,
+INVOICE,IN,,04210191,,11/01/2011,327.0000,"Invoice-Private",,11/01/2011,11/10/2011,,04213813MO,-1445.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Tennison, Murl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202042,30,10.0000,300.00,"Credit for Limited Term Discount: Tennison, Murl",,,,,,,,,,,,,,,
+INVOICE,CM,,04210191,,11/01/2011,327,"Invoice-Private",,11/01/2011,11/10/2011,,04213813MO,-1445.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Tennison, Murl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202042,30,10,300,"Limited Term Discount: Tennison, Murl",,,,,,,,,,,,,,,

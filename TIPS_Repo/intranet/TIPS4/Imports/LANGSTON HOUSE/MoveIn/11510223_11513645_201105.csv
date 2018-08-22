@@ -1,0 +1,6 @@
+BATCH,,201105,B,2529.0000,
+INVOICE,IN,,11510223,,05/13/2011,2529.0000,"MoveIn-Edge. Mary",,05/13/2011,05/13/2011,,11513645,2529.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,19,64.0000,1216,"Basic Service Fee - Studio         : Edge. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,19,15.0000,285,"Resident Care - Level 1: Edge. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Edge. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Edge. Mary",,,,,,,,,,,,,,,

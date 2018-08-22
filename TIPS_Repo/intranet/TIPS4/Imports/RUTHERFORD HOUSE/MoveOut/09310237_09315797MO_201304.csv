@@ -1,0 +1,7 @@
+BATCH,,201304,B,11078.0000,
+INVOICE,IN,,09310237,,04/05/2013,5348.0000,"Invoice-Private",,04/05/2013,04/05/2013,,09315797MO,-382.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,28,76.0000,2128.00,"Resident Care - Level 5 for Apr: Faist, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,28,115.0000,3220.00,"Room and Board - Deluxe for Apr: Faist, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,09310237,,04/05/2013,5730,"Invoice-Private",,04/05/2013,04/05/2013,,09315797MO,-382.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2280,2280,"CR:Resident Care -... C.Faist 201304: Faist, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3450,3450,"CR:Room and Board ... C.Faist 201304: Faist, Carl",,,,,,,,,,,,,,,

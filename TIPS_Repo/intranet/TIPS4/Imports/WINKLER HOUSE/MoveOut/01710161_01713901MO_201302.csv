@@ -1,0 +1,8 @@
+BATCH,,201302,B,4833.0000,
+INVOICE,IN,,01710161,,02/01/2013,1781.0000,"Invoice-Private",,02/01/2013,02/10/2013,,01713901MO,-1271.0000,,,,,,,,,,
+TRANSACTION,3320,010202017,1,364.0000,364.00,"CR:Limited Term Di... N.Beasly 201302: Beasly, Nettie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202017,13,93.0000,1209.00,"Basic Service Fee - Studio for Feb: Beasly, Nettie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,13,16.0000,208.00,"Resident Care - Level 1 for Feb: Beasly, Nettie",,,,,,,,,,,,,,,
+INVOICE,CM,,01710161,,02/01/2013,3052,"Invoice-Private",,02/01/2013,02/10/2013,,01713901MO,-1271.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2604,2604,"CR:Basic Service F... N.Beasly 201302: Beasly, Nettie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,448,448,"CR:Resident Care -... N.Beasly 201302: Beasly, Nettie",,,,,,,,,,,,,,,

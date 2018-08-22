@@ -1,0 +1,8 @@
+BATCH,,201201,B,3045.0000,
+INVOICE,IN,,08910078,,01/05/2012,150.9500,"Invoice-Medicaid",,01/05/2012,01/05/2012,,08914614MO,-2743.1000,,,,,,,,,,
+TRANSACTION,3021,010306089,5,6.8300,34.15,"Medicaid Co-Pay for Jan: Ore, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,5,23.3600,116.80,"Medicaid Room & Board for Jan: Ore, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,08910078,,01/05/2012,2894.05,"Invoice-Medicaid",,01/05/2012,01/05/2012,,08914614MO,-2743.1000,,,,,,,,,,
+TRANSACTION,3021,010306089,1,211.72,211.72,"CR:Medicaid Co-Pay... E.Ore 201201: Ore, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,724.05,724.05,"CR:Medicaid Room &... E.Ore 201201: Ore, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3022,010306089,1,1958.28,1958.28,"CR:State Medicaid... E.Ore 201201: Ore, Ethel",,,,,,,,,,,,,,,

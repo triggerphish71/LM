@@ -1,0 +1,7 @@
+BATCH,,201112,B,5535.0000,
+INVOICE,IN,,10710287,,12/10/2011,1722.0000,"Invoice-Private",,12/10/2011,12/10/2011,,10715954MO,-5997.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,14,95.0000,1330.00,"Basic Service Fee - Studio for Dec: Smith, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,14,28.0000,392.00,"Resident Care - Level 2 for Dec: Smith, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,10710287,,12/10/2011,3813,"Invoice-Private",,12/10/2011,12/10/2011,,10715954MO,-5997.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2945,2945,"CR:Basic Service F... J.Smith 201112: Smith, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,868,868,"CR:Resident Care -... J.Smith 201112: Smith, Janice",,,,,,,,,,,,,,,

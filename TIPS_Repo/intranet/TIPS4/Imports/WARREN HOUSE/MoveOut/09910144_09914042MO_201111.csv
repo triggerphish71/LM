@@ -1,0 +1,7 @@
+BATCH,,201111,B,4465.0000,
+INVOICE,IN,,09910144,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,09914042MO,-6206.0000,,,,,,,,,,
+TRANSACTION,3320,010104099,1,60.0000,60.00,"CR:Limited Term Di... F.Parker 201111: Parker, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,09910144,,11/01/2011,4405,"Invoice-Private",,11/01/2011,11/10/2011,,09914042MO,-6206.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,3090,3090,"CR:Basic Service F... F.Parker 201111: Parker, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... F.Parker 201111: Parker, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,1290,1290,"CR:Resident Care -... F.Parker 201111: Parker, Frances",,,,,,,,,,,,,,,

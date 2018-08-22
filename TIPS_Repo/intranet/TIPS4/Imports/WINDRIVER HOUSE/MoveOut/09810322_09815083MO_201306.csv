@@ -1,0 +1,7 @@
+BATCH,,201306,B,5905.2000,
+INVOICE,IN,,09810322,,06/08/2013,1243.2000,"Invoice-Private",,06/08/2013,06/08/2013,,09815083MO,-3418.8000,,,,,,,,,,
+TRANSACTION,3020,010103098,8,111.0000,888.00,"Basic Service Fee - One Bedroom for Jun: Lundy, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,8,44.4000,355.20,"Resident Care - Level 24 for Jun: Lundy, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,09810322,,06/08/2013,4662,"Invoice-Private",,06/08/2013,06/08/2013,,09815083MO,-3418.8000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,3330,3330,"CR:Basic Service F... G.Lundy 201306: Lundy, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1332,1332,"CR:Resident Care -... G.Lundy 201306: Lundy, Gertrude",,,,,,,,,,,,,,,

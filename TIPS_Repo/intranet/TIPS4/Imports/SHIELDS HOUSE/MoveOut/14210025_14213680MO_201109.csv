@@ -1,0 +1,6 @@
+BATCH,,201109,B,4200.0000,
+INVOICE,IN,,14210025,,09/19/2011,1615.0000,"Invoice-Private",,09/19/2011,09/19/2011,,14213680MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,19,85.0000,1615.00,"Basic Service Fee - Studio for Sep: Wintin, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,14210025,,09/19/2011,2585,"Invoice-Private",,09/19/2011,09/19/2011,,14213680MO,-3640.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2550,2550,"CR:Basic Service F... F.Wintin 201109: Wintin, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly cable... F.Wintin 201109: Wintin, Frank",,,,,,,,,,,,,,,

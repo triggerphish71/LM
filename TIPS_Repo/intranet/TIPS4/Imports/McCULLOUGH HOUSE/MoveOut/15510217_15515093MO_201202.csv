@@ -1,0 +1,7 @@
+BATCH,,201202,B,7014.0000,
+INVOICE,IN,,15510217,,02/13/2012,2171.0000,"Invoice-Private",,02/13/2012,02/13/2012,,15515093MO,-2672.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,13,89.0000,1157.00,"Basic Service Fee - Studio for Feb: Bracken, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,13,78.0000,1014.00,"Resident Care - Level 6 for Feb: Bracken, John",,,,,,,,,,,,,,,
+INVOICE,CM,,15510217,,02/13/2012,4843,"Invoice-Private",,02/13/2012,02/13/2012,,15515093MO,-2672.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2581,2581,"CR:Basic Service F... J.Bracken 201202: Bracken, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2262,2262,"CR:Resident Care -... J.Bracken 201202: Bracken, John",,,,,,,,,,,,,,,

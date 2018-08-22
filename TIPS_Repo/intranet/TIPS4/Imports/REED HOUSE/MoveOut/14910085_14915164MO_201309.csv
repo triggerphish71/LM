@@ -1,0 +1,5 @@
+BATCH,,201309,B,60.0000,
+INVOICE,IN,,14910085,,09/01/2013,30.0000,"Invoice-Private",,09/01/2013,09/10/2013,,14915164MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Krohnke, M. Burenett",,,,,,,,,,,,,,,
+INVOICE,CM,,14910085,,09/01/2013,30,"Invoice-Private",,09/01/2013,09/10/2013,,14915164MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Krohnke, M. Burenett",,,,,,,,,,,,,,,

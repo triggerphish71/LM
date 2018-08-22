@@ -1,0 +1,6 @@
+BATCH,,201304,B,2571.6000,
+INVOICE,IN,,00110174,,04/12/2013,2571.6000,"MoveIn-McDonald. Ronald",,04/12/2013,04/12/2013,,00113494,2571.6000,,,,,,,,,,
+TRANSACTION,3010,010101001,19,74.0000,1406,"Basic Service Fee - Studio: McDonald. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,19,7.4000,140.6,"Resident Care - Level 4: McDonald. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: McDonald. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: McDonald. Ronald",,,,,,,,,,,,,,,

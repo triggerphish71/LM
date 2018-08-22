@@ -1,0 +1,8 @@
+BATCH,,201111,B,4511.2000,
+INVOICE,IN,,01210223,,11/09/2011,1715.2000,"Invoice-Private",,11/09/2011,11/09/2011,,01213772MO,-1080.8000,,,,,,,,,,
+TRANSACTION,3320,010103012,1,690.0000,690.00,"CR:Limited Term Di... E.Faber 201111: Faber, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103012,11,83.0000,913.00,"Basic Service Fee - Studio for Nov: Faber, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,11,10.2000,112.20,"Resident Care - Level 6 for Nov: Faber, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,01210223,,11/09/2011,2796,"Invoice-Private",,11/09/2011,11/09/2011,,01213772MO,-1080.8000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2490,2490,"CR:Basic Service F... E.Faber 201111: Faber, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,306,306,"CR:Resident Care -... E.Faber 201111: Faber, Ellen",,,,,,,,,,,,,,,

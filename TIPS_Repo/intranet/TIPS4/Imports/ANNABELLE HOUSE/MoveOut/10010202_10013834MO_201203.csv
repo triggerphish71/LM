@@ -1,0 +1,5 @@
+BATCH,,201203,B,310.0000,
+INVOICE,IN,,10010202,,03/01/2012,155.0000,"Invoice-Private",,03/01/2012,03/10/2012,,10013834MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3320,010104100,31,5.0000,155.00,"Credit for Limited Term Discount: Tarpley, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,10010202,,03/01/2012,155,"Invoice-Private",,03/01/2012,03/10/2012,,10013834MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3320,010104100,31,5,155,"Limited Term Discount: Tarpley, Gladys",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,5681.0000,
+INVOICE,IN,,11910258,,12/08/2012,1160.0000,"Invoice-Private",,12/08/2012,12/08/2012,,11916051MO,-3361.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,8,93.0000,744.00,"Basic Service Fee - Studio for Dec: Miller, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,8,52.0000,416.00,"Resident Care - Level 3 for Dec: Miller, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,11910258,,12/08/2012,4521,"Invoice-Private",,12/08/2012,12/08/2012,,11916051MO,-3361.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2883,2883,"CR:Basic Service F... N.Miller 201212: Miller, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... N.Miller 201212: Miller, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1612,1612,"CR:Resident Care -... N.Miller 201212: Miller, Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,7620.0000,
+INVOICE,IN,,17410207,,01/29/2012,3683.0000,"Invoice-Private",,01/29/2012,01/29/2012,,17414158MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,29,95.0000,2755.00,"Basic Service Fee - Studio for Jan: Wright, Judith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,29,32.0000,928.00,"Resident Care - Level 2 for Jan: Wright, Judith",,,,,,,,,,,,,,,
+INVOICE,CM,,17410207,,01/29/2012,3937,"Invoice-Private",,01/29/2012,01/29/2012,,17414158MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... J.Wright 201201: Wright, Judith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,992,992,"CR:Resident Care -... J.Wright 201201: Wright, Judith",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,4128.0000,
+INVOICE,IN,,12610258,,05/01/2013,1152.0000,"Invoice-Private",,05/01/2013,05/10/2013,,12615263MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,12,50.0000,600.00,"Basic Service Fee - Studio for May: Heiden, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,12,46.0000,552.00,"Resident Care - Level 3 for May: Heiden, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,12610258,,05/01/2013,2976,"Invoice-Private",,05/01/2013,05/10/2013,,12615263MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,1550,1550,"CR:Basic Service F... H.Heiden 201305: Heiden, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,1426,1426,"CR:Resident Care -... H.Heiden 201305: Heiden, Herbert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201803,B,3257.0000,
+INVOICE,IN,,34200055,,03/06/2018,715.0000,"Invoice-Private",,03/06/2018,03/06/2018,,34211236MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3027,070025342,1,403.0000,403.00,"CR:Resident Care L... R.Williams 201803: Williams, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025342,6,52.0000,312.00,"Studio  for Mar: Williams, Reba",,,,,,,,,,,,,,,
+INVOICE,CM,,34200055,,03/06/2018,2542,"Invoice-Private",,03/06/2018,03/06/2018,,34211236MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3027,070025342,1,930,930,"CR:Resident Care -... R.Williams 201803: Williams, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025342,1,1612,1612,"CR:Studio... R.Williams 201803: Williams, Reba",,,,,,,,,,,,,,,

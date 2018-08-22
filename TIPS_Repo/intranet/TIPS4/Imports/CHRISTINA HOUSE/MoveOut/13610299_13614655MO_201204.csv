@@ -1,0 +1,5 @@
+BATCH,,201204,B,3311.0000,
+INVOICE,IN,,13610299,,04/01/2012,1001.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13614655MO,-1309.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,13,77.0000,1001.00,"Basic Service Fee- One Bedroom Prem for Apr: Brown, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,13610299,,04/01/2012,2310,"Invoice-Private",,04/01/2012,04/10/2012,,13614655MO,-1309.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2310,2310,"CR:Basic Service F... W.Brown 201204: Brown, Warren",,,,,,,,,,,,,,,

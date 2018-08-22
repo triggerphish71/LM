@@ -1,0 +1,7 @@
+BATCH,,201206,B,556.0000,
+INVOICE,IN,,12410254,,06/01/2012,278.0000,"Invoice-Private",,06/01/2012,06/10/2012,,12414804MO,-2491.9000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Downing, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3312,010211124,30,8.1000,243.00,"Credit for Two Room Rental Discount: Downing, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,12410254,,06/01/2012,278,"Invoice-Private",,06/01/2012,06/10/2012,,12414804MO,-2491.9000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Downing, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3312,010211124,30,8.1,243,"Two Room Rental Discount: Downing, Audrey",,,,,,,,,,,,,,,

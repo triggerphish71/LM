@@ -1,0 +1,6 @@
+BATCH,,201307,B,5025.0000,
+INVOICE,IN,,02610277,,07/20/2013,1960.0000,"Invoice-Private",,07/20/2013,07/20/2013,,02615342MO,-4170.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,20,98.0000,1960.00,"Basic Service Fee - Studio for Jul: Hollabaugh, Mary Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,02610277,,07/20/2013,3065,"Invoice-Private",,07/20/2013,07/20/2013,,02615342MO,-4170.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3038,3038,"CR:Basic Service F... M.Hollabaugh 201307: Hollabaugh, Mary Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... M.Hollabaugh 201307: Hollabaugh, Mary Louise",,,,,,,,,,,,,,,

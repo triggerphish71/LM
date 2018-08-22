@@ -1,0 +1,8 @@
+BATCH,,201206,B,7400.6000,
+INVOICE,IN,,16910210,,06/01/2012,1843.9000,"Invoice-Private",,06/01/2012,06/10/2012,,16914949MO,-3712.8000,,,,,,,,,,
+TRANSACTION,3020,010103169,10,111.0000,1110.00,"Basic Service Fee - One Bedroom for Jun: Nelson, Erline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,10,73.3900,733.90,"Resident Care - Level 41 for Jun: Nelson, Erline",,,,,,,,,,,,,,,
+INVOICE,CM,,16910210,,06/01/2012,5556.7,"Invoice-Private",,06/01/2012,06/10/2012,,16914949MO,-3712.8000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,3330,3330,"CR:Basic Service F... E.Nelson 201206: Nelson, Erline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... E.Nelson 201206: Nelson, Erline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,2201.7,2201.7,"CR:Resident Care -... E.Nelson 201206: Nelson, Erline",,,,,,,,,,,,,,,

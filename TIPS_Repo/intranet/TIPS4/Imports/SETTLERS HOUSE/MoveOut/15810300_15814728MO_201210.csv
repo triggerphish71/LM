@@ -1,0 +1,7 @@
+BATCH,,201210,B,5580.0000,
+INVOICE,IN,,15810300,,10/05/2012,775.0000,"Invoice-Private",,10/05/2012,10/05/2012,,15814728MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,5,96.0000,480.00,"Basic Service Fee - Studio for Oct: Meyer, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,5,59.0000,295.00,"Resident Care - Level 4 for Oct: Meyer, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,15810300,,10/05/2012,4805,"Invoice-Private",,10/05/2012,10/05/2012,,15814728MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... F.Meyer 201210: Meyer, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1829,1829,"CR:Resident Care -... F.Meyer 201210: Meyer, Frank",,,,,,,,,,,,,,,

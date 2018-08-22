@@ -1,0 +1,5 @@
+BATCH,,201204,B,7581.0000,
+INVOICE,IN,,19210258,,04/27/2012,3591.0000,"Invoice-Private",,04/27/2012,04/27/2012,,19215190MO,-4522.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,27,133.0000,3591.00,"Basic Service Fee - One Bedroom for Apr: Carrell, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,19210258,,04/27/2012,3990,"Invoice-Private",,04/27/2012,04/27/2012,,19215190MO,-4522.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3990,3990,"CR:Basic Service F... D.Carrell 201204: Carrell, Donald",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,2940.0000,
+INVOICE,IN,,09810245,,05/18/2013,1080.0000,"Invoice-Private",,05/18/2013,05/18/2013,,09815078MO,-2580.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,18,60.0000,1080.00,"Room and Board - Studio for May: Alburty, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,09810245,,05/18/2013,1860,"Invoice-Private",,05/18/2013,05/18/2013,,09815078MO,-2580.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,1860,1860,"CR:Room and Board ... M.Alburty 201305: Alburty, Marilyn",,,,,,,,,,,,,,,

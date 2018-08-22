@@ -1,0 +1,7 @@
+BATCH,,201306,B,120.0000,
+INVOICE,IN,,53610219,,06/01/2013,60.0000,"Invoice-Private",,06/01/2013,06/10/2013,,53613976MO,-3652.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Williams, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25.0000,25.00,"Pendant Fee: Williams, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,53610219,,06/01/2013,60,"Invoice-Private",,06/01/2013,06/10/2013,,53613976MO,-3652.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Williams, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"Credit for Pendant Fee: Williams, Robert",,,,,,,,,,,,,,,

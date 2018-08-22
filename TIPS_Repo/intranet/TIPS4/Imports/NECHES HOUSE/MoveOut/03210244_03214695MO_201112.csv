@@ -1,0 +1,8 @@
+BATCH,,201112,B,4885.0000,
+INVOICE,IN,,03210244,,12/14/2011,1512.0000,"Invoice-Private",,12/14/2011,12/14/2011,,03214695MO,-1861.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,14,91.0000,1274.00,"Basic Service Fee - Studio for Dec: Bonds, Lola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,14,17.0000,238.00,"Resident Care - Level 1 for Dec: Bonds, Lola",,,,,,,,,,,,,,,
+INVOICE,CM,,03210244,,12/14/2011,3373,"Invoice-Private",,12/14/2011,12/14/2011,,03214695MO,-1861.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2821,2821,"CR:Basic Service F... L.Bonds 201112: Bonds, Lola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"CR:Monthly Cable... L.Bonds 201112: Bonds, Lola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,527,527,"CR:Resident Care -... L.Bonds 201112: Bonds, Lola",,,,,,,,,,,,,,,

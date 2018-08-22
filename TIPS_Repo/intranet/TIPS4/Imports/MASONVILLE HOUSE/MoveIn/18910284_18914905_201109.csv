@@ -1,0 +1,6 @@
+BATCH,,201109,B,1621.0000,
+INVOICE,IN,,18910284,,09/30/2011,1621.0000,"MoveIn-Fillmore. Leon",,09/30/2011,09/30/2011,,18914905,4622.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,1,86.0000,86,"Basic Service Fee - Studio         : Fillmore. Leon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Fillmore. Leon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,1500.0000,1500,"New Tenant Fee: Fillmore. Leon",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,10.0000,10,"CC Meals: Fillmore. Leon",,,,,,,,,,,,,,,

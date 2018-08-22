@@ -1,0 +1,5 @@
+BATCH,,201201,B,2771.0000,
+INVOICE,IN,,50710117,,01/07/2012,2771.0000,"MoveIn-Williams. Mrs.",,01/07/2012,01/07/2012,,50712154,2771.0000,,,,,,,,,,
+TRANSACTION,3010,010305507,23,66.0000,1518,"Basic Service Fee - Studio: Williams. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305507,23,11.0000,253,"Resident Care - Level 1: Williams. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305507,1,1000.0000,1000,"New Resident Fee: Williams. Mrs.",,,,,,,,,,,,,,,

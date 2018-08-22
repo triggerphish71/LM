@@ -1,0 +1,7 @@
+BATCH,,201307,B,2535.0000,
+INVOICE,IN,,50110264,,07/01/2013,455.0000,"Invoice-Private",,07/01/2013,07/10/2013,,50114805MO,-1625.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,7,65.0000,455.00,"Basic Service Fee - Studio for Jul: Schaefer, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,50110264,,07/01/2013,2080,"Invoice-Private",,07/01/2013,07/10/2013,,50114805MO,-1625.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2015,2015,"CR:Basic Service F... H.Schaefer 201307: Schaefer, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... H.Schaefer 201307: Schaefer, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... H.Schaefer 201307: Schaefer, Helen",,,,,,,,,,,,,,,

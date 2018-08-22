@@ -1,0 +1,5 @@
+BATCH,,201111,B,3305.0000,
+INVOICE,IN,,50310263,,11/01/2011,3305.0000,"November_Rent-Ping. Lucille",,11/01/2011,11/10/2011,,50313818,6257.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,30,72.0000,2160,"Basic Service Fee - Studio: Ping. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,30,37.0000,1110,"Resident Care - Level 3: Ping. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Ping. Lucille",,,,,,,,,,,,,,,

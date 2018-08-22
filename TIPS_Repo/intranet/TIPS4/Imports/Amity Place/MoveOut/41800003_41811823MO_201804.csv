@@ -1,0 +1,7 @@
+BATCH,,201804,B,6554.0000,
+INVOICE,IN,,41800003,,04/28/2018,3164.0000,"Invoice-Private",,04/28/2018,04/28/2018,,41811823MO,-3759.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,28,18.0000,504.00,"Resident Care - Level 1  for Apr: Ayres, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,28,95.0000,2660.00,"Studio  for Apr: Ayres, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,41800003,,04/28/2018,3390,"Invoice-Private",,04/28/2018,04/28/2018,,41811823MO,-3759.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,1,540,540,"CR:Resident Care -... R.Ayres 201804: Ayres, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,1,2850,2850,"CR:Studio... R.Ayres 201804: Ayres, Roberta",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,5139.0000,
+INVOICE,IN,,04410256,,01/06/2012,5139.0000,"MoveIn-Tennison. Evelyn",,01/06/2012,01/06/2012,,04414595,5139.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,26,85.0000,2210,"Basic Service Fee - Studio: Tennison. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,26,54.0000,1404,"Resident Care - Level 4: Tennison. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Tennison. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Tennison. Evelyn",,,,,,,,,,,,,,,

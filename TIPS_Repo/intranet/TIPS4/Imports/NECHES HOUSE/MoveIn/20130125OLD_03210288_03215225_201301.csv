@@ -1,0 +1,6 @@
+BATCH,,201301,B,2302.0000,
+INVOICE,IN,,03210288,,01/25/2013,2302.0000,"MoveIn-Runnels. Vernon",,01/25/2013,01/25/2013,,03215225,5435.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,7,94.0000,658,"Basic Service Fee - Studio: Runnels. Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,7,17.0000,119,"Resident Care - Level 1: Runnels. Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Runnels. Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Runnels. Vernon",,,,,,,,,,,,,,,

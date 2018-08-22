@@ -1,0 +1,8 @@
+BATCH,,201204,B,4632.0000,
+INVOICE,IN,,53410071,,04/01/2012,1062.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53420709MO,-2508.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,9,79.0000,711.00,"Basic Service Fee - One Bedroom Del for Apr: Gruber, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,9,39.0000,351.00,"Resident Care - Level 1 for Apr: Gruber, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,53410071,,04/01/2012,3570,"Invoice-Private",,04/01/2012,04/10/2012,,53420709MO,-2508.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2370,2370,"CR:Basic Service F... H.Gruber 201204: Gruber, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... H.Gruber 201204: Gruber, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1170,1170,"CR:Resident Care -... H.Gruber 201204: Gruber, Harold",,,,,,,,,,,,,,,

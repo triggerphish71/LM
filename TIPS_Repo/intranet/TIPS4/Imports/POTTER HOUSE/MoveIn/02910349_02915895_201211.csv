@@ -1,0 +1,5 @@
+BATCH,,201211,B,2325.0000,
+INVOICE,IN,,02910349,,11/23/2012,2325.0000,"MoveIn-Sanders. James Liff",,11/23/2012,11/23/2012,,02915895,5450.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,8,100.0000,800,"Basic Service Fee - Studio: Sanders. James Liff",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Sanders. James Liff",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Sanders. James Liff",,,,,,,,,,,,,,,

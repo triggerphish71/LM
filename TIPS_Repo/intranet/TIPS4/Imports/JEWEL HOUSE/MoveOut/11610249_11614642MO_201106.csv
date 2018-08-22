@@ -1,0 +1,8 @@
+BATCH,,201106,B,3888.8000,
+INVOICE,IN,,11610249,,06/08/2011,3074.0000,"Invoice-Respite",,06/08/2011,06/08/2011,,11614642MO,2259.2000,,,,,,,,,,
+TRANSACTION,3020,010309116,8,116.4000,931.20,"Basic Service Fee- Respite Studio for Jun: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,8,114.0000,912.00,"P.Bircher: Basic Service Fee- Respite Studio : Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,8,52.0000,416.00,"Resident Care - Level 3 for Jun: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3315,010309116,7,116.4000,814.80,"Credit for Promotional Discount: Bircher, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,11610249,,06/08/2011,814.8,"Invoice-Respite",,06/08/2011,06/08/2011,,11614642MO,2259.2000,,,,,,,,,,
+TRANSACTION,3315,010309116,7,116.4,814.8,"Promotional Discount: Bircher, Phyllis",,,,,,,,,,,,,,,

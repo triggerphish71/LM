@@ -1,0 +1,5 @@
+BATCH,,201204,B,2848.0000,
+INVOICE,IN,,53410431,,04/01/2012,178.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53420708MO,-2492.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,2,89.0000,178.00,"A.Rohde: Basic Service Fee - Two Bedroom for Apr: Rohde, Arline",,,,,,,,,,,,,,,
+INVOICE,CM,,53410431,,04/01/2012,2670,"Invoice-Private",,04/01/2012,04/10/2012,,53420708MO,-2492.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2670,2670,"CR:A.Rohde: Basic ... A.Rohde 201204: Rohde, Arline",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,3600.0000,
+INVOICE,IN,,10610183,,05/01/2012,3600.0000,"May_Rent-Myers. Carol",,05/01/2012,05/10/2012,,10612523,5710.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,31,87.0000,2697,"Basic Service Fee - Studio: Myers. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309106,31,28.0000,868,"Resident Care - Level 2: Myers. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Myers. Carol",,,,,,,,,,,,,,,

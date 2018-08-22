@@ -1,0 +1,5 @@
+BATCH,,201205,B,4730.0000,
+INVOICE,IN,,51910174,,05/01/2012,1320.0000,"Invoice-Private",,05/01/2012,05/10/2012,,51913376MO,-2090.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,12,110.0000,1320.00,"Basic Service Fee - One Bedroom for May: Plemons, William",,,,,,,,,,,,,,,
+INVOICE,CM,,51910174,,05/01/2012,3410,"Invoice-Private",,05/01/2012,05/10/2012,,51913376MO,-2090.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3410,3410,"CR:Basic Service F... W.Plemons 201205: Plemons, William",,,,,,,,,,,,,,,

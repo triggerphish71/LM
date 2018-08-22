@@ -1,0 +1,7 @@
+BATCH,,201203,B,5719.1800,
+INVOICE,IN,,01110273,,03/01/2012,1864.9500,"Invoice-Private",,03/01/2012,03/10/2012,,01113824MO,-1989.2800,,,,,,,,,,
+TRANSACTION,3020,010101011,15,76.0000,1140.00,"Basic Service Fee - Studio for Mar: Jones, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,15,48.3300,724.95,"Resident Care - Level 27 for Mar: Jones, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,01110273,,03/01/2012,3854.23,"Invoice-Private",,03/01/2012,03/10/2012,,01113824MO,-1989.2800,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... R.Jones 201203: Jones, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,1498.23,1498.23,"CR:Resident Care -... R.Jones 201203: Jones, Ronald",,,,,,,,,,,,,,,

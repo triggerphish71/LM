@@ -1,0 +1,8 @@
+BATCH,,201107,B,7265.0000,
+INVOICE,IN,,01210165,,07/23/2011,3082.0000,"Invoice-Private",,07/23/2011,07/23/2011,,01213686MO,-5284.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,23,83.0000,1909.00,"Basic Service Fee - Studio for Jul: ONeill, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,23,51.0000,1173.00,"Resident Care - Level 30 for Jul: ONeill, David",,,,,,,,,,,,,,,
+INVOICE,CM,,01210165,,07/23/2011,4183,"Invoice-Private",,07/23/2011,07/23/2011,,01213686MO,-5284.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2573,2573,"CR:Basic Service F... D.ONeill 201107: ONeill, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... D.ONeill 201107: ONeill, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1581,1581,"CR:Resident Care -... D.ONeill 201107: ONeill, David",,,,,,,,,,,,,,,

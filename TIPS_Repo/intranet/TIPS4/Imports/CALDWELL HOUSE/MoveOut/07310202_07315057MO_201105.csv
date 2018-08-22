@@ -1,0 +1,7 @@
+BATCH,,201105,B,7240.0000,
+INVOICE,IN,,07310202,,05/09/2011,1629.0000,"Invoice-Private",,05/09/2011,05/09/2011,,07315057MO,-3982.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,9,94.0000,846.00,"Basic Service Fee - Studio for May: Snyder, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,9,87.0000,783.00,"Resident Care - Level 6 for May: Snyder, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,07310202,,05/09/2011,5611,"Invoice-Private",,05/09/2011,05/09/2011,,07315057MO,-3982.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2914,2914,"CR:Basic Service F... D.Snyder 201105: Snyder, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2697,2697,"CR:Resident Care -... D.Snyder 201105: Snyder, Don",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,3257.5700,
+INVOICE,CM,,50410028,,09/01/2011,3257.57,"Invoice-Medicaid",,09/01/2011,09/10/2011,,50413430MO,-3257.5700,,,,,,,,,,
+TRANSACTION,3021,010318504,1,369,369,"CR:Medicaid Co-Pay... M.Lindberg 201109: Lindberg, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3021,010318504,1,846,846,"CR:Medicaid Room &... M.Lindberg 201109: Lindberg, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3022,010318504,1,2042.57,2042.57,"CR:State Medicaid... M.Lindberg 201109: Lindberg, Marie",,,,,,,,,,,,,,,

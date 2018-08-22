@@ -1,0 +1,7 @@
+BATCH,,201109,B,2689.5000,
+INVOICE,IN,,01110268,,09/03/2011,244.5000,"Invoice-Private",,09/03/2011,09/03/2011,,01113733MO,-2200.5000,,,,,,,,,,
+TRANSACTION,3020,010101011,3,73.0000,219.00,"Basic Service Fee - Studio for Sep: Wooldridge, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,3,8.5000,25.50,"Resident Care - Level 5 for Sep: Wooldridge, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,01110268,,09/03/2011,2445,"Invoice-Private",,09/03/2011,09/03/2011,,01113733MO,-2200.5000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2190,2190,"CR:Basic Service F... M.Wooldridge 201109: Wooldridge, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,255,255,"CR:Resident Care -... M.Wooldridge 201109: Wooldridge, Mary",,,,,,,,,,,,,,,

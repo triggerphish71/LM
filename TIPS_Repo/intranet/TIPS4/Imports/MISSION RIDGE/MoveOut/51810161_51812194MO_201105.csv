@@ -1,0 +1,8 @@
+BATCH,,201105,B,4965.9500,
+INVOICE,IN,,51810161,,05/10/2011,1531.1500,"Invoice-Private",,05/10/2011,05/10/2011,,51812194MO,-1903.6500,,,,,,,,,,
+TRANSACTION,3316,010103518,1,423.1500,423.15,"CR:Employee Discou... R.Mace 201105: Mace, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103518,10,91.0000,910.00,"Basic Service Fee - Studio for May: Mace, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,10,19.8000,198.00,"Resident Care - Level 12 for May: Mace, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,51810161,,05/10/2011,3434.8,"Invoice-Private",,05/10/2011,05/10/2011,,51812194MO,-1903.6500,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2821,2821,"CR:Basic Service F... R.Mace 201105: Mace, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,613.8,613.8,"CR:Resident Care -... R.Mace 201105: Mace, Roger",,,,,,,,,,,,,,,

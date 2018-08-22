@@ -1,0 +1,5 @@
+BATCH,,201204,B,60.0000,
+INVOICE,IN,,16710190,,04/01/2012,30.0000,"Invoice-Private",,04/01/2012,04/10/2012,,16713760MO,-1564.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Deremer, Leo",,,,,,,,,,,,,,,
+INVOICE,CM,,16710190,,04/01/2012,30,"Invoice-Private",,04/01/2012,04/10/2012,,16713760MO,-1564.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Deremer, Leo",,,,,,,,,,,,,,,

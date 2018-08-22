@@ -1,0 +1,8 @@
+BATCH,,201212,B,6088.0000,
+INVOICE,IN,,07110159,,12/01/2012,1097.0000,"Invoice-Private",,12/01/2012,12/10/2012,,07114512MO,-3894.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,775.0000,775.00,"CR:Limited Term Di... G.Spears 201212: Spears, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,2,90.0000,180.00,"Basic Service Fee - Studio for Dec: Spears, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,2,71.0000,142.00,"Resident Care - Level 5 for Dec: Spears, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,07110159,,12/01/2012,4991,"Invoice-Private",,12/01/2012,12/10/2012,,07114512MO,-3894.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2790,2790,"CR:Basic Service F... G.Spears 201212: Spears, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,2201,2201,"CR:Resident Care -... G.Spears 201212: Spears, Gene",,,,,,,,,,,,,,,

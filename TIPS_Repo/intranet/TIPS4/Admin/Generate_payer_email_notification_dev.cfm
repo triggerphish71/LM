@@ -1,0 +1,678 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<!--- 
+| Author     | Date       | Description                                                          |
+|------------|------------|----------------------------------------------------------------------|
+|sfarmer     |03/20/2012  |  Added for deferred New Resident Fee project 75019                   |
+| sfarmer    |9/5/2012    |  corrected return link                                               |
+| sfarmer    |9/25/2012   |  96402 corrected query -qryContactPayer to pull only if date active  |
+|            |            |    between start & end date                                          |
+|sfarmer     |07/19/2013  |  Corrected phone numbers in emails #106456                           |
+|sfarmer     | 11/25/2013 | 110630 - revised email notification format & updates for eft draw amt|
+------------------------------------------------------------------------------------------------->
+ 
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+		
+		<title>Generate Secondary Payer Email Notification</title>
+		
+		<link href="Styles/Index.css" rel="stylesheet" type="text/css" />
+		<script src="JavaScript/Functions.js"></script>
+		<script src="JavaScript/ts_picker.js"></script>
+	</head>
+	<cfoutput>
+	<!--- <cfdump var="#session#"> --->
+	<cfparam name="whichdate" default="">
+	<cfparam name="CALDRAWDATE" default="">
+	<cfparam name="calDrawDate1" default="">
+	<cfparam name="calDrawDate2" default="">
+	<cfparam name="calDrawDate3" default="">
+	<cfparam name="calDrawDate4" default="">
+	<cfparam name="calDrawDate5" default="">
+	<cfparam name="amt" default="0">
+	<cfparam name="dtnextpullBegin" default="">
+	<cfparam name="dtnextpullEnd" default="">	
+	<cfparam name="thisdate" default="">
+	
+	<cfquery name="qryDate" datasource="#application.datasource#">
+		select  dtEFT1, dtEFT2, dtEFT3, dtEFT4, dtEFT5
+		from   EFTCalendar2 c  
+		where  c.cAppliesToAcctPeriod = #session.acctperiod#
+	</cfquery>
+	<!---<cfdump var="#qryDate#">--->
+	
+	<cfif 	qryDate.dtEFT5 is not ''>
+		<cfset calDrawDate5 = qryDate.dtEFT5>
+	</cfif>
+	<cfif 	qryDate.dtEFT4 is not ''>
+		<cfset calDrawDate4 = qryDate.dtEFT4>
+	</cfif>
+	<cfif 	qryDate.dtEFT3 is not ''>
+		<cfset calDrawDate3 = qryDate.dtEFT3>
+	</cfif>
+	<cfif 	qryDate.dtEFT2 is not ''>
+		<cfset calDrawDate2 = qryDate.dtEFT2>
+	</cfif>
+	<cfif 	qryDate.dtEFT1 is not ''>
+		<cfset calDrawDate1 = qryDate.dtEFT1>
+	</cfif>						
+ 	 <!---  DrawDate Table: #calDrawDate1# :: #calDrawDate2#  :: #calDrawDate3# :: #calDrawDate4# :: #calDrawDate5# <BR/> --->  
+
+	<cfset drawdatearray = ArrayNew(1)>
+
+	<cfset ArrayAppend(drawdatearray, qryDate.dtEFT1)>
+	<cfset ArrayAppend(drawdatearray, qryDate.dtEFT2)>
+	<cfset ArrayAppend(drawdatearray, qryDate.dtEFT3)>
+	<cfset ArrayAppend(drawdatearray, qryDate.dtEFT4)>
+	<cfset ArrayAppend(drawdatearray, qryDate.dtEFT5)>				
+
+	<cfif drawdatearray[5] is not ''>
+		<cfset CALDRAWDATE  = drawdatearray[5]>
+		<cfset whichdate = 5>
+		<cfset lastdrawdate = drawdatearray[4]>
+	<cfelseif drawdatearray[4] is not ''>
+		<cfset CALDRAWDATE  = drawdatearray[4]>
+		<cfset whichdate = 4>
+		<cfset lastdrawdate = drawdatearray[3]>
+	<cfelseif drawdatearray[3] is not ''>
+		<cfset CALDRAWDATE  = drawdatearray[3]>
+		<cfset whichdate = 3>
+		<cfset lastdrawdate = drawdatearray[2]>
+	<cfelseif drawdatearray[2] is not ''>
+		<cfset CALDRAWDATE  = drawdatearray[2]>
+		<cfset whichdate = 2>
+		<cfset lastdrawdate = drawdatearray[1]>
+	<cfelseif drawdatearray[1] is not ''>
+		<cfset CALDRAWDATE  = drawdatearray[1]>
+		<cfset whichdate = 1>
+		<cfset lastdrawdate = dateadd('d',- datepart('d',#now()#),#now()#)>
+	</cfif>
+
+<!--- 	<cfset dtDrawBegin =  #dateadd('d', +1, lastdrawdate)#> --->
+	<cfset dtDrawBegin =  '2013-11-23'> 
+	<cfset dayoweek = datepart("w",CALDRAWDATE)>
+	<!--- find the next friday if this isn't friday --->
+	<!--- <br>lastdrawdate::#lastdrawdate# dtDrawBegin: #dtDrawBegin# dayoweek : #dayoweek# :: whichdate: #whichdate#</br> ---> 
+	<cfif datepart('d',CALDRAWDATE) le 5>
+ 	<!--- AA --->
+		<cfset dtThisFriday = dateadd("d",(6 - dayoweek) ,CALDRAWDATE)>
+ 		<cfset dtNextFriday = dateadd("d",7 ,dtThisFriday)>	
+		<cfset dt2ndFriday = dateadd("d",14 ,dtThisFriday)>
+		<cfset dtNotifyDateEnd = dt2ndFriday>	
+	<cfelseif datepart('d',CALDRAWDATE) gt 5 and qryDate.dtEFT2 is ''>
+	<!--- BB --->	
+		<cfset dtThisFriday = dateadd("d",(6 - dayoweek) ,CALDRAWDATE)>
+ 		<cfset dtNextFriday = dateadd("d",7 ,dtThisFriday)>	
+		<cfset dt2ndFriday = dateadd("d",7 ,dtThisFriday)>
+		<cfset dtNotifyDateEnd = dt2ndFriday>
+	<cfelseif dayoweek is 6>
+		
+	<!--- CC --->	
+		<cfset dtNextFriday = dateadd("d",(7) ,CALDRAWDATE)>
+		<cfset dtThisFriday = CALDRAWDATE>
+		<cfset dt2ndFriday = dateadd("d",14 ,CALDRAWDATE)>
+		<cfset dtNotifyDateEnd = dt2ndFriday>
+	<cfelse>
+	<!--- DD --->	
+		<cfset dtNextFriday = dateadd("d",(6 - dayoweek) ,CALDRAWDATE)>
+		<cfset dtThisFriday = dtNextFriday>
+		<cfset dt2ndFriday = dateadd("d",7 ,dtThisFriday)>
+		<cfset dtNotifyDateEnd = dt2ndFriday>
+	</cfif>
+ 
+		<cfset dtNotifyDateBegin =  dateadd('d',1,dtNextFriday)>	
+		<cfset daypullbegin =  #datepart('d',dtNotifyDateBegin)#>
+		<cfset daypullend =  #datepart('d',dtNotifyDateEnd)#>
+	<!--- ===> daypullbegin: #daypullbegin# daypullend: #daypullend#<br> --->
+	<cfif 	daypullbegin le 5 and daypullend gt 5>
+	<!--- EE	#dtNotifyDateBegin# #dtNotifyDateEnd# --->
+		<cfset daypullbegin = 6>
+		 <cfset dtdiff = 6 - #datepart('d',dtNotifyDateBegin)#> 
+		<cfset dtNotifyDateBegin =  #dateadd('d', dtdiff, dtNotifyDateBegin)#>
+	<cfelseif 	daypullbegin le 5>
+	<!--- FF	#dtNotifyDateBegin# #dtNotifyDateEnd# --->
+		<cfset daypullbegin = 1>
+		<cfset dtdiff = daypullbegin - #datepart('d',dtNotifyDateBegin)#>
+		<cfset dtNotifyDateBegin =  #dateadd('d', dtdiff, dtNotifyDateBegin)#>
+	<cfelseif 	((daypullbegin gt 25) and (daypullbegin le 31))>
+	<!--- GG --->
+		<cfset nextpullbeginDD = '01'><!--- #nextpullbeginDD# --->
+		<cfset nextpullendDD = '05'><!--- #nextpullbeginDD# --->		
+		<cfset nextyear = dateadd('m', 1, CALDRAWDATE)><!--- #nextyear# --->
+		<cfset nextpullbeginMM = #datepart('m',(dateadd('m', 1, CALDRAWDATE)))#><!--- #nextpullbeginMM# --->
+		<cfset nextpullbeginyy = #datepart('yyyy',#nextyear#)#><!--- #nextpullbeginyy# --->
+		<cfset dtNotifyDateBegin = nextpullbeginyy & '-' & nextpullbeginMM & '-'&nextpullbeginDD><!--- #dtNotifyDateBegin# --->
+		<cfset dtNotifyDateEnd =  nextpullbeginyy & '-' & nextpullbeginMM & '-'&nextpullendDD><!--- #dtNotifyDateEnd# --->
+	</cfif>
+	<!--- HH	#dtNotifyDateBegin# #dtNotifyDateEnd# --->
+	<cfset dtnextpullBegin = datepart('d',dtNotifyDateBegin)>
+	<cfset dtnextpullEnd = datepart('d',dtNotifyDateEnd)>	
+    <cfset lenenddate = len(datepart('m',dtNotifyDateEnd))>
+		<cfif lenenddate is 2>
+			<cfset thisdate = datepart('yyyy', dtNotifyDateEnd) & datepart('m', dtNotifyDateEnd) >
+		<cfelseif lenenddate is 1>
+			<cfset thisdate = datepart('yyyy', dtNotifyDateEnd) & '0' & datepart('m', dtNotifyDateEnd) >
+		<cfelse >
+			<cfset thisdate = datepart('yyyy', dtNotifyDateEnd) & '0' & datepart('m', dtNotifyDateEnd) >
+		</cfif>		
+		<!---<cfif session.userid is 4744>
+			<br>DRAWDATE: #CALDRAWDATE# <br> lastdrawdate: #lastdrawdate# <br>dayoweek: #dayoweek# 
+			<br> dtThisFriday: #dtThisFriday# <br> dtNextFriday: #dtNextFriday#	<br> dt2ndFriday: #dt2ndFriday#<br>
+			<br>dtnextpullBegin: #dtnextpullBegin#  dtNotifyDateEnd:: #dtNotifyDateEnd#
+		</cfif>--->
+  </cfoutput>	
+ 
+	 
+	<cfquery name="qryContactPayer" datasource="#application.datasource#" >
+<!--- 		SELECT  t.itenant_id,t.cFirstName
+			,t.cLastName
+			,t.csolomonkey
+			,con.cfirstname 'confirstname'
+			,con.clastname 'conlastname' 
+			,t.bIsPayer 'TenantPayer'
+			,ts.bUsesEFT 'TenantEFT'
+			,ltc.bIsEFT 'ContactEFT'  
+			,ltc.bIsPayer 'ContactPayer', con.cEmail 'ContactEmail' 
+			,ltc.bIsPrimaryPayer 'ContactPrimary', ts.bIsPrimaryPayer 'TenantPrimary' 
+			,TS.dDeferral 
+			,TS.dSocSec 
+			,TS.dMiscPayment
+			,TS.dMakeUpAmt	
+			,h.cname as 'housename'
+			,efta.cAccountNumber
+			,IsNull(efta.iDayofFirstPull,5) iDayofFirstPull
+			,efta.iDayofSecondPull
+			,dAmtFirstPull 
+			,dAmtSecondPull 
+			,dPctFirstPull 
+			,dPctSecondPull	
+			,h.cname as 'House'			
+<!--- 			,(select	  isNULL(Sum(iQuantity * mAmount),0) 
+				from Tenant tn 
+				join TenantState tns  on (tns.iTenant_ID = tn.iTenant_ID and tns.dtRowDeleted is null and tns.iTenantStateCode_ID = 2)
+				join InvoiceMaster IM  on im.csolomonkey = t.csolomonkey and IM.dtRowDeleted is null 
+				and IM.bFinalized = 1 and IM.cAppliesToAcctPeriod =  '#thisdate#'
+				and IM.bMoveInInvoice is null and IM.bMoveOutInvoice is null 
+				left join InvoiceDetail INV on INV.iinvoicemaster_id = im.iinvoicemaster_id and INV.dtRowDeleted is null
+				join ChargeType CT  on INV.iChargeType_ID = Ct.iChargeType_ID and Ct.dtRowDeleted is null
+				and Ct.cGLAccount <> 3012 and Ct.cGLAccount <> 3016
+				join AptAddress AD  on ad.iAptAddress_ID = ts.iAptAddress_ID and ad.dtRowDeleted is null
+				where tn.itenant_id = t.itenant_id
+					)  --->
+				,(select top 1(minvoicetotal) from InvoiceMaster IM  
+				where  im.csolomonkey = t.csolomonkey 
+				and IM.dtRowDeleted is null 
+				and IM.bFinalized = 1 
+				and IM.cAppliesToAcctPeriod =  '#thisdate#')	
+					as sum	
+		FROM tenant t 
+		join tenantstate ts on ts.itenant_id = t.itenant_id and ts.dtrowdeleted is null
+		
+		Join  LinkTenantContact LTC on LTC.iTenant_id = t.itenant_id
+			  and LTC.dtRowDeleted Is NULL
+			  and isNull(LTC.bIsPayer, 0) = 1
+		
+		Join Contact CON ON LTC.iContact_ID = CON.iContact_ID 
+			  and   CON.dtRowDeleted is NULL
+		Join house h on t.ihouse_id = h.ihouse_id
+		join dbo.EFTAccount EFTA on T.cSolomonKey = EFTA.cSolomonKey and EFTA.iContact_ID = con.iContact_ID
+		
+		WHERE t.dtrowdeleted is null
+		and ts.itenantstatecode_id = 2
+		and ltc.bIsPrimaryPayer is null
+		and (((iDayofFirstPull between  #dtnextpullBegin# and #dtnextpullEnd#)
+		 or (iDayofSecondPull between #dtnextpullBegin# and #dtnextpullEnd#))
+		 or ((iDayofFirstPull is null) and (#dtnextpullBegin# = 1)))
+ 		and getdate() between  isNUll(EFTA.dtBeginEFTDate, getdate()) and IsNUll(EFTA.dtEndEFTDate, dateadd(year,1,getdate())) 
+		and t.ihouse_id <> 200 --->
+		SELECT  t.itenant_id
+		,t.cFirstName
+			,t.cLastName
+			,t.csolomonkey
+		,efta.iEFTAccount_ID
+			,con.cfirstname 'confirstname'
+			,con.clastname 'conlastname' 
+				,h.cname as 'housename'
+			,t.bIsPayer 'TenantPayer'
+			,ts.bUsesEFT 'TenantEFT'
+			,ltc.bIsEFT 'ContactEFT'  
+			,ltc.bIsPayer 'ContactPayer'
+			,convert (varchar(12),EFTA.dtBeginEFTDate,110) as 'Begin'
+			,convert(varchar(12),EFTA.dtEndEFTDate,110) as 'End'
+			, con.cEmail 'Email' 
+			, con.cEmail 'ContactEmail' 
+			,case when ltc.bIsPrimaryPayer = 1 then 'C' end'Primary'
+		<!--- --	 ts.bIsPrimaryPayer 'TenantPrimary'  --->
+			,TS.dDeferral 
+			,TS.dSocSec 
+			,TS.dMiscPayment
+			,TS.dMakeUpAmt	
+			,efta.cAccountNumber
+			,efta.iDayofFirstPull   
+			,efta.iDayofSecondPull
+			,dAmtFirstPull 
+			,dAmtSecondPull 
+			,dPctFirstPull 
+			,dPctSecondPull	
+			,h.cname as 'House'	
+				,(select  (minvoicetotal) from InvoiceMaster IM  
+				where  im.csolomonkey = t.csolomonkey 
+				and IM.dtRowDeleted is null 
+				and im.bMoveOutInvoice is null
+				<!--- --and IM.bFinalized = 1  --->
+				and IM.cAppliesToAcctPeriod =   #thisdate#)	
+					as sum	
+		FROM
+		
+		  dbo.EFTAccount EFTA  
+			 		
+		join tenant t  on EFTA.cSolomonKey =T.cSolomonKey  
+		join tenantstate ts on ts.itenant_id = t.itenant_id and ts.dtrowdeleted is null
+		Join house h on t.ihouse_id = h.ihouse_id		
+		left Join  LinkTenantContact LTC ON   EFTA.iContact_ID = ltc.iContact_ID
+				and LTC.iTenant_id = t.itenant_id
+		left Join Contact CON on LTC.iContact_ID = CON.iContact_ID 
+			  and   CON.dtRowDeleted is NULL
+		
+		WHERE t.dtrowdeleted is null
+			and ts.itenantstatecode_id = 2
+			and LTC.dtRowDeleted Is NULL
+			<!--- and isNull(LTC.bIsPayer, 0) = 1 --->
+			and ts.bUsesEFT is not null
+			and efta.dtrowdeleted is null		 	  
+			<!--- -- and ltc.bIsPrimaryPayer is null --->
+			and (((iDayofFirstPull between   #dtnextpullBegin# and #datepart('d',dtNotifyDateEnd)#)
+			or (iDayofSecondPull between  #dtnextpullBegin# and  #datepart('d',dtNotifyDateEnd)#))  
+			or ((iDayofFirstPull is null) and ( #dtnextpullBegin# = 1)))
+			<!---   --	and getdate() between   EFTA.dtBeginEFTDate and EFTA.dtEndEFTDate ---> 
+			and efta.dtrowdeleted is null 
+			and ( ((EFTA.dtEndEFTDate > getdate()) or (EFTA.dtEndEFTDate is null))
+					and	  ((EFTA.dtBeginEFTDate <= #dtNotifyDateEnd#) or (EFTA.dtBeginEFTDate is null)) )
+			and t.ihouse_id <> 200		
+		ORDER by   h.cname, t.clastname, t.cfirstname
+	</cfquery>
+ <!--- <cfdump var="#qryContactPayer#" label="qryContactPayer">--->
+	<body>
+			<br/><cfoutput>This Draw Date Range: #dateformat(dtDrawBegin, 'mm/dd/yyyy')# -  #dateformat(CALDRAWDATE, 'mm/dd/yyyy')#</cfoutput><br/> 
+			<br/><cfoutput>EFT Notification list for date pull range:  #dateformat(dtNotifyDateBegin,'mm/dd/yyyy')# thru #dateformat(dtNotifyDateend,'mm/dd/yyyy')#, Day Range:#dtnextpullBegin# - #dtnextpullEnd# AcctPeriod= #thisdate#</cfoutput><br/>
+ 			<hr style="color:##c00;" />
+		<br>Contacts: <cfoutput>#qryContactPayer.recordcount#</cfoutput><br>
+		<cfoutput query="qryContactPayer">
+			<br>#cFirstName# #cLastName# #csolomonkey#  at #House#<br >
+			<cfquery name="sumpaymnt"  datasource="#application.datasource#"> 
+				   select  IsNull(sum(isnull(dAmtSecondPull,0) + isnull(dAmtFirstPull,0)),0)  as dollarsum
+				 from dbo.EFTAccount efta   
+				 where  dtRowDeleted is null and csolomonkey = '#qryContactPayer.csolomonkey#' 
+			</cfquery>	
+			<cfif IsNumeric(sum) >
+				<cfif sum gt 0>
+					<cfset netchgamt = sum>
+				<cfelse>
+					<cfset netchgamt = 0>
+				</cfif>
+			<cfelse>	
+				<cfset netchgamt = 0>
+			</cfif>	      
+			<cfif   dDeferral is not "" >
+				<cfset netchgamt = netchgamt - dDeferral>
+			</cfif>
+			<cfif   dSocSec  is not "" >										
+				<cfset netchgamt = netchgamt - dSocSec>
+			</cfif>
+			<cfif   dMiscPayment  is not "" >										
+				<cfset netchgamt = netchgamt - dMiscPayment>
+			</cfif>
+			
+			<cfif iDayofFirstPull is ''>
+				<cfset DayofFirstPull = 5>
+			<cfelseif iDayofFirstPull   le 5>
+				<cfset DayOfFirstPull = 5>
+			<cfelse>
+				<cfset DayOfFirstPull = iDayofFirstPull>
+			</cfif>
+			
+			<cfif ((DayofFirstPull ge daypullbegin) and (DayofFirstPull le daypullend))>
+				<cfif dAmtFirstPull   gt 0  >
+					<cfset netchgamt = dAmtFirstPull> 
+				<cfelseif  dPctFirstPull gt 0  >	
+					<cfset netchgamt = (netchgamt - sumpaymnt.dollarsum) * (dPctFirstPull/100)> 
+				</cfif>
+			<cfelseif    ((iDayofSecondPull ge  daypullbegin) and (iDayofSecondPull le daypullend))>
+				<cfif  dAmtSecondPull gt 0  >
+					<cfset netchgamt = dAmtSecondPull> 
+				<cfelseif  dPctSecondPull gt 0  >	
+					<cfset netchgamt = (netchgamt - sumpaymnt.dollarsum) * (dPctSecondPull/100)> 
+				</cfif>
+			</cfif>
+		<!---	<cfdump var="#Session#">--->
+ 
+		<!---<cfif ContactEFT  is 1 >
+				<!--- <cfif IsValid("email", ContactEmail)> --->
+			<cfif netchgamt gt 0>
+				<br> Amt of Pull:  #dollarformat(qryContactPayer.sum)# :: First Pull Day: #DayofFirstPull# :: Second Pull Day:#iDayofSecondPull# 	<!--- #netchgamt# = (#netchgamt# - #sumpaymnt.dollarsum#) * (#dPctSecondPull#) ---><br>
+				<CFIF IsValid("email",ContactEmail)>
+					<cfmail to="#ContactEmail#" from="DONOTREPLY@enlivant.com" subject="EFT Draw Notification"  type="html"> 
+						Dear #confirstname# #conlastname#,<br />
+						Per your contract with #housename# and Enlivant for #cFirstName# #cLastName#, an Electronics Funds Transfer on your account
+						ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+						<br />
+						Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001 for questions regarding this account.
+						<br />
+				Enlivant<br />
+				Accounts Receivable Dept.<br />
+				330 N. Wabash, Suite 3700<br />
+				Chicago, IL 60611  
+						<br />
+					</cfmail>  
+					<br><P style="font-weight:bold">Email (Contact) Sent:  #confirstname# #conlastname# for  #dollarformat(netchgamt)# to #ContactEmail#</P><br/>
+				<cfelse>
+				<P style="font-weight:bold">* * * * NO VALID EMAIL: #confirstname# #conlastname# does not have a valid email</P>
+				TO: #ContactEmail# <br  />
+				FROM: DONOTREPLY@enlivant.com  <br  />
+				Subject: EFT Draw Notification <br  />
+				Dear #confirstname# #conlastname#,<br />
+				Per your contract with #housename# and Enlivant for #cFirstName# #cLastName#, an Electronics Funds Transfer on your account
+				ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+				<br />
+				Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001 for questions regarding this account.
+				<br />
+				Enlivant<br />
+				Accounts Receivable Dept.<br />
+				330 N. Wabash, Suite 3700<br />
+				Chicago, IL 60611  
+				<br />Day of First Pull:#DayofFirstPull#  Day of Second Pull: #iDayofSecondPull# <br/> Contact Pay
+				B<hr style="color:##c00;" />				
+				</CFIF> 
+					<cfelse>
+						<br/><P style="font-weight:bold">>>>>> This account has no draw amount, informational only <<<<<<</P><br/>
+					 
+<!--- 				TO: #ContactEmail# <br  />
+				FROM: DONOTREPLY@enlivant.com  <br  />
+				Subject: EFT Draw Notification <br  />
+				Dear #confirstname# #conlastname#,<br />
+				Per your contract with #housename# and Enlivant for #cFirstName# #cLastName#, an Electronics Funds Transfer on your account
+				ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+				<br />
+				Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001 for questions regarding this account.
+				<br />
+				Enlivant<br />
+				Accounts Receivable Dept.<br />
+				W140 N8981 Lilly Road<br />
+				Menomonee Falls , WI 53051  --->
+				<br> #housename#   #cFirstName# #cLastName#,
+				<br />Day of First Pull:#DayofFirstPull#  Day of Second Pull: #iDayofSecondPull# Pull date: #dateformat(dtNotifyDateend,'mm/dd/yyyy')#<br/> Contact Pay
+				</cfif>
+				A<hr style="color:##c00;" />
+			<cfelse>
+				<P style="font-weight:bold">* * * * NO VALID EMAIL: #confirstname# #conlastname# does not have a valid email</P>
+				TO: #ContactEmail# <br  />
+				FROM: DONOTREPLY@enlivant.com  <br  />
+				Subject: EFT Draw Notification <br  />
+				Dear #confirstname# #conlastname#,<br />
+				Per your contract with #housename# and Enlivant for #cFirstName# #cLastName#, an Electronics Funds Transfer on your account
+				ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+				<br />
+				Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001 for questions regarding this account.
+				<br />
+				Enlivant<br />
+				Accounts Receivable Dept.<br />
+				330 N. Wabash, Suite 3700<br />
+				Chicago, IL 60611  
+				<br />Day of First Pull:#DayofFirstPull#  Day of Second Pull: #iDayofSecondPull# <br/> Contact Pay
+				B<hr style="color:##c00;" />
+			
+			</cfif>--->
+		</cfoutput>
+	
+		<cfquery name="qrySelfPayer" datasource="#application.datasource#" > 
+<!--- 			SELECT  t.itenant_id
+				,t.cFirstName
+				,t.csolomonkey				
+				,t.cLastName
+				,t.bIsPayer 'TenantPayer'
+				,ts.bUsesEFT 'TenantEFT'
+				,ts.bIsPrimaryPayer 'TenantPrimary'
+				,t.cemail
+				,TS.dDeferral 
+				,TS.dSocSec 
+				,TS.dMiscPayment
+				,TS.dMakeUpAmt	
+				,h.cname as 'housename'
+				,efta.cAccountNumber
+				,IsNull(efta.iDayofFirstPull, 5) iDayofFirstPull
+				,efta.iDayofSecondPull
+				,dAmtFirstPull 
+				,dAmtSecondPull 
+				,dPctFirstPull 
+				,dPctSecondPull	
+				,h.cname as 'House'
+<!--- 				,(select	  isNULL(Sum(iQuantity * mAmount),0) 
+					from Tenant tn 
+					join TenantState tns  on (tns.iTenant_ID = tn.iTenant_ID and tns.dtRowDeleted is null and tns.iTenantStateCode_ID = 2)
+					join InvoiceMaster IM  on im.csolomonkey = t.csolomonkey and IM.dtRowDeleted is null 
+					and IM.bFinalized = 1 and IM.cAppliesToAcctPeriod = '#thisdate#'
+					and IM.bMoveInInvoice is null and IM.bMoveOutInvoice is null 
+					left join InvoiceDetail INV on INV.iinvoicemaster_id = im.iinvoicemaster_id and INV.dtRowDeleted is null
+					join ChargeType CT  on INV.iChargeType_ID = Ct.iChargeType_ID and Ct.dtRowDeleted is null
+					and Ct.cGLAccount <> 3012 and Ct.cGLAccount <> 3016
+					join AptAddress AD  on ad.iAptAddress_ID = ts.iAptAddress_ID and ad.dtRowDeleted is null
+					where tn.itenant_id = t.itenant_id
+						)  --->
+				,(select top 1(minvoicetotal) from InvoiceMaster IM  
+				where  im.csolomonkey = t.csolomonkey 
+				and IM.dtRowDeleted is Null 
+				and IM.bFinalized = 1 
+				and IM.cAppliesToAcctPeriod =  '#thisdate#')						
+						as sum	
+			FROM tenant t 
+				join tenantstate ts on ts.itenant_id = t.itenant_id and ts.dtrowdeleted is null
+				Join house h on t.ihouse_id = h.ihouse_id
+				join dbo.EFTAccount EFTA on T.cSolomonKey = EFTA.cSolomonKey 
+			WHERE t.dtrowdeleted is null
+			and ts.itenantstatecode_id = 2
+			and ts.bIsPrimaryPayer is null
+		and (((iDayofFirstPull between  #dtnextpullBegin# and #dtnextpullEnd#)
+		 or (iDayofSecondPull between #dtnextpullBegin# and #dtnextpullEnd#))
+		 or ((iDayofFirstPull is null) and (#dtnextpullBegin# = 1)))
+ 		and getdate() between  isNUll(EFTA.dtBeginEFTDate, getdate()) and IsNUll(EFTA.dtEndEFTDate, dateadd(year,1,getdate()) )
+			and t.ihouse_id <> 200
+			ORDER by h.cname, t.clastname, t.cfirstname --->
+			SELECT
+				t.itenant_id
+				,t.cFirstName
+				,t.cLastName
+			,t.csolomonkey
+		,efta.iEFTAccount_ID
+				,'' 'confirstname'
+				,'' 'conlastname' 
+				,h.cname as 'housename'
+				,t.bIsPayer 'TenantPayer'
+				,ts.bUsesEFT 'TenantEFT'
+				,'' as'ContactEFT'  
+				,''as 'ContactPayer'
+			,convert (varchar(12),EFTA.dtBeginEFTDate,110) as 'Begin'
+			,convert(varchar(12),EFTA.dtEndEFTDate,110) as 'End'
+				,t.cemail <!--- as'Email'  --->
+			 	,	'' as 'Contact Primary'
+				,case when ts.bIsPrimaryPayer = 1 then 'T' else '' end 'Primary'
+				,TS.dDeferral 
+				,TS.dSocSec 
+				,TS.dMiscPayment
+				,TS.dMakeUpAmt	
+				,efta.cAccountNumber
+				,iDayofFirstPull
+				,efta.iDayofSecondPull
+				,dAmtFirstPull 
+				,dAmtSecondPull 
+				,dPctFirstPull 
+				,dPctSecondPull	
+ 				,h.cname as 'House'	
+				,(select top 1(minvoicetotal) from InvoiceMaster IM  
+				where  im.csolomonkey = t.csolomonkey 
+				and IM.dtRowDeleted is Null 
+				<!--- --and IM.bFinalized = 1 ---> 
+				and IM.cAppliesToAcctPeriod =   #thisdate#)						
+						as sum	
+			FROM tenant t 
+				join tenantstate ts on ts.itenant_id = t.itenant_id and ts.dtrowdeleted is null
+				Join house h on t.ihouse_id = h.ihouse_id
+				join dbo.EFTAccount EFTA on T.cSolomonKey = EFTA.cSolomonKey 
+			WHERE t.dtrowdeleted is null
+			and ts.itenantstatecode_id = 2
+			and ts.bUsesEFT is not null
+			and efta.dtrowdeleted is null
+		and (((iDayofFirstPull between   #dtnextpullBegin# and  #datepart('d',dtNotifyDateEnd)#)
+		 or (iDayofSecondPull between  #dtnextpullBegin# and  #datepart('d',dtNotifyDateEnd)#))
+		 or ((iDayofFirstPull is null) and ( #dtnextpullBegin# = 1)))
+ <!--- 	--	and getdate() between   EFTA.dtBeginEFTDate and EFTA.dtEndEFTDate  --->
+ 	 	 and efta.dtrowdeleted is null 
+ 		 	  	and  ( ((EFTA.dtEndEFTDate > getdate()) or (EFTA.dtEndEFTDate is null))
+ 	  			and ((EFTA.dtBeginEFTDate <= #dtNotifyDateEnd# )or (EFTA.dtBeginEFTDate is null)) )
+			and t.ihouse_id <> 200
+			 and EFTA.iContact_ID is null
+			ORDER by h.cname, t.clastname, t.cfirstname		</cfquery>
+ 		<br>Self Pay: <cfoutput>#qrySelfPayer.recordcount#</cfoutput><br>			
+		<cfoutput query="qrySelfPayer">
+					<br>#cFirstName# #cLastName# #csolomonkey#  at #House#<br >
+						<cfquery name="sumpaymnt"  datasource="#application.datasource#"> 
+							   select  IsNUll(sum(isnull(dAmtSecondPull,0) + isnull(dAmtFirstPull,0)),0)  as dollarsum
+							 from dbo.EFTAccount efta   
+							 where  dtRowDeleted is null and csolomonkey = '#qrySelfPayer.csolomonkey#' 
+						</cfquery>		
+			<cfif IsNumeric(sum) >
+				<cfif sum gt 0>
+					<cfset netchgamt = sum>
+				<cfelse>
+					<cfset netchgamt = 0>
+				</cfif>
+			<cfelse>	
+				<cfset netchgamt = 0>
+			</cfif>		
+				
+			<cfif   dDeferral is not "" >
+				<cfset netchgamt = netchgamt - dDeferral>
+			</cfif>
+			<cfif   dSocSec  is not "" >										
+				<cfset netchgamt = netchgamt - dSocSec>
+			</cfif>
+			<cfif   dMiscPayment  is not "" >										
+				<cfset netchgamt = netchgamt - dMiscPayment>
+			</cfif> 
+			<br>
+			<cfif iDayofFirstPull is ''>
+				<cfset DayofFirstPull = 5> 
+			<cfelseif iDayofFirstPull   le 5>
+				<cfset DayofFirstPull = 5> 
+			<cfelse>
+				<cfset DayofFirstPull = iDayofFirstPull> 
+			</cfif>			
+			<br>
+			<cfif ((DayofFirstPull ge daypullbegin) and (DayofFirstPull le daypullend))>
+				<cfif  dAmtFirstPull gt 0  >
+					<cfset netchgamt = dAmtFirstPull> 
+				<cfelseif  dPctFirstPull gt 0  >	
+					<cfset netchgamt = (netchgamt - sumpaymnt.dollarsum) * (dPctFirstPull/100)>
+				</cfif>
+			<cfelseif    ((iDayofSecondPull ge  daypullbegin) and (iDayofSecondPull le daypullend))>
+				<cfif  dAmtSecondPull gt 0  >
+					<cfset netchgamt = dAmtSecondPull> 
+				<cfelseif  dPctSecondPull gt 0  >	
+					<cfset netchgamt = (netchgamt - sumpaymnt.dollarsum) * (dPctSecondPull/100)>
+				</cfif>
+			</cfif>	
+ 	 			
+			<!--- <cfif IsValid("email",cemail)> --->
+<!---mshah commented here
+            <cfif cemail is not "">
+						<cfif netchgamt gt 0>
+							<br>Amt: #dollarformat(qrySelfPayer.sum)# :: First Pull Day: #DayofFirstPull# :: Second Pull Day:#iDayofSecondPull# 	<!--- #netchgamt# = (#netchgamt# - #sumpaymnt.dollarsum#) * (#dPctSecondPull# ---> <br>
+									<CFIF IsValid("email",cemail)>
+											<cfmail to="#cemail#" from="DONOTREPLY@enlivant.com" subject="EFT Draw Notification"  type="html" > 
+											Dear #cFirstName# #cLastName#<br />
+											Per your contract with #housename# and Enlivant an Electronics Funds Transfer on your account
+											ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+											<br />
+											Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001 for questions regarding this account.
+											<br />
+										Enlivant<br />
+										Accounts Receivable Dept.<br />
+										330 N. Wabash, Suite 3700<br />
+										Chicago, IL 60611  
+											<br />
+											</cfmail>  
+											
+									 		<br><P style="font-weight:bold">EMAIL SENT: #cemail# :: #cfirstname# #clastname#</P><br />
+											Day of First Pull: #DayofFirstPull# Day of Second Pull: #iDayofSecondPull# Pull Date: #dateformat(dtNotifyDateend,'mm/dd/yyyy')#<br/>Self Pay
+									<CFELSE>
+												<P style="font-weight:bold">* * * NO VALID EMAIL: #cFirstName# #cLastName# does not have a valid email</P>
+												TO: #cemail# <br  />
+												FROM: DONOTREPLY@enlivant.com  <br  />
+												Subject: EFT Draw Notification <br  />
+												Dear #cfirstname# #clastname#,<br />
+												Per your contract with #housename# and Enlivant an Electronics Funds Transfer on your account
+												ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+												<br />
+												Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001  for questions regarding this account.
+												<br />	
+												Enlivant<br />
+												Accounts Receivable Dept.<br />
+												330 N. Wabash, Suite 3700<br />
+												Chicago, IL 60611  
+												<br />Day of First Pull: #DayofFirstPull# Day of Second Pull: #iDayofSecondPull# <br/>Self Pay
+				
+									</CFIF>
+						<cfelse>
+								<br/><P style="font-weight:bold">>>>>>>>  This account has no draw amount, Informational Only <<<<<</P><br/>
+							
+							<!--- TO: #cemail# <br  />
+							FROM: DONOTREPLY@enlivant.com  <br  />
+							Subject: EFT Draw Notification <br  />
+							Dear #cfirstname# #clastname#,<br />
+							Per your contract with #housename# and Enlivant an Electronics Funds Transfer on your account
+							ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+							<br />
+							Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001  for questions regarding this account.
+							<br />	
+							Enlivant<br />
+							Accounts Receivable Dept.<br />
+							W140 N8981 Lilly Road<br />
+							Menomonee Falls , WI 53051 --->
+							<br> #housename# #cfirstname# #clastname#,<br />
+							Day of First Pull: #DayofFirstPull# Day of Second Pull: #iDayofSecondPull# Pull Date: #dateformat(dtNotifyDateend,'mm/dd/yyyy')#<br/>Self Pay
+						</cfif>
+		 
+			<cfelse>
+						<cfif netchgamt gt 0>
+							<P style="font-weight:bold">* * * NO VALID EMAIL: #cFirstName# #cLastName# does not have a valid email</P>
+								TO: #cemail# <br  />
+								FROM: DONOTREPLY@enlivant.com  <br  />
+								Subject: EFT Draw Notification <br  />
+								Dear #cfirstname# #clastname#,<br />
+								Per your contract with #housename# and Enlivant an Electronics Funds Transfer on your account
+								ending in #right(cAccountNumber,4)# in the amount of #dollarformat(netchgamt)# will be made on #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+								<br />
+								Please contact Enlivant at (312) 725-7062 or toll free 1-888-252-5001  for questions regarding this account.
+								<br />	
+								Enlivant<br />
+								Accounts Receivable Dept.<br />
+								330 N. Wabash, Suite 3700<br />
+								Chicago, IL 60611  
+								<br />Day of First Pull: #DayofFirstPull# Day of Second Pull: #iDayofSecondPull# <br/>Self Pay
+						<cfelse>
+							<P style="font-weight:bold">* * * NO VALID EMAIL/NO DRAW AMOUNT: #cFirstName# #cLastName# does not have a valid email</P>
+								Email: #cemail#  House: #housename# Acct:  #right(cAccountNumber,4)#   Amount: #dollarformat(netchgamt)# Date of Draw: #dateformat(dtNotifyDateend,'mm/dd/yyyy')#.
+				
+								<br />Day of First Pull: #DayofFirstPull# Day of Second Pull: #iDayofSecondPull# <br/>Self Pay
+					
+						</cfif>		 		
+			</cfif>
+ 			F<hr style="color:##c00;" /> --->
+		</cfoutput> 
+		<table>
+			<tr>
+				<td><input type="button" name="Return to EFT Pull Process"  title="Return to EFT Pull Process"  value="Return to EFT Pull Process" onclick="location.href='EFTPullcalendar.cfm'"></td>
+			</tr>
+		</table>
+	</body>
+</html>

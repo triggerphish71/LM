@@ -1,0 +1,5 @@
+BATCH,,201108,B,620.0000,
+INVOICE,IN,,20610190,,08/01/2011,310.0000,"Invoice-Private",,08/01/2011,08/10/2011,,20612205MO,-2728.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,31,10.0000,310.00,"Credit for Limited Term Discount: Gasbarro, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,20610190,,08/01/2011,310,"Invoice-Private",,08/01/2011,08/10/2011,,20612205MO,-2728.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,31,10,310,"Limited Term Discount: Gasbarro, Virginia",,,,,,,,,,,,,,,

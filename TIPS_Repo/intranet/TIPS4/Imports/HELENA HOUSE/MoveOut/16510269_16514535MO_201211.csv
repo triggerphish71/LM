@@ -1,0 +1,8 @@
+BATCH,,201211,B,5777.0000,
+INVOICE,IN,,16510269,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16514535MO,-7489.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,60.0000,60.00,"CR:Limited Term Di... S.Funk 201211: Funk, Sara",,,,,,,,,,,,,,,
+INVOICE,CM,,16510269,,11/01/2012,5717,"Invoice-Private",,11/01/2012,11/10/2012,,16514535MO,-7489.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3660,3660,"CR:Basic Service F... S.Funk 201211: Funk, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... S.Funk 201211: Funk, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308165,1,20,20,"CR:Pendant Fee... S.Funk 201211: Funk, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2010,2010,"CR:Resident Care -... S.Funk 201211: Funk, Sara",,,,,,,,,,,,,,,

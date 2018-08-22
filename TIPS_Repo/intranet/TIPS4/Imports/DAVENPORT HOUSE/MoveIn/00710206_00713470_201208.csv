@@ -1,0 +1,5 @@
+BATCH,,201208,B,3903.0600,
+INVOICE,IN,,00710206,,08/09/2012,3903.0600,"MoveIn-Schweisthal. John",,08/09/2012,08/09/2012,,00713470,3903.0600,,,,,,,,,,
+TRANSACTION,3010,010101007,23,94.0000,2162,"Basic Service Fee - One Bedroom: Schweisthal. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,23,32.2200,741.06,"Resident Care - Level 18: Schweisthal. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Schweisthal. John",,,,,,,,,,,,,,,

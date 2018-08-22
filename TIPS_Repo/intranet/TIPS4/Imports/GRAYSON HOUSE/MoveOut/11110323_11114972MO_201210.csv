@@ -1,0 +1,7 @@
+BATCH,,201210,B,6751.0000,
+INVOICE,IN,,11110323,,10/12/2012,1884.0000,"Invoice-Private",,10/12/2012,10/12/2012,,11114972MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,12,113.0000,1356.00,"Basic Service Fee - One Bedroom for Oct: Tuntland, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,12,44.0000,528.00,"Resident Care - Level 3 for Oct: Tuntland, James",,,,,,,,,,,,,,,
+INVOICE,CM,,11110323,,10/12/2012,4867,"Invoice-Private",,10/12/2012,10/12/2012,,11114972MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3503,3503,"CR:Basic Service F... J.Tuntland 201210: Tuntland, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1364,1364,"CR:Resident Care -... J.Tuntland 201210: Tuntland, James",,,,,,,,,,,,,,,

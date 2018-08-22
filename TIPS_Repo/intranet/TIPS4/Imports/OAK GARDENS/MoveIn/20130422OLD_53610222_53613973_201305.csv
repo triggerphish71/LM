@@ -1,0 +1,5 @@
+BATCH,,201305,B,5088.0000,
+INVOICE,IN,,53610222,,05/01/2013,5088.0000,"May_Rent-Johnson. Carol",,05/01/2013,05/10/2013,,53613973,6916.0000,,,,,,,,,,
+TRANSACTION,3010,010319536,31,118.0000,3658,"C.Johnson: Basic Service Fee - One Bedroom Deluxe: Johnson. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319536,31,45.0000,1395,"C.Johnson: Resident Care - Level 3: Johnson. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35,"Monthly Cable: Johnson. Carol",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,184.0000,
+INVOICE,IN,,13510239,,10/01/2012,92.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13515348MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Jarvis, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,31,2.0000,62.00,"Credit for Limited Term Discount: Jarvis, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,13510239,,10/01/2012,92,"Invoice-Private",,10/01/2012,10/10/2012,,13515348MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Jarvis, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,31,2,62,"Limited Term Discount: Jarvis, Henry",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,7341.0000,
+INVOICE,IN,,03510082,,09/29/2011,3596.0000,"Invoice-Private",,09/29/2011,09/29/2011,,03513224MO,-4018.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,29,108.0000,3132.00,"Basic Service Fee - One Bedroom for Sep: Schlueter, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,29,16.0000,464.00,"Resident Care - Level 1 for Sep: Schlueter, Emma",,,,,,,,,,,,,,,
+INVOICE,CM,,03510082,,09/29/2011,3745,"Invoice-Private",,09/29/2011,09/29/2011,,03513224MO,-4018.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,3240,3240,"CR:Basic Service F... E.Schlueter 201109: Schlueter, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... E.Schlueter 201109: Schlueter, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,480,480,"CR:Resident Care -... E.Schlueter 201109: Schlueter, Emma",,,,,,,,,,,,,,,

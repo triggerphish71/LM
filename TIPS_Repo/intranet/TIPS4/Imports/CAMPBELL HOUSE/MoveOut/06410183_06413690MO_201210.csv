@@ -1,0 +1,5 @@
+BATCH,,201210,B,70.0000,
+INVOICE,IN,,06410183,,10/01/2012,35.0000,"Invoice-Private",,10/01/2012,10/10/2012,,06413690MO,-4625.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35.00,"Monthly Cable: Hudson, Nettie",,,,,,,,,,,,,,,
+INVOICE,CM,,06410183,,10/01/2012,35,"Invoice-Private",,10/01/2012,10/10/2012,,06413690MO,-4625.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"Credit for Monthly Cable: Hudson, Nettie",,,,,,,,,,,,,,,

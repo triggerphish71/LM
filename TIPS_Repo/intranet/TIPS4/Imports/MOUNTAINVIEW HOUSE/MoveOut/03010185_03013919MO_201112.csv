@@ -1,0 +1,6 @@
+BATCH,,201112,B,5012.7000,
+INVOICE,IN,,03010185,,12/01/2011,341.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03013919MO,-4603.5000,,,,,,,,,,
+TRANSACTION,3320,010103030,1,341.0000,341.00,"CR:Limited Term Di... J.Bloodworth 201112: Bloodworth, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03010185,,12/01/2011,4671.7,"Invoice-Private",,12/01/2011,12/10/2011,,03013919MO,-4603.5000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2511,2511,"CR:Basic Service F... J.Bloodworth 201112: Bloodworth, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,2160.7,2160.7,"CR:Resident Care -... J.Bloodworth 201112: Bloodworth, John",,,,,,,,,,,,,,,

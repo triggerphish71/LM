@@ -1,0 +1,8 @@
+BATCH,,201205,B,4610.6800,
+INVOICE,IN,,06210222,,05/01/2012,277.9200,"Invoice-Private",,05/01/2012,05/01/2012,,06213756MO,-4054.8400,,,,,,,,,,
+TRANSACTION,3020,010101062,2,96.0000,192.00,"Basic Service Fee - One Bedroom for May: Phillips, Wiley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,2,42.9600,85.92,"Resident Care - Level 24 for May: Phillips, Wiley",,,,,,,,,,,,,,,
+INVOICE,CM,,06210222,,05/01/2012,4332.76,"Invoice-Private",,05/01/2012,05/01/2012,,06213756MO,-4054.8400,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2976,2976,"CR:Basic Service F... W.Phillips 201205: Phillips, Wiley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"CR:Monthly Cable... W.Phillips 201205: Phillips, Wiley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1331.76,1331.76,"CR:Resident Care -... W.Phillips 201205: Phillips, Wiley",,,,,,,,,,,,,,,

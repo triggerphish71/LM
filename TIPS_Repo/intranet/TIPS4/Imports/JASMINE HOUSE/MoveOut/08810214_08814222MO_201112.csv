@@ -1,0 +1,6 @@
+BATCH,,201112,B,4619.0000,
+INVOICE,IN,,08810214,,12/26/2011,1067.0000,"Invoice-Private",,12/26/2011,12/26/2011,,08814222MO,-4190.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,11,97.0000,1067.00,"Basic Service Fee - Studio for Dec: Holliday, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,08810214,,12/26/2011,3552,"Invoice-Private",,12/26/2011,12/26/2011,,08814222MO,-4190.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1552,1552,"CR:Basic Service F... R.Holliday 201112: Holliday, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000,2000,"CR:New Resident Fe... R.Holliday 201112: Holliday, Richard",,,,,,,,,,,,,,,

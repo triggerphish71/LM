@@ -1,0 +1,6 @@
+BATCH,,201302,B,3530.0000,
+INVOICE,IN,,04610212,,02/14/2013,3530.0000,"MoveIn-Duke. Helen",,02/14/2013,02/14/2013,,04613841,7182.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,15,100.0000,1500,"H.Duke: Basic Service Fee - Studio: Duke. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,15,17.0000,255,"H.Duke: Resident Care - Level 1: Duke. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Duke. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Duke. Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,80.0000,
+INVOICE,IN,,06010210,,02/01/2012,40.0000,"Invoice-Private",,02/01/2012,02/10/2012,,06014232MO,-1992.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Stahly, John",,,,,,,,,,,,,,,
+INVOICE,CM,,06010210,,02/01/2012,40,"Invoice-Private",,02/01/2012,02/10/2012,,06014232MO,-1992.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Stahly, John",,,,,,,,,,,,,,,

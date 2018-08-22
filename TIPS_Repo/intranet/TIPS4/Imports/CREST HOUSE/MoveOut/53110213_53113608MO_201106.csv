@@ -1,0 +1,7 @@
+BATCH,,201106,B,160.0000,
+INVOICE,IN,,53110213,,06/01/2011,80.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53113608MO,-4224.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20.0000,20.00,"Pendant Fee: Chrusciel, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319531,30,2.0000,60.00,"Credit for Limited Term Discount: Chrusciel, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,53110213,,06/01/2011,80,"Invoice-Private",,06/01/2011,06/10/2011,,53113608MO,-4224.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"Credit for Pendant Fee: Chrusciel, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319531,30,2,60,"Limited Term Discount: Chrusciel, Theresa",,,,,,,,,,,,,,,

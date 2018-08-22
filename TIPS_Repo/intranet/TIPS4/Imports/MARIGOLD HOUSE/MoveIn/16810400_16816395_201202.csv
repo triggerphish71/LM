@@ -1,0 +1,5 @@
+BATCH,,201202,B,2483.0000,
+INVOICE,IN,,16810400,,02/24/2012,2483.0000,"MoveIn-Arsenault. Alice",,02/24/2012,02/24/2012,,16816395,6166.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,6,118.0000,708,"Basic Service Fee - One BR Premium: Arsenault. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Arsenault. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Arsenault. Alice",,,,,,,,,,,,,,,

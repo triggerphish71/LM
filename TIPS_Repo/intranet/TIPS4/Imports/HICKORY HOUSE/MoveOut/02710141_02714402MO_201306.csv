@@ -1,0 +1,5 @@
+BATCH,,201306,B,50.0000,
+INVOICE,IN,,02710141,,06/01/2013,25.0000,"Invoice-Private",,06/01/2013,06/10/2013,,02714402MO,-4642.0000,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25.00,"Monthly Cable: Bruton, Wendall",,,,,,,,,,,,,,,
+INVOICE,CM,,02710141,,06/01/2013,25,"Invoice-Private",,06/01/2013,06/10/2013,,02714402MO,-4642.0000,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"Credit for Monthly Cable: Bruton, Wendall",,,,,,,,,,,,,,,

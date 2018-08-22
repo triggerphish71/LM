@@ -1,0 +1,7 @@
+BATCH,,201111,B,1790.0000,
+INVOICE,IN,,03210252,,11/01/2011,895.0000,"Invoice-Private",,11/01/2011,11/10/2011,,03214622MO,-2024.0000,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25.00,"Monthly Cable: Modisette, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202032,30,29.0000,870.00,"Credit for Limited Term Discount: Modisette, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,03210252,,11/01/2011,895,"Invoice-Private",,11/01/2011,11/10/2011,,03214622MO,-2024.0000,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"Credit for Monthly Cable: Modisette, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202032,30,29,870,"Limited Term Discount: Modisette, Harold",,,,,,,,,,,,,,,

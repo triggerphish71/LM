@@ -1,0 +1,5 @@
+BATCH,,201112,B,54.0000,
+INVOICE,IN,,04210184,,12/01/2011,27.0000,"Invoice-Private",,12/01/2011,12/10/2011,,04213814MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Cotter, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04210184,,12/01/2011,27,"Invoice-Private",,12/01/2011,12/10/2011,,04213814MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Cotter, Dorothy",,,,,,,,,,,,,,,

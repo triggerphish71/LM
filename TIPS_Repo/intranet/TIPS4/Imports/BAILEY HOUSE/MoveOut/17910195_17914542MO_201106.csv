@@ -1,0 +1,6 @@
+BATCH,,201106,B,2139.0000,
+INVOICE,IN,,17910195,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,17914542MO,-2019.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,60.0000,60.00,"CR:Limited Term Di... N.Sheppard 201106: Sheppard, Nathan",,,,,,,,,,,,,,,
+INVOICE,CM,,17910195,,06/01/2011,2079,"Invoice-Private",,06/01/2011,06/10/2011,,17914542MO,-2019.0000,,,,,,,,,,
+TRANSACTION,3027,010313179,1,420,420,"CR:Resident Care -... N.Sheppard 201106: Sheppard, Nathan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,1,1659,1659,"CR:Room and Board ... N.Sheppard 201106: Sheppard, Nathan",,,,,,,,,,,,,,,

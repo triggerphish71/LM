@@ -1,0 +1,5 @@
+BATCH,,201205,B,1860.0000,
+INVOICE,IN,,02910290,,05/01/2012,930.0000,"Invoice-Private",,05/01/2012,05/10/2012,,02915517MO,-1000.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,30.0000,930.00,"Credit for Limited Term Discount: Koetting, Leonard",,,,,,,,,,,,,,,
+INVOICE,CM,,02910290,,05/01/2012,930,"Invoice-Private",,05/01/2012,05/10/2012,,02915517MO,-1000.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,30,930,"Limited Term Discount: Koetting, Leonard",,,,,,,,,,,,,,,

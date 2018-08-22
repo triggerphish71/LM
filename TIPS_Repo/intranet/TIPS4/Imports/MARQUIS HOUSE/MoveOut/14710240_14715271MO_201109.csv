@@ -1,0 +1,8 @@
+BATCH,,201109,B,5736.0000,
+INVOICE,IN,,14710240,,09/01/2011,294.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14715271MO,-4321.2000,,,,,,,,,,
+TRANSACTION,3312,010310147,1,294.0000,294.00,"CR:Two Room Rental... J.Furin 201109: Furin, Joseph ",,,,,,,,,,,,,,,
+INVOICE,CM,,14710240,,09/01/2011,5442,"Invoice-Private",,09/01/2011,09/10/2011,,14715271MO,-4321.2000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... J.Furin 201109: Furin, Joseph ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1950,1950,"CR:Private Care Ti... J.Furin 201109: Furin, Joseph ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,510,510,"CR:Resident Care -... J.Furin 201109: Furin, Joseph ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,1,2940,2940,"CR:Room and Board ... J.Furin 201109: Furin, Joseph ",,,,,,,,,,,,,,,

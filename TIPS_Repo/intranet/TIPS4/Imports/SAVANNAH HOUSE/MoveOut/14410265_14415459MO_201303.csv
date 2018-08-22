@@ -1,0 +1,5 @@
+BATCH,,201303,B,56.0000,
+INVOICE,IN,,14410265,,03/01/2013,28.0000,"Invoice-Private",,03/01/2013,03/10/2013,,14415459MO,-3741.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Jones, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,14410265,,03/01/2013,28,"Invoice-Private",,03/01/2013,03/10/2013,,14415459MO,-3741.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Jones, Margaret",,,,,,,,,,,,,,,

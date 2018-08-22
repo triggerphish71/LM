@@ -1,0 +1,5 @@
+BATCH,,201301,B,4401.0000,
+INVOICE,CM,,13110223,,01/01/2013,4401,"Invoice-Private",,01/01/2013,01/10/2013,,13114774MO,-4401.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... P.Clifton 201301: Clifton, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30,30,"CR:Pendant Fee... P.Clifton 201301: Clifton, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,1271,1271,"CR:Resident Care -... P.Clifton 201301: Clifton, Phyllis",,,,,,,,,,,,,,,

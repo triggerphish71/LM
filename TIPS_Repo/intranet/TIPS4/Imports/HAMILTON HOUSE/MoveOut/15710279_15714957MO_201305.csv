@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,15710279,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15714957MO,-4404.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Andrews, Marian ",,,,,,,,,,,,,,,
+INVOICE,CM,,15710279,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,15714957MO,-4404.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Andrews, Marian ",,,,,,,,,,,,,,,

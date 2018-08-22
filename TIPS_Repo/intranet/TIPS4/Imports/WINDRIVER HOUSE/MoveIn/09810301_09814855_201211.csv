@@ -1,0 +1,5 @@
+BATCH,,201211,B,3271.9600,
+INVOICE,IN,,09810301,,11/13/2012,3271.9600,"MoveIn-Karas. Harry",,11/13/2012,11/13/2012,,09814855,3271.9600,,,,,,,,,,
+TRANSACTION,3010,010103098,18,94.0000,1692,"Basic Service Fee - Studio: Karas. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,18,32.2200,579.96,"Resident Care - Level 18: Karas. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Karas. Harry",,,,,,,,,,,,,,,

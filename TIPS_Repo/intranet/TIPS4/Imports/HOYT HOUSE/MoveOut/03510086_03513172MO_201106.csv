@@ -1,0 +1,8 @@
+BATCH,,201106,B,6175.0000,
+INVOICE,IN,,03510086,,06/01/2011,1650.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03513172MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,11,108.0000,1188.00,"Basic Service Fee - One Bedroom for Jun: Rosson, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,11,42.0000,462.00,"Resident Care - Level 3 for Jun: Rosson, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,03510086,,06/01/2011,4525,"Invoice-Private",,06/01/2011,06/10/2011,,03513172MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,3240,3240,"CR:Basic Service F... T.Rosson 201106: Rosson, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... T.Rosson 201106: Rosson, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,1260,1260,"CR:Resident Care -... T.Rosson 201106: Rosson, Thomas",,,,,,,,,,,,,,,

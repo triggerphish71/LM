@@ -1,0 +1,5 @@
+BATCH,,201210,B,2356.0000,
+INVOICE,IN,,04310163,,10/01/2012,1178.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04314060MO,-9824.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,31,38.0000,1178.00,"Credit for Limited Term Discount: Sines, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,04310163,,10/01/2012,1178,"Invoice-Private",,10/01/2012,10/10/2012,,04314060MO,-9824.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,31,38,1178,"Limited Term Discount: Sines, Gertrude",,,,,,,,,,,,,,,

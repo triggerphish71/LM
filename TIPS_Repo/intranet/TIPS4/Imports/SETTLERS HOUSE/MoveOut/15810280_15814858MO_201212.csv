@@ -1,0 +1,8 @@
+BATCH,,201212,B,9393.0000,
+INVOICE,IN,,15810280,,12/24/2012,4588.0000,"Invoice-Private",,12/24/2012,12/24/2012,,15814858MO,-4154.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,868.0000,868.00,"CR:Limited Term Di... P.Hill 201212: Hill, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,24,59.0000,1416.00,"Resident Care - Level 4 for Dec: Hill, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,24,96.0000,2304.00,"Room and Board - Studio for Dec: Hill, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,15810280,,12/24/2012,4805,"Invoice-Private",,12/24/2012,12/24/2012,,15814858MO,-4154.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1829,1829,"CR:Resident Care -... P.Hill 201212: Hill, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Room and Board ... P.Hill 201212: Hill, Paul",,,,,,,,,,,,,,,

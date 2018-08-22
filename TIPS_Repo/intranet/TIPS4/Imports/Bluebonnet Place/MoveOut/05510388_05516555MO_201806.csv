@@ -1,0 +1,8 @@
+BATCH,,201806,B,8351.0000,
+INVOICE,IN,,05510388,,06/18/2018,3221.0000,"Invoice-Private",,06/18/2018,06/18/2018,,05516555MO,-1909.0000,,,,,,,,,,
+TRANSACTION,3017,010002055,17,86.0000,1462.00,"Level: 5 : Rinard, Carillon",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002055,2,72.0000,144.00," Level: 4 : Rinard, Carillon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002055,19,85.0000,1615.00,"Basic Service Fee - Studio for Jun: Rinard, Carillon",,,,,,,,,,,,,,,
+INVOICE,CM,,05510388,,06/18/2018,5130,"Invoice-Private",,06/18/2018,06/18/2018,,05516555MO,-1909.0000,,,,,,,,,,
+TRANSACTION,3020,010002055,1,2550,2550,"CR:Basic Service F... C.Rinard 201806: Rinard, Carillon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002055,1,2580,2580,"CR:Resident Care -... C.Rinard 201806: Rinard, Carillon",,,,,,,,,,,,,,,

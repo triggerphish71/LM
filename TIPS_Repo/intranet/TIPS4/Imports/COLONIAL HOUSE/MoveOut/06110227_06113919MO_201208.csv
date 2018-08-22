@@ -1,0 +1,7 @@
+BATCH,,201208,B,2928.6400,
+INVOICE,IN,,06110227,,08/29/2012,1351.6800,"Invoice-Private",,08/29/2012,08/29/2012,,06113919MO,-3604.4800,,,,,,,,,,
+TRANSACTION,3020,010103061,12,84.0000,1008.00,"R.Lawer: Basic Service Fee - Studio for Aug: Lawer, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,12,28.6400,343.68,"R.Lawer: Resident Care - Level 16 for Aug: Lawer, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,06110227,,08/29/2012,1576.96,"Invoice-Private",,08/29/2012,08/29/2012,,06113919MO,-3604.4800,,,,,,,,,,
+TRANSACTION,3020,010103061,1,1176,1176,"CR:R.Lawer: Basic ... R.Lawer 201208: Lawer, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,400.96,400.96,"CR:R.Lawer: Reside... R.Lawer 201208: Lawer, Robert",,,,,,,,,,,,,,,

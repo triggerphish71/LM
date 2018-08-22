@@ -1,0 +1,8 @@
+BATCH,,201109,B,5972.0000,
+INVOICE,IN,,14810306,,09/08/2011,1802.0000,"Invoice-Private",,09/08/2011,09/08/2011,,14814678MO,-2368.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,690.0000,690.00,"CR:Limited Term Di... B.Hadzima 201109: Hadzima, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,8,88.0000,704.00,"Basic Service Fee - Studio for Sep: Hadzima, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,8,51.0000,408.00,"Resident Care - Level 3 for Sep: Hadzima, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,14810306,,09/08/2011,4170,"Invoice-Private",,09/08/2011,09/08/2011,,14814678MO,-2368.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2640,2640,"CR:Basic Service F... B.Hadzima 201109: Hadzima, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1530,1530,"CR:Resident Care -... B.Hadzima 201109: Hadzima, Bernard",,,,,,,,,,,,,,,

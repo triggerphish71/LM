@@ -1,0 +1,7 @@
+BATCH,,201110,B,9625.0000,
+INVOICE,IN,,07310154,,10/24/2011,4200.0000,"Invoice-Private",,10/24/2011,10/24/2011,,07315308MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,24,50.0000,1200.00,"Resident Care - Level 3 for Oct: Leatherman, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,24,125.0000,3000.00,"Room and Board - One Bedroom for Oct: Leatherman, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07310154,,10/24/2011,5425,"Invoice-Private",,10/24/2011,10/24/2011,,07315308MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1550,1550,"CR:Resident Care -... M.Leatherman 201110: Leatherman, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3875,3875,"CR:Room and Board ... M.Leatherman 201110: Leatherman, Marilyn",,,,,,,,,,,,,,,

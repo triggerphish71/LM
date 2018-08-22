@@ -1,0 +1,6 @@
+BATCH,,201108,B,5212.0000,
+INVOICE,IN,,02010226,,08/17/2011,2366.0000,"Invoice-Private",,08/17/2011,08/17/2011,,02014276MO,-3235.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,26,91.0000,2366.00,"Basic Service Fee - Studio for Aug: Gatewood, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,02010226,,08/17/2011,2846,"Invoice-Private",,08/17/2011,08/17/2011,,02014276MO,-3235.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2821,2821,"CR:Basic Service F... K.Gatewood 201108: Gatewood, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... K.Gatewood 201108: Gatewood, Kenneth",,,,,,,,,,,,,,,

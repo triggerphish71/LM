@@ -1,0 +1,7 @@
+BATCH,,201208,B,4047.7000,
+INVOICE,IN,,02610203,,08/01/2012,300.7000,"Invoice-Private",,08/01/2012,08/10/2012,,02614874MO,-4372.6000,,,,,,,,,,
+TRANSACTION,3312,010202026,1,300.7000,300.70,"CR:Two Room Rental... R.Ross 201208: Ross, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,02610203,,08/01/2012,3747,"Invoice-Private",,08/01/2012,08/10/2012,,02614874MO,-4372.6000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... R.Ross 201208: Ross, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,713,713,"CR:Resident Care -... R.Ross 201208: Ross, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3007,3007,"CR:Room and Board ... R.Ross 201208: Ross, Russell",,,,,,,,,,,,,,,

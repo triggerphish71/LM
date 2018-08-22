@@ -1,0 +1,6 @@
+BATCH,,201303,B,1804.2000,
+INVOICE,IN,,09710255,,03/01/2013,277.4500,"Invoice-Private",,03/01/2013,03/10/2013,,09714625MO,-199.3000,,,,,,,,,,
+TRANSACTION,3027,010103097,1,277.4500,277.45,"CR:Resident Care L... L.Rowe 201303: Rowe, Leone (Lee)",,,,,,,,,,,,,,,
+INVOICE,CM,,09710255,,03/01/2013,1526.75,"Invoice-Private",,03/01/2013,03/10/2013,,09714625MO,-199.3000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,1240,1240,"CR:Basic Service F... L.Rowe 201303: Rowe, Leone (Lee)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,286.75,286.75,"CR:Resident Care -... L.Rowe 201303: Rowe, Leone (Lee)",,,,,,,,,,,,,,,

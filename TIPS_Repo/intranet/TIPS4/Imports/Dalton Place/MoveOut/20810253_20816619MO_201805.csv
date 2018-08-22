@@ -1,0 +1,7 @@
+BATCH,,201805,B,4559.3500,
+INVOICE,IN,,20810253,,05/20/2018,2606.3500,"Invoice-Private",,05/20/2018,05/20/2018,,20816619MO,653.3500,,,,,,,,,,
+TRANSACTION,3017,010016208,4,16.0000,64.00,"AL level care - 05-12-2018: Hamrick, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010016208,11,63.0000,693.00,"Studio: Hamrick, Robbie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010016208,1,1849.3548,1849.35,"Basic Service Fee - MC Studio: Hamrick, Robbie",,,,,,,,,,,,,,,
+INVOICE,CM,,20810253,,05/20/2018,1953,"Invoice-Private",,05/20/2018,05/20/2018,,20816619MO,653.3500,,,,,,,,,,
+TRANSACTION,3020,010016208,1,1953,1953,"CR:Studio... R.Hamrick 201805: Hamrick, Robbie",,,,,,,,,,,,,,,

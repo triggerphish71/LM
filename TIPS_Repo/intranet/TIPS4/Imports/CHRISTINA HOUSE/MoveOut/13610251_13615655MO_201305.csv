@@ -1,0 +1,8 @@
+BATCH,,201305,B,3402.0000,
+INVOICE,IN,,13610251,,05/06/2013,546.0000,"Invoice-Private",,05/06/2013,05/06/2013,,13615655MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,6,76.0000,456.00,"Basic Service Fee- One Bedroom Prem for May: Spindler, Clayton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,6,15.0000,90.00,"Resident Care - Level 1 for May: Spindler, Clayton",,,,,,,,,,,,,,,
+INVOICE,CM,,13610251,,05/06/2013,2856,"Invoice-Private",,05/06/2013,05/06/2013,,13615655MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2356,2356,"CR:Basic Service F... C.Spindler 201305: Spindler, Clayton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... C.Spindler 201305: Spindler, Clayton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,465,465,"CR:Resident Care -... C.Spindler 201305: Spindler, Clayton",,,,,,,,,,,,,,,

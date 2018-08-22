@@ -1,0 +1,8 @@
+BATCH,,201105,B,6576.0000,
+INVOICE,IN,,07210168,,05/11/2011,1128.0000,"Invoice-Private",,05/11/2011,05/11/2011,,07213694MO,-4320.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,8,93.0000,744.00,"E.Shumaker: Basic Service Fee - Studio for May: Shumaker, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,8,48.0000,384.00,"E.Shumaker: Resident Care - Level 3 for May: Shumaker, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,07210168,,05/11/2011,5448,"Invoice-Private",,05/11/2011,05/11/2011,,07213694MO,-4320.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2604,2604,"CR:E.Shumaker: Bas... E.Shumaker 201105: Shumaker, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,1344,1344,"CR:E.Shumaker: Res... E.Shumaker 201105: Shumaker, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305072,1,1500,1500,"CR:New Resident Fe... E.Shumaker 201105: Shumaker, Eileen",,,,,,,,,,,,,,,

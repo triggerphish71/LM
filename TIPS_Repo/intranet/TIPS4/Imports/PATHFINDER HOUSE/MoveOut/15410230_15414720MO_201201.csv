@@ -1,0 +1,8 @@
+BATCH,,201201,B,4410.0000,
+INVOICE,IN,,15410230,,01/04/2012,500.0000,"Invoice-Private",,01/04/2012,01/04/2012,,15414720MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,4,75.0000,300.00,"Basic Service Fee - Deluxe for Jan: Engelbart, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,4,50.0000,200.00,"Resident Care - Level 3 for Jan: Engelbart, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,15410230,,01/04/2012,3910,"Invoice-Private",,01/04/2012,01/04/2012,,15414720MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2325,2325,"CR:Basic Service F... R.Engelbart 201201: Engelbart, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... R.Engelbart 201201: Engelbart, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1550,1550,"CR:Resident Care -... R.Engelbart 201201: Engelbart, Roger",,,,,,,,,,,,,,,

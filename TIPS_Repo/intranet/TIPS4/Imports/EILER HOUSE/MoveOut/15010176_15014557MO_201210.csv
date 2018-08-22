@@ -1,0 +1,5 @@
+BATCH,,201210,B,50.0000,
+INVOICE,IN,,15010176,,10/01/2012,25.0000,"Invoice-Private",,10/01/2012,10/10/2012,,15014557MO,-6800.0000,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25.00,"Monthly Cable: Williams, John",,,,,,,,,,,,,,,
+INVOICE,CM,,15010176,,10/01/2012,25,"Invoice-Private",,10/01/2012,10/10/2012,,15014557MO,-6800.0000,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25,25,"Credit for Monthly Cable: Williams, John",,,,,,,,,,,,,,,

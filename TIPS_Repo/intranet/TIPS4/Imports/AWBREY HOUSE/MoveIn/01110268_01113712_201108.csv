@@ -1,0 +1,5 @@
+BATCH,,201108,B,3200.5000,
+INVOICE,IN,,01110268,,08/05/2011,3200.5000,"MoveIn-Wooldridge. Mary",,08/05/2011,08/05/2011,,01113712,3200.5000,,,,,,,,,,
+TRANSACTION,3010,010101011,27,73.0000,1971,"Basic Service Fee - Studio         : Wooldridge. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,27,8.5000,229.5,"Resident Care - Level 5: Wooldridge. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Wooldridge. Mary",,,,,,,,,,,,,,,

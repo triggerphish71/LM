@@ -1,0 +1,5 @@
+BATCH,,201106,B,316.2000,
+INVOICE,IN,,07310172,,06/01/2011,158.1000,"Invoice-Private",,06/01/2011,06/10/2011,,07315056MO,-2964.1000,,,,,,,,,,
+TRANSACTION,3019,010305073,31,5.1000,158.10,"Additional Service Charge: Shellenberger, Betty Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,07310172,,06/01/2011,158.1,"Invoice-Private",,06/01/2011,06/10/2011,,07315056MO,-2964.1000,,,,,,,,,,
+TRANSACTION,3019,010305073,31,5.1,158.1,"Credit for Additional Service Charge: Shellenberger, Betty Jean",,,,,,,,,,,,,,,

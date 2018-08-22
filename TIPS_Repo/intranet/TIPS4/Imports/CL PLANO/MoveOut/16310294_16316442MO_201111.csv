@@ -1,0 +1,8 @@
+BATCH,,201111,B,5838.0000,
+INVOICE,IN,,16310294,,11/01/2011,1341.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16316442MO,-3156.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,9,114.0000,1026.00,"Basic Service Fee - One Bedroom for Nov: Freeman, Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,9,35.0000,315.00,"Resident Care - Level 3 for Nov: Freeman, Rosetta",,,,,,,,,,,,,,,
+INVOICE,CM,,16310294,,11/01/2011,4497,"Invoice-Private",,11/01/2011,11/10/2011,,16316442MO,-3156.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3420,3420,"CR:Basic Service F... R.Freeman 201111: Freeman, Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... R.Freeman 201111: Freeman, Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1050,1050,"CR:Resident Care -... R.Freeman 201111: Freeman, Rosetta",,,,,,,,,,,,,,,

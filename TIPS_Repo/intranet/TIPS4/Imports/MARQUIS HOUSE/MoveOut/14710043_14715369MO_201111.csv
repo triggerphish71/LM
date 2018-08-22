@@ -1,0 +1,7 @@
+BATCH,,201111,B,5492.0000,
+INVOICE,IN,,14710043,,11/01/2011,2510.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14715369MO,-472.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,60.0000,60.00,"CR:Limited Term Di... B.Meese 201111: Meese, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,25,98.0000,2450.00,"Basic Service Fee - Studio for Nov: Meese, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,14710043,,11/01/2011,2982,"Invoice-Private",,11/01/2011,11/10/2011,,14715369MO,-472.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,2940,2940,"CR:Basic Service F... B.Meese 201111: Meese, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... B.Meese 201111: Meese, Blanche",,,,,,,,,,,,,,,

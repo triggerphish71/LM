@@ -1,0 +1,7 @@
+BATCH,,201111,B,4990.0000,
+INVOICE,IN,,06210208,,11/01/2011,690.0000,"Invoice-Private",,11/01/2011,11/10/2011,,06213623MO,-3610.0000,,,,,,,,,,
+TRANSACTION,3320,010101062,1,690.0000,690.00,"CR:Limited Term Di... T.Bunker 201111: Bunker, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,06210208,,11/01/2011,4300,"Invoice-Private",,11/01/2011,11/10/2011,,06213623MO,-3610.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2490,2490,"CR:Basic Service F... T.Bunker 201111: Bunker, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"CR:Monthly Cable... T.Bunker 201111: Bunker, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1785,1785,"CR:Resident Care -... T.Bunker 201111: Bunker, Ted",,,,,,,,,,,,,,,

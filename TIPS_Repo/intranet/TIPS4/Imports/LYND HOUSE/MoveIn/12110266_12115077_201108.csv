@@ -1,0 +1,5 @@
+BATCH,,201108,B,3445.0000,
+INVOICE,IN,,12110266,,08/01/2011,3445.0000,"August_Rent-Ritchie. Alberta",,08/01/2011,08/10/2011,,12115077,6140.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,31,94.0000,2914,"Basic Service Fee - Studio         : Ritchie. Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309121,31,16.0000,496,"Resident Care - Level 1: Ritchie. Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Ritchie. Alberta",,,,,,,,,,,,,,,

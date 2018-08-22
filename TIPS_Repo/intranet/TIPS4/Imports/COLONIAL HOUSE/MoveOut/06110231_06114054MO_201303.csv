@@ -1,0 +1,7 @@
+BATCH,,201303,B,5395.8800,
+INVOICE,IN,,06110231,,03/16/2013,1982.1600,"Invoice-Private",,03/16/2013,03/16/2013,,06114054MO,-4785.5600,,,,,,,,,,
+TRANSACTION,3027,010103061,18,50.1200,902.16,"Resident Care - Level 28 for Mar: Ward, Hiram",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,18,60.0000,1080.00,"Room and Board - Studio for Mar: Ward, Hiram",,,,,,,,,,,,,,,
+INVOICE,CM,,06110231,,03/16/2013,3413.72,"Invoice-Private",,03/16/2013,03/16/2013,,06114054MO,-4785.5600,,,,,,,,,,
+TRANSACTION,3027,010103061,1,1553.72,1553.72,"CR:Resident Care -... H.Ward 201303: Ward, Hiram",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,1,1860,1860,"CR:Room and Board ... H.Ward 201303: Ward, Hiram",,,,,,,,,,,,,,,

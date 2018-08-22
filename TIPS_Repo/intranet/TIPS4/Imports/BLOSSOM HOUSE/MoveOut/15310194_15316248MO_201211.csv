@@ -1,0 +1,5 @@
+BATCH,,201211,B,2100.0000,
+INVOICE,IN,,15310194,,11/01/2012,1050.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15316248MO,-2260.1200,,,,,,,,,,
+TRANSACTION,3320,010103153,30,35.0000,1050.00,"Credit for Limited Term Discount: Perala, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,15310194,,11/01/2012,1050,"Invoice-Private",,11/01/2012,11/10/2012,,15316248MO,-2260.1200,,,,,,,,,,
+TRANSACTION,3320,010103153,30,35,1050,"Limited Term Discount: Perala, Rachel",,,,,,,,,,,,,,,

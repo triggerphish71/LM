@@ -1,0 +1,5 @@
+BATCH,,201207,B,2379.0000,
+INVOICE,IN,,50910146,,07/08/2012,488.0000,"Invoice-Private",,07/08/2012,07/08/2012,,50913063MO,-1403.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,8,61.0000,488.00,"Basic Service Fee - One Bedroom for Jul: Kennedy, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,50910146,,07/08/2012,1891,"Invoice-Private",,07/08/2012,07/08/2012,,50913063MO,-1403.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1891,1891,"CR:Basic Service F... E.Kennedy 201207: Kennedy, Elaine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,922.0000,
+INVOICE,IN,,19010190,,07/01/2011,461.0000,"Invoice-Private",,07/01/2011,07/10/2011,,19014149MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Smith, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,14.0000,434.00,"Credit for Limited Term Discount: Smith, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,19010190,,07/01/2011,461,"Invoice-Private",,07/01/2011,07/10/2011,,19014149MO,-3937.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Smith, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,14,434,"Limited Term Discount: Smith, Edith",,,,,,,,,,,,,,,

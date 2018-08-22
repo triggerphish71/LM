@@ -1,0 +1,6 @@
+BATCH,,201304,B,4499.0000,
+INVOICE,IN,,13410203,,04/18/2013,1674.0000,"Invoice-Private",,04/18/2013,04/18/2013,,13416125MO,-4069.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,18,93.0000,1674.00,"Basic Service Fee - Studio for Apr: Coulter, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,13410203,,04/18/2013,2825,"Invoice-Private",,04/18/2013,04/18/2013,,13416125MO,-4069.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2790,2790,"CR:Basic Service F... C.Coulter 201304: Coulter, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... C.Coulter 201304: Coulter, Clifford",,,,,,,,,,,,,,,

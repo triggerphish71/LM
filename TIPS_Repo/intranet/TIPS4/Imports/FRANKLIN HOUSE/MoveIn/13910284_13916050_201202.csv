@@ -1,0 +1,5 @@
+BATCH,,201202,B,4784.0000,
+INVOICE,IN,,13910284,,02/03/2012,4784.0000,"MoveIn-Duke. Louis",,02/03/2012,02/03/2012,,13916050,4784.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,27,102.0000,2754,"Basic Service Fee - Studio: Duke. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Duke. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000.0000,2000,"New Resident Fee: Duke. Louis",,,,,,,,,,,,,,,

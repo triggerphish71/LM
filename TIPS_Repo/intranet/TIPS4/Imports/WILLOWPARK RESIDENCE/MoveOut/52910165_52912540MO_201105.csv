@@ -1,0 +1,7 @@
+BATCH,,201105,B,9299.2000,
+INVOICE,IN,,52910165,,05/14/2011,932.8000,"Invoice-Respite",,05/14/2011,05/14/2011,,52912540MO,-7433.6000,,,,,,,,,,
+TRANSACTION,3020,010319529,4,105.6000,422.40,"Basic Service Fee- Respite Studio for May: Schwarz, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,4,99.6000,398.40,"Basic Service Fee- Respite Studio for May: Schwarz, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,4,28.0000,112.00,"Resident Care - Level 2 for May: Schwarz, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,52910165,,05/14/2011,8366.4,"Invoice-Respite",,05/14/2011,05/14/2011,,52912540MO,-7433.6000,,,,,,,,,,
+TRANSACTION,3020,010319529,4,2091.6,8366.4,"Basic Service Fee- Respite Studio for May: Schwarz, Gerald",,,,,,,,,,,,,,,

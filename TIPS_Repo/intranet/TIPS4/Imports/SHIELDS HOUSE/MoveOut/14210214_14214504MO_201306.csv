@@ -1,0 +1,8 @@
+BATCH,,201306,B,5918.0000,
+INVOICE,IN,,14210214,,06/23/2013,2553.0000,"Invoice-Private",,06/23/2013,06/23/2013,,14214504MO,-4288.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,23,78.0000,1794.00,"Basic Service Fee - Studio for Jun: Combest, Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,23,33.0000,759.00,"Resident Care - Level 2 for Jun: Combest, Wesley",,,,,,,,,,,,,,,
+INVOICE,CM,,14210214,,06/23/2013,3365,"Invoice-Private",,06/23/2013,06/23/2013,,14214504MO,-4288.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2340,2340,"CR:Basic Service F... W.Combest 201306: Combest, Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... W.Combest 201306: Combest, Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,990,990,"CR:Resident Care -... W.Combest 201306: Combest, Wesley",,,,,,,,,,,,,,,

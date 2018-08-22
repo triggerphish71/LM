@@ -1,0 +1,8 @@
+BATCH,,201110,B,7446.5700,
+INVOICE,IN,,53610119,,10/11/2011,3528.0000,"Invoice-Private",,10/11/2011,10/11/2011,,53613283MO,-390.5700,,,,,,,,,,
+TRANSACTION,3020,010319536,28,97.0000,2716.00,"Basic Service Fee - Studio Deluxe for Oct: Bloch, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,28,29.0000,812.00,"Resident Care - Level 2 for Oct: Bloch, Dona",,,,,,,,,,,,,,,
+INVOICE,CM,,53610119,,10/11/2011,3918.57,"Invoice-Private",,10/11/2011,10/11/2011,,53613283MO,-390.5700,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3007,3007,"CR:Basic Service F... D.Bloch 201110: Bloch, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,12.57,12.57,"CR:Monthly Cable... D.Bloch 201110: Bloch, Dona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,899,899,"CR:Resident Care -... D.Bloch 201110: Bloch, Dona",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,2721.0000,
+INVOICE,IN,,17010281,,08/26/2011,2721.0000,"MoveIn-Smith. William (Bill)",,08/26/2011,08/26/2011,,17014291,6226.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,6,90.0000,540,"Basic Service Fee - Studio         : Smith. William (Bill)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,6,26.0000,156,"Resident Care - Level 2: Smith. William (Bill)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Smith. William (Bill)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Smith. William (Bill)",,,,,,,,,,,,,,,

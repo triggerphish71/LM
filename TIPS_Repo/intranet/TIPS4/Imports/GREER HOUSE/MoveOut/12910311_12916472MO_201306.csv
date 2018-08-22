@@ -1,0 +1,7 @@
+BATCH,,201306,B,5850.0000,
+INVOICE,IN,,12910311,,06/09/2013,1350.0000,"Invoice-Private",,06/09/2013,06/09/2013,,12916472MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,9,97.0000,873.00,"Basic Service Fee - Studio for Jun: Smith, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,9,53.0000,477.00,"Resident Care - Level 3 for Jun: Smith, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,12910311,,06/09/2013,4500,"Invoice-Private",,06/09/2013,06/09/2013,,12916472MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2910,2910,"CR:Basic Service F... A.Smith 201306: Smith, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1590,1590,"CR:Resident Care -... A.Smith 201306: Smith, Audrey",,,,,,,,,,,,,,,

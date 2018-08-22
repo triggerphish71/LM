@@ -1,0 +1,7 @@
+BATCH,,201211,B,5427.0000,
+INVOICE,IN,,17110257,,11/01/2012,1320.0000,"Invoice-Private",,11/01/2012,11/10/2012,,17115424MO,-1722.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,1320.0000,1320.00,"CR:Limited Term Di... W.Williams 201211: Williams, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110257,,11/01/2012,4107,"Invoice-Private",,11/01/2012,11/10/2012,,17115424MO,-1722.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2820,2820,"CR:Basic Service F... W.Williams 201211: Williams, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... W.Williams 201211: Williams, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1260,1260,"CR:Resident Care -... W.Williams 201211: Williams, Willie",,,,,,,,,,,,,,,

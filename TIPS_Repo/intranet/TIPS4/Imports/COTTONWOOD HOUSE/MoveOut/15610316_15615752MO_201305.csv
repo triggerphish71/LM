@@ -1,0 +1,7 @@
+BATCH,,201305,B,4313.2800,
+INVOICE,IN,,15610316,,05/01/2013,134.7900,"Invoice-Private",,05/01/2013,05/10/2013,,15615752MO,-4043.7000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,50.0000,50.00,"Basic Service Fee - Studio for May: Went, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,84.7900,84.79,"Resident Care - Level 6+1 pts for May: Went, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,15610316,,05/01/2013,4178.49,"Invoice-Private",,05/01/2013,05/10/2013,,15615752MO,-4043.7000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1550,1550,"CR:Basic Service F... H.Went 201305: Went, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2628.49,2628.49,"CR:Resident Care -... H.Went 201305: Went, Hilda",,,,,,,,,,,,,,,

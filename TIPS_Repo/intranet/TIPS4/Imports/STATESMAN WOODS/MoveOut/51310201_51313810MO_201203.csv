@@ -1,0 +1,7 @@
+BATCH,,201203,B,10797.0000,
+INVOICE,IN,,51310201,,03/12/2012,5124.0000,"Invoice-Private",,03/12/2012,03/12/2012,,51313810MO,-6039.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,28,108.0000,3024.00,"Basic Service Fee- Studio for Mar: Passaretti, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,28,75.0000,2100.00,"Resident Care - Level 6 for Mar: Passaretti, Anthony",,,,,,,,,,,,,,,
+INVOICE,CM,,51310201,,03/12/2012,5673,"Invoice-Private",,03/12/2012,03/12/2012,,51313810MO,-6039.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3348,3348,"CR:Basic Service F... A.Passaretti 201203: Passaretti, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2325,2325,"CR:Resident Care -... A.Passaretti 201203: Passaretti, Anthony",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,4085.0000,
+INVOICE,IN,,50310296,,11/01/2012,4085.0000,"November_Rent-Lane. Louis",,11/01/2012,11/10/2012,,50314521,6280.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,30,75.0000,2250,"Basic Service Fee - Studio: Lane. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,30,60.0000,1800,"Resident Care - Level 5: Lane. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Lane. Louis",,,,,,,,,,,,,,,

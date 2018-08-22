@@ -1,0 +1,5 @@
+BATCH,,201304,B,2475.0000,
+INVOICE,IN,,53410095,,04/01/2013,225.0000,"Invoice-Private",,04/01/2013,04/10/2013,,53422159MO,-2025.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,3,75.0000,225.00,"Basic Service Fee - One Bedroom for Apr: Otte, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,53410095,,04/01/2013,2250,"Invoice-Private",,04/01/2013,04/10/2013,,53422159MO,-2025.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2250,2250,"CR:Basic Service F... K.Otte 201304: Otte, Kathryn",,,,,,,,,,,,,,,

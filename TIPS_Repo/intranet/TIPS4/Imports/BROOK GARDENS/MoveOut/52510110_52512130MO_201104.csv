@@ -1,0 +1,5 @@
+BATCH,,201104,B,480.0000,
+INVOICE,IN,,52510110,,04/30/2011,240.0000,"Invoice-Private",,04/30/2011,04/30/2011,,52512130MO,-5270.0000,,,,,,,,,,
+TRANSACTION,3299,010319525,1,240.0000,240.00,"Repair and Maintenance-Damages 4230: Soholt, Dalen",,,,,,,,,,,,,,,
+INVOICE,CM,,52510110,,04/30/2011,240,"Invoice-Private",,04/30/2011,04/30/2011,,52512130MO,-5270.0000,,,,,,,,,,
+TRANSACTION,3299,010319525,1,240,240,"Credit for Repair and Maintenance-Damages 4230: Soholt, Dalen",,,,,,,,,,,,,,,

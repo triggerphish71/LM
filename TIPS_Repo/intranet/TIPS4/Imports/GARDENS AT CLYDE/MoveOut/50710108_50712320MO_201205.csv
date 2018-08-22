@@ -1,0 +1,7 @@
+BATCH,,201205,B,4312.0000,
+INVOICE,IN,,50710108,,05/17/2012,1925.0000,"Invoice-Private",,05/17/2012,05/17/2012,,50712320MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,25,66.0000,1650.00,"Basic Service Fee - Studio for May: Karr, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,25,11.0000,275.00,"Resident Care - Level 1 for May: Karr, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,50710108,,05/17/2012,2387,"Invoice-Private",,05/17/2012,05/17/2012,,50712320MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,2046,2046,"CR:Basic Service F... G.Karr 201205: Karr, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,341,341,"CR:Resident Care -... G.Karr 201205: Karr, Gladys",,,,,,,,,,,,,,,

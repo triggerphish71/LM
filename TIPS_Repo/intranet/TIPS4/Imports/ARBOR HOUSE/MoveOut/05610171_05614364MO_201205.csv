@@ -1,0 +1,5 @@
+BATCH,,201205,B,54.0000,
+INVOICE,IN,,05610171,,05/01/2012,27.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05614364MO,-2623.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27.00,"Monthly Cable: Clifton, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,05610171,,05/01/2012,27,"Invoice-Private",,05/01/2012,05/10/2012,,05614364MO,-2623.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"Credit for Monthly Cable: Clifton, Gerald",,,,,,,,,,,,,,,

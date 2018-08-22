@@ -1,0 +1,7 @@
+BATCH,,201206,B,1670.0000,
+INVOICE,IN,,11110302,,06/01/2012,835.0000,"Invoice-Private",,06/01/2012,06/10/2012,,11114789MO,-1216.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25.00,"Monthly Cable: Kartje, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107111,30,27.0000,810.00,"Credit for Limited Term Discount: Kartje, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,11110302,,06/01/2012,835,"Invoice-Private",,06/01/2012,06/10/2012,,11114789MO,-1216.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"Credit for Monthly Cable: Kartje, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107111,30,27,810,"Limited Term Discount: Kartje, Geraldine",,,,,,,,,,,,,,,

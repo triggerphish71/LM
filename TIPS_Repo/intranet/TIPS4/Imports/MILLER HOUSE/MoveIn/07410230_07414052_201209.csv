@@ -1,0 +1,5 @@
+BATCH,,201209,B,3512.0000,
+INVOICE,IN,,07410230,,09/15/2012,3512.0000,"MoveIn-Cook. Dorothy",,09/15/2012,09/15/2012,,07414052,8379.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,16,73.0000,1168,"Basic Service Fee - Studio: Cook. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,16,84.0000,1344,"Resident Care - Level 6: Cook. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Cook. Dorothy",,,,,,,,,,,,,,,

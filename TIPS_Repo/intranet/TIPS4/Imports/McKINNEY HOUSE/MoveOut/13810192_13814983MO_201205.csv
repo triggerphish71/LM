@@ -1,0 +1,6 @@
+BATCH,,201205,B,6603.0000,
+INVOICE,IN,,13810192,,05/01/2012,1426.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13814983MO,-2819.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,1426.0000,1426.00,"CR:Limited Term Di... J.Britton 201205: Britton, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,13810192,,05/01/2012,5177,"Invoice-Private",,05/01/2012,05/10/2012,,13814983MO,-2819.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... J.Britton 201205: Britton, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,2201,2201,"CR:Resident Care -... J.Britton 201205: Britton, Joann",,,,,,,,,,,,,,,

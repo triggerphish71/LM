@@ -1,0 +1,6 @@
+BATCH,,201204,B,4295.0000,
+INVOICE,IN,,02610249,,04/14/2012,1358.0000,"Invoice-Private",,04/14/2012,04/14/2012,,02614740MO,-1579.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,14,97.0000,1358.00,"Basic Service Fee - Studio for Apr: Nimitz, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,02610249,,04/14/2012,2937,"Invoice-Private",,04/14/2012,04/14/2012,,02614740MO,-1579.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2910,2910,"CR:Basic Service F... B.Nimitz 201204: Nimitz, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... B.Nimitz 201204: Nimitz, Bob",,,,,,,,,,,,,,,

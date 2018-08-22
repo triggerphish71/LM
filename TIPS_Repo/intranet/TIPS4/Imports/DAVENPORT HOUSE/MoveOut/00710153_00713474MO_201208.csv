@@ -1,0 +1,7 @@
+BATCH,,201208,B,5328.5400,
+INVOICE,IN,,00710153,,08/11/2012,1395.5700,"Invoice-Private",,08/11/2012,08/11/2012,,00713474MO,-2537.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,11,32.0000,352.00,"Basic Service Fee - Second Resident for Aug: Murphy, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,11,94.8700,1043.57,"Resident Care - Level 53 for Aug: Murphy, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,00710153,,08/11/2012,3932.97,"Invoice-Private",,08/11/2012,08/11/2012,,00713474MO,-2537.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,992,992,"CR:Basic Service F... C.Murphy 201208: Murphy, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,2940.97,2940.97,"CR:Resident Care -... C.Murphy 201208: Murphy, Carol",,,,,,,,,,,,,,,

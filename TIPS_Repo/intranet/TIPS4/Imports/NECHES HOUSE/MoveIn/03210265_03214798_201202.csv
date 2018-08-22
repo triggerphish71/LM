@@ -1,0 +1,6 @@
+BATCH,,201202,B,2191.0000,
+INVOICE,IN,,03210265,,02/24/2012,2191.0000,"MoveIn-Bradford. Beatrix",,02/24/2012,02/24/2012,,03214798,5657.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,6,94.0000,564,"Basic Service Fee - Studio: Bradford. Beatrix",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,6,17.0000,102,"Resident Care - Level 1: Bradford. Beatrix",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Bradford. Beatrix",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Bradford. Beatrix",,,,,,,,,,,,,,,

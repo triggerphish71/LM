@@ -1,0 +1,7 @@
+BATCH,,201210,B,5166.0000,
+INVOICE,IN,,05710323,,10/01/2012,1353.0000,"Invoice-Private",,10/01/2012,10/10/2012,,05715704MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,11,94.0000,1034.00,"Basic Service Fee - Studio for Oct: Wakefield, Bud(Nathan)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,11,29.0000,319.00,"Resident Care - Level 2 for Oct: Wakefield, Bud(Nathan)",,,,,,,,,,,,,,,
+INVOICE,CM,,05710323,,10/01/2012,3813,"Invoice-Private",,10/01/2012,10/10/2012,,05715704MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2914,2914,"CR:Basic Service F... B.Wakefield 201210: Wakefield, Bud(Nathan)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,899,899,"CR:Resident Care -... B.Wakefield 201210: Wakefield, Bud(Nathan)",,,,,,,,,,,,,,,

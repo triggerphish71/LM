@@ -1,0 +1,7 @@
+BATCH,,201804,B,4716.0000,
+INVOICE,IN,,35000145,,04/06/2018,786.0000,"Invoice-Private",,04/06/2018,04/06/2018,,35011764MO,-7205.0000,,,,,,,,,,
+TRANSACTION,3027,070016350,6,73.0000,438.00,"Resident Care - Level 6  for Apr: Chupp, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,070016350,6,58.0000,348.00,"Studio  for Apr: Chupp, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,35000145,,04/06/2018,3930,"Invoice-Private",,04/06/2018,04/06/2018,,35011764MO,-7205.0000,,,,,,,,,,
+TRANSACTION,3027,070016350,1,2190,2190,"CR:Resident Care -... M.Chupp 201804: Chupp, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,070016350,1,1740,1740,"CR:Studio... M.Chupp 201804: Chupp, Martha",,,,,,,,,,,,,,,

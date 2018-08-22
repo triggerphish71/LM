@@ -1,0 +1,6 @@
+BATCH,,201110,B,3321.0000,
+INVOICE,IN,,19610199,,10/01/2011,3321.0000,"October_Rent-Sviland. Dale",,10/01/2011,10/10/2011,,19612756,5204.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,31,83.0000,2573,"Basic Service Fee - Studio         : Sviland. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,31,13.0000,403,"Resident Care - Level 1: Sviland. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Sviland. Dale",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10.0000,310,"CC Meals: Sviland. Dale",,,,,,,,,,,,,,,

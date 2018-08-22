@@ -1,0 +1,5 @@
+BATCH,,201110,B,3600.0000,
+INVOICE,CM,,06410178,,10/01/2011,3600,"Invoice-Private",,10/01/2011,10/10/2011,,06413550MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,2697,2697,"CR:Basic Service F... W.Dipple 201110: Dipple, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... W.Dipple 201110: Dipple, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,868,868,"CR:Resident Care -... W.Dipple 201110: Dipple, Wanda",,,,,,,,,,,,,,,

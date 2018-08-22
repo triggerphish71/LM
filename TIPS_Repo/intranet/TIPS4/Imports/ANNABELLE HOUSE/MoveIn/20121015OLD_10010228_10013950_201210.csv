@@ -1,0 +1,6 @@
+BATCH,,201210,B,2055.0000,
+INVOICE,IN,,10010228,,10/15/2012,2055.0000,"MoveIn-Snyder. Melvin",,10/15/2012,10/15/2012,,10013950,2055.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,17,75.0000,1275,"Basic Service Fee - Studio: Snyder. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,17,15.0000,255,"Resident Care - Level 1: Snyder. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Snyder. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Snyder. Melvin",,,,,,,,,,,,,,,

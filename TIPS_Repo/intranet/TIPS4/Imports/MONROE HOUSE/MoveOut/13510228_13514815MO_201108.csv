@@ -1,0 +1,8 @@
+BATCH,,201108,B,6756.0000,
+INVOICE,IN,,13510228,,08/01/2011,3068.0000,"Invoice-Private",,08/01/2011,08/10/2011,,13514815MO,-4190.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,26,87.0000,2262.00,"Basic Service Fee - Studio for Aug: Wright, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,26,31.0000,806.00,"Resident Care - Level 2 for Aug: Wright, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,13510228,,08/01/2011,3688,"Invoice-Private",,08/01/2011,08/10/2011,,13514815MO,-4190.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2697,2697,"CR:Basic Service F... N.Wright 201108: Wright, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... N.Wright 201108: Wright, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... N.Wright 201108: Wright, Nora",,,,,,,,,,,,,,,

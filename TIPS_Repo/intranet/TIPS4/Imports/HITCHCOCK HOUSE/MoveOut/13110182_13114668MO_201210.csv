@@ -1,0 +1,7 @@
+BATCH,,201210,B,8003.0000,
+INVOICE,IN,,13110182,,10/21/2012,3322.0000,"Invoice-Private",,10/21/2012,10/21/2012,,13114668MO,-5889.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,22,82.0000,1804.00,"Basic Service Fee - Studio for Oct: Snavely, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,22,69.0000,1518.00,"Resident Care - Level 6 for Oct: Snavely, James",,,,,,,,,,,,,,,
+INVOICE,CM,,13110182,,10/21/2012,4681,"Invoice-Private",,10/21/2012,10/21/2012,,13114668MO,-5889.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,2542,2542,"CR:Basic Service F... J.Snavely 201210: Snavely, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,2139,2139,"CR:Resident Care -... J.Snavely 201210: Snavely, James",,,,,,,,,,,,,,,

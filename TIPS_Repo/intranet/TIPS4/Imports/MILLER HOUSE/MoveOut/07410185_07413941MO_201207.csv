@@ -1,0 +1,6 @@
+BATCH,,201207,B,3131.0000,
+INVOICE,IN,,07410185,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,07413941MO,-3343.0000,,,,,,,,,,
+TRANSACTION,3320,010305074,1,62.0000,62.00,"CR:Limited Term Di... R.Remaklus 201207: Remaklus, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,07410185,,07/01/2012,3069,"Invoice-Private",,07/01/2012,07/10/2012,,07413941MO,-3343.0000,,,,,,,,,,
+TRANSACTION,3027,010305074,1,465,465,"CR:Resident Care -... R.Remaklus 201207: Remaklus, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2604,2604,"CR:Room and Board ... R.Remaklus 201207: Remaklus, Rita",,,,,,,,,,,,,,,

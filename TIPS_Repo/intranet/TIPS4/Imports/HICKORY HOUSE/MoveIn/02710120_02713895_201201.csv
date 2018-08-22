@@ -1,0 +1,5 @@
+BATCH,,201201,B,4675.0000,
+INVOICE,IN,,02710120,,01/01/2012,4675.0000,"January_Rent-Welch. Nelson",,01/01/2012,01/10/2012,,02713895,8000.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,31,95.0000,2945,"Basic Service Fee - Studio: Welch. Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202027,31,55.0000,1705,"Resident Care - Level 4: Welch. Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Welch. Nelson",,,,,,,,,,,,,,,

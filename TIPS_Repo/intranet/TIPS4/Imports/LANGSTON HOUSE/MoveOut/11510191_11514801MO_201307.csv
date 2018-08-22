@@ -1,0 +1,5 @@
+BATCH,,201307,B,56.0000,
+INVOICE,IN,,11510191,,07/01/2013,28.0000,"Invoice-Private",,07/01/2013,07/10/2013,,11514801MO,-4396.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Lancaster, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,11510191,,07/01/2013,28,"Invoice-Private",,07/01/2013,07/10/2013,,11514801MO,-4396.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Lancaster, Louise",,,,,,,,,,,,,,,

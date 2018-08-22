@@ -1,0 +1,5 @@
+BATCH,,201211,B,54.0000,
+INVOICE,IN,,17110274,,11/01/2012,27.0000,"Invoice-Private",,11/01/2012,11/10/2012,,17115378MO,-1719.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Bryant, Benton",,,,,,,,,,,,,,,
+INVOICE,CM,,17110274,,11/01/2012,27,"Invoice-Private",,11/01/2012,11/10/2012,,17115378MO,-1719.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Bryant, Benton",,,,,,,,,,,,,,,

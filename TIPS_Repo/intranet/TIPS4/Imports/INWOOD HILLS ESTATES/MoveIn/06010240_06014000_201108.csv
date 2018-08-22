@@ -1,0 +1,6 @@
+BATCH,,201108,B,4294.0000,
+INVOICE,IN,,06010240,,08/05/2011,4294.0000,"MoveIn-Keller. Pamela",,08/05/2011,08/05/2011,,06014000,4294.0000,,,,,,,,,,
+TRANSACTION,3010,010206060,27,87.0000,2349,"Basic Service Fee - Studio: Keller. Pamela",,,,,,,,,,,,,,,
+TRANSACTION,3017,010206060,27,15.0000,405,"Resident Care - Level 1: Keller. Pamela",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40,"Monthly Cable: Keller. Pamela",,,,,,,,,,,,,,,
+TRANSACTION,3216,010206060,1,1500.0000,1500,"New Resident Fee: Keller. Pamela",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201207,B,2296.0000,
+INVOICE,IN,,50910136,,07/19/2012,1180.0000,"Invoice-Private",,07/19/2012,07/19/2012,,50913096MO,-556.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,496.0000,496.00,"CR:Limited Term Di... B.Fitzhugh 201207: Fitzhugh, Billie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,19,36.0000,684.00,"Basic Service Fee - Second Resident for Jul: Fitzhugh, Billie",,,,,,,,,,,,,,,
+INVOICE,CM,,50910136,,07/19/2012,1116,"Invoice-Private",,07/19/2012,07/19/2012,,50913096MO,-556.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1116,1116,"CR:Basic Service F... B.Fitzhugh 201207: Fitzhugh, Billie",,,,,,,,,,,,,,,

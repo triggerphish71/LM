@@ -1,0 +1,7 @@
+BATCH,,201306,B,5235.8000,
+INVOICE,IN,,08110246,,06/17/2013,1893.8000,"Invoice-Private",,06/17/2013,06/17/2013,,08114753MO,-4901.6000,,,,,,,,,,
+TRANSACTION,3020,010103081,17,104.0000,1768.00,"Basic Service Fee - One Bedroom for Jun: Austin, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,17,7.4000,125.80,"Resident Care - Level 4 for Jun: Austin, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08110246,,06/17/2013,3342,"Invoice-Private",,06/17/2013,06/17/2013,,08114753MO,-4901.6000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,3120,3120,"CR:Basic Service F... G.Austin 201306: Austin, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,222,222,"CR:Resident Care -... G.Austin 201306: Austin, George",,,,,,,,,,,,,,,

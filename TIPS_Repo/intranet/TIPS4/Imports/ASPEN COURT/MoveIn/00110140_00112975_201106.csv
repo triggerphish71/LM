@@ -1,0 +1,5 @@
+BATCH,,201106,B,2824.0000,
+INVOICE,IN,,00110140,,06/01/2011,2824.0000,"June_Rent-Culotta. Paul",,06/01/2011,06/10/2011,,00112975,5341.8000,,,,,,,,,,
+TRANSACTION,3010,010101001,30,78.0000,2340,"Basic Service Fee - One Bedroom    : Culotta. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,30,15.3000,459,"Resident Care - Level 9: Culotta. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Culotta. Paul",,,,,,,,,,,,,,,

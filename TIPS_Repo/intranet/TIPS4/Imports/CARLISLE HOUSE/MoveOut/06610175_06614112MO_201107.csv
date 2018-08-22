@@ -1,0 +1,7 @@
+BATCH,,201107,B,7500.0000,
+INVOICE,IN,,06610175,,07/28/2011,3625.0000,"Invoice-Private",,07/28/2011,07/28/2011,,06614112MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,29,93.0000,2697.00,"T.Miller: Basic Service Fee - Studio for Jul: Miller, Trellis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,29,32.0000,928.00,"T.Miller: Resident Care - Level 2 for Jul: Miller, Trellis",,,,,,,,,,,,,,,
+INVOICE,CM,,06610175,,07/28/2011,3875,"Invoice-Private",,07/28/2011,07/28/2011,,06614112MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2883,2883,"CR:T.Miller: Basic... T.Miller 201107: Miller, Trellis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,992,992,"CR:T.Miller: Resid... T.Miller 201107: Miller, Trellis",,,,,,,,,,,,,,,

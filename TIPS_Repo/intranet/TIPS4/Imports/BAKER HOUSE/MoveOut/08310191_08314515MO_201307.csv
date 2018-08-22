@@ -1,0 +1,7 @@
+BATCH,,201307,B,6540.0000,
+INVOICE,IN,,08310191,,07/16/2013,3161.0000,"Invoice-Private",,07/16/2013,07/16/2013,,08314515MO,-4527.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,29,90.0000,2610.00,"Basic Service Fee - Deluxe for Jul: Barber, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,29,19.0000,551.00,"Resident Care - Level 1 for Jul: Barber, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,08310191,,07/16/2013,3379,"Invoice-Private",,07/16/2013,07/16/2013,,08314515MO,-4527.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,2790,2790,"CR:Basic Service F... L.Barber 201307: Barber, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,589,589,"CR:Resident Care -... L.Barber 201307: Barber, Lorraine",,,,,,,,,,,,,,,

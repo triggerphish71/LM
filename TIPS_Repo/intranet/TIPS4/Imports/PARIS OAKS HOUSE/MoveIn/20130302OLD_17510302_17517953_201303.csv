@@ -1,0 +1,5 @@
+BATCH,,201303,B,3805.0000,
+INVOICE,IN,,17510302,,03/02/2013,3805.0000,"MoveIn-Bean. LaDois",,03/02/2013,03/02/2013,,17517953,3805.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,30,76.0000,2280,"L.Bean: Basic Service Fee - Studio Deluxe: Bean. LaDois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Bean. LaDois",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Bean. LaDois",,,,,,,,,,,,,,,

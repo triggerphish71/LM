@@ -1,0 +1,8 @@
+BATCH,,201111,B,4389.0000,
+INVOICE,IN,,17010262,,11/01/2011,519.0000,"Invoice-Private",,11/01/2011,11/01/2011,,17014351MO,-3351.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,1,390.0000,390.00,"CR:Limited Term Di... N.Weiss 201111: Weiss, Nicolena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107170,1,103.0000,103.00,"Basic Service Fee - One Bedroom for Nov: Weiss, Nicolena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,1,26.0000,26.00,"Resident Care - Level 2 for Nov: Weiss, Nicolena",,,,,,,,,,,,,,,
+INVOICE,CM,,17010262,,11/01/2011,3870,"Invoice-Private",,11/01/2011,11/01/2011,,17014351MO,-3351.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,1,3090,3090,"CR:Basic Service F... N.Weiss 201111: Weiss, Nicolena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,1,780,780,"CR:Resident Care -... N.Weiss 201111: Weiss, Nicolena",,,,,,,,,,,,,,,

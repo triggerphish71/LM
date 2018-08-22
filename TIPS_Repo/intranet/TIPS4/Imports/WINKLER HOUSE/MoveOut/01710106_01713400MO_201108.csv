@@ -1,0 +1,6 @@
+BATCH,,201108,B,5698.0000,
+INVOICE,IN,,01710106,,08/22/2011,2354.0000,"Invoice-Private",,08/22/2011,08/22/2011,,01713400MO,-4227.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,22,107.0000,2354.00,"Basic Service Fee - One Bedroom for Aug: Monahan, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,01710106,,08/22/2011,3344,"Invoice-Private",,08/22/2011,08/22/2011,,01713400MO,-4227.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,3317,3317,"CR:Basic Service F... C.Monahan 201108: Monahan, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... C.Monahan 201108: Monahan, Carol",,,,,,,,,,,,,,,

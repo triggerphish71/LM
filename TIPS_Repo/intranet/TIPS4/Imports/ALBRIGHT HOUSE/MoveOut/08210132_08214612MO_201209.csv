@@ -1,0 +1,7 @@
+BATCH,,201209,B,3232.0000,
+INVOICE,IN,,08210132,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,08214612MO,-3809.3000,,,,,,,,,,
+TRANSACTION,3320,010103082,1,60.0000,60.00,"CR:Limited Term Di... B.Hampton 201209: Hampton, Belma",,,,,,,,,,,,,,,
+INVOICE,CM,,08210132,,09/01/2012,3172,"Invoice-Private",,09/01/2012,09/10/2012,,08214612MO,-3809.3000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2610,2610,"CR:Basic Service F... B.Hampton 201209: Hampton, Belma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... B.Hampton 201209: Hampton, Belma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,537,537,"CR:Resident Care -... B.Hampton 201209: Hampton, Belma",,,,,,,,,,,,,,,

@@ -1,0 +1,419 @@
+<cfset ChangeRoomDate = session.oRelocateServices.getChangeRoomDate(tenantID=form.itenant_ID)>
+<cfset ChangeRoomDate1 = #DateFormat(ChangeRoomDate.ActualEffectivedt, "yyyy-mm-dd")#>
+<cfset getDate = session.oRelocateServices.getDate()>
+<cfset TimeStamp = CREATEODBCDateTime(GetDate.Stamp)>
+<cfset Tenant = session.oRelocateServices.getTenant(tenantID=form.iTenant_ID)>
+<cfset renteffectivedate = #tenant.dtrenteffective#>
+<CFSCRIPT>
+	dtActualEffective = form.month & "/" & form.day & "/" & form.year & " " & "23:59:59";
+	dtActualEffective = CreateODBCDateTime(Variables.dtActualEffective);
+	dtcompanionswitchdate= form.month & "/" & form.day & "/" & form.year ;
+	dtcompanionswitchdate= CreateODBCDateTime(Variables.dtcompanionswitchdate);
+</CFSCRIPT>
+<CFIF form.iTenant_ID EQ "">
+	<CFOUTPUT>	
+		<CFINCLUDE TEMPLATE="/intranet/header.cfm">
+		<TABLE>
+			<TR><TD STYLE="font-size: 20; font-weight: bold; background: white;">You have not selected a Tenant to Relocate.</TD></TR>
+		</TABLE>
+		<BR><BR>
+		<A HREF="/intranet/TIPS4/Relocate/RelocateTenant.cfm" STYLE="Font-size: 18;"> Click Here To Try Again. </A>
+		<CFINCLUDE TEMPLATE="/intranet/footer.cfm">
+		<CFABORT>
+	</CFOUTPUT>	
+</CFIF>
+<cfset MoveInDate = session.oRelocateServices.getMoveInDate(tenantID=form.itenant_ID)>
+<cfset bondhouse = session.oRelocateServices.getBondHouse(houseid=session.qSelectedhouse.iHouse_ID)>
+<cfset BondIncludedAptCheck = session.oRelocateServices.getBondIncludedAptCheck(ID=TRIM(form.iAptAddress_ID))>
+													
+<CFTRANSACTION>
+<cfset currentapttype = session.oRelocateServices.getCurrentAptType(id=tenant.iAptAddress_ID)>
+<cfset selectapttype = session.oRelocateServices.getSelectAptType(id=form.iaptaddress_ID)>
+<cfset stAptLog = {AptAddressID=trim(form.iaptaddress_id),dtActualEffective=trim(variables.dtActualEffective),userID=session.userid,dtRowStart=timestamp,tenantid=form.itenant_id}>
+<cfset checkBundled = session.oRelocateServices.getCheckBundled(id=form.iTenant_ID)>
+<cfset currentlyBundled = val(checkBundled.bIsBundled)>
+<cfset AptRelocation = session.oRelocateServices.updAptRelocate(theData=stAptLog)>
+<cfif isdefined("form.hasBundledPricing")>
+	<cfset hasBP = form.hasBundledPricing>
+<Cfelse>
+	<cfset hasBP = "">
+</cfif>
+
+<cfset TenantStateChange = session.oRelocateServices.updTenantStateChange(AddressID=TRIM(form.iAptAddress_ID),userid=session.userid,dtRowStart = #TimeStamp#,cBIsCompanion=currentapttype.bIscompanionSuite,sBIsCompanion=selectAptType.bIscompanionSuite,dtSwitchDate=TRIM(Variables.dtcompanionswitchdate),hasBP=hasBP,cBundled=currentlyBundled,tenantID=form.iTenant_ID)> 
+<cfif #form.iTenant_ID# NEQ ''>
+	<cfset qCompanionSwitchchk = session.oRelocateServices.getCompanionSwitchchk(id=form.itenant_Id)>
+	<cfif #DateFormat(qCompanionSwitchchk.dtCompanionToFullSwitch, 'yyyy-mm-dd')#  EQ  #DateFormat(qCompanionSwitchchk.dtFulltoCompanionSwitch, 'yyyy-mm-dd')#>
+		<cfset qUpdateCompanionSwitch = session.oRelocateServices.updCompanionSwitch(id=qCompanionSwitchchk.itenantState_ID)>
+	</cfif>	
+</cfif>	
+
+<cfset WriteActivity = session.oRelocateServices.insWriteActivity(activityID=4,actualEffective=dtActualEffective,tenantID=form.itenant_Id,houseid=session.qSelectedhouse.ihouse_id,AptAddressID=form.iaptaddress_id,points=tenant.ispoints,acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,dt=timestamp)>
+<cfset changeRoomDate = session.oRelocateServices.getChangeRoomDate(tenantID=form.itenant_Id)>
+<cfset ChangeRoomDate2 = #DateFormat(ChangeRoomDate.ActualEffectivedt, "yyyy-mm-dd")#>
+<cfset qrelocatingtenantoccupancy = session.oRelocateServices.getRelocatingtenantoccupancy(id=form.itenant_id)>
+<cfset qCheckifChargeThroughDtExists = session.oRelocateServices.getCheckifChargeThroughDtExists(id=form.iAptAddress_id)>
+<cfset allowDtSecondary = false>
+<cfif DateDiff('d',now(),qCheckIfChargeThroughDtExists.dtChargeThrough) LTE 0>
+	<cfset allowDtSecondary = true>
+</cfif>
+<cfset qnewoccupancyofrelocatingtenant = session.oRelocateServices.getNewOccupancyofRelocatingTenant(id=form.newcharge)>
+<cfset qserachtenantadrressID = session.oRelocateServices.getSerachTenantAdrressID(AddressID=form.iAptAddress_ID,id=form.iTenant_ID)>
+
+<cfif #Tenant.dtsecondaryswitchdate# NEQ '' and #qserachtenantadrressID.itenant_id# NEQ '' >
+	<cfset updatesecondarySwitchDatenull = session.oRelocateServices.updSecondarySwitchDatenull(id=form.iTenant_ID)>
+</cfif>
+
+<cfif #qrelocatingtenantoccupancy.ioccupancyposition# eq 2 and #qnewoccupancyofrelocatingtenant.ioccupancyposition# eq 1 and #qserachtenantadrressID.itenant_id# eq '' and #selectedapttype.bIscompanionSuite# neq 1 and #TRIM(Variables.dtcompanionswitchdate)# gt #qrelocatingtenantoccupancy.dtrenteffective# and allowDtSecondary EQ "true">
+	<cfset updatesecondarySwitchDatenull = session.oRelocateServices.updSecondarySwitchDatenull(id=form.iTenant_ID)>	
+</cfif>
+<cfset qserachtenantpreviousadrressID = session.oRelocateServices.getSerachTenantPreviousAdrressID(id=form.iTenant_ID,addressID=tenant.iAptAddress_ID)>
+
+<cfif #qrelocatingtenantoccupancy.ioccupancyposition# eq 1 and #Trim(qserachtenantpreviousadrressID.itenant_id)# NEQ '' and #Trim(qserachtenantpreviousadrressID.ioccupancyposition)# eq 2 and #TRIM(Variables.dtcompanionswitchdate)# gt 
+#qrelocatingtenantoccupancy.dtrenteffective# and allowDtSecondary EQ "true">
+	<cfset updatesecondarySwitchDateforsecondary = session.oRelocateServices.getUpdatesecondarySwitchDateforsecondary(dt=trim(variables.dtCompanionSwitchDate),id=qSearchTenantPreviousAddressID.iTenant_ID)>
+</cfif>
+<cfif #qserachtenantadrressID.dtSecondarySwitchDate# neq '' and #qserachtenantadrressID.itenant_id# NEQ '' >
+	<cfset updatesecondarySwitchDatenull = session.oRelocateServices.updSecondarySwitchDatenull(id=qserachtenantadrressID.itenant_id)>	
+</cfif>
+
+<cfif datecompare(ChangeRoomDate1, ChangeRoomDate2, "d") eq 0>
+	<cfset checkSwitch = session.oRelocateServices.getCheckSwitch(id=form.itenant_id)>
+	<cfset qtenantoccupancybeforefirstmove = session.oRelocateServices.getTenantOccupancyBeforeFirstMove(id=form.itenant_id)>
+	<cfif #qtenantoccupancybeforefirstmove.ioccupancyposition# eq 1	and #qrelocatingtenantoccupancy.ioccupancyposition# eq 2 and #qnewoccupancyofrelocatingtenant.ioccupancyposition# eq 1 and #TRIM(Variables.dtcompanionswitchdate)# EQ #TRIM(checkSwitch.dtSecondarySwitchdate)#>
+		<cfset updateSSD = session.oRelocateServices.updSSD(id=form.itenant_Id)>
+	</cfif>
+</cfif>
+<!--- ==============================================================================
+Added by Katie 8/15/03
+Edit most recent invoice with new qty of R&B charges.  Add new row(s) for debit or credit of remaining qty of R&B charges
+=============================================================================== --->
+
+<cfif Tenant.bIsMedicaid is "">
+	<cfset TenantbIsMedicaid = "IS NULL">
+<cfelse>
+	<cfset TenantbIsMedicaid = "IS NOT NULL">
+</cfif>	
+<!--- get appropriate chargetype to use --->
+<cfset getChargeType = session.oRelocateServices.getChargeType(id=form.itenant_id,TenantMedicaid=TenantbIsMedicaid)>
+<cfif getChargeType.iChargeType_ID is not "">
+<!--- get most recent active invoicedetail for tenant where chargetype is #getChargeType.iChargeType_ID# (usually 89) --->
+	<cfset getmostrecentinvoicedetail = session.oRelocateServices.getmostrecentinvoicedetail(ID=form.iTenant_id,chargeTypeID=getChargeType.iChargeType_ID)>
+</cfif>
+ <!--- if a record is returned, their records can be prorated --->
+<cfif isDefined("getmostrecentinvoicedetail.iInvoiceDetail_ID") AND getmostrecentinvoicedetail.recordcount is not 0>
+<!--- figure out how many days at prev room and how many days in new room --->
+<cfset CreateaDate = "#form.month#/#form.day#/#form.year# 00:00:00 AM"> 
+<cfset TotalMonthDays = #DaysInMonth(CreateaDate)#>
+<!---if  transfer done before rent effective date/mshah--->
+<cfif #Tenant.dtrenteffective# gt CreateaDate> 
+	<cfset newroomqty = (#TotalMonthDays# - #day(Tenant.dtrenteffective)#) + 1>
+<cfelse>	
+   	<cfset newroomqty = (#TotalMonthDays# - #form.day#) + 1>
+</cfif>
+	
+<!-- always going to be editing and adding room change info to most recent invoice master --->
+<cfset getMostRecentInvoiceMaster = session.oRelocateServices.getMostRecentInvoiceMaster(ID=form.iTenant_id)>	
+<!--- can't edit old room rate in InvoiceDetail because it's for the month previous to the currently billed month (since we bill one month in advance)
+		so instead, calculate a credit or debit (based on room downgrade/upgrade) and enter it as a Basic Service Fee adjustment for the prev month --->
+<!---get most recent LOC charge--->		
+<cfset GetMostRecentLOCcharges = session.oRelocateServices.GetMostRecentLOCcharges(ID=form.iTenant_id)>	
+<!--- compare the OLD room rate to NEW room rate and add Basic Service Fee adjustment --->
+<cfset GetOldReccuringCharge = session.oRelocateServices.GetOldReccuringCharge(ID=form.iTenant_id,chargetypeID=getChargeType.iChargeType_ID)>	
+<cfset getRoomDescription = session.oRelocateServices.getRoomDescription(ID=SESSION.qSelectedHouse.iHouse_ID,AddressID=form.iAptAddress_ID)>	
+<!--- calulate adjustment for relocation month --->
+<!--- calculate adjustment difference by DAY --->
+<cfset oldcharge =  Round(#GetOldReccuringCharge.RCmAmount#*100)/100>
+<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1748 or #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1682>
+	<cfset newcharge = round(((#form.Recurring_mAmount#/#daysinmonth(dtActualEffective)#)*#newroomqty#)*100)/100 >
+<cfelse>
+	<cfset newcharge = round(#form.Recurring_mAmount#*100)/100>
+</cfif>
+
+<cfif oldcharge is not "" and newcharge is not "">
+	<cfset difference = newcharge - oldcharge>
+<cfelse>
+	<center><font color="red"><strong>No valid Basic Service Fee recurring charge was found for this resident.  Cannot relocate.</strong></font></center>
+	<cfabort>
+</cfif>
+		
+<!--- enter Adjustment for relocation month in InvoiceDetail --->
+	<cfif difference is not 0>
+		<cfif difference GT 0>
+			<cfset IncreaseOrDecrease = "Increase">
+		<cfelseif difference LT 0>
+			<cfset IncreaseOrDecrease = "Decrease">
+		</cfif>
+		<cfset relocationdate = "#form.month#/#form.year#">
+		<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1748 and #GetOldReccuringCharge.ichargetype_ID# eq 89> <!---transfer from AL to MC loop1--->
+		<!---insert credit back for 1748 loop 1  mshah added query to find if there are previous invoicerecords, then only add the adjustments--->
+			<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(relocationdate,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>
+			<cfif #CheckForPreInvoice.recordcount# gt 0> 
+			<!---Mshah added to check for previous period invoice--->
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=getOldRecurringCharge.iChargeType_id,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=newroomqty,desc='credit Basic Service Fee',amt=oldcharge,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+			<cfset CheckForPreInvoiceLOC = session.oRelocateServices.getCheckForPreInvoiceLoc(id=form.itenant_id,acctperiod=dateformat(relocationdate,'yyyymm'))>		
+			<cfif #CheckForPreInvoiceLOC.recordcount# gt 0> 
+				<!---Mshah added to check for previous period invoice--->
+				<cfset stInvoiceLOCData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=91,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=newroomqty,desc='credit LOC charges',amt=GetMostRecentLOCcharges.mamount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+				<cfset AddNewInvoiceDetailAdjustmentLOC = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceLOCData)>
+			</cfif> 
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=qnewoccupancyofrelocatingtenant.ichargetype_ID,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=1,desc='Basic Service Fee - #trim(getRoomDescription.cDescription)#',amt=newcharge,comments='AL to MC room change charge',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<cfset AddNewInvoiceDetail = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+		</cfif> 
+	<cfelseif (#qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 89 or #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1682) and #GetOldReccuringCharge.ichargetype_ID# eq 1748> 
+		<!---Mshah MC to AL monthly/AL daily loop 1 --->
+	     <!---check for the previous invoice--->
+		<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(relocationdate,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>
+		<cfif #CheckForPreInvoice.recordcount# gt 0> 
+		<!---if record returned , insert the invoicedetail--->
+			<cfset oldMCcharge= (#oldcharge#/#daysinmonth(dtActualEffective)#)*#newroomqty#>
+			<cfset oldMCcharge= round(#oldMCcharge#*100)/100>
+			<!---credit the MC charge--->
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=GetOldReccuringCharge.iChargeType_id,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=1,desc='credit #trim(GetOldReccuringCharge.cDescription)#',amt=oldMCcharge,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+			<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1682 >
+				<cfset qty = 1>
+			<cfelse>
+				<cfset qty = newroomqty>
+			</cfif>	
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=qnewoccupancyofrelocatingtenant.ichargetype_ID,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=qty,desc='Basic Service Fee - #trim(getRoomDescription.cDescription)#',amt=newcharge,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<!---insert new AL daily/monthly charge--->
+			<cfset AddNewInvoiceDetail = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+		</cfif>
+	<!---mshah MC to AL daily/AL monthly end--->
+	<!---transfer from AL Monthly to MC or MC to AL monthly loop 1--->
+	<cfelseif (#qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1748 or #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1682) and (#GetOldReccuringCharge.ichargetype_ID# eq 1748 or #GetOldReccuringCharge.ichargetype_ID# eq 1682)>
+		<cfset oldMCcharge= (#oldcharge#/#daysinmonth(dtActualEffective)#)*#newroomqty# >
+		<cfset oldMCcharge= round(#oldMCcharge#*100)/100>
+		<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(relocationdate,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>
+		<cfif #CheckForPreInvoice.recordcount# gt 0> 
+			<!---Mshah added to check for previous period invoice--->
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=getOldRecurringCharge.iChargeType_id,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=1,desc='credit #trim(GetOldReccuringCharge.cDescription)#',amt=oldMCcharge,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=qnewoccupancyofrelocatingtenant.ichargetype_ID,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=1,desc='Basic Service Fee - #trim(getRoomDescription.cDescription)#',amt=newcharge,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<!---insert new charge--->
+			<cfset AddNewInvoiceDetail = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>	
+		</cfif> 
+	<cfelse>
+		<!---transfer from Al daily to Al daily loop 1--->
+		<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(relocationdate,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>
+		<cfif #CheckForPreInvoice.recordcount# gt 0> 
+			<!---Mshah added to check for previous period invoice--->
+			<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=42,acctperiod=DateFormat(relocationDate,'yyyymm'),qty=newroomqty,desc='#IncreaseOrDecrease# Basic Service Fee',amt=difference,comments='Room change on #form.month#/#form.day#/#form.year# - #trim(getRoomDescription.cDescription)#. Old rate: #DollarFormat(Oldcharge)#  New Rate: #DollarFormat(Newcharge)#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=newRoomQty}>
+			<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+		</cfif> <!---Mshah added here end cfif--->
+	</cfif> 	
+</cfif>
+
+<!--- get number of months back the relocation date was --->
+<cfset MoveInMonthsAgo = abs(#month(SESSION.TipsMonth)# - #form.month#)>
+<!--- if moveinmonths ago is GTE 1, must calculate adjustment for all months in between move in and now --->
+<cfif MoveInMonthsAgo GTE 1>	
+	<cfset monthtouse = "#form.month#/#form.year#">
+	<cfset newmonth = #DateAdd('m', 1, monthtouse)#>
+	<cfset NewMonthDifference = 0>
+	<cfloop condition="#DateFormat(newmonth, 'MM/YYYY')# LT #DateFormat(SESSION.TipsMonth, 'MM/YYYY')#">
+		<cfset DaysInNewMonth = #DaysInMonth(newmonth)#>DaysInNewMonth <cfoutput>#DatePart('m',newmonth)#/#DatePart('yyyy',newmonth)# is #DaysInNewMonth#</cfoutput><BR
+		<!--- figure old and new amount by DAY --->
+		<cfset OldAmount = round(#GetOldReccuringCharge.RCmAmount#*100)/100>
+		<!---OldAmount for days in month: <cfoutput>#OldAmount#</cfoutput><BR>--->
+		<cfset NewAmount = round(#form.Recurring_mAmount#*100)/100>
+		<cfset DailyDifference = NewAmount - OldAmount>
+		<!--- if entering adjustments by month (instead of one lump sum), enter Adjustment in InvoiceDetail now --->
+		<cfif DailyDifference is not 0>
+			<cfif DailyDifference GT 0>
+				<cfset IncreaseOrDecrease = "Increase">
+			<cfelseif DailyDifference LT 0>
+				<cfset IncreaseOrDecrease = "Decrease">
+			</cfif>
+			<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1748 and #GetOldReccuringCharge.ichargetype_ID# eq 89> 
+				<!--- transfer from AL to M loop 2--->
+				<!---mshah added query to find if there are previous invoicerecords, then only add the adjustments--->
+				<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(newmonth,'yyyymm'),chargeTypeID=0)>
+				<cfif #CheckForPreInvoice.recordcount# gt 0> 
+				<!---Mshah added to check for previous period invoice--->
+					<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=89,acctperiod=DateFormat(newmonth,'yyyymm'),qty=DaysInNewMonth,desc='credit Basic Service Fee daily',amt=oldamount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=DaysInNewMonth}>
+					<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+					<!---mshah added query to find if there are previous invoicerecords, then only add the adjustments--->
+					<cfset checkForPreInvoiceLOC2 = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(newmonth,'yyyymm'),chargeTypeID=91)>
+						<cfif #CheckForPreInvoiceLOC2.recordcount# gt 0> 
+						<!---Mshah added to check for previous period invoice--->
+					<cfset  GetMostRecentLOCchargesmamount = round(#GetMostRecentLOCcharges.mamount#*100)/100>
+					<cfset stInvoiceLOCData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=91,acctperiod=DateFormat(newmonth,'yyyymm'),qty=DaysInNewMonth,desc='credit LOC charges',amt=GetMostRecentLOCchargesmamount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=DaysInNewMonth}>
+					<cfset AddNewInvoiceDetailAdjustmentLOC = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceLOCData)>
+				</cfif> <!---Mshah cfif ends--->
+				<cfset   formrecurringmAmount =  round(#form.recurring_mAmount#*100)/100>
+				<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=1748,acctperiod=DateFormat(newmonth,'yyyymm'),qty=1,desc='Basic Service Fee - #trim(getRoomDescription.cDescription)#',amt=formrecurringmAmount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=daysinnewmonth}>
+				<!---insert new charge--->
+				<cfset AddNewInvoiceDetail = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>	
+			</cfif> <!---mshah ends here cfif--->
+			<!---mshah added for MC to AL transfer--->
+		<cfelseif listfindnocase("89,1682","#qnewoccupancyofrelocatingtenant.ichargetype_ID#",",") and (#GetOldReccuringCharge.ichargetype_ID# eq 1748)>
+			<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(newmonth,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>
+            <cfif #CheckForPreInvoice.recordcount# gt 0> <!---Mshah added to check for previous period invoice--->
+				<cfset  oldamount  = round(#oldamount#*100)/100>	   
+				<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=GetOldReccuringCharge.ichargetype_ID,acctperiod=DateFormat(newmonth,'yyyymm'),qty=1,desc='credit #trim(GetOldReccuringCharge.cDescription)#',amt=oldamount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=DaysInNewMonth}>
+				<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+				<!---charge credit for AL/AL monthly --->
+				<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1682>
+					<cfset qty =  1>
+				<cfelse>
+					<cfset qty = daysinnewmonth>
+				</cfif>
+				<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=qnewoccupancyofrelocatingtenant.ichargetype_ID,acctperiod=DateFormat(newmonth,'yyyymm'),qty=qty,desc='Basic Service Fee - #trim(getRoomDescription.cDescription)#',amt=form.recurring_mAmount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=daysinnewmonth}>
+				<cfset AddNewInvoiceDetail = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>	
+			</cfif>
+		<cfelseif listfindnocase("1748,1682","#qnewoccupancyofrelocatingtenant.ichargetype_ID#",",") and listfindnocase("1748,1682","#GetOldReccuringCharge.ichargetype_ID#",",")>    
+			<!---Transfer from AL monthly to MC or MC to AL monthly loop 2--->
+			<cfset  oldamount  = round(#oldamount#*100)/100>
+			<!---Mshah added to check for previous period invoice--->
+			<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(newmonth,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>	
+				<cfif #CheckForPreInvoice.recordcount# gt 0> <!---Mshah added to check for previous period invoice--->
+					<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=GetOldReccuringCharge.ichargetype_ID,acctperiod=DateFormat(newmonth,'yyyymm'),qty=1,desc='credit #trim(GetOldReccuringCharge.cDescription)#',amt=oldamount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=DaysInNewMonth}>
+					<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>	
+					<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=qnewoccupancyofrelocatingtenant.ichargetype_ID,acctperiod=DateFormat(newmonth,'yyyymm'),qty=1,desc='Basic Service Fee - #trim(getRoomDescription.cDescription)#',amt=form.recurring_mAmount,comments='Room change on #form.month#/#form.day#/#form.year#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=daysinnewmonth}>
+					<cfset AddNewInvoiceDetail = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>						
+				</cfif> <!---Mshah added to check for previous period invoice cfif ends--->	
+				
+		<cfelse>
+			<!---transfer from AL daily to AL daily loop 2--->
+			<!---Mshah added to check for previous period invoice--->
+				<cfset checkForPreInvoice = session.oRelocateServices.getCheckForPreInvoice(id=form.itenant_id,relocationdt=DateFormat(newmonth,'yyyymm'),chargeTypeID=GetOldReccuringCharge.ichargetype_ID)>	
+				<cfif #CheckForPreInvoice.recordcount# gt 0> <!---Mshah added to check for previous period invoice--->
+					<cfset stInvoiceData = {InvoiceMasterID=GetMostRecentInvoiceMaster.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=42,acctperiod=DateFormat(newmonth,'yyyymm'),qty=DaysInNewMonth,desc='#IncreaseOrDecrease# Basic Service Fee',amt=DailyDifference,comments='#trim(getRoomDescription.cDescription)#. Old rate: #DollarFormat(OldAmount)#  New Rate: #DollarFormat(NewAmount)#',acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=daysinnewmonth}>
+					<cfset AddNewInvoiceDetailAdjustment = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>	
+				</cfif> 
+			</cfif>
+		</cfif>
+		<cfset newmonth = #DateAdd('m', 1, newmonth)#>
+	</cfloop>				
+</cfif>
+	
+<cfset 	deleteOldReccuringCharge = session.oRelocateServices.updDeleteOldReccuringCharge(dt=timestamp,userid=session.userid,rcID=getOldReccuringCharge.recCharge)>			
+<!--- setting iCharge_ID and Description to the OLD/ORIGINAL Charge_ID Mamta added #form.NEWCHARGE# to fix the charge ID update--->
+<!---mshah added this to find the description--->
+<cfset FindNEwChargeDescription = session.oRelocateServices.FindNewChargeDescription(id=form.newCharge)>		
+<cfset stRCData = {tenantID=form.itenant_Id,chargeID=form.newcharge,qty=1,desc="#FindNEwChargeDescription.cdescription#",amt=Form.Recurring_mAmount,comment='Recurring created upon room change',acctStamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid}>
+<cfset insertNewRecurringCharge = session.oRelocateServices.inNewRecurringCharges(RCData=stRCData)>
+<cfset NewRecurringCharge = session.oRelocateServices.getNewRecurringCharge(id=form.itenant_id,comments='Recurring created upon room change')>
+	<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# neq 1748>
+		<cfif tenant.iProductLine_id EQ 1>
+			<cfset qty = daysInMonth(session.TipsMonth)>
+			<cfset chargeTypeID =  89>
+		<cfelse>
+			<cfset qty = 1>
+			<cfset chargeTypeID = 1748>
+		</cfif>	
+		<cfset strInvoiceData = {amt=form.recurring_mAmount,desc=FindNEwChargeDescription.cdescription,recurringchargeID=NewRecurringCharge.irecurringcharge_ID,daysBilled=daysinmonth(session.Tipsmonth),qty=qty,chargeTypeID=chargeTypeID,invoiceDetailID=getmostrecentinvoicedetail.iInvoiceDetail_ID}>
+		<cfset UpdateInvoiceDetail = session.oRelocateServices.updInvoiceDetail(theData=strInvoiceData)>
+	</cfif>
+	<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1748>
+		<cfset strInvoiceData = {chargetypeID=1748,qty=1,amt=form.recurring_mAmount,desc="Basic Service Fee - #trim(getRoomDescription.cDescription)#",recurringChargeID=NewRecurringCharge.irecurringcharge_ID,daysbilled=daysinmonth(session.Tipsmonth),invoiceDetailID=getmostrecentinvoicedetail.iInvoiceDetail_ID}>
+		<cfset UpdateInvoiceDetailforMC = session.oRelocateServices.updInvoiceDetailMC(theData=strInvoiceData)>
+	</cfif>
+	<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 1748>
+		<cfset theData = {invoiceMasterID=getmostrecentinvoicedetail.iInvoiceMaster_ID,chargeTypeID=91}>	
+		<cfset UpdateInvoiceDetailforMC2 = session.oRelocateServices.updInvoiceDetailMC2(theData=theData)>	
+	</cfif>
+<cfelse>
+<!--- their Invoices use a chargetype that cannot be prorated, so nothing happens --->		
+</cfif>
+	
+<!--- ==============================================================================
+Proj 26955 RTS 1/30/2009 - Added if and updates for Bond 
+	 Decision sql updates for BOND settings. 
+ 		Bond_bRecert, Bond_bTenantisBond, Bond_bRoomisBond, Bond_bRoomisBondIncluded 
+=============================================================================== --->
+<cfif bondhouse.ibondhouse eq 1>
+	<cfset UpdateTenantBondStatus = session.oRelocateServices.updTenantBondStatus(bIsBond=form.cBondTenantEligibleAfterRelocate,bondCert=form.txtBondReCertDate,userID=SESSION.USERNAME,tenantID=form.iTenant_ID)>
+	<cfset tenantbcheck = session.oRelocateServices.getTenantBCheck(tenantID=form.iTenant_ID)>
+	<cfset roombcheck = session.oRelocateservices.getRoomBCheck(ID=form.iAptAddress_ID)>
+	<cfif ((tenantbcheck.bIsBond eq 1) and (roombcheck.bBondIncluded eq 1))>
+		<cfset TurnRoomBond = session.oRelocateServices.updTurnRoomBond(isBond=1,userID=session.username,id=form.iaptAddress_ID)>
+	</cfif>
+</cfif>
+<!--- ==============================================================================
+Proj ALtoMC Switch for BI--Added by Mamta-Start
+=============================================================================== --->
+<!---check current room--->
+<cfset 	Currentroomcheck = session.oRelocateServices.getCurrentRoomCheck(id=form.itenant_ID)>
+<!---check new room--->
+<cfset 	Memorycareroomcheck = session.oRelocateServices.getMemorycareroomcheck(id=form.iAptAddress_ID)>
+<!---Update Tenantstate--->
+<cfif #Memorycareroomcheck.bismemorycareeligible# eq 1 >
+	<cfif #Tenant.dtMCSwitch# eq ''>
+		<cfset mcswitch = dtActualEffective>
+	<cfelse>
+		<cfset mcswitch = "">
+	</cfif>
+	<cfset UpdateTenantState = session.oRelocateServices.updTenantState(mcswitch=mcswitch,productlineid=2,tenantid=form.itenantid)>
+</cfif>
+<cfif #qnewoccupancyofrelocatingtenant.ichargetype_ID# eq 89>
+	<cfset bType = "D">
+<cfelseif listfindnocase("1748,1682",newoccupancyofrelocatingtenant.ichargetype_ID,",")>
+	<cfset bType = "M">
+<cfelse>
+	<cfset bType=session.qselectedhouse.cbillingtype>
+</cfif>
+<cfset UpdateTenant = session.oRelocateServices.updTenant(btype=btype,tenantid=form.itenant_id)>		
+<!--- ==============================================================================
+Proj ALtoMC Switch for BI--Added by Mamta--End
+=============================================================================== --->
+</CFTRANSACTION>	
+<!---Mshah added this for SP to send information to SL to resident subaccount put this code in cftransaction now change later--->	
+<!---query to get gl subaccount in TIPS--->
+<cfset getSubAccount = session.oRelocateServices.getSubAccount(id=form.itenant_id)>	
+<!---query to get subaccount and full name in SL--->
+<cfset getSLDetails = session.oRelocateServices.getSLDetails(datasource="houses_app",id=form.itenant_id)>	
+<cfset fname= '#Trim(tenant.cfirstname)# #Trim(tenant.clastname)#'>
+<cfset subaccount= '#getSubaccount.cglsubaccount#'>
+<cfset userID= '#session.username#'>
+<!----if name or subaccount dont match update them, fire the procedure--->
+<cfif ('#fname#' NEQ '#trim(getSLDetails.name)#') or ('#getSubaccount.cglsubaccount#' NEQ '#getSLDetails.SlsSub#')>
+<cfset qCustImport = session.oRelocateServices.getCustImport(datasource="Houses_App",id=tenant.csolomonkey,fname=fname,subacct=subaccount,userid=userid)>	
+</cfif>
+<!---End--->		
+<!--- ==============================================================================
+Redirect page back to the main page with the new Apartment Change
+=============================================================================== --->
+<cfdump var="#newMonth#">
+
+<cfif tenant.dtMC2ALSwitch EQ "" AND tenant.bMC2AL NEQ "">
+<!---
+	<cfset updMC2ALDate = session.oRelocateServices.updMCtoALDate(id=form.itenant_id,switchDT=dtActualEffective)>
+--->
+	<!-- mc start date is 1 of the month --->
+	<cfset mcStart= CreateDate(form.year,form.month,1)>
+	<cfset mcEnd =  CreateDate(form.year,form.month,form.day)>
+	<cfset mcNoDays = DateDiff('d',mcStart,mcEnd)>
+	<!--- mc to al prorations for R&B and LOC 
+	<cfset inMCProrate = session.oRelocatServices.addNewInvoiceDetail()>
+--->
+
+
+	<!--AL start and end --->
+
+
+	<cfset alStart = CreateDate(form.year,form.month,form.day)>
+	<cfset eom = DaysInMonth(form.month)>
+	<cfset alEnd = CreateDate(form.year,form.month,eom)>
+	<cfset alNoDays = DateDiff('d',alStart,alEnd)>
+<!--- prorate the current month LOC charges --->
+	<!--- get the LOC Charges which is iChargeType_ID = 91 --->
+<!--- if moveinmonths ago is GTE 1, must calculate adjustment for all months in between move in and now --->
+		<cfset getLOCData = session.oRelocateServices.getLOCData(id=form.itenant_id)>
+	
+
+	<cfset stInvoiceData = {InvoiceMasterID=getLOCData.iInvoiceMaster_ID,tenantID=form.itenant_id,chargeTypeID=getLOCData.iChargeType_ID,acctperiod=DateFormat(SESSION.AcctStamp,'yyyymm'),qty=alNoDays,desc=getLocData.cDescription,amt=getLOCData.mAmount,comments="",acctstamp=CreateODBCDateTime(SESSION.AcctStamp),userid=session.userid,timestamp=timestamp,daysBilled=alNodays}>
+		<cfset inALProrate = session.oRelocateServices.addNewInvoiceDetail(theData=stInvoiceData)>
+<cfdump var="#getLOCData#" label="getLOCData">
+<cfdump var="#stInvoiceData#" label="stInvoiceData">
+</cfif>
+	
+1111<cfabort>
+
+<CFIF SESSION.USERID IS 3025 OR SESSION.USERID is 3271>
+	<a href="../MainMenu.cfm">Continue</a>
+<cfelse>
+	<CFLOCATION URL="../MainMenu.cfm" ADDTOKEN="No">
+</cfif>

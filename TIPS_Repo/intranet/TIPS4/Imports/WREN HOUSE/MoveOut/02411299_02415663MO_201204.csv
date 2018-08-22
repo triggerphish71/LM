@@ -1,0 +1,6 @@
+BATCH,,201204,B,4023.0000,
+INVOICE,IN,,02411299,,04/02/2012,666.0000,"Invoice-Private",,04/02/2012,04/02/2012,,02415663MO,-2691.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,6,111.0000,666.00,"Basic Service Fee - One Bedroom for Apr: Zook, Mardelle",,,,,,,,,,,,,,,
+INVOICE,CM,,02411299,,04/02/2012,3357,"Invoice-Private",,04/02/2012,04/02/2012,,02415663MO,-2691.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3330,3330,"CR:Basic Service F... M.Zook 201204: Zook, Mardelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... M.Zook 201204: Zook, Mardelle",,,,,,,,,,,,,,,

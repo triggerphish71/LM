@@ -1,0 +1,6 @@
+BATCH,,201305,B,3707.0000,
+INVOICE,IN,,05610210,,05/15/2013,1200.0000,"Invoice-Private",,05/15/2013,05/15/2013,,05614871MO,-3734.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,15,80.0000,1200.00,"Basic Service Fee - One Bedroom for May: Hopkins, Steve",,,,,,,,,,,,,,,
+INVOICE,CM,,05610210,,05/15/2013,2507,"Invoice-Private",,05/15/2013,05/15/2013,,05614871MO,-3734.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,2480,2480,"CR:Basic Service F... S.Hopkins 201305: Hopkins, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... S.Hopkins 201305: Hopkins, Steve",,,,,,,,,,,,,,,

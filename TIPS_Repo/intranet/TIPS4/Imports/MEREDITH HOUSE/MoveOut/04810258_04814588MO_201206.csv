@@ -1,0 +1,8 @@
+BATCH,,201206,B,3836.0000,
+INVOICE,IN,,04810258,,06/02/2012,296.0000,"Invoice-Private",,06/02/2012,06/02/2012,,04814588MO,-3244.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,1,60.0000,60.00,"CR:Limited Term Di... J.Shipman 201206: Shipman, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,2,103.0000,206.00,"Basic Service Fee - Studio for Jun: Shipman, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,2,15.0000,30.00,"Resident Care - Level 1 for Jun: Shipman, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,04810258,,06/02/2012,3540,"Invoice-Private",,06/02/2012,06/02/2012,,04814588MO,-3244.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... J.Shipman 201206: Shipman, Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,450,450,"CR:Resident Care -... J.Shipman 201206: Shipman, Juanita",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,4238.9400,
+INVOICE,IN,,00910155,,01/01/2013,868.0000,"Invoice-Private",,01/01/2013,01/10/2013,,00913862MO,-3483.5200,,,,,,,,,,
+TRANSACTION,3320,010101009,1,868.0000,868.00,"CR:Limited Term Di... D.Craig 201301: Craig, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,00910155,,01/01/2013,3370.94,"Invoice-Private",,01/01/2013,01/10/2013,,00913862MO,-3483.5200,,,,,,,,,,
+TRANSACTION,3020,010101009,1,3038,3038,"CR:Basic Service F... D.Craig 201301: Craig, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,332.94,332.94,"CR:Resident Care -... D.Craig 201301: Craig, Dorothy",,,,,,,,,,,,,,,

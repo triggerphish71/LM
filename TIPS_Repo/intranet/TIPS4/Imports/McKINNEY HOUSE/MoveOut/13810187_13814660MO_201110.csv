@@ -1,0 +1,6 @@
+BATCH,,201110,B,5580.0000,
+INVOICE,IN,,13810187,,10/01/2011,1333.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13814660MO,-2633.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,1333.0000,1333.00,"CR:Limited Term Di... B.Thompson 201110: Thompson, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13810187,,10/01/2011,4247,"Invoice-Private",,10/01/2011,10/10/2011,,13814660MO,-2633.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2883,2883,"CR:Basic Service F... B.Thompson 201110: Thompson, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,1364,1364,"CR:Resident Care -... B.Thompson 201110: Thompson, Betty",,,,,,,,,,,,,,,

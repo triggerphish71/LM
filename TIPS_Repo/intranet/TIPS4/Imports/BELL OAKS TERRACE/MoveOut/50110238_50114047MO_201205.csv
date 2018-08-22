@@ -1,0 +1,5 @@
+BATCH,,201205,B,545.6000,
+INVOICE,IN,,50110238,,05/01/2012,272.8000,"Invoice-Private",,05/01/2012,05/10/2012,,50114047MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3312,010209501,31,8.8000,272.80,"Credit for Two Room Rental Discount: Phillips, Joanna",,,,,,,,,,,,,,,
+INVOICE,CM,,50110238,,05/01/2012,272.8,"Invoice-Private",,05/01/2012,05/10/2012,,50114047MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3312,010209501,31,8.8,272.8,"Two Room Rental Discount: Phillips, Joanna",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,10098.9100,
+INVOICE,IN,,21410152,,05/01/2012,4378.4800,"Invoice-Private",,05/01/2012,05/10/2012,,21417469MO,-1341.9500,,,,,,,,,,
+TRANSACTION,3320,010221214,1,1426.0000,1426.00,"CR:Limited Term Di... N.Harris 201205: Harris, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010221214,16,77.5300,1240.48,"Resident Care - Level 6+7 pts for May: Harris, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,16,107.0000,1712.00,"Studio Suite for May: Harris, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,21410152,,05/01/2012,5720.43,"Invoice-Private",,05/01/2012,05/10/2012,,21417469MO,-1341.9500,,,,,,,,,,
+TRANSACTION,3027,010221214,1,2403.43,2403.43,"CR:Resident Care -... N.Harris 201205: Harris, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,3317,3317,"CR:Studio Suite... N.Harris 201205: Harris, Norma",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201111,B,6201.0000,
+INVOICE,IN,,16410288,,11/02/2011,6201.0000,"MoveIn-Hopper. Anson",,11/02/2011,11/02/2011,,16416023,6201.0000,,,,,,,,,,
+TRANSACTION,3010,010202164,29,96.0000,2784,"Basic Service Fee - Studio Premium: Hopper. Anson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202164,29,48.0000,1392,"Resident Care - Level 4: Hopper. Anson",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25.0000,25,"Monthly Cable: Hopper. Anson",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202164,1,2000.0000,2000,"New Resident Fee: Hopper. Anson",,,,,,,,,,,,,,,

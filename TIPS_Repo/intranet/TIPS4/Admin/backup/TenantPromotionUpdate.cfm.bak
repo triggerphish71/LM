@@ -1,0 +1,52 @@
+<!----------------------------------------------------------------------------------------------
+| DESCRIPTION   : This page is to Update the promotions for the tenants, when being edited     |
+ |            Created this file as per project 20125                                      |
+|----------------------------------------------------------------------------------------------|
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| STORED PROCEDURES                                                                            |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| INCLUDES                                                                                     |
+|----------------------------------------------------------------------------------------------|
+|   none                                                                                       |
+|----------------------------------------------------------------------------------------------|
+| HISTORY                                                                                      |
+|----------------------------------------------------------------------------------------------|
+| Author     | Date       | Description                                                        |
+|------------|------------|--------------------------------------------------------------------|
+| Sathya	 |06/06/08    | Added Flowerbox                                                    |
+|                                                                 |
+----------------------------------------------------------------------------------------------->
+
+
+
+<cfoutput >
+
+<cfquery name="Promotiontype" datasource="#APPLICATION.datasource#">
+select * from tenantPromotionset where dtRowDeleted is null and iPromotion_ID = #url.id#
+<!--- <cfif IsDefined("form.iPromotion_ID")>
+	<cfif form.iPromotion_ID neq "">
+		and iPromotion_ID = #form.iPromotion_ID# 
+		<cfelseif IsDefined("url.ID")> and iPromotion_ID = #form.iPromotion_ID# 
+	</cfif>
+</cfif>		 --->
+</cfquery> 
+
+
+	<!--- Update the tenantPromotionset Table with the entered Promotions --->
+	<cfquery name="TenantPromotionset" datasource="#application.datasource#">
+		update tenantPromotionset
+		set  cDescription = '#form.cDescription#',
+		dtEffectiveStart = '#form.dtEffectiveStart#',
+		dtEffectiveEnd =  '#form.dtEffectiveEnd#',
+		iRowStartUser_ID =#session.UserID#,
+		dtRowStart =   getDate()
+		where iPromotion_ID = #Promotiontype.iPromotion_ID# 
+	</cfquery>
+
+
+
+<cflocation url="TenantPromotions.cfm" ADDTOKEN="No">  
+</cfoutput>

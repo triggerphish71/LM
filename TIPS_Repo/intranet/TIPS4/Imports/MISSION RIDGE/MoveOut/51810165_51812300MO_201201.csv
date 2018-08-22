@@ -1,0 +1,6 @@
+BATCH,,201201,B,3308.9400,
+INVOICE,IN,,51810165,,01/01/2012,403.0000,"Invoice-Private",,01/01/2012,01/10/2012,,51812300MO,-2502.9400,,,,,,,,,,
+TRANSACTION,3320,010103518,1,403.0000,403.00,"CR:Limited Term Di... B.Barnes 201201: Barnes, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,51810165,,01/01/2012,2905.94,"Invoice-Private",,01/01/2012,01/10/2012,,51812300MO,-2502.9400,,,,,,,,,,
+TRANSACTION,3027,010103518,1,332.94,332.94,"CR:Resident Care -... B.Barnes 201201: Barnes, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2573,2573,"CR:Room and Board ... B.Barnes 201201: Barnes, Bill",,,,,,,,,,,,,,,

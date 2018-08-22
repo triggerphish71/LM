@@ -1,0 +1,8 @@
+BATCH,,201303,B,6359.0000,
+INVOICE,IN,,20410170,,03/20/2013,2480.0000,"Invoice-Private",,03/20/2013,03/20/2013,,20413489MO,-5154.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,20,42.0000,840.00,"Resident Care - Level 4 for Mar: Sprouse, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,20,82.0000,1640.00,"Studio for Mar: Sprouse, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,20410170,,03/20/2013,3879,"Invoice-Private",,03/20/2013,03/20/2013,,20413489MO,-5154.0000,,,,,,,,,,
+TRANSACTION,3130,010216204,1,35,35,"CR:Pendant Fee... M.Sprouse 201303: Sprouse, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1302,1302,"CR:Resident Care -... M.Sprouse 201303: Sprouse, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2542,2542,"CR:Studio... M.Sprouse 201303: Sprouse, Margaret",,,,,,,,,,,,,,,

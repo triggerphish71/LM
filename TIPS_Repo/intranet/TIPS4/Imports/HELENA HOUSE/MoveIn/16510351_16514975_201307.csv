@@ -1,0 +1,5 @@
+BATCH,,201307,B,839.0000,
+INVOICE,IN,,16510351,,07/24/2013,839.0000,"MoveIn-Priester. Lena",,07/24/2013,07/24/2013,,16514975,3955.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,8,99.0000,792,"Basic Service Fee - Studio         : Priester. Lena",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Priester. Lena",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308165,1,20.0000,20,"Pendant Fee: Priester. Lena",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,2534.8500,
+INVOICE,IN,,06310062,,09/01/2011,58.1500,"Invoice-Medicaid",,09/01/2011,09/01/2011,,06314689MO,-2418.5500,,,,,,,,,,
+TRANSACTION,3021,010104063,1,38.6800,38.68,"Medicaid Co-Pay for Sep: Mobarry, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104063,1,19.4700,19.47,"Medicaid Room & Board for Sep: Mobarry, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06310062,,09/01/2011,2476.7,"Invoice-Medicaid",,09/01/2011,09/01/2011,,06314689MO,-2418.5500,,,,,,,,,,
+TRANSACTION,3021,010104063,1,1160.34,1160.34,"CR:Medicaid Co-Pay... M.Mobarry 201109: Mobarry, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104063,1,584,584,"CR:Medicaid Room &... M.Mobarry 201109: Mobarry, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104063,1,732.36,732.36,"CR:State Medicaid ... M.Mobarry 201109: Mobarry, Mary",,,,,,,,,,,,,,,

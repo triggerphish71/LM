@@ -1,0 +1,8 @@
+BATCH,,201109,B,4522.5000,
+INVOICE,IN,,15310202,,09/01/2011,850.5000,"Invoice-Private",,09/01/2011,09/01/2011,,15315623MO,-2821.5000,,,,,,,,,,
+TRANSACTION,3020,010103153,7,96.0000,672.00,"Basic Service Fee - Studio for Sep: Schutz, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,7,25.5000,178.50,"Resident Care - Level 15 for Sep: Schutz, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,15310202,,09/01/2011,3672,"Invoice-Private",,09/01/2011,09/01/2011,,15315623MO,-2821.5000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2880,2880,"CR:Basic Service F... V.Schutz 201109: Schutz, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... V.Schutz 201109: Schutz, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,765,765,"CR:Resident Care -... V.Schutz 201109: Schutz, Violet",,,,,,,,,,,,,,,

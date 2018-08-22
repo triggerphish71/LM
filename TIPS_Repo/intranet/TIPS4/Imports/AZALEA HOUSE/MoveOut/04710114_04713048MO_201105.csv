@@ -1,0 +1,7 @@
+BATCH,,201105,B,2772.0000,
+INVOICE,IN,,04710114,,05/05/2011,385.0000,"Invoice-Private",,05/05/2011,05/05/2011,,04713048MO,-2002.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,5,35.0000,175.00,"Basic Service Fee - Second Resident for May: Estes, Naoma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,5,42.0000,210.00,"Resident Care - Level 3 for May: Estes, Naoma",,,,,,,,,,,,,,,
+INVOICE,CM,,04710114,,05/05/2011,2387,"Invoice-Private",,05/05/2011,05/05/2011,,04713048MO,-2002.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,1085,1085,"CR:Basic Service F... N.Estes 201105: Estes, Naoma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,1302,1302,"CR:Resident Care -... N.Estes 201105: Estes, Naoma",,,,,,,,,,,,,,,

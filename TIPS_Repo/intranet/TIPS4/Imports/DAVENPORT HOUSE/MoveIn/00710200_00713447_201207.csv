@@ -1,0 +1,5 @@
+BATCH,,201207,B,2473.3000,
+INVOICE,IN,,00710200,,07/14/2012,2473.3000,"MoveIn-Brown. Donna",,07/14/2012,07/14/2012,,00713447,2473.3000,,,,,,,,,,
+TRANSACTION,3010,010101007,18,55.0000,990,"Basic Service Fee - Studio: Brown. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,18,26.8500,483.3,"Resident Care - Level 15: Brown. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Brown. Donna",,,,,,,,,,,,,,,

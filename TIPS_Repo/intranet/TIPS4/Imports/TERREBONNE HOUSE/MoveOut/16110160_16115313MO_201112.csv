@@ -1,0 +1,7 @@
+BATCH,,201112,B,6240.0000,
+INVOICE,IN,,16110160,,12/21/2011,2520.0000,"Invoice-Private",,12/21/2011,12/21/2011,,16115313MO,-5013.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,21,85.0000,1785.00,"Basic Service Fee - Studio for Dec: Antill, Maybelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,21,35.0000,735.00,"Resident Care - Level 3 for Dec: Antill, Maybelle",,,,,,,,,,,,,,,
+INVOICE,CM,,16110160,,12/21/2011,3720,"Invoice-Private",,12/21/2011,12/21/2011,,16115313MO,-5013.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2635,2635,"CR:Basic Service F... M.Antill 201112: Antill, Maybelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,1085,1085,"CR:Resident Care -... M.Antill 201112: Antill, Maybelle",,,,,,,,,,,,,,,

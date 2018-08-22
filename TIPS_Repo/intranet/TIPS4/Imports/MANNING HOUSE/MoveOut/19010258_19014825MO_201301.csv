@@ -1,0 +1,8 @@
+BATCH,,201301,B,5319.0000,
+INVOICE,IN,,19010258,,01/11/2013,1386.0000,"Invoice-Private",,01/11/2013,01/11/2013,,19014825MO,-2547.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,11,98.0000,1078.00,"Basic Service Fee - Studio for Jan: Maxwell, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,11,28.0000,308.00,"Resident Care - Level 2 for Jan: Maxwell, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,19010258,,01/11/2013,3933,"Invoice-Private",,01/11/2013,01/11/2013,,19014825MO,-2547.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... J.Maxwell 201301: Maxwell, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... J.Maxwell 201301: Maxwell, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,868,868,"CR:Resident Care -... J.Maxwell 201301: Maxwell, Josephine",,,,,,,,,,,,,,,

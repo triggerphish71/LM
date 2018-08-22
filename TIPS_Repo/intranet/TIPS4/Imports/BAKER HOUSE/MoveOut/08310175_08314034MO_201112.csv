@@ -1,0 +1,8 @@
+BATCH,,201112,B,7052.0000,
+INVOICE,IN,,08310175,,12/09/2011,2681.0000,"Invoice-Private",,12/09/2011,12/09/2011,,08314034MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,1271.0000,1271.00,"CR:Limited Term Di... B.Castor 201112: Castor, Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,10,35.0000,350.00,"Resident Care - Level 2 for Dec: Castor, Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,10,106.0000,1060.00,"Room and Board - Studio for Dec: Castor, Betty Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,08310175,,12/09/2011,4371,"Invoice-Private",,12/09/2011,12/09/2011,,08314034MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1085,1085,"CR:Resident Care -... B.Castor 201112: Castor, Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3286,3286,"CR:Room and Board ... B.Castor 201112: Castor, Betty Jane",,,,,,,,,,,,,,,

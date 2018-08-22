@@ -1,0 +1,7 @@
+BATCH,,201207,B,140.0000,
+INVOICE,IN,,12110207,,07/01/2012,70.0000,"Invoice-Private",,07/01/2012,07/10/2012,,12115778MO,-4095.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Buck, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309121,1,35.0000,35.00,"Pendant Fee: Buck, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,12110207,,07/01/2012,70,"Invoice-Private",,07/01/2012,07/10/2012,,12115778MO,-4095.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Buck, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309121,1,35,35,"Credit for Pendant Fee: Buck, Josephine",,,,,,,,,,,,,,,

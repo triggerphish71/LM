@@ -1,0 +1,7 @@
+BATCH,,201804,B,17533.4000,
+INVOICE,IN,,35200249,,03/30/2018,5717.4000,"Invoice-Private",,03/30/2018,03/30/2018,,35212345MO,-6098.6000,,,,,,,,,,
+TRANSACTION,3010,070029352,1,5717.4000,5717.40,"MC Studio Deluxe  for Mar:  Miluszusky, Raymond ",,,,,,,,,,,,,,,
+INVOICE,CM,,35200249,,03/30/2018,5908,"Invoice-Private",,03/30/2018,03/30/2018,,35212345MO,-6098.6000,,,,,,,,,,
+TRANSACTION,3010,070029352,1,5908,5908,"CR:MC Studio Delux... R. Miluszusky 201803:  Miluszusky, Raymond ",,,,,,,,,,,,,,,
+INVOICE,CM,,35200249,,04/01/2018,5908,"Invoice-Private",,04/01/2018,04/10/2018,,35212345MO,-6098.6000,,,,,,,,,,
+TRANSACTION,3010,070029352,1,5908,5908,"CR:MC Studio Delux... R. Miluszusky 201804:  Miluszusky, Raymond ",,,,,,,,,,,,,,,

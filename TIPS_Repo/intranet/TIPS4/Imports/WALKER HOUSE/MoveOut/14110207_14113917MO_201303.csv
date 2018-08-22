@@ -1,0 +1,7 @@
+BATCH,,201303,B,3504.0000,
+INVOICE,IN,,14110207,,03/17/2013,1241.0000,"Invoice-Private",,03/17/2013,03/17/2013,,14113917MO,-3212.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,17,56.0000,952.00,"Basic Service Fee - Studio for Mar: Pike, Aaron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,17,17.0000,289.00,"Resident Care - Level 1 for Mar: Pike, Aaron",,,,,,,,,,,,,,,
+INVOICE,CM,,14110207,,03/17/2013,2263,"Invoice-Private",,03/17/2013,03/17/2013,,14113917MO,-3212.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,1736,1736,"CR:Basic Service F... A.Pike 201303: Pike, Aaron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,527,527,"CR:Resident Care -... A.Pike 201303: Pike, Aaron",,,,,,,,,,,,,,,

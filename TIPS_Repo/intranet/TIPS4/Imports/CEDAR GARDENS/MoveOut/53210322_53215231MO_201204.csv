@@ -1,0 +1,7 @@
+BATCH,,201204,B,4862.0000,
+INVOICE,IN,,53210322,,04/04/2012,572.0000,"Invoice-Private",,04/04/2012,04/04/2012,,53215231MO,-3718.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,4,114.0000,456.00,"Basic Service Fee - Studio for Apr: Berger, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,4,29.0000,116.00,"Resident Care - Level 2 for Apr: Berger, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,53210322,,04/04/2012,4290,"Invoice-Private",,04/04/2012,04/04/2012,,53215231MO,-3718.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3420,3420,"CR:Basic Service F... C.Berger 201204: Berger, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,870,870,"CR:Resident Care -... C.Berger 201204: Berger, Catherine",,,,,,,,,,,,,,,

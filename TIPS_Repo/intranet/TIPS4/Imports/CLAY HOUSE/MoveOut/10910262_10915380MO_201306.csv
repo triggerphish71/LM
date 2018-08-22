@@ -1,0 +1,7 @@
+BATCH,,201306,B,2491.0000,
+INVOICE,IN,,10910262,,06/23/2013,1081.0000,"Invoice-Private",,06/23/2013,06/23/2013,,10915380MO,-1786.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,23,31.0000,713.00,"Basic Service Fee - Second Resident for Jun: Scott, Marylou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,23,16.0000,368.00,"Resident Care - Level 1 for Jun: Scott, Marylou",,,,,,,,,,,,,,,
+INVOICE,CM,,10910262,,06/23/2013,1410,"Invoice-Private",,06/23/2013,06/23/2013,,10915380MO,-1786.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,930,930,"CR:Basic Service F... M.Scott 201306: Scott, Marylou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,480,480,"CR:Resident Care -... M.Scott 201306: Scott, Marylou",,,,,,,,,,,,,,,

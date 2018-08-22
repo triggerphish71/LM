@@ -1,0 +1,7 @@
+BATCH,,201204,B,7040.0000,
+INVOICE,IN,,10210205,,04/14/2012,2240.0000,"Invoice-Private",,04/14/2012,04/14/2012,,10214920MO,-2560.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,14,111.0000,1554.00,"Basic Service Fee - Studio for Apr: Lyon, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,14,49.0000,686.00,"Swan Personal Care - L3 for Apr: Lyon, David",,,,,,,,,,,,,,,
+INVOICE,CM,,10210205,,04/14/2012,4800,"Invoice-Private",,04/14/2012,04/14/2012,,10214920MO,-2560.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3330,3330,"CR:Basic Service F... D.Lyon 201204: Lyon, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1470,1470,"CR:Swan Personal C... D.Lyon 201204: Lyon, David",,,,,,,,,,,,,,,

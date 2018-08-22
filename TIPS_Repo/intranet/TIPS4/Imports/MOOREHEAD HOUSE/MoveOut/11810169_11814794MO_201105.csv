@@ -1,0 +1,7 @@
+BATCH,,201105,B,7693.0000,
+INVOICE,IN,,11810169,,05/18/2011,2826.0000,"Invoice-Private",,05/18/2011,05/18/2011,,11814794MO,-6751.0000,,,,,,,,,,
+TRANSACTION,3027,010310118,18,61.0000,1098.00,"Resident Care - Level 4 for May: Binai, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310118,18,96.0000,1728.00,"Room and Board - Studio for May: Binai, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,11810169,,05/18/2011,4867,"Invoice-Private",,05/18/2011,05/18/2011,,11814794MO,-6751.0000,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1891,1891,"CR:Resident Care -... P.Binai 201105: Binai, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2976,2976,"CR:Room and Board ... P.Binai 201105: Binai, Paul",,,,,,,,,,,,,,,

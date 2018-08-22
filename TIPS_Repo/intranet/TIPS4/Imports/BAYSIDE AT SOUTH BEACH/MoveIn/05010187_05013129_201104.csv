@@ -1,0 +1,5 @@
+BATCH,,201104,B,1763.0000,
+INVOICE,IN,,05010187,,04/28/2011,1763.0000,"MoveIn-Johnson. Linda",,04/28/2011,04/28/2011,,05013129,4154.0000,,,,,,,,,,
+TRANSACTION,3010,010101050,3,76.0000,228,"Basic Service Fee - Studio         : Johnson. Linda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101050,1,35.0000,35,"Monthly Cable: Johnson. Linda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101050,1,1500.0000,1500,"New Resident Fee: Johnson. Linda",,,,,,,,,,,,,,,

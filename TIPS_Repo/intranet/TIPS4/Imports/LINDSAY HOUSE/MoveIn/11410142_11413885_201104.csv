@@ -1,0 +1,5 @@
+BATCH,,201104,B,3460.0000,
+INVOICE,IN,,11410142,,04/29/2011,3460.0000,"MoveIn-Lange. Quentin",,04/29/2011,04/29/2011,,11413885,7490.0000,,,,,,,,,,
+TRANSACTION,3010,010306114,2,111.0000,222,"Basic Service Fee - Studio         : Lange. Quentin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306114,2,19.0000,38,"Swan Personal Care - L1: Lange. Quentin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306114,1,3200.0000,3200,"New Resident Fee: Lange. Quentin",,,,,,,,,,,,,,,

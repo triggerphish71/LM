@@ -1,0 +1,5 @@
+BATCH,,201303,B,2756.0000,
+INVOICE,IN,,01310216,,03/08/2013,2756.0000,"MoveIn-Straws. Joe",,03/08/2013,03/08/2013,,01314346,2756.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,24,72.0000,1728,"Basic Service Fee - Studio: Straws. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Straws. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Straws. Joe",,,,,,,,,,,,,,,

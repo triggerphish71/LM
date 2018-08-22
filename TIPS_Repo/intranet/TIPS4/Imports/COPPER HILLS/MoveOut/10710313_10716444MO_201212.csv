@@ -1,0 +1,5 @@
+BATCH,,201212,B,2666.0000,
+INVOICE,IN,,10710313,,12/01/2012,1333.0000,"Invoice-Private",,12/01/2012,12/10/2012,,10716444MO,-2039.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,31,43.0000,1333.00,"Credit for Limited Term Discount: Martin, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,10710313,,12/01/2012,1333,"Invoice-Private",,12/01/2012,12/10/2012,,10716444MO,-2039.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,31,43,1333,"Limited Term Discount: Martin, Jack",,,,,,,,,,,,,,,

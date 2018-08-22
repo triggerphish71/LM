@@ -1,0 +1,8 @@
+BATCH,,201206,B,8130.0000,
+INVOICE,IN,,08810213,,06/08/2012,2280.0000,"Invoice-Private",,06/08/2012,06/08/2012,,08814383MO,-3570.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,720.0000,720.00,"CR:Limited Term Di... R.Patterson 201206: Patterson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,8,114.0000,912.00,"Basic Service Fee - One Bedroom for Jun: Patterson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,8,81.0000,648.00,"Resident Care - Level 6 for Jun: Patterson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,08810213,,06/08/2012,5850,"Invoice-Private",,06/08/2012,06/08/2012,,08814383MO,-3570.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3420,3420,"CR:Basic Service F... R.Patterson 201206: Patterson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,2430,2430,"CR:Resident Care -... R.Patterson 201206: Patterson, Robert",,,,,,,,,,,,,,,

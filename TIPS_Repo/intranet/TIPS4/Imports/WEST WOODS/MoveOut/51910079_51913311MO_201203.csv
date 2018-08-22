@@ -1,0 +1,5 @@
+BATCH,,201203,B,992.0000,
+INVOICE,IN,,51910079,,03/01/2012,496.0000,"Invoice-Private",,03/01/2012,03/10/2012,,51913311MO,-5849.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,31,16.0000,496.00,"Credit for Limited Term Discount: Perkins, Dorothy H",,,,,,,,,,,,,,,
+INVOICE,CM,,51910079,,03/01/2012,496,"Invoice-Private",,03/01/2012,03/10/2012,,51913311MO,-5849.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,31,16,496,"Limited Term Discount: Perkins, Dorothy H",,,,,,,,,,,,,,,

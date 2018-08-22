@@ -1,0 +1,5 @@
+BATCH,,201212,B,3623.0000,
+INVOICE,IN,,04210217,,12/01/2012,3623.0000,"December_Rent-Youngblood. John",,12/01/2012,12/10/2012,,04214051,5266.0000,,,,,,,,,,
+TRANSACTION,3010,010202042,31,99.0000,3069,"J.Youngblood: Basic Service Fee - Studio: Youngblood. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202042,31,17.0000,527,"J.Youngblood: Resident Care - Level 1: Youngblood. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27,"Monthly Cable: Youngblood. John",,,,,,,,,,,,,,,

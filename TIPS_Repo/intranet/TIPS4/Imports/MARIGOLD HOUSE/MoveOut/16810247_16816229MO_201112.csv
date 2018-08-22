@@ -1,0 +1,7 @@
+BATCH,,201112,B,5460.0000,
+INVOICE,IN,,16810247,,12/21/2011,2205.0000,"Invoice-Private",,12/21/2011,12/21/2011,,16816229MO,-4460.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,21,84.0000,1764.00,"Basic Service Fee - Efficiency for Dec: Merchant, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,21,21.0000,441.00,"Resident Care - Level 2 for Dec: Merchant, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,16810247,,12/21/2011,3255,"Invoice-Private",,12/21/2011,12/21/2011,,16816229MO,-4460.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2604,2604,"CR:Basic Service F... L.Merchant 201112: Merchant, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,651,651,"CR:Resident Care -... L.Merchant 201112: Merchant, Leona",,,,,,,,,,,,,,,

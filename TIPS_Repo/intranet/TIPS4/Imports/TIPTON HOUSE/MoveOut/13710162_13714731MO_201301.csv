@@ -1,0 +1,7 @@
+BATCH,,201301,B,5052.0000,
+INVOICE,IN,,13710162,,01/01/2013,62.0000,"Invoice-Private",,01/01/2013,01/10/2013,,13714731MO,-6496.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,1,62.0000,62.00,"CR:Limited Term Di... S.Eichhorn 201301: Eichhorn, SuzeAnn",,,,,,,,,,,,,,,
+INVOICE,CM,,13710162,,01/01/2013,4990,"Invoice-Private",,01/01/2013,01/10/2013,,13714731MO,-6496.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... S.Eichhorn 201301: Eichhorn, SuzeAnn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... S.Eichhorn 201301: Eichhorn, SuzeAnn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,2170,2170,"CR:Resident Care -... S.Eichhorn 201301: Eichhorn, SuzeAnn",,,,,,,,,,,,,,,

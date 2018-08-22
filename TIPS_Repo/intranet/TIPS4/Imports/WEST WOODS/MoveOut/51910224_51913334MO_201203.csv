@@ -1,0 +1,8 @@
+BATCH,,201203,B,9683.3000,
+INVOICE,IN,,51910224,,03/13/2012,4583.6000,"Invoice-Private",,03/13/2012,03/13/2012,,51913334MO,-516.1000,,,,,,,,,,
+TRANSACTION,3020,010103519,28,110.0000,3080.00,"Basic Service Fee - One Bedroom for Mar: Hartley, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,28,53.7000,1503.60,"Resident Care - Level 30 for Mar: Hartley, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,51910224,,03/13/2012,5099.7,"Invoice-Private",,03/13/2012,03/13/2012,,51913334MO,-516.1000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3410,3410,"CR:Basic Service F... J.Hartley 201203: Hartley, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25,25,"CR:Monthly Cable... J.Hartley 201203: Hartley, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,1664.7,1664.7,"CR:Resident Care -... J.Hartley 201203: Hartley, Joan",,,,,,,,,,,,,,,

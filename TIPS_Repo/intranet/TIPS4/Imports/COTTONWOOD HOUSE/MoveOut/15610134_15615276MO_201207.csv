@@ -1,0 +1,7 @@
+BATCH,,201207,B,7266.0000,
+INVOICE,IN,,15610134,,07/01/2012,1903.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15615276MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,11,90.0000,990.00,"Basic Service Fee - Studio for Jul: Hollman, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,11,83.0000,913.00,"Resident Care - Level 6 for Jul: Hollman, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,15610134,,07/01/2012,5363,"Invoice-Private",,07/01/2012,07/10/2012,,15615276MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2790,2790,"CR:Basic Service F... E.Hollman 201207: Hollman, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2573,2573,"CR:Resident Care -... E.Hollman 201207: Hollman, Eunice",,,,,,,,,,,,,,,

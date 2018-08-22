@@ -1,0 +1,5 @@
+BATCH,,201203,B,6214.0000,
+INVOICE,IN,,06610203,,03/01/2012,6214.0000,"MoveIn-Ackerman. Helen",,03/01/2012,03/01/2012,,06614426,6214.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,31,96.0000,2976,"Basic Service Fee - Studio: Ackerman. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,31,48.0000,1488,"Resident Care - Level 3: Ackerman. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Ackerman. Helen",,,,,,,,,,,,,,,

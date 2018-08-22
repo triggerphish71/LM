@@ -1,0 +1,8 @@
+BATCH,,201209,B,4666.0000,
+INVOICE,IN,,16210138,,09/01/2012,1846.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16213050MO,-3826.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,60.0000,60.00,"CR:Limited Term Di... G.Flax 201209: Flax, Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,19,66.0000,1254.00,"Basic Service Fee - Studio for Sep: Flax, Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,19,28.0000,532.00,"Resident Care - Level 2 for Sep: Flax, Gilbert",,,,,,,,,,,,,,,
+INVOICE,CM,,16210138,,09/01/2012,2820,"Invoice-Private",,09/01/2012,09/10/2012,,16213050MO,-3826.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,1980,1980,"CR:Basic Service F... G.Flax 201209: Flax, Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,840,840,"CR:Resident Care -... G.Flax 201209: Flax, Gilbert",,,,,,,,,,,,,,,

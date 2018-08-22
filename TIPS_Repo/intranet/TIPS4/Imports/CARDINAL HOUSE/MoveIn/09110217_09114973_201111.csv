@@ -1,0 +1,5 @@
+BATCH,,201111,B,2612.0000,
+INVOICE,IN,,09110217,,11/25/2011,2612.0000,"MoveIn-Fuchs. Betty",,11/25/2011,11/25/2011,,09114973,5774.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,6,85.0000,510,"Basic Service Fee - Studio: Fuchs. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,6,17.0000,102,"Resident Care - Level 1: Fuchs. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Fuchs. Betty",,,,,,,,,,,,,,,

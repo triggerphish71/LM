@@ -1,0 +1,6 @@
+BATCH,,201112,B,4911.0000,
+INVOICE,IN,,17110138,,12/13/2011,1443.0000,"Invoice-Private",,12/13/2011,12/13/2011,,17114843MO,-2025.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,13,111.0000,1443.00,"Basic Service Fee - One Bedroom for Dec: Starks, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,17110138,,12/13/2011,3468,"Invoice-Private",,12/13/2011,12/13/2011,,17114843MO,-2025.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3441,3441,"CR:Basic Service F... E.Starks 201112: Starks, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... E.Starks 201112: Starks, Esther",,,,,,,,,,,,,,,

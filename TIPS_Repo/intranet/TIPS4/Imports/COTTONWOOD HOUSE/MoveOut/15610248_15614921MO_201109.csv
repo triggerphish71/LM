@@ -1,0 +1,7 @@
+BATCH,,201109,B,7080.0000,
+INVOICE,IN,,15610248,,09/10/2011,1770.0000,"Invoice-Private",,09/10/2011,09/10/2011,,15614921MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,10,107.0000,1070.00,"Basic Service Fee - One Bedroom for Sep: Irish, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,10,70.0000,700.00,"Resident Care - Level 5 for Sep: Irish, June",,,,,,,,,,,,,,,
+INVOICE,CM,,15610248,,09/10/2011,5310,"Invoice-Private",,09/10/2011,09/10/2011,,15614921MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3210,3210,"CR:Basic Service F... J.Irish 201109: Irish, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2100,2100,"CR:Resident Care -... J.Irish 201109: Irish, June",,,,,,,,,,,,,,,

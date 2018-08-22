@@ -1,0 +1,7 @@
+BATCH,,201211,B,1750.0000,
+INVOICE,IN,,14210183,,11/01/2012,875.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14214139MO,-927.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,30,28.0000,840.00,"Credit for Limited Term Discount: Rajchel, Theodore ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Rajchel, Theodore ",,,,,,,,,,,,,,,
+INVOICE,CM,,14210183,,11/01/2012,875,"Invoice-Private",,11/01/2012,11/10/2012,,14214139MO,-927.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,30,28,840,"Limited Term Discount: Rajchel, Theodore ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Rajchel, Theodore ",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,4036.0000,
+INVOICE,IN,,16110220,,01/05/2013,1308.0000,"Invoice-Private",,01/05/2013,01/05/2013,,16115760MO,-1420.0000,,,,,,,,,,
+TRANSACTION,3320,010313161,1,868.0000,868.00,"CR:Limited Term Di... G.Walling 201301: Walling, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313161,5,88.0000,440.00,"Basic Service Fee - Studio for Jan: Walling, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,16110220,,01/05/2013,2728,"Invoice-Private",,01/05/2013,01/05/2013,,16115760MO,-1420.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... G.Walling 201301: Walling, Gertrude",,,,,,,,,,,,,,,

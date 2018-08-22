@@ -1,0 +1,8 @@
+BATCH,,201302,B,4325.0000,
+INVOICE,IN,,21210124,,02/14/2013,1428.0000,"Invoice-Private",,02/14/2013,02/14/2013,,21212996MO,-4734.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,14,12.0000,168.00,"Resident Care - Level 1 for Feb: Stump, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,14,90.0000,1260.00,"Studio Deluxe for Feb: Stump, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,21210124,,02/14/2013,2897,"Invoice-Private",,02/14/2013,02/14/2013,,21212996MO,-4734.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"CR:Monthly Cable... D.Stump 201302: Stump, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,336,336,"CR:Resident Care -... D.Stump 201302: Stump, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2520,2520,"CR:Studio Deluxe... D.Stump 201302: Stump, Delbert",,,,,,,,,,,,,,,

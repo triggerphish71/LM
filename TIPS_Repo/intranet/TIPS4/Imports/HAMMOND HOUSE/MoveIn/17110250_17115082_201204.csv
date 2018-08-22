@@ -1,0 +1,7 @@
+BATCH,,201204,B,3041.0000,
+INVOICE,IN,,17110250,,04/23/2012,3041.0000,"MoveIn-Carter. James",,04/23/2012,04/23/2012,,17115082,7191.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,8,116.0000,928,"J.Carter: Basic Service Fee - One Bedroom: Carter. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308171,8,17.0000,136,"J.Carter: Resident Care - Level 1: Carter. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Carter. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1700.0000,1700,"New Resident Fee: Carter. James",,,,,,,,,,,,,,,
+TRANSACTION,3213,010308171,1,250.0000,250,"Pet Fee: Carter. James",,,,,,,,,,,,,,,

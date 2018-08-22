@@ -1,0 +1,7 @@
+BATCH,,201208,B,140.0000,
+INVOICE,IN,,17810321,,08/01/2012,70.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17816108MO,-5402.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: O'Bradovich, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212178,1,35.0000,35.00,"Pendant Fee: O'Bradovich, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,17810321,,08/01/2012,70,"Invoice-Private",,08/01/2012,08/10/2012,,17816108MO,-5402.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: O'Bradovich, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212178,1,35,35,"Credit for Pendant Fee: O'Bradovich, Beulah",,,,,,,,,,,,,,,

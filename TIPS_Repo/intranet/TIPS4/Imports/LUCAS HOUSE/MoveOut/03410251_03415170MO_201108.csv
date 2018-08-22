@@ -1,0 +1,7 @@
+BATCH,,201108,B,1806.0000,
+INVOICE,IN,,03410251,,08/30/2011,93.0000,"Invoice-Private",,08/30/2011,08/30/2011,,03415170MO,-4437.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,93.0000,93.00,"Basic Service Fee - Studio for Aug: Poindexter, LaRetta",,,,,,,,,,,,,,,
+INVOICE,CM,,03410251,,08/30/2011,1713,"Invoice-Private",,08/30/2011,08/30/2011,,03415170MO,-4437.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,186,186,"CR:Basic Service F... L.Poindexter 201108: Poindexter, LaRetta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... L.Poindexter 201108: Poindexter, LaRetta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500,1500,"CR:New Resident Fe... L.Poindexter 201108: Poindexter, LaRetta",,,,,,,,,,,,,,,

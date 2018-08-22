@@ -1,0 +1,5 @@
+BATCH,,201107,B,2345.0000,
+INVOICE,IN,,04410247,,07/22/2011,2345.0000,"MoveIn-Henriksen. Ruth",,07/22/2011,07/22/2011,,04414465,4912.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,10,82.0000,820,"Basic Service Fee - Studio         : Henriksen. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Henriksen. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Henriksen. Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,5210.0000,
+INVOICE,IN,,53210332,,01/09/2012,5210.0000,"MoveIn-McGaver. Bernadine",,01/09/2012,01/09/2012,,53215135,5210.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,23,131.0000,3013,"B.McGaver: Basic Service Fee - Studio Suite: McGaver. Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,23,29.0000,667,"B.McGaver: Resident Care - Level 2: McGaver. Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: McGaver. Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: McGaver. Bernadine",,,,,,,,,,,,,,,

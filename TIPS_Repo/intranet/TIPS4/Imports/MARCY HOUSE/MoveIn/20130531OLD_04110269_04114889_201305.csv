@@ -1,0 +1,4 @@
+BATCH,,201305,B,1832.0000,
+INVOICE,IN,,04110269,,05/31/2013,1832.0000,"MoveIn-Smith. Bill",,05/31/2013,05/31/2013,,04114889,4292.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,1,82.0000,82,"Basic Service Fee - Studio: Smith. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1750.0000,1750,"New Resident Fee: Smith. Bill",,,,,,,,,,,,,,,

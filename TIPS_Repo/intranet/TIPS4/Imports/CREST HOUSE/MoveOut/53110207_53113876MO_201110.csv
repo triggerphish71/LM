@@ -1,0 +1,7 @@
+BATCH,,201110,B,3213.0000,
+INVOICE,IN,,53110207,,10/18/2011,1260.0000,"Invoice-Private",,10/18/2011,10/18/2011,,53113876MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,20,35.0000,700.00,"Basic Service Fee - Second Resident for Oct: Raffaele, Carmelo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,20,28.0000,560.00,"Resident Care - Level 2 for Oct: Raffaele, Carmelo",,,,,,,,,,,,,,,
+INVOICE,CM,,53110207,,10/18/2011,1953,"Invoice-Private",,10/18/2011,10/18/2011,,53113876MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,1085,1085,"CR:Basic Service F... C.Raffaele 201110: Raffaele, Carmelo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,868,868,"CR:Resident Care -... C.Raffaele 201110: Raffaele, Carmelo",,,,,,,,,,,,,,,

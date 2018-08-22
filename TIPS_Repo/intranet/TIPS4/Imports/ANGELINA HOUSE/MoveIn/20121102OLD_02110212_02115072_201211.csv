@@ -1,0 +1,4 @@
+BATCH,,201211,B,4690.0000,
+INVOICE,IN,,02110212,,11/01/2012,4690.0000,"MoveIn-Caldwell. Bill",,11/01/2012,11/01/2012,,02115072,4690.0000,,,,,,,,,,
+TRANSACTION,3010,010202021,30,98.0000,2940,"Basic Service Fee - Studio: Caldwell. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202021,1,1750.0000,1750,"New Resident Fee: Caldwell. Bill",,,,,,,,,,,,,,,

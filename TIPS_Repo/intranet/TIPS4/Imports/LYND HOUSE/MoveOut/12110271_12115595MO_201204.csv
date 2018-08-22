@@ -1,0 +1,5 @@
+BATCH,,201204,B,2640.0000,
+INVOICE,IN,,12110271,,04/01/2012,1320.0000,"Invoice-Private",,04/01/2012,04/10/2012,,12115595MO,-3508.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,30,44.0000,1320.00,"Credit for Limited Term Discount: Haskett, Clarance",,,,,,,,,,,,,,,
+INVOICE,CM,,12110271,,04/01/2012,1320,"Invoice-Private",,04/01/2012,04/10/2012,,12115595MO,-3508.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,30,44,1320,"Limited Term Discount: Haskett, Clarance",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201105,B,4674.0000,
+INVOICE,IN,,14910166,,05/08/2011,4674.0000,"MoveIn-Wenzel. Edna",,05/08/2011,05/08/2011,,14914194,4674.0000,,,,,,,,,,
+TRANSACTION,3010,010212149,24,97.0000,2328,"Basic Service Fee - Studio         : Wenzel. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212149,24,34.0000,816,"Resident Care - Level 2: Wenzel. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30,"Monthly Cable: Wenzel. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212149,1,1500.0000,1500,"New Resident Fee: Wenzel. Edna",,,,,,,,,,,,,,,

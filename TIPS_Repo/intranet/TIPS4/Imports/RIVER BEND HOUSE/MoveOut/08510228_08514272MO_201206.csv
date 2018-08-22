@@ -1,0 +1,7 @@
+BATCH,,201206,B,6930.0000,
+INVOICE,IN,,08510228,,06/25/2012,3150.0000,"Invoice-Private",,06/25/2012,06/25/2012,,08514272MO,-4536.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,25,110.0000,2750.00,"Basic Service Fee - One Bedroom for Jun: Smith, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,25,16.0000,400.00,"Resident Care - Level 1 for Jun: Smith, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,08510228,,06/25/2012,3780,"Invoice-Private",,06/25/2012,06/25/2012,,08514272MO,-4536.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,1,3300,3300,"CR:Basic Service F... C.Smith 201206: Smith, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,1,480,480,"CR:Resident Care -... C.Smith 201206: Smith, Charlotte",,,,,,,,,,,,,,,

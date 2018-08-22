@@ -1,0 +1,8 @@
+BATCH,,201304,B,6519.0000,
+INVOICE,IN,,16310297,,04/13/2013,2199.0000,"Invoice-Private",,04/13/2013,04/13/2013,,16317113MO,-6247.1000,,,,,,,,,,
+TRANSACTION,3312,010202163,1,327.0000,327.00,"CR:Two Room Rental... P.Bloomer 201304: Bloomer, Paula",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,13,109.0000,1417.00,"Basic Service Fee - Studio Deluxe for Apr: Bloomer, Paula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,13,35.0000,455.00,"Resident Care - Level 3 for Apr: Bloomer, Paula",,,,,,,,,,,,,,,
+INVOICE,CM,,16310297,,04/13/2013,4320,"Invoice-Private",,04/13/2013,04/13/2013,,16317113MO,-6247.1000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3270,3270,"CR:Basic Service F... P.Bloomer 201304: Bloomer, Paula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1050,1050,"CR:Resident Care -... P.Bloomer 201304: Bloomer, Paula",,,,,,,,,,,,,,,

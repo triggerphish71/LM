@@ -1,0 +1,8 @@
+BATCH,,201211,B,5226.0000,
+INVOICE,IN,,03110290,,11/21/2012,2199.0000,"Invoice-Private",,11/21/2012,11/21/2012,,03117167MO,-3830.0000,,,,,,,,,,
+TRANSACTION,3320,010202031,1,120.0000,120.00,"CR:Limited Term Di... R.Harrington 201211: Harrington, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202031,21,99.0000,2079.00,"Basic Service Fee - Studio for Nov: Harrington, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,03110290,,11/21/2012,3027,"Invoice-Private",,11/21/2012,11/21/2012,,03117167MO,-3830.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2970,2970,"CR:Basic Service F... R.Harrington 201211: Harrington, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... R.Harrington 201211: Harrington, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"CR:Pendant Fee... R.Harrington 201211: Harrington, Ralph",,,,,,,,,,,,,,,

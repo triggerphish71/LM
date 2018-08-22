@@ -1,0 +1,7 @@
+BATCH,,201212,B,8909.0000,
+INVOICE,IN,,53110297,,12/28/2012,4228.0000,"Invoice-Private",,12/28/2012,12/28/2012,,53114382MO,-5134.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,28,123.0000,3444.00,"Basic Service Fee - One Bedroom for Dec: Farina, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,28,28.0000,784.00,"Resident Care - Level 2 for Dec: Farina, Anthony",,,,,,,,,,,,,,,
+INVOICE,CM,,53110297,,12/28/2012,4681,"Invoice-Private",,12/28/2012,12/28/2012,,53114382MO,-5134.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3813,3813,"CR:Basic Service F... A.Farina 201212: Farina, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,868,868,"CR:Resident Care -... A.Farina 201212: Farina, Anthony",,,,,,,,,,,,,,,

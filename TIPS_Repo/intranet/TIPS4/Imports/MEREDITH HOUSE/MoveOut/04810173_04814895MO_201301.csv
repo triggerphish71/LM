@@ -1,0 +1,8 @@
+BATCH,,201301,B,7376.0000,
+INVOICE,IN,,04810173,,01/15/2013,2447.0000,"Invoice-Private",,01/15/2013,01/15/2013,,04814895MO,-6878.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,1,62.0000,62.00,"CR:Limited Term Di... A.Reynolds 201301: Reynolds, Anneta Wauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,15,117.0000,1755.00,"Basic Service Fee - One Bedroom for Jan: Reynolds, Anneta Wauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,15,42.0000,630.00,"Resident Care - Level 3 for Jan: Reynolds, Anneta Wauline",,,,,,,,,,,,,,,
+INVOICE,CM,,04810173,,01/15/2013,4929,"Invoice-Private",,01/15/2013,01/15/2013,,04814895MO,-6878.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3627,3627,"CR:Basic Service F... A.Reynolds 201301: Reynolds, Anneta Wauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,1302,1302,"CR:Resident Care -... A.Reynolds 201301: Reynolds, Anneta Wauline",,,,,,,,,,,,,,,

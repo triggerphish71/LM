@@ -1,0 +1,5 @@
+BATCH,,201202,B,2647.4000,
+INVOICE,IN,,03910227,,02/24/2012,2647.4000,"MoveIn-Simon. Beth",,02/24/2012,02/24/2012,,03914411,5992.3000,,,,,,,,,,
+TRANSACTION,3010,010101039,6,90.0000,540,"Basic Service Fee - Studio: Simon. Beth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,6,17.9000,107.4,"Resident Care - Level 10: Simon. Beth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Simon. Beth",,,,,,,,,,,,,,,

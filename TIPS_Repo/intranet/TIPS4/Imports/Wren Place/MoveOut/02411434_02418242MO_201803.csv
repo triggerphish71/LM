@@ -1,0 +1,6 @@
+BATCH,,201803,B,1520.0000,
+INVOICE,IN,,02411434,,03/07/2018,435.0000,"Invoice-Private",,03/07/2018,03/07/2018,,02418242MO,-650.0000,,,,,,,,,,
+TRANSACTION,3017,010002024,5,38.0000,190.00," Level Care:  2 : Marsh, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,7,35.0000,245.00,"Basic Service Fee - Second Resident  for Mar: Marsh, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,02411434,,03/07/2018,1085,"Invoice-Private",,03/07/2018,03/07/2018,,02418242MO,-650.0000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,1085,1085,"CR:Basic Service F... M.Marsh 201803: Marsh, Margaret",,,,,,,,,,,,,,,

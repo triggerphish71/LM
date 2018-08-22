@@ -1,0 +1,8 @@
+BATCH,,201204,B,4952.1700,
+INVOICE,IN,,05310143,,04/01/2012,450.0700,"Invoice-Private",,04/01/2012,04/01/2012,,05314513MO,-4052.0300,,,,,,,,,,
+TRANSACTION,3320,010101053,1,300.0000,300.00,"CR:Limited Term Di... M.Miller 201204: Miller, Marcella (Marci)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,1,91.0000,91.00,"Basic Service Fee - Studio for Apr: Miller, Marcella (Marci)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,59.0700,59.07,"Resident Care - Level 33 for Apr: Miller, Marcella (Marci)",,,,,,,,,,,,,,,
+INVOICE,CM,,05310143,,04/01/2012,4502.1,"Invoice-Private",,04/01/2012,04/01/2012,,05314513MO,-4052.0300,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2730,2730,"CR:Basic Service F... M.Miller 201204: Miller, Marcella (Marci)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,1772.1,1772.1,"CR:Resident Care -... M.Miller 201204: Miller, Marcella (Marci)",,,,,,,,,,,,,,,

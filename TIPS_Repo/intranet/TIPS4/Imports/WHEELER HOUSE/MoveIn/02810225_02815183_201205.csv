@@ -1,0 +1,5 @@
+BATCH,,201205,B,5016.0000,
+INVOICE,IN,,02810225,,05/01/2012,5016.0000,"May_Rent-Nelson. Marlene",,05/01/2012,05/10/2012,,02815183,9456.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,31,113.0000,3503,"M.Nelson: Basic Service Fee - Studio: Nelson. Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,31,48.0000,1488,"M.Nelson: Resident Care - Level 4: Nelson. Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Nelson. Marlene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,6592.3200,
+INVOICE,IN,,01810136,,03/17/2013,2334.7800,"Invoice-Private",,03/17/2013,03/17/2013,,01812691MO,-6125.7600,,,,,,,,,,
+TRANSACTION,3020,010103018,17,55.0000,935.00,"Basic Service Fee - One Bedroom for Mar: Peterson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,17,82.3400,1399.78,"Resident Care - Level 46 for Mar: Peterson, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,01810136,,03/17/2013,4257.54,"Invoice-Private",,03/17/2013,03/17/2013,,01812691MO,-6125.7600,,,,,,,,,,
+TRANSACTION,3020,010103018,1,1705,1705,"CR:Basic Service F... M.Peterson 201303: Peterson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,2552.54,2552.54,"CR:Resident Care -... M.Peterson 201303: Peterson, Mary",,,,,,,,,,,,,,,

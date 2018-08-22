@@ -1,0 +1,6 @@
+BATCH,,201212,B,3938.0000,
+INVOICE,IN,,14710216,,12/01/2012,776.0000,"Invoice-Private",,12/01/2012,12/10/2012,,14715927MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,62.0000,62.00,"CR:Limited Term Di... M.Renninger 201212: Renninger, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,7,102.0000,714.00,"Basic Service Fee - Studio for Dec: Renninger, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,14710216,,12/01/2012,3162,"Invoice-Private",,12/01/2012,12/10/2012,,14715927MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... M.Renninger 201212: Renninger, Mildred",,,,,,,,,,,,,,,

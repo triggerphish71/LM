@@ -1,0 +1,7 @@
+BATCH,,201207,B,6027.0000,
+INVOICE,IN,,09310202,,07/10/2012,1470.0000,"Invoice-Private",,07/10/2012,07/10/2012,,09315341MO,-3087.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,10,48.0000,480.00,"Resident Care - Level 3 for Jul: Laurer, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,10,99.0000,990.00,"Room and Board - Studio for Jul: Laurer, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,09310202,,07/10/2012,4557,"Invoice-Private",,07/10/2012,07/10/2012,,09315341MO,-3087.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... L.Laurer 201207: Laurer, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Room and Board ... L.Laurer 201207: Laurer, Leona",,,,,,,,,,,,,,,

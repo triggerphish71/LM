@@ -1,0 +1,7 @@
+BATCH,,201211,B,5741.5200,
+INVOICE,IN,,15310207,,11/17/2012,2076.7200,"Invoice-Private",,11/17/2012,11/17/2012,,15316320MO,-5375.0400,,,,,,,,,,
+TRANSACTION,3020,010103153,17,115.0000,1955.00,"Basic Service Fee - One Bedroom for Nov: Strait, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,17,7.1600,121.72,"Resident Care - Level 4 for Nov: Strait, Max",,,,,,,,,,,,,,,
+INVOICE,CM,,15310207,,11/17/2012,3664.8,"Invoice-Private",,11/17/2012,11/17/2012,,15316320MO,-5375.0400,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3450,3450,"CR:Basic Service F... M.Strait 201211: Strait, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,214.8,214.8,"CR:Resident Care -... M.Strait 201211: Strait, Max",,,,,,,,,,,,,,,

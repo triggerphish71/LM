@@ -1,0 +1,8 @@
+BATCH,,201303,B,4873.0000,
+INVOICE,IN,,14210211,,03/27/2013,2296.0000,"Invoice-Private",,03/27/2013,03/27/2013,,14214367MO,-2776.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,28,65.0000,1820.00,"Basic Service Fee - Studio for Mar: Stigdon, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,28,17.0000,476.00,"Resident Care - Level 1 for Mar: Stigdon, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,14210211,,03/27/2013,2577,"Invoice-Private",,03/27/2013,03/27/2013,,14214367MO,-2776.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2015,2015,"CR:Basic Service F... A.Stigdon 201303: Stigdon, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... A.Stigdon 201303: Stigdon, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,527,527,"CR:Resident Care -... A.Stigdon 201303: Stigdon, Albert",,,,,,,,,,,,,,,

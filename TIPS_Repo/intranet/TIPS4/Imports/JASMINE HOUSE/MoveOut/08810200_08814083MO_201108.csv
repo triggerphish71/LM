@@ -1,0 +1,7 @@
+BATCH,,201108,B,4428.0000,
+INVOICE,IN,,08810200,,08/05/2011,615.0000,"Invoice-Private",,08/05/2011,08/05/2011,,08814083MO,-3198.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,5,94.0000,470.00,"H.Day: Basic Service Fee - Studio for Aug: Day, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,5,29.0000,145.00,"H.Day: Resident Care - Level 2 for Aug: Day, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08810200,,08/05/2011,3813,"Invoice-Private",,08/05/2011,08/05/2011,,08814083MO,-3198.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2914,2914,"CR:H.Day: Basic Se... H.Day 201108: Day, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,899,899,"CR:H.Day: Resident... H.Day 201108: Day, Helen",,,,,,,,,,,,,,,

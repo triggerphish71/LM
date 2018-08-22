@@ -1,0 +1,7 @@
+BATCH,,201202,B,3506.9100,
+INVOICE,IN,,51810169,,02/01/2012,425.0800,"Invoice-Private",,02/01/2012,02/10/2012,,51812308MO,-2656.7500,,,,,,,,,,
+TRANSACTION,3027,010103518,4,23.2700,93.08,"Resident Care - Level 13 for Feb: Arrasmith, Clark",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103518,4,83.0000,332.00,"Room and Board - Studio for Feb: Arrasmith, Clark",,,,,,,,,,,,,,,
+INVOICE,CM,,51810169,,02/01/2012,3081.83,"Invoice-Private",,02/01/2012,02/10/2012,,51812308MO,-2656.7500,,,,,,,,,,
+TRANSACTION,3027,010103518,1,674.83,674.83,"CR:Resident Care -... C.Arrasmith 201202: Arrasmith, Clark",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2407,2407,"CR:Room and Board ... C.Arrasmith 201202: Arrasmith, Clark",,,,,,,,,,,,,,,

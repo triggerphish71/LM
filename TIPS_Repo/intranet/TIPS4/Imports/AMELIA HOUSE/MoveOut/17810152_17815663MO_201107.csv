@@ -1,0 +1,7 @@
+BATCH,,201107,B,7440.0000,
+INVOICE,IN,,17810152,,07/17/2011,2635.0000,"Invoice-Private",,07/17/2011,07/17/2011,,17815663MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,17,84.0000,1428.00,"Basic Service Fee - Studio for Jul: Scott, Clayton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,17,71.0000,1207.00,"Swan Personal Care - L5 for Jul: Scott, Clayton",,,,,,,,,,,,,,,
+INVOICE,CM,,17810152,,07/17/2011,4805,"Invoice-Private",,07/17/2011,07/17/2011,,17815663MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2604,2604,"CR:Basic Service F... C.Scott 201107: Scott, Clayton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,2201,2201,"CR:Swan Personal C... C.Scott 201107: Scott, Clayton",,,,,,,,,,,,,,,

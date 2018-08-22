@@ -1,0 +1,7 @@
+BATCH,,201308,B,12344.4000,
+INVOICE,IN,,09710239,,08/02/2013,5257.8000,"Invoice-Private",,08/02/2013,08/02/2013,,09714795MO,-1828.8000,,,,,,,,,,
+TRANSACTION,3020,010103097,23,88.0000,2024.00,"Basic Service Fee - Studio for Aug: Hutchison, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,23,140.6000,3233.80,"Resident Care - Level 76 for Aug: Hutchison, Connie",,,,,,,,,,,,,,,
+INVOICE,CM,,09710239,,08/02/2013,7086.6,"Invoice-Private",,08/02/2013,08/02/2013,,09714795MO,-1828.8000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2728,2728,"CR:Basic Service F... C.Hutchison 201308: Hutchison, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,4358.6,4358.6,"CR:Resident Care -... C.Hutchison 201308: Hutchison, Connie",,,,,,,,,,,,,,,

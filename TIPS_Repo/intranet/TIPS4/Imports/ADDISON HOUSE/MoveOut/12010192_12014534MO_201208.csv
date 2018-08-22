@@ -1,0 +1,8 @@
+BATCH,,201208,B,6813.7800,
+INVOICE,IN,,12010192,,08/01/2012,2083.8000,"Invoice-Private",,08/01/2012,08/01/2012,,12014534MO,-2646.1800,,,,,,,,,,
+TRANSACTION,3320,010309120,1,558.0000,558.00,"CR:Limited Term Di... W.Buck 201208: Buck, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,10,78.0000,780.00,"Basic Service Fee - Studio for Aug: Buck, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,10,74.5800,745.80,"Resident Care - Level 6+2 pts for Aug: Buck, William",,,,,,,,,,,,,,,
+INVOICE,CM,,12010192,,08/01/2012,4729.98,"Invoice-Private",,08/01/2012,08/01/2012,,12014534MO,-2646.1800,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2418,2418,"CR:Basic Service F... W.Buck 201208: Buck, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,2311.98,2311.98,"CR:Resident Care -... W.Buck 201208: Buck, William",,,,,,,,,,,,,,,

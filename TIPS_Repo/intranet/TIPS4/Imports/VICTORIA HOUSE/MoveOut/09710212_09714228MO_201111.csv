@@ -1,0 +1,5 @@
+BATCH,,201111,B,840.0000,
+INVOICE,IN,,09710212,,11/01/2011,420.0000,"Invoice-Private",,11/01/2011,11/10/2011,,09714228MO,-5032.1000,,,,,,,,,,
+TRANSACTION,3320,010103097,30,14.0000,420.00,"Credit for Limited Term Discount: Mac Millan, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,09710212,,11/01/2011,420,"Invoice-Private",,11/01/2011,11/10/2011,,09714228MO,-5032.1000,,,,,,,,,,
+TRANSACTION,3320,010103097,30,14,420,"Limited Term Discount: Mac Millan, Gary",,,,,,,,,,,,,,,

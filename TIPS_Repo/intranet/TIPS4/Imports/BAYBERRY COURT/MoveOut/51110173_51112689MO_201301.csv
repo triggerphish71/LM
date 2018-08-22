@@ -1,0 +1,7 @@
+BATCH,,201301,B,5372.0000,
+INVOICE,IN,,51110173,,01/01/2013,474.0000,"Invoice-Private",,01/01/2013,01/10/2013,,51112689MO,-4424.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,3,105.0000,315.00,"Basic Service Fee - Studio for Jan: Kowalkowski, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,3,53.0000,159.00,"Resident Care - Level 3 for Jan: Kowalkowski, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,51110173,,01/01/2013,4898,"Invoice-Private",,01/01/2013,01/10/2013,,51112689MO,-4424.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... I.Kowalkowski 201301: Kowalkowski, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1643,1643,"CR:Resident Care -... I.Kowalkowski 201301: Kowalkowski, Irene",,,,,,,,,,,,,,,

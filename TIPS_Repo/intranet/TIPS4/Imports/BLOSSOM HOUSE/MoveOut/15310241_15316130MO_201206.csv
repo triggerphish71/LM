@@ -1,0 +1,7 @@
+BATCH,,201206,B,8945.7500,
+INVOICE,IN,,15310241,,06/25/2012,4066.2500,"Invoice-Private",,06/25/2012,06/25/2012,,15316130MO,-5855.4000,,,,,,,,,,
+TRANSACTION,3027,010103153,25,62.6500,1566.25,"Resident Care - Level 35 for Jun: Christenson, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,25,100.0000,2500.00,"Room and Board - Studio for Jun: Christenson, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,15310241,,06/25/2012,4879.5,"Invoice-Private",,06/25/2012,06/25/2012,,15316130MO,-5855.4000,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1879.5,1879.5,"CR:Resident Care -... M.Christenson 201206: Christenson, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Room and Board ... M.Christenson 201206: Christenson, Marilyn",,,,,,,,,,,,,,,

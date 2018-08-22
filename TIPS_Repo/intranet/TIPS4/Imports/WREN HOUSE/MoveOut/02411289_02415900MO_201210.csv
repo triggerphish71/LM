@@ -1,0 +1,7 @@
+BATCH,,201210,B,7227.0000,
+INVOICE,IN,,02411289,,10/02/2012,3759.0000,"Invoice-Private",,10/02/2012,10/02/2012,,02415900MO,291.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,651.0000,651.00,"CR:Limited Term Di... C.Carlock 201210: Carlock, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,28,111.0000,3108.00,"Basic Service Fee - One Bedroom for Oct: Carlock, Charlene",,,,,,,,,,,,,,,
+INVOICE,CM,,02411289,,10/02/2012,3468,"Invoice-Private",,10/02/2012,10/02/2012,,02415900MO,291.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3441,3441,"CR:Basic Service F... C.Carlock 201210: Carlock, Charlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... C.Carlock 201210: Carlock, Charlene",,,,,,,,,,,,,,,

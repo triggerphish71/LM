@@ -1,0 +1,5 @@
+BATCH,,201206,B,2191.0000,
+INVOICE,IN,,05210274,,06/29/2012,2191.0000,"MoveIn-McGuffey. Loma",,06/29/2012,06/29/2012,,05214918,4760.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,2,82.0000,164,"Basic Service Fee - Studio: McGuffey. Loma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: McGuffey. Loma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: McGuffey. Loma",,,,,,,,,,,,,,,

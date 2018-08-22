@@ -1,0 +1,7 @@
+BATCH,,201111,B,180.0000,
+INVOICE,IN,,19810231,,11/01/2011,90.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19816605MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Kennedy, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,30,2.0000,60.00,"Credit for Limited Term Discount: Kennedy, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,19810231,,11/01/2011,90,"Invoice-Private",,11/01/2011,11/10/2011,,19816605MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Kennedy, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,30,2,60,"Limited Term Discount: Kennedy, Ethel",,,,,,,,,,,,,,,

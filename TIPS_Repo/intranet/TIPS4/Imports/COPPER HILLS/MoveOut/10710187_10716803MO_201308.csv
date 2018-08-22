@@ -1,0 +1,7 @@
+BATCH,,201308,B,4144.0000,
+INVOICE,IN,,10710187,,08/01/2013,672.0000,"Invoice-Private",,08/01/2013,08/01/2013,,10716803MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,6,97.0000,582.00,"Basic Service Fee - Studio for Aug: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,6,15.0000,90.00,"Resident Care - Level 1 for Aug: McGuire, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,10710187,,08/01/2013,3472,"Invoice-Private",,08/01/2013,08/01/2013,,10716803MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3007,3007,"CR:Basic Service F... M.McGuire 201308: McGuire, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,465,465,"CR:Resident Care -... M.McGuire 201308: McGuire, Mary",,,,,,,,,,,,,,,

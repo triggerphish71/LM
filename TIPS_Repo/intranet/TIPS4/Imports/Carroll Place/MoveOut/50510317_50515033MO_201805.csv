@@ -1,0 +1,5 @@
+BATCH,,201805,B,400.0000,
+INVOICE,IN,,50510317,,05/01/2018,200.0000,"Invoice-Private",,05/01/2018,05/10/2018,,50515033MO,-1470.0300,,,,,,,,,,
+TRANSACTION,3216,010005505,1,200.0000,200.00,"Community Fee Installment Charge: Gray, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,50510317,,05/01/2018,200,"Invoice-Private",,05/01/2018,05/10/2018,,50515033MO,-1470.0300,,,,,,,,,,
+TRANSACTION,3216,010005505,1,200,200,"Credit for Community Fee Installment Charge: Gray, Ann",,,,,,,,,,,,,,,

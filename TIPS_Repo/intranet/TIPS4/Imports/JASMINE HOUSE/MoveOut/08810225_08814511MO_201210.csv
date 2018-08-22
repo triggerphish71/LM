@@ -1,0 +1,6 @@
+BATCH,,201210,B,7083.0000,
+INVOICE,IN,,08810225,,10/27/2012,4076.0000,"Invoice-Private",,10/27/2012,10/27/2012,,08814511MO,-431.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,1457.0000,1457.00,"CR:Limited Term Di... C.Norburg 201210: Norburg, Corinne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,27,97.0000,2619.00,"Basic Service Fee - Studio for Oct: Norburg, Corinne",,,,,,,,,,,,,,,
+INVOICE,CM,,08810225,,10/27/2012,3007,"Invoice-Private",,10/27/2012,10/27/2012,,08814511MO,-431.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... C.Norburg 201210: Norburg, Corinne",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,2785.0000,
+INVOICE,IN,,06910179,,12/15/2012,2785.0000,"MoveIn-Blake. Frank",,12/15/2012,12/15/2012,,06914044,6040.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,17,76.0000,1292,"F.Blake: Basic Service Fee - Studio: Blake. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,17,29.0000,493,"F.Blake: Resident Care - Level 2: Blake. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1000.0000,1000,"New Resident Fee: Blake. Frank",,,,,,,,,,,,,,,

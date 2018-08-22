@@ -1,0 +1,6 @@
+BATCH,,201105,B,3240.0000,
+INVOICE,IN,,11510221,,05/04/2011,3240.0000,"MoveIn-Caldwell. Robert",,05/04/2011,05/04/2011,,11513641,3240.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,28,64.0000,1792,"Basic Service Fee - Studio         : Caldwell. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,28,15.0000,420,"Resident Care - Level 1: Caldwell. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Caldwell. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Caldwell. Robert",,,,,,,,,,,,,,,

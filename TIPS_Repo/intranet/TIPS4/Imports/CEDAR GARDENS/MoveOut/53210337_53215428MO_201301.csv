@@ -1,0 +1,8 @@
+BATCH,,201301,B,7039.0000,
+INVOICE,IN,,53210337,,01/12/2013,1956.0000,"Invoice-Private",,01/12/2013,01/12/2013,,53215428MO,-3127.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,12,86.0000,1032.00,"Basic Service Fee - Studio for Jan: Huiras, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,12,77.0000,924.00,"Resident Care - Level 6 for Jan: Huiras, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,53210337,,01/12/2013,5083,"Invoice-Private",,01/12/2013,01/12/2013,,53215428MO,-3127.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,2666,2666,"CR:Basic Service F... L.Huiras 201301: Huiras, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... L.Huiras 201301: Huiras, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2387,2387,"CR:Resident Care -... L.Huiras 201301: Huiras, Lorraine",,,,,,,,,,,,,,,

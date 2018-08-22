@@ -1,0 +1,6 @@
+BATCH,,201207,B,3534.0000,
+INVOICE,IN,,20610218,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,20612789MO,-4134.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,62.0000,62.00,"CR:Limited Term Di... N.Groves 201207: Groves, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,20610218,,07/01/2012,3472,"Invoice-Private",,07/01/2012,07/10/2012,,20612789MO,-4134.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,651,651,"CR:Resident Care -... N.Groves 201207: Groves, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... N.Groves 201207: Groves, Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,3507.0000,
+INVOICE,IN,,15410243,,08/01/2012,217.0000,"Invoice-Private",,08/01/2012,08/10/2012,,15415036MO,-3941.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,1,217.0000,217.00,"CR:Two Room Rental... E.Buresh 201208: Buresh, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,15410243,,08/01/2012,3290,"Invoice-Private",,08/01/2012,08/10/2012,,15415036MO,-3941.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2170,2170,"CR:Basic Service F... E.Buresh 201208: Buresh, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... E.Buresh 201208: Buresh, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1085,1085,"CR:Resident Care -... E.Buresh 201208: Buresh, Elaine",,,,,,,,,,,,,,,

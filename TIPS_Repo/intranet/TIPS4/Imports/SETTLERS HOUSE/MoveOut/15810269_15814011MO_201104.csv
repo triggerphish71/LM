@@ -1,0 +1,5 @@
+BATCH,,201104,B,5428.0000,
+INVOICE,IN,,15810269,,04/29/2011,2668.0000,"Invoice-Private",,04/29/2011,04/29/2011,,15814011MO,-2944.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,29,92.0000,2668.00,"Basic Service Fee - Studio for Apr: Bormann, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,15810269,,04/29/2011,2760,"Invoice-Private",,04/29/2011,04/29/2011,,15814011MO,-2944.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2760,2760,"CR:Basic Service F... K.Bormann 201104: Bormann, Kathryn",,,,,,,,,,,,,,,

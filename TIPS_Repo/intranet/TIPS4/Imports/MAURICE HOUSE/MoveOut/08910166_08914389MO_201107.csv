@@ -1,0 +1,8 @@
+BATCH,,201107,B,8176.0000,
+INVOICE,IN,,08910166,,07/12/2011,4301.0000,"Invoice-Private",,07/12/2011,07/12/2011,,08914389MO,-2023.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,1,1426.0000,1426.00,"CR:Limited Term Di... G.Long 201107: Long, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,23,106.0000,2438.00,"Basic Service Fee - Studio for Jul: Long, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,23,19.0000,437.00,"Resident Care - Level 1 for Jul: Long, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08910166,,07/12/2011,3875,"Invoice-Private",,07/12/2011,07/12/2011,,08914389MO,-2023.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3286,3286,"CR:Basic Service F... G.Long 201107: Long, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,589,589,"CR:Resident Care -... G.Long 201107: Long, George",,,,,,,,,,,,,,,

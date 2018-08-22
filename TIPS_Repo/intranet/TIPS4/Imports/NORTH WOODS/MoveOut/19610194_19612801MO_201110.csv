@@ -1,0 +1,8 @@
+BATCH,,201110,B,2270.0000,
+INVOICE,IN,,19610194,,10/18/2011,720.0000,"Invoice-Private",,10/18/2011,10/18/2011,,19612801MO,-2330.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,18,17.0000,306.00,"Basic Service Fee - Second Resident for Oct: Krause, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,18,23.0000,414.00,"Resident Care - Level 2 for Oct: Krause, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,19610194,,10/18/2011,1550,"Invoice-Private",,10/18/2011,10/18/2011,,19612801MO,-2330.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,527,527,"CR:Basic Service F... F.Krause 201110: Krause, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,310,310,"CR:CC Meals... F.Krause 201110: Krause, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,713,713,"CR:Resident Care -... F.Krause 201110: Krause, Floyd",,,,,,,,,,,,,,,

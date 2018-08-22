@@ -1,0 +1,5 @@
+BATCH,,201203,B,1530.0000,
+INVOICE,IN,,13610306,,03/23/2012,1530.0000,"MoveIn-Cooper. Jerry June",,03/23/2012,03/23/2012,,13614657,3215.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,9,55.0000,495,"Basic Service Fee - Studio: Cooper. Jerry June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Cooper. Jerry June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Cooper. Jerry June",,,,,,,,,,,,,,,

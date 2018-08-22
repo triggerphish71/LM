@@ -1,0 +1,8 @@
+BATCH,,201202,B,4757.1900,
+INVOICE,IN,,08110210,,02/04/2012,1264.7200,"Invoice-Private",,02/04/2012,02/04/2012,,08114325MO,-2227.7500,,,,,,,,,,
+TRANSACTION,3320,010103081,1,783.0000,783.00,"CR:Limited Term Di... J.Siesling 201202: Siesling, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,4,90.0000,360.00,"Basic Service Fee - Studio for Feb: Siesling, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,4,30.4300,121.72,"Resident Care - Level 17 for Feb: Siesling, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,08110210,,02/04/2012,3492.47,"Invoice-Private",,02/04/2012,02/04/2012,,08114325MO,-2227.7500,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2610,2610,"CR:Basic Service F... J.Siesling 201202: Siesling, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,882.47,882.47,"CR:Resident Care -... J.Siesling 201202: Siesling, Joe",,,,,,,,,,,,,,,

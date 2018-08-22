@@ -1,0 +1,7 @@
+BATCH,,201108,B,4011.0000,
+INVOICE,IN,,04710128,,08/10/2011,4011.0000,"MoveIn-Howard. Eva",,08/10/2011,08/10/2011,,04713075,4011.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,22,96.0000,2112,"Basic Service Fee - Studio         : Howard. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,22,17.0000,374,"Resident Care - Level 1: Howard. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Howard. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Howard. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3213,010202047,1,500.0000,500,"Pet Fee: Howard. Eva",,,,,,,,,,,,,,,

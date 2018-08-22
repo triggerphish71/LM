@@ -1,0 +1,7 @@
+BATCH,,201304,B,1586.1000,
+INVOICE,IN,,04910222,,04/04/2013,186.6000,"Invoice-Private",,04/04/2013,04/04/2013,,04913599MO,-1212.9000,,,,,,,,,,
+TRANSACTION,3020,010101049,4,30.0000,120.00,"Basic Service Fee - Second Resident for Apr: Leonard, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,4,16.6500,66.60,"Resident Care - Level 9 for Apr: Leonard, William",,,,,,,,,,,,,,,
+INVOICE,CM,,04910222,,04/04/2013,1399.5,"Invoice-Private",,04/04/2013,04/04/2013,,04913599MO,-1212.9000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,900,900,"CR:Basic Service F... W.Leonard 201304: Leonard, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,499.5,499.5,"CR:Resident Care -... W.Leonard 201304: Leonard, William",,,,,,,,,,,,,,,

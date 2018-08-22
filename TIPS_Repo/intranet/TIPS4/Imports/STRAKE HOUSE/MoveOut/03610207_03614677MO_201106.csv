@@ -1,0 +1,6 @@
+BATCH,,201106,B,5459.0000,
+INVOICE,IN,,03610207,,06/01/2011,2522.0000,"Invoice-Private",,06/01/2011,06/01/2011,,03614677MO,-3449.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,26,97.0000,2522.00,"Basic Service Fee - Studio for Jun: Finke, Bernhardt",,,,,,,,,,,,,,,
+INVOICE,CM,,03610207,,06/01/2011,2937,"Invoice-Private",,06/01/2011,06/01/2011,,03614677MO,-3449.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,2910,2910,"CR:Basic Service F... B.Finke 201106: Finke, Bernhardt",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... B.Finke 201106: Finke, Bernhardt",,,,,,,,,,,,,,,

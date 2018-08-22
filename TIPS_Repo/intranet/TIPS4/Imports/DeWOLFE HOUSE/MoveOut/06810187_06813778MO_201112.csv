@@ -1,0 +1,8 @@
+BATCH,,201112,B,5288.0000,
+INVOICE,IN,,06810187,,12/16/2011,2250.0000,"Invoice-Private",,12/16/2011,12/16/2011,,06813778MO,-3919.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,682.0000,682.00,"CR:Limited Term Di... M.Dean 201112: Dean, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,16,82.0000,1312.00,"Basic Service Fee - Studio for Dec: Dean, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,16,16.0000,256.00,"Resident Care - Level 1 for Dec: Dean, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06810187,,12/16/2011,3038,"Invoice-Private",,12/16/2011,12/16/2011,,06813778MO,-3919.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2542,2542,"CR:Basic Service F... M.Dean 201112: Dean, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,496,496,"CR:Resident Care -... M.Dean 201112: Dean, Mary",,,,,,,,,,,,,,,

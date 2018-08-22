@@ -1,0 +1,6 @@
+BATCH,,201206,B,3985.0000,
+INVOICE,IN,,18910306,,06/01/2012,3985.0000,"June_Rent-Brower. Margret",,06/01/2012,06/10/2012,,18915270,6566.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,30,89.0000,2670,"Basic Service Fee - Studio: Brower. Margret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,30,33.0000,990,"Resident Care - Level 2: Brower. Margret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Brower. Margret",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300,"CC Meals: Brower. Margret",,,,,,,,,,,,,,,

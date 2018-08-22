@@ -1,0 +1,5 @@
+BATCH,,201105,B,4081.0000,
+INVOICE,IN,,07010194,,05/01/2011,4081.0000,"May_Rent-Beason. Luella",,05/01/2011,05/10/2011,,07013994,6256.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,31,86.0000,2666,"Basic Service Fee - Studio         : Beason. Luella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,31,45.0000,1395,"Resident Care - Level 3: Beason. Luella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Beason. Luella",,,,,,,,,,,,,,,

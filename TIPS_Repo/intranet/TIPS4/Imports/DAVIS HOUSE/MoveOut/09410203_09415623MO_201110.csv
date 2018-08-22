@@ -1,0 +1,7 @@
+BATCH,,201110,B,6773.5000,
+INVOICE,IN,,09410203,,10/01/2011,930.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09415623MO,-6174.5000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,930.0000,930.00,"CR:Limited Term Di... V.Agresto 201110: Agresto, Vito",,,,,,,,,,,,,,,
+INVOICE,CM,,09410203,,10/01/2011,5843.5,"Invoice-Private",,10/01/2011,10/10/2011,,09415623MO,-6174.5000,,,,,,,,,,
+TRANSACTION,3019,010107094,1,263.5,263.5,"CR:Additional Serv... V.Agresto 201110: Agresto, Vito",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2945,2945,"CR:Basic Service F... V.Agresto 201110: Agresto, Vito",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2635,2635,"CR:Resident Care -... V.Agresto 201110: Agresto, Vito",,,,,,,,,,,,,,,

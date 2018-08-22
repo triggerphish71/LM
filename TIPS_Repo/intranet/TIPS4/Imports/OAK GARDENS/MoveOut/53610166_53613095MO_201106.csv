@@ -1,0 +1,8 @@
+BATCH,,201106,B,4332.0000,
+INVOICE,IN,,53610166,,06/04/2011,642.0000,"Invoice-Private",,06/04/2011,06/04/2011,,53613095MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,1,150.0000,150.00,"CR:Limited Term Di... D.Schmit 201106: Schmit, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,4,29.0000,116.00,"Resident Care - Level 2 for Jun: Schmit, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319536,4,94.0000,376.00,"Room and Board - Studio for Jun: Schmit, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,53610166,,06/04/2011,3690,"Invoice-Private",,06/04/2011,06/04/2011,,53613095MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3027,010319536,1,870,870,"CR:Resident Care -... D.Schmit 201106: Schmit, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2820,2820,"CR:Room and Board ... D.Schmit 201106: Schmit, Donald",,,,,,,,,,,,,,,

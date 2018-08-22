@@ -1,0 +1,5 @@
+BATCH,,201210,B,3572.0000,
+INVOICE,IN,,03310366,,10/07/2012,658.0000,"Invoice-Private",,10/07/2012,10/07/2012,,03316764MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,7,94.0000,658.00,"Basic Service Fee - Studio for Oct: Curtis, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310366,,10/07/2012,2914,"Invoice-Private",,10/07/2012,10/07/2012,,03316764MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2914,2914,"CR:Basic Service F... B.Curtis 201210: Curtis, Bobbie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,4114.0000,
+INVOICE,IN,,07710118,,12/01/2011,363.0000,"Invoice-Private",,12/01/2011,12/10/2011,,07714104MO,-3388.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,3,92.0000,276.00,"Basic Service Fee - Studio for Dec: Nygaard, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,3,29.0000,87.00,"Resident Care - Level 2 for Dec: Nygaard, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,07710118,,12/01/2011,3751,"Invoice-Private",,12/01/2011,12/10/2011,,07714104MO,-3388.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2852,2852,"CR:Basic Service F... H.Nygaard 201112: Nygaard, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,899,899,"CR:Resident Care -... H.Nygaard 201112: Nygaard, Henry",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201806,B,5607.0000,
+INVOICE,IN,,50310217,,06/17/2018,2037.0000,"Invoice-Private",,06/17/2018,06/17/2018,,50318285MO,-5258.7700,,,,,,,,,,
+TRANSACTION,3017,010020503,16,45.0000,720.00,"Level: 3 : Hail, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010020503,1,59.0000,59.00," Level: 4 : Hail, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010020503,17,74.0000,1258.00,"Basic Service Fee - Studio for Jun: Hail, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,50310217,,06/17/2018,3570,"Invoice-Private",,06/17/2018,06/17/2018,,50318285MO,-5258.7700,,,,,,,,,,
+TRANSACTION,3020,010020503,1,2220,2220,"CR:Basic Service F... D.Hail 201806: Hail, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010020503,1,1350,1350,"CR:Resident Care -... D.Hail 201806: Hail, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,5543.0000,
+INVOICE,IN,,19010232,,02/16/2013,2772.0000,"Invoice-Private",,02/16/2013,02/16/2013,,19014900MO,-1731.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,1204.0000,1204.00,"CR:Limited Term Di... R.Tonon 201302: Tonon, Robert ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308190,16,98.0000,1568.00,"Basic Service Fee - Studio for Feb: Tonon, Robert ",,,,,,,,,,,,,,,
+INVOICE,CM,,19010232,,02/16/2013,2771,"Invoice-Private",,02/16/2013,02/16/2013,,19014900MO,-1731.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2744,2744,"CR:Basic Service F... R.Tonon 201302: Tonon, Robert ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... R.Tonon 201302: Tonon, Robert ",,,,,,,,,,,,,,,

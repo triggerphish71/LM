@@ -1,0 +1,6 @@
+BATCH,,201305,B,4030.0000,
+INVOICE,IN,,15810312,,05/01/2013,527.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15815023MO,-3632.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,527.0000,527.00,"CR:Resident Care L... L.Snyder 201305: Snyder, Lorena",,,,,,,,,,,,,,,
+INVOICE,CM,,15810312,,05/01/2013,3503,"Invoice-Private",,05/01/2013,05/10/2013,,15815023MO,-3632.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,527,527,"CR:Resident Care -... L.Snyder 201305: Snyder, Lorena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Room and Board ... L.Snyder 201305: Snyder, Lorena",,,,,,,,,,,,,,,

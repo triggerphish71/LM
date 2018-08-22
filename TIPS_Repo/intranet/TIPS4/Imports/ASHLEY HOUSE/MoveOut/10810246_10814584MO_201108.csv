@@ -1,0 +1,7 @@
+BATCH,,201108,B,1012.0000,
+INVOICE,IN,,10810246,,08/15/2011,138.0000,"Invoice-Private",,08/15/2011,08/15/2011,,10814584MO,-2116.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,3,30.0000,90.00,"Basic Service Fee - Second Resident for Aug: Gunnells, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,3,16.0000,48.00,"Resident Care - Level 1 for Aug: Gunnells, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,10810246,,08/15/2011,874,"Invoice-Private",,08/15/2011,08/15/2011,,10814584MO,-2116.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,570,570,"CR:Basic Service F... E.Gunnells 201108: Gunnells, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,304,304,"CR:Resident Care -... E.Gunnells 201108: Gunnells, Edna",,,,,,,,,,,,,,,

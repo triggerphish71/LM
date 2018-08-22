@@ -1,0 +1,5 @@
+BATCH,,201204,B,2160.0000,
+INVOICE,IN,,02411258,,04/01/2012,1080.0000,"Invoice-Private",,04/01/2012,04/10/2012,,02415621MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,36.0000,1080.00,"Credit for Limited Term Discount: Milliorn, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411258,,04/01/2012,1080,"Invoice-Private",,04/01/2012,04/10/2012,,02415621MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,36,1080,"Limited Term Discount: Milliorn, Willie",,,,,,,,,,,,,,,

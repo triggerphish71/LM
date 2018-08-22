@@ -1,0 +1,5 @@
+BATCH,,201107,B,4613.0000,
+INVOICE,IN,,03310316,,07/01/2011,4613.0000,"July_Rent-Agee. Charlie",,07/01/2011,07/10/2011,,03315899,6536.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,31,91.0000,2821,"Basic Service Fee - Studio         : Agee. Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202033,31,57.0000,1767,"Resident Care - Level 5: Agee. Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Agee. Charlie",,,,,,,,,,,,,,,

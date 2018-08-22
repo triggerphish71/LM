@@ -1,0 +1,5 @@
+BATCH,,201108,B,5203.0000,
+INVOICE,IN,,08610189,,08/12/2011,1452.0000,"Invoice-Private",,08/12/2011,08/12/2011,,08614477MO,-2299.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,12,121.0000,1452.00,"Basic Service Fee - One Bedroom for Aug: Williams, Dolores",,,,,,,,,,,,,,,
+INVOICE,CM,,08610189,,08/12/2011,3751,"Invoice-Private",,08/12/2011,08/12/2011,,08614477MO,-2299.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,3751,3751,"CR:Basic Service F... D.Williams 201108: Williams, Dolores",,,,,,,,,,,,,,,

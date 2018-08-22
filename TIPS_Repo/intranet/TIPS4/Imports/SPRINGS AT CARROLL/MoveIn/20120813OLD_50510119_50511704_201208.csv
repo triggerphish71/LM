@@ -1,0 +1,6 @@
+BATCH,,201208,B,4036.0000,
+INVOICE,IN,,50510119,,08/13/2012,4036.0000,"MoveIn-Ruck. George",,08/13/2012,08/13/2012,,50511704,4036.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,19,119.0000,2261,"G.Ruck: Basic Service Fee - One Bedroom: Ruck. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Ruck. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Ruck. George",,,,,,,,,,,,,,,
+TRANSACTION,3213,010305505,1,250.0000,250,"Pet Fee: Ruck. George",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201206,B,190.0000,
+INVOICE,IN,,13610273,,06/01/2012,95.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13614740MO,-3074.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,30,2.0000,60.00,"Credit for Limited Term Discount: Morton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35.00,"Monthly Cable: Morton, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,13610273,,06/01/2012,95,"Invoice-Private",,06/01/2012,06/10/2012,,13614740MO,-3074.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,30,2,60,"Limited Term Discount: Morton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"Credit for Monthly Cable: Morton, Jane",,,,,,,,,,,,,,,

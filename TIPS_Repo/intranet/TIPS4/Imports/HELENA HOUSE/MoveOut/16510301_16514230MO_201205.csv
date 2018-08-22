@@ -1,0 +1,6 @@
+BATCH,,201205,B,4794.0000,
+INVOICE,IN,,16510301,,05/05/2012,1787.0000,"Invoice-Private",,05/05/2012,05/05/2012,,16514230MO,-1220.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,1302.0000,1302.00,"CR:Limited Term Di... M.Stutts 201205: Stutts, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308165,5,97.0000,485.00,"Basic Service Fee - Studio for May: Stutts, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,16510301,,05/05/2012,3007,"Invoice-Private",,05/05/2012,05/05/2012,,16514230MO,-1220.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... M.Stutts 201205: Stutts, Mary",,,,,,,,,,,,,,,

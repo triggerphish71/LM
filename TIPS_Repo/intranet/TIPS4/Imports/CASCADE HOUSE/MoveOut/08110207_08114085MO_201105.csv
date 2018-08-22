@@ -1,0 +1,6 @@
+BATCH,,201105,B,4801.9000,
+INVOICE,IN,,08110207,,05/01/2011,124.0000,"Invoice-Private",,05/01/2011,05/10/2011,,08114085MO,-4584.8000,,,,,,,,,,
+TRANSACTION,3320,010103081,1,124.0000,124.00,"CR:Limited Term Di... B.Fishman 201105: Fishman, Babette",,,,,,,,,,,,,,,
+INVOICE,CM,,08110207,,05/01/2011,4677.9,"Invoice-Private",,05/01/2011,05/10/2011,,08114085MO,-4584.8000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2728,2728,"CR:Basic Service F... B.Fishman 201105: Fishman, Babette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1949.9,1949.9,"CR:Resident Care -... B.Fishman 201105: Fishman, Babette",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,5830.0000,
+INVOICE,IN,,08310126,,09/14/2011,2080.0000,"Invoice-Private",,09/14/2011,09/14/2011,,08313973MO,-1670.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,330.0000,330.00,"CR:Limited Term Di... J.Yellin 201109: Yellin, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,14,106.0000,1484.00,"Basic Service Fee - Studio for Sep: Yellin, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,14,19.0000,266.00,"Resident Care - Level 1 for Sep: Yellin, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,08310126,,09/14/2011,3750,"Invoice-Private",,09/14/2011,09/14/2011,,08313973MO,-1670.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3180,3180,"CR:Basic Service F... J.Yellin 201109: Yellin, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,570,570,"CR:Resident Care -... J.Yellin 201109: Yellin, Jerome",,,,,,,,,,,,,,,

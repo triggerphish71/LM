@@ -1,0 +1,7 @@
+BATCH,,201301,B,5026.0000,
+INVOICE,IN,,17410053,,01/01/2013,124.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17414558MO,-5003.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,124.0000,124.00,"CR:Limited Term Di... P.Arnold 201301: Arnold, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,17410053,,01/01/2013,4902,"Invoice-Private",,01/01/2013,01/10/2013,,17414558MO,-5003.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,3472,3472,"CR:Basic Service F... P.Arnold 201301: Arnold, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309174,1,35,35,"CR:Pendant Fee... P.Arnold 201301: Arnold, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,1395,1395,"CR:Resident Care -... P.Arnold 201301: Arnold, Phyllis",,,,,,,,,,,,,,,

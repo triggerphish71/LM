@@ -1,0 +1,8 @@
+BATCH,,201205,B,9172.0000,
+INVOICE,IN,,13010244,,05/01/2012,4340.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13015753MO,-492.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,28,102.0000,2856.00,"Basic Service Fee - Studio for May: Belli, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,28,53.0000,1484.00,"Resident Care - Level 3 for May: Belli, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13010244,,05/01/2012,4832,"Invoice-Private",,05/01/2012,05/10/2012,,13015753MO,-492.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3162,3162,"CR:Basic Service F... H.Belli 201205: Belli, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... H.Belli 201205: Belli, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1643,1643,"CR:Resident Care -... H.Belli 201205: Belli, Helen",,,,,,,,,,,,,,,

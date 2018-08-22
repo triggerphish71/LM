@@ -1,0 +1,8 @@
+BATCH,,201305,B,6501.0000,
+INVOICE,IN,,14210203,,05/02/2013,3180.0000,"Invoice-Private",,05/02/2013,05/02/2013,,14214419MO,-141.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,30,89.0000,2670.00,"Basic Service Fee - Studio for May: Benner, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,30,17.0000,510.00,"Resident Care - Level 1 for May: Benner, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,14210203,,05/02/2013,3321,"Invoice-Private",,05/02/2013,05/02/2013,,14214419MO,-141.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2759,2759,"CR:Basic Service F... E.Benner 201305: Benner, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... E.Benner 201305: Benner, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,527,527,"CR:Resident Care -... E.Benner 201305: Benner, Edith",,,,,,,,,,,,,,,

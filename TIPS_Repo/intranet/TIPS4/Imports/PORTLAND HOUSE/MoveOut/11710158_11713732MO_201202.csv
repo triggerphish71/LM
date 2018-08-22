@@ -1,0 +1,7 @@
+BATCH,,201202,B,7000.0000,
+INVOICE,IN,,11710158,,02/07/2012,1925.0000,"Invoice-Private",,02/07/2012,02/07/2012,,11713732MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3027,010305117,11,89.0000,979.00,"Resident Care - Level 6 for Feb: Krawetzke, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305117,11,86.0000,946.00,"Room and Board - Studio for Feb: Krawetzke, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,11710158,,02/07/2012,5075,"Invoice-Private",,02/07/2012,02/07/2012,,11713732MO,-3150.0000,,,,,,,,,,
+TRANSACTION,3027,010305117,1,2581,2581,"CR:Resident Care -... I.Krawetzke 201202: Krawetzke, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2494,2494,"CR:Room and Board ... I.Krawetzke 201202: Krawetzke, Irene",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201305,B,3097.0000,
+INVOICE,IN,,17810378,,05/24/2013,3097.0000,"MoveIn-Raskopf. Nancy",,05/24/2013,05/24/2013,,17816584,5802.0000,,,,,,,,,,
+TRANSACTION,3010,010212178,8,89.0000,712,"Basic Service Fee - Studio: Raskopf. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35,"Monthly Cable: Raskopf. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212178,1,2250.0000,2250,"New Resident Fee: Raskopf. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3299,010212178,1,100.0000,100,"Pet Fee - Non Refundable: Raskopf. Nancy",,,,,,,,,,,,,,,

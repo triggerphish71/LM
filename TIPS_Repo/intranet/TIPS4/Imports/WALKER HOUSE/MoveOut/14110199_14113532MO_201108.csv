@@ -1,0 +1,7 @@
+BATCH,,201108,B,5330.0000,
+INVOICE,IN,,14110199,,08/10/2011,1300.0000,"Invoice-Private",,08/10/2011,08/10/2011,,14113532MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,10,84.0000,840.00,"Basic Service Fee - Studio for Aug: Ayers, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,10,46.0000,460.00,"Resident Care - Level 3 for Aug: Ayers, John",,,,,,,,,,,,,,,
+INVOICE,CM,,14110199,,08/10/2011,4030,"Invoice-Private",,08/10/2011,08/10/2011,,14113532MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2604,2604,"CR:Basic Service F... J.Ayers 201108: Ayers, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,1426,1426,"CR:Resident Care -... J.Ayers 201108: Ayers, John",,,,,,,,,,,,,,,

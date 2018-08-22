@@ -1,0 +1,6 @@
+BATCH,,201105,B,5076.0000,
+INVOICE,IN,,02210178,,05/05/2011,5076.0000,"MoveIn-Griffin. Kirven",,05/05/2011,05/05/2011,,02213897,5076.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,27,82.0000,2214,"Basic Service Fee - Studio         : Griffin. Kirven",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,27,31.0000,837,"Resident Care - Level 2: Griffin. Kirven",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Griffin. Kirven",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Griffin. Kirven",,,,,,,,,,,,,,,

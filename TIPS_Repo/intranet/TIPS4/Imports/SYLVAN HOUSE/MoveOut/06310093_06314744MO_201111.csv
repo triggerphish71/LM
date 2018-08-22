@@ -1,0 +1,7 @@
+BATCH,,201111,B,2325.3300,
+INVOICE,IN,,06310093,,11/09/2011,564.6300,"Invoice-Medicaid",,11/09/2011,11/09/2011,,06314744MO,-2995.1600,,,,,,,,,,
+TRANSACTION,3021,010104063,29,19.4700,564.63,"Medicaid Room & Board for Nov: Hensyel, Leroy",,,,,,,,,,,,,,,
+INVOICE,CM,,06310093,,11/09/2011,1760.7,"Invoice-Medicaid",,11/09/2011,11/09/2011,,06314744MO,-2995.1600,,,,,,,,,,
+TRANSACTION,3021,010104063,1,584,584,"CR:Medicaid Room &... L.Hensyel 201111: Hensyel, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... L.Hensyel 201111: Hensyel, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104063,1,1151.7,1151.7,"CR:State Medicaid... L.Hensyel 201111: Hensyel, Leroy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,6051.4000,
+INVOICE,IN,,16010344,,07/01/2011,353.4000,"Invoice-Private",,07/01/2011,07/10/2011,,16014986MO,-5734.6000,,,,,,,,,,
+TRANSACTION,3312,010107160,1,353.4000,353.40,"CR:Two Room Rental... B.Moon 201107: Moon, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,16010344,,07/01/2011,5698,"Invoice-Private",,07/01/2011,07/10/2011,,16014986MO,-5734.6000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3534,3534,"CR:Basic Service F... B.Moon 201107: Moon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... B.Moon 201107: Moon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,2139,2139,"CR:Resident Care -... B.Moon 201107: Moon, Betty",,,,,,,,,,,,,,,

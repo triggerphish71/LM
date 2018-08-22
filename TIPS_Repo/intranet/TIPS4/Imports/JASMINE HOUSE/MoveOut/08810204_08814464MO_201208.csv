@@ -1,0 +1,8 @@
+BATCH,,201208,B,9605.0000,
+INVOICE,IN,,08810204,,08/26/2012,4769.0000,"Invoice-Private",,08/26/2012,08/26/2012,,08814464MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,713.0000,713.00,"CR:Limited Term Di... M.Durand 201208: Durand, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,26,97.0000,2522.00,"Basic Service Fee - Studio for Aug: Durand, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,26,59.0000,1534.00,"Resident Care - Level 4 for Aug: Durand, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,08810204,,08/26/2012,4836,"Invoice-Private",,08/26/2012,08/26/2012,,08814464MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... M.Durand 201208: Durand, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1829,1829,"CR:Resident Care -... M.Durand 201208: Durand, Muriel",,,,,,,,,,,,,,,

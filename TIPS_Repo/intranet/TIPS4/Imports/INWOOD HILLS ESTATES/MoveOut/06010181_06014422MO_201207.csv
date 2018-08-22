@@ -1,0 +1,7 @@
+BATCH,,201207,B,5750.0000,
+INVOICE,IN,,06010181,,07/15/2012,1875.0000,"Invoice-Private",,07/15/2012,07/15/2012,,06014422MO,-5875.0000,,,,,,,,,,
+TRANSACTION,3027,010206060,15,15.0000,225.00,"Resident Care - Level 1 for Jul: Rowe, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,15,110.0000,1650.00,"Room and Board - One Bedroom for Jul: Rowe, David",,,,,,,,,,,,,,,
+INVOICE,CM,,06010181,,07/15/2012,3875,"Invoice-Private",,07/15/2012,07/15/2012,,06014422MO,-5875.0000,,,,,,,,,,
+TRANSACTION,3027,010206060,1,465,465,"CR:Resident Care -... D.Rowe 201207: Rowe, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3410,3410,"CR:Room and Board ... D.Rowe 201207: Rowe, David",,,,,,,,,,,,,,,

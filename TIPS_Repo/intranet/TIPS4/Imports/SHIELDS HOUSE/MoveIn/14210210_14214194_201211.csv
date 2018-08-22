@@ -1,0 +1,6 @@
+BATCH,,201211,B,4240.0000,
+INVOICE,IN,,14210210,,11/10/2012,4240.0000,"MoveIn-Mock. Eloise",,11/10/2012,11/10/2012,,14214194,4240.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,21,88.0000,1848,"E.Mock: Basic Service Fee - Studio: Mock. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,21,17.0000,357,"E.Mock: Resident Care - Level 1: Mock. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Mock. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,2000.0000,2000,"New Resident Fee: Mock. Eloise",,,,,,,,,,,,,,,

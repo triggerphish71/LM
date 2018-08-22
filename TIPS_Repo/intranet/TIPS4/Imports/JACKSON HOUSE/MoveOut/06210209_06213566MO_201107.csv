@@ -1,0 +1,7 @@
+BATCH,,201107,B,9302.5000,
+INVOICE,IN,,06210209,,07/02/2011,4575.0000,"Invoice-Private",,07/02/2011,07/02/2011,,06213566MO,-3035.5000,,,,,,,,,,
+TRANSACTION,3020,010101062,30,93.0000,2790.00,"Basic Service Fee - One Bedroom for Jul: Kearns, Doug",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,30,59.5000,1785.00,"Resident Care - Level 35 for Jul: Kearns, Doug",,,,,,,,,,,,,,,
+INVOICE,CM,,06210209,,07/02/2011,4727.5,"Invoice-Private",,07/02/2011,07/02/2011,,06213566MO,-3035.5000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2883,2883,"CR:Basic Service F... D.Kearns 201107: Kearns, Doug",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1844.5,1844.5,"CR:Resident Care -... D.Kearns 201107: Kearns, Doug",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201203,B,1813.0000,
+INVOICE,IN,,02910309,,03/30/2012,1813.0000,"MoveIn-Garrett. Roxie",,03/30/2012,03/30/2012,,02915534,6158.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,2,100.0000,200,"Basic Service Fee - Studio: Garrett. Roxie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,2,44.0000,88,"Resident Care - Level 3: Garrett. Roxie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Garrett. Roxie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Garrett. Roxie",,,,,,,,,,,,,,,

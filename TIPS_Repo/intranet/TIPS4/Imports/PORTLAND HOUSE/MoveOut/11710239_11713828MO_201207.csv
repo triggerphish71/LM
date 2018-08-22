@@ -1,0 +1,7 @@
+BATCH,,201207,B,8100.0000,
+INVOICE,IN,,11710239,,07/01/2012,2520.0000,"Invoice-Private",,07/01/2012,07/10/2012,,11713828MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,14,110.0000,1540.00,"Basic Service Fee - One Bedroom for Jul: Kraus, Dean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,14,70.0000,980.00,"Resident Care - Level 5 for Jul: Kraus, Dean",,,,,,,,,,,,,,,
+INVOICE,CM,,11710239,,07/01/2012,5580,"Invoice-Private",,07/01/2012,07/10/2012,,11713828MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,3410,3410,"CR:Basic Service F... D.Kraus 201207: Kraus, Dean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,2170,2170,"CR:Resident Care -... D.Kraus 201207: Kraus, Dean",,,,,,,,,,,,,,,

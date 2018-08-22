@@ -1,0 +1,8 @@
+BATCH,,201109,B,3425.0000,
+INVOICE,IN,,11110284,,09/01/2011,50.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11114521MO,-4535.0000,,,,,,,,,,
+TRANSACTION,3150,010107111,1,50.0000,50.00,"Late Fee Adjustment: Coe, Burdella",,,,,,,,,,,,,,,
+INVOICE,CM,,11110284,,09/01/2011,3375,"Invoice-Private",,09/01/2011,09/10/2011,,11114521MO,-4535.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2820,2820,"CR:Basic Service F... B.Coe 201109: Coe, Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... B.Coe 201109: Coe, Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,480,480,"CR:Resident Care -... B.Coe 201109: Coe, Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3150,010107111,1,50,50,"Late Fee Adjustment: Coe, Burdella",,,,,,,,,,,,,,,

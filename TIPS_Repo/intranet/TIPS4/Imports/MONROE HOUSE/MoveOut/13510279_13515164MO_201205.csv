@@ -1,0 +1,8 @@
+BATCH,,201205,B,5233.0000,
+INVOICE,IN,,13510279,,05/01/2012,1452.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13515164MO,-2329.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,12,90.0000,1080.00,"Basic Service Fee - Studio for May: Evans, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,12,31.0000,372.00,"Resident Care - Level 2 for May: Evans, George",,,,,,,,,,,,,,,
+INVOICE,CM,,13510279,,05/01/2012,3781,"Invoice-Private",,05/01/2012,05/10/2012,,13515164MO,-2329.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2790,2790,"CR:Basic Service F... G.Evans 201205: Evans, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... G.Evans 201205: Evans, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... G.Evans 201205: Evans, George",,,,,,,,,,,,,,,

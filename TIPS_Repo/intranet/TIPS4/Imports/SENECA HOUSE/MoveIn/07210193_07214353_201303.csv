@@ -1,0 +1,5 @@
+BATCH,,201303,B,2420.0000,
+INVOICE,IN,,07210193,,03/22/2013,2420.0000,"MoveIn-Luman. Harley",,03/22/2013,03/22/2013,,07214353,6680.0000,,,,,,,,,,
+TRANSACTION,3010,010305072,10,109.0000,1090,"Basic Service Fee - Deluxe: Luman. Harley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305072,10,33.0000,330,"Resident Care - Level 2: Luman. Harley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305072,1,1000.0000,1000,"New Resident Fee: Luman. Harley",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,3605.0000,
+INVOICE,IN,,09910243,,04/04/2013,3605.0000,"MoveIn-Henderson. Ralph",,04/04/2013,04/04/2013,,09914461,3605.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,27,86.0000,2322,"Basic Service Fee - Studio: Henderson. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,27,29.0000,783,"Resident Care - Level 2: Henderson. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Henderson. Ralph",,,,,,,,,,,,,,,

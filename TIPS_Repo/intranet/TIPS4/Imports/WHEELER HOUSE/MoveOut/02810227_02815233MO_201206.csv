@@ -1,0 +1,5 @@
+BATCH,,201206,B,4746.0000,
+INVOICE,IN,,02810227,,06/11/2012,1356.0000,"Invoice-Private",,06/11/2012,06/11/2012,,02815233MO,-2034.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,12,113.0000,1356.00,"Basic Service Fee - Studio for Jun: Huebner, Darleen",,,,,,,,,,,,,,,
+INVOICE,CM,,02810227,,06/11/2012,3390,"Invoice-Private",,06/11/2012,06/11/2012,,02815233MO,-2034.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3390,3390,"CR:Basic Service F... D.Huebner 201206: Huebner, Darleen",,,,,,,,,,,,,,,

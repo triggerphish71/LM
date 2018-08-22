@@ -1,0 +1,7 @@
+BATCH,,201207,B,5976.0000,
+INVOICE,IN,,53410424,,07/01/2012,830.0000,"Invoice-Private",,07/01/2012,07/10/2012,,53421084MO,-4316.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,5,76.0000,380.00,"Basic Service Fee - One Bedroom for Jul: Moehring, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,5,90.0000,450.00,"Resident Care - Level 5 for Jul: Moehring, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,53410424,,07/01/2012,5146,"Invoice-Private",,07/01/2012,07/10/2012,,53421084MO,-4316.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2356,2356,"CR:Basic Service F... R.Moehring 201207: Moehring, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2790,2790,"CR:Resident Care -... R.Moehring 201207: Moehring, Richard",,,,,,,,,,,,,,,

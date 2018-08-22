@@ -1,0 +1,5 @@
+BATCH,,201105,B,5100.0000,
+INVOICE,IN,,12510192,,05/01/2011,5100.0000,"MoveIn-Thomas. Marlene",,05/01/2011,05/01/2011,,12513890,5100.0000,,,,,,,,,,
+TRANSACTION,3010,010211125,31,82.0000,2542,"M.Thomas: Basic Service Fee - Deluxe: Thomas. Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211125,31,18.0000,558,"M.Thomas: Resident Care - Level 1: Thomas. Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211125,1,2000.0000,2000,"New Resident Fee: Thomas. Marlene",,,,,,,,,,,,,,,

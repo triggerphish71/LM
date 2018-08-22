@@ -1,0 +1,8 @@
+BATCH,,201303,B,3642.0000,
+INVOICE,IN,,12910347,,03/18/2013,688.0000,"Invoice-Private",,03/18/2013,03/18/2013,,12916375MO,-7456.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,4,98.0000,392.00,"J.Boyle: Basic Service Fee - Studio for Mar: Boyle, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,4,74.0000,296.00,"J.Boyle: Resident Care - Level 5 for Mar: Boyle, James",,,,,,,,,,,,,,,
+INVOICE,CM,,12910347,,03/18/2013,2954,"Invoice-Private",,03/18/2013,03/18/2013,,12916375MO,-7456.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,1666,1666,"CR:J.Boyle: Basic ... J.Boyle 201303: Boyle, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1258,1258,"CR:J.Boyle: Reside... J.Boyle 201303: Boyle, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... J.Boyle 201303: Boyle, James",,,,,,,,,,,,,,,

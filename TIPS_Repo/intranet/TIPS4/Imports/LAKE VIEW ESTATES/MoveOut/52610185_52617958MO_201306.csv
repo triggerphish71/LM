@@ -1,0 +1,7 @@
+BATCH,,201306,B,6180.0000,
+INVOICE,IN,,52610185,,06/01/2013,2380.0000,"Invoice-Private",,06/01/2013,06/10/2013,,52617958MO,-5339.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,20,119.0000,2380.00,"Room and Board - Two Bedroom Deluxe for Jun: Behnke, Orval",,,,,,,,,,,,,,,
+INVOICE,CM,,52610185,,06/01/2013,3800,"Invoice-Private",,06/01/2013,06/10/2013,,52617958MO,-5339.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"CR:Garage Rental... O.Behnke 201306: Behnke, Orval",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"CR:Resident Meals... O.Behnke 201306: Behnke, Orval",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3570,3570,"CR:Room and Board ... O.Behnke 201306: Behnke, Orval",,,,,,,,,,,,,,,

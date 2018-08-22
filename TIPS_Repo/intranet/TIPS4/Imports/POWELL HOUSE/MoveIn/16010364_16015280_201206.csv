@@ -1,0 +1,6 @@
+BATCH,,201206,B,6025.0000,
+INVOICE,IN,,16010364,,06/06/2012,6025.0000,"MoveIn-Hatch. Bernice",,06/06/2012,06/06/2012,,16015280,6025.0000,,,,,,,,,,
+TRANSACTION,3010,010107160,25,99.0000,2475,"Basic Service Fee - Studio: Hatch. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107160,25,61.0000,1525,"Resident Care - Level 4: Hatch. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25,"Monthly Cable: Hatch. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107160,1,2000.0000,2000,"New Resident Fee: Hatch. Bernice",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,7140.0000,
+INVOICE,IN,,08510240,,06/21/2013,2940.0000,"Invoice-Private",,06/21/2013,06/21/2013,,08514621MO,-5600.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,21,86.0000,1806.00,"Basic Service Fee - Studio for Jun: Day, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,21,54.0000,1134.00,"Resident Care - Level 4 for Jun: Day, Garland",,,,,,,,,,,,,,,
+INVOICE,CM,,08510240,,06/21/2013,4200,"Invoice-Private",,06/21/2013,06/21/2013,,08514621MO,-5600.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2580,2580,"CR:Basic Service F... G.Day 201306: Day, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,1,1620,1620,"CR:Resident Care -... G.Day 201306: Day, Garland",,,,,,,,,,,,,,,

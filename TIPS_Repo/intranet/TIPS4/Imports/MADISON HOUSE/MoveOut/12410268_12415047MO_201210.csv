@@ -1,0 +1,6 @@
+BATCH,,201210,B,4264.2500,
+INVOICE,IN,,12410268,,10/16/2012,1753.2500,"Invoice-Private",,10/16/2012,10/16/2012,,12415047MO,-2745.2500,,,,,,,,,,
+TRANSACTION,3320,010211124,1,457.2500,457.25,"CR:Limited Term Di... M.Lake 201210: Lake, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211124,16,81.0000,1296.00,"Basic Service Fee - Studio for Oct: Lake, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,12410268,,10/16/2012,2511,"Invoice-Private",,10/16/2012,10/16/2012,,12415047MO,-2745.2500,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2511,2511,"CR:Basic Service F... M.Lake 201210: Lake, Marian",,,,,,,,,,,,,,,

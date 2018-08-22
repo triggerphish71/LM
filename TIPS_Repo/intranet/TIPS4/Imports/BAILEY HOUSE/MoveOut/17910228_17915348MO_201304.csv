@@ -1,0 +1,7 @@
+BATCH,,201304,B,2822.0000,
+INVOICE,IN,,17910228,,04/04/2013,332.0000,"Invoice-Private",,04/04/2013,04/04/2013,,17915348MO,-2158.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,4,55.0000,220.00,"Basic Service Fee - Studio for Apr: Grimes, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,4,28.0000,112.00,"Resident Care - Level 2 for Apr: Grimes, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,17910228,,04/04/2013,2490,"Invoice-Private",,04/04/2013,04/04/2013,,17915348MO,-2158.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,1650,1650,"CR:Basic Service F... A.Grimes 201304: Grimes, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,840,840,"CR:Resident Care -... A.Grimes 201304: Grimes, Alice",,,,,,,,,,,,,,,

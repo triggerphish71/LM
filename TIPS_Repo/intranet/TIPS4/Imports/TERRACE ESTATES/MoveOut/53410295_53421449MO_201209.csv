@@ -1,0 +1,6 @@
+BATCH,,201209,B,4280.0000,
+INVOICE,IN,,53410295,,09/24/2012,1900.0000,"Invoice-Private",,09/24/2012,09/24/2012,,53421449MO,-2936.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,25,76.0000,1900.00,"Basic Service Fee - One Bedroom for Sep: Fibiger, LaVerne",,,,,,,,,,,,,,,
+INVOICE,CM,,53410295,,09/24/2012,2380,"Invoice-Private",,09/24/2012,09/24/2012,,53421449MO,-2936.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2280,2280,"CR:Basic Service F... L.Fibiger 201209: Fibiger, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3210,010319534,1,100,100,"CR:Personal Servic... L.Fibiger 201209: Fibiger, LaVerne",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201305,B,3325.0000,
+INVOICE,IN,,18910344,,05/07/2013,3325.0000,"MoveIn-Smead. Willard",,05/07/2013,05/07/2013,,18915841,3325.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,25,89.0000,2225,"Basic Service Fee - Studio: Smead. Willard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,25,33.0000,825,"Resident Care - Level 2: Smead. Willard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Smead. Willard",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,25,10.0000,250,"CC Meals: Smead. Willard",,,,,,,,,,,,,,,

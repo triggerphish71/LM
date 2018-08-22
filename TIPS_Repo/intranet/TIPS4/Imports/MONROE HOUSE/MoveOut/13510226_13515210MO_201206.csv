@@ -1,0 +1,6 @@
+BATCH,,201206,B,3690.0000,
+INVOICE,IN,,13510226,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13515210MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,60.0000,60.00,"CR:Limited Term Di... B.Helms 201206: Helms, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,13510226,,06/01/2012,3630,"Invoice-Private",,06/01/2012,06/10/2012,,13515210MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... B.Helms 201206: Helms, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,930,930,"CR:Resident Care -... B.Helms 201206: Helms, Bertha",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,3415.0000,
+INVOICE,IN,,04610191,,06/01/2011,3415.0000,"June_Rent-Hodge. Willie",,06/01/2011,06/10/2011,,04613317,6885.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,30,96.0000,2880,"Basic Service Fee - Studio         : Hodge. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,30,17.0000,510,"Resident Care - Level 1: Hodge. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Hodge. Willie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,4965.0000,
+INVOICE,IN,,15510246,,04/03/2012,4965.0000,"MoveIn-Owatt. Leanna",,04/03/2012,04/03/2012,,15515175,4965.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,28,89.0000,2492,"Basic Service Fee - Studio: Owatt. Leanna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,28,16.0000,448,"Resident Care - Level 1: Owatt. Leanna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Owatt. Leanna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Owatt. Leanna",,,,,,,,,,,,,,,

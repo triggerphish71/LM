@@ -1,0 +1,7 @@
+BATCH,,201207,B,3024.0400,
+INVOICE,IN,,00710195,,07/15/2012,986.1000,"Invoice-Private",,07/15/2012,07/15/2012,,00713449MO,-1051.8400,,,,,,,,,,
+TRANSACTION,3020,010101007,15,55.0000,825.00,"Basic Service Fee - Studio for Jul: McEwen, Blannie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,15,10.7400,161.10,"Resident Care - Level 6 for Jul: McEwen, Blannie",,,,,,,,,,,,,,,
+INVOICE,CM,,00710195,,07/15/2012,2037.94,"Invoice-Private",,07/15/2012,07/15/2012,,00713449MO,-1051.8400,,,,,,,,,,
+TRANSACTION,3020,010101007,1,1705,1705,"CR:Basic Service F... B.McEwen 201207: McEwen, Blannie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,332.94,332.94,"CR:Resident Care -... B.McEwen 201207: McEwen, Blannie",,,,,,,,,,,,,,,

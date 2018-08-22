@@ -1,0 +1,5 @@
+BATCH,,201110,B,2360.0000,
+INVOICE,IN,,13610280,,10/07/2011,2360.0000,"MoveIn-Weir. Dean",,10/07/2011,10/07/2011,,13614245,2360.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,25,53.0000,1325,"Basic Service Fee - Studio: Weir. Dean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Weir. Dean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Weir. Dean",,,,,,,,,,,,,,,

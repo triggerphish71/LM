@@ -1,0 +1,7 @@
+BATCH,,201112,B,6442.0000,
+INVOICE,IN,,03710184,,12/02/2011,3534.0000,"Invoice-Private",,12/02/2011,12/02/2011,,03714070MO,626.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,1,1023.0000,1023.00,"CR:Limited Term Di... G.Carter 201112: Carter, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,27,93.0000,2511.00,"Basic Service Fee - Studio for Dec: Carter, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,03710184,,12/02/2011,2908,"Invoice-Private",,12/02/2011,12/02/2011,,03714070MO,626.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2883,2883,"CR:Basic Service F... G.Carter 201112: Carter, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25,25,"CR:Monthly Cable... G.Carter 201112: Carter, Gwen",,,,,,,,,,,,,,,

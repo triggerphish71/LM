@@ -1,0 +1,6 @@
+BATCH,,201107,B,3321.0000,
+INVOICE,IN,,19610190,,07/01/2011,3321.0000,"July_Rent-Fish. Fusako",,07/01/2011,07/10/2011,,19612624,6052.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,31,83.0000,2573,"F.Fish: Basic Service Fee - Studio: Fish. Fusako",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,31,13.0000,403,"F.Fish: Resident Care - Level 1: Fish. Fusako",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Fish. Fusako",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315196,31,10.0000,310,"HSG Meals: Fish. Fusako",,,,,,,,,,,,,,,

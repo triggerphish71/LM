@@ -1,0 +1,7 @@
+BATCH,,201107,B,6720.0000,
+INVOICE,IN,,12310178,,07/17/2011,2380.0000,"Invoice-Private",,07/17/2011,07/17/2011,,12315001MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,17,121.0000,2057.00,"Basic Service Fee - One Bedroom for Jul: Bever, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,17,19.0000,323.00,"Resident Care - Level 1 for Jul: Bever, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,12310178,,07/17/2011,4340,"Invoice-Private",,07/17/2011,07/17/2011,,12315001MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3751,3751,"CR:Basic Service F... V.Bever 201107: Bever, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,589,589,"CR:Resident Care -... V.Bever 201107: Bever, Virginia",,,,,,,,,,,,,,,

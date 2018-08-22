@@ -1,0 +1,5 @@
+BATCH,,201304,B,50.0000,
+INVOICE,IN,,08210172,,04/01/2013,25.0000,"Invoice-Private",,04/01/2013,04/10/2013,,08214754MO,-3478.2000,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25.0000,25.00,"Monthly Cable: Mooney, LaVilla",,,,,,,,,,,,,,,
+INVOICE,CM,,08210172,,04/01/2013,25,"Invoice-Private",,04/01/2013,04/10/2013,,08214754MO,-3478.2000,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"Credit for Monthly Cable: Mooney, LaVilla",,,,,,,,,,,,,,,

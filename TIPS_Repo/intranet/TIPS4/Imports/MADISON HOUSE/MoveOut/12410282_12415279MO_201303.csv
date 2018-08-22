@@ -1,0 +1,8 @@
+BATCH,,201303,B,5543.0000,
+INVOICE,IN,,12410282,,03/23/2013,2346.0000,"Invoice-Private",,03/23/2013,03/23/2013,,12415279MO,-4006.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,23,84.0000,1932.00,"Basic Service Fee - Deluxe for Mar: Marten, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,23,18.0000,414.00,"Resident Care - Level 1 for Mar: Marten, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,12410282,,03/23/2013,3197,"Invoice-Private",,03/23/2013,03/23/2013,,12415279MO,-4006.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2604,2604,"CR:Basic Service F... L.Marten 201303: Marten, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... L.Marten 201303: Marten, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,558,558,"CR:Resident Care -... L.Marten 201303: Marten, Lucille",,,,,,,,,,,,,,,

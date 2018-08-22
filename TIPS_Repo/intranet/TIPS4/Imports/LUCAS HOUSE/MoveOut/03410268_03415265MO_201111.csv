@@ -1,0 +1,6 @@
+BATCH,,201111,B,6792.0000,
+INVOICE,IN,,03410268,,11/01/2011,3552.0000,"Invoice-Private",,11/01/2011,11/10/2011,,03415265MO,312.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1500.0000,1500.00,"CR:Limited Term Di... J.Colbert 201111: Colbert, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202034,19,108.0000,2052.00,"Basic Service Fee - One Bedroom for Nov: Colbert, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,03410268,,11/01/2011,3240,"Invoice-Private",,11/01/2011,11/10/2011,,03415265MO,312.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,3240,3240,"CR:Basic Service F... J.Colbert 201111: Colbert, Jerry",,,,,,,,,,,,,,,

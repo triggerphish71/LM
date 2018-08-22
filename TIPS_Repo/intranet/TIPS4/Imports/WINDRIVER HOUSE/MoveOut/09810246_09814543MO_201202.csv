@@ -1,0 +1,6 @@
+BATCH,,201202,B,2504.0000,
+INVOICE,IN,,09810246,,02/15/2012,94.0000,"Invoice-Private",,02/15/2012,02/15/2012,,09814543MO,-2316.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,94.0000,94.00,"Basic Service Fee - Studio for Feb: Ferguson, Calvin",,,,,,,,,,,,,,,
+INVOICE,CM,,09810246,,02/15/2012,2410,"Invoice-Private",,02/15/2012,02/15/2012,,09814543MO,-2316.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,1410,1410,"CR:Basic Service F... C.Ferguson 201202: Ferguson, Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000,1000,"CR:New Resident Fe... C.Ferguson 201202: Ferguson, Calvin",,,,,,,,,,,,,,,

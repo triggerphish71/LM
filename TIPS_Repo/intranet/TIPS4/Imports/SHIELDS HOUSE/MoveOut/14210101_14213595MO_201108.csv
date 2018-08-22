@@ -1,0 +1,7 @@
+BATCH,,201108,B,4127.0000,
+INVOICE,IN,,14210101,,08/01/2011,434.0000,"Invoice-Private",,08/01/2011,08/10/2011,,14213595MO,-3259.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,1,434.0000,434.00,"CR:Limited Term Di... D.Mousa 201108: Mousa, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14210101,,08/01/2011,3693,"Invoice-Private",,08/01/2011,08/10/2011,,14213595MO,-3259.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2635,2635,"CR:Basic Service F... D.Mousa 201108: Mousa, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... D.Mousa 201108: Mousa, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1023,1023,"CR:Resident Care -... D.Mousa 201108: Mousa, Dorothy",,,,,,,,,,,,,,,

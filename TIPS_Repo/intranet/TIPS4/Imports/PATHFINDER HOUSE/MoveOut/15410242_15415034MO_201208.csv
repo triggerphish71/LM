@@ -1,0 +1,7 @@
+BATCH,,201208,B,3507.0000,
+INVOICE,IN,,15410242,,08/01/2012,217.0000,"Invoice-Private",,08/01/2012,08/10/2012,,15415034MO,-4361.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,1,217.0000,217.00,"CR:Two Room Rental... L.Buresh 201208: Buresh, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,15410242,,08/01/2012,3290,"Invoice-Private",,08/01/2012,08/10/2012,,15415034MO,-4361.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2170,2170,"CR:Basic Service F... L.Buresh 201208: Buresh, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... L.Buresh 201208: Buresh, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1085,1085,"CR:Resident Care -... L.Buresh 201208: Buresh, Larry",,,,,,,,,,,,,,,

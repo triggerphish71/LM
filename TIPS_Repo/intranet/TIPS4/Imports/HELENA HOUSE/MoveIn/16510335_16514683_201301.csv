@@ -1,0 +1,6 @@
+BATCH,,201301,B,3705.0000,
+INVOICE,IN,,16510335,,01/18/2013,3705.0000,"MoveIn-Culp. Francis",,01/18/2013,01/18/2013,,16514683,7988.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,14,99.0000,1386,"Basic Service Fee - Studio         : Culp. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,14,53.0000,742,"Resident Care - Level 4: Culp. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Culp. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1550.0000,1550,"New Resident Fee: Culp. Francis",,,,,,,,,,,,,,,

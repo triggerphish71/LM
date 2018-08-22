@@ -1,0 +1,5 @@
+BATCH,,201303,B,3725.0000,
+INVOICE,IN,,09910238,,03/07/2013,3725.0000,"MoveIn-Christensen. Thelma",,03/07/2013,03/07/2013,,09914421,3725.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,25,86.0000,2150,"Basic Service Fee - Studio: Christensen. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,25,43.0000,1075,"Resident Care - Level 3: Christensen. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Christensen. Thelma",,,,,,,,,,,,,,,

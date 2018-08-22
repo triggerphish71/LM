@@ -1,0 +1,7 @@
+BATCH,,201203,B,5065.3200,
+INVOICE,IN,,05910090,,03/01/2012,1986.4000,"Invoice-Private",,03/01/2012,03/10/2012,,05913255MO,-1092.5200,,,,,,,,,,
+TRANSACTION,3020,010101059,20,85.0000,1700.00,"Basic Service Fee - Studio for Mar: Ehlinger, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,20,14.3200,286.40,"Resident Care - Level 8 for Mar: Ehlinger, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,05910090,,03/01/2012,3078.92,"Invoice-Private",,03/01/2012,03/10/2012,,05913255MO,-1092.5200,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2635,2635,"CR:Basic Service F... H.Ehlinger 201203: Ehlinger, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,443.92,443.92,"CR:Resident Care -... H.Ehlinger 201203: Ehlinger, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,736.0000,
+INVOICE,IN,,02810240,,01/20/2013,192.0000,"Invoice-Private",,01/20/2013,01/20/2013,,02815614MO,-1248.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,6,32.0000,192.00,"Basic Service Fee - Second Resident for Jan: Bennett, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02810240,,01/20/2013,544,"Invoice-Private",,01/20/2013,01/20/2013,,02815614MO,-1248.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,544,544,"CR:Basic Service F... D.Bennett 201301: Bennett, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,9611.0000,
+INVOICE,IN,,15110146,,05/22/2012,4368.0000,"Invoice-Private",,05/22/2012,05/22/2012,,15113990MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,26,102.0000,2652.00,"Basic Service Fee - One Bedroom for May: Pauls, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,26,66.0000,1716.00,"Swan Personal Care - L5 for May: Pauls, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,15110146,,05/22/2012,5243,"Invoice-Private",,05/22/2012,05/22/2012,,15113990MO,-5950.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,3162,3162,"CR:Basic Service F... R.Pauls 201205: Pauls, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... R.Pauls 201205: Pauls, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,2046,2046,"CR:Swan Personal C... R.Pauls 201205: Pauls, Robert",,,,,,,,,,,,,,,

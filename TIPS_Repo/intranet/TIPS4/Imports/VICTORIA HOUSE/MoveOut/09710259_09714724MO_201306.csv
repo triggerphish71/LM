@@ -1,0 +1,6 @@
+BATCH,,201306,B,5922.0000,
+INVOICE,IN,,09710259,,06/01/2013,1221.0000,"Invoice-Private",,06/01/2013,06/10/2013,,09714724MO,-5755.2000,,,,,,,,,,
+TRANSACTION,3027,010103097,1,1221.0000,1221.00,"CR:Resident Care L... M.Cardwell 201306: Cardwell, Mary V",,,,,,,,,,,,,,,
+INVOICE,CM,,09710259,,06/01/2013,4701,"Invoice-Private",,06/01/2013,06/10/2013,,09714724MO,-5755.2000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,3480,3480,"CR:Basic Service F... M.Cardwell 201306: Cardwell, Mary V",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,1221,1221,"CR:Resident Care -... M.Cardwell 201306: Cardwell, Mary V",,,,,,,,,,,,,,,

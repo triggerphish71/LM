@@ -1,0 +1,5 @@
+BATCH,,201112,B,1922.0000,
+INVOICE,IN,,10210189,,12/01/2011,961.0000,"Invoice-Private",,12/01/2011,12/10/2011,,10214805MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,31,31.0000,961.00,"Credit for Limited Term Discount: Funk, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,10210189,,12/01/2011,961,"Invoice-Private",,12/01/2011,12/10/2011,,10214805MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,31,31,961,"Limited Term Discount: Funk, Walter",,,,,,,,,,,,,,,

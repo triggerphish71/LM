@@ -1,0 +1,5 @@
+BATCH,,201202,B,70.0000,
+INVOICE,IN,,12110282,,02/01/2012,35.0000,"Invoice-Private",,02/01/2012,02/10/2012,,12115463MO,-4325.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Rakes, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,12110282,,02/01/2012,35,"Invoice-Private",,02/01/2012,02/10/2012,,12115463MO,-4325.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Rakes, Elizabeth",,,,,,,,,,,,,,,

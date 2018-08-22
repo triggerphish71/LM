@@ -1,0 +1,7 @@
+BATCH,,201110,B,1868.0000,
+INVOICE,IN,,10610130,,10/01/2011,934.0000,"Invoice-Private",,10/01/2011,10/10/2011,,10612300MO,-845.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35.00,"Monthly Cable: Anderson, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309106,31,29.0000,899.00,"Credit for Limited Term Discount: Anderson, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,10610130,,10/01/2011,934,"Invoice-Private",,10/01/2011,10/10/2011,,10612300MO,-845.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"Credit for Monthly Cable: Anderson, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309106,31,29,899,"Limited Term Discount: Anderson, Keith",,,,,,,,,,,,,,,

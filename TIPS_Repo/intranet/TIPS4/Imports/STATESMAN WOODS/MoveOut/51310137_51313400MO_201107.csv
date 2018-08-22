@@ -1,0 +1,7 @@
+BATCH,,201107,B,5808.0000,
+INVOICE,IN,,51310137,,07/02/2011,352.0000,"Invoice-Private",,07/02/2011,07/02/2011,,51313400MO,-5104.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,2,113.0000,226.00,"Basic Service Fee - Studio Deluxe for Jul: Jones, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,2,63.0000,126.00,"Resident Care - Level 5 for Jul: Jones, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,51310137,,07/02/2011,5456,"Invoice-Private",,07/02/2011,07/02/2011,,51313400MO,-5104.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3503,3503,"CR:Basic Service F... M.Jones 201107: Jones, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1953,1953,"CR:Resident Care -... M.Jones 201107: Jones, Margaret",,,,,,,,,,,,,,,

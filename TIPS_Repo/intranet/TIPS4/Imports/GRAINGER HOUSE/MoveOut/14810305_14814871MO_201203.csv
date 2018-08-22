@@ -1,0 +1,7 @@
+BATCH,,201203,B,4544.0000,
+INVOICE,IN,,14810305,,03/01/2012,142.0000,"Invoice-Private",,03/01/2012,03/01/2012,,14814871MO,-4260.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,91.0000,91.00,"Basic Service Fee - Studio for Mar: Banichar, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,51.0000,51.00,"Resident Care - Level 3 for Mar: Banichar, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,14810305,,03/01/2012,4402,"Invoice-Private",,03/01/2012,03/01/2012,,14814871MO,-4260.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2821,2821,"CR:Basic Service F... R.Banichar 201203: Banichar, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1581,1581,"CR:Resident Care -... R.Banichar 201203: Banichar, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,3951.5000,
+INVOICE,IN,,13710225,,05/01/2012,356.5000,"Invoice-Private",,05/01/2012,05/10/2012,,13714427MO,-3613.5000,,,,,,,,,,
+TRANSACTION,3317,010309137,1,356.5000,356.50,"CR:HealthCare Syne... P.Scher 201205: Scher, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,13710225,,05/01/2012,3595,"Invoice-Private",,05/01/2012,05/10/2012,,13714427MO,-3613.5000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,3565,3565,"CR:Basic Service F... P.Scher 201205: Scher, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... P.Scher 201205: Scher, Patricia",,,,,,,,,,,,,,,

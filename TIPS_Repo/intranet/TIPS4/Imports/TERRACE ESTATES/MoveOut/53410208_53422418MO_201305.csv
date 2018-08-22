@@ -1,0 +1,6 @@
+BATCH,,201305,B,3864.0000,
+INVOICE,IN,,53410208,,05/23/2013,1633.0000,"Invoice-Private",,05/23/2013,05/23/2013,,53422418MO,-3208.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,23,71.0000,1633.00,"Room and Board - Studio for May: Lamb, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,53410208,,05/23/2013,2231,"Invoice-Private",,05/23/2013,05/23/2013,,53422418MO,-3208.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Lamb 201305: Lamb, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2201,2201,"CR:Room and Board ... J.Lamb 201305: Lamb, Janet",,,,,,,,,,,,,,,

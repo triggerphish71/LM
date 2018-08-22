@@ -1,0 +1,7 @@
+BATCH,,201307,B,3402.0000,
+INVOICE,IN,,05810248,,07/06/2013,891.0000,"Invoice-Private",,07/06/2013,07/06/2013,,05814402MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,11,65.0000,715.00,"Basic Service Fee - Studio for Jul: Morrow, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,11,16.0000,176.00,"Resident Care - Level 1 for Jul: Morrow, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,05810248,,07/06/2013,2511,"Invoice-Private",,07/06/2013,07/06/2013,,05814402MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2015,2015,"CR:Basic Service F... W.Morrow 201307: Morrow, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,496,496,"CR:Resident Care -... W.Morrow 201307: Morrow, Wayne",,,,,,,,,,,,,,,

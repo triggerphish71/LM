@@ -1,0 +1,6 @@
+BATCH,,201301,B,4241.0000,
+INVOICE,IN,,50210219,,01/04/2013,4241.0000,"MoveIn-Wininger. Janet",,01/04/2013,01/04/2013,,50213768,4241.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,28,83.0000,2324,"Basic Service Fee - Studio: Wininger. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,28,14.0000,392,"Resident Care - Level 1: Wininger. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Wininger. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Wininger. Janet",,,,,,,,,,,,,,,

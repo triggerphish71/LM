@@ -1,0 +1,5 @@
+BATCH,,201209,B,54.0000,
+INVOICE,IN,,03610280,,09/01/2012,27.0000,"Invoice-Private",,09/01/2012,09/10/2012,,03615209MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Costolow, Mary Jo",,,,,,,,,,,,,,,
+INVOICE,CM,,03610280,,09/01/2012,27,"Invoice-Private",,09/01/2012,09/10/2012,,03615209MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Costolow, Mary Jo",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201209,B,4705.0000,
+INVOICE,IN,,18910316,,09/01/2012,4705.0000,"September_Rent-Lutz. John",,09/01/2012,09/10/2012,,18915415,7322.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,30,89.0000,2670,"Basic Service Fee - Studio: Lutz. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,30,57.0000,1710,"Resident Care - Level 4: Lutz. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Lutz. John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300,"CC Meals: Lutz. John",,,,,,,,,,,,,,,

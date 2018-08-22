@@ -1,0 +1,7 @@
+BATCH,,201110,B,3985.2000,
+INVOICE,IN,,01010165,,10/05/2011,553.5000,"Invoice-Private",,10/05/2011,10/05/2011,,01012739MO,-2878.2000,,,,,,,,,,
+TRANSACTION,3020,010101010,5,75.0000,375.00,"Basic Service Fee - Studio for Oct: Gibson, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,5,35.7000,178.50,"Resident Care - Level 21 for Oct: Gibson, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,01010165,,10/05/2011,3431.7,"Invoice-Private",,10/05/2011,10/05/2011,,01012739MO,-2878.2000,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2325,2325,"CR:Basic Service F... C.Gibson 201110: Gibson, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,1106.7,1106.7,"CR:Resident Care -... C.Gibson 201110: Gibson, Clara",,,,,,,,,,,,,,,

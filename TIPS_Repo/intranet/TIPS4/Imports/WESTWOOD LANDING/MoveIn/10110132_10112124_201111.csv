@@ -1,0 +1,5 @@
+BATCH,,201111,B,4680.0000,
+INVOICE,IN,,10110132,,11/01/2011,4680.0000,"MoveIn-Dye. Franklin",,11/01/2011,11/01/2011,,10112124,4680.0000,,,,,,,,,,
+TRANSACTION,3010,010305101,30,91.0000,2730,"F.Dye: Basic Service Fee - Studio: Dye. Franklin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305101,30,15.0000,450,"F.Dye: Resident Care - Level 1: Dye. Franklin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305101,1,1500.0000,1500,"New Resident Fee: Dye. Franklin",,,,,,,,,,,,,,,

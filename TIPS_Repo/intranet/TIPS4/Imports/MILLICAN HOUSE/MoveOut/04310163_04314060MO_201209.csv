@@ -1,0 +1,6 @@
+BATCH,,201209,B,6690.0000,
+INVOICE,IN,,04310163,,09/01/2012,1140.0000,"Invoice-Private",,09/01/2012,09/10/2012,,04314060MO,-9824.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,1,1140.0000,1140.00,"CR:Limited Term Di... G.Sines 201209: Sines, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,04310163,,09/01/2012,5550,"Invoice-Private",,09/01/2012,09/10/2012,,04314060MO,-9824.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2940,2940,"CR:Basic Service F... G.Sines 201209: Sines, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,2610,2610,"CR:Resident Care -... G.Sines 201209: Sines, Gertrude",,,,,,,,,,,,,,,

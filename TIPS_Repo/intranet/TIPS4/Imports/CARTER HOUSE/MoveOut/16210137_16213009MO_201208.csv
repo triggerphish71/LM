@@ -1,0 +1,8 @@
+BATCH,,201208,B,4693.0000,
+INVOICE,IN,,16210137,,08/01/2012,477.0000,"Invoice-Private",,08/01/2012,08/01/2012,,16213009MO,-3739.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,341.0000,341.00,"CR:Limited Term Di... J.Andersen 201208: Andersen, Jens",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,1,66.0000,66.00,"Basic Service Fee - Studio for Aug: Andersen, Jens",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,70.0000,70.00,"Resident Care - Level 5 for Aug: Andersen, Jens",,,,,,,,,,,,,,,
+INVOICE,CM,,16210137,,08/01/2012,4216,"Invoice-Private",,08/01/2012,08/01/2012,,16213009MO,-3739.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2046,2046,"CR:Basic Service F... J.Andersen 201208: Andersen, Jens",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,2170,2170,"CR:Resident Care -... J.Andersen 201208: Andersen, Jens",,,,,,,,,,,,,,,

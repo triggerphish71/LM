@@ -1,0 +1,5 @@
+BATCH,,201107,B,3254.0000,
+INVOICE,IN,,13710215,,07/01/2011,3254.0000,"July_Rent-Streit. Walter",,07/01/2011,07/10/2011,,13713964,6552.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,31,86.0000,2666,"Basic Service Fee - Studio         : Streit. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,31,18.0000,558,"Resident Care - Level 1: Streit. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Streit. Walter",,,,,,,,,,,,,,,

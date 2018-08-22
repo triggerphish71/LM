@@ -1,0 +1,8 @@
+BATCH,,201307,B,4561.0000,
+INVOICE,IN,,02310236,,07/01/2013,1188.0000,"Invoice-Private",,07/01/2013,07/10/2013,,02315340MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,11,55.0000,605.00,"Basic Service Fee - Studio for Jul: Goodman, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,11,53.0000,583.00,"Resident Care - Level 4 for Jul: Goodman, William",,,,,,,,,,,,,,,
+INVOICE,CM,,02310236,,07/01/2013,3373,"Invoice-Private",,07/01/2013,07/10/2013,,02315340MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,1705,1705,"CR:Basic Service F... W.Goodman 201307: Goodman, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... W.Goodman 201307: Goodman, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,1643,1643,"CR:Resident Care -... W.Goodman 201307: Goodman, William",,,,,,,,,,,,,,,

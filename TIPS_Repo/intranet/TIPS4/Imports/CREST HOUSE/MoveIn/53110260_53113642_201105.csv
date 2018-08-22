@@ -1,0 +1,5 @@
+BATCH,,201105,B,3190.0000,
+INVOICE,IN,,53110260,,05/25/2011,3190.0000,"MoveIn-Derr. Rita",,05/25/2011,05/25/2011,,53113642,8290.0000,,,,,,,,,,
+TRANSACTION,3010,010319531,7,117.0000,819,"Basic Service Fee - One Bedroom: Derr. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,7,53.0000,371,"Resident Care - Level 4: Derr. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,2000.0000,2000,"New Resident Fee: Derr. Rita",,,,,,,,,,,,,,,

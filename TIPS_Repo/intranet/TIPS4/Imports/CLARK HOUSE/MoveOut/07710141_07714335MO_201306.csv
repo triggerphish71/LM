@@ -1,0 +1,6 @@
+BATCH,,201306,B,3315.0000,
+INVOICE,IN,,07710141,,06/17/2013,1190.0000,"Invoice-Private",,06/17/2013,06/17/2013,,07714335MO,-3130.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,17,70.0000,1190.00,"Basic Service Fee - Studio for Jun: Roberts, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,07710141,,06/17/2013,2125,"Invoice-Private",,06/17/2013,06/17/2013,,07714335MO,-3130.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2100,2100,"CR:Basic Service F... D.Roberts 201306: Roberts, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... D.Roberts 201306: Roberts, Dorothy",,,,,,,,,,,,,,,

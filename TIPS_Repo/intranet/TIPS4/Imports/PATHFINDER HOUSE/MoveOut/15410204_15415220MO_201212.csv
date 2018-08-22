@@ -1,0 +1,7 @@
+BATCH,,201212,B,8586.0000,
+INVOICE,IN,,15410204,,12/23/2012,3657.0000,"Invoice-Private",,12/23/2012,12/23/2012,,15415220MO,-6201.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,23,75.0000,1725.00,"Basic Service Fee - Studio for Dec: Kolund, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,23,84.0000,1932.00,"Resident Care - Level 6 for Dec: Kolund, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15410204,,12/23/2012,4929,"Invoice-Private",,12/23/2012,12/23/2012,,15415220MO,-6201.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2325,2325,"CR:Basic Service F... M.Kolund 201212: Kolund, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,2604,2604,"CR:Resident Care -... M.Kolund 201212: Kolund, Mary",,,,,,,,,,,,,,,

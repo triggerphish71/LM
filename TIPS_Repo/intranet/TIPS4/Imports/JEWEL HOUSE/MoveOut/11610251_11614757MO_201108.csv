@@ -1,0 +1,7 @@
+BATCH,,201108,B,10148.0000,
+INVOICE,IN,,11610251,,08/28/2011,4816.0000,"Invoice-Private",,08/28/2011,08/28/2011,,11614757MO,-5676.0000,,,,,,,,,,
+TRANSACTION,3027,010309116,28,52.0000,1456.00,"Resident Care - Level 3 for Aug: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,28,120.0000,3360.00,"Room and Board - One Bedroom for Aug: Bircher, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,11610251,,08/28/2011,5332,"Invoice-Private",,08/28/2011,08/28/2011,,11614757MO,-5676.0000,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1612,1612,"CR:Resident Care -... P.Bircher 201108: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3720,3720,"CR:Room and Board ... P.Bircher 201108: Bircher, Phyllis",,,,,,,,,,,,,,,

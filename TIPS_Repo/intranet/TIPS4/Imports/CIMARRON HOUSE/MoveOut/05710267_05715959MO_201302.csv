@@ -1,0 +1,6 @@
+BATCH,,201302,B,5870.0000,
+INVOICE,IN,,05710267,,02/23/2013,2678.0000,"Invoice-Private",,02/23/2013,02/23/2013,,05715959MO,-4017.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,1,56.0000,56.00,"CR:Limited Term Di... M.Miller 201302: Miller, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202057,23,114.0000,2622.00,"Basic Service Fee - One Bedroom for Feb: Miller, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,05710267,,02/23/2013,3192,"Invoice-Private",,02/23/2013,02/23/2013,,05715959MO,-4017.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3192,3192,"CR:Basic Service F... M.Miller 201302: Miller, Marion",,,,,,,,,,,,,,,

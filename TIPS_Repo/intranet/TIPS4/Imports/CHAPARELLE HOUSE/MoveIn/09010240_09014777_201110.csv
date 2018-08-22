@@ -1,0 +1,6 @@
+BATCH,,201110,B,3897.0000,
+INVOICE,IN,,09010240,,10/14/2011,3897.0000,"MoveIn-Ransom. Donald",,10/14/2011,10/14/2011,,09014777,3897.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,18,89.0000,1602,"Basic Service Fee - Studio         : Ransom. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,18,15.0000,270,"Resident Care - Level 1: Ransom. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: Ransom. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104090,1,2000.0000,2000,"New Resident Fee: Ransom. Donald",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,3346.2000,
+INVOICE,IN,,00310176,,06/01/2012,3346.2000,"June_Rent-Johnson. Elsie",,06/01/2012,06/10/2012,,00314253,4705.1200,,,,,,,,,,
+TRANSACTION,3010,010101003,30,82.0000,2460,"Basic Service Fee - Studio: Johnson. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101003,30,28.6400,859.2,"Resident Care - Level 16: Johnson. Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Johnson. Elsie",,,,,,,,,,,,,,,

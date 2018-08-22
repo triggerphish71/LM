@@ -1,0 +1,7 @@
+BATCH,,201307,B,3657.5000,
+INVOICE,IN,,00710222,,07/01/2013,418.0000,"Invoice-Private",,07/01/2013,07/10/2013,,00713731MO,-2821.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,4,86.0000,344.00,"Basic Service Fee - One Bedroom for Jul: Endresen, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,4,18.5000,74.00,"Resident Care - Level 10 for Jul: Endresen, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,00710222,,07/01/2013,3239.5,"Invoice-Private",,07/01/2013,07/10/2013,,00713731MO,-2821.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2666,2666,"CR:Basic Service F... L.Endresen 201307: Endresen, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,573.5,573.5,"CR:Resident Care -... L.Endresen 201307: Endresen, Lois",,,,,,,,,,,,,,,

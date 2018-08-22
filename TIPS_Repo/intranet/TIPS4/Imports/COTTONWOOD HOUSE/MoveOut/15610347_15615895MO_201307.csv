@@ -1,0 +1,8 @@
+BATCH,,201307,B,4651.6000,
+INVOICE,IN,,15610347,,07/30/2013,1718.4000,"Invoice-Private",,07/30/2013,07/30/2013,,15615895MO,-7873.6000,,,,,,,,,,
+TRANSACTION,3020,010211156,8,96.0000,768.00,"Basic Service Fee - Deluxe for Jul: Larson, Twila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,8,118.8000,950.40,"Resident Care Level Change for Jul: Larson, Twila",,,,,,,,,,,,,,,
+INVOICE,CM,,15610347,,07/30/2013,2933.2,"Invoice-Private",,07/30/2013,07/30/2013,,15615895MO,-7873.6000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,864,864,"CR:Basic Service F... T.Larson 201307: Larson, Twila",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,1000,1000,"CR:New Resident Fe... T.Larson 201307: Larson, Twila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,1069.2,1069.2,"CR:Resident Care L... T.Larson 201307: Larson, Twila",,,,,,,,,,,,,,,

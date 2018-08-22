@@ -1,0 +1,5 @@
+BATCH,,201111,B,3930.0000,
+INVOICE,CM,,20210118,,11/01/2011,3930,"Invoice-Private",,11/01/2011,11/10/2011,,20212400MO,-4051.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1230,1230,"CR:Resident Care -... S.Tyner 201111: Tyner, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,300,300,"CR:Service level: ... S.Tyner 201111: Tyner, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2400,2400,"CR:Studio... S.Tyner 201111: Tyner, Samuel",,,,,,,,,,,,,,,

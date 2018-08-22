@@ -1,0 +1,7 @@
+BATCH,,201107,B,4416.0000,
+INVOICE,IN,,17510229,,07/01/2011,1440.0000,"Invoice-Private",,07/01/2011,07/10/2011,,17517107MO,-1536.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,15,73.0000,1095.00,"Basic Service Fee - Studio Deluxe for Jul: Plummer, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,15,23.0000,345.00,"Resident Care - Level 2 for Jul: Plummer, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,17510229,,07/01/2011,2976,"Invoice-Private",,07/01/2011,07/10/2011,,17517107MO,-1536.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2263,2263,"CR:Basic Service F... T.Plummer 201107: Plummer, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,713,713,"CR:Resident Care -... T.Plummer 201107: Plummer, Tom",,,,,,,,,,,,,,,

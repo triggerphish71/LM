@@ -1,0 +1,8 @@
+BATCH,,201302,B,5501.0000,
+INVOICE,IN,,53010211,,02/01/2013,1681.0000,"Invoice-Private",,02/01/2013,02/10/2013,,53016682MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,56.0000,56.00,"CR:Limited Term Di... B.Mugan 201302: Mugan, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,13,125.0000,1625.00,"One Bedroom Premium with Patio for Feb: Mugan, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,53010211,,02/01/2013,3820,"Invoice-Private",,02/01/2013,02/10/2013,,53016682MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3299,010319530,1,280,280,"CR:Base Charge... B.Mugan 201302: Mugan, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Mugan 201302: Mugan, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3500,3500,"CR:One Bedroom Pre... B.Mugan 201302: Mugan, Bernice",,,,,,,,,,,,,,,

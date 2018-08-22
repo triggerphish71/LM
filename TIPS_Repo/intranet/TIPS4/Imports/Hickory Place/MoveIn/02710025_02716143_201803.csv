@@ -1,0 +1,6 @@
+BATCH,,201803,B,5327.9700,
+INVOICE,IN,,02710025,,03/01/2018,5327.9700,"MoveIn-Smith. Janie",,03/01/2018,03/01/2018,,02716143,5327.9700,,,,,,,,,,
+TRANSACTION,3010,010002027,31,85.0000,2635,"Basic Service Fee - Studio: Smith. Janie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,2000.0000,2000,"Community Fee: Smith. Janie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002027,1,26.3000,26.3,"Monthly Cable: Smith. Janie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,666.6700,666.67,"Monthly Deferral Charge: Smith. Janie",,,,,,,,,,,,,,,

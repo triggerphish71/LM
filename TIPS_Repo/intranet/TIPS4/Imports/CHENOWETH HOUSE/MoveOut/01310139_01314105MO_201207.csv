@@ -1,0 +1,5 @@
+BATCH,,201207,B,669.6000,
+INVOICE,IN,,01310139,,07/01/2012,334.8000,"Invoice-Private",,07/01/2012,07/10/2012,,01314105MO,-1836.0000,,,,,,,,,,
+TRANSACTION,3316,010103013,31,10.8000,334.80,"Credit for Employee Discount: Madden, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,01310139,,07/01/2012,334.8,"Invoice-Private",,07/01/2012,07/10/2012,,01314105MO,-1836.0000,,,,,,,,,,
+TRANSACTION,3316,010103013,31,10.8,334.8,"Employee Discount: Madden, Robert",,,,,,,,,,,,,,,

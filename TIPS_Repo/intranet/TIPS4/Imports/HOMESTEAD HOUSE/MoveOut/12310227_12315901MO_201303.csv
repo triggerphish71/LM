@@ -1,0 +1,7 @@
+BATCH,,201303,B,7905.0000,
+INVOICE,IN,,12310227,,03/01/2013,3100.0000,"Invoice-Private",,03/01/2013,03/01/2013,,12315901MO,-6355.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,20,103.0000,2060.00,"Basic Service Fee - Studio for Mar: Pethoud, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,20,52.0000,1040.00,"Resident Care - Level 3 for Mar: Pethoud, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,12310227,,03/01/2013,4805,"Invoice-Private",,03/01/2013,03/01/2013,,12315901MO,-6355.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... V.Pethoud 201303: Pethoud, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... V.Pethoud 201303: Pethoud, Virgil",,,,,,,,,,,,,,,

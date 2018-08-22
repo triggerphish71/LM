@@ -1,0 +1,5 @@
+BATCH,,201106,B,2101.0000,
+INVOICE,IN,,09710208,,06/30/2011,2101.0000,"MoveIn-Renner. Tina",,06/30/2011,06/30/2011,,09714157,5232.0000,,,,,,,,,,
+TRANSACTION,3010,010103097,1,84.0000,84,"Basic Service Fee - Studio         : Renner. Tina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103097,1,17.0000,17,"Resident Care - Level 10: Renner. Tina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103097,1,2000.0000,2000,"New Resident Fee: Renner. Tina",,,,,,,,,,,,,,,

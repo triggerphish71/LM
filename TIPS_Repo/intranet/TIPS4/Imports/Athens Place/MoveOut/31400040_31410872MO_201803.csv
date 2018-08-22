@@ -1,0 +1,7 @@
+BATCH,,201803,B,5076.0000,
+INVOICE,IN,,31400040,,03/16/2018,1728.0000,"Invoice-Private",,03/16/2018,03/16/2018,,31410872MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3027,070025314,16,26.0000,416.00,"Resident Care - Level 2  for Mar: Brackett, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025314,16,82.0000,1312.00,"Studio  for Mar: Brackett, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,31400040,,03/16/2018,3348,"Invoice-Private",,03/16/2018,03/16/2018,,31410872MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3027,070025314,1,806,806,"CR:Resident Care -... F.Brackett 201803: Brackett, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025314,1,2542,2542,"CR:Studio... F.Brackett 201803: Brackett, Frances",,,,,,,,,,,,,,,

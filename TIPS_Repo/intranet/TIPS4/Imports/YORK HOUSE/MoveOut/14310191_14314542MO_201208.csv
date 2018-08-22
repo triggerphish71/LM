@@ -1,0 +1,6 @@
+BATCH,,201208,B,3233.0000,
+INVOICE,IN,,14310191,,08/05/2012,656.0000,"Invoice-Private",,08/05/2012,08/05/2012,,14314542MO,-1921.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,8,82.0000,656.00,"Basic Service Fee - Studio for Aug: Isenbarger, Clive",,,,,,,,,,,,,,,
+INVOICE,CM,,14310191,,08/05/2012,2577,"Invoice-Private",,08/05/2012,08/05/2012,,14314542MO,-1921.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... C.Isenbarger 201208: Isenbarger, Clive",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... C.Isenbarger 201208: Isenbarger, Clive",,,,,,,,,,,,,,,

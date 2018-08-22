@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,02310149,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02314983MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,30,2.0000,60.00,"Credit for Limited Term Discount: Allen, Corrine",,,,,,,,,,,,,,,
+INVOICE,CM,,02310149,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,02314983MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,30,2,60,"Limited Term Discount: Allen, Corrine",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201307,B,5142.0000,
+INVOICE,IN,,04510242,,07/23/2013,2232.0000,"Invoice-Private",,07/23/2013,07/23/2013,,04514674MO,-3588.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,24,77.0000,1848.00,"Basic Service Fee - Studio for Jul: Burt, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,24,16.0000,384.00,"Resident Care - Level 1 for Jul: Burt, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,04510242,,07/23/2013,2910,"Invoice-Private",,07/23/2013,07/23/2013,,04514674MO,-3588.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2387,2387,"CR:Basic Service F... R.Burt 201307: Burt, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... R.Burt 201307: Burt, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... R.Burt 201307: Burt, Rita",,,,,,,,,,,,,,,

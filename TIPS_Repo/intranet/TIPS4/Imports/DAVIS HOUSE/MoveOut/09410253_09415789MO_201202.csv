@@ -1,0 +1,7 @@
+BATCH,,201202,B,5440.0000,
+INVOICE,IN,,09410253,,02/03/2012,510.0000,"Invoice-Private",,02/03/2012,02/03/2012,,09415789MO,-4420.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,3,98.0000,294.00,"Basic Service Fee - Studio for Feb: Grenn, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,3,72.0000,216.00,"Resident Care - Level 5 for Feb: Grenn, Ron",,,,,,,,,,,,,,,
+INVOICE,CM,,09410253,,02/03/2012,4930,"Invoice-Private",,02/03/2012,02/03/2012,,09415789MO,-4420.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2842,2842,"CR:Basic Service F... R.Grenn 201202: Grenn, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2088,2088,"CR:Resident Care -... R.Grenn 201202: Grenn, Ron",,,,,,,,,,,,,,,

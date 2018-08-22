@@ -1,0 +1,6 @@
+BATCH,,201207,B,2975.0000,
+INVOICE,IN,,52610246,,07/01/2012,341.0000,"Invoice-Private",,07/01/2012,07/10/2012,,52616973MO,-3218.7400,,,,,,,,,,
+TRANSACTION,3320,010319526,1,341.0000,341.00,"CR:Limited Term Di... D.Cutler 201207: Cutler, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,52610246,,07/01/2012,2634,"Invoice-Private",,07/01/2012,07/10/2012,,52616973MO,-3218.7400,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2604,2604,"CR:Basic Service F... D.Cutler 201207: Cutler, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"CR:Garage Rental... D.Cutler 201207: Cutler, Donald",,,,,,,,,,,,,,,

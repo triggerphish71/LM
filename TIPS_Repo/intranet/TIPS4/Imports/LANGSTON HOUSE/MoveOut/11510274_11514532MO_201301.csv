@@ -1,0 +1,7 @@
+BATCH,,201301,B,1048.0000,
+INVOICE,IN,,11510274,,01/01/2013,524.0000,"Invoice-Private",,01/01/2013,01/10/2013,,11514532MO,-1578.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Deal, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,31,16.0000,496.00,"Credit for Limited Term Discount: Deal, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,11510274,,01/01/2013,524,"Invoice-Private",,01/01/2013,01/10/2013,,11514532MO,-1578.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Deal, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,31,16,496,"Limited Term Discount: Deal, Eunice",,,,,,,,,,,,,,,

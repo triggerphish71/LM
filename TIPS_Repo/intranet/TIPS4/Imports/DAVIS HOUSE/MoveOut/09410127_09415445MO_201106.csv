@@ -1,0 +1,7 @@
+BATCH,,201106,B,7182.1000,
+INVOICE,IN,,09410127,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,09415445MO,-10611.2000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,60.0000,60.00,"CR:Limited Term Di... R.Douglass 201106: Douglass, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,09410127,,06/01/2011,7122.1,"Invoice-Private",,06/01/2011,06/10/2011,,09415445MO,-10611.2000,,,,,,,,,,
+TRANSACTION,3019,010107094,1,1212.1,1212.1,"CR:Additional Serv... R.Douglass 201106: Douglass, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3360,3360,"CR:Basic Service F... R.Douglass 201106: Douglass, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2550,2550,"CR:Resident Care -... R.Douglass 201106: Douglass, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201303,B,3652.0000,
+INVOICE,CM,,50210162,,03/01/2013,3652,"Invoice-Private",,03/01/2013,03/10/2013,,50213870MO,-3652.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2449,2449,"CR:Basic Service F... R.Griffith 201303: Griffith, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... R.Griffith 201303: Griffith, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,434,434,"CR:Resident Care -... R.Griffith 201303: Griffith, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,744,744,"CR:Resident Care L... R.Griffith 201303: Griffith, Richard",,,,,,,,,,,,,,,

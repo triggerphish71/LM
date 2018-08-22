@@ -1,0 +1,5 @@
+BATCH,,201210,B,1178.0000,
+INVOICE,IN,,12810230,,10/01/2012,589.0000,"Invoice-Private",,10/01/2012,10/10/2012,,12815003MO,-1382.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,31,19.0000,589.00,"Credit for Limited Term Discount: Schwartz, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,12810230,,10/01/2012,589,"Invoice-Private",,10/01/2012,10/10/2012,,12815003MO,-1382.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,31,19,589,"Limited Term Discount: Schwartz, Norman",,,,,,,,,,,,,,,

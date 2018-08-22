@@ -1,0 +1,7 @@
+BATCH,,201302,B,1348.0000,
+INVOICE,IN,,14010203,,02/01/2013,674.0000,"Invoice-Private",,02/01/2013,02/10/2013,,14014131MO,-3054.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30.00,"Monthly Cable: Haynes, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309140,28,23.0000,644.00,"Credit for Limited Term Discount: Haynes, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,14010203,,02/01/2013,674,"Invoice-Private",,02/01/2013,02/10/2013,,14014131MO,-3054.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"Credit for Monthly Cable: Haynes, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309140,28,23,644,"Limited Term Discount: Haynes, Barbara",,,,,,,,,,,,,,,

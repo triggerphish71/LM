@@ -1,0 +1,8 @@
+BATCH,,201106,B,4868.0000,
+INVOICE,IN,,53410387,,06/29/2011,2378.0000,"Invoice-Private",,06/29/2011,06/29/2011,,53419368MO,-2654.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,29,29.0000,841.00,"Basic Service Fee - Second Resident for Jun: Christus, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,29,53.0000,1537.00,"Resident Care - Level 2 for Jun: Christus, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,53410387,,06/29/2011,2490,"Invoice-Private",,06/29/2011,06/29/2011,,53419368MO,-2654.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,870,870,"CR:Basic Service F... V.Christus 201106: Christus, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... V.Christus 201106: Christus, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1590,1590,"CR:Resident Care -... V.Christus 201106: Christus, Virginia",,,,,,,,,,,,,,,

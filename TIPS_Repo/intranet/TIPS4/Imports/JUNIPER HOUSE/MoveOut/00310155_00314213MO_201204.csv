@@ -1,0 +1,5 @@
+BATCH,,201204,B,3883.2000,
+INVOICE,CM,,00310155,,04/01/2012,3883.2,"Invoice-Private",,04/01/2012,04/10/2012,,00314213MO,-3883.2000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2460,2460,"CR:Basic Service F... R.Collins 201204: Collins, Robert ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... R.Collins 201204: Collins, Robert ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,1396.2,1396.2,"CR:Resident Care -... R.Collins 201204: Collins, Robert ",,,,,,,,,,,,,,,

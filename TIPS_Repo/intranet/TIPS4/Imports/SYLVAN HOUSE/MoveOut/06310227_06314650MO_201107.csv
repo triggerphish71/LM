@@ -1,0 +1,7 @@
+BATCH,,201107,B,9348.0000,
+INVOICE,IN,,06310227,,07/26/2011,4264.0000,"Invoice-Private",,07/26/2011,07/26/2011,,06314650MO,-5929.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,26,105.0000,2730.00,"Basic Service Fee - One Bedroom for Jul: Cheavacci, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,26,59.0000,1534.00,"Resident Care - Level 4 for Jul: Cheavacci, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,06310227,,07/26/2011,5084,"Invoice-Private",,07/26/2011,07/26/2011,,06314650MO,-5929.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,3255,3255,"CR:Basic Service F... M.Cheavacci 201107: Cheavacci, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,1829,1829,"CR:Resident Care -... M.Cheavacci 201107: Cheavacci, Marjorie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,4384.0000,
+INVOICE,IN,,11810189,,04/02/2012,274.0000,"Invoice-Private",,04/02/2012,04/02/2012,,11815270MO,-3836.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,2,100.0000,200.00,"Basic Service Fee - Studio for Apr: Tilghman, Ken",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,2,37.0000,74.00,"Resident Care - Level 2 for Apr: Tilghman, Ken",,,,,,,,,,,,,,,
+INVOICE,CM,,11810189,,04/02/2012,4110,"Invoice-Private",,04/02/2012,04/02/2012,,11815270MO,-3836.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3000,3000,"CR:Basic Service F... K.Tilghman 201204: Tilghman, Ken",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1110,1110,"CR:Resident Care -... K.Tilghman 201204: Tilghman, Ken",,,,,,,,,,,,,,,

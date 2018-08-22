@@ -1,0 +1,6 @@
+BATCH,,201209,B,3360.0000,
+INVOICE,IN,,16410258,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16416209MO,-4058.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,1,60.0000,60.00,"CR:Limited Term Di... B.Stewart 201209: Stewart, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,16410258,,09/01/2012,3300,"Invoice-Private",,09/01/2012,09/10/2012,,16416209MO,-4058.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2850,2850,"CR:Basic Service F... B.Stewart 201209: Stewart, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,450,450,"CR:Resident Care -... B.Stewart 201209: Stewart, Betty",,,,,,,,,,,,,,,

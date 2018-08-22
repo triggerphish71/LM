@@ -1,0 +1,6 @@
+BATCH,,201302,B,3563.0000,
+INVOICE,IN,,14110216,,01/31/2013,567.0000,"MoveIn-Cade. Leona",,01/31/2013,01/31/2013,,14113877,3563.0000,,,,,,,,,,
+TRANSACTION,3014,010309141,1,107.0000,107,"Basic Service Fee - One Bedroom: Cade. Leona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309141,1,460.0000,460,"New Resident Fee: Cade. Leona",,,,,,,,,,,,,,,
+INVOICE,IN,,14110216,,02/01/2013,2996.0000,"February_Rent-Cade. Leona",,02/01/2013,02/10/2013,,14113877,3563.0000,,,,,,,,,,
+TRANSACTION,3010,010309141,28,107.0000,2996,"Basic Service Fee - One Bedroom: Cade. Leona",,,,,,,,,,,,,,,

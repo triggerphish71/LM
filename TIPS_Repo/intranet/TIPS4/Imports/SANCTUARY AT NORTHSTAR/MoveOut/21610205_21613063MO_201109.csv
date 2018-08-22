@@ -1,0 +1,7 @@
+BATCH,,201109,B,6594.0000,
+INVOICE,IN,,21610205,,09/11/2011,1884.0000,"Invoice-Private",,09/11/2011,09/11/2011,,21613063MO,-2826.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,12,31.0000,372.00,"Resident Care - Level 3 for Sep: Hudgins, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,12,126.0000,1512.00,"Two Bedroom for Sep: Hudgins, Curtis",,,,,,,,,,,,,,,
+INVOICE,CM,,21610205,,09/11/2011,4710,"Invoice-Private",,09/11/2011,09/11/2011,,21613063MO,-2826.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,930,930,"CR:Resident Care -... C.Hudgins 201109: Hudgins, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3780,3780,"CR:Two Bedroom... C.Hudgins 201109: Hudgins, Curtis",,,,,,,,,,,,,,,

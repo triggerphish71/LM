@@ -1,0 +1,7 @@
+BATCH,,201107,B,4312.7000,
+INVOICE,IN,,01310154,,07/02/2011,2121.0000,"Invoice-Private",,07/02/2011,07/02/2011,,01313925MO,-2262.4000,,,,,,,,,,
+TRANSACTION,3027,010103013,30,1.7000,51.00,"Resident Care - Level 1 for Jul: Hall, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,30,69.0000,2070.00,"Room and Board - Studio for Jul: Hall, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,01310154,,07/02/2011,2191.7,"Invoice-Private",,07/02/2011,07/02/2011,,01313925MO,-2262.4000,,,,,,,,,,
+TRANSACTION,3027,010103013,1,52.7,52.7,"CR:Resident Care -... S.Hall 201107: Hall, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2139,2139,"CR:Room and Board ... S.Hall 201107: Hall, Stanley",,,,,,,,,,,,,,,

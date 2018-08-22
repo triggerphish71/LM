@@ -1,0 +1,8 @@
+BATCH,,201108,B,4491.0000,
+INVOICE,IN,,14510278,,08/05/2011,620.0000,"Invoice-Private",,08/05/2011,08/05/2011,,14515066MO,-3251.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,5,95.0000,475.00,"Basic Service Fee - Studio for Aug: Davis, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,5,29.0000,145.00,"Resident Care - Level 2 for Aug: Davis, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14510278,,08/05/2011,3871,"Invoice-Private",,08/05/2011,08/05/2011,,14515066MO,-3251.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2945,2945,"CR:Basic Service F... B.Davis 201108: Davis, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... B.Davis 201108: Davis, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,899,899,"CR:Resident Care -... B.Davis 201108: Davis, Betty",,,,,,,,,,,,,,,

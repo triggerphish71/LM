@@ -1,0 +1,6 @@
+BATCH,,201201,B,3782.0000,
+INVOICE,IN,,53010007,,01/06/2012,1230.0000,"Invoice-Private",,01/06/2012,01/06/2012,,53015819MO,-3710.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,15,82.0000,1230.00,"Basic Service Fee - Studio for Jan: Strycharske, Loraine",,,,,,,,,,,,,,,
+INVOICE,CM,,53010007,,01/06/2012,2552,"Invoice-Private",,01/06/2012,01/06/2012,,53015819MO,-3710.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,2542,2542,"CR:Basic Service F... L.Strycharske 201201: Strycharske, Loraine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,10,10,"CR:Pendant Fee... L.Strycharske 201201: Strycharske, Loraine",,,,,,,,,,,,,,,

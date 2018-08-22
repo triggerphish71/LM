@@ -1,0 +1,5 @@
+BATCH,,201201,B,1798.0000,
+INVOICE,IN,,04110199,,01/01/2012,899.0000,"Invoice-Private",,01/01/2012,01/10/2012,,04114173MO,-716.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,31,29.0000,899.00,"Credit for Limited Term Discount: Cooper, Leah",,,,,,,,,,,,,,,
+INVOICE,CM,,04110199,,01/01/2012,899,"Invoice-Private",,01/01/2012,01/10/2012,,04114173MO,-716.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,31,29,899,"Limited Term Discount: Cooper, Leah",,,,,,,,,,,,,,,

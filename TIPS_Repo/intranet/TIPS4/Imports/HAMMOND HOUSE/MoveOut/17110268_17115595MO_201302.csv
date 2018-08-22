@@ -1,0 +1,7 @@
+BATCH,,201302,B,4087.0000,
+INVOICE,IN,,17110268,,02/01/2013,952.0000,"Invoice-Private",,02/01/2013,02/10/2013,,17115595MO,-2183.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,952.0000,952.00,"CR:Limited Term Di... O.Reed 201302: Reed, Orvie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110268,,02/01/2013,3135,"Invoice-Private",,02/01/2013,02/10/2013,,17115595MO,-2183.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2632,2632,"CR:Basic Service F... O.Reed 201302: Reed, Orvie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... O.Reed 201302: Reed, Orvie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,476,476,"CR:Resident Care -... O.Reed 201302: Reed, Orvie",,,,,,,,,,,,,,,

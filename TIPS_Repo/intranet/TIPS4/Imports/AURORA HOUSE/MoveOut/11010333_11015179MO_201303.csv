@@ -1,0 +1,7 @@
+BATCH,,201303,B,6160.0000,
+INVOICE,IN,,11010333,,03/25/2013,2750.0000,"Invoice-Private",,03/25/2013,03/25/2013,,11015179MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,25,70.0000,1750.00,"Basic Service Fee - Studio for Mar: Swanson, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,25,40.0000,1000.00,"Resident Care - Level 3 for Mar: Swanson, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,11010333,,03/25/2013,3410,"Invoice-Private",,03/25/2013,03/25/2013,,11015179MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2170,2170,"CR:Basic Service F... E.Swanson 201303: Swanson, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,1240,1240,"CR:Resident Care -... E.Swanson 201303: Swanson, Earl",,,,,,,,,,,,,,,

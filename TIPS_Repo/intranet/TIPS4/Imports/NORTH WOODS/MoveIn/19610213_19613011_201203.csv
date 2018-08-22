@@ -1,0 +1,8 @@
+BATCH,,201203,B,2329.0000,
+INVOICE,IN,,19610213,,03/30/2012,2329.0000,"MoveIn-Sellers. Mary",,03/30/2012,03/30/2012,,19613011,6774.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,2,104.0000,208,"Basic Service Fee - One Bedroom: Sellers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,2,23.0000,46,"Resident Care - Level 2: Sellers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Sellers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,2,10.0000,20,"CC Meals: Sellers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,2000.0000,2000,"New Tenant Fee: Sellers. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3250,010315196,2,10.0000,20,"Meals: Sellers. Mary",,,,,,,,,,,,,,,

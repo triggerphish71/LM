@@ -1,0 +1,7 @@
+BATCH,,201108,B,5474.0000,
+INVOICE,IN,,21610078,,08/15/2011,1785.0000,"Invoice-Private",,08/15/2011,08/15/2011,,21612998MO,-1904.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,15,83.0000,1245.00,"Companion Two Bedroom for Aug: VanHemert, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,15,36.0000,540.00,"Resident Care - Level 7A for Aug: VanHemert, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,21610078,,08/15/2011,3689,"Invoice-Private",,08/15/2011,08/15/2011,,21612998MO,-1904.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2573,2573,"CR:Companion Two B... J.VanHemert 201108: VanHemert, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1116,1116,"CR:Resident Care -... J.VanHemert 201108: VanHemert, Joan",,,,,,,,,,,,,,,

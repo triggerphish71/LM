@@ -1,0 +1,6 @@
+BATCH,,201211,B,5670.9000,
+INVOICE,IN,,08710134,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,08714287MO,-5550.9000,,,,,,,,,,
+TRANSACTION,3320,010103087,1,60.0000,60.00,"CR:Limited Term Di... E.Treese 201211: Treese, Ellie",,,,,,,,,,,,,,,
+INVOICE,CM,,08710134,,11/01/2012,5610.9,"Invoice-Private",,11/01/2012,11/10/2012,,08714287MO,-5550.9000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2550,2550,"CR:Basic Service F... E.Treese 201211: Treese, Ellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,3060.9,3060.9,"CR:Resident Care -... E.Treese 201211: Treese, Ellie",,,,,,,,,,,,,,,

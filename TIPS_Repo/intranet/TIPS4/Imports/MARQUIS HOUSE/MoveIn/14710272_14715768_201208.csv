@@ -1,0 +1,6 @@
+BATCH,,201208,B,7295.0000,
+INVOICE,IN,,14710272,,08/01/2012,7295.0000,"MoveIn-Gerome. Henry",,08/01/2012,08/01/2012,,14715768,7295.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,31,102.0000,3162,"Basic Service Fee - Studio: Gerome. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310147,31,61.0000,1891,"Resident Care - Level 4: Gerome. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: Gerome. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310147,1,2200.0000,2200,"New Resident Fee: Gerome. Henry",,,,,,,,,,,,,,,

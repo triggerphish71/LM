@@ -1,0 +1,7 @@
+BATCH,,201108,B,1027.8000,
+INVOICE,IN,,17610251,,08/01/2011,513.9000,"Invoice-Private",,08/01/2011,08/10/2011,,17613986MO,-2225.1000,,,,,,,,,,
+TRANSACTION,3241,010315176,30,10.0000,300.00,"HSG Meals: Clark, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315176,31,6.9000,213.90,"Credit for Two Room Rental Discount: Clark, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,17610251,,08/01/2011,513.9,"Invoice-Private",,08/01/2011,08/10/2011,,17613986MO,-2225.1000,,,,,,,,,,
+TRANSACTION,3241,010315176,30,10,300,"Credit for HSG Meals: Clark, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315176,31,6.9,213.9,"Two Room Rental Discount: Clark, Tom",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201302,B,1780.0000,
+INVOICE,IN,,04410280,,02/14/2013,1780.0000,"MoveIn-Zink. Dorothea",,02/14/2013,02/14/2013,,04414966,5432.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,15,101.0000,1515,"Basic Service Fee - One Bedroom: Zink. Dorothea",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,15,16.0000,240,"Resident Care - Level 1: Zink. Dorothea",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Zink. Dorothea",,,,,,,,,,,,,,,

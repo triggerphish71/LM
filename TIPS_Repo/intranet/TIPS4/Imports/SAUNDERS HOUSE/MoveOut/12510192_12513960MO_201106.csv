@@ -1,0 +1,7 @@
+BATCH,,201106,B,5600.0000,
+INVOICE,IN,,12510192,,06/26/2011,2600.0000,"Invoice-Private",,06/26/2011,06/26/2011,,12513960MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,26,82.0000,2132.00,"Basic Service Fee - Deluxe for Jun: Thomas, Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,26,18.0000,468.00,"Resident Care - Level 1 for Jun: Thomas, Marlene",,,,,,,,,,,,,,,
+INVOICE,CM,,12510192,,06/26/2011,3000,"Invoice-Private",,06/26/2011,06/26/2011,,12513960MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2460,2460,"CR:Basic Service F... M.Thomas 201106: Thomas, Marlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,540,540,"CR:Resident Care -... M.Thomas 201106: Thomas, Marlene",,,,,,,,,,,,,,,

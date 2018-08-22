@@ -1,0 +1,8 @@
+BATCH,,201205,B,7850.0000,
+INVOICE,IN,,04110209,,05/01/2012,3758.0000,"Invoice-Private",,05/01/2012,05/10/2012,,04114403MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,62.0000,62.00,"CR:Limited Term Di... L.Beckwith 201205: Beckwith, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,28,82.0000,2296.00,"Basic Service Fee - Studio for May: Beckwith, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,28,50.0000,1400.00,"Resident Care - Level 4 for May: Beckwith, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,04110209,,05/01/2012,4092,"Invoice-Private",,05/01/2012,05/10/2012,,04114403MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... L.Beckwith 201205: Beckwith, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,1550,1550,"CR:Resident Care -... L.Beckwith 201205: Beckwith, Linda",,,,,,,,,,,,,,,

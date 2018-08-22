@@ -1,0 +1,7 @@
+BATCH,,201801,B,6577.7700,
+INVOICE,IN,,13310431,,01/01/2018,2635.0000,"Invoice-Private",,01/01/2018,01/10/2018,,13318597MO,-492.5400,,,,,,,,,,
+TRANSACTION,3027,010010133,1,2635.0000,2635.00,"CR:Resident Care L... M.Zager 201801: Zager, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,13310431,,01/01/2018,3942.77,"Invoice-Private",,01/01/2018,01/10/2018,,13318597MO,-492.5400,,,,,,,,,,
+TRANSACTION,3020,010010133,1,1271,1271,"CR:Basic Service F... M.Zager 201801: Zager, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010133,1,36.77,36.77,"CR:Monthly Cable... M.Zager 201801: Zager, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010133,1,2635,2635,"CR:Resident Care -... M.Zager 201801: Zager, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,5961.0000,
+INVOICE,IN,,00810237,,09/19/2011,2527.0000,"Invoice-Private",,09/19/2011,09/19/2011,,00814462MO,-5030.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,19,80.0000,1520.00,"M.Brown: Basic Service Fee - Studio for Sep: Brown, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,19,53.0000,1007.00,"Service level: lvl 0 to lvl 4 - 9/12/11 for Sep: Brown, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,00810237,,09/19/2011,3434,"Invoice-Private",,09/19/2011,09/19/2011,,00814462MO,-5030.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2400,2400,"CR:M.Brown: Basic ... M.Brown 201109: Brown, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... M.Brown 201109: Brown, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,1007,1007,"CR:Service level: ... M.Brown 201109: Brown, Marvin",,,,,,,,,,,,,,,

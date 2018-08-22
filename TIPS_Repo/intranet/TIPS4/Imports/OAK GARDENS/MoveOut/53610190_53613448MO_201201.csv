@@ -1,0 +1,8 @@
+BATCH,,201201,B,7929.0000,
+INVOICE,IN,,53610190,,01/21/2012,3192.0000,"Invoice-Private",,01/21/2012,01/21/2012,,53613448MO,-5953.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,21,98.0000,2058.00,"Basic Service Fee - Studio for Jan: Webber, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,21,54.0000,1134.00,"Resident Care - Level 4 for Jan: Webber, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,53610190,,01/21/2012,4737,"Invoice-Private",,01/21/2012,01/21/2012,,53613448MO,-5953.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3038,3038,"CR:Basic Service F... I.Webber 201201: Webber, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"CR:Pendant Fee... I.Webber 201201: Webber, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,1674,1674,"CR:Resident Care -... I.Webber 201201: Webber, Irene",,,,,,,,,,,,,,,

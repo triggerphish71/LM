@@ -1,0 +1,5 @@
+BATCH,,201108,B,3925.0000,
+INVOICE,IN,,07810237,,08/12/2011,3925.0000,"MoveIn-Petersen. Idella",,08/12/2011,08/12/2011,,07814318,3925.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,20,95.0000,1900,"Basic Service Fee - Deluxe: Petersen. Idella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Petersen. Idella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,2000.0000,2000,"New Resident Fee: Petersen. Idella",,,,,,,,,,,,,,,

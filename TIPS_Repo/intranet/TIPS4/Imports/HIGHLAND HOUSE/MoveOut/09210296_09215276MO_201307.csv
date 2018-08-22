@@ -1,0 +1,7 @@
+BATCH,,201307,B,4704.0000,
+INVOICE,IN,,09210296,,07/01/2013,1728.0000,"Invoice-Private",,07/01/2013,07/10/2013,,09215276MO,-1248.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,18,80.0000,1440.00,"Basic Service Fee - One Bedroom for Jul: Manson, Majorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,18,16.0000,288.00,"Resident Care - Level 1 for Jul: Manson, Majorie",,,,,,,,,,,,,,,
+INVOICE,CM,,09210296,,07/01/2013,2976,"Invoice-Private",,07/01/2013,07/10/2013,,09215276MO,-1248.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2480,2480,"CR:Basic Service F... M.Manson 201307: Manson, Majorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,496,496,"CR:Resident Care -... M.Manson 201307: Manson, Majorie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,6885.0000,
+INVOICE,IN,,08410162,,04/15/2013,2295.0000,"Invoice-Private",,04/15/2013,04/15/2013,,08414108MO,-7038.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,15,57.0000,855.00,"Basic Service Fee - Deluxe for Apr: Ziennker, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,15,96.0000,1440.00,"Resident Care - Level 6 for Apr: Ziennker, William",,,,,,,,,,,,,,,
+INVOICE,CM,,08410162,,04/15/2013,4590,"Invoice-Private",,04/15/2013,04/15/2013,,08414108MO,-7038.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,1710,1710,"CR:Basic Service F... W.Ziennker 201304: Ziennker, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,2880,2880,"CR:Resident Care -... W.Ziennker 201304: Ziennker, William",,,,,,,,,,,,,,,

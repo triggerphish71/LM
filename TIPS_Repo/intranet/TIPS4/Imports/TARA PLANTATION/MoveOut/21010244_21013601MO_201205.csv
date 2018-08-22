@@ -1,0 +1,8 @@
+BATCH,,201205,B,6285.0000,
+INVOICE,IN,,21010244,,05/01/2012,3030.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21013601MO,-225.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,930.0000,930.00,"CR:Limited Term Di... R.Holbrook 201205: Holbrook, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,20,11.0000,220.00,"Resident Care - Level 1 for May: Holbrook, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,20,94.0000,1880.00,"Studio for May: Holbrook, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,21010244,,05/01/2012,3255,"Invoice-Private",,05/01/2012,05/10/2012,,21013601MO,-225.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,341,341,"CR:Resident Care -... R.Holbrook 201205: Holbrook, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... R.Holbrook 201205: Holbrook, Robert",,,,,,,,,,,,,,,

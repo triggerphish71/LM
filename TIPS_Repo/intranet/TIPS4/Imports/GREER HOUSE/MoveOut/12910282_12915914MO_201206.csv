@@ -1,0 +1,8 @@
+BATCH,,201206,B,7554.0000,
+INVOICE,IN,,12910282,,06/01/2012,3564.0000,"Invoice-Private",,06/01/2012,06/10/2012,,12915914MO,-426.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,27,96.0000,2592.00,"Basic Service Fee - Studio for Jun: Natcher, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,27,36.0000,972.00,"Resident Care - Level 2 for Jun: Natcher, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,12910282,,06/01/2012,3990,"Invoice-Private",,06/01/2012,06/10/2012,,12915914MO,-426.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2880,2880,"CR:Basic Service F... B.Natcher 201206: Natcher, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... B.Natcher 201206: Natcher, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1080,1080,"CR:Resident Care -... B.Natcher 201206: Natcher, Betty",,,,,,,,,,,,,,,

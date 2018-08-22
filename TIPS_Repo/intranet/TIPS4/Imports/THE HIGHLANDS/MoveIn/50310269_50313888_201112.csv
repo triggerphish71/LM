@@ -1,0 +1,5 @@
+BATCH,,201112,B,2235.0000,
+INVOICE,IN,,50310269,,12/16/2011,2235.0000,"MoveIn-Jasper. Nina",,12/16/2011,12/16/2011,,50313888,2235.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,16,75.0000,1200,"Basic Service Fee - Studio: Jasper. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Jasper. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1000.0000,1000,"New Resident Fee: Jasper. Nina",,,,,,,,,,,,,,,

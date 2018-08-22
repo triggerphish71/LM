@@ -1,0 +1,7 @@
+BATCH,,201304,B,4565.5500,
+INVOICE,IN,,00110087,,04/03/2013,415.0500,"Invoice-Private",,04/03/2013,04/03/2013,,00113488MO,-3735.4500,,,,,,,,,,
+TRANSACTION,3020,010101001,3,81.0000,243.00,"Basic Service Fee - One Bedroom for Apr: Campbell, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,3,57.3500,172.05,"Resident Care Level Change for Apr: Campbell, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,00110087,,04/03/2013,4150.5,"Invoice-Private",,04/03/2013,04/03/2013,,00113488MO,-3735.4500,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2430,2430,"CR:Basic Service F... L.Campbell 201304: Campbell, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,1720.5,1720.5,"CR:Resident Care L... L.Campbell 201304: Campbell, Louise",,,,,,,,,,,,,,,

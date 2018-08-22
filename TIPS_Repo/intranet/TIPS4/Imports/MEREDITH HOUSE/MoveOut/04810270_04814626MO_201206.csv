@@ -1,0 +1,7 @@
+BATCH,,201206,B,5192.0000,
+INVOICE,IN,,04810270,,06/14/2012,1652.0000,"Invoice-Private",,06/14/2012,06/14/2012,,04814626MO,-5546.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,14,103.0000,1442.00,"Basic Service Fee - Studio for Jun: Bailey, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,14,15.0000,210.00,"Resident Care - Level 1 for Jun: Bailey, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,04810270,,06/14/2012,3540,"Invoice-Private",,06/14/2012,06/14/2012,,04814626MO,-5546.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... H.Bailey 201206: Bailey, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,450,450,"CR:Resident Care -... H.Bailey 201206: Bailey, Harvey",,,,,,,,,,,,,,,

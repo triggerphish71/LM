@@ -1,0 +1,5 @@
+BATCH,,201201,B,4024.3500,
+INVOICE,CM,,13910219,,01/01/2012,4024.35,"Invoice-Private",,01/01/2012,01/10/2012,,13916000MO,-4024.3500,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... N.Heilig 201201: Heilig, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... N.Heilig 201201: Heilig, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,832.35,832.35,"CR:Resident Care -... N.Heilig 201201: Heilig, Nina",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,9785.0000,
+INVOICE,IN,,12810167,,07/15/2011,4800.0000,"Invoice-Private",,07/15/2011,07/15/2011,,12814553MO,-5170.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,30,125.0000,3750.00,"Basic Service Fee - Deluxe for Jul: Sikos, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,30,35.0000,1050.00,"Swan Personal Care - L2 for Jul: Sikos, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,12810167,,07/15/2011,4985,"Invoice-Private",,07/15/2011,07/15/2011,,12814553MO,-5170.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3875,3875,"CR:Basic Service F... M.Sikos 201107: Sikos, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25,25,"CR:Monthly Cable... M.Sikos 201107: Sikos, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,1085,1085,"CR:Swan Personal C... M.Sikos 201107: Sikos, Marion",,,,,,,,,,,,,,,

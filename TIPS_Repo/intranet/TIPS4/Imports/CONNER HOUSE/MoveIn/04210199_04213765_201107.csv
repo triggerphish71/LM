@@ -1,0 +1,5 @@
+BATCH,,201107,B,1815.0000,
+INVOICE,IN,,04210199,,07/29/2011,1815.0000,"MoveIn-Williamson. Mary",,07/29/2011,07/29/2011,,04213765,4818.0000,,,,,,,,,,
+TRANSACTION,3010,010202042,3,96.0000,288,"Basic Service Fee - Studio         : Williamson. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27,"Monthly Cable: Williamson. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202042,1,1500.0000,1500,"New Resident Fee: Williamson. Mary",,,,,,,,,,,,,,,

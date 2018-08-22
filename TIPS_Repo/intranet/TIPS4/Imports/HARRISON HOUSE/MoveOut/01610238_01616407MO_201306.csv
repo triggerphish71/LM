@@ -1,0 +1,5 @@
+BATCH,,201306,B,4508.0000,
+INVOICE,IN,,01610238,,06/01/2013,1568.0000,"Invoice-Private",,06/01/2013,06/10/2013,,01616407MO,-4410.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,16,98.0000,1568.00,"Basic Service Fee - One Bedroom for Jun: Kirkman, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,01610238,,06/01/2013,2940,"Invoice-Private",,06/01/2013,06/10/2013,,01616407MO,-4410.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2940,2940,"CR:Basic Service F... M.Kirkman 201306: Kirkman, Mary",,,,,,,,,,,,,,,

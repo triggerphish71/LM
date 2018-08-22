@@ -1,0 +1,5 @@
+BATCH,,201203,B,1364.0000,
+INVOICE,IN,,02010247,,03/01/2012,682.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02014413MO,-5842.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,31,22.0000,682.00,"Credit for Limited Term Discount: Atchley, Alvin",,,,,,,,,,,,,,,
+INVOICE,CM,,02010247,,03/01/2012,682,"Invoice-Private",,03/01/2012,03/10/2012,,02014413MO,-5842.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,31,22,682,"Limited Term Discount: Atchley, Alvin",,,,,,,,,,,,,,,

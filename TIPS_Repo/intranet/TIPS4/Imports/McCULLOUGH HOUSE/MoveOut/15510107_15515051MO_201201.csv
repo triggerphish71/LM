@@ -1,0 +1,8 @@
+BATCH,,201201,B,5389.0000,
+INVOICE,IN,,15510107,,01/01/2012,745.0000,"Invoice-Private",,01/01/2012,01/10/2012,,15515051MO,-3899.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,5,117.0000,585.00,"Basic Service Fee - One Bedroom for Jan: Zimmerman, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,5,32.0000,160.00,"Resident Care - Level 2 for Jan: Zimmerman, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,15510107,,01/01/2012,4644,"Invoice-Private",,01/01/2012,01/10/2012,,15515051MO,-3899.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,3627,3627,"CR:Basic Service F... L.Zimmerman 201201: Zimmerman, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... L.Zimmerman 201201: Zimmerman, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,992,992,"CR:Resident Care -... L.Zimmerman 201201: Zimmerman, Louise",,,,,,,,,,,,,,,

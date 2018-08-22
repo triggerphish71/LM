@@ -1,0 +1,8 @@
+BATCH,,201205,B,6759.0000,
+INVOICE,IN,,03210264,,05/19/2012,3318.0000,"Invoice-Private",,05/19/2012,05/19/2012,,03214906MO,-2283.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,1209.0000,1209.00,"CR:Limited Term Di... L.Glover 201205: Glover, Laina",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,19,94.0000,1786.00,"Basic Service Fee - Studio for May: Glover, Laina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,19,17.0000,323.00,"Resident Care - Level 1 for May: Glover, Laina",,,,,,,,,,,,,,,
+INVOICE,CM,,03210264,,05/19/2012,3441,"Invoice-Private",,05/19/2012,05/19/2012,,03214906MO,-2283.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... L.Glover 201205: Glover, Laina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,527,527,"CR:Resident Care -... L.Glover 201205: Glover, Laina",,,,,,,,,,,,,,,

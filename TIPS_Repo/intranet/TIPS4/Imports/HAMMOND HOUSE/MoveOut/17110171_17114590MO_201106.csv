@@ -1,0 +1,7 @@
+BATCH,,201106,B,3687.0000,
+INVOICE,IN,,17110171,,06/01/2011,480.0000,"Invoice-Private",,06/01/2011,06/10/2011,,17114590MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,480.0000,480.00,"CR:Limited Term Di... I.Allen 201106: Allen, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,17110171,,06/01/2011,3207,"Invoice-Private",,06/01/2011,06/10/2011,,17114590MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2700,2700,"CR:Basic Service F... I.Allen 201106: Allen, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... I.Allen 201106: Allen, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,480,480,"CR:Resident Care -... I.Allen 201106: Allen, Irene",,,,,,,,,,,,,,,

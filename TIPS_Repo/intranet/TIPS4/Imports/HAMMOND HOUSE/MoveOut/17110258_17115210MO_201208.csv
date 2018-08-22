@@ -1,0 +1,7 @@
+BATCH,,201208,B,459.7800,
+INVOICE,IN,,17110258,,08/01/2012,229.8900,"Invoice-Private",,08/01/2012,08/10/2012,,17115210MO,-2941.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,31,2.0000,62.00,"Credit for Limited Term Discount: Ivey, Margie",,,,,,,,,,,,,,,
+TRANSACTION,1113,010308171,1,167.8900,167.89,"Monthly Deferral Charge: Ivey, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110258,,08/01/2012,229.89,"Invoice-Private",,08/01/2012,08/10/2012,,17115210MO,-2941.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,31,2,62,"Limited Term Discount: Ivey, Margie",,,,,,,,,,,,,,,
+TRANSACTION,1113,010308171,1,167.89,167.89,"Credit for Monthly Deferral Charge: Ivey, Margie",,,,,,,,,,,,,,,

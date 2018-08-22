@@ -1,0 +1,6 @@
+BATCH,,201109,B,3235.0000,
+INVOICE,IN,,04810260,,09/16/2011,3235.0000,"MoveIn-Hail. Edward",,09/16/2011,09/16/2011,,04814278,6794.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,15,99.0000,1485,"E.Hail: Basic Service Fee - Studio: Hail. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,15,15.0000,225,"E.Hail: Resident Care - Level 1: Hail. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25.0000,25,"Monthly Cable: Hail. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Hail. Edward",,,,,,,,,,,,,,,

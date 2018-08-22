@@ -1,0 +1,7 @@
+BATCH,,201307,B,3102.0000,
+INVOICE,IN,,03410245,,07/02/2013,188.0000,"Invoice-Private",,07/02/2013,07/02/2013,,03416210MO,-2726.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,2,71.0000,142.00,"Basic Service Fee - Studio for Jul: Vazquez, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,2,23.0000,46.00,"Resident Care - Level 2 for Jul: Vazquez, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,03410245,,07/02/2013,2914,"Invoice-Private",,07/02/2013,07/02/2013,,03416210MO,-2726.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2201,2201,"CR:Basic Service F... P.Vazquez 201307: Vazquez, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,713,713,"CR:Resident Care -... P.Vazquez 201307: Vazquez, Phyllis",,,,,,,,,,,,,,,

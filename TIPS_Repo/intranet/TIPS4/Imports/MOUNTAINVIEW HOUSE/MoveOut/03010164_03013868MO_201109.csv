@@ -1,0 +1,6 @@
+BATCH,,201109,B,6018.0000,
+INVOICE,IN,,03010164,,09/01/2011,630.0000,"Invoice-Private",,09/01/2011,09/10/2011,,03013868MO,-4758.0000,,,,,,,,,,
+TRANSACTION,3320,010103030,1,630.0000,630.00,"CR:Limited Term Di... G.Denson 201109: Denson, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,03010164,,09/01/2011,5388,"Invoice-Private",,09/01/2011,09/10/2011,,03013868MO,-4758.0000,,,,,,,,,,
+TRANSACTION,3027,010103030,1,2958,2958,"CR:Resident Care -... G.Denson 201109: Denson, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2430,2430,"CR:Room and Board ... G.Denson 201109: Denson, Gerald",,,,,,,,,,,,,,,

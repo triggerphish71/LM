@@ -1,0 +1,5 @@
+BATCH,,201112,B,434.0000,
+INVOICE,IN,,20410109,,12/01/2011,217.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20412639MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3010,010216204,31,7.0000,217.00,"Credit for Daily Discount: Moore, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,20410109,,12/01/2011,217,"Invoice-Private",,12/01/2011,12/10/2011,,20412639MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3010,010216204,31,7,217,"Daily Discount: Moore, Barbara",,,,,,,,,,,,,,,

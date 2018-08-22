@@ -1,0 +1,6 @@
+BATCH,,201202,B,4466.0000,
+INVOICE,IN,,21010047,,02/01/2012,261.0000,"Invoice-Private",,02/01/2012,02/10/2012,,21013424MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,261.0000,261.00,"CR:Limited Term Di... M.Merritt 201202: Merritt, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,21010047,,02/01/2012,4205,"Invoice-Private",,02/01/2012,02/10/2012,,21013424MO,-3944.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1479,1479,"CR:Resident Care -... M.Merritt 201202: Merritt, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2726,2726,"CR:Studio... M.Merritt 201202: Merritt, Margaret",,,,,,,,,,,,,,,

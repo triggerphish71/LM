@@ -1,0 +1,7 @@
+BATCH,,201106,B,3836.0000,
+INVOICE,IN,,11910202,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,11915205MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3320,010310119,1,60.0000,60.00,"CR:Limited Term Di... L.Miller 201106: Miller, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,11910202,,06/01/2011,3776,"Invoice-Private",,06/01/2011,06/10/2011,,11915205MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2670,2670,"CR:Basic Service F... L.Miller 201106: Miller, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... L.Miller 201106: Miller, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1080,1080,"CR:Resident Care -... L.Miller 201106: Miller, Lillian",,,,,,,,,,,,,,,

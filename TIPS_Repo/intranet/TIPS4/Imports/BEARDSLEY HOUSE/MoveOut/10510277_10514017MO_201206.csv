@@ -1,0 +1,8 @@
+BATCH,,201206,B,4938.0000,
+INVOICE,IN,,10510277,,06/01/2012,1668.0000,"Invoice-Private",,06/01/2012,06/10/2012,,10514017MO,-1602.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,660.0000,660.00,"CR:Limited Term Di... J.King 201206: King, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,4,87.0000,348.00,"Basic Service Fee - Studio for Jun: King, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309105,30,22.0000,660.00,"Credit for Limited Term Discount: King, Jeanette",,,,,,,,,,,,,,,
+INVOICE,CM,,10510277,,06/01/2012,3270,"Invoice-Private",,06/01/2012,06/10/2012,,10514017MO,-1602.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2610,2610,"CR:Basic Service F... J.King 201206: King, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309105,30,22,660,"Limited Term Discount: King, Jeanette",,,,,,,,,,,,,,,

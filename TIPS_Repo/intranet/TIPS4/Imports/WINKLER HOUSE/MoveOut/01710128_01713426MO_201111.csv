@@ -1,0 +1,7 @@
+BATCH,,201111,B,174.0000,
+INVOICE,IN,,01710128,,11/01/2011,87.0000,"Invoice-Private",,11/01/2011,11/10/2011,,01713426MO,-4677.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Pierce, Troy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202017,30,2.0000,60.00,"Credit for Limited Term Discount: Pierce, Troy",,,,,,,,,,,,,,,
+INVOICE,CM,,01710128,,11/01/2011,87,"Invoice-Private",,11/01/2011,11/10/2011,,01713426MO,-4677.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Pierce, Troy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202017,30,2,60,"Limited Term Discount: Pierce, Troy",,,,,,,,,,,,,,,

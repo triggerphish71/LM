@@ -1,0 +1,7 @@
+BATCH,,201112,B,4005.0000,
+INVOICE,IN,,20810224,,12/10/2011,1246.0000,"Invoice-Private",,12/10/2011,12/10/2011,,20812896MO,-1513.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,14,11.0000,154.00,"Resident Care - Level 1 for Dec: Pierce, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,14,78.0000,1092.00,"Room and Board - Studio for Dec: Pierce, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,20810224,,12/10/2011,2759,"Invoice-Private",,12/10/2011,12/10/2011,,20812896MO,-1513.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,341,341,"CR:Resident Care -... C.Pierce 201112: Pierce, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Room and Board ... C.Pierce 201112: Pierce, Clarence",,,,,,,,,,,,,,,

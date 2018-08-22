@@ -1,0 +1,5 @@
+BATCH,,201210,B,1703.0000,
+INVOICE,IN,,51710222,,10/26/2012,1703.0000,"MoveIn-Watkins. Alice",,10/26/2012,10/26/2012,,51713150,5118.0000,,,,,,,,,,
+TRANSACTION,3010,010103517,6,113.0000,678,"Basic Service Fee - One Bedroom: Watkins. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Watkins. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,1000.0000,1000,"New Resident Fee: Watkins. Alice",,,,,,,,,,,,,,,

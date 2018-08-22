@@ -1,0 +1,6 @@
+BATCH,,201109,B,2218.0000,
+INVOICE,IN,,12010228,,09/20/2011,2218.0000,"MoveIn-Wasson. James",,09/20/2011,09/20/2011,,12014093,5596.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,11,93.0000,1023,"Basic Service Fee - One Bedroom    : Wasson. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,11,15.0000,165,"Resident Care - Level 1: Wasson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Wasson. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Wasson. James",,,,,,,,,,,,,,,

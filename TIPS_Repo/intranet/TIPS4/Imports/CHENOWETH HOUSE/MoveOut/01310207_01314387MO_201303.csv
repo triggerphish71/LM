@@ -1,0 +1,6 @@
+BATCH,,201303,B,2878.0000,
+INVOICE,IN,,01310207,,03/26/2013,1300.0000,"Invoice-Private",,03/26/2013,03/26/2013,,01314387MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,26,50.0000,1300.00,"Room and Board - Studio for Mar: Jones, Scott",,,,,,,,,,,,,,,
+INVOICE,CM,,01310207,,03/26/2013,1578,"Invoice-Private",,03/26/2013,03/26/2013,,01314387MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... S.Jones 201303: Jones, Scott",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,1,1550,1550,"CR:Room and Board ... S.Jones 201303: Jones, Scott",,,,,,,,,,,,,,,

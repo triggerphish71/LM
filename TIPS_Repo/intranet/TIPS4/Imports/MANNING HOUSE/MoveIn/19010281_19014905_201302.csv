@@ -1,0 +1,5 @@
+BATCH,,201302,B,1125.0000,
+INVOICE,IN,,19010281,,02/28/2013,1125.0000,"MoveIn-Medford. JB",,02/28/2013,02/28/2013,,19014905,4190.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio: Medford. JB",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Medford. JB",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Medford. JB",,,,,,,,,,,,,,,

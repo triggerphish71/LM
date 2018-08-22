@@ -1,0 +1,5 @@
+BATCH,,201710,B,6631.0000,
+INVOICE,IN,,20210371,,01/13/2018,6631.0000,"MoveIn-Avery. Test",,01/13/2018,01/13/2018,,20214947,9481.0000,,,,,,,,,,
+TRANSACTION,3010,010016202,9,95.0000,855,"T.Avery: Studio: Avery. Test",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,2888.0000,2888,"Community Fee: Avery. Test",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,2888.0000,2888,"Monthly Deferral Charge: Avery. Test",,,,,,,,,,,,,,,

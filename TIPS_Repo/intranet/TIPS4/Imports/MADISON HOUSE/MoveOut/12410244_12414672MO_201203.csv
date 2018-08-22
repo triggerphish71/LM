@@ -1,0 +1,7 @@
+BATCH,,201203,B,572.2000,
+INVOICE,IN,,12410244,,03/01/2012,286.1000,"Invoice-Private",,03/01/2012,03/10/2012,,12414672MO,-1096.1000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Mastny, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3312,010211124,31,8.1000,251.10,"Credit for Two Room Rental Discount: Mastny, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,12410244,,03/01/2012,286.1,"Invoice-Private",,03/01/2012,03/10/2012,,12414672MO,-1096.1000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Mastny, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3312,010211124,31,8.1,251.1,"Two Room Rental Discount: Mastny, Betty",,,,,,,,,,,,,,,

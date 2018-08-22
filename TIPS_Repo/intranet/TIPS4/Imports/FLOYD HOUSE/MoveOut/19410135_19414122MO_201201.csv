@@ -1,0 +1,7 @@
+BATCH,,201201,B,1444.0000,
+INVOICE,IN,,19410135,,01/01/2012,722.0000,"Invoice-Private",,01/01/2012,01/10/2012,,19414122MO,-4875.4000,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40.00,"Monthly Cable: McCoy, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212194,31,22.0000,682.00,"Credit for Limited Term Discount: McCoy, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,19410135,,01/01/2012,722,"Invoice-Private",,01/01/2012,01/10/2012,,19414122MO,-4875.4000,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"Credit for Monthly Cable: McCoy, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212194,31,22,682,"Limited Term Discount: McCoy, Betty",,,,,,,,,,,,,,,

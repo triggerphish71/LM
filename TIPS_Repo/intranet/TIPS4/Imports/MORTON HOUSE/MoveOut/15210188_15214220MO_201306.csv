@@ -1,0 +1,5 @@
+BATCH,,201306,B,3976.0000,
+INVOICE,IN,,15210188,,06/26/2013,1846.0000,"Invoice-Private",,06/26/2013,06/26/2013,,15214220MO,-2485.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,26,71.0000,1846.00,"Basic Service Fee - Studio for Jun: Webb , Jeannette",,,,,,,,,,,,,,,
+INVOICE,CM,,15210188,,06/26/2013,2130,"Invoice-Private",,06/26/2013,06/26/2013,,15214220MO,-2485.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2130,2130,"CR:Basic Service F... J.Webb 201306: Webb , Jeannette",,,,,,,,,,,,,,,

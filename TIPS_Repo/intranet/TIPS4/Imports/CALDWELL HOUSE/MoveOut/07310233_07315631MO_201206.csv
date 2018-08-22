@@ -1,0 +1,7 @@
+BATCH,,201206,B,6191.0000,
+INVOICE,IN,,07310233,,06/27/2012,1940.0000,"Invoice-Private",,06/27/2012,06/27/2012,,07315631MO,-5318.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,20,97.0000,1940.00,"Basic Service Fee - Studio for Jun: Shuler, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,07310233,,06/27/2012,4251,"Invoice-Private",,06/27/2012,06/27/2012,,07315631MO,-5318.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2231,2231,"CR:Basic Service F... D.Shuler 201206: Shuler, Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... D.Shuler 201206: Shuler, Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000,2000,"CR:New Resident Fe... D.Shuler 201206: Shuler, Don",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,2037.3200,
+INVOICE,IN,,01310018,,12/04/2011,117.7000,"Invoice-Medicaid",,12/04/2011,12/04/2011,,01314024MO,-1801.9200,,,,,,,,,,
+TRANSACTION,3021,010103013,5,23.5400,117.70,"Medicaid Co-Pay for Dec: Wilde, Kevin",,,,,,,,,,,,,,,
+INVOICE,CM,,01310018,,12/04/2011,1919.62,"Invoice-Medicaid",,12/04/2011,12/04/2011,,01314024MO,-1801.9200,,,,,,,,,,
+TRANSACTION,3021,010103013,1,729.86,729.86,"CR:Medicaid Co-Pay... K.Wilde 201112: Wilde, Kevin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... K.Wilde 201112: Wilde, Kevin",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,1161.76,1161.76,"CR:State Medicaid... K.Wilde 201112: Wilde, Kevin",,,,,,,,,,,,,,,

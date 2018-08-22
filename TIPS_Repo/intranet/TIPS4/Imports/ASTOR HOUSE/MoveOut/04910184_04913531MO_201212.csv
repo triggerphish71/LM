@@ -1,0 +1,6 @@
+BATCH,,201212,B,3465.4900,
+INVOICE,IN,,04910184,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,04913531MO,-4928.3400,,,,,,,,,,
+TRANSACTION,3320,010101049,1,62.0000,62.00,"CR:Limited Term Di... A.Herman 201212: Herman, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,04910184,,12/01/2012,3403.49,"Invoice-Private",,12/01/2012,12/10/2012,,04913531MO,-4928.3400,,,,,,,,,,
+TRANSACTION,3020,010101049,1,3348,3348,"CR:Basic Service F... A.Herman 201212: Herman, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,55.49,55.49,"CR:Resident Care -... A.Herman 201212: Herman, Ann",,,,,,,,,,,,,,,

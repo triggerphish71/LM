@@ -1,0 +1,7 @@
+BATCH,,201301,B,5049.0000,
+INVOICE,IN,,17510290,,01/20/2013,1980.0000,"Invoice-Private",,01/20/2013,01/20/2013,,17517888MO,-3273.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,20,23.0000,460.00,"Resident Care - Level 2 for Jan: Fisher, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,20,76.0000,1520.00,"Room and Board - Studio Deluxe for Jan: Fisher, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17510290,,01/20/2013,3069,"Invoice-Private",,01/20/2013,01/20/2013,,17517888MO,-3273.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,1,713,713,"CR:Resident Care -... M.Fisher 201301: Fisher, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2356,2356,"CR:Room and Board ... M.Fisher 201301: Fisher, Mary",,,,,,,,,,,,,,,

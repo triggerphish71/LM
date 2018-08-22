@@ -1,0 +1,8 @@
+BATCH,,201201,B,6313.0000,
+INVOICE,IN,,50110246,,01/03/2012,1752.0000,"Invoice-Private",,01/03/2012,01/03/2012,,50113888MO,-2809.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,12,88.0000,1056.00,"Basic Service Fee - Studio for Jan: Brizius, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,12,58.0000,696.00,"Resident Care - Level 5 for Jan: Brizius, Garland",,,,,,,,,,,,,,,
+INVOICE,CM,,50110246,,01/03/2012,4561,"Invoice-Private",,01/03/2012,01/03/2012,,50113888MO,-2809.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... G.Brizius 201201: Brizius, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... G.Brizius 201201: Brizius, Garland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1798,1798,"CR:Resident Care -... G.Brizius 201201: Brizius, Garland",,,,,,,,,,,,,,,

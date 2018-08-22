@@ -1,0 +1,7 @@
+BATCH,,201205,B,4459.2000,
+INVOICE,IN,,03910227,,05/09/2012,1003.3200,"Invoice-Private",,05/09/2012,05/09/2012,,03914454MO,-2452.5600,,,,,,,,,,
+TRANSACTION,3020,010101039,9,90.0000,810.00,"Basic Service Fee - Studio for May: Simon, Beth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,9,21.4800,193.32,"Resident Care - Level 12 for May: Simon, Beth",,,,,,,,,,,,,,,
+INVOICE,CM,,03910227,,05/09/2012,3455.88,"Invoice-Private",,05/09/2012,05/09/2012,,03914454MO,-2452.5600,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... B.Simon 201205: Simon, Beth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,665.88,665.88,"CR:Resident Care -... B.Simon 201205: Simon, Beth",,,,,,,,,,,,,,,

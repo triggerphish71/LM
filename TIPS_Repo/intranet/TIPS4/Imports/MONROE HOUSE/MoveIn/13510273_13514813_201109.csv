@@ -1,0 +1,5 @@
+BATCH,,201109,B,3660.0000,
+INVOICE,IN,,13510273,,09/01/2011,3660.0000,"September_Rent-Wightman. Virginia",,09/01/2011,09/10/2011,,13514813,6279.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,30,105.0000,3150,"Basic Service Fee - One Bedroom    : Wightman. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309135,30,16.0000,480,"Resident Care - Level 1: Wightman. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Wightman. Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,1849.0000,
+INVOICE,IN,,10910270,,10/13/2012,1849.0000,"MoveIn-Diamond. Mary",,10/13/2012,10/13/2012,,10914935,1849.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,19,80.0000,1520,"Basic Service Fee - Studio         : Diamond. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,19,16.0000,304,"Resident Care - Level 1: Diamond. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Diamond. Mary",,,,,,,,,,,,,,,

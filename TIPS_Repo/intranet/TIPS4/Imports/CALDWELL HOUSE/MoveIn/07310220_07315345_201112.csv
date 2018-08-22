@@ -1,0 +1,5 @@
+BATCH,,201112,B,4577.0000,
+INVOICE,IN,,07310220,,12/01/2011,4577.0000,"December_Rent-Via. Walter",,12/01/2011,12/10/2011,,07315345,7773.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,31,97.0000,3007,"Basic Service Fee - Studio: Via. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,31,50.0000,1550,"Resident Care - Level 3: Via. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Via. Walter",,,,,,,,,,,,,,,

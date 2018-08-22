@@ -1,0 +1,7 @@
+BATCH,,201105,B,5382.0000,
+INVOICE,IN,,04510207,,05/01/2011,1755.0000,"Invoice-Private",,05/01/2011,05/10/2011,,04513532MO,-1872.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,15,73.0000,1095.00,"Basic Service Fee - Studio for May: Loomis, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,15,44.0000,660.00,"Resident Care - Level 3 for May: Loomis, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,04510207,,05/01/2011,3627,"Invoice-Private",,05/01/2011,05/10/2011,,04513532MO,-1872.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2263,2263,"CR:Basic Service F... D.Loomis 201105: Loomis, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,1364,1364,"CR:Resident Care -... D.Loomis 201105: Loomis, Donald",,,,,,,,,,,,,,,

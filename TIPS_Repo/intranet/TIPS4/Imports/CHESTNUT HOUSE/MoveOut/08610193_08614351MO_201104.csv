@@ -1,0 +1,8 @@
+BATCH,,201104,B,3740.0000,
+INVOICE,IN,,08610193,,04/24/2011,435.0000,"Invoice-Private",,04/24/2011,04/24/2011,,08614351MO,-7365.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,3,86.0000,258.00,"Basic Service Fee - Studio for Apr: Hill, Ennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,3,59.0000,177.00,"Resident Care - Level 4 for Apr: Hill, Ennis",,,,,,,,,,,,,,,
+INVOICE,CM,,08610193,,04/24/2011,3305,"Invoice-Private",,04/24/2011,04/24/2011,,08614351MO,-7365.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,774,774,"CR:Basic Service F... E.Hill 201104: Hill, Ennis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000,2000,"CR:New Resident Fe... E.Hill 201104: Hill, Ennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,531,531,"CR:Resident Care -... E.Hill 201104: Hill, Ennis",,,,,,,,,,,,,,,

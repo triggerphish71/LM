@@ -1,0 +1,6 @@
+BATCH,,201306,B,2307.0000,
+INVOICE,IN,,03110370,,06/21/2013,2307.0000,"MoveIn-Tate. Gerry",,06/21/2013,06/21/2013,,03117571,6302.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,10,99.0000,990,"Basic Service Fee - Studio: Tate. Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,10,29.0000,290,"Resident Care - Level 2: Tate. Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Tate. Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1000.0000,1000,"New Resident Fee: Tate. Gerry",,,,,,,,,,,,,,,

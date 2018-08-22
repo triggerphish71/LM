@@ -1,0 +1,5 @@
+BATCH,,201111,B,2490.0000,
+INVOICE,IN,,20810230,,11/22/2011,2490.0000,"MoveIn-Hall. Charles",,11/22/2011,11/22/2011,,20812879,5900.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,9,78.0000,702,"C.Hall: Studio: Hall. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216208,9,32.0000,288,"C.Hall: Resident Care - Level 3: Hall. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1500.0000,1500,"New Resident Fee: Hall. Charles",,,,,,,,,,,,,,,

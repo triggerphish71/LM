@@ -1,0 +1,4 @@
+BATCH,,201304,B,2520.0000,
+INVOICE,IN,,01110324,,04/11/2013,2520.0000,"MoveIn-Marcum. Cora",,04/11/2013,04/11/2013,,01114101,2520.0000,,,,,,,,,,
+TRANSACTION,3010,010101011,20,76.0000,1520,"Basic Service Fee - Studio: Marcum. Cora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Marcum. Cora",,,,,,,,,,,,,,,

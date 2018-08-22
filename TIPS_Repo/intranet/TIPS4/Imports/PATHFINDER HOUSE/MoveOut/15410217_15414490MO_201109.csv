@@ -1,0 +1,5 @@
+BATCH,,201109,B,70.0000,
+INVOICE,IN,,15410217,,09/01/2011,35.0000,"Invoice-Private",,09/01/2011,09/10/2011,,15414490MO,-2068.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Wilfing, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,15410217,,09/01/2011,35,"Invoice-Private",,09/01/2011,09/10/2011,,15414490MO,-2068.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Wilfing, Michael",,,,,,,,,,,,,,,

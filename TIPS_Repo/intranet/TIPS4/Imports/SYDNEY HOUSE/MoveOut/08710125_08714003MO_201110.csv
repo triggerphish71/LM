@@ -1,0 +1,5 @@
+BATCH,,201110,B,1655.4000,
+INVOICE,IN,,08710125,,10/01/2011,827.7000,"Invoice-Private",,10/01/2011,10/10/2011,,08714003MO,-1642.5000,,,,,,,,,,
+TRANSACTION,3320,010103087,31,26.7000,827.70,"Credit for Limited Term Discount: Parrish, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,08710125,,10/01/2011,827.7,"Invoice-Private",,10/01/2011,10/10/2011,,08714003MO,-1642.5000,,,,,,,,,,
+TRANSACTION,3320,010103087,31,26.7,827.7,"Limited Term Discount: Parrish, Ethel",,,,,,,,,,,,,,,

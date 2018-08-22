@@ -1,0 +1,8 @@
+BATCH,,201112,B,9125.0000,
+INVOICE,IN,,01910203,,12/19/2011,4196.0000,"Invoice-Private",,12/19/2011,12/19/2011,,01914703MO,-5786.0000,,,,,,,,,,
+TRANSACTION,3320,010202019,1,62.0000,62.00,"CR:Limited Term Di... F.Robison 201112: Robison, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202019,26,91.0000,2366.00,"Basic Service Fee - Studio for Dec: Robison, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,26,68.0000,1768.00,"Resident Care - Level 5 for Dec: Robison, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,01910203,,12/19/2011,4929,"Invoice-Private",,12/19/2011,12/19/2011,,01914703MO,-5786.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2821,2821,"CR:Basic Service F... F.Robison 201112: Robison, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,2108,2108,"CR:Resident Care -... F.Robison 201112: Robison, Frances",,,,,,,,,,,,,,,

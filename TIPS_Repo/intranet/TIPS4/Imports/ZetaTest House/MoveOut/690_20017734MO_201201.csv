@@ -1,0 +1,5 @@
+BATCH,,201201,B,2390.0000,
+INVOICE,CM,,690,,01/01/2012,2390,"Invoice-Private",,01/01/2012,01/10/2012,,20017734MO,-3215.0000,,,,,,,,,,
+TRANSACTION,3130,010001200,1,30,30,"CR:Pendant Fee... M.McTester 201201: McTester, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010001200,1,35,35,"CR:Pendant Fee... M.McTester 201201: McTester, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2325,2325,"CR:Room and Board ... M.McTester 201201: McTester, Mary",,,,,,,,,,,,,,,

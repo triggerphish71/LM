@@ -1,0 +1,5 @@
+BATCH,,201304,B,90.0000,
+INVOICE,IN,,15610326,,04/01/2013,45.0000,"Invoice-Private",,04/01/2013,04/10/2013,,15615643MO,-5191.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45.0000,45.00,"Pendant Fee: Saalfeld, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,15610326,,04/01/2013,45,"Invoice-Private",,04/01/2013,04/10/2013,,15615643MO,-5191.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"Credit for Pendant Fee: Saalfeld, Lorraine",,,,,,,,,,,,,,,

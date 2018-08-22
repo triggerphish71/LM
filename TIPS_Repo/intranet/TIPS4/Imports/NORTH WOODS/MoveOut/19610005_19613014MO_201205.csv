@@ -1,0 +1,7 @@
+BATCH,,201205,B,690.0000,
+INVOICE,IN,,19610005,,05/01/2012,345.0000,"Invoice-Private",,05/01/2012,05/10/2012,,19613014MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35.00,"Monthly Cable: Forman, Orissa",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10.0000,310.00,"CC Meals: Forman, Orissa",,,,,,,,,,,,,,,
+INVOICE,CM,,19610005,,05/01/2012,345,"Invoice-Private",,05/01/2012,05/10/2012,,19613014MO,-1105.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"Credit for Monthly Cable: Forman, Orissa",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10,310,"Credit for CC Meals: Forman, Orissa",,,,,,,,,,,,,,,

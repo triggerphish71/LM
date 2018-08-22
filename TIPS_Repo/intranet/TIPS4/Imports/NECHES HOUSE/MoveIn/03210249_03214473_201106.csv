@@ -1,0 +1,6 @@
+BATCH,,201106,B,5614.0000,
+INVOICE,IN,,03210249,,06/02/2011,5614.0000,"MoveIn-Morgan. Bobby",,06/02/2011,06/02/2011,,03214473,5614.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,29,109.0000,3161,"B.Morgan: Basic Service Fee - One Bedroom: Morgan. Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,29,32.0000,928,"B.Morgan: Resident Care - Level 2: Morgan. Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Morgan. Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Morgan. Bobby",,,,,,,,,,,,,,,

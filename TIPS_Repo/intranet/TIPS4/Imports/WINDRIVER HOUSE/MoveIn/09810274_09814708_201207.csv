@@ -1,0 +1,5 @@
+BATCH,,201207,B,4579.8800,
+INVOICE,IN,,09810274,,07/01/2012,4579.8800,"MoveIn-Pforsich. Bob",,07/01/2012,07/01/2012,,09814708,4579.8800,,,,,,,,,,
+TRANSACTION,3010,010103098,31,94.0000,2914,"Basic Service Fee - Studio: Pforsich. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,31,21.4800,665.88,"Resident Care - Level 12: Pforsich. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Pforsich. Bob",,,,,,,,,,,,,,,

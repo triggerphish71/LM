@@ -1,0 +1,6 @@
+BATCH,,201105,B,4080.0000,
+INVOICE,IN,,00810224,,05/09/2011,4080.0000,"MoveIn-Peters. Cecelia",,05/09/2011,05/09/2011,,00814273,4080.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,23,80.0000,1840,"Basic Service Fee - Studio         : Peters. Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,23,31.0000,713,"Resident Care - Level 2: Peters. Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Peters. Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Peters. Cecelia",,,,,,,,,,,,,,,

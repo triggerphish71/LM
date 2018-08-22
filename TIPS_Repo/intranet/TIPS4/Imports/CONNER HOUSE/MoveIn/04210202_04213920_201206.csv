@@ -1,0 +1,5 @@
+BATCH,,201206,B,3999.0000,
+INVOICE,IN,,04210202,,06/14/2012,3999.0000,"MoveIn-Posey. Ellis",,06/14/2012,06/14/2012,,04213920,3999.0000,,,,,,,,,,
+TRANSACTION,3010,010202042,17,114.0000,1938,"Basic Service Fee - One Bedroom: Posey. Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202042,17,33.0000,561,"Resident Care - Level 2: Posey. Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202042,1,1500.0000,1500,"New Resident Fee: Posey. Ellis",,,,,,,,,,,,,,,

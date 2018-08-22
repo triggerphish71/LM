@@ -1,0 +1,5 @@
+BATCH,,201203,B,2232.0000,
+INVOICE,IN,,08310183,,03/01/2012,1116.0000,"Invoice-Private",,03/01/2012,03/10/2012,,08314060MO,-4935.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,36.0000,1116.00,"Credit for Limited Term Discount: Dyer, Doreen",,,,,,,,,,,,,,,
+INVOICE,CM,,08310183,,03/01/2012,1116,"Invoice-Private",,03/01/2012,03/10/2012,,08314060MO,-4935.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,36,1116,"Limited Term Discount: Dyer, Doreen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,5794.2500,
+INVOICE,IN,,03910218,,01/01/2012,1617.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03914361MO,-2560.2500,,,,,,,,,,
+TRANSACTION,3020,010101039,12,90.0000,1080.00,"Basic Service Fee - Studio for Jan: Golceff, Boris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,12,44.7500,537.00,"Resident Care - Level 25 for Jan: Golceff, Boris",,,,,,,,,,,,,,,
+INVOICE,CM,,03910218,,01/01/2012,4177.25,"Invoice-Private",,01/01/2012,01/10/2012,,03914361MO,-2560.2500,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... B.Golceff 201201: Golceff, Boris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,1387.25,1387.25,"CR:Resident Care -... B.Golceff 201201: Golceff, Boris",,,,,,,,,,,,,,,

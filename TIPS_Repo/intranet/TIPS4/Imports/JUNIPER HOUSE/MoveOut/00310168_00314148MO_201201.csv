@@ -1,0 +1,8 @@
+BATCH,,201201,B,5095.8000,
+INVOICE,IN,,00310168,,01/01/2012,307.2000,"Invoice-Private",,01/01/2012,01/10/2012,,00314148MO,-4481.4000,,,,,,,,,,
+TRANSACTION,3020,010101003,2,82.0000,164.00,"Basic Service Fee - Studio for Jan: Wasson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,2,71.6000,143.20,"Resident Care - Level 40 for Jan: Wasson, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,00310168,,01/01/2012,4788.6,"Invoice-Private",,01/01/2012,01/10/2012,,00314148MO,-4481.4000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2542,2542,"CR:Basic Service F... P.Wasson 201201: Wasson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... P.Wasson 201201: Wasson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,2219.6,2219.6,"CR:Resident Care -... P.Wasson 201201: Wasson, Patricia",,,,,,,,,,,,,,,

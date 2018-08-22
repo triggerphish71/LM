@@ -1,0 +1,6 @@
+BATCH,,201205,B,4219.0000,
+INVOICE,IN,,19010242,,05/04/2012,4219.0000,"MoveIn-Hammond. Edna",,05/04/2012,05/04/2012,,19014483,4219.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,28,98.0000,2744,"Basic Service Fee - Studio: Hammond. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,28,16.0000,448,"Resident Care - Level 1: Hammond. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Hammond. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Hammond. Edna",,,,,,,,,,,,,,,

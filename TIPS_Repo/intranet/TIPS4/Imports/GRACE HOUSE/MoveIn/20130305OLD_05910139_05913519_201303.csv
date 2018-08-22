@@ -1,0 +1,7 @@
+BATCH,,201303,B,1518.4000,
+INVOICE,IN,,05910139,,02/23/2013,700.8000,"MoveIn-Leigh. Gladys",,02/23/2013,02/23/2013,,05913519,1518.4000,,,,,,,,,,
+TRANSACTION,3014,010101059,6,102.0000,612,"BSF  Studio Respite: Leigh. Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101059,6,14.8000,88.8,"Resident Care - Level 8: Leigh. Gladys",,,,,,,,,,,,,,,
+INVOICE,IN,,05910139,,03/01/2013,817.6000,"March_Rent-Leigh. Gladys",,03/01/2013,03/10/2013,,05913519,1518.4000,,,,,,,,,,
+TRANSACTION,3010,010101059,7,102.0000,714,"BSF  Studio Respite: Leigh. Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101059,7,14.8000,103.6,"Resident Care - Level 8: Leigh. Gladys",,,,,,,,,,,,,,,

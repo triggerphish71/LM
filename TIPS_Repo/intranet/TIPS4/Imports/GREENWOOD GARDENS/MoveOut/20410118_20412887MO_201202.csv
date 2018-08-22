@@ -1,0 +1,8 @@
+BATCH,,201202,B,8170.0000,
+INVOICE,IN,,20410118,,02/28/2012,4574.0000,"Invoice-Private",,02/28/2012,02/28/2012,,20412887MO,-1688.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,1102.0000,1102.00,"CR:Limited Term Di... M.Brune 201202: Brune, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,28,42.0000,1176.00,"Resident Care - Level 4 for Feb: Brune, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,28,82.0000,2296.00,"Studio for Feb: Brune, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,20410118,,02/28/2012,3596,"Invoice-Private",,02/28/2012,02/28/2012,,20412887MO,-1688.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1218,1218,"CR:Resident Care -... M.Brune 201202: Brune, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2378,2378,"CR:Studio... M.Brune 201202: Brune, Mildred",,,,,,,,,,,,,,,

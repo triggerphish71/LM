@@ -1,0 +1,5 @@
+BATCH,,201301,B,3577.0000,
+INVOICE,IN,,11110336,,01/16/2013,3577.0000,"MoveIn-Kauffmann. Gary",,01/16/2013,01/16/2013,,11115096,6318.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,16,97.0000,1552,"Basic Service Fee - Studio: Kauffmann. Gary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Kauffmann. Gary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Kauffmann. Gary",,,,,,,,,,,,,,,

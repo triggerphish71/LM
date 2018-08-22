@@ -1,0 +1,8 @@
+BATCH,,201212,B,9342.0000,
+INVOICE,IN,,08910180,,12/09/2012,2150.0000,"Invoice-Private",,12/09/2012,12/09/2012,,08915080MO,-5042.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,1,62.0000,62.00,"CR:Limited Term Di... R.Phillips 201212: Phillips, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,9,136.0000,1224.00,"Basic Service Fee - One Bedroom for Dec: Phillips, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,9,96.0000,864.00,"Resident Care - Level 6 for Dec: Phillips, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,08910180,,12/09/2012,7192,"Invoice-Private",,12/09/2012,12/09/2012,,08915080MO,-5042.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,4216,4216,"CR:Basic Service F... R.Phillips 201212: Phillips, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2976,2976,"CR:Resident Care -... R.Phillips 201212: Phillips, Robert",,,,,,,,,,,,,,,

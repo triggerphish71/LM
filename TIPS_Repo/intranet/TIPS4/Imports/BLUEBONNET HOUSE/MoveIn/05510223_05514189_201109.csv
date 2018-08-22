@@ -1,0 +1,6 @@
+BATCH,,201109,B,2855.0000,
+INVOICE,IN,,05510223,,09/23/2011,2855.0000,"MoveIn-Waggoner. Carroll",,09/23/2011,09/23/2011,,05514189,8028.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,8,92.0000,736,"Basic Service Fee - Studio         : Waggoner. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,8,74.0000,592,"Resident Care - Level 5: Waggoner. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Waggoner. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202055,1,1500.0000,1500,"New Resident Fee: Waggoner. Carroll",,,,,,,,,,,,,,,

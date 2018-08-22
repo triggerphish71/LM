@@ -1,0 +1,5 @@
+BATCH,,201208,B,1977.7800,
+INVOICE,IN,,10210212,,08/01/2012,197.7800,"August_Rent-Dix. Bessie",,08/01/2012,08/10/2012,,10214992,3414.7800,,,,,,,,,,
+TRANSACTION,3216,010306102,1,197.7800,197.78,"Monthly Deferral Charge: Dix. Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,10210212,,08/01/2012,1780.0000,"August_Rent-Dix. Bessie",,08/01/2012,08/10/2012,,10214992,3414.7800,,,,,,,,,,
+TRANSACTION,3216,010306102,1,1780,1780,"New Resident Fee Deferred: Dix. Bessie",,,,,,,,,,,,,,,

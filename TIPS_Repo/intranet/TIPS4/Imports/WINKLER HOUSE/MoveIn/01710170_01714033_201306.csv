@@ -1,0 +1,5 @@
+BATCH,,201306,B,3943.0000,
+INVOICE,IN,,01710170,,06/04/2013,3943.0000,"MoveIn-Denton. Webster",,06/04/2013,06/04/2013,,01714033,3943.0000,,,,,,,,,,
+TRANSACTION,3010,010202017,27,93.0000,2511,"Basic Service Fee - Studio: Denton. Webster",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202017,27,16.0000,432,"Resident Care - Level 1: Denton. Webster",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202017,1,1000.0000,1000,"New Resident Fee: Denton. Webster",,,,,,,,,,,,,,,

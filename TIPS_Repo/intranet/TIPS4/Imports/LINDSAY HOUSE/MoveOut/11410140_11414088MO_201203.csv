@@ -1,0 +1,7 @@
+BATCH,,201203,B,7392.0000,
+INVOICE,IN,,11410140,,03/17/2012,2618.0000,"Invoice-Private",,03/17/2012,03/17/2012,,11414088MO,-6776.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,17,135.0000,2295.00,"Basic Service Fee - One Bedroom for Mar: Ashfield, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,17,19.0000,323.00,"Swan Personal Care - L1 for Mar: Ashfield, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,11410140,,03/17/2012,4774,"Invoice-Private",,03/17/2012,03/17/2012,,11414088MO,-6776.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,4185,4185,"CR:Basic Service F... R.Ashfield 201203: Ashfield, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,589,589,"CR:Swan Personal C... R.Ashfield 201203: Ashfield, Robert",,,,,,,,,,,,,,,

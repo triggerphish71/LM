@@ -1,0 +1,8 @@
+BATCH,,201205,B,9554.0000,
+INVOICE,IN,,13810158,,05/26/2012,4342.0000,"Invoice-Private",,05/26/2012,05/26/2012,,13815024MO,-5915.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,26,96.0000,2496.00,"Basic Service Fee - Studio for May: Shafer, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,26,71.0000,1846.00,"Resident Care - Level 5 for May: Shafer, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,13810158,,05/26/2012,5212,"Invoice-Private",,05/26/2012,05/26/2012,,13815024MO,-5915.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... L.Shafer 201205: Shafer, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35,35,"CR:Pendant Fee... L.Shafer 201205: Shafer, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,2201,2201,"CR:Resident Care -... L.Shafer 201205: Shafer, Lois",,,,,,,,,,,,,,,

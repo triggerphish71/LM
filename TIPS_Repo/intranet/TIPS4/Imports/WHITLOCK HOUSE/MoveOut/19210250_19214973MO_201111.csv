@@ -1,0 +1,7 @@
+BATCH,,201111,B,6960.0000,
+INVOICE,IN,,19210250,,11/18/2011,2610.0000,"Invoice-Private",,11/18/2011,11/18/2011,,19214973MO,-6235.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,18,109.0000,1962.00,"Basic Service Fee - Studio for Nov: Wagoner, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,18,36.0000,648.00,"Private Care Rate Adjustments for Nov: Wagoner, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,19210250,,11/18/2011,4350,"Invoice-Private",,11/18/2011,11/18/2011,,19214973MO,-6235.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3270,3270,"CR:Basic Service F... P.Wagoner 201111: Wagoner, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,1,1080,1080,"CR:Private Care Ra... P.Wagoner 201111: Wagoner, Pat",,,,,,,,,,,,,,,

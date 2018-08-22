@@ -1,0 +1,7 @@
+BATCH,,201203,B,2942.0000,
+INVOICE,IN,,11510246,,03/01/2012,62.0000,"Invoice-Private",,03/01/2012,03/10/2012,,11514100MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,62.0000,62.00,"CR:Limited Term Di... L.Dalrymple 201203: Dalrymple, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,11510246,,03/01/2012,2880,"Invoice-Private",,03/01/2012,03/10/2012,,11514100MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2046,2046,"CR:Basic Service F... L.Dalrymple 201203: Dalrymple, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... L.Dalrymple 201203: Dalrymple, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,806,806,"CR:Resident Care -... L.Dalrymple 201203: Dalrymple, Laura",,,,,,,,,,,,,,,

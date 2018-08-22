@@ -1,0 +1,5 @@
+BATCH,,201110,B,3880.0000,
+INVOICE,IN,,11610253,,10/01/2011,873.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11614792MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,9,97.0000,873.00,"Basic Service Fee - Studio for Oct: Montgomery, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,11610253,,10/01/2011,3007,"Invoice-Private",,10/01/2011,10/10/2011,,11614792MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3007,3007,"CR:Basic Service F... J.Montgomery 201110: Montgomery, Joseph",,,,,,,,,,,,,,,

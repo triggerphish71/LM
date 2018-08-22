@@ -1,0 +1,7 @@
+BATCH,,201211,B,3567.0000,
+INVOICE,IN,,50910048,,11/27/2012,1707.0000,"Invoice-Private",,11/27/2012,11/27/2012,,50913216MO,-2012.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,60.0000,60.00,"CR:Limited Term Di... M.Myers 201211: Myers, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,27,61.0000,1647.00,"Basic Service Fee - One Bedroom for Nov: Myers, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,50910048,,11/27/2012,1860,"Invoice-Private",,11/27/2012,11/27/2012,,50913216MO,-2012.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1830,1830,"CR:Basic Service F... M.Myers 201211: Myers, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3130,010101509,1,30,30,"CR:Pendant Fee... M.Myers 201211: Myers, Margaret",,,,,,,,,,,,,,,

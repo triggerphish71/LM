@@ -1,0 +1,7 @@
+BATCH,,201201,B,302.0000,
+INVOICE,IN,,08010172,,01/01/2012,151.0000,"Invoice-Private",,01/01/2012,01/10/2012,,08014012MO,-1001.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Lee, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,4.0000,124.00,"Credit for Limited Term Discount: Lee, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,08010172,,01/01/2012,151,"Invoice-Private",,01/01/2012,01/10/2012,,08014012MO,-1001.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Lee, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,4,124,"Limited Term Discount: Lee, Geneva",,,,,,,,,,,,,,,

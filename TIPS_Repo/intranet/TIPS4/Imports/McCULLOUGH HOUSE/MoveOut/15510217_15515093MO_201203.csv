@@ -1,0 +1,5 @@
+BATCH,,201203,B,1612.0000,
+INVOICE,IN,,15510217,,03/01/2012,806.0000,"Invoice-Private",,03/01/2012,03/10/2012,,15515093MO,-2672.0000,,,,,,,,,,
+TRANSACTION,3320,010310155,31,26.0000,806.00,"Credit for Limited Term Discount: Bracken, John",,,,,,,,,,,,,,,
+INVOICE,CM,,15510217,,03/01/2012,806,"Invoice-Private",,03/01/2012,03/10/2012,,15515093MO,-2672.0000,,,,,,,,,,
+TRANSACTION,3320,010310155,31,26,806,"Limited Term Discount: Bracken, John",,,,,,,,,,,,,,,

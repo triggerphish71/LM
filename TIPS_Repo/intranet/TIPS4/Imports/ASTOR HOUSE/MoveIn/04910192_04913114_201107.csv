@@ -1,0 +1,6 @@
+BATCH,,201107,B,5893.8000,
+INVOICE,IN,,04910192,,07/01/2011,5893.8000,"MoveIn-Buckman. Emiko",,07/01/2011,07/01/2011,,04913114,5893.8000,,,,,,,,,,
+TRANSACTION,3010,010101049,31,84.0000,2604,"E.Buckman: Basic Service Fee - Studio: Buckman. Emiko",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,31,40.8000,1264.8,"E.Buckman: Resident Care - Level 24: Buckman. Emiko",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Buckman. Emiko",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Buckman. Emiko",,,,,,,,,,,,,,,

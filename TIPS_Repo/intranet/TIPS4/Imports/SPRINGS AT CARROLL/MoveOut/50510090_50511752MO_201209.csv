@@ -1,0 +1,7 @@
+BATCH,,201209,B,7826.0000,
+INVOICE,IN,,50510090,,09/13/2012,2366.0000,"Invoice-Private",,09/13/2012,09/13/2012,,50511752MO,-8736.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,13,109.0000,1417.00,"Basic Service Fee - Studio Deluxe for Sep: Balo, Armada",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,13,73.0000,949.00,"Resident Care - Level 6 for Sep: Balo, Armada",,,,,,,,,,,,,,,
+INVOICE,CM,,50510090,,09/13/2012,5460,"Invoice-Private",,09/13/2012,09/13/2012,,50511752MO,-8736.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,3270,3270,"CR:Basic Service F... A.Balo 201209: Balo, Armada",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,2190,2190,"CR:Resident Care -... A.Balo 201209: Balo, Armada",,,,,,,,,,,,,,,

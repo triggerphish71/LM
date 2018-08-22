@@ -1,0 +1,5 @@
+BATCH,,201201,B,1615.0000,
+INVOICE,IN,,06310237,,01/31/2012,1615.0000,"MoveIn-Skille. Helen",,01/31/2012,01/31/2012,,06314768,4250.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,1,90.0000,90,"H.Skille: Basic Service Fee - Studio: Skille. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Skille. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,1500.0000,1500,"New Resident Fee: Skille. Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,9819.0000,
+INVOICE,IN,,14510326,,12/27/2012,4648.0000,"Invoice-Private",,12/27/2012,12/27/2012,,14515784MO,-5694.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,28,124.0000,3472.00,"Basic Service Fee - One Bedroom for Dec: Furtick, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,28,42.0000,1176.00,"Resident Care - Level 3 for Dec: Furtick, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,14510326,,12/27/2012,5171,"Invoice-Private",,12/27/2012,12/27/2012,,14515784MO,-5694.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3844,3844,"CR:Basic Service F... L.Furtick 201212: Furtick, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"CR:Pendant Fee... L.Furtick 201212: Furtick, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1302,1302,"CR:Resident Care -... L.Furtick 201212: Furtick, Larry",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,2004.0000,
+INVOICE,IN,,13810236,,01/28/2013,2004.0000,"MoveIn-Ropp. Robert",,01/28/2013,01/28/2013,,13815374,5532.0000,,,,,,,,,,
+TRANSACTION,3010,010309138,4,96.0000,384,"Basic Service Fee - Studio: Ropp. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309138,4,30.0000,120,"Resident Care - Level 2: Ropp. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309138,1,1500.0000,1500,"New Resident Fee: Ropp. Robert",,,,,,,,,,,,,,,

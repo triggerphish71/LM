@@ -1,0 +1,7 @@
+BATCH,,201303,B,2414.0000,
+INVOICE,IN,,04410278,,03/03/2013,213.0000,"Invoice-Private",,03/03/2013,03/03/2013,,04414971MO,-1988.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,3,55.0000,165.00,"Basic Service Fee - Studio for Mar: Bowie, Ardell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,3,16.0000,48.00,"Resident Care - Level 1 for Mar: Bowie, Ardell",,,,,,,,,,,,,,,
+INVOICE,CM,,04410278,,03/03/2013,2201,"Invoice-Private",,03/03/2013,03/03/2013,,04414971MO,-1988.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1705,1705,"CR:Basic Service F... A.Bowie 201303: Bowie, Ardell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496,496,"CR:Resident Care -... A.Bowie 201303: Bowie, Ardell",,,,,,,,,,,,,,,

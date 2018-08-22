@@ -1,0 +1,8 @@
+BATCH,,201204,B,5270.0000,
+INVOICE,IN,,21610237,,04/29/2012,1820.0000,"Invoice-Private",,04/29/2012,04/29/2012,,21613520MO,-4327.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,14,32.0000,448.00,"Resident Care - Level 3 for Apr: Greenway, Jerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,14,98.0000,1372.00,"Studio Deluxe for Apr: Greenway, Jerald",,,,,,,,,,,,,,,
+INVOICE,CM,,21610237,,04/29/2012,3450,"Invoice-Private",,04/29/2012,04/29/2012,,21613520MO,-4327.0000,,,,,,,,,,
+TRANSACTION,3216,010216216,1,1500,1500,"CR:New Resident Fe... J.Greenway 201204: Greenway, Jerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,480,480,"CR:Resident Care -... J.Greenway 201204: Greenway, Jerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,1470,1470,"CR:Studio Deluxe... J.Greenway 201204: Greenway, Jerald",,,,,,,,,,,,,,,

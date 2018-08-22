@@ -1,0 +1,5 @@
+BATCH,,201306,B,4998.3500,
+INVOICE,IN,,09710272,,06/04/2013,4998.3500,"MoveIn-Smallwood. Fred",,06/04/2013,06/04/2013,,09714728,4998.3500,,,,,,,,,,
+TRANSACTION,3010,010103097,27,87.0000,2349,"Basic Service Fee - Studio: Smallwood. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103097,27,24.0500,649.35,"Resident Care - Level 13: Smallwood. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103097,1,2000.0000,2000,"New Resident Fee: Smallwood. Fred",,,,,,,,,,,,,,,

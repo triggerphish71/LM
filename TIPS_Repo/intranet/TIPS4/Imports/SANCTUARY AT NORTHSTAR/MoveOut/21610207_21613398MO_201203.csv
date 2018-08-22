@@ -1,0 +1,6 @@
+BATCH,,201203,B,4960.0000,
+INVOICE,IN,,21610207,,03/01/2012,620.0000,"Invoice-Private",,03/01/2012,03/10/2012,,21613398MO,-3980.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,620.0000,620.00,"CR:Limited Term Di... J.Trompeter 201203: Trompeter, June",,,,,,,,,,,,,,,
+INVOICE,CM,,21610207,,03/01/2012,4340,"Invoice-Private",,03/01/2012,03/10/2012,,21613398MO,-3980.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1302,1302,"CR:Resident Care -... J.Trompeter 201203: Trompeter, June",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3038,3038,"CR:Studio Deluxe... J.Trompeter 201203: Trompeter, June",,,,,,,,,,,,,,,

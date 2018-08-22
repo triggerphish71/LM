@@ -1,0 +1,5 @@
+BATCH,,201111,B,2584.0000,
+INVOICE,IN,,21410054,,11/07/2011,544.0000,"Invoice-Private",,11/07/2011,11/07/2011,,21416886MO,-1496.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,8,68.0000,544.00,"Basic Service Fee - IL One Bedroom for Nov: Westbrook, Nell",,,,,,,,,,,,,,,
+INVOICE,CM,,21410054,,11/07/2011,2040,"Invoice-Private",,11/07/2011,11/07/2011,,21416886MO,-1496.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2040,2040,"CR:Basic Service F... N.Westbrook 201111: Westbrook, Nell",,,,,,,,,,,,,,,

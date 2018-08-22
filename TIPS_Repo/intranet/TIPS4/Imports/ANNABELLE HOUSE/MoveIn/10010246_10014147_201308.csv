@@ -1,0 +1,5 @@
+BATCH,,201308,B,2815.0000,
+INVOICE,IN,,10010246,,08/01/2013,2815.0000,"August_Rent-Domek. Netha",,08/01/2013,08/10/2013,,10014147,4780.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,31,75.0000,2325,"Basic Service Fee - Studio: Domek. Netha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,31,15.0000,465,"Resident Care - Level 1: Domek. Netha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Domek. Netha",,,,,,,,,,,,,,,

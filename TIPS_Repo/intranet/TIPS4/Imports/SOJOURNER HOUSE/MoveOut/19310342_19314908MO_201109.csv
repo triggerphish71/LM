@@ -1,0 +1,5 @@
+BATCH,,201109,B,289.0000,
+INVOICE,IN,,19310342,,09/20/2011,144.5000,"Invoice-Private",,09/20/2011,09/20/2011,,19314908MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3019,010315193,17,8.5000,144.50,"Additional Service Charge: Naas, Dorathy",,,,,,,,,,,,,,,
+INVOICE,CM,,19310342,,09/20/2011,144.5,"Invoice-Private",,09/20/2011,09/20/2011,,19314908MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3019,010315193,17,8.5,144.5,"Credit for Additional Service Charge: Naas, Dorathy",,,,,,,,,,,,,,,

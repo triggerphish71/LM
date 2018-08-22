@@ -1,0 +1,7 @@
+BATCH,,201107,B,62.0000,
+INVOICE,IN,,11510225,,07/01/2011,31.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11513692MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Benjamin, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,1,3.0000,3.00,"Credit for Limited Term Discount: Benjamin, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,11510225,,07/01/2011,31,"Invoice-Private",,07/01/2011,07/10/2011,,11513692MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Benjamin, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,1,3,3,"Limited Term Discount: Benjamin, Margaret",,,,,,,,,,,,,,,

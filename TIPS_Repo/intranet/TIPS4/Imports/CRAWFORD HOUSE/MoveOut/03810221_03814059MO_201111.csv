@@ -1,0 +1,8 @@
+BATCH,,201111,B,2947.8000,
+INVOICE,IN,,03810221,,11/24/2011,1426.8000,"Invoice-Private",,11/24/2011,11/24/2011,,03814059MO,-1448.9000,,,,,,,,,,
+TRANSACTION,3320,010103038,1,210.0000,210.00,"CR:Limited Term Di... P.Campbell 201111: Campbell, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103038,24,32.0000,768.00,"Basic Service Fee - Second Resident for Nov: Campbell, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,24,18.7000,448.80,"Resident Care - Level 11 for Nov: Campbell, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,03810221,,11/24/2011,1521,"Invoice-Private",,11/24/2011,11/24/2011,,03814059MO,-1448.9000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,960,960,"CR:Basic Service F... P.Campbell 201111: Campbell, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,561,561,"CR:Resident Care -... P.Campbell 201111: Campbell, Paul",,,,,,,,,,,,,,,

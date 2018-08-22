@@ -1,0 +1,8 @@
+BATCH,,201108,B,4523.0000,
+INVOICE,IN,,10010209,,08/05/2011,1082.0000,"Invoice-Private",,08/05/2011,08/05/2011,,10013707MO,-2359.0000,,,,,,,,,,
+TRANSACTION,3320,010104100,1,527.0000,527.00,"CR:Limited Term Di... E.Richards 201108: Richards, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104100,5,82.0000,410.00,"Basic Service Fee - Studio for Aug: Richards, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,5,29.0000,145.00,"Resident Care - Level 2 for Aug: Richards, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,10010209,,08/05/2011,3441,"Invoice-Private",,08/05/2011,08/05/2011,,10013707MO,-2359.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2542,2542,"CR:Basic Service F... E.Richards 201108: Richards, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,899,899,"CR:Resident Care -... E.Richards 201108: Richards, Eunice",,,,,,,,,,,,,,,

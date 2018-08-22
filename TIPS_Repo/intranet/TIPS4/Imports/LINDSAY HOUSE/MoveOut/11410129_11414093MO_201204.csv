@@ -1,0 +1,6 @@
+BATCH,,201204,B,5460.0000,
+INVOICE,IN,,11410129,,04/01/2012,1080.0000,"Invoice-Private",,04/01/2012,04/10/2012,,11414093MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3320,010306114,1,1080.0000,1080.00,"CR:Limited Term Di... R.Gorman 201204: Gorman, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,11410129,,04/01/2012,4380,"Invoice-Private",,04/01/2012,04/10/2012,,11414093MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3330,3330,"CR:Basic Service F... R.Gorman 201204: Gorman, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,1050,1050,"CR:Swan Personal C... R.Gorman 201204: Gorman, Robert",,,,,,,,,,,,,,,

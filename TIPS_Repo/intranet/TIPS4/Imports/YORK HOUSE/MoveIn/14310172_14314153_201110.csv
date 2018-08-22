@@ -1,0 +1,5 @@
+BATCH,,201110,B,2415.0000,
+INVOICE,IN,,14310172,,10/21/2011,2415.0000,"MoveIn-Brown. Doug",,10/21/2011,10/21/2011,,14314153,4850.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,11,80.0000,880,"Basic Service Fee - Studio         : Brown. Doug",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Brown. Doug",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Brown. Doug",,,,,,,,,,,,,,,

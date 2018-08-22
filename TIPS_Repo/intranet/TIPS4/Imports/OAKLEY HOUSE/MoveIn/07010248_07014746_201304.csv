@@ -1,0 +1,5 @@
+BATCH,,201304,B,3334.0000,
+INVOICE,IN,,07010248,,04/05/2013,3334.0000,"MoveIn-Loy. Evelyn",,04/05/2013,04/05/2013,,07014746,3334.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,26,89.0000,2314,"Basic Service Fee - Studio: Loy. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Loy. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1000.0000,1000,"New Resident Fee: Loy. Evelyn",,,,,,,,,,,,,,,

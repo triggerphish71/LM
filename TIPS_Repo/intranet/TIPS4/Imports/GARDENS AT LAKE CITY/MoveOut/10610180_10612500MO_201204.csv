@@ -1,0 +1,6 @@
+BATCH,,201204,B,4350.0000,
+INVOICE,IN,,10610180,,04/01/2012,90.0000,"Invoice-Private",,04/01/2012,04/10/2012,,10612500MO,-4735.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,1,90.0000,90.00,"CR:Limited Term Di... D.Schanlaub 201204: Schanlaub, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,10610180,,04/01/2012,4260,"Invoice-Private",,04/01/2012,04/10/2012,,10612500MO,-4735.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2940,2940,"CR:Basic Service F... D.Schanlaub 201204: Schanlaub, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,1320,1320,"CR:Resident Care -... D.Schanlaub 201204: Schanlaub, Don",,,,,,,,,,,,,,,

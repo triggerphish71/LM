@@ -1,0 +1,6 @@
+BATCH,,201105,B,3021.0000,
+INVOICE,IN,,21210150,,05/12/2011,3021.0000,"MoveIn-Goff. Valmarie",,05/12/2011,05/12/2011,,21211855,3021.0000,,,,,,,,,,
+TRANSACTION,3010,010208212,20,78.0000,1560,"V.Goff: Studio: Goff. Valmarie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010208212,20,21.0000,420,"V.Goff: Resident Care - Level 2: Goff. Valmarie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41,"Monthly Cable: Goff. Valmarie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010208212,1,1000.0000,1000,"New Resident Fee: Goff. Valmarie",,,,,,,,,,,,,,,

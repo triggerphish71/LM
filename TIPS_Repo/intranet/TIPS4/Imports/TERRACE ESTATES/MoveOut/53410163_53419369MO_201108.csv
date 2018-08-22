@@ -1,0 +1,7 @@
+BATCH,,201108,B,246.0000,
+INVOICE,IN,,53410163,,08/01/2011,123.0000,"Invoice-Private",,08/01/2011,08/10/2011,,53419369MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Sadler, Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Sadler, Pearl",,,,,,,,,,,,,,,
+INVOICE,CM,,53410163,,08/01/2011,123,"Invoice-Private",,08/01/2011,08/10/2011,,53419369MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Sadler, Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Sadler, Pearl",,,,,,,,,,,,,,,

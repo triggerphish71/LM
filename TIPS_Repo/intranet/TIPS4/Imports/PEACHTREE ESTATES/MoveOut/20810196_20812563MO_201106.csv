@@ -1,0 +1,7 @@
+BATCH,,201106,B,6090.0000,
+INVOICE,IN,,20810196,,06/28/2011,2940.0000,"Invoice-Private",,06/28/2011,06/28/2011,,20812563MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,28,31.0000,868.00,"Resident Care - Level 3 for Jun: Owens, Claude",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,28,74.0000,2072.00,"Studio for Jun: Owens, Claude",,,,,,,,,,,,,,,
+INVOICE,CM,,20810196,,06/28/2011,3150,"Invoice-Private",,06/28/2011,06/28/2011,,20812563MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,930,930,"CR:Resident Care -... C.Owens 201106: Owens, Claude",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2220,2220,"CR:Studio... C.Owens 201106: Owens, Claude",,,,,,,,,,,,,,,

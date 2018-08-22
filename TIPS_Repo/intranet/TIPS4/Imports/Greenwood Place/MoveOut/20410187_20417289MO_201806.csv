@@ -1,0 +1,6 @@
+BATCH,,201806,B,6237.0000,
+INVOICE,IN,,20410187,,06/12/2018,2277.0000,"Invoice-Private",,06/12/2018,06/12/2018,,20417289MO,-1683.0000,,,,,,,,,,
+TRANSACTION,3010,010016204,4,132.0000,528.00,"Basic Service Fee - Two Bedroom: Owenby, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3010,010016204,1,1749.0000,1749.00,"Basic Service Fee - MC Studio: Owenby, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,20410187,,06/12/2018,3960,"Invoice-Private",,06/12/2018,06/12/2018,,20417289MO,-1683.0000,,,,,,,,,,
+TRANSACTION,3020,010016204,1,3960,3960,"CR:Basic Service F... D.Owenby 201806: Owenby, Doris",,,,,,,,,,,,,,,

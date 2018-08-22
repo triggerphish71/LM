@@ -1,0 +1,8 @@
+BATCH,,201111,B,6385.0000,
+INVOICE,IN,,21010195,,11/23/2011,2760.0000,"Invoice-Private",,11/23/2011,11/23/2011,,21013315MO,-4610.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,23,30.0000,690.00,"Resident Care - Level 3 for Nov: Alman, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,23,90.0000,2070.00,"Studio for Nov: Alman, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,21010195,,11/23/2011,3625,"Invoice-Private",,11/23/2011,11/23/2011,,21013315MO,-4610.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... A.Alman 201111: Alman, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,900,900,"CR:Resident Care -... A.Alman 201111: Alman, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2700,2700,"CR:Studio... A.Alman 201111: Alman, Andrew",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201112,B,5104.0000,
+INVOICE,IN,,15210133,,12/06/2011,822.0000,"Invoice-Private",,12/06/2011,12/06/2011,,15213640MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,6,68.0000,408.00,"Basic Service Fee - Studio for Dec: Kirchhoff, Dick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,6,69.0000,414.00,"Resident Care - Level 5 for Dec: Kirchhoff, Dick",,,,,,,,,,,,,,,
+INVOICE,CM,,15210133,,12/06/2011,4282,"Invoice-Private",,12/06/2011,12/06/2011,,15213640MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2108,2108,"CR:Basic Service F... D.Kirchhoff 201112: Kirchhoff, Dick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... D.Kirchhoff 201112: Kirchhoff, Dick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,2139,2139,"CR:Resident Care -... D.Kirchhoff 201112: Kirchhoff, Dick",,,,,,,,,,,,,,,

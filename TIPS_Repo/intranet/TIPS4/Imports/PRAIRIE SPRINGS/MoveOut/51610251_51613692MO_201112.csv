@@ -1,0 +1,8 @@
+BATCH,,201112,B,5248.5000,
+INVOICE,IN,,51610251,,12/30/2011,1785.0000,"Invoice-Private",,12/30/2011,12/30/2011,,51613692MO,-7212.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,10,89.0000,890.00,"Basic Service Fee - Studio for Dec: Hettick, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,10,89.5000,895.00,"Resident Care - Level 50 for Dec: Hettick, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,51610251,,12/30/2011,3463.5,"Invoice-Private",,12/30/2011,12/30/2011,,51613692MO,-7212.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,979,979,"CR:Basic Service F... C.Hettick 201112: Hettick, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103516,1,1500,1500,"CR:New Resident Fe... C.Hettick 201112: Hettick, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,984.5,984.5,"CR:Resident Care -... C.Hettick 201112: Hettick, Christine",,,,,,,,,,,,,,,

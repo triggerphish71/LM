@@ -1,0 +1,7 @@
+BATCH,,201206,B,640.0000,
+INVOICE,IN,,07310224,,06/01/2012,320.0000,"Invoice-Private",,06/01/2012,06/10/2012,,07315553MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20.00,"Monthly Cable: Mackey, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305073,30,10.0000,300.00,"Credit for Limited Term Discount: Mackey, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,07310224,,06/01/2012,320,"Invoice-Private",,06/01/2012,06/10/2012,,07315553MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"Credit for Monthly Cable: Mackey, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305073,30,10,300,"Limited Term Discount: Mackey, Anna",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,9900.0000,
+INVOICE,IN,,06010246,,04/28/2012,4760.0000,"Invoice-Private",,04/28/2012,04/28/2012,,06014369MO,-5690.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,28,110.0000,3080.00,"Basic Service Fee - One Bedroom for Apr: Wesolowski, Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,28,60.0000,1680.00,"Resident Care - Level 5 for Apr: Wesolowski, Daniel",,,,,,,,,,,,,,,
+INVOICE,CM,,06010246,,04/28/2012,5140,"Invoice-Private",,04/28/2012,04/28/2012,,06014369MO,-5690.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3300,3300,"CR:Basic Service F... D.Wesolowski 201204: Wesolowski, Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... D.Wesolowski 201204: Wesolowski, Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1800,1800,"CR:Resident Care -... D.Wesolowski 201204: Wesolowski, Daniel",,,,,,,,,,,,,,,

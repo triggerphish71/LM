@@ -1,0 +1,7 @@
+BATCH,,201304,B,7155.0000,
+INVOICE,IN,,21210212,,04/23/2013,3105.0000,"Invoice-Private",,04/23/2013,04/23/2013,,21213083MO,-5130.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,23,43.0000,989.00,"Resident Care - Level 4 for Apr: Kroetch, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,23,92.0000,2116.00,"Studio Deluxe for Apr: Kroetch, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,21210212,,04/23/2013,4050,"Invoice-Private",,04/23/2013,04/23/2013,,21213083MO,-5130.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1290,1290,"CR:Resident Care -... L.Kroetch 201304: Kroetch, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... L.Kroetch 201304: Kroetch, Lorraine",,,,,,,,,,,,,,,

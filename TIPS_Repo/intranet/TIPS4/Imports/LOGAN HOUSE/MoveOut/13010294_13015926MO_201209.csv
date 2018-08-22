@@ -1,0 +1,6 @@
+BATCH,,201209,B,3690.0000,
+INVOICE,IN,,13010294,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13015926MO,-4113.0000,,,,,,,,,,
+TRANSACTION,3320,010310130,1,60.0000,60.00,"CR:Limited Term Di... B.Lowers 201209: Lowers, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13010294,,09/01/2012,3630,"Invoice-Private",,09/01/2012,09/10/2012,,13015926MO,-4113.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3060,3060,"CR:Basic Service F... B.Lowers 201209: Lowers, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,570,570,"CR:Resident Care -... B.Lowers 201209: Lowers, Betty",,,,,,,,,,,,,,,

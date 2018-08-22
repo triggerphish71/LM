@@ -1,0 +1,7 @@
+BATCH,,201307,B,7869.0000,
+INVOICE,IN,,19210224,,07/12/2013,2196.0000,"Invoice-Private",,07/12/2013,07/12/2013,,19216040MO,-9150.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,12,115.0000,1380.00,"Basic Service Fee - Studio for Jul: DeVries, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,12,68.0000,816.00,"Resident Care - Level 5 for Jul: DeVries, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19210224,,07/12/2013,5673,"Invoice-Private",,07/12/2013,07/12/2013,,19216040MO,-9150.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3565,3565,"CR:Basic Service F... M.DeVries 201307: DeVries, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,2108,2108,"CR:Resident Care -... M.DeVries 201307: DeVries, Margaret",,,,,,,,,,,,,,,

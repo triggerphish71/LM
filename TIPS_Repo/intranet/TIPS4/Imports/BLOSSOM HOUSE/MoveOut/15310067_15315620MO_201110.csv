@@ -1,0 +1,5 @@
+BATCH,,201110,B,3531.4000,
+INVOICE,IN,,15310067,,10/01/2011,1765.7000,"Invoice-Medicaid",,10/01/2011,10/10/2011,,15315620MO,-3978.9300,,,,,,,,,,
+TRANSACTION,3012,010103153,1,1765.7000,1765.70,"State Medicaid: Reynolds, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,15310067,,10/01/2011,1765.7,"Invoice-Medicaid",,10/01/2011,10/10/2011,,15315620MO,-3978.9300,,,,,,,,,,
+TRANSACTION,3012,010103153,1,1765.7,1765.7,"Credit for State Medicaid: Reynolds, Juanita",,,,,,,,,,,,,,,

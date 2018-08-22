@@ -1,0 +1,7 @@
+BATCH,,201207,B,4032.0000,
+INVOICE,IN,,05810202,,07/01/2012,126.0000,"Invoice-Private",,07/01/2012,07/10/2012,,05813933MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,82.0000,82.00,"Basic Service Fee - Studio for Jul: Balanciere, Elodie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,44.0000,44.00,"Resident Care - Level 3 for Jul: Balanciere, Elodie",,,,,,,,,,,,,,,
+INVOICE,CM,,05810202,,07/01/2012,3906,"Invoice-Private",,07/01/2012,07/10/2012,,05813933MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... E.Balanciere 201207: Balanciere, Elodie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1364,1364,"CR:Resident Care -... E.Balanciere 201207: Balanciere, Elodie",,,,,,,,,,,,,,,

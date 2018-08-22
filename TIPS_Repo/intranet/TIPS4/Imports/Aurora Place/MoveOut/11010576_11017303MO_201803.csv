@@ -1,0 +1,8 @@
+BATCH,,201803,B,8980.0000,
+INVOICE,IN,,11010576,,03/29/2018,4206.0000,"Invoice-Private",,03/29/2018,03/29/2018,,11017303MO,-5214.3000,,,,,,,,,,
+TRANSACTION,3017,010007110,19,74.0000,1406.00,"Level: 5  to  Level: 3  - on 03/20: McQueen, Annette",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,10,48.0000,480.00," Level: 3 : McQueen, Annette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010007110,29,80.0000,2320.00,"Basic Service Fee - Studio  for Mar: McQueen, Annette",,,,,,,,,,,,,,,
+INVOICE,CM,,11010576,,03/29/2018,4774,"Invoice-Private",,03/29/2018,03/29/2018,,11017303MO,-5214.3000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2480,2480,"CR:Basic Service F... A.McQueen 201803: McQueen, Annette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,2294,2294,"CR:Resident Care -... A.McQueen 201803: McQueen, Annette",,,,,,,,,,,,,,,

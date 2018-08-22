@@ -1,0 +1,6 @@
+BATCH,,201206,B,4530.0000,
+INVOICE,IN,,13110220,,06/01/2012,1050.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13114407MO,-1925.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,1050.0000,1050.00,"CR:Limited Term Di... V.Rollins 201206: Rollins, Vada",,,,,,,,,,,,,,,
+INVOICE,CM,,13110220,,06/01/2012,3480,"Invoice-Private",,06/01/2012,06/10/2012,,13114407MO,-1925.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,1,480,480,"CR:Resident Care -... V.Rollins 201206: Rollins, Vada",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3000,3000,"CR:Room and Board ... V.Rollins 201206: Rollins, Vada",,,,,,,,,,,,,,,

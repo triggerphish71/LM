@@ -1,0 +1,7 @@
+BATCH,,201305,B,5940.8000,
+INVOICE,IN,,08710201,,05/01/2013,2022.4000,"Invoice-Private",,05/01/2013,05/10/2013,,08714420MO,-1896.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,16,45.0000,720.00,"Basic Service Fee - Studio for May: Ingulsrud, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,16,81.4000,1302.40,"Resident Care - Level 44 for May: Ingulsrud, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,08710201,,05/01/2013,3918.4,"Invoice-Private",,05/01/2013,05/10/2013,,08714420MO,-1896.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,1395,1395,"CR:Basic Service F... J.Ingulsrud 201305: Ingulsrud, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,2523.4,2523.4,"CR:Resident Care -... J.Ingulsrud 201305: Ingulsrud, Jane",,,,,,,,,,,,,,,

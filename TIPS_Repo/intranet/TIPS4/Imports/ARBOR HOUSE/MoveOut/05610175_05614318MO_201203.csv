@@ -1,0 +1,8 @@
+BATCH,,201203,B,3067.0000,
+INVOICE,IN,,05610175,,03/01/2012,95.0000,"Invoice-Private",,03/01/2012,03/10/2012,,05614318MO,-2877.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,68.0000,68.00,"Basic Service Fee - Studio for Mar: Clifton, James  Wendell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,1,27.0000,27.00,"Resident Care - Level 2 for Mar: Clifton, James  Wendell",,,,,,,,,,,,,,,
+INVOICE,CM,,05610175,,03/01/2012,2972,"Invoice-Private",,03/01/2012,03/10/2012,,05614318MO,-2877.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,2108,2108,"CR:Basic Service F... J.Clifton 201203: Clifton, James  Wendell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... J.Clifton 201203: Clifton, James  Wendell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,1,837,837,"CR:Resident Care -... J.Clifton 201203: Clifton, James  Wendell",,,,,,,,,,,,,,,

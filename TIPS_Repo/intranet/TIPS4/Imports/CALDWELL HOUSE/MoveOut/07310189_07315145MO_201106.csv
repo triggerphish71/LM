@@ -1,0 +1,8 @@
+BATCH,,201106,B,7958.0000,
+INVOICE,IN,,07310189,,06/19/2011,3078.0000,"Invoice-Private",,06/19/2011,06/19/2011,,07315145MO,-6844.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,19,68.0000,1292.00,"Resident Care - Level 4 for Jun: Hansford, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,19,94.0000,1786.00,"Room and Board - Studio for Jun: Hansford, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,07310189,,06/19/2011,4880,"Invoice-Private",,06/19/2011,06/19/2011,,07315145MO,-6844.0000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... E.Hansford 201106: Hansford, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2040,2040,"CR:Resident Care -... E.Hansford 201106: Hansford, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2820,2820,"CR:Room and Board ... E.Hansford 201106: Hansford, Elizabeth",,,,,,,,,,,,,,,

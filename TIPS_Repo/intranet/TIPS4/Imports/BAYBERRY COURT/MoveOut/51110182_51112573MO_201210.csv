@@ -1,0 +1,7 @@
+BATCH,,201210,B,4464.0000,
+INVOICE,IN,,51110182,,10/03/2012,620.0000,"Invoice-Private",,10/03/2012,10/03/2012,,51112573MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,5,105.0000,525.00,"Basic Service Fee - Studio for Oct: Kelly, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,5,19.0000,95.00,"Resident Care - Level 1 for Oct: Kelly, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,51110182,,10/03/2012,3844,"Invoice-Private",,10/03/2012,10/03/2012,,51112573MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... L.Kelly 201210: Kelly, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589,589,"CR:Resident Care -... L.Kelly 201210: Kelly, Lois",,,,,,,,,,,,,,,

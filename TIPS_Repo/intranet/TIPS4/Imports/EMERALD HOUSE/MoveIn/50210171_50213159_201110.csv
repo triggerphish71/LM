@@ -1,0 +1,5 @@
+BATCH,,201110,B,2565.0000,
+INVOICE,IN,,50210171,,10/19/2011,2565.0000,"MoveIn-Porter. Fern",,10/19/2011,10/19/2011,,50213159,4990.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,13,80.0000,1040,"Basic Service Fee - Studio: Porter. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Porter. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Porter. Fern",,,,,,,,,,,,,,,

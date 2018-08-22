@@ -1,0 +1,7 @@
+BATCH,,201108,B,3920.0000,
+INVOICE,IN,,20610191,,08/09/2011,882.0000,"Invoice-Private",,08/09/2011,08/09/2011,,20612264MO,-2156.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,9,11.0000,99.00,"Resident Care - Level 1 for Aug: Clark, Agnes M",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,9,87.0000,783.00,"Room and Board - Studio for Aug: Clark, Agnes M",,,,,,,,,,,,,,,
+INVOICE,CM,,20610191,,08/09/2011,3038,"Invoice-Private",,08/09/2011,08/09/2011,,20612264MO,-2156.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... A.Clark 201108: Clark, Agnes M",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... A.Clark 201108: Clark, Agnes M",,,,,,,,,,,,,,,

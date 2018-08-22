@@ -1,0 +1,8 @@
+BATCH,,201212,B,7434.0000,
+INVOICE,IN,,20810216,,12/21/2012,3249.0000,"Invoice-Private",,12/21/2012,12/21/2012,,20813456MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,279.0000,279.00,"CR:Limited Term Di... P.Bond 201212: Bond, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,22,52.0000,1144.00,"Resident Care - Level 5 for Dec: Bond, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,22,83.0000,1826.00,"Studio Deluxe for Dec: Bond, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,20810216,,12/21/2012,4185,"Invoice-Private",,12/21/2012,12/21/2012,,20813456MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1612,1612,"CR:Resident Care -... P.Bond 201212: Bond, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2573,2573,"CR:Studio Deluxe... P.Bond 201212: Bond, Pauline",,,,,,,,,,,,,,,

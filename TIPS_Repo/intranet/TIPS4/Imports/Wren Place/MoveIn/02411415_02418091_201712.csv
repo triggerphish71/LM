@@ -1,0 +1,6 @@
+BATCH,,201712,B,9208.4000,
+INVOICE,IN,,02411415,,12/01/2017,9208.4000,"MoveIn-Heard. Joyce",,12/01/2017,12/01/2017,,02418091,9208.4000,,,,,,,,,,
+TRANSACTION,3010,010002024,31,100.0000,3100,"J.Heard: Basic Service Fee - Studio: Heard. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4000,28.4,"Monthly Cable: Heard. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002024,1,3040.0000,3040,"Community Fee: Heard. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002024,1,3040.0000,3040,"Monthly Deferral Charge: Heard. Joyce",,,,,,,,,,,,,,,

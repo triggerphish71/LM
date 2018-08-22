@@ -1,0 +1,7 @@
+BATCH,,201110,B,5236.0000,
+INVOICE,IN,,15510233,,10/03/2011,462.0000,"Invoice-Private",,10/03/2011,10/03/2011,,15514907MO,-4312.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,3,85.0000,255.00,"Basic Service Fee - Studio for Oct: Burkhart, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,3,69.0000,207.00,"Resident Care - Level 5 for Oct: Burkhart, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,15510233,,10/03/2011,4774,"Invoice-Private",,10/03/2011,10/03/2011,,15514907MO,-4312.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2635,2635,"CR:Basic Service F... D.Burkhart 201110: Burkhart, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2139,2139,"CR:Resident Care -... D.Burkhart 201110: Burkhart, Donald",,,,,,,,,,,,,,,

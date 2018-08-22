@@ -1,0 +1,7 @@
+BATCH,,201204,B,2694.0000,
+INVOICE,IN,,02411286,,04/01/2012,1347.0000,"Invoice-Private",,04/01/2012,04/10/2012,,02415623MO,-1342.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Ledbetter, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,44.0000,1320.00,"Credit for Limited Term Discount: Ledbetter, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411286,,04/01/2012,1347,"Invoice-Private",,04/01/2012,04/10/2012,,02415623MO,-1342.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Ledbetter, Johnnie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,44,1320,"Limited Term Discount: Ledbetter, Johnnie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,4350.0000,
+INVOICE,IN,,03210259,,01/07/2012,4350.0000,"MoveIn-McBryde. Patsy",,01/07/2012,01/07/2012,,03214725,4350.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,25,113.0000,2825,"Basic Service Fee - One Bedroom: McBryde. Patsy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: McBryde. Patsy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: McBryde. Patsy",,,,,,,,,,,,,,,

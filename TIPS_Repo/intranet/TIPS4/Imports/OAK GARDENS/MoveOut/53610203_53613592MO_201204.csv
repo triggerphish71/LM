@@ -1,0 +1,6 @@
+BATCH,,201204,B,4227.0000,
+INVOICE,IN,,53610203,,04/02/2012,262.0000,"Invoice-Private",,04/02/2012,04/02/2012,,53613592MO,-7764.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,2,131.0000,262.00,"Basic Service Fee - One Bedroom Del for Apr: McAlwain, Colleen",,,,,,,,,,,,,,,
+INVOICE,CM,,53610203,,04/02/2012,3965,"Invoice-Private",,04/02/2012,04/02/2012,,53613592MO,-7764.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3930,3930,"CR:Basic Service F... C.McAlwain 201204: McAlwain, Colleen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... C.McAlwain 201204: McAlwain, Colleen",,,,,,,,,,,,,,,

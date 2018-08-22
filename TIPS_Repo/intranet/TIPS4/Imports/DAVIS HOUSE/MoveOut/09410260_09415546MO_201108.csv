@@ -1,0 +1,7 @@
+BATCH,,201108,B,6925.4000,
+INVOICE,IN,,09410260,,08/01/2011,1240.0000,"Invoice-Private",,08/01/2011,08/10/2011,,09415546MO,-4805.4000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,1240.0000,1240.00,"CR:Limited Term Di... G.Wilson 201108: Wilson, Gill",,,,,,,,,,,,,,,
+INVOICE,CM,,09410260,,08/01/2011,5685.4,"Invoice-Private",,08/01/2011,08/10/2011,,09415546MO,-4805.4000,,,,,,,,,,
+TRANSACTION,3019,010107094,1,105.4,105.4,"CR:Additional Serv... G.Wilson 201108: Wilson, Gill",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2945,2945,"CR:Basic Service F... G.Wilson 201108: Wilson, Gill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2635,2635,"CR:Resident Care -... G.Wilson 201108: Wilson, Gill",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,2014.0000,
+INVOICE,IN,,13610266,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13615102MO,-2852.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,1,62.0000,62.00,"CR:Limited Term Di... L.McLane 201210: McLane, Lauretta",,,,,,,,,,,,,,,
+INVOICE,CM,,13610266,,10/01/2012,1952,"Invoice-Private",,10/01/2012,10/10/2012,,13615102MO,-2852.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,961,961,"CR:Basic Service F... L.McLane 201210: McLane, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"CR:Pendant Fee... L.McLane 201210: McLane, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... L.McLane 201210: McLane, Lauretta",,,,,,,,,,,,,,,

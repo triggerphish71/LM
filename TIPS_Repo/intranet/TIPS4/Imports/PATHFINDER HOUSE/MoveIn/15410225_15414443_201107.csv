@@ -1,0 +1,5 @@
+BATCH,,201107,B,3089.0000,
+INVOICE,IN,,15410225,,07/15/2011,3089.0000,"MoveIn-Rump. Richard",,07/15/2011,07/15/2011,,15414443,3089.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,17,62.0000,1054,"Basic Service Fee - Studio         : Rump. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Rump. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2000.0000,2000,"New Resident Fee: Rump. Richard",,,,,,,,,,,,,,,

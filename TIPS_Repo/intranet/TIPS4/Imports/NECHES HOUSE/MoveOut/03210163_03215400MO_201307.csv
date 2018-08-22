@@ -1,0 +1,7 @@
+BATCH,,201307,B,4620.0000,
+INVOICE,IN,,03210163,,07/01/2013,1210.0000,"Invoice-Private",,07/01/2013,07/10/2013,,03215400MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,11,93.0000,1023.00,"Basic Service Fee - Studio for Jul: Dodson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,11,17.0000,187.00,"Resident Care - Level 1 for Jul: Dodson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,03210163,,07/01/2013,3410,"Invoice-Private",,07/01/2013,07/10/2013,,03215400MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2883,2883,"CR:Basic Service F... D.Dodson 201307: Dodson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,527,527,"CR:Resident Care -... D.Dodson 201307: Dodson, Dorothy",,,,,,,,,,,,,,,

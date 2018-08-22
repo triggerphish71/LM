@@ -1,0 +1,5 @@
+BATCH,,201204,B,54.0000,
+INVOICE,IN,,08010204,,04/01/2012,27.0000,"Invoice-Private",,04/01/2012,04/10/2012,,08014057MO,-3777.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Brooks, James",,,,,,,,,,,,,,,
+INVOICE,CM,,08010204,,04/01/2012,27,"Invoice-Private",,04/01/2012,04/10/2012,,08014057MO,-3777.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Brooks, James",,,,,,,,,,,,,,,

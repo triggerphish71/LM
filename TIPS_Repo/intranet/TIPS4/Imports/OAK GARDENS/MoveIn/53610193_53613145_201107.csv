@@ -1,0 +1,5 @@
+BATCH,,201107,B,3727.0000,
+INVOICE,IN,,53610193,,07/14/2011,3727.0000,"MoveIn-Wilson. Sam",,07/14/2011,07/14/2011,,53613145,3727.0000,,,,,,,,,,
+TRANSACTION,3010,010319536,18,94.0000,1692,"Basic Service Fee - Studio: Wilson. Sam",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35,"Monthly Cable: Wilson. Sam",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319536,1,2000.0000,2000,"New Resident Fee: Wilson. Sam",,,,,,,,,,,,,,,

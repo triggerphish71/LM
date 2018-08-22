@@ -1,0 +1,7 @@
+BATCH,,201306,B,4602.0000,
+INVOICE,IN,,53210336,,06/17/2013,2262.0000,"Invoice-Private",,06/17/2013,06/17/2013,,53215582MO,-2496.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,29,63.0000,1827.00,"Basic Service Fee - Studio for Jun: Puerner, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,29,15.0000,435.00,"Resident Care - Level 1 for Jun: Puerner, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,53210336,,06/17/2013,2340,"Invoice-Private",,06/17/2013,06/17/2013,,53215582MO,-2496.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,1890,1890,"CR:Basic Service F... B.Puerner 201306: Puerner, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,450,450,"CR:Resident Care -... B.Puerner 201306: Puerner, Barbara",,,,,,,,,,,,,,,

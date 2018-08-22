@@ -1,0 +1,5 @@
+BATCH,,201207,B,1240.0000,
+INVOICE,IN,,19010236,,07/01/2012,620.0000,"Invoice-Private",,07/01/2012,07/10/2012,,19014526MO,-712.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,31,20.0000,620.00,"Credit for Limited Term Discount: Smith, Hellon",,,,,,,,,,,,,,,
+INVOICE,CM,,19010236,,07/01/2012,620,"Invoice-Private",,07/01/2012,07/10/2012,,19014526MO,-712.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,31,20,620,"Limited Term Discount: Smith, Hellon",,,,,,,,,,,,,,,

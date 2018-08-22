@@ -1,0 +1,8 @@
+BATCH,,201303,B,4844.0000,
+INVOICE,IN,,11110307,,03/23/2013,2370.0000,"Invoice-Private",,03/23/2013,03/23/2013,,11115151MO,-2499.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,30,50.0000,1500.00,"Basic Service Fee - Studio for Mar: Finley, Doerthe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,30,29.0000,870.00,"Resident Care - Level 2 for Mar: Finley, Doerthe",,,,,,,,,,,,,,,
+INVOICE,CM,,11110307,,03/23/2013,2474,"Invoice-Private",,03/23/2013,03/23/2013,,11115151MO,-2499.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,1550,1550,"CR:Basic Service F... D.Finley 201303: Finley, Doerthe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... D.Finley 201303: Finley, Doerthe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,899,899,"CR:Resident Care -... D.Finley 201303: Finley, Doerthe",,,,,,,,,,,,,,,

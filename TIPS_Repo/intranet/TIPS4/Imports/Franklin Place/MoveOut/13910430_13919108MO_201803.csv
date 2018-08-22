@@ -1,0 +1,8 @@
+BATCH,,201803,B,5753.7000,
+INVOICE,IN,,13910430,,03/02/2018,347.8000,"Invoice-Private",,03/02/2018,03/02/2018,,13919108MO,-5058.1000,,,,,,,,,,
+TRANSACTION,3020,010003139,2,75.0000,150.00,"Basic Service Fee - Studio  for Mar: Whitman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,2,98.9000,197.80,"Resident Care - Level 46  for Mar: Whitman, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,13910430,,03/02/2018,5405.9,"Invoice-Private",,03/02/2018,03/02/2018,,13919108MO,-5058.1000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,2325,2325,"CR:Basic Service F... S.Whitman 201803: Whitman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010003139,1,15,15,"CR:Pendant Fee... S.Whitman 201803: Whitman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,3065.9,3065.9,"CR:Resident Care -... S.Whitman 201803: Whitman, Shirley",,,,,,,,,,,,,,,

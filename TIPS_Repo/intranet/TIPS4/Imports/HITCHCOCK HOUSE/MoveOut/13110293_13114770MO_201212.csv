@@ -1,0 +1,7 @@
+BATCH,,201212,B,5760.0000,
+INVOICE,IN,,13110293,,12/13/2012,1792.0000,"Invoice-Private",,12/13/2012,12/13/2012,,13114770MO,-6144.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,14,100.0000,1400.00,"Basic Service Fee - Studio for Dec: Buxton, Tsuyako",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,14,28.0000,392.00,"Resident Care - Level 2 for Dec: Buxton, Tsuyako",,,,,,,,,,,,,,,
+INVOICE,CM,,13110293,,12/13/2012,3968,"Invoice-Private",,12/13/2012,12/13/2012,,13114770MO,-6144.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... T.Buxton 201212: Buxton, Tsuyako",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,868,868,"CR:Resident Care -... T.Buxton 201212: Buxton, Tsuyako",,,,,,,,,,,,,,,

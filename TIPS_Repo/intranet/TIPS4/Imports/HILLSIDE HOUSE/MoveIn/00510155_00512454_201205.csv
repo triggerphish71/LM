@@ -1,0 +1,7 @@
+BATCH,,201205,B,473.8000,
+INVOICE,IN,,00510155,,04/30/2012,94.7600,"MoveIn-McCoy. Marcella",,04/30/2012,04/30/2012,,00512454,473.8000,,,,,,,,,,
+TRANSACTION,3014,010101005,1,87.6000,87.6,"Basic Service Fee - Respite Studio: McCoy. Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,1,7.1600,7.16,"Resident Care - Level 4: McCoy. Marcella",,,,,,,,,,,,,,,
+INVOICE,IN,,00510155,,05/01/2012,379.0400,"May_Rent-McCoy. Marcella",,05/01/2012,05/10/2012,,00512454,473.8000,,,,,,,,,,
+TRANSACTION,3010,010101005,4,87.6000,350.4,"Basic Service Fee - Respite Studio: McCoy. Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,4,7.1600,28.64,"Resident Care - Level 4: McCoy. Marcella",,,,,,,,,,,,,,,

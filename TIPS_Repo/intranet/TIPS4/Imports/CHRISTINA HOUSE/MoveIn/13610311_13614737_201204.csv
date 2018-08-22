@@ -1,0 +1,5 @@
+BATCH,,201204,B,1750.0000,
+INVOICE,IN,,13610311,,04/20/2012,1750.0000,"MoveIn-Brockman. Eula",,04/20/2012,04/20/2012,,13614737,3800.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,11,65.0000,715,"Basic Service Fee - Studio: Brockman. Eula",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Brockman. Eula",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Brockman. Eula",,,,,,,,,,,,,,,

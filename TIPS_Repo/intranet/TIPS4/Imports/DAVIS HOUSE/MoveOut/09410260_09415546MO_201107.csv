@@ -1,0 +1,7 @@
+BATCH,,201107,B,10800.0000,
+INVOICE,IN,,09410260,,07/29/2011,5220.0000,"Invoice-Private",,07/29/2011,07/29/2011,,09415546MO,-4805.4000,,,,,,,,,,
+TRANSACTION,3020,010107094,29,95.0000,2755.00,"G.Wilson: Basic Service Fee - Studio for Jul: Wilson, Gill",,,,,,,,,,,,,,,
+TRANSACTION,3037,010107094,29,85.0000,2465.00,"Private Care Rate Adjustments for Jul: Wilson, Gill",,,,,,,,,,,,,,,
+INVOICE,CM,,09410260,,07/29/2011,5580,"Invoice-Private",,07/29/2011,07/29/2011,,09415546MO,-4805.4000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2945,2945,"CR:G.Wilson: Basic... G.Wilson 201107: Wilson, Gill",,,,,,,,,,,,,,,
+TRANSACTION,3037,010107094,1,2635,2635,"CR:Private Care Ra... G.Wilson 201107: Wilson, Gill",,,,,,,,,,,,,,,

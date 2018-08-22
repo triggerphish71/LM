@@ -1,0 +1,8 @@
+BATCH,,201206,B,8062.0000,
+INVOICE,IN,,11210283,,06/23/2012,4042.0000,"Invoice-Private",,06/23/2012,06/23/2012,,11216050MO,-3165.0000,,,,,,,,,,
+TRANSACTION,3320,010310112,1,960.0000,960.00,"CR:Limited Term Di... J.Maher 201206: Maher, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310112,23,97.0000,2231.00,"Basic Service Fee - Studio for Jun: Maher, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,23,37.0000,851.00,"Resident Care - Level 2 for Jun: Maher, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,11210283,,06/23/2012,4020,"Invoice-Private",,06/23/2012,06/23/2012,,11216050MO,-3165.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,2910,2910,"CR:Basic Service F... J.Maher 201206: Maher, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1110,1110,"CR:Resident Care -... J.Maher 201206: Maher, Joyce",,,,,,,,,,,,,,,

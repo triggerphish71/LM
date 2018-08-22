@@ -1,0 +1,5 @@
+BATCH,,201306,B,3315.0000,
+INVOICE,IN,,06010253,,06/21/2013,1365.0000,"Invoice-Private",,06/21/2013,06/21/2013,,06014562MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,21,65.0000,1365.00,"Basic Service Fee - One Bedroom for Jun: Rowe, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,06010253,,06/21/2013,1950,"Invoice-Private",,06/21/2013,06/21/2013,,06014562MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1950,1950,"CR:Basic Service F... M.Rowe 201306: Rowe, Marjorie",,,,,,,,,,,,,,,

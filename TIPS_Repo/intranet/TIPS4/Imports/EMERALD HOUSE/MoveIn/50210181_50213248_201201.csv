@@ -1,0 +1,6 @@
+BATCH,,201201,B,4144.0000,
+INVOICE,IN,,50210181,,01/04/2012,4144.0000,"MoveIn-Fitzpatrick. Donna",,01/04/2012,01/04/2012,,50213248,4144.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,27,83.0000,2241,"Basic Service Fee - Studio: Fitzpatrick. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,27,14.0000,378,"Resident Care - Level 1: Fitzpatrick. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Fitzpatrick. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Fitzpatrick. Donna",,,,,,,,,,,,,,,

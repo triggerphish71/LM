@@ -1,0 +1,5 @@
+BATCH,,201207,B,3716.0000,
+INVOICE,IN,,03410295,,07/01/2012,3716.0000,"July_Rent-Odom. Jack",,07/01/2012,07/10/2012,,03415599,5481.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,31,96.0000,2976,"Basic Service Fee - Studio: Odom. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,31,23.0000,713,"Resident Care - Level 2: Odom. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Odom. Jack",,,,,,,,,,,,,,,

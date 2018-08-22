@@ -1,0 +1,6 @@
+BATCH,,201303,B,3552.0000,
+INVOICE,IN,,01710142,,03/01/2013,1200.0000,"Invoice-Private",,03/01/2013,03/10/2013,,01713934MO,-1152.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,16,75.0000,1200.00,"Basic Service Fee - Studio for Mar: Carraway, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,01710142,,03/01/2013,2352,"Invoice-Private",,03/01/2013,03/10/2013,,01713934MO,-1152.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2325,2325,"CR:Basic Service F... B.Carraway 201303: Carraway, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... B.Carraway 201303: Carraway, Bonnie",,,,,,,,,,,,,,,

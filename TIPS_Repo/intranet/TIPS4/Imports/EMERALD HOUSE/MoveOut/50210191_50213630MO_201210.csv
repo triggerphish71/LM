@@ -1,0 +1,7 @@
+BATCH,,201210,B,4680.0000,
+INVOICE,IN,,50210191,,10/01/2012,1053.0000,"Invoice-Private",,10/01/2012,10/01/2012,,50213630MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,9,26.0000,234.00,"Resident Care - Level 2 for Oct: Hoosier, Archie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,9,91.0000,819.00,"Room and Board - Studio Deluxe for Oct: Hoosier, Archie",,,,,,,,,,,,,,,
+INVOICE,CM,,50210191,,10/01/2012,3627,"Invoice-Private",,10/01/2012,10/01/2012,,50213630MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,1,806,806,"CR:Resident Care -... A.Hoosier 201210: Hoosier, Archie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2821,2821,"CR:Room and Board ... A.Hoosier 201210: Hoosier, Archie",,,,,,,,,,,,,,,

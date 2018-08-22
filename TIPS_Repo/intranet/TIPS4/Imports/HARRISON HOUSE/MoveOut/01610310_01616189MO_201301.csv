@@ -1,0 +1,7 @@
+BATCH,,201301,B,5138.3500,
+INVOICE,IN,,01610310,,01/16/2013,2044.3500,"Invoice-Private",,01/16/2013,01/16/2013,,01616189MO,-3430.8500,,,,,,,,,,
+TRANSACTION,3316,010202016,1,460.3500,460.35,"CR:Employee Discou... H.Russell 201301: Russell, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202016,16,99.0000,1584.00,"Basic Service Fee - One Bedroom for Jan: Russell, Hollis",,,,,,,,,,,,,,,
+INVOICE,CM,,01610310,,01/16/2013,3094,"Invoice-Private",,01/16/2013,01/16/2013,,01616189MO,-3430.8500,,,,,,,,,,
+TRANSACTION,3020,010202016,1,3069,3069,"CR:Basic Service F... H.Russell 201301: Russell, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... H.Russell 201301: Russell, Hollis",,,,,,,,,,,,,,,

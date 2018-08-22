@@ -1,0 +1,8 @@
+BATCH,,201307,B,3835.0000,
+INVOICE,IN,,13610360,,07/11/2013,900.0000,"Invoice-Private",,07/11/2013,07/11/2013,,13615817MO,-2035.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,9,85.0000,765.00,"Basic Service Fee- One Bedroom Premium for Jul: Richardson, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,9,15.0000,135.00,"Resident Care - Level 1 for Jul: Richardson, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,13610360,,07/11/2013,2935,"Invoice-Private",,07/11/2013,07/11/2013,,13615817MO,-2035.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2465,2465,"CR:Basic Service F... B.Richardson 201307: Richardson, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... B.Richardson 201307: Richardson, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,435,435,"CR:Resident Care -... B.Richardson 201307: Richardson, Barbara",,,,,,,,,,,,,,,

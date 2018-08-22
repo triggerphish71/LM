@@ -1,0 +1,8 @@
+BATCH,,201207,B,5242.0000,
+INVOICE,IN,,03410272,,07/04/2012,596.0000,"Invoice-Private",,07/04/2012,07/04/2012,,03415603MO,-4050.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,4,96.0000,384.00,"Basic Service Fee - Studio for Jul: Fontenot, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,4,53.0000,212.00,"Resident Care - Level 5 for Jul: Fontenot, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,03410272,,07/04/2012,4646,"Invoice-Private",,07/04/2012,07/04/2012,,03415603MO,-4050.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... H.Fontenot 201207: Fontenot, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... H.Fontenot 201207: Fontenot, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,1643,1643,"CR:Resident Care -... H.Fontenot 201207: Fontenot, Harold",,,,,,,,,,,,,,,

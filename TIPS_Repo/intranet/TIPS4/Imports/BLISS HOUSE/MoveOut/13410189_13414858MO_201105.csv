@@ -1,0 +1,7 @@
+BATCH,,201105,B,6050.0000,
+INVOICE,IN,,13410189,,05/19/2011,2299.0000,"Invoice-Private",,05/19/2011,05/19/2011,,13414858MO,-5082.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,19,89.0000,1691.00,"Basic Service Fee - Studio for May: Eckman, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,19,32.0000,608.00,"Resident Care - Level 2 for May: Eckman, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,13410189,,05/19/2011,3751,"Invoice-Private",,05/19/2011,05/19/2011,,13414858MO,-5082.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2759,2759,"CR:Basic Service F... E.Eckman 201105: Eckman, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,992,992,"CR:Resident Care -... E.Eckman 201105: Eckman, Elizabeth",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,2666.0000,
+INVOICE,IN,,10710368,,01/01/2013,1333.0000,"Invoice-Private",,01/01/2013,01/10/2013,,10716501MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,31,43.0000,1333.00,"Credit for Limited Term Discount: Lynn, Theodore",,,,,,,,,,,,,,,
+INVOICE,CM,,10710368,,01/01/2013,1333,"Invoice-Private",,01/01/2013,01/10/2013,,10716501MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,31,43,1333,"Limited Term Discount: Lynn, Theodore",,,,,,,,,,,,,,,

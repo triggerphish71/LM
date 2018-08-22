@@ -1,0 +1,6 @@
+BATCH,,201107,B,4842.0000,
+INVOICE,IN,,53010087,,07/01/2011,1764.0000,"Invoice-Private",,07/01/2011,07/10/2011,,53015177MO,-1314.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,18,98.0000,1764.00,"Basic Service Fee - One Bedroom for Jul: Leonhardt, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,53010087,,07/01/2011,3078,"Invoice-Private",,07/01/2011,07/10/2011,,53015177MO,-1314.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3038,3038,"CR:Basic Service F... H.Leonhardt 201107: Leonhardt, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... H.Leonhardt 201107: Leonhardt, Herbert",,,,,,,,,,,,,,,

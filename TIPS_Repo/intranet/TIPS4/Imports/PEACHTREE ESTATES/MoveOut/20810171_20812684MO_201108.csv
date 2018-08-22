@@ -1,0 +1,8 @@
+BATCH,,201108,B,4839.0000,
+INVOICE,IN,,20810171,,08/07/2011,2204.0000,"Invoice-Private",,08/07/2011,08/07/2011,,20812684MO,-2411.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,589.0000,589.00,"CR:Limited Term Di... B.Sword 201108: Sword, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,19,11.0000,209.00,"Resident Care - Level 1 for Aug: Sword, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,19,74.0000,1406.00,"Studio for Aug: Sword, Bobby",,,,,,,,,,,,,,,
+INVOICE,CM,,20810171,,08/07/2011,2635,"Invoice-Private",,08/07/2011,08/07/2011,,20812684MO,-2411.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,341,341,"CR:Resident Care -... B.Sword 201108: Sword, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2294,2294,"CR:Studio... B.Sword 201108: Sword, Bobby",,,,,,,,,,,,,,,

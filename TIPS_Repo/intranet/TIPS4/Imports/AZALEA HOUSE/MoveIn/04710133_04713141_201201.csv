@@ -1,0 +1,6 @@
+BATCH,,201201,B,1477.0000,
+INVOICE,IN,,04710133,,01/28/2012,1477.0000,"MoveIn-Barham. James",,01/28/2012,01/28/2012,,04713141,4779.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,4,96.0000,384,"Basic Service Fee - Studio         : Barham. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,4,17.0000,68,"Resident Care - Level 1: Barham. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Barham. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Barham. James",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,1840.0000,
+INVOICE,IN,,09310243,,03/01/2013,600.0000,"Invoice-Private",,03/01/2013,03/10/2013,,09315751MO,-640.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,15,40.0000,600.00,"Basic Service Fee - Second Resident for Mar: Ginnever, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,09310243,,03/01/2013,1240,"Invoice-Private",,03/01/2013,03/10/2013,,09315751MO,-640.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,1240,1240,"CR:Basic Service F... C.Ginnever 201303: Ginnever, Carol",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,70.0000,
+INVOICE,IN,,15410198,,03/01/2012,35.0000,"Invoice-Private",,03/01/2012,03/10/2012,,15414769MO,-506.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Heimann, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,15410198,,03/01/2012,35,"Invoice-Private",,03/01/2012,03/10/2012,,15414769MO,-506.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Heimann, Arlene",,,,,,,,,,,,,,,

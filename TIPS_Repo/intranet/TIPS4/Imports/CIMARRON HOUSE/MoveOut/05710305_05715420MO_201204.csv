@@ -1,0 +1,5 @@
+BATCH,,201204,B,840.0000,
+INVOICE,IN,,05710305,,04/01/2012,420.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05715420MO,-2543.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,30,14.0000,420.00,"Credit for Limited Term Discount: Howell, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,05710305,,04/01/2012,420,"Invoice-Private",,04/01/2012,04/10/2012,,05715420MO,-2543.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,30,14,420,"Limited Term Discount: Howell, Lawrence",,,,,,,,,,,,,,,

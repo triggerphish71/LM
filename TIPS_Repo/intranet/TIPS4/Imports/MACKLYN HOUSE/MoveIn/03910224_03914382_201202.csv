@@ -1,0 +1,8 @@
+BATCH,,201202,B,7798.7000,
+INVOICE,IN,,03910224,,01/31/2012,2193.2900,"MoveIn-Sirrine. Kent",,01/31/2012,01/31/2012,,03914382,7798.7000,,,,,,,,,,
+TRANSACTION,3014,010101039,1,102.0000,102,"K.Sirrine: Basic Service Fee - One Bedroom: Sirrine. Kent",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,1,91.2900,91.29,"K.Sirrine: Resident Care - Level 51: Sirrine. Kent",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Sirrine. Kent",,,,,,,,,,,,,,,
+INVOICE,IN,,03910224,,02/01/2012,5605.4100,"February_Rent-Sirrine. Kent",,02/01/2012,02/10/2012,,03914382,7798.7000,,,,,,,,,,
+TRANSACTION,3010,010101039,29,102.0000,2958,"K.Sirrine: Basic Service Fee - One Bedroom: Sirrine. Kent",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,29,91.2900,2647.41,"K.Sirrine: Resident Care - Level 51: Sirrine. Kent",,,,,,,,,,,,,,,

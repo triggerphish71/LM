@@ -1,0 +1,7 @@
+BATCH,,201106,B,4267.8800,
+INVOICE,IN,,0120980,,06/01/2011,2133.9400,"Invoice-Medicaid",,06/01/2011,06/10/2011,,01213594MO,-5414.2500,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Kofler, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103012,1,2104.9400,2104.94,"State Medicaid: Kofler, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,0120980,,06/01/2011,2133.94,"Invoice-Medicaid",,06/01/2011,06/10/2011,,01213594MO,-5414.2500,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Kofler, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103012,1,2104.94,2104.94,"Credit for State Medicaid: Kofler, Dorothy",,,,,,,,,,,,,,,

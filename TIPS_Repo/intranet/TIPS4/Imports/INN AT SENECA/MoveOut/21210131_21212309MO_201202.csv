@@ -1,0 +1,8 @@
+BATCH,,201202,B,2126.0000,
+INVOICE,IN,,21210131,,02/05/2012,560.0000,"Invoice-Private",,02/05/2012,02/05/2012,,21212309MO,-1006.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,290.0000,290.00,"CR:Limited Term Di... A.Sutterlin 201202: Sutterlin, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,5,32.0000,160.00,"Basic Service Fee - Second Resident for Feb: Sutterlin, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,5,22.0000,110.00,"Resident Care - Level 2 for Feb: Sutterlin, Alfred",,,,,,,,,,,,,,,
+INVOICE,CM,,21210131,,02/05/2012,1566,"Invoice-Private",,02/05/2012,02/05/2012,,21212309MO,-1006.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,1,928,928,"CR:Basic Service F... A.Sutterlin 201202: Sutterlin, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,638,638,"CR:Resident Care -... A.Sutterlin 201202: Sutterlin, Alfred",,,,,,,,,,,,,,,

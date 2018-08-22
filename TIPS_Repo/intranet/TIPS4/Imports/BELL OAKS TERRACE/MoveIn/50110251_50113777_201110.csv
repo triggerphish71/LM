@@ -1,0 +1,5 @@
+BATCH,,201110,B,2630.0000,
+INVOICE,IN,,50110251,,10/21/2011,2630.0000,"MoveIn-Fisher. John",,10/21/2011,10/21/2011,,50113777,5660.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,11,100.0000,1100,"Basic Service Fee - One Bedroom: Fisher. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Fisher. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Fisher. John",,,,,,,,,,,,,,,

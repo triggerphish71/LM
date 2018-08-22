@@ -1,0 +1,8 @@
+BATCH,,201109,B,5943.0000,
+INVOICE,IN,,50110220,,09/27/2011,2973.0000,"Invoice-Private",,09/27/2011,09/27/2011,,50113716MO,-2756.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,300.0000,300.00,"CR:Limited Term Di... J.Brown 201109: Brown, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,27,84.0000,2268.00,"Basic Service Fee - Studio for Sep: Brown, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,27,15.0000,405.00,"Resident Care - Level 1 for Sep: Brown, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,50110220,,09/27/2011,2970,"Invoice-Private",,09/27/2011,09/27/2011,,50113716MO,-2756.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2520,2520,"CR:Basic Service F... J.Brown 201109: Brown, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,450,450,"CR:Resident Care -... J.Brown 201109: Brown, Joseph",,,,,,,,,,,,,,,

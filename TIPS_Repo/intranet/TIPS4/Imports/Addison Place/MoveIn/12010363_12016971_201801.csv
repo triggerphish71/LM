@@ -1,0 +1,7 @@
+BATCH,,201801,B,7507.4000,
+INVOICE,IN,,12010363,,01/15/2018,7507.4000,"MoveIn-Murray. Hershel",,01/15/2018,01/15/2018,,12016971,7507.4000,,,,,,,,,,
+TRANSACTION,3010,010009120,20,86.0000,1720,"Basic Service Fee - Studio: Murray. Hershel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009120,17,31.0000,527,"Resident Care - Level 2: Murray. Hershel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6000,31.6,"Monthly Cable: Murray. Hershel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2614.4000,2614.4,"Community Fee: Murray. Hershel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2614.4000,2614.4,"Monthly Deferral Charge: Murray. Hershel",,,,,,,,,,,,,,,

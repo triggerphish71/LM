@@ -1,0 +1,6 @@
+BATCH,,201207,B,6045.0000,
+INVOICE,IN,,04710136,,07/01/2012,1426.0000,"Invoice-Private",,07/01/2012,07/10/2012,,04713216MO,-2707.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,1,1426.0000,1426.00,"CR:Limited Term Di... A.Ballow 201207: Ballow, Adelle",,,,,,,,,,,,,,,
+INVOICE,CM,,04710136,,07/01/2012,4619,"Invoice-Private",,07/01/2012,07/10/2012,,04713216MO,-2707.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2976,2976,"CR:Basic Service F... A.Ballow 201207: Ballow, Adelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,1643,1643,"CR:Resident Care -... A.Ballow 201207: Ballow, Adelle",,,,,,,,,,,,,,,

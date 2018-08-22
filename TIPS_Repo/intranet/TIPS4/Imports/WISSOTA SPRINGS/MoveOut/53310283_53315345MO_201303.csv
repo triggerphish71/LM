@@ -1,0 +1,7 @@
+BATCH,,201303,B,2226.0000,
+INVOICE,IN,,53310283,,03/12/2013,648.0000,"Invoice-Private",,03/12/2013,03/12/2013,,53315345MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,12,38.0000,456.00,"J.Englert: Basic Service Fee - Second Resident : Englert, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,12,16.0000,192.00,"Resident Care Level Change for Mar: Englert, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53310283,,03/12/2013,1578,"Invoice-Private",,03/12/2013,03/12/2013,,53315345MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1178,1178,"CR:J.Englert: Basi... J.Englert 201303: Englert, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,400,400,"CR:Resident Care L... J.Englert 201303: Englert, John",,,,,,,,,,,,,,,

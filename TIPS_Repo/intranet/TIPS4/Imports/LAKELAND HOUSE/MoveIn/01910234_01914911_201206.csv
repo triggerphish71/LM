@@ -1,0 +1,5 @@
+BATCH,,201206,B,6100.0000,
+INVOICE,IN,,01910234,,06/02/2012,6100.0000,"MoveIn-Harris. Barbara",,06/02/2012,06/02/2012,,01914911,6100.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,29,95.0000,2755,"Basic Service Fee - Studio: Harris. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,29,55.0000,1595,"Resident Care - Level 4: Harris. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202019,1,1750.0000,1750,"New Resident Fee: Harris. Barbara",,,,,,,,,,,,,,,

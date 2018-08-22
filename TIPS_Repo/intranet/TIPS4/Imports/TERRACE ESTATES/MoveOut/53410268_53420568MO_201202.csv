@@ -1,0 +1,8 @@
+BATCH,,201202,B,4847.0000,
+INVOICE,IN,,53410268,,02/22/2012,2128.0000,"Invoice-Private",,02/22/2012,02/22/2012,,53420568MO,-3492.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,28,76.0000,2128.00,"Basic Service Fee - One Bedroom for Feb: Zimmermann, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,53410268,,02/22/2012,2719,"Invoice-Private",,02/22/2012,02/22/2012,,53420568MO,-3492.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2204,2204,"CR:Basic Service F... E.Zimmermann 201202: Zimmermann, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3211,010319534,1,50,50,"CR:Laundry... E.Zimmermann 201202: Zimmermann, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... E.Zimmermann 201202: Zimmermann, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319534,1,435,435,"CR:Resident Meals... E.Zimmermann 201202: Zimmermann, Eileen",,,,,,,,,,,,,,,

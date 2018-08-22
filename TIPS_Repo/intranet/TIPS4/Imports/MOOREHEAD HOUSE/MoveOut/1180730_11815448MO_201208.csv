@@ -1,0 +1,8 @@
+BATCH,,201208,B,6634.0000,
+INVOICE,IN,,1180730,,08/11/2012,1727.0000,"Invoice-Private",,08/11/2012,08/11/2012,,11815448MO,-3180.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,11,96.0000,1056.00,"Basic Service Fee - Studio for Aug: Shearer, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,11,61.0000,671.00,"Resident Care - Level 4 for Aug: Shearer, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,1180730,,08/11/2012,4907,"Invoice-Private",,08/11/2012,08/11/2012,,11815448MO,-3180.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2976,2976,"CR:Basic Service F... J.Shearer 201208: Shearer, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... J.Shearer 201208: Shearer, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1891,1891,"CR:Resident Care -... J.Shearer 201208: Shearer, Jean",,,,,,,,,,,,,,,

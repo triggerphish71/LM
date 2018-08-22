@@ -1,0 +1,7 @@
+BATCH,,201111,B,4064.0000,
+INVOICE,IN,,19210200,,11/02/2011,254.0000,"Invoice-Private",,11/02/2011,11/02/2011,,19214925MO,-3556.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,2,109.0000,218.00,"Basic Service Fee - Studio for Nov: Grenard, Byron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,2,18.0000,36.00,"Resident Care - Level 1 for Nov: Grenard, Byron",,,,,,,,,,,,,,,
+INVOICE,CM,,19210200,,11/02/2011,3810,"Invoice-Private",,11/02/2011,11/02/2011,,19214925MO,-3556.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3270,3270,"CR:Basic Service F... B.Grenard 201111: Grenard, Byron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,540,540,"CR:Resident Care -... B.Grenard 201111: Grenard, Byron",,,,,,,,,,,,,,,

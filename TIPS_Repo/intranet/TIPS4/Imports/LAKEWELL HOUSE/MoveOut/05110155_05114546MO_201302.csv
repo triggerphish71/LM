@@ -1,0 +1,5 @@
+BATCH,,201302,B,1400.0000,
+INVOICE,IN,,05110155,,02/01/2013,700.0000,"Invoice-Private",,02/01/2013,02/10/2013,,05114546MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3320,010202051,28,25.0000,700.00,"Credit for Limited Term Discount: Green, Tommie",,,,,,,,,,,,,,,
+INVOICE,CM,,05110155,,02/01/2013,700,"Invoice-Private",,02/01/2013,02/10/2013,,05114546MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3320,010202051,28,25,700,"Limited Term Discount: Green, Tommie",,,,,,,,,,,,,,,

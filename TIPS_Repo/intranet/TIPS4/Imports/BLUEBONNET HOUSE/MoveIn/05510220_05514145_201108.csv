@@ -1,0 +1,5 @@
+BATCH,,201108,B,3375.0000,
+INVOICE,IN,,05510220,,08/01/2011,3375.0000,"August_Rent-Boughton. Patricia",,08/01/2011,08/10/2011,,05514145,6414.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,31,92.0000,2852,"Basic Service Fee - Studio         : Boughton. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,31,16.0000,496,"Resident Care - Level 1: Boughton. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Boughton. Patricia",,,,,,,,,,,,,,,

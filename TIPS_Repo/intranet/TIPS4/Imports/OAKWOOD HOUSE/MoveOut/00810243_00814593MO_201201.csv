@@ -1,0 +1,8 @@
+BATCH,,201201,B,9547.0000,
+INVOICE,IN,,00810243,,12/23/2011,2576.0000,"Invoice-Private",,12/23/2011,12/23/2011,,00814593MO,-7670.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,23,112.0000,2576.00,"Basic Service Fee - One Bedroom for Dec: Adams, Alta",,,,,,,,,,,,,,,
+INVOICE,CM,,00810243,,12/23/2011,3499,"Invoice-Private",,12/23/2011,12/23/2011,,00814593MO,-7670.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,3472,3472,"CR:Basic Service F... A.Adams 201112: Adams, Alta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... A.Adams 201112: Adams, Alta",,,,,,,,,,,,,,,
+INVOICE,CM,,00810243,,01/01/2012,3472,"Invoice-Private",,01/01/2012,01/10/2012,,00814593MO,-7670.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,3472,3472,"CR:Basic Service F... A.Adams 201201: Adams, Alta",,,,,,,,,,,,,,,

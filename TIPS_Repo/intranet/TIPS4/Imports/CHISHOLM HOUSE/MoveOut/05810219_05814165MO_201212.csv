@@ -1,0 +1,7 @@
+BATCH,,201212,B,3039.0000,
+INVOICE,IN,,05810219,,12/04/2012,472.0000,"Invoice-Private",,12/04/2012,12/04/2012,,05814165MO,-2095.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,1,62.0000,62.00,"CR:Limited Term Di... N.Hector 201212: Hector, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,5,82.0000,410.00,"Basic Service Fee - Studio for Dec: Hector, Nelson",,,,,,,,,,,,,,,
+INVOICE,CM,,05810219,,12/04/2012,2567,"Invoice-Private",,12/04/2012,12/04/2012,,05814165MO,-2095.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... N.Hector 201212: Hector, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... N.Hector 201212: Hector, Nelson",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201112,B,5058.0000,
+INVOICE,IN,,04210142,,12/06/2011,1032.0000,"Invoice-Private",,12/06/2011,12/06/2011,,04213830MO,-2994.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,8,96.0000,768.00,"Basic Service Fee - Studio for Dec: McBroom, O.A.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,8,33.0000,264.00,"Resident Care - Level 2 for Dec: McBroom, O.A.",,,,,,,,,,,,,,,
+INVOICE,CM,,04210142,,12/06/2011,4026,"Invoice-Private",,12/06/2011,12/06/2011,,04213830MO,-2994.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2976,2976,"CR:Basic Service F... O.McBroom 201112: McBroom, O.A.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... O.McBroom 201112: McBroom, O.A.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1023,1023,"CR:Resident Care -... O.McBroom 201112: McBroom, O.A.",,,,,,,,,,,,,,,

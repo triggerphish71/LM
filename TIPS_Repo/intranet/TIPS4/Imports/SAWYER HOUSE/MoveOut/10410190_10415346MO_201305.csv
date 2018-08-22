@@ -1,0 +1,7 @@
+BATCH,,201305,B,4064.4000,
+INVOICE,IN,,10410190,,05/01/2013,564.5000,"Invoice-Private",,05/01/2013,05/10/2013,,10415346MO,-2935.4000,,,,,,,,,,
+TRANSACTION,3020,010101104,5,87.0000,435.00,"Basic Service Fee - Studio for May: McPherson, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,5,25.9000,129.50,"Resident Care - Level 14 for May: McPherson, June",,,,,,,,,,,,,,,
+INVOICE,CM,,10410190,,05/01/2013,3499.9,"Invoice-Private",,05/01/2013,05/10/2013,,10415346MO,-2935.4000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2697,2697,"CR:Basic Service F... J.McPherson 201305: McPherson, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,802.9,802.9,"CR:Resident Care -... J.McPherson 201305: McPherson, June",,,,,,,,,,,,,,,

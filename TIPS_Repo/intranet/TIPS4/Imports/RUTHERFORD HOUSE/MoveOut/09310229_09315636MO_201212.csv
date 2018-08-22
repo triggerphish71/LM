@@ -1,0 +1,7 @@
+BATCH,,201212,B,7567.0000,
+INVOICE,IN,,09310229,,12/14/2012,2576.0000,"Invoice-Private",,12/14/2012,12/14/2012,,09315636MO,-7406.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,16,113.0000,1808.00,"Basic Service Fee - Deluxe for Dec: Fiber, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,16,48.0000,768.00,"Resident Care - Level 3 for Dec: Fiber, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,09310229,,12/14/2012,4991,"Invoice-Private",,12/14/2012,12/14/2012,,09315636MO,-7406.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3503,3503,"CR:Basic Service F... M.Fiber 201212: Fiber, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1488,1488,"CR:Resident Care -... M.Fiber 201212: Fiber, Marjorie",,,,,,,,,,,,,,,

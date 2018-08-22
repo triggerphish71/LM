@@ -1,0 +1,5 @@
+BATCH,,201207,B,3375.0000,
+INVOICE,IN,,06410184,,07/06/2012,3375.0000,"MoveIn-Wood. Jeanne",,07/06/2012,07/06/2012,,06413674,3375.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,26,90.0000,2340,"Basic Service Fee - Studio: Wood. Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Wood. Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305064,1,1000.0000,1000,"New Resident Fee: Wood. Jeanne",,,,,,,,,,,,,,,

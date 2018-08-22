@@ -1,0 +1,5 @@
+BATCH,,201211,B,4308.0000,
+INVOICE,IN,,02910348,,11/07/2012,4308.0000,"MoveIn-Serdhal. Wilma",,11/07/2012,11/07/2012,,02915862,4308.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,24,100.0000,2400,"Basic Service Fee - Studio: Serdhal. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,24,17.0000,408,"Resident Care - Level 1: Serdhal. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Serdhal. Wilma",,,,,,,,,,,,,,,

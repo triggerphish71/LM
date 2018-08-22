@@ -1,0 +1,7 @@
+BATCH,,201201,B,866.0000,
+INVOICE,IN,,13110259,,01/01/2012,433.0000,"Invoice-Private",,01/01/2012,01/10/2012,,13114112MO,-1743.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30.0000,30.00,"Pendant Fee: Zeman, Jennette",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308131,31,13.0000,403.00,"Credit for Limited Term Discount: Zeman, Jennette",,,,,,,,,,,,,,,
+INVOICE,CM,,13110259,,01/01/2012,433,"Invoice-Private",,01/01/2012,01/10/2012,,13114112MO,-1743.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30,30,"Credit for Pendant Fee: Zeman, Jennette",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308131,31,13,403,"Limited Term Discount: Zeman, Jennette",,,,,,,,,,,,,,,

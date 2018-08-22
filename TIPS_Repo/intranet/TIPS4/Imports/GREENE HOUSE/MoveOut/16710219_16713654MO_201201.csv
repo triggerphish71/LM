@@ -1,0 +1,5 @@
+BATCH,,201201,B,1116.0000,
+INVOICE,IN,,16710219,,01/01/2012,558.0000,"Invoice-Private",,01/01/2012,01/10/2012,,16713654MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,31,18.0000,558.00,"Credit for Limited Term Discount: Luebbe, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,16710219,,01/01/2012,558,"Invoice-Private",,01/01/2012,01/10/2012,,16713654MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,31,18,558,"Limited Term Discount: Luebbe, Elsie",,,,,,,,,,,,,,,

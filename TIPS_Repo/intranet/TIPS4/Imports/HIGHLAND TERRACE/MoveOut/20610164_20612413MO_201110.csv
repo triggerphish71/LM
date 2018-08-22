@@ -1,0 +1,7 @@
+BATCH,,201110,B,5782.0000,
+INVOICE,IN,,20610164,,10/28/2011,2744.0000,"Invoice-Private",,10/28/2011,10/28/2011,,20612413MO,-3234.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,28,11.0000,308.00,"Resident Care - Level 1 for Oct: Coppola, Carmen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,28,87.0000,2436.00,"Studio for Oct: Coppola, Carmen",,,,,,,,,,,,,,,
+INVOICE,CM,,20610164,,10/28/2011,3038,"Invoice-Private",,10/28/2011,10/28/2011,,20612413MO,-3234.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... C.Coppola 201110: Coppola, Carmen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Studio... C.Coppola 201110: Coppola, Carmen",,,,,,,,,,,,,,,

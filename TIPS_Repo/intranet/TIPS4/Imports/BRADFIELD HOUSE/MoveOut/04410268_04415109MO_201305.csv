@@ -1,0 +1,8 @@
+BATCH,,201305,B,3580.0000,
+INVOICE,IN,,04410268,,05/19/2013,1349.0000,"Invoice-Private",,05/19/2013,05/19/2013,,04415109MO,-3042.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,19,55.0000,1045.00,"Basic Service Fee - Studio for May: Holland, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,19,16.0000,304.00,"Resident Care - Level 1 for May: Holland, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,04410268,,05/19/2013,2231,"Invoice-Private",,05/19/2013,05/19/2013,,04415109MO,-3042.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1705,1705,"CR:Basic Service F... W.Holland 201305: Holland, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202044,1,30,30,"CR:Pendant Fee... W.Holland 201305: Holland, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496,496,"CR:Resident Care -... W.Holland 201305: Holland, Willie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201307,B,5210.0000,
+INVOICE,IN,,15110109,,07/14/2013,1610.0000,"Invoice-Private",,07/14/2013,07/14/2013,,15114341MO,-5590.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,14,100.0000,1400.00,"Basic Service Fee - One Bedroom for Jul: Barnholdt, Ruth Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,14,15.0000,210.00,"Swan Personal Care - L1 for Jul: Barnholdt, Ruth Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,15110109,,07/14/2013,3600,"Invoice-Private",,07/14/2013,07/14/2013,,15114341MO,-5590.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,3100,3100,"CR:Basic Service F... R.Barnholdt 201307: Barnholdt, Ruth Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... R.Barnholdt 201307: Barnholdt, Ruth Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,465,465,"CR:Swan Personal C... R.Barnholdt 201307: Barnholdt, Ruth Virginia",,,,,,,,,,,,,,,

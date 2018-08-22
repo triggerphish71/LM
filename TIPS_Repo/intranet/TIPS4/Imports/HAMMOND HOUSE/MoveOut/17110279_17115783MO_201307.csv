@@ -1,0 +1,8 @@
+BATCH,,201307,B,3568.0000,
+INVOICE,IN,,17110279,,07/01/2013,50.0000,"Invoice-Private",,07/01/2013,07/10/2013,,17115783MO,-3606.0000,,,,,,,,,,
+TRANSACTION,3150,010308171,1,50.0000,50.00,"Late Fee Adjustment: Herron, AH",,,,,,,,,,,,,,,
+INVOICE,CM,,17110279,,07/01/2013,3518,"Invoice-Private",,07/01/2013,07/10/2013,,17115783MO,-3606.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... A.Herron 201307: Herron, AH",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... A.Herron 201307: Herron, AH",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,527,527,"CR:Resident Care -... A.Herron 201307: Herron, AH",,,,,,,,,,,,,,,
+TRANSACTION,3150,010308171,1,50,50,"Late Fee Adjustment: Herron, AH",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201707,B,587.0000,
+INVOICE,IN,,34000138,,07/21/2017,587.0000,"MoveIn-Parker. Peter 2",,07/21/2017,07/21/2017,,34010875,587.0000,,,,,,,,,,
+TRANSACTION,3010,070010340,11,35.0000,385,"Second resident: Parker. Peter 2",,,,,,,,,,,,,,,
+TRANSACTION,3017,070010340,11,17.0000,187,"Resident Care - Level 1: Parker. Peter 2",,,,,,,,,,,,,,,
+TRANSACTION,3213,070010340,1,15.0000,15,"Pet Fee: Parker. Peter 2",,,,,,,,,,,,,,,

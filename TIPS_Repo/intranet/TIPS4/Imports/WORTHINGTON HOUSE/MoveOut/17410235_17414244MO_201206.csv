@@ -1,0 +1,5 @@
+BATCH,,201206,B,900.0000,
+INVOICE,IN,,17410235,,06/01/2012,450.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17414244MO,-1910.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,30,15.0000,450.00,"Credit for Limited Term Discount: Ogden, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,17410235,,06/01/2012,450,"Invoice-Private",,06/01/2012,06/10/2012,,17414244MO,-1910.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,30,15,450,"Limited Term Discount: Ogden, Carol",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201307,B,6136.0000,
+INVOICE,IN,,02110201,,07/01/2013,2912.0000,"Invoice-Private",,07/01/2013,07/10/2013,,02115381MO,-312.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,28,60.0000,1680.00,"Basic Service Fee - Studio for Jul: Wallace, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,28,44.0000,1232.00,"Resident Care - Level 3 for Jul: Wallace, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,02110201,,07/01/2013,3224,"Invoice-Private",,07/01/2013,07/10/2013,,02115381MO,-312.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,1860,1860,"CR:Basic Service F... B.Wallace 201307: Wallace, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,1364,1364,"CR:Resident Care -... B.Wallace 201307: Wallace, Bessie",,,,,,,,,,,,,,,

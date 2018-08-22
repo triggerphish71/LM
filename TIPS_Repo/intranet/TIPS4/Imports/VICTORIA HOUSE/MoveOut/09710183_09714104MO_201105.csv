@@ -1,0 +1,8 @@
+BATCH,,201105,B,3130.8000,
+INVOICE,IN,,09710183,,05/01/2011,157.9000,"Invoice-Private",,05/01/2011,05/01/2011,,09714104MO,-2815.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,62.0000,62.00,"CR:Limited Term Di... M.Bimel 201105: Bimel, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,1,84.0000,84.00,"Basic Service Fee - Studio for May: Bimel, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,11.9000,11.90,"Resident Care - Level 7 for May: Bimel, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,09710183,,05/01/2011,2972.9,"Invoice-Private",,05/01/2011,05/01/2011,,09714104MO,-2815.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2604,2604,"CR:Basic Service F... M.Bimel 201105: Bimel, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,368.9,368.9,"CR:Resident Care -... M.Bimel 201105: Bimel, Margaret",,,,,,,,,,,,,,,

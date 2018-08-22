@@ -1,0 +1,7 @@
+BATCH,,201107,B,47532.0000,
+INVOICE,IN,,52610295,,07/15/2011,3450.0000,"Invoice-Respite",,07/15/2011,07/15/2011,,52616102MO,-40632.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,15,97.2000,1458.00,"Basic Service Fee- Respite One Bedr for Jul: Ingalls, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,15,94.8000,1422.00,"Basic Service Fee- Respite One Bedr for Jul: Ingalls, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,15,38.0000,570.00,"Resident Care - Level 1 for Jul: Ingalls, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,52610295,,07/15/2011,44082,"Invoice-Respite",,07/15/2011,07/15/2011,,52616102MO,-40632.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,15,2938.8,44082,"Basic Service Fee- Respite One Bedr for Jul: Ingalls, Keith",,,,,,,,,,,,,,,

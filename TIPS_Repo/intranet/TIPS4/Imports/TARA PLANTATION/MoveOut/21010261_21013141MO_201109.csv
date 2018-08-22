@@ -1,0 +1,7 @@
+BATCH,,201109,B,4725.0000,
+INVOICE,IN,,21010261,,09/02/2011,115.0000,"Invoice-Private",,09/02/2011,09/02/2011,,21013141MO,-4495.0000,,,,,,,,,,
+TRANSACTION,3020,010216210,1,115.0000,115.00,"Two Bedroom for Sep: Hendrix, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,21010261,,09/02/2011,4610,"Invoice-Private",,09/02/2011,09/02/2011,,21013141MO,-4495.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... B.Hendrix 201109: Hendrix, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216210,1,1250,1250,"CR:New Resident Fe... B.Hendrix 201109: Hendrix, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,3335,3335,"CR:Two Bedroom... B.Hendrix 201109: Hendrix, Billy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,8786.0000,
+INVOICE,IN,,11210268,,01/15/2012,2865.0000,"Invoice-Private",,01/15/2012,01/15/2012,,11215787MO,-3056.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,15,97.0000,1455.00,"Basic Service Fee - Studio for Jan: Pollock, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,15,94.0000,1410.00,"Resident Care - Level 6 for Jan: Pollock, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,11210268,,01/15/2012,5921,"Invoice-Private",,01/15/2012,01/15/2012,,11215787MO,-3056.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3007,3007,"CR:Basic Service F... M.Pollock 201201: Pollock, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,2914,2914,"CR:Resident Care -... M.Pollock 201201: Pollock, Michael",,,,,,,,,,,,,,,

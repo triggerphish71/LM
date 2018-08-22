@@ -1,0 +1,5 @@
+BATCH,,201202,B,2746.9000,
+INVOICE,IN,,10410257,,02/20/2012,2746.9000,"MoveIn-Hansen. Leroy",,02/20/2012,02/20/2012,,10414686,5062.2900,,,,,,,,,,
+TRANSACTION,3010,010101104,10,55.0000,550,"Basic Service Fee - Studio: Hansen. Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101104,10,19.6900,196.9,"Resident Care - Level 11: Hansen. Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000.0000,2000,"New Resident Fee: Hansen. Leroy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201206,B,6144.0000,
+INVOICE,IN,,16110244,,06/18/2012,2304.0000,"Invoice-Private",,06/18/2012,06/18/2012,,16115507MO,-5504.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,18,114.0000,2052.00,"Basic Service Fee - One Bedroom for Jun: Bourgeois, Virginia Tipton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,18,14.0000,252.00,"Resident Care - Level 1 for Jun: Bourgeois, Virginia Tipton",,,,,,,,,,,,,,,
+INVOICE,CM,,16110244,,06/18/2012,3840,"Invoice-Private",,06/18/2012,06/18/2012,,16115507MO,-5504.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,3420,3420,"CR:Basic Service F... V.Bourgeois 201206: Bourgeois, Virginia Tipton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,420,420,"CR:Resident Care -... V.Bourgeois 201206: Bourgeois, Virginia Tipton",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,4320.0000,
+INVOICE,CM,,14410227,,02/01/2012,4320,"Invoice-Private",,02/01/2012,02/10/2012,,14415019MO,-4320.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3074,3074,"CR:Basic Service F... F.Elam 201202: Elam, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... F.Elam 201202: Elam, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,1218,1218,"CR:Resident Care -... F.Elam 201202: Elam, Frank",,,,,,,,,,,,,,,

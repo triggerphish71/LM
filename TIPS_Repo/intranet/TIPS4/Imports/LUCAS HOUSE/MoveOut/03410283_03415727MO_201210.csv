@@ -1,0 +1,7 @@
+BATCH,,201210,B,5111.0000,
+INVOICE,IN,,03410283,,10/01/2012,1116.0000,"Invoice-Private",,10/01/2012,10/10/2012,,03415727MO,-2594.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1116.0000,1116.00,"CR:Limited Term Di... R.Hegele, Sr. 201210: Hegele, Sr., Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,03410283,,10/01/2012,3995,"Invoice-Private",,10/01/2012,10/10/2012,,03415727MO,-2594.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... R.Hegele, Sr. 201210: Hegele, Sr., Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... R.Hegele, Sr. 201210: Hegele, Sr., Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,992,992,"CR:Resident Care -... R.Hegele, Sr. 201210: Hegele, Sr., Richard",,,,,,,,,,,,,,,

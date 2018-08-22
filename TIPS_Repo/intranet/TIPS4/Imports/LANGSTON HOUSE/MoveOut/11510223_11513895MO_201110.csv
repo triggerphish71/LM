@@ -1,0 +1,7 @@
+BATCH,,201110,B,2911.0000,
+INVOICE,IN,,11510223,,10/01/2011,434.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11513895MO,-2043.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,434.0000,434.00,"CR:Limited Term Di... M.Edge 201110: Edge, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11510223,,10/01/2011,2477,"Invoice-Private",,10/01/2011,10/10/2011,,11513895MO,-2043.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1984,1984,"CR:Basic Service F... M.Edge 201110: Edge, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... M.Edge 201110: Edge, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,465,465,"CR:Resident Care -... M.Edge 201110: Edge, Mary",,,,,,,,,,,,,,,

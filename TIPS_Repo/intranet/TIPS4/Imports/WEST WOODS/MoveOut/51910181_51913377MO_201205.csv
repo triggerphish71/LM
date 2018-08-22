@@ -1,0 +1,5 @@
+BATCH,,201205,B,1505.0000,
+INVOICE,IN,,51910181,,05/01/2012,420.0000,"Invoice-Private",,05/01/2012,05/10/2012,,51913377MO,-665.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,12,35.0000,420.00,"Basic Service Fee - Second Resident for May: Plemons, Dominica",,,,,,,,,,,,,,,
+INVOICE,CM,,51910181,,05/01/2012,1085,"Invoice-Private",,05/01/2012,05/10/2012,,51913377MO,-665.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,1085,1085,"CR:Basic Service F... D.Plemons 201205: Plemons, Dominica",,,,,,,,,,,,,,,

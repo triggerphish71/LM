@@ -1,0 +1,5 @@
+BATCH,,201202,B,100.0000,
+INVOICE,IN,,02411258,,02/29/2012,50.0000,"Invoice-Private",,02/29/2012,02/29/2012,,02415621MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3150,010202024,1,50.0000,50.00,"Late Fee Adjustment: Milliorn, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411258,,02/29/2012,50,"Invoice-Private",,02/29/2012,02/29/2012,,02415621MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3150,010202024,1,50,50,"Late Fee Adjustment: Milliorn, Willie",,,,,,,,,,,,,,,

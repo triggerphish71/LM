@@ -1,0 +1,8 @@
+BATCH,,201203,B,4518.0000,
+INVOICE,IN,,12910254,,03/01/2012,396.0000,"Invoice-Private",,03/01/2012,03/10/2012,,12915769MO,-3726.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,3,96.0000,288.00,"Basic Service Fee - Studio for Mar: Mangan, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,3,36.0000,108.00,"Resident Care - Level 2 for Mar: Mangan, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,12910254,,03/01/2012,4122,"Invoice-Private",,03/01/2012,03/10/2012,,12915769MO,-3726.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2976,2976,"CR:Basic Service F... E.Mangan 201203: Mangan, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... E.Mangan 201203: Mangan, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1116,1116,"CR:Resident Care -... E.Mangan 201203: Mangan, Elizabeth",,,,,,,,,,,,,,,

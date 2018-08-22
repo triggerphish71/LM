@@ -1,0 +1,7 @@
+BATCH,,201105,B,3468.0000,
+INVOICE,IN,,06910149,,05/03/2011,306.0000,"Invoice-Private",,05/03/2011,05/03/2011,,06913560MO,-2856.0000,,,,,,,,,,
+TRANSACTION,3027,010305069,3,16.0000,48.00,"Resident Care - Level 1 for May: Hendricks, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,3,86.0000,258.00,"Room and Board - Deluxe for May: Hendricks, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,06910149,,05/03/2011,3162,"Invoice-Private",,05/03/2011,05/03/2011,,06913560MO,-2856.0000,,,,,,,,,,
+TRANSACTION,3027,010305069,1,496,496,"CR:Resident Care -... R.Hendricks 201105: Hendricks, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2666,2666,"CR:Room and Board ... R.Hendricks 201105: Hendricks, Ruth",,,,,,,,,,,,,,,

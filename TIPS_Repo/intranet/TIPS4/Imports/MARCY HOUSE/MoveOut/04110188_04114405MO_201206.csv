@@ -1,0 +1,8 @@
+BATCH,,201206,B,6585.4800,
+INVOICE,IN,,04110188,,06/09/2012,1565.8800,"Invoice-Private",,06/09/2012,06/09/2012,,04114405MO,-3453.7200,,,,,,,,,,
+TRANSACTION,3320,010202041,1,60.0000,60.00,"CR:Limited Term Di... J.Johnson 201206: Johnson, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,9,82.0000,738.00,"Basic Service Fee - Studio for Jun: Johnson, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,9,85.3200,767.88,"Resident Care - Level 6+8 pts for Jun: Johnson, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,04110188,,06/09/2012,5019.6,"Invoice-Private",,06/09/2012,06/09/2012,,04114405MO,-3453.7200,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2460,2460,"CR:Basic Service F... J.Johnson 201206: Johnson, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,2559.6,2559.6,"CR:Resident Care -... J.Johnson 201206: Johnson, Joyce",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201107,B,4225.0000,
+INVOICE,IN,,11810180,,07/13/2011,4225.0000,"MoveIn-Haug. Florence",,07/13/2011,07/13/2011,,11814857,4225.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,19,96.0000,1824,"Basic Service Fee - Studio         : Haug. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,19,19.0000,361,"Resident Care - Level 1: Haug. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Haug. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2000.0000,2000,"New Resident Fee: Haug. Florence",,,,,,,,,,,,,,,

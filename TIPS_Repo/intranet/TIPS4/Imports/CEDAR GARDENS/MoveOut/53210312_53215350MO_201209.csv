@@ -1,0 +1,5 @@
+BATCH,,201209,B,4315.0000,
+INVOICE,CM,,53210312,,09/01/2012,4315,"Invoice-Private",,09/01/2012,09/10/2012,,53215350MO,-4315.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3420,3420,"CR:Basic Service F... M.Holtz 201209: Holtz, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"CR:Pendant Fee... M.Holtz 201209: Holtz, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,870,870,"CR:Resident Care -... M.Holtz 201209: Holtz, Mary Ann",,,,,,,,,,,,,,,

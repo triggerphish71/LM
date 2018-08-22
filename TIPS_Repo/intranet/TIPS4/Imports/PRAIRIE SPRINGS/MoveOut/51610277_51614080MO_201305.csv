@@ -1,0 +1,7 @@
+BATCH,,201305,B,2694.5000,
+INVOICE,IN,,51610277,,05/03/2013,237.7500,"Invoice-Private",,05/03/2013,05/03/2013,,51614080MO,-2219.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,3,70.0000,210.00,"Basic Service Fee - One Bedroom for May: Cordau, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,3,9.2500,27.75,"Resident Care - Level 5 for May: Cordau, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,51610277,,05/03/2013,2456.75,"Invoice-Private",,05/03/2013,05/03/2013,,51614080MO,-2219.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2170,2170,"CR:Basic Service F... T.Cordau 201305: Cordau, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,286.75,286.75,"CR:Resident Care -... T.Cordau 201305: Cordau, Ted",,,,,,,,,,,,,,,

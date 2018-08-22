@@ -1,0 +1,7 @@
+BATCH,,201204,B,3162.0000,
+INVOICE,IN,,16810401,,04/01/2012,102.0000,"Invoice-Private",,04/01/2012,04/01/2012,,16816488MO,-2958.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,89.0000,89.00,"Basic Service Fee - Efficiency for Apr: Miller, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,13.0000,13.00,"Resident Care - Level 1 for Apr: Miller, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,16810401,,04/01/2012,3060,"Invoice-Private",,04/01/2012,04/01/2012,,16816488MO,-2958.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2670,2670,"CR:Basic Service F... S.Miller 201204: Miller, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,390,390,"CR:Resident Care -... S.Miller 201204: Miller, Stanley",,,,,,,,,,,,,,,

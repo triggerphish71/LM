@@ -1,0 +1,8 @@
+BATCH,,201305,B,6812.0000,
+INVOICE,IN,,03610305,,05/12/2013,3220.0000,"Invoice-Private",,05/12/2013,05/12/2013,,03615646MO,-3849.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,28,99.0000,2772.00,"Basic Service Fee - Studio for May: Sanders, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,28,16.0000,448.00,"Resident Care - Level 1 for May: Sanders, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,03610305,,05/12/2013,3592,"Invoice-Private",,05/12/2013,05/12/2013,,03615646MO,-3849.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3069,3069,"CR:Basic Service F... N.Sanders 201305: Sanders, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... N.Sanders 201305: Sanders, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,496,496,"CR:Resident Care -... N.Sanders 201305: Sanders, Nora",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,2779.0000,
+INVOICE,IN,,21010291,,01/02/2013,243.0000,"Invoice-Private",,01/02/2013,01/02/2013,,21013874MO,-2293.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,3,41.0000,123.00,"Resident Care - Level 4 for Jan: Spriggs, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,3,40.0000,120.00,"Studio for Jan: Spriggs, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,21010291,,01/02/2013,2536,"Invoice-Private",,01/02/2013,01/02/2013,,21013874MO,-2293.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... J.Spriggs 201301: Spriggs, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1271,1271,"CR:Resident Care -... J.Spriggs 201301: Spriggs, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,1240,1240,"CR:Studio... J.Spriggs 201301: Spriggs, Joyce",,,,,,,,,,,,,,,

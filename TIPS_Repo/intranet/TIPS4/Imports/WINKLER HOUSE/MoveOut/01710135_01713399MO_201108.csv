@@ -1,0 +1,8 @@
+BATCH,,201108,B,6267.0000,
+INVOICE,IN,,01710135,,08/16/2011,2210.0000,"Invoice-Private",,08/16/2011,08/16/2011,,01713399MO,-5774.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,17,90.0000,1530.00,"Basic Service Fee - Studio for Aug: Nichols, Madeleine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,17,40.0000,680.00,"Resident Care - Level 3 for Aug: Nichols, Madeleine",,,,,,,,,,,,,,,
+INVOICE,CM,,01710135,,08/16/2011,4057,"Invoice-Private",,08/16/2011,08/16/2011,,01713399MO,-5774.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2790,2790,"CR:Basic Service F... M.Nichols 201108: Nichols, Madeleine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... M.Nichols 201108: Nichols, Madeleine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,1240,1240,"CR:Resident Care -... M.Nichols 201108: Nichols, Madeleine",,,,,,,,,,,,,,,

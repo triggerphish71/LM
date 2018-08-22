@@ -1,0 +1,8 @@
+BATCH,,201307,B,7053.0000,
+INVOICE,IN,,14210221,,07/21/2013,3267.0000,"Invoice-Private",,07/21/2013,07/21/2013,,14214536MO,-4305.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,27,88.0000,2376.00,"Basic Service Fee - Studio for Jul: Ellerman, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,27,33.0000,891.00,"Resident Care - Level 2 for Jul: Ellerman, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14210221,,07/21/2013,3786,"Invoice-Private",,07/21/2013,07/21/2013,,14214536MO,-4305.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2728,2728,"CR:Basic Service F... D.Ellerman 201307: Ellerman, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... D.Ellerman 201307: Ellerman, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1023,1023,"CR:Resident Care -... D.Ellerman 201307: Ellerman, Dorothy",,,,,,,,,,,,,,,

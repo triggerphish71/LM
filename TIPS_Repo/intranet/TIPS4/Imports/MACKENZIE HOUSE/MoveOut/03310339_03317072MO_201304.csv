@@ -1,0 +1,5 @@
+BATCH,,201304,B,570.0000,
+INVOICE,IN,,03310339,,04/01/2013,285.0000,"Invoice-Private",,04/01/2013,04/10/2013,,03317072MO,-3025.3000,,,,,,,,,,
+TRANSACTION,3317,010202033,30,9.5000,285.00,"Credit for Accolade Discount: Hanks, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,03310339,,04/01/2013,285,"Invoice-Private",,04/01/2013,04/10/2013,,03317072MO,-3025.3000,,,,,,,,,,
+TRANSACTION,3317,010202033,30,9.5,285,"Accolade Discount: Hanks, Frances",,,,,,,,,,,,,,,

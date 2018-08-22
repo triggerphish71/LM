@@ -1,0 +1,6 @@
+BATCH,,201211,B,6269.0000,
+INVOICE,IN,,13310396,,11/02/2012,6269.0000,"MoveIn-Mary. Sargent",,11/02/2012,11/02/2012,,13315580,6269.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,29,114.0000,3306,"Basic Service Fee - One Bedroom: Mary. Sargent",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,29,32.0000,928,"Resident Care - Level 2: Mary. Sargent",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Mary. Sargent",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Mary. Sargent",,,,,,,,,,,,,,,

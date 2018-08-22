@@ -1,0 +1,6 @@
+BATCH,,201210,B,5673.6200,
+INVOICE,IN,,15310221,,10/01/2012,465.0000,"Invoice-Private",,10/01/2012,10/10/2012,,15316247MO,-9166.2000,,,,,,,,,,
+TRANSACTION,3320,010103153,1,465.0000,465.00,"CR:Limited Term Di... B.Dillman 201210: Dillman, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,15310221,,10/01/2012,5208.62,"Invoice-Private",,10/01/2012,10/10/2012,,15316247MO,-9166.2000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... B.Dillman 201210: Dillman, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2108.62,2108.62,"CR:Resident Care -... B.Dillman 201210: Dillman, Beverly",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,1860.0000,
+INVOICE,IN,,06010169,,05/01/2012,930.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06014338MO,-2580.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,30.0000,930.00,"Credit for Limited Term Discount: Duddleson, Joy",,,,,,,,,,,,,,,
+INVOICE,CM,,06010169,,05/01/2012,930,"Invoice-Private",,05/01/2012,05/10/2012,,06014338MO,-2580.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,30,930,"Limited Term Discount: Duddleson, Joy",,,,,,,,,,,,,,,

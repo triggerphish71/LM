@@ -1,0 +1,8 @@
+BATCH,,201212,B,6494.0000,
+INVOICE,IN,,05810224,,12/04/2012,2433.0000,"Invoice-Private",,12/04/2012,12/04/2012,,05814175MO,-1628.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,1,992.0000,992.00,"CR:Limited Term Di... B.Huddleston 201212: Huddleston, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,11,82.0000,902.00,"Basic Service Fee - Studio for Dec: Huddleston, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,11,49.0000,539.00,"Resident Care - Level 4 for Dec: Huddleston, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,05810224,,12/04/2012,4061,"Invoice-Private",,12/04/2012,12/04/2012,,05814175MO,-1628.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... B.Huddleston 201212: Huddleston, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1519,1519,"CR:Resident Care -... B.Huddleston 201212: Huddleston, Bonnie",,,,,,,,,,,,,,,

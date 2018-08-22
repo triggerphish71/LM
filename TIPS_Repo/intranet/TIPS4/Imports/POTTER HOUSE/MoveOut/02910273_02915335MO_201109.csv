@@ -1,0 +1,7 @@
+BATCH,,201109,B,5305.0000,
+INVOICE,IN,,02910273,,09/01/2011,1050.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02915335MO,-3205.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,1050.0000,1050.00,"CR:Limited Term Di... E.Gonzales 201109: Gonzales, Esquiel",,,,,,,,,,,,,,,
+INVOICE,CM,,02910273,,09/01/2011,4255,"Invoice-Private",,09/01/2011,09/10/2011,,02915335MO,-3205.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2910,2910,"CR:Basic Service F... E.Gonzales 201109: Gonzales, Esquiel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25,25,"CR:Monthly Cable... E.Gonzales 201109: Gonzales, Esquiel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1320,1320,"CR:Resident Care -... E.Gonzales 201109: Gonzales, Esquiel",,,,,,,,,,,,,,,

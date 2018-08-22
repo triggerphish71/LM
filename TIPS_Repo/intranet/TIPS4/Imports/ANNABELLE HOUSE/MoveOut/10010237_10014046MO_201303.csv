@@ -1,0 +1,5 @@
+BATCH,,201303,B,50.0000,
+INVOICE,IN,,10010237,,03/01/2013,25.0000,"Invoice-Private",,03/01/2013,03/10/2013,,10014046MO,-5989.0000,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25.00,"Monthly Cable: Tibbett, Plen",,,,,,,,,,,,,,,
+INVOICE,CM,,10010237,,03/01/2013,25,"Invoice-Private",,03/01/2013,03/10/2013,,10014046MO,-5989.0000,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"Credit for Monthly Cable: Tibbett, Plen",,,,,,,,,,,,,,,

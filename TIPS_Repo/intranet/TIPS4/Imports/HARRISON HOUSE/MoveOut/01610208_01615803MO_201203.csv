@@ -1,0 +1,7 @@
+BATCH,,201203,B,5562.0000,
+INVOICE,IN,,01610208,,03/23/2012,2369.0000,"Invoice-Private",,03/23/2012,03/23/2012,,01615803MO,-3914.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,23,86.0000,1978.00,"Basic Service Fee - Studio for Mar: Barrett, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,23,17.0000,391.00,"Resident Care - Level 1 for Mar: Barrett, June",,,,,,,,,,,,,,,
+INVOICE,CM,,01610208,,03/23/2012,3193,"Invoice-Private",,03/23/2012,03/23/2012,,01615803MO,-3914.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... J.Barrett 201203: Barrett, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,527,527,"CR:Resident Care -... J.Barrett 201203: Barrett, June",,,,,,,,,,,,,,,

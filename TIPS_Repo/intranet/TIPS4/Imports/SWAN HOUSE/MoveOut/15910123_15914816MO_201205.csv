@@ -1,0 +1,8 @@
+BATCH,,201205,B,7710.0000,
+INVOICE,IN,,15910123,,05/29/2012,3712.0000,"Invoice-Private",,05/29/2012,05/29/2012,,15914816MO,-4156.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,29,112.0000,3248.00,"Basic Service Fee - One Bedroom for May: Zimmer, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,29,16.0000,464.00,"Swan Personal Care - L1 for May: Zimmer, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,15910123,,05/29/2012,3998,"Invoice-Private",,05/29/2012,05/29/2012,,15914816MO,-4156.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3472,3472,"CR:Basic Service F... C.Zimmer 201205: Zimmer, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... C.Zimmer 201205: Zimmer, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,496,496,"CR:Swan Personal C... C.Zimmer 201205: Zimmer, Catherine",,,,,,,,,,,,,,,

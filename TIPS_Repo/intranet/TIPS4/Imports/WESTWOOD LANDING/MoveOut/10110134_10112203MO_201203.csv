@@ -1,0 +1,7 @@
+BATCH,,201203,B,4950.0000,
+INVOICE,IN,,10110134,,03/01/2012,1540.0000,"Invoice-Private",,03/01/2012,03/10/2012,,10112203MO,-1870.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,14,95.0000,1330.00,"Basic Service Fee - Studio Deluxe for Mar: Weddle, Theica",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,14,15.0000,210.00,"Resident Care - Level 1 for Mar: Weddle, Theica",,,,,,,,,,,,,,,
+INVOICE,CM,,10110134,,03/01/2012,3410,"Invoice-Private",,03/01/2012,03/10/2012,,10112203MO,-1870.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,2945,2945,"CR:Basic Service F... T.Weddle 201203: Weddle, Theica",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,465,465,"CR:Resident Care -... T.Weddle 201203: Weddle, Theica",,,,,,,,,,,,,,,

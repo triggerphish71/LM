@@ -1,0 +1,7 @@
+BATCH,,201307,B,640.0000,
+INVOICE,IN,,19310373,,07/01/2013,320.0000,"Invoice-Private",,07/01/2013,07/10/2013,,19315789MO,-3970.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Sikkenga, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010315193,1,10.0000,10.00,"Pendant Fee: Sikkenga, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,19310373,,07/01/2013,320,"Invoice-Private",,07/01/2013,07/10/2013,,19315789MO,-3970.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Sikkenga, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010315193,1,10,10,"Credit for Pendant Fee: Sikkenga, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,7200.0000,
+INVOICE,IN,,20610203,,03/19/2012,2736.0000,"Invoice-Private",,03/19/2012,03/19/2012,,20612663MO,-6048.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,19,53.0000,1007.00,"Resident Care - Level 5 for Mar: Mahala, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,19,91.0000,1729.00,"Studio for Mar: Mahala, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,20610203,,03/19/2012,4464,"Invoice-Private",,03/19/2012,03/19/2012,,20612663MO,-6048.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1643,1643,"CR:Resident Care -... E.Mahala 201203: Mahala, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... E.Mahala 201203: Mahala, Elizabeth",,,,,,,,,,,,,,,

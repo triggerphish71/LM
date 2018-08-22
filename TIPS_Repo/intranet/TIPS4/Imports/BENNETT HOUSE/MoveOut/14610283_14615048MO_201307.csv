@@ -1,0 +1,8 @@
+BATCH,,201307,B,5790.0000,
+INVOICE,IN,,14610283,,07/01/2013,1792.0000,"Invoice-Private",,07/01/2013,07/10/2013,,14615048MO,-2206.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,14,93.0000,1302.00,"Basic Service Fee - Studio for Jul: Palmer, Jo Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,14,35.0000,490.00,"Resident Care - Level 2 for Jul: Palmer, Jo Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,14610283,,07/01/2013,3998,"Invoice-Private",,07/01/2013,07/10/2013,,14615048MO,-2206.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... J.Palmer 201307: Palmer, Jo Anne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... J.Palmer 201307: Palmer, Jo Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1085,1085,"CR:Resident Care -... J.Palmer 201307: Palmer, Jo Anne",,,,,,,,,,,,,,,

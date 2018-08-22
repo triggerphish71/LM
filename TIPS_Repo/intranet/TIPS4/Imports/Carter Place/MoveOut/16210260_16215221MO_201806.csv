@@ -1,0 +1,6 @@
+BATCH,,201806,B,4787.0000,
+INVOICE,IN,,16210260,,06/07/2018,707.0000,"Invoice-Private",,06/07/2018,06/07/2018,,16215221MO,-7589.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,7,101.0000,707.00,"Basic Service Fee - One Bedroom for Jun: Larson, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,16210260,,06/07/2018,4080,"Invoice-Private",,06/07/2018,06/07/2018,,16215221MO,-7589.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,1,3030,3030,"CR:Basic Service F... N.Larson 201806: Larson, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,1,1050,1050,"CR:Resident Care L... N.Larson 201806: Larson, Norman",,,,,,,,,,,,,,,

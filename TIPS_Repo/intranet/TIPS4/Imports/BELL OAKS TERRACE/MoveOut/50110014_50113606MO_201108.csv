@@ -1,0 +1,8 @@
+BATCH,,201108,B,3971.0000,
+INVOICE,IN,,50110014,,08/01/2011,124.0000,"Invoice-Private",,08/01/2011,08/10/2011,,50113606MO,-5860.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,124.0000,124.00,"CR:Limited Term Di... D.Erickson 201108: Erickson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,50110014,,08/01/2011,3847,"Invoice-Private",,08/01/2011,08/10/2011,,50113606MO,-5860.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... D.Erickson 201108: Erickson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... D.Erickson 201108: Erickson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1178,1178,"CR:Resident Care -... D.Erickson 201108: Erickson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2604,2604,"CR:Room and Board ... D.Erickson 201108: Erickson, Dorothy",,,,,,,,,,,,,,,

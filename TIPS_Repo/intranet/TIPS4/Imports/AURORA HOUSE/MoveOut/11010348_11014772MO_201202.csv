@@ -1,0 +1,5 @@
+BATCH,,201202,B,2088.0000,
+INVOICE,IN,,11010348,,02/01/2012,1044.0000,"Invoice-Private",,02/01/2012,02/10/2012,,11014772MO,-340.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,29,36.0000,1044.00,"Credit for Limited Term Discount: Engels, John",,,,,,,,,,,,,,,
+INVOICE,CM,,11010348,,02/01/2012,1044,"Invoice-Private",,02/01/2012,02/10/2012,,11014772MO,-340.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,29,36,1044,"Limited Term Discount: Engels, John",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,6172.0000,
+INVOICE,IN,,53210328,,08/14/2011,1199.0000,"Invoice-Private",,08/14/2011,08/14/2011,,53214991MO,-5274.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,11,109.0000,1199.00,"Basic Service Fee - Studio for Aug: Landmann, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,53210328,,08/14/2011,4973,"Invoice-Private",,08/14/2011,08/14/2011,,53214991MO,-5274.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,2943,2943,"CR:Basic Service F... H.Landmann 201108: Landmann, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... H.Landmann 201108: Landmann, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,2000,2000,"CR:New Resident Fe... H.Landmann 201108: Landmann, Helen",,,,,,,,,,,,,,,

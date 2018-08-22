@@ -1,0 +1,5 @@
+BATCH,,201107,B,1800.0000,
+INVOICE,IN,,50310242,,07/29/2011,870.0000,"Invoice-Private",,07/29/2011,07/29/2011,,50313653MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,29,30.0000,870.00,"Basic Service Fee - Second Resident for Jul: Roland, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,50310242,,07/29/2011,930,"Invoice-Private",,07/29/2011,07/29/2011,,50313653MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,930,930,"CR:Basic Service F... H.Roland 201107: Roland, Hazel",,,,,,,,,,,,,,,

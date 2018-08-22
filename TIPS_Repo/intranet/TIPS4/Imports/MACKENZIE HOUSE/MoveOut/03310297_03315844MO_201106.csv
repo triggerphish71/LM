@@ -1,0 +1,8 @@
+BATCH,,201106,B,7498.0000,
+INVOICE,IN,,03310297,,06/23/2011,3243.0000,"Invoice-Private",,06/23/2011,06/23/2011,,03315844MO,-5408.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,23,112.0000,2576.00,"Basic Service Fee - One Bedroom for Jun: Hanlon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,23,29.0000,667.00,"Resident Care - Level 2 for Jun: Hanlon, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03310297,,06/23/2011,4255,"Invoice-Private",,06/23/2011,06/23/2011,,03315844MO,-5408.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3360,3360,"CR:Basic Service F... B.Hanlon 201106: Hanlon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... B.Hanlon 201106: Hanlon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,870,870,"CR:Resident Care -... B.Hanlon 201106: Hanlon, Betty",,,,,,,,,,,,,,,

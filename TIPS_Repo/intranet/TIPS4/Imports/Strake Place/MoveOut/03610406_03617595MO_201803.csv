@@ -1,0 +1,8 @@
+BATCH,,201803,B,4396.4000,
+INVOICE,IN,,03610406,,03/08/2018,896.0000,"Invoice-Private",,03/08/2018,03/08/2018,,03617595MO,-2604.4000,,,,,,,,,,
+TRANSACTION,3020,010002036,8,92.0000,736.00,"Basic Service Fee - Studio  for Mar: Parker, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002036,8,20.0000,160.00,"Resident Care - Level 1  for Mar: Parker, Vernon",,,,,,,,,,,,,,,
+INVOICE,CM,,03610406,,03/08/2018,3500.4,"Invoice-Private",,03/08/2018,03/08/2018,,03617595MO,-2604.4000,,,,,,,,,,
+TRANSACTION,3020,010002036,1,2852,2852,"CR:Basic Service F... V.Parker 201803: Parker, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002036,1,28.4,28.4,"CR:Monthly Cable... V.Parker 201803: Parker, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002036,1,620,620,"CR:Resident Care -... V.Parker 201803: Parker, Vernon",,,,,,,,,,,,,,,

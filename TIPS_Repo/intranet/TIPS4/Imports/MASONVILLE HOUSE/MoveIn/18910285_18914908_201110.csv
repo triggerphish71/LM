@@ -1,0 +1,6 @@
+BATCH,,201110,B,4213.0000,
+INVOICE,IN,,18910285,,10/04/2011,4213.0000,"MoveIn-Kaiser. Elnore",,10/04/2011,10/04/2011,,18914908,4213.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,28,86.0000,2408,"E.Kaiser: Basic Service Fee - Studio: Kaiser. Elnore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Kaiser. Elnore",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,1500.0000,1500,"New Tenant Fee: Kaiser. Elnore",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,28,10.0000,280,"CC Meals: Kaiser. Elnore",,,,,,,,,,,,,,,

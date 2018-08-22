@@ -1,0 +1,4 @@
+BATCH,,201111,B,3210.0000,
+INVOICE,CM,,09210203,,11/01/2011,3210,"Invoice-Private",,11/01/2011,11/10/2011,,09214623MO,-4387.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2250,2250,"CR:Basic Service F... F.French 201111: French, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,960,960,"CR:Resident Care -... F.French 201111: French, Frances",,,,,,,,,,,,,,,

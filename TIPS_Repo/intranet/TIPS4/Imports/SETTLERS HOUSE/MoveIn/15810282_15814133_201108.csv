@@ -1,0 +1,5 @@
+BATCH,,201108,B,4443.0000,
+INVOICE,IN,,15810282,,08/05/2011,4443.0000,"MoveIn-Huff. Calvin",,08/05/2011,08/05/2011,,15814133,4443.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,27,92.0000,2484,"Basic Service Fee - Studio         : Huff. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,27,17.0000,459,"Resident Care - Level 1: Huff. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: Huff. Calvin",,,,,,,,,,,,,,,

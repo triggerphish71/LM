@@ -1,0 +1,7 @@
+BATCH,,201306,B,7105.0000,
+INVOICE,IN,,07410246,,06/13/2013,2755.0000,"Invoice-Private",,06/13/2013,06/13/2013,,07414429MO,-6163.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,19,73.0000,1387.00,"Basic Service Fee - Studio for Jun: Zimmerman, Rolland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,19,72.0000,1368.00,"Resident Care - Level 5 for Jun: Zimmerman, Rolland",,,,,,,,,,,,,,,
+INVOICE,CM,,07410246,,06/13/2013,4350,"Invoice-Private",,06/13/2013,06/13/2013,,07414429MO,-6163.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2190,2190,"CR:Basic Service F... R.Zimmerman 201306: Zimmerman, Rolland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,2160,2160,"CR:Resident Care -... R.Zimmerman 201306: Zimmerman, Rolland",,,,,,,,,,,,,,,

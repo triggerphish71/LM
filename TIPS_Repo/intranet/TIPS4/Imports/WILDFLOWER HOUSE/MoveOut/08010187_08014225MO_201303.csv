@@ -1,0 +1,6 @@
+BATCH,,201303,B,2707.0000,
+INVOICE,IN,,08010187,,03/01/2013,603.0000,"Invoice-Private",,03/01/2013,03/10/2013,,08014225MO,-1501.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,9,67.0000,603.00,"Basic Service Fee - Studio for Mar: Fetick, John",,,,,,,,,,,,,,,
+INVOICE,CM,,08010187,,03/01/2013,2104,"Invoice-Private",,03/01/2013,03/10/2013,,08014225MO,-1501.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,2077,2077,"CR:Basic Service F... J.Fetick 201303: Fetick, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"CR:Monthly Cable... J.Fetick 201303: Fetick, John",,,,,,,,,,,,,,,

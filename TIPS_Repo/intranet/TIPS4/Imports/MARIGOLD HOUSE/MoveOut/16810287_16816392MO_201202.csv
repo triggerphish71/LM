@@ -1,0 +1,8 @@
+BATCH,,201202,B,5268.0000,
+INVOICE,IN,,16810287,,02/15/2012,2140.0000,"Invoice-Private",,02/15/2012,02/15/2012,,16816392MO,-4330.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,20,94.0000,1880.00,"Basic Service Fee - Studio Deluxe for Feb: Atkinson, Willie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,20,13.0000,260.00,"Resident Care - Level 1 for Feb: Atkinson, Willie Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,16810287,,02/15/2012,3128,"Invoice-Private",,02/15/2012,02/15/2012,,16816392MO,-4330.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2726,2726,"CR:Basic Service F... W.Atkinson 201202: Atkinson, Willie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25,25,"CR:Monthly Cable... W.Atkinson 201202: Atkinson, Willie Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,377,377,"CR:Resident Care -... W.Atkinson 201202: Atkinson, Willie Mae",,,,,,,,,,,,,,,

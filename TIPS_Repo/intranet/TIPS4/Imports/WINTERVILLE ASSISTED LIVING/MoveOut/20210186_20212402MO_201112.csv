@@ -1,0 +1,5 @@
+BATCH,,201112,B,1860.0000,
+INVOICE,IN,,20210186,,12/01/2011,930.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20212402MO,-1423.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,30.0000,930.00,"Credit for Limited Term Discount: Clark, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,20210186,,12/01/2011,930,"Invoice-Private",,12/01/2011,12/10/2011,,20212402MO,-1423.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,30,930,"Limited Term Discount: Clark, Evelyn",,,,,,,,,,,,,,,

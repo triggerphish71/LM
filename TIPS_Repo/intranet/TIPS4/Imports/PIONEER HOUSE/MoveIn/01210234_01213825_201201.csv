@@ -1,0 +1,6 @@
+BATCH,,201201,B,4385.9600,
+INVOICE,IN,,01210234,,01/01/2012,4385.9600,"MoveIn-Davis. Jim",,01/01/2012,01/01/2012,,01213825,4385.9600,,,,,,,,,,
+TRANSACTION,3010,010103012,31,85.0000,2635,"Basic Service Fee - Studio: Davis. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,31,7.1600,221.96,"Resident Care - Level 4: Davis. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Davis. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Davis. Jim",,,,,,,,,,,,,,,

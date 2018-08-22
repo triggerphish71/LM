@@ -1,0 +1,7 @@
+BATCH,,201210,B,178.0000,
+INVOICE,IN,,02610165,,10/01/2012,89.0000,"Invoice-Private",,10/01/2012,10/10/2012,,02614909MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27.00,"Monthly Cable: Borell, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202026,31,2.0000,62.00,"Credit for Limited Term Discount: Borell, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,02610165,,10/01/2012,89,"Invoice-Private",,10/01/2012,10/10/2012,,02614909MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"Credit for Monthly Cable: Borell, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202026,31,2,62,"Limited Term Discount: Borell, Gerald",,,,,,,,,,,,,,,

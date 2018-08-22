@@ -1,0 +1,8 @@
+BATCH,,201805,B,6075.6800,
+INVOICE,IN,,32000159,,05/07/2018,2913.6800,"Invoice-Private",,05/07/2018,05/07/2018,,32012304MO,-248.3200,,,,,,,,,,
+TRANSACTION,3017,070025320,2,17.0000,34.00,"AL level care - 05-03-2018: Cooper, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025320,2,85.0000,170.00,"Studio - 05-03-2018: Cooper, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025320,1,2709.6774,2709.68,"Basic Service Fee - MC Studio Deluxe: Cooper, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,32000159,,05/07/2018,3162,"Invoice-Private",,05/07/2018,05/07/2018,,32012304MO,-248.3200,,,,,,,,,,
+TRANSACTION,3027,070025320,1,527,527,"CR:Resident Care -... B.Cooper 201805: Cooper, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025320,1,2635,2635,"CR:Studio... B.Cooper 201805: Cooper, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,6371.0000,
+INVOICE,IN,,02310223,,03/07/2013,1169.0000,"Invoice-Private",,03/07/2013,03/07/2013,,02315214MO,-4033.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,7,114.0000,798.00,"Basic Service Fee - One Bedroom for Mar: Bryan, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,7,53.0000,371.00,"Resident Care - Level 4 for Mar: Bryan, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02310223,,03/07/2013,5202,"Invoice-Private",,03/07/2013,03/07/2013,,02315214MO,-4033.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,3534,3534,"CR:Basic Service F... J.Bryan 201303: Bryan, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... J.Bryan 201303: Bryan, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,1643,1643,"CR:Resident Care -... J.Bryan 201303: Bryan, James",,,,,,,,,,,,,,,

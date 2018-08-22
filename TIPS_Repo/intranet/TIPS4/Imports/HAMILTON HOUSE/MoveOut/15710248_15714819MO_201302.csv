@@ -1,0 +1,5 @@
+BATCH,,201302,B,1232.0000,
+INVOICE,IN,,15710248,,02/01/2013,616.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15714819MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,28,22.0000,616.00,"Credit for Limited Term Discount: Johnson, David",,,,,,,,,,,,,,,
+INVOICE,CM,,15710248,,02/01/2013,616,"Invoice-Private",,02/01/2013,02/10/2013,,15714819MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,28,22,616,"Limited Term Discount: Johnson, David",,,,,,,,,,,,,,,

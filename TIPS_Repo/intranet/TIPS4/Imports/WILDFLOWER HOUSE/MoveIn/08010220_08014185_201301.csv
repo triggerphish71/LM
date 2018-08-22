@@ -1,0 +1,6 @@
+BATCH,,201301,B,3909.0000,
+INVOICE,IN,,08010220,,01/11/2013,3909.0000,"MoveIn-Teer. Delores",,01/11/2013,01/11/2013,,08014185,3909.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,21,113.0000,2373,"Basic Service Fee - One Bedroom: Teer. Delores",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202080,21,29.0000,609,"Resident Care - Level 2: Teer. Delores",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Teer. Delores",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202080,1,900.0000,900,"New Resident Fee: Teer. Delores",,,,,,,,,,,,,,,

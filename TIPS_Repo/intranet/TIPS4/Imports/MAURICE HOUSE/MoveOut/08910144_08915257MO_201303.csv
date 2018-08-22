@@ -1,0 +1,7 @@
+BATCH,,201303,B,8113.0000,
+INVOICE,IN,,08910144,,03/30/2013,3990.0000,"Invoice-Private",,03/30/2013,03/30/2013,,08915257MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,30,68.0000,2040.00,"Basic Service Fee - Studio for Mar: Hurley, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,30,65.0000,1950.00,"Resident Care - Level 4 for Mar: Hurley, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,08910144,,03/30/2013,4123,"Invoice-Private",,03/30/2013,03/30/2013,,08915257MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,2108,2108,"CR:Basic Service F... F.Hurley 201303: Hurley, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2015,2015,"CR:Resident Care -... F.Hurley 201303: Hurley, Frances",,,,,,,,,,,,,,,

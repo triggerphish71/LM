@@ -1,0 +1,7 @@
+BATCH,,201306,B,2482.0000,
+INVOICE,IN,,17510259,,06/01/2013,292.0000,"Invoice-Private",,06/01/2013,06/10/2013,,17518031MO,-1898.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,4,23.0000,92.00,"Resident Care - Level 2 for Jun: Barnes, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,4,50.0000,200.00,"Room and Board - Studio Deluxe for Jun: Barnes, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,17510259,,06/01/2013,2190,"Invoice-Private",,06/01/2013,06/10/2013,,17518031MO,-1898.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,1,690,690,"CR:Resident Care -... D.Barnes 201306: Barnes, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1500,1500,"CR:Room and Board ... D.Barnes 201306: Barnes, Doris",,,,,,,,,,,,,,,

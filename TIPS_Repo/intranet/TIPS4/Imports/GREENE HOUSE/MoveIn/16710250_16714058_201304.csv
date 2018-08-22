@@ -1,0 +1,5 @@
+BATCH,,201304,B,4590.0000,
+INVOICE,IN,,16710250,,04/01/2013,4590.0000,"April_Rent-Parsons. Anna Belle",,04/01/2013,04/10/2013,,16714058,7380.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,30,86.0000,2580,"Basic Service Fee - Studio: Parsons. Anna Belle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,30,66.0000,1980,"Resident Care - Level 5: Parsons. Anna Belle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Parsons. Anna Belle",,,,,,,,,,,,,,,

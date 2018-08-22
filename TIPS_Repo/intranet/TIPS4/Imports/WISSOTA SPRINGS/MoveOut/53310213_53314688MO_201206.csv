@@ -1,0 +1,5 @@
+BATCH,,201206,B,2183.0000,
+INVOICE,IN,,53310213,,06/29/2012,1073.0000,"Invoice-Private",,06/29/2012,06/29/2012,,53314688MO,-1184.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,29,37.0000,1073.00,"Basic Service Fee - Second Resident for Jun: Stanford, Belle",,,,,,,,,,,,,,,
+INVOICE,CM,,53310213,,06/29/2012,1110,"Invoice-Private",,06/29/2012,06/29/2012,,53314688MO,-1184.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1110,1110,"CR:Basic Service F... B.Stanford 201206: Stanford, Belle",,,,,,,,,,,,,,,

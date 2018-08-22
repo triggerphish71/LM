@@ -1,0 +1,5 @@
+BATCH,,201212,B,496.0000,
+INVOICE,IN,,13410234,,12/01/2012,248.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13415803MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,31,8.0000,248.00,"Credit for Limited Term Discount: East, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13410234,,12/01/2012,248,"Invoice-Private",,12/01/2012,12/10/2012,,13415803MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,31,8,248,"Limited Term Discount: East, Mary",,,,,,,,,,,,,,,

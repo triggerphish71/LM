@@ -1,0 +1,7 @@
+BATCH,,201303,B,5945.0000,
+INVOICE,IN,,03710175,,03/01/2013,1450.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03714534MO,-3045.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,10,114.0000,1140.00,"Basic Service Fee - One Bedroom for Mar: Teeple, Nelda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,10,31.0000,310.00,"Resident Care - Level 2 for Mar: Teeple, Nelda",,,,,,,,,,,,,,,
+INVOICE,CM,,03710175,,03/01/2013,4495,"Invoice-Private",,03/01/2013,03/10/2013,,03714534MO,-3045.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,3534,3534,"CR:Basic Service F... N.Teeple 201303: Teeple, Nelda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,961,961,"CR:Resident Care -... N.Teeple 201303: Teeple, Nelda",,,,,,,,,,,,,,,

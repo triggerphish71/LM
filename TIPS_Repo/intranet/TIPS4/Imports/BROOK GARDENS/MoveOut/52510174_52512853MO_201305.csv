@@ -1,0 +1,7 @@
+BATCH,,201305,B,1792.0000,
+INVOICE,IN,,52510174,,05/01/2013,56.0000,"Invoice-Private",,05/01/2013,05/01/2013,,52512853MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,39.0000,39.00,"Basic Service Fee - Second Resident for May: James, Elsworth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,17.0000,17.00,"Resident Care - Level 1 for May: James, Elsworth",,,,,,,,,,,,,,,
+INVOICE,CM,,52510174,,05/01/2013,1736,"Invoice-Private",,05/01/2013,05/01/2013,,52512853MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,1209,1209,"CR:Basic Service F... E.James 201305: James, Elsworth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,527,527,"CR:Resident Care -... E.James 201305: James, Elsworth",,,,,,,,,,,,,,,

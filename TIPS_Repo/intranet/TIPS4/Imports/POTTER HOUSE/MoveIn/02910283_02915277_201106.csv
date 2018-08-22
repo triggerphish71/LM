@@ -1,0 +1,5 @@
+BATCH,,201106,B,4588.0000,
+INVOICE,IN,,02910283,,06/02/2011,4588.0000,"MoveIn-Shelton. Evelyn",,06/02/2011,06/02/2011,,02915277,4588.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,29,97.0000,2813,"Basic Service Fee - Studio         : Shelton. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Shelton. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1750.0000,1750,"New Resident Fee: Shelton. Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,420.0000,
+INVOICE,IN,,20410134,,06/01/2012,210.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20412997MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,30,7.0000,210.00,"Credit for Limited Term Discount: Burnett, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,20410134,,06/01/2012,210,"Invoice-Private",,06/01/2012,06/10/2012,,20412997MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,30,7,210,"Limited Term Discount: Burnett, Louise",,,,,,,,,,,,,,,

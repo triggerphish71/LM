@@ -1,0 +1,7 @@
+BATCH,,201109,B,108.9000,
+INVOICE,IN,,15310105,,09/01/2011,54.4500,"Invoice-Medicaid",,09/01/2011,09/10/2011,,15315568MO,-2320.9400,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Marey, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103153,1,27.4500,27.45,"State Medicaid: Marey, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,15310105,,09/01/2011,54.45,"Invoice-Medicaid",,09/01/2011,09/10/2011,,15315568MO,-2320.9400,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Marey, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103153,1,27.45,27.45,"Credit for State Medicaid: Marey, Maxine",,,,,,,,,,,,,,,

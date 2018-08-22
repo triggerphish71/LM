@@ -1,0 +1,6 @@
+BATCH,,201208,B,4756.3300,
+INVOICE,IN,,51610252,,08/01/2012,1054.0000,"Invoice-Private",,08/01/2012,08/10/2012,,51613881MO,-1833.1900,,,,,,,,,,
+TRANSACTION,3320,010103516,1,1054.0000,1054.00,"CR:Limited Term Di... A.Anderson 201208: Anderson, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,51610252,,08/01/2012,3702.33,"Invoice-Private",,08/01/2012,08/10/2012,,51613881MO,-1833.1900,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2759,2759,"CR:Basic Service F... A.Anderson 201208: Anderson, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,943.33,943.33,"CR:Resident Care -... A.Anderson 201208: Anderson, Albert",,,,,,,,,,,,,,,

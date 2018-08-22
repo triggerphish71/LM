@@ -1,0 +1,7 @@
+BATCH,,201108,B,80.0000,
+INVOICE,IN,,15210169,,08/01/2011,40.0000,"Invoice-Respite",,08/01/2011,08/10/2011,,15213467MO,170.0000,,,,,,,,,,
+TRANSACTION,3210,010211152,1,20.0000,20.00,"Personal Services: Sheldon, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3210,010211152,1,20.0000,20.00,"Personal Services: Sheldon, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,15210169,,08/01/2011,40,"Invoice-Respite",,08/01/2011,08/10/2011,,15213467MO,170.0000,,,,,,,,,,
+TRANSACTION,3210,010211152,1,20,20,"Credit for Personal Services: Sheldon, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3210,010211152,1,20,20,"Credit for Personal Services: Sheldon, Donald",,,,,,,,,,,,,,,

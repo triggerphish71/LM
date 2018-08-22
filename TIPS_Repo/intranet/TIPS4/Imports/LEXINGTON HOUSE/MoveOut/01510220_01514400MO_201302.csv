@@ -1,0 +1,8 @@
+BATCH,,201302,B,7145.8300,
+INVOICE,IN,,01510220,,02/07/2013,2839.1500,"Invoice-Private",,02/07/2013,02/07/2013,,01514400MO,-5646.6400,,,,,,,,,,
+TRANSACTION,3320,010103015,1,532.0000,532.00,"CR:Limited Term Di... M.Rudy 201302: Rudy, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,15,84.0000,1260.00,"Basic Service Fee - Studio for Feb: Rudy, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,15,69.8100,1047.15,"Resident Care - Level 39 for Feb: Rudy, Mike",,,,,,,,,,,,,,,
+INVOICE,CM,,01510220,,02/07/2013,4306.68,"Invoice-Private",,02/07/2013,02/07/2013,,01514400MO,-5646.6400,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2352,2352,"CR:Basic Service F... M.Rudy 201302: Rudy, Mike",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,1954.68,1954.68,"CR:Resident Care -... M.Rudy 201302: Rudy, Mike",,,,,,,,,,,,,,,

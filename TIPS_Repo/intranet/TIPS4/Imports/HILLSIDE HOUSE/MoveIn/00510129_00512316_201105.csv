@@ -1,0 +1,5 @@
+BATCH,,201105,B,4987.0000,
+INVOICE,IN,,00510129,,05/02/2011,4987.0000,"MoveIn-Tyler. Paul",,05/02/2011,05/02/2011,,00512316,4987.0000,,,,,,,,,,
+TRANSACTION,3010,010101005,30,70.0000,2100,"P.Tyler: Basic Service Fee - Studio: Tyler. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,30,62.9000,1887,"P.Tyler: Resident Care - Level 37: Tyler. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Tyler. Paul",,,,,,,,,,,,,,,

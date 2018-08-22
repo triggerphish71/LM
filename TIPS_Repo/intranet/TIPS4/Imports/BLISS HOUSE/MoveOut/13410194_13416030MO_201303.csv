@@ -1,0 +1,6 @@
+BATCH,,201303,B,5586.0000,
+INVOICE,IN,,13410194,,03/02/2013,2730.0000,"Invoice-Private",,03/02/2013,03/02/2013,,13416030MO,-126.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,30,91.0000,2730.00,"Basic Service Fee - Studio for Mar: Eldridge, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,13410194,,03/02/2013,2856,"Invoice-Private",,03/02/2013,03/02/2013,,13416030MO,-126.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2821,2821,"CR:Basic Service F... P.Eldridge 201303: Eldridge, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... P.Eldridge 201303: Eldridge, Pat",,,,,,,,,,,,,,,

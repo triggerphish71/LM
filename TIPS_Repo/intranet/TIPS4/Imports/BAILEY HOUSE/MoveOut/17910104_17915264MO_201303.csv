@@ -1,0 +1,5 @@
+BATCH,,201303,B,508.4000,
+INVOICE,IN,,17910104,,03/01/2013,254.2000,"Invoice-Private",,03/01/2013,03/10/2013,,17915264MO,-5900.2000,,,,,,,,,,
+TRANSACTION,3312,010313179,31,8.2000,254.20,"Credit for Two Room Rental Discount: Lemoine, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,17910104,,03/01/2013,254.2,"Invoice-Private",,03/01/2013,03/10/2013,,17915264MO,-5900.2000,,,,,,,,,,
+TRANSACTION,3312,010313179,31,8.2,254.2,"Two Room Rental Discount: Lemoine, Leona",,,,,,,,,,,,,,,

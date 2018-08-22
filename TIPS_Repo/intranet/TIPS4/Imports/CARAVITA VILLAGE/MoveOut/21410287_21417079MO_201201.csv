@@ -1,0 +1,7 @@
+BATCH,,201201,B,4752.0000,
+INVOICE,IN,,21410287,,01/01/2012,660.0000,"Invoice-Private",,01/01/2012,01/10/2012,,21417079MO,-3432.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,5,44.0000,220.00,"Resident Care - Level 4 for Jan: Hampton, Arlyne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,5,88.0000,440.00,"Studio for Jan: Hampton, Arlyne",,,,,,,,,,,,,,,
+INVOICE,CM,,21410287,,01/01/2012,4092,"Invoice-Private",,01/01/2012,01/10/2012,,21417079MO,-3432.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1364,1364,"CR:Resident Care -... A.Hampton 201201: Hampton, Arlyne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2728,2728,"CR:Studio... A.Hampton 201201: Hampton, Arlyne",,,,,,,,,,,,,,,

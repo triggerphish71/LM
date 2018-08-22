@@ -1,0 +1,5 @@
+BATCH,,201806,B,3708.0000,
+INVOICE,IN,,15710309,,06/06/2018,618.0000,"Invoice-Private",,06/06/2018,06/06/2018,,15717044MO,-2472.0000,,,,,,,,,,
+TRANSACTION,3020,010009157,6,103.0000,618.00,"Basic Service Fee - One Bedroom for Jun: Parlette, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,15710309,,06/06/2018,3090,"Invoice-Private",,06/06/2018,06/06/2018,,15717044MO,-2472.0000,,,,,,,,,,
+TRANSACTION,3020,010009157,1,3090,3090,"CR:Basic Service F... L.Parlette 201806: Parlette, Louise",,,,,,,,,,,,,,,

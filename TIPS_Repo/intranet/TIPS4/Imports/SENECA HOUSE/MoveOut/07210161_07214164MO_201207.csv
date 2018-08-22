@@ -1,0 +1,7 @@
+BATCH,,201207,B,7865.0000,
+INVOICE,IN,,07210161,,07/24/2012,3432.0000,"Invoice-Private",,07/24/2012,07/24/2012,,07214164MO,-5434.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,24,125.0000,3000.00,"Basic Service Fee - One Bedroom for Jul: Zoeller, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,24,18.0000,432.00,"Resident Care - Level 1 for Jul: Zoeller, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,07210161,,07/24/2012,4433,"Invoice-Private",,07/24/2012,07/24/2012,,07214164MO,-5434.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3875,3875,"CR:Basic Service F... M.Zoeller 201207: Zoeller, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,558,558,"CR:Resident Care -... M.Zoeller 201207: Zoeller, Maxine",,,,,,,,,,,,,,,

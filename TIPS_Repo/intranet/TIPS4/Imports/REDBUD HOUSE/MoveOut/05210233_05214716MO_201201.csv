@@ -1,0 +1,8 @@
+BATCH,,201201,B,5406.2000,
+INVOICE,IN,,05210233,,01/01/2012,1934.2000,"Invoice-Private",,01/01/2012,01/10/2012,,05214716MO,-1537.8000,,,,,,,,,,
+TRANSACTION,3312,010202052,1,254.2000,254.20,"CR:Two Room Rental... S.Jones 201201: Jones, Spencer",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,15,82.0000,1230.00,"Basic Service Fee - Studio for Jan: Jones, Spencer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,15,30.0000,450.00,"Resident Care - Level 2 for Jan: Jones, Spencer",,,,,,,,,,,,,,,
+INVOICE,CM,,05210233,,01/01/2012,3472,"Invoice-Private",,01/01/2012,01/10/2012,,05214716MO,-1537.8000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2542,2542,"CR:Basic Service F... S.Jones 201201: Jones, Spencer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,930,930,"CR:Resident Care -... S.Jones 201201: Jones, Spencer",,,,,,,,,,,,,,,

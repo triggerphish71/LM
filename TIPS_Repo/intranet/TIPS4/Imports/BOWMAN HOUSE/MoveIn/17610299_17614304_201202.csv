@@ -1,0 +1,6 @@
+BATCH,,201202,B,4074.0000,
+INVOICE,IN,,17610299,,02/04/2012,4074.0000,"MoveIn-Scott. Arline",,02/04/2012,02/04/2012,,17614304,4074.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,26,73.0000,1898,"Basic Service Fee - Studio: Scott. Arline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,26,16.0000,416,"Resident Care - Level 1: Scott. Arline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Scott. Arline",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,26,10.0000,260,"CC Meals: Scott. Arline",,,,,,,,,,,,,,,

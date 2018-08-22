@@ -1,0 +1,5 @@
+BATCH,,201301,B,56.0000,
+INVOICE,IN,,01310195,,01/01/2013,28.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01314234MO,-5961.0000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Hall, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,01310195,,01/01/2013,28,"Invoice-Private",,01/01/2013,01/10/2013,,01314234MO,-5961.0000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Hall, Herbert",,,,,,,,,,,,,,,

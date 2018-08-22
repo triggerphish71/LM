@@ -1,0 +1,7 @@
+BATCH,,201301,B,4365.0000,
+INVOICE,IN,,15510250,,01/01/2013,589.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15515625MO,-2865.0000,,,,,,,,,,
+TRANSACTION,3320,010310155,1,589.0000,589.00,"CR:Limited Term Di... R.Thomas 201301: Thomas, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,15510250,,01/01/2013,3776,"Invoice-Private",,01/01/2013,01/10/2013,,15515625MO,-2865.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... R.Thomas 201301: Thomas, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... R.Thomas 201301: Thomas, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,992,992,"CR:Resident Care -... R.Thomas 201301: Thomas, Richard",,,,,,,,,,,,,,,

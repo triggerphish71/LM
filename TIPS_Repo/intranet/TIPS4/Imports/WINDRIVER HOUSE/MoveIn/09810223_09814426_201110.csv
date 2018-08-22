@@ -1,0 +1,5 @@
+BATCH,,201110,B,4254.0500,
+INVOICE,IN,,09810223,,10/13/2011,4254.0500,"MoveIn-Naccarini. Alice",,10/13/2011,10/13/2011,,09814426,4254.0500,,,,,,,,,,
+TRANSACTION,3010,010103098,19,107.0000,2033,"Basic Service Fee - One Bedroom    : Naccarini. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,19,37.9500,721.05,"Resident Care - Level 23: Naccarini. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1500.0000,1500,"New Resident Fee: Naccarini. Alice",,,,,,,,,,,,,,,

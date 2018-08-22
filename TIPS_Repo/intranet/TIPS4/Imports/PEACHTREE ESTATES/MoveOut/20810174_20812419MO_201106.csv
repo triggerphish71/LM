@@ -1,0 +1,5 @@
+BATCH,,201106,B,1332.0000,
+INVOICE,IN,,20810174,,06/01/2011,666.0000,"Invoice-Private",,06/01/2011,06/10/2011,,20812419MO,-3301.0000,,,,,,,,,,
+TRANSACTION,3017,010216208,1,666.0000,666.00,"Private Care Adjustment: Arbucci, Peggy",,,,,,,,,,,,,,,
+INVOICE,CM,,20810174,,06/01/2011,666,"Invoice-Private",,06/01/2011,06/10/2011,,20812419MO,-3301.0000,,,,,,,,,,
+TRANSACTION,3017,010216208,1,666,666,"Credit for Private Care Adjustment: Arbucci, Peggy",,,,,,,,,,,,,,,

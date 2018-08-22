@@ -1,0 +1,6 @@
+BATCH,,201106,B,2346.0000,
+INVOICE,IN,,14010210,,06/23/2011,2346.0000,"MoveIn-Gaines. Bob (John)",,06/23/2011,06/23/2011,,14013486,5538.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,8,85.0000,680,"B.Gaines: Basic Service Fee - Studio: Gaines. Bob (John)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,8,17.0000,136,"B.Gaines: Resident Care - Level 1: Gaines. Bob (John)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Gaines. Bob (John)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: Gaines. Bob (John)",,,,,,,,,,,,,,,

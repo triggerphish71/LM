@@ -1,0 +1,6 @@
+BATCH,,201206,B,5400.0000,
+INVOICE,IN,,17110255,,06/01/2012,1320.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17115143MO,-6077.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,1320.0000,1320.00,"CR:Limited Term Di... W.Horton 201206: Horton, William",,,,,,,,,,,,,,,
+INVOICE,CM,,17110255,,06/01/2012,4080,"Invoice-Private",,06/01/2012,06/10/2012,,17115143MO,-6077.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2820,2820,"CR:Basic Service F... W.Horton 201206: Horton, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1260,1260,"CR:Resident Care -... W.Horton 201206: Horton, William",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,5358.0000,
+INVOICE,IN,,11410161,,10/09/2012,5358.0000,"MoveIn-Valentin. Juan",,10/09/2012,10/09/2012,,11414166,5358.0000,,,,,,,,,,
+TRANSACTION,3010,010306114,23,111.0000,2553,"Basic Service Fee - Studio         : Valentin. Juan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306114,23,35.0000,805,"Swan Personal Care - L2: Valentin. Juan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306114,1,2000.0000,2000,"New Resident Fee: Valentin. Juan",,,,,,,,,,,,,,,

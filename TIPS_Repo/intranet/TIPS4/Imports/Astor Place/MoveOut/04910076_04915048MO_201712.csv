@@ -1,0 +1,8 @@
+BATCH,,201712,B,8349.4700,
+INVOICE,IN,,04910076,,12/15/2017,3264.0000,"Invoice-Private",,12/15/2017,12/15/2017,,04915048MO,-1821.4700,,,,,,,,,,
+TRANSACTION,3020,010001049,20,108.0000,2160.00,"Basic Service Fee - Studio  for Dec: Rusinko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,20,55.2000,1104.00,"Resident Care - Level 24  for Dec: Rusinko, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,04910076,,12/15/2017,5085.47,"Invoice-Private",,12/15/2017,12/15/2017,,04915048MO,-1821.4700,,,,,,,,,,
+TRANSACTION,3020,010001049,1,3348,3348,"CR:Basic Service F... D.Rusinko 201712: Rusinko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010001049,1,26.27,26.27,"CR:Monthly Cable... D.Rusinko 201712: Rusinko, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,1,1711.2,1711.2,"CR:Resident Care -... D.Rusinko 201712: Rusinko, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201709,B,10356.6000,
+INVOICE,IN,,14810401,,09/29/2017,5075.0000,"Invoice-Private",,09/29/2017,09/29/2017,,14817402MO,2863.8000,,,,,,,,,,
+TRANSACTION,3020,010010148,29,114.0000,3306.00,"Basic Service Fee - One Bedroom  for Sep: Metro, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010148,29,61.0000,1769.00,"Resident Care - Level 3  for Sep: Metro, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,14810401,,09/29/2017,5281.6,"Invoice-Private",,09/29/2017,09/29/2017,,14817402MO,2863.8000,,,,,,,,,,
+TRANSACTION,3020,010010148,1,3420,3420,"CR:Basic Service F... V.Metro 201709: Metro, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010148,1,31.6,31.6,"CR:Monthly Cable... V.Metro 201709: Metro, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010148,1,1830,1830,"CR:Resident Care -... V.Metro 201709: Metro, Virginia",,,,,,,,,,,,,,,

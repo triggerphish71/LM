@@ -1,0 +1,6 @@
+BATCH,,201111,B,5919.8000,
+INVOICE,IN,,06210223,,11/03/2011,5919.8000,"MoveIn-Long. Charolette",,11/03/2011,11/03/2011,,06213630,5919.8000,,,,,,,,,,
+TRANSACTION,3010,010101062,28,83.0000,2324,"Basic Service Fee - Studio         : Long. Charolette",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,28,56.1000,1570.8,"Resident Care - Level 33: Long. Charolette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Long. Charolette",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Long. Charolette",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,3723.0000,
+INVOICE,IN,,05110181,,11/12/2012,3723.0000,"MoveIn-Cotton. Anna",,11/12/2012,11/12/2012,,05114468,3723.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,19,100.0000,1900,"Basic Service Fee - Studio: Cotton. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202051,19,17.0000,323,"Resident Care - Level 1: Cotton. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202051,1,1500.0000,1500,"New Resident Fee: Cotton. Anna",,,,,,,,,,,,,,,

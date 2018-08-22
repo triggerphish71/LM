@@ -1,0 +1,7 @@
+BATCH,,201210,B,5373.0000,
+INVOICE,IN,,50210208,,10/13/2012,1331.0000,"Invoice-Private",,10/13/2012,10/13/2012,,50213631MO,-2711.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,11,121.0000,1331.00,"Basic Service Fee - One Bedroom Del for Oct: Keller, John",,,,,,,,,,,,,,,
+INVOICE,CM,,50210208,,10/13/2012,4042,"Invoice-Private",,10/13/2012,10/13/2012,,50213631MO,-2711.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3267,3267,"CR:Basic Service F... J.Keller 201210: Keller, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... J.Keller 201210: Keller, John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,750,750,"CR:New Resident Fe... J.Keller 201210: Keller, John",,,,,,,,,,,,,,,

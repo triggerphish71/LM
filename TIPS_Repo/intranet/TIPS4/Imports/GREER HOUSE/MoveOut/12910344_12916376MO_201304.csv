@@ -1,0 +1,6 @@
+BATCH,,201304,B,3362.0000,
+INVOICE,IN,,12910344,,04/04/2013,392.0000,"Invoice-Private",,04/04/2013,04/04/2013,,12916376MO,-2578.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,4,98.0000,392.00,"Basic Service Fee - Studio for Apr: Baxter, James",,,,,,,,,,,,,,,
+INVOICE,CM,,12910344,,04/04/2013,2970,"Invoice-Private",,04/04/2013,04/04/2013,,12916376MO,-2578.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2940,2940,"CR:Basic Service F... J.Baxter 201304: Baxter, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... J.Baxter 201304: Baxter, James",,,,,,,,,,,,,,,

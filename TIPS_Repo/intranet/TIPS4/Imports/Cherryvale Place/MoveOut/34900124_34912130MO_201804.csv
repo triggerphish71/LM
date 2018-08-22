@@ -1,0 +1,7 @@
+BATCH,,201804,B,5499.0000,
+INVOICE,IN,,34900124,,04/09/2018,1269.0000,"Invoice-Private",,04/09/2018,04/09/2018,,34912130MO,-7332.0000,,,,,,,,,,
+TRANSACTION,3020,070027349,9,120.0000,1080.00,"One Bedroom  for Apr: Potter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,070027349,9,21.0000,189.00,"Resident Care - Level 1  for Apr: Potter, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,34900124,,04/09/2018,4230,"Invoice-Private",,04/09/2018,04/09/2018,,34912130MO,-7332.0000,,,,,,,,,,
+TRANSACTION,3020,070027349,1,3600,3600,"CR:One Bedroom... C.Potter 201804: Potter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,070027349,1,630,630,"CR:Resident Care -... C.Potter 201804: Potter, Charlotte",,,,,,,,,,,,,,,

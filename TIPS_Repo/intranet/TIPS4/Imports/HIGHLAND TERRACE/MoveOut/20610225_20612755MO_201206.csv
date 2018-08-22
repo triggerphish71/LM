@@ -1,0 +1,6 @@
+BATCH,,201206,B,3120.0000,
+INVOICE,IN,,20610225,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20612755MO,-3958.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,60.0000,60.00,"CR:Limited Term Di... R.Bailey 201206: Bailey, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,20610225,,06/01/2012,3060,"Invoice-Private",,06/01/2012,06/10/2012,,20612755MO,-3958.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,330,330,"CR:Resident Care -... R.Bailey 201206: Bailey, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2730,2730,"CR:Studio... R.Bailey 201206: Bailey, Robert",,,,,,,,,,,,,,,

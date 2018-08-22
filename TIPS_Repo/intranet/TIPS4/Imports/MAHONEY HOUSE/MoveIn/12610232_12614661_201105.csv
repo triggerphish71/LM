@@ -1,0 +1,5 @@
+BATCH,,201105,B,4052.0000,
+INVOICE,IN,,12610232,,05/13/2011,4052.0000,"MoveIn-Straube. Nora",,05/13/2011,05/13/2011,,12614661,4052.0000,,,,,,,,,,
+TRANSACTION,3010,010211126,19,90.0000,1710,"Basic Service Fee - Studio         : Straube. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211126,19,18.0000,342,"Resident Care - Level 1: Straube. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211126,1,2000.0000,2000,"New Resident Fee: Straube. Nora",,,,,,,,,,,,,,,

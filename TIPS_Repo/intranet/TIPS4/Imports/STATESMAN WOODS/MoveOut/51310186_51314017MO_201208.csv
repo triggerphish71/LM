@@ -1,0 +1,8 @@
+BATCH,,201208,B,4507.0000,
+INVOICE,IN,,51310186,,08/04/2012,570.0000,"Invoice-Private",,08/04/2012,08/04/2012,,51314017MO,-3367.0000,,,,,,,,,,
+TRANSACTION,3320,010310513,1,62.0000,62.00,"CR:Limited Term Di... M.Meller 201208: Meller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,4,76.0000,304.00,"Basic Service Fee - Companion Studi for Aug: Meller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,4,51.0000,204.00,"Resident Care - Level 4 for Aug: Meller, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,51310186,,08/04/2012,3937,"Invoice-Private",,08/04/2012,08/04/2012,,51314017MO,-3367.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,2356,2356,"CR:Basic Service F... M.Meller 201208: Meller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1581,1581,"CR:Resident Care -... M.Meller 201208: Meller, Mary",,,,,,,,,,,,,,,

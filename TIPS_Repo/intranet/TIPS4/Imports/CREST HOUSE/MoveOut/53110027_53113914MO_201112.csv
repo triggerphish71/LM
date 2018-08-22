@@ -1,0 +1,8 @@
+BATCH,,201112,B,4720.0000,
+INVOICE,IN,,53110027,,12/01/2011,62.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53113914MO,-5050.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,62.0000,62.00,"CR:Limited Term Di... B.Raasch 201112: Raasch, Burnette",,,,,,,,,,,,,,,
+INVOICE,CM,,53110027,,12/01/2011,4658,"Invoice-Private",,12/01/2011,12/10/2011,,53113914MO,-5050.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2945,2945,"CR:Basic Service F... B.Raasch 201112: Raasch, Burnette",,,,,,,,,,,,,,,
+TRANSACTION,3211,010319531,1,50,50,"CR:Laundry... B.Raasch 201112: Raasch, Burnette",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... B.Raasch 201112: Raasch, Burnette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1643,1643,"CR:Resident Care -... B.Raasch 201112: Raasch, Burnette",,,,,,,,,,,,,,,

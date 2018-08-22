@@ -1,0 +1,5 @@
+BATCH,,201203,B,56.0000,
+INVOICE,IN,,14410186,,03/01/2012,28.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14415016MO,-5996.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Myers, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410186,,03/01/2012,28,"Invoice-Private",,03/01/2012,03/10/2012,,14415016MO,-5996.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Myers, Margie",,,,,,,,,,,,,,,

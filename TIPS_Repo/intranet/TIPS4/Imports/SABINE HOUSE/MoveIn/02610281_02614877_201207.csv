@@ -1,0 +1,5 @@
+BATCH,,201207,B,1374.0000,
+INVOICE,IN,,02610281,,07/31/2012,1374.0000,"MoveIn-Monogue. Pat",,07/31/2012,07/31/2012,,02614877,4408.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,1,97.0000,97,"Basic Service Fee - Studio: Monogue. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Monogue. Pat",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1250.0000,1250,"New Resident Fee: Monogue. Pat",,,,,,,,,,,,,,,

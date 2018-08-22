@@ -1,0 +1,8 @@
+BATCH,,201201,B,4917.1200,
+INVOICE,IN,,01510206,,12/31/2011,2091.1600,"MoveIn-Johnson. Mabel",,12/31/2011,12/31/2011,,01514138,4917.1200,,,,,,,,,,
+TRANSACTION,3014,010103015,1,84.0000,84,"Basic Service Fee - Studio: Johnson. Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,1,7.1600,7.16,"Resident Care - Level 4: Johnson. Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: Johnson. Mabel",,,,,,,,,,,,,,,
+INVOICE,IN,,01510206,,01/01/2012,2825.9600,"January_Rent-Johnson. Mabel",,01/01/2012,01/10/2012,,01514138,4917.1200,,,,,,,,,,
+TRANSACTION,3010,010103015,31,84.0000,2604,"Basic Service Fee - Studio: Johnson. Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,31,7.1600,221.96,"Resident Care - Level 4: Johnson. Mabel",,,,,,,,,,,,,,,

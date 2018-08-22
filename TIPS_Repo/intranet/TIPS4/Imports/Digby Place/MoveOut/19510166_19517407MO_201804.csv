@@ -1,0 +1,7 @@
+BATCH,,201804,B,2553.0000,
+INVOICE,IN,,19510166,,04/06/2018,414.0000,"Invoice-Private",,04/06/2018,04/06/2018,,19517407MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3020,010009195,6,69.0000,414.00,"Basic Service Fee - Studio  for Apr: Baker, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,19510166,,04/06/2018,2139,"Invoice-Private",,04/06/2018,04/06/2018,,19517407MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3020,010009195,1,2070,2070,"CR:Basic Service F... L.Baker 201804: Baker, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3130,010009195,1,43.4,43.4,"CR:Pendant Fee... L.Baker 201804: Baker, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3228,010009195,1,25.6,25.6,"CR:Sharps Disposal... L.Baker 201804: Baker, Laura",,,,,,,,,,,,,,,

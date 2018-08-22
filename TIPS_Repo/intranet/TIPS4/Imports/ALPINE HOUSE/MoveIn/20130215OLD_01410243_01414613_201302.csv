@@ -1,0 +1,5 @@
+BATCH,,201302,B,2200.0000,
+INVOICE,IN,,01410243,,02/14/2013,2200.0000,"MoveIn-Brogoitti. D",,02/14/2013,02/14/2013,,01414613,5170.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,15,95.0000,1425,"Basic Service Fee - Studio: Brogoitti. D",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Brogoitti. D",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,750.0000,750,"New Resident Fee: Brogoitti. D",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,3807.0000,
+INVOICE,IN,,01710091,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,01713581MO,-3687.0000,,,,,,,,,,
+TRANSACTION,3320,010202017,1,60.0000,60.00,"CR:Limited Term Di... D.Spears 201204: Spears, Delila",,,,,,,,,,,,,,,
+INVOICE,CM,,01710091,,04/01/2012,3747,"Invoice-Private",,04/01/2012,04/10/2012,,01713581MO,-3687.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2790,2790,"CR:Basic Service F... D.Spears 201204: Spears, Delila",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... D.Spears 201204: Spears, Delila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,930,930,"CR:Resident Care -... D.Spears 201204: Spears, Delila",,,,,,,,,,,,,,,

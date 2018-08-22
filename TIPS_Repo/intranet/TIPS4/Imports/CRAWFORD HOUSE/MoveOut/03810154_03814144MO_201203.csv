@@ -1,0 +1,8 @@
+BATCH,,201203,B,5738.2000,
+INVOICE,IN,,03810154,,03/12/2012,1777.4400,"Invoice-Private",,03/12/2012,03/12/2012,,03814144MO,-2183.3200,,,,,,,,,,
+TRANSACTION,3020,010103038,14,84.0000,1176.00,"Basic Service Fee - Studio for Mar: Barnhart, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,14,42.9600,601.44,"Resident Care - Level 24 for Mar: Barnhart, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,03810154,,03/12/2012,3960.76,"Invoice-Private",,03/12/2012,03/12/2012,,03814144MO,-2183.3200,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2604,2604,"CR:Basic Service F... D.Barnhart 201203: Barnhart, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... D.Barnhart 201203: Barnhart, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,1331.76,1331.76,"CR:Resident Care -... D.Barnhart 201203: Barnhart, Donna",,,,,,,,,,,,,,,

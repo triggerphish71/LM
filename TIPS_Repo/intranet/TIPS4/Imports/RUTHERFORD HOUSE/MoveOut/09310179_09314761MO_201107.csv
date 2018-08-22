@@ -1,0 +1,7 @@
+BATCH,,201107,B,9016.0000,
+INVOICE,IN,,09310179,,07/01/2011,2940.0000,"Invoice-Private",,07/01/2011,07/10/2011,,09314761MO,-3136.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,15,108.0000,1620.00,"Basic Service Fee - Deluxe for Jul: Schrader, Margeurite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,15,88.0000,1320.00,"Resident Care - Level 6 for Jul: Schrader, Margeurite",,,,,,,,,,,,,,,
+INVOICE,CM,,09310179,,07/01/2011,6076,"Invoice-Private",,07/01/2011,07/10/2011,,09314761MO,-3136.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3348,3348,"CR:Basic Service F... M.Schrader 201107: Schrader, Margeurite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2728,2728,"CR:Resident Care -... M.Schrader 201107: Schrader, Margeurite",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,2348.0000,
+INVOICE,IN,,11510258,,02/10/2012,2348.0000,"MoveIn-Overstreet. Jim",,02/10/2012,02/10/2012,,11514060,2348.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,20,66.0000,1320,"Basic Service Fee - Studio: Overstreet. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Overstreet. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Overstreet. Jim",,,,,,,,,,,,,,,

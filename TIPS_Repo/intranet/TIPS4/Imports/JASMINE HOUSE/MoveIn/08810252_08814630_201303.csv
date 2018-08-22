@@ -1,0 +1,5 @@
+BATCH,,201303,B,4575.0000,
+INVOICE,IN,,08810252,,03/07/2013,4575.0000,"MoveIn-Emerson III. Linton",,03/07/2013,03/07/2013,,08814630,4575.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,25,114.0000,2850,"Basic Service Fee - One Bedroom: Emerson III. Linton",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,25,29.0000,725,"Resident Care - Level 2: Emerson III. Linton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,1000.0000,1000,"New Resident Fee: Emerson III. Linton",,,,,,,,,,,,,,,

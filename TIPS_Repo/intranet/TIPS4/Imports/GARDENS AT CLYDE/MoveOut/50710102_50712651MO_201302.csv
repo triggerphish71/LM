@@ -1,0 +1,6 @@
+BATCH,,201302,B,2828.0000,
+INVOICE,IN,,50710102,,02/09/2013,980.0000,"Invoice-Private",,02/09/2013,02/09/2013,,50712651MO,-2883.0000,,,,,,,,,,
+TRANSACTION,3320,010305507,1,56.0000,56.00,"CR:Limited Term Di... R.Rogers 201302: Rogers, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305507,14,66.0000,924.00,"Basic Service Fee - Studio for Feb: Rogers, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,50710102,,02/09/2013,1848,"Invoice-Private",,02/09/2013,02/09/2013,,50712651MO,-2883.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,1848,1848,"CR:Basic Service F... R.Rogers 201302: Rogers, Ralph",,,,,,,,,,,,,,,

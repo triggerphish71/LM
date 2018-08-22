@@ -1,0 +1,6 @@
+BATCH,,201305,B,2520.0000,
+INVOICE,IN,,13410255,,05/01/2013,284.0000,"Invoice-Private",,05/01/2013,05/10/2013,,13416127MO,-1952.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,4,71.0000,284.00,"Basic Service Fee - Studio for May: Kopp, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,13410255,,05/01/2013,2236,"Invoice-Private",,05/01/2013,05/10/2013,,13416127MO,-1952.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2201,2201,"CR:Basic Service F... H.Kopp 201305: Kopp, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... H.Kopp 201305: Kopp, Howard",,,,,,,,,,,,,,,

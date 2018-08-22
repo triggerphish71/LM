@@ -1,0 +1,8 @@
+BATCH,,201804,B,7484.0000,
+INVOICE,IN,,31200030,,04/12/2018,2864.0000,"Invoice-Private",,04/12/2018,04/12/2018,,31210513MO,-6555.0000,,,,,,,,,,
+TRANSACTION,3017,070024312,2,29.0000,58.00,"Level: 2  to  Level: 1  - 04/03: Richard, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,070024312,18,17.0000,306.00," Level: 1 : Richard, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,20,125.0000,2500.00,"One Bedroom  for Apr: Richard, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,31200030,,04/12/2018,4620,"Invoice-Private",,04/12/2018,04/12/2018,,31210513MO,-6555.0000,,,,,,,,,,
+TRANSACTION,3020,070024312,1,3750,3750,"CR:One Bedroom... M.Richard 201804: Richard, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024312,1,870,870,"CR:Resident Care -... M.Richard 201804: Richard, Mary",,,,,,,,,,,,,,,

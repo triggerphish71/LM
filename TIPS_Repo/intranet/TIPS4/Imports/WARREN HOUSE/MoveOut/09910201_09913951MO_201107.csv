@@ -1,0 +1,7 @@
+BATCH,,201107,B,4595.9500,
+INVOICE,IN,,09910201,,07/01/2011,478.9500,"Invoice-Private",,07/01/2011,07/10/2011,,09913951MO,-3991.5500,,,,,,,,,,
+TRANSACTION,3316,010104099,1,478.9500,478.95,"CR:Employee Discou... E.Kennington 201107: Kennington, Erlene",,,,,,,,,,,,,,,
+INVOICE,CM,,09910201,,07/01/2011,4117,"Invoice-Private",,07/01/2011,07/10/2011,,09913951MO,-3991.5500,,,,,,,,,,
+TRANSACTION,3020,010104099,1,3193,3193,"CR:Basic Service F... E.Kennington 201107: Kennington, Erlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... E.Kennington 201107: Kennington, Erlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,899,899,"CR:Resident Care -... E.Kennington 201107: Kennington, Erlene",,,,,,,,,,,,,,,

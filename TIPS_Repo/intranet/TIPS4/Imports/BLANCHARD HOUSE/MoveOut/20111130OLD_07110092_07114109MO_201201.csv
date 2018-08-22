@@ -1,0 +1,5 @@
+BATCH,,201201,B,2232.0000,
+INVOICE,IN,,07110092,,01/01/2012,1116.0000,"Invoice-Private",,01/01/2012,01/10/2012,,07114109MO,-2077.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,31,36.0000,1116.00,"Credit for Limited Term Discount: Langenderfer, June",,,,,,,,,,,,,,,
+INVOICE,CM,,07110092,,01/01/2012,1116,"Invoice-Private",,01/01/2012,01/10/2012,,07114109MO,-2077.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,31,36,1116,"Limited Term Discount: Langenderfer, June",,,,,,,,,,,,,,,

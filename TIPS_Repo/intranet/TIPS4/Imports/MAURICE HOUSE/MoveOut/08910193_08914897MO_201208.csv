@@ -1,0 +1,7 @@
+BATCH,,201208,B,4160.0000,
+INVOICE,IN,,08910193,,08/01/2012,130.0000,"Invoice-Private",,08/01/2012,08/10/2012,,08914897MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,111.0000,111.00,"Basic Service Fee - Studio for Aug: Johnson, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,19.0000,19.00,"Resident Care - Level 1 for Aug: Johnson, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,08910193,,08/01/2012,4030,"Invoice-Private",,08/01/2012,08/10/2012,,08914897MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3441,3441,"CR:Basic Service F... F.Johnson 201208: Johnson, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,589,589,"CR:Resident Care -... F.Johnson 201208: Johnson, Frances",,,,,,,,,,,,,,,

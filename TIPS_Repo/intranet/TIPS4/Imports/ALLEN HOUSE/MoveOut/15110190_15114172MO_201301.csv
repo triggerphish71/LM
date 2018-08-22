@@ -1,0 +1,8 @@
+BATCH,,201301,B,6285.0000,
+INVOICE,IN,,15110190,,01/19/2013,2375.0000,"Invoice-Private",,01/19/2013,01/19/2013,,15114172MO,-5070.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,19,85.0000,1615.00,"Basic Service Fee- One Bedroom Prem for Jan: Prall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,19,40.0000,760.00,"Swan Personal Care - L3 for Jan: Prall, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,15110190,,01/19/2013,3910,"Invoice-Private",,01/19/2013,01/19/2013,,15114172MO,-5070.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,2635,2635,"CR:Basic Service F... B.Prall 201301: Prall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... B.Prall 201301: Prall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,1240,1240,"CR:Swan Personal C... B.Prall 201301: Prall, Betty",,,,,,,,,,,,,,,

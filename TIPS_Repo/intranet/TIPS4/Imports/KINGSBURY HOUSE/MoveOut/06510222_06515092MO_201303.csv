@@ -1,0 +1,7 @@
+BATCH,,201303,B,7344.0000,
+INVOICE,IN,,06510222,,03/01/2013,3128.0000,"Invoice-Private",,03/01/2013,03/10/2013,,06515092MO,-1088.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,23,99.0000,2277.00,"Basic Service Fee - Studio for Mar: Harris, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,23,37.0000,851.00,"Resident Care Level Change for Mar: Harris, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,06510222,,03/01/2013,4216,"Invoice-Private",,03/01/2013,03/10/2013,,06515092MO,-1088.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3069,3069,"CR:Basic Service F... J.Harris 201303: Harris, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1147,1147,"CR:Resident Care L... J.Harris 201303: Harris, Jim",,,,,,,,,,,,,,,

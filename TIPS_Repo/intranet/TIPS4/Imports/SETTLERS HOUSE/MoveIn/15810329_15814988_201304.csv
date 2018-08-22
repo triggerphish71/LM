@@ -1,0 +1,5 @@
+BATCH,,201304,B,3647.0000,
+INVOICE,IN,,15810329,,04/12/2013,3647.0000,"MoveIn-Brown. Alice",,04/12/2013,04/12/2013,,15814988,3647.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,19,96.0000,1824,"Basic Service Fee - Studio: Brown. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,19,17.0000,323,"Resident Care - Level 1: Brown. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: Brown. Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201306,B,3710.0000,
+INVOICE,IN,,15710283,,06/09/2013,1610.0000,"Invoice-Private",,06/09/2013,06/09/2013,,15715033MO,-2690.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,23,70.0000,1610.00,"Basic Service Fee - One Bedroom for Jun: Macquire, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,15710283,,06/09/2013,2100,"Invoice-Private",,06/09/2013,06/09/2013,,15715033MO,-2690.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2100,2100,"CR:Basic Service F... B.Macquire 201306: Macquire, Beatrice",,,,,,,,,,,,,,,

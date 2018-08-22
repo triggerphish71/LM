@@ -1,0 +1,7 @@
+BATCH,,201206,B,3952.0000,
+INVOICE,IN,,20410070,,06/03/2012,832.0000,"Invoice-Private",,06/03/2012,06/03/2012,,20412999MO,-2288.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,8,22.0000,176.00,"Resident Care - Level 2 for Jun: Stepanovicz, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,8,82.0000,656.00,"Room and Board - Studio for Jun: Stepanovicz, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,20410070,,06/03/2012,3120,"Invoice-Private",,06/03/2012,06/03/2012,,20412999MO,-2288.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,660,660,"CR:Resident Care -... A.Stepanovicz 201206: Stepanovicz, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Room and Board ... A.Stepanovicz 201206: Stepanovicz, Albert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,5400.0000,
+INVOICE,IN,,20810121,,07/19/2011,2052.0000,"Invoice-Private",,07/19/2011,07/19/2011,,20812629MO,-4644.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,19,97.0000,1843.00,"One Bedroom for Jul: Hutchinson, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,19,11.0000,209.00,"Resident Care - Level 1 for Jul: Hutchinson, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,20810121,,07/19/2011,3348,"Invoice-Private",,07/19/2011,07/19/2011,,20812629MO,-4644.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3007,3007,"CR:One Bedroom... B.Hutchinson 201107: Hutchinson, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,341,341,"CR:Resident Care -... B.Hutchinson 201107: Hutchinson, Betty",,,,,,,,,,,,,,,

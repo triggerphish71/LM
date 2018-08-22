@@ -1,0 +1,6 @@
+BATCH,,201305,B,4014.0000,
+INVOICE,IN,,14010252,,05/10/2013,4014.0000,"MoveIn-Hoersting. Albert",,05/10/2013,05/10/2013,,14014261,4014.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,22,105.0000,2310,"Basic Service Fee - One Bedroom: Hoersting. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,22,42.0000,924,"Resident Care - Level 3: Hoersting. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Hoersting. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,750.0000,750,"New Resident Fee: Hoersting. Albert",,,,,,,,,,,,,,,

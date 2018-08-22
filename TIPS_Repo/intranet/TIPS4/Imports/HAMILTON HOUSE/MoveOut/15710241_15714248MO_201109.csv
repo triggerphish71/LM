@@ -1,0 +1,8 @@
+BATCH,,201109,B,7995.0000,
+INVOICE,IN,,15710241,,09/29/2011,3915.0000,"Invoice-Private",,09/29/2011,09/29/2011,,15714248MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,29,89.0000,2581.00,"Basic Service Fee - Studio for Sep: Stearns, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,29,46.0000,1334.00,"Resident Care - Level 3 for Sep: Stearns, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,15710241,,09/29/2011,4080,"Invoice-Private",,09/29/2011,09/29/2011,,15714248MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2670,2670,"CR:Basic Service F... K.Stearns 201109: Stearns, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... K.Stearns 201109: Stearns, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1380,1380,"CR:Resident Care -... K.Stearns 201109: Stearns, Karen",,,,,,,,,,,,,,,

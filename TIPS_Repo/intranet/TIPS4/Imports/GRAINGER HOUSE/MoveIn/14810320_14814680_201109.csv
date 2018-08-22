@@ -1,0 +1,5 @@
+BATCH,,201109,B,2350.0000,
+INVOICE,IN,,14810320,,09/16/2011,2350.0000,"MoveIn-Cooper. Samson",,09/16/2011,09/16/2011,,14814680,2350.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,15,88.0000,1320,"Basic Service Fee - Studio         : Cooper. Samson",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Cooper. Samson",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Cooper. Samson",,,,,,,,,,,,,,,

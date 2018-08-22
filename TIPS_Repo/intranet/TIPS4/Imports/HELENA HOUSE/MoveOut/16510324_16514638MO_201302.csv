@@ -1,0 +1,5 @@
+BATCH,,201302,B,54.0000,
+INVOICE,IN,,16510324,,02/01/2013,27.0000,"Invoice-Private",,02/01/2013,02/10/2013,,16514638MO,-3809.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Maloney, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,16510324,,02/01/2013,27,"Invoice-Private",,02/01/2013,02/10/2013,,16514638MO,-3809.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Maloney, Joan",,,,,,,,,,,,,,,

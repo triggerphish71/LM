@@ -1,0 +1,8 @@
+BATCH,,201209,B,6533.0000,
+INVOICE,IN,,11810192,,09/13/2012,1963.0000,"Invoice-Private",,09/13/2012,09/13/2012,,11815493MO,-2607.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,13,100.0000,1300.00,"Basic Service Fee - Studio for Sep: Short, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,13,51.0000,663.00,"Resident Care - Level 3 for Sep: Short, Lydia",,,,,,,,,,,,,,,
+INVOICE,CM,,11810192,,09/13/2012,4570,"Invoice-Private",,09/13/2012,09/13/2012,,11815493MO,-2607.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3000,3000,"CR:Basic Service F... L.Short 201209: Short, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... L.Short 201209: Short, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1530,1530,"CR:Resident Care -... L.Short 201209: Short, Lydia",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,4855.0000,
+INVOICE,IN,,53110263,,11/01/2012,1440.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53114315MO,-764.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,1440.0000,1440.00,"CR:Limited Term Di... D.Hanson 201211: Hanson, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,53110263,,11/01/2012,3415,"Invoice-Private",,11/01/2012,11/10/2012,,53114315MO,-764.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2940,2940,"CR:Basic Service F... D.Hanson 201211: Hanson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25,25,"CR:Pendant Fee... D.Hanson 201211: Hanson, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,450,450,"CR:Resident Care -... D.Hanson 201211: Hanson, Dorothy",,,,,,,,,,,,,,,

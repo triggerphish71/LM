@@ -1,0 +1,7 @@
+BATCH,,201106,B,3810.0000,
+INVOICE,IN,,53410324,,06/01/2011,90.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53419215MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,90.0000,90.00,"CR:Limited Term Di... L.Ebert 201106: Ebert, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,53410324,,06/01/2011,3720,"Invoice-Private",,06/01/2011,06/10/2011,,53419215MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2100,2100,"CR:Basic Service F... L.Ebert 201106: Ebert, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... L.Ebert 201106: Ebert, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1590,1590,"CR:Resident Care -... L.Ebert 201106: Ebert, Laura",,,,,,,,,,,,,,,

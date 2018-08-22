@@ -1,0 +1,7 @@
+BATCH,,201806,B,5390.0000,
+INVOICE,IN,,02411388,,06/01/2018,1760.0000,"Invoice-Private",,06/01/2018,06/10/2018,,02418356MO,-220.0000,,,,,,,,,,
+TRANSACTION,3017,010002024,10,75.0000,750.00," Level: 5 : Mccollum, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,10,101.0000,1010.00,"Basic Service Fee - One Bedroom  for Jun: Mccollum, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,02411388,,06/01/2018,3630,"Invoice-Private",,06/01/2018,06/10/2018,,02418356MO,-220.0000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,3030,3030,"CR:Basic Service F... M.Mccollum 201806: Mccollum, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,600,600,"CR:Resident Care -... M.Mccollum 201806: Mccollum, Melvin",,,,,,,,,,,,,,,

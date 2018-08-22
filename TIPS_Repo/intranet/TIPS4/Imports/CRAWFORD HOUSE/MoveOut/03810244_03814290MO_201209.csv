@@ -1,0 +1,7 @@
+BATCH,,201209,B,1884.4400,
+INVOICE,IN,,03810244,,09/01/2012,942.2200,"Invoice-Private",,09/01/2012,09/10/2012,,03814290MO,619.5600,,,,,,,,,,
+TRANSACTION,3320,010103038,30,24.0000,720.00,"Credit for Limited Term Discount: Johnson, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,1113,010103038,1,222.2200,222.22,"Monthly Deferral Charge: Johnson, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,03810244,,09/01/2012,942.22,"Invoice-Private",,09/01/2012,09/10/2012,,03814290MO,619.5600,,,,,,,,,,
+TRANSACTION,3320,010103038,30,24,720,"Limited Term Discount: Johnson, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,1113,010103038,1,222.22,222.22,"Credit for Monthly Deferral Charge: Johnson, Vivian",,,,,,,,,,,,,,,

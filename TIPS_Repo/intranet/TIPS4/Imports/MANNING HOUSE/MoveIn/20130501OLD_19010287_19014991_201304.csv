@@ -1,0 +1,5 @@
+BATCH,,201304,B,625.0000,
+INVOICE,IN,,19010287,,04/30/2013,625.0000,"MoveIn-Bowling. Ina",,04/30/2013,04/30/2013,,19014991,3690.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio: Bowling. Ina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Bowling. Ina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,500.0000,500,"New Resident Fee: Bowling. Ina",,,,,,,,,,,,,,,

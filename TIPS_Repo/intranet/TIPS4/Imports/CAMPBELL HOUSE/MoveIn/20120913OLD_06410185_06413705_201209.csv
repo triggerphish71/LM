@@ -1,0 +1,5 @@
+BATCH,,201209,B,2155.0000,
+INVOICE,IN,,06410185,,09/11/2012,2155.0000,"MoveIn-Prall. Norma",,09/11/2012,09/11/2012,,06413705,2155.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,20,90.0000,1800,"Basic Service Fee - Studio: Prall. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305064,20,16.0000,320,"Resident Care - Level 1: Prall. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Prall. Norma",,,,,,,,,,,,,,,

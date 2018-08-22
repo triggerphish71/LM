@@ -1,0 +1,8 @@
+BATCH,,201202,B,5520.0000,
+INVOICE,IN,,53310100,,02/01/2012,1903.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53314340MO,-1714.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,58.0000,58.00,"CR:Limited Term Di... M.Larson 201202: Larson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,15,123.0000,1845.00,"Basic Service Fee- One Bedroom Prem for Feb: Larson, Myrtle",,,,,,,,,,,,,,,
+INVOICE,CM,,53310100,,02/01/2012,3617,"Invoice-Private",,02/01/2012,02/10/2012,,53314340MO,-1714.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,3567,3567,"CR:Basic Service F... M.Larson 201202: Larson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... M.Larson 201202: Larson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... M.Larson 201202: Larson, Myrtle",,,,,,,,,,,,,,,

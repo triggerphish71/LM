@@ -1,0 +1,6 @@
+BATCH,,201210,B,2048.1400,
+INVOICE,IN,,01310192,,10/21/2012,2048.1400,"MoveIn-Oesterle. Una",,10/21/2012,10/21/2012,,01314194,4858.3400,,,,,,,,,,
+TRANSACTION,3010,010103013,11,82.0000,902,"Basic Service Fee - One Bedroom: Oesterle. Una",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,11,10.7400,118.14,"Resident Care - Level 6: Oesterle. Una",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Oesterle. Una",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Oesterle. Una",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,5102.0000,
+INVOICE,IN,,08610216,,03/10/2012,5102.0000,"MoveIn-Wagner. Lewis",,03/10/2012,03/10/2012,,08614701,5102.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,22,125.0000,2750,"Basic Service Fee - One Bedroom: Wagner. Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,22,16.0000,352,"Resident Care - Level 1: Wagner. Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000.0000,2000,"New Resident Fee: Wagner. Lewis",,,,,,,,,,,,,,,

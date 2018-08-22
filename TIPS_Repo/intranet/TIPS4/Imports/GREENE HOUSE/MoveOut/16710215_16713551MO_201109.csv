@@ -1,0 +1,5 @@
+BATCH,,201109,B,3120.0000,
+INVOICE,CM,,16710215,,09/01/2011,3120,"Invoice-Private",,09/01/2011,09/10/2011,,16713551MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2640,2640,"CR:Basic Service F... L.Reiling 201109: Reiling, Lavina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... L.Reiling 201109: Reiling, Lavina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,450,450,"CR:Resident Care -... L.Reiling 201109: Reiling, Lavina",,,,,,,,,,,,,,,

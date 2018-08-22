@@ -1,0 +1,5 @@
+BATCH,,201112,B,4406.0000,
+INVOICE,CM,,0641009,,12/01/2011,4406,"Invoice-Private",,12/01/2011,12/10/2011,,06413579MO,-4406.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,2697,2697,"CR:Basic Service F... J.Green 201112: Green, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... J.Green 201112: Green, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,1674,1674,"CR:Resident Care -... J.Green 201112: Green, James",,,,,,,,,,,,,,,

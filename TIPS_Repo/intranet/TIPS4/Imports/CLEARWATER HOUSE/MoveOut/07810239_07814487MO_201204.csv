@@ -1,0 +1,8 @@
+BATCH,,201204,B,9210.0000,
+INVOICE,IN,,07810239,,04/01/2012,4175.0000,"Invoice-Private",,04/01/2012,04/10/2012,,07814487MO,-860.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,25,96.0000,2400.00,"Basic Service Fee - Deluxe for Apr: Keyes, Melva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,25,71.0000,1775.00,"Resident Care - Level 5 for Apr: Keyes, Melva",,,,,,,,,,,,,,,
+INVOICE,CM,,07810239,,04/01/2012,5035,"Invoice-Private",,04/01/2012,04/10/2012,,07814487MO,-860.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2880,2880,"CR:Basic Service F... M.Keyes 201204: Keyes, Melva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... M.Keyes 201204: Keyes, Melva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,2130,2130,"CR:Resident Care -... M.Keyes 201204: Keyes, Melva",,,,,,,,,,,,,,,

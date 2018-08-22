@@ -1,0 +1,7 @@
+BATCH,,201109,B,4887.0000,
+INVOICE,IN,,16510265,,09/01/2011,1110.0000,"Invoice-Private",,09/01/2011,09/10/2011,,16513881MO,-1922.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,1110.0000,1110.00,"CR:Limited Term Di... C.Holder 201109: Holder, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,16510265,,09/01/2011,3777,"Invoice-Private",,09/01/2011,09/10/2011,,16513881MO,-1922.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2910,2910,"CR:Basic Service F... C.Holder 201109: Holder, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... C.Holder 201109: Holder, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,840,840,"CR:Resident Care -... C.Holder 201109: Holder, Carolyn",,,,,,,,,,,,,,,

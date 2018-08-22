@@ -1,0 +1,8 @@
+BATCH,,201108,B,3772.0000,
+INVOICE,IN,,10810245,,08/15/2011,378.0000,"Invoice-Private",,08/15/2011,08/15/2011,,10814583MO,-6796.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,3,100.0000,300.00,"Basic Service Fee - One Bedroom for Aug: Gunnells, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,3,26.0000,78.00,"Resident Care - Level 2 for Aug: Gunnells, Curtis",,,,,,,,,,,,,,,
+INVOICE,CM,,10810245,,08/15/2011,3394,"Invoice-Private",,08/15/2011,08/15/2011,,10814583MO,-6796.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,1900,1900,"CR:Basic Service F... C.Gunnells 201108: Gunnells, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000,1000,"CR:New Resident Fe... C.Gunnells 201108: Gunnells, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,494,494,"CR:Resident Care -... C.Gunnells 201108: Gunnells, Curtis",,,,,,,,,,,,,,,

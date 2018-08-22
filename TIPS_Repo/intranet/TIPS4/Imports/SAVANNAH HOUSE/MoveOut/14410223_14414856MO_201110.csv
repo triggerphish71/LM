@@ -1,0 +1,7 @@
+BATCH,,201110,B,2214.0000,
+INVOICE,IN,,14410223,,10/10/2011,540.0000,"Invoice-Private",,10/10/2011,10/10/2011,,14414856MO,-1134.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,10,38.0000,380.00,"Basic Service Fee - Second Resident for Oct: Sopalsky, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,10,16.0000,160.00,"Resident Care - Level 1 for Oct: Sopalsky, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,14410223,,10/10/2011,1674,"Invoice-Private",,10/10/2011,10/10/2011,,14414856MO,-1134.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,1178,1178,"CR:Basic Service F... J.Sopalsky 201110: Sopalsky, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... J.Sopalsky 201110: Sopalsky, Joseph",,,,,,,,,,,,,,,

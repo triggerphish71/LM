@@ -1,0 +1,8 @@
+BATCH,,201201,B,7779.0000,
+INVOICE,IN,,17110232,,01/26/2012,3536.0000,"Invoice-Private",,01/26/2012,01/26/2012,,17114932MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,26,94.0000,2444.00,"Basic Service Fee - Studio for Jan: Morris, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,26,42.0000,1092.00,"Resident Care - Level 3 for Jan: Morris, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,17110232,,01/26/2012,4243,"Invoice-Private",,01/26/2012,01/26/2012,,17114932MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... G.Morris 201201: Morris, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... G.Morris 201201: Morris, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1302,1302,"CR:Resident Care -... G.Morris 201201: Morris, Gene",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,5689.3800,
+INVOICE,IN,,01010170,,03/18/2012,3160.4000,"Invoice-Private",,03/18/2012,03/18/2012,,01012800MO,-1125.9800,,,,,,,,,,
+TRANSACTION,3320,010101010,1,713.0000,713.00,"CR:Limited Term Di... F.Lengele 201203: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101010,30,78.0000,2340.00,"Basic Service Fee - Studio for Mar: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,30,3.5800,107.40,"Resident Care - Level 2 for Mar: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+INVOICE,CM,,01010170,,03/18/2012,2528.98,"Invoice-Private",,03/18/2012,03/18/2012,,01012800MO,-1125.9800,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2418,2418,"CR:Basic Service F... F.Lengele 201203: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,110.98,110.98,"CR:Resident Care -... F.Lengele 201203: Lengele, Francis (Frank)",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,1020.0000,
+INVOICE,IN,,14210181,,08/03/2011,90.0000,"Invoice-Private",,08/03/2011,08/03/2011,,14213599MO,-840.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,3,30.0000,90.00,"Basic Service Fee - Second Resident for Aug: Webb, Jeanetta",,,,,,,,,,,,,,,
+INVOICE,CM,,14210181,,08/03/2011,930,"Invoice-Private",,08/03/2011,08/03/2011,,14213599MO,-840.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,930,930,"CR:Basic Service F... J.Webb 201108: Webb, Jeanetta",,,,,,,,,,,,,,,

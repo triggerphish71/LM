@@ -1,0 +1,6 @@
+BATCH,,201304,B,5085.0000,
+INVOICE,IN,,14210214,,04/04/2013,5085.0000,"MoveIn-Combest. Wesley",,04/04/2013,04/04/2013,,14214371,5085.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,27,88.0000,2376,"Basic Service Fee - Studio: Combest. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,27,62.0000,1674,"Resident Care - Level 4: Combest. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Combest. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Combest. Wesley",,,,,,,,,,,,,,,

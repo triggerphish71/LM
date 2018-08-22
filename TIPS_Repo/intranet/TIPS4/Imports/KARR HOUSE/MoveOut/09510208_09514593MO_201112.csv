@@ -1,0 +1,5 @@
+BATCH,,201112,B,1426.0000,
+INVOICE,IN,,09510208,,12/01/2011,713.0000,"Invoice-Private",,12/01/2011,12/10/2011,,09514593MO,-2850.7000,,,,,,,,,,
+TRANSACTION,3320,010103095,31,23.0000,713.00,"Credit for Limited Term Discount: Hanson, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,09510208,,12/01/2011,713,"Invoice-Private",,12/01/2011,12/10/2011,,09514593MO,-2850.7000,,,,,,,,,,
+TRANSACTION,3320,010103095,31,23,713,"Limited Term Discount: Hanson, Bob",,,,,,,,,,,,,,,

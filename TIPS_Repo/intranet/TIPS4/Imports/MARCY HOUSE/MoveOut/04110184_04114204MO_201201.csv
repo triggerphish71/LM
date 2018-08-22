@@ -1,0 +1,8 @@
+BATCH,,201201,B,3492.0000,
+INVOICE,IN,,04110184,,01/02/2012,396.0000,"Invoice-Private",,01/02/2012,01/02/2012,,04114204MO,-2700.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,4,82.0000,328.00,"Basic Service Fee - Studio for Jan: Long, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,4,17.0000,68.00,"Resident Care - Level 1 for Jan: Long, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,04110184,,01/02/2012,3096,"Invoice-Private",,01/02/2012,01/02/2012,,04114204MO,-2700.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... R.Long 201201: Long, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27,27,"CR:Monthly Cable... R.Long 201201: Long, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... R.Long 201201: Long, Robert",,,,,,,,,,,,,,,

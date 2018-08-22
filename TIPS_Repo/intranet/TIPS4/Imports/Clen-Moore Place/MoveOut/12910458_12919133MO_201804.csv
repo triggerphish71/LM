@@ -1,0 +1,8 @@
+BATCH,,201804,B,9014.6000,
+INVOICE,IN,,12910458,,04/01/2018,2683.0000,"Invoice-Private",,04/01/2018,04/10/2018,,12919133MO,-13235.2000,,,,,,,,,,
+TRANSACTION,3017,010010129,23,105.0000,2415.00,"Level Care:  6  -upto 2018-02-24: Collins, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010129,4,67.0000,268.00," Level Care:  3 : Collins, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,12910458,,04/01/2018,6331.6,"Invoice-Private",,04/01/2018,04/10/2018,,12919133MO,-13235.2000,,,,,,,,,,
+TRANSACTION,3020,010010129,1,3150,3150,"CR:Basic Service F... M.Collins 201804: Collins, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010129,1,31.6,31.6,"CR:Monthly Cable... M.Collins 201804: Collins, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010129,1,3150,3150,"CR:Resident Care -... M.Collins 201804: Collins, Margaret",,,,,,,,,,,,,,,

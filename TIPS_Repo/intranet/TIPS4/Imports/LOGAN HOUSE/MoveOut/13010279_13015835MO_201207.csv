@@ -1,0 +1,7 @@
+BATCH,,201207,B,5880.0000,
+INVOICE,IN,,13010279,,07/04/2012,1540.0000,"Invoice-Private",,07/04/2012,07/04/2012,,13015835MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,11,102.0000,1122.00,"Basic Service Fee - Studio for Jul: Dykes, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,11,38.0000,418.00,"Resident Care - Level 2 for Jul: Dykes, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,13010279,,07/04/2012,4340,"Invoice-Private",,07/04/2012,07/04/2012,,13015835MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3162,3162,"CR:Basic Service F... B.Dykes 201207: Dykes, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1178,1178,"CR:Resident Care -... B.Dykes 201207: Dykes, Bernice",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,6823.0000,
+INVOICE,IN,,04310158,,02/01/2012,824.0000,"Invoice-Private",,02/01/2012,02/10/2012,,04313848MO,-5175.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,4,119.0000,476.00,"Basic Service Fee - One Bedroom for Feb: Hancock, Bluefford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,4,87.0000,348.00,"Resident Care - Level 6 for Feb: Hancock, Bluefford",,,,,,,,,,,,,,,
+INVOICE,CM,,04310158,,02/01/2012,5999,"Invoice-Private",,02/01/2012,02/10/2012,,04313848MO,-5175.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,3451,3451,"CR:Basic Service F... B.Hancock 201202: Hancock, Bluefford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25,25,"CR:Monthly Cable... B.Hancock 201202: Hancock, Bluefford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,2523,2523,"CR:Resident Care -... B.Hancock 201202: Hancock, Bluefford",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201111,B,6726.0000,
+INVOICE,IN,,14610188,,11/24/2011,2976.0000,"Invoice-Private",,11/24/2011,11/24/2011,,14614295MO,-4648.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,24,89.0000,2136.00,"Basic Service Fee - Studio for Nov: Flynn, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,24,35.0000,840.00,"Resident Care - Level 2 for Nov: Flynn, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,14610188,,11/24/2011,3750,"Invoice-Private",,11/24/2011,11/24/2011,,14614295MO,-4648.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2670,2670,"CR:Basic Service F... P.Flynn 201111: Flynn, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... P.Flynn 201111: Flynn, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1050,1050,"CR:Resident Care -... P.Flynn 201111: Flynn, Patricia",,,,,,,,,,,,,,,

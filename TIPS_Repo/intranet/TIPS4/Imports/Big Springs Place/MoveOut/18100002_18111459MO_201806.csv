@@ -1,0 +1,7 @@
+BATCH,,201806,B,4530.0000,
+INVOICE,IN,,18100002,,06/01/2018,1500.0000,"Invoice-Private",,06/01/2018,06/10/2018,,18111459MO,-109.0000,,,,,,,,,,
+TRANSACTION,3017,010012181,10,77.0000,770.00," Level: 6 : Cauthen, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012181,10,73.0000,730.00,"Studio Deluxe for Jun: Cauthen, William",,,,,,,,,,,,,,,
+INVOICE,CM,,18100002,,06/01/2018,3030,"Invoice-Private",,06/01/2018,06/10/2018,,18111459MO,-109.0000,,,,,,,,,,
+TRANSACTION,3027,010012181,1,840,840,"CR:Resident Care -... W.Cauthen 201806: Cauthen, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012181,1,2190,2190,"CR:Studio Deluxe... W.Cauthen 201806: Cauthen, William",,,,,,,,,,,,,,,

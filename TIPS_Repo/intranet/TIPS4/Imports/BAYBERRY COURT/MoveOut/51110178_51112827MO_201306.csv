@@ -1,0 +1,8 @@
+BATCH,,201306,B,4032.0000,
+INVOICE,IN,,51110178,,06/04/2013,1335.0000,"Invoice-Private",,06/04/2013,06/04/2013,,51112827MO,-1362.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,15,70.0000,1050.00,"Basic Service Fee - Studio for Jun: Mozelewski, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,15,19.0000,285.00,"Resident Care - Level 1 for Jun: Mozelewski, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,51110178,,06/04/2013,2697,"Invoice-Private",,06/04/2013,06/04/2013,,51112827MO,-1362.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,2100,2100,"CR:Basic Service F... E.Mozelewski 201306: Mozelewski, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... E.Mozelewski 201306: Mozelewski, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,570,570,"CR:Resident Care -... E.Mozelewski 201306: Mozelewski, Eleanor",,,,,,,,,,,,,,,

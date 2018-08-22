@@ -1,0 +1,6 @@
+BATCH,,201205,B,4755.0000,
+INVOICE,IN,,53310253,,05/11/2012,4755.0000,"MoveIn-Secraw. Casper",,05/11/2012,05/11/2012,,53314543,4755.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,21,89.0000,1869,"Basic Service Fee - Studio: Secraw. Casper",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319533,21,41.0000,861,"Resident Care - Level 3: Secraw. Casper",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Secraw. Casper",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319533,1,2000.0000,2000,"New Resident Fee: Secraw. Casper",,,,,,,,,,,,,,,

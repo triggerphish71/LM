@@ -1,0 +1,7 @@
+BATCH,,201806,B,11464.4000,
+INVOICE,IN,,09210448,,06/19/2018,4420.4000,"Invoice-Private",,06/19/2018,06/19/2018,,09217977MO,-2623.6000,,,,,,,,,,
+TRANSACTION,3017,010005092,18,137.7999,2480.40,"Level: 6+9  : West, Mary Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005092,20,97.0000,1940.00,"Basic Service Fee - Studio for Jun: West, Mary Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,09210448,,06/19/2018,7044,"Invoice-Private",,06/19/2018,06/19/2018,,09217977MO,-2623.6000,,,,,,,,,,
+TRANSACTION,3020,010005092,1,2910,2910,"CR:Basic Service F... M.West 201806: West, Mary Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005092,1,4134,4134,"CR:Resident Care -... M.West 201806: West, Mary Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,5101.0000,
+INVOICE,IN,,03310193,,02/25/2012,2350.0000,"Invoice-Private",,02/25/2012,02/25/2012,,03316340MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,25,94.0000,2350.00,"Basic Service Fee - Studio for Feb: Henson, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,03310193,,02/25/2012,2751,"Invoice-Private",,02/25/2012,02/25/2012,,03316340MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2726,2726,"CR:Basic Service F... W.Henson 201202: Henson, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... W.Henson 201202: Henson, Wanda",,,,,,,,,,,,,,,

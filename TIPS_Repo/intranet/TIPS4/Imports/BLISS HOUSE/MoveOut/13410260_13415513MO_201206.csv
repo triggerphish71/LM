@@ -1,0 +1,6 @@
+BATCH,,201206,B,3556.0000,
+INVOICE,IN,,13410260,,06/01/2012,796.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13415513MO,-1964.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,1,60.0000,60.00,"CR:Limited Term Di... W.Byers 201206: Byers, Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309134,8,92.0000,736.00,"Basic Service Fee - Studio for Jun: Byers, Winnie",,,,,,,,,,,,,,,
+INVOICE,CM,,13410260,,06/01/2012,2760,"Invoice-Private",,06/01/2012,06/10/2012,,13415513MO,-1964.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2760,2760,"CR:Basic Service F... W.Byers 201206: Byers, Winnie",,,,,,,,,,,,,,,

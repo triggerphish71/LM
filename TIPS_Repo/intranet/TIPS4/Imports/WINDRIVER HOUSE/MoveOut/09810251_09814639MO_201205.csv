@@ -1,0 +1,7 @@
+BATCH,,201205,B,6530.8800,
+INVOICE,IN,,09810251,,05/01/2012,2313.0200,"Invoice-Private",,05/01/2012,05/10/2012,,09814639MO,-1904.8400,,,,,,,,,,
+TRANSACTION,3020,010103098,17,111.0000,1887.00,"Basic Service Fee - One Bedroom for May: Nicholson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,17,25.0600,426.02,"Resident Care - Level 14 for May: Nicholson, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,09810251,,05/01/2012,4217.86,"Invoice-Private",,05/01/2012,05/10/2012,,09814639MO,-1904.8400,,,,,,,,,,
+TRANSACTION,3020,010103098,1,3441,3441,"CR:Basic Service F... R.Nicholson 201205: Nicholson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,776.86,776.86,"CR:Resident Care -... R.Nicholson 201205: Nicholson, Richard",,,,,,,,,,,,,,,

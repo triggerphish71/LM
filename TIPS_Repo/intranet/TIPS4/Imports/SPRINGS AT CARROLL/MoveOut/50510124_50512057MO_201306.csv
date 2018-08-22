@@ -1,0 +1,6 @@
+BATCH,,201306,B,2825.0000,
+INVOICE,IN,,50510124,,06/26/2013,1300.0000,"Invoice-Private",,06/26/2013,06/26/2013,,50512057MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,26,50.0000,1300.00,"Basic Service Fee - Studio for Jun: Whoriskey, William",,,,,,,,,,,,,,,
+INVOICE,CM,,50510124,,06/26/2013,1525,"Invoice-Private",,06/26/2013,06/26/2013,,50512057MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,1500,1500,"CR:Basic Service F... W.Whoriskey 201306: Whoriskey, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... W.Whoriskey 201306: Whoriskey, William",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,2640.0000,
+INVOICE,IN,,50710122,,05/01/2012,594.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50712279MO,-1452.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,9,66.0000,594.00,"Room and Board - Studio for May: Miller, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,50710122,,05/01/2012,2046,"Invoice-Private",,05/01/2012,05/10/2012,,50712279MO,-1452.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,2046,2046,"CR:Room and Board ... R.Miller 201205: Miller, Ronald",,,,,,,,,,,,,,,

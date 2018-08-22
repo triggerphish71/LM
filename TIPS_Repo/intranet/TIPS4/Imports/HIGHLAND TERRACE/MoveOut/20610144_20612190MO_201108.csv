@@ -1,0 +1,5 @@
+BATCH,,201108,B,1485.5200,
+INVOICE,IN,,20610144,,08/01/2011,742.7600,"Invoice-Private",,08/01/2011,08/10/2011,,20612190MO,-2279.4400,,,,,,,,,,
+TRANSACTION,3320,010214206,31,23.9600,742.76,"Credit for Limited Term Discount: Harper, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,20610144,,08/01/2011,742.76,"Invoice-Private",,08/01/2011,08/10/2011,,20612190MO,-2279.4400,,,,,,,,,,
+TRANSACTION,3320,010214206,31,23.96,742.76,"Limited Term Discount: Harper, Roberta",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,4054.0000,
+INVOICE,IN,,18410032,,07/12/2011,1116.0000,"Invoice-Private",,07/12/2011,07/12/2011,,18415022MO,-1822.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,12,93.0000,1116.00,"Basic Service Fee - Studio for Jul: Duke, Leo",,,,,,,,,,,,,,,
+INVOICE,CM,,18410032,,07/12/2011,2938,"Invoice-Private",,07/12/2011,07/12/2011,,18415022MO,-1822.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2883,2883,"CR:Basic Service F... L.Duke 201107: Duke, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"CR:Monthly Cable... L.Duke 201107: Duke, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313184,1,30,30,"CR:Pendant Fee... L.Duke 201107: Duke, Leo",,,,,,,,,,,,,,,

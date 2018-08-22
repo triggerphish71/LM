@@ -1,0 +1,5 @@
+BATCH,,201110,B,3917.5000,
+INVOICE,CM,,10410211,,10/01/2011,3917.5,"Invoice-Private",,10/01/2011,10/10/2011,,10414529MO,-5701.5000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,3100,3100,"CR:Basic Service F... P.Trusty 201110: Trusty, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101104,1,27,27,"CR:Monthly Cable... P.Trusty 201110: Trusty, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,790.5,790.5,"CR:Resident Care -... P.Trusty 201110: Trusty, Pat",,,,,,,,,,,,,,,

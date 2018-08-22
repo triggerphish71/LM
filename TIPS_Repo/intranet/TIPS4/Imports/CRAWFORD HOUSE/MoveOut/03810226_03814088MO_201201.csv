@@ -1,0 +1,6 @@
+BATCH,,201201,B,2713.0000,
+INVOICE,IN,,03810226,,01/01/2012,84.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03814088MO,-2545.0000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,84.0000,84.00,"Basic Service Fee - Studio for Jan: Limnell, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,03810226,,01/01/2012,2629,"Invoice-Private",,01/01/2012,01/10/2012,,03814088MO,-2545.0000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2604,2604,"CR:Basic Service F... K.Limnell 201201: Limnell, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... K.Limnell 201201: Limnell, Keith",,,,,,,,,,,,,,,

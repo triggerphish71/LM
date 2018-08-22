@@ -1,0 +1,8 @@
+BATCH,,201107,B,9107.0000,
+INVOICE,IN,,11010326,,07/01/2011,5046.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11014615MO,985.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,1,1116.0000,1116.00,"CR:Limited Term Di... M.Hruska 201107: Hruska, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107110,30,91.0000,2730.00,"Basic Service Fee - Studio for Jul: Hruska, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,30,40.0000,1200.00,"Resident Care - Level 3 for Jul: Hruska, Marge",,,,,,,,,,,,,,,
+INVOICE,CM,,11010326,,07/01/2011,4061,"Invoice-Private",,07/01/2011,07/10/2011,,11014615MO,985.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Basic Service F... M.Hruska 201107: Hruska, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,1240,1240,"CR:Resident Care -... M.Hruska 201107: Hruska, Marge",,,,,,,,,,,,,,,

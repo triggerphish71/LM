@@ -1,0 +1,7 @@
+BATCH,,201112,B,3154.0000,
+INVOICE,IN,,03410268,,12/01/2011,1577.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03415265MO,312.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Colbert, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,31,50.0000,1550.00,"Credit for Limited Term Discount: Colbert, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,03410268,,12/01/2011,1577,"Invoice-Private",,12/01/2011,12/10/2011,,03415265MO,312.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Colbert, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,31,50,1550,"Limited Term Discount: Colbert, Jerry",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,4247.0000,
+INVOICE,IN,,06510159,,05/01/2012,279.0000,"Invoice-Private",,05/01/2012,05/10/2012,,06514607MO,-4059.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,279.0000,279.00,"CR:Limited Term Di... B.Hohenberger 201205: Hohenberger, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,06510159,,05/01/2012,3968,"Invoice-Private",,05/01/2012,05/10/2012,,06514607MO,-4059.0000,,,,,,,,,,
+TRANSACTION,3027,010305065,1,558,558,"CR:Resident Care -... B.Hohenberger 201205: Hohenberger, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3410,3410,"CR:Room and Board ... B.Hohenberger 201205: Hohenberger, Bernard",,,,,,,,,,,,,,,

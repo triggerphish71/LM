@@ -1,0 +1,6 @@
+BATCH,,201208,B,3699.0000,
+INVOICE,IN,,13010310,,08/05/2012,510.0000,"Invoice-Private",,08/05/2012,08/05/2012,,13015884MO,-2679.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,5,102.0000,510.00,"Basic Service Fee - Studio for Aug: Lombardo, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13010310,,08/05/2012,3189,"Invoice-Private",,08/05/2012,08/05/2012,,13015884MO,-2679.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3162,3162,"CR:Basic Service F... J.Lombardo 201208: Lombardo, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... J.Lombardo 201208: Lombardo, Jean",,,,,,,,,,,,,,,

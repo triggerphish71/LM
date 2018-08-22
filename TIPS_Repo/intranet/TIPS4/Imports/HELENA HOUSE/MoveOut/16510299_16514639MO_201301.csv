@@ -1,0 +1,7 @@
+BATCH,,201301,B,7173.4300,
+INVOICE,IN,,16510299,,01/01/2013,1302.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16514639MO,-4569.4300,,,,,,,,,,
+TRANSACTION,3320,010308165,1,1302.0000,1302.00,"CR:Limited Term Di... C.Beasley 201301: Beasley, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,16510299,,01/01/2013,5871.43,"Invoice-Private",,01/01/2013,01/10/2013,,16514639MO,-4569.4300,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... C.Beasley 201301: Beasley, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... C.Beasley 201301: Beasley, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2837.43,2837.43,"CR:Resident Care -... C.Beasley 201301: Beasley, Clara",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,3140.0000,
+INVOICE,IN,,01410247,,03/15/2013,3140.0000,"MoveIn-Davis. Allen",,03/15/2013,03/15/2013,,01414657,6015.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,17,95.0000,1615,"Basic Service Fee - Studio: Davis. Allen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Davis. Allen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1500.0000,1500,"New Resident Fee: Davis. Allen",,,,,,,,,,,,,,,

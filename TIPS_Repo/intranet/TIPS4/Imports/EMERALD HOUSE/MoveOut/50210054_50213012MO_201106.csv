@@ -1,0 +1,8 @@
+BATCH,,201106,B,6077.0000,
+INVOICE,IN,,50210054,,06/07/2011,1667.0000,"Invoice-Private",,06/07/2011,06/07/2011,,50213012MO,-2743.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,11,67.0000,737.00,"Resident Care - Level 6 for Jun: Hasler, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,11,80.0000,880.00,"Room and Board - Studio for Jun: Hasler, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3150,010209502,1,50.0000,50.00,"Late Fee Payment: Hasler, Marcella",,,,,,,,,,,,,,,
+INVOICE,CM,,50210054,,06/07/2011,4410,"Invoice-Private",,06/07/2011,06/07/2011,,50213012MO,-2743.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,1,2010,2010,"CR:Resident Care -... M.Hasler 201106: Hasler, Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2400,2400,"CR:Room and Board ... M.Hasler 201106: Hasler, Marcella",,,,,,,,,,,,,,,

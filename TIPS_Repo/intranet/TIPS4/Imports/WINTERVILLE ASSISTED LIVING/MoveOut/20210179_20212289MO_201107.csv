@@ -1,0 +1,6 @@
+BATCH,,201107,B,3564.0000,
+INVOICE,IN,,20210179,,07/19/2011,2646.0000,"Invoice-Respite",,07/19/2011,07/19/2011,,20212289MO,1728.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,18,96.0000,1728.00,"R.Campbell: Basic Service Fee- Respite Studio : Campbell, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,18,51.0000,918.00,"Resident Care - Level 5 for Jul: Campbell, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,20210179,,07/19/2011,918,"Invoice-Respite",,07/19/2011,07/19/2011,,20212289MO,1728.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,18,51,918,"Private Care Timing Adjustment for Jul: Campbell, Roy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,3240.0000,
+INVOICE,IN,,09310248,,05/22/2013,3240.0000,"MoveIn-Henry. Lowell",,05/22/2013,05/22/2013,,09315868,7710.0000,,,,,,,,,,
+TRANSACTION,3010,010305093,10,101.0000,1010,"Basic Service Fee - Studio: Henry. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305093,10,48.0000,480,"Resident Care - Level 3: Henry. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305093,1,1750.0000,1750,"New Resident Fee: Henry. Lowell",,,,,,,,,,,,,,,

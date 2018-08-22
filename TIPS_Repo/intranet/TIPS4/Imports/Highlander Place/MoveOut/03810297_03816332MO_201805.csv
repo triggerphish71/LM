@@ -1,0 +1,7 @@
+BATCH,,201805,B,6856.4000,
+INVOICE,IN,,03810297,,05/30/2018,3372.0000,"Invoice-Private",,05/30/2018,05/30/2018,,03816332MO,-112.4000,,,,,,,,,,
+TRANSACTION,3020,010003038,30,94.0000,2820.00,"Basic Service Fee - Studio for May: Koehler, Mildred ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003038,30,18.4000,552.00,"Resident Care - Level 8 for May: Koehler, Mildred ",,,,,,,,,,,,,,,
+INVOICE,CM,,03810297,,05/30/2018,3484.4,"Invoice-Private",,05/30/2018,05/30/2018,,03816332MO,-112.4000,,,,,,,,,,
+TRANSACTION,3020,010003038,1,2914,2914,"CR:Basic Service F... M.Koehler 201805: Koehler, Mildred ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003038,1,570.4,570.4,"CR:Resident Care -... M.Koehler 201805: Koehler, Mildred ",,,,,,,,,,,,,,,

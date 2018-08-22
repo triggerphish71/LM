@@ -1,0 +1,8 @@
+BATCH,,201207,B,7547.0000,
+INVOICE,IN,,14810315,,07/28/2012,4168.0000,"Invoice-Private",,07/28/2012,07/28/2012,,14814991MO,-1474.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,1116.0000,1116.00,"CR:Limited Term Di... D.Hachman 201207: Hachman, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,28,18.0000,504.00,"Resident Care - Level 1 for Jul: Hachman, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,28,91.0000,2548.00,"Room and Board - Studio for Jul: Hachman, David",,,,,,,,,,,,,,,
+INVOICE,CM,,14810315,,07/28/2012,3379,"Invoice-Private",,07/28/2012,07/28/2012,,14814991MO,-1474.0000,,,,,,,,,,
+TRANSACTION,3027,010310148,1,558,558,"CR:Resident Care -... D.Hachman 201207: Hachman, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2821,2821,"CR:Room and Board ... D.Hachman 201207: Hachman, David",,,,,,,,,,,,,,,

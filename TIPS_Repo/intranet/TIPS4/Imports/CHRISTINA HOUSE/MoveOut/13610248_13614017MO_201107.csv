@@ -1,0 +1,7 @@
+BATCH,,201107,B,938.0000,
+INVOICE,IN,,13610248,,07/01/2011,469.0000,"Invoice-Private",,07/01/2011,07/10/2011,,13614017MO,-3167.0000,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35.00,"Monthly Cable: Bastin Jr, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309136,31,14.0000,434.00,"Credit for Limited Term Discount: Bastin Jr, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,13610248,,07/01/2011,469,"Invoice-Private",,07/01/2011,07/10/2011,,13614017MO,-3167.0000,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"Credit for Monthly Cable: Bastin Jr, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309136,31,14,434,"Limited Term Discount: Bastin Jr, Harvey",,,,,,,,,,,,,,,

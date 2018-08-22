@@ -1,0 +1,5 @@
+BATCH,,201112,B,868.0000,
+INVOICE,IN,,20810194,,12/01/2011,434.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20812817MO,-2335.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,14.0000,434.00,"Credit for Limited Term Discount: Matthews, William",,,,,,,,,,,,,,,
+INVOICE,CM,,20810194,,12/01/2011,434,"Invoice-Private",,12/01/2011,12/10/2011,,20812817MO,-2335.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,14,434,"Limited Term Discount: Matthews, William",,,,,,,,,,,,,,,

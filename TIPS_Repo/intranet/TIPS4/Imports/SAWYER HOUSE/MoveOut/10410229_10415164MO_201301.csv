@@ -1,0 +1,8 @@
+BATCH,,201301,B,4251.0800,
+INVOICE,IN,,10410229,,01/01/2013,943.6900,"Invoice-Private",,01/01/2013,01/01/2013,,10415164MO,-2363.7000,,,,,,,,,,
+TRANSACTION,3320,010101104,1,837.0000,837.00,"CR:Limited Term Di... S.O Leary 201301: O Leary, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,19.6900,19.69,"Resident Care - Level 11 for Jan: O Leary, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101104,1,87.0000,87.00,"Room and Board - Studio for Jan: O Leary, Sharon",,,,,,,,,,,,,,,
+INVOICE,CM,,10410229,,01/01/2013,3307.39,"Invoice-Private",,01/01/2013,01/01/2013,,10415164MO,-2363.7000,,,,,,,,,,
+TRANSACTION,3027,010101104,1,610.39,610.39,"CR:Resident Care -... S.O Leary 201301: O Leary, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2697,2697,"CR:Room and Board ... S.O Leary 201301: O Leary, Sharon",,,,,,,,,,,,,,,

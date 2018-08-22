@@ -1,0 +1,6 @@
+BATCH,,201204,B,8040.0000,
+INVOICE,IN,,10210142,,04/01/2012,1830.0000,"Invoice-Private",,04/01/2012,04/10/2012,,10214916MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3320,010306102,1,1830.0000,1830.00,"CR:Limited Term Di... M.Torretta 201204: Torretta, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,10210142,,04/01/2012,6210,"Invoice-Private",,04/01/2012,04/10/2012,,10214916MO,-4380.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3330,3330,"CR:Basic Service F... M.Torretta 201204: Torretta, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2880,2880,"CR:Swan Personal C... M.Torretta 201204: Torretta, Margaret",,,,,,,,,,,,,,,

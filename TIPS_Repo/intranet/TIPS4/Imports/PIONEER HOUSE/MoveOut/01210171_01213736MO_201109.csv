@@ -1,0 +1,8 @@
+BATCH,,201109,B,8076.4000,
+INVOICE,IN,,01210171,,09/01/2011,3168.4000,"Invoice-Private",,09/01/2011,09/10/2011,,01213736MO,-6749.2000,,,,,,,,,,
+TRANSACTION,3320,010103012,1,60.0000,60.00,"CR:Limited Term Di... M.Hoyt 201109: Hoyt, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103012,19,99.0000,1881.00,"Basic Service Fee - One Bedroom for Sep: Hoyt, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,19,64.6000,1227.40,"Resident Care - Level 38 for Sep: Hoyt, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,01210171,,09/01/2011,4908,"Invoice-Private",,09/01/2011,09/10/2011,,01213736MO,-6749.2000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2970,2970,"CR:Basic Service F... M.Hoyt 201109: Hoyt, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1938,1938,"CR:Resident Care -... M.Hoyt 201109: Hoyt, Margaret",,,,,,,,,,,,,,,

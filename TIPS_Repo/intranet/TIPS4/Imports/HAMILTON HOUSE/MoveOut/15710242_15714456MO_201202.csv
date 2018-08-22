@@ -1,0 +1,8 @@
+BATCH,,201202,B,4898.0000,
+INVOICE,IN,,15710242,,02/15/2012,1708.0000,"Invoice-Private",,02/15/2012,02/15/2012,,15714456MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,58.0000,58.00,"CR:Limited Term Di... P.Evard 201202: Evard, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,15,92.0000,1380.00,"Basic Service Fee - Studio for Feb: Evard, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,15,18.0000,270.00,"Resident Care - Level 1 for Feb: Evard, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,15710242,,02/15/2012,3190,"Invoice-Private",,02/15/2012,02/15/2012,,15714456MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2668,2668,"CR:Basic Service F... P.Evard 201202: Evard, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,522,522,"CR:Resident Care -... P.Evard 201202: Evard, Phyllis",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,5529.0000,
+INVOICE,IN,,09010176,,04/13/2012,1664.0000,"Invoice-Private",,04/13/2012,04/13/2012,,09014946MO,-2201.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,13,113.0000,1469.00,"Basic Service Fee - One Bedroom for Apr: Collett, Jacqueline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,13,15.0000,195.00,"Resident Care - Level 1 for Apr: Collett, Jacqueline",,,,,,,,,,,,,,,
+INVOICE,CM,,09010176,,04/13/2012,3865,"Invoice-Private",,04/13/2012,04/13/2012,,09014946MO,-2201.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,3390,3390,"CR:Basic Service F... J.Collett 201204: Collett, Jacqueline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... J.Collett 201204: Collett, Jacqueline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,450,450,"CR:Resident Care -... J.Collett 201204: Collett, Jacqueline",,,,,,,,,,,,,,,

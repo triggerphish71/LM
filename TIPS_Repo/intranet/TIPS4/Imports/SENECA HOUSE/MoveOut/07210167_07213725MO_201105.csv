@@ -1,0 +1,7 @@
+BATCH,,201105,B,7434.0000,
+INVOICE,IN,,07210167,,05/28/2011,3528.0000,"Invoice-Private",,05/28/2011,05/28/2011,,07213725MO,-4158.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,28,93.0000,2604.00,"C.Swope: Basic Service Fee - Studio for May: Swope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305072,28,33.0000,924.00,"Private Care Rate Adjustments for May: Swope, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,07210167,,05/28/2011,3906,"Invoice-Private",,05/28/2011,05/28/2011,,07213725MO,-4158.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2883,2883,"CR:C.Swope: Basic ... C.Swope 201105: Swope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305072,1,1023,1023,"CR:Private Care Ra... C.Swope 201105: Swope, Charles",,,,,,,,,,,,,,,

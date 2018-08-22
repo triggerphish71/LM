@@ -1,0 +1,7 @@
+BATCH,,201204,B,6585.0000,
+INVOICE,IN,,13710225,,04/24/2012,3105.0000,"Invoice-Private",,04/24/2012,04/24/2012,,13714427MO,-3613.5000,,,,,,,,,,
+TRANSACTION,3317,010309137,1,345.0000,345.00,"CR:HealthCare Syne... P.Scher 201204: Scher, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,24,115.0000,2760.00,"Basic Service Fee - One Bedroom for Apr: Scher, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,13710225,,04/24/2012,3480,"Invoice-Private",,04/24/2012,04/24/2012,,13714427MO,-3613.5000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,3450,3450,"CR:Basic Service F... P.Scher 201204: Scher, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... P.Scher 201204: Scher, Patricia",,,,,,,,,,,,,,,

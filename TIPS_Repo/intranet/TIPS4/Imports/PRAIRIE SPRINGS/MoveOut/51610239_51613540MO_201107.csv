@@ -1,0 +1,7 @@
+BATCH,,201107,B,3619.2000,
+INVOICE,IN,,51610239,,07/01/2011,742.4000,"Invoice-Private",,07/01/2011,07/10/2011,,51613540MO,-2134.4000,,,,,,,,,,
+TRANSACTION,3020,010103516,8,86.0000,688.00,"Basic Service Fee - Studio for Jul: Fadem, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,8,6.8000,54.40,"Resident Care - Level 4 for Jul: Fadem, Julia",,,,,,,,,,,,,,,
+INVOICE,CM,,51610239,,07/01/2011,2876.8,"Invoice-Private",,07/01/2011,07/10/2011,,51613540MO,-2134.4000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2666,2666,"CR:Basic Service F... J.Fadem 201107: Fadem, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,210.8,210.8,"CR:Resident Care -... J.Fadem 201107: Fadem, Julia",,,,,,,,,,,,,,,

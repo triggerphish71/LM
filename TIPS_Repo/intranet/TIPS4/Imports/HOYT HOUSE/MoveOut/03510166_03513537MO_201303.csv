@@ -1,0 +1,7 @@
+BATCH,,201303,B,7732.0000,
+INVOICE,IN,,03510166,,03/30/2013,3360.0000,"Invoice-Private",,03/30/2013,03/30/2013,,03513537MO,-3112.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,30,112.0000,3360.00,"Basic Service Fee - One Bedroom for Mar: Johnson, Poke",,,,,,,,,,,,,,,
+INVOICE,CM,,03510166,,03/30/2013,4372,"Invoice-Private",,03/30/2013,03/30/2013,,03513537MO,-3112.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,3472,3472,"CR:Basic Service F... P.Johnson 201303: Johnson, Poke",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... P.Johnson 201303: Johnson, Poke",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202035,1,875,875,"CR:New Resident Fe... P.Johnson 201303: Johnson, Poke",,,,,,,,,,,,,,,

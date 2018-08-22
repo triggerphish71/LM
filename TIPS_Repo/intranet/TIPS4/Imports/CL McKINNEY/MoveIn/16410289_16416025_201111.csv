@@ -1,0 +1,6 @@
+BATCH,,201111,B,3965.0000,
+INVOICE,IN,,16410289,,11/11/2011,3965.0000,"MoveIn-Wallace. Clifford (Harrell)",,11/11/2011,11/11/2011,,16416025,3965.0000,,,,,,,,,,
+TRANSACTION,3010,010202164,20,82.0000,1640,"Basic Service Fee - Studio: Wallace. Clifford (Harrell)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202164,20,15.0000,300,"Resident Care - Level 1: Wallace. Clifford (Harrell)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25.0000,25,"Monthly Cable: Wallace. Clifford (Harrell)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202164,1,2000.0000,2000,"New Resident Fee: Wallace. Clifford (Harrell)",,,,,,,,,,,,,,,

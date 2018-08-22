@@ -1,0 +1,7 @@
+BATCH,,201302,B,1288.0000,
+INVOICE,IN,,17610093,,02/01/2013,644.0000,"Invoice-Private",,02/01/2013,02/10/2013,,17614824MO,-3038.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,28,10.0000,280.00,"CC Meals: Hempel Sr, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315176,28,13.0000,364.00,"Credit for Limited Term Discount: Hempel Sr, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,17610093,,02/01/2013,644,"Invoice-Private",,02/01/2013,02/10/2013,,17614824MO,-3038.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,28,10,280,"Credit for CC Meals: Hempel Sr, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315176,28,13,364,"Limited Term Discount: Hempel Sr, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,1860.0000,
+INVOICE,IN,,08810202,,12/01/2011,930.0000,"Invoice-Private",,12/01/2011,12/10/2011,,08814169MO,-802.0000,,,,,,,,,,
+TRANSACTION,3321,010107088,31,30.0000,930.00,"Credit for 2nd Resident Free Discount: Milosevich, Risto",,,,,,,,,,,,,,,
+INVOICE,CM,,08810202,,12/01/2011,930,"Invoice-Private",,12/01/2011,12/10/2011,,08814169MO,-802.0000,,,,,,,,,,
+TRANSACTION,3321,010107088,31,30,930,"2nd Resident Free Discount: Milosevich, Risto",,,,,,,,,,,,,,,

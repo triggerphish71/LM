@@ -1,0 +1,5 @@
+BATCH,,201112,B,3470.0000,
+INVOICE,IN,,13510278,,12/16/2011,3470.0000,"MoveIn-Hollers. Jack",,12/16/2011,12/16/2011,,13514951,3470.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,16,90.0000,1440,"Basic Service Fee - Studio: Hollers. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Hollers. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Hollers. Jack",,,,,,,,,,,,,,,

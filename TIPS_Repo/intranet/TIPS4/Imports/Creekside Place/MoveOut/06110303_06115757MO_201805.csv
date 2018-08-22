@@ -1,0 +1,7 @@
+BATCH,,201805,B,4532.3000,
+INVOICE,IN,,06110303,,05/30/2018,2229.0000,"Invoice-Private",,05/30/2018,05/30/2018,,06115757MO,-74.3000,,,,,,,,,,
+TRANSACTION,3020,010003061,30,72.0000,2160.00,"Basic Service Fee - Studio for May: Garner, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003061,30,2.3000,69.00,"Resident Care - Level 1 for May: Garner, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,06110303,,05/30/2018,2303.3,"Invoice-Private",,05/30/2018,05/30/2018,,06115757MO,-74.3000,,,,,,,,,,
+TRANSACTION,3020,010003061,1,2232,2232,"CR:Basic Service F... R.Garner 201805: Garner, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003061,1,71.3,71.3,"CR:Resident Care -... R.Garner 201805: Garner, Ruby",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,657.0000,
+INVOICE,IN,,08010201,,11/01/2011,328.5000,"Invoice-Private",,11/01/2011,11/10/2011,,08013977MO,-4000.9500,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Love, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3316,010202080,30,10.0500,301.50,"Credit for Employee Discount: Love, Anita",,,,,,,,,,,,,,,
+INVOICE,CM,,08010201,,11/01/2011,328.5,"Invoice-Private",,11/01/2011,11/10/2011,,08013977MO,-4000.9500,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Love, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3316,010202080,30,10.05,301.5,"Employee Discount: Love, Anita",,,,,,,,,,,,,,,

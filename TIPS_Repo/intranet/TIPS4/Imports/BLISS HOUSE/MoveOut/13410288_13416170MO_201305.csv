@@ -1,0 +1,6 @@
+BATCH,,201305,B,4359.0000,
+INVOICE,IN,,13410288,,05/14/2013,1410.0000,"Invoice-Private",,05/14/2013,05/14/2013,,13416170MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,15,94.0000,1410.00,"Basic Service Fee - Studio for May: Davis, Mary Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,13410288,,05/14/2013,2949,"Invoice-Private",,05/14/2013,05/14/2013,,13416170MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2914,2914,"CR:Basic Service F... M.Davis 201305: Davis, Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... M.Davis 201305: Davis, Mary Alice",,,,,,,,,,,,,,,

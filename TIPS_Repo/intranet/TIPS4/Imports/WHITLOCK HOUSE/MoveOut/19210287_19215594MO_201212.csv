@@ -1,0 +1,7 @@
+BATCH,,201212,B,8909.0000,
+INVOICE,IN,,19210287,,12/07/2012,4228.0000,"Invoice-Private",,12/07/2012,12/07/2012,,19215594MO,-5134.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,28,133.0000,3724.00,"Basic Service Fee - One Bedroom for Dec: Farmer, Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,28,18.0000,504.00,"Resident Care - Level 1 for Dec: Farmer, Cecelia",,,,,,,,,,,,,,,
+INVOICE,CM,,19210287,,12/07/2012,4681,"Invoice-Private",,12/07/2012,12/07/2012,,19215594MO,-5134.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,4123,4123,"CR:Basic Service F... C.Farmer 201212: Farmer, Cecelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,558,558,"CR:Resident Care -... C.Farmer 201212: Farmer, Cecelia",,,,,,,,,,,,,,,

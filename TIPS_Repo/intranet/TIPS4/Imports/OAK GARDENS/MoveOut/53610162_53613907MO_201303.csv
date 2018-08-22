@@ -1,0 +1,6 @@
+BATCH,,201303,B,4499.0000,
+INVOICE,CM,,53610162,,03/01/2013,4499,"Invoice-Private",,03/01/2013,03/10/2013,,53613907MO,-4499.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3069,3069,"CR:Basic Service F... D.Schwellenbach 201303: Schwellenbach, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... D.Schwellenbach 201303: Schwellenbach, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,899,899,"CR:Resident Care -... D.Schwellenbach 201303: Schwellenbach, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,496,496,"CR:Resident Care L... D.Schwellenbach 201303: Schwellenbach, Doris",,,,,,,,,,,,,,,

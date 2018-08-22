@@ -1,0 +1,374 @@
+
+
+<cfoutput>
+	<cfif isDefined("url.DateToUse")>
+		<cfset mnuDateToUse = #url.DateToUse#>
+	<cfelseif isDefined("DateToUse")>
+		<cfset mnuDateToUse = #dateToUse#>
+	</cfif>	
+	<cfif isDefined("url.iHouse_ID")>
+		<cfset mnuHouseId = #url.iHouse_ID#>
+	<cfelseif isDefined("houseId")>
+		<cfset mnuHouseId = #houseId#>
+	<cfelseif isDefined("iHouse_ID")>
+		<cfif iHouse_ID neq 0>
+			<cfset mnuHouseId = #iHouse_ID#>
+		</cfif>
+	</cfif>	
+	<cfif isDefined("url.SubAccount")>
+		<cfset mnuSubAccount = #url.SubAccount#>
+	<cfelseif isDefined("subAccount")>
+		<cfset mnuSubAccount = #subAccount#>
+	<cfelseif isDefined("SubAccountNumber")>
+		<cfif SubAccountNumber neq 0>
+			<cfset mnuSubAccount = #SubAccountNumber#>
+		</cfif>
+	</cfif>	
+	<cfif isDefined("url.NumberOfMonths")>
+		<cfset mnuNumberOfMonths = #url.NumberOfMonths#>
+	<cfelse>
+		<cfset mnuNumberOfMonths = 3>
+	</cfif>
+	<cfif isDefined("url.Role")>
+		<cfset mnuRole = #url.Role#>
+	<cfelse>
+		<cfset mnuRole = 1>
+	</cfif>
+	<cfif Page is "Dashboard">
+		
+		<img name="setupsheet" src="images/setupsheet.jpg" alt="Home (Dashboard)" width="65" height="76" />
+		
+		<a style="color: white;" href="labortracking.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="labortracking" src="images/labortrackingblue.jpg" border="0" alt="Labor Tracking" width="65" height="76"
+			onMouseOver="src='images/labortracking-over.jpg';" onMouseOut="src='images/labortrackingblue.jpg';">
+		</a>
+	
+		
+		<a style="color: white;" href="expensespenddown.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="ExpenseSpenddown" src="images/ExpenseSpenddownblue.jpg" border="0" alt="Expense Spenddown" width="65" height="76"
+			onMouseOver="src='images/ExpenseSpenddown-over.jpg';" onMouseOut="src='images/ExpenseSpenddownblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="monthlyinvoices.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="MonthlyInvoices" src="images/MonthlyInvoicesblue.jpg" border="0" alt="Monthly Invoices" width="65" height="76"
+			onMouseOver="src='images/MonthlyInvoices-over.jpg';" onMouseOut="src='images/MonthlyInvoicesblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="HouseVisitsII.cfm?Role=#mnuRole#&NumberOfMonths=#mnuNumberOfMonths#<cfif isDefined("mnuHouseId")>&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#</cfif><cfif isDefined("mnuDateToUse")>&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#</cfif>">
+			<img name="HouseReport" src="images/HouseReportblue.jpg" border="0" alt="House Visit" width="65" height="76"
+			onMouseOver="src='images/HouseReport-over.jpg';" onMouseOut="src='images/HouseReportblue.jpg';">
+		</a>
+		
+
+	<cfelseif Page  is "Labor Tracking">
+	
+		<a style="color: white;" href="default.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="setupsheet" src="images/setupsheetblue.jpg" border="0" alt="Home (Dashboard)" width="65" height="76"
+			onMouseOver="src='images/setupsheet-over.jpg';" onMouseOut="src='images/setupsheetblue.jpg';">
+		</a>
+				
+		<img name="labortracking" src="images/labortracking.jpg" border="0" alt="Labor Tracking" width="65" height="76" />
+		
+		<a style="color: white;" href="expensespenddown.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="ExpenseSpenddown" src="images/ExpenseSpenddownblue.jpg" border="0" alt="Expense Spenddown" width="65" height="76"
+			onMouseOver="src='images/ExpenseSpenddown-over.jpg';" onMouseOut="src='images/ExpenseSpenddownblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="monthlyinvoices.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="MonthlyInvoices" src="images/MonthlyInvoicesblue.jpg" border="0" alt="Monthly Invoices" width="65" height="76"
+			onMouseOver="src='images/MonthlyInvoices-over.jpg';" onMouseOut="src='images/MonthlyInvoicesblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="HouseVisits.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="HouseReport" src="images/HouseReportblue.jpg" border="0" alt="House Visit" width="65" height="76"
+			onMouseOver="src='images/HouseReport-over.jpg';" onMouseOut="src='images/HouseReportblue.jpg';">
+		</a>
+		
+	<cfelseif Page is "Monthly Invoices">
+
+		<a style="color: white;" href="default.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="setupsheet" src="images/setupsheetblue.jpg" border="0" alt="Home (Dashboard)" width="65" height="76"
+			onMouseOver="src='images/setupsheet-over.jpg';" onMouseOut="src='images/setupsheetblue.jpg';">
+		</a>
+
+		<a style="color: white;" href="labortracking.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="labortracking" src="images/labortrackingblue.jpg" border="0" alt="Labor Tracking" width="65" height="76"
+			onMouseOver="src='images/labortracking-over.jpg';" onMouseOut="src='images/labortrackingblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="expensespenddown.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="ExpenseSpenddown" src="images/ExpenseSpenddownblue.jpg" border="0" alt="Expense Spenddown" width="65" height="76"
+			onMouseOver="src='images/ExpenseSpenddown-over.jpg';" onMouseOut="src='images/ExpenseSpenddownblue.jpg';">
+		</a>
+		
+		<img name="MonthlyInvoices" src="images/MonthlyInvoices.jpg" border="0" alt="Monthly Invoices" width="65" height="76" />
+				
+		<a style="color: white;" href="HouseVisits.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="HouseReport" src="images/HouseReportblue.jpg" border="0" alt="House Visit" width="65" height="76"
+			onMouseOver="src='images/HouseReport-over.jpg';" onMouseOut="src='images/HouseReportblue.jpg';">
+		</a>
+
+	<cfelseif Page is "Expense Spend Down">
+
+		<a style="color: white;" href="default.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="setupsheet" src="images/setupsheetblue.jpg" border="0" alt="Home (Dashboard)" width="65" height="76"
+			onMouseOver="src='images/setupsheet-over.jpg';" onMouseOut="src='images/setupsheetblue.jpg';">
+		</a>
+
+		<a style="color: white;" href="labortracking.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="labortracking" src="images/labortrackingblue.jpg" border="0" alt="Labor Tracking" width="65" height="76"
+			onMouseOver="src='images/labortracking-over.jpg';" onMouseOut="src='images/labortrackingblue.jpg';">
+		</a>
+		
+		<img name="ExpenseSpenddown" src="images/ExpenseSpenddown.jpg" border="0" alt="Expense Spenddown" width="65" height="76" />
+		
+		<a style="color: white;" href="monthlyinvoices.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="MonthlyInvoices" src="images/MonthlyInvoicesblue.jpg" border="0" alt="Monthly Invoices" width="65" height="76"
+			onMouseOver="src='images/MonthlyInvoices-over.jpg';" onMouseOut="src='images/MonthlyInvoicesblue.jpg';">
+		</a>
+				
+		<a style="color: white;" href="HouseVisits.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="HouseReport" src="images/HouseReportblue.jpg" border="0" alt="House Visit" width="65" height="76"
+			onMouseOver="src='images/HouseReport-over.jpg';" onMouseOut="src='images/HouseReportblue.jpg';">
+		</a>
+				
+	<cfelseif Page is "House Visit">
+
+		<a style="color: white;" href="default.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="setupsheet" src="images/setupsheetblue.jpg" border="0" alt="Home (Dashboard)" width="65" height="76"
+			onMouseOver="src='images/setupsheet-over.jpg';" onMouseOut="src='images/setupsheetblue.jpg';">
+		</a>
+
+
+		<a style="color: white;" href="labortracking.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="labortracking" src="images/labortrackingblue.jpg" border="0" alt="Labor Tracking" width="65" height="76"
+			onMouseOver="src='images/labortracking-over.jpg';" onMouseOut="src='images/labortrackingblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="expensespenddown.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="ExpenseSpenddown" src="images/ExpenseSpenddownblue.jpg" border="0" alt="Expense Spenddown" width="65" height="76"
+			onMouseOver="src='images/ExpenseSpenddown-over.jpg';" onMouseOut="src='images/ExpenseSpenddownblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="monthlyinvoices.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="MonthlyInvoices" src="images/MonthlyInvoicesblue.jpg" border="0" alt="Monthly Invoices" width="65" height="76"
+			onMouseOver="src='images/MonthlyInvoices-over.jpg';" onMouseOut="src='images/MonthlyInvoicesblue.jpg';">
+		</a>		
+		
+		<img name="HouseReport" src="images/HouseReport.jpg" border="0" alt="House Visit" width="65" height="76" />
+	<cfelseif Page is "Create House Visit">
+
+		<a style="color: white;" href="default.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="setupsheet" src="images/setupsheetblue.jpg" border="0" alt="Home (Dashboard)" width="65" height="76"
+			onMouseOver="src='images/setupsheet-over.jpg';" onMouseOut="src='images/setupsheetblue.jpg';">
+		</a>
+
+
+		<a style="color: white;" href="labortracking.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="labortracking" src="images/labortrackingblue.jpg" border="0" alt="Labor Tracking" width="65" height="76"
+			onMouseOver="src='images/labortracking-over.jpg';" onMouseOut="src='images/labortrackingblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="expensespenddown.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="ExpenseSpenddown" src="images/ExpenseSpenddownblue.jpg" border="0" alt="Expense Spenddown" width="65" height="76"
+			onMouseOver="src='images/ExpenseSpenddown-over.jpg';" onMouseOut="src='images/ExpenseSpenddownblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="monthlyinvoices.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="MonthlyInvoices" src="images/MonthlyInvoicesblue.jpg" border="0" alt="Monthly Invoices" width="65" height="76"
+			onMouseOver="src='images/MonthlyInvoices-over.jpg';" onMouseOut="src='images/MonthlyInvoicesblue.jpg';">
+		</a>		
+		
+		<img name="HouseReport" src="images/HouseReport.jpg" border="0" alt="House Visit" width="65" height="76" />
+		
+	<cfelseif Page is "Edit House Visit">
+
+		<a style="color: white;" href="default.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="setupsheet" src="images/setupsheetblue.jpg" border="0" alt="Home (Dashboard)" width="65" height="76"
+			onMouseOver="src='images/setupsheet-over.jpg';" onMouseOut="src='images/setupsheetblue.jpg';">
+		</a>
+
+
+		<a style="color: white;" href="labortracking.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="labortracking" src="images/labortrackingblue.jpg" border="0" alt="Labor Tracking" width="65" height="76"
+			onMouseOver="src='images/labortracking-over.jpg';" onMouseOut="src='images/labortrackingblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="expensespenddown.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="ExpenseSpenddown" src="images/ExpenseSpenddownblue.jpg" border="0" alt="Expense Spenddown" width="65" height="76"
+			onMouseOver="src='images/ExpenseSpenddown-over.jpg';" onMouseOut="src='images/ExpenseSpenddownblue.jpg';">
+		</a>
+		
+		<a style="color: white;" href="monthlyinvoices.cfm?NumberOfMonths=#mnuNumberOfMonths#&Role=#mnuRole#
+			<cfif isDefined("mnuHouseId")>
+				&iHouse_ID=#mnuHouseId#&SubAccount=#mnuSubAccount#
+			</cfif>
+			<cfif isDefined("mnuDateToUse")>
+				&DateToUse=#DateFormat(datetouse,'mmmm yyyy')#
+			</cfif>">
+			<img name="MonthlyInvoices" src="images/MonthlyInvoicesblue.jpg" border="0" alt="Monthly Invoices" width="65" height="76"
+			onMouseOver="src='images/MonthlyInvoices-over.jpg';" onMouseOut="src='images/MonthlyInvoicesblue.jpg';">
+		</a>		
+		
+		<img name="HouseReport" src="images/HouseReport.jpg" border="0" alt="House Visit" width="65" height="76" />
+						
+	</cfif>
+</cfoutput>
+

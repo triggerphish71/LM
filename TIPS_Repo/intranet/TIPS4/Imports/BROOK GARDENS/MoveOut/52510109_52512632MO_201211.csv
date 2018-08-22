@@ -1,0 +1,5 @@
+BATCH,,201211,B,120.0000,
+INVOICE,IN,,52510109,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,52512632MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,30,2.0000,60.00,"Credit for Limited Term Discount: Larson, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,52510109,,11/01/2012,60,"Invoice-Private",,11/01/2012,11/10/2012,,52512632MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,30,2,60,"Limited Term Discount: Larson, Chester",,,,,,,,,,,,,,,

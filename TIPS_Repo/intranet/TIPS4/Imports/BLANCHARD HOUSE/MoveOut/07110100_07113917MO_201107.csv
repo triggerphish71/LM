@@ -1,0 +1,6 @@
+BATCH,,201107,B,4761.6000,
+INVOICE,IN,,07110100,,07/01/2011,297.6000,"Invoice-Private",,07/01/2011,07/10/2011,,07113917MO,-4166.4000,,,,,,,,,,
+TRANSACTION,3312,010305071,1,297.6000,297.60,"CR:Two Room Rental... C.Beach 201107: Beach, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07110100,,07/01/2011,4464,"Invoice-Private",,07/01/2011,07/10/2011,,07113917MO,-4166.4000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2976,2976,"CR:Basic Service F... C.Beach 201107: Beach, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,1488,1488,"CR:Resident Care -... C.Beach 201107: Beach, Carolyn",,,,,,,,,,,,,,,

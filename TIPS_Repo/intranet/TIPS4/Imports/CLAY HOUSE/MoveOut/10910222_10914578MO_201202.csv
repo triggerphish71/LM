@@ -1,0 +1,6 @@
+BATCH,,201202,B,4425.0000,
+INVOICE,IN,,10910222,,02/01/2012,1500.0000,"Invoice-Private",,02/01/2012,02/01/2012,,10914578MO,-1425.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,15,100.0000,1500.00,"Basic Service Fee- One Bedroom Prem for Feb: Updyke, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,10910222,,02/01/2012,2925,"Invoice-Private",,02/01/2012,02/01/2012,,10914578MO,-1425.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2900,2900,"CR:Basic Service F... G.Updyke 201202: Updyke, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... G.Updyke 201202: Updyke, Gerald",,,,,,,,,,,,,,,

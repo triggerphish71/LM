@@ -1,0 +1,8 @@
+BATCH,,201806,B,10500.0000,
+INVOICE,IN,,07110211,,06/18/2018,4200.0000,"Invoice-Private",,06/18/2018,06/18/2018,,07117072MO,-8610.0000,,,,,,,,,,
+TRANSACTION,3017,010005071,20,91.0000,1820.00," Level: 5 : Heilman, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005071,20,119.0000,2380.00,"Basic Service Fee - Studio for Jun: Heilman, Susan",,,,,,,,,,,,,,,
+INVOICE,CM,,07110211,,06/18/2018,6300,"Invoice-Private",,06/18/2018,06/18/2018,,07117072MO,-8610.0000,,,,,,,,,,
+TRANSACTION,3020,010005071,1,3570,3570,"CR:Basic Service F... S.Heilman 201806: Heilman, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005071,1,660,660,"CR:Resident Care -... S.Heilman 201806: Heilman, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005071,1,2070,2070,"CR:Resident Care L... S.Heilman 201806: Heilman, Susan",,,,,,,,,,,,,,,

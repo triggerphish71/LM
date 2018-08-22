@@ -1,0 +1,6 @@
+BATCH,,201108,B,6617.0000,
+INVOICE,IN,,08010163,,08/26/2011,3238.0000,"Invoice-Private",,08/26/2011,08/26/2011,,08013961MO,-3231.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,1,186.0000,186.00,"CR:Limited Term Di... L.Dritz 201108: Dritz, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202080,28,109.0000,3052.00,"Basic Service Fee - One Bedroom for Aug: Dritz, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,08010163,,08/26/2011,3379,"Invoice-Private",,08/26/2011,08/26/2011,,08013961MO,-3231.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,3379,3379,"CR:Basic Service F... L.Dritz 201108: Dritz, Lois",,,,,,,,,,,,,,,

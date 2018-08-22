@@ -1,0 +1,8 @@
+BATCH,,201201,B,8609.0000,
+INVOICE,IN,,02710000,,01/01/2012,3996.0000,"Invoice-Private",,01/01/2012,01/10/2012,,02713897MO,-617.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,27,116.0000,3132.00,"Basic Service Fee - One Bedroom for Jan: Clampitt, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,27,32.0000,864.00,"Resident Care - Level 2 for Jan: Clampitt, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02710000,,01/01/2012,4613,"Invoice-Private",,01/01/2012,01/10/2012,,02713897MO,-617.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,3596,3596,"CR:Basic Service F... J.Clampitt 201201: Clampitt, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"CR:Monthly Cable... J.Clampitt 201201: Clampitt, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,992,992,"CR:Resident Care -... J.Clampitt 201201: Clampitt, James",,,,,,,,,,,,,,,

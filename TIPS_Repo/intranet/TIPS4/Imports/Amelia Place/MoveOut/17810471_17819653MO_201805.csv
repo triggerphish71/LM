@@ -1,0 +1,5 @@
+BATCH,,201805,B,73.6000,
+INVOICE,IN,,17810471,,05/01/2018,36.8000,"Invoice-Private",,05/01/2018,05/10/2018,,17819653MO,4440.0000,,,,,,,,,,
+TRANSACTION,3260,010012178,1,36.8000,36.80,"Monthly Cable: Ronnfeldt, Allan",,,,,,,,,,,,,,,
+INVOICE,CM,,17810471,,05/01/2018,36.8,"Invoice-Private",,05/01/2018,05/10/2018,,17819653MO,4440.0000,,,,,,,,,,
+TRANSACTION,3260,010012178,1,36.8,36.8,"Credit for Monthly Cable: Ronnfeldt, Allan",,,,,,,,,,,,,,,

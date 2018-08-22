@@ -1,0 +1,6 @@
+BATCH,,201205,B,5037.0000,
+INVOICE,IN,,14310182,,05/30/2012,2460.0000,"Invoice-Private",,05/30/2012,05/30/2012,,14314465MO,-2612.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,30,82.0000,2460.00,"Basic Service Fee - Studio for May: Robbins, Hagan",,,,,,,,,,,,,,,
+INVOICE,CM,,14310182,,05/30/2012,2577,"Invoice-Private",,05/30/2012,05/30/2012,,14314465MO,-2612.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... H.Robbins 201205: Robbins, Hagan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... H.Robbins 201205: Robbins, Hagan",,,,,,,,,,,,,,,

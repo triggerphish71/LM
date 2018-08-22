@@ -1,0 +1,6 @@
+BATCH,,201211,B,1665.0000,
+INVOICE,IN,,03610290,,11/01/2012,468.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03615319MO,-729.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,12,39.0000,468.00,"Basic Service Fee - Second Resident for Nov: Cate, JoAnn",,,,,,,,,,,,,,,
+INVOICE,CM,,03610290,,11/01/2012,1197,"Invoice-Private",,11/01/2012,11/10/2012,,03615319MO,-729.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,1170,1170,"CR:Basic Service F... J.Cate 201211: Cate, JoAnn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Cate 201211: Cate, JoAnn",,,,,,,,,,,,,,,

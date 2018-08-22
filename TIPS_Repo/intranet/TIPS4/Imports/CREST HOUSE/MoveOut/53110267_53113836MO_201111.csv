@@ -1,0 +1,5 @@
+BATCH,,201111,B,2700.0000,
+INVOICE,IN,,53110267,,11/01/2011,1350.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53113836MO,-3830.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,30,45.0000,1350.00,"Credit for Limited Term Discount: Bancroft, Gordon",,,,,,,,,,,,,,,
+INVOICE,CM,,53110267,,11/01/2011,1350,"Invoice-Private",,11/01/2011,11/10/2011,,53113836MO,-3830.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,30,45,1350,"Limited Term Discount: Bancroft, Gordon",,,,,,,,,,,,,,,

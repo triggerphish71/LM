@@ -1,0 +1,7 @@
+BATCH,,201303,B,8478.0000,
+INVOICE,IN,,06510221,,03/23/2013,3611.0000,"Invoice-Private",,03/23/2013,03/23/2013,,06515156MO,-5216.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,23,120.0000,2760.00,"Basic Service Fee- One Bedroom Premium for Mar: Vogelsong, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,23,37.0000,851.00,"Resident Care Level Change for Mar: Vogelsong, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,06510221,,03/23/2013,4867,"Invoice-Private",,03/23/2013,03/23/2013,,06515156MO,-5216.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3720,3720,"CR:Basic Service F... H.Vogelsong 201303: Vogelsong, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1147,1147,"CR:Resident Care L... H.Vogelsong 201303: Vogelsong, Harold",,,,,,,,,,,,,,,

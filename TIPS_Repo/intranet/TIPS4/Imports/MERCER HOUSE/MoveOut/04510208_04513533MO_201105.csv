@@ -1,0 +1,8 @@
+BATCH,,201105,B,5031.0000,
+INVOICE,IN,,04510208,,05/05/2011,695.0000,"Invoice-Private",,05/05/2011,05/05/2011,,04513533MO,-3641.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,5,95.0000,475.00,"Basic Service Fee - One Bedroom for May: Curry, Thurman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,5,44.0000,220.00,"Resident Care - Level 3 for May: Curry, Thurman",,,,,,,,,,,,,,,
+INVOICE,CM,,04510208,,05/05/2011,4336,"Invoice-Private",,05/05/2011,05/05/2011,,04513533MO,-3641.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2945,2945,"CR:Basic Service F... T.Curry 201105: Curry, Thurman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... T.Curry 201105: Curry, Thurman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,1364,1364,"CR:Resident Care -... T.Curry 201105: Curry, Thurman",,,,,,,,,,,,,,,

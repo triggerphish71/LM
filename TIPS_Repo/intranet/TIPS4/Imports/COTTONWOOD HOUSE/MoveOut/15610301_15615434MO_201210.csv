@@ -1,0 +1,7 @@
+BATCH,,201210,B,7442.0000,
+INVOICE,IN,,15610301,,10/30/2012,3660.0000,"Invoice-Private",,10/30/2012,10/30/2012,,15615434MO,-3782.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,30,90.0000,2700.00,"Basic Service Fee - Studio for Oct: Kalinowski, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,30,32.0000,960.00,"Resident Care - Level 2 for Oct: Kalinowski, Leo",,,,,,,,,,,,,,,
+INVOICE,CM,,15610301,,10/30/2012,3782,"Invoice-Private",,10/30/2012,10/30/2012,,15615434MO,-3782.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2790,2790,"CR:Basic Service F... L.Kalinowski 201210: Kalinowski, Leo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,992,992,"CR:Resident Care -... L.Kalinowski 201210: Kalinowski, Leo",,,,,,,,,,,,,,,

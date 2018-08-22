@@ -1,0 +1,6 @@
+BATCH,,201108,B,3460.0000,
+INVOICE,IN,,12910294,,08/19/2011,3460.0000,"MoveIn-Buchowsky. Mary",,08/19/2011,08/19/2011,,12915472,6790.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,13,92.0000,1196,"Basic Service Fee - Studio         : Buchowsky. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,13,18.0000,234,"Resident Care - Level 1: Buchowsky. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Buchowsky. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Buchowsky. Mary",,,,,,,,,,,,,,,

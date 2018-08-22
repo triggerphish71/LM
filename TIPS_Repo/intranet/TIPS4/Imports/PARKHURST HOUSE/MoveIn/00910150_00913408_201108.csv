@@ -1,0 +1,5 @@
+BATCH,,201108,B,1614.4000,
+INVOICE,IN,,00910150,,08/26/2011,1614.4000,"MoveIn-Beekman. Margaret",,08/26/2011,08/26/2011,,00913408,4686.4000,,,,,,,,,,
+TRANSACTION,3010,010101009,6,82.0000,492,"Basic Service Fee - Studio         : Beekman. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,6,20.4000,122.4,"Resident Care - Level 12: Beekman. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Beekman. Margaret",,,,,,,,,,,,,,,

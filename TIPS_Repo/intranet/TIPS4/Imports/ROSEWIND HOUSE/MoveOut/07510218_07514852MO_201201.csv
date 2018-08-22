@@ -1,0 +1,5 @@
+BATCH,,201201,B,1364.0000,
+INVOICE,IN,,07510218,,01/01/2012,682.0000,"Invoice-Private",,01/01/2012,01/10/2012,,07514852MO,-1209.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,31,22.0000,682.00,"Credit for Limited Term Discount: Ketchum, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,07510218,,01/01/2012,682,"Invoice-Private",,01/01/2012,01/10/2012,,07514852MO,-1209.0000,,,,,,,,,,
+TRANSACTION,3320,010104075,31,22,682,"Limited Term Discount: Ketchum, Bessie",,,,,,,,,,,,,,,

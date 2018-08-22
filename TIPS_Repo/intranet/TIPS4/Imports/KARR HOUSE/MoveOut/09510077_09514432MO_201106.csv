@@ -1,0 +1,6 @@
+BATCH,,201106,B,2103.8700,
+INVOICE,IN,,09510077,,06/21/2011,427.7700,"Invoice-Medicaid",,06/21/2011,06/21/2011,,09514432MO,-2980.3000,,,,,,,,,,
+TRANSACTION,3021,010103095,21,20.3700,427.77,"Medicaid Co-Pay for Jun: Sansom, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,09510077,,06/21/2011,1676.1,"Invoice-Medicaid",,06/21/2011,06/21/2011,,09514432MO,-2980.3000,,,,,,,,,,
+TRANSACTION,3021,010103095,1,611.21,611.21,"CR:Medicaid Co-Pay... F.Sansom 201106: Sansom, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103095,1,1064.89,1064.89,"CR:State Medicaid... F.Sansom 201106: Sansom, Frank",,,,,,,,,,,,,,,

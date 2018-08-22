@@ -1,0 +1,7 @@
+BATCH,,201303,B,3960.0000,
+INVOICE,IN,,03310352,,03/01/2013,240.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03317080MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,2,70.0000,140.00,"Basic Service Fee - Studio for Mar: Provence, Philip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,2,50.0000,100.00,"Resident Care - Level 4 for Mar: Provence, Philip",,,,,,,,,,,,,,,
+INVOICE,CM,,03310352,,03/01/2013,3720,"Invoice-Private",,03/01/2013,03/10/2013,,03317080MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2170,2170,"CR:Basic Service F... P.Provence 201303: Provence, Philip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,1550,1550,"CR:Resident Care -... P.Provence 201303: Provence, Philip",,,,,,,,,,,,,,,

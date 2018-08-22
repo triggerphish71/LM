@@ -1,0 +1,5 @@
+BATCH,,201111,B,2278.0000,
+INVOICE,IN,,15410220,,11/01/2011,268.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15414614MO,-1742.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,4,67.0000,268.00,"Basic Service Fee - Studio for Nov: Kwiatkowski, Leander",,,,,,,,,,,,,,,
+INVOICE,CM,,15410220,,11/01/2011,2010,"Invoice-Private",,11/01/2011,11/10/2011,,15414614MO,-1742.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2010,2010,"CR:Basic Service F... L.Kwiatkowski 201111: Kwiatkowski, Leander",,,,,,,,,,,,,,,

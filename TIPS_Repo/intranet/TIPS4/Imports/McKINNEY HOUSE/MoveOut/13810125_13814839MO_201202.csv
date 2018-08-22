@@ -1,0 +1,7 @@
+BATCH,,201202,B,4536.0000,
+INVOICE,IN,,13810125,,02/07/2012,882.0000,"Invoice-Private",,02/07/2012,02/07/2012,,13814839MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,7,96.0000,672.00,"Basic Service Fee - Studio for Feb: Rollins, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,7,30.0000,210.00,"Resident Care - Level 2 for Feb: Rollins, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,13810125,,02/07/2012,3654,"Invoice-Private",,02/07/2012,02/07/2012,,13814839MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2784,2784,"CR:Basic Service F... S.Rollins 201202: Rollins, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,870,870,"CR:Resident Care -... S.Rollins 201202: Rollins, Sarah",,,,,,,,,,,,,,,

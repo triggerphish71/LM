@@ -1,0 +1,5 @@
+BATCH,,201208,B,1611.0000,
+INVOICE,IN,,12010261,,08/15/2012,1611.0000,"MoveIn-Teel. Cleo",,08/15/2012,08/15/2012,,12014565,4431.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,17,78.0000,1326,"Basic Service Fee - Studio: Teel. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309120,17,15.0000,255,"Resident Care - Level 1: Teel. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Teel. Cleo",,,,,,,,,,,,,,,

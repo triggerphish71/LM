@@ -1,0 +1,6 @@
+BATCH,,201303,B,4946.0000,
+INVOICE,IN,,694,,10/01/2012,1147.0000,"October_Rent-McTester. Bob",,10/01/2012,10/10/2012,,20017853,4946.0000,,,,,,,,,,
+TRANSACTION,3017,010001200,31,37.0000,1147,"Resident Care - Level 3: McTester. Bob",,,,,,,,,,,,,,,
+INVOICE,IN,,694,,10/01/2012,3799.0000,"October_Rent-McTester. Bob",,10/01/2012,10/10/2012,,20017853,4946.0000,,,,,,,,,,
+TRANSACTION,3014,010001200,29,94.0000,2726,"BSF  Studio Respite: McTester. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010001200,29,37.0000,1073,"Resident Care - Level 3: McTester. Bob",,,,,,,,,,,,,,,

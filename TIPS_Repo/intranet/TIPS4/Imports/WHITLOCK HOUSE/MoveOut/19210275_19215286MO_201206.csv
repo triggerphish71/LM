@@ -1,0 +1,7 @@
+BATCH,,201206,B,7392.0000,
+INVOICE,IN,,19210275,,06/26/2012,3432.0000,"Invoice-Private",,06/26/2012,06/26/2012,,19215286MO,-4620.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,26,114.0000,2964.00,"Basic Service Fee - Studio for Jun: Thompson, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,26,18.0000,468.00,"Resident Care - Level 1 for Jun: Thompson, William",,,,,,,,,,,,,,,
+INVOICE,CM,,19210275,,06/26/2012,3960,"Invoice-Private",,06/26/2012,06/26/2012,,19215286MO,-4620.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3420,3420,"CR:Basic Service F... W.Thompson 201206: Thompson, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,540,540,"CR:Resident Care -... W.Thompson 201206: Thompson, William",,,,,,,,,,,,,,,

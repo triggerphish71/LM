@@ -1,0 +1,5 @@
+BATCH,,201201,B,4429.0000,
+INVOICE,CM,,01910189,,01/01/2012,4429,"Invoice-Private",,01/01/2012,01/10/2012,,01914701MO,-5774.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2945,2945,"CR:Basic Service F... J.Cloud 201201: Cloud, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"CR:Monthly Cable... J.Cloud 201201: Cloud, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,1457,1457,"CR:Resident Care -... J.Cloud 201201: Cloud, Joan",,,,,,,,,,,,,,,

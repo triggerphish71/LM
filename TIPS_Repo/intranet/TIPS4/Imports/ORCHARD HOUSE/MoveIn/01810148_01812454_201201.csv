@@ -1,0 +1,5 @@
+BATCH,,201201,B,2514.2500,
+INVOICE,IN,,01810148,,01/17/2012,2514.2500,"MoveIn-Smith. Robert",,01/17/2012,01/17/2012,,01812454,5441.8000,,,,,,,,,,
+TRANSACTION,3010,010103018,15,92.0000,1380,"Basic Service Fee - One Bedroom: Smith. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103018,15,8.9500,134.25,"Resident Care - Level 5: Smith. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103018,1,1000.0000,1000,"New Resident Fee: Smith. Robert",,,,,,,,,,,,,,,

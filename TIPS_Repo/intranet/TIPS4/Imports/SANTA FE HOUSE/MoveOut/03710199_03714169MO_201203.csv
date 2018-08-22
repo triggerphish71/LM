@@ -1,0 +1,7 @@
+BATCH,,201203,B,7040.0000,
+INVOICE,IN,,03710199,,03/01/2012,3072.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03714169MO,-896.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,24,97.0000,2328.00,"Basic Service Fee - Studio for Mar: Bearden, Ray Nell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,24,31.0000,744.00,"Resident Care - Level 2 for Mar: Bearden, Ray Nell",,,,,,,,,,,,,,,
+INVOICE,CM,,03710199,,03/01/2012,3968,"Invoice-Private",,03/01/2012,03/10/2012,,03714169MO,-896.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,3007,3007,"CR:Basic Service F... R.Bearden 201203: Bearden, Ray Nell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,961,961,"CR:Resident Care -... R.Bearden 201203: Bearden, Ray Nell",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201307,B,3666.0000,
+INVOICE,IN,,17910140,,07/08/2013,752.0000,"Invoice-Private",,07/08/2013,07/08/2013,,17915491MO,-2162.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,8,80.0000,640.00,"Basic Service Fee - Studio for Jul: Lewis, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,8,14.0000,112.00,"Resident Care - Level 1 for Jul: Lewis, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17910140,,07/08/2013,2914,"Invoice-Private",,07/08/2013,07/08/2013,,17915491MO,-2162.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2480,2480,"CR:Basic Service F... J.Lewis 201307: Lewis, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,434,434,"CR:Resident Care -... J.Lewis 201307: Lewis, James",,,,,,,,,,,,,,,

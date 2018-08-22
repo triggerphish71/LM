@@ -1,0 +1,6 @@
+BATCH,,201303,B,3150.0000,
+INVOICE,IN,,13810241,,03/08/2013,96.0000,"Invoice-Private",,03/08/2013,03/08/2013,,13815437MO,-2958.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,96.0000,96.00,"Basic Service Fee - Studio for Mar: Guckien, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,13810241,,03/08/2013,3054,"Invoice-Private",,03/08/2013,03/08/2013,,13815437MO,-2958.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2304,2304,"CR:Basic Service F... V.Guckien 201303: Guckien, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309138,1,750,750,"CR:New Resident Fe... V.Guckien 201303: Guckien, Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,5460.0000,
+INVOICE,IN,,21210173,,11/10/2012,1410.0000,"Invoice-Private",,11/10/2012,11/10/2012,,21212798MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,60.0000,60.00,"CR:Limited Term Di... V.Vissage 201211: Vissage, Vernelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,10,43.0000,430.00,"Resident Care - Level 4 for Nov: Vissage, Vernelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,10,92.0000,920.00,"Studio Deluxe for Nov: Vissage, Vernelle",,,,,,,,,,,,,,,
+INVOICE,CM,,21210173,,11/10/2012,4050,"Invoice-Private",,11/10/2012,11/10/2012,,21212798MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1290,1290,"CR:Resident Care -... V.Vissage 201211: Vissage, Vernelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... V.Vissage 201211: Vissage, Vernelle",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,3034.0000,
+INVOICE,IN,,04710138,,05/14/2012,3034.0000,"MoveIn-Cox. Margaret",,05/14/2012,05/14/2012,,04713198,6424.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,18,96.0000,1728,"Basic Service Fee - Studio         : Cox. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,18,17.0000,306,"Resident Care - Level 1: Cox. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Cox. Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,6618.0000,
+INVOICE,IN,,06010208,,04/28/2012,3288.0000,"Invoice-Private",,04/28/2012,04/28/2012,,06014370MO,-3297.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,180.0000,180.00,"CR:Limited Term Di... F.Jurgonski 201204: Jurgonski, Freida",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,28,96.0000,2688.00,"Basic Service Fee - Studio Deluxe for Apr: Jurgonski, Freida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,28,15.0000,420.00,"Resident Care - Level 1 for Apr: Jurgonski, Freida",,,,,,,,,,,,,,,
+INVOICE,CM,,06010208,,04/28/2012,3330,"Invoice-Private",,04/28/2012,04/28/2012,,06014370MO,-3297.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2880,2880,"CR:Basic Service F... F.Jurgonski 201204: Jurgonski, Freida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,450,450,"CR:Resident Care -... F.Jurgonski 201204: Jurgonski, Freida",,,,,,,,,,,,,,,

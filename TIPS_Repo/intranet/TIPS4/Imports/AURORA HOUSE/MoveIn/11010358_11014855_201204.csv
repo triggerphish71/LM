@@ -1,0 +1,5 @@
+BATCH,,201204,B,3663.0000,
+INVOICE,IN,,11010358,,04/13/2012,3663.0000,"MoveIn-McGuire. Marshall",,04/13/2012,04/13/2012,,11014855,3663.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,18,91.0000,1638,"Basic Service Fee - Studio         : McGuire. Marshall",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: McGuire. Marshall",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: McGuire. Marshall",,,,,,,,,,,,,,,

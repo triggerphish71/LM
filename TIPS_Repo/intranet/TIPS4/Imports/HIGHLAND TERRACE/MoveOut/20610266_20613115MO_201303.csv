@@ -1,0 +1,7 @@
+BATCH,,201303,B,3599.0000,
+INVOICE,IN,,20610266,,03/28/2013,1708.0000,"Invoice-Private",,03/28/2013,03/28/2013,,20613115MO,-2013.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,28,11.0000,308.00,"Resident Care - Level 1 for Mar: Verdone, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,28,50.0000,1400.00,"Studio for Mar: Verdone, John",,,,,,,,,,,,,,,
+INVOICE,CM,,20610266,,03/28/2013,1891,"Invoice-Private",,03/28/2013,03/28/2013,,20613115MO,-2013.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... J.Verdone 201303: Verdone, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,1550,1550,"CR:Studio... J.Verdone 201303: Verdone, John",,,,,,,,,,,,,,,

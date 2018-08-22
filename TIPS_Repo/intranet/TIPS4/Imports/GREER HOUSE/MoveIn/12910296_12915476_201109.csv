@@ -1,0 +1,5 @@
+BATCH,,201109,B,3870.0000,
+INVOICE,IN,,12910296,,09/01/2011,3870.0000,"September_Rent-Welsh. Donna",,09/01/2011,09/10/2011,,12915476,7564.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,30,92.0000,2760,"Basic Service Fee - Studio         : Welsh. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,30,36.0000,1080,"Resident Care - Level 2: Welsh. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Welsh. Donna",,,,,,,,,,,,,,,

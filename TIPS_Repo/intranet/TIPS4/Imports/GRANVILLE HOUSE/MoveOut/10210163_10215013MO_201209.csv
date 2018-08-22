@@ -1,0 +1,5 @@
+BATCH,,201209,B,26.0000,
+INVOICE,IN,,10210163,,09/01/2012,13.0000,"Invoice-Private",,09/01/2012,09/10/2012,,10215013MO,-7672.6000,,,,,,,,,,
+TRANSACTION,3130,010306102,1,13.0000,13.00,"Pendant Fee: Andrews, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,10210163,,09/01/2012,13,"Invoice-Private",,09/01/2012,09/10/2012,,10215013MO,-7672.6000,,,,,,,,,,
+TRANSACTION,3130,010306102,1,13,13,"Credit for Pendant Fee: Andrews, Virginia",,,,,,,,,,,,,,,

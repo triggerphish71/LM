@@ -1,0 +1,5 @@
+BATCH,,201211,B,82.0000,
+INVOICE,IN,,21210205,,11/01/2012,41.0000,"Invoice-Private",,11/01/2012,11/10/2012,,21212744MO,-4857.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Tucker, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,21210205,,11/01/2012,41,"Invoice-Private",,11/01/2012,11/10/2012,,21212744MO,-4857.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Tucker, Earl",,,,,,,,,,,,,,,

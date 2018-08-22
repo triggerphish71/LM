@@ -1,0 +1,7 @@
+BATCH,,201105,B,6751.0000,
+INVOICE,IN,,13410231,,05/12/2011,1884.0000,"Invoice-Private",,05/12/2011,05/12/2011,,13414818MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,12,97.0000,1164.00,"Basic Service Fee - One Bedroom for May: Hudelson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,12,60.0000,720.00,"Resident Care - Level 4 for May: Hudelson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13410231,,05/12/2011,4867,"Invoice-Private",,05/12/2011,05/12/2011,,13414818MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,3007,3007,"CR:Basic Service F... R.Hudelson 201105: Hudelson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,1860,1860,"CR:Resident Care -... R.Hudelson 201105: Hudelson, Robert",,,,,,,,,,,,,,,

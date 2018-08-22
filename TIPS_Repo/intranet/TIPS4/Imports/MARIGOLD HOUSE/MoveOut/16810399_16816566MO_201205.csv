@@ -1,0 +1,5 @@
+BATCH,,201205,B,992.0000,
+INVOICE,IN,,16810399,,05/01/2012,31.0000,"Invoice-Private",,05/01/2012,05/01/2012,,16816566MO,-930.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,31.0000,31.00,"Basic Service Fee - Second Resident for May: Holliday, John",,,,,,,,,,,,,,,
+INVOICE,CM,,16810399,,05/01/2012,961,"Invoice-Private",,05/01/2012,05/01/2012,,16816566MO,-930.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,961,961,"CR:Basic Service F... J.Holliday 201205: Holliday, John",,,,,,,,,,,,,,,

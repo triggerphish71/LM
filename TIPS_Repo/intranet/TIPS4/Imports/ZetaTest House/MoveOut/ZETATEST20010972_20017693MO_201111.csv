@@ -1,0 +1,6 @@
+BATCH,,201111,B,3765.0000,
+INVOICE,IN,,20010972,,11/17/2011,1500.0000,"Invoice-Private",,11/17/2011,11/17/2011,,20017693MO,-765.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,20,75.0000,1500.00,"Room and Board - Studio for Nov: Hack, Geno",,,,,,,,,,,,,,,
+INVOICE,CM,,20010972,,11/17/2011,2265,"Invoice-Private",,11/17/2011,11/17/2011,,20017693MO,-765.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2250,2250,"CR:Room and Board ... G.Hack 201111: Hack, Geno",,,,,,,,,,,,,,,
+TRANSACTION,3228,010001200,1,15,15,"CR:Sharps Disposal... G.Hack 201111: Hack, Geno",,,,,,,,,,,,,,,

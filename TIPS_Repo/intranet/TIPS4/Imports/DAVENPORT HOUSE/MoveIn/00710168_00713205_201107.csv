@@ -1,0 +1,5 @@
+BATCH,,201107,B,1098.7000,
+INVOICE,IN,,00710168,,07/31/2011,1098.7000,"MoveIn-Hunegs. Harry",,07/31/2011,07/31/2011,,00713205,4158.4000,,,,,,,,,,
+TRANSACTION,3010,010101007,1,80.0000,80,"Basic Service Fee - Studio         : Hunegs. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,1,18.7000,18.7,"Resident Care - Level 11: Hunegs. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Hunegs. Harry",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,3311.0000,
+INVOICE,CM,,07510217,,12/01/2011,3311,"Invoice-Private",,12/01/2011,12/10/2011,,07514851MO,-3311.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2821,2821,"CR:Basic Service F... G.Ketchum 201112: Ketchum, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... G.Ketchum 201112: Ketchum, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,465,465,"CR:Resident Care -... G.Ketchum 201112: Ketchum, Glenn",,,,,,,,,,,,,,,

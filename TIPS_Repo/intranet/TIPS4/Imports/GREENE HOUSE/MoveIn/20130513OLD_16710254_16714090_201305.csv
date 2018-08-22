@@ -1,0 +1,5 @@
+BATCH,,201305,B,2516.0000,
+INVOICE,IN,,16710254,,05/10/2013,2516.0000,"MoveIn-Luft. Robert",,05/10/2013,05/10/2013,,16714090,2516.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,22,86.0000,1892,"Basic Service Fee - Studio: Luft. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,22,27.0000,594,"Resident Care - Level 2: Luft. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Luft. Robert",,,,,,,,,,,,,,,

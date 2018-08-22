@@ -1,0 +1,7 @@
+BATCH,,201111,B,79.4000,
+INVOICE,IN,,14910173,,11/01/2011,39.7000,"Invoice-Private",,11/01/2011,11/10/2011,,14914393MO,-5925.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Crampton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3312,010212149,1,9.7000,9.70,"Credit for Two Room Rental Discount: Crampton, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,14910173,,11/01/2011,39.7,"Invoice-Private",,11/01/2011,11/10/2011,,14914393MO,-5925.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Crampton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3312,010212149,1,9.7,9.7,"Two Room Rental Discount: Crampton, Robert",,,,,,,,,,,,,,,

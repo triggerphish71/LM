@@ -1,0 +1,5 @@
+BATCH,,201202,B,3167.0000,
+INVOICE,IN,,02610267,,02/10/2012,3167.0000,"MoveIn-Bernauer. George",,02/10/2012,02/10/2012,,02614651,3167.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,20,97.0000,1940,"Basic Service Fee - Studio: Bernauer. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Bernauer. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1200.0000,1200,"New Resident Fee: Bernauer. George",,,,,,,,,,,,,,,

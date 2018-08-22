@@ -1,0 +1,7 @@
+BATCH,,201203,B,6000.0000,
+INVOICE,IN,,19210210,,03/09/2012,1350.0000,"Invoice-Private",,03/09/2012,03/09/2012,,19215137MO,-7800.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,9,114.0000,1026.00,"Basic Service Fee - Studio for Mar: Pollock, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,9,36.0000,324.00,"Resident Care - Level 2 for Mar: Pollock, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,19210210,,03/09/2012,4650,"Invoice-Private",,03/09/2012,03/09/2012,,19215137MO,-7800.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... A.Pollock 201203: Pollock, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1116,1116,"CR:Resident Care -... A.Pollock 201203: Pollock, Anna",,,,,,,,,,,,,,,

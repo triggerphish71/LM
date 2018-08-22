@@ -1,0 +1,6 @@
+BATCH,,201211,B,4500.0000,
+INVOICE,IN,,08610127,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,08615003MO,-6148.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,60.0000,60.00,"CR:Limited Term Di... H.Yates 201211: Yates, Harriett",,,,,,,,,,,,,,,
+INVOICE,CM,,08610127,,11/01/2012,4440,"Invoice-Private",,11/01/2012,11/10/2012,,08615003MO,-6148.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2670,2670,"CR:Basic Service F... H.Yates 201211: Yates, Harriett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1770,1770,"CR:Resident Care -... H.Yates 201211: Yates, Harriett",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,2514.0000,
+INVOICE,IN,,03410274,,11/01/2012,1257.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03415721MO,-3146.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Andrus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,41.0000,1230.00,"Credit for Limited Term Discount: Andrus, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,03410274,,11/01/2012,1257,"Invoice-Private",,11/01/2012,11/10/2012,,03415721MO,-3146.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Andrus, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,41,1230,"Limited Term Discount: Andrus, Margaret",,,,,,,,,,,,,,,

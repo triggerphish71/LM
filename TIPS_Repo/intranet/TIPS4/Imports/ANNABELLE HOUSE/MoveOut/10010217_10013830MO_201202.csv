@@ -1,0 +1,5 @@
+BATCH,,201202,B,2925.0000,
+INVOICE,CM,,10010217,,02/01/2012,2925,"Invoice-Private",,02/01/2012,02/10/2012,,10013830MO,-2925.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2465,2465,"CR:Basic Service F... L.Osa 201202: Osa, Lucia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... L.Osa 201202: Osa, Lucia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,435,435,"CR:Resident Care -... L.Osa 201202: Osa, Lucia",,,,,,,,,,,,,,,

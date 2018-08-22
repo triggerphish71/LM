@@ -1,0 +1,7 @@
+BATCH,,201306,B,4820.8000,
+INVOICE,IN,,10410327,,06/01/2013,1676.8000,"Invoice-Private",,06/01/2013,06/10/2013,,10415390MO,-1467.2000,,,,,,,,,,
+TRANSACTION,3020,010101104,16,90.0000,1440.00,"Basic Service Fee - Studio for Jun: Simon, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,16,14.8000,236.80,"Resident Care - Level 8 for Jun: Simon, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,10410327,,06/01/2013,3144,"Invoice-Private",,06/01/2013,06/10/2013,,10415390MO,-1467.2000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2700,2700,"CR:Basic Service F... R.Simon 201306: Simon, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,444,444,"CR:Resident Care -... R.Simon 201306: Simon, Richard",,,,,,,,,,,,,,,

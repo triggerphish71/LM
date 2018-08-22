@@ -1,0 +1,7 @@
+BATCH,,201201,B,8372.0000,
+INVOICE,IN,,06610160,,01/21/2012,3381.0000,"Invoice-Private",,01/21/2012,01/21/2012,,06614382MO,-5380.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,21,96.0000,2016.00,"Basic Service Fee - Studio for Jan: Nickum, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,21,65.0000,1365.00,"Resident Care - Level 4 for Jan: Nickum, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06610160,,01/21/2012,4991,"Invoice-Private",,01/21/2012,01/21/2012,,06614382MO,-5380.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... B.Nickum 201201: Nickum, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2015,2015,"CR:Resident Care -... B.Nickum 201201: Nickum, Betty",,,,,,,,,,,,,,,

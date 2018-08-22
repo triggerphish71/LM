@@ -1,0 +1,6 @@
+BATCH,,201112,B,3988.1000,
+INVOICE,IN,,15310236,,12/14/2011,3988.1000,"MoveIn-Gunter. Blanch",,12/14/2011,12/14/2011,,15315785,3988.1000,,,,,,,,,,
+TRANSACTION,3010,010103153,18,100.0000,1800,"Basic Service Fee - Studio: Gunter. Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,18,8.9500,161.1,"Resident Care - Level 5: Gunter. Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Gunter. Blanch",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Gunter. Blanch",,,,,,,,,,,,,,,

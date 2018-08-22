@@ -1,0 +1,7 @@
+BATCH,,201209,B,8990.0000,
+INVOICE,IN,,12310216,,09/28/2012,4340.0000,"Invoice-Private",,09/28/2012,09/28/2012,,12315629MO,-5115.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,28,103.0000,2884.00,"Basic Service Fee - Studio for Sep: Claassen, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3037,010211123,28,52.0000,1456.00,"Private Care Rate Adjustments for Sep: Claassen, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,12310216,,09/28/2012,4650,"Invoice-Private",,09/28/2012,09/28/2012,,12315629MO,-5115.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3090,3090,"CR:Basic Service F... R.Claassen 201209: Claassen, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3037,010211123,1,1560,1560,"CR:Private Care Ra... R.Claassen 201209: Claassen, Ruby",,,,,,,,,,,,,,,

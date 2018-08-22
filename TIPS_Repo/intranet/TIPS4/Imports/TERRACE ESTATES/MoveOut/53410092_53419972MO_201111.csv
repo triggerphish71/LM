@@ -1,0 +1,8 @@
+BATCH,,201111,B,3588.0000,
+INVOICE,IN,,53410092,,11/03/2011,408.0000,"Invoice-Private",,11/03/2011,11/03/2011,,53419972MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,90.0000,90.00,"CR:Limited Term Di... J.Szczurek 201111: Szczurek, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,3,67.0000,201.00,"Basic Service Fee - Studio for Nov: Szczurek, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,3,39.0000,117.00,"Resident Care - Level 1 for Nov: Szczurek, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,53410092,,11/03/2011,3180,"Invoice-Private",,11/03/2011,11/03/2011,,53419972MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2010,2010,"CR:Basic Service F... J.Szczurek 201111: Szczurek, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1170,1170,"CR:Resident Care -... J.Szczurek 201111: Szczurek, Josephine",,,,,,,,,,,,,,,

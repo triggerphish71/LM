@@ -1,0 +1,5 @@
+BATCH,,201205,B,223.2000,
+INVOICE,IN,,13710226,,05/01/2012,111.6000,"Invoice-Private",,05/01/2012,05/10/2012,,13714374MO,-1296.0000,,,,,,,,,,
+TRANSACTION,3317,010309137,31,3.6000,111.60,"Credit for HealthCare Synergies Discount: Scher, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,13710226,,05/01/2012,111.6,"Invoice-Private",,05/01/2012,05/10/2012,,13714374MO,-1296.0000,,,,,,,,,,
+TRANSACTION,3317,010309137,31,3.6,111.6,"HealthCare Synergies Discount: Scher, Bernard",,,,,,,,,,,,,,,

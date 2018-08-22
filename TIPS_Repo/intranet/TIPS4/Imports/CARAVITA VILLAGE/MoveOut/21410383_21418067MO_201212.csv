@@ -1,0 +1,6 @@
+BATCH,,201212,B,4014.0000,
+INVOICE,IN,,21410383,,12/01/2012,1813.0000,"Invoice-Private",,12/01/2012,12/10/2012,,21418067MO,-388.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,961.0000,961.00,"CR:Limited Term Di... R.Underwood 201212: Underwood, Rena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,12,71.0000,852.00,"IL One Bedroom for Dec: Underwood, Rena",,,,,,,,,,,,,,,
+INVOICE,CM,,21410383,,12/01/2012,2201,"Invoice-Private",,12/01/2012,12/10/2012,,21418067MO,-388.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2201,2201,"CR:IL One Bedroom... R.Underwood 201212: Underwood, Rena",,,,,,,,,,,,,,,

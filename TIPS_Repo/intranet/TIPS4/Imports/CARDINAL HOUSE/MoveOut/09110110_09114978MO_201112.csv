@@ -1,0 +1,7 @@
+BATCH,,201112,B,6026.0000,
+INVOICE,IN,,09110110,,12/05/2011,1965.0000,"Invoice-Private",,12/05/2011,12/05/2011,,09114978MO,-2096.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,15,80.0000,1200.00,"Basic Service Fee - Studio for Dec: Bell, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,15,51.0000,765.00,"Resident Care - Level 3 for Dec: Bell, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,09110110,,12/05/2011,4061,"Invoice-Private",,12/05/2011,12/05/2011,,09114978MO,-2096.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2480,2480,"CR:Basic Service F... M.Bell 201112: Bell, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1581,1581,"CR:Resident Care -... M.Bell 201112: Bell, Martha",,,,,,,,,,,,,,,

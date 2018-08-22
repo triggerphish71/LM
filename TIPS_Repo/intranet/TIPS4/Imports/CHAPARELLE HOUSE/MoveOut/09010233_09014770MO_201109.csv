@@ -1,0 +1,7 @@
+BATCH,,201109,B,7038.0000,
+INVOICE,IN,,09010233,,09/21/2011,2898.0000,"Invoice-Private",,09/21/2011,09/21/2011,,09014770MO,-5545.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,21,109.0000,2289.00,"Basic Service Fee - One Bedroom for Sep: Webb, Weston",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,21,29.0000,609.00,"Resident Care - Level 2 for Sep: Webb, Weston",,,,,,,,,,,,,,,
+INVOICE,CM,,09010233,,09/21/2011,4140,"Invoice-Private",,09/21/2011,09/21/2011,,09014770MO,-5545.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,3270,3270,"CR:Basic Service F... W.Webb 201109: Webb, Weston",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,870,870,"CR:Resident Care -... W.Webb 201109: Webb, Weston",,,,,,,,,,,,,,,

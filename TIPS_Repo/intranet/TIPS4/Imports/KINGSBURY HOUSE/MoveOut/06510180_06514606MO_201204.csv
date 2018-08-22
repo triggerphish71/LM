@@ -1,0 +1,7 @@
+BATCH,,201204,B,8162.0000,
+INVOICE,IN,,06510180,,04/01/2012,3542.0000,"Invoice-Private",,04/01/2012,04/10/2012,,06514606MO,-5852.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,23,99.0000,2277.00,"Basic Service Fee - Studio for Apr: Klender, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,23,55.0000,1265.00,"Resident Care - Level 3 for Apr: Klender, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,06510180,,04/01/2012,4620,"Invoice-Private",,04/01/2012,04/10/2012,,06514606MO,-5852.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2970,2970,"CR:Basic Service F... K.Klender 201204: Klender, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1650,1650,"CR:Resident Care -... K.Klender 201204: Klender, Kenneth",,,,,,,,,,,,,,,

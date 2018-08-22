@@ -1,0 +1,8 @@
+BATCH,,201305,B,5876.0000,
+INVOICE,IN,,14310202,,05/03/2013,2772.0000,"Invoice-Private",,05/03/2013,05/03/2013,,14314953MO,-332.0000,,,,,,,,,,
+TRANSACTION,3027,010309143,28,17.0000,476.00,"Resident Care - Level 1 for May: Boyles, Arnold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309143,28,82.0000,2296.00,"Room and Board - Studio for May: Boyles, Arnold",,,,,,,,,,,,,,,
+INVOICE,CM,,14310202,,05/03/2013,3104,"Invoice-Private",,05/03/2013,05/03/2013,,14314953MO,-332.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... A.Boyles 201305: Boyles, Arnold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,527,527,"CR:Resident Care -... A.Boyles 201305: Boyles, Arnold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Room and Board ... A.Boyles 201305: Boyles, Arnold",,,,,,,,,,,,,,,

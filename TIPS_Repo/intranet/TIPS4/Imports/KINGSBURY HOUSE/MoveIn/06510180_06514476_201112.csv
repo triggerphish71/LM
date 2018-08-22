@@ -1,0 +1,5 @@
+BATCH,,201112,B,5580.0000,
+INVOICE,IN,,06510180,,12/02/2011,5580.0000,"MoveIn-Klender. Kenneth",,12/02/2011,12/02/2011,,06514476,5580.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,30,99.0000,2970,"Basic Service Fee - Studio         : Klender. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305065,30,37.0000,1110,"Resident Care - Level 2: Klender. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305065,1,1500.0000,1500,"New Resident Fee: Klender. Kenneth",,,,,,,,,,,,,,,

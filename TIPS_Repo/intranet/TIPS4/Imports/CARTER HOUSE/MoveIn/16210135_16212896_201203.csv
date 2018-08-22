@@ -1,0 +1,5 @@
+BATCH,,201203,B,4410.0000,
+INVOICE,IN,,16210135,,03/02/2012,4410.0000,"MoveIn-Holstein. Ruby",,03/02/2012,03/02/2012,,16212896,4410.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,30,82.0000,2460,"Basic Service Fee - One Bedroom: Holstein. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,30,15.0000,450,"Resident Care - Level 1: Holstein. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Holstein. Ruby",,,,,,,,,,,,,,,

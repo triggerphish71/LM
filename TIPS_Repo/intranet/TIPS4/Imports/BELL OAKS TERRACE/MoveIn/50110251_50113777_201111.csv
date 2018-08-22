@@ -1,0 +1,4 @@
+BATCH,,201111,B,3030.0000,
+INVOICE,IN,,50110251,,11/01/2011,3030.0000,"November_Rent-Fisher. John",,11/01/2011,11/10/2011,,50113777,5660.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,30,100.0000,3000,"Basic Service Fee - One Bedroom: Fisher. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Fisher. John",,,,,,,,,,,,,,,

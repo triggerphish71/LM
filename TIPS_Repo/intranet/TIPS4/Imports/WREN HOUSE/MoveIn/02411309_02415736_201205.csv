@@ -1,0 +1,5 @@
+BATCH,,201205,B,2415.0000,
+INVOICE,IN,,02411309,,05/24/2012,2415.0000,"MoveIn-Allen. Mary",,05/24/2012,05/24/2012,,02415736,5772.0000,,,,,,,,,,
+TRANSACTION,3010,010202024,8,111.0000,888,"Basic Service Fee - One Bedroom: Allen. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27,"Monthly Cable: Allen. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202024,1,1500.0000,1500,"New Resident Fee: Allen. Mary",,,,,,,,,,,,,,,

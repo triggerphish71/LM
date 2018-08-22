@@ -1,0 +1,8 @@
+BATCH,,201110,B,4432.0000,
+INVOICE,IN,,11210220,,10/08/2011,904.0000,"Invoice-Private",,10/08/2011,10/08/2011,,11215655MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,8,94.0000,752.00,"Basic Service Fee - Studio for Oct: Roddy, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,8,19.0000,152.00,"Resident Care - Level 1 for Oct: Roddy, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,11210220,,10/08/2011,3528,"Invoice-Private",,10/08/2011,10/08/2011,,11215655MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,2914,2914,"CR:Basic Service F... M.Roddy 201110: Roddy, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... M.Roddy 201110: Roddy, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,589,589,"CR:Resident Care -... M.Roddy 201110: Roddy, Margaret",,,,,,,,,,,,,,,

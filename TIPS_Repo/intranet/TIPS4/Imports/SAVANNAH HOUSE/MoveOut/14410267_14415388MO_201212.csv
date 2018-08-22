@@ -1,0 +1,5 @@
+BATCH,,201212,B,3922.0000,
+INVOICE,IN,,14410267,,12/06/2012,636.0000,"Invoice-Private",,12/06/2012,12/06/2012,,14415388MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,6,106.0000,636.00,"M.Sanders: Basic Service Fee - Studio for Dec: Sanders, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410267,,12/06/2012,3286,"Invoice-Private",,12/06/2012,12/06/2012,,14415388MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:M.Sanders: Basi... M.Sanders 201212: Sanders, Marjorie",,,,,,,,,,,,,,,

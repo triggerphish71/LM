@@ -1,0 +1,7 @@
+BATCH,,201307,B,3685.0000,
+INVOICE,IN,,06910183,,07/13/2013,1608.0000,"Invoice-Private",,07/13/2013,07/13/2013,,06914253MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,24,51.0000,1224.00,"Basic Service Fee - Studio for Jul: Gonzales, Erlinda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,24,16.0000,384.00,"Resident Care - Level 1 for Jul: Gonzales, Erlinda",,,,,,,,,,,,,,,
+INVOICE,CM,,06910183,,07/13/2013,2077,"Invoice-Private",,07/13/2013,07/13/2013,,06914253MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,1581,1581,"CR:Basic Service F... E.Gonzales 201307: Gonzales, Erlinda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,496,496,"CR:Resident Care -... E.Gonzales 201307: Gonzales, Erlinda",,,,,,,,,,,,,,,

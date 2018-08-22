@@ -1,0 +1,7 @@
+BATCH,,201305,B,6954.0000,
+INVOICE,IN,,00810252,,05/30/2013,3420.0000,"Invoice-Private",,05/30/2013,05/30/2013,,00815136MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,30,83.0000,2490.00,"Basic Service Fee - Studio for May: Obryan, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,30,31.0000,930.00,"Resident Care - Level 2 for May: Obryan, Lewis",,,,,,,,,,,,,,,
+INVOICE,CM,,00810252,,05/30/2013,3534,"Invoice-Private",,05/30/2013,05/30/2013,,00815136MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2573,2573,"CR:Basic Service F... L.Obryan 201305: Obryan, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,961,961,"CR:Resident Care -... L.Obryan 201305: Obryan, Lewis",,,,,,,,,,,,,,,

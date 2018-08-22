@@ -1,0 +1,7 @@
+BATCH,,201106,B,5763.8000,
+INVOICE,IN,,01510187,,06/01/2011,2004.8000,"Invoice-Private",,06/01/2011,06/10/2011,,01514020MO,-1754.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,16,93.0000,1488.00,"Basic Service Fee - One Bedroom for Jun: Miller, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,16,32.3000,516.80,"Resident Care - Level 19 for Jun: Miller, William",,,,,,,,,,,,,,,
+INVOICE,CM,,01510187,,06/01/2011,3759,"Invoice-Private",,06/01/2011,06/10/2011,,01514020MO,-1754.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2790,2790,"CR:Basic Service F... W.Miller 201106: Miller, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,969,969,"CR:Resident Care -... W.Miller 201106: Miller, William",,,,,,,,,,,,,,,

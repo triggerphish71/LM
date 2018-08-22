@@ -1,0 +1,6 @@
+BATCH,,201301,B,5084.0000,
+INVOICE,IN,,02910341,,01/01/2013,620.0000,"Invoice-Private",,01/01/2013,01/10/2013,,02915940MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,620.0000,620.00,"CR:Limited Term Di... R.Hardin 201301: Hardin, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,02910341,,01/01/2013,4464,"Invoice-Private",,01/01/2013,01/10/2013,,02915940MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Basic Service F... R.Hardin 201301: Hardin, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1364,1364,"CR:Resident Care -... R.Hardin 201301: Hardin, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,126.0000,
+INVOICE,IN,,14410189,,03/01/2012,63.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14415026MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Almstead, Lastenia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Almstead, Lastenia",,,,,,,,,,,,,,,
+INVOICE,CM,,14410189,,03/01/2012,63,"Invoice-Private",,03/01/2012,03/10/2012,,14415026MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Almstead, Lastenia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Almstead, Lastenia",,,,,,,,,,,,,,,

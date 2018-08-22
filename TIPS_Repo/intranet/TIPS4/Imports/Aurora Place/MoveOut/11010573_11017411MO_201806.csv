@@ -1,0 +1,7 @@
+BATCH,,201806,B,3080.0000,
+INVOICE,IN,,11010573,,06/05/2018,440.0000,"Invoice-Private",,06/05/2018,06/05/2018,,11017411MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,5,70.0000,350.00,"Basic Service Fee - Studio for Jun: Luby, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,5,18.0000,90.00,"Resident Care - Level 1 for Jun: Luby, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,11010573,,06/05/2018,2640,"Invoice-Private",,06/05/2018,06/05/2018,,11017411MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2100,2100,"CR:Basic Service F... L.Luby 201806: Luby, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,540,540,"CR:Resident Care -... L.Luby 201806: Luby, Larry",,,,,,,,,,,,,,,

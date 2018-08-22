@@ -1,0 +1,5 @@
+BATCH,,201203,B,1922.0000,
+INVOICE,IN,,06610160,,03/01/2012,961.0000,"Invoice-Private",,03/01/2012,03/10/2012,,06614382MO,-5380.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,31,31.0000,961.00,"Credit for Limited Term Discount: Nickum, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06610160,,03/01/2012,961,"Invoice-Private",,03/01/2012,03/10/2012,,06614382MO,-5380.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,31,31,961,"Limited Term Discount: Nickum, Betty",,,,,,,,,,,,,,,

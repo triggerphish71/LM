@@ -1,0 +1,5 @@
+BATCH,,201106,B,4321.0000,
+INVOICE,IN,,16410280,,06/03/2011,4321.0000,"MoveIn-White. Tom",,06/03/2011,06/03/2011,,16415885,4321.0000,,,,,,,,,,
+TRANSACTION,3010,010202164,28,82.0000,2296,"T.White: Basic Service Fee - Studio: White. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25.0000,25,"Monthly Cable: White. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202164,1,2000.0000,2000,"New Resident Fee: White. Tom",,,,,,,,,,,,,,,

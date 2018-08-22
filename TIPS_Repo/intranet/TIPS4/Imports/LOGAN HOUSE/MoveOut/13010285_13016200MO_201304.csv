@@ -1,0 +1,5 @@
+BATCH,,201304,B,54.0000,
+INVOICE,IN,,13010285,,04/01/2013,27.0000,"Invoice-Private",,04/01/2013,04/10/2013,,13016200MO,-4441.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Butler, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13010285,,04/01/2013,27,"Invoice-Private",,04/01/2013,04/10/2013,,13016200MO,-4441.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Butler, Richard",,,,,,,,,,,,,,,

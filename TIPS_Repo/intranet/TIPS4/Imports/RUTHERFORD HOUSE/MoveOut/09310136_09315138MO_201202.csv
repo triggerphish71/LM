@@ -1,0 +1,7 @@
+BATCH,,201202,B,5967.0000,
+INVOICE,IN,,09310136,,02/20/2012,2574.0000,"Invoice-Private",,02/20/2012,02/20/2012,,09315138MO,-4446.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,22,99.0000,2178.00,"Basic Service Fee - Studio for Feb: Nehls, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,22,18.0000,396.00,"Resident Care - Level 1 for Feb: Nehls, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,09310136,,02/20/2012,3393,"Invoice-Private",,02/20/2012,02/20/2012,,09315138MO,-4446.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2871,2871,"CR:Basic Service F... L.Nehls 201202: Nehls, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,522,522,"CR:Resident Care -... L.Nehls 201202: Nehls, Lucille",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,2900.0000,
+INVOICE,IN,,10110151,,05/01/2013,1300.0000,"Invoice-Private",,05/01/2013,05/10/2013,,10112550MO,-300.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,25,50.0000,1250.00,"Basic Service Fee - Studio for May: Sandy, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3150,010305101,1,50.0000,50.00,"Late Fee Adjustment: Sandy, Nelson",,,,,,,,,,,,,,,
+INVOICE,CM,,10110151,,05/01/2013,1600,"Invoice-Private",,05/01/2013,05/10/2013,,10112550MO,-300.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,1550,1550,"CR:Basic Service F... N.Sandy 201305: Sandy, Nelson",,,,,,,,,,,,,,,
+TRANSACTION,3150,010305101,1,50,50,"Late Fee Adjustment: Sandy, Nelson",,,,,,,,,,,,,,,

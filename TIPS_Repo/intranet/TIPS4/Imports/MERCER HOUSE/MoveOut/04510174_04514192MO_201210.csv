@@ -1,0 +1,5 @@
+BATCH,,201210,B,558.0000,
+INVOICE,IN,,04510174,,10/01/2012,279.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04514192MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,31,9.0000,279.00,"Credit for Limited Term Discount: Smith, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,04510174,,10/01/2012,279,"Invoice-Private",,10/01/2012,10/10/2012,,04514192MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,31,9,279,"Limited Term Discount: Smith, Nellie",,,,,,,,,,,,,,,

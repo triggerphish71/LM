@@ -1,0 +1,8 @@
+BATCH,,201210,B,5674.0000,
+INVOICE,IN,,07110164,,10/09/2012,2357.0000,"Invoice-Private",,10/09/2012,10/09/2012,,07114448MO,-960.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,217.0000,217.00,"CR:Limited Term Di... A.Dripps 201210: Dripps, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,20,90.0000,1800.00,"Basic Service Fee - Studio for Oct: Dripps, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,20,17.0000,340.00,"Resident Care - Level 1 for Oct: Dripps, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,07110164,,10/09/2012,3317,"Invoice-Private",,10/09/2012,10/09/2012,,07114448MO,-960.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2790,2790,"CR:Basic Service F... A.Dripps 201210: Dripps, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,527,527,"CR:Resident Care -... A.Dripps 201210: Dripps, Audrey",,,,,,,,,,,,,,,

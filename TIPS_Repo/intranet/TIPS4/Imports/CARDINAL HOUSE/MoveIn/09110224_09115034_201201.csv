@@ -1,0 +1,5 @@
+BATCH,,201201,B,4176.0000,
+INVOICE,IN,,09110224,,01/16/2012,4176.0000,"MoveIn-Merva. Mary",,01/16/2012,01/16/2012,,09115034,4176.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,16,85.0000,1360,"M.Merva: Basic Service Fee - Studio: Merva. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,16,51.0000,816,"M.Merva: Resident Care - Level 3: Merva. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Merva. Mary",,,,,,,,,,,,,,,

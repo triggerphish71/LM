@@ -1,0 +1,6 @@
+BATCH,,201303,B,2535.0000,
+INVOICE,IN,,04410284,,03/22/2013,2535.0000,"MoveIn-Ray. Nora",,03/22/2013,03/22/2013,,04415009,5590.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,10,85.0000,850,"Basic Service Fee - Studio: Ray. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,10,16.0000,160,"Resident Care - Level 1: Ray. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Ray. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Ray. Nora",,,,,,,,,,,,,,,

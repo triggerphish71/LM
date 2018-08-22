@@ -1,0 +1,8 @@
+BATCH,,201112,B,8450.0000,
+INVOICE,IN,,53410289,,12/30/2011,4203.0000,"Invoice-Private",,12/30/2011,12/30/2011,,53420260MO,-4415.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,93.0000,93.00,"CR:Limited Term Di... C.Huibregtse 201112: Huibregtse, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,30,67.0000,2010.00,"Resident Care - Level 3 for Dec: Huibregtse, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,30,70.0000,2100.00,"Room and Board - Studio Deluxe for Dec: Huibregtse, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,53410289,,12/30/2011,4247,"Invoice-Private",,12/30/2011,12/30/2011,,53420260MO,-4415.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2077,2077,"CR:Resident Care -... C.Huibregtse 201112: Huibregtse, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2170,2170,"CR:Room and Board ... C.Huibregtse 201112: Huibregtse, Clarence",,,,,,,,,,,,,,,

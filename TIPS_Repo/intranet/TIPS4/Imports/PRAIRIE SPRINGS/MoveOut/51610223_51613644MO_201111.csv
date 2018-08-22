@@ -1,0 +1,5 @@
+BATCH,,201111,B,4684.0000,
+INVOICE,CM,,51610223,,11/01/2011,4684,"Invoice-Private",,11/01/2011,11/10/2011,,51613644MO,-6563.6000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3450,3450,"CR:Basic Service F... D.Campbell 201111: Campbell, Dorris",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103516,1,10,10,"CR:Pendant Fee... D.Campbell 201111: Campbell, Dorris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,1224,1224,"CR:Resident Care -... D.Campbell 201111: Campbell, Dorris",,,,,,,,,,,,,,,

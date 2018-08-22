@@ -1,0 +1,6 @@
+BATCH,,201107,B,3859.0000,
+INVOICE,IN,,02810187,,07/18/2011,3859.0000,"MoveIn-Thompson. Wilma",,07/18/2011,07/18/2011,,02814780,7945.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,14,117.0000,1638,"Basic Service Fee - One Bedroom    : Thompson. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,14,14.0000,196,"Resident Care - Level 1: Thompson. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Thompson. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Thompson. Wilma",,,,,,,,,,,,,,,

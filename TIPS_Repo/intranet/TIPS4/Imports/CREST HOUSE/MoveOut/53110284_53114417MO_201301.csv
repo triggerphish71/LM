@@ -1,0 +1,7 @@
+BATCH,,201301,B,8599.6800,
+INVOICE,IN,,53110284,,01/17/2013,3045.7200,"Invoice-Private",,01/17/2013,01/17/2013,,53114417MO,-7524.7200,,,,,,,,,,
+TRANSACTION,3020,010319531,17,98.0000,1666.00,"Basic Service Fee - Studio for Jan: Baer, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,17,81.1600,1379.72,"Resident Care - Level 6+4 pts for Jan: Baer, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,53110284,,01/17/2013,5553.96,"Invoice-Private",,01/17/2013,01/17/2013,,53114417MO,-7524.7200,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3038,3038,"CR:Basic Service F... G.Baer 201301: Baer, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,2515.96,2515.96,"CR:Resident Care -... G.Baer 201301: Baer, Geraldine",,,,,,,,,,,,,,,

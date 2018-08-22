@@ -1,0 +1,8 @@
+BATCH,,201208,B,5993.0000,
+INVOICE,IN,,03310347,,08/08/2012,1870.0000,"Invoice-Private",,08/08/2012,08/08/2012,,03316647MO,-2253.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,806.0000,806.00,"CR:Limited Term Di... H.Byrne 201208: Byrne, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,8,116.0000,928.00,"Basic Service Fee - One Bedroom for Aug: Byrne, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,8,17.0000,136.00,"Resident Care - Level 1 for Aug: Byrne, Horace",,,,,,,,,,,,,,,
+INVOICE,CM,,03310347,,08/08/2012,4123,"Invoice-Private",,08/08/2012,08/08/2012,,03316647MO,-2253.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3596,3596,"CR:Basic Service F... H.Byrne 201208: Byrne, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... H.Byrne 201208: Byrne, Horace",,,,,,,,,,,,,,,

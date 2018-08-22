@@ -1,0 +1,5 @@
+BATCH,,201302,B,5025.0000,
+INVOICE,IN,,12510221,,02/04/2013,5025.0000,"MoveIn-Hurt. Donna Jean",,02/04/2013,02/04/2013,,12514422,5025.0000,,,,,,,,,,
+TRANSACTION,3010,010211125,25,70.0000,1750,"Basic Service Fee - Studio: Hurt. Donna Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211125,25,71.0000,1775,"Resident Care - Level 5: Hurt. Donna Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211125,1,1500.0000,1500,"New Resident Fee: Hurt. Donna Jean",,,,,,,,,,,,,,,

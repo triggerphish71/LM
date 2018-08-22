@@ -1,0 +1,5 @@
+BATCH,,201303,B,3042.0000,
+INVOICE,IN,,15110195,,03/01/2013,3042.0000,"March_Rent-Teig. Forrest",,03/01/2013,03/10/2013,,15114193,3465.0000,,,,,,,,,,
+TRANSACTION,3010,010212151,31,70.0000,2170,"Basic Service Fee - Studio: Teig. Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212151,31,27.0000,837,"Swan Personal Care - L2: Teig. Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35,"Monthly Cable: Teig. Forrest",,,,,,,,,,,,,,,

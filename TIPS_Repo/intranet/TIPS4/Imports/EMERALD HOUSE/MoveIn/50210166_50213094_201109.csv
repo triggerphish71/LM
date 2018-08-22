@@ -1,0 +1,6 @@
+BATCH,,201109,B,5455.0000,
+INVOICE,IN,,50210166,,09/01/2011,5455.0000,"MoveIn-Ledgerwood. Carroll",,09/01/2011,09/01/2011,,50213094,5455.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,30,117.0000,3510,"Basic Service Fee - One Bedroom Del: Ledgerwood. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,30,14.0000,420,"Resident Care - Level 1: Ledgerwood. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Ledgerwood. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Ledgerwood. Carroll",,,,,,,,,,,,,,,

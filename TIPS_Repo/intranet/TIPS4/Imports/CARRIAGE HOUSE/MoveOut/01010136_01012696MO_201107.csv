@@ -1,0 +1,5 @@
+BATCH,,201107,B,744.0000,
+INVOICE,IN,,01010136,,07/01/2011,372.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01012696MO,-219.0000,,,,,,,,,,
+TRANSACTION,3320,010101010,31,12.0000,372.00,"Credit for Limited Term Discount: Kropf, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,01010136,,07/01/2011,372,"Invoice-Private",,07/01/2011,07/10/2011,,01012696MO,-219.0000,,,,,,,,,,
+TRANSACTION,3320,010101010,31,12,372,"Limited Term Discount: Kropf, Walter",,,,,,,,,,,,,,,

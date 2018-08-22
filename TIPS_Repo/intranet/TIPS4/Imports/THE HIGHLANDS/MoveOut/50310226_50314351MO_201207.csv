@@ -1,0 +1,8 @@
+BATCH,,201207,B,4396.0000,
+INVOICE,IN,,50310226,,07/07/2012,1602.0000,"Invoice-Private",,07/07/2012,07/07/2012,,50314351MO,-3986.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,18,75.0000,1350.00,"Basic Service Fee - Studio for Jul: Tarter, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,18,14.0000,252.00,"Resident Care - Level 1 for Jul: Tarter, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,50310226,,07/07/2012,2794,"Invoice-Private",,07/07/2012,07/07/2012,,50314351MO,-3986.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... H.Tarter 201207: Tarter, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... H.Tarter 201207: Tarter, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... H.Tarter 201207: Tarter, Harold",,,,,,,,,,,,,,,

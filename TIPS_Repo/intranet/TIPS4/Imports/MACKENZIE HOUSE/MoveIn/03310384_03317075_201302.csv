@@ -1,0 +1,5 @@
+BATCH,,201302,B,1620.0000,
+INVOICE,IN,,03310384,,02/28/2013,1620.0000,"MoveIn-Clark. Elwyn",,02/28/2013,02/28/2013,,03317075,4590.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,1,95.0000,95,"Basic Service Fee - Studio: Clark. Elwyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Clark. Elwyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202033,1,1500.0000,1500,"New Resident Fee: Clark. Elwyn",,,,,,,,,,,,,,,

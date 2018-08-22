@@ -1,0 +1,5 @@
+BATCH,,201808,B,60.0000,
+INVOICE,IN,,05710496,,08/01/2018,30.0000,"Invoice-Private",,08/01/2018,08/10/2018,,05718319MO,-8770.0000,,,,,,,,,,
+TRANSACTION,3210,010002057,1,30.0000,30.00,"Personal Services: Watson, Racine",,,,,,,,,,,,,,,
+INVOICE,CM,,05710496,,08/01/2018,30,"Invoice-Private",,08/01/2018,08/10/2018,,05718319MO,-8770.0000,,,,,,,,,,
+TRANSACTION,3210,010002057,1,30,30,"Credit for Personal Services: Watson, Racine",,,,,,,,,,,,,,,

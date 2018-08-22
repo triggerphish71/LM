@@ -1,0 +1,5 @@
+BATCH,,201201,B,4925.0000,
+INVOICE,IN,,05210258,,01/01/2012,4925.0000,"January_Rent-Evans. Max",,01/01/2012,01/10/2012,,05214700,7268.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,31,82.0000,2542,"Basic Service Fee - Studio: Evans. Max",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202052,31,76.0000,2356,"Resident Care - Level 6: Evans. Max",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Evans. Max",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,4160.0000,
+INVOICE,CM,,06010134,,04/01/2012,4160,"Invoice-Private",,04/01/2012,04/10/2012,,06014336MO,-4160.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3300,3300,"CR:Basic Service F... H.Kawka 201204: Kawka, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... H.Kawka 201204: Kawka, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... H.Kawka 201204: Kawka, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,780,780,"CR:Resident Care -... H.Kawka 201204: Kawka, Helen",,,,,,,,,,,,,,,

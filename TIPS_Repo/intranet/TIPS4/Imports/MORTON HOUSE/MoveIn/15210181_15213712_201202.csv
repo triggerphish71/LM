@@ -1,0 +1,6 @@
+BATCH,,201202,B,4616.0000,
+INVOICE,IN,,15210181,,02/01/2012,4616.0000,"MoveIn-Muschamp. June",,02/01/2012,02/01/2012,,15213712,4616.0000,,,,,,,,,,
+TRANSACTION,3010,010211152,29,71.0000,2059,"Basic Service Fee - Studio: Muschamp. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211152,29,18.0000,522,"Resident Care - Level 1: Muschamp. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35,"Monthly Cable: Muschamp. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211152,1,2000.0000,2000,"New Resident Fee: Muschamp. June",,,,,,,,,,,,,,,

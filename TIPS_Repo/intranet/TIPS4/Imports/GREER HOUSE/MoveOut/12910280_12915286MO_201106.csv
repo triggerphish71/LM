@@ -1,0 +1,5 @@
+BATCH,,201106,B,60.0000,
+INVOICE,IN,,12910280,,06/01/2011,30.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12915286MO,-4260.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Maciarella, James",,,,,,,,,,,,,,,
+INVOICE,CM,,12910280,,06/01/2011,30,"Invoice-Private",,06/01/2011,06/10/2011,,12915286MO,-4260.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Maciarella, James",,,,,,,,,,,,,,,

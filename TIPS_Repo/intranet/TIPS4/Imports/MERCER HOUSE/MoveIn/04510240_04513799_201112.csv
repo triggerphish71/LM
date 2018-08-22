@@ -1,0 +1,6 @@
+BATCH,,201112,B,5127.0000,
+INVOICE,IN,,04510240,,12/02/2011,5127.0000,"MoveIn-Hudson. Charles",,12/02/2011,12/02/2011,,04513799,5127.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,30,76.0000,2280,"Basic Service Fee - Studio: Hudson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,30,44.0000,1320,"Resident Care - Level 3: Hudson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Hudson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Hudson. Charles",,,,,,,,,,,,,,,

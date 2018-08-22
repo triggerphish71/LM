@@ -1,0 +1,5 @@
+BATCH,,201204,B,300.0000,
+INVOICE,IN,,00910081,,04/01/2012,150.0000,"Invoice-Private",,04/01/2012,04/10/2012,,00913548MO,-5934.4800,,,,,,,,,,
+TRANSACTION,3320,010101009,30,5.0000,150.00,"Credit for Limited Term Discount: Frigaard, Bernette",,,,,,,,,,,,,,,
+INVOICE,CM,,00910081,,04/01/2012,150,"Invoice-Private",,04/01/2012,04/10/2012,,00913548MO,-5934.4800,,,,,,,,,,
+TRANSACTION,3320,010101009,30,5,150,"Limited Term Discount: Frigaard, Bernette",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,360.0000,
+INVOICE,IN,,16210133,,11/01/2012,180.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16213051MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,30,6.0000,180.00,"Credit for Limited Term Discount: Camden, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,16210133,,11/01/2012,180,"Invoice-Private",,11/01/2012,11/10/2012,,16213051MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,30,6,180,"Limited Term Discount: Camden, Mary",,,,,,,,,,,,,,,

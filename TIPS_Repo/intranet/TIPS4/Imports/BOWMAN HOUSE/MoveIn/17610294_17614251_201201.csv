@@ -1,0 +1,5 @@
+BATCH,,201201,B,3658.0000,
+INVOICE,IN,,17610294,,01/06/2012,3658.0000,"MoveIn-Lash. Virginia",,01/06/2012,01/06/2012,,17614251,3658.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,26,73.0000,1898,"Basic Service Fee - Studio: Lash. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Lash. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,26,10.0000,260,"CC Meals: Lash. Virginia",,,,,,,,,,,,,,,

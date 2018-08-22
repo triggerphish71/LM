@@ -1,0 +1,7 @@
+BATCH,,201109,B,7074.0000,
+INVOICE,IN,,21610135,,09/17/2011,3144.0000,"Invoice-Private",,09/17/2011,09/17/2011,,21613123MO,-4847.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,24,120.0000,2880.00,"One Bedroom Deluxe for Sep: Goddette, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,24,11.0000,264.00,"Resident Care - Level 1 for Sep: Goddette, Leon",,,,,,,,,,,,,,,
+INVOICE,CM,,21610135,,09/17/2011,3930,"Invoice-Private",,09/17/2011,09/17/2011,,21613123MO,-4847.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3600,3600,"CR:One Bedroom Del... L.Goddette 201109: Goddette, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,330,330,"CR:Resident Care -... L.Goddette 201109: Goddette, Leon",,,,,,,,,,,,,,,

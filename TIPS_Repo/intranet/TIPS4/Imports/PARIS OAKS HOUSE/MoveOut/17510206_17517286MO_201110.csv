@@ -1,0 +1,5 @@
+BATCH,,201110,B,1403.0000,
+INVOICE,IN,,17510206,,10/30/2011,690.0000,"Invoice-Private",,10/30/2011,10/30/2011,,17517286MO,-713.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,30,23.0000,690.00,"Basic Service Fee - Second Resident for Oct: Ussery, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,17510206,,10/30/2011,713,"Invoice-Private",,10/30/2011,10/30/2011,,17517286MO,-713.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,713,713,"CR:Basic Service F... P.Ussery 201110: Ussery, Paul",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,1790.0000,
+INVOICE,IN,,02411265,,07/01/2011,895.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02415307MO,-2517.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Dunkerson, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,28.0000,868.00,"Credit for Limited Term Discount: Dunkerson, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411265,,07/01/2011,895,"Invoice-Private",,07/01/2011,07/10/2011,,02415307MO,-2517.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Dunkerson, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,28,868,"Limited Term Discount: Dunkerson, Jackie",,,,,,,,,,,,,,,

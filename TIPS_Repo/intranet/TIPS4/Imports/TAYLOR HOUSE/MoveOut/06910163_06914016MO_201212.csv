@@ -1,0 +1,6 @@
+BATCH,,201212,B,5711.0000,
+INVOICE,IN,,06910163,,12/01/2012,2673.0000,"Invoice-Private",,12/01/2012,12/10/2012,,06914016MO,-365.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,1,713.0000,713.00,"CR:Limited Term Di... B.Stahl 201212: Stahl, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,20,98.0000,1960.00,"Basic Service Fee - One Bedroom for Dec: Stahl, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06910163,,12/01/2012,3038,"Invoice-Private",,12/01/2012,12/10/2012,,06914016MO,-365.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,3038,3038,"CR:Basic Service F... B.Stahl 201212: Stahl, Betty",,,,,,,,,,,,,,,

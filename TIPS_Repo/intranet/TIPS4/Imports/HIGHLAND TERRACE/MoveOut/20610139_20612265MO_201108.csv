@@ -1,0 +1,8 @@
+BATCH,,201108,B,4467.0000,
+INVOICE,IN,,20610139,,08/13/2011,1429.0000,"Invoice-Private",,08/13/2011,08/13/2011,,20612265MO,-1609.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,155.0000,155.00,"CR:Limited Term Di... J.Bland 201108: Bland, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,13,11.0000,143.00,"Resident Care - Level 1 for Aug: Bland, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,13,87.0000,1131.00,"Room and Board - Studio for Aug: Bland, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20610139,,08/13/2011,3038,"Invoice-Private",,08/13/2011,08/13/2011,,20612265MO,-1609.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... J.Bland 201108: Bland, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... J.Bland 201108: Bland, James",,,,,,,,,,,,,,,

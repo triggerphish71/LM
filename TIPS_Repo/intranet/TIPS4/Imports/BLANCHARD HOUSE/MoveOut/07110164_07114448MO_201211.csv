@@ -1,0 +1,5 @@
+BATCH,,201211,B,420.0000,
+INVOICE,IN,,07110164,,11/01/2012,210.0000,"Invoice-Private",,11/01/2012,11/10/2012,,07114448MO,-960.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,30,7.0000,210.00,"Credit for Limited Term Discount: Dripps, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,07110164,,11/01/2012,210,"Invoice-Private",,11/01/2012,11/10/2012,,07114448MO,-960.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,30,7,210,"Limited Term Discount: Dripps, Audrey",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,4218.0000,
+INVOICE,IN,,16410248,,05/19/2011,1651.0000,"Invoice-Private",,05/19/2011,05/19/2011,,16415847MO,-3311.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,1,93.0000,93.00,"CR:Limited Term Di... L.Finton 201105: Finton, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202164,19,82.0000,1558.00,"Basic Service Fee - Studio for May: Finton, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,16410248,,05/19/2011,2567,"Invoice-Private",,05/19/2011,05/19/2011,,16415847MO,-3311.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2542,2542,"CR:Basic Service F... L.Finton 201105: Finton, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25,25,"CR:Monthly Cable... L.Finton 201105: Finton, Louise",,,,,,,,,,,,,,,

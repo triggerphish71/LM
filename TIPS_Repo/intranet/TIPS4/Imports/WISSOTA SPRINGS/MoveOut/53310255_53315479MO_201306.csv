@@ -1,0 +1,6 @@
+BATCH,,201306,B,2869.0000,
+INVOICE,IN,,53310255,,06/01/2013,474.0000,"Invoice-Private",,06/01/2013,06/10/2013,,53315479MO,-1921.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,6,79.0000,474.00,"Basic Service Fee - Studio for Jun: Lundmark, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,53310255,,06/01/2013,2395,"Invoice-Private",,06/01/2013,06/10/2013,,53315479MO,-1921.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2370,2370,"CR:Basic Service F... H.Lundmark 201306: Lundmark, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... H.Lundmark 201306: Lundmark, Harry",,,,,,,,,,,,,,,

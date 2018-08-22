@@ -1,0 +1,8 @@
+BATCH,,201211,B,4276.0000,
+INVOICE,IN,,03410304,,10/31/2012,889.0000,"MoveIn-Woods. Virgina",,10/31/2012,10/31/2012,,03415778,4276.0000,,,,,,,,,,
+TRANSACTION,3014,010202034,1,112.0000,112,"V.Woods: Basic Service Fee - One Bedroom: Woods. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Woods. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,750.0000,750,"New Resident Fee: Woods. Virgina",,,,,,,,,,,,,,,
+INVOICE,IN,,03410304,,11/01/2012,3387.0000,"November_Rent-Woods. Virgina",,11/01/2012,11/10/2012,,03415778,4276.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,30,112.0000,3360,"V.Woods: Basic Service Fee - One Bedroom: Woods. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Woods. Virgina",,,,,,,,,,,,,,,

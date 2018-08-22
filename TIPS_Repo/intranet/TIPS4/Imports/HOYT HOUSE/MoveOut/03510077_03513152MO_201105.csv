@@ -1,0 +1,7 @@
+BATCH,,201105,B,3202.0000,
+INVOICE,IN,,03510077,,05/04/2011,418.0000,"Invoice-Private",,05/04/2011,05/04/2011,,03513152MO,-2366.0000,,,,,,,,,,
+TRANSACTION,3320,010202035,1,62.0000,62.00,"CR:Limited Term Di... M.Whitteker 201105: Whitteker, Mavis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202035,4,89.0000,356.00,"Basic Service Fee - Studio for May: Whitteker, Mavis",,,,,,,,,,,,,,,
+INVOICE,CM,,03510077,,05/04/2011,2784,"Invoice-Private",,05/04/2011,05/04/2011,,03513152MO,-2366.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2759,2759,"CR:Basic Service F... M.Whitteker 201105: Whitteker, Mavis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... M.Whitteker 201105: Whitteker, Mavis",,,,,,,,,,,,,,,

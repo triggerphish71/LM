@@ -1,0 +1,7 @@
+BATCH,,201108,B,1990.0000,
+INVOICE,IN,,14410231,,08/30/2011,1990.0000,"MoveIn-Coumo. Nick",,08/30/2011,08/30/2011,,14414803,5528.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,2,101.0000,202,"Basic Service Fee - Studio         : Coumo. Nick",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,2,16.0000,32,"Resident Care - Level 1: Coumo. Nick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Coumo. Nick",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,1700.0000,1700,"New Resident Fee: Coumo. Nick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Coumo. Nick",,,,,,,,,,,,,,,

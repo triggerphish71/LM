@@ -1,0 +1,5 @@
+BATCH,,201111,B,4218.0000,
+INVOICE,IN,,15710245,,11/01/2011,888.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15714255MO,-2442.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,8,111.0000,888.00,"Basic Service Fee - One Bedroom for Nov: Greulach, Ned",,,,,,,,,,,,,,,
+INVOICE,CM,,15710245,,11/01/2011,3330,"Invoice-Private",,11/01/2011,11/10/2011,,15714255MO,-2442.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3330,3330,"CR:Basic Service F... N.Greulach 201111: Greulach, Ned",,,,,,,,,,,,,,,

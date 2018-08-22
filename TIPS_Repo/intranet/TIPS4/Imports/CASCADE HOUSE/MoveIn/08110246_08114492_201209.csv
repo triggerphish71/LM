@@ -1,0 +1,5 @@
+BATCH,,201209,B,4473.0000,
+INVOICE,IN,,08110246,,09/07/2012,4473.0000,"MoveIn-Austin. George",,09/07/2012,09/07/2012,,08114492,4473.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,24,102.0000,2448,"Basic Service Fee - One Bedroom: Austin. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Austin. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Austin. George",,,,,,,,,,,,,,,

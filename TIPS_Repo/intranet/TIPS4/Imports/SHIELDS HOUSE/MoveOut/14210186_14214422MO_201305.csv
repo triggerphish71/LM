@@ -1,0 +1,7 @@
+BATCH,,201305,B,2088.0000,
+INVOICE,IN,,14210186,,05/01/2013,290.0000,"Invoice-Private",,05/01/2013,05/10/2013,,14214422MO,-1508.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,5,10.0000,50.00,"Basic Service Fee - Second Resident for May: Webb, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,5,48.0000,240.00,"Resident Care - Level 3 for May: Webb, David",,,,,,,,,,,,,,,
+INVOICE,CM,,14210186,,05/01/2013,1798,"Invoice-Private",,05/01/2013,05/10/2013,,14214422MO,-1508.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,310,310,"CR:Basic Service F... D.Webb 201305: Webb, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1488,1488,"CR:Resident Care -... D.Webb 201305: Webb, David",,,,,,,,,,,,,,,

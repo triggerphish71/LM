@@ -1,0 +1,7 @@
+BATCH,,201109,B,5455.0000,
+INVOICE,IN,,16010333,,09/01/2011,480.0000,"Invoice-Private",,09/01/2011,09/10/2011,,16015038MO,-5014.0000,,,,,,,,,,
+TRANSACTION,3320,010107160,1,480.0000,480.00,"CR:Limited Term Di... M.Abbott 201109: Abbott, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,16010333,,09/01/2011,4975,"Invoice-Private",,09/01/2011,09/10/2011,,16015038MO,-5014.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,2880,2880,"CR:Basic Service F... M.Abbott 201109: Abbott, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... M.Abbott 201109: Abbott, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,2070,2070,"CR:Resident Care -... M.Abbott 201109: Abbott, Maxine",,,,,,,,,,,,,,,

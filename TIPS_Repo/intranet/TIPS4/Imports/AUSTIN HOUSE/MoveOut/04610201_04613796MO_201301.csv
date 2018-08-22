@@ -1,0 +1,7 @@
+BATCH,,201301,B,6118.0000,
+INVOICE,IN,,04610201,,01/15/2013,1995.0000,"Invoice-Private",,01/15/2013,01/15/2013,,04613796MO,-2128.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,15,116.0000,1740.00,"Basic Service Fee - One Bedroom for Jan: Wiggins, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,15,17.0000,255.00,"Resident Care - Level 1 for Jan: Wiggins, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,04610201,,01/15/2013,4123,"Invoice-Private",,01/15/2013,01/15/2013,,04613796MO,-2128.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,3596,3596,"CR:Basic Service F... T.Wiggins 201301: Wiggins, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,527,527,"CR:Resident Care -... T.Wiggins 201301: Wiggins, Thomas",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,4780.0000,
+INVOICE,IN,,02310237,,01/03/2013,4780.0000,"MoveIn-McMillin. Roland",,01/03/2013,01/03/2013,,02315148,4780.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,29,95.0000,2755,"Basic Service Fee - Studio: McMillin. Roland",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: McMillin. Roland",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: McMillin. Roland",,,,,,,,,,,,,,,

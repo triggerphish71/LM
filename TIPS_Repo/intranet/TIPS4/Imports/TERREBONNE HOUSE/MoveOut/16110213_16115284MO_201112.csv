@@ -1,0 +1,4 @@
+BATCH,,201112,B,3720.0000,
+INVOICE,CM,,16110213,,12/01/2011,3720,"Invoice-Private",,12/01/2011,12/10/2011,,16115284MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2635,2635,"CR:Basic Service F... A.Sandlin 201112: Sandlin, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,1085,1085,"CR:Resident Care -... A.Sandlin 201112: Sandlin, Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201302,B,1101.0000,
+INVOICE,IN,,13510314,,02/21/2013,119.0000,"Invoice-Private",,02/21/2013,02/21/2013,,13515666MO,-4582.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,119.0000,119.00,"H.Metcalfe: Basic Service Fee- One Bedroom Premium: Metcalfe, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510314,,02/21/2013,982,"Invoice-Private",,02/21/2013,02/21/2013,,13515666MO,-4582.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,952,952,"CR:H.Metcalfe: Bas... H.Metcalfe 201302: Metcalfe, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Metcalfe 201302: Metcalfe, Helen",,,,,,,,,,,,,,,

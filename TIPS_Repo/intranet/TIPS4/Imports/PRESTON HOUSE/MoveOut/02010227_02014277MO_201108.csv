@@ -1,0 +1,7 @@
+BATCH,,201108,B,6099.0000,
+INVOICE,IN,,02010227,,08/17/2011,2782.0000,"Invoice-Private",,08/17/2011,08/17/2011,,02014277MO,-3745.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,26,35.0000,910.00,"Basic Service Fee - Second Resident for Aug: Gatewood, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,26,72.0000,1872.00,"Resident Care - Level 6 for Aug: Gatewood, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,02010227,,08/17/2011,3317,"Invoice-Private",,08/17/2011,08/17/2011,,02014277MO,-3745.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,1085,1085,"CR:Basic Service F... V.Gatewood 201108: Gatewood, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,2232,2232,"CR:Resident Care -... V.Gatewood 201108: Gatewood, Virginia",,,,,,,,,,,,,,,

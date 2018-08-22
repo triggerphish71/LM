@@ -1,0 +1,7 @@
+BATCH,,201107,B,5729.0000,
+INVOICE,IN,,04310162,,07/01/2011,1085.0000,"Invoice-Private",,07/01/2011,07/10/2011,,04313644MO,-4984.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,1,1085.0000,1085.00,"CR:Limited Term Di... J.Chenault 201107: Chenault, John",,,,,,,,,,,,,,,
+INVOICE,CM,,04310162,,07/01/2011,4644,"Invoice-Private",,07/01/2011,07/10/2011,,04313644MO,-4984.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2945,2945,"CR:Basic Service F... J.Chenault 201107: Chenault, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25,25,"CR:Monthly Cable... J.Chenault 201107: Chenault, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,1674,1674,"CR:Resident Care -... J.Chenault 201107: Chenault, John",,,,,,,,,,,,,,,

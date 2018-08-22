@@ -1,0 +1,6 @@
+BATCH,,201110,B,4853.0000,
+INVOICE,IN,,04910199,,10/04/2011,4853.0000,"MoveIn-Peck. Howard",,10/04/2011,10/04/2011,,04913205,4853.0000,,,,,,,,,,
+TRANSACTION,3010,010101049,28,84.0000,2352,"Basic Service Fee - Studio         : Peck. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,28,17.0000,476,"Resident Care - Level 10: Peck. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Peck. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Peck. Howard",,,,,,,,,,,,,,,

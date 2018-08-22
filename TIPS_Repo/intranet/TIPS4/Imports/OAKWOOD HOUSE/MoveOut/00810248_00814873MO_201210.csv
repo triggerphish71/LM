@@ -1,0 +1,8 @@
+BATCH,,201210,B,6869.0000,
+INVOICE,IN,,00810248,,10/18/2012,3335.0000,"Invoice-Private",,10/18/2012,10/18/2012,,00814873MO,-2929.0000,,,,,,,,,,
+TRANSACTION,3320,010202008,1,713.0000,713.00,"CR:Limited Term Di... A.Walker 201210: Walker, Alena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202008,23,83.0000,1909.00,"Basic Service Fee - Studio for Oct: Walker, Alena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,23,31.0000,713.00,"Resident Care - Level 2 for Oct: Walker, Alena",,,,,,,,,,,,,,,
+INVOICE,CM,,00810248,,10/18/2012,3534,"Invoice-Private",,10/18/2012,10/18/2012,,00814873MO,-2929.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2573,2573,"CR:Basic Service F... A.Walker 201210: Walker, Alena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,961,961,"CR:Resident Care -... A.Walker 201210: Walker, Alena",,,,,,,,,,,,,,,

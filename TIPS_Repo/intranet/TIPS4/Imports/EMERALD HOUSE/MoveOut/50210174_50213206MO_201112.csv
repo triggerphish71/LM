@@ -1,0 +1,5 @@
+BATCH,,201112,B,2880.0000,
+INVOICE,IN,,50210174,,12/01/2011,400.0000,"Invoice-Private",,12/01/2011,12/10/2011,,50213206MO,-2080.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,5,80.0000,400.00,"Room and Board - Studio for Dec: Hawthorne, Anita",,,,,,,,,,,,,,,
+INVOICE,CM,,50210174,,12/01/2011,2480,"Invoice-Private",,12/01/2011,12/10/2011,,50213206MO,-2080.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2480,2480,"CR:Room and Board ... A.Hawthorne 201112: Hawthorne, Anita",,,,,,,,,,,,,,,

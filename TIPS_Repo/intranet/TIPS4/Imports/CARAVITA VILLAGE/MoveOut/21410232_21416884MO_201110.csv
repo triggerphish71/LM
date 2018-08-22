@@ -1,0 +1,7 @@
+BATCH,,201110,B,6039.0000,
+INVOICE,IN,,21410232,,10/30/2011,2970.0000,"Invoice-Private",,10/30/2011,10/30/2011,,21416884MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,30,12.0000,360.00,"Resident Care - Level 1 for Oct: Campbell, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,30,87.0000,2610.00,"Room and Board - Studio AL B for Oct: Campbell, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,21410232,,10/30/2011,3069,"Invoice-Private",,10/30/2011,10/30/2011,,21416884MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,372,372,"CR:Resident Care -... H.Campbell 201110: Campbell, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2697,2697,"CR:Room and Board ... H.Campbell 201110: Campbell, Hazel",,,,,,,,,,,,,,,

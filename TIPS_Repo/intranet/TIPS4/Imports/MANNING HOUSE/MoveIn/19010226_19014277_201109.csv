@@ -1,0 +1,5 @@
+BATCH,,201109,B,1125.0000,
+INVOICE,IN,,19010226,,09/30/2011,1125.0000,"MoveIn-Abercrombie. John",,09/30/2011,09/30/2011,,19014277,4190.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio         : Abercrombie. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Abercrombie. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Abercrombie. John",,,,,,,,,,,,,,,

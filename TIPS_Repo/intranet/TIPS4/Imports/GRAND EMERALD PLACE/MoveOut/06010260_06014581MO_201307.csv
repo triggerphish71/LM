@@ -1,0 +1,6 @@
+BATCH,,201307,B,3640.0000,
+INVOICE,IN,,06010260,,07/29/2013,1740.0000,"Invoice-Private",,07/29/2013,07/29/2013,,06014581MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,29,60.0000,1740.00,"Basic Service Fee - One Bedroom for Jul: Fuze, Dorthy",,,,,,,,,,,,,,,
+INVOICE,CM,,06010260,,07/29/2013,1900,"Invoice-Private",,07/29/2013,07/29/2013,,06014581MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1860,1860,"CR:Basic Service F... D.Fuze 201307: Fuze, Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... D.Fuze 201307: Fuze, Dorthy",,,,,,,,,,,,,,,

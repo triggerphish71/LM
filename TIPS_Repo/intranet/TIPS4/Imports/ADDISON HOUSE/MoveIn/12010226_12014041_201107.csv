@@ -1,0 +1,5 @@
+BATCH,,201107,B,1255.0000,
+INVOICE,IN,,12010226,,07/29/2011,1255.0000,"MoveIn-Figel. Thelma",,07/29/2011,07/29/2011,,12014041,3610.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,3,75.0000,225,"Basic Service Fee - Studio         : Figel. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Figel. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Figel. Thelma",,,,,,,,,,,,,,,

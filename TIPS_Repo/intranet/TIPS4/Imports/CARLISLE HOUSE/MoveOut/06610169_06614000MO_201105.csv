@@ -1,0 +1,7 @@
+BATCH,,201105,B,4400.0000,
+INVOICE,IN,,06610169,,05/08/2011,990.0000,"Invoice-Private",,05/08/2011,05/08/2011,,06614000MO,-2420.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,9,93.0000,837.00,"Basic Service Fee - Studio for May: Karl, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,9,17.0000,153.00,"Resident Care - Level 1 for May: Karl, Viola",,,,,,,,,,,,,,,
+INVOICE,CM,,06610169,,05/08/2011,3410,"Invoice-Private",,05/08/2011,05/08/2011,,06614000MO,-2420.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2883,2883,"CR:Basic Service F... V.Karl 201105: Karl, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,527,527,"CR:Resident Care -... V.Karl 201105: Karl, Viola",,,,,,,,,,,,,,,

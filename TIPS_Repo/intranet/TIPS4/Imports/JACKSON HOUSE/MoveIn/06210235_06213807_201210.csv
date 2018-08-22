@@ -1,0 +1,5 @@
+BATCH,,201210,B,3523.3500,
+INVOICE,IN,,06210235,,10/01/2012,3523.3500,"October_Rent-Frutchey. Edgar",,10/01/2012,10/10/2012,,06213807,6225.4500,,,,,,,,,,
+TRANSACTION,3010,010101062,31,86.0000,2666,"E.Frutchey: Basic Service Fee - Studio: Frutchey. Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,31,26.8500,832.35,"E.Frutchey: Resident Care - Level 15: Frutchey. Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Frutchey. Edgar",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201108,B,6210.0000,
+INVOICE,IN,,19310326,,08/09/2011,1395.0000,"Invoice-Private",,08/09/2011,08/09/2011,,19314810MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3027,010315193,9,46.0000,414.00,"Resident Care - Level 3 for Aug: Corsi, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,9,109.0000,981.00,"Room and Board - One Bedroom for Aug: Corsi, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,19310326,,08/09/2011,4815,"Invoice-Private",,08/09/2011,08/09/2011,,19314810MO,-3420.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,1,10,10,"CR:CC Meals... J.Corsi 201108: Corsi, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1426,1426,"CR:Resident Care -... J.Corsi 201108: Corsi, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,1,3379,3379,"CR:Room and Board ... J.Corsi 201108: Corsi, Joseph",,,,,,,,,,,,,,,

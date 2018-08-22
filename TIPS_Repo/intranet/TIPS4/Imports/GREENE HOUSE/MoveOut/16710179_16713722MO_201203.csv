@@ -1,0 +1,5 @@
+BATCH,,201203,B,60.0000,
+INVOICE,IN,,16710179,,03/01/2012,30.0000,"Invoice-Private",,03/01/2012,03/10/2012,,16713722MO,-3911.9000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Ebers, Merle",,,,,,,,,,,,,,,
+INVOICE,CM,,16710179,,03/01/2012,30,"Invoice-Private",,03/01/2012,03/10/2012,,16713722MO,-3911.9000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Ebers, Merle",,,,,,,,,,,,,,,

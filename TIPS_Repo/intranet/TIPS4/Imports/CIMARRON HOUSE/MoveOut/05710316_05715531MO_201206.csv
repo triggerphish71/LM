@@ -1,0 +1,5 @@
+BATCH,,201206,B,6612.0000,
+INVOICE,IN,,05710316,,06/01/2012,3192.0000,"Invoice-Private",,06/01/2012,06/10/2012,,05715531MO,-228.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,28,114.0000,3192.00,"Basic Service Fee - One Bedroom for Jun: Garrett, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,05710316,,06/01/2012,3420,"Invoice-Private",,06/01/2012,06/10/2012,,05715531MO,-228.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3420,3420,"CR:Basic Service F... J.Garrett 201206: Garrett, Juanita",,,,,,,,,,,,,,,

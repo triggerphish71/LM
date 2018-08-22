@@ -1,0 +1,5 @@
+BATCH,,201302,B,2792.8000,
+INVOICE,IN,,00510178,,02/13/2013,2792.8000,"MoveIn-Ozan. Jean",,02/13/2013,02/13/2013,,00512597,2792.8000,,,,,,,,,,
+TRANSACTION,3010,010101005,16,88.0000,1408,"Basic Service Fee - One Bedroom: Ozan. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,16,24.0500,384.8,"Resident Care - Level 13: Ozan. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Ozan. Jean",,,,,,,,,,,,,,,

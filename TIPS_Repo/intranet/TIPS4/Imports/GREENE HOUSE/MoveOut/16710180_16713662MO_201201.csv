@@ -1,0 +1,5 @@
+BATCH,,201201,B,564.2000,
+INVOICE,IN,,16710180,,01/01/2012,282.1000,"Invoice-Private",,01/01/2012,01/10/2012,,16713662MO,-2383.2000,,,,,,,,,,
+TRANSACTION,3312,010211167,31,9.1000,282.10,"Credit for Two Room Rental Discount: Ebers, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,16710180,,01/01/2012,282.1,"Invoice-Private",,01/01/2012,01/10/2012,,16713662MO,-2383.2000,,,,,,,,,,
+TRANSACTION,3312,010211167,31,9.1,282.1,"Two Room Rental Discount: Ebers, Leona",,,,,,,,,,,,,,,

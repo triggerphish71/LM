@@ -1,0 +1,5 @@
+BATCH,,201112,B,3282.0000,
+INVOICE,IN,,04510239,,12/01/2011,3282.0000,"December_Rent-Wiles. Dorothy",,12/01/2011,12/10/2011,,04513795,5859.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,31,76.0000,2356,"Basic Service Fee - Studio: Wiles. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,31,29.0000,899,"Resident Care - Level 2: Wiles. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Wiles. Dorothy",,,,,,,,,,,,,,,

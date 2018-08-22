@@ -1,0 +1,6 @@
+BATCH,,201305,B,4733.0000,
+INVOICE,IN,,13810181,,05/27/2013,2187.0000,"Invoice-Private",,05/27/2013,05/27/2013,,13815637MO,-2824.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,27,81.0000,2187.00,"Basic Service Fee - Studio for May: Murphy, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,13810181,,05/27/2013,2546,"Invoice-Private",,05/27/2013,05/27/2013,,13815637MO,-2824.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2511,2511,"CR:Basic Service F... E.Murphy 201305: Murphy, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35,35,"CR:Pendant Fee... E.Murphy 201305: Murphy, Eileen",,,,,,,,,,,,,,,

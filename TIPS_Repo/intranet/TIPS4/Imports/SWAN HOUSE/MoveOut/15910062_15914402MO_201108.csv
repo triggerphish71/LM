@@ -1,0 +1,8 @@
+BATCH,,201108,B,7879.0000,
+INVOICE,IN,,15910062,,08/16/2011,2672.0000,"Invoice-Private",,08/16/2011,08/16/2011,,15914402MO,-7575.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,16,89.0000,1424.00,"Basic Service Fee - Studio for Aug: Hulsebus, Cyril",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,16,78.0000,1248.00,"Swan Personal Care - L6 for Aug: Hulsebus, Cyril",,,,,,,,,,,,,,,
+INVOICE,CM,,15910062,,08/16/2011,5207,"Invoice-Private",,08/16/2011,08/16/2011,,15914402MO,-7575.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,2759,2759,"CR:Basic Service F... C.Hulsebus 201108: Hulsebus, Cyril",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... C.Hulsebus 201108: Hulsebus, Cyril",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,2418,2418,"CR:Swan Personal C... C.Hulsebus 201108: Hulsebus, Cyril",,,,,,,,,,,,,,,

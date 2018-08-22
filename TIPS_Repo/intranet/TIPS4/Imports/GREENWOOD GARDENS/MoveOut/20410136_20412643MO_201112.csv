@@ -1,0 +1,5 @@
+BATCH,,201112,B,1550.0000,
+INVOICE,IN,,20410136,,12/01/2011,775.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20412643MO,-1475.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,25.0000,775.00,"Credit for Limited Term Discount: Brown, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,20410136,,12/01/2011,775,"Invoice-Private",,12/01/2011,12/10/2011,,20412643MO,-1475.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,25,775,"Limited Term Discount: Brown, Gladys",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201105,B,4805.0000,
+INVOICE,IN,,13110243,,05/01/2011,930.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13113795MO,-2945.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,930.0000,930.00,"CR:Limited Term Di... A.Strickland 201105: Strickland, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,13110243,,05/01/2011,3875,"Invoice-Private",,05/01/2011,05/10/2011,,13113795MO,-2945.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3007,3007,"CR:Basic Service F... A.Strickland 201105: Strickland, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,868,868,"CR:Resident Care -... A.Strickland 201105: Strickland, Annie",,,,,,,,,,,,,,,

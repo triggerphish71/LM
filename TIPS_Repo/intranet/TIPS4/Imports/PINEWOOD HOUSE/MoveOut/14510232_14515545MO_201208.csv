@@ -1,0 +1,7 @@
+BATCH,,201208,B,2500.0000,
+INVOICE,IN,,14510232,,08/01/2012,1250.0000,"Invoice-Private",,08/01/2012,08/10/2012,,14515545MO,-7109.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,31,2.0000,62.00,"Credit for Limited Term Discount: Bulwinkle, Meryl",,,,,,,,,,,,,,,
+TRANSACTION,3210,010308145,1,1188.0000,1188.00,"Personal Services: Bulwinkle, Meryl",,,,,,,,,,,,,,,
+INVOICE,CM,,14510232,,08/01/2012,1250,"Invoice-Private",,08/01/2012,08/10/2012,,14515545MO,-7109.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,31,2,62,"Limited Term Discount: Bulwinkle, Meryl",,,,,,,,,,,,,,,
+TRANSACTION,3210,010308145,1,1188,1188,"Credit for Personal Services: Bulwinkle, Meryl",,,,,,,,,,,,,,,

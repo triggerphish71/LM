@@ -1,0 +1,6 @@
+BATCH,,201112,B,1725.0000,
+INVOICE,IN,,00810244,,12/30/2011,1725.0000,"MoveIn-Jack. Charles",,12/30/2011,12/30/2011,,00814560,4821.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,2,83.0000,166,"Basic Service Fee - Studio: Jack. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,2,16.0000,32,"Resident Care - Level 1: Jack. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Jack. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Jack. Charles",,,,,,,,,,,,,,,

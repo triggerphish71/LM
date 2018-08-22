@@ -1,0 +1,5 @@
+BATCH,,201105,B,3243.0000,
+INVOICE,IN,,14410225,,05/17/2011,3243.0000,"MoveIn-Powers. Hedi",,05/17/2011,05/17/2011,,14414619,3243.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,15,101.0000,1515,"Basic Service Fee - Studio         : Powers. Hedi",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Powers. Hedi",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,1700.0000,1700,"New Resident Fee: Powers. Hedi",,,,,,,,,,,,,,,

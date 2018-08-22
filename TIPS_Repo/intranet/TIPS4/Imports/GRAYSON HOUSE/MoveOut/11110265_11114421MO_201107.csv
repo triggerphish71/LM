@@ -1,0 +1,7 @@
+BATCH,,201107,B,5508.0000,
+INVOICE,IN,,11110265,,07/05/2011,765.0000,"Invoice-Private",,07/05/2011,07/05/2011,,11114421MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,5,94.0000,470.00,"Basic Service Fee - Studio for Jul: Bowles, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,5,59.0000,295.00,"Resident Care - Level 4 for Jul: Bowles, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,11110265,,07/05/2011,4743,"Invoice-Private",,07/05/2011,07/05/2011,,11114421MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2914,2914,"CR:Basic Service F... J.Bowles 201107: Bowles, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1829,1829,"CR:Resident Care -... J.Bowles 201107: Bowles, Janet",,,,,,,,,,,,,,,

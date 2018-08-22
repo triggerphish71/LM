@@ -1,0 +1,8 @@
+BATCH,,201803,B,8245.0000,
+INVOICE,IN,,41800142,,03/26/2018,3502.0000,"Invoice-Private",,03/26/2018,03/26/2018,,41811622MO,-1241.0000,,,,,,,,,,
+TRANSACTION,3017,060010418,9,46.0000,414.00," Level Care:  1  to Level Care:  3  -on 03/10: Stoppard, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3017,060010418,17,18.0000,306.00," Level Care:  1 : Stoppard, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,26,107.0000,2782.00,"Studio  for Mar: Stoppard, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,41800142,,03/26/2018,4743,"Invoice-Private",,03/26/2018,03/26/2018,,41811622MO,-1241.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,1,1426,1426,"CR:Resident Care -... L.Stoppard 201803: Stoppard, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,1,3317,3317,"CR:Studio... L.Stoppard 201803: Stoppard, Lois",,,,,,,,,,,,,,,

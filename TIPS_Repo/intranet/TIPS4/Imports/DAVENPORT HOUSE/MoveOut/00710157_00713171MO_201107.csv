@@ -1,0 +1,6 @@
+BATCH,,201107,B,3521.6000,
+INVOICE,IN,,00710157,,07/01/2011,620.0000,"Invoice-Private",,07/01/2011,07/10/2011,,00713171MO,-3498.4000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,620.0000,620.00,"CR:Limited Term Di... V.Hadley 201107: Hadley, Victor",,,,,,,,,,,,,,,
+INVOICE,CM,,00710157,,07/01/2011,2901.6,"Invoice-Private",,07/01/2011,07/10/2011,,00713171MO,-3498.4000,,,,,,,,,,
+TRANSACTION,3027,010101007,1,421.6,421.6,"CR:Resident Care -... V.Hadley 201107: Hadley, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2480,2480,"CR:Room and Board ... V.Hadley 201107: Hadley, Victor",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,4918.0000,
+INVOICE,IN,,07010239,,01/01/2013,4918.0000,"January_Rent-Good. Marjoire",,01/01/2013,01/10/2013,,07014621,6412.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,31,89.0000,2759,"Basic Service Fee - Studio: Good. Marjoire",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,31,69.0000,2139,"Resident Care - Level 5: Good. Marjoire",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Good. Marjoire",,,,,,,,,,,,,,,

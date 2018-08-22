@@ -1,0 +1,5 @@
+BATCH,,201206,B,3260.0000,
+INVOICE,IN,,50310283,,06/08/2012,3260.0000,"MoveIn-Sparks. Gladys",,06/08/2012,06/08/2012,,50314238,3260.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,23,75.0000,1725,"Basic Service Fee - Studio: Sparks. Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Sparks. Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Sparks. Gladys",,,,,,,,,,,,,,,

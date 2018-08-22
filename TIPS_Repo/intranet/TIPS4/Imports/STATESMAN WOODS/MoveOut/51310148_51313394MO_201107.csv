@@ -1,0 +1,7 @@
+BATCH,,201107,B,4180.8000,
+INVOICE,IN,,51310148,,07/01/2011,1480.7000,"Invoice-Private",,07/01/2011,07/10/2011,,51313394MO,-1219.4000,,,,,,,,,,
+TRANSACTION,3027,010310513,17,15.0000,255.00,"Resident Care - Level 1 for Jul: DeFrehn, Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,17,72.1000,1225.70,"Room and Board - Companion Studio for Jul: DeFrehn, Bernadine",,,,,,,,,,,,,,,
+INVOICE,CM,,51310148,,07/01/2011,2700.1,"Invoice-Private",,07/01/2011,07/10/2011,,51313394MO,-1219.4000,,,,,,,,,,
+TRANSACTION,3027,010310513,1,465,465,"CR:Resident Care -... B.DeFrehn 201107: DeFrehn, Bernadine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,1,2235.1,2235.1,"CR:Room and Board ... B.DeFrehn 201107: DeFrehn, Bernadine",,,,,,,,,,,,,,,

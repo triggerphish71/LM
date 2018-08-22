@@ -1,0 +1,8 @@
+BATCH,,201202,B,3915.3500,
+INVOICE,IN,,01810147,,02/01/2012,903.7000,"Invoice-Private",,02/01/2012,02/10/2012,,01812460MO,-2107.9500,,,,,,,,,,
+TRANSACTION,3320,010103018,1,696.0000,696.00,"CR:Limited Term Di... V.Moran 201202: Moran, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,2,77.0000,154.00,"Basic Service Fee - Studio for Feb: Moran, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,2,26.8500,53.70,"Resident Care - Level 15 for Feb: Moran, Velma",,,,,,,,,,,,,,,
+INVOICE,CM,,01810147,,02/01/2012,3011.65,"Invoice-Private",,02/01/2012,02/10/2012,,01812460MO,-2107.9500,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2233,2233,"CR:Basic Service F... V.Moran 201202: Moran, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,778.65,778.65,"CR:Resident Care -... V.Moran 201202: Moran, Velma",,,,,,,,,,,,,,,

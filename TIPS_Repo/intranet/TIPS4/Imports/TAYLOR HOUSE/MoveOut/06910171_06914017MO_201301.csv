@@ -1,0 +1,5 @@
+BATCH,,201301,B,1488.0000,
+INVOICE,IN,,06910171,,01/01/2013,744.0000,"Invoice-Private",,01/01/2013,01/10/2013,,06914017MO,-2914.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,31,24.0000,744.00,"Credit for Limited Term Discount: Smith, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,06910171,,01/01/2013,744,"Invoice-Private",,01/01/2013,01/10/2013,,06914017MO,-2914.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,31,24,744,"Limited Term Discount: Smith, Leona",,,,,,,,,,,,,,,

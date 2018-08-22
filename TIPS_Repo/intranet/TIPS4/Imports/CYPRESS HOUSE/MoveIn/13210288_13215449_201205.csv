@@ -1,0 +1,6 @@
+BATCH,,201205,B,5747.0000,
+INVOICE,IN,,13210288,,05/08/2012,5747.0000,"MoveIn-Hutson. Frank",,05/08/2012,05/08/2012,,13215449,5747.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,24,99.0000,2376,"Basic Service Fee - Studio: Hutson. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,24,56.0000,1344,"Resident Care - Level 4: Hutson. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Hutson. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Hutson. Frank",,,,,,,,,,,,,,,

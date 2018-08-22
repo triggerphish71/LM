@@ -1,0 +1,7 @@
+BATCH,,201307,B,3232.0000,
+INVOICE,IN,,52610350,,07/01/2013,101.0000,"Invoice-Private",,07/01/2013,07/01/2013,,52617964MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,26.0000,26.00,"Basic Service Fee - Second Resident for Jul: King, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,75.0000,75.00,"Resident Care - Level 4 for Jul: King, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,52610350,,07/01/2013,3131,"Invoice-Private",,07/01/2013,07/01/2013,,52617964MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,806,806,"CR:Basic Service F... R.King 201307: King, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,2325,2325,"CR:Resident Care -... R.King 201307: King, Robert",,,,,,,,,,,,,,,

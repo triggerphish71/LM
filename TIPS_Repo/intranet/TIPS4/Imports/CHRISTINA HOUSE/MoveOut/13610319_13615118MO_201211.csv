@@ -1,0 +1,8 @@
+BATCH,,201211,B,2445.0000,
+INVOICE,IN,,13610319,,11/01/2012,425.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13615118MO,-1595.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,6,65.0000,390.00,"Basic Service Fee - Studio for Nov: Smith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35.00,"Monthly Cable: Smith, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13610319,,11/01/2012,2020,"Invoice-Private",,11/01/2012,11/10/2012,,13615118MO,-1595.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1950,1950,"CR:Basic Service F... M.Smith 201211: Smith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... M.Smith 201211: Smith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"Credit for Monthly Cable: Smith, Mary",,,,,,,,,,,,,,,

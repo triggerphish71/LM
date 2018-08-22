@@ -1,0 +1,5 @@
+BATCH,,201106,B,2709.0000,
+INVOICE,IN,,13910264,,06/24/2011,2709.0000,"MoveIn-Lehnhoff. Allen",,06/24/2011,06/24/2011,,13915652,5746.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,7,97.0000,679,"Basic Service Fee - Studio         : Lehnhoff. Allen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Lehnhoff. Allen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000.0000,2000,"New Resident Fee: Lehnhoff. Allen",,,,,,,,,,,,,,,

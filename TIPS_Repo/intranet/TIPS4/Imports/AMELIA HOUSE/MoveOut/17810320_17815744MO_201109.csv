@@ -1,0 +1,6 @@
+BATCH,,201109,B,3510.2000,
+INVOICE,IN,,17810320,,09/01/2011,955.2000,"Invoice-Private",,09/01/2011,09/10/2011,,17815744MO,-4119.8000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,955.2000,955.20,"CR:Limited Term Di... J.Petersen 201109: Petersen, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,17810320,,09/01/2011,2555,"Invoice-Private",,09/01/2011,09/10/2011,,17815744MO,-4119.8000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2520,2520,"CR:Basic Service F... J.Petersen 201109: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... J.Petersen 201109: Petersen, Jean",,,,,,,,,,,,,,,

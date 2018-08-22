@@ -1,0 +1,5 @@
+BATCH,,201105,B,2357.0000,
+INVOICE,IN,,06210211,,05/27/2011,2357.0000,"MoveIn-Nelson. Enid",,05/27/2011,05/27/2011,,06213524,4872.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,4,83.0000,332,"Basic Service Fee - Studio         : Nelson. Enid",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Nelson. Enid",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Nelson. Enid",,,,,,,,,,,,,,,

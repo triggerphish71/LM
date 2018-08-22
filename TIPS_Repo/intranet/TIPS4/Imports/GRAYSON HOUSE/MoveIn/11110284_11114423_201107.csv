@@ -1,0 +1,5 @@
+BATCH,,201107,B,3999.0000,
+INVOICE,IN,,11110284,,07/11/2011,3999.0000,"MoveIn-Coe. Burdella",,07/11/2011,07/11/2011,,11114423,3999.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,21,94.0000,1974,"Basic Service Fee - Studio         : Coe. Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Coe. Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Coe. Burdella",,,,,,,,,,,,,,,

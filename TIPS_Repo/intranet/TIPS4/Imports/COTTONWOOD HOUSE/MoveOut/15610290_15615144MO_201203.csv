@@ -1,0 +1,6 @@
+BATCH,,201203,B,6200.0000,
+INVOICE,IN,,15610290,,03/01/2012,1240.0000,"Invoice-Private",,03/01/2012,03/10/2012,,15615144MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3320,010211156,1,1240.0000,1240.00,"CR:Limited Term Di... P.Voboril 201203: Voboril, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,15610290,,03/01/2012,4960,"Invoice-Private",,03/01/2012,03/10/2012,,15615144MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2790,2790,"CR:Basic Service F... P.Voboril 201203: Voboril, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2170,2170,"CR:Resident Care -... P.Voboril 201203: Voboril, Pauline",,,,,,,,,,,,,,,

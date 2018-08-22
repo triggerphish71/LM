@@ -1,0 +1,5 @@
+BATCH,,201302,B,30.0000,
+INVOICE,IN,,16210130,,02/01/2013,15.0000,"Invoice-Private",,02/01/2013,02/10/2013,,16213104MO,-3785.0000,,,,,,,,,,
+TRANSACTION,3130,010211162,1,15.0000,15.00,"Pendant Fee: Suverkrubbe, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,16210130,,02/01/2013,15,"Invoice-Private",,02/01/2013,02/10/2013,,16213104MO,-3785.0000,,,,,,,,,,
+TRANSACTION,3130,010211162,1,15,15,"Credit for Pendant Fee: Suverkrubbe, Marie",,,,,,,,,,,,,,,

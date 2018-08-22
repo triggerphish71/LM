@@ -1,0 +1,5 @@
+BATCH,,201304,B,1947.0000,
+INVOICE,IN,,19510217,,04/29/2013,957.0000,"Invoice-Private",,04/29/2013,04/29/2013,,19514857MO,-1056.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,29,33.0000,957.00,"Basic Service Fee - Second Resident for Apr: Rudish, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,19510217,,04/29/2013,990,"Invoice-Private",,04/29/2013,04/29/2013,,19514857MO,-1056.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,990,990,"CR:Basic Service F... M.Rudish 201304: Rudish, Mary",,,,,,,,,,,,,,,

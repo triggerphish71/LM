@@ -1,0 +1,5 @@
+BATCH,,201303,B,54.0000,
+INVOICE,IN,,04510178,,03/01/2013,27.0000,"Invoice-Private",,03/01/2013,03/10/2013,,04514392MO,-1989.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Shepherd, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,04510178,,03/01/2013,27,"Invoice-Private",,03/01/2013,03/10/2013,,04514392MO,-1989.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Shepherd, Ann",,,,,,,,,,,,,,,

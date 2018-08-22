@@ -1,0 +1,7 @@
+BATCH,,201306,B,6960.0000,
+INVOICE,IN,,04810295,,06/18/2013,2610.0000,"Invoice-Private",,06/18/2013,06/18/2013,,04815123MO,-6235.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,18,103.0000,1854.00,"Basic Service Fee - Studio for Jun: West, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,18,42.0000,756.00,"Resident Care - Level 3 for Jun: West, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,04810295,,06/18/2013,4350,"Invoice-Private",,06/18/2013,06/18/2013,,04815123MO,-6235.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... L.West 201306: West, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,1260,1260,"CR:Resident Care -... L.West 201306: West, Louise",,,,,,,,,,,,,,,

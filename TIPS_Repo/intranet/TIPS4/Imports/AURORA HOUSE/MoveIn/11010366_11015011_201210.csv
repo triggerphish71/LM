@@ -1,0 +1,5 @@
+BATCH,,201210,B,4086.0000,
+INVOICE,IN,,11010366,,10/01/2012,4086.0000,"October_Rent-Centrone. Micheal",,10/01/2012,10/10/2012,,11015011,7421.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821,"Basic Service Fee - Studio         : Centrone. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,40.0000,1240,"Resident Care - Level 3: Centrone. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Centrone. Micheal",,,,,,,,,,,,,,,

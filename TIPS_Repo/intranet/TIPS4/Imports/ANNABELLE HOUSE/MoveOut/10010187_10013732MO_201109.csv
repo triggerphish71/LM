@@ -1,0 +1,7 @@
+BATCH,,201109,B,4107.0000,
+INVOICE,IN,,10010187,,09/05/2011,777.0000,"Invoice-Private",,09/05/2011,09/05/2011,,10013732MO,-2553.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,7,82.0000,574.00,"Basic Service Fee - Studio for Sep: Arradondo, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,7,29.0000,203.00,"Resident Care - Level 2 for Sep: Arradondo, Georgia",,,,,,,,,,,,,,,
+INVOICE,CM,,10010187,,09/05/2011,3330,"Invoice-Private",,09/05/2011,09/05/2011,,10013732MO,-2553.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2460,2460,"CR:Basic Service F... G.Arradondo 201109: Arradondo, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,870,870,"CR:Resident Care -... G.Arradondo 201109: Arradondo, Georgia",,,,,,,,,,,,,,,

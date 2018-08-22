@@ -1,0 +1,5 @@
+BATCH,,201208,B,1984.0000,
+INVOICE,IN,,07110162,,08/01/2012,992.0000,"Invoice-Private",,08/01/2012,08/10/2012,,07114353MO,-1872.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,31,32.0000,992.00,"Credit for Limited Term Discount: Slack, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07110162,,08/01/2012,992,"Invoice-Private",,08/01/2012,08/10/2012,,07114353MO,-1872.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,31,32,992,"Limited Term Discount: Slack, Helen",,,,,,,,,,,,,,,

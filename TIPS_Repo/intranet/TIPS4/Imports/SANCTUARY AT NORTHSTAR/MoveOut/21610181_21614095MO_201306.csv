@@ -1,0 +1,5 @@
+BATCH,,201306,B,40.0000,
+INVOICE,IN,,21610181,,06/01/2013,20.0000,"Invoice-Private",,06/01/2013,06/10/2013,,21614095MO,-5790.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20.0000,20.00,"Pendant Fee: Utermark, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,21610181,,06/01/2013,20,"Invoice-Private",,06/01/2013,06/10/2013,,21614095MO,-5790.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"Credit for Pendant Fee: Utermark, Betty",,,,,,,,,,,,,,,

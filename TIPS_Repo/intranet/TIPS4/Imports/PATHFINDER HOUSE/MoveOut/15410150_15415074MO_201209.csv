@@ -1,0 +1,7 @@
+BATCH,,201209,B,4475.0000,
+INVOICE,IN,,15410150,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15415074MO,-4474.0000,,,,,,,,,,
+TRANSACTION,3320,010211154,1,60.0000,60.00,"CR:Limited Term Di... B.Gentry 201209: Gentry, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,15410150,,09/01/2012,4415,"Invoice-Private",,09/01/2012,09/10/2012,,15415074MO,-4474.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2550,2550,"CR:Basic Service F... B.Gentry 201209: Gentry, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... B.Gentry 201209: Gentry, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1830,1830,"CR:Resident Care -... B.Gentry 201209: Gentry, Bill",,,,,,,,,,,,,,,

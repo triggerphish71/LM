@@ -1,0 +1,6 @@
+BATCH,,201106,B,4680.0000,
+INVOICE,IN,,02110187,,06/08/2011,1805.0000,"Invoice-Private",,06/08/2011,06/08/2011,,02114644MO,-1070.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,19,95.0000,1805.00,"Room and Board - Studio for Jun: Walling, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,02110187,,06/08/2011,2875,"Invoice-Private",,06/08/2011,06/08/2011,,02114644MO,-1070.0000,,,,,,,,,,
+TRANSACTION,3260,010202021,1,25,25,"CR:Monthly Cable... E.Walling 201106: Walling, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202021,1,2850,2850,"CR:Room and Board ... E.Walling 201106: Walling, Evelyn",,,,,,,,,,,,,,,

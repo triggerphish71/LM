@@ -1,0 +1,7 @@
+BATCH,,201206,B,5110.0000,
+INVOICE,IN,,06010041,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,06014389MO,-4990.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,60.0000,60.00,"CR:Limited Term Di... B.Durkin 201206: Durkin, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06010041,,06/01/2012,5050,"Invoice-Private",,06/01/2012,06/10/2012,,06014389MO,-4990.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2880,2880,"CR:Basic Service F... B.Durkin 201206: Durkin, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... B.Durkin 201206: Durkin, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,2130,2130,"CR:Resident Care -... B.Durkin 201206: Durkin, Betty",,,,,,,,,,,,,,,

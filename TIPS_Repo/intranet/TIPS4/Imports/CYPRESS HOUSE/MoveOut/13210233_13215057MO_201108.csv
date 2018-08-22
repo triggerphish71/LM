@@ -1,0 +1,6 @@
+BATCH,,201108,B,5632.0000,
+INVOICE,IN,,13210233,,08/27/2011,2660.0000,"Invoice-Private",,08/27/2011,08/27/2011,,13215057MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,28,95.0000,2660.00,"Basic Service Fee - Studio for Aug: Johnson, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,13210233,,08/27/2011,2972,"Invoice-Private",,08/27/2011,08/27/2011,,13215057MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2945,2945,"CR:Basic Service F... D.Johnson 201108: Johnson, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... D.Johnson 201108: Johnson, Donald",,,,,,,,,,,,,,,

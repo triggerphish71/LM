@@ -1,0 +1,6 @@
+BATCH,,201801,B,4296.6700,
+INVOICE,IN,,14110335,,01/22/2018,4296.6700,"MoveIn-Schlechtwig. Rosetta",,01/22/2018,01/22/2018,,14116330,4296.6700,,,,,,,,,,
+TRANSACTION,3010,010009141,10,124.0000,1240,"Basic Service Fee - One Bedroom: Schlechtwig. Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009141,10,39.0000,390,"Resident Care - Level 2: Schlechtwig. Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009141,1,2000.0000,2000,"Community Fee: Schlechtwig. Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009141,1,666.6667,666.6667,"Monthly Deferral Charge: Schlechtwig. Rosetta",,,,,,,,,,,,,,,

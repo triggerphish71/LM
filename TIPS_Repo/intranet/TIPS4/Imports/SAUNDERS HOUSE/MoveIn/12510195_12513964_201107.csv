@@ -1,0 +1,5 @@
+BATCH,,201107,B,5120.0000,
+INVOICE,IN,,12510195,,07/07/2011,5120.0000,"MoveIn-Lefler. Violet (Emma)",,07/07/2011,07/07/2011,,12513964,5120.0000,,,,,,,,,,
+TRANSACTION,3010,010211125,26,74.0000,1924,"Basic Service Fee - Studio         : Lefler. Violet (Emma)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211125,26,46.0000,1196,"Resident Care - Level 3: Lefler. Violet (Emma)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211125,1,2000.0000,2000,"New Resident Fee: Lefler. Violet (Emma)",,,,,,,,,,,,,,,

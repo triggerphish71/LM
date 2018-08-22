@@ -1,0 +1,8 @@
+BATCH,,201108,B,8070.7000,
+INVOICE,IN,,12510182,,08/10/2011,1570.0000,"Invoice-Private",,08/10/2011,08/10/2011,,12513992MO,-4930.7000,,,,,,,,,,
+TRANSACTION,3020,010211125,10,74.0000,740.00,"Basic Service Fee - Studio for Aug: Shultz, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,10,83.0000,830.00,"Resident Care - Level 6 for Aug: Shultz, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,12510182,,08/10/2011,6500.7,"Invoice-Private",,08/10/2011,08/10/2011,,12513992MO,-4930.7000,,,,,,,,,,
+TRANSACTION,3019,010211125,1,1633.7,1633.7,"CR:Additional Serv... J.Shultz 201108: Shultz, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2294,2294,"CR:Basic Service F... J.Shultz 201108: Shultz, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,2573,2573,"CR:Resident Care -... J.Shultz 201108: Shultz, Joe",,,,,,,,,,,,,,,

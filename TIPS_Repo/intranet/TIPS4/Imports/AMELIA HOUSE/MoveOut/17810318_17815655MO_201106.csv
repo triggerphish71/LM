@@ -1,0 +1,7 @@
+BATCH,,201106,B,5029.0000,
+INVOICE,IN,,17810318,,06/28/2011,1274.0000,"Invoice-Private",,06/28/2011,06/28/2011,,17815655MO,-5519.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,13,98.0000,1274.00,"Basic Service Fee - One Bedroom for Jun: Verpoortan, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,17810318,,06/28/2011,3755,"Invoice-Private",,06/28/2011,06/28/2011,,17815655MO,-5519.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,1470,1470,"CR:Basic Service F... J.Verpoortan 201106: Verpoortan, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... J.Verpoortan 201106: Verpoortan, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212178,1,2250,2250,"CR:New Resident Fe... J.Verpoortan 201106: Verpoortan, Joann",,,,,,,,,,,,,,,

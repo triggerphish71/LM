@@ -1,0 +1,8 @@
+BATCH,,201112,B,6498.0000,
+INVOICE,IN,,08510226,,12/29/2011,3429.0000,"Invoice-Private",,12/29/2011,12/29/2011,,08514134MO,-2802.0000,,,,,,,,,,
+TRANSACTION,3320,010305085,1,558.0000,558.00,"CR:Limited Term Di... P.Graham 201112: Graham, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,29,83.0000,2407.00,"Basic Service Fee - Studio for Dec: Graham, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,29,16.0000,464.00,"Resident Care - Level 1 for Dec: Graham, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,08510226,,12/29/2011,3069,"Invoice-Private",,12/29/2011,12/29/2011,,08514134MO,-2802.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2573,2573,"CR:Basic Service F... P.Graham 201112: Graham, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,1,496,496,"CR:Resident Care -... P.Graham 201112: Graham, Patricia",,,,,,,,,,,,,,,

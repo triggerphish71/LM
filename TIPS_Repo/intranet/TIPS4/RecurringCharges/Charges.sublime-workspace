@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iRes",
+				"iResidencyType_ID"
+			],
+			[
+				"iResi",
+				"iResidencyType_ID"
+			],
+			[
+				"mIn",
+				"mInvoiceTotal"
+			],
+			[
+				"cAppli",
+				"cAppliesToAcctPeriod"
+			],
+			[
+				"ichar",
+				"iChargetype_id"
+			],
+			[
+				"r",
+				"returntype\toptional"
+			],
+			[
+				"getEle",
+				"getElementsByName\t( elementName: DOMString ): NodeList Document"
+			],
+			[
+				"cSolo",
+				"cSolomonKey"
+			],
+			[
+				"dt",
+				"dtChargeThrough"
+			],
+			[
+				"dtN",
+				"dtNoticeDate"
+			],
+			[
+				"dtM",
+				"dtMoveOutProjectedDate"
+			],
+			[
+				"getcurr",
+				"getCurrentTemplatePath\tfn (cfml)"
+			],
+			[
+				"getTemp",
+				"getDirectoryFromPath\tfn (cfml)"
+			],
+			[
+				"iFa",
+				"iFacilityNumber"
+			],
+			[
+				"iR",
+				"iRegion_ID"
+			],
+			[
+				"iRe",
+				"iRegion_ID"
+			],
+			[
+				"cAp",
+				"cAppliesToAcctPeriod"
+			],
+			[
+				"cf_sql_in",
+				"cf_sql_integer\tcfsqltype"
+			],
+			[
+				"numb",
+				"Number"
+			],
+			[
+				"iMonthd",
+				"iMonthsDeferred"
+			],
+			[
+				"cf_sql_i",
+				"cf_sql_integer\tcfsqltype"
+			],
+			[
+				"cf_",
+				"cf_sql_integer\tcfsqltype"
+			],
+			[
+				"cf_sql_n",
+				"cf_sql_numeric\tcfsqltype"
+			],
+			[
+				"iapt",
+				"iAptaddress_ID"
+			],
+			[
+				"Ten",
+				"TenantState"
+			],
+			[
+				"ex",
+				"expand\toptional"
+			],
+			[
+				"getElementBy",
+				"getElementById\t( elementId: DOMString ): Element Document"
+			],
+			[
+				"commf",
+				"commFeePaymntAmt"
+			],
+			[
+				"re",
+				"remove\toptional"
+			],
+			[
+				"m",
+				"modal\toptional"
+			],
+			[
+				"Getbat",
+				"getBaseTemplatePath\tfn (cfml)"
+			],
+			[
+				"bIsBund",
+				"bIsBundledPricing"
+			],
+			[
+				"cf_sql_t",
+				"CF_SQL_TINYINT\tcfsqltype"
+			],
+			[
+				"getCurre",
+				"getCurrentTemplatePath\tfn (cfml)"
+			],
+			[
+				"CF_SQL_I",
+				"CF_SQL_INTEGER\tcfsqltype"
+			],
+			[
+				"cfproc",
+				"cfprocresult\ttag (cfml)"
+			],
+			[
+				"appli",
+				"application/msexcel\ttype"
+			],
+			[
+				"store",
+				"storedproc\ttag (cfml)"
+			],
+			[
+				"Creat",
+				"createUUID\tfn (cfml)"
+			],
+			[
+				"iA",
+				"iAptType_ID"
+			],
+			[
+				"iAp",
+				"iAptType_ID"
+			],
+			[
+				"Ap",
+				"AptAddress"
+			],
+			[
+				"sp_e",
+				"sp_ExportInv2Solomon"
+			],
+			[
+				"CareMo",
+				"CareMonthList"
+			],
+			[
+				"carMo",
+				"CareMonthList"
+			],
+			[
+				"border",
+				"border-color"
+			],
+			[
+				"iApt",
+				"iAptAddress_ID"
+			],
+			[
+				"iAptA",
+				"iAptAddress_ID"
+			],
+			[
+				"iap",
+				"iAptAddress_ID"
+			],
+			[
+				"inner",
+				"inner"
+			],
+			[
+				"getEleme",
+				"getElementsByName\t( elementName: DOMString ): NodeList Document"
+			],
+			[
+				"ipro",
+				"iProductLine_ID"
+			],
+			[
+				"cf_sql_char",
+				"cf_sql_varchar\tcfsqltype"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: List Page",
+				"Package Control: List Packages"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInFormUpdate.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/InvoiceReport.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/moveoutform_backup03132018.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInForm.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/MoveOutFormSummary.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInCredits.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/MoveOutUpdate.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/Menu.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/RemoveMoveOutData.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/RecurringCharges/Recurring_Mike01122018.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/RecurringCharges/RecurringAdd.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/ResetTenant.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/RespiteInvoicing/RespiteInvoiceDeleteMSTR.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Tenant/EditInvoiceAmtAction.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/RespiteInvoicing/RespiteInvoice.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Tenant/EditInvoiceAmts.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/Components/Helper.cfc",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/Header.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/LaborTracking.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/HouseSelect.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/HouseSelect_03182014.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/LaborTracking.cfm.bak",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/Header -backup09162015.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/Header.cfm.bkup.07-13-11",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/components/export2Solomon.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/components/ChargeServices.cfc",
+		"/Y/Sravani/utils/utilityServices.cfc",
+		"/Y/Sravani/components/export2Solomon.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/MICheckReceived.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MainMenu.cfm",
+		"/A/inetpub/wwwroot/intranet/Application.cfm",
+		"/A/ColdFusion2016/cfusion/CustomTags/CF_NewTenantUpdate/NewTenantUpdate.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/FinalizeMoveIn.cfm",
+		"/C/Users/MStriegel/AppData/Local/Microsoft/Windows/Temporary Internet Files/Content.Outlook/0507WZQT/MoveInReportA (2).cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/MoveInReport.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/MoveInReportA.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Tenant/updMoveOutDates.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MainMenu_new.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Tenant/test.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/Menu.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/MoveOutForm.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/MoveInReportB.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/MoveInReportA_backup08032015.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/TipsAccountBalance.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Tenant/TenantAREdit_03012018_backup.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/InvoiceHistoryReport.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/ValidationReport.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Registration/MoveOutAddendum.cfm",
+		"/A/inetpub/wwwroot/intranet/AssessmentTool_V2/ScriptFiles/js_ActivateAssessment.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Charges/ChargeAdd.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/MedicaidChargeDaysBilling.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/Components/BackupCopiesOf_Helper/Helper_b4_01112012_changes.cfc",
+		"/A/inetpub/wwwroot/intranet/backup/Assessment.cfc",
+		"/A/inetpub/wwwroot/intranet/AssessmentTool/activatebilling.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Charges/ChargesDetail.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/components/RecurringCharges/RecurringServices.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/RecurringCharges/Recurring.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/DataTableMaintenance/Charges/ChargesInsert.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/FinalizeAdjNRF.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInFormUpdate - Copy.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/EOMSummaryAcuity.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/JSMoveOutForm.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/DataTableMaintenance/Charges/OverLappingCharges.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/DataTableMaintenance/Charges/Load2013IDCharges.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/DataTableMaintenance/Charges/Charge_add_ganga.cfm",
+		"/Y/Sravani/Qfix/index.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/utils/utilityServices.cfc",
+		"/A/inetpub/wwwroot/intranet/QuickFixes_test/index.cfm",
+		"/A/inetpub/wwwroot/QuickFixes/index.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/buttonmainmenu.cfm",
+		"/A/inetpub/wwwroot/intranet/AssessmentTool_V2/index.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Relocate/RelocateTenant.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/FinalizeMoveIn_11272017.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInSummary.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInFormInsert.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/Menu-debug.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInMedicaidNJ.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/RDOClose.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Applicant/NewApplicant.cfm",
+		"/A/inetpub/wwwroot/ScheduledTasks/sch_UpdateDailyCensus_1045.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Relocate/RelocateTenant.cfm.bak",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Relocate/RelocateTenanttest21218.cfm",
+		"/A/inetpub/wwwroot/ScheduledTasks/ActionFiles/Act_UpdateTenantMissingItems.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/menu-bkup-102417.cfm",
+		"/A/inetpub/wwwroot/ScheduledTasks/_backup02122018.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/LaborTracking_ExcelExport.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/Menu.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/DisplayFiles/MonthSelect.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/Obsolete/MonthlyInvoices_client.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/MonthlyInvoices.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/LaborTracking_01022015.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/Default.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/Helper.cfc",
+		"/A/inetpub/wwwroot/intranet/FTA/LaborTrackingPrint.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/CloseAccount.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/_backup01312018.cfm",
+		"/Y/Sravani/unapproved/AdminApprovals.cfm",
+		"/Y/Sravani/unapproved/Menu.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/AdminApprovals.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Tenant/TenantEdit.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/EditHouseVisitPrintII.cfm",
+		"/A/inetpub/wwwroot/intranet/FTA/HouseVisitIIEntryEdit.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/InvoiceReportB.cfm",
+		"/A/inetpub/wwwroot/intranet/QuickFixes/index.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/RDOClose_Multiple.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/missedMonthlyImports.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/MoveInSummary - final.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/UpdCommFeePymnt.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveIn/updCommFeePymntMS.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/InvoiceReportB_103017.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Charges/Charges.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/TenantChargeSummary.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Reports/TenantChargeReport.cfm",
+		"/A/ColdFusion2016/cfusion/CustomTags/CF_Address/Address.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/moveoutupdateMS.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/DataTableMaintenance/House/HouseAptTypeChange.cfm",
+		"/C/Users/MStriegel/Desktop/01102018_backup/TIPS4/Relocate/RelocateTenant.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/RespiteInvoicing/RespiteInvoiceFinalize.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Admin/reImportSQL.cfm",
+		"/A/inetpub/wwwroot/intranet/TIPS4/MoveOut/MoveOutUpdate.cfm.bak",
+		"/A/inetpub/wwwroot/intranet/TIPS4/Registration/Registration.cfm",
+		"/A/inetpub/wwwroot/Components/Assessment.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/components/RecurringServices.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/RecurringCharges/RecurringServices.cfc",
+		"/A/inetpub/wwwroot/intranet/TIPS4/CFC/components/MoveIn/CommunityFeePayment.cfc",
+		"/Z/RelocateTenant.cfm",
+		"/Z/0111/Hurdy/RelocateTenant.cfm",
+		"/Z/0111/RelocateTenant.cfm"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Charges.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 243.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,6 @@
+BATCH,,201210,B,3917.0000,
+INVOICE,IN,,02610286,,10/08/2012,3917.0000,"MoveIn-Denmon. Doris",,10/08/2012,10/08/2012,,02614955,3917.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,24,97.0000,2328,"Basic Service Fee - Studio: Denmon. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,24,13.0000,312,"Resident Care - Level 1: Denmon. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Denmon. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1250.0000,1250,"New Resident Fee: Denmon. Doris",,,,,,,,,,,,,,,

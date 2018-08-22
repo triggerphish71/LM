@@ -1,0 +1,6 @@
+BATCH,,201112,B,2181.0000,
+INVOICE,IN,,04310203,,12/28/2011,2181.0000,"MoveIn-Bond. Rueben",,12/28/2011,12/28/2011,,04313816,7290.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,4,98.0000,392,"Basic Service Fee - Studio: Bond. Rueben",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,4,66.0000,264,"Resident Care - Level 4: Bond. Rueben",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Bond. Rueben",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Bond. Rueben",,,,,,,,,,,,,,,

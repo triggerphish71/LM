@@ -1,0 +1,7 @@
+BATCH,,201206,B,174.0000,
+INVOICE,IN,,13210210,,06/01/2012,87.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13215440MO,-3835.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Foster, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308132,30,2.0000,60.00,"Credit for Limited Term Discount: Foster, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,13210210,,06/01/2012,87,"Invoice-Private",,06/01/2012,06/10/2012,,13215440MO,-3835.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Foster, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308132,30,2,60,"Limited Term Discount: Foster, Audrey",,,,,,,,,,,,,,,

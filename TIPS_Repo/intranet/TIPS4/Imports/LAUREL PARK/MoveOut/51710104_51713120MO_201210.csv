@@ -1,0 +1,7 @@
+BATCH,,201210,B,3073.0000,
+INVOICE,IN,,51710104,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,51713120MO,-3116.0000,,,,,,,,,,
+TRANSACTION,3320,010103517,1,62.0000,62.00,"CR:Limited Term Di... B.Erkenbrack 201210: Erkenbrack, Bruce",,,,,,,,,,,,,,,
+INVOICE,CM,,51710104,,10/01/2012,3011,"Invoice-Private",,10/01/2012,10/10/2012,,51713120MO,-3116.0000,,,,,,,,,,
+TRANSACTION,3020,010103517,1,2976,2976,"CR:Basic Service F... B.Erkenbrack 201210: Erkenbrack, Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"CR:Monthly Cable... B.Erkenbrack 201210: Erkenbrack, Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"CR:Pendant Fee... B.Erkenbrack 201210: Erkenbrack, Bruce",,,,,,,,,,,,,,,

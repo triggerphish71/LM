@@ -1,0 +1,5 @@
+BATCH,,201301,B,2939.0000,
+INVOICE,IN,,05110186,,01/18/2013,2939.0000,"MoveIn-Burkholder. Jim",,01/18/2013,01/18/2013,,05114580,5792.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,14,101.0000,1414,"Basic Service Fee - Studio: Burkholder. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25.0000,25,"Monthly Cable: Burkholder. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202051,1,1500.0000,1500,"New Resident Fee: Burkholder. Jim",,,,,,,,,,,,,,,

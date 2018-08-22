@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,14810345,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,14815144MO,-4148.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30.00,"Monthly Cable: Stynchula, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,14810345,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,14815144MO,-4148.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"Credit for Monthly Cable: Stynchula, Joseph",,,,,,,,,,,,,,,

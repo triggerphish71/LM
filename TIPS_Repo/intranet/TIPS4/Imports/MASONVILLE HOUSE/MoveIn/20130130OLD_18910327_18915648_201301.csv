@@ -1,0 +1,6 @@
+BATCH,,201301,B,987.0000,
+INVOICE,IN,,18910327,,01/30/2013,987.0000,"MoveIn-Williams. Wilma",,01/30/2013,01/30/2013,,18915648,3980.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,2,89.0000,178,"Basic Service Fee - Studio: Williams. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,2,17.0000,34,"Resident Care - Level 1: Williams. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Williams. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,750.0000,750,"New Tenant Fee: Williams. Wilma",,,,,,,,,,,,,,,

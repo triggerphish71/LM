@@ -1,0 +1,8 @@
+BATCH,,201203,B,10426.0000,
+INVOICE,IN,,14710160,,03/19/2012,4928.0000,"Invoice-Private",,03/19/2012,03/19/2012,,14715592MO,-5892.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,28,102.0000,2856.00,"Basic Service Fee - Studio for Mar: Ghost, Elsie J",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,28,74.0000,2072.00,"Resident Care - Level 5 for Mar: Ghost, Elsie J",,,,,,,,,,,,,,,
+INVOICE,CM,,14710160,,03/19/2012,5498,"Invoice-Private",,03/19/2012,03/19/2012,,14715592MO,-5892.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... E.Ghost 201203: Ghost, Elsie J",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... E.Ghost 201203: Ghost, Elsie J",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,2294,2294,"CR:Resident Care -... E.Ghost 201203: Ghost, Elsie J",,,,,,,,,,,,,,,

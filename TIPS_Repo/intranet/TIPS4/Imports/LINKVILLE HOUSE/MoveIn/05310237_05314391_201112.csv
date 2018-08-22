@@ -1,0 +1,6 @@
+BATCH,,201112,B,2150.0100,
+INVOICE,IN,,05310237,,12/31/2011,2150.0100,"MoveIn-Beegle. Delmar",,12/31/2011,12/31/2011,,05314391,6050.3200,,,,,,,,,,
+TRANSACTION,3010,010101053,1,91.0000,91,"Basic Service Fee - Studio: Beegle. Delmar",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,1,34.0100,34.01,"Resident Care - Level 19: Beegle. Delmar",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Beegle. Delmar",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Beegle. Delmar",,,,,,,,,,,,,,,

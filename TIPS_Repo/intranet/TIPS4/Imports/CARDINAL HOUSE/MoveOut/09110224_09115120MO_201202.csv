@@ -1,0 +1,7 @@
+BATCH,,201202,B,6120.0000,
+INVOICE,IN,,09110224,,02/16/2012,2176.0000,"Invoice-Private",,02/16/2012,02/16/2012,,09115120MO,-5984.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,16,85.0000,1360.00,"Basic Service Fee - Studio for Feb: Merva, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,16,51.0000,816.00,"Resident Care - Level 3 for Feb: Merva, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09110224,,02/16/2012,3944,"Invoice-Private",,02/16/2012,02/16/2012,,09115120MO,-5984.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2465,2465,"CR:Basic Service F... M.Merva 201202: Merva, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1479,1479,"CR:Resident Care -... M.Merva 201202: Merva, Mary",,,,,,,,,,,,,,,

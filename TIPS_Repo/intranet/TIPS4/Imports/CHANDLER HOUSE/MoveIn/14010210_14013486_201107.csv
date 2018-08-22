@@ -1,0 +1,5 @@
+BATCH,,201107,B,3192.0000,
+INVOICE,IN,,14010210,,07/01/2011,3192.0000,"July_Rent-Gaines. Bob (John)",,07/01/2011,07/10/2011,,14013486,5538.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,31,85.0000,2635,"B.Gaines: Basic Service Fee - Studio: Gaines. Bob (John)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,31,17.0000,527,"B.Gaines: Resident Care - Level 1: Gaines. Bob (John)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Gaines. Bob (John)",,,,,,,,,,,,,,,

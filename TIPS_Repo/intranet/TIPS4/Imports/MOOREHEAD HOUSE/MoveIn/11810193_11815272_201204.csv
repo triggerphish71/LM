@@ -1,0 +1,5 @@
+BATCH,,201204,B,4740.0000,
+INVOICE,IN,,11810193,,04/06/2012,4740.0000,"MoveIn-Hay. Emma",,04/06/2012,04/06/2012,,11815272,4740.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,25,100.0000,2500,"Basic Service Fee - Studio: Hay. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Hay. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2200.0000,2200,"New Resident Fee: Hay. Emma",,,,,,,,,,,,,,,

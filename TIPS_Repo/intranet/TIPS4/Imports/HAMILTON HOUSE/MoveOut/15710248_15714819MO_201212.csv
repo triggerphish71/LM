@@ -1,0 +1,8 @@
+BATCH,,201212,B,8057.0000,
+INVOICE,IN,,15710248,,12/12/2012,4182.0000,"Invoice-Private",,12/12/2012,12/12/2012,,15714819MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,682.0000,682.00,"CR:Limited Term Di... D.Johnson 201212: Johnson, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,28,92.0000,2576.00,"Basic Service Fee - Studio for Dec: Johnson, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,28,33.0000,924.00,"Resident Care - Level 2 for Dec: Johnson, David",,,,,,,,,,,,,,,
+INVOICE,CM,,15710248,,12/12/2012,3875,"Invoice-Private",,12/12/2012,12/12/2012,,15714819MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... D.Johnson 201212: Johnson, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1023,1023,"CR:Resident Care -... D.Johnson 201212: Johnson, David",,,,,,,,,,,,,,,

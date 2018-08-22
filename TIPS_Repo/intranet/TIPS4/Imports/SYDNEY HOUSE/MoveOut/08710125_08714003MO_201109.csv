@@ -1,0 +1,8 @@
+BATCH,,201109,B,3787.5000,
+INVOICE,IN,,08710125,,09/01/2011,1072.5000,"Invoice-Private",,09/01/2011,09/10/2011,,08714003MO,-1642.5000,,,,,,,,,,
+TRANSACTION,3320,010103087,1,801.0000,801.00,"CR:Limited Term Di... E.Parrish 201109: Parrish, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103087,3,82.0000,246.00,"Basic Service Fee - Studio for Sep: Parrish, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,3,8.5000,25.50,"Resident Care - Level 5 for Sep: Parrish, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,08710125,,09/01/2011,2715,"Invoice-Private",,09/01/2011,09/10/2011,,08714003MO,-1642.5000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2460,2460,"CR:Basic Service F... E.Parrish 201109: Parrish, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,255,255,"CR:Resident Care -... E.Parrish 201109: Parrish, Ethel",,,,,,,,,,,,,,,

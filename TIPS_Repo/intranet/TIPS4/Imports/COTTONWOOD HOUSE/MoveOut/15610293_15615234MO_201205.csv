@@ -1,0 +1,8 @@
+BATCH,,201205,B,5630.0000,
+INVOICE,IN,,15610293,,05/16/2012,828.0000,"Invoice-Private",,05/16/2012,05/16/2012,,15615234MO,-8114.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,6,90.0000,540.00,"L.Withem: Basic Service Fee - Studio for May: Withem, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,6,48.0000,288.00,"Service : lvl 0 to lvl 3 - 5/13/12 for May: Withem, Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,15610293,,05/16/2012,4802,"Invoice-Private",,05/16/2012,05/16/2012,,15615234MO,-8114.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1890,1890,"CR:L.Withem: Basic... L.Withem 201205: Withem, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000,2000,"CR:New Resident Fe... L.Withem 201205: Withem, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,912,912,"CR:Service : lvl 0... L.Withem 201205: Withem, Lee",,,,,,,,,,,,,,,

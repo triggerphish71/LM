@@ -1,0 +1,96 @@
+<style type="text/css">
+select {
+     border: #C0C0C0 inset 1px;
+     font: 10pt  Courier New, Courier, mono; 
+     padding: 1px;
+     color: #550000;
+     background: #FDFBEB;     
+}
+
+input {
+     border: #C0C0C0 inset 1px;
+     font: 10pt  Courier New, Courier, mono; 
+     padding: 1px;
+     color: #550000;
+     background: #FDFBEB;     
+}
+
+input.checkbox {
+     border: #C0C0C0 inset 0px;
+     font: 10pt  Courier New, Courier, mono; 
+     padding: 0px;
+     color: #550000;
+     background: #C0DCC0;     
+}
+
+input.radio {
+     border: #C0C0C0 inset 0px;
+     font: 10pt  Courier New, Courier, mono; 
+     padding: 0px;
+     color: #550000;
+     background: #C0DCC0;     
+}
+
+input.normal {
+     border: #000000 inset 2px;
+     font: 10pt  Courier New, Courier, mono; 
+     padding: 1px;
+     color: #000000;
+     background: #c0c0c0;     
+}
+
+textarea {
+     border: #C0C0C0 inset 1px;
+     font: 10pt  Courier New, Courier, mono; 
+     padding: 1px;
+     color: #550000;
+     background: #FDFBEB;     
+}
+
+Table		       	{background:		white;
+					/*width:				640;*/
+					border-collapse: 	collapse;
+					border:				0px solid black;}
+					
+TD					{font-size:		x-small;
+					color: white;
+					background:    	gray;
+					padding:		4px;
+					text-align: right;
+					border-bottom:  1px solid whitesmoke;
+					border-right: 1px solid whitesmoke;}
+					
+TD.generalleft					{font-size:		x-small;
+					color: white;
+					background:    	gray;
+					padding:		4px;
+					text-align: left;
+					border-bottom:  1px solid whitesmoke;
+					border-right: 1px solid whitesmoke;}
+					
+TD:hover			{color:			White;
+					border:     	SlateBlue;}
+
+TD.mainarea					{font-size:		x-small;
+					background:    	orange;
+					color: black;
+					text-align: right;
+					padding:		4px;
+					border-bottom:  1px solid whitesmoke;
+					border-right: 1px solid whitesmoke;}
+					
+TD.mainareaheader					{font-size:		x-small;
+					background:    	orange;
+					color: black;
+					text-align: center;
+					font-weight:bold;
+					padding:		4px;
+					border-bottom:  1px solid whitesmoke;
+					border-right: 1px solid whitesmoke;}
+					
+TD.white					{font-size:		x-small;
+					background:    	white;
+					padding:		4px;
+					border-bottom:  1px solid white;}
+
+</style>

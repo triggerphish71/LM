@@ -1,0 +1,5 @@
+BATCH,,201305,B,3344.0000,
+INVOICE,IN,,05610240,,05/01/2013,3344.0000,"May_Rent-Haseloff. Edward",,05/01/2013,05/10/2013,,05614831,5762.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,31,68.0000,2108,"Basic Service Fee - Studio: Haseloff. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,31,39.0000,1209,"Resident Care - Level 3: Haseloff. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Haseloff. Edward",,,,,,,,,,,,,,,

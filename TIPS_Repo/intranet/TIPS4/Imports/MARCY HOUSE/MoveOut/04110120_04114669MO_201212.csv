@@ -1,0 +1,8 @@
+BATCH,,201212,B,6012.0000,
+INVOICE,IN,,04110120,,12/04/2012,742.0000,"Invoice-Private",,12/04/2012,12/04/2012,,04114669MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,62.0000,62.00,"CR:Limited Term Di... M.Saunders 201212: Saunders, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,4,99.0000,396.00,"Basic Service Fee - One Bedroom for Dec: Saunders, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,4,71.0000,284.00,"Resident Care - Level 6 for Dec: Saunders, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,04110120,,12/04/2012,5270,"Invoice-Private",,12/04/2012,12/04/2012,,04114669MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,3069,3069,"CR:Basic Service F... M.Saunders 201212: Saunders, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,2201,2201,"CR:Resident Care -... M.Saunders 201212: Saunders, Martha",,,,,,,,,,,,,,,

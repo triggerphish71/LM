@@ -1,0 +1,5 @@
+BATCH,,201306,B,3070.0000,
+INVOICE,CM,,17810319,,06/01/2013,3070,"Invoice-Private",,06/01/2013,06/10/2013,,17816587MO,-3070.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,3030,3030,"CR:Basic Service F... J.Petersen 201306: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212178,1,30,30,"CR:Pendant Fee... J.Petersen 201306: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3228,010212178,1,10,10,"CR:Sharps Disposal... J.Petersen 201306: Petersen, Jean",,,,,,,,,,,,,,,

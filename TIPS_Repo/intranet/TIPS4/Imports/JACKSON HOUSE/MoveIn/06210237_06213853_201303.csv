@@ -1,0 +1,6 @@
+BATCH,,201303,B,4360.0000,
+INVOICE,IN,,06210237,,03/07/2013,4360.0000,"MoveIn-Trussler. Phyllis",,03/07/2013,03/07/2013,,06213853,4360.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,25,86.0000,2150,"Basic Service Fee - Studio: Trussler. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,25,7.4000,185,"Resident Care - Level 4: Trussler. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Trussler. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Trussler. Phyllis",,,,,,,,,,,,,,,

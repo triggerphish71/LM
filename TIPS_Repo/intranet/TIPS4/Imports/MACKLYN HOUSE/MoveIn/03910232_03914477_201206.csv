@@ -1,0 +1,5 @@
+BATCH,,201206,B,4301.2000,
+INVOICE,IN,,03910232,,06/11/2012,4301.2000,"MoveIn-Wold. William",,06/11/2012,06/11/2012,,03914477,4301.2000,,,,,,,,,,
+TRANSACTION,3010,010101039,20,90.0000,1800,"Basic Service Fee - Studio: Wold. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,20,25.0600,501.2,"Resident Care - Level 14: Wold. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Wold. William",,,,,,,,,,,,,,,

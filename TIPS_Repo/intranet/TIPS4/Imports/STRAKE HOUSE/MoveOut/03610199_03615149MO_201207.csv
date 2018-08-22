@@ -1,0 +1,5 @@
+BATCH,,201207,B,54.0000,
+INVOICE,IN,,03610199,,07/01/2012,27.0000,"Invoice-Private",,07/01/2012,07/10/2012,,03615149MO,-7518.4500,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Russin, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,03610199,,07/01/2012,27,"Invoice-Private",,07/01/2012,07/10/2012,,03615149MO,-7518.4500,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Russin, Marie",,,,,,,,,,,,,,,

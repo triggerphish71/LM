@@ -1,0 +1,5 @@
+BATCH,,201306,B,322.0000,
+INVOICE,IN,,18910348,,06/28/2013,322.0000,"MoveIn-Smith. Mary",,06/28/2013,06/28/2013,,18915960,3441.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,3,89.0000,267,"Basic Service Fee - Studio: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,3,10.0000,30,"CC Meals: Smith. Mary",,,,,,,,,,,,,,,

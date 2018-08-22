@@ -1,0 +1,6 @@
+BATCH,,201111,B,3255.0000,
+INVOICE,IN,,50310265,,11/11/2011,3255.0000,"MoveIn-Deatherage. Geneva",,11/11/2011,11/11/2011,,50313825,3255.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,20,72.0000,1440,"Basic Service Fee - Studio: Deatherage. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,20,14.0000,280,"Resident Care - Level 1: Deatherage. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Deatherage. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Deatherage. Geneva",,,,,,,,,,,,,,,

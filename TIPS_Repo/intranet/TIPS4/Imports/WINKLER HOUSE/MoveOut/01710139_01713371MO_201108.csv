@@ -1,0 +1,8 @@
+BATCH,,201108,B,3843.0000,
+INVOICE,IN,,01710139,,08/01/2011,530.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01713371MO,-2783.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,5,90.0000,450.00,"Basic Service Fee - Studio for Aug: Brooks, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,5,16.0000,80.00,"Resident Care - Level 1 for Aug: Brooks, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,01710139,,08/01/2011,3313,"Invoice-Private",,08/01/2011,08/10/2011,,01713371MO,-2783.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2790,2790,"CR:Basic Service F... E.Brooks 201108: Brooks, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... E.Brooks 201108: Brooks, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,496,496,"CR:Resident Care -... E.Brooks 201108: Brooks, Eva",,,,,,,,,,,,,,,

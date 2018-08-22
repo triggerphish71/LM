@@ -1,0 +1,8 @@
+BATCH,,201110,B,3973.0000,
+INVOICE,IN,,17610090,,10/02/2011,222.0000,"Invoice-Private",,10/02/2011,10/02/2011,,17614125MO,-3529.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,2,69.0000,138.00,"Basic Service Fee - Studio for Oct: Johnson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,2,42.0000,84.00,"Resident Care - Level 3 for Oct: Johnson, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17610090,,10/02/2011,3751,"Invoice-Private",,10/02/2011,10/02/2011,,17614125MO,-3529.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2139,2139,"CR:Basic Service F... M.Johnson 201110: Johnson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... M.Johnson 201110: Johnson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1302,1302,"CR:Resident Care -... M.Johnson 201110: Johnson, Mary",,,,,,,,,,,,,,,

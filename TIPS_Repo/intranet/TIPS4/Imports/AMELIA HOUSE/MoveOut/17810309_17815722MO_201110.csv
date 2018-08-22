@@ -1,0 +1,5 @@
+BATCH,,201110,B,520.8000,
+INVOICE,IN,,17810309,,10/01/2011,260.4000,"Invoice-Private",,10/01/2011,10/10/2011,,17815722MO,-4527.6000,,,,,,,,,,
+TRANSACTION,3312,010212178,31,8.4000,260.40,"Credit for Two Room Rental Discount: Scott, Avis",,,,,,,,,,,,,,,
+INVOICE,CM,,17810309,,10/01/2011,260.4,"Invoice-Private",,10/01/2011,10/10/2011,,17815722MO,-4527.6000,,,,,,,,,,
+TRANSACTION,3312,010212178,31,8.4,260.4,"Two Room Rental Discount: Scott, Avis",,,,,,,,,,,,,,,

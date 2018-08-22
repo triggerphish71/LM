@@ -1,0 +1,5 @@
+BATCH,,201106,B,54.0000,
+INVOICE,IN,,16310199,,06/01/2011,27.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16316273MO,-1831.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Montgomery, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,16310199,,06/01/2011,27,"Invoice-Private",,06/01/2011,06/10/2011,,16316273MO,-1831.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Montgomery, Frances",,,,,,,,,,,,,,,

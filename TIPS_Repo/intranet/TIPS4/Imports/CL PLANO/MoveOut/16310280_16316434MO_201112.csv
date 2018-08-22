@@ -1,0 +1,7 @@
+BATCH,,201112,B,612.0000,
+INVOICE,IN,,16310280,,12/01/2011,306.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16316434MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Patterson, Mary Anne",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,31,9.0000,279.00,"Credit for Limited Term Discount: Patterson, Mary Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,16310280,,12/01/2011,306,"Invoice-Private",,12/01/2011,12/10/2011,,16316434MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Patterson, Mary Anne",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,31,9,279,"Limited Term Discount: Patterson, Mary Anne",,,,,,,,,,,,,,,

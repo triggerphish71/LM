@@ -1,0 +1,5 @@
+BATCH,,201204,B,3890.0000,
+INVOICE,IN,,19410234,,04/13/2012,3890.0000,"MoveIn-Belvin. Theo",,04/13/2012,04/13/2012,,19414222,3890.0000,,,,,,,,,,
+TRANSACTION,3010,010212194,18,75.0000,1350,"Basic Service Fee - Studio: Belvin. Theo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40,"Monthly Cable: Belvin. Theo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212194,1,2500.0000,2500,"New Resident Fee: Belvin. Theo",,,,,,,,,,,,,,,

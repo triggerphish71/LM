@@ -1,0 +1,5 @@
+BATCH,,201106,B,748.0000,
+INVOICE,IN,,11010332,,06/10/2011,34.0000,"Invoice-Private",,06/10/2011,06/10/2011,,11014581MO,-680.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,34.0000,34.00,"Basic Service Fee - Second Resident for Jun: Swanson, Marcella",,,,,,,,,,,,,,,
+INVOICE,CM,,11010332,,06/10/2011,714,"Invoice-Private",,06/10/2011,06/10/2011,,11014581MO,-680.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,714,714,"CR:Basic Service F... M.Swanson 201106: Swanson, Marcella",,,,,,,,,,,,,,,

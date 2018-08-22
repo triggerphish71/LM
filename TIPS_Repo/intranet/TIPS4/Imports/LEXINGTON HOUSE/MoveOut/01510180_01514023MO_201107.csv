@@ -1,0 +1,6 @@
+BATCH,,201107,B,3813.0000,
+INVOICE,IN,,01510180,,07/01/2011,403.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01514023MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,403.0000,403.00,"CR:Limited Term Di... J.Lindblad 201107: Lindblad, Jan",,,,,,,,,,,,,,,
+INVOICE,CM,,01510180,,07/01/2011,3410,"Invoice-Private",,07/01/2011,07/10/2011,,01514023MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2883,2883,"CR:Basic Service F... J.Lindblad 201107: Lindblad, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,527,527,"CR:Resident Care -... J.Lindblad 201107: Lindblad, Jan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,4050.0000,
+INVOICE,IN,,08710205,,03/07/2013,4050.0000,"MoveIn-Dumbaugh. Dickenson",,03/07/2013,03/07/2013,,08714371,4050.0000,,,,,,,,,,
+TRANSACTION,3010,010103087,25,85.0000,2125,"Basic Service Fee - Studio: Dumbaugh. Dickenson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103087,25,37.0000,925,"Resident Care - Level 20: Dumbaugh. Dickenson",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103087,1,1000.0000,1000,"New Resident Fee: Dumbaugh. Dickenson",,,,,,,,,,,,,,,

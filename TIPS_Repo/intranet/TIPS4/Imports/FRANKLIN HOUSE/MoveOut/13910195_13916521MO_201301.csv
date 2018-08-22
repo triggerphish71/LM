@@ -1,0 +1,8 @@
+BATCH,,201301,B,6662.7200,
+INVOICE,IN,,13910195,,01/02/2013,585.2400,"Invoice-Private",,01/02/2013,01/02/2013,,13916521MO,-5492.2400,,,,,,,,,,
+TRANSACTION,3020,010103139,3,102.0000,306.00,"Basic Service Fee - Studio for Jan: White, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,3,93.0800,279.24,"Resident Care - Level 52 for Jan: White, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,13910195,,01/02/2013,6077.48,"Invoice-Private",,01/02/2013,01/02/2013,,13916521MO,-5492.2400,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... G.White 201301: White, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... G.White 201301: White, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,2885.48,2885.48,"CR:Resident Care -... G.White 201301: White, Gladys",,,,,,,,,,,,,,,

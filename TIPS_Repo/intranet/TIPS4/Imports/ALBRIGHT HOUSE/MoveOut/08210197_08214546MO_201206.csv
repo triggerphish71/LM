@@ -1,0 +1,7 @@
+BATCH,,201206,B,4052.8000,
+INVOICE,IN,,08210197,,06/01/2012,1013.2000,"Invoice-Private",,06/01/2012,06/10/2012,,08214546MO,-2026.4000,,,,,,,,,,
+TRANSACTION,3020,010103082,10,87.0000,870.00,"Basic Service Fee - Studio for Jun: Holmes, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,10,14.3200,143.20,"Resident Care - Level 8 for Jun: Holmes, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,08210197,,06/01/2012,3039.6,"Invoice-Private",,06/01/2012,06/10/2012,,08214546MO,-2026.4000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2610,2610,"CR:Basic Service F... B.Holmes 201206: Holmes, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,429.6,429.6,"CR:Resident Care -... B.Holmes 201206: Holmes, Betty",,,,,,,,,,,,,,,

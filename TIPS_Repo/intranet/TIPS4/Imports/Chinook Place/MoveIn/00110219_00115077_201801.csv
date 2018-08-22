@@ -1,0 +1,6 @@
+BATCH,,201801,B,5859.4000,
+INVOICE,IN,,00110219,,01/18/2018,5859.4000,"MoveIn-Gilliland. Lowell",,01/18/2018,01/18/2018,,00115077,8068.4000,,,,,,,,,,
+TRANSACTION,3010,010001001,14,78.0000,1092,"Basic Service Fee - Studio AL: Gilliland. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001001,1,2371.2000,2371.2,"Community Fee: Gilliland. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010001001,1,25.0000,25,"Monthly Cable: Gilliland. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001001,1,2371.2000,2371.2,"Monthly Deferral Charge: Gilliland. Lowell",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201803,B,9540.0000,
+INVOICE,IN,,06310382,,03/29/2018,4363.0000,"Invoice-Private",,03/29/2018,03/29/2018,,06316696MO,-5824.0000,,,,,,,,,,
+TRANSACTION,3017,010004063,14,100.0000,1400.00,"Level: 6  to  Level: 4  - on 03/15: Fraser, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010004063,15,68.0000,1020.00," Level: 4 : Fraser, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010004063,29,67.0000,1943.00,"Basic Service Fee - Studio  for Mar: Fraser, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,06310382,,03/29/2018,5177,"Invoice-Private",,03/29/2018,03/29/2018,,06316696MO,-5824.0000,,,,,,,,,,
+TRANSACTION,3020,010004063,1,2077,2077,"CR:Basic Service F... M.Fraser 201803: Fraser, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004063,1,3100,3100,"CR:Resident Care -... M.Fraser 201803: Fraser, Marilyn",,,,,,,,,,,,,,,

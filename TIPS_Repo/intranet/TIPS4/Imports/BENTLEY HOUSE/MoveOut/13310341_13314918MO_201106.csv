@@ -1,0 +1,5 @@
+BATCH,,201106,B,1440.0000,
+INVOICE,IN,,13310341,,06/01/2011,720.0000,"Invoice-Private",,06/01/2011,06/10/2011,,13314918MO,-2644.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,30,24.0000,720.00,"Credit for Limited Term Discount: O'Neill, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,13310341,,06/01/2011,720,"Invoice-Private",,06/01/2011,06/10/2011,,13314918MO,-2644.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,30,24,720,"Limited Term Discount: O'Neill, Francis",,,,,,,,,,,,,,,

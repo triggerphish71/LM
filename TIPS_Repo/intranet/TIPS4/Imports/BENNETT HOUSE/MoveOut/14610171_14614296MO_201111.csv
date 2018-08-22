@@ -1,0 +1,7 @@
+BATCH,,201111,B,6254.0000,
+INVOICE,IN,,14610171,,11/29/2011,3074.0000,"Invoice-Private",,11/29/2011,11/29/2011,,14614296MO,-3392.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,29,89.0000,2581.00,"Basic Service Fee - Studio for Nov: Deutsch, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,29,17.0000,493.00,"Resident Care - Level 1 for Nov: Deutsch, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,14610171,,11/29/2011,3180,"Invoice-Private",,11/29/2011,11/29/2011,,14614296MO,-3392.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2670,2670,"CR:Basic Service F... M.Deutsch 201111: Deutsch, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,510,510,"CR:Resident Care -... M.Deutsch 201111: Deutsch, Martha",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,8640.0000,
+INVOICE,IN,,07110101,,10/29/2011,4176.0000,"Invoice-Private",,10/29/2011,10/29/2011,,07114074MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,29,96.0000,2784.00,"Basic Service Fee - Deluxe for Oct: Laubis, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,29,48.0000,1392.00,"Resident Care - Level 3 for Oct: Laubis, Della",,,,,,,,,,,,,,,
+INVOICE,CM,,07110101,,10/29/2011,4464,"Invoice-Private",,10/29/2011,10/29/2011,,07114074MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2976,2976,"CR:Basic Service F... D.Laubis 201110: Laubis, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,1488,1488,"CR:Resident Care -... D.Laubis 201110: Laubis, Della",,,,,,,,,,,,,,,

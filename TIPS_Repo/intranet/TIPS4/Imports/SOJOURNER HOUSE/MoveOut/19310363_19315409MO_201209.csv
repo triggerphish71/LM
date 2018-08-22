@@ -1,0 +1,8 @@
+BATCH,,201209,B,6766.0000,
+INVOICE,IN,,19310363,,09/22/2012,2806.0000,"Invoice-Private",,09/22/2012,09/22/2012,,19315409MO,-5246.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,23,76.0000,1748.00,"Basic Service Fee - Studio for Sep: Hike, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,23,46.0000,1058.00,"Resident Care - Level 3 for Sep: Hike, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19310363,,09/22/2012,3960,"Invoice-Private",,09/22/2012,09/22/2012,,19315409MO,-5246.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2280,2280,"CR:Basic Service F... J.Hike 201209: Hike, James",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... J.Hike 201209: Hike, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1380,1380,"CR:Resident Care -... J.Hike 201209: Hike, James",,,,,,,,,,,,,,,

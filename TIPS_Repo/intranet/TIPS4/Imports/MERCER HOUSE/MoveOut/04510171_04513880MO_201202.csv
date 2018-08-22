@@ -1,0 +1,8 @@
+BATCH,,201202,B,3985.0000,
+INVOICE,IN,,04510171,,02/04/2012,480.0000,"Invoice-Private",,02/04/2012,02/04/2012,,04513880MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,4,76.0000,304.00,"Basic Service Fee - Studio for Feb: Stogsdill, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,4,44.0000,176.00,"Resident Care - Level 3 for Feb: Stogsdill, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,04510171,,02/04/2012,3505,"Invoice-Private",,02/04/2012,02/04/2012,,04513880MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2204,2204,"CR:Basic Service F... G.Stogsdill 201202: Stogsdill, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,25,25,"CR:Monthly Cable... G.Stogsdill 201202: Stogsdill, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,1276,1276,"CR:Resident Care -... G.Stogsdill 201202: Stogsdill, Gladys",,,,,,,,,,,,,,,

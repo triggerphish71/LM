@@ -1,0 +1,5 @@
+BATCH,,201304,B,580.0000,
+INVOICE,IN,,13810138,,04/01/2013,290.0000,"Invoice-Private",,04/01/2013,04/10/2013,,13815436MO,-1424.0000,,,,,,,,,,
+TRANSACTION,3299,010309138,1,290.0000,290.00,"Repair and Maintenance-Damages 4230: Reid, Douglas",,,,,,,,,,,,,,,
+INVOICE,CM,,13810138,,04/01/2013,290,"Invoice-Private",,04/01/2013,04/10/2013,,13815436MO,-1424.0000,,,,,,,,,,
+TRANSACTION,3299,010309138,1,290,290,"Credit for Repair and Maintenance-Damages 4230: Reid, Douglas",,,,,,,,,,,,,,,

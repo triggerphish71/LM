@@ -1,0 +1,6 @@
+BATCH,,201303,B,795.0000,
+INVOICE,IN,,10010241,,03/29/2013,795.0000,"MoveIn-Decuir. Patricia",,03/29/2013,03/29/2013,,10014082,3520.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,3,75.0000,225,"Basic Service Fee - Studio: Decuir. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,3,15.0000,45,"Resident Care - Level 1: Decuir. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Decuir. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Decuir. Patricia",,,,,,,,,,,,,,,

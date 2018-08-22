@@ -1,0 +1,5 @@
+BATCH,,201306,B,4518.0000,
+INVOICE,IN,,15610343,,06/10/2013,4518.0000,"MoveIn-Behrens. Verona",,06/10/2013,06/10/2013,,15615806,4518.0000,,,,,,,,,,
+TRANSACTION,3010,010211156,21,108.0000,2268,"Basic Service Fee - One Bedroom: Behrens. Verona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000.0000,2000,"New Resident Fee: Behrens. Verona",,,,,,,,,,,,,,,
+TRANSACTION,3299,010211156,1,250.0000,250,"Pet Fee - Non Refundable: Behrens. Verona",,,,,,,,,,,,,,,

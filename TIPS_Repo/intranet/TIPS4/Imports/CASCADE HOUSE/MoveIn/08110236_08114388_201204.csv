@@ -1,0 +1,6 @@
+BATCH,,201204,B,4204.5900,
+INVOICE,IN,,08110236,,04/10/2012,4204.5900,"MoveIn-Sinclair. Nina",,04/10/2012,04/10/2012,,08114388,4204.5900,,,,,,,,,,
+TRANSACTION,3010,010103081,21,102.0000,2142,"Basic Service Fee - One Bedroom: Sinclair. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,21,1.7900,37.59,"Resident Care - Level 1: Sinclair. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Sinclair. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Sinclair. Nina",,,,,,,,,,,,,,,

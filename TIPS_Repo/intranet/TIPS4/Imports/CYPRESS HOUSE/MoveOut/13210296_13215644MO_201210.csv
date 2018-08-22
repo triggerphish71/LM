@@ -1,0 +1,6 @@
+BATCH,,201210,B,5704.0000,
+INVOICE,IN,,13210296,,10/01/2012,899.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13215644MO,-5303.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,899.0000,899.00,"CR:Limited Term Di... J.Wimbley 201210: Wimbley, John",,,,,,,,,,,,,,,
+INVOICE,CM,,13210296,,10/01/2012,4805,"Invoice-Private",,10/01/2012,10/10/2012,,13215644MO,-5303.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3069,3069,"CR:Basic Service F... J.Wimbley 201210: Wimbley, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1736,1736,"CR:Resident Care -... J.Wimbley 201210: Wimbley, John",,,,,,,,,,,,,,,

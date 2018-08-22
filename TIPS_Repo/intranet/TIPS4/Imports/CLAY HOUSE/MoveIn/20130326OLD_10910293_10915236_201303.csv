@@ -1,0 +1,6 @@
+BATCH,,201303,B,2703.0000,
+INVOICE,IN,,10910293,,03/26/2013,2703.0000,"MoveIn-Huey. Donna",,03/26/2013,03/26/2013,,10915236,6118.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,6,80.0000,480,"Basic Service Fee - Studio         : Huey. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,6,33.0000,198,"Resident Care - Level 2: Huey. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Huey. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Huey. Donna",,,,,,,,,,,,,,,

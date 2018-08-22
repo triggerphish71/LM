@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_TESTVALUES_#Procname#" value="name:@iHouse_ID;testValue:null,name:@cPeriod;testValue:" />
+	<infoitem key="UD_LiveData_params" value="2" />
+	<infoitem key="UD_LiveData_param0" value="SESSION.qSelectedHouse.cNumber=1975" />
+	<infoitem key="UD_TESTVALUES_sp_ChargesProposed" value="name:@iHouse_ID;testValue:null,name:@cPeriod;testValue:200212" />
+	<infoitem key="UD_TESTVALUES_sp_ChargesProposedTenants" value="name:@iHouse_ID;testValue:null,name:@cPeriod;testValue:200212" />
+	<infoitem key="UD_LiveData_param1" value="SESSION.qSelectedHouse.cNumber=null" />
+</info>

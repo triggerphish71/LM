@@ -1,0 +1,5 @@
+BATCH,,201203,B,4539.0000,
+INVOICE,IN,,53410427,,03/20/2012,1780.0000,"Invoice-Private",,03/20/2012,03/20/2012,,53420558MO,-3649.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,20,89.0000,1780.00,"Basic Service Fee - Two Bedroom for Mar: Williams, LeRoy",,,,,,,,,,,,,,,
+INVOICE,CM,,53410427,,03/20/2012,2759,"Invoice-Private",,03/20/2012,03/20/2012,,53420558MO,-3649.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2759,2759,"CR:Basic Service F... L.Williams 201203: Williams, LeRoy",,,,,,,,,,,,,,,

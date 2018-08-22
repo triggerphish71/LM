@@ -1,0 +1,8 @@
+BATCH,,201110,B,5786.0000,
+INVOICE,IN,,20610197,,10/01/2011,2438.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20612352MO,-910.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,62.0000,62.00,"CR:Limited Term Di... A.Rhinebarger 201110: Rhinebarger, Adah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,22,21.0000,462.00,"Resident Care - Level 2 for Oct: Rhinebarger, Adah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,22,87.0000,1914.00,"Room and Board - Studio for Oct: Rhinebarger, Adah",,,,,,,,,,,,,,,
+INVOICE,CM,,20610197,,10/01/2011,3348,"Invoice-Private",,10/01/2011,10/10/2011,,20612352MO,-910.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,651,651,"CR:Resident Care -... A.Rhinebarger 201110: Rhinebarger, Adah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... A.Rhinebarger 201110: Rhinebarger, Adah",,,,,,,,,,,,,,,

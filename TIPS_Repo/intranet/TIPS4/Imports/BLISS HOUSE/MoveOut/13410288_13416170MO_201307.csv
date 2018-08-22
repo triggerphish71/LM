@@ -1,0 +1,5 @@
+BATCH,,201307,B,70.0000,
+INVOICE,IN,,13410288,,07/01/2013,35.0000,"Invoice-Private",,07/01/2013,07/10/2013,,13416170MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Davis, Mary Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,13410288,,07/01/2013,35,"Invoice-Private",,07/01/2013,07/10/2013,,13416170MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Davis, Mary Alice",,,,,,,,,,,,,,,

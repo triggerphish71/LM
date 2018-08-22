@@ -1,0 +1,6 @@
+BATCH,,201112,B,4630.0000,
+INVOICE,IN,,11710226,,12/07/2011,4630.0000,"MoveIn-Rafferty. Eloise",,12/07/2011,12/07/2011,,11713676,4630.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,25,86.0000,2150,"Basic Service Fee - Studio: Rafferty. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,25,58.0000,1450,"Resident Care - Level 4: Rafferty. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1000.0000,1000,"New Resident Fee: Rafferty. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Rafferty. Eloise",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,6275.7400,
+INVOICE,IN,,01310174,,12/25/2012,3100.4100,"Invoice-Private",,12/25/2012,12/25/2012,,01314268MO,-2915.4500,,,,,,,,,,
+TRANSACTION,3316,010103013,1,334.8000,334.80,"CR:Employee Discou... N.Gilliam 201212: Gilliam, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,27,72.0000,1944.00,"Basic Service Fee - Studio for Dec: Gilliam, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,27,30.4300,821.61,"Resident Care - Level 17 for Dec: Gilliam, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,01310174,,12/25/2012,3175.33,"Invoice-Private",,12/25/2012,12/25/2012,,01314268MO,-2915.4500,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... N.Gilliam 201212: Gilliam, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,943.33,943.33,"CR:Resident Care -... N.Gilliam 201212: Gilliam, Nellie",,,,,,,,,,,,,,,

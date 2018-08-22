@@ -1,0 +1,6 @@
+BATCH,,201108,B,3728.0000,
+INVOICE,IN,,11210265,,08/18/2011,3728.0000,"MoveIn-Kovalcik. Bill",,08/18/2011,08/18/2011,,11215612,7683.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,13,94.0000,1222,"Basic Service Fee - Studio         : Kovalcik. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,13,37.0000,481,"Resident Care - Level 2: Kovalcik. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Kovalcik. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Kovalcik. Bill",,,,,,,,,,,,,,,

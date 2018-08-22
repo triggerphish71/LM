@@ -1,0 +1,7 @@
+BATCH,,201109,B,5700.0000,
+INVOICE,IN,,04410232,,09/20/2011,2280.0000,"Invoice-Private",,09/20/2011,09/20/2011,,04414510MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,20,98.0000,1960.00,"Basic Service Fee - One Bedroom for Sep: Criswell, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,20,16.0000,320.00,"Resident Care - Level 1 for Sep: Criswell, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,04410232,,09/20/2011,3420,"Invoice-Private",,09/20/2011,09/20/2011,,04414510MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2940,2940,"CR:Basic Service F... V.Criswell 201109: Criswell, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,480,480,"CR:Resident Care -... V.Criswell 201109: Criswell, Virginia",,,,,,,,,,,,,,,

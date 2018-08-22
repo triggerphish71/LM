@@ -1,0 +1,7 @@
+BATCH,,201305,B,1592.5000,
+INVOICE,IN,,01310216,,05/19/2013,605.1500,"Invoice-Private",,05/19/2013,05/19/2013,,01314467MO,-1337.7000,,,,,,,,,,
+TRANSACTION,3020,010103013,19,30.0000,570.00,"Basic Service Fee - Studio for May: Straws, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,19,1.8500,35.15,"Resident Care - Level 1 for May: Straws, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,01310216,,05/19/2013,987.35,"Invoice-Private",,05/19/2013,05/19/2013,,01314467MO,-1337.7000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,930,930,"CR:Basic Service F... J.Straws 201305: Straws, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,57.35,57.35,"CR:Resident Care -... J.Straws 201305: Straws, Joe",,,,,,,,,,,,,,,

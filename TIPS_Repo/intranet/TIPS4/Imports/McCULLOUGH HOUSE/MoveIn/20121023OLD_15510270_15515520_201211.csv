@@ -1,0 +1,5 @@
+BATCH,,201211,B,5035.0000,
+INVOICE,IN,,15510270,,11/01/2012,5035.0000,"November_Rent-Stahl. Erma",,11/01/2012,11/10/2012,,15515520,8731.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,30,89.0000,2670,"Basic Service Fee - Studio: Stahl. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,30,78.0000,2340,"Resident Care - Level 6: Stahl. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Stahl. Erma",,,,,,,,,,,,,,,

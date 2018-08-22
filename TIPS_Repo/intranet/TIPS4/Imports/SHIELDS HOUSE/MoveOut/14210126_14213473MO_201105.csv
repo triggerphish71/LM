@@ -1,0 +1,7 @@
+BATCH,,201105,B,7110.0000,
+INVOICE,IN,,14210126,,05/11/2011,2212.0000,"Invoice-Private",,05/11/2011,05/11/2011,,14213473MO,-2686.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,14,85.0000,1190.00,"Basic Service Fee - Studio for May: Frische, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,14,73.0000,1022.00,"Resident Care - Level 5 for May: Frische, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,14210126,,05/11/2011,4898,"Invoice-Private",,05/11/2011,05/11/2011,,14213473MO,-2686.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2635,2635,"CR:Basic Service F... E.Frische 201105: Frische, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,2263,2263,"CR:Resident Care -... E.Frische 201105: Frische, Edna",,,,,,,,,,,,,,,

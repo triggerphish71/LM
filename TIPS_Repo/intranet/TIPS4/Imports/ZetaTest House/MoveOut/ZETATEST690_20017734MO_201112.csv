@@ -1,0 +1,5 @@
+BATCH,,201112,B,3225.0000,
+INVOICE,IN,,690,,12/20/2011,1200.0000,"Invoice-Private",,12/20/2011,12/20/2011,,20017734MO,-3215.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,16,75.0000,1200.00,"Room and Board - Studio for Dec: McTester, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,690,,12/20/2011,2025,"Invoice-Private",,12/20/2011,12/20/2011,,20017734MO,-3215.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2025,2025,"CR:Room and Board ... M.McTester 201112: McTester, Mary",,,,,,,,,,,,,,,

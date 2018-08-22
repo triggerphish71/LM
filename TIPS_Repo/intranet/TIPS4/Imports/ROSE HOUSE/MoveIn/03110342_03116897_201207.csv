@@ -1,0 +1,5 @@
+BATCH,,201207,B,3995.0000,
+INVOICE,IN,,03110342,,07/01/2012,3995.0000,"July_Rent-Rees. Sherwood",,07/01/2012,07/10/2012,,03116897,5281.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,31,99.0000,3069,"S.Rees: Basic Service Fee - Studio: Rees. Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,31,29.0000,899,"S.Rees: Resident Care - Level 2: Rees. Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Rees. Sherwood",,,,,,,,,,,,,,,

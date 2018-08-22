@@ -1,0 +1,5 @@
+BATCH,,201107,B,7500.0000,
+INVOICE,IN,,10210197,,07/12/2011,7500.0000,"MoveIn-McGoldrick. Alice",,07/12/2011,07/12/2011,,10214698,7500.0000,,,,,,,,,,
+TRANSACTION,3010,010306102,20,135.0000,2700,"Basic Service Fee - One Bedroom    : McGoldrick. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306102,20,65.0000,1300,"Swan Personal Care - L4: McGoldrick. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306102,1,3500.0000,3500,"New Resident Fee: McGoldrick. Alice",,,,,,,,,,,,,,,

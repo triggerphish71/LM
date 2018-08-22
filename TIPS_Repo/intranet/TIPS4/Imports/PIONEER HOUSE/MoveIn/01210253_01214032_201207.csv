@@ -1,0 +1,6 @@
+BATCH,,201207,B,4401.2000,
+INVOICE,IN,,01210253,,07/02/2012,4401.2000,"MoveIn-Kuszwara. John",,07/02/2012,07/02/2012,,01214032,3151.2000,,,,,,,,,,
+TRANSACTION,3010,010103012,30,85.0000,2550,"Basic Service Fee - Studio: Kuszwara. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,30,10.7400,322.2,"Resident Care - Level 6: Kuszwara. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Kuszwara. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Kuszwara. John",,,,,,,,,,,,,,,

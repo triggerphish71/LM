@@ -1,0 +1,5 @@
+BATCH,,201306,B,60.0000,
+INVOICE,IN,,12910309,,06/01/2013,30.0000,"Invoice-Private",,06/01/2013,06/10/2013,,12916423MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Koss, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,12910309,,06/01/2013,30,"Invoice-Private",,06/01/2013,06/10/2013,,12916423MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Koss, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,2480.0000,
+INVOICE,IN,,17410221,,03/01/2012,1240.0000,"Invoice-Private",,03/01/2012,03/10/2012,,17414157MO,50.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,40.0000,1240.00,"Credit for Limited Term Discount: Aydt, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,17410221,,03/01/2012,1240,"Invoice-Private",,03/01/2012,03/10/2012,,17414157MO,50.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,40,1240,"Limited Term Discount: Aydt, Bobbie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,7950.7000,
+INVOICE,IN,,08110167,,05/12/2011,2218.8000,"Invoice-Private",,05/12/2011,05/12/2011,,08114090MO,-3513.1000,,,,,,,,,,
+TRANSACTION,3020,010103081,12,88.0000,1056.00,"Basic Service Fee - Studio for May: Rogers, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,12,96.9000,1162.80,"Resident Care - Level 57 for May: Rogers, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,08110167,,05/12/2011,5731.9,"Invoice-Private",,05/12/2011,05/12/2011,,08114090MO,-3513.1000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2728,2728,"CR:Basic Service F... D.Rogers 201105: Rogers, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,3003.9,3003.9,"CR:Resident Care -... D.Rogers 201105: Rogers, Doris",,,,,,,,,,,,,,,

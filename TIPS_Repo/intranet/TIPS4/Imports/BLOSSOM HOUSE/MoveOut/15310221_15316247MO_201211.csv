@@ -1,0 +1,5 @@
+BATCH,,201211,B,900.0000,
+INVOICE,IN,,15310221,,11/01/2012,450.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15316247MO,-9166.2000,,,,,,,,,,
+TRANSACTION,3320,010103153,30,15.0000,450.00,"Credit for Limited Term Discount: Dillman, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,15310221,,11/01/2012,450,"Invoice-Private",,11/01/2012,11/10/2012,,15316247MO,-9166.2000,,,,,,,,,,
+TRANSACTION,3320,010103153,30,15,450,"Limited Term Discount: Dillman, Beverly",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201307,B,3945.0000,
+INVOICE,IN,,01410251,,07/01/2013,448.0000,"Invoice-Private",,07/01/2013,07/10/2013,,01414774MO,-3049.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,4,95.0000,380.00,"Basic Service Fee - Studio for Jul: Fyffe, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,4,17.0000,68.00,"Resident Care - Level 1 for Jul: Fyffe, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,01410251,,07/01/2013,3497,"Invoice-Private",,07/01/2013,07/10/2013,,01414774MO,-3049.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2945,2945,"CR:Basic Service F... H.Fyffe 201307: Fyffe, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... H.Fyffe 201307: Fyffe, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,527,527,"CR:Resident Care -... H.Fyffe 201307: Fyffe, Hazel",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,8264.5000,
+INVOICE,IN,,01310195,,11/21/2012,3391.5000,"Invoice-Private",,11/21/2012,11/21/2012,,01314234MO,-5961.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,21,72.0000,1512.00,"Basic Service Fee - Studio for Nov: Hall, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,21,89.5000,1879.50,"Resident Care - Level 50 for Nov: Hall, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,01310195,,11/21/2012,4873,"Invoice-Private",,11/21/2012,11/21/2012,,01314234MO,-5961.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2160,2160,"CR:Basic Service F... H.Hall 201211: Hall, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... H.Hall 201211: Hall, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,2685,2685,"CR:Resident Care -... H.Hall 201211: Hall, Herbert",,,,,,,,,,,,,,,

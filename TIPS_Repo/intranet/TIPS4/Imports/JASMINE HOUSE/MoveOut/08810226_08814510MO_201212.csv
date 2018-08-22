@@ -1,0 +1,5 @@
+BATCH,,201212,B,2914.0000,
+INVOICE,IN,,08810226,,12/01/2012,1457.0000,"Invoice-Private",,12/01/2012,12/10/2012,,08814510MO,-975.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,47.0000,1457.00,"Credit for Limited Term Discount: Norburg, John",,,,,,,,,,,,,,,
+INVOICE,CM,,08810226,,12/01/2012,1457,"Invoice-Private",,12/01/2012,12/10/2012,,08814510MO,-975.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,47,1457,"Limited Term Discount: Norburg, John",,,,,,,,,,,,,,,

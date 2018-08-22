@@ -1,0 +1,6 @@
+BATCH,,201302,B,3583.0000,
+INVOICE,IN,,08010209,,02/01/2013,868.0000,"Invoice-Private",,02/01/2013,02/10/2013,,08014207MO,-1847.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,1,868.0000,868.00,"CR:Limited Term Di... B.Pitts 201302: Pitts, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,08010209,,02/01/2013,2715,"Invoice-Private",,02/01/2013,02/10/2013,,08014207MO,-1847.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,2688,2688,"CR:Basic Service F... B.Pitts 201302: Pitts, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"CR:Monthly Cable... B.Pitts 201302: Pitts, Bobbie",,,,,,,,,,,,,,,

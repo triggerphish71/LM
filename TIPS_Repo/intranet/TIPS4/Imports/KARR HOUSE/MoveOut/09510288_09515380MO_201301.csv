@@ -1,0 +1,7 @@
+BATCH,,201301,B,8704.2000,
+INVOICE,IN,,09510288,,01/28/2013,4207.0300,"Invoice-Private",,01/28/2013,01/28/2013,,09515380MO,-4352.1000,,,,,,,,,,
+TRANSACTION,3020,010103095,29,86.0000,2494.00,"Basic Service Fee - Studio for Jan: Cook, Mildred ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,29,59.0700,1713.03,"Resident Care - Level 33 for Jan: Cook, Mildred ",,,,,,,,,,,,,,,
+INVOICE,CM,,09510288,,01/28/2013,4497.17,"Invoice-Private",,01/28/2013,01/28/2013,,09515380MO,-4352.1000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... M.Cook 201301: Cook, Mildred ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1831.17,1831.17,"CR:Resident Care -... M.Cook 201301: Cook, Mildred ",,,,,,,,,,,,,,,

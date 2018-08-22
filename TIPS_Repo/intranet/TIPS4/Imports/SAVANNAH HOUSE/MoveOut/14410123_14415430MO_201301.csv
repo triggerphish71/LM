@@ -1,0 +1,5 @@
+BATCH,,201301,B,4554.0000,
+INVOICE,CM,,14410123,,01/01/2013,4554,"Invoice-Private",,01/01/2013,01/10/2013,,14415430MO,-4554.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3224,3224,"CR:Basic Service F... H.Walker 201301: Walker, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... H.Walker 201301: Walker, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,1302,1302,"CR:Resident Care -... H.Walker 201301: Walker, Hazel",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,7240.0000,
+INVOICE,IN,,52510109,,10/01/2012,1226.0000,"Invoice-Private",,10/01/2012,10/10/2012,,52512632MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,1,62.0000,62.00,"CR:Limited Term Di... C.Larson 201210: Larson, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319525,6,127.0000,762.00,"Basic Service Fee - Studio Deluxe for Oct: Larson, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,6,67.0000,402.00,"Resident Care - Level 5 for Oct: Larson, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,52510109,,10/01/2012,6014,"Invoice-Private",,10/01/2012,10/10/2012,,52512632MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3937,3937,"CR:Basic Service F... C.Larson 201210: Larson, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,2077,2077,"CR:Resident Care -... C.Larson 201210: Larson, Chester",,,,,,,,,,,,,,,

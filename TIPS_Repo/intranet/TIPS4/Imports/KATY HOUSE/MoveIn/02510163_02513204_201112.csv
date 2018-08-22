@@ -1,0 +1,6 @@
+BATCH,,201112,B,4151.0000,
+INVOICE,IN,,02510163,,12/06/2011,4151.0000,"MoveIn-Hardenburg. Yvonne",,12/06/2011,12/06/2011,,02513204,4151.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,26,85.0000,2210,"Basic Service Fee - Studio: Hardenburg. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202025,26,16.0000,416,"Resident Care - Level 1: Hardenburg. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Hardenburg. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1500.0000,1500,"New Resident Fee: Hardenburg. Yvonne",,,,,,,,,,,,,,,

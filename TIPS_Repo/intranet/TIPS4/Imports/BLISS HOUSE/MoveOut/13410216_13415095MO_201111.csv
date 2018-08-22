@@ -1,0 +1,7 @@
+BATCH,,201111,B,3185.0000,
+INVOICE,IN,,13410216,,11/05/2011,445.0000,"Invoice-Private",,11/05/2011,11/05/2011,,13415095MO,-2295.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,5,89.0000,445.00,"Basic Service Fee - Studio for Nov: Hamilton, Ada",,,,,,,,,,,,,,,
+INVOICE,CM,,13410216,,11/05/2011,2740,"Invoice-Private",,11/05/2011,11/05/2011,,13415095MO,-2295.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2670,2670,"CR:Basic Service F... A.Hamilton 201111: Hamilton, Ada",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... A.Hamilton 201111: Hamilton, Ada",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309134,1,35,35,"CR:Pendant Fee... A.Hamilton 201111: Hamilton, Ada",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,208.0000,
+INVOICE,IN,,14710043,,12/01/2011,104.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14715369MO,-472.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Meese, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,31,2.0000,62.00,"Credit for Limited Term Discount: Meese, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,14710043,,12/01/2011,104,"Invoice-Private",,12/01/2011,12/10/2011,,14715369MO,-472.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Meese, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,31,2,62,"Limited Term Discount: Meese, Blanche",,,,,,,,,,,,,,,

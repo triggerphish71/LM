@@ -1,0 +1,7 @@
+BATCH,,201105,B,5994.0000,
+INVOICE,IN,,19810273,,05/06/2011,972.0000,"Invoice-Private",,05/06/2011,05/06/2011,,19816039MO,-4050.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,6,60.0000,360.00,"Basic Service Fee AL - Studio A for May: McCloud, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,6,102.0000,612.00,"Swan Personal Care - L6 for May: McCloud, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,19810273,,05/06/2011,5022,"Invoice-Private",,05/06/2011,05/06/2011,,19816039MO,-4050.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1860,1860,"CR:Basic Service F... I.McCloud 201105: McCloud, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,3162,3162,"CR:Swan Personal C... I.McCloud 201105: McCloud, Irene",,,,,,,,,,,,,,,

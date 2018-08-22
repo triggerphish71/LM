@@ -1,0 +1,7 @@
+BATCH,,201304,B,6426.0000,
+INVOICE,IN,,13810230,,04/12/2013,1836.0000,"Invoice-Private",,04/12/2013,04/12/2013,,13815498MO,-2754.0000,,,,,,,,,,
+TRANSACTION,3027,010309138,12,57.0000,684.00,"Resident Care - Level 4 for Apr: Conrad, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,12,96.0000,1152.00,"Room and Board - Studio for Apr: Conrad, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13810230,,04/12/2013,4590,"Invoice-Private",,04/12/2013,04/12/2013,,13815498MO,-2754.0000,,,,,,,,,,
+TRANSACTION,3027,010309138,1,1710,1710,"CR:Resident Care -... R.Conrad 201304: Conrad, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2880,2880,"CR:Room and Board ... R.Conrad 201304: Conrad, Robert",,,,,,,,,,,,,,,

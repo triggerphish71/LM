@@ -1,0 +1,5 @@
+BATCH,,201202,B,2904.0000,
+INVOICE,IN,,16110237,,02/04/2012,352.0000,"Invoice-Private",,02/04/2012,02/04/2012,,16115348MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,4,88.0000,352.00,"Basic Service Fee - Studio for Feb: Fremin, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,16110237,,02/04/2012,2552,"Invoice-Private",,02/04/2012,02/04/2012,,16115348MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2552,2552,"CR:Basic Service F... E.Fremin 201202: Fremin, Ethel",,,,,,,,,,,,,,,

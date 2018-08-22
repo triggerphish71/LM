@@ -1,0 +1,7 @@
+BATCH,,201110,B,4000.0000,
+INVOICE,IN,,50410182,,10/01/2011,125.0000,"Invoice-Private",,10/01/2011,10/10/2011,,50413443MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,108.0000,108.00,"Basic Service Fee - Studio Deluxe for Oct: Anderson, Rani",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,17.0000,17.00,"Resident Care - Level 1 for Oct: Anderson, Rani",,,,,,,,,,,,,,,
+INVOICE,CM,,50410182,,10/01/2011,3875,"Invoice-Private",,10/01/2011,10/10/2011,,50413443MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3348,3348,"CR:Basic Service F... R.Anderson 201110: Anderson, Rani",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,527,527,"CR:Resident Care -... R.Anderson 201110: Anderson, Rani",,,,,,,,,,,,,,,

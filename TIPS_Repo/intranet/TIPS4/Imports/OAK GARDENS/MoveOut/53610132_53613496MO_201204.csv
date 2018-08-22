@@ -1,0 +1,5 @@
+BATCH,,201204,B,70.0000,
+INVOICE,IN,,53610132,,04/01/2012,35.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53613496MO,-1701.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Brown, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,53610132,,04/01/2012,35,"Invoice-Private",,04/01/2012,04/10/2012,,53613496MO,-1701.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Brown, Geraldine",,,,,,,,,,,,,,,

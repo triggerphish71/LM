@@ -1,0 +1,7 @@
+BATCH,,201204,B,5631.0000,
+INVOICE,IN,,13210218,,04/26/2012,2634.0000,"Invoice-Private",,04/26/2012,04/26/2012,,13215439MO,-3397.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,1,60.0000,60.00,"CR:Limited Term Di... D.Hyatt 201204: Hyatt, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308132,26,99.0000,2574.00,"Basic Service Fee - Studio for Apr: Hyatt, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13210218,,04/26/2012,2997,"Invoice-Private",,04/26/2012,04/26/2012,,13215439MO,-3397.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... D.Hyatt 201204: Hyatt, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... D.Hyatt 201204: Hyatt, Dorothy",,,,,,,,,,,,,,,

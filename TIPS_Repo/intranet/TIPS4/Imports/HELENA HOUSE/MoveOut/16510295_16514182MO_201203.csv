@@ -1,0 +1,8 @@
+BATCH,,201203,B,10031.0000,
+INVOICE,IN,,16510295,,03/30/2012,4920.0000,"Invoice-Private",,03/30/2012,03/30/2012,,16514182MO,-3701.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,30,97.0000,2910.00,"Basic Service Fee - Studio for Mar: Anderson, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,30,67.0000,2010.00,"Service : lvl 0 to lvl 5 - 3/1/12 for Mar: Anderson, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,16510295,,03/30/2012,5111,"Invoice-Private",,03/30/2012,03/30/2012,,16514182MO,-3701.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... J.Anderson 201203: Anderson, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... J.Anderson 201203: Anderson, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2077,2077,"CR:Service : lvl 0... J.Anderson 201203: Anderson, Joseph",,,,,,,,,,,,,,,

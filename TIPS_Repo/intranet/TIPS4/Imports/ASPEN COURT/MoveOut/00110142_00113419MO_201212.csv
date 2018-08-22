@@ -1,0 +1,8 @@
+BATCH,,201212,B,8940.4000,
+INVOICE,IN,,00110142,,12/01/2012,3600.4500,"Invoice-Private",,12/01/2012,12/10/2012,,00113419MO,-7079.4500,,,,,,,,,,
+TRANSACTION,3027,010101001,21,98.4500,2067.45,"Resident Care - Level 55 for Dec: Taylor, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101001,21,73.0000,1533.00,"Room and Board - Studio for Dec: Taylor, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,00110142,,12/01/2012,5339.95,"Invoice-Private",,12/01/2012,12/10/2012,,00113419MO,-7079.4500,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... R.Taylor 201212: Taylor, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,3051.95,3051.95,"CR:Resident Care -... R.Taylor 201212: Taylor, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2263,2263,"CR:Room and Board ... R.Taylor 201212: Taylor, Robert",,,,,,,,,,,,,,,

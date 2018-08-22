@@ -1,0 +1,8 @@
+BATCH,,201110,B,4410.0000,
+INVOICE,IN,,10810251,,10/11/2011,660.0000,"Invoice-Private",,10/11/2011,10/11/2011,,10814619MO,-3090.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,6,84.0000,504.00,"Basic Service Fee - Studio for Oct: Cowan, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,6,26.0000,156.00,"Resident Care - Level 2 for Oct: Cowan, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,10810251,,10/11/2011,3750,"Invoice-Private",,10/11/2011,10/11/2011,,10814619MO,-3090.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2100,2100,"CR:Basic Service F... H.Cowan 201110: Cowan, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000,1000,"CR:New Resident Fe... H.Cowan 201110: Cowan, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,650,650,"CR:Resident Care -... H.Cowan 201110: Cowan, Harry",,,,,,,,,,,,,,,

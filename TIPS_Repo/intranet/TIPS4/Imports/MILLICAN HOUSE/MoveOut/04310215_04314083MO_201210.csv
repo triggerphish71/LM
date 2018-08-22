@@ -1,0 +1,6 @@
+BATCH,,201210,B,4247.0000,
+INVOICE,IN,,04310215,,10/01/2012,713.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04314083MO,-3841.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,1,713.0000,713.00,"CR:Limited Term Di... P.Griffin 201210: Griffin, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,04310215,,10/01/2012,3534,"Invoice-Private",,10/01/2012,10/10/2012,,04314083MO,-3841.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,3038,3038,"CR:Basic Service F... P.Griffin 201210: Griffin, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,496,496,"CR:Resident Care -... P.Griffin 201210: Griffin, Pat",,,,,,,,,,,,,,,

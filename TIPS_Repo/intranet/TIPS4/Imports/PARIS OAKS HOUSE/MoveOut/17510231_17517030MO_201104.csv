@@ -1,0 +1,8 @@
+BATCH,,201104,B,4955.0000,
+INVOICE,IN,,17510231,,04/28/2011,2380.0000,"Invoice-Private",,04/28/2011,04/28/2011,,17517030MO,-2855.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,28,73.0000,2044.00,"Basic Service Fee - Studio Deluxe for Apr: Vickers, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,28,12.0000,336.00,"Resident Care - Level 1 for Apr: Vickers, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,17510231,,04/28/2011,2575,"Invoice-Private",,04/28/2011,04/28/2011,,17517030MO,-2855.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2190,2190,"CR:Basic Service F... N.Vickers 201104: Vickers, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"CR:Monthly Cable... N.Vickers 201104: Vickers, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,360,360,"CR:Resident Care -... N.Vickers 201104: Vickers, Norma",,,,,,,,,,,,,,,

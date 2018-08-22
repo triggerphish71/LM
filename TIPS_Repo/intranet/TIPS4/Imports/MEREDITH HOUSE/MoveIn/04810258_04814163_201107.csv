@@ -1,0 +1,5 @@
+BATCH,,201107,B,3559.0000,
+INVOICE,IN,,04810258,,07/01/2011,3559.0000,"July_Rent-Shipman. Juanita",,07/01/2011,07/10/2011,,04814163,5198.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,31,99.0000,3069,"J.Shipman: Basic Service Fee - Studio: Shipman. Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,31,15.0000,465,"J.Shipman: Resident Care - Level 1: Shipman. Juanita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25.0000,25,"Monthly Cable: Shipman. Juanita",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201801,B,5456.6600,
+INVOICE,IN,,51910352,,01/01/2018,5456.6600,"MoveIn-Alston. Richard",,01/01/2018,01/01/2018,,51915266,5456.6600,,,,,,,,,,
+TRANSACTION,3010,010003519,31,90.0000,2790,"Basic Service Fee - Studio: Alston. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003519,1,2000.0000,2000,"Community Fee: Alston. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003519,1,666.6600,666.66,"Monthly Deferral Charge: Alston. Richard",,,,,,,,,,,,,,,

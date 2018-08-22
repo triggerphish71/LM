@@ -1,0 +1,8 @@
+BATCH,,201208,B,7470.0000,
+INVOICE,IN,,14410176,,08/29/2012,3660.0000,"Invoice-Private",,08/29/2012,08/29/2012,,14415275MO,-3838.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,30,106.0000,3180.00,"Basic Service Fee - Studio for Aug: Croft, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,30,16.0000,480.00,"Resident Care - Level 1 for Aug: Croft, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14410176,,08/29/2012,3810,"Invoice-Private",,08/29/2012,08/29/2012,,14415275MO,-3838.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... M.Croft 201208: Croft, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... M.Croft 201208: Croft, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... M.Croft 201208: Croft, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,3535.0000,
+INVOICE,IN,,15410252,,03/04/2013,400.0000,"Invoice-Private",,03/04/2013,03/04/2013,,15415281MO,-2735.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,4,50.0000,200.00,"Basic Service Fee - Studio for Mar: Niebur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,4,50.0000,200.00,"Resident Care - Level 3 for Mar: Niebur, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15410252,,03/04/2013,3135,"Invoice-Private",,03/04/2013,03/04/2013,,15415281MO,-2735.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1550,1550,"CR:Basic Service F... M.Niebur 201303: Niebur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... M.Niebur 201303: Niebur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1550,1550,"CR:Resident Care -... M.Niebur 201303: Niebur, Mary",,,,,,,,,,,,,,,

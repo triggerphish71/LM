@@ -1,0 +1,7 @@
+BATCH,,201202,B,750.0000,
+INVOICE,IN,,03110312,,02/01/2012,375.0000,"Invoice-Private",,02/01/2012,02/10/2012,,03116565MO,-3618.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Safar, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,29,12.0000,348.00,"Credit for Limited Term Discount: Safar, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,03110312,,02/01/2012,375,"Invoice-Private",,02/01/2012,02/10/2012,,03116565MO,-3618.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Safar, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,29,12,348,"Limited Term Discount: Safar, Charles",,,,,,,,,,,,,,,

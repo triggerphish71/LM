@@ -1,0 +1,6 @@
+BATCH,,201204,B,4500.0000,
+INVOICE,IN,,13510256,,04/01/2012,390.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13515117MO,-5539.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,390.0000,390.00,"CR:Limited Term Di... L.Elliot 201204: Elliot, Leslie ",,,,,,,,,,,,,,,
+INVOICE,CM,,13510256,,04/01/2012,4110,"Invoice-Private",,04/01/2012,04/10/2012,,13515117MO,-5539.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... L.Elliot 201204: Elliot, Leslie ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,1410,1410,"CR:Resident Care -... L.Elliot 201204: Elliot, Leslie ",,,,,,,,,,,,,,,

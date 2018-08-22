@@ -1,0 +1,8 @@
+BATCH,,201801,B,10327.0000,
+INVOICE,IN,,32400158,,01/20/2018,3879.0000,"Invoice-Private",,01/20/2018,01/20/2018,,32410983MO,-2569.0000,,,,,,,,,,
+TRANSACTION,3017,070009324,14,91.0000,1274.00,"lvl 6 to lvl 3 - 1/15/18: Whitbourne, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,070009324,5,53.0000,265.00," Level Care:  3 : Whitbourne, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,070009324,20,117.0000,2340.00,"One Bedroom  for Jan: Whitbourne, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,32400158,,01/20/2018,6448,"Invoice-Private",,01/20/2018,01/20/2018,,32410983MO,-2569.0000,,,,,,,,,,
+TRANSACTION,3020,070009324,1,3627,3627,"CR:One Bedroom... D.Whitbourne 201801: Whitbourne, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,070009324,1,2821,2821,"CR:Resident Care -... D.Whitbourne 201801: Whitbourne, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201304,B,3142.0000,
+INVOICE,IN,,03410258,,04/05/2013,445.0000,"Invoice-Private",,04/05/2013,04/05/2013,,03416050MO,-2252.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,5,66.0000,330.00,"Basic Service Fee - Studio for Apr: Addison, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,5,23.0000,115.00,"Resident Care - Level 2 for Apr: Addison, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,03410258,,04/05/2013,2697,"Invoice-Private",,04/05/2013,04/05/2013,,03416050MO,-2252.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,1980,1980,"CR:Basic Service F... T.Addison 201304: Addison, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... T.Addison 201304: Addison, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,690,690,"CR:Resident Care -... T.Addison 201304: Addison, Thomas",,,,,,,,,,,,,,,

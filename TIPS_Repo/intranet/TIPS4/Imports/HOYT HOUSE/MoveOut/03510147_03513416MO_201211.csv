@@ -1,0 +1,7 @@
+BATCH,,201211,B,5616.0000,
+INVOICE,IN,,03510147,,11/01/2012,2376.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03513416MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,22,92.0000,2024.00,"Basic Service Fee - Studio for Nov: Bardwell, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,22,16.0000,352.00,"Resident Care - Level 1 for Nov: Bardwell, Leland",,,,,,,,,,,,,,,
+INVOICE,CM,,03510147,,11/01/2012,3240,"Invoice-Private",,11/01/2012,11/10/2012,,03513416MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2760,2760,"CR:Basic Service F... L.Bardwell 201211: Bardwell, Leland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,480,480,"CR:Resident Care -... L.Bardwell 201211: Bardwell, Leland",,,,,,,,,,,,,,,

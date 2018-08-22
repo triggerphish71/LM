@@ -1,0 +1,5 @@
+BATCH,,201107,B,1674.0000,
+INVOICE,IN,,09210207,,07/01/2011,837.0000,"Invoice-Private",,07/01/2011,07/10/2011,,09214464MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,31,27.0000,837.00,"Credit for Limited Term Discount: Blevins, Dudley",,,,,,,,,,,,,,,
+INVOICE,CM,,09210207,,07/01/2011,837,"Invoice-Private",,07/01/2011,07/10/2011,,09214464MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,31,27,837,"Limited Term Discount: Blevins, Dudley",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201112,B,2190.0000,
+INVOICE,IN,,14210193,,12/21/2011,2190.0000,"MoveIn-Wayt. Clifford",,12/21/2011,12/21/2011,,14213785,5480.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,11,88.0000,968,"Basic Service Fee - Studio: Wayt. Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,11,17.0000,187,"Resident Care - Level 1: Wayt. Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Wayt. Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Wayt. Clifford",,,,,,,,,,,,,,,

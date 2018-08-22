@@ -1,0 +1,5 @@
+BATCH,,201201,B,5054.0000,
+INVOICE,IN,,19210255,,01/07/2012,931.0000,"Invoice-Private",,01/07/2012,01/07/2012,,19215023MO,-3192.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,7,133.0000,931.00,"Basic Service Fee - One Bedroom for Jan: Mullen, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19210255,,01/07/2012,4123,"Invoice-Private",,01/07/2012,01/07/2012,,19215023MO,-3192.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,4123,4123,"CR:Basic Service F... M.Mullen 201201: Mullen, Margaret",,,,,,,,,,,,,,,

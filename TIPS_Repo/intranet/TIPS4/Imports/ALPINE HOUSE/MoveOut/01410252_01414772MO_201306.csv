@@ -1,0 +1,6 @@
+BATCH,,201306,B,5535.0000,
+INVOICE,IN,,01410252,,06/02/2013,2660.0000,"Invoice-Private",,06/02/2013,06/02/2013,,01414772MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,28,95.0000,2660.00,"Basic Service Fee - Studio for Jun: Beavers, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,01410252,,06/02/2013,2875,"Invoice-Private",,06/02/2013,06/02/2013,,01414772MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2850,2850,"CR:Basic Service F... M.Beavers 201306: Beavers, Mabel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... M.Beavers 201306: Beavers, Mabel",,,,,,,,,,,,,,,

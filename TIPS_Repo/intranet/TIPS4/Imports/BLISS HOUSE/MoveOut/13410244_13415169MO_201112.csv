@@ -1,0 +1,6 @@
+BATCH,,201112,B,4911.0000,
+INVOICE,IN,,13410244,,12/01/2011,2024.0000,"Invoice-Private",,12/01/2011,12/10/2011,,13415169MO,-863.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,22,92.0000,2024.00,"Basic Service Fee - Studio for Dec: Blackwell-Root, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,13410244,,12/01/2011,2887,"Invoice-Private",,12/01/2011,12/10/2011,,13415169MO,-863.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2852,2852,"CR:Basic Service F... J.Blackwell-Root 201112: Blackwell-Root, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... J.Blackwell-Root 201112: Blackwell-Root, Janice",,,,,,,,,,,,,,,

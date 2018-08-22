@@ -1,0 +1,7 @@
+BATCH,,201307,B,6272.0000,
+INVOICE,IN,,03210280,,07/25/2013,2800.0000,"Invoice-Private",,07/25/2013,07/25/2013,,03215467MO,-3152.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,25,80.0000,2000.00,"Basic Service Fee - Studio for Jul: Curtis, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,25,32.0000,800.00,"Resident Care - Level 2 for Jul: Curtis, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,03210280,,07/25/2013,3472,"Invoice-Private",,07/25/2013,07/25/2013,,03215467MO,-3152.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2480,2480,"CR:Basic Service F... R.Curtis 201307: Curtis, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,992,992,"CR:Resident Care -... R.Curtis 201307: Curtis, Robert",,,,,,,,,,,,,,,

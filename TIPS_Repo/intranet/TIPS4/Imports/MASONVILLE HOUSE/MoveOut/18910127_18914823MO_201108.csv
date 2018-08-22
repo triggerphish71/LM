@@ -1,0 +1,8 @@
+BATCH,,201108,B,5140.0000,
+INVOICE,IN,,18910127,,08/01/2011,372.0000,"Invoice-Private",,08/01/2011,08/10/2011,,18914823MO,-5503.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,372.0000,372.00,"CR:Limited Term Di... M.Wenger 201108: Wenger, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,18910127,,08/01/2011,4768,"Invoice-Private",,08/01/2011,08/10/2011,,18914823MO,-5503.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2666,2666,"CR:Basic Service F... M.Wenger 201108: Wenger, Martha",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... M.Wenger 201108: Wenger, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... M.Wenger 201108: Wenger, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1767,1767,"CR:Resident Care -... M.Wenger 201108: Wenger, Martha",,,,,,,,,,,,,,,

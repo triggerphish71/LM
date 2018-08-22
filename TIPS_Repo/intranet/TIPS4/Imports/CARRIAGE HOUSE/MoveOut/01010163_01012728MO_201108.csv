@@ -1,0 +1,5 @@
+BATCH,,201108,B,1564.0000,
+INVOICE,IN,,01010163,,08/01/2011,510.0000,"Invoice-Private",,08/01/2011,08/01/2011,,01012728MO,-544.0000,,,,,,,,,,
+TRANSACTION,3020,010101010,15,34.0000,510.00,"Basic Service Fee - Second Resident for Aug: Humphrey, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,01010163,,08/01/2011,1054,"Invoice-Private",,08/01/2011,08/01/2011,,01012728MO,-544.0000,,,,,,,,,,
+TRANSACTION,3020,010101010,1,1054,1054,"CR:Basic Service F... B.Humphrey 201108: Humphrey, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,5278.3000,
+INVOICE,IN,,10010231,,11/01/2012,5278.3000,"November_Rent-Allen. Judy",,11/01/2012,11/10/2012,,10013968,5978.4100,,,,,,,,,,
+TRANSACTION,3010,010104100,30,75.0000,2250,"Basic Service Fee - Studio: Allen. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,30,100.1100,3003.3,"Resident Care - Level 6 + 9 points: Allen. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Allen. Judy",,,,,,,,,,,,,,,

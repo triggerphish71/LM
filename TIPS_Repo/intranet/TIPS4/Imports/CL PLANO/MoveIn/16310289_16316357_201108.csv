@@ -1,0 +1,5 @@
+BATCH,,201108,B,3995.0000,
+INVOICE,IN,,16310289,,08/01/2011,3995.0000,"August_Rent-Wileman. Bob",,08/01/2011,08/10/2011,,16316357,5906.0000,,,,,,,,,,
+TRANSACTION,3010,010202163,31,104.0000,3224,"Basic Service Fee - Studio Deluxe: Wileman. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202163,31,24.0000,744,"Resident Care - Level 2: Wileman. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27,"Monthly Cable: Wileman. Bob",,,,,,,,,,,,,,,

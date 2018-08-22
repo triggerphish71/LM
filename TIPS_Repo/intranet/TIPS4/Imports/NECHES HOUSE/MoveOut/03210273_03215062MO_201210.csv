@@ -1,0 +1,8 @@
+BATCH,,201210,B,6485.0000,
+INVOICE,IN,,03210273,,10/01/2012,1928.0000,"Invoice-Private",,10/01/2012,10/10/2012,,03215062MO,-2629.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,899.0000,899.00,"CR:Limited Term Di... J.Kay 201210: Kay, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,7,94.0000,658.00,"Basic Service Fee - Studio for Oct: Kay, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,7,53.0000,371.00,"Resident Care - Level 4 for Oct: Kay, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03210273,,10/01/2012,4557,"Invoice-Private",,10/01/2012,10/10/2012,,03215062MO,-2629.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... J.Kay 201210: Kay, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1643,1643,"CR:Resident Care -... J.Kay 201210: Kay, John",,,,,,,,,,,,,,,

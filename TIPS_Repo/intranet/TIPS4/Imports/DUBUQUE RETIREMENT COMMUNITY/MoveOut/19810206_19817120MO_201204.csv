@@ -1,0 +1,7 @@
+BATCH,,201204,B,130.0000,
+INVOICE,IN,,19810206,,04/01/2012,65.0000,"Invoice-Private",,04/01/2012,04/10/2012,,19817120MO,-1770.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Brimeyer, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35.0000,35.00,"Pendant Fee: Brimeyer, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,19810206,,04/01/2012,65,"Invoice-Private",,04/01/2012,04/10/2012,,19817120MO,-1770.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Brimeyer, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"Credit for Pendant Fee: Brimeyer, Willard",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,7380.0000,
+INVOICE,IN,,06610156,,08/27/2011,3567.0000,"Invoice-Private",,08/27/2011,08/27/2011,,06614157MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,29,123.0000,3567.00,"Basic Service Fee - One Bedroom for Aug: Bruner, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,06610156,,08/27/2011,3813,"Invoice-Private",,08/27/2011,08/27/2011,,06614157MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3813,3813,"CR:Basic Service F... G.Bruner 201108: Bruner, Geneva",,,,,,,,,,,,,,,

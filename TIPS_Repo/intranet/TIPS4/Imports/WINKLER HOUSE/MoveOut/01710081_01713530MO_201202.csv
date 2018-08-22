@@ -1,0 +1,8 @@
+BATCH,,201202,B,5347.0000,
+INVOICE,IN,,01710081,,02/01/2012,1463.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01713530MO,-2421.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,11,93.0000,1023.00,"Basic Service Fee - Studio for Feb: Bassett, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,11,40.0000,440.00,"Resident Care - Level 3 for Feb: Bassett, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,01710081,,02/01/2012,3884,"Invoice-Private",,02/01/2012,02/10/2012,,01713530MO,-2421.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2697,2697,"CR:Basic Service F... A.Bassett 201202: Bassett, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... A.Bassett 201202: Bassett, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,1160,1160,"CR:Resident Care -... A.Bassett 201202: Bassett, Agnes",,,,,,,,,,,,,,,

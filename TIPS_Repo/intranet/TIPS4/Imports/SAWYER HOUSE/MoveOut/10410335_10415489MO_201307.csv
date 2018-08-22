@@ -1,0 +1,8 @@
+BATCH,,201307,B,10410.0000,
+INVOICE,IN,,10410335,,07/25/2013,3574.2500,"Invoice-Private",,07/25/2013,07/25/2013,,10415489MO,-9779.2500,,,,,,,,,,
+TRANSACTION,3020,010101104,17,90.0000,1530.00,"Basic Service Fee - Studio for Jul: Alberto, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,17,120.2500,2044.25,"Resident Care - Level 65 for Jul: Alberto, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,10410335,,07/25/2013,6835.75,"Invoice-Private",,07/25/2013,07/25/2013,,10415489MO,-9779.2500,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2070,2070,"CR:Basic Service F... M.Alberto 201307: Alberto, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000,2000,"CR:New Resident Fe... M.Alberto 201307: Alberto, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,2765.75,2765.75,"CR:Resident Care -... M.Alberto 201307: Alberto, Margaret",,,,,,,,,,,,,,,

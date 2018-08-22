@@ -1,0 +1,6 @@
+BATCH,,201303,B,6126.0000,
+INVOICE,IN,,16310268,,03/01/2013,2782.0000,"Invoice-Private",,03/01/2013,03/10/2013,,16317079MO,-3799.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,26,107.0000,2782.00,"Basic Service Fee - Studio Deluxe for Mar: Douglas, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,16310268,,03/01/2013,3344,"Invoice-Private",,03/01/2013,03/10/2013,,16317079MO,-3799.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3317,3317,"CR:Basic Service F... L.Douglas 201303: Douglas, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... L.Douglas 201303: Douglas, Lois",,,,,,,,,,,,,,,

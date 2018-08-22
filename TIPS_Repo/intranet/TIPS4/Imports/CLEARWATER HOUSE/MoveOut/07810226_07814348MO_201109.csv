@@ -1,0 +1,8 @@
+BATCH,,201109,B,6373.0000,
+INVOICE,IN,,07810226,,09/02/2011,2208.0000,"Invoice-Private",,09/02/2011,09/02/2011,,07814348MO,-1957.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,16,95.0000,1520.00,"Basic Service Fee - Deluxe for Sep: Farber, Amelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,16,43.0000,688.00,"Resident Care - Level 3 for Sep: Farber, Amelia",,,,,,,,,,,,,,,
+INVOICE,CM,,07810226,,09/02/2011,4165,"Invoice-Private",,09/02/2011,09/02/2011,,07814348MO,-1957.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2850,2850,"CR:Basic Service F... A.Farber 201109: Farber, Amelia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... A.Farber 201109: Farber, Amelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1290,1290,"CR:Resident Care -... A.Farber 201109: Farber, Amelia",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,5029.0000,
+INVOICE,IN,,16810327,,10/16/2012,1712.0000,"Invoice-Private",,10/16/2012,10/16/2012,,16816997MO,-4425.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,16,94.0000,1504.00,"Basic Service Fee - Studio Deluxe for Oct: Watson, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,16,13.0000,208.00,"Resident Care - Level 1 for Oct: Watson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,16810327,,10/16/2012,3317,"Invoice-Private",,10/16/2012,10/16/2012,,16816997MO,-4425.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2914,2914,"CR:Basic Service F... J.Watson 201210: Watson, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... J.Watson 201210: Watson, James",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,1512.4000,
+INVOICE,IN,,00910154,,09/25/2011,1512.4000,"MoveIn-Fox. Joan",,09/25/2011,09/25/2011,,00913438,4159.8000,,,,,,,,,,
+TRANSACTION,3010,010101009,6,82.0000,492,"Basic Service Fee - Studio         : Fox. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,6,3.4000,20.4,"Resident Care - Level 2: Fox. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Fox. Joan",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,5900.0000,
+INVOICE,IN,,04810289,,03/09/2013,2242.0000,"Invoice-Private",,03/09/2013,03/09/2013,,04814980MO,-4956.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,19,103.0000,1957.00,"Basic Service Fee - Studio for Mar: West, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,19,15.0000,285.00,"Resident Care - Level 1 for Mar: West, Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,04810289,,03/09/2013,3658,"Invoice-Private",,03/09/2013,03/09/2013,,04814980MO,-4956.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3193,3193,"CR:Basic Service F... J.West 201303: West, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,465,465,"CR:Resident Care -... J.West 201303: West, Judy",,,,,,,,,,,,,,,

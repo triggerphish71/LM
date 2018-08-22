@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,16710202,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,16713690MO,-3471.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Seitsinger, Jay",,,,,,,,,,,,,,,
+INVOICE,CM,,16710202,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,16713690MO,-3471.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Seitsinger, Jay",,,,,,,,,,,,,,,

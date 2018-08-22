@@ -1,0 +1,7 @@
+BATCH,,201210,B,5840.0000,
+INVOICE,IN,,09310177,,10/01/2012,1314.0000,"Invoice-Private",,10/01/2012,10/10/2012,,09315482MO,-3212.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,9,113.0000,1017.00,"Basic Service Fee - Deluxe for Oct: Dinehart, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,9,33.0000,297.00,"Resident Care - Level 2 for Oct: Dinehart, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,09310177,,10/01/2012,4526,"Invoice-Private",,10/01/2012,10/10/2012,,09315482MO,-3212.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3503,3503,"CR:Basic Service F... A.Dinehart 201210: Dinehart, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1023,1023,"CR:Resident Care -... A.Dinehart 201210: Dinehart, Audrey",,,,,,,,,,,,,,,

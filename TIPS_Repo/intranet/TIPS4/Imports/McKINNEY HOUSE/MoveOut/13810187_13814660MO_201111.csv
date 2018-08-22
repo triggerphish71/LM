@@ -1,0 +1,5 @@
+BATCH,,201111,B,2580.0000,
+INVOICE,IN,,13810187,,11/01/2011,1290.0000,"Invoice-Private",,11/01/2011,11/10/2011,,13814660MO,-2633.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,43.0000,1290.00,"Credit for Limited Term Discount: Thompson, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13810187,,11/01/2011,1290,"Invoice-Private",,11/01/2011,11/10/2011,,13814660MO,-2633.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,43,1290,"Limited Term Discount: Thompson, Betty",,,,,,,,,,,,,,,

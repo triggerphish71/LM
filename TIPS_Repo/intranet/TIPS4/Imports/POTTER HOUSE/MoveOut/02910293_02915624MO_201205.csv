@@ -1,0 +1,7 @@
+BATCH,,201205,B,8880.0000,
+INVOICE,IN,,02910293,,05/29/2012,4292.0000,"Invoice-Private",,05/29/2012,05/29/2012,,02915624MO,-4736.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,29,116.0000,3364.00,"Basic Service Fee - One Bedroom for May: Shaffer, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,29,32.0000,928.00,"Resident Care - Level 2 for May: Shaffer, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910293,,05/29/2012,4588,"Invoice-Private",,05/29/2012,05/29/2012,,02915624MO,-4736.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3596,3596,"CR:Basic Service F... M.Shaffer 201205: Shaffer, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,992,992,"CR:Resident Care -... M.Shaffer 201205: Shaffer, Margie",,,,,,,,,,,,,,,

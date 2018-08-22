@@ -1,0 +1,7 @@
+BATCH,,201207,B,7761.0000,
+INVOICE,IN,,15010148,,07/08/2012,1592.0000,"Invoice-Private",,07/08/2012,07/08/2012,,15014517MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,8,118.0000,944.00,"Basic Service Fee - One Bedroom for Jul: Book, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,8,81.0000,648.00,"Resident Care - Level 6 for Jul: Book, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15010148,,07/08/2012,6169,"Invoice-Private",,07/08/2012,07/08/2012,,15014517MO,-4577.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,3658,3658,"CR:Basic Service F... M.Book 201207: Book, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,1,2511,2511,"CR:Resident Care -... M.Book 201207: Book, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201201,B,4545.0000,
+INVOICE,IN,,53410154,,01/04/2012,516.0000,"Invoice-Private",,01/04/2012,01/04/2012,,53420261MO,-3513.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,4,76.0000,304.00,"Basic Service Fee - One Bedroom for Jan: Kielsmeier, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,4,53.0000,212.00,"Resident Care - Level 2 for Jan: Kielsmeier, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,53410154,,01/04/2012,4029,"Invoice-Private",,01/04/2012,01/04/2012,,53420261MO,-3513.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2356,2356,"CR:Basic Service F... L.Kielsmeier 201201: Kielsmeier, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... L.Kielsmeier 201201: Kielsmeier, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1643,1643,"CR:Resident Care -... L.Kielsmeier 201201: Kielsmeier, Lucille",,,,,,,,,,,,,,,

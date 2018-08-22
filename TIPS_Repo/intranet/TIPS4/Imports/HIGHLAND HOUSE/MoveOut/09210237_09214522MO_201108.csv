@@ -1,0 +1,7 @@
+BATCH,,201108,B,7535.0000,
+INVOICE,IN,,09210237,,08/04/2011,3288.0000,"Invoice-Private",,08/04/2011,08/04/2011,,09214522MO,-959.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,24,89.0000,2136.00,"M.Gallimore: Basic Service Fee - Deluxe for Aug: Gallimore, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,24,48.0000,1152.00,"M.Gallimore: Resident Care - Level 3 for Aug: Gallimore, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,09210237,,08/04/2011,4247,"Invoice-Private",,08/04/2011,08/04/2011,,09214522MO,-959.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2759,2759,"CR:M.Gallimore: Ba... M.Gallimore 201108: Gallimore, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,1488,1488,"CR:M.Gallimore: Re... M.Gallimore 201108: Gallimore, Margaret",,,,,,,,,,,,,,,

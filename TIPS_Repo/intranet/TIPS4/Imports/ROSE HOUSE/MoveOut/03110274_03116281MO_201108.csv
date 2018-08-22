@@ -1,0 +1,6 @@
+BATCH,,201108,B,3901.0000,
+INVOICE,CM,,03110274,,08/01/2011,3901,"Invoice-Private",,08/01/2011,08/10/2011,,03116281MO,-5322.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2945,2945,"CR:Basic Service F... R.Lohmann 201108: Lohmann, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... R.Lohmann 201108: Lohmann, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"CR:Pendant Fee... R.Lohmann 201108: Lohmann, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,899,899,"CR:Resident Care -... R.Lohmann 201108: Lohmann, Rose",,,,,,,,,,,,,,,

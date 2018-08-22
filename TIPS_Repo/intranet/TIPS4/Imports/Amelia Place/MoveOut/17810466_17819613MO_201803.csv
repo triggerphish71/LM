@@ -1,0 +1,8 @@
+BATCH,,201803,B,3957.0000,
+INVOICE,IN,,17810466,,03/29/2018,168.0000,"Invoice-Private",,03/29/2018,03/29/2018,,17819613MO,671.0000,,,,,,,,,,
+TRANSACTION,3017,010012178,8,21.0000,168.00,"Level: 0  to  Level: 1  - on 02/21: Moore, Betty",,,,,,,,,,,,,,,
+INVOICE,IN,,17810466,,03/29/2018,2146.0000,"Invoice-Private",,03/29/2018,03/29/2018,,17819613MO,671.0000,,,,,,,,,,
+TRANSACTION,3017,010012178,29,21.0000,609.00," Level: 1 : Moore, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012178,29,53.0000,1537.00,"Basic Service Fee - Studio  for Mar: Moore, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,17810466,,03/29/2018,1643,"Invoice-Private",,03/29/2018,03/29/2018,,17819613MO,671.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,1,1643,1643,"CR:Basic Service F... B.Moore 201803: Moore, Betty",,,,,,,,,,,,,,,

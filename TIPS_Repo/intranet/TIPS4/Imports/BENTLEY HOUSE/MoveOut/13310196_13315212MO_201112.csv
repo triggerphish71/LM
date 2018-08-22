@@ -1,0 +1,8 @@
+BATCH,,201112,B,5653.0000,
+INVOICE,IN,,13310196,,12/16/2011,2332.0000,"Invoice-Private",,12/16/2011,12/16/2011,,13315212MO,-4403.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,22,89.0000,1958.00,"Basic Service Fee - Studio for Dec: Archer, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,22,17.0000,374.00,"Resident Care - Level 1 for Dec: Archer, Iris",,,,,,,,,,,,,,,
+INVOICE,CM,,13310196,,12/16/2011,3321,"Invoice-Private",,12/16/2011,12/16/2011,,13315212MO,-4403.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2759,2759,"CR:Basic Service F... I.Archer 201112: Archer, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... I.Archer 201112: Archer, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,527,527,"CR:Resident Care -... I.Archer 201112: Archer, Iris",,,,,,,,,,,,,,,

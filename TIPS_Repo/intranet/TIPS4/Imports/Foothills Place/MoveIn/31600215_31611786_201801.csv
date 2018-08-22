@@ -1,0 +1,6 @@
+BATCH,,201801,B,8905.0000,
+INVOICE,IN,,31600215,,01/04/2018,8905.0000,"MoveIn-Friend. Elise",,01/04/2018,01/04/2018,,31611786,8905.0000,,,,,,,,,,
+TRANSACTION,3010,070007316,28,100.0000,2800,"Studio: Friend. Elise",,,,,,,,,,,,,,,
+TRANSACTION,3216,070007316,1,3040.0000,3040,"Community Fee: Friend. Elise",,,,,,,,,,,,,,,
+TRANSACTION,3260,070007316,1,25.0000,25,"Monthly Cable: Friend. Elise",,,,,,,,,,,,,,,
+TRANSACTION,3216,070007316,1,3040.0000,3040,"Monthly Deferral Charge: Friend. Elise",,,,,,,,,,,,,,,

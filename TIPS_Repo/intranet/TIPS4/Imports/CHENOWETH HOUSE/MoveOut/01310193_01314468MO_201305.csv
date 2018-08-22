@@ -1,0 +1,7 @@
+BATCH,,201305,B,3132.0000,
+INVOICE,IN,,01310193,,05/22/2013,1513.8000,"Invoice-Private",,05/22/2013,05/22/2013,,01314468MO,-3779.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,29,30.0000,870.00,"Basic Service Fee - Studio for May: Bosquet, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,29,22.2000,643.80,"Resident Care - Level 12 for May: Bosquet, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,01310193,,05/22/2013,1618.2,"Invoice-Private",,05/22/2013,05/22/2013,,01314468MO,-3779.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,930,930,"CR:Basic Service F... J.Bosquet 201305: Bosquet, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,688.2,688.2,"CR:Resident Care -... J.Bosquet 201305: Bosquet, Jackie",,,,,,,,,,,,,,,

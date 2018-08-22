@@ -1,0 +1,5 @@
+BATCH,,201106,B,5024.0000,
+INVOICE,IN,,12610234,,06/03/2011,5024.0000,"MoveIn-Eklund. Clarice",,06/03/2011,06/03/2011,,12614693,5024.0000,,,,,,,,,,
+TRANSACTION,3010,010211126,28,90.0000,2520,"Basic Service Fee - Studio         : Eklund. Clarice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211126,28,18.0000,504,"Resident Care - Level 1: Eklund. Clarice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211126,1,2000.0000,2000,"New Resident Fee: Eklund. Clarice",,,,,,,,,,,,,,,

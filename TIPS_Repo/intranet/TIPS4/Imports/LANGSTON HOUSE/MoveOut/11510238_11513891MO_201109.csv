@@ -1,0 +1,5 @@
+BATCH,,201109,B,1410.0000,
+INVOICE,IN,,11510238,,09/17/2011,510.0000,"Invoice-Private",,09/17/2011,09/17/2011,,11513891MO,-390.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,17,30.0000,510.00,"Basic Service Fee - Second Resident for Sep: Harris, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,11510238,,09/17/2011,900,"Invoice-Private",,09/17/2011,09/17/2011,,11513891MO,-390.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,900,900,"CR:Basic Service F... F.Harris 201109: Harris, Fred",,,,,,,,,,,,,,,

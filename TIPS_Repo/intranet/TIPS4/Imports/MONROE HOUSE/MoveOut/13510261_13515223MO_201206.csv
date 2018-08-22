@@ -1,0 +1,8 @@
+BATCH,,201206,B,4414.0000,
+INVOICE,IN,,13510261,,06/02/2012,274.0000,"Invoice-Private",,06/02/2012,06/02/2012,,13515223MO,-3866.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,2,90.0000,180.00,"Basic Service Fee - Studio for Jun: Binkley, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,2,47.0000,94.00,"Resident Care - Level 3 for Jun: Binkley, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510261,,06/02/2012,4140,"Invoice-Private",,06/02/2012,06/02/2012,,13515223MO,-3866.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... H.Binkley 201206: Binkley, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Binkley 201206: Binkley, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,1410,1410,"CR:Resident Care -... H.Binkley 201206: Binkley, Helen",,,,,,,,,,,,,,,

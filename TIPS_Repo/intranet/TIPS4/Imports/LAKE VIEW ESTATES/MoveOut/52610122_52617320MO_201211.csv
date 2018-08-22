@@ -1,0 +1,5 @@
+BATCH,,201211,B,3090.0000,
+INVOICE,CM,,52610122,,11/01/2012,3090,"Invoice-Private",,11/01/2012,11/10/2012,,52617320MO,-4242.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... O.Freischmidt 201211: Freischmidt, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1140,1140,"CR:Resident Care -... O.Freischmidt 201211: Freischmidt, Olive",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,1,1920,1920,"CR:Room and Board ... O.Freischmidt 201211: Freischmidt, Olive",,,,,,,,,,,,,,,

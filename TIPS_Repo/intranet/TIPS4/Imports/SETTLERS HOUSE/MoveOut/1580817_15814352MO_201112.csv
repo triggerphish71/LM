@@ -1,0 +1,7 @@
+BATCH,,201112,B,8400.0000,
+INVOICE,IN,,1580817,,12/12/2011,2975.0000,"Invoice-Private",,12/12/2011,12/12/2011,,15814352MO,-7937.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,17,92.0000,1564.00,"Basic Service Fee - Studio for Dec: Clark, Janette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,17,83.0000,1411.00,"Resident Care - Level 6 for Dec: Clark, Janette",,,,,,,,,,,,,,,
+INVOICE,CM,,1580817,,12/12/2011,5425,"Invoice-Private",,12/12/2011,12/12/2011,,15814352MO,-7937.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2852,2852,"CR:Basic Service F... J.Clark 201112: Clark, Janette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,2573,2573,"CR:Resident Care -... J.Clark 201112: Clark, Janette",,,,,,,,,,,,,,,

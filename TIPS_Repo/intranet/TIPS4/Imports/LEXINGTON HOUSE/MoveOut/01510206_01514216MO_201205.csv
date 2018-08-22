@@ -1,0 +1,5 @@
+BATCH,,201205,B,1798.0000,
+INVOICE,IN,,01510206,,05/01/2012,899.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01514216MO,-1317.8400,,,,,,,,,,
+TRANSACTION,3320,010103015,31,29.0000,899.00,"Credit for Limited Term Discount: Johnson, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,01510206,,05/01/2012,899,"Invoice-Private",,05/01/2012,05/10/2012,,01514216MO,-1317.8400,,,,,,,,,,
+TRANSACTION,3320,010103015,31,29,899,"Limited Term Discount: Johnson, Mabel",,,,,,,,,,,,,,,

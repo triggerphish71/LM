@@ -1,0 +1,6 @@
+BATCH,,201201,B,2175.0000,
+INVOICE,IN,,13610257,,01/03/2012,440.0000,"Invoice-Private",,01/03/2012,01/03/2012,,13614441MO,-1295.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,8,55.0000,440.00,"Basic Service Fee - Studio for Jan: Land, Miriam",,,,,,,,,,,,,,,
+INVOICE,CM,,13610257,,01/03/2012,1735,"Invoice-Private",,01/03/2012,01/03/2012,,13614441MO,-1295.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1705,1705,"CR:Basic Service F... M.Land 201201: Land, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"CR:Pendant Fee... M.Land 201201: Land, Miriam",,,,,,,,,,,,,,,

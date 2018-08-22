@@ -1,0 +1,5 @@
+BATCH,,201207,B,3223.0000,
+INVOICE,CM,,50110254,,07/01/2012,3223,"Invoice-Private",,07/01/2012,07/10/2012,,50114198MO,-4180.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... R.Moody 201207: Moody, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... R.Moody 201207: Moody, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,465,465,"CR:Resident Care -... R.Moody 201207: Moody, Ralph",,,,,,,,,,,,,,,

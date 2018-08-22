@@ -1,0 +1,7 @@
+BATCH,,201105,B,4522.0000,
+INVOICE,IN,,11210261,,05/05/2011,833.0000,"Invoice-Private",,05/05/2011,05/05/2011,,11215471MO,-2856.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,7,100.0000,700.00,"Basic Service Fee- Studio Premium for May: Stiver, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,7,19.0000,133.00,"Resident Care - Level 1 for May: Stiver, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,11210261,,05/05/2011,3689,"Invoice-Private",,05/05/2011,05/05/2011,,11215471MO,-2856.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3100,3100,"CR:Basic Service F... H.Stiver 201105: Stiver, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,589,589,"CR:Resident Care -... H.Stiver 201105: Stiver, Harry",,,,,,,,,,,,,,,

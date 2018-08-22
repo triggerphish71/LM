@@ -1,0 +1,5 @@
+BATCH,,201304,B,3991.0000,
+INVOICE,IN,,00810272,,04/09/2013,3991.0000,"MoveIn-Brown. James",,04/09/2013,04/09/2013,,00815054,3991.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,22,112.0000,2464,"Basic Service Fee - One Bedroom: Brown. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Brown. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Brown. James",,,,,,,,,,,,,,,

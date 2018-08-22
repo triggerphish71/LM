@@ -1,0 +1,5 @@
+BATCH,,201301,B,2121.5000,
+INVOICE,IN,,00910210,,01/19/2013,2121.5000,"MoveIn-Cramblett. Ethella",,01/19/2013,01/19/2013,,00913892,5075.5000,,,,,,,,,,
+TRANSACTION,3010,010101009,13,87.0000,1131,"Basic Service Fee - Studio: Cramblett. Ethella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,13,18.5000,240.5,"Resident Care - Level 10: Cramblett. Ethella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,750.0000,750,"New Resident Fee: Cramblett. Ethella",,,,,,,,,,,,,,,

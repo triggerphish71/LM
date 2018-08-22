@@ -1,0 +1,7 @@
+BATCH,,201205,B,4788.0000,
+INVOICE,IN,,20610235,,05/01/2012,665.0000,"Invoice-Private",,05/01/2012,05/10/2012,,20612671MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,5,42.0000,210.00,"Resident Care - Level 4 for May: Tull, Willis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,5,91.0000,455.00,"Studio for May: Tull, Willis",,,,,,,,,,,,,,,
+INVOICE,CM,,20610235,,05/01/2012,4123,"Invoice-Private",,05/01/2012,05/10/2012,,20612671MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,1302,1302,"CR:Resident Care -... W.Tull 201205: Tull, Willis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... W.Tull 201205: Tull, Willis",,,,,,,,,,,,,,,

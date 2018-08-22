@@ -1,0 +1,8 @@
+BATCH,,201301,B,6585.0000,
+INVOICE,IN,,51310214,,01/01/2013,2772.0000,"Invoice-Private",,01/01/2013,01/10/2013,,51314254MO,-1041.0000,,,,,,,,,,
+TRANSACTION,3320,010310513,1,558.0000,558.00,"CR:Limited Term Di... J.Devlin 201301: Devlin, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,18,108.0000,1944.00,"Basic Service Fee- Studio for Jan: Devlin, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,18,15.0000,270.00,"Resident Care - Level 1 for Jan: Devlin, John",,,,,,,,,,,,,,,
+INVOICE,CM,,51310214,,01/01/2013,3813,"Invoice-Private",,01/01/2013,01/10/2013,,51314254MO,-1041.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3348,3348,"CR:Basic Service F... J.Devlin 201301: Devlin, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,465,465,"CR:Resident Care -... J.Devlin 201301: Devlin, John",,,,,,,,,,,,,,,

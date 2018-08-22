@@ -1,0 +1,6 @@
+BATCH,,201211,B,3540.0000,
+INVOICE,IN,,04210201,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,04214009MO,-4750.0000,,,,,,,,,,
+TRANSACTION,3320,010202042,1,60.0000,60.00,"CR:Limited Term Di... J.Glover 201211: Glover, Jimmie",,,,,,,,,,,,,,,
+INVOICE,CM,,04210201,,11/01/2012,3480,"Invoice-Private",,11/01/2012,11/10/2012,,04214009MO,-4750.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2970,2970,"CR:Basic Service F... J.Glover 201211: Glover, Jimmie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,510,510,"CR:Resident Care -... J.Glover 201211: Glover, Jimmie",,,,,,,,,,,,,,,

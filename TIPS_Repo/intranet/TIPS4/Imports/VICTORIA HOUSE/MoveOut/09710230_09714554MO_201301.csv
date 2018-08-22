@@ -1,0 +1,5 @@
+BATCH,,201301,B,2294.0000,
+INVOICE,IN,,09710230,,01/01/2013,1147.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09714554MO,-1115.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,31,37.0000,1147.00,"Credit for Limited Term Discount: Arnold, Margery",,,,,,,,,,,,,,,
+INVOICE,CM,,09710230,,01/01/2013,1147,"Invoice-Private",,01/01/2013,01/10/2013,,09714554MO,-1115.0000,,,,,,,,,,
+TRANSACTION,3320,010103097,31,37,1147,"Limited Term Discount: Arnold, Margery",,,,,,,,,,,,,,,

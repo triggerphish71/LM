@@ -1,0 +1,5 @@
+BATCH,,201205,B,4329.0000,
+INVOICE,IN,,53310254,,05/14/2012,4329.0000,"MoveIn-Small. Jean",,05/14/2012,05/14/2012,,53314606,8194.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,18,128.0000,2304,"Basic Service Fee- Two Bedroom Prem: Small. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Small. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319533,1,2000.0000,2000,"New Resident Fee: Small. Jean",,,,,,,,,,,,,,,

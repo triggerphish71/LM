@@ -1,0 +1,8 @@
+BATCH,,201303,B,4090.0000,
+INVOICE,IN,,53510205,,03/01/2013,464.0000,"Invoice-Private",,03/01/2013,03/10/2013,,53515186MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,4,99.0000,396.00,"Basic Service Fee - One Bedroom for Mar: Schmidt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,4,17.0000,68.00,"Resident Care - Level 1 for Mar: Schmidt, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,53510205,,03/01/2013,3626,"Invoice-Private",,03/01/2013,03/10/2013,,53515186MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3069,3069,"CR:Basic Service F... V.Schmidt 201303: Schmidt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... V.Schmidt 201303: Schmidt, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,527,527,"CR:Resident Care -... V.Schmidt 201303: Schmidt, Virginia",,,,,,,,,,,,,,,

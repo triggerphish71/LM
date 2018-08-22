@@ -1,0 +1,5 @@
+BATCH,,201201,B,60.0000,
+INVOICE,IN,,15910190,,01/01/2012,30.0000,"Invoice-Private",,01/01/2012,01/10/2012,,15914551MO,-1757.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Clemsen, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,15910190,,01/01/2012,30,"Invoice-Private",,01/01/2012,01/10/2012,,15914551MO,-1757.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Clemsen, Virgil",,,,,,,,,,,,,,,

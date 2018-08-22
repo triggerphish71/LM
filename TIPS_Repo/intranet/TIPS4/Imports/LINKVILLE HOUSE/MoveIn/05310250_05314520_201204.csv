@@ -1,0 +1,6 @@
+BATCH,,201204,B,5214.0600,
+INVOICE,IN,,05310250,,04/10/2012,5214.0600,"MoveIn-Lewis. Eugene",,04/10/2012,04/10/2012,,05314520,5214.0600,,,,,,,,,,
+TRANSACTION,3010,010101053,21,91.0000,1911,"E.Lewis: Basic Service Fee - Studio: Lewis. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,21,60.8600,1278.06,"E.Lewis: Resident Care - Level 34: Lewis. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Lewis. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Lewis. Eugene",,,,,,,,,,,,,,,

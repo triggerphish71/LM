@@ -1,0 +1,8 @@
+BATCH,,201109,B,6927.0000,
+INVOICE,IN,,19310200,,09/12/2011,2397.0000,"Invoice-Private",,09/12/2011,09/12/2011,,19314906MO,-6814.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,17,72.0000,1224.00,"Basic Service Fee - Studio for Sep: Burge, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,17,69.0000,1173.00,"Resident Care - Level 5 for Sep: Burge, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,19310200,,09/12/2011,4530,"Invoice-Private",,09/12/2011,09/12/2011,,19314906MO,-6814.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2160,2160,"CR:Basic Service F... M.Burge 201109: Burge, Marian",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... M.Burge 201109: Burge, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,2070,2070,"CR:Resident Care -... M.Burge 201109: Burge, Marian",,,,,,,,,,,,,,,

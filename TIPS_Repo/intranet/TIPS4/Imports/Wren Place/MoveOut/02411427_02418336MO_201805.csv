@@ -1,0 +1,8 @@
+BATCH,,201805,B,6443.0000,
+INVOICE,IN,,02411427,,05/12/2018,2227.0000,"Invoice-Private",,05/12/2018,05/12/2018,,02418336MO,-1989.0000,,,,,,,,,,
+TRANSACTION,3017,010002024,4,36.0000,144.00,"Level: 1 : George, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002024,11,53.0000,583.00," Level: 2 : George, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,15,100.0000,1500.00,"Basic Service Fee - Studio  for May: George, Laverne",,,,,,,,,,,,,,,
+INVOICE,CM,,02411427,,05/12/2018,4216,"Invoice-Private",,05/12/2018,05/12/2018,,02418336MO,-1989.0000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,3100,3100,"CR:Basic Service F... L.George 201805: George, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,1116,1116,"CR:Resident Care -... L.George 201805: George, Laverne",,,,,,,,,,,,,,,

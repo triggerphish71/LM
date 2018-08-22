@@ -1,0 +1,8 @@
+BATCH,,201206,B,10137.0000,
+INVOICE,IN,,17410213,,06/08/2012,4467.0000,"Invoice-Private",,06/08/2012,06/08/2012,,17414336MO,-6938.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,120.0000,120.00,"CR:Limited Term Di... R.Thompson 201206: Thompson, R",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,23,112.0000,2576.00,"Basic Service Fee - One Bedroom for Jun: Thompson, R",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,23,77.0000,1771.00,"Resident Care - Level 6 for Jun: Thompson, R",,,,,,,,,,,,,,,
+INVOICE,CM,,17410213,,06/08/2012,5670,"Invoice-Private",,06/08/2012,06/08/2012,,17414336MO,-6938.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,3360,3360,"CR:Basic Service F... R.Thompson 201206: Thompson, R",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,2310,2310,"CR:Resident Care -... R.Thompson 201206: Thompson, R",,,,,,,,,,,,,,,

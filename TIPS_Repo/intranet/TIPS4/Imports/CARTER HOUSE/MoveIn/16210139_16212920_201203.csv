@@ -1,0 +1,5 @@
+BATCH,,201203,B,1688.0000,
+INVOICE,IN,,16210139,,03/30/2012,1688.0000,"MoveIn-Roerick. Lilly",,03/30/2012,03/30/2012,,16212920,4508.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,2,66.0000,132,"Basic Service Fee - Studio: Roerick. Lilly",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,2,28.0000,56,"Resident Care - Level 2: Roerick. Lilly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Roerick. Lilly",,,,,,,,,,,,,,,

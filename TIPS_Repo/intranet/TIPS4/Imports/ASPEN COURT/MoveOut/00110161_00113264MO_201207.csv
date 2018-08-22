@@ -1,0 +1,7 @@
+BATCH,,201207,B,174.0000,
+INVOICE,IN,,00110161,,07/01/2012,87.0000,"Invoice-Private",,07/01/2012,07/10/2012,,00113264MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25.00,"Monthly Cable: Folkestad, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101001,31,2.0000,62.00,"Credit for Limited Term Discount: Folkestad, Elmer",,,,,,,,,,,,,,,
+INVOICE,CM,,00110161,,07/01/2012,87,"Invoice-Private",,07/01/2012,07/10/2012,,00113264MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"Credit for Monthly Cable: Folkestad, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101001,31,2,62,"Limited Term Discount: Folkestad, Elmer",,,,,,,,,,,,,,,

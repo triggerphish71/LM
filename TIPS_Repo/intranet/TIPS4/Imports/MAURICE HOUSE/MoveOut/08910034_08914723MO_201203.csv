@@ -1,0 +1,8 @@
+BATCH,,201203,B,3648.6100,
+INVOICE,IN,,08910034,,03/24/2012,754.5600,"Invoice-Medicaid",,03/24/2012,03/24/2012,,08914723MO,-4963.5400,,,,,,,,,,
+TRANSACTION,3021,010306089,24,8.0800,193.92,"Medicaid Co-Pay for Mar: Hewitt, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,24,23.3600,560.64,"Medicaid Room & Board for Mar: Hewitt, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,08910034,,03/24/2012,2894.05,"Invoice-Medicaid",,03/24/2012,03/24/2012,,08914723MO,-4963.5400,,,,,,,,,,
+TRANSACTION,3021,010306089,1,250.49,250.49,"CR:Medicaid Co-Pay... G.Hewitt 201203: Hewitt, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,724.05,724.05,"CR:Medicaid Room &... G.Hewitt 201203: Hewitt, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3022,010306089,1,1919.51,1919.51,"CR:State Medicaid ... G.Hewitt 201203: Hewitt, Gertrude",,,,,,,,,,,,,,,

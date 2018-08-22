@@ -1,0 +1,7 @@
+BATCH,,201201,B,5922.0000,
+INVOICE,IN,,10710304,,01/05/2012,1551.0000,"Invoice-Private",,01/05/2012,01/05/2012,,10715962MO,-2820.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,11,98.0000,1078.00,"Basic Service Fee - Studio for Jan: Bonine, Marven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,11,43.0000,473.00,"Resident Care - Level 3 for Jan: Bonine, Marven",,,,,,,,,,,,,,,
+INVOICE,CM,,10710304,,01/05/2012,4371,"Invoice-Private",,01/05/2012,01/05/2012,,10715962MO,-2820.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... M.Bonine 201201: Bonine, Marven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1333,1333,"CR:Resident Care -... M.Bonine 201201: Bonine, Marven",,,,,,,,,,,,,,,

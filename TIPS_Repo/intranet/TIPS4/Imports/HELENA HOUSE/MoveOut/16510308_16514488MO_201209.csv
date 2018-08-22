@@ -1,0 +1,8 @@
+BATCH,,201209,B,6527.0000,
+INVOICE,IN,,16510308,,09/17/2012,2750.0000,"Invoice-Private",,09/17/2012,09/17/2012,,16514488MO,-4929.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,22,97.0000,2134.00,"Basic Service Fee - Studio for Sep: Gregory, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,22,28.0000,616.00,"Resident Care - Level 2 for Sep: Gregory, David",,,,,,,,,,,,,,,
+INVOICE,CM,,16510308,,09/17/2012,3777,"Invoice-Private",,09/17/2012,09/17/2012,,16514488MO,-4929.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2910,2910,"CR:Basic Service F... D.Gregory 201209: Gregory, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... D.Gregory 201209: Gregory, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,840,840,"CR:Resident Care -... D.Gregory 201209: Gregory, David",,,,,,,,,,,,,,,

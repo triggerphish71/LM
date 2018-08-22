@@ -1,0 +1,7 @@
+BATCH,,201307,B,6857.8000,
+INVOICE,IN,,01210228,,07/03/2013,605.1000,"Invoice-Private",,07/03/2013,07/03/2013,,01214425MO,-5647.6000,,,,,,,,,,
+TRANSACTION,3020,010103012,3,87.0000,261.00,"Basic Service Fee - Studio for Jul: Boggs, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,3,114.7000,344.10,"Resident Care - Level 62 for Jul: Boggs, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,01210228,,07/03/2013,6252.7,"Invoice-Private",,07/03/2013,07/03/2013,,01214425MO,-5647.6000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2697,2697,"CR:Basic Service F... G.Boggs 201307: Boggs, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,3555.7,3555.7,"CR:Resident Care -... G.Boggs 201307: Boggs, Gertrude",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,3011.0000,
+INVOICE,IN,,50310258,,12/01/2012,217.0000,"Invoice-Private",,12/01/2012,12/10/2012,,50314595MO,-3114.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,217.0000,217.00,"CR:Limited Term Di... R.Turner 201212: Turner, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,50310258,,12/01/2012,2794,"Invoice-Private",,12/01/2012,12/10/2012,,50314595MO,-3114.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... R.Turner 201212: Turner, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... R.Turner 201212: Turner, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... R.Turner 201212: Turner, Russell",,,,,,,,,,,,,,,

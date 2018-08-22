@@ -1,0 +1,8 @@
+BATCH,,201301,B,6056.6000,
+INVOICE,IN,,00910204,,01/13/2013,3206.1500,"Invoice-Private",,01/13/2013,01/13/2013,,00913870MO,355.7000,,,,,,,,,,
+TRANSACTION,3320,010101009,1,1643.0000,1643.00,"CR:Limited Term Di... H.Rose 201301: Rose, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,17,83.0000,1411.00,"Basic Service Fee - Studio for Jan: Rose, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,17,8.9500,152.15,"Resident Care - Level 5 for Jan: Rose, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,00910204,,01/13/2013,2850.45,"Invoice-Private",,01/13/2013,01/13/2013,,00913870MO,355.7000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2573,2573,"CR:Basic Service F... H.Rose 201301: Rose, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,277.45,277.45,"CR:Resident Care -... H.Rose 201301: Rose, Harold",,,,,,,,,,,,,,,

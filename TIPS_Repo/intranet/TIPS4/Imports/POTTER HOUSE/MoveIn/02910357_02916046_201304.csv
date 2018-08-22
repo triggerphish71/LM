@@ -1,0 +1,6 @@
+BATCH,,201304,B,3900.0000,
+INVOICE,IN,,02910357,,03/29/2013,900.0000,"MoveIn-Cowan. Mildred",,03/29/2013,03/29/2013,,02916046,3900.0000,,,,,,,,,,
+TRANSACTION,3014,010202029,3,100.0000,300,"M.Cowan: Basic Service Fee - Studio: Cowan. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,600.0000,600,"New Resident Fee: Cowan. Mildred",,,,,,,,,,,,,,,
+INVOICE,IN,,02910357,,04/01/2013,3000.0000,"April_Rent-Cowan. Mildred",,04/01/2013,04/10/2013,,02916046,3900.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,30,100.0000,3000,"M.Cowan: Basic Service Fee - Studio: Cowan. Mildred",,,,,,,,,,,,,,,

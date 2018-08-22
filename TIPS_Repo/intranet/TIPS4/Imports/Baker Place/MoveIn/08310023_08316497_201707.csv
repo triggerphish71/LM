@@ -1,0 +1,6 @@
+BATCH,,201707,B,3855.0000,
+INVOICE,IN,,08310023,,07/01/2017,1530.0000,"MoveIn-Bevacqua. Albina",,07/01/2017,07/01/2017,,08316497,3855.0000,,,,,,,,,,
+TRANSACTION,3014,010006083,30,51.0000,1530,"Basic Service Fee - Second Resident: Bevacqua. Albina",,,,,,,,,,,,,,,
+INVOICE,IN,,08310023,,07/01/2017,2325.0000,"MoveIn-Bevacqua. Albina",,07/01/2017,07/01/2017,,08316497,3855.0000,,,,,,,,,,
+TRANSACTION,3017,010006083,31,24.0000,744,"Resident Care - Level 1: Bevacqua. Albina",,,,,,,,,,,,,,,
+TRANSACTION,3010,010006083,31,51.0000,1581,"Basic Service Fee - Second Resident: Bevacqua. Albina",,,,,,,,,,,,,,,

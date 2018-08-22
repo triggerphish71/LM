@@ -1,0 +1,7 @@
+BATCH,,201301,B,2905.0000,
+INVOICE,IN,,15710263,,01/01/2013,332.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15714820MO,-2241.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,4,65.0000,260.00,"Basic Service Fee - Studio for Jan: Miller, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,4,18.0000,72.00,"Resident Care - Level 1 for Jan: Miller, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,15710263,,01/01/2013,2573,"Invoice-Private",,01/01/2013,01/10/2013,,15714820MO,-2241.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2015,2015,"CR:Basic Service F... G.Miller 201301: Miller, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,558,558,"CR:Resident Care -... G.Miller 201301: Miller, Gertrude",,,,,,,,,,,,,,,

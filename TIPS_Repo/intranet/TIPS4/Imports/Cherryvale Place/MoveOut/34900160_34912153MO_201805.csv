@@ -1,0 +1,8 @@
+BATCH,,201805,B,10779.3600,
+INVOICE,IN,,34900160,,05/12/2018,4183.2300,"Invoice-Private",,05/12/2018,05/12/2018,,34912153MO,-2412.9000,,,,,,,,,,
+TRANSACTION,3010,070027349,2,80.0000,160.00,"Studio - 05-03-2018: Klimo, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3010,070027349,1,1703.2258,1703.23,"Basic Service Fee - MC Studio Deluxe: Klimo, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3020,070027349,1,2320.0000,2320.00,"CR:credit Basic Se... L.Klimo 201805: Klimo, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,34900160,,05/12/2018,6596.13,"Invoice-Private",,05/12/2018,05/12/2018,,34912153MO,-2412.9000,,,,,,,,,,
+TRANSACTION,3010,070027349,1,4116.13,4116.13,"CR:Basic Service F... L.Klimo 201805: Klimo, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3020,070027349,1,2480,2480,"CR:Studio... L.Klimo 201805: Klimo, Lillian",,,,,,,,,,,,,,,

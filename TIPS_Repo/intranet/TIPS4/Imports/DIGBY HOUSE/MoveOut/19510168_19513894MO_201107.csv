@@ -1,0 +1,5 @@
+BATCH,,201107,B,558.0000,
+INVOICE,IN,,19510168,,07/01/2011,279.0000,"Invoice-Private",,07/01/2011,07/10/2011,,19513894MO,-3132.0000,,,,,,,,,,
+TRANSACTION,3312,010309195,31,9.0000,279.00,"Credit for Two Room Rental Discount: Haan, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,19510168,,07/01/2011,279,"Invoice-Private",,07/01/2011,07/10/2011,,19513894MO,-3132.0000,,,,,,,,,,
+TRANSACTION,3312,010309195,31,9,279,"Two Room Rental Discount: Haan, Charles",,,,,,,,,,,,,,,

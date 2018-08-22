@@ -1,0 +1,7 @@
+BATCH,,201206,B,5018.0000,
+INVOICE,IN,,50110250,,06/26/2012,2348.0000,"Invoice-Private",,06/26/2012,06/26/2012,,50114200MO,-3018.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,60.0000,60.00,"CR:Limited Term Di... M.Jarvis 201206: Jarvis, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,26,88.0000,2288.00,"Basic Service Fee - Studio for Jun: Jarvis, Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,50110250,,06/26/2012,2670,"Invoice-Private",,06/26/2012,06/26/2012,,50114200MO,-3018.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2640,2640,"CR:Basic Service F... M.Jarvis 201206: Jarvis, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Jarvis 201206: Jarvis, Mae",,,,,,,,,,,,,,,

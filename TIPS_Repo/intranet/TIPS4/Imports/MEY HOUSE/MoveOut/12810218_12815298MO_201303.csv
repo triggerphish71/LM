@@ -1,0 +1,8 @@
+BATCH,,201303,B,12865.0000,
+INVOICE,IN,,12810218,,03/13/2013,6206.0000,"Invoice-Private",,03/13/2013,03/13/2013,,12815298MO,-6898.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,29,133.0000,3857.00,"Basic Service Fee - One Bedroom for Mar: Decencio, Dominic",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,29,81.0000,2349.00,"Swan Personal Care - L5 for Mar: Decencio, Dominic",,,,,,,,,,,,,,,
+INVOICE,CM,,12810218,,03/13/2013,6659,"Invoice-Private",,03/13/2013,03/13/2013,,12815298MO,-6898.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,4123,4123,"CR:Basic Service F... D.Decencio 201303: Decencio, Dominic",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25,25,"CR:Monthly Cable... D.Decencio 201303: Decencio, Dominic",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,2511,2511,"CR:Swan Personal C... D.Decencio 201303: Decencio, Dominic",,,,,,,,,,,,,,,

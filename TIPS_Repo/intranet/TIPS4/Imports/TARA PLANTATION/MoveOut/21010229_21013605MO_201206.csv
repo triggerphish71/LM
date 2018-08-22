@@ -1,0 +1,5 @@
+BATCH,,201206,B,1800.0000,
+INVOICE,IN,,21010229,,06/01/2012,900.0000,"Invoice-Private",,06/01/2012,06/10/2012,,21013605MO,240.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,30,30.0000,900.00,"Credit for Limited Term Discount: Gray, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,21010229,,06/01/2012,900,"Invoice-Private",,06/01/2012,06/10/2012,,21013605MO,240.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,30,30,900,"Limited Term Discount: Gray, Dale",,,,,,,,,,,,,,,

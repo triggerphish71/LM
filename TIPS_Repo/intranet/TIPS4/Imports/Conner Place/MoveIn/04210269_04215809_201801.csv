@@ -1,0 +1,5 @@
+BATCH,,201801,B,5611.6700,
+INVOICE,IN,,04210269,,01/01/2018,5611.6700,"MoveIn-Southern. Pamela",,01/01/2018,01/01/2018,,04215809,5611.6700,,,,,,,,,,
+TRANSACTION,3010,010002042,31,95.0000,2945,"Basic Service Fee - Studio: Southern. Pamela",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002042,1,2000.0000,2000,"Community Fee: Southern. Pamela",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002042,1,666.6700,666.67,"Monthly Deferral Charge: Southern. Pamela",,,,,,,,,,,,,,,

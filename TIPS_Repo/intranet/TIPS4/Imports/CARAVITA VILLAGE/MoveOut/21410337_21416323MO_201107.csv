@@ -1,0 +1,5 @@
+BATCH,,201107,B,1550.0000,
+INVOICE,IN,,21410337,,07/01/2011,775.0000,"Invoice-Private",,07/01/2011,07/10/2011,,21416323MO,-270.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,25.0000,775.00,"Credit for Limited Term Discount: Lord, Myles",,,,,,,,,,,,,,,
+INVOICE,CM,,21410337,,07/01/2011,775,"Invoice-Private",,07/01/2011,07/10/2011,,21416323MO,-270.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,25,775,"Limited Term Discount: Lord, Myles",,,,,,,,,,,,,,,

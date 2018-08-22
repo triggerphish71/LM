@@ -1,0 +1,7 @@
+BATCH,,201307,B,5600.0000,
+INVOICE,IN,,17410284,,06/22/2013,1260.0000,"MoveIn-DeVore. Norma",,06/22/2013,06/22/2013,,17414803,5600.0000,,,,,,,,,,
+TRANSACTION,3014,010309174,9,95.0000,855,"Basic Service Fee - Studio: DeVore. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,9,45.0000,405,"Resident Care - Level 3: DeVore. Norma",,,,,,,,,,,,,,,
+INVOICE,IN,,17410284,,07/01/2013,4340.0000,"July_Rent-DeVore. Norma",,07/01/2013,07/10/2013,,17414803,5600.0000,,,,,,,,,,
+TRANSACTION,3010,010309174,31,95.0000,2945,"Basic Service Fee - Studio: DeVore. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,31,45.0000,1395,"Resident Care - Level 3: DeVore. Norma",,,,,,,,,,,,,,,

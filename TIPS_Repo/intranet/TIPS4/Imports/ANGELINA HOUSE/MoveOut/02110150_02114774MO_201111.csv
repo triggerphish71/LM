@@ -1,0 +1,6 @@
+BATCH,,201111,B,5220.0000,
+INVOICE,IN,,02110150,,11/01/2011,1050.0000,"Invoice-Private",,11/01/2011,11/10/2011,,02114774MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3320,010202021,1,1050.0000,1050.00,"CR:Limited Term Di... B.Lunsford 201111: Lunsford, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,02110150,,11/01/2011,4170,"Invoice-Private",,11/01/2011,11/10/2011,,02114774MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,2850,2850,"CR:Basic Service F... B.Lunsford 201111: Lunsford, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,1320,1320,"CR:Resident Care -... B.Lunsford 201111: Lunsford, Bessie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,4555.0000,
+INVOICE,IN,,12110309,,11/13/2012,4555.0000,"MoveIn-Holt. Virginia",,11/13/2012,11/13/2012,,12116044,4555.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,18,124.0000,2232,"Basic Service Fee- One Bedroom Prem: Holt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309121,18,16.0000,288,"Resident Care - Level 1: Holt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Holt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Holt. Virginia",,,,,,,,,,,,,,,

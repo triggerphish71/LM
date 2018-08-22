@@ -1,0 +1,6 @@
+BATCH,,201109,B,2840.0000,
+INVOICE,IN,,14210170,,09/01/2011,255.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14213636MO,-3546.5000,,,,,,,,,,
+TRANSACTION,3312,010309142,1,255.0000,255.00,"CR:Two Room Rental... H.Darby 201109: Darby, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,14210170,,09/01/2011,2585,"Invoice-Private",,09/01/2011,09/10/2011,,14213636MO,-3546.5000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2550,2550,"CR:Basic Service F... H.Darby 201109: Darby, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... H.Darby 201109: Darby, Harold",,,,,,,,,,,,,,,

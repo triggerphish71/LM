@@ -1,0 +1,5 @@
+BATCH,,201210,B,70.0000,
+INVOICE,IN,,12410249,,10/01/2012,35.0000,"Invoice-Private",,10/01/2012,10/10/2012,,12414974MO,-6538.0000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Ensminger, Raman",,,,,,,,,,,,,,,
+INVOICE,CM,,12410249,,10/01/2012,35,"Invoice-Private",,10/01/2012,10/10/2012,,12414974MO,-6538.0000,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Ensminger, Raman",,,,,,,,,,,,,,,

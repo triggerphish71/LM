@@ -1,0 +1,8 @@
+BATCH,,201306,B,4876.0000,
+INVOICE,IN,,52610255,,06/06/2013,1666.0000,"Invoice-Private",,06/06/2013,06/06/2013,,52617957MO,-4852.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,17,98.0000,1666.00,"Basic Service Fee - One Bedroom Del for Jun: Burke, Gen",,,,,,,,,,,,,,,
+INVOICE,CM,,52610255,,06/06/2013,3210,"Invoice-Private",,06/06/2013,06/06/2013,,52617957MO,-4852.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2940,2940,"CR:Basic Service F... G.Burke 201306: Burke, Gen",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319526,1,40,40,"CR:Garage Rental... G.Burke 201306: Burke, Gen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... G.Burke 201306: Burke, Gen",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"CR:Resident Meals... G.Burke 201306: Burke, Gen",,,,,,,,,,,,,,,

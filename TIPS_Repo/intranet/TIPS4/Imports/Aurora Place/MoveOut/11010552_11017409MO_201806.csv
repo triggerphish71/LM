@@ -1,0 +1,7 @@
+BATCH,,201806,B,5250.0000,
+INVOICE,IN,,11010552,,06/05/2018,750.0000,"Invoice-Private",,06/05/2018,06/05/2018,,11017409MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,5,120.0000,600.00,"Basic Service Fee - One Bedroom for Jun: Olejniczak, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,5,30.0000,150.00,"Resident Care - Level 2 for Jun: Olejniczak, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,11010552,,06/05/2018,4500,"Invoice-Private",,06/05/2018,06/05/2018,,11017409MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,3600,3600,"CR:Basic Service F... G.Olejniczak 201806: Olejniczak, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,900,900,"CR:Resident Care -... G.Olejniczak 201806: Olejniczak, Grace",,,,,,,,,,,,,,,

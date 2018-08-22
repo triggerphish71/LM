@@ -1,0 +1,8 @@
+BATCH,,201111,B,4637.0000,
+INVOICE,IN,,20210186,,11/05/2011,1607.0000,"Invoice-Private",,11/05/2011,11/05/2011,,20212402MO,-1423.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,900.0000,900.00,"CR:Limited Term Di... E.Clark 201111: Clark, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,7,21.0000,147.00,"Resident Care - Level 2 for Nov: Clark, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,7,80.0000,560.00,"Studio for Nov: Clark, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,20210186,,11/05/2011,3030,"Invoice-Private",,11/05/2011,11/05/2011,,20212402MO,-1423.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,630,630,"CR:Resident Care -... E.Clark 201111: Clark, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2400,2400,"CR:Studio... E.Clark 201111: Clark, Evelyn",,,,,,,,,,,,,,,

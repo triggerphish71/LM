@@ -1,0 +1,6 @@
+BATCH,,201108,B,6302.0000,
+INVOICE,IN,,16310272,,08/29/2011,3078.0000,"Invoice-Private",,08/29/2011,08/29/2011,,16316401MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,62.0000,62.00,"CR:Limited Term Di... J.Walker 201108: Walker, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,29,104.0000,3016.00,"Basic Service Fee - Studio Deluxe for Aug: Walker, James",,,,,,,,,,,,,,,
+INVOICE,CM,,16310272,,08/29/2011,3224,"Invoice-Private",,08/29/2011,08/29/2011,,16316401MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3224,3224,"CR:Basic Service F... J.Walker 201108: Walker, James",,,,,,,,,,,,,,,

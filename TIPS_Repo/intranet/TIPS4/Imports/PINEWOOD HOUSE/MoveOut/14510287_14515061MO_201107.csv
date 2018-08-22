@@ -1,0 +1,8 @@
+BATCH,,201107,B,5355.0000,
+INVOICE,IN,,14510287,,07/17/2011,1887.0000,"Invoice-Private",,07/17/2011,07/17/2011,,14515061MO,-5022.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,17,95.0000,1615.00,"D.Grandnetti: Basic Service Fee - Studio for Jul: Grandnetti, Debbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,17,16.0000,272.00,"D.Grandnetti: Resident Care - Level 1 for Jul: Grandnetti, Debbie",,,,,,,,,,,,,,,
+INVOICE,CM,,14510287,,07/17/2011,3468,"Invoice-Private",,07/17/2011,07/17/2011,,14515061MO,-5022.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2945,2945,"CR:D.Grandnetti: B... D.Grandnetti 201107: Grandnetti, Debbie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,496,496,"CR:D.Grandnetti: R... D.Grandnetti 201107: Grandnetti, Debbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... D.Grandnetti 201107: Grandnetti, Debbie",,,,,,,,,,,,,,,

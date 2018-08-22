@@ -1,0 +1,8 @@
+BATCH,,201204,B,8586.0000,
+INVOICE,IN,,12110276,,04/29/2012,4796.0000,"Invoice-Private",,04/29/2012,04/29/2012,,12115725MO,-1668.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,1200.0000,1200.00,"CR:Limited Term Di... D.Oliver 201204: Oliver, Debra",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,29,124.0000,3596.00,"Basic Service Fee- One Bedroom Prem for Apr: Oliver, Debra",,,,,,,,,,,,,,,
+INVOICE,CM,,12110276,,04/29/2012,3790,"Invoice-Private",,04/29/2012,04/29/2012,,12115725MO,-1668.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3720,3720,"CR:Basic Service F... D.Oliver 201204: Oliver, Debra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... D.Oliver 201204: Oliver, Debra",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309121,1,35,35,"CR:Pendant Fee... D.Oliver 201204: Oliver, Debra",,,,,,,,,,,,,,,

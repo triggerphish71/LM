@@ -1,0 +1,7 @@
+BATCH,,201209,B,4953.0000,
+INVOICE,IN,,15110186,,09/09/2012,1143.0000,"Invoice-Private",,09/09/2012,09/09/2012,,15114060MO,-2667.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,9,112.0000,1008.00,"Basic Service Fee- One Bedroom Prem for Sep: Newberg, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,9,15.0000,135.00,"Swan Personal Care - L1 for Sep: Newberg, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,15110186,,09/09/2012,3810,"Invoice-Private",,09/09/2012,09/09/2012,,15114060MO,-2667.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,3360,3360,"CR:Basic Service F... R.Newberg 201209: Newberg, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,450,450,"CR:Swan Personal C... R.Newberg 201209: Newberg, Ruth",,,,,,,,,,,,,,,

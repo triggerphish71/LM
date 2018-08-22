@@ -1,0 +1,8 @@
+BATCH,,201204,B,8336.0400,
+INVOICE,IN,,09810232,,04/01/2012,4334.6400,"Invoice-Private",,04/01/2012,04/10/2012,,09814613MO,333.2400,,,,,,,,,,
+TRANSACTION,3320,010103098,1,600.0000,600.00,"CR:Limited Term Di... R.Andrus 201204: Andrus, Reginal",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103098,28,94.0000,2632.00,"Basic Service Fee - Studio for Apr: Andrus, Reginal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,28,39.3800,1102.64,"Resident Care - Level 22 for Apr: Andrus, Reginal",,,,,,,,,,,,,,,
+INVOICE,CM,,09810232,,04/01/2012,4001.4,"Invoice-Private",,04/01/2012,04/10/2012,,09814613MO,333.2400,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2820,2820,"CR:Basic Service F... R.Andrus 201204: Andrus, Reginal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1181.4,1181.4,"CR:Resident Care -... R.Andrus 201204: Andrus, Reginal",,,,,,,,,,,,,,,

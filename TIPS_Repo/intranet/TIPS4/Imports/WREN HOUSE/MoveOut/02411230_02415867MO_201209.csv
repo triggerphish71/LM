@@ -1,0 +1,7 @@
+BATCH,,201209,B,4389.0000,
+INVOICE,IN,,02411230,,09/09/2012,1422.0000,"Invoice-Private",,09/09/2012,09/09/2012,,02415867MO,-1545.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,540.0000,540.00,"CR:Limited Term Di... F.Blackledge 201209: Blackledge, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,9,98.0000,882.00,"Basic Service Fee - Studio for Sep: Blackledge, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,02411230,,09/09/2012,2967,"Invoice-Private",,09/09/2012,09/09/2012,,02415867MO,-1545.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2940,2940,"CR:Basic Service F... F.Blackledge 201209: Blackledge, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... F.Blackledge 201209: Blackledge, Fred",,,,,,,,,,,,,,,

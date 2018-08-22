@@ -1,0 +1,7 @@
+BATCH,,201212,B,4091.0000,
+INVOICE,IN,,53410418,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53421684MO,-4195.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,62.0000,62.00,"CR:Limited Term Di... E.Green 201212: Green, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,53410418,,12/01/2012,4029,"Invoice-Private",,12/01/2012,12/10/2012,,53421684MO,-4195.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... E.Green 201212: Green, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1643,1643,"CR:Resident Care -... E.Green 201212: Green, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2356,2356,"CR:Room and Board ... E.Green 201212: Green, Eunice",,,,,,,,,,,,,,,

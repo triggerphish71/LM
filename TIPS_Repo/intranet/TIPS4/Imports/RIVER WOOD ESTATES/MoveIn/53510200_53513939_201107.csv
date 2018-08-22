@@ -1,0 +1,6 @@
+BATCH,,201107,B,2700.0000,
+INVOICE,IN,,53510200,,07/27/2011,2700.0000,"MoveIn-Wacholz. Russell",,07/27/2011,07/27/2011,,53513939,5670.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,5,95.0000,475,"Basic Service Fee - One Bedroom: Wacholz. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Wacholz. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Wacholz. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Wacholz. Russell",,,,,,,,,,,,,,,

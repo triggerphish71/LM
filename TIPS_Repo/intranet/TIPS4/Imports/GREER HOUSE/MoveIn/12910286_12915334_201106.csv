@@ -1,0 +1,5 @@
+BATCH,,201106,B,4680.0000,
+INVOICE,IN,,12910286,,06/01/2011,4680.0000,"June_Rent-Stanczak. Bernice",,06/01/2011,06/10/2011,,12915334,7950.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,30,92.0000,2760,"Basic Service Fee - Studio         : Stanczak. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,30,63.0000,1890,"Resident Care - Level 4: Stanczak. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Stanczak. Bernice",,,,,,,,,,,,,,,

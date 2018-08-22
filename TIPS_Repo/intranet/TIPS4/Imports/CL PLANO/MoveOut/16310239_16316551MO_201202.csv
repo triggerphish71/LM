@@ -1,0 +1,8 @@
+BATCH,,201202,B,5742.0000,
+INVOICE,IN,,16310239,,02/01/2012,1914.0000,"Invoice-Private",,02/01/2012,02/10/2012,,16316551MO,-1914.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,2,108.0000,216.00,"Basic Service Fee - Studio Deluxe for Feb: Hall, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,2,24.0000,48.00,"Resident Care - Level 2 for Feb: Hall, James",,,,,,,,,,,,,,,
+TRANSACTION,3299,010202163,1,1650.0000,1650.00,"Damages: Hall, James",,,,,,,,,,,,,,,
+INVOICE,CM,,16310239,,02/01/2012,3828,"Invoice-Private",,02/01/2012,02/10/2012,,16316551MO,-1914.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3132,3132,"CR:Basic Service F... J.Hall 201202: Hall, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,696,696,"CR:Resident Care -... J.Hall 201202: Hall, James",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,6109.0000,
+INVOICE,IN,,01410170,,05/05/2013,845.0000,"Invoice-Private",,05/05/2013,05/05/2013,,01414698MO,-4419.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,5,90.0000,450.00,"Basic Service Fee - Studio for May: Caldwell, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,5,79.0000,395.00,"Resident Care - Level 6 for May: Caldwell, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,01410170,,05/05/2013,5264,"Invoice-Private",,05/05/2013,05/05/2013,,01414698MO,-4419.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2790,2790,"CR:Basic Service F... G.Caldwell 201305: Caldwell, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... G.Caldwell 201305: Caldwell, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,2449,2449,"CR:Resident Care -... G.Caldwell 201305: Caldwell, Gene",,,,,,,,,,,,,,,

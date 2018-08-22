@@ -1,0 +1,7 @@
+BATCH,,201201,B,4600.0000,
+INVOICE,IN,,10810227,,01/15/2012,1500.0000,"Invoice-Private",,01/15/2012,01/15/2012,,10814729MO,-4500.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,15,84.0000,1260.00,"Basic Service Fee - Studio for Jan: Dickert, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,15,16.0000,240.00,"Resident Care - Level 1 for Jan: Dickert, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,10810227,,01/15/2012,3100,"Invoice-Private",,01/15/2012,01/15/2012,,10814729MO,-4500.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Basic Service F... G.Dickert 201201: Dickert, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... G.Dickert 201201: Dickert, Grace",,,,,,,,,,,,,,,

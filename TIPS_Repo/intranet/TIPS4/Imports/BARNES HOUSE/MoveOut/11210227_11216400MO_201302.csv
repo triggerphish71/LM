@@ -1,0 +1,7 @@
+BATCH,,201302,B,162.0000,
+INVOICE,IN,,11210227,,02/01/2013,81.0000,"Invoice-Private",,02/01/2013,02/10/2013,,11216400MO,-7728.0000,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25.00,"Monthly Cable: Jennings, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310112,28,2.0000,56.00,"Credit for Limited Term Discount: Jennings, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,11210227,,02/01/2013,81,"Invoice-Private",,02/01/2013,02/10/2013,,11216400MO,-7728.0000,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"Credit for Monthly Cable: Jennings, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310112,28,2,56,"Limited Term Discount: Jennings, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,558.0000,
+INVOICE,IN,,04610141,,12/01/2011,279.0000,"Invoice-Private",,12/01/2011,12/10/2011,,04613462MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3320,010202046,31,9.0000,279.00,"Credit for Limited Term Discount: Tillman, Phil",,,,,,,,,,,,,,,
+INVOICE,CM,,04610141,,12/01/2011,279,"Invoice-Private",,12/01/2011,12/10/2011,,04613462MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3320,010202046,31,9,279,"Limited Term Discount: Tillman, Phil",,,,,,,,,,,,,,,

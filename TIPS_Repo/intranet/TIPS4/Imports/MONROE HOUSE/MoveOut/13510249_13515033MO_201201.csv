@@ -1,0 +1,8 @@
+BATCH,,201201,B,6030.0000,
+INVOICE,IN,,13510249,,01/14/2012,2125.0000,"Invoice-Private",,01/14/2012,01/14/2012,,13515033MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,17,109.0000,1853.00,"Basic Service Fee - One Bedroom for Jan: Stines, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,17,16.0000,272.00,"Resident Care - Level 1 for Jan: Stines, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13510249,,01/14/2012,3905,"Invoice-Private",,01/14/2012,01/14/2012,,13515033MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,3379,3379,"CR:Basic Service F... B.Stines 201201: Stines, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... B.Stines 201201: Stines, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,496,496,"CR:Resident Care -... B.Stines 201201: Stines, Betty",,,,,,,,,,,,,,,

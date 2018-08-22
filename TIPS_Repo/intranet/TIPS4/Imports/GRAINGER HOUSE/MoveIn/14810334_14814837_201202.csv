@@ -1,0 +1,5 @@
+BATCH,,201202,B,3191.0000,
+INVOICE,IN,,14810334,,02/01/2012,3191.0000,"February_Rent-Yost. Sue",,02/01/2012,02/10/2012,,14814837,5266.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,29,91.0000,2639,"Basic Service Fee - Studio: Yost. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,29,18.0000,522,"Resident Care - Level 1: Yost. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Yost. Sue",,,,,,,,,,,,,,,

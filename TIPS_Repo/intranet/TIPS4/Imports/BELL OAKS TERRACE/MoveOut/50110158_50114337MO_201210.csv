@@ -1,0 +1,7 @@
+BATCH,,201210,B,6923.0000,
+INVOICE,IN,,50110158,,10/12/2012,1932.0000,"Invoice-Private",,10/12/2012,10/12/2012,,50114337MO,-3059.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,12,88.0000,1056.00,"Basic Service Fee - Studio for Oct: Bowman, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,12,73.0000,876.00,"Resident Care - Level 6 for Oct: Bowman, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,50110158,,10/12/2012,4991,"Invoice-Private",,10/12/2012,10/12/2012,,50114337MO,-3059.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... D.Bowman 201210: Bowman, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,2263,2263,"CR:Resident Care -... D.Bowman 201210: Bowman, Doris",,,,,,,,,,,,,,,

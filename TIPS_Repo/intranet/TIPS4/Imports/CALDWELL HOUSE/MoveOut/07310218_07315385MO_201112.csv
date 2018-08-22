@@ -1,0 +1,8 @@
+BATCH,,201112,B,10880.0000,
+INVOICE,IN,,07310218,,12/26/2011,5249.0000,"Invoice-Private",,12/26/2011,12/26/2011,,07315385MO,-6106.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,29,94.0000,2726.00,"Basic Service Fee - Studio for Dec: Sartorius, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,29,87.0000,2523.00,"Resident Care - Level 6 for Dec: Sartorius, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,07310218,,12/26/2011,5631,"Invoice-Private",,12/26/2011,12/26/2011,,07315385MO,-6106.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2914,2914,"CR:Basic Service F... M.Sartorius 201112: Sartorius, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... M.Sartorius 201112: Sartorius, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2697,2697,"CR:Resident Care -... M.Sartorius 201112: Sartorius, Mary",,,,,,,,,,,,,,,

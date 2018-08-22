@@ -1,0 +1,6 @@
+BATCH,,201205,B,3746.3500,
+INVOICE,IN,,01310179,,05/01/2012,682.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01314093MO,-4596.5500,,,,,,,,,,
+TRANSACTION,3320,010103013,1,682.0000,682.00,"CR:Limited Term Di... M.Hutteball 201205: Hutteball, Max",,,,,,,,,,,,,,,
+INVOICE,CM,,01310179,,05/01/2012,3064.35,"Invoice-Private",,05/01/2012,05/10/2012,,01314093MO,-4596.5500,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... M.Hutteball 201205: Hutteball, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,832.35,832.35,"CR:Resident Care -... M.Hutteball 201205: Hutteball, Max",,,,,,,,,,,,,,,

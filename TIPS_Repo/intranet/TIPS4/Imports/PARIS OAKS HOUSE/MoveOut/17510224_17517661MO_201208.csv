@@ -1,0 +1,8 @@
+BATCH,,201208,B,5551.0000,
+INVOICE,IN,,17510224,,08/01/2012,2482.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17517661MO,-587.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,403.0000,403.00,"CR:Limited Term Di... A.Brown 201208: Brown, Aud",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,21,76.0000,1596.00,"Basic Service Fee - Studio Deluxe for Aug: Brown, Aud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,21,23.0000,483.00,"Resident Care - Level 2 for Aug: Brown, Aud",,,,,,,,,,,,,,,
+INVOICE,CM,,17510224,,08/01/2012,3069,"Invoice-Private",,08/01/2012,08/10/2012,,17517661MO,-587.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2356,2356,"CR:Basic Service F... A.Brown 201208: Brown, Aud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,713,713,"CR:Resident Care -... A.Brown 201208: Brown, Aud",,,,,,,,,,,,,,,

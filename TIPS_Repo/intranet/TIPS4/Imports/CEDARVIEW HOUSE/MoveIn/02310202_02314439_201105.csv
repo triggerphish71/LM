@@ -1,0 +1,5 @@
+BATCH,,201105,B,3117.0000,
+INVOICE,IN,,02310202,,05/20/2011,3117.0000,"MoveIn-Galvan. Raul",,05/20/2011,05/20/2011,,02314439,5872.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,12,91.0000,1092,"Basic Service Fee - Studio         : Galvan. Raul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Galvan. Raul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Galvan. Raul",,,,,,,,,,,,,,,

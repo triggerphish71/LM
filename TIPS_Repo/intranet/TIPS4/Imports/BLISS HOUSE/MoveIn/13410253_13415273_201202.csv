@@ -1,0 +1,6 @@
+BATCH,,201202,B,3775.0000,
+INVOICE,IN,,13410253,,02/10/2012,3775.0000,"MoveIn-Owen. Frank",,02/10/2012,02/10/2012,,13415273,3775.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,20,120.0000,2400,"F.Owen: Basic Service Fee- Respite One Bedr: Owen. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309134,20,17.0000,340,"F.Owen: Resident Care - Level 1: Owen. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Owen. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: Owen. Frank",,,,,,,,,,,,,,,

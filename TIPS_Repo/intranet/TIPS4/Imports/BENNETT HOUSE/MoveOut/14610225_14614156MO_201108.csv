@@ -1,0 +1,6 @@
+BATCH,,201108,B,5459.0000,
+INVOICE,IN,,14610225,,08/01/2011,2670.0000,"Invoice-Private",,08/01/2011,08/10/2011,,14614156MO,-2819.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,30,89.0000,2670.00,"Basic Service Fee - Studio for Aug: Lamm, Milton",,,,,,,,,,,,,,,
+INVOICE,CM,,14610225,,08/01/2011,2789,"Invoice-Private",,08/01/2011,08/10/2011,,14614156MO,-2819.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... M.Lamm 201108: Lamm, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Lamm 201108: Lamm, Milton",,,,,,,,,,,,,,,

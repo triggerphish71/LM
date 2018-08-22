@@ -1,0 +1,8 @@
+BATCH,,201109,B,4336.0000,
+INVOICE,IN,,03110285,,09/01/2011,139.0000,"Invoice-Private",,09/01/2011,09/10/2011,,03116353MO,-4058.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,95.0000,95.00,"Basic Service Fee - Studio for Sep: Hayes, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,44.0000,44.00,"Resident Care - Level 3 for Sep: Hayes, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,03110285,,09/01/2011,4197,"Invoice-Private",,09/01/2011,09/10/2011,,03116353MO,-4058.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2850,2850,"CR:Basic Service F... T.Hayes 201109: Hayes, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... T.Hayes 201109: Hayes, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1320,1320,"CR:Resident Care -... T.Hayes 201109: Hayes, Theresa",,,,,,,,,,,,,,,

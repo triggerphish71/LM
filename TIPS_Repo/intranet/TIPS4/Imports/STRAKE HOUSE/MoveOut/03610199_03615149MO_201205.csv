@@ -1,0 +1,8 @@
+BATCH,,201205,B,12183.3900,
+INVOICE,IN,,03610199,,05/26/2012,5545.0200,"Invoice-Private",,05/26/2012,05/26/2012,,03615149MO,-7518.4500,,,,,,,,,,
+TRANSACTION,3020,010202036,26,101.0000,2626.00,"Basic Service Fee - Studio for May: Russin, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,26,112.2700,2919.02,"Resident Care - Level 6+13 pts for May: Russin, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,03610199,,05/26/2012,6638.37,"Invoice-Private",,05/26/2012,05/26/2012,,03615149MO,-7518.4500,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... M.Russin 201205: Russin, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... M.Russin 201205: Russin, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,3480.37,3480.37,"CR:Resident Care -... M.Russin 201205: Russin, Marie",,,,,,,,,,,,,,,

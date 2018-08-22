@@ -1,0 +1,5 @@
+BATCH,,201305,B,2870.0000,
+INVOICE,IN,,16310334,,05/10/2013,700.0000,"Invoice-Private",,05/10/2013,05/10/2013,,16317116MO,-1470.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,10,70.0000,700.00,"Room and Board - Studio Deluxe for May: Short, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,16310334,,05/10/2013,2170,"Invoice-Private",,05/10/2013,05/10/2013,,16317116MO,-1470.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,2170,2170,"CR:Room and Board ... M.Short 201305: Short, Marion",,,,,,,,,,,,,,,

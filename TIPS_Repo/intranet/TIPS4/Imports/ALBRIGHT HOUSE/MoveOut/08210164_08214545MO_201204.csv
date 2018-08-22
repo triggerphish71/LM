@@ -1,0 +1,8 @@
+BATCH,,201204,B,4603.3800,
+INVOICE,IN,,08210164,,04/09/2012,1592.4800,"Invoice-Private",,04/09/2012,04/09/2012,,08214545MO,-4528.8500,,,,,,,,,,
+TRANSACTION,3020,010103082,16,87.0000,1392.00,"Basic Service Fee - Studio for Apr: Franke, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,16,12.5300,200.48,"Resident Care - Level 7 for Apr: Franke, David",,,,,,,,,,,,,,,
+INVOICE,CM,,08210164,,04/09/2012,3010.9,"Invoice-Private",,04/09/2012,04/09/2012,,08214545MO,-4528.8500,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2610,2610,"CR:Basic Service F... D.Franke 201204: Franke, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... D.Franke 201204: Franke, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,375.9,375.9,"CR:Resident Care -... D.Franke 201204: Franke, David",,,,,,,,,,,,,,,

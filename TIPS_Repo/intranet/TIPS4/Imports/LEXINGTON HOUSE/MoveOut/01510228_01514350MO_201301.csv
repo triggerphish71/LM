@@ -1,0 +1,7 @@
+BATCH,,201301,B,4233.9100,
+INVOICE,IN,,01510228,,01/01/2013,686.5800,"Invoice-Private",,01/01/2013,01/10/2013,,01514350MO,-2860.7500,,,,,,,,,,
+TRANSACTION,3020,010103015,6,84.0000,504.00,"Basic Service Fee - Studio for Jan: Worden, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,6,30.4300,182.58,"Resident Care - Level 17 for Jan: Worden, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,01510228,,01/01/2013,3547.33,"Invoice-Private",,01/01/2013,01/10/2013,,01514350MO,-2860.7500,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:Basic Service F... G.Worden 201301: Worden, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,943.33,943.33,"CR:Resident Care -... G.Worden 201301: Worden, Gene",,,,,,,,,,,,,,,

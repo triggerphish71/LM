@@ -1,0 +1,8 @@
+BATCH,,201201,B,6137.0000,
+INVOICE,IN,,51310181,,01/13/2012,1952.0000,"Invoice-Private",,01/13/2012,01/13/2012,,51313684MO,-2233.0000,,,,,,,,,,
+TRANSACTION,3320,010310513,1,62.0000,62.00,"CR:Limited Term Di... L.Badey 201201: Badey, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,14,108.0000,1512.00,"Basic Service Fee- Studio for Jan: Badey, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,14,27.0000,378.00,"Resident Care - Level 2 for Jan: Badey, Loretta",,,,,,,,,,,,,,,
+INVOICE,CM,,51310181,,01/13/2012,4185,"Invoice-Private",,01/13/2012,01/13/2012,,51313684MO,-2233.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3348,3348,"CR:Basic Service F... L.Badey 201201: Badey, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,837,837,"CR:Resident Care -... L.Badey 201201: Badey, Loretta",,,,,,,,,,,,,,,

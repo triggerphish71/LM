@@ -1,0 +1,7 @@
+BATCH,,201111,B,1774.0000,
+INVOICE,IN,,53110225,,11/01/2011,887.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53113824MO,-7188.9000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20.0000,20.00,"Pendant Fee: Raczynski, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3019,010319531,30,28.9000,867.00,"Additional Service Charge: Raczynski, Jeanette",,,,,,,,,,,,,,,
+INVOICE,CM,,53110225,,11/01/2011,887,"Invoice-Private",,11/01/2011,11/10/2011,,53113824MO,-7188.9000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"Credit for Pendant Fee: Raczynski, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3019,010319531,30,28.9,867,"Credit for Additional Service Charge: Raczynski, Jeanette",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,10238.0000,
+INVOICE,IN,,53510215,,10/26/2012,4654.0000,"Invoice-Private",,10/26/2012,10/26/2012,,53514954MO,-6365.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,26,101.0000,2626.00,"Basic Service Fee - One Bedroom Del for Oct: Cornelius, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,26,78.0000,2028.00,"Resident Care - Level 6 for Oct: Cornelius, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,53510215,,10/26/2012,5584,"Invoice-Private",,10/26/2012,10/26/2012,,53514954MO,-6365.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3131,3131,"CR:Basic Service F... G.Cornelius 201210: Cornelius, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35,35,"CR:Pendant Fee... G.Cornelius 201210: Cornelius, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,2418,2418,"CR:Resident Care -... G.Cornelius 201210: Cornelius, Gertrude",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,6330.9800,
+INVOICE,IN,,05310126,,01/01/2013,1123.9100,"Invoice-Private",,01/01/2013,01/10/2013,,05314885MO,-4083.1600,,,,,,,,,,
+TRANSACTION,3320,010101053,1,620.0000,620.00,"CR:Limited Term Di... V.Mourer 201301: Mourer, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,3,91.0000,273.00,"Basic Service Fee - Studio for Jan: Mourer, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,3,76.9700,230.91,"Resident Care - Level 43 for Jan: Mourer, Vernon",,,,,,,,,,,,,,,
+INVOICE,CM,,05310126,,01/01/2013,5207.07,"Invoice-Private",,01/01/2013,01/10/2013,,05314885MO,-4083.1600,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2821,2821,"CR:Basic Service F... V.Mourer 201301: Mourer, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,2386.07,2386.07,"CR:Resident Care -... V.Mourer 201301: Mourer, Vernon",,,,,,,,,,,,,,,

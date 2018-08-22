@@ -1,0 +1,7 @@
+BATCH,,201111,B,6726.0000,
+INVOICE,IN,,14010185,,11/01/2011,3186.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14013609MO,-354.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,27,85.0000,2295.00,"Basic Service Fee - Studio for Nov: Schinbeckler, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,27,33.0000,891.00,"Resident Care - Level 2 for Nov: Schinbeckler, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,14010185,,11/01/2011,3540,"Invoice-Private",,11/01/2011,11/10/2011,,14013609MO,-354.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2550,2550,"CR:Basic Service F... D.Schinbeckler 201111: Schinbeckler, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,990,990,"CR:Resident Care -... D.Schinbeckler 201111: Schinbeckler, Dale",,,,,,,,,,,,,,,

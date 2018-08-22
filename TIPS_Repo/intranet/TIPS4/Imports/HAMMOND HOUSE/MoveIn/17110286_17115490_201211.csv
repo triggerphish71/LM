@@ -1,0 +1,5 @@
+BATCH,,201211,B,1821.0000,
+INVOICE,IN,,17110286,,11/30/2012,1821.0000,"MoveIn-Miller. George",,11/30/2012,11/30/2012,,17115490,4762.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,1,94.0000,94,"Basic Service Fee - Studio: Miller. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Miller. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1700.0000,1700,"New Resident Fee: Miller. George",,,,,,,,,,,,,,,

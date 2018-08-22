@@ -1,0 +1,5 @@
+BATCH,,201110,B,3490.8000,
+INVOICE,IN,,08110223,,10/01/2011,3490.8000,"October_Rent-Greenleaf. Michael",,10/01/2011,10/10/2011,,08114216,5627.6000,,,,,,,,,,
+TRANSACTION,3010,010103081,31,88.0000,2728,"Basic Service Fee - Studio         : Greenleaf. Michael",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,31,23.8000,737.8,"Resident Care - Level 14: Greenleaf. Michael",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Greenleaf. Michael",,,,,,,,,,,,,,,

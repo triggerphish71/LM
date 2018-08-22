@@ -1,0 +1,6 @@
+BATCH,,201307,B,2735.8000,
+INVOICE,IN,,04910228,,07/24/2013,2735.8000,"MoveIn-Warren. Del",,07/24/2013,07/24/2013,,04913674,5515.1500,,,,,,,,,,
+TRANSACTION,3010,010101049,8,87.0000,696,"Basic Service Fee - Studio: Warren. Del",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,8,1.8500,14.8,"Resident Care - Level 1: Warren. Del",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Warren. Del",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Warren. Del",,,,,,,,,,,,,,,

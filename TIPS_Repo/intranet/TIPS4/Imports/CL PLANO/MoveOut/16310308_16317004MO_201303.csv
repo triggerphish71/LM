@@ -1,0 +1,7 @@
+BATCH,,201303,B,2720.0000,
+INVOICE,IN,,16310308,,03/01/2013,1360.0000,"Invoice-Private",,03/01/2013,03/10/2013,,16317004MO,-1729.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Clouden, Angela",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,31,43.0000,1333.00,"Credit for Limited Term Discount: Clouden, Angela",,,,,,,,,,,,,,,
+INVOICE,CM,,16310308,,03/01/2013,1360,"Invoice-Private",,03/01/2013,03/10/2013,,16317004MO,-1729.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Clouden, Angela",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202163,31,43,1333,"Limited Term Discount: Clouden, Angela",,,,,,,,,,,,,,,

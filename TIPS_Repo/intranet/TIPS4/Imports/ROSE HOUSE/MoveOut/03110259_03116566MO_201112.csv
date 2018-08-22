@@ -1,0 +1,8 @@
+BATCH,,201112,B,7713.0000,
+INVOICE,IN,,03110259,,12/27/2011,3780.0000,"Invoice-Private",,12/27/2011,12/27/2011,,03116566MO,-4241.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,30,110.0000,3300.00,"Basic Service Fee - One Bedroom for Dec: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,30,16.0000,480.00,"Resident Care - Level 1 for Dec: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,03110259,,12/27/2011,3933,"Invoice-Private",,12/27/2011,12/27/2011,,03116566MO,-4241.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3410,3410,"CR:Basic Service F... M.Lalonde 201112: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... M.Lalonde 201112: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,496,496,"CR:Resident Care -... M.Lalonde 201112: Lalonde, Mary Lucy",,,,,,,,,,,,,,,

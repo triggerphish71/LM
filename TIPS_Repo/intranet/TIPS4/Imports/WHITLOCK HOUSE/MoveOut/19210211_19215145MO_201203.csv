@@ -1,0 +1,7 @@
+BATCH,,201203,B,8690.0000,
+INVOICE,IN,,19210211,,03/24/2012,3792.0000,"Invoice-Private",,03/24/2012,03/24/2012,,19215145MO,-5846.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,24,114.0000,2736.00,"Basic Service Fee - Studio for Mar: Remley, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,24,44.0000,1056.00,"Resident Care - Level 3 for Mar: Remley, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,19210211,,03/24/2012,4898,"Invoice-Private",,03/24/2012,03/24/2012,,19215145MO,-5846.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... K.Remley 201203: Remley, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1364,1364,"CR:Resident Care -... K.Remley 201203: Remley, Kathleen",,,,,,,,,,,,,,,

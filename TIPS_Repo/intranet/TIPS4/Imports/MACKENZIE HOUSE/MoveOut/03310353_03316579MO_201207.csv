@@ -1,0 +1,8 @@
+BATCH,,201207,B,7496.8800,
+INVOICE,IN,,03310353,,07/01/2012,4194.0000,"Invoice-Private",,07/01/2012,07/10/2012,,03316579MO,-1123.8800,,,,,,,,,,
+TRANSACTION,1113,010202033,1,1750.0000,1750.00,"CR:New Resident Fe... A.Allen 201207: Allen, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,26,94.0000,2444.00,"Basic Service Fee - Studio for Jul: Allen, Alfred",,,,,,,,,,,,,,,
+INVOICE,CM,,03310353,,07/01/2012,3302.88,"Invoice-Private",,07/01/2012,07/10/2012,,03316579MO,-1123.8800,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2914,2914,"CR:Basic Service F... A.Allen 201207: Allen, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,1113,010202033,1,194.44,194.44,"CR:Monthly Deferra... A.Allen 201207: Allen, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,1113,010202033,1,194.44,194.44,"CR:Monthly Deferra... A.Allen 201207: Allen, Alfred",,,,,,,,,,,,,,,

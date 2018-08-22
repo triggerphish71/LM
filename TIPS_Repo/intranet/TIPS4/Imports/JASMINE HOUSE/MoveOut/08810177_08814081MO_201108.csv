@@ -1,0 +1,6 @@
+BATCH,,201108,B,4569.4000,
+INVOICE,IN,,08810177,,08/01/2011,291.4000,"Invoice-Private",,08/01/2011,08/10/2011,,08814081MO,-3986.6000,,,,,,,,,,
+TRANSACTION,3312,010107088,1,291.4000,291.40,"CR:Two Room Rental... R.Milosevich 201108: Milosevich, Risto",,,,,,,,,,,,,,,
+INVOICE,CM,,08810177,,08/01/2011,4278,"Invoice-Private",,08/01/2011,08/10/2011,,08814081MO,-3986.6000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2914,2914,"CR:Basic Service F... R.Milosevich 201108: Milosevich, Risto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1364,1364,"CR:Resident Care -... R.Milosevich 201108: Milosevich, Risto",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,4095.0000,
+INVOICE,IN,,06910075,,08/05/2012,840.0000,"Invoice-Private",,08/05/2012,08/05/2012,,06913920MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,8,76.0000,608.00,"Basic Service Fee - Studio for Aug: Fleck, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,8,29.0000,232.00,"Resident Care - Level 2 for Aug: Fleck, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,06910075,,08/05/2012,3255,"Invoice-Private",,08/05/2012,08/05/2012,,06913920MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2356,2356,"CR:Basic Service F... A.Fleck 201208: Fleck, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,899,899,"CR:Resident Care -... A.Fleck 201208: Fleck, Arlene",,,,,,,,,,,,,,,

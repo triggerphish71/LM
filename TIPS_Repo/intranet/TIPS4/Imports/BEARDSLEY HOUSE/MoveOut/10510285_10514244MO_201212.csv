@@ -1,0 +1,7 @@
+BATCH,,201212,B,8820.0000,
+INVOICE,IN,,10510285,,12/10/2012,4263.0000,"Invoice-Private",,12/10/2012,12/10/2012,,10514244MO,-4851.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,29,103.0000,2987.00,"Basic Service Fee - One Bedroom for Dec: Soboleski, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,29,44.0000,1276.00,"Resident Care - Level 3 for Dec: Soboleski, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,10510285,,12/10/2012,4557,"Invoice-Private",,12/10/2012,12/10/2012,,10514244MO,-4851.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3193,3193,"CR:Basic Service F... A.Soboleski 201212: Soboleski, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,1364,1364,"CR:Resident Care -... A.Soboleski 201212: Soboleski, Alice",,,,,,,,,,,,,,,

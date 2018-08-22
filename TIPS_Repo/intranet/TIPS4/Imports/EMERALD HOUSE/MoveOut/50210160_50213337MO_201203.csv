@@ -1,0 +1,6 @@
+BATCH,,201203,B,4247.0000,
+INVOICE,IN,,50210160,,03/01/2012,62.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50213337MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,1,62.0000,62.00,"CR:Limited Term Di... J.Henson 201203: Henson, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,50210160,,03/01/2012,4185,"Invoice-Private",,03/01/2012,03/10/2012,,50213337MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3751,3751,"CR:Basic Service F... J.Henson 201203: Henson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,434,434,"CR:Resident Care -... J.Henson 201203: Henson, Joan",,,,,,,,,,,,,,,

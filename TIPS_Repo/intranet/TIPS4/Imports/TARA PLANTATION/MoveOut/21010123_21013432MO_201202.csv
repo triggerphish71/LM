@@ -1,0 +1,8 @@
+BATCH,,201202,B,5188.0000,
+INVOICE,IN,,21010123,,02/02/2012,1273.0000,"Invoice-Private",,02/02/2012,02/02/2012,,21013432MO,-2642.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,58.0000,58.00,"CR:Limited Term Di... K.Shelton 201202: Shelton, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,9,41.0000,369.00,"Resident Care - Level 4 for Feb: Shelton, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,9,94.0000,846.00,"Studio for Feb: Shelton, Katie",,,,,,,,,,,,,,,
+INVOICE,CM,,21010123,,02/02/2012,3915,"Invoice-Private",,02/02/2012,02/02/2012,,21013432MO,-2642.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1189,1189,"CR:Resident Care -... K.Shelton 201202: Shelton, Katie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2726,2726,"CR:Studio... K.Shelton 201202: Shelton, Katie",,,,,,,,,,,,,,,

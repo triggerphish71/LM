@@ -1,0 +1,5 @@
+BATCH,,201109,B,60.0000,
+INVOICE,IN,,14910155,,09/01/2011,30.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14914313MO,-3740.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Campbell, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,14910155,,09/01/2011,30,"Invoice-Private",,09/01/2011,09/10/2011,,14914313MO,-3740.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Campbell, Edna",,,,,,,,,,,,,,,

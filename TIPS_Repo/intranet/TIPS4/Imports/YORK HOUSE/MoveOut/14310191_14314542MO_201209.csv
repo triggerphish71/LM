@@ -1,0 +1,7 @@
+BATCH,,201209,B,562.0000,
+INVOICE,IN,,14310191,,09/01/2012,281.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14314542MO,-1921.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: Isenbarger, Clive",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309143,30,8.2000,246.00,"Credit for Two Room Rental Discount: Isenbarger, Clive",,,,,,,,,,,,,,,
+INVOICE,CM,,14310191,,09/01/2012,281,"Invoice-Private",,09/01/2012,09/10/2012,,14314542MO,-1921.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: Isenbarger, Clive",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309143,30,8.2,246,"Two Room Rental Discount: Isenbarger, Clive",,,,,,,,,,,,,,,

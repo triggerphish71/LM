@@ -1,0 +1,7 @@
+BATCH,,201204,B,961.6000,
+INVOICE,IN,,20610252,,03/27/2012,601.0000,"MoveIn-Schallenberg. William",,03/27/2012,03/27/2012,,20612675,961.6000,,,,,,,,,,
+TRANSACTION,3014,010214206,5,109.2000,546,"Basic Service Fee- Respite Studio: Schallenberg. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010214206,5,11.0000,55,"Resident Care - Level 1: Schallenberg. William",,,,,,,,,,,,,,,
+INVOICE,IN,,20610252,,04/01/2012,360.6000,"April_Rent-Schallenberg. William",,04/01/2012,04/10/2012,,20612675,961.6000,,,,,,,,,,
+TRANSACTION,3010,010214206,3,109.2000,327.6,"Basic Service Fee- Respite Studio: Schallenberg. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010214206,3,11.0000,33,"Resident Care - Level 1: Schallenberg. William",,,,,,,,,,,,,,,

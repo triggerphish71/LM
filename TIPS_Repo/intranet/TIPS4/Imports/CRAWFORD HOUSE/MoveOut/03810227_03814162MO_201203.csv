@@ -1,0 +1,8 @@
+BATCH,,201203,B,6246.6000,
+INVOICE,IN,,03810227,,03/18/2012,3087.7000,"Invoice-Private",,03/18/2012,03/18/2012,,03814162MO,-2515.6000,,,,,,,,,,
+TRANSACTION,3320,010103038,1,744.0000,744.00,"CR:Limited Term Di... D.Jones 201203: Jones, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103038,23,84.0000,1932.00,"Basic Service Fee - Studio for Mar: Jones, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,23,17.9000,411.70,"Resident Care - Level 10 for Mar: Jones, David",,,,,,,,,,,,,,,
+INVOICE,CM,,03810227,,03/18/2012,3158.9,"Invoice-Private",,03/18/2012,03/18/2012,,03814162MO,-2515.6000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2604,2604,"CR:Basic Service F... D.Jones 201203: Jones, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,554.9,554.9,"CR:Resident Care -... D.Jones 201203: Jones, David",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,3102.0000,
+INVOICE,IN,,52610207,,08/14/2012,1056.0000,"Invoice-Private",,08/14/2012,08/14/2012,,52617144MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,16,28.0000,448.00,"Basic Service Fee - Second Resident for Aug: Ditter, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,16,38.0000,608.00,"Resident Care - Level 1 for Aug: Ditter, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,52610207,,08/14/2012,2046,"Invoice-Private",,08/14/2012,08/14/2012,,52617144MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,868,868,"CR:Basic Service F... J.Ditter 201208: Ditter, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1178,1178,"CR:Resident Care -... J.Ditter 201208: Ditter, Jerome",,,,,,,,,,,,,,,

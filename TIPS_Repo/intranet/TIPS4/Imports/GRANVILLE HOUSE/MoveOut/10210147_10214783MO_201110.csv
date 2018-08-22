@@ -1,0 +1,8 @@
+BATCH,,201110,B,7373.0000,
+INVOICE,IN,,10210147,,10/15/2011,2400.0000,"Invoice-Private",,10/15/2011,10/15/2011,,10214783MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,15,111.0000,1665.00,"Basic Service Fee - Studio for Oct: Staniszewski, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,15,49.0000,735.00,"Swan Personal Care - L3 for Oct: Staniszewski, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,10210147,,10/15/2011,4973,"Invoice-Private",,10/15/2011,10/15/2011,,10214783MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Basic Service F... S.Staniszewski 201110: Staniszewski, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010306102,1,13,13,"CR:Pendant Fee... S.Staniszewski 201110: Staniszewski, Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1519,1519,"CR:Swan Personal C... S.Staniszewski 201110: Staniszewski, Stanley",,,,,,,,,,,,,,,

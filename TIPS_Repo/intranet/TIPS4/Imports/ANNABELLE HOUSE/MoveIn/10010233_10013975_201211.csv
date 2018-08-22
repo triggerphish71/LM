@@ -1,0 +1,6 @@
+BATCH,,201211,B,2145.0000,
+INVOICE,IN,,10010233,,11/13/2012,2145.0000,"MoveIn-Marshal. Elaine",,11/13/2012,11/13/2012,,10013975,2145.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,18,75.0000,1350,"Basic Service Fee - Studio: Marshal. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,18,15.0000,270,"Resident Care - Level 1: Marshal. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Marshal. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Marshal. Elaine",,,,,,,,,,,,,,,

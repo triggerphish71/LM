@@ -1,0 +1,7 @@
+BATCH,,201110,B,2044.0800,
+INVOICE,IN,,17810320,,10/01/2011,1022.0400,"Invoice-Private",,10/01/2011,10/10/2011,,17815744MO,-4119.8000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,31.8400,987.04,"Credit for Limited Term Discount: Petersen, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,17810320,,10/01/2011,1022.04,"Invoice-Private",,10/01/2011,10/10/2011,,17815744MO,-4119.8000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,31.84,987.04,"Limited Term Discount: Petersen, Jean",,,,,,,,,,,,,,,

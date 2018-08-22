@@ -1,0 +1,6 @@
+BATCH,,201107,B,4428.5000,
+INVOICE,IN,,16910213,,07/13/2011,4428.5000,"MoveIn-Bonallo. Harry",,07/13/2011,07/13/2011,,16914515,8375.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,19,84.0000,1596,"Basic Service Fee - Studio         : Bonallo. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103169,19,42.5000,807.5,"Resident Care - Level 25: Bonallo. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Bonallo. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Bonallo. Harry",,,,,,,,,,,,,,,

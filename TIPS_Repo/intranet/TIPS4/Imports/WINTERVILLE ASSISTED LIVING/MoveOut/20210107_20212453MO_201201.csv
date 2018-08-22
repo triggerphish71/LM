@@ -1,0 +1,8 @@
+BATCH,,201201,B,3287.0000,
+INVOICE,IN,,20210107,,01/01/2012,373.0000,"Invoice-Private",,01/01/2012,01/01/2012,,20212453MO,-2541.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,279.0000,279.00,"CR:Limited Term Di... O.Watson 201201: Watson, O.D.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,11.0000,11.00,"Resident Care - Level 1 for Jan: Watson, O.D.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,83.0000,83.00,"Studio for Jan: Watson, O.D.",,,,,,,,,,,,,,,
+INVOICE,CM,,20210107,,01/01/2012,2914,"Invoice-Private",,01/01/2012,01/01/2012,,20212453MO,-2541.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... O.Watson 201201: Watson, O.D.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... O.Watson 201201: Watson, O.D.",,,,,,,,,,,,,,,

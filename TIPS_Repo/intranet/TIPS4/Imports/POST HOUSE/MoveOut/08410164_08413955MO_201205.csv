@@ -1,0 +1,5 @@
+BATCH,,201205,B,2976.0000,
+INVOICE,IN,,08410164,,05/01/2012,1488.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08413955MO,-2861.0000,,,,,,,,,,
+TRANSACTION,3320,010306084,31,48.0000,1488.00,"Credit for Limited Term Discount: Thornton, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08410164,,05/01/2012,1488,"Invoice-Private",,05/01/2012,05/10/2012,,08413955MO,-2861.0000,,,,,,,,,,
+TRANSACTION,3320,010306084,31,48,1488,"Limited Term Discount: Thornton, Mary",,,,,,,,,,,,,,,

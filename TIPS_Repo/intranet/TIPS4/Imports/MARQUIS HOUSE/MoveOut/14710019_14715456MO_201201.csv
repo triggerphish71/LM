@@ -1,0 +1,8 @@
+BATCH,,201201,B,8118.2500,
+INVOICE,IN,,14710019,,01/04/2012,923.0000,"Invoice-Private",,01/04/2012,01/04/2012,,14715456MO,-6272.2500,,,,,,,,,,
+TRANSACTION,3020,010310147,4,102.0000,408.00,"Basic Service Fee - Studio for Jan: Slampak, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,4,128.7500,515.00,"Resident Care - Level 6+25 pts for Jan: Slampak, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,14710019,,01/04/2012,7195.25,"Invoice-Private",,01/04/2012,01/04/2012,,14715456MO,-6272.2500,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... E.Slampak 201201: Slampak, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... E.Slampak 201201: Slampak, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,3991.25,3991.25,"CR:Resident Care -... E.Slampak 201201: Slampak, Elizabeth",,,,,,,,,,,,,,,

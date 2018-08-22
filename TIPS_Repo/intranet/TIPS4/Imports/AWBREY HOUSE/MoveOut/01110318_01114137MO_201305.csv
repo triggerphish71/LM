@@ -1,0 +1,7 @@
+BATCH,,201305,B,5893.1500,
+INVOICE,IN,,01110318,,05/12/2013,1644.6000,"Invoice-Private",,05/12/2013,05/12/2013,,01114137MO,-2603.9500,,,,,,,,,,
+TRANSACTION,3020,010101011,12,76.0000,912.00,"Basic Service Fee - Studio for May: Johnson, Sybill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,12,61.0500,732.60,"Resident Care - Level 33 for May: Johnson, Sybill",,,,,,,,,,,,,,,
+INVOICE,CM,,01110318,,05/12/2013,4248.55,"Invoice-Private",,05/12/2013,05/12/2013,,01114137MO,-2603.9500,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... S.Johnson 201305: Johnson, Sybill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,1892.55,1892.55,"CR:Resident Care -... S.Johnson 201305: Johnson, Sybill",,,,,,,,,,,,,,,

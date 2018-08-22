@@ -1,0 +1,6 @@
+BATCH,,201303,B,5479.0000,
+INVOICE,IN,,05110185,,03/11/2013,2323.0000,"Invoice-Private",,03/11/2013,03/11/2013,,05114653MO,-3863.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,23,101.0000,2323.00,"Basic Service Fee - Studio for Mar: Anastas, Clifton",,,,,,,,,,,,,,,
+INVOICE,CM,,05110185,,03/11/2013,3156,"Invoice-Private",,03/11/2013,03/11/2013,,05114653MO,-3863.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3131,3131,"CR:Basic Service F... C.Anastas 201303: Anastas, Clifton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25,25,"CR:Monthly Cable... C.Anastas 201303: Anastas, Clifton",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,3499.0000,
+INVOICE,IN,,03210261,,01/11/2012,3499.0000,"MoveIn-Johansson. Lureno",,01/11/2012,01/11/2012,,03214729,3499.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,21,94.0000,1974,"Basic Service Fee - Studio: Johansson. Lureno",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Johansson. Lureno",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Johansson. Lureno",,,,,,,,,,,,,,,

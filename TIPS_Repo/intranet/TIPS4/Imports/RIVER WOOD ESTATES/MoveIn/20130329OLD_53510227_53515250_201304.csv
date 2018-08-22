@@ -1,0 +1,5 @@
+BATCH,,201304,B,3095.0000,
+INVOICE,IN,,53510227,,04/01/2013,3095.0000,"April_Rent-Domenoski. Carl",,04/01/2013,04/10/2013,,53515250,5428.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,30,101.0000,3030,"Basic Service Fee - One Bedroom: Domenoski. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30.0000,30,"Monthly Cable: Domenoski. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35.0000,35,"Pendant Fee: Domenoski. Carl",,,,,,,,,,,,,,,

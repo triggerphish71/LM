@@ -1,0 +1,5 @@
+BATCH,,201303,B,2972.0000,
+INVOICE,IN,,05610228,,03/01/2013,2972.0000,"March_Rent-Shenk. Jean",,03/01/2013,03/10/2013,,05614737,3569.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,31,68.0000,2108,"J.Shenk: Basic Service Fee - Studio: Shenk. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,31,27.0000,837,"J.Shenk: Resident Care - Level 2: Shenk. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Shenk. Jean",,,,,,,,,,,,,,,

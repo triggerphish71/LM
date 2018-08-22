@@ -1,0 +1,7 @@
+BATCH,,201803,B,7614.0000,
+INVOICE,IN,,31700020,,03/23/2018,3243.0000,"Invoice-Private",,03/23/2018,03/23/2018,,31711062MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,23,98.0000,2254.00,"Resident Care - Level 6  for Mar: Hayes, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,23,43.0000,989.00,"Studio  for Mar: Hayes, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,31700020,,03/23/2018,4371,"Invoice-Private",,03/23/2018,03/23/2018,,31711062MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,1,3038,3038,"CR:Resident Care -... D.Hayes 201803: Hayes, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,1,1333,1333,"CR:Studio... D.Hayes 201803: Hayes, Doris",,,,,,,,,,,,,,,

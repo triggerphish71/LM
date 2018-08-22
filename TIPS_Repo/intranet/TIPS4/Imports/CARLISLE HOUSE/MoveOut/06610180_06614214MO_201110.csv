@@ -1,0 +1,7 @@
+BATCH,,201110,B,4524.0000,
+INVOICE,IN,,06610180,,10/08/2011,928.0000,"Invoice-Private",,10/08/2011,10/08/2011,,06614214MO,-2668.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,8,32.0000,256.00,"Basic Service Fee - Second Resident for Oct: Williams, Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,8,84.0000,672.00,"Resident Care - Level 6 for Oct: Williams, Clinton",,,,,,,,,,,,,,,
+INVOICE,CM,,06610180,,10/08/2011,3596,"Invoice-Private",,10/08/2011,10/08/2011,,06614214MO,-2668.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,992,992,"CR:Basic Service F... C.Williams 201110: Williams, Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2604,2604,"CR:Resident Care -... C.Williams 201110: Williams, Clinton",,,,,,,,,,,,,,,

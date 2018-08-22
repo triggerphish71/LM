@@ -1,0 +1,5 @@
+BATCH,,201301,B,2108.0000,
+INVOICE,IN,,09810203,,01/01/2013,1054.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09814876MO,-2720.7200,,,,,,,,,,
+TRANSACTION,3320,010103098,31,34.0000,1054.00,"Credit for Limited Term Discount: Fowler, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,09810203,,01/01/2013,1054,"Invoice-Private",,01/01/2013,01/10/2013,,09814876MO,-2720.7200,,,,,,,,,,
+TRANSACTION,3320,010103098,31,34,1054,"Limited Term Discount: Fowler, Betty",,,,,,,,,,,,,,,

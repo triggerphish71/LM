@@ -1,0 +1,8 @@
+BATCH,,201305,B,5638.0000,
+INVOICE,IN,,21610198,,05/01/2013,2332.0000,"Invoice-Private",,05/01/2013,05/01/2013,,21614104MO,-974.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,22,22.0000,484.00,"Resident Care - Level 2 for May: Nelson, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,22,84.0000,1848.00,"Studio Deluxe for May: Nelson, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,21610198,,05/01/2013,3306,"Invoice-Private",,05/01/2013,05/01/2013,,21614104MO,-974.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... A.Nelson 201305: Nelson, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,682,682,"CR:Resident Care -... A.Nelson 201305: Nelson, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2604,2604,"CR:Studio Deluxe... A.Nelson 201305: Nelson, Anne",,,,,,,,,,,,,,,

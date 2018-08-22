@@ -1,0 +1,6 @@
+BATCH,,201208,B,5084.0000,
+INVOICE,IN,,14510297,,08/01/2012,1519.0000,"Invoice-Private",,08/01/2012,08/10/2012,,14515580MO,-872.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,1519.0000,1519.00,"CR:Limited Term Di... C.Smith 201208: Smith, Cornelius",,,,,,,,,,,,,,,
+INVOICE,CM,,14510297,,08/01/2012,3565,"Invoice-Private",,08/01/2012,08/10/2012,,14515580MO,-872.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3069,3069,"CR:Basic Service F... C.Smith 201208: Smith, Cornelius",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,496,496,"CR:Resident Care -... C.Smith 201208: Smith, Cornelius",,,,,,,,,,,,,,,

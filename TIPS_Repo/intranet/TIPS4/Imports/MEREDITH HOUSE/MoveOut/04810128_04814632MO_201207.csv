@@ -1,0 +1,8 @@
+BATCH,,201207,B,8158.0000,
+INVOICE,IN,,04810128,,07/01/2012,2702.0000,"Invoice-Private",,07/01/2012,07/10/2012,,04814632MO,-2754.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,1,62.0000,62.00,"CR:Limited Term Di... F.Hefley 201207: Hefley, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,15,117.0000,1755.00,"Basic Service Fee - One Bedroom for Jul: Hefley, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,15,59.0000,885.00,"Resident Care - Level 5 for Jul: Hefley, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,04810128,,07/01/2012,5456,"Invoice-Private",,07/01/2012,07/10/2012,,04814632MO,-2754.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3627,3627,"CR:Basic Service F... F.Hefley 201207: Hefley, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,1829,1829,"CR:Resident Care -... F.Hefley 201207: Hefley, Francis",,,,,,,,,,,,,,,

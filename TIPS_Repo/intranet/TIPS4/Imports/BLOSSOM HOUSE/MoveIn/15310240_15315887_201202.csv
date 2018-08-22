@@ -1,0 +1,6 @@
+BATCH,,201202,B,4304.1000,
+INVOICE,IN,,15310240,,02/16/2012,4304.1000,"MoveIn-Thorp. Dorothy",,02/16/2012,02/16/2012,,15315887,4304.1000,,,,,,,,,,
+TRANSACTION,3010,010103153,14,100.0000,1400,"Basic Service Fee - Studio: Thorp. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,14,62.6500,877.1,"Resident Care - Level 35: Thorp. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Thorp. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Thorp. Dorothy",,,,,,,,,,,,,,,

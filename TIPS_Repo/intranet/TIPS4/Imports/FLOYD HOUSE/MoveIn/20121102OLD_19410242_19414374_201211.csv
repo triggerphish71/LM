@@ -1,0 +1,5 @@
+BATCH,,201211,B,3215.0000,
+INVOICE,IN,,19410242,,11/02/2012,3215.0000,"MoveIn-Berstrom. Wallace",,11/02/2012,11/02/2012,,19414374,3215.0000,,,,,,,,,,
+TRANSACTION,3010,010212194,29,75.0000,2175,"Basic Service Fee - Studio: Berstrom. Wallace",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40,"Monthly Cable: Berstrom. Wallace",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212194,1,1000.0000,1000,"New Resident Fee: Berstrom. Wallace",,,,,,,,,,,,,,,

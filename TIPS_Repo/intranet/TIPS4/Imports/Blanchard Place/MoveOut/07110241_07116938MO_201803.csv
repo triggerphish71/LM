@@ -1,0 +1,8 @@
+BATCH,,201803,B,5388.0000,
+INVOICE,IN,,07110241,,03/25/2018,2443.0000,"Invoice-Private",,03/25/2018,03/25/2018,,07116938MO,-502.0000,,,,,,,,,,
+TRANSACTION,3017,010005071,9,22.0000,198.00,"Level: 1  to  Level: 2  - 03/10: Treen, Julia Alfreda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005071,10,42.0000,420.00,"Level: 2  to  Level: base level  - 03/20: Treen, Julia Alfreda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005071,25,73.0000,1825.00,"Basic Service Fee - Studio  for Mar: Treen, Julia Alfreda",,,,,,,,,,,,,,,
+INVOICE,CM,,07110241,,03/25/2018,2945,"Invoice-Private",,03/25/2018,03/25/2018,,07116938MO,-502.0000,,,,,,,,,,
+TRANSACTION,3020,010005071,1,2263,2263,"CR:Basic Service F... J.Treen 201803: Treen, Julia Alfreda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005071,1,682,682,"CR:Resident Care -... J.Treen 201803: Treen, Julia Alfreda",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,7310.0000,
+INVOICE,IN,,06510159,,04/25/2012,3470.0000,"Invoice-Private",,04/25/2012,04/25/2012,,06514607MO,-4059.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,270.0000,270.00,"CR:Limited Term Di... B.Hohenberger 201204: Hohenberger, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,25,18.0000,450.00,"Resident Care - Level 1 for Apr: Hohenberger, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,25,110.0000,2750.00,"Room and Board - Deluxe for Apr: Hohenberger, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,06510159,,04/25/2012,3840,"Invoice-Private",,04/25/2012,04/25/2012,,06514607MO,-4059.0000,,,,,,,,,,
+TRANSACTION,3027,010305065,1,540,540,"CR:Resident Care -... B.Hohenberger 201204: Hohenberger, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3300,3300,"CR:Room and Board ... B.Hohenberger 201204: Hohenberger, Bernard",,,,,,,,,,,,,,,

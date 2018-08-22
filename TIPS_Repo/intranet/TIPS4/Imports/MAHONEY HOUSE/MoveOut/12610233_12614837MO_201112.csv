@@ -1,0 +1,5 @@
+BATCH,,201112,B,620.0000,
+INVOICE,IN,,12610233,,12/01/2011,310.0000,"Invoice-Private",,12/01/2011,12/10/2011,,12614837MO,-3485.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,31,10.0000,310.00,"Credit for Limited Term Discount: Endorf, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,12610233,,12/01/2011,310,"Invoice-Private",,12/01/2011,12/10/2011,,12614837MO,-3485.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,31,10,310,"Limited Term Discount: Endorf, Norman",,,,,,,,,,,,,,,

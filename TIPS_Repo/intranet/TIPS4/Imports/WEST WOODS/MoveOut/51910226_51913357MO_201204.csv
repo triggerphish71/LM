@@ -1,0 +1,7 @@
+BATCH,,201204,B,3648.7000,
+INVOICE,IN,,51910226,,04/01/2012,960.0000,"Invoice-Private",,04/01/2012,04/10/2012,,51913357MO,-1383.2300,,,,,,,,,,
+TRANSACTION,3320,010103519,1,960.0000,960.00,"CR:Limited Term Di... H.Huber 201204: Huber, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,51910226,,04/01/2012,2688.7,"Invoice-Private",,04/01/2012,04/10/2012,,51913357MO,-1383.2300,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2610,2610,"CR:Basic Service F... H.Huber 201204: Huber, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25,25,"CR:Monthly Cable... H.Huber 201204: Huber, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,53.7,53.7,"CR:Resident Care -... H.Huber 201204: Huber, Helen",,,,,,,,,,,,,,,

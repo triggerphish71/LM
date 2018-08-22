@@ -1,0 +1,5 @@
+BATCH,,201210,B,3554.0000,
+INVOICE,IN,,07310250,,10/01/2012,3554.0000,"October_Rent-Gladman. Mary-Margaret",,10/01/2012,10/10/2012,,07315787,7512.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,31,97.0000,3007,"Basic Service Fee - Studio: Gladman. Mary-Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,31,17.0000,527,"Resident Care - Level 1: Gladman. Mary-Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Gladman. Mary-Margaret",,,,,,,,,,,,,,,

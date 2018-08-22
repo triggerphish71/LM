@@ -1,0 +1,8 @@
+BATCH,,201206,B,5593.3000,
+INVOICE,IN,,51710184,,06/01/2012,1856.1000,"Invoice-Private",,06/01/2012,06/10/2012,,51712995MO,-5742.0400,,,,,,,,,,
+TRANSACTION,3020,010103517,15,113.0000,1695.00,"Basic Service Fee - One Bedroom for Jun: Hart, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,15,10.7400,161.10,"Resident Care - Level 6 for Jun: Hart, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,51710184,,06/01/2012,3737.2,"Invoice-Private",,06/01/2012,06/10/2012,,51712995MO,-5742.0400,,,,,,,,,,
+TRANSACTION,3020,010103517,1,3390,3390,"CR:Basic Service F... J.Hart 201206: Hart, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"CR:Monthly Cable... J.Hart 201206: Hart, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,322.2,322.2,"CR:Resident Care -... J.Hart 201206: Hart, Jean",,,,,,,,,,,,,,,

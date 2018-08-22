@@ -1,0 +1,7 @@
+BATCH,,201306,B,6885.0000,
+INVOICE,IN,,12310231,,06/14/2013,2295.0000,"Invoice-Private",,06/14/2013,06/14/2013,,12316022MO,-7038.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,15,115.0000,1725.00,"Basic Service Fee - Deluxe for Jun: Hubka, Harlan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,15,38.0000,570.00,"Resident Care - Level 2 for Jun: Hubka, Harlan",,,,,,,,,,,,,,,
+INVOICE,CM,,12310231,,06/14/2013,4590,"Invoice-Private",,06/14/2013,06/14/2013,,12316022MO,-7038.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3450,3450,"CR:Basic Service F... H.Hubka 201306: Hubka, Harlan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1140,1140,"CR:Resident Care -... H.Hubka 201306: Hubka, Harlan",,,,,,,,,,,,,,,

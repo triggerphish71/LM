@@ -1,0 +1,6 @@
+BATCH,,201305,B,1529.0000,
+INVOICE,IN,,12410322,,05/17/2013,166.0000,"Invoice-Private",,05/17/2013,05/17/2013,,12415370MO,-3722.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,2,83.0000,166.00,"D.Pflanz: Basic Service Fee - Studio for May: Pflanz, Donavan",,,,,,,,,,,,,,,
+INVOICE,CM,,12410322,,05/17/2013,1363,"Invoice-Private",,05/17/2013,05/17/2013,,12415370MO,-3722.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,1328,1328,"CR:D.Pflanz: Basic... D.Pflanz 201305: Pflanz, Donavan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... D.Pflanz 201305: Pflanz, Donavan",,,,,,,,,,,,,,,

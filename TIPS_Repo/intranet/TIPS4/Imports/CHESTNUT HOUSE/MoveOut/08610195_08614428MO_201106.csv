@@ -1,0 +1,7 @@
+BATCH,,201106,B,7478.4000,
+INVOICE,IN,,08610195,,06/19/2011,5517.6000,"Invoice-Respite",,06/19/2011,06/19/2011,,08614428MO,3556.8000,,,,,,,,,,
+TRANSACTION,3020,010305086,19,103.2000,1960.80,"Basic Service Fee- Respite Studio for Jun: Bush, Niles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305086,19,103.2000,1960.80,"Basic Service Fee- Respite Studio for Jun: Bush, Niles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,19,84.0000,1596.00,"Resident Care - Level 6 for Jun: Bush, Niles",,,,,,,,,,,,,,,
+INVOICE,CM,,08610195,,06/19/2011,1960.8,"Invoice-Respite",,06/19/2011,06/19/2011,,08614428MO,3556.8000,,,,,,,,,,
+TRANSACTION,3020,010305086,19,103.2,1960.8,"Basic Service Fee- Respite Studio for Jun: Bush, Niles",,,,,,,,,,,,,,,

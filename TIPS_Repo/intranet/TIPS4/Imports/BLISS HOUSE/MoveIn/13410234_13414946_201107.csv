@@ -1,0 +1,5 @@
+BATCH,,201107,B,1356.0000,
+INVOICE,IN,,13410234,,07/29/2011,1356.0000,"MoveIn-East. Mary",,07/29/2011,07/29/2011,,13414946,4708.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,3,107.0000,321,"M.East: Basic Service Fee- One Bedroom Prem: East. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: East. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: East. Mary",,,,,,,,,,,,,,,

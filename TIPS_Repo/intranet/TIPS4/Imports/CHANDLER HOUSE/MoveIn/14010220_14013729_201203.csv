@@ -1,0 +1,5 @@
+BATCH,,201203,B,3285.0000,
+INVOICE,IN,,14010220,,03/01/2012,3285.0000,"March_Rent-Rollins. Mary",,03/01/2012,03/10/2012,,14013729,5970.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,31,88.0000,2728,"M.Rollins: Basic Service Fee - Studio: Rollins. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,31,17.0000,527,"M.Rollins: Resident Care - Level 1: Rollins. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Rollins. Mary",,,,,,,,,,,,,,,

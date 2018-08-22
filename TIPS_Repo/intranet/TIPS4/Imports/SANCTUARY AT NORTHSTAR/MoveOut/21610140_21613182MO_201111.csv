@@ -1,0 +1,6 @@
+BATCH,,201111,B,4192.1000,
+INVOICE,IN,,21610140,,11/05/2011,1372.1000,"Invoice-Private",,11/05/2011,11/05/2011,,21613182MO,-1447.9000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,902.1000,902.10,"CR:Limited Term Di... M.Schmidt 201111: Schmidt, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,5,94.0000,470.00,"Basic Service Fee - Studio Deluxe for Nov: Schmidt, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610140,,11/05/2011,2820,"Invoice-Private",,11/05/2011,11/05/2011,,21613182MO,-1447.9000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2820,2820,"CR:Basic Service F... M.Schmidt 201111: Schmidt, Marjorie",,,,,,,,,,,,,,,

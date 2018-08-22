@@ -1,0 +1,5 @@
+BATCH,,201306,B,1122.0000,
+INVOICE,IN,,03710183,,06/20/2013,462.0000,"Invoice-Private",,06/20/2013,06/20/2013,,03714701MO,-880.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,21,22.0000,462.00,"Basic Service Fee - Second Resident for Jun: Street, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,03710183,,06/20/2013,660,"Invoice-Private",,06/20/2013,06/20/2013,,03714701MO,-880.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,660,660,"CR:Basic Service F... J.Street 201306: Street, Joanne",,,,,,,,,,,,,,,

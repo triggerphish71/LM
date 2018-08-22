@@ -1,0 +1,6 @@
+BATCH,,201308,B,3594.0000,
+INVOICE,IN,,53510131,,08/05/2013,495.0000,"Invoice-Private",,08/05/2013,08/05/2013,,53515508MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,5,99.0000,495.00,"Basic Service Fee - One Bedroom for Aug: Zigmunt, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,53510131,,08/05/2013,3099,"Invoice-Private",,08/05/2013,08/05/2013,,53515508MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3069,3069,"CR:Basic Service F... F.Zigmunt 201308: Zigmunt, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... F.Zigmunt 201308: Zigmunt, Florence",,,,,,,,,,,,,,,

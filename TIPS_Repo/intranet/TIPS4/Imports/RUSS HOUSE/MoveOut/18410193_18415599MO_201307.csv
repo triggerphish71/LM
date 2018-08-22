@@ -1,0 +1,7 @@
+BATCH,,201307,B,3154.0000,
+INVOICE,IN,,18410193,,07/07/2013,581.0000,"Invoice-Private",,07/07/2013,07/07/2013,,18415599MO,-1992.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,7,70.0000,490.00,"Basic Service Fee - One Bedroom for Jul: Johnson, Erma Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,7,13.0000,91.00,"Resident Care - Level 1 for Jul: Johnson, Erma Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,18410193,,07/07/2013,2573,"Invoice-Private",,07/07/2013,07/07/2013,,18415599MO,-1992.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2170,2170,"CR:Basic Service F... E.Johnson 201307: Johnson, Erma Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,403,403,"CR:Resident Care -... E.Johnson 201307: Johnson, Erma Lou",,,,,,,,,,,,,,,

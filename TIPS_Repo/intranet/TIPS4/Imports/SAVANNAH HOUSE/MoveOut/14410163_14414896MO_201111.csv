@@ -1,0 +1,7 @@
+BATCH,,201111,B,4378.0000,
+INVOICE,IN,,14410163,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14414896MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,1,60.0000,60.00,"CR:Limited Term Di... E.Jenkins, Sr. 201111: Jenkins, Sr., Evans",,,,,,,,,,,,,,,
+INVOICE,CM,,14410163,,11/01/2011,4318,"Invoice-Private",,11/01/2011,11/10/2011,,14414896MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3030,3030,"CR:Basic Service F... E.Jenkins, Sr. 201111: Jenkins, Sr., Evans",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... E.Jenkins, Sr. 201111: Jenkins, Sr., Evans",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,1260,1260,"CR:Resident Care -... E.Jenkins, Sr. 201111: Jenkins, Sr., Evans",,,,,,,,,,,,,,,

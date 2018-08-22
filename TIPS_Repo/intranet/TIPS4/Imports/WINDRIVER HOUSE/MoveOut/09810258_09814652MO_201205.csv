@@ -1,0 +1,7 @@
+BATCH,,201205,B,4355.0500,
+INVOICE,IN,,09810258,,05/01/2012,497.7200,"Invoice-Private",,05/01/2012,05/10/2012,,09814652MO,-3359.6100,,,,,,,,,,
+TRANSACTION,3020,010103098,4,94.0000,376.00,"Basic Service Fee - Studio for May: Crooks, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,4,30.4300,121.72,"Resident Care - Level 17 for May: Crooks, Delores",,,,,,,,,,,,,,,
+INVOICE,CM,,09810258,,05/01/2012,3857.33,"Invoice-Private",,05/01/2012,05/10/2012,,09814652MO,-3359.6100,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2914,2914,"CR:Basic Service F... D.Crooks 201205: Crooks, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,943.33,943.33,"CR:Resident Care -... D.Crooks 201205: Crooks, Delores",,,,,,,,,,,,,,,

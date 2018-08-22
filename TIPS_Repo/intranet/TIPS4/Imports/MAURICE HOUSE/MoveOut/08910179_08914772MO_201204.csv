@@ -1,0 +1,7 @@
+BATCH,,201204,B,9680.0000,
+INVOICE,IN,,08910179,,04/22/2012,4400.0000,"Invoice-Private",,04/22/2012,04/22/2012,,08914772MO,-6336.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,25,111.0000,2775.00,"Basic Service Fee - Studio for Apr: Coleman, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,25,65.0000,1625.00,"Resident Care - Level 4 for Apr: Coleman, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08910179,,04/22/2012,5280,"Invoice-Private",,04/22/2012,04/22/2012,,08914772MO,-6336.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3330,3330,"CR:Basic Service F... G.Coleman 201204: Coleman, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1950,1950,"CR:Resident Care -... G.Coleman 201204: Coleman, George",,,,,,,,,,,,,,,

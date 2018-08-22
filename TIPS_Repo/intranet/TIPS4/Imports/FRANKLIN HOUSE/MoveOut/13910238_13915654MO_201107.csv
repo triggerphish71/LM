@@ -1,0 +1,6 @@
+BATCH,,201107,B,4702.7000,
+INVOICE,IN,,13910238,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,13915654MO,-4818.1000,,,,,,,,,,
+TRANSACTION,3320,010103139,1,62.0000,62.00,"CR:Limited Term Di... I.Dhaese 201107: Dhaese, Iona",,,,,,,,,,,,,,,
+INVOICE,CM,,13910238,,07/01/2011,4640.7,"Invoice-Private",,07/01/2011,07/10/2011,,13915654MO,-4818.1000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3007,3007,"CR:Basic Service F... I.Dhaese 201107: Dhaese, Iona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,1633.7,1633.7,"CR:Resident Care -... I.Dhaese 201107: Dhaese, Iona",,,,,,,,,,,,,,,

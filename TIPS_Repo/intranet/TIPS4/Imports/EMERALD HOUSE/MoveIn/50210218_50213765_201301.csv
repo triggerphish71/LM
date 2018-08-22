@@ -1,0 +1,6 @@
+BATCH,,201301,B,6595.0000,
+INVOICE,IN,,50210218,,01/02/2013,6595.0000,"MoveIn-Strange. Ann",,01/02/2013,01/02/2013,,50213765,6595.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,30,121.0000,3630,"Basic Service Fee- One Bedroom Deluxe: Strange. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,30,48.0000,1440,"Resident Care - Level 4: Strange. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Strange. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Strange. Ann",,,,,,,,,,,,,,,

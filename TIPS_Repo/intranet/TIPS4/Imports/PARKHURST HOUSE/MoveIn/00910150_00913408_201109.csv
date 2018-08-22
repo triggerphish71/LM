@@ -1,0 +1,4 @@
+BATCH,,201109,B,3072.0000,
+INVOICE,IN,,00910150,,09/01/2011,3072.0000,"September_Rent-Beekman. Margaret",,09/01/2011,09/10/2011,,00913408,4686.4000,,,,,,,,,,
+TRANSACTION,3010,010101009,30,82.0000,2460,"Basic Service Fee - Studio         : Beekman. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,30,20.4000,612,"Resident Care - Level 12: Beekman. Margaret",,,,,,,,,,,,,,,

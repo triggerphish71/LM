@@ -1,0 +1,8 @@
+BATCH,,201204,B,3247.3500,
+INVOICE,IN,,10410270,,04/19/2012,95.9500,"Invoice-Private",,04/19/2012,04/19/2012,,10414788MO,-6029.9000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,87.0000,87.00,"Basic Service Fee - Studio for Apr: Bird, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,8.9500,8.95,"Resident Care - Level 5 for Apr: Bird, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,10410270,,04/19/2012,3151.4,"Invoice-Private",,04/19/2012,04/19/2012,,10414788MO,-6029.9000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,1044,1044,"CR:Basic Service F... K.Bird 201204: Bird, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000,2000,"CR:New Resident Fe... K.Bird 201204: Bird, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,107.4,107.4,"CR:Resident Care -... K.Bird 201204: Bird, Kenneth",,,,,,,,,,,,,,,

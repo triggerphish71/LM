@@ -1,0 +1,5 @@
+BATCH,,201109,B,120.0000,
+INVOICE,IN,,12910185,,09/01/2011,60.0000,"Invoice-Private",,09/01/2011,09/10/2011,,12915430MO,-4434.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,30,2.0000,60.00,"Credit for Limited Term Discount: Ludovici, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,12910185,,09/01/2011,60,"Invoice-Private",,09/01/2011,09/10/2011,,12915430MO,-4434.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,30,2,60,"Limited Term Discount: Ludovici, Lorraine",,,,,,,,,,,,,,,

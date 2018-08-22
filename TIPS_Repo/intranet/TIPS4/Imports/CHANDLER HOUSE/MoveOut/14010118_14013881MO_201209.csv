@@ -1,0 +1,7 @@
+BATCH,,201209,B,1440.0000,
+INVOICE,IN,,14010118,,09/01/2012,720.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14013881MO,-2242.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30.00,"Monthly Cable: Cleland, LaVon",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309140,30,23.0000,690.00,"Credit for Limited Term Discount: Cleland, LaVon",,,,,,,,,,,,,,,
+INVOICE,CM,,14010118,,09/01/2012,720,"Invoice-Private",,09/01/2012,09/10/2012,,14013881MO,-2242.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"Credit for Monthly Cable: Cleland, LaVon",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309140,30,23,690,"Limited Term Discount: Cleland, LaVon",,,,,,,,,,,,,,,

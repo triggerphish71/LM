@@ -1,0 +1,8 @@
+BATCH,,201209,B,3875.0000,
+INVOICE,IN,,18410074,,09/01/2012,605.0000,"Invoice-Private",,09/01/2012,09/10/2012,,18415363MO,-2665.0000,,,,,,,,,,
+TRANSACTION,3320,010313184,1,60.0000,60.00,"CR:Limited Term Di... T.Hogan 201209: Hogan, Thesta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,5,13.0000,65.00,"Resident Care - Level 1 for Sep: Hogan, Thesta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313184,5,96.0000,480.00,"Room and Board - Studio for Sep: Hogan, Thesta",,,,,,,,,,,,,,,
+INVOICE,CM,,18410074,,09/01/2012,3270,"Invoice-Private",,09/01/2012,09/10/2012,,18415363MO,-2665.0000,,,,,,,,,,
+TRANSACTION,3027,010313184,1,390,390,"CR:Resident Care -... T.Hogan 201209: Hogan, Thesta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2880,2880,"CR:Room and Board ... T.Hogan 201209: Hogan, Thesta",,,,,,,,,,,,,,,

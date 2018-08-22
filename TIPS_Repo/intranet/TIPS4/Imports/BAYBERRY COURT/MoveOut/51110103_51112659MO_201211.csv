@@ -1,0 +1,8 @@
+BATCH,,201211,B,10230.0000,
+INVOICE,IN,,51110103,,11/27/2012,4833.0000,"Invoice-Private",,11/27/2012,11/27/2012,,51112659MO,-6140.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,27,105.0000,2835.00,"Basic Service Fee - Studio for Nov: Beck, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,27,74.0000,1998.00,"Resident Care - Level 5 for Nov: Beck, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,51110103,,11/27/2012,5397,"Invoice-Private",,11/27/2012,11/27/2012,,51112659MO,-6140.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3150,3150,"CR:Basic Service F... K.Beck 201211: Beck, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... K.Beck 201211: Beck, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,2220,2220,"CR:Resident Care -... K.Beck 201211: Beck, Kenneth",,,,,,,,,,,,,,,

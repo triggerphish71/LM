@@ -1,0 +1,6 @@
+BATCH,,201301,B,1391.0000,
+INVOICE,IN,,11710255,,01/25/2013,1391.0000,"MoveIn-Souter. Jean",,01/25/2013,01/25/2013,,11713989,4865.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,7,93.0000,651,"Basic Service Fee - Deluxe: Souter. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,7,30.0000,210,"Resident Care - Level 2: Souter. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Souter. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,500.0000,500,"New Resident Fee: Souter. Jean",,,,,,,,,,,,,,,

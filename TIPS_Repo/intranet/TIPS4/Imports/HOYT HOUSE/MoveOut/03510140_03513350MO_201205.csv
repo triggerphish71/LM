@@ -1,0 +1,6 @@
+BATCH,,201205,B,5239.0000,
+INVOICE,IN,,03510140,,05/01/2012,558.0000,"Invoice-Private",,05/01/2012,05/10/2012,,03513350MO,-4813.0000,,,,,,,,,,
+TRANSACTION,3320,010202035,1,558.0000,558.00,"CR:Limited Term Di... R.Blanchard 201205: Blanchard, Ross",,,,,,,,,,,,,,,
+INVOICE,CM,,03510140,,05/01/2012,4681,"Invoice-Private",,05/01/2012,05/10/2012,,03513350MO,-4813.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2852,2852,"CR:Basic Service F... R.Blanchard 201205: Blanchard, Ross",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,1829,1829,"CR:Resident Care -... R.Blanchard 201205: Blanchard, Ross",,,,,,,,,,,,,,,

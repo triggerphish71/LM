@@ -1,0 +1,5 @@
+BATCH,,201107,B,372.0000,
+INVOICE,IN,,05010183,,07/01/2011,186.0000,"Invoice-Private",,07/01/2011,07/10/2011,,05013144MO,-2780.4000,,,,,,,,,,
+TRANSACTION,3320,010101050,31,6.0000,186.00,"Credit for Limited Term Discount: MacKay, Alan",,,,,,,,,,,,,,,
+INVOICE,CM,,05010183,,07/01/2011,186,"Invoice-Private",,07/01/2011,07/10/2011,,05013144MO,-2780.4000,,,,,,,,,,
+TRANSACTION,3320,010101050,31,6,186,"Limited Term Discount: MacKay, Alan",,,,,,,,,,,,,,,

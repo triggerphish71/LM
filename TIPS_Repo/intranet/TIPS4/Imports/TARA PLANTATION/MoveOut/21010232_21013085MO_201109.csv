@@ -1,0 +1,5 @@
+BATCH,,201109,B,900.0000,
+INVOICE,IN,,21010232,,09/01/2011,450.0000,"Invoice-Private",,09/01/2011,09/10/2011,,21013085MO,-2395.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,30,15.0000,450.00,"Credit for Limited Term Discount: Barney, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,21010232,,09/01/2011,450,"Invoice-Private",,09/01/2011,09/10/2011,,21013085MO,-2395.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,30,15,450,"Limited Term Discount: Barney, Gene",,,,,,,,,,,,,,,

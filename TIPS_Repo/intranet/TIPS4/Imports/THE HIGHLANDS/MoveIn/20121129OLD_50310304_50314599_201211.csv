@@ -1,0 +1,6 @@
+BATCH,,201211,B,1085.0000,
+INVOICE,IN,,50310304,,11/28/2012,1085.0000,"MoveIn-Girdler. June",,11/28/2012,11/28/2012,,50314599,4220.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,3,75.0000,225,"Basic Service Fee - Studio: Girdler. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,3,25.0000,75,"Resident Care - Level 2: Girdler. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Girdler. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,750.0000,750,"New Resident Fee: Girdler. June",,,,,,,,,,,,,,,

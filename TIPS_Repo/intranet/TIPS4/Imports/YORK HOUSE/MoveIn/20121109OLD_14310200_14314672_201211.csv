@@ -1,0 +1,5 @@
+BATCH,,201211,B,3339.0000,
+INVOICE,IN,,14310200,,11/09/2012,3339.0000,"MoveIn-Bradford. Norma",,11/09/2012,11/09/2012,,14314672,3339.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,22,82.0000,1804,"Basic Service Fee - Studio: Bradford. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Bradford. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Bradford. Norma",,,,,,,,,,,,,,,

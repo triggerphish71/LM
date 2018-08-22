@@ -1,0 +1,6 @@
+BATCH,,201107,B,3270.5000,
+INVOICE,IN,,01110254,,07/01/2011,310.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01113695MO,-2923.5000,,,,,,,,,,
+TRANSACTION,3320,010101011,1,310.0000,310.00,"CR:Limited Term Di... L.Keyte 201107: Keyte, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,01110254,,07/01/2011,2960.5,"Invoice-Private",,07/01/2011,07/10/2011,,01113695MO,-2923.5000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2697,2697,"CR:Basic Service F... L.Keyte 201107: Keyte, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,263.5,263.5,"CR:Resident Care -... L.Keyte 201107: Keyte, Lawrence",,,,,,,,,,,,,,,

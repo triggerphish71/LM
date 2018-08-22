@@ -1,0 +1,7 @@
+BATCH,,201105,B,4978.0000,
+INVOICE,IN,,21210107,,05/01/2011,917.0000,"Invoice-Private",,05/01/2011,05/10/2011,,21211851MO,-3144.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,7,53.0000,371.00,"Resident Care - Level 5 for May: Frager, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,7,78.0000,546.00,"Studio for May: Frager, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,21210107,,05/01/2011,4061,"Invoice-Private",,05/01/2011,05/10/2011,,21211851MO,-3144.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1643,1643,"CR:Resident Care -... H.Frager 201105: Frager, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2418,2418,"CR:Studio... H.Frager 201105: Frager, Helen",,,,,,,,,,,,,,,

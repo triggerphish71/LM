@@ -1,0 +1,8 @@
+BATCH,,201206,B,6507.1000,
+INVOICE,IN,,05910084,,06/18/2012,2990.5000,"Invoice-Private",,06/18/2012,06/18/2012,,05913336MO,-4097.9200,,,,,,,,,,
+TRANSACTION,3320,010101059,1,60.0000,60.00,"CR:Limited Term Di... F.Jordan 201206: Jordan, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101059,25,85.0000,2125.00,"Basic Service Fee - Studio for Jun: Jordan, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,25,32.2200,805.50,"Resident Care - Level 18 for Jun: Jordan, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,05910084,,06/18/2012,3516.6,"Invoice-Private",,06/18/2012,06/18/2012,,05913336MO,-4097.9200,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2550,2550,"CR:Basic Service F... F.Jordan 201206: Jordan, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,966.6,966.6,"CR:Resident Care -... F.Jordan 201206: Jordan, Florence",,,,,,,,,,,,,,,

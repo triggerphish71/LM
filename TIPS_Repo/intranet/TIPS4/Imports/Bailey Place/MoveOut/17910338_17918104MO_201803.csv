@@ -1,0 +1,8 @@
+BATCH,,201803,B,5395.0000,
+INVOICE,IN,,17910338,,03/21/2018,2295.0000,"Invoice-Private",,03/21/2018,03/21/2018,,17918104MO,-805.0000,,,,,,,,,,
+TRANSACTION,3017,010013179,8,34.0000,272.00,"Level Care:  2  to  Level Care:  3  - on 03/09: Marchive, Conrad",,,,,,,,,,,,,,,
+TRANSACTION,3017,010013179,13,49.0000,637.00," Level Care:  3 : Marchive, Conrad",,,,,,,,,,,,,,,
+TRANSACTION,3020,010013179,21,66.0000,1386.00,"Basic Service Fee - Studio  for Mar: Marchive, Conrad",,,,,,,,,,,,,,,
+INVOICE,CM,,17910338,,03/21/2018,3100,"Invoice-Private",,03/21/2018,03/21/2018,,17918104MO,-805.0000,,,,,,,,,,
+TRANSACTION,3020,010013179,1,2046,2046,"CR:Basic Service F... C.Marchive 201803: Marchive, Conrad",,,,,,,,,,,,,,,
+TRANSACTION,3027,010013179,1,1054,1054,"CR:Resident Care -... C.Marchive 201803: Marchive, Conrad",,,,,,,,,,,,,,,

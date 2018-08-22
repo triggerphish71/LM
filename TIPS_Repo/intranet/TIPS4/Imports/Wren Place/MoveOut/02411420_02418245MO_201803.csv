@@ -1,0 +1,8 @@
+BATCH,,201803,B,3082.4000,
+INVOICE,IN,,02411420,,03/07/2018,481.0000,"Invoice-Private",,03/07/2018,03/07/2018,,02418245MO,-2120.4000,,,,,,,,,,
+TRANSACTION,3017,010002024,2,20.0000,40.00,"Level Care:  1  - 2018-03-03: Raifsnider, Ardith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,7,63.0000,441.00,"Basic Service Fee - Studio  for Mar: Raifsnider, Ardith",,,,,,,,,,,,,,,
+INVOICE,CM,,02411420,,03/07/2018,2601.4,"Invoice-Private",,03/07/2018,03/07/2018,,02418245MO,-2120.4000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,1953,1953,"CR:Basic Service F... A.Raifsnider 201803: Raifsnider, Ardith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4,28.4,"CR:Monthly Cable... A.Raifsnider 201803: Raifsnider, Ardith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,620,620,"CR:Resident Care -... A.Raifsnider 201803: Raifsnider, Ardith",,,,,,,,,,,,,,,

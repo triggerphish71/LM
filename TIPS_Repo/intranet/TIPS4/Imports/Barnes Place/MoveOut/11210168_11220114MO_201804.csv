@@ -1,0 +1,5 @@
+BATCH,,201804,B,52.5400,
+INVOICE,IN,,11210168,,04/01/2018,26.2700,"Invoice-Private",,04/01/2018,04/10/2018,,11220114MO,-4836.0000,,,,,,,,,,
+TRANSACTION,3260,010010112,1,26.2700,26.27,"Monthly Cable: Pugliese, Lena",,,,,,,,,,,,,,,
+INVOICE,CM,,11210168,,04/01/2018,26.27,"Invoice-Private",,04/01/2018,04/10/2018,,11220114MO,-4836.0000,,,,,,,,,,
+TRANSACTION,3260,010010112,1,26.27,26.27,"Credit for Monthly Cable: Pugliese, Lena",,,,,,,,,,,,,,,

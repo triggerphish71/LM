@@ -1,0 +1,7 @@
+BATCH,,201111,B,5508.0000,
+INVOICE,IN,,09410255,,11/24/2011,2448.0000,"Invoice-Private",,11/24/2011,11/24/2011,,09415709MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,24,30.0000,720.00,"Basic Service Fee - Second Resident for Nov: Kuchera, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,24,72.0000,1728.00,"Resident Care - Level 5 for Nov: Kuchera, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,09410255,,11/24/2011,3060,"Invoice-Private",,11/24/2011,11/24/2011,,09415709MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,900,900,"CR:Basic Service F... C.Kuchera 201111: Kuchera, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2160,2160,"CR:Resident Care -... C.Kuchera 201111: Kuchera, Carl",,,,,,,,,,,,,,,

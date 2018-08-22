@@ -1,0 +1,8 @@
+BATCH,,201202,B,7031.0000,
+INVOICE,IN,,10610141,,02/01/2012,2385.0000,"Invoice-Private",,02/01/2012,02/10/2012,,10612450MO,-2261.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,15,87.0000,1305.00,"Basic Service Fee - Studio for Feb: McConnell, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,15,72.0000,1080.00,"Resident Care - Level 5 for Feb: McConnell, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,10610141,,02/01/2012,4646,"Invoice-Private",,02/01/2012,02/10/2012,,10612450MO,-2261.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2523,2523,"CR:Basic Service F... L.McConnell 201202: McConnell, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... L.McConnell 201202: McConnell, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,2088,2088,"CR:Resident Care -... L.McConnell 201202: McConnell, Lillian",,,,,,,,,,,,,,,

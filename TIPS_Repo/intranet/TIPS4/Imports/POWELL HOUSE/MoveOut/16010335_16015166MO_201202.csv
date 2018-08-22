@@ -1,0 +1,5 @@
+BATCH,,201202,B,3708.0000,
+INVOICE,CM,,16010335,,02/01/2012,3708,"Invoice-Private",,02/01/2012,02/10/2012,,16015166MO,-5765.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,2871,2871,"CR:Basic Service F... H.Smith 201202: Smith, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... H.Smith 201202: Smith, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,812,812,"CR:Resident Care -... H.Smith 201202: Smith, Hazel",,,,,,,,,,,,,,,

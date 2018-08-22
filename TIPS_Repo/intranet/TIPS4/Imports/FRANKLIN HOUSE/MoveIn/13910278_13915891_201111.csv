@@ -1,0 +1,5 @@
+BATCH,,201111,B,3192.0000,
+INVOICE,IN,,13910278,,11/01/2011,3192.0000,"November_Rent-Sobotka. Richard",,11/01/2011,11/10/2011,,13915891,6592.2000,,,,,,,,,,
+TRANSACTION,3010,010103139,30,102.0000,3060,"Basic Service Fee - Studio: Sobotka. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103139,30,3.4000,102,"Resident Care - Level 2: Sobotka. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Sobotka. Richard",,,,,,,,,,,,,,,

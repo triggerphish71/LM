@@ -1,0 +1,6 @@
+BATCH,,201304,B,4443.0000,
+INVOICE,IN,,50310143,,04/14/2013,2128.0000,"Invoice-Private",,04/14/2013,04/14/2013,,50314851MO,-187.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,28,76.0000,2128.00,"Basic Service Fee - Studio for Apr: Daffron, Marcia",,,,,,,,,,,,,,,
+INVOICE,CM,,50310143,,04/14/2013,2315,"Invoice-Private",,04/14/2013,04/14/2013,,50314851MO,-187.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2280,2280,"CR:Basic Service F... M.Daffron 201304: Daffron, Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... M.Daffron 201304: Daffron, Marcia",,,,,,,,,,,,,,,

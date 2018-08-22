@@ -1,0 +1,5 @@
+BATCH,,201109,B,4224.0000,
+INVOICE,IN,,03410259,,09/02/2011,4224.0000,"MoveIn-Miles. Mary",,09/02/2011,09/02/2011,,03415168,4224.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,29,93.0000,2697,"Basic Service Fee - Studio         : Miles. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Miles. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Miles. Mary",,,,,,,,,,,,,,,

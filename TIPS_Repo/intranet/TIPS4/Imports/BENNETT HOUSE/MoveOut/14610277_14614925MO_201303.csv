@@ -1,0 +1,7 @@
+BATCH,,201303,B,3518.0000,
+INVOICE,IN,,14610277,,03/25/2013,465.0000,"Invoice-Private",,03/25/2013,03/25/2013,,14614925MO,-5408.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,5,93.0000,465.00,"Basic Service Fee - Studio for Mar: McQuillen, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,14610277,,03/25/2013,3053,"Invoice-Private",,03/25/2013,03/25/2013,,14614925MO,-5408.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,1023,1023,"CR:Basic Service F... S.McQuillen 201303: McQuillen, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... S.McQuillen 201303: McQuillen, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,2000,2000,"CR:New Resident Fe... S.McQuillen 201303: McQuillen, Sue",,,,,,,,,,,,,,,

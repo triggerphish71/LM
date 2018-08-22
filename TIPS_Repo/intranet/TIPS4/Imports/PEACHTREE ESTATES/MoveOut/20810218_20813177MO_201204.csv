@@ -1,0 +1,7 @@
+BATCH,,201204,B,5880.0000,
+INVOICE,IN,,20810218,,04/17/2012,2280.0000,"Invoice-Private",,04/17/2012,04/17/2012,,20813177MO,-5040.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,19,42.0000,798.00,"Resident Care - Level 4 for Apr: Stone, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,19,78.0000,1482.00,"Studio for Apr: Stone, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,20810218,,04/17/2012,3600,"Invoice-Private",,04/17/2012,04/17/2012,,20813177MO,-5040.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1260,1260,"CR:Resident Care -... M.Stone 201204: Stone, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2340,2340,"CR:Studio... M.Stone 201204: Stone, Margie",,,,,,,,,,,,,,,

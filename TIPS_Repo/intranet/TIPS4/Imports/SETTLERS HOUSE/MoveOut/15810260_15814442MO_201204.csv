@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,15810260,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15814442MO,-4584.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,30,2.0000,60.00,"Credit for Limited Term Discount: Ransom, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,15810260,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,15814442MO,-4584.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,30,2,60,"Limited Term Discount: Ransom, Arthur",,,,,,,,,,,,,,,

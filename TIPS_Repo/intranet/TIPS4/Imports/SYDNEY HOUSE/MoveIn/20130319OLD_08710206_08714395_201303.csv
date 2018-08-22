@@ -1,0 +1,5 @@
+BATCH,,201303,B,2371.3000,
+INVOICE,IN,,08710206,,03/18/2013,2371.3000,"MoveIn-Hartz. Viva",,03/18/2013,03/18/2013,,08714395,5309.8000,,,,,,,,,,
+TRANSACTION,3010,010103087,14,85.0000,1190,"Basic Service Fee - Studio: Hartz. Viva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103087,14,12.9500,181.3,"Resident Care - Level 7: Hartz. Viva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103087,1,1000.0000,1000,"New Resident Fee: Hartz. Viva",,,,,,,,,,,,,,,

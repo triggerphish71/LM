@@ -1,0 +1,8 @@
+BATCH,,201211,B,5390.4400,
+INVOICE,IN,,01210265,,11/26/2012,2489.2400,"Invoice-Private",,11/26/2012,11/26/2012,,01214200MO,-2759.9000,,,,,,,,,,
+TRANSACTION,3020,010103012,26,85.0000,2210.00,"M.Kenney: Basic Service Fee - Studio for Nov: Kenney, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3037,010103012,26,10.7400,279.24,"Private Care Rate Adjustments for Nov: Kenney, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,01210265,,11/26/2012,2901.2,"Invoice-Private",,11/26/2012,11/26/2012,,01214200MO,-2759.9000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2550,2550,"CR:M.Kenney: Basic... M.Kenney 201211: Kenney, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... M.Kenney 201211: Kenney, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3037,010103012,1,322.2,322.2,"CR:Private Care Ra... M.Kenney 201211: Kenney, Martha",,,,,,,,,,,,,,,

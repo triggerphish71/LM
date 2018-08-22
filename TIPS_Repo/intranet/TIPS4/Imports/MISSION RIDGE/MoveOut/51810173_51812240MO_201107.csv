@@ -1,0 +1,8 @@
+BATCH,,201107,B,3605.6000,
+INVOICE,IN,,51810173,,07/27/2011,959.4000,"Invoice-Private",,07/27/2011,07/27/2011,,51812240MO,-4786.8000,,,,,,,,,,
+TRANSACTION,3020,010103518,9,100.0000,900.00,"Basic Service Fee - One Bedroom for Jul: Andrews, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,9,6.6000,59.40,"Service level: lvl 0 to lvl 4 - 7/25/11 for Jul: Andrews, John",,,,,,,,,,,,,,,
+INVOICE,CM,,51810173,,07/27/2011,2646.2,"Invoice-Private",,07/27/2011,07/27/2011,,51812240MO,-4786.8000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,1100,1100,"CR:Basic Service F... J.Andrews 201107: Andrews, John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103518,1,1500,1500,"CR:New Resident Fe... J.Andrews 201107: Andrews, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,46.2,46.2,"CR:Service level: ... J.Andrews 201107: Andrews, John",,,,,,,,,,,,,,,

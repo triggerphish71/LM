@@ -1,0 +1,5 @@
+BATCH,,201308,B,50.0000,
+INVOICE,IN,,10910190,,08/01/2013,25.0000,"Invoice-Private",,08/01/2013,08/10/2013,,10915388MO,-3847.2800,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Henderson, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,10910190,,08/01/2013,25,"Invoice-Private",,08/01/2013,08/10/2013,,10915388MO,-3847.2800,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Henderson, Mary",,,,,,,,,,,,,,,

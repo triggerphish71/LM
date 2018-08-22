@@ -1,0 +1,5 @@
+BATCH,,201112,B,2197.0000,
+INVOICE,IN,,06210228,,12/30/2011,2197.0000,"MoveIn-Flint. Phyllis",,12/30/2011,12/30/2011,,06213675,4888.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,2,86.0000,172,"Basic Service Fee - Studio: Flint. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Flint. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Flint. Phyllis",,,,,,,,,,,,,,,

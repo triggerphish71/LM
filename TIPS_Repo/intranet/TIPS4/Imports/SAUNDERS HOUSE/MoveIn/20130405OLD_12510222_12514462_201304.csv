@@ -1,0 +1,5 @@
+BATCH,,201304,B,3281.0000,
+INVOICE,IN,,12510222,,04/04/2013,3281.0000,"MoveIn-Anderson. Arthur",,04/04/2013,04/04/2013,,12514462,3281.0000,,,,,,,,,,
+TRANSACTION,3010,010211125,27,85.0000,2295,"A.Anderson: Basic Service Fee - One Bedroom: Anderson. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211125,27,18.0000,486,"A.Anderson: Resident Care - Level 1: Anderson. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211125,1,500.0000,500,"New Resident Fee: Anderson. Arthur",,,,,,,,,,,,,,,

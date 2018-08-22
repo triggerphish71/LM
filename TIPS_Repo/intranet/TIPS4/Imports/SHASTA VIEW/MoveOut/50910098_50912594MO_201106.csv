@@ -1,0 +1,5 @@
+BATCH,,201106,B,540.0000,
+INVOICE,IN,,50910098,,06/01/2011,270.0000,"Invoice-Private",,06/01/2011,06/10/2011,,50912594MO,-1798.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,9.0000,270.00,"Credit for Limited Term Discount: Abbey, Lacey",,,,,,,,,,,,,,,
+INVOICE,CM,,50910098,,06/01/2011,270,"Invoice-Private",,06/01/2011,06/10/2011,,50912594MO,-1798.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,9,270,"Limited Term Discount: Abbey, Lacey",,,,,,,,,,,,,,,

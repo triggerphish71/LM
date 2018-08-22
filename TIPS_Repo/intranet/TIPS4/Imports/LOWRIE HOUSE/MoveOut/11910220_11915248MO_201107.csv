@@ -1,0 +1,5 @@
+BATCH,,201107,B,3901.0000,
+INVOICE,CM,,11910220,,07/01/2011,3901,"Invoice-Private",,07/01/2011,07/10/2011,,11915248MO,-3901.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2759,2759,"CR:Basic Service F... H.Lawrence 201107: Lawrence, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... H.Lawrence 201107: Lawrence, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1116,1116,"CR:Resident Care -... H.Lawrence 201107: Lawrence, Helen",,,,,,,,,,,,,,,

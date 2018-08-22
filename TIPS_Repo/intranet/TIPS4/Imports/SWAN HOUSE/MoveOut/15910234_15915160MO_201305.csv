@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,15910234,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15915160MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Tierney, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,15910234,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,15915160MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Tierney, Virginia",,,,,,,,,,,,,,,

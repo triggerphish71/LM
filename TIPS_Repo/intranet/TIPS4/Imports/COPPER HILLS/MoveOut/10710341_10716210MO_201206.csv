@@ -1,0 +1,7 @@
+BATCH,,201206,B,4032.0000,
+INVOICE,IN,,10710341,,06/02/2012,252.0000,"Invoice-Private",,06/02/2012,06/02/2012,,10716210MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3027,010107107,2,28.0000,56.00,"Resident Care - Level 2 for Jun: Chappell, Lawson Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,2,98.0000,196.00,"Room and Board - Studio for Jun: Chappell, Lawson Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,10710341,,06/02/2012,3780,"Invoice-Private",,06/02/2012,06/02/2012,,10716210MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3027,010107107,1,840,840,"CR:Resident Care -... L.Chappell 201206: Chappell, Lawson Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2940,2940,"CR:Room and Board ... L.Chappell 201206: Chappell, Lawson Ernest",,,,,,,,,,,,,,,

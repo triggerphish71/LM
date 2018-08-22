@@ -1,0 +1,5 @@
+BATCH,,201106,B,60.0000,
+INVOICE,IN,,06510142,,06/01/2011,30.0000,"Invoice-Private",,06/01/2011,06/10/2011,,06514279MO,-1877.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,30,1.0000,30.00,"Credit for Daily Discount: Squires, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,06510142,,06/01/2011,30,"Invoice-Private",,06/01/2011,06/10/2011,,06514279MO,-1877.0000,,,,,,,,,,
+TRANSACTION,3010,010305065,30,1,30,"Daily Discount: Squires, Geneva",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201111,B,4293.0000,
+INVOICE,IN,,05210246,,11/01/2011,1896.0000,"Invoice-Private",,11/01/2011,11/10/2011,,05214626MO,-501.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,24,79.0000,1896.00,"Basic Service Fee - Studio for Nov: Tuggle, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,05210246,,11/01/2011,2397,"Invoice-Private",,11/01/2011,11/10/2011,,05214626MO,-501.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2370,2370,"CR:Basic Service F... M.Tuggle 201111: Tuggle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... M.Tuggle 201111: Tuggle, Mary",,,,,,,,,,,,,,,

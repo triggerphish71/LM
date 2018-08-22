@@ -1,0 +1,5 @@
+BATCH,,201106,B,50.0000,
+INVOICE,IN,,52910163,,06/01/2011,25.0000,"Invoice-Private",,06/01/2011,06/10/2011,,52912533MO,-4145.0000,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25.00,"Monthly Cable: Thielmann, Glenroy",,,,,,,,,,,,,,,
+INVOICE,CM,,52910163,,06/01/2011,25,"Invoice-Private",,06/01/2011,06/10/2011,,52912533MO,-4145.0000,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"Credit for Monthly Cable: Thielmann, Glenroy",,,,,,,,,,,,,,,

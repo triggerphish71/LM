@@ -1,0 +1,7 @@
+BATCH,,201201,B,1508.6200,
+INVOICE,IN,,13910107,,01/01/2012,754.3100,"Invoice-Medicaid",,01/01/2012,01/10/2012,,13915941MO,-1808.6400,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Sword, Lena",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103139,1,724.3100,724.31,"State Medicaid: Sword, Lena",,,,,,,,,,,,,,,
+INVOICE,CM,,13910107,,01/01/2012,754.31,"Invoice-Medicaid",,01/01/2012,01/10/2012,,13915941MO,-1808.6400,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Sword, Lena",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103139,1,724.31,724.31,"Credit for State Medicaid: Sword, Lena",,,,,,,,,,,,,,,

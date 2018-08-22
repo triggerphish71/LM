@@ -1,0 +1,7 @@
+BATCH,,201212,B,6396.0000,
+INVOICE,IN,,16110200,,12/21/2012,2583.0000,"Invoice-Private",,12/21/2012,12/21/2012,,16115745MO,-5043.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,21,88.0000,1848.00,"Basic Service Fee - Studio for Dec: Champagne, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3037,010313161,21,35.0000,735.00,"Private Care Rate Adjustment for Dec: Champagne, Loretta",,,,,,,,,,,,,,,
+INVOICE,CM,,16110200,,12/21/2012,3813,"Invoice-Private",,12/21/2012,12/21/2012,,16115745MO,-5043.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... L.Champagne 201212: Champagne, Loretta",,,,,,,,,,,,,,,
+TRANSACTION,3037,010313161,1,1085,1085,"CR:Private Care Ra... L.Champagne 201212: Champagne, Loretta",,,,,,,,,,,,,,,

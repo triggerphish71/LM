@@ -1,0 +1,8 @@
+BATCH,,201106,B,4537.0000,
+INVOICE,IN,,05610162,,06/22/2011,2050.0000,"Invoice-Private",,06/22/2011,06/22/2011,,05614112MO,-2979.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,25,66.0000,1650.00,"L.Gorrell: Basic Service Fee - Studio for Jun: Gorrell, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,25,16.0000,400.00,"L.Gorrell: Resident Care - Level 1 for Jun: Gorrell, Leon",,,,,,,,,,,,,,,
+INVOICE,CM,,05610162,,06/22/2011,2487,"Invoice-Private",,06/22/2011,06/22/2011,,05614112MO,-2979.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,1980,1980,"CR:L.Gorrell: Basi... L.Gorrell 201106: Gorrell, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,1,480,480,"CR:L.Gorrell: Resi... L.Gorrell 201106: Gorrell, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... L.Gorrell 201106: Gorrell, Leon",,,,,,,,,,,,,,,

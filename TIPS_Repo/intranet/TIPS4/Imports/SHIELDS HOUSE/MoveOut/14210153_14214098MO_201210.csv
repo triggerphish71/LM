@@ -1,0 +1,7 @@
+BATCH,,201210,B,194.0000,
+INVOICE,IN,,14210153,,10/01/2012,97.0000,"Invoice-Private",,10/01/2012,10/10/2012,,14214098MO,-5954.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Tidd, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,31,2.0000,62.00,"Credit for Limited Term Discount: Tidd, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,14210153,,10/01/2012,97,"Invoice-Private",,10/01/2012,10/10/2012,,14214098MO,-5954.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Tidd, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,31,2,62,"Limited Term Discount: Tidd, Patricia",,,,,,,,,,,,,,,

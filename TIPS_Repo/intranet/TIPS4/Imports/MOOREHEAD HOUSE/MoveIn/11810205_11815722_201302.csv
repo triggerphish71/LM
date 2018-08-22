@@ -1,0 +1,5 @@
+BATCH,,201302,B,4604.0000,
+INVOICE,IN,,11810205,,02/01/2013,4604.0000,"February_Rent-Miller. Robert",,02/01/2013,02/10/2013,,11815722,8252.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,28,102.0000,2856,"R.Miller: Basic Service Fee - Studio: Miller. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,28,61.0000,1708,"R.Miller: Resident Care - Level 4: Miller. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Miller. Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,1604.0000,
+INVOICE,IN,,08010202,,01/01/2012,802.0000,"Invoice-Private",,01/01/2012,01/10/2012,,08014015MO,-1753.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Vannatta, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,25.0000,775.00,"Credit for Limited Term Discount: Vannatta, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08010202,,01/01/2012,802,"Invoice-Private",,01/01/2012,01/10/2012,,08014015MO,-1753.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Vannatta, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,25,775,"Limited Term Discount: Vannatta, Helen",,,,,,,,,,,,,,,

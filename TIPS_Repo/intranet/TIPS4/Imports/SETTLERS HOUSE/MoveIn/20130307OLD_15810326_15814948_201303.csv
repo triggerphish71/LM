@@ -1,0 +1,5 @@
+BATCH,,201303,B,5000.0000,
+INVOICE,IN,,15810326,,03/07/2013,5000.0000,"MoveIn-Nash. Lora",,03/07/2013,03/07/2013,,15814948,5000.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,25,96.0000,2400,"Basic Service Fee - Studio: Nash. Lora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,25,44.0000,1100,"Resident Care - Level 3: Nash. Lora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: Nash. Lora",,,,,,,,,,,,,,,

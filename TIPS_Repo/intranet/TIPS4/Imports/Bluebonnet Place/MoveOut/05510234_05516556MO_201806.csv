@@ -1,0 +1,8 @@
+BATCH,,201806,B,5224.0000,
+INVOICE,IN,,05510234,,06/18/2018,2824.0000,"Invoice-Private",,06/18/2018,06/18/2018,,05516556MO,424.0000,,,,,,,,,,
+TRANSACTION,3017,010002055,20,20.0000,400.00,"Level: 1 : Bruce, Barbra",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002055,9,76.0000,684.00," Level: 4 : Bruce, Barbra",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002055,29,60.0000,1740.00,"Basic Service Fee - Studio for Jun: Bruce, Barbra",,,,,,,,,,,,,,,
+INVOICE,CM,,05510234,,06/18/2018,2400,"Invoice-Private",,06/18/2018,06/18/2018,,05516556MO,424.0000,,,,,,,,,,
+TRANSACTION,3020,010002055,1,1800,1800,"CR:Basic Service F... B.Bruce 201806: Bruce, Barbra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002055,1,600,600,"CR:Resident Care -... B.Bruce 201806: Bruce, Barbra",,,,,,,,,,,,,,,

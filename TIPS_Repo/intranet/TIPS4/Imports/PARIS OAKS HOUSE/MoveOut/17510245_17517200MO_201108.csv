@@ -1,0 +1,7 @@
+BATCH,,201108,B,5185.0000,
+INVOICE,IN,,17510245,,08/26/2011,2550.0000,"Invoice-Private",,08/26/2011,08/26/2011,,17517200MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,30,73.0000,2190.00,"Basic Service Fee - Studio Deluxe for Aug: Wallace, Ora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,30,12.0000,360.00,"Resident Care - Level 1 for Aug: Wallace, Ora",,,,,,,,,,,,,,,
+INVOICE,CM,,17510245,,08/26/2011,2635,"Invoice-Private",,08/26/2011,08/26/2011,,17517200MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2263,2263,"CR:Basic Service F... O.Wallace 201108: Wallace, Ora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... O.Wallace 201108: Wallace, Ora",,,,,,,,,,,,,,,

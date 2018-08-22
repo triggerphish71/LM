@@ -1,0 +1,7 @@
+BATCH,,201106,B,9774.0000,
+INVOICE,IN,,21610211,,06/01/2011,4194.0000,"Invoice-Private",,06/01/2011,06/01/2011,,21612859MO,-1386.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,19,126.0000,2394.00,"Two Bedroom for Jun: Gilmartin, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216216,30,60.0000,1800.00,"Credit for Limited Term Discount: Gilmartin, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,21610211,,06/01/2011,5580,"Invoice-Private",,06/01/2011,06/01/2011,,21612859MO,-1386.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3780,3780,"CR:Two Bedroom... R.Gilmartin 201106: Gilmartin, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216216,30,60,1800,"Limited Term Discount: Gilmartin, Richard",,,,,,,,,,,,,,,

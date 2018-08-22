@@ -1,0 +1,5 @@
+BATCH,,201210,B,5731.0000,
+INVOICE,IN,,03110349,,10/01/2012,5731.0000,"October_Rent-McCoy. Dexter",,10/01/2012,10/10/2012,,03117060,7692.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,31,115.0000,3565,"Basic Service Fee - One Bedroom: McCoy. Dexter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,31,69.0000,2139,"Resident Care - Level 5: McCoy. Dexter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: McCoy. Dexter",,,,,,,,,,,,,,,

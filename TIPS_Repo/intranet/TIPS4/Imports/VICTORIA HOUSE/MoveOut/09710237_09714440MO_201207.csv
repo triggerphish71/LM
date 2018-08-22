@@ -1,0 +1,7 @@
+BATCH,,201207,B,2274.8400,
+INVOICE,IN,,09710237,,07/23/2012,631.9000,"Invoice-Private",,07/23/2012,07/23/2012,,09714440MO,-4928.8200,,,,,,,,,,
+TRANSACTION,3020,010103097,5,87.0000,435.00,"Basic Service Fee - Studio for Jul: Hall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,5,39.3800,196.90,"Resident Care - Level 22 for Jul: Hall, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,09710237,,07/23/2012,1642.94,"Invoice-Private",,07/23/2012,07/23/2012,,09714440MO,-4928.8200,,,,,,,,,,
+TRANSACTION,3020,010103097,1,1131,1131,"CR:Basic Service F... B.Hall 201207: Hall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,511.94,511.94,"CR:Resident Care -... B.Hall 201207: Hall, Betty",,,,,,,,,,,,,,,

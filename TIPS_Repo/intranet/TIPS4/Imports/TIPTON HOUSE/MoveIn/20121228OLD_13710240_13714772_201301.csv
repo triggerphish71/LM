@@ -1,0 +1,5 @@
+BATCH,,201301,B,4153.0000,
+INVOICE,IN,,13710240,,01/01/2013,4153.0000,"January_Rent-kennedy. Jean",,01/01/2013,01/10/2013,,13714772,4715.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,31,115.0000,3565,"Basic Service Fee - One Bedroom: kennedy. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,31,18.0000,558,"Resident Care - Level 1: kennedy. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: kennedy. Jean",,,,,,,,,,,,,,,

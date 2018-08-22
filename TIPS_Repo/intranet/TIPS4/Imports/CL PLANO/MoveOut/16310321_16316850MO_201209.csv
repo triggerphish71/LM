@@ -1,0 +1,7 @@
+BATCH,,201209,B,2605.0000,
+INVOICE,IN,,16310321,,09/21/2012,98.0000,"Invoice-Private",,09/21/2012,09/21/2012,,16316850MO,-5474.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,98.0000,98.00,"Basic Service Fee - Studio for Sep: Savage, Jan",,,,,,,,,,,,,,,
+INVOICE,CM,,16310321,,09/21/2012,2507,"Invoice-Private",,09/21/2012,09/21/2012,,16316850MO,-5474.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,980,980,"CR:Basic Service F... J.Savage 201209: Savage, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... J.Savage 201209: Savage, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202163,1,1500,1500,"CR:New Resident Fe... J.Savage 201209: Savage, Jan",,,,,,,,,,,,,,,

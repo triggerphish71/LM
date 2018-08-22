@@ -1,0 +1,8 @@
+BATCH,,201111,B,2712.0000,
+INVOICE,IN,,15710219,,11/21/2011,1152.0000,"Invoice-Private",,11/21/2011,11/21/2011,,15714335MO,-1958.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,60.0000,60.00,"CR:Limited Term Di... P.Schmidt 201111: Schmidt, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,21,34.0000,714.00,"Basic Service Fee - Second Resident for Nov: Schmidt, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,21,18.0000,378.00,"Resident Care - Level 1 for Nov: Schmidt, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,15710219,,11/21/2011,1560,"Invoice-Private",,11/21/2011,11/21/2011,,15714335MO,-1958.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,1020,1020,"CR:Basic Service F... P.Schmidt 201111: Schmidt, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,540,540,"CR:Resident Care -... P.Schmidt 201111: Schmidt, Paul",,,,,,,,,,,,,,,

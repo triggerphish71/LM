@@ -1,0 +1,7 @@
+BATCH,,201202,B,7436.0000,
+INVOICE,IN,,50210178,,02/15/2012,2535.0000,"Invoice-Private",,02/15/2012,02/15/2012,,50213333MO,-7630.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,15,121.0000,1815.00,"Basic Service Fee - One Bedroom Del for Feb: Norton, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,15,48.0000,720.00,"Resident Care - Level 4 for Feb: Norton, Horace",,,,,,,,,,,,,,,
+INVOICE,CM,,50210178,,02/15/2012,4901,"Invoice-Private",,02/15/2012,02/15/2012,,50213333MO,-7630.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3509,3509,"CR:Basic Service F... H.Norton 201202: Norton, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1392,1392,"CR:Resident Care -... H.Norton 201202: Norton, Horace",,,,,,,,,,,,,,,

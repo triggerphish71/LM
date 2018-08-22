@@ -1,0 +1,7 @@
+BATCH,,201208,B,3520.0000,
+INVOICE,IN,,16210146,,07/31/2012,110.0000,"MoveIn-Brammer. Joyce",,07/31/2012,07/31/2012,,16213007,3520.0000,,,,,,,,,,
+TRANSACTION,3014,010211162,1,82.0000,82,"Basic Service Fee - One Bedroom: Brammer. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,1,28.0000,28,"Resident Care - Level 2: Brammer. Joyce",,,,,,,,,,,,,,,
+INVOICE,IN,,16210146,,08/01/2012,3410.0000,"August_Rent-Brammer. Joyce",,08/01/2012,08/10/2012,,16213007,3520.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,31,82.0000,2542,"Basic Service Fee - One Bedroom: Brammer. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,31,28.0000,868,"Resident Care - Level 2: Brammer. Joyce",,,,,,,,,,,,,,,

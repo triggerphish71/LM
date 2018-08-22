@@ -1,0 +1,7 @@
+BATCH,,201111,B,5677.0000,
+INVOICE,IN,,16910209,,11/01/2011,990.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16914625MO,-3165.2000,,,,,,,,,,
+TRANSACTION,3320,010103169,1,990.0000,990.00,"CR:Limited Term Di... W.Clausen 201111: Clausen, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,16910209,,11/01/2011,4687,"Invoice-Private",,11/01/2011,11/10/2011,,16914625MO,-3165.2000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2520,2520,"CR:Basic Service F... W.Clausen 201111: Clausen, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... W.Clausen 201111: Clausen, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,2142,2142,"CR:Resident Care -... W.Clausen 201111: Clausen, Wilbur",,,,,,,,,,,,,,,

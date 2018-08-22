@@ -1,0 +1,6 @@
+BATCH,,201202,B,2896.0000,
+INVOICE,IN,,08210184,,02/01/2012,348.0000,"Invoice-Private",,02/01/2012,02/10/2012,,08214490MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010103082,4,87.0000,348.00,"Basic Service Fee - Studio for Feb: Chamberlain, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,08210184,,02/01/2012,2548,"Invoice-Private",,02/01/2012,02/10/2012,,08214490MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2523,2523,"CR:Basic Service F... L.Chamberlain 201202: Chamberlain, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... L.Chamberlain 201202: Chamberlain, Laura",,,,,,,,,,,,,,,

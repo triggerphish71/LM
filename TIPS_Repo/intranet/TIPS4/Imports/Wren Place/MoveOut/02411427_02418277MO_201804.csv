@@ -1,0 +1,5 @@
+BATCH,,201804,B,4108.4000,
+INVOICE,CM,,02411427,,04/01/2018,4108.4,"Invoice-Private",,04/01/2018,04/10/2018,,02418277MO,-3830.4000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,3000,3000,"CR:Basic Service F... L.George 201804: George, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4,28.4,"CR:Monthly Cable... L.George 201804: George, Laverne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,1080,1080,"CR:Resident Care -... L.George 201804: George, Laverne",,,,,,,,,,,,,,,

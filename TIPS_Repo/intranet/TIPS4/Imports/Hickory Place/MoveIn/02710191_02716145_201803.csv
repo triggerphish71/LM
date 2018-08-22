@@ -1,0 +1,7 @@
+BATCH,,201803,B,5978.9700,
+INVOICE,IN,,02710191,,03/01/2018,5978.9700,"MoveIn-Bruner. Billie  JO",,03/01/2018,03/01/2018,,02716145,5978.9700,,,,,,,,,,
+TRANSACTION,3010,010002027,31,85.0000,2635,"Basic Service Fee - Studio: Bruner. Billie  JO",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002027,31,21.0000,651,"Resident Care - Level 1: Bruner. Billie  JO",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,2000.0000,2000,"Community Fee: Bruner. Billie  JO",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002027,1,26.3000,26.3,"Monthly Cable: Bruner. Billie  JO",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,666.6700,666.67,"Monthly Deferral Charge: Bruner. Billie  JO",,,,,,,,,,,,,,,

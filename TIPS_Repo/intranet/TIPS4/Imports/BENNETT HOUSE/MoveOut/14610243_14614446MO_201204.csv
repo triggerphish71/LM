@@ -1,0 +1,6 @@
+BATCH,,201204,B,5424.0000,
+INVOICE,IN,,14610243,,04/06/2012,2604.0000,"Invoice-Private",,04/06/2012,04/06/2012,,14614446MO,-216.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,28,93.0000,2604.00,"Basic Service Fee - Studio for Apr: Howell, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,14610243,,04/06/2012,2820,"Invoice-Private",,04/06/2012,04/06/2012,,14614446MO,-216.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2790,2790,"CR:Basic Service F... M.Howell 201204: Howell, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Howell 201204: Howell, Marie",,,,,,,,,,,,,,,

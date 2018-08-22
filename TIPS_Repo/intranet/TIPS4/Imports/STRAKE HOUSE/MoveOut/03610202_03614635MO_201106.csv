@@ -1,0 +1,7 @@
+BATCH,,201106,B,234.0000,
+INVOICE,IN,,03610202,,06/01/2011,117.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03614635MO,-442.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Fox, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,30,3.0000,90.00,"Credit for Limited Term Discount: Fox, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,03610202,,06/01/2011,117,"Invoice-Private",,06/01/2011,06/10/2011,,03614635MO,-442.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Fox, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,30,3,90,"Limited Term Discount: Fox, Tom",,,,,,,,,,,,,,,

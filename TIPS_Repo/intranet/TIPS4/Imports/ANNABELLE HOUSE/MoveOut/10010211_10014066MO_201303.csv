@@ -1,0 +1,8 @@
+BATCH,,201303,B,4855.0000,
+INVOICE,IN,,10010211,,03/11/2013,1265.0000,"Invoice-Private",,03/11/2013,03/11/2013,,10014066MO,-2325.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,11,72.0000,792.00,"Basic Service Fee - One Bedroom for Mar: Hohrein, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,11,43.0000,473.00,"Resident Care - Level 3 for Mar: Hohrein, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,10010211,,03/11/2013,3590,"Invoice-Private",,03/11/2013,03/11/2013,,10014066MO,-2325.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2232,2232,"CR:Basic Service F... E.Hohrein 201303: Hohrein, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... E.Hohrein 201303: Hohrein, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,1333,1333,"CR:Resident Care -... E.Hohrein 201303: Hohrein, Ed",,,,,,,,,,,,,,,

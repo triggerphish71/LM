@@ -1,0 +1,7 @@
+BATCH,,201208,B,2835.0000,
+INVOICE,IN,,12110204,,08/04/2012,324.0000,"Invoice-Private",,08/04/2012,08/04/2012,,12115890MO,-2187.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,4,37.0000,148.00,"Basic Service Fee - Second Resident for Aug: Cross, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,4,44.0000,176.00,"Resident Care - Level 3 for Aug: Cross, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,12110204,,08/04/2012,2511,"Invoice-Private",,08/04/2012,08/04/2012,,12115890MO,-2187.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,1147,1147,"CR:Basic Service F... S.Cross 201208: Cross, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,1364,1364,"CR:Resident Care -... S.Cross 201208: Cross, Sylvia",,,,,,,,,,,,,,,

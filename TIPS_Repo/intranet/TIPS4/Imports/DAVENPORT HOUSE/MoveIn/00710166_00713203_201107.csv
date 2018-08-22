@@ -1,0 +1,5 @@
+BATCH,,201107,B,1301.2000,
+INVOICE,IN,,00710166,,07/29/2011,1301.2000,"MoveIn-St John. John",,07/29/2011,07/29/2011,,00713203,4413.6000,,,,,,,,,,
+TRANSACTION,3010,010101007,3,80.0000,240,"Basic Service Fee - Studio         : St John. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,3,20.4000,61.2,"Resident Care - Level 12: St John. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: St John. John",,,,,,,,,,,,,,,

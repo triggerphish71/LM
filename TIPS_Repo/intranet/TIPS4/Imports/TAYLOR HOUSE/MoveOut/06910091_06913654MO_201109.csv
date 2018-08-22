@@ -1,0 +1,7 @@
+BATCH,,201109,B,6674.0000,
+INVOICE,IN,,06910091,,09/17/2011,2414.0000,"Invoice-Private",,09/17/2011,09/17/2011,,06913654MO,-6248.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,17,73.0000,1241.00,"Basic Service Fee - Studio for Sep: Hermon, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,17,69.0000,1173.00,"Resident Care - Level 5 for Sep: Hermon, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,06910091,,09/17/2011,4260,"Invoice-Private",,09/17/2011,09/17/2011,,06913654MO,-6248.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2190,2190,"CR:Basic Service F... H.Hermon 201109: Hermon, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,2070,2070,"CR:Resident Care -... H.Hermon 201109: Hermon, Helen",,,,,,,,,,,,,,,

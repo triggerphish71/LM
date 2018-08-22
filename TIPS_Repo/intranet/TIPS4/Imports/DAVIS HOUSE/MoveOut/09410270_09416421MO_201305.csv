@@ -1,0 +1,8 @@
+BATCH,,201305,B,8007.0000,
+INVOICE,IN,,09410270,,05/18/2013,2934.0000,"Invoice-Private",,05/18/2013,05/18/2013,,09416421MO,-7049.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,18,117.0000,2106.00,"Basic Service Fee - One Bedroom for May: Whited, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,18,46.0000,828.00,"Resident Care - Level 3 for May: Whited, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,09410270,,05/18/2013,5073,"Invoice-Private",,05/18/2013,05/18/2013,,09416421MO,-7049.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3627,3627,"CR:Basic Service F... C.Whited 201305: Whited, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,1426,1426,"CR:Resident Care -... C.Whited 201305: Whited, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3228,010107094,1,20,20,"CR:Sharps Disposal... C.Whited 201305: Whited, Carl",,,,,,,,,,,,,,,

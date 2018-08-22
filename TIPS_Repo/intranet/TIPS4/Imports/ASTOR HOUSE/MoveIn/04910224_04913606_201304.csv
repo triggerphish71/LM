@@ -1,0 +1,6 @@
+BATCH,,201304,B,4434.7500,
+INVOICE,IN,,04910224,,04/10/2013,4434.7500,"MoveIn-Lipe. Joan",,04/10/2013,04/10/2013,,04913606,4434.7500,,,,,,,,,,
+TRANSACTION,3010,010101049,21,87.0000,1827,"Basic Service Fee - Studio: Lipe. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,21,27.7500,582.75,"Resident Care - Level 15: Lipe. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Lipe. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Lipe. Joan",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,3418.0000,
+INVOICE,IN,,09910212,,02/01/2012,3418.0000,"February_Rent-Roper. Jim",,02/01/2012,02/10/2012,,09914109,5496.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,29,88.0000,2552,"J.Roper: Basic Service Fee - Studio: Roper. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,29,29.0000,841,"J.Roper: Resident Care - Level 2: Roper. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Roper. Jim",,,,,,,,,,,,,,,

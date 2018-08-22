@@ -1,0 +1,5 @@
+BATCH,,201110,B,4125.0000,
+INVOICE,IN,,08210196,,10/07/2011,4125.0000,"MoveIn-Walthrop. Marcia",,10/07/2011,10/07/2011,,08214419,4125.0000,,,,,,,,,,
+TRANSACTION,3010,010103082,25,84.0000,2100,"Basic Service Fee - Studio         : Walthrop. Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25.0000,25,"Monthly Cable: Walthrop. Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103082,1,2000.0000,2000,"New Resident Fee: Walthrop. Marcia",,,,,,,,,,,,,,,

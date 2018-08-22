@@ -1,0 +1,8 @@
+BATCH,,201209,B,2912.0000,
+INVOICE,IN,,04510220,,09/01/2012,152.0000,"Invoice-Private",,09/01/2012,09/01/2012,,04514187MO,-2608.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,1,60.0000,60.00,"CR:Limited Term Di... B.Miller 201209: Miller, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,1,76.0000,76.00,"Basic Service Fee - Studio for Sep: Miller, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,16.0000,16.00,"Resident Care - Level 1 for Sep: Miller, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,04510220,,09/01/2012,2760,"Invoice-Private",,09/01/2012,09/01/2012,,04514187MO,-2608.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2280,2280,"CR:Basic Service F... B.Miller 201209: Miller, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,480,480,"CR:Resident Care -... B.Miller 201209: Miller, Betty",,,,,,,,,,,,,,,

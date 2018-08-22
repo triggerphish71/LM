@@ -1,0 +1,5 @@
+BATCH,,201110,B,2115.9000,
+INVOICE,IN,,03910221,,10/31/2011,2115.9000,"MoveIn-Casanova. June",,10/31/2011,10/31/2011,,03914311,5592.9000,,,,,,,,,,
+TRANSACTION,3010,010101039,1,87.0000,87,"Basic Service Fee - Studio         : Casanova. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,1,28.9000,28.9,"Resident Care - Level 17: Casanova. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Casanova. June",,,,,,,,,,,,,,,

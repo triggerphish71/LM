@@ -1,0 +1,5 @@
+BATCH,,201201,B,3414.0000,
+INVOICE,CM,,13310196,,01/01/2012,3414,"Invoice-Private",,01/01/2012,01/10/2012,,13315212MO,-4403.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... I.Archer 201201: Archer, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... I.Archer 201201: Archer, Iris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,527,527,"CR:Resident Care -... I.Archer 201201: Archer, Iris",,,,,,,,,,,,,,,

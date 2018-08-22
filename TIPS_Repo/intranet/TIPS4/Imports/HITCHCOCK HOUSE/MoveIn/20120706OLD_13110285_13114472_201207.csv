@@ -1,0 +1,5 @@
+BATCH,,201207,B,4828.0000,
+INVOICE,IN,,13110285,,07/06/2012,4828.0000,"MoveIn-Wood. Ronald",,07/06/2012,07/06/2012,,13114472,4828.0000,,,,,,,,,,
+TRANSACTION,3010,010308131,26,100.0000,2600,"Basic Service Fee - Studio: Wood. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308131,26,28.0000,728,"Resident Care - Level 2: Wood. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1500.0000,1500,"New Resident Fee: Wood. Ronald",,,,,,,,,,,,,,,

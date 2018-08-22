@@ -1,0 +1,6 @@
+BATCH,,201106,B,4002.0000,
+INVOICE,IN,,08010128,,06/04/2011,1212.0000,"Invoice-Private",,06/04/2011,06/04/2011,,08013913MO,-1578.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,1,840.0000,840.00,"CR:Limited Term Di... E.Dunn 201106: Dunn, Errolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202080,4,93.0000,372.00,"Room and Board - Studio for Jun: Dunn, Errolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,08010128,,06/04/2011,2790,"Invoice-Private",,06/04/2011,06/04/2011,,08013913MO,-1578.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,2790,2790,"CR:Room and Board ... E.Dunn 201106: Dunn, Errolyn",,,,,,,,,,,,,,,

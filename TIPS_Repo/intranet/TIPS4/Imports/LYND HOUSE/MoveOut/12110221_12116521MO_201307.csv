@@ -1,0 +1,6 @@
+BATCH,,201307,B,3785.0000,
+INVOICE,IN,,12110221,,07/18/2013,1425.0000,"Invoice-Private",,07/18/2013,07/18/2013,,12116521MO,-3295.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,19,75.0000,1425.00,"Basic Service Fee - Studio for Jul: Parish, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,12110221,,07/18/2013,2360,"Invoice-Private",,07/18/2013,07/18/2013,,12116521MO,-3295.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2325,2325,"CR:Basic Service F... F.Parish 201307: Parish, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... F.Parish 201307: Parish, Frank",,,,,,,,,,,,,,,

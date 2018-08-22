@@ -1,0 +1,7 @@
+BATCH,,201303,B,5406.4000,
+INVOICE,IN,,04810290,,03/21/2013,2213.4000,"Invoice-Private",,03/21/2013,03/21/2013,,04814982MO,-4069.6000,,,,,,,,,,
+TRANSACTION,3020,010202048,21,31.0000,651.00,"Basic Service Fee - Second Resident for Mar: Peters, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,21,74.4000,1562.40,"Increase Room and Board for Mar: Peters, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,04810290,,03/21/2013,3193,"Invoice-Private",,03/21/2013,03/21/2013,,04814982MO,-4069.6000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,961,961,"CR:Basic Service F... R.Peters 201303: Peters, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,1,2232,2232,"CR:Increase Room a... R.Peters 201303: Peters, Ralph",,,,,,,,,,,,,,,

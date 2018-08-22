@@ -1,0 +1,5 @@
+BATCH,,201212,B,1674.0000,
+INVOICE,IN,,17910202,,12/01/2012,837.0000,"Invoice-Private",,12/01/2012,12/10/2012,,17915162MO,-1782.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,31,27.0000,837.00,"Credit for Limited Term Discount: Bradley, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,17910202,,12/01/2012,837,"Invoice-Private",,12/01/2012,12/10/2012,,17915162MO,-1782.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,31,27,837,"Limited Term Discount: Bradley, Darrell",,,,,,,,,,,,,,,

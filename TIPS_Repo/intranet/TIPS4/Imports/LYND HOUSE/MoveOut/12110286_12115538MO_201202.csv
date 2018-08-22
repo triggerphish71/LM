@@ -1,0 +1,6 @@
+BATCH,,201202,B,7160.0000,
+INVOICE,IN,,12110286,,02/06/2012,3500.0000,"Invoice-Private",,02/06/2012,02/06/2012,,12115538MO,-160.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,28,125.0000,3500.00,"Basic Service Fee- One Bedroom Prem for Feb: Brammer, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,12110286,,02/06/2012,3660,"Invoice-Private",,02/06/2012,02/06/2012,,12115538MO,-160.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3625,3625,"CR:Basic Service F... J.Brammer 201202: Brammer, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... J.Brammer 201202: Brammer, Joe",,,,,,,,,,,,,,,

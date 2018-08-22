@@ -1,0 +1,7 @@
+BATCH,,201301,B,6287.0000,
+INVOICE,IN,,11210272,,01/01/2013,1116.0000,"Invoice-Private",,01/01/2013,01/10/2013,,11216401MO,-4458.0000,,,,,,,,,,
+TRANSACTION,3320,010310112,1,1116.0000,1116.00,"CR:Limited Term Di... H.Burd 201301: Burd, Harmon",,,,,,,,,,,,,,,
+INVOICE,CM,,11210272,,01/01/2013,5171,"Invoice-Private",,01/01/2013,01/10/2013,,11216401MO,-4458.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3007,3007,"CR:Basic Service F... H.Burd 201301: Burd, Harmon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... H.Burd 201301: Burd, Harmon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,2139,2139,"CR:Resident Care -... H.Burd 201301: Burd, Harmon",,,,,,,,,,,,,,,

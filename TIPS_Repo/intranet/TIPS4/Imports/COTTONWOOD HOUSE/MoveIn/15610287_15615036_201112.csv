@@ -1,0 +1,6 @@
+BATCH,,201112,B,5189.0000,
+INVOICE,IN,,15610287,,12/08/2011,5189.0000,"MoveIn-Williams. Maxyne",,12/08/2011,12/08/2011,,15615036,5189.0000,,,,,,,,,,
+TRANSACTION,3010,010211156,24,99.0000,2376,"M.Williams: Basic Service Fee - Deluxe: Williams. Maxyne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211156,24,32.0000,768,"M.Williams: Resident Care - Level 2: Williams. Maxyne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000.0000,2000,"New Resident Fee: Williams. Maxyne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45.0000,45,"Pendant Fee: Williams. Maxyne",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,2351.0000,
+INVOICE,IN,,04610194,,08/26/2011,2351.0000,"MoveIn-Mathews. Max",,08/26/2011,08/26/2011,,04613406,5256.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,6,96.0000,576,"Basic Service Fee - Studio         : Mathews. Max",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Mathews. Max",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202046,1,1750.0000,1750,"New Resident Fee: Mathews. Max",,,,,,,,,,,,,,,

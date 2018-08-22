@@ -1,0 +1,7 @@
+BATCH,,201209,B,4100.0000,
+INVOICE,IN,,50310269,,09/01/2012,1100.0000,"Invoice-Private",,09/01/2012,09/10/2012,,50314413MO,-1900.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,11,75.0000,825.00,"Basic Service Fee - Studio for Sep: Jasper, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,11,25.0000,275.00,"Resident Care - Level 2 for Sep: Jasper, Nina",,,,,,,,,,,,,,,
+INVOICE,CM,,50310269,,09/01/2012,3000,"Invoice-Private",,09/01/2012,09/10/2012,,50314413MO,-1900.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2250,2250,"CR:Basic Service F... N.Jasper 201209: Jasper, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,750,750,"CR:Resident Care -... N.Jasper 201209: Jasper, Nina",,,,,,,,,,,,,,,

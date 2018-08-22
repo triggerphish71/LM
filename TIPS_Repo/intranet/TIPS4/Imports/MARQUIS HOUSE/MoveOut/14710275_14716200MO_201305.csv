@@ -1,0 +1,7 @@
+BATCH,,201305,B,3192.0000,
+INVOICE,IN,,14710275,,05/25/2013,1425.0000,"Invoice-Private",,05/25/2013,05/25/2013,,14716200MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,25,38.0000,950.00,"Basic Service Fee - Second Resident for May: Trent, Irma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,25,19.0000,475.00,"Resident Care - Level 1 for May: Trent, Irma",,,,,,,,,,,,,,,
+INVOICE,CM,,14710275,,05/25/2013,1767,"Invoice-Private",,05/25/2013,05/25/2013,,14716200MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,1178,1178,"CR:Basic Service F... I.Trent 201305: Trent, Irma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,589,589,"CR:Resident Care -... I.Trent 201305: Trent, Irma",,,,,,,,,,,,,,,

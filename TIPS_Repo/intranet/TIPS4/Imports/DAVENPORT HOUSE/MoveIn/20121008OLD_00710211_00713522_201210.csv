@@ -1,0 +1,5 @@
+BATCH,,201210,B,3179.2000,
+INVOICE,IN,,00710211,,10/08/2012,3179.2000,"MoveIn-Church. Verne",,10/08/2012,10/08/2012,,00713522,3179.2000,,,,,,,,,,
+TRANSACTION,3010,010101007,24,55.0000,1320,"Basic Service Fee - Studio: Church. Verne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,24,35.8000,859.2,"Resident Care - Level 20: Church. Verne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Church. Verne",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,4128.0000,
+INVOICE,IN,,52310134,,01/03/2013,4128.0000,"MoveIn-Snowden. Shirley",,01/03/2013,01/03/2013,,52312165,4128.0000,,,,,,,,,,
+TRANSACTION,3010,010103523,29,82.0000,2378,"Basic Service Fee - Studio: Snowden. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103523,1,1500.0000,1500,"New Resident Fee: Snowden. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3213,010103523,1,250.0000,250,"Pet Fee: Snowden. Shirley",,,,,,,,,,,,,,,

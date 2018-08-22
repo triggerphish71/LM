@@ -1,0 +1,5 @@
+BATCH,,201208,B,833.3300,
+INVOICE,IN,,14910183,,07/01/2012,83.3300,"July_Rent-Korner. Donald and Dorothy",,07/01/2012,07/10/2012,,14914731,4143.3300,,,,,,,,,,
+TRANSACTION,3216,010212149,1,83.3300,83.33,"Monthly Deferral Charge: Korner. Donald and Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14910183,,07/01/2012,750.0000,"July_Rent-Korner. Donald and Dorothy",,07/01/2012,07/10/2012,,14914731,4143.3300,,,,,,,,,,
+TRANSACTION,3216,010212149,1,750,750,"New Resident Fee Deferred: Korner. Donald and Dorothy",,,,,,,,,,,,,,,

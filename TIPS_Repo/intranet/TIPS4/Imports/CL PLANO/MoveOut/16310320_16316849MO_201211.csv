@@ -1,0 +1,5 @@
+BATCH,,201211,B,54.0000,
+INVOICE,IN,,16310320,,11/01/2012,27.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16316849MO,-5874.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Savage, Courtland",,,,,,,,,,,,,,,
+INVOICE,CM,,16310320,,11/01/2012,27,"Invoice-Private",,11/01/2012,11/10/2012,,16316849MO,-5874.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Savage, Courtland",,,,,,,,,,,,,,,

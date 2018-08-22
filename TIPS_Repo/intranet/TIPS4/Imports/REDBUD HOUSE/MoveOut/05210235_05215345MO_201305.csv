@@ -1,0 +1,6 @@
+BATCH,,201305,B,4427.0000,
+INVOICE,IN,,05210235,,05/24/2013,1920.0000,"Invoice-Private",,05/24/2013,05/24/2013,,05215345MO,-3014.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,24,80.0000,1920.00,"Basic Service Fee - One Bedroom for May: Cox, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,05210235,,05/24/2013,2507,"Invoice-Private",,05/24/2013,05/24/2013,,05215345MO,-3014.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2480,2480,"CR:Basic Service F... E.Cox 201305: Cox, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... E.Cox 201305: Cox, Eunice",,,,,,,,,,,,,,,

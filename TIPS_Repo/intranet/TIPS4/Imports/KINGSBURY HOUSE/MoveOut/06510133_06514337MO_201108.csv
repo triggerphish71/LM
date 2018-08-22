@@ -1,0 +1,7 @@
+BATCH,,201108,B,244.0000,
+INVOICE,IN,,06510133,,08/01/2011,122.0000,"Invoice-Private",,08/01/2011,08/10/2011,,06514337MO,-2878.0000,,,,,,,,,,
+TRANSACTION,3250,010305065,1,60.0000,60.00,"Guest Meal: Hubbard, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305065,31,2.0000,62.00,"Credit for Limited Term Discount: Hubbard, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,06510133,,08/01/2011,122,"Invoice-Private",,08/01/2011,08/10/2011,,06514337MO,-2878.0000,,,,,,,,,,
+TRANSACTION,3250,010305065,1,60,60,"Credit for Guest Meal: Hubbard, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305065,31,2,62,"Limited Term Discount: Hubbard, Jane",,,,,,,,,,,,,,,

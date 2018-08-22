@@ -1,0 +1,7 @@
+BATCH,,201111,B,4320.0000,
+INVOICE,IN,,12010203,,11/18/2011,1620.0000,"Invoice-Private",,11/18/2011,11/18/2011,,12014179MO,-3405.0000,,,,,,,,,,
+TRANSACTION,3027,010309120,18,15.0000,270.00,"Resident Care - Level 1 for Nov: Smith, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,18,75.0000,1350.00,"Room and Board - Studio for Nov: Smith, Opal",,,,,,,,,,,,,,,
+INVOICE,CM,,12010203,,11/18/2011,2700,"Invoice-Private",,11/18/2011,11/18/2011,,12014179MO,-3405.0000,,,,,,,,,,
+TRANSACTION,3027,010309120,1,450,450,"CR:Resident Care -... O.Smith 201111: Smith, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2250,2250,"CR:Room and Board ... O.Smith 201111: Smith, Opal",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201807,B,86.0000,
+INVOICE,IN,,35700092,,07/01/2018,43.0000,"Invoice-Private",,07/01/2018,07/10/2018,,35710984MO,-3864.1200,,,,,,,,,,
+TRANSACTION,3210,070009357,1,17.0000,17.00,"Personal Services: Ford, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3210,070009357,1,26.0000,26.00,"Personal Services: Ford, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,35700092,,07/01/2018,43,"Invoice-Private",,07/01/2018,07/10/2018,,35710984MO,-3864.1200,,,,,,,,,,
+TRANSACTION,3210,070009357,1,17,17,"Credit for Personal Services: Ford, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3210,070009357,1,26,26,"Credit for Personal Services: Ford, Evelyn",,,,,,,,,,,,,,,

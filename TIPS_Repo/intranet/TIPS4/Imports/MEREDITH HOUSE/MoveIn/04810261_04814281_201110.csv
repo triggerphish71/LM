@@ -1,0 +1,6 @@
+BATCH,,201110,B,4947.0000,
+INVOICE,IN,,04810261,,10/03/2011,4947.0000,"MoveIn-Brown. Dora",,10/03/2011,10/03/2011,,04814281,4947.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,29,103.0000,2987,"Basic Service Fee - Studio: Brown. Dora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,29,15.0000,435,"Resident Care - Level 1: Brown. Dora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25.0000,25,"Monthly Cable: Brown. Dora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Brown. Dora",,,,,,,,,,,,,,,

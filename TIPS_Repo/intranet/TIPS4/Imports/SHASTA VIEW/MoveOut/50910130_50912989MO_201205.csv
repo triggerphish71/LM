@@ -1,0 +1,7 @@
+BATCH,,201205,B,2898.0000,
+INVOICE,IN,,50910130,,05/15/2012,977.0000,"Invoice-Private",,05/15/2012,05/15/2012,,50912989MO,-944.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,62.0000,62.00,"CR:Limited Term Di... M.Oldham 201205: Oldham, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,15,61.0000,915.00,"Basic Service Fee - One Bedroom for May: Oldham, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,50910130,,05/15/2012,1921,"Invoice-Private",,05/15/2012,05/15/2012,,50912989MO,-944.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1891,1891,"CR:Basic Service F... M.Oldham 201205: Oldham, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3130,010101509,1,30,30,"CR:Pendant Fee... M.Oldham 201205: Oldham, Martha",,,,,,,,,,,,,,,

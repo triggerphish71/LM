@@ -1,0 +1,5 @@
+BATCH,,201111,B,3600.0000,
+INVOICE,IN,,20010903,,11/01/2011,1350.0000,"Invoice-Private",,11/01/2011,11/10/2011,,20017692MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,18,75.0000,1350.00,"Basic Service Fee - Studio for Nov: Williams, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,20010903,,11/01/2011,2250,"Invoice-Private",,11/01/2011,11/10/2011,,20017692MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2250,2250,"CR:Basic Service F... C.Williams 201111: Williams, Carolyn",,,,,,,,,,,,,,,

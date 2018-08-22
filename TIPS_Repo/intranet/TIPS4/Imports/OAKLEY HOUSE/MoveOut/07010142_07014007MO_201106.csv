@@ -1,0 +1,5 @@
+BATCH,,201106,B,1500.0000,
+INVOICE,IN,,07010142,,06/01/2011,750.0000,"Invoice-Private",,06/01/2011,06/10/2011,,07014007MO,-2825.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,30,25.0000,750.00,"Credit for Limited Term Discount: Brenner, Treva",,,,,,,,,,,,,,,
+INVOICE,CM,,07010142,,06/01/2011,750,"Invoice-Private",,06/01/2011,06/10/2011,,07014007MO,-2825.0000,,,,,,,,,,
+TRANSACTION,3320,010305070,30,25,750,"Limited Term Discount: Brenner, Treva",,,,,,,,,,,,,,,

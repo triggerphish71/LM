@@ -1,0 +1,5 @@
+BATCH,,201307,B,3995.0000,
+INVOICE,IN,,03110370,,07/01/2013,3995.0000,"July_Rent-Tate. Gerry",,07/01/2013,07/10/2013,,03117571,6302.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,31,99.0000,3069,"Basic Service Fee - Studio: Tate. Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,31,29.0000,899,"Resident Care - Level 2: Tate. Gerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Tate. Gerry",,,,,,,,,,,,,,,

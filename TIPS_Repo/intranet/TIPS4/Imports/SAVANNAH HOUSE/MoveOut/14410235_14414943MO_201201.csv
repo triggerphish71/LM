@@ -1,0 +1,5 @@
+BATCH,,201201,B,56.0000,
+INVOICE,IN,,14410235,,01/01/2012,28.0000,"Invoice-Private",,01/01/2012,01/10/2012,,14414943MO,-4185.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Todd, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410235,,01/01/2012,28,"Invoice-Private",,01/01/2012,01/10/2012,,14414943MO,-4185.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Todd, Margie",,,,,,,,,,,,,,,

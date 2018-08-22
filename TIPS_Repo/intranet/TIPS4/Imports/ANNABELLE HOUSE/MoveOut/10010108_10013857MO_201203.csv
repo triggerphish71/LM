@@ -1,0 +1,6 @@
+BATCH,,201203,B,1996.7700,
+INVOICE,IN,,10010108,,03/03/2012,56.5200,"Invoice-Medicaid",,03/03/2012,03/03/2012,,10013857MO,-1883.7300,,,,,,,,,,
+TRANSACTION,3021,010104100,3,18.8400,56.52,"Medicaid Room & Board for Mar: Suter, Corinne",,,,,,,,,,,,,,,
+INVOICE,CM,,10010108,,03/03/2012,1940.25,"Invoice-Medicaid",,03/03/2012,03/03/2012,,10013857MO,-1883.7300,,,,,,,,,,
+TRANSACTION,3021,010104100,1,584,584,"CR:Medicaid Room &... C.Suter 201203: Suter, Corinne",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104100,1,1356.25,1356.25,"CR:State Medicaid... C.Suter 201203: Suter, Corinne",,,,,,,,,,,,,,,

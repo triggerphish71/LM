@@ -1,0 +1,7 @@
+BATCH,,201308,B,4046.0000,
+INVOICE,IN,,13110309,,08/03/2013,357.0000,"Invoice-Private",,08/03/2013,08/03/2013,,13115070MO,-3332.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,3,103.0000,309.00,"Basic Service Fee - Studio for Aug: Kennedy, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,3,16.0000,48.00,"Resident Care - Level 1 for Aug: Kennedy, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13110309,,08/03/2013,3689,"Invoice-Private",,08/03/2013,08/03/2013,,13115070MO,-3332.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3193,3193,"CR:Basic Service F... T.Kennedy 201308: Kennedy, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... T.Kennedy 201308: Kennedy, Thomas",,,,,,,,,,,,,,,

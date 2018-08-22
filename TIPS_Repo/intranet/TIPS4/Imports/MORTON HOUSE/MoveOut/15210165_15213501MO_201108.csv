@@ -1,0 +1,6 @@
+BATCH,,201108,B,2211.0000,
+INVOICE,IN,,15210165,,08/01/2011,68.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15213501MO,-2075.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,68.0000,68.00,"Basic Service Fee - Studio for Aug: Klesath, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,15210165,,08/01/2011,2143,"Invoice-Private",,08/01/2011,08/10/2011,,15213501MO,-2075.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2108,2108,"CR:Basic Service F... L.Klesath 201108: Klesath, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... L.Klesath 201108: Klesath, Louis",,,,,,,,,,,,,,,

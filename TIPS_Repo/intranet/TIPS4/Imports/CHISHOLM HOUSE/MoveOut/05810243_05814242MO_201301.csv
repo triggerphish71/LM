@@ -1,0 +1,7 @@
+BATCH,,201301,B,7336.0000,
+INVOICE,IN,,05810243,,01/01/2013,3275.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05814242MO,-4258.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,25,82.0000,2050.00,"Basic Service Fee - Studio for Jan: West, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,25,49.0000,1225.00,"Resident Care - Level 4 for Jan: West, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,05810243,,01/01/2013,4061,"Invoice-Private",,01/01/2013,01/10/2013,,05814242MO,-4258.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... R.West 201301: West, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1519,1519,"CR:Resident Care -... R.West 201301: West, Ray",,,,,,,,,,,,,,,

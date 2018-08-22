@@ -1,0 +1,5 @@
+BATCH,,201304,B,82.0000,
+INVOICE,IN,,21210124,,04/01/2013,41.0000,"Invoice-Private",,04/01/2013,04/10/2013,,21212996MO,-4734.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Stump, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,21210124,,04/01/2013,41,"Invoice-Private",,04/01/2013,04/10/2013,,21212996MO,-4734.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Stump, Delbert",,,,,,,,,,,,,,,

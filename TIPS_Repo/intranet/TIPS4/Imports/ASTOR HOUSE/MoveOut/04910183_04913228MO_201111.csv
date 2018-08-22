@@ -1,0 +1,5 @@
+BATCH,,201111,B,3565.0000,
+INVOICE,CM,,04910183,,11/01/2011,3565,"Invoice-Private",,11/01/2011,11/10/2011,,04913228MO,-5006.0000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2520,2520,"CR:Basic Service F... E.Reneke 201111: Reneke, Ethelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... E.Reneke 201111: Reneke, Ethelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,1020,1020,"CR:Resident Care -... E.Reneke 201111: Reneke, Ethelyn",,,,,,,,,,,,,,,

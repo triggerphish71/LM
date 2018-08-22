@@ -1,0 +1,8 @@
+BATCH,,201206,B,4133.0000,
+INVOICE,IN,,14410207,,06/01/2012,420.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14415174MO,-3644.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,1,420.0000,420.00,"CR:Limited Term Di... B.Carnes 201206: Carnes, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14410207,,06/01/2012,3713,"Invoice-Private",,06/01/2012,06/10/2012,,14415174MO,-3644.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3180,3180,"CR:Basic Service F... B.Carnes 201206: Carnes, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... B.Carnes 201206: Carnes, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,25,25,"CR:Pendant Fee... B.Carnes 201206: Carnes, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,480,480,"CR:Resident Care -... B.Carnes 201206: Carnes, Betty",,,,,,,,,,,,,,,

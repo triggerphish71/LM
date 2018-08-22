@@ -1,0 +1,7 @@
+BATCH,,201111,B,380.0000,
+INVOICE,IN,,53410124,,11/01/2011,190.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53419836MO,-2641.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,30,3.0000,90.00,"Credit for Limited Term Discount: Huber, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3210,010319534,1,100.0000,100.00,"Personal Services: Huber, Delores",,,,,,,,,,,,,,,
+INVOICE,CM,,53410124,,11/01/2011,190,"Invoice-Private",,11/01/2011,11/10/2011,,53419836MO,-2641.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,30,3,90,"Limited Term Discount: Huber, Delores",,,,,,,,,,,,,,,
+TRANSACTION,3210,010319534,1,100,100,"Credit for Personal Services: Huber, Delores",,,,,,,,,,,,,,,

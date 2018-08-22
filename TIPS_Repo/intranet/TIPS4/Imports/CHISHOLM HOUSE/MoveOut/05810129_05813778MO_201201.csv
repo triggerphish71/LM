@@ -1,0 +1,8 @@
+BATCH,,201201,B,3357.0000,
+INVOICE,IN,,05810129,,01/01/2012,294.0000,"Invoice-Private",,01/01/2012,01/10/2012,,05813778MO,-5636.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,3,82.0000,246.00,"Basic Service Fee - Studio for Jan: Davis, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,3,16.0000,48.00,"Resident Care - Level 1 for Jan: Davis, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,05810129,,01/01/2012,3063,"Invoice-Private",,01/01/2012,01/10/2012,,05813778MO,-5636.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... H.Davis 201201: Davis, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... H.Davis 201201: Davis, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,496,496,"CR:Resident Care -... H.Davis 201201: Davis, Harold",,,,,,,,,,,,,,,

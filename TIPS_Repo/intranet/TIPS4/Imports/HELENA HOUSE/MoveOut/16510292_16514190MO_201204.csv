@@ -1,0 +1,6 @@
+BATCH,,201204,B,5273.0000,
+INVOICE,IN,,16510292,,04/13/2012,1586.0000,"Invoice-Private",,04/13/2012,04/13/2012,,16514190MO,-2101.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,13,122.0000,1586.00,"Basic Service Fee - One Bedroom for Apr: McLenagan, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,16510292,,04/13/2012,3687,"Invoice-Private",,04/13/2012,04/13/2012,,16514190MO,-2101.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3660,3660,"CR:Basic Service F... L.McLenagan 201204: McLenagan, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... L.McLenagan 201204: McLenagan, Larry",,,,,,,,,,,,,,,

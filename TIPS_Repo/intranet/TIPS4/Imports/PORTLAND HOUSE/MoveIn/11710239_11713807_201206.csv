@@ -1,0 +1,6 @@
+BATCH,,201206,B,4810.0000,
+INVOICE,IN,,11710239,,06/10/2012,4810.0000,"MoveIn-Kraus. Dean",,06/10/2012,06/10/2012,,11713807,4810.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,21,110.0000,2310,"D.Kraus: Basic Service Fee - One Bedroom: Kraus. Dean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,21,70.0000,1470,"D.Kraus: Resident Care - Level 5: Kraus. Dean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1000.0000,1000,"New Resident Fee: Kraus. Dean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Kraus. Dean",,,,,,,,,,,,,,,

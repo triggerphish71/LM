@@ -1,0 +1,8 @@
+BATCH,,201304,B,5395.0000,
+INVOICE,IN,,53010193,,04/01/2013,765.0000,"Invoice-Private",,04/01/2013,04/10/2013,,53016787MO,-3865.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,5,123.0000,615.00,"One Bedroom Premium with Patio for Apr: Butler, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,5,30.0000,150.00,"Resident Care - Level 1 for Apr: Butler, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,53010193,,04/01/2013,4630,"Invoice-Private",,04/01/2013,04/10/2013,,53016787MO,-3865.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Butler 201304: Butler, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3690,3690,"CR:One Bedroom Pre... B.Butler 201304: Butler, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,900,900,"CR:Resident Care -... B.Butler 201304: Butler, Bernice",,,,,,,,,,,,,,,

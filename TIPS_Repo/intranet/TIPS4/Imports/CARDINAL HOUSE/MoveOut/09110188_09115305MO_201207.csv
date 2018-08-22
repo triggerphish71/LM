@@ -1,0 +1,8 @@
+BATCH,,201207,B,4754.0000,
+INVOICE,IN,,09110188,,07/07/2012,1592.0000,"Invoice-Private",,07/07/2012,07/07/2012,,09115305MO,-1570.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,1,62.0000,62.00,"CR:Limited Term Di... M.Cowgill 201207: Cowgill, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,15,85.0000,1275.00,"Basic Service Fee - Studio for Jul: Cowgill, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,15,17.0000,255.00,"Resident Care - Level 1 for Jul: Cowgill, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,09110188,,07/07/2012,3162,"Invoice-Private",,07/07/2012,07/07/2012,,09115305MO,-1570.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2635,2635,"CR:Basic Service F... M.Cowgill 201207: Cowgill, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,527,527,"CR:Resident Care -... M.Cowgill 201207: Cowgill, Mary Lou",,,,,,,,,,,,,,,

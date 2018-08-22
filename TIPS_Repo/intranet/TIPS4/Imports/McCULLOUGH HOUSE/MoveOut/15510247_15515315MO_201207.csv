@@ -1,0 +1,8 @@
+BATCH,,201207,B,7420.0000,
+INVOICE,IN,,15510247,,07/07/2012,2900.0000,"Invoice-Private",,07/07/2012,07/07/2012,,15515315MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,20,89.0000,1780.00,"Basic Service Fee - Studio for Jul: Voytek, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,20,56.0000,1120.00,"Resident Care - Level 4 for Jul: Voytek, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,15510247,,07/07/2012,4520,"Invoice-Private",,07/07/2012,07/07/2012,,15515315MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... B.Voytek 201207: Voytek, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... B.Voytek 201207: Voytek, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1736,1736,"CR:Resident Care -... B.Voytek 201207: Voytek, Bernard",,,,,,,,,,,,,,,

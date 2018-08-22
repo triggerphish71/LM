@@ -1,0 +1,5 @@
+BATCH,,201211,B,3450.0000,
+INVOICE,IN,,50110276,,11/01/2012,3450.0000,"November_Rent-Arvin. Gail",,11/01/2012,11/10/2012,,50114377,4164.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,30,88.0000,2640,"Basic Service Fee - Studio: Arvin. Gail",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,30,26.0000,780,"Resident Care - Level 2: Arvin. Gail",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Arvin. Gail",,,,,,,,,,,,,,,

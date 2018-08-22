@@ -1,0 +1,5 @@
+BATCH,,201212,B,1426.0000,
+INVOICE,IN,,20410146,,12/01/2012,713.0000,"Invoice-Private",,12/01/2012,12/10/2012,,20413277MO,-3051.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,23.0000,713.00,"Credit for Limited Term Discount: Grice, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,20410146,,12/01/2012,713,"Invoice-Private",,12/01/2012,12/10/2012,,20413277MO,-3051.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,23,713,"Limited Term Discount: Grice, Jackie",,,,,,,,,,,,,,,

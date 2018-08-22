@@ -1,0 +1,7 @@
+BATCH,,201301,B,11229.5000,
+INVOICE,IN,,09310062,,01/19/2013,4267.2100,"Invoice-Private",,01/19/2013,01/19/2013,,09315701MO,-8983.6000,,,,,,,,,,
+TRANSACTION,3020,010305093,19,99.0000,1881.00,"Basic Service Fee - Studio for Jan: Weiler, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,19,125.5900,2386.21,"Resident Care - Level 6+21 pts for Jan: Weiler, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,09310062,,01/19/2013,6962.29,"Invoice-Private",,01/19/2013,01/19/2013,,09315701MO,-8983.6000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... A.Weiler 201301: Weiler, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,3893.29,3893.29,"CR:Resident Care -... A.Weiler 201301: Weiler, Anna",,,,,,,,,,,,,,,

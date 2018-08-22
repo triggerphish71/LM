@@ -1,0 +1,8 @@
+BATCH,,201211,B,7332.0000,
+INVOICE,IN,,19010235,,11/23/2012,3912.0000,"Invoice-Private",,11/23/2012,11/23/2012,,19014767MO,-1709.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,1290.0000,1290.00,"CR:Limited Term Di... M.Rump 201211: Rump, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308190,23,98.0000,2254.00,"Basic Service Fee - Studio for Nov: Rump, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,23,16.0000,368.00,"Resident Care - Level 1 for Nov: Rump, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19010235,,11/23/2012,3420,"Invoice-Private",,11/23/2012,11/23/2012,,19014767MO,-1709.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2940,2940,"CR:Basic Service F... M.Rump 201211: Rump, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,480,480,"CR:Resident Care -... M.Rump 201211: Rump, Margaret",,,,,,,,,,,,,,,

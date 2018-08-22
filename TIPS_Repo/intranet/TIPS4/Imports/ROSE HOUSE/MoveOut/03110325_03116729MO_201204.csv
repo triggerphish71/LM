@@ -1,0 +1,8 @@
+BATCH,,201204,B,5592.0000,
+INVOICE,IN,,03110325,,04/01/2012,795.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03116729MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,5,115.0000,575.00,"Basic Service Fee - One Bedroom for Apr: Domingue, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,5,44.0000,220.00,"Resident Care - Level 3 for Apr: Domingue, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,03110325,,04/01/2012,4797,"Invoice-Private",,04/01/2012,04/10/2012,,03116729MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3450,3450,"CR:Basic Service F... J.Domingue 201204: Domingue, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... J.Domingue 201204: Domingue, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1320,1320,"CR:Resident Care -... J.Domingue 201204: Domingue, Joseph",,,,,,,,,,,,,,,

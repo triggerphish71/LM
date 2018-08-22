@@ -1,0 +1,5 @@
+BATCH,,201304,B,3477.0000,
+INVOICE,IN,,03110362,,04/01/2013,3477.0000,"April_Rent-Duhr. Bruno",,04/01/2013,04/10/2013,,03117387,6114.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,30,99.0000,2970,"Basic Service Fee - Studio: Duhr. Bruno",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,30,16.0000,480,"Resident Care - Level 1: Duhr. Bruno",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Duhr. Bruno",,,,,,,,,,,,,,,

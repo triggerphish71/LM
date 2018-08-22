@@ -1,0 +1,6 @@
+BATCH,,201201,B,1797.0000,
+INVOICE,IN,,13610273,,01/01/2012,62.0000,"Invoice-Private",,01/01/2012,01/10/2012,,13614438MO,-1673.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,1,62.0000,62.00,"CR:Limited Term Di... J.Morton 201201: Morton, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,13610273,,01/01/2012,1735,"Invoice-Private",,01/01/2012,01/10/2012,,13614438MO,-1673.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1705,1705,"CR:Basic Service F... J.Morton 201201: Morton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"CR:Pendant Fee... J.Morton 201201: Morton, Jane",,,,,,,,,,,,,,,

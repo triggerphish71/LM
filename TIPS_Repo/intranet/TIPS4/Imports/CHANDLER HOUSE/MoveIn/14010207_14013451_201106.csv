@@ -1,0 +1,6 @@
+BATCH,,201106,B,3876.0000,
+INVOICE,IN,,14010207,,06/08/2011,3876.0000,"MoveIn-Parrish. Nancy",,06/08/2011,06/08/2011,,14013451,3876.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,23,85.0000,1955,"Basic Service Fee - Studio         : Parrish. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,23,17.0000,391,"Resident Care - Level 1: Parrish. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Parrish. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: Parrish. Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,3325.0000,
+INVOICE,IN,,02910312,,04/13/2012,3325.0000,"MoveIn-Heyrich. Fred",,04/13/2012,04/13/2012,,02915542,3325.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,18,100.0000,1800,"Basic Service Fee - Studio: Heyrich. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Heyrich. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Heyrich. Fred",,,,,,,,,,,,,,,

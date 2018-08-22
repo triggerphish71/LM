@@ -1,0 +1,6 @@
+BATCH,,201206,B,4509.9000,
+INVOICE,IN,,15310228,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15316128MO,-8926.1300,,,,,,,,,,
+TRANSACTION,3320,010103153,1,60.0000,60.00,"CR:Limited Term Di... W.Thomas 201206: Thomas, William",,,,,,,,,,,,,,,
+INVOICE,CM,,15310228,,06/01/2012,4449.9,"Invoice-Private",,06/01/2012,06/10/2012,,15316128MO,-8926.1300,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... W.Thomas 201206: Thomas, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1449.9,1449.9,"CR:Resident Care -... W.Thomas 201206: Thomas, William",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201112,B,9170.0000,
+INVOICE,IN,,06010063,,12/24/2011,3984.0000,"Invoice-Private",,12/24/2011,12/24/2011,,06014230MO,-6512.0000,,,,,,,,,,
+TRANSACTION,3027,010206060,24,60.0000,1440.00,"Resident Care - Level 5 for Dec: Alexander, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,24,106.0000,2544.00,"Room and Board - One Bedroom for Dec: Alexander, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,06010063,,12/24/2011,5186,"Invoice-Private",,12/24/2011,12/24/2011,,06014230MO,-6512.0000,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... G.Alexander 201112: Alexander, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1860,1860,"CR:Resident Care -... G.Alexander 201112: Alexander, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3286,3286,"CR:Room and Board ... G.Alexander 201112: Alexander, Geraldine",,,,,,,,,,,,,,,

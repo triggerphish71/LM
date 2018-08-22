@@ -1,0 +1,6 @@
+BATCH,,201106,B,2890.0000,
+INVOICE,IN,,53410382,,06/01/2011,50.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53419212MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3150,010319534,1,50.0000,50.00,"Late Fee Adjustment: Schneider, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,53410382,,06/01/2011,2840,"Invoice-Private",,06/01/2011,06/10/2011,,53419212MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2790,2790,"CR:Basic Service F... H.Schneider 201106: Schneider, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3150,010319534,1,50,50,"Late Fee Adjustment: Schneider, Hilda",,,,,,,,,,,,,,,

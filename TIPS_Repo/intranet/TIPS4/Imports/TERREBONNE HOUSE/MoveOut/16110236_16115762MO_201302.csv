@@ -1,0 +1,8 @@
+BATCH,,201302,B,3361.0000,
+INVOICE,IN,,16110236,,02/01/2013,827.0000,"Invoice-Private",,02/01/2013,02/10/2013,,16115762MO,-1707.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,9,88.0000,792.00,"Basic Service Fee - Studio for Feb: Dumez, Brian",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313161,1,35.0000,35.00,"Pendant Fee: Dumez, Brian",,,,,,,,,,,,,,,
+INVOICE,CM,,16110236,,02/01/2013,2534,"Invoice-Private",,02/01/2013,02/10/2013,,16115762MO,-1707.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2464,2464,"CR:Basic Service F... B.Dumez 201302: Dumez, Brian",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313161,1,35,35,"CR:Pendant Fee... B.Dumez 201302: Dumez, Brian",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313161,1,35,35,"Credit for Pendant Fee: Dumez, Brian",,,,,,,,,,,,,,,

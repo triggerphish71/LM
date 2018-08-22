@@ -1,0 +1,5 @@
+BATCH,,201211,B,2970.0000,
+INVOICE,IN,,13710237,,11/15/2012,2970.0000,"MoveIn-Barr. Marion",,11/15/2012,11/15/2012,,13714722,5790.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,16,90.0000,1440,"M.Barr: Basic Service Fee - Studio: Barr. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Barr. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Barr. Marion",,,,,,,,,,,,,,,

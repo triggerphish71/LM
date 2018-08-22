@@ -1,0 +1,5 @@
+BATCH,,201212,B,3559.0000,
+INVOICE,IN,,07510272,,12/01/2012,3559.0000,"December_Rent-West. Dorthy",,12/01/2012,12/10/2012,,07515034,4540.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,85.0000,2635,"D.West: Basic Service Fee - Studio: West. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,29.0000,899,"D.West: Resident Care - Level 2: West. Dorthy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: West. Dorthy",,,,,,,,,,,,,,,

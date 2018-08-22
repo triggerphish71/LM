@@ -1,0 +1,5 @@
+BATCH,,201306,B,2900.5000,
+INVOICE,IN,,03810257,,06/01/2013,2900.5000,"June_Rent-Nelson. Thomas",,06/01/2013,06/10/2013,,03814467,5500.6000,,,,,,,,,,
+TRANSACTION,3010,010103038,30,94.0000,2820,"T.Nelson: Basic Service Fee - One Bedroom: Nelson. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,30,1.8500,55.5,"T.Nelson: Resident Care - Level 1: Nelson. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Nelson. Thomas",,,,,,,,,,,,,,,

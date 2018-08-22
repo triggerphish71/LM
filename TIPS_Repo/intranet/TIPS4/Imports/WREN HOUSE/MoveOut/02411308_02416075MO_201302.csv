@@ -1,0 +1,8 @@
+BATCH,,201302,B,6282.0000,
+INVOICE,IN,,02411308,,02/19/2013,3090.0000,"Invoice-Private",,02/19/2013,02/19/2013,,02416075MO,-2644.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,924.0000,924.00,"CR:Limited Term Di... L.Holubec 201302: Holubec, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,19,98.0000,1862.00,"Basic Service Fee - Studio for Feb: Holubec, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,19,16.0000,304.00,"Resident Care - Level 1 for Feb: Holubec, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,02411308,,02/19/2013,3192,"Invoice-Private",,02/19/2013,02/19/2013,,02416075MO,-2644.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2744,2744,"CR:Basic Service F... L.Holubec 201302: Holubec, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,448,448,"CR:Resident Care -... L.Holubec 201302: Holubec, Louis",,,,,,,,,,,,,,,

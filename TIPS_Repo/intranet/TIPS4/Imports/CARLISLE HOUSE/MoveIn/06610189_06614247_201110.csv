@@ -1,0 +1,5 @@
+BATCH,,201110,B,2850.0000,
+INVOICE,IN,,06610189,,10/22/2011,2850.0000,"MoveIn-Prohaska. Edith",,10/22/2011,10/22/2011,,06614247,6150.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,10,93.0000,930,"Basic Service Fee - Studio         : Prohaska. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,10,17.0000,170,"Resident Care - Level 1: Prohaska. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Prohaska. Edith",,,,,,,,,,,,,,,

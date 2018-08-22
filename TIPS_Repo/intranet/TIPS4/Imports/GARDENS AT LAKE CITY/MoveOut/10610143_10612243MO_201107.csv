@@ -1,0 +1,7 @@
+BATCH,,201107,B,6050.0000,
+INVOICE,IN,,10610143,,07/01/2011,2640.0000,"Invoice-Private",,07/01/2011,07/10/2011,,10612243MO,-770.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,24,95.0000,2280.00,"Basic Service Fee - One Bedroom for Jul: Long, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,24,15.0000,360.00,"Resident Care - Level 1 for Jul: Long, Della",,,,,,,,,,,,,,,
+INVOICE,CM,,10610143,,07/01/2011,3410,"Invoice-Private",,07/01/2011,07/10/2011,,10612243MO,-770.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2945,2945,"CR:Basic Service F... D.Long 201107: Long, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,465,465,"CR:Resident Care -... D.Long 201107: Long, Della",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201803,B,2732.4000,
+INVOICE,IN,,13910359,,03/01/2018,116.0000,"Invoice-Private",,03/01/2018,03/01/2018,,13919104MO,-2500.4000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,66.0000,66.00,"Basic Service Fee - Studio  for Mar: Valenta, Elinor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,18.4000,18.40,"Resident Care - Level 8  for Mar: Valenta, Elinor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010003139,1,31.6000,31.60,"Monthly Cable: Valenta, Elinor",,,,,,,,,,,,,,,
+INVOICE,CM,,13910359,,03/01/2018,2616.4,"Invoice-Private",,03/01/2018,03/01/2018,,13919104MO,-2500.4000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,2046,2046,"CR:Basic Service F... E.Valenta 201803: Valenta, Elinor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,570.4,570.4,"CR:Resident Care -... E.Valenta 201803: Valenta, Elinor",,,,,,,,,,,,,,,

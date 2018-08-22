@@ -1,0 +1,5 @@
+BATCH,,201207,B,4900.0000,
+INVOICE,IN,,09410247,,07/19/2012,1862.0000,"Invoice-Private",,07/19/2012,07/19/2012,,09416048MO,-4214.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,19,98.0000,1862.00,"Basic Service Fee - Studio for Jul: Hamilton, Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,09410247,,07/19/2012,3038,"Invoice-Private",,07/19/2012,07/19/2012,,09416048MO,-4214.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3038,3038,"CR:Basic Service F... F.Hamilton 201207: Hamilton, Faye",,,,,,,,,,,,,,,

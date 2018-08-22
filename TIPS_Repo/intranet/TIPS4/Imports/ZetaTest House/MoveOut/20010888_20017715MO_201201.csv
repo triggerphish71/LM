@@ -1,0 +1,8 @@
+BATCH,,201201,B,948.6900,
+INVOICE,IN,,20010888,,01/01/2012,282.2200,"Invoice-Private",,01/01/2012,01/10/2012,,20017715MO,-384.2500,,,,,,,,,,
+TRANSACTION,3027,010001200,6,5.3700,32.22,"Resident Care - Level 3 for Jan: Adams, Abby",,,,,,,,,,,,,,,
+TRANSACTION,3130,010001200,1,250.0000,250.00,"Pendant Fee: Adams, Abby",,,,,,,,,,,,,,,
+INVOICE,CM,,20010888,,01/01/2012,666.47,"Invoice-Private",,01/01/2012,01/10/2012,,20017715MO,-384.2500,,,,,,,,,,
+TRANSACTION,3130,010001200,1,250,250,"CR:Pendant Fee... A.Adams 201201: Adams, Abby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001200,1,166.47,166.47,"CR:Resident Care -... A.Adams 201201: Adams, Abby",,,,,,,,,,,,,,,
+TRANSACTION,3130,010001200,1,250,250,"Credit for Pendant Fee: Adams, Abby",,,,,,,,,,,,,,,

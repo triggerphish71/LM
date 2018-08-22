@@ -1,0 +1,7 @@
+BATCH,,201205,B,7168.0000,
+INVOICE,IN,,09410294,,05/25/2012,3200.0000,"Invoice-Private",,05/25/2012,05/25/2012,,09415964MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,25,98.0000,2450.00,"Basic Service Fee - Studio for May: Student, Otto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,25,30.0000,750.00,"Resident Care - Level 2 for May: Student, Otto",,,,,,,,,,,,,,,
+INVOICE,CM,,09410294,,05/25/2012,3968,"Invoice-Private",,05/25/2012,05/25/2012,,09415964MO,-4608.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3038,3038,"CR:Basic Service F... O.Student 201205: Student, Otto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,930,930,"CR:Resident Care -... O.Student 201205: Student, Otto",,,,,,,,,,,,,,,

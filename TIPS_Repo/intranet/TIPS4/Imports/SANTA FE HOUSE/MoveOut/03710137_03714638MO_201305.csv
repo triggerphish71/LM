@@ -1,0 +1,7 @@
+BATCH,,201305,B,5555.0000,
+INVOICE,IN,,03710137,,05/01/2013,2424.0000,"Invoice-Private",,05/01/2013,05/10/2013,,03714638MO,-707.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,24,70.0000,1680.00,"Basic Service Fee - Studio for May: Womack, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,24,31.0000,744.00,"Resident Care - Level 2 for May: Womack, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,03710137,,05/01/2013,3131,"Invoice-Private",,05/01/2013,05/10/2013,,03714638MO,-707.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2170,2170,"CR:Basic Service F... G.Womack 201305: Womack, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,961,961,"CR:Resident Care -... G.Womack 201305: Womack, Gwen",,,,,,,,,,,,,,,

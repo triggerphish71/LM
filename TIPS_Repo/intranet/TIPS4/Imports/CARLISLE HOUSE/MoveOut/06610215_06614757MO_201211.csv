@@ -1,0 +1,7 @@
+BATCH,,201211,B,4464.0000,
+INVOICE,IN,,06610215,,11/01/2012,144.0000,"Invoice-Private",,11/01/2012,11/01/2012,,06614757MO,-4176.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,96.0000,96.00,"Basic Service Fee - Studio for Nov: Marcum, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,48.0000,48.00,"Resident Care - Level 3 for Nov: Marcum, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,06610215,,11/01/2012,4320,"Invoice-Private",,11/01/2012,11/01/2012,,06614757MO,-4176.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2880,2880,"CR:Basic Service F... B.Marcum 201211: Marcum, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1440,1440,"CR:Resident Care -... B.Marcum 201211: Marcum, Barbara",,,,,,,,,,,,,,,

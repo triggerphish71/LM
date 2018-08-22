@@ -1,0 +1,6 @@
+BATCH,,201109,B,3859.0000,
+INVOICE,IN,,03410263,,09/09/2011,3859.0000,"MoveIn-Wilhelm. Mary",,09/09/2011,09/09/2011,,03415181,3859.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,22,93.0000,2046,"Basic Service Fee - Studio         : Wilhelm. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,22,13.0000,286,"Resident Care - Level 1: Wilhelm. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Wilhelm. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Wilhelm. Mary",,,,,,,,,,,,,,,

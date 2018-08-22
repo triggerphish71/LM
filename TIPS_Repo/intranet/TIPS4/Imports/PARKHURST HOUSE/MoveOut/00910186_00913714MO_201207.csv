@@ -1,0 +1,7 @@
+BATCH,,201207,B,2433.1200,
+INVOICE,IN,,00910186,,07/17/2012,861.7300,"Invoice-Private",,07/17/2012,07/17/2012,,00913714MO,-2281.0500,,,,,,,,,,
+TRANSACTION,3020,010101009,17,31.0000,527.00,"Basic Service Fee - Second Resident for Jul: Weir, Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,17,19.6900,334.73,"Resident Care - Level 11 for Jul: Weir, Bruce",,,,,,,,,,,,,,,
+INVOICE,CM,,00910186,,07/17/2012,1571.39,"Invoice-Private",,07/17/2012,07/17/2012,,00913714MO,-2281.0500,,,,,,,,,,
+TRANSACTION,3020,010101009,1,961,961,"CR:Basic Service F... B.Weir 201207: Weir, Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,610.39,610.39,"CR:Resident Care -... B.Weir 201207: Weir, Bruce",,,,,,,,,,,,,,,

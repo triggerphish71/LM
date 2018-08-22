@@ -1,0 +1,5 @@
+BATCH,,201807,B,480.0000,
+INVOICE,IN,,36000041,,07/01/2018,240.0000,"Invoice-Private",,07/01/2018,07/10/2018,,36010762MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3315,070028360,1,240.0000,240.00,"Credit for Promotional Discount: Sides, Herman",,,,,,,,,,,,,,,
+INVOICE,CM,,36000041,,07/01/2018,240,"Invoice-Private",,07/01/2018,07/10/2018,,36010762MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3315,070028360,1,240,240,"Promotional Discount: Sides, Herman",,,,,,,,,,,,,,,

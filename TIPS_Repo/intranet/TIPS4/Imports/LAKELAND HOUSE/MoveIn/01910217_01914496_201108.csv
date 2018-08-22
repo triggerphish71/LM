@@ -1,0 +1,6 @@
+BATCH,,201108,B,3937.0000,
+INVOICE,IN,,01910217,,08/12/2011,3937.0000,"MoveIn-Hoybrook. Henry",,08/12/2011,08/12/2011,,01914496,3937.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,20,91.0000,1820,"Basic Service Fee - Studio         : Hoybrook. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,20,17.0000,340,"Resident Care - Level 1: Hoybrook. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27,"Monthly Cable: Hoybrook. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202019,1,1750.0000,1750,"New Resident Fee: Hoybrook. Henry",,,,,,,,,,,,,,,

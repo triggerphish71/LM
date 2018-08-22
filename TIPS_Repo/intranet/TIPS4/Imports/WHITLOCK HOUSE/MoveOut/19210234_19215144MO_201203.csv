@@ -1,0 +1,7 @@
+BATCH,,201203,B,6204.0000,
+INVOICE,IN,,19210234,,03/16/2012,2112.0000,"Invoice-Private",,03/16/2012,03/16/2012,,19215144MO,-5940.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,16,114.0000,1824.00,"Basic Service Fee - Studio for Mar: Thompson, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,16,18.0000,288.00,"Resident Care - Level 1 for Mar: Thompson, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,19210234,,03/16/2012,4092,"Invoice-Private",,03/16/2012,03/16/2012,,19215144MO,-5940.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... A.Thompson 201203: Thompson, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,558,558,"CR:Resident Care -... A.Thompson 201203: Thompson, Anna",,,,,,,,,,,,,,,

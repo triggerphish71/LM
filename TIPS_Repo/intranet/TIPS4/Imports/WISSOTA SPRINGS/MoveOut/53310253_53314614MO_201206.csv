@@ -1,0 +1,7 @@
+BATCH,,201206,B,5850.0000,
+INVOICE,IN,,53310253,,06/08/2012,1950.0000,"Invoice-Private",,06/08/2012,06/08/2012,,53314614MO,-1950.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,15,89.0000,1335.00,"Basic Service Fee - Studio for Jun: Secraw, Casper",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,15,41.0000,615.00,"Resident Care - Level 3 for Jun: Secraw, Casper",,,,,,,,,,,,,,,
+INVOICE,CM,,53310253,,06/08/2012,3900,"Invoice-Private",,06/08/2012,06/08/2012,,53314614MO,-1950.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2670,2670,"CR:Basic Service F... C.Secraw 201206: Secraw, Casper",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,1230,1230,"CR:Resident Care -... C.Secraw 201206: Secraw, Casper",,,,,,,,,,,,,,,

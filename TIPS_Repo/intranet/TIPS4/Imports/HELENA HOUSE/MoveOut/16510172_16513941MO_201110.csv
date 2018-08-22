@@ -1,0 +1,8 @@
+BATCH,,201110,B,5253.0000,
+INVOICE,IN,,16510172,,10/08/2011,1072.0000,"Invoice-Private",,10/08/2011,10/08/2011,,16513941MO,-3109.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,8,118.0000,944.00,"Basic Service Fee - One Bedroom for Oct: Herring, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,8,16.0000,128.00,"Resident Care - Level 1 for Oct: Herring, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,16510172,,10/08/2011,4181,"Invoice-Private",,10/08/2011,10/08/2011,,16513941MO,-3109.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3658,3658,"CR:Basic Service F... J.Herring 201110: Herring, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... J.Herring 201110: Herring, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,496,496,"CR:Resident Care -... J.Herring 201110: Herring, Jeanne",,,,,,,,,,,,,,,

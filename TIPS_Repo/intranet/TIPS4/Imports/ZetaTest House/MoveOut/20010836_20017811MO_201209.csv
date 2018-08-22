@@ -1,0 +1,7 @@
+BATCH,,201209,B,110.0000,
+INVOICE,IN,,20010836,,09/01/2012,55.0000,"Invoice-Private",,09/01/2012,09/10/2012,,20017811MO,-882.4500,,,,,,,,,,
+TRANSACTION,3228,010001200,1,20.0000,20.00,"Sharps Disposal - 1 Per Day: Pattison, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010001200,1,35.0000,35.00,"Pendant Fee: Pattison, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,20010836,,09/01/2012,55,"Invoice-Private",,09/01/2012,09/10/2012,,20017811MO,-882.4500,,,,,,,,,,
+TRANSACTION,3228,010001200,1,20,20,"Credit for Sharps Disposal - 1 Per Day: Pattison, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010001200,1,35,35,"Credit for Pendant Fee: Pattison, Wayne",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,6380.0000,
+INVOICE,IN,,04110183,,11/01/2012,2900.0000,"Invoice-Private",,11/01/2012,11/10/2012,,04114625MO,-580.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,25,99.0000,2475.00,"Basic Service Fee - One Bedroom for Nov: Sturm, Evangeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,25,17.0000,425.00,"Resident Care - Level 1 for Nov: Sturm, Evangeline",,,,,,,,,,,,,,,
+INVOICE,CM,,04110183,,11/01/2012,3480,"Invoice-Private",,11/01/2012,11/10/2012,,04114625MO,-580.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2970,2970,"CR:Basic Service F... E.Sturm 201211: Sturm, Evangeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,510,510,"CR:Resident Care -... E.Sturm 201211: Sturm, Evangeline",,,,,,,,,,,,,,,

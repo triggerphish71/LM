@@ -1,0 +1,5 @@
+BATCH,,201305,B,1984.0000,
+INVOICE,IN,,50110235,,05/01/2013,62.0000,"Invoice-Private",,05/01/2013,05/10/2013,,50114685MO,-1860.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,62.0000,62.00,"Basic Service Fee - Studio for May: Volkert, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,50110235,,05/01/2013,1922,"Invoice-Private",,05/01/2013,05/10/2013,,50114685MO,-1860.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,1922,1922,"CR:Basic Service F... L.Volkert 201305: Volkert, Lawrence",,,,,,,,,,,,,,,

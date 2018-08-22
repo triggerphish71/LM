@@ -1,0 +1,5 @@
+BATCH,,201112,B,4473.7500,
+INVOICE,IN,,03910222,,12/07/2011,4473.7500,"MoveIn-Thomas. Russell",,12/07/2011,12/07/2011,,03914334,4473.7500,,,,,,,,,,
+TRANSACTION,3010,010101039,25,90.0000,2250,"Basic Service Fee - Studio: Thomas. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,25,8.9500,223.75,"Resident Care - Level 5: Thomas. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Thomas. Russell",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201105,B,3360.0000,
+INVOICE,IN,,06910152,,05/17/2011,3360.0000,"MoveIn-Davis. Jeff",,05/17/2011,05/17/2011,,06913564,3360.0000,,,,,,,,,,
+TRANSACTION,3010,010305069,15,95.0000,1425,"Basic Service Fee - One Bedroom    : Davis. Jeff",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305069,15,29.0000,435,"Resident Care - Level 2: Davis. Jeff",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305069,1,1500.0000,1500,"New Resident Fee: Davis. Jeff",,,,,,,,,,,,,,,

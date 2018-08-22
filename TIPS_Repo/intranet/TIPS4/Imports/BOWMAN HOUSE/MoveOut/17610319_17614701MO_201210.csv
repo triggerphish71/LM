@@ -1,0 +1,6 @@
+BATCH,,201210,B,6181.0000,
+INVOICE,IN,,17610319,,10/01/2012,2678.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17614701MO,-825.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,26,103.0000,2678.00,"Basic Service Fee - One Bedroom for Oct: Sisson, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,17610319,,10/01/2012,3503,"Invoice-Private",,10/01/2012,10/10/2012,,17614701MO,-825.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,3193,3193,"CR:Basic Service F... J.Sisson 201210: Sisson, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... J.Sisson 201210: Sisson, Joanne",,,,,,,,,,,,,,,

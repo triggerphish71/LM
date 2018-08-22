@@ -1,0 +1,8 @@
+BATCH,,201210,B,5464.0000,
+INVOICE,IN,,50210199,,10/01/2012,882.0000,"Invoice-Private",,10/01/2012,10/10/2012,,50213621MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,6,121.0000,726.00,"Basic Service Fee - One Bedroom Del for Oct: Colbert, Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,6,26.0000,156.00,"Resident Care - Level 2 for Oct: Colbert, Mary Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,50210199,,10/01/2012,4582,"Invoice-Private",,10/01/2012,10/10/2012,,50213621MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3751,3751,"CR:Basic Service F... M.Colbert 201210: Colbert, Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... M.Colbert 201210: Colbert, Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,806,806,"CR:Resident Care -... M.Colbert 201210: Colbert, Mary Jane",,,,,,,,,,,,,,,

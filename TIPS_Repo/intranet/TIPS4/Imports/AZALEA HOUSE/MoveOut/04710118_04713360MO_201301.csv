@@ -1,0 +1,8 @@
+BATCH,,201301,B,9079.0000,
+INVOICE,IN,,04710118,,01/30/2013,5111.0000,"Invoice-Private",,01/30/2013,01/30/2013,,04713360MO,-1293.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,1,1271.0000,1271.00,"CR:Limited Term Di... M.Tutt 201301: Tutt, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,30,32.0000,960.00,"Resident Care - Level 2 for Jan: Tutt, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202047,30,96.0000,2880.00,"Room and Board - Studio for Jan: Tutt, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,04710118,,01/30/2013,3968,"Invoice-Private",,01/30/2013,01/30/2013,,04713360MO,-1293.0000,,,,,,,,,,
+TRANSACTION,3027,010202047,1,992,992,"CR:Resident Care -... M.Tutt 201301: Tutt, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2976,2976,"CR:Room and Board ... M.Tutt 201301: Tutt, Maxine",,,,,,,,,,,,,,,

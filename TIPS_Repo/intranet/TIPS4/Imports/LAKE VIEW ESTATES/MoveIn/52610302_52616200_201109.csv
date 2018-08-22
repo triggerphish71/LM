@@ -1,0 +1,5 @@
+BATCH,,201109,B,744.0000,
+INVOICE,IN,,52610302,,08/31/2011,24.0000,"MoveIn-Eriksen. Phyllis",,08/31/2011,08/31/2011,,52616200,744.0000,,,,,,,,,,
+TRANSACTION,3014,010319526,1,24.0000,24,"Basic Service Fee - Second Resident: Eriksen. Phyllis",,,,,,,,,,,,,,,
+INVOICE,IN,,52610302,,09/01/2011,720.0000,"September_Rent-Eriksen. Phyllis",,09/01/2011,09/10/2011,,52616200,744.0000,,,,,,,,,,
+TRANSACTION,3010,010319526,30,24.0000,720,"Basic Service Fee - Second Resident: Eriksen. Phyllis",,,,,,,,,,,,,,,

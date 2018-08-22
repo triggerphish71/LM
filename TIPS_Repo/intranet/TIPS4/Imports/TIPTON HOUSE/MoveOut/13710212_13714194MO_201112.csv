@@ -1,0 +1,8 @@
+BATCH,,201112,B,7044.0000,
+INVOICE,IN,,13710212,,12/11/2011,1837.0000,"Invoice-Private",,12/11/2011,12/11/2011,,13714194MO,-3370.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,11,110.0000,1210.00,"Basic Service Fee - One Bedroom for Dec: Hack, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,11,57.0000,627.00,"Resident Care - Level 4 for Dec: Hack, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,13710212,,12/11/2011,5207,"Invoice-Private",,12/11/2011,12/11/2011,,13714194MO,-3370.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,3410,3410,"CR:Basic Service F... C.Hack 201112: Hack, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... C.Hack 201112: Hack, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1767,1767,"CR:Resident Care -... C.Hack 201112: Hack, Carl",,,,,,,,,,,,,,,

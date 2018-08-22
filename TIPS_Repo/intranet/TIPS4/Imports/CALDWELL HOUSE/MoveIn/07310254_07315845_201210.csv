@@ -1,0 +1,6 @@
+BATCH,,201210,B,1890.0000,
+INVOICE,IN,,07310254,,10/28/2012,1890.0000,"MoveIn-Bell. Robert",,10/28/2012,10/28/2012,,07315845,5810.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,4,97.0000,388,"R.Bell: Basic Service Fee - Studio: Bell. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,4,33.0000,132,"R.Bell: Resident Care - Level 2: Bell. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Bell. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,1350.0000,1350,"New Resident Fee: Bell. Robert",,,,,,,,,,,,,,,

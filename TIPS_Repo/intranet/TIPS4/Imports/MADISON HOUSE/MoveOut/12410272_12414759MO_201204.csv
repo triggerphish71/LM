@@ -1,0 +1,8 @@
+BATCH,,201204,B,6262.7000,
+INVOICE,IN,,12410272,,04/01/2012,274.8000,"Invoice-Private",,04/01/2012,04/10/2012,,12414759MO,-6754.5500,,,,,,,,,,
+TRANSACTION,3320,010211124,1,60.0000,60.00,"CR:Limited Term Di... E.Otto 201204: Otto, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3037,010211124,1,214.8000,214.80,"CR:Private Care Ra... E.Otto 201204: Otto, Ervin",,,,,,,,,,,,,,,
+INVOICE,CM,,12410272,,04/01/2012,5987.9,"Invoice-Private",,04/01/2012,04/10/2012,,12414759MO,-6754.5500,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2430,2430,"CR:Basic Service F... E.Otto 201204: Otto, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... E.Otto 201204: Otto, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,3522.9,3522.9,"CR:Resident Care -... E.Otto 201204: Otto, Ervin",,,,,,,,,,,,,,,

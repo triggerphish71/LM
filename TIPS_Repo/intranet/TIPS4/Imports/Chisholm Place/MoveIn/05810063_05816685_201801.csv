@@ -1,0 +1,6 @@
+BATCH,,201801,B,9702.8000,
+INVOICE,IN,,05810063,,01/06/2018,9702.8000,"MoveIn-Raper. Ora",,01/06/2018,01/06/2018,,05816685,9702.8000,,,,,,,,,,
+TRANSACTION,3010,010002058,26,101.0000,2626,"O.Raper: Basic Service Fee - Studio: Raper. Ora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002058,26,36.0000,936,"O.Raper: Resident Care - Level 2: Raper. Ora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002058,1,3070.4000,3070.4,"Community Fee: Raper. Ora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002058,1,3070.4000,3070.4,"Monthly Deferral Charge: Raper. Ora",,,,,,,,,,,,,,,

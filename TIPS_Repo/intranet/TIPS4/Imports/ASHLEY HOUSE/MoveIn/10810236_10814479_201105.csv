@@ -1,0 +1,5 @@
+BATCH,,201105,B,3800.0000,
+INVOICE,IN,,10810236,,05/04/2011,3800.0000,"MoveIn-Scurry. Wilbur",,05/04/2011,05/04/2011,,10814479,3800.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,28,84.0000,2352,"Basic Service Fee - Studio         : Scurry. Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308108,28,16.0000,448,"Resident Care - Level 1: Scurry. Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Scurry. Wilbur",,,,,,,,,,,,,,,

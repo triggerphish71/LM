@@ -1,0 +1,8 @@
+BATCH,,201804,B,5529.0000,
+INVOICE,IN,,12010373,,04/10/2018,1299.0000,"Invoice-Private",,04/10/2018,04/10/2018,,12017150MO,-7302.0000,,,,,,,,,,
+TRANSACTION,3017,010009120,7,55.0000,385.00,"Level: 4  to  Level: 1  - 04/08: Humerickhouse, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009120,3,18.0000,54.00," Level: 1 : Humerickhouse, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009120,10,86.0000,860.00,"Basic Service Fee - Studio  for Apr: Humerickhouse, Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,12010373,,04/10/2018,4230,"Invoice-Private",,04/10/2018,04/10/2018,,12017150MO,-7302.0000,,,,,,,,,,
+TRANSACTION,3020,010009120,1,2580,2580,"CR:Basic Service F... L.Humerickhouse 201804: Humerickhouse, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009120,1,1650,1650,"CR:Resident Care -... L.Humerickhouse 201804: Humerickhouse, Lucy",,,,,,,,,,,,,,,

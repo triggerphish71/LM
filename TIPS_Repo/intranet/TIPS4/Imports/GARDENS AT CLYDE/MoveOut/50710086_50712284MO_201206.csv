@@ -1,0 +1,5 @@
+BATCH,,201206,B,300.0000,
+INVOICE,IN,,50710086,,06/01/2012,150.0000,"Invoice-Private",,06/01/2012,06/10/2012,,50712284MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3320,010305507,30,5.0000,150.00,"Credit for Limited Term Discount: Heschel, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,50710086,,06/01/2012,150,"Invoice-Private",,06/01/2012,06/10/2012,,50712284MO,-2232.0000,,,,,,,,,,
+TRANSACTION,3320,010305507,30,5,150,"Limited Term Discount: Heschel, Mary Lou",,,,,,,,,,,,,,,

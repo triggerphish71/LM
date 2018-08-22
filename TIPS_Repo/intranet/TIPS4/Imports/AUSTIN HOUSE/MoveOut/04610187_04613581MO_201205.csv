@@ -1,0 +1,5 @@
+BATCH,,201205,B,620.0000,
+INVOICE,IN,,04610187,,05/01/2012,310.0000,"Invoice-Private",,05/01/2012,05/10/2012,,04613581MO,-3251.0000,,,,,,,,,,
+TRANSACTION,3312,010202046,31,10.0000,310.00,"Credit for Two Room Rental Discount: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,
+INVOICE,CM,,04610187,,05/01/2012,310,"Invoice-Private",,05/01/2012,05/10/2012,,04613581MO,-3251.0000,,,,,,,,,,
+TRANSACTION,3312,010202046,31,10,310,"Two Room Rental Discount: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,

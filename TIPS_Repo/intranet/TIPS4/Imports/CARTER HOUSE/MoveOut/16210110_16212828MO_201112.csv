@@ -1,0 +1,5 @@
+BATCH,,201112,B,90.0000,
+INVOICE,IN,,16210110,,12/01/2011,45.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16212828MO,-3629.0000,,,,,,,,,,
+TRANSACTION,3130,010211162,1,45.0000,45.00,"Pendant Fee: Lensch, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,16210110,,12/01/2011,45,"Invoice-Private",,12/01/2011,12/10/2011,,16212828MO,-3629.0000,,,,,,,,,,
+TRANSACTION,3130,010211162,1,45,45,"Credit for Pendant Fee: Lensch, Dorothy",,,,,,,,,,,,,,,

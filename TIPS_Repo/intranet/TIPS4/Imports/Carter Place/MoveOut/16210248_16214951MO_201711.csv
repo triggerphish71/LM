@@ -1,0 +1,7 @@
+BATCH,,201711,B,6475.0000,
+INVOICE,IN,,16210248,,11/05/2017,925.0000,"Invoice-Private",,11/05/2017,11/05/2017,,16214951MO,-4625.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,5,97.0000,485.00,"Basic Service Fee - Deluxe  for Nov: Severson, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,5,88.0000,440.00,"Resident Care - Level 5  for Nov: Severson, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,16210248,,11/05/2017,5550,"Invoice-Private",,11/05/2017,11/05/2017,,16214951MO,-4625.0000,,,,,,,,,,
+TRANSACTION,3020,010011162,1,2910,2910,"CR:Basic Service F... R.Severson 201711: Severson, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,1,2640,2640,"CR:Resident Care -... R.Severson 201711: Severson, Ray",,,,,,,,,,,,,,,

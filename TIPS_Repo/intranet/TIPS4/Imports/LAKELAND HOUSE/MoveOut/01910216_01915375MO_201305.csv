@@ -1,0 +1,7 @@
+BATCH,,201305,B,6493.0000,
+INVOICE,IN,,01910216,,05/01/2013,1812.0000,"Invoice-Private",,05/01/2013,05/10/2013,,01915375MO,-2869.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,12,96.0000,1152.00,"Basic Service Fee - Studio for May: Mettetal, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,12,55.0000,660.00,"Resident Care - Level 4 for May: Mettetal, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,01910216,,05/01/2013,4681,"Invoice-Private",,05/01/2013,05/10/2013,,01915375MO,-2869.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2976,2976,"CR:Basic Service F... W.Mettetal 201305: Mettetal, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,1705,1705,"CR:Resident Care -... W.Mettetal 201305: Mettetal, Wanda",,,,,,,,,,,,,,,

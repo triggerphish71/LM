@@ -1,0 +1,5 @@
+BATCH,,201304,B,4645.0000,
+INVOICE,CM,,11210304,,04/01/2013,4645,"Invoice-Private",,04/01/2013,04/10/2013,,11216536MO,-4645.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3090,3090,"CR:Basic Service F... R.Walther 201304: Walther, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... R.Walther 201304: Walther, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1530,1530,"CR:Resident Care -... R.Walther 201304: Walther, Rita",,,,,,,,,,,,,,,

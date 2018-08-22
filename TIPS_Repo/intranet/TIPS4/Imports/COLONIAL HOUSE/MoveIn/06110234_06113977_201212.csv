@@ -1,0 +1,4 @@
+BATCH,,201212,B,4095.1000,
+INVOICE,IN,,06110234,,12/01/2012,4095.1000,"MoveIn-Overbay. Elma",,12/01/2012,12/01/2012,,06113977,4095.1000,,,,,,,,,,
+TRANSACTION,3010,010103061,31,84.0000,2604,"Basic Service Fee - Studio: Overbay. Elma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103061,31,48.1000,1491.1,"Resident Care - Level 26: Overbay. Elma",,,,,,,,,,,,,,,

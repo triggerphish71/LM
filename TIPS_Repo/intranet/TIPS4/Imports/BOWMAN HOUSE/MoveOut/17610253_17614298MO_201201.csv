@@ -1,0 +1,8 @@
+BATCH,,201201,B,6074.0000,
+INVOICE,IN,,17610253,,01/13/2012,1703.0000,"Invoice-Private",,01/13/2012,01/13/2012,,17614298MO,-6757.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,13,103.0000,1339.00,"Basic Service Fee - One Bedroom for Jan: Bauman, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,13,28.0000,364.00,"Resident Care - Level 2 for Jan: Bauman, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,17610253,,01/13/2012,4371,"Invoice-Private",,01/13/2012,01/13/2012,,17614298MO,-6757.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,3193,3193,"CR:Basic Service F... W.Bauman 201201: Bauman, Walter",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... W.Bauman 201201: Bauman, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... W.Bauman 201201: Bauman, Walter",,,,,,,,,,,,,,,

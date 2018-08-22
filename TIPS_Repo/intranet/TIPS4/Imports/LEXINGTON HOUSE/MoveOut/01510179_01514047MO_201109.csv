@@ -1,0 +1,5 @@
+BATCH,,201109,B,780.0000,
+INVOICE,IN,,01510179,,09/01/2011,390.0000,"Invoice-Private",,09/01/2011,09/10/2011,,01514047MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,13.0000,390.00,"Credit for Limited Term Discount: Lindblad, Wally",,,,,,,,,,,,,,,
+INVOICE,CM,,01510179,,09/01/2011,390,"Invoice-Private",,09/01/2011,09/10/2011,,01514047MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,13,390,"Limited Term Discount: Lindblad, Wally",,,,,,,,,,,,,,,

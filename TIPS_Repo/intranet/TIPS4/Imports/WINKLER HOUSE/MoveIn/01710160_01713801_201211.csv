@@ -1,0 +1,6 @@
+BATCH,,201211,B,3687.0000,
+INVOICE,IN,,01710160,,11/11/2012,3687.0000,"MoveIn-Brady. Geraldine",,11/11/2012,11/11/2012,,01713801,3687.0000,,,,,,,,,,
+TRANSACTION,3010,010202017,20,93.0000,1860,"Basic Service Fee - Studio: Brady. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202017,20,40.0000,800,"Resident Care - Level 3: Brady. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202017,1,1000.0000,1000,"New Resident Fee: Brady. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27,"Monthly Cable: Brady. Geraldine",,,,,,,,,,,,,,,

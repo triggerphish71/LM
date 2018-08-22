@@ -1,0 +1,7 @@
+BATCH,,201305,B,5408.0000,
+INVOICE,IN,,04210131,,05/01/2013,169.0000,"Invoice-Private",,05/01/2013,05/01/2013,,04214266MO,-10140.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,114.0000,114.00,"Basic Service Fee - One Bedroom for May: Bruce, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,55.0000,55.00,"Resident Care - Level 4 for May: Bruce, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,04210131,,05/01/2013,5239,"Invoice-Private",,05/01/2013,05/01/2013,,04214266MO,-10140.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3534,3534,"CR:Basic Service F... R.Bruce 201305: Bruce, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1705,1705,"CR:Resident Care -... R.Bruce 201305: Bruce, Robert",,,,,,,,,,,,,,,

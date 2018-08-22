@@ -1,0 +1,8 @@
+BATCH,,201305,B,4489.0000,
+INVOICE,IN,,12410312,,05/03/2013,393.0000,"Invoice-Private",,05/03/2013,05/03/2013,,12415319MO,-3703.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,3,99.0000,297.00,"Basic Service Fee - One Bedroom for May: Johnston, Clareen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,3,32.0000,96.00,"Resident Care - Level 2 for May: Johnston, Clareen",,,,,,,,,,,,,,,
+INVOICE,CM,,12410312,,05/03/2013,4096,"Invoice-Private",,05/03/2013,05/03/2013,,12415319MO,-3703.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,3069,3069,"CR:Basic Service F... C.Johnston 201305: Johnston, Clareen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... C.Johnston 201305: Johnston, Clareen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,992,992,"CR:Resident Care -... C.Johnston 201305: Johnston, Clareen",,,,,,,,,,,,,,,

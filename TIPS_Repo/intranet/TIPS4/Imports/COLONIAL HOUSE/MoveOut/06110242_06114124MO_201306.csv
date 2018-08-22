@@ -1,0 +1,7 @@
+BATCH,,201306,B,6291.6000,
+INVOICE,IN,,06110242,,06/19/2013,2439.6000,"Invoice-Private",,06/19/2013,06/19/2013,,06114124MO,-5392.8000,,,,,,,,,,
+TRANSACTION,3020,010103061,19,84.0000,1596.00,"Basic Service Fee - Studio for Jun: Mcneal, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,19,44.4000,843.60,"Resident Care - Level 24 for Jun: Mcneal, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,06110242,,06/19/2013,3852,"Invoice-Private",,06/19/2013,06/19/2013,,06114124MO,-5392.8000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2520,2520,"CR:Basic Service F... D.Mcneal 201306: Mcneal, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,1332,1332,"CR:Resident Care -... D.Mcneal 201306: Mcneal, Donna",,,,,,,,,,,,,,,

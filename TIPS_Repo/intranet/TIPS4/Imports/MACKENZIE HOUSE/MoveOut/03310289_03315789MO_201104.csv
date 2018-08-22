@@ -1,0 +1,8 @@
+BATCH,,201104,B,6889.0000,
+INVOICE,IN,,03310289,,04/22/2011,2904.0000,"Invoice-Private",,04/22/2011,04/22/2011,,03315789MO,-5198.0000,,,,,,,,,,
+TRANSACTION,3027,010202033,22,41.0000,902.00,"Resident Care - Level 3 for Apr: Underwood, G.D.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,22,91.0000,2002.00,"Room and Board - Studio for Apr: Underwood, G.D.",,,,,,,,,,,,,,,
+INVOICE,CM,,03310289,,04/22/2011,3985,"Invoice-Private",,04/22/2011,04/22/2011,,03315789MO,-5198.0000,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... G.Underwood 201104: Underwood, G.D.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,1230,1230,"CR:Resident Care -... G.Underwood 201104: Underwood, G.D.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2730,2730,"CR:Room and Board ... G.Underwood 201104: Underwood, G.D.",,,,,,,,,,,,,,,

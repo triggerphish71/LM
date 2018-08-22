@@ -1,0 +1,7 @@
+BATCH,,201303,B,10659.0000,
+INVOICE,IN,,19210282,,03/25/2013,4862.0000,"Invoice-Private",,03/25/2013,03/25/2013,,19215756MO,-6545.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,26,119.0000,3094.00,"Basic Service Fee - One Bedroom for Mar: Deckard, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,26,68.0000,1768.00,"Resident Care - Level 5 for Mar: Deckard, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19210282,,03/25/2013,5797,"Invoice-Private",,03/25/2013,03/25/2013,,19215756MO,-6545.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3689,3689,"CR:Basic Service F... J.Deckard 201303: Deckard, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,2108,2108,"CR:Resident Care -... J.Deckard 201303: Deckard, James",,,,,,,,,,,,,,,

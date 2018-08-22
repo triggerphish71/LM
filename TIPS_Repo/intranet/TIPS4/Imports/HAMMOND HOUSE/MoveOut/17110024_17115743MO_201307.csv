@@ -1,0 +1,5 @@
+BATCH,,201307,B,40.0000,
+INVOICE,IN,,17110024,,07/01/2013,20.0000,"Invoice-Private",,07/01/2013,07/10/2013,,17115743MO,-2985.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20.0000,20.00,"Pendant Fee: Burnett, Abbie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110024,,07/01/2013,20,"Invoice-Private",,07/01/2013,07/10/2013,,17115743MO,-2985.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20,20,"Credit for Pendant Fee: Burnett, Abbie",,,,,,,,,,,,,,,

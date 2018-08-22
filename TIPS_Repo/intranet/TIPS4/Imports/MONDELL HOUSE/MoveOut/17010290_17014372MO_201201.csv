@@ -1,0 +1,7 @@
+BATCH,,201201,B,1600.0000,
+INVOICE,IN,,17010290,,01/01/2012,800.0000,"Invoice-Private",,01/01/2012,01/10/2012,,17014372MO,-4111.0000,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25.00,"Monthly Cable: Laird, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107170,31,25.0000,775.00,"Credit for Limited Term Discount: Laird, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,17010290,,01/01/2012,800,"Invoice-Private",,01/01/2012,01/10/2012,,17014372MO,-4111.0000,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25,25,"Credit for Monthly Cable: Laird, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107170,31,25,775,"Limited Term Discount: Laird, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201803,B,4374.0000,
+INVOICE,IN,,31700021,,03/23/2018,1863.0000,"Invoice-Private",,03/23/2018,03/23/2018,,31711061MO,-3078.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,23,23.0000,529.00,"Resident Care - Level 1  for Mar: Hines, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,23,58.0000,1334.00,"Studio  for Mar: Hines, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,31700021,,03/23/2018,2511,"Invoice-Private",,03/23/2018,03/23/2018,,31711061MO,-3078.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,1,713,713,"CR:Resident Care -... A.Hines 201803: Hines, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,1,1798,1798,"CR:Studio... A.Hines 201803: Hines, Anna",,,,,,,,,,,,,,,

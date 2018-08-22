@@ -1,0 +1,5 @@
+BATCH,,201206,B,70.0000,
+INVOICE,IN,,17810338,,06/01/2012,35.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17816046MO,-4065.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Paine, Douglas",,,,,,,,,,,,,,,
+INVOICE,CM,,17810338,,06/01/2012,35,"Invoice-Private",,06/01/2012,06/10/2012,,17816046MO,-4065.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Paine, Douglas",,,,,,,,,,,,,,,

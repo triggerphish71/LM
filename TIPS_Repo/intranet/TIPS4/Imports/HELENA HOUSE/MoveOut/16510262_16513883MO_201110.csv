@@ -1,0 +1,7 @@
+BATCH,,201110,B,2658.0000,
+INVOICE,IN,,16510262,,10/01/2011,1329.0000,"Invoice-Private",,10/01/2011,10/10/2011,,16513883MO,-1642.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Beam, Emily",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,31,42.0000,1302.00,"Credit for Limited Term Discount: Beam, Emily",,,,,,,,,,,,,,,
+INVOICE,CM,,16510262,,10/01/2011,1329,"Invoice-Private",,10/01/2011,10/10/2011,,16513883MO,-1642.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Beam, Emily",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,31,42,1302,"Limited Term Discount: Beam, Emily",,,,,,,,,,,,,,,

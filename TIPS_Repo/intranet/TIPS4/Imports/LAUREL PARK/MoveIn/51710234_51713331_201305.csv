@@ -1,0 +1,6 @@
+BATCH,,201305,B,4611.5500,
+INVOICE,IN,,51710234,,05/13/2013,4611.5500,"MoveIn-Zimmel. Marry",,05/13/2013,05/13/2013,,51713331,4611.5500,,,,,,,,,,
+TRANSACTION,3010,010103517,19,94.0000,1786,"Basic Service Fee - Studio: Zimmel. Marry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103517,19,68.4500,1300.55,"Resident Care - Level 37: Zimmel. Marry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Zimmel. Marry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,1500.0000,1500,"New Resident Fee: Zimmel. Marry",,,,,,,,,,,,,,,

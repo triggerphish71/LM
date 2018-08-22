@@ -1,0 +1,6 @@
+BATCH,,201212,B,4217.0000,
+INVOICE,IN,,03210263,,12/01/2012,1303.0000,"Invoice-Private",,12/01/2012,12/10/2012,,03215154MO,-1611.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,1209.0000,1209.00,"CR:Limited Term Di... M.McMullen 201212: McMullen, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,1,94.0000,94.00,"Basic Service Fee - Studio for Dec: McMullen, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03210263,,12/01/2012,2914,"Invoice-Private",,12/01/2012,12/10/2012,,03215154MO,-1611.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... M.McMullen 201212: McMullen, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,5135.0000,
+INVOICE,IN,,18410191,,02/15/2013,2083.0000,"Invoice-Private",,02/15/2013,02/15/2013,,18415506MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3320,010313184,1,448.0000,448.00,"CR:Limited Term Di... E.Moore 201302: Moore, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313184,15,96.0000,1440.00,"Basic Service Fee - Studio for Feb: Moore, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,15,13.0000,195.00,"Resident Care - Level 1 for Feb: Moore, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,18410191,,02/15/2013,3052,"Invoice-Private",,02/15/2013,02/15/2013,,18415506MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2688,2688,"CR:Basic Service F... E.Moore 201302: Moore, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,364,364,"CR:Resident Care -... E.Moore 201302: Moore, Eva",,,,,,,,,,,,,,,

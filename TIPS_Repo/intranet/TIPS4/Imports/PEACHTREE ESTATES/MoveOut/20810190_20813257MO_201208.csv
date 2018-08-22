@@ -1,0 +1,5 @@
+BATCH,,201208,B,496.0000,
+INVOICE,IN,,20810190,,08/01/2012,248.0000,"Invoice-Private",,08/01/2012,08/10/2012,,20813257MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,8.0000,248.00,"Credit for Limited Term Discount: Meadows, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,20810190,,08/01/2012,248,"Invoice-Private",,08/01/2012,08/10/2012,,20813257MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,8,248,"Limited Term Discount: Meadows, Andrew",,,,,,,,,,,,,,,

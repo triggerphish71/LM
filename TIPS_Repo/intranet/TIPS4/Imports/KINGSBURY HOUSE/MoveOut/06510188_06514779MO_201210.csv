@@ -1,0 +1,5 @@
+BATCH,,201210,B,2108.0000,
+INVOICE,IN,,06510188,,10/01/2012,1054.0000,"Invoice-Private",,10/01/2012,10/10/2012,,06514779MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,34.0000,1054.00,"Credit for Limited Term Discount: Warren, Oleta",,,,,,,,,,,,,,,
+INVOICE,CM,,06510188,,10/01/2012,1054,"Invoice-Private",,10/01/2012,10/10/2012,,06514779MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,34,1054,"Limited Term Discount: Warren, Oleta",,,,,,,,,,,,,,,

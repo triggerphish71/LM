@@ -1,0 +1,5 @@
+BATCH,,201111,B,2260.2100,
+INVOICE,IN,,01010166,,11/24/2011,2260.2100,"MoveIn-Butler. Marylee",,11/24/2011,11/24/2011,,01012750,7841.1400,,,,,,,,,,
+TRANSACTION,3010,010101010,7,78.0000,546,"M.Butler: Basic Service Fee - Studio: Butler. Marylee",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101010,7,102.0300,714.21,"M.Butler: Resident Care - Level 57: Butler. Marylee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,1000.0000,1000,"New Resident Fee: Butler. Marylee",,,,,,,,,,,,,,,

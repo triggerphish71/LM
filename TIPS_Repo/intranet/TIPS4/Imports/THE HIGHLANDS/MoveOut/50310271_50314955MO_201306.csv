@@ -1,0 +1,5 @@
+BATCH,,201306,B,3005.0000,
+INVOICE,CM,,50310271,,06/01/2013,3005,"Invoice-Private",,06/01/2013,06/10/2013,,50314955MO,-4299.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2220,2220,"CR:Basic Service F... R.Deaton 201306: Deaton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... R.Deaton 201306: Deaton, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,750,750,"CR:Resident Care -... R.Deaton 201306: Deaton, Robert",,,,,,,,,,,,,,,

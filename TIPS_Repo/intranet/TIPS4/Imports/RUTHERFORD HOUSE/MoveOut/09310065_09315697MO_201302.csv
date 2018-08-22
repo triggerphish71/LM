@@ -1,0 +1,6 @@
+BATCH,,201302,B,5656.0000,
+INVOICE,IN,,09310065,,02/01/2013,756.0000,"Invoice-Private",,02/01/2013,02/10/2013,,09315697MO,-6632.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,1,756.0000,756.00,"CR:Limited Term Di... P.Zimmerman 201302: Zimmerman, Pearl",,,,,,,,,,,,,,,
+INVOICE,CM,,09310065,,02/01/2013,4900,"Invoice-Private",,02/01/2013,02/10/2013,,09315697MO,-6632.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2128,2128,"CR:Resident Care -... P.Zimmerman 201302: Zimmerman, Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2772,2772,"CR:Room and Board ... P.Zimmerman 201302: Zimmerman, Pearl",,,,,,,,,,,,,,,

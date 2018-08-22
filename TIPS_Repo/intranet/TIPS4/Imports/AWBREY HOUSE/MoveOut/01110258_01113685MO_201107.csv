@@ -1,0 +1,5 @@
+BATCH,,201107,B,124.0000,
+INVOICE,IN,,01110258,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01113685MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010101011,31,2.0000,62.00,"Credit for Limited Term Discount: McMullen, Katheleen",,,,,,,,,,,,,,,
+INVOICE,CM,,01110258,,07/01/2011,62,"Invoice-Private",,07/01/2011,07/10/2011,,01113685MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010101011,31,2,62,"Limited Term Discount: McMullen, Katheleen",,,,,,,,,,,,,,,

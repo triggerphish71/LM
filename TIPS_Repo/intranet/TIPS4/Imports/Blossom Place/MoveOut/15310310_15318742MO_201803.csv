@@ -1,0 +1,7 @@
+BATCH,,201803,B,9625.2000,
+INVOICE,IN,,15310310,,03/08/2018,1974.4000,"Invoice-Private",,03/08/2018,03/08/2018,,15318742MO,-5676.4000,,,,,,,,,,
+TRANSACTION,3020,010003153,8,141.0000,1128.00,"Basic Service Fee - One Bedroom  for Mar: Dragoo, Fayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,8,105.8000,846.40,"Resident Care - Level 46  for Mar: Dragoo, Fayne",,,,,,,,,,,,,,,
+INVOICE,CM,,15310310,,03/08/2018,7650.8,"Invoice-Private",,03/08/2018,03/08/2018,,15318742MO,-5676.4000,,,,,,,,,,
+TRANSACTION,3020,010003153,1,4371,4371,"CR:Basic Service F... F.Dragoo 201803: Dragoo, Fayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,1,3279.8,3279.8,"CR:Resident Care -... F.Dragoo 201803: Dragoo, Fayne",,,,,,,,,,,,,,,

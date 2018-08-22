@@ -1,0 +1,7 @@
+BATCH,,201107,B,1046.0000,
+INVOICE,IN,,17110171,,07/01/2011,523.0000,"Invoice-Private",,07/01/2011,07/10/2011,,17114590MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Allen, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,16.0000,496.00,"Credit for Limited Term Discount: Allen, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,17110171,,07/01/2011,523,"Invoice-Private",,07/01/2011,07/10/2011,,17114590MO,-2727.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Allen, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,16,496,"Limited Term Discount: Allen, Irene",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,10273.0000,
+INVOICE,IN,,15510190,,05/13/2013,5040.0000,"Invoice-Private",,05/13/2013,05/13/2013,,15515815MO,-193.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,30,90.0000,2700.00,"Basic Service Fee - Studio for May: Bracken, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,30,78.0000,2340.00,"Resident Care - Level 6 for May: Bracken, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,15510190,,05/13/2013,5233,"Invoice-Private",,05/13/2013,05/13/2013,,15515815MO,-193.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2790,2790,"CR:Basic Service F... M.Bracken 201305: Bracken, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... M.Bracken 201305: Bracken, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2418,2418,"CR:Resident Care -... M.Bracken 201305: Bracken, Margie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201105,B,4129.0000,
+INVOICE,IN,,51610164,,05/04/2011,526.8000,"Invoice-Private",,05/04/2011,05/04/2011,,51613486MO,-3075.4000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,62.0000,62.00,"CR:Limited Term Di... M.Chymiy 201105: Chymiy, Marinette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103516,4,106.0000,424.00,"Basic Service Fee - One Bedroom for May: Chymiy, Marinette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,4,10.2000,40.80,"Resident Care - Level 6 for May: Chymiy, Marinette",,,,,,,,,,,,,,,
+INVOICE,CM,,51610164,,05/04/2011,3602.2,"Invoice-Private",,05/04/2011,05/04/2011,,51613486MO,-3075.4000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3286,3286,"CR:Basic Service F... M.Chymiy 201105: Chymiy, Marinette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,316.2,316.2,"CR:Resident Care -... M.Chymiy 201105: Chymiy, Marinette",,,,,,,,,,,,,,,

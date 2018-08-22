@@ -1,0 +1,5 @@
+BATCH,,201305,B,4900.0000,
+INVOICE,IN,,02910328,,05/01/2013,1800.0000,"Invoice-Private",,05/01/2013,05/10/2013,,02916079MO,-1300.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,18,100.0000,1800.00,"Basic Service Fee - Studio for May: Bollinger, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910328,,05/01/2013,3100,"Invoice-Private",,05/01/2013,05/10/2013,,02916079MO,-1300.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Basic Service F... J.Bollinger 201305: Bollinger, Johnnie",,,,,,,,,,,,,,,

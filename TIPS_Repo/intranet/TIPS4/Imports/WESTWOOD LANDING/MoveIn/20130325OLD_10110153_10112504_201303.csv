@@ -1,0 +1,5 @@
+BATCH,,201303,B,1833.0000,
+INVOICE,IN,,10110153,,03/25/2013,1833.0000,"MoveIn-Frye. Jean",,03/25/2013,03/25/2013,,10112504,5403.0000,,,,,,,,,,
+TRANSACTION,3010,010305101,7,91.0000,637,"Basic Service Fee - Studio: Frye. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305101,7,28.0000,196,"Resident Care - Level 2: Frye. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305101,1,1000.0000,1000,"New Resident Fee: Frye. Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,3560.0000,
+INVOICE,IN,,53310270,,10/22/2012,3560.0000,"MoveIn-Svoma. Gary",,10/22/2012,10/22/2012,,53314978,8140.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,10,123.0000,1230,"Basic Service Fee- One Bedroom Prem: Svoma. Gary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319533,10,28.0000,280,"Resident Care - Level 2: Svoma. Gary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Svoma. Gary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319533,1,2000.0000,2000,"New Resident Fee: Svoma. Gary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25,"Pendant Fee: Svoma. Gary",,,,,,,,,,,,,,,

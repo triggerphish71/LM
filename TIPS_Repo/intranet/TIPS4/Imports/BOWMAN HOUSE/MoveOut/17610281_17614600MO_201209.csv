@@ -1,0 +1,7 @@
+BATCH,,201209,B,720.0000,
+INVOICE,IN,,17610281,,09/01/2012,360.0000,"Invoice-Private",,09/01/2012,09/10/2012,,17614600MO,-5500.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,30,10.0000,300.00,"CC Meals: Swartz, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315176,30,2.0000,60.00,"Credit for Limited Term Discount: Swartz, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,17610281,,09/01/2012,360,"Invoice-Private",,09/01/2012,09/10/2012,,17614600MO,-5500.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,30,10,300,"Credit for CC Meals: Swartz, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315176,30,2,60,"Limited Term Discount: Swartz, Harold",,,,,,,,,,,,,,,

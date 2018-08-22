@@ -1,0 +1,6 @@
+BATCH,,201301,B,626.0000,
+INVOICE,IN,,09910232,,01/31/2013,626.0000,"MoveIn-Warr. Boyd",,01/31/2013,01/31/2013,,09914376,3479.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,1,86.0000,86,"Basic Service Fee - Studio: Warr. Boyd",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,1,15.0000,15,"Resident Care - Level 1: Warr. Boyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Warr. Boyd",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Warr. Boyd",,,,,,,,,,,,,,,

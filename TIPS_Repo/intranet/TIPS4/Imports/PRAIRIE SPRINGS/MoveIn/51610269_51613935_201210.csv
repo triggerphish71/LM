@@ -1,0 +1,5 @@
+BATCH,,201210,B,3182.2400,
+INVOICE,IN,,51610269,,10/18/2012,3182.2400,"MoveIn-Thomas. Jean",,10/18/2012,10/18/2012,,51613935,6787.0400,,,,,,,,,,
+TRANSACTION,3010,010103516,14,113.0000,1582,"Basic Service Fee - One Bedroom: Thomas. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103516,14,7.1600,100.24,"Resident Care - Level 4: Thomas. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103516,1,1500.0000,1500,"New Resident Fee: Thomas. Jean",,,,,,,,,,,,,,,

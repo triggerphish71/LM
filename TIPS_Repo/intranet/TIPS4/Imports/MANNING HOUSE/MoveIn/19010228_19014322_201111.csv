@@ -1,0 +1,5 @@
+BATCH,,201111,B,1125.0000,
+INVOICE,IN,,19010228,,11/30/2011,1125.0000,"MoveIn-Hipps. Bub",,11/30/2011,11/30/2011,,19014322,4190.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio: Hipps. Bub",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Hipps. Bub",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Hipps. Bub",,,,,,,,,,,,,,,

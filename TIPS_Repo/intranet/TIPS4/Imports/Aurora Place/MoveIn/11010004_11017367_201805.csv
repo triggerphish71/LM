@@ -1,0 +1,8 @@
+BATCH,,201805,B,7642.3000,
+INVOICE,IN,,11010004,,05/04/2018,4361.0000,"MoveIn-DeKay. Agnes",,05/04/2018,05/04/2018,,11017367,7642.3000,,,,,,,,,,
+TRANSACTION,3014,010007110,1,105.0000,105,"A.DeKay: Basic Service Fee - Studio: DeKay. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,3192.0000,3192,"Community Fee: DeKay. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,1064.0000,1064,"Monthly Deferral Charge: DeKay. Agnes",,,,,,,,,,,,,,,
+INVOICE,IN,,11010004,,05/04/2018,3281.3000,"MoveIn-DeKay. Agnes",,05/04/2018,05/04/2018,,11017367,7642.3000,,,,,,,,,,
+TRANSACTION,3010,010007110,31,105.0000,3255,"A.DeKay: Basic Service Fee - Studio: DeKay. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: DeKay. Agnes",,,,,,,,,,,,,,,

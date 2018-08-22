@@ -1,0 +1,8 @@
+BATCH,,201204,B,5751.0000,
+INVOICE,IN,,03110248,,04/01/2012,954.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03116738MO,-3843.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,6,115.0000,690.00,"Basic Service Fee - One Bedroom for Apr: Henderson, Waverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,6,44.0000,264.00,"Resident Care - Level 3 for Apr: Henderson, Waverly",,,,,,,,,,,,,,,
+INVOICE,CM,,03110248,,04/01/2012,4797,"Invoice-Private",,04/01/2012,04/10/2012,,03116738MO,-3843.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3450,3450,"CR:Basic Service F... W.Henderson 201204: Henderson, Waverly",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... W.Henderson 201204: Henderson, Waverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1320,1320,"CR:Resident Care -... W.Henderson 201204: Henderson, Waverly",,,,,,,,,,,,,,,

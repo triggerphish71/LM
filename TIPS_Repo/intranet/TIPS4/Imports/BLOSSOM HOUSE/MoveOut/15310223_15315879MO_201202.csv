@@ -1,0 +1,6 @@
+BATCH,,201202,B,4379.2900,
+INVOICE,IN,,15310223,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,15315879MO,-6287.4300,,,,,,,,,,
+TRANSACTION,3320,010103153,1,58.0000,58.00,"CR:Limited Term Di... I.Andrews 201202: Andrews, Iva",,,,,,,,,,,,,,,
+INVOICE,CM,,15310223,,02/01/2012,4321.29,"Invoice-Private",,02/01/2012,02/10/2012,,15315879MO,-6287.4300,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3335,3335,"CR:Basic Service F... I.Andrews 201202: Andrews, Iva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,986.29,986.29,"CR:Resident Care -... I.Andrews 201202: Andrews, Iva",,,,,,,,,,,,,,,

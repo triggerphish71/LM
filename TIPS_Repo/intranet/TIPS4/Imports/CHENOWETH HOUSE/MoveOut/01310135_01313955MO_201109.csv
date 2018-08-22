@@ -1,0 +1,8 @@
+BATCH,,201109,B,5692.0000,
+INVOICE,IN,,01310135,,09/07/2011,2784.0000,"Invoice-Private",,09/07/2011,09/07/2011,,01313955MO,-124.0000,,,,,,,,,,
+TRANSACTION,3027,010103013,29,17.0000,493.00,"Resident Care - Level 10 for Sep: Lilly, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,29,79.0000,2291.00,"Room and Board - One Bedroom for Sep: Lilly, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,01310135,,09/07/2011,2908,"Invoice-Private",,09/07/2011,09/07/2011,,01313955MO,-124.0000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... B.Lilly 201109: Lilly, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,510,510,"CR:Resident Care -... B.Lilly 201109: Lilly, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2370,2370,"CR:Room and Board ... B.Lilly 201109: Lilly, Betty",,,,,,,,,,,,,,,

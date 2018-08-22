@@ -1,0 +1,8 @@
+BATCH,,201109,B,7636.0000,
+INVOICE,IN,,02010185,,09/23/2011,3741.0000,"Invoice-Private",,09/23/2011,09/23/2011,,02014311MO,-4178.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,29,103.0000,2987.00,"Basic Service Fee - One Bedroom for Sep: Adair, Clarleta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,29,26.0000,754.00,"Resident Care - Level 2 for Sep: Adair, Clarleta",,,,,,,,,,,,,,,
+INVOICE,CM,,02010185,,09/23/2011,3895,"Invoice-Private",,09/23/2011,09/23/2011,,02014311MO,-4178.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,3090,3090,"CR:Basic Service F... C.Adair 201109: Adair, Clarleta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... C.Adair 201109: Adair, Clarleta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,780,780,"CR:Resident Care -... C.Adair 201109: Adair, Clarleta",,,,,,,,,,,,,,,

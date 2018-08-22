@@ -1,0 +1,5 @@
+BATCH,,201202,B,4940.0000,
+INVOICE,IN,,07210182,,02/10/2012,4940.0000,"MoveIn-Cook. Marvalene",,02/10/2012,02/10/2012,,07213997,4940.0000,,,,,,,,,,
+TRANSACTION,3010,010305072,20,96.0000,1920,"Basic Service Fee - Studio: Cook. Marvalene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305072,20,76.0000,1520,"Resident Care - Level 5: Cook. Marvalene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305072,1,1500.0000,1500,"New Resident Fee: Cook. Marvalene",,,,,,,,,,,,,,,

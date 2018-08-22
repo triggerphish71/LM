@@ -1,0 +1,8 @@
+BATCH,,201304,B,4090.0000,
+INVOICE,IN,,13510295,,04/05/2013,580.0000,"Invoice-Private",,04/05/2013,04/05/2013,,13515735MO,-2930.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,5,85.0000,425.00,"Basic Service Fee- One Bedroom Prem for Apr: Brown, Janis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,5,31.0000,155.00,"Resident Care - Level 2 for Apr: Brown, Janis",,,,,,,,,,,,,,,
+INVOICE,CM,,13510295,,04/05/2013,3510,"Invoice-Private",,04/05/2013,04/05/2013,,13515735MO,-2930.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2550,2550,"CR:Basic Service F... J.Brown 201304: Brown, Janis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... J.Brown 201304: Brown, Janis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,930,930,"CR:Resident Care -... J.Brown 201304: Brown, Janis",,,,,,,,,,,,,,,

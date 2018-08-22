@@ -1,0 +1,5 @@
+BATCH,,201110,B,2511.5000,
+INVOICE,IN,,03910220,,10/27/2011,2511.5000,"MoveIn-Crooks. Betty",,10/27/2011,10/27/2011,,03914308,5580.5000,,,,,,,,,,
+TRANSACTION,3010,010101039,5,87.0000,435,"B.Crooks: Basic Service Fee - Studio: Crooks. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,5,15.3000,76.5,"B.Crooks: Resident Care - Level 9: Crooks. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Crooks. Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,60.0000,
+INVOICE,IN,,13510296,,12/01/2012,30.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13515437MO,-6701.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Lawson, Vida",,,,,,,,,,,,,,,
+INVOICE,CM,,13510296,,12/01/2012,30,"Invoice-Private",,12/01/2012,12/10/2012,,13515437MO,-6701.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Lawson, Vida",,,,,,,,,,,,,,,

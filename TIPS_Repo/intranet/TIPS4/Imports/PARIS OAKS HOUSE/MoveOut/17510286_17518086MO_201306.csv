@@ -1,0 +1,7 @@
+BATCH,,201306,B,5016.0000,
+INVOICE,IN,,17510286,,06/24/2013,2376.0000,"Invoice-Private",,06/24/2013,06/24/2013,,17518086MO,-2992.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,27,23.0000,621.00,"Resident Care - Level 2 for Jun: Bryan, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,27,65.0000,1755.00,"Room and Board - Studio Deluxe for Jun: Bryan, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,17510286,,06/24/2013,2640,"Invoice-Private",,06/24/2013,06/24/2013,,17518086MO,-2992.0000,,,,,,,,,,
+TRANSACTION,3027,010202175,1,690,690,"CR:Resident Care -... N.Bryan 201306: Bryan, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1950,1950,"CR:Room and Board ... N.Bryan 201306: Bryan, Norma",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,3910.4000,
+INVOICE,IN,,01310205,,01/09/2013,873.5400,"Invoice-Private",,01/09/2013,01/09/2013,,01314285MO,-2163.3200,,,,,,,,,,
+TRANSACTION,3020,010103013,9,72.0000,648.00,"R.Dunbar: Basic Service Fee - Studio for Jan: Dunbar, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,9,25.0600,225.54,"R.Dunbar: Resident Care - Level 14 for Jan: Dunbar, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,01310205,,01/09/2013,3036.86,"Invoice-Private",,01/09/2013,01/09/2013,,01314285MO,-2163.3200,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... R.Dunbar 201301: Dunbar, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:R.Dunbar: Basic... R.Dunbar 201301: Dunbar, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,776.86,776.86,"CR:R.Dunbar: Resid... R.Dunbar 201301: Dunbar, Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,5763.0000,
+INVOICE,IN,,16510263,,06/21/2011,2373.0000,"Invoice-Private",,06/21/2011,06/21/2011,,16513813MO,-4547.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,21,97.0000,2037.00,"Basic Service Fee - Studio for Jun: Elliott, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,21,16.0000,336.00,"Resident Care - Level 1 for Jun: Elliott, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,16510263,,06/21/2011,3390,"Invoice-Private",,06/21/2011,06/21/2011,,16513813MO,-4547.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,2910,2910,"CR:Basic Service F... B.Elliott 201106: Elliott, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,480,480,"CR:Resident Care -... B.Elliott 201106: Elliott, Beulah",,,,,,,,,,,,,,,

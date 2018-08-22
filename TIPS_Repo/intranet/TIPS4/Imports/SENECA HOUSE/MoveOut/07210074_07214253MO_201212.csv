@@ -1,0 +1,6 @@
+BATCH,,201212,B,5580.0000,
+INVOICE,IN,,07210074,,12/01/2012,682.0000,"Invoice-Private",,12/01/2012,12/10/2012,,07214253MO,-4472.0000,,,,,,,,,,
+TRANSACTION,3320,010305072,1,682.0000,682.00,"CR:Limited Term Di... D.Coolidge 201212: Coolidge, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,07210074,,12/01/2012,4898,"Invoice-Private",,12/01/2012,12/10/2012,,07214253MO,-4472.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2976,2976,"CR:Basic Service F... D.Coolidge 201212: Coolidge, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,1922,1922,"CR:Resident Care -... D.Coolidge 201212: Coolidge, Donna",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,4465.0000,
+INVOICE,IN,,06310207,,09/01/2011,420.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06314679MO,-6566.0000,,,,,,,,,,
+TRANSACTION,3320,010104063,1,420.0000,420.00,"CR:Limited Term Di... R.Thornton 201109: Thornton, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,06310207,,09/01/2011,4045,"Invoice-Private",,09/01/2011,09/10/2011,,06314679MO,-6566.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,2670,2670,"CR:Basic Service F... R.Thornton 201109: Thornton, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... R.Thornton 201109: Thornton, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,1350,1350,"CR:Resident Care -... R.Thornton 201109: Thornton, Ruby",,,,,,,,,,,,,,,

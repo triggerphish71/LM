@@ -1,0 +1,5 @@
+BATCH,,201302,B,1924.0000,
+INVOICE,IN,,07410241,,02/22/2013,1924.0000,"MoveIn-Grevenkamp. Urban",,02/22/2013,02/22/2013,,07414256,6016.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,7,73.0000,511,"Basic Service Fee - Studio: Grevenkamp. Urban",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,7,59.0000,413,"Resident Care - Level 4: Grevenkamp. Urban",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Grevenkamp. Urban",,,,,,,,,,,,,,,

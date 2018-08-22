@@ -1,0 +1,6 @@
+BATCH,,201301,B,2687.0000,
+INVOICE,IN,,06410200,,01/18/2013,2687.0000,"MoveIn-Riddle. Ester",,01/18/2013,01/18/2013,,06413840,6026.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,14,90.0000,1260,"Basic Service Fee - Studio: Riddle. Ester",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305064,14,28.0000,392,"Resident Care - Level 2: Riddle. Ester",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Riddle. Ester",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305064,1,1000.0000,1000,"New Resident Fee: Riddle. Ester",,,,,,,,,,,,,,,

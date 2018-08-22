@@ -1,0 +1,8 @@
+BATCH,,201106,B,5225.0000,
+INVOICE,IN,,18910155,,06/01/2011,930.0000,"Invoice-Private",,06/01/2011,06/10/2011,,18914744MO,-3365.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,930.0000,930.00,"CR:Limited Term Di... W.Snow 201106: Snow, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,18910155,,06/01/2011,4295,"Invoice-Private",,06/01/2011,06/10/2011,,18914744MO,-3365.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2580,2580,"CR:Basic Service F... W.Snow 201106: Snow, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315189,1,310,310,"CR:HSG Meals... W.Snow 201106: Snow, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... W.Snow 201106: Snow, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1380,1380,"CR:Resident Care -... W.Snow 201106: Snow, Wanda",,,,,,,,,,,,,,,

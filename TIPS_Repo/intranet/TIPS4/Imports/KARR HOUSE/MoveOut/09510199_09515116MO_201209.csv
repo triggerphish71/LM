@@ -1,0 +1,8 @@
+BATCH,,201209,B,4834.6200,
+INVOICE,IN,,09510199,,09/01/2012,214.0200,"Invoice-Private",,09/01/2012,09/10/2012,,09515116MO,-4406.5800,,,,,,,,,,
+TRANSACTION,3320,010103095,1,60.0000,60.00,"CR:Limited Term Di... R.Foss 201209: Foss, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,1,86.0000,86.00,"Basic Service Fee - Studio for Sep: Foss, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,68.0200,68.02,"Resident Care - Level 38 for Sep: Foss, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,09510199,,09/01/2012,4620.6,"Invoice-Private",,09/01/2012,09/10/2012,,09515116MO,-4406.5800,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2580,2580,"CR:Basic Service F... R.Foss 201209: Foss, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,2040.6,2040.6,"CR:Resident Care -... R.Foss 201209: Foss, Rachel",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201106,B,8742.6000,
+INVOICE,IN,,13910238,,06/24/2011,4251.6000,"Invoice-Private",,06/24/2011,06/24/2011,,13915654MO,-4818.1000,,,,,,,,,,
+TRANSACTION,3320,010103139,1,60.0000,60.00,"CR:Limited Term Di... I.Dhaese 201106: Dhaese, Iona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103139,28,97.0000,2716.00,"Basic Service Fee - Studio for Jun: Dhaese, Iona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,28,52.7000,1475.60,"Resident Care - Level 31 for Jun: Dhaese, Iona",,,,,,,,,,,,,,,
+INVOICE,CM,,13910238,,06/24/2011,4491,"Invoice-Private",,06/24/2011,06/24/2011,,13915654MO,-4818.1000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,2910,2910,"CR:Basic Service F... I.Dhaese 201106: Dhaese, Iona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,1581,1581,"CR:Resident Care -... I.Dhaese 201106: Dhaese, Iona",,,,,,,,,,,,,,,

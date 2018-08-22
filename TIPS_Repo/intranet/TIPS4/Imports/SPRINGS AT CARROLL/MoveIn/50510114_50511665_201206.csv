@@ -1,0 +1,6 @@
+BATCH,,201206,B,1927.0000,
+INVOICE,IN,,50510114,,06/28/2012,1927.0000,"MoveIn-Smith. Sarah",,06/28/2012,06/28/2012,,50511665,6106.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,3,119.0000,357,"S.Smith: Basic Service Fee - One Bedroom: Smith. Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,3,15.0000,45,"S.Smith: Resident Care - Level 1: Smith. Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Smith. Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Smith. Sarah",,,,,,,,,,,,,,,

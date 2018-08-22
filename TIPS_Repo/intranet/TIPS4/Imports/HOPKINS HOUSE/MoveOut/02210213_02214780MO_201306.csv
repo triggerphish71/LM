@@ -1,0 +1,7 @@
+BATCH,,201306,B,3698.0000,
+INVOICE,IN,,02210213,,06/01/2013,1118.0000,"Invoice-Private",,06/01/2013,06/01/2013,,02214780MO,-1462.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,13,55.0000,715.00,"Basic Service Fee - Studio for Jun: Richardson, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,13,31.0000,403.00,"Resident Care - Level 2 for Jun: Richardson, Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,02210213,,06/01/2013,2580,"Invoice-Private",,06/01/2013,06/01/2013,,02214780MO,-1462.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,1650,1650,"CR:Basic Service F... L.Richardson 201306: Richardson, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,930,930,"CR:Resident Care -... L.Richardson 201306: Richardson, Lee",,,,,,,,,,,,,,,

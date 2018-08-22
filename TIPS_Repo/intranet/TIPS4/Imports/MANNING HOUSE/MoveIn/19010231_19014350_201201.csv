@@ -1,0 +1,5 @@
+BATCH,,201201,B,3561.0000,
+INVOICE,IN,,19010231,,01/01/2012,3561.0000,"January_Rent-Kemp. Elizabeth",,01/01/2012,01/10/2012,,19014350,4816.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,31,98.0000,3038,"E.Kemp: Basic Service Fee - Studio: Kemp. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,31,16.0000,496,"E.Kemp: Resident Care - Level 1: Kemp. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Kemp. Elizabeth",,,,,,,,,,,,,,,

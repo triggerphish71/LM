@@ -1,0 +1,5 @@
+BATCH,,201208,B,3235.0000,
+INVOICE,IN,,50510120,,08/13/2012,3235.0000,"MoveIn-Fisher. Debbie",,08/13/2012,08/13/2012,,50511708,3235.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,19,90.0000,1710,"D.Fisher: Basic Service Fee - Studio: Fisher. Debbie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Fisher. Debbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Fisher. Debbie",,,,,,,,,,,,,,,

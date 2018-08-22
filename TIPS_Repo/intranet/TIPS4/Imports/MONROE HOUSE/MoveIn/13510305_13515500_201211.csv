@@ -1,0 +1,5 @@
+BATCH,,201211,B,2210.0000,
+INVOICE,IN,,13510305,,11/29/2012,2210.0000,"MoveIn-Stines. Betty",,11/29/2012,11/29/2012,,13515500,5030.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,2,90.0000,180,"Basic Service Fee - Studio: Stines. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Stines. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Stines. Betty",,,,,,,,,,,,,,,

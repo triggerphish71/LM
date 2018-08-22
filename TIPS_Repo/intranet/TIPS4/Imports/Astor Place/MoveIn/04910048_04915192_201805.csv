@@ -1,0 +1,5 @@
+BATCH,,201805,B,8008.0000,
+INVOICE,IN,,04910048,,06/20/2018,8008.0000,"MoveIn-Young. Howard",,06/20/2018,06/20/2018,,04915192,8008.0000,,,,,,,,,,
+TRANSACTION,3010,010001049,12,110.0000,1320,"Basic Service Fee - Studio: Young. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001049,1,3344.0000,3344,"Community Fee: Young. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001049,1,3344.0000,3344,"Monthly Deferral Charge: Young. Howard",,,,,,,,,,,,,,,

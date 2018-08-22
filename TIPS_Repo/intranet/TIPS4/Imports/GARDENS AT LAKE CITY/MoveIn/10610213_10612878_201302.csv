@@ -1,0 +1,5 @@
+BATCH,,201302,B,622.0000,
+INVOICE,IN,,10610213,,02/28/2013,622.0000,"MoveIn-Farrington. Alice",,02/28/2013,02/28/2013,,10612878,3354.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,1,87.0000,87,"Basic Service Fee - Studio: Farrington. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Farrington. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309106,1,500.0000,500,"New Resident Fee: Farrington. Alice",,,,,,,,,,,,,,,

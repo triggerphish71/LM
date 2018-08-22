@@ -1,0 +1,7 @@
+BATCH,,201201,B,8640.0000,
+INVOICE,IN,,11710219,,01/29/2012,4176.0000,"Invoice-Private",,01/29/2012,01/29/2012,,11713725MO,-4464.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,29,86.0000,2494.00,"Basic Service Fee - Studio for Jan: Czaplicki, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,29,58.0000,1682.00,"Resident Care - Level 4 for Jan: Czaplicki, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,11710219,,01/29/2012,4464,"Invoice-Private",,01/29/2012,01/29/2012,,11713725MO,-4464.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2666,2666,"CR:Basic Service F... H.Czaplicki 201201: Czaplicki, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,1798,1798,"CR:Resident Care -... H.Czaplicki 201201: Czaplicki, Helen",,,,,,,,,,,,,,,

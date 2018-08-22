@@ -1,0 +1,7 @@
+BATCH,,201203,B,7488.0000,
+INVOICE,IN,,06610173,,03/21/2012,3024.0000,"Invoice-Private",,03/21/2012,03/21/2012,,06614460MO,-5760.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,21,96.0000,2016.00,"Basic Service Fee - Studio for Mar: Honaker, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,21,48.0000,1008.00,"Resident Care - Level 3 for Mar: Honaker, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06610173,,03/21/2012,4464,"Invoice-Private",,03/21/2012,03/21/2012,,06614460MO,-5760.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... M.Honaker 201203: Honaker, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1488,1488,"CR:Resident Care -... M.Honaker 201203: Honaker, Mary",,,,,,,,,,,,,,,

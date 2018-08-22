@@ -1,0 +1,5 @@
+BATCH,,201207,B,612.0000,
+INVOICE,IN,,16910269,,07/31/2012,612.0000,"MoveIn-Briem. Hazel",,07/31/2012,07/31/2012,,16915058,3334.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,1,87.0000,87,"Basic Service Fee - Studio: Briem. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Briem. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,500.0000,500,"New Resident Fee: Briem. Hazel",,,,,,,,,,,,,,,

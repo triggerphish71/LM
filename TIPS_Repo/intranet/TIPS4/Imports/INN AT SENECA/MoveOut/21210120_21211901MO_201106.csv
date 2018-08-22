@@ -1,0 +1,7 @@
+BATCH,,201106,B,3431.0000,
+INVOICE,IN,,21210120,,06/01/2011,120.0000,"Invoice-Private",,06/01/2011,06/10/2011,,21211901MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,120.0000,120.00,"CR:Limited Term Di... L.Manegold 201106: Manegold, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,21210120,,06/01/2011,3311,"Invoice-Private",,06/01/2011,06/10/2011,,21211901MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"CR:Monthly Cable... L.Manegold 201106: Manegold, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,630,630,"CR:Resident Care -... L.Manegold 201106: Manegold, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2640,2640,"CR:Studio Deluxe... L.Manegold 201106: Manegold, Lucille",,,,,,,,,,,,,,,

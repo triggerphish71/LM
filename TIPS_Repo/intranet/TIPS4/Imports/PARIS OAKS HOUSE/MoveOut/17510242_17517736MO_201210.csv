@@ -1,0 +1,6 @@
+BATCH,,201210,B,3131.0000,
+INVOICE,IN,,17510242,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17517736MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,62.0000,62.00,"CR:Limited Term Di... A.Wacasey 201210: Wacasey, A.V.",,,,,,,,,,,,,,,
+INVOICE,CM,,17510242,,10/01/2012,3069,"Invoice-Private",,10/01/2012,10/10/2012,,17517736MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2356,2356,"CR:Basic Service F... A.Wacasey 201210: Wacasey, A.V.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,713,713,"CR:Resident Care -... A.Wacasey 201210: Wacasey, A.V.",,,,,,,,,,,,,,,

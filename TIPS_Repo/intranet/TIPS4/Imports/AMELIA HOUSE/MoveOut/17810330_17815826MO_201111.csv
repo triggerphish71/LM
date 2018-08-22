@@ -1,0 +1,6 @@
+BATCH,,201111,B,2825.0000,
+INVOICE,IN,,17810330,,11/01/2011,270.0000,"Invoice-Private",,11/01/2011,11/10/2011,,17815826MO,-3014.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,270.0000,270.00,"CR:Limited Term Di... T.Fowler 201111: Fowler, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,17810330,,11/01/2011,2555,"Invoice-Private",,11/01/2011,11/10/2011,,17815826MO,-3014.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2520,2520,"CR:Basic Service F... T.Fowler 201111: Fowler, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... T.Fowler 201111: Fowler, Thelma",,,,,,,,,,,,,,,

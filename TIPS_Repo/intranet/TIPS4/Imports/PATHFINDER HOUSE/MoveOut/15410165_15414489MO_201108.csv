@@ -1,0 +1,8 @@
+BATCH,,201108,B,4949.0000,
+INVOICE,IN,,15410165,,08/11/2011,1287.0000,"Invoice-Private",,08/11/2011,08/11/2011,,15414489MO,-2375.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,11,67.0000,737.00,"Basic Service Fee - Deluxe for Aug: Tonjum, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,11,50.0000,550.00,"Resident Care - Level 3 for Aug: Tonjum, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15410165,,08/11/2011,3662,"Invoice-Private",,08/11/2011,08/11/2011,,15414489MO,-2375.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2077,2077,"CR:Basic Service F... M.Tonjum 201108: Tonjum, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... M.Tonjum 201108: Tonjum, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1550,1550,"CR:Resident Care -... M.Tonjum 201108: Tonjum, Mary",,,,,,,,,,,,,,,

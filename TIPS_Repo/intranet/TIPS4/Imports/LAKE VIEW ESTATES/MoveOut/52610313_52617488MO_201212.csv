@@ -1,0 +1,5 @@
+BATCH,,201212,B,4452.0000,
+INVOICE,IN,,52610313,,12/04/2012,1848.0000,"Invoice-Private",,12/04/2012,12/04/2012,,52617488MO,-3360.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,22,84.0000,1848.00,"Basic Service Fee - One Bedroom for Dec: Galligan, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,52610313,,12/04/2012,2604,"Invoice-Private",,12/04/2012,12/04/2012,,52617488MO,-3360.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2604,2604,"CR:Basic Service F... D.Galligan 201212: Galligan, Donna",,,,,,,,,,,,,,,

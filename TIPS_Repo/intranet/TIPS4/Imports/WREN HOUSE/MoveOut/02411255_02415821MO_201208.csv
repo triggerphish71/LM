@@ -1,0 +1,7 @@
+BATCH,,201208,B,4119.0000,
+INVOICE,IN,,02411255,,08/01/2012,558.0000,"Invoice-Private",,08/01/2012,08/10/2012,,02415821MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,558.0000,558.00,"CR:Limited Term Di... R.Glenn 201208: Glenn, Raymon",,,,,,,,,,,,,,,
+INVOICE,CM,,02411255,,08/01/2012,3561,"Invoice-Private",,08/01/2012,08/10/2012,,02415821MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3038,3038,"CR:Basic Service F... R.Glenn 201208: Glenn, Raymon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... R.Glenn 201208: Glenn, Raymon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,496,496,"CR:Resident Care -... R.Glenn 201208: Glenn, Raymon",,,,,,,,,,,,,,,

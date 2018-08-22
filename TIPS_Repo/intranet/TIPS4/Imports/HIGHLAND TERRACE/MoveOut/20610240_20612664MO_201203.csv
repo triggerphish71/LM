@@ -1,0 +1,8 @@
+BATCH,,201203,B,6371.0000,
+INVOICE,IN,,20610240,,03/19/2012,3209.0000,"Invoice-Private",,03/19/2012,03/19/2012,,20612664MO,-1783.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,1271.0000,1271.00,"CR:Limited Term Di... R.Bega 201203: Bega, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,19,11.0000,209.00,"Resident Care - Level 1 for Mar: Bega, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,19,91.0000,1729.00,"Studio for Mar: Bega, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,20610240,,03/19/2012,3162,"Invoice-Private",,03/19/2012,03/19/2012,,20612664MO,-1783.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... R.Bega 201203: Bega, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... R.Bega 201203: Bega, Ruth",,,,,,,,,,,,,,,

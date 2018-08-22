@@ -1,0 +1,8 @@
+BATCH,,201212,B,4808.0000,
+INVOICE,IN,,07310252,,12/01/2012,1254.0000,"Invoice-Private",,12/01/2012,12/10/2012,,07315887MO,-2300.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,11,97.0000,1067.00,"Basic Service Fee - Studio for Dec: Gladman, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,11,17.0000,187.00,"Resident Care - Level 1 for Dec: Gladman, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,07310252,,12/01/2012,3554,"Invoice-Private",,12/01/2012,12/10/2012,,07315887MO,-2300.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... B.Gladman 201212: Gladman, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... B.Gladman 201212: Gladman, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,527,527,"CR:Resident Care -... B.Gladman 201212: Gladman, Bob",,,,,,,,,,,,,,,

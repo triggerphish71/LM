@@ -1,0 +1,7 @@
+BATCH,,201202,B,4237.5200,
+INVOICE,IN,,51810168,,02/01/2012,1622.8800,"Invoice-Private",,02/01/2012,02/10/2012,,51812309MO,-991.7600,,,,,,,,,,
+TRANSACTION,3020,010103518,18,83.0000,1494.00,"Basic Service Fee - Studio for Feb: Rollins, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,18,7.1600,128.88,"Resident Care - Level 4 for Feb: Rollins, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,51810168,,02/01/2012,2614.64,"Invoice-Private",,02/01/2012,02/10/2012,,51812309MO,-991.7600,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2407,2407,"CR:Basic Service F... L.Rollins 201202: Rollins, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,207.64,207.64,"CR:Resident Care -... L.Rollins 201202: Rollins, Linda",,,,,,,,,,,,,,,

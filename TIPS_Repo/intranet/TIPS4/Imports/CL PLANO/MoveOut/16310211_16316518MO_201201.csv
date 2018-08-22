@@ -1,0 +1,5 @@
+BATCH,,201201,B,20.0000,
+INVOICE,IN,,16310211,,01/01/2012,10.0000,"Invoice-Private",,01/01/2012,01/10/2012,,16316518MO,-5748.0000,,,,,,,,,,
+TRANSACTION,3130,010202163,1,10.0000,10.00,"Pendant Fee: Cooper, Allie Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,16310211,,01/01/2012,10,"Invoice-Private",,01/01/2012,01/10/2012,,16316518MO,-5748.0000,,,,,,,,,,
+TRANSACTION,3130,010202163,1,10,10,"Credit for Pendant Fee: Cooper, Allie Lucille",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,3120.0000,
+INVOICE,CM,,50110247,,04/01/2012,3120,"Invoice-Private",,04/01/2012,04/10/2012,,50114041MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2640,2640,"CR:Basic Service F... R.Shelton 201204: Shelton, Rheba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... R.Shelton 201204: Shelton, Rheba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,450,450,"CR:Resident Care -... R.Shelton 201204: Shelton, Rheba",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201207,B,5487.0000,
+INVOICE,IN,,10510275,,07/01/2012,682.0000,"Invoice-Private",,07/01/2012,07/10/2012,,10514076MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,682.0000,682.00,"CR:Limited Term Di... O.Carter 201207: Carter, Orthul",,,,,,,,,,,,,,,
+INVOICE,CM,,10510275,,07/01/2012,4805,"Invoice-Private",,07/01/2012,07/10/2012,,10514076MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2697,2697,"CR:Basic Service F... O.Carter 201207: Carter, Orthul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,2108,2108,"CR:Resident Care -... O.Carter 201207: Carter, Orthul",,,,,,,,,,,,,,,

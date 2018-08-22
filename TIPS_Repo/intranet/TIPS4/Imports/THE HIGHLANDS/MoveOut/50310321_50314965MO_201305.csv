@@ -1,0 +1,6 @@
+BATCH,,201305,B,1010.0000,
+INVOICE,IN,,50310321,,05/20/2013,75.0000,"Invoice-Private",,05/20/2013,05/20/2013,,50314965MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,75.0000,75.00,"J.Rogers: Basic Service Fee - Studio for May: Rogers, Jacquita",,,,,,,,,,,,,,,
+INVOICE,CM,,50310321,,05/20/2013,935,"Invoice-Private",,05/20/2013,05/20/2013,,50314965MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,900,900,"CR:J.Rogers: Basic... J.Rogers 201305: Rogers, Jacquita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... J.Rogers 201305: Rogers, Jacquita",,,,,,,,,,,,,,,

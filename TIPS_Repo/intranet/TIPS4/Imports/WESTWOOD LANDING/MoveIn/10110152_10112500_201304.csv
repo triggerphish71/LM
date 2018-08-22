@@ -1,0 +1,4 @@
+BATCH,,201304,B,3840.0000,
+INVOICE,IN,,10110152,,04/01/2013,3840.0000,"April_Rent-Smith. Dorris",,04/01/2013,04/10/2013,,10112500,5376.0000,,,,,,,,,,
+TRANSACTION,3010,010305101,30,100.0000,3000,"Basic Service Fee - One Bedroom: Smith. Dorris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305101,30,28.0000,840,"Resident Care - Level 2: Smith. Dorris",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,54.0000,
+INVOICE,IN,,13210310,,04/01/2013,27.0000,"Invoice-Private",,04/01/2013,04/10/2013,,13215860MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Rowe, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,13210310,,04/01/2013,27,"Invoice-Private",,04/01/2013,04/10/2013,,13215860MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Rowe, Margaret",,,,,,,,,,,,,,,

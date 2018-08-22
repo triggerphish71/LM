@@ -1,0 +1,6 @@
+BATCH,,201204,B,4635.0000,
+INVOICE,IN,,13410252,,04/20/2012,1840.0000,"Invoice-Private",,04/20/2012,04/20/2012,,13415441MO,-3842.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,20,92.0000,1840.00,"Basic Service Fee - Studio for Apr: Brown, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,13410252,,04/20/2012,2795,"Invoice-Private",,04/20/2012,04/20/2012,,13415441MO,-3842.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2760,2760,"CR:Basic Service F... B.Brown 201204: Brown, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... B.Brown 201204: Brown, Bill",,,,,,,,,,,,,,,

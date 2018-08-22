@@ -1,0 +1,5 @@
+BATCH,,201301,B,4320.0000,
+INVOICE,IN,,04310221,,01/23/2013,1840.0000,"Invoice-Private",,01/23/2013,01/23/2013,,04314183MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,23,80.0000,1840.00,"Basic Service Fee - One Bedroom for Jan: Robinson, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,04310221,,01/23/2013,2480,"Invoice-Private",,01/23/2013,01/23/2013,,04314183MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2480,2480,"CR:Basic Service F... P.Robinson 201301: Robinson, Patricia",,,,,,,,,,,,,,,

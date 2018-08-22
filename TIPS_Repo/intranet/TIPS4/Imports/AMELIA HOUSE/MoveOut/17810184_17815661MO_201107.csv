@@ -1,0 +1,6 @@
+BATCH,,201107,B,3395.0000,
+INVOICE,IN,,17810184,,07/09/2011,756.0000,"Invoice-Private",,07/09/2011,07/09/2011,,17815661MO,-1883.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,9,84.0000,756.00,"Basic Service Fee - Studio for Jul: Opalia, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,17810184,,07/09/2011,2639,"Invoice-Private",,07/09/2011,07/09/2011,,17815661MO,-1883.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2604,2604,"CR:Basic Service F... J.Opalia 201107: Opalia, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... J.Opalia 201107: Opalia, Joe",,,,,,,,,,,,,,,

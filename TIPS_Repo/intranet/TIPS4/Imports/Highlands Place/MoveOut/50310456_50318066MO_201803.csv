@@ -1,0 +1,8 @@
+BATCH,,201803,B,2654.0000,
+INVOICE,IN,,50310456,,03/13/2018,712.0000,"Invoice-Private",,03/13/2018,03/13/2018,,50318066MO,-1230.0000,,,,,,,,,,
+TRANSACTION,3017,010020503,6,32.0000,192.00," Level Care:  2 : Claycomb, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010020503,13,40.0000,520.00,"Basic Service Fee - Second Resident  for Mar: Claycomb, William",,,,,,,,,,,,,,,
+INVOICE,CM,,50310456,,03/13/2018,1942,"Invoice-Private",,03/13/2018,03/13/2018,,50318066MO,-1230.0000,,,,,,,,,,
+TRANSACTION,3017,010020503,8,18,144," Level Care:  base level  -from 2018-02-21: Claycomb, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010020503,1,1240,1240,"CR:Basic Service F... W.Claycomb 201803: Claycomb, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010020503,1,558,558,"CR:Resident Care -... W.Claycomb 201803: Claycomb, William",,,,,,,,,,,,,,,

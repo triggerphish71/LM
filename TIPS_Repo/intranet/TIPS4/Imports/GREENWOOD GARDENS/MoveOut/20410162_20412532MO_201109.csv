@@ -1,0 +1,8 @@
+BATCH,,201109,B,4781.0000,
+INVOICE,IN,,20410162,,09/01/2011,2111.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20412532MO,-559.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,420.0000,420.00,"CR:Limited Term Di... F.Anielski 201109: Anielski, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,19,11.0000,209.00,"Resident Care - Level 1 for Sep: Anielski, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,19,78.0000,1482.00,"Studio for Sep: Anielski, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,20410162,,09/01/2011,2670,"Invoice-Private",,09/01/2011,09/10/2011,,20412532MO,-559.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,330,330,"CR:Resident Care -... F.Anielski 201109: Anielski, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2340,2340,"CR:Studio... F.Anielski 201109: Anielski, Florence",,,,,,,,,,,,,,,

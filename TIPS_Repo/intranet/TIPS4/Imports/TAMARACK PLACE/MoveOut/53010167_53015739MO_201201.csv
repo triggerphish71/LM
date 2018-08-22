@@ -1,0 +1,5 @@
+BATCH,,201201,B,3935.0000,
+INVOICE,CM,,53010167,,01/01/2012,3935,"Invoice-Private",,01/01/2012,01/10/2012,,53015739MO,-3935.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3875,3875,"CR:Basic Service F... G.Witz 201201: Witz, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... G.Witz 201201: Witz, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... G.Witz 201201: Witz, Gerald",,,,,,,,,,,,,,,

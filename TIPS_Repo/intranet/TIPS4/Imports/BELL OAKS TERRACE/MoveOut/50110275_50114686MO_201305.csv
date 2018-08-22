@@ -1,0 +1,7 @@
+BATCH,,201305,B,2550.0000,
+INVOICE,IN,,50110275,,05/01/2013,225.0000,"Invoice-Private",,05/01/2013,05/10/2013,,50114686MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3027,010209501,3,15.0000,45.00,"Resident Care - Level 1 for May: Kiesel, Rose Ella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,3,60.0000,180.00,"Room and Board - Studio for May: Kiesel, Rose Ella",,,,,,,,,,,,,,,
+INVOICE,CM,,50110275,,05/01/2013,2325,"Invoice-Private",,05/01/2013,05/10/2013,,50114686MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3027,010209501,1,465,465,"CR:Resident Care -... R.Kiesel 201305: Kiesel, Rose Ella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,1,1860,1860,"CR:Room and Board ... R.Kiesel 201305: Kiesel, Rose Ella",,,,,,,,,,,,,,,

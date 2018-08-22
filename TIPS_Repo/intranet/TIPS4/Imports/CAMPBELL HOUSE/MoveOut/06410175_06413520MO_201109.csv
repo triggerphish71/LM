@@ -1,0 +1,7 @@
+BATCH,,201109,B,2290.0000,
+INVOICE,IN,,06410175,,09/01/2011,1145.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06413520MO,-639.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35.00,"Monthly Cable: Dennison, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305064,30,37.0000,1110.00,"Credit for Limited Term Discount: Dennison, William",,,,,,,,,,,,,,,
+INVOICE,CM,,06410175,,09/01/2011,1145,"Invoice-Private",,09/01/2011,09/10/2011,,06413520MO,-639.0000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"Credit for Monthly Cable: Dennison, William",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305064,30,37,1110,"Limited Term Discount: Dennison, William",,,,,,,,,,,,,,,

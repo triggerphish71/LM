@@ -1,0 +1,5 @@
+BATCH,,201205,B,434.0000,
+INVOICE,IN,,15410200,,05/01/2012,217.0000,"Invoice-Private",,05/01/2012,05/10/2012,,15414859MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,31,7.0000,217.00,"Credit for Two Room Rental Discount: Fuhr, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,15410200,,05/01/2012,217,"Invoice-Private",,05/01/2012,05/10/2012,,15414859MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,31,7,217,"Two Room Rental Discount: Fuhr, Joe",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,3747.0000,
+INVOICE,IN,,07110160,,05/11/2012,3747.0000,"MoveIn-Brown. Wilma",,05/11/2012,05/11/2012,,07114278,3747.0000,,,,,,,,,,
+TRANSACTION,3010,010305071,21,90.0000,1890,"Basic Service Fee - Studio: Brown. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305071,21,17.0000,357,"Resident Care - Level 1: Brown. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305071,1,1500.0000,1500,"New Resident Fee: Brown. Wilma",,,,,,,,,,,,,,,

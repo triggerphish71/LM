@@ -1,0 +1,6 @@
+BATCH,,201202,B,1914.0000,
+INVOICE,IN,,02610228,,02/21/2012,814.0000,"Invoice-Private",,02/21/2012,02/21/2012,,02614682MO,-1460.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,22,37.0000,814.00,"Basic Service Fee - Second Resident for Feb: Tamplin, Weldon",,,,,,,,,,,,,,,
+INVOICE,CM,,02610228,,02/21/2012,1100,"Invoice-Private",,02/21/2012,02/21/2012,,02614682MO,-1460.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,1073,1073,"CR:Basic Service F... W.Tamplin 201202: Tamplin, Weldon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... W.Tamplin 201202: Tamplin, Weldon",,,,,,,,,,,,,,,

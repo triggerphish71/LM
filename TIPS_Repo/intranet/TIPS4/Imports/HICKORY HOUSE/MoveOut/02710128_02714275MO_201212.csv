@@ -1,0 +1,8 @@
+BATCH,,201212,B,7680.7500,
+INVOICE,IN,,02710128,,12/26/2012,3743.7500,"Invoice-Private",,12/26/2012,12/26/2012,,02714275MO,-3688.5000,,,,,,,,,,
+TRANSACTION,3316,010202027,1,441.7500,441.75,"CR:Employee Discou... E.Fragoso 201212: Fragoso, Enrique",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202027,26,95.0000,2470.00,"Basic Service Fee - Studio for Dec: Fragoso, Enrique",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,26,32.0000,832.00,"Resident Care - Level 2 for Dec: Fragoso, Enrique",,,,,,,,,,,,,,,
+INVOICE,CM,,02710128,,12/26/2012,3937,"Invoice-Private",,12/26/2012,12/26/2012,,02714275MO,-3688.5000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2945,2945,"CR:Basic Service F... E.Fragoso 201212: Fragoso, Enrique",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,992,992,"CR:Resident Care -... E.Fragoso 201212: Fragoso, Enrique",,,,,,,,,,,,,,,

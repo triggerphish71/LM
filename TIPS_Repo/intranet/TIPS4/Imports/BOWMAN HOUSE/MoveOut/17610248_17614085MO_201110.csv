@@ -1,0 +1,7 @@
+BATCH,,201110,B,1227.6000,
+INVOICE,IN,,17610248,,10/01/2011,613.8000,"Invoice-Private",,10/01/2011,10/10/2011,,17614085MO,-4356.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10.0000,310.00,"CC Meals: Clark, Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315176,31,9.8000,303.80,"Credit for Two Room Rental Discount: Clark, Cindy",,,,,,,,,,,,,,,
+INVOICE,CM,,17610248,,10/01/2011,613.8,"Invoice-Private",,10/01/2011,10/10/2011,,17614085MO,-4356.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10,310,"Credit for CC Meals: Clark, Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315176,31,9.8,303.8,"Two Room Rental Discount: Clark, Cindy",,,,,,,,,,,,,,,

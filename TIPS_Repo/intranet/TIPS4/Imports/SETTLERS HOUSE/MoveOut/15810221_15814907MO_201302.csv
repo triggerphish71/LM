@@ -1,0 +1,8 @@
+BATCH,,201302,B,3972.0000,
+INVOICE,IN,,15810221,,02/01/2013,381.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15814907MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,3,96.0000,288.00,"Basic Service Fee - Studio for Feb: Crone, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,3,31.0000,93.00,"Resident Care - Level 2 for Feb: Crone, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15810221,,02/01/2013,3591,"Invoice-Private",,02/01/2013,02/10/2013,,15814907MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2688,2688,"CR:Basic Service F... M.Crone 201302: Crone, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35,35,"CR:Pendant Fee... M.Crone 201302: Crone, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,868,868,"CR:Resident Care -... M.Crone 201302: Crone, Mary",,,,,,,,,,,,,,,

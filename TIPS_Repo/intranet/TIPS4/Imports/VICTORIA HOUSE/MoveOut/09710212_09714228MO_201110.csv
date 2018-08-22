@@ -1,0 +1,6 @@
+BATCH,,201110,B,4039.3000,
+INVOICE,IN,,09710212,,10/01/2011,434.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09714228MO,-5032.1000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,434.0000,434.00,"CR:Limited Term Di... G.Mac Millan 201110: Mac Millan, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,09710212,,10/01/2011,3605.3,"Invoice-Private",,10/01/2011,10/10/2011,,09714228MO,-5032.1000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2604,2604,"CR:Basic Service F... G.Mac Millan 201110: Mac Millan, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,1001.3,1001.3,"CR:Resident Care -... G.Mac Millan 201110: Mac Millan, Gary",,,,,,,,,,,,,,,

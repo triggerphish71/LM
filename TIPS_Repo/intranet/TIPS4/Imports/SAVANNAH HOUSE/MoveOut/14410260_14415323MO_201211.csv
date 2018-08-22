@@ -1,0 +1,5 @@
+BATCH,,201211,B,2160.0000,
+INVOICE,IN,,14410260,,11/01/2012,1080.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14415323MO,-2148.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,30,36.0000,1080.00,"Credit for Limited Term Discount: Pendarvis, Shealy",,,,,,,,,,,,,,,
+INVOICE,CM,,14410260,,11/01/2012,1080,"Invoice-Private",,11/01/2012,11/10/2012,,14415323MO,-2148.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,30,36,1080,"Limited Term Discount: Pendarvis, Shealy",,,,,,,,,,,,,,,

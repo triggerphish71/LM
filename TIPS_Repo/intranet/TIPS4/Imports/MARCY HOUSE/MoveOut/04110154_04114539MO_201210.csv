@@ -1,0 +1,8 @@
+BATCH,,201210,B,3678.0000,
+INVOICE,IN,,04110154,,10/01/2012,175.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04114539MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,62.0000,62.00,"CR:Limited Term Di... M.Hanks 201210: Hanks, Maurine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,1,82.0000,82.00,"Basic Service Fee - Studio for Oct: Hanks, Maurine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,31.0000,31.00,"Resident Care - Level 2 for Oct: Hanks, Maurine",,,,,,,,,,,,,,,
+INVOICE,CM,,04110154,,10/01/2012,3503,"Invoice-Private",,10/01/2012,10/10/2012,,04114539MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... M.Hanks 201210: Hanks, Maurine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,961,961,"CR:Resident Care -... M.Hanks 201210: Hanks, Maurine",,,,,,,,,,,,,,,

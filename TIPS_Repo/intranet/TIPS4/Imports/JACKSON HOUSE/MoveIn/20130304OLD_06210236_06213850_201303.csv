@@ -1,0 +1,6 @@
+BATCH,,201303,B,5904.4000,
+INVOICE,IN,,06210236,,03/04/2013,5904.4000,"MoveIn-Teisheira. Al",,03/04/2013,03/04/2013,,06213850,5904.4000,,,,,,,,,,
+TRANSACTION,3010,010101062,28,96.0000,2688,"Basic Service Fee - One Bedroom: Teisheira. Al",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,28,42.5500,1191.4,"Resident Care - Level 23: Teisheira. Al",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Teisheira. Al",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Teisheira. Al",,,,,,,,,,,,,,,

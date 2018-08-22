@@ -1,0 +1,5 @@
+BATCH,,201111,B,3950.0000,
+INVOICE,IN,,08310189,,11/17/2011,3950.0000,"MoveIn-Berns. Mary",,11/17/2011,11/17/2011,,08314028,7825.0000,,,,,,,,,,
+TRANSACTION,3010,010306083,14,106.0000,1484,"Basic Service Fee - Studio         : Berns. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306083,14,19.0000,266,"Resident Care - Level 1: Berns. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306083,1,2200.0000,2200,"New Resident Fee: Berns. Mary",,,,,,,,,,,,,,,

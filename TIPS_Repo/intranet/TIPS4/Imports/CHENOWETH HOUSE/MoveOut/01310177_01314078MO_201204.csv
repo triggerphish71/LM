@@ -1,0 +1,8 @@
+BATCH,,201204,B,4270.6800,
+INVOICE,IN,,01310177,,04/09/2012,1138.2800,"Invoice-Private",,04/09/2012,04/09/2012,,01314078MO,-1994.1200,,,,,,,,,,
+TRANSACTION,3020,010103013,11,82.0000,902.00,"Basic Service Fee - One Bedroom for Apr: Larson, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,11,21.4800,236.28,"Resident Care - Level 12 for Apr: Larson, Harley",,,,,,,,,,,,,,,
+INVOICE,CM,,01310177,,04/09/2012,3132.4,"Invoice-Private",,04/09/2012,04/09/2012,,01314078MO,-1994.1200,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2460,2460,"CR:Basic Service F... H.Larson 201204: Larson, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... H.Larson 201204: Larson, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,644.4,644.4,"CR:Resident Care -... H.Larson 201204: Larson, Harley",,,,,,,,,,,,,,,

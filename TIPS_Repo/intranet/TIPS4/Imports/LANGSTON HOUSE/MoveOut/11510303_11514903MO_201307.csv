@@ -1,0 +1,8 @@
+BATCH,,201307,B,5062.0000,
+INVOICE,IN,,11510303,,07/24/2013,2208.0000,"Invoice-Private",,07/24/2013,07/24/2013,,11514903MO,-3498.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,24,66.0000,1584.00,"Basic Service Fee - Studio for Jul: Snelgrove, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,24,26.0000,624.00,"Resident Care Level Change for Jul: Snelgrove, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11510303,,07/24/2013,2854,"Invoice-Private",,07/24/2013,07/24/2013,,11514903MO,-3498.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2046,2046,"CR:Basic Service F... M.Snelgrove 201307: Snelgrove, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... M.Snelgrove 201307: Snelgrove, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,780,780,"CR:Resident Care L... M.Snelgrove 201307: Snelgrove, Mary",,,,,,,,,,,,,,,

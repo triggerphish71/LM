@@ -1,0 +1,5 @@
+BATCH,,201304,B,3000.0000,
+INVOICE,IN,,19810333,,04/01/2013,3000.0000,"April_Rent-Schroeder. Ronald",,04/01/2013,04/10/2013,,19818460,5926.0000,,,,,,,,,,
+TRANSACTION,3010,010112198,30,66.0000,1980,"Basic Service Fee - One Bedroom AL B: Schroeder. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010112198,30,33.0000,990,"Swan Personal Care - L1: Schroeder. Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30,"Monthly Cable: Schroeder. Ronald",,,,,,,,,,,,,,,

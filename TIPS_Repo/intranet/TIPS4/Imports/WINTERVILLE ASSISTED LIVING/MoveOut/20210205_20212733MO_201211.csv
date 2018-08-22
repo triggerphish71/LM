@@ -1,0 +1,7 @@
+BATCH,,201211,B,4446.0000,
+INVOICE,IN,,20210205,,11/07/2012,1026.0000,"Invoice-Private",,11/07/2012,11/07/2012,,20212733MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,9,31.0000,279.00,"Resident Care - Level 3 for Nov: Smith, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,9,83.0000,747.00,"Studio for Nov: Smith, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,20210205,,11/07/2012,3420,"Invoice-Private",,11/07/2012,11/07/2012,,20212733MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,930,930,"CR:Resident Care -... R.Smith 201211: Smith, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2490,2490,"CR:Studio... R.Smith 201211: Smith, Ralph",,,,,,,,,,,,,,,

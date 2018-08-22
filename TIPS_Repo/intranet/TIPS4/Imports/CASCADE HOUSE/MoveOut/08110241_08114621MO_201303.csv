@@ -1,0 +1,5 @@
+BATCH,,201303,B,1550.0000,
+INVOICE,IN,,08110241,,03/01/2013,775.0000,"Invoice-Private",,03/01/2013,03/10/2013,,08114621MO,-3653.0800,,,,,,,,,,
+TRANSACTION,3320,010103081,31,25.0000,775.00,"Credit for Limited Term Discount: Webb, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,08110241,,03/01/2013,775,"Invoice-Private",,03/01/2013,03/10/2013,,08114621MO,-3653.0800,,,,,,,,,,
+TRANSACTION,3320,010103081,31,25,775,"Limited Term Discount: Webb, Joyce",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,2046.0000,
+INVOICE,IN,,00910202,,01/01/2013,1023.0000,"Invoice-Private",,01/01/2013,01/10/2013,,00913838MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3320,010101009,31,33.0000,1023.00,"Credit for Limited Term Discount: Drapal, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,00910202,,01/01/2013,1023,"Invoice-Private",,01/01/2013,01/10/2013,,00913838MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3320,010101009,31,33,1023,"Limited Term Discount: Drapal, Blanche",,,,,,,,,,,,,,,

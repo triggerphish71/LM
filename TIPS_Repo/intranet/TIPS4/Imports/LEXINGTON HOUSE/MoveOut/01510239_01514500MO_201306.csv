@@ -1,0 +1,7 @@
+BATCH,,201306,B,2060.8000,
+INVOICE,IN,,01510239,,06/09/2013,716.8000,"Invoice-Private",,06/09/2013,06/09/2013,,01514500MO,-627.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,16,30.0000,480.00,"Basic Service Fee - Studio for Jun: Frye, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,16,14.8000,236.80,"Resident Care - Level 8 for Jun: Frye, James",,,,,,,,,,,,,,,
+INVOICE,CM,,01510239,,06/09/2013,1344,"Invoice-Private",,06/09/2013,06/09/2013,,01514500MO,-627.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,900,900,"CR:Basic Service F... J.Frye 201306: Frye, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,444,444,"CR:Resident Care -... J.Frye 201306: Frye, James",,,,,,,,,,,,,,,

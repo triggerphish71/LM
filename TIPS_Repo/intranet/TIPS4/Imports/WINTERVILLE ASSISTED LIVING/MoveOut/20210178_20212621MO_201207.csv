@@ -1,0 +1,5 @@
+BATCH,,201207,B,1860.0000,
+INVOICE,IN,,20210178,,07/01/2012,930.0000,"Invoice-Private",,07/01/2012,07/10/2012,,20212621MO,-1460.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,30.0000,930.00,"Credit for Limited Term Discount: Murry, Azalee",,,,,,,,,,,,,,,
+INVOICE,CM,,20210178,,07/01/2012,930,"Invoice-Private",,07/01/2012,07/10/2012,,20212621MO,-1460.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,30,930,"Limited Term Discount: Murry, Azalee",,,,,,,,,,,,,,,

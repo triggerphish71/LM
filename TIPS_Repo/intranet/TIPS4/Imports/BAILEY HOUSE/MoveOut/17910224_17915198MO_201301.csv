@@ -1,0 +1,5 @@
+BATCH,,201301,B,744.0000,
+INVOICE,IN,,17910224,,01/01/2013,372.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17915198MO,-3352.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,31,12.0000,372.00,"Credit for Limited Term Discount: Lajaunie, Malcom",,,,,,,,,,,,,,,
+INVOICE,CM,,17910224,,01/01/2013,372,"Invoice-Private",,01/01/2013,01/10/2013,,17915198MO,-3352.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,31,12,372,"Limited Term Discount: Lajaunie, Malcom",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,5400.0000,
+INVOICE,IN,,16110176,,11/01/2011,1800.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16115246MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,15,85.0000,1275.00,"Basic Service Fee - Studio for Nov: Lewis, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,15,35.0000,525.00,"Resident Care - Level 3 for Nov: Lewis, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,16110176,,11/01/2011,3600,"Invoice-Private",,11/01/2011,11/10/2011,,16115246MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2550,2550,"CR:Basic Service F... A.Lewis 201111: Lewis, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,1050,1050,"CR:Resident Care -... A.Lewis 201111: Lewis, Alice",,,,,,,,,,,,,,,

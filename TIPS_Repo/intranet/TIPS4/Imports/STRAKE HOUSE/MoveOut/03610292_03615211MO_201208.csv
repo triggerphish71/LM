@@ -1,0 +1,8 @@
+BATCH,,201208,B,7127.8000,
+INVOICE,IN,,03610292,,08/01/2012,221.9000,"Invoice-Private",,08/01/2012,08/01/2012,,03615211MO,-6684.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,115.0000,115.00,"Basic Service Fee - One Bedroom for Aug: Armstrong, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,106.9000,106.90,"Resident Care - Level 6+10 pts for Aug: Armstrong, James",,,,,,,,,,,,,,,
+INVOICE,CM,,03610292,,08/01/2012,6905.9,"Invoice-Private",,08/01/2012,08/01/2012,,03615211MO,-6684.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3565,3565,"CR:Basic Service F... J.Armstrong 201208: Armstrong, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Armstrong 201208: Armstrong, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,3313.9,3313.9,"CR:Resident Care -... J.Armstrong 201208: Armstrong, James",,,,,,,,,,,,,,,

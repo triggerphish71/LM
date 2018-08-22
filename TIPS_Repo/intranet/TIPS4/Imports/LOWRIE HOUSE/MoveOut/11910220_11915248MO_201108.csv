@@ -1,0 +1,5 @@
+BATCH,,201108,B,52.0000,
+INVOICE,IN,,11910220,,08/01/2011,26.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11915248MO,-3901.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Lawrence, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,11910220,,08/01/2011,26,"Invoice-Private",,08/01/2011,08/10/2011,,11915248MO,-3901.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Lawrence, Helen",,,,,,,,,,,,,,,

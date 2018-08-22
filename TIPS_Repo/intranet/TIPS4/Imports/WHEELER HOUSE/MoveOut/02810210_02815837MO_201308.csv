@@ -1,0 +1,5 @@
+BATCH,,201308,B,60.0000,
+INVOICE,IN,,02810210,,08/01/2013,30.0000,"Invoice-Private",,08/01/2013,08/10/2013,,02815837MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3130,010202028,1,30.0000,30.00,"Pendant Fee: Blacklock, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,02810210,,08/01/2013,30,"Invoice-Private",,08/01/2013,08/10/2013,,02815837MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3130,010202028,1,30,30,"Credit for Pendant Fee: Blacklock, Margie",,,,,,,,,,,,,,,

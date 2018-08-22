@@ -1,0 +1,6 @@
+BATCH,,201206,B,4110.0000,
+INVOICE,IN,,06010243,,06/01/2012,960.0000,"Invoice-Private",,06/01/2012,06/10/2012,,06014390MO,-2190.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,960.0000,960.00,"CR:Limited Term Di... T.Harmon 201206: Harmon, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,06010243,,06/01/2012,3150,"Invoice-Private",,06/01/2012,06/10/2012,,06014390MO,-2190.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2700,2700,"CR:Basic Service F... T.Harmon 201206: Harmon, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,450,450,"CR:Resident Care -... T.Harmon 201206: Harmon, Thelma",,,,,,,,,,,,,,,

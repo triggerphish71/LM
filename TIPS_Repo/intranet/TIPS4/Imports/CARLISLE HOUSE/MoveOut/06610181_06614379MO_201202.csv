@@ -1,0 +1,6 @@
+BATCH,,201202,B,4176.0000,
+INVOICE,IN,,06610181,,02/01/2012,899.0000,"Invoice-Private",,02/01/2012,02/10/2012,,06614379MO,-2999.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,899.0000,899.00,"CR:Limited Term Di... M.Heydinger 201202: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,06610181,,02/01/2012,3277,"Invoice-Private",,02/01/2012,02/10/2012,,06614379MO,-2999.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2784,2784,"CR:Basic Service F... M.Heydinger 201202: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,493,493,"CR:Resident Care -... M.Heydinger 201202: Heydinger, Mary Ann",,,,,,,,,,,,,,,

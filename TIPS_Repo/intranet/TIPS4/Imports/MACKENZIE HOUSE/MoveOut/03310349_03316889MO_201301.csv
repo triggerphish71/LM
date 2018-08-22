@@ -1,0 +1,5 @@
+BATCH,,201301,B,2108.0000,
+INVOICE,IN,,03310349,,01/01/2013,1054.0000,"Invoice-Private",,01/01/2013,01/10/2013,,03316889MO,-1310.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,31,34.0000,1054.00,"Credit for Limited Term Discount: Kattman, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,03310349,,01/01/2013,1054,"Invoice-Private",,01/01/2013,01/10/2013,,03316889MO,-1310.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,31,34,1054,"Limited Term Discount: Kattman, Ruby",,,,,,,,,,,,,,,

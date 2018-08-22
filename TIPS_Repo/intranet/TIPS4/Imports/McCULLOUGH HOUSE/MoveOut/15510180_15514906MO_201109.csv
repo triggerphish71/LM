@@ -1,0 +1,8 @@
+BATCH,,201109,B,6511.0000,
+INVOICE,IN,,15510180,,09/16/2011,2256.0000,"Invoice-Private",,09/16/2011,09/16/2011,,15514906MO,-6395.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,16,85.0000,1360.00,"Basic Service Fee - Studio for Sep: Pohlit, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,16,56.0000,896.00,"Resident Care - Level 4 for Sep: Pohlit, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,15510180,,09/16/2011,4255,"Invoice-Private",,09/16/2011,09/16/2011,,15514906MO,-6395.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2550,2550,"CR:Basic Service F... H.Pohlit 201109: Pohlit, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... H.Pohlit 201109: Pohlit, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1680,1680,"CR:Resident Care -... H.Pohlit 201109: Pohlit, Helen",,,,,,,,,,,,,,,

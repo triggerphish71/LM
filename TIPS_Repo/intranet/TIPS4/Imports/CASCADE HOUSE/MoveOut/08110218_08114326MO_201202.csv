@@ -1,0 +1,7 @@
+BATCH,,201202,B,6509.0400,
+INVOICE,IN,,08110218,,02/06/2012,1407.3600,"Invoice-Private",,02/06/2012,02/06/2012,,08114326MO,-3694.3200,,,,,,,,,,
+TRANSACTION,3020,010103081,8,90.0000,720.00,"Basic Service Fee - Studio for Feb: Hubbard, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,8,85.9200,687.36,"Resident Care - Level 48 for Feb: Hubbard, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08110218,,02/06/2012,5101.68,"Invoice-Private",,02/06/2012,02/06/2012,,08114326MO,-3694.3200,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2610,2610,"CR:Basic Service F... G.Hubbard 201202: Hubbard, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,2491.68,2491.68,"CR:Resident Care -... G.Hubbard 201202: Hubbard, George",,,,,,,,,,,,,,,

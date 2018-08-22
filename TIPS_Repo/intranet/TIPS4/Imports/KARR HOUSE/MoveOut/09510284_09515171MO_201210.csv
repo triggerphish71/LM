@@ -1,0 +1,7 @@
+BATCH,,201210,B,8829.3400,
+INVOICE,IN,,09510284,,10/01/2012,4110.2100,"Invoice-Private",,10/01/2012,10/10/2012,,09515171MO,-608.9200,,,,,,,,,,
+TRANSACTION,3020,010103095,27,86.0000,2322.00,"Basic Service Fee - Studio for Oct: Peterson, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,27,66.2300,1788.21,"Resident Care - Level 37 for Oct: Peterson, Gordon",,,,,,,,,,,,,,,
+INVOICE,CM,,09510284,,10/01/2012,4719.13,"Invoice-Private",,10/01/2012,10/10/2012,,09515171MO,-608.9200,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... G.Peterson 201210: Peterson, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,2053.13,2053.13,"CR:Resident Care -... G.Peterson 201210: Peterson, Gordon",,,,,,,,,,,,,,,

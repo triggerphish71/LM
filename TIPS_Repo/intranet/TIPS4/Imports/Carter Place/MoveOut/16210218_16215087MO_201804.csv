@@ -1,0 +1,5 @@
+BATCH,,201804,B,74.5500,
+INVOICE,IN,,16210218,,04/01/2018,37.2800,"Invoice-Private",,04/01/2018,04/10/2018,,16215087MO,-1609.2800,,,,,,,,,,
+TRANSACTION,3130,010011162,1,37.2750,37.28,"Pendant Fee: Timperley, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,16210218,,04/01/2018,37.28,"Invoice-Private",,04/01/2018,04/10/2018,,16215087MO,-1609.2800,,,,,,,,,,
+TRANSACTION,3130,010011162,1,37.275,37.275,"Credit for Pendant Fee: Timperley, Kenneth",,,,,,,,,,,,,,,

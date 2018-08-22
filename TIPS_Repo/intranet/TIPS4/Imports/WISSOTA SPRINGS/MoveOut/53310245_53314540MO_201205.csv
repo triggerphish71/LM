@@ -1,0 +1,6 @@
+BATCH,,201205,B,1283.0000,
+INVOICE,IN,,53310245,,05/03/2012,111.0000,"Invoice-Private",,05/03/2012,05/03/2012,,53314540MO,-1061.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,3,37.0000,111.00,"Basic Service Fee - Second Resident for May: Nazer, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,53310245,,05/03/2012,1172,"Invoice-Private",,05/03/2012,05/03/2012,,53314540MO,-1061.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1147,1147,"CR:Basic Service F... E.Nazer 201205: Nazer, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... E.Nazer 201205: Nazer, Ed",,,,,,,,,,,,,,,

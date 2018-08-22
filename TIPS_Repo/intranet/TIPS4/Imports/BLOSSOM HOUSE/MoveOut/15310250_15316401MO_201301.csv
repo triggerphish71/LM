@@ -1,0 +1,8 @@
+BATCH,,201301,B,13190.4500,
+INVOICE,IN,,15310250,,01/30/2013,7038.5000,"Invoice-Private",,01/30/2013,01/30/2013,,15316401MO,-3717.0500,,,,,,,,,,
+TRANSACTION,3320,010103153,1,1085.0000,1085.00,"CR:Limited Term Di... R.Browne 201301: Browne, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,30,100.0000,3000.00,"Basic Service Fee - Studio for Jan: Browne, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,30,98.4500,2953.50,"Resident Care - Level 55 for Jan: Browne, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,15310250,,01/30/2013,6151.95,"Invoice-Private",,01/30/2013,01/30/2013,,15316401MO,-3717.0500,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... R.Browne 201301: Browne, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,3051.95,3051.95,"CR:Resident Care -... R.Browne 201301: Browne, Rebecca",,,,,,,,,,,,,,,

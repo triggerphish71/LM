@@ -1,0 +1,6 @@
+BATCH,,201106,B,3525.0000,
+INVOICE,CM,,52910128,,06/01/2011,3525,"Invoice-Private",,06/01/2011,06/10/2011,,52912585MO,-3525.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2640,2640,"CR:Basic Service F... I.Pagel 201106: Pagel, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... I.Pagel 201106: Pagel, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... I.Pagel 201106: Pagel, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,840,840,"CR:Resident Care -... I.Pagel 201106: Pagel, Irene",,,,,,,,,,,,,,,

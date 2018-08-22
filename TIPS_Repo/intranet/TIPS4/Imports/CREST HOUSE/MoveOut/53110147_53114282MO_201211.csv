@@ -1,0 +1,7 @@
+BATCH,,201211,B,2330.0000,
+INVOICE,IN,,53110147,,11/01/2012,1165.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53114282MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25.0000,25.00,"Pendant Fee: Linvik, Selmer",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319531,30,38.0000,1140.00,"Credit for Limited Term Discount: Linvik, Selmer",,,,,,,,,,,,,,,
+INVOICE,CM,,53110147,,11/01/2012,1165,"Invoice-Private",,11/01/2012,11/10/2012,,53114282MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25,25,"Credit for Pendant Fee: Linvik, Selmer",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319531,30,38,1140,"Limited Term Discount: Linvik, Selmer",,,,,,,,,,,,,,,

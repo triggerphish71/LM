@@ -1,0 +1,5 @@
+BATCH,,201108,B,4128.0000,
+INVOICE,IN,,17910078,,08/12/2011,1152.0000,"Invoice-Private",,08/12/2011,08/12/2011,,17914621MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,12,96.0000,1152.00,"Room and Board - One Bedroom for Aug: Bordelon, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,17910078,,08/12/2011,2976,"Invoice-Private",,08/12/2011,08/12/2011,,17914621MO,-1824.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2976,2976,"CR:Room and Board ... M.Bordelon 201108: Bordelon, Marilyn",,,,,,,,,,,,,,,

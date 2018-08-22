@@ -1,0 +1,5 @@
+BATCH,,201108,B,2207.0000,
+INVOICE,IN,,11010341,,09/03/2011,2207.0000,"MoveIn-Warner. Richard",,09/03/2011,09/03/2011,,11014662,4962.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,2,91.0000,182,"Basic Service Fee - Studio         : Warner. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Warner. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Warner. Richard",,,,,,,,,,,,,,,

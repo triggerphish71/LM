@@ -1,0 +1,7 @@
+BATCH,,201302,B,452.0000,
+INVOICE,IN,,19810126,,02/01/2013,226.0000,"Invoice-Private",,02/01/2013,02/10/2013,,19818157MO,-1265.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Schiessl, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,28,7.0000,196.00,"Credit for Limited Term Discount: Schiessl, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,19810126,,02/01/2013,226,"Invoice-Private",,02/01/2013,02/10/2013,,19818157MO,-1265.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Schiessl, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,28,7,196,"Limited Term Discount: Schiessl, Robert",,,,,,,,,,,,,,,

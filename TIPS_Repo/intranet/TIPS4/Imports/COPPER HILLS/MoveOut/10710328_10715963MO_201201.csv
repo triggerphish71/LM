@@ -1,0 +1,7 @@
+BATCH,,201201,B,6396.0000,
+INVOICE,IN,,10710328,,01/09/2012,1560.0000,"Invoice-Private",,01/09/2012,01/09/2012,,10715963MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,10,98.0000,980.00,"Basic Service Fee - Studio for Jan: Parker, Lamar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,10,58.0000,580.00,"Resident Care - Level 4 for Jan: Parker, Lamar",,,,,,,,,,,,,,,
+INVOICE,CM,,10710328,,01/09/2012,4836,"Invoice-Private",,01/09/2012,01/09/2012,,10715963MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... L.Parker 201201: Parker, Lamar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1798,1798,"CR:Resident Care -... L.Parker 201201: Parker, Lamar",,,,,,,,,,,,,,,

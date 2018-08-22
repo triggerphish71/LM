@@ -1,0 +1,6 @@
+BATCH,,201104,B,2313.0000,
+INVOICE,IN,,10910199,,04/28/2011,2313.0000,"MoveIn-Grubb. Maxine",,04/28/2011,04/28/2011,,10914304,5314.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,3,80.0000,240,"Basic Service Fee - Studio         : Grubb. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,3,16.0000,48,"Resident Care - Level 1: Grubb. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Grubb. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Grubb. Maxine",,,,,,,,,,,,,,,

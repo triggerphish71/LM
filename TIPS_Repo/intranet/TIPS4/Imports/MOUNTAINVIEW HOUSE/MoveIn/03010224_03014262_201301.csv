@@ -1,0 +1,5 @@
+BATCH,,201301,B,3458.2500,
+INVOICE,IN,,03010224,,01/11/2013,3458.2500,"MoveIn-Barber. Bob",,01/11/2013,01/11/2013,,03014262,3458.2500,,,,,,,,,,
+TRANSACTION,3010,010103030,21,84.0000,1764,"Basic Service Fee - Studio: Barber. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,21,9.2500,194.25,"Resident Care - Level 5: Barber. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,1500.0000,1500,"New Resident Fee: Barber. Bob",,,,,,,,,,,,,,,

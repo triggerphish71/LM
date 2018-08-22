@@ -1,0 +1,7 @@
+BATCH,,201212,B,3632.0000,
+INVOICE,IN,,05110182,,12/06/2012,116.0000,"Invoice-Private",,12/06/2012,12/06/2012,,05114512MO,-3400.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,116.0000,116.00,"G.Montgomery: Basic Service Fee - One Bedroom : Montgomery, Gervase",,,,,,,,,,,,,,,
+INVOICE,CM,,05110182,,12/06/2012,3516,"Invoice-Private",,12/06/2012,12/06/2012,,05114512MO,-3400.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3016,3016,"CR:G.Montgomery: B... G.Montgomery 201212: Montgomery, Gervase",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25,25,"CR:Monthly Cable... G.Montgomery 201212: Montgomery, Gervase",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202051,1,475,475,"CR:New Resident Fe... G.Montgomery 201212: Montgomery, Gervase",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201302,B,1904.0000,
+INVOICE,IN,,01510177,,02/01/2013,952.0000,"Invoice-Private",,02/01/2013,02/10/2013,,01514355MO,-1358.2400,,,,,,,,,,
+TRANSACTION,3320,010103015,28,34.0000,952.00,"Credit for Limited Term Discount: Nelson, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,01510177,,02/01/2013,952,"Invoice-Private",,02/01/2013,02/10/2013,,01514355MO,-1358.2400,,,,,,,,,,
+TRANSACTION,3320,010103015,28,34,952,"Limited Term Discount: Nelson, Ethel",,,,,,,,,,,,,,,

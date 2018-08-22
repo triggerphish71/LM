@@ -1,0 +1,5 @@
+BATCH,,201304,B,2065.0000,
+INVOICE,IN,,08810253,,04/26/2013,2065.0000,"MoveIn-Fenton. Betty",,04/26/2013,04/26/2013,,08814673,5568.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,5,97.0000,485,"Basic Service Fee - Studio: Fenton. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,5,16.0000,80,"Resident Care - Level 1: Fenton. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,1500.0000,1500,"New Resident Fee: Fenton. Betty",,,,,,,,,,,,,,,

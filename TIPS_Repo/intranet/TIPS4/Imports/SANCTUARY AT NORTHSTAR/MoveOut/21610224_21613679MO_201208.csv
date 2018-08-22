@@ -1,0 +1,8 @@
+BATCH,,201208,B,5740.0000,
+INVOICE,IN,,21610224,,08/13/2012,1690.0000,"Invoice-Private",,08/13/2012,08/13/2012,,21613679MO,-2360.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,13,32.0000,416.00,"Resident Care - Level 3 for Aug: Kilpatrick, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,13,98.0000,1274.00,"Studio Deluxe for Aug: Kilpatrick, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,21610224,,08/13/2012,4050,"Invoice-Private",,08/13/2012,08/13/2012,,21613679MO,-2360.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... M.Kilpatrick 201208: Kilpatrick, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,992,992,"CR:Resident Care -... M.Kilpatrick 201208: Kilpatrick, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3038,3038,"CR:Studio Deluxe... M.Kilpatrick 201208: Kilpatrick, Minnie",,,,,,,,,,,,,,,

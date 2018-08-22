@@ -1,0 +1,5 @@
+BATCH,,201303,B,2815.0000,
+INVOICE,CM,,10010233,,03/01/2013,2815,"Invoice-Private",,03/01/2013,03/10/2013,,10014065MO,-2815.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2325,2325,"CR:Basic Service F... E.Marshal 201303: Marshal, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... E.Marshal 201303: Marshal, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,465,465,"CR:Resident Care -... E.Marshal 201303: Marshal, Elaine",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201207,B,1178.0000,
+INVOICE,IN,,04110200,,07/01/2012,589.0000,"Invoice-Private",,07/01/2012,07/10/2012,,04114402MO,-2009.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,31,19.0000,589.00,"Credit for Limited Term Discount: Musgrove, LaDell",,,,,,,,,,,,,,,
+INVOICE,CM,,04110200,,07/01/2012,589,"Invoice-Private",,07/01/2012,07/10/2012,,04114402MO,-2009.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,31,19,589,"Limited Term Discount: Musgrove, LaDell",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,1184.0000,
+INVOICE,IN,,01610321,,04/06/2013,148.0000,"Invoice-Private",,04/06/2013,04/06/2013,,01616345MO,-1198.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,4,37.0000,148.00,"Basic Service Fee - Second Resident for Apr: Beadles, Lonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,01610321,,04/06/2013,1036,"Invoice-Private",,04/06/2013,04/06/2013,,01616345MO,-1198.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,1036,1036,"CR:Basic Service F... L.Beadles 201304: Beadles, Lonnie",,,,,,,,,,,,,,,

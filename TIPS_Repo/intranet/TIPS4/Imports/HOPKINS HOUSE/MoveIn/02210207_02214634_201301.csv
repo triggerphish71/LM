@@ -1,0 +1,6 @@
+BATCH,,201301,B,1239.0000,
+INVOICE,IN,,02210207,,01/28/2013,1239.0000,"MoveIn-Plunkett. R",,01/28/2013,01/28/2013,,02214634,4512.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,4,85.0000,340,"Basic Service Fee - Studio: Plunkett. R",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,4,31.0000,124,"Resident Care - Level 2: Plunkett. R",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Plunkett. R",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,750.0000,750,"New Resident Fee: Plunkett. R",,,,,,,,,,,,,,,

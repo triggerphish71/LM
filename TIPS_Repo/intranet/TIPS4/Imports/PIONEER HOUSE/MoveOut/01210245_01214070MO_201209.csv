@@ -1,0 +1,7 @@
+BATCH,,201209,B,2158.0000,
+INVOICE,IN,,01210245,,09/01/2012,1079.0000,"Invoice-Private",,09/01/2012,09/10/2012,,01214070MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Wagoner, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103012,30,35.0000,1050.00,"Credit for Limited Term Discount: Wagoner, Merle",,,,,,,,,,,,,,,
+INVOICE,CM,,01210245,,09/01/2012,1079,"Invoice-Private",,09/01/2012,09/10/2012,,01214070MO,-2040.0000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Wagoner, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103012,30,35,1050,"Limited Term Discount: Wagoner, Merle",,,,,,,,,,,,,,,

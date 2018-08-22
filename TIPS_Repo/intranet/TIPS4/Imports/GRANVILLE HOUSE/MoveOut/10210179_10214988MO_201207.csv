@@ -1,0 +1,7 @@
+BATCH,,201207,B,5280.0000,
+INVOICE,IN,,10210179,,07/01/2012,320.0000,"Invoice-Private",,07/01/2012,07/10/2012,,10214988MO,-4640.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,2,111.0000,222.00,"Room and Board - Studio for Jul: Marshall, Katchen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,2,49.0000,98.00,"Swan Personal Care - L3 for Jul: Marshall, Katchen",,,,,,,,,,,,,,,
+INVOICE,CM,,10210179,,07/01/2012,4960,"Invoice-Private",,07/01/2012,07/10/2012,,10214988MO,-4640.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Room and Board ... K.Marshall 201207: Marshall, Katchen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1519,1519,"CR:Swan Personal C... K.Marshall 201207: Marshall, Katchen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,140.0000,
+INVOICE,IN,,50310302,,03/01/2013,70.0000,"Invoice-Private",,03/01/2013,03/10/2013,,50314715MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Pierce, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35.0000,35.00,"Pendant Fee: Pierce, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,50310302,,03/01/2013,70,"Invoice-Private",,03/01/2013,03/10/2013,,50314715MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Pierce, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35,35,"Credit for Pendant Fee: Pierce, Russell",,,,,,,,,,,,,,,

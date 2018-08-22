@@ -1,0 +1,8 @@
+BATCH,,201110,B,4612.0000,
+INVOICE,IN,,14810324,,10/07/2011,1141.0000,"MoveIn-Held. Jospehine",,10/07/2011,10/07/2011,,14814711,4612.0000,,,,,,,,,,
+TRANSACTION,3014,010310148,1,111.0000,111,"Basic Service Fee - One Bedroom    : Held. Jospehine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Held. Jospehine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Held. Jospehine",,,,,,,,,,,,,,,
+INVOICE,IN,,14810324,,10/07/2011,3471.0000,"MoveIn-Held. Jospehine",,10/07/2011,10/07/2011,,14814711,4612.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,31,111.0000,3441,"Basic Service Fee - One Bedroom    : Held. Jospehine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Held. Jospehine",,,,,,,,,,,,,,,

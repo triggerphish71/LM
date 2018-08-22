@@ -1,0 +1,7 @@
+BATCH,,201203,B,4076.2600,
+INVOICE,IN,,01510212,,03/07/2012,750.8900,"Invoice-Private",,03/07/2012,03/07/2012,,01514186MO,-2574.4800,,,,,,,,,,
+TRANSACTION,3020,010103015,7,84.0000,588.00,"M.McAllister: Basic Service Fee - Studio for Mar: McAllister, Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,7,23.2700,162.89,"M.McAllister: Resident Care - Level 13 for Mar: McAllister, Micheal",,,,,,,,,,,,,,,
+INVOICE,CM,,01510212,,03/07/2012,3325.37,"Invoice-Private",,03/07/2012,03/07/2012,,01514186MO,-2574.4800,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:M.McAllister: B... M.McAllister 201203: McAllister, Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,721.37,721.37,"CR:M.McAllister: R... M.McAllister 201203: McAllister, Micheal",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,5353.0000,
+INVOICE,IN,,14110213,,02/01/2013,2525.0000,"Invoice-Private",,02/01/2013,02/10/2013,,14113880MO,-303.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,25,70.0000,1750.00,"Basic Service Fee - One Bedroom for Feb: Seals, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,25,31.0000,775.00,"Resident Care - Level 2 for Feb: Seals, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,14110213,,02/01/2013,2828,"Invoice-Private",,02/01/2013,02/10/2013,,14113880MO,-303.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,1960,1960,"CR:Basic Service F... C.Seals 201302: Seals, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,868,868,"CR:Resident Care -... C.Seals 201302: Seals, Carl",,,,,,,,,,,,,,,

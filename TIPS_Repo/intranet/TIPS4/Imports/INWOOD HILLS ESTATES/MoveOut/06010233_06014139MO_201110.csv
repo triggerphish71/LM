@@ -1,0 +1,7 @@
+BATCH,,201110,B,6413.0000,
+INVOICE,IN,,06010233,,10/21/2011,2662.0000,"Invoice-Private",,10/21/2011,10/21/2011,,06014139MO,-4719.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,22,106.0000,2332.00,"Basic Service Fee - One Bedroom for Oct: Scheibelhut, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,22,15.0000,330.00,"Resident Care - Level 1 for Oct: Scheibelhut, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,06010233,,10/21/2011,3751,"Invoice-Private",,10/21/2011,10/21/2011,,06014139MO,-4719.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3286,3286,"CR:Basic Service F... M.Scheibelhut 201110: Scheibelhut, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,465,465,"CR:Resident Care -... M.Scheibelhut 201110: Scheibelhut, Marjorie",,,,,,,,,,,,,,,

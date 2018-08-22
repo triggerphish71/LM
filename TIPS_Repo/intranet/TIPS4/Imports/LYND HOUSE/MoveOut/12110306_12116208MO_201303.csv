@@ -1,0 +1,8 @@
+BATCH,,201303,B,1755.0000,
+INVOICE,IN,,12110306,,03/01/2013,135.0000,"Invoice-Private",,03/01/2013,03/10/2013,,12116208MO,-1485.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,2,50.0000,100.00,"Basic Service Fee - Studio for Mar: Showalter, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Showalter, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,12110306,,03/01/2013,1620,"Invoice-Private",,03/01/2013,03/10/2013,,12116208MO,-1485.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,1550,1550,"CR:Basic Service F... E.Showalter 201303: Showalter, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... E.Showalter 201303: Showalter, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Showalter, Edna",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,1869.0000,
+INVOICE,IN,,07810248,,12/18/2012,1869.0000,"MoveIn-Gunning. Elaine",,12/18/2012,12/18/2012,,07814553,4870.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,14,81.0000,1134,"Basic Service Fee - Studio         : Gunning. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,14,15.0000,210,"Resident Care - Level 1: Gunning. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Gunning. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,500.0000,500,"New Resident Fee: Gunning. Elaine",,,,,,,,,,,,,,,

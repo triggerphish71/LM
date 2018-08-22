@@ -1,0 +1,7 @@
+BATCH,,201111,B,880.0000,
+INVOICE,IN,,21210095,,11/01/2011,440.0000,"Invoice-Private",,11/01/2011,11/10/2011,,21212101MO,-3521.7000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: McConnell, Nelly",,,,,,,,,,,,,,,
+TRANSACTION,3320,010208212,30,13.3000,399.00,"Credit for Limited Term Discount: McConnell, Nelly",,,,,,,,,,,,,,,
+INVOICE,CM,,21210095,,11/01/2011,440,"Invoice-Private",,11/01/2011,11/10/2011,,21212101MO,-3521.7000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: McConnell, Nelly",,,,,,,,,,,,,,,
+TRANSACTION,3320,010208212,30,13.3,399,"Limited Term Discount: McConnell, Nelly",,,,,,,,,,,,,,,

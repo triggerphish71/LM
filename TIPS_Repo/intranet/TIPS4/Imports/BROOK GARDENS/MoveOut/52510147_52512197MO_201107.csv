@@ -1,0 +1,5 @@
+BATCH,,201107,B,936.0000,
+INVOICE,IN,,52510147,,07/07/2011,36.0000,"Invoice-Private",,07/07/2011,07/07/2011,,52512197MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,36.0000,36.00,"Basic Service Fee - Second Resident for Jul: Lazers, Loretta",,,,,,,,,,,,,,,
+INVOICE,CM,,52510147,,07/07/2011,900,"Invoice-Private",,07/07/2011,07/07/2011,,52512197MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,900,900,"CR:Basic Service F... L.Lazers 201107: Lazers, Loretta",,,,,,,,,,,,,,,

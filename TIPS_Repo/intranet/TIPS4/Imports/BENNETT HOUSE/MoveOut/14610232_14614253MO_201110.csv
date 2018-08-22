@@ -1,0 +1,8 @@
+BATCH,,201110,B,5648.0000,
+INVOICE,IN,,14610232,,10/01/2011,2332.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14614253MO,-4194.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,22,89.0000,1958.00,"Basic Service Fee - Studio for Oct: Schaff, Olive ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,22,17.0000,374.00,"Resident Care - Level 1 for Oct: Schaff, Olive ",,,,,,,,,,,,,,,
+INVOICE,CM,,14610232,,10/01/2011,3316,"Invoice-Private",,10/01/2011,10/10/2011,,14614253MO,-4194.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... O.Schaff 201110: Schaff, Olive ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... O.Schaff 201110: Schaff, Olive ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,527,527,"CR:Resident Care -... O.Schaff 201110: Schaff, Olive ",,,,,,,,,,,,,,,

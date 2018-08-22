@@ -1,0 +1,8 @@
+BATCH,,201707,B,11238.3300,
+INVOICE,IN,,34800118,,07/20/2017,8013.3300,"MoveIn-Weissbrod. Ray",,07/20/2017,07/20/2017,,34811330,11238.3300,,,,,,,,,,
+TRANSACTION,3014,070005348,1,213.3300,213.33,"MC Studio: Weissbrod. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,070005348,1,3900.0000,3900,"CommunityFee: Weissbrod. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,070005348,1,3900.0000,3900,"Monthly Deferral Charge: Weissbrod. Ray",,,,,,,,,,,,,,,
+INVOICE,IN,,34800118,,07/20/2017,3225.0000,"MoveIn-Weissbrod. Ray",,07/20/2017,07/20/2017,,34811330,11238.3300,,,,,,,,,,
+TRANSACTION,3010,070005348,1,3200.0000,3200,"MC Studio: Weissbrod. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,070005348,1,25.0000,25,"Monthly Cable: Weissbrod. Ray",,,,,,,,,,,,,,,

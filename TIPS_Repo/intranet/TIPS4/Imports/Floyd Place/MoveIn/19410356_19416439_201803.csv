@@ -1,0 +1,6 @@
+BATCH,,201803,B,6324.1000,
+INVOICE,IN,,19410356,,03/23/2018,6324.1000,"MoveIn-Cunningham. Gloria",,03/23/2018,03/23/2018,,19416439,9066.2000,,,,,,,,,,
+TRANSACTION,3010,010012194,9,90.0000,810,"Basic Service Fee - Studio: Cunningham. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012194,1,2736.0000,2736,"Community Fee: Cunningham. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012194,1,42.1000,42.1,"Monthly Cable: Cunningham. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012194,1,2736.0000,2736,"Monthly Deferral Charge: Cunningham. Gloria",,,,,,,,,,,,,,,

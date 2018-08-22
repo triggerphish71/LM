@@ -1,0 +1,5 @@
+BATCH,,201207,B,4677.0000,
+INVOICE,IN,,16510315,,07/01/2012,4677.0000,"July_Rent-Hauser. Virginia",,07/01/2012,07/10/2012,,16514331,6654.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,31,97.0000,3007,"Basic Service Fee - Studio         : Hauser. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,31,53.0000,1643,"Resident Care - Level 4: Hauser. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Hauser. Virginia",,,,,,,,,,,,,,,

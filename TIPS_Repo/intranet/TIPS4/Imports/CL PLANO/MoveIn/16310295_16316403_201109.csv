@@ -1,0 +1,6 @@
+BATCH,,201109,B,5667.0000,
+INVOICE,IN,,16310295,,09/01/2011,5667.0000,"MoveIn-Wileman. Bob",,09/01/2011,09/01/2011,,16316403,5667.0000,,,,,,,,,,
+TRANSACTION,3010,010202163,30,114.0000,3420,"Basic Service Fee - One Bedroom    : Wileman. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202163,30,24.0000,720,"Resident Care - Level 2: Wileman. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27,"Monthly Cable: Wileman. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202163,1,1500.0000,1500,"New Resident Fee: Wileman. Bob",,,,,,,,,,,,,,,

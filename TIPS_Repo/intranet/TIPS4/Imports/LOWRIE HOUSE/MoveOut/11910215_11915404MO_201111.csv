@@ -1,0 +1,5 @@
+BATCH,,201111,B,52.0000,
+INVOICE,IN,,11910215,,11/01/2011,26.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11915404MO,-4439.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Dominsky, Ida",,,,,,,,,,,,,,,
+INVOICE,CM,,11910215,,11/01/2011,26,"Invoice-Private",,11/01/2011,11/10/2011,,11915404MO,-4439.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Dominsky, Ida",,,,,,,,,,,,,,,

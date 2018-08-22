@@ -1,0 +1,7 @@
+BATCH,,201108,B,6912.0000,
+INVOICE,IN,,12910290,,08/01/2011,2944.0000,"Invoice-Private",,08/01/2011,08/10/2011,,12915432MO,-1024.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,23,92.0000,2116.00,"Basic Service Fee - Studio for Aug: Sharp, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,23,36.0000,828.00,"Resident Care - Level 2 for Aug: Sharp, John",,,,,,,,,,,,,,,
+INVOICE,CM,,12910290,,08/01/2011,3968,"Invoice-Private",,08/01/2011,08/10/2011,,12915432MO,-1024.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2852,2852,"CR:Basic Service F... J.Sharp 201108: Sharp, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1116,1116,"CR:Resident Care -... J.Sharp 201108: Sharp, John",,,,,,,,,,,,,,,

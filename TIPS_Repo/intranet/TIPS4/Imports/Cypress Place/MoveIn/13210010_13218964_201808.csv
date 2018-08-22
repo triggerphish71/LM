@@ -1,0 +1,8 @@
+BATCH,,201808,B,8439.0000,
+INVOICE,IN,,13210010,,08/06/2018,8153.0000,"MoveIn-Lowder. Willie",,08/06/2018,08/06/2018,,13218964,7867.0000,,,,,,,,,,
+TRANSACTION,3017,010008132,26,102.0000,2652,"Resident Care - Level 6: Lowder. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008132,1,2736.0000,2736,"Community Fee: Lowder. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010008132,1,29.0000,29,"Monthly Cable: Lowder. Willie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008132,1,2736.0000,2736,"Monthly Deferral Charge: Lowder. Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,13210010,,08/06/2018,286.0000,"MoveIn-Lowder. Willie",,08/06/2018,08/06/2018,,13218964,7867.0000,,,,,,,,,,
+TRANSACTION,3010,010008132,26,11,286,"Companion One Bedroom: Lowder. Willie",,,,,,,,,,,,,,,

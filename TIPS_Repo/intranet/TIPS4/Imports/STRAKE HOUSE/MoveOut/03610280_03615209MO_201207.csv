@@ -1,0 +1,8 @@
+BATCH,,201207,B,7132.0000,
+INVOICE,IN,,03610280,,07/18/2012,2610.0000,"Invoice-Private",,07/18/2012,07/18/2012,,03615209MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,18,115.0000,2070.00,"Basic Service Fee - One Bedroom for Jul: Costolow, Mary Jo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,18,30.0000,540.00,"Resident Care - Level 2 for Jul: Costolow, Mary Jo",,,,,,,,,,,,,,,
+INVOICE,CM,,03610280,,07/18/2012,4522,"Invoice-Private",,07/18/2012,07/18/2012,,03615209MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3565,3565,"CR:Basic Service F... M.Costolow 201207: Costolow, Mary Jo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... M.Costolow 201207: Costolow, Mary Jo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,930,930,"CR:Resident Care -... M.Costolow 201207: Costolow, Mary Jo",,,,,,,,,,,,,,,

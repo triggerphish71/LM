@@ -1,0 +1,7 @@
+BATCH,,201203,B,7952.0000,
+INVOICE,IN,,12110295,,03/01/2012,2910.0000,"Invoice-Private",,03/01/2012,03/01/2012,,12115607MO,-2132.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,30,97.0000,2910.00,"Basic Service Fee - Studio for Mar: Little, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,12110295,,03/01/2012,5042,"Invoice-Private",,03/01/2012,03/01/2012,,12115607MO,-2132.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3007,3007,"CR:Basic Service F... L.Little 201203: Little, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... L.Little 201203: Little, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000,2000,"CR:New Resident Fe... L.Little 201203: Little, Lois",,,,,,,,,,,,,,,

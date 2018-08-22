@@ -1,0 +1,5 @@
+BATCH,,201106,B,54.0000,
+INVOICE,IN,,04510208,,06/01/2011,27.0000,"Invoice-Private",,06/01/2011,06/10/2011,,04513533MO,-3641.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Curry, Thurman",,,,,,,,,,,,,,,
+INVOICE,CM,,04510208,,06/01/2011,27,"Invoice-Private",,06/01/2011,06/10/2011,,04513533MO,-3641.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Curry, Thurman",,,,,,,,,,,,,,,

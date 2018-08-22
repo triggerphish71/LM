@@ -1,0 +1,8 @@
+BATCH,,201111,B,7090.0000,
+INVOICE,IN,,21010264,,11/06/2011,3790.0000,"Invoice-Private",,11/06/2011,11/06/2011,,21013257MO,490.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,600.0000,600.00,"CR:Limited Term Di... P.Long 201111: Long, Porter ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,29,20.0000,580.00,"Resident Care - Level 2 for Nov: Long, Porter ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,29,90.0000,2610.00,"Studio for Nov: Long, Porter ",,,,,,,,,,,,,,,
+INVOICE,CM,,21010264,,11/06/2011,3300,"Invoice-Private",,11/06/2011,11/06/2011,,21013257MO,490.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,600,600,"CR:Resident Care -... P.Long 201111: Long, Porter ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2700,2700,"CR:Studio... P.Long 201111: Long, Porter ",,,,,,,,,,,,,,,

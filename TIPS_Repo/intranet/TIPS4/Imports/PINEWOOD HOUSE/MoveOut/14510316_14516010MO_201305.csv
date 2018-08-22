@@ -1,0 +1,7 @@
+BATCH,,201305,B,6400.0000,
+INVOICE,IN,,14510316,,05/18/2013,2432.0000,"Invoice-Private",,05/18/2013,05/18/2013,,14516010MO,-5376.0000,,,,,,,,,,
+TRANSACTION,3027,010308145,19,42.0000,798.00,"Resident Care - Level 3 for May: VanderLaan, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,19,86.0000,1634.00,"Room and Board - Studio for May: VanderLaan, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,14510316,,05/18/2013,3968,"Invoice-Private",,05/18/2013,05/18/2013,,14516010MO,-5376.0000,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1302,1302,"CR:Resident Care -... J.VanderLaan 201305: VanderLaan, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2666,2666,"CR:Room and Board ... J.VanderLaan 201305: VanderLaan, Janet",,,,,,,,,,,,,,,

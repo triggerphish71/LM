@@ -1,0 +1,7 @@
+BATCH,,201201,B,6970.5600,
+INVOICE,IN,,51610236,,01/14/2012,2468.7400,"Invoice-Private",,01/14/2012,01/14/2012,,51613717MO,-6244.4600,,,,,,,,,,
+TRANSACTION,3020,010103516,17,113.0000,1921.00,"Basic Service Fee - One Bedroom for Jan: McCallum, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,17,32.2200,547.74,"Resident Care - Level 18 for Jan: McCallum, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,51610236,,01/14/2012,4501.82,"Invoice-Private",,01/14/2012,01/14/2012,,51613717MO,-6244.4600,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3503,3503,"CR:Basic Service F... J.McCallum 201201: McCallum, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,998.82,998.82,"CR:Resident Care -... J.McCallum 201201: McCallum, Joan",,,,,,,,,,,,,,,

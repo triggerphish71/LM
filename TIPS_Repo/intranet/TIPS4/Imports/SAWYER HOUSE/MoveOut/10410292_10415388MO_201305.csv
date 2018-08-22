@@ -1,0 +1,7 @@
+BATCH,,201305,B,5226.4000,
+INVOICE,IN,,10410292,,05/16/2013,1779.2000,"Invoice-Private",,05/16/2013,05/16/2013,,10415388MO,-5004.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,16,89.0000,1424.00,"Basic Service Fee - Studio for May: Fulk, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,16,22.2000,355.20,"Resident Care - Level 12 for May: Fulk, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,10410292,,05/16/2013,3447.2,"Invoice-Private",,05/16/2013,05/16/2013,,10415388MO,-5004.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2759,2759,"CR:Basic Service F... P.Fulk 201305: Fulk, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,688.2,688.2,"CR:Resident Care -... P.Fulk 201305: Fulk, Paul",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,7654.0000,
+INVOICE,IN,,51310128,,11/12/2011,2314.0000,"Invoice-Private",,11/12/2011,11/12/2011,,51313593MO,-3026.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,13,103.0000,1339.00,"Basic Service Fee- Studio for Nov: Rykaski, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,13,75.0000,975.00,"Resident Care - Level 6 for Nov: Rykaski, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,51310128,,11/12/2011,5340,"Invoice-Private",,11/12/2011,11/12/2011,,51313593MO,-3026.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3090,3090,"CR:Basic Service F... E.Rykaski 201111: Rykaski, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2250,2250,"CR:Resident Care -... E.Rykaski 201111: Rykaski, Eugene",,,,,,,,,,,,,,,

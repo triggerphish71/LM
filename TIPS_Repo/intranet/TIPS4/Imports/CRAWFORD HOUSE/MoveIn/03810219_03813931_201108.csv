@@ -1,0 +1,6 @@
+BATCH,,201108,B,4579.2000,
+INVOICE,IN,,03810219,,08/05/2011,4579.2000,"MoveIn-Gilliam. Charles",,08/05/2011,08/05/2011,,03813931,4579.2000,,,,,,,,,,
+TRANSACTION,3010,010103038,27,81.0000,2187,"Basic Service Fee - Studio         : Gilliam. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,27,13.6000,367.2,"Resident Care - Level 8: Gilliam. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Gilliam. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Gilliam. Charles",,,,,,,,,,,,,,,

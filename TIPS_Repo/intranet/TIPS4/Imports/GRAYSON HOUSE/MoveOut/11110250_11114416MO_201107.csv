@@ -1,0 +1,7 @@
+BATCH,,201107,B,3900.0000,
+INVOICE,IN,,11110250,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11114416MO,-6570.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,62.0000,62.00,"CR:Limited Term Di... D.Petersen 201107: Petersen, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,11110250,,07/01/2011,3838,"Invoice-Private",,07/01/2011,07/10/2011,,11114416MO,-6570.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... D.Petersen 201107: Petersen, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,899,899,"CR:Resident Care -... D.Petersen 201107: Petersen, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2914,2914,"CR:Room and Board ... D.Petersen 201107: Petersen, Dorothy",,,,,,,,,,,,,,,

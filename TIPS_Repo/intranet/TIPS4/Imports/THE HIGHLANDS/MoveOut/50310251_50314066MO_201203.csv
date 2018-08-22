@@ -1,0 +1,7 @@
+BATCH,,201203,B,4551.0000,
+INVOICE,IN,,50310251,,03/06/2012,738.0000,"Invoice-Private",,03/06/2012,03/06/2012,,50314066MO,-3075.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,6,75.0000,450.00,"Basic Service Fee - Studio for Mar: Casada, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,6,48.0000,288.00,"Resident Care - Level 4 for Mar: Casada, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,50310251,,03/06/2012,3813,"Invoice-Private",,03/06/2012,03/06/2012,,50314066MO,-3075.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... G.Casada 201203: Casada, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1488,1488,"CR:Resident Care -... G.Casada 201203: Casada, Geraldine",,,,,,,,,,,,,,,

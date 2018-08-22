@@ -1,0 +1,7 @@
+BATCH,,201206,B,7788.0000,
+INVOICE,IN,,19210274,,06/14/2012,2478.0000,"Invoice-Private",,06/14/2012,06/14/2012,,19215285MO,-8319.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,14,133.0000,1862.00,"Basic Service Fee - One Bedroom for Jun: White, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,14,44.0000,616.00,"Private Care Rate Adjustments for Jun: White, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,19210274,,06/14/2012,5310,"Invoice-Private",,06/14/2012,06/14/2012,,19215285MO,-8319.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3990,3990,"CR:Basic Service F... L.White 201206: White, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309192,1,1320,1320,"CR:Private Care Ra... L.White 201206: White, Louise",,,,,,,,,,,,,,,

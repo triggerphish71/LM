@@ -1,0 +1,7 @@
+BATCH,,201105,B,3383.0000,
+INVOICE,IN,,13310282,,05/01/2011,62.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13314915MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,1,62.0000,62.00,"CR:Limited Term Di... A.Liro 201105: Liro, Anthony",,,,,,,,,,,,,,,
+INVOICE,CM,,13310282,,05/01/2011,3321,"Invoice-Private",,05/01/2011,05/10/2011,,13314915MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2759,2759,"CR:Basic Service F... A.Liro 201105: Liro, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... A.Liro 201105: Liro, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,527,527,"CR:Resident Care -... A.Liro 201105: Liro, Anthony",,,,,,,,,,,,,,,

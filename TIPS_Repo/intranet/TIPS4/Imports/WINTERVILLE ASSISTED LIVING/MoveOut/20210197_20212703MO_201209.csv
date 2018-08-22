@@ -1,0 +1,8 @@
+BATCH,,201209,B,7374.0000,
+INVOICE,IN,,20210197,,09/26/2012,3954.0000,"Invoice-Private",,09/26/2012,09/26/2012,,20212703MO,-1977.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,990.0000,990.00,"CR:Limited Term Di... J.Burroughs 201209: Burroughs, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,26,31.0000,806.00,"Resident Care - Level 3 for Sep: Burroughs, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,26,83.0000,2158.00,"Studio for Sep: Burroughs, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,20210197,,09/26/2012,3420,"Invoice-Private",,09/26/2012,09/26/2012,,20212703MO,-1977.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,930,930,"CR:Resident Care -... J.Burroughs 201209: Burroughs, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2490,2490,"CR:Studio... J.Burroughs 201209: Burroughs, Jack",,,,,,,,,,,,,,,

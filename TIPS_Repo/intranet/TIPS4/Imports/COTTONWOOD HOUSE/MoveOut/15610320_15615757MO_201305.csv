@@ -1,0 +1,7 @@
+BATCH,,201305,B,4200.0000,
+INVOICE,IN,,15610320,,05/01/2013,480.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15615757MO,-3240.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,4,50.0000,200.00,"Basic Service Fee - Studio for May: Gruenhage, Elva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,4,70.0000,280.00,"Resident Care - Level 5 for May: Gruenhage, Elva",,,,,,,,,,,,,,,
+INVOICE,CM,,15610320,,05/01/2013,3720,"Invoice-Private",,05/01/2013,05/10/2013,,15615757MO,-3240.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1550,1550,"CR:Basic Service F... E.Gruenhage 201305: Gruenhage, Elva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2170,2170,"CR:Resident Care -... E.Gruenhage 201305: Gruenhage, Elva",,,,,,,,,,,,,,,

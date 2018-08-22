@@ -1,0 +1,8 @@
+BATCH,,201206,B,3210.0000,
+INVOICE,IN,,13610223,,06/01/2012,1110.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13614810MO,-990.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,1,60.0000,60.00,"CR:Limited Term Di... H.Galliher 201206: Galliher, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309136,15,55.0000,825.00,"Basic Service Fee - Studio for Jun: Galliher, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,15,15.0000,225.00,"Resident Care - Level 1 for Jun: Galliher, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,13610223,,06/01/2012,2100,"Invoice-Private",,06/01/2012,06/10/2012,,13614810MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1650,1650,"CR:Basic Service F... H.Galliher 201206: Galliher, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,450,450,"CR:Resident Care -... H.Galliher 201206: Galliher, Howard",,,,,,,,,,,,,,,

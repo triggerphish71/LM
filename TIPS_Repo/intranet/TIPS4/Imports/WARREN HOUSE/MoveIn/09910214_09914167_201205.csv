@@ -1,0 +1,5 @@
+BATCH,,201205,B,3745.0000,
+INVOICE,IN,,09910214,,05/01/2012,3745.0000,"May_Rent-Hunt. Grace",,05/01/2012,05/10/2012,,09914167,5490.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,31,105.0000,3255,"G.Hunt: Basic Service Fee - One Bedroom: Hunt. Grace",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,31,15.0000,465,"G.Hunt: Resident Care - Level 1: Hunt. Grace",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Hunt. Grace",,,,,,,,,,,,,,,

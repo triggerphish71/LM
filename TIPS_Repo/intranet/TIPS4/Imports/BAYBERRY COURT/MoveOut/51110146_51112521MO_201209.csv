@@ -1,0 +1,7 @@
+BATCH,,201209,B,174.0000,
+INVOICE,IN,,51110146,,09/01/2012,87.0000,"Invoice-Private",,09/01/2012,09/10/2012,,51112521MO,-3283.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,30,2.0000,60.00,"Credit for Limited Term Discount: Aljoe, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Aljoe, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,51110146,,09/01/2012,87,"Invoice-Private",,09/01/2012,09/10/2012,,51112521MO,-3283.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,30,2,60,"Limited Term Discount: Aljoe, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Aljoe, Edith",,,,,,,,,,,,,,,

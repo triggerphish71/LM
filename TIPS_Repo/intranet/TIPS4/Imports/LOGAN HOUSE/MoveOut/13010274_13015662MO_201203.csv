@@ -1,0 +1,7 @@
+BATCH,,201203,B,6765.0000,
+INVOICE,IN,,13010274,,03/07/2012,1650.0000,"Invoice-Private",,03/07/2012,03/07/2012,,13015662MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,10,102.0000,1020.00,"Basic Service Fee - Studio for Mar: Thompson, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,10,63.0000,630.00,"Resident Care - Level 4 for Mar: Thompson, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,13010274,,03/07/2012,5115,"Invoice-Private",,03/07/2012,03/07/2012,,13015662MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3162,3162,"CR:Basic Service F... J.Thompson 201203: Thompson, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1953,1953,"CR:Resident Care -... J.Thompson 201203: Thompson, Jerome",,,,,,,,,,,,,,,

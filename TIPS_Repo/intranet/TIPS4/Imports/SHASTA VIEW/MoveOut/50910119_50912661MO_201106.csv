@@ -1,0 +1,5 @@
+BATCH,,201106,B,3015.0000,
+INVOICE,IN,,50910119,,06/12/2011,1005.0000,"Invoice-Private",,06/12/2011,06/12/2011,,50912661MO,-3082.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,15,67.0000,1005.00,"Basic Service Fee - One Bedroom Del for Jun: Bryant, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,50910119,,06/12/2011,2010,"Invoice-Private",,06/12/2011,06/12/2011,,50912661MO,-3082.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,2010,2010,"CR:Basic Service F... J.Bryant 201106: Bryant, Joyce",,,,,,,,,,,,,,,

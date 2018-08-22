@@ -1,0 +1,5 @@
+BATCH,,201201,B,3094.0000,
+INVOICE,CM,,18910254,,01/01/2012,3094,"Invoice-Private",,01/01/2012,01/10/2012,,18915038MO,-3094.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2759,2759,"CR:Basic Service F... E.Paris 201201: Paris, Elnore",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... E.Paris 201201: Paris, Elnore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... E.Paris 201201: Paris, Elnore",,,,,,,,,,,,,,,

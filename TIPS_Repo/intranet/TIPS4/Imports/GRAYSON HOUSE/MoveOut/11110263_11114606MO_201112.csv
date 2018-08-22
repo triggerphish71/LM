@@ -1,0 +1,7 @@
+BATCH,,201112,B,155.4000,
+INVOICE,IN,,11110263,,12/01/2011,77.7000,"Invoice-Private",,12/01/2011,12/10/2011,,11114606MO,-10719.7000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25.00,"Monthly Cable: Lovell, Sandra",,,,,,,,,,,,,,,
+TRANSACTION,3019,010107111,31,1.7000,52.70,"Additional Service Charge: Lovell, Sandra",,,,,,,,,,,,,,,
+INVOICE,CM,,11110263,,12/01/2011,77.7,"Invoice-Private",,12/01/2011,12/10/2011,,11114606MO,-10719.7000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"Credit for Monthly Cable: Lovell, Sandra",,,,,,,,,,,,,,,
+TRANSACTION,3019,010107111,31,1.7,52.7,"Credit for Additional Service Charge: Lovell, Sandra",,,,,,,,,,,,,,,

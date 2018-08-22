@@ -1,0 +1,7 @@
+BATCH,,201109,B,4287.0000,
+INVOICE,IN,,10410187,,09/01/2011,720.0000,"Invoice-Private",,09/01/2011,09/10/2011,,10414492MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3320,010101104,1,720.0000,720.00,"CR:Limited Term Di... M.Kearns 201109: Kearns, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,10410187,,09/01/2011,3567,"Invoice-Private",,09/01/2011,09/10/2011,,10414492MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2520,2520,"CR:Basic Service F... M.Kearns 201109: Kearns, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101104,1,27,27,"CR:Monthly Cable... M.Kearns 201109: Kearns, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,1020,1020,"CR:Resident Care -... M.Kearns 201109: Kearns, Mary",,,,,,,,,,,,,,,

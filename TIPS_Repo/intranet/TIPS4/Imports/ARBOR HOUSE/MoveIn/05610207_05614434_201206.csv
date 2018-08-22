@@ -1,0 +1,5 @@
+BATCH,,201206,B,2727.0000,
+INVOICE,IN,,05610207,,06/06/2012,2727.0000,"MoveIn-Hickson. Jasper",,06/06/2012,06/06/2012,,05614434,2727.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,25,68.0000,1700,"Basic Service Fee - Studio: Hickson. Jasper",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Hickson. Jasper",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Hickson. Jasper",,,,,,,,,,,,,,,

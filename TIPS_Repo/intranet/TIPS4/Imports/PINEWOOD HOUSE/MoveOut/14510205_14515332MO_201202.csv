@@ -1,0 +1,7 @@
+BATCH,,201202,B,5640.0000,
+INVOICE,IN,,14510205,,02/11/2012,1551.0000,"Invoice-Private",,02/11/2012,02/11/2012,,14515332MO,-2538.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,11,99.0000,1089.00,"Basic Service Fee - Studio for Feb: Fogelman, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,11,42.0000,462.00,"Resident Care - Level 3 for Feb: Fogelman, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14510205,,02/11/2012,4089,"Invoice-Private",,02/11/2012,02/11/2012,,14515332MO,-2538.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2871,2871,"CR:Basic Service F... H.Fogelman 201202: Fogelman, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1218,1218,"CR:Resident Care -... H.Fogelman 201202: Fogelman, Helen",,,,,,,,,,,,,,,

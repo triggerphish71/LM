@@ -1,0 +1,7 @@
+BATCH,,201202,B,6916.0000,
+INVOICE,IN,,20610244,,02/18/2012,3059.0000,"Invoice-Private",,02/18/2012,02/18/2012,,20612616MO,-4921.0000,,,,,,,,,,
+TRANSACTION,3037,010214206,23,42.0000,966.00,"Private Care Rate Adjustments for Feb: Domigan, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,23,91.0000,2093.00,"Studio for Feb: Domigan, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,20610244,,02/18/2012,3857,"Invoice-Private",,02/18/2012,02/18/2012,,20612616MO,-4921.0000,,,,,,,,,,
+TRANSACTION,3037,010214206,1,1218,1218,"CR:Private Care Ra... K.Domigan 201202: Domigan, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2639,2639,"CR:Studio... K.Domigan 201202: Domigan, Kenneth",,,,,,,,,,,,,,,

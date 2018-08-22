@@ -1,0 +1,7 @@
+BATCH,,201204,B,4467.0000,
+INVOICE,IN,,19010204,,04/01/2012,1020.0000,"Invoice-Private",,04/01/2012,04/10/2012,,19014450MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,1020.0000,1020.00,"CR:Limited Term Di... J.Austin 201204: Austin, James ",,,,,,,,,,,,,,,
+INVOICE,CM,,19010204,,04/01/2012,3447,"Invoice-Private",,04/01/2012,04/10/2012,,19014450MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2940,2940,"CR:Basic Service F... J.Austin 201204: Austin, James ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... J.Austin 201204: Austin, James ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,480,480,"CR:Resident Care -... J.Austin 201204: Austin, James ",,,,,,,,,,,,,,,

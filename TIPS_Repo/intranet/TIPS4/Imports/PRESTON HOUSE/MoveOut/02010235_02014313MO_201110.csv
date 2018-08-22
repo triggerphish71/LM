@@ -1,0 +1,8 @@
+BATCH,,201110,B,3769.0000,
+INVOICE,IN,,02010235,,10/01/2011,117.0000,"Invoice-Private",,10/01/2011,10/10/2011,,02014313MO,-3535.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,91.0000,91.00,"Basic Service Fee - Studio for Oct: Bradshaw, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,26.0000,26.00,"Resident Care - Level 2 for Oct: Bradshaw, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,02010235,,10/01/2011,3652,"Invoice-Private",,10/01/2011,10/10/2011,,02014313MO,-3535.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2821,2821,"CR:Basic Service F... M.Bradshaw 201110: Bradshaw, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... M.Bradshaw 201110: Bradshaw, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,806,806,"CR:Resident Care -... M.Bradshaw 201110: Bradshaw, Mary",,,,,,,,,,,,,,,

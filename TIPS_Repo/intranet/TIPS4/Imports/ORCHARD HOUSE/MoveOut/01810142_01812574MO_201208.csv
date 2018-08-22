@@ -1,0 +1,7 @@
+BATCH,,201208,B,5788.6600,
+INVOICE,IN,,01810142,,08/21/2012,2402.8400,"Invoice-Private",,08/21/2012,08/21/2012,,01812574MO,-4259.5800,,,,,,,,,,
+TRANSACTION,3020,010103018,22,77.0000,1694.00,"Basic Service Fee - Studio for Aug: Phelps, Clarence ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,22,32.2200,708.84,"Resident Care - Level 18 for Aug: Phelps, Clarence ",,,,,,,,,,,,,,,
+INVOICE,CM,,01810142,,08/21/2012,3385.82,"Invoice-Private",,08/21/2012,08/21/2012,,01812574MO,-4259.5800,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2387,2387,"CR:Basic Service F... C.Phelps 201208: Phelps, Clarence ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,998.82,998.82,"CR:Resident Care -... C.Phelps 201208: Phelps, Clarence ",,,,,,,,,,,,,,,

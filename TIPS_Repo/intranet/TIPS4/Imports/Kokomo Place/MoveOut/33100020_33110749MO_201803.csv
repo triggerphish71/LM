@@ -1,0 +1,7 @@
+BATCH,,201803,B,4087.0300,
+INVOICE,IN,,33100020,,03/15/2018,1332.7500,"Invoice-Medicaid",,03/15/2018,03/15/2018,,33110749MO,-1421.5300,,,,,,,,,,
+TRANSACTION,3021,070009331,15,20.9700,314.55,"Medicaid Private BSF  for Mar: McCarter, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3022,070009331,1,1018.2000,1018.20,"State Medicaid  for Mar: McCarter, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,33100020,,03/15/2018,2754.28,"Invoice-Medicaid",,03/15/2018,03/15/2018,,33110749MO,-1421.5300,,,,,,,,,,
+TRANSACTION,3021,070009331,1,650,650,"CR:Medicaid Privat... M.McCarter 201803: McCarter, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3022,070009331,1,2104.28,2104.28,"CR:State Medicaid... M.McCarter 201803: McCarter, Marion",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,7247.5000,
+INVOICE,IN,,09810223,,11/20/2011,2899.0000,"Invoice-Private",,11/20/2011,11/20/2011,,09814464MO,-5942.9500,,,,,,,,,,
+TRANSACTION,3020,010103098,20,107.0000,2140.00,"Basic Service Fee - One Bedroom for Nov: Naccarini, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,20,37.9500,759.00,"Resident Care - Level 23 for Nov: Naccarini, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,09810223,,11/20/2011,4348.5,"Invoice-Private",,11/20/2011,11/20/2011,,09814464MO,-5942.9500,,,,,,,,,,
+TRANSACTION,3020,010103098,1,3210,3210,"CR:Basic Service F... A.Naccarini 201111: Naccarini, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1138.5,1138.5,"CR:Resident Care -... A.Naccarini 201111: Naccarini, Alice",,,,,,,,,,,,,,,

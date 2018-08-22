@@ -1,0 +1,5 @@
+BATCH,,201303,B,2975.0000,
+INVOICE,CM,,50110184,,03/01/2013,2975,"Invoice-Private",,03/01/2013,03/10/2013,,50114592MO,-3296.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2480,2480,"CR:Basic Service F... M.Sullivan 201303: Sullivan, Muda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Sullivan 201303: Sullivan, Muda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,465,465,"CR:Resident Care -... M.Sullivan 201303: Sullivan, Muda",,,,,,,,,,,,,,,

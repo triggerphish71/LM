@@ -1,0 +1,8 @@
+BATCH,,201108,B,7700.0000,
+INVOICE,IN,,20810197,,08/29/2011,4042.0000,"Invoice-Private",,08/29/2011,08/29/2011,,20812686MO,-2556.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,620.0000,620.00,"CR:Limited Term Di... E.Crider 201108: Crider, Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,29,97.0000,2813.00,"One Bedroom for Aug: Crider, Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,29,21.0000,609.00,"Resident Care - Level 2 for Aug: Crider, Edgar",,,,,,,,,,,,,,,
+INVOICE,CM,,20810197,,08/29/2011,3658,"Invoice-Private",,08/29/2011,08/29/2011,,20812686MO,-2556.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3007,3007,"CR:One Bedroom... E.Crider 201108: Crider, Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,651,651,"CR:Resident Care -... E.Crider 201108: Crider, Edgar",,,,,,,,,,,,,,,

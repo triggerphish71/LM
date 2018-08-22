@@ -1,0 +1,6 @@
+BATCH,,201105,B,4700.0000,
+INVOICE,IN,,07010199,,05/12/2011,4700.0000,"MoveIn-Hall. Evelyn",,05/12/2011,05/12/2011,,07014008,4700.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,20,86.0000,1720,"Basic Service Fee - Studio         : Hall. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,20,73.0000,1460,"Resident Care - Level 6: Hall. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Hall. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1500.0000,1500,"New Resident Fee: Hall. Evelyn",,,,,,,,,,,,,,,

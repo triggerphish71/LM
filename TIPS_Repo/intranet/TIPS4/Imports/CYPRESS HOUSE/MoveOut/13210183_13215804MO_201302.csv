@@ -1,0 +1,8 @@
+BATCH,,201302,B,4539.0000,
+INVOICE,IN,,13210183,,02/04/2013,564.0000,"Invoice-Private",,02/04/2013,02/04/2013,,13215804MO,-3411.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,4,85.0000,340.00,"Basic Service Fee - Studio for Feb: Wilson, Dolores E",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,4,56.0000,224.00,"Resident Care - Level 4 for Feb: Wilson, Dolores E",,,,,,,,,,,,,,,
+INVOICE,CM,,13210183,,02/04/2013,3975,"Invoice-Private",,02/04/2013,02/04/2013,,13215804MO,-3411.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2380,2380,"CR:Basic Service F... D.Wilson 201302: Wilson, Dolores E",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... D.Wilson 201302: Wilson, Dolores E",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1568,1568,"CR:Resident Care -... D.Wilson 201302: Wilson, Dolores E",,,,,,,,,,,,,,,

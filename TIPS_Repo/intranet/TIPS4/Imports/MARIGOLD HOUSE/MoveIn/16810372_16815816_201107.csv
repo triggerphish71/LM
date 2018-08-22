@@ -1,0 +1,6 @@
+BATCH,,201107,B,2307.0000,
+INVOICE,IN,,16810372,,07/28/2011,2307.0000,"MoveIn-Miller. Otis",,07/28/2011,07/28/2011,,16815816,6455.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,4,112.0000,448,"O.Miller: Basic Service Fee - One BR Premium: Miller. Otis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,4,21.0000,84,"O.Miller: Resident Care - Level 2: Miller. Otis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Miller. Otis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Miller. Otis",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,3574.3000,
+INVOICE,IN,,52310136,,04/01/2013,115.3000,"Invoice-Private",,04/01/2013,04/10/2013,,52312245MO,-3343.7000,,,,,,,,,,
+TRANSACTION,3020,010103523,1,82.0000,82.00,"Basic Service Fee - Studio for Apr: Hutchinson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,33.3000,33.30,"Resident Care - Level 18 for Apr: Hutchinson, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,52310136,,04/01/2013,3459,"Invoice-Private",,04/01/2013,04/10/2013,,52312245MO,-3343.7000,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2460,2460,"CR:Basic Service F... R.Hutchinson 201304: Hutchinson, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,999,999,"CR:Resident Care -... R.Hutchinson 201304: Hutchinson, Richard",,,,,,,,,,,,,,,

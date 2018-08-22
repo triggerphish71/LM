@@ -1,0 +1,4 @@
+BATCH,,201112,B,3300.0000,
+INVOICE,IN,,13110267,,12/14/2011,3300.0000,"MoveIn-Johnson. Frisco",,12/14/2011,12/14/2011,,13114115,3300.0000,,,,,,,,,,
+TRANSACTION,3010,010308131,18,100.0000,1800,"Basic Service Fee - Studio: Johnson. Frisco",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1500.0000,1500,"New Resident Fee: Johnson. Frisco",,,,,,,,,,,,,,,

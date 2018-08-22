@@ -1,0 +1,7 @@
+BATCH,,201306,B,7257.0000,
+INVOICE,IN,,07410145,,06/29/2013,3567.0000,"Invoice-Private",,06/29/2013,06/29/2013,,07414390MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,29,51.0000,1479.00,"Basic Service Fee - Studio for Jun: Fannon, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,29,72.0000,2088.00,"Resident Care - Level 5 for Jun: Fannon, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,07410145,,06/29/2013,3690,"Invoice-Private",,06/29/2013,06/29/2013,,07414390MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,1530,1530,"CR:Basic Service F... T.Fannon 201306: Fannon, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,2160,2160,"CR:Resident Care -... T.Fannon 201306: Fannon, Thelma",,,,,,,,,,,,,,,

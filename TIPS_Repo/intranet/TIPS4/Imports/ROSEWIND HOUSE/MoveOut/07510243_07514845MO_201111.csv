@@ -1,0 +1,7 @@
+BATCH,,201111,B,5400.0000,
+INVOICE,IN,,07510243,,11/16/2011,2400.0000,"Invoice-Private",,11/16/2011,11/16/2011,,07514845MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,24,85.0000,2040.00,"Basic Service Fee - Studio for Nov: Stone, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,24,15.0000,360.00,"Resident Care - Level 1 for Nov: Stone, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,07510243,,11/16/2011,3000,"Invoice-Private",,11/16/2011,11/16/2011,,07514845MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2550,2550,"CR:Basic Service F... R.Stone 201111: Stone, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,450,450,"CR:Resident Care -... R.Stone 201111: Stone, Ruby",,,,,,,,,,,,,,,

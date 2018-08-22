@@ -1,0 +1,6 @@
+BATCH,,201210,B,5342.0000,
+INVOICE,IN,,16110190,,10/01/2012,2614.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16115664MO,-2694.0000,,,,,,,,,,
+TRANSACTION,3320,010313161,1,62.0000,62.00,"CR:Limited Term Di... N.Werther 201210: Werther, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313161,29,88.0000,2552.00,"Basic Service Fee - Studio for Oct: Werther, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,16110190,,10/01/2012,2728,"Invoice-Private",,10/01/2012,10/10/2012,,16115664MO,-2694.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... N.Werther 201210: Werther, Nancy",,,,,,,,,,,,,,,

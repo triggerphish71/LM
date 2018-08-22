@@ -1,0 +1,8 @@
+BATCH,,201111,B,7770.0000,
+INVOICE,IN,,21610142,,11/01/2011,4170.0000,"Invoice-Private",,11/01/2011,11/10/2011,,21613181MO,570.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,1770.0000,1770.00,"CR:Limited Term Di... E.Leber 201111: Leber, Elvira",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,20,21.0000,420.00,"Resident Care - Level 2 for Nov: Leber, Elvira",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,20,99.0000,1980.00,"Room and Board - One Bedroom for Nov: Leber, Elvira",,,,,,,,,,,,,,,
+INVOICE,CM,,21610142,,11/01/2011,3600,"Invoice-Private",,11/01/2011,11/10/2011,,21613181MO,570.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,630,630,"CR:Resident Care -... E.Leber 201111: Leber, Elvira",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2970,2970,"CR:Room and Board ... E.Leber 201111: Leber, Elvira",,,,,,,,,,,,,,,

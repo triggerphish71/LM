@@ -1,0 +1,6 @@
+BATCH,,201107,B,3680.0000,
+INVOICE,IN,,14810310,,07/07/2011,3680.0000,"MoveIn-Hulse. Siegurd",,07/07/2011,07/07/2011,,14814600,3680.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,25,88.0000,2200,"Basic Service Fee - Studio         : Hulse. Siegurd",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,25,18.0000,450,"Resident Care - Level 1: Hulse. Siegurd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Hulse. Siegurd",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Hulse. Siegurd",,,,,,,,,,,,,,,

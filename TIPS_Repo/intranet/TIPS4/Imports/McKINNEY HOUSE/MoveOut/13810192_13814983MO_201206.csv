@@ -1,0 +1,5 @@
+BATCH,,201206,B,2760.0000,
+INVOICE,IN,,13810192,,06/01/2012,1380.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13814983MO,-2819.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,46.0000,1380.00,"Credit for Limited Term Discount: Britton, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,13810192,,06/01/2012,1380,"Invoice-Private",,06/01/2012,06/10/2012,,13814983MO,-2819.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,46,1380,"Limited Term Discount: Britton, Joann",,,,,,,,,,,,,,,

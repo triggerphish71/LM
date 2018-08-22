@@ -1,0 +1,7 @@
+BATCH,,201212,B,3088.0000,
+INVOICE,IN,,16010364,,12/01/2012,1544.0000,"Invoice-Private",,12/01/2012,12/10/2012,,16015408MO,-2715.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25.00,"Monthly Cable: Hatch, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,49.0000,1519.00,"Credit for Limited Term Discount: Hatch, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,16010364,,12/01/2012,1544,"Invoice-Private",,12/01/2012,12/10/2012,,16015408MO,-2715.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"Credit for Monthly Cable: Hatch, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,49,1519,"Limited Term Discount: Hatch, Bernice",,,,,,,,,,,,,,,

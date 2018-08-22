@@ -1,0 +1,6 @@
+BATCH,,201802,B,5083.4700,
+INVOICE,IN,,13610466,,02/01/2018,5083.4700,"MoveIn-Spahr. Beverly",,02/01/2018,02/01/2018,,13619556,5083.4700,,,,,,,,,,
+TRANSACTION,3010,010009136,28,85.0000,2380,"Basic Service Fee - Studio: Spahr. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009136,1,2000.0000,2000,"Community Fee: Spahr. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009136,1,36.8000,36.8,"Monthly Cable: Spahr. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009136,1,666.6700,666.67,"Monthly Deferral Charge: Spahr. Beverly",,,,,,,,,,,,,,,

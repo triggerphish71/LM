@@ -1,0 +1,5 @@
+BATCH,,201203,B,7656.0000,
+INVOICE,IN,,09310205,,03/01/2012,3564.0000,"Invoice-Private",,03/01/2012,03/10/2012,,09315147MO,-528.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,27,132.0000,3564.00,"Basic Service Fee - One Bedroom for Mar: Stotz, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,09310205,,03/01/2012,4092,"Invoice-Private",,03/01/2012,03/10/2012,,09315147MO,-528.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,4092,4092,"CR:Basic Service F... E.Stotz 201203: Stotz, Elizabeth",,,,,,,,,,,,,,,

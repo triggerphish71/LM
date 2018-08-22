@@ -1,0 +1,7 @@
+BATCH,,201303,B,4224.0000,
+INVOICE,IN,,02110199,,03/01/2013,132.0000,"Invoice-Private",,03/01/2013,03/10/2013,,02115221MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,55.0000,55.00,"Basic Service Fee - Studio for Mar: Cook, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,77.0000,77.00,"Resident Care - Level 6 for Mar: Cook, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,02110199,,03/01/2013,4092,"Invoice-Private",,03/01/2013,03/10/2013,,02115221MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,1705,1705,"CR:Basic Service F... L.Cook 201303: Cook, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,2387,2387,"CR:Resident Care -... L.Cook 201303: Cook, Louise",,,,,,,,,,,,,,,

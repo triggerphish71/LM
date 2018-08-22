@@ -1,0 +1,6 @@
+BATCH,,201301,B,2052.0000,
+INVOICE,IN,,17610325,,01/18/2013,2052.0000,"MoveIn-Yearling. John",,01/18/2013,01/18/2013,,17614863,4376.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,14,73.0000,1022,"J.Yearling: Basic Service Fee - Studio: Yearling. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,750.0000,750,"New Tenant Fee: Yearling. John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,14,10.0000,140,"CC Meals: Yearling. John",,,,,,,,,,,,,,,
+TRANSACTION,3250,010315176,14,10.0000,140,"Resident Meals: Yearling. John",,,,,,,,,,,,,,,

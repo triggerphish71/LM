@@ -1,0 +1,6 @@
+BATCH,,201302,B,2829.0000,
+INVOICE,IN,,07810251,,02/05/2013,2829.0000,"MoveIn-Chutich. John",,02/05/2013,02/05/2013,,07814571,2829.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,24,81.0000,1944,"Basic Service Fee - Studio         : Chutich. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,24,15.0000,360,"Resident Care - Level 1: Chutich. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Chutich. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,500.0000,500,"New Resident Fee: Chutich. John",,,,,,,,,,,,,,,

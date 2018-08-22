@@ -1,0 +1,8 @@
+BATCH,,201204,B,11871.7500,
+INVOICE,IN,,14010001,,04/07/2012,5609.2500,"Invoice-Private",,04/07/2012,04/07/2012,,14013800MO,-7123.5000,,,,,,,,,,
+TRANSACTION,3020,010309140,27,88.0000,2376.00,"Basic Service Fee - Studio for Apr: Bryant, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,27,119.7500,3233.25,"Resident Care - Level 6+25 pts for Apr: Bryant, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14010001,,04/07/2012,6262.5,"Invoice-Private",,04/07/2012,04/07/2012,,14013800MO,-7123.5000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2640,2640,"CR:Basic Service F... H.Bryant 201204: Bryant, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... H.Bryant 201204: Bryant, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,3592.5,3592.5,"CR:Resident Care -... H.Bryant 201204: Bryant, Helen",,,,,,,,,,,,,,,

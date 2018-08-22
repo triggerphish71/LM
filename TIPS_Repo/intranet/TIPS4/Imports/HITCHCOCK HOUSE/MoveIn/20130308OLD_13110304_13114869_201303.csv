@@ -1,0 +1,5 @@
+BATCH,,201303,B,4356.0000,
+INVOICE,IN,,13110304,,03/08/2013,4356.0000,"MoveIn-Neal. James",,03/08/2013,03/08/2013,,13114869,4356.0000,,,,,,,,,,
+TRANSACTION,3010,010308131,24,103.0000,2472,"Basic Service Fee - Studio: Neal. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308131,24,16.0000,384,"Resident Care - Level 1: Neal. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1500.0000,1500,"New Resident Fee: Neal. James",,,,,,,,,,,,,,,

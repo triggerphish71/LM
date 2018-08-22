@@ -1,0 +1,7 @@
+BATCH,,201204,B,2162.0000,
+INVOICE,IN,,17410233,,04/15/2012,752.0000,"Invoice-Private",,04/15/2012,04/15/2012,,17414242MO,-658.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,16,31.0000,496.00,"Basic Service Fee - Second Resident for Apr: Ward, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,16,16.0000,256.00,"Resident Care - Level 1 for Apr: Ward, William",,,,,,,,,,,,,,,
+INVOICE,CM,,17410233,,04/15/2012,1410,"Invoice-Private",,04/15/2012,04/15/2012,,17414242MO,-658.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,930,930,"CR:Basic Service F... W.Ward 201204: Ward, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,480,480,"CR:Resident Care -... W.Ward 201204: Ward, William",,,,,,,,,,,,,,,

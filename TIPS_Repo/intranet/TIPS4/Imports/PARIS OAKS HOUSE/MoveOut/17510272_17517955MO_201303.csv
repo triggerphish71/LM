@@ -1,0 +1,5 @@
+BATCH,,201303,B,1980.0000,
+INVOICE,IN,,17510272,,03/01/2013,120.0000,"Invoice-Private",,03/01/2013,03/01/2013,,17517955MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,2,60.0000,120.00,"Basic Service Fee - Studio Deluxe for Mar: Taylor, Harrell",,,,,,,,,,,,,,,
+INVOICE,CM,,17510272,,03/01/2013,1860,"Invoice-Private",,03/01/2013,03/01/2013,,17517955MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1860,1860,"CR:Basic Service F... H.Taylor 201303: Taylor, Harrell",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,5027.0000,
+INVOICE,IN,,13610336,,01/21/2013,2016.0000,"Invoice-Private",,01/21/2013,01/21/2013,,13615421MO,-3718.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,21,65.0000,1365.00,"Basic Service Fee - Studio for Jan: Ripley, Theodora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,21,31.0000,651.00,"Resident Care - Level 2 for Jan: Ripley, Theodora",,,,,,,,,,,,,,,
+INVOICE,CM,,13610336,,01/21/2013,3011,"Invoice-Private",,01/21/2013,01/21/2013,,13615421MO,-3718.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2015,2015,"CR:Basic Service F... T.Ripley 201301: Ripley, Theodora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... T.Ripley 201301: Ripley, Theodora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... T.Ripley 201301: Ripley, Theodora",,,,,,,,,,,,,,,

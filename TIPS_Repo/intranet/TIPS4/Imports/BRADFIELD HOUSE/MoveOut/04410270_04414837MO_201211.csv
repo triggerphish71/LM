@@ -1,0 +1,8 @@
+BATCH,,201211,B,4471.0000,
+INVOICE,IN,,04410270,,11/09/2012,1026.0000,"Invoice-Private",,11/09/2012,11/09/2012,,04414837MO,-2419.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,9,85.0000,765.00,"Basic Service Fee - Studio for Nov: Wilson, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,9,29.0000,261.00,"Resident Care - Level 2 for Nov: Wilson, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,04410270,,11/09/2012,3445,"Invoice-Private",,11/09/2012,11/09/2012,,04414837MO,-2419.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2550,2550,"CR:Basic Service F... E.Wilson 201211: Wilson, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25,25,"CR:Monthly Cable... E.Wilson 201211: Wilson, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,870,870,"CR:Resident Care -... E.Wilson 201211: Wilson, Eunice",,,,,,,,,,,,,,,

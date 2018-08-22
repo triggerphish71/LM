@@ -1,0 +1,6 @@
+BATCH,,201111,B,4643.0000,
+INVOICE,IN,,05310231,,11/14/2011,4643.0000,"MoveIn-LaBuwi. Diane",,11/14/2011,11/14/2011,,05314318,4643.0000,,,,,,,,,,
+TRANSACTION,3010,010101053,17,91.0000,1547,"Basic Service Fee - Studio: LaBuwi. Diane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,17,63.0000,1071,"Resident Care - Level 36: LaBuwi. Diane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: LaBuwi. Diane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: LaBuwi. Diane",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,1155.0000,
+INVOICE,IN,,06610228,,07/02/2013,70.0000,"Invoice-Private",,07/02/2013,07/02/2013,,06615114MO,-1015.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,2,35.0000,70.00,"Basic Service Fee - Second Resident for Jul: Peterman, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,06610228,,07/02/2013,1085,"Invoice-Private",,07/02/2013,07/02/2013,,06615114MO,-1015.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,1085,1085,"CR:Basic Service F... M.Peterman 201307: Peterman, Marilyn",,,,,,,,,,,,,,,

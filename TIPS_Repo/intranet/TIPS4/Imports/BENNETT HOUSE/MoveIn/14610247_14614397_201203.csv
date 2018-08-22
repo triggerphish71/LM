@@ -1,0 +1,5 @@
+BATCH,,201203,B,3440.0000,
+INVOICE,IN,,14610247,,03/01/2012,3440.0000,"March_Rent-Temple. Rennah",,03/01/2012,03/10/2012,,14614397,5350.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,31,93.0000,2883,"Basic Service Fee - Studio: Temple. Rennah",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309146,31,17.0000,527,"Resident Care - Level 1: Temple. Rennah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Temple. Rennah",,,,,,,,,,,,,,,

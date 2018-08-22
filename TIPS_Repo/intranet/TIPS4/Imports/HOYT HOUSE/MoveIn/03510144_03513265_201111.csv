@@ -1,0 +1,6 @@
+BATCH,,201111,B,4360.0000,
+INVOICE,IN,,03510144,,11/04/2011,4360.0000,"MoveIn-Fort. Woodrow",,11/04/2011,11/04/2011,,03513265,4360.0000,,,,,,,,,,
+TRANSACTION,3010,010202035,27,89.0000,2403,"W.Fort: Basic Service Fee - Studio: Fort. Woodrow",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202035,27,16.0000,432,"W.Fort: Resident Care - Level 1: Fort. Woodrow",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25.0000,25,"Monthly Cable: Fort. Woodrow",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202035,1,1500.0000,1500,"New Resident Fee: Fort. Woodrow",,,,,,,,,,,,,,,

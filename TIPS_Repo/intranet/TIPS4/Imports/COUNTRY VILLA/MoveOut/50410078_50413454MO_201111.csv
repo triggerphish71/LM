@@ -1,0 +1,6 @@
+BATCH,,201111,B,2633.2200,
+INVOICE,CM,,50410078,,11/01/2011,2633.22,"Invoice-Medicaid",,11/01/2011,11/10/2011,,50413454MO,-4435.6900,,,,,,,,,,
+TRANSACTION,3031,010318504,1,4,4,"CR:Med Private CoP... S.Duma 201111: Duma, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3021,010318504,1,180,180,"CR:Medicaid Co-Pay... S.Duma 201111: Duma, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3021,010318504,1,846,846,"CR:Medicaid Room &... S.Duma 201111: Duma, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3022,010318504,1,1603.22,1603.22,"CR:State Medicaid... S.Duma 201111: Duma, Sarah",,,,,,,,,,,,,,,

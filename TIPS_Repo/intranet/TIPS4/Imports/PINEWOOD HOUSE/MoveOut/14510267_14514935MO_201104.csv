@@ -1,0 +1,7 @@
+BATCH,,201104,B,6989.0000,
+INVOICE,IN,,14510267,,04/28/2011,3392.0000,"Invoice-Private",,04/28/2011,04/28/2011,,14514935MO,-3859.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,60.0000,60.00,"CR:Limited Term Di... C.Crosby 201104: Crosby, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,28,119.0000,3332.00,"Basic Service Fee - One Bedroom for Apr: Crosby, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,14510267,,04/28/2011,3597,"Invoice-Private",,04/28/2011,04/28/2011,,14514935MO,-3859.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3570,3570,"CR:Basic Service F... C.Crosby 201104: Crosby, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... C.Crosby 201104: Crosby, Carl",,,,,,,,,,,,,,,

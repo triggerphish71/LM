@@ -1,0 +1,6 @@
+BATCH,,201301,B,5340.0000,
+INVOICE,IN,,13710232,,01/27/2013,2520.0000,"Invoice-Private",,01/27/2013,01/27/2013,,13714815MO,-2850.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,28,90.0000,2520.00,"Room and Board - Studio for Jan: Kistler, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,13710232,,01/27/2013,2820,"Invoice-Private",,01/27/2013,01/27/2013,,13714815MO,-2850.0000,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... F.Kistler 201301: Kistler, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Room and Board ... F.Kistler 201301: Kistler, Frances",,,,,,,,,,,,,,,

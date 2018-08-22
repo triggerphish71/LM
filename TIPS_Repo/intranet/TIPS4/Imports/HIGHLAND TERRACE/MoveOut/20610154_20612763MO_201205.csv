@@ -1,0 +1,7 @@
+BATCH,,201205,B,6272.0000,
+INVOICE,IN,,20610154,,05/25/2012,2800.0000,"Invoice-Private",,05/25/2012,05/25/2012,,20612763MO,-4032.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,25,21.0000,525.00,"Resident Care - Level 2 for May: Scarberry, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,25,91.0000,2275.00,"Studio for May: Scarberry, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,20610154,,05/25/2012,3472,"Invoice-Private",,05/25/2012,05/25/2012,,20612763MO,-4032.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,651,651,"CR:Resident Care -... P.Scarberry 201205: Scarberry, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... P.Scarberry 201205: Scarberry, Paul",,,,,,,,,,,,,,,

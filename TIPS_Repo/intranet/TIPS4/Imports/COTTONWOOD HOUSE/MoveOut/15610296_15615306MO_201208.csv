@@ -1,0 +1,5 @@
+BATCH,,201208,B,1672.0000,
+INVOICE,IN,,15610296,,08/13/2012,494.0000,"Invoice-Private",,08/13/2012,08/13/2012,,15615306MO,-684.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,13,38.0000,494.00,"Basic Service Fee - Second Resident for Aug: Heins, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,15610296,,08/13/2012,1178,"Invoice-Private",,08/13/2012,08/13/2012,,15615306MO,-684.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1178,1178,"CR:Basic Service F... W.Heins 201208: Heins, Wilma",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,4350.0000,
+INVOICE,IN,,16310030,,11/01/2012,390.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16316889MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,390.0000,390.00,"CR:Limited Term Di... E.Arbuthnot 201211: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,16310030,,11/01/2012,3960,"Invoice-Private",,11/01/2012,11/10/2012,,16316889MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3240,3240,"CR:Basic Service F... E.Arbuthnot 201211: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,720,720,"CR:Resident Care -... E.Arbuthnot 201211: Arbuthnot, Ethel",,,,,,,,,,,,,,,

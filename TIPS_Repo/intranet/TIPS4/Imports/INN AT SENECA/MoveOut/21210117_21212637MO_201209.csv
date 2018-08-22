@@ -1,0 +1,5 @@
+BATCH,,201209,B,82.0000,
+INVOICE,IN,,21210117,,09/01/2012,41.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21212637MO,-3791.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Carter, Maurice",,,,,,,,,,,,,,,
+INVOICE,CM,,21210117,,09/01/2012,41,"Invoice-Private",,09/01/2012,09/10/2012,,21212637MO,-3791.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Carter, Maurice",,,,,,,,,,,,,,,

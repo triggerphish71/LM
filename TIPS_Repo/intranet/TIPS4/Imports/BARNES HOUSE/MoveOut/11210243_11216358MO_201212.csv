@@ -1,0 +1,7 @@
+BATCH,,201212,B,3683.0000,
+INVOICE,IN,,11210243,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,11216358MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3320,010310112,1,62.0000,62.00,"CR:Limited Term Di... T.Kunkle 201212: Kunkle, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,11210243,,12/01/2012,3621,"Invoice-Private",,12/01/2012,12/10/2012,,11216358MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,3007,3007,"CR:Basic Service F... T.Kunkle 201212: Kunkle, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... T.Kunkle 201212: Kunkle, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,589,589,"CR:Resident Care -... T.Kunkle 201212: Kunkle, Tom",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,2616.0000,
+INVOICE,CM,,50310261,,02/01/2012,2616,"Invoice-Private",,02/01/2012,02/10/2012,,50313999MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2175,2175,"CR:Basic Service F... B.Davis 201202: Davis, Bradford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... B.Davis 201202: Davis, Bradford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,406,406,"CR:Resident Care -... B.Davis 201202: Davis, Bradford",,,,,,,,,,,,,,,

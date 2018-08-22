@@ -1,0 +1,5 @@
+BATCH,,201109,B,4224.0000,
+INVOICE,IN,,03410261,,09/02/2011,4224.0000,"MoveIn-Kutz. Benard",,09/02/2011,09/02/2011,,03415174,4224.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,29,93.0000,2697,"Basic Service Fee - Studio         : Kutz. Benard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Kutz. Benard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Kutz. Benard",,,,,,,,,,,,,,,

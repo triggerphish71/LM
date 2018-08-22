@@ -1,0 +1,6 @@
+BATCH,,201112,B,6000.0000,
+INVOICE,IN,,13110265,,12/14/2011,1400.0000,"Invoice-Private",,12/14/2011,12/14/2011,,13114113MO,-3200.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,14,100.0000,1400.00,"Basic Service Fee - Studio for Dec: Waldrop, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,13110265,,12/14/2011,4600,"Invoice-Private",,12/14/2011,12/14/2011,,13114113MO,-3200.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... R.Waldrop 201112: Waldrop, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1500,1500,"CR:New Resident Fe... R.Waldrop 201112: Waldrop, Ralph",,,,,,,,,,,,,,,

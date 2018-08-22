@@ -1,0 +1,7 @@
+BATCH,,201306,B,7100.0000,
+INVOICE,IN,,08610216,,06/01/2013,2840.0000,"Invoice-Private",,06/01/2013,06/10/2013,,08615307MO,-1420.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,20,126.0000,2520.00,"Basic Service Fee - One Bedroom for Jun: Wagner, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,20,16.0000,320.00,"Resident Care - Level 1 for Jun: Wagner, Lewis",,,,,,,,,,,,,,,
+INVOICE,CM,,08610216,,06/01/2013,4260,"Invoice-Private",,06/01/2013,06/10/2013,,08615307MO,-1420.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,3780,3780,"CR:Basic Service F... L.Wagner 201306: Wagner, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,480,480,"CR:Resident Care -... L.Wagner 201306: Wagner, Lewis",,,,,,,,,,,,,,,

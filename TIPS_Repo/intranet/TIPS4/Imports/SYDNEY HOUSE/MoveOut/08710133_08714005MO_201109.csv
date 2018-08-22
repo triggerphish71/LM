@@ -1,0 +1,8 @@
+BATCH,,201109,B,3561.4000,
+INVOICE,IN,,08710133,,09/06/2011,999.4000,"Invoice-Private",,09/06/2011,09/06/2011,,08714005MO,-1562.6000,,,,,,,,,,
+TRANSACTION,3320,010103087,1,60.0000,60.00,"CR:Limited Term Di... R.Peterson 201109: Peterson, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103087,11,82.0000,902.00,"Basic Service Fee - Studio for Sep: Peterson, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,11,3.4000,37.40,"Resident Care - Level 2 for Sep: Peterson, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,08710133,,09/06/2011,2562,"Invoice-Private",,09/06/2011,09/06/2011,,08714005MO,-1562.6000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2460,2460,"CR:Basic Service F... R.Peterson 201109: Peterson, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,102,102,"CR:Resident Care -... R.Peterson 201109: Peterson, Rachel",,,,,,,,,,,,,,,

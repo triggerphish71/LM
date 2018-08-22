@@ -1,0 +1,6 @@
+BATCH,,201304,B,3574.0000,
+INVOICE,IN,,53310277,,04/09/2013,819.0000,"Invoice-Private",,04/09/2013,04/09/2013,,53315351MO,-1936.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,9,91.0000,819.00,"Basic Service Fee - Studio for Apr: Briski, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,53310277,,04/09/2013,2755,"Invoice-Private",,04/09/2013,04/09/2013,,53315351MO,-1936.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2730,2730,"CR:Basic Service F... A.Briski 201304: Briski, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... A.Briski 201304: Briski, Ann",,,,,,,,,,,,,,,

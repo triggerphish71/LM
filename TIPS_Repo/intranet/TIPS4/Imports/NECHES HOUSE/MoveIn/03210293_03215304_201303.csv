@@ -1,0 +1,5 @@
+BATCH,,201303,B,2610.0000,
+INVOICE,IN,,03210293,,03/22/2013,2610.0000,"MoveIn-Moorer. Darwin",,03/22/2013,03/22/2013,,03215304,5940.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,10,94.0000,940,"Basic Service Fee - Studio: Moorer. Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,10,17.0000,170,"Resident Care - Level 1: Moorer. Darwin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Moorer. Darwin",,,,,,,,,,,,,,,

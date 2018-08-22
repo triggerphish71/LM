@@ -1,0 +1,5 @@
+BATCH,,201305,B,3379.0000,
+INVOICE,CM,,04410287,,05/01/2013,3379,"Invoice-Private",,05/01/2013,05/10/2013,,04415062MO,-5071.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1705,1705,"CR:Basic Service F... N.Bench 201305: Bench, Newman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,899,899,"CR:Resident Care -... N.Bench 201305: Bench, Newman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,775,775,"CR:Resident Care L... N.Bench 201305: Bench, Newman",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,12204.0000,
+INVOICE,IN,,08310176,,11/24/2011,5424.0000,"Invoice-Private",,11/24/2011,11/24/2011,,08314030MO,-8362.0000,,,,,,,,,,
+TRANSACTION,3027,010306083,24,96.0000,2304.00,"Resident Care - Level 6 for Nov: McDonald, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,24,130.0000,3120.00,"Room and Board - One Bedroom for Nov: McDonald, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,08310176,,11/24/2011,6780,"Invoice-Private",,11/24/2011,11/24/2011,,08314030MO,-8362.0000,,,,,,,,,,
+TRANSACTION,3027,010306083,1,2880,2880,"CR:Resident Care -... N.McDonald 201111: McDonald, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3900,3900,"CR:Room and Board ... N.McDonald 201111: McDonald, Norma",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,3265.0000,
+INVOICE,IN,,04910178,,06/01/2011,720.0000,"Invoice-Private",,06/01/2011,06/10/2011,,04913076MO,-1752.8000,,,,,,,,,,
+TRANSACTION,3320,010101049,1,720.0000,720.00,"CR:Limited Term Di... H.Miller 201106: Miller, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,04910178,,06/01/2011,2545,"Invoice-Private",,06/01/2011,06/10/2011,,04913076MO,-1752.8000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2520,2520,"CR:Basic Service F... H.Miller 201106: Miller, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... H.Miller 201106: Miller, Helen",,,,,,,,,,,,,,,

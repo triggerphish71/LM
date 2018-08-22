@@ -1,0 +1,5 @@
+BATCH,,201109,B,3847.0000,
+INVOICE,IN,,00810240,,09/02/2011,3847.0000,"MoveIn-Davidson. Susie",,09/02/2011,09/02/2011,,00814428,3847.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,29,80.0000,2320,"Basic Service Fee - Studio         : Davidson. Susie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Davidson. Susie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Davidson. Susie",,,,,,,,,,,,,,,

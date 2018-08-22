@@ -1,0 +1,5 @@
+BATCH,,201208,B,5772.0000,
+INVOICE,IN,,02411310,,08/01/2012,2331.0000,"Invoice-Private",,08/01/2012,08/10/2012,,02415818MO,-1110.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,21,111.0000,2331.00,"Room and Board - One Bedroom for Aug: Hanson, Lilian",,,,,,,,,,,,,,,
+INVOICE,CM,,02411310,,08/01/2012,3441,"Invoice-Private",,08/01/2012,08/10/2012,,02415818MO,-1110.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3441,3441,"CR:Room and Board ... L.Hanson 201208: Hanson, Lilian",,,,,,,,,,,,,,,

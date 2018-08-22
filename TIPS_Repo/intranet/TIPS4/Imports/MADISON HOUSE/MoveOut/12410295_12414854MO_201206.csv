@@ -1,0 +1,8 @@
+BATCH,,201206,B,6083.0000,
+INVOICE,IN,,12410295,,06/04/2012,1008.0000,"Invoice-Private",,06/04/2012,06/04/2012,,12414854MO,-4067.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,6,81.0000,486.00,"Basic Service Fee - Studio for Jun: Pospisil, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,6,87.0000,522.00,"Resident Care - Level 6 for Jun: Pospisil, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,12410295,,06/04/2012,5075,"Invoice-Private",,06/04/2012,06/04/2012,,12414854MO,-4067.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2430,2430,"CR:Basic Service F... R.Pospisil 201206: Pospisil, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... R.Pospisil 201206: Pospisil, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,2610,2610,"CR:Resident Care -... R.Pospisil 201206: Pospisil, Richard",,,,,,,,,,,,,,,

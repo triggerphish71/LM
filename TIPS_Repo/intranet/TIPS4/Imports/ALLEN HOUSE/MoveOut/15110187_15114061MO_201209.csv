@@ -1,0 +1,5 @@
+BATCH,,201209,B,1404.0000,
+INVOICE,IN,,15110187,,09/09/2012,324.0000,"Invoice-Private",,09/09/2012,09/09/2012,,15114061MO,-756.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,9,36.0000,324.00,"Basic Service Fee - Second Resident for Sep: Newberg, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,15110187,,09/09/2012,1080,"Invoice-Private",,09/09/2012,09/09/2012,,15114061MO,-756.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,1080,1080,"CR:Basic Service F... R.Newberg 201209: Newberg, Roy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,8586.0000,
+INVOICE,IN,,07210166,,05/20/2013,3657.0000,"Invoice-Private",,05/20/2013,05/20/2013,,07214423MO,-6042.0000,,,,,,,,,,
+TRANSACTION,3027,010305072,23,62.0000,1426.00,"Resident Care - Level 4 for May: Bayer, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,23,97.0000,2231.00,"Room and Board - Studio for May: Bayer, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,07210166,,05/20/2013,4929,"Invoice-Private",,05/20/2013,05/20/2013,,07214423MO,-6042.0000,,,,,,,,,,
+TRANSACTION,3027,010305072,1,1922,1922,"CR:Resident Care -... C.Bayer 201305: Bayer, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3007,3007,"CR:Room and Board ... C.Bayer 201305: Bayer, Clarence",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,6814.0000,
+INVOICE,IN,,12910133,,09/22/2011,2944.0000,"Invoice-Private",,09/22/2011,09/22/2011,,12915532MO,-4924.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,23,92.0000,2116.00,"Basic Service Fee - Studio for Sep: McIltrot, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,23,36.0000,828.00,"Resident Care - Level 2 for Sep: McIltrot, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,12910133,,09/22/2011,3870,"Invoice-Private",,09/22/2011,09/22/2011,,12915532MO,-4924.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2760,2760,"CR:Basic Service F... P.McIltrot 201109: McIltrot, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... P.McIltrot 201109: McIltrot, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1080,1080,"CR:Resident Care -... P.McIltrot 201109: McIltrot, Phyllis",,,,,,,,,,,,,,,

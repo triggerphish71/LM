@@ -1,0 +1,7 @@
+BATCH,,201110,B,5313.4000,
+INVOICE,IN,,04210192,,10/13/2011,1876.4000,"Invoice-Private",,10/13/2011,10/13/2011,,04213812MO,-1560.6000,,,,,,,,,,
+TRANSACTION,3316,010202042,1,446.4000,446.40,"CR:Employee Discou... A.Allen 201110: Allen, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,13,110.0000,1430.00,"Room and Board - One Bedroom for Oct: Allen, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,04210192,,10/13/2011,3437,"Invoice-Private",,10/13/2011,10/13/2011,,04213812MO,-1560.6000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... A.Allen 201110: Allen, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3410,3410,"CR:Room and Board ... A.Allen 201110: Allen, Alice",,,,,,,,,,,,,,,

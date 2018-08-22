@@ -1,0 +1,6 @@
+BATCH,,201304,B,2757.0000,
+INVOICE,IN,,16310310,,04/01/2013,780.0000,"Invoice-Private",,04/01/2013,04/01/2013,,16317084MO,-1197.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,12,65.0000,780.00,"Basic Service Fee - Studio Deluxe for Apr: Richardson, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,16310310,,04/01/2013,1977,"Invoice-Private",,04/01/2013,04/01/2013,,16317084MO,-1197.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,1950,1950,"CR:Basic Service F... M.Richardson 201304: Richardson, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... M.Richardson 201304: Richardson, Margaret",,,,,,,,,,,,,,,

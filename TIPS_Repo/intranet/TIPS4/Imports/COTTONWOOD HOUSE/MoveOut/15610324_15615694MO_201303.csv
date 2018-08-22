@@ -1,0 +1,7 @@
+BATCH,,201303,B,7182.0000,
+INVOICE,IN,,15610324,,03/26/2013,3276.0000,"Invoice-Private",,03/26/2013,03/26/2013,,15615694MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,26,108.0000,2808.00,"Basic Service Fee - One Bedroom for Mar: Curry, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,26,18.0000,468.00,"Resident Care - Level 1 for Mar: Curry, William",,,,,,,,,,,,,,,
+INVOICE,CM,,15610324,,03/26/2013,3906,"Invoice-Private",,03/26/2013,03/26/2013,,15615694MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3348,3348,"CR:Basic Service F... W.Curry 201303: Curry, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,558,558,"CR:Resident Care -... W.Curry 201303: Curry, William",,,,,,,,,,,,,,,

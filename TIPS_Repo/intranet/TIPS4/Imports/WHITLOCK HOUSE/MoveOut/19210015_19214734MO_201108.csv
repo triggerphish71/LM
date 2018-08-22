@@ -1,0 +1,7 @@
+BATCH,,201108,B,938.0000,
+INVOICE,IN,,19210015,,08/01/2011,469.0000,"Invoice-Private",,08/01/2011,08/10/2011,,19214734MO,-4012.0000,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35.0000,35.00,"Pendant Fee: Ray, Dean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309192,31,14.0000,434.00,"Credit for Limited Term Discount: Ray, Dean",,,,,,,,,,,,,,,
+INVOICE,CM,,19210015,,08/01/2011,469,"Invoice-Private",,08/01/2011,08/10/2011,,19214734MO,-4012.0000,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"Credit for Pendant Fee: Ray, Dean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309192,31,14,434,"Limited Term Discount: Ray, Dean",,,,,,,,,,,,,,,

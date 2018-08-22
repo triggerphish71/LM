@@ -1,0 +1,5 @@
+BATCH,,201212,B,2604.0000,
+INVOICE,IN,,08810207,,12/01/2012,1302.0000,"Invoice-Private",,12/01/2012,12/10/2012,,08814509MO,-4509.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,42.0000,1302.00,"Credit for Limited Term Discount: Westfall, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,08810207,,12/01/2012,1302,"Invoice-Private",,12/01/2012,12/10/2012,,08814509MO,-4509.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,42,1302,"Limited Term Discount: Westfall, Gerald",,,,,,,,,,,,,,,

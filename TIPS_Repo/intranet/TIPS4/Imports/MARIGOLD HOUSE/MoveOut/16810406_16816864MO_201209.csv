@@ -1,0 +1,7 @@
+BATCH,,201209,B,4340.0000,
+INVOICE,IN,,16810406,,09/01/2012,140.0000,"Invoice-Private",,09/01/2012,09/01/2012,,16816864MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,94.0000,94.00,"Basic Service Fee - Studio Deluxe for Sep: Gaddis, Elouise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,46.0000,46.00,"Resident Care - Level 4 for Sep: Gaddis, Elouise",,,,,,,,,,,,,,,
+INVOICE,CM,,16810406,,09/01/2012,4200,"Invoice-Private",,09/01/2012,09/01/2012,,16816864MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2820,2820,"CR:Basic Service F... E.Gaddis 201209: Gaddis, Elouise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1380,1380,"CR:Resident Care -... E.Gaddis 201209: Gaddis, Elouise",,,,,,,,,,,,,,,

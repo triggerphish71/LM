@@ -1,0 +1,7 @@
+BATCH,,201109,B,4800.0000,
+INVOICE,IN,,53410348,,09/01/2011,1920.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53419681MO,-960.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,20,29.0000,580.00,"Basic Service Fee - Second Resident for Sep: Wake, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,20,67.0000,1340.00,"Resident Care - Level 3 for Sep: Wake, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,53410348,,09/01/2011,2880,"Invoice-Private",,09/01/2011,09/10/2011,,53419681MO,-960.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,870,870,"CR:Basic Service F... M.Wake 201109: Wake, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2010,2010,"CR:Resident Care -... M.Wake 201109: Wake, Margaret",,,,,,,,,,,,,,,

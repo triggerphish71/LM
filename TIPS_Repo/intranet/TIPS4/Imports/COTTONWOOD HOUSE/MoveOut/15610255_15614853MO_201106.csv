@@ -1,0 +1,7 @@
+BATCH,,201106,B,7784.0000,
+INVOICE,IN,,15610255,,06/26/2011,3614.0000,"Invoice-Private",,06/26/2011,06/26/2011,,15614853MO,-4865.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,26,107.0000,2782.00,"Basic Service Fee - One Bedroom for Jun: Nyffeler, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,26,32.0000,832.00,"Resident Care - Level 2 for Jun: Nyffeler, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,15610255,,06/26/2011,4170,"Invoice-Private",,06/26/2011,06/26/2011,,15614853MO,-4865.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3210,3210,"CR:Basic Service F... M.Nyffeler 201106: Nyffeler, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,960,960,"CR:Resident Care -... M.Nyffeler 201106: Nyffeler, Marjorie",,,,,,,,,,,,,,,

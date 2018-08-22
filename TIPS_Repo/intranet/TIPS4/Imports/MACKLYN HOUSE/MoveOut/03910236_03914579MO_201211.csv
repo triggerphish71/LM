@@ -1,0 +1,5 @@
+BATCH,,201211,B,1500.0000,
+INVOICE,IN,,03910236,,11/01/2012,750.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03914579MO,-2236.9600,,,,,,,,,,
+TRANSACTION,3320,010101039,30,25.0000,750.00,"Credit for Limited Term Discount: Carter, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,03910236,,11/01/2012,750,"Invoice-Private",,11/01/2012,11/10/2012,,03914579MO,-2236.9600,,,,,,,,,,
+TRANSACTION,3320,010101039,30,25,750,"Limited Term Discount: Carter, Wanda",,,,,,,,,,,,,,,

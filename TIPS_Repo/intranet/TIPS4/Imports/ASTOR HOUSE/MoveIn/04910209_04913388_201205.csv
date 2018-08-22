@@ -1,0 +1,5 @@
+BATCH,,201205,B,2943.9600,
+INVOICE,IN,,04910209,,05/01/2012,2943.9600,"May_Rent-Cordiner. Robert",,05/01/2012,05/10/2012,,04913388,6098.8800,,,,,,,,,,
+TRANSACTION,3010,010101049,31,87.0000,2697,"Basic Service Fee - Studio: Cordiner. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,31,7.1600,221.96,"Resident Care - Level 4: Cordiner. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Cordiner. Robert",,,,,,,,,,,,,,,

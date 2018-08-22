@@ -1,0 +1,6 @@
+BATCH,,201304,B,3836.2500,
+INVOICE,IN,,00110173,,04/06/2013,3836.2500,"MoveIn-Clowers. Vera",,04/06/2013,04/06/2013,,00113491,3836.2500,,,,,,,,,,
+TRANSACTION,3010,010101001,25,81.0000,2025,"Basic Service Fee - One Bedroom: Clowers. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,25,31.4500,786.25,"Resident Care - Level 17: Clowers. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Clowers. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Clowers. Vera",,,,,,,,,,,,,,,

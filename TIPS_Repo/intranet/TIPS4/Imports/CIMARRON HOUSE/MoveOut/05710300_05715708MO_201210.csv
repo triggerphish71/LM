@@ -1,0 +1,8 @@
+BATCH,,201210,B,8077.0000,
+INVOICE,IN,,05710300,,10/01/2012,3613.0000,"Invoice-Private",,10/01/2012,10/10/2012,,05715708MO,-851.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,1,589.0000,589.00,"CR:Limited Term Di... B.Duncan 201210: Duncan, Bobbye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202057,21,94.0000,1974.00,"Basic Service Fee - Studio for Oct: Duncan, Bobbye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,21,50.0000,1050.00,"Resident Care - Level 4 for Oct: Duncan, Bobbye",,,,,,,,,,,,,,,
+INVOICE,CM,,05710300,,10/01/2012,4464,"Invoice-Private",,10/01/2012,10/10/2012,,05715708MO,-851.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2914,2914,"CR:Basic Service F... B.Duncan 201210: Duncan, Bobbye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,1550,1550,"CR:Resident Care -... B.Duncan 201210: Duncan, Bobbye",,,,,,,,,,,,,,,

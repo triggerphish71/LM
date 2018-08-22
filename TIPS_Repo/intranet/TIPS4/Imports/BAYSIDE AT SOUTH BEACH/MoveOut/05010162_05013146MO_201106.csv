@@ -1,0 +1,7 @@
+BATCH,,201106,B,3140.0000,
+INVOICE,IN,,05010162,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,05013146MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3320,010101050,1,60.0000,60.00,"CR:Limited Term Di... C.Rathe 201106: Rathe, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,05010162,,06/01/2011,3080,"Invoice-Private",,06/01/2011,06/10/2011,,05013146MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3020,010101050,1,2280,2280,"CR:Basic Service F... C.Rathe 201106: Rathe, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101050,1,35,35,"CR:Monthly Cable... C.Rathe 201106: Rathe, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,765,765,"CR:Resident Care -... C.Rathe 201106: Rathe, Carol",,,,,,,,,,,,,,,

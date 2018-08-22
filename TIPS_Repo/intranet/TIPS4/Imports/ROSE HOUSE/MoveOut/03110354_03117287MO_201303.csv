@@ -1,0 +1,5 @@
+BATCH,,201303,B,54.0000,
+INVOICE,IN,,03110354,,03/01/2013,27.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03117287MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Badgett, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,03110354,,03/01/2013,27,"Invoice-Private",,03/01/2013,03/10/2013,,03117287MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Badgett, Shirley",,,,,,,,,,,,,,,

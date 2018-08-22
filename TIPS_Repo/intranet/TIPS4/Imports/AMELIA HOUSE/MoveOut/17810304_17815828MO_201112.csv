@@ -1,0 +1,7 @@
+BATCH,,201112,B,677.6000,
+INVOICE,IN,,17810304,,12/01/2011,338.8000,"Invoice-Private",,12/01/2011,12/10/2011,,17815828MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Ruehlman, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3312,010212178,31,9.8000,303.80,"Credit for Two Room Rental Discount: Ruehlman, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,17810304,,12/01/2011,338.8,"Invoice-Private",,12/01/2011,12/10/2011,,17815828MO,-2583.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Ruehlman, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3312,010212178,31,9.8,303.8,"Two Room Rental Discount: Ruehlman, Donald",,,,,,,,,,,,,,,

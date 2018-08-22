@@ -1,0 +1,7 @@
+BATCH,,201307,B,5305.0000,
+INVOICE,IN,,15410197,,07/01/2013,1550.0000,"Invoice-Private",,07/01/2013,07/10/2013,,15415422MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1550.0000,1550.00,"CR:Resident Care L... L.Bruce 201307: Bruce, Lydia",,,,,,,,,,,,,,,
+INVOICE,CM,,15410197,,07/01/2013,3755,"Invoice-Private",,07/01/2013,07/10/2013,,15415422MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2170,2170,"CR:Basic Service F... L.Bruce 201307: Bruce, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... L.Bruce 201307: Bruce, Lydia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1550,1550,"CR:Resident Care -... L.Bruce 201307: Bruce, Lydia",,,,,,,,,,,,,,,

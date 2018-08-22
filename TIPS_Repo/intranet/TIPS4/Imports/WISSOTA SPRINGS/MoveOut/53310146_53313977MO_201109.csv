@@ -1,0 +1,8 @@
+BATCH,,201109,B,3867.0000,
+INVOICE,IN,,53310146,,09/01/2011,452.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53313977MO,-2963.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,4,85.0000,340.00,"Basic Service Fee - Studio for Sep: Gladwell, Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,4,28.0000,112.00,"Resident Care - Level 2 for Sep: Gladwell, Pearl",,,,,,,,,,,,,,,
+INVOICE,CM,,53310146,,09/01/2011,3415,"Invoice-Private",,09/01/2011,09/10/2011,,53313977MO,-2963.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2550,2550,"CR:Basic Service F... P.Gladwell 201109: Gladwell, Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... P.Gladwell 201109: Gladwell, Pearl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,840,840,"CR:Resident Care -... P.Gladwell 201109: Gladwell, Pearl",,,,,,,,,,,,,,,

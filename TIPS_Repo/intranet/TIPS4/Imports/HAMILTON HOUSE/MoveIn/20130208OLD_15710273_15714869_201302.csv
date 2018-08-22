@@ -1,0 +1,5 @@
+BATCH,,201302,B,2340.0000,
+INVOICE,IN,,15710273,,02/08/2013,2340.0000,"MoveIn-Zern. Galen",,02/08/2013,02/08/2013,,15714869,2340.0000,,,,,,,,,,
+TRANSACTION,3010,010309157,21,92.0000,1932,"Basic Service Fee - Studio: Zern. Galen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309157,21,18.0000,378,"Resident Care - Level 1: Zern. Galen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30,"Monthly Cable: Zern. Galen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,60.0000,
+INVOICE,IN,,19810307,,11/01/2012,30.0000,"Invoice-Private",,11/01/2012,11/10/2012,,19817835MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Gaul, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,19810307,,11/01/2012,30,"Invoice-Private",,11/01/2012,11/10/2012,,19817835MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Gaul, Shirley",,,,,,,,,,,,,,,

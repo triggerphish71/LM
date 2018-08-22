@@ -1,0 +1,6 @@
+BATCH,,201112,B,4748.0000,
+INVOICE,IN,,19410228,,12/08/2011,4748.0000,"MoveIn-Mast. Harlan",,12/08/2011,12/08/2011,,19414129,4748.0000,,,,,,,,,,
+TRANSACTION,3010,010212194,24,75.0000,1800,"Basic Service Fee - Studio: Mast. Harlan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212194,24,17.0000,408,"Swan Personal Care - L1: Mast. Harlan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40,"Monthly Cable: Mast. Harlan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212194,1,2500.0000,2500,"New Resident Fee: Mast. Harlan",,,,,,,,,,,,,,,

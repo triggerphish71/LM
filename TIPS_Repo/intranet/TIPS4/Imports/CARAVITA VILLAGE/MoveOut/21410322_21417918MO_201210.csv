@@ -1,0 +1,7 @@
+BATCH,,201210,B,4608.0000,
+INVOICE,IN,,21410322,,10/01/2012,144.0000,"Invoice-Private",,10/01/2012,10/01/2012,,21417918MO,-4320.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,54.0000,54.00,"Resident Care - Level 5 for Oct: Barton, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,90.0000,90.00,"Studio AL B for Oct: Barton, James",,,,,,,,,,,,,,,
+INVOICE,CM,,21410322,,10/01/2012,4464,"Invoice-Private",,10/01/2012,10/01/2012,,21417918MO,-4320.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1674,1674,"CR:Resident Care -... J.Barton 201210: Barton, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2790,2790,"CR:Studio AL B... J.Barton 201210: Barton, James",,,,,,,,,,,,,,,

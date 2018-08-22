@@ -1,0 +1,7 @@
+BATCH,,201307,B,80.0000,
+INVOICE,IN,,17810319,,07/01/2013,40.0000,"Invoice-Private",,07/01/2013,07/10/2013,,17816587MO,-3070.0000,,,,,,,,,,
+TRANSACTION,3130,010212178,1,30.0000,30.00,"Pendant Fee: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3228,010212178,1,10.0000,10.00,"Sharps Disposal - 2 Per Day: Petersen, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,17810319,,07/01/2013,40,"Invoice-Private",,07/01/2013,07/10/2013,,17816587MO,-3070.0000,,,,,,,,,,
+TRANSACTION,3130,010212178,1,30,30,"Credit for Pendant Fee: Petersen, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3228,010212178,1,10,10,"Credit for Sharps Disposal - 2 Per Day: Petersen, Jean",,,,,,,,,,,,,,,

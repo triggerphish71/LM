@@ -1,0 +1,8 @@
+BATCH,,201305,B,6467.0000,
+INVOICE,IN,,04510264,,05/25/2013,2875.0000,"Invoice-Private",,05/25/2013,05/25/2013,,04514573MO,-4194.0000,,,,,,,,,,
+TRANSACTION,3027,010202045,25,16.0000,400.00,"Resident Care - Level 1 for May: Buch, Pegge",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,25,99.0000,2475.00,"Room and Board - One Bedroom for May: Buch, Pegge",,,,,,,,,,,,,,,
+INVOICE,CM,,04510264,,05/25/2013,3592,"Invoice-Private",,05/25/2013,05/25/2013,,04514573MO,-4194.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... P.Buch 201305: Buch, Pegge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... P.Buch 201305: Buch, Pegge",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,1,3069,3069,"CR:Room and Board ... P.Buch 201305: Buch, Pegge",,,,,,,,,,,,,,,

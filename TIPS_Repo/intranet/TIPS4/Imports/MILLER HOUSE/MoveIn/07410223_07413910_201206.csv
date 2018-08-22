@@ -1,0 +1,5 @@
+BATCH,,201206,B,3244.0000,
+INVOICE,IN,,07410223,,06/09/2012,3244.0000,"MoveIn-Miller. Shirley",,06/09/2012,06/09/2012,,07413910,3244.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,22,73.0000,1606,"S.Miller: Basic Service Fee - Studio: Miller. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,22,29.0000,638,"S.Miller: Resident Care - Level 2: Miller. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Miller. Shirley",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,3573.0000,
+INVOICE,IN,,03410264,,09/09/2011,3573.0000,"MoveIn-Davis. Geraldine",,09/09/2011,09/09/2011,,03415184,3573.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,22,93.0000,2046,"Basic Service Fee - Studio         : Davis. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Davis. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Davis. Geraldine",,,,,,,,,,,,,,,

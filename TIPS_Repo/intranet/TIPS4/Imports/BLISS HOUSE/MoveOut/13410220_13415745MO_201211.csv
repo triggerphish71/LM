@@ -1,0 +1,7 @@
+BATCH,,201211,B,790.0000,
+INVOICE,IN,,13410220,,11/01/2012,395.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13415745MO,-2282.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Boehme, Iola",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,30,12.0000,360.00,"Credit for Limited Term Discount: Boehme, Iola",,,,,,,,,,,,,,,
+INVOICE,CM,,13410220,,11/01/2012,395,"Invoice-Private",,11/01/2012,11/10/2012,,13415745MO,-2282.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Boehme, Iola",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,30,12,360,"Limited Term Discount: Boehme, Iola",,,,,,,,,,,,,,,

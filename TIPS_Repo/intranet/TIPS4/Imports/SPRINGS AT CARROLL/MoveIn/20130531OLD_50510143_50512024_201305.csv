@@ -1,0 +1,6 @@
+BATCH,,201305,B,1140.0000,
+INVOICE,IN,,50510143,,05/31/2013,1140.0000,"MoveIn-Murvay. Ruth",,05/31/2013,05/31/2013,,50512024,3865.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,1,90.0000,90,"Basic Service Fee - Studio: Murvay. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Murvay. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1000.0000,1000,"New Resident Fee: Murvay. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010305505,1,25.0000,25,"Pendant Fee: Murvay. Ruth",,,,,,,,,,,,,,,

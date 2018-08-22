@@ -1,0 +1,8 @@
+BATCH,,201301,B,6401.5400,
+INVOICE,IN,,05910110,,01/08/2013,1879.8800,"Invoice-Private",,01/08/2013,01/08/2013,,05913470MO,-2641.7800,,,,,,,,,,
+TRANSACTION,3320,010101059,1,713.0000,713.00,"CR:Limited Term Di... J.Milnichuk 201301: Milnichuk, Jennie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101059,8,85.0000,680.00,"Basic Service Fee - Studio for Jan: Milnichuk, Jennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,8,60.8600,486.88,"Resident Care - Level 34 for Jan: Milnichuk, Jennie",,,,,,,,,,,,,,,
+INVOICE,CM,,05910110,,01/08/2013,4521.66,"Invoice-Private",,01/08/2013,01/08/2013,,05913470MO,-2641.7800,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2635,2635,"CR:Basic Service F... J.Milnichuk 201301: Milnichuk, Jennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,1886.66,1886.66,"CR:Resident Care -... J.Milnichuk 201301: Milnichuk, Jennie",,,,,,,,,,,,,,,

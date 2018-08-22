@@ -1,0 +1,6 @@
+BATCH,,201203,B,3833.0000,
+INVOICE,IN,,02210162,,03/01/2012,336.0000,"Invoice-Private",,03/01/2012,03/10/2012,,02214294MO,-3161.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,3,112.0000,336.00,"Basic Service Fee- One Bedroom Prem for Mar: Hiller, Lloyd",,,,,,,,,,,,,,,
+INVOICE,CM,,02210162,,03/01/2012,3497,"Invoice-Private",,03/01/2012,03/10/2012,,02214294MO,-3161.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3472,3472,"CR:Basic Service F... L.Hiller 201203: Hiller, Lloyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... L.Hiller 201203: Hiller, Lloyd",,,,,,,,,,,,,,,

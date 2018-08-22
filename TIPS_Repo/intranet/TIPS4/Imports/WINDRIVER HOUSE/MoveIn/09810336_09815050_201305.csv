@@ -1,0 +1,5 @@
+BATCH,,201305,B,3137.5000,
+INVOICE,IN,,09810336,,05/13/2013,3137.5000,"MoveIn-Stewart. Molly",,05/13/2013,05/13/2013,,09815050,3137.5000,,,,,,,,,,
+TRANSACTION,3010,010103098,19,94.0000,1786,"Basic Service Fee - Studio: Stewart. Molly",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,19,18.5000,351.5,"Resident Care - Level 10: Stewart. Molly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Stewart. Molly",,,,,,,,,,,,,,,

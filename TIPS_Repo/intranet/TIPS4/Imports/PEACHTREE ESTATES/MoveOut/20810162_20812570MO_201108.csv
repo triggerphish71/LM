@@ -1,0 +1,5 @@
+BATCH,,201108,B,601.4000,
+INVOICE,IN,,20810162,,08/01/2011,300.7000,"Invoice-Private",,08/01/2011,08/10/2011,,20812570MO,-2864.3000,,,,,,,,,,
+TRANSACTION,3312,010216208,31,9.7000,300.70,"Credit for Two Room Rental Discount: McGee, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,20810162,,08/01/2011,300.7,"Invoice-Private",,08/01/2011,08/10/2011,,20812570MO,-2864.3000,,,,,,,,,,
+TRANSACTION,3312,010216208,31,9.7,300.7,"Two Room Rental Discount: McGee, Eugene",,,,,,,,,,,,,,,

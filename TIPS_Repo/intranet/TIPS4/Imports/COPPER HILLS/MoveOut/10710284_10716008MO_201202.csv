@@ -1,0 +1,7 @@
+BATCH,,201202,B,2340.0000,
+INVOICE,IN,,10710284,,02/01/2012,78.0000,"Invoice-Private",,02/01/2012,02/10/2012,,10716008MO,-2184.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,35.0000,35.00,"Basic Service Fee - Second Resident for Feb: Medina, Benjamin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,43.0000,43.00,"Resident Care - Level 3 for Feb: Medina, Benjamin",,,,,,,,,,,,,,,
+INVOICE,CM,,10710284,,02/01/2012,2262,"Invoice-Private",,02/01/2012,02/10/2012,,10716008MO,-2184.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,1015,1015,"CR:Basic Service F... B.Medina 201202: Medina, Benjamin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1247,1247,"CR:Resident Care -... B.Medina 201202: Medina, Benjamin",,,,,,,,,,,,,,,

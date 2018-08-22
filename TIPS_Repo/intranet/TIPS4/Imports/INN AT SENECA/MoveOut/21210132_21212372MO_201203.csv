@@ -1,0 +1,7 @@
+BATCH,,201203,B,3762.0000,
+INVOICE,IN,,21210132,,03/02/2012,228.0000,"Invoice-Private",,03/02/2012,03/02/2012,,21212372MO,-3306.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,2,22.0000,44.00,"Resident Care - Level 2 for Mar: Sutterlin, Faith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,2,92.0000,184.00,"Studio Deluxe for Mar: Sutterlin, Faith",,,,,,,,,,,,,,,
+INVOICE,CM,,21210132,,03/02/2012,3534,"Invoice-Private",,03/02/2012,03/02/2012,,21212372MO,-3306.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,682,682,"CR:Resident Care -... F.Sutterlin 201203: Sutterlin, Faith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2852,2852,"CR:Studio Deluxe... F.Sutterlin 201203: Sutterlin, Faith",,,,,,,,,,,,,,,

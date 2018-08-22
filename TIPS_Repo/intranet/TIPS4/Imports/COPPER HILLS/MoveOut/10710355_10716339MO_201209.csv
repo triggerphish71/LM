@@ -1,0 +1,7 @@
+BATCH,,201209,B,4371.0000,
+INVOICE,IN,,10710355,,09/01/2012,141.0000,"Invoice-Private",,09/01/2012,09/01/2012,,10716339MO,-4089.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,98.0000,98.00,"Basic Service Fee - Studio for Sep: Wimer, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,43.0000,43.00,"Resident Care - Level 3 for Sep: Wimer, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,10710355,,09/01/2012,4230,"Invoice-Private",,09/01/2012,09/01/2012,,10716339MO,-4089.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2940,2940,"CR:Basic Service F... F.Wimer 201209: Wimer, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1290,1290,"CR:Resident Care -... F.Wimer 201209: Wimer, Frank",,,,,,,,,,,,,,,

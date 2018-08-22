@@ -1,0 +1,7 @@
+BATCH,,201305,B,3643.1000,
+INVOICE,IN,,01210273,,05/03/2013,321.4500,"Invoice-Private",,05/03/2013,05/03/2013,,01214360MO,-3000.2000,,,,,,,,,,
+TRANSACTION,3020,010103012,3,35.0000,105.00,"Basic Service Fee - Studio for May: Phillips, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,3,72.1500,216.45,"Resident Care - Level 39 for May: Phillips, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,01210273,,05/03/2013,3321.65,"Invoice-Private",,05/03/2013,05/03/2013,,01214360MO,-3000.2000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,1085,1085,"CR:Basic Service F... H.Phillips 201305: Phillips, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,2236.65,2236.65,"CR:Resident Care -... H.Phillips 201305: Phillips, Hilda",,,,,,,,,,,,,,,

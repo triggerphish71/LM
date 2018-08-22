@@ -1,0 +1,5 @@
+BATCH,,201303,B,2321.0000,
+INVOICE,CM,,03410276,,03/01/2013,2321,"Invoice-Private",,03/01/2013,03/10/2013,,03415996MO,-2321.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,1891,1891,"CR:Basic Service F... E.Quinn 201303: Quinn, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... E.Quinn 201303: Quinn, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... E.Quinn 201303: Quinn, Evelyn",,,,,,,,,,,,,,,

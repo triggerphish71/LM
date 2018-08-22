@@ -1,0 +1,8 @@
+BATCH,,201110,B,7130.0000,
+INVOICE,IN,,50110135,,10/01/2011,2698.0000,"Invoice-Private",,10/01/2011,10/10/2011,,50113724MO,-1734.0000,,,,,,,,,,
+TRANSACTION,3027,010209501,19,58.0000,1102.00,"Resident Care - Level 5 for Oct: Legeay, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,19,84.0000,1596.00,"Room and Board - Studio for Oct: Legeay, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,50110135,,10/01/2011,4432,"Invoice-Private",,10/01/2011,10/10/2011,,50113724MO,-1734.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... R.Legeay 201110: Legeay, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1798,1798,"CR:Resident Care -... R.Legeay 201110: Legeay, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2604,2604,"CR:Room and Board ... R.Legeay 201110: Legeay, Rosemary",,,,,,,,,,,,,,,

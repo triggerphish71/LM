@@ -1,0 +1,6 @@
+BATCH,,201306,B,3608.0000,
+INVOICE,IN,,50110297,,06/04/2013,3608.0000,"MoveIn-Hinman. Elmer",,06/04/2013,06/04/2013,,50114746,3608.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,27,88.0000,2376,"Basic Service Fee - Studio: Hinman. Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,27,26.0000,702,"Resident Care - Level 2: Hinman. Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Hinman. Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,500.0000,500,"New Resident Fee: Hinman. Elmer",,,,,,,,,,,,,,,

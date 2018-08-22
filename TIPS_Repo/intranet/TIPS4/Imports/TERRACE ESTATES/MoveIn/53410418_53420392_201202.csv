@@ -1,0 +1,5 @@
+BATCH,,201202,B,2117.0000,
+INVOICE,IN,,53410418,,02/01/2012,2059.0000,"February_Rent-Green. Eunice",,02/01/2012,02/10/2012,,53420392,5105.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,29,71.0000,2059,"E.Green: Basic Service Fee - Studio: Green. Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,53410418,,02/01/2012,58.0000,"February_Rent-Green. Eunice",,02/01/2012,02/10/2012,,53420392,5105.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,29,2,58,"Limited Term Discount: Green. Eunice",,,,,,,,,,,,,,,

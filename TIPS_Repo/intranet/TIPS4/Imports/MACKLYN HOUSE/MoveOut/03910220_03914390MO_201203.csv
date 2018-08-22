@@ -1,0 +1,5 @@
+BATCH,,201203,B,1860.0000,
+INVOICE,IN,,03910220,,03/01/2012,930.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03914390MO,-1359.6000,,,,,,,,,,
+TRANSACTION,3320,010101039,31,30.0000,930.00,"Credit for Limited Term Discount: Crooks, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03910220,,03/01/2012,930,"Invoice-Private",,03/01/2012,03/10/2012,,03914390MO,-1359.6000,,,,,,,,,,
+TRANSACTION,3320,010101039,31,30,930,"Limited Term Discount: Crooks, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,3410.0000,
+INVOICE,IN,,06510176,,12/01/2011,1705.0000,"Invoice-Private",,12/01/2011,12/10/2011,,06514444MO,-14.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,55.0000,1705.00,"Credit for Limited Term Discount: Riebesehl, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,06510176,,12/01/2011,1705,"Invoice-Private",,12/01/2011,12/10/2011,,06514444MO,-14.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,55,1705,"Limited Term Discount: Riebesehl, Melvin",,,,,,,,,,,,,,,

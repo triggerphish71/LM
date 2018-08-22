@@ -1,0 +1,5 @@
+BATCH,,201107,B,2317.0000,
+INVOICE,IN,,12110267,,07/29/2011,2317.0000,"MoveIn-Price. Charlotte",,07/29/2011,07/29/2011,,12115081,5266.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,3,94.0000,282,"Basic Service Fee - Studio         : Price. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Price. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Price. Charlotte",,,,,,,,,,,,,,,

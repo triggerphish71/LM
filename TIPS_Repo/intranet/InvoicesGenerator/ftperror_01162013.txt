@@ -1,0 +1,11 @@
+User (69.129.28.250:(none)): 
+
+
+cd /21180
+/21180: No such file or folder.
+put \\FS01\AR\CentralizedInvoices\Pending\invoice_details.xls
+put \\FS01\AR\CentralizedInvoices\Pending\invoice_payments.xls
+put \\FS01\AR\CentralizedInvoices\Pending\invoice_charges.xls
+put \\FS01\AR\ALCAccount-to-House.xls
+close 69.129.28.250
+bye

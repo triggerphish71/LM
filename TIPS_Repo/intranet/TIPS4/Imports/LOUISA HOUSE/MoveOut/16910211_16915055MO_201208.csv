@@ -1,0 +1,7 @@
+BATCH,,201208,B,5075.2100,
+INVOICE,IN,,16910211,,08/01/2012,744.0000,"Invoice-Private",,08/01/2012,08/10/2012,,16915055MO,-3258.0900,,,,,,,,,,
+TRANSACTION,3320,010103169,1,744.0000,744.00,"CR:Limited Term Di... E.Butler 201208: Butler, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,16910211,,08/01/2012,4331.21,"Invoice-Private",,08/01/2012,08/10/2012,,16915055MO,-3258.0900,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2697,2697,"CR:Basic Service F... E.Butler 201208: Butler, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... E.Butler 201208: Butler, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,1609.21,1609.21,"CR:Resident Care -... E.Butler 201208: Butler, Eileen",,,,,,,,,,,,,,,

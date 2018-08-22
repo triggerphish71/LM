@@ -1,0 +1,7 @@
+BATCH,,201206,B,4568.9000,
+INVOICE,IN,,00710197,,06/05/2012,652.7000,"Invoice-Private",,06/05/2012,06/05/2012,,00713428MO,-3263.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,5,84.0000,420.00,"Basic Service Fee - Studio for Jun: Tice, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,5,46.5400,232.70,"Resident Care - Level 26 for Jun: Tice, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,00710197,,06/05/2012,3916.2,"Invoice-Private",,06/05/2012,06/05/2012,,00713428MO,-3263.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2520,2520,"CR:Basic Service F... H.Tice 201206: Tice, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1396.2,1396.2,"CR:Resident Care -... H.Tice 201206: Tice, Helen",,,,,,,,,,,,,,,

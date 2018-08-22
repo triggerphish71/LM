@@ -1,0 +1,8 @@
+BATCH,,201307,B,6189.0000,
+INVOICE,IN,,21210224,,07/27/2013,2862.0000,"Invoice-Private",,07/27/2013,07/27/2013,,21213207MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,27,12.0000,324.00,"E.Hutton: Resident Care - Level 1 for Jul: Hutton, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,27,94.0000,2538.00,"E.Hutton: Studio Deluxe for Jul: Hutton, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,21210224,,07/27/2013,3327,"Invoice-Private",,07/27/2013,07/27/2013,,21213207MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,372,372,"CR:E.Hutton: Resid... E.Hutton 201307: Hutton, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2914,2914,"CR:E.Hutton: Studi... E.Hutton 201307: Hutton, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"CR:Monthly Cable... E.Hutton 201307: Hutton, Edward",,,,,,,,,,,,,,,

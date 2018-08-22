@@ -1,0 +1,7 @@
+BATCH,,201206,B,8750.0000,
+INVOICE,IN,,12610204,,06/20/2012,3500.0000,"Invoice-Private",,06/20/2012,06/20/2012,,12615027MO,-7175.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,20,92.0000,1840.00,"Basic Service Fee - Studio for Jun: Witham, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,20,83.0000,1660.00,"Resident Care - Level 6 for Jun: Witham, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,12610204,,06/20/2012,5250,"Invoice-Private",,06/20/2012,06/20/2012,,12615027MO,-7175.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2760,2760,"CR:Basic Service F... D.Witham 201206: Witham, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,2490,2490,"CR:Resident Care -... D.Witham 201206: Witham, Dorothy",,,,,,,,,,,,,,,

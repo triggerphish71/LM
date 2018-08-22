@@ -1,0 +1,6 @@
+BATCH,,201304,B,1773.0000,
+INVOICE,IN,,52910203,,04/15/2013,1773.0000,"MoveIn-Meier. Gilbert",,04/15/2013,04/15/2013,,52913606,5166.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,16,80.0000,1280,"Basic Service Fee - Studio: Meier. Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,16,28.0000,448,"Resident Care - Level 2: Meier. Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Meier. Gilbert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20.0000,20,"Pendant Fee: Meier. Gilbert",,,,,,,,,,,,,,,

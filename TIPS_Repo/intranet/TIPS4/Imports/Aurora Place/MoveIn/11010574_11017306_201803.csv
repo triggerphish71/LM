@@ -1,0 +1,7 @@
+BATCH,,201803,B,8095.3000,
+INVOICE,IN,,11010574,,03/01/2018,8095.3000,"MoveIn-Marquand. Verlean",,03/01/2018,03/01/2018,,11017306,11811.6000,,,,,,,,,,
+TRANSACTION,3010,010007110,31,105.0000,3255,"Basic Service Fee - Studio         : Marquand. Verlean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,31,18.0000,558,"Resident Care - Level 1: Marquand. Verlean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,3192.0000,3192,"Community Fee: Marquand. Verlean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Marquand. Verlean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007110,1,1064.0000,1064,"Monthly Deferral Charge: Marquand. Verlean",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,2132.0000,
+INVOICE,IN,,53510198,,12/10/2011,520.0000,"Invoice-Private",,12/10/2011,12/10/2011,,53514237MO,-1092.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,10,37.0000,370.00,"Basic Service Fee - Second Resident for Dec: Broeckert, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,10,15.0000,150.00,"Resident Care - Level 1 for Dec: Broeckert, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,53510198,,12/10/2011,1612,"Invoice-Private",,12/10/2011,12/10/2011,,53514237MO,-1092.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,1147,1147,"CR:Basic Service F... R.Broeckert 201112: Broeckert, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,465,465,"CR:Resident Care -... R.Broeckert 201112: Broeckert, Ruth",,,,,,,,,,,,,,,

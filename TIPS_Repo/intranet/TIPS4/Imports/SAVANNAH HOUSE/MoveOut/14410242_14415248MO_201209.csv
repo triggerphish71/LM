@@ -1,0 +1,7 @@
+BATCH,,201209,B,126.0000,
+INVOICE,IN,,14410242,,09/01/2012,63.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14415248MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Condon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Condon, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14410242,,09/01/2012,63,"Invoice-Private",,09/01/2012,09/10/2012,,14415248MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Condon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Condon, Mary",,,,,,,,,,,,,,,

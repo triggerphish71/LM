@@ -1,0 +1,5 @@
+BATCH,,201210,B,2728.0000,
+INVOICE,IN,,02411287,,10/01/2012,1364.0000,"Invoice-Private",,10/01/2012,10/10/2012,,02415868MO,-678.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,31,44.0000,1364.00,"Credit for Limited Term Discount: Ledbetter, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02411287,,10/01/2012,1364,"Invoice-Private",,10/01/2012,10/10/2012,,02415868MO,-678.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,31,44,1364,"Limited Term Discount: Ledbetter, James",,,,,,,,,,,,,,,

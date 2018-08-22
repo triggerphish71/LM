@@ -1,0 +1,7 @@
+BATCH,,201202,B,1134.0000,
+INVOICE,IN,,13310375,,02/13/2012,63.0000,"Invoice-Private",,02/13/2012,02/13/2012,,13315299MO,-2961.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,31.0000,31.00,"Basic Service Fee - Second Resident for Feb: Hibshman, Adeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,32.0000,32.00,"Resident Care - Level 2 for Feb: Hibshman, Adeline",,,,,,,,,,,,,,,
+INVOICE,CM,,13310375,,02/13/2012,1071,"Invoice-Private",,02/13/2012,02/13/2012,,13315299MO,-2961.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,527,527,"CR:Basic Service F... A.Hibshman 201202: Hibshman, Adeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,544,544,"CR:Resident Care -... A.Hibshman 201202: Hibshman, Adeline",,,,,,,,,,,,,,,

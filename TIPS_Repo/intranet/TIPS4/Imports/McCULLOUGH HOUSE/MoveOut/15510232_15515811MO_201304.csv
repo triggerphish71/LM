@@ -1,0 +1,7 @@
+BATCH,,201304,B,7076.0000,
+INVOICE,IN,,15510232,,04/06/2013,3416.0000,"Invoice-Private",,04/06/2013,04/06/2013,,15515811MO,-4026.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,28,90.0000,2520.00,"Basic Service Fee - Studio for Apr: Cribbs, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,28,32.0000,896.00,"Resident Care - Level 2 for Apr: Cribbs, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,15510232,,04/06/2013,3660,"Invoice-Private",,04/06/2013,04/06/2013,,15515811MO,-4026.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2700,2700,"CR:Basic Service F... G.Cribbs 201304: Cribbs, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,960,960,"CR:Resident Care -... G.Cribbs 201304: Cribbs, Grace",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,6178.0000,
+INVOICE,IN,,50210157,,03/13/2012,1869.0000,"Invoice-Private",,03/13/2012,03/13/2012,,50213338MO,-2440.0000,,,,,,,,,,
+TRANSACTION,3320,010209502,1,62.0000,62.00,"CR:Limited Term Di... J.Cooper 201203: Cooper, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,13,91.0000,1183.00,"Basic Service Fee - Studio Deluxe for Mar: Cooper, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,13,48.0000,624.00,"Resident Care - Level 4 for Mar: Cooper, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,50210157,,03/13/2012,4309,"Invoice-Private",,03/13/2012,03/13/2012,,50213338MO,-2440.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2821,2821,"CR:Basic Service F... J.Cooper 201203: Cooper, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1488,1488,"CR:Resident Care -... J.Cooper 201203: Cooper, Joe",,,,,,,,,,,,,,,

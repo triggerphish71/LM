@@ -1,0 +1,7 @@
+BATCH,,201304,B,8055.0000,
+INVOICE,IN,,11910265,,04/14/2013,2685.0000,"Invoice-Private",,04/14/2013,04/14/2013,,11916257MO,-2685.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,15,95.0000,1425.00,"Basic Service Fee - Studio for Apr: Kipin, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,15,84.0000,1260.00,"Resident Care - Level 6 for Apr: Kipin, Peter",,,,,,,,,,,,,,,
+INVOICE,CM,,11910265,,04/14/2013,5370,"Invoice-Private",,04/14/2013,04/14/2013,,11916257MO,-2685.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2850,2850,"CR:Basic Service F... P.Kipin 201304: Kipin, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,2520,2520,"CR:Resident Care -... P.Kipin 201304: Kipin, Peter",,,,,,,,,,,,,,,

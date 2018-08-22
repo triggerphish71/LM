@@ -1,0 +1,5 @@
+BATCH,,201206,B,3158.0000,
+INVOICE,IN,,50710131,,06/05/2012,3158.0000,"MoveIn-Hoffman. Marion",,06/05/2012,06/05/2012,,50712329,3158.0000,,,,,,,,,,
+TRANSACTION,3010,010305507,26,72.0000,1872,"Basic Service Fee - Studio Deluxe: Hoffman. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305507,26,11.0000,286,"Resident Care - Level 1: Hoffman. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305507,1,1000.0000,1000,"New Resident Fee: Hoffman. Marion",,,,,,,,,,,,,,,

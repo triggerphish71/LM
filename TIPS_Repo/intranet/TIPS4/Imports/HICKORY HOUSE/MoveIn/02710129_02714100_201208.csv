@@ -1,0 +1,7 @@
+BATCH,,201208,B,5940.0000,
+INVOICE,IN,,02710129,,07/01/2012,2970.0000,"MoveIn-Benson. James",,07/01/2012,07/01/2012,,02714100,5940.0000,,,,,,,,,,
+TRANSACTION,3014,010202027,31,95.0000,2945,"J.Benson: Basic Service Fee - Studio: Benson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Benson. James",,,,,,,,,,,,,,,
+INVOICE,IN,,02710129,,08/01/2012,2970.0000,"August_Rent-Benson. James",,08/01/2012,08/10/2012,,02714100,5940.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,31,95.0000,2945,"J.Benson: Basic Service Fee - Studio: Benson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Benson. James",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,6669.0000,
+INVOICE,IN,,17110269,,10/09/2012,1620.0000,"Invoice-Private",,10/09/2012,10/09/2012,,17115377MO,-3429.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,10,94.0000,940.00,"Basic Service Fee - Studio for Oct: Withrow, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,10,68.0000,680.00,"Resident Care - Level 5 for Oct: Withrow, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17110269,,10/09/2012,5049,"Invoice-Private",,10/09/2012,10/09/2012,,17115377MO,-3429.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... B.Withrow 201210: Withrow, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... B.Withrow 201210: Withrow, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,2108,2108,"CR:Resident Care -... B.Withrow 201210: Withrow, Barbara",,,,,,,,,,,,,,,

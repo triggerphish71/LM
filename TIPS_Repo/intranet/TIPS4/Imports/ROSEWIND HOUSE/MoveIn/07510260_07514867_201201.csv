@@ -1,0 +1,5 @@
+BATCH,,201201,B,3652.0000,
+INVOICE,IN,,07510260,,01/01/2012,3652.0000,"January_Rent-Morris. Richard",,01/01/2012,01/10/2012,,07514867,6028.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,88.0000,2728,"Basic Service Fee - Studio: Morris. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,29.0000,899,"Resident Care - Level 2: Morris. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Morris. Richard",,,,,,,,,,,,,,,

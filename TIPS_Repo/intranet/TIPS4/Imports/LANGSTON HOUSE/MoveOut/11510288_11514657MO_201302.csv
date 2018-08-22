@@ -1,0 +1,8 @@
+BATCH,,201302,B,3220.0000,
+INVOICE,IN,,11510288,,02/14/2013,1064.0000,"Invoice-Private",,02/14/2013,02/14/2013,,11514657MO,-3476.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,14,50.0000,700.00,"Basic Service Fee - Studio for Feb: Bergen, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,14,26.0000,364.00,"Resident Care - Level 2 for Feb: Bergen, Lela",,,,,,,,,,,,,,,
+INVOICE,CM,,11510288,,02/14/2013,2156,"Invoice-Private",,02/14/2013,02/14/2013,,11514657MO,-3476.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1400,1400,"CR:Basic Service F... L.Bergen 201302: Bergen, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... L.Bergen 201302: Bergen, Lela",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,728,728,"CR:Resident Care -... L.Bergen 201302: Bergen, Lela",,,,,,,,,,,,,,,

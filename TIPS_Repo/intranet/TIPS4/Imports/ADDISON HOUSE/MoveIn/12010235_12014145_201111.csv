@@ -1,0 +1,5 @@
+BATCH,,201111,B,3055.0000,
+INVOICE,IN,,12010235,,11/04/2011,3055.0000,"MoveIn-Wooten. Roscoe",,11/04/2011,11/04/2011,,12014145,3055.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,27,75.0000,2025,"Basic Service Fee - Studio         : Wooten. Roscoe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Wooten. Roscoe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Wooten. Roscoe",,,,,,,,,,,,,,,

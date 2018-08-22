@@ -1,0 +1,5 @@
+BATCH,,201202,B,3868.0000,
+INVOICE,IN,,53010255,,02/01/2012,3868.0000,"February_Rent-Bierman. Jerome",,02/01/2012,02/10/2012,,53015825,7568.0000,,,,,,,,,,
+TRANSACTION,3010,010319530,29,102.0000,2958,"Basic Service Fee - One Bedroom: Bierman. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319530,29,30.0000,870,"Resident Care - Level 1: Bierman. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40,"Monthly Cable: Bierman. Jerome",,,,,,,,,,,,,,,

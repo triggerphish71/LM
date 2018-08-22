@@ -1,0 +1,5 @@
+BATCH,,201306,B,219.2000,
+INVOICE,IN,,06210242,,06/29/2013,219.2000,"MoveIn-Jackson. James",,06/29/2013,06/29/2013,,06213900,3254.3000,,,,,,,,,,
+TRANSACTION,3010,010101062,2,86.0000,172,"Basic Service Fee - Studio: Jackson. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,2,11.1000,22.2,"Resident Care - Level 6: Jackson. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Jackson. James",,,,,,,,,,,,,,,

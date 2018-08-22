@@ -1,0 +1,6 @@
+BATCH,,201211,B,3565.0000,
+INVOICE,IN,,07010235,,11/02/2012,3565.0000,"MoveIn-Netzley. Winifred",,11/02/2012,11/02/2012,,07014556,3565.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,29,89.0000,2581,"W.Netzley: Basic Service Fee - Studio: Netzley. Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,29,16.0000,464,"W.Netzley: Resident Care - Level 1: Netzley. Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Netzley. Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,500.0000,500,"New Resident Fee: Netzley. Winifred",,,,,,,,,,,,,,,

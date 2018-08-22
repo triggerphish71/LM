@@ -1,0 +1,7 @@
+BATCH,,201308,B,6142.0000,
+INVOICE,IN,,07310204,,08/04/2013,996.0000,"Invoice-Private",,08/04/2013,08/04/2013,,07316297MO,-4150.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,6,98.0000,588.00,"Basic Service Fee - Studio for Aug: Edminson, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,6,68.0000,408.00,"Resident Care - Level 4 for Aug: Edminson, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,07310204,,08/04/2013,5146,"Invoice-Private",,08/04/2013,08/04/2013,,07316297MO,-4150.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3038,3038,"CR:Basic Service F... C.Edminson 201308: Edminson, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2108,2108,"CR:Resident Care -... C.Edminson 201308: Edminson, Clara",,,,,,,,,,,,,,,

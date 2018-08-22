@@ -1,0 +1,8 @@
+BATCH,,201111,B,7164.0000,
+INVOICE,IN,,02310199,,11/29/2011,3509.0000,"Invoice-Private",,11/29/2011,11/29/2011,,02314699MO,-3922.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,29,91.0000,2639.00,"Basic Service Fee - Studio for Nov: Craft, Sadie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,29,30.0000,870.00,"Resident Care - Level 2 for Nov: Craft, Sadie",,,,,,,,,,,,,,,
+INVOICE,CM,,02310199,,11/29/2011,3655,"Invoice-Private",,11/29/2011,11/29/2011,,02314699MO,-3922.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2730,2730,"CR:Basic Service F... S.Craft 201111: Craft, Sadie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... S.Craft 201111: Craft, Sadie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,900,900,"CR:Resident Care -... S.Craft 201111: Craft, Sadie",,,,,,,,,,,,,,,

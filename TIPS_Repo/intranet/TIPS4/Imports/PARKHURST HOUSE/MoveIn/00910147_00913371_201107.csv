@@ -1,0 +1,5 @@
+BATCH,,201107,B,3505.3000,
+INVOICE,IN,,00910147,,07/11/2011,3505.3000,"MoveIn-Hamm. Robert",,07/11/2011,07/11/2011,,00913371,3505.3000,,,,,,,,,,
+TRANSACTION,3010,010101009,21,87.0000,1827,"R.Hamm: Basic Service Fee - Studio Deluxe: Hamm. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,21,32.3000,678.3,"R.Hamm: Resident Care - Level 19: Hamm. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Hamm. Robert",,,,,,,,,,,,,,,

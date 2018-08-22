@@ -1,0 +1,8 @@
+BATCH,,201304,B,5700.0000,
+INVOICE,IN,,13710190,,04/15/2013,1890.0000,"Invoice-Private",,04/15/2013,04/15/2013,,13714923MO,-5826.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,15,91.0000,1365.00,"Basic Service Fee - Studio for Apr: Tackitt, Benjamin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,15,35.0000,525.00,"Resident Care - Level 2 for Apr: Tackitt, Benjamin",,,,,,,,,,,,,,,
+INVOICE,CM,,13710190,,04/15/2013,3810,"Invoice-Private",,04/15/2013,04/15/2013,,13714923MO,-5826.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2730,2730,"CR:Basic Service F... B.Tackitt 201304: Tackitt, Benjamin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... B.Tackitt 201304: Tackitt, Benjamin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1050,1050,"CR:Resident Care -... B.Tackitt 201304: Tackitt, Benjamin",,,,,,,,,,,,,,,

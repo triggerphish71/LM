@@ -1,0 +1,5 @@
+BATCH,,201112,B,5202.0000,
+INVOICE,IN,,07810239,,12/01/2011,5202.0000,"December_Rent-Keyes. Melva",,12/01/2011,12/10/2011,,07814408,9398.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,31,96.0000,2976,"Basic Service Fee - Deluxe: Keyes. Melva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,31,71.0000,2201,"Resident Care - Level 5: Keyes. Melva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Keyes. Melva",,,,,,,,,,,,,,,

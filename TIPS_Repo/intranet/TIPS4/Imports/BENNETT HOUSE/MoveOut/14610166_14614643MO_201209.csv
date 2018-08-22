@@ -1,0 +1,7 @@
+BATCH,,201209,B,5640.0000,
+INVOICE,IN,,14610166,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14614643MO,-6783.0000,,,,,,,,,,
+TRANSACTION,3320,010309146,1,60.0000,60.00,"CR:Limited Term Di... D.Dietz 201209: Dietz, Dortha",,,,,,,,,,,,,,,
+INVOICE,CM,,14610166,,09/01/2012,5580,"Invoice-Private",,09/01/2012,09/10/2012,,14614643MO,-6783.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,3450,3450,"CR:Basic Service F... D.Dietz 201209: Dietz, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... D.Dietz 201209: Dietz, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,2100,2100,"CR:Resident Care -... D.Dietz 201209: Dietz, Dortha",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201306,B,6490.0000,
+INVOICE,IN,,16810392,,06/25/2013,2950.0000,"Invoice-Private",,06/25/2013,06/25/2013,,16817457MO,-4248.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,25,118.0000,2950.00,"Basic Service Fee - One BR Premium for Jun: Murphy, Sr, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,16810392,,06/25/2013,3540,"Invoice-Private",,06/25/2013,06/25/2013,,16817457MO,-4248.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3540,3540,"CR:Basic Service F... G.Murphy, Sr 201306: Murphy, Sr, Glenn",,,,,,,,,,,,,,,

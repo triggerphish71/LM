@@ -1,0 +1,6 @@
+BATCH,,201708,B,2000.0000,
+INVOICE,IN,,20210354,,08/01/2017,1500.0000,"Invoice-Private",,08/01/2017,08/10/2017,,20214757MO,-497.1200,,,,,,,,,,
+TRANSACTION,3216,010016202,1,1000.0000,1000.00,"Community Fee Unpaid Balance: Bowers, Louie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,500.0000,500.00,"Community Fee Installment Charge: Bowers, Louie",,,,,,,,,,,,,,,
+INVOICE,CM,,20210354,,08/01/2017,500,"Invoice-Private",,08/01/2017,08/10/2017,,20214757MO,-497.1200,,,,,,,,,,
+TRANSACTION,3216,010016202,1,500,500,"Credit for Community Fee Installment Charge: Bowers, Louie",,,,,,,,,,,,,,,

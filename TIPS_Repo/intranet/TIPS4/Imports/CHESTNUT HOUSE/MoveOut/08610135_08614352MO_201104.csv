@@ -1,0 +1,5 @@
+BATCH,,201104,B,4988.0000,
+INVOICE,IN,,08610135,,04/28/2011,2408.0000,"Invoice-Private",,04/28/2011,04/28/2011,,08614352MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,28,86.0000,2408.00,"Room and Board - Studio for Apr: Stevens, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,08610135,,04/28/2011,2580,"Invoice-Private",,04/28/2011,04/28/2011,,08614352MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2580,2580,"CR:Room and Board ... C.Stevens 201104: Stevens, Charles",,,,,,,,,,,,,,,

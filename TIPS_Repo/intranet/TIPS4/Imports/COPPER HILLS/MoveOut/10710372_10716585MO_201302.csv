@@ -1,0 +1,5 @@
+BATCH,,201302,B,5432.2800,
+INVOICE,CM,,10710372,,02/01/2013,5432.28,"Invoice-Private",,02/01/2013,02/10/2013,,10716585MO,-6014.3100,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2240,2240,"CR:Basic Service F... G.Lynn 201302: Lynn, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3037,010107107,1,2772.28,2772.28,"CR:Private Care Ra... G.Lynn 201302: Lynn, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,420,420,"CR:Resident Care -... G.Lynn 201302: Lynn, Gordon",,,,,,,,,,,,,,,

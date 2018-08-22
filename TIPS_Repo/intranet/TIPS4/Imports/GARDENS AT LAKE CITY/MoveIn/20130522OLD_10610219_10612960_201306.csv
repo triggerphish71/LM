@@ -1,0 +1,5 @@
+BATCH,,201306,B,3095.0000,
+INVOICE,IN,,10610219,,06/01/2013,3095.0000,"June_Rent-Darley. Connie",,06/01/2013,06/10/2013,,10612960,4252.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,30,87.0000,2610,"Basic Service Fee - Studio: Darley. Connie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309106,30,15.0000,450,"Resident Care - Level 1: Darley. Connie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Darley. Connie",,,,,,,,,,,,,,,

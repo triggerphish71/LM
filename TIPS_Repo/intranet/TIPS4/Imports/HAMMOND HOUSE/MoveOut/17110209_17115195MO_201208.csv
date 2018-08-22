@@ -1,0 +1,7 @@
+BATCH,,201208,B,94.0000,
+INVOICE,IN,,17110209,,08/01/2012,47.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17115195MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20.0000,20.00,"Pendant Fee: Harris, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Harris, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,17110209,,08/01/2012,47,"Invoice-Private",,08/01/2012,08/10/2012,,17115195MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20,20,"Credit for Pendant Fee: Harris, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Harris, Jane",,,,,,,,,,,,,,,

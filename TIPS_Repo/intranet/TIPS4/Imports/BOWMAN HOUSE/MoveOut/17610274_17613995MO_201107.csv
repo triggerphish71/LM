@@ -1,0 +1,8 @@
+BATCH,,201107,B,5338.0000,
+INVOICE,IN,,17610274,,07/14/2011,1887.0000,"Invoice-Private",,07/14/2011,07/14/2011,,17613995MO,-1564.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,17,69.0000,1173.00,"Basic Service Fee - Studio for Jul: Aronson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,17,42.0000,714.00,"Resident Care - Level 3 for Jul: Aronson, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,17610274,,07/14/2011,3451,"Invoice-Private",,07/14/2011,07/14/2011,,17613995MO,-1564.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2139,2139,"CR:Basic Service F... D.Aronson 201107: Aronson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315176,1,10,10,"CR:HSG Meals... D.Aronson 201107: Aronson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1302,1302,"CR:Resident Care -... D.Aronson 201107: Aronson, Doris",,,,,,,,,,,,,,,

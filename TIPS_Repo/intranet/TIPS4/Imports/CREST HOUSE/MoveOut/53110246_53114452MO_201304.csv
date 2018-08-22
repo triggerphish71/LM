@@ -1,0 +1,5 @@
+BATCH,,201304,B,80.0000,
+INVOICE,IN,,53110246,,04/01/2013,40.0000,"Invoice-Private",,04/01/2013,04/10/2013,,53114452MO,-4171.0000,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40.0000,40.00,"Monthly Cable: Prodoehl, Chuck",,,,,,,,,,,,,,,
+INVOICE,CM,,53110246,,04/01/2013,40,"Invoice-Private",,04/01/2013,04/10/2013,,53114452MO,-4171.0000,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40,40,"Credit for Monthly Cable: Prodoehl, Chuck",,,,,,,,,,,,,,,

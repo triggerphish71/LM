@@ -1,0 +1,6 @@
+BATCH,,201203,B,5227.0000,
+INVOICE,IN,,03110329,,03/02/2012,5227.0000,"MoveIn-Barnes. Beweeta",,03/02/2012,03/02/2012,,03116674,5227.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,30,99.0000,2970,"Basic Service Fee - Studio: Barnes. Beweeta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,30,16.0000,480,"Resident Care - Level 1: Barnes. Beweeta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Barnes. Beweeta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Barnes. Beweeta",,,,,,,,,,,,,,,

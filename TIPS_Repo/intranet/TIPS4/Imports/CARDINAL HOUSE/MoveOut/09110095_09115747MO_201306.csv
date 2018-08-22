@@ -1,0 +1,7 @@
+BATCH,,201306,B,5206.0000,
+INVOICE,IN,,09110095,,06/01/2013,1096.0000,"Invoice-Private",,06/01/2013,06/10/2013,,09115747MO,-3014.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,8,86.0000,688.00,"Basic Service Fee - Studio for Jun: Howell, Doyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,8,51.0000,408.00,"Resident Care - Level 3 for Jun: Howell, Doyle",,,,,,,,,,,,,,,
+INVOICE,CM,,09110095,,06/01/2013,4110,"Invoice-Private",,06/01/2013,06/10/2013,,09115747MO,-3014.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2580,2580,"CR:Basic Service F... D.Howell 201306: Howell, Doyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1530,1530,"CR:Resident Care -... D.Howell 201306: Howell, Doyle",,,,,,,,,,,,,,,

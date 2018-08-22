@@ -1,0 +1,7 @@
+BATCH,,201106,B,9856.0000,
+INVOICE,IN,,11410125,,06/01/2011,4576.0000,"Invoice-Private",,06/01/2011,06/10/2011,,11413925MO,-6160.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,26,111.0000,2886.00,"Basic Service Fee - Studio for Jun: Elwell, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,26,65.0000,1690.00,"Swan Personal Care - L4 for Jun: Elwell, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,11410125,,06/01/2011,5280,"Invoice-Private",,06/01/2011,06/10/2011,,11413925MO,-6160.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3330,3330,"CR:Basic Service F... R.Elwell 201106: Elwell, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,1950,1950,"CR:Swan Personal C... R.Elwell 201106: Elwell, Rebecca",,,,,,,,,,,,,,,

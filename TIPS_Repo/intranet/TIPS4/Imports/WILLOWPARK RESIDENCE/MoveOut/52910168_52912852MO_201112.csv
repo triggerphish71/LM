@@ -1,0 +1,8 @@
+BATCH,,201112,B,5484.0000,
+INVOICE,IN,,52910168,,12/01/2011,2266.0000,"Invoice-Private",,12/01/2011,12/10/2011,,52912852MO,-952.0000,,,,,,,,,,
+TRANSACTION,3027,010319529,22,15.0000,330.00,"Resident Care - Level 1 for Dec: Voigt, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,22,88.0000,1936.00,"Room and Board - Studio for Dec: Voigt, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,52910168,,12/01/2011,3218,"Invoice-Private",,12/01/2011,12/10/2011,,52912852MO,-952.0000,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... J.Voigt 201112: Voigt, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,465,465,"CR:Resident Care -... J.Voigt 201112: Voigt, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2728,2728,"CR:Room and Board ... J.Voigt 201112: Voigt, Joyce",,,,,,,,,,,,,,,

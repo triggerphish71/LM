@@ -1,0 +1,5 @@
+BATCH,,201304,B,4180.0000,
+INVOICE,CM,,11810130,,04/01/2013,4180,"Invoice-Private",,04/01/2013,04/10/2013,,11815811MO,-5186.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3030,3030,"CR:Basic Service F... J.Buchanan 201304: Buchanan, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... J.Buchanan 201304: Buchanan, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1110,1110,"CR:Resident Care -... J.Buchanan 201304: Buchanan, Jan",,,,,,,,,,,,,,,

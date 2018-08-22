@@ -1,0 +1,7 @@
+BATCH,,201107,B,4384.0000,
+INVOICE,IN,,52510143,,07/01/2011,137.0000,"Invoice-Private",,07/01/2011,07/10/2011,,52512190MO,-4110.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,108.0000,108.00,"Basic Service Fee - Studio for Jul: Wollitz, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,29.0000,29.00,"Resident Care - Level 2 for Jul: Wollitz, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,52510143,,07/01/2011,4247,"Invoice-Private",,07/01/2011,07/10/2011,,52512190MO,-4110.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3348,3348,"CR:Basic Service F... H.Wollitz 201107: Wollitz, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,899,899,"CR:Resident Care -... H.Wollitz 201107: Wollitz, Harriet",,,,,,,,,,,,,,,

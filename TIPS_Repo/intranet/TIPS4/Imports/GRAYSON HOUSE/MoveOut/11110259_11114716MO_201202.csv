@@ -1,0 +1,7 @@
+BATCH,,201202,B,8632.0000,
+INVOICE,IN,,11110259,,02/23/2012,3818.0000,"Invoice-Private",,02/23/2012,02/23/2012,,11114716MO,-6142.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,23,97.0000,2231.00,"Basic Service Fee - Studio for Feb: Bourne, Caroline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,23,69.0000,1587.00,"Resident Care - Level 5 for Feb: Bourne, Caroline",,,,,,,,,,,,,,,
+INVOICE,CM,,11110259,,02/23/2012,4814,"Invoice-Private",,02/23/2012,02/23/2012,,11114716MO,-6142.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2813,2813,"CR:Basic Service F... C.Bourne 201202: Bourne, Caroline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,2001,2001,"CR:Resident Care -... C.Bourne 201202: Bourne, Caroline",,,,,,,,,,,,,,,

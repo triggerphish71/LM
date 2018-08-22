@@ -1,0 +1,7 @@
+BATCH,,201112,B,2456.0000,
+INVOICE,IN,,01310099,,12/01/2011,1228.0000,"Invoice-Medicaid",,12/01/2011,12/10/2011,,01313997MO,-3242.7800,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Henle, Lana",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1200.0000,1200.00,"State Medicaid: Henle, Lana",,,,,,,,,,,,,,,
+INVOICE,CM,,01310099,,12/01/2011,1228,"Invoice-Medicaid",,12/01/2011,12/10/2011,,01313997MO,-3242.7800,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Henle, Lana",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1200,1200,"Credit for State Medicaid: Henle, Lana",,,,,,,,,,,,,,,

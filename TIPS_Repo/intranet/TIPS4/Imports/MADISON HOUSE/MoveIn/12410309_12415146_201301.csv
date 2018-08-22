@@ -1,0 +1,5 @@
+BATCH,,201301,B,3600.0000,
+INVOICE,IN,,12410309,,01/01/2013,3600.0000,"January_Rent-Winther. Sharon",,01/01/2013,01/10/2013,,12415146,7590.0000,,,,,,,,,,
+TRANSACTION,3010,010211124,31,83.0000,2573,"Basic Service Fee - Studio: Winther. Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211124,31,32.0000,992,"Resident Care - Level 2: Winther. Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35,"Monthly Cable: Winther. Sharon",,,,,,,,,,,,,,,

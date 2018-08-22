@@ -1,0 +1,5 @@
+BATCH,,201304,B,620.0000,
+INVOICE,IN,,08910155,,04/01/2013,310.0000,"Invoice-Private",,04/01/2013,04/10/2013,,08915215MO,-6601.0000,,,,,,,,,,
+TRANSACTION,3210,010306089,31,10.0000,310.00,"Personal Services: Collett, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,08910155,,04/01/2013,310,"Invoice-Private",,04/01/2013,04/10/2013,,08915215MO,-6601.0000,,,,,,,,,,
+TRANSACTION,3210,010306089,31,10,310,"Credit for Personal Services: Collett, Barbara",,,,,,,,,,,,,,,

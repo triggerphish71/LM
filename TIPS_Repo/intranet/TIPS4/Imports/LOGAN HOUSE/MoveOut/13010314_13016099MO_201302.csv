@@ -1,0 +1,7 @@
+BATCH,,201302,B,2406.0000,
+INVOICE,IN,,13010314,,02/01/2013,1203.0000,"Invoice-Private",,02/01/2013,02/10/2013,,13016099MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Magdic, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310130,28,42.0000,1176.00,"Credit for Limited Term Discount: Magdic, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13010314,,02/01/2013,1203,"Invoice-Private",,02/01/2013,02/10/2013,,13016099MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Magdic, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310130,28,42,1176,"Limited Term Discount: Magdic, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,3541.0000,
+INVOICE,IN,,51910221,,08/08/2011,3541.0000,"MoveIn-Brown. Jan",,08/08/2011,08/08/2011,,51913180,3541.0000,,,,,,,,,,
+TRANSACTION,3010,010103519,24,84.0000,2016,"Basic Service Fee - Studio: Brown. Jan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25.0000,25,"Monthly Cable: Brown. Jan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103519,1,1500.0000,1500,"New Resident Fee: Brown. Jan",,,,,,,,,,,,,,,

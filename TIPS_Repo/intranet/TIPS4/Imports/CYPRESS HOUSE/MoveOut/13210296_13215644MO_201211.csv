@@ -1,0 +1,6 @@
+BATCH,,201211,B,1825.0000,
+INVOICE,IN,,13210296,,11/01/2012,955.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13215644MO,-5303.0000,,,,,,,,,,
+TRANSACTION,3299,010308132,1,85.0000,85.00,"Repair and Maintenance-Damages 4230: Wimbley, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308132,30,29.0000,870.00,"Credit for Limited Term Discount: Wimbley, John",,,,,,,,,,,,,,,
+INVOICE,CM,,13210296,,11/01/2012,870,"Invoice-Private",,11/01/2012,11/10/2012,,13215644MO,-5303.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,30,29,870,"Limited Term Discount: Wimbley, John",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201201,B,8199.0000,
+INVOICE,IN,,01410157,,01/30/2012,4020.0000,"Invoice-Private",,01/30/2012,01/30/2012,,01414209MO,-4070.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,30,90.0000,2700.00,"Basic Service Fee - Studio for Jan: Marshall, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,30,44.0000,1320.00,"Resident Care - Level 3 for Jan: Marshall, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,01410157,,01/30/2012,4179,"Invoice-Private",,01/30/2012,01/30/2012,,01414209MO,-4070.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2790,2790,"CR:Basic Service F... E.Marshall 201201: Marshall, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... E.Marshall 201201: Marshall, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,1364,1364,"CR:Resident Care -... E.Marshall 201201: Marshall, Eva",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201803,B,6117.1300,
+INVOICE,IN,,15110318,,03/01/2018,6117.1300,"MoveIn-Alff. Lucille",,03/01/2018,03/01/2018,,15116763,6117.1300,,,,,,,,,,
+TRANSACTION,3010,010012151,31,85.0000,2635,"Basic Service Fee - Studio: Alff. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.8000,36.8,"Monthly Cable: Alff. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012151,1,2584.0000,2584,"Community Fee: Alff. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012151,1,861.3300,861.33,"Monthly Deferral Charge: Alff. Lucille",,,,,,,,,,,,,,,

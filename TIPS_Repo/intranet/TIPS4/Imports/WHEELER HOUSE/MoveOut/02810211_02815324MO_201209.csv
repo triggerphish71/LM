@@ -1,0 +1,5 @@
+BATCH,,201209,B,3480.0000,
+INVOICE,IN,,02810211,,09/01/2012,1740.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02815324MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,30,58.0000,1740.00,"Credit for Limited Term Discount: Faircloth, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,02810211,,09/01/2012,1740,"Invoice-Private",,09/01/2012,09/10/2012,,02815324MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,30,58,1740,"Limited Term Discount: Faircloth, Hazel",,,,,,,,,,,,,,,

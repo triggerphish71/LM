@@ -1,0 +1,7 @@
+BATCH,,201201,B,8985.0900,
+INVOICE,IN,,07410175,,01/22/2012,3729.6600,"Invoice-Private",,01/22/2012,01/22/2012,,07413771MO,-6545.9600,,,,,,,,,,
+TRANSACTION,3020,010305074,22,73.0000,1606.00,"Basic Service Fee - Studio for Jan: Faller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,22,96.5300,2123.66,"Resident Care - Level 6+7 pts for Jan: Faller, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,07410175,,01/22/2012,5255.43,"Invoice-Private",,01/22/2012,01/22/2012,,07413771MO,-6545.9600,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2263,2263,"CR:Basic Service F... M.Faller 201201: Faller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,2992.43,2992.43,"CR:Resident Care -... M.Faller 201201: Faller, Mary",,,,,,,,,,,,,,,

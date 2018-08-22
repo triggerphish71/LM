@@ -1,0 +1,7 @@
+BATCH,,201204,B,9116.0000,
+INVOICE,IN,,07210109,,04/17/2012,3956.0000,"Invoice-Private",,04/17/2012,04/17/2012,,07214085MO,-6536.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,23,96.0000,2208.00,"Basic Service Fee - Studio for Apr: Miller, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,23,76.0000,1748.00,"Resident Care - Level 5 for Apr: Miller, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,07210109,,04/17/2012,5160,"Invoice-Private",,04/17/2012,04/17/2012,,07214085MO,-6536.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2880,2880,"CR:Basic Service F... B.Miller 201204: Miller, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2280,2280,"CR:Resident Care -... B.Miller 201204: Miller, Beatrice",,,,,,,,,,,,,,,

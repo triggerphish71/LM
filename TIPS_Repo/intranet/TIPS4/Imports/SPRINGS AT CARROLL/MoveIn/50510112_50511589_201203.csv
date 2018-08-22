@@ -1,0 +1,5 @@
+BATCH,,201203,B,4315.0000,
+INVOICE,IN,,50510112,,03/01/2012,4315.0000,"MoveIn-Fox. Bobbie",,03/01/2012,03/01/2012,,50511589,4315.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,31,90.0000,2790,"B.Fox: Basic Service Fee - Studio: Fox. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Fox. Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Fox. Bobbie",,,,,,,,,,,,,,,

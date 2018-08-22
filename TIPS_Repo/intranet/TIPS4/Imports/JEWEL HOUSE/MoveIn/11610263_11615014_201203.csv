@@ -1,0 +1,5 @@
+BATCH,,201203,B,2562.0000,
+INVOICE,IN,,11610263,,03/23/2012,2562.0000,"MoveIn-Uebel. Vivian",,03/23/2012,03/23/2012,,11615014,6102.0000,,,,,,,,,,
+TRANSACTION,3010,010309116,9,100.0000,900,"Basic Service Fee - Studio: Uebel. Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309116,9,18.0000,162,"Resident Care - Level 1: Uebel. Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309116,1,1500.0000,1500,"New Resident Fee: Uebel. Vivian",,,,,,,,,,,,,,,

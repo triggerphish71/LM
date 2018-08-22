@@ -1,0 +1,6 @@
+BATCH,,201203,B,3215.0000,
+INVOICE,IN,,11510262,,03/05/2012,3215.0000,"MoveIn-Linville. Henry",,03/05/2012,03/05/2012,,11514109,3215.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,27,66.0000,1782,"Basic Service Fee - Studio: Linville. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,27,15.0000,405,"Resident Care - Level 1: Linville. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Linville. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Linville. Henry",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201109,B,4570.0000,
+INVOICE,IN,,11810185,,09/09/2011,4570.0000,"MoveIn-Robertson. Charles",,09/09/2011,09/09/2011,,11814956,4570.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,22,96.0000,2112,"Basic Service Fee - Studio         : Robertson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,22,19.0000,418,"Resident Care - Level 1: Robertson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Robertson. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2000.0000,2000,"New Resident Fee: Robertson. Charles",,,,,,,,,,,,,,,

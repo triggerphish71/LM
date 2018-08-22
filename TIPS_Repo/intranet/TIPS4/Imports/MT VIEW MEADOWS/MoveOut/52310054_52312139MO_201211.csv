@@ -1,0 +1,7 @@
+BATCH,,201211,B,4430.7200,
+INVOICE,IN,,52310054,,11/16/2012,1541.1200,"Invoice-Private",,11/16/2012,11/16/2012,,52312139MO,-4334.4000,,,,,,,,,,
+TRANSACTION,3020,010103523,16,82.0000,1312.00,"Basic Service Fee - Studio for Nov: Betassa, Arloa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,16,14.3200,229.12,"Resident Care - Level 8 for Nov: Betassa, Arloa",,,,,,,,,,,,,,,
+INVOICE,CM,,52310054,,11/16/2012,2889.6,"Invoice-Private",,11/16/2012,11/16/2012,,52312139MO,-4334.4000,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2460,2460,"CR:Basic Service F... A.Betassa 201211: Betassa, Arloa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,429.6,429.6,"CR:Resident Care -... A.Betassa 201211: Betassa, Arloa",,,,,,,,,,,,,,,

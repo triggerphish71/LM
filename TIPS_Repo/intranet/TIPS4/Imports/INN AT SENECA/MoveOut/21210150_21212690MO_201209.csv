@@ -1,0 +1,8 @@
+BATCH,,201209,B,4580.0000,
+INVOICE,IN,,21210150,,09/10/2012,1460.0000,"Invoice-Private",,09/10/2012,09/10/2012,,21212690MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,420.0000,420.00,"CR:Limited Term Di... V.Goff 201209: Goff, Valmarie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,10,22.0000,220.00,"Resident Care - Level 2 for Sep: Goff, Valmarie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,10,82.0000,820.00,"Studio for Sep: Goff, Valmarie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210150,,09/10/2012,3120,"Invoice-Private",,09/10/2012,09/10/2012,,21212690MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,660,660,"CR:Resident Care -... V.Goff 201209: Goff, Valmarie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2460,2460,"CR:Studio... V.Goff 201209: Goff, Valmarie",,,,,,,,,,,,,,,

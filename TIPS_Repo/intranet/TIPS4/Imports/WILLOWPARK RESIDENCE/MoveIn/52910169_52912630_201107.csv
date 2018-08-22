@@ -1,0 +1,5 @@
+BATCH,,201107,B,4225.0000,
+INVOICE,IN,,52910169,,07/07/2011,4225.0000,"MoveIn-Scott. Richard",,07/07/2011,07/07/2011,,52912630,4225.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,25,88.0000,2200,"Basic Service Fee - Studio: Scott. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Scott. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,2000.0000,2000,"New Resident Fee: Scott. Richard",,,,,,,,,,,,,,,

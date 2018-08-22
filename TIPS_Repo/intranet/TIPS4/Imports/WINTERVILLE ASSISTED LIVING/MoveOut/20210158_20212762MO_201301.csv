@@ -1,0 +1,7 @@
+BATCH,,201301,B,3876.0000,
+INVOICE,IN,,20210158,,01/01/2013,342.0000,"Invoice-Private",,01/01/2013,01/10/2013,,20212762MO,-3192.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,3,31.0000,93.00,"Resident Care - Level 3 for Jan: Sanders, Annette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,3,83.0000,249.00,"Studio for Jan: Sanders, Annette",,,,,,,,,,,,,,,
+INVOICE,CM,,20210158,,01/01/2013,3534,"Invoice-Private",,01/01/2013,01/10/2013,,20212762MO,-3192.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,961,961,"CR:Resident Care -... A.Sanders 201301: Sanders, Annette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... A.Sanders 201301: Sanders, Annette",,,,,,,,,,,,,,,

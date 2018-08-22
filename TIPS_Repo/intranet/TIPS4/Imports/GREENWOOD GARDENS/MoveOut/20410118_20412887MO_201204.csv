@@ -1,0 +1,5 @@
+BATCH,,201204,B,2280.0000,
+INVOICE,IN,,20410118,,04/01/2012,1140.0000,"Invoice-Private",,04/01/2012,04/10/2012,,20412887MO,-1688.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,30,38.0000,1140.00,"Credit for Limited Term Discount: Brune, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,20410118,,04/01/2012,1140,"Invoice-Private",,04/01/2012,04/10/2012,,20412887MO,-1688.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,30,38,1140,"Limited Term Discount: Brune, Mildred",,,,,,,,,,,,,,,

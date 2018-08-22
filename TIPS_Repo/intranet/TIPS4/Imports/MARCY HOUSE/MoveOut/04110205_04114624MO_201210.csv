@@ -1,0 +1,7 @@
+BATCH,,201210,B,4950.0000,
+INVOICE,IN,,04110205,,10/19/2012,1881.0000,"Invoice-Private",,10/19/2012,10/19/2012,,04114624MO,-4158.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,19,82.0000,1558.00,"Basic Service Fee - Studio for Oct: Fishback, Ella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,19,17.0000,323.00,"Resident Care - Level 1 for Oct: Fishback, Ella",,,,,,,,,,,,,,,
+INVOICE,CM,,04110205,,10/19/2012,3069,"Invoice-Private",,10/19/2012,10/19/2012,,04114624MO,-4158.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... E.Fishback 201210: Fishback, Ella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... E.Fishback 201210: Fishback, Ella",,,,,,,,,,,,,,,

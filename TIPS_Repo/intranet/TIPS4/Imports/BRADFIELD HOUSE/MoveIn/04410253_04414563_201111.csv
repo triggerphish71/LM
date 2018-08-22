@@ -1,0 +1,6 @@
+BATCH,,201111,B,3007.0000,
+INVOICE,IN,,04410253,,11/18/2011,3007.0000,"MoveIn-Lancaster. James",,11/18/2011,11/18/2011,,04414563,6566.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,13,85.0000,1105,"Basic Service Fee - Studio: Lancaster. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,13,29.0000,377,"Resident Care - Level 2: Lancaster. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Lancaster. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Lancaster. James",,,,,,,,,,,,,,,

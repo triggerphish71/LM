@@ -1,0 +1,8 @@
+BATCH,,201206,B,3580.0000,
+INVOICE,IN,,53410342,,06/02/2012,280.0000,"Invoice-Private",,06/02/2012,06/02/2012,,53420964MO,-3020.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,60.0000,60.00,"CR:Limited Term Di... J.Kasberger 201206: Kasberger, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,2,71.0000,142.00,"Basic Service Fee - Studio for Jun: Kasberger, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,2,39.0000,78.00,"Resident Care - Level 1 for Jun: Kasberger, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53410342,,06/02/2012,3300,"Invoice-Private",,06/02/2012,06/02/2012,,53420964MO,-3020.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Basic Service F... J.Kasberger 201206: Kasberger, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1170,1170,"CR:Resident Care -... J.Kasberger 201206: Kasberger, Jean",,,,,,,,,,,,,,,

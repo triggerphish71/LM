@@ -1,0 +1,5 @@
+BATCH,,201208,B,4860.0000,
+INVOICE,IN,,01110296,,08/23/2012,2070.0000,"Invoice-Private",,08/23/2012,08/23/2012,,01113941MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,23,90.0000,2070.00,"Basic Service Fee - One Bedroom for Aug: Thornton, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,01110296,,08/23/2012,2790,"Invoice-Private",,08/23/2012,08/23/2012,,01113941MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2790,2790,"CR:Basic Service F... M.Thornton 201208: Thornton, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,5763.0000,
+INVOICE,IN,,10610183,,10/01/2012,3031.0000,"Invoice-Private",,10/01/2012,10/10/2012,,10612713MO,299.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,1,682.0000,682.00,"CR:Limited Term Di... C.Myers 201210: Myers, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309106,27,87.0000,2349.00,"Room and Board - Studio for Oct: Myers, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,10610183,,10/01/2012,2732,"Invoice-Private",,10/01/2012,10/10/2012,,10612713MO,299.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... C.Myers 201210: Myers, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2697,2697,"CR:Room and Board ... C.Myers 201210: Myers, Carol",,,,,,,,,,,,,,,

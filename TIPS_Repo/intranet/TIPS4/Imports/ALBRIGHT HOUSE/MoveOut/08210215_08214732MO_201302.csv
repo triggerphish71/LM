@@ -1,0 +1,7 @@
+BATCH,,201302,B,4120.3500,
+INVOICE,IN,,08210215,,02/11/2013,1162.1500,"Invoice-Private",,02/11/2013,02/11/2013,,08214732MO,-1796.0500,,,,,,,,,,
+TRANSACTION,3020,010103082,11,89.0000,979.00,"Basic Service Fee - Studio for Feb: Zimmerman, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,11,16.6500,183.15,"Resident Care - Level 9 for Feb: Zimmerman, Madeline",,,,,,,,,,,,,,,
+INVOICE,CM,,08210215,,02/11/2013,2958.2,"Invoice-Private",,02/11/2013,02/11/2013,,08214732MO,-1796.0500,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2492,2492,"CR:Basic Service F... M.Zimmerman 201302: Zimmerman, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,466.2,466.2,"CR:Resident Care -... M.Zimmerman 201302: Zimmerman, Madeline",,,,,,,,,,,,,,,

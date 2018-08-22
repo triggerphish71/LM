@@ -1,0 +1,7 @@
+BATCH,,201201,B,4289.7600,
+INVOICE,IN,,06110216,,01/01/2012,1519.2900,"Invoice-Private",,01/01/2012,01/10/2012,,06113797MO,-1251.1800,,,,,,,,,,
+TRANSACTION,3020,010103061,17,84.0000,1428.00,"Basic Service Fee - Studio for Jan: Agar, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,17,5.3700,91.29,"Resident Care - Level 3 for Jan: Agar, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,06110216,,01/01/2012,2770.47,"Invoice-Private",,01/01/2012,01/10/2012,,06113797MO,-1251.1800,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2604,2604,"CR:Basic Service F... T.Agar 201201: Agar, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,166.47,166.47,"CR:Resident Care -... T.Agar 201201: Agar, Tom",,,,,,,,,,,,,,,

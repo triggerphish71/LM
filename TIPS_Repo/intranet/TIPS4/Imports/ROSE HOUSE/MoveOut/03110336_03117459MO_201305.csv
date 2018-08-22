@@ -1,0 +1,6 @@
+BATCH,,201305,B,3684.0000,
+INVOICE,CM,,03110336,,05/01/2013,3684,"Invoice-Private",,05/01/2013,05/10/2013,,03117459MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,1860,1860,"CR:Basic Service F... M.Strauss 201305: Strauss, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... M.Strauss 201305: Strauss, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"CR:Pendant Fee... M.Strauss 201305: Strauss, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1767,1767,"CR:Resident Care -... M.Strauss 201305: Strauss, Myrtle",,,,,,,,,,,,,,,

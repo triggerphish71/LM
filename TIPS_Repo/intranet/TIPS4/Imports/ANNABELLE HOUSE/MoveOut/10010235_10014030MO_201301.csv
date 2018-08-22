@@ -1,0 +1,7 @@
+BATCH,,201301,B,3745.0000,
+INVOICE,IN,,10010235,,01/01/2013,930.0000,"Invoice-Private",,01/01/2013,01/10/2013,,10014030MO,-1885.0000,,,,,,,,,,
+TRANSACTION,3320,010104100,1,930.0000,930.00,"CR:Limited Term Di... D.Kimbrell 201301: Kimbrell, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,10010235,,01/01/2013,2815,"Invoice-Private",,01/01/2013,01/10/2013,,10014030MO,-1885.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2325,2325,"CR:Basic Service F... D.Kimbrell 201301: Kimbrell, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... D.Kimbrell 201301: Kimbrell, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104100,1,465,465,"CR:Resident Care -... D.Kimbrell 201301: Kimbrell, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,3774.0000,
+INVOICE,IN,,50710095,,03/01/2012,178.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50712219MO,-3418.0000,,,,,,,,,,
+TRANSACTION,3320,010305507,1,62.0000,62.00,"CR:Limited Term Di... R.Fox 201203: Fox, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305507,1,66.0000,66.00,"Basic Service Fee - Studio for Mar: Fox, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,50.0000,50.00,"Resident Care - Level 5 for Mar: Fox, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,50710095,,03/01/2012,3596,"Invoice-Private",,03/01/2012,03/10/2012,,50712219MO,-3418.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,2046,2046,"CR:Basic Service F... R.Fox 201203: Fox, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,1550,1550,"CR:Resident Care -... R.Fox 201203: Fox, Ruth",,,,,,,,,,,,,,,

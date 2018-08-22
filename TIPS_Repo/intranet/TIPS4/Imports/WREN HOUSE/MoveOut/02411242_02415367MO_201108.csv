@@ -1,0 +1,7 @@
+BATCH,,201108,B,3916.0000,
+INVOICE,IN,,02411242,,08/01/2011,572.0000,"Invoice-Private",,08/01/2011,08/10/2011,,02415367MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,465.0000,465.00,"CR:Limited Term Di... H.Mc Knew 201108: Mc Knew, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,1,107.0000,107.00,"Basic Service Fee - One Bedroom for Aug: Mc Knew, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,02411242,,08/01/2011,3344,"Invoice-Private",,08/01/2011,08/10/2011,,02415367MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3317,3317,"CR:Basic Service F... H.Mc Knew 201108: Mc Knew, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... H.Mc Knew 201108: Mc Knew, Helen",,,,,,,,,,,,,,,

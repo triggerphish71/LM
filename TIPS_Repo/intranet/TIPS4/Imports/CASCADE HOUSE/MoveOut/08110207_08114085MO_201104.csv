@@ -1,0 +1,8 @@
+BATCH,,201104,B,9023.1000,
+INVOICE,IN,,08110207,,04/25/2011,4496.1000,"Invoice-Private",,04/25/2011,04/25/2011,,08114085MO,-4584.8000,,,,,,,,,,
+TRANSACTION,3320,010103081,1,120.0000,120.00,"CR:Limited Term Di... B.Fishman 201104: Fishman, Babette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,29,88.0000,2552.00,"Basic Service Fee - Studio for Apr: Fishman, Babette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,29,62.9000,1824.10,"Resident Care - Level 37 for Apr: Fishman, Babette",,,,,,,,,,,,,,,
+INVOICE,CM,,08110207,,04/25/2011,4527,"Invoice-Private",,04/25/2011,04/25/2011,,08114085MO,-4584.8000,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2640,2640,"CR:Basic Service F... B.Fishman 201104: Fishman, Babette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1887,1887,"CR:Resident Care -... B.Fishman 201104: Fishman, Babette",,,,,,,,,,,,,,,

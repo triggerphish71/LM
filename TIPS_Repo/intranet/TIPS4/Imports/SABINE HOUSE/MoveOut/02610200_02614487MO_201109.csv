@@ -1,0 +1,8 @@
+BATCH,,201109,B,6233.0000,
+INVOICE,IN,,02610200,,09/01/2011,2996.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02614487MO,759.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,28,94.0000,2632.00,"Basic Service Fee - Studio for Sep: Berry, SQ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,28,13.0000,364.00,"Resident Care - Level 1 for Sep: Berry, SQ",,,,,,,,,,,,,,,
+INVOICE,CM,,02610200,,09/01/2011,3237,"Invoice-Private",,09/01/2011,09/10/2011,,02614487MO,759.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2820,2820,"CR:Basic Service F... S.Berry 201109: Berry, SQ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... S.Berry 201109: Berry, SQ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,390,390,"CR:Resident Care -... S.Berry 201109: Berry, SQ",,,,,,,,,,,,,,,

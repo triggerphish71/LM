@@ -1,0 +1,5 @@
+BATCH,,201208,B,694.4000,
+INVOICE,IN,,15910171,,08/01/2012,347.2000,"Invoice-Private",,08/01/2012,08/10/2012,,15914861MO,-1828.8000,,,,,,,,,,
+TRANSACTION,3312,010212159,31,11.2000,347.20,"Credit for Two Room Rental Discount: Nees, Marjean",,,,,,,,,,,,,,,
+INVOICE,CM,,15910171,,08/01/2012,347.2,"Invoice-Private",,08/01/2012,08/10/2012,,15914861MO,-1828.8000,,,,,,,,,,
+TRANSACTION,3312,010212159,31,11.2,347.2,"Two Room Rental Discount: Nees, Marjean",,,,,,,,,,,,,,,

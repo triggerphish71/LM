@@ -1,0 +1,7 @@
+BATCH,,201207,B,9680.0000,
+INVOICE,IN,,12810221,,07/01/2012,4224.0000,"Invoice-Private",,07/01/2012,07/10/2012,,12814891MO,-1232.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,24,111.0000,2664.00,"Basic Service Fee - Studio for Jul: Jackson, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,24,65.0000,1560.00,"Swan Personal Care - L4 for Jul: Jackson, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,12810221,,07/01/2012,5456,"Invoice-Private",,07/01/2012,07/10/2012,,12814891MO,-1232.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3441,3441,"CR:Basic Service F... H.Jackson 201207: Jackson, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,2015,2015,"CR:Swan Personal C... H.Jackson 201207: Jackson, Howard",,,,,,,,,,,,,,,

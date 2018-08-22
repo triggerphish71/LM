@@ -1,0 +1,5 @@
+BATCH,,201201,B,2890.0000,
+INVOICE,IN,,02210180,,01/01/2012,255.0000,"Invoice-Private",,01/01/2012,01/10/2012,,02214179MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,3,85.0000,255.00,"Basic Service Fee - Studio for Jan: Pullen, Peggy",,,,,,,,,,,,,,,
+INVOICE,CM,,02210180,,01/01/2012,2635,"Invoice-Private",,01/01/2012,01/10/2012,,02214179MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2635,2635,"CR:Basic Service F... P.Pullen 201201: Pullen, Peggy",,,,,,,,,,,,,,,

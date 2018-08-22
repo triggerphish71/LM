@@ -1,0 +1,7 @@
+BATCH,,201207,B,4797.0000,
+INVOICE,IN,,51310200,,07/01/2012,984.0000,"Invoice-Private",,07/01/2012,07/10/2012,,51313966MO,-2829.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,8,108.0000,864.00,"Basic Service Fee- Studio for Jul: Keaton, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,8,15.0000,120.00,"Resident Care - Level 1 for Jul: Keaton, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,51310200,,07/01/2012,3813,"Invoice-Private",,07/01/2012,07/10/2012,,51313966MO,-2829.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3348,3348,"CR:Basic Service F... H.Keaton 201207: Keaton, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,465,465,"CR:Resident Care -... H.Keaton 201207: Keaton, Harry",,,,,,,,,,,,,,,

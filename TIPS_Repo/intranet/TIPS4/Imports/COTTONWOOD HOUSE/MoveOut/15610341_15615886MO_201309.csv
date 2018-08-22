@@ -1,0 +1,5 @@
+BATCH,,201309,B,90.0000,
+INVOICE,IN,,15610341,,09/01/2013,45.0000,"Invoice-Private",,09/01/2013,09/10/2013,,15615886MO,-5871.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45.0000,45.00,"Pendant Fee: Hellbusch, Reuben",,,,,,,,,,,,,,,
+INVOICE,CM,,15610341,,09/01/2013,45,"Invoice-Private",,09/01/2013,09/10/2013,,15615886MO,-5871.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"Credit for Pendant Fee: Hellbusch, Reuben",,,,,,,,,,,,,,,

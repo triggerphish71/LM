@@ -1,0 +1,6 @@
+BATCH,,201801,B,14926.0000,
+INVOICE,IN,,10210364,,01/15/2018,14926.0000,"MoveIn-Wilkinson. Joyce",,01/15/2018,01/15/2018,,10217500,14926.0000,,,,,,,,,,
+TRANSACTION,3010,010006102,31,140.0000,4340,"Basic Service Fee - Studio         : Wilkinson. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010006102,17,122.0000,2074,"Resident Care - Level 6: Wilkinson. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010006102,1,4256.0000,4256,"Community Fee: Wilkinson. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010006102,1,4256.0000,4256,"Monthly Deferral Charge: Wilkinson. Joyce",,,,,,,,,,,,,,,

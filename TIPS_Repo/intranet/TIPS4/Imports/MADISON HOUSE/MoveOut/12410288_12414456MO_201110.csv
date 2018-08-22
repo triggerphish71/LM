@@ -1,0 +1,5 @@
+BATCH,,201110,B,2464.0000,
+INVOICE,IN,,12410288,,10/01/2011,77.0000,"Invoice-Private",,10/01/2011,10/10/2011,,12414456MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,77.0000,77.00,"Basic Service Fee - Studio for Oct: Ahlmann, Dora",,,,,,,,,,,,,,,
+INVOICE,CM,,12410288,,10/01/2011,2387,"Invoice-Private",,10/01/2011,10/10/2011,,12414456MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2387,2387,"CR:Basic Service F... D.Ahlmann 201110: Ahlmann, Dora",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,2128.8800,
+INVOICE,IN,,03310353,,09/01/2012,1064.4400,"Invoice-Private",,09/01/2012,09/10/2012,,03316579MO,-1123.8800,,,,,,,,,,
+TRANSACTION,3320,010202033,30,29.0000,870.00,"Credit for Limited Term Discount: Allen, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,1113,010202033,1,194.4400,194.44,"Monthly Deferral Charge: Allen, Alfred",,,,,,,,,,,,,,,
+INVOICE,CM,,03310353,,09/01/2012,1064.44,"Invoice-Private",,09/01/2012,09/10/2012,,03316579MO,-1123.8800,,,,,,,,,,
+TRANSACTION,3320,010202033,30,29,870,"Limited Term Discount: Allen, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,1113,010202033,1,194.44,194.44,"Credit for Monthly Deferral Charge: Allen, Alfred",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,8504.0000,
+INVOICE,IN,,11910136,,02/15/2013,4082.0000,"Invoice-Private",,02/15/2013,02/15/2013,,11916200MO,-5273.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,26,121.0000,3146.00,"Basic Service Fee - One Bedroom for Feb: Rago, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,26,36.0000,936.00,"Resident Care - Level 2 for Feb: Rago, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,11910136,,02/15/2013,4422,"Invoice-Private",,02/15/2013,02/15/2013,,11916200MO,-5273.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3388,3388,"CR:Basic Service F... B.Rago 201302: Rago, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... B.Rago 201302: Rago, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1008,1008,"CR:Resident Care -... B.Rago 201302: Rago, Betty",,,,,,,,,,,,,,,

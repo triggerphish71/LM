@@ -1,0 +1,8 @@
+BATCH,,201206,B,4956.0000,
+INVOICE,IN,,06510088,,06/06/2012,876.0000,"Invoice-Private",,06/06/2012,06/06/2012,,06514659MO,-3204.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,60.0000,60.00,"CR:Limited Term Di... V.LeFevre 201206: LeFevre, Veulah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,6,99.0000,594.00,"Basic Service Fee - Studio for Jun: LeFevre, Veulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,6,37.0000,222.00,"Resident Care - Level 2 for Jun: LeFevre, Veulah",,,,,,,,,,,,,,,
+INVOICE,CM,,06510088,,06/06/2012,4080,"Invoice-Private",,06/06/2012,06/06/2012,,06514659MO,-3204.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2970,2970,"CR:Basic Service F... V.LeFevre 201206: LeFevre, Veulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1110,1110,"CR:Resident Care -... V.LeFevre 201206: LeFevre, Veulah",,,,,,,,,,,,,,,

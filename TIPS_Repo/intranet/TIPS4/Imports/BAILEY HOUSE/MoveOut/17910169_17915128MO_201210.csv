@@ -1,0 +1,7 @@
+BATCH,,201210,B,4070.0000,
+INVOICE,IN,,17910169,,10/01/2012,660.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17915128MO,-2750.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,6,82.0000,492.00,"Basic Service Fee - Studio for Oct: Hayward, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,6,28.0000,168.00,"Resident Care - Level 2 for Oct: Hayward, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,17910169,,10/01/2012,3410,"Invoice-Private",,10/01/2012,10/10/2012,,17915128MO,-2750.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Basic Service F... E.Hayward 201210: Hayward, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,868,868,"CR:Resident Care -... E.Hayward 201210: Hayward, Eugene",,,,,,,,,,,,,,,

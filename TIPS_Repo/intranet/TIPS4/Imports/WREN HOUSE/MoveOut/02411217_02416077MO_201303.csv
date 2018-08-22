@@ -1,0 +1,7 @@
+BATCH,,201303,B,3432.0000,
+INVOICE,IN,,02411217,,03/01/2013,208.0000,"Invoice-Private",,03/01/2013,03/01/2013,,02416077MO,-3016.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,2,74.0000,148.00,"Basic Service Fee - Studio for Mar: Erwin, J W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,2,30.0000,60.00,"Resident Care - Level 2 for Mar: Erwin, J W",,,,,,,,,,,,,,,
+INVOICE,CM,,02411217,,03/01/2013,3224,"Invoice-Private",,03/01/2013,03/01/2013,,02416077MO,-3016.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2294,2294,"CR:Basic Service F... J.Erwin 201303: Erwin, J W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,930,930,"CR:Resident Care -... J.Erwin 201303: Erwin, J W",,,,,,,,,,,,,,,

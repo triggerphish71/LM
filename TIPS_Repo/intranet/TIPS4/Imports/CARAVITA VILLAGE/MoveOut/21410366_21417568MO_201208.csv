@@ -1,0 +1,8 @@
+BATCH,,201208,B,4793.0000,
+INVOICE,IN,,21410366,,08/01/2012,1941.0000,"Invoice-Private",,08/01/2012,08/10/2012,,21417568MO,-911.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,651.0000,651.00,"CR:Limited Term Di... B.Dean 201208: Dean, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,9,71.0000,639.00,"IL One Bedroom for Aug: Dean, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010221214,31,21.0000,651.00,"Credit for Limited Term Discount: Dean, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,21410366,,08/01/2012,2852,"Invoice-Private",,08/01/2012,08/10/2012,,21417568MO,-911.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2201,2201,"CR:IL One Bedroom... B.Dean 201208: Dean, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010221214,31,21,651,"Limited Term Discount: Dean, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,5952.0000,
+INVOICE,IN,,09210276,,12/17/2012,2108.0000,"Invoice-Private",,12/17/2012,12/17/2012,,09215050MO,-4588.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,17,92.0000,1564.00,"Basic Service Fee - Deluxe for Dec: Self, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,17,32.0000,544.00,"Resident Care - Level 2 for Dec: Self, Horace",,,,,,,,,,,,,,,
+INVOICE,CM,,09210276,,12/17/2012,3844,"Invoice-Private",,12/17/2012,12/17/2012,,09215050MO,-4588.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2852,2852,"CR:Basic Service F... H.Self 201212: Self, Horace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,992,992,"CR:Resident Care -... H.Self 201212: Self, Horace",,,,,,,,,,,,,,,

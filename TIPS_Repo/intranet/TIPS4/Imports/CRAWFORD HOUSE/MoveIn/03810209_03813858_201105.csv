@@ -1,0 +1,5 @@
+BATCH,,201105,B,2268.0000,
+INVOICE,IN,,03810209,,05/29/2011,2268.0000,"MoveIn-Ogden. Doug",,05/29/2011,05/29/2011,,03813858,4723.0000,,,,,,,,,,
+TRANSACTION,3010,010103038,3,81.0000,243,"Basic Service Fee - Studio         : Ogden. Doug",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Ogden. Doug",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Ogden. Doug",,,,,,,,,,,,,,,

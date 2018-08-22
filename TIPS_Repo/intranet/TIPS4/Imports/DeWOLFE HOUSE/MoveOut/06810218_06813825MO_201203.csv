@@ -1,0 +1,7 @@
+BATCH,,201203,B,6336.0000,
+INVOICE,IN,,06810218,,03/17/2012,2244.0000,"Invoice-Private",,03/17/2012,03/17/2012,,06813825MO,-5808.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,17,85.0000,1445.00,"Basic Service Fee - Studio for Mar: Haught, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,17,47.0000,799.00,"Resident Care - Level 3 for Mar: Haught, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,06810218,,03/17/2012,4092,"Invoice-Private",,03/17/2012,03/17/2012,,06813825MO,-5808.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2635,2635,"CR:Basic Service F... K.Haught 201203: Haught, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1457,1457,"CR:Resident Care -... K.Haught 201203: Haught, Kathleen",,,,,,,,,,,,,,,

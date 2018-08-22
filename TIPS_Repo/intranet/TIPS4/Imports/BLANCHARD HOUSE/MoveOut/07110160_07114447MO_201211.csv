@@ -1,0 +1,5 @@
+BATCH,,201211,B,1500.0000,
+INVOICE,IN,,07110160,,11/01/2012,750.0000,"Invoice-Private",,11/01/2012,11/10/2012,,07114447MO,-1579.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,30,25.0000,750.00,"Credit for Limited Term Discount: Brown, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,07110160,,11/01/2012,750,"Invoice-Private",,11/01/2012,11/10/2012,,07114447MO,-1579.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,30,25,750,"Limited Term Discount: Brown, Wilma",,,,,,,,,,,,,,,

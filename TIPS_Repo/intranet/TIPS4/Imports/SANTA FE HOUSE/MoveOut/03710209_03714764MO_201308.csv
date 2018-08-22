@@ -1,0 +1,7 @@
+BATCH,,201308,B,3195.0000,
+INVOICE,IN,,03710209,,08/01/2013,994.0000,"Invoice-Private",,08/01/2013,08/10/2013,,03714764MO,-1207.0000,,,,,,,,,,
+TRANSACTION,3027,010202037,14,16.0000,224.00,"Resident Care - Level 1 for Aug: Compton, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,14,55.0000,770.00,"Room and Board - Studio for Aug: Compton, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,03710209,,08/01/2013,2201,"Invoice-Private",,08/01/2013,08/10/2013,,03714764MO,-1207.0000,,,,,,,,,,
+TRANSACTION,3027,010202037,1,496,496,"CR:Resident Care -... J.Compton 201308: Compton, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,1,1705,1705,"CR:Room and Board ... J.Compton 201308: Compton, Jack",,,,,,,,,,,,,,,

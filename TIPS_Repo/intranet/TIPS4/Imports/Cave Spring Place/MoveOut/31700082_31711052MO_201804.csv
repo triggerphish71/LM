@@ -1,0 +1,7 @@
+BATCH,,201804,B,5407.0000,
+INVOICE,IN,,31700082,,04/01/2018,1328.0000,"Invoice-Private",,04/01/2018,04/10/2018,,31711052MO,-3988.0000,,,,,,,,,,
+TRANSACTION,3017,070026317,16,83.0000,1328.00," Level Care:  5 : Keffer, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,31700082,,04/01/2018,4079,"Invoice-Private",,04/01/2018,04/10/2018,,31711052MO,-3988.0000,,,,,,,,,,
+TRANSACTION,3130,070026317,1,29,29,"CR:Pendant Fee... A.Keffer 201804: Keffer, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,070026317,1,1200,1200,"CR:Resident Care -... A.Keffer 201804: Keffer, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,1,2850,2850,"CR:Studio... A.Keffer 201804: Keffer, Ann",,,,,,,,,,,,,,,

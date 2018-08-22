@@ -1,0 +1,6 @@
+BATCH,,201803,B,1612.0000,
+INVOICE,IN,,19210418,,03/20/2018,806.0000,"Invoice-Private",,03/20/2018,03/20/2018,,19219692MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3017,010009192,13,22.0000,286.00," Level Care:  1 : Klepfer, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009192,20,26.0000,520.00,"Basic Service Fee - Second Resident  for Mar: Klepfer, Vera",,,,,,,,,,,,,,,
+INVOICE,CM,,19210418,,03/20/2018,806,"Invoice-Private",,03/20/2018,03/20/2018,,19219692MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3020,010009192,1,806,806,"CR:Basic Service F... V.Klepfer 201803: Klepfer, Vera",,,,,,,,,,,,,,,

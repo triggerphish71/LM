@@ -1,0 +1,7 @@
+BATCH,,201305,B,3752.0000,
+INVOICE,IN,,17510292,,05/25/2013,1675.0000,"Invoice-Private",,05/25/2013,05/25/2013,,17518060MO,-2412.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,25,55.0000,1375.00,"Basic Service Fee - Studio Deluxe for May: Hanson, Trudy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,25,12.0000,300.00,"Resident Care - Level 1 for May: Hanson, Trudy",,,,,,,,,,,,,,,
+INVOICE,CM,,17510292,,05/25/2013,2077,"Invoice-Private",,05/25/2013,05/25/2013,,17518060MO,-2412.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1705,1705,"CR:Basic Service F... T.Hanson 201305: Hanson, Trudy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... T.Hanson 201305: Hanson, Trudy",,,,,,,,,,,,,,,

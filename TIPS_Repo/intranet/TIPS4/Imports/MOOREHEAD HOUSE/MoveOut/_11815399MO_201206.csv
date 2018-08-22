@@ -1,0 +1,8 @@
+BATCH,,201206,B,6640.0000,
+INVOICE,IN,,,,06/01/2012,2205.0000,"Invoice-",,06/01/2012,06/10/2012,,11815399MO,-6812.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,15,128.0000,1920.00,"Basic Service Fee- One Bedroom Prem for Jun: , ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,15,19.0000,285.00,"Resident Care - Level 1 for Jun: , ",,,,,,,,,,,,,,,
+INVOICE,CM,,,,06/01/2012,4435,"Invoice-",,06/01/2012,06/10/2012,,11815399MO,-6812.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3840,3840,"CR:Basic Service F... F.Jobe 201206: , ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,25,25,"CR:Monthly Cable... F.Jobe 201206: , ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,570,570,"CR:Resident Care -... F.Jobe 201206: , ",,,,,,,,,,,,,,,

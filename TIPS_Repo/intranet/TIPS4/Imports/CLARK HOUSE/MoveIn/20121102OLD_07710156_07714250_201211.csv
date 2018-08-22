@@ -1,0 +1,8 @@
+BATCH,,201211,B,3123.0000,
+INVOICE,IN,,07710156,,10/31/2012,608.0000,"MoveIn-Weisel. Robert",,10/31/2012,10/31/2012,,07714250,3123.0000,,,,,,,,,,
+TRANSACTION,3014,010104077,1,83.0000,83,"Basic Service Fee - Studio: Weisel. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25,"Monthly Cable: Weisel. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104077,1,500.0000,500,"New Resident Fee: Weisel. Robert",,,,,,,,,,,,,,,
+INVOICE,IN,,07710156,,11/01/2012,2515.0000,"November_Rent-Weisel. Robert",,11/01/2012,11/10/2012,,07714250,3123.0000,,,,,,,,,,
+TRANSACTION,3010,010104077,30,83.0000,2490,"Basic Service Fee - Studio: Weisel. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25,"Monthly Cable: Weisel. Robert",,,,,,,,,,,,,,,

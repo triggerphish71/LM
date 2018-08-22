@@ -1,0 +1,6 @@
+BATCH,,201302,B,3582.0000,
+INVOICE,IN,,11710256,,02/07/2013,3582.0000,"MoveIn-Owen. Eleanor",,02/07/2013,02/07/2013,,11713995,3582.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,22,86.0000,1892,"E.Owen: Basic Service Fee - Studio: Owen. Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,22,30.0000,660,"E.Owen: Resident Care - Level 2: Owen. Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Owen. Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1000.0000,1000,"New Resident Fee: Owen. Eleanor",,,,,,,,,,,,,,,

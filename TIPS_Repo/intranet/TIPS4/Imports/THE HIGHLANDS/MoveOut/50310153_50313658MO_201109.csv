@@ -1,0 +1,7 @@
+BATCH,,201109,B,130.0000,
+INVOICE,IN,,50310153,,09/01/2011,65.0000,"Invoice-Private",,09/01/2011,09/10/2011,,50313658MO,-1011.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Conley, Margaret L",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,30.0000,30.00,"Pendant Fee: Conley, Margaret L",,,,,,,,,,,,,,,
+INVOICE,CM,,50310153,,09/01/2011,65,"Invoice-Private",,09/01/2011,09/10/2011,,50313658MO,-1011.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Conley, Margaret L",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,30,30,"Credit for Pendant Fee: Conley, Margaret L",,,,,,,,,,,,,,,

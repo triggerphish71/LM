@@ -1,0 +1,7 @@
+BATCH,,201207,B,2484.0000,
+INVOICE,IN,,12510157,,07/05/2012,345.0000,"Invoice-Private",,07/05/2012,07/05/2012,,12514297MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,5,36.0000,180.00,"Basic Service Fee - Second Resident for Jul: McGlew, Art",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,5,33.0000,165.00,"Resident Care - Level 2 for Jul: McGlew, Art",,,,,,,,,,,,,,,
+INVOICE,CM,,12510157,,07/05/2012,2139,"Invoice-Private",,07/05/2012,07/05/2012,,12514297MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,1116,1116,"CR:Basic Service F... A.McGlew 201207: McGlew, Art",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1023,1023,"CR:Resident Care -... A.McGlew 201207: McGlew, Art",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201306,B,2722.0000,
+INVOICE,IN,,03510171,,06/22/2013,2722.0000,"MoveIn-Prindle. Ruby",,06/22/2013,06/22/2013,,03513593,6070.0000,,,,,,,,,,
+TRANSACTION,3010,010202035,9,92.0000,828,"Basic Service Fee - Studio: Prindle. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202035,9,16.0000,144,"Resident Care - Level 1: Prindle. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202035,1,1750.0000,1750,"New Resident Fee: Prindle. Ruby",,,,,,,,,,,,,,,

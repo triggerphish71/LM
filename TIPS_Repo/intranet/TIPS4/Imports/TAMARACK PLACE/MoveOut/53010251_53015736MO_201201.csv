@@ -1,0 +1,6 @@
+BATCH,,201201,B,6043.0000,
+INVOICE,CM,,53010251,,01/01/2012,6043,"Invoice-Private",,01/01/2012,01/10/2012,,53015736MO,-7983.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3503,3503,"CR:Basic Service F... R.Chapman 201201: Chapman, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... R.Chapman 201201: Chapman, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... R.Chapman 201201: Chapman, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,2480,2480,"CR:Resident Care -... R.Chapman 201201: Chapman, Ruby",,,,,,,,,,,,,,,

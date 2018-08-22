@@ -1,0 +1,7 @@
+BATCH,,201202,B,5776.1900,
+INVOICE,IN,,06210169,,02/01/2012,1880.6200,"Invoice-Private",,02/01/2012,02/10/2012,,06213693MO,-2014.9500,,,,,,,,,,
+TRANSACTION,3020,010101062,14,86.0000,1204.00,"Basic Service Fee - Studio for Feb: Dilley, Della Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,14,48.3300,676.62,"Resident Care - Level 27 for Feb: Dilley, Della Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,06210169,,02/01/2012,3895.57,"Invoice-Private",,02/01/2012,02/10/2012,,06213693MO,-2014.9500,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2494,2494,"CR:Basic Service F... D.Dilley 201202: Dilley, Della Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1401.57,1401.57,"CR:Resident Care -... D.Dilley 201202: Dilley, Della Lois",,,,,,,,,,,,,,,

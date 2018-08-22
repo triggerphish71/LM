@@ -1,0 +1,5 @@
+BATCH,,201211,B,3128.0000,
+INVOICE,IN,,03510148,,11/01/2012,368.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03513417MO,-2392.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,4,92.0000,368.00,"Basic Service Fee - Studio for Nov: Walker, Clyde",,,,,,,,,,,,,,,
+INVOICE,CM,,03510148,,11/01/2012,2760,"Invoice-Private",,11/01/2012,11/10/2012,,03513417MO,-2392.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2760,2760,"CR:Basic Service F... C.Walker 201211: Walker, Clyde",,,,,,,,,,,,,,,

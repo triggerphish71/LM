@@ -1,0 +1,7 @@
+BATCH,,201112,B,5148.0000,
+INVOICE,IN,,07810186,,12/08/2011,1056.0000,"Invoice-Private",,12/08/2011,12/08/2011,,07814413MO,-3036.0000,,,,,,,,,,
+TRANSACTION,3027,010104078,8,43.0000,344.00,"Resident Care - Level 3 for Dec: Edgerton, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104078,8,89.0000,712.00,"Room and Board - Studio for Dec: Edgerton, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,07810186,,12/08/2011,4092,"Invoice-Private",,12/08/2011,12/08/2011,,07814413MO,-3036.0000,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1333,1333,"CR:Resident Care -... R.Edgerton 201112: Edgerton, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2759,2759,"CR:Room and Board ... R.Edgerton 201112: Edgerton, Ralph",,,,,,,,,,,,,,,

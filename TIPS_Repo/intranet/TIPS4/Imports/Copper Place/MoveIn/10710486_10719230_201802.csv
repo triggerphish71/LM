@@ -1,0 +1,6 @@
+BATCH,,201802,B,4017.6700,
+INVOICE,IN,,10710486,,02/22/2018,4017.6700,"MoveIn-Carr. Sioux",,02/22/2018,02/22/2018,,10719230,4017.6700,,,,,,,,,,
+TRANSACTION,3010,010007107,8,105.0000,840,"Basic Service Fee - Studio: Carr. Sioux",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007107,7,73.0000,511,"Resident Care - Level 4: Carr. Sioux",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007107,1,2000.0000,2000,"Community Fee: Carr. Sioux",,,,,,,,,,,,,,,
+TRANSACTION,3216,010007107,1,666.6700,666.67,"Monthly Deferral Charge: Carr. Sioux",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,6555.0000,
+INVOICE,IN,,06610171,,05/01/2013,2990.0000,"Invoice-Private",,05/01/2013,05/10/2013,,06615027MO,-575.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,26,115.0000,2990.00,"Basic Service Fee - Deluxe for May: Busler, Alberta",,,,,,,,,,,,,,,
+INVOICE,CM,,06610171,,05/01/2013,3565,"Invoice-Private",,05/01/2013,05/10/2013,,06615027MO,-575.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3565,3565,"CR:Basic Service F... A.Busler 201305: Busler, Alberta",,,,,,,,,,,,,,,

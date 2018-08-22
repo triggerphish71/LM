@@ -1,0 +1,5 @@
+BATCH,,201111,B,2437.6400,
+INVOICE,CM,,50410024,,11/01/2011,2437.64,"Invoice-Medicaid",,11/01/2011,11/10/2011,,50413455MO,-3484.1500,,,,,,,,,,
+TRANSACTION,3021,010318504,1,641,641,"CR:Medicaid Co-Pay... E.Kile 201111: Kile, E. Joann",,,,,,,,,,,,,,,
+TRANSACTION,3021,010318504,1,846,846,"CR:Medicaid Room &... E.Kile 201111: Kile, E. Joann",,,,,,,,,,,,,,,
+TRANSACTION,3022,010318504,1,950.64,950.64,"CR:State Medicaid... E.Kile 201111: Kile, E. Joann",,,,,,,,,,,,,,,

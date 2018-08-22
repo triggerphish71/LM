@@ -1,0 +1,8 @@
+BATCH,,201108,B,3518.0000,
+INVOICE,IN,,03210188,,08/01/2011,170.0000,"Invoice-Private",,08/01/2011,08/10/2011,,03214546MO,-3178.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,62.0000,62.00,"CR:Limited Term Di... F.Tilley 201108: Tilley, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,1,91.0000,91.00,"Basic Service Fee - Studio for Aug: Tilley, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,17.0000,17.00,"Resident Care - Level 1 for Aug: Tilley, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,03210188,,08/01/2011,3348,"Invoice-Private",,08/01/2011,08/10/2011,,03214546MO,-3178.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2821,2821,"CR:Basic Service F... F.Tilley 201108: Tilley, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,527,527,"CR:Resident Care -... F.Tilley 201108: Tilley, Fred",,,,,,,,,,,,,,,

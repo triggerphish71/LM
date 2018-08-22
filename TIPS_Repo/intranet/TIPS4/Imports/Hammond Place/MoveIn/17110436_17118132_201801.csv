@@ -1,0 +1,4 @@
+BATCH,,201801,B,3271.0000,
+INVOICE,IN,,17110436,,01/01/2018,3271.0000,"MoveIn-Moody. John",,01/01/2018,01/01/2018,,17118132,3271.0000,,,,,,,,,,
+TRANSACTION,3010,010008171,31,41.0000,1271,"Basic Service Fee - Second Resident: Moody. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008171,1,2000.0000,2000,"Community Fee: Moody. John",,,,,,,,,,,,,,,

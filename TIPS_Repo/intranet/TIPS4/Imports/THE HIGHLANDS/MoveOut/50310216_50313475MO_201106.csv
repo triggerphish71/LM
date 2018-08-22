@@ -1,0 +1,7 @@
+BATCH,,201106,B,490.0000,
+INVOICE,IN,,50310216,,06/01/2011,245.0000,"Invoice-Private",,06/01/2011,06/10/2011,,50313475MO,-2398.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Edwards, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010220503,30,7.0000,210.00,"Credit for Limited Term Discount: Edwards, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310216,,06/01/2011,245,"Invoice-Private",,06/01/2011,06/10/2011,,50313475MO,-2398.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Edwards, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010220503,30,7,210,"Limited Term Discount: Edwards, Margie",,,,,,,,,,,,,,,

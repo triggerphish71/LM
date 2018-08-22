@@ -1,0 +1,5 @@
+BATCH,,201211,B,3282.0000,
+INVOICE,IN,,17510290,,11/13/2012,3282.0000,"MoveIn-Fisher. Mary",,11/13/2012,11/13/2012,,17517784,3282.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,18,76.0000,1368,"Basic Service Fee - Studio Deluxe: Fisher. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,18,23.0000,414,"Resident Care - Level 2: Fisher. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Fisher. Mary",,,,,,,,,,,,,,,

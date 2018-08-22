@@ -1,0 +1,7 @@
+BATCH,,201202,B,2100.0000,
+INVOICE,IN,,13410201,,02/01/2012,1050.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13415219MO,-562.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: McFadden, Maggie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,29,35.0000,1015.00,"Credit for Limited Term Discount: McFadden, Maggie",,,,,,,,,,,,,,,
+INVOICE,CM,,13410201,,02/01/2012,1050,"Invoice-Private",,02/01/2012,02/10/2012,,13415219MO,-562.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: McFadden, Maggie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309134,29,35,1015,"Limited Term Discount: McFadden, Maggie",,,,,,,,,,,,,,,

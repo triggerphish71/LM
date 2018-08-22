@@ -1,0 +1,6 @@
+BATCH,,201202,B,1877.0000,
+INVOICE,IN,,16810401,,02/29/2012,1877.0000,"MoveIn-Miller. Stanley",,02/29/2012,02/29/2012,,16816401,5064.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,1,89.0000,89,"S.Miller: Basic Service Fee - Efficiency: Miller. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,1,13.0000,13,"S.Miller: Resident Care - Level 1: Miller. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Miller. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Miller. Stanley",,,,,,,,,,,,,,,

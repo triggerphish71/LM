@@ -1,0 +1,6 @@
+BATCH,,201109,B,4417.0000,
+INVOICE,IN,,09010237,,09/09/2011,4417.0000,"MoveIn-Bergin. Fran",,09/09/2011,09/09/2011,,09014740,4417.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,23,89.0000,2047,"Basic Service Fee - Studio         : Bergin. Fran",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,23,15.0000,345,"Resident Care - Level 1: Bergin. Fran",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: Bergin. Fran",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104090,1,2000.0000,2000,"New Resident Fee: Bergin. Fran",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,7187.2600,
+INVOICE,IN,,05310250,,05/10/2012,2479.6000,"Invoice-Private",,05/10/2012,05/10/2012,,05314557MO,-2228.0600,,,,,,,,,,
+TRANSACTION,3320,010101053,1,961.0000,961.00,"CR:Limited Term Di... E.Lewis 201205: Lewis, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101053,10,91.0000,910.00,"Basic Service Fee - Studio for May: Lewis, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,10,60.8600,608.60,"Resident Care - Level 34 for May: Lewis, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,05310250,,05/10/2012,4707.66,"Invoice-Private",,05/10/2012,05/10/2012,,05314557MO,-2228.0600,,,,,,,,,,
+TRANSACTION,3020,010101053,1,2821,2821,"CR:Basic Service F... E.Lewis 201205: Lewis, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101053,1,1886.66,1886.66,"CR:Resident Care -... E.Lewis 201205: Lewis, Eugene",,,,,,,,,,,,,,,

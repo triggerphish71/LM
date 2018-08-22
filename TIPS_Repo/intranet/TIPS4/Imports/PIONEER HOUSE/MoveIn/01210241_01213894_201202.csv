@@ -1,0 +1,6 @@
+BATCH,,201202,B,2419.4000,
+INVOICE,IN,,01210241,,02/25/2012,2419.4000,"MoveIn-Smith. Ildra",,02/25/2012,02/25/2012,,01213894,7968.8800,,,,,,,,,,
+TRANSACTION,3010,010103012,5,85.0000,425,"Basic Service Fee - Studio: Smith. Ildra",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,5,93.0800,465.4,"Resident Care - Level 52: Smith. Ildra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Smith. Ildra",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Smith. Ildra",,,,,,,,,,,,,,,

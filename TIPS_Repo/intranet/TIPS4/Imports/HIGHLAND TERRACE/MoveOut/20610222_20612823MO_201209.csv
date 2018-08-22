@@ -1,0 +1,7 @@
+BATCH,,201209,B,666.0000,
+INVOICE,IN,,20610222,,09/01/2012,333.0000,"Invoice-Private",,09/01/2012,09/10/2012,,20612823MO,-3588.8000,,,,,,,,,,
+TRANSACTION,3312,010214206,30,9.1000,273.00,"Credit for Two Room Rental Discount: Lodispoto, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010214206,30,2.0000,60.00,"Credit for Limited Term Discount: Lodispoto, John",,,,,,,,,,,,,,,
+INVOICE,CM,,20610222,,09/01/2012,333,"Invoice-Private",,09/01/2012,09/10/2012,,20612823MO,-3588.8000,,,,,,,,,,
+TRANSACTION,3312,010214206,30,9.1,273,"Two Room Rental Discount: Lodispoto, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010214206,30,2,60,"Limited Term Discount: Lodispoto, John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,868.0000,
+INVOICE,IN,,01810133,,08/01/2011,434.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01812376MO,-3929.5000,,,,,,,,,,
+TRANSACTION,3320,010103018,31,14.0000,434.00,"Credit for Limited Term Discount: Singleton, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,01810133,,08/01/2011,434,"Invoice-Private",,08/01/2011,08/10/2011,,01812376MO,-3929.5000,,,,,,,,,,
+TRANSACTION,3320,010103018,31,14,434,"Limited Term Discount: Singleton, Henry",,,,,,,,,,,,,,,

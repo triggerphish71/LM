@@ -1,0 +1,5 @@
+BATCH,,201112,B,1088.7400,
+INVOICE,IN,,01010170,,12/31/2011,1088.7400,"MoveIn-Lengele. Francis (Frank)",,12/31/2011,12/31/2011,,01012771,3839.6800,,,,,,,,,,
+TRANSACTION,3010,010101010,1,78.0000,78,"F.Lengele: Basic Service Fee - Studio: Lengele. Francis (Frank)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101010,1,10.7400,10.74,"F.Lengele: Resident Care - Level 6: Lengele. Francis (Frank)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,1000.0000,1000,"New Resident Fee: Lengele. Francis (Frank)",,,,,,,,,,,,,,,

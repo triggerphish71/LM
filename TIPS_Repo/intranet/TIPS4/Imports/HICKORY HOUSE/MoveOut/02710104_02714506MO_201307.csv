@@ -1,0 +1,7 @@
+BATCH,,201307,B,3864.0000,
+INVOICE,IN,,02710104,,07/25/2013,1725.0000,"Invoice-Private",,07/25/2013,07/25/2013,,02714506MO,-2553.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,25,37.0000,925.00,"Basic Service Fee - Second Resident for Jul: Melton, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,25,32.0000,800.00,"Resident Care - Level 2 for Jul: Melton, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,02710104,,07/25/2013,2139,"Invoice-Private",,07/25/2013,07/25/2013,,02714506MO,-2553.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,1147,1147,"CR:Basic Service F... A.Melton 201307: Melton, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,992,992,"CR:Resident Care -... A.Melton 201307: Melton, Albert",,,,,,,,,,,,,,,

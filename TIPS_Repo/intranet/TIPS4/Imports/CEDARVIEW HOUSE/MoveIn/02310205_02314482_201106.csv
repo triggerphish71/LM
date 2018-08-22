@@ -1,0 +1,5 @@
+BATCH,,201106,B,2116.0000,
+INVOICE,IN,,02310205,,06/30/2011,2116.0000,"MoveIn-Shelton. Ruby",,06/30/2011,06/30/2011,,02314482,4962.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,1,91.0000,91,"Basic Service Fee - Studio         : Shelton. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Shelton. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Shelton. Ruby",,,,,,,,,,,,,,,

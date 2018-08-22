@@ -1,0 +1,6 @@
+BATCH,,201212,B,3257.0000,
+INVOICE,IN,,02610293,,12/14/2012,3257.0000,"MoveIn-Murphy. Shirley",,12/14/2012,12/14/2012,,02615067,6694.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,18,97.0000,1746,"Basic Service Fee - Studio: Murphy. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,18,13.0000,234,"Resident Care - Level 1: Murphy. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Murphy. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1250.0000,1250,"New Resident Fee: Murphy. Shirley",,,,,,,,,,,,,,,

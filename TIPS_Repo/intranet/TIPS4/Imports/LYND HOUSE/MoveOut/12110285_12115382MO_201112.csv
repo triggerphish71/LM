@@ -1,0 +1,6 @@
+BATCH,,201112,B,5010.0000,
+INVOICE,IN,,12110285,,12/03/2011,1290.0000,"Invoice-Private",,12/03/2011,12/03/2011,,12115382MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,930.0000,930.00,"CR:Limited Term Di... J.Hoover 201112: Hoover, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,3,120.0000,360.00,"Basic Service Fee- One Bedroom Prem for Dec: Hoover, John",,,,,,,,,,,,,,,
+INVOICE,CM,,12110285,,12/03/2011,3720,"Invoice-Private",,12/03/2011,12/03/2011,,12115382MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3720,3720,"CR:Basic Service F... J.Hoover 201112: Hoover, John",,,,,,,,,,,,,,,

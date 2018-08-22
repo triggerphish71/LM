@@ -1,0 +1,7 @@
+BATCH,,201806,B,6536.0000,
+INVOICE,IN,,31400010,,06/08/2018,1376.0000,"Invoice-Private",,06/08/2018,06/08/2018,,31411015MO,-3784.0000,,,,,,,,,,
+TRANSACTION,3020,070025314,8,134.0000,1072.00,"Studio for Jun: Headrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,070025314,8,38.0000,304.00,"Resident Care - Level 3 for Jun: Headrick, George",,,,,,,,,,,,,,,
+INVOICE,CM,,31400010,,06/08/2018,5160,"Invoice-Private",,06/08/2018,06/08/2018,,31411015MO,-3784.0000,,,,,,,,,,
+TRANSACTION,3027,070025314,1,1140,1140,"CR:Resident Care -... G.Headrick 201806: Headrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025314,1,4020,4020,"CR:Studio... G.Headrick 201806: Headrick, George",,,,,,,,,,,,,,,

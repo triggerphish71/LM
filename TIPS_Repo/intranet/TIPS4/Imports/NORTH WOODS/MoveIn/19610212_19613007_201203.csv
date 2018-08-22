@@ -1,0 +1,6 @@
+BATCH,,201203,B,1065.0000,
+INVOICE,IN,,19610212,,03/23/2012,1065.0000,"MoveIn-Doutree. Eunice",,03/23/2012,03/23/2012,,19613007,3315.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,9,18.0000,162,"Basic Service Fee - Second Resident: Doutree. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,9,57.0000,513,"Resident Care - Level 5: Doutree. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3250,010315196,9,10.0000,90,"Meals: Doutree. Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3250,010315196,30,10.0000,300,"Meals: Doutree. Eunice",,,,,,,,,,,,,,,

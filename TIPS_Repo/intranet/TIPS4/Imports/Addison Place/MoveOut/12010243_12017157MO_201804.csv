@@ -1,0 +1,6 @@
+BATCH,,201804,B,4085.0000,
+INVOICE,IN,,12010243,,04/25/2018,2075.0000,"Invoice-Private",,04/25/2018,04/25/2018,,12017157MO,-2043.5200,,,,,,,,,,
+TRANSACTION,3017,010009120,25,16.0000,400.00," Level: 2 : Alspaugh, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009120,25,67.0000,1675.00,"Basic Service Fee - Studio  for Apr: Alspaugh, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,12010243,,04/25/2018,2010,"Invoice-Private",,04/25/2018,04/25/2018,,12017157MO,-2043.5200,,,,,,,,,,
+TRANSACTION,3020,010009120,1,2010,2010,"CR:Basic Service F... R.Alspaugh 201804: Alspaugh, Robert",,,,,,,,,,,,,,,

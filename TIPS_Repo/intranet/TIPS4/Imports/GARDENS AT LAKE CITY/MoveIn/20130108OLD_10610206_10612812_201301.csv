@@ -1,0 +1,6 @@
+BATCH,,201301,B,5235.0000,
+INVOICE,IN,,10610206,,01/07/2013,5235.0000,"MoveIn-Wideman. Ralph",,01/07/2013,01/07/2013,,10612812,5235.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,25,87.0000,2175,"Basic Service Fee - Studio: Wideman. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309106,25,61.0000,1525,"Resident Care - Level 4: Wideman. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Wideman. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309106,1,1500.0000,1500,"New Resident Fee: Wideman. Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,3648.0000,
+INVOICE,IN,,11810205,,01/16/2013,3648.0000,"MoveIn-Miller. Robert",,01/16/2013,01/16/2013,,11815722,8252.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,16,102.0000,1632,"R.Miller: Basic Service Fee - Studio: Miller. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,16,61.0000,976,"R.Miller: Resident Care - Level 4: Miller. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Miller. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,1000.0000,1000,"New Resident Fee: Miller. Robert",,,,,,,,,,,,,,,

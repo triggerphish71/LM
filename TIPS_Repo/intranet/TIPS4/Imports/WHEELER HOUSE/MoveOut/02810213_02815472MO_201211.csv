@@ -1,0 +1,7 @@
+BATCH,,201211,B,2184.0000,
+INVOICE,IN,,02810213,,11/01/2012,504.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02815472MO,-1176.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,9,31.0000,279.00,"Basic Service Fee - Second Resident for Nov: Insel, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,9,25.0000,225.00,"Resident Care - Level 2 for Nov: Insel, Georgia",,,,,,,,,,,,,,,
+INVOICE,CM,,02810213,,11/01/2012,1680,"Invoice-Private",,11/01/2012,11/10/2012,,02815472MO,-1176.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,930,930,"CR:Basic Service F... G.Insel 201211: Insel, Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,750,750,"CR:Resident Care -... G.Insel 201211: Insel, Georgia",,,,,,,,,,,,,,,

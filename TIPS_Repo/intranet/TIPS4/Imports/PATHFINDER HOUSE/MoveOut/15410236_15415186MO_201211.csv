@@ -1,0 +1,8 @@
+BATCH,,201211,B,8065.0000,
+INVOICE,IN,,15410236,,11/25/2012,3650.0000,"Invoice-Private",,11/25/2012,11/25/2012,,15415186MO,-5326.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,25,85.0000,2125.00,"Basic Service Fee - One Bedroom for Nov: Kuhr, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,25,61.0000,1525.00,"Resident Care - Level 4 for Nov: Kuhr, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15410236,,11/25/2012,4415,"Invoice-Private",,11/25/2012,11/25/2012,,15415186MO,-5326.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2550,2550,"CR:Basic Service F... M.Kuhr 201211: Kuhr, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... M.Kuhr 201211: Kuhr, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1830,1830,"CR:Resident Care -... M.Kuhr 201211: Kuhr, Mary",,,,,,,,,,,,,,,

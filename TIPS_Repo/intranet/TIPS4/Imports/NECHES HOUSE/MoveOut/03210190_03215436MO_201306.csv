@@ -1,0 +1,7 @@
+BATCH,,201306,B,5616.0000,
+INVOICE,IN,,03210190,,06/22/2013,2376.0000,"Invoice-Private",,06/22/2013,06/22/2013,,03215436MO,-4212.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,22,55.0000,1210.00,"Basic Service Fee - Studio for Jun: Huffman, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,22,53.0000,1166.00,"Resident Care - Level 4 for Jun: Huffman, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,03210190,,06/22/2013,3240,"Invoice-Private",,06/22/2013,06/22/2013,,03215436MO,-4212.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,1650,1650,"CR:Basic Service F... W.Huffman 201306: Huffman, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1590,1590,"CR:Resident Care -... W.Huffman 201306: Huffman, Willard",,,,,,,,,,,,,,,

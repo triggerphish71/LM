@@ -1,0 +1,5 @@
+BATCH,,201109,B,80.0000,
+INVOICE,IN,,06010227,,09/01/2011,40.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06013996MO,-8576.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Yeoman, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,06010227,,09/01/2011,40,"Invoice-Private",,09/01/2011,09/10/2011,,06013996MO,-8576.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Yeoman, Harry",,,,,,,,,,,,,,,

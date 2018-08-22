@@ -1,0 +1,8 @@
+BATCH,,201306,B,5537.0000,
+INVOICE,IN,,10910261,,06/23/2013,2392.0000,"Invoice-Private",,06/23/2013,06/23/2013,,10915381MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3027,010305109,23,33.0000,759.00,"Resident Care - Level 2 for Jun: Scott, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305109,23,71.0000,1633.00,"Room and Board - One Bedroom Premium for Jun: Scott, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,10910261,,06/23/2013,3145,"Invoice-Private",,06/23/2013,06/23/2013,,10915381MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... C.Scott 201306: Scott, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,990,990,"CR:Resident Care -... C.Scott 201306: Scott, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2130,2130,"CR:Room and Board ... C.Scott 201306: Scott, Charles",,,,,,,,,,,,,,,

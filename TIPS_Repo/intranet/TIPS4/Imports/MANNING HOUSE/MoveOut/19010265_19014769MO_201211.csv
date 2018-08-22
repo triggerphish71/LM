@@ -1,0 +1,7 @@
+BATCH,,201211,B,2292.0000,
+INVOICE,IN,,19010265,,11/24/2012,1104.0000,"Invoice-Private",,11/24/2012,11/24/2012,,19014769MO,-1510.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,24,30.0000,720.00,"Basic Service Fee - Second Resident for Nov: Morgan, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,24,16.0000,384.00,"Service : lvl 0 to lvl 1 - 11/13/12 for Nov: Morgan, Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,19010265,,11/24/2012,1188,"Invoice-Private",,11/24/2012,11/24/2012,,19014769MO,-1510.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,900,900,"CR:Basic Service F... F.Morgan 201211: Morgan, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,288,288,"CR:Service : lvl 0... F.Morgan 201211: Morgan, Faye",,,,,,,,,,,,,,,

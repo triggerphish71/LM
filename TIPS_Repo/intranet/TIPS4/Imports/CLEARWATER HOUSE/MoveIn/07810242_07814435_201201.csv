@@ -1,0 +1,6 @@
+BATCH,,201201,B,5195.0000,
+INVOICE,IN,,07810242,,01/02/2012,5195.0000,"MoveIn-Moran. Ron",,01/02/2012,01/02/2012,,07814435,5195.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,30,96.0000,2880,"R.Moran: Basic Service Fee - Deluxe: Moran. Ron",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,30,43.0000,1290,"R.Moran: Resident Care - Level 3: Moran. Ron",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Moran. Ron",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,1000.0000,1000,"New Resident Fee: Moran. Ron",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201207,B,3931.0000,
+INVOICE,IN,,11110314,,07/01/2012,3931.0000,"July_Rent-Clayton. Barbara",,07/01/2012,07/10/2012,,11114851,6208.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,31,97.0000,3007,"Basic Service Fee - Studio: Clayton. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,31,29.0000,899,"Resident Care - Level 2: Clayton. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Clayton. Barbara",,,,,,,,,,,,,,,

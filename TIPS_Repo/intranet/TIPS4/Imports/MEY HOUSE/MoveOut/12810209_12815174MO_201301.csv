@@ -1,0 +1,8 @@
+BATCH,,201301,B,7810.0000,
+INVOICE,IN,,12810209,,01/04/2013,2540.0000,"Invoice-Private",,01/04/2013,01/04/2013,,12815174MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,1,1860.0000,1860.00,"CR:Limited Term Di... T.Harris 201301: Harris, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306128,4,135.0000,540.00,"Basic Service Fee - One Bedroom for Jan: Harris, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,4,35.0000,140.00,"Swan Personal Care - L2 for Jan: Harris, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,12810209,,01/04/2013,5270,"Invoice-Private",,01/04/2013,01/04/2013,,12815174MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,4185,4185,"CR:Basic Service F... T.Harris 201301: Harris, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,1085,1085,"CR:Swan Personal C... T.Harris 201301: Harris, Thomas",,,,,,,,,,,,,,,

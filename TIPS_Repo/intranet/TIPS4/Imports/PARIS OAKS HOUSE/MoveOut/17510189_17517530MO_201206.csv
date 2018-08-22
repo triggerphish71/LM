@@ -1,0 +1,7 @@
+BATCH,,201206,B,2040.0000,
+INVOICE,IN,,17510189,,06/01/2012,1020.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17517530MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3130,010202175,1,30.0000,30.00,"Pendant Fee: Gwinner, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202175,30,33.0000,990.00,"Credit for Limited Term Discount: Gwinner, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,17510189,,06/01/2012,1020,"Invoice-Private",,06/01/2012,06/10/2012,,17517530MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3130,010202175,1,30,30,"Credit for Pendant Fee: Gwinner, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202175,30,33,990,"Limited Term Discount: Gwinner, Paul",,,,,,,,,,,,,,,

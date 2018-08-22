@@ -1,0 +1,7 @@
+BATCH,,201202,B,3346.2000,
+INVOICE,IN,,03010192,,01/23/2012,1003.8600,"MoveIn-Bancroft. Phyllis",,01/23/2012,01/23/2012,,03013962,3346.2000,,,,,,,,,,
+TRANSACTION,3014,010103030,9,100.8000,907.2,"Basic Service Fee- Respite Studio: Bancroft. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,9,10.7400,96.66,"Resident Care - Level 6: Bancroft. Phyllis",,,,,,,,,,,,,,,
+INVOICE,IN,,03010192,,02/01/2012,2342.3400,"February_Rent-Bancroft. Phyllis",,02/01/2012,02/10/2012,,03013962,3346.2000,,,,,,,,,,
+TRANSACTION,3010,010103030,21,100.8000,2116.8,"Basic Service Fee- Respite Studio: Bancroft. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,21,10.7400,225.54,"Resident Care - Level 6: Bancroft. Phyllis",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201111,B,3150.0000,
+INVOICE,IN,,14810328,,11/11/2011,3150.0000,"MoveIn-Sherrill. Clara",,11/11/2011,11/11/2011,,14814743,3150.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,20,88.0000,1760,"Basic Service Fee - Studio         : Sherrill. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,20,18.0000,360,"Resident Care - Level 1: Sherrill. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Sherrill. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Sherrill. Clara",,,,,,,,,,,,,,,

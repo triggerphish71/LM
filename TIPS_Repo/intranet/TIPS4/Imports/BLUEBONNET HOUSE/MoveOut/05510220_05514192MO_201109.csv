@@ -1,0 +1,7 @@
+BATCH,,201109,B,6048.0000,
+INVOICE,IN,,05510220,,09/24/2011,2808.0000,"Invoice-Private",,09/24/2011,09/24/2011,,05514192MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,26,92.0000,2392.00,"Basic Service Fee - Studio for Sep: Boughton, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,26,16.0000,416.00,"Resident Care - Level 1 for Sep: Boughton, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,05510220,,09/24/2011,3240,"Invoice-Private",,09/24/2011,09/24/2011,,05514192MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2760,2760,"CR:Basic Service F... P.Boughton 201109: Boughton, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,480,480,"CR:Resident Care -... P.Boughton 201109: Boughton, Patricia",,,,,,,,,,,,,,,

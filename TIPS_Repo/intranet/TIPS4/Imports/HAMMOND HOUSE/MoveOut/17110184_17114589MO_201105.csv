@@ -1,0 +1,8 @@
+BATCH,,201105,B,5539.0000,
+INVOICE,IN,,17110184,,05/21/2011,2226.0000,"Invoice-Private",,05/21/2011,05/21/2011,,17114589MO,-4294.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,21,90.0000,1890.00,"Basic Service Fee - Studio for May: Raborn, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,21,16.0000,336.00,"Resident Care - Level 1 for May: Raborn, Phillip",,,,,,,,,,,,,,,
+INVOICE,CM,,17110184,,05/21/2011,3313,"Invoice-Private",,05/21/2011,05/21/2011,,17114589MO,-4294.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2790,2790,"CR:Basic Service F... P.Raborn 201105: Raborn, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... P.Raborn 201105: Raborn, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,496,496,"CR:Resident Care -... P.Raborn 201105: Raborn, Phillip",,,,,,,,,,,,,,,

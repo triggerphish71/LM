@@ -1,0 +1,7 @@
+BATCH,,201211,B,943.0000,
+INVOICE,IN,,12410283,,11/01/2012,471.5000,"Invoice-Private",,11/01/2012,11/10/2012,,12415011MO,-2577.4500,,,,,,,,,,
+TRANSACTION,3320,010211124,30,14.5500,436.50,"Credit for Limited Term Discount: Easland, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Easland, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,12410283,,11/01/2012,471.5,"Invoice-Private",,11/01/2012,11/10/2012,,12415011MO,-2577.4500,,,,,,,,,,
+TRANSACTION,3320,010211124,30,14.55,436.5,"Limited Term Discount: Easland, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Easland, Helen",,,,,,,,,,,,,,,

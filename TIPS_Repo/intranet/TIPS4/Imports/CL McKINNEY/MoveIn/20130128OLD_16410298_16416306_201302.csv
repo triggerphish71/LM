@@ -1,0 +1,5 @@
+BATCH,,201302,B,3105.0000,
+INVOICE,IN,,16410298,,02/01/2013,3105.0000,"February_Rent-Farley. Ozella",,02/01/2013,02/10/2013,,16416306,3900.0000,,,,,,,,,,
+TRANSACTION,3010,010202164,28,95.0000,2660,"Basic Service Fee - Studio Deluxe: Farley. Ozella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202164,28,15.0000,420,"Resident Care - Level 1: Farley. Ozella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25.0000,25,"Monthly Cable: Farley. Ozella",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,5270.0000,
+INVOICE,IN,,14510294,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14515460MO,-7102.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,62.0000,62.00,"CR:Limited Term Di... F.Middleton 201205: Middleton, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,14510294,,05/01/2012,5208,"Invoice-Private",,05/01/2012,05/10/2012,,14515460MO,-7102.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3069,3069,"CR:Basic Service F... F.Middleton 201205: Middleton, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2139,2139,"CR:Resident Care -... F.Middleton 201205: Middleton, Frank",,,,,,,,,,,,,,,

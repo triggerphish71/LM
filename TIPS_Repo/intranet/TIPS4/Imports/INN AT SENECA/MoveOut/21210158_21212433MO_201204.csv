@@ -1,0 +1,7 @@
+BATCH,,201204,B,3980.0000,
+INVOICE,IN,,21210158,,04/01/2012,230.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21212433MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,180.0000,180.00,"CR:Limited Term Di... M.Holmlin 201204: Holmlin, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3150,010208212,1,50.0000,50.00,"Late Fee Payment: Holmlin, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,21210158,,04/01/2012,3750,"Invoice-Private",,04/01/2012,04/10/2012,,21212433MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,990,990,"CR:Resident Care -... M.Holmlin 201204: Holmlin, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... M.Holmlin 201204: Holmlin, Mary Ann",,,,,,,,,,,,,,,

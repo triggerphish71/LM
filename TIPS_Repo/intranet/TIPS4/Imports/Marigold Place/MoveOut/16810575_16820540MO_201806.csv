@@ -1,0 +1,8 @@
+BATCH,,201806,B,6696.0000,
+INVOICE,IN,,16810575,,06/18/2018,3546.0000,"Invoice-Private",,06/18/2018,06/18/2018,,16820540MO,-2615.6500,,,,,,,,,,
+TRANSACTION,3017,010013168,9,25.0000,225.00,"Level: 2 : Slawson, Myra ",,,,,,,,,,,,,,,
+TRANSACTION,3017,010013168,17,73.0000,1241.00," Level: 5 : Slawson, Myra ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010013168,26,80.0000,2080.00,"Basic Service Fee - Studio Deluxe for Jun: Slawson, Myra ",,,,,,,,,,,,,,,
+INVOICE,CM,,16810575,,06/18/2018,3150,"Invoice-Private",,06/18/2018,06/18/2018,,16820540MO,-2615.6500,,,,,,,,,,
+TRANSACTION,3020,010013168,1,2400,2400,"CR:Basic Service F... M.Slawson 201806: Slawson, Myra ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010013168,1,750,750,"CR:Resident Care -... M.Slawson 201806: Slawson, Myra ",,,,,,,,,,,,,,,

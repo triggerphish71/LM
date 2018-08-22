@@ -1,0 +1,5 @@
+BATCH,,201106,B,60.0000,
+INVOICE,IN,,14810284,,06/01/2011,30.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14814540MO,-1479.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30.00,"Monthly Cable: Millington, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14810284,,06/01/2011,30,"Invoice-Private",,06/01/2011,06/10/2011,,14814540MO,-1479.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"Credit for Monthly Cable: Millington, Dorothy",,,,,,,,,,,,,,,

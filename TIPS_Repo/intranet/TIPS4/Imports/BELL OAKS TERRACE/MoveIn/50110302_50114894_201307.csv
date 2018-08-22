@@ -1,0 +1,5 @@
+BATCH,,201307,B,1512.0000,
+INVOICE,IN,,50110302,,07/19/2013,1512.0000,"MoveIn-Petty. Catherine",,07/19/2013,07/19/2013,,50114894,5076.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,13,88.0000,1144,"Basic Service Fee - Studio: Petty. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,13,26.0000,338,"Resident Care - Level 2: Petty. Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Petty. Catherine",,,,,,,,,,,,,,,

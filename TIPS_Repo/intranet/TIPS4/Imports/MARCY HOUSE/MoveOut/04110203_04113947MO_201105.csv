@@ -1,0 +1,8 @@
+BATCH,,201105,B,4539.0000,
+INVOICE,IN,,04110203,,05/16/2011,1536.0000,"Invoice-Private",,05/16/2011,05/16/2011,,04113947MO,-4374.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,16,79.0000,1264.00,"Basic Service Fee - Studio for May: Pratt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,16,17.0000,272.00,"Resident Care - Level 1 for May: Pratt, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04110203,,05/16/2011,3003,"Invoice-Private",,05/16/2011,05/16/2011,,04113947MO,-4374.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2449,2449,"CR:Basic Service F... M.Pratt 201105: Pratt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27,27,"CR:Monthly Cable... M.Pratt 201105: Pratt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... M.Pratt 201105: Pratt, Mary",,,,,,,,,,,,,,,

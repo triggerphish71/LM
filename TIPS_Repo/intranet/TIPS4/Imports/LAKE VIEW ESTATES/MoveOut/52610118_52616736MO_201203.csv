@@ -1,0 +1,5 @@
+BATCH,,201203,B,3008.0000,
+INVOICE,IN,,52610118,,03/05/2012,1024.0000,"Invoice-Private",,03/05/2012,03/05/2012,,52616736MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,16,64.0000,1024.00,"Basic Service Fee - Studio for Mar: MitchellDanner, Eleanore",,,,,,,,,,,,,,,
+INVOICE,CM,,52610118,,03/05/2012,1984,"Invoice-Private",,03/05/2012,03/05/2012,,52616736MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,1984,1984,"CR:Basic Service F... E.MitchellDanner 201203: MitchellDanner, Eleanore",,,,,,,,,,,,,,,

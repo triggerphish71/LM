@@ -1,0 +1,8 @@
+BATCH,,201108,B,5322.0000,
+INVOICE,IN,,12010183,,08/01/2011,1944.0000,"Invoice-Private",,08/01/2011,08/10/2011,,12014039MO,-1434.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,18,93.0000,1674.00,"Basic Service Fee - One Bedroom for Aug: Griffin, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,18,15.0000,270.00,"Resident Care - Level 1 for Aug: Griffin, Eula",,,,,,,,,,,,,,,
+INVOICE,CM,,12010183,,08/01/2011,3378,"Invoice-Private",,08/01/2011,08/10/2011,,12014039MO,-1434.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2883,2883,"CR:Basic Service F... E.Griffin 201108: Griffin, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... E.Griffin 201108: Griffin, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309120,1,465,465,"CR:Resident Care -... E.Griffin 201108: Griffin, Eula",,,,,,,,,,,,,,,

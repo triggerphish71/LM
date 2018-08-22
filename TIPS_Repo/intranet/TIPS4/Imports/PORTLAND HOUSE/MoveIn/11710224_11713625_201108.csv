@@ -1,0 +1,6 @@
+BATCH,,201108,B,2030.0000,
+INVOICE,IN,,11710224,,08/27/2011,2030.0000,"MoveIn-Slusher. Laura",,08/27/2011,08/27/2011,,11713625,5060.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,5,83.0000,415,"Basic Service Fee - Studio         : Slusher. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,5,17.0000,85,"Resident Care - Level 1: Slusher. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1500.0000,1500,"New Resident Fee: Slusher. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Slusher. Laura",,,,,,,,,,,,,,,

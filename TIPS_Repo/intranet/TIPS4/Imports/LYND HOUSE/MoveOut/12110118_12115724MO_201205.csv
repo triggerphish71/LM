@@ -1,0 +1,8 @@
+BATCH,,201205,B,4162.0000,
+INVOICE,IN,,12110118,,05/01/2012,186.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12115724MO,-4814.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,186.0000,186.00,"CR:Limited Term Di... N.Sweeney 201205: Sweeney, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,12110118,,05/01/2012,3976,"Invoice-Private",,05/01/2012,05/10/2012,,12115724MO,-4814.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3007,3007,"CR:Basic Service F... N.Sweeney 201205: Sweeney, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... N.Sweeney 201205: Sweeney, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309121,1,35,35,"CR:Pendant Fee... N.Sweeney 201205: Sweeney, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,899,899,"CR:Resident Care -... N.Sweeney 201205: Sweeney, Nancy",,,,,,,,,,,,,,,

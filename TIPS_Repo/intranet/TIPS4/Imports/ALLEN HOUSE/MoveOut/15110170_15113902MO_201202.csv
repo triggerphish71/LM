@@ -1,0 +1,5 @@
+BATCH,,201202,B,70.0000,
+INVOICE,IN,,15110170,,02/03/2012,35.0000,"Invoice-Private",,02/03/2012,02/03/2012,,15113902MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Nelson, Folmer",,,,,,,,,,,,,,,
+INVOICE,CM,,15110170,,02/03/2012,35,"Invoice-Private",,02/03/2012,02/03/2012,,15113902MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Nelson, Folmer",,,,,,,,,,,,,,,

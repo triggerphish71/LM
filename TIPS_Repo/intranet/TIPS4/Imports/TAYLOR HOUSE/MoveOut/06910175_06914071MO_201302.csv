@@ -1,0 +1,5 @@
+BATCH,,201302,B,2220.0000,
+INVOICE,IN,,06910175,,02/01/2013,540.0000,"Invoice-Private",,02/01/2013,02/10/2013,,06914071MO,-1140.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,9,60.0000,540.00,"Basic Service Fee - Deluxe for Feb: Taylor, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,06910175,,02/01/2013,1680,"Invoice-Private",,02/01/2013,02/10/2013,,06914071MO,-1140.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,1680,1680,"CR:Basic Service F... M.Taylor 201302: Taylor, Mildred",,,,,,,,,,,,,,,

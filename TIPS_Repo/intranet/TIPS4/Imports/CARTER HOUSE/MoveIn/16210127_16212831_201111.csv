@@ -1,0 +1,5 @@
+BATCH,,201111,B,4041.0000,
+INVOICE,IN,,16210127,,11/10/2011,4041.0000,"MoveIn-Caul. Fred",,11/10/2011,11/10/2011,,16212831,4041.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,21,79.0000,1659,"F.Caul: Basic Service Fee - One Bedroom: Caul. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,21,42.0000,882,"F.Caul: Resident Care - Level 3: Caul. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Caul. Fred",,,,,,,,,,,,,,,

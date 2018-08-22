@@ -1,0 +1,7 @@
+BATCH,,201210,B,110.0000,
+INVOICE,IN,,53210248,,10/01/2012,55.0000,"Invoice-Private",,10/01/2012,10/10/2012,,53215354MO,-4041.0100,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30.00,"Monthly Cable: Plummer, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25.0000,25.00,"Pendant Fee: Plummer, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,53210248,,10/01/2012,55,"Invoice-Private",,10/01/2012,10/10/2012,,53215354MO,-4041.0100,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"Credit for Monthly Cable: Plummer, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"Credit for Pendant Fee: Plummer, Helen",,,,,,,,,,,,,,,

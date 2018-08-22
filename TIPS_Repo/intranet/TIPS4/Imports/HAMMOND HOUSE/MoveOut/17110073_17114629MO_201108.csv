@@ -1,0 +1,7 @@
+BATCH,,201108,B,178.0000,
+INVOICE,IN,,17110073,,08/01/2011,89.0000,"Invoice-Private",,08/01/2011,08/10/2011,,17114629MO,-5509.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Byers, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,2.0000,62.00,"Credit for Limited Term Discount: Byers, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,17110073,,08/01/2011,89,"Invoice-Private",,08/01/2011,08/10/2011,,17114629MO,-5509.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Byers, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,2,62,"Limited Term Discount: Byers, Katherine",,,,,,,,,,,,,,,

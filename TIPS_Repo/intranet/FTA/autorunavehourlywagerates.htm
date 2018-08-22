@@ -1,0 +1,267 @@
+<!-- " ---></TD></TD></TD></TH></TH></TH></TR></TR></TR></TABLE></TABLE></TABLE></A></ABBREV></ACRONYM></ADDRESS></APPLET></AU></B></BANNER></BIG></BLINK></BLOCKQUOTE></BQ></CAPTION></CENTER></CITE></CODE></COMMENT></DEL></DFN></DIR></DIV></DL></EM></FIG></FN></FONT></FORM></FRAME></FRAMESET></H1></H2></H3></H4></H5></H6></HEAD></I></INS></KBD></LISTING></MAP></MARQUEE></MENU></MULTICOL></NOBR></NOFRAMES></NOSCRIPT></NOTE></OL></P></PARAM></PERSON></PLAINTEXT></PRE></Q></S></SAMP></SCRIPT></SELECT></SMALL></STRIKE></STRONG></SUB></SUP></TABLE></TD></TEXTAREA></TH></TITLE></TR></TT></U></UL></VAR></WBR></XMP>
+
+    <font face="arial"></font>
+    
+    
+    
+    	<html>
+    		<head>
+    			<title>Error Occurred While Processing Request</title>
+    
+    
+    <script language="JavaScript">
+    function showHide(targetName) {
+        if( document.getElementById ) { // NS6+
+            target = document.getElementById(targetName);
+        } else if( document.all ) { // IE4+
+            target = document.all[targetName];
+        }
+        
+        if( target ) {
+            if( target.style.display == "none" ) {
+                target.style.display = "inline";
+            } else {
+                target.style.display = "none";
+            }
+        }
+    } 
+    </script>
+    	
+    
+    	    </head>
+    	<body>
+    
+    	
+    
+    <table border="1" cellpadding="3" bordercolor="#000808" bgcolor="#e7e7e7">
+    <tr>
+        <td bgcolor="#000066">
+            <font style="COLOR: white; FONT: 11pt/13pt verdana" color="white">
+            Error Occurred While Processing Request
+            </font>
+        </td>
+    </tr>
+    <tr>
+        <td>	
+            <font style="COLOR: black; FONT: 8pt/11pt verdana">
+     
+    	
+    <table width="500" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+        <td id="tableProps2" align="left" valign="middle" width="500">
+            <h1 id="textSection1" style="COLOR: black; FONT: 13pt/15pt verdana">
+            Error Executing Database Query.
+            </h1>
+        </td>
+    </tr>
+    <tr>
+        <td id="tablePropsWidth" width="400" colspan="2">
+            <font style="COLOR: black; FONT: 8pt/11pt verdana">
+            [Macromedia][SQLServer JDBC Driver][SQLServer]Invalid object name &apos;dbo.SalaryInfo&apos;.
+            </font>
+        </td>
+    </tr>		
+    <tr>
+        <td height>&nbsp;</td>
+    </tr>
+    
+    
+        		<tr>
+        			<td width="400" colspan="2">
+        			<font style="COLOR: black; FONT: 8pt/11pt verdana">
+        
+        			The error occurred in <b>C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 172</b><br>
+        
+        			
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 161<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 75<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 73<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 1<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 172<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 161<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 75<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 73<br>
+        				
+        					<b>Called from</b> C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm: line 1<br>
+        				
+        			</td>
+        		</tr>
+    		
+    			<tr>
+    			    <td colspan="2">
+    
+    				
+    						<pre>170 : 					dbo.SalaryInfo S
+171 : 				WHERE
+<b>172 : 					S.PERSONNUM = '#newPersonNum#'</b>
+173 : 				AND
+174 : 					s.dtrowdeleted IS NULL
+</pre>
+    					
+    				
+    			    </td>
+    			</tr>
+    			<tr>
+    				<td colspan="2">
+    					<hr color="#C0C0C0" noshade>
+    				</td>
+    			</tr>
+    		
+	<tr><td>
+        
+        <table border="0" cellpadding="0" cellspacing="0">
+        
+    	<tr>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">SQL</font></td>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">&nbsp;&nbsp;
+				SELECT
+					HOURLY_RT
+					, EXT_EHSI_DEPT
+				FROM
+					dbo.SalaryInfo S
+				WHERE
+					S.PERSONNUM = '133688727'
+				AND
+					s.dtrowdeleted IS NULL
+			</font></td>
+    	</tr>
+            
+    	<tr>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">DATASOURCE</font></td>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">&nbsp;&nbsp;fta</font></td>
+    	</tr>
+            
+    	<tr>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">VENDORERRORCODE</font></td>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">&nbsp;&nbsp;208</font></td>
+    	</tr>
+            
+    	<tr>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">SQLSTATE</font></td>
+    		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">&nbsp;&nbsp;42S02</font></td>
+    	</tr>
+            
+        </table>
+	</td></tr>
+    
+    <tr>
+        <td colspan="2">
+            <font style="COLOR: black; FONT: 8pt/11pt verdana">
+            Please try the following:
+            <ul>
+	    
+	<li>Check the <a href='http://www.macromedia.com/go/proddoc_getdoc' target="new">ColdFusion documentation</a> to verify that you are using the correct syntax.</li>
+	<li>Search the <a href='http://www.macromedia.com/support/coldfusion/' target="new">Knowledge Base</a> to find a solution to your problem.</li>
+
+            </ul>
+            <p>
+        </td>
+    </tr>
+    
+    <tr>
+        <td colspan="2">
+            <table border="0" cellpadding="0" cellspacing="0">
+        	<tr>
+        	    <td><font style="COLOR: black; FONT: 8pt/11pt verdana">Browser&nbsp;&nbsp;</td> 
+        		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">CFSCHEDULE</td>
+        	</tr>
+        	<tr>
+        		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">Remote Address&nbsp;&nbsp;</td> 
+        		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">10.255.0.212</td>
+        	</tr>
+        	<tr>
+        	    <td><font style="COLOR: black; FONT: 8pt/11pt verdana">Referrer&nbsp;&nbsp;</td> 
+        		<td><font style="COLOR: black; FONT: 8pt/11pt verdana"></td>
+        	</tr>
+        	<tr>
+        	    <td><font style="COLOR: black; FONT: 8pt/11pt verdana">Date/Time&nbsp;&nbsp;</td> 
+        		<td><font style="COLOR: black; FONT: 8pt/11pt verdana">24-Apr-11 11:45 PM</td>
+        	</tr>					
+            </table>
+        </td>
+    </tr>
+    </table>
+    
+    
+        <table width="500" cellpadding="0" cellspacing="0">
+        <tr>
+            <td valign="top">
+                <font style="FONT: 8pt/11pt verdana;">
+                Stack Trace 
+            </td>
+        </tr>
+        <tr>
+            <td id="cf_stacktrace" >
+                <font style="COLOR: black; FONT: 8pt/11pt verdana">
+                	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor0(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:172) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor5(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:161) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor8(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:75) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor9(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:73) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870.runPage(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:1) 
+	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor0(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:172) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor5(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:161) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor8(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:75) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor9(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:73) 	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870.runPage(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:1) 
+                <br />
+                <br />
+                <pre>java.sql.SQLException: [Macromedia][SQLServer JDBC Driver][SQLServer]Invalid object name &apos;dbo.SalaryInfo&apos;.
+	at macromedia.jdbc.base.BaseExceptions.createException(Unknown Source)
+	at macromedia.jdbc.base.BaseExceptions.getException(Unknown Source)
+	at macromedia.jdbc.sqlserver.tds.TDSRequest.processErrorToken(Unknown Source)
+	at macromedia.jdbc.sqlserver.tds.TDSRequest.processReplyToken(Unknown Source)
+	at macromedia.jdbc.sqlserver.tds.TDSRequest.processReply(Unknown Source)
+	at macromedia.jdbc.sqlserver.SQLServerImplStatement.getNextResultType(Unknown Source)
+	at macromedia.jdbc.base.BaseStatement.commonTransitionToState(Unknown Source)
+	at macromedia.jdbc.base.BaseStatement.postImplExecute(Unknown Source)
+	at macromedia.jdbc.base.BaseStatement.commonExecute(Unknown Source)
+	at macromedia.jdbc.base.BaseStatement.executeInternal(Unknown Source)
+	at macromedia.jdbc.base.BaseStatement.execute(Unknown Source)
+	at coldfusion.server.j2ee.sql.JRunStatement.execute(JRunStatement.java:212)
+	at coldfusion.sql.Executive.executeQuery(Executive.java:974)
+	at coldfusion.sql.Executive.executeQuery(Executive.java:886)
+	at coldfusion.sql.SqlImpl.execute(SqlImpl.java:236)
+	at coldfusion.tagext.sql.QueryTag.doEndTag(QueryTag.java:447)
+	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor0(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:172)
+	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor5(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:161)
+	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor8(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:75)
+	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870._factor9(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:73)
+	at cfAutoRun2dAveHourlyWageRates2ecfm1668968870.runPage(C:\Inetpub\wwwroot\ScheduledTasks\AutoRun-AveHourlyWageRates.cfm:1)
+	at coldfusion.runtime.CfJspPage.invoke(CfJspPage.java:147)
+	at coldfusion.tagext.lang.IncludeTag.doStartTag(IncludeTag.java:357)
+	at coldfusion.filter.CfincludeFilter.invoke(CfincludeFilter.java:62)
+	at coldfusion.filter.ApplicationFilter.invoke(ApplicationFilter.java:107)
+	at coldfusion.filter.RequestMonitorFilter.invoke(RequestMonitorFilter.java:48)
+	at coldfusion.filter.PathFilter.invoke(PathFilter.java:80)
+	at coldfusion.filter.ExceptionFilter.invoke(ExceptionFilter.java:47)
+	at coldfusion.filter.ClientScopePersistenceFilter.invoke(ClientScopePersistenceFilter.java:28)
+	at coldfusion.filter.BrowserFilter.invoke(BrowserFilter.java:35)
+	at coldfusion.filter.GlobalsFilter.invoke(GlobalsFilter.java:43)
+	at coldfusion.filter.DatasourceFilter.invoke(DatasourceFilter.java:22)
+	at coldfusion.CfmServlet.service(CfmServlet.java:105)
+	at jrun.servlet.FilterChain.doFilter(FilterChain.java:86)
+	at com.intergral.fusionreactor.filter.FusionReactorFilter.B(Unknown Source)
+	at com.intergral.fusionreactor.filter.FusionReactorFilter.A(Unknown Source)
+	at com.intergral.fusionreactor.filter.FusionReactorFilter.doFilter(Unknown Source)
+	at jrun.servlet.FilterChain.doFilter(FilterChain.java:94)
+	at jrun.servlet.FilterChain.service(FilterChain.java:101)
+	at jrun.servlet.ServletInvoker.invoke(ServletInvoker.java:91)
+	at jrun.servlet.JRunInvokerChain.invokeNext(JRunInvokerChain.java:42)
+	at jrun.servlet.JRunRequestDispatcher.invoke(JRunRequestDispatcher.java:249)
+	at jrun.servlet.ServletEngineService.dispatch(ServletEngineService.java:527)
+	at jrun.servlet.jrpp.JRunProxyService.invokeRunnable(JRunProxyService.java:192)
+	at jrunx.scheduler.ThreadPool$DownstreamMetrics.invokeRunnable(ThreadPool.java:348)
+	at jrunx.scheduler.ThreadPool$ThreadThrottle.invokeRunnable(ThreadPool.java:451)
+	at jrunx.scheduler.ThreadPool$UpstreamMetrics.invokeRunnable(ThreadPool.java:294)
+	at jrunx.scheduler.WorkerThread.run(WorkerThread.java:66)
+</pre></td>
+            </tr>
+        </table>		
+    
+    </font>
+        </td>
+    </tr>
+    </table>
+    </body></html>
+
+    
+    

@@ -1,0 +1,7 @@
+BATCH,,201307,B,1889.8000,
+INVOICE,IN,,01510247,,07/01/2013,558.3500,"Invoice-Private",,07/01/2013,07/10/2013,,01514518MO,-773.1000,,,,,,,,,,
+TRANSACTION,3020,010103015,13,30.0000,390.00,"Basic Service Fee - Studio for Jul: Murdock, Larae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,13,12.9500,168.35,"Resident Care - Level 7 for Jul: Murdock, Larae",,,,,,,,,,,,,,,
+INVOICE,CM,,01510247,,07/01/2013,1331.45,"Invoice-Private",,07/01/2013,07/10/2013,,01514518MO,-773.1000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,930,930,"CR:Basic Service F... L.Murdock 201307: Murdock, Larae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,401.45,401.45,"CR:Resident Care -... L.Murdock 201307: Murdock, Larae",,,,,,,,,,,,,,,

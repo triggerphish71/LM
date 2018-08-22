@@ -1,0 +1,5 @@
+BATCH,,201212,B,4522.0000,
+INVOICE,IN,,03610313,,12/01/2012,4522.0000,"December_Rent-Proctor. Dorothy",,12/01/2012,12/10/2012,,03615370,5694.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,31,115.0000,3565,"Basic Service Fee - One Bedroom: Proctor. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,31,30.0000,930,"Resident Care - Level 2: Proctor. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Proctor. Dorothy",,,,,,,,,,,,,,,

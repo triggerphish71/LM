@@ -1,0 +1,8 @@
+BATCH,,201202,B,8367.0000,
+INVOICE,IN,,05210258,,02/01/2012,3785.0000,"Invoice-Private",,02/01/2012,02/10/2012,,05214749MO,-797.0000,,,,,,,,,,
+TRANSACTION,3320,010202052,1,783.0000,783.00,"CR:Limited Term Di... M.Evans 201202: Evans, Max",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,19,82.0000,1558.00,"Basic Service Fee - Studio for Feb: Evans, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,19,76.0000,1444.00,"Resident Care - Level 6 for Feb: Evans, Max",,,,,,,,,,,,,,,
+INVOICE,CM,,05210258,,02/01/2012,4582,"Invoice-Private",,02/01/2012,02/10/2012,,05214749MO,-797.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2378,2378,"CR:Basic Service F... M.Evans 201202: Evans, Max",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,2204,2204,"CR:Resident Care -... M.Evans 201202: Evans, Max",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201105,B,3131.0000,
+INVOICE,IN,,10610170,,05/13/2011,3131.0000,"MoveIn-Rust. Wilbur",,05/13/2011,05/13/2011,,10612212,5686.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,19,84.0000,1596,"Basic Service Fee - Studio: Rust. Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Rust. Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309106,1,1500.0000,1500,"New Resident Fee: Rust. Wilbur",,,,,,,,,,,,,,,

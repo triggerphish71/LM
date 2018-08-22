@@ -1,0 +1,5 @@
+BATCH,,201204,B,3110.0000,
+INVOICE,IN,,50310278,,04/10/2012,3110.0000,"MoveIn-Mullins. Minnie",,04/10/2012,04/10/2012,,50314125,3110.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,21,75.0000,1575,"Basic Service Fee - Studio: Mullins. Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Mullins. Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Mullins. Minnie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,6054.4000,
+INVOICE,IN,,09510195,,07/07/2011,1689.6000,"Invoice-Private",,07/07/2011,07/07/2011,,09514440MO,-2675.2000,,,,,,,,,,
+TRANSACTION,3020,010103095,12,83.0000,996.00,"Basic Service Fee - Studio for Jul: McDonald, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,12,57.8000,693.60,"Resident Care - Level 34 for Jul: McDonald, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,09510195,,07/07/2011,4364.8,"Invoice-Private",,07/07/2011,07/07/2011,,09514440MO,-2675.2000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2573,2573,"CR:Basic Service F... E.McDonald 201107: McDonald, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1791.8,1791.8,"CR:Resident Care -... E.McDonald 201107: McDonald, Elaine",,,,,,,,,,,,,,,

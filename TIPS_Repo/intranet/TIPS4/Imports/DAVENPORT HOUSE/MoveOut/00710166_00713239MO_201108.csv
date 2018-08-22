@@ -1,0 +1,7 @@
+BATCH,,201108,B,5622.4000,
+INVOICE,IN,,00710166,,08/25/2011,2510.0000,"Invoice-Private",,08/25/2011,08/25/2011,,00713239MO,-3314.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,25,80.0000,2000.00,"Basic Service Fee - Studio for Aug: St John, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,25,20.4000,510.00,"Resident Care - Level 12 for Aug: St John, John",,,,,,,,,,,,,,,
+INVOICE,CM,,00710166,,08/25/2011,3112.4,"Invoice-Private",,08/25/2011,08/25/2011,,00713239MO,-3314.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2480,2480,"CR:Basic Service F... J.St John 201108: St John, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,632.4,632.4,"CR:Resident Care -... J.St John 201108: St John, John",,,,,,,,,,,,,,,

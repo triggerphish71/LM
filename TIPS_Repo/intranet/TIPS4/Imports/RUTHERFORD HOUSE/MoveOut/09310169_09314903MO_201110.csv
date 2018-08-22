@@ -1,0 +1,7 @@
+BATCH,,201110,B,6486.0000,
+INVOICE,IN,,09310169,,10/01/2011,2115.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09314903MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,15,33.0000,495.00,"Resident Care - Level 2 for Oct: Dinehart, Dorman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,15,108.0000,1620.00,"Room and Board - Deluxe for Oct: Dinehart, Dorman",,,,,,,,,,,,,,,
+INVOICE,CM,,09310169,,10/01/2011,4371,"Invoice-Private",,10/01/2011,10/10/2011,,09314903MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1023,1023,"CR:Resident Care -... D.Dinehart 201110: Dinehart, Dorman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3348,3348,"CR:Room and Board ... D.Dinehart 201110: Dinehart, Dorman",,,,,,,,,,,,,,,

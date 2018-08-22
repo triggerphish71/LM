@@ -1,0 +1,7 @@
+BATCH,,201307,B,9150.0000,
+INVOICE,IN,,08510230,,07/30/2013,4500.0000,"Invoice-Private",,07/30/2013,07/30/2013,,08514658MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,30,54.0000,1620.00,"Resident Care - Level 4 for Jul: Pekar, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,30,96.0000,2880.00,"Room and Board - Deluxe for Jul: Pekar, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,08510230,,07/30/2013,4650,"Invoice-Private",,07/30/2013,07/30/2013,,08514658MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,1,1674,1674,"CR:Resident Care -... P.Pekar 201307: Pekar, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2976,2976,"CR:Room and Board ... P.Pekar 201307: Pekar, Pauline",,,,,,,,,,,,,,,

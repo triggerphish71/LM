@@ -1,0 +1,5 @@
+BATCH,,201209,B,2040.0000,
+INVOICE,IN,,51610252,,09/01/2012,1020.0000,"Invoice-Private",,09/01/2012,09/10/2012,,51613881MO,-1833.1900,,,,,,,,,,
+TRANSACTION,3320,010103516,30,34.0000,1020.00,"Credit for Limited Term Discount: Anderson, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,51610252,,09/01/2012,1020,"Invoice-Private",,09/01/2012,09/10/2012,,51613881MO,-1833.1900,,,,,,,,,,
+TRANSACTION,3320,010103516,30,34,1020,"Limited Term Discount: Anderson, Albert",,,,,,,,,,,,,,,

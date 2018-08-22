@@ -1,0 +1,8 @@
+BATCH,,201301,B,4632.5500,
+INVOICE,IN,,01510203,,01/01/2013,1051.1200,"Invoice-Private",,01/01/2013,01/10/2013,,01514354MO,-2530.3100,,,,,,,,,,
+TRANSACTION,3320,010103015,1,589.0000,589.00,"CR:Limited Term Di... J.Noce 201301: Noce, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,4,103.0000,412.00,"Basic Service Fee - One Bedroom for Jan: Noce, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,4,12.5300,50.12,"Resident Care - Level 7 for Jan: Noce, James",,,,,,,,,,,,,,,
+INVOICE,CM,,01510203,,01/01/2013,3581.43,"Invoice-Private",,01/01/2013,01/10/2013,,01514354MO,-2530.3100,,,,,,,,,,
+TRANSACTION,3020,010103015,1,3193,3193,"CR:Basic Service F... J.Noce 201301: Noce, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,388.43,388.43,"CR:Resident Care -... J.Noce 201301: Noce, James",,,,,,,,,,,,,,,

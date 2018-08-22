@@ -1,0 +1,8 @@
+BATCH,,201210,B,8029.0000,
+INVOICE,IN,,15510114,,10/13/2012,3726.0000,"Invoice-Private",,10/13/2012,10/13/2012,,15515522MO,-4742.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,27,89.0000,2403.00,"Basic Service Fee - Studio for Oct: McAneny, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,27,49.0000,1323.00,"Resident Care - Level 3 for Oct: McAneny, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,15510114,,10/13/2012,4303,"Invoice-Private",,10/13/2012,10/13/2012,,15515522MO,-4742.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... R.McAneny 201210: McAneny, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... R.McAneny 201210: McAneny, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1519,1519,"CR:Resident Care -... R.McAneny 201210: McAneny, Rebecca",,,,,,,,,,,,,,,

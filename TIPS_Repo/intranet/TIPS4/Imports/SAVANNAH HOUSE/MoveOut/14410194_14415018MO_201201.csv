@@ -1,0 +1,8 @@
+BATCH,,201201,B,7470.0000,
+INVOICE,IN,,14410194,,01/30/2012,3660.0000,"Invoice-Private",,01/30/2012,01/30/2012,,14415018MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,30,106.0000,3180.00,"Basic Service Fee - Studio for Jan: Roberts, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,30,16.0000,480.00,"Resident Care - Level 1 for Jan: Roberts, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,14410194,,01/30/2012,3810,"Invoice-Private",,01/30/2012,01/30/2012,,14415018MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... C.Roberts 201201: Roberts, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... C.Roberts 201201: Roberts, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... C.Roberts 201201: Roberts, Carl",,,,,,,,,,,,,,,

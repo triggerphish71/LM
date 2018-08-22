@@ -1,0 +1,7 @@
+BATCH,,201305,B,8060.0000,
+INVOICE,IN,,12310235,,05/21/2013,3255.0000,"Invoice-Private",,05/21/2013,05/21/2013,,12315986MO,-6200.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,21,103.0000,2163.00,"Basic Service Fee - Studio for May: Moeller, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,21,52.0000,1092.00,"Resident Care - Level 3 for May: Moeller, Lyle",,,,,,,,,,,,,,,
+INVOICE,CM,,12310235,,05/21/2013,4805,"Invoice-Private",,05/21/2013,05/21/2013,,12315986MO,-6200.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... L.Moeller 201305: Moeller, Lyle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... L.Moeller 201305: Moeller, Lyle",,,,,,,,,,,,,,,

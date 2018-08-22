@@ -1,0 +1,7 @@
+BATCH,,201106,B,8049.6000,
+INVOICE,IN,,00310083,,06/06/2011,1341.6000,"Invoice-Private",,06/06/2011,06/06/2011,,00314005MO,-5366.4000,,,,,,,,,,
+TRANSACTION,3020,010101003,6,91.0000,546.00,"Basic Service Fee - One Bedroom for Jun: Gordon, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,6,132.6000,795.60,"Resident Care - Level 78 for Jun: Gordon, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,00310083,,06/06/2011,6708,"Invoice-Private",,06/06/2011,06/06/2011,,00314005MO,-5366.4000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2730,2730,"CR:Basic Service F... R.Gordon 201106: Gordon, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,3978,3978,"CR:Resident Care -... R.Gordon 201106: Gordon, Robert",,,,,,,,,,,,,,,

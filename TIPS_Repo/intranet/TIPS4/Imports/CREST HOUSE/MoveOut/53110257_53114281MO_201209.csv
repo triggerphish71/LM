@@ -1,0 +1,8 @@
+BATCH,,201209,B,7491.0000,
+INVOICE,IN,,53110257,,09/27/2012,4191.0000,"Invoice-Private",,09/27/2012,09/27/2012,,53114281MO,-969.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,1140.0000,1140.00,"CR:Limited Term Di... F.Danek 201209: Danek, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319531,27,98.0000,2646.00,"Basic Service Fee - Studio for Sep: Danek, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,27,15.0000,405.00,"Service : lvl 0 to lvl 1 - 9/7/12 for Sep: Danek, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,53110257,,09/27/2012,3300,"Invoice-Private",,09/27/2012,09/27/2012,,53114281MO,-969.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2940,2940,"CR:Basic Service F... F.Danek 201209: Danek, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,360,360,"CR:Service : lvl 0... F.Danek 201209: Danek, Frances",,,,,,,,,,,,,,,

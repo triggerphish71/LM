@@ -1,0 +1,5 @@
+BATCH,,201304,B,54.0000,
+INVOICE,IN,,02411312,,04/01/2013,27.0000,"Invoice-Private",,04/01/2013,04/10/2013,,02416078MO,-1512.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Flower, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02411312,,04/01/2013,27,"Invoice-Private",,04/01/2013,04/10/2013,,02416078MO,-1512.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Flower, Dorothy",,,,,,,,,,,,,,,

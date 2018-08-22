@@ -1,0 +1,8 @@
+BATCH,,201105,B,7461.0000,
+INVOICE,IN,,06410166,,05/16/2011,2528.0000,"Invoice-Private",,05/16/2011,05/16/2011,,06413484MO,-7180.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,16,114.0000,1824.00,"Basic Service Fee - One Bedroom for May: Elder, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,16,44.0000,704.00,"Resident Care - Level 3 for May: Elder, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,06410166,,05/16/2011,4933,"Invoice-Private",,05/16/2011,05/16/2011,,06413484MO,-7180.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,3534,3534,"CR:Basic Service F... N.Elder 201105: Elder, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... N.Elder 201105: Elder, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,1364,1364,"CR:Resident Care -... N.Elder 201105: Elder, Nancy",,,,,,,,,,,,,,,

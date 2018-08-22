@@ -1,0 +1,5 @@
+BATCH,,201201,B,1830.0000,
+INVOICE,IN,,07710146,,01/30/2012,900.0000,"Invoice-Private",,01/30/2012,01/30/2012,,07714137MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,30,30.0000,900.00,"Basic Service Fee - Second Resident for Jan: Dobbins, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,07710146,,01/30/2012,930,"Invoice-Private",,01/30/2012,01/30/2012,,07714137MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,930,930,"CR:Basic Service F... F.Dobbins 201201: Dobbins, Frank",,,,,,,,,,,,,,,

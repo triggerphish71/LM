@@ -1,0 +1,5 @@
+BATCH,,201305,B,5135.0000,
+INVOICE,IN,,07310266,,05/01/2013,5135.0000,"May_Rent-King. Mary Jean",,05/01/2013,05/10/2013,,07316123,8480.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,31,97.0000,3007,"Basic Service Fee - Studio: King. Mary Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,31,68.0000,2108,"Resident Care - Level 4: King. Mary Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: King. Mary Jean",,,,,,,,,,,,,,,

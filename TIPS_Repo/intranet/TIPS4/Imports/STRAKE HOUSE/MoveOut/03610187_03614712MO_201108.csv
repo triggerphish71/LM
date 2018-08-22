@@ -1,0 +1,7 @@
+BATCH,,201108,B,798.0000,
+INVOICE,IN,,03610187,,08/01/2011,399.0000,"Invoice-Private",,08/01/2011,08/10/2011,,03614712MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Johnson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,31,12.0000,372.00,"Credit for Limited Term Discount: Johnson, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,03610187,,08/01/2011,399,"Invoice-Private",,08/01/2011,08/10/2011,,03614712MO,-3120.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Johnson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,31,12,372,"Limited Term Discount: Johnson, Norma",,,,,,,,,,,,,,,

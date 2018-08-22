@@ -1,0 +1,6 @@
+BATCH,,201211,B,3343.2400,
+INVOICE,IN,,08210210,,11/17/2012,3343.2400,"MoveIn-Rudman. Valerie",,11/17/2012,11/17/2012,,08214668,6287.2000,,,,,,,,,,
+TRANSACTION,3010,010103082,14,87.0000,1218,"Basic Service Fee - Studio: Rudman. Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103082,14,7.1600,100.24,"Resident Care - Level 4: Rudman. Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25.0000,25,"Monthly Cable: Rudman. Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103082,1,2000.0000,2000,"New Resident Fee: Rudman. Valerie",,,,,,,,,,,,,,,

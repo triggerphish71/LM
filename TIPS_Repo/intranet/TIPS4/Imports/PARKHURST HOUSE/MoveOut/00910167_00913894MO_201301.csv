@@ -1,0 +1,7 @@
+BATCH,,201301,B,5850.5000,
+INVOICE,IN,,00910167,,01/19/2013,2223.1900,"Invoice-Private",,01/19/2013,01/19/2013,,00913894MO,-4680.4000,,,,,,,,,,
+TRANSACTION,3020,010101009,19,83.0000,1577.00,"Basic Service Fee - Studio for Jan: Landgren-Womack, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,19,34.0100,646.19,"Resident Care - Level 19 for Jan: Landgren-Womack, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,00910167,,01/19/2013,3627.31,"Invoice-Private",,01/19/2013,01/19/2013,,00913894MO,-4680.4000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2573,2573,"CR:Basic Service F... B.Landgren-Womack 201301: Landgren-Womack, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1054.31,1054.31,"CR:Resident Care -... B.Landgren-Womack 201301: Landgren-Womack, Bertha",,,,,,,,,,,,,,,

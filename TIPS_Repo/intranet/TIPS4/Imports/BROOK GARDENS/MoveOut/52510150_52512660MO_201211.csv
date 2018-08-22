@@ -1,0 +1,5 @@
+BATCH,,201211,B,4816.0000,
+INVOICE,IN,,52510150,,11/05/2012,1456.0000,"Invoice-Private",,11/05/2012,11/05/2012,,52512660MO,-1904.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,13,112.0000,1456.00,"Basic Service Fee - Studio for Nov: Michaelis, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,52510150,,11/05/2012,3360,"Invoice-Private",,11/05/2012,11/05/2012,,52512660MO,-1904.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3360,3360,"CR:Basic Service F... S.Michaelis 201211: Michaelis, Sarah",,,,,,,,,,,,,,,

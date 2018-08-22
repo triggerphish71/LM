@@ -1,0 +1,5 @@
+BATCH,,201210,B,2863.0000,
+INVOICE,IN,,05610219,,10/05/2012,2863.0000,"MoveIn-Bassett. Carl",,10/05/2012,10/05/2012,,05614565,2863.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,27,68.0000,1836,"Basic Service Fee - Studio: Bassett. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Bassett. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Bassett. Carl",,,,,,,,,,,,,,,

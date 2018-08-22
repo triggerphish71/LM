@@ -1,0 +1,6 @@
+BATCH,,201307,B,3605.0000,
+INVOICE,IN,,13610356,,07/11/2013,935.0000,"Invoice-Private",,07/11/2013,07/11/2013,,13615816MO,-1735.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,11,85.0000,935.00,"Basic Service Fee- One Bedroom Premium for Jul: Ray, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13610356,,07/11/2013,2670,"Invoice-Private",,07/11/2013,07/11/2013,,13615816MO,-1735.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2635,2635,"CR:Basic Service F... C.Ray 201307: Ray, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... C.Ray 201307: Ray, Charles",,,,,,,,,,,,,,,

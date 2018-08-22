@@ -1,0 +1,7 @@
+BATCH,,201304,B,6441.0000,
+INVOICE,IN,,12610099,,04/24/2013,3051.0000,"Invoice-Private",,04/24/2013,04/24/2013,,12615267MO,-3842.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,27,95.0000,2565.00,"Basic Service Fee - Deluxe for Apr: Pickrel, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,27,18.0000,486.00,"Resident Care Level Change for Apr: Pickrel, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,12610099,,04/24/2013,3390,"Invoice-Private",,04/24/2013,04/24/2013,,12615267MO,-3842.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2850,2850,"CR:Basic Service F... H.Pickrel 201304: Pickrel, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,540,540,"CR:Resident Care L... H.Pickrel 201304: Pickrel, Harvey",,,,,,,,,,,,,,,

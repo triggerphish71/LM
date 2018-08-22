@@ -1,0 +1,5 @@
+BATCH,,201804,B,3716.3000,
+INVOICE,IN,,11010574,,04/01/2018,3716.3000,"April_Rent-Marquand. Verlean",,04/01/2018,04/10/2018,,11017306,11811.6000,,,,,,,,,,
+TRANSACTION,3010,010007110,30,105.0000,3150,"Basic Service Fee - Studio         : Marquand. Verlean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010007110,30,18.0000,540,"Resident Care - Level 1: Marquand. Verlean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.3,"Monthly Cable: Marquand. Verlean",,,,,,,,,,,,,,,

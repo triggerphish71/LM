@@ -1,0 +1,5 @@
+BATCH,,201110,B,310.0000,
+INVOICE,IN,,08710175,,10/01/2011,155.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08714002MO,-2158.8000,,,,,,,,,,
+TRANSACTION,3320,010103087,31,5.0000,155.00,"Credit for Limited Term Discount: Richardson, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,08710175,,10/01/2011,155,"Invoice-Private",,10/01/2011,10/10/2011,,08714002MO,-2158.8000,,,,,,,,,,
+TRANSACTION,3320,010103087,31,5,155,"Limited Term Discount: Richardson, Geraldine",,,,,,,,,,,,,,,

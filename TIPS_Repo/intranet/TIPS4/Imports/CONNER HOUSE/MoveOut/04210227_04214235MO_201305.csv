@@ -1,0 +1,7 @@
+BATCH,,201305,B,2952.0000,
+INVOICE,IN,,04210227,,05/10/2013,720.0000,"Invoice-Private",,05/10/2013,05/10/2013,,04214235MO,-1512.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,10,55.0000,550.00,"Basic Service Fee - Studio for May: Robinson, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,10,17.0000,170.00,"Resident Care - Level 1 for May: Robinson, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,04210227,,05/10/2013,2232,"Invoice-Private",,05/10/2013,05/10/2013,,04214235MO,-1512.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,1705,1705,"CR:Basic Service F... G.Robinson 201305: Robinson, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,527,527,"CR:Resident Care -... G.Robinson 201305: Robinson, Geneva",,,,,,,,,,,,,,,

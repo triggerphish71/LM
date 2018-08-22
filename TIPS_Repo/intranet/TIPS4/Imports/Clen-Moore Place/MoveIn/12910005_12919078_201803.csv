@@ -1,0 +1,5 @@
+BATCH,,201803,B,10730.0000,
+INVOICE,IN,,12910005,,03/01/2018,10730.0000,"MoveIn-Elizabeth. Black",,03/01/2018,03/01/2018,,12919078,10730.0000,,,,,,,,,,
+TRANSACTION,3010,010010129,31,150.0000,4650,"Basic Service Fee - One Bedroom: Elizabeth. Black",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010129,1,4560.0000,4560,"Community Fee: Elizabeth. Black",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010129,1,1520.0000,1520,"Monthly Deferral Charge: Elizabeth. Black",,,,,,,,,,,,,,,

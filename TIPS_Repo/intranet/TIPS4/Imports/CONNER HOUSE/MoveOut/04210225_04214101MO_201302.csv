@@ -1,0 +1,5 @@
+BATCH,,201302,B,54.0000,
+INVOICE,IN,,04210225,,02/01/2013,27.0000,"Invoice-Private",,02/01/2013,02/10/2013,,04214101MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Robinson, George",,,,,,,,,,,,,,,
+INVOICE,CM,,04210225,,02/01/2013,27,"Invoice-Private",,02/01/2013,02/10/2013,,04214101MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Robinson, George",,,,,,,,,,,,,,,

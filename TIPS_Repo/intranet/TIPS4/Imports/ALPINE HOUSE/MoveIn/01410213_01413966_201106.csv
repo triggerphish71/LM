@@ -1,0 +1,5 @@
+BATCH,,201106,B,3215.0000,
+INVOICE,IN,,01410213,,06/15/2011,3215.0000,"MoveIn-Hayes. Myrtle",,06/15/2011,06/15/2011,,01413966,6030.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,16,90.0000,1440,"M.Hayes: Basic Service Fee - Studio: Hayes. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Hayes. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1750.0000,1750,"New Resident Fee: Hayes. Myrtle",,,,,,,,,,,,,,,

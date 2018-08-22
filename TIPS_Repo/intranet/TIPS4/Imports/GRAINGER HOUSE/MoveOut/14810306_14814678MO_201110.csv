@@ -1,0 +1,5 @@
+BATCH,,201110,B,1426.0000,
+INVOICE,IN,,14810306,,10/01/2011,713.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14814678MO,-2368.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,31,23.0000,713.00,"Credit for Limited Term Discount: Hadzima, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,14810306,,10/01/2011,713,"Invoice-Private",,10/01/2011,10/10/2011,,14814678MO,-2368.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,31,23,713,"Limited Term Discount: Hadzima, Bernard",,,,,,,,,,,,,,,

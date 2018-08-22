@@ -1,0 +1,5 @@
+BATCH,,201204,B,1800.0000,
+INVOICE,IN,,10910216,,04/01/2012,900.0000,"Invoice-Private",,04/01/2012,04/10/2012,,10914616MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010305109,30,30.0000,900.00,"Credit for 2nd Resident Free Discount: Tatten, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,10910216,,04/01/2012,900,"Invoice-Private",,04/01/2012,04/10/2012,,10914616MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010305109,30,30,900,"2nd Resident Free Discount: Tatten, Ellen",,,,,,,,,,,,,,,

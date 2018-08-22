@@ -1,0 +1,5 @@
+BATCH,,201205,B,992.0000,
+INVOICE,IN,,02910292,,05/01/2012,496.0000,"Invoice-Private",,05/01/2012,05/10/2012,,02915518MO,-5674.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,16.0000,496.00,"Credit for Limited Term Discount: Shaffer, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02910292,,05/01/2012,496,"Invoice-Private",,05/01/2012,05/10/2012,,02915518MO,-5674.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,16,496,"Limited Term Discount: Shaffer, James",,,,,,,,,,,,,,,

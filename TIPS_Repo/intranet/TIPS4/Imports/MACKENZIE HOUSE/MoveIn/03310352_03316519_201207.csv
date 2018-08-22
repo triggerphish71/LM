@@ -1,0 +1,5 @@
+BATCH,,201207,B,1944.4400,
+INVOICE,IN,,03310352,,07/01/2012,194.4400,"July_Rent-Provence. Philip",,07/01/2012,07/10/2012,,03316519,1698.4400,,,,,,,,,,
+TRANSACTION,9999,010202033,1,194.4400,194.44,"Monthly Deferral Charge: Provence. Philip",,,,,,,,,,,,,,,
+INVOICE,CM,,03310352,,07/01/2012,1750.0000,"July_Rent-Provence. Philip",,07/01/2012,07/10/2012,,03316519,1698.4400,,,,,,,,,,
+TRANSACTION,9999,010202033,1,1750,1750,"New Resident Fee Deferred: Provence. Philip",,,,,,,,,,,,,,,

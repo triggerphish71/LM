@@ -1,0 +1,7 @@
+BATCH,,201201,B,4060.0000,
+INVOICE,IN,,02210172,,01/01/2012,464.0000,"Invoice-Private",,01/01/2012,01/10/2012,,02214183MO,-3132.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,4,85.0000,340.00,"Basic Service Fee - Studio for Jan: Young, Cynthia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,4,31.0000,124.00,"Resident Care - Level 2 for Jan: Young, Cynthia",,,,,,,,,,,,,,,
+INVOICE,CM,,02210172,,01/01/2012,3596,"Invoice-Private",,01/01/2012,01/10/2012,,02214183MO,-3132.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2635,2635,"CR:Basic Service F... C.Young 201201: Young, Cynthia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,961,961,"CR:Resident Care -... C.Young 201201: Young, Cynthia",,,,,,,,,,,,,,,

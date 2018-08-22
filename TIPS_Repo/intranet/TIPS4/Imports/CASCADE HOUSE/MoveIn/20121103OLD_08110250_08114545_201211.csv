@@ -1,0 +1,7 @@
+BATCH,,201211,B,2840.0000,
+INVOICE,IN,,08110250,,10/31/2012,115.0000,"MoveIn-Polk. Thomas",,10/31/2012,10/31/2012,,08114545,2840.0000,,,,,,,,,,
+TRANSACTION,3014,010103081,1,90.0000,90,"Basic Service Fee - Studio: Polk. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Polk. Thomas",,,,,,,,,,,,,,,
+INVOICE,IN,,08110250,,11/01/2012,2725.0000,"November_Rent-Polk. Thomas",,11/01/2012,11/10/2012,,08114545,2840.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,30,90.0000,2700,"Basic Service Fee - Studio: Polk. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Polk. Thomas",,,,,,,,,,,,,,,

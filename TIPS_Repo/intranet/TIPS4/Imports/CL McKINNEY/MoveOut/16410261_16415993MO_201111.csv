@@ -1,0 +1,5 @@
+BATCH,,201111,B,120.0000,
+INVOICE,IN,,16410261,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16415993MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,30,2.0000,60.00,"Credit for Limited Term Discount: Dunnavent, Sam",,,,,,,,,,,,,,,
+INVOICE,CM,,16410261,,11/01/2011,60,"Invoice-Private",,11/01/2011,11/10/2011,,16415993MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,30,2,60,"Limited Term Discount: Dunnavent, Sam",,,,,,,,,,,,,,,

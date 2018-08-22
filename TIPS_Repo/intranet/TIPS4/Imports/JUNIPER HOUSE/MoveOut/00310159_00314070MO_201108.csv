@@ -1,0 +1,8 @@
+BATCH,,201108,B,8163.8000,
+INVOICE,IN,,00310159,,08/24/2011,3632.5000,"Invoice-Private",,08/24/2011,08/24/2011,,00314070MO,-5284.8000,,,,,,,,,,
+TRANSACTION,3020,010101003,25,79.0000,1975.00,"Basic Service Fee - Studio for Aug: Gilliland, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,25,66.3000,1657.50,"Resident Care - Level 39 for Aug: Gilliland, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,00310159,,08/24/2011,4531.3,"Invoice-Private",,08/24/2011,08/24/2011,,00314070MO,-5284.8000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2449,2449,"CR:Basic Service F... T.Gilliland 201108: Gilliland, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... T.Gilliland 201108: Gilliland, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,2055.3,2055.3,"CR:Resident Care -... T.Gilliland 201108: Gilliland, Thomas",,,,,,,,,,,,,,,

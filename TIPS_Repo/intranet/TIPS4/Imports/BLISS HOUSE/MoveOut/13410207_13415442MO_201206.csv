@@ -1,0 +1,7 @@
+BATCH,,201206,B,140.0000,
+INVOICE,IN,,13410207,,06/01/2012,70.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13415442MO,-4356.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Reuter, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309134,1,35.0000,35.00,"Pendant Fee: Reuter, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,13410207,,06/01/2012,70,"Invoice-Private",,06/01/2012,06/10/2012,,13415442MO,-4356.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Reuter, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309134,1,35,35,"Credit for Pendant Fee: Reuter, Wanda",,,,,,,,,,,,,,,

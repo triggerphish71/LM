@@ -1,0 +1,7 @@
+BATCH,,201804,B,5186.5000,
+INVOICE,IN,,51710379,,04/25/2018,2357.5000,"Invoice-Private",,04/25/2018,04/25/2018,,51715581MO,-471.5000,,,,,,,,,,
+TRANSACTION,3020,010003517,25,69.0000,1725.00,"Basic Service Fee - One Bedroom  for Apr: Andrews, Ian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,25,25.3000,632.50,"Resident Care - Level 11  for Apr: Andrews, Ian",,,,,,,,,,,,,,,
+INVOICE,CM,,51710379,,04/25/2018,2829,"Invoice-Private",,04/25/2018,04/25/2018,,51715581MO,-471.5000,,,,,,,,,,
+TRANSACTION,3020,010003517,1,2070,2070,"CR:Basic Service F... I.Andrews 201804: Andrews, Ian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003517,1,759,759,"CR:Resident Care -... I.Andrews 201804: Andrews, Ian",,,,,,,,,,,,,,,

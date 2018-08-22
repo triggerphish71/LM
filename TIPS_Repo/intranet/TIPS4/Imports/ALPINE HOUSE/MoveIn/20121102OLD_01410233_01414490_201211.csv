@@ -1,0 +1,5 @@
+BATCH,,201211,B,4280.0000,
+INVOICE,IN,,01410233,,11/02/2012,4280.0000,"MoveIn-Foster. Twila",,11/02/2012,11/02/2012,,01414490,4280.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,29,95.0000,2755,"Basic Service Fee - Studio: Foster. Twila",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Foster. Twila",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1500.0000,1500,"New Resident Fee: Foster. Twila",,,,,,,,,,,,,,,

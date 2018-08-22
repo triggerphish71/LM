@@ -1,0 +1,8 @@
+BATCH,,201306,B,2731.0000,
+INVOICE,IN,,19810009,,06/01/2013,536.0000,"Invoice-Private",,06/01/2013,06/01/2013,,19818687MO,-1659.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,8,67.0000,536.00,"Basic Service Fee AL - One Bedroom for Jun: Saylor, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,19810009,,06/01/2013,2195,"Invoice-Private",,06/01/2013,06/01/2013,,19818687MO,-1659.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2010,2010,"CR:Basic Service F... V.Saylor 201306: Saylor, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... V.Saylor 201306: Saylor, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"CR:Pendant Fee... V.Saylor 201306: Saylor, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3210,010112198,1,120,120,"CR:Personal Servic... V.Saylor 201306: Saylor, Virginia",,,,,,,,,,,,,,,

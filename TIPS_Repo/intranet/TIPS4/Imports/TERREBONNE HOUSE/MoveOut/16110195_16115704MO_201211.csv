@@ -1,0 +1,7 @@
+BATCH,,201211,B,7568.0000,
+INVOICE,IN,,16110195,,11/14/2012,2408.0000,"Invoice-Private",,11/14/2012,11/14/2012,,16115704MO,-8084.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,14,114.0000,1596.00,"Basic Service Fee - One Bedroom for Nov: Peltier, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,14,58.0000,812.00,"Resident Care - Level 5 for Nov: Peltier, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,16110195,,11/14/2012,5160,"Invoice-Private",,11/14/2012,11/14/2012,,16115704MO,-8084.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,3420,3420,"CR:Basic Service F... A.Peltier 201211: Peltier, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,1740,1740,"CR:Resident Care -... A.Peltier 201211: Peltier, Andrew",,,,,,,,,,,,,,,

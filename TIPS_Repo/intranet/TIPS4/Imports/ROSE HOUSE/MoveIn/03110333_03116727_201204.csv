@@ -1,0 +1,5 @@
+BATCH,,201204,B,3027.0000,
+INVOICE,IN,,03110333,,04/01/2012,3027.0000,"April_Rent-Freeman. Inez",,04/01/2012,04/10/2012,,03116727,5695.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,30,99.0000,2970,"Basic Service Fee - Studio: Freeman. Inez",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Freeman. Inez",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30.0000,30,"Pendant Fee: Freeman. Inez",,,,,,,,,,,,,,,

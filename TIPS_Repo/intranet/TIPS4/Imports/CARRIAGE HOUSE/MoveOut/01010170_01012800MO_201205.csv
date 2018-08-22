@@ -1,0 +1,5 @@
+BATCH,,201205,B,1426.0000,
+INVOICE,IN,,01010170,,05/01/2012,713.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01012800MO,-1125.9800,,,,,,,,,,
+TRANSACTION,3320,010101010,31,23.0000,713.00,"Credit for Limited Term Discount: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+INVOICE,CM,,01010170,,05/01/2012,713,"Invoice-Private",,05/01/2012,05/10/2012,,01012800MO,-1125.9800,,,,,,,,,,
+TRANSACTION,3320,010101010,31,23,713,"Limited Term Discount: Lengele, Francis (Frank)",,,,,,,,,,,,,,,

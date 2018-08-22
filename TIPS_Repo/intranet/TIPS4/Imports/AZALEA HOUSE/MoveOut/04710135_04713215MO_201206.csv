@@ -1,0 +1,8 @@
+BATCH,,201206,B,8292.0000,
+INVOICE,IN,,04710135,,06/01/2012,4452.0000,"Invoice-Private",,06/01/2012,06/10/2012,,04713215MO,-1930.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,1,1380.0000,1380.00,"CR:Limited Term Di... B.Ballow 201206: Ballow, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202047,24,96.0000,2304.00,"Basic Service Fee - Studio for Jun: Ballow, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,24,32.0000,768.00,"Resident Care - Level 2 for Jun: Ballow, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,04710135,,06/01/2012,3840,"Invoice-Private",,06/01/2012,06/10/2012,,04713215MO,-1930.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2880,2880,"CR:Basic Service F... B.Ballow 201206: Ballow, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,960,960,"CR:Resident Care -... B.Ballow 201206: Ballow, Billy",,,,,,,,,,,,,,,

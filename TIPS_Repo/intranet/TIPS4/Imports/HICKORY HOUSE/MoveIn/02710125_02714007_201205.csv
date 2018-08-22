@@ -1,0 +1,5 @@
+BATCH,,201205,B,3900.0000,
+INVOICE,IN,,02710125,,05/07/2012,3900.0000,"MoveIn-Bell. Nina",,05/07/2012,05/07/2012,,02714007,3900.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,25,95.0000,2375,"N.Bell: Basic Service Fee - Studio: Bell. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Bell. Nina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Bell. Nina",,,,,,,,,,,,,,,

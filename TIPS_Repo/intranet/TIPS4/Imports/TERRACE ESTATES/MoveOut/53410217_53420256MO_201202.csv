@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,53410217,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53420256MO,-5021.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Westover, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,53410217,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,53420256MO,-5021.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Westover, Catherine",,,,,,,,,,,,,,,

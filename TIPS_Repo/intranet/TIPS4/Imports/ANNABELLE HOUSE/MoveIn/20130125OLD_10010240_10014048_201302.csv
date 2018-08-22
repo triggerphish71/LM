@@ -1,0 +1,5 @@
+BATCH,,201302,B,2545.0000,
+INVOICE,IN,,10010240,,02/01/2013,2545.0000,"February_Rent-Burroughs. Audrey",,02/01/2013,02/10/2013,,10014048,3700.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,28,75.0000,2100,"Basic Service Fee - Studio: Burroughs. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,28,15.0000,420,"Resident Care - Level 1: Burroughs. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Burroughs. Audrey",,,,,,,,,,,,,,,

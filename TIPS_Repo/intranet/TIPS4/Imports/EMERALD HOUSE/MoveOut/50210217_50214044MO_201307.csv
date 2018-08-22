@@ -1,0 +1,6 @@
+BATCH,,201307,B,3730.0000,
+INVOICE,IN,,50210217,,07/03/2013,760.0000,"Invoice-Private",,07/03/2013,07/03/2013,,50214044MO,-2210.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,8,95.0000,760.00,"Basic Service Fee - One Bedroom Del for Jul: Green, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,50210217,,07/03/2013,2970,"Invoice-Private",,07/03/2013,07/03/2013,,50214044MO,-2210.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2945,2945,"CR:Basic Service F... M.Green 201307: Green, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... M.Green 201307: Green, Martha",,,,,,,,,,,,,,,

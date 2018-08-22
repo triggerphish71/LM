@@ -1,0 +1,5 @@
+BATCH,,201805,B,2128.0000,
+INVOICE,IN,,11010574,,05/01/2018,1064.0000,"Invoice-Private",,05/01/2018,05/10/2018,,11017308MO,-1316.0000,,,,,,,,,,
+TRANSACTION,3216,010007110,1,1064.0000,1064.00,"Community Fee Installment Charge: Marquand, Verlean",,,,,,,,,,,,,,,
+INVOICE,CM,,11010574,,05/01/2018,1064,"Invoice-Private",,05/01/2018,05/10/2018,,11017308MO,-1316.0000,,,,,,,,,,
+TRANSACTION,3216,010007110,1,1064,1064,"Credit for Community Fee Installment Charge: Marquand, Verlean",,,,,,,,,,,,,,,

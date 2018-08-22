@@ -1,0 +1,7 @@
+BATCH,,201211,B,4214.0000,
+INVOICE,IN,,17810322,,11/07/2012,1569.0000,"Invoice-Private",,11/07/2012,11/07/2012,,17816279MO,-1076.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,960.0000,960.00,"CR:Limited Term Di... K.Brown 201211: Brown, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,7,87.0000,609.00,"Basic Service Fee - Studio for Nov: Brown, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,17810322,,11/07/2012,2645,"Invoice-Private",,11/07/2012,11/07/2012,,17816279MO,-1076.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2610,2610,"CR:Basic Service F... K.Brown 201211: Brown, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... K.Brown 201211: Brown, Karen",,,,,,,,,,,,,,,

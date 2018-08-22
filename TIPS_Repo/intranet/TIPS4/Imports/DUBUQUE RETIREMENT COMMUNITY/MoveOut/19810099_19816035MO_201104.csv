@@ -1,0 +1,6 @@
+BATCH,,201104,B,4932.0000,
+INVOICE,IN,,19810099,,04/01/2011,2322.0000,"Invoice-Private",,04/01/2011,04/10/2011,,19816035MO,-2984.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,27,86.0000,2322.00,"Basic Service Fee AL - Two Bedroom A for Apr: Kipp, Bernie",,,,,,,,,,,,,,,
+INVOICE,CM,,19810099,,04/01/2011,2610,"Invoice-Private",,04/01/2011,04/10/2011,,19816035MO,-2984.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2580,2580,"CR:Basic Service F... B.Kipp 201104: Kipp, Bernie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... B.Kipp 201104: Kipp, Bernie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,7085.0000,
+INVOICE,IN,,15610198,,12/13/2012,2080.0000,"Invoice-Private",,12/13/2012,12/13/2012,,15615540MO,-7930.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,13,90.0000,1170.00,"Basic Service Fee - Studio for Dec: Musser, Elizabeth Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,13,70.0000,910.00,"Resident Care - Level 5 for Dec: Musser, Elizabeth Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,15610198,,12/13/2012,5005,"Invoice-Private",,12/13/2012,12/13/2012,,15615540MO,-7930.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2790,2790,"CR:Basic Service F... E.Musser 201212: Musser, Elizabeth Betty",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"CR:Pendant Fee... E.Musser 201212: Musser, Elizabeth Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2170,2170,"CR:Resident Care -... E.Musser 201212: Musser, Elizabeth Betty",,,,,,,,,,,,,,,

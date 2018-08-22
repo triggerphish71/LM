@@ -1,0 +1,5 @@
+BATCH,,201203,B,1206.0000,
+INVOICE,IN,,50110261,,03/30/2012,1206.0000,"MoveIn-Shears. Mary",,03/30/2012,03/30/2012,,50114044,3876.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,2,88.0000,176,"Basic Service Fee - Studio: Shears. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Shears. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Shears. Mary",,,,,,,,,,,,,,,

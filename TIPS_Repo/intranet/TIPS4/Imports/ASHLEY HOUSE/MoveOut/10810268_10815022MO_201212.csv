@@ -1,0 +1,5 @@
+BATCH,,201212,B,1798.0000,
+INVOICE,IN,,10810268,,12/01/2012,899.0000,"Invoice-Private",,12/01/2012,12/10/2012,,10815022MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,31,29.0000,899.00,"Credit for Limited Term Discount: Parrish, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,10810268,,12/01/2012,899,"Invoice-Private",,12/01/2012,12/10/2012,,10815022MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,31,29,899,"Limited Term Discount: Parrish, Thelma",,,,,,,,,,,,,,,

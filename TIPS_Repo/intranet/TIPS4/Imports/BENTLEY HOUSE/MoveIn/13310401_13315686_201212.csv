@@ -1,0 +1,6 @@
+BATCH,,201212,B,3343.0000,
+INVOICE,IN,,13310401,,12/20/2012,3343.0000,"MoveIn-Amon. Margaret",,12/20/2012,12/20/2012,,13315686,6757.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,12,92.0000,1104,"Basic Service Fee - Studio: Amon. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,12,17.0000,204,"Resident Care - Level 1: Amon. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Amon. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Amon. Margaret",,,,,,,,,,,,,,,

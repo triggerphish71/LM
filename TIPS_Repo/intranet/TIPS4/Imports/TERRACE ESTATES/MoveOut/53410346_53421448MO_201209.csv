@@ -1,0 +1,8 @@
+BATCH,,201209,B,7758.0000,
+INVOICE,IN,,53410346,,09/21/2012,3588.0000,"Invoice-Private",,09/21/2012,09/21/2012,,53421448MO,-4890.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,26,99.0000,2574.00,"Basic Service Fee - Two Bed Two Bat for Sep: Wake, Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,26,39.0000,1014.00,"Resident Care - Level 1 for Sep: Wake, Douglas",,,,,,,,,,,,,,,
+INVOICE,CM,,53410346,,09/21/2012,4170,"Invoice-Private",,09/21/2012,09/21/2012,,53421448MO,-4890.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2970,2970,"CR:Basic Service F... D.Wake 201209: Wake, Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... D.Wake 201209: Wake, Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1170,1170,"CR:Resident Care -... D.Wake 201209: Wake, Douglas",,,,,,,,,,,,,,,

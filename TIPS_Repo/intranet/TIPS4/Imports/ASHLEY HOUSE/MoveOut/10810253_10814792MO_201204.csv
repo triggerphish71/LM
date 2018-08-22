@@ -1,0 +1,7 @@
+BATCH,,201204,B,4522.0000,
+INVOICE,IN,,10810253,,04/08/2012,952.0000,"Invoice-Private",,04/08/2012,04/08/2012,,10814792MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,8,103.0000,824.00,"Basic Service Fee - One Bedroom for Apr: Haynes, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,8,16.0000,128.00,"Resident Care - Level 1 for Apr: Haynes, John",,,,,,,,,,,,,,,
+INVOICE,CM,,10810253,,04/08/2012,3570,"Invoice-Private",,04/08/2012,04/08/2012,,10814792MO,-2618.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,3090,3090,"CR:Basic Service F... J.Haynes 201204: Haynes, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,480,480,"CR:Resident Care -... J.Haynes 201204: Haynes, John",,,,,,,,,,,,,,,

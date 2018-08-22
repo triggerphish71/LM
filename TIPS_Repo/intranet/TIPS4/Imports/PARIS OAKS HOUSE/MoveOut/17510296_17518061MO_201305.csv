@@ -1,0 +1,7 @@
+BATCH,,201305,B,4087.0000,
+INVOICE,IN,,17510296,,05/30/2013,2010.0000,"Invoice-Private",,05/30/2013,05/30/2013,,17518061MO,-2077.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,30,55.0000,1650.00,"Basic Service Fee - Studio Deluxe for May: Branaugh, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,30,12.0000,360.00,"Resident Care - Level 1 for May: Branaugh, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,17510296,,05/30/2013,2077,"Invoice-Private",,05/30/2013,05/30/2013,,17518061MO,-2077.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1705,1705,"CR:Basic Service F... C.Branaugh 201305: Branaugh, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... C.Branaugh 201305: Branaugh, Charles",,,,,,,,,,,,,,,

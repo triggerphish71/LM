@@ -1,0 +1,5 @@
+BATCH,,201205,B,1847.5500,
+INVOICE,IN,,51610262,,05/29/2012,1847.5500,"MoveIn-Messerschmidt. Jean",,05/29/2012,05/29/2012,,51613823,5323.0500,,,,,,,,,,
+TRANSACTION,3010,010103516,3,89.0000,267,"Basic Service Fee - Studio: Messerschmidt. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103516,3,26.8500,80.55,"Resident Care - Level 15: Messerschmidt. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103516,1,1500.0000,1500,"New Resident Fee: Messerschmidt. Jean",,,,,,,,,,,,,,,

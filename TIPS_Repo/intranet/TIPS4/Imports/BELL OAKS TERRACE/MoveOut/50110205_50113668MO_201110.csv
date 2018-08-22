@@ -1,0 +1,7 @@
+BATCH,,201110,B,308.0000,
+INVOICE,IN,,50110205,,10/01/2011,154.0000,"Invoice-Private",,10/01/2011,10/10/2011,,50113668MO,-1890.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: McIntosh, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,4.0000,124.00,"Credit for Limited Term Discount: McIntosh, Bobby",,,,,,,,,,,,,,,
+INVOICE,CM,,50110205,,10/01/2011,154,"Invoice-Private",,10/01/2011,10/10/2011,,50113668MO,-1890.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: McIntosh, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,4,124,"Limited Term Discount: McIntosh, Bobby",,,,,,,,,,,,,,,

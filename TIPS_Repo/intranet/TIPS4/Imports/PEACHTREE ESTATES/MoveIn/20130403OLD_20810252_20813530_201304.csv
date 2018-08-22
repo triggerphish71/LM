@@ -1,0 +1,5 @@
+BATCH,,201304,B,4160.0000,
+INVOICE,IN,,20810252,,04/03/2013,4160.0000,"MoveIn-Smith. Mary",,04/03/2013,04/03/2013,,20813530,4160.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,28,83.0000,2324,"Studio Deluxe: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216208,28,12.0000,336,"Resident Care - Level 1: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1500.0000,1500,"New Resident Fee: Smith. Mary",,,,,,,,,,,,,,,

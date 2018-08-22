@@ -1,0 +1,5 @@
+BATCH,,201110,B,84.0000,
+INVOICE,IN,,14710255,,10/01/2011,42.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14715278MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Slampak, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14710255,,10/01/2011,42,"Invoice-Private",,10/01/2011,10/10/2011,,14715278MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Slampak, Betty",,,,,,,,,,,,,,,

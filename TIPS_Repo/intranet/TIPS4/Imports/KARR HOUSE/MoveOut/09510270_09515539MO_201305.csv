@@ -1,0 +1,7 @@
+BATCH,,201305,B,9972.1500,
+INVOICE,IN,,09510270,,05/26/2013,4548.7000,"Invoice-Private",,05/26/2013,05/26/2013,,09515539MO,-5068.7500,,,,,,,,,,
+TRANSACTION,3020,010103095,26,88.0000,2288.00,"Basic Service Fee - Studio for May: Schrotberger, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,26,86.9500,2260.70,"Resident Care - Level 47 for May: Schrotberger, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,09510270,,05/26/2013,5423.45,"Invoice-Private",,05/26/2013,05/26/2013,,09515539MO,-5068.7500,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2728,2728,"CR:Basic Service F... J.Schrotberger 201305: Schrotberger, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,2695.45,2695.45,"CR:Resident Care -... J.Schrotberger 201305: Schrotberger, Janice",,,,,,,,,,,,,,,

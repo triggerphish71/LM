@@ -1,0 +1,5 @@
+BATCH,,201205,B,5357.2000,
+INVOICE,IN,,03910229,,05/04/2012,5357.2000,"MoveIn-Klein. Roy",,05/04/2012,05/04/2012,,03914452,5357.2000,,,,,,,,,,
+TRANSACTION,3010,010101039,28,102.0000,2856,"Basic Service Fee - One Bedroom: Klein. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,28,17.9000,501.2,"Resident Care - Level 10: Klein. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Klein. Roy",,,,,,,,,,,,,,,

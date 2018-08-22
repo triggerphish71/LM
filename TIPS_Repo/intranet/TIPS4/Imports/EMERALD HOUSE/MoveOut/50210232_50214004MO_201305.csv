@@ -1,0 +1,5 @@
+BATCH,,201305,B,3984.0000,
+INVOICE,IN,,50210232,,05/17/2013,1411.0000,"Invoice-Private",,05/17/2013,05/17/2013,,50214004MO,-3437.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,17,83.0000,1411.00,"Basic Service Fee - Studio for May: Richardson, Imogene",,,,,,,,,,,,,,,
+INVOICE,CM,,50210232,,05/17/2013,2573,"Invoice-Private",,05/17/2013,05/17/2013,,50214004MO,-3437.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2573,2573,"CR:Basic Service F... I.Richardson 201305: Richardson, Imogene",,,,,,,,,,,,,,,

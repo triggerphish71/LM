@@ -1,0 +1,7 @@
+BATCH,,201111,B,180.0000,
+INVOICE,IN,,13910240,,11/01/2011,90.0000,"Invoice-Private",,11/01/2011,11/10/2011,,13915838MO,-3616.8000,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Young, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103139,30,2.0000,60.00,"Credit for Limited Term Discount: Young, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13910240,,11/01/2011,90,"Invoice-Private",,11/01/2011,11/10/2011,,13915838MO,-3616.8000,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Young, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103139,30,2,60,"Limited Term Discount: Young, Robert",,,,,,,,,,,,,,,

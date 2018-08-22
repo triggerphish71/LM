@@ -1,0 +1,6 @@
+BATCH,,201308,B,4936.7500,
+INVOICE,IN,,51610274,,08/01/2013,344.1000,"Invoice-Private",,08/01/2013,08/10/2013,,51614161MO,-4520.9500,,,,,,,,,,
+TRANSACTION,3027,010103516,1,344.1000,344.10,"CR:Resident Care L... B.Gimmestad 201308: Gimmestad, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,51610274,,08/01/2013,4592.65,"Invoice-Private",,08/01/2013,08/10/2013,,51614161MO,-4520.9500,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3503,3503,"CR:Basic Service F... B.Gimmestad 201308: Gimmestad, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,1089.65,1089.65,"CR:Resident Care -... B.Gimmestad 201308: Gimmestad, Betty",,,,,,,,,,,,,,,

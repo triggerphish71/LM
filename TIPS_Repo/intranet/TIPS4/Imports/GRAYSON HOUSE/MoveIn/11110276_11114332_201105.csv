@@ -1,0 +1,6 @@
+BATCH,,201105,B,4335.0000,
+INVOICE,IN,,11110276,,05/11/2011,4335.0000,"MoveIn-Fortner. Robert",,05/11/2011,05/11/2011,,11114332,4335.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,21,94.0000,1974,"Basic Service Fee - Studio         : Fortner. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,21,16.0000,336,"Resident Care - Level 1: Fortner. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Fortner. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Fortner. Robert",,,,,,,,,,,,,,,

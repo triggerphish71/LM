@@ -1,0 +1,45 @@
+<!--- Concat. Phone Number from areacode prefix and number --->
+<cfset Phone1 = form.areacode1 & form.prefix1 & form.number1>
+<cfset Phone2 = form.areacode2 & form.prefix2 & form.number2>
+<cfset Phone3 = form.areacode3 & form.prefix3 & form.number3>
+
+<cfquery name="HouseUpdate"	DATASOURCE="#APPLICATION.datasource#">
+	update house set 
+		<cfif form.iOpsArea_ID neq ""> iOpsArea_ID = #trim(form.iOPSArea_ID)#, <cfelse> iOpsArea_ID = null, </cfif>
+		<cfif form.iPDUser_ID neq ""> iPDUser_ID = #trim(form.iPDUser_ID)#, <cfelse> iPDUser_ID = null, </cfif>	
+		<cfif form.iPDUser_ID neq ""> iAcctUser_ID = #trim(form.iAcctUser_ID)#, <cfelse> iAcctUser_ID =	null, </cfif>				
+		<cfif form.cName neq ""> cName = '#trim(form.cName)#', <cfelse> cName = null, </cfif>	
+		<cfif form.cNumber neq ""> cNumber = #trim(form.cNumber)#, <cfelse> cNumber = null, </cfif>	
+		<cfif isDefined("form.cDepositTypeSet") and form.cDepositTypeSet neq ""> cDepositTypeSet = '#trim(form.cDepositTypeSet)#', <cfelse> cDepositTypeSet =	null, </cfif>
+		<cfif form.cSLevelTypeSet neq ""> cSLevelTypeSet = #trim(form.cSLevelTypeSet)#, <cfelse> cSLevelTypeSet = null, </cfif>	
+		<cfif form.cGLsubaccount neq ""> cGLsubaccount = '#trim(form.cGLSubaccount)#', <cfelse> cGLsubaccount = null, </cfif>	
+		<cfif isDefined("form.bIsCensusMedicaidOnly")> bIsCensusMedicaidOnly = #trim(form.bIsCensusMedicaidOnly)#, <cfelse> bIsCensusMedicaidOnly = null, </cfif>	
+		<cfif Variables.Phone1 neq ""> cPhoneNumber1 = #trim(Variables.Phone1)#, <cfelse> cPhoneNumber1 = null, </cfif>	
+		<cfif form.iPhoneType1_ID neq ""> iPhoneType1_ID = #trim(form.iPhoneType1_ID)#, <cfelse> iPhoneType1_ID = null, </cfif>	
+		<cfif Variables.Phone2 neq ""> cPhoneNumber2 = #trim(Variables.Phone2)#, <cfelse> cPhoneNumber2	= null, </cfif>	
+		<cfif form.iPhoneType2_ID neq "">iPhoneType2_ID = #trim(form.iPhoneType2_ID)#, <cfelse> iPhoneType2_ID = null, </cfif>	
+		<cfif Variables.Phone3 neq ""> cPhoneNumber3 = #trim(Variables.Phone3)#, <cfelse> cPhoneNumber3	= null, </cfif>	
+		<cfif form.iPhoneType3_ID neq "">iPhoneType3_ID = #trim(form.iPhoneType3_ID)#, <cfelse> iPhoneType3_ID = null, </cfif>	
+		<cfif form.cAddressLine1 neq ""> cAddressLine1 = '#trim(form.cAddressLine1)#', <cfelse> cAddressLine1 = null, </cfif>
+		<cfif form.cAddressLine2 neq ""> cAddressLine2 = '#trim(form.cAddressLine2)#', <cfelse> cAddressLine2 = null, </cfif>	
+		<cfif form.cCity neq ""> cCity = '#trim(form.cCity)#', <cfelse> cCity = null, </cfif>
+		<cfif form.cStateCode neq ""> cStateCode = '#trim(form.cStateCode)#', <cfelse> cStateCode = null, </cfif>
+		<cfif form.cZipCode neq ""> cZipCode = #trim(form.cZipCode)#, <cfelse> cZipCode = null, </cfif>
+		<cfif form.cComments neq ""> cComments = '#trim(form.cComments)#', <cfelse> cComments = null, </cfif>	
+		<cfif form.cNurseUser_id neq ""> cNurseUser_id= '#trim(form.cNurseUser_id)#', <cfelse> cNurseUser_id = null, </cfif>	
+		iRowStartUser_ID = #Session.UserID#,
+		dtRowStart = getDate()
+where dtrowdeleted is null and iHouse_ID = #form.iHouse_ID#
+</cfquery>
+
+<cfoutput>
+	<cfif IsDefined("form.cSLevelTypeSet")>
+		<cfset SESSION.cSLevelTypeSet	= #form.cSLevelTypeSet#>
+	</cfif>
+</cfoutput>
+
+<cfif SESSION.USERID IS 3025>
+	<A HREF="House.cfm">	Continue </A>
+<cfelse>
+	<CFLOCATION URL="House.cfm" ADDTOKEN="No">
+</cfif>

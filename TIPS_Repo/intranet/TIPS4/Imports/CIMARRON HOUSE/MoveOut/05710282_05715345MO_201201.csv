@@ -1,0 +1,8 @@
+BATCH,,201201,B,4755.0000,
+INVOICE,IN,,05710282,,01/01/2012,1320.0000,"Invoice-Private",,01/01/2012,01/10/2012,,05715345MO,-2115.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,12,94.0000,1128.00,"Basic Service Fee - Studio for Jan: Eswein, Dorothy ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,12,16.0000,192.00,"Resident Care - Level 1 for Jan: Eswein, Dorothy ",,,,,,,,,,,,,,,
+INVOICE,CM,,05710282,,01/01/2012,3435,"Invoice-Private",,01/01/2012,01/10/2012,,05715345MO,-2115.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2914,2914,"CR:Basic Service F... D.Eswein 201201: Eswein, Dorothy ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25,25,"CR:Monthly Cable... D.Eswein 201201: Eswein, Dorothy ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,496,496,"CR:Resident Care -... D.Eswein 201201: Eswein, Dorothy ",,,,,,,,,,,,,,,

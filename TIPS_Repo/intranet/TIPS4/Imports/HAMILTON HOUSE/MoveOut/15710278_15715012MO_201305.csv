@@ -1,0 +1,8 @@
+BATCH,,201305,B,5010.0000,
+INVOICE,IN,,15710278,,05/29/2013,2407.0000,"Invoice-Private",,05/29/2013,05/29/2013,,15715012MO,-2686.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,29,50.0000,1450.00,"Basic Service Fee - Studio for May: Fudge, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,29,33.0000,957.00,"Resident Care - Level 2 for May: Fudge, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,15710278,,05/29/2013,2603,"Invoice-Private",,05/29/2013,05/29/2013,,15715012MO,-2686.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,1550,1550,"CR:Basic Service F... R.Fudge 201305: Fudge, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... R.Fudge 201305: Fudge, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1023,1023,"CR:Resident Care -... R.Fudge 201305: Fudge, Robert",,,,,,,,,,,,,,,

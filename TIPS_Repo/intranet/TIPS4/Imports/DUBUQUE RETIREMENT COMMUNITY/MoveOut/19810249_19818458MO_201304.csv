@@ -1,0 +1,5 @@
+BATCH,,201304,B,2040.0000,
+INVOICE,CM,,19810249,,04/01/2013,2040,"Invoice-Private",,04/01/2013,04/10/2013,,19818458MO,-2386.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1950,1950,"CR:Basic Service F... C.Baxter 201304: Baxter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3211,010112198,1,60,60,"CR:Laundry... C.Baxter 201304: Baxter, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... C.Baxter 201304: Baxter, Charlotte",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,7559.1500,
+INVOICE,IN,,01210214,,03/20/2012,2953.0000,"Invoice-Private",,03/20/2012,03/20/2012,,01213921MO,-6111.6500,,,,,,,,,,
+TRANSACTION,3020,010103012,20,85.0000,1700.00,"Basic Service Fee - Studio for Mar: Cosgrove, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,20,62.6500,1253.00,"Resident Care - Level 35 for Mar: Cosgrove, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,01210214,,03/20/2012,4606.15,"Invoice-Private",,03/20/2012,03/20/2012,,01213921MO,-6111.6500,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2635,2635,"CR:Basic Service F... R.Cosgrove 201203: Cosgrove, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... R.Cosgrove 201203: Cosgrove, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1942.15,1942.15,"CR:Resident Care -... R.Cosgrove 201203: Cosgrove, Robert",,,,,,,,,,,,,,,

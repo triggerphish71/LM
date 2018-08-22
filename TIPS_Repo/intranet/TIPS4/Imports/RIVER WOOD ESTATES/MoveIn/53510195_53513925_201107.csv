@@ -1,0 +1,6 @@
+BATCH,,201107,B,3840.0000,
+INVOICE,IN,,53510195,,07/15/2011,3840.0000,"MoveIn-Leonardelli. Tulio",,07/15/2011,07/15/2011,,53513925,6810.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,17,95.0000,1615,"Basic Service Fee - One Bedroom: Leonardelli. Tulio",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Leonardelli. Tulio",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Leonardelli. Tulio",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Leonardelli. Tulio",,,,,,,,,,,,,,,

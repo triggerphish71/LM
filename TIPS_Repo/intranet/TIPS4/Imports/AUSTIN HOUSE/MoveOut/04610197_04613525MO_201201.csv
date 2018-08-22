@@ -1,0 +1,5 @@
+BATCH,,201201,B,1860.0000,
+INVOICE,IN,,04610197,,01/12/2012,899.0000,"Invoice-Private",,01/12/2012,01/12/2012,,04613525MO,-62.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,29,31.0000,899.00,"Basic Service Fee - Second Resident for Jan: McKnight, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,04610197,,01/12/2012,961,"Invoice-Private",,01/12/2012,01/12/2012,,04613525MO,-62.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,961,961,"CR:Basic Service F... J.McKnight 201201: McKnight, Joseph",,,,,,,,,,,,,,,

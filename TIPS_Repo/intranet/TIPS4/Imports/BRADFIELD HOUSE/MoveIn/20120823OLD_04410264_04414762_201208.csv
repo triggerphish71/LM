@@ -1,0 +1,6 @@
+BATCH,,201208,B,2551.0000,
+INVOICE,IN,,04410264,,08/23/2012,2551.0000,"MoveIn-Gilliland. Bill",,08/23/2012,08/23/2012,,04414762,5996.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,9,85.0000,765,"Basic Service Fee - Studio: Gilliland. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,9,29.0000,261,"Resident Care - Level 2: Gilliland. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Gilliland. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Gilliland. Bill",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201105,B,2388.4000,
+INVOICE,IN,,00710159,,05/20/2011,2388.4000,"MoveIn-Steincamp. Bill",,05/20/2011,05/20/2011,,00713144,5859.4000,,,,,,,,,,
+TRANSACTION,3010,010101007,12,80.0000,960,"B.Steincamp: Basic Service Fee - Studio: Steincamp. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,12,35.7000,428.4,"B.Steincamp: Resident Care - Level 21: Steincamp. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Steincamp. Bill",,,,,,,,,,,,,,,

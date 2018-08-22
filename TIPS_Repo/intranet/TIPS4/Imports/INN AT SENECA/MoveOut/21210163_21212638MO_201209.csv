@@ -1,0 +1,5 @@
+BATCH,,201209,B,840.0000,
+INVOICE,IN,,21210163,,09/01/2012,420.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21212638MO,-2104.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,30,14.0000,420.00,"Credit for Limited Term Discount: Carter, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,21210163,,09/01/2012,420,"Invoice-Private",,09/01/2012,09/10/2012,,21212638MO,-2104.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,30,14,420,"Limited Term Discount: Carter, Mary",,,,,,,,,,,,,,,

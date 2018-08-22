@@ -1,0 +1,5 @@
+BATCH,,201202,B,116.0000,
+INVOICE,IN,,19510209,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,19514201MO,-2397.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,29,2.0000,58.00,"Credit for Limited Term Discount: Barning, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,19510209,,02/01/2012,58,"Invoice-Private",,02/01/2012,02/10/2012,,19514201MO,-2397.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,29,2,58,"Limited Term Discount: Barning, Bonnie",,,,,,,,,,,,,,,

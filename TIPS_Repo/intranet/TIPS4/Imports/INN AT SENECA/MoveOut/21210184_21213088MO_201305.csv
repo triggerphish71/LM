@@ -1,0 +1,7 @@
+BATCH,,201305,B,4182.0000,
+INVOICE,IN,,21210184,,05/03/2013,369.0000,"Invoice-Private",,05/03/2013,05/03/2013,,21213088MO,-3444.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,3,54.0000,162.00,"Resident Care - Level 5 for May: Skelton, Louella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,3,69.0000,207.00,"Studio Deluxe for May: Skelton, Louella",,,,,,,,,,,,,,,
+INVOICE,CM,,21210184,,05/03/2013,3813,"Invoice-Private",,05/03/2013,05/03/2013,,21213088MO,-3444.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1674,1674,"CR:Resident Care -... L.Skelton 201305: Skelton, Louella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2139,2139,"CR:Studio Deluxe... L.Skelton 201305: Skelton, Louella",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201104,B,6415.0000,
+INVOICE,IN,,14710211,,04/02/2011,2965.0000,"Invoice-Private",,04/02/2011,04/02/2011,,14715090MO,-3957.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,90.0000,90.00,"CR:Limited Term Di... R.DeMotte 201104: DeMotte, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,25,98.0000,2450.00,"Basic Service Fee - Studio for Apr: DeMotte, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,25,17.0000,425.00,"Resident Care - Level 1 for Apr: DeMotte, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14710211,,04/02/2011,3450,"Invoice-Private",,04/02/2011,04/02/2011,,14715090MO,-3957.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,2940,2940,"CR:Basic Service F... R.DeMotte 201104: DeMotte, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,510,510,"CR:Resident Care -... R.DeMotte 201104: DeMotte, Ruth",,,,,,,,,,,,,,,

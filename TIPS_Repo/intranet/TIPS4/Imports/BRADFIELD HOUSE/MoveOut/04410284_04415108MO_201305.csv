@@ -1,0 +1,7 @@
+BATCH,,201305,B,3535.0000,
+INVOICE,IN,,04410284,,05/04/2013,404.0000,"Invoice-Private",,05/04/2013,05/04/2013,,04415108MO,-6597.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,4,85.0000,340.00,"Basic Service Fee - Studio for May: Ray, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,4,16.0000,64.00,"Resident Care - Level 1 for May: Ray, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,04410284,,05/04/2013,3131,"Invoice-Private",,05/04/2013,05/04/2013,,04415108MO,-6597.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... N.Ray 201305: Ray, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496,496,"CR:Resident Care -... N.Ray 201305: Ray, Nora",,,,,,,,,,,,,,,

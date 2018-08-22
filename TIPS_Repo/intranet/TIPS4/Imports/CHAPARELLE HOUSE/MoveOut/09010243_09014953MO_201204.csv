@@ -1,0 +1,7 @@
+BATCH,,201204,B,7661.0000,
+INVOICE,IN,,09010243,,04/17/2012,2771.0000,"Invoice-Private",,04/17/2012,04/17/2012,,09014953MO,-2119.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,17,92.0000,1564.00,"Basic Service Fee - Studio for Apr: Stevens, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,17,71.0000,1207.00,"Resident Care - Level 5 for Apr: Stevens, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,09010243,,04/17/2012,4890,"Invoice-Private",,04/17/2012,04/17/2012,,09014953MO,-2119.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Basic Service F... R.Stevens 201204: Stevens, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,2130,2130,"CR:Resident Care -... R.Stevens 201204: Stevens, Ruth",,,,,,,,,,,,,,,

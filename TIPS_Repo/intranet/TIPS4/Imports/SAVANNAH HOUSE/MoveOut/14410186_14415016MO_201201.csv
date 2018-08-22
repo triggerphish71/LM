@@ -1,0 +1,8 @@
+BATCH,,201201,B,6373.0000,
+INVOICE,IN,,14410186,,01/16/2012,2160.0000,"Invoice-Private",,01/16/2012,01/16/2012,,14415016MO,-5996.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,16,106.0000,1696.00,"Basic Service Fee - Studio for Jan: Myers, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,16,29.0000,464.00,"Resident Care - Level 2 for Jan: Myers, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410186,,01/16/2012,4213,"Invoice-Private",,01/16/2012,01/16/2012,,14415016MO,-5996.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... M.Myers 201201: Myers, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... M.Myers 201201: Myers, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,899,899,"CR:Resident Care -... M.Myers 201201: Myers, Margie",,,,,,,,,,,,,,,

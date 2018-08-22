@@ -1,0 +1,5 @@
+BATCH,,201110,B,3476.0000,
+INVOICE,IN,,17910172,,10/03/2011,1027.0000,"Invoice-Private",,10/03/2011,10/03/2011,,17914696MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,13,79.0000,1027.00,"Basic Service Fee - Studio for Oct: Armand, Theodese",,,,,,,,,,,,,,,
+INVOICE,CM,,17910172,,10/03/2011,2449,"Invoice-Private",,10/03/2011,10/03/2011,,17914696MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2449,2449,"CR:Basic Service F... T.Armand 201110: Armand, Theodese",,,,,,,,,,,,,,,

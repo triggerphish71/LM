@@ -1,0 +1,6 @@
+BATCH,,201801,B,5984.2700,
+INVOICE,IN,,14010375,,01/01/2018,5984.2700,"MoveIn-Rowe. Norman Paul",,01/01/2018,01/01/2018,,14016629,5984.2700,,,,,,,,,,
+TRANSACTION,3010,010009140,31,106.0000,3286,"Basic Service Fee - Studio: Rowe. Norman Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009140,1,2000.0000,2000,"Community Fee: Rowe. Norman Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009140,1,31.6000,31.6,"Monthly Cable: Rowe. Norman Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009140,1,666.6700,666.67,"Monthly Deferral Charge: Rowe. Norman Paul",,,,,,,,,,,,,,,

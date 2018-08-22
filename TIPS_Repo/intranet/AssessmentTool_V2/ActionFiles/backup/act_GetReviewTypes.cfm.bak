@@ -1,0 +1,4 @@
+<cfscript>
+	ReviewType = CreateObject("Component","Components.ReviewType");
+	ReviewTypeArray = ReviewType.GetReviewTypes(application.datasource);
+</cfscript>

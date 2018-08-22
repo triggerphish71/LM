@@ -1,0 +1,6 @@
+BATCH,,201301,B,5331.0000,
+INVOICE,IN,,14610269,,01/01/2013,2418.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14614800MO,-495.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,26,93.0000,2418.00,"Basic Service Fee - Studio for Jan: Hughes, Wheeler",,,,,,,,,,,,,,,
+INVOICE,CM,,14610269,,01/01/2013,2913,"Invoice-Private",,01/01/2013,01/10/2013,,14614800MO,-495.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... W.Hughes 201301: Hughes, Wheeler",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... W.Hughes 201301: Hughes, Wheeler",,,,,,,,,,,,,,,

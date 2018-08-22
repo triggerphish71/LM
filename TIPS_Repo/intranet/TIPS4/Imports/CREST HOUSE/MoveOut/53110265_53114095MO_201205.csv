@@ -1,0 +1,8 @@
+BATCH,,201205,B,4682.0000,
+INVOICE,IN,,53110265,,05/06/2012,756.0000,"Invoice-Private",,05/06/2012,05/06/2012,,53114095MO,-3170.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,6,98.0000,588.00,"Basic Service Fee - Studio for May: Rolain, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,6,28.0000,168.00,"Resident Care - Level 2 for May: Rolain, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,53110265,,05/06/2012,3926,"Invoice-Private",,05/06/2012,05/06/2012,,53114095MO,-3170.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3038,3038,"CR:Basic Service F... D.Rolain 201205: Rolain, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... D.Rolain 201205: Rolain, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,868,868,"CR:Resident Care -... D.Rolain 201205: Rolain, Darrell",,,,,,,,,,,,,,,

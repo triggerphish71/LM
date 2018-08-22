@@ -1,0 +1,5 @@
+BATCH,,201106,B,540.0000,
+INVOICE,IN,,16310223,,06/01/2011,270.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16316275MO,-969.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,30,9.0000,270.00,"Credit for Limited Term Discount: Smith, Mabel",,,,,,,,,,,,,,,
+INVOICE,CM,,16310223,,06/01/2011,270,"Invoice-Private",,06/01/2011,06/10/2011,,16316275MO,-969.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,30,9,270,"Limited Term Discount: Smith, Mabel",,,,,,,,,,,,,,,

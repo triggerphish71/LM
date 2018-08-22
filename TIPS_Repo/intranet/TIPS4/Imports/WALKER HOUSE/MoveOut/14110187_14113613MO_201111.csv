@@ -1,0 +1,8 @@
+BATCH,,201111,B,6540.0000,
+INVOICE,IN,,14110187,,11/18/2011,3090.0000,"Invoice-Private",,11/18/2011,11/18/2011,,14113613MO,-2871.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,1020.0000,1020.00,"CR:Limited Term Di... P.Schonfeld 201111: Schonfeld, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,18,84.0000,1512.00,"Basic Service Fee - Studio for Nov: Schonfeld, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,18,31.0000,558.00,"Resident Care - Level 2 for Nov: Schonfeld, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,14110187,,11/18/2011,3450,"Invoice-Private",,11/18/2011,11/18/2011,,14113613MO,-2871.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2520,2520,"CR:Basic Service F... P.Schonfeld 201111: Schonfeld, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,930,930,"CR:Resident Care -... P.Schonfeld 201111: Schonfeld, Paul",,,,,,,,,,,,,,,

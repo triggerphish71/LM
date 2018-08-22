@@ -1,0 +1,8 @@
+BATCH,,201111,B,5494.0000,
+INVOICE,IN,,08810209,,11/07/2011,138.0000,"Invoice-Private",,11/07/2011,11/07/2011,,08814190MO,-9496.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,94.0000,94.00,"Basic Service Fee - Studio for Nov: Godby, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,44.0000,44.00,"Service : lvl 0 to lvl 3 - 11/6/11 for Nov: Godby, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,08810209,,11/07/2011,5356,"Invoice-Private",,11/07/2011,11/07/2011,,08814190MO,-9496.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2256,2256,"CR:Basic Service F... B.Godby 201111: Godby, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000,2000,"CR:New Resident Fe... B.Godby 201111: Godby, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1100,1100,"CR:Service : lvl 0... B.Godby 201111: Godby, Betty",,,,,,,,,,,,,,,

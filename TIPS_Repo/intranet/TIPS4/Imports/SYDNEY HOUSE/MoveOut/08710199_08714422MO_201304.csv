@@ -1,0 +1,7 @@
+BATCH,,201304,B,3044.2500,
+INVOICE,IN,,08710199,,04/25/2013,1383.7500,"Invoice-Private",,04/25/2013,04/25/2013,,08714422MO,-1992.6000,,,,,,,,,,
+TRANSACTION,3020,010103087,25,35.0000,875.00,"Basic Service Fee - Studio for Apr: Conkright, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,25,20.3500,508.75,"Resident Care - Level 11 for Apr: Conkright, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,08710199,,04/25/2013,1660.5,"Invoice-Private",,04/25/2013,04/25/2013,,08714422MO,-1992.6000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,1050,1050,"CR:Basic Service F... E.Conkright 201304: Conkright, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,610.5,610.5,"CR:Resident Care -... E.Conkright 201304: Conkright, Ethel",,,,,,,,,,,,,,,

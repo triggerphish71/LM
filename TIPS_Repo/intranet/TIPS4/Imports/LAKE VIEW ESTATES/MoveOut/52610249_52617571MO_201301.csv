@@ -1,0 +1,8 @@
+BATCH,,201301,B,7674.0000,
+INVOICE,IN,,52610249,,01/13/2013,2311.0000,"Invoice-Private",,01/13/2013,01/13/2013,,52617571MO,-7840.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,62.0000,62.00,"CR:Limited Term Di... P.Mehleis 201301: Mehleis, Paul ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,13,108.0000,1404.00,"Basic Service Fee - Two Bedroom for Jan: Mehleis, Paul ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,13,65.0000,845.00,"Resident Care - Level 3 for Jan: Mehleis, Paul ",,,,,,,,,,,,,,,
+INVOICE,CM,,52610249,,01/13/2013,5363,"Invoice-Private",,01/13/2013,01/13/2013,,52617571MO,-7840.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3348,3348,"CR:Basic Service F... P.Mehleis 201301: Mehleis, Paul ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,2015,2015,"CR:Resident Care -... P.Mehleis 201301: Mehleis, Paul ",,,,,,,,,,,,,,,

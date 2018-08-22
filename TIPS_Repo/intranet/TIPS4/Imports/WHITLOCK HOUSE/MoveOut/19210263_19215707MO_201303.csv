@@ -1,0 +1,8 @@
+BATCH,,201303,B,3555.0000,
+INVOICE,IN,,19210263,,03/01/2013,110.0000,"Invoice-Private",,03/01/2013,03/01/2013,,19215707MO,-3335.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,66.0000,66.00,"Basic Service Fee - Studio for Mar: Walters, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,44.0000,44.00,"Resident Care Level Change for Mar: Walters, Brenda",,,,,,,,,,,,,,,
+INVOICE,CM,,19210263,,03/01/2013,3445,"Invoice-Private",,03/01/2013,03/01/2013,,19215707MO,-3335.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,2046,2046,"CR:Basic Service F... B.Walters 201303: Walters, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... B.Walters 201303: Walters, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1364,1364,"CR:Resident Care L... B.Walters 201303: Walters, Brenda",,,,,,,,,,,,,,,

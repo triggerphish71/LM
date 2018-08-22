@@ -1,0 +1,5 @@
+BATCH,,201110,B,1736.0000,
+INVOICE,IN,,20410164,,10/01/2011,868.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20412530MO,-940.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,28.0000,868.00,"Credit for Limited Term Discount: Fazzio, Mark",,,,,,,,,,,,,,,
+INVOICE,CM,,20410164,,10/01/2011,868,"Invoice-Private",,10/01/2011,10/10/2011,,20412530MO,-940.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,28,868,"Limited Term Discount: Fazzio, Mark",,,,,,,,,,,,,,,

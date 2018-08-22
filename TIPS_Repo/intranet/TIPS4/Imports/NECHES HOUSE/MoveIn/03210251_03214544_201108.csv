@@ -1,0 +1,5 @@
+BATCH,,201108,B,4396.0000,
+INVOICE,IN,,03210251,,08/01/2011,4396.0000,"August_Rent-Bardwell. Walt",,08/01/2011,08/10/2011,,03214544,7895.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,31,109.0000,3379,"Basic Service Fee - One Bedroom    : Bardwell. Walt",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,31,32.0000,992,"Resident Care - Level 2: Bardwell. Walt",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Bardwell. Walt",,,,,,,,,,,,,,,

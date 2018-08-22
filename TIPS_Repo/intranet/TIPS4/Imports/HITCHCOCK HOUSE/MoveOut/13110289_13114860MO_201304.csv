@@ -1,0 +1,5 @@
+BATCH,,201304,B,70.0000,
+INVOICE,IN,,13110289,,04/01/2013,35.0000,"Invoice-Private",,04/01/2013,04/10/2013,,13114860MO,-6715.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35.0000,35.00,"Pendant Fee: Pratt, Eugenia",,,,,,,,,,,,,,,
+INVOICE,CM,,13110289,,04/01/2013,35,"Invoice-Private",,04/01/2013,04/10/2013,,13114860MO,-6715.0000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35,35,"Credit for Pendant Fee: Pratt, Eugenia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,2760.0000,
+INVOICE,IN,,21410152,,06/01/2012,1380.0000,"Invoice-Private",,06/01/2012,06/10/2012,,21417469MO,-1341.9500,,,,,,,,,,
+TRANSACTION,3320,010221214,30,46.0000,1380.00,"Credit for Limited Term Discount: Harris, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,21410152,,06/01/2012,1380,"Invoice-Private",,06/01/2012,06/10/2012,,21417469MO,-1341.9500,,,,,,,,,,
+TRANSACTION,3320,010221214,30,46,1380,"Limited Term Discount: Harris, Norma",,,,,,,,,,,,,,,

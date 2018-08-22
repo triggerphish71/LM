@@ -1,0 +1,8 @@
+BATCH,,201302,B,4054.0000,
+INVOICE,IN,,19610233,,02/01/2013,918.0000,"Invoice-Private",,02/01/2013,02/10/2013,,19613411MO,-2218.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,9,89.0000,801.00,"Basic Service Fee - Studio for Feb: Hoy, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,9,13.0000,117.00,"Resident Care - Level 1 for Feb: Hoy, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,19610233,,02/01/2013,3136,"Invoice-Private",,02/01/2013,02/10/2013,,19613411MO,-2218.0000,,,,,,,,,,
+TRANSACTION,3020,010315196,1,2492,2492,"CR:Basic Service F... E.Hoy 201302: Hoy, Esther",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,1,280,280,"CR:CC Meals... E.Hoy 201302: Hoy, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315196,1,364,364,"CR:Resident Care -... E.Hoy 201302: Hoy, Esther",,,,,,,,,,,,,,,

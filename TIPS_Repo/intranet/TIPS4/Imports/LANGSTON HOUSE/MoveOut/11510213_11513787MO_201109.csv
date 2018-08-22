@@ -1,0 +1,5 @@
+BATCH,,201109,B,56.0000,
+INVOICE,IN,,11510213,,09/01/2011,28.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11513787MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Sparling, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,11510213,,09/01/2011,28,"Invoice-Private",,09/01/2011,09/10/2011,,11513787MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Sparling, Louise",,,,,,,,,,,,,,,

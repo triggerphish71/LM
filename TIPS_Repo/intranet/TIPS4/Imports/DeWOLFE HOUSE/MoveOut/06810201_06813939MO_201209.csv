@@ -1,0 +1,6 @@
+BATCH,,201209,B,4290.0000,
+INVOICE,IN,,06810201,,09/01/2012,330.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06813939MO,-4081.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,330.0000,330.00,"CR:Limited Term Di... G.Hetrick 201209: Hetrick, George",,,,,,,,,,,,,,,
+INVOICE,CM,,06810201,,09/01/2012,3960,"Invoice-Private",,09/01/2012,09/10/2012,,06813939MO,-4081.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2550,2550,"CR:Basic Service F... G.Hetrick 201209: Hetrick, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1410,1410,"CR:Resident Care -... G.Hetrick 201209: Hetrick, George",,,,,,,,,,,,,,,

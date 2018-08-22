@@ -1,0 +1,7 @@
+BATCH,,201801,B,4160.0000,
+INVOICE,IN,,21210361,,01/01/2018,130.0000,"Invoice-Private",,01/01/2018,01/01/2018,,21215525MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3027,010008212,1,50.0000,50.00,"Resident Care - Level 4  for Jan: Brothers, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008212,1,80.0000,80.00,"Studio Deluxe  for Jan: Brothers, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,21210361,,01/01/2018,4030,"Invoice-Private",,01/01/2018,01/01/2018,,21215525MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3027,010008212,1,1550,1550,"CR:Resident Care -... S.Brothers 201801: Brothers, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008212,1,2480,2480,"CR:Studio Deluxe... S.Brothers 201801: Brothers, Shirley",,,,,,,,,,,,,,,

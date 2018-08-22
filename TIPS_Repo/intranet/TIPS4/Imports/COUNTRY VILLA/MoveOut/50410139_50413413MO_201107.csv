@@ -1,0 +1,7 @@
+BATCH,,201107,B,8554.0000,
+INVOICE,IN,,50410139,,07/16/2011,2912.0000,"Invoice-Private",,07/16/2011,07/16/2011,,50413413MO,-8372.0000,,,,,,,,,,
+TRANSACTION,3027,010318504,16,74.0000,1184.00,"Resident Care - Level 5 for Jul: Anderson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010318504,16,108.0000,1728.00,"Room and Board - Studio Deluxe for Jul: Anderson, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,50410139,,07/16/2011,5642,"Invoice-Private",,07/16/2011,07/16/2011,,50413413MO,-8372.0000,,,,,,,,,,
+TRANSACTION,3027,010318504,1,2294,2294,"CR:Resident Care -... N.Anderson 201107: Anderson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3348,3348,"CR:Room and Board ... N.Anderson 201107: Anderson, Norma",,,,,,,,,,,,,,,

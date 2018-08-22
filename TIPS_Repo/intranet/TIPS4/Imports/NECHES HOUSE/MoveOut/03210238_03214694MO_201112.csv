@@ -1,0 +1,7 @@
+BATCH,,201112,B,5166.0000,
+INVOICE,IN,,03210238,,12/11/2011,1353.0000,"Invoice-Private",,12/11/2011,12/11/2011,,03214694MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,11,91.0000,1001.00,"Basic Service Fee - Studio for Dec: Davis, Muffet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,11,32.0000,352.00,"Resident Care - Level 2 for Dec: Davis, Muffet",,,,,,,,,,,,,,,
+INVOICE,CM,,03210238,,12/11/2011,3813,"Invoice-Private",,12/11/2011,12/11/2011,,03214694MO,-2460.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2821,2821,"CR:Basic Service F... M.Davis 201112: Davis, Muffet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,992,992,"CR:Resident Care -... M.Davis 201112: Davis, Muffet",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,93.0000,
+INVOICE,IN,,02510176,,01/30/2013,31.0000,"Invoice-Private",,01/30/2013,01/30/2013,,02513418MO,-899.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,31.0000,31.00,"P.Pecoraro: Basic Service Fee - Second Resident : Pecoraro, Phillip",,,,,,,,,,,,,,,
+INVOICE,CM,,02510176,,01/30/2013,62,"Invoice-Private",,01/30/2013,01/30/2013,,02513418MO,-899.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,62,62,"CR:P.Pecoraro: Bas... P.Pecoraro 201301: Pecoraro, Phillip",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201306,B,8545.4000,
+INVOICE,IN,,53110314,,06/13/2013,2571.4000,"Invoice-Private",,06/13/2013,06/13/2013,,53114601MO,-9534.4000,,,,,,,,,,
+TRANSACTION,3020,010319531,13,88.0000,1144.00,"Basic Service Fee - Studio for Jun: Milewski, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,13,109.8000,1427.40,"Resident Care - Level 6+20 points for Jun: Milewski, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,53110314,,06/13/2013,5974,"Invoice-Private",,06/13/2013,06/13/2013,,53114601MO,-9534.4000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2640,2640,"CR:Basic Service F... E.Milewski 201306: Milewski, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40,40,"CR:Monthly Cable... E.Milewski 201306: Milewski, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,3294,3294,"CR:Resident Care -... E.Milewski 201306: Milewski, Ed",,,,,,,,,,,,,,,

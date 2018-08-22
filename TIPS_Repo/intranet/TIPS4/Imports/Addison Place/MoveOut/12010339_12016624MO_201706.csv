@@ -1,0 +1,8 @@
+BATCH,,201706,B,3071.6000,
+INVOICE,IN,,12010339,,06/02/2017,190.0000,"Invoice-Private",,06/02/2017,06/02/2017,,12016624MO,-2691.6000,,,,,,,,,,
+TRANSACTION,3020,010009120,2,77.0000,154.00,"Basic Service Fee - Studio  for Jun: Wilson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009120,2,18.0000,36.00,"Resident Care - Level 1  for Jun: Wilson, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,12010339,,06/02/2017,2881.6,"Invoice-Private",,06/02/2017,06/02/2017,,12016624MO,-2691.6000,,,,,,,,,,
+TRANSACTION,3020,010009120,1,2310,2310,"CR:Basic Service F... R.Wilson 201706: Wilson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6,31.6,"CR:Monthly Cable... R.Wilson 201706: Wilson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009120,1,540,540,"CR:Resident Care -... R.Wilson 201706: Wilson, Ruby",,,,,,,,,,,,,,,

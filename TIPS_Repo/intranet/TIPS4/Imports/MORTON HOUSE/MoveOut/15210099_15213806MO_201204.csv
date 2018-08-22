@@ -1,0 +1,7 @@
+BATCH,,201204,B,3290.0000,
+INVOICE,IN,,15210099,,04/15/2012,1125.0000,"Invoice-Private",,04/15/2012,04/15/2012,,15213806MO,-3214.0000,,,,,,,,,,
+TRANSACTION,3320,010211152,1,60.0000,60.00,"CR:Limited Term Di... M.Joesting 201204: Joesting, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,15,71.0000,1065.00,"Basic Service Fee - Studio for Apr: Joesting, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,15210099,,04/15/2012,2165,"Invoice-Private",,04/15/2012,04/15/2012,,15213806MO,-3214.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2130,2130,"CR:Basic Service F... M.Joesting 201204: Joesting, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... M.Joesting 201204: Joesting, Marie",,,,,,,,,,,,,,,

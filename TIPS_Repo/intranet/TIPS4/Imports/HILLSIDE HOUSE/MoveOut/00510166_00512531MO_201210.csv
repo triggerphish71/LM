@@ -1,0 +1,7 @@
+BATCH,,201210,B,3272.4000,
+INVOICE,IN,,00510166,,10/01/2012,454.5000,"Invoice-Private",,10/01/2012,10/10/2012,,00512531MO,-2363.4000,,,,,,,,,,
+TRANSACTION,3020,010101005,5,73.0000,365.00,"Basic Service Fee - Studio for Oct: Dement, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,5,17.9000,89.50,"Resident Care - Level 10 for Oct: Dement, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,00510166,,10/01/2012,2817.9,"Invoice-Private",,10/01/2012,10/10/2012,,00512531MO,-2363.4000,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2263,2263,"CR:Basic Service F... G.Dement 201210: Dement, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,554.9,554.9,"CR:Resident Care -... G.Dement 201210: Dement, Gene",,,,,,,,,,,,,,,

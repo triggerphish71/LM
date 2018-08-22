@@ -1,0 +1,7 @@
+BATCH,,201209,B,4715.0000,
+INVOICE,IN,,14210153,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14214098MO,-5954.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,1,60.0000,60.00,"CR:Limited Term Di... P.Tidd 201209: Tidd, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,14210153,,09/01/2012,4655,"Invoice-Private",,09/01/2012,09/10/2012,,14214098MO,-5954.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,3180,3180,"CR:Basic Service F... P.Tidd 201209: Tidd, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... P.Tidd 201209: Tidd, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1440,1440,"CR:Resident Care -... P.Tidd 201209: Tidd, Patricia",,,,,,,,,,,,,,,

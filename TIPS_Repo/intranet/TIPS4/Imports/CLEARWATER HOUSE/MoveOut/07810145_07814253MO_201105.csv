@@ -1,0 +1,7 @@
+BATCH,,201105,B,9272.0000,
+INVOICE,IN,,07810145,,05/22/2011,4560.0000,"Invoice-Private",,05/22/2011,05/22/2011,,07814253MO,-4712.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,30,109.0000,3270.00,"Basic Service Fee - One Bedroom for May: Petersen, Idella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,30,43.0000,1290.00,"Resident Care - Level 3 for May: Petersen, Idella",,,,,,,,,,,,,,,
+INVOICE,CM,,07810145,,05/22/2011,4712,"Invoice-Private",,05/22/2011,05/22/2011,,07814253MO,-4712.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,3379,3379,"CR:Basic Service F... I.Petersen 201105: Petersen, Idella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1333,1333,"CR:Resident Care -... I.Petersen 201105: Petersen, Idella",,,,,,,,,,,,,,,

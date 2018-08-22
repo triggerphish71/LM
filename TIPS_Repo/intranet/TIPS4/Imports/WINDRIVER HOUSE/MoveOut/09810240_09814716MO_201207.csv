@@ -1,0 +1,8 @@
+BATCH,,201207,B,7256.4800,
+INVOICE,IN,,09810240,,07/10/2012,2566.8000,"Invoice-Private",,07/10/2012,07/10/2012,,09814716MO,-2122.8800,,,,,,,,,,
+TRANSACTION,3320,010103098,1,1054.0000,1054.00,"CR:Limited Term Di... T.Mylnar 201207: Mylnar, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,10,57.2800,572.80,"Resident Care - Level 32 for Jul: Mylnar, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103098,10,94.0000,940.00,"Room and Board - Studio for Jul: Mylnar, Tony",,,,,,,,,,,,,,,
+INVOICE,CM,,09810240,,07/10/2012,4689.68,"Invoice-Private",,07/10/2012,07/10/2012,,09814716MO,-2122.8800,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1775.68,1775.68,"CR:Resident Care -... T.Mylnar 201207: Mylnar, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2914,2914,"CR:Room and Board ... T.Mylnar 201207: Mylnar, Tony",,,,,,,,,,,,,,,

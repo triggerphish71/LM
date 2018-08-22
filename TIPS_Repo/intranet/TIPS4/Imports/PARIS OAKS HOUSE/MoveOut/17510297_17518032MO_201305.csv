@@ -1,0 +1,5 @@
+BATCH,,201305,B,100.0000,
+INVOICE,IN,,17510297,,05/08/2013,50.0000,"Invoice-Private",,05/08/2013,05/08/2013,,17518032MO,-1675.0000,,,,,,,,,,
+TRANSACTION,3150,010202175,1,50.0000,50.00,"Late Fee Adjustment: Erickson, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,17510297,,05/08/2013,50,"Invoice-Private",,05/08/2013,05/08/2013,,17518032MO,-1675.0000,,,,,,,,,,
+TRANSACTION,3150,010202175,1,50,50,"Late Fee Adjustment: Erickson, Lorraine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,1728.0000,
+INVOICE,IN,,03610273,,12/01/2011,864.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03614896MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Garrett, Barbera",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,31,27.0000,837.00,"Credit for Limited Term Discount: Garrett, Barbera",,,,,,,,,,,,,,,
+INVOICE,CM,,03610273,,12/01/2011,864,"Invoice-Private",,12/01/2011,12/10/2011,,03614896MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Garrett, Barbera",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,31,27,837,"Limited Term Discount: Garrett, Barbera",,,,,,,,,,,,,,,

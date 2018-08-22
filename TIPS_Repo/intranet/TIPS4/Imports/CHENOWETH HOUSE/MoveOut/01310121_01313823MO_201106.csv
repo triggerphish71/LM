@@ -1,0 +1,7 @@
+BATCH,,201106,B,176.0000,
+INVOICE,IN,,01310121,,06/01/2011,88.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01313823MO,-4529.2000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Jones, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103013,30,2.0000,60.00,"Credit for Limited Term Discount: Jones, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,01310121,,06/01/2011,88,"Invoice-Private",,06/01/2011,06/10/2011,,01313823MO,-4529.2000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Jones, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103013,30,2,60,"Limited Term Discount: Jones, Ann",,,,,,,,,,,,,,,

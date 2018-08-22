@@ -1,0 +1,7 @@
+BATCH,,201112,B,4012.0000,
+INVOICE,IN,,20810092,,12/01/2011,354.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20812894MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,3,97.0000,291.00,"One Bedroom for Dec: Herbel, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,3,21.0000,63.00,"Resident Care - Level 2 for Dec: Herbel, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,20810092,,12/01/2011,3658,"Invoice-Private",,12/01/2011,12/10/2011,,20812894MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,3007,3007,"CR:One Bedroom... L.Herbel 201112: Herbel, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,651,651,"CR:Resident Care -... L.Herbel 201112: Herbel, Linda",,,,,,,,,,,,,,,

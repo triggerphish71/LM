@@ -1,0 +1,7 @@
+BATCH,,201307,B,3402.0000,
+INVOICE,IN,,50310326,,06/28/2013,329.0000,"MoveIn-Morris. Ramona",,06/28/2013,06/28/2013,,50315024,3402.0000,,,,,,,,,,
+TRANSACTION,3014,010220503,3,98.0000,294,"Basic Service Fee - One Bedroom: Morris. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Morris. Ramona",,,,,,,,,,,,,,,
+INVOICE,IN,,50310326,,07/01/2013,3073.0000,"July_Rent-Morris. Ramona",,07/01/2013,07/10/2013,,50315024,3402.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,31,98.0000,3038,"Basic Service Fee - One Bedroom: Morris. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Morris. Ramona",,,,,,,,,,,,,,,

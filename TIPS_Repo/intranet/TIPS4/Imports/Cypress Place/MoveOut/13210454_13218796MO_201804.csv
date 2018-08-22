@@ -1,0 +1,8 @@
+BATCH,,201804,B,4218.0000,
+INVOICE,IN,,13210454,,04/06/2018,978.0000,"Invoice-Private",,04/06/2018,04/06/2018,,13218796MO,-5639.0000,,,,,,,,,,
+TRANSACTION,3017,010008132,1,21.0000,21.00,"Level: 1  to  Level: 5  - 04/02: Gast, Hulda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010008132,5,87.0000,435.00," Level: 5 : Gast, Hulda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008132,6,87.0000,522.00,"Basic Service Fee - Studio  for Apr: Gast, Hulda",,,,,,,,,,,,,,,
+INVOICE,CM,,13210454,,04/06/2018,3240,"Invoice-Private",,04/06/2018,04/06/2018,,13218796MO,-5639.0000,,,,,,,,,,
+TRANSACTION,3020,010008132,1,2610,2610,"CR:Basic Service F... H.Gast 201804: Gast, Hulda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010008132,1,630,630,"CR:Resident Care -... H.Gast 201804: Gast, Hulda",,,,,,,,,,,,,,,

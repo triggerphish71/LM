@@ -1,0 +1,6 @@
+BATCH,,201210,B,4163.0000,
+INVOICE,IN,,17110274,,10/13/2012,1222.0000,"Invoice-Private",,10/13/2012,10/13/2012,,17115378MO,-1719.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,13,94.0000,1222.00,"Basic Service Fee - Studio for Oct: Bryant, Benton",,,,,,,,,,,,,,,
+INVOICE,CM,,17110274,,10/13/2012,2941,"Invoice-Private",,10/13/2012,10/13/2012,,17115378MO,-1719.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... B.Bryant 201210: Bryant, Benton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... B.Bryant 201210: Bryant, Benton",,,,,,,,,,,,,,,

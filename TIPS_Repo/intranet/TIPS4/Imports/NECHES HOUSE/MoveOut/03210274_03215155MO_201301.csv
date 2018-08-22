@@ -1,0 +1,5 @@
+BATCH,,201301,B,338.6200,
+INVOICE,IN,,03210274,,01/01/2013,169.3100,"Invoice-Private",,01/01/2013,01/10/2013,,03215155MO,-1051.3100,,,,,,,,,,
+TRANSACTION,1113,010202032,1,169.3100,169.31,"Monthly Deferral Charge: Martin, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,03210274,,01/01/2013,169.31,"Invoice-Private",,01/01/2013,01/10/2013,,03215155MO,-1051.3100,,,,,,,,,,
+TRANSACTION,1113,010202032,1,169.31,169.31,"Credit for Monthly Deferral Charge: Martin, Willie",,,,,,,,,,,,,,,

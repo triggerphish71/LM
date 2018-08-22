@@ -1,0 +1,7 @@
+BATCH,,201111,B,5406.0000,
+INVOICE,IN,,16810381,,11/21/2011,2346.0000,"Invoice-Private",,11/21/2011,11/21/2011,,16816131MO,-3901.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,23,89.0000,2047.00,"Basic Service Fee - Studio Deluxe for Nov: McCann, Capitola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,23,13.0000,299.00,"Resident Care - Level 1 for Nov: McCann, Capitola",,,,,,,,,,,,,,,
+INVOICE,CM,,16810381,,11/21/2011,3060,"Invoice-Private",,11/21/2011,11/21/2011,,16816131MO,-3901.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2670,2670,"CR:Basic Service F... C.McCann 201111: McCann, Capitola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,390,390,"CR:Resident Care -... C.McCann 201111: McCann, Capitola",,,,,,,,,,,,,,,

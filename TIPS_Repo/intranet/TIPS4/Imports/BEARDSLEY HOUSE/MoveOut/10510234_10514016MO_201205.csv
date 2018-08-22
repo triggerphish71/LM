@@ -1,0 +1,7 @@
+BATCH,,201205,B,3403.0000,
+INVOICE,IN,,10510234,,05/01/2012,671.0000,"Invoice-Private",,05/01/2012,05/10/2012,,10514016MO,-2061.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,62.0000,62.00,"CR:Limited Term Di... C.Riggs 201205: Riggs, Claudia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,7,87.0000,609.00,"Basic Service Fee - Studio for May: Riggs, Claudia",,,,,,,,,,,,,,,
+INVOICE,CM,,10510234,,05/01/2012,2732,"Invoice-Private",,05/01/2012,05/10/2012,,10514016MO,-2061.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2697,2697,"CR:Basic Service F... C.Riggs 201205: Riggs, Claudia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309105,1,35,35,"CR:Pendant Fee... C.Riggs 201205: Riggs, Claudia",,,,,,,,,,,,,,,

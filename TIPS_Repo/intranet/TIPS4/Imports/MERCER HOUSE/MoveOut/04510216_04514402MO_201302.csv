@@ -1,0 +1,7 @@
+BATCH,,201302,B,3287.0000,
+INVOICE,IN,,04510216,,02/09/2013,1132.0000,"Invoice-Private",,02/09/2013,02/09/2013,,04514402MO,-1023.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,1,448.0000,448.00,"CR:Limited Term Di... M.Volz 201302: Volz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,9,76.0000,684.00,"Basic Service Fee - Studio for Feb: Volz, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04510216,,02/09/2013,2155,"Invoice-Private",,02/09/2013,02/09/2013,,04514402MO,-1023.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2128,2128,"CR:Basic Service F... M.Volz 201302: Volz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... M.Volz 201302: Volz, Mary",,,,,,,,,,,,,,,

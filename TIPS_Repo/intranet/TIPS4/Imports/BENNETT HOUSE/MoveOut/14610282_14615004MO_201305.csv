@@ -1,0 +1,6 @@
+BATCH,,201305,B,2820.0000,
+INVOICE,IN,,14610282,,05/03/2013,93.0000,"Invoice-Private",,05/03/2013,05/03/2013,,14615004MO,-5424.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,93.0000,93.00,"Basic Service Fee - Studio for May: Carrol, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14610282,,05/03/2013,2727,"Invoice-Private",,05/03/2013,05/03/2013,,14615004MO,-5424.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2697,2697,"CR:Basic Service F... H.Carrol 201305: Carrol, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... H.Carrol 201305: Carrol, Helen",,,,,,,,,,,,,,,

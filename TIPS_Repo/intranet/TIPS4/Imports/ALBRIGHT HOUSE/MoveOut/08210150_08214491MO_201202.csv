@@ -1,0 +1,7 @@
+BATCH,,201202,B,3749.1800,
+INVOICE,IN,,08210150,,02/01/2012,551.3500,"Invoice-Private",,02/01/2012,02/01/2012,,08214491MO,-2646.4800,,,,,,,,,,
+TRANSACTION,3020,010103082,5,87.0000,435.00,"Basic Service Fee - Studio for Feb: Ohman, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,5,23.2700,116.35,"Resident Care - Level 13 for Feb: Ohman, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,08210150,,02/01/2012,3197.83,"Invoice-Private",,02/01/2012,02/01/2012,,08214491MO,-2646.4800,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2523,2523,"CR:Basic Service F... F.Ohman 201202: Ohman, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,674.83,674.83,"CR:Resident Care -... F.Ohman 201202: Ohman, Frank",,,,,,,,,,,,,,,

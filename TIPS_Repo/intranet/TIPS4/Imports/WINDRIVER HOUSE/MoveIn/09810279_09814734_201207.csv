@@ -1,0 +1,5 @@
+BATCH,,201207,B,3067.8000,
+INVOICE,IN,,09810279,,07/18/2012,3067.8000,"MoveIn-Williams. Joe",,07/18/2012,07/18/2012,,09814734,7646.5000,,,,,,,,,,
+TRANSACTION,3010,010103098,14,94.0000,1316,"Basic Service Fee - Studio: Williams. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,14,53.7000,751.8,"Resident Care - Level 30: Williams. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Williams. Joe",,,,,,,,,,,,,,,

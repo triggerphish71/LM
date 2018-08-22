@@ -1,0 +1,5 @@
+BATCH,,201207,B,5050.0000,
+INVOICE,IN,,09310221,,07/12/2012,5050.0000,"MoveIn-Bloom. Charles",,07/12/2012,07/12/2012,,09315345,5050.0000,,,,,,,,,,
+TRANSACTION,3010,010305093,20,132.0000,2640,"Basic Service Fee - One Bedroom: Bloom. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305093,20,33.0000,660,"Resident Care - Level 2: Bloom. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305093,1,1750.0000,1750,"New Resident Fee: Bloom. Charles",,,,,,,,,,,,,,,

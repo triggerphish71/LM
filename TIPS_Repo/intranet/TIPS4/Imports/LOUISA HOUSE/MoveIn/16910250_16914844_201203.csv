@@ -1,0 +1,5 @@
+BATCH,,201203,B,2808.0000,
+INVOICE,IN,,16910250,,03/23/2012,2808.0000,"MoveIn-Notar. John",,03/23/2012,03/23/2012,,16914844,5443.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,9,87.0000,783,"Basic Service Fee - Studio: Notar. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Notar. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Notar. John",,,,,,,,,,,,,,,

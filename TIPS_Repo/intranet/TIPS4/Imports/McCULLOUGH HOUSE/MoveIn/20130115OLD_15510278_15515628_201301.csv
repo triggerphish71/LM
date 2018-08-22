@@ -1,0 +1,6 @@
+BATCH,,201301,B,4711.0000,
+INVOICE,IN,,15510278,,01/15/2013,4711.0000,"MoveIn-Boring. Betty Jane",,01/15/2013,01/15/2013,,15515628,4711.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,17,89.0000,1513,"Basic Service Fee - Studio: Boring. Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,17,69.0000,1173,"Resident Care - Level 5: Boring. Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Boring. Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Boring. Betty Jane",,,,,,,,,,,,,,,

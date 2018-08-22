@@ -1,0 +1,7 @@
+BATCH,,201107,B,8008.0000,
+INVOICE,IN,,51310164,,07/21/2011,3234.0000,"Invoice-Private",,07/21/2011,07/21/2011,,51313442MO,-6314.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,21,103.0000,2163.00,"Basic Service Fee- Studio for Jul: Longevin, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,21,51.0000,1071.00,"Resident Care - Level 4 for Jul: Longevin, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,51310164,,07/21/2011,4774,"Invoice-Private",,07/21/2011,07/21/2011,,51313442MO,-6314.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3193,3193,"CR:Basic Service F... M.Longevin 201107: Longevin, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1581,1581,"CR:Resident Care -... M.Longevin 201107: Longevin, Margaret",,,,,,,,,,,,,,,

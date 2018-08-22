@@ -1,0 +1,7 @@
+BATCH,,201208,B,6536.7600,
+INVOICE,IN,,15310209,,08/15/2012,3214.8000,"Invoice-Private",,08/15/2012,08/15/2012,,15316207MO,-3321.9600,,,,,,,,,,
+TRANSACTION,3020,010103153,30,100.0000,3000.00,"Basic Service Fee - Studio for Aug: Schut, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,30,7.1600,214.80,"Resident Care - Level 4 for Aug: Schut, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310209,,08/15/2012,3321.96,"Invoice-Private",,08/15/2012,08/15/2012,,15316207MO,-3321.9600,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3100,3100,"CR:Basic Service F... E.Schut 201208: Schut, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,221.96,221.96,"CR:Resident Care -... E.Schut 201208: Schut, Elsie",,,,,,,,,,,,,,,

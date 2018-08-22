@@ -1,0 +1,7 @@
+BATCH,,201204,B,9164.0000,
+INVOICE,IN,,51110175,,04/01/2012,4424.0000,"Invoice-Private",,04/01/2012,04/10/2012,,51112422MO,-316.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,28,105.0000,2940.00,"Basic Service Fee - Studio for Apr: Wisniewski, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,28,53.0000,1484.00,"Resident Care - Level 3 for Apr: Wisniewski, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,51110175,,04/01/2012,4740,"Invoice-Private",,04/01/2012,04/10/2012,,51112422MO,-316.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3150,3150,"CR:Basic Service F... J.Wisniewski 201204: Wisniewski, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1590,1590,"CR:Resident Care -... J.Wisniewski 201204: Wisniewski, Joseph",,,,,,,,,,,,,,,

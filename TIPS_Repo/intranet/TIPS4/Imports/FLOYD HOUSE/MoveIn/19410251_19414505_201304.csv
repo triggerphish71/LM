@@ -1,0 +1,5 @@
+BATCH,,201304,B,3250.0000,
+INVOICE,IN,,19410251,,04/01/2013,3250.0000,"April_Rent-Fletcher. Myrna",,04/01/2013,04/10/2013,,19414505,6111.0000,,,,,,,,,,
+TRANSACTION,3010,010212194,30,75.0000,2250,"Basic Service Fee - Studio: Fletcher. Myrna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212194,30,32.0000,960,"Swan Personal Care - L2: Fletcher. Myrna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40,"Monthly Cable: Fletcher. Myrna",,,,,,,,,,,,,,,

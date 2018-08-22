@@ -1,0 +1,5 @@
+BATCH,,201302,B,2169.5000,
+INVOICE,IN,,01010181,,02/14/2013,2169.5000,"MoveIn-Rogers. Myrtle",,02/14/2013,02/14/2013,,01012912,5619.8000,,,,,,,,,,
+TRANSACTION,3010,010101010,15,78.0000,1170,"M.Rogers: Basic Service Fee - Studio: Rogers. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101010,15,33.3000,499.5,"M.Rogers: Resident Care - Level 18: Rogers. Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,500.0000,500,"New Resident Fee: Rogers. Myrtle",,,,,,,,,,,,,,,

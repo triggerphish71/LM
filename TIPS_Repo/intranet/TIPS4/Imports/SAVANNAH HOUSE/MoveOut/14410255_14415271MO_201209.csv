@@ -1,0 +1,6 @@
+BATCH,,201209,B,3720.0000,
+INVOICE,IN,,14410255,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14415271MO,-5214.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,1,60.0000,60.00,"CR:Limited Term Di... J.Swanson 201209: Swanson, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,14410255,,09/01/2012,3660,"Invoice-Private",,09/01/2012,09/10/2012,,14415271MO,-5214.0000,,,,,,,,,,
+TRANSACTION,3027,010308144,1,480,480,"CR:Resident Care -... J.Swanson 201209: Swanson, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3180,3180,"CR:Room and Board ... J.Swanson 201209: Swanson, Joan",,,,,,,,,,,,,,,

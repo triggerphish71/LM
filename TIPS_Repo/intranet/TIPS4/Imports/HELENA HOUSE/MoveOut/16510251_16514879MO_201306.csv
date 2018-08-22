@@ -1,0 +1,8 @@
+BATCH,,201306,B,5133.0000,
+INVOICE,IN,,16510251,,06/07/2013,966.0000,"Invoice-Private",,06/07/2013,06/07/2013,,16514879MO,-3201.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,7,122.0000,854.00,"Basic Service Fee - One Bedroom for Jun: Johnson, Bettie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,7,16.0000,112.00,"Resident Care - Level 1 for Jun: Johnson, Bettie",,,,,,,,,,,,,,,
+INVOICE,CM,,16510251,,06/07/2013,4167,"Invoice-Private",,06/07/2013,06/07/2013,,16514879MO,-3201.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3660,3660,"CR:Basic Service F... B.Johnson 201306: Johnson, Bettie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... B.Johnson 201306: Johnson, Bettie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,480,480,"CR:Resident Care -... B.Johnson 201306: Johnson, Bettie",,,,,,,,,,,,,,,

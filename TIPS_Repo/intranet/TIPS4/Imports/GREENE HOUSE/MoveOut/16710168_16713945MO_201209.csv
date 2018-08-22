@@ -1,0 +1,8 @@
+BATCH,,201209,B,8292.0000,
+INVOICE,IN,,16710168,,09/01/2012,3402.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16713945MO,-6540.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,21,96.0000,2016.00,"Basic Service Fee - Deluxe for Sep: Masek, Rose L",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,21,66.0000,1386.00,"Resident Care - Level 5 for Sep: Masek, Rose L",,,,,,,,,,,,,,,
+INVOICE,CM,,16710168,,09/01/2012,4890,"Invoice-Private",,09/01/2012,09/10/2012,,16713945MO,-6540.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2880,2880,"CR:Basic Service F... R.Masek 201209: Masek, Rose L",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... R.Masek 201209: Masek, Rose L",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1980,1980,"CR:Resident Care -... R.Masek 201209: Masek, Rose L",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,3268.0000,
+INVOICE,IN,,04510268,,03/07/2013,602.0000,"Invoice-Private",,03/07/2013,03/07/2013,,04514448MO,-2064.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,7,70.0000,490.00,"Basic Service Fee - Studio for Mar: Plumer, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,7,16.0000,112.00,"Resident Care - Level 1 for Mar: Plumer, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,04510268,,03/07/2013,2666,"Invoice-Private",,03/07/2013,03/07/2013,,04514448MO,-2064.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2170,2170,"CR:Basic Service F... P.Plumer 201303: Plumer, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... P.Plumer 201303: Plumer, Pauline",,,,,,,,,,,,,,,

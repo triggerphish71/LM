@@ -1,0 +1,7 @@
+BATCH,,201307,B,4000.0000,
+INVOICE,IN,,50510147,,07/08/2013,119.0000,"Invoice-Private",,07/08/2013,07/08/2013,,50512070MO,-3762.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,119.0000,119.00,"Basic Service Fee - One Bedroom for Jul: Burgess, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,50510147,,07/08/2013,3881,"Invoice-Private",,07/08/2013,07/08/2013,,50512070MO,-3762.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,2856,2856,"CR:Basic Service F... C.Burgess 201307: Burgess, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25,25,"CR:Monthly Cable... C.Burgess 201307: Burgess, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1000,1000,"CR:New Resident Fe... C.Burgess 201307: Burgess, Charles",,,,,,,,,,,,,,,

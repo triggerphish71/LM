@@ -1,0 +1,5 @@
+BATCH,,201109,B,50.0000,
+INVOICE,IN,,05710291,,09/01/2011,25.0000,"Invoice-Private",,09/01/2011,09/10/2011,,05715182MO,-4370.0000,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25.0000,25.00,"Monthly Cable: Brown, William ",,,,,,,,,,,,,,,
+INVOICE,CM,,05710291,,09/01/2011,25,"Invoice-Private",,09/01/2011,09/10/2011,,05715182MO,-4370.0000,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25,25,"Credit for Monthly Cable: Brown, William ",,,,,,,,,,,,,,,

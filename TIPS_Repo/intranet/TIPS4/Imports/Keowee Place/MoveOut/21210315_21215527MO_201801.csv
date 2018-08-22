@@ -1,0 +1,6 @@
+BATCH,,201801,B,4356.0000,
+INVOICE,IN,,21210315,,01/25/2018,1925.0000,"Invoice-Private",,01/25/2018,01/25/2018,,21215527MO,-506.0000,,,,,,,,,,
+TRANSACTION,3020,010008212,25,77.0000,1925.00,"Studio  for Jan: Michael, Andy",,,,,,,,,,,,,,,
+INVOICE,CM,,21210315,,01/25/2018,2431,"Invoice-Private",,01/25/2018,01/25/2018,,21215527MO,-506.0000,,,,,,,,,,
+TRANSACTION,3260,010008212,1,44,44,"CR:Monthly Cable... A.Michael 201801: Michael, Andy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008212,1,2387,2387,"CR:Studio... A.Michael 201801: Michael, Andy",,,,,,,,,,,,,,,

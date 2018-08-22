@@ -1,0 +1,7 @@
+BATCH,,201209,B,4810.0000,
+INVOICE,IN,,06010221,,09/13/2012,2070.0000,"Invoice-Private",,09/13/2012,09/13/2012,,06014449MO,-2570.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,900.0000,900.00,"CR:Limited Term Di... R.Evans 201209: Evans, Ruby ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,13,90.0000,1170.00,"Basic Service Fee - Studio for Sep: Evans, Ruby ",,,,,,,,,,,,,,,
+INVOICE,CM,,06010221,,09/13/2012,2740,"Invoice-Private",,09/13/2012,09/13/2012,,06014449MO,-2570.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2700,2700,"CR:Basic Service F... R.Evans 201209: Evans, Ruby ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... R.Evans 201209: Evans, Ruby ",,,,,,,,,,,,,,,

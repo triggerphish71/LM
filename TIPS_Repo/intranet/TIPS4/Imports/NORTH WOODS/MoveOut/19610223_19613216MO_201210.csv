@@ -1,0 +1,7 @@
+BATCH,,201210,B,690.0000,
+INVOICE,IN,,19610223,,10/01/2012,345.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19613216MO,-8542.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35.00,"Monthly Cable: Beaudrie, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10.0000,310.00,"CC Meals: Beaudrie, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,19610223,,10/01/2012,345,"Invoice-Private",,10/01/2012,10/10/2012,,19613216MO,-8542.0000,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35,35,"Credit for Monthly Cable: Beaudrie, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,31,10,310,"Credit for CC Meals: Beaudrie, Thomas",,,,,,,,,,,,,,,

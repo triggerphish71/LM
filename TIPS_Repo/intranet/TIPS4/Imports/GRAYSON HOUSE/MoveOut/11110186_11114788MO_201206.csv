@@ -1,0 +1,7 @@
+BATCH,,201206,B,170.0000,
+INVOICE,IN,,11110186,,06/01/2012,85.0000,"Invoice-Private",,06/01/2012,06/10/2012,,11114788MO,-3879.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25.00,"Monthly Cable: Newland, Bethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107111,30,2.0000,60.00,"Credit for Limited Term Discount: Newland, Bethel",,,,,,,,,,,,,,,
+INVOICE,CM,,11110186,,06/01/2012,85,"Invoice-Private",,06/01/2012,06/10/2012,,11114788MO,-3879.0000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"Credit for Monthly Cable: Newland, Bethel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107111,30,2,60,"Limited Term Discount: Newland, Bethel",,,,,,,,,,,,,,,

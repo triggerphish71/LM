@@ -1,0 +1,7 @@
+BATCH,,201202,B,6486.0000,
+INVOICE,IN,,12310092,,02/17/2012,2397.0000,"Invoice-Private",,02/17/2012,02/17/2012,,12315307MO,-6063.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,17,103.0000,1751.00,"Basic Service Fee - Studio for Feb: Hueske, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,17,38.0000,646.00,"Resident Care - Level 2 for Feb: Hueske, Alfred",,,,,,,,,,,,,,,
+INVOICE,CM,,12310092,,02/17/2012,4089,"Invoice-Private",,02/17/2012,02/17/2012,,12315307MO,-6063.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,2987,2987,"CR:Basic Service F... A.Hueske 201202: Hueske, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1102,1102,"CR:Resident Care -... A.Hueske 201202: Hueske, Alfred",,,,,,,,,,,,,,,

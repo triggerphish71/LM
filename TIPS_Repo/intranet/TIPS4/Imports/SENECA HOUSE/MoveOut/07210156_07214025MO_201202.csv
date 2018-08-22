@@ -1,0 +1,7 @@
+BATCH,,201202,B,9990.0000,
+INVOICE,IN,,07210156,,02/01/2012,4625.0000,"Invoice-Private",,02/01/2012,02/10/2012,,07214025MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,25,109.0000,2725.00,"Basic Service Fee - Deluxe for Feb: McTaggart, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,25,76.0000,1900.00,"Resident Care - Level 5 for Feb: McTaggart, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,07210156,,02/01/2012,5365,"Invoice-Private",,02/01/2012,02/10/2012,,07214025MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3161,3161,"CR:Basic Service F... M.McTaggart 201202: McTaggart, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2204,2204,"CR:Resident Care -... M.McTaggart 201202: McTaggart, Marion",,,,,,,,,,,,,,,

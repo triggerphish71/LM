@@ -1,0 +1,8 @@
+BATCH,,201802,B,9004.2800,
+INVOICE,IN,,10710495,,02/21/2018,3843.0000,"Invoice-Private",,02/21/2018,02/21/2018,,10719232MO,-1318.2800,,,,,,,,,,
+TRANSACTION,3020,010007107,21,99.0000,2079.00,"Basic Service Fee - Studio  for Feb: Devenport, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007107,21,84.0000,1764.00,"Resident Care - Level 5  for Feb: Devenport, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,10710495,,02/21/2018,5161.28,"Invoice-Private",,02/21/2018,02/21/2018,,10719232MO,-1318.2800,,,,,,,,,,
+TRANSACTION,3020,010007107,1,2772,2772,"CR:Basic Service F... H.Devenport 201802: Devenport, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3130,010007107,1,37.28,37.28,"CR:Pendant Fee... H.Devenport 201802: Devenport, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007107,1,2352,2352,"CR:Resident Care -... H.Devenport 201802: Devenport, Harry",,,,,,,,,,,,,,,

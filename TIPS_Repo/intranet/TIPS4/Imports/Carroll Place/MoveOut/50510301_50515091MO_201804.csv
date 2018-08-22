@@ -1,0 +1,8 @@
+BATCH,,201804,B,8617.9500,
+INVOICE,IN,,50510301,,04/25/2018,3917.2500,"Invoice-Private",,04/25/2018,04/25/2018,,50515091MO,-5667.1400,,,,,,,,,,
+TRANSACTION,3017,010005505,25,77.0000,1925.00," Level: 5 : Kremblas, Michelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005505,25,79.6900,1992.25,"Basic Service Fee - Studio  for Apr: Kremblas, Michelle",,,,,,,,,,,,,,,
+INVOICE,CM,,50510301,,04/25/2018,4700.7,"Invoice-Private",,04/25/2018,04/25/2018,,50515091MO,-5667.1400,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2390.7,2390.7,"CR:Basic Service F... M.Kremblas 201804: Kremblas, Michelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,570,570,"CR:Resident Care -... M.Kremblas 201804: Kremblas, Michelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,1740,1740,"CR:Resident Care L... M.Kremblas 201804: Kremblas, Michelle",,,,,,,,,,,,,,,

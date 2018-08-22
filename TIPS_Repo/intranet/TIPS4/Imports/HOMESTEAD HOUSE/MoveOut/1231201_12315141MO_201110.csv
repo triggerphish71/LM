@@ -1,0 +1,7 @@
+BATCH,,201110,B,9617.0000,
+INVOICE,IN,,1231201,,10/28/2011,4564.0000,"Invoice-Private",,10/28/2011,10/28/2011,,12315141MO,-5379.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,28,111.0000,3108.00,"Basic Service Fee - Deluxe for Oct: Heist, Freida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,28,52.0000,1456.00,"Resident Care - Level 3 for Oct: Heist, Freida",,,,,,,,,,,,,,,
+INVOICE,CM,,1231201,,10/28/2011,5053,"Invoice-Private",,10/28/2011,10/28/2011,,12315141MO,-5379.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3441,3441,"CR:Basic Service F... F.Heist 201110: Heist, Freida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... F.Heist 201110: Heist, Freida",,,,,,,,,,,,,,,

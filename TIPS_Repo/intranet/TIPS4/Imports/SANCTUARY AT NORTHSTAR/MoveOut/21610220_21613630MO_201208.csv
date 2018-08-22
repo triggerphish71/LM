@@ -1,0 +1,7 @@
+BATCH,,201208,B,164.0000,
+INVOICE,IN,,21610220,,08/01/2012,82.0000,"Invoice-Private",,08/01/2012,08/10/2012,,21613630MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,2.0000,62.00,"Credit for Limited Term Discount: Tucker, Ella Mae",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20.0000,20.00,"Pendant Fee: Tucker, Ella Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,21610220,,08/01/2012,82,"Invoice-Private",,08/01/2012,08/10/2012,,21613630MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,2,62,"Limited Term Discount: Tucker, Ella Mae",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"Credit for Pendant Fee: Tucker, Ella Mae",,,,,,,,,,,,,,,

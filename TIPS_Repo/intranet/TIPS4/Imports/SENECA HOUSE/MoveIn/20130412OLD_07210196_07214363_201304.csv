@@ -1,0 +1,5 @@
+BATCH,,201304,B,3913.0000,
+INVOICE,IN,,07210196,,04/12/2013,3913.0000,"MoveIn-Robison. Robert",,04/12/2013,04/12/2013,,07214363,3913.0000,,,,,,,,,,
+TRANSACTION,3010,010305072,19,109.0000,2071,"Basic Service Fee - Deluxe: Robison. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305072,19,18.0000,342,"Resident Care - Level 1: Robison. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305072,1,1500.0000,1500,"New Resident Fee: Robison. Robert",,,,,,,,,,,,,,,

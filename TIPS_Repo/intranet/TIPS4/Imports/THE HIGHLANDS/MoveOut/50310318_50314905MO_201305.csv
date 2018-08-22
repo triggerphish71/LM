@@ -1,0 +1,6 @@
+BATCH,,201305,B,4619.0000,
+INVOICE,IN,,50310318,,05/01/2013,1147.0000,"Invoice-Private",,05/01/2013,05/10/2013,,50314905MO,-3028.0000,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1147.0000,1147.00,"CR:Resident Care L... W.Randolph 201305: Randolph, William",,,,,,,,,,,,,,,
+INVOICE,CM,,50310318,,05/01/2013,3472,"Invoice-Private",,05/01/2013,05/10/2013,,50314905MO,-3028.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... W.Randolph 201305: Randolph, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1147,1147,"CR:Resident Care -... W.Randolph 201305: Randolph, William",,,,,,,,,,,,,,,

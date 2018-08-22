@@ -1,0 +1,5 @@
+BATCH,,201108,B,2688.0000,
+INVOICE,IN,,17810320,,08/01/2011,84.0000,"Invoice-Private",,08/01/2011,08/01/2011,,17815744MO,-4119.8000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,84.0000,84.00,"Basic Service Fee - Studio for Aug: Petersen, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,17810320,,08/01/2011,2604,"Invoice-Private",,08/01/2011,08/01/2011,,17815744MO,-4119.8000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2604,2604,"CR:Basic Service F... J.Petersen 201108: Petersen, Jean",,,,,,,,,,,,,,,

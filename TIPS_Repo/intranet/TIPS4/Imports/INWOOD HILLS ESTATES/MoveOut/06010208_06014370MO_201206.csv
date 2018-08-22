@@ -1,0 +1,5 @@
+BATCH,,201206,B,360.0000,
+INVOICE,IN,,06010208,,06/01/2012,180.0000,"Invoice-Private",,06/01/2012,06/10/2012,,06014370MO,-3297.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,30,6.0000,180.00,"Credit for Limited Term Discount: Jurgonski, Freida",,,,,,,,,,,,,,,
+INVOICE,CM,,06010208,,06/01/2012,180,"Invoice-Private",,06/01/2012,06/10/2012,,06014370MO,-3297.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,30,6,180,"Limited Term Discount: Jurgonski, Freida",,,,,,,,,,,,,,,

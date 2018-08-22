@@ -1,0 +1,7 @@
+BATCH,,201110,B,8272.0000,
+INVOICE,IN,,51310170,,10/01/2011,2444.0000,"Invoice-Private",,10/01/2011,10/10/2011,,51313538MO,-3384.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,13,113.0000,1469.00,"Basic Service Fee - Studio Deluxe for Oct: Prine, Olga",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,13,75.0000,975.00,"Resident Care - Level 6 for Oct: Prine, Olga",,,,,,,,,,,,,,,
+INVOICE,CM,,51310170,,10/01/2011,5828,"Invoice-Private",,10/01/2011,10/10/2011,,51313538MO,-3384.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3503,3503,"CR:Basic Service F... O.Prine 201110: Prine, Olga",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2325,2325,"CR:Resident Care -... O.Prine 201110: Prine, Olga",,,,,,,,,,,,,,,

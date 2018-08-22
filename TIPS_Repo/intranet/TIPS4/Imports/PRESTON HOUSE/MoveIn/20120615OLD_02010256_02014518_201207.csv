@@ -1,0 +1,5 @@
+BATCH,,201207,B,5245.0000,
+INVOICE,IN,,02010256,,07/01/2012,3745.0000,"July_Rent-Wagoner. Martin",,07/01/2012,07/10/2012,,02014518,6440.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,31,94.0000,2914,"M.Wagoner: Basic Service Fee - Studio: Wagoner. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202020,31,26.0000,806,"M.Wagoner: Resident Care - Level 2: Wagoner. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Wagoner. Martin",,,,,,,,,,,,,,,

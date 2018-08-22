@@ -1,0 +1,8 @@
+BATCH,,201211,B,5760.0000,
+INVOICE,IN,,20810019,,11/27/2012,2760.0000,"Invoice-Private",,11/27/2012,11/27/2012,,20813428MO,-3278.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,60.0000,60.00,"CR:Limited Term Di... H.Howard 201211: Howard, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,27,22.0000,594.00,"Resident Care - Level 2 for Nov: Howard, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,27,78.0000,2106.00,"Room and Board - Studio for Nov: Howard, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,20810019,,11/27/2012,3000,"Invoice-Private",,11/27/2012,11/27/2012,,20813428MO,-3278.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,660,660,"CR:Resident Care -... H.Howard 201211: Howard, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2340,2340,"CR:Room and Board ... H.Howard 201211: Howard, Harry",,,,,,,,,,,,,,,

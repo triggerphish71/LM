@@ -1,0 +1,5 @@
+BATCH,,201105,B,1930.0000,
+INVOICE,IN,,12010223,,05/20/2011,1930.0000,"MoveIn-Heck. Harry",,05/20/2011,05/20/2011,,12013980,4210.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,12,75.0000,900,"Basic Service Fee - Studio         : Heck. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Heck. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Heck. Harry",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,5121.9700,
+INVOICE,IN,,01810146,,02/19/2012,2090.6000,"Invoice-Private",,02/19/2012,02/19/2012,,01812470MO,-4181.2000,,,,,,,,,,
+TRANSACTION,3020,010103018,20,92.0000,1840.00,"Basic Service Fee - One Bedroom for Feb: Matthews, Lesley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,20,12.5300,250.60,"Resident Care - Level 7 for Feb: Matthews, Lesley",,,,,,,,,,,,,,,
+INVOICE,CM,,01810146,,02/19/2012,3031.37,"Invoice-Private",,02/19/2012,02/19/2012,,01812470MO,-4181.2000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2668,2668,"CR:Basic Service F... L.Matthews 201202: Matthews, Lesley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,363.37,363.37,"CR:Resident Care -... L.Matthews 201202: Matthews, Lesley",,,,,,,,,,,,,,,

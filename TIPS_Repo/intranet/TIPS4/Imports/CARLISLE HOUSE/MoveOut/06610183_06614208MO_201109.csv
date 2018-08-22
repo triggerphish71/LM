@@ -1,0 +1,8 @@
+BATCH,,201109,B,10135.0000,
+INVOICE,IN,,06610183,,09/23/2011,3762.0000,"Invoice-Private",,09/23/2011,09/23/2011,,06614208MO,-7912.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,22,123.0000,2706.00,"Basic Service Fee - One Bedroom for Sep: Lust, Treva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,22,48.0000,1056.00,"Service level: lvl 0 to lvl 3 - 9/9/11 for Sep: Lust, Treva",,,,,,,,,,,,,,,
+INVOICE,CM,,06610183,,09/23/2011,6373,"Invoice-Private",,09/23/2011,09/23/2011,,06614208MO,-7912.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3567,3567,"CR:Basic Service F... T.Lust 201109: Lust, Treva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750,1750,"CR:New Resident Fe... T.Lust 201109: Lust, Treva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1056,1056,"CR:Service level: ... T.Lust 201109: Lust, Treva",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,4988.0000,
+INVOICE,IN,,10810301,,06/28/2013,2408.0000,"Invoice-Private",,06/28/2013,06/28/2013,,10815368MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,28,60.0000,1680.00,"Basic Service Fee - Studio for Jun: Dorn, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,28,26.0000,728.00,"Resident Care - Level 2 for Jun: Dorn, Leonard",,,,,,,,,,,,,,,
+INVOICE,CM,,10810301,,06/28/2013,2580,"Invoice-Private",,06/28/2013,06/28/2013,,10815368MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,1800,1800,"CR:Basic Service F... L.Dorn 201306: Dorn, Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,780,780,"CR:Resident Care -... L.Dorn 201306: Dorn, Leonard",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,3887.0000,
+INVOICE,IN,,02310151,,08/01/2012,917.0000,"Invoice-Private",,08/01/2012,08/01/2012,,02314986MO,-2053.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,62.0000,62.00,"CR:Limited Term Di... R.Hughey 201208: Hughey, Robin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,9,95.0000,855.00,"Basic Service Fee - Studio for Aug: Hughey, Robin",,,,,,,,,,,,,,,
+INVOICE,CM,,02310151,,08/01/2012,2970,"Invoice-Private",,08/01/2012,08/01/2012,,02314986MO,-2053.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2945,2945,"CR:Basic Service F... R.Hughey 201208: Hughey, Robin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... R.Hughey 201208: Hughey, Robin",,,,,,,,,,,,,,,

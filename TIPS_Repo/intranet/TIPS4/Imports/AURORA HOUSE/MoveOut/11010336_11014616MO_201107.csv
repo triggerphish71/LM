@@ -1,0 +1,8 @@
+BATCH,,201107,B,5134.0000,
+INVOICE,IN,,11010336,,07/08/2011,1048.0000,"Invoice-Private",,07/08/2011,07/08/2011,,11014616MO,-3038.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,8,91.0000,728.00,"Basic Service Fee - Studio for Jul: Sams Jr, Orville",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,8,40.0000,320.00,"Resident Care - Level 3 for Jul: Sams Jr, Orville",,,,,,,,,,,,,,,
+INVOICE,CM,,11010336,,07/08/2011,4086,"Invoice-Private",,07/08/2011,07/08/2011,,11014616MO,-3038.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Basic Service F... O.Sams Jr 201107: Sams Jr, Orville",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25,25,"CR:Monthly Cable... O.Sams Jr 201107: Sams Jr, Orville",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,1240,1240,"CR:Resident Care -... O.Sams Jr 201107: Sams Jr, Orville",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,4788.0000,
+INVOICE,IN,,07310256,,01/01/2013,1254.0000,"Invoice-Private",,01/01/2013,01/10/2013,,07315942MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,11,97.0000,1067.00,"Basic Service Fee - Studio for Jan: Reck, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,11,17.0000,187.00,"Resident Care - Level 1 for Jan: Reck, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,07310256,,01/01/2013,3534,"Invoice-Private",,01/01/2013,01/10/2013,,07315942MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... T.Reck 201301: Reck, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,527,527,"CR:Resident Care -... T.Reck 201301: Reck, Tom",,,,,,,,,,,,,,,

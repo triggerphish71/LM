@@ -1,0 +1,6 @@
+BATCH,,201108,B,3713.0000,
+INVOICE,IN,,04710129,,08/11/2011,3713.0000,"MoveIn-Crownover. Beatrice",,08/11/2011,08/11/2011,,04713085,7578.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,21,96.0000,2016,"Basic Service Fee - Studio         : Crownover. Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,21,32.0000,672,"Resident Care - Level 2: Crownover. Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Crownover. Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Crownover. Beatrice",,,,,,,,,,,,,,,

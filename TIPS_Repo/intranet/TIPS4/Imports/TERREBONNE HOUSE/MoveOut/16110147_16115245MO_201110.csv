@@ -1,0 +1,5 @@
+BATCH,,201110,B,4165.0000,
+INVOICE,IN,,16110147,,10/18/2011,1530.0000,"Invoice-Private",,10/18/2011,10/18/2011,,16115245MO,-3655.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,18,85.0000,1530.00,"Basic Service Fee - Studio for Oct: Shelton, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,16110147,,10/18/2011,2635,"Invoice-Private",,10/18/2011,10/18/2011,,16115245MO,-3655.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2635,2635,"CR:Basic Service F... E.Shelton 201110: Shelton, Esther",,,,,,,,,,,,,,,

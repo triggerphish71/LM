@@ -1,0 +1,6 @@
+BATCH,,201112,B,1788.7000,
+INVOICE,IN,,03810221,,12/01/2011,217.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03814059MO,-1448.9000,,,,,,,,,,
+TRANSACTION,3320,010103038,1,217.0000,217.00,"CR:Limited Term Di... P.Campbell 201112: Campbell, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,03810221,,12/01/2011,1571.7,"Invoice-Private",,12/01/2011,12/10/2011,,03814059MO,-1448.9000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,992,992,"CR:Basic Service F... P.Campbell 201112: Campbell, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,579.7,579.7,"CR:Resident Care -... P.Campbell 201112: Campbell, Paul",,,,,,,,,,,,,,,

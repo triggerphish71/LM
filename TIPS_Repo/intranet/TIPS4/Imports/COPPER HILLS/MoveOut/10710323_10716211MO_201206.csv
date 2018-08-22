@@ -1,0 +1,7 @@
+BATCH,,201206,B,4384.0000,
+INVOICE,IN,,10710323,,06/02/2012,274.0000,"Invoice-Private",,06/02/2012,06/02/2012,,10716211MO,-3836.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,2,69.0000,138.00,"Basic Service Fee- Companion Studio for Jun: Rosselot, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,2,68.0000,136.00,"Resident Care - Level 5 for Jun: Rosselot, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,10710323,,06/02/2012,4110,"Invoice-Private",,06/02/2012,06/02/2012,,10716211MO,-3836.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2070,2070,"CR:Basic Service F... D.Rosselot 201206: Rosselot, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,2040,2040,"CR:Resident Care -... D.Rosselot 201206: Rosselot, Doris",,,,,,,,,,,,,,,

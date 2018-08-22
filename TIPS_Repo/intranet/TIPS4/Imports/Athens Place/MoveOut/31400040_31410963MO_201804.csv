@@ -1,0 +1,7 @@
+BATCH,,201804,B,10973.3300,
+INVOICE,IN,,31400040,,04/10/2018,7733.3300,"Invoice-Private",,04/10/2018,04/10/2018,,31410963MO,1145.3300,,,,,,,,,,
+TRANSACTION,3010,070025314,1,5800.0000,5800.00,"Basic Service Fee - MC Studio: Brackett, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3010,070025314,10,193.3333,1933.33,"Basic Service Fee - MC Studio: Brackett, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,31400040,,04/10/2018,3240,"Invoice-Private",,04/10/2018,04/10/2018,,31410963MO,1145.3300,,,,,,,,,,
+TRANSACTION,3027,070025314,1,780,780,"CR:Resident Care -... F.Brackett 201804: Brackett, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,070025314,1,2460,2460,"CR:Studio... F.Brackett 201804: Brackett, Frances",,,,,,,,,,,,,,,

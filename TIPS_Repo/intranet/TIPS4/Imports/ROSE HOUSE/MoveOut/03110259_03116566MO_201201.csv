@@ -1,0 +1,5 @@
+BATCH,,201201,B,4088.0000,
+INVOICE,CM,,03110259,,01/01/2012,4088,"Invoice-Private",,01/01/2012,01/10/2012,,03116566MO,-4241.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3565,3565,"CR:Basic Service F... M.Lalonde 201201: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... M.Lalonde 201201: Lalonde, Mary Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,496,496,"CR:Resident Care -... M.Lalonde 201201: Lalonde, Mary Lucy",,,,,,,,,,,,,,,

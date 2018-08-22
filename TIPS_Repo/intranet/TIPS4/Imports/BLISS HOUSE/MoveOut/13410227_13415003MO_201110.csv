@@ -1,0 +1,5 @@
+BATCH,,201110,B,1860.0000,
+INVOICE,IN,,13410227,,10/01/2011,930.0000,"Invoice-Private",,10/01/2011,10/10/2011,,13415003MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3321,010309134,31,30.0000,930.00,"Credit for 2nd Resident Free Discount: Wagner, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,13410227,,10/01/2011,930,"Invoice-Private",,10/01/2011,10/10/2011,,13415003MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3321,010309134,31,30,930,"2nd Resident Free Discount: Wagner, Norma",,,,,,,,,,,,,,,

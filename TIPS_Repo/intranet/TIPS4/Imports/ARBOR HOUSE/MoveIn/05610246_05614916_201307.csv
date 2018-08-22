@@ -1,0 +1,6 @@
+BATCH,,201307,B,3972.0000,
+INVOICE,IN,,05610246,,07/01/2013,3972.0000,"MoveIn-Coburn. Winifred",,07/01/2013,07/01/2013,,05614916,3972.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,31,68.0000,2108,"Basic Service Fee - Studio: Coburn. Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,31,27.0000,837,"Resident Care - Level 2: Coburn. Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Coburn. Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Coburn. Winifred",,,,,,,,,,,,,,,

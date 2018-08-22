@@ -1,0 +1,5 @@
+BATCH,,201206,B,1080.0000,
+INVOICE,IN,,04510197,,06/01/2012,540.0000,"Invoice-Private",,06/01/2012,06/10/2012,,04514025MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,30,18.0000,540.00,"Credit for Limited Term Discount: Climer, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,04510197,,06/01/2012,540,"Invoice-Private",,06/01/2012,06/10/2012,,04514025MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,30,18,540,"Limited Term Discount: Climer, Richard",,,,,,,,,,,,,,,

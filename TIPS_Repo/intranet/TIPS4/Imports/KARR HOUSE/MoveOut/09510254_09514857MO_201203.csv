@@ -1,0 +1,7 @@
+BATCH,,201203,B,7322.0000,
+INVOICE,IN,,09510254,,03/25/2012,3268.7500,"Invoice-Private",,03/25/2012,03/25/2012,,09514857MO,-4707.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,25,86.0000,2150.00,"Basic Service Fee - Studio for Mar: Burke, Lynn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,25,44.7500,1118.75,"Resident Care - Level 25 for Mar: Burke, Lynn",,,,,,,,,,,,,,,
+INVOICE,CM,,09510254,,03/25/2012,4053.25,"Invoice-Private",,03/25/2012,03/25/2012,,09514857MO,-4707.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... L.Burke 201203: Burke, Lynn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1387.25,1387.25,"CR:Resident Care -... L.Burke 201203: Burke, Lynn",,,,,,,,,,,,,,,

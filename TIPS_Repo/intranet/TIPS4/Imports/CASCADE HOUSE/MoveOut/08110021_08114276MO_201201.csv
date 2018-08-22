@@ -1,0 +1,7 @@
+BATCH,,201201,B,1398.9800,
+INVOICE,IN,,08110021,,01/01/2012,699.4900,"Invoice-Medicaid",,01/01/2012,01/10/2012,,08114276MO,-3182.7200,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25.00,"Monthly Cable: OBrien, Alma Jean",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103081,1,674.4900,674.49,"State Medicaid (3012): OBrien, Alma Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,08110021,,01/01/2012,699.49,"Invoice-Medicaid",,01/01/2012,01/10/2012,,08114276MO,-3182.7200,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"Credit for Monthly Cable: OBrien, Alma Jean",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103081,1,674.49,674.49,"Credit for State Medicaid (3012): OBrien, Alma Jean",,,,,,,,,,,,,,,

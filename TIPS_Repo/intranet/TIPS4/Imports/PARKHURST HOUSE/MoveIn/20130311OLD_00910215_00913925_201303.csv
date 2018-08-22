@@ -1,0 +1,5 @@
+BATCH,,201303,B,3298.8500,
+INVOICE,IN,,00910215,,03/09/2013,3298.8500,"MoveIn-Pellegrini. Viola",,03/09/2013,03/09/2013,,00913925,3298.8500,,,,,,,,,,
+TRANSACTION,3010,010101009,23,87.0000,2001,"Basic Service Fee - Studio: Pellegrini. Viola",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,23,12.9500,297.85,"Resident Care - Level 7: Pellegrini. Viola",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Pellegrini. Viola",,,,,,,,,,,,,,,

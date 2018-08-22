@@ -1,0 +1,7 @@
+BATCH,,201201,B,5472.0000,
+INVOICE,IN,,08410153,,01/01/2012,171.0000,"Invoice-Private",,01/01/2012,01/01/2012,,08413924MO,-5130.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,106.0000,106.00,"Basic Service Fee - Studio for Jan: Harris, Darlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,65.0000,65.00,"Resident Care - Level 4 for Jan: Harris, Darlene",,,,,,,,,,,,,,,
+INVOICE,CM,,08410153,,01/01/2012,5301,"Invoice-Private",,01/01/2012,01/01/2012,,08413924MO,-5130.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,3286,3286,"CR:Basic Service F... D.Harris 201201: Harris, Darlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,2015,2015,"CR:Resident Care -... D.Harris 201201: Harris, Darlene",,,,,,,,,,,,,,,

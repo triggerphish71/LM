@@ -1,0 +1,7 @@
+BATCH,,201305,B,3945.0000,
+INVOICE,IN,,01410248,,05/01/2013,975.0000,"Invoice-Private",,05/01/2013,05/10/2013,,01414665MO,-1995.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,10,95.0000,950.00,"Basic Service Fee - Studio for May: Grogan, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25.00,"Monthly Cable: Grogan, Henrietta",,,,,,,,,,,,,,,
+INVOICE,CM,,01410248,,05/01/2013,2970,"Invoice-Private",,05/01/2013,05/10/2013,,01414665MO,-1995.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2945,2945,"CR:Basic Service F... H.Grogan 201305: Grogan, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"Credit for Monthly Cable: Grogan, Henrietta",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201304,B,6336.0000,
+INVOICE,IN,,17410273,,04/14/2013,2016.0000,"Invoice-Private",,04/14/2013,04/14/2013,,17414693MO,-2304.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,14,112.0000,1568.00,"Basic Service Fee - One Bedroom for Apr: Finney, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,14,32.0000,448.00,"Resident Care Level Change for Apr: Finney, Marvin",,,,,,,,,,,,,,,
+INVOICE,CM,,17410273,,04/14/2013,4320,"Invoice-Private",,04/14/2013,04/14/2013,,17414693MO,-2304.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,3360,3360,"CR:Basic Service F... M.Finney 201304: Finney, Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,960,960,"CR:Resident Care L... M.Finney 201304: Finney, Marvin",,,,,,,,,,,,,,,

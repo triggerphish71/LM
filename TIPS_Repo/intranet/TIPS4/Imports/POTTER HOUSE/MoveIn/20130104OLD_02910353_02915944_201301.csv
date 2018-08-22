@@ -1,0 +1,6 @@
+BATCH,,201301,B,5221.0000,
+INVOICE,IN,,02910353,,01/04/2013,5221.0000,"MoveIn-Mealer. Wilma",,01/04/2013,01/04/2013,,02915944,5221.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,28,100.0000,2800,"Basic Service Fee - Studio: Mealer. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,28,32.0000,896,"Resident Care - Level 2: Mealer. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Mealer. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Mealer. Wilma",,,,,,,,,,,,,,,

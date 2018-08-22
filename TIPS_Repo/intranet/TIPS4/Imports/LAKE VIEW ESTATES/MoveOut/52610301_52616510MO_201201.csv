@@ -1,0 +1,7 @@
+BATCH,,201201,B,10068.0000,
+INVOICE,IN,,52610301,,12/26/2011,2938.0000,"Invoice-Private",,12/26/2011,12/26/2011,,52616510MO,-4192.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,26,113.0000,2938.00,"Room and Board - Two Bedroom Deluxe for Dec: Eriksen, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,52610301,,12/26/2011,3503,"Invoice-Private",,12/26/2011,12/26/2011,,52616510MO,-4192.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3503,3503,"CR:Room and Board ... R.Eriksen 201112: Eriksen, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,52610301,,01/01/2012,3627,"Invoice-Private",,01/01/2012,01/10/2012,,52616510MO,-4192.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3627,3627,"CR:Basic Service F... R.Eriksen 201201: Eriksen, Richard",,,,,,,,,,,,,,,

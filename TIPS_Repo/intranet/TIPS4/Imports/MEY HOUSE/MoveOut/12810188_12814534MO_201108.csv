@@ -1,0 +1,5 @@
+BATCH,,201108,B,5022.0000,
+INVOICE,IN,,12810188,,08/01/2011,2511.0000,"Invoice-Private",,08/01/2011,08/10/2011,,12814534MO,-276.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,31,81.0000,2511.00,"Credit for Limited Term Discount: Reale, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,12810188,,08/01/2011,2511,"Invoice-Private",,08/01/2011,08/10/2011,,12814534MO,-276.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,31,81,2511,"Limited Term Discount: Reale, Margaret",,,,,,,,,,,,,,,

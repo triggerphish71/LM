@@ -1,0 +1,5 @@
+BATCH,,201206,B,54.0000,
+INVOICE,IN,,04510238,,06/01/2012,27.0000,"Invoice-Private",,06/01/2012,06/10/2012,,04514024MO,-2575.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Wiles, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,04510238,,06/01/2012,27,"Invoice-Private",,06/01/2012,06/10/2012,,04514024MO,-2575.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Wiles, Kenneth",,,,,,,,,,,,,,,

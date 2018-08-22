@@ -1,0 +1,5 @@
+BATCH,,201308,B,640.0000,
+INVOICE,IN,,03210190,,08/01/2013,320.0000,"Invoice-Private",,08/01/2013,08/10/2013,,03215436MO,-4212.0000,,,,,,,,,,
+TRANSACTION,3210,010202032,1,320.0000,320.00,"Personal Services: Huffman, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,03210190,,08/01/2013,320,"Invoice-Private",,08/01/2013,08/10/2013,,03215436MO,-4212.0000,,,,,,,,,,
+TRANSACTION,3210,010202032,1,320,320,"Credit for Personal Services: Huffman, Willard",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,1178.0000,
+INVOICE,IN,,03710188,,01/01/2012,589.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03714075MO,1029.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,31,19.0000,589.00,"Credit for Limited Term Discount: Bowman, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03710188,,01/01/2012,589,"Invoice-Private",,01/01/2012,01/10/2012,,03714075MO,1029.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,31,19,589,"Limited Term Discount: Bowman, John",,,,,,,,,,,,,,,

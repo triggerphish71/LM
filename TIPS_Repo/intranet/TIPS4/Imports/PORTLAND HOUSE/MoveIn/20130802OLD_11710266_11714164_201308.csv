@@ -1,0 +1,6 @@
+BATCH,,201308,B,4840.0000,
+INVOICE,IN,,11710266,,08/02/2013,4840.0000,"MoveIn-Volz. Connie",,08/02/2013,08/02/2013,,11714164,4840.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,30,110.0000,3300,"Basic Service Fee - One Bedroom: Volz. Connie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,30,17.0000,510,"Resident Care - Level 1: Volz. Connie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Volz. Connie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305117,1,1000.0000,1000,"New Resident Fee: Volz. Connie",,,,,,,,,,,,,,,

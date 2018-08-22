@@ -1,0 +1,6 @@
+BATCH,,201201,B,2221.0000,
+INVOICE,IN,,19310351,,01/25/2012,2221.0000,"MoveIn-Hall. Joyce",,01/25/2012,01/25/2012,,19315076,5208.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,7,76.0000,532,"Basic Service Fee - Studio: Hall. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,7,17.0000,119,"Resident Care - Level 1: Hall. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Hall. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,7,10.0000,70,"CC Meals: Hall. Joyce",,,,,,,,,,,,,,,

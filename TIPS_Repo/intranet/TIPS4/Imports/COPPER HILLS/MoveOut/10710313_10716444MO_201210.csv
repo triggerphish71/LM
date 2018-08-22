@@ -1,0 +1,8 @@
+BATCH,,201210,B,8263.0000,
+INVOICE,IN,,10710313,,10/24/2012,4357.0000,"Invoice-Private",,10/24/2012,10/24/2012,,10716444MO,-2039.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,1333.0000,1333.00,"CR:Limited Term Di... J.Martin 201210: Martin, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,24,98.0000,2352.00,"Basic Service Fee - Studio for Oct: Martin, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,24,28.0000,672.00,"Resident Care - Level 2 for Oct: Martin, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,10710313,,10/24/2012,3906,"Invoice-Private",,10/24/2012,10/24/2012,,10716444MO,-2039.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... J.Martin 201210: Martin, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,868,868,"CR:Resident Care -... J.Martin 201210: Martin, Jack",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,2977.7500,
+INVOICE,IN,,03010224,,03/10/2013,831.0000,"Invoice-Private",,03/10/2013,03/10/2013,,03014322MO,-1315.7500,,,,,,,,,,
+TRANSACTION,3020,010103030,12,60.0000,720.00,"Basic Service Fee - Studio for Mar: Barber, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,12,9.2500,111.00,"Resident Care - Level 5 for Mar: Barber, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,03010224,,03/10/2013,2146.75,"Invoice-Private",,03/10/2013,03/10/2013,,03014322MO,-1315.7500,,,,,,,,,,
+TRANSACTION,3020,010103030,1,1860,1860,"CR:Basic Service F... R.Barber 201303: Barber, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,286.75,286.75,"CR:Resident Care -... R.Barber 201303: Barber, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,3931.0000,
+INVOICE,IN,,03210285,,12/01/2012,3931.0000,"December_Rent-Kirby. Dorothy",,12/01/2012,12/10/2012,,03215152,6086.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,31,94.0000,2914,"D.Kirby: Basic Service Fee - Studio: Kirby. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,31,32.0000,992,"D.Kirby: Resident Care - Level 2: Kirby. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Kirby. Dorothy",,,,,,,,,,,,,,,

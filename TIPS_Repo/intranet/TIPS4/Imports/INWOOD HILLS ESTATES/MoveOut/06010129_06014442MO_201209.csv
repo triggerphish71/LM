@@ -1,0 +1,7 @@
+BATCH,,201209,B,3410.0000,
+INVOICE,IN,,06010129,,09/07/2012,630.0000,"Invoice-Private",,09/07/2012,09/07/2012,,06014442MO,-2150.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,7,90.0000,630.00,"Basic Service Fee - Studio for Sep: Pauszek, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,06010129,,09/07/2012,2780,"Invoice-Private",,09/07/2012,09/07/2012,,06014442MO,-2150.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2700,2700,"CR:Basic Service F... A.Pauszek 201209: Pauszek, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... A.Pauszek 201209: Pauszek, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... A.Pauszek 201209: Pauszek, Alice",,,,,,,,,,,,,,,

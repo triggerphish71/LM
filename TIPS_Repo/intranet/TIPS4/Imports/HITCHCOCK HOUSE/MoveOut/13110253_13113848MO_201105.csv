@@ -1,0 +1,5 @@
+BATCH,,201105,B,333.0000,
+INVOICE,IN,,13110253,,05/28/2011,111.0000,"Invoice-Private",,05/28/2011,05/28/2011,,13113848MO,-1221.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,3,37.0000,111.00,"Basic Service Fee - Second Resident for May: Snelling, Alvie",,,,,,,,,,,,,,,
+INVOICE,CM,,13110253,,05/28/2011,222,"Invoice-Private",,05/28/2011,05/28/2011,,13113848MO,-1221.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,222,222,"CR:Basic Service F... A.Snelling 201105: Snelling, Alvie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,1891.0000,
+INVOICE,IN,,17110262,,12/29/2012,930.0000,"Invoice-Private",,12/29/2012,12/29/2012,,17115546MO,-992.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,30,31.0000,930.00,"Basic Service Fee - Second Resident for Dec: Miller, Diane",,,,,,,,,,,,,,,
+INVOICE,CM,,17110262,,12/29/2012,961,"Invoice-Private",,12/29/2012,12/29/2012,,17115546MO,-992.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,961,961,"CR:Basic Service F... D.Miller 201212: Miller, Diane",,,,,,,,,,,,,,,

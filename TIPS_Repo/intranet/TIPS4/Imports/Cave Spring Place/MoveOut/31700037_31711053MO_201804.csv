@@ -1,0 +1,6 @@
+BATCH,,201804,B,1458.3000,
+INVOICE,IN,,31700037,,04/01/2018,138.3000,"Invoice-Private",,04/01/2018,04/10/2018,,31711053MO,-2059.7900,,,,,,,,,,
+TRANSACTION,3010,070026317,1,138.3000,138.30,"CR:Daily Discount... J.Mangus 201804: Mangus, Julia",,,,,,,,,,,,,,,
+INVOICE,CM,,31700037,,04/01/2018,1320,"Invoice-Private",,04/01/2018,04/10/2018,,31711053MO,-2059.7900,,,,,,,,,,
+TRANSACTION,3020,070026317,1,60,60,"CR:Companion Studi... J.Mangus 201804: Mangus, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3027,070026317,1,1260,1260,"CR:Resident Care -... J.Mangus 201804: Mangus, Julia",,,,,,,,,,,,,,,

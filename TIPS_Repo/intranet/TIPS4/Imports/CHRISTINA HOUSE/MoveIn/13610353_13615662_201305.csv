@@ -1,0 +1,5 @@
+BATCH,,201305,B,2865.0000,
+INVOICE,IN,,13610353,,05/13/2013,2865.0000,"MoveIn-Plummer. Russell",,05/13/2013,05/13/2013,,13615662,2865.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,19,70.0000,1330,"Basic Service Fee - Studio: Plummer. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Plummer. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1500.0000,1500,"New Resident Fee: Plummer. Russell",,,,,,,,,,,,,,,

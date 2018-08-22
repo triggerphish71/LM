@@ -1,0 +1,6 @@
+BATCH,,201110,B,3001.0000,
+INVOICE,IN,,03610295,,10/21/2011,3001.0000,"MoveIn-Fitzgerald. Don",,10/21/2011,10/21/2011,,03614893,7048.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,11,89.0000,979,"Basic Service Fee - Studio: Fitzgerald. Don",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,11,45.0000,495,"Resident Care - Level 3: Fitzgerald. Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Fitzgerald. Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1500.0000,1500,"New Resident Fee: Fitzgerald. Don",,,,,,,,,,,,,,,

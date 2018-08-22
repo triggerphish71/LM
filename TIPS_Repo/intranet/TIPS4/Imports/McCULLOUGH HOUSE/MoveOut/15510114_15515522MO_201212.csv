@@ -1,0 +1,5 @@
+BATCH,,201212,B,50.0000,
+INVOICE,IN,,15510114,,12/01/2012,25.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15515522MO,-4742.0000,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25.00,"Monthly Cable: McAneny, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,15510114,,12/01/2012,25,"Invoice-Private",,12/01/2012,12/10/2012,,15515522MO,-4742.0000,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"Credit for Monthly Cable: McAneny, Rebecca",,,,,,,,,,,,,,,

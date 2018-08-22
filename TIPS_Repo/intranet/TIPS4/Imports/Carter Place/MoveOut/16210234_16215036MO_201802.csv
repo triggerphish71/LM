@@ -1,0 +1,6 @@
+BATCH,,201802,B,4528.0000,
+INVOICE,IN,,16210234,,02/01/2018,3632.0000,"Invoice-Private",,02/01/2018,02/10/2018,,16215036MO,4344.0000,,,,,,,,,,
+TRANSACTION,3216,010011162,1,2736.0000,2736.00,"Community Fee Unpaid Balance: Eriksen, Lou",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,28,32.0000,896.00,"Community Fee Installment Charge: Eriksen, Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,16210234,,02/01/2018,896,"Invoice-Private",,02/01/2018,02/10/2018,,16215036MO,4344.0000,,,,,,,,,,
+TRANSACTION,3216,010011162,28,32,896,"Credit for Community Fee Installment Charge: Eriksen, Lou",,,,,,,,,,,,,,,

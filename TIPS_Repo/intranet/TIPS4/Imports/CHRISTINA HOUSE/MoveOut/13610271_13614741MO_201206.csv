@@ -1,0 +1,5 @@
+BATCH,,201206,B,70.0000,
+INVOICE,IN,,13610271,,06/01/2012,35.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13614741MO,-2657.0000,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35.00,"Monthly Cable: Caviston, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,13610271,,06/01/2012,35,"Invoice-Private",,06/01/2012,06/10/2012,,13614741MO,-2657.0000,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"Credit for Monthly Cable: Caviston, Eugene",,,,,,,,,,,,,,,

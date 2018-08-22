@@ -1,0 +1,7 @@
+BATCH,,201204,B,4544.0000,
+INVOICE,IN,,10910234,,04/01/2012,284.0000,"Invoice-Private",,04/01/2012,04/10/2012,,10914663MO,-3976.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,2,80.0000,160.00,"Basic Service Fee - Studio for Apr: Kuhn, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,2,62.0000,124.00,"Resident Care - Level 4 for Apr: Kuhn, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,10910234,,04/01/2012,4260,"Invoice-Private",,04/01/2012,04/10/2012,,10914663MO,-3976.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2400,2400,"CR:Basic Service F... J.Kuhn 201204: Kuhn, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,1860,1860,"CR:Resident Care -... J.Kuhn 201204: Kuhn, Jean",,,,,,,,,,,,,,,

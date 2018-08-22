@@ -1,0 +1,5 @@
+BATCH,,201110,B,2560.0000,
+INVOICE,IN,,16910225,,10/27/2011,2560.0000,"MoveIn-Hergenreder. Bill",,10/27/2011,10/27/2011,,16914617,5795.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,5,107.0000,535,"Basic Service Fee - One Bedroom    : Hergenreder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Hergenreder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Hergenreder. Bill",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,3361.0100,
+INVOICE,IN,,01710139,,05/10/2011,3361.0100,"MoveIn-Brooks. Eva",,05/10/2011,05/10/2011,,01713273,3361.0100,,,,,,,,,,
+TRANSACTION,3010,010202017,22,90.0000,1980,"Basic Service Fee - Studio         : Brooks. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202017,22,16.0000,352,"Resident Care - Level 1: Brooks. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27,"Monthly Cable: Brooks. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202017,1,1000.0000,1000,"New Resident Fee: Brooks. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,2.0100,2.01,"Monthly Cable: Brooks. Eva",,,,,,,,,,,,,,,

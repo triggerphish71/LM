@@ -1,0 +1,7 @@
+BATCH,,201202,B,3592.0000,
+INVOICE,IN,,09010196,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,09014888MO,-4044.0000,,,,,,,,,,
+TRANSACTION,3320,010104090,1,58.0000,58.00,"CR:Limited Term Di... R.Stover 201202: Stover, Rosie",,,,,,,,,,,,,,,
+INVOICE,CM,,09010196,,02/01/2012,3534,"Invoice-Private",,02/01/2012,02/10/2012,,09014888MO,-4044.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2668,2668,"CR:Basic Service F... R.Stover 201202: Stover, Rosie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... R.Stover 201202: Stover, Rosie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,841,841,"CR:Resident Care -... R.Stover 201202: Stover, Rosie",,,,,,,,,,,,,,,

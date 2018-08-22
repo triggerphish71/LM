@@ -1,0 +1,8 @@
+BATCH,,201803,B,3741.0000,
+INVOICE,IN,,18100087,,03/08/2018,796.0000,"Invoice-Private",,03/08/2018,03/08/2018,,18111299MO,-2149.0000,,,,,,,,,,
+TRANSACTION,3017,010012181,5,28.0000,140.00,"Level Care:  2  - 2018-03-06: Carter, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012181,3,40.0000,120.00," Level Care:  3 : Carter, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012181,8,67.0000,536.00,"Studio  for Mar: Carter, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,18100087,,03/08/2018,2945,"Invoice-Private",,03/08/2018,03/08/2018,,18111299MO,-2149.0000,,,,,,,,,,
+TRANSACTION,3027,010012181,1,868,868,"CR:Resident Care -... B.Carter 201803: Carter, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012181,1,2077,2077,"CR:Studio... B.Carter 201803: Carter, Betty",,,,,,,,,,,,,,,

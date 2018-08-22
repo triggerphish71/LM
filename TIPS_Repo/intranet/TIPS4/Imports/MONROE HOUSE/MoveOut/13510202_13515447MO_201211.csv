@@ -1,0 +1,8 @@
+BATCH,,201211,B,5886.0000,
+INVOICE,IN,,13510202,,11/01/2012,1206.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13515447MO,-3474.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,1050.0000,1050.00,"CR:Limited Term Di... J.Melby 201211: Melby, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309135,1,90.0000,90.00,"Basic Service Fee - Studio for Nov: Melby, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,66.0000,66.00,"Resident Care - Level 4 for Nov: Melby, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,13510202,,11/01/2012,4680,"Invoice-Private",,11/01/2012,11/10/2012,,13515447MO,-3474.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... J.Melby 201211: Melby, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,1980,1980,"CR:Resident Care -... J.Melby 201211: Melby, Joyce",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201110,B,3765.0000,
+INVOICE,IN,,50110247,,10/07/2011,3765.0000,"MoveIn-Shelton. Rheba",,10/07/2011,10/07/2011,,50113717,3765.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,25,88.0000,2200,"Basic Service Fee - Studio: Shelton. Rheba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Shelton. Rheba",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Shelton. Rheba",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35,"Pendant Fee: Shelton. Rheba",,,,,,,,,,,,,,,

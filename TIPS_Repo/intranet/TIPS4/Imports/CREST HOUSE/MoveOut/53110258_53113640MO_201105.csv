@@ -1,0 +1,7 @@
+BATCH,,201105,B,79143.0000,
+INVOICE,IN,,53110258,,05/25/2011,5506.2000,"Invoice-Respite",,05/25/2011,05/25/2011,,53113640MO,-68130.6000,,,,,,,,,,
+TRANSACTION,3020,010319531,23,114.0000,2622.00,"Basic Service Fee- Respite Studio for May: Welcome, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319531,23,110.4000,2539.20,"Basic Service Fee- Respite Studio for May: Welcome, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,23,15.0000,345.00,"Resident Care - Level 1 for May: Welcome, Diane",,,,,,,,,,,,,,,
+INVOICE,CM,,53110258,,05/25/2011,73636.8,"Invoice-Respite",,05/25/2011,05/25/2011,,53113640MO,-68130.6000,,,,,,,,,,
+TRANSACTION,3020,010319531,23,3201.6,73636.8,"Basic Service Fee- Respite Studio for May: Welcome, Diane",,,,,,,,,,,,,,,

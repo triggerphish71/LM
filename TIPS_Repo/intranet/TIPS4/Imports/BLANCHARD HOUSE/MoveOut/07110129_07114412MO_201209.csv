@@ -1,0 +1,7 @@
+BATCH,,201209,B,3332.0000,
+INVOICE,IN,,07110129,,09/04/2012,392.0000,"Invoice-Private",,09/04/2012,09/04/2012,,07114412MO,-2548.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,4,32.0000,128.00,"Basic Service Fee - Second Resident for Sep: Ervin, Oma ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,4,66.0000,264.00,"Resident Care - Level 4 for Sep: Ervin, Oma ",,,,,,,,,,,,,,,
+INVOICE,CM,,07110129,,09/04/2012,2940,"Invoice-Private",,09/04/2012,09/04/2012,,07114412MO,-2548.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,960,960,"CR:Basic Service F... O.Ervin 201209: Ervin, Oma ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,1980,1980,"CR:Resident Care -... O.Ervin 201209: Ervin, Oma ",,,,,,,,,,,,,,,

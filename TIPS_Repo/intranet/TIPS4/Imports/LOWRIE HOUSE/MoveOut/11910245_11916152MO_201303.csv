@@ -1,0 +1,5 @@
+BATCH,,201303,B,52.0000,
+INVOICE,IN,,11910245,,03/01/2013,26.0000,"Invoice-Private",,03/01/2013,03/10/2013,,11916152MO,-3503.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Stearns, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,11910245,,03/01/2013,26,"Invoice-Private",,03/01/2013,03/10/2013,,11916152MO,-3503.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Stearns, Betty",,,,,,,,,,,,,,,

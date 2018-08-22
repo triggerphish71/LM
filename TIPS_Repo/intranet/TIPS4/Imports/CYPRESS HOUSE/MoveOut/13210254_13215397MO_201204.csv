@@ -1,0 +1,8 @@
+BATCH,,201204,B,3971.0000,
+INVOICE,IN,,13210254,,04/04/2012,464.0000,"Invoice-Private",,04/04/2012,04/04/2012,,13215397MO,-3043.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,4,99.0000,396.00,"Basic Service Fee - Studio for Apr: Haynes, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,4,17.0000,68.00,"Resident Care - Level 1 for Apr: Haynes, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13210254,,04/04/2012,3507,"Invoice-Private",,04/04/2012,04/04/2012,,13215397MO,-3043.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... J.Haynes 201204: Haynes, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... J.Haynes 201204: Haynes, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,510,510,"CR:Resident Care -... J.Haynes 201204: Haynes, Jean",,,,,,,,,,,,,,,

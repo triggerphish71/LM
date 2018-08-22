@@ -1,0 +1,8 @@
+BATCH,,201105,B,9465.0000,
+INVOICE,IN,,05710230,,05/28/2011,4480.0000,"Invoice-Private",,05/28/2011,05/28/2011,,05715125MO,-5330.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,28,110.0000,3080.00,"Basic Service Fee - One Bedroom for May: Stephenson, Marchetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,28,50.0000,1400.00,"Resident Care - Level 4 for May: Stephenson, Marchetta",,,,,,,,,,,,,,,
+INVOICE,CM,,05710230,,05/28/2011,4985,"Invoice-Private",,05/28/2011,05/28/2011,,05715125MO,-5330.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3410,3410,"CR:Basic Service F... M.Stephenson 201105: Stephenson, Marchetta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25,25,"CR:Monthly Cable... M.Stephenson 201105: Stephenson, Marchetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,1550,1550,"CR:Resident Care -... M.Stephenson 201105: Stephenson, Marchetta",,,,,,,,,,,,,,,

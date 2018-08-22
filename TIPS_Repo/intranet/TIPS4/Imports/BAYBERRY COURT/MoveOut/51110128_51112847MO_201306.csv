@@ -1,0 +1,8 @@
+BATCH,,201306,B,7553.0000,
+INVOICE,IN,,51110128,,06/23/2013,3266.0000,"Invoice-Private",,06/23/2013,06/23/2013,,51112847MO,-6876.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,23,104.0000,2392.00,"Basic Service Fee - Studio for Jun: Pati, Mario",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,23,38.0000,874.00,"Resident Care - Level 2 for Jun: Pati, Mario",,,,,,,,,,,,,,,
+INVOICE,CM,,51110128,,06/23/2013,4287,"Invoice-Private",,06/23/2013,06/23/2013,,51112847MO,-6876.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3120,3120,"CR:Basic Service F... M.Pati 201306: Pati, Mario",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... M.Pati 201306: Pati, Mario",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,1140,1140,"CR:Resident Care -... M.Pati 201306: Pati, Mario",,,,,,,,,,,,,,,

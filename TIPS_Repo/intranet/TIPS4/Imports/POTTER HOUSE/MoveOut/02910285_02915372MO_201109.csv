@@ -1,0 +1,7 @@
+BATCH,,201109,B,6160.0000,
+INVOICE,IN,,02910285,,09/25/2011,2800.0000,"Invoice-Private",,09/25/2011,09/25/2011,,02915372MO,-4032.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,25,35.0000,875.00,"Basic Service Fee - Second Resident for Sep: Benge, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3030,010202029,25,77.0000,1925.00,"Private BSF Rate Adjustment for Sep: Benge, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,02910285,,09/25/2011,3360,"Invoice-Private",,09/25/2011,09/25/2011,,02915372MO,-4032.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,1050,1050,"CR:Basic Service F... R.Benge 201109: Benge, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3030,010202029,1,2310,2310,"CR:Private BSF Rat... R.Benge 201109: Benge, Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,5681.0000,
+INVOICE,IN,,12810213,,03/24/2013,2525.0000,"Invoice-Private",,03/24/2013,03/24/2013,,12815290MO,-3686.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,25,66.0000,1650.00,"Basic Service Fee - Deluxe for Mar: Gaskill, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,25,35.0000,875.00,"Swan Personal Care - L2 for Mar: Gaskill, John",,,,,,,,,,,,,,,
+INVOICE,CM,,12810213,,03/24/2013,3156,"Invoice-Private",,03/24/2013,03/24/2013,,12815290MO,-3686.0000,,,,,,,,,,
+TRANSACTION,3020,010306128,1,2046,2046,"CR:Basic Service F... J.Gaskill 201303: Gaskill, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25,25,"CR:Monthly Cable... J.Gaskill 201303: Gaskill, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,1085,1085,"CR:Swan Personal C... J.Gaskill 201303: Gaskill, John",,,,,,,,,,,,,,,

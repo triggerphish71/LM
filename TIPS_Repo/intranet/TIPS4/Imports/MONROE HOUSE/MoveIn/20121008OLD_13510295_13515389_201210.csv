@@ -1,0 +1,5 @@
+BATCH,,201210,B,5005.0000,
+INVOICE,IN,,13510295,,10/07/2012,5005.0000,"MoveIn-Brown. Janis",,10/07/2012,10/07/2012,,13515389,5005.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,25,119.0000,2975,"Basic Service Fee- One Bedroom Prem: Brown. Janis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Brown. Janis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Brown. Janis",,,,,,,,,,,,,,,

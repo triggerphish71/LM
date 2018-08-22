@@ -1,0 +1,7 @@
+BATCH,,201207,B,8964.0000,
+INVOICE,IN,,53410239,,07/19/2012,3818.0000,"Invoice-Private",,07/19/2012,07/19/2012,,53421208MO,-6474.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,23,76.0000,1748.00,"Basic Service Fee - Studio for Jul: Bubb, Emmett R",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,23,90.0000,2070.00,"Resident Care - Level 5 for Jul: Bubb, Emmett R",,,,,,,,,,,,,,,
+INVOICE,CM,,53410239,,07/19/2012,5146,"Invoice-Private",,07/19/2012,07/19/2012,,53421208MO,-6474.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2356,2356,"CR:Basic Service F... E.Bubb 201207: Bubb, Emmett R",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2790,2790,"CR:Resident Care -... E.Bubb 201207: Bubb, Emmett R",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,6493.0000,
+INVOICE,IN,,14310165,,01/05/2012,1812.0000,"Invoice-Private",,01/05/2012,01/05/2012,,14314249MO,-2869.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,12,82.0000,984.00,"Basic Service Fee - Studio for Jan: Pemberton, Denver",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,12,69.0000,828.00,"Resident Care - Level 5 for Jan: Pemberton, Denver",,,,,,,,,,,,,,,
+INVOICE,CM,,14310165,,01/05/2012,4681,"Invoice-Private",,01/05/2012,01/05/2012,,14314249MO,-2869.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... D.Pemberton 201201: Pemberton, Denver",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,2139,2139,"CR:Resident Care -... D.Pemberton 201201: Pemberton, Denver",,,,,,,,,,,,,,,

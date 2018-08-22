@@ -1,0 +1,8 @@
+BATCH,,201305,B,6460.0000,
+INVOICE,IN,,19310366,,05/19/2013,2337.0000,"Invoice-Private",,05/19/2013,05/19/2013,,19315788MO,-5776.0000,,,,,,,,,,
+TRANSACTION,3027,010315193,19,46.0000,874.00,"Resident Care - Level 3 for May: Grant, Mariann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,19,77.0000,1463.00,"Room and Board - Studio for May: Grant, Mariann",,,,,,,,,,,,,,,
+INVOICE,CM,,19310366,,05/19/2013,4123,"Invoice-Private",,05/19/2013,05/19/2013,,19315788MO,-5776.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... M.Grant 201305: Grant, Mariann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1426,1426,"CR:Resident Care -... M.Grant 201305: Grant, Mariann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2387,2387,"CR:Room and Board ... M.Grant 201305: Grant, Mariann",,,,,,,,,,,,,,,

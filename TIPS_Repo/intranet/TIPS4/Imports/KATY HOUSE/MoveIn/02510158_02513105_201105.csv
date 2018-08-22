@@ -1,0 +1,6 @@
+BATCH,,201105,B,3343.0000,
+INVOICE,IN,,02510158,,05/18/2011,3343.0000,"MoveIn-West. Bennie",,05/18/2011,05/18/2011,,02513105,6728.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,14,82.0000,1148,"Basic Service Fee - Studio         : West. Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202025,14,30.0000,420,"Resident Care - Level 2: West. Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: West. Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1750.0000,1750,"New Resident Fee: West. Bennie",,,,,,,,,,,,,,,

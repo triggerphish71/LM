@@ -1,0 +1,6 @@
+BATCH,,201203,B,1993.0000,
+INVOICE,IN,,02910307,,03/28/2012,1993.0000,"MoveIn-Alexander. Dennis",,03/28/2012,03/28/2012,,02915526,5528.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,4,100.0000,400,"D.Alexander: Basic Service Fee - Studio: Alexander. Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,4,17.0000,68,"D.Alexander: Resident Care - Level 1: Alexander. Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Alexander. Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Alexander. Dennis",,,,,,,,,,,,,,,

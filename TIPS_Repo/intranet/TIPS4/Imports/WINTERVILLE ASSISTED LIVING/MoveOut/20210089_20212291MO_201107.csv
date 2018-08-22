@@ -1,0 +1,7 @@
+BATCH,,201107,B,6549.0000,
+INVOICE,IN,,20210089,,07/25/2011,3108.0000,"Invoice-Private",,07/25/2011,07/25/2011,,20212291MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,28,31.0000,868.00,"Resident Care - Level 3 for Jul: Towers, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,28,80.0000,2240.00,"Room and Board - Studio for Jul: Towers, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,20210089,,07/25/2011,3441,"Invoice-Private",,07/25/2011,07/25/2011,,20212291MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,961,961,"CR:Resident Care -... B.Towers 201107: Towers, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Room and Board ... B.Towers 201107: Towers, Barbara",,,,,,,,,,,,,,,

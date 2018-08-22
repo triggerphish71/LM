@@ -1,0 +1,5 @@
+BATCH,,201301,B,4215.0000,
+INVOICE,IN,,13710239,,01/01/2013,4215.0000,"January_Rent-Cartwright. Gene",,01/01/2013,01/10/2013,,13714767,8445.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,31,90.0000,2790,"Basic Service Fee - Studio: Cartwright. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,31,45.0000,1395,"Resident Care - Level 3: Cartwright. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Cartwright. Gene",,,,,,,,,,,,,,,

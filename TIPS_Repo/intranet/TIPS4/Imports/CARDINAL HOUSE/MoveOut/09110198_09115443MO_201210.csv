@@ -1,0 +1,7 @@
+BATCH,,201210,B,5280.0000,
+INVOICE,IN,,09110198,,10/09/2012,1188.0000,"Invoice-Private",,10/09/2012,10/09/2012,,09115443MO,-2904.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,9,96.0000,864.00,"Basic Service Fee - Deluxe for Oct: Abby, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,9,36.0000,324.00,"Resident Care - Level 2 for Oct: Abby, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09110198,,10/09/2012,4092,"Invoice-Private",,10/09/2012,10/09/2012,,09115443MO,-2904.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2976,2976,"CR:Basic Service F... M.Abby 201210: Abby, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... M.Abby 201210: Abby, Mary",,,,,,,,,,,,,,,

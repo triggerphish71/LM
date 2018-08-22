@@ -1,0 +1,5 @@
+BATCH,,201207,B,1426.0000,
+INVOICE,IN,,01010169,,07/01/2012,713.0000,"Invoice-Private",,07/01/2012,07/10/2012,,01012816MO,-1096.5800,,,,,,,,,,
+TRANSACTION,3320,010101010,31,23.0000,713.00,"Credit for Limited Term Discount: Jacobs, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,01010169,,07/01/2012,713,"Invoice-Private",,07/01/2012,07/10/2012,,01012816MO,-1096.5800,,,,,,,,,,
+TRANSACTION,3320,010101010,31,23,713,"Limited Term Discount: Jacobs, Paul",,,,,,,,,,,,,,,

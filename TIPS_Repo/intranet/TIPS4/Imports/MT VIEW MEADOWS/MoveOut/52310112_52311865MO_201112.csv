@@ -1,0 +1,8 @@
+BATCH,,201112,B,7892.8100,
+INVOICE,IN,,52310112,,12/06/2011,1661.3000,"Invoice-Private",,12/06/2011,12/06/2011,,52311865MO,-4570.2100,,,,,,,,,,
+TRANSACTION,3020,010103523,10,82.0000,820.00,"Basic Service Fee - Studio for Dec: Garrett, Loyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,10,84.1300,841.30,"Service : lvl 0 to lvl 47 - 12/5/11 for Dec: Garrett, Loyd",,,,,,,,,,,,,,,
+INVOICE,CM,,52310112,,12/06/2011,6231.51,"Invoice-Private",,12/06/2011,12/06/2011,,52311865MO,-4570.2100,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2460,2460,"CR:Basic Service F... L.Garrett 201112: Garrett, Loyd",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103523,1,1500,1500,"CR:New Resident Fe... L.Garrett 201112: Garrett, Loyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,2271.51,2271.51,"CR:Service : lvl 0... L.Garrett 201112: Garrett, Loyd",,,,,,,,,,,,,,,

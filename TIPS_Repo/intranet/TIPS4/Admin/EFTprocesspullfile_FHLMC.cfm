@@ -1,0 +1,326 @@
+<html> 
+<!--- ------------------------------------------------------------------------------------------
+ T Pecku 11-08-2016 add FHLMC to output file  -  EFT Updates             					   |
+-----------------------------------------------------------------------------------------------> 
+	
+	<cfset thisAcctPeriod = #dateformat(now(), 'yyyymm')#>
+	<cfstoredproc procedure="rw.sp_EFT_NoticeXLS2_FHLMC" datasource="#APPLICATION.datasource#" RETURNCODE="YES" debug="Yes">
+		<cfprocresult NAME="getEFTPullWeek" resultset="1"> 
+		<cfprocresult NAME="getEFTPullDay" resultset="2">
+		<cfprocresult NAME="getEFTData" resultset="3">
+		<cfprocresult NAME="getEFTTotal" resultset="4">	
+ 
+        <cfprocparam type="IN" value="0" DBVARNAME="@Scope"  cfsqltype="cf_sql_varchar">
+        <cfprocparam type="IN" value="#thisAcctPeriod#" DBVARNAME="@AcctPeriod" cfsqltype="cf_sql_varchar">
+        <!---<cfprocparam type="IN" value="#GLsubacct#" DBVARNAME="@GLsubacct" cfsqltype="cf_sql_varchar">--->
+	</cfstoredproc>
+	
+	<!---<cfoutput> Scope  AcctPeriod '#thisAcctPeriod#' </cfoutput >
+<cfdump var="#getEFTPullWeek#">
+<cfdump var="#getEFTPullDay#">
+<cfdump var="#getEFTData#">
+<cfdump var="#getEFTTotal#">
+<cfabort>--->
+	<cfset fileerror = "N">
+	<cfset batchdate = #CreateODBCDateTime(Now())#>
+	<cfset todaysdate = dateformat(now(),'mmddyyyy')>
+	<cfset hdrdate = dateformat(now(),'mm/dd/yy')>	
+	<cfif cgi.SERVER_NAME is "vmappprod01dev3">
+		<cfset destFilePath = "\\fs01\ALC_IT\EFTPull"> 
+	<cfelse>
+		<cfset destFilePath = "\\fs01\ar\Auto Withdrawal EFT\RAW EFT FILES">	
+	</cfif>	
+	<!--- <cfset destFilePath = "\\fs01\ALC_IT\EFTPull">  ---> 
+ 	<!--- <cfset destFilePath = "\\fs01\ar\Auto Withdrawal EFT\2012\RAW EFT files"> --->  
+	<cfset firstrec = "Y">
+	<cfset grandtotal = Numberformat(getEFTTotal.eftpulltotal,'999999.00')>
+ <!--- TPecku appended the CompanyID to the excel file   --->
+	<cfif FileExists("#destFilePath#\EFTPullFile-FHLMC-#todaysdate#.xls")>
+		<cffile   action="rename"  source="#destFilePath#\EFTPullFile-FHLMC-#todaysdate#.xls" destination="#destFilePath#\Old\EFTPullFile-FHLMC-#todaysdate#.xls" >
+	</cfif>
+	<cfif FileExists("#destFilePath#\EFTPullFile-FHLMC-#todaysdate#.xls")>
+		<cffile action="delete"  file="#destFilePath#\EFTPullFile-FHLMC-#todaysdate#.xls" >
+	</cfif>
+
+<!---   	<cfoutput>	 	
+		<cffile  action="write" nameconflict="overwrite" file="#destFilePath#\EFTPullFile#todaysdate#.xls"  
+			output=" ,, Batch ,, #hdrdate#,,,#getEFTTotal.eftpulltotal#,,,," addnewline="Yes"> 	
+	</cfoutput >	--->		
+	<cfprocessingdirective suppresswhitespace="Yes">
+		<!--- <cfcontent type="text/xml; charset=utf-16"> --->
+	<cfxml variable="xmlDataDump"> 
+		<?mso-application progid="Excel.Sheet"?>
+		<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+		 xmlns:o="urn:schemas-microsoft-com:office:office"
+		 xmlns:x="urn:schemas-microsoft-com:office:excel"
+		 xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+		 xmlns:html="http://www.w3.org/TR/REC-html40">
+		<ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+			<ActiveSheet>1</ActiveSheet>
+			<ProtectStructure>False</ProtectStructure>
+			<ProtectWindows>False</ProtectWindows>
+		</ExcelWorkbook>
+		<Styles>
+			<ss:Style ss:ID="Default" ss:name="Normal">
+			<Alignment ss:Vertical="Top"  ss:WrapText="1"/>
+			<Borders/>
+			<Font/>
+			<Interior/>
+			<NumberFormat/>
+			<Protection/>
+			</ss:Style>
+		</Styles>		
+						<cfoutput>
+							<Worksheet ss:Name="eftpulldata">
+								<Table>
+									<Column ss:AutoFitWidth="0" ss:Width="120"  />
+									<Column ss:AutoFitWidth="0" ss:Width="25"  />		
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />		
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />
+									<Column ss:AutoFitWidth="0" ss:Width="60"  />		
+									<Column ss:AutoFitWidth="0" ss:Width="100"  />
+									<Column ss:AutoFitWidth="0" ss:Width="75"  />		
+									<Column ss:AutoFitWidth="0" ss:Width="40"  />
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />	
+									<Column ss:AutoFitWidth="0" ss:Width="75"  />
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />		
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />																																																
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />	
+									<Column ss:AutoFitWidth="0" ss:Width="50"  />
+									<Row>
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 										 
+										<Cell>
+											<Data ss:Type="String">Batch</Data>
+										</Cell> 						 
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 					
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(hdrdate))#</Data>
+										</Cell> 							
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 					
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(grandtotal))#</Data>
+										</Cell>
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 							
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell>
+ 										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 						
+										<Cell>
+											<Data ss:Type="String"></Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String">MoveIn</Data>
+										</Cell> 						
+										<Cell>
+											<Data ss:Type="String">MoveOut</Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String">SolomonBalance</Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String">TIPSBalance</Data>
+										</Cell> 						
+										<Cell>
+											<Data ss:Type="String">newEFT</Data>
+										</Cell> 
+									</Row>
+								<cfloop query="getEFTData">
+									 <Row>
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cTenantName))#</Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cdeferred))#</Data>
+										</Cell> 										 
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cdocument))#</Data>
+										</Cell> 						 
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cSolomonKey))#</Data>
+										</Cell> 					
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cPA))#</Data>
+										</Cell> 					
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cRoutingNumber))#</Data>
+										</Cell> 							
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cAccountNumber))#</Data>
+										</Cell> 					
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(cAccountType))#</Data>
+										</Cell> 							
+										<Cell>
+											<Data ss:Type="String">No</Data>
+										</Cell> 							
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(dtTodaysdate))#</Data>
+										</Cell> 								
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(isubacct))#</Data>
+										</Cell> 						
+										<Cell>
+											<Data ss:Type="Number">#XmlFormat(trim(mdrawamt))#</Data>
+										</Cell> 						 
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(movein))#</Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(moveout))#</Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="Number">#XmlFormat(trim(SolomonBal))#</Data>
+										</Cell> 						 
+										<Cell>
+											<Data ss:Type="Number">#XmlFormat(trim(TIPSBal))#</Data>
+										</Cell> 
+										<Cell>
+											<Data ss:Type="String">#XmlFormat(trim(newEFT))#</Data>
+										</Cell> 
+									 </Row> 
+									 <cfquery name="UpdTransLog" datasource="#APPLICATION.datasource#">
+									 Insert into EFTPullTransaction (
+										  dtBatchDate 
+										,iUser_ID 
+										,cTenantName  
+										,cdeferred 
+										,cdocument 
+										,cSolomonKey 
+										,cPA 
+										,cRoutingNumber 
+										,cAccountNumber 
+										,cAccountType 
+										,cNo 
+										,dtTodaysdate 
+										,isubacct 
+										,mdrawamt 	
+										,cMoveIn 
+										,cMoveOut 	
+										,mSolomonBalance 	
+										,mTIPSBalance 
+										,cnewEFT 										
+										 )
+										values
+										( #batchdate#
+										,#session.UserID#
+										,'#cTenantName#'
+										,'#cdeferred#'
+										,'#cdocument#'
+										,'#cSolomonKey#'
+										,'#cPA#'
+										,'#cRoutingNumber#'
+										,'#cAccountNumber#'
+										,'#cAccountType#'										
+										,'No'
+										,#CreateODBCDateTime(dtTodaysdate)#
+										,'#isubacct#'
+										,#mdrawamt#
+										,'#movein#'
+										,'#moveout#'
+										<cfif IsNull(SolomonBal)>
+										,0000.0000
+                                         <cfelse>
+                                        ,#SolomonBal#
+                                         </cfif>
+										,#TIPSBal# 
+										,'#newEFT#' 										
+											)							 
+									 </cfquery>
+								</cfloop>
+								</Table>
+							</Worksheet>
+						</cfoutput>
+						</Workbook>
+					</cfxml>
+				 <cfset xml = ToString(xmlDataDump)> 
+				 <!--- TPecku appended the CompanyID to the excel file   --->
+ 			 	 <cfoutput><cffile action="append" nameconflict="overwrite" file="#destFilePath#\EFTPullFile-FHLMC-#todaysdate#.xls"  output="#xml#"></cfoutput>  
+	</cfprocessingdirective>
+ 
+	<body>
+	<cfinclude template="../../header.cfm">	
+	<h1 class="PageTitle"> Tips 4 - EFT Pull</h1>
+	<cfinclude template="../Shared/HouseHeader.cfm">	
+
+	<form name="returntosender" method="post" action="EFTPullcalendar.cfm" id="returntosender">
+	<cfoutput>
+	<table>
+	<tr>
+		<td>EFT Pull File FHLMC for Accounting Period: #thisAcctPeriod# was created in #destFilePath#\EFTPullFile-FHLMC-#todaysdate#.xls</td>
+	</tr>
+	<tr>
+		<td>Accouting Period: #getEFTPullWeek.period#</td>
+	</tr>
+	<tr>
+		<td>First Draw Date: #dateformat(getEFTPullWeek.FirstPull, 'mm/dd/yyyy')#</td>
+	</tr>	
+	<tr>
+		<td>Second Draw Date: #dateformat(getEFTPullWeek.SecondPull, 'mm/dd/yyyy')#</td>
+	</tr>	
+	<tr>
+		<td>Third Draw Date: #dateformat(getEFTPullWeek.ThirdPull, 'mm/dd/yyyy')#</td>
+	</tr>	
+	<tr>
+		<td>Fourth Draw Date: #dateformat(getEFTPullWeek.FourthPull, 'mm/dd/yyyy')#</td>
+	</tr>	
+	<tr>
+		<td>Fifth Draw Date: #dateformat(getEFTPullWeek.FifthPull, 'mm/dd/yyyy')#</td>
+	</tr>	
+	<!--- <cfdump var="#getEFTPullWeek#"><br> --->
+	<tr>
+		<td>Previous Pull Day: #getEFTPullDay.ilastpull#</td>
+	</tr>	
+	<tr>
+		<td>This Pull Day: #getEFTPullDay.ithispull#</td>
+	</tr>		
+	<tr>
+		<td>Scope: #getEFTPullDay.scope#</td>
+	</tr>	
+	<tr>
+		<td>Date of Pull: #getEFTPullDay.dateofpull#</td>
+	</tr>	
+	<tr>
+		<td>Day of Pull: #getEFTPullDay.dayofpull#</td>
+	</tr>		
+	<tr>
+		<td>PullWeek: #getEFTPullDay.pullweek#</td>
+	</tr>	
+	<tr>
+		<td>Today: #dateformat(getEFTPullDay.today, 'mm/dd/yyyy')#</td>  <!---CompareDate--->
+	</tr>	
+	<tr>
+		<td>Today: #dateformat(getEFTPullDay.InvoiceStartDate, 'mm/dd/yyyy')#</td>  
+	</tr>
+	<tr>
+		<td>Today: #dateformat(getEFTPullDay.CompareDate, 'mm/dd/yyyy')#</td> 
+	</tr>			
+ 	<tr>
+		<td><input type="submit" value="Return to EFT Home Page" name="Submit"></td>
+	</tr>
+		
+	</table>	
+	</cfoutput>
+	</form>
+
+	</body>
+</html>
+ 

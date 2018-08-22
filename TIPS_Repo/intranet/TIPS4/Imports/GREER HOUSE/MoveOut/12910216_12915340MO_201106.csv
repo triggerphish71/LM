@@ -1,0 +1,8 @@
+BATCH,,201106,B,5176.0000,
+INVOICE,IN,,12910216,,06/01/2011,166.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12915340MO,-4844.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,92.0000,92.00,"Basic Service Fee - Studio for Jun: Moore, Clementina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,74.0000,74.00,"Resident Care - Level 5 for Jun: Moore, Clementina",,,,,,,,,,,,,,,
+INVOICE,CM,,12910216,,06/01/2011,5010,"Invoice-Private",,06/01/2011,06/10/2011,,12915340MO,-4844.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2760,2760,"CR:Basic Service F... C.Moore 201106: Moore, Clementina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... C.Moore 201106: Moore, Clementina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,2220,2220,"CR:Resident Care -... C.Moore 201106: Moore, Clementina",,,,,,,,,,,,,,,

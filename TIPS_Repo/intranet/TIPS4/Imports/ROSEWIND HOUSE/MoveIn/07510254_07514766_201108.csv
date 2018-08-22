@@ -1,0 +1,5 @@
+BATCH,,201108,B,3993.0000,
+INVOICE,IN,,07510254,,08/01/2011,3993.0000,"August_Rent-Naser. Lucille",,08/01/2011,08/10/2011,,07514766,6402.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,85.0000,2635,"Basic Service Fee - Studio         : Naser. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,43.0000,1333,"Resident Care - Level 3: Naser. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Naser. Lucille",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201308,B,1518.0000,
+INVOICE,IN,,13510322,,08/02/2013,92.0000,"Invoice-Private",,08/02/2013,08/02/2013,,13515939MO,-1334.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,2,15.0000,30.00,"Basic Service Fee - Second Resident for Aug: Price, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,2,31.0000,62.00,"Resident Care - Level 2 for Aug: Price, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13510322,,08/02/2013,1426,"Invoice-Private",,08/02/2013,08/02/2013,,13515939MO,-1334.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,465,465,"CR:Basic Service F... D.Price 201308: Price, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... D.Price 201308: Price, Dorothy",,,,,,,,,,,,,,,

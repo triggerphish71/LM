@@ -1,0 +1,8 @@
+BATCH,,201106,B,5937.2000,
+INVOICE,IN,,01810121,,06/26/2011,2901.2000,"Invoice-Private",,06/26/2011,06/26/2011,,01812377MO,-2993.0000,,,,,,,,,,
+TRANSACTION,3320,010103018,1,270.0000,270.00,"CR:Limited Term Di... L.Donaldson 201106: Donaldson, Lenore",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,26,74.0000,1924.00,"Basic Service Fee - Studio for Jun: Donaldson, Lenore",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,26,27.2000,707.20,"Resident Care - Level 16 for Jun: Donaldson, Lenore",,,,,,,,,,,,,,,
+INVOICE,CM,,01810121,,06/26/2011,3036,"Invoice-Private",,06/26/2011,06/26/2011,,01812377MO,-2993.0000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2220,2220,"CR:Basic Service F... L.Donaldson 201106: Donaldson, Lenore",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,816,816,"CR:Resident Care -... L.Donaldson 201106: Donaldson, Lenore",,,,,,,,,,,,,,,

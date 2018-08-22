@@ -1,0 +1,7 @@
+BATCH,,201112,B,6490.0000,
+INVOICE,IN,,14610241,,12/04/2011,3080.0000,"Invoice-Private",,12/04/2011,12/04/2011,,14614298MO,-330.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,28,93.0000,2604.00,"Basic Service Fee - Studio for Dec: Carpenter, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,28,17.0000,476.00,"Resident Care - Level 1 for Dec: Carpenter, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,14610241,,12/04/2011,3410,"Invoice-Private",,12/04/2011,12/04/2011,,14614298MO,-330.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... R.Carpenter 201112: Carpenter, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,527,527,"CR:Resident Care -... R.Carpenter 201112: Carpenter, Ronald",,,,,,,,,,,,,,,

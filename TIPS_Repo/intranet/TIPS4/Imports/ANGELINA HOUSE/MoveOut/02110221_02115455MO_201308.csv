@@ -1,0 +1,7 @@
+BATCH,,201308,B,4558.0000,
+INVOICE,IN,,02110221,,08/01/2013,1892.0000,"Invoice-Private",,08/01/2013,08/10/2013,,02115455MO,-774.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,22,55.0000,1210.00,"Basic Service Fee - Studio for Aug: Sturrock, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,22,31.0000,682.00,"Resident Care - Level 2 for Aug: Sturrock, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,02110221,,08/01/2013,2666,"Invoice-Private",,08/01/2013,08/10/2013,,02115455MO,-774.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,1705,1705,"CR:Basic Service F... R.Sturrock 201308: Sturrock, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,961,961,"CR:Resident Care -... R.Sturrock 201308: Sturrock, Rachel",,,,,,,,,,,,,,,

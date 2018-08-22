@@ -1,0 +1,7 @@
+BATCH,,201209,B,7128.0000,
+INVOICE,IN,,02910326,,09/02/2012,3168.0000,"Invoice-Private",,09/02/2012,09/02/2012,,02915763MO,-4884.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,24,32.0000,768.00,"Resident Care - Level 2 for Sep: Cross, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,24,100.0000,2400.00,"Room and Board - Studio for Sep: Cross, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,02910326,,09/02/2012,3960,"Invoice-Private",,09/02/2012,09/02/2012,,02915763MO,-4884.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,1,960,960,"CR:Resident Care -... B.Cross 201209: Cross, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3000,3000,"CR:Room and Board ... B.Cross 201209: Cross, Blanche",,,,,,,,,,,,,,,

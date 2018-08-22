@@ -1,0 +1,5 @@
+BATCH,,201207,B,60.0000,
+INVOICE,IN,,15710169,,07/01/2012,30.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15714564MO,-5980.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Showalter, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,15710169,,07/01/2012,30,"Invoice-Private",,07/01/2012,07/10/2012,,15714564MO,-5980.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Showalter, Virgil",,,,,,,,,,,,,,,

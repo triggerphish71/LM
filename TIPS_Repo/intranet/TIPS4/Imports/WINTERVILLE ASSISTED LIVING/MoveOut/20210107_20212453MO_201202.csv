@@ -1,0 +1,5 @@
+BATCH,,201202,B,522.0000,
+INVOICE,IN,,20210107,,02/01/2012,261.0000,"Invoice-Private",,02/01/2012,02/10/2012,,20212453MO,-2541.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,29,9.0000,261.00,"Credit for Limited Term Discount: Watson, O.D.",,,,,,,,,,,,,,,
+INVOICE,CM,,20210107,,02/01/2012,261,"Invoice-Private",,02/01/2012,02/10/2012,,20212453MO,-2541.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,29,9,261,"Limited Term Discount: Watson, O.D.",,,,,,,,,,,,,,,

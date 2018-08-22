@@ -1,0 +1,5 @@
+BATCH,,201203,B,4624.0000,
+INVOICE,IN,,02810222,,03/09/2012,4624.0000,"MoveIn-Koebelen. Velva",,03/09/2012,03/09/2012,,02815092,4624.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,23,113.0000,2599,"Basic Service Fee - Studio: Koebelen. Velva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Koebelen. Velva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Koebelen. Velva",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,3678.0000,
+INVOICE,IN,,51810043,,03/09/2012,827.5500,"Invoice-Private",,03/09/2012,03/09/2012,,51812315MO,-4781.4000,,,,,,,,,,
+TRANSACTION,3020,010103518,9,83.0000,747.00,"Basic Service Fee - Studio for Mar: Johnson, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,9,8.9500,80.55,"Resident Care - Level 5 for Mar: Johnson, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,51810043,,03/09/2012,2850.45,"Invoice-Private",,03/09/2012,03/09/2012,,51812315MO,-4781.4000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2573,2573,"CR:Basic Service F... P.Johnson 201203: Johnson, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,277.45,277.45,"CR:Resident Care -... P.Johnson 201203: Johnson, Phyllis",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,6691.9000,
+INVOICE,IN,,07110126,,04/01/2012,1144.9000,"Invoice-Private",,04/01/2012,04/01/2012,,07114244MO,-4402.1000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,960.0000,960.00,"CR:Limited Term Di... M.Skidmore 201204: Skidmore, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,1,90.0000,90.00,"Basic Service Fee - Studio for Apr: Skidmore, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,94.9000,94.90,"Resident Care - Level 6+10 pts for Apr: Skidmore, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,07110126,,04/01/2012,5547,"Invoice-Private",,04/01/2012,04/01/2012,,07114244MO,-4402.1000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2700,2700,"CR:Basic Service F... M.Skidmore 201204: Skidmore, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,2847,2847,"CR:Resident Care -... M.Skidmore 201204: Skidmore, Martha",,,,,,,,,,,,,,,

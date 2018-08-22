@@ -1,0 +1,6 @@
+BATCH,,201210,B,4415.0000,
+INVOICE,IN,,10910267,,10/02/2012,4415.0000,"MoveIn-Jay. Peggy",,10/02/2012,10/02/2012,,10914930,4415.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,30,80.0000,2400,"Basic Service Fee - Studio         : Jay. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,30,33.0000,990,"Resident Care - Level 2: Jay. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Jay. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,1000.0000,1000,"New Resident Fee: Jay. Peggy",,,,,,,,,,,,,,,

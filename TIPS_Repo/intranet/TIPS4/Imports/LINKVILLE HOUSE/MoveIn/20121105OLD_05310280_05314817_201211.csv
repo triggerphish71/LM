@@ -1,0 +1,6 @@
+BATCH,,201211,B,4623.7000,
+INVOICE,IN,,05310280,,11/05/2012,4623.7000,"MoveIn-Barleen. Shirley",,11/05/2012,11/05/2012,,05314817,4623.7000,,,,,,,,,,
+TRANSACTION,3010,010101053,26,91.0000,2366,"Basic Service Fee - Studio: Barleen. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,26,8.9500,232.7,"Resident Care - Level 5: Barleen. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Barleen. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Barleen. Shirley",,,,,,,,,,,,,,,

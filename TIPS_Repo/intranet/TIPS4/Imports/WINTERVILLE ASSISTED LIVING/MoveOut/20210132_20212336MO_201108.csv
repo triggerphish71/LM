@@ -1,0 +1,8 @@
+BATCH,,201108,B,5706.0000,
+INVOICE,IN,,20210132,,08/28/2011,2885.0000,"Invoice-Private",,08/28/2011,08/28/2011,,20212336MO,-2516.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,155.0000,155.00,"CR:Limited Term Di... B.Bryant 201108: Bryant, Brady",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,30,11.0000,330.00,"Resident Care - Level 1 for Aug: Bryant, Brady",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,30,80.0000,2400.00,"Room and Board - Studio for Aug: Bryant, Brady",,,,,,,,,,,,,,,
+INVOICE,CM,,20210132,,08/28/2011,2821,"Invoice-Private",,08/28/2011,08/28/2011,,20212336MO,-2516.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... B.Bryant 201108: Bryant, Brady",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Room and Board ... B.Bryant 201108: Bryant, Brady",,,,,,,,,,,,,,,

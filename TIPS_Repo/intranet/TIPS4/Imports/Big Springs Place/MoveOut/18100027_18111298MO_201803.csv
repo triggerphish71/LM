@@ -1,0 +1,6 @@
+BATCH,,201803,B,4285.0000,
+INVOICE,IN,,18100027,,03/08/2018,224.0000,"Invoice-Private",,03/08/2018,03/08/2018,,18111298MO,-3837.0000,,,,,,,,,,
+TRANSACTION,3020,010012181,8,28.0000,224.00,"One Bedroom  for Mar: Russell, Jimmy",,,,,,,,,,,,,,,
+INVOICE,CM,,18100027,,03/08/2018,4061,"Invoice-Private",,03/08/2018,03/08/2018,,18111298MO,-3837.0000,,,,,,,,,,
+TRANSACTION,3020,010012181,1,3193,3193,"CR:One Bedroom... J.Russell 201803: Russell, Jimmy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012181,1,868,868,"CR:Resident Care -... J.Russell 201803: Russell, Jimmy",,,,,,,,,,,,,,,

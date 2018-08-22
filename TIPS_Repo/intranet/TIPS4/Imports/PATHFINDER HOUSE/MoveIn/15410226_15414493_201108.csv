@@ -1,0 +1,6 @@
+BATCH,,201108,B,4313.0000,
+INVOICE,IN,,15410226,,08/15/2011,4313.0000,"MoveIn-Schneider. Donna",,08/15/2011,08/15/2011,,15414493,4313.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,17,62.0000,1054,"D.Schneider: Basic Service Fee - Studio: Schneider. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,17,72.0000,1224,"D.Schneider: Resident Care - Level 5: Schneider. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Schneider. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2000.0000,2000,"New Resident Fee: Schneider. Donna",,,,,,,,,,,,,,,

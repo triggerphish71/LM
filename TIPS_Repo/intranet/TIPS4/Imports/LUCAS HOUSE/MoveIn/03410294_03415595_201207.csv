@@ -1,0 +1,5 @@
+BATCH,,201207,B,3406.0000,
+INVOICE,IN,,03410294,,07/01/2012,3406.0000,"July_Rent-Hodges. Verna",,07/01/2012,07/10/2012,,03415595,5151.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,31,96.0000,2976,"Basic Service Fee - Studio: Hodges. Verna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,31,13.0000,403,"Resident Care - Level 1: Hodges. Verna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Hodges. Verna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,1860.0000,
+INVOICE,IN,,05310247,,09/01/2012,930.0000,"Invoice-Private",,09/01/2012,09/10/2012,,05314690MO,-1587.0000,,,,,,,,,,
+TRANSACTION,3320,010101053,30,31.0000,930.00,"Credit for Limited Term Discount: Skelcy, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,05310247,,09/01/2012,930,"Invoice-Private",,09/01/2012,09/10/2012,,05314690MO,-1587.0000,,,,,,,,,,
+TRANSACTION,3320,010101053,30,31,930,"Limited Term Discount: Skelcy, Joanne",,,,,,,,,,,,,,,

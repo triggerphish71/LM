@@ -1,0 +1,5 @@
+BATCH,,201201,B,3863.0000,
+INVOICE,CM,,53310171,,01/01/2012,3863,"Invoice-Private",,01/01/2012,01/10/2012,,53314265MO,-4205.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,3813,3813,"CR:Basic Service F... C.Palas 201201: Palas, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... C.Palas 201201: Palas, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... C.Palas 201201: Palas, Carol",,,,,,,,,,,,,,,

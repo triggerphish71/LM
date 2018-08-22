@@ -1,0 +1,8 @@
+BATCH,,201106,B,3429.6000,
+INVOICE,IN,,00710113,,06/02/2011,270.6000,"Invoice-Private",,06/02/2011,06/02/2011,,00713147MO,-2888.4000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,60.0000,60.00,"CR:Limited Term Di... B.Turley 201106: Turley, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,2,90.0000,180.00,"Basic Service Fee - One Bedroom for Jun: Turley, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,2,15.3000,30.60,"Resident Care - Level 9 for Jun: Turley, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,00710113,,06/02/2011,3159,"Invoice-Private",,06/02/2011,06/02/2011,,00713147MO,-2888.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2700,2700,"CR:Basic Service F... B.Turley 201106: Turley, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,459,459,"CR:Resident Care -... B.Turley 201106: Turley, Beverly",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201207,B,5059.0000,
+INVOICE,IN,,17110099,,07/06/2012,816.0000,"Invoice-Private",,07/06/2012,07/06/2012,,17115204MO,-3427.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,6,94.0000,564.00,"Basic Service Fee - Studio for Jul: Werts, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,6,42.0000,252.00,"Resident Care - Level 3 for Jul: Werts, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17110099,,07/06/2012,4243,"Invoice-Private",,07/06/2012,07/06/2012,,17115204MO,-3427.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... B.Werts 201207: Werts, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... B.Werts 201207: Werts, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1302,1302,"CR:Resident Care -... B.Werts 201207: Werts, Barbara",,,,,,,,,,,,,,,

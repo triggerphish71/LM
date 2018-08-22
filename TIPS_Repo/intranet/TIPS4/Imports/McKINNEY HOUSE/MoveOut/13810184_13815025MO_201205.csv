@@ -1,0 +1,7 @@
+BATCH,,201205,B,8340.0000,
+INVOICE,IN,,13810184,,05/26/2012,4031.0000,"Invoice-Private",,05/26/2012,05/26/2012,,13815025MO,-4448.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,29,123.0000,3567.00,"Basic Service Fee - One Bedroom for May: Rozzi, William",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309138,29,16.0000,464.00,"Private Care Rate Adjustments for May: Rozzi, William",,,,,,,,,,,,,,,
+INVOICE,CM,,13810184,,05/26/2012,4309,"Invoice-Private",,05/26/2012,05/26/2012,,13815025MO,-4448.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,3813,3813,"CR:Basic Service F... W.Rozzi 201205: Rozzi, William",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309138,1,496,496,"CR:Private Care Ra... W.Rozzi 201205: Rozzi, William",,,,,,,,,,,,,,,

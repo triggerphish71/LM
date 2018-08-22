@@ -1,0 +1,5 @@
+BATCH,,201204,B,660.0000,
+INVOICE,IN,,52310102,,04/01/2012,330.0000,"Invoice-Private",,04/01/2012,04/10/2012,,52311920MO,-3247.2500,,,,,,,,,,
+TRANSACTION,3320,010103523,30,11.0000,330.00,"Credit for Limited Term Discount: Wilson, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,52310102,,04/01/2012,330,"Invoice-Private",,04/01/2012,04/10/2012,,52311920MO,-3247.2500,,,,,,,,,,
+TRANSACTION,3320,010103523,30,11,330,"Limited Term Discount: Wilson, Alice",,,,,,,,,,,,,,,

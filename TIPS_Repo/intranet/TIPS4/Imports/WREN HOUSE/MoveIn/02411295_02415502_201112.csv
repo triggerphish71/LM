@@ -1,0 +1,5 @@
+BATCH,,201112,B,3095.0000,
+INVOICE,IN,,02411295,,12/16/2011,3095.0000,"MoveIn-Swift. Marjorie",,12/16/2011,12/16/2011,,02415502,3095.0000,,,,,,,,,,
+TRANSACTION,3010,010202024,16,98.0000,1568,"Basic Service Fee - Studio: Swift. Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27,"Monthly Cable: Swift. Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202024,1,1500.0000,1500,"New Resident Fee: Swift. Marjorie",,,,,,,,,,,,,,,

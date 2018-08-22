@@ -1,0 +1,6 @@
+BATCH,,201112,B,3486.0000,
+INVOICE,IN,,15910207,,12/01/2011,108.0000,"Invoice-Private",,12/01/2011,12/01/2011,,15914549MO,-3270.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,108.0000,108.00,"Basic Service Fee - One Bedroom for Dec: Bachman, Othmer",,,,,,,,,,,,,,,
+INVOICE,CM,,15910207,,12/01/2011,3378,"Invoice-Private",,12/01/2011,12/01/2011,,15914549MO,-3270.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3348,3348,"CR:Basic Service F... O.Bachman 201112: Bachman, Othmer",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... O.Bachman 201112: Bachman, Othmer",,,,,,,,,,,,,,,

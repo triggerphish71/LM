@@ -1,0 +1,6 @@
+BATCH,,201110,B,1656.0000,
+INVOICE,IN,,50210173,,10/31/2011,1656.0000,"MoveIn-Fisher. Alice",,10/31/2011,10/31/2011,,50213163,5611.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,1,117.0000,117,"Basic Service Fee - One Bedroom Del: Fisher. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,1,14.0000,14,"Resident Care - Level 1: Fisher. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Fisher. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Fisher. Alice",,,,,,,,,,,,,,,

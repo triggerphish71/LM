@@ -1,0 +1,7 @@
+BATCH,,201307,B,3130.0000,
+INVOICE,IN,,06410208,,06/28/2013,305.0000,"MoveIn-Temple. Mildred",,06/28/2013,06/28/2013,,06413974,3130.0000,,,,,,,,,,
+TRANSACTION,3014,010305064,3,90.0000,270,"Basic Service Fee - Studio: Temple. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Temple. Mildred",,,,,,,,,,,,,,,
+INVOICE,IN,,06410208,,07/01/2013,2825.0000,"July_Rent-Temple. Mildred",,07/01/2013,07/10/2013,,06413974,3130.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,31,90.0000,2790,"Basic Service Fee - Studio: Temple. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Temple. Mildred",,,,,,,,,,,,,,,

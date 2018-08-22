@@ -1,0 +1,7 @@
+BATCH,,201106,B,2873.0000,
+INVOICE,IN,,18910274,,06/01/2011,258.0000,"Invoice-Private",,06/01/2011,06/10/2011,,18914741MO,-2357.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,3,86.0000,258.00,"Basic Service Fee - Studio for Jun: French, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,18910274,,06/01/2011,2615,"Invoice-Private",,06/01/2011,06/10/2011,,18914741MO,-2357.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2580,2580,"CR:Basic Service F... B.French 201106: French, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315189,1,10,10,"CR:HSG Meals... B.French 201106: French, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... B.French 201106: French, Beverly",,,,,,,,,,,,,,,

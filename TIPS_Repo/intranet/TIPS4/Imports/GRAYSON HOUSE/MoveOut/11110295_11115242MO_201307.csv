@@ -1,0 +1,6 @@
+BATCH,,201307,B,3620.0000,
+INVOICE,CM,,11110295,,07/01/2013,3620,"Invoice-Private",,07/01/2013,07/10/2013,,11115242MO,-3620.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,1736,1736,"CR:Basic Service F... L.Shearn 201307: Shearn, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... L.Shearn 201307: Shearn, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107111,1,30,30,"CR:Pendant Fee... L.Shearn 201307: Shearn, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1829,1829,"CR:Resident Care -... L.Shearn 201307: Shearn, Lois",,,,,,,,,,,,,,,

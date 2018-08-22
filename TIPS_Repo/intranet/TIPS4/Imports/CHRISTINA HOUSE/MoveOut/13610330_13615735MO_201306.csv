@@ -1,0 +1,5 @@
+BATCH,,201306,B,615.0000,
+INVOICE,IN,,13610330,,06/11/2013,165.0000,"Invoice-Private",,06/11/2013,06/11/2013,,13615735MO,-285.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,11,15.0000,165.00,"Basic Service Fee - Second Resident for Jun: Stege, David",,,,,,,,,,,,,,,
+INVOICE,CM,,13610330,,06/11/2013,450,"Invoice-Private",,06/11/2013,06/11/2013,,13615735MO,-285.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,450,450,"CR:Basic Service F... D.Stege 201306: Stege, David",,,,,,,,,,,,,,,

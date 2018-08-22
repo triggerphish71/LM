@@ -1,0 +1,8 @@
+BATCH,,201112,B,5459.0000,
+INVOICE,IN,,14110193,,12/01/2011,1894.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14113614MO,-1671.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,744.0000,744.00,"CR:Limited Term Di... N.Purdy 201112: Purdy, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,10,31.0000,310.00,"Resident Care - Level 2 for Dec: Purdy, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,10,84.0000,840.00,"Room and Board - Studio for Dec: Purdy, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,14110193,,12/01/2011,3565,"Invoice-Private",,12/01/2011,12/10/2011,,14113614MO,-1671.0000,,,,,,,,,,
+TRANSACTION,3027,010309141,1,961,961,"CR:Resident Care -... N.Purdy 201112: Purdy, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2604,2604,"CR:Room and Board ... N.Purdy 201112: Purdy, Nancy",,,,,,,,,,,,,,,

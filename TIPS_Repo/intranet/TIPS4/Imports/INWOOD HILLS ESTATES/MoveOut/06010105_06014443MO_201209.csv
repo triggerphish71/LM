@@ -1,0 +1,7 @@
+BATCH,,201209,B,4590.0000,
+INVOICE,IN,,06010105,,09/11/2012,1210.0000,"Invoice-Private",,09/11/2012,09/11/2012,,06014443MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,11,110.0000,1210.00,"Basic Service Fee - One Bedroom for Sep: Soboleski, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,06010105,,09/11/2012,3380,"Invoice-Private",,09/11/2012,09/11/2012,,06014443MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3300,3300,"CR:Basic Service F... A.Soboleski 201209: Soboleski, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... A.Soboleski 201209: Soboleski, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... A.Soboleski 201209: Soboleski, Alice",,,,,,,,,,,,,,,

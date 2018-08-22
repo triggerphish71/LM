@@ -1,0 +1,6 @@
+BATCH,,201112,B,4353.0000,
+INVOICE,IN,,01910224,,12/09/2011,4353.0000,"MoveIn-Morris. Ruby",,12/09/2011,12/09/2011,,01914658,4353.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,23,95.0000,2185,"R.Morris: Basic Service Fee - Studio: Morris. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,23,17.0000,391,"R.Morris: Resident Care - Level 1: Morris. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27,"Monthly Cable: Morris. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202019,1,1750.0000,1750,"New Resident Fee: Morris. Ruby",,,,,,,,,,,,,,,

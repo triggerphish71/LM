@@ -1,0 +1,5 @@
+BATCH,,201111,B,180.0000,
+INVOICE,IN,,52610024,,11/01/2011,90.0000,"Invoice-Private",,11/01/2011,11/10/2011,,52616285MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,30,3.0000,90.00,"Credit for Limited Term Discount: Hanna, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,52610024,,11/01/2011,90,"Invoice-Private",,11/01/2011,11/10/2011,,52616285MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,30,3,90,"Limited Term Discount: Hanna, Elaine",,,,,,,,,,,,,,,

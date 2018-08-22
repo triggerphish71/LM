@@ -1,0 +1,6 @@
+BATCH,,201106,B,1692.0000,
+INVOICE,IN,,17610269,,06/28/2011,672.0000,"Invoice-Private",,06/28/2011,06/28/2011,,17613985MO,-1392.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,28,24.0000,672.00,"Basic Service Fee - Second Resident for Jun: Hope, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17610269,,06/28/2011,1020,"Invoice-Private",,06/28/2011,06/28/2011,,17613985MO,-1392.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,720,720,"CR:Basic Service F... J.Hope 201106: Hope, James",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315176,1,300,300,"CR:HSG Meals... J.Hope 201106: Hope, James",,,,,,,,,,,,,,,

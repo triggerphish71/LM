@@ -1,0 +1,7 @@
+BATCH,,201205,B,3808.0000,
+INVOICE,IN,,10810252,,05/01/2012,119.0000,"Invoice-Private",,05/01/2012,05/01/2012,,10814827MO,-3570.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,103.0000,103.00,"Basic Service Fee - One Bedroom for May: Akins, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,16.0000,16.00,"Resident Care - Level 1 for May: Akins, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,10810252,,05/01/2012,3689,"Invoice-Private",,05/01/2012,05/01/2012,,10814827MO,-3570.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,3193,3193,"CR:Basic Service F... A.Akins 201205: Akins, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... A.Akins 201205: Akins, Agnes",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,5000.5500,
+INVOICE,IN,,04910184,,11/15/2012,1706.8500,"Invoice-Private",,11/15/2012,11/15/2012,,04913531MO,-4928.3400,,,,,,,,,,
+TRANSACTION,3320,010101049,1,60.0000,60.00,"CR:Limited Term Di... A.Herman 201211: Herman, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101049,15,108.0000,1620.00,"Basic Service Fee - One Bedroom for Nov: Herman, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,15,1.7900,26.85,"Resident Care - Level 1 for Nov: Herman, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,04910184,,11/15/2012,3293.7,"Invoice-Private",,11/15/2012,11/15/2012,,04913531MO,-4928.3400,,,,,,,,,,
+TRANSACTION,3020,010101049,1,3240,3240,"CR:Basic Service F... A.Herman 201211: Herman, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,53.7,53.7,"CR:Resident Care -... A.Herman 201211: Herman, Ann",,,,,,,,,,,,,,,

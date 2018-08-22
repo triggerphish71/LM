@@ -1,0 +1,8 @@
+BATCH,,201306,B,5659.0000,
+INVOICE,IN,,19010283,,06/14/2013,1792.0000,"Invoice-Private",,06/14/2013,06/14/2013,,19015070MO,-6070.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,14,100.0000,1400.00,"Basic Service Fee - One Bedroom for Jun: Lee, Denny",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,14,28.0000,392.00,"Resident Care - Level 2 for Jun: Lee, Denny",,,,,,,,,,,,,,,
+INVOICE,CM,,19010283,,06/14/2013,3867,"Invoice-Private",,06/14/2013,06/14/2013,,19015070MO,-6070.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3000,3000,"CR:Basic Service F... D.Lee 201306: Lee, Denny",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... D.Lee 201306: Lee, Denny",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,840,840,"CR:Resident Care -... D.Lee 201306: Lee, Denny",,,,,,,,,,,,,,,

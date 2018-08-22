@@ -1,0 +1,6 @@
+BATCH,,201206,B,3445.0000,
+INVOICE,IN,,02010256,,06/15/2012,3445.0000,"MoveIn-Wagoner. Martin",,06/15/2012,06/15/2012,,02014518,6440.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,16,94.0000,1504,"M.Wagoner: Basic Service Fee - Studio: Wagoner. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202020,16,26.0000,416,"M.Wagoner: Resident Care - Level 2: Wagoner. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Wagoner. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202020,1,1500.0000,1500,"New Resident Fee: Wagoner. Martin",,,,,,,,,,,,,,,

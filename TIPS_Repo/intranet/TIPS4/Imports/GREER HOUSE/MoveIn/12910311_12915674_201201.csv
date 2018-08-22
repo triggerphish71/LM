@@ -1,0 +1,5 @@
+BATCH,,201201,B,4526.0000,
+INVOICE,IN,,12910311,,01/06/2012,4526.0000,"MoveIn-Smith. Audrey",,01/06/2012,01/06/2012,,12915674,4526.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,26,96.0000,2496,"Basic Service Fee - Studio: Smith. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Smith. Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Smith. Audrey",,,,,,,,,,,,,,,

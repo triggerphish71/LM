@@ -1,0 +1,7 @@
+BATCH,,201303,B,3124.0000,
+INVOICE,IN,,20210211,,03/01/2013,923.0000,"Invoice-Private",,03/01/2013,03/10/2013,,20212790MO,-1278.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,13,21.0000,273.00,"Resident Care - Level 2 for Mar: Davis, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,13,50.0000,650.00,"Room and Board - Studio for Mar: Davis, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,20210211,,03/01/2013,2201,"Invoice-Private",,03/01/2013,03/10/2013,,20212790MO,-1278.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,651,651,"CR:Resident Care -... E.Davis 201303: Davis, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,1550,1550,"CR:Room and Board ... E.Davis 201303: Davis, Edna",,,,,,,,,,,,,,,

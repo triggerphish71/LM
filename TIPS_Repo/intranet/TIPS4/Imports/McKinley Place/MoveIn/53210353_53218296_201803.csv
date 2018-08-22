@@ -1,0 +1,6 @@
+BATCH,,201803,B,10296.0000,
+INVOICE,IN,,53210353,,03/01/2018,10296.0000,"MoveIn-Brussat. Barbara",,03/01/2018,03/01/2018,,53218296,10296.0000,,,,,,,,,,
+TRANSACTION,3010,010019532,31,100.0000,3100,"Basic Service Fee - Studio Suite: Brussat. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010019532,31,36.0000,1116,"Resident Care - Level 2: Brussat. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010019532,1,3040.0000,3040,"Community Fee: Brussat. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010019532,1,3040.0000,3040,"Monthly Deferral Charge: Brussat. Barbara",,,,,,,,,,,,,,,

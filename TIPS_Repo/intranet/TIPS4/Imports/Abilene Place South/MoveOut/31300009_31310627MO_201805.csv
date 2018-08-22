@@ -1,0 +1,5 @@
+BATCH,,201805,B,48.0000,
+INVOICE,IN,,31300009,,05/01/2018,24.0000,"Invoice-Private",,05/01/2018,05/10/2018,,31310627MO,-5824.0000,,,,,,,,,,
+TRANSACTION,3260,070024313,1,24.0000,24.00,"Monthly Cable: Deason, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,31300009,,05/01/2018,24,"Invoice-Private",,05/01/2018,05/10/2018,,31310627MO,-5824.0000,,,,,,,,,,
+TRANSACTION,3260,070024313,1,24,24,"Credit for Monthly Cable: Deason, Carol",,,,,,,,,,,,,,,

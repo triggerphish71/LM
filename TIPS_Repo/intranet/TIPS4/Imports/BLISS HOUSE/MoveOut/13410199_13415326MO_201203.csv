@@ -1,0 +1,7 @@
+BATCH,,201203,B,7335.0000,
+INVOICE,IN,,13410199,,03/01/2012,2282.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13415326MO,-2771.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,14,92.0000,1288.00,"Basic Service Fee - Studio for Mar: Hicks, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,14,71.0000,994.00,"Resident Care - Level 5 for Mar: Hicks, Stella",,,,,,,,,,,,,,,
+INVOICE,CM,,13410199,,03/01/2012,5053,"Invoice-Private",,03/01/2012,03/10/2012,,13415326MO,-2771.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2852,2852,"CR:Basic Service F... S.Hicks 201203: Hicks, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,2201,2201,"CR:Resident Care -... S.Hicks 201203: Hicks, Stella",,,,,,,,,,,,,,,

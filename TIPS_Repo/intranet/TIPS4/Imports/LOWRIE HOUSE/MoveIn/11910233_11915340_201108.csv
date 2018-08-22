@@ -1,0 +1,6 @@
+BATCH,,201108,B,4000.0000,
+INVOICE,IN,,11910233,,08/18/2011,4000.0000,"MoveIn-Menell. Marian",,08/18/2011,08/18/2011,,11915340,8256.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,14,89.0000,1246,"Basic Service Fee - Studio         : Menell. Marian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,14,52.0000,728,"Resident Care - Level 3: Menell. Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Menell. Marian",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310119,1,2000.0000,2000,"New Resident Fee: Menell. Marian",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,54.0000,
+INVOICE,IN,,05510222,,10/01/2011,27.0000,"Invoice-Private",,10/01/2011,10/10/2011,,05514171MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27.00,"Monthly Cable: Clayton, Evanna",,,,,,,,,,,,,,,
+INVOICE,CM,,05510222,,10/01/2011,27,"Invoice-Private",,10/01/2011,10/10/2011,,05514171MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"Credit for Monthly Cable: Clayton, Evanna",,,,,,,,,,,,,,,

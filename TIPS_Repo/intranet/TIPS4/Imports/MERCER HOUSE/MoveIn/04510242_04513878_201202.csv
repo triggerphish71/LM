@@ -1,0 +1,5 @@
+BATCH,,201202,B,2695.0000,
+INVOICE,IN,,04510242,,02/01/2012,2695.0000,"February_Rent-Burt. Rita",,02/01/2012,02/10/2012,,04513878,4682.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,29,76.0000,2204,"R.Burt: Basic Service Fee - Studio: Burt. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,29,16.0000,464,"R.Burt: Resident Care - Level 1: Burt. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Burt. Rita",,,,,,,,,,,,,,,

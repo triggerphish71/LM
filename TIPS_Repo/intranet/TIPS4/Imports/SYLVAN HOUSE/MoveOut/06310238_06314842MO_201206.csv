@@ -1,0 +1,8 @@
+BATCH,,201206,B,11524.0000,
+INVOICE,IN,,06310238,,06/28/2012,6184.0000,"Invoice-Private",,06/28/2012,06/28/2012,,06314842MO,-4630.0000,,,,,,,,,,
+TRANSACTION,3320,010104063,1,1200.0000,1200.00,"CR:Limited Term Di... D.Lusco 201206: Lusco, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104063,28,90.0000,2520.00,"Basic Service Fee - Studio for Jun: Lusco, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,28,88.0000,2464.00,"Resident Care - Level 6 for Jun: Lusco, David",,,,,,,,,,,,,,,
+INVOICE,CM,,06310238,,06/28/2012,5340,"Invoice-Private",,06/28/2012,06/28/2012,,06314842MO,-4630.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,2700,2700,"CR:Basic Service F... D.Lusco 201206: Lusco, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,2640,2640,"CR:Resident Care -... D.Lusco 201206: Lusco, David",,,,,,,,,,,,,,,

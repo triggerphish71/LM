@@ -1,0 +1,7 @@
+BATCH,,201301,B,5850.0000,
+INVOICE,IN,,09110236,,01/08/2013,1200.0000,"Invoice-Private",,01/08/2013,01/08/2013,,09115586MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,8,85.0000,680.00,"Basic Service Fee - Studio for Jan: Slates, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,8,65.0000,520.00,"Resident Care - Level 4 for Jan: Slates, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,09110236,,01/08/2013,4650,"Invoice-Private",,01/08/2013,01/08/2013,,09115586MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2635,2635,"CR:Basic Service F... E.Slates 201301: Slates, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2015,2015,"CR:Resident Care -... E.Slates 201301: Slates, Edna",,,,,,,,,,,,,,,

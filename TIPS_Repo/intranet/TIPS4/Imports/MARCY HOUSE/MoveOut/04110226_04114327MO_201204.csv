@@ -1,0 +1,5 @@
+BATCH,,201204,B,1147.0000,
+INVOICE,IN,,04110226,,04/07/2012,217.0000,"Invoice-Private",,04/07/2012,04/07/2012,,04114327MO,-713.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,7,31.0000,217.00,"Basic Service Fee - Second Resident for Apr: Rowe, Patsy",,,,,,,,,,,,,,,
+INVOICE,CM,,04110226,,04/07/2012,930,"Invoice-Private",,04/07/2012,04/07/2012,,04114327MO,-713.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,930,930,"CR:Basic Service F... P.Rowe 201204: Rowe, Patsy",,,,,,,,,,,,,,,

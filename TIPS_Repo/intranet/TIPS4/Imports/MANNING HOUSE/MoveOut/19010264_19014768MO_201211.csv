@@ -1,0 +1,6 @@
+BATCH,,201211,B,6129.0000,
+INVOICE,IN,,19010264,,11/24/2012,2712.0000,"Invoice-Private",,11/24/2012,11/24/2012,,19014768MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,24,113.0000,2712.00,"Basic Service Fee - One Bedroom for Nov: Morgan, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,19010264,,11/24/2012,3417,"Invoice-Private",,11/24/2012,11/24/2012,,19014768MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3390,3390,"CR:Basic Service F... J.Morgan 201211: Morgan, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... J.Morgan 201211: Morgan, Jack",,,,,,,,,,,,,,,

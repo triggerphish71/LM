@@ -1,0 +1,5 @@
+BATCH,,201112,B,465.0000,
+INVOICE,IN,,19810278,,12/01/2011,232.5000,"Invoice-Private",,12/01/2011,12/10/2011,,19816724MO,-1178.0000,,,,,,,,,,
+TRANSACTION,3315,010112198,31,7.5000,232.50,"Credit for Promotional Discount: Kramer, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,19810278,,12/01/2011,232.5,"Invoice-Private",,12/01/2011,12/10/2011,,19816724MO,-1178.0000,,,,,,,,,,
+TRANSACTION,3315,010112198,31,7.5,232.5,"Promotional Discount: Kramer, Geraldine",,,,,,,,,,,,,,,

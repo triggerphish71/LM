@@ -1,0 +1,5 @@
+BATCH,,201209,B,2040.0000,
+INVOICE,IN,,14110210,,09/21/2012,2040.0000,"MoveIn-Slaven. Gene",,09/21/2012,09/21/2012,,14113788,5264.0000,,,,,,,,,,
+TRANSACTION,3010,010309141,10,87.0000,870,"Basic Service Fee - Studio: Slaven. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309141,10,17.0000,170,"Resident Care - Level 1: Slaven. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309141,1,1000.0000,1000,"New Resident Fee: Slaven. Gene",,,,,,,,,,,,,,,

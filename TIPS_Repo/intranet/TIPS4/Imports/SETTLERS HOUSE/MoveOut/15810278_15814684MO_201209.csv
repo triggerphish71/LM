@@ -1,0 +1,6 @@
+BATCH,,201209,B,5850.0000,
+INVOICE,IN,,15810278,,09/01/2012,840.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15814684MO,-6809.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,840.0000,840.00,"CR:Limited Term Di... M.Blair 201209: Blair, Maurice ",,,,,,,,,,,,,,,
+INVOICE,CM,,15810278,,09/01/2012,5010,"Invoice-Private",,09/01/2012,09/10/2012,,15814684MO,-6809.0000,,,,,,,,,,
+TRANSACTION,3027,010309158,1,2130,2130,"CR:Resident Care -... M.Blair 201209: Blair, Maurice ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2880,2880,"CR:Room and Board ... M.Blair 201209: Blair, Maurice ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,3032.0000,
+INVOICE,IN,,17510176,,10/01/2011,372.0000,"Invoice-Private",,10/01/2011,10/10/2011,,17517241MO,-3228.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,372.0000,372.00,"CR:Limited Term Di... E.Ridge 201110: Ridge, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,17510176,,10/01/2011,2660,"Invoice-Private",,10/01/2011,10/10/2011,,17517241MO,-3228.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2263,2263,"CR:Basic Service F... E.Ridge 201110: Ridge, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"CR:Monthly Cable... E.Ridge 201110: Ridge, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,372,372,"CR:Resident Care -... E.Ridge 201110: Ridge, Ellen",,,,,,,,,,,,,,,

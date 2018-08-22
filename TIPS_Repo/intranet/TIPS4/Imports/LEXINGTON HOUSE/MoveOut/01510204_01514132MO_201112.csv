@@ -1,0 +1,5 @@
+BATCH,,201112,B,4872.0000,
+INVOICE,IN,,01510204,,12/27/2011,2268.0000,"Invoice-Private",,12/27/2011,12/27/2011,,01514132MO,-2940.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,27,84.0000,2268.00,"S.Milem: Basic Service Fee - Studio for Dec: Guttes, Sophie",,,,,,,,,,,,,,,
+INVOICE,CM,,01510204,,12/27/2011,2604,"Invoice-Private",,12/27/2011,12/27/2011,,01514132MO,-2940.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:S.Milem: Basic ... S.Guttes 201112: Guttes, Sophie",,,,,,,,,,,,,,,

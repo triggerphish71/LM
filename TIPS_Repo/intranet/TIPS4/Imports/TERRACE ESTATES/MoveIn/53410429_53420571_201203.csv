@@ -1,0 +1,8 @@
+BATCH,,201203,B,5520.0000,
+INVOICE,IN,,53410429,,02/29/2012,2110.0000,"MoveIn-Soucheck. Arthur",,02/29/2012,02/29/2012,,53420571,5520.0000,,,,,,,,,,
+TRANSACTION,3014,010319534,1,71.0000,71,"A.Soucheck: Basic Service Fee - Studio: Soucheck. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319534,1,39.0000,39,"A.Soucheck: Resident Care - Level 1: Soucheck. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319534,1,2000.0000,2000,"New Resident Fee: Soucheck. Arthur",,,,,,,,,,,,,,,
+INVOICE,IN,,53410429,,03/01/2012,3410.0000,"March_Rent-Soucheck. Arthur",,03/01/2012,03/10/2012,,53420571,5520.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,31,71.0000,2201,"A.Soucheck: Basic Service Fee - Studio: Soucheck. Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319534,31,39.0000,1209,"A.Soucheck: Resident Care - Level 1: Soucheck. Arthur",,,,,,,,,,,,,,,

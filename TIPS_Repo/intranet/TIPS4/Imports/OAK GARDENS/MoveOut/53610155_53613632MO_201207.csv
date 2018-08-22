@@ -1,0 +1,7 @@
+BATCH,,201207,B,120.0000,
+INVOICE,IN,,53610155,,07/01/2012,60.0000,"Invoice-Private",,07/01/2012,07/10/2012,,53613632MO,-4696.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Schmidt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25.0000,25.00,"Pendant Fee: Schmidt, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,53610155,,07/01/2012,60,"Invoice-Private",,07/01/2012,07/10/2012,,53613632MO,-4696.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Schmidt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"Credit for Pendant Fee: Schmidt, Mary",,,,,,,,,,,,,,,

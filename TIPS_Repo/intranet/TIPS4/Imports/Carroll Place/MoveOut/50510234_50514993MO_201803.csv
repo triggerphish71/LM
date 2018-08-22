@@ -1,0 +1,8 @@
+BATCH,,201803,B,5033.0000,
+INVOICE,IN,,50510234,,03/12/2018,1530.0000,"Invoice-Private",,03/12/2018,03/12/2018,,50514993MO,-1973.0000,,,,,,,,,,
+TRANSACTION,3017,010005505,6,19.0000,114.00,"Level Care:  1  - 2018-03-07: Sample, Sarah (Pat)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005505,6,48.0000,288.00," Level Care:  3 : Sample, Sarah (Pat)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005505,12,94.0000,1128.00,"Basic Service Fee - Studio  for Mar: Sample, Sarah (Pat)",,,,,,,,,,,,,,,
+INVOICE,CM,,50510234,,03/12/2018,3503,"Invoice-Private",,03/12/2018,03/12/2018,,50514993MO,-1973.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2914,2914,"CR:Basic Service F... S.Sample 201803: Sample, Sarah (Pat)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,589,589,"CR:Resident Care -... S.Sample 201803: Sample, Sarah (Pat)",,,,,,,,,,,,,,,

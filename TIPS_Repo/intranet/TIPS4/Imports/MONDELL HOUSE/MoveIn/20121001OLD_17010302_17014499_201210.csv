@@ -1,0 +1,5 @@
+BATCH,,201210,B,3714.0000,
+INVOICE,IN,,17010302,,10/01/2012,3714.0000,"October_Rent-Wooten. Edward",,10/01/2012,10/10/2012,,17014499,4715.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,31,93.0000,2883,"Basic Service Fee - Studio: Wooten. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,31,26.0000,806,"Resident Care - Level 2: Wooten. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Wooten. Edward",,,,,,,,,,,,,,,

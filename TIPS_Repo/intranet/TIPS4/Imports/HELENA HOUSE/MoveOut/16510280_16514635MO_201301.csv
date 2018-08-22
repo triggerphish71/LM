@@ -1,0 +1,7 @@
+BATCH,,201301,B,4460.0000,
+INVOICE,IN,,16510280,,01/01/2013,930.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16514635MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,930.0000,930.00,"CR:Limited Term Di... F.Gross 201301: Gross, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,16510280,,01/01/2013,3530,"Invoice-Private",,01/01/2013,01/10/2013,,16514635MO,-2600.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... F.Gross 201301: Gross, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... F.Gross 201301: Gross, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,496,496,"CR:Resident Care -... F.Gross 201301: Gross, Frank",,,,,,,,,,,,,,,

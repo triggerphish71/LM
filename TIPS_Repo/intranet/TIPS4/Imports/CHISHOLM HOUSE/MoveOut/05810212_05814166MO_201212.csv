@@ -1,0 +1,8 @@
+BATCH,,201212,B,7212.0000,
+INVOICE,IN,,05810212,,12/01/2012,2779.0000,"Invoice-Private",,12/01/2012,12/10/2012,,05814166MO,-1654.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,1,62.0000,62.00,"CR:Limited Term Di... G.Rutherford 201212: Rutherford, Gorin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,19,94.0000,1786.00,"Basic Service Fee - One Bedroom for Dec: Rutherford, Gorin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,19,49.0000,931.00,"Resident Care - Level 4 for Dec: Rutherford, Gorin",,,,,,,,,,,,,,,
+INVOICE,CM,,05810212,,12/01/2012,4433,"Invoice-Private",,12/01/2012,12/10/2012,,05814166MO,-1654.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2914,2914,"CR:Basic Service F... G.Rutherford 201212: Rutherford, Gorin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,1519,1519,"CR:Resident Care -... G.Rutherford 201212: Rutherford, Gorin",,,,,,,,,,,,,,,

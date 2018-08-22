@@ -1,0 +1,7 @@
+BATCH,,201303,B,3862.0000,
+INVOICE,IN,,19210272,,03/08/2013,1766.0000,"Invoice-Private",,03/08/2013,03/08/2013,,19215711MO,-330.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,26,66.0000,1716.00,"Basic Service Fee - Studio for Mar: Kincead, Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309192,1,50.0000,50.00,"Late Fee Adjustment: Kincead, Rosetta",,,,,,,,,,,,,,,
+INVOICE,CM,,19210272,,03/08/2013,2096,"Invoice-Private",,03/08/2013,03/08/2013,,19215711MO,-330.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,2046,2046,"CR:Basic Service F... R.Kincead 201303: Kincead, Rosetta",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309192,1,50,50,"Late Fee Adjustment: Kincead, Rosetta",,,,,,,,,,,,,,,

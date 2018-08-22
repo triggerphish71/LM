@@ -1,0 +1,7 @@
+BATCH,,201208,B,6732.0000,
+INVOICE,IN,,06410156,,08/01/2012,594.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06413676MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,3,118.0000,354.00,"Basic Service Fee - One Bedroom for Aug: Stoltz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,3,80.0000,240.00,"Resident Care - Level 6 for Aug: Stoltz, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06410156,,08/01/2012,6138,"Invoice-Private",,08/01/2012,08/10/2012,,06413676MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,3658,3658,"CR:Basic Service F... M.Stoltz 201208: Stoltz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,2480,2480,"CR:Resident Care -... M.Stoltz 201208: Stoltz, Mary",,,,,,,,,,,,,,,

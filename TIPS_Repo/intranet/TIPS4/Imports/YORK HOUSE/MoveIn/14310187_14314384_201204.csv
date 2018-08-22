@@ -1,0 +1,5 @@
+BATCH,,201204,B,4110.0000,
+INVOICE,IN,,14310187,,04/06/2012,4110.0000,"MoveIn-Meyer. Mary",,04/06/2012,04/06/2012,,14314384,4110.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,25,103.0000,2575,"Basic Service Fee - One Bedroom: Meyer. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Meyer. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Meyer. Mary",,,,,,,,,,,,,,,

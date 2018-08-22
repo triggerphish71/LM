@@ -1,0 +1,8 @@
+BATCH,,201210,B,10494.0000,
+INVOICE,IN,,10510249,,10/28/2012,5534.0000,"Invoice-Private",,10/28/2012,10/28/2012,,10514180MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,1054.0000,1054.00,"CR:Limited Term Di... R.Dalpe 201210: Dalpe, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,28,57.0000,1596.00,"Resident Care - Level 4 for Oct: Dalpe, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,28,103.0000,2884.00,"Room and Board - One Bedroom for Oct: Dalpe, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,10510249,,10/28/2012,4960,"Invoice-Private",,10/28/2012,10/28/2012,,10514180MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3027,010309105,1,1767,1767,"CR:Resident Care -... R.Dalpe 201210: Dalpe, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3193,3193,"CR:Room and Board ... R.Dalpe 201210: Dalpe, Ray",,,,,,,,,,,,,,,

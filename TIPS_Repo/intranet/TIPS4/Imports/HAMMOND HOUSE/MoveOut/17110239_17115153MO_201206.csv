@@ -1,0 +1,5 @@
+BATCH,,201206,B,1467.0000,
+INVOICE,CM,,17110239,,06/01/2012,1467,"Invoice-Private",,06/01/2012,06/10/2012,,17115153MO,-1467.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,930,930,"CR:Basic Service F... P.Brown 201206: Brown, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... P.Brown 201206: Brown, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... P.Brown 201206: Brown, Patricia",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,130.0000,
+INVOICE,IN,,19810106,,01/01/2013,65.0000,"Invoice-Private",,01/01/2013,01/10/2013,,19818034MO,-6874.1500,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Tharp, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35.0000,35.00,"Pendant Fee: Tharp, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,19810106,,01/01/2013,65,"Invoice-Private",,01/01/2013,01/10/2013,,19818034MO,-6874.1500,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Tharp, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"Credit for Pendant Fee: Tharp, Evelyn",,,,,,,,,,,,,,,

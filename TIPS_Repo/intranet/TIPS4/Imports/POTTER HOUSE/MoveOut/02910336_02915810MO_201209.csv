@@ -1,0 +1,7 @@
+BATCH,,201209,B,5676.0000,
+INVOICE,IN,,02910336,,09/11/2012,1716.0000,"Invoice-Private",,09/11/2012,09/11/2012,,02915810MO,-6336.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,13,100.0000,1300.00,"Basic Service Fee - Studio for Sep: Montgomery, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,13,32.0000,416.00,"Resident Care - Level 2 for Sep: Montgomery, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,02910336,,09/11/2012,3960,"Invoice-Private",,09/11/2012,09/11/2012,,02915810MO,-6336.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3000,3000,"CR:Basic Service F... L.Montgomery 201209: Montgomery, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,960,960,"CR:Resident Care -... L.Montgomery 201209: Montgomery, Louis",,,,,,,,,,,,,,,

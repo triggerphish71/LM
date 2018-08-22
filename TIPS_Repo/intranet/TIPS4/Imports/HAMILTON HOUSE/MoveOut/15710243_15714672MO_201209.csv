@@ -1,0 +1,7 @@
+BATCH,,201209,B,4680.0000,
+INVOICE,IN,,15710243,,09/01/2012,510.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15714672MO,-3209.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,510.0000,510.00,"CR:Limited Term Di... G.Kuester 201209: Kuester, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,15710243,,09/01/2012,4170,"Invoice-Private",,09/01/2012,09/10/2012,,15714672MO,-3209.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... G.Kuester 201209: Kuester, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1380,1380,"CR:Resident Care -... G.Kuester 201209: Kuester, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2760,2760,"CR:Room and Board ... G.Kuester 201209: Kuester, Gloria",,,,,,,,,,,,,,,

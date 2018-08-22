@@ -1,0 +1,8 @@
+BATCH,,201307,B,5522.0000,
+INVOICE,IN,,09310251,,06/28/2013,1399.0000,"MoveIn-Bilger. Shirley",,06/28/2013,06/28/2013,,09315907,5522.0000,,,,,,,,,,
+TRANSACTION,3014,010305093,3,115.0000,345,"Basic Service Fee - Deluxe: Bilger. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305093,3,18.0000,54,"Resident Care - Level 1: Bilger. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305093,1,1000.0000,1000,"New Resident Fee: Bilger. Shirley",,,,,,,,,,,,,,,
+INVOICE,IN,,09310251,,07/01/2013,4123.0000,"July_Rent-Bilger. Shirley",,07/01/2013,07/10/2013,,09315907,5522.0000,,,,,,,,,,
+TRANSACTION,3010,010305093,31,115.0000,3565,"Basic Service Fee - Deluxe: Bilger. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305093,31,18.0000,558,"Resident Care - Level 1: Bilger. Shirley",,,,,,,,,,,,,,,

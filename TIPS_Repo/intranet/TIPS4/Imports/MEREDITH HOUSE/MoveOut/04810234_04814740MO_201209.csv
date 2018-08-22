@@ -1,0 +1,8 @@
+BATCH,,201209,B,6798.0000,
+INVOICE,IN,,04810234,,09/18/2012,2868.0000,"Invoice-Private",,09/18/2012,09/18/2012,,04814740MO,-4596.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,1,510.0000,510.00,"CR:Limited Term Di... B.Fulcher 201209: Fulcher, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,18,103.0000,1854.00,"Basic Service Fee - Studio for Sep: Fulcher, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,18,28.0000,504.00,"Resident Care - Level 2 for Sep: Fulcher, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,04810234,,09/18/2012,3930,"Invoice-Private",,09/18/2012,09/18/2012,,04814740MO,-4596.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... B.Fulcher 201209: Fulcher, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,840,840,"CR:Resident Care -... B.Fulcher 201209: Fulcher, Bill",,,,,,,,,,,,,,,

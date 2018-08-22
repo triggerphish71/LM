@@ -1,0 +1,6 @@
+BATCH,,201107,B,6101.0000,
+INVOICE,IN,,50510102,,07/06/2011,6101.0000,"MoveIn-McKinster. Ray",,07/06/2011,07/06/2011,,50511447,6101.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,26,115.0000,2990,"Basic Service Fee - One Bedroom: McKinster. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,26,61.0000,1586,"Resident Care - Level 5: McKinster. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: McKinster. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: McKinster. Ray",,,,,,,,,,,,,,,

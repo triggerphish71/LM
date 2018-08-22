@@ -1,0 +1,8 @@
+BATCH,,201106,B,6729.0000,
+INVOICE,IN,,01010136,,06/01/2011,3255.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01012696MO,-219.0000,,,,,,,,,,
+TRANSACTION,3320,010101010,1,360.0000,360.00,"CR:Limited Term Di... W.Kropf 201106: Kropf, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101010,25,75.0000,1875.00,"Basic Service Fee - Studio for Jun: Kropf, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,25,40.8000,1020.00,"Resident Care - Level 24 for Jun: Kropf, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,01010136,,06/01/2011,3474,"Invoice-Private",,06/01/2011,06/10/2011,,01012696MO,-219.0000,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2250,2250,"CR:Basic Service F... W.Kropf 201106: Kropf, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,1224,1224,"CR:Resident Care -... W.Kropf 201106: Kropf, Walter",,,,,,,,,,,,,,,

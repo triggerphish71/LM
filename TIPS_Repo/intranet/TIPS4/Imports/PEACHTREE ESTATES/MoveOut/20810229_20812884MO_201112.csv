@@ -1,0 +1,7 @@
+BATCH,,201112,B,5100.0000,
+INVOICE,IN,,20810229,,12/01/2011,2000.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20812884MO,-1100.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,20,22.0000,440.00,"Resident Care - Level 2 for Dec: Dodson, Dolly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,20,78.0000,1560.00,"Studio for Dec: Dodson, Dolly",,,,,,,,,,,,,,,
+INVOICE,CM,,20810229,,12/01/2011,3100,"Invoice-Private",,12/01/2011,12/10/2011,,20812884MO,-1100.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,682,682,"CR:Resident Care -... D.Dodson 201112: Dodson, Dolly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... D.Dodson 201112: Dodson, Dolly",,,,,,,,,,,,,,,

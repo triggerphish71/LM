@@ -1,0 +1,8 @@
+BATCH,,201208,B,7351.0000,
+INVOICE,IN,,13310362,,08/28/2012,3472.0000,"Invoice-Private",,08/28/2012,08/28/2012,,13315508MO,-4162.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,28,92.0000,2576.00,"Basic Service Fee - Studio for Aug: Kawana, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,28,32.0000,896.00,"Resident Care - Level 2 for Aug: Kawana, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,13310362,,08/28/2012,3879,"Invoice-Private",,08/28/2012,08/28/2012,,13315508MO,-4162.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... M.Kawana 201208: Kawana, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... M.Kawana 201208: Kawana, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... M.Kawana 201208: Kawana, Margaret",,,,,,,,,,,,,,,

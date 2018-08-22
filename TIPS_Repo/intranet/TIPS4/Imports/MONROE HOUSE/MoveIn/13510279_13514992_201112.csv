@@ -1,0 +1,5 @@
+BATCH,,201112,B,2390.0000,
+INVOICE,IN,,13510279,,12/28/2011,2390.0000,"MoveIn-Evans. George",,12/28/2011,12/28/2011,,13514992,5210.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,4,90.0000,360,"Basic Service Fee - Studio: Evans. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Evans. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Evans. George",,,,,,,,,,,,,,,

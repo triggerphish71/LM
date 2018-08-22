@@ -1,0 +1,6 @@
+BATCH,,201105,B,3291.0000,
+INVOICE,IN,,13610248,,05/13/2011,962.0000,"Invoice-Private",,05/13/2011,05/13/2011,,13614017MO,-3167.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,13,74.0000,962.00,"H.Bastin Jr: Basic Service Fee- One Bedroom Prem : Bastin Jr, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,13610248,,05/13/2011,2329,"Invoice-Private",,05/13/2011,05/13/2011,,13614017MO,-3167.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2294,2294,"CR:H.Bastin Jr: Ba... H.Bastin Jr 201105: Bastin Jr, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... H.Bastin Jr 201105: Bastin Jr, Harvey",,,,,,,,,,,,,,,

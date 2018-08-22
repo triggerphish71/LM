@@ -1,0 +1,7 @@
+BATCH,,201304,B,7830.0000,
+INVOICE,IN,,08610187,,04/13/2013,2610.0000,"Invoice-Private",,04/13/2013,04/13/2013,,08615259MO,-8004.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,15,90.0000,1350.00,"Basic Service Fee - Studio for Apr: Gordon, Lola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,15,84.0000,1260.00,"Resident Care - Level 6 for Apr: Gordon, Lola",,,,,,,,,,,,,,,
+INVOICE,CM,,08610187,,04/13/2013,5220,"Invoice-Private",,04/13/2013,04/13/2013,,08615259MO,-8004.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2700,2700,"CR:Basic Service F... L.Gordon 201304: Gordon, Lola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,2520,2520,"CR:Resident Care -... L.Gordon 201304: Gordon, Lola",,,,,,,,,,,,,,,

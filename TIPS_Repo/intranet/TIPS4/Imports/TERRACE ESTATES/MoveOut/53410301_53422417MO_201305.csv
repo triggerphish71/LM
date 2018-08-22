@@ -1,0 +1,7 @@
+BATCH,,201305,B,5661.0000,
+INVOICE,IN,,53410301,,05/20/2013,2220.0000,"Invoice-Private",,05/20/2013,05/20/2013,,53422417MO,-4551.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,20,39.0000,780.00,"Resident Care - Level 1 for May: Rohde, Arline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,20,72.0000,1440.00,"Room and Board - Studio for May: Rohde, Arline",,,,,,,,,,,,,,,
+INVOICE,CM,,53410301,,05/20/2013,3441,"Invoice-Private",,05/20/2013,05/20/2013,,53422417MO,-4551.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1209,1209,"CR:Resident Care -... A.Rohde 201305: Rohde, Arline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2232,2232,"CR:Room and Board ... A.Rohde 201305: Rohde, Arline",,,,,,,,,,,,,,,

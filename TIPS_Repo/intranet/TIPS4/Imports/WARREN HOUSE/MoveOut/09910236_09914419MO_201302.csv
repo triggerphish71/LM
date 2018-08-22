@@ -1,0 +1,8 @@
+BATCH,,201302,B,2698.0000,
+INVOICE,IN,,09910236,,02/26/2013,942.0000,"Invoice-Private",,02/26/2013,02/26/2013,,09914419MO,-5681.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,6,86.0000,516.00,"Basic Service Fee - Studio for Feb: Bowen, Ned",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,6,71.0000,426.00,"Resident Care - Level 5 for Feb: Bowen, Ned",,,,,,,,,,,,,,,
+INVOICE,CM,,09910236,,02/26/2013,1756,"Invoice-Private",,02/26/2013,02/26/2013,,09914419MO,-5681.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,688,688,"CR:Basic Service F... N.Bowen 201302: Bowen, Ned",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500,500,"CR:New Resident Fe... N.Bowen 201302: Bowen, Ned",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,568,568,"CR:Resident Care -... N.Bowen 201302: Bowen, Ned",,,,,,,,,,,,,,,

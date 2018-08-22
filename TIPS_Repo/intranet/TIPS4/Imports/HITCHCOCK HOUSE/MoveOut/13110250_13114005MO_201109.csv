@@ -1,0 +1,8 @@
+BATCH,,201109,B,7030.0000,
+INVOICE,IN,,13110250,,09/26/2011,3250.0000,"Invoice-Private",,09/26/2011,09/26/2011,,13114005MO,-4435.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,26,97.0000,2522.00,"Basic Service Fee - Studio for Sep: Schneider, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,26,28.0000,728.00,"Resident Care - Level 2 for Sep: Schneider, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,13110250,,09/26/2011,3780,"Invoice-Private",,09/26/2011,09/26/2011,,13114005MO,-4435.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,2910,2910,"CR:Basic Service F... M.Schneider 201109: Schneider, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30,30,"CR:Pendant Fee... M.Schneider 201109: Schneider, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,840,840,"CR:Resident Care -... M.Schneider 201109: Schneider, Marion",,,,,,,,,,,,,,,

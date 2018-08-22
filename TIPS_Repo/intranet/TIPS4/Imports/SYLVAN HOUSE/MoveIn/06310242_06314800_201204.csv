@@ -1,0 +1,6 @@
+BATCH,,201204,B,4645.0000,
+INVOICE,IN,,06310242,,04/05/2012,4645.0000,"MoveIn-Hackney. Virgina",,04/05/2012,04/05/2012,,06314800,4645.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,26,90.0000,2340,"Basic Service Fee - Studio: Hackney. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,26,30.0000,780,"Resident Care - Level 2: Hackney. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Hackney. Virgina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,1500.0000,1500,"New Resident Fee: Hackney. Virgina",,,,,,,,,,,,,,,

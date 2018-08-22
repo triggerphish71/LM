@@ -1,0 +1,7 @@
+BATCH,,201301,B,208.0000,
+INVOICE,IN,,14710257,,01/01/2013,104.0000,"Invoice-Private",,01/01/2013,01/10/2013,,14715923MO,-7774.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Newcomer Sr., John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,31,2.0000,62.00,"Credit for Limited Term Discount: Newcomer Sr., John",,,,,,,,,,,,,,,
+INVOICE,CM,,14710257,,01/01/2013,104,"Invoice-Private",,01/01/2013,01/10/2013,,14715923MO,-7774.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Newcomer Sr., John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,31,2,62,"Limited Term Discount: Newcomer Sr., John",,,,,,,,,,,,,,,

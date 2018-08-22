@@ -1,0 +1,7 @@
+BATCH,,201207,B,184.0000,
+INVOICE,IN,,13910285,,07/01/2012,92.0000,"Invoice-Private",,07/01/2012,07/10/2012,,13916234MO,-3570.0000,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Mallow, George",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103139,31,2.0000,62.00,"Credit for Limited Term Discount: Mallow, George",,,,,,,,,,,,,,,
+INVOICE,CM,,13910285,,07/01/2012,92,"Invoice-Private",,07/01/2012,07/10/2012,,13916234MO,-3570.0000,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Mallow, George",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103139,31,2,62,"Limited Term Discount: Mallow, George",,,,,,,,,,,,,,,

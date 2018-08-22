@@ -1,0 +1,8 @@
+BATCH,,201304,B,8318.0000,
+INVOICE,IN,,15710189,,04/26/2013,3848.0000,"Invoice-Private",,04/26/2013,04/26/2013,,15714990MO,-5240.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,26,91.0000,2366.00,"Basic Service Fee - Studio for Apr: Hagen, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,26,57.0000,1482.00,"Resident Care - Level 4 for Apr: Hagen, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,15710189,,04/26/2013,4470,"Invoice-Private",,04/26/2013,04/26/2013,,15714990MO,-5240.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2730,2730,"CR:Basic Service F... D.Hagen 201304: Hagen, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... D.Hagen 201304: Hagen, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1710,1710,"CR:Resident Care -... D.Hagen 201304: Hagen, Doris",,,,,,,,,,,,,,,

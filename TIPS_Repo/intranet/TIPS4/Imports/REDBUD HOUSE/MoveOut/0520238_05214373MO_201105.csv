@@ -1,0 +1,7 @@
+BATCH,,201105,B,4477.0000,
+INVOICE,IN,,0520238,,05/06/2011,726.0000,"Invoice-Private",,05/06/2011,05/06/2011,,05214373MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,6,79.0000,474.00,"Basic Service Fee - Studio for May: Hoffman, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,6,42.0000,252.00,"Resident Care - Level 3 for May: Hoffman, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,0520238,,05/06/2011,3751,"Invoice-Private",,05/06/2011,05/06/2011,,05214373MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2449,2449,"CR:Basic Service F... H.Hoffman 201105: Hoffman, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,1302,1302,"CR:Resident Care -... H.Hoffman 201105: Hoffman, Harriet",,,,,,,,,,,,,,,

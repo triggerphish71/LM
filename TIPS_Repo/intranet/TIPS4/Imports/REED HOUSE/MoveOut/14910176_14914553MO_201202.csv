@@ -1,0 +1,7 @@
+BATCH,,201202,B,5163.0000,
+INVOICE,IN,,14910176,,02/01/2012,870.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14914553MO,-3423.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,870.0000,870.00,"CR:Limited Term Di... G.Wessell 201202: Wessell, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,14910176,,02/01/2012,4293,"Invoice-Private",,02/01/2012,02/10/2012,,14914553MO,-3423.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,2900,2900,"CR:Basic Service F... G.Wessell 201202: Wessell, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... G.Wessell 201202: Wessell, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1363,1363,"CR:Resident Care -... G.Wessell 201202: Wessell, Gladys",,,,,,,,,,,,,,,

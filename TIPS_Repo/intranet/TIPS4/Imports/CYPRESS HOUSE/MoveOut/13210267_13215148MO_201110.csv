@@ -1,0 +1,7 @@
+BATCH,,201110,B,4799.0000,
+INVOICE,IN,,13210267,,10/23/2011,990.0000,"Invoice-Private",,10/23/2011,10/23/2011,,13215148MO,-5789.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,10,99.0000,990.00,"Basic Service Fee - Studio for Oct: Shin, Sun",,,,,,,,,,,,,,,
+INVOICE,CM,,13210267,,10/23/2011,3809,"Invoice-Private",,10/23/2011,10/23/2011,,13215148MO,-5789.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,1782,1782,"CR:Basic Service F... S.Shin 201110: Shin, Sun",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... S.Shin 201110: Shin, Sun",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000,2000,"CR:New Resident Fe... S.Shin 201110: Shin, Sun",,,,,,,,,,,,,,,

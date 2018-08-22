@@ -1,0 +1,7 @@
+BATCH,,201306,B,6956.4000,
+INVOICE,IN,,02910300,,06/21/2013,2864.4000,"Invoice-Private",,06/21/2013,06/21/2013,,02916132MO,-5456.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,21,32.0000,672.00,"Resident Care - Level 2 for Jun: Taylor, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,21,104.4000,2192.40,"Room and Board - One Bedroom for Jun: Taylor, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02910300,,06/21/2013,4092,"Invoice-Private",,06/21/2013,06/21/2013,,02916132MO,-5456.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,1,960,960,"CR:Resident Care -... J.Taylor 201306: Taylor, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3132,3132,"CR:Room and Board ... J.Taylor 201306: Taylor, James",,,,,,,,,,,,,,,

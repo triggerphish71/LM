@@ -1,0 +1,6 @@
+BATCH,,201206,B,6955.0000,
+INVOICE,IN,,01410210,,06/25/2012,3150.0000,"Invoice-Private",,06/25/2012,06/25/2012,,01414380MO,-4586.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,25,126.0000,3150.00,"Basic Service Fee - One Bedroom for Jun: Freeman, Bennie",,,,,,,,,,,,,,,
+INVOICE,CM,,01410210,,06/25/2012,3805,"Invoice-Private",,06/25/2012,06/25/2012,,01414380MO,-4586.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,3780,3780,"CR:Basic Service F... B.Freeman 201206: Freeman, Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... B.Freeman 201206: Freeman, Bennie",,,,,,,,,,,,,,,

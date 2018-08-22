@@ -1,0 +1,8 @@
+BATCH,,201208,B,6978.0000,
+INVOICE,IN,,06510173,,08/02/2012,1646.0000,"Invoice-Private",,08/02/2012,08/02/2012,,06514748MO,-3686.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1302.0000,1302.00,"CR:Limited Term Di... C.Wallace 201208: Wallace, Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,2,55.0000,110.00,"Resident Care - Level 3 for Aug: Wallace, Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,2,117.0000,234.00,"Room and Board - One Bedroom for Aug: Wallace, Clyde",,,,,,,,,,,,,,,
+INVOICE,CM,,06510173,,08/02/2012,5332,"Invoice-Private",,08/02/2012,08/02/2012,,06514748MO,-3686.0000,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1705,1705,"CR:Resident Care -... C.Wallace 201208: Wallace, Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3627,3627,"CR:Room and Board ... C.Wallace 201208: Wallace, Clyde",,,,,,,,,,,,,,,

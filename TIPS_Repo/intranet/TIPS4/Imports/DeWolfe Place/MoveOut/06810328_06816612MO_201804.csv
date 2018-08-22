@@ -1,0 +1,7 @@
+BATCH,,201804,B,3690.0000,
+INVOICE,IN,,06810328,,04/11/2018,990.0000,"Invoice-Private",,04/11/2018,04/11/2018,,06816612MO,-1710.0000,,,,,,,,,,
+TRANSACTION,3020,010005068,11,69.0000,759.00,"Basic Service Fee - Studio  for Apr: Allen, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005068,11,21.0000,231.00,"Resident Care - Level 1  for Apr: Allen, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,06810328,,04/11/2018,2700,"Invoice-Private",,04/11/2018,04/11/2018,,06816612MO,-1710.0000,,,,,,,,,,
+TRANSACTION,3020,010005068,1,2070,2070,"CR:Basic Service F... M.Allen 201804: Allen, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005068,1,630,630,"CR:Resident Care -... M.Allen 201804: Allen, Mary Ann",,,,,,,,,,,,,,,

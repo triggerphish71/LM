@@ -1,0 +1,6 @@
+BATCH,,201801,B,7564.6700,
+INVOICE,IN,,14110341,,01/01/2018,7564.6700,"MoveIn-Stout. Beverly",,01/01/2018,01/01/2018,,14116411,16886.6700,,,,,,,,,,
+TRANSACTION,3010,010009141,31,100.0000,3100,"Basic Service Fee - Studio: Stout. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009141,31,58.0000,1798,"Resident Care - Level 3: Stout. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009141,1,2000.0000,2000,"Community Fee: Stout. Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009141,1,666.6700,666.67,"Monthly Deferral Charge: Stout. Beverly",,,,,,,,,,,,,,,

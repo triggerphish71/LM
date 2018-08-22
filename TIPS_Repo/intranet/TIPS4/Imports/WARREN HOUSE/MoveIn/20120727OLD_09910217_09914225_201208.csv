@@ -1,0 +1,5 @@
+BATCH,,201208,B,4024.0000,
+INVOICE,IN,,09910217,,08/01/2012,4024.0000,"August_Rent-Wilcox. Mary",,08/01/2012,08/10/2012,,09914225,5194.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,31,86.0000,2666,"Basic Service Fee - Studio: Wilcox. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,31,43.0000,1333,"Resident Care - Level 3: Wilcox. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Wilcox. Mary",,,,,,,,,,,,,,,

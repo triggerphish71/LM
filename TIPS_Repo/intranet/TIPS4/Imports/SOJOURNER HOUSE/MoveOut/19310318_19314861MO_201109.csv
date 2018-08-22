@@ -1,0 +1,8 @@
+BATCH,,201109,B,5517.0000,
+INVOICE,IN,,19310318,,09/07/2011,987.0000,"Invoice-Private",,09/07/2011,09/07/2011,,19314861MO,-3543.0000,,,,,,,,,,
+TRANSACTION,3027,010315193,7,69.0000,483.00,"Resident Care - Level 5 for Sep: Bundy, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,7,72.0000,504.00,"Room and Board - Studio for Sep: Bundy, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,19310318,,09/07/2011,4530,"Invoice-Private",,09/07/2011,09/07/2011,,19314861MO,-3543.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... D.Bundy 201109: Bundy, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,2070,2070,"CR:Resident Care -... D.Bundy 201109: Bundy, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2160,2160,"CR:Room and Board ... D.Bundy 201109: Bundy, Delbert",,,,,,,,,,,,,,,

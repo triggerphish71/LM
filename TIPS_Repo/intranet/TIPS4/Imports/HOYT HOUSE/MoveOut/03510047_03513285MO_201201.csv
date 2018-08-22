@@ -1,0 +1,7 @@
+BATCH,,201201,B,12502.5600,
+INVOICE,IN,,03510047,,01/01/2012,6148.8000,"Invoice-Private",,01/01/2012,01/10/2012,,03513285MO,-6148.8000,,,,,,,,,,
+TRANSACTION,3020,010202035,30,92.0000,2760.00,"Basic Service Fee - Studio for Jan: Ripple, Chestine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,30,112.9600,3388.80,"Resident Care - Level 6+24 pts for Jan: Ripple, Chestine",,,,,,,,,,,,,,,
+INVOICE,CM,,03510047,,01/01/2012,6353.76,"Invoice-Private",,01/01/2012,01/10/2012,,03513285MO,-6148.8000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2852,2852,"CR:Basic Service F... C.Ripple 201201: Ripple, Chestine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,3501.76,3501.76,"CR:Resident Care -... C.Ripple 201201: Ripple, Chestine",,,,,,,,,,,,,,,

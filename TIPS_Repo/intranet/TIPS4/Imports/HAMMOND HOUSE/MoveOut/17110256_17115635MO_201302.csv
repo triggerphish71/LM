@@ -1,0 +1,7 @@
+BATCH,,201302,B,5772.0000,
+INVOICE,IN,,17110256,,02/22/2013,2664.0000,"Invoice-Private",,02/22/2013,02/22/2013,,17115635MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,24,94.0000,2256.00,"Basic Service Fee - Studio for Feb: Whittle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,24,17.0000,408.00,"Resident Care - Level 1 for Feb: Whittle, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17110256,,02/22/2013,3108,"Invoice-Private",,02/22/2013,02/22/2013,,17115635MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2632,2632,"CR:Basic Service F... M.Whittle 201302: Whittle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,476,476,"CR:Resident Care -... M.Whittle 201302: Whittle, Mary",,,,,,,,,,,,,,,

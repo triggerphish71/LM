@@ -1,0 +1,5 @@
+BATCH,,201303,B,1848.0000,
+INVOICE,IN,,11110336,,03/01/2013,112.0000,"Invoice-Private",,03/01/2013,03/10/2013,,11115121MO,-1624.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,2,56.0000,112.00,"Basic Service Fee - Studio for Mar: Kauffmann, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,11110336,,03/01/2013,1736,"Invoice-Private",,03/01/2013,03/10/2013,,11115121MO,-1624.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,1736,1736,"CR:Basic Service F... G.Kauffmann 201303: Kauffmann, Gary",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201803,B,5327.9700,
+INVOICE,IN,,02710016,,03/01/2018,5327.9700,"MoveIn-Brown. Marie",,03/01/2018,03/01/2018,,02716135,5327.9700,,,,,,,,,,
+TRANSACTION,3010,010002027,31,85.0000,2635,"Basic Service Fee - Studio: Brown. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,2000.0000,2000,"Community Fee: Brown. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002027,1,26.3000,26.3,"Monthly Cable: Brown. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002027,1,666.6700,666.67,"Monthly Deferral Charge: Brown. Marie",,,,,,,,,,,,,,,

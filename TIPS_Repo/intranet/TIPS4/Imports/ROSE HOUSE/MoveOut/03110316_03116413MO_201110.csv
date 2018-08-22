@@ -1,0 +1,5 @@
+BATCH,,201110,B,54.0000,
+INVOICE,IN,,03110316,,10/05/2011,27.0000,"Invoice-Private",,10/05/2011,10/05/2011,,03116413MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Credit for Monthly Cable: Wood, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,03110316,,10/05/2011,27,"Invoice-Private",,10/05/2011,10/05/2011,,03116413MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Monthly Cable: Wood, Raymond",,,,,,,,,,,,,,,

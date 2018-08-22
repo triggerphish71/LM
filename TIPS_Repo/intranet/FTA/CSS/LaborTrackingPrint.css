@@ -1,0 +1,41 @@
+div#tbl-container {
+	height: auto;
+	width: auto;
+	overflow: auto;
+}
+
+table#tbl {
+	height: auto;
+	width: auto;
+	table-layout: auto;
+	top:  auto;
+	bottom:  auto;
+	position: static;
+}
+
+
+thead th, thead th.locked, tfoot td, tfoot td.locked	{
+	position:  static;
+}
+	
+thead th {
+	top: auto;
+}
+
+td
+{
+	height: auto;
+	width: auto;
+	font-size:xx-small;
+}
+
+td.locked,  th.locked{
+	left: auto;
+	position: static;
+}
+
+
+#dvHeader
+{
+	display:none;
+}

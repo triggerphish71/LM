@@ -1,0 +1,7 @@
+BATCH,,201105,B,8319.0000,
+INVOICE,IN,,20210072,,05/01/2011,3948.0000,"Invoice-Private",,05/01/2011,05/01/2011,,20212174MO,-423.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,28,80.0000,2240.00,"Basic Service Fee - Studio for May: Hale, Elender",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,28,61.0000,1708.00,"Resident Care - Level 6 for May: Hale, Elender",,,,,,,,,,,,,,,
+INVOICE,CM,,20210072,,05/01/2011,4371,"Invoice-Private",,05/01/2011,05/01/2011,,20212174MO,-423.0000,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Basic Service F... E.Hale 201105: Hale, Elender",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1891,1891,"CR:Resident Care -... E.Hale 201105: Hale, Elender",,,,,,,,,,,,,,,

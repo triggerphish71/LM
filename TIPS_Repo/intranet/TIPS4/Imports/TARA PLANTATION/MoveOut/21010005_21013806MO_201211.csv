@@ -1,0 +1,7 @@
+BATCH,,201211,B,5397.5000,
+INVOICE,IN,,21010005,,11/01/2012,570.0000,"Invoice-Private",,11/01/2012,11/10/2012,,21013806MO,-4928.5000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,570.0000,570.00,"CR:Limited Term Di... L.Keyser 201211: Keyser, Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,21010005,,11/01/2012,4827.5,"Invoice-Private",,11/01/2012,11/10/2012,,21013806MO,-4928.5000,,,,,,,,,,
+TRANSACTION,3130,010216210,1,20,20,"CR:Pendant Fee... L.Keyser 201211: Keyser, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1987.5,1987.5,"CR:Resident Care -... L.Keyser 201211: Keyser, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2820,2820,"CR:Studio... L.Keyser 201211: Keyser, Lucy",,,,,,,,,,,,,,,

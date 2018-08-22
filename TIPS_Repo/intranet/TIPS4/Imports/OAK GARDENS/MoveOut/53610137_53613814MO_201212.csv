@@ -1,0 +1,5 @@
+BATCH,,201212,B,5119.0000,
+INVOICE,CM,,53610137,,12/01/2012,5119,"Invoice-Private",,12/01/2012,12/10/2012,,53613814MO,-5119.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3038,3038,"CR:Basic Service F... M.Krammes 201212: Krammes, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... M.Krammes 201212: Krammes, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,2046,2046,"CR:Resident Care -... M.Krammes 201212: Krammes, Marion",,,,,,,,,,,,,,,

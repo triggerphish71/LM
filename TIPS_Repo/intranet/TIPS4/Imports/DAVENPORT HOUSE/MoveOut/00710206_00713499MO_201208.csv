@@ -1,0 +1,8 @@
+BATCH,,201208,B,5922.5800,
+INVOICE,IN,,00710206,,08/24/2012,2019.5200,"Invoice-Private",,08/24/2012,08/24/2012,,00713499MO,-5670.1400,,,,,,,,,,
+TRANSACTION,3020,010101007,16,94.0000,1504.00,"Basic Service Fee - One Bedroom for Aug: Schweisthal, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,16,32.2200,515.52,"Resident Care - Level 18 for Aug: Schweisthal, John",,,,,,,,,,,,,,,
+INVOICE,CM,,00710206,,08/24/2012,3903.06,"Invoice-Private",,08/24/2012,08/24/2012,,00713499MO,-5670.1400,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2162,2162,"CR:Basic Service F... J.Schweisthal 201208: Schweisthal, John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000,1000,"CR:New Resident Fe... J.Schweisthal 201208: Schweisthal, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,741.06,741.06,"CR:Resident Care -... J.Schweisthal 201208: Schweisthal, John",,,,,,,,,,,,,,,

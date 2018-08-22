@@ -1,0 +1,7 @@
+BATCH,,201208,B,4192.0000,
+INVOICE,IN,,16810405,,08/01/2012,131.0000,"Invoice-Private",,08/01/2012,08/01/2012,,16816784MO,-3930.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,118.0000,118.00,"Basic Service Fee - One BR Premium for Aug: Weiss, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,13.0000,13.00,"Resident Care - Level 1 for Aug: Weiss, Sara",,,,,,,,,,,,,,,
+INVOICE,CM,,16810405,,08/01/2012,4061,"Invoice-Private",,08/01/2012,08/01/2012,,16816784MO,-3930.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3658,3658,"CR:Basic Service F... S.Weiss 201208: Weiss, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... S.Weiss 201208: Weiss, Sara",,,,,,,,,,,,,,,

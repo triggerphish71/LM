@@ -1,0 +1,5 @@
+BATCH,,201210,B,508.4000,
+INVOICE,IN,,05810172,,10/01/2012,254.2000,"Invoice-Private",,10/01/2012,10/10/2012,,05814038MO,-3713.8000,,,,,,,,,,
+TRANSACTION,3317,010202058,31,8.2000,254.20,"Credit for Abilene Employee Discount: Fry, Mary Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,05810172,,10/01/2012,254.2,"Invoice-Private",,10/01/2012,10/10/2012,,05814038MO,-3713.8000,,,,,,,,,,
+TRANSACTION,3317,010202058,31,8.2,254.2,"Abilene Employee Discount: Fry, Mary Francis",,,,,,,,,,,,,,,

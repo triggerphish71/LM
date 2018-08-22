@@ -1,0 +1,6 @@
+BATCH,,201202,B,3297.0100,
+INVOICE,IN,,01810139,,02/01/2012,493.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01812459MO,-2311.0100,,,,,,,,,,
+TRANSACTION,3320,010103018,1,493.0000,493.00,"CR:Limited Term Di... A.Hufnail 201202: Hufnail, Alvin",,,,,,,,,,,,,,,
+INVOICE,CM,,01810139,,02/01/2012,2804.01,"Invoice-Private",,02/01/2012,02/10/2012,,01812459MO,-2311.0100,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2233,2233,"CR:Basic Service F... A.Hufnail 201202: Hufnail, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,571.01,571.01,"CR:Resident Care -... A.Hufnail 201202: Hufnail, Alvin",,,,,,,,,,,,,,,

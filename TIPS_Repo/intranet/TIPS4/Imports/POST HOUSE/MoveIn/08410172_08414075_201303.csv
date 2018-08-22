@@ -1,0 +1,5 @@
+BATCH,,201303,B,5500.0000,
+INVOICE,IN,,08410172,,03/04/2013,5500.0000,"MoveIn-Rudolph. Mattie",,03/04/2013,03/04/2013,,08414075,5500.0000,,,,,,,,,,
+TRANSACTION,3010,010306084,28,106.0000,2968,"Basic Service Fee - Studio         : Rudolph. Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306084,28,19.0000,532,"Resident Care - Level 1: Rudolph. Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306084,1,2000.0000,2000,"New Resident Fee: Rudolph. Mattie",,,,,,,,,,,,,,,

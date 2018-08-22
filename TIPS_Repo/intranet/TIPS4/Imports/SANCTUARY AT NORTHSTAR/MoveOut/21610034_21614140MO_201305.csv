@@ -1,0 +1,8 @@
+BATCH,,201305,B,8855.0000,
+INVOICE,IN,,21610034,,05/26/2013,4030.0000,"Invoice-Private",,05/26/2013,05/26/2013,,21614140MO,-5465.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,26,52.0000,1352.00,"Resident Care - Level 5 for May: Southerland, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,26,103.0000,2678.00,"Room and Board - One Bedroom for May: Southerland, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,21610034,,05/26/2013,4825,"Invoice-Private",,05/26/2013,05/26/2013,,21614140MO,-5465.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... D.Southerland 201305: Southerland, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1612,1612,"CR:Resident Care -... D.Southerland 201305: Southerland, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3193,3193,"CR:Room and Board ... D.Southerland 201305: Southerland, Donald",,,,,,,,,,,,,,,

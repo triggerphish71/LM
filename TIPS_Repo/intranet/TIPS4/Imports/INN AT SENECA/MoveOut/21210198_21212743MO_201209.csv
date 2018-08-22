@@ -1,0 +1,6 @@
+BATCH,,201209,B,4476.0000,
+INVOICE,IN,,21210198,,09/18/2012,1716.0000,"Invoice-Private",,09/18/2012,09/18/2012,,21212743MO,-3834.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,60.0000,60.00,"CR:Limited Term Di... G.Sanders 201209: Sanders, Gay",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,18,92.0000,1656.00,"Studio Deluxe for Sep: Sanders, Gay",,,,,,,,,,,,,,,
+INVOICE,CM,,21210198,,09/18/2012,2760,"Invoice-Private",,09/18/2012,09/18/2012,,21212743MO,-3834.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... G.Sanders 201209: Sanders, Gay",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201304,B,4551.0000,
+INVOICE,IN,,15810329,,04/19/2013,904.0000,"Invoice-Private",,04/19/2013,04/19/2013,,15815022MO,-6246.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,8,96.0000,768.00,"Basic Service Fee - Studio for Apr: Brown, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,8,17.0000,136.00,"Resident Care - Level 1 for Apr: Brown, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,15810329,,04/19/2013,3647,"Invoice-Private",,04/19/2013,04/19/2013,,15815022MO,-6246.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,1824,1824,"CR:Basic Service F... A.Brown 201304: Brown, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500,1500,"CR:New Resident Fe... A.Brown 201304: Brown, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,323,323,"CR:Resident Care -... A.Brown 201304: Brown, Alice",,,,,,,,,,,,,,,

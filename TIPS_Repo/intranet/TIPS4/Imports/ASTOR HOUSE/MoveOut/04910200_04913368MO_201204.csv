@@ -1,0 +1,7 @@
+BATCH,,201204,B,6564.4800,
+INVOICE,IN,,04910200,,04/02/2012,410.2800,"Invoice-Private",,04/02/2012,04/02/2012,,04913368MO,-5743.9200,,,,,,,,,,
+TRANSACTION,3020,010101049,2,87.0000,174.00,"Basic Service Fee - Studio for Apr: Clark, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,2,118.1400,236.28,"Resident Care - Level 66 for Apr: Clark, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,04910200,,04/02/2012,6154.2,"Invoice-Private",,04/02/2012,04/02/2012,,04913368MO,-5743.9200,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2610,2610,"CR:Basic Service F... H.Clark 201204: Clark, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,3544.2,3544.2,"CR:Resident Care -... H.Clark 201204: Clark, Helen",,,,,,,,,,,,,,,

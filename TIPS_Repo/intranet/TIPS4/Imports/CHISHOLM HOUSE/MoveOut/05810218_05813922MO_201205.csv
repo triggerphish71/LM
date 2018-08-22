@@ -1,0 +1,5 @@
+BATCH,,201205,B,4920.0000,
+INVOICE,IN,,05810218,,05/01/2012,2378.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05813922MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,29,82.0000,2378.00,"Basic Service Fee - Studio for May: Dahlgren , David",,,,,,,,,,,,,,,
+INVOICE,CM,,05810218,,05/01/2012,2542,"Invoice-Private",,05/01/2012,05/10/2012,,05813922MO,-2624.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... D.Dahlgren 201205: Dahlgren , David",,,,,,,,,,,,,,,

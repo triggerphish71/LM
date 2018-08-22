@@ -1,0 +1,7 @@
+BATCH,,201107,B,6669.0000,
+INVOICE,IN,,09310162,,07/08/2011,1368.0000,"Invoice-Private",,07/08/2011,07/08/2011,,09314755MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,8,76.0000,608.00,"Resident Care - Level 5 for Jul: Hyde, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,8,95.0000,760.00,"Room and Board - Studio for Jul: Hyde, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,09310162,,07/08/2011,5301,"Invoice-Private",,07/08/2011,07/08/2011,,09314755MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2356,2356,"CR:Resident Care -... R.Hyde 201107: Hyde, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2945,2945,"CR:Room and Board ... R.Hyde 201107: Hyde, Robert",,,,,,,,,,,,,,,

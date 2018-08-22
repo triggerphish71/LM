@@ -1,0 +1,8 @@
+BATCH,,201111,B,6822.0000,
+INVOICE,IN,,17410223,,11/01/2011,2892.0000,"Invoice-Private",,11/01/2011,11/10/2011,,17414027MO,-1038.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,1170.0000,1170.00,"CR:Limited Term Di... N.Barker 201111: Barker, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,6,92.0000,552.00,"Basic Service Fee - Studio for Nov: Barker, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309174,30,39.0000,1170.00,"Credit for Limited Term Discount: Barker, Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,17410223,,11/01/2011,3930,"Invoice-Private",,11/01/2011,11/10/2011,,17414027MO,-1038.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2760,2760,"CR:Basic Service F... N.Barker 201111: Barker, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309174,30,39,1170,"Limited Term Discount: Barker, Naomi",,,,,,,,,,,,,,,

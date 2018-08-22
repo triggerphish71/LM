@@ -1,0 +1,5 @@
+BATCH,,201204,B,3810.0000,
+INVOICE,IN,,50110260,,04/01/2012,3810.0000,"April_Rent-Spore. Margaret",,04/01/2012,04/10/2012,,50114039,6352.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,30,88.0000,2640,"Basic Service Fee - Studio: Spore. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,30,38.0000,1140,"Resident Care - Level 3: Spore. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Spore. Margaret",,,,,,,,,,,,,,,

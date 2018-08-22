@@ -1,0 +1,6 @@
+BATCH,,201804,B,15281.8000,
+INVOICE,IN,,51110292,,04/01/2018,11378.4000,"MoveIn-Leonardi. Henrietta",,04/01/2018,04/01/2018,,51114553,15281.8000,,,,,,,,,,
+TRANSACTION,3010,010010511,30,125.0000,3750,"Basic Service Fee - Studio: Leonardi. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010511,1,28.4000,28.4,"Monthly Cable: Leonardi. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010511,1,3800.0000,3800,"Community Fee: Leonardi. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010010511,1,3800.0000,3800,"Monthly Deferral Charge: Leonardi. Henrietta",,,,,,,,,,,,,,,

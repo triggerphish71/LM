@@ -1,0 +1,5 @@
+BATCH,,201106,B,408.0000,
+INVOICE,IN,,15210110,,06/01/2011,204.0000,"Invoice-Private",,06/01/2011,06/10/2011,,15213398MO,-1625.2000,,,,,,,,,,
+TRANSACTION,3312,010211152,30,6.8000,204.00,"Credit for Two Room Rental Discount: Joesting, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,15210110,,06/01/2011,204,"Invoice-Private",,06/01/2011,06/10/2011,,15213398MO,-1625.2000,,,,,,,,,,
+TRANSACTION,3312,010211152,30,6.8,204,"Two Room Rental Discount: Joesting, Marie",,,,,,,,,,,,,,,

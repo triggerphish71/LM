@@ -1,0 +1,8 @@
+BATCH,,201105,B,7707.0000,
+INVOICE,IN,,05510213,,05/28/2011,3712.0000,"Invoice-Private",,05/28/2011,05/28/2011,,05514114MO,-4150.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,29,112.0000,3248.00,"Basic Service Fee - One Bedroom for May: Nail, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,29,16.0000,464.00,"Resident Care - Level 1 for May: Nail, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,05510213,,05/28/2011,3995,"Invoice-Private",,05/28/2011,05/28/2011,,05514114MO,-4150.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,3472,3472,"CR:Basic Service F... W.Nail 201105: Nail, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"CR:Monthly Cable... W.Nail 201105: Nail, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,496,496,"CR:Resident Care -... W.Nail 201105: Nail, Walter",,,,,,,,,,,,,,,

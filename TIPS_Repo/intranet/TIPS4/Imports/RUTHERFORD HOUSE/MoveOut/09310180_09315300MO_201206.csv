@@ -1,0 +1,8 @@
+BATCH,,201206,B,7119.0000,
+INVOICE,IN,,09310180,,06/01/2012,1509.0000,"Invoice-Private",,06/01/2012,06/10/2012,,09315300MO,-4101.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,7,99.0000,693.00,"Basic Service Fee - Studio for Jun: Gavitt, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,7,88.0000,616.00,"Resident Care - Level 6 for Jun: Gavitt, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3299,010305093,1,200.0000,200.00,"Damages: Gavitt, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,09310180,,06/01/2012,5610,"Invoice-Private",,06/01/2012,06/10/2012,,09315300MO,-4101.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2970,2970,"CR:Basic Service F... M.Gavitt 201206: Gavitt, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2640,2640,"CR:Resident Care -... M.Gavitt 201206: Gavitt, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,8124.0000,
+INVOICE,IN,,14510294,,04/18/2012,3084.0000,"Invoice-Private",,04/18/2012,04/18/2012,,14515460MO,-7102.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,60.0000,60.00,"CR:Limited Term Di... F.Middleton 201204: Middleton, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,18,99.0000,1782.00,"Basic Service Fee - Studio for Apr: Middleton, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,18,69.0000,1242.00,"Resident Care - Level 5 for Apr: Middleton, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,14510294,,04/18/2012,5040,"Invoice-Private",,04/18/2012,04/18/2012,,14515460MO,-7102.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2970,2970,"CR:Basic Service F... F.Middleton 201204: Middleton, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2070,2070,"CR:Resident Care -... F.Middleton 201204: Middleton, Frank",,,,,,,,,,,,,,,

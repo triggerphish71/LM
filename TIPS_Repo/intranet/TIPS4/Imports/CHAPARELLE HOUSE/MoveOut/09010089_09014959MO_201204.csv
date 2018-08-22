@@ -1,0 +1,8 @@
+BATCH,,201204,B,5833.0000,
+INVOICE,IN,,09010089,,04/18/2012,2178.0000,"Invoice-Private",,04/18/2012,04/18/2012,,09014959MO,-1477.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,18,92.0000,1656.00,"Basic Service Fee - Studio for Apr: Morgan, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,18,29.0000,522.00,"Resident Care - Level 2 for Apr: Morgan, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,09010089,,04/18/2012,3655,"Invoice-Private",,04/18/2012,04/18/2012,,09014959MO,-1477.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Basic Service F... G.Morgan 201204: Morgan, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... G.Morgan 201204: Morgan, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,870,870,"CR:Resident Care -... G.Morgan 201204: Morgan, Grace",,,,,,,,,,,,,,,

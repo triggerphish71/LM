@@ -1,0 +1,5 @@
+BATCH,,201206,B,1560.0000,
+INVOICE,IN,,09510253,,06/01/2012,780.0000,"Invoice-Private",,06/01/2012,06/10/2012,,09514900MO,-2605.4800,,,,,,,,,,
+TRANSACTION,3320,010103095,30,26.0000,780.00,"Credit for Limited Term Discount: McGuire, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,09510253,,06/01/2012,780,"Invoice-Private",,06/01/2012,06/10/2012,,09514900MO,-2605.4800,,,,,,,,,,
+TRANSACTION,3320,010103095,30,26,780,"Limited Term Discount: McGuire, Mary",,,,,,,,,,,,,,,

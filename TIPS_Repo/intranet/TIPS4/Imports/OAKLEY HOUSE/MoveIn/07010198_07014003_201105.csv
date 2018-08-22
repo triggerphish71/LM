@@ -1,0 +1,5 @@
+BATCH,,201105,B,3756.0000,
+INVOICE,IN,,07010198,,05/06/2011,3756.0000,"MoveIn-Johnson. Richard",,05/06/2011,05/06/2011,,07014003,3756.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,26,86.0000,2236,"Basic Service Fee - Studio         : Johnson. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Johnson. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1500.0000,1500,"New Resident Fee: Johnson. Richard",,,,,,,,,,,,,,,

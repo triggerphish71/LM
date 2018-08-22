@@ -1,0 +1,7 @@
+BATCH,,201106,B,5250.0000,
+INVOICE,IN,,07010193,,06/05/2011,750.0000,"Invoice-Private",,06/05/2011,06/05/2011,,07014044MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3027,010305070,5,55.0000,275.00,"Resident Care - Level 4 for Jun: Matthews, Onda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305070,5,95.0000,475.00,"Room and Board - Deluxe for Jun: Matthews, Onda",,,,,,,,,,,,,,,
+INVOICE,CM,,07010193,,06/05/2011,4500,"Invoice-Private",,06/05/2011,06/05/2011,,07014044MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1650,1650,"CR:Resident Care -... O.Matthews 201106: Matthews, Onda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2850,2850,"CR:Room and Board ... O.Matthews 201106: Matthews, Onda",,,,,,,,,,,,,,,

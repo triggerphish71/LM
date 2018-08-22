@@ -1,0 +1,5 @@
+BATCH,,201202,B,3478.0000,
+INVOICE,CM,,03410260,,02/01/2012,3478,"Invoice-Private",,02/01/2012,02/10/2012,,03415376MO,-3478.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2784,2784,"CR:Basic Service F... M.Olsen 201202: Olsen, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... M.Olsen 201202: Olsen, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,667,667,"CR:Resident Care -... M.Olsen 201202: Olsen, Mary",,,,,,,,,,,,,,,

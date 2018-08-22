@@ -1,0 +1,5 @@
+BATCH,,201109,B,1124.4000,
+INVOICE,IN,,21210006,,09/01/2011,562.2000,"Invoice-Private",,09/01/2011,09/10/2011,,21212008MO,-2798.0600,,,,,,,,,,
+TRANSACTION,3320,010208212,30,18.7400,562.20,"Credit for Limited Term Discount: Lyle, Eulalee",,,,,,,,,,,,,,,
+INVOICE,CM,,21210006,,09/01/2011,562.2,"Invoice-Private",,09/01/2011,09/10/2011,,21212008MO,-2798.0600,,,,,,,,,,
+TRANSACTION,3320,010208212,30,18.74,562.2,"Limited Term Discount: Lyle, Eulalee",,,,,,,,,,,,,,,

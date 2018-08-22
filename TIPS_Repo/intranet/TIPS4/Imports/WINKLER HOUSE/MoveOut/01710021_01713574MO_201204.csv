@@ -1,0 +1,6 @@
+BATCH,,201204,B,3357.0000,
+INVOICE,IN,,01710021,,04/01/2012,540.0000,"Invoice-Private",,04/01/2012,04/10/2012,,01713574MO,-2211.0000,,,,,,,,,,
+TRANSACTION,3320,010202017,1,540.0000,540.00,"CR:Limited Term Di... G.Magness 201204: Magness, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,01710021,,04/01/2012,2817,"Invoice-Private",,04/01/2012,04/10/2012,,01713574MO,-2211.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2790,2790,"CR:Basic Service F... G.Magness 201204: Magness, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... G.Magness 201204: Magness, Grace",,,,,,,,,,,,,,,

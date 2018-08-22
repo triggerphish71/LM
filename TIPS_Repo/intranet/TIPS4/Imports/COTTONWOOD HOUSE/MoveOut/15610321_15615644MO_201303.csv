@@ -1,0 +1,5 @@
+BATCH,,201303,B,2000.0000,
+INVOICE,IN,,15610321,,03/09/2013,450.0000,"Invoice-Private",,03/09/2013,03/09/2013,,15615644MO,-1100.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,9,50.0000,450.00,"Room and Board - Studio for Mar: Heins, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,15610321,,03/09/2013,1550,"Invoice-Private",,03/09/2013,03/09/2013,,15615644MO,-1100.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1550,1550,"CR:Room and Board ... W.Heins 201303: Heins, Walter",,,,,,,,,,,,,,,

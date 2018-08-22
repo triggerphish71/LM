@@ -1,0 +1,8 @@
+BATCH,,201110,B,4443.0000,
+INVOICE,IN,,05210220,,10/01/2011,1440.0000,"Invoice-Private",,10/01/2011,10/10/2011,,05214591MO,-1563.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,15,79.0000,1185.00,"Basic Service Fee - Studio for Oct: Pope, Empie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,15,17.0000,255.00,"Resident Care - Level 1 for Oct: Pope, Empie",,,,,,,,,,,,,,,
+INVOICE,CM,,05210220,,10/01/2011,3003,"Invoice-Private",,10/01/2011,10/10/2011,,05214591MO,-1563.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2449,2449,"CR:Basic Service F... E.Pope 201110: Pope, Empie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... E.Pope 201110: Pope, Empie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,527,527,"CR:Resident Care -... E.Pope 201110: Pope, Empie",,,,,,,,,,,,,,,

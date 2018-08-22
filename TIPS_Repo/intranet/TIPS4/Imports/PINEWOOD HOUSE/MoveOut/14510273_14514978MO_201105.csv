@@ -1,0 +1,7 @@
+BATCH,,201105,B,6835.0000,
+INVOICE,IN,,14510273,,05/26/2011,3094.0000,"Invoice-Private",,05/26/2011,05/26/2011,,14514978MO,-4269.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,26,119.0000,3094.00,"Basic Service Fee - One Bedroom for May: Billham, Brenda",,,,,,,,,,,,,,,
+INVOICE,CM,,14510273,,05/26/2011,3741,"Invoice-Private",,05/26/2011,05/26/2011,,14514978MO,-4269.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3689,3689,"CR:Basic Service F... B.Billham 201105: Billham, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... B.Billham 201105: Billham, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"CR:Pendant Fee... B.Billham 201105: Billham, Brenda",,,,,,,,,,,,,,,

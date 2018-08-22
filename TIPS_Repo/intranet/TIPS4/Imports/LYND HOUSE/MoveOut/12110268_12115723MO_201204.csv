@@ -1,0 +1,8 @@
+BATCH,,201204,B,6760.0000,
+INVOICE,IN,,12110268,,04/20/2012,2740.0000,"Invoice-Private",,04/20/2012,04/20/2012,,12115723MO,-5372.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,60.0000,60.00,"CR:Limited Term Di... D.Jolly 201204: Jolly, Demaurice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,20,118.0000,2360.00,"Basic Service Fee - One Bedroom for Apr: Jolly, Demaurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,20,16.0000,320.00,"Resident Care - Level 1 for Apr: Jolly, Demaurice",,,,,,,,,,,,,,,
+INVOICE,CM,,12110268,,04/20/2012,4020,"Invoice-Private",,04/20/2012,04/20/2012,,12115723MO,-5372.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3540,3540,"CR:Basic Service F... D.Jolly 201204: Jolly, Demaurice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,480,480,"CR:Resident Care -... D.Jolly 201204: Jolly, Demaurice",,,,,,,,,,,,,,,

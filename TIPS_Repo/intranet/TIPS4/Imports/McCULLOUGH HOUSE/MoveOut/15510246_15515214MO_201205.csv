@@ -1,0 +1,7 @@
+BATCH,,201205,B,3465.0000,
+INVOICE,IN,,15510246,,05/02/2012,210.0000,"Invoice-Private",,05/02/2012,05/02/2012,,15515214MO,-3045.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,2,89.0000,178.00,"Basic Service Fee - Studio for May: Owatt, Le Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,2,16.0000,32.00,"Resident Care - Level 1 for May: Owatt, Le Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,15510246,,05/02/2012,3255,"Invoice-Private",,05/02/2012,05/02/2012,,15515214MO,-3045.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... L.Owatt 201205: Owatt, Le Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,496,496,"CR:Resident Care -... L.Owatt 201205: Owatt, Le Anna",,,,,,,,,,,,,,,

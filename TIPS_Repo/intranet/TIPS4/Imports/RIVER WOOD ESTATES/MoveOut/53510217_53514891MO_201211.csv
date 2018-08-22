@@ -1,0 +1,7 @@
+BATCH,,201211,B,130.0000,
+INVOICE,IN,,53510217,,11/01/2012,65.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53514891MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30.0000,30.00,"Monthly Cable: Ihlenfeld, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35.0000,35.00,"Pendant Fee: Ihlenfeld, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,53510217,,11/01/2012,65,"Invoice-Private",,11/01/2012,11/10/2012,,53514891MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"Credit for Monthly Cable: Ihlenfeld, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35,35,"Credit for Pendant Fee: Ihlenfeld, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,3964.0000,
+INVOICE,IN,,50910101,,07/25/2011,1812.0000,"Invoice-Private",,07/25/2011,07/25/2011,,50912699MO,-2355.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,62.0000,62.00,"CR:Limited Term Di... D.Kendzierski 201107: Kendzierski, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,25,67.0000,1675.00,"Basic Service Fee - One Bedroom Deluxe for Jul: Kendzierski, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3250,010101509,15,5.0000,75.00,"Resident Meals: Kendzierski, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,50910101,,07/25/2011,2152,"Invoice-Private",,07/25/2011,07/25/2011,,50912699MO,-2355.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,2077,2077,"CR:Basic Service F... D.Kendzierski 201107: Kendzierski, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3250,010101509,15,5,75,"Credit for Resident Meals: Kendzierski, Dorothy",,,,,,,,,,,,,,,

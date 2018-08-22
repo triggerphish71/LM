@@ -1,0 +1,7 @@
+BATCH,,201202,B,9460.0000,
+INVOICE,IN,,09310152,,02/11/2012,3080.0000,"Invoice-Private",,02/11/2012,02/11/2012,,09315098MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,14,132.0000,1848.00,"Basic Service Fee - One Bedroom for Feb: Burkett, Wendell",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305093,14,88.0000,1232.00,"Private Care Rate Adjustments for Feb: Burkett, Wendell",,,,,,,,,,,,,,,
+INVOICE,CM,,09310152,,02/11/2012,6380,"Invoice-Private",,02/11/2012,02/11/2012,,09315098MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3828,3828,"CR:Basic Service F... W.Burkett 201202: Burkett, Wendell",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305093,1,2552,2552,"CR:Private Care Ra... W.Burkett 201202: Burkett, Wendell",,,,,,,,,,,,,,,

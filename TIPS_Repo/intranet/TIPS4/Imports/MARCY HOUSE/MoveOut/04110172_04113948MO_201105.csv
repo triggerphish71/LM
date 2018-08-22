@@ -1,0 +1,8 @@
+BATCH,,201105,B,4731.0000,
+INVOICE,IN,,04110172,,05/11/2011,1728.0000,"Invoice-Private",,05/11/2011,05/11/2011,,04113948MO,-4182.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,18,79.0000,1422.00,"Basic Service Fee - Studio for May: Cain, Glennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,18,17.0000,306.00,"Resident Care - Level 1 for May: Cain, Glennie",,,,,,,,,,,,,,,
+INVOICE,CM,,04110172,,05/11/2011,3003,"Invoice-Private",,05/11/2011,05/11/2011,,04113948MO,-4182.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2449,2449,"CR:Basic Service F... G.Cain 201105: Cain, Glennie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27,27,"CR:Monthly Cable... G.Cain 201105: Cain, Glennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... G.Cain 201105: Cain, Glennie",,,,,,,,,,,,,,,

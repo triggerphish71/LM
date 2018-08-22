@@ -1,0 +1,7 @@
+BATCH,,201109,B,5117.2000,
+INVOICE,IN,,09710212,,09/14/2011,1628.2000,"Invoice-Private",,09/14/2011,09/14/2011,,09714228MO,-5032.1000,,,,,,,,,,
+TRANSACTION,3020,010103097,14,84.0000,1176.00,"Basic Service Fee - Studio for Sep: Mac Millan, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,14,32.3000,452.20,"Resident Care - Level 19 for Sep: Mac Millan, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,09710212,,09/14/2011,3489,"Invoice-Private",,09/14/2011,09/14/2011,,09714228MO,-5032.1000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2520,2520,"CR:Basic Service F... G.Mac Millan 201109: Mac Millan, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,969,969,"CR:Resident Care -... G.Mac Millan 201109: Mac Millan, Gary",,,,,,,,,,,,,,,

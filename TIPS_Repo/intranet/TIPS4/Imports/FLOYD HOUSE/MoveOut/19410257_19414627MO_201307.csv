@@ -1,0 +1,7 @@
+BATCH,,201307,B,8607.0000,
+INVOICE,IN,,19410257,,07/01/2013,3926.0000,"Invoice-Private",,07/01/2013,07/10/2013,,19414627MO,-5476.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,26,60.0000,1560.00,"Basic Service Fee - Studio for Jul: Bakke, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,26,91.0000,2366.00,"Swan Personal Care - L6 for Jul: Bakke, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,19410257,,07/01/2013,4681,"Invoice-Private",,07/01/2013,07/10/2013,,19414627MO,-5476.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,1860,1860,"CR:Basic Service F... D.Bakke 201307: Bakke, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,2821,2821,"CR:Swan Personal C... D.Bakke 201307: Bakke, Dale",,,,,,,,,,,,,,,

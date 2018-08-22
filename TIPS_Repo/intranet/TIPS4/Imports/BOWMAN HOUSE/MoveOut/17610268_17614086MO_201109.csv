@@ -1,0 +1,8 @@
+BATCH,,201109,B,3404.0000,
+INVOICE,IN,,17610268,,09/02/2011,194.0000,"Invoice-Private",,09/02/2011,09/02/2011,,17614086MO,-3016.0000,,,,,,,,,,
+TRANSACTION,3027,010315176,2,28.0000,56.00,"Resident Care - Level 2 for Sep: Hope, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,2,69.0000,138.00,"Room and Board - Studio for Sep: Hope, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,17610268,,09/02/2011,3210,"Invoice-Private",,09/02/2011,09/02/2011,,17614086MO,-3016.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... W.Hope 201109: Hope, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,840,840,"CR:Resident Care -... W.Hope 201109: Hope, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2070,2070,"CR:Room and Board ... W.Hope 201109: Hope, Wilma",,,,,,,,,,,,,,,

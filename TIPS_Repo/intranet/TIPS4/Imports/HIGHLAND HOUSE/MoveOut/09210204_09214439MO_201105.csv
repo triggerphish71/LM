@@ -1,0 +1,7 @@
+BATCH,,201105,B,4095.0000,
+INVOICE,IN,,09210204,,05/14/2011,1274.0000,"Invoice-Private",,05/14/2011,05/14/2011,,09214439MO,-1547.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,14,75.0000,1050.00,"Basic Service Fee - Studio for May: Hawk, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,14,16.0000,224.00,"Resident Care - Level 1 for May: Hawk, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,09210204,,05/14/2011,2821,"Invoice-Private",,05/14/2011,05/14/2011,,09214439MO,-1547.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2325,2325,"CR:Basic Service F... M.Hawk 201105: Hawk, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,496,496,"CR:Resident Care -... M.Hawk 201105: Hawk, Minnie",,,,,,,,,,,,,,,

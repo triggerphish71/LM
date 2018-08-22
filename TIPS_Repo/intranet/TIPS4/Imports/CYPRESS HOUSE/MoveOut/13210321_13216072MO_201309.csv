@@ -1,0 +1,5 @@
+BATCH,,201309,B,54.0000,
+INVOICE,IN,,13210321,,09/01/2013,27.0000,"Invoice-Private",,09/01/2013,09/10/2013,,13216072MO,-5814.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Cohen, Nathan",,,,,,,,,,,,,,,
+INVOICE,CM,,13210321,,09/01/2013,27,"Invoice-Private",,09/01/2013,09/10/2013,,13216072MO,-5814.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Cohen, Nathan",,,,,,,,,,,,,,,

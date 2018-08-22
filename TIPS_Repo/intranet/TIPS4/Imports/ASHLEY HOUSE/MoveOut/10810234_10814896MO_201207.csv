@@ -1,0 +1,7 @@
+BATCH,,201207,B,4250.0000,
+INVOICE,IN,,10810234,,07/03/2012,375.0000,"Invoice-Private",,07/03/2012,07/03/2012,,10814896MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,3,84.0000,252.00,"Basic Service Fee - Studio for Jul: Dean, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,3,41.0000,123.00,"Resident Care - Level 3 for Jul: Dean, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,10810234,,07/03/2012,3875,"Invoice-Private",,07/03/2012,07/03/2012,,10814896MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Basic Service F... A.Dean 201207: Dean, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,1271,1271,"CR:Resident Care -... A.Dean 201207: Dean, Alice",,,,,,,,,,,,,,,

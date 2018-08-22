@@ -1,0 +1,7 @@
+BATCH,,201806,B,7802.0000,
+INVOICE,IN,,15110325,,06/17/2018,2822.0000,"Invoice-Private",,06/17/2018,06/17/2018,,15116959MO,-7340.8000,,,,,,,,,,
+TRANSACTION,3020,010012151,17,85.0000,1445.00,"Basic Service Fee - Studio for Jun: Almonrode, Ronald (Ron)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,17,81.0000,1377.00,"Resident Care - Level 5 for Jun: Almonrode, Ronald (Ron)",,,,,,,,,,,,,,,
+INVOICE,CM,,15110325,,06/17/2018,4980,"Invoice-Private",,06/17/2018,06/17/2018,,15116959MO,-7340.8000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,2550,2550,"CR:Basic Service F... R.Almonrode 201806: Almonrode, Ronald (Ron)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,2430,2430,"CR:Resident Care -... R.Almonrode 201806: Almonrode, Ronald (Ron)",,,,,,,,,,,,,,,

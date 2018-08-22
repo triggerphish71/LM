@@ -1,0 +1,7 @@
+BATCH,,201109,B,5294.0000,
+INVOICE,IN,,02010224,,09/19/2011,2539.0000,"Invoice-Private",,09/19/2011,09/19/2011,,02014314MO,-2225.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,810.0000,810.00,"CR:Limited Term Di... L.Malone 201109: Malone, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202020,19,91.0000,1729.00,"Basic Service Fee - Studio for Sep: Malone, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,02010224,,09/19/2011,2755,"Invoice-Private",,09/19/2011,09/19/2011,,02014314MO,-2225.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2730,2730,"CR:Basic Service F... L.Malone 201109: Malone, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... L.Malone 201109: Malone, Lois",,,,,,,,,,,,,,,

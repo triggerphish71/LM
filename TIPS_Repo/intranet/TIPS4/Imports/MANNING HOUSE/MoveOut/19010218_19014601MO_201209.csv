@@ -1,0 +1,7 @@
+BATCH,,201209,B,1494.0000,
+INVOICE,IN,,19010218,,09/01/2012,747.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19014601MO,-2253.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,30,24.0000,720.00,"Credit for Limited Term Discount: Soria, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Soria, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,19010218,,09/01/2012,747,"Invoice-Private",,09/01/2012,09/10/2012,,19014601MO,-2253.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,30,24,720,"Limited Term Discount: Soria, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Soria, Virginia",,,,,,,,,,,,,,,

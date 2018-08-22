@@ -1,0 +1,6 @@
+BATCH,,201106,B,5020.0000,
+INVOICE,IN,,04610185,,06/15/2011,1665.0000,"Invoice-Private",,06/15/2011,06/15/2011,,04613352MO,-5156.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,15,111.0000,1665.00,"Basic Service Fee - One Bedroom for Jun: Carlson, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,04610185,,06/15/2011,3355,"Invoice-Private",,06/15/2011,06/15/2011,,04613352MO,-5156.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,3330,3330,"CR:Basic Service F... E.Carlson 201106: Carlson, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25,25,"CR:Monthly Cable... E.Carlson 201106: Carlson, Edward",,,,,,,,,,,,,,,

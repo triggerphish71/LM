@@ -1,0 +1,6 @@
+BATCH,,201105,B,4930.0000,
+INVOICE,IN,,13310333,,05/01/2011,2136.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13314917MO,-658.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,24,89.0000,2136.00,"Basic Service Fee - Studio for May: Stanek, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,13310333,,05/01/2011,2794,"Invoice-Private",,05/01/2011,05/10/2011,,13314917MO,-658.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2759,2759,"CR:Basic Service F... H.Stanek 201105: Stanek, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... H.Stanek 201105: Stanek, Henry",,,,,,,,,,,,,,,

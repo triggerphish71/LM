@@ -1,0 +1,5 @@
+BATCH,,201305,B,3193.0000,
+INVOICE,IN,,19310385,,05/01/2013,3193.0000,"May_Rent-Lamkin. Jack",,05/01/2013,05/10/2013,,19315732,3708.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,31,76.0000,2356,"Basic Service Fee - Studio: Lamkin. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,31,17.0000,527,"Resident Care - Level 1: Lamkin. Jack",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310,"CC Meals: Lamkin. Jack",,,,,,,,,,,,,,,

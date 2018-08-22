@@ -1,0 +1,7 @@
+BATCH,,201307,B,4224.0000,
+INVOICE,IN,,06510187,,07/01/2013,256.0000,"Invoice-Private",,07/01/2013,07/10/2013,,06515307MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,2,91.0000,182.00,"Basic Service Fee - Deluxe for Jul: Wahl, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,2,37.0000,74.00,"Resident Care - Level 2 for Jul: Wahl, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,06510187,,07/01/2013,3968,"Invoice-Private",,07/01/2013,07/10/2013,,06515307MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2821,2821,"CR:Basic Service F... C.Wahl 201307: Wahl, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,1147,1147,"CR:Resident Care -... C.Wahl 201307: Wahl, Charles",,,,,,,,,,,,,,,

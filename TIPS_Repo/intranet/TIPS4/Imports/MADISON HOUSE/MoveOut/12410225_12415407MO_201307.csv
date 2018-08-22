@@ -1,0 +1,8 @@
+BATCH,,201307,B,5283.0000,
+INVOICE,IN,,12410225,,07/01/2013,1280.0000,"Invoice-Private",,07/01/2013,07/10/2013,,12415407MO,-2723.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,10,80.0000,800.00,"Basic Service Fee - Studio for Jul: Halligan, Dwight",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,10,48.0000,480.00,"Resident Care - Level 3 for Jul: Halligan, Dwight",,,,,,,,,,,,,,,
+INVOICE,CM,,12410225,,07/01/2013,4003,"Invoice-Private",,07/01/2013,07/10/2013,,12415407MO,-2723.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2480,2480,"CR:Basic Service F... D.Halligan 201307: Halligan, Dwight",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... D.Halligan 201307: Halligan, Dwight",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,1488,1488,"CR:Resident Care -... D.Halligan 201307: Halligan, Dwight",,,,,,,,,,,,,,,

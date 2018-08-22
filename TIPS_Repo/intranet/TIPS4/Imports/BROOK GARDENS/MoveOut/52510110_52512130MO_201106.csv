@@ -1,0 +1,5 @@
+BATCH,,201106,B,180.0000,
+INVOICE,IN,,52510110,,06/01/2011,90.0000,"Invoice-Private",,06/01/2011,06/10/2011,,52512130MO,-5270.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,30,3.0000,90.00,"Credit for Limited Term Discount: Soholt, Dalen",,,,,,,,,,,,,,,
+INVOICE,CM,,52510110,,06/01/2011,90,"Invoice-Private",,06/01/2011,06/10/2011,,52512130MO,-5270.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,30,3,90,"Limited Term Discount: Soholt, Dalen",,,,,,,,,,,,,,,

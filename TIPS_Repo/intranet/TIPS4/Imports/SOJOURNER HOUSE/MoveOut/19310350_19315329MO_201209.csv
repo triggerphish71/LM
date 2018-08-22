@@ -1,0 +1,7 @@
+BATCH,,201209,B,1284.0000,
+INVOICE,IN,,19310350,,09/01/2012,642.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19315329MO,-3490.6000,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10.0000,300.00,"CC Meals: Gurley, James",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315193,30,11.4000,342.00,"Credit for Two Room Rental Discount: Gurley, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19310350,,09/01/2012,642,"Invoice-Private",,09/01/2012,09/10/2012,,19315329MO,-3490.6000,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10,300,"Credit for CC Meals: Gurley, James",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315193,30,11.4,342,"Two Room Rental Discount: Gurley, James",,,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+BATCH,,201209,B,5340.0000,
+INVOICE,CM,,11610245,,09/01/2012,5340,"Invoice-Private",,09/01/2012,09/10/2012,,11615179MO,-7832.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3000,3000,"CR:Basic Service F... C.Smith 201209: Smith, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,2340,2340,"CR:Resident Care -... C.Smith 201209: Smith, Chester",,,,,,,,,,,,,,,

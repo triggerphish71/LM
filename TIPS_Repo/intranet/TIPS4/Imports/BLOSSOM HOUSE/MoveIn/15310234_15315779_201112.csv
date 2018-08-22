@@ -1,0 +1,6 @@
+BATCH,,201112,B,5348.9600,
+INVOICE,IN,,15310234,,12/01/2011,5348.9600,"MoveIn-Walter. Fred",,12/01/2011,12/01/2011,,15315779,5348.9600,,,,,,,,,,
+TRANSACTION,3010,010103153,31,100.0000,3100,"Basic Service Fee - Studio: Walter. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,31,7.1600,221.96,"Resident Care - Level 4: Walter. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Walter. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Walter. Fred",,,,,,,,,,,,,,,

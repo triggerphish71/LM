@@ -1,0 +1,7 @@
+BATCH,,201108,B,4590.0000,
+INVOICE,IN,,07810237,,08/18/2011,665.0000,"Invoice-Private",,08/18/2011,08/18/2011,,07814344MO,-6110.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,7,95.0000,665.00,"Basic Service Fee - Deluxe for Aug: Petersen, Idella",,,,,,,,,,,,,,,
+INVOICE,CM,,07810237,,08/18/2011,3925,"Invoice-Private",,08/18/2011,08/18/2011,,07814344MO,-6110.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,1900,1900,"CR:Basic Service F... I.Petersen 201108: Petersen, Idella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... I.Petersen 201108: Petersen, Idella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,2000,2000,"CR:New Resident Fe... I.Petersen 201108: Petersen, Idella",,,,,,,,,,,,,,,

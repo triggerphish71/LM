@@ -1,0 +1,7 @@
+BATCH,,201201,B,2616.8200,
+INVOICE,IN,,01310048,,01/01/2012,1308.4100,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314022MO,-1880.1800,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Whatley, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1280.4100,1280.41,"State Medicaid: Whatley, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,01310048,,01/01/2012,1308.41,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314022MO,-1880.1800,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Whatley, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1280.41,1280.41,"Credit for State Medicaid: Whatley, Theresa",,,,,,,,,,,,,,,

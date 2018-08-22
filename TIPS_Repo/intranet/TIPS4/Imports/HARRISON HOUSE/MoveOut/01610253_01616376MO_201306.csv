@@ -1,0 +1,8 @@
+BATCH,,201306,B,5240.0000,
+INVOICE,IN,,01610253,,06/01/2013,420.0000,"Invoice-Private",,06/01/2013,06/10/2013,,01616376MO,-4763.0000,,,,,,,,,,
+TRANSACTION,3027,010202016,1,420.0000,420.00,"CR:Resident Care L... D.Cruz 201306: Cruz, Dr Julia ",,,,,,,,,,,,,,,
+INVOICE,CM,,01610253,,06/01/2013,4820,"Invoice-Private",,06/01/2013,06/10/2013,,01616376MO,-4763.0000,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... D.Cruz 201306: Cruz, Dr Julia ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,2160,2160,"CR:Resident Care -... D.Cruz 201306: Cruz, Dr Julia ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2610,2610,"CR:Room and Board ... D.Cruz 201306: Cruz, Dr Julia ",,,,,,,,,,,,,,,
+TRANSACTION,3228,010202016,1,25,25,"CR:Sharps Disposal... D.Cruz 201306: Cruz, Dr Julia ",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,2760.0000,
+INVOICE,IN,,08910166,,09/01/2011,1380.0000,"Invoice-Private",,09/01/2011,09/10/2011,,08914389MO,-2023.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,30,46.0000,1380.00,"Credit for Limited Term Discount: Long, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08910166,,09/01/2011,1380,"Invoice-Private",,09/01/2011,09/10/2011,,08914389MO,-2023.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,30,46,1380,"Limited Term Discount: Long, George",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,3075.0000,
+INVOICE,IN,,14210188,,09/07/2011,3075.0000,"MoveIn-Estes. Byron",,09/07/2011,09/07/2011,,14213648,3075.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,24,85.0000,2040,"Basic Service Fee - Studio         : Estes. Byron",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Estes. Byron",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Estes. Byron",,,,,,,,,,,,,,,

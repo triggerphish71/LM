@@ -1,0 +1,7 @@
+BATCH,,201807,B,6993.6000,
+INVOICE,IN,,31400057,,07/12/2018,2745.6000,"Invoice-Private",,07/12/2018,07/12/2018,,31411070MO,-1502.4000,,,,,,,,,,
+TRANSACTION,3020,070025314,1,2731.6000,2731.60,"MC Studio for Jul: Elkins, Linelle ",,,,,,,,,,,,,,,
+TRANSACTION,3210,070025314,1,14.0000,14.00,"Personal Services: Elkins, Linelle ",,,,,,,,,,,,,,,
+INVOICE,CM,,31400057,,07/12/2018,4248,"Invoice-Private",,07/12/2018,07/12/2018,,31411070MO,-1502.4000,,,,,,,,,,
+TRANSACTION,3020,070025314,1,4234,4234,"CR:MC Studio... L.Elkins 201807: Elkins, Linelle ",,,,,,,,,,,,,,,
+TRANSACTION,3210,070025314,1,14,14,"Credit for Personal Services: Elkins, Linelle ",,,,,,,,,,,,,,,

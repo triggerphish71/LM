@@ -1,0 +1,6 @@
+BATCH,,201204,B,3420.0000,
+INVOICE,IN,,19510216,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,19514323MO,-4022.0000,,,,,,,,,,
+TRANSACTION,3320,010309195,1,60.0000,60.00,"CR:Limited Term Di... W.Shackelford 201204: Shackelford, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,19510216,,04/01/2012,3360,"Invoice-Private",,04/01/2012,04/10/2012,,19514323MO,-4022.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2820,2820,"CR:Basic Service F... W.Shackelford 201204: Shackelford, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,540,540,"CR:Resident Care -... W.Shackelford 201204: Shackelford, Walter",,,,,,,,,,,,,,,

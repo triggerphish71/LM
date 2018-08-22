@@ -1,0 +1,5 @@
+BATCH,,201212,B,914.5000,
+INVOICE,IN,,12410268,,12/01/2012,457.2500,"Invoice-Private",,12/01/2012,12/10/2012,,12415047MO,-2745.2500,,,,,,,,,,
+TRANSACTION,3320,010211124,31,14.7500,457.25,"Credit for Limited Term Discount: Lake, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,12410268,,12/01/2012,457.25,"Invoice-Private",,12/01/2012,12/10/2012,,12415047MO,-2745.2500,,,,,,,,,,
+TRANSACTION,3320,010211124,31,14.75,457.25,"Limited Term Discount: Lake, Marian",,,,,,,,,,,,,,,

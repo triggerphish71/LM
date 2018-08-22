@@ -1,0 +1,7 @@
+BATCH,,201110,B,4680.0000,
+INVOICE,IN,,06510174,,10/09/2011,1053.0000,"Invoice-Private",,10/09/2011,10/09/2011,,06514421MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,9,99.0000,891.00,"Basic Service Fee - Studio for Oct: Keller, Valera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,9,18.0000,162.00,"Resident Care - Level 1 for Oct: Keller, Valera",,,,,,,,,,,,,,,
+INVOICE,CM,,06510174,,10/09/2011,3627,"Invoice-Private",,10/09/2011,10/09/2011,,06514421MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3069,3069,"CR:Basic Service F... V.Keller 201110: Keller, Valera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,558,558,"CR:Resident Care -... V.Keller 201110: Keller, Valera",,,,,,,,,,,,,,,

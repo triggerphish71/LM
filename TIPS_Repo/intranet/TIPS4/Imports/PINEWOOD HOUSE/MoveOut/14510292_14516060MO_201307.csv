@@ -1,0 +1,6 @@
+BATCH,,201307,B,3292.0000,
+INVOICE,IN,,14510292,,07/02/2013,198.0000,"Invoice-Private",,07/02/2013,07/02/2013,,14516060MO,-2896.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,2,99.0000,198.00,"Basic Service Fee - Studio for Jul: Blackman, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,14510292,,07/02/2013,3094,"Invoice-Private",,07/02/2013,07/02/2013,,14516060MO,-2896.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3069,3069,"CR:Basic Service F... S.Blackman 201307: Blackman, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"CR:Pendant Fee... S.Blackman 201307: Blackman, Sarah",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201308,B,50.0000,
+INVOICE,IN,,02310226,,08/01/2013,25.0000,"Invoice-Private",,08/01/2013,08/10/2013,,02315339MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25.00,"Monthly Cable: Waldorf, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,02310226,,08/01/2013,25,"Invoice-Private",,08/01/2013,08/10/2013,,02315339MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"Credit for Monthly Cable: Waldorf, Betty",,,,,,,,,,,,,,,

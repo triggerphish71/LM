@@ -1,0 +1,7 @@
+BATCH,,201111,B,7074.0000,
+INVOICE,IN,,50210167,,11/18/2011,3144.0000,"Invoice-Private",,11/18/2011,11/18/2011,,50213201MO,-4872.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,24,117.0000,2808.00,"Basic Service Fee - One Bedroom Del for Nov: O'Connor, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,24,14.0000,336.00,"Resident Care - Level 1 for Nov: O'Connor, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,50210167,,11/18/2011,3930,"Invoice-Private",,11/18/2011,11/18/2011,,50213201MO,-4872.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3510,3510,"CR:Basic Service F... B.O'Connor 201111: O'Connor, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,420,420,"CR:Resident Care -... B.O'Connor 201111: O'Connor, Betty",,,,,,,,,,,,,,,

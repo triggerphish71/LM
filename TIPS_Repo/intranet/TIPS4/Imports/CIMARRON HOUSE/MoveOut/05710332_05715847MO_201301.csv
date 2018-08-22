@@ -1,0 +1,5 @@
+BATCH,,201301,B,2340.0000,
+INVOICE,IN,,05710332,,01/01/2013,325.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05715847MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,5,65.0000,325.00,"Basic Service Fee - Studio for Jan: Bourland, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,05710332,,01/01/2013,2015,"Invoice-Private",,01/01/2013,01/10/2013,,05715847MO,-1690.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2015,2015,"CR:Basic Service F... B.Bourland 201301: Bourland, Beverly",,,,,,,,,,,,,,,

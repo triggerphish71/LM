@@ -1,0 +1,5 @@
+BATCH,,201111,B,1860.0000,
+INVOICE,IN,,11010316,,11/01/2011,930.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11014694MO,-4092.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,30,31.0000,930.00,"Credit for Limited Term Discount: Moore, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,11010316,,11/01/2011,930,"Invoice-Private",,11/01/2011,11/10/2011,,11014694MO,-4092.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,30,31,930,"Limited Term Discount: Moore, Dorothy",,,,,,,,,,,,,,,

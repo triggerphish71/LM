@@ -1,0 +1,7 @@
+BATCH,,201206,B,6477.0000,
+INVOICE,IN,,01910230,,06/20/2012,2667.0000,"Invoice-Private",,06/20/2012,06/20/2012,,01914950MO,-5080.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,21,95.0000,1995.00,"Basic Service Fee - Studio for Jun: Miller, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,21,32.0000,672.00,"Resident Care - Level 2 for Jun: Miller, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,01910230,,06/20/2012,3810,"Invoice-Private",,06/20/2012,06/20/2012,,01914950MO,-5080.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2850,2850,"CR:Basic Service F... F.Miller 201206: Miller, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,960,960,"CR:Resident Care -... F.Miller 201206: Miller, Frances",,,,,,,,,,,,,,,

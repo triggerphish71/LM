@@ -1,0 +1,6 @@
+
+
+<CFQUERY NAME = "STATECODES"	DATASOURCE = "#APPLICATION.datasource#">
+	SELECT	cStateCode, cStateName
+	FROM	STATECODE
+</CFQUERY>

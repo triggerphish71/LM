@@ -1,0 +1,7 @@
+BATCH,,201305,B,594.0000,
+INVOICE,IN,,53310286,,05/22/2013,54.0000,"Invoice-Private",,05/22/2013,05/22/2013,,53315470MO,-2106.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,38.0000,38.00,"Basic Service Fee - Second Resident for May: Ruud, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,16.0000,16.00,"Resident Care - Level 1 for May: Ruud, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,53310286,,05/22/2013,540,"Invoice-Private",,05/22/2013,05/22/2013,,53315470MO,-2106.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,380,380,"CR:Basic Service F... A.Ruud 201305: Ruud, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,160,160,"CR:Resident Care -... A.Ruud 201305: Ruud, Ann",,,,,,,,,,,,,,,

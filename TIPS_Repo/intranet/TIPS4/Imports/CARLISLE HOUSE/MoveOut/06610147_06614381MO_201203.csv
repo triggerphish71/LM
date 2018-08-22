@@ -1,0 +1,5 @@
+BATCH,,201203,B,372.0000,
+INVOICE,IN,,06610147,,03/01/2012,186.0000,"Invoice-Private",,03/01/2012,03/10/2012,,06614381MO,-4233.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,31,6.0000,186.00,"Credit for Limited Term Discount: Huber, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,06610147,,03/01/2012,186,"Invoice-Private",,03/01/2012,03/10/2012,,06614381MO,-4233.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,31,6,186,"Limited Term Discount: Huber, Herbert",,,,,,,,,,,,,,,

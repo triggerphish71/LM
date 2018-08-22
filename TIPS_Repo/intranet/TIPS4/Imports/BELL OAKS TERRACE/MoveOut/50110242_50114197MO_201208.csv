@@ -1,0 +1,5 @@
+BATCH,,201208,B,124.0000,
+INVOICE,IN,,50110242,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,50114197MO,-5632.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,2.0000,62.00,"Credit for Limited Term Discount: Etienne, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,50110242,,08/01/2012,62,"Invoice-Private",,08/01/2012,08/10/2012,,50114197MO,-5632.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,2,62,"Limited Term Discount: Etienne, Joseph",,,,,,,,,,,,,,,

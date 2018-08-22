@@ -1,0 +1,6 @@
+BATCH,,201302,B,4129.0000,
+INVOICE,IN,,53210340,,02/06/2013,4129.0000,"MoveIn-Price. Chester",,02/06/2013,02/06/2013,,53215449,4129.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,23,98.0000,2254,"Basic Service Fee - Studio Deluxe: Price. Chester",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,23,15.0000,345,"Resident Care - Level 1: Price. Chester",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Price. Chester",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: Price. Chester",,,,,,,,,,,,,,,

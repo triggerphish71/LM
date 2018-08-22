@@ -1,0 +1,8 @@
+BATCH,,201112,B,7132.0000,
+INVOICE,IN,,53410390,,12/19/2011,2948.0000,"Invoice-Private",,12/19/2011,12/19/2011,,53420248MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,22,67.0000,1474.00,"Resident Care - Level 3 for Dec: Zierk, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,22,67.0000,1474.00,"Room and Board - Studio for Dec: Zierk, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,53410390,,12/19/2011,4184,"Invoice-Private",,12/19/2011,12/19/2011,,53420248MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... N.Zierk 201112: Zierk, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2077,2077,"CR:Resident Care -... N.Zierk 201112: Zierk, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2077,2077,"CR:Room and Board ... N.Zierk 201112: Zierk, Norman",,,,,,,,,,,,,,,

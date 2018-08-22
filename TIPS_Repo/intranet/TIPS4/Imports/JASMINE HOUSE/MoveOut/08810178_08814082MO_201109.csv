@@ -1,0 +1,5 @@
+BATCH,,201109,B,564.0000,
+INVOICE,IN,,08810178,,09/01/2011,282.0000,"Invoice-Private",,09/01/2011,09/10/2011,,08814082MO,-2622.6000,,,,,,,,,,
+TRANSACTION,3312,010107088,30,9.4000,282.00,"Credit for Two Room Rental Discount: Milosevich, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08810178,,09/01/2011,282,"Invoice-Private",,09/01/2011,09/10/2011,,08814082MO,-2622.6000,,,,,,,,,,
+TRANSACTION,3312,010107088,30,9.4,282,"Two Room Rental Discount: Milosevich, Mary",,,,,,,,,,,,,,,

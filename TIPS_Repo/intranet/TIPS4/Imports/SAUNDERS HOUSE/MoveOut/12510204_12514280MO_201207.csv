@@ -1,0 +1,5 @@
+BATCH,,201207,B,1152.0000,
+INVOICE,IN,,12510204,,07/01/2012,36.0000,"Invoice-Private",,07/01/2012,07/01/2012,,12514280MO,-1080.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,36.0000,36.00,"Basic Service Fee - Second Resident for Jul: Lefler, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,12510204,,07/01/2012,1116,"Invoice-Private",,07/01/2012,07/01/2012,,12514280MO,-1080.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,1116,1116,"CR:Basic Service F... J.Lefler 201207: Lefler, Jack",,,,,,,,,,,,,,,

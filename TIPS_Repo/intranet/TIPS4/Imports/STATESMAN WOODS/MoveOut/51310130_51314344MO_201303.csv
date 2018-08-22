@@ -1,0 +1,7 @@
+BATCH,,201303,B,6084.0000,
+INVOICE,IN,,51310130,,03/04/2013,845.0000,"Invoice-Private",,03/04/2013,03/04/2013,,51314344MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3027,010310513,5,63.0000,315.00,"Resident Care - Level 5 for Mar: Appleby, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,5,106.0000,530.00,"Room and Board - Studio for Mar: Appleby, James",,,,,,,,,,,,,,,
+INVOICE,CM,,51310130,,03/04/2013,5239,"Invoice-Private",,03/04/2013,03/04/2013,,51314344MO,-4394.0000,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1953,1953,"CR:Resident Care -... J.Appleby 201303: Appleby, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3286,3286,"CR:Room and Board ... J.Appleby 201303: Appleby, James",,,,,,,,,,,,,,,

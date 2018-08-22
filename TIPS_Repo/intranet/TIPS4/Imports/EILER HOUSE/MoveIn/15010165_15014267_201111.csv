@@ -1,0 +1,8 @@
+BATCH,,201111,B,4902.0000,
+INVOICE,IN,,15010165,,10/31/2011,2117.0000,"MoveIn-hopkins. dorothy",,10/31/2011,10/31/2011,,15014267,4902.0000,,,,,,,,,,
+TRANSACTION,3014,010212150,1,92.0000,92,"Basic Service Fee - Studio         : hopkins. dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25,"Monthly Cable: hopkins. dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212150,1,2000.0000,2000,"New Resident Fee: hopkins. dorothy",,,,,,,,,,,,,,,
+INVOICE,IN,,15010165,,11/01/2011,2785.0000,"November_Rent-hopkins. dorothy",,11/01/2011,11/10/2011,,15014267,4902.0000,,,,,,,,,,
+TRANSACTION,3010,010212150,30,92.0000,2760,"Basic Service Fee - Studio         : hopkins. dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25,"Monthly Cable: hopkins. dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,70.0000,
+INVOICE,IN,,13810181,,07/01/2013,35.0000,"Invoice-Private",,07/01/2013,07/10/2013,,13815637MO,-2824.0000,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35.0000,35.00,"Pendant Fee: Murphy, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,13810181,,07/01/2013,35,"Invoice-Private",,07/01/2013,07/10/2013,,13815637MO,-2824.0000,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35,35,"Credit for Pendant Fee: Murphy, Eileen",,,,,,,,,,,,,,,

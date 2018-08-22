@@ -1,0 +1,6 @@
+BATCH,,201210,B,4557.0000,
+INVOICE,IN,,20210197,,10/01/2012,1023.0000,"Invoice-Private",,10/01/2012,10/10/2012,,20212703MO,-1977.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,1023.0000,1023.00,"CR:Limited Term Di... J.Burroughs 201210: Burroughs, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,20210197,,10/01/2012,3534,"Invoice-Private",,10/01/2012,10/10/2012,,20212703MO,-1977.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,961,961,"CR:Resident Care -... J.Burroughs 201210: Burroughs, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... J.Burroughs 201210: Burroughs, Jack",,,,,,,,,,,,,,,

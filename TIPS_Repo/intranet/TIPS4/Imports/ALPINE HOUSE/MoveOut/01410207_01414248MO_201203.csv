@@ -1,0 +1,8 @@
+BATCH,,201203,B,7260.0000,
+INVOICE,IN,,01410207,,03/01/2012,2765.0000,"Invoice-Private",,03/01/2012,03/10/2012,,01414248MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3320,010202014,1,155.0000,155.00,"CR:Limited Term Di... H.Springer 201203: Springer, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202014,18,90.0000,1620.00,"Basic Service Fee - Studio for Mar: Springer, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,18,55.0000,990.00,"Resident Care - Level 4 for Mar: Springer, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,01410207,,03/01/2012,4495,"Invoice-Private",,03/01/2012,03/10/2012,,01414248MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2790,2790,"CR:Basic Service F... H.Springer 201203: Springer, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,1705,1705,"CR:Resident Care -... H.Springer 201203: Springer, Harold",,,,,,,,,,,,,,,

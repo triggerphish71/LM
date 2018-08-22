@@ -1,0 +1,5 @@
+BATCH,,201304,B,3860.0000,
+INVOICE,IN,,19810334,,04/12/2013,3860.0000,"MoveIn-Frommelt. Robert",,04/12/2013,04/12/2013,,19818465,3860.0000,,,,,,,,,,
+TRANSACTION,3010,010112198,19,70.0000,1330,"Basic Service Fee - One Bedroom AL C: Frommelt. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30,"Monthly Cable: Frommelt. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010112198,1,2500.0000,2500,"New Resident Fee: Frommelt. Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201302,B,3415.0000,
+INVOICE,IN,,16310337,,02/01/2013,3415.0000,"February_Rent-Johnson. Hazel",,02/01/2013,02/10/2013,,16317008,5789.0000,,,,,,,,,,
+TRANSACTION,3010,010202163,28,108.0000,3024,"Basic Service Fee - Studio Deluxe: Johnson. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202163,28,13.0000,364,"Resident Care - Level 1: Johnson. Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27,"Monthly Cable: Johnson. Hazel",,,,,,,,,,,,,,,

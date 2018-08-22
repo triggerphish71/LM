@@ -1,0 +1,5 @@
+BATCH,,201107,B,3330.0000,
+INVOICE,IN,,14210182,,07/05/2011,3330.0000,"MoveIn-Carter. Florence",,07/05/2011,07/05/2011,,14213553,3330.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,27,85.0000,2295,"F.Carter: Basic Service Fee - Studio: Carter. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Carter. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Carter. Florence",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,54.0000,
+INVOICE,IN,,16310289,,10/01/2011,27.0000,"Invoice-Private",,10/01/2011,10/10/2011,,16316398MO,-4251.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Wileman, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,16310289,,10/01/2011,27,"Invoice-Private",,10/01/2011,10/10/2011,,16316398MO,-4251.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Wileman, Bob",,,,,,,,,,,,,,,

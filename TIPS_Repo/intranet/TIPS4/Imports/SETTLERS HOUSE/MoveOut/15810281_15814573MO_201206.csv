@@ -1,0 +1,8 @@
+BATCH,,201206,B,6740.0000,
+INVOICE,IN,,15810281,,06/01/2012,2540.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15814573MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,1,720.0000,720.00,"CR:Limited Term Di... A.Manfredi 201206: Manfredi, Avis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309158,13,96.0000,1248.00,"Basic Service Fee - Studio for Jun: Manfredi, Avis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,13,44.0000,572.00,"Resident Care - Level 3 for Jun: Manfredi, Avis",,,,,,,,,,,,,,,
+INVOICE,CM,,15810281,,06/01/2012,4200,"Invoice-Private",,06/01/2012,06/10/2012,,15814573MO,-1660.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2880,2880,"CR:Basic Service F... A.Manfredi 201206: Manfredi, Avis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1320,1320,"CR:Resident Care -... A.Manfredi 201206: Manfredi, Avis",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,6251.2000,
+INVOICE,IN,,15310169,,03/01/2013,195.3500,"Invoice-Private",,03/01/2013,03/01/2013,,15316434MO,-5860.5000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,101.0000,101.00,"Basic Service Fee - Studio for Mar: Paulson, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,94.3500,94.35,"Resident Care - Level 51 for Mar: Paulson, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,15310169,,03/01/2013,6055.85,"Invoice-Private",,03/01/2013,03/01/2013,,15316434MO,-5860.5000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3131,3131,"CR:Basic Service F... I.Paulson 201303: Paulson, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2924.85,2924.85,"CR:Resident Care -... I.Paulson 201303: Paulson, Irene",,,,,,,,,,,,,,,

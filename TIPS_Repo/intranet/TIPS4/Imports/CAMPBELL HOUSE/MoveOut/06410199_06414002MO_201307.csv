@@ -1,0 +1,7 @@
+BATCH,,201307,B,2340.0000,
+INVOICE,IN,,06410199,,07/15/2013,750.0000,"Invoice-Private",,07/15/2013,07/15/2013,,06414002MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,15,50.0000,750.00,"Basic Service Fee - Studio for Jul: Meister, Charlie",,,,,,,,,,,,,,,
+INVOICE,CM,,06410199,,07/15/2013,1590,"Invoice-Private",,07/15/2013,07/15/2013,,06414002MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,1550,1550,"CR:Basic Service F... C.Meister 201307: Meister, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... C.Meister 201307: Meister, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3228,010305064,1,5,5,"CR:Sharps Disposal... C.Meister 201307: Meister, Charlie",,,,,,,,,,,,,,,

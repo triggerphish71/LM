@@ -1,0 +1,5 @@
+BATCH,,201206,B,5302.0000,
+INVOICE,IN,,14710269,,06/01/2012,5302.0000,"MoveIn-Smith. Mary Ellen",,06/01/2012,06/01/2012,,14715678,5302.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,30,102.0000,3060,"Basic Service Fee - Studio: Smith. Mary Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: Smith. Mary Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310147,1,2200.0000,2200,"New Resident Fee: Smith. Mary Ellen",,,,,,,,,,,,,,,

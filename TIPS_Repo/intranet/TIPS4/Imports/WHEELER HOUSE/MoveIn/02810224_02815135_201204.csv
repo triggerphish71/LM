@@ -1,0 +1,6 @@
+BATCH,,201204,B,4509.0000,
+INVOICE,IN,,02810224,,04/13/2012,4509.0000,"MoveIn-Simons. Lee",,04/13/2012,04/13/2012,,02815135,4509.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,18,113.0000,2034,"Basic Service Fee - Studio: Simons. Lee",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,18,25.0000,450,"Resident Care - Level 2: Simons. Lee",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Simons. Lee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Simons. Lee",,,,,,,,,,,,,,,

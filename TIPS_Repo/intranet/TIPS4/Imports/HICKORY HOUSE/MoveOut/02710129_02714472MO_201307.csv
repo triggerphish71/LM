@@ -1,0 +1,5 @@
+BATCH,,201307,B,3965.0000,
+INVOICE,IN,,02710129,,07/03/2013,1950.0000,"Invoice-Private",,07/03/2013,07/03/2013,,02714472MO,-65.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,30,65.0000,1950.00,"Basic Service Fee - Studio for Jul: Benson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02710129,,07/03/2013,2015,"Invoice-Private",,07/03/2013,07/03/2013,,02714472MO,-65.0000,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2015,2015,"CR:Basic Service F... J.Benson 201307: Benson, James",,,,,,,,,,,,,,,

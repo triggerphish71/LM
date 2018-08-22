@@ -1,0 +1,6 @@
+BATCH,,201208,B,4557.0000,
+INVOICE,IN,,17510274,,08/01/2012,806.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17517659MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,806.0000,806.00,"CR:Limited Term Di... P.Austin 201208: Austin, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,17510274,,08/01/2012,3751,"Invoice-Private",,08/01/2012,08/10/2012,,17517659MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2356,2356,"CR:Basic Service F... P.Austin 201208: Austin, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,1395,1395,"CR:Resident Care -... P.Austin 201208: Austin, Pauline",,,,,,,,,,,,,,,

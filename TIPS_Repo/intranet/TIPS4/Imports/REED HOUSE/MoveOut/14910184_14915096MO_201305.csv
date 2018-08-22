@@ -1,0 +1,8 @@
+BATCH,,201305,B,6194.0000,
+INVOICE,IN,,14910184,,05/15/2013,2010.0000,"Invoice-Private",,05/15/2013,05/15/2013,,14915096MO,-6224.0000,,,,,,,,,,
+TRANSACTION,3027,010212149,15,34.0000,510.00,"Resident Care - Level 2 for May: Glackin, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,15,100.0000,1500.00,"Room and Board - One Bedroom for May: Glackin, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,14910184,,05/15/2013,4184,"Invoice-Private",,05/15/2013,05/15/2013,,14915096MO,-6224.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... J.Glackin 201305: Glackin, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1054,1054,"CR:Resident Care -... J.Glackin 201305: Glackin, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Room and Board ... J.Glackin 201305: Glackin, Joan",,,,,,,,,,,,,,,

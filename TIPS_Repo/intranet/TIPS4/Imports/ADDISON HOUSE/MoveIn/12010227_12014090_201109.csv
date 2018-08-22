@@ -1,0 +1,5 @@
+BATCH,,201109,B,2230.0000,
+INVOICE,IN,,12010227,,09/15/2011,2230.0000,"MoveIn-Stevens. Luella",,09/15/2011,09/15/2011,,12014090,4585.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,16,75.0000,1200,"Basic Service Fee - Studio         : Stevens. Luella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Stevens. Luella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Stevens. Luella",,,,,,,,,,,,,,,

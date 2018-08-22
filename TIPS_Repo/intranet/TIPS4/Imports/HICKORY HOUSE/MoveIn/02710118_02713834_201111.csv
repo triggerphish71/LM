@@ -1,0 +1,6 @@
+BATCH,,201111,B,4041.0000,
+INVOICE,IN,,02710118,,11/14/2011,4041.0000,"MoveIn-Hoover. Chris",,11/14/2011,11/14/2011,,02713834,4041.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,17,116.0000,1972,"C.Hoover: Basic Service Fee - One Bedroom: Hoover. Chris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202027,17,32.0000,544,"C.Hoover: Resident Care - Level 2: Hoover. Chris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Hoover. Chris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Hoover. Chris",,,,,,,,,,,,,,,

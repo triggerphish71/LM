@@ -1,0 +1,5 @@
+BATCH,,201302,B,3611.0000,
+INVOICE,CM,,03110342,,02/01/2013,3611,"Invoice-Private",,02/01/2013,02/10/2013,,03117280MO,-3611.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2772,2772,"CR:Basic Service F... S.Rees 201302: Rees, Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... S.Rees 201302: Rees, Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,812,812,"CR:Resident Care -... S.Rees 201302: Rees, Sherwood",,,,,,,,,,,,,,,

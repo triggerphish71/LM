@@ -1,0 +1,8 @@
+BATCH,,201107,B,3808.0000,
+INVOICE,IN,,16410255,,07/08/2011,776.0000,"Invoice-Private",,07/08/2011,07/08/2011,,16415917MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,8,82.0000,656.00,"Basic Service Fee - Studio for Jul: Duckworth (IO), G W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,8,15.0000,120.00,"Resident Care - Level 1 for Jul: Duckworth (IO), G W",,,,,,,,,,,,,,,
+INVOICE,CM,,16410255,,07/08/2011,3032,"Invoice-Private",,07/08/2011,07/08/2011,,16415917MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2542,2542,"CR:Basic Service F... G.Duckworth (IO) 201107: Duckworth (IO), G W",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25,25,"CR:Monthly Cable... G.Duckworth (IO) 201107: Duckworth (IO), G W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,465,465,"CR:Resident Care -... G.Duckworth (IO) 201107: Duckworth (IO), G W",,,,,,,,,,,,,,,

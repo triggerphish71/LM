@@ -1,0 +1,6 @@
+BATCH,,201105,B,5482.0000,
+INVOICE,IN,,16910200,,05/20/2011,2140.0000,"Invoice-Private",,05/20/2011,05/20/2011,,16914461MO,-4437.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,20,107.0000,2140.00,"Room and Board - One Bedroom for May: Drubek, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,16910200,,05/20/2011,3342,"Invoice-Private",,05/20/2011,05/20/2011,,16914461MO,-4437.0000,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... G.Drubek 201105: Drubek, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103169,1,3317,3317,"CR:Room and Board ... G.Drubek 201105: Drubek, Gene",,,,,,,,,,,,,,,

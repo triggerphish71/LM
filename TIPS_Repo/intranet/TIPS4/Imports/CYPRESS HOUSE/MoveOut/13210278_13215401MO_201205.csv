@@ -1,0 +1,5 @@
+BATCH,,201205,B,2170.0000,
+INVOICE,IN,,13210278,,05/01/2012,1085.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13215401MO,-922.0000,,,,,,,,,,
+TRANSACTION,3321,010308132,31,35.0000,1085.00,"Credit for 2nd Resident Free Discount: DeGiulo, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,13210278,,05/01/2012,1085,"Invoice-Private",,05/01/2012,05/10/2012,,13215401MO,-922.0000,,,,,,,,,,
+TRANSACTION,3321,010308132,31,35,1085,"2nd Resident Free Discount: DeGiulo, Pat",,,,,,,,,,,,,,,

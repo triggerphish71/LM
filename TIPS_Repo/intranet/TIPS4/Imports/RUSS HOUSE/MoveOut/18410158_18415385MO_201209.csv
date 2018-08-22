@@ -1,0 +1,7 @@
+BATCH,,201209,B,5668.0000,
+INVOICE,IN,,18410158,,09/19/2012,2398.0000,"Invoice-Private",,09/19/2012,09/19/2012,,18415385MO,-4251.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,22,96.0000,2112.00,"Basic Service Fee - Studio for Sep: Stedman, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,22,13.0000,286.00,"Resident Care - Level 1 for Sep: Stedman, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,18410158,,09/19/2012,3270,"Invoice-Private",,09/19/2012,09/19/2012,,18415385MO,-4251.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2880,2880,"CR:Basic Service F... A.Stedman 201209: Stedman, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,390,390,"CR:Resident Care -... A.Stedman 201209: Stedman, Ann",,,,,,,,,,,,,,,

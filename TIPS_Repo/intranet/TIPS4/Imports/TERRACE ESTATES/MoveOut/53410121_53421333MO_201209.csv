@@ -1,0 +1,5 @@
+BATCH,,201209,B,3720.0000,
+INVOICE,CM,,53410121,,09/01/2012,3720,"Invoice-Private",,09/01/2012,09/10/2012,,53421333MO,-3803.9000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,930,930,"CR:Basic Service F... D.Baumann 201209: Baumann, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,1200,1200,"CR:Increase Room a... D.Baumann 201209: Baumann, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1590,1590,"CR:Resident Care -... D.Baumann 201209: Baumann, Doris",,,,,,,,,,,,,,,

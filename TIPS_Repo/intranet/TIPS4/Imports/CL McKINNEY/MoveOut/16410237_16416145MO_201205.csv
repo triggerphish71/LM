@@ -1,0 +1,5 @@
+BATCH,,201205,B,4590.0000,
+INVOICE,IN,,16410237,,05/02/2012,1955.0000,"Invoice-Private",,05/02/2012,05/02/2012,,16416145MO,-680.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,23,85.0000,1955.00,"Basic Service Fee - Studio for May: Hocutt, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,16410237,,05/02/2012,2635,"Invoice-Private",,05/02/2012,05/02/2012,,16416145MO,-680.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2635,2635,"CR:Basic Service F... J.Hocutt 201205: Hocutt, Johnnie",,,,,,,,,,,,,,,

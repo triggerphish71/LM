@@ -1,0 +1,8 @@
+BATCH,,201203,B,7718.0000,
+INVOICE,IN,,05510217,,03/08/2012,3626.0000,"Invoice-Private",,03/08/2012,03/08/2012,,05514285MO,-466.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,1,62.0000,62.00,"CR:Limited Term Di... M.Burney 201203: Burney, Maryella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202055,27,116.0000,3132.00,"Basic Service Fee - One Bedroom for Mar: Burney, Maryella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,27,16.0000,432.00,"Resident Care - Level 1 for Mar: Burney, Maryella",,,,,,,,,,,,,,,
+INVOICE,CM,,05510217,,03/08/2012,4092,"Invoice-Private",,03/08/2012,03/08/2012,,05514285MO,-466.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,3596,3596,"CR:Basic Service F... M.Burney 201203: Burney, Maryella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,496,496,"CR:Resident Care -... M.Burney 201203: Burney, Maryella",,,,,,,,,,,,,,,

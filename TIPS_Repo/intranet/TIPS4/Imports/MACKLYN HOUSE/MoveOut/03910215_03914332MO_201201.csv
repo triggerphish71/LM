@@ -1,0 +1,5 @@
+BATCH,,201201,B,1674.0000,
+INVOICE,IN,,03910215,,01/01/2012,837.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03914332MO,-2108.7000,,,,,,,,,,
+TRANSACTION,3320,010101039,31,27.0000,837.00,"Credit for Limited Term Discount: Roff, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,03910215,,01/01/2012,837,"Invoice-Private",,01/01/2012,01/10/2012,,03914332MO,-2108.7000,,,,,,,,,,
+TRANSACTION,3320,010101039,31,27,837,"Limited Term Discount: Roff, Jackie",,,,,,,,,,,,,,,

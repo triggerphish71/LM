@@ -1,0 +1,6 @@
+BATCH,,201303,B,3894.0000,
+INVOICE,IN,,50110165,,03/01/2013,1012.0000,"Invoice-Private",,03/01/2013,03/01/2013,,50114594MO,-1870.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,11,92.0000,1012.00,"Basic Service Fee - One Bedroom for Mar: Bivens, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,50110165,,03/01/2013,2882,"Invoice-Private",,03/01/2013,03/01/2013,,50114594MO,-1870.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2852,2852,"CR:Basic Service F... M.Bivens 201303: Bivens, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Bivens 201303: Bivens, Mary",,,,,,,,,,,,,,,

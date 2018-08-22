@@ -1,0 +1,8 @@
+BATCH,,201108,B,6229.0000,
+INVOICE,IN,,02210133,,08/16/2011,2112.0000,"Invoice-Private",,08/16/2011,08/16/2011,,02214061MO,-5990.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,16,115.0000,1840.00,"Basic Service Fee - One Bedroom Premium for Aug: Welch, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,16,17.0000,272.00,"Resident Care - Level 1 for Aug: Welch, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,02210133,,08/16/2011,4117,"Invoice-Private",,08/16/2011,08/16/2011,,02214061MO,-5990.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,3565,3565,"CR:Basic Service F... D.Welch 201108: Welch, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... D.Welch 201108: Welch, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,527,527,"CR:Resident Care -... D.Welch 201108: Welch, Doris",,,,,,,,,,,,,,,

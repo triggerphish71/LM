@@ -1,0 +1,8 @@
+BATCH,,201112,B,7656.0000,
+INVOICE,IN,,53210145,,12/10/2011,1860.0000,"Invoice-Private",,12/10/2011,12/10/2011,,53215104MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,10,109.0000,1090.00,"Basic Service Fee - Studio for Dec: Leisman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,10,77.0000,770.00,"Resident Care - Level 6 for Dec: Leisman, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,53210145,,12/10/2011,5796,"Invoice-Private",,12/10/2011,12/10/2011,,53215104MO,-3936.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3379,3379,"CR:Basic Service F... S.Leisman 201112: Leisman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... S.Leisman 201112: Leisman, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2387,2387,"CR:Resident Care -... S.Leisman 201112: Leisman, Shirley",,,,,,,,,,,,,,,

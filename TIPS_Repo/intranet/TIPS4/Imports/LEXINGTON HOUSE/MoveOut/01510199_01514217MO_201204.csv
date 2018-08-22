@@ -1,0 +1,8 @@
+BATCH,,201204,B,4173.9600,
+INVOICE,IN,,01510199,,04/06/2012,1170.6600,"Invoice-Private",,04/06/2012,04/06/2012,,01514217MO,-1832.6400,,,,,,,,,,
+TRANSACTION,3320,010103015,1,570.0000,570.00,"CR:Limited Term Di... E.Kolstad 201204: Kolstad, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,6,84.0000,504.00,"Basic Service Fee - Studio for Apr: Kolstad, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,6,16.1100,96.66,"Resident Care - Level 9 for Apr: Kolstad, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,01510199,,04/06/2012,3003.3,"Invoice-Private",,04/06/2012,04/06/2012,,01514217MO,-1832.6400,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2520,2520,"CR:Basic Service F... E.Kolstad 201204: Kolstad, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,483.3,483.3,"CR:Resident Care -... E.Kolstad 201204: Kolstad, Edith",,,,,,,,,,,,,,,

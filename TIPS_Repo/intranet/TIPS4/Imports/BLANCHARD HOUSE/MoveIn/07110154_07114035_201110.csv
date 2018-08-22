@@ -1,0 +1,4 @@
+BATCH,,201110,B,3048.0000,
+INVOICE,IN,,07110154,,10/14/2011,3048.0000,"MoveIn-Kramer. Clara",,10/14/2011,10/14/2011,,07114035,3048.0000,,,,,,,,,,
+TRANSACTION,3010,010305071,18,86.0000,1548,"Basic Service Fee - Studio         : Kramer. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305071,1,1500.0000,1500,"New Resident Fee: Kramer. Clara",,,,,,,,,,,,,,,

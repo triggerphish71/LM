@@ -1,0 +1,6 @@
+BATCH,,201212,B,5530.0000,
+INVOICE,IN,,07310257,,12/05/2012,5530.0000,"MoveIn-Chaplain. Gene",,12/05/2012,12/05/2012,,07315897,5530.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,27,97.0000,2619,"Basic Service Fee - Studio: Chaplain. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,27,33.0000,891,"Resident Care - Level 2: Chaplain. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Chaplain. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000.0000,2000,"New Resident Fee: Chaplain. Gene",,,,,,,,,,,,,,,

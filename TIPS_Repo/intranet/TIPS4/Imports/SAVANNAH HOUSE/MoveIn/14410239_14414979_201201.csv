@@ -1,0 +1,5 @@
+BATCH,,201201,B,4399.0000,
+INVOICE,IN,,14410239,,01/01/2012,4399.0000,"January_Rent-Holladay. Ralph",,01/01/2012,01/10/2012,,14414979,7273.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,31,125.0000,3875,"Basic Service Fee - One Bedroom: Holladay. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,31,16.0000,496,"Resident Care - Level 1: Holladay. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Holladay. Ralph",,,,,,,,,,,,,,,

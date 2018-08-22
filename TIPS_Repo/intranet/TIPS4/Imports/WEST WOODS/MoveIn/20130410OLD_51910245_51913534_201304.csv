@@ -1,0 +1,5 @@
+BATCH,,201304,B,4098.9500,
+INVOICE,IN,,51910245,,04/10/2013,4098.9500,"MoveIn-Fries. Valerie",,04/10/2013,04/10/2013,,51913534,4098.9500,,,,,,,,,,
+TRANSACTION,3010,010103519,21,87.0000,1827,"Basic Service Fee - Studio: Fries. Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103519,21,12.9500,271.95,"Resident Care - Level 7: Fries. Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103519,1,2000.0000,2000,"New Resident Fee: Fries. Valerie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,3355.0000,
+INVOICE,IN,,00110152,,04/14/2012,1110.0000,"Invoice-Private",,04/14/2012,04/14/2012,,00113225MO,-1135.0000,,,,,,,,,,
+TRANSACTION,3020,010101001,15,74.0000,1110.00,"Basic Service Fee - Studio for Apr: Riley, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,00110152,,04/14/2012,2245,"Invoice-Private",,04/14/2012,04/14/2012,,00113225MO,-1135.0000,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2220,2220,"CR:Basic Service F... H.Riley 201204: Riley, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... H.Riley 201204: Riley, Helen",,,,,,,,,,,,,,,

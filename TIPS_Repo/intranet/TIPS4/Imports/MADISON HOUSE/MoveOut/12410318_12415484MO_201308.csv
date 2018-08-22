@@ -1,0 +1,8 @@
+BATCH,,201308,B,8710.5200,
+INVOICE,IN,,12410318,,08/01/2013,3072.5800,"Invoice-Private",,08/01/2013,08/10/2013,,12415484MO,-2565.3600,,,,,,,,,,
+TRANSACTION,3020,010211124,17,83.0000,1411.00,"Basic Service Fee - Studio for Aug: Gallop Sr., John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,17,97.7400,1661.58,"Resident Care - Level 6+6 pts for Aug: Gallop Sr., John",,,,,,,,,,,,,,,
+INVOICE,CM,,12410318,,08/01/2013,5637.94,"Invoice-Private",,08/01/2013,08/10/2013,,12415484MO,-2565.3600,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2573,2573,"CR:Basic Service F... J.Gallop Sr. 201308: Gallop Sr., John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... J.Gallop Sr. 201308: Gallop Sr., John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,3029.94,3029.94,"CR:Resident Care -... J.Gallop Sr. 201308: Gallop Sr., John",,,,,,,,,,,,,,,

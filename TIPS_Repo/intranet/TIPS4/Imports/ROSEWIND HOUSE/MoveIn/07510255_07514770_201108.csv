@@ -1,0 +1,5 @@
+BATCH,,201108,B,3559.0000,
+INVOICE,IN,,07510255,,08/01/2011,3559.0000,"August_Rent-Naser. Virgil",,08/01/2011,08/10/2011,,07514770,5926.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,85.0000,2635,"Basic Service Fee - Studio         : Naser. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,29.0000,899,"Resident Care - Level 2: Naser. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Naser. Virgil",,,,,,,,,,,,,,,

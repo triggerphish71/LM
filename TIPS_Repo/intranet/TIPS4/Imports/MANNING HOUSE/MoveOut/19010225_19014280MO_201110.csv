@@ -1,0 +1,4 @@
+BATCH,,201110,B,3530.0000,
+INVOICE,CM,,19010225,,10/01/2011,3530,"Invoice-Private",,10/01/2011,10/10/2011,,19014280MO,-3530.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3503,3503,"CR:Basic Service F... M.Bacon 201110: Bacon, Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... M.Bacon 201110: Bacon, Mrs.",,,,,,,,,,,,,,,

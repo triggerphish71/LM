@@ -1,0 +1,7 @@
+BATCH,,201203,B,9857.3300,
+INVOICE,IN,,12510119,,03/01/2012,3621.0600,"Invoice-Private",,03/01/2012,03/10/2012,,12514198MO,-2615.2100,,,,,,,,,,
+TRANSACTION,3020,010211125,18,77.0000,1386.00,"Basic Service Fee - Studio for Mar: Peterson, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,18,124.1700,2235.06,"Resident Care - Level 6+23 pts for Mar: Peterson, Eula",,,,,,,,,,,,,,,
+INVOICE,CM,,12510119,,03/01/2012,6236.27,"Invoice-Private",,03/01/2012,03/10/2012,,12514198MO,-2615.2100,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2387,2387,"CR:Basic Service F... E.Peterson 201203: Peterson, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,3849.27,3849.27,"CR:Resident Care -... E.Peterson 201203: Peterson, Eula",,,,,,,,,,,,,,,

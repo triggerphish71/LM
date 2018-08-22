@@ -1,0 +1,6 @@
+BATCH,,201210,B,3027.0000,
+INVOICE,IN,,13310395,,10/24/2012,3027.0000,"MoveIn-Kostka. Marcella",,10/24/2012,10/24/2012,,13315576,6782.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,8,92.0000,736,"Basic Service Fee - Studio: Kostka. Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,8,32.0000,256,"Resident Care - Level 2: Kostka. Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Kostka. Marcella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Kostka. Marcella",,,,,,,,,,,,,,,

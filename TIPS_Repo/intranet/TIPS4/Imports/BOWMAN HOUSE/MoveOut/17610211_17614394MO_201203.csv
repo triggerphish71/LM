@@ -1,0 +1,8 @@
+BATCH,,201203,B,8709.5600,
+INVOICE,IN,,17610211,,03/19/2012,3392.1300,"Invoice-Private",,03/19/2012,03/19/2012,,17614394MO,-7071.2000,,,,,,,,,,
+TRANSACTION,3020,010315176,21,73.0000,1533.00,"Basic Service Fee - Studio for Mar: Mattmiller, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,21,88.5300,1859.13,"Resident Care - Level 6+7 pts for Mar: Mattmiller, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,17610211,,03/19/2012,5317.43,"Invoice-Private",,03/19/2012,03/19/2012,,17614394MO,-7071.2000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... M.Mattmiller 201203: Mattmiller, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... M.Mattmiller 201203: Mattmiller, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,2744.43,2744.43,"CR:Resident Care -... M.Mattmiller 201203: Mattmiller, Maxine",,,,,,,,,,,,,,,

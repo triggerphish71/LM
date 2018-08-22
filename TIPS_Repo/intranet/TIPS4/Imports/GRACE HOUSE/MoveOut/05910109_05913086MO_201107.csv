@@ -1,0 +1,6 @@
+BATCH,,201107,B,3306.0000,
+INVOICE,IN,,05910109,,07/01/2011,764.0000,"Invoice-Private",,07/01/2011,07/01/2011,,05913086MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3320,010101059,1,682.0000,682.00,"CR:Limited Term Di... H.Weick 201107: Weick, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101059,1,82.0000,82.00,"Basic Service Fee - Studio for Jul: Weick, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,05910109,,07/01/2011,2542,"Invoice-Private",,07/01/2011,07/01/2011,,05913086MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2542,2542,"CR:Basic Service F... H.Weick 201107: Weick, Henry",,,,,,,,,,,,,,,

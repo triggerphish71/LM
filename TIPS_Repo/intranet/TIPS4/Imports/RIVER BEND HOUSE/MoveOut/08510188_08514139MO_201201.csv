@@ -1,0 +1,7 @@
+BATCH,,201201,B,4080.0000,
+INVOICE,IN,,08510188,,01/09/2012,918.0000,"Invoice-Private",,01/09/2012,01/09/2012,,08514139MO,-2244.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,9,86.0000,774.00,"Basic Service Fee - Studio for Jan: Early, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,9,16.0000,144.00,"Resident Care - Level 1 for Jan: Early, Myrtle",,,,,,,,,,,,,,,
+INVOICE,CM,,08510188,,01/09/2012,3162,"Invoice-Private",,01/09/2012,01/09/2012,,08514139MO,-2244.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2666,2666,"CR:Basic Service F... M.Early 201201: Early, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,1,496,496,"CR:Resident Care -... M.Early 201201: Early, Myrtle",,,,,,,,,,,,,,,

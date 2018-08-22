@@ -1,0 +1,5 @@
+BATCH,,201301,B,4582.0000,
+INVOICE,IN,,02810236,,01/01/2013,4582.0000,"January_Rent-Tucker. Lucille",,01/01/2013,01/10/2013,,02815557,6224.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,31,122.0000,3782,"Basic Service Fee - One Bedroom: Tucker. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,31,25.0000,775,"Resident Care - Level 2: Tucker. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Tucker. Lucille",,,,,,,,,,,,,,,

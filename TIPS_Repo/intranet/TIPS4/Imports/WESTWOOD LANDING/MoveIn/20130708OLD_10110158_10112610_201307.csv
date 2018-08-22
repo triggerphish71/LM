@@ -1,0 +1,7 @@
+BATCH,,201307,B,4275.0000,
+INVOICE,IN,,10110158,,07/08/2013,4275.0000,"MoveIn-Marple. Violet",,07/08/2013,07/08/2013,,10112610,4275.0000,,,,,,,,,,
+TRANSACTION,3010,010305101,24,110.0000,2640,"Basic Service Fee- One Bedroom Premium: Marple. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305101,24,15.0000,360,"Resident Care - Level 1: Marple. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305101,1,1000.0000,1000,"New Resident Fee: Marple. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3130,010305101,1,125.0000,125,"Pendant Fee: Marple. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3213,010305101,1,150.0000,150,"Pet Fee: Marple. Violet",,,,,,,,,,,,,,,

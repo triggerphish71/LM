@@ -1,0 +1,8 @@
+BATCH,,201206,B,7297.0000,
+INVOICE,IN,,14910132,,06/13/2012,2197.0000,"Invoice-Private",,06/13/2012,06/13/2012,,14914699MO,-2903.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,13,122.0000,1586.00,"Basic Service Fee - One Bedroom for Jun: Bygness, Mavis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,13,47.0000,611.00,"Resident Care - Level 3 for Jun: Bygness, Mavis",,,,,,,,,,,,,,,
+INVOICE,CM,,14910132,,06/13/2012,5100,"Invoice-Private",,06/13/2012,06/13/2012,,14914699MO,-2903.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3660,3660,"CR:Basic Service F... M.Bygness 201206: Bygness, Mavis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... M.Bygness 201206: Bygness, Mavis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1410,1410,"CR:Resident Care -... M.Bygness 201206: Bygness, Mavis",,,,,,,,,,,,,,,

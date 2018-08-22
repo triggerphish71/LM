@@ -1,0 +1,7 @@
+BATCH,,201105,B,6422.0000,
+INVOICE,IN,,50410051,,05/07/2011,1183.0000,"Invoice-Private",,05/07/2011,05/07/2011,,50413364MO,-4056.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,7,108.0000,756.00,"Basic Service Fee - Studio Deluxe for May: Swanson, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,7,61.0000,427.00,"Resident Care - Level 4 for May: Swanson, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,50410051,,05/07/2011,5239,"Invoice-Private",,05/07/2011,05/07/2011,,50413364MO,-4056.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3348,3348,"CR:Basic Service F... G.Swanson 201105: Swanson, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,1891,1891,"CR:Resident Care -... G.Swanson 201105: Swanson, Grace",,,,,,,,,,,,,,,

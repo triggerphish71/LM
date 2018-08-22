@@ -1,0 +1,7 @@
+BATCH,,201202,B,70.0000,
+INVOICE,IN,,51710154,,02/01/2012,35.0000,"Invoice-Private",,02/01/2012,02/10/2012,,51712811MO,-4065.3100,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25.00,"Monthly Cable: Wedgeworth, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10.0000,10.00,"Pendant Fee: Wedgeworth, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,51710154,,02/01/2012,35,"Invoice-Private",,02/01/2012,02/10/2012,,51712811MO,-4065.3100,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"Credit for Monthly Cable: Wedgeworth, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"Credit for Pendant Fee: Wedgeworth, Martha",,,,,,,,,,,,,,,

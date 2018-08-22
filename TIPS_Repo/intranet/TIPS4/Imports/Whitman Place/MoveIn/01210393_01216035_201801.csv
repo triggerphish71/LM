@@ -1,0 +1,6 @@
+BATCH,,201801,B,3925.6700,
+INVOICE,IN,,01210393,,01/22/2018,3925.6700,"MoveIn-Walker. Dolores",,01/22/2018,01/22/2018,,01216035,7450.8700,,,,,,,,,,
+TRANSACTION,3010,010003012,10,96.0000,960,"Basic Service Fee - Studio: Walker. Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003012,10,29.9000,299,"Resident Care - Level 13: Walker. Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003012,1,2000.0000,2000,"Community Fee: Walker. Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003012,1,666.6667,666.6667,"Monthly Deferral Charge: Walker. Dolores",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,58.0000,
+INVOICE,IN,,01210237,,08/01/2012,29.0000,"Invoice-Private",,08/01/2012,08/10/2012,,01214038MO,-4495.8800,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Nash, Lorena",,,,,,,,,,,,,,,
+INVOICE,CM,,01210237,,08/01/2012,29,"Invoice-Private",,08/01/2012,08/10/2012,,01214038MO,-4495.8800,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Nash, Lorena",,,,,,,,,,,,,,,

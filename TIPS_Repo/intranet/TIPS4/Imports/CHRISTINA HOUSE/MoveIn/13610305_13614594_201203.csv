@@ -1,0 +1,5 @@
+BATCH,,201203,B,2355.0000,
+INVOICE,IN,,13610305,,03/08/2012,2355.0000,"MoveIn-Butler. Emma",,03/08/2012,03/08/2012,,13614594,2355.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,24,55.0000,1320,"Basic Service Fee - Studio: Butler. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Butler. Emma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Butler. Emma",,,,,,,,,,,,,,,

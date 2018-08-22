@@ -1,0 +1,6 @@
+BATCH,,201107,B,2710.0000,
+INVOICE,IN,,53510197,,07/27/2011,2710.0000,"MoveIn-Broeckert. Bernard",,07/27/2011,07/27/2011,,53513932,5742.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,5,97.0000,485,"Basic Service Fee - One Bedroom Del: Broeckert. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Broeckert. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Broeckert. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Broeckert. Bernard",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,4209.0000,
+INVOICE,IN,,11010347,,12/08/2011,4209.0000,"MoveIn-Jackson. Billy",,12/08/2011,12/08/2011,,11014743,4209.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,24,91.0000,2184,"B.Jackson: Basic Service Fee - Studio: Jackson. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Jackson. Billy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Jackson. Billy",,,,,,,,,,,,,,,

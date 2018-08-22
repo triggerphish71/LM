@@ -1,0 +1,7 @@
+BATCH,,201305,B,5356.0000,
+INVOICE,IN,,09910235,,05/21/2013,2163.0000,"Invoice-Private",,05/21/2013,05/21/2013,,09914526MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,21,60.0000,1260.00,"Basic Service Fee - Studio for May: Dilworth, Orvis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,21,43.0000,903.00,"Resident Care - Level 3 for May: Dilworth, Orvis",,,,,,,,,,,,,,,
+INVOICE,CM,,09910235,,05/21/2013,3193,"Invoice-Private",,05/21/2013,05/21/2013,,09914526MO,-4120.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,1860,1860,"CR:Basic Service F... O.Dilworth 201305: Dilworth, Orvis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,1333,1333,"CR:Resident Care -... O.Dilworth 201305: Dilworth, Orvis",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201208,B,3617.0000,
+INVOICE,IN,,03110345,,08/16/2012,3617.0000,"MoveIn-Garrison. Irene",,08/16/2012,08/16/2012,,03117001,7094.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,16,99.0000,1584,"Basic Service Fee - Studio: Garrison. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,16,16.0000,256,"Resident Care - Level 1: Garrison. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Garrison. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Garrison. Irene",,,,,,,,,,,,,,,

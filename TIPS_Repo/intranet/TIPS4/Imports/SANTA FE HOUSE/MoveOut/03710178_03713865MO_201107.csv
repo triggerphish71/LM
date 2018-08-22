@@ -1,0 +1,6 @@
+BATCH,,201107,B,2983.0000,
+INVOICE,IN,,03710178,,07/01/2011,50.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03713865MO,-8095.0000,,,,,,,,,,
+TRANSACTION,3150,010202037,1,50.0000,50.00,"Late Fee Adjustment: Wyatt, Susan",,,,,,,,,,,,,,,
+INVOICE,CM,,03710178,,07/01/2011,2933,"Invoice-Private",,07/01/2011,07/10/2011,,03713865MO,-8095.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2883,2883,"CR:Basic Service F... S.Wyatt 201107: Wyatt, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3150,010202037,1,50,50,"Late Fee Adjustment: Wyatt, Susan",,,,,,,,,,,,,,,

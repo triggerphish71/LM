@@ -1,0 +1,5 @@
+BATCH,,201803,B,4800.3000,
+INVOICE,IN,,15010259,,02/01/2018,4800.3000,"February_Rent-Hoffman. Viola",,02/01/2018,02/10/2018,,15017346,16476.9000,,,,,,,,,,
+TRANSACTION,3010,010012150,31,100.0000,3100,"Basic Service Fee- Studio Premium: Hoffman. Viola",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012150,31,54.0000,1674,"Resident Care - Level 3: Hoffman. Viola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012150,1,26.3000,26.3,"Monthly Cable: Hoffman. Viola",,,,,,,,,,,,,,,

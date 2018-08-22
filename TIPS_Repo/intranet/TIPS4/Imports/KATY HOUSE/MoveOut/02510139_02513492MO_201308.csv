@@ -1,0 +1,6 @@
+BATCH,,201308,B,1880.0000,
+INVOICE,IN,,02510139,,08/03/2013,165.0000,"Invoice-Private",,08/03/2013,08/03/2013,,02513492MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,3,55.0000,165.00,"Basic Service Fee - Studio for Aug: Morris, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,02510139,,08/03/2013,1715,"Invoice-Private",,08/03/2013,08/03/2013,,02513492MO,-1550.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,1705,1705,"CR:Basic Service F... R.Morris 201308: Morris, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3228,010202025,1,10,10,"CR:Sharps Disposal... R.Morris 201308: Morris, Ralph",,,,,,,,,,,,,,,

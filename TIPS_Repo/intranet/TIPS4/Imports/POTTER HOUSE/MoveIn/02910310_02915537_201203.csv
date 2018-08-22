@@ -1,0 +1,6 @@
+BATCH,,201203,B,1759.0000,
+INVOICE,IN,,02910310,,03/30/2012,1759.0000,"MoveIn-Rifenberg. Jim",,03/30/2012,03/30/2012,,02915537,5294.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,2,100.0000,200,"Basic Service Fee - Studio: Rifenberg. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,2,17.0000,34,"Resident Care - Level 1: Rifenberg. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Rifenberg. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Rifenberg. Jim",,,,,,,,,,,,,,,

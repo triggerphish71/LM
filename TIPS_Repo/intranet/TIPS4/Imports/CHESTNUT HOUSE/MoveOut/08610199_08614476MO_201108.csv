@@ -1,0 +1,7 @@
+BATCH,,201108,B,6270.0000,
+INVOICE,IN,,08610199,,08/07/2011,1155.0000,"Invoice-Private",,08/07/2011,08/07/2011,,08614476MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,7,86.0000,602.00,"Basic Service Fee - Studio for Aug: Frankenberry, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,7,79.0000,553.00,"Resident Care - Level 5 for Aug: Frankenberry, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,08610199,,08/07/2011,5115,"Invoice-Private",,08/07/2011,08/07/2011,,08614476MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2666,2666,"CR:Basic Service F... M.Frankenberry 201108: Frankenberry, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,2449,2449,"CR:Resident Care -... M.Frankenberry 201108: Frankenberry, Martha",,,,,,,,,,,,,,,

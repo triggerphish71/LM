@@ -1,0 +1,5 @@
+BATCH,,201201,B,70.0000,
+INVOICE,IN,,15210071,,01/01/2012,35.0000,"Invoice-Private",,01/01/2012,01/10/2012,,15213639MO,-2781.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35.00,"Monthly Cable: Fender, Vada",,,,,,,,,,,,,,,
+INVOICE,CM,,15210071,,01/01/2012,35,"Invoice-Private",,01/01/2012,01/10/2012,,15213639MO,-2781.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"Credit for Monthly Cable: Fender, Vada",,,,,,,,,,,,,,,

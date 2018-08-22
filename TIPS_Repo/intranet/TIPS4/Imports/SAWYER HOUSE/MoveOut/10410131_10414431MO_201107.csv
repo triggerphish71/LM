@@ -1,0 +1,5 @@
+BATCH,,201107,B,2108.0000,
+INVOICE,IN,,10410131,,07/01/2011,1054.0000,"Invoice-Private",,07/01/2011,07/10/2011,,10414431MO,-4101.0000,,,,,,,,,,
+TRANSACTION,3320,010101104,31,34.0000,1054.00,"Credit for Limited Term Discount: Klopolsky, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,10410131,,07/01/2011,1054,"Invoice-Private",,07/01/2011,07/10/2011,,10414431MO,-4101.0000,,,,,,,,,,
+TRANSACTION,3320,010101104,31,34,1054,"Limited Term Discount: Klopolsky, Louise",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201209,B,3699.0000,
+INVOICE,IN,,05610207,,09/14/2012,1632.0000,"Invoice-Private",,09/14/2012,09/14/2012,,05614558MO,-2570.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,24,68.0000,1632.00,"Basic Service Fee - Studio for Sep: Hickson, Jasper",,,,,,,,,,,,,,,
+INVOICE,CM,,05610207,,09/14/2012,2067,"Invoice-Private",,09/14/2012,09/14/2012,,05614558MO,-2570.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,2040,2040,"CR:Basic Service F... J.Hickson 201209: Hickson, Jasper",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... J.Hickson 201209: Hickson, Jasper",,,,,,,,,,,,,,,

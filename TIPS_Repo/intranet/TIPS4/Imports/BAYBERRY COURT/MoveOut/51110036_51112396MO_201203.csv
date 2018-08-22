@@ -1,0 +1,8 @@
+BATCH,,201203,B,7938.0000,
+INVOICE,IN,,51110036,,03/13/2012,2389.0000,"Invoice-Private",,03/13/2012,03/13/2012,,51112396MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,1,62.0000,62.00,"CR:Limited Term Di... G.Truiak 201203: Truiak, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310511,13,105.0000,1365.00,"Basic Service Fee - Studio for Mar: Truiak, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,13,74.0000,962.00,"Resident Care - Level 5 for Mar: Truiak, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,51110036,,03/13/2012,5549,"Invoice-Private",,03/13/2012,03/13/2012,,51112396MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... G.Truiak 201203: Truiak, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,2294,2294,"CR:Resident Care -... G.Truiak 201203: Truiak, Grace",,,,,,,,,,,,,,,

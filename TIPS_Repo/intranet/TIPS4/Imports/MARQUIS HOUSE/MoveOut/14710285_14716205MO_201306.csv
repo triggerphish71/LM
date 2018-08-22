@@ -1,0 +1,5 @@
+BATCH,,201306,B,5622.0000,
+INVOICE,CM,,14710285,,06/01/2013,5622,"Invoice-Private",,06/01/2013,06/10/2013,,14716205MO,-5622.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3060,3060,"CR:Basic Service F... C.King  III 201306: King  III, Clark",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... C.King  III 201306: King  III, Clark",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,2520,2520,"CR:Resident Care -... C.King  III 201306: King  III, Clark",,,,,,,,,,,,,,,

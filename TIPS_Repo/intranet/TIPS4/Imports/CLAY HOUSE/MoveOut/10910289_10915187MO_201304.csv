@@ -1,0 +1,5 @@
+BATCH,,201304,B,50.0000,
+INVOICE,IN,,10910289,,04/01/2013,25.0000,"Invoice-Private",,04/01/2013,04/10/2013,,10915187MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25.00,"Monthly Cable: Lapp, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,10910289,,04/01/2013,25,"Invoice-Private",,04/01/2013,04/10/2013,,10915187MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"Credit for Monthly Cable: Lapp, Marguerite",,,,,,,,,,,,,,,

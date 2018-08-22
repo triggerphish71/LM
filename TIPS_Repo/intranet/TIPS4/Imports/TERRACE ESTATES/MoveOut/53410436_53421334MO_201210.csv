@@ -1,0 +1,7 @@
+BATCH,,201210,B,184.0000,
+INVOICE,IN,,53410436,,10/01/2012,92.0000,"Invoice-Private",,10/01/2012,10/10/2012,,53421334MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Wogsland, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,2.0000,62.00,"Credit for Limited Term Discount: Wogsland, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,53410436,,10/01/2012,92,"Invoice-Private",,10/01/2012,10/10/2012,,53421334MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Wogsland, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,2,62,"Limited Term Discount: Wogsland, Shirley",,,,,,,,,,,,,,,

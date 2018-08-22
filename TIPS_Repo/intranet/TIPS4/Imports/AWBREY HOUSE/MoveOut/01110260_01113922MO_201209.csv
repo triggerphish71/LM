@@ -1,0 +1,5 @@
+BATCH,,201209,B,1740.0000,
+INVOICE,IN,,01110260,,09/01/2012,870.0000,"Invoice-Private",,09/01/2012,09/10/2012,,01113922MO,-5005.1000,,,,,,,,,,
+TRANSACTION,3320,010101011,30,29.0000,870.00,"Credit for Limited Term Discount: Whitcomb, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,01110260,,09/01/2012,870,"Invoice-Private",,09/01/2012,09/10/2012,,01113922MO,-5005.1000,,,,,,,,,,
+TRANSACTION,3320,010101011,30,29,870,"Limited Term Discount: Whitcomb, Donna",,,,,,,,,,,,,,,

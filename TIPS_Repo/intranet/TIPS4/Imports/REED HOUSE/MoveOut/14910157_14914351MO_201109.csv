@@ -1,0 +1,8 @@
+BATCH,,201109,B,5270.0000,
+INVOICE,IN,,14910157,,09/10/2011,1310.0000,"Invoice-Private",,09/10/2011,09/10/2011,,14914351MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,10,97.0000,970.00,"Basic Service Fee - Studio for Sep: Argotsinger, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,10,34.0000,340.00,"Resident Care - Level 2 for Sep: Argotsinger, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,14910157,,09/10/2011,3960,"Invoice-Private",,09/10/2011,09/10/2011,,14914351MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,2910,2910,"CR:Basic Service F... M.Argotsinger 201109: Argotsinger, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... M.Argotsinger 201109: Argotsinger, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1020,1020,"CR:Resident Care -... M.Argotsinger 201109: Argotsinger, Marilyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,3145.0000,
+INVOICE,IN,,17010273,,06/01/2011,3145.0000,"June_Rent-Knott. Irene",,06/01/2011,06/10/2011,,17014232,5794.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,30,90.0000,2700,"I.Knott: Basic Service Fee - Studio: Knott. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,30,14.0000,420,"I.Knott: Resident Care - Level 1: Knott. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Knott. Irene",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201106,B,5515.0000,
+INVOICE,IN,,13310327,,06/08/2011,1370.0000,"Invoice-Private",,06/08/2011,06/08/2011,,13314953MO,-2775.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,10,89.0000,890.00,"Basic Service Fee - Studio for Jun: Snyder, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,10,48.0000,480.00,"Resident Care - Level 3 for Jun: Snyder, Anna Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,13310327,,06/08/2011,4145,"Invoice-Private",,06/08/2011,06/08/2011,,13314953MO,-2775.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2670,2670,"CR:Basic Service F... A.Snyder 201106: Snyder, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... A.Snyder 201106: Snyder, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,1440,1440,"CR:Resident Care -... A.Snyder 201106: Snyder, Anna Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,9857.7900,
+INVOICE,IN,,13910080,,03/20/2012,3865.8000,"Invoice-Private",,03/20/2012,03/20/2012,,13916143MO,-7924.8900,,,,,,,,,,
+TRANSACTION,3020,010103139,20,102.0000,2040.00,"Basic Service Fee - Studio for Mar: White, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,20,91.2900,1825.80,"Resident Care - Level 51 for Mar: White, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,13910080,,03/20/2012,5991.99,"Invoice-Private",,03/20/2012,03/20/2012,,13916143MO,-7924.8900,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... K.White 201203: White, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,2829.99,2829.99,"CR:Resident Care -... K.White 201203: White, Kathryn",,,,,,,,,,,,,,,

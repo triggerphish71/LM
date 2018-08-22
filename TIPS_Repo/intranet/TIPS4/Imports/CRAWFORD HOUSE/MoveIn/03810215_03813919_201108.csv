@@ -1,0 +1,5 @@
+BATCH,,201108,B,4011.6000,
+INVOICE,IN,,03810215,,08/01/2011,4011.6000,"August_Rent-Spaldin. Eithel",,08/01/2011,08/10/2011,,03813919,8222.8000,,,,,,,,,,
+TRANSACTION,3010,010103038,31,81.0000,2511,"Basic Service Fee - Studio         : Spaldin. Eithel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,31,47.6000,1475.6,"Resident Care - Level 28: Spaldin. Eithel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Spaldin. Eithel",,,,,,,,,,,,,,,

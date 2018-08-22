@@ -1,0 +1,5 @@
+BATCH,,201211,B,1100.0000,
+INVOICE,IN,,01310199,,11/30/2012,1100.0000,"MoveIn-Adams. Alma",,11/30/2012,11/30/2012,,01314237,3360.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,1,72.0000,72,"A.Adams: Basic Service Fee - Studio: Adams. Alma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Adams. Alma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Adams. Alma",,,,,,,,,,,,,,,

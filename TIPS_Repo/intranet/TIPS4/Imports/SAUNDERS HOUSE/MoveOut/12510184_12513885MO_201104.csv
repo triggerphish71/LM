@@ -1,0 +1,6 @@
+BATCH,,201104,B,5090.0000,
+INVOICE,IN,,12510184,,04/25/2011,2870.0000,"Invoice-Private",,04/25/2011,04/25/2011,,12513885MO,-590.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,1,1020.0000,1020.00,"CR:Limited Term Di... K.Hurley 201104: Hurley, Kevin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211125,25,74.0000,1850.00,"Basic Service Fee - Studio for Apr: Hurley, Kevin",,,,,,,,,,,,,,,
+INVOICE,CM,,12510184,,04/25/2011,2220,"Invoice-Private",,04/25/2011,04/25/2011,,12513885MO,-590.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2220,2220,"CR:Basic Service F... K.Hurley 201104: Hurley, Kevin",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201206,B,4080.0000,
+INVOICE,IN,,03210253,,06/01/2012,300.0000,"Invoice-Private",,06/01/2012,06/10/2012,,03214910MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,300.0000,300.00,"CR:Limited Term Di... B.Pullen 201206: Pullen, Buddy",,,,,,,,,,,,,,,
+INVOICE,CM,,03210253,,06/01/2012,3780,"Invoice-Private",,06/01/2012,06/10/2012,,03214910MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... B.Pullen 201206: Pullen, Buddy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,960,960,"CR:Resident Care -... B.Pullen 201206: Pullen, Buddy",,,,,,,,,,,,,,,

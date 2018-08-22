@@ -1,0 +1,6 @@
+BATCH,,201301,B,3627.0000,
+INVOICE,IN,,04110215,,01/01/2013,124.0000,"Invoice-Private",,01/01/2013,01/10/2013,,04114713MO,-4159.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,1,124.0000,124.00,"CR:Limited Term Di... M.Hillger 201301: Hillger, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04110215,,01/01/2013,3503,"Invoice-Private",,01/01/2013,01/10/2013,,04114713MO,-4159.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... M.Hillger 201301: Hillger, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,961,961,"CR:Resident Care -... M.Hillger 201301: Hillger, Mary",,,,,,,,,,,,,,,

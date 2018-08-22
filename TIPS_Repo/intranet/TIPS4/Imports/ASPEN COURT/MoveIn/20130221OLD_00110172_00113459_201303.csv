@@ -1,0 +1,5 @@
+BATCH,,201303,B,2548.4000,
+INVOICE,IN,,00110172,,03/01/2013,2548.4000,"March_Rent-Bristow. Charles",,03/01/2013,03/10/2013,,00113459,3550.2000,,,,,,,,,,
+TRANSACTION,3010,010101001,31,74.0000,2294,"Basic Service Fee - Studio: Bristow. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,31,7.4000,229.4,"Resident Care - Level 4: Bristow. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Bristow. Charles",,,,,,,,,,,,,,,

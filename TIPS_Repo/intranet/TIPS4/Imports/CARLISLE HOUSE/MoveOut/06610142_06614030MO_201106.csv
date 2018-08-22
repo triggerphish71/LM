@@ -1,0 +1,7 @@
+BATCH,,201106,B,5490.0000,
+INVOICE,IN,,06610142,,06/01/2011,175.0000,"Invoice-Private",,06/01/2011,06/01/2011,,06614030MO,-5140.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,110.0000,110.00,"Basic Service Fee - Deluxe for Jun: Carman, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,65.0000,65.00,"Resident Care - Level 4 for Jun: Carman, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,06610142,,06/01/2011,5315,"Invoice-Private",,06/01/2011,06/01/2011,,06614030MO,-5140.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3300,3300,"CR:Basic Service F... M.Carman 201106: Carman, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2015,2015,"CR:Resident Care -... M.Carman 201106: Carman, Marie",,,,,,,,,,,,,,,

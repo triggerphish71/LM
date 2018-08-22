@@ -1,0 +1,8 @@
+BATCH,,201111,B,5442.0000,
+INVOICE,IN,,08510217,,11/18/2011,2472.0000,"Invoice-Private",,11/18/2011,11/18/2011,,08514116MO,-2854.0000,,,,,,,,,,
+TRANSACTION,3320,010305085,1,690.0000,690.00,"CR:Limited Term Di... M.Jackson 201111: Jackson, Marven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,18,16.0000,288.00,"Resident Care - Level 1 for Nov: Jackson, Marven",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,18,83.0000,1494.00,"Room and Board - Studio for Nov: Jackson, Marven",,,,,,,,,,,,,,,
+INVOICE,CM,,08510217,,11/18/2011,2970,"Invoice-Private",,11/18/2011,11/18/2011,,08514116MO,-2854.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,1,480,480,"CR:Resident Care -... M.Jackson 201111: Jackson, Marven",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,1,2490,2490,"CR:Room and Board ... M.Jackson 201111: Jackson, Marven",,,,,,,,,,,,,,,

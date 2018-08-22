@@ -1,0 +1,5 @@
+BATCH,,201211,B,56.0000,
+INVOICE,IN,,11510258,,11/01/2012,28.0000,"Invoice-Private",,11/01/2012,11/10/2012,,11514429MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Overstreet, James",,,,,,,,,,,,,,,
+INVOICE,CM,,11510258,,11/01/2012,28,"Invoice-Private",,11/01/2012,11/10/2012,,11514429MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Overstreet, James",,,,,,,,,,,,,,,

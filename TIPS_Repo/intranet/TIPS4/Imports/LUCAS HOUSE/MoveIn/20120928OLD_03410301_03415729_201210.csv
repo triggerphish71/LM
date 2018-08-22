@@ -1,0 +1,5 @@
+BATCH,,201210,B,3406.0000,
+INVOICE,IN,,03410301,,10/01/2012,3406.0000,"October_Rent-Wier. Una",,10/01/2012,10/10/2012,,03415729,5260.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,31,96.0000,2976,"Basic Service Fee - Studio: Wier. Una",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,31,13.0000,403,"Resident Care - Level 1: Wier. Una",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Wier. Una",,,,,,,,,,,,,,,

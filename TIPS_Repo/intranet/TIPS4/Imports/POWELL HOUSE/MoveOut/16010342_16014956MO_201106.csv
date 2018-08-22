@@ -1,0 +1,8 @@
+BATCH,,201106,B,7006.0000,
+INVOICE,IN,,16010342,,06/01/2011,1611.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16014956MO,-3784.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,9,96.0000,864.00,"Basic Service Fee - Studio for Jun: Shelby, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,9,83.0000,747.00,"Resident Care - Level 6 for Jun: Shelby, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,16010342,,06/01/2011,5395,"Invoice-Private",,06/01/2011,06/10/2011,,16014956MO,-3784.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,2880,2880,"CR:Basic Service F... P.Shelby 201106: Shelby, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... P.Shelby 201106: Shelby, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,2490,2490,"CR:Resident Care -... P.Shelby 201106: Shelby, Pauline",,,,,,,,,,,,,,,

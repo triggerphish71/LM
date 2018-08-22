@@ -1,0 +1,5 @@
+BATCH,,201301,B,4072.0000,
+INVOICE,IN,,12110315,,01/11/2013,4072.0000,"MoveIn-Johnson. Maradine",,01/11/2013,01/11/2013,,12116153,4072.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,21,97.0000,2037,"Basic Service Fee - Studio: Johnson. Maradine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Johnson. Maradine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Johnson. Maradine",,,,,,,,,,,,,,,

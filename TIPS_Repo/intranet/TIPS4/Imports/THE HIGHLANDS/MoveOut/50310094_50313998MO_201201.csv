@@ -1,0 +1,8 @@
+BATCH,,201201,B,8135.0000,
+INVOICE,IN,,50310094,,01/29/2012,3915.0000,"Invoice-Private",,01/29/2012,01/29/2012,,50313998MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,29,98.0000,2842.00,"Basic Service Fee - One Bedroom for Jan: Divine, Surene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,29,37.0000,1073.00,"Resident Care - Level 3 for Jan: Divine, Surene",,,,,,,,,,,,,,,
+INVOICE,CM,,50310094,,01/29/2012,4220,"Invoice-Private",,01/29/2012,01/29/2012,,50313998MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,3038,3038,"CR:Basic Service F... S.Divine 201201: Divine, Surene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... S.Divine 201201: Divine, Surene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1147,1147,"CR:Resident Care -... S.Divine 201201: Divine, Surene",,,,,,,,,,,,,,,

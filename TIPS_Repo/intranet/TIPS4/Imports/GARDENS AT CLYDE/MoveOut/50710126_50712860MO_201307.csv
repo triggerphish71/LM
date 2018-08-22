@@ -1,0 +1,5 @@
+BATCH,,201307,B,2601.0000,
+INVOICE,IN,,50710126,,07/01/2013,1020.0000,"Invoice-Private",,07/01/2013,07/10/2013,,50712860MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,20,51.0000,1020.00,"Basic Service Fee - Studio for Jul: Munson, Kimberley",,,,,,,,,,,,,,,
+INVOICE,CM,,50710126,,07/01/2013,1581,"Invoice-Private",,07/01/2013,07/10/2013,,50712860MO,-2142.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,1581,1581,"CR:Basic Service F... K.Munson 201307: Munson, Kimberley",,,,,,,,,,,,,,,

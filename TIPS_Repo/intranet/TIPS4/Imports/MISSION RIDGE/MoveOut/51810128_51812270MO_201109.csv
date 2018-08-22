@@ -1,0 +1,7 @@
+BATCH,,201109,B,7487.2000,
+INVOICE,IN,,51810128,,09/19/2011,2903.2000,"Invoice-Private",,09/19/2011,09/19/2011,,51812270MO,-6417.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,19,100.0000,1900.00,"Basic Service Fee - One Bedroom for Sep: Luth, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,19,52.8000,1003.20,"Resident Care - Level 32 for Sep: Luth, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,51810128,,09/19/2011,4584,"Invoice-Private",,09/19/2011,09/19/2011,,51812270MO,-6417.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,3000,3000,"CR:Basic Service F... D.Luth 201109: Luth, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,1584,1584,"CR:Resident Care -... D.Luth 201109: Luth, Dorothy",,,,,,,,,,,,,,,

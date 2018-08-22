@@ -1,0 +1,5 @@
+BATCH,,201209,B,3440.0000,
+INVOICE,IN,,07310246,,09/01/2012,3440.0000,"September_Rent-Wrenick. Phyllis",,09/01/2012,09/10/2012,,07315736,6372.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,30,97.0000,2910,"Basic Service Fee - Studio: Wrenick. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,30,17.0000,510,"Resident Care - Level 1: Wrenick. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Wrenick. Phyllis",,,,,,,,,,,,,,,

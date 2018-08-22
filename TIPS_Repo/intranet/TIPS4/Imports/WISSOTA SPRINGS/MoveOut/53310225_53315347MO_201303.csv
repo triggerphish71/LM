@@ -1,0 +1,7 @@
+BATCH,,201303,B,6943.0000,
+INVOICE,IN,,53310225,,03/30/2013,3390.0000,"Invoice-Private",,03/30/2013,03/30/2013,,53315347MO,-3603.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,30,113.0000,3390.00,"Basic Service Fee - One Bedroom for Mar: Koepl, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,53310225,,03/30/2013,3553,"Invoice-Private",,03/30/2013,03/30/2013,,53315347MO,-3603.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,3503,3503,"CR:Basic Service F... R.Koepl 201303: Koepl, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... R.Koepl 201303: Koepl, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... R.Koepl 201303: Koepl, Rosemary",,,,,,,,,,,,,,,

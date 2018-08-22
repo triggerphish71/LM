@@ -1,0 +1,5 @@
+BATCH,,201301,B,4700.0000,
+INVOICE,IN,,13210303,,01/05/2013,4700.0000,"MoveIn-Horak. Edith",,01/05/2013,01/05/2013,,13215758,4700.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,27,99.0000,2673,"Basic Service Fee - Studio: Horak. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Horak. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Horak. Edith",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,2116.0000,
+INVOICE,IN,,15110181,,07/01/2012,1058.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15113989MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Schroeder, Lloyd",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212151,31,33.0000,1023.00,"Credit for Limited Term Discount: Schroeder, Lloyd",,,,,,,,,,,,,,,
+INVOICE,CM,,15110181,,07/01/2012,1058,"Invoice-Private",,07/01/2012,07/10/2012,,15113989MO,-1456.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Schroeder, Lloyd",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212151,31,33,1023,"Limited Term Discount: Schroeder, Lloyd",,,,,,,,,,,,,,,

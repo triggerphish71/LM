@@ -1,0 +1,7 @@
+BATCH,,201108,B,633.6000,
+INVOICE,IN,,19310271,,08/01/2011,316.8000,"Invoice-Private",,08/01/2011,08/10/2011,,19314758MO,-6758.8000,,,,,,,,,,
+TRANSACTION,3241,010315193,31,10.0000,310.00,"HSG Meals: Dyksterhouse, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3019,010315193,1,6.8000,6.80,"Additional Service Charge: Dyksterhouse, Peter",,,,,,,,,,,,,,,
+INVOICE,CM,,19310271,,08/01/2011,316.8,"Invoice-Private",,08/01/2011,08/10/2011,,19314758MO,-6758.8000,,,,,,,,,,
+TRANSACTION,3241,010315193,31,10,310,"Credit for HSG Meals: Dyksterhouse, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3019,010315193,1,6.8,6.8,"Credit for Additional Service Charge: Dyksterhouse, Peter",,,,,,,,,,,,,,,

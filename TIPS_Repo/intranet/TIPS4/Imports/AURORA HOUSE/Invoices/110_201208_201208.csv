@@ -1,0 +1,117 @@
+BATCH,,201208,B,82780.0000,
+INVOICE,IN,,11010356,,08/01/2012,2821.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014929,0.0000
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Virginia Britt",,,,,,,,,,,,,,,
+INVOICE,CM,,11010356,,08/01/2012,961,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014929,0.0000
+TRANSACTION,3320,010107110,31,31,961,"Limited Term Discount: Britt Virginia",,,,,,,,,,,,,,,
+INVOICE,IN,,11010362,,07/01/2012,50.0000,"Invoice-Private",,07/01/2012,07/10/2012,,11014934,0.0000
+TRANSACTION,3150,010107110,1,50.0000,50.0000,"Late Fee Adjustment: Robert Schrock",,,,,,,,,,,,,,,
+INVOICE,IN,,11010362,,08/01/2012,2821.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014934,0.0000
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Robert Schrock",,,,,,,,,,,,,,,
+INVOICE,CM,,11010362,,07/01/2012,50,"CreditMemo-Private",,07/01/2012,07/10/2012,,11014934,0.0000
+TRANSACTION,3150,010107110,1,50,50,"Late Fee Adjustment: Schrock Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,11010362,,08/01/2012,1271,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014934,0.0000
+TRANSACTION,3320,010107110,31,41,1271,"Limited Term Discount: Schrock Robert",,,,,,,,,,,,,,,
+INVOICE,IN,,11010352,,08/01/2012,2846.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014927,0.0000
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Bernice Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Bernice Ellis",,,,,,,,,,,,,,,
+INVOICE,CM,,11010352,,08/01/2012,1116,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014927,0.0000
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Ellis Bernice",,,,,,,,,,,,,,,
+INVOICE,IN,,11010300,,08/01/2012,3280.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014919,0.0000
+TRANSACTION,3017,010107110,31,14.0000,434.0000,"Resident Care - Level 1: Joseille (Jo) Minnis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Joseille (Jo) Minnis",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Joseille (Jo) Minnis",,,,,,,,,,,,,,,
+INVOICE,CM,,11010300,,08/01/2012,775,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014919,0.0000
+TRANSACTION,3320,010107110,31,25,775,"Limited Term Discount: Minnis Joseille (Jo)",,,,,,,,,,,,,,,
+INVOICE,IN,,11010288,,08/01/2012,3280.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014918,0.0000
+TRANSACTION,3017,010107110,31,14.0000,434.0000,"Resident Care - Level 1: George Gilpatrick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: George Gilpatrick",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: George Gilpatrick",,,,,,,,,,,,,,,
+INVOICE,CM,,11010288,,08/01/2012,341,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014918,0.0000
+TRANSACTION,3320,010107110,31,11,341,"Limited Term Discount: Gilpatrick George",,,,,,,,,,,,,,,
+INVOICE,IN,,11010277,,06/01/2012,144.0000,"Invoice-Private",,06/01/2012,06/10/2012,,11014916,0.0000
+TRANSACTION,3017,010107110,12,12.0000,144.0000,"Service : lvl 1 to lvl 2 - 6/19/12: Cathrine Kolish",,,,,,,,,,,,,,,
+INVOICE,IN,,11010277,,08/01/2012,3652.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014916,0.0000
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Cathrine Kolish",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,26.0000,806.0000,"Resident Care - Level 2: Cathrine Kolish",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Cathrine Kolish",,,,,,,,,,,,,,,
+INVOICE,CM,,11010277,,08/01/2012,1116,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014916,0.0000
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Kolish Cathrine",,,,,,,,,,,,,,,
+INVOICE,IN,,11010333,,08/01/2012,2511.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014923,0.0000
+TRANSACTION,3010,010107110,31,30.0000,930.0000,"Basic Service Fee - Second Resident: Earl Swanson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,51.0000,1581.0000,"Resident Care - Level 4: Earl Swanson",,,,,,,,,,,,,,,
+INVOICE,CM,,11010333,,08/01/2012,620,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014923,0.0000
+TRANSACTION,3320,010107110,31,20,620,"Limited Term Discount: Swanson Earl",,,,,,,,,,,,,,,
+INVOICE,IN,,11010354,,08/01/2012,3310.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014928,0.0000
+TRANSACTION,3017,010107110,31,14.0000,434.0000,"Resident Care - Level 1: Wilfred Paquette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Wilfred Paquette",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107110,1,30.0000,30.0000,"Pendant Fee: Wilfred Paquette",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Room and Board - Studio: Wilfred Paquette",,,,,,,,,,,,,,,
+INVOICE,IN,,11010334,,08/01/2012,4086.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014924,0.0000
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Marcella Swanson",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,40.0000,1240.0000,"Resident Care - Level 3: Marcella Swanson",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Marcella Swanson",,,,,,,,,,,,,,,
+INVOICE,CM,,11010334,,08/01/2012,1116,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014924,0.0000
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Swanson Marcella",,,,,,,,,,,,,,,
+INVOICE,IN,,11010357,,08/01/2012,930.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014930,0.0000
+TRANSACTION,3010,010107110,31,30.0000,930.0000,"Basic Service Fee - Second Resident: Herbert Britt",,,,,,,,,,,,,,,
+INVOICE,CM,,11010357,,08/01/2012,124,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014930,0.0000
+TRANSACTION,3320,010107110,31,4,124,"Limited Term Discount: Britt Herbert",,,,,,,,,,,,,,,
+INVOICE,IN,,11010364,,08/01/2012,930.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014939,930.0000
+TRANSACTION,3010,010107110,31,30.0000,930.0000,"Basic Service Fee - Second Resident: Virgil Scantlin Jr",,,,,,,,,,,,,,,
+INVOICE,IN,,11010339,,08/01/2012,4743.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014925,0.0000
+TRANSACTION,3017,010107110,31,62.0000,1922.0000,"Resident Care - Level 5: Lucilia Marie Donoho",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Room and Board - Studio: Lucilia Marie Donoho",,,,,,,,,,,,,,,
+INVOICE,CM,,11010339,,08/01/2012,1116,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014925,0.0000
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Donoho Lucilia Marie",,,,,,,,,,,,,,,
+INVOICE,IN,,11010317,,08/01/2012,3627.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014920,0.0000
+TRANSACTION,3017,010107110,31,26.0000,806.0000,"Resident Care - Level 2: LaVerne Macdonald",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: LaVerne Macdonald",,,,,,,,,,,,,,,
+INVOICE,CM,,11010317,,08/01/2012,775,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014920,0.0000
+TRANSACTION,3320,010107110,31,25,775,"Limited Term Discount: Macdonald LaVerne",,,,,,,,,,,,,,,
+INVOICE,IN,,11010359,,08/01/2012,3224.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014932,0.0000
+TRANSACTION,3010,010107110,31,104.0000,3224.0000,"Basic Service Fee - One Bedroom: Hertha Meyer",,,,,,,,,,,,,,,
+INVOICE,CM,,11010359,,08/01/2012,744,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014932,0.0000
+TRANSACTION,3320,010107110,31,24,744,"Limited Term Discount: Meyer Hertha",,,,,,,,,,,,,,,
+INVOICE,IN,,11010360,,08/01/2012,4061.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014933,0.0000
+TRANSACTION,3017,010107110,31,40.0000,1240.0000,"Resident Care - Level 3: Francis Panik",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Francis Panik",,,,,,,,,,,,,,,
+INVOICE,CM,,11010360,,08/01/2012,1271,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014933,0.0000
+TRANSACTION,3320,010107110,31,41,1271,"Limited Term Discount: Panik Francis",,,,,,,,,,,,,,,
+INVOICE,IN,,11010328,,08/01/2012,4061.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014922,0.0000
+TRANSACTION,3017,010107110,31,40.0000,1240.0000,"Resident Care - Level 3: Liz DeHaven",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Liz DeHaven",,,,,,,,,,,,,,,
+INVOICE,CM,,11010328,,08/01/2012,62,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014922,0.0000
+TRANSACTION,3320,010107110,31,2,62,"Limited Term Discount: DeHaven Liz",,,,,,,,,,,,,,,
+INVOICE,IN,,11010349,,08/01/2012,3310.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014926,0.0000
+TRANSACTION,3017,010107110,31,14.0000,434.0000,"Resident Care - Level 1: Pansy Clendenin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Pansy Clendenin",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107110,1,30.0000,30.0000,"Pendant Fee: Pansy Clendenin",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Room and Board - Studio: Pansy Clendenin",,,,,,,,,,,,,,,
+INVOICE,CM,,11010349,,08/01/2012,1116,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014926,0.0000
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Clendenin Pansy",,,,,,,,,,,,,,,
+INVOICE,IN,,11010358,,08/01/2012,2846.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014931,0.0000
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Marshall McGuire",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Marshall McGuire",,,,,,,,,,,,,,,
+INVOICE,CM,,11010358,,08/01/2012,1271,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014931,0.0000
+TRANSACTION,3320,010107110,31,41,1271,"Limited Term Discount: McGuire Marshall",,,,,,,,,,,,,,,
+INVOICE,IN,,11010281,,08/01/2012,2846.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014917,0.0000
+TRANSACTION,3260,010107110,1,25.0000,25.0000,"Monthly Cable: Patsy Edwards",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Room and Board - Studio: Patsy Edwards",,,,,,,,,,,,,,,
+INVOICE,CM,,11010281,,08/01/2012,1116,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014917,0.0000
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Edwards Patsy",,,,,,,,,,,,,,,
+INVOICE,IN,,11010254,,08/01/2012,3658.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014914,0.0000
+TRANSACTION,3017,010107110,31,14.0000,434.0000,"Resident Care - Level 1: Louise Baker",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,104.0000,3224.0000,"Basic Service Fee - One Bedroom: Louise Baker",,,,,,,,,,,,,,,
+INVOICE,CM,,11010254,,06/01/2012,156,"CreditMemo-Private",,06/01/2012,06/10/2012,,11014914,0.0000
+TRANSACTION,3017,010107110,13,12,156,"Service : lvl 1 to lvl 1 - 6/18/12: Baker Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,11010254,,08/01/2012,62,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014914,0.0000
+TRANSACTION,3320,010107110,31,2,62,"Limited Term Discount: Baker Louise",,,,,,,,,,,,,,,
+INVOICE,IN,,11010269,,07/01/2012,50.0000,"Invoice-Private",,07/01/2012,07/10/2012,,11014915,0.0000
+TRANSACTION,3150,010107110,1,50.0000,50.0000,"Late Fee Adjustment: Lucricia Manzo",,,,,,,,,,,,,,,
+INVOICE,IN,,11010269,,08/01/2012,4402.0000,"Invoice-Private",,08/01/2012,08/10/2012,,11014915,0.0000
+TRANSACTION,3017,010107110,31,51.0000,1581.0000,"Resident Care - Level 4: Lucricia Manzo",,,,,,,,,,,,,,,
+TRANSACTION,3010,010107110,31,91.0000,2821.0000,"Basic Service Fee - Studio: Lucricia Manzo",,,,,,,,,,,,,,,
+INVOICE,CM,,11010269,,07/01/2012,50,"CreditMemo-Private",,07/01/2012,07/10/2012,,11014915,0.0000
+TRANSACTION,3150,010107110,1,50,50,"Late Fee Adjustment: Manzo Lucricia",,,,,,,,,,,,,,,
+INVOICE,CM,,11010269,,08/01/2012,62,"CreditMemo-Private",,08/01/2012,08/10/2012,,11014915,0.0000
+TRANSACTION,3320,010107110,31,2,62,"Limited Term Discount: Manzo Lucricia",,,,,,,,,,,,,,,

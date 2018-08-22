@@ -1,0 +1,6 @@
+BATCH,,201109,B,6440.0000,
+INVOICE,IN,,14610162,,09/28/2011,3140.0000,"Invoice-Private",,09/28/2011,09/28/2011,,14614212MO,-3508.0000,,,,,,,,,,
+TRANSACTION,3320,010309146,1,60.0000,60.00,"CR:Limited Term Di... D.Pegues 201109: Pegues, Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309146,28,110.0000,3080.00,"Basic Service Fee - One Bedroom for Sep: Pegues, Dolores",,,,,,,,,,,,,,,
+INVOICE,CM,,14610162,,09/28/2011,3300,"Invoice-Private",,09/28/2011,09/28/2011,,14614212MO,-3508.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,3300,3300,"CR:Basic Service F... D.Pegues 201109: Pegues, Dolores",,,,,,,,,,,,,,,

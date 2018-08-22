@@ -1,0 +1,8 @@
+BATCH,,201112,B,7896.0000,
+INVOICE,IN,,08610175,,12/27/2011,4149.0000,"Invoice-Private",,12/27/2011,12/27/2011,,08614606MO,-3535.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,558.0000,558.00,"CR:Limited Term Di... C.Kinsey 201112: Kinsey, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305086,27,86.0000,2322.00,"Basic Service Fee - Studio for Dec: Kinsey, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,27,47.0000,1269.00,"Service : lvl 0 to lvl 3 - 12/9/11 for Dec: Kinsey, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,08610175,,12/27/2011,3747,"Invoice-Private",,12/27/2011,12/27/2011,,08614606MO,-3535.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2666,2666,"CR:Basic Service F... C.Kinsey 201112: Kinsey, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1081,1081,"CR:Service : lvl 0... C.Kinsey 201112: Kinsey, Charlotte",,,,,,,,,,,,,,,

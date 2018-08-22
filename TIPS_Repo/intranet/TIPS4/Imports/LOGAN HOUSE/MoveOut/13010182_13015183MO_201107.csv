@@ -1,0 +1,7 @@
+BATCH,,201107,B,1976.0000,
+INVOICE,IN,,13010182,,07/01/2011,988.0000,"Invoice-Private",,07/01/2011,07/10/2011,,13015183MO,-5614.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Siemanski, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310130,31,31.0000,961.00,"Credit for Limited Term Discount: Siemanski, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,13010182,,07/01/2011,988,"Invoice-Private",,07/01/2011,07/10/2011,,13015183MO,-5614.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Siemanski, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310130,31,31,961,"Limited Term Discount: Siemanski, Ann",,,,,,,,,,,,,,,

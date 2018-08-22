@@ -1,0 +1,5 @@
+BATCH,,201112,B,4520.0000,
+INVOICE,CM,,11210267,,12/01/2011,4520,"Invoice-Private",,12/01/2011,12/10/2011,,11215739MO,-5125.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,2914,2914,"CR:Basic Service F... M.Miller 201112: Miller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25,25,"CR:Monthly Cable... M.Miller 201112: Miller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1581,1581,"CR:Resident Care -... M.Miller 201112: Miller, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,5701.0000,
+INVOICE,IN,,52910175,,03/13/2013,1677.0000,"Invoice-Private",,03/13/2013,03/13/2013,,52913519MO,-2347.0000,,,,,,,,,,
+TRANSACTION,3037,010319529,13,15.0000,195.00,"Private Care Rate Adjustment for Mar: Buchholz, Mariele",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,13,114.0000,1482.00,"Room and Board - One Bedroom for Mar: Buchholz, Mariele",,,,,,,,,,,,,,,
+INVOICE,CM,,52910175,,03/13/2013,4024,"Invoice-Private",,03/13/2013,03/13/2013,,52913519MO,-2347.0000,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... M.Buchholz 201303: Buchholz, Mariele",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319529,1,465,465,"CR:Private Care Ra... M.Buchholz 201303: Buchholz, Mariele",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,1,3534,3534,"CR:Room and Board ... M.Buchholz 201303: Buchholz, Mariele",,,,,,,,,,,,,,,

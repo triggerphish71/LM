@@ -1,0 +1,8 @@
+BATCH,,201301,B,3965.0000,
+INVOICE,IN,,20410215,,01/04/2013,85.0000,"Invoice-Private",,01/04/2013,01/04/2013,,20413353MO,-3795.0000,,,,,,,,,,
+TRANSACTION,3020,010216204,1,73.0000,73.00,"Companion Two Bedroom for Jan: Haggerty, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,1,12.0000,12.00,"Resident Care - Level 1 for Jan: Haggerty, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20410215,,01/04/2013,3880,"Invoice-Private",,01/04/2013,01/04/2013,,20413353MO,-3795.0000,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2044,2044,"CR:Companion Two B... J.Haggerty 201301: Haggerty, James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216204,1,1500,1500,"CR:New Resident Fe... J.Haggerty 201301: Haggerty, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,1,336,336,"CR:Resident Care -... J.Haggerty 201301: Haggerty, James",,,,,,,,,,,,,,,

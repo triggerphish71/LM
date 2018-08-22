@@ -1,0 +1,5 @@
+BATCH,,201203,B,744.0000,
+INVOICE,IN,,50110200,,03/01/2012,372.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50113937MO,-2514.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,12.0000,372.00,"Credit for Limited Term Discount: Marcoccia, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,50110200,,03/01/2012,372,"Invoice-Private",,03/01/2012,03/10/2012,,50113937MO,-2514.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,12,372,"Limited Term Discount: Marcoccia, Irene",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201109,B,2040.0000,
+INVOICE,IN,,01610262,,09/01/2011,60.0000,"Invoice-Private",,09/01/2011,09/10/2011,,01615479MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3320,010202016,1,60.0000,60.00,"CR:Limited Term Di... R.Chapman 201109: Chapman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01610262,,09/01/2011,1980,"Invoice-Private",,09/01/2011,09/10/2011,,01615479MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,1020,1020,"CR:Basic Service F... R.Chapman 201109: Chapman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,960,960,"CR:Resident Care -... R.Chapman 201109: Chapman, Ruth",,,,,,,,,,,,,,,

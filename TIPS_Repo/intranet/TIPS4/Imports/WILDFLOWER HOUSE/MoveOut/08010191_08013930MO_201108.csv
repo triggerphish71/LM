@@ -1,0 +1,7 @@
+BATCH,,201108,B,1790.0000,
+INVOICE,IN,,08010191,,08/01/2011,895.0000,"Invoice-Private",,08/01/2011,08/10/2011,,08013930MO,-2306.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Schmoeller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,28.0000,868.00,"Credit for Limited Term Discount: Schmoeller, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08010191,,08/01/2011,895,"Invoice-Private",,08/01/2011,08/10/2011,,08013930MO,-2306.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Schmoeller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,28,868,"Limited Term Discount: Schmoeller, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,333.3400,
+INVOICE,IN,,02710127,,11/01/2012,166.6700,"Invoice-Private",,11/01/2012,11/10/2012,,02714167MO,-2756.6700,,,,,,,,,,
+TRANSACTION,1113,010202027,1,166.6700,166.67,"Monthly Deferral Charge: Williams, Norvall",,,,,,,,,,,,,,,
+INVOICE,CM,,02710127,,11/01/2012,166.67,"Invoice-Private",,11/01/2012,11/10/2012,,02714167MO,-2756.6700,,,,,,,,,,
+TRANSACTION,1113,010202027,1,166.67,166.67,"Credit for Monthly Deferral Charge: Williams, Norvall",,,,,,,,,,,,,,,

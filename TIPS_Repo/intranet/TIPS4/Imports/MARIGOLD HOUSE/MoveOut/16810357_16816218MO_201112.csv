@@ -1,0 +1,7 @@
+BATCH,,201112,B,5375.0000,
+INVOICE,IN,,16810357,,12/10/2011,1500.0000,"Invoice-Private",,12/10/2011,12/10/2011,,16816218MO,-6436.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,12,112.0000,1344.00,"Basic Service Fee - One BR Premium for Dec: Mulea, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,12,13.0000,156.00,"Resident Care - Level 1 for Dec: Mulea, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,16810357,,12/10/2011,3875,"Invoice-Private",,12/10/2011,12/10/2011,,16816218MO,-6436.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3472,3472,"CR:Basic Service F... J.Mulea 201112: Mulea, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... J.Mulea 201112: Mulea, Joe",,,,,,,,,,,,,,,

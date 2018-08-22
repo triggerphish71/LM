@@ -1,0 +1,6 @@
+BATCH,,201201,B,3751.0000,
+INVOICE,IN,,04510236,,01/18/2012,1368.0000,"Invoice-Private",,01/18/2012,01/18/2012,,04513875MO,-3246.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,18,76.0000,1368.00,"Basic Service Fee - Studio for Jan: Metts, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,04510236,,01/18/2012,2383,"Invoice-Private",,01/18/2012,01/18/2012,,04513875MO,-3246.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2356,2356,"CR:Basic Service F... F.Metts 201201: Metts, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... F.Metts 201201: Metts, Floyd",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201110,B,1054.0000,
+INVOICE,IN,,02610200,,10/01/2011,1027.0000,"Invoice-Private",,10/01/2011,10/10/2011,,02614487MO,759.0000,,,,,,,,,,
+TRANSACTION,3299,010202026,1,1000.0000,1000.00,"Repair and Maintenance-Damages 4230: Berry, SQ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27.00,"Monthly Cable: Berry, SQ",,,,,,,,,,,,,,,
+INVOICE,CM,,02610200,,10/01/2011,27,"Invoice-Private",,10/01/2011,10/10/2011,,02614487MO,759.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"Credit for Monthly Cable: Berry, SQ",,,,,,,,,,,,,,,

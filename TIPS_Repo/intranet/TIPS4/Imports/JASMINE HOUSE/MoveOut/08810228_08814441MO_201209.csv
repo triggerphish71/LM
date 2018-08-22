@@ -1,0 +1,7 @@
+BATCH,,201209,B,2880.0000,
+INVOICE,IN,,08810228,,09/01/2012,1440.0000,"Invoice-Private",,09/01/2012,09/10/2012,,08814441MO,554.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,47.0000,1410.00,"Credit for Limited Term Discount: Kelley, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30.0000,30.00,"Pendant Fee: Kelley, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,08810228,,09/01/2012,1440,"Invoice-Private",,09/01/2012,09/10/2012,,08814441MO,554.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,47,1410,"Limited Term Discount: Kelley, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107088,1,30,30,"Credit for Pendant Fee: Kelley, Karen",,,,,,,,,,,,,,,

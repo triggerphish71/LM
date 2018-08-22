@@ -1,0 +1,5 @@
+BATCH,,201212,B,434.0000,
+INVOICE,IN,,15410251,,12/01/2012,217.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15415153MO,-2695.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,31,7.0000,217.00,"Credit for Two Room Rental Discount: Mueller, Verda",,,,,,,,,,,,,,,
+INVOICE,CM,,15410251,,12/01/2012,217,"Invoice-Private",,12/01/2012,12/10/2012,,15415153MO,-2695.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,31,7,217,"Two Room Rental Discount: Mueller, Verda",,,,,,,,,,,,,,,

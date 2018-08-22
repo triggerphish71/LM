@@ -1,0 +1,5 @@
+BATCH,,201307,B,84.0000,
+INVOICE,IN,,14710256,,07/01/2013,42.0000,"Invoice-Private",,07/01/2013,07/10/2013,,14716198MO,-9499.7400,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Komacek, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,14710256,,07/01/2013,42,"Invoice-Private",,07/01/2013,07/10/2013,,14716198MO,-9499.7400,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Komacek, Albert",,,,,,,,,,,,,,,

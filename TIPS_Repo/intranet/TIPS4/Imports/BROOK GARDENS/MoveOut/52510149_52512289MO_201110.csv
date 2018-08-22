@@ -1,0 +1,7 @@
+BATCH,,201110,B,3904.0000,
+INVOICE,IN,,52510149,,10/01/2011,122.0000,"Invoice-Private",,10/01/2011,10/01/2011,,52512289MO,-3660.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,107.0000,107.00,"Basic Service Fee - Studio for Oct: Asche, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,15.0000,15.00,"Resident Care - Level 1 for Oct: Asche, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,52510149,,10/01/2011,3782,"Invoice-Private",,10/01/2011,10/01/2011,,52512289MO,-3660.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3317,3317,"CR:Basic Service F... M.Asche 201110: Asche, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,465,465,"CR:Resident Care -... M.Asche 201110: Asche, Marie",,,,,,,,,,,,,,,

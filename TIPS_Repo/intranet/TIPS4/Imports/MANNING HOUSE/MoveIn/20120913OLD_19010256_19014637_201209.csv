@@ -1,0 +1,6 @@
+BATCH,,201209,B,3529.0000,
+INVOICE,IN,,19010256,,09/13/2012,3529.0000,"MoveIn-Shockley. Lucy",,09/13/2012,09/13/2012,,19014637,3529.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,18,98.0000,1764,"Basic Service Fee - Studio: Shockley. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,18,41.0000,738,"Resident Care - Level 3: Shockley. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Shockley. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Shockley. Lucy",,,,,,,,,,,,,,,

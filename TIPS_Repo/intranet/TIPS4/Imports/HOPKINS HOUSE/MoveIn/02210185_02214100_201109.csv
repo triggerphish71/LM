@@ -1,0 +1,6 @@
+BATCH,,201109,B,2900.0000,
+INVOICE,IN,,02210185,,09/24/2011,2900.0000,"MoveIn-Lawson. Melba",,09/24/2011,09/24/2011,,02214100,6800.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,7,108.0000,756,"M.Lawson: Basic Service Fee- One Bedroom Prem: Lawson. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,7,17.0000,119,"M.Lawson: Resident Care - Level 1: Lawson. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Lawson. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Lawson. Melba",,,,,,,,,,,,,,,

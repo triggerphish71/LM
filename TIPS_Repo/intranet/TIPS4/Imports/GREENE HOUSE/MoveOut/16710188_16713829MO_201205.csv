@@ -1,0 +1,8 @@
+BATCH,,201205,B,5035.0000,
+INVOICE,IN,,16710188,,05/03/2012,572.0000,"Invoice-Private",,05/03/2012,05/03/2012,,16713829MO,-3891.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,4,91.0000,364.00,"Basic Service Fee - Studio for May: Geiger, Caroline (Carrie)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,4,52.0000,208.00,"Resident Care - Level 4 for May: Geiger, Caroline (Carrie)",,,,,,,,,,,,,,,
+INVOICE,CM,,16710188,,05/03/2012,4463,"Invoice-Private",,05/03/2012,05/03/2012,,16713829MO,-3891.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2821,2821,"CR:Basic Service F... C.Geiger 201205: Geiger, Caroline (Carrie)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... C.Geiger 201205: Geiger, Caroline (Carrie)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1612,1612,"CR:Resident Care -... C.Geiger 201205: Geiger, Caroline (Carrie)",,,,,,,,,,,,,,,

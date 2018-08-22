@@ -1,0 +1,7 @@
+BATCH,,201805,B,160.3600,
+INVOICE,IN,,15110194,,05/01/2018,80.1800,"Invoice-Private",,05/01/2018,05/10/2018,,15116801MO,-8015.7700,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.7700,36.77,"Monthly Cable: Baxter, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010012151,1,43.4080,43.41,"Pendant Fee: Baxter, George",,,,,,,,,,,,,,,
+INVOICE,CM,,15110194,,05/01/2018,80.18,"Invoice-Private",,05/01/2018,05/10/2018,,15116801MO,-8015.7700,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.77,36.77,"Credit for Monthly Cable: Baxter, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010012151,1,43.408,43.408,"Credit for Pendant Fee: Baxter, George",,,,,,,,,,,,,,,

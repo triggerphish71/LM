@@ -1,0 +1,8 @@
+BATCH,,201111,B,7364.0000,
+INVOICE,IN,,06510072,,11/04/2011,1634.0000,"Invoice-Private",,11/04/2011,11/04/2011,,06514445MO,-4096.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,870.0000,870.00,"CR:Limited Term Di... M.Tonjes 201111: Tonjes, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,4,99.0000,396.00,"Basic Service Fee - Studio for Nov: Tonjes, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,4,92.0000,368.00,"Resident Care - Level 6 for Nov: Tonjes, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,06510072,,11/04/2011,5730,"Invoice-Private",,11/04/2011,11/04/2011,,06514445MO,-4096.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2970,2970,"CR:Basic Service F... M.Tonjes 201111: Tonjes, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,2760,2760,"CR:Resident Care -... M.Tonjes 201111: Tonjes, Marjorie",,,,,,,,,,,,,,,

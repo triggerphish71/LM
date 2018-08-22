@@ -1,0 +1,6 @@
+BATCH,,201106,B,2639.0000,
+INVOICE,IN,,17810298,,06/01/2011,84.0000,"Invoice-Private",,06/01/2011,06/01/2011,,17815616MO,-2471.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,84.0000,84.00,"Basic Service Fee - Studio for Jun: Ganey, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,17810298,,06/01/2011,2555,"Invoice-Private",,06/01/2011,06/01/2011,,17815616MO,-2471.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2520,2520,"CR:Basic Service F... C.Ganey 201106: Ganey, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... C.Ganey 201106: Ganey, Charles",,,,,,,,,,,,,,,

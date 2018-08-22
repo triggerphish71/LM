@@ -1,0 +1,8 @@
+BATCH,,201711,B,7626.2700,
+INVOICE,IN,,50510174,,11/20/2017,3040.0000,"Invoice-Private",,11/20/2017,11/20/2017,,50514763MO,-1546.2700,,,,,,,,,,
+TRANSACTION,3020,010005505,20,75.0000,1500.00,"Basic Service Fee - One Bedroom  for Nov: Riffe, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,20,77.0000,1540.00,"Resident Care - Level 5  for Nov: Riffe, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,50510174,,11/20/2017,4586.27,"Invoice-Private",,11/20/2017,11/20/2017,,50514763MO,-1546.2700,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2250,2250,"CR:Basic Service F... N.Riffe 201711: Riffe, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010005505,1,26.27,26.27,"CR:Monthly Cable... N.Riffe 201711: Riffe, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,2310,2310,"CR:Resident Care -... N.Riffe 201711: Riffe, Norma",,,,,,,,,,,,,,,

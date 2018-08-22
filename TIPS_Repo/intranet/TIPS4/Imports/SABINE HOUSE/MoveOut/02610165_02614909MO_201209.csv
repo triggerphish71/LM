@@ -1,0 +1,7 @@
+BATCH,,201209,B,3837.0000,
+INVOICE,IN,,02610165,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02614909MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,1,60.0000,60.00,"CR:Limited Term Di... G.Borell 201209: Borell, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,02610165,,09/01/2012,3777,"Invoice-Private",,09/01/2012,09/10/2012,,02614909MO,-4057.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... G.Borell 201209: Borell, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,390,390,"CR:Resident Care -... G.Borell 201209: Borell, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3360,3360,"CR:Room and Board ... G.Borell 201209: Borell, Gerald",,,,,,,,,,,,,,,

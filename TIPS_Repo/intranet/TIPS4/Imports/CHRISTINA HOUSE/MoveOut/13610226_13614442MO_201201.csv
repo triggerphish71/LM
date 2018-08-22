@@ -1,0 +1,8 @@
+BATCH,,201201,B,3818.0000,
+INVOICE,IN,,13610226,,01/08/2012,776.0000,"Invoice-Private",,01/08/2012,01/08/2012,,13614442MO,-2266.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,8,66.0000,528.00,"Basic Service Fee - One Bedroom for Jan: Robinson, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,8,31.0000,248.00,"Resident Care - Level 2 for Jan: Robinson, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,13610226,,01/08/2012,3042,"Invoice-Private",,01/08/2012,01/08/2012,,13614442MO,-2266.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2046,2046,"CR:Basic Service F... E.Robinson 201201: Robinson, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... E.Robinson 201201: Robinson, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... E.Robinson 201201: Robinson, Edward",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201202,B,5600.0000,
+INVOICE,IN,,13310296,,02/01/2012,1540.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13315246MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,11,92.0000,1012.00,"Basic Service Fee - Studio for Feb: Jones, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,11,48.0000,528.00,"Resident Care - Level 3 for Feb: Jones, Emma",,,,,,,,,,,,,,,
+INVOICE,CM,,13310296,,02/01/2012,4060,"Invoice-Private",,02/01/2012,02/10/2012,,13315246MO,-2520.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2668,2668,"CR:Basic Service F... E.Jones 201202: Jones, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,1392,1392,"CR:Resident Care -... E.Jones 201202: Jones, Emma",,,,,,,,,,,,,,,

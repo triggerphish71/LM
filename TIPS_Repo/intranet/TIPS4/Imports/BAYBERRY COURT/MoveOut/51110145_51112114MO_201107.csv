@@ -1,0 +1,5 @@
+BATCH,,201107,B,54.0000,
+INVOICE,IN,,51110145,,07/01/2011,27.0000,"Invoice-Private",,07/01/2011,07/10/2011,,51112114MO,-2463.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Neal, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,51110145,,07/01/2011,27,"Invoice-Private",,07/01/2011,07/10/2011,,51112114MO,-2463.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Neal, Joanne",,,,,,,,,,,,,,,

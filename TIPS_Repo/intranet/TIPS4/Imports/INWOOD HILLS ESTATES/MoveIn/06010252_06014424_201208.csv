@@ -1,0 +1,5 @@
+BATCH,,201208,B,3636.0000,
+INVOICE,IN,,06010252,,08/01/2012,3636.0000,"August_Rent-Hanson. Fred",,08/01/2012,08/10/2012,,06014424,7032.0000,,,,,,,,,,
+TRANSACTION,3010,010206060,31,90.0000,2790,"F.Hanson: Basic Service Fee - Studio: Hanson. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010206060,31,26.0000,806,"F.Hanson: Resident Care - Level 2: Hanson. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40,"Monthly Cable: Hanson. Fred",,,,,,,,,,,,,,,

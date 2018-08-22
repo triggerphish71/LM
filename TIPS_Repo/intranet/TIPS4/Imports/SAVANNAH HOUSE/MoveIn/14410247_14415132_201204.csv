@@ -1,0 +1,6 @@
+BATCH,,201204,B,3799.0000,
+INVOICE,IN,,14410247,,04/20/2012,3799.0000,"MoveIn-Owens. Ezell",,04/20/2012,04/20/2012,,14415132,8818.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,11,106.0000,1166,"Basic Service Fee - Studio: Owens. Ezell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,11,55.0000,605,"Resident Care - Level 4: Owens. Ezell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Owens. Ezell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308144,1,2000.0000,2000,"New Resident Fee: Owens. Ezell",,,,,,,,,,,,,,,

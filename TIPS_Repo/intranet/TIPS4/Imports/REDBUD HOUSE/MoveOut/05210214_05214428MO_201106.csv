@@ -1,0 +1,8 @@
+BATCH,,201106,B,3675.0000,
+INVOICE,IN,,05210214,,06/01/2011,768.0000,"Invoice-Private",,06/01/2011,06/10/2011,,05214428MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,8,79.0000,632.00,"Basic Service Fee - Studio for Jun: Pressler, Sydney",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,8,17.0000,136.00,"Resident Care - Level 1 for Jun: Pressler, Sydney",,,,,,,,,,,,,,,
+INVOICE,CM,,05210214,,06/01/2011,2907,"Invoice-Private",,06/01/2011,06/10/2011,,05214428MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2370,2370,"CR:Basic Service F... S.Pressler 201106: Pressler, Sydney",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... S.Pressler 201106: Pressler, Sydney",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,510,510,"CR:Resident Care -... S.Pressler 201106: Pressler, Sydney",,,,,,,,,,,,,,,

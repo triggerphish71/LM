@@ -1,0 +1,6 @@
+BATCH,,201203,B,3071.0000,
+INVOICE,IN,,13210283,,03/23/2012,3071.0000,"MoveIn-Clarke. Henry",,03/23/2012,03/23/2012,,13215387,6578.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,9,99.0000,891,"H.Clarke: Basic Service Fee - Studio: Clarke. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,9,17.0000,153,"H.Clarke: Resident Care - Level 1: Clarke. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Clarke. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Clarke. Henry",,,,,,,,,,,,,,,

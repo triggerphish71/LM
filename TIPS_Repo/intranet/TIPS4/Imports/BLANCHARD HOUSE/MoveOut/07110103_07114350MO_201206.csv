@@ -1,0 +1,7 @@
+BATCH,,201206,B,8418.0000,
+INVOICE,IN,,07110103,,06/16/2012,2928.0000,"Invoice-Private",,06/16/2012,06/16/2012,,07114350MO,-8235.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,16,117.0000,1872.00,"Basic Service Fee - One Bedroom for Jun: Prater, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,16,66.0000,1056.00,"Resident Care - Level 4 for Jun: Prater, Henrietta",,,,,,,,,,,,,,,
+INVOICE,CM,,07110103,,06/16/2012,5490,"Invoice-Private",,06/16/2012,06/16/2012,,07114350MO,-8235.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,3510,3510,"CR:Basic Service F... H.Prater 201206: Prater, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,1980,1980,"CR:Resident Care -... H.Prater 201206: Prater, Henrietta",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,8448.0000,
+INVOICE,IN,,14010217,,03/30/2012,4140.0000,"Invoice-Private",,03/30/2012,03/30/2012,,14013732MO,-4338.0000,,,,,,,,,,
+TRANSACTION,3027,010309140,30,33.0000,990.00,"Resident Care - Level 2 for Mar: Davis, Gerald ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309140,30,105.0000,3150.00,"Room and Board - One Bedroom for Mar: Davis, Gerald ",,,,,,,,,,,,,,,
+INVOICE,CM,,14010217,,03/30/2012,4308,"Invoice-Private",,03/30/2012,03/30/2012,,14013732MO,-4338.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... G.Davis 201203: Davis, Gerald ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1023,1023,"CR:Resident Care -... G.Davis 201203: Davis, Gerald ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309140,1,3255,3255,"CR:Room and Board ... G.Davis 201203: Davis, Gerald ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,4880.0000,
+INVOICE,IN,,12310222,,11/10/2012,1220.0000,"Invoice-Private",,11/10/2012,11/10/2012,,12315683MO,-2440.0000,,,,,,,,,,
+TRANSACTION,3027,010211123,10,19.0000,190.00,"Resident Care - Level 1 for Nov: Williams, Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211123,10,103.0000,1030.00,"Room and Board - Studio for Nov: Williams, Edwin",,,,,,,,,,,,,,,
+INVOICE,CM,,12310222,,11/10/2012,3660,"Invoice-Private",,11/10/2012,11/10/2012,,12315683MO,-2440.0000,,,,,,,,,,
+TRANSACTION,3027,010211123,1,570,570,"CR:Resident Care -... E.Williams 201211: Williams, Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3090,3090,"CR:Room and Board ... E.Williams 201211: Williams, Edwin",,,,,,,,,,,,,,,

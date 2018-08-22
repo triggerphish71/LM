@@ -1,0 +1,6 @@
+BATCH,,201307,B,4183.0000,
+INVOICE,IN,,53610232,,07/01/2013,4183.0000,"July_Rent-Hendrickson. Roy",,07/01/2013,07/10/2013,,53614065,8004.0000,,,,,,,,,,
+TRANSACTION,3010,010319536,31,88.0000,2728,"Basic Service Fee - Studio: Hendrickson. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319536,31,45.0000,1395,"Resident Care - Level 3: Hendrickson. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35,"Monthly Cable: Hendrickson. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25.0000,25,"Pendant Fee: Hendrickson. Roy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,5684.0000,
+INVOICE,IN,,13110282,,08/17/2012,2088.0000,"Invoice-Private",,08/17/2012,08/17/2012,,13114563MO,-4988.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,18,100.0000,1800.00,"Basic Service Fee - Studio for Aug: Loftin, Nell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,18,16.0000,288.00,"Resident Care - Level 1 for Aug: Loftin, Nell",,,,,,,,,,,,,,,
+INVOICE,CM,,13110282,,08/17/2012,3596,"Invoice-Private",,08/17/2012,08/17/2012,,13114563MO,-4988.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... N.Loftin 201208: Loftin, Nell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... N.Loftin 201208: Loftin, Nell",,,,,,,,,,,,,,,

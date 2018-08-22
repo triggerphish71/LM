@@ -1,0 +1,7 @@
+BATCH,,201208,B,6325.0000,
+INVOICE,IN,,16810313,,08/24/2012,2760.0000,"Invoice-Private",,08/24/2012,08/24/2012,,16816860MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,24,94.0000,2256.00,"Basic Service Fee - Studio Deluxe for Aug: Weil, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,24,21.0000,504.00,"Resident Care - Level 2 for Aug: Weil, Ben",,,,,,,,,,,,,,,
+INVOICE,CM,,16810313,,08/24/2012,3565,"Invoice-Private",,08/24/2012,08/24/2012,,16816860MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2914,2914,"CR:Basic Service F... B.Weil 201208: Weil, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,651,651,"CR:Resident Care -... B.Weil 201208: Weil, Ben",,,,,,,,,,,,,,,

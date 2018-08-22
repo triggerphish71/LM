@@ -1,0 +1,5 @@
+BATCH,,201111,B,10.0000,
+INVOICE,IN,,09410262,,11/01/2011,5.0000,"Invoice-Private",,11/01/2011,11/10/2011,,09415644MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3228,010107094,1,5.0000,5.00,"Sharps Disposal - 1 Per Day: Shaw, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,09410262,,11/01/2011,5,"Invoice-Private",,11/01/2011,11/10/2011,,09415644MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3228,010107094,1,5,5,"Credit for Sharps Disposal - 1 Per Day: Shaw, Norma",,,,,,,,,,,,,,,

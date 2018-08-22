@@ -1,0 +1,8 @@
+BATCH,,201108,B,8863.0000,
+INVOICE,IN,,14510282,,08/16/2011,3008.0000,"Invoice-Private",,08/16/2011,08/16/2011,,14515106MO,-8514.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,16,119.0000,1904.00,"Basic Service Fee - One Bedroom for Aug: Blackman, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,16,69.0000,1104.00,"Resident Care - Level 5 for Aug: Blackman, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,14510282,,08/16/2011,5855,"Invoice-Private",,08/16/2011,08/16/2011,,14515106MO,-8514.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3689,3689,"CR:Basic Service F... S.Blackman 201108: Blackman, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... S.Blackman 201108: Blackman, Sarah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2139,2139,"CR:Resident Care -... S.Blackman 201108: Blackman, Sarah",,,,,,,,,,,,,,,

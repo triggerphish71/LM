@@ -1,0 +1,8 @@
+BATCH,,201209,B,5520.0000,
+INVOICE,IN,,20610230,,09/01/2012,2160.0000,"Invoice-Private",,09/01/2012,09/10/2012,,20612846MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3010,010214206,1,480.0000,480.00,"CR:Private BSF Dai... J.Gunter 201209: Gunter, James D.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,15,21.0000,315.00,"Resident Care - Level 2 for Sep: Gunter, James D.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,15,91.0000,1365.00,"Room and Board - Studio for Sep: Gunter, James D.",,,,,,,,,,,,,,,
+INVOICE,CM,,20610230,,09/01/2012,3360,"Invoice-Private",,09/01/2012,09/10/2012,,20612846MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,630,630,"CR:Resident Care -... J.Gunter 201209: Gunter, James D.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2730,2730,"CR:Room and Board ... J.Gunter 201209: Gunter, James D.",,,,,,,,,,,,,,,

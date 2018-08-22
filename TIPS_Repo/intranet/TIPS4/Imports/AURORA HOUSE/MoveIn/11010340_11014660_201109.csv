@@ -1,0 +1,5 @@
+BATCH,,201109,B,3535.0000,
+INVOICE,IN,,11010340,,09/01/2011,3535.0000,"September_Rent-Earle. Harrie",,09/01/2011,09/10/2011,,11014660,6262.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,30,91.0000,2730,"Basic Service Fee - Studio         : Earle. Harrie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,30,26.0000,780,"Resident Care - Level 2: Earle. Harrie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Earle. Harrie",,,,,,,,,,,,,,,

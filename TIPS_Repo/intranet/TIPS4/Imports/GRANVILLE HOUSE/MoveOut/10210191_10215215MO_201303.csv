@@ -1,0 +1,7 @@
+BATCH,,201303,B,9504.0000,
+INVOICE,IN,,10210191,,03/23/2013,4048.0000,"Invoice-Private",,03/23/2013,03/23/2013,,10215215MO,-4858.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,23,111.0000,2553.00,"Room and Board - Studio for Mar: Brown, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,23,65.0000,1495.00,"Swan Personal Care - L4 for Mar: Brown, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,10210191,,03/23/2013,5456,"Invoice-Private",,03/23/2013,03/23/2013,,10215215MO,-4858.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Room and Board ... R.Brown 201303: Brown, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2015,2015,"CR:Swan Personal C... R.Brown 201303: Brown, Ruth",,,,,,,,,,,,,,,

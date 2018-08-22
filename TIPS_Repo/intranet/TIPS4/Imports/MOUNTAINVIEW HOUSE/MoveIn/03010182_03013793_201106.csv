@@ -1,0 +1,6 @@
+BATCH,,201106,B,4600.0000,
+INVOICE,IN,,03010182,,05/31/2011,1600.0000,"MoveIn-Curran. Bernandine",,05/31/2011,05/31/2011,,03013793,4600.0000,,,,,,,,,,
+TRANSACTION,3014,010103030,1,100.0000,100,"B.Curran: Basic Service Fee - One Bedroom: Curran. Bernandine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,1500.0000,1500,"New Resident Fee: Curran. Bernandine",,,,,,,,,,,,,,,
+INVOICE,IN,,03010182,,06/01/2011,3000.0000,"June_Rent-Curran. Bernandine",,06/01/2011,06/10/2011,,03013793,4600.0000,,,,,,,,,,
+TRANSACTION,3010,010103030,30,100.0000,3000,"B.Curran: Basic Service Fee - One Bedroom: Curran. Bernandine",,,,,,,,,,,,,,,

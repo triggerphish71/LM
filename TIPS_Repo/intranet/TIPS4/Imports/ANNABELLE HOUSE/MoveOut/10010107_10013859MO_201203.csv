@@ -1,0 +1,6 @@
+BATCH,,201203,B,1938.3200,
+INVOICE,IN,,10010107,,03/01/2012,18.8400,"Invoice-Medicaid",,03/01/2012,03/01/2012,,10013859MO,-1900.6400,,,,,,,,,,
+TRANSACTION,3021,010104100,1,18.8400,18.84,"Medicaid Room & Board for Mar: Jones, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,10010107,,03/01/2012,1919.48,"Invoice-Medicaid",,03/01/2012,03/01/2012,,10013859MO,-1900.6400,,,,,,,,,,
+TRANSACTION,3021,010104100,1,584,584,"CR:Medicaid Room &... E.Jones 201203: Jones, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104100,1,1335.48,1335.48,"CR:State Medicaid... E.Jones 201203: Jones, Edna",,,,,,,,,,,,,,,

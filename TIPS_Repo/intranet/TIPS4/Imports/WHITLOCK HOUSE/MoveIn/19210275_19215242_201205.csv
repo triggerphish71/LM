@@ -1,0 +1,5 @@
+BATCH,,201205,B,3320.0000,
+INVOICE,IN,,19210275,,05/22/2012,3320.0000,"MoveIn-thompson. william",,05/22/2012,05/22/2012,,19215242,7280.0000,,,,,,,,,,
+TRANSACTION,3010,010309192,10,114.0000,1140,"Basic Service Fee - Studio: thompson. william",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,10,18.0000,180,"Resident Care - Level 1: thompson. william",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309192,1,2000.0000,2000,"New Resident Fee: thompson. william",,,,,,,,,,,,,,,

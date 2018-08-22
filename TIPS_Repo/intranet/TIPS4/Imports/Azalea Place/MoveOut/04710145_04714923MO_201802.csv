@@ -1,0 +1,7 @@
+BATCH,,201802,B,7650.0000,
+INVOICE,IN,,04710145,,02/22/2018,3366.0000,"Invoice-Private",,02/22/2018,02/22/2018,,04714923MO,82.0000,,,,,,,,,,
+TRANSACTION,3020,010002047,22,88.0000,1936.00,"Basic Service Fee - One Bedroom  for Feb: Garner, Ora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002047,22,65.0000,1430.00,"Resident Care - Level 4  for Feb: Garner, Ora",,,,,,,,,,,,,,,
+INVOICE,CM,,04710145,,02/22/2018,4284,"Invoice-Private",,02/22/2018,02/22/2018,,04714923MO,82.0000,,,,,,,,,,
+TRANSACTION,3020,010002047,1,2464,2464,"CR:Basic Service F... O.Garner 201802: Garner, Ora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002047,1,1820,1820,"CR:Resident Care -... O.Garner 201802: Garner, Ora",,,,,,,,,,,,,,,

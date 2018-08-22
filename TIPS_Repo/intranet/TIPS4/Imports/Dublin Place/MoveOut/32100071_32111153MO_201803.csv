@@ -1,0 +1,7 @@
+BATCH,,201803,B,4257.0000,
+INVOICE,IN,,32100071,,03/12/2018,1188.0000,"Invoice-Private",,03/12/2018,03/12/2018,,32111153MO,-1881.0000,,,,,,,,,,
+TRANSACTION,3027,070016321,12,27.0000,324.00,"Resident Care - Level 2  for Mar: Graham, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,070016321,12,72.0000,864.00,"Studio  for Mar: Graham, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,32100071,,03/12/2018,3069,"Invoice-Private",,03/12/2018,03/12/2018,,32111153MO,-1881.0000,,,,,,,,,,
+TRANSACTION,3027,070016321,1,837,837,"CR:Resident Care -... E.Graham 201803: Graham, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,070016321,1,2232,2232,"CR:Studio... E.Graham 201803: Graham, Evelyn",,,,,,,,,,,,,,,

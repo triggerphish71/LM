@@ -1,0 +1,5 @@
+BATCH,,201212,B,1488.0000,
+INVOICE,IN,,03310245,,12/01/2012,744.0000,"Invoice-Private",,12/01/2012,12/10/2012,,03316820MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,31,24.0000,744.00,"Credit for Limited Term Discount: Woodard, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03310245,,12/01/2012,744,"Invoice-Private",,12/01/2012,12/10/2012,,03316820MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,31,24,744,"Limited Term Discount: Woodard, Betty",,,,,,,,,,,,,,,

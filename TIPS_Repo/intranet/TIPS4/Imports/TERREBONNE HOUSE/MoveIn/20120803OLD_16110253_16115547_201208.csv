@@ -1,0 +1,6 @@
+BATCH,,201208,B,3918.0000,
+INVOICE,IN,,16110253,,07/27/2012,1190.0000,"MoveIn-Hodges. Wanita",,07/27/2012,07/27/2012,,16115547,3918.0000,,,,,,,,,,
+TRANSACTION,3014,010313161,5,88.0000,440,"Basic Service Fee - Studio: Hodges. Wanita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313161,1,750.0000,750,"New Resident Fee: Hodges. Wanita",,,,,,,,,,,,,,,
+INVOICE,IN,,16110253,,08/01/2012,2728.0000,"August_Rent-Hodges. Wanita",,08/01/2012,08/10/2012,,16115547,3918.0000,,,,,,,,,,
+TRANSACTION,3010,010313161,31,88.0000,2728,"Basic Service Fee - Studio: Hodges. Wanita",,,,,,,,,,,,,,,

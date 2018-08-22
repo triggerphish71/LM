@@ -1,0 +1,5 @@
+BATCH,,201108,B,5208.0000,
+INVOICE,IN,,06210215,,08/01/2011,2325.0000,"Invoice-Private",,08/01/2011,08/10/2011,,06213567MO,-558.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,25,93.0000,2325.00,"Basic Service Fee - One Bedroom for Aug: Long, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,06210215,,08/01/2011,2883,"Invoice-Private",,08/01/2011,08/10/2011,,06213567MO,-558.0000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2883,2883,"CR:Basic Service F... C.Long 201108: Long, Charlotte",,,,,,,,,,,,,,,

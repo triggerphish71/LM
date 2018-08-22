@@ -1,0 +1,7 @@
+BATCH,,201309,B,130.0000,
+INVOICE,IN,,50310282,,09/01/2013,65.0000,"Invoice-Private",,09/01/2013,09/10/2013,,50315088MO,-1553.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Brown, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,30.0000,30.00,"Pendant Fee: Brown, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,50310282,,09/01/2013,65,"Invoice-Private",,09/01/2013,09/10/2013,,50315088MO,-1553.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Brown, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,30,30,"Credit for Pendant Fee: Brown, Carolyn",,,,,,,,,,,,,,,

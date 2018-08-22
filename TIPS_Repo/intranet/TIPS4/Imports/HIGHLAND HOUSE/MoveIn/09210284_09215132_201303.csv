@@ -1,0 +1,5 @@
+BATCH,,201303,B,3142.0000,
+INVOICE,IN,,09210284,,03/15/2013,3142.0000,"MoveIn-Fyffe. Earl",,03/15/2013,03/15/2013,,09215132,6922.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,17,78.0000,1326,"Basic Service Fee - Studio: Fyffe. Earl",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,17,48.0000,816,"Resident Care - Level 3: Fyffe. Earl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,1000.0000,1000,"New Resident Fee: Fyffe. Earl",,,,,,,,,,,,,,,

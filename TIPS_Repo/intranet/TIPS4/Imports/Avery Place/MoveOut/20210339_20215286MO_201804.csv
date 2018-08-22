@@ -1,0 +1,8 @@
+BATCH,,201804,B,3268.0000,
+INVOICE,IN,,20210339,,04/04/2018,448.0000,"Invoice-Private",,04/04/2018,04/04/2018,,20215286MO,-5286.0000,,,,,,,,,,
+TRANSACTION,3017,010016202,1,15.0000,15.00,"Level: 1  to  Level: 3  - on 04/02: Griffeth, Euelle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010016202,3,39.0000,117.00," Level: 3 : Griffeth, Euelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010016202,4,79.0000,316.00,"Studio  for Apr: Griffeth, Euelle",,,,,,,,,,,,,,,
+INVOICE,CM,,20210339,,04/04/2018,2820,"Invoice-Private",,04/04/2018,04/04/2018,,20215286MO,-5286.0000,,,,,,,,,,
+TRANSACTION,3027,010016202,1,450,450,"CR:Resident Care -... E.Griffeth 201804: Griffeth, Euelle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010016202,1,2370,2370,"CR:Studio... E.Griffeth 201804: Griffeth, Euelle",,,,,,,,,,,,,,,

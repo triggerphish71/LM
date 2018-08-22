@@ -1,0 +1,7 @@
+BATCH,,201105,B,2070.0000,
+INVOICE,IN,,08510209,,05/14/2011,644.0000,"Invoice-Private",,05/14/2011,05/14/2011,,08513968MO,-782.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,14,30.0000,420.00,"Basic Service Fee - Second Resident for May: Stroth, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,14,16.0000,224.00,"Resident Care - Level 1 for May: Stroth, June",,,,,,,,,,,,,,,
+INVOICE,CM,,08510209,,05/14/2011,1426,"Invoice-Private",,05/14/2011,05/14/2011,,08513968MO,-782.0000,,,,,,,,,,
+TRANSACTION,3020,010305085,1,930,930,"CR:Basic Service F... J.Stroth 201105: Stroth, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305085,1,496,496,"CR:Resident Care -... J.Stroth 201105: Stroth, June",,,,,,,,,,,,,,,

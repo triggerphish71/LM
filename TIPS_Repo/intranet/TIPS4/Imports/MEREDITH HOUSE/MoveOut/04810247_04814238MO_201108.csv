@@ -1,0 +1,6 @@
+BATCH,,201108,B,6654.0000,
+INVOICE,IN,,04810247,,08/24/2011,3585.0000,"Invoice-Private",,08/24/2011,08/24/2011,,04814238MO,-1284.0000,,,,,,,,,,
+TRANSACTION,3320,010202048,1,1209.0000,1209.00,"CR:Limited Term Di... L.Frazier 201108: Frazier, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202048,24,99.0000,2376.00,"Basic Service Fee - Studio for Aug: Frazier, Leroy",,,,,,,,,,,,,,,
+INVOICE,CM,,04810247,,08/24/2011,3069,"Invoice-Private",,08/24/2011,08/24/2011,,04814238MO,-1284.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3069,3069,"CR:Basic Service F... L.Frazier 201108: Frazier, Leroy",,,,,,,,,,,,,,,

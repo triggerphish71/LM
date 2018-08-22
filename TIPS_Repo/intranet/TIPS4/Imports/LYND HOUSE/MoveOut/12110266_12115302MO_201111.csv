@@ -1,0 +1,7 @@
+BATCH,,201111,B,4055.0000,
+INVOICE,IN,,12110266,,11/01/2011,720.0000,"Invoice-Private",,11/01/2011,11/10/2011,,12115302MO,-2615.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,720.0000,720.00,"CR:Limited Term Di... A.Ritchie 201111: Ritchie, Alberta",,,,,,,,,,,,,,,
+INVOICE,CM,,12110266,,11/01/2011,3335,"Invoice-Private",,11/01/2011,11/10/2011,,12115302MO,-2615.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... A.Ritchie 201111: Ritchie, Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,480,480,"CR:Resident Care -... A.Ritchie 201111: Ritchie, Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2820,2820,"CR:Room and Board ... A.Ritchie 201111: Ritchie, Alberta",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,4954.0000,
+INVOICE,CM,,50210173,,01/01/2012,4954,"Invoice-Private",,01/01/2012,01/10/2012,,50213244MO,-5729.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... A.Fisher 201201: Fisher, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,1178,1178,"CR:Resident Care -... A.Fisher 201201: Fisher, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,1,3751,3751,"CR:Room and Board ... A.Fisher 201201: Fisher, Alice",,,,,,,,,,,,,,,

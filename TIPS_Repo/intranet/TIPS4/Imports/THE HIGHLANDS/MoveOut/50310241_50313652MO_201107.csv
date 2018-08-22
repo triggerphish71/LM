@@ -1,0 +1,8 @@
+BATCH,,201107,B,7235.0000,
+INVOICE,IN,,50310241,,07/29/2011,3480.0000,"Invoice-Private",,07/29/2011,07/29/2011,,50313652MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,29,72.0000,2088.00,"Basic Service Fee - Studio for Jul: Roland, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,29,48.0000,1392.00,"Resident Care - Level 4 for Jul: Roland, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,50310241,,07/29/2011,3755,"Invoice-Private",,07/29/2011,07/29/2011,,50313652MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2232,2232,"CR:Basic Service F... E.Roland 201107: Roland, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... E.Roland 201107: Roland, Ernest",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1488,1488,"CR:Resident Care -... E.Roland 201107: Roland, Ernest",,,,,,,,,,,,,,,

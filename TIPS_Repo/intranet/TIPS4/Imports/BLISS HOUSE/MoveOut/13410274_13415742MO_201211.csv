@@ -1,0 +1,5 @@
+BATCH,,201211,B,70.0000,
+INVOICE,IN,,13410274,,11/01/2012,35.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13415742MO,-590.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Sweeny, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13410274,,11/01/2012,35,"Invoice-Private",,11/01/2012,11/10/2012,,13415742MO,-590.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Sweeny, Jean",,,,,,,,,,,,,,,

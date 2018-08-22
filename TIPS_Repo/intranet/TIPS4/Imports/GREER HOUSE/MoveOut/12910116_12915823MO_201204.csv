@@ -1,0 +1,7 @@
+BATCH,,201204,B,5814.0000,
+INVOICE,IN,,12910116,,04/13/2012,2394.0000,"Invoice-Private",,04/13/2012,04/13/2012,,12915823MO,-1026.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,21,96.0000,2016.00,"Basic Service Fee - Studio for Apr: Buckley, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,21,18.0000,378.00,"Resident Care - Level 1 for Apr: Buckley, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,12910116,,04/13/2012,3420,"Invoice-Private",,04/13/2012,04/13/2012,,12915823MO,-1026.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2880,2880,"CR:Basic Service F... A.Buckley 201204: Buckley, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,540,540,"CR:Resident Care -... A.Buckley 201204: Buckley, Anna",,,,,,,,,,,,,,,

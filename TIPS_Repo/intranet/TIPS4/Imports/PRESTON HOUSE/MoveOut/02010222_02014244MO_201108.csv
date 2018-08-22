@@ -1,0 +1,6 @@
+BATCH,,201108,B,4216.0000,
+INVOICE,IN,,02010222,,08/01/2011,961.0000,"Invoice-Private",,08/01/2011,08/10/2011,,02014244MO,-1919.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,961.0000,961.00,"CR:Limited Term Di... J.Gilliam 201108: Gilliam, Jerrel Dean",,,,,,,,,,,,,,,
+INVOICE,CM,,02010222,,08/01/2011,3255,"Invoice-Private",,08/01/2011,08/10/2011,,02014244MO,-1919.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2821,2821,"CR:Basic Service F... J.Gilliam 201108: Gilliam, Jerrel Dean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,434,434,"CR:Resident Care -... J.Gilliam 201108: Gilliam, Jerrel Dean",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201307,B,10968.1000,
+INVOICE,IN,,05910092,,07/28/2013,5205.2000,"Invoice-Private",,07/28/2013,07/28/2013,,05913595MO,-6320.6000,,,,,,,,,,
+TRANSACTION,3020,010101059,28,86.0000,2408.00,"Basic Service Fee - Studio for Jul: Wagner, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,28,99.9000,2797.20,"Resident Care - Level 54 for Jul: Wagner, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,05910092,,07/28/2013,5762.9,"Invoice-Private",,07/28/2013,07/28/2013,,05913595MO,-6320.6000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2666,2666,"CR:Basic Service F... E.Wagner 201307: Wagner, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,3096.9,3096.9,"CR:Resident Care -... E.Wagner 201307: Wagner, Ethel",,,,,,,,,,,,,,,

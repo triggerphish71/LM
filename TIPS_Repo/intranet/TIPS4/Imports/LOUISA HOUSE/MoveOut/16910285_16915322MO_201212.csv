@@ -1,0 +1,6 @@
+BATCH,,201212,B,1375.0000,
+INVOICE,IN,,16910285,,12/20/2012,180.0000,"Invoice-Private",,12/20/2012,12/20/2012,,16915322MO,-3830.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,2,90.0000,180.00,"S.Goodrich: Basic Service Fee - Studio for Dec: Goodrich, Sid",,,,,,,,,,,,,,,
+INVOICE,CM,,16910285,,12/20/2012,1195,"Invoice-Private",,12/20/2012,12/20/2012,,16915322MO,-3830.0000,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... S.Goodrich 201212: Goodrich, Sid",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103169,1,1170,1170,"CR:S.Goodrich: Bas... S.Goodrich 201212: Goodrich, Sid",,,,,,,,,,,,,,,

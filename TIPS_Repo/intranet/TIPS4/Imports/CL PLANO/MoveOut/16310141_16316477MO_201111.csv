@@ -1,0 +1,8 @@
+BATCH,,201111,B,5793.0000,
+INVOICE,IN,,16310141,,11/07/2011,1623.0000,"Invoice-Private",,11/07/2011,11/07/2011,,16316477MO,-2547.0000,,,,,,,,,,
+TRANSACTION,3027,010202163,7,35.0000,245.00,"Resident Care - Level 3 for Nov: Summers, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,7,104.0000,728.00,"Room and Board - Studio Deluxe for Nov: Summers, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3299,010202163,1,650.0000,650.00,"Damages: Summers, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,16310141,,11/07/2011,4170,"Invoice-Private",,11/07/2011,11/07/2011,,16316477MO,-2547.0000,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1050,1050,"CR:Resident Care -... E.Summers 201111: Summers, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3120,3120,"CR:Room and Board ... E.Summers 201111: Summers, Eunice",,,,,,,,,,,,,,,

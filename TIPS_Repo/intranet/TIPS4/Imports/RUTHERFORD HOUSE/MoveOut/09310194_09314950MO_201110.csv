@@ -1,0 +1,7 @@
+BATCH,,201110,B,8330.0000,
+INVOICE,IN,,09310194,,10/17/2011,3060.0000,"Invoice-Private",,10/17/2011,10/17/2011,,09314950MO,-7310.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,18,108.0000,1944.00,"Basic Service Fee - Deluxe for Oct: Heflinger, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,18,62.0000,1116.00,"Resident Care - Level 4 for Oct: Heflinger, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,09310194,,10/17/2011,5270,"Invoice-Private",,10/17/2011,10/17/2011,,09314950MO,-7310.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3348,3348,"CR:Basic Service F... D.Heflinger 201110: Heflinger, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1922,1922,"CR:Resident Care -... D.Heflinger 201110: Heflinger, Don",,,,,,,,,,,,,,,

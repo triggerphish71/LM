@@ -1,0 +1,5 @@
+BATCH,,201211,B,1860.0000,
+INVOICE,IN,,10810241,,11/01/2012,930.0000,"Invoice-Private",,11/01/2012,11/10/2012,,10814991MO,-2949.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,30,31.0000,930.00,"Credit for Limited Term Discount: Ledford, Marshall",,,,,,,,,,,,,,,
+INVOICE,CM,,10810241,,11/01/2012,930,"Invoice-Private",,11/01/2012,11/10/2012,,10814991MO,-2949.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,30,31,930,"Limited Term Discount: Ledford, Marshall",,,,,,,,,,,,,,,

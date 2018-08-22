@@ -1,0 +1,6 @@
+BATCH,,201106,B,4000.6000,
+INVOICE,IN,,06210214,,06/09/2011,4000.6000,"MoveIn-Guarino. Louis",,06/09/2011,06/09/2011,,06213532,4000.6000,,,,,,,,,,
+TRANSACTION,3010,010101062,22,83.0000,1826,"L.Guarino: Basic Service Fee - Studio: Guarino. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101062,22,6.8000,149.6,"L.Guarino: Resident Care - Level 4: Guarino. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Guarino. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Guarino. Louis",,,,,,,,,,,,,,,

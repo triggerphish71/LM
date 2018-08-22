@@ -1,0 +1,5 @@
+BATCH,,201211,B,4475.0000,
+INVOICE,IN,,10610201,,11/01/2012,4475.0000,"November_Rent-Ginter. Carlyle",,11/01/2012,11/10/2012,,10612744,7342.0000,,,,,,,,,,
+TRANSACTION,3010,010309106,30,87.0000,2610,"Basic Service Fee - Studio: Ginter. Carlyle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309106,30,61.0000,1830,"Resident Care - Level 4: Ginter. Carlyle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35,"Monthly Cable: Ginter. Carlyle",,,,,,,,,,,,,,,

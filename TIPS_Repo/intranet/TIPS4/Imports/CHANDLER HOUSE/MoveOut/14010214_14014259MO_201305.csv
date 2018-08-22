@@ -1,0 +1,7 @@
+BATCH,,201305,B,6440.0000,
+INVOICE,IN,,14010214,,05/01/2013,2875.0000,"Invoice-Private",,05/01/2013,05/10/2013,,14014259MO,-690.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,25,50.0000,1250.00,"Basic Service Fee - Studio for May: Smolinske, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,25,65.0000,1625.00,"Resident Care - Level 5 for May: Smolinske, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,14010214,,05/01/2013,3565,"Invoice-Private",,05/01/2013,05/10/2013,,14014259MO,-690.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,1550,1550,"CR:Basic Service F... K.Smolinske 201305: Smolinske, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,2015,2015,"CR:Resident Care -... K.Smolinske 201305: Smolinske, Kenneth",,,,,,,,,,,,,,,

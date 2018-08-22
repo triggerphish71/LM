@@ -1,0 +1,7 @@
+BATCH,,201203,B,6663.6000,
+INVOICE,IN,,09510260,,03/24/2012,3220.7400,"Invoice-Private",,03/24/2012,03/24/2012,,09514856MO,-3553.9200,,,,,,,,,,
+TRANSACTION,3020,010103095,29,86.0000,2494.00,"Basic Service Fee - Studio for Mar: Hammonds, Winona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,29,25.0600,726.74,"Resident Care - Level 14 for Mar: Hammonds, Winona",,,,,,,,,,,,,,,
+INVOICE,CM,,09510260,,03/24/2012,3442.86,"Invoice-Private",,03/24/2012,03/24/2012,,09514856MO,-3553.9200,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... W.Hammonds 201203: Hammonds, Winona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,776.86,776.86,"CR:Resident Care -... W.Hammonds 201203: Hammonds, Winona",,,,,,,,,,,,,,,

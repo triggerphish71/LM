@@ -1,0 +1,8 @@
+BATCH,,201210,B,5507.0000,
+INVOICE,IN,,20410146,,10/20/2012,2593.0000,"Invoice-Private",,10/20/2012,10/20/2012,,20413277MO,-3051.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,713.0000,713.00,"CR:Limited Term Di... J.Grice 201210: Grice, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,20,12.0000,240.00,"Resident Care - Level 1 for Oct: Grice, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,20,82.0000,1640.00,"Studio for Oct: Grice, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,20410146,,10/20/2012,2914,"Invoice-Private",,10/20/2012,10/20/2012,,20413277MO,-3051.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,372,372,"CR:Resident Care -... J.Grice 201210: Grice, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2542,2542,"CR:Studio... J.Grice 201210: Grice, Jackie",,,,,,,,,,,,,,,

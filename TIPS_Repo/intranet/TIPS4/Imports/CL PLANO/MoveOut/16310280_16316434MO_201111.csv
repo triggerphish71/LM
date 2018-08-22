@@ -1,0 +1,7 @@
+BATCH,,201111,B,5397.0000,
+INVOICE,IN,,16310280,,11/01/2011,270.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16316434MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,270.0000,270.00,"CR:Limited Term Di... M.Patterson 201111: Patterson, Mary Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,16310280,,11/01/2011,5127,"Invoice-Private",,11/01/2011,11/10/2011,,16316434MO,-6475.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3300,3300,"CR:Basic Service F... M.Patterson 201111: Patterson, Mary Anne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... M.Patterson 201111: Patterson, Mary Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1800,1800,"CR:Resident Care -... M.Patterson 201111: Patterson, Mary Anne",,,,,,,,,,,,,,,

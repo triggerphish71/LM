@@ -1,0 +1,7 @@
+BATCH,,201205,B,3520.0000,
+INVOICE,IN,,10810267,,05/01/2012,110.0000,"Invoice-Private",,05/01/2012,05/01/2012,,10814828MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3037,010308108,1,26.0000,26.00,"Private Care Rate Adjustments for May: Greer, Vanerette ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,1,84.0000,84.00,"Room and Board - Studio for May: Greer, Vanerette ",,,,,,,,,,,,,,,
+INVOICE,CM,,10810267,,05/01/2012,3410,"Invoice-Private",,05/01/2012,05/01/2012,,10814828MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3037,010308108,1,806,806,"CR:Private Care Ra... V.Greer 201205: Greer, Vanerette ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Room and Board ... V.Greer 201205: Greer, Vanerette ",,,,,,,,,,,,,,,

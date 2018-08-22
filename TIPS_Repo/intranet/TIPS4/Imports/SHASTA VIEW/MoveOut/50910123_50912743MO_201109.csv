@@ -1,0 +1,5 @@
+BATCH,,201109,B,2139.0000,
+INVOICE,IN,,50910123,,09/01/2011,69.0000,"Invoice-Private",,09/01/2011,09/01/2011,,50912743MO,-2001.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,69.0000,69.00,"Basic Service Fee - Two Bedroom for Sep: Foster, Faith",,,,,,,,,,,,,,,
+INVOICE,CM,,50910123,,09/01/2011,2070,"Invoice-Private",,09/01/2011,09/01/2011,,50912743MO,-2001.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,2070,2070,"CR:Basic Service F... F.Foster 201109: Foster, Faith",,,,,,,,,,,,,,,

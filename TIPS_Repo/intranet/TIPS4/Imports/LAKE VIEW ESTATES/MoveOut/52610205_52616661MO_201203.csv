@@ -1,0 +1,8 @@
+BATCH,,201203,B,10326.0000,
+INVOICE,IN,,52610205,,02/28/2012,3276.0000,"Invoice-Private",,02/28/2012,02/28/2012,,52616661MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,28,117.0000,3276.00,"Basic Service Fee - Two Bedroom Del for Feb: Lange, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,52610205,,02/28/2012,3423,"Invoice-Private",,02/28/2012,02/28/2012,,52616661MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3393,3393,"CR:Basic Service F... B.Lange 201202: Lange, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"CR:Garage Rental... B.Lange 201202: Lange, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,52610205,,03/01/2012,3627,"Invoice-Private",,03/01/2012,03/10/2012,,52616661MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3627,3627,"CR:Basic Service F... B.Lange 201203: Lange, Beatrice",,,,,,,,,,,,,,,

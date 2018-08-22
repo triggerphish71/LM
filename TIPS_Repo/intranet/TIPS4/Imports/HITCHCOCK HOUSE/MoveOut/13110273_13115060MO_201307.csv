@@ -1,0 +1,7 @@
+BATCH,,201307,B,5500.0000,
+INVOICE,IN,,13110273,,07/19/2013,2090.0000,"Invoice-Private",,07/19/2013,07/19/2013,,13115060MO,-4730.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,19,41.0000,779.00,"Resident Care - Level 3 for Jul: Fontanesi, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,19,69.0000,1311.00,"Room and Board - Studio for Jul: Fontanesi, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,13110273,,07/19/2013,3410,"Invoice-Private",,07/19/2013,07/19/2013,,13115060MO,-4730.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,1,1271,1271,"CR:Resident Care -... M.Fontanesi 201307: Fontanesi, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,1,2139,2139,"CR:Room and Board ... M.Fontanesi 201307: Fontanesi, Martha",,,,,,,,,,,,,,,

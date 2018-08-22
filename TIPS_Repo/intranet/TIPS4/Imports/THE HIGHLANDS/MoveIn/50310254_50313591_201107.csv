@@ -1,0 +1,5 @@
+BATCH,,201107,B,3042.0000,
+INVOICE,IN,,50310254,,07/01/2011,3042.0000,"July_Rent-Foley. James",,07/01/2011,07/10/2011,,50313591,5256.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,31,72.0000,2232,"Basic Service Fee - Studio: Foley. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,31,25.0000,775,"Resident Care - Level 2: Foley. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Foley. James",,,,,,,,,,,,,,,

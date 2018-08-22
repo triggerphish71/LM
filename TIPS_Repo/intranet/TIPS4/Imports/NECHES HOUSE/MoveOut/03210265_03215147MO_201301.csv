@@ -1,0 +1,5 @@
+BATCH,,201301,B,2418.0000,
+INVOICE,IN,,03210265,,01/01/2013,1209.0000,"Invoice-Private",,01/01/2013,01/10/2013,,03215147MO,-1233.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,31,39.0000,1209.00,"Credit for Limited Term Discount: Bradford, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,03210265,,01/01/2013,1209,"Invoice-Private",,01/01/2013,01/10/2013,,03215147MO,-1233.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,31,39,1209,"Limited Term Discount: Bradford, Beatrice",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,4650.8600,
+INVOICE,IN,,13910191,,12/01/2012,682.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13916476MO,-4308.6400,,,,,,,,,,
+TRANSACTION,3320,010103139,1,682.0000,682.00,"CR:Limited Term Di... F.McCurdy 201212: McCurdy, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,13910191,,12/01/2012,3968.86,"Invoice-Private",,12/01/2012,12/10/2012,,13916476MO,-4308.6400,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... F.McCurdy 201212: McCurdy, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... F.McCurdy 201212: McCurdy, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,776.86,776.86,"CR:Resident Care -... F.McCurdy 201212: McCurdy, Floyd",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201209,B,2563.0000,
+INVOICE,IN,,17610317,,09/01/2012,73.0000,"Invoice-Private",,09/01/2012,09/10/2012,,17614697MO,-4990.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,73.0000,73.00,"Basic Service Fee - Studio for Sep: Robinson, Alta",,,,,,,,,,,,,,,
+INVOICE,CM,,17610317,,09/01/2012,2490,"Invoice-Private",,09/01/2012,09/10/2012,,17614697MO,-4990.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2190,2190,"CR:Basic Service F... A.Robinson 201209: Robinson, Alta",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... A.Robinson 201209: Robinson, Alta",,,,,,,,,,,,,,,

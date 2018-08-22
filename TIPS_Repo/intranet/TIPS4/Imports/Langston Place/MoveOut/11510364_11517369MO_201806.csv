@@ -1,0 +1,6 @@
+BATCH,,201806,B,24.0100,
+INVOICE,IN,,11510364,,06/01/2018,12.0100,"Invoice-Private",,06/01/2018,06/10/2018,,11517369MO,-1111.9900,,,,,,,,,,
+TRANSACTION,3210,010008115,1,12.0000,12.00,"Personal Services: Bennett, W.C.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008115,1,0.0067,0.01,"Deferred NRF Unpaid Balance: Bennett, W.C.",,,,,,,,,,,,,,,
+INVOICE,CM,,11510364,,06/01/2018,12,"Invoice-Private",,06/01/2018,06/10/2018,,11517369MO,-1111.9900,,,,,,,,,,
+TRANSACTION,3210,010008115,1,12,12,"Credit for Personal Services: Bennett, W.C.",,,,,,,,,,,,,,,

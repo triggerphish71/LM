@@ -1,0 +1,7 @@
+BATCH,,201301,B,2658.0000,
+INVOICE,IN,,16510304,,01/01/2013,1329.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16514589MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: White, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,31,42.0000,1302.00,"Credit for Limited Term Discount: White, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,16510304,,01/01/2013,1329,"Invoice-Private",,01/01/2013,01/10/2013,,16514589MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: White, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,31,42,1302,"Limited Term Discount: White, Elsie",,,,,,,,,,,,,,,

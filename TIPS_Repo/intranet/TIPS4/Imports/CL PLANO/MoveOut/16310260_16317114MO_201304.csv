@@ -1,0 +1,7 @@
+BATCH,,201304,B,6588.0000,
+INVOICE,IN,,16310260,,04/24/2013,2928.0000,"Invoice-Private",,04/24/2013,04/24/2013,,16317114MO,-4514.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,24,109.0000,2616.00,"Basic Service Fee - Studio Deluxe for Apr: Robison, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,24,13.0000,312.00,"Resident Care - Level 1 for Apr: Robison, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,16310260,,04/24/2013,3660,"Invoice-Private",,04/24/2013,04/24/2013,,16317114MO,-4514.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3270,3270,"CR:Basic Service F... R.Robison 201304: Robison, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,390,390,"CR:Resident Care -... R.Robison 201304: Robison, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,7950.0000,
+INVOICE,IN,,05710295,,09/01/2011,3180.0000,"Invoice-Private",,09/01/2011,09/10/2011,,05715221MO,-1590.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,20,91.0000,1820.00,"Basic Service Fee - Studio for Sep: Plowman, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,20,68.0000,1360.00,"Resident Care - Level 6 for Sep: Plowman, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,05710295,,09/01/2011,4770,"Invoice-Private",,09/01/2011,09/10/2011,,05715221MO,-1590.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2730,2730,"CR:Basic Service F... N.Plowman 201109: Plowman, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,2040,2040,"CR:Resident Care -... N.Plowman 201109: Plowman, Nancy",,,,,,,,,,,,,,,

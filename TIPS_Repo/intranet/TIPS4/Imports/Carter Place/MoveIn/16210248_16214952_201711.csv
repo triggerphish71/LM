@@ -1,0 +1,6 @@
+BATCH,,201711,B,9088.0000,
+INVOICE,IN,,16210248,,11/15/2017,9088.0000,"MoveIn-Severson. Ray",,11/15/2017,11/15/2017,,16214952,9088.0000,,,,,,,,,,
+TRANSACTION,3010,010011162,16,100.0000,1600,"Basic Service Fee - Deluxe: Severson. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3017,010011162,16,88.0000,1408,"Resident Care - Level 5: Severson. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,1,3040.0000,3040,"Community Fee: Severson. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,010011162,1,3040.0000,3040,"Monthly Deferral Charge: Severson. Ray",,,,,,,,,,,,,,,

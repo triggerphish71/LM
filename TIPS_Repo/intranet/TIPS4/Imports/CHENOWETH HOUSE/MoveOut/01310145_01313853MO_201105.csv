@@ -1,0 +1,8 @@
+BATCH,,201105,B,5156.0000,
+INVOICE,IN,,01310145,,05/14/2011,1646.8000,"Invoice-Private",,05/14/2011,05/14/2011,,01313853MO,-5198.4000,,,,,,,,,,
+TRANSACTION,3320,010103013,1,62.0000,62.00,"CR:Limited Term Di... V.Jennings 201105: Jennings, Vern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,14,69.0000,966.00,"Basic Service Fee - Studio for May: Jennings, Vern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,14,44.2000,618.80,"Resident Care - Level 26 for May: Jennings, Vern",,,,,,,,,,,,,,,
+INVOICE,CM,,01310145,,05/14/2011,3509.2,"Invoice-Private",,05/14/2011,05/14/2011,,01313853MO,-5198.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2139,2139,"CR:Basic Service F... V.Jennings 201105: Jennings, Vern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1370.2,1370.2,"CR:Resident Care -... V.Jennings 201105: Jennings, Vern",,,,,,,,,,,,,,,

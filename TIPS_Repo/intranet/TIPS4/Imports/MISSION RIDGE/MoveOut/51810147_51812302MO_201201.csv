@@ -1,0 +1,5 @@
+BATCH,,201201,B,3237.0000,
+INVOICE,IN,,51810147,,01/08/2012,664.0000,"Invoice-Private",,01/08/2012,01/08/2012,,51812302MO,-1909.0000,,,,,,,,,,
+TRANSACTION,3020,010103518,8,83.0000,664.00,"Room and Board - Studio for Jan: Chalcraft, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,51810147,,01/08/2012,2573,"Invoice-Private",,01/08/2012,01/08/2012,,51812302MO,-1909.0000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,2573,2573,"CR:Room and Board ... B.Chalcraft 201201: Chalcraft, Betty",,,,,,,,,,,,,,,

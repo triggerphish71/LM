@@ -1,0 +1,7 @@
+BATCH,,201109,B,5586.0000,
+INVOICE,IN,,20610232,,09/27/2011,2646.0000,"Invoice-Private",,09/27/2011,09/27/2011,,20612353MO,-3332.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,27,11.0000,297.00,"Resident Care - Level 1 for Sep: Law, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,27,87.0000,2349.00,"Studio for Sep: Law, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20610232,,09/27/2011,2940,"Invoice-Private",,09/27/2011,09/27/2011,,20612353MO,-3332.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,330,330,"CR:Resident Care -... J.Law 201109: Law, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2610,2610,"CR:Studio... J.Law 201109: Law, James",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,3696.0000,
+INVOICE,IN,,03310379,,03/01/2013,224.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03317081MO,-3248.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,2,95.0000,190.00,"Basic Service Fee - Studio for Mar: Phillips, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,2,17.0000,34.00,"Resident Care - Level 1 for Mar: Phillips, William",,,,,,,,,,,,,,,
+INVOICE,CM,,03310379,,03/01/2013,3472,"Invoice-Private",,03/01/2013,03/10/2013,,03317081MO,-3248.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2945,2945,"CR:Basic Service F... W.Phillips 201303: Phillips, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... W.Phillips 201303: Phillips, William",,,,,,,,,,,,,,,

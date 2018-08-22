@@ -1,0 +1,5 @@
+BATCH,,201110,B,3840.0000,
+INVOICE,CM,,16310285,,10/01/2011,3840,"Invoice-Private",,10/01/2011,10/10/2011,,16316402MO,-3990.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3410,3410,"CR:Basic Service F... E.Turner 201110: Turner, Errol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... E.Turner 201110: Turner, Errol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,403,403,"CR:Resident Care -... E.Turner 201110: Turner, Errol",,,,,,,,,,,,,,,

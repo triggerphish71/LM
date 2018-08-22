@@ -1,0 +1,6 @@
+BATCH,,201106,B,11556.0000,
+INVOICE,IN,,50310252,,06/29/2011,2613.6000,"Invoice-Respite",,06/29/2011,06/29/2011,,50313593MO,-6328.8000,,,,,,,,,,
+TRANSACTION,3020,010220503,27,82.8000,2235.60,"Basic Service Fee- Respite Studio for Jun: Marcum, Reva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,27,14.0000,378.00,"Resident Care - Level 1 for Jun: Marcum, Reva",,,,,,,,,,,,,,,
+INVOICE,CM,,50310252,,06/29/2011,8942.4,"Invoice-Respite",,06/29/2011,06/29/2011,,50313593MO,-6328.8000,,,,,,,,,,
+TRANSACTION,3020,010220503,27,331.2,8942.4,"Basic Service Fee- Respite Studio for Jun: Marcum, Reva",,,,,,,,,,,,,,,

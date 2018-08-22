@@ -1,0 +1,5 @@
+BATCH,,201205,B,434.0000,
+INVOICE,IN,,02910303,,05/01/2012,217.0000,"Invoice-Private",,05/01/2012,05/10/2012,,02915519MO,-3915.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,7.0000,217.00,"Credit for Limited Term Discount: Cole, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,02910303,,05/01/2012,217,"Invoice-Private",,05/01/2012,05/10/2012,,02915519MO,-3915.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,7,217,"Limited Term Discount: Cole, Fred",,,,,,,,,,,,,,,

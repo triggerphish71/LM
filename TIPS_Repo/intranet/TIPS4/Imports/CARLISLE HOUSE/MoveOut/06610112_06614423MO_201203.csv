@@ -1,0 +1,7 @@
+BATCH,,201203,B,6464.0000,
+INVOICE,IN,,06610112,,03/01/2012,202.0000,"Invoice-Private",,03/01/2012,03/01/2012,,06614423MO,-6060.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,127.0000,127.00,"Basic Service Fee - One Bedroom for Mar: Judy, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,75.0000,75.00,"Resident Care - Level 5 for Mar: Judy, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,06610112,,03/01/2012,6262,"Invoice-Private",,03/01/2012,03/01/2012,,06614423MO,-6060.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3937,3937,"CR:Basic Service F... G.Judy 201203: Judy, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2325,2325,"CR:Resident Care -... G.Judy 201203: Judy, Gertrude",,,,,,,,,,,,,,,

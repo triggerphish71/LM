@@ -1,0 +1,5 @@
+BATCH,,201306,B,996.0000,
+INVOICE,IN,,09210305,,06/27/2013,996.0000,"MoveIn-Evans. John",,06/27/2013,06/27/2013,,09215274,4840.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,4,92.0000,368,"Basic Service Fee - Deluxe: Evans. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,4,32.0000,128,"Resident Care - Level 2: Evans. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,500.0000,500,"New Resident Fee: Evans. John",,,,,,,,,,,,,,,

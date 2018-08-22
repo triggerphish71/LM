@@ -1,0 +1,6 @@
+BATCH,,201210,B,6820.0000,
+INVOICE,IN,,53010267,,10/29/2012,3277.0000,"Invoice-Private",,10/29/2012,10/29/2012,,53016492MO,-3226.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,29,113.0000,3277.00,"Basic Service Fee - One Bedroom Del for Oct: Brahm, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,53010267,,10/29/2012,3543,"Invoice-Private",,10/29/2012,10/29/2012,,53016492MO,-3226.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3503,3503,"CR:Basic Service F... B.Brahm 201210: Brahm, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Brahm 201210: Brahm, Betty",,,,,,,,,,,,,,,

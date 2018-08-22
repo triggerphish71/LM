@@ -1,0 +1,8 @@
+BATCH,,201105,B,4618.0700,
+INVOICE,IN,,50910121,,05/01/2011,2789.0700,"Invoice-Private",,05/01/2011,05/10/2011,,50912628MO,-809.9300,,,,,,,,,,
+TRANSACTION,3321,010101509,1,1054.0000,1054.00,"CR:2nd Resident Fr... D.Hastings 201105: Hastings, Diana",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,29,34.0000,986.00,"Basic Service Fee - Second Resident for May: Hastings, Diana",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,29,25.8300,749.07,"Increase Room and Board for May: Hastings, Diana",,,,,,,,,,,,,,,
+INVOICE,CM,,50910121,,05/01/2011,1829,"Invoice-Private",,05/01/2011,05/10/2011,,50912628MO,-809.9300,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1054,1054,"CR:Basic Service F... D.Hastings 201105: Hastings, Diana",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,1,775,775,"CR:Increase Room a... D.Hastings 201105: Hastings, Diana",,,,,,,,,,,,,,,

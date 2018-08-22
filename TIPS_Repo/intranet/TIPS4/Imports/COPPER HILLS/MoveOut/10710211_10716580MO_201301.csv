@@ -1,0 +1,8 @@
+BATCH,,201301,B,7550.0000,
+INVOICE,IN,,10710211,,01/08/2013,2714.0000,"Invoice-Private",,01/08/2013,01/08/2013,,10716580MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,62.0000,62.00,"CR:Limited Term Di... L.Thrall 201301: Thrall, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,17,113.0000,1921.00,"Basic Service Fee - One Bedroom for Jan: Thrall, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,17,43.0000,731.00,"Resident Care - Level 3 for Jan: Thrall, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,10710211,,01/08/2013,4836,"Invoice-Private",,01/08/2013,01/08/2013,,10716580MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3503,3503,"CR:Basic Service F... L.Thrall 201301: Thrall, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1333,1333,"CR:Resident Care -... L.Thrall 201301: Thrall, Louise",,,,,,,,,,,,,,,

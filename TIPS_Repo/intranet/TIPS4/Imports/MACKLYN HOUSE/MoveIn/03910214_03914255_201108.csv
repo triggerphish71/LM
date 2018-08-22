@@ -1,0 +1,5 @@
+BATCH,,201108,B,4247.6000,
+INVOICE,IN,,03910214,,08/20/2011,4247.6000,"MoveIn-Henderson. Bruce",,08/20/2011,08/20/2011,,03914255,9866.6000,,,,,,,,,,
+TRANSACTION,3010,010101039,12,87.0000,1044,"Basic Service Fee - Studio         : Henderson. Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101039,12,100.3000,1203.6,"Resident Care - Level 59: Henderson. Bruce",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000.0000,2000,"New Resident Fee: Henderson. Bruce",,,,,,,,,,,,,,,

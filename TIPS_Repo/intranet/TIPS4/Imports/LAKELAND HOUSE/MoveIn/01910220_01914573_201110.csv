@@ -1,0 +1,5 @@
+BATCH,,201110,B,3375.0000,
+INVOICE,IN,,01910220,,10/01/2011,3375.0000,"October_Rent-Inmon. Betty",,10/01/2011,10/10/2011,,01914573,5368.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,31,91.0000,2821,"Basic Service Fee - Studio         : Inmon. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,31,17.0000,527,"Resident Care - Level 1: Inmon. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27,"Monthly Cable: Inmon. Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,3240.0000,
+INVOICE,IN,,07010210,,11/11/2011,3240.0000,"MoveIn-Hittle. Elvin",,11/11/2011,11/11/2011,,07014175,3240.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,20,86.0000,1720,"Basic Service Fee - Studio         : Hittle. Elvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Hittle. Elvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1500.0000,1500,"New Resident Fee: Hittle. Elvin",,,,,,,,,,,,,,,

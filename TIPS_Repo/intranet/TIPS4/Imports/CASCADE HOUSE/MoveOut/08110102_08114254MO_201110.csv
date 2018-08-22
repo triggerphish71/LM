@@ -1,0 +1,7 @@
+BATCH,,201110,B,3273.2000,
+INVOICE,IN,,08110102,,10/29/2011,1015.5800,"Invoice-Medicaid",,10/29/2011,10/29/2011,,08114254MO,-3427.6400,,,,,,,,,,
+TRANSACTION,3021,010103081,29,35.0200,1015.58,"Medicaid Co-Pay for Oct: Filbin, Owen",,,,,,,,,,,,,,,
+INVOICE,CM,,08110102,,10/29/2011,2257.62,"Invoice-Medicaid",,10/29/2011,10/29/2011,,08114254MO,-3427.6400,,,,,,,,,,
+TRANSACTION,3021,010103081,1,1085.69,1085.69,"CR:Medicaid Co-Pay... O.Filbin 201110: Filbin, Owen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... O.Filbin 201110: Filbin, Owen",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103081,1,1146.93,1146.93,"CR:State Medicaid... O.Filbin 201110: Filbin, Owen",,,,,,,,,,,,,,,

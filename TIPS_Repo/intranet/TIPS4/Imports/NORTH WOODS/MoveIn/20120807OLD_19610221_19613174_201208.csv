@@ -1,0 +1,7 @@
+BATCH,,201208,B,5335.0000,
+INVOICE,IN,,19610221,,08/07/2012,5335.0000,"MoveIn-Clemons. Alice",,08/07/2012,08/07/2012,,19613174,5335.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,25,87.0000,2175,"Basic Service Fee - Studio: Clemons. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,25,35.0000,875,"Resident Care - Level 3: Clemons. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Clemons. Alice",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,25,10.0000,250,"CC Meals: Clemons. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,2000.0000,2000,"New Tenant Fee: Clemons. Alice",,,,,,,,,,,,,,,

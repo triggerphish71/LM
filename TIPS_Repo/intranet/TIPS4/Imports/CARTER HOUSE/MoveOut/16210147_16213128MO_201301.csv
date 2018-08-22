@@ -1,0 +1,6 @@
+BATCH,,201301,B,3372.6000,
+INVOICE,IN,,16210147,,01/17/2013,1326.6000,"Invoice-Private",,01/17/2013,01/17/2013,,16213128MO,-2382.6000,,,,,,,,,,
+TRANSACTION,3312,010211162,1,204.6000,204.60,"CR:Two Room Rental... W.Sprick 201301: Sprick, Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,17,66.0000,1122.00,"Basic Service Fee - Studio for Jan: Sprick, Wesley",,,,,,,,,,,,,,,
+INVOICE,CM,,16210147,,01/17/2013,2046,"Invoice-Private",,01/17/2013,01/17/2013,,16213128MO,-2382.6000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2046,2046,"CR:Basic Service F... W.Sprick 201301: Sprick, Wesley",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,4020.0000,
+INVOICE,IN,,09210207,,06/01/2011,810.0000,"Invoice-Private",,06/01/2011,06/10/2011,,09214464MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,1,810.0000,810.00,"CR:Limited Term Di... D.Blevins 201106: Blevins, Dudley",,,,,,,,,,,,,,,
+INVOICE,CM,,09210207,,06/01/2011,3210,"Invoice-Private",,06/01/2011,06/10/2011,,09214464MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2250,2250,"CR:Basic Service F... D.Blevins 201106: Blevins, Dudley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,960,960,"CR:Resident Care -... D.Blevins 201106: Blevins, Dudley",,,,,,,,,,,,,,,

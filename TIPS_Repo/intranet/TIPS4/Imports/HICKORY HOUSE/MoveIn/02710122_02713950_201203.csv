@@ -1,0 +1,5 @@
+BATCH,,201203,B,4470.0000,
+INVOICE,IN,,02710122,,03/01/2012,4470.0000,"MoveIn-Teeters. Joe",,03/01/2012,03/01/2012,,02713950,4470.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,31,95.0000,2945,"Basic Service Fee - Studio: Teeters. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Teeters. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Teeters. Joe",,,,,,,,,,,,,,,

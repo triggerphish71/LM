@@ -1,0 +1,8 @@
+BATCH,,201204,B,5952.5000,
+INVOICE,IN,,10410268,,04/10/2012,658.7500,"Invoice-Private",,04/10/2012,04/10/2012,,10414780MO,-8719.2500,,,,,,,,,,
+TRANSACTION,3020,010101104,5,87.0000,435.00,"Basic Service Fee - Studio for Apr: Corbin, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,5,44.7500,223.75,"Resident Care - Level 25 for Apr: Corbin, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,10410268,,04/10/2012,5293.75,"Invoice-Private",,04/10/2012,04/10/2012,,10414780MO,-8719.2500,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2175,2175,"CR:Basic Service F... H.Corbin 201204: Corbin, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000,2000,"CR:New Resident Fe... H.Corbin 201204: Corbin, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,1118.75,1118.75,"CR:Resident Care -... H.Corbin 201204: Corbin, Harold",,,,,,,,,,,,,,,

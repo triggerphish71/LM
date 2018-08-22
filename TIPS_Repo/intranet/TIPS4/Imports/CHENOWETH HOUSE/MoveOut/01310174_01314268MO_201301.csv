@@ -1,0 +1,6 @@
+BATCH,,201301,B,3510.1300,
+INVOICE,IN,,01310174,,01/01/2013,334.8000,"Invoice-Private",,01/01/2013,01/10/2013,,01314268MO,-2915.4500,,,,,,,,,,
+TRANSACTION,3316,010103013,1,334.8000,334.80,"CR:Employee Discou... N.Gilliam 201301: Gilliam, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,01310174,,01/01/2013,3175.33,"Invoice-Private",,01/01/2013,01/10/2013,,01314268MO,-2915.4500,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... N.Gilliam 201301: Gilliam, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,943.33,943.33,"CR:Resident Care -... N.Gilliam 201301: Gilliam, Nellie",,,,,,,,,,,,,,,

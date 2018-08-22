@@ -1,0 +1,6 @@
+BATCH,,201105,B,4251.0000,
+INVOICE,IN,,52910163,,05/11/2011,4251.0000,"MoveIn-Thielmann. Glenroy",,05/11/2011,05/11/2011,,52912531,4251.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,21,91.0000,1911,"Basic Service Fee - Studio Deluxe: Thielmann. Glenroy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,21,15.0000,315,"Resident Care - Level 1: Thielmann. Glenroy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Thielmann. Glenroy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,2000.0000,2000,"New Resident Fee: Thielmann. Glenroy",,,,,,,,,,,,,,,

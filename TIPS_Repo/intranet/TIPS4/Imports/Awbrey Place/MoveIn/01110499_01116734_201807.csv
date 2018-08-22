@@ -1,0 +1,5 @@
+BATCH,,201807,B,5356.2000,
+INVOICE,IN,,01110499,,08/01/2018,5356.2000,"MoveIn-Plant. Robert",,08/01/2018,08/01/2018,,01116734,10799.8000,,,,,,,,,,
+TRANSACTION,3010,010001011,7,79.0000,553,"Basic Service Fee - Studio: Plant. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001011,1,2401.6000,2401.6,"Community Fee: Plant. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001011,1,2401.6000,2401.6,"Monthly Deferral Charge: Plant. Robert",,,,,,,,,,,,,,,

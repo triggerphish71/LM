@@ -1,0 +1,5 @@
+BATCH,,201212,B,3385.0000,
+INVOICE,IN,,04810283,,12/19/2012,3385.0000,"MoveIn-Franklin. Richard",,12/19/2012,12/19/2012,,04814849,7880.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,13,103.0000,1339,"Basic Service Fee - Studio: Franklin. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,13,42.0000,546,"Resident Care - Level 3: Franklin. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Franklin. Richard",,,,,,,,,,,,,,,

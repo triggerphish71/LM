@@ -1,0 +1,6 @@
+BATCH,,201110,B,4822.0000,
+INVOICE,IN,,16110198,,10/24/2011,2187.0000,"Invoice-Private",,10/24/2011,10/24/2011,,16115247MO,-2938.0000,,,,,,,,,,
+TRANSACTION,3320,010313161,1,62.0000,62.00,"CR:Limited Term Di... M.McCullough 201110: McCullough, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313161,25,85.0000,2125.00,"Basic Service Fee - Studio for Oct: McCullough, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,16110198,,10/24/2011,2635,"Invoice-Private",,10/24/2011,10/24/2011,,16115247MO,-2938.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2635,2635,"CR:Basic Service F... M.McCullough 201110: McCullough, Mary",,,,,,,,,,,,,,,

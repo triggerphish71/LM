@@ -1,0 +1,6 @@
+BATCH,,201804,B,3619.5000,
+INVOICE,IN,,51910345,,04/20/2018,1667.1000,"Invoice-Private",,04/20/2018,04/20/2018,,51915422MO,-285.3000,,,,,,,,,,
+TRANSACTION,3017,010003519,17,21.5000,365.50," Level: 10 : Davidson, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003519,20,65.0800,1301.60,"Basic Service Fee - Studio  for Apr: Davidson, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,51910345,,04/20/2018,1952.4,"Invoice-Private",,04/20/2018,04/20/2018,,51915422MO,-285.3000,,,,,,,,,,
+TRANSACTION,3020,010003519,1,1952.4,1952.4,"CR:Basic Service F... P.Davidson 201804: Davidson, Phyllis",,,,,,,,,,,,,,,

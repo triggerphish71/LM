@@ -1,0 +1,7 @@
+BATCH,,201205,B,2113.4400,
+INVOICE,IN,,10410257,,05/03/2012,186.4800,"Invoice-Private",,05/03/2012,05/03/2012,,10414790MO,-1740.4800,,,,,,,,,,
+TRANSACTION,3020,010101104,3,55.0000,165.00,"Basic Service Fee - Studio for May: Hansen, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,3,7.1600,21.48,"Resident Care - Level 4 for May: Hansen, Leroy",,,,,,,,,,,,,,,
+INVOICE,CM,,10410257,,05/03/2012,1926.96,"Invoice-Private",,05/03/2012,05/03/2012,,10414790MO,-1740.4800,,,,,,,,,,
+TRANSACTION,3020,010101104,1,1705,1705,"CR:Basic Service F... L.Hansen 201205: Hansen, Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,221.96,221.96,"CR:Resident Care -... L.Hansen 201205: Hansen, Leroy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,2640.0000,
+INVOICE,IN,,08910176,,04/01/2012,1320.0000,"Invoice-Private",,04/01/2012,04/10/2012,,08914688MO,-1744.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,30,44.0000,1320.00,"Credit for Limited Term Discount: Ono, Gregory",,,,,,,,,,,,,,,
+INVOICE,CM,,08910176,,04/01/2012,1320,"Invoice-Private",,04/01/2012,04/10/2012,,08914688MO,-1744.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,30,44,1320,"Limited Term Discount: Ono, Gregory",,,,,,,,,,,,,,,

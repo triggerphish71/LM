@@ -1,0 +1,6 @@
+BATCH,,201112,B,4619.0000,
+INVOICE,IN,,14110187,,12/01/2011,1054.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14113613MO,-2871.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,1054.0000,1054.00,"CR:Limited Term Di... P.Schonfeld 201112: Schonfeld, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,14110187,,12/01/2011,3565,"Invoice-Private",,12/01/2011,12/10/2011,,14113613MO,-2871.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2604,2604,"CR:Basic Service F... P.Schonfeld 201112: Schonfeld, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,961,961,"CR:Resident Care -... P.Schonfeld 201112: Schonfeld, Paul",,,,,,,,,,,,,,,

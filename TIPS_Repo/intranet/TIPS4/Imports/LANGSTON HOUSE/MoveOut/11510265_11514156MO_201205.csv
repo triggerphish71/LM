@@ -1,0 +1,5 @@
+BATCH,,201205,B,56.0000,
+INVOICE,IN,,11510265,,05/01/2012,28.0000,"Invoice-Private",,05/01/2012,05/10/2012,,11514156MO,-1868.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Johnson, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,11510265,,05/01/2012,28,"Invoice-Private",,05/01/2012,05/10/2012,,11514156MO,-1868.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Johnson, Ruby",,,,,,,,,,,,,,,

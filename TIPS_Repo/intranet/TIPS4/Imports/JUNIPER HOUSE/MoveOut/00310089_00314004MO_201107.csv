@@ -1,0 +1,7 @@
+BATCH,,201107,B,178.0000,
+INVOICE,IN,,00310089,,07/01/2011,89.0000,"Invoice-Private",,07/01/2011,07/10/2011,,00314004MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27.00,"Monthly Cable: Butherus, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101003,31,2.0000,62.00,"Credit for Limited Term Discount: Butherus, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,00310089,,07/01/2011,89,"Invoice-Private",,07/01/2011,07/10/2011,,00314004MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"Credit for Monthly Cable: Butherus, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101003,31,2,62,"Limited Term Discount: Butherus, Dorothy",,,,,,,,,,,,,,,

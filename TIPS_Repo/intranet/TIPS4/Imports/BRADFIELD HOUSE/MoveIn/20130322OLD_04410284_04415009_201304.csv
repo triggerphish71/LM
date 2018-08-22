@@ -1,0 +1,5 @@
+BATCH,,201304,B,3055.0000,
+INVOICE,IN,,04410284,,04/01/2013,3055.0000,"April_Rent-Ray. Nora",,04/01/2013,04/10/2013,,04415009,5590.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,30,85.0000,2550,"Basic Service Fee - Studio: Ray. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,30,16.0000,480,"Resident Care - Level 1: Ray. Nora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Ray. Nora",,,,,,,,,,,,,,,

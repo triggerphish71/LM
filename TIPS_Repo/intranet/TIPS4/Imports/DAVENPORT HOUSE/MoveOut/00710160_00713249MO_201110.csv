@@ -1,0 +1,5 @@
+BATCH,,201110,B,620.0000,
+INVOICE,IN,,00710160,,10/01/2011,310.0000,"Invoice-Private",,10/01/2011,10/10/2011,,00713249MO,-1551.2000,,,,,,,,,,
+TRANSACTION,3320,010101007,31,10.0000,310.00,"Credit for Limited Term Discount: Hanson, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,00710160,,10/01/2011,310,"Invoice-Private",,10/01/2011,10/10/2011,,00713249MO,-1551.2000,,,,,,,,,,
+TRANSACTION,3320,010101007,31,10,310,"Limited Term Discount: Hanson, Norma",,,,,,,,,,,,,,,

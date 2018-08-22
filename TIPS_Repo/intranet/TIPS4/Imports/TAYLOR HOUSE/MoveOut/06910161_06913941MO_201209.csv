@@ -1,0 +1,6 @@
+BATCH,,201209,B,2820.0000,
+INVOICE,IN,,06910161,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06913941MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,1,60.0000,60.00,"CR:Limited Term Di... K.Smith 201209: Smith, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,06910161,,09/01/2012,2760,"Invoice-Private",,09/01/2012,09/10/2012,,06913941MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2280,2280,"CR:Basic Service F... K.Smith 201209: Smith, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,480,480,"CR:Resident Care -... K.Smith 201209: Smith, Keith",,,,,,,,,,,,,,,

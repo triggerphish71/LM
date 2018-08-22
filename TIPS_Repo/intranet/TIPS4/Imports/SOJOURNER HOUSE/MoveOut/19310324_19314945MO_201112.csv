@@ -1,0 +1,7 @@
+BATCH,,201112,B,2622.6000,
+INVOICE,IN,,19310324,,12/01/2011,1311.3000,"Invoice-Private",,12/01/2011,12/10/2011,,19314945MO,-7507.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Clifton, Sr, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3019,010315193,31,32.3000,1001.30,"Additional Service Charge: Clifton, Sr, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,19310324,,12/01/2011,1311.3,"Invoice-Private",,12/01/2011,12/10/2011,,19314945MO,-7507.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Clifton, Sr, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3019,010315193,31,32.3,1001.3,"Credit for Additional Service Charge: Clifton, Sr, Ronald",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201104,B,11505.0000,
+INVOICE,IN,,06510129,,04/25/2011,5655.0000,"Invoice-Private",,04/25/2011,04/25/2011,,06514281MO,-6240.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,29,120.0000,3480.00,"Basic Service Fee- One Bedroom Premium for Apr: Carroll, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,29,75.0000,2175.00,"Resident Care - Level 4 for Apr: Carroll, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,06510129,,04/25/2011,5850,"Invoice-Private",,04/25/2011,04/25/2011,,06514281MO,-6240.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3600,3600,"CR:Basic Service F... R.Carroll 201104: Carroll, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,2250,2250,"CR:Resident Care -... R.Carroll 201104: Carroll, Ray",,,,,,,,,,,,,,,

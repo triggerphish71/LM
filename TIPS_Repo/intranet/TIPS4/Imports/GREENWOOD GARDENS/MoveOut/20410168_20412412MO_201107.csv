@@ -1,0 +1,7 @@
+BATCH,,201107,B,4644.0000,
+INVOICE,IN,,20410168,,07/01/2011,645.0000,"Invoice-Private",,07/01/2011,07/10/2011,,20412412MO,-3354.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,5,51.0000,255.00,"Resident Care - Level 5 for Jul: Stattine, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,5,78.0000,390.00,"Studio for Jul: Stattine, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,20410168,,07/01/2011,3999,"Invoice-Private",,07/01/2011,07/10/2011,,20412412MO,-3354.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1581,1581,"CR:Resident Care -... V.Stattine 201107: Stattine, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2418,2418,"CR:Studio... V.Stattine 201107: Stattine, Virginia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201207,B,1023.0000,
+INVOICE,IN,,17110251,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17115198MO,-963.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,62.0000,62.00,"CR:Limited Term Di... M.Carter 201207: Carter, Myrtle Berda",,,,,,,,,,,,,,,
+INVOICE,CM,,17110251,,07/01/2012,961,"Invoice-Private",,07/01/2012,07/10/2012,,17115198MO,-963.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,961,961,"CR:Basic Service F... M.Carter 201207: Carter, Myrtle Berda",,,,,,,,,,,,,,,

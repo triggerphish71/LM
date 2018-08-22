@@ -1,0 +1,7 @@
+BATCH,,201110,B,4454.0000,
+INVOICE,IN,,09110192,,10/01/2011,393.0000,"Invoice-Private",,10/01/2011,10/10/2011,,09114852MO,-3668.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,3,80.0000,240.00,"Basic Service Fee - Studio for Oct: Sperry, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,3,51.0000,153.00,"Resident Care - Level 3 for Oct: Sperry, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,09110192,,10/01/2011,4061,"Invoice-Private",,10/01/2011,10/10/2011,,09114852MO,-3668.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2480,2480,"CR:Basic Service F... R.Sperry 201110: Sperry, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1581,1581,"CR:Resident Care -... R.Sperry 201110: Sperry, Robert",,,,,,,,,,,,,,,

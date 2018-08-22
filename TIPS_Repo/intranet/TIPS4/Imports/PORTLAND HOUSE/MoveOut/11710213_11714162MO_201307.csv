@@ -1,0 +1,7 @@
+BATCH,,201307,B,9263.0000,
+INVOICE,IN,,11710213,,07/13/2013,4396.0000,"Invoice-Private",,07/13/2013,07/13/2013,,11714162MO,-5338.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,28,87.0000,2436.00,"Basic Service Fee - Studio for Jul: Lukac, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,28,70.0000,1960.00,"Resident Care - Level 5 for Jul: Lukac, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,11710213,,07/13/2013,4867,"Invoice-Private",,07/13/2013,07/13/2013,,11714162MO,-5338.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2697,2697,"CR:Basic Service F... I.Lukac 201307: Lukac, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,2170,2170,"CR:Resident Care -... I.Lukac 201307: Lukac, Irene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,13637.6800,
+INVOICE,IN,,11410119,,01/25/2012,6088.2500,"Invoice-Private",,01/25/2012,01/25/2012,,11414059MO,-8523.5500,,,,,,,,,,
+TRANSACTION,3020,010306114,25,135.0000,3375.00,"Basic Service Fee - One Bedroom for Jan: Astor, Elwood",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,25,108.5300,2713.25,"Swan Personal Care - L6+7 pts for Jan: Astor, Elwood",,,,,,,,,,,,,,,
+INVOICE,CM,,11410119,,01/25/2012,7549.43,"Invoice-Private",,01/25/2012,01/25/2012,,11414059MO,-8523.5500,,,,,,,,,,
+TRANSACTION,3020,010306114,1,4185,4185,"CR:Basic Service F... E.Astor 201201: Astor, Elwood",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,3364.43,3364.43,"CR:Swan Personal C... E.Astor 201201: Astor, Elwood",,,,,,,,,,,,,,,

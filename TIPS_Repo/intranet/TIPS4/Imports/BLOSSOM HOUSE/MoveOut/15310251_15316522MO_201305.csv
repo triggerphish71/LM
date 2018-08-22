@@ -1,0 +1,7 @@
+BATCH,,201305,B,8493.0000,
+INVOICE,IN,,15310251,,05/24/2013,3874.0000,"Invoice-Private",,05/24/2013,05/24/2013,,15316522MO,-3865.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,26,75.0000,1950.00,"Basic Service Fee - Studio for May: Nuckles, Margaret   (Peggy)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,26,74.0000,1924.00,"Resident Care - Level 40 for May: Nuckles, Margaret   (Peggy)",,,,,,,,,,,,,,,
+INVOICE,CM,,15310251,,05/24/2013,4619,"Invoice-Private",,05/24/2013,05/24/2013,,15316522MO,-3865.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2325,2325,"CR:Basic Service F... M.Nuckles 201305: Nuckles, Margaret   (Peggy)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2294,2294,"CR:Resident Care -... M.Nuckles 201305: Nuckles, Margaret   (Peggy)",,,,,,,,,,,,,,,

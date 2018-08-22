@@ -1,0 +1,7 @@
+BATCH,,201305,B,6686.8600,
+INVOICE,IN,,07010024,,05/01/2013,2651.4300,"Invoice-Private",,05/01/2013,05/10/2013,,07014779MO,-3417.6600,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2651.4300,2651.43,"CR:Resident Care L... R.Nisonger 201305: Nisonger, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,07010024,,05/01/2013,4035.43,"Invoice-Private",,05/01/2013,05/10/2013,,07014779MO,-3417.6600,,,,,,,,,,
+TRANSACTION,3020,010305070,1,1364,1364,"CR:Basic Service F... R.Nisonger 201305: Nisonger, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... R.Nisonger 201305: Nisonger, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2651.43,2651.43,"CR:Resident Care -... R.Nisonger 201305: Nisonger, Rosemary",,,,,,,,,,,,,,,

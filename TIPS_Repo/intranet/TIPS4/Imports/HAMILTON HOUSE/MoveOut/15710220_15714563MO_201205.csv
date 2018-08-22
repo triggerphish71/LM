@@ -1,0 +1,8 @@
+BATCH,,201205,B,6548.0000,
+INVOICE,IN,,15710220,,05/16/2012,2270.0000,"Invoice-Private",,05/16/2012,05/16/2012,,15714563MO,-6088.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,62.0000,62.00,"CR:Limited Term Di... R.Cox 201205: Cox, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,16,92.0000,1472.00,"Basic Service Fee - Studio for May: Cox, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,16,46.0000,736.00,"Resident Care - Level 3 for May: Cox, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,15710220,,05/16/2012,4278,"Invoice-Private",,05/16/2012,05/16/2012,,15714563MO,-6088.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... R.Cox 201205: Cox, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1426,1426,"CR:Resident Care -... R.Cox 201205: Cox, Ruth",,,,,,,,,,,,,,,

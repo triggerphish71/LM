@@ -1,0 +1,5 @@
+BATCH,,201111,B,1292.0000,
+INVOICE,IN,,15710246,,11/01/2011,272.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15714256MO,-748.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,8,34.0000,272.00,"Basic Service Fee - Second Resident for Nov: Greulach, Glendora",,,,,,,,,,,,,,,
+INVOICE,CM,,15710246,,11/01/2011,1020,"Invoice-Private",,11/01/2011,11/10/2011,,15714256MO,-748.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,1020,1020,"CR:Basic Service F... G.Greulach 201111: Greulach, Glendora",,,,,,,,,,,,,,,

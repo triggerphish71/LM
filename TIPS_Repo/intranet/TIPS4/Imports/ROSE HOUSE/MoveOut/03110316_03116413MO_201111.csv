@@ -1,0 +1,7 @@
+BATCH,,201111,B,3189.0000,
+INVOICE,IN,,03110316,,11/01/2011,312.0000,"Invoice-Private",,11/01/2011,11/10/2011,,03116413MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,3,95.0000,285.00,"Basic Service Fee - Studio for Nov: Wood, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Wood, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,03110316,,11/01/2011,2877,"Invoice-Private",,11/01/2011,11/10/2011,,03116413MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2850,2850,"CR:Basic Service F... R.Wood 201111: Wood, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Wood, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,1860.0000,
+INVOICE,IN,,02411273,,01/01/2012,930.0000,"Invoice-Private",,01/01/2012,01/10/2012,,02415497MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,31,30.0000,930.00,"Credit for Limited Term Discount: Lindsey, Dottie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411273,,01/01/2012,930,"Invoice-Private",,01/01/2012,01/10/2012,,02415497MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,31,30,930,"Limited Term Discount: Lindsey, Dottie",,,,,,,,,,,,,,,

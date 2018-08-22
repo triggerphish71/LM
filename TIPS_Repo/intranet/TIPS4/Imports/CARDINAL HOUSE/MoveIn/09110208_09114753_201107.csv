@@ -1,0 +1,5 @@
+BATCH,,201107,B,5596.0000,
+INVOICE,IN,,09110208,,07/01/2011,5596.0000,"MoveIn-Mullins. John",,07/01/2011,07/01/2011,,09114753,5596.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,31,80.0000,2480,"Basic Service Fee - Studio         : Mullins. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,31,36.0000,1116,"Resident Care - Level 2: Mullins. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Mullins. John",,,,,,,,,,,,,,,

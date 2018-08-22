@@ -1,0 +1,7 @@
+BATCH,,201806,B,4795.0000,
+INVOICE,IN,,31200036,,06/05/2018,565.0000,"Invoice-Private",,06/05/2018,06/05/2018,,31210540MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3020,070024312,5,95.0000,475.00,"Studio for Jun: Mihm, Maryilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024312,5,18.0000,90.00,"Resident Care - Level 1 for Jun: Mihm, Maryilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,31200036,,06/05/2018,4230,"Invoice-Private",,06/05/2018,06/05/2018,,31210540MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3027,070024312,1,1380,1380,"CR:Resident Care -... M.Mihm 201806: Mihm, Maryilyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,1,2850,2850,"CR:Studio... M.Mihm 201806: Mihm, Maryilyn",,,,,,,,,,,,,,,

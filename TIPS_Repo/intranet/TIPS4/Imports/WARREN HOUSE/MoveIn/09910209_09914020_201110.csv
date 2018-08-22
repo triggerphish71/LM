@@ -1,0 +1,5 @@
+BATCH,,201110,B,3745.0000,
+INVOICE,IN,,09910209,,10/12/2011,3745.0000,"MoveIn-Biermann. Evelyn",,10/12/2011,10/12/2011,,09914020,3745.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,20,86.0000,1720,"Basic Service Fee - Studio         : Biermann. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Biermann. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,2000.0000,2000,"New Resident Fee: Biermann. Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,1311.5500,
+INVOICE,IN,,01810147,,11/28/2011,1311.5500,"MoveIn-Moran. Velma",,11/28/2011,11/28/2011,,01812431,4530.9000,,,,,,,,,,
+TRANSACTION,3010,010103018,3,77.0000,231,"V.Moran: Basic Service Fee - Studio: Moran. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103018,3,26.8500,80.55,"V.Moran: Resident Care - Level 15: Moran. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103018,1,1000.0000,1000,"New Resident Fee: Moran. Velma",,,,,,,,,,,,,,,

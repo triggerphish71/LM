@@ -1,0 +1,6 @@
+BATCH,,201202,B,1788.5900,
+INVOICE,IN,,07810083,,02/24/2012,483.3600,"Invoice-Medicaid",,02/24/2012,02/24/2012,,07814475MO,-2176.8400,,,,,,,,,,
+TRANSACTION,3021,010104078,24,20.1400,483.36,"Medicaid Room & Board for Feb: Schueler, Clark",,,,,,,,,,,,,,,
+INVOICE,CM,,07810083,,02/24/2012,1305.23,"Invoice-Medicaid",,02/24/2012,02/24/2012,,07814475MO,-2176.8400,,,,,,,,,,
+TRANSACTION,3021,010104078,1,584,584,"CR:Medicaid Room &... C.Schueler 201202: Schueler, Clark",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104078,1,721.23,721.23,"CR:State Medicaid... C.Schueler 201202: Schueler, Clark",,,,,,,,,,,,,,,

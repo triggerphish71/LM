@@ -1,0 +1,7 @@
+BATCH,,201303,B,140.0000,
+INVOICE,IN,,13410196,,03/01/2013,70.0000,"Invoice-Private",,03/01/2013,03/10/2013,,13415962MO,-3982.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35.00,"Monthly Cable: Smitha, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309134,1,35.0000,35.00,"Pendant Fee: Smitha, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13410196,,03/01/2013,70,"Invoice-Private",,03/01/2013,03/10/2013,,13415962MO,-3982.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"Credit for Monthly Cable: Smitha, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309134,1,35,35,"Credit for Pendant Fee: Smitha, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,5030.0000,
+INVOICE,IN,,03310310,,02/10/2013,1922.0000,"Invoice-Private",,02/10/2013,02/10/2013,,03317010MO,-1186.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,812.0000,812.00,"CR:Limited Term Di... G.Jennings 201302: Jennings, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,10,94.0000,940.00,"Basic Service Fee - Studio for Feb: Jennings, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,10,17.0000,170.00,"Resident Care - Level 1 for Feb: Jennings, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,03310310,,02/10/2013,3108,"Invoice-Private",,02/10/2013,02/10/2013,,03317010MO,-1186.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2632,2632,"CR:Basic Service F... G.Jennings 201302: Jennings, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,476,476,"CR:Resident Care -... G.Jennings 201302: Jennings, Gene",,,,,,,,,,,,,,,

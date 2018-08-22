@@ -1,0 +1,7 @@
+BATCH,,201308,B,3366.0000,
+INVOICE,IN,,01910246,,08/01/2013,204.0000,"Invoice-Private",,08/01/2013,08/10/2013,,01915480MO,-2958.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,2,85.0000,170.00,"Basic Service Fee - Studio for Aug: Riley, Sandra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,2,17.0000,34.00,"Resident Care - Level 1 for Aug: Riley, Sandra",,,,,,,,,,,,,,,
+INVOICE,CM,,01910246,,08/01/2013,3162,"Invoice-Private",,08/01/2013,08/10/2013,,01915480MO,-2958.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2635,2635,"CR:Basic Service F... S.Riley 201308: Riley, Sandra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,527,527,"CR:Resident Care -... S.Riley 201308: Riley, Sandra",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201207,B,2108.0000,
+INVOICE,IN,,09810236,,07/01/2012,1054.0000,"Invoice-Private",,07/01/2012,07/10/2012,,09814687MO,-1820.3100,,,,,,,,,,
+TRANSACTION,3320,010103098,31,34.0000,1054.00,"Credit for Limited Term Discount: Kahaku, Marianne",,,,,,,,,,,,,,,
+INVOICE,CM,,09810236,,07/01/2012,1054,"Invoice-Private",,07/01/2012,07/10/2012,,09814687MO,-1820.3100,,,,,,,,,,
+TRANSACTION,3320,010103098,31,34,1054,"Limited Term Discount: Kahaku, Marianne",,,,,,,,,,,,,,,

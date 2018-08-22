@@ -1,0 +1,7 @@
+BATCH,,201107,B,4320.0000,
+INVOICE,IN,,05210095,,07/01/2011,1344.0000,"Invoice-Private",,07/01/2011,07/01/2011,,05214485MO,-1632.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,14,79.0000,1106.00,"Basic Service Fee - Studio for Jul: Stone, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,14,17.0000,238.00,"Resident Care - Level 1 for Jul: Stone, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,05210095,,07/01/2011,2976,"Invoice-Private",,07/01/2011,07/01/2011,,05214485MO,-1632.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2449,2449,"CR:Basic Service F... M.Stone 201107: Stone, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,527,527,"CR:Resident Care -... M.Stone 201107: Stone, Mary",,,,,,,,,,,,,,,

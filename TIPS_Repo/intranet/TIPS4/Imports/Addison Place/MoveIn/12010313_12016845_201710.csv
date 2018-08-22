@@ -1,0 +1,5 @@
+BATCH,,201710,B,5653.8000,
+INVOICE,IN,,12010313,,11/01/2017,5653.8000,"MoveIn-Thomas. Bill",,11/01/2017,11/01/2017,,12016845,5653.8000,,,,,,,,,,
+TRANSACTION,3010,010009120,9,81.0000,729,"Basic Service Fee - Studio: Thomas. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2462.4000,2462.4,"Community Fee: Thomas. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,2462.4000,2462.4,"Monthly Deferral Charge: Thomas. Bill",,,,,,,,,,,,,,,

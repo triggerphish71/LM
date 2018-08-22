@@ -1,0 +1,7 @@
+BATCH,,201212,B,9204.0000,
+INVOICE,IN,,03410310,,12/21/2012,3717.0000,"Invoice-Private",,12/21/2012,12/21/2012,,03415892MO,-6292.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,21,112.0000,2352.00,"Basic Service Fee - One Bedroom for Dec: Masterson, Leonora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,21,65.0000,1365.00,"Resident Care - Level 6 for Dec: Masterson, Leonora",,,,,,,,,,,,,,,
+INVOICE,CM,,03410310,,12/21/2012,5487,"Invoice-Private",,12/21/2012,12/21/2012,,03415892MO,-6292.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,3472,3472,"CR:Basic Service F... L.Masterson 201212: Masterson, Leonora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,2015,2015,"CR:Resident Care -... L.Masterson 201212: Masterson, Leonora",,,,,,,,,,,,,,,

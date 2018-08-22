@@ -1,0 +1,7 @@
+BATCH,,201204,B,3245.0000,
+INVOICE,IN,,15410216,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15414857MO,-3856.0000,,,,,,,,,,
+TRANSACTION,3320,010211154,1,60.0000,60.00,"CR:Limited Term Di... A.Goebel 201204: Goebel, Alphonse",,,,,,,,,,,,,,,
+INVOICE,CM,,15410216,,04/01/2012,3185,"Invoice-Private",,04/01/2012,04/10/2012,,15414857MO,-3856.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2100,2100,"CR:Basic Service F... A.Goebel 201204: Goebel, Alphonse",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... A.Goebel 201204: Goebel, Alphonse",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1050,1050,"CR:Resident Care -... A.Goebel 201204: Goebel, Alphonse",,,,,,,,,,,,,,,

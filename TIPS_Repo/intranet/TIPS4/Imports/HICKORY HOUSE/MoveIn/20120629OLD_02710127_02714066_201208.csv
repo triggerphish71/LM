@@ -1,0 +1,5 @@
+BATCH,,201208,B,1333.3400,
+INVOICE,IN,,02710127,,07/01/2012,166.6700,"July_Rent-Williams. Norvall",,07/01/2012,07/10/2012,,02714066,5500.0000,,,,,,,,,,
+TRANSACTION,3216,010202027,1,166.6700,166.67,"Monthly Deferral Charge: Williams. Norvall",,,,,,,,,,,,,,,
+INVOICE,CM,,02710127,,07/01/2012,1166.6700,"July_Rent-Williams. Norvall",,07/01/2012,07/10/2012,,02714066,5500.0000,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1166.67,1166.67,"New Resident Fee Deferred: Williams. Norvall",,,,,,,,,,,,,,,

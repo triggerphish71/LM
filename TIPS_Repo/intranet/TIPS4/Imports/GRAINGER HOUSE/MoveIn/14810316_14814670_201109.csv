@@ -1,0 +1,6 @@
+BATCH,,201109,B,5235.0000,
+INVOICE,IN,,14810316,,09/02/2011,5235.0000,"MoveIn-Shanley. James",,09/02/2011,09/02/2011,,14814670,5235.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,29,88.0000,2552,"Basic Service Fee - Studio         : Shanley. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,29,57.0000,1653,"Resident Care - Level 4: Shanley. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Shanley. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Shanley. James",,,,,,,,,,,,,,,

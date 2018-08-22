@@ -1,0 +1,5 @@
+BATCH,,201106,B,240.0000,
+INVOICE,IN,,08110207,,06/01/2011,120.0000,"Invoice-Private",,06/01/2011,06/10/2011,,08114085MO,-4584.8000,,,,,,,,,,
+TRANSACTION,3320,010103081,30,4.0000,120.00,"Credit for Limited Term Discount: Fishman, Babette",,,,,,,,,,,,,,,
+INVOICE,CM,,08110207,,06/01/2011,120,"Invoice-Private",,06/01/2011,06/10/2011,,08114085MO,-4584.8000,,,,,,,,,,
+TRANSACTION,3320,010103081,30,4,120,"Limited Term Discount: Fishman, Babette",,,,,,,,,,,,,,,

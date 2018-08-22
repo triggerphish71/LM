@@ -1,0 +1,5 @@
+BATCH,,201109,B,54.0000,
+INVOICE,IN,,13010272,,09/01/2011,27.0000,"Invoice-Private",,09/01/2011,09/10/2011,,13015288MO,-4787.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Battrell, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13010272,,09/01/2011,27,"Invoice-Private",,09/01/2011,09/10/2011,,13015288MO,-4787.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Battrell, Dorothy",,,,,,,,,,,,,,,

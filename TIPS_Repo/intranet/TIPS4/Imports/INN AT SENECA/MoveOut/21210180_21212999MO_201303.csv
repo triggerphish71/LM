@@ -1,0 +1,5 @@
+BATCH,,201303,B,3875.0000,
+INVOICE,CM,,21210180,,03/01/2013,3875,"Invoice-Private",,03/01/2013,03/10/2013,,21212999MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,372,372,"CR:Resident Care -... R.Stone 201303: Stone, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,651,651,"CR:Resident Care L... R.Stone 201303: Stone, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2852,2852,"CR:Studio Deluxe... R.Stone 201303: Stone, Robert",,,,,,,,,,,,,,,

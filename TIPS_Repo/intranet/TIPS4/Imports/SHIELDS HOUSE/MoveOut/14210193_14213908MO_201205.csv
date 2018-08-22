@@ -1,0 +1,5 @@
+BATCH,,201205,B,70.0000,
+INVOICE,IN,,14210193,,05/01/2012,35.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14213908MO,-1715.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Wayt, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,14210193,,05/01/2012,35,"Invoice-Private",,05/01/2012,05/10/2012,,14213908MO,-1715.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Wayt, Clifford",,,,,,,,,,,,,,,

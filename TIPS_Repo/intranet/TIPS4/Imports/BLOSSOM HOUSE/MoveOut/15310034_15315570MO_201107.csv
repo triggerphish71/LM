@@ -1,0 +1,6 @@
+BATCH,,201107,B,2792.1200,
+INVOICE,IN,,15310034,,07/28/2011,775.8800,"Invoice-Medicaid",,07/28/2011,07/28/2011,,15315570MO,-3256.6000,,,,,,,,,,
+TRANSACTION,3021,010103153,28,27.7100,775.88,"Medicaid Co-Pay for Jul: Haines, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,15310034,,07/28/2011,2016.24,"Invoice-Medicaid",,07/28/2011,07/28/2011,,15315570MO,-3256.6000,,,,,,,,,,
+TRANSACTION,3021,010103153,1,859.11,859.11,"CR:Medicaid Co-Pay... E.Haines 201107: Haines, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103153,1,1157.13,1157.13,"CR:State Medicaid ... E.Haines 201107: Haines, Ethel",,,,,,,,,,,,,,,

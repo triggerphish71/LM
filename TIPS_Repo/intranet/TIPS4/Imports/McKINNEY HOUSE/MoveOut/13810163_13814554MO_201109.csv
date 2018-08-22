@@ -1,0 +1,7 @@
+BATCH,,201109,B,1120.0000,
+INVOICE,IN,,13810163,,09/01/2011,560.0000,"Invoice-Private",,09/01/2011,09/10/2011,,13814554MO,-4815.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,18.0000,540.00,"Credit for Limited Term Discount: Storckman, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3228,010309138,1,20.0000,20.00,"Sharps Disposal: Storckman, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,13810163,,09/01/2011,560,"Invoice-Private",,09/01/2011,09/10/2011,,13814554MO,-4815.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,18,540,"Limited Term Discount: Storckman, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3228,010309138,1,20,20,"Credit for Sharps Disposal: Storckman, Roger",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,110.0000,
+INVOICE,IN,,53210319,,12/01/2011,55.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53215063MO,-3152.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30.00,"Monthly Cable: Polzynski, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25.0000,25.00,"Pendant Fee: Polzynski, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,53210319,,12/01/2011,55,"Invoice-Private",,12/01/2011,12/10/2011,,53215063MO,-3152.0000,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"Credit for Monthly Cable: Polzynski, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"Credit for Pendant Fee: Polzynski, Rose",,,,,,,,,,,,,,,

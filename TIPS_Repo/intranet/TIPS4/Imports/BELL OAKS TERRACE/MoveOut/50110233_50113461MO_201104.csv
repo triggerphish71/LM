@@ -1,0 +1,6 @@
+BATCH,,201104,B,4482.0000,
+INVOICE,IN,,50110233,,04/18/2011,1932.0000,"Invoice-Private",,04/18/2011,04/18/2011,,50113461MO,-3222.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,23,84.0000,1932.00,"Basic Service Fee - Studio for Apr: Huett, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,50110233,,04/18/2011,2550,"Invoice-Private",,04/18/2011,04/18/2011,,50113461MO,-3222.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2520,2520,"CR:Basic Service F... M.Huett 201104: Huett, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Huett 201104: Huett, Marilyn",,,,,,,,,,,,,,,

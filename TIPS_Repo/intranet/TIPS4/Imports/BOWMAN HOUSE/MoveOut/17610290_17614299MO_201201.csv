@@ -1,0 +1,8 @@
+BATCH,,201201,B,6471.0000,
+INVOICE,IN,,17610290,,01/30/2012,3030.0000,"Invoice-Private",,01/30/2012,01/30/2012,,17614299MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,30,73.0000,2190.00,"Basic Service Fee - Studio for Jan: Adamus, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,30,28.0000,840.00,"Resident Care - Level 2 for Jan: Adamus, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,17610290,,01/30/2012,3441,"Invoice-Private",,01/30/2012,01/30/2012,,17614299MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... D.Adamus 201201: Adamus, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... D.Adamus 201201: Adamus, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... D.Adamus 201201: Adamus, Dorothy",,,,,,,,,,,,,,,

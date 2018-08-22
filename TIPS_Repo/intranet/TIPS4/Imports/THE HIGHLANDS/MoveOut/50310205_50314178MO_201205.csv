@@ -1,0 +1,7 @@
+BATCH,,201205,B,3569.0000,
+INVOICE,IN,,50310205,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50314178MO,-4092.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,62.0000,62.00,"CR:Limited Term Di... L.Leab 201205: Leab, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,50310205,,05/01/2012,3507,"Invoice-Private",,05/01/2012,05/10/2012,,50314178MO,-4092.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,3038,3038,"CR:Basic Service F... L.Leab 201205: Leab, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... L.Leab 201205: Leab, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... L.Leab 201205: Leab, Louise",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201206,B,4500.0000,
+INVOICE,IN,,03210264,,06/01/2012,1170.0000,"Invoice-Private",,06/01/2012,06/10/2012,,03214906MO,-2283.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,1170.0000,1170.00,"CR:Limited Term Di... L.Glover 201206: Glover, Laina",,,,,,,,,,,,,,,
+INVOICE,CM,,03210264,,06/01/2012,3330,"Invoice-Private",,06/01/2012,06/10/2012,,03214906MO,-2283.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... L.Glover 201206: Glover, Laina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,510,510,"CR:Resident Care -... L.Glover 201206: Glover, Laina",,,,,,,,,,,,,,,

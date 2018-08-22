@@ -1,0 +1,7 @@
+BATCH,,201302,B,194.0000,
+INVOICE,IN,,21210190,,02/01/2013,97.0000,"Invoice-Private",,02/01/2013,02/10/2013,,21212897MO,-6573.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,28,2.0000,56.00,"Credit for Limited Term Discount: Whitfield, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Whitfield, James",,,,,,,,,,,,,,,
+INVOICE,CM,,21210190,,02/01/2013,97,"Invoice-Private",,02/01/2013,02/10/2013,,21212897MO,-6573.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,28,2,56,"Limited Term Discount: Whitfield, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Whitfield, James",,,,,,,,,,,,,,,

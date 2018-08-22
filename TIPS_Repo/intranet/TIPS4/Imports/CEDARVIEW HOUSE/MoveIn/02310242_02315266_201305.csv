@@ -1,0 +1,5 @@
+BATCH,,201305,B,4086.0000,
+INVOICE,IN,,02310242,,05/01/2013,4086.0000,"May_Rent-Arney. Calvin",,05/01/2013,05/10/2013,,02315266,5290.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,31,114.0000,3534,"Basic Service Fee - One Bedroom: Arney. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202023,31,17.0000,527,"Resident Care - Level 1: Arney. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Arney. Calvin",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,60.0000,
+INVOICE,IN,,14010001,,06/01/2012,30.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14013800MO,-7123.5000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30.00,"Monthly Cable: Bryant, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14010001,,06/01/2012,30,"Invoice-Private",,06/01/2012,06/10/2012,,14013800MO,-7123.5000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"Credit for Monthly Cable: Bryant, Helen",,,,,,,,,,,,,,,

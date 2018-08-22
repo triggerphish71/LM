@@ -1,0 +1,7 @@
+BATCH,,201209,B,5230.0000,
+INVOICE,IN,,11810156,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,11815492MO,-5110.0000,,,,,,,,,,
+TRANSACTION,3320,010310118,1,60.0000,60.00,"CR:Limited Term Di... M.Sanders 201209: Sanders, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,11810156,,09/01/2012,5170,"Invoice-Private",,09/01/2012,09/10/2012,,11815492MO,-5110.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3000,3000,"CR:Basic Service F... M.Sanders 201209: Sanders, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... M.Sanders 201209: Sanders, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,2130,2130,"CR:Resident Care -... M.Sanders 201209: Sanders, Martha",,,,,,,,,,,,,,,

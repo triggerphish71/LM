@@ -1,0 +1,7 @@
+BATCH,,201305,B,3204.0000,
+INVOICE,IN,,02810161,,05/01/2013,445.0000,"Invoice-Private",,05/01/2013,05/10/2013,,02815759MO,-2314.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,5,75.0000,375.00,"Basic Service Fee - Studio for May: Moore, LO",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,5,14.0000,70.00,"Resident Care - Level 1 for May: Moore, LO",,,,,,,,,,,,,,,
+INVOICE,CM,,02810161,,05/01/2013,2759,"Invoice-Private",,05/01/2013,05/10/2013,,02815759MO,-2314.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,2325,2325,"CR:Basic Service F... L.Moore 201305: Moore, LO",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,434,434,"CR:Resident Care -... L.Moore 201305: Moore, LO",,,,,,,,,,,,,,,

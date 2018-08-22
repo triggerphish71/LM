@@ -1,0 +1,7 @@
+BATCH,,201307,B,3195.0000,
+INVOICE,IN,,05510241,,07/14/2013,994.0000,"Invoice-Private",,07/14/2013,07/14/2013,,05514642MO,-1207.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,14,55.0000,770.00,"Basic Service Fee - Studio for Jul: Hemann, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,14,16.0000,224.00,"Resident Care - Level 1 for Jul: Hemann, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,05510241,,07/14/2013,2201,"Invoice-Private",,07/14/2013,07/14/2013,,05514642MO,-1207.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,1705,1705,"CR:Basic Service F... E.Hemann 201307: Hemann, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,496,496,"CR:Resident Care -... E.Hemann 201307: Hemann, Evelyn",,,,,,,,,,,,,,,

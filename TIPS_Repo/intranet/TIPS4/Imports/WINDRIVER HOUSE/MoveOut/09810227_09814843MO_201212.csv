@@ -1,0 +1,5 @@
+BATCH,,201212,B,682.0000,
+INVOICE,IN,,09810227,,12/01/2012,341.0000,"Invoice-Private",,12/01/2012,12/10/2012,,09814843MO,-6445.2500,,,,,,,,,,
+TRANSACTION,3320,010103098,31,11.0000,341.00,"Credit for Limited Term Discount: Hunt, Verna",,,,,,,,,,,,,,,
+INVOICE,CM,,09810227,,12/01/2012,341,"Invoice-Private",,12/01/2012,12/10/2012,,09814843MO,-6445.2500,,,,,,,,,,
+TRANSACTION,3320,010103098,31,11,341,"Limited Term Discount: Hunt, Verna",,,,,,,,,,,,,,,

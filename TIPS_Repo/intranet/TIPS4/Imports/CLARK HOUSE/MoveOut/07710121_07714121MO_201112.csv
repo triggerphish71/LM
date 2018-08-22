@@ -1,0 +1,8 @@
+BATCH,,201112,B,8147.0000,
+INVOICE,IN,,07710121,,12/22/2011,3962.0000,"Invoice-Private",,12/22/2011,12/22/2011,,07714121MO,-4470.0000,,,,,,,,,,
+TRANSACTION,3320,010104077,1,992.0000,992.00,"CR:Limited Term Di... E.Tweedy 201112: Tweedy, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104077,22,92.0000,2024.00,"Basic Service Fee - Studio for Dec: Tweedy, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,22,43.0000,946.00,"Resident Care - Level 3 for Dec: Tweedy, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,07710121,,12/22/2011,4185,"Invoice-Private",,12/22/2011,12/22/2011,,07714121MO,-4470.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2852,2852,"CR:Basic Service F... E.Tweedy 201112: Tweedy, Earl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,1333,1333,"CR:Resident Care -... E.Tweedy 201112: Tweedy, Earl",,,,,,,,,,,,,,,

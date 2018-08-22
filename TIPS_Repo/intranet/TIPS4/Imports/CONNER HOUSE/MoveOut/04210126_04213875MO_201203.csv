@@ -1,0 +1,5 @@
+BATCH,,201203,B,54.0000,
+INVOICE,IN,,04210126,,03/01/2012,27.0000,"Invoice-Private",,03/01/2012,03/10/2012,,04213875MO,-4114.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Jennings, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,04210126,,03/01/2012,27,"Invoice-Private",,03/01/2012,03/10/2012,,04213875MO,-4114.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Jennings, Virginia",,,,,,,,,,,,,,,

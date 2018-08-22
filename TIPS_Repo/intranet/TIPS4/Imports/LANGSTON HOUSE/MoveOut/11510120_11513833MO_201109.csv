@@ -1,0 +1,7 @@
+BATCH,,201109,B,2788.0000,
+INVOICE,IN,,11510120,,09/01/2011,60.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11513833MO,-3624.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,60.0000,60.00,"CR:Limited Term Di... H.Davis 201109: Davis, Henryetta",,,,,,,,,,,,,,,
+INVOICE,CM,,11510120,,09/01/2011,2728,"Invoice-Private",,09/01/2011,09/10/2011,,11513833MO,-3624.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2250,2250,"CR:Basic Service F... H.Davis 201109: Davis, Henryetta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... H.Davis 201109: Davis, Henryetta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,450,450,"CR:Resident Care -... H.Davis 201109: Davis, Henryetta",,,,,,,,,,,,,,,

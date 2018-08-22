@@ -1,0 +1,6 @@
+BATCH,,201304,B,1885.0000,
+INVOICE,IN,,51110196,,04/25/2013,1885.0000,"MoveIn-Maxwell. Lola",,04/25/2013,04/25/2013,,51112798,6345.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,6,105.0000,630,"Basic Service Fee - Studio: Maxwell. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,6,38.0000,228,"Resident Care - Level 2: Maxwell. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Maxwell. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310511,1,1000.0000,1000,"New Resident Fee: Maxwell. Lola",,,,,,,,,,,,,,,

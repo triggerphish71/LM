@@ -1,0 +1,8 @@
+BATCH,,201111,B,6020.0000,
+INVOICE,IN,,11910219,,11/07/2011,1134.0000,"Invoice-Private",,11/07/2011,11/07/2011,,11915461MO,-3752.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,7,89.0000,623.00,"Basic Service Fee - Studio for Nov: Howryla, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,7,73.0000,511.00,"Resident Care - Level 5 for Nov: Howryla, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,11910219,,11/07/2011,4886,"Invoice-Private",,11/07/2011,11/07/2011,,11915461MO,-3752.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2670,2670,"CR:Basic Service F... B.Howryla 201111: Howryla, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... B.Howryla 201111: Howryla, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,2190,2190,"CR:Resident Care -... B.Howryla 201111: Howryla, Blanche",,,,,,,,,,,,,,,

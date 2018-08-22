@@ -1,0 +1,6 @@
+BATCH,,201109,B,4350.0000,
+INVOICE,IN,,13310346,,09/01/2011,720.0000,"Invoice-Private",,09/01/2011,09/10/2011,,13315072MO,-4362.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,1,720.0000,720.00,"CR:Limited Term Di... R.Black 201109: Black, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13310346,,09/01/2011,3630,"Invoice-Private",,09/01/2011,09/10/2011,,13315072MO,-4362.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2670,2670,"CR:Basic Service F... R.Black 201109: Black, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,960,960,"CR:Resident Care -... R.Black 201109: Black, Robert",,,,,,,,,,,,,,,

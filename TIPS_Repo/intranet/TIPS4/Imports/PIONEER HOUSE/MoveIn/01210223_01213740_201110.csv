@@ -1,0 +1,5 @@
+BATCH,,201110,B,2918.2000,
+INVOICE,IN,,01210223,,10/01/2011,2918.2000,"October_Rent-Faber. Ellen",,10/01/2011,10/10/2011,,01213740,5286.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,31,83.0000,2573,"Basic Service Fee - Studio         : Faber. Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,31,10.2000,316.2,"Resident Care - Level 6: Faber. Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Faber. Ellen",,,,,,,,,,,,,,,

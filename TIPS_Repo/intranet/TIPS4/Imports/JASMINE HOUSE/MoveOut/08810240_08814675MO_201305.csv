@@ -1,0 +1,5 @@
+BATCH,,201305,B,3570.0000,
+INVOICE,IN,,08810240,,05/03/2013,1400.0000,"Invoice-Private",,05/03/2013,05/03/2013,,08814675MO,-770.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,20,70.0000,1400.00,"Basic Service Fee - One Bedroom for May: Ratliff, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08810240,,05/03/2013,2170,"Invoice-Private",,05/03/2013,05/03/2013,,08814675MO,-770.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2170,2170,"CR:Basic Service F... M.Ratliff 201305: Ratliff, Mary",,,,,,,,,,,,,,,

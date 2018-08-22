@@ -1,0 +1,5 @@
+BATCH,,201112,B,54.0000,
+INVOICE,IN,,05510224,,12/01/2011,27.0000,"Invoice-Private",,12/01/2011,12/10/2011,,05514214MO,-640.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27.00,"Monthly Cable: Schultea, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,05510224,,12/01/2011,27,"Invoice-Private",,12/01/2011,12/10/2011,,05514214MO,-640.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"Credit for Monthly Cable: Schultea, Lois",,,,,,,,,,,,,,,

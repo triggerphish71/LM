@@ -1,0 +1,6 @@
+BATCH,,201110,B,6665.0000,
+INVOICE,IN,,53010238,,10/01/2011,1767.0000,"Invoice-Private",,10/01/2011,10/10/2011,,53015471MO,-3131.0000,,,,,,,,,,
+TRANSACTION,3315,010319530,1,1767.0000,1767.00,"CR:Promotional Dis... M.Orlando 201110: Orlando, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,53010238,,10/01/2011,4898,"Invoice-Private",,10/01/2011,10/10/2011,,53015471MO,-3131.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3534,3534,"CR:Basic Service F... M.Orlando 201110: Orlando, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1364,1364,"CR:Resident Care -... M.Orlando 201110: Orlando, Mildred",,,,,,,,,,,,,,,

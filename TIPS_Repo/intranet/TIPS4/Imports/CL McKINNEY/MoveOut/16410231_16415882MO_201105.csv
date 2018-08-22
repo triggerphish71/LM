@@ -1,0 +1,8 @@
+BATCH,,201105,B,5748.0000,
+INVOICE,IN,,16410231,,05/28/2011,2716.0000,"Invoice-Private",,05/28/2011,05/28/2011,,16415882MO,-3251.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,28,82.0000,2296.00,"Basic Service Fee - Studio for May: Moore, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,28,15.0000,420.00,"Resident Care - Level 1 for May: Moore, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,16410231,,05/28/2011,3032,"Invoice-Private",,05/28/2011,05/28/2011,,16415882MO,-3251.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2542,2542,"CR:Basic Service F... V.Moore 201105: Moore, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25,25,"CR:Monthly Cable... V.Moore 201105: Moore, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,465,465,"CR:Resident Care -... V.Moore 201105: Moore, Virginia",,,,,,,,,,,,,,,

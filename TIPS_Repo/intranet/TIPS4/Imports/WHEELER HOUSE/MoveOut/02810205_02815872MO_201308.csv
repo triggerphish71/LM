@@ -1,0 +1,7 @@
+BATCH,,201308,B,8235.0000,
+INVOICE,IN,,02810205,,08/01/2013,4050.0000,"Invoice-Private",,08/01/2013,08/10/2013,,02815872MO,-135.0000,,,,,,,,,,
+TRANSACTION,3027,010202028,30,70.0000,2100.00,"Resident Care - Level 6 for Aug: Loving, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,30,65.0000,1950.00,"Room and Board - Studio for Aug: Loving, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,02810205,,08/01/2013,4185,"Invoice-Private",,08/01/2013,08/10/2013,,02815872MO,-135.0000,,,,,,,,,,
+TRANSACTION,3027,010202028,1,2170,2170,"CR:Resident Care -... B.Loving 201308: Loving, Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,1,2015,2015,"CR:Room and Board ... B.Loving 201308: Loving, Bonnie",,,,,,,,,,,,,,,

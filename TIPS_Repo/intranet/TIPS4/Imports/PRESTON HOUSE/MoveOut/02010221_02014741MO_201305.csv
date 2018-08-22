@@ -1,0 +1,8 @@
+BATCH,,201305,B,7780.0000,
+INVOICE,IN,,02010221,,05/22/2013,3384.0000,"Invoice-Private",,05/22/2013,05/22/2013,,02014741MO,-5267.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,24,92.0000,2208.00,"Basic Service Fee - One Bedroom for May: Payne, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202020,24,49.0000,1176.00,"Private Care Rate Adjustment for May: Payne, Nina",,,,,,,,,,,,,,,
+INVOICE,CM,,02010221,,05/22/2013,4396,"Invoice-Private",,05/22/2013,05/22/2013,,02014741MO,-5267.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2852,2852,"CR:Basic Service F... N.Payne 201305: Payne, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... N.Payne 201305: Payne, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202020,1,1519,1519,"CR:Private Care Ra... N.Payne 201305: Payne, Nina",,,,,,,,,,,,,,,

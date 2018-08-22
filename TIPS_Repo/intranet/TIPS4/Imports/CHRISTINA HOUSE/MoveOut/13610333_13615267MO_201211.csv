@@ -1,0 +1,8 @@
+BATCH,,201211,B,7865.0000,
+INVOICE,IN,,13610333,,11/28/2012,3780.0000,"Invoice-Private",,11/28/2012,11/28/2012,,13615267MO,-4490.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,28,65.0000,1820.00,"Basic Service Fee - Studio for Nov: Lewis, Richard (Duke)",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309136,28,70.0000,1960.00,"Private Care Rate Adjustments for Nov: Lewis, Richard (Duke)",,,,,,,,,,,,,,,
+INVOICE,CM,,13610333,,11/28/2012,4085,"Invoice-Private",,11/28/2012,11/28/2012,,13615267MO,-4490.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1950,1950,"CR:Basic Service F... R.Lewis 201211: Lewis, Richard (Duke)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... R.Lewis 201211: Lewis, Richard (Duke)",,,,,,,,,,,,,,,
+TRANSACTION,3037,010309136,1,2100,2100,"CR:Private Care Ra... R.Lewis 201211: Lewis, Richard (Duke)",,,,,,,,,,,,,,,

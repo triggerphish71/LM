@@ -1,0 +1,5 @@
+BATCH,,201303,B,5472.0000,
+INVOICE,IN,,19510258,,03/01/2013,5472.0000,"MoveIn-Martinez. Antonio",,03/01/2013,03/01/2013,,19514784,5472.0000,,,,,,,,,,
+TRANSACTION,3010,010309195,31,94.0000,2914,"Basic Service Fee - Studio: Martinez. Antonio",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309195,31,18.0000,558,"Resident Care - Level 1: Martinez. Antonio",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309195,1,2000.0000,2000,"New Resident Fee: Martinez. Antonio",,,,,,,,,,,,,,,

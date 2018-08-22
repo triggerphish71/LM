@@ -1,0 +1,6 @@
+BATCH,,201302,B,4586.4000,
+INVOICE,IN,,51610261,,02/01/2013,1092.0000,"Invoice-Private",,02/01/2013,02/10/2013,,51614008MO,-2402.4000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,1092.0000,1092.00,"CR:Limited Term Di... D.Bailly 201302: Bailly, Demetra ",,,,,,,,,,,,,,,
+INVOICE,CM,,51610261,,02/01/2013,3494.4,"Invoice-Private",,02/01/2013,02/10/2013,,51614008MO,-2402.4000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2492,2492,"CR:Basic Service F... D.Bailly 201302: Bailly, Demetra ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,1002.4,1002.4,"CR:Resident Care -... D.Bailly 201302: Bailly, Demetra ",,,,,,,,,,,,,,,

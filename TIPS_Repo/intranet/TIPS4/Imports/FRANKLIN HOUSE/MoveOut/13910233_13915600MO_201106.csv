@@ -1,0 +1,8 @@
+BATCH,,201106,B,7744.0000,
+INVOICE,IN,,13910233,,06/05/2011,1102.0000,"Invoice-Private",,06/05/2011,06/05/2011,,13915600MO,-5540.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,5,115.0000,575.00,"Basic Service Fee - One Bedroom for Jun: Michels, Jo Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,5,105.4000,527.00,"Resident Care - Level 62 for Jun: Michels, Jo Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,13910233,,06/05/2011,6642,"Invoice-Private",,06/05/2011,06/05/2011,,13915600MO,-5540.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3450,3450,"CR:Basic Service F... J.Michels 201106: Michels, Jo Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... J.Michels 201106: Michels, Jo Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,3162,3162,"CR:Resident Care -... J.Michels 201106: Michels, Jo Ann",,,,,,,,,,,,,,,

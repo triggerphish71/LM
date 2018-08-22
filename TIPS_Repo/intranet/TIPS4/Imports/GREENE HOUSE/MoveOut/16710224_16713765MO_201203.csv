@@ -1,0 +1,7 @@
+BATCH,,201203,B,4248.0000,
+INVOICE,IN,,16710224,,03/03/2012,590.0000,"Invoice-Private",,03/03/2012,03/03/2012,,16713765MO,-3068.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,5,91.0000,455.00,"Basic Service Fee - Studio for Mar: Hinrichs, Fae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,5,27.0000,135.00,"Resident Care - Level 2 for Mar: Hinrichs, Fae",,,,,,,,,,,,,,,
+INVOICE,CM,,16710224,,03/03/2012,3658,"Invoice-Private",,03/03/2012,03/03/2012,,16713765MO,-3068.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2821,2821,"CR:Basic Service F... F.Hinrichs 201203: Hinrichs, Fae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,837,837,"CR:Resident Care -... F.Hinrichs 201203: Hinrichs, Fae",,,,,,,,,,,,,,,

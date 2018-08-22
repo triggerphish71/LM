@@ -1,0 +1,8 @@
+BATCH,,201210,B,7538.0000,
+INVOICE,IN,,02310189,,10/20/2012,3314.0000,"Invoice-Private",,10/20/2012,10/20/2012,,02315078MO,-4810.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,434.0000,434.00,"CR:Limited Term Di... R.Stevens 201210: Stevens, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,20,114.0000,2280.00,"Basic Service Fee - One Bedroom for Oct: Stevens, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,20,30.0000,600.00,"Service : lvl 0 to lvl 2 - 10/9/12 for Oct: Stevens, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,02310189,,10/20/2012,4224,"Invoice-Private",,10/20/2012,10/20/2012,,02315078MO,-4810.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,3534,3534,"CR:Basic Service F... R.Stevens 201210: Stevens, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,690,690,"CR:Service : lvl 0... R.Stevens 201210: Stevens, Roy",,,,,,,,,,,,,,,

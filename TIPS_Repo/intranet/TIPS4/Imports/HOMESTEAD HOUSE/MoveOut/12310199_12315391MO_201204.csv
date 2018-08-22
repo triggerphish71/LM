@@ -1,0 +1,7 @@
+BATCH,,201204,B,6975.0000,
+INVOICE,IN,,12310199,,04/15/2012,2325.0000,"Invoice-Private",,04/15/2012,04/15/2012,,12315391MO,-7130.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,15,103.0000,1545.00,"Basic Service Fee - Studio for Apr: Frantz, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,15,52.0000,780.00,"Resident Care - Level 3 for Apr: Frantz, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,12310199,,04/15/2012,4650,"Invoice-Private",,04/15/2012,04/15/2012,,12315391MO,-7130.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3090,3090,"CR:Basic Service F... M.Frantz 201204: Frantz, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1560,1560,"CR:Resident Care -... M.Frantz 201204: Frantz, Marion",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,3758.0000,
+INVOICE,IN,,50110254,,12/01/2011,3758.0000,"MoveIn-Moody. Ralph",,12/01/2011,12/01/2011,,50113834,3758.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,31,88.0000,2728,"R.Moody: Basic Service Fee - Studio: Moody. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Moody. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Moody. Ralph",,,,,,,,,,,,,,,

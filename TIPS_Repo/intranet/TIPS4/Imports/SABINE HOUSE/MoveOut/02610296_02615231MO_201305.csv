@@ -1,0 +1,8 @@
+BATCH,,201305,B,8448.0000,
+INVOICE,IN,,02610296,,05/01/2013,3829.0000,"Invoice-Private",,05/01/2013,05/10/2013,,02615231MO,-790.0000,,,,,,,,,,
+TRANSACTION,3321,010202026,1,1147.0000,1147.00,"CR:2nd Resident Fr... W.Hartmann 201305: Hartmann, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,18,37.0000,666.00,"Basic Service Fee - Second Resident for May: Hartmann, William",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202026,18,112.0000,2016.00,"Private Care Rate Adjustment for May: Hartmann, William",,,,,,,,,,,,,,,
+INVOICE,CM,,02610296,,05/01/2013,4619,"Invoice-Private",,05/01/2013,05/10/2013,,02615231MO,-790.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,1147,1147,"CR:Basic Service F... W.Hartmann 201305: Hartmann, William",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202026,1,3472,3472,"CR:Private Care Ra... W.Hartmann 201305: Hartmann, William",,,,,,,,,,,,,,,

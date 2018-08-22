@@ -1,0 +1,5 @@
+BATCH,,201301,B,3206.0000,
+INVOICE,CM,,52610285,,01/01/2013,3206,"Invoice-Private",,01/01/2013,01/10/2013,,52617490MO,-3206.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... L.Rupprecht 201301: Rupprecht, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"CR:Resident Meals... L.Rupprecht 201301: Rupprecht, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2976,2976,"CR:Room and Board ... L.Rupprecht 201301: Rupprecht, LaVerne",,,,,,,,,,,,,,,

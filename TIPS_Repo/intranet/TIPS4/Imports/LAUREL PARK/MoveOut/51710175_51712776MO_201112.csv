@@ -1,0 +1,5 @@
+BATCH,,201112,B,4467.3000,
+INVOICE,CM,,51710175,,12/01/2011,4467.3,"Invoice-Private",,12/01/2011,12/10/2011,,51712776MO,-4467.3000,,,,,,,,,,
+TRANSACTION,3020,010103517,1,2914,2914,"CR:Basic Service F... B.Wilder 201112: Wilder, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"CR:Monthly Cable... B.Wilder 201112: Wilder, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,1528.3,1528.3,"CR:Resident Care -... B.Wilder 201112: Wilder, Bill",,,,,,,,,,,,,,,

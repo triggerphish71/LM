@@ -1,0 +1,5 @@
+BATCH,,201205,B,2604.0000,
+INVOICE,IN,,08810220,,05/01/2012,1302.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08814305MO,-971.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,42.0000,1302.00,"Credit for Limited Term Discount: Celaya, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,08810220,,05/01/2012,1302,"Invoice-Private",,05/01/2012,05/10/2012,,08814305MO,-971.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,42,1302,"Limited Term Discount: Celaya, Ernest",,,,,,,,,,,,,,,

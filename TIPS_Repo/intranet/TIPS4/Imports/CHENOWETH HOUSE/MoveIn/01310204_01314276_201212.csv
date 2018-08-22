@@ -1,0 +1,6 @@
+BATCH,,201212,B,1416.2400,
+INVOICE,IN,,01310204,,12/28/2012,1416.2400,"MoveIn-Hodge. Jerry",,12/28/2012,12/28/2012,,01314276,4453.1000,,,,,,,,,,
+TRANSACTION,3010,010103013,4,72.0000,288,"Basic Service Fee - Studio: Hodge. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,4,25.0600,100.24,"Resident Care - Level 14: Hodge. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Hodge. Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Hodge. Jerry",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,2640.0000,
+INVOICE,IN,,19610179,,06/01/2011,1320.0000,"Invoice-Respite",,06/01/2011,06/10/2011,,19612545MO,3000.0000,,,,,,,,,,
+TRANSACTION,3019,010315196,30,34.0000,1020.00,"Additional Service Charge: Hough, Lisa",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315196,30,10.0000,300.00,"HSG Meals: Hough, Lisa",,,,,,,,,,,,,,,
+INVOICE,CM,,19610179,,06/01/2011,1320,"Invoice-Respite",,06/01/2011,06/10/2011,,19612545MO,3000.0000,,,,,,,,,,
+TRANSACTION,3019,010315196,30,34,1020,"Credit for Additional Service Charge: Hough, Lisa",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315196,30,10,300,"Credit for HSG Meals: Hough, Lisa",,,,,,,,,,,,,,,

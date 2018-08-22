@@ -1,0 +1,7 @@
+BATCH,,201209,B,1638.0000,
+INVOICE,IN,,20210209,,08/23/2012,378.0000,"MoveIn-Sims. Hoyt",,08/23/2012,08/23/2012,,20212701,2940.0000,,,,,,,,,,
+TRANSACTION,3014,010216202,9,31.0000,279,"Second Resident: Sims. Hoyt",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216202,9,11.0000,99,"Resident Care - Level 1: Sims. Hoyt",,,,,,,,,,,,,,,
+INVOICE,IN,,20210209,,09/01/2012,1260.0000,"September_Rent-Sims. Hoyt",,09/01/2012,09/10/2012,,20212701,2940.0000,,,,,,,,,,
+TRANSACTION,3010,010216202,30,31.0000,930,"Second Resident: Sims. Hoyt",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216202,30,11.0000,330,"Resident Care - Level 1: Sims. Hoyt",,,,,,,,,,,,,,,

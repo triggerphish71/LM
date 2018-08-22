@@ -1,0 +1,5 @@
+BATCH,,201111,B,1485.0000,
+INVOICE,IN,,50310266,,11/25/2011,1485.0000,"MoveIn-Riggle. Mary",,11/25/2011,11/25/2011,,50313878,3845.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,6,75.0000,450,"Basic Service Fee - Studio: Riggle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Riggle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1000.0000,1000,"New Resident Fee: Riggle. Mary",,,,,,,,,,,,,,,

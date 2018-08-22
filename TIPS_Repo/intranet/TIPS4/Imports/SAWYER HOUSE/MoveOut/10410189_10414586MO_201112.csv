@@ -1,0 +1,8 @@
+BATCH,,201112,B,7212.0000,
+INVOICE,IN,,10410189,,12/10/2011,3870.2000,"Invoice-Private",,12/10/2011,12/10/2011,,10414586MO,528.4000,,,,,,,,,,
+TRANSACTION,3320,010101104,1,744.0000,744.00,"CR:Limited Term Di... W.Porterfield 201112: Porterfield, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101104,29,84.0000,2436.00,"Basic Service Fee - Studio for Dec: Porterfield, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,29,23.8000,690.20,"Resident Care - Level 14 for Dec: Porterfield, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,10410189,,12/10/2011,3341.8,"Invoice-Private",,12/10/2011,12/10/2011,,10414586MO,528.4000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2604,2604,"CR:Basic Service F... W.Porterfield 201112: Porterfield, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,737.8,737.8,"CR:Resident Care -... W.Porterfield 201112: Porterfield, Walter",,,,,,,,,,,,,,,

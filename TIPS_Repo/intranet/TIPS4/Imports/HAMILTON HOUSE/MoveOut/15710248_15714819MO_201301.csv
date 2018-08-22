@@ -1,0 +1,6 @@
+BATCH,,201301,B,4557.0000,
+INVOICE,IN,,15710248,,01/01/2013,682.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15714819MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,682.0000,682.00,"CR:Limited Term Di... D.Johnson 201301: Johnson, David",,,,,,,,,,,,,,,
+INVOICE,CM,,15710248,,01/01/2013,3875,"Invoice-Private",,01/01/2013,01/10/2013,,15714819MO,-2886.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... D.Johnson 201301: Johnson, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1023,1023,"CR:Resident Care -... D.Johnson 201301: Johnson, David",,,,,,,,,,,,,,,

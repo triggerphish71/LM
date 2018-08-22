@@ -1,0 +1,7 @@
+BATCH,,201204,B,190.0000,
+INVOICE,IN,,10610178,,04/01/2012,95.0000,"Invoice-Private",,04/01/2012,04/10/2012,,10612478MO,-6151.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35.00,"Monthly Cable: Neville, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309106,30,2.0000,60.00,"Credit for Limited Term Discount: Neville, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,10610178,,04/01/2012,95,"Invoice-Private",,04/01/2012,04/10/2012,,10612478MO,-6151.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"Credit for Monthly Cable: Neville, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309106,30,2,60,"Limited Term Discount: Neville, Ed",,,,,,,,,,,,,,,

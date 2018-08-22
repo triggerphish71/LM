@@ -1,0 +1,5 @@
+BATCH,,201107,B,50.0000,
+INVOICE,IN,,16910149,,07/01/2011,25.0000,"Invoice-Private",,07/01/2011,07/10/2011,,16914465MO,-3106.0000,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25.00,"Monthly Cable: Weaks, Jacqueline",,,,,,,,,,,,,,,
+INVOICE,CM,,16910149,,07/01/2011,25,"Invoice-Private",,07/01/2011,07/10/2011,,16914465MO,-3106.0000,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"Credit for Monthly Cable: Weaks, Jacqueline",,,,,,,,,,,,,,,

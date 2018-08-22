@@ -1,0 +1,6 @@
+BATCH,,201303,B,848.0000,
+INVOICE,IN,,16710251,,03/29/2013,848.0000,"MoveIn-Hagemoser. Bonita",,03/29/2013,03/29/2013,,16714063,4058.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,3,91.0000,273,"Basic Service Fee - Deluxe: Hagemoser. Bonita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,3,15.0000,45,"Resident Care - Level 1: Hagemoser. Bonita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Hagemoser. Bonita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211167,1,500.0000,500,"New Resident Fee: Hagemoser. Bonita",,,,,,,,,,,,,,,

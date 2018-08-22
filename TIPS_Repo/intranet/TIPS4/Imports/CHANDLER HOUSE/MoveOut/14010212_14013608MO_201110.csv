@@ -1,0 +1,5 @@
+BATCH,,201110,B,5100.0000,
+INVOICE,IN,,14010212,,10/29/2011,2465.0000,"Invoice-Private",,10/29/2011,10/29/2011,,14013608MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,29,85.0000,2465.00,"Basic Service Fee - Studio for Oct: Skinker, Mary Lavon",,,,,,,,,,,,,,,
+INVOICE,CM,,14010212,,10/29/2011,2635,"Invoice-Private",,10/29/2011,10/29/2011,,14013608MO,-2720.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2635,2635,"CR:Basic Service F... M.Skinker 201110: Skinker, Mary Lavon",,,,,,,,,,,,,,,

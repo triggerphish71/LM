@@ -1,0 +1,7 @@
+BATCH,,201108,B,178.0000,
+INVOICE,IN,,01910163,,08/01/2011,89.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01914459MO,-4735.0000,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27.00,"Monthly Cable: Blades, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202019,31,2.0000,62.00,"Credit for Limited Term Discount: Blades, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,01910163,,08/01/2011,89,"Invoice-Private",,08/01/2011,08/10/2011,,01914459MO,-4735.0000,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"Credit for Monthly Cable: Blades, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202019,31,2,62,"Limited Term Discount: Blades, Norma",,,,,,,,,,,,,,,

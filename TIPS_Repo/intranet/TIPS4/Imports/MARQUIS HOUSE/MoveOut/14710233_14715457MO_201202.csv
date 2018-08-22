@@ -1,0 +1,5 @@
+BATCH,,201202,B,84.0000,
+INVOICE,IN,,14710233,,02/01/2012,42.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14715457MO,-1978.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Shaffer, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,14710233,,02/01/2012,42,"Invoice-Private",,02/01/2012,02/10/2012,,14715457MO,-1978.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Shaffer, Ralph",,,,,,,,,,,,,,,

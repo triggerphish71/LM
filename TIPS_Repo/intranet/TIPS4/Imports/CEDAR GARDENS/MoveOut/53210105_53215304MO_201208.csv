@@ -1,0 +1,7 @@
+BATCH,,201208,B,2964.0000,
+INVOICE,IN,,53210105,,08/01/2012,1482.0000,"Invoice-Private",,08/01/2012,08/10/2012,,53215304MO,-4821.9400,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25.0000,25.00,"Pendant Fee: Nimke, Marie Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319532,31,47.0000,1457.00,"Credit for Limited Term Discount: Nimke, Marie Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,53210105,,08/01/2012,1482,"Invoice-Private",,08/01/2012,08/10/2012,,53215304MO,-4821.9400,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"Credit for Pendant Fee: Nimke, Marie Ann",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319532,31,47,1457,"Limited Term Discount: Nimke, Marie Ann",,,,,,,,,,,,,,,

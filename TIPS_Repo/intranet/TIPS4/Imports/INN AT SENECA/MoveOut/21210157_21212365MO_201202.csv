@@ -1,0 +1,7 @@
+BATCH,,201202,B,5928.0000,
+INVOICE,IN,,21210157,,02/21/2012,2912.0000,"Invoice-Private",,02/21/2012,02/21/2012,,21212365MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,28,12.0000,336.00,"Resident Care - Level 1 for Feb: Santora, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,28,92.0000,2576.00,"Studio Deluxe for Feb: Santora, Peter",,,,,,,,,,,,,,,
+INVOICE,CM,,21210157,,02/21/2012,3016,"Invoice-Private",,02/21/2012,02/21/2012,,21212365MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,348,348,"CR:Resident Care -... P.Santora 201202: Santora, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2668,2668,"CR:Studio Deluxe... P.Santora 201202: Santora, Peter",,,,,,,,,,,,,,,

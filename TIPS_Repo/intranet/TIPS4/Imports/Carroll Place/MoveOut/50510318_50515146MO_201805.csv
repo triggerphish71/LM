@@ -1,0 +1,7 @@
+BATCH,,201805,B,6302.0000,
+INVOICE,IN,,50510318,,05/12/2018,2055.0000,"Invoice-Private",,05/12/2018,05/12/2018,,50515146MO,-6302.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,15,60.0000,900.00,"Basic Service Fee - One Bedroom  for May: Brown, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,15,77.0000,1155.00,"Resident Care - Level 5  for May: Brown, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,50510318,,05/12/2018,4247,"Invoice-Private",,05/12/2018,05/12/2018,,50515146MO,-6302.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,1860,1860,"CR:Basic Service F... P.Brown 201805: Brown, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,2387,2387,"CR:Resident Care -... P.Brown 201805: Brown, Paul",,,,,,,,,,,,,,,

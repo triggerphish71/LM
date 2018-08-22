@@ -1,0 +1,5 @@
+BATCH,,201107,B,50.0000,
+INVOICE,IN,,02710099,,07/01/2011,25.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02713668MO,-4405.0000,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25.00,"Monthly Cable: Glass, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,02710099,,07/01/2011,25,"Invoice-Private",,07/01/2011,07/10/2011,,02713668MO,-4405.0000,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"Credit for Monthly Cable: Glass, Louis",,,,,,,,,,,,,,,

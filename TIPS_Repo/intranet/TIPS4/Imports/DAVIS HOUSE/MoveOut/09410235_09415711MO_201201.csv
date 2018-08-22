@@ -1,0 +1,7 @@
+BATCH,,201201,B,7524.0000,
+INVOICE,IN,,09410235,,01/01/2012,456.0000,"Invoice-Private",,01/01/2012,01/10/2012,,09415711MO,-6612.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,2,116.0000,232.00,"Basic Service Fee - One Bedroom for Jan: Goodner, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,2,112.0000,224.00,"Room and Board - One Bedroom for Jan: Goodner, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,09410235,,01/01/2012,7068,"Invoice-Private",,01/01/2012,01/10/2012,,09415711MO,-6612.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3596,3596,"CR:Basic Service F... J.Goodner 201201: Goodner, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3472,3472,"CR:Room and Board ... J.Goodner 201201: Goodner, Joan",,,,,,,,,,,,,,,

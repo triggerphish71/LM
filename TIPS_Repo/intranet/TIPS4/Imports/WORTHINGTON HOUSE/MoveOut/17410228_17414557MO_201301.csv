@@ -1,0 +1,6 @@
+BATCH,,201301,B,4526.0000,
+INVOICE,IN,,17410228,,01/01/2013,1085.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17414557MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,1085.0000,1085.00,"CR:Limited Term Di... B.Haynes 201301: Haynes, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,17410228,,01/01/2013,3441,"Invoice-Private",,01/01/2013,01/10/2013,,17414557MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... B.Haynes 201301: Haynes, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,496,496,"CR:Resident Care -... B.Haynes 201301: Haynes, Betty",,,,,,,,,,,,,,,

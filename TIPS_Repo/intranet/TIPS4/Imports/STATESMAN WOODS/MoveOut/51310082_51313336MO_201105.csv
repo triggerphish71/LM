@@ -1,0 +1,7 @@
+BATCH,,201105,B,7020.0000,
+INVOICE,IN,,51310082,,05/23/2011,2990.0000,"Invoice-Private",,05/23/2011,05/23/2011,,51313336MO,-4940.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,23,103.0000,2369.00,"Basic Service Fee- Studio for May: Dooley, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,23,27.0000,621.00,"Resident Care - Level 2 for May: Dooley, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,51310082,,05/23/2011,4030,"Invoice-Private",,05/23/2011,05/23/2011,,51313336MO,-4940.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3193,3193,"CR:Basic Service F... R.Dooley 201105: Dooley, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,837,837,"CR:Resident Care -... R.Dooley 201105: Dooley, Richard",,,,,,,,,,,,,,,

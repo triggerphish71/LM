@@ -1,0 +1,5 @@
+BATCH,,201211,B,3305.0000,
+INVOICE,IN,,13410278,,11/01/2012,3305.0000,"November_Rent-Elliott. Don",,11/01/2012,11/10/2012,,13415797,5084.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,30,92.0000,2760,"Basic Service Fee - Studio: Elliott. Don",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309134,30,17.0000,510,"Resident Care - Level 1: Elliott. Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Elliott. Don",,,,,,,,,,,,,,,

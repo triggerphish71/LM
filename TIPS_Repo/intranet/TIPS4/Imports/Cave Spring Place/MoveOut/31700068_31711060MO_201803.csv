@@ -1,0 +1,7 @@
+BATCH,,201803,B,7614.0000,
+INVOICE,IN,,31700068,,03/23/2018,3243.0000,"Invoice-Private",,03/23/2018,03/23/2018,,31711060MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,23,42.0000,966.00,"Resident Care - Level 2  for Mar: Burnette, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,23,99.0000,2277.00,"Studio  for Mar: Burnette, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,31700068,,03/23/2018,4371,"Invoice-Private",,03/23/2018,03/23/2018,,31711060MO,-5358.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,1,1302,1302,"CR:Resident Care -... H.Burnette 201803: Burnette, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,1,3069,3069,"CR:Studio... H.Burnette 201803: Burnette, Helen",,,,,,,,,,,,,,,

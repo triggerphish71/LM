@@ -1,0 +1,5 @@
+BATCH,,201212,B,806.0000,
+INVOICE,IN,,16310030,,12/01/2012,403.0000,"Invoice-Private",,12/01/2012,12/10/2012,,16316889MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,31,13.0000,403.00,"Credit for Limited Term Discount: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,16310030,,12/01/2012,403,"Invoice-Private",,12/01/2012,12/10/2012,,16316889MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,31,13,403,"Limited Term Discount: Arbuthnot, Ethel",,,,,,,,,,,,,,,

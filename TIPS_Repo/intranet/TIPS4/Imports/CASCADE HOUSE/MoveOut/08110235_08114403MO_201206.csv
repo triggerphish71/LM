@@ -1,0 +1,7 @@
+BATCH,,201206,B,2450.0000,
+INVOICE,IN,,08110235,,06/01/2012,1225.0000,"Invoice-Private",,06/01/2012,06/10/2012,,08114403MO,70.0000,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25.00,"Monthly Cable: Bellos, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103081,30,40.0000,1200.00,"Credit for Limited Term Discount: Bellos, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,08110235,,06/01/2012,1225,"Invoice-Private",,06/01/2012,06/10/2012,,08114403MO,70.0000,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"Credit for Monthly Cable: Bellos, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103081,30,40,1200,"Limited Term Discount: Bellos, Tom",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201302,B,4758.0000,
+INVOICE,IN,,14010248,,02/03/2013,4758.0000,"MoveIn-DePew. Lorene",,02/03/2013,02/03/2013,,14014164,4758.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,26,88.0000,2288,"Basic Service Fee - Studio: DePew. Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,26,65.0000,1690,"Resident Care - Level 5: DePew. Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: DePew. Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,750.0000,750,"New Resident Fee: DePew. Lorene",,,,,,,,,,,,,,,

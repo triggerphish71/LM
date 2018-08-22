@@ -1,0 +1,5 @@
+BATCH,,201205,B,874.2000,
+INVOICE,IN,,19510203,,05/01/2012,437.1000,"Invoice-Private",,05/01/2012,05/10/2012,,19514324MO,-5207.9000,,,,,,,,,,
+TRANSACTION,3316,010309195,31,14.1000,437.10,"Credit for Employee Discount: Greenwell, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,19510203,,05/01/2012,437.1,"Invoice-Private",,05/01/2012,05/10/2012,,19514324MO,-5207.9000,,,,,,,,,,
+TRANSACTION,3316,010309195,31,14.1,437.1,"Employee Discount: Greenwell, Anna",,,,,,,,,,,,,,,

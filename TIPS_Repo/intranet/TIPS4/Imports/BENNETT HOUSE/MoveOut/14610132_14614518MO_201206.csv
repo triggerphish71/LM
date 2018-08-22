@@ -1,0 +1,4 @@
+BATCH,,201206,B,3840.0000,
+INVOICE,CM,,14610132,,06/01/2012,3840,"Invoice-Private",,06/01/2012,06/10/2012,,14614518MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2790,2790,"CR:Basic Service F... F.Epperson 201206: Epperson, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1050,1050,"CR:Resident Care -... F.Epperson 201206: Epperson, Fred",,,,,,,,,,,,,,,

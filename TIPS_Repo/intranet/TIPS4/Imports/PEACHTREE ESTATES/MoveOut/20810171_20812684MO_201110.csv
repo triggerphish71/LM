@@ -1,0 +1,5 @@
+BATCH,,201110,B,1178.0000,
+INVOICE,IN,,20810171,,10/01/2011,589.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20812684MO,-2411.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,19.0000,589.00,"Credit for Limited Term Discount: Sword, Bobby",,,,,,,,,,,,,,,
+INVOICE,CM,,20810171,,10/01/2011,589,"Invoice-Private",,10/01/2011,10/10/2011,,20812684MO,-2411.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,19,589,"Limited Term Discount: Sword, Bobby",,,,,,,,,,,,,,,

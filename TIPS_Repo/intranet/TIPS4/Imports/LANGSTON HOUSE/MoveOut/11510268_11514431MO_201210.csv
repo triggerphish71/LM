@@ -1,0 +1,7 @@
+BATCH,,201210,B,3221.0000,
+INVOICE,IN,,11510268,,10/01/2012,341.0000,"Invoice-Private",,10/01/2012,10/10/2012,,11514431MO,-3433.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,341.0000,341.00,"CR:Limited Term Di... D.Barber 201210: Barber, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,11510268,,10/01/2012,2880,"Invoice-Private",,10/01/2012,10/10/2012,,11514431MO,-3433.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... D.Barber 201210: Barber, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,806,806,"CR:Resident Care -... D.Barber 201210: Barber, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2046,2046,"CR:Room and Board ... D.Barber 201210: Barber, Dorothy",,,,,,,,,,,,,,,

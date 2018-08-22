@@ -1,0 +1,7 @@
+BATCH,,201204,B,3245.0000,
+INVOICE,IN,,19610216,,04/20/2012,3245.0000,"MoveIn-Wille. Carol",,04/20/2012,04/20/2012,,19613053,6690.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,11,87.0000,957,"Basic Service Fee - Studio: Wille. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,11,13.0000,143,"Resident Care - Level 1: Wille. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Wille. Carol",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,11,10.0000,110,"CC Meals: Wille. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,2000.0000,2000,"New Tenant Fee: Wille. Carol",,,,,,,,,,,,,,,

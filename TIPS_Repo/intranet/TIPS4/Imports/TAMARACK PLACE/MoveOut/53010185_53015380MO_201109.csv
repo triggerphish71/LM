@@ -1,0 +1,6 @@
+BATCH,,201109,B,5190.0000,
+INVOICE,CM,,53010185,,09/01/2011,5190,"Invoice-Private",,09/01/2011,09/10/2011,,53015380MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3420,3420,"CR:Basic Service F... G.Hahn 201109: Hahn, Germaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... G.Hahn 201109: Hahn, Germaine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... G.Hahn 201109: Hahn, Germaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1710,1710,"CR:Resident Care -... G.Hahn 201109: Hahn, Germaine",,,,,,,,,,,,,,,

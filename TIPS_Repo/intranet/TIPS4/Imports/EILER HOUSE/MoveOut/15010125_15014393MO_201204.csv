@@ -1,0 +1,7 @@
+BATCH,,201204,B,2750.0000,
+INVOICE,IN,,15010125,,04/01/2012,1375.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15014393MO,-1192.0000,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25.00,"Monthly Cable: Bunker, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212150,30,45.0000,1350.00,"Credit for Limited Term Discount: Bunker, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,15010125,,04/01/2012,1375,"Invoice-Private",,04/01/2012,04/10/2012,,15014393MO,-1192.0000,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25,25,"Credit for Monthly Cable: Bunker, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212150,30,45,1350,"Limited Term Discount: Bunker, Gwen",,,,,,,,,,,,,,,

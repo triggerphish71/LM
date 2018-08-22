@@ -1,0 +1,7 @@
+BATCH,,201303,B,5040.0000,
+INVOICE,IN,,15610315,,03/10/2013,1320.0000,"Invoice-Private",,03/10/2013,03/10/2013,,15615645MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,11,50.0000,550.00,"Basic Service Fee - Studio for Mar: Scanlon, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,11,70.0000,770.00,"Resident Care - Level 5 for Mar: Scanlon, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,15610315,,03/10/2013,3720,"Invoice-Private",,03/10/2013,03/10/2013,,15615645MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,1550,1550,"CR:Basic Service F... M.Scanlon 201303: Scanlon, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2170,2170,"CR:Resident Care -... M.Scanlon 201303: Scanlon, Mildred",,,,,,,,,,,,,,,

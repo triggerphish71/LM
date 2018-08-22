@@ -1,0 +1,6 @@
+BATCH,,201106,B,3429.0000,
+INVOICE,IN,,16410167,,06/07/2011,644.0000,"Invoice-Private",,06/07/2011,06/07/2011,,16415887MO,-2141.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,7,92.0000,644.00,"Basic Service Fee - Studio Deluxe for Jun: Jenkins, Oleta C",,,,,,,,,,,,,,,
+INVOICE,CM,,16410167,,06/07/2011,2785,"Invoice-Private",,06/07/2011,06/07/2011,,16415887MO,-2141.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2760,2760,"CR:Basic Service F... O.Jenkins 201106: Jenkins, Oleta C",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25,25,"CR:Monthly Cable... O.Jenkins 201106: Jenkins, Oleta C",,,,,,,,,,,,,,,

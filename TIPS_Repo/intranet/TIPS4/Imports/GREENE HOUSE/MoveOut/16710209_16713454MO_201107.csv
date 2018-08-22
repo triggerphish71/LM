@@ -1,0 +1,7 @@
+BATCH,,201107,B,1957.2000,
+INVOICE,IN,,16710209,,07/01/2011,978.6000,"Invoice-Private",,07/01/2011,07/10/2011,,16713454MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Barghahn, Gerhard",,,,,,,,,,,,,,,
+TRANSACTION,3019,010211167,31,30.6000,948.60,"Additional Service Charge: Barghahn, Gerhard",,,,,,,,,,,,,,,
+INVOICE,CM,,16710209,,07/01/2011,978.6,"Invoice-Private",,07/01/2011,07/10/2011,,16713454MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Barghahn, Gerhard",,,,,,,,,,,,,,,
+TRANSACTION,3019,010211167,31,30.6,948.6,"Credit for Additional Service Charge: Barghahn, Gerhard",,,,,,,,,,,,,,,

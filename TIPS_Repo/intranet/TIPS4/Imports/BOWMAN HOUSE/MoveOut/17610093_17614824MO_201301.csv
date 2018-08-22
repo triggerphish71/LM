@@ -1,0 +1,7 @@
+BATCH,,201301,B,3844.0000,
+INVOICE,IN,,17610093,,01/01/2013,403.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17614824MO,-3038.0000,,,,,,,,,,
+TRANSACTION,3320,010315176,1,403.0000,403.00,"CR:Limited Term Di... R.Hempel Sr 201301: Hempel Sr, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,17610093,,01/01/2013,3441,"Invoice-Private",,01/01/2013,01/10/2013,,17614824MO,-3038.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... R.Hempel Sr 201301: Hempel Sr, Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... R.Hempel Sr 201301: Hempel Sr, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... R.Hempel Sr 201301: Hempel Sr, Robert",,,,,,,,,,,,,,,

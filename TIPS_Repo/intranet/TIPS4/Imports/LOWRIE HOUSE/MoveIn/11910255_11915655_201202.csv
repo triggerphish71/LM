@@ -1,0 +1,6 @@
+BATCH,,201202,B,3476.0000,
+INVOICE,IN,,11910255,,02/20/2012,3476.0000,"MoveIn-Speggen. Doris",,02/20/2012,02/20/2012,,11915655,7997.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,10,93.0000,930,"Basic Service Fee - Studio: Speggen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,10,52.0000,520,"Resident Care - Level 3: Speggen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Speggen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310119,1,2000.0000,2000,"New Resident Fee: Speggen. Doris",,,,,,,,,,,,,,,

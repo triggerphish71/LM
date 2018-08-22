@@ -1,0 +1,7 @@
+BATCH,,201304,B,6140.0000,
+INVOICE,IN,,07310261,,04/01/2013,510.0000,"Invoice-Private",,04/01/2013,04/10/2013,,07316082MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3027,010305073,1,510.0000,510.00,"CR:Resident Care L... B.Keyser 201304: Keyser, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07310261,,04/01/2013,5630,"Invoice-Private",,04/01/2013,04/10/2013,,07316082MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3300,3300,"CR:Basic Service F... B.Keyser 201304: Keyser, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... B.Keyser 201304: Keyser, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2310,2310,"CR:Resident Care -... B.Keyser 201304: Keyser, Betty",,,,,,,,,,,,,,,

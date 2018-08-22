@@ -1,0 +1,7 @@
+BATCH,,201109,B,1014.0000,
+INVOICE,IN,,01710118,,09/01/2011,507.0000,"Invoice-Private",,09/01/2011,09/10/2011,,01713370MO,-1439.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Cranmore, Oredian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202017,30,16.0000,480.00,"Credit for Limited Term Discount: Cranmore, Oredian",,,,,,,,,,,,,,,
+INVOICE,CM,,01710118,,09/01/2011,507,"Invoice-Private",,09/01/2011,09/10/2011,,01713370MO,-1439.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Cranmore, Oredian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202017,30,16,480,"Limited Term Discount: Cranmore, Oredian",,,,,,,,,,,,,,,

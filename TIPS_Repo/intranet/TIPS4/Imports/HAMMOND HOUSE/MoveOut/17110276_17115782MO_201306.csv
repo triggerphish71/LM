@@ -1,0 +1,6 @@
+BATCH,,201306,B,6110.0000,
+INVOICE,IN,,17110276,,06/28/2013,2940.0000,"Invoice-Private",,06/28/2013,06/28/2013,,17115782MO,-3505.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,28,105.0000,2940.00,"Room and Board - One Bedroom for Jun: Michael, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,17110276,,06/28/2013,3170,"Invoice-Private",,06/28/2013,06/28/2013,,17115782MO,-3505.0000,,,,,,,,,,
+TRANSACTION,3130,010308171,1,20,20,"CR:Pendant Fee... E.Michael 201306: Michael, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3150,3150,"CR:Room and Board ... E.Michael 201306: Michael, Elizabeth",,,,,,,,,,,,,,,

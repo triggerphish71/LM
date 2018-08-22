@@ -1,0 +1,5 @@
+BATCH,,201106,B,120.0000,
+INVOICE,IN,,12610215,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12614656MO,-1045.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,30,2.0000,60.00,"Credit for Limited Term Discount: Swett, Ileen",,,,,,,,,,,,,,,
+INVOICE,CM,,12610215,,06/01/2011,60,"Invoice-Private",,06/01/2011,06/10/2011,,12614656MO,-1045.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,30,2,60,"Limited Term Discount: Swett, Ileen",,,,,,,,,,,,,,,

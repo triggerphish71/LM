@@ -1,0 +1,7 @@
+BATCH,,201302,B,182.0000,
+INVOICE,IN,,17810134,,02/01/2013,91.0000,"Invoice-Private",,02/01/2013,02/10/2013,,17816356MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Vergamini, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,28,2.0000,56.00,"Credit for Limited Term Discount: Vergamini, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,17810134,,02/01/2013,91,"Invoice-Private",,02/01/2013,02/10/2013,,17816356MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Vergamini, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,28,2,56,"Limited Term Discount: Vergamini, Rose",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,1740.0000,
+INVOICE,IN,,09510231,,11/01/2012,870.0000,"Invoice-Private",,11/01/2012,11/10/2012,,09515172MO,-1337.0000,,,,,,,,,,
+TRANSACTION,3320,010103095,30,29.0000,870.00,"Credit for Limited Term Discount: Deen, Sandra",,,,,,,,,,,,,,,
+INVOICE,CM,,09510231,,11/01/2012,870,"Invoice-Private",,11/01/2012,11/10/2012,,09515172MO,-1337.0000,,,,,,,,,,
+TRANSACTION,3320,010103095,30,29,870,"Limited Term Discount: Deen, Sandra",,,,,,,,,,,,,,,

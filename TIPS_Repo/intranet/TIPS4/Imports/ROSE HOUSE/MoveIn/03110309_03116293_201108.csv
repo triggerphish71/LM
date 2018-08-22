@@ -1,0 +1,5 @@
+BATCH,,201108,B,4722.0000,
+INVOICE,IN,,03110309,,08/01/2011,4722.0000,"MoveIn-Bourque. Olite",,08/01/2011,08/01/2011,,03116293,4722.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,31,95.0000,2945,"Basic Service Fee - Studio         : Bourque. Olite",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Bourque. Olite",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Bourque. Olite",,,,,,,,,,,,,,,

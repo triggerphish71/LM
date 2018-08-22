@@ -1,0 +1,5 @@
+BATCH,,201111,B,2040.0000,
+INVOICE,IN,,08810144,,11/01/2011,1020.0000,"Invoice-Private",,11/01/2011,11/10/2011,,08814142MO,-1735.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,34.0000,1020.00,"Credit for Limited Term Discount: Johnson, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,08810144,,11/01/2011,1020,"Invoice-Private",,11/01/2011,11/10/2011,,08814142MO,-1735.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,34,1020,"Limited Term Discount: Johnson, Virginia",,,,,,,,,,,,,,,

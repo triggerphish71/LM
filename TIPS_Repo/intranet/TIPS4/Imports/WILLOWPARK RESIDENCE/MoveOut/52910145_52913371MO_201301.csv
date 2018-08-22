@@ -1,0 +1,7 @@
+BATCH,,201301,B,164.0000,
+INVOICE,IN,,52910145,,01/01/2013,82.0000,"Invoice-Private",,01/01/2013,01/10/2013,,52913371MO,-1834.0000,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20.0000,20.00,"Pendant Fee: Stiefvater, Isabelle",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319529,31,2.0000,62.00,"Credit for Limited Term Discount: Stiefvater, Isabelle",,,,,,,,,,,,,,,
+INVOICE,CM,,52910145,,01/01/2013,82,"Invoice-Private",,01/01/2013,01/10/2013,,52913371MO,-1834.0000,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"Credit for Pendant Fee: Stiefvater, Isabelle",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319529,31,2,62,"Limited Term Discount: Stiefvater, Isabelle",,,,,,,,,,,,,,,

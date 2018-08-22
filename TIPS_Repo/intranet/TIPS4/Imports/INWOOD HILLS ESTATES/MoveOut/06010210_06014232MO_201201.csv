@@ -1,0 +1,8 @@
+BATCH,,201201,B,5652.0000,
+INVOICE,IN,,06010210,,01/12/2012,1830.0000,"Invoice-Private",,01/12/2012,01/12/2012,,06014232MO,-1992.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,15,96.0000,1440.00,"Basic Service Fee - Studio Deluxe for Jan: Stahly, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,15,26.0000,390.00,"Resident Care - Level 2 for Jan: Stahly, John",,,,,,,,,,,,,,,
+INVOICE,CM,,06010210,,01/12/2012,3822,"Invoice-Private",,01/12/2012,01/12/2012,,06014232MO,-1992.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2976,2976,"CR:Basic Service F... J.Stahly 201201: Stahly, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... J.Stahly 201201: Stahly, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,806,806,"CR:Resident Care -... J.Stahly 201201: Stahly, John",,,,,,,,,,,,,,,

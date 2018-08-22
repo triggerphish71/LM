@@ -1,0 +1,7 @@
+BATCH,,201204,B,6392.0000,
+INVOICE,IN,,09110214,,04/17/2012,2312.0000,"Invoice-Private",,04/17/2012,04/17/2012,,09115211MO,-5984.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,17,85.0000,1445.00,"Basic Service Fee - Studio for Apr: Colby, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,17,51.0000,867.00,"Resident Care - Level 3 for Apr: Colby, Anna Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,09110214,,04/17/2012,4080,"Invoice-Private",,04/17/2012,04/17/2012,,09115211MO,-5984.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... A.Colby 201204: Colby, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1530,1530,"CR:Resident Care -... A.Colby 201204: Colby, Anna Marie",,,,,,,,,,,,,,,

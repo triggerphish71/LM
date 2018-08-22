@@ -1,0 +1,7 @@
+BATCH,,201110,B,5481.0000,
+INVOICE,IN,,07710129,,10/01/2011,1116.0000,"Invoice-Private",,10/01/2011,10/10/2011,,07714058MO,-3034.0000,,,,,,,,,,
+TRANSACTION,3320,010104077,1,1116.0000,1116.00,"CR:Limited Term Di... V.Preston 201110: Preston, Velma",,,,,,,,,,,,,,,
+INVOICE,CM,,07710129,,10/01/2011,4365,"Invoice-Private",,10/01/2011,10/10/2011,,07714058MO,-3034.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,3441,3441,"CR:Basic Service F... V.Preston 201110: Preston, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... V.Preston 201110: Preston, Velma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,899,899,"CR:Resident Care -... V.Preston 201110: Preston, Velma",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,230.0000,
+INVOICE,IN,,53510156,,06/01/2011,115.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53513701MO,-8224.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25.00,"Monthly Cable: Voechting, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319535,30,3.0000,90.00,"Credit for Limited Term Discount: Voechting, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,53510156,,06/01/2011,115,"Invoice-Private",,06/01/2011,06/10/2011,,53513701MO,-8224.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"Credit for Monthly Cable: Voechting, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319535,30,3,90,"Limited Term Discount: Voechting, Marion",,,,,,,,,,,,,,,

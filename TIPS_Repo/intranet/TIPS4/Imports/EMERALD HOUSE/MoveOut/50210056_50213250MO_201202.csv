@@ -1,0 +1,7 @@
+BATCH,,201202,B,166.0000,
+INVOICE,IN,,50210056,,02/01/2012,83.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50213250MO,-4737.9500,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25.00,"Monthly Cable: Bingham, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209502,29,2.0000,58.00,"Credit for Limited Term Discount: Bingham, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,50210056,,02/01/2012,83,"Invoice-Private",,02/01/2012,02/10/2012,,50213250MO,-4737.9500,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"Credit for Monthly Cable: Bingham, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209502,29,2,58,"Limited Term Discount: Bingham, Clifford",,,,,,,,,,,,,,,

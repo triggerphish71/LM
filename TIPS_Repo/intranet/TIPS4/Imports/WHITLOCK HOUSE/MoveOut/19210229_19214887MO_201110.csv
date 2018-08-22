@@ -1,0 +1,7 @@
+BATCH,,201110,B,10530.0000,
+INVOICE,IN,,19210229,,10/01/2011,4485.0000,"Invoice-Private",,10/01/2011,10/10/2011,,19214887MO,-1560.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,23,127.0000,2921.00,"Basic Service Fee - One Bedroom for Oct: Robinson, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,23,68.0000,1564.00,"Resident Care - Level 5 for Oct: Robinson, Emma",,,,,,,,,,,,,,,
+INVOICE,CM,,19210229,,10/01/2011,6045,"Invoice-Private",,10/01/2011,10/10/2011,,19214887MO,-1560.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3937,3937,"CR:Basic Service F... E.Robinson 201110: Robinson, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,2108,2108,"CR:Resident Care -... E.Robinson 201110: Robinson, Emma",,,,,,,,,,,,,,,

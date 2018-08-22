@@ -1,0 +1,7 @@
+BATCH,,201306,B,5192.0000,
+INVOICE,IN,,20810180,,06/24/2013,2552.0000,"Invoice-Private",,06/24/2013,06/24/2013,,20813603MO,-2816.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,29,12.0000,348.00,"Resident Care - Level 1 for Jun: Smetak, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,29,76.0000,2204.00,"Room and Board - Studio for Jun: Smetak, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,20810180,,06/24/2013,2640,"Invoice-Private",,06/24/2013,06/24/2013,,20813603MO,-2816.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,360,360,"CR:Resident Care -... C.Smetak 201306: Smetak, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2280,2280,"CR:Room and Board ... C.Smetak 201306: Smetak, Charles",,,,,,,,,,,,,,,

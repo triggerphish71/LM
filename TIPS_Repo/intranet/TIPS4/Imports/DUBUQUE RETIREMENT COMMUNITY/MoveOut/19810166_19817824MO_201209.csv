@@ -1,0 +1,7 @@
+BATCH,,201209,B,3534.0000,
+INVOICE,IN,,19810166,,09/27/2012,1674.0000,"Invoice-Private",,09/27/2012,09/27/2012,,19817824MO,-2108.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,27,14.0000,378.00,"Basic Service Fee Second Resident for Sep: Smith, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,27,48.0000,1296.00,"Swan Personal Care - L2 for Sep: Smith, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,19810166,,09/27/2012,1860,"Invoice-Private",,09/27/2012,09/27/2012,,19817824MO,-2108.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,420,420,"CR:Basic Service F... M.Smith 201209: Smith, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1440,1440,"CR:Swan Personal C... M.Smith 201209: Smith, Martha",,,,,,,,,,,,,,,

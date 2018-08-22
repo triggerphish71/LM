@@ -1,0 +1,7 @@
+BATCH,,201207,B,1176.0000,
+INVOICE,IN,,12010199,,07/01/2012,588.0000,"Invoice-Private",,07/01/2012,07/10/2012,,12014442MO,-2477.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: MCDonald, Lora",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,18.0000,558.00,"Credit for Limited Term Discount: MCDonald, Lora",,,,,,,,,,,,,,,
+INVOICE,CM,,12010199,,07/01/2012,588,"Invoice-Private",,07/01/2012,07/10/2012,,12014442MO,-2477.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: MCDonald, Lora",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,18,558,"Limited Term Discount: MCDonald, Lora",,,,,,,,,,,,,,,

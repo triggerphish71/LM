@@ -1,0 +1,8 @@
+BATCH,,201205,B,5916.0000,
+INVOICE,IN,,08810232,,05/19/2012,890.0000,"Invoice-Private",,05/19/2012,05/19/2012,,08814378MO,-9476.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,5,97.0000,485.00,"Basic Service Fee - Studio for May: Cummings, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,5,81.0000,405.00,"Resident Care - Level 6 for May: Cummings, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,08810232,,05/19/2012,5026,"Invoice-Private",,05/19/2012,05/19/2012,,08814378MO,-9476.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,1649,1649,"CR:Basic Service F... D.Cummings 201205: Cummings, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000,2000,"CR:New Resident Fe... D.Cummings 201205: Cummings, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1377,1377,"CR:Resident Care -... D.Cummings 201205: Cummings, Dorothy",,,,,,,,,,,,,,,

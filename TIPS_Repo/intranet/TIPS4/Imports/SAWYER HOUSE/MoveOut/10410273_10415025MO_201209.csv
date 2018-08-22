@@ -1,0 +1,7 @@
+BATCH,,201209,B,5668.9200,
+INVOICE,IN,,10410273,,09/23/2012,2736.7200,"Invoice-Private",,09/23/2012,09/23/2012,,10415025MO,-3225.4200,,,,,,,,,,
+TRANSACTION,3020,010101104,28,87.0000,2436.00,"Basic Service Fee - Studio for Sep: Avery, Willam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,28,10.7400,300.72,"Resident Care - Level 6 for Sep: Avery, Willam",,,,,,,,,,,,,,,
+INVOICE,CM,,10410273,,09/23/2012,2932.2,"Invoice-Private",,09/23/2012,09/23/2012,,10415025MO,-3225.4200,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2610,2610,"CR:Basic Service F... W.Avery 201209: Avery, Willam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,322.2,322.2,"CR:Resident Care -... W.Avery 201209: Avery, Willam",,,,,,,,,,,,,,,

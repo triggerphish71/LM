@@ -1,0 +1,5 @@
+BATCH,,201210,B,3528.0000,
+INVOICE,IN,,10910266,,10/01/2012,3528.0000,"October_Rent-Glass. Betty",,10/01/2012,10/10/2012,,10914926,3779.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,31,80.0000,2480,"B.Glass: Basic Service Fee - Studio: Glass. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,31,33.0000,1023,"B.Glass: Resident Care - Level 2: Glass. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Glass. Betty",,,,,,,,,,,,,,,

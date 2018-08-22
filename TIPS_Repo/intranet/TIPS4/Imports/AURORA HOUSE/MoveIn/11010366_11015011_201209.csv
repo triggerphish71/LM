@@ -1,0 +1,6 @@
+BATCH,,201209,B,3335.0000,
+INVOICE,IN,,11010366,,09/21/2012,3335.0000,"MoveIn-Centrone. Micheal",,09/21/2012,09/21/2012,,11015011,7421.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,10,91.0000,910,"Basic Service Fee - Studio         : Centrone. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,10,40.0000,400,"Resident Care - Level 3: Centrone. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Centrone. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Centrone. Micheal",,,,,,,,,,,,,,,

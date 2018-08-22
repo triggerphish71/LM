@@ -1,0 +1,6 @@
+BATCH,,201105,B,3663.0000,
+INVOICE,IN,,11010327,,05/18/2011,3663.0000,"MoveIn-Biggart. Jim",,05/18/2011,05/18/2011,,11014568,7198.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,14,91.0000,1274,"Basic Service Fee - Studio         : Biggart. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,14,26.0000,364,"Resident Care - Level 2: Biggart. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Biggart. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Biggart. Jim",,,,,,,,,,,,,,,

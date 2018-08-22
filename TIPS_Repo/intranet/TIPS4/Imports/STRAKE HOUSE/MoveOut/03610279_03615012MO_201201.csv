@@ -1,0 +1,7 @@
+BATCH,,201201,B,6550.0000,
+INVOICE,IN,,03610279,,01/19/2012,2489.0000,"Invoice-Private",,01/19/2012,01/19/2012,,03615012MO,-5371.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,19,101.0000,1919.00,"Basic Service Fee - Studio for Jan: Masters, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,19,30.0000,570.00,"Resident Care - Level 2 for Jan: Masters, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,03610279,,01/19/2012,4061,"Invoice-Private",,01/19/2012,01/19/2012,,03615012MO,-5371.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... F.Masters 201201: Masters, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,930,930,"CR:Resident Care -... F.Masters 201201: Masters, Frances",,,,,,,,,,,,,,,

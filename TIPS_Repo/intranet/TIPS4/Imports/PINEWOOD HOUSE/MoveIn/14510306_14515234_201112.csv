@@ -1,0 +1,6 @@
+BATCH,,201112,B,4915.0000,
+INVOICE,IN,,14510306,,12/11/2011,4915.0000,"MoveIn-Berry. Betty",,12/11/2011,12/11/2011,,14515234,4915.0000,,,,,,,,,,
+TRANSACTION,3010,010308145,21,99.0000,2079,"Basic Service Fee - Studio: Berry. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308145,21,16.0000,336,"Resident Care - Level 1: Berry. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308145,1,2000.0000,2000,"New Resident Fee: Berry. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3213,010308145,1,500.0000,500,"Pet Fee: Berry. Betty",,,,,,,,,,,,,,,

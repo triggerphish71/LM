@@ -1,0 +1,5 @@
+BATCH,,201110,B,5173.0000,
+INVOICE,IN,,05510223,,10/01/2011,5173.0000,"October_Rent-Waggoner. Carroll",,10/01/2011,10/10/2011,,05514189,8028.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,31,92.0000,2852,"Basic Service Fee - Studio         : Waggoner. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,31,74.0000,2294,"Resident Care - Level 5: Waggoner. Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Waggoner. Carroll",,,,,,,,,,,,,,,

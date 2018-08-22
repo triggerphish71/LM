@@ -1,0 +1,8 @@
+BATCH,,201211,B,9104.0000,
+INVOICE,IN,,11910260,,11/21/2012,3738.0000,"Invoice-Private",,11/21/2012,11/21/2012,,11916045MO,-7115.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,21,93.0000,1953.00,"Basic Service Fee - Studio for Nov: Grystar, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3037,010310119,21,85.0000,1785.00,"Private Care Rate Adjustments for Nov: Grystar, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,11910260,,11/21/2012,5366,"Invoice-Private",,11/21/2012,11/21/2012,,11916045MO,-7115.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2790,2790,"CR:Basic Service F... E.Grystar 201211: Grystar, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... E.Grystar 201211: Grystar, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3037,010310119,1,2550,2550,"CR:Private Care Ra... E.Grystar 201211: Grystar, Edward",,,,,,,,,,,,,,,

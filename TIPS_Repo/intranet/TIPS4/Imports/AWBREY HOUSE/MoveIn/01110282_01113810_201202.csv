@@ -1,0 +1,4 @@
+BATCH,,201202,B,3052.0000,
+INVOICE,IN,,01110282,,02/03/2012,3052.0000,"MoveIn-Danforth. Rada",,02/03/2012,02/03/2012,,01113810,3052.0000,,,,,,,,,,
+TRANSACTION,3010,010101011,27,76.0000,2052,"Basic Service Fee - Studio: Danforth. Rada",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Danforth. Rada",,,,,,,,,,,,,,,

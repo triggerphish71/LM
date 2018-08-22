@@ -1,0 +1,7 @@
+BATCH,,201209,B,4350.0000,
+INVOICE,IN,,53510143,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,53514821MO,-5192.0000,,,,,,,,,,
+TRANSACTION,3320,010319535,1,60.0000,60.00,"CR:Limited Term Di... R.Kastner 201209: Kastner, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,53510143,,09/01/2012,4290,"Invoice-Private",,09/01/2012,09/10/2012,,53514821MO,-5192.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... R.Kastner 201209: Kastner, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1290,1290,"CR:Resident Care -... R.Kastner 201209: Kastner, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2970,2970,"CR:Room and Board ... R.Kastner 201209: Kastner, Robert",,,,,,,,,,,,,,,

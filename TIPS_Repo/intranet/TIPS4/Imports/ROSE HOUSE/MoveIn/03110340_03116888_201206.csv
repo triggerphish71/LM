@@ -1,0 +1,6 @@
+BATCH,,201206,B,2812.0000,
+INVOICE,IN,,03110340,,06/22/2012,2812.0000,"MoveIn-Wood. Bill",,06/22/2012,06/22/2012,,03116888,6404.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,9,99.0000,891,"Basic Service Fee - Studio: Wood. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,9,16.0000,144,"Resident Care - Level 1: Wood. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Wood. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Wood. Bill",,,,,,,,,,,,,,,

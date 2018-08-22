@@ -1,0 +1,7 @@
+BATCH,,201211,B,3694.8600,
+INVOICE,IN,,03010212,,11/08/2012,852.6600,"Invoice-Private",,11/08/2012,11/08/2012,,03014182MO,-1989.5400,,,,,,,,,,
+TRANSACTION,3020,010103030,9,84.0000,756.00,"Basic Service Fee - Studio for Nov: Burgstahler, Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,9,10.7400,96.66,"Resident Care - Level 6 for Nov: Burgstahler, Edwin",,,,,,,,,,,,,,,
+INVOICE,CM,,03010212,,11/08/2012,2842.2,"Invoice-Private",,11/08/2012,11/08/2012,,03014182MO,-1989.5400,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2520,2520,"CR:Basic Service F... E.Burgstahler 201211: Burgstahler, Edwin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,322.2,322.2,"CR:Resident Care -... E.Burgstahler 201211: Burgstahler, Edwin",,,,,,,,,,,,,,,

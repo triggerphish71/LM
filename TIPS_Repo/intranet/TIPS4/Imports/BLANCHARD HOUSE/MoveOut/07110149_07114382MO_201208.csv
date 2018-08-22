@@ -1,0 +1,7 @@
+BATCH,,201208,B,6832.0000,
+INVOICE,IN,,07110149,,08/13/2012,3050.0000,"Invoice-Private",,08/13/2012,08/13/2012,,07114382MO,-732.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,25,90.0000,2250.00,"Basic Service Fee - Studio for Aug: Carothers, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,25,32.0000,800.00,"Resident Care - Level 2 for Aug: Carothers, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,07110149,,08/13/2012,3782,"Invoice-Private",,08/13/2012,08/13/2012,,07114382MO,-732.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2790,2790,"CR:Basic Service F... K.Carothers 201208: Carothers, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,992,992,"CR:Resident Care -... K.Carothers 201208: Carothers, Kathleen",,,,,,,,,,,,,,,

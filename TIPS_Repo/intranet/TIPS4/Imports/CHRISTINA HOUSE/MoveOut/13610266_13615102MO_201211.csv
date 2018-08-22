@@ -1,0 +1,7 @@
+BATCH,,201211,B,180.0000,
+INVOICE,IN,,13610266,,11/01/2012,90.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13615102MO,-2852.0000,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30.0000,30.00,"Pendant Fee: McLane, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309136,30,2.0000,60.00,"Credit for Limited Term Discount: McLane, Lauretta",,,,,,,,,,,,,,,
+INVOICE,CM,,13610266,,11/01/2012,90,"Invoice-Private",,11/01/2012,11/10/2012,,13615102MO,-2852.0000,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"Credit for Pendant Fee: McLane, Lauretta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309136,30,2,60,"Limited Term Discount: McLane, Lauretta",,,,,,,,,,,,,,,

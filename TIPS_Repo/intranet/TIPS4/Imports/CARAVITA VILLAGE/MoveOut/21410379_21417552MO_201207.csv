@@ -1,0 +1,5 @@
+BATCH,,201207,B,1965.4000,
+INVOICE,IN,,21410379,,07/01/2012,982.7000,"Invoice-Private",,07/01/2012,07/10/2012,,21417552MO,-1108.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,31.7000,982.70,"Credit for Limited Term Discount: Bulka, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,21410379,,07/01/2012,982.7,"Invoice-Private",,07/01/2012,07/10/2012,,21417552MO,-1108.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,31.7,982.7,"Limited Term Discount: Bulka, Edward",,,,,,,,,,,,,,,

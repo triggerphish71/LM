@@ -1,0 +1,7 @@
+BATCH,,201207,B,7233.0000,
+INVOICE,IN,,14510232,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,14515545MO,-7109.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,62.0000,62.00,"CR:Limited Term Di... M.Bulwinkle 201207: Bulwinkle, Meryl",,,,,,,,,,,,,,,
+INVOICE,CM,,14510232,,07/01/2012,7171,"Invoice-Private",,07/01/2012,07/10/2012,,14515545MO,-7109.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3844,3844,"CR:Basic Service F... M.Bulwinkle 201207: Bulwinkle, Meryl",,,,,,,,,,,,,,,
+TRANSACTION,3210,010308145,1,1188,1188,"CR:Personal Servic... M.Bulwinkle 201207: Bulwinkle, Meryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2139,2139,"CR:Resident Care -... M.Bulwinkle 201207: Bulwinkle, Meryl",,,,,,,,,,,,,,,

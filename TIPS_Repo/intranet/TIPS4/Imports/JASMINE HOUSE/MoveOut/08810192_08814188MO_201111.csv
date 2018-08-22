@@ -1,0 +1,8 @@
+BATCH,,201111,B,5780.0000,
+INVOICE,IN,,08810192,,11/16/2011,2480.0000,"Invoice-Private",,11/16/2011,11/16/2011,,08814188MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,720.0000,720.00,"CR:Limited Term Di... M.Anderson 201111: Anderson, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,16,94.0000,1504.00,"Basic Service Fee - Studio for Nov: Anderson, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,16,16.0000,256.00,"Resident Care - Level 1 for Nov: Anderson, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,08810192,,11/16/2011,3300,"Invoice-Private",,11/16/2011,11/16/2011,,08814188MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2820,2820,"CR:Basic Service F... M.Anderson 201111: Anderson, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,480,480,"CR:Resident Care -... M.Anderson 201111: Anderson, Margaret",,,,,,,,,,,,,,,

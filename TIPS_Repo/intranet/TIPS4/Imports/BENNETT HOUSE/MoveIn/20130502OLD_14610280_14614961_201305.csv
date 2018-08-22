@@ -1,0 +1,7 @@
+BATCH,,201305,B,3036.0000,
+INVOICE,IN,,14610280,,04/30/2013,123.0000,"MoveIn-Grimes. cheryl",,04/30/2013,04/30/2013,,14614961,3036.0000,,,,,,,,,,
+TRANSACTION,3014,010309146,1,93.0000,93,"Basic Service Fee - Studio: Grimes. cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Grimes. cheryl",,,,,,,,,,,,,,,
+INVOICE,IN,,14610280,,05/01/2013,2913.0000,"May_Rent-Grimes. cheryl",,05/01/2013,05/10/2013,,14614961,3036.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,31,93.0000,2883,"Basic Service Fee - Studio: Grimes. cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Grimes. cheryl",,,,,,,,,,,,,,,

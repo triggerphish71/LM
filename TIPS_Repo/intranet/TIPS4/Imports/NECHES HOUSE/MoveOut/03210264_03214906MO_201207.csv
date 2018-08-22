@@ -1,0 +1,5 @@
+BATCH,,201207,B,2418.0000,
+INVOICE,IN,,03210264,,07/01/2012,1209.0000,"Invoice-Private",,07/01/2012,07/10/2012,,03214906MO,-2283.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,31,39.0000,1209.00,"Credit for Limited Term Discount: Glover, Laina",,,,,,,,,,,,,,,
+INVOICE,CM,,03210264,,07/01/2012,1209,"Invoice-Private",,07/01/2012,07/10/2012,,03214906MO,-2283.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,31,39,1209,"Limited Term Discount: Glover, Laina",,,,,,,,,,,,,,,

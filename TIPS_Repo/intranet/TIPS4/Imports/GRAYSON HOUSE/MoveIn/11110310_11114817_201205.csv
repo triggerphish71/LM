@@ -1,0 +1,6 @@
+BATCH,,201205,B,3789.0000,
+INVOICE,IN,,11110310,,05/18/2012,3789.0000,"MoveIn-James. June",,05/18/2012,05/18/2012,,11114817,7594.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,14,97.0000,1358,"Basic Service Fee - Studio: James. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,14,29.0000,406,"Resident Care - Level 2: James. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: James. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: James. June",,,,,,,,,,,,,,,

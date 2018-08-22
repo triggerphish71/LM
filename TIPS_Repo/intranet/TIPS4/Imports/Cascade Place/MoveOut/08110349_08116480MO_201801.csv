@@ -1,0 +1,5 @@
+BATCH,,201801,B,1360.0000,
+INVOICE,IN,,08110349,,01/16/2018,80.0000,"Invoice-Private",,01/16/2018,01/16/2018,,08116480MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3020,010003081,1,80.0000,80.00,"Basic Service Fee - Studio  for Jan: Erickson, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,08110349,,01/16/2018,1280,"Invoice-Private",,01/16/2018,01/16/2018,,08116480MO,-1200.0000,,,,,,,,,,
+TRANSACTION,3020,010003081,1,1280,1280,"CR:Basic Service F... K.Erickson 201801: Erickson, Kenneth",,,,,,,,,,,,,,,

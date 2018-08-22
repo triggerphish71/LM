@@ -1,0 +1,8 @@
+BATCH,,201206,B,5515.0000,
+INVOICE,IN,,14310170,,06/10/2012,1370.0000,"Invoice-Private",,06/10/2012,06/10/2012,,14314469MO,-2775.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,10,82.0000,820.00,"Basic Service Fee - Studio for Jun: Cunningham, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,10,55.0000,550.00,"Resident Care - Level 4 for Jun: Cunningham, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,14310170,,06/10/2012,4145,"Invoice-Private",,06/10/2012,06/10/2012,,14314469MO,-2775.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2460,2460,"CR:Basic Service F... M.Cunningham 201206: Cunningham, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... M.Cunningham 201206: Cunningham, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,1650,1650,"CR:Resident Care -... M.Cunningham 201206: Cunningham, Marie",,,,,,,,,,,,,,,

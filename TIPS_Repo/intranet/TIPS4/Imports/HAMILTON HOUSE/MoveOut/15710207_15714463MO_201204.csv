@@ -1,0 +1,5 @@
+BATCH,,201204,B,60.0000,
+INVOICE,IN,,15710207,,04/01/2012,30.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15714463MO,-3308.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Marqueling, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,15710207,,04/01/2012,30,"Invoice-Private",,04/01/2012,04/10/2012,,15714463MO,-3308.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Marqueling, Francis",,,,,,,,,,,,,,,

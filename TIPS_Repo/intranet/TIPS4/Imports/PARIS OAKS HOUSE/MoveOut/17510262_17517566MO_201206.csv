@@ -1,0 +1,8 @@
+BATCH,,201206,B,5901.0000,
+INVOICE,IN,,17510262,,06/01/2012,2931.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17517566MO,-39.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,60.0000,60.00,"CR:Limited Term Di... F.Ausmus 201206: Ausmus, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,29,76.0000,2204.00,"Basic Service Fee - Studio Deluxe for Jun: Ausmus, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,29,23.0000,667.00,"Resident Care - Level 2 for Jun: Ausmus, Faye",,,,,,,,,,,,,,,
+INVOICE,CM,,17510262,,06/01/2012,2970,"Invoice-Private",,06/01/2012,06/10/2012,,17517566MO,-39.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Basic Service F... F.Ausmus 201206: Ausmus, Faye",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,690,690,"CR:Resident Care -... F.Ausmus 201206: Ausmus, Faye",,,,,,,,,,,,,,,

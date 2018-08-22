@@ -1,0 +1,5 @@
+BATCH,,201201,B,3096.0000,
+INVOICE,IN,,00810244,,01/01/2012,3096.0000,"January_Rent-Jack. Charles",,01/01/2012,01/10/2012,,00814560,4821.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,31,83.0000,2573,"Basic Service Fee - Studio: Jack. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,31,16.0000,496,"Resident Care - Level 1: Jack. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Jack. Charles",,,,,,,,,,,,,,,

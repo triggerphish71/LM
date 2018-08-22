@@ -1,0 +1,7 @@
+BATCH,,201109,B,5346.0000,
+INVOICE,IN,,07410210,,09/01/2011,2376.0000,"Invoice-Private",,09/01/2011,09/10/2011,,07413622MO,-594.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,24,70.0000,1680.00,"Basic Service Fee - Studio for Sep: Barnett, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,24,29.0000,696.00,"Resident Care - Level 2 for Sep: Barnett, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,07410210,,09/01/2011,2970,"Invoice-Private",,09/01/2011,09/10/2011,,07413622MO,-594.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,2100,2100,"CR:Basic Service F... G.Barnett 201109: Barnett, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,870,870,"CR:Resident Care -... G.Barnett 201109: Barnett, Gloria",,,,,,,,,,,,,,,

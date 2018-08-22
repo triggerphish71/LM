@@ -1,0 +1,7 @@
+BATCH,,201204,B,8695.0000,
+INVOICE,IN,,04310192,,04/17/2012,3145.0000,"Invoice-Private",,04/17/2012,04/17/2012,,04313947MO,-8140.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,17,98.0000,1666.00,"Basic Service Fee - Studio for Apr: Weber, Livein",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,17,87.0000,1479.00,"Resident Care - Level 6 for Apr: Weber, Livein",,,,,,,,,,,,,,,
+INVOICE,CM,,04310192,,04/17/2012,5550,"Invoice-Private",,04/17/2012,04/17/2012,,04313947MO,-8140.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2940,2940,"CR:Basic Service F... L.Weber 201204: Weber, Livein",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,2610,2610,"CR:Resident Care -... L.Weber 201204: Weber, Livein",,,,,,,,,,,,,,,

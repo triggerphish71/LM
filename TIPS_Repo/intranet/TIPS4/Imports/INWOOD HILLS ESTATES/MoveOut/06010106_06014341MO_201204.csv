@@ -1,0 +1,8 @@
+BATCH,,201204,B,6330.0000,
+INVOICE,IN,,06010106,,04/01/2012,1190.0000,"Invoice-Private",,04/01/2012,04/01/2012,,06014341MO,-3950.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,7,110.0000,770.00,"Basic Service Fee - One Bedroom for Apr: Schaefer, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,7,60.0000,420.00,"Resident Care - Level 5 for Apr: Schaefer, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06010106,,04/01/2012,5140,"Invoice-Private",,04/01/2012,04/01/2012,,06014341MO,-3950.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3300,3300,"CR:Basic Service F... M.Schaefer 201204: Schaefer, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... M.Schaefer 201204: Schaefer, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1800,1800,"CR:Resident Care -... M.Schaefer 201204: Schaefer, Mary",,,,,,,,,,,,,,,

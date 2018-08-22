@@ -1,0 +1,8 @@
+BATCH,,201209,B,7343.1200,
+INVOICE,IN,,15310204,,09/02/2012,1443.3200,"Invoice-Private",,09/02/2012,09/02/2012,,15316208MO,-4456.4800,,,,,,,,,,
+TRANSACTION,3320,010103153,1,1050.0000,1050.00,"CR:Limited Term Di... E.Hill 201209: Hill, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,2,96.6600,193.32,"Resident Care - Level 54 for Sep: Hill, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,2,100.0000,200.00,"Room and Board - Studio for Sep: Hill, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,15310204,,09/02/2012,5899.8,"Invoice-Private",,09/02/2012,09/02/2012,,15316208MO,-4456.4800,,,,,,,,,,
+TRANSACTION,3027,010103153,1,2899.8,2899.8,"CR:Resident Care -... E.Hill 201209: Hill, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Room and Board ... E.Hill 201209: Hill, Eugene",,,,,,,,,,,,,,,

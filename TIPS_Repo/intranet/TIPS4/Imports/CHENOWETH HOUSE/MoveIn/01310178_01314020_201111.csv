@@ -1,0 +1,6 @@
+BATCH,,201111,B,1189.9000,
+INVOICE,IN,,01310178,,11/29/2011,1189.9000,"MoveIn-Lindsley. Gordon",,11/29/2011,11/29/2011,,01314020,3727.3500,,,,,,,,,,
+TRANSACTION,3010,010103013,2,72.0000,144,"Basic Service Fee - Studio: Lindsley. Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,2,8.9500,17.9,"Resident Care - Level 5: Lindsley. Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Lindsley. Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Lindsley. Gordon",,,,,,,,,,,,,,,

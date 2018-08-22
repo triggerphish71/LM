@@ -1,0 +1,6 @@
+BATCH,,201109,B,4075.0000,
+INVOICE,IN,,17510257,,09/01/2011,4075.0000,"MoveIn-Dowdy. Doris",,09/01/2011,09/01/2011,,17517202,4075.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,30,73.0000,2190,"Basic Service Fee - Studio Deluxe: Dowdy. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,30,12.0000,360,"Resident Care - Level 1: Dowdy. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Dowdy. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Dowdy. Doris",,,,,,,,,,,,,,,

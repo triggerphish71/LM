@@ -1,0 +1,5 @@
+BATCH,,201110,B,186.0000,
+INVOICE,IN,,52510103,,10/01/2011,93.0000,"Invoice-Private",,10/01/2011,10/10/2011,,52512256MO,-4142.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,31,3.0000,93.00,"Credit for Limited Term Discount: Simdon, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,52510103,,10/01/2011,93,"Invoice-Private",,10/01/2011,10/10/2011,,52512256MO,-4142.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,31,3,93,"Limited Term Discount: Simdon, Betty",,,,,,,,,,,,,,,

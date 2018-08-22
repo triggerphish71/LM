@@ -1,0 +1,8 @@
+BATCH,,201108,B,4207.0000,
+INVOICE,IN,,06310226,,08/01/2011,369.0000,"Invoice-Private",,08/01/2011,08/10/2011,,06314645MO,-3469.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,3,93.0000,279.00,"Basic Service Fee - Deluxe for Aug: Kennedy, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,3,30.0000,90.00,"Resident Care - Level 2 for Aug: Kennedy, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,06310226,,08/01/2011,3838,"Invoice-Private",,08/01/2011,08/10/2011,,06314645MO,-3469.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,2883,2883,"CR:Basic Service F... R.Kennedy 201108: Kennedy, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... R.Kennedy 201108: Kennedy, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,930,930,"CR:Resident Care -... R.Kennedy 201108: Kennedy, Ruth",,,,,,,,,,,,,,,

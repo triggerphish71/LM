@@ -1,0 +1,5 @@
+BATCH,,201211,B,5625.0000,
+INVOICE,IN,,08310208,,11/02/2012,5625.0000,"MoveIn-Hall. Mildred",,11/02/2012,11/02/2012,,08314226,5625.0000,,,,,,,,,,
+TRANSACTION,3010,010306083,29,106.0000,3074,"Basic Service Fee - Studio         : Hall. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306083,29,19.0000,551,"Resident Care - Level 1: Hall. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306083,1,2000.0000,2000,"New Resident Fee: Hall. Mildred",,,,,,,,,,,,,,,

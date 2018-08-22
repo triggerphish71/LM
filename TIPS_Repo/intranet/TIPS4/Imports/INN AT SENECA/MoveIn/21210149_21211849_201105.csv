@@ -1,0 +1,5 @@
+BATCH,,201105,B,2800.0000,
+INVOICE,IN,,21210149,,05/01/2011,2800.0000,"May_Rent-Nichols. Betty",,05/01/2011,05/10/2011,,21211849,4019.0000,,,,,,,,,,
+TRANSACTION,3010,010208212,31,78.0000,2418,"B.Nichols: Studio: Nichols. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010208212,31,11.0000,341,"B.Nichols: Resident Care - Level 1: Nichols. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41,"Monthly Cable: Nichols. Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,14810251,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14814807MO,-2851.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30.00,"Monthly Cable: Dorsey, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,14810251,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,14814807MO,-2851.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"Credit for Monthly Cable: Dorsey, Virginia",,,,,,,,,,,,,,,

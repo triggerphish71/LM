@@ -1,0 +1,5 @@
+BATCH,,201303,B,2430.0000,
+INVOICE,IN,,13710245,,03/22/2013,2430.0000,"MoveIn-Cherry. William",,03/22/2013,03/22/2013,,13714887,5160.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,10,90.0000,900,"Basic Service Fee - Studio: Cherry. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Cherry. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Cherry. William",,,,,,,,,,,,,,,

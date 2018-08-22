@@ -1,0 +1,8 @@
+BATCH,,201110,B,3540.8000,
+INVOICE,IN,,06110210,,10/23/2011,385.2000,"Invoice-Private",,10/23/2011,10/23/2011,,06113752MO,-5659.4000,,,,,,,,,,
+TRANSACTION,3020,010103061,4,81.0000,324.00,"Basic Service Fee - Studio for Oct: Greiner, Betty Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,4,15.3000,61.20,"Resident Care - Level 9 for Oct: Greiner, Betty Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,06110210,,10/23/2011,3155.6,"Invoice-Private",,10/23/2011,10/23/2011,,06113752MO,-5659.4000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,972,972,"CR:Basic Service F... B.Greiner 201110: Greiner, Betty Lou",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,2000,2000,"CR:New Resident Fe... B.Greiner 201110: Greiner, Betty Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,183.6,183.6,"CR:Resident Care -... B.Greiner 201110: Greiner, Betty Lou",,,,,,,,,,,,,,,

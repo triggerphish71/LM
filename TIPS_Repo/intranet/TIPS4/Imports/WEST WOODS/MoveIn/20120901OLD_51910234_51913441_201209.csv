@@ -1,0 +1,5 @@
+BATCH,,201209,B,5325.0000,
+INVOICE,IN,,51910234,,09/01/2012,5325.0000,"MoveIn-Stroy. Cheryl  ",,09/01/2012,09/01/2012,,51913441,5325.0000,,,,,,,,,,
+TRANSACTION,3010,010103519,30,110.0000,3300,"Basic Service Fee - One Bedroom: Stroy. Cheryl  ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25.0000,25,"Monthly Cable: Stroy. Cheryl  ",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103519,1,2000.0000,2000,"New Resident Fee: Stroy. Cheryl  ",,,,,,,,,,,,,,,

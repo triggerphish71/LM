@@ -1,0 +1,7 @@
+BATCH,,201109,B,5401.0000,
+INVOICE,IN,,52610260,,09/08/2011,1981.0000,"Invoice-Private",,09/08/2011,09/08/2011,,52616279MO,-4880.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,60.0000,60.00,"CR:Limited Term Di... L.Kuespert 201109: Kuespert, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,17,113.0000,1921.00,"Basic Service Fee - Two Bedroom Del for Sep: Kuespert, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,52610260,,09/08/2011,3420,"Invoice-Private",,09/08/2011,09/08/2011,,52616279MO,-4880.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3390,3390,"CR:Basic Service F... L.Kuespert 201109: Kuespert, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... L.Kuespert 201109: Kuespert, Lois",,,,,,,,,,,,,,,

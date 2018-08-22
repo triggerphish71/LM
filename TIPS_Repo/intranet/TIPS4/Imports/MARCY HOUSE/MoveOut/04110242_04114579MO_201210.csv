@@ -1,0 +1,7 @@
+BATCH,,201210,B,4059.0000,
+INVOICE,IN,,04110242,,10/01/2012,990.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04114579MO,-2079.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,10,82.0000,820.00,"Basic Service Fee - Studio for Oct: Range Jr , Byron ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,10,17.0000,170.00,"Resident Care - Level 1 for Oct: Range Jr , Byron ",,,,,,,,,,,,,,,
+INVOICE,CM,,04110242,,10/01/2012,3069,"Invoice-Private",,10/01/2012,10/10/2012,,04114579MO,-2079.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... B.Range Jr 201210: Range Jr , Byron ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... B.Range Jr 201210: Range Jr , Byron ",,,,,,,,,,,,,,,

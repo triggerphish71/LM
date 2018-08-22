@@ -1,0 +1,8 @@
+BATCH,,201105,B,4925.0000,
+INVOICE,IN,,02510121,,05/19/2011,1862.0000,"Invoice-Private",,05/19/2011,05/19/2011,,02513107MO,-4166.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,19,82.0000,1558.00,"Basic Service Fee - Studio for May: Roberg, Ola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,19,16.0000,304.00,"Resident Care - Level 1 for May: Roberg, Ola",,,,,,,,,,,,,,,
+INVOICE,CM,,02510121,,05/19/2011,3063,"Invoice-Private",,05/19/2011,05/19/2011,,02513107MO,-4166.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,2542,2542,"CR:Basic Service F... O.Roberg 201105: Roberg, Ola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25,25,"CR:Monthly Cable... O.Roberg 201105: Roberg, Ola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,1,496,496,"CR:Resident Care -... O.Roberg 201105: Roberg, Ola",,,,,,,,,,,,,,,

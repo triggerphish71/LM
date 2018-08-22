@@ -1,0 +1,7 @@
+BATCH,,201211,B,5070.0000,
+INVOICE,IN,,53510126,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53514952MO,-6744.0000,,,,,,,,,,
+TRANSACTION,3320,010319535,1,60.0000,60.00,"CR:Limited Term Di... J.Stradal 201211: Stradal, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53510126,,11/01/2012,5010,"Invoice-Private",,11/01/2012,11/10/2012,,53514952MO,-6744.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2970,2970,"CR:Basic Service F... J.Stradal 201211: Stradal, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... J.Stradal 201211: Stradal, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,2010,2010,"CR:Resident Care -... J.Stradal 201211: Stradal, Jean",,,,,,,,,,,,,,,

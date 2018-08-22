@@ -1,0 +1,7 @@
+BATCH,,201203,B,1976.0000,
+INVOICE,IN,,03410253,,03/01/2012,988.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03415379MO,-2103.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Payne, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,31,31.0000,961.00,"Credit for Limited Term Discount: Payne, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03410253,,03/01/2012,988,"Invoice-Private",,03/01/2012,03/10/2012,,03415379MO,-2103.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Payne, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,31,31,961,"Limited Term Discount: Payne, John",,,,,,,,,,,,,,,

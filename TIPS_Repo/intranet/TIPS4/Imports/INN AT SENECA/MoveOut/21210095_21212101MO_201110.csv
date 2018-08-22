@@ -1,0 +1,7 @@
+BATCH,,201110,B,3832.3000,
+INVOICE,IN,,21210095,,10/01/2011,412.3000,"Invoice-Private",,10/01/2011,10/10/2011,,21212101MO,-3521.7000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,412.3000,412.30,"CR:Limited Term Di... N.McConnell 201110: McConnell, Nelly",,,,,,,,,,,,,,,
+INVOICE,CM,,21210095,,10/01/2011,3420,"Invoice-Private",,10/01/2011,10/10/2011,,21212101MO,-3521.7000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"CR:Monthly Cable... N.McConnell 201110: McConnell, Nelly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,651,651,"CR:Resident Care -... N.McConnell 201110: McConnell, Nelly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2728,2728,"CR:Studio Deluxe... N.McConnell 201110: McConnell, Nelly",,,,,,,,,,,,,,,

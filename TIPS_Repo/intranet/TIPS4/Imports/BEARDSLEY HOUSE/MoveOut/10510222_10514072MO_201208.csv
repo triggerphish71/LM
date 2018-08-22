@@ -1,0 +1,5 @@
+BATCH,,201208,B,70.0000,
+INVOICE,IN,,10510222,,08/01/2012,35.0000,"Invoice-Private",,08/01/2012,08/10/2012,,10514072MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3130,010309105,1,35.0000,35.00,"Pendant Fee: Swinehart, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,10510222,,08/01/2012,35,"Invoice-Private",,08/01/2012,08/10/2012,,10514072MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3130,010309105,1,35,35,"Credit for Pendant Fee: Swinehart, Jean",,,,,,,,,,,,,,,

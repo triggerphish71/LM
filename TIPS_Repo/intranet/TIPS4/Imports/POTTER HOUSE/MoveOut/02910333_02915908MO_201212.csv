@@ -1,0 +1,8 @@
+BATCH,,201212,B,5534.0000,
+INVOICE,IN,,02910333,,12/07/2012,1070.0000,"Invoice-Private",,12/07/2012,12/07/2012,,02915908MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,62.0000,62.00,"CR:Limited Term Di... M.Leone 201212: Leone, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,7,100.0000,700.00,"Basic Service Fee - Studio for Dec: Leone, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,7,44.0000,308.00,"Resident Care - Level 3 for Dec: Leone, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,02910333,,12/07/2012,4464,"Invoice-Private",,12/07/2012,12/07/2012,,02915908MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Basic Service F... M.Leone 201212: Leone, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1364,1364,"CR:Resident Care -... M.Leone 201212: Leone, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,6034.8000,
+INVOICE,IN,,52610212,,02/01/2012,200.1600,"Invoice-Private",,02/01/2012,02/10/2012,,52616580MO,-5634.4800,,,,,,,,,,
+TRANSACTION,3020,010319526,1,96.0000,96.00,"Basic Service Fee - One Bedroom Del for Feb: Scharf, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,104.1600,104.16,"Resident Care - Level 6+4 pts for Feb: Scharf, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,52610212,,02/01/2012,5834.64,"Invoice-Private",,02/01/2012,02/10/2012,,52616580MO,-5634.4800,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2784,2784,"CR:Basic Service F... V.Scharf 201202: Scharf, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... V.Scharf 201202: Scharf, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,3020.64,3020.64,"CR:Resident Care -... V.Scharf 201202: Scharf, Virginia",,,,,,,,,,,,,,,

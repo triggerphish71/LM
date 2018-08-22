@@ -1,0 +1,5 @@
+BATCH,,201112,B,54.0000,
+INVOICE,IN,,16310294,,12/01/2011,27.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16316442MO,-3156.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27.00,"Monthly Cable: Freeman, Rosetta",,,,,,,,,,,,,,,
+INVOICE,CM,,16310294,,12/01/2011,27,"Invoice-Private",,12/01/2011,12/10/2011,,16316442MO,-3156.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"Credit for Monthly Cable: Freeman, Rosetta",,,,,,,,,,,,,,,

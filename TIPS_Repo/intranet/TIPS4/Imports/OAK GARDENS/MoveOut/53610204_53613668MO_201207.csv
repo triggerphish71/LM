@@ -1,0 +1,8 @@
+BATCH,,201207,B,5795.0000,
+INVOICE,IN,,53610204,,07/05/2012,800.0000,"Invoice-Private",,07/05/2012,07/05/2012,,53613668MO,-4195.0000,,,,,,,,,,
+TRANSACTION,3027,010319536,5,29.0000,145.00,"Resident Care - Level 2 for Jul: Baker, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319536,5,131.0000,655.00,"Room and Board - One Bedroom Deluxe for Jul: Baker, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,53610204,,07/05/2012,4995,"Invoice-Private",,07/05/2012,07/05/2012,,53613668MO,-4195.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... D.Baker 201207: Baker, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,899,899,"CR:Resident Care -... D.Baker 201207: Baker, Darrell",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319536,1,4061,4061,"CR:Room and Board ... D.Baker 201207: Baker, Darrell",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,7321.0000,
+INVOICE,IN,,12810191,,06/05/2011,7321.0000,"MoveIn-klos. doris",,06/05/2011,06/05/2011,,12814506,7321.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,26,111.0000,2886,"Basic Service Fee - Studio         : klos. doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306128,26,35.0000,910,"Swan Personal Care - L2: klos. doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: klos. doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306128,1,3500.0000,3500,"New Resident Fee: klos. doris",,,,,,,,,,,,,,,

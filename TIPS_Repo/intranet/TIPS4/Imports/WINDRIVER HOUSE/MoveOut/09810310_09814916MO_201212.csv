@@ -1,0 +1,7 @@
+BATCH,,201212,B,5189.2500,
+INVOICE,IN,,09810310,,12/18/2012,1683.0000,"Invoice-Private",,12/18/2012,12/18/2012,,09814916MO,-6171.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,12,94.0000,1128.00,"Basic Service Fee - Studio for Dec: Reichenberg, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,12,46.2500,555.00,"Resident Care - Level 25 for Dec: Reichenberg, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,09810310,,12/18/2012,3506.25,"Invoice-Private",,12/18/2012,12/18/2012,,09814916MO,-6171.0000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2350,2350,"CR:Basic Service F... R.Reichenberg 201212: Reichenberg, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,1156.25,1156.25,"CR:Resident Care -... R.Reichenberg 201212: Reichenberg, Ray",,,,,,,,,,,,,,,

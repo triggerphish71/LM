@@ -1,0 +1,7 @@
+BATCH,,201303,B,5826.6000,
+INVOICE,IN,,09510269,,03/21/2013,2353.0500,"Invoice-Private",,03/21/2013,03/21/2013,,09515465MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,21,88.0000,1848.00,"Basic Service Fee - Studio for Mar: Sherlock, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,21,24.0500,505.05,"Resident Care - Level 13 for Mar: Sherlock, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,09510269,,03/21/2013,3473.55,"Invoice-Private",,03/21/2013,03/21/2013,,09515465MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2728,2728,"CR:Basic Service F... L.Sherlock 201303: Sherlock, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,745.55,745.55,"CR:Resident Care -... L.Sherlock 201303: Sherlock, Lois",,,,,,,,,,,,,,,

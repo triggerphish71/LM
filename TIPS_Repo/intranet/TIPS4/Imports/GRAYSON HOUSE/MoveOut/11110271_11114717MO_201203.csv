@@ -1,0 +1,7 @@
+BATCH,,201203,B,4471.0000,
+INVOICE,IN,,11110271,,03/01/2012,50.0000,"Invoice-Private",,03/01/2012,03/10/2012,,11114717MO,-4653.0000,,,,,,,,,,
+TRANSACTION,3150,010107111,1,50.0000,50.00,"Late Fee Adjustment: Walter, Ora",,,,,,,,,,,,,,,
+INVOICE,CM,,11110271,,03/01/2012,4421,"Invoice-Private",,03/01/2012,03/10/2012,,11114717MO,-4653.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3007,3007,"CR:Basic Service F... O.Walter 201203: Walter, Ora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1364,1364,"CR:Resident Care -... O.Walter 201203: Walter, Ora",,,,,,,,,,,,,,,
+TRANSACTION,3150,010107111,1,50,50,"Late Fee Adjustment: Walter, Ora",,,,,,,,,,,,,,,

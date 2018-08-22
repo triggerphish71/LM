@@ -1,0 +1,5 @@
+BATCH,,201207,B,3970.0000,
+INVOICE,IN,,10810276,,07/05/2012,3970.0000,"MoveIn-Smith. Georgia",,07/05/2012,07/05/2012,,10814898,3970.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,27,84.0000,2268,"Basic Service Fee - Studio         : Smith. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308108,27,26.0000,702,"Resident Care - Level 2: Smith. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Smith. Georgia",,,,,,,,,,,,,,,

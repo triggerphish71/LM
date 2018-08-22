@@ -1,0 +1,5 @@
+BATCH,,201111,B,1586.0000,
+INVOICE,IN,,19310348,,11/30/2011,1586.0000,"MoveIn-Pick. John",,11/30/2011,11/30/2011,,19314989,4252.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,1,76.0000,76,"Basic Service Fee - Studio: Pick. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Pick. John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,10.0000,10,"CC Meals: Pick. John",,,,,,,,,,,,,,,

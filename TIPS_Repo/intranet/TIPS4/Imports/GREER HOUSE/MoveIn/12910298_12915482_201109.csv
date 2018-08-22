@@ -1,0 +1,6 @@
+BATCH,,201109,B,5870.0000,
+INVOICE,IN,,12910298,,09/01/2011,5870.0000,"MoveIn-Koch. Dorothy",,09/01/2011,09/01/2011,,12915482,5870.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,30,92.0000,2760,"Basic Service Fee - Studio         : Koch. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,30,36.0000,1080,"Resident Care - Level 2: Koch. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Koch. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Koch. Dorothy",,,,,,,,,,,,,,,

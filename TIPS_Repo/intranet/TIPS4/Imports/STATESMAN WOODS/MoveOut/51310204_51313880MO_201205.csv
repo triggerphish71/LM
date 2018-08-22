@@ -1,0 +1,7 @@
+BATCH,,201205,B,8235.0000,
+INVOICE,IN,,51310204,,05/01/2012,4050.0000,"Invoice-Private",,05/01/2012,05/10/2012,,51313880MO,-135.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,30,108.0000,3240.00,"Basic Service Fee- Studio for May: Marlin, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,30,27.0000,810.00,"Resident Care - Level 2 for May: Marlin, John",,,,,,,,,,,,,,,
+INVOICE,CM,,51310204,,05/01/2012,4185,"Invoice-Private",,05/01/2012,05/10/2012,,51313880MO,-135.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3348,3348,"CR:Basic Service F... J.Marlin 201205: Marlin, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,837,837,"CR:Resident Care -... J.Marlin 201205: Marlin, John",,,,,,,,,,,,,,,

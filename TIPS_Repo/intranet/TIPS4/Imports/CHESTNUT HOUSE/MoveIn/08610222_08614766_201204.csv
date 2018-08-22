@@ -1,0 +1,5 @@
+BATCH,,201204,B,3730.0000,
+INVOICE,IN,,08610222,,04/21/2012,3730.0000,"MoveIn-Lane. Barbara",,04/21/2012,04/21/2012,,08614766,9093.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,10,89.0000,890,"Basic Service Fee - Studio: Lane. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,10,84.0000,840,"Resident Care - Level 6: Lane. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000.0000,2000,"New Resident Fee: Lane. Barbara",,,,,,,,,,,,,,,

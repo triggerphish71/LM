@@ -1,0 +1,6 @@
+BATCH,,201204,B,6048.0000,
+INVOICE,IN,,09010246,,04/04/2012,6048.0000,"MoveIn-Smith. Maxine",,04/04/2012,04/04/2012,,09014940,6048.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,27,92.0000,2484,"M.Smith: Basic Service Fee - Studio: Smith. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,27,57.0000,1539,"M.Smith: Resident Care - Level 4: Smith. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: Smith. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104090,1,2000.0000,2000,"New Resident Fee: Smith. Maxine",,,,,,,,,,,,,,,

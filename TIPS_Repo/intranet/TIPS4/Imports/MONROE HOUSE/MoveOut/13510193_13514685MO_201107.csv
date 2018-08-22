@@ -1,0 +1,7 @@
+BATCH,,201107,B,4525.0000,
+INVOICE,IN,,13510193,,07/01/2011,341.0000,"Invoice-Private",,07/01/2011,07/10/2011,,13514685MO,-6759.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,341.0000,341.00,"CR:Limited Term Di... H.Owings 201107: Owings, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,13510193,,07/01/2011,4184,"Invoice-Private",,07/01/2011,07/10/2011,,13514685MO,-6759.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2697,2697,"CR:Basic Service F... H.Owings 201107: Owings, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Owings 201107: Owings, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,1457,1457,"CR:Resident Care -... H.Owings 201107: Owings, Herbert",,,,,,,,,,,,,,,

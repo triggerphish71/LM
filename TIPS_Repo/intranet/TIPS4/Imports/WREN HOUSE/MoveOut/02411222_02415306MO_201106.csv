@@ -1,0 +1,6 @@
+BATCH,,201106,B,3807.0000,
+INVOICE,IN,,02411222,,06/01/2011,930.0000,"Invoice-Private",,06/01/2011,06/10/2011,,02415306MO,-1393.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,930.0000,930.00,"CR:Limited Term Di... D.Owens 201106: Owens, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,02411222,,06/01/2011,2877,"Invoice-Private",,06/01/2011,06/10/2011,,02415306MO,-1393.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2850,2850,"CR:Basic Service F... D.Owens 201106: Owens, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... D.Owens 201106: Owens, Dorothy",,,,,,,,,,,,,,,

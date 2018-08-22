@@ -1,0 +1,8 @@
+BATCH,,201209,B,6657.0000,
+INVOICE,IN,,53410262,,09/15/2012,2397.0000,"Invoice-Private",,09/15/2012,09/15/2012,,53421443MO,-6264.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,17,67.0000,1139.00,"Resident Care - Level 3 for Sep: Mueller, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,17,74.0000,1258.00,"Room and Board - Studio Deluxe for Sep: Mueller, Milton",,,,,,,,,,,,,,,
+INVOICE,CM,,53410262,,09/15/2012,4260,"Invoice-Private",,09/15/2012,09/15/2012,,53421443MO,-6264.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... M.Mueller 201209: Mueller, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2010,2010,"CR:Resident Care -... M.Mueller 201209: Mueller, Milton",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2220,2220,"CR:Room and Board ... M.Mueller 201209: Mueller, Milton",,,,,,,,,,,,,,,

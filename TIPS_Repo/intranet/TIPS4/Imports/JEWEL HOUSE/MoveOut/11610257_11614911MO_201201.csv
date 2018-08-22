@@ -1,0 +1,5 @@
+BATCH,,201201,B,3400.0000,
+INVOICE,IN,,11610257,,01/01/2012,300.0000,"Invoice-Private",,01/01/2012,01/10/2012,,11614911MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,3,100.0000,300.00,"Basic Service Fee - Studio for Jan: Grigsby, Nettie",,,,,,,,,,,,,,,
+INVOICE,CM,,11610257,,01/01/2012,3100,"Invoice-Private",,01/01/2012,01/10/2012,,11614911MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Basic Service F... N.Grigsby 201201: Grigsby, Nettie",,,,,,,,,,,,,,,

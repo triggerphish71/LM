@@ -1,0 +1,8 @@
+BATCH,,201805,B,6021.2900,
+INVOICE,IN,,18100005,,05/07/2018,2425.2900,"Invoice-Private",,05/07/2018,05/07/2018,,18111449MO,-4650.7100,,,,,,,,,,
+TRANSACTION,3017,010012181,4,16.0000,64.00,"AL level care - 05-05-2018: Culp, Juanita ",,,,,,,,,,,,,,,
+TRANSACTION,3010,010012181,4,100.0000,400.00,"One Bedroom - 05-05-2018: Culp, Juanita ",,,,,,,,,,,,,,,
+TRANSACTION,3010,010012181,1,1961.2903,1961.29,"Basic Service Fee - MC Studio: Culp, Juanita ",,,,,,,,,,,,,,,
+INVOICE,CM,,18100005,,05/07/2018,3596,"Invoice-Private",,05/07/2018,05/07/2018,,18111449MO,-4650.7100,,,,,,,,,,
+TRANSACTION,3020,010012181,1,3100,3100,"CR:One Bedroom... J.Culp 201805: Culp, Juanita ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012181,1,496,496,"CR:Resident Care -... J.Culp 201805: Culp, Juanita ",,,,,,,,,,,,,,,

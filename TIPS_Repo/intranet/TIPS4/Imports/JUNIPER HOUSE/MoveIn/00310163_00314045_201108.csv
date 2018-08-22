@@ -1,0 +1,5 @@
+BATCH,,201108,B,3160.0000,
+INVOICE,IN,,00310163,,08/05/2011,3160.0000,"MoveIn-Stills. Delila",,08/05/2011,08/05/2011,,00314045,3160.0000,,,,,,,,,,
+TRANSACTION,3010,010101003,27,79.0000,2133,"Basic Service Fee - Studio         : Stills. Delila",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Stills. Delila",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Stills. Delila",,,,,,,,,,,,,,,

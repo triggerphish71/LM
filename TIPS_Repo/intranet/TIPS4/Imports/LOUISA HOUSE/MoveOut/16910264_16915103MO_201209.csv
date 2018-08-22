@@ -1,0 +1,7 @@
+BATCH,,201209,B,3124.6000,
+INVOICE,IN,,16910264,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16915103MO,-3004.6000,,,,,,,,,,
+TRANSACTION,3320,010103169,1,60.0000,60.00,"CR:Limited Term Di... V.Michel 201209: Michel, Victor",,,,,,,,,,,,,,,
+INVOICE,CM,,16910264,,09/01/2012,3064.6,"Invoice-Private",,09/01/2012,09/10/2012,,16915103MO,-3004.6000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2610,2610,"CR:Basic Service F... V.Michel 201209: Michel, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... V.Michel 201209: Michel, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,429.6,429.6,"CR:Resident Care -... V.Michel 201209: Michel, Victor",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,6150.0000,
+INVOICE,IN,,21410081,,03/19/2012,2337.0000,"Invoice-Private",,03/19/2012,03/19/2012,,21417375MO,-5166.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,19,23.0000,437.00,"Resident Care - Level 2 for Mar: Palmer, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,19,100.0000,1900.00,"Studio Deluxe for Mar: Palmer, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,21410081,,03/19/2012,3813,"Invoice-Private",,03/19/2012,03/19/2012,,21417375MO,-5166.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... D.Palmer 201203: Palmer, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,3100,3100,"CR:Studio Deluxe... D.Palmer 201203: Palmer, Dorothy",,,,,,,,,,,,,,,

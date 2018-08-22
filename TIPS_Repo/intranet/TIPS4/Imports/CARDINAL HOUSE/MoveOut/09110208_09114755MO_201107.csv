@@ -1,0 +1,8 @@
+BATCH,,201107,B,6292.0000,
+INVOICE,IN,,09110208,,07/06/2011,696.0000,"Invoice-Private",,07/06/2011,07/06/2011,,09114755MO,-4900.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,6,80.0000,480.00,"Basic Service Fee - Studio for Jul: Mullins, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,6,36.0000,216.00,"Resident Care - Level 2 for Jul: Mullins, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,09110208,,07/06/2011,5596,"Invoice-Private",,07/06/2011,07/06/2011,,09114755MO,-4900.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2480,2480,"CR:Basic Service F... J.Mullins 201107: Mullins, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000,2000,"CR:New Resident Fe... J.Mullins 201107: Mullins, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... J.Mullins 201107: Mullins, Jack",,,,,,,,,,,,,,,

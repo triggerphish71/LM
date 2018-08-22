@@ -1,0 +1,8 @@
+BATCH,,201303,B,6794.0000,
+INVOICE,IN,,19810289,,03/01/2013,1246.0000,"Invoice-Private",,03/01/2013,03/10/2013,,19818362MO,-4302.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,7,89.0000,623.00,"Basic Service Fee IL - Two Bedroom for Mar: Peckosh, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,7,89.0000,623.00,"Swan Personal Care - L5 for Mar: Peckosh, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,19810289,,03/01/2013,5548,"Invoice-Private",,03/01/2013,03/10/2013,,19818362MO,-4302.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2759,2759,"CR:Basic Service F... M.Peckosh 201303: Peckosh, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... M.Peckosh 201303: Peckosh, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,2759,2759,"CR:Swan Personal C... M.Peckosh 201303: Peckosh, Mary",,,,,,,,,,,,,,,

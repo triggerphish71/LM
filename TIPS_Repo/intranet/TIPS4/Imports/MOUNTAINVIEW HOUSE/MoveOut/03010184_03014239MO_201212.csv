@@ -1,0 +1,7 @@
+BATCH,,201212,B,5645.7000,
+INVOICE,IN,,03010184,,12/10/2012,1377.0000,"Invoice-Private",,12/10/2012,12/10/2012,,03014239MO,-7160.4000,,,,,,,,,,
+TRANSACTION,3020,010103030,10,84.0000,840.00,"Basic Service Fee - Studio for Dec: Ottesen, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,10,53.7000,537.00,"Resident Care - Level 30 for Dec: Ottesen, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,03010184,,12/10/2012,4268.7,"Invoice-Private",,12/10/2012,12/10/2012,,03014239MO,-7160.4000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2604,2604,"CR:Basic Service F... V.Ottesen 201212: Ottesen, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,1664.7,1664.7,"CR:Resident Care -... V.Ottesen 201212: Ottesen, Vivian",,,,,,,,,,,,,,,

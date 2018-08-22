@@ -1,0 +1,7 @@
+BATCH,,201208,B,1408.0000,
+INVOICE,IN,,16810418,,07/31/2012,44.0000,"MoveIn-Butcher. Thomas",,07/31/2012,07/31/2012,,16816796,1408.0000,,,,,,,,,,
+TRANSACTION,3014,010313168,1,31.0000,31,"Basic Service Fee - Second Resident: Butcher. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,1,13.0000,13,"Resident Care - Level 1: Butcher. Thomas",,,,,,,,,,,,,,,
+INVOICE,IN,,16810418,,08/01/2012,1364.0000,"August_Rent-Butcher. Thomas",,08/01/2012,08/10/2012,,16816796,1408.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,31,31.0000,961,"Basic Service Fee - Second Resident: Butcher. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,31,13.0000,403,"Resident Care - Level 1: Butcher. Thomas",,,,,,,,,,,,,,,

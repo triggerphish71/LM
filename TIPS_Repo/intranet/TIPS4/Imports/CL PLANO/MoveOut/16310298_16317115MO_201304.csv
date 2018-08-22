@@ -1,0 +1,6 @@
+BATCH,,201304,B,3447.0000,
+INVOICE,IN,,16310298,,04/27/2013,1620.0000,"Invoice-Private",,04/27/2013,04/27/2013,,16317115MO,-2094.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,27,60.0000,1620.00,"Basic Service Fee - Studio Deluxe for Apr: Waters, Roscoe",,,,,,,,,,,,,,,
+INVOICE,CM,,16310298,,04/27/2013,1827,"Invoice-Private",,04/27/2013,04/27/2013,,16317115MO,-2094.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,1800,1800,"CR:Basic Service F... R.Waters 201304: Waters, Roscoe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... R.Waters 201304: Waters, Roscoe",,,,,,,,,,,,,,,

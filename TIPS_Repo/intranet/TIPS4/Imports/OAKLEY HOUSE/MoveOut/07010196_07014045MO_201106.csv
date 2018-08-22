@@ -1,0 +1,7 @@
+BATCH,,201106,B,3440.0000,
+INVOICE,IN,,07010196,,06/13/2011,1040.0000,"Invoice-Private",,06/13/2011,06/13/2011,,07014045MO,-1360.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,13,35.0000,455.00,"Basic Service Fee - Second Resident for Jun: Matthews Sr., Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,13,45.0000,585.00,"Resident Care - Level 3 for Jun: Matthews Sr., Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,07010196,,06/13/2011,2400,"Invoice-Private",,06/13/2011,06/13/2011,,07014045MO,-1360.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,1050,1050,"CR:Basic Service F... R.Matthews Sr. 201106: Matthews Sr., Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1350,1350,"CR:Resident Care -... R.Matthews Sr. 201106: Matthews Sr., Robert",,,,,,,,,,,,,,,

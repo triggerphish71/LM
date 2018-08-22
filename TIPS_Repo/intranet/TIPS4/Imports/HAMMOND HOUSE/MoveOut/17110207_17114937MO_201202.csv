@@ -1,0 +1,7 @@
+BATCH,,201202,B,5920.0000,
+INVOICE,IN,,17110207,,02/10/2012,1628.0000,"Invoice-Private",,02/10/2012,02/10/2012,,17114937MO,-2664.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,11,94.0000,1034.00,"Basic Service Fee - Studio for Feb: Dante, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,11,54.0000,594.00,"Resident Care - Level 4 for Feb: Dante, Anthony",,,,,,,,,,,,,,,
+INVOICE,CM,,17110207,,02/10/2012,4292,"Invoice-Private",,02/10/2012,02/10/2012,,17114937MO,-2664.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2726,2726,"CR:Basic Service F... A.Dante 201202: Dante, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1566,1566,"CR:Resident Care -... A.Dante 201202: Dante, Anthony",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,3161.0000,
+INVOICE,IN,,11010337,,06/23/2011,3161.0000,"MoveIn-Britt. Virginia",,06/23/2011,06/23/2011,,11014610,7588.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,8,91.0000,728,"Basic Service Fee - Studio         : Britt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,8,51.0000,408,"Resident Care - Level 4: Britt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Britt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Britt. Virginia",,,,,,,,,,,,,,,

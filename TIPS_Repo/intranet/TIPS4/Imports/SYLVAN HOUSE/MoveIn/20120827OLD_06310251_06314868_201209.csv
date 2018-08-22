@@ -1,0 +1,5 @@
+BATCH,,201209,B,3535.0000,
+INVOICE,IN,,06310251,,09/01/2012,3535.0000,"September_Rent-Reiss. Dorothy",,09/01/2012,09/10/2012,,06314868,4645.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,30,88.0000,2640,"D.Reiss: Basic Service Fee - Studio: Reiss. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,30,29.0000,870,"D.Reiss: Resident Care - Level 2: Reiss. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Reiss. Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,4197.0000,
+INVOICE,IN,,02411267,,09/01/2011,840.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02415399MO,-2120.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,840.0000,840.00,"CR:Limited Term Di... M.Lenz 201109: Lenz, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,02411267,,09/01/2011,3357,"Invoice-Private",,09/01/2011,09/10/2011,,02415399MO,-2120.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,2850,2850,"CR:Basic Service F... M.Lenz 201109: Lenz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... M.Lenz 201109: Lenz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202024,1,480,480,"CR:Resident Care -... M.Lenz 201109: Lenz, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,5246.0000,
+INVOICE,IN,,03310316,,03/01/2012,515.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03316342MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,465.0000,465.00,"CR:Limited Term Di... C.Agee 201203: Agee, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3150,010202033,1,50.0000,50.00,"Late Fee Adjustment: Agee, Charlie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310316,,03/01/2012,4731,"Invoice-Private",,03/01/2012,03/10/2012,,03316342MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2914,2914,"CR:Basic Service F... C.Agee 201203: Agee, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,1767,1767,"CR:Resident Care -... C.Agee 201203: Agee, Charlie",,,,,,,,,,,,,,,
+TRANSACTION,3150,010202033,1,50,50,"Late Fee Adjustment: Agee, Charlie",,,,,,,,,,,,,,,

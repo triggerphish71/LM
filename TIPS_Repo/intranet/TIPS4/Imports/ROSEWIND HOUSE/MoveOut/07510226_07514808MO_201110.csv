@@ -1,0 +1,8 @@
+BATCH,,201110,B,4121.0000,
+INVOICE,IN,,07510226,,10/01/2011,128.0000,"Invoice-Private",,10/01/2011,10/10/2011,,07514808MO,-3865.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,85.0000,85.00,"Basic Service Fee - Studio for Oct: Erspan, Lavern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,43.0000,43.00,"Resident Care - Level 3 for Oct: Erspan, Lavern",,,,,,,,,,,,,,,
+INVOICE,CM,,07510226,,10/01/2011,3993,"Invoice-Private",,10/01/2011,10/10/2011,,07514808MO,-3865.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2635,2635,"CR:Basic Service F... L.Erspan 201110: Erspan, Lavern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... L.Erspan 201110: Erspan, Lavern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,1333,1333,"CR:Resident Care -... L.Erspan 201110: Erspan, Lavern",,,,,,,,,,,,,,,

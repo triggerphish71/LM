@@ -1,0 +1,8 @@
+BATCH,,201105,B,3534.0000,
+INVOICE,IN,,11610248,,05/19/2011,149.0000,"Invoice-Private",,05/19/2011,05/19/2011,,11614632MO,-6146.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,97.0000,97.00,"Basic Service Fee - Studio for May: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,52.0000,52.00,"Service level: lvl 0 to lvl 3 - 5/20/11 for May: Bircher, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,11610248,,05/19/2011,3385,"Invoice-Private",,05/19/2011,05/19/2011,,11614632MO,-6146.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,1261,1261,"CR:Basic Service F... P.Bircher 201105: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309116,1,1500,1500,"CR:New Resident Fe... P.Bircher 201105: Bircher, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,624,624,"CR:Service level: ... P.Bircher 201105: Bircher, Phyllis",,,,,,,,,,,,,,,

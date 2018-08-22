@@ -1,0 +1,7 @@
+BATCH,,201203,B,5330.0000,
+INVOICE,IN,,21610132,,03/10/2012,1300.0000,"Invoice-Private",,03/10/2012,03/10/2012,,21613408MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,10,32.0000,320.00,"Resident Care - Level 3 for Mar: Jones, Nanette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,10,98.0000,980.00,"Room and Board - Studio Deluxe for Mar: Jones, Nanette",,,,,,,,,,,,,,,
+INVOICE,CM,,21610132,,03/10/2012,4030,"Invoice-Private",,03/10/2012,03/10/2012,,21613408MO,-2730.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,992,992,"CR:Resident Care -... N.Jones 201203: Jones, Nanette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3038,3038,"CR:Room and Board ... N.Jones 201203: Jones, Nanette",,,,,,,,,,,,,,,

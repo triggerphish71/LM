@@ -1,0 +1,7 @@
+BATCH,,201202,B,5031.0000,
+INVOICE,IN,,04610149,,02/01/2012,1638.0000,"Invoice-Private",,02/01/2012,02/10/2012,,04613543MO,-1755.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,14,100.0000,1400.00,"Basic Service Fee - Studio for Feb: McKinney, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,14,17.0000,238.00,"Resident Care - Level 1 for Feb: McKinney, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,04610149,,02/01/2012,3393,"Invoice-Private",,02/01/2012,02/10/2012,,04613543MO,-1755.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,2900,2900,"CR:Basic Service F... S.McKinney 201202: McKinney, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,493,493,"CR:Resident Care -... S.McKinney 201202: McKinney, Sylvia",,,,,,,,,,,,,,,

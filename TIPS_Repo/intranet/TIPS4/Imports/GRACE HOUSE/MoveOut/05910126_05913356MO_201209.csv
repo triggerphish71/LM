@@ -1,0 +1,5 @@
+BATCH,,201209,B,2100.0000,
+INVOICE,IN,,05910126,,09/01/2012,1050.0000,"Invoice-Private",,09/01/2012,09/10/2012,,05913356MO,320.0000,,,,,,,,,,
+TRANSACTION,3320,010101059,30,35.0000,1050.00,"Credit for Limited Term Discount: McAuley, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,05910126,,09/01/2012,1050,"Invoice-Private",,09/01/2012,09/10/2012,,05913356MO,320.0000,,,,,,,,,,
+TRANSACTION,3320,010101059,30,35,1050,"Limited Term Discount: McAuley, Arlene",,,,,,,,,,,,,,,

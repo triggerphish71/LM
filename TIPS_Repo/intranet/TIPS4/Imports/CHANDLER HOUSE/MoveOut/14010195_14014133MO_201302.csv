@@ -1,0 +1,5 @@
+BATCH,,201302,B,50.0000,
+INVOICE,IN,,14010195,,02/01/2013,25.0000,"Invoice-Private",,02/01/2013,02/10/2013,,14014133MO,-675.0000,,,,,,,,,,
+TRANSACTION,3130,010309140,1,25.0000,25.00,"Pendant Fee: Van Kleek, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,14010195,,02/01/2013,25,"Invoice-Private",,02/01/2013,02/10/2013,,14014133MO,-675.0000,,,,,,,,,,
+TRANSACTION,3130,010309140,1,25,25,"Credit for Pendant Fee: Van Kleek, Keith",,,,,,,,,,,,,,,

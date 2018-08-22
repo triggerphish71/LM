@@ -1,0 +1,6 @@
+BATCH,,201108,B,4876.0000,
+INVOICE,IN,,04810241,,08/01/2011,1782.0000,"Invoice-Private",,08/01/2011,08/10/2011,,04814203MO,-1312.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,18,99.0000,1782.00,"Basic Service Fee - Studio for Aug: Swires, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,04810241,,08/01/2011,3094,"Invoice-Private",,08/01/2011,08/10/2011,,04814203MO,-1312.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3069,3069,"CR:Basic Service F... C.Swires 201108: Swires, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25,25,"CR:Monthly Cable... C.Swires 201108: Swires, Charles",,,,,,,,,,,,,,,

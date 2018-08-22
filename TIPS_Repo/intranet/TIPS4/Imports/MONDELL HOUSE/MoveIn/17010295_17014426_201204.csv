@@ -1,0 +1,5 @@
+BATCH,,201204,B,4350.0000,
+INVOICE,IN,,17010295,,04/06/2012,4350.0000,"MoveIn-Forester. Ray",,04/06/2012,04/06/2012,,17014426,4350.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,25,93.0000,2325,"Basic Service Fee - Studio: Forester. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Forester. Ray",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Forester. Ray",,,,,,,,,,,,,,,

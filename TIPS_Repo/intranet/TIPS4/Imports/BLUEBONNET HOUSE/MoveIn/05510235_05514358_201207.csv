@@ -1,0 +1,5 @@
+BATCH,,201207,B,1760.0000,
+INVOICE,IN,,05510235,,07/30/2012,1760.0000,"MoveIn-Bryant. Jack",,07/30/2012,07/30/2012,,05514358,5790.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,2,95.0000,190,"Basic Service Fee - Studio: Bryant. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,2,35.0000,70,"Resident Care - Level 2: Bryant. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202055,1,1500.0000,1500,"New Resident Fee: Bryant. Jack",,,,,,,,,,,,,,,

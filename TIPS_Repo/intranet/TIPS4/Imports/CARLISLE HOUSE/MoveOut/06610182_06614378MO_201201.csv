@@ -1,0 +1,8 @@
+BATCH,,201201,B,8689.0000,
+INVOICE,IN,,06610182,,01/17/2012,3698.0000,"Invoice-Private",,01/17/2012,01/17/2012,,06614378MO,-5063.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,961.0000,961.00,"CR:Limited Term Di... M.Heydinger 201201: Heydinger, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,17,96.0000,1632.00,"Basic Service Fee - Studio for Jan: Heydinger, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305066,17,65.0000,1105.00,"Private Care Rate Adjustments for Jan: Heydinger, Maria",,,,,,,,,,,,,,,
+INVOICE,CM,,06610182,,01/17/2012,4991,"Invoice-Private",,01/17/2012,01/17/2012,,06614378MO,-5063.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... M.Heydinger 201201: Heydinger, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305066,1,2015,2015,"CR:Private Care Ra... M.Heydinger 201201: Heydinger, Maria",,,,,,,,,,,,,,,

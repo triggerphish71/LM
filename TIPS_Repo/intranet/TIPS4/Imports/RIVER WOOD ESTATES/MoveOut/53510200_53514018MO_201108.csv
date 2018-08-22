@@ -1,0 +1,6 @@
+BATCH,,201108,B,5345.0000,
+INVOICE,IN,,53510200,,08/01/2011,2375.0000,"Invoice-Private",,08/01/2011,08/10/2011,,53514018MO,-3445.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,25,95.0000,2375.00,"Basic Service Fee - One Bedroom for Aug: Wacholz, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,53510200,,08/01/2011,2970,"Invoice-Private",,08/01/2011,08/10/2011,,53514018MO,-3445.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2945,2945,"CR:Basic Service F... R.Wacholz 201108: Wacholz, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... R.Wacholz 201108: Wacholz, Russell",,,,,,,,,,,,,,,

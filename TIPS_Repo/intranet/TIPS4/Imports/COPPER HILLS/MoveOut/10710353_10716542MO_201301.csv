@@ -1,0 +1,6 @@
+BATCH,,201301,B,4216.0000,
+INVOICE,IN,,10710353,,01/01/2013,713.0000,"Invoice-Private",,01/01/2013,01/10/2013,,10716542MO,-2416.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,713.0000,713.00,"CR:Limited Term Di... L.Jones 201301: Jones, Ledora",,,,,,,,,,,,,,,
+INVOICE,CM,,10710353,,01/01/2013,3503,"Invoice-Private",,01/01/2013,01/10/2013,,10716542MO,-2416.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... L.Jones 201301: Jones, Ledora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,465,465,"CR:Resident Care -... L.Jones 201301: Jones, Ledora",,,,,,,,,,,,,,,

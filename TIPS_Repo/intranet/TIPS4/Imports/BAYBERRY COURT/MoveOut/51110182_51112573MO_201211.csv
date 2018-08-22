@@ -1,0 +1,7 @@
+BATCH,,201211,B,1254.0000,
+INVOICE,IN,,51110182,,11/01/2012,627.0000,"Invoice-Private",,11/01/2012,11/10/2012,,51112573MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Kelly, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310511,30,20.0000,600.00,"Credit for Limited Term Discount: Kelly, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,51110182,,11/01/2012,627,"Invoice-Private",,11/01/2012,11/10/2012,,51112573MO,-3224.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Kelly, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310511,30,20,600,"Limited Term Discount: Kelly, Lois",,,,,,,,,,,,,,,

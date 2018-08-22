@@ -1,0 +1,8 @@
+BATCH,,201806,B,6715.6200,
+INVOICE,IN,,16210166,,06/07/2018,1375.6200,"Invoice-Private",,06/07/2018,06/07/2018,,16215222MO,-9372.9200,,,,,,,,,,
+TRANSACTION,3311,010011162,1,129.6200,129.62,"CR:Advance Payment... M.Stick 201806: Stick, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010011162,7,90.0000,630.00,"Basic Service Fee - Studio for Jun: Stick, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,7,88.0000,616.00,"Resident Care - Level 5 for Jun: Stick, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,16210166,,06/07/2018,5340,"Invoice-Private",,06/07/2018,06/07/2018,,16215222MO,-9372.9200,,,,,,,,,,
+TRANSACTION,3020,010011162,1,2700,2700,"CR:Basic Service F... M.Stick 201806: Stick, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010011162,1,2640,2640,"CR:Resident Care -... M.Stick 201806: Stick, Maxine",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201303,B,3185.0000,
+INVOICE,IN,,51610197,,03/04/2013,360.0000,"Invoice-Private",,03/04/2013,03/04/2013,,51614032MO,-2465.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,4,90.0000,360.00,"Basic Service Fee - Studio for Mar: Harbord, Geoff",,,,,,,,,,,,,,,
+INVOICE,CM,,51610197,,03/04/2013,2825,"Invoice-Private",,03/04/2013,03/04/2013,,51614032MO,-2465.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2790,2790,"CR:Basic Service F... G.Harbord 201303: Harbord, Geoff",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103516,1,35,35,"CR:Pendant Fee... G.Harbord 201303: Harbord, Geoff",,,,,,,,,,,,,,,

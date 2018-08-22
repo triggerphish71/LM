@@ -1,0 +1,8 @@
+BATCH,,201108,B,5506.6000,
+INVOICE,IN,,04910185,,08/12/2011,1941.4000,"Invoice-Private",,08/12/2011,08/12/2011,,04913166MO,-5074.8000,,,,,,,,,,
+TRANSACTION,3020,010101049,17,104.0000,1768.00,"Basic Service Fee - One Bedroom for Aug: Bergstrom, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,17,10.2000,173.40,"Resident Care - Level 6 for Aug: Bergstrom, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,04910185,,08/12/2011,3565.2,"Invoice-Private",,08/12/2011,08/12/2011,,04913166MO,-5074.8000,,,,,,,,,,
+TRANSACTION,3020,010101049,1,3224,3224,"CR:Basic Service F... D.Bergstrom 201108: Bergstrom, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... D.Bergstrom 201108: Bergstrom, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,316.2,316.2,"CR:Resident Care -... D.Bergstrom 201108: Bergstrom, Donna",,,,,,,,,,,,,,,

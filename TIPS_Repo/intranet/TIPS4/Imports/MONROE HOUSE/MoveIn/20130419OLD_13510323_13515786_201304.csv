@@ -1,0 +1,5 @@
+BATCH,,201304,B,3110.0000,
+INVOICE,IN,,13510323,,04/19/2013,3110.0000,"MoveIn-Hollars. Eva",,04/19/2013,04/19/2013,,13515786,5930.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,12,90.0000,1080,"Basic Service Fee - Studio: Hollars. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Hollars. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Hollars. Eva",,,,,,,,,,,,,,,

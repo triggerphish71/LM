@@ -1,0 +1,5 @@
+BATCH,,201304,B,2320.0000,
+INVOICE,IN,,09310236,,04/05/2013,1120.0000,"Invoice-Private",,04/05/2013,04/05/2013,,09315796MO,-80.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,28,40.0000,1120.00,"Basic Service Fee - Second Resident for Apr: Faist, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,09310236,,04/05/2013,1200,"Invoice-Private",,04/05/2013,04/05/2013,,09315796MO,-80.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,1200,1200,"CR:Basic Service F... L.Faist 201304: Faist, Lucille",,,,,,,,,,,,,,,

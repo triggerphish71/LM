@@ -1,0 +1,8 @@
+BATCH,,201805,B,6670.4500,
+INVOICE,IN,,33000082,,05/25/2018,4376.4500,"Invoice-Private",,05/25/2018,05/25/2018,,33011110MO,-162.5500,,,,,,,,,,
+TRANSACTION,3017,070016330,5,14.0000,70.00,"AL level care - 05-06-2018: Bott, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3010,070016330,5,60.0000,300.00,"Companion One Bedroom: Bott, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,070016330,1,4006.4516,4006.45,"Basic Service Fee - MC Studio: Bott, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,33000082,,05/25/2018,2294,"Invoice-Private",,05/25/2018,05/25/2018,,33011110MO,-162.5500,,,,,,,,,,
+TRANSACTION,3020,070016330,1,1860,1860,"CR:Companion One B... M.Bott 201805: Bott, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,070016330,1,434,434,"CR:Resident Care -... M.Bott 201805: Bott, Marilyn",,,,,,,,,,,,,,,

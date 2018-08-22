@@ -1,0 +1,7 @@
+BATCH,,201307,B,120.0000,
+INVOICE,IN,,53010009,,07/01/2013,60.0000,"Invoice-Private",,07/01/2013,07/10/2013,,53016894MO,-3043.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40.00,"Monthly Cable: Tews, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20.0000,20.00,"Pendant Fee: Tews, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,53010009,,07/01/2013,60,"Invoice-Private",,07/01/2013,07/10/2013,,53016894MO,-3043.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"Credit for Monthly Cable: Tews, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"Credit for Pendant Fee: Tews, Marion",,,,,,,,,,,,,,,

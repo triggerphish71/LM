@@ -1,0 +1,7 @@
+BATCH,,201712,B,2240.0000,
+INVOICE,IN,,53610344,,12/01/2017,70.0000,"Invoice-Private",,12/01/2017,12/10/2017,,53616104MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3020,010019536,1,34.0000,34.00,"Basic Service Fee - Second Resident  for Dec: Eiler, Heinrich",,,,,,,,,,,,,,,
+TRANSACTION,3027,010019536,1,36.0000,36.00,"Resident Care - Level 2  for Dec: Eiler, Heinrich",,,,,,,,,,,,,,,
+INVOICE,CM,,53610344,,12/01/2017,2170,"Invoice-Private",,12/01/2017,12/10/2017,,53616104MO,-2100.0000,,,,,,,,,,
+TRANSACTION,3020,010019536,1,1054,1054,"CR:Basic Service F... H.Eiler 201712: Eiler, Heinrich",,,,,,,,,,,,,,,
+TRANSACTION,3027,010019536,1,1116,1116,"CR:Resident Care -... H.Eiler 201712: Eiler, Heinrich",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201206,B,2763.0000,
+INVOICE,IN,,14210189,,06/01/2012,88.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14213986MO,-2587.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,88.0000,88.00,"Basic Service Fee - Studio for Jun: Melton, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14210189,,06/01/2012,2675,"Invoice-Private",,06/01/2012,06/10/2012,,14213986MO,-2587.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2640,2640,"CR:Basic Service F... M.Melton 201206: Melton, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309142,1,35,35,"CR:Pendant Fee... M.Melton 201206: Melton, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,1736.0000,
+INVOICE,IN,,20410177,,08/01/2012,868.0000,"Invoice-Private",,08/01/2012,08/10/2012,,20413088MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,28.0000,868.00,"Credit for Limited Term Discount: Gilmartin, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,20410177,,08/01/2012,868,"Invoice-Private",,08/01/2012,08/10/2012,,20413088MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,28,868,"Limited Term Discount: Gilmartin, Richard",,,,,,,,,,,,,,,

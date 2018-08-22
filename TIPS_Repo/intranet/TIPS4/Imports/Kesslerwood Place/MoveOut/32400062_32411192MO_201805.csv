@@ -1,0 +1,7 @@
+BATCH,,201805,B,6659.0000,
+INVOICE,IN,,32400062,,05/28/2018,2753.0000,"Invoice-Private",,05/28/2018,05/28/2018,,32411192MO,283.1300,,,,,,,,,,
+TRANSACTION,3017,070009324,6,26.0000,156.00,"Level: 2  to  Level: 4  -from 05/05/18: Higi, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3010,070009324,1,2597.0000,2597.00,"Basic Service Fee - MC Companion Studio: Higi, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,32400062,,05/28/2018,3906,"Invoice-Private",,05/28/2018,05/28/2018,,32411192MO,283.1300,,,,,,,,,,
+TRANSACTION,3017,070009324,21,64,1344,"AL credit LOC charges - 05-11-2018: Higi, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3010,070009324,21,122,2562,"Studio deluxe: Higi, Joe",,,,,,,,,,,,,,,

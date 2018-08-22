@@ -1,0 +1,5 @@
+BATCH,,201107,B,3313.0000,
+INVOICE,IN,,01710141,,07/01/2011,3313.0000,"July_Rent-Chapman. Joyce",,07/01/2011,07/10/2011,,01713335,4446.0000,,,,,,,,,,
+TRANSACTION,3010,010202017,31,90.0000,2790,"Basic Service Fee - Studio         : Chapman. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202017,31,16.0000,496,"Resident Care - Level 1: Chapman. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27,"Monthly Cable: Chapman. Joyce",,,,,,,,,,,,,,,

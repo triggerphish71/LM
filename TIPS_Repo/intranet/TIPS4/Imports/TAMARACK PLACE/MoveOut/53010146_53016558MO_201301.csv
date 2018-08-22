@@ -1,0 +1,7 @@
+BATCH,,201301,B,204.0000,
+INVOICE,IN,,53010146,,01/01/2013,102.0000,"Invoice-Private",,01/01/2013,01/10/2013,,53016558MO,-8892.8000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40.00,"Monthly Cable: Janca, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319530,31,2.0000,62.00,"Credit for Limited Term Discount: Janca, Stella",,,,,,,,,,,,,,,
+INVOICE,CM,,53010146,,01/01/2013,102,"Invoice-Private",,01/01/2013,01/10/2013,,53016558MO,-8892.8000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"Credit for Monthly Cable: Janca, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319530,31,2,62,"Limited Term Discount: Janca, Stella",,,,,,,,,,,,,,,

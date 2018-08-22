@@ -1,0 +1,7 @@
+BATCH,,201201,B,6893.0000,
+INVOICE,IN,,11110234,,01/30/2012,3390.0000,"Invoice-Private",,01/30/2012,01/30/2012,,11114690MO,-3390.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,30,97.0000,2910.00,"Basic Service Fee - Studio for Jan: Leara, Alexandra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,30,16.0000,480.00,"Resident Care - Level 1 for Jan: Leara, Alexandra",,,,,,,,,,,,,,,
+INVOICE,CM,,11110234,,01/30/2012,3503,"Invoice-Private",,01/30/2012,01/30/2012,,11114690MO,-3390.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3007,3007,"CR:Basic Service F... A.Leara 201201: Leara, Alexandra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,496,496,"CR:Resident Care -... A.Leara 201201: Leara, Alexandra",,,,,,,,,,,,,,,

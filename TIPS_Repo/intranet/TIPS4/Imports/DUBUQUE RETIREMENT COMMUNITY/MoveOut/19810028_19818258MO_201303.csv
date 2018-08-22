@@ -1,0 +1,7 @@
+BATCH,,201303,B,680.0000,
+INVOICE,IN,,19810028,,03/01/2013,340.0000,"Invoice-Private",,03/01/2013,03/10/2013,,19818258MO,-1850.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Cox, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,31,10.0000,310.00,"Credit for Limited Term Discount: Cox, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19810028,,03/01/2013,340,"Invoice-Private",,03/01/2013,03/10/2013,,19818258MO,-1850.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Cox, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,31,10,310,"Limited Term Discount: Cox, Margaret",,,,,,,,,,,,,,,

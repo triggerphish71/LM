@@ -1,0 +1,6 @@
+BATCH,,201305,B,7042.0000,
+INVOICE,IN,,14710274,,05/25/2013,3125.0000,"Invoice-Private",,05/25/2013,05/25/2013,,14716199MO,-4584.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,25,125.0000,3125.00,"Basic Service Fee - One Bedroom for May: Trent, Torrence",,,,,,,,,,,,,,,
+INVOICE,CM,,14710274,,05/25/2013,3917,"Invoice-Private",,05/25/2013,05/25/2013,,14716199MO,-4584.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3875,3875,"CR:Basic Service F... T.Trent 201305: Trent, Torrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... T.Trent 201305: Trent, Torrence",,,,,,,,,,,,,,,

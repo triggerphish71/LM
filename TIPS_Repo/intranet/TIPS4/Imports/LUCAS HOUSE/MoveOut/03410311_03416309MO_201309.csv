@@ -1,0 +1,5 @@
+BATCH,,201309,B,54.0000,
+INVOICE,IN,,03410311,,09/01/2013,27.0000,"Invoice-Private",,09/01/2013,09/10/2013,,03416309MO,-105.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Smith, Miyoko",,,,,,,,,,,,,,,
+INVOICE,CM,,03410311,,09/01/2013,27,"Invoice-Private",,09/01/2013,09/10/2013,,03416309MO,-105.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Smith, Miyoko",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,481.6000,
+INVOICE,IN,,12910275,,08/01/2011,240.8000,"Invoice-Private",,08/01/2011,08/10/2011,,12915391MO,-2952.8000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Speed, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310129,31,6.8000,210.80,"Additional Service Charge: Speed, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,12910275,,08/01/2011,240.8,"Invoice-Private",,08/01/2011,08/10/2011,,12915391MO,-2952.8000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Speed, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310129,31,6.8,210.8,"Credit for Additional Service Charge: Speed, Barbara",,,,,,,,,,,,,,,

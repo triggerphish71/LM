@@ -1,0 +1,6 @@
+BATCH,,201210,B,4187.0000,
+INVOICE,IN,,19410217,,10/24/2012,1862.0000,"Invoice-Private",,10/24/2012,10/24/2012,,19414369MO,-2653.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,62.0000,62.00,"CR:Limited Term Di... L.Meister 201210: Meister, Larry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,24,75.0000,1800.00,"Basic Service Fee - Studio for Oct: Meister, Larry",,,,,,,,,,,,,,,
+INVOICE,CM,,19410217,,10/24/2012,2325,"Invoice-Private",,10/24/2012,10/24/2012,,19414369MO,-2653.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2325,2325,"CR:Basic Service F... L.Meister 201210: Meister, Larry",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,4960.0000,
+INVOICE,IN,,15810203,,04/02/2012,310.0000,"Invoice-Private",,04/02/2012,04/02/2012,,15814489MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,2,96.0000,192.00,"Basic Service Fee - Studio for Apr: Tarnow, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,2,59.0000,118.00,"Resident Care - Level 4 for Apr: Tarnow, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,15810203,,04/02/2012,4650,"Invoice-Private",,04/02/2012,04/02/2012,,15814489MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2880,2880,"CR:Basic Service F... L.Tarnow 201204: Tarnow, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1770,1770,"CR:Resident Care -... L.Tarnow 201204: Tarnow, Lorraine",,,,,,,,,,,,,,,

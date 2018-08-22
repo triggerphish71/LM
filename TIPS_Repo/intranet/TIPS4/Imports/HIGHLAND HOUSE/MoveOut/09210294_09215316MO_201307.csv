@@ -1,0 +1,5 @@
+BATCH,,201307,B,3050.0000,
+INVOICE,IN,,09210294,,07/01/2013,1500.0000,"Invoice-Private",,07/01/2013,07/01/2013,,09215316MO,-1600.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,30,50.0000,1500.00,"Basic Service Fee - Studio for Jul: Fitzgerald, James",,,,,,,,,,,,,,,
+INVOICE,CM,,09210294,,07/01/2013,1550,"Invoice-Private",,07/01/2013,07/01/2013,,09215316MO,-1600.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,1550,1550,"CR:Basic Service F... J.Fitzgerald 201307: Fitzgerald, James",,,,,,,,,,,,,,,

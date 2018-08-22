@@ -1,0 +1,8 @@
+BATCH,,201203,B,6771.4500,
+INVOICE,IN,,01210161,,03/24/2012,2942.1600,"Invoice-Private",,03/24/2012,03/24/2012,,01213931MO,-4593.8300,,,,,,,,,,
+TRANSACTION,3020,010103012,24,85.0000,2040.00,"Basic Service Fee - Studio for Mar: Fields, Werber",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,24,37.5900,902.16,"Resident Care - Level 21 for Mar: Fields, Werber",,,,,,,,,,,,,,,
+INVOICE,CM,,01210161,,03/24/2012,3829.29,"Invoice-Private",,03/24/2012,03/24/2012,,01213931MO,-4593.8300,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2635,2635,"CR:Basic Service F... W.Fields 201203: Fields, Werber",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... W.Fields 201203: Fields, Werber",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1165.29,1165.29,"CR:Resident Care -... W.Fields 201203: Fields, Werber",,,,,,,,,,,,,,,

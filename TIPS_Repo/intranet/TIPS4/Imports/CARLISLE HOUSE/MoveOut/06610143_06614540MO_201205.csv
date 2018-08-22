@@ -1,0 +1,7 @@
+BATCH,,201205,B,7889.0000,
+INVOICE,IN,,06610143,,05/17/2012,2898.0000,"Invoice-Private",,05/17/2012,05/17/2012,,06614540MO,-6923.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,18,96.0000,1728.00,"Basic Service Fee - Studio for May: Brause, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,18,65.0000,1170.00,"Resident Care - Level 4 for May: Brause, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,06610143,,05/17/2012,4991,"Invoice-Private",,05/17/2012,05/17/2012,,06614540MO,-6923.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... M.Brause 201205: Brause, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2015,2015,"CR:Resident Care -... M.Brause 201205: Brause, Mildred",,,,,,,,,,,,,,,

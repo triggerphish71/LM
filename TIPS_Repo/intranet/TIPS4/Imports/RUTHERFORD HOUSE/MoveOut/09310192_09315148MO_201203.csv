@@ -1,0 +1,7 @@
+BATCH,,201203,B,6615.0000,
+INVOICE,IN,,09310192,,03/03/2012,756.0000,"Invoice-Private",,03/03/2012,03/03/2012,,09315148MO,-5103.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,4,113.0000,452.00,"Basic Service Fee - Deluxe for Mar: Bixler, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,4,76.0000,304.00,"Resident Care - Level 5 for Mar: Bixler, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,09310192,,03/03/2012,5859,"Invoice-Private",,03/03/2012,03/03/2012,,09315148MO,-5103.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3503,3503,"CR:Basic Service F... C.Bixler 201203: Bixler, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2356,2356,"CR:Resident Care -... C.Bixler 201203: Bixler, Charles",,,,,,,,,,,,,,,

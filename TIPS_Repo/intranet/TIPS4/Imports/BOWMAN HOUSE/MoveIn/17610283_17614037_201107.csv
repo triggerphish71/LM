@@ -1,0 +1,6 @@
+BATCH,,201107,B,1821.0000,
+INVOICE,IN,,17610283,,07/29/2011,1821.0000,"MoveIn-Dudd. John",,07/29/2011,07/29/2011,,17614037,5138.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,3,69.0000,207,"Basic Service Fee - Studio         : Dudd. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,3,28.0000,84,"Resident Care - Level 2: Dudd. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Dudd. John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,3,10.0000,30,"CC Meals: Dudd. John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,2511.0000,
+INVOICE,CM,,06810258,,05/01/2013,2511,"Invoice-Private",,05/01/2013,05/10/2013,,06814138MO,-2511.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,961,961,"CR:Basic Service F... R.Fulton 201305: Fulton, Rosela",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,1,589,589,"CR:Increase Room a... R.Fulton 201305: Fulton, Rosela",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,961,961,"CR:Resident Care -... R.Fulton 201305: Fulton, Rosela",,,,,,,,,,,,,,,

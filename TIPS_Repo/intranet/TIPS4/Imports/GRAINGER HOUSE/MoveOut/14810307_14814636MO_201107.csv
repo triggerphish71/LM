@@ -1,0 +1,8 @@
+BATCH,,201107,B,8133.0000,
+INVOICE,IN,,14810307,,07/27/2011,4134.0000,"Invoice-Private",,07/27/2011,07/27/2011,,14814636MO,-3213.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,651.0000,651.00,"CR:Limited Term Di... G.Lorkovic 201107: Lorkovic, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,27,111.0000,2997.00,"Basic Service Fee - One Bedroom for Jul: Lorkovic, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,27,18.0000,486.00,"Resident Care - Level 1 for Jul: Lorkovic, Gayle",,,,,,,,,,,,,,,
+INVOICE,CM,,14810307,,07/27/2011,3999,"Invoice-Private",,07/27/2011,07/27/2011,,14814636MO,-3213.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,3441,3441,"CR:Basic Service F... G.Lorkovic 201107: Lorkovic, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,558,558,"CR:Resident Care -... G.Lorkovic 201107: Lorkovic, Gayle",,,,,,,,,,,,,,,

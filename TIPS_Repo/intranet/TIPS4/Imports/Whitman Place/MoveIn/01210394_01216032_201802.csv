@@ -1,0 +1,4 @@
+BATCH,,201802,B,3010.0000,
+INVOICE,IN,,01210394,,02/01/2018,3010.0000,"February_Rent-Pudding. tester",,02/01/2018,02/10/2018,,01216032,6751.6700,,,,,,,,,,
+TRANSACTION,3010,010003012,28,96.0000,2688,"Basic Service Fee - Studio: Pudding. tester",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003012,28,11.5000,322,"Resident Care - Level 5: Pudding. tester",,,,,,,,,,,,,,,

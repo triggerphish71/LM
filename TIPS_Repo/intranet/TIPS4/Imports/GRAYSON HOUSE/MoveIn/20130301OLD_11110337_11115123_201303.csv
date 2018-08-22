@@ -1,0 +1,7 @@
+BATCH,,201303,B,5461.0000,
+INVOICE,IN,,11110337,,03/01/2013,5461.0000,"MoveIn-Clint. Aline",,03/01/2013,03/01/2013,,11115123,5461.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,31,97.0000,3007,"Basic Service Fee - Studio: Clint. Aline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,31,29.0000,899,"Resident Care - Level 2: Clint. Aline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Clint. Aline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,1500.0000,1500,"New Resident Fee: Clint. Aline",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107111,1,30.0000,30,"Pendant Fee: Clint. Aline",,,,,,,,,,,,,,,

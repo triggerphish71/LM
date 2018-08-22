@@ -1,0 +1,6 @@
+BATCH,,201111,B,6185.0000,
+INVOICE,IN,,53310238,,11/13/2011,2860.0000,"Invoice-Private",,11/13/2011,11/13/2011,,53314129MO,-465.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,26,110.0000,2860.00,"Basic Service Fee - One Bedroom for Nov: Breunig, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,53310238,,11/13/2011,3325,"Invoice-Private",,11/13/2011,11/13/2011,,53314129MO,-465.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,3300,3300,"CR:Basic Service F... M.Breunig 201111: Breunig, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... M.Breunig 201111: Breunig, Marie",,,,,,,,,,,,,,,

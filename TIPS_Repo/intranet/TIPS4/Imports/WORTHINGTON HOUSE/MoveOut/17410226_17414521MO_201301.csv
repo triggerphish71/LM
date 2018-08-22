@@ -1,0 +1,5 @@
+BATCH,,201301,B,2170.0000,
+INVOICE,IN,,17410226,,01/01/2013,1085.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17414521MO,-1480.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,35.0000,1085.00,"Credit for Limited Term Discount: Adams, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,17410226,,01/01/2013,1085,"Invoice-Private",,01/01/2013,01/10/2013,,17414521MO,-1480.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,35,1085,"Limited Term Discount: Adams, Jackie",,,,,,,,,,,,,,,

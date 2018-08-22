@@ -1,0 +1,6 @@
+BATCH,,201303,B,3129.0000,
+INVOICE,IN,,08010134,,03/01/2013,188.0000,"Invoice-Private",,03/01/2013,03/10/2013,,08014224MO,-2753.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,2,94.0000,188.00,"Basic Service Fee - Studio for Mar: Bales, Jessie",,,,,,,,,,,,,,,
+INVOICE,CM,,08010134,,03/01/2013,2941,"Invoice-Private",,03/01/2013,03/10/2013,,08014224MO,-2753.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,2914,2914,"CR:Basic Service F... J.Bales 201303: Bales, Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"CR:Monthly Cable... J.Bales 201303: Bales, Jessie",,,,,,,,,,,,,,,

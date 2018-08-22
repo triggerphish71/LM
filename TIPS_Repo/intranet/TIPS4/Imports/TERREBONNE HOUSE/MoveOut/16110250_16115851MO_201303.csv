@@ -1,0 +1,7 @@
+BATCH,,201303,B,5150.0000,
+INVOICE,IN,,16110250,,03/19/2013,1957.0000,"Invoice-Private",,03/19/2013,03/19/2013,,16115851MO,-4326.0000,,,,,,,,,,
+TRANSACTION,3027,010313161,19,14.0000,266.00,"Resident Care - Level 1 for Mar: Loreno, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313161,19,89.0000,1691.00,"Room and Board - Studio for Mar: Loreno, Tony",,,,,,,,,,,,,,,
+INVOICE,CM,,16110250,,03/19/2013,3193,"Invoice-Private",,03/19/2013,03/19/2013,,16115851MO,-4326.0000,,,,,,,,,,
+TRANSACTION,3027,010313161,1,434,434,"CR:Resident Care -... T.Loreno 201303: Loreno, Tony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2759,2759,"CR:Room and Board ... T.Loreno 201303: Loreno, Tony",,,,,,,,,,,,,,,

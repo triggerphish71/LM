@@ -1,0 +1,5 @@
+BATCH,,201106,B,120.0000,
+INVOICE,IN,,16310192,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16316272MO,-4278.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,30,2.0000,60.00,"Credit for Limited Term Discount: Kerby, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,16310192,,06/01/2011,60,"Invoice-Private",,06/01/2011,06/10/2011,,16316272MO,-4278.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,30,2,60,"Limited Term Discount: Kerby, Billy",,,,,,,,,,,,,,,

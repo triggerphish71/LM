@@ -1,0 +1,5 @@
+BATCH,,201211,B,960.0000,
+INVOICE,IN,,04310218,,11/01/2012,480.0000,"Invoice-Private",,11/01/2012,11/10/2012,,04314084MO,-1246.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,16.0000,480.00,"Credit for Limited Term Discount: San Angelo, Sam",,,,,,,,,,,,,,,
+INVOICE,CM,,04310218,,11/01/2012,480,"Invoice-Private",,11/01/2012,11/10/2012,,04314084MO,-1246.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,16,480,"Limited Term Discount: San Angelo, Sam",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,4365.0000,
+INVOICE,IN,,18910324,,12/01/2012,4365.0000,"December_Rent-Cox. Jean",,12/01/2012,12/10/2012,,18915560,4670.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,31,113.0000,3503,"Basic Service Fee - One Bedroom: Cox. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,31,17.0000,527,"Resident Care - Level 1: Cox. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Cox. Jean",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310,"CC Meals: Cox. Jean",,,,,,,,,,,,,,,

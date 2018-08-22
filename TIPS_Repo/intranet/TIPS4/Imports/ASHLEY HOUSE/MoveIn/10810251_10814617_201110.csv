@@ -1,0 +1,5 @@
+BATCH,,201110,B,3750.0000,
+INVOICE,IN,,10810251,,10/07/2011,3750.0000,"MoveIn-Cowan. Harry",,10/07/2011,10/07/2011,,10814617,3750.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,25,84.0000,2100,"Basic Service Fee - Studio         : Cowan. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308108,25,26.0000,650,"Resident Care - Level 2: Cowan. Harry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Cowan. Harry",,,,,,,,,,,,,,,

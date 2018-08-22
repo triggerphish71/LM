@@ -1,0 +1,5 @@
+BATCH,,201201,B,4450.0000,
+INVOICE,IN,,11110298,,01/07/2012,4450.0000,"MoveIn-Casa. Doris",,01/07/2012,01/07/2012,,11114663,4450.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,25,97.0000,2425,"D.Casa: Basic Service Fee - Studio: Casa. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Casa. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Casa. Doris",,,,,,,,,,,,,,,

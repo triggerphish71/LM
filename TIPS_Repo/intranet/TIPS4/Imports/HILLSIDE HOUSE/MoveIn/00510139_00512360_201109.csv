@@ -1,0 +1,5 @@
+BATCH,,201109,B,2426.9000,
+INVOICE,IN,,00510139,,09/12/2011,2426.9000,"MoveIn-Jackson. Jean",,09/12/2011,09/12/2011,,00512360,4755.0000,,,,,,,,,,
+TRANSACTION,3010,010101005,19,70.0000,1330,"J.Jackson: Basic Service Fee - Studio: Jackson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,19,5.1000,96.9,"J.Jackson: Resident Care - Level 3: Jackson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Jackson. Jean",,,,,,,,,,,,,,,

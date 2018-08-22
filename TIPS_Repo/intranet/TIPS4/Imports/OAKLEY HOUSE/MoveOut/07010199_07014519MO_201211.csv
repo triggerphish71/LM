@@ -1,0 +1,5 @@
+BATCH,,201211,B,40.0000,
+INVOICE,IN,,07010199,,11/01/2012,20.0000,"Invoice-Private",,11/01/2012,11/10/2012,,07014519MO,-5872.0000,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20.00,"Monthly Cable: Hall, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07010199,,11/01/2012,20,"Invoice-Private",,11/01/2012,11/10/2012,,07014519MO,-5872.0000,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"Credit for Monthly Cable: Hall, Evelyn",,,,,,,,,,,,,,,

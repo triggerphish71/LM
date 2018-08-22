@@ -1,0 +1,8 @@
+BATCH,,201201,B,8312.0000,
+INVOICE,IN,,09310186,,01/07/2012,1864.0000,"Invoice-Private",,01/07/2012,01/07/2012,,09315053MO,-4584.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,8,132.0000,1056.00,"Basic Service Fee - One Bedroom for Jan: Schmidt, Barb",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,8,76.0000,608.00,"Resident Care - Level 5 for Jan: Schmidt, Barb",,,,,,,,,,,,,,,
+TRANSACTION,3299,010305093,1,200.0000,200.00,"Damages: Schmidt, Barb",,,,,,,,,,,,,,,
+INVOICE,CM,,09310186,,01/07/2012,6448,"Invoice-Private",,01/07/2012,01/07/2012,,09315053MO,-4584.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,4092,4092,"CR:Basic Service F... B.Schmidt 201201: Schmidt, Barb",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2356,2356,"CR:Resident Care -... B.Schmidt 201201: Schmidt, Barb",,,,,,,,,,,,,,,

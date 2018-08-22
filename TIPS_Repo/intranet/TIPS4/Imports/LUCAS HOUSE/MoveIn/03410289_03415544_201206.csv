@@ -1,0 +1,5 @@
+BATCH,,201206,B,3597.0000,
+INVOICE,IN,,03410289,,06/01/2012,3597.0000,"June_Rent-Read. Lawrence",,06/01/2012,06/10/2012,,03415544,6433.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,30,96.0000,2880,"Basic Service Fee - Studio: Read. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,30,23.0000,690,"Resident Care - Level 2: Read. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Read. Lawrence",,,,,,,,,,,,,,,

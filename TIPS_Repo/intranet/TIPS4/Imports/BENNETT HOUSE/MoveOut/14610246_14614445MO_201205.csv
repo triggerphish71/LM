@@ -1,0 +1,5 @@
+BATCH,,201205,B,60.0000,
+INVOICE,IN,,14610246,,05/01/2012,30.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14614445MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Burden, James",,,,,,,,,,,,,,,
+INVOICE,CM,,14610246,,05/01/2012,30,"Invoice-Private",,05/01/2012,05/10/2012,,14614445MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Burden, James",,,,,,,,,,,,,,,

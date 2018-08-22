@@ -1,0 +1,5 @@
+BATCH,,201112,B,2790.0000,
+INVOICE,IN,,53110259,,12/01/2011,1395.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53113878MO,-1018.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,31,45.0000,1395.00,"Credit for Limited Term Discount: Grippe, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,53110259,,12/01/2011,1395,"Invoice-Private",,12/01/2011,12/10/2011,,53113878MO,-1018.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,31,45,1395,"Limited Term Discount: Grippe, Anna",,,,,,,,,,,,,,,

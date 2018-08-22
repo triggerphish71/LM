@@ -1,0 +1,8 @@
+BATCH,,201203,B,6920.0000,
+INVOICE,IN,,14410218,,03/20/2012,2700.0000,"Invoice-Private",,03/20/2012,03/20/2012,,14415094MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,20,106.0000,2120.00,"Basic Service Fee - Studio for Mar: Warren, Minnie Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,20,29.0000,580.00,"Resident Care - Level 2 for Mar: Warren, Minnie Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,14410218,,03/20/2012,4220,"Invoice-Private",,03/20/2012,03/20/2012,,14415094MO,-5605.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... M.Warren 201203: Warren, Minnie Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"CR:Pendant Fee... M.Warren 201203: Warren, Minnie Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,899,899,"CR:Resident Care -... M.Warren 201203: Warren, Minnie Ruth",,,,,,,,,,,,,,,

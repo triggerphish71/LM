@@ -1,0 +1,5 @@
+BATCH,,201209,B,1560.0000,
+INVOICE,IN,,17510274,,09/01/2012,780.0000,"Invoice-Private",,09/01/2012,09/10/2012,,17517659MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,26.0000,780.00,"Credit for Limited Term Discount: Austin, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,17510274,,09/01/2012,780,"Invoice-Private",,09/01/2012,09/10/2012,,17517659MO,-3349.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,30,26,780,"Limited Term Discount: Austin, Pauline",,,,,,,,,,,,,,,

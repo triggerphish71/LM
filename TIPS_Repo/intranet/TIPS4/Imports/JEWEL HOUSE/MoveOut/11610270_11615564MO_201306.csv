@@ -1,0 +1,7 @@
+BATCH,,201306,B,4403.0000,
+INVOICE,IN,,11610270,,06/06/2013,833.0000,"Invoice-Private",,06/06/2013,06/06/2013,,11615564MO,-2737.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,7,101.0000,707.00,"Basic Service Fee - Studio for Jun: Sellers, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,7,18.0000,126.00,"Resident Care - Level 1 for Jun: Sellers, Dennis",,,,,,,,,,,,,,,
+INVOICE,CM,,11610270,,06/06/2013,3570,"Invoice-Private",,06/06/2013,06/06/2013,,11615564MO,-2737.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3030,3030,"CR:Basic Service F... D.Sellers 201306: Sellers, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,540,540,"CR:Resident Care -... D.Sellers 201306: Sellers, Dennis",,,,,,,,,,,,,,,

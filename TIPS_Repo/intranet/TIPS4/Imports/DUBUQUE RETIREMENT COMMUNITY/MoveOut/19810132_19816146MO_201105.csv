@@ -1,0 +1,7 @@
+BATCH,,201105,B,4700.0000,
+INVOICE,IN,,19810132,,05/24/2011,2016.0000,"Invoice-Private",,05/24/2011,05/24/2011,,19816146MO,-3268.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,24,84.0000,2016.00,"Basic Service Fee IL - Two Bedroom A for May: Recker, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,19810132,,05/24/2011,2684,"Invoice-Private",,05/24/2011,05/24/2011,,19816146MO,-3268.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2604,2604,"CR:Basic Service F... L.Recker 201105: Recker, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3214,010112198,1,50,50,"CR:Garage Rental... L.Recker 201105: Recker, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... L.Recker 201105: Recker, Louis",,,,,,,,,,,,,,,

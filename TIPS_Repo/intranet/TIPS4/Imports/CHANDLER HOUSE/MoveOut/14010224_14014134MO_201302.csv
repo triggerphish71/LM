@@ -1,0 +1,5 @@
+BATCH,,201302,B,60.0000,
+INVOICE,IN,,14010224,,02/01/2013,30.0000,"Invoice-Private",,02/01/2013,02/10/2013,,14014134MO,-2865.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30.00,"Monthly Cable: Haynes, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,14010224,,02/01/2013,30,"Invoice-Private",,02/01/2013,02/10/2013,,14014134MO,-2865.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"Credit for Monthly Cable: Haynes, Wayne",,,,,,,,,,,,,,,

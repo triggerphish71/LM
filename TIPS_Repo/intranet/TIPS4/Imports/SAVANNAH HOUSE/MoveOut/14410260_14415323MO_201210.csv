@@ -1,0 +1,6 @@
+BATCH,,201210,B,4480.0000,
+INVOICE,IN,,14410260,,10/11/2012,1166.0000,"Invoice-Private",,10/11/2012,10/11/2012,,14415323MO,-2148.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,11,106.0000,1166.00,"S.Pendarvis: Basic Service Fee - Studio for Oct: Pendarvis, Shealy",,,,,,,,,,,,,,,
+INVOICE,CM,,14410260,,10/11/2012,3314,"Invoice-Private",,10/11/2012,10/11/2012,,14415323MO,-2148.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... S.Pendarvis 201210: Pendarvis, Shealy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:S.Pendarvis: Ba... S.Pendarvis 201210: Pendarvis, Shealy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201207,B,7553.8300,
+INVOICE,IN,,03910132,,07/01/2012,2599.7200,"Invoice-Private",,07/01/2012,07/10/2012,,03914497MO,-2354.3900,,,,,,,,,,
+TRANSACTION,3320,010101039,1,682.0000,682.00,"CR:Limited Term Di... B.Alson 201207: Alson, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,12,90.0000,1080.00,"Basic Service Fee - Studio for Jul: Alson, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,12,69.8100,837.72,"Resident Care - Level 39 for Jul: Alson, Betty J",,,,,,,,,,,,,,,
+INVOICE,CM,,03910132,,07/01/2012,4954.11,"Invoice-Private",,07/01/2012,07/10/2012,,03914497MO,-2354.3900,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... B.Alson 201207: Alson, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,2164.11,2164.11,"CR:Resident Care -... B.Alson 201207: Alson, Betty J",,,,,,,,,,,,,,,

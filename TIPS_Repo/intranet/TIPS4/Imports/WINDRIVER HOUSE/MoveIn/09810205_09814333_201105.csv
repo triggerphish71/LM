@@ -1,0 +1,5 @@
+BATCH,,201105,B,3376.0000,
+INVOICE,IN,,09810205,,05/10/2011,3376.0000,"MoveIn-Mace. Roger",,05/10/2011,05/10/2011,,09814333,3376.0000,,,,,,,,,,
+TRANSACTION,3010,010103098,22,91.0000,2002,"Basic Service Fee - Studio         : Mace. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,22,17.0000,374,"Resident Care - Level 10: Mace. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Mace. Roger",,,,,,,,,,,,,,,

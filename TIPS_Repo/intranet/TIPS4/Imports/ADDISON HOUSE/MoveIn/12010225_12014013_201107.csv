@@ -1,0 +1,5 @@
+BATCH,,201107,B,2905.0000,
+INVOICE,IN,,12010225,,07/07/2011,2905.0000,"MoveIn-Warner. Margie",,07/07/2011,07/07/2011,,12014013,2905.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,25,75.0000,1875,"Basic Service Fee - Studio         : Warner. Margie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Warner. Margie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Warner. Margie",,,,,,,,,,,,,,,

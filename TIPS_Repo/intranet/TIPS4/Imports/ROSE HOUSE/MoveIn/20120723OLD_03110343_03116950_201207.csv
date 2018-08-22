@@ -1,0 +1,6 @@
+BATCH,,201207,B,3073.0000,
+INVOICE,IN,,03110343,,07/23/2012,3073.0000,"MoveIn-Fletcher. Marie",,07/23/2012,07/23/2012,,03116950,7564.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,9,115.0000,1035,"M.Fletcher: Basic Service Fee - One Bedroom: Fletcher. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,9,29.0000,261,"M.Fletcher: Resident Care - Level 2: Fletcher. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Fletcher. Marie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1750.0000,1750,"New Resident Fee: Fletcher. Marie",,,,,,,,,,,,,,,

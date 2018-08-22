@@ -1,0 +1,5 @@
+BATCH,,201106,B,3936.0000,
+INVOICE,IN,,11010333,,06/10/2011,3936.0000,"MoveIn-Swanson. Earl",,06/10/2011,06/10/2011,,11014575,3936.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,21,91.0000,1911,"Basic Service Fee - Studio         : Swanson. Earl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Swanson. Earl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Swanson. Earl",,,,,,,,,,,,,,,

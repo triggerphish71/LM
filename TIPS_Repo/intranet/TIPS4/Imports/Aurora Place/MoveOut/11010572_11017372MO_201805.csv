@@ -1,0 +1,7 @@
+BATCH,,201805,B,7198.0000,
+INVOICE,IN,,11010572,,05/30/2018,3540.0000,"Invoice-Private",,05/30/2018,05/30/2018,,11017372MO,-118.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,30,70.0000,2100.00,"Basic Service Fee - Studio for May: Luby, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,30,48.0000,1440.00,"Resident Care - Level 3 for May: Luby, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,11010572,,05/30/2018,3658,"Invoice-Private",,05/30/2018,05/30/2018,,11017372MO,-118.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2170,2170,"CR:Basic Service F... B.Luby 201805: Luby, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,1488,1488,"CR:Resident Care -... B.Luby 201805: Luby, Bertha",,,,,,,,,,,,,,,

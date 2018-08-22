@@ -1,0 +1,7 @@
+BATCH,,201301,B,3811.0000,
+INVOICE,IN,,15910177,,01/01/2013,929.0000,"Invoice-Private",,01/01/2013,01/01/2013,,15915059MO,-1953.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,837.0000,837.00,"CR:Limited Term Di... E.Nees 201301: Nees, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212159,1,92.0000,92.00,"Basic Service Fee - Studio for Jan: Nees, Elmer",,,,,,,,,,,,,,,
+INVOICE,CM,,15910177,,01/01/2013,2882,"Invoice-Private",,01/01/2013,01/01/2013,,15915059MO,-1953.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,2852,2852,"CR:Basic Service F... E.Nees 201301: Nees, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... E.Nees 201301: Nees, Elmer",,,,,,,,,,,,,,,

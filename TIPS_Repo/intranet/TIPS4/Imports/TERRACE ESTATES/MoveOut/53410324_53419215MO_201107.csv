@@ -1,0 +1,7 @@
+BATCH,,201107,B,246.0000,
+INVOICE,IN,,53410324,,07/01/2011,123.0000,"Invoice-Private",,07/01/2011,07/10/2011,,53419215MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Ebert, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Ebert, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,53410324,,07/01/2011,123,"Invoice-Private",,07/01/2011,07/10/2011,,53419215MO,-3630.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Ebert, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Ebert, Laura",,,,,,,,,,,,,,,

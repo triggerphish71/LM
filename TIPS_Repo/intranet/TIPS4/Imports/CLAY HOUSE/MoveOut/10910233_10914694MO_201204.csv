@@ -1,0 +1,8 @@
+BATCH,,201204,B,2417.0000,
+INVOICE,IN,,10910233,,04/20/2012,1012.0000,"Invoice-Private",,04/20/2012,04/20/2012,,10914694MO,-1844.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,22,30.0000,660.00,"Basic Service Fee - Second Resident for Apr: Pollock, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,22,16.0000,352.00,"Resident Care - Level 1 for Apr: Pollock, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,10910233,,04/20/2012,1405,"Invoice-Private",,04/20/2012,04/20/2012,,10914694MO,-1844.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,900,900,"CR:Basic Service F... N.Pollock 201204: Pollock, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... N.Pollock 201204: Pollock, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,480,480,"CR:Resident Care -... N.Pollock 201204: Pollock, Norman",,,,,,,,,,,,,,,

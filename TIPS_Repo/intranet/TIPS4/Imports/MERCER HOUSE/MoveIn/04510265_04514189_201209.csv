@@ -1,0 +1,6 @@
+BATCH,,201209,B,4195.0000,
+INVOICE,IN,,04510265,,09/02/2012,4195.0000,"MoveIn-Wilson. Joe",,09/02/2012,09/02/2012,,04514189,4195.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,29,76.0000,2204,"Basic Service Fee - Studio: Wilson. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,29,16.0000,464,"Resident Care - Level 1: Wilson. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Wilson. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Wilson. Joe",,,,,,,,,,,,,,,

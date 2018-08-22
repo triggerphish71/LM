@@ -1,0 +1,5 @@
+BATCH,,201211,B,2788.6600,
+INVOICE,IN,,09810302,,11/13/2012,2788.6600,"MoveIn-Karas. Alice",,11/13/2012,11/13/2012,,09814853,2788.6600,,,,,,,,,,
+TRANSACTION,3010,010103098,18,94.0000,1692,"Basic Service Fee - Studio: Karas. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,18,5.3700,96.66,"Resident Care - Level 3: Karas. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Karas. Alice",,,,,,,,,,,,,,,

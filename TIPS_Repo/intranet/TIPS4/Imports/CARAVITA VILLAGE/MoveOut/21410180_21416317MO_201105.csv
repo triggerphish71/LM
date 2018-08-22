@@ -1,0 +1,5 @@
+BATCH,,201105,B,4089.0000,
+INVOICE,IN,,21410180,,05/16/2011,1392.0000,"Invoice-Private",,05/16/2011,05/16/2011,,21416317MO,-3915.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,16,87.0000,1392.00,"Basic Service Fee - Studio AL B for May: Thomas, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,21410180,,05/16/2011,2697,"Invoice-Private",,05/16/2011,05/16/2011,,21416317MO,-3915.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2697,2697,"CR:Basic Service F... D.Thomas 201105: Thomas, Dorothy",,,,,,,,,,,,,,,

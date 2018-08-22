@@ -1,0 +1,8 @@
+BATCH,,201112,B,6101.0000,
+INVOICE,IN,,16510183,,12/02/2011,428.0000,"Invoice-Private",,12/02/2011,12/02/2011,,16514018MO,-5245.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,62.0000,62.00,"CR:Limited Term Di... R.Ostrander 201112: Ostrander, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,2,86.0000,172.00,"Resident Care - Level 6+4 pts for Dec: Ostrander, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308165,2,97.0000,194.00,"Room and Board - Studio for Dec: Ostrander, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,16510183,,12/02/2011,5673,"Invoice-Private",,12/02/2011,12/02/2011,,16514018MO,-5245.0000,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2666,2666,"CR:Resident Care -... R.Ostrander 201112: Ostrander, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Room and Board ... R.Ostrander 201112: Ostrander, Richard",,,,,,,,,,,,,,,

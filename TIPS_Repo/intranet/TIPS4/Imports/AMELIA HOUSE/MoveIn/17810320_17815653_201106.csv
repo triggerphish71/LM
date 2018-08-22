@@ -1,0 +1,5 @@
+BATCH,,201106,B,2873.0000,
+INVOICE,IN,,17810320,,06/24/2011,2873.0000,"MoveIn-Petersen. Jean",,06/24/2011,06/24/2011,,17815653,5512.0000,,,,,,,,,,
+TRANSACTION,3010,010212178,7,84.0000,588,"Basic Service Fee - Studio         : Petersen. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35,"Monthly Cable: Petersen. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212178,1,2250.0000,2250,"New Resident Fee: Petersen. Jean",,,,,,,,,,,,,,,

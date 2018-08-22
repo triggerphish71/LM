@@ -1,0 +1,7 @@
+BATCH,,201108,B,6120.0000,
+INVOICE,IN,,10710318,,08/01/2011,1377.0000,"Invoice-Private",,08/01/2011,08/10/2011,,10715688MO,-3366.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,9,95.0000,855.00,"Basic Service Fee - Studio for Aug: McGee, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,9,58.0000,522.00,"Resident Care - Level 4 for Aug: McGee, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10710318,,08/01/2011,4743,"Invoice-Private",,08/01/2011,08/10/2011,,10715688MO,-3366.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2945,2945,"CR:Basic Service F... R.McGee 201108: McGee, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1798,1798,"CR:Resident Care -... R.McGee 201108: McGee, Robert",,,,,,,,,,,,,,,

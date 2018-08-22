@@ -1,0 +1,5 @@
+BATCH,,201204,B,1740.0000,
+INVOICE,IN,,03310316,,04/01/2012,870.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03316342MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,30,29.0000,870.00,"Credit for Limited Term Discount: Agee, Charlie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310316,,04/01/2012,870,"Invoice-Private",,04/01/2012,04/10/2012,,03316342MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,30,29,870,"Limited Term Discount: Agee, Charlie",,,,,,,,,,,,,,,

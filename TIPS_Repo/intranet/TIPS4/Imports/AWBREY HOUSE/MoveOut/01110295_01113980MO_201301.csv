@@ -1,0 +1,5 @@
+BATCH,,201301,B,992.0000,
+INVOICE,IN,,01110295,,01/01/2013,496.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01113980MO,-2272.0800,,,,,,,,,,
+TRANSACTION,3320,010101011,31,16.0000,496.00,"Credit for Limited Term Discount: Schwerdtfeger, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,01110295,,01/01/2013,496,"Invoice-Private",,01/01/2013,01/10/2013,,01113980MO,-2272.0800,,,,,,,,,,
+TRANSACTION,3320,010101011,31,16,496,"Limited Term Discount: Schwerdtfeger, Anna",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,9322.0000,
+INVOICE,IN,,19210221,,01/28/2012,4424.0000,"Invoice-Private",,01/28/2012,01/28/2012,,19215069MO,-5056.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,28,114.0000,3192.00,"Basic Service Fee - Studio for Jan: Clouse, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,28,44.0000,1232.00,"Resident Care - Level 3 for Jan: Clouse, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,19210221,,01/28/2012,4898,"Invoice-Private",,01/28/2012,01/28/2012,,19215069MO,-5056.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... W.Clouse 201201: Clouse, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1364,1364,"CR:Resident Care -... W.Clouse 201201: Clouse, Wayne",,,,,,,,,,,,,,,

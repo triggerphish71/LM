@@ -1,0 +1,7 @@
+BATCH,,201806,B,138.0000,
+INVOICE,IN,,19510166,,06/01/2018,69.0000,"Invoice-Private",,06/01/2018,06/10/2018,,19517407MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3228,010009195,1,25.5973,25.60,"Sharps Disposal: Baker, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3130,010009195,1,43.4041,43.40,"Pendant Fee: Baker, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,19510166,,06/01/2018,69,"Invoice-Private",,06/01/2018,06/10/2018,,19517407MO,-3933.0000,,,,,,,,,,
+TRANSACTION,3228,010009195,1,25.5973,25.5973,"Credit for Sharps Disposal: Baker, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3130,010009195,1,43.4041,43.4041,"Credit for Pendant Fee: Baker, Laura",,,,,,,,,,,,,,,

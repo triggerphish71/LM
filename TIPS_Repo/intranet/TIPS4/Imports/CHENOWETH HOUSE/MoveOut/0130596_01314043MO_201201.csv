@@ -1,0 +1,5 @@
+BATCH,,201201,B,1919.6200,
+INVOICE,CM,,0130596,,01/01/2012,1919.62,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314043MO,-3533.2400,,,,,,,,,,
+TRANSACTION,3021,010103013,1,316.21,316.21,"CR:Medicaid Co-Pay... R.Lincoln 201201: Lincoln, Rodger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... R.Lincoln 201201: Lincoln, Rodger",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,1575.41,1575.41,"CR:State Medicaid... R.Lincoln 201201: Lincoln, Rodger",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,5732.0000,
+INVOICE,IN,,14410245,,08/01/2012,1116.0000,"Invoice-Private",,08/01/2012,08/10/2012,,14415243MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,1,1116.0000,1116.00,"CR:Limited Term Di... H.Owens 201208: Owens, Henrietta",,,,,,,,,,,,,,,
+INVOICE,CM,,14410245,,08/01/2012,4616,"Invoice-Private",,08/01/2012,08/10/2012,,14415243MO,-3500.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... H.Owens 201208: Owens, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,1302,1302,"CR:Resident Care -... H.Owens 201208: Owens, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Room and Board ... H.Owens 201208: Owens, Henrietta",,,,,,,,,,,,,,,

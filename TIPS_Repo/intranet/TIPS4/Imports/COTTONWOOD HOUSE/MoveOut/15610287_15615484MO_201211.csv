@@ -1,0 +1,8 @@
+BATCH,,201211,B,7988.0000,
+INVOICE,IN,,15610287,,11/01/2012,2873.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15615484MO,-7526.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,17,99.0000,1683.00,"Basic Service Fee - Deluxe for Nov: Williams, Maxyne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,17,70.0000,1190.00,"Resident Care - Level 5 for Nov: Williams, Maxyne",,,,,,,,,,,,,,,
+INVOICE,CM,,15610287,,11/01/2012,5115,"Invoice-Private",,11/01/2012,11/10/2012,,15615484MO,-7526.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2970,2970,"CR:Basic Service F... M.Williams 201211: Williams, Maxyne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"CR:Pendant Fee... M.Williams 201211: Williams, Maxyne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2100,2100,"CR:Resident Care -... M.Williams 201211: Williams, Maxyne",,,,,,,,,,,,,,,

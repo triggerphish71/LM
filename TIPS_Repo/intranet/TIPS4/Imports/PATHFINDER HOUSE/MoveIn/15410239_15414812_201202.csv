@@ -1,0 +1,6 @@
+BATCH,,201202,B,3210.0000,
+INVOICE,IN,,15410239,,02/25/2012,3210.0000,"MoveIn-Martens. Marvin",,02/25/2012,02/25/2012,,15414812,7430.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,5,85.0000,425,"Basic Service Fee - One Bedroom: Martens. Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,5,50.0000,250,"Resident Care - Level 3: Martens. Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Martens. Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2500.0000,2500,"New Resident Fee: Martens. Marvin",,,,,,,,,,,,,,,

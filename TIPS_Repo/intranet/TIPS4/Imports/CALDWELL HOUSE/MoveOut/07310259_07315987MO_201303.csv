@@ -1,0 +1,7 @@
+BATCH,,201303,B,641.4000,
+INVOICE,IN,,07310259,,03/01/2013,320.7000,"Invoice-Private",,03/01/2013,03/10/2013,,07315987MO,-412.4000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20.00,"Monthly Cable: Stalder, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3312,010305073,31,9.7000,300.70,"Credit for Two Room Rental Discount: Stalder, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,07310259,,03/01/2013,320.7,"Invoice-Private",,03/01/2013,03/10/2013,,07315987MO,-412.4000,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"Credit for Monthly Cable: Stalder, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3312,010305073,31,9.7,300.7,"Two Room Rental Discount: Stalder, Richard",,,,,,,,,,,,,,,

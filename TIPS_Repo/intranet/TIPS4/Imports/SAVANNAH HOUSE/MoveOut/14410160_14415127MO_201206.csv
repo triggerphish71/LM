@@ -1,0 +1,5 @@
+BATCH,,201206,B,120.0000,
+INVOICE,IN,,14410160,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14415127MO,-6277.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,30,2.0000,60.00,"Credit for Limited Term Discount: Kline, Sybil",,,,,,,,,,,,,,,
+INVOICE,CM,,14410160,,06/01/2012,60,"Invoice-Private",,06/01/2012,06/10/2012,,14415127MO,-6277.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,30,2,60,"Limited Term Discount: Kline, Sybil",,,,,,,,,,,,,,,

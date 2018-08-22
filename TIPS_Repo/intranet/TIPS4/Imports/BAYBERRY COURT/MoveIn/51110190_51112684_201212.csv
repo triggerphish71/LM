@@ -1,0 +1,5 @@
+BATCH,,201212,B,313.0000,
+INVOICE,IN,,51110190,,12/30/2012,313.0000,"MoveIn-Scheftic. Thomas",,12/30/2012,12/30/2012,,51112684,4773.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,2,105.0000,210,"Basic Service Fee - Studio: Scheftic. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310511,2,38.0000,76,"Resident Care - Level 2: Scheftic. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Scheftic. Thomas",,,,,,,,,,,,,,,

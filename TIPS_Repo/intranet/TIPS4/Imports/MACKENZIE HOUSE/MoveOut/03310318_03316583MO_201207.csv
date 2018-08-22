@@ -1,0 +1,8 @@
+BATCH,,201207,B,2570.0000,
+INVOICE,IN,,03310318,,07/07/2012,524.0000,"Invoice-Private",,07/07/2012,07/07/2012,,03316583MO,-1522.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,62.0000,62.00,"CR:Limited Term Di... A.Richardson 201207: Richardson, Alene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,7,37.0000,259.00,"Basic Service Fee - Second Resident for Jul: Richardson, Alene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,7,29.0000,203.00,"Resident Care - Level 2 for Jul: Richardson, Alene",,,,,,,,,,,,,,,
+INVOICE,CM,,03310318,,07/07/2012,2046,"Invoice-Private",,07/07/2012,07/07/2012,,03316583MO,-1522.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,1147,1147,"CR:Basic Service F... A.Richardson 201207: Richardson, Alene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,899,899,"CR:Resident Care -... A.Richardson 201207: Richardson, Alene",,,,,,,,,,,,,,,

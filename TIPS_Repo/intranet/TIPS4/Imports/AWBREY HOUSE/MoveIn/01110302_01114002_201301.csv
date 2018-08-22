@@ -1,0 +1,5 @@
+BATCH,,201301,B,3411.6400,
+INVOICE,IN,,01110302,,01/03/2013,3411.6400,"MoveIn-Phelps. Joe",,01/03/2013,01/03/2013,,01114002,3411.6400,,,,,,,,,,
+TRANSACTION,3010,010101011,29,76.0000,2204,"Basic Service Fee - Studio: Phelps. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,29,7.1600,207.64,"Resident Care - Level 4: Phelps. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Phelps. Joe",,,,,,,,,,,,,,,

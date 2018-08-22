@@ -1,0 +1,7 @@
+BATCH,,201108,B,6359.0000,
+INVOICE,IN,,06410174,,08/01/2011,1147.0000,"Invoice-Private",,08/01/2011,08/10/2011,,06413516MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3320,010305064,1,1147.0000,1147.00,"CR:Limited Term Di... C.Kretschmar 201108: Kretschmar, Cort",,,,,,,,,,,,,,,
+INVOICE,CM,,06410174,,08/01/2011,5212,"Invoice-Private",,08/01/2011,08/10/2011,,06413516MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,2697,2697,"CR:Basic Service F... C.Kretschmar 201108: Kretschmar, Cort",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"CR:Monthly Cable... C.Kretschmar 201108: Kretschmar, Cort",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305064,1,2480,2480,"CR:Resident Care -... C.Kretschmar 201108: Kretschmar, Cort",,,,,,,,,,,,,,,

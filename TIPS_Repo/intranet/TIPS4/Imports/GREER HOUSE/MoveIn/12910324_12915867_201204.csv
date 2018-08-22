@@ -1,0 +1,6 @@
+BATCH,,201204,B,2750.0000,
+INVOICE,IN,,12910324,,04/27/2012,2750.0000,"MoveIn-Quint. Eva",,04/27/2012,04/27/2012,,12915867,8360.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,4,96.0000,384,"Basic Service Fee - Studio: Quint. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,4,84.0000,336,"Resident Care - Level 6: Quint. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Quint. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Quint. Eva",,,,,,,,,,,,,,,

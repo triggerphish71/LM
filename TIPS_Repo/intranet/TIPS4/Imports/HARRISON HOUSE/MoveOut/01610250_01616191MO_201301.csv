@@ -1,0 +1,8 @@
+BATCH,,201301,B,6139.0000,
+INVOICE,IN,,01610250,,01/01/2013,2946.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01616191MO,-247.0000,,,,,,,,,,
+TRANSACTION,3320,010202016,1,62.0000,62.00,"CR:Limited Term Di... E.Williams 201301: Williams, Ester",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202016,28,86.0000,2408.00,"Basic Service Fee - Studio for Jan: Williams, Ester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,28,17.0000,476.00,"Resident Care - Level 1 for Jan: Williams, Ester",,,,,,,,,,,,,,,
+INVOICE,CM,,01610250,,01/01/2013,3193,"Invoice-Private",,01/01/2013,01/10/2013,,01616191MO,-247.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... E.Williams 201301: Williams, Ester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,527,527,"CR:Resident Care -... E.Williams 201301: Williams, Ester",,,,,,,,,,,,,,,

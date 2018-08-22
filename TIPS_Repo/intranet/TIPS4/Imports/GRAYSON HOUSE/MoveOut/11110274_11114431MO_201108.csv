@@ -1,0 +1,7 @@
+BATCH,,201108,B,577.0000,
+INVOICE,IN,,11110274,,08/01/2011,288.5000,"Invoice-Private",,08/01/2011,08/10/2011,,11114431MO,-2133.5000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25.00,"Monthly Cable: Eberhart, John",,,,,,,,,,,,,,,
+TRANSACTION,3019,010107111,31,8.5000,263.50,"Additional Service Charge: Eberhart, John",,,,,,,,,,,,,,,
+INVOICE,CM,,11110274,,08/01/2011,288.5,"Invoice-Private",,08/01/2011,08/10/2011,,11114431MO,-2133.5000,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"Credit for Monthly Cable: Eberhart, John",,,,,,,,,,,,,,,
+TRANSACTION,3019,010107111,31,8.5,263.5,"Credit for Additional Service Charge: Eberhart, John",,,,,,,,,,,,,,,

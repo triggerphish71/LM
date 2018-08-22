@@ -1,0 +1,7 @@
+BATCH,,201112,B,3844.0000,
+INVOICE,IN,,15810201,,12/01/2011,1922.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15814278MO,-1983.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,31,32.0000,992.00,"Credit for Limited Term Discount: Satterfield, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3315,010309158,31,30.0000,930.00,"Credit for Promotional Discount: Satterfield, Dennis",,,,,,,,,,,,,,,
+INVOICE,CM,,15810201,,12/01/2011,1922,"Invoice-Private",,12/01/2011,12/10/2011,,15814278MO,-1983.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,31,32,992,"Limited Term Discount: Satterfield, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3315,010309158,31,30,930,"Promotional Discount: Satterfield, Dennis",,,,,,,,,,,,,,,

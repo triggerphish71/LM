@@ -1,0 +1,5 @@
+BATCH,,201202,B,1597.0000,
+INVOICE,IN,,16210134,,02/29/2012,1597.0000,"MoveIn-Long. Jim",,02/29/2012,02/29/2012,,16212893,4604.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,1,82.0000,82,"Basic Service Fee - One Bedroom: Long. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,1,15.0000,15,"Resident Care - Level 1: Long. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Long. Jim",,,,,,,,,,,,,,,

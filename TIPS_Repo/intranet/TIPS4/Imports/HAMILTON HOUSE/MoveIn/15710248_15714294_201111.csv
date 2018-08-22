@@ -1,0 +1,6 @@
+BATCH,,201111,B,3970.0000,
+INVOICE,IN,,15710248,,11/11/2011,3970.0000,"MoveIn-Johnson. David",,11/11/2011,11/11/2011,,15714294,3970.0000,,,,,,,,,,
+TRANSACTION,3010,010309157,20,89.0000,1780,"Basic Service Fee - Studio: Johnson. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309157,20,33.0000,660,"Resident Care - Level 2: Johnson. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30,"Monthly Cable: Johnson. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309157,1,1500.0000,1500,"New Resident Fee: Johnson. David",,,,,,,,,,,,,,,

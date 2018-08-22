@@ -1,0 +1,5 @@
+BATCH,,201308,B,2779.3500,
+INVOICE,IN,,04910228,,08/01/2013,2779.3500,"August_Rent-Warren. Del",,08/01/2013,08/10/2013,,04913674,5515.1500,,,,,,,,,,
+TRANSACTION,3010,010101049,31,87.0000,2697,"Basic Service Fee - Studio: Warren. Del",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,31,1.8500,57.35,"Resident Care - Level 1: Warren. Del",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Warren. Del",,,,,,,,,,,,,,,

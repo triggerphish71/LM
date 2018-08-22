@@ -1,0 +1,5 @@
+BATCH,,201306,B,3640.0000,
+INVOICE,IN,,01410254,,06/14/2013,3640.0000,"MoveIn-Gast. Leonard",,06/14/2013,06/14/2013,,01414768,6610.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,17,95.0000,1615,"Basic Service Fee - Studio: Gast. Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Gast. Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,2000.0000,2000,"New Resident Fee: Gast. Leonard",,,,,,,,,,,,,,,

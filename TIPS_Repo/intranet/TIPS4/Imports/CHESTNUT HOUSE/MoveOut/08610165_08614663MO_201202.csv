@@ -1,0 +1,8 @@
+BATCH,,201202,B,6422.0000,
+INVOICE,IN,,08610165,,02/14/2012,2130.0000,"Invoice-Private",,02/14/2012,02/14/2012,,08614663MO,-2162.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,58.0000,58.00,"CR:Limited Term Di... L.Boyd 201202: Boyd, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305086,14,89.0000,1246.00,"Basic Service Fee - Studio for Feb: Boyd, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,14,59.0000,826.00,"Resident Care - Level 4 for Feb: Boyd, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,08610165,,02/14/2012,4292,"Invoice-Private",,02/14/2012,02/14/2012,,08614663MO,-2162.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2581,2581,"CR:Basic Service F... L.Boyd 201202: Boyd, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1711,1711,"CR:Resident Care -... L.Boyd 201202: Boyd, Leona",,,,,,,,,,,,,,,

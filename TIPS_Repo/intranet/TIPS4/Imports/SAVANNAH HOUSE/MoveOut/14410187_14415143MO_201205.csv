@@ -1,0 +1,8 @@
+BATCH,,201205,B,5428.0000,
+INVOICE,IN,,14410187,,05/09/2012,1215.0000,"Invoice-Private",,05/09/2012,05/09/2012,,14415143MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,9,106.0000,954.00,"Basic Service Fee - Studio for May: Sullivan, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,9,29.0000,261.00,"Resident Care - Level 2 for May: Sullivan, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,14410187,,05/09/2012,4213,"Invoice-Private",,05/09/2012,05/09/2012,,14415143MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... B.Sullivan 201205: Sullivan, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... B.Sullivan 201205: Sullivan, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,899,899,"CR:Resident Care -... B.Sullivan 201205: Sullivan, Barbara",,,,,,,,,,,,,,,

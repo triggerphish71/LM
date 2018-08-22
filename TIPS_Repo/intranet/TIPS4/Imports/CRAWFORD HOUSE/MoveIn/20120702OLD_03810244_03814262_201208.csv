@@ -1,0 +1,5 @@
+BATCH,,201208,B,2222.2200,
+INVOICE,IN,,03810244,,07/01/2012,222.2200,"July_Rent-Johnson. Vivian",,07/01/2012,07/10/2012,,03814262,2960.2200,,,,,,,,,,
+TRANSACTION,3216,010103038,1,222.2200,222.22,"Monthly Deferral Charge: Johnson. Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,03810244,,07/01/2012,2000.0000,"July_Rent-Johnson. Vivian",,07/01/2012,07/10/2012,,03814262,2960.2200,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000,2000,"New Resident Fee Deferred: Johnson. Vivian",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,4635.0000,
+INVOICE,IN,,10510292,,04/01/2013,1545.0000,"Invoice-Private",,04/01/2013,04/10/2013,,10514338MO,-3746.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,15,103.0000,1545.00,"Basic Service Fee - One Bedroom for Apr: Russell, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,10510292,,04/01/2013,3090,"Invoice-Private",,04/01/2013,04/10/2013,,10514338MO,-3746.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3090,3090,"CR:Basic Service F... H.Russell 201304: Russell, Helen",,,,,,,,,,,,,,,

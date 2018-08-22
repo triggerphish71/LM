@@ -1,0 +1,5 @@
+BATCH,,201210,B,5031.0000,
+INVOICE,CM,,11810183,,10/01/2012,5031,"Invoice-Private",,10/01/2012,10/10/2012,,11815533MO,-7325.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3100,3100,"CR:Basic Service F... N.Smith 201210: Smith, Noami",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... N.Smith 201210: Smith, Noami",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1891,1891,"CR:Resident Care -... N.Smith 201210: Smith, Noami",,,,,,,,,,,,,,,

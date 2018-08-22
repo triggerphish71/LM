@@ -1,0 +1,8 @@
+BATCH,,201201,B,10352.0000,
+INVOICE,IN,,16510282,,01/28/2012,4900.0000,"Invoice-Private",,01/28/2012,01/28/2012,,16514104MO,-5654.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,28,122.0000,3416.00,"Basic Service Fee - One Bedroom for Jan: McCall, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,28,53.0000,1484.00,"Resident Care - Level 4 for Jan: McCall, George",,,,,,,,,,,,,,,
+INVOICE,CM,,16510282,,01/28/2012,5452,"Invoice-Private",,01/28/2012,01/28/2012,,16514104MO,-5654.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3782,3782,"CR:Basic Service F... G.McCall 201201: McCall, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... G.McCall 201201: McCall, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,1643,1643,"CR:Resident Care -... G.McCall 201201: McCall, George",,,,,,,,,,,,,,,

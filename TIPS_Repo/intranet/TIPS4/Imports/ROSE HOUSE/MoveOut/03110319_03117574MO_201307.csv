@@ -1,0 +1,6 @@
+BATCH,,201307,B,7103.0000,
+INVOICE,IN,,03110319,,07/10/2013,3480.0000,"Invoice-Private",,07/10/2013,07/10/2013,,03117574MO,-3766.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,30,116.0000,3480.00,"Basic Service Fee - One Bedroom for Jul: David, Reda",,,,,,,,,,,,,,,
+INVOICE,CM,,03110319,,07/10/2013,3623,"Invoice-Private",,07/10/2013,07/10/2013,,03117574MO,-3766.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3596,3596,"CR:Basic Service F... R.David 201307: David, Reda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... R.David 201307: David, Reda",,,,,,,,,,,,,,,

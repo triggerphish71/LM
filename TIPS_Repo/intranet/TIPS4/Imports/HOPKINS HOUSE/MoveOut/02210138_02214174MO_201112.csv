@@ -1,0 +1,8 @@
+BATCH,,201112,B,5635.0000,
+INVOICE,IN,,02210138,,12/13/2011,2200.0000,"Invoice-Private",,12/13/2011,12/13/2011,,02214174MO,-4732.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,20,93.0000,1860.00,"Basic Service Fee - Studio for Dec: Voss, Ruby Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,20,17.0000,340.00,"Resident Care - Level 1 for Dec: Voss, Ruby Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,02210138,,12/13/2011,3435,"Invoice-Private",,12/13/2011,12/13/2011,,02214174MO,-4732.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2883,2883,"CR:Basic Service F... R.Voss 201112: Voss, Ruby Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"CR:Monthly Cable... R.Voss 201112: Voss, Ruby Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,527,527,"CR:Resident Care -... R.Voss 201112: Voss, Ruby Louise",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,3350.3700,
+INVOICE,IN,,03810234,,05/01/2012,3350.3700,"May_Rent-Lovin. Chris",,05/01/2012,05/10/2012,,03814192,6877.1500,,,,,,,,,,
+TRANSACTION,3010,010103038,31,84.0000,2604,"C.Lovin: Basic Service Fee - Studio: Lovin. Chris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,31,23.2700,721.37,"C.Lovin: Resident Care - Level 13: Lovin. Chris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Lovin. Chris",,,,,,,,,,,,,,,

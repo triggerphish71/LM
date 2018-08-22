@@ -1,0 +1,7 @@
+BATCH,,201108,B,4365.0000,
+INVOICE,IN,,53510031,,08/01/2011,93.0000,"Invoice-Private",,08/01/2011,08/10/2011,,53513937MO,-4522.0000,,,,,,,,,,
+TRANSACTION,3320,010319535,1,93.0000,93.00,"CR:Limited Term Di... R.Freund 201108: Freund, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,53510031,,08/01/2011,4272,"Invoice-Private",,08/01/2011,08/10/2011,,53513937MO,-4522.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2945,2945,"CR:Basic Service F... R.Freund 201108: Freund, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... R.Freund 201108: Freund, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1302,1302,"CR:Resident Care -... R.Freund 201108: Freund, Ruth",,,,,,,,,,,,,,,

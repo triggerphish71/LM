@@ -1,0 +1,7 @@
+BATCH,,201303,B,5200.0000,
+INVOICE,IN,,21610028,,03/05/2013,1170.0000,"Invoice-Private",,03/05/2013,03/05/2013,,21614005MO,-2860.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,9,32.0000,288.00,"Resident Care - Level 3 for Mar: Hardgrave, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,9,98.0000,882.00,"Studio Deluxe for Mar: Hardgrave, William",,,,,,,,,,,,,,,
+INVOICE,CM,,21610028,,03/05/2013,4030,"Invoice-Private",,03/05/2013,03/05/2013,,21614005MO,-2860.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,992,992,"CR:Resident Care -... W.Hardgrave 201303: Hardgrave, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3038,3038,"CR:Studio Deluxe... W.Hardgrave 201303: Hardgrave, William",,,,,,,,,,,,,,,

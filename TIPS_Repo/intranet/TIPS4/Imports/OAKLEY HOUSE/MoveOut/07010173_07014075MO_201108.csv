@@ -1,0 +1,7 @@
+BATCH,,201108,B,164.0000,
+INVOICE,IN,,07010173,,08/01/2011,82.0000,"Invoice-Private",,08/01/2011,08/10/2011,,07014075MO,-7229.0000,,,,,,,,,,
+TRANSACTION,3130,010305070,1,20.0000,20.00,"Pendant Fee: Hamilton, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305070,31,2.0000,62.00,"Credit for Limited Term Discount: Hamilton, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07010173,,08/01/2011,82,"Invoice-Private",,08/01/2011,08/10/2011,,07014075MO,-7229.0000,,,,,,,,,,
+TRANSACTION,3130,010305070,1,20,20,"Credit for Pendant Fee: Hamilton, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305070,31,2,62,"Limited Term Discount: Hamilton, Evelyn",,,,,,,,,,,,,,,

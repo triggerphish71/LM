@@ -1,0 +1,5 @@
+BATCH,,201302,B,1512.0000,
+INVOICE,IN,,17910201,,02/01/2013,756.0000,"Invoice-Private",,02/01/2013,02/10/2013,,17915230MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,28,27.0000,756.00,"Credit for Limited Term Discount: Bradley, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17910201,,02/01/2013,756,"Invoice-Private",,02/01/2013,02/10/2013,,17915230MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,28,27,756,"Limited Term Discount: Bradley, Barbara",,,,,,,,,,,,,,,

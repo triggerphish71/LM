@@ -1,0 +1,5 @@
+BATCH,,201303,B,5596.8000,
+INVOICE,IN,,00510181,,03/06/2013,5596.8000,"MoveIn-Allmon. Richard",,03/06/2013,03/06/2013,,00512610,5596.8000,,,,,,,,,,
+TRANSACTION,3010,010101005,26,88.0000,2288,"Basic Service Fee - One Bedroom: Allmon. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,26,88.8000,2308.8,"Resident Care - Level 48: Allmon. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Allmon. Richard",,,,,,,,,,,,,,,

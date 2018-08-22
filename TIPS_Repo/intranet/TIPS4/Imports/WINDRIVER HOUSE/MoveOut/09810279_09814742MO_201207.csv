@@ -1,0 +1,8 @@
+BATCH,,201207,B,4249.4000,
+INVOICE,IN,,09810279,,07/25/2012,1181.6000,"Invoice-Private",,07/25/2012,07/25/2012,,09814742MO,-6464.9000,,,,,,,,,,
+TRANSACTION,3020,010103098,8,94.0000,752.00,"Basic Service Fee - Studio for Jul: Williams, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,8,53.7000,429.60,"Resident Care - Level 30 for Jul: Williams, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,09810279,,07/25/2012,3067.8,"Invoice-Private",,07/25/2012,07/25/2012,,09814742MO,-6464.9000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,1316,1316,"CR:Basic Service F... J.Williams 201207: Williams, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000,1000,"CR:New Resident Fe... J.Williams 201207: Williams, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,751.8,751.8,"CR:Resident Care -... J.Williams 201207: Williams, Joe",,,,,,,,,,,,,,,

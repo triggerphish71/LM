@@ -1,0 +1,5 @@
+BATCH,,201202,B,2425.0000,
+INVOICE,IN,,02910302,,02/21/2012,2425.0000,"MoveIn-George. Sue",,02/21/2012,02/21/2012,,02915480,5550.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,9,100.0000,900,"S.George: Basic Service Fee - Studio: George. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: George. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: George. Sue",,,,,,,,,,,,,,,

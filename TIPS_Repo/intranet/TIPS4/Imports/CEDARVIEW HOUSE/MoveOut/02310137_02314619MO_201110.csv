@@ -1,0 +1,7 @@
+BATCH,,201110,B,3733.0000,
+INVOICE,IN,,02310137,,10/01/2011,887.0000,"Invoice-Private",,10/01/2011,10/10/2011,,02314619MO,-1959.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,1,341.0000,341.00,"CR:Limited Term Di... H.Bailey 201110: Bailey, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202023,6,91.0000,546.00,"Basic Service Fee - Studio for Oct: Bailey, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,02310137,,10/01/2011,2846,"Invoice-Private",,10/01/2011,10/10/2011,,02314619MO,-1959.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2821,2821,"CR:Basic Service F... H.Bailey 201110: Bailey, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... H.Bailey 201110: Bailey, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,6613.0000,
+INVOICE,IN,,11710218,,07/12/2011,2583.0000,"Invoice-Private",,07/12/2011,07/12/2011,,11713582MO,-1447.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,1,1023.0000,1023.00,"CR:Limited Term Di... J.Goldfarb 201107: Goldfarb, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305117,12,83.0000,996.00,"Basic Service Fee - Studio for Jul: Goldfarb, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,12,47.0000,564.00,"Resident Care - Level 3 for Jul: Goldfarb, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,11710218,,07/12/2011,4030,"Invoice-Private",,07/12/2011,07/12/2011,,11713582MO,-1447.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2573,2573,"CR:Basic Service F... J.Goldfarb 201107: Goldfarb, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,1457,1457,"CR:Resident Care -... J.Goldfarb 201107: Goldfarb, Jean",,,,,,,,,,,,,,,

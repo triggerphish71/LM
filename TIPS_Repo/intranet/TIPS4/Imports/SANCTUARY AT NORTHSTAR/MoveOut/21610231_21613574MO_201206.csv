@@ -1,0 +1,8 @@
+BATCH,,201206,B,7155.0000,
+INVOICE,IN,,21610231,,06/05/2012,2205.0000,"Invoice-Private",,06/05/2012,06/05/2012,,21613574MO,-2745.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,1380.0000,1380.00,"CR:Limited Term Di... E.Paul 201206: Paul, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,5,103.0000,515.00,"One Bedroom for Jun: Paul, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,5,62.0000,310.00,"Resident Care - Level 6 for Jun: Paul, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,21610231,,06/05/2012,4950,"Invoice-Private",,06/05/2012,06/05/2012,,21613574MO,-2745.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3090,3090,"CR:One Bedroom... E.Paul 201206: Paul, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1860,1860,"CR:Resident Care -... E.Paul 201206: Paul, Evelyn",,,,,,,,,,,,,,,

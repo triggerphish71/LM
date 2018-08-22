@@ -1,0 +1,8 @@
+BATCH,,201305,B,4515.0000,
+INVOICE,IN,,12910309,,05/08/2013,920.0000,"Invoice-Private",,05/08/2013,05/08/2013,,12916423MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3027,010310129,8,18.0000,144.00,"Resident Care - Level 1 for May: Koss, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,8,97.0000,776.00,"Room and Board - Studio for May: Koss, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,12910309,,05/08/2013,3595,"Invoice-Private",,05/08/2013,05/08/2013,,12916423MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... E.Koss 201305: Koss, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,558,558,"CR:Resident Care -... E.Koss 201305: Koss, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,1,3007,3007,"CR:Room and Board ... E.Koss 201305: Koss, Evelyn",,,,,,,,,,,,,,,

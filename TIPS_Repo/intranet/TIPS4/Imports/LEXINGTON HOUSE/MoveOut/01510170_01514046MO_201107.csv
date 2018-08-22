@@ -1,0 +1,7 @@
+BATCH,,201107,B,4604.0000,
+INVOICE,IN,,01510170,,07/06/2011,1035.9000,"Invoice-Private",,07/06/2011,07/06/2011,,01514046MO,-2532.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,9,93.0000,837.00,"Basic Service Fee - One Bedroom for Jul: Betts, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,9,22.1000,198.90,"Resident Care - Level 13 for Jul: Betts, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,01510170,,07/06/2011,3568.1,"Invoice-Private",,07/06/2011,07/06/2011,,01514046MO,-2532.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2883,2883,"CR:Basic Service F... S.Betts 201107: Betts, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,685.1,685.1,"CR:Resident Care -... S.Betts 201107: Betts, Shirley",,,,,,,,,,,,,,,

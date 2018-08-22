@@ -1,0 +1,5 @@
+BATCH,,201207,B,4122.0000,
+INVOICE,IN,,12310215,,07/19/2012,4122.0000,"MoveIn-Hajek. John",,07/19/2012,07/19/2012,,12315529,8586.0000,,,,,,,,,,
+TRANSACTION,3010,010211123,13,125.0000,1625,"Basic Service Fee - One Bedroom: Hajek. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211123,13,19.0000,247,"Resident Care - Level 1: Hajek. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211123,1,2250.0000,2250,"New Resident Fee: Hajek. John",,,,,,,,,,,,,,,

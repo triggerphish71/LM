@@ -1,0 +1,6 @@
+BATCH,,201105,B,4461.0000,
+INVOICE,IN,,06410160,,05/16/2011,1764.0000,"Invoice-Private",,05/16/2011,05/16/2011,,06413483MO,-3183.0000,,,,,,,,,,
+TRANSACTION,3320,010305064,1,372.0000,372.00,"CR:Limited Term Di... M.Covault 201105: Covault, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305064,16,87.0000,1392.00,"Basic Service Fee - Studio for May: Covault, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06410160,,05/16/2011,2697,"Invoice-Private",,05/16/2011,05/16/2011,,06413483MO,-3183.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,2697,2697,"CR:Basic Service F... M.Covault 201105: Covault, Mary",,,,,,,,,,,,,,,

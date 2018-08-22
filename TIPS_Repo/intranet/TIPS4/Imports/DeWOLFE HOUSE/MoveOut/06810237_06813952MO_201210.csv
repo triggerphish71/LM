@@ -1,0 +1,6 @@
+BATCH,,201210,B,5549.0000,
+INVOICE,IN,,06810237,,10/01/2012,713.0000,"Invoice-Private",,10/01/2012,10/10/2012,,06813952MO,-5527.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,713.0000,713.00,"CR:Limited Term Di... P.Worcester 201210: Worcester, Perry",,,,,,,,,,,,,,,
+INVOICE,CM,,06810237,,10/01/2012,4836,"Invoice-Private",,10/01/2012,10/10/2012,,06813952MO,-5527.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2883,2883,"CR:Basic Service F... P.Worcester 201210: Worcester, Perry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1953,1953,"CR:Resident Care -... P.Worcester 201210: Worcester, Perry",,,,,,,,,,,,,,,

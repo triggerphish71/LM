@@ -1,0 +1,5 @@
+BATCH,,201209,B,900.0000,
+INVOICE,IN,,06810234,,09/01/2012,450.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06813915MO,-747.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,30,15.0000,450.00,"Credit for Limited Term Discount: Spears, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,06810234,,09/01/2012,450,"Invoice-Private",,09/01/2012,09/10/2012,,06813915MO,-747.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,30,15,450,"Limited Term Discount: Spears, Stanley",,,,,,,,,,,,,,,

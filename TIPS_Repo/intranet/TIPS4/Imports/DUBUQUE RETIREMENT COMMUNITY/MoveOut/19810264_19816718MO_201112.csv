@@ -1,0 +1,7 @@
+BATCH,,201112,B,680.0000,
+INVOICE,IN,,19810264,,12/01/2011,340.0000,"Invoice-Private",,12/01/2011,12/10/2011,,19816718MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: LaRue, Barbara ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,31,10.0000,310.00,"Credit for Limited Term Discount: LaRue, Barbara ",,,,,,,,,,,,,,,
+INVOICE,CM,,19810264,,12/01/2011,340,"Invoice-Private",,12/01/2011,12/10/2011,,19816718MO,-2052.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: LaRue, Barbara ",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,31,10,310,"Limited Term Discount: LaRue, Barbara ",,,,,,,,,,,,,,,

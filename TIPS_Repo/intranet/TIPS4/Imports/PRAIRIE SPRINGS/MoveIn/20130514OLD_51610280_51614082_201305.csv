@@ -1,0 +1,5 @@
+BATCH,,201305,B,3168.6000,
+INVOICE,IN,,51610280,,05/14/2013,3168.6000,"MoveIn-White. Clara",,05/14/2013,05/14/2013,,51614082,3168.6000,,,,,,,,,,
+TRANSACTION,3010,010103516,18,89.0000,1602,"Basic Service Fee - Studio: White. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103516,18,3.7000,66.6,"Resident Care - Level 2: White. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103516,1,1500.0000,1500,"New Resident Fee: White. Clara",,,,,,,,,,,,,,,

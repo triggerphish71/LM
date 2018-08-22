@@ -1,0 +1,6 @@
+BATCH,,201109,B,4252.0000,
+INVOICE,IN,,11010342,,09/14/2011,4252.0000,"MoveIn-Kirby. James (Jim)",,09/14/2011,09/14/2011,,11014664,4252.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,17,91.0000,1547,"Basic Service Fee - Studio         : Kirby. James (Jim)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,17,40.0000,680,"Resident Care - Level 3: Kirby. James (Jim)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Kirby. James (Jim)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Kirby. James (Jim)",,,,,,,,,,,,,,,

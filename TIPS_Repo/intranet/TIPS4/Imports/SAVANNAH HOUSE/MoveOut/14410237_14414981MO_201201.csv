@@ -1,0 +1,8 @@
+BATCH,,201201,B,4786.0000,
+INVOICE,IN,,14410237,,01/08/2012,976.0000,"Invoice-Private",,01/08/2012,01/08/2012,,14414981MO,-2834.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,8,106.0000,848.00,"Basic Service Fee - Studio for Jan: Groh, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,8,16.0000,128.00,"Resident Care - Level 1 for Jan: Groh, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,14410237,,01/08/2012,3810,"Invoice-Private",,01/08/2012,01/08/2012,,14414981MO,-2834.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... J.Groh 201201: Groh, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... J.Groh 201201: Groh, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... J.Groh 201201: Groh, Jane",,,,,,,,,,,,,,,

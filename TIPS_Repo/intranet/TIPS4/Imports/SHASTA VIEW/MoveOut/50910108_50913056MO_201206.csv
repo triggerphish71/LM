@@ -1,0 +1,7 @@
+BATCH,,201206,B,3262.0000,
+INVOICE,IN,,50910108,,06/22/2012,1402.0000,"Invoice-Private",,06/22/2012,06/22/2012,,50913056MO,-2317.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,60.0000,60.00,"CR:Limited Term Di... S.Johnson 201206: Johnson, Shelley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,22,61.0000,1342.00,"Basic Service Fee - One Bedroom for Jun: Johnson, Shelley",,,,,,,,,,,,,,,
+INVOICE,CM,,50910108,,06/22/2012,1860,"Invoice-Private",,06/22/2012,06/22/2012,,50913056MO,-2317.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1830,1830,"CR:Basic Service F... S.Johnson 201206: Johnson, Shelley",,,,,,,,,,,,,,,
+TRANSACTION,3130,010101509,1,30,30,"CR:Pendant Fee... S.Johnson 201206: Johnson, Shelley",,,,,,,,,,,,,,,

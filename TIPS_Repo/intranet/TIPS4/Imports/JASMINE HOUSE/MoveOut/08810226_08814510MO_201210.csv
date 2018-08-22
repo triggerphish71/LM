@@ -1,0 +1,8 @@
+BATCH,,201210,B,8011.0000,
+INVOICE,IN,,08810226,,10/27/2012,4508.0000,"Invoice-Private",,10/27/2012,10/27/2012,,08814510MO,-975.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,1457.0000,1457.00,"CR:Limited Term Di... J.Norburg 201210: Norburg, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107088,27,97.0000,2619.00,"Basic Service Fee - Studio for Oct: Norburg, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,27,16.0000,432.00,"Resident Care - Level 1 for Oct: Norburg, John",,,,,,,,,,,,,,,
+INVOICE,CM,,08810226,,10/27/2012,3503,"Invoice-Private",,10/27/2012,10/27/2012,,08814510MO,-975.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... J.Norburg 201210: Norburg, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,496,496,"CR:Resident Care -... J.Norburg 201210: Norburg, John",,,,,,,,,,,,,,,

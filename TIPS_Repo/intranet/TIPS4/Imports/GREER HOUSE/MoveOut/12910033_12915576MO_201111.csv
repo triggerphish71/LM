@@ -1,0 +1,7 @@
+BATCH,,201111,B,9462.0000,
+INVOICE,IN,,12910033,,11/01/2011,4482.0000,"Invoice-Private",,11/01/2011,11/10/2011,,12915576MO,-498.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,27,92.0000,2484.00,"Basic Service Fee - Studio for Nov: Henry, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,27,74.0000,1998.00,"Resident Care - Level 5 for Nov: Henry, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,12910033,,11/01/2011,4980,"Invoice-Private",,11/01/2011,11/10/2011,,12915576MO,-498.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2760,2760,"CR:Basic Service F... J.Henry 201111: Henry, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,2220,2220,"CR:Resident Care -... J.Henry 201111: Henry, Joseph",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,1714.0000,
+INVOICE,IN,,09410206,,01/01/2012,857.0000,"Invoice-Private",,01/01/2012,01/10/2012,,09415710MO,-4267.0000,,,,,,,,,,
+TRANSACTION,3228,010107094,1,20.0000,20.00,"Sharps Disposal - 4+ Per Day: Galbo, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107094,31,27.0000,837.00,"Credit for Limited Term Discount: Galbo, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,09410206,,01/01/2012,857,"Invoice-Private",,01/01/2012,01/10/2012,,09415710MO,-4267.0000,,,,,,,,,,
+TRANSACTION,3228,010107094,1,20,20,"Credit for Sharps Disposal - 4+ Per Day: Galbo, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107094,31,27,837,"Limited Term Discount: Galbo, Joseph",,,,,,,,,,,,,,,

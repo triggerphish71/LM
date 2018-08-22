@@ -1,0 +1,5 @@
+BATCH,,201204,B,4345.0000,
+INVOICE,IN,,02910305,,04/01/2012,4345.0000,"April_Rent-Cooper. Cozetta",,04/01/2012,04/10/2012,,02915515,8174.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,30,100.0000,3000,"Basic Service Fee - Studio: Cooper. Cozetta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,30,44.0000,1320,"Resident Care - Level 3: Cooper. Cozetta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Cooper. Cozetta",,,,,,,,,,,,,,,

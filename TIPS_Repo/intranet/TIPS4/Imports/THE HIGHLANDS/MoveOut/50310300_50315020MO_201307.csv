@@ -1,0 +1,7 @@
+BATCH,,201307,B,3228.0000,
+INVOICE,IN,,50310300,,07/01/2013,434.0000,"Invoice-Private",,07/01/2013,07/10/2013,,50315020MO,-3187.0000,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434.0000,434.00,"CR:Resident Care L... A.Bivens 201307: Bivens, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,50310300,,07/01/2013,2794,"Invoice-Private",,07/01/2013,07/10/2013,,50315020MO,-3187.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... A.Bivens 201307: Bivens, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... A.Bivens 201307: Bivens, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... A.Bivens 201307: Bivens, Ann",,,,,,,,,,,,,,,

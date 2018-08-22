@@ -1,0 +1,6 @@
+BATCH,,201108,B,3559.0000,
+INVOICE,IN,,03710186,,08/07/2011,651.0000,"Invoice-Private",,08/07/2011,08/07/2011,,03713925MO,-2257.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,7,93.0000,651.00,"Basic Service Fee - Studio for Aug: Alexander, Carrie",,,,,,,,,,,,,,,
+INVOICE,CM,,03710186,,08/07/2011,2908,"Invoice-Private",,08/07/2011,08/07/2011,,03713925MO,-2257.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2883,2883,"CR:Basic Service F... C.Alexander 201108: Alexander, Carrie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25,25,"CR:Monthly Cable... C.Alexander 201108: Alexander, Carrie",,,,,,,,,,,,,,,

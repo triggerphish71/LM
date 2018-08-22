@@ -1,0 +1,8 @@
+BATCH,,201108,B,4186.0000,
+INVOICE,IN,,17610284,,07/29/2011,1737.0000,"MoveIn-Aimino. Meryl",,07/29/2011,07/29/2011,,17614078,6556.0000,,,,,,,,,,
+TRANSACTION,3014,010315176,3,69.0000,207,"Basic Service Fee - Studio         : Aimino. Meryl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Aimino. Meryl",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,3,10.0000,30,"CC Meals: Aimino. Meryl",,,,,,,,,,,,,,,
+INVOICE,IN,,17610284,,08/01/2011,2449.0000,"August_Rent-Aimino. Meryl",,08/01/2011,08/10/2011,,17614078,6556.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,31,69.0000,2139,"Basic Service Fee - Studio         : Aimino. Meryl",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10.0000,310,"CC Meals: Aimino. Meryl",,,,,,,,,,,,,,,

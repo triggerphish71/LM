@@ -1,0 +1,5 @@
+BATCH,,201201,B,5584.0000,
+INVOICE,CM,,15810142,,01/01/2012,5584,"Invoice-Private",,01/01/2012,01/10/2012,,15814351MO,-8069.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... P.Smith 201201: Smith, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35,35,"CR:Pendant Fee... P.Smith 201201: Smith, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,2573,2573,"CR:Resident Care -... P.Smith 201201: Smith, Phyllis",,,,,,,,,,,,,,,

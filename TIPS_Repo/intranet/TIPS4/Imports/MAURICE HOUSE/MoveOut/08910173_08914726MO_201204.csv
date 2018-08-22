@@ -1,0 +1,7 @@
+BATCH,,201204,B,7659.0000,
+INVOICE,IN,,08910173,,04/04/2012,1449.0000,"Invoice-Private",,04/04/2012,04/04/2012,,08914726MO,-4761.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,7,111.0000,777.00,"Basic Service Fee - Studio for Apr: Foster, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,7,96.0000,672.00,"Resident Care - Level 6 for Apr: Foster, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08910173,,04/04/2012,6210,"Invoice-Private",,04/04/2012,04/04/2012,,08914726MO,-4761.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3330,3330,"CR:Basic Service F... H.Foster 201204: Foster, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2880,2880,"CR:Resident Care -... H.Foster 201204: Foster, Helen",,,,,,,,,,,,,,,

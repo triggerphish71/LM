@@ -1,0 +1,5 @@
+BATCH,,201204,B,1400.0000,
+INVOICE,IN,,07410209,,04/20/2012,560.0000,"Invoice-Private",,04/20/2012,04/20/2012,,07413858MO,-1148.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,20,28.0000,560.00,"Basic Service Fee - Second Resident for Apr: Purdy, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,07410209,,04/20/2012,840,"Invoice-Private",,04/20/2012,04/20/2012,,07413858MO,-1148.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,840,840,"CR:Basic Service F... D.Purdy 201204: Purdy, Don",,,,,,,,,,,,,,,

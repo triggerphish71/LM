@@ -1,0 +1,7 @@
+BATCH,,201209,B,5760.0000,
+INVOICE,IN,,52510099,,09/01/2012,1920.0000,"Invoice-Private",,09/01/2012,09/01/2012,,52512601MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,15,112.0000,1680.00,"Basic Service Fee - Studio for Sep: Voigt, Ione",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,15,16.0000,240.00,"Resident Care - Level 1 for Sep: Voigt, Ione",,,,,,,,,,,,,,,
+INVOICE,CM,,52510099,,09/01/2012,3840,"Invoice-Private",,09/01/2012,09/01/2012,,52512601MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3360,3360,"CR:Basic Service F... I.Voigt 201209: Voigt, Ione",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,480,480,"CR:Resident Care -... I.Voigt 201209: Voigt, Ione",,,,,,,,,,,,,,,

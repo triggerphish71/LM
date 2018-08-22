@@ -1,0 +1,6 @@
+BATCH,,201209,B,5982.0000,
+INVOICE,IN,,02411287,,09/12/2012,2652.0000,"Invoice-Private",,09/12/2012,09/12/2012,,02415868MO,-678.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,1320.0000,1320.00,"CR:Limited Term Di... J.Ledbetter 201209: Ledbetter, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,12,111.0000,1332.00,"Basic Service Fee - One Bedroom for Sep: Ledbetter, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02411287,,09/12/2012,3330,"Invoice-Private",,09/12/2012,09/12/2012,,02415868MO,-678.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3330,3330,"CR:Basic Service F... J.Ledbetter 201209: Ledbetter, James",,,,,,,,,,,,,,,

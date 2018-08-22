@@ -1,0 +1,5 @@
+BATCH,,201110,B,612.0000,
+INVOICE,IN,,14310148,,10/01/2011,306.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14314083MO,-7384.2000,,,,,,,,,,
+TRANSACTION,3019,010309143,30,10.2000,306.00,"Additional Service Charge: Real, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,14310148,,10/01/2011,306,"Invoice-Private",,10/01/2011,10/10/2011,,14314083MO,-7384.2000,,,,,,,,,,
+TRANSACTION,3019,010309143,30,10.2,306,"Credit for Additional Service Charge: Real, Wanda",,,,,,,,,,,,,,,

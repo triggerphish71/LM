@@ -1,0 +1,5 @@
+BATCH,,201211,B,1500.0000,
+INVOICE,IN,,15310226,,11/01/2012,750.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15316246MO,-3075.0000,,,,,,,,,,
+TRANSACTION,3320,010103153,30,25.0000,750.00,"Credit for Limited Term Discount: Weakley, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,15310226,,11/01/2012,750,"Invoice-Private",,11/01/2012,11/10/2012,,15316246MO,-3075.0000,,,,,,,,,,
+TRANSACTION,3320,010103153,30,25,750,"Limited Term Discount: Weakley, Helen",,,,,,,,,,,,,,,

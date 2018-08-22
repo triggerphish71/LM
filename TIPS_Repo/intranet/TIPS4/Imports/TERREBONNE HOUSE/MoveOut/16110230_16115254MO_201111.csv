@@ -1,0 +1,7 @@
+BATCH,,201111,B,3672.0000,
+INVOICE,IN,,16110230,,11/04/2011,432.0000,"Invoice-Private",,11/04/2011,11/04/2011,,16115254MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,4,85.0000,340.00,"Basic Service Fee - Studio for Nov: Arcement, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,4,23.0000,92.00,"Resident Care - Level 2 for Nov: Arcement, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,16110230,,11/04/2011,3240,"Invoice-Private",,11/04/2011,11/04/2011,,16115254MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2550,2550,"CR:Basic Service F... R.Arcement 201111: Arcement, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,690,690,"CR:Resident Care -... R.Arcement 201111: Arcement, Raymond",,,,,,,,,,,,,,,

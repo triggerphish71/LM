@@ -1,0 +1,5 @@
+BATCH,,201304,B,3210.0000,
+INVOICE,IN,,16710251,,04/01/2013,3210.0000,"April_Rent-Hagemoser. Bonita",,04/01/2013,04/10/2013,,16714063,4058.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,30,91.0000,2730,"Basic Service Fee - Deluxe: Hagemoser. Bonita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,30,15.0000,450,"Resident Care - Level 1: Hagemoser. Bonita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Hagemoser. Bonita",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,190.0000,
+INVOICE,IN,,13310273,,09/01/2011,95.0000,"Invoice-Private",,09/01/2011,09/10/2011,,13315030MO,-3047.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Conte, Angelo",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,2.0000,60.00,"Credit for Limited Term Discount: Conte, Angelo",,,,,,,,,,,,,,,
+INVOICE,CM,,13310273,,09/01/2011,95,"Invoice-Private",,09/01/2011,09/10/2011,,13315030MO,-3047.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Conte, Angelo",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,2,60,"Limited Term Discount: Conte, Angelo",,,,,,,,,,,,,,,

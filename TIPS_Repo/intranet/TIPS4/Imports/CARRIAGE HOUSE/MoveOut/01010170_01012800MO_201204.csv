@@ -1,0 +1,6 @@
+BATCH,,201204,B,3137.4000,
+INVOICE,IN,,01010170,,04/01/2012,690.0000,"Invoice-Private",,04/01/2012,04/10/2012,,01012800MO,-1125.9800,,,,,,,,,,
+TRANSACTION,3320,010101010,1,690.0000,690.00,"CR:Limited Term Di... F.Lengele 201204: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+INVOICE,CM,,01010170,,04/01/2012,2447.4,"Invoice-Private",,04/01/2012,04/10/2012,,01012800MO,-1125.9800,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2340,2340,"CR:Basic Service F... F.Lengele 201204: Lengele, Francis (Frank)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,107.4,107.4,"CR:Resident Care -... F.Lengele 201204: Lengele, Francis (Frank)",,,,,,,,,,,,,,,

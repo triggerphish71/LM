@@ -1,0 +1,6 @@
+BATCH,,201105,B,5346.0000,
+INVOICE,IN,,02810185,,05/05/2011,5346.0000,"MoveIn-Parkins. John",,05/05/2011,05/05/2011,,02814693,5346.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,27,109.0000,2943,"Basic Service Fee - Studio         : Parkins. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,27,14.0000,378,"Resident Care - Level 1: Parkins. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Parkins. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Parkins. John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,3497.0000,
+INVOICE,IN,,01410222,,03/01/2012,3497.0000,"March_Rent-Parris. H.T.",,03/01/2012,03/10/2012,,01414244,6306.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,31,95.0000,2945,"H.Parris: Basic Service Fee - Studio: Parris. H.T.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202014,31,17.0000,527,"H.Parris: Resident Care - Level 1: Parris. H.T.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Parris. H.T.",,,,,,,,,,,,,,,

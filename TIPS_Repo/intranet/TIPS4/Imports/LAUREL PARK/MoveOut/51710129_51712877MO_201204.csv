@@ -1,0 +1,7 @@
+BATCH,,201204,B,920.0000,
+INVOICE,IN,,51710129,,04/01/2012,460.0000,"Invoice-Private",,04/01/2012,04/10/2012,,51712877MO,-3132.7600,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10.0000,10.00,"Pendant Fee: Carpenter, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103517,30,15.0000,450.00,"Credit for Limited Term Discount: Carpenter, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,51710129,,04/01/2012,460,"Invoice-Private",,04/01/2012,04/10/2012,,51712877MO,-3132.7600,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"Credit for Pendant Fee: Carpenter, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103517,30,15,450,"Limited Term Discount: Carpenter, Chester",,,,,,,,,,,,,,,

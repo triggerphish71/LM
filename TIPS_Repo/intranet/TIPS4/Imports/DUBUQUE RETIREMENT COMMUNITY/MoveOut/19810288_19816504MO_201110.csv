@@ -1,0 +1,5 @@
+BATCH,,201110,B,60.0000,
+INVOICE,IN,,19810288,,10/01/2011,30.0000,"Invoice-Private",,10/01/2011,10/10/2011,,19816504MO,-2784.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Gassman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,19810288,,10/01/2011,30,"Invoice-Private",,10/01/2011,10/10/2011,,19816504MO,-2784.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Gassman, Ruth",,,,,,,,,,,,,,,

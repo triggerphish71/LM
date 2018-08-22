@@ -1,0 +1,7 @@
+BATCH,,201109,B,1280.0000,
+INVOICE,IN,,19410213,,09/01/2011,640.0000,"Invoice-Private",,09/01/2011,09/10/2011,,19414029MO,-1645.0000,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40.00,"Monthly Cable: Johnston, Bradley",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212194,30,20.0000,600.00,"Credit for Limited Term Discount: Johnston, Bradley",,,,,,,,,,,,,,,
+INVOICE,CM,,19410213,,09/01/2011,640,"Invoice-Private",,09/01/2011,09/10/2011,,19414029MO,-1645.0000,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"Credit for Monthly Cable: Johnston, Bradley",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212194,30,20,600,"Limited Term Discount: Johnston, Bradley",,,,,,,,,,,,,,,

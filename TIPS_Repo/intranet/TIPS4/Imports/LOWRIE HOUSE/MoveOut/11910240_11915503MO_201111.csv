@@ -1,0 +1,7 @@
+BATCH,,201111,B,10670.0000,
+INVOICE,IN,,11910240,,11/25/2011,4850.0000,"Invoice-Private",,11/25/2011,11/25/2011,,11915503MO,-7010.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,25,121.0000,3025.00,"Basic Service Fee - One Bedroom for Nov: Neely, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,25,73.0000,1825.00,"Resident Care - Level 5 for Nov: Neely, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,11910240,,11/25/2011,5820,"Invoice-Private",,11/25/2011,11/25/2011,,11915503MO,-7010.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3630,3630,"CR:Basic Service F... H.Neely 201111: Neely, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,2190,2190,"CR:Resident Care -... H.Neely 201111: Neely, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,3538.0000,
+INVOICE,IN,,07810234,,07/15/2011,3538.0000,"MoveIn-Seubert. Howard",,07/15/2011,07/15/2011,,07814306,6322.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,17,89.0000,1513,"Basic Service Fee - Studio         : Seubert. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Seubert. Howard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,2000.0000,2000,"New Resident Fee: Seubert. Howard",,,,,,,,,,,,,,,

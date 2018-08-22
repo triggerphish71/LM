@@ -1,0 +1,6 @@
+BATCH,,201210,B,747.1800,
+INVOICE,IN,,01310196,,10/30/2012,747.1800,"MoveIn-Hall. Hildegard",,10/30/2012,10/30/2012,,01314203,4062.8800,,,,,,,,,,
+TRANSACTION,3010,010103013,2,72.0000,144,"H.Hall: Basic Service Fee - Studio: Hall. Hildegard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,2,37.5900,75.18,"H.Hall: Resident Care - Level 21: Hall. Hildegard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Hall. Hildegard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,500.0000,500,"New Resident Fee: Hall. Hildegard",,,,,,,,,,,,,,,

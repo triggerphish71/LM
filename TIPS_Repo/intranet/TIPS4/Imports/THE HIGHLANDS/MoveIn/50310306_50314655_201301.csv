@@ -1,0 +1,5 @@
+BATCH,,201301,B,3135.0000,
+INVOICE,IN,,50310306,,01/01/2013,3135.0000,"January_Rent-Murphy. Paul",,01/01/2013,01/10/2013,,50314655,6870.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,31,75.0000,2325,"Basic Service Fee - Studio: Murphy. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,31,25.0000,775,"Resident Care - Level 2: Murphy. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Murphy. Paul",,,,,,,,,,,,,,,

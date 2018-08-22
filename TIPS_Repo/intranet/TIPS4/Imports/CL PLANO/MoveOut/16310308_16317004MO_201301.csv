@@ -1,0 +1,7 @@
+BATCH,,201301,B,6868.0000,
+INVOICE,IN,,16310308,,01/01/2013,3493.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16317004MO,-1729.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,1333.0000,1333.00,"CR:Limited Term Di... A.Clouden 201301: Clouden, Angela",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,20,108.0000,2160.00,"Basic Service Fee - Studio Deluxe for Jan: Clouden, Angela",,,,,,,,,,,,,,,
+INVOICE,CM,,16310308,,01/01/2013,3375,"Invoice-Private",,01/01/2013,01/10/2013,,16317004MO,-1729.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... A.Clouden 201301: Clouden, Angela",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... A.Clouden 201301: Clouden, Angela",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,5187.0000,
+INVOICE,IN,,13410211,,05/21/2012,2300.0000,"Invoice-Private",,05/21/2012,05/21/2012,,13415499MO,-3382.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,25,92.0000,2300.00,"Basic Service Fee - Studio for May: Noel, Clara Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,13410211,,05/21/2012,2887,"Invoice-Private",,05/21/2012,05/21/2012,,13415499MO,-3382.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2852,2852,"CR:Basic Service F... C.Noel 201205: Noel, Clara Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... C.Noel 201205: Noel, Clara Bernice",,,,,,,,,,,,,,,

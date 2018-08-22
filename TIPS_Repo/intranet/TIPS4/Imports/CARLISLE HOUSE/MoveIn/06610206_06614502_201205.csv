@@ -1,0 +1,5 @@
+BATCH,,201205,B,5027.0000,
+INVOICE,IN,,06610206,,05/03/2012,5027.0000,"MoveIn-May. Margaret",,05/03/2012,05/03/2012,,06614502,5027.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,29,96.0000,2784,"Basic Service Fee - Studio: May. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,29,17.0000,493,"Resident Care - Level 1: May. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: May. Margaret",,,,,,,,,,,,,,,

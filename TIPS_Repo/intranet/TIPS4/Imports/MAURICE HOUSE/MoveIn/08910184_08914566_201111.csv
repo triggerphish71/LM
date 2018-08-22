@@ -1,0 +1,5 @@
+BATCH,,201111,B,3608.0000,
+INVOICE,IN,,08910184,,11/23/2011,3608.0000,"MoveIn-Cervino. Doris",,11/23/2011,11/23/2011,,08914566,9064.0000,,,,,,,,,,
+TRANSACTION,3010,010306089,8,111.0000,888,"Basic Service Fee - Studio: Cervino. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306089,8,65.0000,520,"Resident Care - Level 4: Cervino. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306089,1,2200.0000,2200,"New Resident Fee: Cervino. Doris",,,,,,,,,,,,,,,

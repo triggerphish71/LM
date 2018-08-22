@@ -1,0 +1,7 @@
+BATCH,,201211,B,5120.0000,
+INVOICE,IN,,13710192,,11/02/2012,320.0000,"Invoice-Private",,11/02/2012,11/02/2012,,13714682MO,-4480.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,2,90.0000,180.00,"Basic Service Fee - Studio for Nov: Storey, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,2,70.0000,140.00,"Resident Care - Level 5 for Nov: Storey, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,13710192,,11/02/2012,4800,"Invoice-Private",,11/02/2012,11/02/2012,,13714682MO,-4480.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2700,2700,"CR:Basic Service F... G.Storey 201211: Storey, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,2100,2100,"CR:Resident Care -... G.Storey 201211: Storey, Geraldine",,,,,,,,,,,,,,,

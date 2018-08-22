@@ -1,0 +1,7 @@
+BATCH,,201208,B,360.0000,
+INVOICE,IN,,04910177,,08/01/2012,180.0000,"Invoice-Private",,08/01/2012,08/10/2012,,04913444MO,-3565.8200,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25.00,"Monthly Cable: Snook, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101049,31,5.0000,155.00,"Credit for Limited Term Discount: Snook, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,04910177,,08/01/2012,180,"Invoice-Private",,08/01/2012,08/10/2012,,04913444MO,-3565.8200,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"Credit for Monthly Cable: Snook, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101049,31,5,155,"Limited Term Discount: Snook, Ellen",,,,,,,,,,,,,,,

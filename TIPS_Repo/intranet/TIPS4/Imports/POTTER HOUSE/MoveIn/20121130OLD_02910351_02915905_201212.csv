@@ -1,0 +1,5 @@
+BATCH,,201212,B,4117.0000,
+INVOICE,IN,,02910351,,12/01/2012,4117.0000,"December_Rent-Coldiron. Dallas",,12/01/2012,12/10/2012,,02915905,5774.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,31,100.0000,3100,"D.Coldiron: Basic Service Fee - Studio: Coldiron. Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,31,32.0000,992,"D.Coldiron: Resident Care - Level 2: Coldiron. Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Coldiron. Dallas",,,,,,,,,,,,,,,

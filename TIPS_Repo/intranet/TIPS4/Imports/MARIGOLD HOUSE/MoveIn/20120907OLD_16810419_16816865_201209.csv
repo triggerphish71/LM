@@ -1,0 +1,5 @@
+BATCH,,201209,B,2914.0000,
+INVOICE,IN,,16810419,,08/31/2012,94.0000,"MoveIn-Bowles. Helen",,08/31/2012,08/31/2012,,16816865,2914.0000,,,,,,,,,,
+TRANSACTION,3014,010313168,1,94.0000,94,"Basic Service Fee - Studio Deluxe: Bowles. Helen",,,,,,,,,,,,,,,
+INVOICE,IN,,16810419,,09/01/2012,2820.0000,"September_Rent-Bowles. Helen",,09/01/2012,09/10/2012,,16816865,2914.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,30,94.0000,2820,"Basic Service Fee - Studio Deluxe: Bowles. Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201303,B,1002.0000,
+INVOICE,IN,,06310265,,03/29/2013,1002.0000,"MoveIn-Broadsword. William",,03/29/2013,03/29/2013,,06314989,5797.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,3,88.0000,264,"W.Broadsword: Basic Service Fee - Studio: Broadsword. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,3,71.0000,213,"W.Broadsword: Resident Care - Level 5: Broadsword. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Broadsword. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,500.0000,500,"New Resident Fee: Broadsword. William",,,,,,,,,,,,,,,

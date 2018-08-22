@@ -1,0 +1,7 @@
+BATCH,,201203,B,4092.0000,
+INVOICE,IN,,13310352,,03/01/2012,248.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13315298MO,-3596.0000,,,,,,,,,,
+TRANSACTION,3027,010310133,2,32.0000,64.00,"Resident Care - Level 2 for Mar: Shoaff, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,2,92.0000,184.00,"Room and Board - Studio for Mar: Shoaff, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,13310352,,03/01/2012,3844,"Invoice-Private",,03/01/2012,03/10/2012,,13315298MO,-3596.0000,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... C.Shoaff 201203: Shoaff, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Room and Board ... C.Shoaff 201203: Shoaff, Carolyn",,,,,,,,,,,,,,,

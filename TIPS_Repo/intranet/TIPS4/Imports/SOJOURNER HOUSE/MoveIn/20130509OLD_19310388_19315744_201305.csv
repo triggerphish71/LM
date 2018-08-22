@@ -1,0 +1,6 @@
+BATCH,,201305,B,5111.0000,
+INVOICE,IN,,19310388,,05/09/2013,5111.0000,"MoveIn-Smith. Joe",,05/09/2013,05/09/2013,,19315744,5111.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,23,114.0000,2622,"Basic Service Fee - One Bedroom: Smith. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,23,33.0000,759,"Resident Care - Level 2: Smith. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Smith. Joe",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,23,10.0000,230,"CC Meals: Smith. Joe",,,,,,,,,,,,,,,

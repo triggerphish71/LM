@@ -1,0 +1,8 @@
+BATCH,,201109,B,5376.0000,
+INVOICE,IN,,11910215,,09/10/2011,2140.0000,"Invoice-Private",,09/10/2011,09/10/2011,,11915404MO,-4439.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,20,89.0000,1780.00,"Basic Service Fee - Studio for Sep: Dominsky, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,20,18.0000,360.00,"Resident Care - Level 1 for Sep: Dominsky, Ida",,,,,,,,,,,,,,,
+INVOICE,CM,,11910215,,09/10/2011,3236,"Invoice-Private",,09/10/2011,09/10/2011,,11915404MO,-4439.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2670,2670,"CR:Basic Service F... I.Dominsky 201109: Dominsky, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... I.Dominsky 201109: Dominsky, Ida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,540,540,"CR:Resident Care -... I.Dominsky 201109: Dominsky, Ida",,,,,,,,,,,,,,,

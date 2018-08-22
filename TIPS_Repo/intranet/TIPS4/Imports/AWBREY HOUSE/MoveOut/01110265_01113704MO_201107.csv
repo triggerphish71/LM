@@ -1,0 +1,7 @@
+BATCH,,201107,B,4662.0000,
+INVOICE,IN,,01110265,,07/14/2011,1450.4000,"Invoice-Private",,07/14/2011,07/14/2011,,01113704MO,-4972.8000,,,,,,,,,,
+TRANSACTION,3020,010101011,14,73.0000,1022.00,"Basic Service Fee - Studio for Jul: Mathers, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,14,30.6000,428.40,"Resident Care - Level 18 for Jul: Mathers, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,01110265,,07/14/2011,3211.6,"Invoice-Private",,07/14/2011,07/14/2011,,01113704MO,-4972.8000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2263,2263,"CR:Basic Service F... E.Mathers 201107: Mathers, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,948.6,948.6,"CR:Resident Care -... E.Mathers 201107: Mathers, Edna",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201111,B,3225.0000,
+INVOICE,IN,,17510263,,11/11/2011,3225.0000,"MoveIn-Francis. Faye",,11/11/2011,11/11/2011,,17517291,3225.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,20,73.0000,1460,"Basic Service Fee - Studio Deluxe: Francis. Faye",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,20,12.0000,240,"Resident Care - Level 1: Francis. Faye",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: Francis. Faye",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: Francis. Faye",,,,,,,,,,,,,,,

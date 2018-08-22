@@ -1,0 +1,7 @@
+BATCH,,201307,B,8159.0000,
+INVOICE,IN,,06610164,,07/10/2013,1990.0000,"Invoice-Private",,07/10/2013,07/10/2013,,06615119MO,-4179.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,10,115.0000,1150.00,"Basic Service Fee - Deluxe for Jul: Klingenberger, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,10,84.0000,840.00,"Resident Care - Level 6 for Jul: Klingenberger, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,06610164,,07/10/2013,6169,"Invoice-Private",,07/10/2013,07/10/2013,,06615119MO,-4179.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3565,3565,"CR:Basic Service F... C.Klingenberger 201307: Klingenberger, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2604,2604,"CR:Resident Care -... C.Klingenberger 201307: Klingenberger, Charles",,,,,,,,,,,,,,,

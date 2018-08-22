@@ -1,0 +1,5 @@
+BATCH,,201112,B,70.0000,
+INVOICE,IN,,15410173,,12/01/2011,35.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15414625MO,-4867.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Wesch, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,15410173,,12/01/2011,35,"Invoice-Private",,12/01/2011,12/10/2011,,15414625MO,-4867.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Wesch, Evelyn",,,,,,,,,,,,,,,

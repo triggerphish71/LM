@@ -1,0 +1,5 @@
+BATCH,,201208,B,3000.0000,
+INVOICE,IN,,14910184,,07/01/2012,1500.0000,"July_Rent-Glackin. Joan",,07/01/2012,07/10/2012,,14914729,6440.0000,,,,,,,,,,
+TRANSACTION,3216,010212149,1,1500.0000,1500,"Monthly Deferral Charge: Glackin. Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,14910184,,07/01/2012,1500.0000,"July_Rent-Glackin. Joan",,07/01/2012,07/10/2012,,14914729,6440.0000,,,,,,,,,,
+TRANSACTION,3216,010212149,1,1500,1500,"New Resident Fee Deferred: Glackin. Joan",,,,,,,,,,,,,,,

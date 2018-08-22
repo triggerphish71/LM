@@ -1,0 +1,8 @@
+BATCH,,201108,B,5162.0000,
+INVOICE,IN,,11710182,,08/20/2011,2062.0000,"Invoice-Private",,08/20/2011,08/20/2011,,11713622MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,1,62.0000,62.00,"CR:Limited Term Di... C.Schirg 201108: Schirg, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305117,20,83.0000,1660.00,"Basic Service Fee - Studio for Aug: Schirg, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,20,17.0000,340.00,"Resident Care - Level 1 for Aug: Schirg, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,11710182,,08/20/2011,3100,"Invoice-Private",,08/20/2011,08/20/2011,,11713622MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2573,2573,"CR:Basic Service F... C.Schirg 201108: Schirg, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,527,527,"CR:Resident Care -... C.Schirg 201108: Schirg, Carl",,,,,,,,,,,,,,,

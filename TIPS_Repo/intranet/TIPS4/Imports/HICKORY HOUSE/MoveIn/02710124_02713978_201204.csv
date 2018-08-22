@@ -1,0 +1,5 @@
+BATCH,,201204,B,4465.0000,
+INVOICE,IN,,02710124,,04/01/2012,4465.0000,"April_Rent-Abbe. Berta",,04/01/2012,04/10/2012,,02713978,6286.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,30,116.0000,3480,"Basic Service Fee - One Bedroom: Abbe. Berta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202027,30,32.0000,960,"Resident Care - Level 2: Abbe. Berta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Abbe. Berta",,,,,,,,,,,,,,,

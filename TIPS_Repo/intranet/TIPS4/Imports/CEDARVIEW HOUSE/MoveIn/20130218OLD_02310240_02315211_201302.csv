@@ -1,0 +1,5 @@
+BATCH,,201302,B,3260.0000,
+INVOICE,IN,,02310240,,02/16/2013,3260.0000,"MoveIn-Johnson. Merle",,02/16/2013,02/16/2013,,02315211,6230.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,13,95.0000,1235,"Basic Service Fee - Studio: Johnson. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Johnson. Merle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Johnson. Merle",,,,,,,,,,,,,,,

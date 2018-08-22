@@ -1,0 +1,8 @@
+BATCH,,201203,B,6750.8800,
+INVOICE,IN,,00710178,,03/01/2012,2038.2600,"Invoice-Private",,03/01/2012,03/10/2012,,00713373MO,-2674.3600,,,,,,,,,,
+TRANSACTION,3320,010101007,1,62.0000,62.00,"CR:Limited Term Di... V.Zolotoff 201203: Zolotoff, Varee",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,13,84.0000,1092.00,"Basic Service Fee - Studio for Mar: Zolotoff, Varee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,13,68.0200,884.26,"Resident Care - Level 38 for Mar: Zolotoff, Varee",,,,,,,,,,,,,,,
+INVOICE,CM,,00710178,,03/01/2012,4712.62,"Invoice-Private",,03/01/2012,03/10/2012,,00713373MO,-2674.3600,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2604,2604,"CR:Basic Service F... V.Zolotoff 201203: Zolotoff, Varee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,2108.62,2108.62,"CR:Resident Care -... V.Zolotoff 201203: Zolotoff, Varee",,,,,,,,,,,,,,,

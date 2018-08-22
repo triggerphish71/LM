@@ -1,0 +1,8 @@
+BATCH,,201201,B,7345.0000,
+INVOICE,IN,,18410157,,01/01/2012,3538.0000,"Invoice-Private",,01/01/2012,01/10/2012,,18415184MO,-269.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,29,96.0000,2784.00,"Basic Service Fee - Studio for Jan: Dawsey, Nell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,29,26.0000,754.00,"Resident Care - Level 2 for Jan: Dawsey, Nell",,,,,,,,,,,,,,,
+INVOICE,CM,,18410157,,01/01/2012,3807,"Invoice-Private",,01/01/2012,01/10/2012,,18415184MO,-269.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2976,2976,"CR:Basic Service F... N.Dawsey 201201: Dawsey, Nell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"CR:Monthly Cable... N.Dawsey 201201: Dawsey, Nell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,806,806,"CR:Resident Care -... N.Dawsey 201201: Dawsey, Nell",,,,,,,,,,,,,,,

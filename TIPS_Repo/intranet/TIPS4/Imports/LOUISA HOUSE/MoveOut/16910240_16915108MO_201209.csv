@@ -1,0 +1,8 @@
+BATCH,,201209,B,4955.7200,
+INVOICE,IN,,16910240,,09/01/2012,2307.3200,"Invoice-Private",,09/01/2012,09/10/2012,,16915108MO,-341.0800,,,,,,,,,,
+TRANSACTION,3320,010103169,1,630.0000,630.00,"CR:Limited Term Di... H.Follis 201209: Follis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103169,19,31.0000,589.00,"Basic Service Fee - Second Resident for Sep: Follis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,19,57.2800,1088.32,"Resident Care - Level 32 for Sep: Follis, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,16910240,,09/01/2012,2648.4,"Invoice-Private",,09/01/2012,09/10/2012,,16915108MO,-341.0800,,,,,,,,,,
+TRANSACTION,3020,010103169,1,930,930,"CR:Basic Service F... H.Follis 201209: Follis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,1718.4,1718.4,"CR:Resident Care -... H.Follis 201209: Follis, Helen",,,,,,,,,,,,,,,

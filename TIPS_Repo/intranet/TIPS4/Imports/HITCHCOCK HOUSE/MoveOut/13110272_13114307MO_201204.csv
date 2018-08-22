@@ -1,0 +1,7 @@
+BATCH,,201204,B,6345.0000,
+INVOICE,IN,,13110272,,04/05/2012,2115.0000,"Invoice-Private",,04/05/2012,04/05/2012,,13114307MO,-2115.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,15,100.0000,1500.00,"Basic Service Fee - Studio for Apr: Echols, Timothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,15,41.0000,615.00,"Resident Care - Level 3 for Apr: Echols, Timothy",,,,,,,,,,,,,,,
+INVOICE,CM,,13110272,,04/05/2012,4230,"Invoice-Private",,04/05/2012,04/05/2012,,13114307MO,-2115.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3000,3000,"CR:Basic Service F... T.Echols 201204: Echols, Timothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,1230,1230,"CR:Resident Care -... T.Echols 201204: Echols, Timothy",,,,,,,,,,,,,,,

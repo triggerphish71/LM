@@ -1,0 +1,8 @@
+BATCH,,201201,B,5800.0000,
+INVOICE,IN,,18910255,,01/14/2012,1708.0000,"Invoice-Private",,01/14/2012,01/14/2012,,18915040MO,-2384.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,14,89.0000,1246.00,"Basic Service Fee - Studio for Jan: Sowles, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,14,33.0000,462.00,"Resident Care - Level 2 for Jan: Sowles, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,18910255,,01/14/2012,4092,"Invoice-Private",,01/14/2012,01/14/2012,,18915040MO,-2384.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2759,2759,"CR:Basic Service F... B.Sowles 201201: Sowles, Betty",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... B.Sowles 201201: Sowles, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,1023,1023,"CR:Resident Care -... B.Sowles 201201: Sowles, Betty",,,,,,,,,,,,,,,

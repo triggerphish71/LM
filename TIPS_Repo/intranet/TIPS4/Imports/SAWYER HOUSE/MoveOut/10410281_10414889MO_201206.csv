@@ -1,0 +1,8 @@
+BATCH,,201206,B,8053.2000,
+INVOICE,IN,,10410281,,06/22/2012,2421.2800,"Invoice-Private",,06/22/2012,06/22/2012,,10414889MO,-7901.8700,,,,,,,,,,
+TRANSACTION,3020,010101104,16,103.0000,1648.00,"Basic Service Fee - One Bedroom for Jun: Wilson, Ella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,16,48.3300,773.28,"Resident Care - Level 27 for Jun: Wilson, Ella",,,,,,,,,,,,,,,
+INVOICE,CM,,10410281,,06/22/2012,5631.92,"Invoice-Private",,06/22/2012,06/22/2012,,10414889MO,-7901.8700,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2472,2472,"CR:Basic Service F... E.Wilson 201206: Wilson, Ella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000,2000,"CR:New Resident Fe... E.Wilson 201206: Wilson, Ella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,1159.92,1159.92,"CR:Resident Care -... E.Wilson 201206: Wilson, Ella",,,,,,,,,,,,,,,

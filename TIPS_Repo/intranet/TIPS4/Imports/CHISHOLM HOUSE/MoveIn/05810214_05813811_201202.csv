@@ -1,0 +1,5 @@
+BATCH,,201202,B,1517.0000,
+INVOICE,IN,,05810214,,02/24/2012,1517.0000,"MoveIn-Box. Lola",,02/24/2012,02/24/2012,,05813811,4084.0000,,,,,,,,,,
+TRANSACTION,3010,010202058,6,82.0000,492,"Basic Service Fee - Studio: Box. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25,"Monthly Cable: Box. Lola",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000.0000,1000,"New Resident Fee: Box. Lola",,,,,,,,,,,,,,,

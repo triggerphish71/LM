@@ -1,0 +1,5 @@
+BATCH,,201206,B,2995.0000,
+INVOICE,IN,,18910303,,06/01/2012,2995.0000,"June_Rent-Posler. Eugene",,06/01/2012,06/10/2012,,18915267,5510.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,30,89.0000,2670,"Basic Service Fee - Studio: Posler. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Posler. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300,"CC Meals: Posler. Eugene",,,,,,,,,,,,,,,

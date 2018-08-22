@@ -1,0 +1,8 @@
+BATCH,,201202,B,7323.0000,
+INVOICE,IN,,53210251,,02/01/2012,3146.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53215170MO,-1031.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,22,114.0000,2508.00,"Basic Service Fee - Studio for Feb: Berge, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,22,29.0000,638.00,"Resident Care - Level 2 for Feb: Berge, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,53210251,,02/01/2012,4177,"Invoice-Private",,02/01/2012,02/10/2012,,53215170MO,-1031.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3306,3306,"CR:Basic Service F... H.Berge 201202: Berge, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... H.Berge 201202: Berge, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,841,841,"CR:Resident Care -... H.Berge 201202: Berge, Harold",,,,,,,,,,,,,,,

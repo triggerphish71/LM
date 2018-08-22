@@ -1,0 +1,7 @@
+BATCH,,201208,B,126.0000,
+INVOICE,IN,,14410121,,08/01/2012,63.0000,"Invoice-Private",,08/01/2012,08/10/2012,,14415205MO,-3845.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Robinson, May",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Robinson, May",,,,,,,,,,,,,,,
+INVOICE,CM,,14410121,,08/01/2012,63,"Invoice-Private",,08/01/2012,08/10/2012,,14415205MO,-3845.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Robinson, May",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Robinson, May",,,,,,,,,,,,,,,

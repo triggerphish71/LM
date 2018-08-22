@@ -1,0 +1,7 @@
+BATCH,,201212,B,4935.0000,
+INVOICE,IN,,15510271,,12/16/2012,1680.0000,"Invoice-Private",,12/16/2012,12/16/2012,,15515618MO,-4855.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,16,89.0000,1424.00,"Basic Service Fee - Studio for Dec: Brydon, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,16,16.0000,256.00,"Resident Care - Level 1 for Dec: Brydon, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,15510271,,12/16/2012,3255,"Invoice-Private",,12/16/2012,12/16/2012,,15515618MO,-4855.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... L.Brydon 201212: Brydon, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,496,496,"CR:Resident Care -... L.Brydon 201212: Brydon, Louise",,,,,,,,,,,,,,,

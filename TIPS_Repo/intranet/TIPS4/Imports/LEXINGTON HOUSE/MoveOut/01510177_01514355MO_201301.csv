@@ -1,0 +1,8 @@
+BATCH,,201301,B,6513.2800,
+INVOICE,IN,,01510177,,01/12/2013,2577.5200,"Invoice-Private",,01/12/2013,01/12/2013,,01514355MO,-1358.2400,,,,,,,,,,
+TRANSACTION,3320,010103015,1,1054.0000,1054.00,"CR:Limited Term Di... E.Nelson 201301: Nelson, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,12,84.0000,1008.00,"Basic Service Fee - Studio for Jan: Nelson, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,12,42.9600,515.52,"Resident Care - Level 24 for Jan: Nelson, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,01510177,,01/12/2013,3935.76,"Invoice-Private",,01/12/2013,01/12/2013,,01514355MO,-1358.2400,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:Basic Service F... E.Nelson 201301: Nelson, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,1331.76,1331.76,"CR:Resident Care -... E.Nelson 201301: Nelson, Ethel",,,,,,,,,,,,,,,

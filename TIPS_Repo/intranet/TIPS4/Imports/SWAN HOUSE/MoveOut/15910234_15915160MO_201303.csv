@@ -1,0 +1,6 @@
+BATCH,,201303,B,5406.0000,
+INVOICE,IN,,15910234,,03/24/2013,2400.0000,"Invoice-Private",,03/24/2013,03/24/2013,,15915160MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,25,96.0000,2400.00,"Basic Service Fee- One Bedroom Premium for Mar: Tierney, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,15910234,,03/24/2013,3006,"Invoice-Private",,03/24/2013,03/24/2013,,15915160MO,-3486.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,2976,2976,"CR:Basic Service F... V.Tierney 201303: Tierney, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... V.Tierney 201303: Tierney, Virginia",,,,,,,,,,,,,,,

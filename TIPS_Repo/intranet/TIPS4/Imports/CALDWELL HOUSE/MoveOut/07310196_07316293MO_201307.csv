@@ -1,0 +1,6 @@
+BATCH,,201307,B,3989.0000,
+INVOICE,IN,,07310196,,07/18/2013,1458.0000,"Invoice-Private",,07/18/2013,07/18/2013,,07316293MO,-3604.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,18,81.0000,1458.00,"Basic Service Fee - Studio for Jul: Fine, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,07310196,,07/18/2013,2531,"Invoice-Private",,07/18/2013,07/18/2013,,07316293MO,-3604.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2511,2511,"CR:Basic Service F... F.Fine 201307: Fine, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... F.Fine 201307: Fine, Florence",,,,,,,,,,,,,,,

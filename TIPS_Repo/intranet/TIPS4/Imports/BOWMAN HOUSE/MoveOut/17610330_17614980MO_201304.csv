@@ -1,0 +1,6 @@
+BATCH,,201304,B,5347.0000,
+INVOICE,IN,,17610330,,04/01/2013,1957.0000,"Invoice-Private",,04/01/2013,04/10/2013,,17614980MO,-1433.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,19,103.0000,1957.00,"Basic Service Fee - One Bedroom for Apr: Sanderson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,17610330,,04/01/2013,3390,"Invoice-Private",,04/01/2013,04/10/2013,,17614980MO,-1433.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,3090,3090,"CR:Basic Service F... J.Sanderson 201304: Sanderson, John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... J.Sanderson 201304: Sanderson, John",,,,,,,,,,,,,,,

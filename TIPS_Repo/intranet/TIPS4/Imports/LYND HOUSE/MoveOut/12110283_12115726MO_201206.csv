@@ -1,0 +1,7 @@
+BATCH,,201206,B,2530.0000,
+INVOICE,IN,,12110283,,06/01/2012,1265.0000,"Invoice-Private",,06/01/2012,06/10/2012,,12115726MO,-2360.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Jordan, Maureen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,30,41.0000,1230.00,"Credit for Limited Term Discount: Jordan, Maureen",,,,,,,,,,,,,,,
+INVOICE,CM,,12110283,,06/01/2012,1265,"Invoice-Private",,06/01/2012,06/10/2012,,12115726MO,-2360.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Jordan, Maureen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,30,41,1230,"Limited Term Discount: Jordan, Maureen",,,,,,,,,,,,,,,

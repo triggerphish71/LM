@@ -1,0 +1,8 @@
+BATCH,,201208,B,4564.0000,
+INVOICE,IN,,14010232,,08/01/2012,763.0000,"Invoice-Private",,08/01/2012,08/10/2012,,14013928MO,-3038.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,1,713.0000,713.00,"CR:Limited Term Di... B.Earley 201208: Earley, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309140,1,50.0000,50.00,"Late Fee Adjustment: Earley, Ben",,,,,,,,,,,,,,,
+INVOICE,CM,,14010232,,08/01/2012,3801,"Invoice-Private",,08/01/2012,08/10/2012,,14013928MO,-3038.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2728,2728,"CR:Basic Service F... B.Earley 201208: Earley, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1023,1023,"CR:Resident Care -... B.Earley 201208: Earley, Ben",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309140,1,50,50,"Late Fee Adjustment: Earley, Ben",,,,,,,,,,,,,,,

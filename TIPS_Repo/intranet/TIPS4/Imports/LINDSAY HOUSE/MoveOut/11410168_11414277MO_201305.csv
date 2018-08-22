@@ -1,0 +1,7 @@
+BATCH,,201305,B,3325.0000,
+INVOICE,IN,,11410168,,05/01/2013,380.0000,"Invoice-Private",,05/01/2013,05/10/2013,,11414277MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,4,60.0000,240.00,"Basic Service Fee - Studio for May: Stone, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,4,35.0000,140.00,"Swan Personal Care - L2 for May: Stone, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,11410168,,05/01/2013,2945,"Invoice-Private",,05/01/2013,05/10/2013,,11414277MO,-2565.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,1860,1860,"CR:Basic Service F... J.Stone 201305: Stone, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,1085,1085,"CR:Swan Personal C... J.Stone 201305: Stone, Jack",,,,,,,,,,,,,,,

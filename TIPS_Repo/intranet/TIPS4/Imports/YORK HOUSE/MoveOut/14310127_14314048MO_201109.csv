@@ -1,0 +1,7 @@
+BATCH,,201109,B,190.0000,
+INVOICE,IN,,14310127,,09/01/2011,95.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14314048MO,-6321.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: Pattison, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309143,30,2.0000,60.00,"Credit for Limited Term Discount: Pattison, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,14310127,,09/01/2011,95,"Invoice-Private",,09/01/2011,09/10/2011,,14314048MO,-6321.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: Pattison, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309143,30,2,60,"Limited Term Discount: Pattison, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,3690.0000,
+INVOICE,IN,,14810278,,04/01/2012,390.0000,"Invoice-Private",,04/01/2012,04/10/2012,,14814892MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,390.0000,390.00,"CR:Limited Term Di... W.Smith 201204: Smith, William",,,,,,,,,,,,,,,
+INVOICE,CM,,14810278,,04/01/2012,3300,"Invoice-Private",,04/01/2012,04/10/2012,,14814892MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2730,2730,"CR:Basic Service F... W.Smith 201204: Smith, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... W.Smith 201204: Smith, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,540,540,"CR:Resident Care -... W.Smith 201204: Smith, William",,,,,,,,,,,,,,,

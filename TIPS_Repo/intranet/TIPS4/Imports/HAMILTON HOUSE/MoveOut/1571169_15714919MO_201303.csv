@@ -1,0 +1,7 @@
+BATCH,,201303,B,5499.0000,
+INVOICE,IN,,1571169,,03/08/2013,1128.0000,"Invoice-Private",,03/08/2013,03/08/2013,,15714919MO,-3243.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,8,61.0000,488.00,"Basic Service Fee - Studio for Mar: Keller, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,8,80.0000,640.00,"Resident Care - Level 6 for Mar: Keller, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,1571169,,03/08/2013,4371,"Invoice-Private",,03/08/2013,03/08/2013,,15714919MO,-3243.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,1891,1891,"CR:Basic Service F... H.Keller 201303: Keller, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,2480,2480,"CR:Resident Care -... H.Keller 201303: Keller, Helen",,,,,,,,,,,,,,,

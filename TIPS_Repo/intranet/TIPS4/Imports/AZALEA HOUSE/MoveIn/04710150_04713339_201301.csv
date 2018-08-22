@@ -1,0 +1,5 @@
+BATCH,,201301,B,3041.0000,
+INVOICE,IN,,04710150,,01/11/2013,3041.0000,"MoveIn-Beckham. James",,01/11/2013,01/11/2013,,04713339,3041.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,21,96.0000,2016,"Basic Service Fee - Studio         : Beckham. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Beckham. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Beckham. James",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,3096.0000,
+INVOICE,IN,,00810258,,12/01/2012,3096.0000,"December_Rent-Nelson. Kenneth",,12/01/2012,12/10/2012,,00814902,4722.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,31,83.0000,2573,"Basic Service Fee - Studio: Nelson. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,31,16.0000,496,"Resident Care - Level 1: Nelson. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Nelson. Kenneth",,,,,,,,,,,,,,,

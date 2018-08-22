@@ -1,0 +1,8 @@
+BATCH,,201108,B,4055.0000,
+INVOICE,IN,,17110124,,08/06/2011,742.0000,"Invoice-Private",,08/06/2011,08/06/2011,,17114679MO,-2571.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,7,90.0000,630.00,"Basic Service Fee - Studio for Aug: Craps, Derema Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,7,16.0000,112.00,"Resident Care - Level 1 for Aug: Craps, Derema Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,17110124,,08/06/2011,3313,"Invoice-Private",,08/06/2011,08/06/2011,,17114679MO,-2571.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2790,2790,"CR:Basic Service F... D.Craps 201108: Craps, Derema Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... D.Craps 201108: Craps, Derema Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,496,496,"CR:Resident Care -... D.Craps 201108: Craps, Derema Joyce",,,,,,,,,,,,,,,

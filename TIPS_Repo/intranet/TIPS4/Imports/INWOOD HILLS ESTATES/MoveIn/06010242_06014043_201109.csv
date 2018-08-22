@@ -1,0 +1,5 @@
+BATCH,,201109,B,4660.0000,
+INVOICE,IN,,06010242,,09/01/2011,4660.0000,"September_Rent-Peyton. Myron",,09/01/2011,09/10/2011,,06014043,7586.0000,,,,,,,,,,
+TRANSACTION,3010,010206060,30,106.0000,3180,"Basic Service Fee - One Bedroom: Peyton. Myron",,,,,,,,,,,,,,,
+TRANSACTION,3017,010206060,30,48.0000,1440,"Resident Care - Level 4: Peyton. Myron",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40,"Monthly Cable: Peyton. Myron",,,,,,,,,,,,,,,

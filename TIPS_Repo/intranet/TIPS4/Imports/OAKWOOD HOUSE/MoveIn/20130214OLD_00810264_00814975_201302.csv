@@ -1,0 +1,6 @@
+BATCH,,201302,B,3012.0000,
+INVOICE,IN,,00810264,,02/14/2013,3012.0000,"MoveIn-Hutton. David",,02/14/2013,02/14/2013,,00814975,3012.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,15,83.0000,1245,"Basic Service Fee - Studio: Hutton. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,15,16.0000,240,"Resident Care - Level 1: Hutton. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Hutton. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202008,1,1500.0000,1500,"New Resident Fee: Hutton. David",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201210,B,3648.3900,
+INVOICE,IN,,51710106,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,51713112MO,-5456.1200,,,,,,,,,,
+TRANSACTION,3320,010103517,1,62.0000,62.00,"CR:Limited Term Di... N.Claussen 201210: Claussen, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,51710106,,10/01/2012,3586.39,"Invoice-Private",,10/01/2012,10/10/2012,,51713112MO,-5456.1200,,,,,,,,,,
+TRANSACTION,3020,010103517,1,2976,2976,"CR:Basic Service F... N.Claussen 201210: Claussen, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,610.39,610.39,"CR:Resident Care -... N.Claussen 201210: Claussen, Norma",,,,,,,,,,,,,,,

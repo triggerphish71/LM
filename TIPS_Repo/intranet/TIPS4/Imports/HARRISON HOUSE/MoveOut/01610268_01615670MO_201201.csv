@@ -1,0 +1,8 @@
+BATCH,,201201,B,3733.0000,
+INVOICE,IN,,01610268,,01/05/2012,515.0000,"Invoice-Private",,01/05/2012,01/05/2012,,01615670MO,-2703.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,5,86.0000,430.00,"Basic Service Fee - Studio for Jan: Brumley, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,5,17.0000,85.00,"Resident Care - Level 1 for Jan: Brumley, Merle",,,,,,,,,,,,,,,
+INVOICE,CM,,01610268,,01/05/2012,3218,"Invoice-Private",,01/05/2012,01/05/2012,,01615670MO,-2703.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... M.Brumley 201201: Brumley, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... M.Brumley 201201: Brumley, Merle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,527,527,"CR:Resident Care -... M.Brumley 201201: Brumley, Merle",,,,,,,,,,,,,,,

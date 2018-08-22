@@ -1,0 +1,5 @@
+BATCH,,201303,B,124.0000,
+INVOICE,IN,,52610249,,03/01/2013,62.0000,"Invoice-Private",,03/01/2013,03/10/2013,,52617571MO,-7840.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,31,2.0000,62.00,"Credit for Limited Term Discount: Mehleis, Paul ",,,,,,,,,,,,,,,
+INVOICE,CM,,52610249,,03/01/2013,62,"Invoice-Private",,03/01/2013,03/10/2013,,52617571MO,-7840.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,31,2,62,"Limited Term Discount: Mehleis, Paul ",,,,,,,,,,,,,,,

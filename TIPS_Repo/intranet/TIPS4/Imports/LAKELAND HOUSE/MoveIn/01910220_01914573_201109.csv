@@ -1,0 +1,6 @@
+BATCH,,201109,B,1993.0000,
+INVOICE,IN,,01910220,,09/29/2011,1993.0000,"MoveIn-Inmon. Betty",,09/29/2011,09/29/2011,,01914573,5368.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,2,91.0000,182,"Basic Service Fee - Studio         : Inmon. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,2,17.0000,34,"Resident Care - Level 1: Inmon. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27,"Monthly Cable: Inmon. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202019,1,1750.0000,1750,"New Resident Fee: Inmon. Betty",,,,,,,,,,,,,,,

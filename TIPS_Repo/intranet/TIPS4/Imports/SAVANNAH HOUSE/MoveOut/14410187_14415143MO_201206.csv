@@ -1,0 +1,5 @@
+BATCH,,201206,B,56.0000,
+INVOICE,IN,,14410187,,06/01/2012,28.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14415143MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Sullivan, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,14410187,,06/01/2012,28,"Invoice-Private",,06/01/2012,06/10/2012,,14415143MO,-2998.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Sullivan, Barbara",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,3537.0000,
+INVOICE,IN,,03810237,,05/14/2012,3537.0000,"MoveIn-Robb. Donald",,05/14/2012,05/14/2012,,03814198,3537.0000,,,,,,,,,,
+TRANSACTION,3010,010103038,18,84.0000,1512,"Basic Service Fee - Studio: Robb. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Robb. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Robb. Donald",,,,,,,,,,,,,,,

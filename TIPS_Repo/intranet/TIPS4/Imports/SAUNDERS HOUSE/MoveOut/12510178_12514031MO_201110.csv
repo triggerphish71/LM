@@ -1,0 +1,5 @@
+BATCH,,201110,B,17.0000,
+INVOICE,IN,,12510178,,10/01/2011,8.5000,"Invoice-Private",,10/01/2011,10/10/2011,,12514031MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3019,010211125,1,8.5000,8.50,"Additional Service Charge: Hughes, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,12510178,,10/01/2011,8.5,"Invoice-Private",,10/01/2011,10/10/2011,,12514031MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3019,010211125,1,8.5,8.5,"Credit for Additional Service Charge: Hughes, Clifford",,,,,,,,,,,,,,,

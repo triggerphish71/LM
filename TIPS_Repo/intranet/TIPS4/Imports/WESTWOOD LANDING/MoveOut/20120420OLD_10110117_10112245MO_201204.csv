@@ -1,0 +1,8 @@
+BATCH,,201204,B,7686.0000,
+INVOICE,IN,,10110117,,04/19/2012,3366.0000,"Invoice-Private",,04/19/2012,04/19/2012,,10112245MO,-4767.0000,,,,,,,,,,
+TRANSACTION,3320,010305101,1,630.0000,630.00,"CR:Limited Term Di... E.Pence 201204: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305101,19,91.0000,1729.00,"Basic Service Fee - Studio for Apr: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,19,53.0000,1007.00,"Resident Care - Level 4 for Apr: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,
+INVOICE,CM,,10110117,,04/19/2012,4320,"Invoice-Private",,04/19/2012,04/19/2012,,10112245MO,-4767.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,2730,2730,"CR:Basic Service F... E.Pence 201204: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,1590,1590,"CR:Resident Care -... E.Pence 201204: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,

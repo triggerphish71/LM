@@ -1,0 +1,7 @@
+BATCH,,201105,B,3888.0000,
+INVOICE,IN,,17410216,,05/05/2011,540.0000,"Invoice-Private",,05/05/2011,05/05/2011,,17413873MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,5,92.0000,460.00,"Basic Service Fee - Studio for May: Holmes, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,5,16.0000,80.00,"Resident Care - Level 1 for May: Holmes, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17410216,,05/05/2011,3348,"Invoice-Private",,05/05/2011,05/05/2011,,17413873MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2852,2852,"CR:Basic Service F... M.Holmes 201105: Holmes, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,496,496,"CR:Resident Care -... M.Holmes 201105: Holmes, Mary",,,,,,,,,,,,,,,

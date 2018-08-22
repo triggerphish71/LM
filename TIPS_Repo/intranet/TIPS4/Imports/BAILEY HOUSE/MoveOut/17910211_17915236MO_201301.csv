@@ -1,0 +1,7 @@
+BATCH,,201301,B,5320.0000,
+INVOICE,IN,,17910211,,01/08/2013,1197.0000,"Invoice-Private",,01/08/2013,01/08/2013,,17915236MO,-2926.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,9,82.0000,738.00,"Basic Service Fee - Studio for Jan: Cotten, Monterey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,9,51.0000,459.00,"Resident Care - Level 4 for Jan: Cotten, Monterey",,,,,,,,,,,,,,,
+INVOICE,CM,,17910211,,01/08/2013,4123,"Invoice-Private",,01/08/2013,01/08/2013,,17915236MO,-2926.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Basic Service F... M.Cotten 201301: Cotten, Monterey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,1581,1581,"CR:Resident Care -... M.Cotten 201301: Cotten, Monterey",,,,,,,,,,,,,,,

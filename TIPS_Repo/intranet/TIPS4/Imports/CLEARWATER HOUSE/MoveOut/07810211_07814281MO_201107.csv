@@ -1,0 +1,7 @@
+BATCH,,201107,B,3931.0000,
+INVOICE,IN,,07810211,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,07814281MO,-3896.0000,,,,,,,,,,
+TRANSACTION,3320,010104078,1,62.0000,62.00,"CR:Limited Term Di... L.Simkins 201107: Simkins, LC",,,,,,,,,,,,,,,
+INVOICE,CM,,07810211,,07/01/2011,3869,"Invoice-Private",,07/01/2011,07/10/2011,,07814281MO,-3896.0000,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... L.Simkins 201107: Simkins, LC",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,899,899,"CR:Resident Care -... L.Simkins 201107: Simkins, LC",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2945,2945,"CR:Room and Board ... L.Simkins 201107: Simkins, LC",,,,,,,,,,,,,,,

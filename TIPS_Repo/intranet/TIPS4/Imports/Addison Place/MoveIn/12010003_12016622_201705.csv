@@ -1,0 +1,6 @@
+BATCH,,201705,B,4837.8700,
+INVOICE,IN,,12010003,,05/30/2017,4837.8700,"MoveIn-Stockton. William",,05/30/2017,05/30/2017,,12016622,8259.4700,,,,,,,,,,
+TRANSACTION,3010,010009120,2,113.0000,226,"W.Stockton: Basic Service Fee - One Bedroom: Stockton. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6000,31.6,"Monthly Cable: Stockton. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,3435.2000,3435.2,"Community Fee: Stockton. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009120,1,1145.0700,1145.07,"Monthly Deferral Charge: Stockton. William",,,,,,,,,,,,,,,

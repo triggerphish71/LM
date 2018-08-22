@@ -1,0 +1,6 @@
+BATCH,,201206,B,6252.0000,
+INVOICE,IN,,07310232,,06/08/2012,6252.0000,"MoveIn-Arthur. Mary",,06/08/2012,06/08/2012,,07315593,6252.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,23,97.0000,2231,"Basic Service Fee - Studio: Arthur. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,23,87.0000,2001,"Resident Care - Level 6: Arthur. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Arthur. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000.0000,2000,"New Resident Fee: Arthur. Mary",,,,,,,,,,,,,,,

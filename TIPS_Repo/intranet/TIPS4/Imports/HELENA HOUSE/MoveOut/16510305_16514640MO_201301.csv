@@ -1,0 +1,6 @@
+BATCH,,201301,B,4805.0000,
+INVOICE,IN,,16510305,,01/01/2013,1302.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16514640MO,-2201.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,1302.0000,1302.00,"CR:Limited Term Di... G.Coyle 201301: Coyle, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,16510305,,01/01/2013,3503,"Invoice-Private",,01/01/2013,01/10/2013,,16514640MO,-2201.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... G.Coyle 201301: Coyle, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,496,496,"CR:Resident Care -... G.Coyle 201301: Coyle, Geraldine",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,2300.0000,
+INVOICE,IN,,02510174,,11/16/2012,2300.0000,"MoveIn-Crabtree. Alice",,11/16/2012,11/16/2012,,02513370,2300.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,15,85.0000,1275,"Basic Service Fee - Studio: Crabtree. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Crabtree. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1000.0000,1000,"New Resident Fee: Crabtree. Alice",,,,,,,,,,,,,,,

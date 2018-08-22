@@ -1,0 +1,7 @@
+BATCH,,201206,B,4419.0000,
+INVOICE,IN,,18910303,,06/16/2012,1424.0000,"Invoice-Private",,06/16/2012,06/16/2012,,18915322MO,-5663.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,16,89.0000,1424.00,"Basic Service Fee - Studio for Jun: Posler, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,18910303,,06/16/2012,2995,"Invoice-Private",,06/16/2012,06/16/2012,,18915322MO,-5663.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2670,2670,"CR:Basic Service F... E.Posler 201206: Posler, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,300,300,"CR:CC Meals... E.Posler 201206: Posler, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... E.Posler 201206: Posler, Eugene",,,,,,,,,,,,,,,

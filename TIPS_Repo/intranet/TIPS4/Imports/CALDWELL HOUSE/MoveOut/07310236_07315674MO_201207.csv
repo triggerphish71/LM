@@ -1,0 +1,8 @@
+BATCH,,201207,B,704.0000,
+INVOICE,IN,,07310236,,07/27/2012,114.0000,"Invoice-Private",,07/27/2012,07/27/2012,,07315674MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,97.0000,97.00,"Basic Service Fee - Studio for Jul: Barton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,17.0000,17.00,"Resident Care - Level 1 for Jul: Barton, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07310236,,07/27/2012,590,"Invoice-Private",,07/27/2012,07/27/2012,,07315674MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,485,485,"CR:Basic Service F... B.Barton 201207: Barton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... B.Barton 201207: Barton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,85,85,"CR:Resident Care -... B.Barton 201207: Barton, Betty",,,,,,,,,,,,,,,

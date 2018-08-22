@@ -1,0 +1,5 @@
+BATCH,,201208,B,600.0000,
+INVOICE,IN,,01710150,,08/01/2012,100.0000,"August_Rent-Splane. Jo Ann",,08/01/2012,08/10/2012,,01713663,3461.0000,,,,,,,,,,
+TRANSACTION,3216,010202017,1,100.0000,100,"Monthly Deferral Charge: Splane. Jo Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,01710150,,08/01/2012,500.0000,"August_Rent-Splane. Jo Ann",,08/01/2012,08/10/2012,,01713663,3461.0000,,,,,,,,,,
+TRANSACTION,3216,010202017,1,500,500,"New Resident Fee Deferred: Splane. Jo Ann",,,,,,,,,,,,,,,

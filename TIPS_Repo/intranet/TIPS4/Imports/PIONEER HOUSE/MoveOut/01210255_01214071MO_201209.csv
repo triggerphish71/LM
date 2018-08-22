@@ -1,0 +1,5 @@
+BATCH,,201209,B,58.0000,
+INVOICE,IN,,01210255,,09/01/2012,29.0000,"Invoice-Private",,09/01/2012,09/10/2012,,01214071MO,-3016.9800,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Morris, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01210255,,09/01/2012,29,"Invoice-Private",,09/01/2012,09/10/2012,,01214071MO,-3016.9800,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Morris, John",,,,,,,,,,,,,,,

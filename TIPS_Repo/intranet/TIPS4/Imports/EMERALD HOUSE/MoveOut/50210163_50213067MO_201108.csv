@@ -1,0 +1,7 @@
+BATCH,,201108,B,13948.0000,
+INVOICE,IN,,50210163,,08/08/2011,1012.0000,"Invoice-Respite",,08/08/2011,08/08/2011,,50213067MO,-11924.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,5,96.0000,480.00,"Basic Service Fee- Respite Studio for Aug: Dillion, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,5,92.4000,462.00,"Basic Service Fee- Respite Studio for Aug: Dillion, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,5,14.0000,70.00,"Resident Care - Level 1 for Aug: Dillion, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,50210163,,08/08/2011,12936,"Invoice-Respite",,08/08/2011,08/08/2011,,50213067MO,-11924.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,5,2587.2,12936,"Basic Service Fee- Respite Studio for Aug: Dillion, Lucille",,,,,,,,,,,,,,,

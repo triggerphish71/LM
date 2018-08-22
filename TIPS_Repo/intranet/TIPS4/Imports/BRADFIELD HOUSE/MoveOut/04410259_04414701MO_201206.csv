@@ -1,0 +1,6 @@
+BATCH,,201206,B,4960.0000,
+INVOICE,IN,,04410259,,06/01/2012,2410.0000,"Invoice-Private",,06/01/2012,06/10/2012,,04414701MO,-140.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,1,1050.0000,1050.00,"CR:Limited Term Di... A.Conine 201206: Conine, Al",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202044,16,85.0000,1360.00,"Basic Service Fee - Studio for Jun: Conine, Al",,,,,,,,,,,,,,,
+INVOICE,CM,,04410259,,06/01/2012,2550,"Invoice-Private",,06/01/2012,06/10/2012,,04414701MO,-140.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2550,2550,"CR:Basic Service F... A.Conine 201206: Conine, Al",,,,,,,,,,,,,,,

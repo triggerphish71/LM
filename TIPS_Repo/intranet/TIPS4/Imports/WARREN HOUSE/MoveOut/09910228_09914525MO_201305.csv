@@ -1,0 +1,7 @@
+BATCH,,201305,B,5353.0000,
+INVOICE,IN,,09910228,,05/22/2013,2222.0000,"Invoice-Private",,05/22/2013,05/22/2013,,09914525MO,-3939.0000,,,,,,,,,,
+TRANSACTION,3027,010104099,22,15.0000,330.00,"Resident Care - Level 1 for May: Vanevery, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104099,22,86.0000,1892.00,"Room and Board - Studio for May: Vanevery, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,09910228,,05/22/2013,3131,"Invoice-Private",,05/22/2013,05/22/2013,,09914525MO,-3939.0000,,,,,,,,,,
+TRANSACTION,3027,010104099,1,465,465,"CR:Resident Care -... R.Vanevery 201305: Vanevery, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2666,2666,"CR:Room and Board ... R.Vanevery 201305: Vanevery, Roberta",,,,,,,,,,,,,,,

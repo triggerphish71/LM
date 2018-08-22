@@ -1,0 +1,7 @@
+BATCH,,201107,B,1932.0000,
+INVOICE,IN,,07410205,,07/15/2011,630.0000,"Invoice-Private",,07/15/2011,07/15/2011,,07413588MO,-1974.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,15,27.0000,405.00,"Basic Service Fee - Second Resident for Jul: Purdy, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,15,15.0000,225.00,"Resident Care - Level 1 for Jul: Purdy, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07410205,,07/15/2011,1302,"Invoice-Private",,07/15/2011,07/15/2011,,07413588MO,-1974.0000,,,,,,,,,,
+TRANSACTION,3020,010305074,1,837,837,"CR:Basic Service F... B.Purdy 201107: Purdy, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305074,1,465,465,"CR:Resident Care -... B.Purdy 201107: Purdy, Betty",,,,,,,,,,,,,,,

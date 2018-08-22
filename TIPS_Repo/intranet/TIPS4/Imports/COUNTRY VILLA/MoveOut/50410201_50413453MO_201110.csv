@@ -1,0 +1,7 @@
+BATCH,,201110,B,10080.0000,
+INVOICE,IN,,50410201,,10/29/2011,4872.0000,"Invoice-Private",,10/29/2011,10/29/2011,,50413453MO,-5376.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,29,94.0000,2726.00,"Basic Service Fee - Studio for Oct: Leegard, Renate",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,29,74.0000,2146.00,"Resident Care - Level 5 for Oct: Leegard, Renate",,,,,,,,,,,,,,,
+INVOICE,CM,,50410201,,10/29/2011,5208,"Invoice-Private",,10/29/2011,10/29/2011,,50413453MO,-5376.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,2914,2914,"CR:Basic Service F... R.Leegard 201110: Leegard, Renate",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,2294,2294,"CR:Resident Care -... R.Leegard 201110: Leegard, Renate",,,,,,,,,,,,,,,

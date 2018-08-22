@@ -1,0 +1,8 @@
+BATCH,,201206,B,4037.0000,
+INVOICE,IN,,17610278,,06/01/2012,707.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17614496MO,-2623.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,7,73.0000,511.00,"Basic Service Fee - Studio for Jun: Mohney, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,7,28.0000,196.00,"Resident Care - Level 2 for Jun: Mohney, Melba",,,,,,,,,,,,,,,
+INVOICE,CM,,17610278,,06/01/2012,3330,"Invoice-Private",,06/01/2012,06/10/2012,,17614496MO,-2623.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2190,2190,"CR:Basic Service F... M.Mohney 201206: Mohney, Melba",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... M.Mohney 201206: Mohney, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,840,840,"CR:Resident Care -... M.Mohney 201206: Mohney, Melba",,,,,,,,,,,,,,,

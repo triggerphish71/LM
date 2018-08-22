@@ -1,0 +1,8 @@
+BATCH,,201208,B,4935.0000,
+INVOICE,IN,,12110203,,08/04/2012,560.0000,"Invoice-Private",,08/04/2012,08/04/2012,,12115889MO,-3815.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,4,124.0000,496.00,"Basic Service Fee- One Bedroom Prem for Aug: Cross, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,4,16.0000,64.00,"Resident Care - Level 1 for Aug: Cross, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,12110203,,08/04/2012,4375,"Invoice-Private",,08/04/2012,08/04/2012,,12115889MO,-3815.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3844,3844,"CR:Basic Service F... B.Cross 201208: Cross, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... B.Cross 201208: Cross, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,496,496,"CR:Resident Care -... B.Cross 201208: Cross, Bob",,,,,,,,,,,,,,,

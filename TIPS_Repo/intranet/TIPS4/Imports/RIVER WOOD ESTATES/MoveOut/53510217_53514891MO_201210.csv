@@ -1,0 +1,8 @@
+BATCH,,201210,B,5718.0000,
+INVOICE,IN,,53510217,,09/19/2012,1185.0000,"Invoice-Private",,09/19/2012,09/19/2012,,53514891MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,15,79.0000,1185.00,"Basic Service Fee - Studio Deluxe for Sep: Ihlenfeld, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,53510217,,09/19/2012,2084,"Invoice-Private",,09/19/2012,09/19/2012,,53514891MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2054,2054,"CR:Basic Service F... R.Ihlenfeld 201209: Ihlenfeld, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... R.Ihlenfeld 201209: Ihlenfeld, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,53510217,,10/01/2012,2449,"Invoice-Private",,10/01/2012,10/10/2012,,53514891MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2449,2449,"CR:Basic Service F... R.Ihlenfeld 201210: Ihlenfeld, Richard",,,,,,,,,,,,,,,

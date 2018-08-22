@@ -1,0 +1,6 @@
+BATCH,,201203,B,4731.0000,
+INVOICE,IN,,03410279,,03/17/2012,1728.0000,"Invoice-Private",,03/17/2012,03/17/2012,,03415450MO,-4155.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,18,96.0000,1728.00,"Basic Service Fee - Studio for Mar: Weaver, Denzil",,,,,,,,,,,,,,,
+INVOICE,CM,,03410279,,03/17/2012,3003,"Invoice-Private",,03/17/2012,03/17/2012,,03415450MO,-4155.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... D.Weaver 201203: Weaver, Denzil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... D.Weaver 201203: Weaver, Denzil",,,,,,,,,,,,,,,

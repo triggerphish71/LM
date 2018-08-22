@@ -1,0 +1,5 @@
+BATCH,,201112,B,30.0000,
+INVOICE,IN,,20010972,,12/01/2011,15.0000,"Invoice-Private",,12/01/2011,12/10/2011,,20017693MO,-765.0000,,,,,,,,,,
+TRANSACTION,3228,010001200,1,15.0000,15.00,"Sharps Disposal - 3 Per Day: Hack, Geno",,,,,,,,,,,,,,,
+INVOICE,CM,,20010972,,12/01/2011,15,"Invoice-Private",,12/01/2011,12/10/2011,,20017693MO,-765.0000,,,,,,,,,,
+TRANSACTION,3228,010001200,1,15,15,"Credit for Sharps Disposal - 3 Per Day: Hack, Geno",,,,,,,,,,,,,,,

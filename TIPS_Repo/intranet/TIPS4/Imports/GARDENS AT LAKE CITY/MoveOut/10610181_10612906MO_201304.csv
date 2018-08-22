@@ -1,0 +1,5 @@
+BATCH,,201304,B,2806.0000,
+INVOICE,IN,,10610181,,04/01/2013,976.0000,"Invoice-Private",,04/01/2013,04/01/2013,,10612906MO,-854.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,16,61.0000,976.00,"Basic Service Fee - Studio for Apr: Odell, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,10610181,,04/01/2013,1830,"Invoice-Private",,04/01/2013,04/01/2013,,10612906MO,-854.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,1830,1830,"CR:Basic Service F... S.Odell 201304: Odell, Shirley",,,,,,,,,,,,,,,

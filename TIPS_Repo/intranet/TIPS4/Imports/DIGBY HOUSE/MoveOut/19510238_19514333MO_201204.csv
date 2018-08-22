@@ -1,0 +1,7 @@
+BATCH,,201204,B,6579.0000,
+INVOICE,IN,,19510238,,04/08/2012,1989.0000,"Invoice-Private",,04/08/2012,04/08/2012,,19514333MO,-2601.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,13,94.0000,1222.00,"Basic Service Fee - Studio for Apr: Wiehe, Saundra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,13,59.0000,767.00,"Resident Care - Level 4 for Apr: Wiehe, Saundra",,,,,,,,,,,,,,,
+INVOICE,CM,,19510238,,04/08/2012,4590,"Invoice-Private",,04/08/2012,04/08/2012,,19514333MO,-2601.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2820,2820,"CR:Basic Service F... S.Wiehe 201204: Wiehe, Saundra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1770,1770,"CR:Resident Care -... S.Wiehe 201204: Wiehe, Saundra",,,,,,,,,,,,,,,

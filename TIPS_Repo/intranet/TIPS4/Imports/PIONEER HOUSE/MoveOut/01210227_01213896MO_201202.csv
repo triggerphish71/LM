@@ -1,0 +1,6 @@
+BATCH,,201202,B,4534.0000,
+INVOICE,IN,,01210227,,02/24/2012,2040.0000,"Invoice-Private",,02/24/2012,02/24/2012,,01213896MO,-3118.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,24,85.0000,2040.00,"Basic Service Fee - Studio for Feb: Winnett, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,01210227,,02/24/2012,2494,"Invoice-Private",,02/24/2012,02/24/2012,,01213896MO,-3118.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2465,2465,"CR:Basic Service F... H.Winnett 201202: Winnett, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... H.Winnett 201202: Winnett, Howard",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,9440.0000,
+INVOICE,IN,,53610189,,09/23/2011,4275.0000,"Invoice-Private",,09/23/2011,09/23/2011,,53613279MO,-6226.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,25,94.0000,2350.00,"Basic Service Fee - Studio for Sep: Meyer, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,25,77.0000,1925.00,"Resident Care - Level 6 for Sep: Meyer, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,53610189,,09/23/2011,5165,"Invoice-Private",,09/23/2011,09/23/2011,,53613279MO,-6226.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2820,2820,"CR:Basic Service F... M.Meyer 201109: Meyer, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... M.Meyer 201109: Meyer, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,2310,2310,"CR:Resident Care -... M.Meyer 201109: Meyer, Marion",,,,,,,,,,,,,,,

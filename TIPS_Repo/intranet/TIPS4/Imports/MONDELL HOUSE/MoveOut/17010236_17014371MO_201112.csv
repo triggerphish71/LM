@@ -1,0 +1,6 @@
+BATCH,,201112,B,4867.0000,
+INVOICE,IN,,17010236,,12/01/2011,837.0000,"Invoice-Private",,12/01/2011,12/10/2011,,17014371MO,-3455.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,1,837.0000,837.00,"CR:Limited Term Di... F.Rauscher 201112: Rauscher, Franziska",,,,,,,,,,,,,,,
+INVOICE,CM,,17010236,,12/01/2011,4030,"Invoice-Private",,12/01/2011,12/10/2011,,17014371MO,-3455.0000,,,,,,,,,,
+TRANSACTION,3027,010107170,1,1240,1240,"CR:Resident Care -... F.Rauscher 201112: Rauscher, Franziska",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107170,1,2790,2790,"CR:Room and Board ... F.Rauscher 201112: Rauscher, Franziska",,,,,,,,,,,,,,,

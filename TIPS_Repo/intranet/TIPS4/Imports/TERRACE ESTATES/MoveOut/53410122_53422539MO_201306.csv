@@ -1,0 +1,7 @@
+BATCH,,201306,B,5520.0000,
+INVOICE,IN,,53410122,,06/12/2013,2340.0000,"Invoice-Private",,06/12/2013,06/12/2013,,53422539MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,26,90.0000,2340.00,"Room and Board - Two Bedroom for Jun: Baumann, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53410122,,06/12/2013,3180,"Invoice-Private",,06/12/2013,06/12/2013,,53422539MO,-4125.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Baumann 201306: Baumann, John",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319534,1,450,450,"CR:Resident Meals... J.Baumann 201306: Baumann, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2700,2700,"CR:Room and Board ... J.Baumann 201306: Baumann, John",,,,,,,,,,,,,,,

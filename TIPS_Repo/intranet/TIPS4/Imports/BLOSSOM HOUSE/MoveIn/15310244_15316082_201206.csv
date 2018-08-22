@@ -1,0 +1,5 @@
+BATCH,,201206,B,4700.7200,
+INVOICE,IN,,15310244,,06/07/2012,4700.7200,"MoveIn-Minkner. Walter",,06/07/2012,06/07/2012,,15316082,4700.7200,,,,,,,,,,
+TRANSACTION,3010,010103153,24,100.0000,2400,"Basic Service Fee - Studio: Minkner. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,24,12.5300,300.72,"Resident Care - Level 7: Minkner. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Minkner. Walter",,,,,,,,,,,,,,,

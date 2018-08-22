@@ -1,0 +1,7 @@
+BATCH,,201106,B,87.0000,
+INVOICE,IN,,06410173,,06/01/2011,43.5000,"Invoice-Private",,06/01/2011,06/10/2011,,06413459MO,-6477.5000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35.00,"Monthly Cable: Isom, Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3019,010305064,1,8.5000,8.50,"Additional Service Charge: Isom, Sherwood",,,,,,,,,,,,,,,
+INVOICE,CM,,06410173,,06/01/2011,43.5,"Invoice-Private",,06/01/2011,06/10/2011,,06413459MO,-6477.5000,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35,35,"Credit for Monthly Cable: Isom, Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3019,010305064,1,8.5,8.5,"Credit for Additional Service Charge: Isom, Sherwood",,,,,,,,,,,,,,,

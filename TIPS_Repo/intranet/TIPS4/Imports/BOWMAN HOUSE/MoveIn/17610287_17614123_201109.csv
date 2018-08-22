@@ -1,0 +1,6 @@
+BATCH,,201109,B,1880.0000,
+INVOICE,IN,,17610287,,09/27/2011,1880.0000,"MoveIn-Wing. Janet",,09/27/2011,09/27/2011,,17614123,4825.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,4,69.0000,276,"Basic Service Fee - Studio         : Wing. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,4,16.0000,64,"Resident Care - Level 1: Wing. Janet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Wing. Janet",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,4,10.0000,40,"CC Meals: Wing. Janet",,,,,,,,,,,,,,,

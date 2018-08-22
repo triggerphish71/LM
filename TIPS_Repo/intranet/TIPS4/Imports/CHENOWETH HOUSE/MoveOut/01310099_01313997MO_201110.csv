@@ -1,0 +1,7 @@
+BATCH,,201110,B,2455.0600,
+INVOICE,IN,,01310099,,10/24/2011,535.4400,"Invoice-Medicaid",,10/24/2011,10/24/2011,,01313997MO,-3242.7800,,,,,,,,,,
+TRANSACTION,3021,010103013,24,22.3100,535.44,"Medicaid Co-Pay for Oct: Henle, Lana",,,,,,,,,,,,,,,
+INVOICE,CM,,01310099,,10/24/2011,1919.62,"Invoice-Medicaid",,10/24/2011,10/24/2011,,01313997MO,-3242.7800,,,,,,,,,,
+TRANSACTION,3021,010103013,1,691.62,691.62,"CR:Medicaid Co-Pay... L.Henle 201110: Henle, Lana",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... L.Henle 201110: Henle, Lana",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,1200,1200,"CR:State Medicaid... L.Henle 201110: Henle, Lana",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,992.0000,
+INVOICE,IN,,12010180,,05/01/2012,496.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12014348MO,-3556.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,31,16.0000,496.00,"Credit for Limited Term Discount: Marcum, Lula",,,,,,,,,,,,,,,
+INVOICE,CM,,12010180,,05/01/2012,496,"Invoice-Private",,05/01/2012,05/10/2012,,12014348MO,-3556.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,31,16,496,"Limited Term Discount: Marcum, Lula",,,,,,,,,,,,,,,

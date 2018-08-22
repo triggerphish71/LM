@@ -1,0 +1,7 @@
+BATCH,,201801,B,4134.0000,
+INVOICE,IN,,17810456,,01/08/2018,848.0000,"Invoice-Private",,01/08/2018,01/08/2018,,17819447MO,-2438.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,8,85.0000,680.00,"Basic Service Fee - Studio  for Jan: Stotts, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,8,21.0000,168.00,"Resident Care - Level 1  for Jan: Stotts, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,17810456,,01/08/2018,3286,"Invoice-Private",,01/08/2018,01/08/2018,,17819447MO,-2438.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,1,2635,2635,"CR:Basic Service F... E.Stotts 201801: Stotts, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,1,651,651,"CR:Resident Care -... E.Stotts 201801: Stotts, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,50.0000,
+INVOICE,IN,,16810188,,04/01/2012,25.0000,"Invoice-Private",,04/01/2012,04/10/2012,,16816404MO,-3721.0000,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25.00,"Monthly Cable: Mallette, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,16810188,,04/01/2012,25,"Invoice-Private",,04/01/2012,04/10/2012,,16816404MO,-3721.0000,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25,25,"Credit for Monthly Cable: Mallette, Helen",,,,,,,,,,,,,,,

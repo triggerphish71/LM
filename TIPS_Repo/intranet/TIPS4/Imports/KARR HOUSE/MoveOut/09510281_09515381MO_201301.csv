@@ -1,0 +1,7 @@
+BATCH,,201301,B,7757.3700,
+INVOICE,IN,,09510281,,01/27/2013,3815.1000,"Invoice-Private",,01/27/2013,01/27/2013,,09515381MO,-3687.9300,,,,,,,,,,
+TRANSACTION,3020,010103095,30,86.0000,2580.00,"Basic Service Fee - Studio for Jan: Bell, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,30,41.1700,1235.10,"Resident Care - Level 23 for Jan: Bell, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,09510281,,01/27/2013,3942.27,"Invoice-Private",,01/27/2013,01/27/2013,,09515381MO,-3687.9300,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... D.Bell 201301: Bell, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1276.27,1276.27,"CR:Resident Care -... D.Bell 201301: Bell, Donald",,,,,,,,,,,,,,,

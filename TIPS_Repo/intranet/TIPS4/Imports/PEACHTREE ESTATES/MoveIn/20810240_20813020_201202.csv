@@ -1,0 +1,5 @@
+BATCH,,201202,B,3500.0000,
+INVOICE,IN,,20810240,,02/10/2012,3500.0000,"MoveIn-Rogers. Hoyt",,02/10/2012,02/10/2012,,20813020,3500.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,20,78.0000,1560,"Studio: Rogers. Hoyt",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216208,20,22.0000,440,"Resident Care - Level 2: Rogers. Hoyt",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1500.0000,1500,"New Resident Fee: Rogers. Hoyt",,,,,,,,,,,,,,,

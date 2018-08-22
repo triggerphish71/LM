@@ -1,0 +1,7 @@
+BATCH,,201305,B,7056.0000,
+INVOICE,IN,,11410151,,05/17/2013,2499.0000,"Invoice-Private",,05/17/2013,05/17/2013,,11414320MO,-6468.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,17,82.0000,1394.00,"Room and Board - Studio for May: DeMark, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,17,65.0000,1105.00,"Swan Personal Care - L4 for May: DeMark, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11410151,,05/17/2013,4557,"Invoice-Private",,05/17/2013,05/17/2013,,11414320MO,-6468.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,2542,2542,"CR:Room and Board ... M.DeMark 201305: DeMark, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,2015,2015,"CR:Swan Personal C... M.DeMark 201305: DeMark, Mary",,,,,,,,,,,,,,,

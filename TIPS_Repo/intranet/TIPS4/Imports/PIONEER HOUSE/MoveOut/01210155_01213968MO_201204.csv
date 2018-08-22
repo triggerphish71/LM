@@ -1,0 +1,8 @@
+BATCH,,201204,B,6704.2700,
+INVOICE,IN,,01210155,,04/27/2012,3161.9700,"Invoice-Private",,04/27/2012,04/27/2012,,01213968MO,-4039.7400,,,,,,,,,,
+TRANSACTION,3020,010103012,27,101.0000,2727.00,"Basic Service Fee - One Bedroom for Apr: Miller, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,27,16.1100,434.97,"Resident Care - Level 9 for Apr: Miller, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01210155,,04/27/2012,3542.3,"Invoice-Private",,04/27/2012,04/27/2012,,01213968MO,-4039.7400,,,,,,,,,,
+TRANSACTION,3020,010103012,1,3030,3030,"CR:Basic Service F... J.Miller 201204: Miller, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... J.Miller 201204: Miller, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,483.3,483.3,"CR:Resident Care -... J.Miller 201204: Miller, John",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201108,B,4425.0000,
+INVOICE,IN,,21010232,,08/05/2011,1015.0000,"Invoice-Private",,08/05/2011,08/05/2011,,21013085MO,-2395.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,465.0000,465.00,"CR:Limited Term Di... G.Barney 201108: Barney, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,5,20.0000,100.00,"Resident Care - Level 2 for Aug: Barney, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,5,90.0000,450.00,"Studio for Aug: Barney, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,21010232,,08/05/2011,3410,"Invoice-Private",,08/05/2011,08/05/2011,,21013085MO,-2395.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,620,620,"CR:Resident Care -... G.Barney 201108: Barney, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2790,2790,"CR:Studio... G.Barney 201108: Barney, Gene",,,,,,,,,,,,,,,

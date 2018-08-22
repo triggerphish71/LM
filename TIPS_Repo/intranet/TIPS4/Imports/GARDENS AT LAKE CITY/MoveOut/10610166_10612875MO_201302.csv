@@ -1,0 +1,7 @@
+BATCH,,201302,B,5544.0000,
+INVOICE,IN,,10610166,,02/16/2013,2016.0000,"Invoice-Private",,02/16/2013,02/16/2013,,10612875MO,-5449.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,16,98.0000,1568.00,"Basic Service Fee - One Bedroom for Feb: Craig, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,16,28.0000,448.00,"Resident Care - Level 2 for Feb: Craig, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,10610166,,02/16/2013,3528,"Invoice-Private",,02/16/2013,02/16/2013,,10612875MO,-5449.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2744,2744,"CR:Basic Service F... E.Craig 201302: Craig, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,784,784,"CR:Resident Care -... E.Craig 201302: Craig, Eleanor",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,54.0000,
+INVOICE,IN,,05610141,,07/01/2011,27.0000,"Invoice-Private",,07/01/2011,07/10/2011,,05614103MO,-3177.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27.00,"Monthly Cable: Greathouse, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,05610141,,07/01/2011,27,"Invoice-Private",,07/01/2011,07/10/2011,,05614103MO,-3177.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"Credit for Monthly Cable: Greathouse, Frank",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201306,B,4756.0000,
+INVOICE,IN,,21610151,,06/06/2013,896.0000,"Invoice-Private",,06/06/2013,06/06/2013,,21614146MO,-2964.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,7,32.0000,224.00,"Resident Care - Level 3 for Jun: Moon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,7,96.0000,672.00,"Studio Deluxe for Jun: Moon, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,21610151,,06/06/2013,3860,"Invoice-Private",,06/06/2013,06/06/2013,,21614146MO,-2964.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... M.Moon 201306: Moon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,960,960,"CR:Resident Care -... M.Moon 201306: Moon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2880,2880,"CR:Studio Deluxe... M.Moon 201306: Moon, Mary",,,,,,,,,,,,,,,

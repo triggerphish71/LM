@@ -1,0 +1,5 @@
+BATCH,,201304,B,3060.0000,
+INVOICE,IN,,16710249,,04/01/2013,3060.0000,"April_Rent-Suellwold. Margaret",,04/01/2013,04/10/2013,,16714055,6302.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,30,86.0000,2580,"Basic Service Fee - Studio: Suellwold. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,30,15.0000,450,"Resident Care - Level 1: Suellwold. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Suellwold. Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,3493.6600,
+INVOICE,IN,,09710230,,04/17/2012,3493.6600,"MoveIn-Arnold. Margery",,04/17/2012,04/17/2012,,09714367,6801.0500,,,,,,,,,,
+TRANSACTION,3010,010103097,14,87.0000,1218,"Basic Service Fee - Studio: Arnold. Margery",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103097,14,19.6900,275.66,"Resident Care - Level 11: Arnold. Margery",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103097,1,2000.0000,2000,"New Resident Fee: Arnold. Margery",,,,,,,,,,,,,,,

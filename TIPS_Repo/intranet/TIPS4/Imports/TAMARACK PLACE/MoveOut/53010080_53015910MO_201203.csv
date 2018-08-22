@@ -1,0 +1,6 @@
+BATCH,,201203,B,4152.0000,
+INVOICE,CM,,53010080,,03/01/2012,4152,"Invoice-Private",,03/01/2012,03/10/2012,,53015910MO,-4152.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3162,3162,"CR:Basic Service F... M.Knoebel 201203: Knoebel, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... M.Knoebel 201203: Knoebel, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,930,930,"CR:Resident Care -... M.Knoebel 201203: Knoebel, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3228,010319530,1,20,20,"CR:Sharps Disposal... M.Knoebel 201203: Knoebel, Marion",,,,,,,,,,,,,,,

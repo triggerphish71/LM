@@ -1,0 +1,8 @@
+BATCH,,201212,B,7640.0000,
+INVOICE,IN,,07310245,,12/20/2012,3683.0000,"Invoice-Private",,12/20/2012,12/20/2012,,07315943MO,-4211.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,29,110.0000,3190.00,"Basic Service Fee - Deluxe for Dec: Millhouse, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,29,17.0000,493.00,"Resident Care - Level 1 for Dec: Millhouse, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,07310245,,12/20/2012,3957,"Invoice-Private",,12/20/2012,12/20/2012,,07315943MO,-4211.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3410,3410,"CR:Basic Service F... C.Millhouse 201212: Millhouse, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... C.Millhouse 201212: Millhouse, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,527,527,"CR:Resident Care -... C.Millhouse 201212: Millhouse, Carol",,,,,,,,,,,,,,,

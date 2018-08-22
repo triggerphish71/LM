@@ -1,0 +1,5 @@
+BATCH,,201211,B,720.0000,
+INVOICE,IN,,08810181,,11/01/2012,360.0000,"Invoice-Private",,11/01/2012,11/10/2012,,08814485MO,-4812.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,12.0000,360.00,"Credit for Limited Term Discount: Coffield, Miriam",,,,,,,,,,,,,,,
+INVOICE,CM,,08810181,,11/01/2012,360,"Invoice-Private",,11/01/2012,11/10/2012,,08814485MO,-4812.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,30,12,360,"Limited Term Discount: Coffield, Miriam",,,,,,,,,,,,,,,

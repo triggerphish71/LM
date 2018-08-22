@@ -1,0 +1,6 @@
+BATCH,,201804,B,4720.0000,
+INVOICE,IN,,31900041,,04/11/2018,880.0000,"Invoice-Private",,04/11/2018,04/11/2018,,31911067MO,-2960.0000,,,,,,,,,,
+TRANSACTION,3027,070026319,11,80.0000,880.00,"Resident Care - Level 3  for Apr: Mitchell, Irving",,,,,,,,,,,,,,,
+INVOICE,CM,,31900041,,04/11/2018,3840,"Invoice-Private",,04/11/2018,04/11/2018,,31911067MO,-2960.0000,,,,,,,,,,
+TRANSACTION,3027,070026319,1,1440,1440,"CR:Resident Care -... I.Mitchell 201804: Mitchell, Irving",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026319,1,2400,2400,"CR:Studio... I.Mitchell 201804: Mitchell, Irving",,,,,,,,,,,,,,,

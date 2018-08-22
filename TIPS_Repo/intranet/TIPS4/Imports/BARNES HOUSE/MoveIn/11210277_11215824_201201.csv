@@ -1,0 +1,5 @@
+BATCH,,201201,B,3480.0000,
+INVOICE,IN,,11210277,,01/17/2012,3480.0000,"MoveIn-McCracken. Lawrence",,01/17/2012,01/17/2012,,11215824,6318.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,15,97.0000,1455,"Basic Service Fee - Studio: McCracken. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: McCracken. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: McCracken. Lawrence",,,,,,,,,,,,,,,

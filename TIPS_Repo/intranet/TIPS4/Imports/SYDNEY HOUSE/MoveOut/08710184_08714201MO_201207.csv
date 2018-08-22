@@ -1,0 +1,8 @@
+BATCH,,201207,B,4580.5000,
+INVOICE,IN,,08710184,,07/19/2012,1779.0300,"Invoice-Private",,07/19/2012,07/19/2012,,08714201MO,-3761.9100,,,,,,,,,,
+TRANSACTION,3320,010103087,1,62.0000,62.00,"CR:Limited Term Di... C.Meeker 201207: Meeker, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103087,19,85.0000,1615.00,"Basic Service Fee - Studio for Jul: Meeker, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,19,5.3700,102.03,"Resident Care - Level 3 for Jul: Meeker, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,08710184,,07/19/2012,2801.47,"Invoice-Private",,07/19/2012,07/19/2012,,08714201MO,-3761.9100,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2635,2635,"CR:Basic Service F... C.Meeker 201207: Meeker, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,166.47,166.47,"CR:Resident Care -... C.Meeker 201207: Meeker, Charles",,,,,,,,,,,,,,,

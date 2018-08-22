@@ -1,0 +1,7 @@
+BATCH,,201206,B,2620.0000,
+INVOICE,IN,,21610237,,06/01/2012,1310.0000,"Invoice-Private",,06/01/2012,06/10/2012,,21613520MO,-4327.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,30,43.0000,1290.00,"Credit for Limited Term Discount: Greenway, Jerald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20.0000,20.00,"Pendant Fee: Greenway, Jerald",,,,,,,,,,,,,,,
+INVOICE,CM,,21610237,,06/01/2012,1310,"Invoice-Private",,06/01/2012,06/10/2012,,21613520MO,-4327.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,30,43,1290,"Limited Term Discount: Greenway, Jerald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"Credit for Pendant Fee: Greenway, Jerald",,,,,,,,,,,,,,,

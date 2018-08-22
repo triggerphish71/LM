@@ -1,0 +1,5 @@
+BATCH,,201206,B,120.0000,
+INVOICE,IN,,16810323,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,16816558MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,30,2.0000,60.00,"Credit for Limited Term Discount: Echenique, Mercedes",,,,,,,,,,,,,,,
+INVOICE,CM,,16810323,,06/01/2012,60,"Invoice-Private",,06/01/2012,06/10/2012,,16816558MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,30,2,60,"Limited Term Discount: Echenique, Mercedes",,,,,,,,,,,,,,,

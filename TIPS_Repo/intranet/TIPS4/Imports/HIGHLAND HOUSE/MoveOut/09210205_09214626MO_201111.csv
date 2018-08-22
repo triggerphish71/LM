@@ -1,0 +1,6 @@
+BATCH,,201111,B,3210.0000,
+INVOICE,IN,,09210205,,11/01/2011,60.0000,"Invoice-Private",,11/01/2011,11/10/2011,,09214626MO,-3133.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,1,60.0000,60.00,"CR:Limited Term Di... P.Williams 201111: Williams, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,09210205,,11/01/2011,3150,"Invoice-Private",,11/01/2011,11/10/2011,,09214626MO,-3133.0000,,,,,,,,,,
+TRANSACTION,3027,010305092,1,480,480,"CR:Resident Care -... P.Williams 201111: Williams, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2670,2670,"CR:Room and Board ... P.Williams 201111: Williams, Pauline",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201304,B,4690.0000,
+INVOICE,IN,,02110225,,04/08/2013,392.0000,"Invoice-Private",,04/08/2013,04/08/2013,,02115264MO,-3906.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,4,98.0000,392.00,"Basic Service Fee - Studio for Apr: Brannon, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,02110225,,04/08/2013,4298,"Invoice-Private",,04/08/2013,04/08/2013,,02115264MO,-3906.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,2548,2548,"CR:Basic Service F... R.Brannon 201304: Brannon, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202021,1,1750,1750,"CR:New Resident Fe... R.Brannon 201304: Brannon, Robert",,,,,,,,,,,,,,,

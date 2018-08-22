@@ -1,0 +1,8 @@
+BATCH,,201211,B,2790.0000,
+INVOICE,IN,,14910138,,11/09/2012,690.0000,"Invoice-Private",,11/09/2012,11/09/2012,,14914871MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,60.0000,60.00,"CR:Limited Term Di... A.Glau 201211: Glau, Alma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212149,9,36.0000,324.00,"Basic Service Fee - Second Resident for Nov: Glau, Alma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,9,34.0000,306.00,"Resident Care - Level 2 for Nov: Glau, Alma",,,,,,,,,,,,,,,
+INVOICE,CM,,14910138,,11/09/2012,2100,"Invoice-Private",,11/09/2012,11/09/2012,,14914871MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,1080,1080,"CR:Basic Service F... A.Glau 201211: Glau, Alma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1020,1020,"CR:Resident Care -... A.Glau 201211: Glau, Alma",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,954.0000,
+INVOICE,IN,,02411242,,09/01/2011,477.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02415367MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Mc Knew, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,15.0000,450.00,"Credit for Limited Term Discount: Mc Knew, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,02411242,,09/01/2011,477,"Invoice-Private",,09/01/2011,09/10/2011,,02415367MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Mc Knew, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,15,450,"Limited Term Discount: Mc Knew, Helen",,,,,,,,,,,,,,,

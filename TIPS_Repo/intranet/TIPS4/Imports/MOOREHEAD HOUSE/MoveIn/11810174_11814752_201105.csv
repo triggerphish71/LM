@@ -1,0 +1,5 @@
+BATCH,,201105,B,4163.0000,
+INVOICE,IN,,11810174,,05/01/2011,4163.0000,"May_Rent-Yanuzzi. Joan",,05/01/2011,05/10/2011,,11814752,6735.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,31,96.0000,2976,"Basic Service Fee - Studio         : Yanuzzi. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,31,37.0000,1147,"Resident Care - Level 2: Yanuzzi. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Yanuzzi. Joan",,,,,,,,,,,,,,,

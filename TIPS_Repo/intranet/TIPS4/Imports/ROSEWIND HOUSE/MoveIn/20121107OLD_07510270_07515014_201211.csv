@@ -1,0 +1,6 @@
+BATCH,,201211,B,3261.0000,
+INVOICE,IN,,07510270,,11/07/2012,3261.0000,"MoveIn-Dotson. Daniel",,11/07/2012,11/07/2012,,07515014,3261.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,24,85.0000,2040,"D.Dotson: Basic Service Fee - Studio: Dotson. Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,24,29.0000,696,"D.Dotson: Resident Care - Level 2: Dotson. Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Dotson. Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,500.0000,500,"New Resident Fee: Dotson. Daniel",,,,,,,,,,,,,,,

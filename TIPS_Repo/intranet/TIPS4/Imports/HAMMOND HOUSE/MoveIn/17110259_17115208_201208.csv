@@ -1,0 +1,5 @@
+BATCH,,201208,B,1699.8800,
+INVOICE,IN,,17110259,,08/01/2012,188.8800,"August_Rent-Miller. Gary",,08/01/2012,08/10/2012,,17115208,2956.8800,,,,,,,,,,
+TRANSACTION,3216,010308171,1,188.8800,188.88,"Monthly Deferral Charge: Miller. Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,17110259,,08/01/2012,1511.0000,"August_Rent-Miller. Gary",,08/01/2012,08/10/2012,,17115208,2956.8800,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1511,1511,"New Resident Fee Deferred: Miller. Gary",,,,,,,,,,,,,,,

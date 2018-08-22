@@ -1,0 +1,8 @@
+BATCH,,201207,B,8179.1000,
+INVOICE,IN,,03910235,,07/16/2012,2011.8000,"Invoice-Private",,07/16/2012,07/16/2012,,03914528MO,-8610.2000,,,,,,,,,,
+TRANSACTION,3020,010101039,14,90.0000,1260.00,"Basic Service Fee - Studio for Jul: Stockmar, Regina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,14,53.7000,751.80,"Resident Care - Level 30 for Jul: Stockmar, Regina",,,,,,,,,,,,,,,
+INVOICE,CM,,03910235,,07/16/2012,6167.3,"Invoice-Private",,07/16/2012,07/16/2012,,03914528MO,-8610.2000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2610,2610,"CR:Basic Service F... R.Stockmar 201207: Stockmar, Regina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101039,1,2000,2000,"CR:New Resident Fe... R.Stockmar 201207: Stockmar, Regina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,1557.3,1557.3,"CR:Resident Care -... R.Stockmar 201207: Stockmar, Regina",,,,,,,,,,,,,,,

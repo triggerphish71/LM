@@ -1,0 +1,7 @@
+BATCH,,201303,B,5067.0000,
+INVOICE,IN,,16110232,,03/10/2013,1270.0000,"Invoice-Private",,03/10/2013,03/10/2013,,16115825MO,-2527.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,10,113.0000,1130.00,"Basic Service Fee - One Bedroom for Mar: Trahan, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,10,14.0000,140.00,"Resident Care Level Change for Mar: Trahan, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,16110232,,03/10/2013,3797,"Invoice-Private",,03/10/2013,03/10/2013,,16115825MO,-2527.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,3503,3503,"CR:Basic Service F... E.Trahan 201303: Trahan, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,294,294,"CR:Resident Care L... E.Trahan 201303: Trahan, Eugene",,,,,,,,,,,,,,,

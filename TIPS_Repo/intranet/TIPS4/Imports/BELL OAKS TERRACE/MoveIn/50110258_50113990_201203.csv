@@ -1,0 +1,5 @@
+BATCH,,201203,B,3758.0000,
+INVOICE,IN,,50110258,,03/01/2012,3758.0000,"MoveIn-Hunter. Vineta",,03/01/2012,03/01/2012,,50113990,3758.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,31,88.0000,2728,"Basic Service Fee - Studio: Hunter. Vineta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Hunter. Vineta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Hunter. Vineta",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,1125.0000,
+INVOICE,IN,,19010275,,12/31/2012,1125.0000,"MoveIn-Scogin. William",,12/31/2012,12/31/2012,,19014819,4190.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio: Scogin. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Scogin. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Scogin. William",,,,,,,,,,,,,,,

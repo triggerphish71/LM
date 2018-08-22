@@ -1,0 +1,5 @@
+BATCH,,201805,B,2618.0000,
+INVOICE,IN,,11010516,,05/03/2018,231.0000,"Invoice-Private",,05/03/2018,05/03/2018,,11017363MO,-2156.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,3,77.0000,231.00,"Basic Service Fee - Studio  for May: Klennert, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,11010516,,05/03/2018,2387,"Invoice-Private",,05/03/2018,05/03/2018,,11017363MO,-2156.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2387,2387,"CR:Basic Service F... E.Klennert 201805: Klennert, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,2040.0000,
+INVOICE,IN,,12510184,,06/01/2011,1020.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12513885MO,-590.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,30,34.0000,1020.00,"Credit for Limited Term Discount: Hurley, Kevin",,,,,,,,,,,,,,,
+INVOICE,CM,,12510184,,06/01/2011,1020,"Invoice-Private",,06/01/2011,06/10/2011,,12513885MO,-590.0000,,,,,,,,,,
+TRANSACTION,3320,010211125,30,34,1020,"Limited Term Discount: Hurley, Kevin",,,,,,,,,,,,,,,

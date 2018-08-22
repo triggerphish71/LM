@@ -1,0 +1,7 @@
+BATCH,,201111,B,94.0000,
+INVOICE,IN,,14710251,,11/01/2011,47.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14715325MO,-2917.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Sharpe, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3250,010310147,1,5.0000,5.00,"Guest Meal: Sharpe, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,14710251,,11/01/2011,47,"Invoice-Private",,11/01/2011,11/10/2011,,14715325MO,-2917.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Sharpe, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3250,010310147,1,5,5,"Credit for Guest Meal: Sharpe, Francis",,,,,,,,,,,,,,,

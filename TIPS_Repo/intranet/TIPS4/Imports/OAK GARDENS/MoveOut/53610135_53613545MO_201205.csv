@@ -1,0 +1,5 @@
+BATCH,,201205,B,70.0000,
+INVOICE,IN,,53610135,,05/01/2012,35.0000,"Invoice-Private",,05/01/2012,05/10/2012,,53613545MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35.00,"Monthly Cable: Krause, Winifred",,,,,,,,,,,,,,,
+INVOICE,CM,,53610135,,05/01/2012,35,"Invoice-Private",,05/01/2012,05/10/2012,,53613545MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"Credit for Monthly Cable: Krause, Winifred",,,,,,,,,,,,,,,

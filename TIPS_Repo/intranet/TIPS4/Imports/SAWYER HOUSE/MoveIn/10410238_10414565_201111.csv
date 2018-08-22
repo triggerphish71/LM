@@ -1,0 +1,5 @@
+BATCH,,201111,B,4585.1000,
+INVOICE,IN,,10410238,,11/10/2011,4585.1000,"MoveIn-Jefferys. Helen",,11/10/2011,11/10/2011,,10414565,4585.1000,,,,,,,,,,
+TRANSACTION,3010,010101104,21,84.0000,1764,"Basic Service Fee - Studio         : Jefferys. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101104,21,39.1000,821.1,"Resident Care - Level 23: Jefferys. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000.0000,2000,"New Resident Fee: Jefferys. Helen",,,,,,,,,,,,,,,

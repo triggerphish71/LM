@@ -1,0 +1,7 @@
+BATCH,,201209,B,6708.0000,
+INVOICE,IN,,07210173,,09/05/2012,1548.0000,"Invoice-Private",,09/05/2012,09/05/2012,,07214189MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,9,96.0000,864.00,"Basic Service Fee - Studio for Sep: Mann, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,9,76.0000,684.00,"Resident Care - Level 5 for Sep: Mann, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,07210173,,09/05/2012,5160,"Invoice-Private",,09/05/2012,09/05/2012,,07214189MO,-3612.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2880,2880,"CR:Basic Service F... D.Mann 201209: Mann, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2280,2280,"CR:Resident Care -... D.Mann 201209: Mann, Doris",,,,,,,,,,,,,,,

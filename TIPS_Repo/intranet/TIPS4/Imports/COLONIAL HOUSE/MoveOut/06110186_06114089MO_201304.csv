@@ -1,0 +1,7 @@
+BATCH,,201304,B,5687.0000,
+INVOICE,IN,,06110186,,04/15/2013,2057.0000,"Invoice-Private",,04/15/2013,04/15/2013,,06114089MO,-5324.0000,,,,,,,,,,
+TRANSACTION,3020,010103061,17,84.0000,1428.00,"Basic Service Fee - Studio for Apr: Anderson, Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,17,37.0000,629.00,"Resident Care - Level 20 for Apr: Anderson, Sherry",,,,,,,,,,,,,,,
+INVOICE,CM,,06110186,,04/15/2013,3630,"Invoice-Private",,04/15/2013,04/15/2013,,06114089MO,-5324.0000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2520,2520,"CR:Basic Service F... S.Anderson 201304: Anderson, Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,1110,1110,"CR:Resident Care -... S.Anderson 201304: Anderson, Sherry",,,,,,,,,,,,,,,

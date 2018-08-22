@@ -1,0 +1,7 @@
+BATCH,,201109,B,910.0000,
+INVOICE,IN,,14210101,,09/01/2011,455.0000,"Invoice-Private",,09/01/2011,09/10/2011,,14213595MO,-3259.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Mousa, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,30,14.0000,420.00,"Credit for Limited Term Discount: Mousa, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14210101,,09/01/2011,455,"Invoice-Private",,09/01/2011,09/10/2011,,14213595MO,-3259.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Mousa, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,30,14,420,"Limited Term Discount: Mousa, Dorothy",,,,,,,,,,,,,,,

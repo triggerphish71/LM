@@ -1,0 +1,7 @@
+BATCH,,201112,B,4024.6400,
+INVOICE,IN,,08110059,,12/01/2011,2012.3200,"Invoice-Medicaid",,12/01/2011,12/10/2011,,08114249MO,-5383.0400,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25.00,"Monthly Cable: Hammock, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103081,1,1987.3200,1987.32,"State Medicaid (3012): Hammock, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,08110059,,12/01/2011,2012.32,"Invoice-Medicaid",,12/01/2011,12/10/2011,,08114249MO,-5383.0400,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"Credit for Monthly Cable: Hammock, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103081,1,1987.32,1987.32,"Credit for State Medicaid (3012): Hammock, Francis",,,,,,,,,,,,,,,

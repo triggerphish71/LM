@@ -1,0 +1,5 @@
+BATCH,,201207,B,1736.0000,
+INVOICE,IN,,20210189,,07/01/2012,868.0000,"Invoice-Private",,07/01/2012,07/10/2012,,20212618MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,28.0000,868.00,"Credit for Limited Term Discount: Spencer, Demetria",,,,,,,,,,,,,,,
+INVOICE,CM,,20210189,,07/01/2012,868,"Invoice-Private",,07/01/2012,07/10/2012,,20212618MO,-3189.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,31,28,868,"Limited Term Discount: Spencer, Demetria",,,,,,,,,,,,,,,

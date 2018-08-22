@@ -1,0 +1,7 @@
+BATCH,,201201,B,1882.0000,
+INVOICE,IN,,13610297,,01/28/2012,308.0000,"Invoice-Private",,01/28/2012,01/28/2012,,13614511MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,4,77.0000,308.00,"Basic Service Fee- One Bedroom Prem for Jan: Byerly, Mahlon",,,,,,,,,,,,,,,
+INVOICE,CM,,13610297,,01/28/2012,1574,"Invoice-Private",,01/28/2012,01/28/2012,,13614511MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,539,539,"CR:Basic Service F... M.Byerly 201201: Byerly, Mahlon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... M.Byerly 201201: Byerly, Mahlon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000,1000,"CR:New Resident Fe... M.Byerly 201201: Byerly, Mahlon",,,,,,,,,,,,,,,

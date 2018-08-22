@@ -1,0 +1,7 @@
+BATCH,,201211,B,1854.0000,
+INVOICE,IN,,16510276,,11/01/2012,927.0000,"Invoice-Private",,11/01/2012,11/10/2012,,16514492MO,-3237.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Parker, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,30,30.0000,900.00,"Credit for Limited Term Discount: Parker, Bertha",,,,,,,,,,,,,,,
+INVOICE,CM,,16510276,,11/01/2012,927,"Invoice-Private",,11/01/2012,11/10/2012,,16514492MO,-3237.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Parker, Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308165,30,30,900,"Limited Term Discount: Parker, Bertha",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,4320.0400,
+INVOICE,IN,,03910229,,07/03/2012,381.1800,"Invoice-Private",,07/03/2012,07/03/2012,,03914504MO,-3557.6800,,,,,,,,,,
+TRANSACTION,3027,010101039,3,25.0600,75.18,"Resident Care - Level 14 for Jul: Klein, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,3,102.0000,306.00,"Room and Board - One Bedroom for Jul: Klein, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,03910229,,07/03/2012,3938.86,"Invoice-Private",,07/03/2012,07/03/2012,,03914504MO,-3557.6800,,,,,,,,,,
+TRANSACTION,3027,010101039,1,776.86,776.86,"CR:Resident Care -... R.Klein 201207: Klein, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,1,3162,3162,"CR:Room and Board ... R.Klein 201207: Klein, Roy",,,,,,,,,,,,,,,

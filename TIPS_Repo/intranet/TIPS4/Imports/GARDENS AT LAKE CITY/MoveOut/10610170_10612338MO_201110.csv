@@ -1,0 +1,8 @@
+BATCH,,201110,B,10283.0000,
+INVOICE,IN,,10610170,,10/01/2011,5040.0000,"Invoice-Private",,10/01/2011,10/10/2011,,10612338MO,-203.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,30,84.0000,2520.00,"Basic Service Fee - Studio for Oct: Rust, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,30,84.0000,2520.00,"Resident Care - Level 6 for Oct: Rust, Wilbur",,,,,,,,,,,,,,,
+INVOICE,CM,,10610170,,10/01/2011,5243,"Invoice-Private",,10/01/2011,10/10/2011,,10612338MO,-203.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2604,2604,"CR:Basic Service F... W.Rust 201110: Rust, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... W.Rust 201110: Rust, Wilbur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,2604,2604,"CR:Resident Care -... W.Rust 201110: Rust, Wilbur",,,,,,,,,,,,,,,

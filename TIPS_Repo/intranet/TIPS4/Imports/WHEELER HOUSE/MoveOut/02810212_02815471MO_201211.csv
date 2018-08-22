@@ -1,0 +1,7 @@
+BATCH,,201211,B,5265.0000,
+INVOICE,IN,,02810212,,11/01/2012,1215.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02815471MO,-2835.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,9,121.0000,1089.00,"Basic Service Fee - One Bedroom for Nov: Insel, William ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,9,14.0000,126.00,"Resident Care - Level 1 for Nov: Insel, William ",,,,,,,,,,,,,,,
+INVOICE,CM,,02810212,,11/01/2012,4050,"Invoice-Private",,11/01/2012,11/10/2012,,02815471MO,-2835.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3630,3630,"CR:Basic Service F... W.Insel 201211: Insel, William ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,420,420,"CR:Resident Care -... W.Insel 201211: Insel, William ",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201303,B,5041.1000,
+INVOICE,IN,,09710264,,03/01/2013,5041.1000,"MoveIn-Merk. Charles",,03/01/2013,03/01/2013,,09714631,5041.1000,,,,,,,,,,
+TRANSACTION,3010,010103097,31,87.0000,2697,"C.Merk: Basic Service Fee - Studio: Merk. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103097,31,11.1000,344.1,"C.Merk: Resident Care - Level 6: Merk. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103097,1,2000.0000,2000,"New Resident Fee: Merk. Charles",,,,,,,,,,,,,,,

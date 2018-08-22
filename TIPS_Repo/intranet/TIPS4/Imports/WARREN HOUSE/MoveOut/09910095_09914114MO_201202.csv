@@ -1,0 +1,7 @@
+BATCH,,201202,B,1863.3900,
+INVOICE,IN,,09910095,,02/10/2012,201.4000,"Invoice-Medicaid",,02/10/2012,02/10/2012,,09914114MO,-1460.5900,,,,,,,,,,
+TRANSACTION,3021,010104099,10,20.1400,201.40,"Medicaid Room & Board for Feb: Rogers, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,09910095,,02/10/2012,1661.99,"Invoice-Medicaid",,02/10/2012,02/10/2012,,09914114MO,-1460.5900,,,,,,,,,,
+TRANSACTION,3021,010104099,1,584,584,"CR:Medicaid Room &... G.Rogers 201202: Rogers, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... G.Rogers 201202: Rogers, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104099,1,1052.99,1052.99,"CR:State Medicaid... G.Rogers 201202: Rogers, Gene",,,,,,,,,,,,,,,

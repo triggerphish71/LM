@@ -1,0 +1,5 @@
+BATCH,,201302,B,1344.0000,
+INVOICE,IN,,03310337,,02/01/2013,672.0000,"Invoice-Private",,02/01/2013,02/10/2013,,03316944MO,-3212.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,28,24.0000,672.00,"Credit for Limited Term Discount: Boothe, Jocye",,,,,,,,,,,,,,,
+INVOICE,CM,,03310337,,02/01/2013,672,"Invoice-Private",,02/01/2013,02/10/2013,,03316944MO,-3212.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,28,24,672,"Limited Term Discount: Boothe, Jocye",,,,,,,,,,,,,,,

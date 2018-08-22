@@ -1,0 +1,5 @@
+BATCH,,201306,B,54.0000,
+INVOICE,IN,,03610310,,06/01/2013,27.0000,"Invoice-Private",,06/01/2013,06/10/2013,,03615595MO,-1924.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Durrant, Marcine",,,,,,,,,,,,,,,
+INVOICE,CM,,03610310,,06/01/2013,27,"Invoice-Private",,06/01/2013,06/10/2013,,03615595MO,-1924.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Durrant, Marcine",,,,,,,,,,,,,,,

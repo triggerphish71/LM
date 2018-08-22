@@ -1,0 +1,6 @@
+BATCH,,201108,B,3636.3000,
+INVOICE,IN,,01510166,,08/01/2011,651.0000,"Invoice-Private",,08/01/2011,08/10/2011,,01514048MO,-2334.3000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,651.0000,651.00,"CR:Limited Term Di... D.Kelley 201108: Kelley, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,01510166,,08/01/2011,2985.3,"Invoice-Private",,08/01/2011,08/10/2011,,01514048MO,-2334.3000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2511,2511,"CR:Basic Service F... D.Kelley 201108: Kelley, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,474.3,474.3,"CR:Resident Care -... D.Kelley 201108: Kelley, Delbert",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,3140.0000,
+INVOICE,IN,,53210339,,01/18/2013,3140.0000,"MoveIn-Ahonen. Robert",,01/18/2013,01/18/2013,,53215445,6390.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,14,86.0000,1204,"Basic Service Fee - Studio Kitchen: Ahonen. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,14,29.0000,406,"Resident Care - Level 2: Ahonen. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Ahonen. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: Ahonen. Robert",,,,,,,,,,,,,,,

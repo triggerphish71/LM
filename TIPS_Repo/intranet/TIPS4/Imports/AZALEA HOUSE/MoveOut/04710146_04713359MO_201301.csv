@@ -1,0 +1,7 @@
+BATCH,,201301,B,5781.0000,
+INVOICE,IN,,04710146,,01/16/2013,1968.0000,"Invoice-Private",,01/16/2013,01/16/2013,,04713359MO,-5289.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,16,70.0000,1120.00,"Basic Service Fee - One Bedroom for Jan: Grandstaff, Billie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,16,53.0000,848.00,"Resident Care - Level 4 for Jan: Grandstaff, Billie",,,,,,,,,,,,,,,
+INVOICE,CM,,04710146,,01/16/2013,3813,"Invoice-Private",,01/16/2013,01/16/2013,,04713359MO,-5289.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2170,2170,"CR:Basic Service F... B.Grandstaff 201301: Grandstaff, Billie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,1643,1643,"CR:Resident Care -... B.Grandstaff 201301: Grandstaff, Billie",,,,,,,,,,,,,,,

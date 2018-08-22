@@ -1,0 +1,5 @@
+BATCH,,201204,B,50.0000,
+INVOICE,IN,,18410167,,04/01/2012,25.0000,"Invoice-Private",,04/01/2012,04/10/2012,,18415186MO,-6254.0000,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25.0000,25.00,"Monthly Cable: Colvin, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,18410167,,04/01/2012,25,"Invoice-Private",,04/01/2012,04/10/2012,,18415186MO,-6254.0000,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"Credit for Monthly Cable: Colvin, Helen",,,,,,,,,,,,,,,

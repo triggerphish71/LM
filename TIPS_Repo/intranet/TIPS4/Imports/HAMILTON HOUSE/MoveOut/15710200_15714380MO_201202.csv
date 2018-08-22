@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,15710200,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,15714380MO,-3440.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Hartzog, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,15710200,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,15714380MO,-3440.0000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Hartzog, Ruth",,,,,,,,,,,,,,,

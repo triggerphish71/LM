@@ -1,0 +1,4 @@
+BATCH,,201111,B,4620.0000,
+INVOICE,CM,,51310115,,11/01/2011,4620,"Invoice-Private",,11/01/2011,11/10/2011,,51313587MO,-5236.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3810,3810,"CR:Basic Service F... R.Bill 201111: Bill, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,810,810,"CR:Resident Care -... R.Bill 201111: Bill, Robert",,,,,,,,,,,,,,,

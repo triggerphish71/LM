@@ -1,0 +1,5 @@
+BATCH,,201203,B,620.0000,
+INVOICE,IN,,21210131,,03/01/2012,310.0000,"Invoice-Private",,03/01/2012,03/10/2012,,21212309MO,-1006.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,10.0000,310.00,"Credit for Limited Term Discount: Sutterlin, Alfred",,,,,,,,,,,,,,,
+INVOICE,CM,,21210131,,03/01/2012,310,"Invoice-Private",,03/01/2012,03/10/2012,,21212309MO,-1006.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,10,310,"Limited Term Discount: Sutterlin, Alfred",,,,,,,,,,,,,,,

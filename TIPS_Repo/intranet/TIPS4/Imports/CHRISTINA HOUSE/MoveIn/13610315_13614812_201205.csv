@@ -1,0 +1,5 @@
+BATCH,,201205,B,1100.0000,
+INVOICE,IN,,13610315,,05/31/2012,1100.0000,"MoveIn-Bradshaw. Glynn",,05/31/2012,05/31/2012,,13614812,3085.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,1,65.0000,65,"Basic Service Fee - Studio: Bradshaw. Glynn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Bradshaw. Glynn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Bradshaw. Glynn",,,,,,,,,,,,,,,

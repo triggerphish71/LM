@@ -1,0 +1,6 @@
+BATCH,,201107,B,4000.0000,
+INVOICE,IN,,15210171,,07/03/2011,4000.0000,"MoveIn-Sheldon. Don",,07/03/2011,07/03/2011,,15213468,4000.0000,,,,,,,,,,
+TRANSACTION,3010,010211152,29,68.0000,1972,"Basic Service Fee - Studio         : Sheldon. Don",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211152,29,17.0000,493,"Resident Care - Level 1: Sheldon. Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35,"Monthly Cable: Sheldon. Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211152,1,1500.0000,1500,"New Resident Fee: Sheldon. Don",,,,,,,,,,,,,,,

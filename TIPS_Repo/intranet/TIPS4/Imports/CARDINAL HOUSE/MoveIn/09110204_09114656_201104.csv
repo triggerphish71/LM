@@ -1,0 +1,5 @@
+BATCH,,201104,B,2242.0000,
+INVOICE,IN,,09110204,,04/29/2011,2242.0000,"MoveIn-Burris. Glenn",,04/29/2011,04/29/2011,,09114656,5993.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,2,104.0000,208,"Basic Service Fee - One Bedroom    : Burris. Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,2,17.0000,34,"Resident Care - Level 1: Burris. Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Burris. Glenn",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201109,B,4615.0000,
+INVOICE,IN,,03310312,,09/01/2011,1860.0000,"Invoice-Private",,09/01/2011,09/10/2011,,03316016MO,-895.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,1860.0000,1860.00,"CR:Limited Term Di... M.Privitt 201109: Privitt, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,03310312,,09/01/2011,2755,"Invoice-Private",,09/01/2011,09/10/2011,,03316016MO,-895.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2730,2730,"CR:Basic Service F... M.Privitt 201109: Privitt, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... M.Privitt 201109: Privitt, Margaret",,,,,,,,,,,,,,,

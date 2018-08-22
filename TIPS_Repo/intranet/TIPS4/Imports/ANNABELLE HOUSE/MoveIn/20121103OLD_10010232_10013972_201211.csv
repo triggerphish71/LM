@@ -1,0 +1,6 @@
+BATCH,,201211,B,3829.0000,
+INVOICE,IN,,10010232,,11/03/2012,3829.0000,"MoveIn-Gipe. Velma",,11/03/2012,11/03/2012,,10013972,3829.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,28,75.0000,2100,"V.Gipe: Basic Service Fee - Studio: Gipe. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,28,43.0000,1204,"V.Gipe: Resident Care - Level 3: Gipe. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Gipe. Velma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Gipe. Velma",,,,,,,,,,,,,,,

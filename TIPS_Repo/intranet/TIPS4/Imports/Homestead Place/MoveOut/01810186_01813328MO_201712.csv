@@ -1,0 +1,5 @@
+BATCH,,201712,B,819.0000,
+INVOICE,IN,,01810186,,12/12/2017,39.0000,"Invoice-Private",,12/12/2017,12/12/2017,,01813328MO,-741.0000,,,,,,,,,,
+TRANSACTION,3020,010003018,1,39.0000,39.00,"Basic Service Fee - Second Resident  for Dec: Phaz, Maria",,,,,,,,,,,,,,,
+INVOICE,CM,,01810186,,12/12/2017,780,"Invoice-Private",,12/12/2017,12/12/2017,,01813328MO,-741.0000,,,,,,,,,,
+TRANSACTION,3020,010003018,1,780,780,"CR:Basic Service F... M.Phaz 201712: Phaz, Maria",,,,,,,,,,,,,,,

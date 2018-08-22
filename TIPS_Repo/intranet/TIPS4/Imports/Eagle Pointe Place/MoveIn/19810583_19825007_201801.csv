@@ -1,0 +1,6 @@
+BATCH,,201801,B,5023.2700,
+INVOICE,IN,,19810583,,01/01/2018,5023.2700,"MoveIn-Wagner. George",,01/01/2018,01/01/2018,,19825007,5023.2700,,,,,,,,,,
+TRANSACTION,3010,010012198,31,75.0000,2325,"Basic Service Fee - Studio AL A: Wagner. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012198,1,31.6000,31.6,"Monthly Cable: Wagner. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012198,1,2000.0000,2000,"Community Fee: Wagner. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012198,1,666.6700,666.67,"Monthly Deferral Charge: Wagner. George",,,,,,,,,,,,,,,

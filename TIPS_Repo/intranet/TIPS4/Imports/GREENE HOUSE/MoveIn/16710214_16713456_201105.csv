@@ -1,0 +1,6 @@
+BATCH,,201105,B,3065.0000,
+INVOICE,IN,,16710214,,05/23/2011,3065.0000,"MoveIn-Mueller. John",,05/23/2011,05/23/2011,,16713456,6545.0000,,,,,,,,,,
+TRANSACTION,3010,010211167,9,88.0000,792,"Basic Service Fee - Studio         : Mueller. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211167,9,27.0000,243,"Resident Care - Level 2: Mueller. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30,"Monthly Cable: Mueller. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211167,1,2000.0000,2000,"New Resident Fee: Mueller. John",,,,,,,,,,,,,,,

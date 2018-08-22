@@ -1,0 +1,5 @@
+BATCH,,201205,B,5609.0000,
+INVOICE,IN,,11210282,,05/04/2012,5609.0000,"MoveIn-Johnson. Robert",,05/04/2012,05/04/2012,,11215952,5609.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,28,128.0000,3584,"Basic Service Fee- One Bedroom Prem: Johnson. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Johnson. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Johnson. Robert",,,,,,,,,,,,,,,

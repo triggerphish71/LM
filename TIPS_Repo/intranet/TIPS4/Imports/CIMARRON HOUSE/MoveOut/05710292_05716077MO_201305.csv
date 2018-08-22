@@ -1,0 +1,5 @@
+BATCH,,201305,B,4740.0000,
+INVOICE,IN,,05710292,,05/01/2013,2291.0000,"Invoice-Private",,05/01/2013,05/10/2013,,05716077MO,-2528.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,29,79.0000,2291.00,"Basic Service Fee - Studio for May: Perkins, Alma ",,,,,,,,,,,,,,,
+INVOICE,CM,,05710292,,05/01/2013,2449,"Invoice-Private",,05/01/2013,05/10/2013,,05716077MO,-2528.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2449,2449,"CR:Basic Service F... A.Perkins 201305: Perkins, Alma ",,,,,,,,,,,,,,,

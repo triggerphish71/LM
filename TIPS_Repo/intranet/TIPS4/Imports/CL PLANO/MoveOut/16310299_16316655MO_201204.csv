@@ -1,0 +1,8 @@
+BATCH,,201204,B,7125.0000,
+INVOICE,IN,,16310299,,04/09/2012,1638.0000,"Invoice-Private",,04/09/2012,04/09/2012,,16316655MO,-3849.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,9,108.0000,972.00,"Basic Service Fee - Studio Deluxe for Apr: Cooke, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,9,74.0000,666.00,"Resident Care - Level 6 for Apr: Cooke, John",,,,,,,,,,,,,,,
+INVOICE,CM,,16310299,,04/09/2012,5487,"Invoice-Private",,04/09/2012,04/09/2012,,16316655MO,-3849.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3240,3240,"CR:Basic Service F... J.Cooke 201204: Cooke, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... J.Cooke 201204: Cooke, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,2220,2220,"CR:Resident Care -... J.Cooke 201204: Cooke, John",,,,,,,,,,,,,,,

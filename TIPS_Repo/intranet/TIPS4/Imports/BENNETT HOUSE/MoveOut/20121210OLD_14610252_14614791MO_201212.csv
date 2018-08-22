@@ -1,0 +1,7 @@
+BATCH,,201212,B,4525.0000,
+INVOICE,IN,,14610252,,12/08/2012,1612.0000,"Invoice-Private",,12/08/2012,12/08/2012,,14614791MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3320,010309146,1,868.0000,868.00,"CR:Limited Term Di... M.Ellars 201212: Ellars, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309146,8,93.0000,744.00,"Basic Service Fee - Studio for Dec: Ellars, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,14610252,,12/08/2012,2913,"Invoice-Private",,12/08/2012,12/08/2012,,14614791MO,-5144.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... M.Ellars 201212: Ellars, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... M.Ellars 201212: Ellars, Marian",,,,,,,,,,,,,,,

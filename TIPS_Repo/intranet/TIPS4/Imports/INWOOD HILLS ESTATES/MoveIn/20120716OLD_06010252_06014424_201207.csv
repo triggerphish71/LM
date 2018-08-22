@@ -1,0 +1,6 @@
+BATCH,,201207,B,3396.0000,
+INVOICE,IN,,06010252,,07/16/2012,3396.0000,"MoveIn-Hanson. Fred",,07/16/2012,07/16/2012,,06014424,7032.0000,,,,,,,,,,
+TRANSACTION,3010,010206060,16,90.0000,1440,"F.Hanson: Basic Service Fee - Studio: Hanson. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010206060,16,26.0000,416,"F.Hanson: Resident Care - Level 2: Hanson. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40,"Monthly Cable: Hanson. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010206060,1,1500.0000,1500,"New Resident Fee: Hanson. Fred",,,,,,,,,,,,,,,

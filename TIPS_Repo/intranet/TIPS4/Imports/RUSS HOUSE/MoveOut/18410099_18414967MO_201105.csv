@@ -1,0 +1,8 @@
+BATCH,,201105,B,5695.0000,
+INVOICE,IN,,18410099,,05/01/2011,1485.0000,"Invoice-Private",,05/01/2011,05/10/2011,,18414967MO,-2725.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,11,93.0000,1023.00,"Basic Service Fee - Studio for May: Perkins, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,11,42.0000,462.00,"Resident Care - Level 3 for May: Perkins, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,18410099,,05/01/2011,4210,"Invoice-Private",,05/01/2011,05/10/2011,,18414967MO,-2725.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2883,2883,"CR:Basic Service F... D.Perkins 201105: Perkins, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"CR:Monthly Cable... D.Perkins 201105: Perkins, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,1302,1302,"CR:Resident Care -... D.Perkins 201105: Perkins, Dorothy",,,,,,,,,,,,,,,

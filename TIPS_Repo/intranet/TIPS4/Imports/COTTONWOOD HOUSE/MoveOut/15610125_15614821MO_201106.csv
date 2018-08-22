@@ -1,0 +1,7 @@
+BATCH,,201106,B,7260.0000,
+INVOICE,IN,,15610125,,06/01/2011,2310.0000,"Invoice-Private",,06/01/2011,06/10/2011,,15614821MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,14,107.0000,1498.00,"Basic Service Fee - One Bedroom for Jun: Kallweit, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,14,58.0000,812.00,"Resident Care - Level 4 for Jun: Kallweit, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,15610125,,06/01/2011,4950,"Invoice-Private",,06/01/2011,06/10/2011,,15614821MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3210,3210,"CR:Basic Service F... S.Kallweit 201106: Kallweit, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,1740,1740,"CR:Resident Care -... S.Kallweit 201106: Kallweit, Shirley",,,,,,,,,,,,,,,

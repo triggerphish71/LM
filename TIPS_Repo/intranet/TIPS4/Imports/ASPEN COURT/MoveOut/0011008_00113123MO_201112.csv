@@ -1,0 +1,5 @@
+BATCH,,201112,B,3444.3000,
+INVOICE,CM,,0011008,,12/01/2011,3444.3,"Invoice-Private",,12/01/2011,12/10/2011,,00113123MO,-3444.3000,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2418,2418,"CR:Basic Service F... G.Howden 201112: Howden, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... G.Howden 201112: Howden, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,1001.3,1001.3,"CR:Resident Care -... G.Howden 201112: Howden, George",,,,,,,,,,,,,,,

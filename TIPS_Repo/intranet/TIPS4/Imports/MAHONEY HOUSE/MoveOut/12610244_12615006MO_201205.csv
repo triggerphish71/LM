@@ -1,0 +1,7 @@
+BATCH,,201205,B,6125.0000,
+INVOICE,IN,,12610244,,05/18/2012,2250.0000,"Invoice-Private",,05/18/2012,05/18/2012,,12615006MO,-5375.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,18,107.0000,1926.00,"Basic Service Fee - Deluxe for May: Kranz, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,18,18.0000,324.00,"Resident Care - Level 1 for May: Kranz, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,12610244,,05/18/2012,3875,"Invoice-Private",,05/18/2012,05/18/2012,,12615006MO,-5375.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3317,3317,"CR:Basic Service F... E.Kranz 201205: Kranz, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,558,558,"CR:Resident Care -... E.Kranz 201205: Kranz, Elaine",,,,,,,,,,,,,,,

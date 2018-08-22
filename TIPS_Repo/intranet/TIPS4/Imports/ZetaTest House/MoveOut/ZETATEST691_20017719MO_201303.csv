@@ -1,0 +1,5 @@
+BATCH,,201303,B,4350.0000,
+INVOICE,IN,,691,,03/27/2013,2025.0000,"Invoice-Private",,03/27/2013,03/27/2013,,20017719MO,-2550.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,27,75.0000,2025.00,"Room and Board - Studio for Mar: McTester, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,691,,03/27/2013,2325,"Invoice-Private",,03/27/2013,03/27/2013,,20017719MO,-2550.0000,,,,,,,,,,
+TRANSACTION,3020,010001200,1,2325,2325,"CR:Room and Board ... J.McTester 201303: McTester, Joe",,,,,,,,,,,,,,,

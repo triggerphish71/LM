@@ -1,0 +1,7 @@
+BATCH,,201307,B,6486.7500,
+INVOICE,IN,,01310222,,07/14/2013,2018.1000,"Invoice-Private",,07/14/2013,07/14/2013,,01314506MO,-2450.5500,,,,,,,,,,
+TRANSACTION,3020,010103013,14,72.0000,1008.00,"Basic Service Fee - Studio for Jul: Lantz, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,14,72.1500,1010.10,"Resident Care - Level 39 for Jul: Lantz, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,01310222,,07/14/2013,4468.65,"Invoice-Private",,07/14/2013,07/14/2013,,01314506MO,-2450.5500,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... C.Lantz 201307: Lantz, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,2236.65,2236.65,"CR:Resident Care -... C.Lantz 201307: Lantz, Charles",,,,,,,,,,,,,,,

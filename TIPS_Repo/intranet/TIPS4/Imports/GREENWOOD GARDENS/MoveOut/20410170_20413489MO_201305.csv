@@ -1,0 +1,5 @@
+BATCH,,201305,B,70.0000,
+INVOICE,IN,,20410170,,05/01/2013,35.0000,"Invoice-Private",,05/01/2013,05/10/2013,,20413489MO,-5154.0000,,,,,,,,,,
+TRANSACTION,3130,010216204,1,35.0000,35.00,"Pendant Fee: Sprouse, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,20410170,,05/01/2013,35,"Invoice-Private",,05/01/2013,05/10/2013,,20413489MO,-5154.0000,,,,,,,,,,
+TRANSACTION,3130,010216204,1,35,35,"Credit for Pendant Fee: Sprouse, Margaret",,,,,,,,,,,,,,,

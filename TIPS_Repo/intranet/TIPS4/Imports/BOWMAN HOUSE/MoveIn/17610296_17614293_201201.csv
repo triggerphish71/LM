@@ -1,0 +1,5 @@
+BATCH,,201201,B,2856.0000,
+INVOICE,IN,,17610296,,01/20/2012,2856.0000,"MoveIn-Custard. Donald",,01/20/2012,01/20/2012,,17614293,6133.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,12,103.0000,1236,"Basic Service Fee - One Bedroom: Custard. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Custard. Donald",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,12,10.0000,120,"CC Meals: Custard. Donald",,,,,,,,,,,,,,,

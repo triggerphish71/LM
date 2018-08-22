@@ -1,0 +1,5 @@
+BATCH,,201210,B,70.0000,
+INVOICE,IN,,12110235,,10/01/2012,35.0000,"Invoice-Private",,10/01/2012,10/10/2012,,12115936MO,-5278.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Lounsbury, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,12110235,,10/01/2012,35,"Invoice-Private",,10/01/2012,10/10/2012,,12115936MO,-5278.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Lounsbury, Mildred",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,4331.0000,
+INVOICE,IN,,15310223,,08/08/2011,4331.0000,"MoveIn-Andrews. Iva",,08/08/2011,08/08/2011,,15315576,4331.0000,,,,,,,,,,
+TRANSACTION,3010,010103153,24,96.0000,2304,"Basic Service Fee - Studio         : Andrews. Iva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Andrews. Iva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Andrews. Iva",,,,,,,,,,,,,,,

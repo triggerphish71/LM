@@ -1,0 +1,5 @@
+BATCH,,201303,B,2904.0000,
+INVOICE,IN,,07110157,,03/11/2013,858.0000,"Invoice-Private",,03/11/2013,03/11/2013,,07114602MO,-1188.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,13,66.0000,858.00,"Basic Service Fee - Studio for Mar: Kneisley, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,07110157,,03/11/2013,2046,"Invoice-Private",,03/11/2013,03/11/2013,,07114602MO,-1188.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2046,2046,"CR:Basic Service F... R.Kneisley 201303: Kneisley, Robert",,,,,,,,,,,,,,,

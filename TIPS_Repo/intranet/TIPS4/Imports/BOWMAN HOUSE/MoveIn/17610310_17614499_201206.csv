@@ -1,0 +1,6 @@
+BATCH,,201206,B,5065.0000,
+INVOICE,IN,,17610310,,06/08/2012,5065.0000,"MoveIn-Daugherty. Ramona",,06/08/2012,06/08/2012,,17614499,5065.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,23,103.0000,2369,"Basic Service Fee - One Bedroom: Daugherty. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,23,42.0000,966,"Resident Care - Level 3: Daugherty. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Daugherty. Ramona",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,23,10.0000,230,"CC Meals: Daugherty. Ramona",,,,,,,,,,,,,,,

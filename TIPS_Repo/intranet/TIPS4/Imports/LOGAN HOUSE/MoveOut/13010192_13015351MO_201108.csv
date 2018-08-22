@@ -1,0 +1,7 @@
+BATCH,,201108,B,7752.0000,
+INVOICE,IN,,13010192,,08/26/2011,3536.0000,"Invoice-Private",,08/26/2011,08/26/2011,,13015351MO,-4760.0000,,,,,,,,,,
+TRANSACTION,3027,010310130,26,38.0000,988.00,"Resident Care - Level 2 for Aug: Feudale, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310130,26,98.0000,2548.00,"Room and Board - Studio for Aug: Feudale, James",,,,,,,,,,,,,,,
+INVOICE,CM,,13010192,,08/26/2011,4216,"Invoice-Private",,08/26/2011,08/26/2011,,13015351MO,-4760.0000,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1178,1178,"CR:Resident Care -... J.Feudale 201108: Feudale, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3038,3038,"CR:Room and Board ... J.Feudale 201108: Feudale, James",,,,,,,,,,,,,,,

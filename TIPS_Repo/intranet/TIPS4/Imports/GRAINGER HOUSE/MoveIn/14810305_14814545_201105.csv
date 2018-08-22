@@ -1,0 +1,6 @@
+BATCH,,201105,B,3542.0000,
+INVOICE,IN,,14810305,,05/16/2011,3542.0000,"MoveIn-Banichar. Richard",,05/16/2011,05/16/2011,,14814545,3542.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,16,88.0000,1408,"Basic Service Fee - Studio         : Banichar. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,16,69.0000,1104,"Resident Care - Level 5: Banichar. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Banichar. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1000.0000,1000,"New Resident Fee: Banichar. Richard",,,,,,,,,,,,,,,

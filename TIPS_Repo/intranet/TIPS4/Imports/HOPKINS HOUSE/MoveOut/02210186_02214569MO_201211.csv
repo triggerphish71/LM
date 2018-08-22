@@ -1,0 +1,8 @@
+BATCH,,201211,B,6946.0000,
+INVOICE,IN,,02210186,,11/26/2012,3466.0000,"Invoice-Private",,11/26/2012,11/26/2012,,02214569MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3320,010202022,1,450.0000,450.00,"CR:Limited Term Di... H.Grubbs 201211: Grubbs, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,26,31.0000,806.00,"Resident Care - Level 2 for Nov: Grubbs, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202022,26,85.0000,2210.00,"Room and Board - Studio for Nov: Grubbs, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,02210186,,11/26/2012,3480,"Invoice-Private",,11/26/2012,11/26/2012,,02214569MO,-3145.0000,,,,,,,,,,
+TRANSACTION,3027,010202022,1,930,930,"CR:Resident Care -... H.Grubbs 201211: Grubbs, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2550,2550,"CR:Room and Board ... H.Grubbs 201211: Grubbs, Henry",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201804,B,1521.0000,
+INVOICE,IN,,15110281,,04/09/2018,351.0000,"Invoice-Private",,04/09/2018,04/09/2018,,15116812MO,-819.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,9,39.0000,351.00,"Basic Service Fee - Studio  for Apr: Andersen, Barb",,,,,,,,,,,,,,,
+INVOICE,CM,,15110281,,04/09/2018,1170,"Invoice-Private",,04/09/2018,04/09/2018,,15116812MO,-819.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,1170,1170,"CR:Basic Service F... B.Andersen 201804: Andersen, Barb",,,,,,,,,,,,,,,

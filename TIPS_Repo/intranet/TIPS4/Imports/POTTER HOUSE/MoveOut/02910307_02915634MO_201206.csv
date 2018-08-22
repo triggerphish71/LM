@@ -1,0 +1,7 @@
+BATCH,,201206,B,6118.0000,
+INVOICE,IN,,02910307,,06/14/2012,2128.0000,"Invoice-Private",,06/14/2012,06/14/2012,,02915634MO,-1862.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,16,17.0000,272.00,"Resident Care - Level 1 for Jun: Alexander, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,16,116.0000,1856.00,"Room and Board - One Bedroom for Jun: Alexander, Dennis",,,,,,,,,,,,,,,
+INVOICE,CM,,02910307,,06/14/2012,3990,"Invoice-Private",,06/14/2012,06/14/2012,,02915634MO,-1862.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,1,510,510,"CR:Resident Care -... D.Alexander 201206: Alexander, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3480,3480,"CR:Room and Board ... D.Alexander 201206: Alexander, Dennis",,,,,,,,,,,,,,,

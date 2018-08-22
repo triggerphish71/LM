@@ -1,0 +1,5 @@
+BATCH,,201211,B,4689.0000,
+INVOICE,IN,,12810241,,11/07/2012,4689.0000,"MoveIn-Reale. Virginia",,11/07/2012,11/07/2012,,12815091,4689.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,24,111.0000,2664,"Basic Service Fee - Studio         : Reale. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: Reale. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306128,1,2000.0000,2000,"New Resident Fee: Reale. Virginia",,,,,,,,,,,,,,,

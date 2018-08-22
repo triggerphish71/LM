@@ -1,0 +1,6 @@
+BATCH,,201106,B,2995.0000,
+INVOICE,IN,,01310164,,06/01/2011,897.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01313868MO,-1201.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,13,69.0000,897.00,"Basic Service Fee - Studio for Jun: Sall, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,01310164,,06/01/2011,2098,"Invoice-Private",,06/01/2011,06/10/2011,,01313868MO,-1201.0000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2070,2070,"CR:Basic Service F... G.Sall 201106: Sall, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... G.Sall 201106: Sall, Gary",,,,,,,,,,,,,,,

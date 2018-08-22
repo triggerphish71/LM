@@ -1,0 +1,7 @@
+BATCH,,201108,B,174.0000,
+INVOICE,IN,,07710103,,08/01/2011,87.0000,"Invoice-Private",,08/01/2011,08/10/2011,,07713990MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25.00,"Monthly Cable: OReilly, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104077,31,2.0000,62.00,"Credit for Limited Term Discount: OReilly, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,07710103,,08/01/2011,87,"Invoice-Private",,08/01/2011,08/10/2011,,07713990MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"Credit for Monthly Cable: OReilly, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104077,31,2,62,"Limited Term Discount: OReilly, Ruth",,,,,,,,,,,,,,,

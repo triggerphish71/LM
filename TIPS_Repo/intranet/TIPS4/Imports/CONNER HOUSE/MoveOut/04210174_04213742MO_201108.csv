@@ -1,0 +1,5 @@
+BATCH,,201108,B,54.0000,
+INVOICE,IN,,04210174,,08/01/2011,27.0000,"Invoice-Private",,08/01/2011,08/10/2011,,04213742MO,-4398.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Taylor, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,04210174,,08/01/2011,27,"Invoice-Private",,08/01/2011,08/10/2011,,04213742MO,-4398.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Taylor, Geraldine",,,,,,,,,,,,,,,

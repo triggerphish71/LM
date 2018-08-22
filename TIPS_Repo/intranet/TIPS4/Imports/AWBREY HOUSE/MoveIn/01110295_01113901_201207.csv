@@ -1,0 +1,5 @@
+BATCH,,201207,B,3047.0800,
+INVOICE,IN,,01110295,,07/11/2012,3047.0800,"MoveIn-Schwerdtfeger. Anna",,07/11/2012,07/11/2012,,01113901,3047.0800,,,,,,,,,,
+TRANSACTION,3010,010101011,21,76.0000,1596,"Basic Service Fee - Studio: Schwerdtfeger. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,21,21.4800,451.08,"Resident Care - Level 12: Schwerdtfeger. Anna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Schwerdtfeger. Anna",,,,,,,,,,,,,,,

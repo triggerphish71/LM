@@ -1,0 +1,8 @@
+BATCH,,201206,B,3776.0000,
+INVOICE,IN,,01410179,,06/01/2012,121.0000,"Invoice-Private",,06/01/2012,06/10/2012,,01414351MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,90.0000,90.00,"Basic Service Fee - Studio for Jun: Featherstone, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,31.0000,31.00,"Resident Care - Level 2 for Jun: Featherstone, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,01410179,,06/01/2012,3655,"Invoice-Private",,06/01/2012,06/10/2012,,01414351MO,-3534.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2700,2700,"CR:Basic Service F... P.Featherstone 201206: Featherstone, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... P.Featherstone 201206: Featherstone, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,930,930,"CR:Resident Care -... P.Featherstone 201206: Featherstone, Paul",,,,,,,,,,,,,,,

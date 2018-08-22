@@ -1,0 +1,5 @@
+BATCH,,201201,B,5466.0000,
+INVOICE,IN,,16910241,,01/01/2012,5466.0000,"MoveIn-Hawkins. Meriel",,01/01/2012,01/01/2012,,16914716,5466.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,31,111.0000,3441,"Basic Service Fee - One Bedroom: Hawkins. Meriel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Hawkins. Meriel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Hawkins. Meriel",,,,,,,,,,,,,,,

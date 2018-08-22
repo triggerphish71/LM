@@ -1,0 +1,5 @@
+BATCH,,201106,B,2107.0000,
+INVOICE,IN,,02210180,,06/30/2011,2107.0000,"MoveIn-Pullen. Peggy",,06/30/2011,06/30/2011,,02213974,4674.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,1,82.0000,82,"Basic Service Fee - Studio         : Pullen. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Pullen. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Pullen. Peggy",,,,,,,,,,,,,,,

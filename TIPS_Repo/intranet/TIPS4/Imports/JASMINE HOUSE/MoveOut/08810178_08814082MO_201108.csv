@@ -1,0 +1,5 @@
+BATCH,,201108,B,3205.4000,
+INVOICE,IN,,08810178,,08/01/2011,291.4000,"Invoice-Private",,08/01/2011,08/10/2011,,08814082MO,-2622.6000,,,,,,,,,,
+TRANSACTION,3312,010107088,1,291.4000,291.40,"CR:Two Room Rental... M.Milosevich 201108: Milosevich, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08810178,,08/01/2011,2914,"Invoice-Private",,08/01/2011,08/10/2011,,08814082MO,-2622.6000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2914,2914,"CR:Basic Service F... M.Milosevich 201108: Milosevich, Mary",,,,,,,,,,,,,,,

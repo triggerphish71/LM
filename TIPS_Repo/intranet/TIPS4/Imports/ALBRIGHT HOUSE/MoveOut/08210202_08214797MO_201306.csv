@@ -1,0 +1,8 @@
+BATCH,,201306,B,4845.3000,
+INVOICE,IN,,08210202,,06/08/2013,1014.8000,"Invoice-Private",,06/08/2013,06/08/2013,,08214797MO,-2815.7000,,,,,,,,,,
+TRANSACTION,3020,010103082,8,51.0000,408.00,"Basic Service Fee - Studio for Jun: Oliver, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,8,75.8500,606.80,"Resident Care - Level 41 for Jun: Oliver, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,08210202,,06/08/2013,3830.5,"Invoice-Private",,06/08/2013,06/08/2013,,08214797MO,-2815.7000,,,,,,,,,,
+TRANSACTION,3020,010103082,1,1530,1530,"CR:Basic Service F... R.Oliver 201306: Oliver, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... R.Oliver 201306: Oliver, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,2275.5,2275.5,"CR:Resident Care -... R.Oliver 201306: Oliver, Richard",,,,,,,,,,,,,,,

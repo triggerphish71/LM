@@ -1,0 +1,8 @@
+BATCH,,201201,B,4510.0000,
+INVOICE,IN,,13510200,,01/01/2012,140.0000,"Invoice-Private",,01/01/2012,01/01/2012,,13514994MO,-4230.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,109.0000,109.00,"Basic Service Fee - One Bedroom for Jan: Dalrymple, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,31.0000,31.00,"Resident Care - Level 2 for Jan: Dalrymple, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,13510200,,01/01/2012,4370,"Invoice-Private",,01/01/2012,01/01/2012,,13514994MO,-4230.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,3379,3379,"CR:Basic Service F... M.Dalrymple 201201: Dalrymple, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... M.Dalrymple 201201: Dalrymple, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... M.Dalrymple 201201: Dalrymple, Marjorie",,,,,,,,,,,,,,,

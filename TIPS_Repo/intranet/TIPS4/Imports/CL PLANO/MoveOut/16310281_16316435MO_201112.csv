@@ -1,0 +1,5 @@
+BATCH,,201112,B,558.0000,
+INVOICE,IN,,16310281,,12/01/2011,279.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16316435MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,31,9.0000,279.00,"Credit for Limited Term Discount: Sieb, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,16310281,,12/01/2011,279,"Invoice-Private",,12/01/2011,12/10/2011,,16316435MO,-3420.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,31,9,279,"Limited Term Discount: Sieb, Joan",,,,,,,,,,,,,,,

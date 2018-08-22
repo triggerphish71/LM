@@ -1,0 +1,8 @@
+BATCH,,201202,B,4589.0000,
+INVOICE,IN,,03610277,,02/07/2012,1196.0000,"Invoice-Private",,02/07/2012,02/07/2012,,03615013MO,-2197.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,377.0000,377.00,"CR:Limited Term Di... S.Shirli 201202: Shirli, Sere",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202036,7,101.0000,707.00,"Basic Service Fee - Studio for Feb: Shirli, Sere",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,7,16.0000,112.00,"Resident Care - Level 1 for Feb: Shirli, Sere",,,,,,,,,,,,,,,
+INVOICE,CM,,03610277,,02/07/2012,3393,"Invoice-Private",,02/07/2012,02/07/2012,,03615013MO,-2197.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,2929,2929,"CR:Basic Service F... S.Shirli 201202: Shirli, Sere",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,464,464,"CR:Resident Care -... S.Shirli 201202: Shirli, Sere",,,,,,,,,,,,,,,

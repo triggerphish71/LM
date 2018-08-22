@@ -1,0 +1,6 @@
+BATCH,,201108,B,5165.0000,
+INVOICE,IN,,50310253,,08/23/2011,2185.0000,"Invoice-Private",,08/23/2011,08/23/2011,,50313704MO,-3680.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,23,95.0000,2185.00,"Room and Board - One Bedroom for Aug: Stephens, Eli",,,,,,,,,,,,,,,
+INVOICE,CM,,50310253,,08/23/2011,2980,"Invoice-Private",,08/23/2011,08/23/2011,,50313704MO,-3680.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... E.Stephens 201108: Stephens, Eli",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2945,2945,"CR:Room and Board ... E.Stephens 201108: Stephens, Eli",,,,,,,,,,,,,,,

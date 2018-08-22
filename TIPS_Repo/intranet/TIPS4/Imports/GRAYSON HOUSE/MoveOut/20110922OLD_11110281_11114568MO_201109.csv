@@ -1,0 +1,7 @@
+BATCH,,201109,B,5163.0000,
+INVOICE,IN,,11110281,,09/17/2011,2318.0000,"Invoice-Private",,09/17/2011,09/17/2011,,11114568MO,-3621.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,720.0000,720.00,"CR:Limited Term Di... J.Booze 201109: Booze, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107111,17,94.0000,1598.00,"Basic Service Fee - Studio for Sep: Booze, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,11110281,,09/17/2011,2845,"Invoice-Private",,09/17/2011,09/17/2011,,11114568MO,-3621.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2820,2820,"CR:Basic Service F... J.Booze 201109: Booze, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... J.Booze 201109: Booze, Jim",,,,,,,,,,,,,,,

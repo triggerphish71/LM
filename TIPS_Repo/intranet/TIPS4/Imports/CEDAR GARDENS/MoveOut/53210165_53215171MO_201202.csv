@@ -1,0 +1,7 @@
+BATCH,,201202,B,4782.0000,
+INVOICE,IN,,53210165,,02/01/2012,928.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53215171MO,-2926.0000,,,,,,,,,,
+TRANSACTION,3320,010319532,1,928.0000,928.00,"CR:Limited Term Di... R.Jacobs 201202: Jacobs, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,53210165,,02/01/2012,3854,"Invoice-Private",,02/01/2012,02/10/2012,,53215171MO,-2926.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3799,3799,"CR:Basic Service F... R.Jacobs 201202: Jacobs, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... R.Jacobs 201202: Jacobs, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319532,1,25,25,"CR:Pendant Fee... R.Jacobs 201202: Jacobs, Raymond",,,,,,,,,,,,,,,

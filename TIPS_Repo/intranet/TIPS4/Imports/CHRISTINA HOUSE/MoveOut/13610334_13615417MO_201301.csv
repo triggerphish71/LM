@@ -1,0 +1,8 @@
+BATCH,,201301,B,5030.0000,
+INVOICE,IN,,13610334,,01/07/2013,1554.0000,"Invoice-Private",,01/07/2013,01/07/2013,,13615417MO,-5095.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,14,80.0000,1120.00,"Basic Service Fee- One Bedroom Prem for Jan: Scales, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,14,31.0000,434.00,"Resident Care - Level 2 for Jan: Scales, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,13610334,,01/07/2013,3476,"Invoice-Private",,01/07/2013,01/07/2013,,13615417MO,-5095.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2480,2480,"CR:Basic Service F... T.Scales 201301: Scales, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... T.Scales 201301: Scales, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... T.Scales 201301: Scales, Thelma",,,,,,,,,,,,,,,

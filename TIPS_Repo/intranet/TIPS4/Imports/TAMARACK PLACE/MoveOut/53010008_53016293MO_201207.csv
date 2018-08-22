@@ -1,0 +1,8 @@
+BATCH,,201207,B,8048.0000,
+INVOICE,IN,,53010008,,07/16/2012,3575.0000,"Invoice-Private",,07/16/2012,07/16/2012,,53016293MO,-5371.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,25,113.0000,2825.00,"Basic Service Fee - One Bedroom Del for Jul: Stuettgen, Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,25,30.0000,750.00,"Resident Care - Level 1 for Jul: Stuettgen, Betty Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,53010008,,07/16/2012,4473,"Invoice-Private",,07/16/2012,07/16/2012,,53016293MO,-5371.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3503,3503,"CR:Basic Service F... B.Stuettgen 201207: Stuettgen, Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Stuettgen 201207: Stuettgen, Betty Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,930,930,"CR:Resident Care -... B.Stuettgen 201207: Stuettgen, Betty Jane",,,,,,,,,,,,,,,

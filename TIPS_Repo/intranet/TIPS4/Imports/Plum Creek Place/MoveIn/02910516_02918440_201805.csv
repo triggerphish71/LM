@@ -1,0 +1,6 @@
+BATCH,,201805,B,6291.2000,
+INVOICE,IN,,02910516,,05/24/2018,6291.2000,"MoveIn-Prouty. Glenda",,05/24/2018,05/24/2018,,02918440,9591.2000,,,,,,,,,,
+TRANSACTION,3010,010002029,8,89.0000,712,"Basic Service Fee - Studio: Prouty. Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002029,8,21.0000,168,"Resident Care - Level 1: Prouty. Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002029,1,2705.6000,2705.6,"Community Fee: Prouty. Glenda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002029,1,2705.6000,2705.6,"Monthly Deferral Charge: Prouty. Glenda",,,,,,,,,,,,,,,

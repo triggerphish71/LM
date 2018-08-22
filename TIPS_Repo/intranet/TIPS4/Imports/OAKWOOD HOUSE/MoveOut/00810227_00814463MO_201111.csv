@@ -1,0 +1,5 @@
+BATCH,,201111,B,54.0000,
+INVOICE,IN,,00810227,,11/01/2011,27.0000,"Invoice-Private",,11/01/2011,11/10/2011,,00814463MO,-5304.0000,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27.00,"Monthly Cable: Hayden, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,00810227,,11/01/2011,27,"Invoice-Private",,11/01/2011,11/10/2011,,00814463MO,-5304.0000,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"Credit for Monthly Cable: Hayden, Ronald",,,,,,,,,,,,,,,

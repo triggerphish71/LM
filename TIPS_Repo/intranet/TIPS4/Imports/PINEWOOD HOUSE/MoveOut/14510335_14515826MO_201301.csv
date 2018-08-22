@@ -1,0 +1,6 @@
+BATCH,,201301,B,5564.0000,
+INVOICE,IN,,14510335,,01/23/2013,1386.0000,"Invoice-Private",,01/23/2013,01/23/2013,,14515826MO,-5564.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,14,99.0000,1386.00,"Basic Service Fee - Studio for Jan: Garrett, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,14510335,,01/23/2013,4178,"Invoice-Private",,01/23/2013,01/23/2013,,14515826MO,-5564.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2178,2178,"CR:Basic Service F... G.Garrett 201301: Garrett, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308145,1,2000,2000,"CR:New Resident Fe... G.Garrett 201301: Garrett, Grace",,,,,,,,,,,,,,,

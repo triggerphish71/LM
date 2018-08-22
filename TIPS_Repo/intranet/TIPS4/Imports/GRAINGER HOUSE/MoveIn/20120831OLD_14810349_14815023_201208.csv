@@ -1,0 +1,6 @@
+BATCH,,201208,B,1678.0000,
+INVOICE,IN,,14810349,,08/31/2012,1678.0000,"MoveIn-Stanford. Mary",,08/31/2012,08/31/2012,,14815023,6148.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,1,91.0000,91,"M.Stanford: Basic Service Fee - Studio: Stanford. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,1,57.0000,57,"M.Stanford: Resident Care - Level 4: Stanford. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Stanford. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1500.0000,1500,"New Resident Fee: Stanford. Mary",,,,,,,,,,,,,,,

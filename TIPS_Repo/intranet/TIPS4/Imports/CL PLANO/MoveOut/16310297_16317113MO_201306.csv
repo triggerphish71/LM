@@ -1,0 +1,5 @@
+BATCH,,201306,B,654.0000,
+INVOICE,IN,,16310297,,06/01/2013,327.0000,"Invoice-Private",,06/01/2013,06/10/2013,,16317113MO,-6247.1000,,,,,,,,,,
+TRANSACTION,3312,010202163,30,10.9000,327.00,"Credit for Two Room Rental Discount: Bloomer, Paula",,,,,,,,,,,,,,,
+INVOICE,CM,,16310297,,06/01/2013,327,"Invoice-Private",,06/01/2013,06/10/2013,,16317113MO,-6247.1000,,,,,,,,,,
+TRANSACTION,3312,010202163,30,10.9,327,"Two Room Rental Discount: Bloomer, Paula",,,,,,,,,,,,,,,

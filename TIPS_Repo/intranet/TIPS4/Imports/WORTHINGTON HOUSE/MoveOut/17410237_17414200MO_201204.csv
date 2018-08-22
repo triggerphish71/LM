@@ -1,0 +1,8 @@
+BATCH,,201204,B,4085.0000,
+INVOICE,IN,,17410237,,04/01/2012,950.0000,"Invoice-Private",,04/01/2012,04/10/2012,,17414200MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3312,010309174,1,285.0000,285.00,"CR:Two Room Rental... G.Brown 201204: Brown, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,4,95.0000,380.00,"Room and Board - Studio for Apr: Brown, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309174,30,9.5000,285.00,"Credit for Two Room Rental Discount: Brown, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,17410237,,04/01/2012,3135,"Invoice-Private",,04/01/2012,04/10/2012,,17414200MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2850,2850,"CR:Room and Board ... G.Brown 201204: Brown, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309174,30,9.5,285,"Two Room Rental Discount: Brown, Gladys",,,,,,,,,,,,,,,

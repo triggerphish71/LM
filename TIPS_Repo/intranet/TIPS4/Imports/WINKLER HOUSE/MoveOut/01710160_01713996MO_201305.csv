@@ -1,0 +1,8 @@
+BATCH,,201305,B,4857.0000,
+INVOICE,IN,,01710160,,05/04/2013,552.0000,"Invoice-Private",,05/04/2013,05/04/2013,,01713996MO,-3753.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,4,65.0000,260.00,"Basic Service Fee - Studio for May: Brady, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,4,73.0000,292.00,"Resident Care - Level 6 for May: Brady, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,01710160,,05/04/2013,4305,"Invoice-Private",,05/04/2013,05/04/2013,,01713996MO,-3753.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2015,2015,"CR:Basic Service F... G.Brady 201305: Brady, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... G.Brady 201305: Brady, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,2263,2263,"CR:Resident Care -... G.Brady 201305: Brady, Geraldine",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,3857.0000,
+INVOICE,IN,,21410377,,04/01/2012,1727.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21417376MO,-403.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,1230.0000,1230.00,"CR:Limited Term Di... P.Thompson 201204: Thompson, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,7,71.0000,497.00,"IL One Bedroom for Apr: Thompson, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,21410377,,04/01/2012,2130,"Invoice-Private",,04/01/2012,04/10/2012,,21417376MO,-403.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2130,2130,"CR:IL One Bedroom... P.Thompson 201204: Thompson, Paul",,,,,,,,,,,,,,,

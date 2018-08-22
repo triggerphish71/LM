@@ -1,0 +1,5 @@
+BATCH,,201206,B,780.0000,
+INVOICE,IN,,51910182,,06/01/2012,390.0000,"Invoice-Private",,06/01/2012,06/10/2012,,51913375MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,30,13.0000,390.00,"Credit for Limited Term Discount: Saunders, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,51910182,,06/01/2012,390,"Invoice-Private",,06/01/2012,06/10/2012,,51913375MO,-3007.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,30,13,390,"Limited Term Discount: Saunders, Joan",,,,,,,,,,,,,,,

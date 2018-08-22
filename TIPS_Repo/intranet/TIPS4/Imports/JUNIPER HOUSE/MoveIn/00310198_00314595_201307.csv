@@ -1,0 +1,5 @@
+BATCH,,201307,B,3241.0000,
+INVOICE,IN,,00310198,,07/05/2013,3241.0000,"MoveIn-Morris. Alice",,07/05/2013,07/05/2013,,00314595,3241.0000,,,,,,,,,,
+TRANSACTION,3010,010101003,27,82.0000,2214,"Basic Service Fee - Studio: Morris. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Morris. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Morris. Alice",,,,,,,,,,,,,,,

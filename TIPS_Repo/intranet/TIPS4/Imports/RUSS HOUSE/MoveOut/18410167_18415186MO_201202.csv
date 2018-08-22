@@ -1,0 +1,8 @@
+BATCH,,201202,B,5569.0000,
+INVOICE,IN,,18410167,,02/01/2012,1716.0000,"Invoice-Private",,02/01/2012,02/10/2012,,18415186MO,-6254.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,13,119.0000,1547.00,"Basic Service Fee - One Bedroom for Feb: Colvin, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,13,13.0000,169.00,"Resident Care - Level 1 for Feb: Colvin, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,18410167,,02/01/2012,3853,"Invoice-Private",,02/01/2012,02/10/2012,,18415186MO,-6254.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,3451,3451,"CR:Basic Service F... H.Colvin 201202: Colvin, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"CR:Monthly Cable... H.Colvin 201202: Colvin, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,377,377,"CR:Resident Care -... H.Colvin 201202: Colvin, Helen",,,,,,,,,,,,,,,

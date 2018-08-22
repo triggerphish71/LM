@@ -1,0 +1,6 @@
+BATCH,,201210,B,3225.0000,
+INVOICE,IN,,07510269,,10/05/2012,3225.0000,"MoveIn-Nelson. Russell",,10/05/2012,10/05/2012,,07514997,3225.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,27,85.0000,2295,"Basic Service Fee - Studio: Nelson. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,27,15.0000,405,"Resident Care - Level 1: Nelson. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Nelson. Russell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,500.0000,500,"New Resident Fee: Nelson. Russell",,,,,,,,,,,,,,,

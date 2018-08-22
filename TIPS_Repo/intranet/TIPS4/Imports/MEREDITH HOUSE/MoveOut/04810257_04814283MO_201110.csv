@@ -1,0 +1,5 @@
+BATCH,,201110,B,1590.0000,
+INVOICE,IN,,04810257,,10/22/2011,660.0000,"Invoice-Private",,10/22/2011,10/22/2011,,04814283MO,-1170.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,22,30.0000,660.00,"Basic Service Fee - Second Resident for Oct: Shipman, Troy",,,,,,,,,,,,,,,
+INVOICE,CM,,04810257,,10/22/2011,930,"Invoice-Private",,10/22/2011,10/22/2011,,04814283MO,-1170.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,930,930,"CR:Basic Service F... T.Shipman 201110: Shipman, Troy",,,,,,,,,,,,,,,

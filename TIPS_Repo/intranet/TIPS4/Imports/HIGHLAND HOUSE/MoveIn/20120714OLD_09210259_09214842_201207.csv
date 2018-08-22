@@ -1,0 +1,5 @@
+BATCH,,201207,B,3692.0000,
+INVOICE,IN,,09210259,,07/14/2012,3692.0000,"MoveIn-Greene. Stella",,07/14/2012,07/14/2012,,09214842,3692.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,18,78.0000,1404,"Basic Service Fee - Studio: Greene. Stella",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,18,16.0000,288,"Resident Care - Level 1: Greene. Stella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,2000.0000,2000,"New Resident Fee: Greene. Stella",,,,,,,,,,,,,,,

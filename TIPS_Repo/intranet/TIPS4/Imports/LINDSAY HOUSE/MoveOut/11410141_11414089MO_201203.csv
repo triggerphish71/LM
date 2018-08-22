@@ -1,0 +1,5 @@
+BATCH,,201203,B,1872.0000,
+INVOICE,IN,,11410141,,03/17/2012,663.0000,"Invoice-Private",,03/17/2012,03/17/2012,,11414089MO,-1716.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,17,39.0000,663.00,"Basic Service Fee - Second Resident for Mar: Ashfield, Adeliade",,,,,,,,,,,,,,,
+INVOICE,CM,,11410141,,03/17/2012,1209,"Invoice-Private",,03/17/2012,03/17/2012,,11414089MO,-1716.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,1209,1209,"CR:Basic Service F... A.Ashfield 201203: Ashfield, Adeliade",,,,,,,,,,,,,,,

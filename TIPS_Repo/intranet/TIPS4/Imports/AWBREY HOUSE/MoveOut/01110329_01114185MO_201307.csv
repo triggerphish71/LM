@@ -1,0 +1,7 @@
+BATCH,,201307,B,4385.6000,
+INVOICE,IN,,01110329,,07/01/2013,137.0500,"Invoice-Private",,07/01/2013,07/01/2013,,01114185MO,-4111.5000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,76.0000,76.00,"Basic Service Fee - Studio for Jul: Neal, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,61.0500,61.05,"Resident Care - Level 33 for Jul: Neal, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,01110329,,07/01/2013,4248.55,"Invoice-Private",,07/01/2013,07/01/2013,,01114185MO,-4111.5000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... L.Neal 201307: Neal, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,1892.55,1892.55,"CR:Resident Care -... L.Neal 201307: Neal, Lois",,,,,,,,,,,,,,,

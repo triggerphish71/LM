@@ -1,0 +1,5 @@
+BATCH,,201105,B,3620.0000,
+INVOICE,IN,,13710212,,05/13/2011,3620.0000,"MoveIn-Hack. Carl",,05/13/2011,05/13/2011,,13713919,6950.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,19,110.0000,2090,"Basic Service Fee - One Bedroom    : Hack. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Hack. Carl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Hack. Carl",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201806,B,4704.0000,
+INVOICE,IN,,50510287,,06/01/2018,1464.0000,"Invoice-Private",,06/01/2018,06/10/2018,,50515143MO,-1258.0000,,,,,,,,,,
+TRANSACTION,3017,010005505,12,33.0000,396.00," Level: 2 : Kitsmiller, Shirley ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005505,12,89.0000,1068.00,"Basic Service Fee - Studio for Jun: Kitsmiller, Shirley ",,,,,,,,,,,,,,,
+INVOICE,CM,,50510287,,06/01/2018,3240,"Invoice-Private",,06/01/2018,06/10/2018,,50515143MO,-1258.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2670,2670,"CR:Basic Service F... S.Kitsmiller 201806: Kitsmiller, Shirley ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,570,570,"CR:Resident Care -... S.Kitsmiller 201806: Kitsmiller, Shirley ",,,,,,,,,,,,,,,

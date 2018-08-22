@@ -1,0 +1,7 @@
+BATCH,,201306,B,6965.0000,
+INVOICE,IN,,14210097,,06/01/2013,1860.0000,"Invoice-Private",,06/01/2013,06/10/2013,,14214465MO,-4959.0000,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1860.0000,1860.00,"CR:Resident Care L... B.Schepman 201306: Schepman, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14210097,,06/01/2013,5105,"Invoice-Private",,06/01/2013,06/10/2013,,14214465MO,-4959.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,3210,3210,"CR:Basic Service F... B.Schepman 201306: Schepman, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309142,1,35,35,"CR:Pendant Fee... B.Schepman 201306: Schepman, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,1860,1860,"CR:Resident Care -... B.Schepman 201306: Schepman, Betty",,,,,,,,,,,,,,,

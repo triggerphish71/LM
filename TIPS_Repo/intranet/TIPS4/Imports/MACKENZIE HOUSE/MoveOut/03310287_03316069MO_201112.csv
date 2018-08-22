@@ -1,0 +1,5 @@
+BATCH,,201112,B,1364.0000,
+INVOICE,IN,,03310287,,12/01/2011,682.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03316069MO,-3660.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,31,22.0000,682.00,"Credit for Limited Term Discount: Brass, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310287,,12/01/2011,682,"Invoice-Private",,12/01/2011,12/10/2011,,03316069MO,-3660.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,31,22,682,"Limited Term Discount: Brass, Bobbie",,,,,,,,,,,,,,,

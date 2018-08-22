@@ -1,0 +1,8 @@
+BATCH,,201105,B,2503.0000,
+INVOICE,IN,,13110252,,05/28/2011,522.0000,"Invoice-Private",,05/28/2011,05/28/2011,,13113847MO,-4789.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,3,111.0000,333.00,"Basic Service Fee - One Bedroom for May: Snelling, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,3,63.0000,189.00,"Service level: lvl 0 to lvl 5 - 5/27/11 for May: Snelling, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13110252,,05/28/2011,1981,"Invoice-Private",,05/28/2011,05/28/2011,,13113847MO,-4789.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,666,666,"CR:Basic Service F... M.Snelling 201105: Snelling, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,1000,1000,"CR:New Resident Fe... M.Snelling 201105: Snelling, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,315,315,"CR:Service level: ... M.Snelling 201105: Snelling, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,6441.9000,
+INVOICE,IN,,09710158,,04/24/2012,2996.4000,"Invoice-Private",,04/24/2012,04/24/2012,,09714371MO,-3761.4500,,,,,,,,,,
+TRANSACTION,3320,010103097,1,240.0000,240.00,"CR:Limited Term Di... B.Hall 201204: Hall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,24,88.0000,2112.00,"Basic Service Fee - Studio for Apr: Hall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,24,26.8500,644.40,"Resident Care - Level 15 for Apr: Hall, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,09710158,,04/24/2012,3445.5,"Invoice-Private",,04/24/2012,04/24/2012,,09714371MO,-3761.4500,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2640,2640,"CR:Basic Service F... B.Hall 201204: Hall, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,805.5,805.5,"CR:Resident Care -... B.Hall 201204: Hall, Betty",,,,,,,,,,,,,,,

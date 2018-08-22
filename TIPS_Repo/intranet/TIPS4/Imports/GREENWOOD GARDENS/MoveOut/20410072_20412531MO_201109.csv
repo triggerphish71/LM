@@ -1,0 +1,7 @@
+BATCH,,201109,B,5445.0000,
+INVOICE,IN,,20410072,,09/01/2011,2475.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20412531MO,-495.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,25,21.0000,525.00,"Resident Care - Level 2 for Sep: Dunton, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,25,78.0000,1950.00,"Room and Board - Studio for Sep: Dunton, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,20410072,,09/01/2011,2970,"Invoice-Private",,09/01/2011,09/10/2011,,20412531MO,-495.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,630,630,"CR:Resident Care -... C.Dunton 201109: Dunton, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2340,2340,"CR:Room and Board ... C.Dunton 201109: Dunton, Charles",,,,,,,,,,,,,,,

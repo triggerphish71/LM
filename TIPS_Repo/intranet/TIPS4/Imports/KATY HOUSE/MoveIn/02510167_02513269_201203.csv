@@ -1,0 +1,5 @@
+BATCH,,201203,B,3650.0000,
+INVOICE,IN,,02510167,,03/07/2012,3650.0000,"MoveIn-Spangler. Freda",,03/07/2012,03/07/2012,,02513269,3650.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,25,85.0000,2125,"F.Spangler: Basic Service Fee - Studio: Spangler. Freda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Spangler. Freda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1500.0000,1500,"New Resident Fee: Spangler. Freda",,,,,,,,,,,,,,,

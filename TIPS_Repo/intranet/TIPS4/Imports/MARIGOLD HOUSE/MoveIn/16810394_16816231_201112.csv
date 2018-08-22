@@ -1,0 +1,6 @@
+BATCH,,201112,B,3045.0000,
+INVOICE,IN,,16810394,,12/22/2011,3045.0000,"MoveIn-Moser. Doris",,12/22/2011,12/22/2011,,16816231,7007.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,10,89.0000,890,"Basic Service Fee - Efficiency: Moser. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,10,38.0000,380,"Resident Care - Level 3: Moser. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Moser. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010313168,1,1750.0000,1750,"New Resident Fee: Moser. Doris",,,,,,,,,,,,,,,

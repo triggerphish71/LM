@@ -1,0 +1,61 @@
+<cfoutput>
+	<script language="javascript">
+	function LoadNotes()
+	{	
+		//get all the input buttons
+		InputArray = document.getElementsByTagName('input');
+		var ServiceArray = new Array(#ArrayLen(AssessmentServiceArray)#);
+		
+		//
+		var SubServiceArray = new Array(#ArrayLen(AssessmentSubServiceArray)#);
+
+		<cfloop from="1" to="#ArrayLen(AssessmentServiceArray)#" index="i">
+			ServiceArray[#i - 1#] = new Array(2);
+			
+			ServiceArray[#i - 1#][0] = #AssessmentServiceArray[i].GetId()#;
+			
+			<cfset theNotes = AssessmentServiceArray[i].GetNotes()>
+			<cfset theNotes = Replace(theNotes,chr(13),"\n","ALL")>
+			<cfset theNotes = Replace(theNotes,chr(10),"","ALL")>
+			<cfset theNotes = ReplaceNoCase(theNotes,"'","\'","ALL")>
+			ServiceArray[#i - 1#][1] = '#theNotes#';
+		</cfloop>
+		
+		<cfloop from="1" to="#ArrayLen(AssessmentSubServiceArray)#" index="i">
+			SubServiceArray[#i - 1#] = #AssessmentSubServiceArray[i].GetId()#
+		</cfloop>
+		
+		//loop through the inputs
+		for(i = 0; i < InputArray.length; i++)
+		{
+			if(InputArray[i].onclick)
+			{
+				var onClickProcedure = InputArray[i].onclick.toString();
+			}
+			
+			//then check if its a service else 
+			if(InputArray[i].name.indexOf('service') != -1 )
+			{
+				//loop through the service array
+				for(x = 0; x < ServiceArray.length; x++)
+				{
+					serviceId = InputArray[i].name.substring(InputArray[i].name.indexOf('_') + 1,InputArray[i].name.length);
+					if(serviceId == ServiceArray[x][0] && InputArray[i].value == 'yes' && !InputArray[i].checked)
+					{
+						InputArray[i].checked = true;
+						notesName = 'notes_' + ServiceArray[x][0];
+						//alert(InputArray[i].name.indexOf('service'));
+						ShowNotes(notesName);
+						
+						notesName = 'add_' + notesName;
+						document.getElementsByName(notesName)[0].value = ServiceArray[x][1];
+						
+						InputArray[i].onclick();
+						break;
+					}
+				}			
+			}
+		}
+	}
+</script>
+</cfoutput>

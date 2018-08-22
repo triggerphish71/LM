@@ -1,0 +1,7 @@
+BATCH,,201306,B,1961.0000,
+INVOICE,IN,,13810250,,06/01/2013,371.0000,"Invoice-Private",,06/01/2013,06/10/2013,,13815640MO,-1219.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,7,37.0000,259.00,"Basic Service Fee - Second Resident for Jun: Baer, Arlean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,7,16.0000,112.00,"Resident Care - Level 1 for Jun: Baer, Arlean",,,,,,,,,,,,,,,
+INVOICE,CM,,13810250,,06/01/2013,1590,"Invoice-Private",,06/01/2013,06/10/2013,,13815640MO,-1219.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,1110,1110,"CR:Basic Service F... A.Baer 201306: Baer, Arlean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,480,480,"CR:Resident Care -... A.Baer 201306: Baer, Arlean",,,,,,,,,,,,,,,

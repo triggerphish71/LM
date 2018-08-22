@@ -1,0 +1,7 @@
+BATCH,,201212,B,194.0000,
+INVOICE,IN,,14210194,,12/01/2012,97.0000,"Invoice-Private",,12/01/2012,12/10/2012,,14214179MO,-5855.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Shepherd, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,31,2.0000,62.00,"Credit for Limited Term Discount: Shepherd, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,14210194,,12/01/2012,97,"Invoice-Private",,12/01/2012,12/10/2012,,14214179MO,-5855.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Shepherd, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,31,2,62,"Limited Term Discount: Shepherd, Jerry",,,,,,,,,,,,,,,

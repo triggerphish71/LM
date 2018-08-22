@@ -1,0 +1,6 @@
+BATCH,,201303,B,5335.5000,
+INVOICE,IN,,08110257,,03/02/2013,5335.5000,"MoveIn-Turelli. Donna",,03/02/2013,03/02/2013,,08114657,5335.5000,,,,,,,,,,
+TRANSACTION,3010,010103081,30,90.0000,2700,"Basic Service Fee - Studio: Turelli. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,30,20.3500,610.5,"Resident Care - Level 11: Turelli. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Turelli. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Turelli. Donna",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201208,B,1481.4900,
+INVOICE,IN,,03210274,,07/01/2012,148.1500,"July_Rent-Martin. Willie",,07/01/2012,07/10/2012,,03214950,3416.8100,,,,,,,,,,
+TRANSACTION,3216,010202032,1,148.1500,148.15,"Monthly Deferral Charge: Martin. Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,03210274,,07/01/2012,1333.3400,"July_Rent-Martin. Willie",,07/01/2012,07/10/2012,,03214950,3416.8100,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1333.34,1333.34,"New Resident Fee Deferred: Martin. Willie",,,,,,,,,,,,,,,

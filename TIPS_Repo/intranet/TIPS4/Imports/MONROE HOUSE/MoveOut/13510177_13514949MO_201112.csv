@@ -1,0 +1,8 @@
+BATCH,,201112,B,4396.0000,
+INVOICE,IN,,13510177,,12/05/2011,708.0000,"Invoice-Private",,12/05/2011,12/05/2011,,13514949MO,-2980.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,6,87.0000,522.00,"Basic Service Fee - Studio for Dec: Kelley, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,6,31.0000,186.00,"Resident Care - Level 2 for Dec: Kelley, Waneta",,,,,,,,,,,,,,,
+INVOICE,CM,,13510177,,12/05/2011,3688,"Invoice-Private",,12/05/2011,12/05/2011,,13514949MO,-2980.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2697,2697,"CR:Basic Service F... W.Kelley 201112: Kelley, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... W.Kelley 201112: Kelley, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... W.Kelley 201112: Kelley, Waneta",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201201,B,7569.0000,
+INVOICE,IN,,04310172,,01/13/2012,2460.0000,"Invoice-Private",,01/13/2012,01/13/2012,,04313820MO,-2649.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,15,98.0000,1470.00,"Basic Service Fee - Studio for Jan: Pratt, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,15,66.0000,990.00,"Resident Care - Level 4 for Jan: Pratt, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,04310172,,01/13/2012,5109,"Invoice-Private",,01/13/2012,01/13/2012,,04313820MO,-2649.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,3038,3038,"CR:Basic Service F... B.Pratt 201201: Pratt, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25,25,"CR:Monthly Cable... B.Pratt 201201: Pratt, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,2046,2046,"CR:Resident Care -... B.Pratt 201201: Pratt, Betty",,,,,,,,,,,,,,,

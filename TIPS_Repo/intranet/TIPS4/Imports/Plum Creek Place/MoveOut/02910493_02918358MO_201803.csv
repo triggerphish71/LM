@@ -1,0 +1,6 @@
+BATCH,,201803,B,3287.2800,
+INVOICE,IN,,02910493,,03/25/2018,1655.7500,"Invoice-Private",,03/25/2018,03/25/2018,,02918358MO,-1554.6800,,,,,,,,,,
+TRANSACTION,3017,010002029,17,20.0000,340.00," Level: 1 : St. John, Bobbie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002029,25,52.6300,1315.75,"Basic Service Fee - Studio  for Mar: St. John, Bobbie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910493,,03/25/2018,1631.53,"Invoice-Private",,03/25/2018,03/25/2018,,02918358MO,-1554.6800,,,,,,,,,,
+TRANSACTION,3020,010002029,1,1631.53,1631.53,"CR:Basic Service F... B.St. John 201803: St. John, Bobbie",,,,,,,,,,,,,,,

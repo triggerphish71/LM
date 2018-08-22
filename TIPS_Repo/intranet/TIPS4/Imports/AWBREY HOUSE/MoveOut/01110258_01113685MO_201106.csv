@@ -1,0 +1,8 @@
+BATCH,,201106,B,6380.0000,
+INVOICE,IN,,01110258,,06/01/2011,1640.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01113685MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3320,010101011,1,60.0000,60.00,"CR:Limited Term Di... K.McMullen 201106: McMullen, Katheleen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101011,10,73.0000,730.00,"Basic Service Fee - Studio for Jun: McMullen, Katheleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,10,85.0000,850.00,"Resident Care - Level 50 for Jun: McMullen, Katheleen",,,,,,,,,,,,,,,
+INVOICE,CM,,01110258,,06/01/2011,4740,"Invoice-Private",,06/01/2011,06/10/2011,,01113685MO,-3100.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2190,2190,"CR:Basic Service F... K.McMullen 201106: McMullen, Katheleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,2550,2550,"CR:Resident Care -... K.McMullen 201106: McMullen, Katheleen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,6050.0000,
+INVOICE,IN,,13310346,,08/19/2011,2299.0000,"Invoice-Private",,08/19/2011,08/19/2011,,13315072MO,-4362.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,19,89.0000,1691.00,"Basic Service Fee - Studio for Aug: Black, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,19,32.0000,608.00,"Resident Care - Level 2 for Aug: Black, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13310346,,08/19/2011,3751,"Invoice-Private",,08/19/2011,08/19/2011,,13315072MO,-4362.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2759,2759,"CR:Basic Service F... R.Black 201108: Black, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... R.Black 201108: Black, Robert",,,,,,,,,,,,,,,

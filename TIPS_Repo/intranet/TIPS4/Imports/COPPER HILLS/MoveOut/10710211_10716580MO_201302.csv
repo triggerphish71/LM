@@ -1,0 +1,6 @@
+BATCH,,201302,B,4424.0000,
+INVOICE,IN,,10710211,,02/01/2013,56.0000,"Invoice-Private",,02/01/2013,02/10/2013,,10716580MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,56.0000,56.00,"CR:Limited Term Di... L.Thrall 201302: Thrall, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,10710211,,02/01/2013,4368,"Invoice-Private",,02/01/2013,02/10/2013,,10716580MO,-6434.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3164,3164,"CR:Basic Service F... L.Thrall 201302: Thrall, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1204,1204,"CR:Resident Care -... L.Thrall 201302: Thrall, Louise",,,,,,,,,,,,,,,

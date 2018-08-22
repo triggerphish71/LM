@@ -1,0 +1,5 @@
+BATCH,,201211,B,4077.0000,
+INVOICE,IN,,05210281,,11/06/2012,4077.0000,"MoveIn-Parshall. Ruby",,11/06/2012,11/06/2012,,05215065,4077.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,25,82.0000,2050,"Basic Service Fee - Studio: Parshall. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Parshall. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Parshall. Ruby",,,,,,,,,,,,,,,

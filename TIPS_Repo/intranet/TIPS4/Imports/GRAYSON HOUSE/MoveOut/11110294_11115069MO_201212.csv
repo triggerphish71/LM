@@ -1,0 +1,8 @@
+BATCH,,201212,B,9819.0000,
+INVOICE,IN,,11110294,,12/28/2012,4648.0000,"Invoice-Private",,12/28/2012,12/28/2012,,11115069MO,-5694.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,28,97.0000,2716.00,"Basic Service Fee - Studio for Dec: Bivins, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,28,69.0000,1932.00,"Resident Care - Level 5 for Dec: Bivins, Miriam",,,,,,,,,,,,,,,
+INVOICE,CM,,11110294,,12/28/2012,5171,"Invoice-Private",,12/28/2012,12/28/2012,,11115069MO,-5694.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3007,3007,"CR:Basic Service F... M.Bivins 201212: Bivins, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... M.Bivins 201212: Bivins, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,2139,2139,"CR:Resident Care -... M.Bivins 201212: Bivins, Miriam",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201304,B,5835.0000,
+INVOICE,IN,,13010328,,04/18/2013,2178.0000,"Invoice-Private",,04/18/2013,04/18/2013,,13016294MO,-5257.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,18,102.0000,1836.00,"Basic Service Fee - Studio for Apr: Oehrig, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,18,19.0000,342.00,"Resident Care - Level 1 for Apr: Oehrig, Leah",,,,,,,,,,,,,,,
+INVOICE,CM,,13010328,,04/18/2013,3657,"Invoice-Private",,04/18/2013,04/18/2013,,13016294MO,-5257.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3060,3060,"CR:Basic Service F... L.Oehrig 201304: Oehrig, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... L.Oehrig 201304: Oehrig, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,570,570,"CR:Resident Care -... L.Oehrig 201304: Oehrig, Leah",,,,,,,,,,,,,,,

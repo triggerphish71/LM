@@ -1,0 +1,5 @@
+BATCH,,201210,B,992.0000,
+INVOICE,IN,,50910140,,10/01/2012,496.0000,"Invoice-Private",,10/01/2012,10/10/2012,,50913133MO,-320.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,31,16.0000,496.00,"Credit for Limited Term Discount: Chance, Ron",,,,,,,,,,,,,,,
+INVOICE,CM,,50910140,,10/01/2012,496,"Invoice-Private",,10/01/2012,10/10/2012,,50913133MO,-320.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,31,16,496,"Limited Term Discount: Chance, Ron",,,,,,,,,,,,,,,

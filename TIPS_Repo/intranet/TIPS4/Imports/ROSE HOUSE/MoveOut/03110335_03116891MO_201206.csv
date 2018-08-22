@@ -1,0 +1,7 @@
+BATCH,,201206,B,7920.0000,
+INVOICE,IN,,03110335,,06/24/2012,3600.0000,"Invoice-Private",,06/24/2012,06/24/2012,,03116891MO,-5184.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,25,115.0000,2875.00,"Basic Service Fee - One Bedroom for Jun: Lee, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,25,29.0000,725.00,"Resident Care - Level 2 for Jun: Lee, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,03110335,,06/24/2012,4320,"Invoice-Private",,06/24/2012,06/24/2012,,03116891MO,-5184.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3450,3450,"CR:Basic Service F... R.Lee 201206: Lee, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,870,870,"CR:Resident Care -... R.Lee 201206: Lee, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201205,B,3959.0000,
+INVOICE,IN,,16810324,,05/01/2012,642.0000,"Invoice-Private",,05/01/2012,05/10/2012,,16816557MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,6,94.0000,564.00,"Basic Service Fee - Studio Deluxe for May: Rudisill, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,6,13.0000,78.00,"Resident Care - Level 1 for May: Rudisill, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,16810324,,05/01/2012,3317,"Invoice-Private",,05/01/2012,05/10/2012,,16816557MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2914,2914,"CR:Basic Service F... T.Rudisill 201205: Rudisill, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... T.Rudisill 201205: Rudisill, Theresa",,,,,,,,,,,,,,,

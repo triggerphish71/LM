@@ -1,0 +1,8 @@
+BATCH,,201109,B,5004.0000,
+INVOICE,IN,,12910300,,08/30/2011,2214.0000,"MoveIn-Zoltani. Dan",,08/30/2011,08/30/2011,,12915489,5004.0000,,,,,,,,,,
+TRANSACTION,3014,010310129,2,92.0000,184,"Basic Service Fee - Studio         : Zoltani. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Zoltani. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Zoltani. Dan",,,,,,,,,,,,,,,
+INVOICE,IN,,12910300,,09/01/2011,2790.0000,"September_Rent-Zoltani. Dan",,09/01/2011,09/10/2011,,12915489,5004.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,30,92.0000,2760,"Basic Service Fee - Studio         : Zoltani. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Zoltani. Dan",,,,,,,,,,,,,,,

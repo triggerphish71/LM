@@ -1,0 +1,8 @@
+BATCH,,201108,B,4952.0000,
+INVOICE,IN,,05910114,,07/28/2011,82.0000,"Invoice-Private",,07/28/2011,07/28/2011,,05913106MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,82.0000,82.00,"Basic Service Fee - Studio for Jul: Sparks, Bettye",,,,,,,,,,,,,,,
+INVOICE,CM,,05910114,,07/28/2011,2328,"Invoice-Private",,07/28/2011,07/28/2011,,05913106MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,328,328,"CR:Basic Service F... B.Sparks 201107: Sparks, Bettye",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101059,1,2000,2000,"CR:New Resident Fe... B.Sparks 201107: Sparks, Bettye",,,,,,,,,,,,,,,
+INVOICE,CM,,05910114,,08/01/2011,2542,"Invoice-Private",,08/01/2011,08/10/2011,,05913106MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2542,2542,"CR:Basic Service F... B.Sparks 201108: Sparks, Bettye",,,,,,,,,,,,,,,

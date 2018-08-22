@@ -1,0 +1,6 @@
+BATCH,,201206,B,4440.0000,
+INVOICE,IN,,53010172,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,53016149MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,60.0000,60.00,"CR:Limited Term Di... E.Fischer 201206: Fischer, Ernst",,,,,,,,,,,,,,,
+INVOICE,CM,,53010172,,06/01/2012,4380,"Invoice-Private",,06/01/2012,06/10/2012,,53016149MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3060,3060,"CR:Basic Service F... E.Fischer 201206: Fischer, Ernst",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1320,1320,"CR:Resident Care -... E.Fischer 201206: Fischer, Ernst",,,,,,,,,,,,,,,

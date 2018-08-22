@@ -1,0 +1,8 @@
+BATCH,,201303,B,6013.0000,
+INVOICE,IN,,13410214,,03/30/2013,2940.0000,"Invoice-Private",,03/30/2013,03/30/2013,,13416078MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,30,81.0000,2430.00,"Basic Service Fee - One Bedroom for Mar: Morrison, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,30,17.0000,510.00,"Resident Care - Level 1 for Mar: Morrison, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,13410214,,03/30/2013,3073,"Invoice-Private",,03/30/2013,03/30/2013,,13416078MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2511,2511,"CR:Basic Service F... R.Morrison 201303: Morrison, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... R.Morrison 201303: Morrison, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,527,527,"CR:Resident Care -... R.Morrison 201303: Morrison, Ruth",,,,,,,,,,,,,,,

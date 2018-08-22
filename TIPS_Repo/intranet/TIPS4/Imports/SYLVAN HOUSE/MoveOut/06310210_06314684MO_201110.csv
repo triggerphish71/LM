@@ -1,0 +1,7 @@
+BATCH,,201110,B,1662.0000,
+INVOICE,IN,,06310210,,10/01/2011,831.0000,"Invoice-Private",,10/01/2011,10/10/2011,,06314684MO,639.0000,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25.00,"Monthly Cable: Gilfillan, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104063,31,26.0000,806.00,"Credit for Limited Term Discount: Gilfillan, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,06310210,,10/01/2011,831,"Invoice-Private",,10/01/2011,10/10/2011,,06314684MO,639.0000,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"Credit for Monthly Cable: Gilfillan, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104063,31,26,806,"Limited Term Discount: Gilfillan, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,5940.0000,
+INVOICE,IN,,21610131,,06/24/2011,2640.0000,"Invoice-Private",,06/24/2011,06/24/2011,,21612926MO,-4070.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,24,99.0000,2376.00,"One Bedroom for Jun: Hufstetler, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,24,11.0000,264.00,"Resident Care - Level 1 for Jun: Hufstetler, James",,,,,,,,,,,,,,,
+INVOICE,CM,,21610131,,06/24/2011,3300,"Invoice-Private",,06/24/2011,06/24/2011,,21612926MO,-4070.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2970,2970,"CR:One Bedroom... J.Hufstetler 201106: Hufstetler, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,330,330,"CR:Resident Care -... J.Hufstetler 201106: Hufstetler, James",,,,,,,,,,,,,,,

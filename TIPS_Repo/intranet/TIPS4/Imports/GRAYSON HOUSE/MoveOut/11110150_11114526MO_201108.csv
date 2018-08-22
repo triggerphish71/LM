@@ -1,0 +1,8 @@
+BATCH,,201108,B,9769.0000,
+INVOICE,IN,,11110150,,08/27/2011,4536.0000,"Invoice-Private",,08/27/2011,08/27/2011,,11114526MO,-5762.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,27,109.0000,2943.00,"Basic Service Fee - One Bedroom for Aug: Krivdo, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,27,59.0000,1593.00,"Resident Care - Level 4 for Aug: Krivdo, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,11110150,,08/27/2011,5233,"Invoice-Private",,08/27/2011,08/27/2011,,11114526MO,-5762.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3379,3379,"CR:Basic Service F... D.Krivdo 201108: Krivdo, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... D.Krivdo 201108: Krivdo, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1829,1829,"CR:Resident Care -... D.Krivdo 201108: Krivdo, Donna",,,,,,,,,,,,,,,

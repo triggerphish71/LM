@@ -1,0 +1,5 @@
+BATCH,,201107,B,50.0000,
+INVOICE,IN,,03510086,,07/01/2011,25.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03513172MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25.0000,25.00,"Monthly Cable: Rosson, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,03510086,,07/01/2011,25,"Invoice-Private",,07/01/2011,07/10/2011,,03513172MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"Credit for Monthly Cable: Rosson, Thomas",,,,,,,,,,,,,,,

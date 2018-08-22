@@ -1,0 +1,7 @@
+BATCH,,201209,B,5355.0000,
+INVOICE,IN,,14510208,,09/05/2012,765.0000,"Invoice-Private",,09/05/2012,09/05/2012,,14515620MO,-3825.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,5,124.0000,620.00,"Basic Service Fee - One Bedroom for Sep: Skinner, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,5,29.0000,145.00,"Resident Care - Level 2 for Sep: Skinner, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,14510208,,09/05/2012,4590,"Invoice-Private",,09/05/2012,09/05/2012,,14515620MO,-3825.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3720,3720,"CR:Basic Service F... A.Skinner 201209: Skinner, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,870,870,"CR:Resident Care -... A.Skinner 201209: Skinner, Arlene",,,,,,,,,,,,,,,

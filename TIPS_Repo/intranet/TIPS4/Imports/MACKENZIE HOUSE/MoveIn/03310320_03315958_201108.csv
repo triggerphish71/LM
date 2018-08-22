@@ -1,0 +1,5 @@
+BATCH,,201108,B,3373.0000,
+INVOICE,IN,,03310320,,08/01/2011,3373.0000,"August_Rent-Briggs. Lura",,08/01/2011,08/10/2011,,03315958,6984.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,31,91.0000,2821,"Basic Service Fee - Studio         : Briggs. Lura",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202033,31,17.0000,527,"Resident Care - Level 1: Briggs. Lura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Briggs. Lura",,,,,,,,,,,,,,,

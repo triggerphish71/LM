@@ -1,0 +1,7 @@
+BATCH,,201307,B,8635.0000,
+INVOICE,IN,,52510171,,07/24/2013,3768.0000,"Invoice-Private",,07/24/2013,07/24/2013,,52512935MO,-5966.0000,,,,,,,,,,
+TRANSACTION,3027,010319525,24,43.0000,1032.00,"Resident Care - Level 3 for Jul: James, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319525,24,114.0000,2736.00,"Room and Board - Studio for Jul: James, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,52510171,,07/24/2013,4867,"Invoice-Private",,07/24/2013,07/24/2013,,52512935MO,-5966.0000,,,,,,,,,,
+TRANSACTION,3027,010319525,1,1333,1333,"CR:Resident Care -... E.James 201307: James, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3534,3534,"CR:Room and Board ... E.James 201307: James, Ethel",,,,,,,,,,,,,,,

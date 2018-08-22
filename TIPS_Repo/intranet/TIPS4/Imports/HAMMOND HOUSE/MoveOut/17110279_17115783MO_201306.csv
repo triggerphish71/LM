@@ -1,0 +1,8 @@
+BATCH,,201306,B,6576.0000,
+INVOICE,IN,,17110279,,06/29/2013,3219.0000,"Invoice-Private",,06/29/2013,06/29/2013,,17115783MO,-3606.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,29,94.0000,2726.00,"Basic Service Fee - Studio for Jun: Herron, AH",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,29,17.0000,493.00,"Resident Care - Level 1 for Jun: Herron, AH",,,,,,,,,,,,,,,
+INVOICE,CM,,17110279,,06/29/2013,3357,"Invoice-Private",,06/29/2013,06/29/2013,,17115783MO,-3606.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2820,2820,"CR:Basic Service F... A.Herron 201306: Herron, AH",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... A.Herron 201306: Herron, AH",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... A.Herron 201306: Herron, AH",,,,,,,,,,,,,,,

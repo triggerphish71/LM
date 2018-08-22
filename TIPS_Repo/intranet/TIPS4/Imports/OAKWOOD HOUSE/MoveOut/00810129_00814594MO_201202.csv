@@ -1,0 +1,8 @@
+BATCH,,201202,B,4317.0000,
+INVOICE,IN,,00810129,,02/01/2012,143.0000,"Invoice-Private",,02/01/2012,02/01/2012,,00814594MO,-4031.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,112.0000,112.00,"Basic Service Fee - One Bedroom for Feb: Hopkin, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,31.0000,31.00,"Resident Care - Level 2 for Feb: Hopkin, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,00810129,,02/01/2012,4174,"Invoice-Private",,02/01/2012,02/01/2012,,00814594MO,-4031.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,3248,3248,"CR:Basic Service F... D.Hopkin 201202: Hopkin, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... D.Hopkin 201202: Hopkin, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,899,899,"CR:Resident Care -... D.Hopkin 201202: Hopkin, Doris",,,,,,,,,,,,,,,

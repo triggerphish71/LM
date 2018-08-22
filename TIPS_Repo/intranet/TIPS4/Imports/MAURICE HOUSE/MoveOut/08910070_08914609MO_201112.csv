@@ -1,0 +1,7 @@
+BATCH,,201112,B,9911.0000,
+INVOICE,IN,,08910070,,12/20/2011,4114.0000,"Invoice-Private",,12/20/2011,12/20/2011,,08914609MO,-7635.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,22,106.0000,2332.00,"Basic Service Fee - Studio for Dec: Brammer, Donald F",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,22,81.0000,1782.00,"Resident Care - Level 5 for Dec: Brammer, Donald F",,,,,,,,,,,,,,,
+INVOICE,CM,,08910070,,12/20/2011,5797,"Invoice-Private",,12/20/2011,12/20/2011,,08914609MO,-7635.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3286,3286,"CR:Basic Service F... D.Brammer 201112: Brammer, Donald F",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2511,2511,"CR:Resident Care -... D.Brammer 201112: Brammer, Donald F",,,,,,,,,,,,,,,

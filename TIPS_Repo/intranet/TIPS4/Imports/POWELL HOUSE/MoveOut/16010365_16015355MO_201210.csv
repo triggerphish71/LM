@@ -1,0 +1,7 @@
+BATCH,,201210,B,1848.0000,
+INVOICE,IN,,16010365,,10/01/2012,924.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16015355MO,-2462.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25.0000,25.00,"Monthly Cable: Lemmage, Dorice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,29.0000,899.00,"Credit for Limited Term Discount: Lemmage, Dorice",,,,,,,,,,,,,,,
+INVOICE,CM,,16010365,,10/01/2012,924,"Invoice-Private",,10/01/2012,10/10/2012,,16015355MO,-2462.0000,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"Credit for Monthly Cable: Lemmage, Dorice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107160,31,29,899,"Limited Term Discount: Lemmage, Dorice",,,,,,,,,,,,,,,

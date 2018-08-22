@@ -1,0 +1,5 @@
+BATCH,,201204,B,3193.0000,
+INVOICE,IN,,07410219,,04/14/2012,3193.0000,"MoveIn-Buroker. Vera",,04/14/2012,04/14/2012,,07413828,3193.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,17,84.0000,1428,"Basic Service Fee - Deluxe: Buroker. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,17,45.0000,765,"Resident Care - Level 3: Buroker. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Buroker. Vera",,,,,,,,,,,,,,,

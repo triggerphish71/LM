@@ -1,0 +1,5 @@
+BATCH,,201201,B,1364.0000,
+INVOICE,IN,,10410189,,01/01/2012,682.0000,"Invoice-Private",,01/01/2012,01/10/2012,,10414586MO,528.4000,,,,,,,,,,
+TRANSACTION,3320,010101104,31,22.0000,682.00,"Credit for Limited Term Discount: Porterfield, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,10410189,,01/01/2012,682,"Invoice-Private",,01/01/2012,01/10/2012,,10414586MO,528.4000,,,,,,,,,,
+TRANSACTION,3320,010101104,31,22,682,"Limited Term Discount: Porterfield, Walter",,,,,,,,,,,,,,,

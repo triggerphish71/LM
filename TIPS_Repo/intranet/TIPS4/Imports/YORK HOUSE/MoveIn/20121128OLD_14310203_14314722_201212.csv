@@ -1,0 +1,5 @@
+BATCH,,201212,B,3972.0000,
+INVOICE,IN,,14310203,,12/01/2012,3972.0000,"December_Rent-Sanders. James",,12/01/2012,12/10/2012,,14314722,5888.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,31,82.0000,2542,"Basic Service Fee - Studio: Sanders. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309143,31,45.0000,1395,"Resident Care - Level 3: Sanders. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Sanders. James",,,,,,,,,,,,,,,

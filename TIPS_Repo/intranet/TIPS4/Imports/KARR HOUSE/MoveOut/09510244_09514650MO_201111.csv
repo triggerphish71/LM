@@ -1,0 +1,5 @@
+BATCH,,201111,B,2915.2500,
+INVOICE,CM,,09510244,,11/24/2011,2915.25,"Invoice-Private",,11/24/2011,11/24/2011,,09514650MO,-6968.5000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,602,602,"CR:Basic Service F... M.Jarbo 201111: Jarbo, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000,2000,"CR:New Resident Fe... M.Jarbo 201111: Jarbo, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,313.25,313.25,"CR:Resident Care -... M.Jarbo 201111: Jarbo, Mary",,,,,,,,,,,,,,,

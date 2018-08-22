@@ -1,0 +1,7 @@
+BATCH,,201804,B,8164.0000,
+INVOICE,IN,,04910287,,04/05/2018,3454.0000,"Invoice-Private",,04/05/2018,04/05/2018,,04915167MO,-1256.0000,,,,,,,,,,
+TRANSACTION,3020,010001049,22,111.0000,2442.00,"Basic Service Fee - Studio  for Apr: Williamson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,22,46.0000,1012.00,"Resident Care - Level 20  for Apr: Williamson, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,04910287,,04/05/2018,4710,"Invoice-Private",,04/05/2018,04/05/2018,,04915167MO,-1256.0000,,,,,,,,,,
+TRANSACTION,3020,010001049,1,3330,3330,"CR:Basic Service F... P.Williamson 201804: Williamson, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001049,1,1380,1380,"CR:Resident Care -... P.Williamson 201804: Williamson, Patricia",,,,,,,,,,,,,,,

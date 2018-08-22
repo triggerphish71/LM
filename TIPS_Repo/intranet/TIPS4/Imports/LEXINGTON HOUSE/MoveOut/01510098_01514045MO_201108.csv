@@ -1,0 +1,5 @@
+BATCH,,201108,B,974.6200,
+INVOICE,IN,,01510098,,08/01/2011,487.3100,"Invoice-Medicaid",,08/01/2011,08/10/2011,,01514045MO,-1858.4500,,,,,,,,,,
+TRANSACTION,3012,010103015,1,487.3100,487.31,"State Medicaid: Stingley, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,01510098,,08/01/2011,487.31,"Invoice-Medicaid",,08/01/2011,08/10/2011,,01514045MO,-1858.4500,,,,,,,,,,
+TRANSACTION,3012,010103015,1,487.31,487.31,"Credit for State Medicaid: Stingley, Edith",,,,,,,,,,,,,,,

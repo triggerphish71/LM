@@ -1,0 +1,7 @@
+BATCH,,201207,B,8976.0000,
+INVOICE,IN,,53610206,,07/11/2012,3520.0000,"Invoice-Private",,07/11/2012,07/11/2012,,53613673MO,-1936.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,20,131.0000,2620.00,"Basic Service Fee - One Bedroom Del for Jul: Geraghty, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,20,45.0000,900.00,"Resident Care - Level 3 for Jul: Geraghty, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,53610206,,07/11/2012,5456,"Invoice-Private",,07/11/2012,07/11/2012,,53613673MO,-1936.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,4061,4061,"CR:Basic Service F... M.Geraghty 201207: Geraghty, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,1395,1395,"CR:Resident Care -... M.Geraghty 201207: Geraghty, Michael",,,,,,,,,,,,,,,

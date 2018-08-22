@@ -1,0 +1,5 @@
+BATCH,,201112,B,1079.5800,
+INVOICE,IN,,01110277,,12/31/2011,1079.5800,"MoveIn-Harman. Betty",,12/31/2011,12/31/2011,,01113787,3546.5600,,,,,,,,,,
+TRANSACTION,3010,010101011,1,76.0000,76,"Basic Service Fee - Studio: Harman. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,1,3.5800,3.58,"Resident Care - Level 2: Harman. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Harman. Betty",,,,,,,,,,,,,,,

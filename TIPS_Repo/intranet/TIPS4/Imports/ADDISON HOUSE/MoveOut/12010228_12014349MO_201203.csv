@@ -1,0 +1,6 @@
+BATCH,,201203,B,4008.0000,
+INVOICE,IN,,12010228,,03/01/2012,1560.0000,"Invoice-Private",,03/01/2012,03/10/2012,,12014349MO,-3258.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,20,78.0000,1560.00,"Basic Service Fee - Studio for Mar: Wasson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,12010228,,03/01/2012,2448,"Invoice-Private",,03/01/2012,03/10/2012,,12014349MO,-3258.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2418,2418,"CR:Basic Service F... J.Wasson 201203: Wasson, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... J.Wasson 201203: Wasson, James",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201306,B,3191.0000,
+INVOICE,IN,,08010231,,06/03/2013,3191.0000,"MoveIn-Brown. Marion",,06/03/2013,06/03/2013,,08014292,3191.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,28,96.0000,2688,"Basic Service Fee - Studio: Brown. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202080,28,17.0000,476,"Resident Care - Level 1: Brown. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Brown. Marion",,,,,,,,,,,,,,,

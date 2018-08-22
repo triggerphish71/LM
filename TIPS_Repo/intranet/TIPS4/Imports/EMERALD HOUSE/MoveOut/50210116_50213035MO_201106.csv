@@ -1,0 +1,8 @@
+BATCH,,201106,B,7375.0000,
+INVOICE,IN,,50210116,,06/17/2011,2940.0000,"Invoice-Private",,06/17/2011,06/17/2011,,50213035MO,-6077.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,20,80.0000,1600.00,"Basic Service Fee - Studio for Jun: Eskew, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,20,67.0000,1340.00,"Resident Care - Level 6 for Jun: Eskew, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,50210116,,06/17/2011,4435,"Invoice-Private",,06/17/2011,06/17/2011,,50213035MO,-6077.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2400,2400,"CR:Basic Service F... V.Eskew 201106: Eskew, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... V.Eskew 201106: Eskew, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,2010,2010,"CR:Resident Care -... V.Eskew 201106: Eskew, Virginia",,,,,,,,,,,,,,,

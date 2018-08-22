@@ -1,0 +1,6 @@
+BATCH,,201209,B,4050.0000,
+INVOICE,IN,,17110254,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,17115311MO,-5597.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,60.0000,60.00,"CR:Limited Term Di... A.Hagar 201209: Hagar, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,17110254,,09/01/2012,3990,"Invoice-Private",,09/01/2012,09/10/2012,,17115311MO,-5597.0000,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... A.Hagar 201209: Hagar, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3480,3480,"CR:Room and Board ... A.Hagar 201209: Hagar, Agnes",,,,,,,,,,,,,,,

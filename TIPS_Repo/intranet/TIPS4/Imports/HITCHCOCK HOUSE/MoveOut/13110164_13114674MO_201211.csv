@@ -1,0 +1,7 @@
+BATCH,,201211,B,11460.0000,
+INVOICE,IN,,13110164,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,13114674MO,-11742.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,60.0000,60.00,"CR:Limited Term Di... L.Sprott 201211: Sprott, Louise W",,,,,,,,,,,,,,,
+INVOICE,CM,,13110164,,11/01/2012,11400,"Invoice-Private",,11/01/2012,11/10/2012,,13114674MO,-11742.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3000,3000,"CR:Basic Service F... L.Sprott 201211: Sprott, Louise W",,,,,,,,,,,,,,,
+TRANSACTION,3210,010308131,1,7920,7920,"CR:Personal Servic... L.Sprott 201211: Sprott, Louise W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,480,480,"CR:Resident Care -... L.Sprott 201211: Sprott, Louise W",,,,,,,,,,,,,,,

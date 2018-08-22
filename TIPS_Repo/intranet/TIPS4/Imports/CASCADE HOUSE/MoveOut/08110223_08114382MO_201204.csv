@@ -1,0 +1,8 @@
+BATCH,,201204,B,3876.1800,
+INVOICE,IN,,08110223,,04/04/2012,453.0800,"Invoice-Private",,04/04/2012,04/04/2012,,08114382MO,-2970.0200,,,,,,,,,,
+TRANSACTION,3020,010103081,4,90.0000,360.00,"Basic Service Fee - Studio for Apr: Greenleaf, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,4,23.2700,93.08,"Resident Care - Level 13 for Apr: Greenleaf, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,08110223,,04/04/2012,3423.1,"Invoice-Private",,04/04/2012,04/04/2012,,08114382MO,-2970.0200,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2700,2700,"CR:Basic Service F... M.Greenleaf 201204: Greenleaf, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25,25,"CR:Monthly Cable... M.Greenleaf 201204: Greenleaf, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,698.1,698.1,"CR:Resident Care -... M.Greenleaf 201204: Greenleaf, Michael",,,,,,,,,,,,,,,

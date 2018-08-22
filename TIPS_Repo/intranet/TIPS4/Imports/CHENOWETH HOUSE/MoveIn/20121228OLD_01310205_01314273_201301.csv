@@ -1,0 +1,5 @@
+BATCH,,201301,B,3036.8600,
+INVOICE,IN,,01310205,,01/01/2013,3036.8600,"January_Rent-Dunbar. Ralph",,01/01/2013,01/10/2013,,01314273,4453.1000,,,,,,,,,,
+TRANSACTION,3010,010103013,31,72.0000,2232,"R.Dunbar: Basic Service Fee - Studio: Dunbar. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,31,25.0600,776.86,"R.Dunbar: Resident Care - Level 14: Dunbar. Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Dunbar. Ralph",,,,,,,,,,,,,,,

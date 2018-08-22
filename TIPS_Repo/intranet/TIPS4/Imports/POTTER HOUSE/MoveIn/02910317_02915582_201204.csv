@@ -1,0 +1,5 @@
+BATCH,,201204,B,2028.0000,
+INVOICE,IN,,02910317,,04/27/2012,2028.0000,"MoveIn-Bramblett. Florene",,04/27/2012,04/27/2012,,02915582,6120.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,4,100.0000,400,"Basic Service Fee - Studio: Bramblett. Florene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,4,32.0000,128,"Resident Care - Level 2: Bramblett. Florene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Bramblett. Florene",,,,,,,,,,,,,,,

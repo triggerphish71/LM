@@ -1,0 +1,7 @@
+BATCH,,201108,B,5750.0000,
+INVOICE,IN,,09410257,,08/01/2011,1875.0000,"Invoice-Private",,08/01/2011,08/10/2011,,09415545MO,-2000.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,15,95.0000,1425.00,"Basic Service Fee - Studio for Aug: Robinson, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,15,30.0000,450.00,"Resident Care - Level 2 for Aug: Robinson, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,09410257,,08/01/2011,3875,"Invoice-Private",,08/01/2011,08/10/2011,,09415545MO,-2000.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2945,2945,"CR:Basic Service F... A.Robinson 201108: Robinson, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,930,930,"CR:Resident Care -... A.Robinson 201108: Robinson, Audrey",,,,,,,,,,,,,,,

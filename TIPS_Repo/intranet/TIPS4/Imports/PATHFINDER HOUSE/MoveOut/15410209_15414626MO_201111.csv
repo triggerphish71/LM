@@ -1,0 +1,6 @@
+BATCH,,201111,B,3440.0000,
+INVOICE,CM,,15410209,,11/01/2011,3440,"Invoice-Private",,11/01/2011,11/10/2011,,15414626MO,-3744.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1860,1860,"CR:Basic Service F... H.Dahl 201111: Dahl, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... H.Dahl 201111: Dahl, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45,45,"CR:Pendant Fee... H.Dahl 201111: Dahl, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1500,1500,"CR:Resident Care -... H.Dahl 201111: Dahl, Henry",,,,,,,,,,,,,,,

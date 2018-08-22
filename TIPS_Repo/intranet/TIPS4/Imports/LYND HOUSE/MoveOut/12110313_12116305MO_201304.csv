@@ -1,0 +1,5 @@
+BATCH,,201304,B,4205.0000,
+INVOICE,CM,,12110313,,04/01/2013,4205,"Invoice-Private",,04/01/2013,04/10/2013,,12116305MO,-4205.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2850,2850,"CR:Basic Service F... R.Evans 201304: Evans, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... R.Evans 201304: Evans, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,1320,1320,"CR:Resident Care -... R.Evans 201304: Evans, Robert",,,,,,,,,,,,,,,

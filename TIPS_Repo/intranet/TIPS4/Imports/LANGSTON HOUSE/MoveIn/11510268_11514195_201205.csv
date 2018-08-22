@@ -1,0 +1,6 @@
+BATCH,,201205,B,3328.0000,
+INVOICE,IN,,11510268,,05/07/2012,3328.0000,"MoveIn-Barber. Dorothy",,05/07/2012,05/07/2012,,11514195,3328.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,25,66.0000,1650,"Basic Service Fee - Studio: Barber. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,25,26.0000,650,"Resident Care - Level 2: Barber. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Barber. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Barber. Dorothy",,,,,,,,,,,,,,,

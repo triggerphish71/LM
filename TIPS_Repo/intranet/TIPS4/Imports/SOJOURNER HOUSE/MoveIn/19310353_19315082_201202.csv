@@ -1,0 +1,5 @@
+BATCH,,201202,B,2987.0000,
+INVOICE,IN,,19310353,,02/01/2012,2987.0000,"February_Rent-Goldstein. Norman",,02/01/2012,02/10/2012,,19315082,4590.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,29,76.0000,2204,"Basic Service Fee - Studio: Goldstein. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,29,17.0000,493,"Resident Care - Level 1: Goldstein. Norman",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,29,10.0000,290,"CC Meals: Goldstein. Norman",,,,,,,,,,,,,,,

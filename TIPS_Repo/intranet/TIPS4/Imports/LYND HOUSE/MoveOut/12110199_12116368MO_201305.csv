@@ -1,0 +1,7 @@
+BATCH,,201305,B,4340.0000,
+INVOICE,IN,,12110199,,05/04/2013,496.0000,"Invoice-Private",,05/04/2013,05/04/2013,,12116368MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3027,010309121,4,29.0000,116.00,"Resident Care - Level 2 for May: Thompson, Ester",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,4,95.0000,380.00,"Room and Board - Studio for May: Thompson, Ester",,,,,,,,,,,,,,,
+INVOICE,CM,,12110199,,05/04/2013,3844,"Invoice-Private",,05/04/2013,05/04/2013,,12116368MO,-3348.0000,,,,,,,,,,
+TRANSACTION,3027,010309121,1,899,899,"CR:Resident Care -... E.Thompson 201305: Thompson, Ester",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2945,2945,"CR:Room and Board ... E.Thompson 201305: Thompson, Ester",,,,,,,,,,,,,,,

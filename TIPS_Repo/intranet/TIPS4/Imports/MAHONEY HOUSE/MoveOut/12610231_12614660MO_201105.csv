@@ -1,0 +1,8 @@
+BATCH,,201105,B,5132.0000,
+INVOICE,IN,,12610231,,05/08/2011,324.0000,"Invoice-Private",,05/08/2011,05/08/2011,,12614660MO,-4484.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,3,90.0000,270.00,"Basic Service Fee - Studio for May: Peters, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,3,18.0000,54.00,"Resident Care - Level 1 for May: Peters, John",,,,,,,,,,,,,,,
+INVOICE,CM,,12610231,,05/08/2011,4808,"Invoice-Private",,05/08/2011,05/08/2011,,12614660MO,-4484.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2340,2340,"CR:Basic Service F... J.Peters 201105: Peters, John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211126,1,2000,2000,"CR:New Resident Fe... J.Peters 201105: Peters, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,468,468,"CR:Resident Care -... J.Peters 201105: Peters, John",,,,,,,,,,,,,,,

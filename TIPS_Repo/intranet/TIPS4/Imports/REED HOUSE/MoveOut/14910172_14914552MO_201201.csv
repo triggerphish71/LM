@@ -1,0 +1,6 @@
+BATCH,,201201,B,4730.0000,
+INVOICE,IN,,14910172,,01/16/2012,1600.0000,"Invoice-Private",,01/16/2012,01/16/2012,,14914552MO,-4460.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,16,100.0000,1600.00,"Basic Service Fee - Studio for Jan: Lutz, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14910172,,01/16/2012,3130,"Invoice-Private",,01/16/2012,01/16/2012,,14914552MO,-4460.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Basic Service F... D.Lutz 201201: Lutz, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... D.Lutz 201201: Lutz, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,3186.0000,
+INVOICE,IN,,50210184,,02/01/2012,3186.0000,"February_Rent-Gordon. Charles",,02/01/2012,02/10/2012,,50213291,4820.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,29,83.0000,2407,"Basic Service Fee - Studio: Gordon. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,29,26.0000,754,"Resident Care - Level 2: Gordon. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Gordon. Charles",,,,,,,,,,,,,,,

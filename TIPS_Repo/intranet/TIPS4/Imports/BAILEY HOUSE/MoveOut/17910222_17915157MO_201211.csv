@@ -1,0 +1,6 @@
+BATCH,,201211,B,5160.0000,
+INVOICE,IN,,17910222,,11/01/2012,510.0000,"Invoice-Private",,11/01/2012,11/10/2012,,17915157MO,-5462.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,510.0000,510.00,"CR:Limited Term Di... M.Williams 201211: Williams, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,17910222,,11/01/2012,4650,"Invoice-Private",,11/01/2012,11/10/2012,,17915157MO,-5462.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2460,2460,"CR:Basic Service F... M.Williams 201211: Williams, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,2190,2190,"CR:Resident Care -... M.Williams 201211: Williams, Margie",,,,,,,,,,,,,,,

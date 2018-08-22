@@ -1,0 +1,5 @@
+BATCH,,201203,B,3781.0000,
+INVOICE,IN,,13510280,,03/01/2012,3781.0000,"March_Rent-Cooper. Earle",,03/01/2012,03/10/2012,,13515073,7384.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,31,90.0000,2790,"Basic Service Fee - Studio: Cooper. Earle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309135,31,31.0000,961,"Resident Care - Level 2: Cooper. Earle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Cooper. Earle",,,,,,,,,,,,,,,

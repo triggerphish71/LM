@@ -1,0 +1,5 @@
+BATCH,,201205,B,3290.0000,
+INVOICE,IN,,13510285,,05/18/2012,3290.0000,"MoveIn-Perry. Jim",,05/18/2012,05/18/2012,,13515208,6020.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,14,90.0000,1260,"Basic Service Fee - Studio: Perry. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Perry. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Perry. Jim",,,,,,,,,,,,,,,

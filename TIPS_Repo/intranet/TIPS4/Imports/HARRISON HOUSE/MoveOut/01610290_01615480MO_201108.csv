@@ -1,0 +1,7 @@
+BATCH,,201108,B,6985.0000,
+INVOICE,IN,,01610290,,08/24/2011,3048.0000,"Invoice-Private",,08/24/2011,08/24/2011,,01615480MO,-4724.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,24,81.0000,1944.00,"Basic Service Fee - Studio for Aug: Payne, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,24,46.0000,1104.00,"Resident Care - Level 3 for Aug: Payne, Tom",,,,,,,,,,,,,,,
+INVOICE,CM,,01610290,,08/24/2011,3937,"Invoice-Private",,08/24/2011,08/24/2011,,01615480MO,-4724.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2511,2511,"CR:Basic Service F... T.Payne 201108: Payne, Tom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,1426,1426,"CR:Resident Care -... T.Payne 201108: Payne, Tom",,,,,,,,,,,,,,,

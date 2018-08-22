@@ -1,0 +1,8 @@
+BATCH,,201201,B,6523.0000,
+INVOICE,IN,,04210126,,01/01/2012,2900.0000,"Invoice-Private",,01/01/2012,01/10/2012,,04213875MO,-4114.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,25,99.0000,2475.00,"Basic Service Fee - Studio for Jan: Jennings, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,25,17.0000,425.00,"Resident Care - Level 1 for Jan: Jennings, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,04210126,,01/01/2012,3623,"Invoice-Private",,01/01/2012,01/10/2012,,04213875MO,-4114.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3069,3069,"CR:Basic Service F... V.Jennings 201201: Jennings, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... V.Jennings 201201: Jennings, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,527,527,"CR:Resident Care -... V.Jennings 201201: Jennings, Virginia",,,,,,,,,,,,,,,

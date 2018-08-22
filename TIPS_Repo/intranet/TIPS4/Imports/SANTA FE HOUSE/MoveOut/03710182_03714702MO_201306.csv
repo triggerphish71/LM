@@ -1,0 +1,7 @@
+BATCH,,201306,B,5100.0000,
+INVOICE,IN,,03710182,,06/20/2013,2100.0000,"Invoice-Private",,06/20/2013,06/20/2013,,03714702MO,-4000.0000,,,,,,,,,,
+TRANSACTION,3027,010202037,21,16.0000,336.00,"Resident Care - Level 1 for Jun: Street, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,21,84.0000,1764.00,"Room and Board - One Bedroom for Jun: Street, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,03710182,,06/20/2013,3000,"Invoice-Private",,06/20/2013,06/20/2013,,03714702MO,-4000.0000,,,,,,,,,,
+TRANSACTION,3027,010202037,1,480,480,"CR:Resident Care -... D.Street 201306: Street, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2520,2520,"CR:Room and Board ... D.Street 201306: Street, Dale",,,,,,,,,,,,,,,

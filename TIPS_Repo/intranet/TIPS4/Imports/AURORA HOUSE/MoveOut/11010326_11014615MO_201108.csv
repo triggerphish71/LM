@@ -1,0 +1,5 @@
+BATCH,,201108,B,2232.0000,
+INVOICE,IN,,11010326,,08/01/2011,1116.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11014615MO,985.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,31,36.0000,1116.00,"Credit for Limited Term Discount: Hruska, Marge",,,,,,,,,,,,,,,
+INVOICE,CM,,11010326,,08/01/2011,1116,"Invoice-Private",,08/01/2011,08/10/2011,,11014615MO,985.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,31,36,1116,"Limited Term Discount: Hruska, Marge",,,,,,,,,,,,,,,

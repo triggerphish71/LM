@@ -1,0 +1,5 @@
+BATCH,,201309,B,56.0000,
+INVOICE,IN,,11510297,,09/01/2013,28.0000,"Invoice-Private",,09/01/2013,09/10/2013,,11514902MO,-3466.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Bledsoe, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,11510297,,09/01/2013,28,"Invoice-Private",,09/01/2013,09/10/2013,,11514902MO,-3466.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Bledsoe, Katherine",,,,,,,,,,,,,,,

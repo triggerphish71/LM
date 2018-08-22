@@ -1,0 +1,7 @@
+BATCH,,201211,B,190.0000,
+INVOICE,IN,,17810126,,11/01/2012,95.0000,"Invoice-Private",,11/01/2012,11/10/2012,,17816234MO,-2709.0000,,,,,,,,,,
+TRANSACTION,3130,010212178,1,35.0000,35.00,"Pendant Fee: Lee, Alma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,30,2.0000,60.00,"Credit for Limited Term Discount: Lee, Alma",,,,,,,,,,,,,,,
+INVOICE,CM,,17810126,,11/01/2012,95,"Invoice-Private",,11/01/2012,11/10/2012,,17816234MO,-2709.0000,,,,,,,,,,
+TRANSACTION,3130,010212178,1,35,35,"Credit for Pendant Fee: Lee, Alma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,30,2,60,"Limited Term Discount: Lee, Alma",,,,,,,,,,,,,,,

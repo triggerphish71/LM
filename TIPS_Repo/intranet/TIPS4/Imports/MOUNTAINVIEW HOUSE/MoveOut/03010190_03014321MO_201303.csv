@@ -1,0 +1,7 @@
+BATCH,,201303,B,2542.7500,
+INVOICE,IN,,03010190,,03/01/2013,290.6000,"Invoice-Private",,03/01/2013,03/10/2013,,03014321MO,-1961.5500,,,,,,,,,,
+TRANSACTION,3020,010103030,4,56.0000,224.00,"Basic Service Fee - Studio for Mar: Pitts, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,4,16.6500,66.60,"Resident Care - Level 9 for Mar: Pitts, Patrick",,,,,,,,,,,,,,,
+INVOICE,CM,,03010190,,03/01/2013,2252.15,"Invoice-Private",,03/01/2013,03/10/2013,,03014321MO,-1961.5500,,,,,,,,,,
+TRANSACTION,3020,010103030,1,1736,1736,"CR:Basic Service F... P.Pitts 201303: Pitts, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,516.15,516.15,"CR:Resident Care -... P.Pitts 201303: Pitts, Patrick",,,,,,,,,,,,,,,

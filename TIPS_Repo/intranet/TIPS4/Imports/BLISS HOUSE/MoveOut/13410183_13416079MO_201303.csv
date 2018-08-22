@@ -1,0 +1,6 @@
+BATCH,,201303,B,4183.0000,
+INVOICE,IN,,13410183,,03/29/2013,2040.0000,"Invoice-Private",,03/29/2013,03/29/2013,,13416079MO,-2178.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,30,68.0000,2040.00,"Basic Service Fee - One Bedroom for Mar: Henry, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13410183,,03/29/2013,2143,"Invoice-Private",,03/29/2013,03/29/2013,,13416079MO,-2178.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2108,2108,"CR:Basic Service F... R.Henry 201303: Henry, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... R.Henry 201303: Henry, Robert",,,,,,,,,,,,,,,

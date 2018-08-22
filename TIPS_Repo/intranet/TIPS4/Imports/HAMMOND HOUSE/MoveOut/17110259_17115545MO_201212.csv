@@ -1,0 +1,8 @@
+BATCH,,201212,B,7353.8800,
+INVOICE,IN,,17110259,,12/29/2012,3542.0000,"Invoice-Private",,12/29/2012,12/29/2012,,17115545MO,-4019.7600,,,,,,,,,,
+TRANSACTION,3320,010308171,1,62.0000,62.00,"CR:Limited Term Di... G.Miller 201212: Miller, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,30,116.0000,3480.00,"Basic Service Fee - One Bedroom for Dec: Miller, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,17110259,,12/29/2012,3811.88,"Invoice-Private",,12/29/2012,12/29/2012,,17115545MO,-4019.7600,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3596,3596,"CR:Basic Service F... G.Miller 201212: Miller, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... G.Miller 201212: Miller, Gary",,,,,,,,,,,,,,,
+TRANSACTION,1113,010308171,1,188.88,188.88,"CR:Monthly Deferra... G.Miller 201212: Miller, Gary",,,,,,,,,,,,,,,

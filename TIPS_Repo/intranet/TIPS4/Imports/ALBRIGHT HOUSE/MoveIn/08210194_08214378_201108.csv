@@ -1,0 +1,5 @@
+BATCH,,201108,B,4526.2000,
+INVOICE,IN,,08210194,,08/01/2011,4526.2000,"August_Rent-Chabot. Mimi",,08/01/2011,08/10/2011,,08214378,8003.2000,,,,,,,,,,
+TRANSACTION,3010,010103082,31,84.0000,2604,"Basic Service Fee - Studio         : Chabot. Mimi",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103082,31,61.2000,1897.2,"Resident Care - Level 36: Chabot. Mimi",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25.0000,25,"Monthly Cable: Chabot. Mimi",,,,,,,,,,,,,,,

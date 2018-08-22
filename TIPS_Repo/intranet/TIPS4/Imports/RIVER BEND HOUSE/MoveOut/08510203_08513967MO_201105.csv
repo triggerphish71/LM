@@ -1,0 +1,7 @@
+BATCH,,201105,B,5490.0000,
+INVOICE,IN,,08510203,,05/14/2011,1708.0000,"Invoice-Private",,05/14/2011,05/14/2011,,08513967MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,14,16.0000,224.00,"Resident Care - Level 1 for May: Stroth, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,14,106.0000,1484.00,"Room and Board - One Bedroom for May: Stroth, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,08510203,,05/14/2011,3782,"Invoice-Private",,05/14/2011,05/14/2011,,08513967MO,-2074.0000,,,,,,,,,,
+TRANSACTION,3027,010305085,1,496,496,"CR:Resident Care -... C.Stroth 201105: Stroth, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305085,1,3286,3286,"CR:Room and Board ... C.Stroth 201105: Stroth, Carl",,,,,,,,,,,,,,,

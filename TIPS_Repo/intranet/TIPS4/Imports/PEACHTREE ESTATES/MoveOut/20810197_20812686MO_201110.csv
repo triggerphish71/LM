@@ -1,0 +1,5 @@
+BATCH,,201110,B,1240.0000,
+INVOICE,IN,,20810197,,10/01/2011,620.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20812686MO,-2556.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,20.0000,620.00,"Credit for Limited Term Discount: Crider, Edgar",,,,,,,,,,,,,,,
+INVOICE,CM,,20810197,,10/01/2011,620,"Invoice-Private",,10/01/2011,10/10/2011,,20812686MO,-2556.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,20,620,"Limited Term Discount: Crider, Edgar",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,8608.8100,
+INVOICE,IN,,08310171,,02/01/2013,3689.4900,"Invoice-Private",,02/01/2013,02/10/2013,,08314372MO,-6065.8300,,,,,,,,,,
+TRANSACTION,3020,010306083,21,60.0000,1260.00,"Basic Service Fee - Deluxe for Feb: Greenfield, BettyJane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,21,115.6900,2429.49,"Resident Care - Level 6+11 pts for Feb: Greenfield, BettyJane",,,,,,,,,,,,,,,
+INVOICE,CM,,08310171,,02/01/2013,4919.32,"Invoice-Private",,02/01/2013,02/10/2013,,08314372MO,-6065.8300,,,,,,,,,,
+TRANSACTION,3020,010306083,1,1680,1680,"CR:Basic Service F... B.Greenfield 201302: Greenfield, BettyJane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,3239.32,3239.32,"CR:Resident Care -... B.Greenfield 201302: Greenfield, BettyJane",,,,,,,,,,,,,,,

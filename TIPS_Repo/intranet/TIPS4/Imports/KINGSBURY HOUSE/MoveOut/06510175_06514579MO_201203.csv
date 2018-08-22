@@ -1,0 +1,6 @@
+BATCH,,201203,B,7186.0000,
+INVOICE,IN,,06510175,,03/17/2012,3466.0000,"Invoice-Private",,03/17/2012,03/17/2012,,06514579MO,-2474.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1426.0000,1426.00,"CR:Limited Term Di... D.Thieroff 201203: Thieroff, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,17,120.0000,2040.00,"Basic Service Fee- One Bedroom Prem for Mar: Thieroff, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,06510175,,03/17/2012,3720,"Invoice-Private",,03/17/2012,03/17/2012,,06514579MO,-2474.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3720,3720,"CR:Basic Service F... D.Thieroff 201203: Thieroff, Dorothy",,,,,,,,,,,,,,,

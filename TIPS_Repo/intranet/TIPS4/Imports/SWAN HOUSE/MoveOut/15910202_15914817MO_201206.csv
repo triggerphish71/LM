@@ -1,0 +1,7 @@
+BATCH,,201206,B,6564.0000,
+INVOICE,IN,,15910202,,06/01/2012,3024.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15914817MO,1164.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,450.0000,450.00,"CR:Limited Term Di... T.Krogh 201206: Krogh, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212159,22,117.0000,2574.00,"Basic Service Fee- One Bedroom Prem for Jun: Krogh, Theodore",,,,,,,,,,,,,,,
+INVOICE,CM,,15910202,,06/01/2012,3540,"Invoice-Private",,06/01/2012,06/10/2012,,15914817MO,1164.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,3510,3510,"CR:Basic Service F... T.Krogh 201206: Krogh, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... T.Krogh 201206: Krogh, Theodore",,,,,,,,,,,,,,,

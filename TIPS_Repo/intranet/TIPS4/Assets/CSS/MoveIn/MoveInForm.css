@@ -1,0 +1,24 @@
+table.outside {
+	border-width: 2px;
+	border-spacing: ;
+	border-style: outset;
+	border-color: green;
+	border-collapse: separate;
+	background-color: white;
+}
+table.tableA th {
+	border-width: 1px;
+	padding: 1px;
+	border-style: inset;
+	border-color: red;
+	background-color: white;
+	-moz-border-radius: ;
+}
+table.tableB td {
+	border-width: 1px;
+	padding: 1px;
+	border-style: inset;
+	border-color: blue;
+	background-color: white;
+	-moz-border-radius: ;
+}

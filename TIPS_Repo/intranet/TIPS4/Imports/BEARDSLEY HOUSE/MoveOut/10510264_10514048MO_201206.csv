@@ -1,0 +1,6 @@
+BATCH,,201206,B,5560.0000,
+INVOICE,IN,,10510264,,06/10/2012,2470.0000,"Invoice-Private",,06/10/2012,06/10/2012,,10514048MO,-620.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,1440.0000,1440.00,"CR:Limited Term Di... R.Lenox 201206: Lenox, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,10,103.0000,1030.00,"Basic Service Fee - One Bedroom for Jun: Lenox, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,10510264,,06/10/2012,3090,"Invoice-Private",,06/10/2012,06/10/2012,,10514048MO,-620.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3090,3090,"CR:Basic Service F... R.Lenox 201206: Lenox, Roberta",,,,,,,,,,,,,,,

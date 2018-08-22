@@ -1,0 +1,6 @@
+BATCH,,201305,B,4801.9000,
+INVOICE,IN,,16310297,,05/01/2013,337.9000,"Invoice-Private",,05/01/2013,05/10/2013,,16317113MO,-6247.1000,,,,,,,,,,
+TRANSACTION,3312,010202163,1,337.9000,337.90,"CR:Two Room Rental... P.Bloomer 201305: Bloomer, Paula",,,,,,,,,,,,,,,
+INVOICE,CM,,16310297,,05/01/2013,4464,"Invoice-Private",,05/01/2013,05/10/2013,,16317113MO,-6247.1000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3379,3379,"CR:Basic Service F... P.Bloomer 201305: Bloomer, Paula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,1085,1085,"CR:Resident Care -... P.Bloomer 201305: Bloomer, Paula",,,,,,,,,,,,,,,

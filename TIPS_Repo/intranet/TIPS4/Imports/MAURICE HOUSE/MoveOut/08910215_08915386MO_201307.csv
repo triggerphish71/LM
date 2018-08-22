@@ -1,0 +1,6 @@
+BATCH,,201307,B,4960.0000,
+INVOICE,IN,,08910215,,07/01/2013,1085.0000,"Invoice-Private",,07/01/2013,07/10/2013,,08915386MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1085.0000,1085.00,"CR:Resident Care L... C.Coward 201307: Coward, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,08910215,,07/01/2013,3875,"Invoice-Private",,07/01/2013,07/10/2013,,08915386MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,2790,2790,"CR:Basic Service F... C.Coward 201307: Coward, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1085,1085,"CR:Resident Care -... C.Coward 201307: Coward, Charlotte",,,,,,,,,,,,,,,

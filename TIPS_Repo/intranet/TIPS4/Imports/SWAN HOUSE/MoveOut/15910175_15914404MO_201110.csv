@@ -1,0 +1,5 @@
+BATCH,,201110,B,682.0000,
+INVOICE,IN,,15910175,,10/01/2011,341.0000,"Invoice-Private",,10/01/2011,10/10/2011,,15914404MO,-661.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,31,11.0000,341.00,"Credit for Limited Term Discount: Truitt, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,15910175,,10/01/2011,341,"Invoice-Private",,10/01/2011,10/10/2011,,15914404MO,-661.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,31,11,341,"Limited Term Discount: Truitt, Norma",,,,,,,,,,,,,,,

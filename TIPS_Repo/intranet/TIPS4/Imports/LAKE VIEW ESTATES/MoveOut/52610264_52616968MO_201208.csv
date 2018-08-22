@@ -1,0 +1,5 @@
+BATCH,,201208,B,60.0000,
+INVOICE,IN,,52610264,,08/01/2012,30.0000,"Invoice-Private",,08/01/2012,08/10/2012,,52616968MO,-6675.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30.0000,30.00,"Pendant Fee: Sadenwasser, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,52610264,,08/01/2012,30,"Invoice-Private",,08/01/2012,08/10/2012,,52616968MO,-6675.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"Credit for Pendant Fee: Sadenwasser, Dorothy",,,,,,,,,,,,,,,

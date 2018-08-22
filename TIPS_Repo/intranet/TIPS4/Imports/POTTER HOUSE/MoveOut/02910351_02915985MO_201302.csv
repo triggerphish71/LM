@@ -1,0 +1,8 @@
+BATCH,,201302,B,2722.0000,
+INVOICE,IN,,02910351,,02/03/2013,261.0000,"Invoice-Private",,02/03/2013,02/03/2013,,02915985MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,3,55.0000,165.00,"Basic Service Fee - Studio for Feb: Coldiron, Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,3,32.0000,96.00,"Resident Care - Level 2 for Feb: Coldiron, Dallas",,,,,,,,,,,,,,,
+INVOICE,CM,,02910351,,02/03/2013,2461,"Invoice-Private",,02/03/2013,02/03/2013,,02915985MO,-2200.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,1540,1540,"CR:Basic Service F... D.Coldiron 201302: Coldiron, Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25,25,"CR:Monthly Cable... D.Coldiron 201302: Coldiron, Dallas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,896,896,"CR:Resident Care -... D.Coldiron 201302: Coldiron, Dallas",,,,,,,,,,,,,,,

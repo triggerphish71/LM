@@ -1,0 +1,6 @@
+BATCH,,201306,B,3444.0000,
+INVOICE,IN,,00910227,,06/22/2013,1196.0000,"Invoice-Private",,06/22/2013,06/22/2013,,00914042MO,-3904.0000,,,,,,,,,,
+TRANSACTION,3020,010101009,13,92.0000,1196.00,"Basic Service Fee - Studio Deluxe for Jun: Myers, Dollie",,,,,,,,,,,,,,,
+INVOICE,CM,,00910227,,06/22/2013,2248,"Invoice-Private",,06/22/2013,06/22/2013,,00914042MO,-3904.0000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,1748,1748,"CR:Basic Service F... D.Myers 201306: Myers, Dollie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,500,500,"CR:New Resident Fe... D.Myers 201306: Myers, Dollie",,,,,,,,,,,,,,,

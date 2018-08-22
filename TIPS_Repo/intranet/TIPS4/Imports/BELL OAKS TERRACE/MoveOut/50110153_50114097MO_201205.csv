@@ -1,0 +1,8 @@
+BATCH,,201205,B,5359.4900,
+INVOICE,IN,,50110153,,05/01/2012,248.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50114097MO,-5176.8600,,,,,,,,,,
+TRANSACTION,3320,010209501,1,248.0000,248.00,"CR:Limited Term Di... E.Blackman 201205: Blackman, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,50110153,,05/01/2012,5111.49,"Invoice-Private",,05/01/2012,05/10/2012,,50114097MO,-5176.8600,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... E.Blackman 201205: Blackman, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... E.Blackman 201205: Blackman, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... E.Blackman 201205: Blackman, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,2318.49,2318.49,"CR:Resident Care -... E.Blackman 201205: Blackman, Elaine",,,,,,,,,,,,,,,

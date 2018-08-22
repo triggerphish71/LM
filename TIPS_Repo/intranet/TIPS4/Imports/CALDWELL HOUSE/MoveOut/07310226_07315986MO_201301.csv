@@ -1,0 +1,8 @@
+BATCH,,201301,B,9140.0000,
+INVOICE,IN,,07310226,,01/25/2013,4160.0000,"Invoice-Private",,01/25/2013,01/25/2013,,07315986MO,-5320.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,26,110.0000,2860.00,"Basic Service Fee - Deluxe for Jan: Kauffman, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,26,50.0000,1300.00,"Resident Care - Level 3 for Jan: Kauffman, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,07310226,,01/25/2013,4980,"Invoice-Private",,01/25/2013,01/25/2013,,07315986MO,-5320.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3410,3410,"CR:Basic Service F... E.Kauffman 201301: Kauffman, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... E.Kauffman 201301: Kauffman, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1550,1550,"CR:Resident Care -... E.Kauffman 201301: Kauffman, Ellen",,,,,,,,,,,,,,,

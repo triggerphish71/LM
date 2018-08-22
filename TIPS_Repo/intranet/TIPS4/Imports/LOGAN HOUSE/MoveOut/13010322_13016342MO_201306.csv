@@ -1,0 +1,8 @@
+BATCH,,201306,B,5487.0000,
+INVOICE,IN,,13010322,,06/01/2013,1260.0000,"Invoice-Private",,06/01/2013,06/01/2013,,13016342MO,-2967.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,9,102.0000,918.00,"Basic Service Fee - Studio for Jun: Mcculloch, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,9,38.0000,342.00,"Resident Care - Level 2 for Jun: Mcculloch, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,13010322,,06/01/2013,4227,"Invoice-Private",,06/01/2013,06/01/2013,,13016342MO,-2967.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3060,3060,"CR:Basic Service F... J.Mcculloch 201306: Mcculloch, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... J.Mcculloch 201306: Mcculloch, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1140,1140,"CR:Resident Care -... J.Mcculloch 201306: Mcculloch, Jean",,,,,,,,,,,,,,,

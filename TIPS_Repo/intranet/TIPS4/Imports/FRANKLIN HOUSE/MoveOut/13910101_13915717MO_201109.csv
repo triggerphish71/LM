@@ -1,0 +1,7 @@
+BATCH,,201109,B,2610.1400,
+INVOICE,IN,,13910101,,09/01/2011,1305.0700,"Invoice-Medicaid",,09/01/2011,09/10/2011,,13915717MO,-1542.0900,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Anthony, Allen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103139,1,1275.0700,1275.07,"State Medicaid: Anthony, Allen",,,,,,,,,,,,,,,
+INVOICE,CM,,13910101,,09/01/2011,1305.07,"Invoice-Medicaid",,09/01/2011,09/10/2011,,13915717MO,-1542.0900,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Anthony, Allen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103139,1,1275.07,1275.07,"Credit for State Medicaid: Anthony, Allen",,,,,,,,,,,,,,,

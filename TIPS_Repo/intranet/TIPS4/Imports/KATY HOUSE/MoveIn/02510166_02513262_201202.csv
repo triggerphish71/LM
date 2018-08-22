@@ -1,0 +1,5 @@
+BATCH,,201202,B,2630.0000,
+INVOICE,IN,,02510166,,02/17/2012,2630.0000,"MoveIn-Anderson. Walter",,02/17/2012,02/17/2012,,02513262,5290.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,13,85.0000,1105,"W.Anderson: Basic Service Fee - Studio: Anderson. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Anderson. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202025,1,1500.0000,1500,"New Resident Fee: Anderson. Walter",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,3535.0000,
+INVOICE,IN,,02910310,,04/01/2012,3535.0000,"April_Rent-Rifenberg. Jim",,04/01/2012,04/10/2012,,02915537,5294.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,30,100.0000,3000,"Basic Service Fee - Studio: Rifenberg. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,30,17.0000,510,"Resident Care - Level 1: Rifenberg. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Rifenberg. Jim",,,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+BATCH,,201111,B,3270.0000,
+INVOICE,IN,,10910210,,11/01/2011,3270.0000,"November_Rent-Rider. Ted",,11/01/2011,11/10/2011,,10914439,4276.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,30,30.0000,900,"Basic Service Fee - Second Resident: Rider. Ted",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,30,79.0000,2370,"Resident Care - Level 5: Rider. Ted",,,,,,,,,,,,,,,

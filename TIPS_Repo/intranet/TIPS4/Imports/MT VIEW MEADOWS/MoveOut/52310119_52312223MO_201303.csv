@@ -1,0 +1,7 @@
+BATCH,,201303,B,4352.4000,
+INVOICE,IN,,52310119,,03/08/2013,892.8000,"Invoice-Private",,03/08/2013,03/08/2013,,52312223MO,-2566.8000,,,,,,,,,,
+TRANSACTION,3020,010103523,8,82.0000,656.00,"Basic Service Fee - Studio for Mar: Gordon, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,8,29.6000,236.80,"Resident Care - Level 16 for Mar: Gordon, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,52310119,,03/08/2013,3459.6,"Invoice-Private",,03/08/2013,03/08/2013,,52312223MO,-2566.8000,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2542,2542,"CR:Basic Service F... D.Gordon 201303: Gordon, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,917.6,917.6,"CR:Resident Care -... D.Gordon 201303: Gordon, Dorothy",,,,,,,,,,,,,,,

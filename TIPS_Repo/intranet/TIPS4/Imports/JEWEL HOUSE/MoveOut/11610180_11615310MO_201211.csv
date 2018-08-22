@@ -1,0 +1,8 @@
+BATCH,,201211,B,6668.0000,
+INVOICE,IN,,11610180,,11/26/2012,3128.0000,"Invoice-Private",,11/26/2012,11/26/2012,,11615310MO,-4008.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,60.0000,60.00,"CR:Limited Term Di... E.Pocobello 201211: Pocobello, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,26,100.0000,2600.00,"Basic Service Fee - Studio for Nov: Pocobello, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,26,18.0000,468.00,"Resident Care - Level 1 for Nov: Pocobello, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,11610180,,11/26/2012,3540,"Invoice-Private",,11/26/2012,11/26/2012,,11615310MO,-4008.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3000,3000,"CR:Basic Service F... E.Pocobello 201211: Pocobello, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,540,540,"CR:Resident Care -... E.Pocobello 201211: Pocobello, Esther",,,,,,,,,,,,,,,

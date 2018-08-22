@@ -1,0 +1,7 @@
+BATCH,,201112,B,4790.4000,
+INVOICE,IN,,10610152,,12/01/2011,260.4000,"Invoice-Private",,12/01/2011,12/10/2011,,10612395MO,-5212.6000,,,,,,,,,,
+TRANSACTION,3312,010309106,1,260.4000,260.40,"CR:Two Room Rental... M.Neville 201112: Neville, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,10610152,,12/01/2011,4530,"Invoice-Private",,12/01/2011,12/10/2011,,10612395MO,-5212.6000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... M.Neville 201112: Neville, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,1891,1891,"CR:Resident Care -... M.Neville 201112: Neville, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2604,2604,"CR:Room and Board ... M.Neville 201112: Neville, Marjorie",,,,,,,,,,,,,,,

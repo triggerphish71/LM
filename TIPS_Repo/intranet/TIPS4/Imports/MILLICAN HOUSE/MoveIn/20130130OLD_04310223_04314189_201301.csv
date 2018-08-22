@@ -1,0 +1,6 @@
+BATCH,,201301,B,2209.0000,
+INVOICE,IN,,04310223,,01/26/2013,2209.0000,"MoveIn-Smith. Henry",,01/26/2013,01/26/2013,,04314189,5426.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,6,98.0000,588,"H.Smith: Basic Service Fee - Studio: Smith. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,6,16.0000,96,"H.Smith: Resident Care - Level 1: Smith. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Smith. Henry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Smith. Henry",,,,,,,,,,,,,,,

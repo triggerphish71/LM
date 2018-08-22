@@ -1,0 +1,7 @@
+BATCH,,201209,B,5800.0000,
+INVOICE,IN,,15510239,,09/10/2012,1450.0000,"Invoice-Private",,09/10/2012,09/10/2012,,15515416MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3027,010310155,10,56.0000,560.00,"Resident Care - Level 4 for Sep: Caputo, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310155,10,89.0000,890.00,"Room and Board - Studio for Sep: Caputo, Emma",,,,,,,,,,,,,,,
+INVOICE,CM,,15510239,,09/10/2012,4350,"Invoice-Private",,09/10/2012,09/10/2012,,15515416MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1680,1680,"CR:Resident Care -... E.Caputo 201209: Caputo, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2670,2670,"CR:Room and Board ... E.Caputo 201209: Caputo, Emma",,,,,,,,,,,,,,,

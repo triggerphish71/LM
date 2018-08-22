@@ -1,0 +1,7 @@
+BATCH,,201302,B,3366.0000,
+INVOICE,IN,,17410258,,02/01/2013,1518.0000,"Invoice-Private",,02/01/2013,02/01/2013,,17414632MO,-2376.0000,,,,,,,,,,
+TRANSACTION,3027,010309174,23,16.0000,368.00,"Resident Care - Level 1 for Feb: Jackson, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,23,50.0000,1150.00,"Room and Board - Studio for Feb: Jackson, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,17410258,,02/01/2013,1848,"Invoice-Private",,02/01/2013,02/01/2013,,17414632MO,-2376.0000,,,,,,,,,,
+TRANSACTION,3027,010309174,1,448,448,"CR:Resident Care -... S.Jackson 201302: Jackson, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,1,1400,1400,"CR:Room and Board ... S.Jackson 201302: Jackson, Shirley",,,,,,,,,,,,,,,

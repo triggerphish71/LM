@@ -1,0 +1,5 @@
+BATCH,,201112,B,3627.0000,
+INVOICE,IN,,15310237,,12/16/2011,3627.0000,"MoveIn-Nehls. Leland",,12/16/2011,12/16/2011,,15315787,3627.0000,,,,,,,,,,
+TRANSACTION,3010,010103153,16,100.0000,1600,"Basic Service Fee - Studio: Nehls. Leland",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Nehls. Leland",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Nehls. Leland",,,,,,,,,,,,,,,

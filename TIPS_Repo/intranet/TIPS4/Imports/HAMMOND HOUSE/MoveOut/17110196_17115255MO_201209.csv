@@ -1,0 +1,7 @@
+BATCH,,201209,B,354.0000,
+INVOICE,IN,,17110196,,09/01/2012,177.0000,"Invoice-Private",,09/01/2012,09/10/2012,,17115255MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Beard, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,30,5.0000,150.00,"Credit for Limited Term Discount: Beard, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,17110196,,09/01/2012,177,"Invoice-Private",,09/01/2012,09/10/2012,,17115255MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Beard, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,30,5,150,"Limited Term Discount: Beard, Wayne",,,,,,,,,,,,,,,

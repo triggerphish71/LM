@@ -1,0 +1,6 @@
+BATCH,,201203,B,1488.0000,
+INVOICE,IN,,11510265,,03/27/2012,1488.0000,"MoveIn-Johnson. Ruby",,03/27/2012,03/27/2012,,11514151,4276.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,5,66.0000,330,"Basic Service Fee - Studio: Johnson. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,5,26.0000,130,"Resident Care - Level 2: Johnson. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Johnson. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Johnson. Ruby",,,,,,,,,,,,,,,

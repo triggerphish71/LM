@@ -1,0 +1,8 @@
+BATCH,,201211,B,4780.6800,
+INVOICE,IN,,09510170,,11/01/2012,212.2800,"Invoice-Private",,11/01/2012,11/01/2012,,09515227MO,-4356.1200,,,,,,,,,,
+TRANSACTION,3320,010103095,1,60.0000,60.00,"CR:Limited Term Di... E.Helland 201211: Helland, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103095,1,95.0000,95.00,"Basic Service Fee - One Bedroom for Nov: Helland, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,57.2800,57.28,"Resident Care - Level 32 for Nov: Helland, Erma",,,,,,,,,,,,,,,
+INVOICE,CM,,09510170,,11/01/2012,4568.4,"Invoice-Private",,11/01/2012,11/01/2012,,09515227MO,-4356.1200,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2850,2850,"CR:Basic Service F... E.Helland 201211: Helland, Erma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1718.4,1718.4,"CR:Resident Care -... E.Helland 201211: Helland, Erma",,,,,,,,,,,,,,,

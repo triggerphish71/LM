@@ -1,0 +1,7 @@
+BATCH,,201112,B,3699.2000,
+INVOICE,IN,,20410191,,11/30/2011,115.6000,"MoveIn-Austin. Bobby",,11/30/2011,11/30/2011,,20412704,3699.2000,,,,,,,,,,
+TRANSACTION,3014,010216204,1,93.6000,93.6,"Basic Service Fee- Respite Studio: Austin. Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216204,1,22.0000,22,"Resident Care - Level 2: Austin. Bobby",,,,,,,,,,,,,,,
+INVOICE,IN,,20410191,,12/01/2011,3583.6000,"December_Rent-Austin. Bobby",,12/01/2011,12/10/2011,,20412704,3699.2000,,,,,,,,,,
+TRANSACTION,3010,010216204,31,93.6000,2901.6,"Basic Service Fee- Respite Studio: Austin. Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216204,31,22.0000,682,"Resident Care - Level 2: Austin. Bobby",,,,,,,,,,,,,,,

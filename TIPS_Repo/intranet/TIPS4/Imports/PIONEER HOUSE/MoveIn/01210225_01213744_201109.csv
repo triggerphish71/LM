@@ -1,0 +1,5 @@
+BATCH,,201109,B,1612.0000,
+INVOICE,IN,,01210225,,09/30/2011,1612.0000,"MoveIn-Stecker. Dan",,09/30/2011,09/30/2011,,01213744,4214.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,1,83.0000,83,"Basic Service Fee - Studio         : Stecker. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Stecker. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Stecker. Dan",,,,,,,,,,,,,,,

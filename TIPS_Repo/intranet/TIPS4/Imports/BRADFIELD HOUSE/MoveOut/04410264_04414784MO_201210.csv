@@ -1,0 +1,6 @@
+BATCH,,201210,B,3999.0000,
+INVOICE,IN,,04410264,,10/01/2012,465.0000,"Invoice-Private",,10/01/2012,10/10/2012,,04414784MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,1,465.0000,465.00,"CR:Limited Term Di... B.Gilliland 201210: Gilliland, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,04410264,,10/01/2012,3534,"Invoice-Private",,10/01/2012,10/10/2012,,04414784MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... B.Gilliland 201210: Gilliland, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,899,899,"CR:Resident Care -... B.Gilliland 201210: Gilliland, Bill",,,,,,,,,,,,,,,

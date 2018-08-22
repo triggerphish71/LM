@@ -1,0 +1,5 @@
+BATCH,,201209,B,5080.0000,
+INVOICE,IN,,08510243,,09/11/2012,5080.0000,"MoveIn-Adams. Dorothy",,09/11/2012,09/11/2012,,08514338,5080.0000,,,,,,,,,,
+TRANSACTION,3010,010305085,20,110.0000,2200,"Basic Service Fee - One Bedroom: Adams. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305085,20,44.0000,880,"Resident Care - Level 3: Adams. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305085,1,2000.0000,2000,"New Resident Fee: Adams. Dorothy",,,,,,,,,,,,,,,

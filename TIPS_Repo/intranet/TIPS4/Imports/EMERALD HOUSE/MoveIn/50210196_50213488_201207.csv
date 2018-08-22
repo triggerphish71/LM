@@ -1,0 +1,5 @@
+BATCH,,201207,B,3404.0000,
+INVOICE,IN,,50210196,,07/01/2012,3404.0000,"July_Rent-Haag. Wilma",,07/01/2012,07/10/2012,,50213488,5173.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,31,83.0000,2573,"W.Haag: Basic Service Fee - Studio: Haag. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,31,26.0000,806,"W.Haag: Resident Care - Level 2: Haag. Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Haag. Wilma",,,,,,,,,,,,,,,

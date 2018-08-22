@@ -1,0 +1,7 @@
+BATCH,,201203,B,8322.0000,
+INVOICE,IN,,09310197,,03/26/2012,3796.0000,"Invoice-Private",,03/26/2012,03/26/2012,,09315196MO,-5110.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,26,113.0000,2938.00,"Basic Service Fee - Deluxe for Mar: Shaffer, Loren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,26,33.0000,858.00,"Resident Care - Level 2 for Mar: Shaffer, Loren",,,,,,,,,,,,,,,
+INVOICE,CM,,09310197,,03/26/2012,4526,"Invoice-Private",,03/26/2012,03/26/2012,,09315196MO,-5110.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3503,3503,"CR:Basic Service F... L.Shaffer 201203: Shaffer, Loren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,1023,1023,"CR:Resident Care -... L.Shaffer 201203: Shaffer, Loren",,,,,,,,,,,,,,,

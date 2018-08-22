@@ -1,0 +1,6 @@
+BATCH,,201207,B,4260.0000,
+INVOICE,IN,,14010234,,07/06/2012,4260.0000,"MoveIn-Haines. Bernard",,07/06/2012,07/06/2012,,14013887,3760.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,26,88.0000,2288,"Basic Service Fee - Studio: Haines. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,26,17.0000,442,"Resident Care - Level 1: Haines. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Haines. Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: Haines. Bernard",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,7920.0000,
+INVOICE,IN,,06610194,,01/24/2012,3456.0000,"Invoice-Private",,01/24/2012,01/24/2012,,06614384MO,-5184.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,24,96.0000,2304.00,"Basic Service Fee - Studio for Jan: Coffman, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,24,48.0000,1152.00,"Resident Care - Level 3 for Jan: Coffman, June",,,,,,,,,,,,,,,
+INVOICE,CM,,06610194,,01/24/2012,4464,"Invoice-Private",,01/24/2012,01/24/2012,,06614384MO,-5184.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... J.Coffman 201201: Coffman, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,1488,1488,"CR:Resident Care -... J.Coffman 201201: Coffman, June",,,,,,,,,,,,,,,

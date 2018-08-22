@@ -1,0 +1,6 @@
+BATCH,,201210,B,4126.0000,
+INVOICE,CM,,53510213,,10/01/2012,4126,"Invoice-Private",,10/01/2012,10/10/2012,,53514888MO,-4126.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3131,3131,"CR:Basic Service F... M.Martensen 201210: Martensen, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... M.Martensen 201210: Martensen, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35,35,"CR:Pendant Fee... M.Martensen 201210: Martensen, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,930,930,"CR:Resident Care -... M.Martensen 201210: Martensen, Marilyn",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,4865.0000,
+INVOICE,IN,,14310158,,03/04/2013,552.0000,"Invoice-Private",,03/04/2013,03/04/2013,,14314868MO,-3761.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,4,83.0000,332.00,"Basic Service Fee - Studio for Mar: Harvey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,4,55.0000,220.00,"Resident Care - Level 4 for Mar: Harvey, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14310158,,03/04/2013,4313,"Invoice-Private",,03/04/2013,03/04/2013,,14314868MO,-3761.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2573,2573,"CR:Basic Service F... M.Harvey 201303: Harvey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... M.Harvey 201303: Harvey, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,1705,1705,"CR:Resident Care -... M.Harvey 201303: Harvey, Mary",,,,,,,,,,,,,,,

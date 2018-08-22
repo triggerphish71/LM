@@ -1,0 +1,7 @@
+BATCH,,201206,B,5544.0000,
+INVOICE,IN,,08610161,,06/03/2012,504.0000,"Invoice-Private",,06/03/2012,06/03/2012,,08614818MO,-4536.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,3,89.0000,267.00,"Basic Service Fee - Studio for Jun: Morey, JoAnn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,3,79.0000,237.00,"Resident Care - Level 5 for Jun: Morey, JoAnn",,,,,,,,,,,,,,,
+INVOICE,CM,,08610161,,06/03/2012,5040,"Invoice-Private",,06/03/2012,06/03/2012,,08614818MO,-4536.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2670,2670,"CR:Basic Service F... J.Morey 201206: Morey, JoAnn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,2370,2370,"CR:Resident Care -... J.Morey 201206: Morey, JoAnn",,,,,,,,,,,,,,,

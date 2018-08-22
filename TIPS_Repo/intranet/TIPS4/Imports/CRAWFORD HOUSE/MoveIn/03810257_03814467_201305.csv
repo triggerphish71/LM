@@ -1,0 +1,6 @@
+BATCH,,201305,B,2600.1000,
+INVOICE,IN,,03810257,,05/26/2013,2600.1000,"MoveIn-Nelson. Thomas",,05/26/2013,05/26/2013,,03814467,5500.6000,,,,,,,,,,
+TRANSACTION,3010,010103038,6,94.0000,564,"T.Nelson: Basic Service Fee - One Bedroom: Nelson. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,6,1.8500,11.1,"T.Nelson: Resident Care - Level 1: Nelson. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Nelson. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Nelson. Thomas",,,,,,,,,,,,,,,

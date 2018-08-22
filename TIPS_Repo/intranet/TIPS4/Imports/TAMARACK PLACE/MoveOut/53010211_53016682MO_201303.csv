@@ -1,0 +1,7 @@
+BATCH,,201303,B,700.0000,
+INVOICE,IN,,53010211,,03/01/2013,350.0000,"Invoice-Private",,03/01/2013,03/10/2013,,53016682MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40.00,"Monthly Cable: Mugan, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3299,010319530,31,10.0000,310.00,"Base Charge: Mugan, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,53010211,,03/01/2013,350,"Invoice-Private",,03/01/2013,03/10/2013,,53016682MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"Credit for Monthly Cable: Mugan, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3299,010319530,31,10,310,"Credit for Base Charge: Mugan, Bernice",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,3181.0000,
+INVOICE,IN,,00810241,,01/07/2012,581.0000,"Invoice-Private",,01/07/2012,01/07/2012,,00814562MO,-2019.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,7,83.0000,581.00,"Basic Service Fee - Studio for Jan: Dunlap, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,00810241,,01/07/2012,2600,"Invoice-Private",,01/07/2012,01/07/2012,,00814562MO,-2019.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2573,2573,"CR:Basic Service F... B.Dunlap 201201: Dunlap, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... B.Dunlap 201201: Dunlap, Barbara",,,,,,,,,,,,,,,

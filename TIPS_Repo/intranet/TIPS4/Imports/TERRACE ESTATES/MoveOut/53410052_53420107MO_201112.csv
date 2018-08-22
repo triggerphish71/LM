@@ -1,0 +1,7 @@
+BATCH,,201112,B,4401.0000,
+INVOICE,IN,,53410052,,12/01/2011,93.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53420107MO,-4215.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,93.0000,93.00,"CR:Limited Term Di... M.Fetterer 201112: Fetterer, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,53410052,,12/01/2011,4308,"Invoice-Private",,12/01/2011,12/10/2011,,53420107MO,-4215.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2201,2201,"CR:Basic Service F... M.Fetterer 201112: Fetterer, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... M.Fetterer 201112: Fetterer, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2077,2077,"CR:Resident Care -... M.Fetterer 201112: Fetterer, Margaret",,,,,,,,,,,,,,,

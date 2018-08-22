@@ -1,0 +1,7 @@
+BATCH,,201210,B,9499.0000,
+INVOICE,IN,,06610214,,10/28/2012,4508.0000,"Invoice-Private",,10/28/2012,10/28/2012,,06614748MO,-5313.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,28,96.0000,2688.00,"Basic Service Fee - Studio for Oct: Kober, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305066,28,65.0000,1820.00,"Private Care Rate Adjustments for Oct: Kober, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,06610214,,10/28/2012,4991,"Invoice-Private",,10/28/2012,10/28/2012,,06614748MO,-5313.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... W.Kober 201210: Kober, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3037,010305066,1,2015,2015,"CR:Private Care Ra... W.Kober 201210: Kober, Wanda",,,,,,,,,,,,,,,

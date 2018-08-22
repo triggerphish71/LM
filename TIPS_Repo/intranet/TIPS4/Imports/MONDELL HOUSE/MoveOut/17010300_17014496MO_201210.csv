@@ -1,0 +1,8 @@
+BATCH,,201210,B,9189.0000,
+INVOICE,IN,,17010300,,10/01/2012,4266.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17014496MO,-657.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,27,107.0000,2889.00,"Basic Service Fee - One Bedroom for Oct: Stoops, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,27,51.0000,1377.00,"Resident Care - Level 4 for Oct: Stoops, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,17010300,,10/01/2012,4923,"Invoice-Private",,10/01/2012,10/10/2012,,17014496MO,-657.0000,,,,,,,,,,
+TRANSACTION,3020,010107170,1,3317,3317,"CR:Basic Service F... T.Stoops 201210: Stoops, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25,25,"CR:Monthly Cable... T.Stoops 201210: Stoops, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107170,1,1581,1581,"CR:Resident Care -... T.Stoops 201210: Stoops, Thelma",,,,,,,,,,,,,,,

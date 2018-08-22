@@ -1,0 +1,5 @@
+BATCH,,201104,B,1907.0000,
+INVOICE,IN,,17110219,,04/29/2011,1907.0000,"MoveIn-McKie. John",,04/29/2011,04/29/2011,,17114542,4724.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,2,90.0000,180,"Basic Service Fee - Studio         : McKie. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: McKie. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1700.0000,1700,"New Resident Fee: McKie. John",,,,,,,,,,,,,,,

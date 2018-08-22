@@ -1,0 +1,5 @@
+BATCH,,201304,B,3325.0000,
+INVOICE,CM,,11110240,,04/01/2013,3325,"Invoice-Private",,04/01/2013,04/10/2013,,11115152MO,-3325.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2430,2430,"CR:Basic Service F... N.Graves 201304: Graves, Ned",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... N.Graves 201304: Graves, Ned",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,870,870,"CR:Resident Care -... N.Graves 201304: Graves, Ned",,,,,,,,,,,,,,,

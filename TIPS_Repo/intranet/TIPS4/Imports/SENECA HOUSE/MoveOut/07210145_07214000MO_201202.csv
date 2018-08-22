@@ -1,0 +1,7 @@
+BATCH,,201202,B,10638.0000,
+INVOICE,IN,,07210145,,02/09/2012,4925.0000,"Invoice-Private",,02/09/2012,02/09/2012,,07214000MO,-788.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,25,109.0000,2725.00,"Basic Service Fee - Deluxe for Feb: Yeater, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,25,88.0000,2200.00,"Resident Care - Level 6 for Feb: Yeater, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07210145,,02/09/2012,5713,"Invoice-Private",,02/09/2012,02/09/2012,,07214000MO,-788.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3161,3161,"CR:Basic Service F... E.Yeater 201202: Yeater, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2552,2552,"CR:Resident Care -... E.Yeater 201202: Yeater, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,4878.0000,
+INVOICE,IN,,21610185,,09/12/2011,1758.0000,"Invoice-Private",,09/12/2011,09/12/2011,,21613064MO,-1362.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,510.0000,510.00,"CR:Limited Term Di... H.Robertson 201109: Robertson, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,12,31.0000,372.00,"Resident Care - Level 3 for Sep: Robertson, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,12,73.0000,876.00,"Room and Board - Companion One Bedroom for Sep: Robertson, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,21610185,,09/12/2011,3120,"Invoice-Private",,09/12/2011,09/12/2011,,21613064MO,-1362.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,930,930,"CR:Resident Care -... H.Robertson 201109: Robertson, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2190,2190,"CR:Room and Board ... H.Robertson 201109: Robertson, Herbert",,,,,,,,,,,,,,,

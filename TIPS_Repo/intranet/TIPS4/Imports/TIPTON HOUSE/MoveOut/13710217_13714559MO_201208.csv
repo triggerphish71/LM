@@ -1,0 +1,6 @@
+BATCH,,201208,B,3068.0000,
+INVOICE,IN,,13710217,,08/01/2012,248.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13714559MO,-2444.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,1,248.0000,248.00,"CR:Limited Term Di... R.Augspurger 201208: Augspurger, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13710217,,08/01/2012,2820,"Invoice-Private",,08/01/2012,08/10/2012,,13714559MO,-2444.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... R.Augspurger 201208: Augspurger, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... R.Augspurger 201208: Augspurger, Richard",,,,,,,,,,,,,,,

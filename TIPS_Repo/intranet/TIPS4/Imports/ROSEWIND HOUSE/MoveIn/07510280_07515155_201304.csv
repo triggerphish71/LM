@@ -1,0 +1,6 @@
+BATCH,,201304,B,1325.0000,
+INVOICE,IN,,07510280,,04/23/2013,1325.0000,"MoveIn-Thomas. June",,04/23/2013,04/23/2013,,07515155,4450.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,8,85.0000,680,"Basic Service Fee - Studio: Thomas. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,8,15.0000,120,"Resident Care - Level 1: Thomas. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Thomas. June",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,500.0000,500,"New Resident Fee: Thomas. June",,,,,,,,,,,,,,,

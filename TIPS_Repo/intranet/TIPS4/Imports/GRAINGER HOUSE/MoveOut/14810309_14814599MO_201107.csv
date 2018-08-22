@@ -1,0 +1,8 @@
+BATCH,,201107,B,6300.0000,
+INVOICE,IN,,14810309,,07/02/2011,380.0000,"Invoice-Private",,07/02/2011,07/02/2011,,14814599MO,-5540.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,2,111.0000,222.00,"Basic Service Fee - One Bedroom for Jul: Thompson, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,2,79.0000,158.00,"Resident Care - Level 6 for Jul: Thompson, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,14810309,,07/02/2011,5920,"Invoice-Private",,07/02/2011,07/02/2011,,14814599MO,-5540.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,3441,3441,"CR:Basic Service F... J.Thompson 201107: Thompson, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... J.Thompson 201107: Thompson, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,2449,2449,"CR:Resident Care -... J.Thompson 201107: Thompson, Jerome",,,,,,,,,,,,,,,

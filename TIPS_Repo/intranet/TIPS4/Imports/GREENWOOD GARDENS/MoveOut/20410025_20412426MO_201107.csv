@@ -1,0 +1,7 @@
+BATCH,,201107,B,3960.0000,
+INVOICE,IN,,20410025,,07/09/2011,891.0000,"Invoice-Private",,07/09/2011,07/09/2011,,20412426MO,-2178.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,9,21.0000,189.00,"Resident Care - Level 2 for Jul: Meier, Hildegard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,9,78.0000,702.00,"Room and Board - Studio for Jul: Meier, Hildegard",,,,,,,,,,,,,,,
+INVOICE,CM,,20410025,,07/09/2011,3069,"Invoice-Private",,07/09/2011,07/09/2011,,20412426MO,-2178.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,651,651,"CR:Resident Care -... H.Meier 201107: Meier, Hildegard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2418,2418,"CR:Room and Board ... H.Meier 201107: Meier, Hildegard",,,,,,,,,,,,,,,

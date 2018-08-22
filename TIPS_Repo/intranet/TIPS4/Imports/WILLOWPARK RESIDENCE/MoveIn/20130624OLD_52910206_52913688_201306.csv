@@ -1,0 +1,5 @@
+BATCH,,201306,B,2085.0000,
+INVOICE,IN,,52910206,,06/24/2013,2085.0000,"MoveIn-Dins. Alice",,06/24/2013,06/24/2013,,52913688,4590.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,7,80.0000,560,"Basic Service Fee - Studio: Dins. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Dins. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,1500.0000,1500,"New Resident Fee: Dins. Alice",,,,,,,,,,,,,,,

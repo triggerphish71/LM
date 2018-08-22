@@ -1,0 +1,7 @@
+BATCH,,201210,B,11224.0000,
+INVOICE,IN,,07210171,,10/22/2012,5520.0000,"Invoice-Private",,10/22/2012,10/22/2012,,07214232MO,-5704.0000,,,,,,,,,,
+TRANSACTION,3027,010305072,30,88.0000,2640.00,"Resident Care - Level 6 for Oct: Swope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,30,96.0000,2880.00,"Room and Board - Studio for Oct: Swope, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,07210171,,10/22/2012,5704,"Invoice-Private",,10/22/2012,10/22/2012,,07214232MO,-5704.0000,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2728,2728,"CR:Resident Care -... C.Swope 201210: Swope, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2976,2976,"CR:Room and Board ... C.Swope 201210: Swope, Charles",,,,,,,,,,,,,,,

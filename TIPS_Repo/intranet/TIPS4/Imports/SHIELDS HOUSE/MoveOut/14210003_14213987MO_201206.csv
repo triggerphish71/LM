@@ -1,0 +1,7 @@
+BATCH,,201206,B,5362.4000,
+INVOICE,IN,,14210003,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14213987MO,-5242.4000,,,,,,,,,,
+TRANSACTION,3320,010309142,1,60.0000,60.00,"CR:Limited Term Di... A.Kasting 201206: Kasting, Antoinette",,,,,,,,,,,,,,,
+INVOICE,CM,,14210003,,06/01/2012,5302.4,"Invoice-Private",,06/01/2012,06/10/2012,,14213987MO,-5242.4000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2640,2640,"CR:Basic Service F... A.Kasting 201206: Kasting, Antoinette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly cable... A.Kasting 201206: Kasting, Antoinette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,2627.4,2627.4,"CR:Resident Care -... A.Kasting 201206: Kasting, Antoinette",,,,,,,,,,,,,,,

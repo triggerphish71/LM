@@ -1,0 +1,8 @@
+BATCH,,201212,B,5723.0000,
+INVOICE,IN,,05810192,,12/01/2012,2282.0000,"Invoice-Private",,12/01/2012,12/10/2012,,05814160MO,-1159.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,1,62.0000,62.00,"CR:Limited Term Di... R.Ryan 201212: Ryan, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,20,82.0000,1640.00,"Basic Service Fee - Studio for Dec: Ryan, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,20,29.0000,580.00,"Resident Care - Level 2 for Dec: Ryan, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,05810192,,12/01/2012,3441,"Invoice-Private",,12/01/2012,12/10/2012,,05814160MO,-1159.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2542,2542,"CR:Basic Service F... R.Ryan 201212: Ryan, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,899,899,"CR:Resident Care -... R.Ryan 201212: Ryan, Ruth",,,,,,,,,,,,,,,

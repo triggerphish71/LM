@@ -1,0 +1,7 @@
+BATCH,,201107,B,3796.1500,
+INVOICE,IN,,02710078,,07/01/2011,423.1500,"Invoice-Private",,07/01/2011,07/10/2011,,02713700MO,-2949.8500,,,,,,,,,,
+TRANSACTION,3316,010202027,1,423.1500,423.15,"CR:Employee Discou... C.Taylor 201107: Taylor, Cordaleah",,,,,,,,,,,,,,,
+INVOICE,CM,,02710078,,07/01/2011,3373,"Invoice-Private",,07/01/2011,07/10/2011,,02713700MO,-2949.8500,,,,,,,,,,
+TRANSACTION,3020,010202027,1,2821,2821,"CR:Basic Service F... C.Taylor 201107: Taylor, Cordaleah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25,25,"CR:Monthly Cable... C.Taylor 201107: Taylor, Cordaleah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202027,1,527,527,"CR:Resident Care -... C.Taylor 201107: Taylor, Cordaleah",,,,,,,,,,,,,,,

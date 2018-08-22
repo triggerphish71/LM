@@ -1,0 +1,5 @@
+BATCH,,201201,B,2852.0000,
+INVOICE,IN,,21410362,,01/01/2012,1426.0000,"Invoice-Private",,01/01/2012,01/10/2012,,21416980MO,-5176.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,46.0000,1426.00,"Credit for Limited Term Discount: Pruitt, Ernest",,,,,,,,,,,,,,,
+INVOICE,CM,,21410362,,01/01/2012,1426,"Invoice-Private",,01/01/2012,01/10/2012,,21416980MO,-5176.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,31,46,1426,"Limited Term Discount: Pruitt, Ernest",,,,,,,,,,,,,,,

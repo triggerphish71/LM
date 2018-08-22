@@ -1,0 +1,7 @@
+BATCH,,201307,B,5824.0000,
+INVOICE,IN,,03110368,,07/01/2013,1364.0000,"Invoice-Private",,07/01/2013,07/10/2013,,03117573MO,-6825.0000,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1364.0000,1364.00,"CR:Resident Care L... H.Morgan 201307: Morgan, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,03110368,,07/01/2013,4460,"Invoice-Private",,07/01/2013,07/10/2013,,03117573MO,-6825.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3069,3069,"CR:Basic Service F... H.Morgan 201307: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... H.Morgan 201307: Morgan, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1364,1364,"CR:Resident Care -... H.Morgan 201307: Morgan, Helen",,,,,,,,,,,,,,,

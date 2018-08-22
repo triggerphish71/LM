@@ -1,0 +1,7 @@
+BATCH,,201209,B,612.0000,
+INVOICE,IN,,15710249,,09/01/2012,306.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15714643MO,-2824.8000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30.00,"Monthly Cable: Shoda, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309157,30,9.2000,276.00,"Credit for Two Room Rental Discount: Shoda, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,15710249,,09/01/2012,306,"Invoice-Private",,09/01/2012,09/10/2012,,15714643MO,-2824.8000,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"Credit for Monthly Cable: Shoda, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309157,30,9.2,276,"Two Room Rental Discount: Shoda, Shirley",,,,,,,,,,,,,,,

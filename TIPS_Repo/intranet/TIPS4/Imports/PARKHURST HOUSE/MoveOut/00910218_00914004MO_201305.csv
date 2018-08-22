@@ -1,0 +1,7 @@
+BATCH,,201305,B,5187.6000,
+INVOICE,IN,,00910218,,05/13/2013,1532.7000,"Invoice-Private",,05/13/2013,05/13/2013,,00914004MO,-5659.2000,,,,,,,,,,
+TRANSACTION,3020,010101009,13,92.0000,1196.00,"Basic Service Fee - Studio Deluxe for May: Hosford, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,13,25.9000,336.70,"Resident Care - Level 14 for May: Hosford, Donnie",,,,,,,,,,,,,,,
+INVOICE,CM,,00910218,,05/13/2013,3654.9,"Invoice-Private",,05/13/2013,05/13/2013,,00914004MO,-5659.2000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2852,2852,"CR:Basic Service F... D.Hosford 201305: Hosford, Donnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,802.9,802.9,"CR:Resident Care -... D.Hosford 201305: Hosford, Donnie",,,,,,,,,,,,,,,

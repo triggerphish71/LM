@@ -1,0 +1,8 @@
+BATCH,,201305,B,6007.0000,
+INVOICE,IN,,15710276,,05/01/2013,1668.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15714985MO,-2671.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,12,70.0000,840.00,"Basic Service Fee - One Bedroom for May: Henschen, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,12,69.0000,828.00,"Resident Care - Level 5 for May: Henschen, Willard",,,,,,,,,,,,,,,
+INVOICE,CM,,15710276,,05/01/2013,4339,"Invoice-Private",,05/01/2013,05/10/2013,,15714985MO,-2671.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2170,2170,"CR:Basic Service F... W.Henschen 201305: Henschen, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30,30,"CR:Monthly Cable... W.Henschen 201305: Henschen, Willard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,2139,2139,"CR:Resident Care -... W.Henschen 201305: Henschen, Willard",,,,,,,,,,,,,,,

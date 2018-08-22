@@ -1,0 +1,8 @@
+BATCH,,201306,B,3666.0000,
+INVOICE,IN,,19810313,,06/06/2013,606.0000,"Invoice-Private",,06/06/2013,06/06/2013,,19818683MO,-2454.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,6,68.0000,408.00,"Basic Service Fee IL - One Bdrm D for Jun: Ruroden, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,6,33.0000,198.00,"Swan Personal Care - L1 for Jun: Ruroden, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,19810313,,06/06/2013,3060,"Invoice-Private",,06/06/2013,06/06/2013,,19818683MO,-2454.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2040,2040,"CR:Basic Service F... M.Ruroden 201306: Ruroden, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... M.Ruroden 201306: Ruroden, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,990,990,"CR:Swan Personal C... M.Ruroden 201306: Ruroden, Mary",,,,,,,,,,,,,,,

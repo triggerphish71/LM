@@ -1,0 +1,5 @@
+BATCH,,201112,B,4071.0000,
+INVOICE,IN,,15410229,,12/17/2011,1932.0000,"Invoice-Private",,12/17/2011,12/17/2011,,15414715MO,-2381.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,28,69.0000,1932.00,"Basic Service Fee - Studio for Dec: Clifford, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,15410229,,12/17/2011,2139,"Invoice-Private",,12/17/2011,12/17/2011,,15414715MO,-2381.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2139,2139,"CR:Basic Service F... H.Clifford 201112: Clifford, Helen",,,,,,,,,,,,,,,

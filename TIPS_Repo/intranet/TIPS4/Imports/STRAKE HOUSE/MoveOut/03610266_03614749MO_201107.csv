@@ -1,0 +1,8 @@
+BATCH,,201107,B,7203.0000,
+INVOICE,IN,,03610266,,07/15/2011,2340.0000,"Invoice-Private",,07/15/2011,07/15/2011,,03614749MO,-7386.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,15,97.0000,1455.00,"Basic Service Fee - Studio for Jul: Stone, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,15,59.0000,885.00,"Resident Care - Level 4 for Jul: Stone, Bette",,,,,,,,,,,,,,,
+INVOICE,CM,,03610266,,07/15/2011,4863,"Invoice-Private",,07/15/2011,07/15/2011,,03614749MO,-7386.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3007,3007,"CR:Basic Service F... B.Stone 201107: Stone, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... B.Stone 201107: Stone, Bette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,1829,1829,"CR:Resident Care -... B.Stone 201107: Stone, Bette",,,,,,,,,,,,,,,

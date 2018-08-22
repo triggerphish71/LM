@@ -1,0 +1,5 @@
+BATCH,,201207,B,186.0000,
+INVOICE,IN,,02910213,,07/01/2012,93.0000,"Invoice-Private",,07/01/2012,07/10/2012,,02915632MO,-4014.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,3.0000,93.00,"Credit for Limited Term Discount: Hermsmeyer, Goldie",,,,,,,,,,,,,,,
+INVOICE,CM,,02910213,,07/01/2012,93,"Invoice-Private",,07/01/2012,07/10/2012,,02915632MO,-4014.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,3,93,"Limited Term Discount: Hermsmeyer, Goldie",,,,,,,,,,,,,,,

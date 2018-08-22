@@ -1,0 +1,7 @@
+BATCH,,201112,B,1476.0000,
+INVOICE,IN,,06210208,,12/01/2011,738.0000,"Invoice-Private",,12/01/2011,12/10/2011,,06213623MO,-3610.0000,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25.00,"Monthly Cable: Bunker, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101062,31,23.0000,713.00,"Credit for Limited Term Discount: Bunker, Ted",,,,,,,,,,,,,,,
+INVOICE,CM,,06210208,,12/01/2011,738,"Invoice-Private",,12/01/2011,12/10/2011,,06213623MO,-3610.0000,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"Credit for Monthly Cable: Bunker, Ted",,,,,,,,,,,,,,,
+TRANSACTION,3320,010101062,31,23,713,"Limited Term Discount: Bunker, Ted",,,,,,,,,,,,,,,

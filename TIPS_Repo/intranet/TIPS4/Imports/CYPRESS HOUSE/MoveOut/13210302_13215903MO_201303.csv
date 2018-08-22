@@ -1,0 +1,8 @@
+BATCH,,201303,B,6201.0000,
+INVOICE,IN,,13210302,,03/18/2013,2268.0000,"Invoice-Private",,03/18/2013,03/18/2013,,13215903MO,-5472.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,18,70.0000,1260.00,"Basic Service Fee - Studio for Mar: Cusack, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,18,56.0000,1008.00,"Resident Care - Level 4 for Mar: Cusack, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,13210302,,03/18/2013,3933,"Invoice-Private",,03/18/2013,03/18/2013,,13215903MO,-5472.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2170,2170,"CR:Basic Service F... A.Cusack 201303: Cusack, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... A.Cusack 201303: Cusack, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,1736,1736,"CR:Resident Care -... A.Cusack 201303: Cusack, Annie",,,,,,,,,,,,,,,

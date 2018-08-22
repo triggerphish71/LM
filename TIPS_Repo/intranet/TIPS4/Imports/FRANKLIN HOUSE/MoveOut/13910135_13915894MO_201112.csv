@@ -1,0 +1,5 @@
+BATCH,,201112,B,60.0000,
+INVOICE,IN,,13910135,,12/01/2011,30.0000,"Invoice-Private",,12/01/2011,12/10/2011,,13915894MO,-1962.8000,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Bronson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,13910135,,12/01/2011,30,"Invoice-Private",,12/01/2011,12/10/2011,,13915894MO,-1962.8000,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Bronson, James",,,,,,,,,,,,,,,

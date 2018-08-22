@@ -1,0 +1,6 @@
+BATCH,,201208,B,5735.0000,
+INVOICE,IN,,02810211,,08/01/2012,1798.0000,"Invoice-Private",,08/01/2012,08/10/2012,,02815324MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,1,1798.0000,1798.00,"CR:Limited Term Di... H.Faircloth 201208: Faircloth, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,02810211,,08/01/2012,3937,"Invoice-Private",,08/01/2012,08/10/2012,,02815324MO,-2139.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3503,3503,"CR:Basic Service F... H.Faircloth 201208: Faircloth, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,434,434,"CR:Resident Care -... H.Faircloth 201208: Faircloth, Hazel",,,,,,,,,,,,,,,

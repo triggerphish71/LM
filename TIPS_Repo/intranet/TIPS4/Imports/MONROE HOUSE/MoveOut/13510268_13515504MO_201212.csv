@@ -1,0 +1,8 @@
+BATCH,,201212,B,5342.0000,
+INVOICE,IN,,13510268,,12/01/2012,166.0000,"Invoice-Private",,12/01/2012,12/01/2012,,13515504MO,-5010.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,119.0000,119.00,"Basic Service Fee- One Bedroom Prem for Dec: Luehring, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,47.0000,47.00,"Resident Care - Level 3 for Dec: Luehring, George",,,,,,,,,,,,,,,
+INVOICE,CM,,13510268,,12/01/2012,5176,"Invoice-Private",,12/01/2012,12/01/2012,,13515504MO,-5010.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,3689,3689,"CR:Basic Service F... G.Luehring 201212: Luehring, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... G.Luehring 201212: Luehring, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,1457,1457,"CR:Resident Care -... G.Luehring 201212: Luehring, George",,,,,,,,,,,,,,,

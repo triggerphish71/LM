@@ -1,0 +1,6 @@
+BATCH,,201303,B,2848.0000,
+INVOICE,IN,,10810299,,03/19/2013,420.0000,"Invoice-Private",,03/19/2013,03/19/2013,,10815219MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,5,84.0000,420.00,"Basic Service Fee - Studio for Mar: Mundy, Brenda",,,,,,,,,,,,,,,
+INVOICE,CM,,10810299,,03/19/2013,2428,"Invoice-Private",,03/19/2013,03/19/2013,,10815219MO,-4528.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,1428,1428,"CR:Basic Service F... B.Mundy 201303: Mundy, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000,1000,"CR:New Resident Fe... B.Mundy 201303: Mundy, Brenda",,,,,,,,,,,,,,,

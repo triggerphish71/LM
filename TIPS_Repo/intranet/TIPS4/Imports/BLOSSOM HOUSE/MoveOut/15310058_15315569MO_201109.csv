@@ -1,0 +1,7 @@
+BATCH,,201109,B,3548.1800,
+INVOICE,IN,,15310058,,09/01/2011,1774.0900,"Invoice-Medicaid",,09/01/2011,09/10/2011,,15315569MO,-4042.1000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Blanchard, Cherie",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103153,1,1747.0900,1747.09,"State Medicaid: Blanchard, Cherie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310058,,09/01/2011,1774.09,"Invoice-Medicaid",,09/01/2011,09/10/2011,,15315569MO,-4042.1000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Blanchard, Cherie",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103153,1,1747.09,1747.09,"Credit for State Medicaid: Blanchard, Cherie",,,,,,,,,,,,,,,

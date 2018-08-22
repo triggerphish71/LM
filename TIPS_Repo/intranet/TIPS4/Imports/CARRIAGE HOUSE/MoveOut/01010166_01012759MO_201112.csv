@@ -1,0 +1,7 @@
+BATCH,,201112,B,7741.2900,
+INVOICE,IN,,01010166,,12/09/2011,2160.3600,"Invoice-Private",,12/09/2011,12/09/2011,,01012759MO,-3420.5700,,,,,,,,,,
+TRANSACTION,3020,010101010,12,78.0000,936.00,"M.Butler: Basic Service Fee - Studio for Dec: Butler, Marylee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,12,102.0300,1224.36,"M.Butler: Resident Care - Level 57 for Dec: Butler, Marylee",,,,,,,,,,,,,,,
+INVOICE,CM,,01010166,,12/09/2011,5580.93,"Invoice-Private",,12/09/2011,12/09/2011,,01012759MO,-3420.5700,,,,,,,,,,
+TRANSACTION,3020,010101010,1,2418,2418,"CR:M.Butler: Basic... M.Butler 201112: Butler, Marylee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,3162.93,3162.93,"CR:M.Butler: Resid... M.Butler 201112: Butler, Marylee",,,,,,,,,,,,,,,

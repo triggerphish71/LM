@@ -1,0 +1,5 @@
+BATCH,,201204,B,360.0000,
+INVOICE,IN,,05510205,,04/01/2012,180.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05514284MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,30,6.0000,180.00,"Credit for Limited Term Discount: O'Brien, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,05510205,,04/01/2012,180,"Invoice-Private",,04/01/2012,04/10/2012,,05514284MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,30,6,180,"Limited Term Discount: O'Brien, Frances",,,,,,,,,,,,,,,

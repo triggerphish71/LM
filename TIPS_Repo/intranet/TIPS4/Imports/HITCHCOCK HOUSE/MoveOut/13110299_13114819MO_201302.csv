@@ -1,0 +1,7 @@
+BATCH,,201302,B,4089.0000,
+INVOICE,IN,,13110299,,02/01/2013,141.0000,"Invoice-Private",,02/01/2013,02/01/2013,,13114819MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,1,41.0000,41.00,"Resident Care - Level 3 for Feb: Tarpley, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,1,100.0000,100.00,"Room and Board - Studio for Feb: Tarpley, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,13110299,,02/01/2013,3948,"Invoice-Private",,02/01/2013,02/01/2013,,13114819MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3027,010308131,1,1148,1148,"CR:Resident Care -... E.Tarpley 201302: Tarpley, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,1,2800,2800,"CR:Room and Board ... E.Tarpley 201302: Tarpley, Elizabeth",,,,,,,,,,,,,,,

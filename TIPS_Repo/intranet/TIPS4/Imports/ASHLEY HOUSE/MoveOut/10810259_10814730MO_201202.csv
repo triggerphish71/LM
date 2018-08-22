@@ -1,0 +1,6 @@
+BATCH,,201202,B,3886.0000,
+INVOICE,IN,,10810259,,02/01/2012,986.0000,"Invoice-Private",,02/01/2012,02/10/2012,,10814730MO,-1914.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,1,986.0000,986.00,"CR:Limited Term Di... R.Paysinger 201202: Paysinger, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10810259,,02/01/2012,2900,"Invoice-Private",,02/01/2012,02/10/2012,,10814730MO,-1914.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2436,2436,"CR:Basic Service F... R.Paysinger 201202: Paysinger, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,464,464,"CR:Resident Care -... R.Paysinger 201202: Paysinger, Robert",,,,,,,,,,,,,,,

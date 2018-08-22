@@ -1,0 +1,5 @@
+BATCH,,201203,B,3234.0000,
+INVOICE,IN,,20610248,,03/15/2012,3234.0000,"MoveIn-Bouffard. James",,03/15/2012,03/15/2012,,20612624,3234.0000,,,,,,,,,,
+TRANSACTION,3010,010214206,17,91.0000,1547,"Studio: Bouffard. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010214206,17,11.0000,187,"Resident Care - Level 1: Bouffard. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010214206,1,1500.0000,1500,"New Resident Fee: Bouffard. James",,,,,,,,,,,,,,,

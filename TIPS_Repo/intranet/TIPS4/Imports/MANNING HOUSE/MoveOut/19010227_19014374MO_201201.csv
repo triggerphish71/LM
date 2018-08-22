@@ -1,0 +1,8 @@
+BATCH,,201201,B,6579.0000,
+INVOICE,IN,,19010227,,01/21/2012,2646.0000,"Invoice-Private",,01/21/2012,01/21/2012,,19014374MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,21,98.0000,2058.00,"Basic Service Fee - Studio for Jan: Kennette, Wade",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,21,28.0000,588.00,"Resident Care - Level 2 for Jan: Kennette, Wade",,,,,,,,,,,,,,,
+INVOICE,CM,,19010227,,01/21/2012,3933,"Invoice-Private",,01/21/2012,01/21/2012,,19014374MO,-4968.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3038,3038,"CR:Basic Service F... W.Kennette 201201: Kennette, Wade",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... W.Kennette 201201: Kennette, Wade",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,868,868,"CR:Resident Care -... W.Kennette 201201: Kennette, Wade",,,,,,,,,,,,,,,

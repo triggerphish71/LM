@@ -1,0 +1,7 @@
+BATCH,,201111,B,478.0000,
+INVOICE,IN,,15810283,,11/01/2011,239.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15814231MO,-7035.8000,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35.0000,35.00,"Pendant Fee: Caddy, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3019,010309158,30,6.8000,204.00,"Additional Service Charge: Caddy, Harley",,,,,,,,,,,,,,,
+INVOICE,CM,,15810283,,11/01/2011,239,"Invoice-Private",,11/01/2011,11/10/2011,,15814231MO,-7035.8000,,,,,,,,,,
+TRANSACTION,3130,010309158,1,35,35,"Credit for Pendant Fee: Caddy, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3019,010309158,30,6.8,204,"Credit for Additional Service Charge: Caddy, Harley",,,,,,,,,,,,,,,

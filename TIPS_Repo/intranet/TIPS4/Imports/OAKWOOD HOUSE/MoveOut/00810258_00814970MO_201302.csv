@@ -1,0 +1,8 @@
+BATCH,,201302,B,2441.0000,
+INVOICE,IN,,00810258,,02/01/2013,426.0000,"Invoice-Private",,02/01/2013,02/10/2013,,00814970MO,-1589.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,6,55.0000,330.00,"Basic Service Fee - Studio for Feb: Nelson, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,6,16.0000,96.00,"Resident Care - Level 1 for Feb: Nelson, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,00810258,,02/01/2013,2015,"Invoice-Private",,02/01/2013,02/10/2013,,00814970MO,-1589.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,1540,1540,"CR:Basic Service F... K.Nelson 201302: Nelson, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... K.Nelson 201302: Nelson, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,448,448,"CR:Resident Care -... K.Nelson 201302: Nelson, Kenneth",,,,,,,,,,,,,,,

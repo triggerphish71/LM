@@ -1,0 +1,8 @@
+BATCH,,201105,B,3760.0000,
+INVOICE,IN,,10510251,,05/13/2011,113.0000,"Invoice-Private",,05/13/2011,05/13/2011,,10513674MO,-6924.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,84.0000,84.00,"Basic Service Fee - Studio for May: Clark, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,29.0000,29.00,"Resident Care - Level 2 for May: Clark, Karen",,,,,,,,,,,,,,,
+INVOICE,CM,,10510251,,05/13/2011,3647,"Invoice-Private",,05/13/2011,05/13/2011,,10513674MO,-6924.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,1596,1596,"CR:Basic Service F... K.Clark 201105: Clark, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309105,1,1500,1500,"CR:New Resident Fe... K.Clark 201105: Clark, Karen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,551,551,"CR:Resident Care -... K.Clark 201105: Clark, Karen",,,,,,,,,,,,,,,

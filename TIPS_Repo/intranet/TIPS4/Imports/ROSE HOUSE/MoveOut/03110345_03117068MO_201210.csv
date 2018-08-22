@@ -1,0 +1,7 @@
+BATCH,,201210,B,5060.0000,
+INVOICE,IN,,03110345,,10/01/2012,1495.0000,"Invoice-Private",,10/01/2012,10/10/2012,,03117068MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,13,99.0000,1287.00,"Basic Service Fee - Studio for Oct: Garrison, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,13,16.0000,208.00,"Resident Care - Level 1 for Oct: Garrison, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,03110345,,10/01/2012,3565,"Invoice-Private",,10/01/2012,10/10/2012,,03117068MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3069,3069,"CR:Basic Service F... I.Garrison 201210: Garrison, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,496,496,"CR:Resident Care -... I.Garrison 201210: Garrison, Irene",,,,,,,,,,,,,,,

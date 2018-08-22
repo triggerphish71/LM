@@ -1,0 +1,6 @@
+BATCH,,201106,B,2857.0000,
+INVOICE,IN,,17010275,,06/23/2011,2857.0000,"MoveIn-Larue. Donna",,06/23/2011,06/23/2011,,17014249,6106.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,8,90.0000,720,"Basic Service Fee - Studio         : Larue. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,8,14.0000,112,"Resident Care - Level 1: Larue. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Larue. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Larue. Donna",,,,,,,,,,,,,,,

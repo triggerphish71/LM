@@ -1,0 +1,7 @@
+BATCH,,201206,B,3220.0000,
+INVOICE,IN,,20210130,,06/01/2012,50.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20212615MO,-3848.0000,,,,,,,,,,
+TRANSACTION,3150,010216202,1,50.0000,50.00,"Late Fee Adjustment: Hopkins, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,20210130,,06/01/2012,3170,"Invoice-Private",,06/01/2012,06/10/2012,,20212615MO,-3848.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,630,630,"CR:Resident Care -... E.Hopkins 201206: Hopkins, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2490,2490,"CR:Studio... E.Hopkins 201206: Hopkins, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3150,010216202,1,50,50,"Late Fee Adjustment: Hopkins, Evelyn",,,,,,,,,,,,,,,

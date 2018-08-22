@@ -1,0 +1,7 @@
+BATCH,,201105,B,5104.0000,
+INVOICE,IN,,52910160,,05/01/2011,1508.0000,"Invoice-Private",,05/01/2011,05/10/2011,,52912580MO,-5593.0000,,,,,,,,,,
+TRANSACTION,3027,010319529,13,28.0000,364.00,"Resident Care - Level 2 for May: Heus, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,13,88.0000,1144.00,"Room and Board - Studio for May: Heus, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,52910160,,05/01/2011,3596,"Invoice-Private",,05/01/2011,05/10/2011,,52912580MO,-5593.0000,,,,,,,,,,
+TRANSACTION,3027,010319529,1,868,868,"CR:Resident Care -... E.Heus 201105: Heus, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2728,2728,"CR:Room and Board ... E.Heus 201105: Heus, Ed",,,,,,,,,,,,,,,

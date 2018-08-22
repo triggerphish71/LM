@@ -1,0 +1,6 @@
+BATCH,,201110,B,5007.0000,
+INVOICE,IN,,02810200,,10/11/2011,5007.0000,"MoveIn-Wharton. Murry",,10/11/2011,10/11/2011,,02814881,5007.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,21,117.0000,2457,"Basic Service Fee - One Bedroom    : Wharton. Murry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,21,25.0000,525,"Resident Care - Level 2: Wharton. Murry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Wharton. Murry",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Wharton. Murry",,,,,,,,,,,,,,,

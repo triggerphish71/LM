@@ -1,0 +1,7 @@
+BATCH,,201301,B,6351.0000,
+INVOICE,IN,,14210077,,01/28/2013,3030.0000,"Invoice-Private",,01/28/2013,01/28/2013,,14214298MO,-3238.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,1,62.0000,62.00,"CR:Limited Term Di... L.Vondielingen 201301: Vondielingen, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,28,106.0000,2968.00,"Basic Service Fee - One Bedroom for Jan: Vondielingen, Lenora",,,,,,,,,,,,,,,
+INVOICE,CM,,14210077,,01/28/2013,3321,"Invoice-Private",,01/28/2013,01/28/2013,,14214298MO,-3238.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,3286,3286,"CR:Basic Service F... L.Vondielingen 201301: Vondielingen, Lenora",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... L.Vondielingen 201301: Vondielingen, Lenora",,,,,,,,,,,,,,,

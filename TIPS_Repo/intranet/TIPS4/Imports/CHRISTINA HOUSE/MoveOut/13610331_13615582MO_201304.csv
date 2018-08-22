@@ -1,0 +1,8 @@
+BATCH,,201304,B,4344.0000,
+INVOICE,IN,,13610331,,04/01/2013,139.0000,"Invoice-Private",,04/01/2013,04/01/2013,,13615582MO,-4066.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,80.0000,80.00,"Basic Service Fee- One Bedroom Prem for Apr: Wilson, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,59.0000,59.00,"Resident Care - Level 4 for Apr: Wilson, Floyd",,,,,,,,,,,,,,,
+INVOICE,CM,,13610331,,04/01/2013,4205,"Invoice-Private",,04/01/2013,04/01/2013,,13615582MO,-4066.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2400,2400,"CR:Basic Service F... F.Wilson 201304: Wilson, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... F.Wilson 201304: Wilson, Floyd",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,1770,1770,"CR:Resident Care -... F.Wilson 201304: Wilson, Floyd",,,,,,,,,,,,,,,

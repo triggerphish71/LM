@@ -1,0 +1,7 @@
+BATCH,,201212,B,4347.7300,
+INVOICE,IN,,05910133,,12/01/2012,1213.3200,"Invoice-Private",,12/01/2012,12/10/2012,,05913445MO,-1921.0900,,,,,,,,,,
+TRANSACTION,3020,010101059,12,85.0000,1020.00,"Basic Service Fee - Studio for Dec: Henson, Cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,12,16.1100,193.32,"Resident Care - Level 9 for Dec: Henson, Cheryl",,,,,,,,,,,,,,,
+INVOICE,CM,,05910133,,12/01/2012,3134.41,"Invoice-Private",,12/01/2012,12/10/2012,,05913445MO,-1921.0900,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2635,2635,"CR:Basic Service F... C.Henson 201212: Henson, Cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,499.41,499.41,"CR:Resident Care -... C.Henson 201212: Henson, Cheryl",,,,,,,,,,,,,,,

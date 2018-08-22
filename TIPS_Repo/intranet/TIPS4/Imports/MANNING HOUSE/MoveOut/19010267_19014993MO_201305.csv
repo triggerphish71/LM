@@ -1,0 +1,8 @@
+BATCH,,201305,B,4353.0000,
+INVOICE,IN,,19010267,,05/10/2013,1133.0000,"Invoice-Private",,05/10/2013,05/10/2013,,19014993MO,-2087.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,11,75.0000,825.00,"Basic Service Fee - One Bedroom for May: Garcia, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,11,28.0000,308.00,"Resident Care - Level 2 for May: Garcia, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,19010267,,05/10/2013,3220,"Invoice-Private",,05/10/2013,05/10/2013,,19014993MO,-2087.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2325,2325,"CR:Basic Service F... R.Garcia 201305: Garcia, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... R.Garcia 201305: Garcia, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,868,868,"CR:Resident Care -... R.Garcia 201305: Garcia, Rebecca",,,,,,,,,,,,,,,

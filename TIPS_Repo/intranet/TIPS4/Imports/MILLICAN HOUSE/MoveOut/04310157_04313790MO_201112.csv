@@ -1,0 +1,8 @@
+BATCH,,201112,B,7045.0000,
+INVOICE,IN,,04310157,,12/09/2011,2426.0000,"Invoice-Private",,12/09/2011,12/09/2011,,04313790MO,-2193.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,1,1085.0000,1085.00,"CR:Limited Term Di... E.Phillips 201112: Phillips, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202043,9,95.0000,855.00,"Basic Service Fee - Studio for Dec: Phillips, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,9,54.0000,486.00,"Resident Care - Level 3 for Dec: Phillips, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,04310157,,12/09/2011,4619,"Invoice-Private",,12/09/2011,12/09/2011,,04313790MO,-2193.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,2945,2945,"CR:Basic Service F... E.Phillips 201112: Phillips, Edna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,1674,1674,"CR:Resident Care -... E.Phillips 201112: Phillips, Edna",,,,,,,,,,,,,,,

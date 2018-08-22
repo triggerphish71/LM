@@ -1,0 +1,7 @@
+BATCH,,201106,B,7049.0000,
+INVOICE,IN,,08610186,,06/23/2011,3059.0000,"Invoice-Private",,06/23/2011,06/23/2011,,08614435MO,-5054.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,23,86.0000,1978.00,"Basic Service Fee - Studio for Jun: Schropp, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,23,47.0000,1081.00,"Resident Care - Level 3 for Jun: Schropp, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,08610186,,06/23/2011,3990,"Invoice-Private",,06/23/2011,06/23/2011,,08614435MO,-5054.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2580,2580,"CR:Basic Service F... D.Schropp 201106: Schropp, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1410,1410,"CR:Resident Care -... D.Schropp 201106: Schropp, Doris",,,,,,,,,,,,,,,

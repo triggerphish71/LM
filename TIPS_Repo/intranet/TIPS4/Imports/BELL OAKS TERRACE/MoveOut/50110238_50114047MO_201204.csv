@@ -1,0 +1,6 @@
+BATCH,,201204,B,3520.0000,
+INVOICE,IN,,50110238,,04/06/2012,880.0000,"Invoice-Private",,04/06/2012,04/06/2012,,50114047MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3312,010209501,1,264.0000,264.00,"CR:Two Room Rental... J.Phillips 201204: Phillips, Joanna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,7,88.0000,616.00,"Basic Service Fee - Studio for Apr: Phillips, Joanna",,,,,,,,,,,,,,,
+INVOICE,CM,,50110238,,04/06/2012,2640,"Invoice-Private",,04/06/2012,04/06/2012,,50114047MO,-1760.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2640,2640,"CR:Basic Service F... J.Phillips 201204: Phillips, Joanna",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,5660.0000,
+INVOICE,IN,,11810191,,02/10/2012,5660.0000,"MoveIn-Barletta. Joane",,02/10/2012,02/10/2012,,11815184,5660.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,20,100.0000,2000,"Basic Service Fee - Studio: Barletta. Joane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,20,71.0000,1420,"Resident Care - Level 5: Barletta. Joane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Barletta. Joane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2200.0000,2200,"New Resident Fee: Barletta. Joane",,,,,,,,,,,,,,,

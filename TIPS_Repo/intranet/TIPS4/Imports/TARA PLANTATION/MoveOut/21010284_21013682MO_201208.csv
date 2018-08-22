@@ -1,0 +1,7 @@
+BATCH,,201208,B,2468.0000,
+INVOICE,IN,,21010284,,08/01/2012,1234.0000,"Invoice-Private",,08/01/2012,08/10/2012,,21013682MO,-4599.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25.00,"Monthly Cable: Lolis, Nicholas",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,31,39.0000,1209.00,"Credit for Limited Term Discount: Lolis, Nicholas",,,,,,,,,,,,,,,
+INVOICE,CM,,21010284,,08/01/2012,1234,"Invoice-Private",,08/01/2012,08/10/2012,,21013682MO,-4599.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Credit for Monthly Cable: Lolis, Nicholas",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,31,39,1209,"Limited Term Discount: Lolis, Nicholas",,,,,,,,,,,,,,,

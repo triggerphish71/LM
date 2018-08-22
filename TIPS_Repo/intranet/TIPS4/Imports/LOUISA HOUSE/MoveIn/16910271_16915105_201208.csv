@@ -1,0 +1,6 @@
+BATCH,,201208,B,2751.0600,
+INVOICE,IN,,16910271,,08/26/2012,2751.0600,"MoveIn-Crocker. Wayne",,08/26/2012,08/26/2012,,16915105,6406.3600,,,,,,,,,,
+TRANSACTION,3010,010103169,6,87.0000,522,"Basic Service Fee - Studio: Crocker. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103169,6,34.0100,204.06,"Resident Care - Level 19: Crocker. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Crocker. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Crocker. Wayne",,,,,,,,,,,,,,,

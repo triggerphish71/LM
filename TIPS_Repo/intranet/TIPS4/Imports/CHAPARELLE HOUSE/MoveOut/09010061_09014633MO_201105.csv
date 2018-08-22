@@ -1,0 +1,8 @@
+BATCH,,201105,B,1963.3500,
+INVOICE,IN,,09010061,,05/22/2011,626.6700,"Invoice-Medicaid",,05/22/2011,05/22/2011,,09014633MO,-2022.4100,,,,,,,,,,
+TRANSACTION,3021,010104090,27,4.3700,117.99,"Medicaid Co-Pay for May: Sheldon, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104090,27,18.8400,508.68,"Medicaid Room & Board for May: Sheldon, Blanche",,,,,,,,,,,,,,,
+INVOICE,CM,,09010061,,05/22/2011,1336.68,"Invoice-Medicaid",,05/22/2011,05/22/2011,,09014633MO,-2022.4100,,,,,,,,,,
+TRANSACTION,3021,010104090,1,135.6,135.6,"CR:Medicaid Co-Pay... B.Sheldon 201105: Sheldon, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104090,1,584,584,"CR:Medicaid Room &... B.Sheldon 201105: Sheldon, Blanche",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104090,1,617.08,617.08,"CR:State Medicaid... B.Sheldon 201105: Sheldon, Blanche",,,,,,,,,,,,,,,

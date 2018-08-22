@@ -1,0 +1,7 @@
+BATCH,,201109,B,114.0000,
+INVOICE,IN,,03110274,,09/01/2011,57.0000,"Invoice-Private",,09/01/2011,09/10/2011,,03116281MO,-5322.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Lohmann, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30.0000,30.00,"Pendant Fee: Lohmann, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,03110274,,09/01/2011,57,"Invoice-Private",,09/01/2011,09/10/2011,,03116281MO,-5322.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Lohmann, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"Credit for Pendant Fee: Lohmann, Rose",,,,,,,,,,,,,,,

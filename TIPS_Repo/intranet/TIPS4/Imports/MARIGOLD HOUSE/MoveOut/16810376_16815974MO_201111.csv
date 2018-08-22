@@ -1,0 +1,5 @@
+BATCH,,201111,B,50.0000,
+INVOICE,IN,,16810376,,11/01/2011,25.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16815974MO,-4525.0000,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25.00,"Monthly Cable: Aymond, Daisy",,,,,,,,,,,,,,,
+INVOICE,CM,,16810376,,11/01/2011,25,"Invoice-Private",,11/01/2011,11/10/2011,,16815974MO,-4525.0000,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25,25,"Credit for Monthly Cable: Aymond, Daisy",,,,,,,,,,,,,,,

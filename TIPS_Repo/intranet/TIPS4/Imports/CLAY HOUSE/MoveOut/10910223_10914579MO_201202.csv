@@ -1,0 +1,5 @@
+BATCH,,201202,B,1320.0000,
+INVOICE,IN,,10910223,,02/01/2012,450.0000,"Invoice-Private",,02/01/2012,02/01/2012,,10914579MO,-420.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,15,30.0000,450.00,"Basic Service Fee - Second Resident for Feb: Updyke, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,10910223,,02/01/2012,870,"Invoice-Private",,02/01/2012,02/01/2012,,10914579MO,-420.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,870,870,"CR:Basic Service F... J.Updyke 201202: Updyke, Jean",,,,,,,,,,,,,,,

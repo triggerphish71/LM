@@ -1,0 +1,5 @@
+BATCH,,201209,B,2040.0000,
+INVOICE,IN,,21410341,,09/01/2012,1020.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21417730MO,-2504.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,34.0000,1020.00,"Credit for Limited Term Discount: Matthews, Louisiana",,,,,,,,,,,,,,,
+INVOICE,CM,,21410341,,09/01/2012,1020,"Invoice-Private",,09/01/2012,09/10/2012,,21417730MO,-2504.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,34,1020,"Limited Term Discount: Matthews, Louisiana",,,,,,,,,,,,,,,

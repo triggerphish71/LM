@@ -1,0 +1,8 @@
+BATCH,,201108,B,6291.0000,
+INVOICE,IN,,11810177,,08/16/2011,2128.0000,"Invoice-Private",,08/16/2011,08/16/2011,,11814950MO,-6065.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,16,96.0000,1536.00,"Basic Service Fee - Studio for Aug: Robbins, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,16,37.0000,592.00,"Resident Care - Level 2 for Aug: Robbins, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,11810177,,08/16/2011,4163,"Invoice-Private",,08/16/2011,08/16/2011,,11814950MO,-6065.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2976,2976,"CR:Basic Service F... D.Robbins 201108: Robbins, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... D.Robbins 201108: Robbins, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1147,1147,"CR:Resident Care -... D.Robbins 201108: Robbins, Doris",,,,,,,,,,,,,,,

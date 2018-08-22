@@ -1,0 +1,7 @@
+BATCH,,201205,B,1170.0000,
+INVOICE,IN,,01710021,,05/01/2012,585.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01713574MO,-2211.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Magness, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202017,31,18.0000,558.00,"Credit for Limited Term Discount: Magness, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,01710021,,05/01/2012,585,"Invoice-Private",,05/01/2012,05/10/2012,,01713574MO,-2211.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Magness, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202017,31,18,558,"Limited Term Discount: Magness, Grace",,,,,,,,,,,,,,,

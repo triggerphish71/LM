@@ -1,0 +1,7 @@
+BATCH,,201108,B,2043.8500,
+INVOICE,IN,,13910101,,08/14/2011,250.8800,"Invoice-Medicaid",,08/14/2011,08/14/2011,,13915717MO,-1542.0900,,,,,,,,,,
+TRANSACTION,3021,010103139,14,17.9200,250.88,"Medicaid Co-Pay for Aug: Anthony, Allen",,,,,,,,,,,,,,,
+INVOICE,CM,,13910101,,08/14/2011,1792.97,"Invoice-Medicaid",,08/14/2011,08/14/2011,,13915717MO,-1542.0900,,,,,,,,,,
+TRANSACTION,3021,010103139,1,555.53,555.53,"CR:Medicaid Co-Pay... A.Anthony 201108: Anthony, Allen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... A.Anthony 201108: Anthony, Allen",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103139,1,1207.44,1207.44,"CR:State Medicaid... A.Anthony 201108: Anthony, Allen",,,,,,,,,,,,,,,

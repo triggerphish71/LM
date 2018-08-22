@@ -1,0 +1,8 @@
+BATCH,,201306,B,4619.0000,
+INVOICE,IN,,19010226,,06/16/2013,2132.0000,"Invoice-Private",,06/16/2013,06/16/2013,,19015071MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,26,41.0000,1066.00,"Basic Service Fee - Studio for Jun: Abercrombie, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,26,41.0000,1066.00,"Resident Care - Level 3 for Jun: Abercrombie, John",,,,,,,,,,,,,,,
+INVOICE,CM,,19010226,,06/16/2013,2487,"Invoice-Private",,06/16/2013,06/16/2013,,19015071MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,1230,1230,"CR:Basic Service F... J.Abercrombie 201306: Abercrombie, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... J.Abercrombie 201306: Abercrombie, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,1230,1230,"CR:Resident Care -... J.Abercrombie 201306: Abercrombie, John",,,,,,,,,,,,,,,

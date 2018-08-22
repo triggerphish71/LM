@@ -1,0 +1,6 @@
+BATCH,,201112,B,5226.0000,
+INVOICE,IN,,09910160,,12/19/2011,2560.0000,"Invoice-Private",,12/19/2011,12/19/2011,,09914085MO,-2834.0000,,,,,,,,,,
+TRANSACTION,3320,010104099,1,496.0000,496.00,"CR:Limited Term Di... H.Peterson 201112: Peterson, Hilma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104099,24,86.0000,2064.00,"Basic Service Fee - Studio for Dec: Peterson, Hilma",,,,,,,,,,,,,,,
+INVOICE,CM,,09910160,,12/19/2011,2666,"Invoice-Private",,12/19/2011,12/19/2011,,09914085MO,-2834.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2666,2666,"CR:Basic Service F... H.Peterson 201112: Peterson, Hilma",,,,,,,,,,,,,,,

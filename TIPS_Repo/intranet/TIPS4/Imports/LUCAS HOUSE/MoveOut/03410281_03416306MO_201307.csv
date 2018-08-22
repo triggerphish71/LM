@@ -1,0 +1,6 @@
+BATCH,,201307,B,5015.0000,
+INVOICE,IN,,03410281,,07/13/2013,2322.0000,"Invoice-Private",,07/13/2013,07/13/2013,,03416306MO,-3064.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,27,86.0000,2322.00,"Basic Service Fee - One Bedroom for Jul: McDowell, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,03410281,,07/13/2013,2693,"Invoice-Private",,07/13/2013,07/13/2013,,03416306MO,-3064.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2666,2666,"CR:Basic Service F... L.McDowell 201307: McDowell, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... L.McDowell 201307: McDowell, Louise",,,,,,,,,,,,,,,

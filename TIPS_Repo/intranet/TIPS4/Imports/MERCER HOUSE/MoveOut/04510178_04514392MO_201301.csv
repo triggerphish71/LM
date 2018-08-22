@@ -1,0 +1,7 @@
+BATCH,,201301,B,4624.0000,
+INVOICE,IN,,04510178,,01/24/2013,2241.0000,"Invoice-Private",,01/24/2013,01/24/2013,,04514392MO,-1989.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,1,341.0000,341.00,"CR:Limited Term Di... A.Shepherd 201301: Shepherd, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,25,76.0000,1900.00,"Basic Service Fee - Studio for Jan: Shepherd, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,04510178,,01/24/2013,2383,"Invoice-Private",,01/24/2013,01/24/2013,,04514392MO,-1989.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2356,2356,"CR:Basic Service F... A.Shepherd 201301: Shepherd, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... A.Shepherd 201301: Shepherd, Ann",,,,,,,,,,,,,,,

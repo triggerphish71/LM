@@ -1,0 +1,7 @@
+BATCH,,201306,B,6732.0000,
+INVOICE,IN,,16810274,,06/01/2013,2772.0000,"Invoice-Private",,06/01/2013,06/10/2013,,16817405MO,-1188.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,21,94.0000,1974.00,"Basic Service Fee - Studio Deluxe for Jun: Burnum, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,21,38.0000,798.00,"Resident Care - Level 3 for Jun: Burnum, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,16810274,,06/01/2013,3960,"Invoice-Private",,06/01/2013,06/10/2013,,16817405MO,-1188.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2820,2820,"CR:Basic Service F... D.Burnum 201306: Burnum, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1140,1140,"CR:Resident Care -... D.Burnum 201306: Burnum, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201805,B,6139.0000,
+INVOICE,IN,,02411432,,05/02/2018,590.0000,"Invoice-Private",,05/02/2018,05/02/2018,,02418358MO,-10579.4000,,,,,,,,,,
+TRANSACTION,3017,010002024,1,50.0000,50.00,"Level: 3 : Smith, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002024,4,20.0000,80.00," Level: 1 : Smith, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,5,92.0000,460.00,"Basic Service Fee - One Bedroom  for May: Smith, Betty J",,,,,,,,,,,,,,,
+INVOICE,CM,,02411432,,05/02/2018,5549,"Invoice-Private",,05/02/2018,05/02/2018,,02418358MO,-10579.4000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,2852,2852,"CR:Basic Service F... B.Smith 201805: Smith, Betty J",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,2697,2697,"CR:Resident Care -... B.Smith 201805: Smith, Betty J",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,3125.0000,
+INVOICE,IN,,07510247,,06/21/2011,3125.0000,"MoveIn-Phillips. Norman",,06/21/2011,06/21/2011,,07514727,6250.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,11,85.0000,935,"Basic Service Fee - Studio         : Phillips. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,11,15.0000,165,"Resident Care - Level 1: Phillips. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Phillips. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,2000.0000,2000,"New Resident Fee: Phillips. Norman",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,2100.0000,
+INVOICE,IN,,08410166,,05/05/2013,550.0000,"Invoice-Private",,05/05/2013,05/05/2013,,08414118MO,-1000.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,11,50.0000,550.00,"Basic Service Fee - Studio for May: Bradley, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,08410166,,05/05/2013,1550,"Invoice-Private",,05/05/2013,05/05/2013,,08414118MO,-1000.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,1550,1550,"CR:Basic Service F... C.Bradley 201305: Bradley, Charles",,,,,,,,,,,,,,,

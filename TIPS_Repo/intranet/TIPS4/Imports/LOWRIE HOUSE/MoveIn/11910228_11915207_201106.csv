@@ -1,0 +1,6 @@
+BATCH,,201106,B,4170.0000,
+INVOICE,IN,,11910228,,06/15/2011,4170.0000,"MoveIn-Hoke. Addine",,06/15/2011,06/15/2011,,11915207,4170.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,16,116.0000,1856,"Basic Service Fee - One Bedroom    : Hoke. Addine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,16,18.0000,288,"Resident Care - Level 1: Hoke. Addine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Hoke. Addine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310119,1,2000.0000,2000,"New Resident Fee: Hoke. Addine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201105,B,6466.0000,
+INVOICE,IN,,10110125,,05/01/2011,3180.0000,"Invoice-Private",,05/01/2011,05/10/2011,,10112009MO,-106.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,30,91.0000,2730.00,"Basic Service Fee - Studio for May: Henderson, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,30,15.0000,450.00,"Resident Care - Level 1 for May: Henderson, Leah",,,,,,,,,,,,,,,
+INVOICE,CM,,10110125,,05/01/2011,3286,"Invoice-Private",,05/01/2011,05/10/2011,,10112009MO,-106.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,2821,2821,"CR:Basic Service F... L.Henderson 201105: Henderson, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,465,465,"CR:Resident Care -... L.Henderson 201105: Henderson, Leah",,,,,,,,,,,,,,,

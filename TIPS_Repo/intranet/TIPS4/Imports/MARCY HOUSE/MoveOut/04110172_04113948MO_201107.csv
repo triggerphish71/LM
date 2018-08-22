@@ -1,0 +1,5 @@
+BATCH,,201107,B,54.0000,
+INVOICE,IN,,04110172,,07/01/2011,27.0000,"Invoice-Private",,07/01/2011,07/10/2011,,04113948MO,-4182.0000,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27.00,"Monthly Cable: Cain, Glennie",,,,,,,,,,,,,,,
+INVOICE,CM,,04110172,,07/01/2011,27,"Invoice-Private",,07/01/2011,07/10/2011,,04113948MO,-4182.0000,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27,27,"Credit for Monthly Cable: Cain, Glennie",,,,,,,,,,,,,,,

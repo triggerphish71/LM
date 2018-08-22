@@ -1,0 +1,5 @@
+BATCH,,201211,B,3805.0000,
+INVOICE,IN,,11110329,,11/01/2012,3805.0000,"November_Rent-McMann. Fay",,11/01/2012,11/10/2012,,11115001,7468.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,30,97.0000,2910,"Basic Service Fee - Studio: McMann. Fay",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,30,29.0000,870,"Resident Care - Level 2: McMann. Fay",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: McMann. Fay",,,,,,,,,,,,,,,

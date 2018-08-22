@@ -1,0 +1,7 @@
+BATCH,,201111,B,2880.0000,
+INVOICE,IN,,13510270,,11/01/2011,1440.0000,"Invoice-Private",,11/01/2011,11/10/2011,,13514867MO,-939.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,30,47.0000,1410.00,"Credit for Limited Term Discount: Brozio, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13510270,,11/01/2011,1440,"Invoice-Private",,11/01/2011,11/10/2011,,13514867MO,-939.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Brozio, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,30,47,1410,"Limited Term Discount: Brozio, Helen",,,,,,,,,,,,,,,

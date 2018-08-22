@@ -1,0 +1,8 @@
+BATCH,,201203,B,5754.4500,
+INVOICE,IN,,01510212,,02/26/2012,2429.0800,"MoveIn-McAllister. Micheal",,02/26/2012,02/26/2012,,01514182,5754.4500,,,,,,,,,,
+TRANSACTION,3014,010103015,4,84.0000,336,"M.McAllister: Basic Service Fee - Studio: McAllister. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,4,23.2700,93.08,"M.McAllister: Resident Care - Level 13: McAllister. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: McAllister. Micheal",,,,,,,,,,,,,,,
+INVOICE,IN,,01510212,,03/01/2012,3325.3700,"March_Rent-McAllister. Micheal",,03/01/2012,03/10/2012,,01514182,5754.4500,,,,,,,,,,
+TRANSACTION,3010,010103015,31,84.0000,2604,"M.McAllister: Basic Service Fee - Studio: McAllister. Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,31,23.2700,721.37,"M.McAllister: Resident Care - Level 13: McAllister. Micheal",,,,,,,,,,,,,,,

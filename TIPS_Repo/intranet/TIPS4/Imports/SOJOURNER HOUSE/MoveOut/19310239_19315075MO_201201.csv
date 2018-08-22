@@ -1,0 +1,8 @@
+BATCH,,201201,B,8470.0000,
+INVOICE,IN,,19310239,,01/18/2012,3200.0000,"Invoice-Private",,01/18/2012,01/18/2012,,19315075MO,-7000.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,20,114.0000,2280.00,"Basic Service Fee - One Bedroom for Jan: Artz, Heidi",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,20,46.0000,920.00,"Resident Care - Level 3 for Jan: Artz, Heidi",,,,,,,,,,,,,,,
+INVOICE,CM,,19310239,,01/18/2012,5270,"Invoice-Private",,01/18/2012,01/18/2012,,19315075MO,-7000.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,3534,3534,"CR:Basic Service F... H.Artz 201201: Artz, Heidi",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... H.Artz 201201: Artz, Heidi",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1426,1426,"CR:Resident Care -... H.Artz 201201: Artz, Heidi",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,180.0000,
+INVOICE,IN,,14410188,,10/01/2011,90.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14414802MO,-5784.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Boyd, Rae",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2.0000,62.00,"Credit for Limited Term Discount: Boyd, Rae",,,,,,,,,,,,,,,
+INVOICE,CM,,14410188,,10/01/2011,90,"Invoice-Private",,10/01/2011,10/10/2011,,14414802MO,-5784.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Boyd, Rae",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2,62,"Limited Term Discount: Boyd, Rae",,,,,,,,,,,,,,,

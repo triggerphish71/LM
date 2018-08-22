@@ -1,0 +1,7 @@
+BATCH,,201206,B,3596.0000,
+INVOICE,IN,,13210275,,06/01/2012,116.0000,"Invoice-Private",,06/01/2012,06/01/2012,,13215497MO,-3364.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,99.0000,99.00,"Basic Service Fee - Studio for Jun: Bowers, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,17.0000,17.00,"Resident Care - Level 1 for Jun: Bowers, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,13210275,,06/01/2012,3480,"Invoice-Private",,06/01/2012,06/01/2012,,13215497MO,-3364.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... B.Bowers 201206: Bowers, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,510,510,"CR:Resident Care -... B.Bowers 201206: Bowers, Beatrice",,,,,,,,,,,,,,,

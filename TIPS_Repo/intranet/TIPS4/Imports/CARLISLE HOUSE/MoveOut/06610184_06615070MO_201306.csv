@@ -1,0 +1,7 @@
+BATCH,,201306,B,7140.0000,
+INVOICE,IN,,06610184,,06/12/2013,2040.0000,"Invoice-Private",,06/12/2013,06/12/2013,,06615070MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,12,95.0000,1140.00,"Basic Service Fee - Studio for Jun: Bush, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,12,75.0000,900.00,"Resident Care - Level 5 for Jun: Bush, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,06610184,,06/12/2013,5100,"Invoice-Private",,06/12/2013,06/12/2013,,06615070MO,-3060.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2850,2850,"CR:Basic Service F... D.Bush 201306: Bush, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,2250,2250,"CR:Resident Care -... D.Bush 201306: Bush, Donald",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,3617.9000,
+INVOICE,IN,,05810164,,12/01/2011,244.9000,"Invoice-Private",,12/01/2011,12/10/2011,,05813722MO,-3456.1000,,,,,,,,,,
+TRANSACTION,3317,010202058,1,244.9000,244.90,"CR:Abilene Employe... D.Fry 201112: Fry, Douglas",,,,,,,,,,,,,,,
+INVOICE,CM,,05810164,,12/01/2011,3373,"Invoice-Private",,12/01/2011,12/10/2011,,05813722MO,-3456.1000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2449,2449,"CR:Basic Service F... D.Fry 201112: Fry, Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25,25,"CR:Monthly Cable... D.Fry 201112: Fry, Douglas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,899,899,"CR:Resident Care -... D.Fry 201112: Fry, Douglas",,,,,,,,,,,,,,,

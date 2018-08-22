@@ -1,0 +1,5 @@
+BATCH,,201304,B,648.0000,
+INVOICE,IN,,50710142,,04/01/2013,324.0000,"Invoice-Private",,04/01/2013,04/10/2013,,50712652MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3316,010305507,30,10.8000,324.00,"Credit for Employee Discount: Hoffman, Katehrine",,,,,,,,,,,,,,,
+INVOICE,CM,,50710142,,04/01/2013,324,"Invoice-Private",,04/01/2013,04/10/2013,,50712652MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3316,010305507,30,10.8,324,"Employee Discount: Hoffman, Katehrine",,,,,,,,,,,,,,,

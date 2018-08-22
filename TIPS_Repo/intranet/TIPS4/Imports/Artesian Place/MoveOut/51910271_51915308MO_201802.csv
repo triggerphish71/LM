@@ -1,0 +1,7 @@
+BATCH,,201802,B,6659.1000,
+INVOICE,IN,,51910271,,02/21/2018,2853.9000,"Invoice-Private",,02/21/2018,02/21/2018,,51915308MO,-451.3000,,,,,,,,,,
+TRANSACTION,3020,010003519,21,106.0000,2226.00,"Basic Service Fee - Studio  for Feb: Nikander, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003519,21,29.9000,627.90,"Resident Care - Level 13  for Feb: Nikander, John",,,,,,,,,,,,,,,
+INVOICE,CM,,51910271,,02/21/2018,3805.2,"Invoice-Private",,02/21/2018,02/21/2018,,51915308MO,-451.3000,,,,,,,,,,
+TRANSACTION,3020,010003519,1,2968,2968,"CR:Basic Service F... J.Nikander 201802: Nikander, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003519,1,837.2,837.2,"CR:Resident Care -... J.Nikander 201802: Nikander, John",,,,,,,,,,,,,,,

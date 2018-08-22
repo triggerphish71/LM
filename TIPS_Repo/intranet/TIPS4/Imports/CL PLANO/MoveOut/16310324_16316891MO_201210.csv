@@ -1,0 +1,8 @@
+BATCH,,201210,B,7625.0000,
+INVOICE,IN,,16310324,,10/27/2012,3537.0000,"Invoice-Private",,10/27/2012,10/27/2012,,16316891MO,-2741.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,27,118.0000,3186.00,"Basic Service Fee - One Bedroom for Oct: Latil, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,27,13.0000,351.00,"Resident Care - Level 1 for Oct: Latil, Diane",,,,,,,,,,,,,,,
+INVOICE,CM,,16310324,,10/27/2012,4088,"Invoice-Private",,10/27/2012,10/27/2012,,16316891MO,-2741.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3658,3658,"CR:Basic Service F... D.Latil 201210: Latil, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... D.Latil 201210: Latil, Diane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,403,403,"CR:Resident Care -... D.Latil 201210: Latil, Diane",,,,,,,,,,,,,,,

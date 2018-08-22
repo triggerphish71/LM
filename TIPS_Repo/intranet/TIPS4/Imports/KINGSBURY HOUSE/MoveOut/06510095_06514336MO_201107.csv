@@ -1,0 +1,8 @@
+BATCH,,201107,B,4926.0000,
+INVOICE,IN,,06510095,,07/07/2011,958.0000,"Invoice-Private",,07/07/2011,07/07/2011,,06514336MO,-3010.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,62.0000,62.00,"CR:Limited Term Di... F.Grubb 201107: Grubb, F Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,7,110.0000,770.00,"Basic Service Fee - Deluxe for Jul: Grubb, F Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,7,18.0000,126.00,"Resident Care - Level 1 for Jul: Grubb, F Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,06510095,,07/07/2011,3968,"Invoice-Private",,07/07/2011,07/07/2011,,06514336MO,-3010.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3410,3410,"CR:Basic Service F... F.Grubb 201107: Grubb, F Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,558,558,"CR:Resident Care -... F.Grubb 201107: Grubb, F Jean",,,,,,,,,,,,,,,

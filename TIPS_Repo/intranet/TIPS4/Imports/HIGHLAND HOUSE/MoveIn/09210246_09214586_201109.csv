@@ -1,0 +1,5 @@
+BATCH,,201109,B,3284.0000,
+INVOICE,IN,,09210246,,09/19/2011,3284.0000,"MoveIn-Burns. Mary",,09/19/2011,09/19/2011,,09214586,6601.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,12,75.0000,900,"Basic Service Fee - Studio         : Burns. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,12,32.0000,384,"Resident Care - Level 2: Burns. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,2000.0000,2000,"New Resident Fee: Burns. Mary",,,,,,,,,,,,,,,

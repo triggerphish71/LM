@@ -1,0 +1,5 @@
+BATCH,,201206,B,120.0000,
+INVOICE,IN,,01510158,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,01514238MO,-862.2400,,,,,,,,,,
+TRANSACTION,3320,010103015,30,2.0000,60.00,"Credit for Limited Term Discount: Payne, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,01510158,,06/01/2012,60,"Invoice-Private",,06/01/2012,06/10/2012,,01514238MO,-862.2400,,,,,,,,,,
+TRANSACTION,3320,010103015,30,2,60,"Limited Term Discount: Payne, Carol",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,160.0000,
+INVOICE,IN,,15110124,,12/01/2011,80.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15113830MO,-3032.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Miller, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,45.0000,45.00,"Pendant Fee: Miller, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,15110124,,12/01/2011,80,"Invoice-Private",,12/01/2011,12/10/2011,,15113830MO,-3032.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Miller, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,45,45,"Credit for Pendant Fee: Miller, Jane",,,,,,,,,,,,,,,

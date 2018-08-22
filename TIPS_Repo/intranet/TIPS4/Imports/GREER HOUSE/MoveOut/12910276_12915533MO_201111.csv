@@ -1,0 +1,7 @@
+BATCH,,201111,B,264.0000,
+INVOICE,IN,,12910276,,11/01/2011,132.0000,"Invoice-Private",,11/01/2011,11/10/2011,,12915533MO,-3655.4000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Kerr, Oliver",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310129,30,3.4000,102.00,"Additional Service Charge: Kerr, Oliver",,,,,,,,,,,,,,,
+INVOICE,CM,,12910276,,11/01/2011,132,"Invoice-Private",,11/01/2011,11/10/2011,,12915533MO,-3655.4000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Kerr, Oliver",,,,,,,,,,,,,,,
+TRANSACTION,3019,010310129,30,3.4,102,"Credit for Additional Service Charge: Kerr, Oliver",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,3218.0000,
+INVOICE,CM,,07510256,,01/01/2012,3218,"Invoice-Private",,01/01/2012,01/10/2012,,07514869MO,-3218.0000,,,,,,,,,,
+TRANSACTION,3020,010104075,1,2728,2728,"CR:Basic Service F... E.Vancleef 201201: Vancleef, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25,25,"CR:Monthly Cable... E.Vancleef 201201: Vancleef, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104075,1,465,465,"CR:Resident Care -... E.Vancleef 201201: Vancleef, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201804,B,3000.0000,
+INVOICE,IN,,17810534,,04/01/2018,2000.0000,"Invoice-Private",,04/01/2018,04/10/2018,,17819612MO,-3776.0000,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1000.0000,1000.00,"Community Fee Unpaid Balance: Starmer, Penny",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1000.0000,1000.00,"Community Fee Installment Charge: Starmer, Penny",,,,,,,,,,,,,,,
+INVOICE,CM,,17810534,,04/01/2018,1000,"Invoice-Private",,04/01/2018,04/10/2018,,17819612MO,-3776.0000,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1000,1000,"Credit for Community Fee Installment Charge: Starmer, Penny",,,,,,,,,,,,,,,

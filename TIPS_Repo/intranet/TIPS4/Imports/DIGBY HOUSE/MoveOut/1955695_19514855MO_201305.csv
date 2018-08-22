@@ -1,0 +1,7 @@
+BATCH,,201305,B,3520.0000,
+INVOICE,IN,,1955695,,05/01/2013,110.0000,"Invoice-Private",,05/01/2013,05/10/2013,,19514855MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,63.0000,63.00,"Basic Service Fee - Studio for May: Smith, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,47.0000,47.00,"Resident Care - Level 3 for May: Smith, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,1955695,,05/01/2013,3410,"Invoice-Private",,05/01/2013,05/10/2013,,19514855MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,1953,1953,"CR:Basic Service F... A.Smith 201305: Smith, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1457,1457,"CR:Resident Care -... A.Smith 201305: Smith, Agnes",,,,,,,,,,,,,,,

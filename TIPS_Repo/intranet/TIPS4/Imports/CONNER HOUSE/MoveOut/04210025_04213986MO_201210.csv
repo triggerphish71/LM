@@ -1,0 +1,7 @@
+BATCH,,201210,B,4752.0000,
+INVOICE,IN,,04210025,,10/05/2012,660.0000,"Invoice-Private",,10/05/2012,10/05/2012,,04213986MO,-3432.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,5,99.0000,495.00,"Basic Service Fee - Studio for Oct: Lowe, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,5,33.0000,165.00,"Resident Care - Level 2 for Oct: Lowe, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04210025,,10/05/2012,4092,"Invoice-Private",,10/05/2012,10/05/2012,,04213986MO,-3432.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3069,3069,"CR:Basic Service F... D.Lowe 201210: Lowe, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1023,1023,"CR:Resident Care -... D.Lowe 201210: Lowe, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,4956.0000,
+INVOICE,IN,,01510245,,05/23/2013,2212.5000,"Invoice-Private",,05/23/2013,05/23/2013,,01514495MO,-3186.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,25,70.0000,1750.00,"Basic Service Fee - Studio for May: Rodgers, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,25,18.5000,462.50,"Resident Care - Level 10 for May: Rodgers, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,01510245,,05/23/2013,2743.5,"Invoice-Private",,05/23/2013,05/23/2013,,01514495MO,-3186.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2170,2170,"CR:Basic Service F... R.Rodgers 201305: Rodgers, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,573.5,573.5,"CR:Resident Care -... R.Rodgers 201305: Rodgers, Ronald",,,,,,,,,,,,,,,

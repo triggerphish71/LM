@@ -1,0 +1,8 @@
+BATCH,,201203,B,4027.0000,
+INVOICE,IN,,08010204,,03/01/2012,125.0000,"Invoice-Private",,03/01/2012,03/01/2012,,08014057MO,-3777.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,96.0000,96.00,"Basic Service Fee - Studio for Mar: Brooks, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202080,1,29.0000,29.00,"Resident Care - Level 2 for Mar: Brooks, James",,,,,,,,,,,,,,,
+INVOICE,CM,,08010204,,03/01/2012,3902,"Invoice-Private",,03/01/2012,03/01/2012,,08014057MO,-3777.0000,,,,,,,,,,
+TRANSACTION,3020,010202080,1,2976,2976,"CR:Basic Service F... J.Brooks 201203: Brooks, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"CR:Monthly Cable... J.Brooks 201203: Brooks, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202080,1,899,899,"CR:Resident Care -... J.Brooks 201203: Brooks, James",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,6982.0000,
+INVOICE,IN,,50110288,,02/20/2013,1760.0000,"Invoice-Private",,02/20/2013,02/20/2013,,50114598MO,-3462.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,20,88.0000,1760.00,"Basic Service Fee - Studio for Feb: Lockyear, Jon",,,,,,,,,,,,,,,
+INVOICE,CM,,50110288,,02/20/2013,2494,"Invoice-Private",,02/20/2013,02/20/2013,,50114598MO,-3462.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2464,2464,"CR:Basic Service F... J.Lockyear 201302: Lockyear, Jon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... J.Lockyear 201302: Lockyear, Jon",,,,,,,,,,,,,,,
+INVOICE,CM,,50110288,,03/01/2013,2728,"Invoice-Private",,03/01/2013,03/10/2013,,50114598MO,-3462.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... J.Lockyear 201303: Lockyear, Jon",,,,,,,,,,,,,,,

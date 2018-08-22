@@ -1,0 +1,7 @@
+BATCH,,201206,B,4840.0000,
+INVOICE,IN,,09110229,,06/08/2012,1210.0000,"Invoice-Private",,06/08/2012,06/08/2012,,09115261MO,-2420.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,10,85.0000,850.00,"Basic Service Fee - Studio for Jun: Strauss, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,10,36.0000,360.00,"Resident Care - Level 2 for Jun: Strauss, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,09110229,,06/08/2012,3630,"Invoice-Private",,06/08/2012,06/08/2012,,09115261MO,-2420.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... C.Strauss 201206: Strauss, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... C.Strauss 201206: Strauss, Catherine",,,,,,,,,,,,,,,

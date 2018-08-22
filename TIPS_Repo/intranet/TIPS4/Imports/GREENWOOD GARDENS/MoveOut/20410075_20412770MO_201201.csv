@@ -1,0 +1,7 @@
+BATCH,,201201,B,3604.0000,
+INVOICE,IN,,20410075,,01/03/2012,318.0000,"Invoice-Private",,01/03/2012,01/03/2012,,20412770MO,-2968.0000,,,,,,,,,,
+TRANSACTION,3020,010216204,3,94.0000,282.00,"One Bedroom for Jan: Hernandez, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,3,12.0000,36.00,"Resident Care - Level 1 for Jan: Hernandez, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,20410075,,01/03/2012,3286,"Invoice-Private",,01/03/2012,01/03/2012,,20412770MO,-2968.0000,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2914,2914,"CR:One Bedroom... G.Hernandez 201201: Hernandez, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,1,372,372,"CR:Resident Care -... G.Hernandez 201201: Hernandez, Gladys",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201108,B,3348.3000,
+INVOICE,IN,,00710169,,08/10/2011,102.1000,"Invoice-Private",,08/10/2011,08/10/2011,,00713234MO,-6207.1000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,80.0000,80.00,"Basic Service Fee - Studio for Aug: LaPointe, Winona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,22.1000,22.10,"Resident Care - Level 13 for Aug: LaPointe, Winona",,,,,,,,,,,,,,,
+INVOICE,CM,,00710169,,08/10/2011,3246.2,"Invoice-Private",,08/10/2011,08/10/2011,,00713234MO,-6207.1000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,1760,1760,"CR:Basic Service F... W.LaPointe 201108: LaPointe, Winona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000,1000,"CR:New Resident Fe... W.LaPointe 201108: LaPointe, Winona",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,486.2,486.2,"CR:Resident Care -... W.LaPointe 201108: LaPointe, Winona",,,,,,,,,,,,,,,

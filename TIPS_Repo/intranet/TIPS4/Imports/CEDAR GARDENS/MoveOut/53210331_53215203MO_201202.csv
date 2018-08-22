@@ -1,0 +1,8 @@
+BATCH,,201202,B,11678.0000,
+INVOICE,IN,,53210331,,02/27/2012,5616.0000,"Invoice-Private",,02/27/2012,02/27/2012,,53215203MO,-6924.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,27,131.0000,3537.00,"Basic Service Fee - Studio Suite for Feb: Hoffmann, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,27,77.0000,2079.00,"Resident Care - Level 6 for Feb: Hoffmann, Anita",,,,,,,,,,,,,,,
+INVOICE,CM,,53210331,,02/27/2012,6062,"Invoice-Private",,02/27/2012,02/27/2012,,53215203MO,-6924.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3799,3799,"CR:Basic Service F... A.Hoffmann 201202: Hoffmann, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30,30,"CR:Monthly Cable... A.Hoffmann 201202: Hoffmann, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2233,2233,"CR:Resident Care -... A.Hoffmann 201202: Hoffmann, Anita",,,,,,,,,,,,,,,

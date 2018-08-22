@@ -1,0 +1,7 @@
+BATCH,,201305,B,5917.0000,
+INVOICE,IN,,06810255,,05/30/2013,2910.0000,"Invoice-Private",,05/30/2013,05/30/2013,,06814161MO,-3817.0000,,,,,,,,,,
+TRANSACTION,3027,010305068,30,47.0000,1410.00,"Resident Care - Level 3 for May: Denman, Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,30,50.0000,1500.00,"Room and Board - Studio for May: Denman, Sherry",,,,,,,,,,,,,,,
+INVOICE,CM,,06810255,,05/30/2013,3007,"Invoice-Private",,05/30/2013,05/30/2013,,06814161MO,-3817.0000,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1457,1457,"CR:Resident Care -... S.Denman 201305: Denman, Sherry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,1,1550,1550,"CR:Room and Board ... S.Denman 201305: Denman, Sherry",,,,,,,,,,,,,,,

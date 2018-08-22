@@ -1,0 +1,8 @@
+BATCH,,201212,B,6540.0800,
+INVOICE,IN,,00510134,,12/01/2012,1280.6200,"Invoice-Private",,12/01/2012,12/10/2012,,00512568MO,-3978.8400,,,,,,,,,,
+TRANSACTION,3320,010101005,1,93.0000,93.00,"CR:Limited Term Di... C.Gomberg 201212: Gomberg, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101005,7,73.0000,511.00,"Basic Service Fee - Studio for Dec: Gomberg, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,7,96.6600,676.62,"Resident Care - Level 54 for Dec: Gomberg, Connie",,,,,,,,,,,,,,,
+INVOICE,CM,,00510134,,12/01/2012,5259.46,"Invoice-Private",,12/01/2012,12/10/2012,,00512568MO,-3978.8400,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2263,2263,"CR:Basic Service F... C.Gomberg 201212: Gomberg, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,2996.46,2996.46,"CR:Resident Care -... C.Gomberg 201212: Gomberg, Connie",,,,,,,,,,,,,,,

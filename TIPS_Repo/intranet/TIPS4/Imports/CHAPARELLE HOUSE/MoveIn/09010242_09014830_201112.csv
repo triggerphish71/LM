@@ -1,0 +1,5 @@
+BATCH,,201112,B,3993.0000,
+INVOICE,IN,,09010242,,12/01/2011,3993.0000,"December_Rent-McCollum. Joe",,12/01/2011,12/10/2011,,09014830,7170.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,31,113.0000,3503,"Basic Service Fee - One Bedroom: McCollum. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,31,15.0000,465,"Resident Care - Level 1: McCollum. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: McCollum. Joe",,,,,,,,,,,,,,,

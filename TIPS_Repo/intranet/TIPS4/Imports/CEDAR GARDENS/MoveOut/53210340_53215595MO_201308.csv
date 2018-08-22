@@ -1,0 +1,7 @@
+BATCH,,201308,B,2200.0000,
+INVOICE,IN,,53210340,,08/01/2013,495.0000,"Invoice-Private",,08/01/2013,08/10/2013,,53215595MO,-1210.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,9,40.0000,360.00,"Basic Service Fee - Studio Deluxe for Aug: Price, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,9,15.0000,135.00,"Resident Care - Level 1 for Aug: Price, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,53210340,,08/01/2013,1705,"Invoice-Private",,08/01/2013,08/10/2013,,53215595MO,-1210.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,1240,1240,"CR:Basic Service F... C.Price 201308: Price, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,465,465,"CR:Resident Care -... C.Price 201308: Price, Chester",,,,,,,,,,,,,,,

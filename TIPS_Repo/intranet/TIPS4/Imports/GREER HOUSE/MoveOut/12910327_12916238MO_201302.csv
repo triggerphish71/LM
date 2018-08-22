@@ -1,0 +1,7 @@
+BATCH,,201302,B,1516.0000,
+INVOICE,IN,,12910327,,02/01/2013,758.0000,"Invoice-Private",,02/01/2013,02/10/2013,,12916238MO,-3316.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Seamans, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310129,28,26.0000,728.00,"Credit for Limited Term Discount: Seamans, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,12910327,,02/01/2013,758,"Invoice-Private",,02/01/2013,02/10/2013,,12916238MO,-3316.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Seamans, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310129,28,26,728,"Limited Term Discount: Seamans, Helen",,,,,,,,,,,,,,,

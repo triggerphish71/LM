@@ -1,0 +1,6 @@
+BATCH,,201305,B,2784.0000,
+INVOICE,IN,,19810309,,05/22/2013,1173.0000,"Invoice-Private",,05/22/2013,05/22/2013,,19818672MO,-1998.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,23,51.0000,1173.00,"Basic Service Fee AL - Studio A for May: Ludwig, Cathy",,,,,,,,,,,,,,,
+INVOICE,CM,,19810309,,05/22/2013,1611,"Invoice-Private",,05/22/2013,05/22/2013,,19818672MO,-1998.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1581,1581,"CR:Basic Service F... C.Ludwig 201305: Ludwig, Cathy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... C.Ludwig 201305: Ludwig, Cathy",,,,,,,,,,,,,,,

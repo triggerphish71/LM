@@ -1,0 +1,7 @@
+BATCH,,201108,B,1414.0000,
+INVOICE,IN,,02210153,,08/01/2011,707.0000,"Invoice-Private",,08/01/2011,08/10/2011,,02213976MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25.00,"Monthly Cable: Jones, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202022,31,22.0000,682.00,"Credit for Limited Term Discount: Jones, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,02210153,,08/01/2011,707,"Invoice-Private",,08/01/2011,08/10/2011,,02213976MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25,25,"Credit for Monthly Cable: Jones, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202022,31,22,682,"Limited Term Discount: Jones, Billy",,,,,,,,,,,,,,,

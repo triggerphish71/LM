@@ -1,0 +1,4 @@
+BATCH,,201206,B,4320.0000,
+INVOICE,IN,,02910322,,06/01/2012,4320.0000,"June_Rent-Benham. Farris",,06/01/2012,06/10/2012,,02915620,6684.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,30,100.0000,3000,"Basic Service Fee - Studio: Benham. Farris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,30,44.0000,1320,"Resident Care - Level 3: Benham. Farris",,,,,,,,,,,,,,,

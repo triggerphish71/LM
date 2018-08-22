@@ -1,0 +1,7 @@
+BATCH,,201211,B,4653.0000,
+INVOICE,IN,,03710076,,11/01/2012,423.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03714383MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,3,97.0000,291.00,"Basic Service Fee - Studio for Nov: Hall, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,3,44.0000,132.00,"Resident Care - Level 3 for Nov: Hall, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,03710076,,11/01/2012,4230,"Invoice-Private",,11/01/2012,11/10/2012,,03714383MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,2910,2910,"CR:Basic Service F... M.Hall 201211: Hall, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,1320,1320,"CR:Resident Care -... M.Hall 201211: Hall, Marguerite",,,,,,,,,,,,,,,

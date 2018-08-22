@@ -1,0 +1,5 @@
+BATCH,,201111,B,3770.0000,
+INVOICE,IN,,01210228,,11/04/2011,3770.0000,"MoveIn-Boggs. Gertrude",,11/04/2011,11/04/2011,,01213769,3770.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,27,83.0000,2241,"Basic Service Fee - Studio         : Boggs. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Boggs. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Boggs. Gertrude",,,,,,,,,,,,,,,

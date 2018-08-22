@@ -1,0 +1,8 @@
+BATCH,,201301,B,5680.1200,
+INVOICE,IN,,08110241,,01/13/2013,2224.2400,"Invoice-Private",,01/13/2013,01/13/2013,,08114621MO,-3653.0800,,,,,,,,,,
+TRANSACTION,3320,010103081,1,775.0000,775.00,"CR:Limited Term Di... J.Webb 201301: Webb, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,13,90.0000,1170.00,"Basic Service Fee - Studio for Jan: Webb, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,13,21.4800,279.24,"Resident Care - Level 12 for Jan: Webb, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,08110241,,01/13/2013,3455.88,"Invoice-Private",,01/13/2013,01/13/2013,,08114621MO,-3653.0800,,,,,,,,,,
+TRANSACTION,3020,010103081,1,2790,2790,"CR:Basic Service F... J.Webb 201301: Webb, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,665.88,665.88,"CR:Resident Care -... J.Webb 201301: Webb, Joyce",,,,,,,,,,,,,,,

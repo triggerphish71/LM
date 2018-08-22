@@ -1,0 +1,7 @@
+BATCH,,201108,B,3149.0000,
+INVOICE,IN,,50110244,,08/20/2011,3149.0000,"MoveIn-Anderson. Jean",,08/20/2011,08/20/2011,,50113664,7174.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,12,84.0000,1008,"J.Anderson: Basic Service Fee - Studio: Anderson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209501,12,48.0000,576,"J.Anderson: Resident Care - Level 4: Anderson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Anderson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Anderson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35,"Pendant Fee: Anderson. Jean",,,,,,,,,,,,,,,

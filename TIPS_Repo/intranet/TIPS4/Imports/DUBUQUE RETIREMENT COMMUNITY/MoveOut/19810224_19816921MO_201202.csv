@@ -1,0 +1,8 @@
+BATCH,,201202,B,2630.0000,
+INVOICE,IN,,19810224,,02/01/2012,2565.0000,"Invoice-Private",,02/01/2012,02/10/2012,,19816921MO,451.0000,,,,,,,,,,
+TRANSACTION,3299,010112198,1,2500.0000,2500.00,"Repair and Maintenance-Damages 4230: Copeland, Cathy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Copeland, Cathy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35.0000,35.00,"Pendant Fee: Copeland, Cathy",,,,,,,,,,,,,,,
+INVOICE,CM,,19810224,,02/01/2012,65,"Invoice-Private",,02/01/2012,02/10/2012,,19816921MO,451.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Copeland, Cathy",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"Credit for Pendant Fee: Copeland, Cathy",,,,,,,,,,,,,,,

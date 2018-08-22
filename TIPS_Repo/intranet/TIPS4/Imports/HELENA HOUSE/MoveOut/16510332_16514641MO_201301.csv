@@ -1,0 +1,5 @@
+BATCH,,201301,B,3564.0000,
+INVOICE,IN,,16510332,,01/05/2013,495.0000,"Invoice-Private",,01/05/2013,01/05/2013,,16514641MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,5,99.0000,495.00,"Basic Service Fee - Studio for Jan: Lindsay, JoAnne",,,,,,,,,,,,,,,
+INVOICE,CM,,16510332,,01/05/2013,3069,"Invoice-Private",,01/05/2013,01/05/2013,,16514641MO,-2574.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3069,3069,"CR:Basic Service F... J.Lindsay 201301: Lindsay, JoAnne",,,,,,,,,,,,,,,

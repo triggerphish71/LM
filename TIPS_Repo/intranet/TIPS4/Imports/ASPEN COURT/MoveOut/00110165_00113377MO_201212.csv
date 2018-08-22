@@ -1,0 +1,5 @@
+BATCH,,201212,B,50.0000,
+INVOICE,IN,,00110165,,12/01/2012,25.0000,"Invoice-Private",,12/01/2012,12/10/2012,,00113377MO,-2176.1700,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25.00,"Monthly Cable: Dickson, Wilton",,,,,,,,,,,,,,,
+INVOICE,CM,,00110165,,12/01/2012,25,"Invoice-Private",,12/01/2012,12/10/2012,,00113377MO,-2176.1700,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"Credit for Monthly Cable: Dickson, Wilton",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201802,B,4800.0000,
+INVOICE,IN,,17610427,,02/21/2018,4800.0000,"MoveIn-Donovan. Dan and Marylee",,02/21/2018,02/21/2018,,17617563,4800.0000,,,,,,,,,,
+TRANSACTION,3010,010015176,8,100.0000,800,"Basic Service Fee - Studio: Donovan. Dan and Marylee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010015176,1,2000.0000,2000,"Community Fee: Donovan. Dan and Marylee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010015176,1,2000.0000,2000,"Monthly Deferral Charge: Donovan. Dan and Marylee",,,,,,,,,,,,,,,

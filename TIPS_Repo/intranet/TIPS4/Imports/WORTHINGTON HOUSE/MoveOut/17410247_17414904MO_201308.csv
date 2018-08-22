@@ -1,0 +1,7 @@
+BATCH,,201308,B,3710.0000,
+INVOICE,IN,,17410247,,08/04/2013,424.0000,"Invoice-Private",,08/04/2013,08/04/2013,,17414904MO,-2862.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,4,51.0000,204.00,"Basic Service Fee - Studio for Aug: Marksbary, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,4,55.0000,220.00,"Resident Care - Level 4 for Aug: Marksbary, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,17410247,,08/04/2013,3286,"Invoice-Private",,08/04/2013,08/04/2013,,17414904MO,-2862.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,1581,1581,"CR:Basic Service F... S.Marksbary 201308: Marksbary, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,1705,1705,"CR:Resident Care -... S.Marksbary 201308: Marksbary, Shirley",,,,,,,,,,,,,,,

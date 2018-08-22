@@ -1,0 +1,7 @@
+BATCH,,201108,B,5217.0000,
+INVOICE,IN,,05710289,,08/01/2011,846.0000,"Invoice-Private",,08/01/2011,08/10/2011,,05715184MO,-3525.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,6,91.0000,546.00,"Basic Service Fee - Studio for Aug: Hefner, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,6,50.0000,300.00,"Resident Care - Level 4 for Aug: Hefner, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,05710289,,08/01/2011,4371,"Invoice-Private",,08/01/2011,08/10/2011,,05715184MO,-3525.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2821,2821,"CR:Basic Service F... B.Hefner 201108: Hefner, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,1550,1550,"CR:Resident Care -... B.Hefner 201108: Hefner, Beulah",,,,,,,,,,,,,,,

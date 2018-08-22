@@ -1,0 +1,8 @@
+BATCH,,201806,B,5845.0000,
+INVOICE,IN,,05710470,,06/05/2018,835.0000,"Invoice-Private",,06/05/2018,06/05/2018,,05718318MO,-9352.0000,,,,,,,,,,
+TRANSACTION,3020,010002057,5,98.0000,490.00,"Basic Service Fee - Studio for Jun: Clark, Bf",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002057,5,69.0000,345.00,"Resident Care - Level 5 for Jun: Clark, Bf",,,,,,,,,,,,,,,
+INVOICE,CM,,05710470,,06/05/2018,5010,"Invoice-Private",,06/05/2018,06/05/2018,,05718318MO,-9352.0000,,,,,,,,,,
+TRANSACTION,3020,010002057,1,2940,2940,"CR:Basic Service F... B.Clark 201806: Clark, Bf",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002057,1,600,600,"CR:Resident Care -... B.Clark 201806: Clark, Bf",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002057,1,1470,1470,"CR:Resident Care L... B.Clark 201806: Clark, Bf",,,,,,,,,,,,,,,

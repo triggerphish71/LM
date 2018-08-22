@@ -1,0 +1,6 @@
+BATCH,,201207,B,3695.8200,
+INVOICE,IN,,05910084,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,05913336MO,-4097.9200,,,,,,,,,,
+TRANSACTION,3320,010101059,1,62.0000,62.00,"CR:Limited Term Di... F.Jordan 201207: Jordan, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,05910084,,07/01/2012,3633.82,"Invoice-Private",,07/01/2012,07/10/2012,,05913336MO,-4097.9200,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2635,2635,"CR:Basic Service F... F.Jordan 201207: Jordan, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,998.82,998.82,"CR:Resident Care -... F.Jordan 201207: Jordan, Florence",,,,,,,,,,,,,,,

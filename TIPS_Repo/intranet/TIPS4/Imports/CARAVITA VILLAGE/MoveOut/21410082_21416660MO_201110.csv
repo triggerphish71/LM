@@ -1,0 +1,5 @@
+BATCH,,201110,B,62.0000,
+INVOICE,IN,,21410082,,10/01/2011,31.0000,"Invoice-Private",,10/01/2011,10/10/2011,,21416660MO,-2340.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,31,1.0000,31.00,"Credit for Daily Discount: Calloway, Merle",,,,,,,,,,,,,,,
+INVOICE,CM,,21410082,,10/01/2011,31,"Invoice-Private",,10/01/2011,10/10/2011,,21416660MO,-2340.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,31,1,31,"Daily Discount: Calloway, Merle",,,,,,,,,,,,,,,

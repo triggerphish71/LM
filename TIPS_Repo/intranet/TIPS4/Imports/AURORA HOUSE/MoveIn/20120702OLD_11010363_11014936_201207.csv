@@ -1,0 +1,5 @@
+BATCH,,201207,B,4830.0000,
+INVOICE,IN,,11010363,,07/01/2012,4830.0000,"July_Rent-Scantlin. Rose",,07/01/2012,07/10/2012,,11014936,5785.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,31,104.0000,3224,"Basic Service Fee - One Bedroom    : Scantlin. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,31,51.0000,1581,"Resident Care - Level 4: Scantlin. Rose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Scantlin. Rose",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201111,B,5425.5000,
+INVOICE,IN,,00910133,,11/05/2011,826.5000,"Invoice-Private",,11/05/2011,11/05/2011,,00913465MO,-3772.5000,,,,,,,,,,
+TRANSACTION,3320,010101009,1,60.0000,60.00,"CR:Limited Term Di... R.Cleary 201111: Cleary, Renee",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,5,87.0000,435.00,"Basic Service Fee - Studio Deluxe for Nov: Cleary, Renee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,5,66.3000,331.50,"Resident Care - Level 39 for Nov: Cleary, Renee",,,,,,,,,,,,,,,
+INVOICE,CM,,00910133,,11/05/2011,4599,"Invoice-Private",,11/05/2011,11/05/2011,,00913465MO,-3772.5000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2610,2610,"CR:Basic Service F... R.Cleary 201111: Cleary, Renee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1989,1989,"CR:Resident Care -... R.Cleary 201111: Cleary, Renee",,,,,,,,,,,,,,,

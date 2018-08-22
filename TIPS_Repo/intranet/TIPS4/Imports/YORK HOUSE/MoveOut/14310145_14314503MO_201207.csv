@@ -1,0 +1,8 @@
+BATCH,,201207,B,5496.0000,
+INVOICE,IN,,14310145,,07/01/2012,1524.0000,"Invoice-Private",,07/01/2012,07/10/2012,,14314503MO,-2448.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,12,82.0000,984.00,"Basic Service Fee - Studio for Jul: Malott, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,12,45.0000,540.00,"Resident Care - Level 3 for Jul: Malott, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14310145,,07/01/2012,3972,"Invoice-Private",,07/01/2012,07/10/2012,,14314503MO,-2448.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... B.Malott 201207: Malott, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... B.Malott 201207: Malott, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,1395,1395,"CR:Resident Care -... B.Malott 201207: Malott, Betty",,,,,,,,,,,,,,,

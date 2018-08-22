@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,14910131,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14914512MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Bornhoft, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,14910131,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,14914512MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Bornhoft, Alice",,,,,,,,,,,,,,,

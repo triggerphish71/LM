@@ -1,0 +1,6 @@
+<cfparam name="tenantId" default="0">
+<cfparam name="residentId">
+<cfscript>
+	Tenant = CreateObject("Component","Components.Tenant");
+	Tenant.Init(tenantId,residentId,application.datasource,application.LeadTrackingDBServer,application.censusdbserver);
+</cfscript>

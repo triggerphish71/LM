@@ -1,0 +1,5 @@
+BATCH,,201201,B,5260.0400,
+INVOICE,IN,,09510253,,01/04/2012,5260.0400,"MoveIn-McGuire. Mary",,01/04/2012,01/04/2012,,09514712,5260.0400,,,,,,,,,,
+TRANSACTION,3010,010103095,28,86.0000,2408,"Basic Service Fee - Studio: McGuire. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103095,28,30.4300,852.04,"Resident Care - Level 17: McGuire. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000.0000,2000,"New Resident Fee: McGuire. Mary",,,,,,,,,,,,,,,

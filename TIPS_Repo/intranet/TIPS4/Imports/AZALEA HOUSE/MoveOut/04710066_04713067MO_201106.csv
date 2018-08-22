@@ -1,0 +1,8 @@
+BATCH,,201106,B,7753.0000,
+INVOICE,IN,,04710066,,06/24/2011,3588.0000,"Invoice-Private",,06/24/2011,06/24/2011,,04713067MO,-4900.0000,,,,,,,,,,
+TRANSACTION,3027,010202047,26,42.0000,1092.00,"Resident Care - Level 3 for Jun: Hinson, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202047,26,96.0000,2496.00,"Room and Board - Studio for Jun: Hinson, William",,,,,,,,,,,,,,,
+INVOICE,CM,,04710066,,06/24/2011,4165,"Invoice-Private",,06/24/2011,06/24/2011,,04713067MO,-4900.0000,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25,25,"CR:Monthly Cable... W.Hinson 201106: Hinson, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,1260,1260,"CR:Resident Care -... W.Hinson 201106: Hinson, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202047,1,2880,2880,"CR:Room and Board ... W.Hinson 201106: Hinson, William",,,,,,,,,,,,,,,

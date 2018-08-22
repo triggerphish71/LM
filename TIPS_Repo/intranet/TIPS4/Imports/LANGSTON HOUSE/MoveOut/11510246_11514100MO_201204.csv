@@ -1,0 +1,7 @@
+BATCH,,201204,B,176.0000,
+INVOICE,IN,,11510246,,04/01/2012,88.0000,"Invoice-Private",,04/01/2012,04/10/2012,,11514100MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Dalrymple, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,2.0000,60.00,"Credit for Limited Term Discount: Dalrymple, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,11510246,,04/01/2012,88,"Invoice-Private",,04/01/2012,04/10/2012,,11514100MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Dalrymple, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,2,60,"Limited Term Discount: Dalrymple, Laura",,,,,,,,,,,,,,,

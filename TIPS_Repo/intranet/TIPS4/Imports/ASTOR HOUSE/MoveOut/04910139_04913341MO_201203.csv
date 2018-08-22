@@ -1,0 +1,7 @@
+BATCH,,201203,B,5336.5400,
+INVOICE,IN,,04910139,,03/01/2012,62.0000,"Invoice-Private",,03/01/2012,03/10/2012,,04913341MO,-5293.4200,,,,,,,,,,
+TRANSACTION,3320,010101049,1,62.0000,62.00,"CR:Limited Term Di... M.Sager 201203: Sager, Margaret ",,,,,,,,,,,,,,,
+INVOICE,CM,,04910139,,03/01/2012,5274.54,"Invoice-Private",,03/01/2012,03/10/2012,,04913341MO,-5293.4200,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2697,2697,"CR:Basic Service F... M.Sager 201203: Sager, Margaret ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... M.Sager 201203: Sager, Margaret ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,2552.54,2552.54,"CR:Resident Care -... M.Sager 201203: Sager, Margaret ",,,,,,,,,,,,,,,

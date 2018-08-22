@@ -1,0 +1,7 @@
+BATCH,,201307,B,1557.0000,
+INVOICE,IN,,10910262,,07/01/2013,50.0000,"Invoice-Private",,07/01/2013,07/10/2013,,10915380MO,-1786.0000,,,,,,,,,,
+TRANSACTION,3150,010305109,1,50.0000,50.00,"Late Fee Adjustment: Scott, Marylou",,,,,,,,,,,,,,,
+INVOICE,CM,,10910262,,07/01/2013,1507,"Invoice-Private",,07/01/2013,07/10/2013,,10915380MO,-1786.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,961,961,"CR:Basic Service F... M.Scott 201307: Scott, Marylou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,496,496,"CR:Resident Care -... M.Scott 201307: Scott, Marylou",,,,,,,,,,,,,,,
+TRANSACTION,3150,010305109,1,50,50,"Late Fee Adjustment: Scott, Marylou",,,,,,,,,,,,,,,

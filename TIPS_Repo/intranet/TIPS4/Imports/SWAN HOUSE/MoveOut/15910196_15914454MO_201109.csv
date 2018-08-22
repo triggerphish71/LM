@@ -1,0 +1,8 @@
+BATCH,,201109,B,4615.0000,
+INVOICE,IN,,15910196,,09/29/2011,2665.0000,"Invoice-Private",,09/29/2011,09/29/2011,,15914454MO,-494.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,780.0000,780.00,"CR:Limited Term Di... H.Fleshner 201109: Fleshner, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212159,29,36.0000,1044.00,"Basic Service Fee - Second Resident for Sep: Fleshner, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,29,29.0000,841.00,"Swan Personal Care - L2 for Sep: Fleshner, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,15910196,,09/29/2011,1950,"Invoice-Private",,09/29/2011,09/29/2011,,15914454MO,-494.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,1080,1080,"CR:Basic Service F... H.Fleshner 201109: Fleshner, Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,870,870,"CR:Swan Personal C... H.Fleshner 201109: Fleshner, Harvey",,,,,,,,,,,,,,,

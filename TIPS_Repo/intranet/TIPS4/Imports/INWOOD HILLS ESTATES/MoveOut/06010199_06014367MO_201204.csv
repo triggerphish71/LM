@@ -1,0 +1,7 @@
+BATCH,,201204,B,5040.0000,
+INVOICE,IN,,06010199,,04/18/2012,1890.0000,"Invoice-Private",,04/18/2012,04/18/2012,,06014367MO,-4515.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,18,90.0000,1620.00,"Basic Service Fee - Studio for Apr: Dosmann, Gervase",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,18,15.0000,270.00,"Resident Care - Level 1 for Apr: Dosmann, Gervase",,,,,,,,,,,,,,,
+INVOICE,CM,,06010199,,04/18/2012,3150,"Invoice-Private",,04/18/2012,04/18/2012,,06014367MO,-4515.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2700,2700,"CR:Basic Service F... G.Dosmann 201204: Dosmann, Gervase",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,450,450,"CR:Resident Care -... G.Dosmann 201204: Dosmann, Gervase",,,,,,,,,,,,,,,

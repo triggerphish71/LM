@@ -1,0 +1,5 @@
+BATCH,,201108,B,4749.4000,
+INVOICE,IN,,03810216,,08/01/2011,4749.4000,"August_Rent-Spaldin. Lucy",,08/01/2011,08/10/2011,,03813923,8755.6000,,,,,,,,,,
+TRANSACTION,3010,010103038,31,81.0000,2511,"Basic Service Fee - Studio         : Spaldin. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,31,71.4000,2213.4,"Resident Care - Level 42: Spaldin. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Spaldin. Lucy",,,,,,,,,,,,,,,

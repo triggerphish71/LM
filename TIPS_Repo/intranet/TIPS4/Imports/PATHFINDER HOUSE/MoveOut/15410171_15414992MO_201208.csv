@@ -1,0 +1,7 @@
+BATCH,,201208,B,160.0000,
+INVOICE,IN,,15410171,,08/01/2012,80.0000,"Invoice-Private",,08/01/2012,08/10/2012,,15414992MO,-5514.2400,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45.0000,45.00,"Pendant Fee: Saunders, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Saunders, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,15410171,,08/01/2012,80,"Invoice-Private",,08/01/2012,08/10/2012,,15414992MO,-5514.2400,,,,,,,,,,
+TRANSACTION,3130,010211154,1,45,45,"Credit for Pendant Fee: Saunders, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Saunders, Bill",,,,,,,,,,,,,,,

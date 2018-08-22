@@ -1,0 +1,5 @@
+BATCH,,201808,B,3596.6000,
+INVOICE,IN,,18100124,,08/01/2018,3596.6000,"August_Rent-order. chaos",,08/01/2018,08/10/2018,,18111564,8878.2000,,,,,,,,,,
+TRANSACTION,3010,010012181,31,75.0000,2325,"Studio: order. chaos",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012181,31,40.0000,1240,"Resident Care - Level 3: order. chaos",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012181,1,31.6000,31.6,"Monthly Cable: order. chaos",,,,,,,,,,,,,,,

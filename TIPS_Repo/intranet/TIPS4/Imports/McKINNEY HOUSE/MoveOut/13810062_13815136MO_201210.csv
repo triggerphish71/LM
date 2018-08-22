@@ -1,0 +1,5 @@
+BATCH,,201210,B,1426.0000,
+INVOICE,IN,,13810062,,10/01/2012,713.0000,"Invoice-Private",,10/01/2012,10/10/2012,,13815136MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,31,23.0000,713.00,"Credit for Limited Term Discount: Harless, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,13810062,,10/01/2012,713,"Invoice-Private",,10/01/2012,10/10/2012,,13815136MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,31,23,713,"Limited Term Discount: Harless, Beverly",,,,,,,,,,,,,,,

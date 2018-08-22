@@ -1,0 +1,8 @@
+BATCH,,201706,B,3461.6000,
+INVOICE,IN,,12010357,,06/05/2017,490.0000,"Invoice-Private",,06/05/2017,06/05/2017,,12016625MO,-1981.6000,,,,,,,,,,
+TRANSACTION,3020,010009120,5,69.0000,345.00,"Basic Service Fee - Studio  for Jun: Frost, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009120,5,29.0000,145.00,"Resident Care - Level 2  for Jun: Frost, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,12010357,,06/05/2017,2971.6,"Invoice-Private",,06/05/2017,06/05/2017,,12016625MO,-1981.6000,,,,,,,,,,
+TRANSACTION,3020,010009120,1,2070,2070,"CR:Basic Service F... R.Frost 201706: Frost, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009120,1,31.6,31.6,"CR:Monthly Cable... R.Frost 201706: Frost, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009120,1,870,870,"CR:Resident Care -... R.Frost 201706: Frost, Ray",,,,,,,,,,,,,,,

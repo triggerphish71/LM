@@ -1,0 +1,7 @@
+BATCH,,201202,B,3924.0000,
+INVOICE,IN,,14810281,,02/07/2012,763.0000,"Invoice-Private",,02/07/2012,02/07/2012,,14814842MO,-2398.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,7,91.0000,637.00,"Basic Service Fee - Studio for Feb: D'antonio, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,7,18.0000,126.00,"Resident Care - Level 1 for Feb: D'antonio, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,14810281,,02/07/2012,3161,"Invoice-Private",,02/07/2012,02/07/2012,,14814842MO,-2398.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2639,2639,"CR:Basic Service F... A.D'antonio 201202: D'antonio, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,522,522,"CR:Resident Care -... A.D'antonio 201202: D'antonio, Albert",,,,,,,,,,,,,,,

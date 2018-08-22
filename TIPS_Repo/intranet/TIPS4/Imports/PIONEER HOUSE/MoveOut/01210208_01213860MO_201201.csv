@@ -1,0 +1,7 @@
+BATCH,,201201,B,10172.9600,
+INVOICE,IN,,01210208,,01/16/2012,4541.5000,"Invoice-Private",,01/16/2012,01/16/2012,,01213860MO,-6358.1000,,,,,,,,,,
+TRANSACTION,3020,010103012,25,85.0000,2125.00,"Basic Service Fee - Studio for Jan: Newell, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,25,96.6600,2416.50,"Resident Care - Level 54 for Jan: Newell, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,01210208,,01/16/2012,5631.46,"Invoice-Private",,01/16/2012,01/16/2012,,01213860MO,-6358.1000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2635,2635,"CR:Basic Service F... D.Newell 201201: Newell, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,2996.46,2996.46,"CR:Resident Care -... D.Newell 201201: Newell, Donna",,,,,,,,,,,,,,,

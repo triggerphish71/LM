@@ -1,0 +1,5 @@
+BATCH,,201112,B,2191.0000,
+INVOICE,IN,,05210260,,12/30/2011,2191.0000,"MoveIn-Beirnes. Wesley",,12/30/2011,12/30/2011,,05214706,4760.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,2,82.0000,164,"Basic Service Fee - Studio: Beirnes. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Beirnes. Wesley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Beirnes. Wesley",,,,,,,,,,,,,,,

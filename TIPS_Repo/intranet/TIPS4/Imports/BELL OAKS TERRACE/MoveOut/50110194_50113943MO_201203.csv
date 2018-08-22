@@ -1,0 +1,5 @@
+BATCH,,201203,B,992.0000,
+INVOICE,IN,,50110194,,03/01/2012,496.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50113943MO,-2984.8000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,16.0000,496.00,"Credit for Limited Term Discount: Huett, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,50110194,,03/01/2012,496,"Invoice-Private",,03/01/2012,03/10/2012,,50113943MO,-2984.8000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,16,496,"Limited Term Discount: Huett, Robert",,,,,,,,,,,,,,,

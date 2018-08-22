@@ -1,0 +1,5 @@
+BATCH,,201303,B,4557.2000,
+INVOICE,IN,,04910220,,03/01/2013,4557.2000,"March_Rent-Leonard. Edna",,03/01/2013,03/10/2013,,04913575,8336.6000,,,,,,,,,,
+TRANSACTION,3010,010101049,31,87.0000,2697,"Basic Service Fee - Studio: Leonard. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,31,59.2000,1835.2,"Resident Care - Level 32: Leonard. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Leonard. Edna",,,,,,,,,,,,,,,

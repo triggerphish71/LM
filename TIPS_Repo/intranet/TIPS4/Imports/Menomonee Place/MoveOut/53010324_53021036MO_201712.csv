@@ -1,0 +1,6 @@
+BATCH,,201712,B,2802.1000,
+INVOICE,IN,,53010324,,12/15/2017,900.0000,"Invoice-Private",,12/15/2017,12/15/2017,,53021036MO,-1404.2000,,,,,,,,,,
+TRANSACTION,3020,010019530,15,60.0000,900.00,"Basic Service Fee-One Bedroom Premium  for Dec: King, Elizabeth (Betty)",,,,,,,,,,,,,,,
+INVOICE,CM,,53010324,,12/15/2017,1902.1,"Invoice-Private",,12/15/2017,12/15/2017,,53021036MO,-1404.2000,,,,,,,,,,
+TRANSACTION,3020,010019530,1,1860,1860,"CR:Basic Service F... E.King 201712: King, Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010019530,1,42.1,42.1,"CR:Monthly Cable... E.King 201712: King, Elizabeth (Betty)",,,,,,,,,,,,,,,

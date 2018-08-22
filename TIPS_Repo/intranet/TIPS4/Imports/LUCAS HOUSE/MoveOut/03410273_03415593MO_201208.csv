@@ -1,0 +1,7 @@
+BATCH,,201208,B,2596.0000,
+INVOICE,IN,,03410273,,08/01/2012,1298.0000,"Invoice-Private",,08/01/2012,08/10/2012,,03415593MO,-1297.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Clark, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,31,41.0000,1271.00,"Credit for Limited Term Discount: Clark, Waneta",,,,,,,,,,,,,,,
+INVOICE,CM,,03410273,,08/01/2012,1298,"Invoice-Private",,08/01/2012,08/10/2012,,03415593MO,-1297.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Clark, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,31,41,1271,"Limited Term Discount: Clark, Waneta",,,,,,,,,,,,,,,

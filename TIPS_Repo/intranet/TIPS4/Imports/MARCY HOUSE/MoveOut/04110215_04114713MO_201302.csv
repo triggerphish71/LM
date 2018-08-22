@@ -1,0 +1,5 @@
+BATCH,,201302,B,224.0000,
+INVOICE,IN,,04110215,,02/01/2013,112.0000,"Invoice-Private",,02/01/2013,02/10/2013,,04114713MO,-4159.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,28,4.0000,112.00,"Credit for Limited Term Discount: Hillger, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04110215,,02/01/2013,112,"Invoice-Private",,02/01/2013,02/10/2013,,04114713MO,-4159.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,28,4,112,"Limited Term Discount: Hillger, Mary",,,,,,,,,,,,,,,

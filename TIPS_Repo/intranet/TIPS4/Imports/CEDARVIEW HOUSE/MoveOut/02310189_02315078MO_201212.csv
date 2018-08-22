@@ -1,0 +1,5 @@
+BATCH,,201212,B,868.0000,
+INVOICE,IN,,02310189,,12/01/2012,434.0000,"Invoice-Private",,12/01/2012,12/10/2012,,02315078MO,-4810.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,31,14.0000,434.00,"Credit for Limited Term Discount: Stevens, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,02310189,,12/01/2012,434,"Invoice-Private",,12/01/2012,12/10/2012,,02315078MO,-4810.0000,,,,,,,,,,
+TRANSACTION,3320,010202023,31,14,434,"Limited Term Discount: Stevens, Roy",,,,,,,,,,,,,,,

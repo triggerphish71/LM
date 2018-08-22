@@ -1,0 +1,6 @@
+BATCH,,201805,B,3105.0000,
+INVOICE,IN,,06110138,,05/15/2018,1214.0000,"Invoice-Private",,05/15/2018,05/15/2018,,06115758MO,-677.0000,,,,,,,,,,
+TRANSACTION,3017,010003061,13,23.0000,299.00," Level: 10 : Koski, Duane",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003061,15,61.0000,915.00,"Basic Service Fee - Studio for May: Koski, Duane",,,,,,,,,,,,,,,
+INVOICE,CM,,06110138,,05/15/2018,1891,"Invoice-Private",,05/15/2018,05/15/2018,,06115758MO,-677.0000,,,,,,,,,,
+TRANSACTION,3020,010003061,1,1891,1891,"CR:Basic Service F... D.Koski 201805: Koski, Duane",,,,,,,,,,,,,,,

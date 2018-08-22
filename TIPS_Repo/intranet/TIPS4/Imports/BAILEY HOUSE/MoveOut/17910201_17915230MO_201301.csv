@@ -1,0 +1,6 @@
+BATCH,,201301,B,4247.0000,
+INVOICE,IN,,17910201,,01/01/2013,837.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17915230MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,837.0000,837.00,"CR:Limited Term Di... B.Bradley 201301: Bradley, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,17910201,,01/01/2013,3410,"Invoice-Private",,01/01/2013,01/10/2013,,17915230MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3027,010313179,1,868,868,"CR:Resident Care -... B.Bradley 201301: Bradley, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Room and Board ... B.Bradley 201301: Bradley, Barbara",,,,,,,,,,,,,,,

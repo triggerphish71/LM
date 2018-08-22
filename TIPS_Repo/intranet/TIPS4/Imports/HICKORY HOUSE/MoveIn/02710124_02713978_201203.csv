@@ -1,0 +1,6 @@
+BATCH,,201203,B,1821.0000,
+INVOICE,IN,,02710124,,03/30/2012,1821.0000,"MoveIn-Abbe. Berta",,03/30/2012,03/30/2012,,02713978,6286.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,2,116.0000,232,"Basic Service Fee - One Bedroom: Abbe. Berta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202027,2,32.0000,64,"Resident Care - Level 2: Abbe. Berta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Abbe. Berta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Abbe. Berta",,,,,,,,,,,,,,,

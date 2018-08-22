@@ -1,0 +1,8 @@
+BATCH,,201210,B,10324.0000,
+INVOICE,IN,,07310232,,10/21/2012,4600.0000,"Invoice-Private",,10/21/2012,10/21/2012,,07315840MO,-6664.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,25,97.0000,2425.00,"Basic Service Fee - Studio for Oct: Arthur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,25,87.0000,2175.00,"Resident Care - Level 6 for Oct: Arthur, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,07310232,,10/21/2012,5724,"Invoice-Private",,10/21/2012,10/21/2012,,07315840MO,-6664.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... M.Arthur 201210: Arthur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... M.Arthur 201210: Arthur, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2697,2697,"CR:Resident Care -... M.Arthur 201210: Arthur, Mary",,,,,,,,,,,,,,,

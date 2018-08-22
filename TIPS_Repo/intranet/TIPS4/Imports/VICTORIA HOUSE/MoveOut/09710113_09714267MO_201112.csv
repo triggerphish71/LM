@@ -1,0 +1,8 @@
+BATCH,,201112,B,3936.4000,
+INVOICE,IN,,09710113,,12/03/2011,771.3000,"Invoice-Private",,12/03/2011,12/03/2011,,09714267MO,-2393.8000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,465.0000,465.00,"CR:Limited Term Di... K.Stone 201112: Stone, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,3,97.0000,291.00,"Basic Service Fee - Studio for Dec: Stone, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,3,5.1000,15.30,"Resident Care - Level 3 for Dec: Stone, Kathryn",,,,,,,,,,,,,,,
+INVOICE,CM,,09710113,,12/03/2011,3165.1,"Invoice-Private",,12/03/2011,12/03/2011,,09714267MO,-2393.8000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,3007,3007,"CR:Basic Service F... K.Stone 201112: Stone, Kathryn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,158.1,158.1,"CR:Resident Care -... K.Stone 201112: Stone, Kathryn",,,,,,,,,,,,,,,

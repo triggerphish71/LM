@@ -1,0 +1,7 @@
+BATCH,,201209,B,1914.0000,
+INVOICE,IN,,03610299,,09/01/2012,957.0000,"Invoice-Private",,09/01/2012,09/10/2012,,03615212MO,642.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27.00,"Monthly Cable: Pruden, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,30,31.0000,930.00,"Credit for Limited Term Discount: Pruden, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,03610299,,09/01/2012,957,"Invoice-Private",,09/01/2012,09/10/2012,,03615212MO,642.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"Credit for Monthly Cable: Pruden, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202036,30,31,930,"Limited Term Discount: Pruden, Alice",,,,,,,,,,,,,,,

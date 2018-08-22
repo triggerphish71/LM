@@ -1,0 +1,6 @@
+BATCH,,201211,B,1875.0000,
+INVOICE,IN,,17510279,,11/14/2012,1125.0000,"Invoice-Private",,11/14/2012,11/14/2012,,17517787MO,375.0000,,,,,,,,,,
+TRANSACTION,3321,010202175,1,750.0000,750.00,"CR:2nd Resident Fr... J.Migliacco 201211: Migliacco, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,15,25.0000,375.00,"Basic Service Fee - Second Resident for Nov: Migliacco, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,17510279,,11/14/2012,750,"Invoice-Private",,11/14/2012,11/14/2012,,17517787MO,375.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,750,750,"CR:Basic Service F... J.Migliacco 201211: Migliacco, Jeanne",,,,,,,,,,,,,,,

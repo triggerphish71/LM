@@ -1,0 +1,7 @@
+BATCH,,201204,B,3314.0000,
+INVOICE,IN,,17810334,,04/07/2012,669.0000,"Invoice-Private",,04/07/2012,04/07/2012,,17816013MO,-1976.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,60.0000,60.00,"CR:Limited Term Di... B.Arnold 201204: Arnold, Boyd",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,7,87.0000,609.00,"Basic Service Fee - Studio for Apr: Arnold, Boyd",,,,,,,,,,,,,,,
+INVOICE,CM,,17810334,,04/07/2012,2645,"Invoice-Private",,04/07/2012,04/07/2012,,17816013MO,-1976.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2610,2610,"CR:Basic Service F... B.Arnold 201204: Arnold, Boyd",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... B.Arnold 201204: Arnold, Boyd",,,,,,,,,,,,,,,

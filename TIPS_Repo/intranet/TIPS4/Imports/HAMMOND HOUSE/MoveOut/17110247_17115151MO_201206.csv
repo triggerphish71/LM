@@ -1,0 +1,6 @@
+BATCH,,201206,B,2370.0000,
+INVOICE,IN,,17110247,,06/01/2012,930.0000,"Invoice-Private",,06/01/2012,06/10/2012,,17115151MO,-510.0000,,,,,,,,,,
+TRANSACTION,3321,010308171,1,930.0000,930.00,"CR:2nd Resident Fr... M.Albanese 201206: Albanese, Midge",,,,,,,,,,,,,,,
+INVOICE,CM,,17110247,,06/01/2012,1440,"Invoice-Private",,06/01/2012,06/10/2012,,17115151MO,-510.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,930,930,"CR:Basic Service F... M.Albanese 201206: Albanese, Midge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... M.Albanese 201206: Albanese, Midge",,,,,,,,,,,,,,,

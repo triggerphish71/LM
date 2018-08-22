@@ -1,0 +1,7 @@
+BATCH,,201112,B,3362.0000,
+INVOICE,IN,,12510201,,12/10/2011,820.0000,"Invoice-Private",,12/10/2011,12/10/2011,,12514120MO,-1722.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,10,36.0000,360.00,"Basic Service Fee - Second Resident for Dec: Gottsch, Art",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,10,46.0000,460.00,"Resident Care - Level 3 for Dec: Gottsch, Art",,,,,,,,,,,,,,,
+INVOICE,CM,,12510201,,12/10/2011,2542,"Invoice-Private",,12/10/2011,12/10/2011,,12514120MO,-1722.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,1116,1116,"CR:Basic Service F... A.Gottsch 201112: Gottsch, Art",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1426,1426,"CR:Resident Care -... A.Gottsch 201112: Gottsch, Art",,,,,,,,,,,,,,,

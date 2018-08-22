@@ -1,0 +1,5 @@
+BATCH,,201204,B,3510.0000,
+INVOICE,IN,,11710237,,04/01/2012,3510.0000,"April_Rent-Dress. Katie",,04/01/2012,04/10/2012,,11713769,5004.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,30,86.0000,2580,"Basic Service Fee - Studio: Dress. Katie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,30,30.0000,900,"Resident Care - Level 2: Dress. Katie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Dress. Katie",,,,,,,,,,,,,,,

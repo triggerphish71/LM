@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,14910107,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,14915015MO,-4425.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Mohr, Delores",,,,,,,,,,,,,,,
+INVOICE,CM,,14910107,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,14915015MO,-4425.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Mohr, Delores",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201206,B,7508.0000,
+INVOICE,IN,,17110250,,06/26/2012,3518.0000,"Invoice-Private",,06/26/2012,06/26/2012,,17115197MO,-4006.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,60.0000,60.00,"CR:Limited Term Di... J.Carter 201206: Carter, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,26,116.0000,3016.00,"Basic Service Fee - One Bedroom for Jun: Carter, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,26,17.0000,442.00,"Resident Care - Level 1 for Jun: Carter, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17110250,,06/26/2012,3990,"Invoice-Private",,06/26/2012,06/26/2012,,17115197MO,-4006.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3480,3480,"CR:Basic Service F... J.Carter 201206: Carter, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... J.Carter 201206: Carter, James",,,,,,,,,,,,,,,

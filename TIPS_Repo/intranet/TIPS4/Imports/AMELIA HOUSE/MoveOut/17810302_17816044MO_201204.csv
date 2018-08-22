@@ -1,0 +1,6 @@
+BATCH,,201204,B,5085.0000,
+INVOICE,IN,,17810302,,04/20/2012,2020.0000,"Invoice-Private",,04/20/2012,04/20/2012,,17816044MO,-4211.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,20,101.0000,2020.00,"Basic Service Fee - One Bedroom for Apr: Scott, Avis",,,,,,,,,,,,,,,
+INVOICE,CM,,17810302,,04/20/2012,3065,"Invoice-Private",,04/20/2012,04/20/2012,,17816044MO,-4211.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,3030,3030,"CR:Basic Service F... A.Scott 201204: Scott, Avis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... A.Scott 201204: Scott, Avis",,,,,,,,,,,,,,,

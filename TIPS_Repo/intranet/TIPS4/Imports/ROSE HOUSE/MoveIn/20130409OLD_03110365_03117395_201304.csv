@@ -1,0 +1,5 @@
+BATCH,,201304,B,3205.0000,
+INVOICE,IN,,03110365,,04/09/2013,3205.0000,"MoveIn-Ferrett. Dorothy",,04/09/2013,04/09/2013,,03117395,3205.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,22,99.0000,2178,"Basic Service Fee - Studio: Ferrett. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Ferrett. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,1000.0000,1000,"New Resident Fee: Ferrett. Dorothy",,,,,,,,,,,,,,,

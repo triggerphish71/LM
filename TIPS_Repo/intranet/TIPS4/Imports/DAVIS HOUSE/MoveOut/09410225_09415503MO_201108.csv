@@ -1,0 +1,5 @@
+BATCH,,201108,B,1240.0000,
+INVOICE,IN,,09410225,,08/01/2011,620.0000,"Invoice-Private",,08/01/2011,08/10/2011,,09415503MO,-7470.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,31,20.0000,620.00,"Credit for Limited Term Discount: Miskevich, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,09410225,,08/01/2011,620,"Invoice-Private",,08/01/2011,08/10/2011,,09415503MO,-7470.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,31,20,620,"Limited Term Discount: Miskevich, Sylvia",,,,,,,,,,,,,,,

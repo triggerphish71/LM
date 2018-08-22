@@ -1,0 +1,5 @@
+BATCH,,201203,B,347.2000,
+INVOICE,IN,,20810014,,03/01/2012,173.6000,"Invoice-Private",,03/01/2012,03/10/2012,,20813017MO,-2687.6000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,5.6000,173.60,"Credit for Limited Term Discount: Cline, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,20810014,,03/01/2012,173.6,"Invoice-Private",,03/01/2012,03/10/2012,,20813017MO,-2687.6000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,5.6,173.6,"Limited Term Discount: Cline, Lawrence",,,,,,,,,,,,,,,

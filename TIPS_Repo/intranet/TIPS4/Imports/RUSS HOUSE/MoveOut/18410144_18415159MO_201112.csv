@@ -1,0 +1,8 @@
+BATCH,,201112,B,5511.0000,
+INVOICE,IN,,18410144,,12/01/2011,2573.0000,"Invoice-Private",,12/01/2011,12/10/2011,,18415159MO,-365.0000,,,,,,,,,,
+TRANSACTION,3320,010313184,1,62.0000,62.00,"CR:Limited Term Di... A.Lautigar 201112: Lautigar, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313184,27,93.0000,2511.00,"Basic Service Fee - Studio for Dec: Lautigar, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,18410144,,12/01/2011,2938,"Invoice-Private",,12/01/2011,12/10/2011,,18415159MO,-365.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2883,2883,"CR:Basic Service F... A.Lautigar 201112: Lautigar, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313184,1,25,25,"CR:Monthly Cable... A.Lautigar 201112: Lautigar, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010313184,1,30,30,"CR:Pendant Fee... A.Lautigar 201112: Lautigar, Albert",,,,,,,,,,,,,,,

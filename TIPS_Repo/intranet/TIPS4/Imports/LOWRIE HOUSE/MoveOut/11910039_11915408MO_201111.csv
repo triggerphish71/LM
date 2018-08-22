@@ -1,0 +1,7 @@
+BATCH,,201111,B,172.0000,
+INVOICE,IN,,11910039,,11/01/2011,86.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11915408MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Moser, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,30,2.0000,60.00,"Credit for Limited Term Discount: Moser, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,11910039,,11/01/2011,86,"Invoice-Private",,11/01/2011,11/10/2011,,11915408MO,-2464.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Moser, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,30,2,60,"Limited Term Discount: Moser, Ruth",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,370.0000,
+INVOICE,IN,,13310310,,06/01/2011,185.0000,"Invoice-Private",,06/01/2011,06/10/2011,,13314914MO,-702.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Miller, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,5.0000,150.00,"Credit for Limited Term Discount: Miller, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,13310310,,06/01/2011,185,"Invoice-Private",,06/01/2011,06/10/2011,,13314914MO,-702.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Miller, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,5,150,"Limited Term Discount: Miller, Grace",,,,,,,,,,,,,,,

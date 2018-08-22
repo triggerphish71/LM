@@ -1,0 +1,8 @@
+BATCH,,201107,B,4817.0000,
+INVOICE,IN,,51910136,,07/07/2011,885.5000,"Invoice-Private",,07/07/2011,07/07/2011,,51913142MO,-3046.0000,,,,,,,,,,
+TRANSACTION,3027,010103519,7,42.5000,297.50,"Resident Care - Level 25 for Jul: Zorn, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,7,84.0000,588.00,"Room and Board - Studio for Jul: Zorn, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,51910136,,07/07/2011,3931.5,"Invoice-Private",,07/07/2011,07/07/2011,,51913142MO,-3046.0000,,,,,,,,,,
+TRANSACTION,3130,010103519,1,10,10,"CR:Pendant Fee... J.Zorn 201107: Zorn, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,1317.5,1317.5,"CR:Resident Care -... J.Zorn 201107: Zorn, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2604,2604,"CR:Room and Board ... J.Zorn 201107: Zorn, Joyce",,,,,,,,,,,,,,,

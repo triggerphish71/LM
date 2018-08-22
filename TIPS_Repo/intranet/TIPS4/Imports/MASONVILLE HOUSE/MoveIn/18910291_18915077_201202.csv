@@ -1,0 +1,6 @@
+BATCH,,201202,B,3389.0000,
+INVOICE,IN,,18910291,,02/01/2012,3389.0000,"February_Rent-Strauss. Thomas",,02/01/2012,02/10/2012,,18915077,6306.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,29,89.0000,2581,"Basic Service Fee - Studio: Strauss. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,29,17.0000,493,"Resident Care - Level 1: Strauss. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Strauss. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,29,10.0000,290,"CC Meals: Strauss. Thomas",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201206,B,5081.0000,
+INVOICE,IN,,21210195,,06/14/2012,1596.0000,"Invoice-Private",,06/14/2012,06/14/2012,,21212534MO,-1889.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,14,22.0000,308.00,"Resident Care - Level 2 for Jun: Workman, Elinor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,14,92.0000,1288.00,"Studio Deluxe for Jun: Workman, Elinor",,,,,,,,,,,,,,,
+INVOICE,CM,,21210195,,06/14/2012,3485,"Invoice-Private",,06/14/2012,06/14/2012,,21212534MO,-1889.0000,,,,,,,,,,
+TRANSACTION,3250,010208212,1,65,65,"CR:Guest Meal... E.Workman 201206: Workman, Elinor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,660,660,"CR:Resident Care -... E.Workman 201206: Workman, Elinor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... E.Workman 201206: Workman, Elinor",,,,,,,,,,,,,,,

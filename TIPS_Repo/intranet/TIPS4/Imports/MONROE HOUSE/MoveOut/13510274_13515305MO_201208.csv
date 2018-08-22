@@ -1,0 +1,7 @@
+BATCH,,201208,B,4401.0000,
+INVOICE,IN,,13510274,,08/01/2012,1085.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13515305MO,-1918.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,1085.0000,1085.00,"CR:Limited Term Di... D.Stogsdill 201208: Stogsdill, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,13510274,,08/01/2012,3316,"Invoice-Private",,08/01/2012,08/10/2012,,13515305MO,-1918.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2790,2790,"CR:Basic Service F... D.Stogsdill 201208: Stogsdill, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... D.Stogsdill 201208: Stogsdill, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,496,496,"CR:Resident Care -... D.Stogsdill 201208: Stogsdill, Delbert",,,,,,,,,,,,,,,

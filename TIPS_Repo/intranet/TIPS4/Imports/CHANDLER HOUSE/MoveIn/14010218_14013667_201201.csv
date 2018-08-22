@@ -1,0 +1,5 @@
+BATCH,,201201,B,4401.0000,
+INVOICE,IN,,14010218,,01/01/2012,4401.0000,"January_Rent-Perrine. Patricia",,01/01/2012,01/10/2012,,14013667,7200.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,31,88.0000,2728,"Basic Service Fee - Studio: Perrine. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,31,53.0000,1643,"Resident Care - Level 4: Perrine. Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Perrine. Patricia",,,,,,,,,,,,,,,

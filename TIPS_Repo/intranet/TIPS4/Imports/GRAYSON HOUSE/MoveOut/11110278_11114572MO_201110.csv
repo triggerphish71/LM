@@ -1,0 +1,8 @@
+BATCH,,201110,B,9358.0000,
+INVOICE,IN,,11110278,,10/01/2011,4590.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11114572MO,822.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,30,109.0000,3270.00,"Basic Service Fee - One Bedroom for Oct: Moore, Annemarie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,30,44.0000,1320.00,"Resident Care - Level 3 for Oct: Moore, Annemarie",,,,,,,,,,,,,,,
+INVOICE,CM,,11110278,,10/01/2011,4768,"Invoice-Private",,10/01/2011,10/10/2011,,11114572MO,822.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3379,3379,"CR:Basic Service F... A.Moore 201110: Moore, Annemarie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... A.Moore 201110: Moore, Annemarie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1364,1364,"CR:Resident Care -... A.Moore 201110: Moore, Annemarie",,,,,,,,,,,,,,,

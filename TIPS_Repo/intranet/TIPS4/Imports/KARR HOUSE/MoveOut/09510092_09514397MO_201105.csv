@@ -1,0 +1,6 @@
+BATCH,,201105,B,3512.4000,
+INVOICE,IN,,09510092,,05/22/2011,493.0000,"Invoice-Medicaid",,05/22/2011,05/22/2011,,09514397MO,-5243.8000,,,,,,,,,,
+TRANSACTION,3021,010103095,25,19.7200,493.00,"Medicaid Co-Pay for May: Ashenbrenner, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,09510092,,05/22/2011,3019.4,"Invoice-Medicaid",,05/22/2011,05/22/2011,,09514397MO,-5243.8000,,,,,,,,,,
+TRANSACTION,3021,010103095,1,611.21,611.21,"CR:Medicaid Co-Pay... M.Ashenbrenner 201105: Ashenbrenner, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103095,1,2408.19,2408.19,"CR:State Medicaid... M.Ashenbrenner 201105: Ashenbrenner, Marguerite",,,,,,,,,,,,,,,

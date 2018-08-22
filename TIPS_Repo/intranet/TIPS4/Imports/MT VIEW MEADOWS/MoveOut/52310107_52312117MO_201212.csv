@@ -1,0 +1,5 @@
+BATCH,,201212,B,1054.0000,
+INVOICE,IN,,52310107,,12/01/2012,527.0000,"Invoice-Private",,12/01/2012,12/10/2012,,52312117MO,-2145.3600,,,,,,,,,,
+TRANSACTION,3320,010103523,31,17.0000,527.00,"Credit for Limited Term Discount: Roath, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,52310107,,12/01/2012,527,"Invoice-Private",,12/01/2012,12/10/2012,,52312117MO,-2145.3600,,,,,,,,,,
+TRANSACTION,3320,010103523,31,17,527,"Limited Term Discount: Roath, Robert",,,,,,,,,,,,,,,

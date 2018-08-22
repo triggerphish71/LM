@@ -1,0 +1,7 @@
+BATCH,,201203,B,2596.0000,
+INVOICE,IN,,08010206,,03/01/2012,1298.0000,"Invoice-Private",,03/01/2012,03/10/2012,,08014045MO,412.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27.00,"Monthly Cable: Miller, Ira",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,41.0000,1271.00,"Credit for Limited Term Discount: Miller, Ira",,,,,,,,,,,,,,,
+INVOICE,CM,,08010206,,03/01/2012,1298,"Invoice-Private",,03/01/2012,03/10/2012,,08014045MO,412.0000,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"Credit for Monthly Cable: Miller, Ira",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202080,31,41,1271,"Limited Term Discount: Miller, Ira",,,,,,,,,,,,,,,

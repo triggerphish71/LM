@@ -1,0 +1,7 @@
+BATCH,,201207,B,3964.0000,
+INVOICE,IN,,00810244,,07/01/2012,868.0000,"Invoice-Private",,07/01/2012,07/10/2012,,00814760MO,-2228.0000,,,,,,,,,,
+TRANSACTION,3320,010202008,1,868.0000,868.00,"CR:Limited Term Di... C.Jack 201207: Jack, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,00810244,,07/01/2012,3096,"Invoice-Private",,07/01/2012,07/10/2012,,00814760MO,-2228.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,2573,2573,"CR:Basic Service F... C.Jack 201207: Jack, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... C.Jack 201207: Jack, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,496,496,"CR:Resident Care -... C.Jack 201207: Jack, Charles",,,,,,,,,,,,,,,

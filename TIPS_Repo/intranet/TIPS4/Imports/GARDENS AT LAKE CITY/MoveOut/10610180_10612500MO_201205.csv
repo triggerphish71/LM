@@ -1,0 +1,5 @@
+BATCH,,201205,B,186.0000,
+INVOICE,IN,,10610180,,05/01/2012,93.0000,"Invoice-Private",,05/01/2012,05/10/2012,,10612500MO,-4735.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,31,3.0000,93.00,"Credit for Limited Term Discount: Schanlaub, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,10610180,,05/01/2012,93,"Invoice-Private",,05/01/2012,05/10/2012,,10612500MO,-4735.0000,,,,,,,,,,
+TRANSACTION,3320,010309106,31,3,93,"Limited Term Discount: Schanlaub, Don",,,,,,,,,,,,,,,

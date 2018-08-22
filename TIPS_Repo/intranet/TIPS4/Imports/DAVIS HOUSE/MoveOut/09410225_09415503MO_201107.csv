@@ -1,0 +1,6 @@
+BATCH,,201107,B,6727.0000,
+INVOICE,IN,,09410225,,07/01/2011,620.0000,"Invoice-Private",,07/01/2011,07/10/2011,,09415503MO,-7470.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,620.0000,620.00,"CR:Limited Term Di... S.Miskevich 201107: Miskevich, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,09410225,,07/01/2011,6107,"Invoice-Private",,07/01/2011,07/10/2011,,09415503MO,-7470.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3472,3472,"CR:Basic Service F... S.Miskevich 201107: Miskevich, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2635,2635,"CR:Resident Care -... S.Miskevich 201107: Miskevich, Sylvia",,,,,,,,,,,,,,,

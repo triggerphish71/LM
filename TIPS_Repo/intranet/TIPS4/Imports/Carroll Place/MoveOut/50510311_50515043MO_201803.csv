@@ -1,0 +1,7 @@
+BATCH,,201803,B,5236.0000,
+INVOICE,IN,,50510311,,03/13/2018,1547.0000,"Invoice-Private",,03/13/2018,03/13/2018,,50515043MO,-5712.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,13,86.0000,1118.00,"Basic Service Fee - Studio  for Mar: Moore, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,13,33.0000,429.00,"Resident Care - Level 2  for Mar: Moore, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,50510311,,03/13/2018,3689,"Invoice-Private",,03/13/2018,03/13/2018,,50515043MO,-5712.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2666,2666,"CR:Basic Service F... C.Moore 201803: Moore, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,1023,1023,"CR:Resident Care -... C.Moore 201803: Moore, Clarence",,,,,,,,,,,,,,,

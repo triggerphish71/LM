@@ -1,0 +1,6 @@
+BATCH,,201203,B,3915.0000,
+INVOICE,IN,,14810231,,03/04/2012,444.0000,"Invoice-Private",,03/04/2012,03/04/2012,,14814872MO,-3027.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,4,111.0000,444.00,"Basic Service Fee - One Bedroom for Mar: Garner, Julia",,,,,,,,,,,,,,,
+INVOICE,CM,,14810231,,03/04/2012,3471,"Invoice-Private",,03/04/2012,03/04/2012,,14814872MO,-3027.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,3441,3441,"CR:Basic Service F... J.Garner 201203: Garner, Julia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... J.Garner 201203: Garner, Julia",,,,,,,,,,,,,,,

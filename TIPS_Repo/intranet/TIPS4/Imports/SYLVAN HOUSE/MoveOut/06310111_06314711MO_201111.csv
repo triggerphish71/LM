@@ -1,0 +1,7 @@
+BATCH,,201111,B,1935.2000,
+INVOICE,IN,,06310111,,11/01/2011,967.6000,"Invoice-Medicaid",,11/01/2011,11/10/2011,,06314711MO,-1300.4200,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25.00,"Monthly Cable: FranzLuebbers, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104063,1,942.6000,942.60,"State Medicaid: FranzLuebbers, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,06310111,,11/01/2011,967.6,"Invoice-Medicaid",,11/01/2011,11/10/2011,,06314711MO,-1300.4200,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"Credit for Monthly Cable: FranzLuebbers, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104063,1,942.6,942.6,"Credit for State Medicaid: FranzLuebbers, Catherine",,,,,,,,,,,,,,,

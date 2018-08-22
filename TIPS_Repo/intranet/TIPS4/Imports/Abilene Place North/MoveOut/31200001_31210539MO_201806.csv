@@ -1,0 +1,7 @@
+BATCH,,201806,B,884.0200,
+INVOICE,IN,,31200001,,06/01/2018,28.5100,"Invoice-Medicaid",,06/01/2018,06/01/2018,,31210539MO,-827.0000,,,,,,,,,,
+TRANSACTION,3021,070024312,1,7.7200,7.72,"Medicaid Copay for Jun: Ayre, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3021,070024312,1,20.7900,20.79,"Medicaid Private BSF for Jun: Ayre, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,31200001,,06/01/2018,855.51,"Invoice-Medicaid",,06/01/2018,06/01/2018,,31210539MO,-827.0000,,,,,,,,,,
+TRANSACTION,3021,070024312,1,231.74,231.74,"CR:Medicaid Copay... G.Ayre 201806: Ayre, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3021,070024312,1,623.77,623.77,"CR:Medicaid Privat... G.Ayre 201806: Ayre, Grace",,,,,,,,,,,,,,,

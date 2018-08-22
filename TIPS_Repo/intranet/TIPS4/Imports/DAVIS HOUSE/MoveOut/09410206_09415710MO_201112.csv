@@ -1,0 +1,7 @@
+BATCH,,201112,B,6127.0000,
+INVOICE,IN,,09410206,,12/01/2011,930.0000,"Invoice-Private",,12/01/2011,12/10/2011,,09415710MO,-4267.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,930.0000,930.00,"CR:Limited Term Di... J.Galbo 201112: Galbo, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,09410206,,12/01/2011,5197,"Invoice-Private",,12/01/2011,12/10/2011,,09415710MO,-4267.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2945,2945,"CR:Basic Service F... J.Galbo 201112: Galbo, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,2232,2232,"CR:Resident Care -... J.Galbo 201112: Galbo, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3228,010107094,1,20,20,"CR:Sharps Disposal... J.Galbo 201112: Galbo, Joseph",,,,,,,,,,,,,,,

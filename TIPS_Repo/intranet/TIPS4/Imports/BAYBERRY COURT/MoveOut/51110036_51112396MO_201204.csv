@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,51110036,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,51112396MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,30,2.0000,60.00,"Credit for Limited Term Discount: Truiak, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,51110036,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,51112396MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3320,010310511,30,2,60,"Limited Term Discount: Truiak, Grace",,,,,,,,,,,,,,,

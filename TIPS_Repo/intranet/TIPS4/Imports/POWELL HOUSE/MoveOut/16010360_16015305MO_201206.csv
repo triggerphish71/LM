@@ -1,0 +1,5 @@
+BATCH,,201206,B,1770.0000,
+INVOICE,IN,,16010360,,06/29/2012,870.0000,"Invoice-Private",,06/29/2012,06/29/2012,,16015305MO,-960.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,29,30.0000,870.00,"Basic Service Fee - Second Resident for Jun: Temple, Vera",,,,,,,,,,,,,,,
+INVOICE,CM,,16010360,,06/29/2012,900,"Invoice-Private",,06/29/2012,06/29/2012,,16015305MO,-960.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,900,900,"CR:Basic Service F... V.Temple 201206: Temple, Vera",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,5162.0000,
+INVOICE,IN,,14610236,,10/01/2011,2403.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14614211MO,-356.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,27,89.0000,2403.00,"Basic Service Fee - Studio for Oct: Bozewicz, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,14610236,,10/01/2011,2759,"Invoice-Private",,10/01/2011,10/10/2011,,14614211MO,-356.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2759,2759,"CR:Basic Service F... M.Bozewicz 201110: Bozewicz, Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,5367.0000,
+INVOICE,IN,,13010036,,04/01/2012,390.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13015658MO,-6521.0000,,,,,,,,,,
+TRANSACTION,3039,010310130,1,390.0000,390.00,"CR:Private Care Da... R.Dudgeon 201204: Dudgeon, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,13010036,,04/01/2012,4977,"Invoice-Private",,04/01/2012,04/10/2012,,13015658MO,-6521.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3060,3060,"CR:Basic Service F... R.Dudgeon 201204: Dudgeon, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... R.Dudgeon 201204: Dudgeon, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1890,1890,"CR:Resident Care -... R.Dudgeon 201204: Dudgeon, Ruth",,,,,,,,,,,,,,,

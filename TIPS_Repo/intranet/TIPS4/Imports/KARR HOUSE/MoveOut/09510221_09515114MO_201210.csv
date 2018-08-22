@@ -1,0 +1,5 @@
+BATCH,,201210,B,992.0000,
+INVOICE,IN,,09510221,,10/01/2012,496.0000,"Invoice-Private",,10/01/2012,10/10/2012,,09515114MO,-2830.1600,,,,,,,,,,
+TRANSACTION,3320,010103095,31,16.0000,496.00,"Credit for Limited Term Discount: Moore, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,09510221,,10/01/2012,496,"Invoice-Private",,10/01/2012,10/10/2012,,09515114MO,-2830.1600,,,,,,,,,,
+TRANSACTION,3320,010103095,31,16,496,"Limited Term Discount: Moore, Ray",,,,,,,,,,,,,,,

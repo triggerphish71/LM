@@ -1,0 +1,7 @@
+BATCH,,201804,B,13216.0000,
+INVOICE,IN,,06610279,,04/29/2018,6496.0000,"Invoice-Private",,04/29/2018,04/29/2018,,06617621MO,-224.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,29,129.0000,3741.00,"Basic Service Fee - Studio  for Apr: Farell, Margert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,29,95.0000,2755.00,"Resident Care - Level 5  for Apr: Farell, Margert",,,,,,,,,,,,,,,
+INVOICE,CM,,06610279,,04/29/2018,6720,"Invoice-Private",,04/29/2018,04/29/2018,,06617621MO,-224.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,1,3870,3870,"CR:Basic Service F... M.Farell 201804: Farell, Margert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,1,2850,2850,"CR:Resident Care -... M.Farell 201804: Farell, Margert",,,,,,,,,,,,,,,

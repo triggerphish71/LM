@@ -1,0 +1,8 @@
+BATCH,,201106,B,5461.0000,
+INVOICE,IN,,53510179,,06/06/2011,906.0000,"Invoice-Private",,06/06/2011,06/06/2011,,53513793MO,-3649.0000,,,,,,,,,,
+TRANSACTION,3027,010319535,6,54.0000,324.00,"Resident Care - Level 4 for Jun: Burrows, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319535,6,97.0000,582.00,"Room and Board - One Bedroom Deluxe for Jun: Burrows, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,53510179,,06/06/2011,4555,"Invoice-Private",,06/06/2011,06/06/2011,,53513793MO,-3649.0000,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... H.Burrows 201106: Burrows, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1620,1620,"CR:Resident Care -... H.Burrows 201106: Burrows, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2910,2910,"CR:Room and Board ... H.Burrows 201106: Burrows, Helen",,,,,,,,,,,,,,,

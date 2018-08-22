@@ -1,0 +1,6 @@
+BATCH,,201202,B,5210.0000,
+INVOICE,IN,,02411301,,02/01/2012,5210.0000,"MoveIn-Smith. Murlene",,02/01/2012,02/01/2012,,02415580,5210.0000,,,,,,,,,,
+TRANSACTION,3010,010202024,29,111.0000,3219,"Basic Service Fee - One Bedroom: Smith. Murlene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202024,29,16.0000,464,"Resident Care - Level 1: Smith. Murlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27,"Monthly Cable: Smith. Murlene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202024,1,1500.0000,1500,"New Resident Fee: Smith. Murlene",,,,,,,,,,,,,,,

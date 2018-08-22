@@ -1,0 +1,8 @@
+BATCH,,201110,B,5396.0000,
+INVOICE,IN,,19810064,,10/30/2011,2737.0000,"Invoice-Private",,10/30/2011,10/30/2011,,19816717MO,-2287.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,217.0000,217.00,"CR:Limited Term Di... C.Steger 201110: Steger, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,30,84.0000,2520.00,"Basic Service Fee IL - Two Bedroom B for Oct: Steger, Cleo",,,,,,,,,,,,,,,
+INVOICE,CM,,19810064,,10/30/2011,2659,"Invoice-Private",,10/30/2011,10/30/2011,,19816717MO,-2287.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2604,2604,"CR:Basic Service F... C.Steger 201110: Steger, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... C.Steger 201110: Steger, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3299,010112198,1,25,25,"CR:Storage Unit... C.Steger 201110: Steger, Cleo",,,,,,,,,,,,,,,

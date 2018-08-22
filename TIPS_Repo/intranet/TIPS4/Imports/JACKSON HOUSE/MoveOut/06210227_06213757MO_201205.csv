@@ -1,0 +1,8 @@
+BATCH,,201205,B,6661.5100,
+INVOICE,IN,,06210227,,05/01/2012,3027.1800,"Invoice-Private",,05/01/2012,05/10/2012,,06213757MO,-607.1500,,,,,,,,,,
+TRANSACTION,3027,010101062,26,30.4300,791.18,"Resident Care - Level 17 for May: Nordquist, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101062,26,86.0000,2236.00,"Room and Board - Studio for May: Nordquist, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,06210227,,05/01/2012,3634.33,"Invoice-Private",,05/01/2012,05/10/2012,,06213757MO,-607.1500,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"CR:Monthly Cable... R.Nordquist 201205: Nordquist, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,943.33,943.33,"CR:Resident Care -... R.Nordquist 201205: Nordquist, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2666,2666,"CR:Room and Board ... R.Nordquist 201205: Nordquist, Richard",,,,,,,,,,,,,,,

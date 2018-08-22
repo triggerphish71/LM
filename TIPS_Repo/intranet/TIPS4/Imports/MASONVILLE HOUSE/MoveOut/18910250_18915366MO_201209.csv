@@ -1,0 +1,7 @@
+BATCH,,201209,B,1920.0000,
+INVOICE,IN,,18910250,,09/01/2012,960.0000,"Invoice-Private",,09/01/2012,09/10/2012,,18915366MO,-1748.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300.00,"CC Meals: Friend, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,22.0000,660.00,"Credit for Limited Term Discount: Friend, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,18910250,,09/01/2012,960,"Invoice-Private",,09/01/2012,09/10/2012,,18915366MO,-1748.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10,300,"Credit for CC Meals: Friend, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,22,660,"Limited Term Discount: Friend, Patricia",,,,,,,,,,,,,,,

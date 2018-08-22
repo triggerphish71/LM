@@ -1,0 +1,6 @@
+BATCH,,201801,B,2804.8500,
+INVOICE,IN,,00110249,,01/05/2018,665.8500,"Invoice-Private",,01/05/2018,01/05/2018,,00115047MO,-1473.1500,,,,,,,,,,
+TRANSACTION,3316,010001001,1,320.8500,320.85,"CR:Employee Discou... J.Maxwell 201801: Maxwell, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010001001,5,69.0000,345.00,"Basic Service Fee - IL Studio  for Jan: Maxwell, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,00110249,,01/05/2018,2139,"Invoice-Private",,01/05/2018,01/05/2018,,00115047MO,-1473.1500,,,,,,,,,,
+TRANSACTION,3020,010001001,1,2139,2139,"CR:Basic Service F... J.Maxwell 201801: Maxwell, Jean",,,,,,,,,,,,,,,

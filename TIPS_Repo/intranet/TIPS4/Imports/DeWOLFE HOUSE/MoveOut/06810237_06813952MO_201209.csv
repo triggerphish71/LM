@@ -1,0 +1,7 @@
+BATCH,,201209,B,7956.0000,
+INVOICE,IN,,06810237,,09/21/2012,3276.0000,"Invoice-Private",,09/21/2012,09/21/2012,,06813952MO,-5527.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,21,93.0000,1953.00,"P.Worcester: Basic Service Fee - Deluxe for Sep: Worcester, Perry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,21,63.0000,1323.00,"P.Worcester: Resident Care - Level 4 for Sep: Worcester, Perry",,,,,,,,,,,,,,,
+INVOICE,CM,,06810237,,09/21/2012,4680,"Invoice-Private",,09/21/2012,09/21/2012,,06813952MO,-5527.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2790,2790,"CR:P.Worcester: Ba... P.Worcester 201209: Worcester, Perry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,1890,1890,"CR:P.Worcester: Re... P.Worcester 201209: Worcester, Perry",,,,,,,,,,,,,,,

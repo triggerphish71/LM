@@ -1,0 +1,8 @@
+BATCH,,201304,B,5645.0000,
+INVOICE,IN,,21610181,,04/01/2013,1875.0000,"Invoice-Private",,04/01/2013,04/10/2013,,21614095MO,-5790.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,15,22.0000,330.00,"Resident Care - Level 2 for Apr: Utermark, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,15,103.0000,1545.00,"Room and Board - One Bedroom for Apr: Utermark, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,21610181,,04/01/2013,3770,"Invoice-Private",,04/01/2013,04/10/2013,,21614095MO,-5790.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... B.Utermark 201304: Utermark, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,660,660,"CR:Resident Care -... B.Utermark 201304: Utermark, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3090,3090,"CR:Room and Board ... B.Utermark 201304: Utermark, Betty",,,,,,,,,,,,,,,

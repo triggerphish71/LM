@@ -1,0 +1,8 @@
+BATCH,,201205,B,4848.0000,
+INVOICE,IN,,52610148,,05/01/2012,292.0000,"Invoice-Private",,05/01/2012,05/10/2012,,52616821MO,-4264.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,2,108.0000,216.00,"Basic Service Fee - Two Bedroom for May: Noe, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,2,38.0000,76.00,"Resident Care - Level 1 for May: Noe, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,52610148,,05/01/2012,4556,"Invoice-Private",,05/01/2012,05/10/2012,,52616821MO,-4264.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3348,3348,"CR:Basic Service F... L.Noe 201205: Noe, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"CR:Garage Rental... L.Noe 201205: Noe, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1178,1178,"CR:Resident Care -... L.Noe 201205: Noe, Lillian",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,4565.0000,
+INVOICE,IN,,07810241,,01/02/2012,4565.0000,"MoveIn-Crooke. Bob",,01/02/2012,01/02/2012,,07814437,4565.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,30,89.0000,2670,"B.Crooke: Basic Service Fee - Studio: Crooke. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,30,29.0000,870,"B.Crooke: Resident Care - Level 2: Crooke. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Crooke. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104078,1,1000.0000,1000,"New Resident Fee: Crooke. Bob",,,,,,,,,,,,,,,

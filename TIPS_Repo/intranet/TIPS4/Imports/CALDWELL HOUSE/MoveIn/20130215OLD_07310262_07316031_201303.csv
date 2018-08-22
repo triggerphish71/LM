@@ -1,0 +1,5 @@
+BATCH,,201303,B,5414.0000,
+INVOICE,IN,,07310262,,03/01/2013,5414.0000,"March_Rent-Hunter. Alice",,03/01/2013,03/10/2013,,07316031,9870.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,31,97.0000,3007,"Basic Service Fee - Studio: Hunter. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,31,77.0000,2387,"Resident Care - Level 5: Hunter. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Hunter. Alice",,,,,,,,,,,,,,,

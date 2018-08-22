@@ -1,0 +1,7 @@
+BATCH,,201110,B,4777.5000,
+INVOICE,IN,,13910190,,10/08/2011,980.0000,"Invoice-Private",,10/08/2011,10/08/2011,,13915845MO,-2817.5000,,,,,,,,,,
+TRANSACTION,3020,010103139,8,97.0000,776.00,"Basic Service Fee - Studio for Oct: Larson, Helmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,8,25.5000,204.00,"Resident Care - Level 15 for Oct: Larson, Helmer",,,,,,,,,,,,,,,
+INVOICE,CM,,13910190,,10/08/2011,3797.5,"Invoice-Private",,10/08/2011,10/08/2011,,13915845MO,-2817.5000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3007,3007,"CR:Basic Service F... H.Larson 201110: Larson, Helmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,790.5,790.5,"CR:Resident Care -... H.Larson 201110: Larson, Helmer",,,,,,,,,,,,,,,

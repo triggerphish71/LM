@@ -1,0 +1,6 @@
+BATCH,,201110,B,5875.0000,
+INVOICE,IN,,12610233,,10/01/2011,2620.0000,"Invoice-Private",,10/01/2011,10/10/2011,,12614837MO,-3485.0000,,,,,,,,,,
+TRANSACTION,3320,010211126,1,310.0000,310.00,"CR:Limited Term Di... N.Endorf 201110: Endorf, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211126,22,105.0000,2310.00,"Basic Service Fee - Deluxe for Oct: Endorf, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,12610233,,10/01/2011,3255,"Invoice-Private",,10/01/2011,10/10/2011,,12614837MO,-3485.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3255,3255,"CR:Basic Service F... N.Endorf 201110: Endorf, Norman",,,,,,,,,,,,,,,

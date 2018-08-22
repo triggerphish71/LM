@@ -1,0 +1,7 @@
+BATCH,,201201,B,8932.5800,
+INVOICE,IN,,13910130,,01/01/2012,4158.2700,"Invoice-Private",,01/01/2012,01/10/2012,,13916002MO,-616.0400,,,,,,,,,,
+TRANSACTION,3020,010103139,27,120.0000,3240.00,"Basic Service Fee - One Bedroom for Jan: Coles, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,27,34.0100,918.27,"Resident Care - Level 19 for Jan: Coles, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,13910130,,01/01/2012,4774.31,"Invoice-Private",,01/01/2012,01/10/2012,,13916002MO,-616.0400,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3720,3720,"CR:Basic Service F... A.Coles 201201: Coles, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,1054.31,1054.31,"CR:Resident Care -... A.Coles 201201: Coles, Anna",,,,,,,,,,,,,,,

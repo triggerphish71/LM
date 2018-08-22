@@ -1,0 +1,6 @@
+BATCH,,201301,B,5303.1700,
+INVOICE,IN,,03910145,,01/01/2013,682.0000,"Invoice-Private",,01/01/2013,01/10/2013,,03914655MO,-3406.2400,,,,,,,,,,
+TRANSACTION,3320,010101039,1,682.0000,682.00,"CR:Limited Term Di... V.Nowlin 201301: Nowlin, Victoria",,,,,,,,,,,,,,,
+INVOICE,CM,,03910145,,01/01/2013,4621.17,"Invoice-Private",,01/01/2013,01/10/2013,,03914655MO,-3406.2400,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... V.Nowlin 201301: Nowlin, Victoria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,1831.17,1831.17,"CR:Resident Care -... V.Nowlin 201301: Nowlin, Victoria",,,,,,,,,,,,,,,

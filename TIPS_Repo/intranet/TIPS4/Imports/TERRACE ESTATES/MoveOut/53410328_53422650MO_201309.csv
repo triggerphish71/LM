@@ -1,0 +1,5 @@
+BATCH,,201309,B,60.0000,
+INVOICE,IN,,53410328,,09/01/2013,30.0000,"Invoice-Private",,09/01/2013,09/10/2013,,53422650MO,-5888.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Handrow, Alvina",,,,,,,,,,,,,,,
+INVOICE,CM,,53410328,,09/01/2013,30,"Invoice-Private",,09/01/2013,09/10/2013,,53422650MO,-5888.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Handrow, Alvina",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,6768.0000,
+INVOICE,IN,,20210031,,07/10/2011,2397.0000,"Invoice-Private",,07/10/2011,07/10/2011,,20212286MO,-6345.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,17,61.0000,1037.00,"Resident Care - Level 6 for Jul: Stauffer, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,17,80.0000,1360.00,"Room and Board - Studio for Jul: Stauffer, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,20210031,,07/10/2011,4371,"Invoice-Private",,07/10/2011,07/10/2011,,20212286MO,-6345.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,1891,1891,"CR:Resident Care -... P.Stauffer 201107: Stauffer, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Room and Board ... P.Stauffer 201107: Stauffer, Patricia",,,,,,,,,,,,,,,

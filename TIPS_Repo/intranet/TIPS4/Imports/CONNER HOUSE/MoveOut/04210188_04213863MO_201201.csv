@@ -1,0 +1,6 @@
+BATCH,,201201,B,3789.0000,
+INVOICE,IN,,04210188,,01/02/2012,228.0000,"Invoice-Private",,01/02/2012,01/02/2012,,04213863MO,-3333.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,2,114.0000,228.00,"Basic Service Fee - One Bedroom for Jan: Charles, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,04210188,,01/02/2012,3561,"Invoice-Private",,01/02/2012,01/02/2012,,04213863MO,-3333.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3534,3534,"CR:Basic Service F... R.Charles 201201: Charles, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... R.Charles 201201: Charles, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201206,B,4950.0000,
+INVOICE,CM,,53010208,,06/01/2012,4950,"Invoice-Private",,06/01/2012,06/10/2012,,53016151MO,-4365.0000,,,,,,,,,,
+TRANSACTION,3299,010319530,1,300,300,"CR:Base Charge... M.Morgan 201206: Morgan, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3750,3750,"CR:Basic Service F... M.Morgan 201206: Morgan, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,900,900,"CR:Resident Care -... M.Morgan 201206: Morgan, Marge",,,,,,,,,,,,,,,

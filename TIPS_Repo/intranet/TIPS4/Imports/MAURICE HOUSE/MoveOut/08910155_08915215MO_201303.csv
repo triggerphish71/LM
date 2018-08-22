@@ -1,0 +1,8 @@
+BATCH,,201303,B,8465.0000,
+INVOICE,IN,,08910155,,03/04/2013,932.0000,"Invoice-Private",,03/04/2013,03/04/2013,,08915215MO,-6601.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,4,137.0000,548.00,"Basic Service Fee - One Bedroom for Mar: Collett, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,4,96.0000,384.00,"Resident Care - Level 6 for Mar: Collett, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,08910155,,03/04/2013,7533,"Invoice-Private",,03/04/2013,03/04/2013,,08915215MO,-6601.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,4247,4247,"CR:Basic Service F... B.Collett 201303: Collett, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3210,010306089,1,310,310,"CR:Personal Servic... B.Collett 201303: Collett, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2976,2976,"CR:Resident Care -... B.Collett 201303: Collett, Barbara",,,,,,,,,,,,,,,

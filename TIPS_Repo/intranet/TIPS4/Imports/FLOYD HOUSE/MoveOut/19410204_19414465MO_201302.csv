@@ -1,0 +1,8 @@
+BATCH,,201302,B,5222.0000,
+INVOICE,IN,,19410204,,02/14/2013,1778.0000,"Invoice-Private",,02/14/2013,02/14/2013,,19414465MO,-1666.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,56.0000,56.00,"CR:Limited Term Di... H.Murphy 201302: Murphy, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,14,75.0000,1050.00,"Basic Service Fee - Studio for Feb: Murphy, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,14,48.0000,672.00,"Swan Personal Care - L3 for Feb: Murphy, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,19410204,,02/14/2013,3444,"Invoice-Private",,02/14/2013,02/14/2013,,19414465MO,-1666.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2100,2100,"CR:Basic Service F... H.Murphy 201302: Murphy, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,1344,1344,"CR:Swan Personal C... H.Murphy 201302: Murphy, Helen",,,,,,,,,,,,,,,

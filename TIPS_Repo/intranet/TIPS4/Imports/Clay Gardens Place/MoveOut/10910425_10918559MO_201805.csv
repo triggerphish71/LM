@@ -1,0 +1,6 @@
+BATCH,,201805,B,2933.0000,
+INVOICE,IN,,10910425,,05/15/2018,1786.0000,"Invoice-Private",,05/15/2018,05/15/2018,,10918559MO,639.0000,,,,,,,,,,
+TRANSACTION,3017,010005109,21,41.0000,861.00," Level: 2 : Weaver, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005109,25,37.0000,925.00,"Basic Service Fee - Studio  for May: Weaver, Leah",,,,,,,,,,,,,,,
+INVOICE,CM,,10910425,,05/15/2018,1147,"Invoice-Private",,05/15/2018,05/15/2018,,10918559MO,639.0000,,,,,,,,,,
+TRANSACTION,3020,010005109,1,1147,1147,"CR:Basic Service F... L.Weaver 201805: Weaver, Leah",,,,,,,,,,,,,,,

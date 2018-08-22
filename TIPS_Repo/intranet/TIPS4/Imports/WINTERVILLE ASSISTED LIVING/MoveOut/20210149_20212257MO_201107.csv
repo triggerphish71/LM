@@ -1,0 +1,7 @@
+BATCH,,201107,B,3610.0000,
+INVOICE,IN,,20210149,,07/03/2011,665.0000,"Invoice-Private",,07/03/2011,07/03/2011,,20212257MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,7,11.0000,77.00,"Resident Care - Level 1 for Jul: Reibel, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,7,84.0000,588.00,"Studio for Jul: Reibel, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,20210149,,07/03/2011,2945,"Invoice-Private",,07/03/2011,07/03/2011,,20212257MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... W.Reibel 201107: Reibel, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2604,2604,"CR:Studio... W.Reibel 201107: Reibel, Warren",,,,,,,,,,,,,,,

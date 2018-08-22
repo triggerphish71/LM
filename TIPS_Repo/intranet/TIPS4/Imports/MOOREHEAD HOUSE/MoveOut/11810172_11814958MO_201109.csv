@@ -1,0 +1,8 @@
+BATCH,,201109,B,7887.0000,
+INVOICE,IN,,11810172,,09/15/2011,3857.0000,"Invoice-Private",,09/15/2011,09/15/2011,,11814958MO,-4336.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,29,96.0000,2784.00,"Basic Service Fee - Studio for Sep: Klein, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,29,37.0000,1073.00,"Resident Care - Level 2 for Sep: Klein, Sylvia",,,,,,,,,,,,,,,
+INVOICE,CM,,11810172,,09/15/2011,4030,"Invoice-Private",,09/15/2011,09/15/2011,,11814958MO,-4336.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2880,2880,"CR:Basic Service F... S.Klein 201109: Klein, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... S.Klein 201109: Klein, Sylvia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1110,1110,"CR:Resident Care -... S.Klein 201109: Klein, Sylvia",,,,,,,,,,,,,,,

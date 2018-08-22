@@ -1,0 +1,8 @@
+BATCH,,201306,B,5221.0000,
+INVOICE,IN,,04510256,,06/01/2013,2014.0000,"Invoice-Private",,06/01/2013,06/10/2013,,04514581MO,-1193.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,19,77.0000,1463.00,"Basic Service Fee - Studio for Jun: Bowman, Linnamae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,19,29.0000,551.00,"Resident Care - Level 2 for Jun: Bowman, Linnamae",,,,,,,,,,,,,,,
+INVOICE,CM,,04510256,,06/01/2013,3207,"Invoice-Private",,06/01/2013,06/10/2013,,04514581MO,-1193.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2310,2310,"CR:Basic Service F... L.Bowman 201306: Bowman, Linnamae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... L.Bowman 201306: Bowman, Linnamae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,870,870,"CR:Resident Care -... L.Bowman 201306: Bowman, Linnamae",,,,,,,,,,,,,,,

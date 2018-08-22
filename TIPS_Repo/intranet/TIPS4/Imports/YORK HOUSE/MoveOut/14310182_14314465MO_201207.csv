@@ -1,0 +1,5 @@
+BATCH,,201207,B,70.0000,
+INVOICE,IN,,14310182,,07/01/2012,35.0000,"Invoice-Private",,07/01/2012,07/10/2012,,14314465MO,-2612.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: Robbins, Hagan",,,,,,,,,,,,,,,
+INVOICE,CM,,14310182,,07/01/2012,35,"Invoice-Private",,07/01/2012,07/10/2012,,14314465MO,-2612.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: Robbins, Hagan",,,,,,,,,,,,,,,

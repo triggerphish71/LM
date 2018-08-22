@@ -1,0 +1,5 @@
+BATCH,,201204,B,600.0000,
+INVOICE,IN,,17110208,,04/01/2012,300.0000,"Invoice-Private",,04/01/2012,04/10/2012,,17114976MO,-930.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,30,10.0000,300.00,"Credit for Limited Term Discount: Harris, Rudy",,,,,,,,,,,,,,,
+INVOICE,CM,,17110208,,04/01/2012,300,"Invoice-Private",,04/01/2012,04/10/2012,,17114976MO,-930.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,30,10,300,"Limited Term Discount: Harris, Rudy",,,,,,,,,,,,,,,

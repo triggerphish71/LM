@@ -1,0 +1,7 @@
+BATCH,,201112,B,1998.5000,
+INVOICE,IN,,01310036,,12/04/2011,78.8800,"Invoice-Medicaid",,12/04/2011,12/04/2011,,01314023MO,-1840.7400,,,,,,,,,,
+TRANSACTION,3021,010103013,4,19.7200,78.88,"Medicaid Co-Pay for Dec: Green, Margaret ",,,,,,,,,,,,,,,
+INVOICE,CM,,01310036,,12/04/2011,1919.62,"Invoice-Medicaid",,12/04/2011,12/04/2011,,01314023MO,-1840.7400,,,,,,,,,,
+TRANSACTION,3021,010103013,1,611.21,611.21,"CR:Medicaid Co-Pay... M.Green 201112: Green, Margaret ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... M.Green 201112: Green, Margaret ",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,1280.41,1280.41,"CR:State Medicaid ... M.Green 201112: Green, Margaret ",,,,,,,,,,,,,,,

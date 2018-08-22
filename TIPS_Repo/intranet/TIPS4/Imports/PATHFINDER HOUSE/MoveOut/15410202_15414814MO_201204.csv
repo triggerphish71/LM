@@ -1,0 +1,5 @@
+BATCH,,201204,B,420.0000,
+INVOICE,IN,,15410202,,04/01/2012,210.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15414814MO,-3503.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,30,7.0000,210.00,"Credit for Two Room Rental Discount: Fuhr, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,15410202,,04/01/2012,210,"Invoice-Private",,04/01/2012,04/10/2012,,15414814MO,-3503.0000,,,,,,,,,,
+TRANSACTION,3312,010211154,30,7,210,"Two Room Rental Discount: Fuhr, Eunice",,,,,,,,,,,,,,,

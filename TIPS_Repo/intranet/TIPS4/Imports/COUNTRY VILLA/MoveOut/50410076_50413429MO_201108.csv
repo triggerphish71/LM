@@ -1,0 +1,6 @@
+BATCH,,201108,B,3503.1500,
+INVOICE,IN,,50410076,,08/23/2011,627.6700,"Invoice-Medicaid",,08/23/2011,08/23/2011,,50413429MO,-5123.2900,,,,,,,,,,
+TRANSACTION,3021,010318504,23,27.2900,627.67,"Medicaid Room & Board for Aug: Van Horne, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,50410076,,08/23/2011,2875.48,"Invoice-Medicaid",,08/23/2011,08/23/2011,,50413429MO,-5123.2900,,,,,,,,,,
+TRANSACTION,3021,010318504,1,846,846,"CR:Medicaid Room &... E.Van Horne 201108: Van Horne, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3022,010318504,1,2029.48,2029.48,"CR:State Medicaid... E.Van Horne 201108: Van Horne, Esther",,,,,,,,,,,,,,,

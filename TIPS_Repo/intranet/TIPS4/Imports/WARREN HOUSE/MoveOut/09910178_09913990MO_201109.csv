@@ -1,0 +1,8 @@
+BATCH,,201109,B,4927.0000,
+INVOICE,IN,,09910178,,09/01/2011,1032.0000,"Invoice-Private",,09/01/2011,09/10/2011,,09913990MO,-2863.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,8,86.0000,688.00,"Basic Service Fee - Studio for Sep: Anderson, Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,8,43.0000,344.00,"Resident Care - Level 3 for Sep: Anderson, Clyde",,,,,,,,,,,,,,,
+INVOICE,CM,,09910178,,09/01/2011,3895,"Invoice-Private",,09/01/2011,09/10/2011,,09913990MO,-2863.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2580,2580,"CR:Basic Service F... C.Anderson 201109: Anderson, Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25,25,"CR:Monthly Cable... C.Anderson 201109: Anderson, Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,1290,1290,"CR:Resident Care -... C.Anderson 201109: Anderson, Clyde",,,,,,,,,,,,,,,

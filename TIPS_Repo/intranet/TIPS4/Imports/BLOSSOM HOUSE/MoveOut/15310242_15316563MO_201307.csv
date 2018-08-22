@@ -1,0 +1,7 @@
+BATCH,,201307,B,6948.0000,
+INVOICE,IN,,15310242,,07/22/2013,3358.2000,"Invoice-Private",,07/22/2013,07/22/2013,,15316563MO,-3821.4000,,,,,,,,,,
+TRANSACTION,3020,010103153,29,101.0000,2929.00,"Basic Service Fee - Studio for Jul: Hansen, Jennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,29,14.8000,429.20,"Resident Care - Level 8 for Jul: Hansen, Jennie",,,,,,,,,,,,,,,
+INVOICE,CM,,15310242,,07/22/2013,3589.8,"Invoice-Private",,07/22/2013,07/22/2013,,15316563MO,-3821.4000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3131,3131,"CR:Basic Service F... J.Hansen 201307: Hansen, Jennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,458.8,458.8,"CR:Resident Care -... J.Hansen 201307: Hansen, Jennie",,,,,,,,,,,,,,,

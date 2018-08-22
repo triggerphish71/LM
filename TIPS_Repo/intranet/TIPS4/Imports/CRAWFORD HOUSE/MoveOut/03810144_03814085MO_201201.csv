@@ -1,0 +1,5 @@
+BATCH,,201201,B,3715.8600,
+INVOICE,CM,,03810144,,01/01/2012,3715.86,"Invoice-Private",,01/01/2012,01/10/2012,,03814085MO,-3715.8600,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2914,2914,"CR:Basic Service F... A.Kramer 201201: Kramer, Armida",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... A.Kramer 201201: Kramer, Armida",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,776.86,776.86,"CR:Resident Care -... A.Kramer 201201: Kramer, Armida",,,,,,,,,,,,,,,

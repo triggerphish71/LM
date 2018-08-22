@@ -1,0 +1,5 @@
+BATCH,,201108,B,2128.0000,
+INVOICE,IN,,17010283,,08/31/2011,2128.0000,"MoveIn-Emer. Ann",,08/31/2011,08/31/2011,,17014298,5243.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,1,103.0000,103,"Basic Service Fee - One Bedroom    : Emer. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Emer. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Emer. Ann",,,,,,,,,,,,,,,

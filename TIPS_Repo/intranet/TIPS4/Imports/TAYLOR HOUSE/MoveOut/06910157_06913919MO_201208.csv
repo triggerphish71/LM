@@ -1,0 +1,8 @@
+BATCH,,201208,B,6426.0000,
+INVOICE,IN,,06910157,,08/01/2012,3171.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06913919MO,-84.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,1,651.0000,651.00,"CR:Limited Term Di... G.Dysert 201208: Dysert, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305069,24,76.0000,1824.00,"Basic Service Fee - Studio for Aug: Dysert, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,24,29.0000,696.00,"Resident Care - Level 2 for Aug: Dysert, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,06910157,,08/01/2012,3255,"Invoice-Private",,08/01/2012,08/10/2012,,06913919MO,-84.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2356,2356,"CR:Basic Service F... G.Dysert 201208: Dysert, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,899,899,"CR:Resident Care -... G.Dysert 201208: Dysert, Gloria",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,6745.0000,
+INVOICE,IN,,12310227,,11/02/2012,6745.0000,"MoveIn-Pethoud. Virgil",,11/02/2012,11/02/2012,,12315679,6745.0000,,,,,,,,,,
+TRANSACTION,3010,010211123,29,103.0000,2987,"Basic Service Fee - Studio: Pethoud. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211123,29,52.0000,1508,"Resident Care - Level 3: Pethoud. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211123,1,2250.0000,2250,"New Resident Fee: Pethoud. Virgil",,,,,,,,,,,,,,,

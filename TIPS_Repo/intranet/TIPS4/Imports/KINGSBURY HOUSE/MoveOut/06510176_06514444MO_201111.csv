@@ -1,0 +1,8 @@
+BATCH,,201111,B,7666.0000,
+INVOICE,IN,,06510176,,11/01/2011,3826.0000,"Invoice-Private",,11/01/2011,11/10/2011,,06514444MO,-14.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1650.0000,1650.00,"CR:Limited Term Di... M.Riebesehl 201111: Riebesehl, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,17,110.0000,1870.00,"Basic Service Fee - Deluxe for Nov: Riebesehl, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,17,18.0000,306.00,"Resident Care - Level 1 for Nov: Riebesehl, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,06510176,,11/01/2011,3840,"Invoice-Private",,11/01/2011,11/10/2011,,06514444MO,-14.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3300,3300,"CR:Basic Service F... M.Riebesehl 201111: Riebesehl, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,540,540,"CR:Resident Care -... M.Riebesehl 201111: Riebesehl, Melvin",,,,,,,,,,,,,,,

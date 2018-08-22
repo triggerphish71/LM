@@ -1,0 +1,5 @@
+BATCH,,201211,B,2496.0000,
+INVOICE,IN,,07410234,,11/14/2012,2496.0000,"MoveIn-Grevenkamp. Alice",,11/14/2012,11/14/2012,,07414097,2496.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,17,73.0000,1241,"Basic Service Fee - Studio: Grevenkamp. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,17,15.0000,255,"Resident Care - Level 1: Grevenkamp. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Grevenkamp. Alice",,,,,,,,,,,,,,,

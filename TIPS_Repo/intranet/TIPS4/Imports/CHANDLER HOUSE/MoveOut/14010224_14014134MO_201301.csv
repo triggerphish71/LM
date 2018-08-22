@@ -1,0 +1,6 @@
+BATCH,,201301,B,3705.0000,
+INVOICE,IN,,14010224,,01/04/2013,420.0000,"Invoice-Private",,01/04/2013,01/04/2013,,14014134MO,-2865.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,4,105.0000,420.00,"Basic Service Fee - One Bedroom for Jan: Haynes, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,14010224,,01/04/2013,3285,"Invoice-Private",,01/04/2013,01/04/2013,,14014134MO,-2865.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,3255,3255,"CR:Basic Service F... W.Haynes 201301: Haynes, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... W.Haynes 201301: Haynes, Wayne",,,,,,,,,,,,,,,

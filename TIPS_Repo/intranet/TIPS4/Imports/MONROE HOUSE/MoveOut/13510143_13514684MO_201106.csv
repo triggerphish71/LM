@@ -1,0 +1,5 @@
+BATCH,,201106,B,3120.0000,
+INVOICE,CM,,13510143,,06/01/2011,3120,"Invoice-Private",,06/01/2011,06/10/2011,,13514684MO,-3665.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2610,2610,"CR:Basic Service F... H.Brown 201106: Brown, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... H.Brown 201106: Brown, Hollis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,480,480,"CR:Resident Care -... H.Brown 201106: Brown, Hollis",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,5729.9400,
+INVOICE,IN,,01110288,,08/23/2012,2440.5300,"Invoice-Private",,08/23/2012,08/23/2012,,01113940MO,-4032.1800,,,,,,,,,,
+TRANSACTION,3020,010101011,23,90.0000,2070.00,"Basic Service Fee - One Bedroom for Aug: Fulton, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,23,16.1100,370.53,"Resident Care - Level 9 for Aug: Fulton, Miriam",,,,,,,,,,,,,,,
+INVOICE,CM,,01110288,,08/23/2012,3289.41,"Invoice-Private",,08/23/2012,08/23/2012,,01113940MO,-4032.1800,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2790,2790,"CR:Basic Service F... M.Fulton 201208: Fulton, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,499.41,499.41,"CR:Resident Care -... M.Fulton 201208: Fulton, Miriam",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201306,B,4350.0000,
+INVOICE,IN,,19810163,,06/05/2013,1440.0000,"Invoice-Private",,06/05/2013,06/05/2013,,19818784MO,-4476.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,15,63.0000,945.00,"Basic Service Fee AL - One Bedroom for Jun: Wels, Adel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,15,33.0000,495.00,"Swan Personal Care - L1 for Jun: Wels, Adel",,,,,,,,,,,,,,,
+INVOICE,CM,,19810163,,06/05/2013,2910,"Invoice-Private",,06/05/2013,06/05/2013,,19818784MO,-4476.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1890,1890,"CR:Basic Service F... A.Wels 201306: Wels, Adel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... A.Wels 201306: Wels, Adel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,990,990,"CR:Swan Personal C... A.Wels 201306: Wels, Adel",,,,,,,,,,,,,,,

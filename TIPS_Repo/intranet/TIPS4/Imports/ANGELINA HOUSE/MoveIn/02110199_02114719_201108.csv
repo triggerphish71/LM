@@ -1,0 +1,6 @@
+BATCH,,201108,B,2153.0000,
+INVOICE,IN,,02110199,,08/29/2011,2153.0000,"MoveIn-Cook. Louise",,08/29/2011,08/29/2011,,02114719,5958.0000,,,,,,,,,,
+TRANSACTION,3010,010202021,3,95.0000,285,"Basic Service Fee - Studio         : Cook. Louise",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202021,3,31.0000,93,"Resident Care - Level 2: Cook. Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202021,1,25.0000,25,"Monthly Cable: Cook. Louise",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202021,1,1750.0000,1750,"New Resident Fee: Cook. Louise",,,,,,,,,,,,,,,

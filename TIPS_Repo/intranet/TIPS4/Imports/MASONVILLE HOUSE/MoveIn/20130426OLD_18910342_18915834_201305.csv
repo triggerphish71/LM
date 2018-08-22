@@ -1,0 +1,6 @@
+BATCH,,201305,B,4117.0000,
+INVOICE,IN,,18910342,,05/01/2013,4117.0000,"May_Rent-Kuntz. Phillip",,05/01/2013,05/10/2013,,18915834,4802.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,31,89.0000,2759,"Basic Service Fee - Studio: Kuntz. Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,31,33.0000,1023,"Resident Care - Level 2: Kuntz. Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Kuntz. Phillip",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310,"CC Meals: Kuntz. Phillip",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,4768.0000,
+INVOICE,IN,,13310397,,02/01/2013,596.0000,"Invoice-Private",,02/01/2013,02/10/2013,,13315731MO,-3576.0000,,,,,,,,,,
+TRANSACTION,3027,010310133,4,57.0000,228.00,"Resident Care - Level 4 for Feb: Walko, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,4,92.0000,368.00,"Room and Board - Studio for Feb: Walko, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,13310397,,02/01/2013,4172,"Invoice-Private",,02/01/2013,02/10/2013,,13315731MO,-3576.0000,,,,,,,,,,
+TRANSACTION,3027,010310133,1,1596,1596,"CR:Resident Care -... J.Walko 201302: Walko, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2576,2576,"CR:Room and Board ... J.Walko 201302: Walko, Joseph",,,,,,,,,,,,,,,

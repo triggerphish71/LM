@@ -1,0 +1,8 @@
+BATCH,,201107,B,4024.0000,
+INVOICE,IN,,16210118,,07/01/2011,1172.0000,"Invoice-Private",,07/01/2011,07/10/2011,,16212783MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,620.0000,620.00,"CR:Limited Term Di... D.Myer 201107: Myer, Dolly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,6,64.0000,384.00,"Basic Service Fee - Studio for Jul: Myer, Dolly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,6,28.0000,168.00,"Resident Care - Level 2 for Jul: Myer, Dolly",,,,,,,,,,,,,,,
+INVOICE,CM,,16210118,,07/01/2011,2852,"Invoice-Private",,07/01/2011,07/10/2011,,16212783MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,1984,1984,"CR:Basic Service F... D.Myer 201107: Myer, Dolly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,868,868,"CR:Resident Care -... D.Myer 201107: Myer, Dolly",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201203,B,7625.0000,
+INVOICE,IN,,21010003,,03/06/2012,3750.0000,"Invoice-Private",,03/06/2012,03/06/2012,,21013483MO,-125.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,30,31.0000,930.00,"Resident Care - Level 3 for Mar: Darby, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,30,94.0000,2820.00,"Studio for Mar: Darby, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,21010003,,03/06/2012,3875,"Invoice-Private",,03/06/2012,03/06/2012,,21013483MO,-125.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,961,961,"CR:Resident Care -... B.Darby 201203: Darby, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... B.Darby 201203: Darby, Betty",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,8400.0000,
+INVOICE,IN,,02810233,,10/02/2012,3750.0000,"Invoice-Private",,10/02/2012,10/02/2012,,02815470MO,-5400.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,25,113.0000,2825.00,"M.Swanner: Basic Service Fee - Studio for Oct: Swanner, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,25,37.0000,925.00,"M.Swanner: Resident Care - Level 3 for Oct: Swanner, Melvin",,,,,,,,,,,,,,,
+INVOICE,CM,,02810233,,10/02/2012,4650,"Invoice-Private",,10/02/2012,10/02/2012,,02815470MO,-5400.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3503,3503,"CR:M.Swanner: Basi... M.Swanner 201210: Swanner, Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,1147,1147,"CR:M.Swanner: Resi... M.Swanner 201210: Swanner, Melvin",,,,,,,,,,,,,,,

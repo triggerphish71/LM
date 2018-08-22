@@ -1,0 +1,5 @@
+BATCH,,201107,B,2970.0000,
+INVOICE,IN,,19510229,,07/02/2011,180.0000,"Invoice-Private",,07/02/2011,07/02/2011,,19513935MO,-2610.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,2,90.0000,180.00,"Room and Board - Studio for Jul: Dieterle, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,19510229,,07/02/2011,2790,"Invoice-Private",,07/02/2011,07/02/2011,,19513935MO,-2610.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2790,2790,"CR:Room and Board ... L.Dieterle 201107: Dieterle, Lucille",,,,,,,,,,,,,,,

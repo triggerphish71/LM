@@ -1,0 +1,7 @@
+BATCH,,201302,B,4968.5000,
+INVOICE,IN,,06210214,,02/10/2013,1307.5000,"Invoice-Private",,02/10/2013,02/10/2013,,06213841MO,-2353.5000,,,,,,,,,,
+TRANSACTION,3020,010101062,10,86.0000,860.00,"Basic Service Fee - Studio for Feb: Guarino, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,10,44.7500,447.50,"Resident Care - Level 25 for Feb: Guarino, Louis",,,,,,,,,,,,,,,
+INVOICE,CM,,06210214,,02/10/2013,3661,"Invoice-Private",,02/10/2013,02/10/2013,,06213841MO,-2353.5000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2408,2408,"CR:Basic Service F... L.Guarino 201302: Guarino, Louis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1253,1253,"CR:Resident Care -... L.Guarino 201302: Guarino, Louis",,,,,,,,,,,,,,,

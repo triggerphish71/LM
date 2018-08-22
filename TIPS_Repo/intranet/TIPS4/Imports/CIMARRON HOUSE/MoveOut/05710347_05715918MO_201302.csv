@@ -1,0 +1,8 @@
+BATCH,,201302,B,4781.0000,
+INVOICE,IN,,05710347,,02/01/2013,164.0000,"Invoice-Private",,02/01/2013,02/01/2013,,05715918MO,-4453.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,114.0000,114.00,"Basic Service Fee - One Bedroom for Feb: Moore, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,50.0000,50.00,"Resident Care - Level 4 for Feb: Moore, James",,,,,,,,,,,,,,,
+INVOICE,CM,,05710347,,02/01/2013,4617,"Invoice-Private",,02/01/2013,02/01/2013,,05715918MO,-4453.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3192,3192,"CR:Basic Service F... J.Moore 201302: Moore, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202057,1,25,25,"CR:Monthly Cable... J.Moore 201302: Moore, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,1400,1400,"CR:Resident Care -... J.Moore 201302: Moore, James",,,,,,,,,,,,,,,

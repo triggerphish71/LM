@@ -1,0 +1,7 @@
+BATCH,,201210,B,8967.0000,
+INVOICE,IN,,04210202,,10/30/2012,4410.0000,"Invoice-Private",,10/30/2012,10/30/2012,,04214012MO,-4557.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,30,114.0000,3420.00,"Basic Service Fee - One Bedroom for Oct: Posey, Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,30,33.0000,990.00,"Resident Care - Level 2 for Oct: Posey, Ellis",,,,,,,,,,,,,,,
+INVOICE,CM,,04210202,,10/30/2012,4557,"Invoice-Private",,10/30/2012,10/30/2012,,04214012MO,-4557.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,3534,3534,"CR:Basic Service F... E.Posey 201210: Posey, Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,1023,1023,"CR:Resident Care -... E.Posey 201210: Posey, Ellis",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,6726.0000,
+INVOICE,IN,,15010179,,11/27/2012,3186.0000,"Invoice-Private",,11/27/2012,11/27/2012,,15014643MO,-4037.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,27,100.0000,2700.00,"Basic Service Fee - One Bedroom for Nov: Schubert, Lorenz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,27,18.0000,486.00,"Resident Care - Level 1 for Nov: Schubert, Lorenz",,,,,,,,,,,,,,,
+INVOICE,CM,,15010179,,11/27/2012,3540,"Invoice-Private",,11/27/2012,11/27/2012,,15014643MO,-4037.0000,,,,,,,,,,
+TRANSACTION,3020,010212150,1,3000,3000,"CR:Basic Service F... L.Schubert 201211: Schubert, Lorenz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212150,1,540,540,"CR:Resident Care -... L.Schubert 201211: Schubert, Lorenz",,,,,,,,,,,,,,,

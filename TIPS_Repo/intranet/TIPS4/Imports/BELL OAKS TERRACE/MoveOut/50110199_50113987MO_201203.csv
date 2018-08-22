@@ -1,0 +1,7 @@
+BATCH,,201203,B,4809.0000,
+INVOICE,IN,,50110199,,03/01/2012,868.0000,"Invoice-Private",,03/01/2012,03/10/2012,,50113987MO,-3073.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,868.0000,868.00,"CR:Limited Term Di... T.Seybold 201203: Seybold, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,50110199,,03/01/2012,3941,"Invoice-Private",,03/01/2012,03/10/2012,,50113987MO,-3073.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... T.Seybold 201203: Seybold, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... T.Seybold 201203: Seybold, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1178,1178,"CR:Resident Care -... T.Seybold 201203: Seybold, Thomas",,,,,,,,,,,,,,,

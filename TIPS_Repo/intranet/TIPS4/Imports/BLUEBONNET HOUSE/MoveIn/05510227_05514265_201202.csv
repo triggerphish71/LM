@@ -1,0 +1,5 @@
+BATCH,,201202,B,3246.0000,
+INVOICE,IN,,05510227,,02/01/2012,3246.0000,"February_Rent-Dotson. Richard",,02/01/2012,02/10/2012,,05514265,5772.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,29,95.0000,2755,"Basic Service Fee - Studio: Dotson. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,29,16.0000,464,"Resident Care - Level 1: Dotson. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Dotson. Richard",,,,,,,,,,,,,,,

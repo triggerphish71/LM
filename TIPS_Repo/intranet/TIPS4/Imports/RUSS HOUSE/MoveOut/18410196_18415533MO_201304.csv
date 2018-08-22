@@ -1,0 +1,7 @@
+BATCH,,201304,B,2573.0000,
+INVOICE,IN,,18410196,,04/01/2013,83.0000,"Invoice-Private",,04/01/2013,04/10/2013,,18415533MO,-2407.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,70.0000,70.00,"Basic Service Fee - One Bedroom for Apr: Kendall, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,13.0000,13.00,"Resident Care - Level 1 for Apr: Kendall, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,18410196,,04/01/2013,2490,"Invoice-Private",,04/01/2013,04/10/2013,,18415533MO,-2407.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2100,2100,"CR:Basic Service F... H.Kendall 201304: Kendall, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313184,1,390,390,"CR:Resident Care -... H.Kendall 201304: Kendall, Helen",,,,,,,,,,,,,,,

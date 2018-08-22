@@ -1,0 +1,6 @@
+BATCH,,201304,B,4239.0000,
+INVOICE,IN,,19610237,,04/12/2013,4239.0000,"MoveIn-Lagina. John",,04/12/2013,04/12/2013,,19613478,4239.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,19,106.0000,2014,"Basic Service Fee - One Bedroom: Lagina. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Lagina. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,2000.0000,2000,"New Tenant Fee: Lagina. John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,19,10.0000,190,"CC Meals: Lagina. John",,,,,,,,,,,,,,,

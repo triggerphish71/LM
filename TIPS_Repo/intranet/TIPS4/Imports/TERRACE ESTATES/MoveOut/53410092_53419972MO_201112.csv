@@ -1,0 +1,5 @@
+BATCH,,201112,B,186.0000,
+INVOICE,IN,,53410092,,12/01/2011,93.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53419972MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Szczurek, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,53410092,,12/01/2011,93,"Invoice-Private",,12/01/2011,12/10/2011,,53419972MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Szczurek, Josephine",,,,,,,,,,,,,,,

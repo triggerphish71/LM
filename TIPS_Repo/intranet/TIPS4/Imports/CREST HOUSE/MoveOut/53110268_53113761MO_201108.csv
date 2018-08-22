@@ -1,0 +1,5 @@
+BATCH,,201108,B,735.0000,
+INVOICE,IN,,53110268,,08/12/2011,35.0000,"Invoice-Private",,08/12/2011,08/12/2011,,53113761MO,-1715.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,35.0000,35.00,"Basic Service Fee - Second Resident for Aug: Janicki, Sophie",,,,,,,,,,,,,,,
+INVOICE,CM,,53110268,,08/12/2011,700,"Invoice-Private",,08/12/2011,08/12/2011,,53113761MO,-1715.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,700,700,"CR:Basic Service F... S.Janicki 201108: Janicki, Sophie",,,,,,,,,,,,,,,

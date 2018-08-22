@@ -1,0 +1,5 @@
+BATCH,,201111,B,4377.0000,
+INVOICE,IN,,16910231,,11/03/2011,4377.0000,"MoveIn-Jones. Royal",,11/03/2011,11/03/2011,,16914629,4377.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,28,84.0000,2352,"Basic Service Fee - Studio         : Jones. Royal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Jones. Royal",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Jones. Royal",,,,,,,,,,,,,,,

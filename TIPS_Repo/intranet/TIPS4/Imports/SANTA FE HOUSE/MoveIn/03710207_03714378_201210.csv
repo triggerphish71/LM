@@ -1,0 +1,5 @@
+BATCH,,201210,B,4551.0000,
+INVOICE,IN,,03710207,,10/05/2012,4551.0000,"MoveIn-Egger. Virdie",,10/05/2012,10/05/2012,,03714378,4551.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,27,97.0000,2619,"V.Egger: Basic Service Fee - Studio: Egger. Virdie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202037,27,16.0000,432,"V.Egger: Resident Care - Level 1: Egger. Virdie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,1500.0000,1500,"New Resident Fee: Egger. Virdie",,,,,,,,,,,,,,,

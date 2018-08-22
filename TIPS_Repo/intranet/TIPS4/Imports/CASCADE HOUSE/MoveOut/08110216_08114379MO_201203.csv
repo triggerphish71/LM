@@ -1,0 +1,8 @@
+BATCH,,201203,B,4486.1800,
+INVOICE,IN,,08110216,,03/23/2012,2248.9100,"Invoice-Private",,03/23/2012,03/23/2012,,08114379MO,-1583.4600,,,,,,,,,,
+TRANSACTION,3320,010103081,1,589.0000,589.00,"CR:Limited Term Di... G.Watters 201203: Watters, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103081,23,31.0000,713.00,"Basic Service Fee - Second Resident for Mar: Watters, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,23,41.1700,946.91,"Resident Care - Level 23 for Mar: Watters, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08110216,,03/23/2012,2237.27,"Invoice-Private",,03/23/2012,03/23/2012,,08114379MO,-1583.4600,,,,,,,,,,
+TRANSACTION,3020,010103081,1,961,961,"CR:Basic Service F... G.Watters 201203: Watters, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1276.27,1276.27,"CR:Resident Care -... G.Watters 201203: Watters, George",,,,,,,,,,,,,,,

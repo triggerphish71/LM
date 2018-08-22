@@ -1,0 +1,7 @@
+BATCH,,201801,B,7260.0000,
+INVOICE,IN,,16110316,,01/29/2018,3509.0000,"Invoice-Private",,01/29/2018,01/29/2018,,16117459MO,-242.0000,,,,,,,,,,
+TRANSACTION,3020,010013161,29,103.0000,2987.00,"Basic Service Fee - Studio  for Jan: Hebert, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010013161,29,18.0000,522.00,"Resident Care - Level 1  for Jan: Hebert, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,16110316,,01/29/2018,3751,"Invoice-Private",,01/29/2018,01/29/2018,,16117459MO,-242.0000,,,,,,,,,,
+TRANSACTION,3020,010013161,1,3193,3193,"CR:Basic Service F... J.Hebert 201801: Hebert, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010013161,1,558,558,"CR:Resident Care -... J.Hebert 201801: Hebert, Jeanne",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,3193.0000,
+INVOICE,CM,,19310344,,12/01/2011,3193,"Invoice-Private",,12/01/2011,12/10/2011,,19314996MO,-3193.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2356,2356,"CR:Basic Service F... R.Myers 201112: Myers, Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... R.Myers 201112: Myers, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,527,527,"CR:Resident Care -... R.Myers 201112: Myers, Robert",,,,,,,,,,,,,,,

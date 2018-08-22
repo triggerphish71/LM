@@ -1,0 +1,8 @@
+BATCH,,201110,B,5651.0000,
+INVOICE,IN,,03110306,,10/01/2011,912.0000,"Invoice-Private",,10/01/2011,10/10/2011,,03116410MO,-3827.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,6,95.0000,570.00,"Basic Service Fee - Studio for Oct: Gierow, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,6,57.0000,342.00,"Resident Care - Level 4 for Oct: Gierow, George",,,,,,,,,,,,,,,
+INVOICE,CM,,03110306,,10/01/2011,4739,"Invoice-Private",,10/01/2011,10/10/2011,,03116410MO,-3827.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2945,2945,"CR:Basic Service F... G.Gierow 201110: Gierow, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,27,27,"CR:Pendant Fee... G.Gierow 201110: Gierow, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1767,1767,"CR:Resident Care -... G.Gierow 201110: Gierow, George",,,,,,,,,,,,,,,

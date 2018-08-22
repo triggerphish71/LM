@@ -1,0 +1,7 @@
+BATCH,,201211,B,520.0000,
+INVOICE,IN,,50310290,,11/01/2012,260.0000,"Invoice-Private",,11/01/2012,11/10/2012,,50314469MO,-2508.5000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Kidd, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3312,010220503,30,7.5000,225.00,"Credit for Two Room Rental Discount: Kidd, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,50310290,,11/01/2012,260,"Invoice-Private",,11/01/2012,11/10/2012,,50314469MO,-2508.5000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Kidd, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3312,010220503,30,7.5,225,"Two Room Rental Discount: Kidd, Rose",,,,,,,,,,,,,,,

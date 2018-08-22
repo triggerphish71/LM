@@ -1,0 +1,6 @@
+BATCH,,201109,B,5193.0000,
+INVOICE,IN,,09710189,,09/01/2011,600.0000,"Invoice-Private",,09/01/2011,09/10/2011,,09714209MO,-4597.8000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,600.0000,600.00,"CR:Limited Term Di... J.Decava 201109: Decava, Jim (James)",,,,,,,,,,,,,,,
+INVOICE,CM,,09710189,,09/01/2011,4593,"Invoice-Private",,09/01/2011,09/10/2011,,09714209MO,-4597.8000,,,,,,,,,,
+TRANSACTION,3027,010103097,1,2193,2193,"CR:Resident Care -... J.Decava 201109: Decava, Jim (James)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2400,2400,"CR:Room and Board ... J.Decava 201109: Decava, Jim (James)",,,,,,,,,,,,,,,

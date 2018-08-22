@@ -1,0 +1,7 @@
+BATCH,,201205,B,7776.0000,
+INVOICE,IN,,17410204,,05/07/2012,2754.0000,"Invoice-Private",,05/07/2012,05/07/2012,,17414275MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,17,95.0000,1615.00,"Basic Service Fee - Studio for May: Lennis, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,17,67.0000,1139.00,"Resident Care - Level 5 for May: Lennis, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,17410204,,05/07/2012,5022,"Invoice-Private",,05/07/2012,05/07/2012,,17414275MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... E.Lennis 201205: Lennis, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,2077,2077,"CR:Resident Care -... E.Lennis 201205: Lennis, Evelyn",,,,,,,,,,,,,,,

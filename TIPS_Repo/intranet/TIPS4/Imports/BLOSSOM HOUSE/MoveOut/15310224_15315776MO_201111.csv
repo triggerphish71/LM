@@ -1,0 +1,6 @@
+BATCH,,201111,B,5499.0000,
+INVOICE,IN,,15310224,,11/26/2011,2592.0000,"Invoice-Private",,11/26/2011,11/26/2011,,15315776MO,-3318.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,27,96.0000,2592.00,"Basic Service Fee - Studio for Nov: Schauls, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,15310224,,11/26/2011,2907,"Invoice-Private",,11/26/2011,11/26/2011,,15315776MO,-3318.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2880,2880,"CR:Basic Service F... C.Schauls 201111: Schauls, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... C.Schauls 201111: Schauls, Carolyn",,,,,,,,,,,,,,,

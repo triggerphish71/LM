@@ -1,0 +1,6 @@
+BATCH,,201204,B,3710.0000,
+INVOICE,IN,,50310276,,04/19/2012,1425.0000,"Invoice-Private",,04/19/2012,04/19/2012,,50314177MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,19,75.0000,1425.00,"Basic Service Fee - Studio for Apr: Tucker, Freddie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310276,,04/19/2012,2285,"Invoice-Private",,04/19/2012,04/19/2012,,50314177MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2250,2250,"CR:Basic Service F... F.Tucker 201204: Tucker, Freddie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... F.Tucker 201204: Tucker, Freddie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,2735.0000,
+INVOICE,CM,,50310007,,11/01/2012,2735,"Invoice-Private",,11/01/2012,11/10/2012,,50314532MO,-2735.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2250,2250,"CR:Basic Service F... M.Cohen 201211: Cohen, M Rozelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... M.Cohen 201211: Cohen, M Rozelle",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,30,30,"CR:Pendant Fee... M.Cohen 201211: Cohen, M Rozelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,420,420,"CR:Resident Care -... M.Cohen 201211: Cohen, M Rozelle",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,50.0000,
+INVOICE,IN,,02010163,,06/01/2011,25.0000,"Invoice-Private",,06/01/2011,06/10/2011,,02014115MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25.00,"Monthly Cable: Hart, Billye",,,,,,,,,,,,,,,
+INVOICE,CM,,02010163,,06/01/2011,25,"Invoice-Private",,06/01/2011,06/10/2011,,02014115MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"Credit for Monthly Cable: Hart, Billye",,,,,,,,,,,,,,,

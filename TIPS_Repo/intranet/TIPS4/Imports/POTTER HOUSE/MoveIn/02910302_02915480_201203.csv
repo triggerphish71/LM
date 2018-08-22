@@ -1,0 +1,4 @@
+BATCH,,201203,B,3125.0000,
+INVOICE,IN,,02910302,,03/01/2012,3125.0000,"March_Rent-George. Sue",,03/01/2012,03/10/2012,,02915480,5550.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,31,100.0000,3100,"S.George: Basic Service Fee - Studio: George. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: George. Sue",,,,,,,,,,,,,,,

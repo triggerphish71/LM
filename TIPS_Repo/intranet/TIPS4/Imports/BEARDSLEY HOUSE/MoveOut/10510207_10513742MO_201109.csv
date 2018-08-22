@@ -1,0 +1,5 @@
+BATCH,,201109,B,1560.0000,
+INVOICE,IN,,10510207,,09/01/2011,780.0000,"Invoice-Private",,09/01/2011,09/10/2011,,10513742MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,30,26.0000,780.00,"Credit for Limited Term Discount: Antisdel, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10510207,,09/01/2011,780,"Invoice-Private",,09/01/2011,09/10/2011,,10513742MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,30,26,780,"Limited Term Discount: Antisdel, Robert",,,,,,,,,,,,,,,

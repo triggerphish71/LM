@@ -1,0 +1,7 @@
+BATCH,,201207,B,4034.0000,
+INVOICE,IN,,15110131,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15114009MO,-4774.0000,,,,,,,,,,
+TRANSACTION,3320,010212151,1,62.0000,62.00,"CR:Limited Term Di... B.Lawton 201207: Lawton, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,15110131,,07/01/2012,3972,"Invoice-Private",,07/01/2012,07/10/2012,,15114009MO,-4774.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,3472,3472,"CR:Basic Service F... B.Lawton 201207: Lawton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... B.Lawton 201207: Lawton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212151,1,465,465,"CR:Swan Personal C... B.Lawton 201207: Lawton, Betty",,,,,,,,,,,,,,,

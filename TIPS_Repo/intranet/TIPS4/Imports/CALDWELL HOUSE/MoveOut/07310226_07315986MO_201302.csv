@@ -1,0 +1,5 @@
+BATCH,,201302,B,4500.0000,
+INVOICE,CM,,07310226,,02/01/2013,4500,"Invoice-Private",,02/01/2013,02/10/2013,,07315986MO,-5320.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3080,3080,"CR:Basic Service F... E.Kauffman 201302: Kauffman, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... E.Kauffman 201302: Kauffman, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1400,1400,"CR:Resident Care -... E.Kauffman 201302: Kauffman, Ellen",,,,,,,,,,,,,,,

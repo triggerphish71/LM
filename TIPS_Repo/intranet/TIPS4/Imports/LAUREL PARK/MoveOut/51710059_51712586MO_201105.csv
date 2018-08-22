@@ -1,0 +1,8 @@
+BATCH,,201105,B,4506.3000,
+INVOICE,IN,,51710059,,05/10/2011,1093.0000,"Invoice-Private",,05/10/2011,05/10/2011,,51712586MO,-2320.3000,,,,,,,,,,
+TRANSACTION,3027,010103517,10,15.3000,153.00,"Resident Care - Level 9 for May: Shay, Phoebe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103517,10,94.0000,940.00,"Room and Board - Studio Deluxe for May: Shay, Phoebe",,,,,,,,,,,,,,,
+INVOICE,CM,,51710059,,05/10/2011,3413.3,"Invoice-Private",,05/10/2011,05/10/2011,,51712586MO,-2320.3000,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"CR:Monthly Cable... P.Shay 201105: Shay, Phoebe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,474.3,474.3,"CR:Resident Care -... P.Shay 201105: Shay, Phoebe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103517,1,2914,2914,"CR:Room and Board ... P.Shay 201105: Shay, Phoebe",,,,,,,,,,,,,,,

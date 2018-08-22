@@ -1,0 +1,5 @@
+BATCH,,201210,B,3280.0000,
+INVOICE,IN,,50510122,,10/01/2012,3280.0000,"October_Rent-Rock. David",,10/01/2012,10/10/2012,,50511754,5120.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,31,90.0000,2790,"Basic Service Fee - Studio: Rock. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,31,15.0000,465,"Resident Care - Level 1: Rock. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Rock. David",,,,,,,,,,,,,,,

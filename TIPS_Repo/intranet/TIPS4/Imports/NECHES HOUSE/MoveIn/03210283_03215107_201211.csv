@@ -1,0 +1,6 @@
+BATCH,,201211,B,5260.0000,
+INVOICE,IN,,03210283,,11/04/2012,5260.0000,"MoveIn-Moorer. Margaret",,11/04/2012,11/04/2012,,03215107,5260.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,27,113.0000,3051,"M.Moorer: Basic Service Fee - One Bedroom: Moorer. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,27,17.0000,459,"M.Moorer: Resident Care - Level 1: Moorer. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Moorer. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3213,010202032,1,250.0000,250,"Pet Fee: Moorer. Margaret",,,,,,,,,,,,,,,

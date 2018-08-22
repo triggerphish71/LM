@@ -1,0 +1,5 @@
+BATCH,,201201,B,4072.0000,
+INVOICE,IN,,15510242,,01/09/2012,4072.0000,"MoveIn-Kuchenbrod. Richard",,01/09/2012,01/09/2012,,15515052,4072.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,23,89.0000,2047,"Basic Service Fee - Studio: Kuchenbrod. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Kuchenbrod. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Kuchenbrod. Richard",,,,,,,,,,,,,,,

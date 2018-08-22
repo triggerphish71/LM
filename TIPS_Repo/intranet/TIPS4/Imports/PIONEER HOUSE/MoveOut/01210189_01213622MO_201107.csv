@@ -1,0 +1,5 @@
+BATCH,,201107,B,434.0000,
+INVOICE,IN,,01210189,,07/01/2011,217.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01213622MO,-1593.1000,,,,,,,,,,
+TRANSACTION,3320,010103012,31,7.0000,217.00,"Credit for Limited Term Discount: Pegel, Dean",,,,,,,,,,,,,,,
+INVOICE,CM,,01210189,,07/01/2011,217,"Invoice-Private",,07/01/2011,07/10/2011,,01213622MO,-1593.1000,,,,,,,,,,
+TRANSACTION,3320,010103012,31,7,217,"Limited Term Discount: Pegel, Dean",,,,,,,,,,,,,,,

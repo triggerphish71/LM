@@ -1,0 +1,5 @@
+BATCH,,201807,B,4060.0000,
+INVOICE,CM,,05710496,,07/01/2018,4060,"Invoice-Private",,07/01/2018,07/10/2018,,05718319MO,-8770.0000,,,,,,,,,,
+TRANSACTION,3020,010002057,1,3410,3410,"CR:Basic Service F... R.Watson 201807: Watson, Racine",,,,,,,,,,,,,,,
+TRANSACTION,3210,010002057,1,30,30,"CR:Personal Servic... R.Watson 201807: Watson, Racine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002057,1,620,620,"CR:Resident Care -... R.Watson 201807: Watson, Racine",,,,,,,,,,,,,,,

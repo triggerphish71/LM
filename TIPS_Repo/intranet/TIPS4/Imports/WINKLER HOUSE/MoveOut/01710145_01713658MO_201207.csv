@@ -1,0 +1,7 @@
+BATCH,,201207,B,4987.0000,
+INVOICE,IN,,01710145,,07/01/2012,527.0000,"Invoice-Private",,07/01/2012,07/10/2012,,01713658MO,-4451.0000,,,,,,,,,,
+TRANSACTION,3320,010202017,1,527.0000,527.00,"CR:Limited Term Di... L.Graves 201207: Graves, Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,01710145,,07/01/2012,4460,"Invoice-Private",,07/01/2012,07/10/2012,,01713658MO,-4451.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,3472,3472,"CR:Basic Service F... L.Graves 201207: Graves, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... L.Graves 201207: Graves, Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,961,961,"CR:Resident Care -... L.Graves 201207: Graves, Lee",,,,,,,,,,,,,,,

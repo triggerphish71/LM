@@ -1,0 +1,8 @@
+BATCH,,201205,B,8530.0000,
+INVOICE,IN,,53010172,,05/21/2012,4004.0000,"Invoice-Private",,05/21/2012,05/21/2012,,53016149MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,62.0000,62.00,"CR:Limited Term Di... E.Fischer 201205: Fischer, Ernst",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,27,102.0000,2754.00,"Basic Service Fee - One Bedroom for May: Fischer, Ernst",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,27,44.0000,1188.00,"Resident Care - Level 2 for May: Fischer, Ernst",,,,,,,,,,,,,,,
+INVOICE,CM,,53010172,,05/21/2012,4526,"Invoice-Private",,05/21/2012,05/21/2012,,53016149MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3162,3162,"CR:Basic Service F... E.Fischer 201205: Fischer, Ernst",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1364,1364,"CR:Resident Care -... E.Fischer 201205: Fischer, Ernst",,,,,,,,,,,,,,,

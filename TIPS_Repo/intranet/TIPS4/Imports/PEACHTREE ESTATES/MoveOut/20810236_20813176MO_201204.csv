@@ -1,0 +1,8 @@
+BATCH,,201204,B,8643.2500,
+INVOICE,IN,,20810236,,04/19/2012,3865.7500,"Invoice-Private",,04/19/2012,04/19/2012,,20813176MO,-4980.5000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,840.0000,840.00,"CR:Limited Term Di... G.Perkins 201204: Perkins, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,19,81.2500,1543.75,"Resident Care - Level 6+11 pts for Apr: Perkins, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,19,78.0000,1482.00,"Studio for Apr: Perkins, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,20810236,,04/19/2012,4777.5,"Invoice-Private",,04/19/2012,04/19/2012,,20813176MO,-4980.5000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,2437.5,2437.5,"CR:Resident Care -... G.Perkins 201204: Perkins, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2340,2340,"CR:Studio... G.Perkins 201204: Perkins, Gladys",,,,,,,,,,,,,,,

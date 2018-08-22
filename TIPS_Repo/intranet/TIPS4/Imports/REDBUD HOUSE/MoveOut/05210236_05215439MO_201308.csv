@@ -1,0 +1,6 @@
+BATCH,,201308,B,4309.0000,
+INVOICE,IN,,05210236,,08/01/2013,1302.0000,"Invoice-Private",,08/01/2013,08/10/2013,,05215439MO,-3008.0000,,,,,,,,,,
+TRANSACTION,3027,010202052,1,1302.0000,1302.00,"CR:Resident Care L... M.Denison 201308: Denison, Miriam",,,,,,,,,,,,,,,
+INVOICE,CM,,05210236,,08/01/2013,3007,"Invoice-Private",,08/01/2013,08/10/2013,,05215439MO,-3008.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,1705,1705,"CR:Basic Service F... M.Denison 201308: Denison, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,1302,1302,"CR:Resident Care -... M.Denison 201308: Denison, Miriam",,,,,,,,,,,,,,,

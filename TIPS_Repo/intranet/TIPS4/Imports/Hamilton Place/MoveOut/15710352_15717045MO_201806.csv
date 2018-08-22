@@ -1,0 +1,7 @@
+BATCH,,201806,B,4104.0000,
+INVOICE,IN,,15710352,,06/06/2018,684.0000,"Invoice-Private",,06/06/2018,06/06/2018,,15717045MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3020,010009157,6,56.0000,336.00,"Basic Service Fee - Studio for Jun: Laclair, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009157,6,58.0000,348.00,"Resident Care - Level 3 for Jun: Laclair, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,15710352,,06/06/2018,3420,"Invoice-Private",,06/06/2018,06/06/2018,,15717045MO,-2736.0000,,,,,,,,,,
+TRANSACTION,3020,010009157,1,1680,1680,"CR:Basic Service F... M.Laclair 201806: Laclair, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009157,1,1740,1740,"CR:Resident Care -... M.Laclair 201806: Laclair, Mary",,,,,,,,,,,,,,,

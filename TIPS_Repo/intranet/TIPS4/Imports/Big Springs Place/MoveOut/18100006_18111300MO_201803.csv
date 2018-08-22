@@ -1,0 +1,8 @@
+BATCH,,201803,B,2781.0000,
+INVOICE,IN,,18100006,,03/08/2018,456.0000,"Invoice-Private",,03/08/2018,03/08/2018,,18111300MO,-1869.0000,,,,,,,,,,
+TRANSACTION,3017,010012181,-4,28.0000,-112.00,"Level Care:  2  - 2018-02-25: Dingler, Betty ",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012181,12,16.0000,192.00," Level Care:  1 : Dingler, Betty ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012181,8,47.0000,376.00,"Studio  for Mar: Dingler, Betty ",,,,,,,,,,,,,,,
+INVOICE,CM,,18100006,,03/08/2018,2325,"Invoice-Private",,03/08/2018,03/08/2018,,18111300MO,-1869.0000,,,,,,,,,,
+TRANSACTION,3027,010012181,1,868,868,"CR:Resident Care -... B.Dingler 201803: Dingler, Betty ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012181,1,1457,1457,"CR:Studio... B.Dingler 201803: Dingler, Betty ",,,,,,,,,,,,,,,

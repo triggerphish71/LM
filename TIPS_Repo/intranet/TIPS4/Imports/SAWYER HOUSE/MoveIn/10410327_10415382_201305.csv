@@ -1,0 +1,5 @@
+BATCH,,201305,B,3781.6000,
+INVOICE,IN,,10410327,,05/15/2013,3781.6000,"MoveIn-Simon. Richard",,05/15/2013,05/15/2013,,10415382,6925.6000,,,,,,,,,,
+TRANSACTION,3010,010101104,17,90.0000,1530,"Basic Service Fee - Studio: Simon. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101104,17,14.8000,251.6,"Resident Care - Level 8: Simon. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000.0000,2000,"New Resident Fee: Simon. Richard",,,,,,,,,,,,,,,

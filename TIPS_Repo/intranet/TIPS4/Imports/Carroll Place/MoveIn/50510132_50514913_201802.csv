@@ -1,0 +1,6 @@
+BATCH,,201802,B,5100.9700,
+INVOICE,IN,,50510132,,02/01/2018,5100.9700,"MoveIn-Fernekes. Agnus",,02/01/2018,02/01/2018,,50514913,5100.9700,,,,,,,,,,
+TRANSACTION,3010,010005505,28,86.0000,2408,"Basic Service Fee - Studio: Fernekes. Agnus",,,,,,,,,,,,,,,
+TRANSACTION,3260,010005505,1,26.3000,26.3,"Monthly Cable: Fernekes. Agnus",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005505,1,2000.0000,2000,"Community Fee: Fernekes. Agnus",,,,,,,,,,,,,,,
+TRANSACTION,3216,010005505,1,666.6700,666.67,"Monthly Deferral Charge: Fernekes. Agnus",,,,,,,,,,,,,,,

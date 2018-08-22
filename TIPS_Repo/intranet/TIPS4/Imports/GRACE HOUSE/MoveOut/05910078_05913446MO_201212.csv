@@ -1,0 +1,7 @@
+BATCH,,201212,B,6563.2800,
+INVOICE,IN,,05910078,,12/01/2012,3055.3200,"Invoice-Private",,12/01/2012,12/10/2012,,05913446MO,-452.6400,,,,,,,,,,
+TRANSACTION,3020,010101059,27,106.0000,2862.00,"Basic Service Fee - One Bedroom for Dec: Weston, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,27,7.1600,193.32,"Resident Care - Level 4 for Dec: Weston, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,05910078,,12/01/2012,3507.96,"Invoice-Private",,12/01/2012,12/10/2012,,05913446MO,-452.6400,,,,,,,,,,
+TRANSACTION,3020,010101059,1,3286,3286,"CR:Basic Service F... E.Weston 201212: Weston, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,221.96,221.96,"CR:Resident Care -... E.Weston 201212: Weston, Esther",,,,,,,,,,,,,,,

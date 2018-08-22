@@ -1,0 +1,6 @@
+BATCH,,201107,B,2223.6000,
+INVOICE,IN,,10710325,,07/24/2011,1468.8000,"Invoice-Respite",,07/24/2011,07/24/2011,,10715687MO,714.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,17,42.0000,714.00,"Rm and Brd- Respite Second Resident for Jul: Forster, Maria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,17,44.4000,754.80,"Rm and Brd- Respite Second Resident for Jul: Forster, Maria",,,,,,,,,,,,,,,
+INVOICE,CM,,10710325,,07/24/2011,754.8,"Invoice-Respite",,07/24/2011,07/24/2011,,10715687MO,714.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,17,44.4,754.8,"Rm and Brd- Respite Second Resident for Jul: Forster, Maria",,,,,,,,,,,,,,,

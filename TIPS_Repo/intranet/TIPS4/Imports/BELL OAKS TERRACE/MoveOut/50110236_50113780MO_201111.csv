@@ -1,0 +1,6 @@
+BATCH,,201111,B,2970.0000,
+INVOICE,IN,,50110236,,11/01/2011,420.0000,"Invoice-Private",,11/01/2011,11/10/2011,,50113780MO,-2130.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,420.0000,420.00,"CR:Limited Term Di... D.Morehead 201111: Morehead, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,50110236,,11/01/2011,2550,"Invoice-Private",,11/01/2011,11/10/2011,,50113780MO,-2130.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2520,2520,"CR:Basic Service F... D.Morehead 201111: Morehead, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... D.Morehead 201111: Morehead, Doris",,,,,,,,,,,,,,,

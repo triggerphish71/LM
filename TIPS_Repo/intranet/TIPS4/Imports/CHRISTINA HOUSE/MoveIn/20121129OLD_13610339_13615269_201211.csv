@@ -1,0 +1,5 @@
+BATCH,,201211,B,1165.0000,
+INVOICE,IN,,13610339,,11/29/2012,1165.0000,"MoveIn-Sprague. Bob",,11/29/2012,11/29/2012,,13615269,3215.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,2,65.0000,130,"Basic Service Fee - Studio: Sprague. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Sprague. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Sprague. Bob",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,204.0000,
+INVOICE,IN,,11810082,,08/01/2011,102.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11814852MO,-4316.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40.00,"Monthly Cable: Bordas, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310118,31,2.0000,62.00,"Credit for Limited Term Discount: Bordas, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,11810082,,08/01/2011,102,"Invoice-Private",,08/01/2011,08/10/2011,,11814852MO,-4316.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"Credit for Monthly Cable: Bordas, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310118,31,2,62,"Limited Term Discount: Bordas, Carl",,,,,,,,,,,,,,,

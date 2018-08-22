@@ -1,0 +1,7 @@
+BATCH,,201201,B,1662.0000,
+INVOICE,IN,,11010341,,01/01/2012,831.0000,"Invoice-Private",,01/01/2012,01/10/2012,,11014735MO,-2729.0000,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25.00,"Monthly Cable: Warner, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107110,31,26.0000,806.00,"Credit for Limited Term Discount: Warner, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,11010341,,01/01/2012,831,"Invoice-Private",,01/01/2012,01/10/2012,,11014735MO,-2729.0000,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25,25,"Credit for Monthly Cable: Warner, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010107110,31,26,806,"Limited Term Discount: Warner, Richard",,,,,,,,,,,,,,,

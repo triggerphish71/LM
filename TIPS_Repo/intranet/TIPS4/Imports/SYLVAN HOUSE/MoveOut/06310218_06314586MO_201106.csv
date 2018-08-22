@@ -1,0 +1,8 @@
+BATCH,,201106,B,5305.0000,
+INVOICE,IN,,06310218,,06/14/2011,1680.0000,"Invoice-Private",,06/14/2011,06/14/2011,,06314586MO,-1945.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,14,105.0000,1470.00,"Basic Service Fee - One Bedroom for Jun: Bogen, Patty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,14,15.0000,210.00,"Resident Care - Level 1 for Jun: Bogen, Patty",,,,,,,,,,,,,,,
+INVOICE,CM,,06310218,,06/14/2011,3625,"Invoice-Private",,06/14/2011,06/14/2011,,06314586MO,-1945.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,3150,3150,"CR:Basic Service F... P.Bogen 201106: Bogen, Patty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... P.Bogen 201106: Bogen, Patty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,450,450,"CR:Resident Care -... P.Bogen 201106: Bogen, Patty",,,,,,,,,,,,,,,

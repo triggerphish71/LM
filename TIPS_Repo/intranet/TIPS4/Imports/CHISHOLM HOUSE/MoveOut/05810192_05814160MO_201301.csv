@@ -1,0 +1,5 @@
+BATCH,,201301,B,124.0000,
+INVOICE,IN,,05810192,,01/01/2013,62.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05814160MO,-1159.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,31,2.0000,62.00,"Credit for Limited Term Discount: Ryan, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,05810192,,01/01/2013,62,"Invoice-Private",,01/01/2013,01/10/2013,,05814160MO,-1159.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,31,2,62,"Limited Term Discount: Ryan, Ruth",,,,,,,,,,,,,,,

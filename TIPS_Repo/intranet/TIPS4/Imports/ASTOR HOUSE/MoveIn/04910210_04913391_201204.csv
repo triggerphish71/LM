@@ -1,0 +1,6 @@
+BATCH,,201204,B,2415.9600,
+INVOICE,IN,,04910210,,04/27/2012,2415.9600,"MoveIn-Lovvold. Edna",,04/27/2012,04/27/2012,,04913391,5470.9000,,,,,,,,,,
+TRANSACTION,3010,010101049,4,87.0000,348,"Basic Service Fee - Studio: Lovvold. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,4,10.7400,42.96,"Resident Care - Level 6: Lovvold. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Lovvold. Edna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101049,1,2000.0000,2000,"New Resident Fee: Lovvold. Edna",,,,,,,,,,,,,,,

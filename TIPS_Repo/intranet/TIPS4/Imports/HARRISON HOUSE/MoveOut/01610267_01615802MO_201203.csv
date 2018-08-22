@@ -1,0 +1,8 @@
+BATCH,,201203,B,6361.0000,
+INVOICE,IN,,01610267,,03/15/2012,2244.0000,"Invoice-Private",,03/15/2012,03/15/2012,,01615802MO,-5858.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,17,86.0000,1462.00,"Basic Service Fee - Studio for Mar: Eck, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,17,46.0000,782.00,"Resident Care - Level 3 for Mar: Eck, Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,01610267,,03/15/2012,4117,"Invoice-Private",,03/15/2012,03/15/2012,,01615802MO,-5858.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... J.Eck 201203: Eck, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... J.Eck 201203: Eck, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,1426,1426,"CR:Resident Care -... J.Eck 201203: Eck, Judy",,,,,,,,,,,,,,,

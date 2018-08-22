@@ -1,0 +1,6 @@
+BATCH,,201207,B,5805.0000,
+INVOICE,IN,,16310257,,07/15/2012,2457.0000,"Invoice-Private",,07/15/2012,07/15/2012,,16316775MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,837.0000,837.00,"CR:Limited Term Di... L.Notley 201207: Notley, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,15,108.0000,1620.00,"Basic Service Fee - Studio Deluxe for Jul: Notley, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,16310257,,07/15/2012,3348,"Invoice-Private",,07/15/2012,07/15/2012,,16316775MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... L.Notley 201207: Notley, Lois",,,,,,,,,,,,,,,

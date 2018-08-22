@@ -1,0 +1,5 @@
+BATCH,,201205,B,7224.0000,
+INVOICE,IN,,07310227,,05/25/2012,3225.0000,"Invoice-Private",,05/25/2012,05/25/2012,,07315586MO,-4664.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,25,129.0000,3225.00,"Basic Service Fee - One Bedroom for May: Wogoman, Russel",,,,,,,,,,,,,,,
+INVOICE,CM,,07310227,,05/25/2012,3999,"Invoice-Private",,05/25/2012,05/25/2012,,07315586MO,-4664.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3999,3999,"CR:Basic Service F... R.Wogoman 201205: Wogoman, Russel",,,,,,,,,,,,,,,

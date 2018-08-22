@@ -1,0 +1,5 @@
+BATCH,,201201,B,4551.0000,
+INVOICE,CM,,52910177,,01/01/2012,4551,"Invoice-Private",,01/01/2012,01/10/2012,,52912892MO,-4883.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2914,2914,"CR:Basic Service F... N.Parkinson 201201: Parkinson, Nola",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... N.Parkinson 201201: Parkinson, Nola",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,1612,1612,"CR:Resident Care -... N.Parkinson 201201: Parkinson, Nola",,,,,,,,,,,,,,,

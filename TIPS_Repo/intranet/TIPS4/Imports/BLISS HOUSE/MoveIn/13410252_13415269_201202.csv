@@ -1,0 +1,5 @@
+BATCH,,201202,B,3059.0000,
+INVOICE,IN,,13410252,,02/08/2012,3059.0000,"MoveIn-Brown. Bill",,02/08/2012,02/08/2012,,13415269,3059.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,22,92.0000,2024,"Basic Service Fee - Studio: Brown. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Brown. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: Brown. Bill",,,,,,,,,,,,,,,

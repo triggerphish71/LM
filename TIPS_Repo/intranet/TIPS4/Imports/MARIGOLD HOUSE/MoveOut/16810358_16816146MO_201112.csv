@@ -1,0 +1,8 @@
+BATCH,,201112,B,2469.0000,
+INVOICE,IN,,16810358,,12/10/2011,1136.0000,"Invoice-Private",,12/10/2011,12/10/2011,,16816146MO,-197.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,1,620.0000,620.00,"CR:Limited Term Di... D.Mulea 201112: Mulea, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,12,30.0000,360.00,"Basic Service Fee - Second Resident for Dec: Mulea, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,12,13.0000,156.00,"Resident Care - Level 1 for Dec: Mulea, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,16810358,,12/10/2011,1333,"Invoice-Private",,12/10/2011,12/10/2011,,16816146MO,-197.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,930,930,"CR:Basic Service F... D.Mulea 201112: Mulea, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,403,403,"CR:Resident Care -... D.Mulea 201112: Mulea, Dorothy",,,,,,,,,,,,,,,

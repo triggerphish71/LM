@@ -1,0 +1,7 @@
+BATCH,,201205,B,194.0000,
+INVOICE,IN,,12410272,,05/01/2012,97.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12414759MO,-6754.5500,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Otto, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211124,31,2.0000,62.00,"Credit for Limited Term Discount: Otto, Ervin",,,,,,,,,,,,,,,
+INVOICE,CM,,12410272,,05/01/2012,97,"Invoice-Private",,05/01/2012,05/10/2012,,12414759MO,-6754.5500,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Otto, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211124,31,2,62,"Limited Term Discount: Otto, Ervin",,,,,,,,,,,,,,,

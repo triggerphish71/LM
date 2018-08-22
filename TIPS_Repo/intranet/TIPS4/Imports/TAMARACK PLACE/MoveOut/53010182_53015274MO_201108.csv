@@ -1,0 +1,6 @@
+BATCH,,201108,B,1297.9700,
+INVOICE,IN,,53010182,,08/01/2011,212.9700,"Invoice-Private",,08/01/2011,08/10/2011,,53015274MO,-872.0300,,,,,,,,,,
+TRANSACTION,3311,010319530,1,26.9700,26.97,"CR:Advance Payment... L.Frerichs 201108: Frerichs, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319530,1,186.0000,186.00,"CR:Limited Term Di... L.Frerichs 201108: Frerichs, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,53010182,,08/01/2011,1085,"Invoice-Private",,08/01/2011,08/10/2011,,53015274MO,-872.0300,,,,,,,,,,
+TRANSACTION,3020,010319530,1,1085,1085,"CR:Basic Service F... L.Frerichs 201108: Frerichs, Lillian",,,,,,,,,,,,,,,

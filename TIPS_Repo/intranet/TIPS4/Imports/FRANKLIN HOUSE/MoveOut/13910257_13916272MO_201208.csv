@@ -1,0 +1,5 @@
+BATCH,,201208,B,1054.0000,
+INVOICE,IN,,13910257,,08/01/2012,527.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13916272MO,46.0000,,,,,,,,,,
+TRANSACTION,3320,010103139,31,17.0000,527.00,"Credit for Limited Term Discount: Nelson, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,13910257,,08/01/2012,527,"Invoice-Private",,08/01/2012,08/10/2012,,13916272MO,46.0000,,,,,,,,,,
+TRANSACTION,3320,010103139,31,17,527,"Limited Term Discount: Nelson, Janice",,,,,,,,,,,,,,,

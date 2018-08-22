@@ -1,0 +1,7 @@
+BATCH,,201206,B,5568.0000,
+INVOICE,IN,,11710227,,06/14/2012,2088.0000,"Invoice-Private",,06/14/2012,06/14/2012,,11713825MO,-4988.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,18,86.0000,1548.00,"Basic Service Fee - Studio for Jun: Boesch, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,18,30.0000,540.00,"Resident Care - Level 2 for Jun: Boesch, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,11710227,,06/14/2012,3480,"Invoice-Private",,06/14/2012,06/14/2012,,11713825MO,-4988.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2580,2580,"CR:Basic Service F... A.Boesch 201206: Boesch, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,900,900,"CR:Resident Care -... A.Boesch 201206: Boesch, Audrey",,,,,,,,,,,,,,,

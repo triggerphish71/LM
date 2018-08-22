@@ -1,0 +1,7 @@
+BATCH,,201105,B,4601.0000,
+INVOICE,IN,,09210232,,05/12/2011,1284.0000,"Invoice-Private",,05/12/2011,05/12/2011,,09214434MO,-2033.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,12,75.0000,900.00,"Basic Service Fee - Studio for May: Hoggatt, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,12,32.0000,384.00,"Resident Care - Level 2 for May: Hoggatt, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,09210232,,05/12/2011,3317,"Invoice-Private",,05/12/2011,05/12/2011,,09214434MO,-2033.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2325,2325,"CR:Basic Service F... R.Hoggatt 201105: Hoggatt, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,992,992,"CR:Resident Care -... R.Hoggatt 201105: Hoggatt, Ruth",,,,,,,,,,,,,,,

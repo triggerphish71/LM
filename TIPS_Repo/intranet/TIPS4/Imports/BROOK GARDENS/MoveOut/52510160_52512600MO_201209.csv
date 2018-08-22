@@ -1,0 +1,7 @@
+BATCH,,201209,B,8736.0000,
+INVOICE,IN,,52510160,,09/01/2012,3276.0000,"Invoice-Private",,09/01/2012,09/10/2012,,52512600MO,-2184.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,18,127.0000,2286.00,"Basic Service Fee - Studio Deluxe for Sep: Knies, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,18,55.0000,990.00,"Resident Care - Level 4 for Sep: Knies, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,52510160,,09/01/2012,5460,"Invoice-Private",,09/01/2012,09/10/2012,,52512600MO,-2184.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3810,3810,"CR:Basic Service F... H.Knies 201209: Knies, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,1650,1650,"CR:Resident Care -... H.Knies 201209: Knies, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,56.0000,
+INVOICE,IN,,01310177,,05/01/2012,28.0000,"Invoice-Private",,05/01/2012,05/10/2012,,01314078MO,-1994.1200,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Larson, Harley",,,,,,,,,,,,,,,
+INVOICE,CM,,01310177,,05/01/2012,28,"Invoice-Private",,05/01/2012,05/10/2012,,01314078MO,-1994.1200,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Larson, Harley",,,,,,,,,,,,,,,

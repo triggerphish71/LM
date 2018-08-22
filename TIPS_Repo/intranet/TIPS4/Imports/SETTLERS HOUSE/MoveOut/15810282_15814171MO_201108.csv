@@ -1,0 +1,8 @@
+BATCH,,201108,B,4552.0000,
+INVOICE,IN,,15810282,,08/05/2011,109.0000,"Invoice-Private",,08/05/2011,08/05/2011,,15814171MO,-7604.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,92.0000,92.00,"Basic Service Fee - Studio for Aug: Huff, Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,17.0000,17.00,"Resident Care - Level 1 for Aug: Huff, Calvin",,,,,,,,,,,,,,,
+INVOICE,CM,,15810282,,08/05/2011,4443,"Invoice-Private",,08/05/2011,08/05/2011,,15814171MO,-7604.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2484,2484,"CR:Basic Service F... C.Huff 201108: Huff, Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500,1500,"CR:New Resident Fe... C.Huff 201108: Huff, Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,459,459,"CR:Resident Care -... C.Huff 201108: Huff, Calvin",,,,,,,,,,,,,,,

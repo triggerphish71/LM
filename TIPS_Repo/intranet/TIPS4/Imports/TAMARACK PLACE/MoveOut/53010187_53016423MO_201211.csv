@@ -1,0 +1,7 @@
+BATCH,,201211,B,200.0000,
+INVOICE,IN,,53010187,,11/01/2012,100.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53016423MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40.0000,40.00,"Monthly Cable: Leinbeck, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319530,30,2.0000,60.00,"Credit for Limited Term Discount: Leinbeck, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,53010187,,11/01/2012,100,"Invoice-Private",,11/01/2012,11/10/2012,,53016423MO,-4842.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"Credit for Monthly Cable: Leinbeck, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319530,30,2,60,"Limited Term Discount: Leinbeck, Joseph",,,,,,,,,,,,,,,

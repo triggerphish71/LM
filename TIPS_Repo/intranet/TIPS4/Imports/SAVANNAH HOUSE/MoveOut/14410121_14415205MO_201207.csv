@@ -1,0 +1,6 @@
+BATCH,,201207,B,3845.0000,
+INVOICE,CM,,14410121,,07/01/2012,3845,"Invoice-Private",,07/01/2012,07/10/2012,,14415205MO,-3845.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... M.Robinson 201207: Robinson, May",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... M.Robinson 201207: Robinson, May",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"CR:Pendant Fee... M.Robinson 201207: Robinson, May",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... M.Robinson 201207: Robinson, May",,,,,,,,,,,,,,,

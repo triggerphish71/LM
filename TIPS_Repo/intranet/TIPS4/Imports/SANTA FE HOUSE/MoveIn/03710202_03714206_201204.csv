@@ -1,0 +1,6 @@
+BATCH,,201204,B,4463.0000,
+INVOICE,IN,,03710202,,04/05/2012,4463.0000,"MoveIn-Davis. Dan",,04/05/2012,04/05/2012,,03714206,4463.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,26,97.0000,2522,"Basic Service Fee - Studio: Davis. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202037,26,16.0000,416,"Resident Care - Level 1: Davis. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Davis. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,1500.0000,1500,"New Resident Fee: Davis. Dan",,,,,,,,,,,,,,,

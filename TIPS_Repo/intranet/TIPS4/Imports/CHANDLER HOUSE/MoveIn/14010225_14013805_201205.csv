@@ -1,0 +1,6 @@
+BATCH,,201205,B,3630.0000,
+INVOICE,IN,,14010225,,05/12/2012,3630.0000,"MoveIn-Freeman. Nancy",,05/12/2012,05/12/2012,,14013805,3630.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,20,88.0000,1760,"N.Freeman: Basic Service Fee - Studio: Freeman. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,20,17.0000,340,"N.Freeman: Resident Care - Level 1: Freeman. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Freeman. Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: Freeman. Nancy",,,,,,,,,,,,,,,

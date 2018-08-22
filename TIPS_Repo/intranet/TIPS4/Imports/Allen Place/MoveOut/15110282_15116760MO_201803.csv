@@ -1,0 +1,8 @@
+BATCH,,201803,B,2013.0000,
+INVOICE,IN,,15110282,,03/11/2018,804.0000,"Invoice-Private",,03/11/2018,03/11/2018,,15116760MO,-405.0000,,,,,,,,,,
+TRANSACTION,3017,010012151,4,19.0000,76.00," Level Care:  1  -from 2018-02-25: Andersen, Darrel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012151,5,19.0000,95.00,"Level Care:  1  - 2018-03-06: Andersen, Darrel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010012151,6,34.0000,204.00," Level Care:  2 : Andersen, Darrel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010012151,11,39.0000,429.00,"Basic Service Fee - Studio  for Mar: Andersen, Darrel",,,,,,,,,,,,,,,
+INVOICE,CM,,15110282,,03/11/2018,1209,"Invoice-Private",,03/11/2018,03/11/2018,,15116760MO,-405.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,1209,1209,"CR:Basic Service F... D.Andersen 201803: Andersen, Darrel",,,,,,,,,,,,,,,

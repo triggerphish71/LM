@@ -1,0 +1,8 @@
+BATCH,,201211,B,5457.0000,
+INVOICE,IN,,03010206,,11/01/2012,2614.8000,"Invoice-Private",,11/01/2012,11/10/2012,,03014172MO,-227.4000,,,,,,,,,,
+TRANSACTION,3320,010103030,1,720.0000,720.00,"CR:Limited Term Di... R.Dill 201211: Dill, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103030,20,84.0000,1680.00,"Basic Service Fee - Studio for Nov: Dill, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,20,10.7400,214.80,"Resident Care - Level 6 for Nov: Dill, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,03010206,,11/01/2012,2842.2,"Invoice-Private",,11/01/2012,11/10/2012,,03014172MO,-227.4000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2520,2520,"CR:Basic Service F... R.Dill 201211: Dill, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,322.2,322.2,"CR:Resident Care -... R.Dill 201211: Dill, Ronald",,,,,,,,,,,,,,,

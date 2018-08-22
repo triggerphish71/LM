@@ -1,0 +1,6 @@
+BATCH,,201203,B,3925.0000,
+INVOICE,IN,,10010221,,03/03/2012,3925.0000,"MoveIn-Eckroth. Bertha",,03/03/2012,03/03/2012,,10013855,3925.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,29,85.0000,2465,"B.Eckroth: Basic Service Fee - Studio: Eckroth. Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,29,15.0000,435,"B.Eckroth: Resident Care - Level 1: Eckroth. Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Eckroth. Bertha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,1000.0000,1000,"New Resident Fee: Eckroth. Bertha",,,,,,,,,,,,,,,

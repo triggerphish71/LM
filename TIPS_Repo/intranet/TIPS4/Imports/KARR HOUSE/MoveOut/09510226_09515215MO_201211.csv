@@ -1,0 +1,6 @@
+BATCH,,201211,B,5110.2000,
+INVOICE,IN,,09510226,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,09515215MO,-6611.6000,,,,,,,,,,
+TRANSACTION,3320,010103095,1,60.0000,60.00,"CR:Limited Term Di... P.Edwards 201211: Edwards, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,09510226,,11/01/2012,5050.2,"Invoice-Private",,11/01/2012,11/10/2012,,09515215MO,-6611.6000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2580,2580,"CR:Basic Service F... P.Edwards 201211: Edwards, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,2470.2,2470.2,"CR:Resident Care -... P.Edwards 201211: Edwards, Pauline",,,,,,,,,,,,,,,

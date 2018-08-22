@@ -1,0 +1,8 @@
+BATCH,,201207,B,4064.0000,
+INVOICE,IN,,19810219,,07/01/2012,62.0000,"Invoice-Private",,07/01/2012,07/10/2012,,19817512MO,-4834.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,62.0000,62.00,"CR:Limited Term Di... D.Anstoetter 201207: Anstoetter, Dorie",,,,,,,,,,,,,,,
+INVOICE,CM,,19810219,,07/01/2012,4002,"Invoice-Private",,07/01/2012,07/10/2012,,19817512MO,-4834.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2046,2046,"CR:Basic Service F... D.Anstoetter 201207: Anstoetter, Dorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... D.Anstoetter 201207: Anstoetter, Dorie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010112198,1,35,35,"CR:Pendant Fee... D.Anstoetter 201207: Anstoetter, Dorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1891,1891,"CR:Swan Personal C... D.Anstoetter 201207: Anstoetter, Dorie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201110,B,3503.0000,
+INVOICE,IN,,10810240,,10/01/2011,930.0000,"Invoice-Private",,10/01/2011,10/10/2011,,10814614MO,-1799.0000,,,,,,,,,,
+TRANSACTION,3321,010308108,1,930.0000,930.00,"CR:2nd Resident Fr... L.Gauvin 201110: Gauvin, Leon",,,,,,,,,,,,,,,
+INVOICE,CM,,10810240,,10/01/2011,2573,"Invoice-Private",,10/01/2011,10/10/2011,,10814614MO,-1799.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,930,930,"CR:Basic Service F... L.Gauvin 201110: Gauvin, Leon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,1643,1643,"CR:Resident Care -... L.Gauvin 201110: Gauvin, Leon",,,,,,,,,,,,,,,

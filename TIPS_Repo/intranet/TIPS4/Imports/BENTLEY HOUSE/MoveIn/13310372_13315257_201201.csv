@@ -1,0 +1,6 @@
+BATCH,,201201,B,2580.0000,
+INVOICE,IN,,13310372,,01/27/2012,2580.0000,"MoveIn-Clarke. Doris",,01/27/2012,01/27/2012,,13315257,5776.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,5,92.0000,460,"Basic Service Fee - Studio: Clarke. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,5,17.0000,85,"Resident Care - Level 1: Clarke. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Clarke. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Clarke. Doris",,,,,,,,,,,,,,,

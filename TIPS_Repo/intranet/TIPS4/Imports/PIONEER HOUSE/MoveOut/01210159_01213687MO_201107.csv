@@ -1,0 +1,8 @@
+BATCH,,201107,B,7027.4000,
+INVOICE,IN,,01210159,,07/23/2011,2980.8000,"Invoice-Private",,07/23/2011,07/23/2011,,01213687MO,-5112.4000,,,,,,,,,,
+TRANSACTION,3020,010103012,23,99.0000,2277.00,"Basic Service Fee - One Bedroom for Jul: Bushnell, Verla",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,23,30.6000,703.80,"Resident Care - Level 18 for Jul: Bushnell, Verla",,,,,,,,,,,,,,,
+INVOICE,CM,,01210159,,07/23/2011,4046.6,"Invoice-Private",,07/23/2011,07/23/2011,,01213687MO,-5112.4000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,3069,3069,"CR:Basic Service F... V.Bushnell 201107: Bushnell, Verla",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... V.Bushnell 201107: Bushnell, Verla",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,948.6,948.6,"CR:Resident Care -... V.Bushnell 201107: Bushnell, Verla",,,,,,,,,,,,,,,

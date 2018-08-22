@@ -1,0 +1,5 @@
+BATCH,,201301,B,1790.8500,
+INVOICE,IN,,03010225,,01/29/2013,1790.8500,"MoveIn-Sveum. Jean",,01/29/2013,01/29/2013,,03014288,4505.4500,,,,,,,,,,
+TRANSACTION,3010,010103030,3,84.0000,252,"Basic Service Fee - Studio: Sveum. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,3,12.9500,38.85,"Resident Care - Level 7: Sveum. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,1500.0000,1500,"New Resident Fee: Sveum. Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,625.0000,
+INVOICE,IN,,07510273,,11/30/2012,625.0000,"MoveIn-Wiles. Francis",,11/30/2012,11/30/2012,,07515037,3750.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,1,85.0000,85,"Basic Service Fee - Studio: Wiles. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,1,15.0000,15,"Resident Care - Level 1: Wiles. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Wiles. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,500.0000,500,"New Resident Fee: Wiles. Francis",,,,,,,,,,,,,,,

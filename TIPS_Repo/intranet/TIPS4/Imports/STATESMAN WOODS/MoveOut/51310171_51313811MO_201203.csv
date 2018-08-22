@@ -1,0 +1,7 @@
+BATCH,,201203,B,6909.0000,
+INVOICE,IN,,51310171,,03/16/2012,2352.0000,"Invoice-Private",,03/16/2012,03/16/2012,,51313811MO,-6615.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,16,108.0000,1728.00,"Basic Service Fee- Studio for Mar: Grant, Antoinette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,16,39.0000,624.00,"Resident Care - Level 3 for Mar: Grant, Antoinette",,,,,,,,,,,,,,,
+INVOICE,CM,,51310171,,03/16/2012,4557,"Invoice-Private",,03/16/2012,03/16/2012,,51313811MO,-6615.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3348,3348,"CR:Basic Service F... A.Grant 201203: Grant, Antoinette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1209,1209,"CR:Resident Care -... A.Grant 201203: Grant, Antoinette",,,,,,,,,,,,,,,

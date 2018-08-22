@@ -1,0 +1,5 @@
+BATCH,,201111,B,3345.0000,
+INVOICE,IN,,10910215,,11/16/2011,3345.0000,"MoveIn-Sprague. Mary",,11/16/2011,11/16/2011,,10914450,3345.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,15,88.0000,1320,"Basic Service Fee - Deluxe: Sprague. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Sprague. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Sprague. Mary",,,,,,,,,,,,,,,

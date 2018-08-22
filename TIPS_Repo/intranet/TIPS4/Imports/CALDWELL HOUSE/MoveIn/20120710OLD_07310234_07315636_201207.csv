@@ -1,0 +1,7 @@
+BATCH,,201207,B,2112.0000,
+INVOICE,IN,,07310234,,06/29/2012,128.0000,"MoveIn-Beaver. Robert",,06/29/2012,06/29/2012,,07315636,2112.0000,,,,,,,,,,
+TRANSACTION,3014,010305073,2,31.0000,62,"R.Beaver: Basic Service Fee - Second Resident: Beaver. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,2,33.0000,66,"R.Beaver: Resident Care - Level 2: Beaver. Robert",,,,,,,,,,,,,,,
+INVOICE,IN,,07310234,,07/01/2012,1984.0000,"July_Rent-Beaver. Robert",,07/01/2012,07/10/2012,,07315636,2112.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,31,31.0000,961,"R.Beaver: Basic Service Fee - Second Resident: Beaver. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,31,33.0000,1023,"R.Beaver: Resident Care - Level 2: Beaver. Robert",,,,,,,,,,,,,,,

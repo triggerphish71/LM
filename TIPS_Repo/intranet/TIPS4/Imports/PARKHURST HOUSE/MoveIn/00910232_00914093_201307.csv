@@ -1,0 +1,5 @@
+BATCH,,201307,B,1303.5000,
+INVOICE,IN,,00910232,,07/30/2013,1303.5000,"MoveIn-Codino. John",,07/30/2013,07/30/2013,,00914093,6007.7500,,,,,,,,,,
+TRANSACTION,3010,010101009,2,87.0000,174,"Basic Service Fee - Studio: Codino. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101009,2,64.7500,129.5,"Resident Care - Level 35: Codino. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000.0000,1000,"New Resident Fee: Codino. John",,,,,,,,,,,,,,,

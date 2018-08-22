@@ -1,0 +1,8 @@
+BATCH,,201105,B,5059.0000,
+INVOICE,IN,,14410216,,05/02/2011,1404.0000,"Invoice-Private",,05/02/2011,05/02/2011,,14414617MO,-2251.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,12,101.0000,1212.00,"Basic Service Fee - Studio for May: Crosby, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,12,16.0000,192.00,"Resident Care - Level 1 for May: Crosby, Mae",,,,,,,,,,,,,,,
+INVOICE,CM,,14410216,,05/02/2011,3655,"Invoice-Private",,05/02/2011,05/02/2011,,14414617MO,-2251.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3131,3131,"CR:Basic Service F... M.Crosby 201105: Crosby, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... M.Crosby 201105: Crosby, Mae",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... M.Crosby 201105: Crosby, Mae",,,,,,,,,,,,,,,

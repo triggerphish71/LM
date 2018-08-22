@@ -1,0 +1,5 @@
+BATCH,,201304,B,3553.0000,
+INVOICE,IN,,08510260,,04/08/2013,3553.0000,"MoveIn-Martin. Martha",,04/08/2013,04/08/2013,,08514551,3553.0000,,,,,,,,,,
+TRANSACTION,3010,010305085,23,95.0000,2185,"Basic Service Fee - Deluxe: Martin. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305085,23,16.0000,368,"Resident Care - Level 1: Martin. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305085,1,1000.0000,1000,"New Resident Fee: Martin. Martha",,,,,,,,,,,,,,,

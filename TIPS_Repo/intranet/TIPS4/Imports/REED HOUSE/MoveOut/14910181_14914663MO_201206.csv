@@ -1,0 +1,7 @@
+BATCH,,201206,B,2760.0000,
+INVOICE,IN,,14910181,,06/01/2012,1380.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14914663MO,-405.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Haase, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,30,45.0000,1350.00,"Credit for Limited Term Discount: Haase, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,14910181,,06/01/2012,1380,"Invoice-Private",,06/01/2012,06/10/2012,,14914663MO,-405.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Haase, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,30,45,1350,"Limited Term Discount: Haase, Lillian",,,,,,,,,,,,,,,

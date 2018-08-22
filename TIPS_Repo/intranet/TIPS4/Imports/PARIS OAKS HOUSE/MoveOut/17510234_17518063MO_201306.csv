@@ -1,0 +1,5 @@
+BATCH,,201306,B,3960.0000,
+INVOICE,CM,,17510234,,06/01/2013,3960,"Invoice-Private",,06/01/2013,06/10/2013,,17518063MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3130,010202175,1,30,30,"CR:Pendant Fee... L.Beck 201306: Beck, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,1650,1650,"CR:Resident Care -... L.Beck 201306: Beck, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Room and Board ... L.Beck 201306: Beck, Lois",,,,,,,,,,,,,,,

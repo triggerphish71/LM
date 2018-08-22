@@ -1,0 +1,5 @@
+BATCH,,201106,B,1500.0000,
+INVOICE,IN,,53310205,,06/01/2011,750.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53313652MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,30,25.0000,750.00,"Credit for Limited Term Discount: Osborn, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,53310205,,06/01/2011,750,"Invoice-Private",,06/01/2011,06/10/2011,,53313652MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,30,25,750,"Limited Term Discount: Osborn, Marilyn",,,,,,,,,,,,,,,

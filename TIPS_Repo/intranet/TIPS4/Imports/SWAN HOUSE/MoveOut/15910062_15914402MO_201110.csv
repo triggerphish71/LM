@@ -1,0 +1,5 @@
+BATCH,,201110,B,60.0000,
+INVOICE,IN,,15910062,,10/01/2011,30.0000,"Invoice-Private",,10/01/2011,10/10/2011,,15914402MO,-7575.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Hulsebus, Cyril",,,,,,,,,,,,,,,
+INVOICE,CM,,15910062,,10/01/2011,30,"Invoice-Private",,10/01/2011,10/10/2011,,15914402MO,-7575.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Hulsebus, Cyril",,,,,,,,,,,,,,,

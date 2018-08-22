@@ -1,0 +1,5 @@
+BATCH,,201112,B,3902.0000,
+INVOICE,IN,,08010206,,12/01/2011,3902.0000,"December_Rent-Miller. Ira",,12/01/2011,12/10/2011,,08014010,6679.0000,,,,,,,,,,
+TRANSACTION,3010,010202080,31,96.0000,2976,"I.Miller: Basic Service Fee - Studio: Miller. Ira",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202080,31,29.0000,899,"I.Miller: Resident Care - Level 2: Miller. Ira",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27.0000,27,"Monthly Cable: Miller. Ira",,,,,,,,,,,,,,,

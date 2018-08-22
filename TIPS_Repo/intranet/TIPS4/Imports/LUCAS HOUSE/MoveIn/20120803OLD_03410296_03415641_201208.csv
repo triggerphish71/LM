@@ -1,0 +1,6 @@
+BATCH,,201208,B,4688.0000,
+INVOICE,IN,,03410296,,08/03/2012,4688.0000,"MoveIn-Geheb. Irene",,08/03/2012,08/03/2012,,03415641,4688.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,29,96.0000,2784,"Basic Service Fee - Studio: Geheb. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,29,13.0000,377,"Resident Care - Level 1: Geheb. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Geheb. Irene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Geheb. Irene",,,,,,,,,,,,,,,

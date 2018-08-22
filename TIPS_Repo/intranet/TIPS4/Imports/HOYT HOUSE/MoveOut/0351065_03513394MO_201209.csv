@@ -1,0 +1,6 @@
+BATCH,,201209,B,3740.0000,
+INVOICE,IN,,0351065,,09/10/2012,980.0000,"Invoice-Private",,09/10/2012,09/10/2012,,03513394MO,-1780.0000,,,,,,,,,,
+TRANSACTION,3320,010202035,1,60.0000,60.00,"CR:Limited Term Di... V.Evans 201209: Evans, Vela",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202035,10,92.0000,920.00,"Basic Service Fee - Studio for Sep: Evans, Vela",,,,,,,,,,,,,,,
+INVOICE,CM,,0351065,,09/10/2012,2760,"Invoice-Private",,09/10/2012,09/10/2012,,03513394MO,-1780.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2760,2760,"CR:Basic Service F... V.Evans 201209: Evans, Vela",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,5199.0000,
+INVOICE,IN,,15510248,,05/09/2012,5199.0000,"MoveIn-Orlotsky. Gregory",,05/09/2012,05/09/2012,,15515219,5199.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,23,89.0000,2047,"Basic Service Fee - Studio: Orlotsky. Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,23,49.0000,1127,"Resident Care - Level 3: Orlotsky. Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Orlotsky. Gregory",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Orlotsky. Gregory",,,,,,,,,,,,,,,

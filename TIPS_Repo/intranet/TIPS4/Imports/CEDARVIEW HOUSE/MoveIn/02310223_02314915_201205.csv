@@ -1,0 +1,6 @@
+BATCH,,201205,B,2343.0000,
+INVOICE,IN,,02310223,,05/30/2012,2343.0000,"MoveIn-Bryan. James",,05/30/2012,05/30/2012,,02314915,7138.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,2,114.0000,228,"J.Bryan: Basic Service Fee - One Bedroom: Bryan. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202023,2,45.0000,90,"J.Bryan: Resident Care - Level 3: Bryan. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Bryan. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Bryan. James",,,,,,,,,,,,,,,

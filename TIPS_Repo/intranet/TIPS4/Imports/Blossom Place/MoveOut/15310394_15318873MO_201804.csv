@@ -1,0 +1,7 @@
+BATCH,,201804,B,7748.5000,
+INVOICE,IN,,15310394,,04/25/2018,3287.5000,"Invoice-Private",,04/25/2018,04/25/2018,,15318873MO,-1173.5000,,,,,,,,,,
+TRANSACTION,3017,010003153,25,21.5000,537.50," Level: 10 : Gentry, Gailon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003153,25,110.0000,2750.00,"Basic Service Fee - Studio  for Apr: Gentry, Gailon",,,,,,,,,,,,,,,
+INVOICE,CM,,15310394,,04/25/2018,4461,"Invoice-Private",,04/25/2018,04/25/2018,,15318873MO,-1173.5000,,,,,,,,,,
+TRANSACTION,3020,010003153,1,3300,3300,"CR:Basic Service F... G.Gentry 201804: Gentry, Gailon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,1,1161,1161,"CR:Resident Care -... G.Gentry 201804: Gentry, Gailon",,,,,,,,,,,,,,,

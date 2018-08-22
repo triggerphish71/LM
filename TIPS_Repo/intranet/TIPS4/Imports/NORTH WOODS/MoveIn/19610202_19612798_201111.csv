@@ -1,0 +1,6 @@
+BATCH,,201111,B,3335.0000,
+INVOICE,IN,,19610202,,11/01/2011,3335.0000,"November_Rent-Bosilovatz. Kathy",,11/01/2011,11/10/2011,,19612798,5250.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,30,87.0000,2610,"Basic Service Fee - Studio: Bosilovatz. Kathy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,30,13.0000,390,"Resident Care - Level 1: Bosilovatz. Kathy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Bosilovatz. Kathy",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,30,10.0000,300,"CC Meals: Bosilovatz. Kathy",,,,,,,,,,,,,,,

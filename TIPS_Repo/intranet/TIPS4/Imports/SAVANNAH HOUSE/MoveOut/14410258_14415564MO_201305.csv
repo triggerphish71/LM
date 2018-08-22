@@ -1,0 +1,8 @@
+BATCH,,201305,B,6496.0000,
+INVOICE,IN,,14410258,,05/11/2013,1694.0000,"Invoice-Private",,05/11/2013,05/11/2013,,14415564MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,11,72.0000,792.00,"Basic Service Fee - Studio for May: Pike, Jeane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,11,82.0000,902.00,"Resident Care - Level 6 for May: Pike, Jeane",,,,,,,,,,,,,,,
+INVOICE,CM,,14410258,,05/11/2013,4802,"Invoice-Private",,05/11/2013,05/11/2013,,14415564MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,2232,2232,"CR:Basic Service F... J.Pike 201305: Pike, Jeane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... J.Pike 201305: Pike, Jeane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,2542,2542,"CR:Resident Care -... J.Pike 201305: Pike, Jeane",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,1772.0000,
+INVOICE,IN,,15810289,,09/29/2011,1772.0000,"MoveIn-Storey. Robert",,09/29/2011,09/29/2011,,15814233,5988.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,2,92.0000,184,"Basic Service Fee - Studio         : Storey. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,2,44.0000,88,"Resident Care - Level 3: Storey. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: Storey. Robert",,,,,,,,,,,,,,,

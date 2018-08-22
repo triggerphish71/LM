@@ -1,0 +1,8 @@
+BATCH,,201108,B,4636.0000,
+INVOICE,IN,,15410217,,08/12/2011,1284.0000,"Invoice-Private",,08/12/2011,08/12/2011,,15414490MO,-2068.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,12,72.0000,864.00,"Basic Service Fee - Deluxe for Aug: Wilfing, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,12,35.0000,420.00,"Resident Care - Level 2 for Aug: Wilfing, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,15410217,,08/12/2011,3352,"Invoice-Private",,08/12/2011,08/12/2011,,15414490MO,-2068.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2232,2232,"CR:Basic Service F... M.Wilfing 201108: Wilfing, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... M.Wilfing 201108: Wilfing, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1085,1085,"CR:Resident Care -... M.Wilfing 201108: Wilfing, Michael",,,,,,,,,,,,,,,

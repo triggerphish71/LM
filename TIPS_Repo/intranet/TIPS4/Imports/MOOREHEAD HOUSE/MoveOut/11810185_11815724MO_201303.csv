@@ -1,0 +1,5 @@
+BATCH,,201303,B,80.0000,
+INVOICE,IN,,11810185,,03/01/2013,40.0000,"Invoice-Private",,03/01/2013,03/10/2013,,11815724MO,-6198.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40.00,"Monthly Cable: Robertson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,11810185,,03/01/2013,40,"Invoice-Private",,03/01/2013,03/10/2013,,11815724MO,-6198.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"Credit for Monthly Cable: Robertson, Charles",,,,,,,,,,,,,,,

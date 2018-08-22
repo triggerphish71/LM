@@ -1,0 +1,5 @@
+BATCH,,201105,B,3435.0000,
+INVOICE,IN,,21010232,,05/01/2011,3435.0000,"May_Rent-Barney. Gene",,05/01/2011,05/10/2011,,21012884,4010.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,31,90.0000,2790,"Studio: Barney. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216210,31,20.0000,620,"Resident Care - Level 2: Barney. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25,"Monthly Cable: Barney. Gene",,,,,,,,,,,,,,,

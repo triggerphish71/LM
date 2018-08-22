@@ -1,0 +1,8 @@
+BATCH,,201303,B,8417.0000,
+INVOICE,IN,,15610295,,03/10/2013,2730.0000,"Invoice-Private",,03/10/2013,03/10/2013,,15615690MO,-8492.0000,,,,,,,,,,
+TRANSACTION,3027,010211156,15,83.0000,1245.00,"Resident Care - Level 6 for Mar: Heins, Loran ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211156,15,99.0000,1485.00,"Room and Board - Deluxe for Mar: Heins, Loran ",,,,,,,,,,,,,,,
+INVOICE,CM,,15610295,,03/10/2013,5687,"Invoice-Private",,03/10/2013,03/10/2013,,15615690MO,-8492.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"CR:Pendant Fee... L.Heins 201303: Heins, Loran ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2573,2573,"CR:Resident Care -... L.Heins 201303: Heins, Loran ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3069,3069,"CR:Room and Board ... L.Heins 201303: Heins, Loran ",,,,,,,,,,,,,,,

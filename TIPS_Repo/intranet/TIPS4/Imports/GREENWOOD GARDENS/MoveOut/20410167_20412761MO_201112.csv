@@ -1,0 +1,8 @@
+BATCH,,201112,B,5318.0000,
+INVOICE,IN,,20410167,,12/19/2011,2559.0000,"Invoice-Private",,12/19/2011,12/19/2011,,20412761MO,-3114.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,868.0000,868.00,"CR:Limited Term Di... M.Capobianco 201112: Capobianco, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,19,11.0000,209.00,"Resident Care - Level 1 for Dec: Capobianco, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,19,78.0000,1482.00,"Studio for Dec: Capobianco, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,20410167,,12/19/2011,2759,"Invoice-Private",,12/19/2011,12/19/2011,,20412761MO,-3114.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,341,341,"CR:Resident Care -... M.Capobianco 201112: Capobianco, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2418,2418,"CR:Studio... M.Capobianco 201112: Capobianco, Mildred",,,,,,,,,,,,,,,

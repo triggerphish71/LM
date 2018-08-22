@@ -1,0 +1,8 @@
+BATCH,,201307,B,3782.0000,
+INVOICE,IN,,07310258,,07/02/2013,228.0000,"Invoice-Private",,07/02/2013,07/02/2013,,07316209MO,-3326.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,2,97.0000,194.00,"Basic Service Fee - Studio for Jul: Stalder, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,2,17.0000,34.00,"Resident Care - Level 1 for Jul: Stalder, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,07310258,,07/02/2013,3554,"Invoice-Private",,07/02/2013,07/02/2013,,07316209MO,-3326.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... M.Stalder 201307: Stalder, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... M.Stalder 201307: Stalder, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,527,527,"CR:Resident Care -... M.Stalder 201307: Stalder, Mary Lou",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201302,B,4283.0000,
+INVOICE,IN,,02610281,,02/07/2013,1120.0000,"Invoice-Private",,02/07/2013,02/07/2013,,02615102MO,-2043.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,10,112.0000,1120.00,"Room and Board - One Bedroom for Feb: Monogue, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,02610281,,02/07/2013,3163,"Invoice-Private",,02/07/2013,02/07/2013,,02615102MO,-2043.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... P.Monogue 201302: Monogue, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3136,3136,"CR:Room and Board ... P.Monogue 201302: Monogue, Pat",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201210,B,3240.0000,
+INVOICE,IN,,14210207,,10/11/2012,3240.0000,"MoveIn-Crane. Norma",,10/11/2012,10/11/2012,,14214141,3240.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,21,88.0000,1848,"Basic Service Fee - Studio: Crane. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,21,17.0000,357,"Resident Care - Level 1: Crane. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Crane. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Crane. Norma",,,,,,,,,,,,,,,

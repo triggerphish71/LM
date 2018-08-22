@@ -1,0 +1,6 @@
+BATCH,,201109,B,4490.0000,
+INVOICE,IN,,11210267,,09/14/2011,4490.0000,"MoveIn-Miller. Mary",,09/14/2011,09/14/2011,,11215620,4490.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,17,94.0000,1598,"Basic Service Fee - Studio         : Miller. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,17,51.0000,867,"Resident Care - Level 3: Miller. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Miller. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Miller. Mary",,,,,,,,,,,,,,,

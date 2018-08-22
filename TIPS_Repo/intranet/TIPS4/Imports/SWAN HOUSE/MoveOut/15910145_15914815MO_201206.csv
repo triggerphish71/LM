@@ -1,0 +1,7 @@
+BATCH,,201206,B,3330.0000,
+INVOICE,IN,,15910145,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15914815MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,60.0000,60.00,"CR:Limited Term Di... R.Lynch 201206: Lynch, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,15910145,,06/01/2012,3270,"Invoice-Private",,06/01/2012,06/10/2012,,15914815MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,2760,2760,"CR:Basic Service F... R.Lynch 201206: Lynch, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... R.Lynch 201206: Lynch, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212159,1,480,480,"CR:Swan Personal C... R.Lynch 201206: Lynch, Roger",,,,,,,,,,,,,,,

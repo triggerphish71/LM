@@ -1,0 +1,7 @@
+BATCH,,201205,B,6630.0000,
+INVOICE,IN,,14010223,,05/08/2012,1360.0000,"Invoice-Private",,05/08/2012,05/08/2012,,14013802MO,-3910.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,8,105.0000,840.00,"Basic Service Fee - One Bedroom for May: Haynes, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,8,65.0000,520.00,"Resident Care - Level 5 for May: Haynes, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14010223,,05/08/2012,5270,"Invoice-Private",,05/08/2012,05/08/2012,,14013802MO,-3910.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,3255,3255,"CR:Basic Service F... H.Haynes 201205: Haynes, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,2015,2015,"CR:Resident Care -... H.Haynes 201205: Haynes, Helen",,,,,,,,,,,,,,,

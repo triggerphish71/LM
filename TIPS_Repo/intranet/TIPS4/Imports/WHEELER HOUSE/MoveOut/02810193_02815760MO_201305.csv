@@ -1,0 +1,7 @@
+BATCH,,201305,B,3570.0000,
+INVOICE,IN,,02810193,,05/01/2013,935.0000,"Invoice-Private",,05/01/2013,05/10/2013,,02815760MO,-1700.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,11,71.0000,781.00,"Basic Service Fee - Studio for May: Boston, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,11,14.0000,154.00,"Resident Care - Level 1 for May: Boston, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,02810193,,05/01/2013,2635,"Invoice-Private",,05/01/2013,05/10/2013,,02815760MO,-1700.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,2201,2201,"CR:Basic Service F... M.Boston 201305: Boston, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,434,434,"CR:Resident Care -... M.Boston 201305: Boston, Mary",,,,,,,,,,,,,,,

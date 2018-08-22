@@ -1,0 +1,7 @@
+BATCH,,201808,B,7920.0000,
+INVOICE,IN,,17810529,,08/17/2018,2805.0000,"Invoice-Private",,08/17/2018,08/17/2018,,17819880MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,17,110.0000,1870.00,"Basic Service Fee - Studio  for Aug: Talbott, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,17,55.0000,935.00,"Resident Care - Level 3  for Aug: Talbott, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,17810529,,08/17/2018,5115,"Invoice-Private",,08/17/2018,08/17/2018,,17819880MO,-2310.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,1,3410,3410,"CR:Basic Service F... R.Talbott 201808: Talbott, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,1,1705,1705,"CR:Resident Care -... R.Talbott 201808: Talbott, Rosemary",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,2025.0000,
+INVOICE,IN,,02910295,,01/27/2012,2025.0000,"MoveIn-Riddle. Enid",,01/27/2012,01/27/2012,,02915440,4950.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,5,100.0000,500,"Basic Service Fee - Studio: Riddle. Enid",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Riddle. Enid",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Riddle. Enid",,,,,,,,,,,,,,,

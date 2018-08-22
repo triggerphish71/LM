@@ -1,0 +1,4 @@
+BATCH,,201303,B,3125.0000,
+INVOICE,IN,,04610215,,03/01/2013,3125.0000,"March_Rent-Taylor. Bill",,03/01/2013,03/10/2013,,04613851,5000.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,31,100.0000,3100,"Basic Service Fee - Studio: Taylor. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Taylor. Bill",,,,,,,,,,,,,,,

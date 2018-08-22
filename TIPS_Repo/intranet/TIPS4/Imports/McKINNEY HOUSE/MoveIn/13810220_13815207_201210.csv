@@ -1,0 +1,5 @@
+BATCH,,201210,B,2756.0000,
+INVOICE,IN,,13810220,,10/26/2012,2756.0000,"MoveIn-Smith. Roger",,10/26/2012,10/26/2012,,13815207,6536.0000,,,,,,,,,,
+TRANSACTION,3010,010309138,6,96.0000,576,"Basic Service Fee - Studio: Smith. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309138,6,30.0000,180,"Resident Care - Level 2: Smith. Roger",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309138,1,2000.0000,2000,"New Resident Fee: Smith. Roger",,,,,,,,,,,,,,,

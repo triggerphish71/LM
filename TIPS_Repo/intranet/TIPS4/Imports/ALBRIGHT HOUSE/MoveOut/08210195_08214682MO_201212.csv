@@ -1,0 +1,8 @@
+BATCH,,201212,B,4623.3800,
+INVOICE,IN,,08210195,,12/07/2012,847.0700,"Invoice-Private",,12/07/2012,12/07/2012,,08214682MO,-2929.2400,,,,,,,,,,
+TRANSACTION,3020,010103082,7,87.0000,609.00,"Basic Service Fee - Studio for Dec: Knox, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,7,34.0100,238.07,"Resident Care - Level 19 for Dec: Knox, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,08210195,,12/07/2012,3776.31,"Invoice-Private",,12/07/2012,12/07/2012,,08214682MO,-2929.2400,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2697,2697,"CR:Basic Service F... P.Knox 201212: Knox, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103082,1,25,25,"CR:Monthly Cable... P.Knox 201212: Knox, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,1054.31,1054.31,"CR:Resident Care -... P.Knox 201212: Knox, Phyllis",,,,,,,,,,,,,,,

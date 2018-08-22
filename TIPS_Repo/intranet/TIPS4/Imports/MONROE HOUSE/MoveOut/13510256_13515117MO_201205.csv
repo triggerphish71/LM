@@ -1,0 +1,5 @@
+BATCH,,201205,B,806.0000,
+INVOICE,IN,,13510256,,05/01/2012,403.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13515117MO,-5539.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,31,13.0000,403.00,"Credit for Limited Term Discount: Elliot, Leslie ",,,,,,,,,,,,,,,
+INVOICE,CM,,13510256,,05/01/2012,403,"Invoice-Private",,05/01/2012,05/10/2012,,13515117MO,-5539.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,31,13,403,"Limited Term Discount: Elliot, Leslie ",,,,,,,,,,,,,,,

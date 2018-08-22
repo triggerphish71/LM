@@ -1,0 +1,8 @@
+BATCH,,201306,B,4275.0000,
+INVOICE,IN,,03610275,,06/05/2013,708.0000,"Invoice-Private",,06/05/2013,06/05/2013,,03615654MO,-2859.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,6,88.0000,528.00,"Basic Service Fee - Studio for Jun: Ferguson, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,6,30.0000,180.00,"Resident Care - Level 2 for Jun: Ferguson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,03610275,,06/05/2013,3567,"Invoice-Private",,06/05/2013,06/05/2013,,03615654MO,-2859.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,2640,2640,"CR:Basic Service F... J.Ferguson 201306: Ferguson, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Ferguson 201306: Ferguson, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,900,900,"CR:Resident Care -... J.Ferguson 201306: Ferguson, James",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,194.0000,
+INVOICE,IN,,12110136,,07/01/2012,97.0000,"Invoice-Private",,07/01/2012,07/10/2012,,12115780MO,-2788.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Murray, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,2.0000,62.00,"Credit for Limited Term Discount: Murray, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,12110136,,07/01/2012,97,"Invoice-Private",,07/01/2012,07/10/2012,,12115780MO,-2788.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Murray, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,2,62,"Limited Term Discount: Murray, Ruth",,,,,,,,,,,,,,,

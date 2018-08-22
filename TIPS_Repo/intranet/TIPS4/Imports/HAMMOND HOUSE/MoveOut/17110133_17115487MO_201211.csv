@@ -1,0 +1,7 @@
+BATCH,,201211,B,8670.0000,
+INVOICE,IN,,17110133,,11/10/2012,3570.0000,"Invoice-Private",,11/10/2012,11/10/2012,,17115487MO,-6800.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,21,116.0000,2436.00,"Basic Service Fee - One Bedroom for Nov: Hungerford, Pace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,21,54.0000,1134.00,"Resident Care - Level 4 for Nov: Hungerford, Pace",,,,,,,,,,,,,,,
+INVOICE,CM,,17110133,,11/10/2012,5100,"Invoice-Private",,11/10/2012,11/10/2012,,17115487MO,-6800.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,3480,3480,"CR:Basic Service F... P.Hungerford 201211: Hungerford, Pace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1620,1620,"CR:Resident Care -... P.Hungerford 201211: Hungerford, Pace",,,,,,,,,,,,,,,

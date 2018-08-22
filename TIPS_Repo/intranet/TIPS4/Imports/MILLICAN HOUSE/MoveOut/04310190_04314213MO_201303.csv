@@ -1,0 +1,7 @@
+BATCH,,201303,B,4224.0000,
+INVOICE,IN,,04310190,,03/02/2013,256.0000,"Invoice-Private",,03/02/2013,03/02/2013,,04314213MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3027,010202043,2,16.0000,32.00,"Resident Care - Level 1 for Mar: Walton, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202043,2,112.0000,224.00,"Room and Board - One Bedroom for Mar: Walton, Fern",,,,,,,,,,,,,,,
+INVOICE,CM,,04310190,,03/02/2013,3968,"Invoice-Private",,03/02/2013,03/02/2013,,04314213MO,-3712.0000,,,,,,,,,,
+TRANSACTION,3027,010202043,1,496,496,"CR:Resident Care -... F.Walton 201303: Walton, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202043,1,3472,3472,"CR:Room and Board ... F.Walton 201303: Walton, Fern",,,,,,,,,,,,,,,

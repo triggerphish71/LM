@@ -1,0 +1,8 @@
+BATCH,,201210,B,5868.0000,
+INVOICE,IN,,19810307,,10/11/2012,1529.0000,"Invoice-Private",,10/11/2012,10/11/2012,,19817835MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,11,64.0000,704.00,"Basic Service Fee AL - One Bdrm A for Oct: Gaul, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,11,75.0000,825.00,"Swan Personal Care - L4 for Oct: Gaul, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,19810307,,10/11/2012,4339,"Invoice-Private",,10/11/2012,10/11/2012,,19817835MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1984,1984,"CR:Basic Service F... S.Gaul 201210: Gaul, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... S.Gaul 201210: Gaul, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,2325,2325,"CR:Swan Personal C... S.Gaul 201210: Gaul, Shirley",,,,,,,,,,,,,,,

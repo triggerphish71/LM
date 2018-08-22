@@ -1,0 +1,7 @@
+BATCH,,201202,B,6912.0000,
+INVOICE,IN,,11410149,,02/01/2012,2736.0000,"Invoice-Private",,02/01/2012,02/10/2012,,11414074MO,-5904.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,19,125.0000,2375.00,"Basic Service Fee - Deluxe for Feb: Kelly, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,19,19.0000,361.00,"Swan Personal Care - L1 for Feb: Kelly, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,11410149,,02/01/2012,4176,"Invoice-Private",,02/01/2012,02/10/2012,,11414074MO,-5904.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3625,3625,"CR:Basic Service F... R.Kelly 201202: Kelly, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,551,551,"CR:Swan Personal C... R.Kelly 201202: Kelly, Robert",,,,,,,,,,,,,,,

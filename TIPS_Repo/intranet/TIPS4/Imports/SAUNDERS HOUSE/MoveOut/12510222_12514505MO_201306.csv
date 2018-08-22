@@ -1,0 +1,7 @@
+BATCH,,201306,B,3502.0000,
+INVOICE,IN,,12510222,,06/02/2013,412.0000,"Invoice-Private",,06/02/2013,06/02/2013,,12514505MO,-2678.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,4,85.0000,340.00,"Basic Service Fee - One Bedroom for Jun: Anderson, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,4,18.0000,72.00,"Resident Care - Level 1 for Jun: Anderson, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,12510222,,06/02/2013,3090,"Invoice-Private",,06/02/2013,06/02/2013,,12514505MO,-2678.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2550,2550,"CR:Basic Service F... A.Anderson 201306: Anderson, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,540,540,"CR:Resident Care -... A.Anderson 201306: Anderson, Arthur",,,,,,,,,,,,,,,

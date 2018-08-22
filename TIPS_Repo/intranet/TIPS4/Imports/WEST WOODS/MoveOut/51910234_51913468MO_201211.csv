@@ -1,0 +1,5 @@
+BATCH,,201211,B,6490.0000,
+INVOICE,IN,,51910234,,11/01/2012,3190.0000,"Invoice-Private",,11/01/2012,11/01/2012,,51913468MO,-110.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,29,110.0000,3190.00,"Basic Service Fee - One Bedroom for Nov: Stroy, Cheryl  ",,,,,,,,,,,,,,,
+INVOICE,CM,,51910234,,11/01/2012,3300,"Invoice-Private",,11/01/2012,11/01/2012,,51913468MO,-110.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3300,3300,"CR:Basic Service F... C.Stroy 201211: Stroy, Cheryl  ",,,,,,,,,,,,,,,

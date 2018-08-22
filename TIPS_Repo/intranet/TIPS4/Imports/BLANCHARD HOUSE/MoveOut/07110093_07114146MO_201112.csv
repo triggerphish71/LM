@@ -1,0 +1,7 @@
+BATCH,,201112,B,9686.0000,
+INVOICE,IN,,07110093,,12/27/2011,4509.0000,"Invoice-Private",,12/27/2011,12/27/2011,,07114146MO,-5969.0000,,,,,,,,,,
+TRANSACTION,3027,010305071,27,71.0000,1917.00,"Resident Care - Level 5 for Dec: Kaylor, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,27,96.0000,2592.00,"Room and Board - Deluxe for Dec: Kaylor, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,07110093,,12/27/2011,5177,"Invoice-Private",,12/27/2011,12/27/2011,,07114146MO,-5969.0000,,,,,,,,,,
+TRANSACTION,3027,010305071,1,2201,2201,"CR:Resident Care -... D.Kaylor 201112: Kaylor, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2976,2976,"CR:Room and Board ... D.Kaylor 201112: Kaylor, Dorothy",,,,,,,,,,,,,,,

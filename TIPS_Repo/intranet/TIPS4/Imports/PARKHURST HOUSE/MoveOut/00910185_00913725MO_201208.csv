@@ -1,0 +1,7 @@
+BATCH,,201208,B,5126.5800,
+INVOICE,IN,,00910185,,08/07/2012,944.3700,"Invoice-Private",,08/07/2012,08/07/2012,,00913725MO,-3237.8400,,,,,,,,,,
+TRANSACTION,3020,010101009,7,83.0000,581.00,"Basic Service Fee - Studio for Aug: Weir, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,7,51.9100,363.37,"Resident Care - Level 29 for Aug: Weir, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,00910185,,08/07/2012,4182.21,"Invoice-Private",,08/07/2012,08/07/2012,,00913725MO,-3237.8400,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2573,2573,"CR:Basic Service F... B.Weir 201208: Weir, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1609.21,1609.21,"CR:Resident Care -... B.Weir 201208: Weir, Barbara",,,,,,,,,,,,,,,

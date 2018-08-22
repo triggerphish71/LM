@@ -1,0 +1,7 @@
+BATCH,,201108,B,550.0000,
+INVOICE,IN,,04510173,,08/01/2011,275.0000,"Invoice-Private",,08/01/2011,08/10/2011,,04513586MO,-1093.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27.00,"Monthly Cable: Douglas, Don",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202045,31,8.0000,248.00,"Credit for Limited Term Discount: Douglas, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,04510173,,08/01/2011,275,"Invoice-Private",,08/01/2011,08/10/2011,,04513586MO,-1093.0000,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"Credit for Monthly Cable: Douglas, Don",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202045,31,8,248,"Limited Term Discount: Douglas, Don",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,200.0000,
+INVOICE,IN,,53410295,,11/01/2012,100.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53421449MO,-2936.0000,,,,,,,,,,
+TRANSACTION,3210,010319534,1,100.0000,100.00,"Personal Services: Fibiger, LaVerne",,,,,,,,,,,,,,,
+INVOICE,CM,,53410295,,11/01/2012,100,"Invoice-Private",,11/01/2012,11/10/2012,,53421449MO,-2936.0000,,,,,,,,,,
+TRANSACTION,3210,010319534,1,100,100,"Credit for Personal Services: Fibiger, LaVerne",,,,,,,,,,,,,,,

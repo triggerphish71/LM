@@ -1,0 +1,4 @@
+BATCH,,201210,B,5425.0000,
+INVOICE,CM,,09310129,,10/01/2012,5425,"Invoice-Private",,10/01/2012,10/10/2012,,09315483MO,-5425.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... J.Peters 201210: Peters, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2356,2356,"CR:Resident Care -... J.Peters 201210: Peters, Joan",,,,,,,,,,,,,,,

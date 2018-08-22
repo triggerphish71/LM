@@ -1,0 +1,5 @@
+BATCH,,201208,B,1364.0000,
+INVOICE,IN,,10510275,,08/01/2012,682.0000,"Invoice-Private",,08/01/2012,08/10/2012,,10514076MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,31,22.0000,682.00,"Credit for Limited Term Discount: Carter, Orthul",,,,,,,,,,,,,,,
+INVOICE,CM,,10510275,,08/01/2012,682,"Invoice-Private",,08/01/2012,08/10/2012,,10514076MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,31,22,682,"Limited Term Discount: Carter, Orthul",,,,,,,,,,,,,,,

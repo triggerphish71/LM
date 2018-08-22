@@ -1,0 +1,7 @@
+BATCH,,201210,B,3336.0000,
+INVOICE,IN,,15110112,,10/06/2012,528.0000,"Invoice-Private",,10/06/2012,10/06/2012,,15114084MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,6,88.0000,528.00,"Basic Service Fee - Studio for Oct: DeVoss, Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,15110112,,10/06/2012,2808,"Invoice-Private",,10/06/2012,10/06/2012,,15114084MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,2728,2728,"CR:Basic Service F... N.DeVoss 201210: DeVoss, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... N.DeVoss 201210: DeVoss, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,45,45,"CR:Pendant Fee... N.DeVoss 201210: DeVoss, Naomi",,,,,,,,,,,,,,,

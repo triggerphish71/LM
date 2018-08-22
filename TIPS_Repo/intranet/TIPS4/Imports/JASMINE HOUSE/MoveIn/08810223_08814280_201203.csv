@@ -1,0 +1,5 @@
+BATCH,,201203,B,5503.0000,
+INVOICE,IN,,08810223,,03/01/2012,5503.0000,"MoveIn-Clark. Edith",,03/01/2012,03/01/2012,,08814280,5503.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,31,97.0000,3007,"Basic Service Fee - Studio: Clark. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,31,16.0000,496,"Resident Care - Level 1: Clark. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000.0000,2000,"New Resident Fee: Clark. Edith",,,,,,,,,,,,,,,

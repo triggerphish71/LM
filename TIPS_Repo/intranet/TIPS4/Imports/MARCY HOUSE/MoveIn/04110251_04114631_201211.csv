@@ -1,0 +1,5 @@
+BATCH,,201211,B,3532.0000,
+INVOICE,IN,,04110251,,11/15/2012,3532.0000,"MoveIn-Foster. Mary",,11/15/2012,11/15/2012,,04114631,3532.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,16,82.0000,1312,"M.Foster: Basic Service Fee - Studio: Foster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,16,45.0000,720,"M.Foster: Resident Care - Level 3: Foster. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Foster. Mary",,,,,,,,,,,,,,,

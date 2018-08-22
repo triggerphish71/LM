@@ -1,0 +1,5 @@
+BATCH,,201107,B,3125.0000,
+INVOICE,IN,,07510247,,07/01/2011,3125.0000,"July_Rent-Phillips. Norman",,07/01/2011,07/10/2011,,07514727,6250.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,31,85.0000,2635,"Basic Service Fee - Studio         : Phillips. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,31,15.0000,465,"Resident Care - Level 1: Phillips. Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Phillips. Norman",,,,,,,,,,,,,,,

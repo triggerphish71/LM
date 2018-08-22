@@ -1,0 +1,7 @@
+BATCH,,201112,B,3802.0000,
+INVOICE,IN,,21010028,,12/01/2011,682.0000,"Invoice-Private",,12/01/2011,12/10/2011,,21013314MO,-2798.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,1,682.0000,682.00,"CR:Daily Discount... B.Crawford 201112: Crawford, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,21010028,,12/01/2011,3120,"Invoice-Private",,12/01/2011,12/10/2011,,21013314MO,-2798.0000,,,,,,,,,,
+TRANSACTION,3130,010216210,1,20,20,"CR:Pendant Fee... B.Crawford 201112: Crawford, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,310,310,"CR:Resident Care -... B.Crawford 201112: Crawford, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2790,2790,"CR:Studio... B.Crawford 201112: Crawford, Betty",,,,,,,,,,,,,,,

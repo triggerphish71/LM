@@ -1,0 +1,8 @@
+BATCH,,201305,B,5853.0000,
+INVOICE,IN,,02310108,,05/15/2013,1984.0000,"Invoice-Private",,05/15/2013,05/15/2013,,02315293MO,-5630.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,16,94.0000,1504.00,"Basic Service Fee - Studio for May: Kaikkonen, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,16,30.0000,480.00,"Resident Care - Level 2 for May: Kaikkonen, Eva",,,,,,,,,,,,,,,
+INVOICE,CM,,02310108,,05/15/2013,3869,"Invoice-Private",,05/15/2013,05/15/2013,,02315293MO,-5630.0000,,,,,,,,,,
+TRANSACTION,3020,010202023,1,2914,2914,"CR:Basic Service F... E.Kaikkonen 201305: Kaikkonen, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25,25,"CR:Monthly Cable... E.Kaikkonen 201305: Kaikkonen, Eva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202023,1,930,930,"CR:Resident Care -... E.Kaikkonen 201305: Kaikkonen, Eva",,,,,,,,,,,,,,,

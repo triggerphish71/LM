@@ -1,0 +1,5 @@
+BATCH,,201105,B,1519.0000,
+INVOICE,IN,,21610202,,05/10/2011,558.0000,"Invoice-Private",,05/10/2011,05/10/2011,,21612778MO,-403.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,18,31.0000,558.00,"Second Resident for May: McCutchin, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21610202,,05/10/2011,961,"Invoice-Private",,05/10/2011,05/10/2011,,21612778MO,-403.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,961,961,"CR:Second Resident... D.McCutchin 201105: McCutchin, David",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201210,B,2719.0000,
+INVOICE,IN,,17610234,,10/01/2012,146.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17614699MO,-2427.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,2,73.0000,146.00,"Room and Board - Studio for Oct: Susemihl, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,17610234,,10/01/2012,2573,"Invoice-Private",,10/01/2012,10/10/2012,,17614699MO,-2427.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... J.Susemihl 201210: Susemihl, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Room and Board ... J.Susemihl 201210: Susemihl, Jeanne",,,,,,,,,,,,,,,

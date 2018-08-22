@@ -1,0 +1,5 @@
+BATCH,,201109,B,360.0000,
+INVOICE,IN,,53010027,,09/01/2011,180.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53015284MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,30,6.0000,180.00,"Credit for Limited Term Discount: Hughes, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,53010027,,09/01/2011,180,"Invoice-Private",,09/01/2011,09/10/2011,,53015284MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,30,6,180,"Limited Term Discount: Hughes, Elaine",,,,,,,,,,,,,,,

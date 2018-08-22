@@ -1,0 +1,8 @@
+BATCH,,201112,B,3807.0000,
+INVOICE,IN,,01910220,,12/01/2011,432.0000,"Invoice-Private",,12/01/2011,12/10/2011,,01914655MO,-2943.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,4,91.0000,364.00,"Basic Service Fee - Studio for Dec: Inmon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,4,17.0000,68.00,"Resident Care - Level 1 for Dec: Inmon, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,01910220,,12/01/2011,3375,"Invoice-Private",,12/01/2011,12/10/2011,,01914655MO,-2943.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2821,2821,"CR:Basic Service F... B.Inmon 201112: Inmon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"CR:Monthly Cable... B.Inmon 201112: Inmon, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,527,527,"CR:Resident Care -... B.Inmon 201112: Inmon, Betty",,,,,,,,,,,,,,,

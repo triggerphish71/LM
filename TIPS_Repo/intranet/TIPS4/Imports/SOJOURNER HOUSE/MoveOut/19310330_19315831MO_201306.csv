@@ -1,0 +1,8 @@
+BATCH,,201306,B,6696.0000,
+INVOICE,IN,,19310330,,06/22/2013,2706.0000,"Invoice-Private",,06/22/2013,06/22/2013,,19315831MO,-5407.0000,,,,,,,,,,
+TRANSACTION,3027,010315193,22,46.0000,1012.00,"Resident Care - Level 3 for Jun: Sikardi, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,22,77.0000,1694.00,"Room and Board - Studio for Jun: Sikardi, Phillip",,,,,,,,,,,,,,,
+INVOICE,CM,,19310330,,06/22/2013,3990,"Invoice-Private",,06/22/2013,06/22/2013,,19315831MO,-5407.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... P.Sikardi 201306: Sikardi, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1380,1380,"CR:Resident Care -... P.Sikardi 201306: Sikardi, Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2310,2310,"CR:Room and Board ... P.Sikardi 201306: Sikardi, Phillip",,,,,,,,,,,,,,,

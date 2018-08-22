@@ -1,0 +1,7 @@
+BATCH,,201209,B,5304.0000,
+INVOICE,IN,,09110217,,09/22/2012,2244.0000,"Invoice-Private",,09/22/2012,09/22/2012,,09115432MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,22,85.0000,1870.00,"Basic Service Fee - Studio for Sep: Fuchs, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,22,17.0000,374.00,"Resident Care - Level 1 for Sep: Fuchs, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,09110217,,09/22/2012,3060,"Invoice-Private",,09/22/2012,09/22/2012,,09115432MO,-3978.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... B.Fuchs 201209: Fuchs, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,510,510,"CR:Resident Care -... B.Fuchs 201209: Fuchs, Betty",,,,,,,,,,,,,,,

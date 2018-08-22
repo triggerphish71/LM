@@ -1,0 +1,6 @@
+BATCH,,201209,B,1854.0000,
+INVOICE,IN,,03410301,,09/28/2012,1854.0000,"MoveIn-Wier. Una",,09/28/2012,09/28/2012,,03415729,5260.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,3,96.0000,288,"Basic Service Fee - Studio: Wier. Una",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,3,13.0000,39,"Resident Care - Level 1: Wier. Una",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Wier. Una",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Wier. Una",,,,,,,,,,,,,,,

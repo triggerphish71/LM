@@ -1,0 +1,8 @@
+BATCH,,201209,B,9302.0000,
+INVOICE,IN,,08310181,,09/11/2012,3242.0000,"Invoice-Private",,09/11/2012,09/11/2012,,08314175MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,1020.0000,1020.00,"CR:Limited Term Di... M.Carangi 201209: Carangi, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306083,11,106.0000,1166.00,"Basic Service Fee - Studio for Sep: Carangi, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,11,96.0000,1056.00,"Resident Care - Level 6 for Sep: Carangi, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08310181,,09/11/2012,6060,"Invoice-Private",,09/11/2012,09/11/2012,,08314175MO,-2818.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3180,3180,"CR:Basic Service F... M.Carangi 201209: Carangi, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,2880,2880,"CR:Resident Care -... M.Carangi 201209: Carangi, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,7192.0000,
+INVOICE,IN,,13310366,,01/27/2012,3348.0000,"Invoice-Private",,01/27/2012,01/27/2012,,13315251MO,-4127.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,27,92.0000,2484.00,"Basic Service Fee - Studio for Jan: Clarke, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,27,32.0000,864.00,"Resident Care - Level 2 for Jan: Clarke, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,13310366,,01/27/2012,3844,"Invoice-Private",,01/27/2012,01/27/2012,,13315251MO,-4127.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... D.Clarke 201201: Clarke, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... D.Clarke 201201: Clarke, Doris",,,,,,,,,,,,,,,

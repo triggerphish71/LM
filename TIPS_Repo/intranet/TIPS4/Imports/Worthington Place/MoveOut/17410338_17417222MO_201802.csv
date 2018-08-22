@@ -1,0 +1,7 @@
+BATCH,,201802,B,6223.0000,
+INVOICE,IN,,17410338,,02/21/2018,2667.0000,"Invoice-Private",,02/21/2018,02/21/2018,,17417222MO,-889.0000,,,,,,,,,,
+TRANSACTION,3020,010009174,21,87.0000,1827.00,"Basic Service Fee - Studio  for Feb: Roush, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009174,21,40.0000,840.00,"Resident Care - Level 2  for Feb: Roush, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,17410338,,02/21/2018,3556,"Invoice-Private",,02/21/2018,02/21/2018,,17417222MO,-889.0000,,,,,,,,,,
+TRANSACTION,3020,010009174,1,2436,2436,"CR:Basic Service F... M.Roush 201802: Roush, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009174,1,1120,1120,"CR:Resident Care -... M.Roush 201802: Roush, Mildred",,,,,,,,,,,,,,,

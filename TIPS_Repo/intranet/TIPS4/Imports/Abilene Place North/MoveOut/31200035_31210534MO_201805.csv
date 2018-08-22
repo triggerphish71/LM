@@ -1,0 +1,7 @@
+BATCH,,201805,B,7448.0000,
+INVOICE,IN,,31200035,,05/25/2018,3325.0000,"Invoice-Private",,05/25/2018,05/25/2018,,31210534MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3020,070024312,25,115.0000,2875.00,"One Bedroom for May: Kohman, Gerri",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024312,25,18.0000,450.00,"Resident Care - Level 1 for May: Kohman, Gerri",,,,,,,,,,,,,,,
+INVOICE,CM,,31200035,,05/25/2018,4123,"Invoice-Private",,05/25/2018,05/25/2018,,31210534MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3020,070024312,1,3565,3565,"CR:One Bedroom... G.Kohman 201805: Kohman, Gerri",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024312,1,558,558,"CR:Resident Care -... G.Kohman 201805: Kohman, Gerri",,,,,,,,,,,,,,,

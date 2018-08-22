@@ -1,0 +1,7 @@
+BATCH,,201208,B,4256.0000,
+INVOICE,IN,,19510242,,07/25/2012,784.0000,"MoveIn-Fulton. Robert",,07/25/2012,07/25/2012,,19514483,4256.0000,,,,,,,,,,
+TRANSACTION,3014,010309195,7,94.0000,658,"Basic Service Fee - Studio: Fulton. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309195,7,18.0000,126,"Resident Care - Level 1: Fulton. Robert",,,,,,,,,,,,,,,
+INVOICE,IN,,19510242,,08/01/2012,3472.0000,"August_Rent-Fulton. Robert",,08/01/2012,08/10/2012,,19514483,4256.0000,,,,,,,,,,
+TRANSACTION,3010,010309195,31,94.0000,2914,"Basic Service Fee - Studio: Fulton. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309195,31,18.0000,558,"Resident Care - Level 1: Fulton. Robert",,,,,,,,,,,,,,,

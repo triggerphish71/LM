@@ -1,0 +1,8 @@
+BATCH,,201304,B,7140.0000,
+INVOICE,IN,,12910263,,04/13/2013,2370.0000,"Invoice-Private",,04/13/2013,04/13/2013,,12916415MO,-7328.0000,,,,,,,,,,
+TRANSACTION,3027,010310129,15,63.0000,945.00,"Resident Care - Level 4 for Apr: Gibson, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,15,95.0000,1425.00,"Room and Board - Studio for Apr: Gibson, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,12910263,,04/13/2013,4770,"Invoice-Private",,04/13/2013,04/13/2013,,12916415MO,-7328.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... E.Gibson 201304: Gibson, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1890,1890,"CR:Resident Care -... E.Gibson 201304: Gibson, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2850,2850,"CR:Room and Board ... E.Gibson 201304: Gibson, Edith",,,,,,,,,,,,,,,

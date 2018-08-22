@@ -1,0 +1,8 @@
+BATCH,,201210,B,9232.0000,
+INVOICE,IN,,06510181,,10/07/2012,3838.0000,"Invoice-Private",,10/07/2012,10/07/2012,,06514862MO,-5756.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,1,1054.0000,1054.00,"CR:Limited Term Di... M.Seibenick 201210: Seibenick, Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,16,99.0000,1584.00,"Basic Service Fee - Studio for Oct: Seibenick, Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,16,75.0000,1200.00,"Resident Care - Level 4 for Oct: Seibenick, Mary Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,06510181,,10/07/2012,5394,"Invoice-Private",,10/07/2012,10/07/2012,,06514862MO,-5756.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3069,3069,"CR:Basic Service F... M.Seibenick 201210: Seibenick, Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,2325,2325,"CR:Resident Care -... M.Seibenick 201210: Seibenick, Mary Alice",,,,,,,,,,,,,,,

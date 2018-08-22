@@ -1,0 +1,7 @@
+BATCH,,201805,B,149.4000,
+INVOICE,IN,,10810393,,05/01/2018,74.7000,"Invoice-Private",,05/01/2018,05/10/2018,,10818040MO,-10982.1000,,,,,,,,,,
+TRANSACTION,3130,010008108,1,39.6979,39.70,"Pendant Fee: Hofer, Ingrid",,,,,,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35.0000,35.00,"Monthly Cable: Hofer, Ingrid",,,,,,,,,,,,,,,
+INVOICE,CM,,10810393,,05/01/2018,74.7,"Invoice-Private",,05/01/2018,05/10/2018,,10818040MO,-10982.1000,,,,,,,,,,
+TRANSACTION,3130,010008108,1,39.6979,39.6979,"Credit for Pendant Fee: Hofer, Ingrid",,,,,,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35,35,"Credit for Monthly Cable: Hofer, Ingrid",,,,,,,,,,,,,,,

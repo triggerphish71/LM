@@ -1,0 +1,5 @@
+BATCH,,201307,B,490.0000,
+INVOICE,IN,,50210216,,07/18/2013,180.0000,"Invoice-Private",,07/18/2013,07/18/2013,,50214081MO,-440.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,18,10.0000,180.00,"Basic Service Fee - Second Resident for Jul: Petty, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,50210216,,07/18/2013,310,"Invoice-Private",,07/18/2013,07/18/2013,,50214081MO,-440.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,310,310,"CR:Basic Service F... C.Petty 201307: Petty, Catherine",,,,,,,,,,,,,,,

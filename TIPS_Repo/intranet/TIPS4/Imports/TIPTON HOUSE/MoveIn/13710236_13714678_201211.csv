@@ -1,0 +1,5 @@
+BATCH,,201211,B,4080.0000,
+INVOICE,IN,,13710236,,11/01/2012,4080.0000,"November_Rent-Tabor. Elizabeth ",,11/01/2012,11/10/2012,,13714678,6135.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,30,90.0000,2700,"Basic Service Fee - Studio: Tabor. Elizabeth ",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,30,45.0000,1350,"Resident Care - Level 3: Tabor. Elizabeth ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Tabor. Elizabeth ",,,,,,,,,,,,,,,

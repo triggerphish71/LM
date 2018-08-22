@@ -1,0 +1,5 @@
+BATCH,,201206,B,3203.5000,
+INVOICE,IN,,51710206,,06/01/2012,3203.5000,"June_Rent-Green. Carol",,06/01/2012,06/10/2012,,51712966,5334.4500,,,,,,,,,,
+TRANSACTION,3010,010103517,30,97.0000,2910,"Basic Service Fee - Studio Deluxe: Green. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103517,30,8.9500,268.5,"Resident Care - Level 5: Green. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Green. Carol",,,,,,,,,,,,,,,

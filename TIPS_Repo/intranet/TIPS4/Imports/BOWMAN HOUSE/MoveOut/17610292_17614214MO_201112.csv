@@ -1,0 +1,8 @@
+BATCH,,201112,B,2442.0000,
+INVOICE,IN,,17610292,,12/10/2011,520.0000,"Invoice-Private",,12/10/2011,12/10/2011,,17614214MO,-1402.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,10,24.0000,240.00,"Basic Service Fee - Second Resident for Dec: Nichols, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,10,28.0000,280.00,"Resident Care - Level 2 for Dec: Nichols, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,17610292,,12/10/2011,1922,"Invoice-Private",,12/10/2011,12/10/2011,,17614214MO,-1402.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,744,744,"CR:Basic Service F... M.Nichols 201112: Nichols, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... M.Nichols 201112: Nichols, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... M.Nichols 201112: Nichols, Marguerite",,,,,,,,,,,,,,,

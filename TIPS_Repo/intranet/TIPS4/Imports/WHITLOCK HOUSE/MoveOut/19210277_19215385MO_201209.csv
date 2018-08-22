@@ -1,0 +1,5 @@
+BATCH,,201209,B,4921.0000,
+INVOICE,IN,,19210277,,09/07/2012,931.0000,"Invoice-Private",,09/07/2012,09/07/2012,,19215385MO,-3059.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,7,133.0000,931.00,"Basic Service Fee - One Bedroom for Sep: Kennedy, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,19210277,,09/07/2012,3990,"Invoice-Private",,09/07/2012,09/07/2012,,19215385MO,-3059.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3990,3990,"CR:Basic Service F... D.Kennedy 201209: Kennedy, Doris",,,,,,,,,,,,,,,

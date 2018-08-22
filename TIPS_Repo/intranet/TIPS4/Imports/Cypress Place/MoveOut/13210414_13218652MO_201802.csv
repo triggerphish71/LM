@@ -1,0 +1,7 @@
+BATCH,,201802,B,83.9800,
+INVOICE,IN,,13210414,,02/01/2018,41.9900,"Invoice-Private",,02/01/2018,02/10/2018,,13218652MO,-545.0000,,,,,,,,,,
+TRANSACTION,3260,010008132,1,29.0000,29.00,"Monthly Cable: Jankowski, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3250,010008132,1,12.9900,12.99,"Guest Meal: Jankowski, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,13210414,,02/01/2018,41.99,"Invoice-Private",,02/01/2018,02/10/2018,,13218652MO,-545.0000,,,,,,,,,,
+TRANSACTION,3260,010008132,1,29,29,"Credit for Monthly Cable: Jankowski, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3250,010008132,1,12.99,12.99,"Credit for Guest Meal: Jankowski, Charlotte",,,,,,,,,,,,,,,

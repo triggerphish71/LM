@@ -1,0 +1,6 @@
+BATCH,,201206,B,3857.4800,
+INVOICE,IN,,08110240,,06/15/2012,3857.4800,"MoveIn-Stinson. Betty",,06/15/2012,06/15/2012,,08114444,7432.9100,,,,,,,,,,
+TRANSACTION,3010,010103081,16,102.0000,1632,"Basic Service Fee - One Bedroom: Stinson. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,16,12.5300,200.48,"Resident Care - Level 7: Stinson. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Stinson. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Stinson. Betty",,,,,,,,,,,,,,,

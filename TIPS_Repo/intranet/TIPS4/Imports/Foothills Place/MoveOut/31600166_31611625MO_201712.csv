@@ -1,0 +1,7 @@
+BATCH,,201712,B,10545.0000,
+INVOICE,IN,,31600166,,12/06/2017,1710.0000,"Invoice-Private",,12/06/2017,12/06/2017,,31611625MO,-7125.0000,,,,,,,,,,
+TRANSACTION,3027,070007316,6,60.0000,360.00,"Resident Care - Level 4  for Dec: Quint, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3020,070007316,6,225.0000,1350.00,"Studio  for Dec: Quint, Steve",,,,,,,,,,,,,,,
+INVOICE,CM,,31600166,,12/06/2017,8835,"Invoice-Private",,12/06/2017,12/06/2017,,31611625MO,-7125.0000,,,,,,,,,,
+TRANSACTION,3027,070007316,1,1860,1860,"CR:Resident Care -... S.Quint 201712: Quint, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3020,070007316,1,6975,6975,"CR:Studio... S.Quint 201712: Quint, Steve",,,,,,,,,,,,,,,

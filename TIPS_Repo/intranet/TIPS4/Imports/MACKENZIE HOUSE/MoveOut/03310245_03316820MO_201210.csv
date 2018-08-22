@@ -1,0 +1,6 @@
+BATCH,,201210,B,6008.0000,
+INVOICE,IN,,03310245,,10/25/2012,3094.0000,"Invoice-Private",,10/25/2012,10/25/2012,,03316820MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,744.0000,744.00,"CR:Limited Term Di... B.Woodard 201210: Woodard, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,25,94.0000,2350.00,"Basic Service Fee - Studio for Oct: Woodard, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03310245,,10/25/2012,2914,"Invoice-Private",,10/25/2012,10/25/2012,,03316820MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2914,2914,"CR:Basic Service F... B.Woodard 201210: Woodard, Betty",,,,,,,,,,,,,,,

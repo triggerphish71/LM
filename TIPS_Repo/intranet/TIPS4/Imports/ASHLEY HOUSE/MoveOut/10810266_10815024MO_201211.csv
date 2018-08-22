@@ -1,0 +1,6 @@
+BATCH,,201211,B,3870.0000,
+INVOICE,IN,,10810266,,11/01/2012,870.0000,"Invoice-Private",,11/01/2012,11/10/2012,,10815024MO,-2130.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,1,870.0000,870.00,"CR:Limited Term Di... P.Psomas 201211: Psomas, Pansy",,,,,,,,,,,,,,,
+INVOICE,CM,,10810266,,11/01/2012,3000,"Invoice-Private",,11/01/2012,11/10/2012,,10815024MO,-2130.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2520,2520,"CR:Basic Service F... P.Psomas 201211: Psomas, Pansy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,480,480,"CR:Resident Care -... P.Psomas 201211: Psomas, Pansy",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,3306.0000,
+INVOICE,IN,,16410275,,08/01/2011,764.0000,"Invoice-Private",,08/01/2011,08/10/2011,,16415940MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3320,010202164,1,682.0000,682.00,"CR:Limited Term Di... M.Hopper 201108: Hopper, Myra",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202164,1,82.0000,82.00,"Basic Service Fee - Studio for Aug: Hopper, Myra",,,,,,,,,,,,,,,
+INVOICE,CM,,16410275,,08/01/2011,2542,"Invoice-Private",,08/01/2011,08/10/2011,,16415940MO,-1778.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2542,2542,"CR:Basic Service F... M.Hopper 201108: Hopper, Myra",,,,,,,,,,,,,,,

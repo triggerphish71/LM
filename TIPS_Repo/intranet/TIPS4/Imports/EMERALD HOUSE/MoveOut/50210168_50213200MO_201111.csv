@@ -1,0 +1,7 @@
+BATCH,,201111,B,2700.0000,
+INVOICE,IN,,50210168,,11/18/2011,1200.0000,"Invoice-Private",,11/18/2011,11/18/2011,,50213200MO,-1850.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,24,36.0000,864.00,"Basic Service Fee - Second Resident for Nov: O'Connor, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,24,14.0000,336.00,"Resident Care - Level 1 for Nov: O'Connor, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,50210168,,11/18/2011,1500,"Invoice-Private",,11/18/2011,11/18/2011,,50213200MO,-1850.0000,,,,,,,,,,
+TRANSACTION,3020,010209502,1,1080,1080,"CR:Basic Service F... C.O'Connor 201111: O'Connor, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,420,420,"CR:Resident Care -... C.O'Connor 201111: O'Connor, Carl",,,,,,,,,,,,,,,

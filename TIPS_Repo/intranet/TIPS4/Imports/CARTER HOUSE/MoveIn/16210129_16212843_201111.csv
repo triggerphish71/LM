@@ -1,0 +1,5 @@
+BATCH,,201111,B,2050.0000,
+INVOICE,IN,,16210129,,11/26/2011,2050.0000,"MoveIn-Fentress. George",,11/26/2011,11/26/2011,,16212843,5460.0000,,,,,,,,,,
+TRANSACTION,3010,010211162,5,82.0000,410,"Basic Service Fee - One Bedroom: Fentress. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,5,28.0000,140,"Resident Care - Level 2: Fentress. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Fentress. George",,,,,,,,,,,,,,,

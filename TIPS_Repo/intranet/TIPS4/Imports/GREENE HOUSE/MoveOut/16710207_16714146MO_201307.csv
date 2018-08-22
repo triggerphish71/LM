@@ -1,0 +1,8 @@
+BATCH,,201307,B,5147.0000,
+INVOICE,IN,,16710207,,07/12/2013,1428.0000,"Invoice-Private",,07/12/2013,07/12/2013,,16714146MO,-2291.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,12,92.0000,1104.00,"Basic Service Fee - One Bedroom for Jul: Mullins, Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,12,27.0000,324.00,"Resident Care - Level 2 for Jul: Mullins, Jewel",,,,,,,,,,,,,,,
+INVOICE,CM,,16710207,,07/12/2013,3719,"Invoice-Private",,07/12/2013,07/12/2013,,16714146MO,-2291.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2852,2852,"CR:Basic Service F... J.Mullins 201307: Mullins, Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... J.Mullins 201307: Mullins, Jewel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,837,837,"CR:Resident Care -... J.Mullins 201307: Mullins, Jewel",,,,,,,,,,,,,,,

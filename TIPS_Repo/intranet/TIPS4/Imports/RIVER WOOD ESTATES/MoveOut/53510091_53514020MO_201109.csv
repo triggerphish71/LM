@@ -1,0 +1,8 @@
+BATCH,,201109,B,5632.0000,
+INVOICE,IN,,53510091,,09/01/2011,90.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53514020MO,-5924.9000,,,,,,,,,,
+TRANSACTION,3320,010319535,1,90.0000,90.00,"CR:Limited Term Di... C.Kramer 201109: Kramer, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,53510091,,09/01/2011,5542,"Invoice-Private",,09/01/2011,09/10/2011,,53514020MO,-5924.9000,,,,,,,,,,
+TRANSACTION,3019,010319535,1,357,357,"CR:Additional Serv... C.Kramer 201109: Kramer, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... C.Kramer 201109: Kramer, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,2310,2310,"CR:Resident Care -... C.Kramer 201109: Kramer, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2850,2850,"CR:Room and Board ... C.Kramer 201109: Kramer, Carl",,,,,,,,,,,,,,,

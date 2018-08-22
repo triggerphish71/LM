@@ -1,0 +1,8 @@
+BATCH,,201202,B,6143.0000,
+INVOICE,IN,,03310262,,02/17/2012,2261.0000,"Invoice-Private",,02/17/2012,02/17/2012,,03316335MO,-5769.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,17,116.0000,1972.00,"Basic Service Fee - One Bedroom for Feb: Gist, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,17,17.0000,289.00,"Resident Care - Level 1 for Feb: Gist, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03310262,,02/17/2012,3882,"Invoice-Private",,02/17/2012,02/17/2012,,03316335MO,-5769.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3364,3364,"CR:Basic Service F... J.Gist 201202: Gist, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... J.Gist 201202: Gist, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,493,493,"CR:Resident Care -... J.Gist 201202: Gist, John",,,,,,,,,,,,,,,

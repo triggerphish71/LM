@@ -1,0 +1,6 @@
+BATCH,,201211,B,5860.0000,
+INVOICE,IN,,07110151,,11/25/2012,2860.0000,"Invoice-Private",,11/25/2012,11/25/2012,,07114514MO,-3178.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,60.0000,60.00,"CR:Limited Term Di... M.Waller 201211: Waller, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,28,100.0000,2800.00,"Basic Service Fee - Deluxe for Nov: Waller, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,07110151,,11/25/2012,3000,"Invoice-Private",,11/25/2012,11/25/2012,,07114514MO,-3178.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,3000,3000,"CR:Basic Service F... M.Waller 201211: Waller, Mary",,,,,,,,,,,,,,,

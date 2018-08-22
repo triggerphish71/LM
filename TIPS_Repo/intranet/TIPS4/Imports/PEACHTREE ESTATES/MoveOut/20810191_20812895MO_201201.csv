@@ -1,0 +1,5 @@
+BATCH,,201201,B,2542.0000,
+INVOICE,IN,,20810191,,01/01/2012,1271.0000,"Invoice-Private",,01/01/2012,01/10/2012,,20812895MO,-842.2200,,,,,,,,,,
+TRANSACTION,3320,010216208,31,41.0000,1271.00,"Credit for Limited Term Discount: Walls, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20810191,,01/01/2012,1271,"Invoice-Private",,01/01/2012,01/10/2012,,20812895MO,-842.2200,,,,,,,,,,
+TRANSACTION,3320,010216208,31,41,1271,"Limited Term Discount: Walls, James",,,,,,,,,,,,,,,

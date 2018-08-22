@@ -1,0 +1,5 @@
+BATCH,,201205,B,3630.0000,
+INVOICE,IN,,14010226,,05/12/2012,3630.0000,"MoveIn-McBride. Wallace",,05/12/2012,05/12/2012,,14013808,3630.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,20,105.0000,2100,"Basic Service Fee - One Bedroom: McBride. Wallace",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: McBride. Wallace",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: McBride. Wallace",,,,,,,,,,,,,,,

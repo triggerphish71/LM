@@ -1,0 +1,7 @@
+BATCH,,201112,B,126.0000,
+INVOICE,IN,,14410225,,12/01/2011,63.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14414895MO,-5326.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Powers, Heidi",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Powers, Heidi",,,,,,,,,,,,,,,
+INVOICE,CM,,14410225,,12/01/2011,63,"Invoice-Private",,12/01/2011,12/10/2011,,14414895MO,-5326.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Powers, Heidi",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Powers, Heidi",,,,,,,,,,,,,,,

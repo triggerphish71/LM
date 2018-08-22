@@ -1,0 +1,5 @@
+BATCH,,201210,B,3520.0000,
+INVOICE,IN,,04710145,,10/12/2012,3520.0000,"MoveIn-Garner. Ora",,10/12/2012,10/12/2012,,04713275,3520.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,20,109.0000,2180,"O.Garner: Basic Service Fee - One Bedroom: Garner. Ora",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,20,17.0000,340,"O.Garner: Resident Care - Level 1: Garner. Ora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Garner. Ora",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,5310.0000,
+INVOICE,IN,,51910214,,08/01/2012,1900.0000,"Invoice-Private",,08/01/2012,08/10/2012,,51913425MO,-1510.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,775.0000,775.00,"CR:Limited Term Di... J.Hackett 201208: Hackett, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,10,35.0000,350.00,"Basic Service Fee - Second Resident for Aug: Hackett, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,10,77.5000,775.00,"Increase Room and Board for Aug: Hackett, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,51910214,,08/01/2012,3410,"Invoice-Private",,08/01/2012,08/10/2012,,51913425MO,-1510.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,1085,1085,"CR:Basic Service F... J.Hackett 201208: Hackett, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2325,2325,"CR:Increase Room a... J.Hackett 201208: Hackett, Joanne",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,60.0000,
+INVOICE,IN,,15310231,,12/01/2012,30.0000,"Invoice-Private",,12/01/2012,12/10/2012,,15316284MO,-5126.3400,,,,,,,,,,
+TRANSACTION,3130,010103153,1,30.0000,30.00,"Pendant Fee: Jorgensen, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,15310231,,12/01/2012,30,"Invoice-Private",,12/01/2012,12/10/2012,,15316284MO,-5126.3400,,,,,,,,,,
+TRANSACTION,3130,010103153,1,30,30,"Credit for Pendant Fee: Jorgensen, Jerome",,,,,,,,,,,,,,,

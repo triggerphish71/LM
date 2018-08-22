@@ -1,0 +1,5 @@
+BATCH,,201205,B,4396.0000,
+INVOICE,CM,,52910185,,05/01/2012,4396,"Invoice-Private",,05/01/2012,05/10/2012,,52913082MO,-4396.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,3503,3503,"CR:Basic Service F... L.Buchholz 201205: Buchholz, Len Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... L.Buchholz 201205: Buchholz, Len Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,868,868,"CR:Resident Care -... L.Buchholz 201205: Buchholz, Len Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201211,B,3747.0000,
+INVOICE,IN,,04410274,,11/09/2012,3747.0000,"MoveIn-Simmons. Stanley",,11/09/2012,11/09/2012,,04414834,3747.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,22,85.0000,1870,"Basic Service Fee - Studio: Simmons. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,22,16.0000,352,"Resident Care - Level 1: Simmons. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Simmons. Stanley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Simmons. Stanley",,,,,,,,,,,,,,,

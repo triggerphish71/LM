@@ -1,0 +1,5 @@
+BATCH,,201107,B,2097.0000,
+INVOICE,IN,,09110210,,07/31/2011,2097.0000,"MoveIn-Shepherd. Mary",,07/31/2011,07/31/2011,,09114796,5104.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,1,80.0000,80,"Basic Service Fee - Studio         : Shepherd. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,1,17.0000,17,"Resident Care - Level 1: Shepherd. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Shepherd. Mary",,,,,,,,,,,,,,,

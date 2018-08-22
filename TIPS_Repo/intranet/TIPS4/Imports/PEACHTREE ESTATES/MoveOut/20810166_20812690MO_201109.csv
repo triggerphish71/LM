@@ -1,0 +1,7 @@
+BATCH,,201109,B,5460.0000,
+INVOICE,IN,,20810166,,09/01/2011,2310.0000,"Invoice-Private",,09/01/2011,09/10/2011,,20812690MO,-840.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,22,31.0000,682.00,"Resident Care - Level 3 for Sep: Copeland, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,22,74.0000,1628.00,"Studio for Sep: Copeland, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,20810166,,09/01/2011,3150,"Invoice-Private",,09/01/2011,09/10/2011,,20812690MO,-840.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,930,930,"CR:Resident Care -... B.Copeland 201109: Copeland, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2220,2220,"CR:Studio... B.Copeland 201109: Copeland, Bessie",,,,,,,,,,,,,,,

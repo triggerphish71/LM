@@ -1,0 +1,8 @@
+BATCH,,201105,B,9953.0000,
+INVOICE,IN,,53610182,,05/27/2011,4617.0000,"Invoice-Private",,05/27/2011,05/27/2011,,53613092MO,-5874.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,27,94.0000,2538.00,"Basic Service Fee - Studio for May: Krenz, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319536,27,77.0000,2079.00,"Private Care Rate Adjustments for May: Krenz, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,53610182,,05/27/2011,5336,"Invoice-Private",,05/27/2011,05/27/2011,,53613092MO,-5874.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2914,2914,"CR:Basic Service F... E.Krenz 201105: Krenz, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... E.Krenz 201105: Krenz, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319536,1,2387,2387,"CR:Private Care Ra... E.Krenz 201105: Krenz, Evelyn",,,,,,,,,,,,,,,

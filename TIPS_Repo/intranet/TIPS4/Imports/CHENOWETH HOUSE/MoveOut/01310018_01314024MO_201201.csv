@@ -1,0 +1,7 @@
+BATCH,,201201,B,2379.5200,
+INVOICE,IN,,01310018,,01/01/2012,1189.7600,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314024MO,-1801.9200,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Wilde, Kevin",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1161.7600,1161.76,"State Medicaid: Wilde, Kevin",,,,,,,,,,,,,,,
+INVOICE,CM,,01310018,,01/01/2012,1189.76,"Invoice-Medicaid",,01/01/2012,01/10/2012,,01314024MO,-1801.9200,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Wilde, Kevin",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1161.76,1161.76,"Credit for State Medicaid: Wilde, Kevin",,,,,,,,,,,,,,,

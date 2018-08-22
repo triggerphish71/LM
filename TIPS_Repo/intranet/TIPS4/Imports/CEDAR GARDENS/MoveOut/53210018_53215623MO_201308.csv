@@ -1,0 +1,7 @@
+BATCH,,201308,B,6650.0000,
+INVOICE,IN,,53210018,,08/02/2013,760.0000,"Invoice-Private",,08/02/2013,08/02/2013,,53215623MO,-5130.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,4,113.0000,452.00,"Basic Service Fee - Studio for Aug: Greymont, Elynor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,4,77.0000,308.00,"Resident Care - Level 6 for Aug: Greymont, Elynor",,,,,,,,,,,,,,,
+INVOICE,CM,,53210018,,08/02/2013,5890,"Invoice-Private",,08/02/2013,08/02/2013,,53215623MO,-5130.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3503,3503,"CR:Basic Service F... E.Greymont 201308: Greymont, Elynor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2387,2387,"CR:Resident Care -... E.Greymont 201308: Greymont, Elynor",,,,,,,,,,,,,,,

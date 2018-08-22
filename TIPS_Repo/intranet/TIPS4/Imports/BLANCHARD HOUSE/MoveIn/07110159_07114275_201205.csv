@@ -1,0 +1,5 @@
+BATCH,,201205,B,4916.0000,
+INVOICE,IN,,07110159,,05/04/2012,4916.0000,"MoveIn-Spears. Gene",,05/04/2012,05/04/2012,,07114275,4916.0000,,,,,,,,,,
+TRANSACTION,3010,010305071,28,90.0000,2520,"Basic Service Fee - Studio: Spears. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305071,28,32.0000,896,"Resident Care - Level 2: Spears. Gene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305071,1,1500.0000,1500,"New Resident Fee: Spears. Gene",,,,,,,,,,,,,,,

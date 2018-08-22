@@ -1,0 +1,8 @@
+BATCH,,201304,B,4890.0000,
+INVOICE,IN,,53510176,,04/07/2013,2160.0000,"Invoice-Private",,04/07/2013,04/07/2013,,53515310MO,-3390.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,24,73.0000,1752.00,"Basic Service Fee - Studio for Apr: Moreau, Orland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,24,17.0000,408.00,"Resident Care - Level 1 for Apr: Moreau, Orland",,,,,,,,,,,,,,,
+INVOICE,CM,,53510176,,04/07/2013,2730,"Invoice-Private",,04/07/2013,04/07/2013,,53515310MO,-3390.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2190,2190,"CR:Basic Service F... O.Moreau 201304: Moreau, Orland",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... O.Moreau 201304: Moreau, Orland",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,510,510,"CR:Resident Care -... O.Moreau 201304: Moreau, Orland",,,,,,,,,,,,,,,

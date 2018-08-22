@@ -1,0 +1,7 @@
+BATCH,,201106,B,5301.0000,
+INVOICE,IN,,17910144,,06/27/2011,2511.0000,"Invoice-Private",,06/27/2011,06/27/2011,,17914578MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,27,79.0000,2133.00,"Basic Service Fee - Studio for Jun: Fontenot, Isom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,27,14.0000,378.00,"Resident Care - Level 1 for Jun: Fontenot, Isom",,,,,,,,,,,,,,,
+INVOICE,CM,,17910144,,06/27/2011,2790,"Invoice-Private",,06/27/2011,06/27/2011,,17914578MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2370,2370,"CR:Basic Service F... I.Fontenot 201106: Fontenot, Isom",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,420,420,"CR:Resident Care -... I.Fontenot 201106: Fontenot, Isom",,,,,,,,,,,,,,,

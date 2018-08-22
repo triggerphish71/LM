@@ -1,0 +1,5 @@
+BATCH,,201109,B,1140.0000,
+INVOICE,IN,,19010225,,09/30/2011,1140.0000,"MoveIn-Bacon. Mrs.",,09/30/2011,09/30/2011,,19014275,4670.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,113.0000,113,"Basic Service Fee - One Bedroom    : Bacon. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Bacon. Mrs.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Bacon. Mrs.",,,,,,,,,,,,,,,

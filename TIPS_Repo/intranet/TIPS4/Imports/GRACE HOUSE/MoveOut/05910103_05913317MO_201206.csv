@@ -1,0 +1,7 @@
+BATCH,,201206,B,6790.5200,
+INVOICE,IN,,05910103,,06/10/2012,2160.6200,"Invoice-Private",,06/10/2012,06/10/2012,,05913317MO,-2469.2800,,,,,,,,,,
+TRANSACTION,3020,010101059,14,106.0000,1484.00,"Basic Service Fee - One Bedroom for Jun: Hettervig, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,14,48.3300,676.62,"Resident Care - Level 27 for Jun: Hettervig, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,05910103,,06/10/2012,4629.9,"Invoice-Private",,06/10/2012,06/10/2012,,05913317MO,-2469.2800,,,,,,,,,,
+TRANSACTION,3020,010101059,1,3180,3180,"CR:Basic Service F... P.Hettervig 201206: Hettervig, Paul",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101059,1,1449.9,1449.9,"CR:Resident Care -... P.Hettervig 201206: Hettervig, Paul",,,,,,,,,,,,,,,

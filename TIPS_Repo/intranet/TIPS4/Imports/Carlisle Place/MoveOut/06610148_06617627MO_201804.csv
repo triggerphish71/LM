@@ -1,0 +1,8 @@
+BATCH,,201804,B,12115.0000,
+INVOICE,IN,,06610148,,04/21/2018,4675.0000,"Invoice-Private",,04/21/2018,04/21/2018,,06617627MO,-2765.0000,,,,,,,,,,
+TRANSACTION,3017,010005066,8,83.0000,664.00,"Level: 4 : Kiess, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005066,13,42.0000,546.00," Level: 2 : Kiess, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005066,21,165.0000,3465.00,"Basic Service Fee - One Bedroom  for Apr: Kiess, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06610148,,04/21/2018,7440,"Invoice-Private",,04/21/2018,04/21/2018,,06617627MO,-2765.0000,,,,,,,,,,
+TRANSACTION,3020,010005066,1,4950,4950,"CR:Basic Service F... M.Kiess 201804: Kiess, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005066,1,2490,2490,"CR:Resident Care -... M.Kiess 201804: Kiess, Mary",,,,,,,,,,,,,,,

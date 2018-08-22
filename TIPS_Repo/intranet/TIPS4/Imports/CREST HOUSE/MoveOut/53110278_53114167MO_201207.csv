@@ -1,0 +1,7 @@
+BATCH,,201207,B,4410.0000,
+INVOICE,IN,,53110278,,07/04/2012,504.0000,"Invoice-Private",,07/04/2012,07/04/2012,,53114167MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,4,98.0000,392.00,"Basic Service Fee - Studio for Jul: Raffaele, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,4,28.0000,112.00,"Resident Care - Level 2 for Jul: Raffaele, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,53110278,,07/04/2012,3906,"Invoice-Private",,07/04/2012,07/04/2012,,53114167MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3038,3038,"CR:Basic Service F... J.Raffaele 201207: Raffaele, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,868,868,"CR:Resident Care -... J.Raffaele 201207: Raffaele, Joseph",,,,,,,,,,,,,,,

@@ -1,0 +1,4 @@
+BATCH,,201111,B,3235.0000,
+INVOICE,IN,,16910225,,11/01/2011,3235.0000,"November_Rent-Hergenreder. Bill",,11/01/2011,11/10/2011,,16914617,5795.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,30,107.0000,3210,"Basic Service Fee - One Bedroom    : Hergenreder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Hergenreder. Bill",,,,,,,,,,,,,,,

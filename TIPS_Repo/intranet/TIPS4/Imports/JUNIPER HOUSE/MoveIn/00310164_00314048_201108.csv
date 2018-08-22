@@ -1,0 +1,5 @@
+BATCH,,201108,B,2528.0000,
+INVOICE,IN,,00310164,,08/13/2011,2528.0000,"MoveIn-Ruppel. Mary",,08/13/2011,08/13/2011,,00314048,2528.0000,,,,,,,,,,
+TRANSACTION,3010,010101003,19,79.0000,1501,"Basic Service Fee - Studio         : Ruppel. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Ruppel. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Ruppel. Mary",,,,,,,,,,,,,,,

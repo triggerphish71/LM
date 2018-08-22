@@ -1,0 +1,5 @@
+BATCH,,201108,B,2914.0000,
+INVOICE,IN,,12910185,,08/01/2011,62.0000,"Invoice-Private",,08/01/2011,08/10/2011,,12915430MO,-4434.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,1,62.0000,62.00,"CR:Limited Term Di... L.Ludovici 201108: Ludovici, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,12910185,,08/01/2011,2852,"Invoice-Private",,08/01/2011,08/10/2011,,12915430MO,-4434.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2852,2852,"CR:Basic Service F... L.Ludovici 201108: Ludovici, Lorraine",,,,,,,,,,,,,,,

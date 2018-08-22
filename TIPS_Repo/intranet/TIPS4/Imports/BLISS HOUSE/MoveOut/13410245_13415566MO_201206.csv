@@ -1,0 +1,8 @@
+BATCH,,201206,B,5300.0000,
+INVOICE,IN,,13410245,,06/01/2012,1755.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13415566MO,-5452.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,15,100.0000,1500.00,"Basic Service Fee - One Bedroom for Jun: Roell, Christina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,15,17.0000,255.00,"Resident Care - Level 1 for Jun: Roell, Christina",,,,,,,,,,,,,,,
+INVOICE,CM,,13410245,,06/01/2012,3545,"Invoice-Private",,06/01/2012,06/10/2012,,13415566MO,-5452.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,3000,3000,"CR:Basic Service F... C.Roell 201206: Roell, Christina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... C.Roell 201206: Roell, Christina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,510,510,"CR:Resident Care -... C.Roell 201206: Roell, Christina",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,5654.0000,
+INVOICE,IN,,05010171,,05/29/2013,2715.8500,"Invoice-Private",,05/29/2013,05/29/2013,,05013351MO,-3066.8000,,,,,,,,,,
+TRANSACTION,3020,010101050,29,77.0000,2233.00,"Basic Service Fee - Studio for May: Elroy, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,29,16.6500,482.85,"Resident Care Level Change for May: Elroy, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,05010171,,05/29/2013,2938.15,"Invoice-Private",,05/29/2013,05/29/2013,,05013351MO,-3066.8000,,,,,,,,,,
+TRANSACTION,3020,010101050,1,2387,2387,"CR:Basic Service F... V.Elroy 201305: Elroy, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101050,1,35,35,"CR:Monthly Cable... V.Elroy 201305: Elroy, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,516.15,516.15,"CR:Resident Care L... V.Elroy 201305: Elroy, Virginia",,,,,,,,,,,,,,,

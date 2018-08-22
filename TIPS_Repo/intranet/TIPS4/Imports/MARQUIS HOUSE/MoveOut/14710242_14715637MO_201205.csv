@@ -1,0 +1,7 @@
+BATCH,,201205,B,4960.0000,
+INVOICE,IN,,14710242,,05/01/2012,155.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14715637MO,-4650.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,102.0000,102.00,"Basic Service Fee - Studio for May: Vallango, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,53.0000,53.00,"Resident Care - Level 3 for May: Vallango, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,14710242,,05/01/2012,4805,"Invoice-Private",,05/01/2012,05/10/2012,,14715637MO,-4650.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... J.Vallango 201205: Vallango, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1643,1643,"CR:Resident Care -... J.Vallango 201205: Vallango, Joseph",,,,,,,,,,,,,,,

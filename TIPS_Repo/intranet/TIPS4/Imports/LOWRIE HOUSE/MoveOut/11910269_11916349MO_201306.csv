@@ -1,0 +1,6 @@
+BATCH,,201306,B,3645.0000,
+INVOICE,IN,,11910269,,06/08/2013,760.0000,"Invoice-Private",,06/08/2013,06/08/2013,,11916349MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,8,95.0000,760.00,"Basic Service Fee - Studio for Jun: Cavanaugh, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,11910269,,06/08/2013,2885,"Invoice-Private",,06/08/2013,06/08/2013,,11916349MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2850,2850,"CR:Basic Service F... M.Cavanaugh 201306: Cavanaugh, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,35,35,"CR:Monthly Cable... M.Cavanaugh 201306: Cavanaugh, Martha",,,,,,,,,,,,,,,

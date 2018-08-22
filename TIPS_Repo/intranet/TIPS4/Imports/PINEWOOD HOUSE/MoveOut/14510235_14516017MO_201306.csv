@@ -1,0 +1,7 @@
+BATCH,,201306,B,5208.0000,
+INVOICE,IN,,14510235,,06/01/2013,168.0000,"Invoice-Private",,06/01/2013,06/01/2013,,14516017MO,-4872.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,99.0000,99.00,"Basic Service Fee - Studio for Jun: Banis, Leora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,69.0000,69.00,"Resident Care - Level 5 for Jun: Banis, Leora",,,,,,,,,,,,,,,
+INVOICE,CM,,14510235,,06/01/2013,5040,"Invoice-Private",,06/01/2013,06/01/2013,,14516017MO,-4872.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2970,2970,"CR:Basic Service F... L.Banis 201306: Banis, Leora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,2070,2070,"CR:Resident Care -... L.Banis 201306: Banis, Leora",,,,,,,,,,,,,,,

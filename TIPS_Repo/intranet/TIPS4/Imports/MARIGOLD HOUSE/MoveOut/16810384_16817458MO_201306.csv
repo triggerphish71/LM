@@ -1,0 +1,7 @@
+BATCH,,201306,B,3564.0000,
+INVOICE,IN,,16810384,,06/14/2013,1134.0000,"Invoice-Private",,06/14/2013,06/14/2013,,16817458MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,14,60.0000,840.00,"Basic Service Fee - Studio Deluxe for Jun: Lewis, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,14,21.0000,294.00,"Resident Care - Level 2 for Jun: Lewis, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,16810384,,06/14/2013,2430,"Invoice-Private",,06/14/2013,06/14/2013,,16817458MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,1800,1800,"CR:Basic Service F... G.Lewis 201306: Lewis, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,630,630,"CR:Resident Care -... G.Lewis 201306: Lewis, Gloria",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,7336.0000,
+INVOICE,IN,,21610087,,09/24/2011,3406.0000,"Invoice-Private",,09/24/2011,09/24/2011,,21613125MO,-4585.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,26,120.0000,3120.00,"One Bedroom Deluxe for Sep: McFerrin, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,26,11.0000,286.00,"Resident Care - Level 1 for Sep: McFerrin, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21610087,,09/24/2011,3930,"Invoice-Private",,09/24/2011,09/24/2011,,21613125MO,-4585.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3600,3600,"CR:One Bedroom Del... F.McFerrin 201109: McFerrin, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,330,330,"CR:Resident Care -... F.McFerrin 201109: McFerrin, Frances",,,,,,,,,,,,,,,

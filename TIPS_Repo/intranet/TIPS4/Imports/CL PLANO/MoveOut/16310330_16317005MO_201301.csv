@@ -1,0 +1,7 @@
+BATCH,,201301,B,7948.0000,
+INVOICE,IN,,16310330,,01/01/2013,4573.0000,"Invoice-Private",,01/01/2013,01/10/2013,,16317005MO,-649.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,1333.0000,1333.00,"CR:Limited Term Di... E.Arend 201301: Arend, Elnor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,30,108.0000,3240.00,"Room and Board - Studio Deluxe for Jan: Arend, Elnor",,,,,,,,,,,,,,,
+INVOICE,CM,,16310330,,01/01/2013,3375,"Invoice-Private",,01/01/2013,01/10/2013,,16317005MO,-649.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... E.Arend 201301: Arend, Elnor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Room and Board ... E.Arend 201301: Arend, Elnor",,,,,,,,,,,,,,,

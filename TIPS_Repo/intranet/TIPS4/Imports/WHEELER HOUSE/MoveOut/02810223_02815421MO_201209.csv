@@ -1,0 +1,6 @@
+BATCH,,201209,B,6225.0000,
+INVOICE,IN,,02810223,,09/15/2012,2835.0000,"Invoice-Private",,09/15/2012,09/15/2012,,02815421MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,1,1140.0000,1140.00,"CR:Limited Term Di... C.Harendt 201209: Harendt, Chester",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,15,113.0000,1695.00,"Basic Service Fee - Studio for Sep: Harendt, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,02810223,,09/15/2012,3390,"Invoice-Private",,09/15/2012,09/15/2012,,02815421MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3390,3390,"CR:Basic Service F... C.Harendt 201209: Harendt, Chester",,,,,,,,,,,,,,,

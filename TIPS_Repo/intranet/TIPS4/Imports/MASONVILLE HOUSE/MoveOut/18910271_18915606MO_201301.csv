@@ -1,0 +1,8 @@
+BATCH,,201301,B,4675.0000,
+INVOICE,IN,,18910271,,01/01/2013,1054.0000,"Invoice-Private",,01/01/2013,01/10/2013,,18915606MO,-2567.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,1054.0000,1054.00,"CR:Limited Term Di... M.Byrnes 201301: Byrnes, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,18910271,,01/01/2013,3621,"Invoice-Private",,01/01/2013,01/10/2013,,18915606MO,-2567.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2759,2759,"CR:Basic Service F... M.Byrnes 201301: Byrnes, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... M.Byrnes 201301: Byrnes, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... M.Byrnes 201301: Byrnes, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,527,527,"CR:Resident Care -... M.Byrnes 201301: Byrnes, Marilyn",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,4873.0000,
+INVOICE,IN,,01310195,,11/01/2012,4873.0000,"November_Rent-Hall. Herbert",,11/01/2012,11/10/2012,,01314202,5724.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,30,72.0000,2160,"Basic Service Fee - Studio: Hall. Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,30,89.5000,2685,"Resident Care - Level 50: Hall. Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Hall. Herbert",,,,,,,,,,,,,,,

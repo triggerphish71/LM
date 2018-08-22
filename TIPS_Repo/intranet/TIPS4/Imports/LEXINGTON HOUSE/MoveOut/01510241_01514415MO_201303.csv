@@ -1,0 +1,7 @@
+BATCH,,201303,B,7768.8000,
+INVOICE,IN,,01510241,,03/06/2013,1593.6000,"Invoice-Private",,03/06/2013,03/06/2013,,01514415MO,-4581.6000,,,,,,,,,,
+TRANSACTION,3020,010103015,8,103.0000,824.00,"Basic Service Fee - One Bedroom for Mar: Reed, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,8,96.2000,769.60,"Resident Care Level Change for Mar: Reed, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,01510241,,03/06/2013,6175.2,"Invoice-Private",,03/06/2013,03/06/2013,,01514415MO,-4581.6000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,3193,3193,"CR:Basic Service F... L.Reed 201303: Reed, Linda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,2982.2,2982.2,"CR:Resident Care L... L.Reed 201303: Reed, Linda",,,,,,,,,,,,,,,

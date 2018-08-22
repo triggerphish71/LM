@@ -1,0 +1,8 @@
+BATCH,,201210,B,4030.0000,
+INVOICE,IN,,02710133,,09/28/2012,1060.0000,"MoveIn-Phillips. Martha",,09/28/2012,09/28/2012,,02714165,4030.0000,,,,,,,,,,
+TRANSACTION,3014,010202027,3,95.0000,285,"Basic Service Fee - Studio: Phillips. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Phillips. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,750.0000,750,"New Resident Fee: Phillips. Martha",,,,,,,,,,,,,,,
+INVOICE,IN,,02710133,,10/01/2012,2970.0000,"October_Rent-Phillips. Martha",,10/01/2012,10/10/2012,,02714165,4030.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,31,95.0000,2945,"Basic Service Fee - Studio: Phillips. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Phillips. Martha",,,,,,,,,,,,,,,

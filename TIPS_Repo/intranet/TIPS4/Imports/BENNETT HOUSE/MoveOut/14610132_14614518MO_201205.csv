@@ -1,0 +1,7 @@
+BATCH,,201205,B,6656.0000,
+INVOICE,IN,,14610132,,05/21/2012,2688.0000,"Invoice-Private",,05/21/2012,05/21/2012,,14614518MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,21,93.0000,1953.00,"Basic Service Fee - Studio for May: Epperson, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,21,35.0000,735.00,"Resident Care - Level 2 for May: Epperson, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,14610132,,05/21/2012,3968,"Invoice-Private",,05/21/2012,05/21/2012,,14614518MO,-5120.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... F.Epperson 201205: Epperson, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1085,1085,"CR:Resident Care -... F.Epperson 201205: Epperson, Fred",,,,,,,,,,,,,,,

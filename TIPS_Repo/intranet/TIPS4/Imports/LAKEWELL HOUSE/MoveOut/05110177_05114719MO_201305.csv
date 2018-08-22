@@ -1,0 +1,5 @@
+BATCH,,201305,B,3355.0000,
+INVOICE,IN,,05110177,,05/01/2013,1650.0000,"Invoice-Private",,05/01/2013,05/01/2013,,05114719MO,-1705.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,30,55.0000,1650.00,"Basic Service Fee - Studio for May: White, Pauline Bielss",,,,,,,,,,,,,,,
+INVOICE,CM,,05110177,,05/01/2013,1705,"Invoice-Private",,05/01/2013,05/01/2013,,05114719MO,-1705.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,1705,1705,"CR:Basic Service F... P.White 201305: White, Pauline Bielss",,,,,,,,,,,,,,,

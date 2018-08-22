@@ -1,0 +1,7 @@
+BATCH,,201208,B,5922.0000,
+INVOICE,IN,,08610180,,08/11/2012,1551.0000,"Invoice-Private",,08/11/2012,08/11/2012,,08614890MO,-2820.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,11,125.0000,1375.00,"Basic Service Fee - One Bedroom for Aug: Prater, Julius",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,11,16.0000,176.00,"Resident Care - Level 1 for Aug: Prater, Julius",,,,,,,,,,,,,,,
+INVOICE,CM,,08610180,,08/11/2012,4371,"Invoice-Private",,08/11/2012,08/11/2012,,08614890MO,-2820.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,3875,3875,"CR:Basic Service F... J.Prater 201208: Prater, Julius",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,496,496,"CR:Resident Care -... J.Prater 201208: Prater, Julius",,,,,,,,,,,,,,,

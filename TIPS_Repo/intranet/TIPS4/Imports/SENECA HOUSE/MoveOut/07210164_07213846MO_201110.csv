@@ -1,0 +1,7 @@
+BATCH,,201110,B,6642.0000,
+INVOICE,IN,,07210164,,10/01/2011,2829.0000,"Invoice-Private",,10/01/2011,10/10/2011,,07213846MO,-984.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,23,105.0000,2415.00,"Basic Service Fee - Deluxe for Oct: Baughman, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,23,18.0000,414.00,"Resident Care - Level 1 for Oct: Baughman, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,07210164,,10/01/2011,3813,"Invoice-Private",,10/01/2011,10/10/2011,,07213846MO,-984.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3255,3255,"CR:Basic Service F... B.Baughman 201110: Baughman, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,558,558,"CR:Resident Care -... B.Baughman 201110: Baughman, Betty",,,,,,,,,,,,,,,

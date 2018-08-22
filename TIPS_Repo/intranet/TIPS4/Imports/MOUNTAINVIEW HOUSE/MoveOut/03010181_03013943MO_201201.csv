@@ -1,0 +1,7 @@
+BATCH,,201201,B,3604.4800,
+INVOICE,IN,,03010181,,01/01/2012,112.6400,"Invoice-Private",,01/01/2012,01/01/2012,,03013943MO,-3379.2000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,84.0000,84.00,"Basic Service Fee - Studio for Jan: Atwood, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,28.6400,28.64,"Resident Care - Level 16 for Jan: Atwood, Howard",,,,,,,,,,,,,,,
+INVOICE,CM,,03010181,,01/01/2012,3491.84,"Invoice-Private",,01/01/2012,01/01/2012,,03013943MO,-3379.2000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2604,2604,"CR:Basic Service F... H.Atwood 201201: Atwood, Howard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,887.84,887.84,"CR:Resident Care -... H.Atwood 201201: Atwood, Howard",,,,,,,,,,,,,,,

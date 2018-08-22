@@ -1,0 +1,8 @@
+BATCH,,201210,B,3102.0000,
+INVOICE,IN,,16210133,,10/01/2012,591.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16213051MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,186.0000,186.00,"CR:Limited Term Di... M.Camden 201210: Camden, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,5,66.0000,330.00,"Basic Service Fee - Studio for Oct: Camden, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,5,15.0000,75.00,"Resident Care - Level 1 for Oct: Camden, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,16210133,,10/01/2012,2511,"Invoice-Private",,10/01/2012,10/10/2012,,16213051MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2046,2046,"CR:Basic Service F... M.Camden 201210: Camden, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,465,465,"CR:Resident Care -... M.Camden 201210: Camden, Mary",,,,,,,,,,,,,,,

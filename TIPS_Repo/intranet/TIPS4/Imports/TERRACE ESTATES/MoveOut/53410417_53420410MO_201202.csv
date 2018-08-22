@@ -1,0 +1,6 @@
+BATCH,,201202,B,3598.9000,
+INVOICE,IN,,53410417,,02/01/2012,321.9000,"Invoice-Private",,02/01/2012,02/10/2012,,53420410MO,-2955.1000,,,,,,,,,,
+TRANSACTION,3316,010319534,1,321.9000,321.90,"CR:Employee Discou... J.Shopofski 201202: Shopofski, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53410417,,02/01/2012,3277,"Invoice-Private",,02/01/2012,02/10/2012,,53420410MO,-2955.1000,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1131,1131,"CR:Resident Care -... J.Shopofski 201202: Shopofski, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2146,2146,"CR:Room and Board ... J.Shopofski 201202: Shopofski, John",,,,,,,,,,,,,,,

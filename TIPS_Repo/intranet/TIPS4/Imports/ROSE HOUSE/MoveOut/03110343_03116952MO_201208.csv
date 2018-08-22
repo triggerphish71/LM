@@ -1,0 +1,8 @@
+BATCH,,201208,B,4635.0000,
+INVOICE,IN,,03110343,,08/01/2012,144.0000,"Invoice-Private",,08/01/2012,08/10/2012,,03116952MO,-4347.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,115.0000,115.00,"M.Fletcher: Basic Service Fee - One Bedroom : Fletcher, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,29.0000,29.00,"M.Fletcher: Resident Care - Level 2 for Aug: Fletcher, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,03110343,,08/01/2012,4491,"Invoice-Private",,08/01/2012,08/10/2012,,03116952MO,-4347.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3565,3565,"CR:M.Fletcher: Bas... M.Fletcher 201208: Fletcher, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,899,899,"CR:M.Fletcher: Res... M.Fletcher 201208: Fletcher, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... M.Fletcher 201208: Fletcher, Marie",,,,,,,,,,,,,,,

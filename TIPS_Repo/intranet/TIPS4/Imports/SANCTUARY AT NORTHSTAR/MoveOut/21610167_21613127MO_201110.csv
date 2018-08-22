@@ -1,0 +1,7 @@
+BATCH,,201110,B,5175.0000,
+INVOICE,IN,,21610167,,10/14/2011,1610.0000,"Invoice-Private",,10/14/2011,10/14/2011,,21613127MO,-1955.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,14,21.0000,294.00,"Resident Care - Level 2 for Oct: Snyder, Les",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,14,94.0000,1316.00,"Room and Board - Studio Deluxe for Oct: Snyder, Les",,,,,,,,,,,,,,,
+INVOICE,CM,,21610167,,10/14/2011,3565,"Invoice-Private",,10/14/2011,10/14/2011,,21613127MO,-1955.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,651,651,"CR:Resident Care -... L.Snyder 201110: Snyder, Les",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2914,2914,"CR:Room and Board ... L.Snyder 201110: Snyder, Les",,,,,,,,,,,,,,,

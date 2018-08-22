@@ -1,0 +1,5 @@
+BATCH,,201207,B,54.0000,
+INVOICE,IN,,13010276,,07/01/2012,27.0000,"Invoice-Private",,07/01/2012,07/10/2012,,13015788MO,-6038.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Storch, Champ",,,,,,,,,,,,,,,
+INVOICE,CM,,13010276,,07/01/2012,27,"Invoice-Private",,07/01/2012,07/10/2012,,13015788MO,-6038.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Storch, Champ",,,,,,,,,,,,,,,

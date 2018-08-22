@@ -1,0 +1,7 @@
+BATCH,,201202,B,2400.7400,
+INVOICE,IN,,01310069,,02/01/2012,1200.3700,"Invoice-Medicaid",,02/01/2012,02/10/2012,,01314042MO,-3280.7000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Elledge, Willa",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1172.3700,1172.37,"State Medicaid: Elledge, Willa",,,,,,,,,,,,,,,
+INVOICE,CM,,01310069,,02/01/2012,1200.37,"Invoice-Medicaid",,02/01/2012,02/10/2012,,01314042MO,-3280.7000,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Elledge, Willa",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103013,1,1172.37,1172.37,"Credit for State Medicaid: Elledge, Willa",,,,,,,,,,,,,,,

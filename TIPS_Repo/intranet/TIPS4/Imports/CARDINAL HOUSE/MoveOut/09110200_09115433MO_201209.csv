@@ -1,0 +1,8 @@
+BATCH,,201209,B,9348.0000,
+INVOICE,IN,,09110200,,09/24/2012,4188.0000,"Invoice-Private",,09/24/2012,09/24/2012,,09115433MO,-6242.0000,,,,,,,,,,
+TRANSACTION,3320,010305091,1,60.0000,60.00,"CR:Limited Term Di... W.Wilson 201209: Wilson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,24,85.0000,2040.00,"Basic Service Fee - Studio for Sep: Wilson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,24,87.0000,2088.00,"Resident Care - Level 5 for Sep: Wilson, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,09110200,,09/24/2012,5160,"Invoice-Private",,09/24/2012,09/24/2012,,09115433MO,-6242.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2550,2550,"CR:Basic Service F... W.Wilson 201209: Wilson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2610,2610,"CR:Resident Care -... W.Wilson 201209: Wilson, Walter",,,,,,,,,,,,,,,

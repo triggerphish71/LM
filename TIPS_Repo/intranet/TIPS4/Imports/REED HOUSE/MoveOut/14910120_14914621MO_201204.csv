@@ -1,0 +1,7 @@
+BATCH,,201204,B,5280.0000,
+INVOICE,IN,,14910120,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,14914621MO,-5720.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,60.0000,60.00,"CR:Limited Term Di... B.Lambert 201204: Lambert, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14910120,,04/01/2012,5220,"Invoice-Private",,04/01/2012,04/10/2012,,14914621MO,-5720.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3000,3000,"CR:Basic Service F... B.Lambert 201204: Lambert, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... B.Lambert 201204: Lambert, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,2190,2190,"CR:Resident Care -... B.Lambert 201204: Lambert, Betty",,,,,,,,,,,,,,,

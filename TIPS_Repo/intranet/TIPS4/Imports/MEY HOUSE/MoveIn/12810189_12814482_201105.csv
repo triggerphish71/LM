@@ -1,0 +1,5 @@
+BATCH,,201105,B,4055.0000,
+INVOICE,IN,,12810189,,05/01/2011,4055.0000,"May_Rent-Johnson. Jane",,05/01/2011,05/10/2011,,12814482,8360.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,31,111.0000,3441,"J.Johnson: Basic Service Fee - Studio: Johnson. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306128,31,19.0000,589,"J.Johnson: Swan Personal Care - L1: Johnson. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: Johnson. Jane",,,,,,,,,,,,,,,

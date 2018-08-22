@@ -1,0 +1,8 @@
+BATCH,,201107,B,3757.0000,
+INVOICE,IN,,09510228,,07/19/2011,125.5000,"Invoice-Private",,07/19/2011,07/19/2011,,09514478MO,-7396.5000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,83.0000,83.00,"Basic Service Fee - Studio for Jul: Lutz, Linne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,42.5000,42.50,"Resident Care - Level 25 for Jul: Lutz, Linne",,,,,,,,,,,,,,,
+INVOICE,CM,,09510228,,07/19/2011,3631.5,"Invoice-Private",,07/19/2011,07/19/2011,,09514478MO,-7396.5000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,1079,1079,"CR:Basic Service F... L.Lutz 201107: Lutz, Linne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000,2000,"CR:New Resident Fe... L.Lutz 201107: Lutz, Linne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,552.5,552.5,"CR:Resident Care -... L.Lutz 201107: Lutz, Linne",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,4485.0000,
+INVOICE,IN,,21610222,,12/08/2011,920.0000,"Invoice-Private",,12/08/2011,12/08/2011,,21613250MO,-2645.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,8,21.0000,168.00,"Resident Care - Level 2 for Dec: Liddle Jr, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,8,94.0000,752.00,"Studio Deluxe for Dec: Liddle Jr, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,21610222,,12/08/2011,3565,"Invoice-Private",,12/08/2011,12/08/2011,,21613250MO,-2645.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,651,651,"CR:Resident Care -... T.Liddle Jr 201112: Liddle Jr, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2914,2914,"CR:Studio Deluxe... T.Liddle Jr 201112: Liddle Jr, Thomas",,,,,,,,,,,,,,,

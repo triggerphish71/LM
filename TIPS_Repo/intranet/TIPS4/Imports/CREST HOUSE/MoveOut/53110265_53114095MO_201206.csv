@@ -1,0 +1,5 @@
+BATCH,,201206,B,40.0000,
+INVOICE,IN,,53110265,,06/01/2012,20.0000,"Invoice-Private",,06/01/2012,06/10/2012,,53114095MO,-3170.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20.0000,20.00,"Pendant Fee: Rolain, Darrell",,,,,,,,,,,,,,,
+INVOICE,CM,,53110265,,06/01/2012,20,"Invoice-Private",,06/01/2012,06/10/2012,,53114095MO,-3170.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"Credit for Pendant Fee: Rolain, Darrell",,,,,,,,,,,,,,,

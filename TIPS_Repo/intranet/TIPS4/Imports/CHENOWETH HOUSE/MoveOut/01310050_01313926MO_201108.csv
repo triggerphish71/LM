@@ -1,0 +1,7 @@
+BATCH,,201108,B,2136.7000,
+INVOICE,IN,,01310050,,08/11/2011,345.7300,"Invoice-Medicaid",,08/11/2011,08/11/2011,,01313926MO,-1445.2400,,,,,,,,,,
+TRANSACTION,3021,010103013,11,31.4300,345.73,"Medicaid Co-Pay for Aug: Medrano, Margarita",,,,,,,,,,,,,,,
+INVOICE,CM,,01310050,,08/11/2011,1790.97,"Invoice-Medicaid",,08/11/2011,08/11/2011,,01313926MO,-1445.2400,,,,,,,,,,
+TRANSACTION,3021,010103013,1,974.21,974.21,"CR:Medicaid Co-Pay... M.Medrano 201108: Medrano, Margarita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... M.Medrano 201108: Medrano, Margarita",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,788.76,788.76,"CR:State Medicaid... M.Medrano 201108: Medrano, Margarita",,,,,,,,,,,,,,,

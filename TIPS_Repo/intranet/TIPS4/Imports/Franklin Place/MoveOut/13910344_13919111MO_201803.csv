@@ -1,0 +1,8 @@
+BATCH,,201803,B,6973.2000,
+INVOICE,IN,,13910344,,03/05/2018,825.9000,"Invoice-Private",,03/05/2018,03/05/2018,,13919111MO,-4216.8700,,,,,,,,,,
+TRANSACTION,3017,010003139,2,71.3000,142.60,"Level Care:  31  - 2018-03-03: Lee, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003139,3,16.0999,48.30," Level Care:  7 : Lee, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003139,5,127.0000,635.00,"Basic Service Fee - Studio  for Mar: Lee, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,13910344,,03/05/2018,6147.3,"Invoice-Private",,03/05/2018,03/05/2018,,13919111MO,-4216.8700,,,,,,,,,,
+TRANSACTION,3020,010003139,1,3937,3937,"CR:Basic Service F... M.Lee 201803: Lee, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,2210.3,2210.3,"CR:Resident Care -... M.Lee 201803: Lee, Mary Ann",,,,,,,,,,,,,,,

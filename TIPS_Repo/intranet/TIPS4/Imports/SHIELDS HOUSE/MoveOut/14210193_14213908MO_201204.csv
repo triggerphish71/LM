@@ -1,0 +1,8 @@
+BATCH,,201204,B,4655.0000,
+INVOICE,IN,,14210193,,04/14/2012,1470.0000,"Invoice-Private",,04/14/2012,04/14/2012,,14213908MO,-1715.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,14,88.0000,1232.00,"Basic Service Fee - Studio for Apr: Wayt, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,14,17.0000,238.00,"Resident Care - Level 1 for Apr: Wayt, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,14210193,,04/14/2012,3185,"Invoice-Private",,04/14/2012,04/14/2012,,14213908MO,-1715.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,2640,2640,"CR:Basic Service F... C.Wayt 201204: Wayt, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... C.Wayt 201204: Wayt, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,510,510,"CR:Resident Care -... C.Wayt 201204: Wayt, Clifford",,,,,,,,,,,,,,,

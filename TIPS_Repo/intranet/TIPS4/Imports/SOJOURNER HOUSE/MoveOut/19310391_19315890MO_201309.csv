@@ -1,0 +1,7 @@
+BATCH,,201309,B,620.0000,
+INVOICE,IN,,19310391,,09/01/2013,310.0000,"Invoice-Private",,09/01/2013,09/10/2013,,19315890MO,-4663.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10.0000,300.00,"CC Meals: MacPhee, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010315193,1,10.0000,10.00,"Pendant Fee: MacPhee, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,19310391,,09/01/2013,310,"Invoice-Private",,09/01/2013,09/10/2013,,19315890MO,-4663.0000,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10,300,"Credit for CC Meals: MacPhee, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010315193,1,10,10,"Credit for Pendant Fee: MacPhee, Donald",,,,,,,,,,,,,,,

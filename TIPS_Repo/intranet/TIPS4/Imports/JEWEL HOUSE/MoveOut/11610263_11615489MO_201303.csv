@@ -1,0 +1,7 @@
+BATCH,,201303,B,5124.0000,
+INVOICE,IN,,11610263,,03/30/2013,2520.0000,"Invoice-Private",,03/30/2013,03/30/2013,,11615489MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,30,66.0000,1980.00,"Basic Service Fee - Studio for Mar: Uebel, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,30,18.0000,540.00,"Resident Care - Level 1 for Mar: Uebel, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,11610263,,03/30/2013,2604,"Invoice-Private",,03/30/2013,03/30/2013,,11615489MO,-2604.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,2046,2046,"CR:Basic Service F... V.Uebel 201303: Uebel, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,558,558,"CR:Resident Care -... V.Uebel 201303: Uebel, Vivian",,,,,,,,,,,,,,,

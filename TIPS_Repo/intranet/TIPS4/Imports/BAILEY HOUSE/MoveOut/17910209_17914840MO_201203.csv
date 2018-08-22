@@ -1,0 +1,5 @@
+BATCH,,201203,B,4059.0000,
+INVOICE,IN,,17910209,,03/01/2012,990.0000,"Invoice-Private",,03/01/2012,03/10/2012,,17914840MO,-2079.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,10,99.0000,990.00,"Room and Board - One Bedroom for Mar: Thomas, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,17910209,,03/01/2012,3069,"Invoice-Private",,03/01/2012,03/10/2012,,17914840MO,-2079.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,3069,3069,"CR:Room and Board ... D.Thomas 201203: Thomas, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,7199.0000,
+INVOICE,IN,,11710187,,07/01/2011,2828.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11713581MO,-1543.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,1,713.0000,713.00,"CR:Limited Term Di... D.Johnson 201107: Johnson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305117,15,83.0000,1245.00,"Basic Service Fee - Studio for Jul: Johnson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,15,58.0000,870.00,"Resident Care - Level 4 for Jul: Johnson, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,11710187,,07/01/2011,4371,"Invoice-Private",,07/01/2011,07/10/2011,,11713581MO,-1543.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2573,2573,"CR:Basic Service F... D.Johnson 201107: Johnson, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,1798,1798,"CR:Resident Care -... D.Johnson 201107: Johnson, Doris",,,,,,,,,,,,,,,

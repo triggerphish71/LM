@@ -1,0 +1,7 @@
+BATCH,,201202,B,4884.0000,
+INVOICE,IN,,15710201,,02/03/2012,592.0000,"Invoice-Private",,02/03/2012,02/03/2012,,15714421MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,4,115.0000,460.00,"Basic Service Fee - One Bedroom for Feb: Kyle, Verna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,4,33.0000,132.00,"Resident Care - Level 2 for Feb: Kyle, Verna",,,,,,,,,,,,,,,
+INVOICE,CM,,15710201,,02/03/2012,4292,"Invoice-Private",,02/03/2012,02/03/2012,,15714421MO,-3700.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3335,3335,"CR:Basic Service F... V.Kyle 201202: Kyle, Verna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,957,957,"CR:Resident Care -... V.Kyle 201202: Kyle, Verna",,,,,,,,,,,,,,,

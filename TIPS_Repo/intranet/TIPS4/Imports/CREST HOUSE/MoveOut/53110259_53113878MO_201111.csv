@@ -1,0 +1,8 @@
+BATCH,,201111,B,7862.0000,
+INVOICE,IN,,53110259,,11/12/2011,3422.0000,"Invoice-Private",,11/12/2011,11/12/2011,,53113878MO,-1018.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,1350.0000,1350.00,"CR:Limited Term Di... A.Grippe 201111: Grippe, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319531,14,95.0000,1330.00,"Basic Service Fee - Studio for Nov: Grippe, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,14,53.0000,742.00,"Resident Care - Level 4 for Nov: Grippe, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,53110259,,11/12/2011,4440,"Invoice-Private",,11/12/2011,11/12/2011,,53113878MO,-1018.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2850,2850,"CR:Basic Service F... A.Grippe 201111: Grippe, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1590,1590,"CR:Resident Care -... A.Grippe 201111: Grippe, Anna",,,,,,,,,,,,,,,

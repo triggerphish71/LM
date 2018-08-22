@@ -1,0 +1,7 @@
+BATCH,,201211,B,1140.0000,
+INVOICE,IN,,50110225,,11/01/2012,570.0000,"Invoice-Private",,11/01/2012,11/10/2012,,50114327MO,-616.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Schmidt, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,30,18.0000,540.00,"Credit for Limited Term Discount: Schmidt, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,50110225,,11/01/2012,570,"Invoice-Private",,11/01/2012,11/10/2012,,50114327MO,-616.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Schmidt, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,30,18,540,"Limited Term Discount: Schmidt, Marian",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,105.6000,
+INVOICE,IN,,11810171,,03/01/2013,52.8000,"Invoice-Private",,03/01/2013,03/10/2013,,11815726MO,-3856.7000,,,,,,,,,,
+TRANSACTION,3312,010310118,1,12.8000,12.80,"Credit for Two Room Rental Discount: Shoenfelt, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40.00,"Monthly Cable: Shoenfelt, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,11810171,,03/01/2013,52.8,"Invoice-Private",,03/01/2013,03/10/2013,,11815726MO,-3856.7000,,,,,,,,,,
+TRANSACTION,3312,010310118,1,12.8,12.8,"Two Room Rental Discount: Shoenfelt, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"Credit for Monthly Cable: Shoenfelt, Bessie",,,,,,,,,,,,,,,

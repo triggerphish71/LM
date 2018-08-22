@@ -1,0 +1,5 @@
+BATCH,,201203,B,54.0000,
+INVOICE,IN,,03410266,,03/01/2012,27.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03415382MO,-4566.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Arena, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,03410266,,03/01/2012,27,"Invoice-Private",,03/01/2012,03/10/2012,,03415382MO,-4566.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Arena, Joseph",,,,,,,,,,,,,,,

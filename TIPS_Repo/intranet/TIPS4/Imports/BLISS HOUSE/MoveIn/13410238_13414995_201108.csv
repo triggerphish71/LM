@@ -1,0 +1,5 @@
+BATCH,,201108,B,1213.0000,
+INVOICE,IN,,13410238,,08/30/2011,1213.0000,"MoveIn-Huckleberry. Jean",,08/30/2011,08/30/2011,,13414995,3918.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,2,89.0000,178,"Basic Service Fee - Studio         : Huckleberry. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Huckleberry. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: Huckleberry. Jean",,,,,,,,,,,,,,,

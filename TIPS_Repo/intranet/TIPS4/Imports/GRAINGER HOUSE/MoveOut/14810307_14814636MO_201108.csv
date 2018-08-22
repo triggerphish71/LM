@@ -1,0 +1,6 @@
+BATCH,,201108,B,4650.0000,
+INVOICE,IN,,14810307,,08/01/2011,651.0000,"Invoice-Private",,08/01/2011,08/10/2011,,14814636MO,-3213.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,651.0000,651.00,"CR:Limited Term Di... G.Lorkovic 201108: Lorkovic, Gayle",,,,,,,,,,,,,,,
+INVOICE,CM,,14810307,,08/01/2011,3999,"Invoice-Private",,08/01/2011,08/10/2011,,14814636MO,-3213.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,3441,3441,"CR:Basic Service F... G.Lorkovic 201108: Lorkovic, Gayle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,558,558,"CR:Resident Care -... G.Lorkovic 201108: Lorkovic, Gayle",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201111,B,5284.0000,
+INVOICE,IN,,21610054,,11/26/2011,2444.0000,"Invoice-Private",,11/26/2011,11/26/2011,,21613248MO,-3330.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,26,73.0000,1898.00,"Companion One Bedroom for Nov: Loudermilk, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,26,21.0000,546.00,"Resident Care - Level 2 for Nov: Loudermilk, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,21610054,,11/26/2011,2840,"Invoice-Private",,11/26/2011,11/26/2011,,21613248MO,-3330.0000,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2190,2190,"CR:Companion One B... S.Loudermilk 201111: Loudermilk, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,630,630,"CR:Resident Care -... S.Loudermilk 201111: Loudermilk, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3228,010216216,1,20,20,"CR:Sharps Disposal... S.Loudermilk 201111: Loudermilk, Shirley",,,,,,,,,,,,,,,

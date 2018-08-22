@@ -1,0 +1,5 @@
+BATCH,,201205,B,3815.0000,
+INVOICE,IN,,09110232,,05/17/2012,3815.0000,"MoveIn-Fulton. Phyllis",,05/17/2012,05/17/2012,,09115258,7445.0000,,,,,,,,,,
+TRANSACTION,3010,010305091,15,85.0000,1275,"Basic Service Fee - Studio: Fulton. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305091,15,36.0000,540,"Resident Care - Level 2: Fulton. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305091,1,2000.0000,2000,"New Resident Fee: Fulton. Phyllis",,,,,,,,,,,,,,,

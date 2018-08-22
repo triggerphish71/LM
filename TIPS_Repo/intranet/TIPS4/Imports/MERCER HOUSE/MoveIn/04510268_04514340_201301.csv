@@ -1,0 +1,5 @@
+BATCH,,201301,B,2910.0000,
+INVOICE,IN,,04510268,,01/01/2013,2910.0000,"January_Rent-Plumer. Pauline",,01/01/2013,01/10/2013,,04514340,6390.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,31,77.0000,2387,"Basic Service Fee - Studio: Plumer. Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,31,16.0000,496,"Resident Care - Level 1: Plumer. Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Plumer. Pauline",,,,,,,,,,,,,,,

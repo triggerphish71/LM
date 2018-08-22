@@ -1,0 +1,6 @@
+BATCH,,201206,B,4477.0000,
+INVOICE,IN,,04510260,,06/06/2012,4477.0000,"MoveIn-Hoskins. Virginia",,06/06/2012,06/06/2012,,04514064,4477.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,25,98.0000,2450,"Basic Service Fee - One Bedroom: Hoskins. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Hoskins. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Hoskins. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3213,010202045,1,500.0000,500,"Pet Fee: Hoskins. Virginia",,,,,,,,,,,,,,,

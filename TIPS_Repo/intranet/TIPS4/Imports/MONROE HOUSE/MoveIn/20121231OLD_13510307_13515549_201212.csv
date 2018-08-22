@@ -1,0 +1,5 @@
+BATCH,,201212,B,1300.0000,
+INVOICE,IN,,13510307,,12/29/2012,1300.0000,"MoveIn-Harris. Richard",,12/29/2012,12/29/2012,,13515549,4120.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,3,90.0000,270,"Basic Service Fee - Studio: Harris. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Harris. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,1000.0000,1000,"New Resident Fee: Harris. Richard",,,,,,,,,,,,,,,

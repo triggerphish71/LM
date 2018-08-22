@@ -1,0 +1,7 @@
+BATCH,,201303,B,7293.0000,
+INVOICE,IN,,09410289,,03/12/2013,2860.0000,"Invoice-Private",,03/12/2013,03/12/2013,,09416338MO,-5863.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,20,97.0000,1940.00,"Basic Service Fee - Studio for Mar: Kennedy, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,20,46.0000,920.00,"Resident Care - Level 3 for Mar: Kennedy, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,09410289,,03/12/2013,4433,"Invoice-Private",,03/12/2013,03/12/2013,,09416338MO,-5863.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3007,3007,"CR:Basic Service F... J.Kennedy 201303: Kennedy, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,1426,1426,"CR:Resident Care -... J.Kennedy 201303: Kennedy, Joan",,,,,,,,,,,,,,,

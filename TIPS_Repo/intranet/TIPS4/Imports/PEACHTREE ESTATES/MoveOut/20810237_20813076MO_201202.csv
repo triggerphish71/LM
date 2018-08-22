@@ -1,0 +1,7 @@
+BATCH,,201202,B,6441.0000,
+INVOICE,IN,,20810237,,02/22/2012,3164.0000,"Invoice-Private",,02/22/2012,02/22/2012,,20813076MO,-3616.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,28,101.0000,2828.00,"One Bedroom for Feb: Harris, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,28,12.0000,336.00,"Resident Care - Level 1 for Feb: Harris, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,20810237,,02/22/2012,3277,"Invoice-Private",,02/22/2012,02/22/2012,,20813076MO,-3616.0000,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2929,2929,"CR:One Bedroom... B.Harris 201202: Harris, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,1,348,348,"CR:Resident Care -... B.Harris 201202: Harris, Bill",,,,,,,,,,,,,,,

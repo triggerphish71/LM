@@ -1,0 +1,7 @@
+BATCH,,201109,B,740.0000,
+INVOICE,IN,,18910236,,09/01/2011,370.0000,"Invoice-Private",,09/01/2011,09/10/2011,,18914825MO,-2866.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310.00,"CC Meals: Kendell, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,2.0000,60.00,"Credit for Limited Term Discount: Kendell, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,18910236,,09/01/2011,370,"Invoice-Private",,09/01/2011,09/10/2011,,18914825MO,-2866.0000,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10,310,"Credit for CC Meals: Kendell, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010315189,30,2,60,"Limited Term Discount: Kendell, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,1944.0000,
+INVOICE,IN,,19210245,,07/20/2011,576.0000,"Invoice-Private",,07/20/2011,07/20/2011,,19214789MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,8,36.0000,288.00,"R.Bymaster: Basic Service Fee - Second Resident : Bymaster, RoseMary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,8,36.0000,288.00,"R.Bymaster: Resident Care - Level 2 for Jul: Bymaster, RoseMary",,,,,,,,,,,,,,,
+INVOICE,CM,,19210245,,07/20/2011,1368,"Invoice-Private",,07/20/2011,07/20/2011,,19214789MO,-3024.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,684,684,"CR:R.Bymaster: Bas... R.Bymaster 201107: Bymaster, RoseMary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,684,684,"CR:R.Bymaster: Res... R.Bymaster 201107: Bymaster, RoseMary",,,,,,,,,,,,,,,

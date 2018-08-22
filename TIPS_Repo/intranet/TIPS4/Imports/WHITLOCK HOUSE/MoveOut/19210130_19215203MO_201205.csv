@@ -1,0 +1,7 @@
+BATCH,,201205,B,12060.0000,
+INVOICE,IN,,19210130,,05/04/2012,5829.0000,"Invoice-Private",,05/04/2012,05/04/2012,,19215203MO,-402.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,29,133.0000,3857.00,"Basic Service Fee - One Bedroom for May: Coon, S Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,29,68.0000,1972.00,"Resident Care - Level 5 for May: Coon, S Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,19210130,,05/04/2012,6231,"Invoice-Private",,05/04/2012,05/04/2012,,19215203MO,-402.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,4123,4123,"CR:Basic Service F... S.Coon 201205: Coon, S Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,2108,2108,"CR:Resident Care -... S.Coon 201205: Coon, S Lillian",,,,,,,,,,,,,,,

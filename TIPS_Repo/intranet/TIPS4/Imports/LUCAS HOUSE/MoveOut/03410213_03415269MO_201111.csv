@@ -1,0 +1,8 @@
+BATCH,,201111,B,7406.0000,
+INVOICE,IN,,03410213,,11/09/2011,3026.0000,"Invoice-Private",,11/09/2011,11/09/2011,,03415269MO,-5167.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,690.0000,690.00,"CR:Limited Term Di... G.Arnold 201111: Arnold, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202034,16,93.0000,1488.00,"Basic Service Fee - Studio for Nov: Arnold, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,16,53.0000,848.00,"Resident Care - Level 5 for Nov: Arnold, George",,,,,,,,,,,,,,,
+INVOICE,CM,,03410213,,11/09/2011,4380,"Invoice-Private",,11/09/2011,11/09/2011,,03415269MO,-5167.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2790,2790,"CR:Basic Service F... G.Arnold 201111: Arnold, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,1590,1590,"CR:Resident Care -... G.Arnold 201111: Arnold, George",,,,,,,,,,,,,,,

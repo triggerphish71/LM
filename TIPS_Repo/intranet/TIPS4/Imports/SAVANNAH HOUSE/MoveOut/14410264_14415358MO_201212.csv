@@ -1,0 +1,5 @@
+BATCH,,201212,B,56.0000,
+INVOICE,IN,,14410264,,12/01/2012,28.0000,"Invoice-Private",,12/01/2012,12/10/2012,,14415358MO,-1903.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Haring, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,14410264,,12/01/2012,28,"Invoice-Private",,12/01/2012,12/10/2012,,14415358MO,-1903.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Haring, Marie",,,,,,,,,,,,,,,

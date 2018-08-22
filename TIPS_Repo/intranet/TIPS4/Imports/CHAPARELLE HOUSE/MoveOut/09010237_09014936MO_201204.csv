@@ -1,0 +1,4 @@
+BATCH,,201204,B,3210.0000,
+INVOICE,CM,,09010237,,04/01/2012,3210,"Invoice-Private",,04/01/2012,04/10/2012,,09014936MO,-3210.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Basic Service F... F.Bergin 201204: Bergin, Fran",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,450,450,"CR:Resident Care -... F.Bergin 201204: Bergin, Fran",,,,,,,,,,,,,,,

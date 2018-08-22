@@ -1,0 +1,7 @@
+BATCH,,201105,B,7198.0000,
+INVOICE,IN,,19810123,,05/01/2011,3540.0000,"Invoice-Private",,05/01/2011,05/10/2011,,19816037MO,-118.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,30,71.0000,2130.00,"Basic Service Fee AL - One Bedroom B for May: Brammer, Luella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,30,47.0000,1410.00,"Swan Personal Care - L2 for May: Brammer, Luella",,,,,,,,,,,,,,,
+INVOICE,CM,,19810123,,05/01/2011,3658,"Invoice-Private",,05/01/2011,05/10/2011,,19816037MO,-118.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2201,2201,"CR:Basic Service F... L.Brammer 201105: Brammer, Luella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1457,1457,"CR:Swan Personal C... L.Brammer 201105: Brammer, Luella",,,,,,,,,,,,,,,

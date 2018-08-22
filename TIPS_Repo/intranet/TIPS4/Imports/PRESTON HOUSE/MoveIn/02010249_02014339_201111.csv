@@ -1,0 +1,6 @@
+BATCH,,201111,B,4105.0000,
+INVOICE,IN,,02010249,,11/11/2011,4105.0000,"MoveIn-Carter. Paul",,11/11/2011,11/11/2011,,02014339,4105.0000,,,,,,,,,,
+TRANSACTION,3010,010202020,20,91.0000,1820,"P.Carter: Basic Service Fee - Studio: Carter. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202020,20,38.0000,760,"P.Carter: Resident Care - Level 3: Carter. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25.0000,25,"Monthly Cable: Carter. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202020,1,1500.0000,1500,"New Resident Fee: Carter. Paul",,,,,,,,,,,,,,,

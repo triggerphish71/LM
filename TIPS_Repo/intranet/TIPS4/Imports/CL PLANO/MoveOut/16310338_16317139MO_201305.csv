@@ -1,0 +1,8 @@
+BATCH,,201305,B,6059.0000,
+INVOICE,IN,,16310338,,05/27/2013,2808.0000,"Invoice-Private",,05/27/2013,05/27/2013,,16317139MO,-3590.0000,,,,,,,,,,
+TRANSACTION,3027,010202163,27,24.0000,648.00,"Resident Care - Level 2 for May: Shackelford, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,27,80.0000,2160.00,"Room and Board - One Bedroom for May: Shackelford, Connie",,,,,,,,,,,,,,,
+INVOICE,CM,,16310338,,05/27/2013,3251,"Invoice-Private",,05/27/2013,05/27/2013,,16317139MO,-3590.0000,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... C.Shackelford 201305: Shackelford, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,744,744,"CR:Resident Care -... C.Shackelford 201305: Shackelford, Connie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,1,2480,2480,"CR:Room and Board ... C.Shackelford 201305: Shackelford, Connie",,,,,,,,,,,,,,,

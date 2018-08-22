@@ -1,0 +1,5 @@
+BATCH,,201201,B,3368.0000,
+INVOICE,IN,,03710197,,01/13/2012,3368.0000,"MoveIn-Francis. Ima",,01/13/2012,01/13/2012,,03714104,3368.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,19,97.0000,1843,"Basic Service Fee - Studio: Francis. Ima",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Francis. Ima",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,1500.0000,1500,"New Resident Fee: Francis. Ima",,,,,,,,,,,,,,,

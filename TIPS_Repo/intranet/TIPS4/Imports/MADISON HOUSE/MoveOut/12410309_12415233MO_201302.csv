@@ -1,0 +1,7 @@
+BATCH,,201302,B,6480.0000,
+INVOICE,IN,,12410309,,02/17/2013,2448.0000,"Invoice-Private",,02/17/2013,02/17/2013,,12415233MO,-6083.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,17,83.0000,1411.00,"Basic Service Fee - Studio for Feb: Winther, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,17,61.0000,1037.00,"Resident Care - Level 4 for Feb: Winther, Sharon",,,,,,,,,,,,,,,
+INVOICE,CM,,12410309,,02/17/2013,4032,"Invoice-Private",,02/17/2013,02/17/2013,,12415233MO,-6083.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2324,2324,"CR:Basic Service F... S.Winther 201302: Winther, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,1708,1708,"CR:Resident Care -... S.Winther 201302: Winther, Sharon",,,,,,,,,,,,,,,

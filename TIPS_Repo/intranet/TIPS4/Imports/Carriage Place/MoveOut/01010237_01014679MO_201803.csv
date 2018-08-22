@@ -1,0 +1,7 @@
+BATCH,,201803,B,4520.9000,
+INVOICE,IN,,01010237,,03/22/2018,1876.6000,"Invoice-Private",,03/22/2018,03/22/2018,,01014679MO,-3326.7000,,,,,,,,,,
+TRANSACTION,3020,010001010,22,83.0000,1826.00,"Basic Service Fee - Studio  for Mar: Buck, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001010,22,2.3000,50.60,"Resident Care - Level 1  for Mar: Buck, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,01010237,,03/22/2018,2644.3,"Invoice-Private",,03/22/2018,03/22/2018,,01014679MO,-3326.7000,,,,,,,,,,
+TRANSACTION,3020,010001010,1,2573,2573,"CR:Basic Service F... P.Buck 201803: Buck, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001010,1,71.3,71.3,"CR:Resident Care -... P.Buck 201803: Buck, Patricia",,,,,,,,,,,,,,,

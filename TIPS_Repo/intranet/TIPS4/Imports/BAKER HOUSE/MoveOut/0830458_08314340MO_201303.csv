@@ -1,0 +1,5 @@
+BATCH,,201303,B,1612.0000,
+INVOICE,IN,,0830458,,03/01/2013,806.0000,"Invoice-Private",,03/01/2013,03/10/2013,,08314340MO,-4670.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,26.0000,806.00,"Credit for Limited Term Discount: Cullen, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,0830458,,03/01/2013,806,"Invoice-Private",,03/01/2013,03/10/2013,,08314340MO,-4670.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,26,806,"Limited Term Discount: Cullen, Dorothy",,,,,,,,,,,,,,,

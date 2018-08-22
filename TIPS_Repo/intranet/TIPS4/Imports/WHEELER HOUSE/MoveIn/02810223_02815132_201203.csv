@@ -1,0 +1,5 @@
+BATCH,,201203,B,3833.0000,
+INVOICE,IN,,02810223,,03/16/2012,3833.0000,"MoveIn-Harendt. Chester",,03/16/2012,03/16/2012,,02815132,7248.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,16,113.0000,1808,"Basic Service Fee - Studio: Harendt. Chester",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Harendt. Chester",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Harendt. Chester",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201112,B,3673.0000,
+INVOICE,IN,,04410253,,12/01/2011,114.0000,"Invoice-Private",,12/01/2011,12/01/2011,,04414567MO,-3445.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,85.0000,85.00,"Basic Service Fee - Studio for Dec: Lancaster, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,29.0000,29.00,"Resident Care - Level 2 for Dec: Lancaster, James",,,,,,,,,,,,,,,
+INVOICE,CM,,04410253,,12/01/2011,3559,"Invoice-Private",,12/01/2011,12/01/2011,,04414567MO,-3445.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... J.Lancaster 201112: Lancaster, James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25,25,"CR:Monthly Cable... J.Lancaster 201112: Lancaster, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,899,899,"CR:Resident Care -... J.Lancaster 201112: Lancaster, James",,,,,,,,,,,,,,,

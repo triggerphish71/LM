@@ -1,0 +1,8 @@
+BATCH,,201108,B,5830.0000,
+INVOICE,IN,,07710128,,08/12/2011,1620.0000,"Invoice-Private",,08/12/2011,08/12/2011,,07714014MO,-2590.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,12,92.0000,1104.00,"Basic Service Fee - Studio for Aug: Elliott, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,12,43.0000,516.00,"Resident Care - Level 3 for Aug: Elliott, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,07710128,,08/12/2011,4210,"Invoice-Private",,08/12/2011,08/12/2011,,07714014MO,-2590.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2852,2852,"CR:Basic Service F... G.Elliott 201108: Elliott, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... G.Elliott 201108: Elliott, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,1333,1333,"CR:Resident Care -... G.Elliott 201108: Elliott, Gladys",,,,,,,,,,,,,,,

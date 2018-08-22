@@ -1,0 +1,5 @@
+BATCH,,201806,B,450.0000,
+INVOICE,IN,,41800011,,06/01/2018,225.0000,"Invoice-Private",,06/01/2018,06/10/2018,,41811820MO,-7804.0000,,,,,,,,,,
+TRANSACTION,3316,060010418,30,7.5000,225.00,"Credit for Employee Discount: Crossland, Cainwain ",,,,,,,,,,,,,,,
+INVOICE,CM,,41800011,,06/01/2018,225,"Invoice-Private",,06/01/2018,06/10/2018,,41811820MO,-7804.0000,,,,,,,,,,
+TRANSACTION,3316,060010418,30,7.5,225,"Employee Discount: Crossland, Cainwain ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,4160.0000,
+INVOICE,IN,,20410208,,09/10/2012,1040.0000,"Invoice-Private",,09/10/2012,09/10/2012,,20413227MO,-5304.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,10,22.0000,220.00,"Resident Care - Level 2 for Sep: Turner, Kimble",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,10,82.0000,820.00,"Studio for Sep: Turner, Kimble",,,,,,,,,,,,,,,
+INVOICE,CM,,20410208,,09/10/2012,3120,"Invoice-Private",,09/10/2012,09/10/2012,,20413227MO,-5304.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,660,660,"CR:Resident Care -... K.Turner 201209: Turner, Kimble",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Studio... K.Turner 201209: Turner, Kimble",,,,,,,,,,,,,,,

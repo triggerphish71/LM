@@ -1,0 +1,7 @@
+BATCH,,201111,B,1914.0000,
+INVOICE,IN,,01910206,,11/01/2011,957.0000,"Invoice-Private",,11/01/2011,11/10/2011,,01914532MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27.00,"Monthly Cable: Wilson, Myra",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202019,30,31.0000,930.00,"Credit for Limited Term Discount: Wilson, Myra",,,,,,,,,,,,,,,
+INVOICE,CM,,01910206,,11/01/2011,957,"Invoice-Private",,11/01/2011,11/10/2011,,01914532MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"Credit for Monthly Cable: Wilson, Myra",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202019,30,31,930,"Limited Term Discount: Wilson, Myra",,,,,,,,,,,,,,,

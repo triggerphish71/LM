@@ -1,0 +1,7 @@
+BATCH,,201211,B,3488.0000,
+INVOICE,IN,,17810306,,11/09/2012,843.0000,"Invoice-Private",,11/09/2012,11/09/2012,,17816280MO,-1802.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,60.0000,60.00,"CR:Limited Term Di... G.Thomas 201211: Thomas, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,9,87.0000,783.00,"Basic Service Fee - Studio for Nov: Thomas, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,17810306,,11/09/2012,2645,"Invoice-Private",,11/09/2012,11/09/2012,,17816280MO,-1802.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2610,2610,"CR:Basic Service F... G.Thomas 201211: Thomas, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... G.Thomas 201211: Thomas, Gertrude",,,,,,,,,,,,,,,

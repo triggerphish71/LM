@@ -1,0 +1,5 @@
+BATCH,,201108,B,3317.0000,
+INVOICE,IN,,17610283,,08/01/2011,3317.0000,"August_Rent-Dudd. John",,08/01/2011,08/10/2011,,17614037,5138.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,31,69.0000,2139,"Basic Service Fee - Studio         : Dudd. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,31,28.0000,868,"Resident Care - Level 2: Dudd. John",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10.0000,310,"CC Meals: Dudd. John",,,,,,,,,,,,,,,

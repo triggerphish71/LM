@@ -1,0 +1,6 @@
+BATCH,,201202,B,2809.0000,
+INVOICE,IN,,01410222,,02/23/2012,2809.0000,"MoveIn-Parris. H.T.",,02/23/2012,02/23/2012,,01414244,6306.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,7,95.0000,665,"H.Parris: Basic Service Fee - Studio: Parris. H.T.",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202014,7,17.0000,119,"H.Parris: Resident Care - Level 1: Parris. H.T.",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Parris. H.T.",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,2000.0000,2000,"New Resident Fee: Parris. H.T.",,,,,,,,,,,,,,,

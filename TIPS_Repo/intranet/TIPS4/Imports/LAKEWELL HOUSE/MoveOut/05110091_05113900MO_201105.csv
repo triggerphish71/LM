@@ -1,0 +1,5 @@
+BATCH,,201105,B,3993.0000,
+INVOICE,CM,,05110091,,05/01/2011,3993,"Invoice-Private",,05/01/2011,05/10/2011,,05113900MO,-3993.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3441,3441,"CR:Basic Service F... C.Mitchell 201105: Mitchell, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25,25,"CR:Monthly Cable... C.Mitchell 201105: Mitchell, Curtis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,527,527,"CR:Resident Care -... C.Mitchell 201105: Mitchell, Curtis",,,,,,,,,,,,,,,

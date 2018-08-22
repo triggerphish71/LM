@@ -1,0 +1,5 @@
+BATCH,,201207,B,725.4000,
+INVOICE,IN,,09210216,,07/01/2012,362.7000,"Invoice-Private",,07/01/2012,07/10/2012,,09214808MO,-2200.3000,,,,,,,,,,
+TRANSACTION,3316,010305092,31,11.7000,362.70,"Credit for Employee Discount: Miller, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,09210216,,07/01/2012,362.7,"Invoice-Private",,07/01/2012,07/10/2012,,09214808MO,-2200.3000,,,,,,,,,,
+TRANSACTION,3316,010305092,31,11.7,362.7,"Employee Discount: Miller, Carl",,,,,,,,,,,,,,,

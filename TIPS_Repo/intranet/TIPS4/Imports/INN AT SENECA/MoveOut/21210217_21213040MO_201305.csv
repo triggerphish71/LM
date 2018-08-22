@@ -1,0 +1,5 @@
+BATCH,,201305,B,82.0000,
+INVOICE,IN,,21210217,,05/01/2013,41.0000,"Invoice-Private",,05/01/2013,05/10/2013,,21213040MO,-6407.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Jacobs, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,21210217,,05/01/2013,41,"Invoice-Private",,05/01/2013,05/10/2013,,21213040MO,-6407.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Jacobs, Eleanor",,,,,,,,,,,,,,,

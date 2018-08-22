@@ -1,0 +1,5 @@
+BATCH,,201201,B,4706.0000,
+INVOICE,IN,,50510107,,01/01/2012,4706.0000,"January_Rent-Bayer. Marvin",,01/01/2012,01/10/2012,,50511542,7615.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,31,90.0000,2790,"Basic Service Fee - Studio: Bayer. Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,31,61.0000,1891,"Resident Care - Level 5: Bayer. Marvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Bayer. Marvin",,,,,,,,,,,,,,,

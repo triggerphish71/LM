@@ -1,0 +1,7 @@
+BATCH,,201201,B,6750.0000,
+INVOICE,IN,,04310199,,01/12/2012,2565.0000,"Invoice-Private",,01/12/2012,01/12/2012,,04313821MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,19,119.0000,2261.00,"Basic Service Fee - One Bedroom for Jan: Clifton, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,19,16.0000,304.00,"Resident Care - Level 1 for Jan: Clifton, Gwen",,,,,,,,,,,,,,,
+INVOICE,CM,,04310199,,01/12/2012,4185,"Invoice-Private",,01/12/2012,01/12/2012,,04313821MO,-1620.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,3689,3689,"CR:Basic Service F... G.Clifton 201201: Clifton, Gwen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,496,496,"CR:Resident Care -... G.Clifton 201201: Clifton, Gwen",,,,,,,,,,,,,,,

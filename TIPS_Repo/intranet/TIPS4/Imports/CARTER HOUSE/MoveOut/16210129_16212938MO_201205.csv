@@ -1,0 +1,7 @@
+BATCH,,201205,B,3880.0000,
+INVOICE,IN,,16210129,,05/01/2012,873.0000,"Invoice-Private",,05/01/2012,05/10/2012,,16212938MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,9,82.0000,738.00,"Basic Service Fee - One Bedroom for May: Fentress, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,9,15.0000,135.00,"Resident Care - Level 1 for May: Fentress, George",,,,,,,,,,,,,,,
+INVOICE,CM,,16210129,,05/01/2012,3007,"Invoice-Private",,05/01/2012,05/10/2012,,16212938MO,-2134.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2542,2542,"CR:Basic Service F... G.Fentress 201205: Fentress, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,465,465,"CR:Resident Care -... G.Fentress 201205: Fentress, George",,,,,,,,,,,,,,,

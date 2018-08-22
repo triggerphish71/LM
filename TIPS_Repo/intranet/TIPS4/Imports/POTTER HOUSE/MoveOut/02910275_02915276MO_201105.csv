@@ -1,0 +1,8 @@
+BATCH,,201105,B,8611.0000,
+INVOICE,IN,,02910275,,05/15/2011,3657.0000,"Invoice-Private",,05/15/2011,05/15/2011,,02915276MO,-6032.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,23,97.0000,2231.00,"Basic Service Fee - Studio for May: Whitmore, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,23,62.0000,1426.00,"Resident Care - Level 5 for May: Whitmore, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,02910275,,05/15/2011,4954,"Invoice-Private",,05/15/2011,05/15/2011,,02915276MO,-6032.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3007,3007,"CR:Basic Service F... R.Whitmore 201105: Whitmore, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25,25,"CR:Monthly Cable... R.Whitmore 201105: Whitmore, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1922,1922,"CR:Resident Care -... R.Whitmore 201105: Whitmore, Roy",,,,,,,,,,,,,,,

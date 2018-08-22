@@ -1,0 +1,7 @@
+BATCH,,201210,B,6370.0000,
+INVOICE,IN,,21410241,,10/18/2012,2340.0000,"Invoice-Private",,10/18/2012,10/18/2012,,21417986MO,-5590.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,18,23.0000,414.00,"Resident Care - Level 2 for Oct: Hancock, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,18,107.0000,1926.00,"Studio Suite for Oct: Hancock, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21410241,,10/18/2012,4030,"Invoice-Private",,10/18/2012,10/18/2012,,21417986MO,-5590.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... D.Hancock 201210: Hancock, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,3317,3317,"CR:Studio Suite... D.Hancock 201210: Hancock, David",,,,,,,,,,,,,,,

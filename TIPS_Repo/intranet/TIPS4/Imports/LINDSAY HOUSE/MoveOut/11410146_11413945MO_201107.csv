@@ -1,0 +1,6 @@
+BATCH,,201107,B,7010.0000,
+INVOICE,IN,,11410146,,07/15/2011,2825.0000,"Invoice-Private",,07/15/2011,07/15/2011,,11413945MO,-5545.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,15,135.0000,2025.00,"Basic Service Fee - One Bedroom for Jul: Testoni, Joan",,,,,,,,,,,,,,,
+TRANSACTION,3299,010306114,1,800.0000,800.00,"Damages: Testoni, Joan",,,,,,,,,,,,,,,
+INVOICE,CM,,11410146,,07/15/2011,4185,"Invoice-Private",,07/15/2011,07/15/2011,,11413945MO,-5545.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,4185,4185,"CR:Basic Service F... J.Testoni 201107: Testoni, Joan",,,,,,,,,,,,,,,

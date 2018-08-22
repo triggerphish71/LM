@@ -1,0 +1,7 @@
+BATCH,,201206,B,2160.0000,
+INVOICE,IN,,15910195,,06/01/2012,1080.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15914774MO,-2305.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Fleshner, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,30,35.0000,1050.00,"Credit for Limited Term Discount: Fleshner, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,15910195,,06/01/2012,1080,"Invoice-Private",,06/01/2012,06/10/2012,,15914774MO,-2305.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Fleshner, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,30,35,1050,"Limited Term Discount: Fleshner, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,6790.0000,
+INVOICE,IN,,13110164,,10/27/2012,3194.0000,"Invoice-Private",,10/27/2012,10/27/2012,,13114674MO,-11742.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,62.0000,62.00,"CR:Limited Term Di... L.Sprott 201210: Sprott, Louise W",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,27,100.0000,2700.00,"Basic Service Fee - Studio for Oct: Sprott, Louise W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,27,16.0000,432.00,"Resident Care - Level 1 for Oct: Sprott, Louise W",,,,,,,,,,,,,,,
+INVOICE,CM,,13110164,,10/27/2012,3596,"Invoice-Private",,10/27/2012,10/27/2012,,13114674MO,-11742.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... L.Sprott 201210: Sprott, Louise W",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... L.Sprott 201210: Sprott, Louise W",,,,,,,,,,,,,,,

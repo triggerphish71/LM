@@ -1,0 +1,7 @@
+BATCH,,201205,B,3748.4100,
+INVOICE,IN,,04910190,,05/01/2012,527.0000,"Invoice-Private",,05/01/2012,05/10/2012,,04913397MO,-2694.4100,,,,,,,,,,
+TRANSACTION,3320,010101049,1,527.0000,527.00,"CR:Limited Term Di... J.Lawlis 201205: Lawlis, James",,,,,,,,,,,,,,,
+INVOICE,CM,,04910190,,05/01/2012,3221.41,"Invoice-Private",,05/01/2012,05/10/2012,,04913397MO,-2694.4100,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25,25,"CR:Monthly Cable... J.Lawlis 201205: Lawlis, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101049,1,499.41,499.41,"CR:Resident Care -... J.Lawlis 201205: Lawlis, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101049,1,2697,2697,"CR:Room and Board ... J.Lawlis 201205: Lawlis, James",,,,,,,,,,,,,,,

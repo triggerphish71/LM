@@ -1,0 +1,5 @@
+BATCH,,201208,B,558.0000,
+INVOICE,IN,,51610163,,08/01/2012,279.0000,"Invoice-Private",,08/01/2012,08/10/2012,,51613848MO,-4465.9800,,,,,,,,,,
+TRANSACTION,3320,010103516,31,9.0000,279.00,"Credit for Limited Term Discount: Mitchell, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,51610163,,08/01/2012,279,"Invoice-Private",,08/01/2012,08/10/2012,,51613848MO,-4465.9800,,,,,,,,,,
+TRANSACTION,3320,010103516,31,9,279,"Limited Term Discount: Mitchell, Helen",,,,,,,,,,,,,,,

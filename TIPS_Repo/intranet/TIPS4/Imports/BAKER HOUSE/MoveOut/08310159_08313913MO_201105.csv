@@ -1,0 +1,6 @@
+BATCH,,201105,B,5611.0000,
+INVOICE,IN,,08310159,,05/01/2011,496.0000,"Invoice-Private",,05/01/2011,05/10/2011,,08313913MO,-4619.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,1,496.0000,496.00,"CR:Limited Term Di... R.Shields 201105: Shields, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,08310159,,05/01/2011,5115,"Invoice-Private",,05/01/2011,05/10/2011,,08313913MO,-4619.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,4030,4030,"CR:Basic Service F... R.Shields 201105: Shields, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1085,1085,"CR:Resident Care -... R.Shields 201105: Shields, Ruth",,,,,,,,,,,,,,,

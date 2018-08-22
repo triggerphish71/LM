@@ -1,0 +1,5 @@
+BATCH,,201305,B,2380.0000,
+INVOICE,IN,,10210185,,05/01/2013,210.0000,"Invoice-Private",,05/01/2013,05/10/2013,,10215218MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,3,70.0000,210.00,"Room and Board - Studio for May: Kelly, Margot",,,,,,,,,,,,,,,
+INVOICE,CM,,10210185,,05/01/2013,2170,"Invoice-Private",,05/01/2013,05/10/2013,,10215218MO,-1960.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,2170,2170,"CR:Room and Board ... M.Kelly 201305: Kelly, Margot",,,,,,,,,,,,,,,

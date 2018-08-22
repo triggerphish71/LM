@@ -1,0 +1,7 @@
+BATCH,,201112,B,4095.0000,
+INVOICE,IN,,13610270,,12/08/2011,840.0000,"Invoice-Private",,12/08/2011,12/08/2011,,13614376MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,8,74.0000,592.00,"Basic Service Fee- One Bedroom Prem for Dec: Loreto, Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,8,31.0000,248.00,"Resident Care - Level 2 for Dec: Loreto, Lorene",,,,,,,,,,,,,,,
+INVOICE,CM,,13610270,,12/08/2011,3255,"Invoice-Private",,12/08/2011,12/08/2011,,13614376MO,-2415.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2294,2294,"CR:Basic Service F... L.Loreto 201112: Loreto, Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,961,961,"CR:Resident Care -... L.Loreto 201112: Loreto, Lorene",,,,,,,,,,,,,,,

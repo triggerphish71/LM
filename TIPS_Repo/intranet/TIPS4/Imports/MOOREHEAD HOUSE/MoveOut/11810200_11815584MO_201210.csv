@@ -1,0 +1,7 @@
+BATCH,,201210,B,2340.0000,
+INVOICE,IN,,11810200,,10/30/2012,100.0000,"Invoice-Private",,10/30/2012,10/30/2012,,11815584MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,100.0000,100.00,"E.McCormick: Basic Service Fee - Studio for Oct: McCormick, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,11810200,,10/30/2012,2240,"Invoice-Private",,10/30/2012,10/30/2012,,11815584MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,200,200,"CR:E.McCormick: Ba... E.McCormick 201210: McCormick, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... E.McCormick 201210: McCormick, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310118,1,2000,2000,"CR:New Resident Fe... E.McCormick 201210: McCormick, Esther",,,,,,,,,,,,,,,

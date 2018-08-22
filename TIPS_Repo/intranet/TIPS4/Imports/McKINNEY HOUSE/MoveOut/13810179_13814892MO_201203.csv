@@ -1,0 +1,8 @@
+BATCH,,201203,B,6656.0000,
+INVOICE,IN,,13810179,,03/11/2012,2750.0000,"Invoice-Private",,03/11/2012,03/11/2012,,13814892MO,-1156.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,1364.0000,1364.00,"CR:Limited Term Di... H.Harrison 201203: Harrison, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,11,96.0000,1056.00,"Basic Service Fee - Studio for Mar: Harrison, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,11,30.0000,330.00,"Resident Care - Level 2 for Mar: Harrison, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,13810179,,03/11/2012,3906,"Invoice-Private",,03/11/2012,03/11/2012,,13814892MO,-1156.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... H.Harrison 201203: Harrison, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,930,930,"CR:Resident Care -... H.Harrison 201203: Harrison, Hazel",,,,,,,,,,,,,,,

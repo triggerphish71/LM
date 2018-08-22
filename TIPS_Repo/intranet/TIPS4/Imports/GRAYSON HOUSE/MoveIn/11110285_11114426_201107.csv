@@ -1,0 +1,6 @@
+BATCH,,201107,B,4116.0000,
+INVOICE,IN,,11110285,,07/15/2011,4116.0000,"MoveIn-Smith. Charles",,07/15/2011,07/15/2011,,11114426,4116.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,17,94.0000,1598,"Basic Service Fee - Studio         : Smith. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,17,29.0000,493,"Resident Care - Level 2: Smith. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Smith. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Smith. Charles",,,,,,,,,,,,,,,

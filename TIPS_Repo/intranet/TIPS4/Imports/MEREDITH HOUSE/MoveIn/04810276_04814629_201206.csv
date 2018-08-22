@@ -1,0 +1,5 @@
+BATCH,,201206,B,1854.0000,
+INVOICE,IN,,04810276,,06/28/2012,1854.0000,"MoveIn-Bailey. Harvey",,06/28/2012,06/28/2012,,04814629,5512.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,3,103.0000,309,"Basic Service Fee - Studio: Bailey. Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,3,15.0000,45,"Resident Care - Level 1: Bailey. Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Bailey. Harvey",,,,,,,,,,,,,,,

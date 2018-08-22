@@ -1,0 +1,8 @@
+BATCH,,201208,B,6228.0000,
+INVOICE,IN,,13110216,,08/11/2012,2632.0000,"Invoice-Private",,08/11/2012,08/11/2012,,13114521MO,-964.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,1240.0000,1240.00,"CR:Limited Term Di... O.Reed 201208: Reed, Orvie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308131,12,100.0000,1200.00,"Basic Service Fee - Studio for Aug: Reed, Orvie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,12,16.0000,192.00,"Resident Care - Level 1 for Aug: Reed, Orvie",,,,,,,,,,,,,,,
+INVOICE,CM,,13110216,,08/11/2012,3596,"Invoice-Private",,08/11/2012,08/11/2012,,13114521MO,-964.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... O.Reed 201208: Reed, Orvie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,496,496,"CR:Resident Care -... O.Reed 201208: Reed, Orvie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,4164.0000,
+INVOICE,IN,,14810317,,09/09/2011,954.0000,"Invoice-Private",,09/09/2011,09/09/2011,,14814677MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,9,88.0000,792.00,"Basic Service Fee - Studio for Sep: Larkins, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,9,18.0000,162.00,"Resident Care - Level 1 for Sep: Larkins, Yvonne",,,,,,,,,,,,,,,
+INVOICE,CM,,14810317,,09/09/2011,3210,"Invoice-Private",,09/09/2011,09/09/2011,,14814677MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2640,2640,"CR:Basic Service F... Y.Larkins 201109: Larkins, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"CR:Monthly Cable... Y.Larkins 201109: Larkins, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,540,540,"CR:Resident Care -... Y.Larkins 201109: Larkins, Yvonne",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,5582.0000,
+INVOICE,IN,,13610347,,05/12/2013,1548.0000,"Invoice-Private",,05/12/2013,05/12/2013,,13615660MO,-2486.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,12,70.0000,840.00,"Basic Service Fee - Studio for May: Wessel, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,12,59.0000,708.00,"Resident Care - Level 4 for May: Wessel, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,13610347,,05/12/2013,4034,"Invoice-Private",,05/12/2013,05/12/2013,,13615660MO,-2486.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2170,2170,"CR:Basic Service F... E.Wessel 201305: Wessel, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... E.Wessel 201305: Wessel, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,1829,1829,"CR:Resident Care -... E.Wessel 201305: Wessel, Ed",,,,,,,,,,,,,,,

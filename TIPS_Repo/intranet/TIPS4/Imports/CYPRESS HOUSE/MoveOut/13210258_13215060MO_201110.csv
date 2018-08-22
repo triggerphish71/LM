@@ -1,0 +1,7 @@
+BATCH,,201110,B,2999.0000,
+INVOICE,IN,,13210258,,10/01/2011,1499.5000,"Invoice-Private",,10/01/2011,10/10/2011,,13215060MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Middleton, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3315,010308132,31,47.5000,1472.50,"Credit for Promotional Discount: Middleton, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,13210258,,10/01/2011,1499.5,"Invoice-Private",,10/01/2011,10/10/2011,,13215060MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Middleton, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3315,010308132,31,47.5,1472.5,"Promotional Discount: Middleton, Frank",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,5160.0000,
+INVOICE,IN,,12910229,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,12915814MO,-5836.0000,,,,,,,,,,
+TRANSACTION,3320,010310129,1,60.0000,60.00,"CR:Limited Term Di... I.Carbone 201204: Carbone, Iva",,,,,,,,,,,,,,,
+INVOICE,CM,,12910229,,04/01/2012,5100,"Invoice-Private",,04/01/2012,04/10/2012,,12915814MO,-5836.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2880,2880,"CR:Basic Service F... I.Carbone 201204: Carbone, Iva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,2220,2220,"CR:Resident Care -... I.Carbone 201204: Carbone, Iva",,,,,,,,,,,,,,,

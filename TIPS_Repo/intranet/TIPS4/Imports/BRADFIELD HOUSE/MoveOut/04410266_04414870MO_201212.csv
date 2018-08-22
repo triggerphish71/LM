@@ -1,0 +1,8 @@
+BATCH,,201212,B,3133.0000,
+INVOICE,IN,,04410266,,12/06/2012,504.0000,"Invoice-Private",,12/06/2012,12/06/2012,,04414870MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,6,55.0000,330.00,"Basic Service Fee - Studio for Dec: Medley, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,6,29.0000,174.00,"Resident Care - Level 2 for Dec: Medley, Yvonne",,,,,,,,,,,,,,,
+INVOICE,CM,,04410266,,12/06/2012,2629,"Invoice-Private",,12/06/2012,12/06/2012,,04414870MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1705,1705,"CR:Basic Service F... Y.Medley 201212: Medley, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25,25,"CR:Monthly Cable... Y.Medley 201212: Medley, Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,899,899,"CR:Resident Care -... Y.Medley 201212: Medley, Yvonne",,,,,,,,,,,,,,,

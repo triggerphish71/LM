@@ -1,0 +1,7 @@
+BATCH,,201201,B,246.0000,
+INVOICE,IN,,53410052,,01/01/2012,123.0000,"Invoice-Private",,01/01/2012,01/10/2012,,53420107MO,-4215.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Fetterer, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Fetterer, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,53410052,,01/01/2012,123,"Invoice-Private",,01/01/2012,01/10/2012,,53420107MO,-4215.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Fetterer, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Fetterer, Margaret",,,,,,,,,,,,,,,

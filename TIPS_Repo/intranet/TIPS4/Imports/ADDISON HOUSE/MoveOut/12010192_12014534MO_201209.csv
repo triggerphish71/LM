@@ -1,0 +1,5 @@
+BATCH,,201209,B,1080.0000,
+INVOICE,IN,,12010192,,09/01/2012,540.0000,"Invoice-Private",,09/01/2012,09/10/2012,,12014534MO,-2646.1800,,,,,,,,,,
+TRANSACTION,3320,010309120,30,18.0000,540.00,"Credit for Limited Term Discount: Buck, William",,,,,,,,,,,,,,,
+INVOICE,CM,,12010192,,09/01/2012,540,"Invoice-Private",,09/01/2012,09/10/2012,,12014534MO,-2646.1800,,,,,,,,,,
+TRANSACTION,3320,010309120,30,18,540,"Limited Term Discount: Buck, William",,,,,,,,,,,,,,,

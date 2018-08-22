@@ -1,0 +1,7 @@
+BATCH,,201210,B,4634.0000,
+INVOICE,IN,,14610263,,10/05/2012,93.0000,"Invoice-Private",,10/05/2012,10/05/2012,,14614722MO,-7238.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,93.0000,93.00,"B.Browning: Basic Service Fee - Studio for Oct: Browning, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14610263,,10/05/2012,4541,"Invoice-Private",,10/05/2012,10/05/2012,,14614722MO,-7238.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2511,2511,"CR:B.Browning: Bas... B.Browning 201210: Browning, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... B.Browning 201210: Browning, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309146,1,2000,2000,"CR:New Resident Fe... B.Browning 201210: Browning, Betty",,,,,,,,,,,,,,,

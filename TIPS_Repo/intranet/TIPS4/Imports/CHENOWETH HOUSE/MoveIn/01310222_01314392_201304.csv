@@ -1,0 +1,6 @@
+BATCH,,201304,B,3621.5000,
+INVOICE,IN,,01310222,,04/05/2013,3621.5000,"MoveIn-Lantz. Charles",,04/05/2013,04/05/2013,,01314392,3621.5000,,,,,,,,,,
+TRANSACTION,3010,010103013,26,72.0000,1872,"Basic Service Fee - Studio: Lantz. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,26,27.7500,721.5,"Resident Care - Level 15: Lantz. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Lantz. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Lantz. Charles",,,,,,,,,,,,,,,

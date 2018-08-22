@@ -1,0 +1,5 @@
+BATCH,,201111,B,80.0000,
+INVOICE,IN,,11810167,,11/01/2011,40.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11815006MO,-4784.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40.00,"Monthly Cable: Hudson, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,11810167,,11/01/2011,40,"Invoice-Private",,11/01/2011,11/10/2011,,11815006MO,-4784.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"Credit for Monthly Cable: Hudson, Walter",,,,,,,,,,,,,,,

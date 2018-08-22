@@ -1,0 +1,7 @@
+BATCH,,201110,B,1790.0000,
+INVOICE,IN,,02411267,,10/01/2011,895.0000,"Invoice-Private",,10/01/2011,10/10/2011,,02415399MO,-2120.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Lenz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,28.0000,868.00,"Credit for Limited Term Discount: Lenz, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,02411267,,10/01/2011,895,"Invoice-Private",,10/01/2011,10/10/2011,,02415399MO,-2120.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Lenz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,28,868,"Limited Term Discount: Lenz, Mary",,,,,,,,,,,,,,,

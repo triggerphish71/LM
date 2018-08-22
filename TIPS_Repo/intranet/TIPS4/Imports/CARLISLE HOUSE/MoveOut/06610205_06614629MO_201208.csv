@@ -1,0 +1,7 @@
+BATCH,,201208,B,4585.0000,
+INVOICE,IN,,06610205,,08/01/2012,524.0000,"Invoice-Private",,08/01/2012,08/10/2012,,06614629MO,-3537.0000,,,,,,,,,,
+TRANSACTION,3027,010305066,4,17.0000,68.00,"Resident Care - Level 1 for Aug: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,4,114.0000,456.00,"Room and Board - Deluxe for Aug: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,06610205,,08/01/2012,4061,"Invoice-Private",,08/01/2012,08/10/2012,,06614629MO,-3537.0000,,,,,,,,,,
+TRANSACTION,3027,010305066,1,527,527,"CR:Resident Care -... M.Heydinger 201208: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3534,3534,"CR:Room and Board ... M.Heydinger 201208: Heydinger, Mary Ann",,,,,,,,,,,,,,,

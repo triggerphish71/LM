@@ -1,0 +1,5 @@
+BATCH,,201210,B,60.0000,
+INVOICE,IN,,12910331,,10/01/2012,30.0000,"Invoice-Private",,10/01/2012,10/10/2012,,12916047MO,-4947.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30.00,"Monthly Cable: Easton, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,12910331,,10/01/2012,30,"Invoice-Private",,10/01/2012,10/10/2012,,12916047MO,-4947.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"Credit for Monthly Cable: Easton, Edith",,,,,,,,,,,,,,,

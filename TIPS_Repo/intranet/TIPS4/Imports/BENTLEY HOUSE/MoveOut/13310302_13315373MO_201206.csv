@@ -1,0 +1,7 @@
+BATCH,,201206,B,670.0000,
+INVOICE,IN,,13310302,,06/01/2012,335.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13315373MO,-4916.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: D'Amato, Venetia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,10.0000,300.00,"Credit for Limited Term Discount: D'Amato, Venetia",,,,,,,,,,,,,,,
+INVOICE,CM,,13310302,,06/01/2012,335,"Invoice-Private",,06/01/2012,06/10/2012,,13315373MO,-4916.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: D'Amato, Venetia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,10,300,"Limited Term Discount: D'Amato, Venetia",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,372.0000,
+INVOICE,IN,,01110283,,10/01/2012,186.0000,"Invoice-Private",,10/01/2012,10/10/2012,,01113945MO,-2690.7000,,,,,,,,,,
+TRANSACTION,3320,010101011,31,6.0000,186.00,"Credit for Limited Term Discount: Shilling, Cleveland",,,,,,,,,,,,,,,
+INVOICE,CM,,01110283,,10/01/2012,186,"Invoice-Private",,10/01/2012,10/10/2012,,01113945MO,-2690.7000,,,,,,,,,,
+TRANSACTION,3320,010101011,31,6,186,"Limited Term Discount: Shilling, Cleveland",,,,,,,,,,,,,,,

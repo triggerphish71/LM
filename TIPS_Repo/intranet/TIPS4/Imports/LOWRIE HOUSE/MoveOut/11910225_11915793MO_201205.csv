@@ -1,0 +1,7 @@
+BATCH,,201205,B,2989.0000,
+INVOICE,IN,,11910225,,05/26/2012,1470.0000,"Invoice-Private",,05/26/2012,05/26/2012,,11915793MO,-1519.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,30,31.0000,930.00,"Basic Service Fee - Second Resident for May: Kepple, Edyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,30,18.0000,540.00,"Resident Care - Level 1 for May: Kepple, Edyce",,,,,,,,,,,,,,,
+INVOICE,CM,,11910225,,05/26/2012,1519,"Invoice-Private",,05/26/2012,05/26/2012,,11915793MO,-1519.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,961,961,"CR:Basic Service F... E.Kepple 201205: Kepple, Edyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,558,558,"CR:Resident Care -... E.Kepple 201205: Kepple, Edyce",,,,,,,,,,,,,,,

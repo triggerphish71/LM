@@ -1,0 +1,8 @@
+BATCH,,201109,B,8904.0000,
+INVOICE,IN,,19810212,,09/21/2011,3654.0000,"Invoice-Private",,09/21/2011,09/21/2011,,19816604MO,-7020.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,21,86.0000,1806.00,"Basic Service Fee AL - Two Bedroom A for Sep: Brachman, Colleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,21,88.0000,1848.00,"Swan Personal Care - L5 for Sep: Brachman, Colleen",,,,,,,,,,,,,,,
+INVOICE,CM,,19810212,,09/21/2011,5250,"Invoice-Private",,09/21/2011,09/21/2011,,19816604MO,-7020.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2580,2580,"CR:Basic Service F... C.Brachman 201109: Brachman, Colleen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... C.Brachman 201109: Brachman, Colleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,2640,2640,"CR:Swan Personal C... C.Brachman 201109: Brachman, Colleen",,,,,,,,,,,,,,,

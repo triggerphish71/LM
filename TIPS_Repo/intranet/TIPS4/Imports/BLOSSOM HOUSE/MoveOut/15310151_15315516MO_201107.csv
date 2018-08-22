@@ -1,0 +1,7 @@
+BATCH,,201107,B,5331.1000,
+INVOICE,IN,,15310151,,07/01/2011,1116.0000,"Invoice-Private",,07/01/2011,07/10/2011,,15315516MO,-3532.2000,,,,,,,,,,
+TRANSACTION,3320,010103153,1,1116.0000,1116.00,"CR:Limited Term Di... M.Boyd 201107: Boyd, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,15310151,,07/01/2011,4215.1,"Invoice-Private",,07/01/2011,07/10/2011,,15315516MO,-3532.2000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... M.Boyd 201107: Boyd, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1212.1,1212.1,"CR:Resident Care -... M.Boyd 201107: Boyd, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,2976,2976,"CR:Room and Board ... M.Boyd 201107: Boyd, Marian",,,,,,,,,,,,,,,

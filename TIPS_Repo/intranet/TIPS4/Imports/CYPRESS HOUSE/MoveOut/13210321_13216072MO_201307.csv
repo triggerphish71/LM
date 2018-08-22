@@ -1,0 +1,8 @@
+BATCH,,201307,B,3087.0000,
+INVOICE,IN,,13210321,,07/30/2013,1440.0000,"Invoice-Private",,07/30/2013,07/30/2013,,13216072MO,-5814.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,8,124.0000,992.00,"Basic Service Fee - One Bedroom for Jul: Cohen, Nathan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,8,56.0000,448.00,"Resident Care - Level 4 for Jul: Cohen, Nathan",,,,,,,,,,,,,,,
+INVOICE,CM,,13210321,,07/30/2013,1647,"Invoice-Private",,07/30/2013,07/30/2013,,13216072MO,-5814.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,1116,1116,"CR:Basic Service F... N.Cohen 201307: Cohen, Nathan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... N.Cohen 201307: Cohen, Nathan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,504,504,"CR:Resident Care -... N.Cohen 201307: Cohen, Nathan",,,,,,,,,,,,,,,

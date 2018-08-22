@@ -1,0 +1,6 @@
+BATCH,,201211,B,4653.2100,
+INVOICE,IN,,05310281,,11/08/2012,4653.2100,"MoveIn-Maloney. Charles",,11/08/2012,11/08/2012,,05314820,4653.2100,,,,,,,,,,
+TRANSACTION,3010,010101053,23,91.0000,2093,"Basic Service Fee - Studio: Maloney. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,23,23.2700,535.21,"Resident Care - Level 13: Maloney. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Maloney. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Maloney. Charles",,,,,,,,,,,,,,,

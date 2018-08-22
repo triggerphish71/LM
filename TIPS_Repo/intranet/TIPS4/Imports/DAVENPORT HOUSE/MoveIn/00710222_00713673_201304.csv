@@ -1,0 +1,5 @@
+BATCH,,201304,B,3274.3000,
+INVOICE,IN,,00710222,,04/17/2013,3274.3000,"MoveIn-Endresen. Lois",,04/17/2013,04/17/2013,,00713673,8310.2500,,,,,,,,,,
+TRANSACTION,3010,010101007,14,94.0000,1316,"Basic Service Fee - One Bedroom: Endresen. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,14,68.4500,958.3,"Resident Care - Level 37: Endresen. Lois",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Endresen. Lois",,,,,,,,,,,,,,,

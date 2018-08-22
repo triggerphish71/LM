@@ -1,0 +1,5 @@
+BATCH,,201301,B,2728.0000,
+INVOICE,IN,,12110272,,01/01/2013,1364.0000,"Invoice-Private",,01/01/2013,01/10/2013,,12116089MO,-3616.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,31,44.0000,1364.00,"Credit for Limited Term Discount: Kiersztyn, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,12110272,,01/01/2013,1364,"Invoice-Private",,01/01/2013,01/10/2013,,12116089MO,-3616.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,31,44,1364,"Limited Term Discount: Kiersztyn, Rosemary",,,,,,,,,,,,,,,

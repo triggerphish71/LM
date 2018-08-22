@@ -1,0 +1,5 @@
+BATCH,,201111,B,3330.0000,
+INVOICE,IN,,16910233,,11/16/2011,3330.0000,"MoveIn-Johnson. Vera",,11/16/2011,11/16/2011,,16914665,6052.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,15,87.0000,1305,"Basic Service Fee - Studio: Johnson. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Johnson. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Johnson. Vera",,,,,,,,,,,,,,,

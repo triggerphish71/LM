@@ -1,0 +1,5 @@
+BATCH,,201202,B,174.0000,
+INVOICE,IN,,04210196,,02/01/2012,87.0000,"Invoice-Private",,02/01/2012,02/10/2012,,04213861MO,-2976.0000,,,,,,,,,,
+TRANSACTION,3320,010202042,29,3.0000,87.00,"Credit for Limited Term Discount: Salmon, Christeen",,,,,,,,,,,,,,,
+INVOICE,CM,,04210196,,02/01/2012,87,"Invoice-Private",,02/01/2012,02/10/2012,,04213861MO,-2976.0000,,,,,,,,,,
+TRANSACTION,3320,010202042,29,3,87,"Limited Term Discount: Salmon, Christeen",,,,,,,,,,,,,,,

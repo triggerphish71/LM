@@ -1,0 +1,8 @@
+BATCH,,201307,B,6462.0000,
+INVOICE,IN,,12910349,,07/17/2013,2278.0000,"Invoice-Private",,07/17/2013,07/17/2013,,12916592MO,-6090.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,17,98.0000,1666.00,"Basic Service Fee - Studio for Jul: Gargasz, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,17,36.0000,612.00,"Resident Care - Level 2 for Jul: Gargasz, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,12910349,,07/17/2013,4184,"Invoice-Private",,07/17/2013,07/17/2013,,12916592MO,-6090.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,3038,3038,"CR:Basic Service F... A.Gargasz 201307: Gargasz, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... A.Gargasz 201307: Gargasz, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1116,1116,"CR:Resident Care -... A.Gargasz 201307: Gargasz, Ann",,,,,,,,,,,,,,,

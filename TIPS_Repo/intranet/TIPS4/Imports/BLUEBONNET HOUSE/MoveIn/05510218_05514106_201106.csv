@@ -1,0 +1,5 @@
+BATCH,,201106,B,4677.0000,
+INVOICE,IN,,05510218,,06/01/2011,4677.0000,"June_Rent-Hill. Evelyn",,06/01/2011,06/10/2011,,05514106,9459.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,30,92.0000,2760,"Basic Service Fee - Studio         : Hill. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,30,63.0000,1890,"Resident Care - Level 4: Hill. Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Hill. Evelyn",,,,,,,,,,,,,,,

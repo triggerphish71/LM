@@ -1,0 +1,6 @@
+BATCH,,201210,B,2222.0400,
+INVOICE,IN,,01310189,,10/13/2012,2222.0400,"MoveIn-Rumbolz. Mary",,10/13/2012,10/13/2012,,01314173,2222.0400,,,,,,,,,,
+TRANSACTION,3010,010103013,19,82.0000,1558,"M.Rumbolz: Basic Service Fee - One Bedroom: Rumbolz. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,19,7.1600,136.04,"M.Rumbolz: Resident Care - Level 4: Rumbolz. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Rumbolz. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,500.0000,500,"New Resident Fee: Rumbolz. Mary",,,,,,,,,,,,,,,

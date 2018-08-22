@@ -1,0 +1,6 @@
+BATCH,,201109,B,2960.0000,
+INVOICE,IN,,52610287,,09/01/2011,330.0000,"Invoice-Private",,09/01/2011,09/10/2011,,52616191MO,-2300.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,330.0000,330.00,"CR:Limited Term Di... J.Breiner 201109: Breiner, Javan",,,,,,,,,,,,,,,
+INVOICE,CM,,52610287,,09/01/2011,2630,"Invoice-Private",,09/01/2011,09/10/2011,,52616191MO,-2300.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2430,2430,"CR:Basic Service F... J.Breiner 201109: Breiner, Javan",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"CR:Resident Meals... J.Breiner 201109: Breiner, Javan",,,,,,,,,,,,,,,

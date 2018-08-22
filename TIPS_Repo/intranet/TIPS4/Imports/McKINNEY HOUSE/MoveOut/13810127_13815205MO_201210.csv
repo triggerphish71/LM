@@ -1,0 +1,7 @@
+BATCH,,201210,B,6860.0000,
+INVOICE,IN,,13810127,,10/18/2012,2520.0000,"Invoice-Private",,10/18/2012,10/18/2012,,13815205MO,-6020.0000,,,,,,,,,,
+TRANSACTION,3027,010309138,18,44.0000,792.00,"Resident Care - Level 3 for Oct: Hillis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,18,96.0000,1728.00,"Room and Board - Studio for Oct: Hillis, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13810127,,10/18/2012,4340,"Invoice-Private",,10/18/2012,10/18/2012,,13815205MO,-6020.0000,,,,,,,,,,
+TRANSACTION,3027,010309138,1,1364,1364,"CR:Resident Care -... H.Hillis 201210: Hillis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Room and Board ... H.Hillis 201210: Hillis, Helen",,,,,,,,,,,,,,,

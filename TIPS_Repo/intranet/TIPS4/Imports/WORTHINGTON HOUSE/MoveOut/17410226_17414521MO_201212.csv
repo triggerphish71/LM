@@ -1,0 +1,6 @@
+BATCH,,201212,B,4410.0000,
+INVOICE,IN,,17410226,,12/01/2012,1465.0000,"Invoice-Private",,12/01/2012,12/10/2012,,17414521MO,-1480.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,1085.0000,1085.00,"CR:Limited Term Di... J.Adams 201212: Adams, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,4,95.0000,380.00,"Basic Service Fee - Studio for Dec: Adams, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,17410226,,12/01/2012,2945,"Invoice-Private",,12/01/2012,12/10/2012,,17414521MO,-1480.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... J.Adams 201212: Adams, Jackie",,,,,,,,,,,,,,,

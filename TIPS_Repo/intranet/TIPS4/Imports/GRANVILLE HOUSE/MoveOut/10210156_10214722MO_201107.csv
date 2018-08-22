@@ -1,0 +1,7 @@
+BATCH,,201107,B,11385.0000,
+INVOICE,IN,,10210156,,07/24/2011,4968.0000,"Invoice-Private",,07/24/2011,07/24/2011,,10214722MO,-7866.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,24,111.0000,2664.00,"Basic Service Fee - Studio for Jul: Schuller, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,24,96.0000,2304.00,"Swan Personal Care - L6 for Jul: Schuller, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,10210156,,07/24/2011,6417,"Invoice-Private",,07/24/2011,07/24/2011,,10214722MO,-7866.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Basic Service F... E.Schuller 201107: Schuller, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2976,2976,"CR:Swan Personal C... E.Schuller 201107: Schuller, Ethel",,,,,,,,,,,,,,,

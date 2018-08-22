@@ -1,0 +1,7 @@
+BATCH,,201110,B,454.0000,
+INVOICE,IN,,51610111,,10/01/2011,227.0000,"Invoice-Private",,10/01/2011,10/10/2011,,51613595MO,-5600.7000,,,,,,,,,,
+TRANSACTION,3130,010103516,1,10.0000,10.00,"Pendant Fee: Alder, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103516,31,7.0000,217.00,"Credit for Limited Term Discount: Alder, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,51610111,,10/01/2011,227,"Invoice-Private",,10/01/2011,10/10/2011,,51613595MO,-5600.7000,,,,,,,,,,
+TRANSACTION,3130,010103516,1,10,10,"Credit for Pendant Fee: Alder, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103516,31,7,217,"Limited Term Discount: Alder, Mildred",,,,,,,,,,,,,,,

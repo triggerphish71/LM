@@ -1,0 +1,8 @@
+BATCH,,201203,B,7129.0000,
+INVOICE,IN,,07810189,,03/06/2012,2516.0000,"Invoice-Private",,03/06/2012,03/06/2012,,07814477MO,-2097.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,17,91.0000,1547.00,"Basic Service Fee - Studio for Mar: Hanson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,17,57.0000,969.00,"Resident Care - Level 4 for Mar: Hanson, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,07810189,,03/06/2012,4613,"Invoice-Private",,03/06/2012,03/06/2012,,07814477MO,-2097.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2821,2821,"CR:Basic Service F... G.Hanson 201203: Hanson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... G.Hanson 201203: Hanson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1767,1767,"CR:Resident Care -... G.Hanson 201203: Hanson, Gladys",,,,,,,,,,,,,,,

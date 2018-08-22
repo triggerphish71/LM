@@ -1,0 +1,6 @@
+BATCH,,201105,B,5456.0000,
+INVOICE,IN,,52510110,,05/01/2011,93.0000,"Invoice-Private",,05/01/2011,05/10/2011,,52512130MO,-5270.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,1,93.0000,93.00,"CR:Limited Term Di... D.Soholt 201105: Soholt, Dalen",,,,,,,,,,,,,,,
+INVOICE,CM,,52510110,,05/01/2011,5363,"Invoice-Private",,05/01/2011,05/10/2011,,52512130MO,-5270.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3317,3317,"CR:Basic Service F... D.Soholt 201105: Soholt, Dalen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,2046,2046,"CR:Resident Care -... D.Soholt 201105: Soholt, Dalen",,,,,,,,,,,,,,,

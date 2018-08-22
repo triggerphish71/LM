@@ -1,0 +1,7 @@
+BATCH,,201204,B,4947.0000,
+INVOICE,IN,,16310306,,04/01/2012,1290.0000,"Invoice-Private",,04/01/2012,04/10/2012,,16316650MO,-6024.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,1290.0000,1290.00,"CR:Limited Term Di... C.King 201204: King, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,16310306,,04/01/2012,3657,"Invoice-Private",,04/01/2012,04/10/2012,,16316650MO,-6024.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3240,3240,"CR:Basic Service F... C.King 201204: King, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... C.King 201204: King, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,390,390,"CR:Resident Care -... C.King 201204: King, Charles",,,,,,,,,,,,,,,

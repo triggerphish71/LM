@@ -1,0 +1,6 @@
+BATCH,,201304,B,4079.7000,
+INVOICE,IN,,01210275,,04/08/2013,4079.7000,"MoveIn-Vaske. Gloria",,04/08/2013,04/08/2013,,01214331,4079.7000,,,,,,,,,,
+TRANSACTION,3010,010103012,23,85.0000,1955,"Basic Service Fee - Studio: Vaske. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,23,25.9000,595.7,"Resident Care - Level 14: Vaske. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Vaske. Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Vaske. Gloria",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,4632.0000,
+INVOICE,IN,,14710284,,06/01/2013,480.0000,"Invoice-Private",,06/01/2013,06/10/2013,,14716204MO,-3672.0000,,,,,,,,,,
+TRANSACTION,3027,010310147,1,480.0000,480.00,"CR:Resident Care L... F.Yarris 201306: Yarris, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,14710284,,06/01/2013,4152,"Invoice-Private",,06/01/2013,06/10/2013,,14716204MO,-3672.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3060,3060,"CR:Basic Service F... F.Yarris 201306: Yarris, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... F.Yarris 201306: Yarris, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1050,1050,"CR:Resident Care -... F.Yarris 201306: Yarris, Frances",,,,,,,,,,,,,,,

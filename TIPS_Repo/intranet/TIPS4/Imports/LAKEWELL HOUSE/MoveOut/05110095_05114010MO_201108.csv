@@ -1,0 +1,5 @@
+BATCH,,201108,B,3559.0000,
+INVOICE,CM,,05110095,,08/01/2011,3559,"Invoice-Private",,08/01/2011,08/10/2011,,05114010MO,-3559.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3007,3007,"CR:Basic Service F... E.Wood 201108: Wood, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25,25,"CR:Monthly Cable... E.Wood 201108: Wood, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,527,527,"CR:Resident Care -... E.Wood 201108: Wood, Eugene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,3575.0000,
+INVOICE,IN,,05810250,,05/24/2013,1560.0000,"Invoice-Private",,05/24/2013,05/24/2013,,05814366MO,-2405.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,24,65.0000,1560.00,"Basic Service Fee - Studio for May: Latimer, Gwindolene",,,,,,,,,,,,,,,
+INVOICE,CM,,05810250,,05/24/2013,2015,"Invoice-Private",,05/24/2013,05/24/2013,,05814366MO,-2405.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2015,2015,"CR:Basic Service F... G.Latimer 201305: Latimer, Gwindolene",,,,,,,,,,,,,,,

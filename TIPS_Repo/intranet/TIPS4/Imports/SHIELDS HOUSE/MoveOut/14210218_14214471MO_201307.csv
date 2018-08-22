@@ -1,0 +1,7 @@
+BATCH,,201307,B,628.0000,
+INVOICE,IN,,14210218,,07/01/2013,314.0000,"Invoice-Private",,07/01/2013,07/10/2013,,14214471MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Hines, Wallace",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309142,31,9.0000,279.00,"Credit for Two Room Rental Discount: Hines, Wallace",,,,,,,,,,,,,,,
+INVOICE,CM,,14210218,,07/01/2013,314,"Invoice-Private",,07/01/2013,07/10/2013,,14214471MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Hines, Wallace",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309142,31,9,279,"Two Room Rental Discount: Hines, Wallace",,,,,,,,,,,,,,,

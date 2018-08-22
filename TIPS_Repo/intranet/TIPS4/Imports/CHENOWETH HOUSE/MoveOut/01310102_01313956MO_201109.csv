@@ -1,0 +1,7 @@
+BATCH,,201109,B,2355.4400,
+INVOICE,IN,,01310102,,09/14/2011,492.9400,"Invoice-Medicaid",,09/14/2011,09/14/2011,,01313956MO,-1369.5600,,,,,,,,,,
+TRANSACTION,3021,010103013,14,35.2100,492.94,"Medicaid Co-Pay for Sep: Jackson, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,01310102,,09/14/2011,1862.5,"Invoice-Medicaid",,09/14/2011,09/14/2011,,01313956MO,-1369.5600,,,,,,,,,,
+TRANSACTION,3021,010103013,1,1056.36,1056.36,"CR:Medicaid Co-Pay... R.Jackson 201109: Jackson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... R.Jackson 201109: Jackson, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103013,1,778.14,778.14,"CR:State Medicaid... R.Jackson 201109: Jackson, Ruby",,,,,,,,,,,,,,,

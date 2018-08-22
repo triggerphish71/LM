@@ -1,0 +1,6 @@
+BATCH,,201308,B,4656.0000,
+INVOICE,IN,,04410299,,08/01/2013,4656.0000,"MoveIn-Byrd. George",,08/01/2013,08/01/2013,,04415186,4656.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,31,85.0000,2635,"Basic Service Fee - Studio: Byrd. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,31,16.0000,496,"Resident Care - Level 1: Byrd. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Byrd. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Byrd. George",,,,,,,,,,,,,,,

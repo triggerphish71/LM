@@ -1,0 +1,6 @@
+BATCH,,201107,B,3996.0000,
+INVOICE,IN,,21410045,,07/01/2011,612.0000,"Invoice-Private",,07/01/2011,07/10/2011,,21416433MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,9,68.0000,612.00,"Room and Board - IL One Bedroom for Jul: Haigler, George",,,,,,,,,,,,,,,
+INVOICE,CM,,21410045,,07/01/2011,3384,"Invoice-Private",,07/01/2011,07/10/2011,,21416433MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3210,010221214,1,1276,1276,"CR:Personal Servic... G.Haigler 201107: Haigler, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2108,2108,"CR:Room and Board ... G.Haigler 201107: Haigler, George",,,,,,,,,,,,,,,

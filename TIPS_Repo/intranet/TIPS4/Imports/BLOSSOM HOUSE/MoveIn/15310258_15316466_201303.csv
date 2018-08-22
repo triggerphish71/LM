@@ -1,0 +1,5 @@
+BATCH,,201303,B,2546.2500,
+INVOICE,IN,,15310258,,03/27/2013,2546.2500,"MoveIn-Henry. Virginia",,03/27/2013,03/27/2013,,15316466,5823.7500,,,,,,,,,,
+TRANSACTION,3010,010103153,5,100.0000,500,"Basic Service Fee - Studio: Henry. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,5,9.2500,46.25,"Resident Care - Level 5: Henry. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Henry. Virginia",,,,,,,,,,,,,,,

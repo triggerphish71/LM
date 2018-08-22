@@ -1,0 +1,7 @@
+BATCH,,201110,B,366.0000,
+INVOICE,IN,,11510132,,10/01/2011,183.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11513834MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Farmer, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,31,5.0000,155.00,"Credit for Limited Term Discount: Farmer, Cecil",,,,,,,,,,,,,,,
+INVOICE,CM,,11510132,,10/01/2011,183,"Invoice-Private",,10/01/2011,10/10/2011,,11513834MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Farmer, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,31,5,155,"Limited Term Discount: Farmer, Cecil",,,,,,,,,,,,,,,

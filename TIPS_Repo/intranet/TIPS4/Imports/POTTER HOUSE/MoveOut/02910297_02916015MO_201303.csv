@@ -1,0 +1,7 @@
+BATCH,,201303,B,6680.0000,
+INVOICE,IN,,02910297,,03/04/2013,1503.0000,"Invoice-Private",,03/04/2013,03/04/2013,,02916015MO,-3674.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,9,114.0000,1026.00,"Basic Service Fee - One Bedroom for Mar: Cunningham, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,9,53.0000,477.00,"Resident Care - Level 4 for Mar: Cunningham, Bernard",,,,,,,,,,,,,,,
+INVOICE,CM,,02910297,,03/04/2013,5177,"Invoice-Private",,03/04/2013,03/04/2013,,02916015MO,-3674.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3534,3534,"CR:Basic Service F... B.Cunningham 201303: Cunningham, Bernard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,1643,1643,"CR:Resident Care -... B.Cunningham 201303: Cunningham, Bernard",,,,,,,,,,,,,,,

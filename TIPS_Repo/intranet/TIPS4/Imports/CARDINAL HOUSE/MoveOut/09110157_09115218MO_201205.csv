@@ -1,0 +1,7 @@
+BATCH,,201205,B,4840.0000,
+INVOICE,IN,,09110157,,05/05/2012,1089.0000,"Invoice-Private",,05/05/2012,05/05/2012,,09115218MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,9,85.0000,765.00,"Basic Service Fee - Studio for May: Mnich, Pete",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,9,36.0000,324.00,"Resident Care - Level 2 for May: Mnich, Pete",,,,,,,,,,,,,,,
+INVOICE,CM,,09110157,,05/05/2012,3751,"Invoice-Private",,05/05/2012,05/05/2012,,09115218MO,-2662.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2635,2635,"CR:Basic Service F... P.Mnich 201205: Mnich, Pete",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... P.Mnich 201205: Mnich, Pete",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,4454.3600,
+INVOICE,IN,,08710112,,04/08/2012,937.7600,"Invoice-Private",,04/08/2012,04/08/2012,,08714136MO,-2578.8400,,,,,,,,,,
+TRANSACTION,3020,010103087,8,85.0000,680.00,"Basic Service Fee - Studio for Apr: Kessler, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,8,32.2200,257.76,"Resident Care - Level 18 for Apr: Kessler, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,08710112,,04/08/2012,3516.6,"Invoice-Private",,04/08/2012,04/08/2012,,08714136MO,-2578.8400,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2550,2550,"CR:Basic Service F... R.Kessler 201204: Kessler, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,966.6,966.6,"CR:Resident Care -... R.Kessler 201204: Kessler, Richard",,,,,,,,,,,,,,,

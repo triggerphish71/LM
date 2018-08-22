@@ -1,0 +1,8 @@
+BATCH,,201111,B,7330.8000,
+INVOICE,IN,,01510178,,11/11/2011,2758.8000,"Invoice-Private",,11/11/2011,11/11/2011,,01514101MO,-1813.2000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,930.0000,930.00,"CR:Limited Term Di... E.Meyer 201111: Meyer, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,12,81.0000,972.00,"Basic Service Fee - Studio for Nov: Meyer, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,12,71.4000,856.80,"Resident Care - Level 42 for Nov: Meyer, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,01510178,,11/11/2011,4572,"Invoice-Private",,11/11/2011,11/11/2011,,01514101MO,-1813.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2430,2430,"CR:Basic Service F... E.Meyer 201111: Meyer, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,2142,2142,"CR:Resident Care -... E.Meyer 201111: Meyer, Elizabeth",,,,,,,,,,,,,,,

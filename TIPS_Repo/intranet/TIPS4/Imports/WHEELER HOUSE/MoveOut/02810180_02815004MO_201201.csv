@@ -1,0 +1,7 @@
+BATCH,,201201,B,7112.0000,
+INVOICE,IN,,02810180,,01/01/2012,3175.0000,"Invoice-Private",,01/01/2012,01/10/2012,,02815004MO,-4445.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,25,113.0000,2825.00,"Basic Service Fee - Studio for Jan: Hinson, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,25,14.0000,350.00,"Resident Care - Level 1 for Jan: Hinson, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,02810180,,01/01/2012,3937,"Invoice-Private",,01/01/2012,01/10/2012,,02815004MO,-4445.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3503,3503,"CR:Basic Service F... C.Hinson 201201: Hinson, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,434,434,"CR:Resident Care -... C.Hinson 201201: Hinson, Carolyn",,,,,,,,,,,,,,,

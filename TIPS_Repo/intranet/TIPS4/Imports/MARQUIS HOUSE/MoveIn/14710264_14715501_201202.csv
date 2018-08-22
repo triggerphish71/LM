@@ -1,0 +1,5 @@
+BATCH,,201202,B,4282.0000,
+INVOICE,IN,,14710264,,02/10/2012,4282.0000,"MoveIn-Brownfield. Richard",,02/10/2012,02/10/2012,,14715501,4282.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,20,102.0000,2040,"Basic Service Fee - Studio: Brownfield. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: Brownfield. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310147,1,2200.0000,2200,"New Resident Fee: Brownfield. Richard",,,,,,,,,,,,,,,

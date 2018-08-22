@@ -1,0 +1,5 @@
+BATCH,,201107,B,3605.0000,
+INVOICE,IN,,11810179,,07/01/2011,3605.0000,"July_Rent-Semon. John",,07/01/2011,07/10/2011,,11814853,6565.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,31,96.0000,2976,"J.Semon: Basic Service Fee - Studio: Semon. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,31,19.0000,589,"J.Semon: Resident Care - Level 1: Semon. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: Semon. John",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,2828.0000,
+INVOICE,IN,,16110214,,01/01/2012,50.0000,"Invoice-Private",,01/01/2012,01/10/2012,,16115314MO,-2728.0000,,,,,,,,,,
+TRANSACTION,3150,010313161,1,50.0000,50.00,"Late Fee Adjustment: Charles, Sr., Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,16110214,,01/01/2012,2778,"Invoice-Private",,01/01/2012,01/10/2012,,16115314MO,-2728.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... R.Charles, Sr. 201201: Charles, Sr., Robert",,,,,,,,,,,,,,,
+TRANSACTION,3150,010313161,1,50,50,"Late Fee Adjustment: Charles, Sr., Robert",,,,,,,,,,,,,,,

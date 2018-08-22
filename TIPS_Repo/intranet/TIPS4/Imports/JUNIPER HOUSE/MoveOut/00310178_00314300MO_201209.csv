@@ -1,0 +1,7 @@
+BATCH,,201209,B,554.0000,
+INVOICE,IN,,00310178,,09/01/2012,277.0000,"Invoice-Private",,09/01/2012,09/10/2012,,00314300MO,-2312.1100,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27.00,"Monthly Cable: Jensen, Ivan",,,,,,,,,,,,,,,
+TRANSACTION,1113,010101003,1,250.0000,250.00,"Monthly Deferral Charge: Jensen, Ivan",,,,,,,,,,,,,,,
+INVOICE,CM,,00310178,,09/01/2012,277,"Invoice-Private",,09/01/2012,09/10/2012,,00314300MO,-2312.1100,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"Credit for Monthly Cable: Jensen, Ivan",,,,,,,,,,,,,,,
+TRANSACTION,1113,010101003,1,250,250,"Credit for Monthly Deferral Charge: Jensen, Ivan",,,,,,,,,,,,,,,

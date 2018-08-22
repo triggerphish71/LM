@@ -1,0 +1,6 @@
+BATCH,,201806,B,7360.0000,
+INVOICE,IN,,14610392,,06/05/2018,610.0000,"Invoice-Private",,06/05/2018,06/05/2018,,14617663MO,-6140.0000,,,,,,,,,,
+TRANSACTION,3020,010009146,5,122.0000,610.00,"Basic Service Fee - One Bedroom for Jun: Faulkner, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,14610392,,06/05/2018,6750,"Invoice-Private",,06/05/2018,06/05/2018,,14617663MO,-6140.0000,,,,,,,,,,
+TRANSACTION,3020,010009146,1,3660,3660,"CR:Basic Service F... L.Faulkner 201806: Faulkner, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009146,1,3090,3090,"CR:Resident Care -... L.Faulkner 201806: Faulkner, Lois",,,,,,,,,,,,,,,

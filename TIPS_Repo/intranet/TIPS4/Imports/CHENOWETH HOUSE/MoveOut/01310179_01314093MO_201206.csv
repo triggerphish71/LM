@@ -1,0 +1,7 @@
+BATCH,,201206,B,1376.0000,
+INVOICE,IN,,01310179,,06/01/2012,688.0000,"Invoice-Private",,06/01/2012,06/10/2012,,01314093MO,-4596.5500,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Hutteball, Max",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103013,30,22.0000,660.00,"Credit for Limited Term Discount: Hutteball, Max",,,,,,,,,,,,,,,
+INVOICE,CM,,01310179,,06/01/2012,688,"Invoice-Private",,06/01/2012,06/10/2012,,01314093MO,-4596.5500,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Hutteball, Max",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103013,30,22,660,"Limited Term Discount: Hutteball, Max",,,,,,,,,,,,,,,

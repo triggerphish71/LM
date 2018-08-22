@@ -1,0 +1,8 @@
+BATCH,,201108,B,3913.0000,
+INVOICE,IN,,03310251,,08/01/2011,540.0000,"Invoice-Private",,08/01/2011,08/01/2011,,03315967MO,-2833.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,5,91.0000,455.00,"Basic Service Fee - Studio for Aug: Nichols, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,5,17.0000,85.00,"Resident Care - Level 1 for Aug: Nichols, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,03310251,,08/01/2011,3373,"Invoice-Private",,08/01/2011,08/01/2011,,03315967MO,-2833.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2821,2821,"CR:Basic Service F... B.Nichols 201108: Nichols, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... B.Nichols 201108: Nichols, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... B.Nichols 201108: Nichols, Barbara",,,,,,,,,,,,,,,

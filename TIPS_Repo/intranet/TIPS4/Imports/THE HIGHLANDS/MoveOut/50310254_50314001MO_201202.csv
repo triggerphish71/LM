@@ -1,0 +1,8 @@
+BATCH,,201202,B,4119.0000,
+INVOICE,IN,,50310254,,02/01/2012,1219.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50314001MO,-1681.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,319.0000,319.00,"CR:Limited Term Di... J.Foley 201202: Foley, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,9,75.0000,675.00,"Basic Service Fee - Studio for Feb: Foley, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,9,25.0000,225.00,"Resident Care - Level 2 for Feb: Foley, James",,,,,,,,,,,,,,,
+INVOICE,CM,,50310254,,02/01/2012,2900,"Invoice-Private",,02/01/2012,02/10/2012,,50314001MO,-1681.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2175,2175,"CR:Basic Service F... J.Foley 201202: Foley, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,725,725,"CR:Resident Care -... J.Foley 201202: Foley, James",,,,,,,,,,,,,,,

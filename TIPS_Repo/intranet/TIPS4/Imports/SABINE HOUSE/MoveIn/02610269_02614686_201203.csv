@@ -1,0 +1,6 @@
+BATCH,,201203,B,4997.0000,
+INVOICE,IN,,02610269,,03/01/2012,4997.0000,"MoveIn-Richardson. Shirley",,03/01/2012,03/01/2012,,02614686,4997.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,31,97.0000,3007,"Basic Service Fee - Studio: Richardson. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,31,23.0000,713,"Resident Care - Level 2: Richardson. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Richardson. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1250.0000,1250,"New Resident Fee: Richardson. Shirley",,,,,,,,,,,,,,,

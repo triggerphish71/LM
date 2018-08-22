@@ -1,0 +1,5 @@
+BATCH,,201205,B,3094.0000,
+INVOICE,IN,,18910300,,05/01/2012,3094.0000,"May_Rent-Lasota. Angela",,05/01/2012,05/10/2012,,18915218,6104.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,31,89.0000,2759,"Basic Service Fee - Studio: Lasota. Angela",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Lasota. Angela",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310,"CC Meals: Lasota. Angela",,,,,,,,,,,,,,,

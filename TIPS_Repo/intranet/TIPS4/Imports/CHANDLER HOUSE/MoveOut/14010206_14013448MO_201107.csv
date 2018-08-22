@@ -1,0 +1,5 @@
+BATCH,,201107,B,1860.0000,
+INVOICE,IN,,14010206,,07/01/2011,930.0000,"Invoice-Private",,07/01/2011,07/10/2011,,14013448MO,-1645.0000,,,,,,,,,,
+TRANSACTION,3321,010309140,31,30.0000,930.00,"Credit for 2nd Resident Free Discount: Grawcock, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,14010206,,07/01/2011,930,"Invoice-Private",,07/01/2011,07/10/2011,,14013448MO,-1645.0000,,,,,,,,,,
+TRANSACTION,3321,010309140,31,30,930,"2nd Resident Free Discount: Grawcock, Bonnie",,,,,,,,,,,,,,,

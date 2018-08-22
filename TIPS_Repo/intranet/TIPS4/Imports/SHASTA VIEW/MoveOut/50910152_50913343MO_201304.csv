@@ -1,0 +1,5 @@
+BATCH,,201304,B,3416.0000,
+INVOICE,IN,,50910152,,04/15/2013,1586.0000,"Invoice-Private",,04/15/2013,04/15/2013,,50913343MO,-2135.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,26,61.0000,1586.00,"Room and Board - One Bedroom for Apr: Hedin, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,50910152,,04/15/2013,1830,"Invoice-Private",,04/15/2013,04/15/2013,,50913343MO,-2135.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1830,1830,"CR:Room and Board ... E.Hedin 201304: Hedin, Elizabeth",,,,,,,,,,,,,,,

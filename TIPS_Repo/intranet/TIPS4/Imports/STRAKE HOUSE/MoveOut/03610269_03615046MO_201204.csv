@@ -1,0 +1,5 @@
+BATCH,,201204,B,1080.0000,
+INVOICE,IN,,03610269,,04/01/2012,540.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03615046MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,30,18.0000,540.00,"Credit for Limited Term Discount: Gewecke, Lula",,,,,,,,,,,,,,,
+INVOICE,CM,,03610269,,04/01/2012,540,"Invoice-Private",,04/01/2012,04/10/2012,,03615046MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,30,18,540,"Limited Term Discount: Gewecke, Lula",,,,,,,,,,,,,,,

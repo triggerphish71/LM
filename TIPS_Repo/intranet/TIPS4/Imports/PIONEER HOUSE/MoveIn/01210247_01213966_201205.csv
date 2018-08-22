@@ -1,0 +1,5 @@
+BATCH,,201205,B,3551.8400,
+INVOICE,IN,,01210247,,05/01/2012,3551.8400,"May_Rent-Stacey. John",,05/01/2012,05/10/2012,,01213966,5535.4000,,,,,,,,,,
+TRANSACTION,3010,010103012,31,85.0000,2635,"J.Stacey: Basic Service Fee - Studio: Stacey. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,31,28.6400,887.84,"J.Stacey: Resident Care - Level 16: Stacey. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Stacey. John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,3658.0000,
+INVOICE,IN,,21610142,,12/01/2011,1829.0000,"Invoice-Private",,12/01/2011,12/10/2011,,21613181MO,570.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,59.0000,1829.00,"Credit for Limited Term Discount: Leber, Elvira",,,,,,,,,,,,,,,
+INVOICE,CM,,21610142,,12/01/2011,1829,"Invoice-Private",,12/01/2011,12/10/2011,,21613181MO,570.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,59,1829,"Limited Term Discount: Leber, Elvira",,,,,,,,,,,,,,,

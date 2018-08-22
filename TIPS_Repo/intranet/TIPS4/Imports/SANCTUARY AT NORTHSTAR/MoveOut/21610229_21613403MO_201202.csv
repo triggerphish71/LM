@@ -1,0 +1,7 @@
+BATCH,,201202,B,7509.6000,
+INVOICE,IN,,21610229,,02/27/2012,3620.7000,"Invoice-Private",,02/27/2012,02/27/2012,,21613403MO,-4425.3000,,,,,,,,,,
+TRANSACTION,3027,010216216,27,62.0000,1674.00,"Resident Care - Level 6 for Feb: Phillips, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,27,72.1000,1946.70,"Room and Board - Companion One Bedroom for Feb: Phillips, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,21610229,,02/27/2012,3888.9,"Invoice-Private",,02/27/2012,02/27/2012,,21613403MO,-4425.3000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1798,1798,"CR:Resident Care -... J.Phillips 201202: Phillips, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2090.9,2090.9,"CR:Room and Board ... J.Phillips 201202: Phillips, Joyce",,,,,,,,,,,,,,,

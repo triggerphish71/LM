@@ -1,0 +1,8 @@
+BATCH,,201108,B,8612.9000,
+INVOICE,IN,,06110193,,08/22/2011,4046.6000,"Invoice-Private",,08/22/2011,08/22/2011,,06113704MO,-4158.7000,,,,,,,,,,
+TRANSACTION,3320,010103061,1,806.0000,806.00,"CR:Limited Term Di... F.Haglund 201108: Haglund, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,22,66.3000,1458.60,"Resident Care - Level 39 for Aug: Haglund, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,22,81.0000,1782.00,"Room and Board - Studio for Aug: Haglund, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,06110193,,08/22/2011,4566.3,"Invoice-Private",,08/22/2011,08/22/2011,,06113704MO,-4158.7000,,,,,,,,,,
+TRANSACTION,3027,010103061,1,2055.3,2055.3,"CR:Resident Care -... F.Haglund 201108: Haglund, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2511,2511,"CR:Room and Board ... F.Haglund 201108: Haglund, Francis",,,,,,,,,,,,,,,

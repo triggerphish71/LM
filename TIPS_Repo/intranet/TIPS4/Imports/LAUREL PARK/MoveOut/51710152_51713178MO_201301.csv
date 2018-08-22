@@ -1,0 +1,8 @@
+BATCH,,201301,B,5076.8400,
+INVOICE,IN,,51710152,,01/01/2013,1147.0000,"Invoice-Private",,01/01/2013,01/10/2013,,51713178MO,-2782.8400,,,,,,,,,,
+TRANSACTION,3320,010103517,1,1147.0000,1147.00,"CR:Limited Term Di... B.Bretches 201301: Bretches, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,51710152,,01/01/2013,3929.84,"Invoice-Private",,01/01/2013,01/10/2013,,51713178MO,-2782.8400,,,,,,,,,,
+TRANSACTION,3020,010103517,1,3007,3007,"CR:Basic Service F... B.Bretches 201301: Bretches, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"CR:Monthly Cable... B.Bretches 201301: Bretches, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"CR:Pendant Fee... B.Bretches 201301: Bretches, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,887.84,887.84,"CR:Resident Care -... B.Bretches 201301: Bretches, Barbara",,,,,,,,,,,,,,,

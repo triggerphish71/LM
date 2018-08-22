@@ -1,0 +1,7 @@
+BATCH,,201206,B,5218.0000,
+INVOICE,IN,,09410296,,06/11/2012,1408.0000,"Invoice-Private",,06/11/2012,06/11/2012,,09415968MO,-2402.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,11,98.0000,1078.00,"Basic Service Fee - Studio for Jun: James, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,11,30.0000,330.00,"Service : lvl 0 to lvl 2 - 6/2/12 for Jun: James, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,09410296,,06/11/2012,3810,"Invoice-Private",,06/11/2012,06/11/2012,,09415968MO,-2402.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2940,2940,"CR:Basic Service F... R.James 201206: James, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,870,870,"CR:Service : lvl 0... R.James 201206: James, Robert",,,,,,,,,,,,,,,

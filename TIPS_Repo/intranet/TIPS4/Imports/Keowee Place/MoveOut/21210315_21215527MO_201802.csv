@@ -1,0 +1,5 @@
+BATCH,,201802,B,88.0000,
+INVOICE,IN,,21210315,,02/01/2018,44.0000,"Invoice-Private",,02/01/2018,02/10/2018,,21215527MO,-506.0000,,,,,,,,,,
+TRANSACTION,3260,010008212,1,44.0000,44.00,"Monthly Cable: Michael, Andy",,,,,,,,,,,,,,,
+INVOICE,CM,,21210315,,02/01/2018,44,"Invoice-Private",,02/01/2018,02/10/2018,,21215527MO,-506.0000,,,,,,,,,,
+TRANSACTION,3260,010008212,1,44,44,"Credit for Monthly Cable: Michael, Andy",,,,,,,,,,,,,,,

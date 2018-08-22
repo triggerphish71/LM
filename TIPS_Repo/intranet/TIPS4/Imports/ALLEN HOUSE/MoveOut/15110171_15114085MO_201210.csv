@@ -1,0 +1,7 @@
+BATCH,,201210,B,5147.8000,
+INVOICE,IN,,15110171,,10/10/2012,1640.8000,"Invoice-Private",,10/10/2012,10/10/2012,,15114085MO,-1866.2000,,,,,,,,,,
+TRANSACTION,3316,010212151,1,520.8000,520.80,"CR:Employee Discou... V.Petersen 201210: Petersen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212151,10,112.0000,1120.00,"Basic Service Fee- One Bedroom Prem for Oct: Petersen, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,15110171,,10/10/2012,3507,"Invoice-Private",,10/10/2012,10/10/2012,,15114085MO,-1866.2000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,3472,3472,"CR:Basic Service F... V.Petersen 201210: Petersen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... V.Petersen 201210: Petersen, Virginia",,,,,,,,,,,,,,,

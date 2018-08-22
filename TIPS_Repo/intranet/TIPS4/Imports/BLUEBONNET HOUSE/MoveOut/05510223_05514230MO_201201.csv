@@ -1,0 +1,7 @@
+BATCH,,201201,B,3030.0000,
+INVOICE,IN,,05510223,,01/01/2012,1515.0000,"Invoice-Private",,01/01/2012,01/10/2012,,05514230MO,299.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27.00,"Monthly Cable: Waggoner, Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202055,31,48.0000,1488.00,"Credit for Limited Term Discount: Waggoner, Carroll",,,,,,,,,,,,,,,
+INVOICE,CM,,05510223,,01/01/2012,1515,"Invoice-Private",,01/01/2012,01/10/2012,,05514230MO,299.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"Credit for Monthly Cable: Waggoner, Carroll",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202055,31,48,1488,"Limited Term Discount: Waggoner, Carroll",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,1674.0000,
+INVOICE,IN,,08110210,,03/01/2012,837.0000,"Invoice-Private",,03/01/2012,03/10/2012,,08114325MO,-2227.7500,,,,,,,,,,
+TRANSACTION,3320,010103081,31,27.0000,837.00,"Credit for Limited Term Discount: Siesling, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,08110210,,03/01/2012,837,"Invoice-Private",,03/01/2012,03/10/2012,,08114325MO,-2227.7500,,,,,,,,,,
+TRANSACTION,3320,010103081,31,27,837,"Limited Term Discount: Siesling, Joe",,,,,,,,,,,,,,,

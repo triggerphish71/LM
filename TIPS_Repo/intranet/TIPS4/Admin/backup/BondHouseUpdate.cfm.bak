@@ -1,0 +1,45 @@
+<!----------------------------------------------------------------------------------------------
+| DESCRIPTION   : This page is to Update the House with Bond House option as per Project 20125 |                                                                        |
+|----------------------------------------------------------------------------------------------|
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| STORED PROCEDURES                                                                            |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| INCLUDES                                                                                     |
+|----------------------------------------------------------------------------------------------|
+|   none                                                                                       |
+|----------------------------------------------------------------------------------------------|
+| HISTORY                                                                                      |
+|----------------------------------------------------------------------------------------------|
+| Author     | Date       | Description                                                        |
+|------------|------------|--------------------------------------------------------------------|
+| Sathya	 |06/06/08    | Added Flowerbox                                                    |
+|                                                                 |
+----------------------------------------------------------------------------------------------->
+
+
+
+<cfoutput >
+
+<cfquery name="BondHouse" datasource="#APPLICATION.datasource#">
+select * from House where dtRowDeleted is null
+<cfif IsDefined("form.iHouse_ID")>
+	<cfif form.iHouse_ID neq "">
+		and iHouse_ID = #form.iHouse_ID# 
+		<cfelseif IsDefined("url.ID")> and iHouse_ID = #form.iHouse_ID# 
+	</cfif>
+</cfif>		
+</cfquery> 
+
+
+	<!--- Update the tenantPromotionset Table with the entered Promotions --->
+	<cfquery name="BondHouseUpdate" datasource="#application.datasource#">
+		update House
+		set  iBondHouse = '#form.iBondhouse#'
+		where iHouse_ID = #url.id# 
+	</cfquery>
+
+<cflocation url="Menu.cfm" ADDTOKEN="No">
+</cfoutput>

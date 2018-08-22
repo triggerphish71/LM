@@ -1,0 +1,6 @@
+BATCH,,201301,B,4907.0000,
+INVOICE,IN,,14110209,,01/09/2013,2210.0000,"Invoice-Private",,01/09/2013,01/09/2013,,14113855MO,-487.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,1,992.0000,992.00,"CR:Limited Term Di... H.Cover 201301: Cover, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309141,14,87.0000,1218.00,"Room and Board - Studio for Jan: Cover, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,14110209,,01/09/2013,2697,"Invoice-Private",,01/09/2013,01/09/2013,,14113855MO,-487.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,2697,2697,"CR:Room and Board ... H.Cover 201301: Cover, Hazel",,,,,,,,,,,,,,,

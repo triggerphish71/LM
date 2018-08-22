@@ -1,0 +1,8 @@
+BATCH,,201109,B,5433.4000,
+INVOICE,IN,,05010186,,09/25/2011,2506.4000,"Invoice-Private",,09/25/2011,09/25/2011,,05013191MO,-3409.0000,,,,,,,,,,
+TRANSACTION,3020,010101050,26,76.0000,1976.00,"Basic Service Fee - Studio for Sep: Ritter, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,26,20.4000,530.40,"Resident Care - Level 12 for Sep: Ritter, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,05010186,,09/25/2011,2927,"Invoice-Private",,09/25/2011,09/25/2011,,05013191MO,-3409.0000,,,,,,,,,,
+TRANSACTION,3020,010101050,1,2280,2280,"CR:Basic Service F... K.Ritter 201109: Ritter, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101050,1,35,35,"CR:Monthly Cable... K.Ritter 201109: Ritter, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101050,1,612,612,"CR:Resident Care -... K.Ritter 201109: Ritter, Katherine",,,,,,,,,,,,,,,

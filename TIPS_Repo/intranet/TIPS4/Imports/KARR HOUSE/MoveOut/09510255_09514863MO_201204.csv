@@ -1,0 +1,7 @@
+BATCH,,201204,B,5481.0000,
+INVOICE,IN,,09510255,,04/15/2012,1827.0000,"Invoice-Private",,04/15/2012,04/15/2012,,09514863MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,15,86.0000,1290.00,"Basic Service Fee - Studio for Apr: Klock, Junior",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,15,35.8000,537.00,"Resident Care - Level 20 for Apr: Klock, Junior",,,,,,,,,,,,,,,
+INVOICE,CM,,09510255,,04/15/2012,3654,"Invoice-Private",,04/15/2012,04/15/2012,,09514863MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2580,2580,"CR:Basic Service F... J.Klock 201204: Klock, Junior",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,1074,1074,"CR:Resident Care -... J.Klock 201204: Klock, Junior",,,,,,,,,,,,,,,

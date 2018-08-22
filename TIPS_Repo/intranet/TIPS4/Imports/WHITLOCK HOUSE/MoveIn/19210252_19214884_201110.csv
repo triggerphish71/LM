@@ -1,0 +1,5 @@
+BATCH,,201110,B,6225.0000,
+INVOICE,IN,,19210252,,10/07/2011,6225.0000,"MoveIn-Newgent. Clara",,10/07/2011,10/07/2011,,19214884,6225.0000,,,,,,,,,,
+TRANSACTION,3010,010309192,25,114.0000,2850,"Basic Service Fee - Studio: Newgent. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,25,55.0000,1375,"Resident Care - Level 4: Newgent. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309192,1,2000.0000,2000,"New Resident Fee: Newgent. Clara",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,558.0000,
+INVOICE,IN,,21210111,,05/01/2012,279.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21212432MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,9.0000,279.00,"Credit for Limited Term Discount: Barnes, Sarah",,,,,,,,,,,,,,,
+INVOICE,CM,,21210111,,05/01/2012,279,"Invoice-Private",,05/01/2012,05/10/2012,,21212432MO,-2675.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,9,279,"Limited Term Discount: Barnes, Sarah",,,,,,,,,,,,,,,

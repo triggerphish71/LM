@@ -1,0 +1,6 @@
+BATCH,,201802,B,573.5400,
+INVOICE,IN,,13610326,,02/01/2018,536.7700,"Invoice-Private",,02/01/2018,02/10/2018,,13619496MO,3068.0000,,,,,,,,,,
+TRANSACTION,3260,010009136,1,36.7700,36.77,"Monthly Cable: Ausbrooks, Odie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009136,1,500.0000,500.00,"Deferred NRF Unpaid Balance: Ausbrooks, Odie",,,,,,,,,,,,,,,
+INVOICE,CM,,13610326,,02/01/2018,36.77,"Invoice-Private",,02/01/2018,02/10/2018,,13619496MO,3068.0000,,,,,,,,,,
+TRANSACTION,3260,010009136,1,36.77,36.77,"Credit for Monthly Cable: Ausbrooks, Odie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,3930.7400,
+INVOICE,IN,,01110301,,01/03/2013,3930.7400,"MoveIn-Cabantoy. Lillian",,01/03/2013,01/03/2013,,01113998,3930.7400,,,,,,,,,,
+TRANSACTION,3010,010101011,29,76.0000,2204,"Basic Service Fee - Studio: Cabantoy. Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,29,25.0600,726.74,"Resident Care - Level 14: Cabantoy. Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Cabantoy. Lillian",,,,,,,,,,,,,,,

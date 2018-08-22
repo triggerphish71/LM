@@ -1,0 +1,7 @@
+BATCH,,201111,B,126.0000,
+INVOICE,IN,,14410204,,11/01/2011,63.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14414853MO,-6348.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Lowe, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35.0000,35.00,"Pendant Fee: Lowe, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,14410204,,11/01/2011,63,"Invoice-Private",,11/01/2011,11/10/2011,,14414853MO,-6348.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Lowe, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308144,1,35,35,"Credit for Pendant Fee: Lowe, Donald",,,,,,,,,,,,,,,

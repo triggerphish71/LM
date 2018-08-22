@@ -1,0 +1,7 @@
+BATCH,,201211,B,2790.0000,
+INVOICE,IN,,53510208,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53514953MO,-3178.0000,,,,,,,,,,
+TRANSACTION,3320,010319535,1,60.0000,60.00,"CR:Limited Term Di... M.Strzyzewski 201211: Strzyzewski, Marion",,,,,,,,,,,,,,,
+INVOICE,CM,,53510208,,11/01/2012,2730,"Invoice-Private",,11/01/2012,11/10/2012,,53514953MO,-3178.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2220,2220,"CR:Basic Service F... M.Strzyzewski 201211: Strzyzewski, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... M.Strzyzewski 201211: Strzyzewski, Marion",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,480,480,"CR:Resident Care -... M.Strzyzewski 201211: Strzyzewski, Marion",,,,,,,,,,,,,,,

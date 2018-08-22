@@ -1,0 +1,7 @@
+BATCH,,201109,B,8268.0000,
+INVOICE,IN,,10110130,,09/23/2011,3588.0000,"Invoice-Private",,09/23/2011,09/23/2011,,10112105MO,-5928.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,23,91.0000,2093.00,"Basic Service Fee - Studio for Sep: Lewis, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,23,65.0000,1495.00,"Resident Care - Level 5 for Sep: Lewis, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,10110130,,09/23/2011,4680,"Invoice-Private",,09/23/2011,09/23/2011,,10112105MO,-5928.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,2730,2730,"CR:Basic Service F... H.Lewis 201109: Lewis, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,1950,1950,"CR:Resident Care -... H.Lewis 201109: Lewis, Harold",,,,,,,,,,,,,,,

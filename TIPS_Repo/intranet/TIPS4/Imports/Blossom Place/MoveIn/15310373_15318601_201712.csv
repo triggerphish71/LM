@@ -1,0 +1,6 @@
+BATCH,,201712,B,4987.8700,
+INVOICE,IN,,15310373,,12/24/2017,4987.8700,"MoveIn-Despain. Lee",,12/24/2017,12/24/2017,,15318601,4987.8700,,,,,,,,,,
+TRANSACTION,3010,010003153,17,90.0000,1530,"Basic Service Fee - Studio: Despain. Lee",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003153,8,98.9000,791.2,"Resident Care - Level 43: Despain. Lee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003153,1,2000.0000,2000,"Community Fee: Despain. Lee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003153,1,666.6700,666.67,"Monthly Deferral Charge: Despain. Lee",,,,,,,,,,,,,,,

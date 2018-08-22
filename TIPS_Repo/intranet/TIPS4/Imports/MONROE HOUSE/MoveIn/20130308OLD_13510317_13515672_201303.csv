@@ -1,0 +1,5 @@
+BATCH,,201303,B,4190.0000,
+INVOICE,IN,,13510317,,03/08/2013,4190.0000,"MoveIn-Clark. Helen",,03/08/2013,03/08/2013,,13515672,4190.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,24,90.0000,2160,"Basic Service Fee - Studio: Clark. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Clark. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,2000.0000,2000,"New Resident Fee: Clark. Helen",,,,,,,,,,,,,,,

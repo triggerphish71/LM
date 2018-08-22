@@ -1,0 +1,6 @@
+BATCH,,201208,B,3471.0000,
+INVOICE,IN,,14010118,,08/01/2012,713.0000,"Invoice-Private",,08/01/2012,08/10/2012,,14013881MO,-2242.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,1,713.0000,713.00,"CR:Limited Term Di... L.Cleland 201208: Cleland, LaVon",,,,,,,,,,,,,,,
+INVOICE,CM,,14010118,,08/01/2012,2758,"Invoice-Private",,08/01/2012,08/10/2012,,14013881MO,-2242.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2728,2728,"CR:Basic Service F... L.Cleland 201208: Cleland, LaVon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... L.Cleland 201208: Cleland, LaVon",,,,,,,,,,,,,,,

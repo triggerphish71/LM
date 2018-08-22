@@ -1,0 +1,7 @@
+BATCH,,201307,B,5192.0000,
+INVOICE,IN,,05110167,,07/09/2013,1534.0000,"Invoice-Private",,07/09/2013,07/09/2013,,05114755MO,-2124.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,13,101.0000,1313.00,"Basic Service Fee - Studio for Jul: Bradford, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,13,17.0000,221.00,"Resident Care - Level 1 for Jul: Bradford, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,05110167,,07/09/2013,3658,"Invoice-Private",,07/09/2013,07/09/2013,,05114755MO,-2124.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3131,3131,"CR:Basic Service F... V.Bradford 201307: Bradford, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,527,527,"CR:Resident Care -... V.Bradford 201307: Bradford, Virginia",,,,,,,,,,,,,,,

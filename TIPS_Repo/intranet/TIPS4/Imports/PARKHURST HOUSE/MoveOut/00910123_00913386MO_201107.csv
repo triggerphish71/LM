@@ -1,0 +1,7 @@
+BATCH,,201107,B,6224.4000,
+INVOICE,IN,,00910123,,07/26/2011,2839.2000,"Invoice-Private",,07/26/2011,07/26/2011,,00913386MO,-3931.2000,,,,,,,,,,
+TRANSACTION,3020,010101009,26,82.0000,2132.00,"Basic Service Fee - Studio for Jul: Cornett, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,26,27.2000,707.20,"Resident Care - Level 16 for Jul: Cornett, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,00910123,,07/26/2011,3385.2,"Invoice-Private",,07/26/2011,07/26/2011,,00913386MO,-3931.2000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2542,2542,"CR:Basic Service F... P.Cornett 201107: Cornett, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,843.2,843.2,"CR:Resident Care -... P.Cornett 201107: Cornett, Patricia",,,,,,,,,,,,,,,

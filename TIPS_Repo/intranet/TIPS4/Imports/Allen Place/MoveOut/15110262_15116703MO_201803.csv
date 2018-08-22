@@ -1,0 +1,5 @@
+BATCH,,201803,B,73.6000,
+INVOICE,IN,,15110262,,03/01/2018,36.8000,"Invoice-Private",,03/01/2018,03/10/2018,,15116703MO,-5275.6000,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.8000,36.80,"Monthly Cable: Stephenson, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,15110262,,03/01/2018,36.8,"Invoice-Private",,03/01/2018,03/10/2018,,15116703MO,-5275.6000,,,,,,,,,,
+TRANSACTION,3260,010012151,1,36.8,36.8,"Credit for Monthly Cable: Stephenson, Martha",,,,,,,,,,,,,,,

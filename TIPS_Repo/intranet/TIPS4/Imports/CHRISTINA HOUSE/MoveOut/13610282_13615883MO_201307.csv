@@ -1,0 +1,6 @@
+BATCH,,201307,B,4291.0000,
+INVOICE,IN,,13610282,,07/25/2013,1900.0000,"Invoice-Private",,07/25/2013,07/25/2013,,13615883MO,-2882.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,25,76.0000,1900.00,"Basic Service Fee- One Bedroom Prem for Jul: Black, Clarval",,,,,,,,,,,,,,,
+INVOICE,CM,,13610282,,07/25/2013,2391,"Invoice-Private",,07/25/2013,07/25/2013,,13615883MO,-2882.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2356,2356,"CR:Basic Service F... C.Black 201307: Black, Clarval",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... C.Black 201307: Black, Clarval",,,,,,,,,,,,,,,

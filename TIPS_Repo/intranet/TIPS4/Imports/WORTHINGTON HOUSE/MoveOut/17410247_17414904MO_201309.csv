@@ -1,0 +1,5 @@
+BATCH,,201309,B,1170.0000,
+INVOICE,IN,,17410247,,09/01/2013,585.0000,"Invoice-Private",,09/01/2013,09/10/2013,,17414904MO,-2862.0000,,,,,,,,,,
+TRANSACTION,3299,010309174,1,585.0000,585.00,"Credit for Ancillary Rent: Marksbary, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,17410247,,09/01/2013,585,"Invoice-Private",,09/01/2013,09/10/2013,,17414904MO,-2862.0000,,,,,,,,,,
+TRANSACTION,3299,010309174,1,585,585,"Ancillary Rent: Marksbary, Shirley",,,,,,,,,,,,,,,

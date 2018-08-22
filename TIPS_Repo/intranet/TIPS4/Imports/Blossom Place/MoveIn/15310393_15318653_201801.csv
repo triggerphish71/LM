@@ -1,0 +1,5 @@
+BATCH,,201801,B,5456.6700,
+INVOICE,IN,,15310393,,01/01/2018,5456.6700,"MoveIn-Mason. Bernice",,01/01/2018,01/01/2018,,15318653,5456.6700,,,,,,,,,,
+TRANSACTION,3010,010003153,31,90.0000,2790,"Basic Service Fee - Studio: Mason. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003153,1,2000.0000,2000,"Community Fee: Mason. Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010003153,1,666.6700,666.67,"Monthly Deferral Charge: Mason. Bernice",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,4512.0000,
+INVOICE,IN,,06810190,,02/01/2012,1351.0000,"Invoice-Private",,02/01/2012,02/10/2012,,06813796MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,261.0000,261.00,"CR:Limited Term Di... B.Smith 201202: Smith, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,10,93.0000,930.00,"Basic Service Fee - Deluxe for Feb: Smith, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,10,16.0000,160.00,"Resident Care - Level 1 for Feb: Smith, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,06810190,,02/01/2012,3161,"Invoice-Private",,02/01/2012,02/10/2012,,06813796MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2697,2697,"CR:Basic Service F... B.Smith 201202: Smith, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,464,464,"CR:Resident Care -... B.Smith 201202: Smith, Betty",,,,,,,,,,,,,,,

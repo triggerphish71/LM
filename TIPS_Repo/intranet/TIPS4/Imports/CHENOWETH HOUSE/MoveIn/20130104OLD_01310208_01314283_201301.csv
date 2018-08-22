@@ -1,0 +1,5 @@
+BATCH,,201301,B,3044.0000,
+INVOICE,IN,,01310208,,01/04/2013,3044.0000,"MoveIn-Adams. Alta",,01/04/2013,01/04/2013,,01314283,3044.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,28,72.0000,2016,"Basic Service Fee - Studio: Adams. Alta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Adams. Alta",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Adams. Alta",,,,,,,,,,,,,,,

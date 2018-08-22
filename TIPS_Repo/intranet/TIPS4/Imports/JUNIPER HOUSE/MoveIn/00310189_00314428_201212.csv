@@ -1,0 +1,6 @@
+BATCH,,201212,B,3055.0000,
+INVOICE,IN,,00310189,,12/12/2012,3055.0000,"MoveIn-Dorran. Randy",,12/12/2012,12/12/2012,,00314428,6225.4000,,,,,,,,,,
+TRANSACTION,3010,010101003,20,94.0000,1880,"Basic Service Fee - One Bedroom: Dorran. Randy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101003,20,7.4000,148,"Resident Care - Level 4: Dorran. Randy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Dorran. Randy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101003,1,1000.0000,1000,"New Resident Fee: Dorran. Randy",,,,,,,,,,,,,,,

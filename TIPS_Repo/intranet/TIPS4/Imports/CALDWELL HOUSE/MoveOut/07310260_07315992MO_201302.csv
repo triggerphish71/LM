@@ -1,0 +1,8 @@
+BATCH,,201302,B,9416.0000,
+INVOICE,IN,,07310260,,02/09/2013,4524.0000,"Invoice-Private",,02/09/2013,02/09/2013,,07315992MO,-368.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,26,97.0000,2522.00,"I.Kley: Basic Service Fee - Studio for Feb: Kley, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,26,77.0000,2002.00,"I.Kley: Resident Care - Level 5 for Feb: Kley, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,07310260,,02/09/2013,4892,"Invoice-Private",,02/09/2013,02/09/2013,,07315992MO,-368.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,2716,2716,"CR:I.Kley: Basic S... I.Kley 201302: Kley, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,2156,2156,"CR:I.Kley: Residen... I.Kley 201302: Kley, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... I.Kley 201302: Kley, Irene",,,,,,,,,,,,,,,

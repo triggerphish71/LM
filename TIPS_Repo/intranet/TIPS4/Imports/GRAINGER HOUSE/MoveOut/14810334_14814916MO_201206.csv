@@ -1,0 +1,7 @@
+BATCH,,201206,B,1260.0000,
+INVOICE,IN,,14810334,,06/01/2012,630.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14814916MO,-1481.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30.00,"Monthly Cable: Yost, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310148,30,20.0000,600.00,"Credit for Limited Term Discount: Yost, Sue",,,,,,,,,,,,,,,
+INVOICE,CM,,14810334,,06/01/2012,630,"Invoice-Private",,06/01/2012,06/10/2012,,14814916MO,-1481.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"Credit for Monthly Cable: Yost, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310148,30,20,600,"Limited Term Discount: Yost, Sue",,,,,,,,,,,,,,,

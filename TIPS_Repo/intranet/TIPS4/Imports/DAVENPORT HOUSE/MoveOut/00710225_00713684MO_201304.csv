@@ -1,0 +1,8 @@
+BATCH,,201304,B,2062.4500,
+INVOICE,IN,,00710225,,04/27/2013,354.1500,"Invoice-Private",,04/27/2013,04/27/2013,,00713684MO,-5013.7000,,,,,,,,,,
+TRANSACTION,3020,010101007,3,94.0000,282.00,"Basic Service Fee - One Bedroom for Apr: Kuenzi, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,3,24.0500,72.15,"Resident Care - Level 13 for Apr: Kuenzi, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,00710225,,04/27/2013,1708.3,"Invoice-Private",,04/27/2013,04/27/2013,,00713684MO,-5013.7000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,564,564,"CR:Basic Service F... E.Kuenzi 201304: Kuenzi, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000,1000,"CR:New Resident Fe... E.Kuenzi 201304: Kuenzi, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,144.3,144.3,"CR:Resident Care -... E.Kuenzi 201304: Kuenzi, Elizabeth",,,,,,,,,,,,,,,

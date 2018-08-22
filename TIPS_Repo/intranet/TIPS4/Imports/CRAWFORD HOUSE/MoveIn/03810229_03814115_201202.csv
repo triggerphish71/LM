@@ -1,0 +1,6 @@
+BATCH,,201202,B,4876.2800,
+INVOICE,IN,,03810229,,02/01/2012,4876.2800,"MoveIn-Orr. Nova",,02/01/2012,02/01/2012,,03814115,4876.2800,,,,,,,,,,
+TRANSACTION,3010,010103038,29,84.0000,2436,"Basic Service Fee - Studio: Orr. Nova",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,29,14.3200,415.28,"Resident Care - Level 8: Orr. Nova",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Orr. Nova",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Orr. Nova",,,,,,,,,,,,,,,

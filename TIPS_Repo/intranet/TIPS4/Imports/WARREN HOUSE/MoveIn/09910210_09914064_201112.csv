@@ -1,0 +1,5 @@
+BATCH,,201112,B,3665.0000,
+INVOICE,IN,,09910210,,12/02/2011,3665.0000,"MoveIn-Nephew. Steve",,12/02/2011,12/02/2011,,09914064,3665.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,30,88.0000,2640,"S.Nephew: Basic Service Fee - Studio: Nephew. Steve",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Nephew. Steve",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,1000.0000,1000,"New Resident Fee: Nephew. Steve",,,,,,,,,,,,,,,

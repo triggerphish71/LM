@@ -1,0 +1,8 @@
+BATCH,,201204,B,3634.0000,
+INVOICE,IN,,13510276,,04/01/2012,424.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13515118MO,-2786.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,4,90.0000,360.00,"Basic Service Fee - Studio for Apr: Jester, May",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,4,16.0000,64.00,"Resident Care - Level 1 for Apr: Jester, May",,,,,,,,,,,,,,,
+INVOICE,CM,,13510276,,04/01/2012,3210,"Invoice-Private",,04/01/2012,04/10/2012,,13515118MO,-2786.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2700,2700,"CR:Basic Service F... M.Jester 201204: Jester, May",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... M.Jester 201204: Jester, May",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,480,480,"CR:Resident Care -... M.Jester 201204: Jester, May",,,,,,,,,,,,,,,

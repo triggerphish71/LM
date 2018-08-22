@@ -1,0 +1,7 @@
+BATCH,,201301,B,6975.0000,
+INVOICE,IN,,15810311,,01/06/2013,2170.0000,"Invoice-Private",,01/06/2013,01/06/2013,,15814869MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,14,96.0000,1344.00,"Basic Service Fee - Studio for Jan: Komasinski, Emanuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,14,59.0000,826.00,"Resident Care - Level 4 for Jan: Komasinski, Emanuel",,,,,,,,,,,,,,,
+INVOICE,CM,,15810311,,01/06/2013,4805,"Invoice-Private",,01/06/2013,01/06/2013,,15814869MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... E.Komasinski 201301: Komasinski, Emanuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,1829,1829,"CR:Resident Care -... E.Komasinski 201301: Komasinski, Emanuel",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,7161.0000,
+INVOICE,IN,,01310167,,06/25/2011,3255.0000,"Invoice-Private",,06/25/2011,06/25/2011,,01313896MO,-4715.2000,,,,,,,,,,
+TRANSACTION,3020,010103013,25,69.0000,1725.00,"Basic Service Fee - Studio for Jun: Leiske, Tillman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,25,61.2000,1530.00,"Resident Care - Level 36 for Jun: Leiske, Tillman",,,,,,,,,,,,,,,
+INVOICE,CM,,01310167,,06/25/2011,3906,"Invoice-Private",,06/25/2011,06/25/2011,,01313896MO,-4715.2000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2070,2070,"CR:Basic Service F... T.Leiske 201106: Leiske, Tillman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1836,1836,"CR:Resident Care -... T.Leiske 201106: Leiske, Tillman",,,,,,,,,,,,,,,

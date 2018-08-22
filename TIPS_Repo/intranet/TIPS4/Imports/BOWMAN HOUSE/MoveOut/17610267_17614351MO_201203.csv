@@ -1,0 +1,8 @@
+BATCH,,201203,B,4680.0000,
+INVOICE,IN,,17610267,,03/07/2012,805.0000,"Invoice-Private",,03/07/2012,03/07/2012,,17614351MO,-3070.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,7,73.0000,511.00,"Basic Service Fee - Studio for Mar: Jacobs, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,7,42.0000,294.00,"Resident Care - Level 3 for Mar: Jacobs, Jeanette",,,,,,,,,,,,,,,
+INVOICE,CM,,17610267,,03/07/2012,3875,"Invoice-Private",,03/07/2012,03/07/2012,,17614351MO,-3070.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... J.Jacobs 201203: Jacobs, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... J.Jacobs 201203: Jacobs, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1302,1302,"CR:Resident Care -... J.Jacobs 201203: Jacobs, Jeanette",,,,,,,,,,,,,,,

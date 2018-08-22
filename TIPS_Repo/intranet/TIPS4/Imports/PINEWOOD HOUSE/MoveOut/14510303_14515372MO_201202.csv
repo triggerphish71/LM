@@ -1,0 +1,7 @@
+BATCH,,201202,B,7050.0000,
+INVOICE,IN,,14510303,,02/21/2012,2961.0000,"Invoice-Private",,02/21/2012,02/21/2012,,14515372MO,-5499.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,21,99.0000,2079.00,"Basic Service Fee - Studio for Feb: Savela, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,21,42.0000,882.00,"Resident Care - Level 3 for Feb: Savela, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,14510303,,02/21/2012,4089,"Invoice-Private",,02/21/2012,02/21/2012,,14515372MO,-5499.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2871,2871,"CR:Basic Service F... J.Savela 201202: Savela, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1218,1218,"CR:Resident Care -... J.Savela 201202: Savela, Jerry",,,,,,,,,,,,,,,

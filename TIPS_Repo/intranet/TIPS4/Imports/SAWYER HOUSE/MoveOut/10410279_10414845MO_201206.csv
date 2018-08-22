@@ -1,0 +1,8 @@
+BATCH,,201206,B,6350.9600,
+INVOICE,IN,,10410279,,06/01/2012,146.0700,"Invoice-Private",,06/01/2012,06/01/2012,,10414845MO,-6058.8200,,,,,,,,,,
+TRANSACTION,3020,010101104,1,87.0000,87.00,"Basic Service Fee - Studio for Jun: Peterson, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,59.0700,59.07,"Service : lvl 0 to lvl 33 - 6/4/12 for Jun: Peterson, Cleo",,,,,,,,,,,,,,,
+INVOICE,CM,,10410279,,06/01/2012,6204.89,"Invoice-Private",,06/01/2012,06/01/2012,,10414845MO,-6058.8200,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2610,2610,"CR:Basic Service F... C.Peterson 201206: Peterson, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101104,1,2000,2000,"CR:New Resident Fe... C.Peterson 201206: Peterson, Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,1594.89,1594.89,"CR:Service : lvl 0... C.Peterson 201206: Peterson, Cleo",,,,,,,,,,,,,,,

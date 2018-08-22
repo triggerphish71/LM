@@ -1,0 +1,8 @@
+BATCH,,201801,B,5373.0700,
+INVOICE,IN,,14610412,,01/01/2018,4014.0000,"Invoice-Private",,01/01/2018,01/10/2018,,14617385MO,-489.0700,,,,,,,,,,
+TRANSACTION,3216,010009146,1,2654.9300,2654.93,"Community Fee Unpaid Balance: Drabek, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009146,1,31.6000,31.60,"Monthly Cable: Drabek, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,1327.4700,1327.47,"Community Fee Installment Charge: Drabek, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14610412,,01/01/2018,1359.07,"Invoice-Private",,01/01/2018,01/10/2018,,14617385MO,-489.0700,,,,,,,,,,
+TRANSACTION,3260,010009146,1,31.6,31.6,"Credit for Monthly Cable: Drabek, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,1327.47,1327.47,"Credit for Community Fee Installment Charge: Drabek, Mary",,,,,,,,,,,,,,,

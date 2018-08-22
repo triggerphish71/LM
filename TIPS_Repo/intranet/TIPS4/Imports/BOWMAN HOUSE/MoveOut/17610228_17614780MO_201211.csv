@@ -1,0 +1,8 @@
+BATCH,,201211,B,5551.0000,
+INVOICE,IN,,17610228,,11/29/2012,2581.0000,"Invoice-Private",,11/29/2012,11/29/2012,,17614780MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,29,73.0000,2117.00,"Basic Service Fee - Studio for Nov: Weiderman, Nelvina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,29,16.0000,464.00,"Resident Care - Level 1 for Nov: Weiderman, Nelvina",,,,,,,,,,,,,,,
+INVOICE,CM,,17610228,,11/29/2012,2970,"Invoice-Private",,11/29/2012,11/29/2012,,17614780MO,-3458.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2190,2190,"CR:Basic Service F... N.Weiderman 201211: Weiderman, Nelvina",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... N.Weiderman 201211: Weiderman, Nelvina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,480,480,"CR:Resident Care -... N.Weiderman 201211: Weiderman, Nelvina",,,,,,,,,,,,,,,

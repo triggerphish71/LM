@@ -1,0 +1,7 @@
+BATCH,,201203,B,5635.0000,
+INVOICE,IN,,14510315,,03/18/2012,2070.0000,"Invoice-Private",,03/18/2012,03/18/2012,,14515417MO,-4945.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,18,99.0000,1782.00,"Basic Service Fee - Studio for Mar: Johnson, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,18,16.0000,288.00,"Resident Care - Level 1 for Mar: Johnson, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,14510315,,03/18/2012,3565,"Invoice-Private",,03/18/2012,03/18/2012,,14515417MO,-4945.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,3069,3069,"CR:Basic Service F... T.Johnson 201203: Johnson, Theresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,496,496,"CR:Resident Care -... T.Johnson 201203: Johnson, Theresa",,,,,,,,,,,,,,,

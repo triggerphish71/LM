@@ -1,0 +1,7 @@
+BATCH,,201306,B,7604.0000,
+INVOICE,IN,,03310392,,06/14/2013,3618.0000,"Invoice-Private",,06/14/2013,06/14/2013,,03317315MO,-4522.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,27,117.0000,3159.00,"Basic Service Fee - One Bedroom for Jun: Wood, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,27,17.0000,459.00,"Resident Care Level Change for Jun: Wood, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,03310392,,06/14/2013,3986,"Invoice-Private",,06/14/2013,06/14/2013,,03317315MO,-4522.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3510,3510,"CR:Basic Service F... C.Wood 201306: Wood, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,476,476,"CR:Resident Care L... C.Wood 201306: Wood, Carol",,,,,,,,,,,,,,,

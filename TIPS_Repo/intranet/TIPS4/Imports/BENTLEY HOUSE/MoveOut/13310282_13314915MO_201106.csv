@@ -1,0 +1,7 @@
+BATCH,,201106,B,190.0000,
+INVOICE,IN,,13310282,,06/01/2011,95.0000,"Invoice-Private",,06/01/2011,06/10/2011,,13314915MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Liro, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,2.0000,60.00,"Credit for Limited Term Discount: Liro, Anthony",,,,,,,,,,,,,,,
+INVOICE,CM,,13310282,,06/01/2011,95,"Invoice-Private",,06/01/2011,06/10/2011,,13314915MO,-3340.0000,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Liro, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310133,30,2,60,"Limited Term Discount: Liro, Anthony",,,,,,,,,,,,,,,

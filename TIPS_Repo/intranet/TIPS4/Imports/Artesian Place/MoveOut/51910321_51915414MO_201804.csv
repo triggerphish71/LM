@@ -1,0 +1,7 @@
+BATCH,,201804,B,4723.2000,
+INVOICE,IN,,51910321,,04/06/2018,787.2000,"Invoice-Private",,04/06/2018,04/06/2018,,51915414MO,-3148.8000,,,,,,,,,,
+TRANSACTION,3020,010003519,6,76.0000,456.00,"Basic Service Fee - One Bedroom  for Apr: York, Jacqualine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003519,6,55.2000,331.20,"Resident Care - Level 24  for Apr: York, Jacqualine",,,,,,,,,,,,,,,
+INVOICE,CM,,51910321,,04/06/2018,3936,"Invoice-Private",,04/06/2018,04/06/2018,,51915414MO,-3148.8000,,,,,,,,,,
+TRANSACTION,3020,010003519,1,2280,2280,"CR:Basic Service F... J.York 201804: York, Jacqualine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003519,1,1656,1656,"CR:Resident Care -... J.York 201804: York, Jacqualine",,,,,,,,,,,,,,,

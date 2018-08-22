@@ -1,0 +1,5 @@
+BATCH,,201306,B,5530.0000,
+INVOICE,IN,,11810212,,06/01/2013,5530.0000,"June_Rent-McCormick. Esther",,06/01/2013,06/10/2013,,11815903,7400.0000,,,,,,,,,,
+TRANSACTION,3010,010310118,30,102.0000,3060,"Basic Service Fee - Studio: McCormick. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310118,30,81.0000,2430,"Resident Care - Level 6: McCormick. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40,"Monthly Cable: McCormick. Esther",,,,,,,,,,,,,,,

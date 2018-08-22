@@ -1,0 +1,7 @@
+BATCH,,201210,B,3838.0000,
+INVOICE,IN,,18910306,,10/01/2012,744.0000,"Invoice-Private",,10/01/2012,10/10/2012,,18915455MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3320,010315189,1,744.0000,744.00,"CR:Limited Term Di... M.Brower 201210: Brower, Margret",,,,,,,,,,,,,,,
+INVOICE,CM,,18910306,,10/01/2012,3094,"Invoice-Private",,10/01/2012,10/10/2012,,18915455MO,-3290.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,2759,2759,"CR:Basic Service F... M.Brower 201210: Brower, Margret",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,310,310,"CR:CC Meals... M.Brower 201210: Brower, Margret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"CR:Monthly Cable... M.Brower 201210: Brower, Margret",,,,,,,,,,,,,,,

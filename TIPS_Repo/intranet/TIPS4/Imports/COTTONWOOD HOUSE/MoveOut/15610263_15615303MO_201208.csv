@@ -1,0 +1,6 @@
+BATCH,,201208,B,4240.0000,
+INVOICE,IN,,15610263,,08/04/2012,1171.0000,"Invoice-Private",,08/04/2012,08/04/2012,,15615303MO,-1898.0000,,,,,,,,,,
+TRANSACTION,3320,010211156,1,775.0000,775.00,"CR:Limited Term Di... V.Whitefoot 201208: Whitefoot, Venus",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211156,4,99.0000,396.00,"Basic Service Fee - Deluxe for Aug: Whitefoot, Venus",,,,,,,,,,,,,,,
+INVOICE,CM,,15610263,,08/04/2012,3069,"Invoice-Private",,08/04/2012,08/04/2012,,15615303MO,-1898.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3069,3069,"CR:Basic Service F... V.Whitefoot 201208: Whitefoot, Venus",,,,,,,,,,,,,,,

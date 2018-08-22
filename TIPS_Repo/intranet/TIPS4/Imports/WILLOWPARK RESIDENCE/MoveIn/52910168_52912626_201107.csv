@@ -1,0 +1,5 @@
+BATCH,,201107,B,3218.0000,
+INVOICE,IN,,52910168,,07/01/2011,3218.0000,"July_Rent-Voigt. Joyce",,07/01/2011,07/10/2011,,52912626,5346.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,31,88.0000,2728,"Basic Service Fee - Studio: Voigt. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,31,15.0000,465,"Resident Care - Level 1: Voigt. Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Voigt. Joyce",,,,,,,,,,,,,,,

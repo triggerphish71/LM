@@ -1,0 +1,5 @@
+BATCH,,201112,B,3002.0000,
+INVOICE,IN,,15710251,,12/16/2011,3002.0000,"MoveIn-Guethe. Iris",,12/16/2011,12/16/2011,,15714341,3002.0000,,,,,,,,,,
+TRANSACTION,3010,010309157,16,92.0000,1472,"Basic Service Fee - Studio: Guethe. Iris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309157,1,30.0000,30,"Monthly Cable: Guethe. Iris",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309157,1,1500.0000,1500,"New Resident Fee: Guethe. Iris",,,,,,,,,,,,,,,

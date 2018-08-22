@@ -1,0 +1,5 @@
+BATCH,,201307,B,3495.0000,
+INVOICE,IN,,50310329,,07/12/2013,3495.0000,"MoveIn-Newell. Charles",,07/12/2013,07/12/2013,,50315033,3495.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,20,98.0000,1960,"Basic Service Fee - One Bedroom: Newell. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Newell. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Newell. Charles",,,,,,,,,,,,,,,

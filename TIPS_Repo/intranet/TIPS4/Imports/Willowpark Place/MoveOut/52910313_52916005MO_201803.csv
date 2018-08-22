@@ -1,0 +1,7 @@
+BATCH,,201803,B,4884.0000,
+INVOICE,IN,,52910313,,03/06/2018,792.0000,"Invoice-Private",,03/06/2018,03/06/2018,,52916005MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010019529,6,41.0000,246.00,"Basic Service Fee - Studio  for Mar: Schnell, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010019529,6,91.0000,546.00,"Resident Care - Level 6  for Mar: Schnell, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,52910313,,03/06/2018,4092,"Invoice-Private",,03/06/2018,03/06/2018,,52916005MO,-3300.0000,,,,,,,,,,
+TRANSACTION,3020,010019529,1,1271,1271,"CR:Basic Service F... E.Schnell 201803: Schnell, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010019529,1,2821,2821,"CR:Resident Care -... E.Schnell 201803: Schnell, Eugene",,,,,,,,,,,,,,,

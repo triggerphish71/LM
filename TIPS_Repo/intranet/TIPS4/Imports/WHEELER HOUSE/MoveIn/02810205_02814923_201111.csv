@@ -1,0 +1,6 @@
+BATCH,,201111,B,4854.0000,
+INVOICE,IN,,02810205,,11/08/2011,4854.0000,"MoveIn-Loving. Bonnie",,11/08/2011,11/08/2011,,02814923,4854.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,23,109.0000,2507,"Basic Service Fee - Studio         : Loving. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,23,14.0000,322,"Resident Care - Level 1: Loving. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Loving. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Loving. Bonnie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201211,B,7356.0000,
+INVOICE,IN,,52610308,,11/01/2012,1596.0000,"Invoice-Private",,11/01/2012,11/10/2012,,52617331MO,-4164.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,60.0000,60.00,"CR:Limited Term Di... E.Walker 201211: Walker, Edith ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,8,117.0000,936.00,"Basic Service Fee - Two Bedroom Del for Nov: Walker, Edith ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,8,75.0000,600.00,"Resident Care - Level 4 for Nov: Walker, Edith ",,,,,,,,,,,,,,,
+INVOICE,CM,,52610308,,11/01/2012,5760,"Invoice-Private",,11/01/2012,11/10/2012,,52617331MO,-4164.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3510,3510,"CR:Basic Service F... E.Walker 201211: Walker, Edith ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,2250,2250,"CR:Resident Care -... E.Walker 201211: Walker, Edith ",,,,,,,,,,,,,,,

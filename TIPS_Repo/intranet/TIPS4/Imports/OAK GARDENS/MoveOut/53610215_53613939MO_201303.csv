@@ -1,0 +1,7 @@
+BATCH,,201303,B,6832.0000,
+INVOICE,IN,,53610215,,03/30/2013,3360.0000,"Invoice-Private",,03/30/2013,03/30/2013,,53613939MO,-3507.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,30,83.0000,2490.00,"Basic Service Fee - One Bedroom Deluxe for Mar: Schultz, Juane ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,30,29.0000,870.00,"Resident Care - Level 2 for Mar: Schultz, Juane ",,,,,,,,,,,,,,,
+INVOICE,CM,,53610215,,03/30/2013,3472,"Invoice-Private",,03/30/2013,03/30/2013,,53613939MO,-3507.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2573,2573,"CR:Basic Service F... J.Schultz 201303: Schultz, Juane ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,899,899,"CR:Resident Care -... J.Schultz 201303: Schultz, Juane ",,,,,,,,,,,,,,,

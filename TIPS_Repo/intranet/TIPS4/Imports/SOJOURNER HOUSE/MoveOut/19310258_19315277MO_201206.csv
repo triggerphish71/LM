@@ -1,0 +1,8 @@
+BATCH,,201206,B,8940.0000,
+INVOICE,IN,,19310258,,06/24/2012,3840.0000,"Invoice-Private",,06/24/2012,06/24/2012,,19315277MO,-6530.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,24,114.0000,2736.00,"Basic Service Fee - One Bedroom for Jun: Moll, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,24,46.0000,1104.00,"Resident Care - Level 3 for Jun: Moll, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,19310258,,06/24/2012,5100,"Invoice-Private",,06/24/2012,06/24/2012,,19315277MO,-6530.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,3420,3420,"CR:Basic Service F... B.Moll 201206: Moll, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,300,300,"CR:CC Meals... B.Moll 201206: Moll, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1380,1380,"CR:Resident Care -... B.Moll 201206: Moll, Bernice",,,,,,,,,,,,,,,

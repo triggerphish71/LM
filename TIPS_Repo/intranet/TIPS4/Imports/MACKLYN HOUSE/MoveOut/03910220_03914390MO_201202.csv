@@ -1,0 +1,8 @@
+BATCH,,201202,B,5106.2400,
+INVOICE,IN,,03910220,,02/03/2012,1873.3200,"Invoice-Private",,02/03/2012,02/03/2012,,03914390MO,-1359.6000,,,,,,,,,,
+TRANSACTION,3320,010101039,1,870.0000,870.00,"CR:Limited Term Di... B.Crooks 201202: Crooks, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,9,90.0000,810.00,"Basic Service Fee - Studio for Feb: Crooks, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,9,21.4800,193.32,"Resident Care - Level 12 for Feb: Crooks, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03910220,,02/03/2012,3232.92,"Invoice-Private",,02/03/2012,02/03/2012,,03914390MO,-1359.6000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2610,2610,"CR:Basic Service F... B.Crooks 201202: Crooks, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,622.92,622.92,"CR:Resident Care -... B.Crooks 201202: Crooks, Betty",,,,,,,,,,,,,,,

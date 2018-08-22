@@ -1,0 +1,5 @@
+BATCH,,201802,B,2103.5200,
+INVOICE,CM,,50110315,,02/01/2018,2103.52,"Invoice-Private",,02/01/2018,02/10/2018,,50117645MO,-1603.5200,,,,,,,,,,
+TRANSACTION,3020,010009501,1,1540,1540,"CR:Basic Service F... A.Arnold 201802: Arnold, Amy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009501,1,31.52,31.52,"CR:Monthly Cable... A.Arnold 201802: Arnold, Amy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009501,1,532,532,"CR:Resident Care -... A.Arnold 201802: Arnold, Amy",,,,,,,,,,,,,,,

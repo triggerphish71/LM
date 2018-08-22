@@ -1,0 +1,7 @@
+BATCH,,201211,B,4560.0000,
+INVOICE,IN,,53410376,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53421569MO,-4440.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,1,60.0000,60.00,"CR:Limited Term Di... J.Filsinger 201211: Filsinger, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,53410376,,11/01/2012,4500,"Invoice-Private",,11/01/2012,11/10/2012,,53421569MO,-4440.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... J.Filsinger 201211: Filsinger, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2340,2340,"CR:Resident Care -... J.Filsinger 201211: Filsinger, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2130,2130,"CR:Room and Board ... J.Filsinger 201211: Filsinger, Joseph",,,,,,,,,,,,,,,

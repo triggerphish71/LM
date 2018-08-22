@@ -1,0 +1,7 @@
+BATCH,,201301,B,4398.0000,
+INVOICE,IN,,04210225,,01/04/2013,99.0000,"Invoice-Private",,01/04/2013,01/04/2013,,04214101MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,99.0000,99.00,"Basic Service Fee - Studio for Jan: Robinson, George",,,,,,,,,,,,,,,
+INVOICE,CM,,04210225,,01/04/2013,4299,"Invoice-Private",,01/04/2013,01/04/2013,,04214101MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2772,2772,"CR:Basic Service F... G.Robinson 201301: Robinson, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... G.Robinson 201301: Robinson, George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202042,1,1500,1500,"CR:New Resident Fe... G.Robinson 201301: Robinson, George",,,,,,,,,,,,,,,

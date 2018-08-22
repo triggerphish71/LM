@@ -1,0 +1,7 @@
+BATCH,,201804,B,9853.0000,
+INVOICE,IN,,41800066,,04/29/2018,4843.0000,"Invoice-Private",,04/29/2018,04/29/2018,,41811819MO,-5374.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,29,60.0000,1740.00,"Resident Care - Level 4  for Apr: Barr, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,29,107.0000,3103.00,"Studio  for Apr: Barr, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,41800066,,04/29/2018,5010,"Invoice-Private",,04/29/2018,04/29/2018,,41811819MO,-5374.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,1,1800,1800,"CR:Resident Care -... H.Barr 201804: Barr, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,1,3210,3210,"CR:Studio... H.Barr 201804: Barr, Helen",,,,,,,,,,,,,,,

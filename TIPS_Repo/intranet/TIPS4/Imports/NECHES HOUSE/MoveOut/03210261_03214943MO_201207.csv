@@ -1,0 +1,6 @@
+BATCH,,201207,B,5766.0000,
+INVOICE,IN,,03210261,,07/01/2012,1209.0000,"Invoice-Private",,07/01/2012,07/10/2012,,03214943MO,-4089.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,1209.0000,1209.00,"CR:Limited Term Di... L.Johansson 201207: Johansson, Lureno",,,,,,,,,,,,,,,
+INVOICE,CM,,03210261,,07/01/2012,4557,"Invoice-Private",,07/01/2012,07/10/2012,,03214943MO,-4089.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... L.Johansson 201207: Johansson, Lureno",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1643,1643,"CR:Resident Care -... L.Johansson 201207: Johansson, Lureno",,,,,,,,,,,,,,,

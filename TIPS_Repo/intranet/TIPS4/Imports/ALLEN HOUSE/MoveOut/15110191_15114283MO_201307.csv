@@ -1,0 +1,7 @@
+BATCH,,201307,B,140.0000,
+INVOICE,IN,,15110191,,07/01/2013,70.0000,"Invoice-Private",,07/01/2013,07/10/2013,,15114283MO,-3650.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Wright, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,35.0000,35.00,"Pendant Fee: Wright, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,15110191,,07/01/2013,70,"Invoice-Private",,07/01/2013,07/10/2013,,15114283MO,-3650.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Wright, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,35,35,"Credit for Pendant Fee: Wright, Joyce",,,,,,,,,,,,,,,

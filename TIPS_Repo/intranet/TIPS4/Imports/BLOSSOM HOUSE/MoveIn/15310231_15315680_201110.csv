@@ -1,0 +1,5 @@
+BATCH,,201110,B,4527.0000,
+INVOICE,IN,,15310231,,10/07/2011,4527.0000,"MoveIn-Jorgensen. Jerome",,10/07/2011,10/07/2011,,15315680,4527.0000,,,,,,,,,,
+TRANSACTION,3010,010103153,25,100.0000,2500,"Basic Service Fee - Studio: Jorgensen. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Jorgensen. Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103153,1,2000.0000,2000,"New Resident Fee: Jorgensen. Jerome",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201308,B,1240.0000,
+INVOICE,IN,,17610343,,08/01/2013,620.0000,"Invoice-Private",,08/01/2013,08/10/2013,,17615116MO,-5079.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10.0000,310.00,"CC Meals: Belson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10.0000,310.00,"CC Meals: Belson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,17610343,,08/01/2013,620,"Invoice-Private",,08/01/2013,08/10/2013,,17615116MO,-5079.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10,310,"Credit for CC Meals: Belson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,31,10,310,"Credit for CC Meals: Belson, Robert",,,,,,,,,,,,,,,

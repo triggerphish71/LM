@@ -1,0 +1,5 @@
+BATCH,,201201,B,806.0000,
+INVOICE,IN,,08310173,,01/01/2012,403.0000,"Invoice-Private",,01/01/2012,01/10/2012,,08314035MO,-1638.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,13.0000,403.00,"Credit for Limited Term Discount: Barone, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,08310173,,01/01/2012,403,"Invoice-Private",,01/01/2012,01/10/2012,,08314035MO,-1638.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,13,403,"Limited Term Discount: Barone, Joseph",,,,,,,,,,,,,,,

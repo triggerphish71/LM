@@ -1,0 +1,5 @@
+BATCH,,201205,B,60.0000,
+INVOICE,IN,,12010228,,05/01/2012,30.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12014349MO,-3258.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: Wasson, James",,,,,,,,,,,,,,,
+INVOICE,CM,,12010228,,05/01/2012,30,"Invoice-Private",,05/01/2012,05/10/2012,,12014349MO,-3258.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: Wasson, James",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,4134.0000,
+INVOICE,IN,,13510308,,03/08/2013,1748.0000,"Invoice-Private",,03/08/2013,03/08/2013,,13515674MO,-638.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,23,60.0000,1380.00,"Basic Service Fee - Studio for Mar: Jones, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,23,16.0000,368.00,"Resident Care - Level 1 for Mar: Jones, Beatrice",,,,,,,,,,,,,,,
+INVOICE,CM,,13510308,,03/08/2013,2386,"Invoice-Private",,03/08/2013,03/08/2013,,13515674MO,-638.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,1860,1860,"CR:Basic Service F... B.Jones 201303: Jones, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... B.Jones 201303: Jones, Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,496,496,"CR:Resident Care -... B.Jones 201303: Jones, Beatrice",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,3389.0000,
+INVOICE,IN,,08910089,,05/11/2012,494.9500,"Invoice-Medicaid",,05/11/2012,05/11/2012,,08914808MO,-5223.1500,,,,,,,,,,
+TRANSACTION,3021,010306089,19,2.6900,51.11,"Medicaid Co-Pay for May: Carter, Anna M",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,19,23.3600,443.84,"Medicaid Room & Board for May: Carter, Anna M",,,,,,,,,,,,,,,
+INVOICE,CM,,08910089,,05/11/2012,2894.05,"Invoice-Medicaid",,05/11/2012,05/11/2012,,08914808MO,-5223.1500,,,,,,,,,,
+TRANSACTION,3021,010306089,1,83.45,83.45,"CR:Medicaid Co-Pay... A.Carter 201205: Carter, Anna M",,,,,,,,,,,,,,,
+TRANSACTION,3021,010306089,1,724.05,724.05,"CR:Medicaid Room &... A.Carter 201205: Carter, Anna M",,,,,,,,,,,,,,,
+TRANSACTION,3022,010306089,1,2086.55,2086.55,"CR:State Medicaid... A.Carter 201205: Carter, Anna M",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201206,B,6282.0000,
+INVOICE,IN,,14710268,,06/09/2012,1440.0000,"Invoice-Private",,06/09/2012,06/09/2012,,14715680MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3027,010310147,9,35.0000,315.00,"Resident Care - Level 2 for Jun: Mahoney, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,9,125.0000,1125.00,"Room and Board - One Bedroom for Jun: Mahoney, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,14710268,,06/09/2012,4842,"Invoice-Private",,06/09/2012,06/09/2012,,14715680MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... S.Mahoney 201206: Mahoney, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1050,1050,"CR:Resident Care -... S.Mahoney 201206: Mahoney, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3750,3750,"CR:Room and Board ... S.Mahoney 201206: Mahoney, Shirley",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201107,B,4006.2000,
+INVOICE,IN,,03810216,,07/19/2011,4006.2000,"MoveIn-Spaldin. Lucy",,07/19/2011,07/19/2011,,03813923,8755.6000,,,,,,,,,,
+TRANSACTION,3010,010103038,13,81.0000,1053,"Basic Service Fee - Studio         : Spaldin. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,13,71.4000,928.2,"Resident Care - Level 42: Spaldin. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Spaldin. Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Spaldin. Lucy",,,,,,,,,,,,,,,

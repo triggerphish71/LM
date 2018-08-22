@@ -1,0 +1,5 @@
+BATCH,,201205,B,3099.0000,
+INVOICE,IN,,14810340,,05/01/2012,3099.0000,"May_Rent-Duke. Gerald",,05/01/2012,05/10/2012,,14814914,5025.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,31,64.0000,1984,"Basic Service Fee - Companion Studi: Duke. Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,31,35.0000,1085,"Resident Care - Level 2: Duke. Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Duke. Gerald",,,,,,,,,,,,,,,

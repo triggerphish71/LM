@@ -1,0 +1,7 @@
+BATCH,,201106,B,4329.0000,
+INVOICE,IN,,20210112,,06/01/2011,999.0000,"Invoice-Private",,06/01/2011,06/10/2011,,20212210MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,9,31.0000,279.00,"Resident Care - Level 3 for Jun: Stoermer, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,9,80.0000,720.00,"Room and Board - Studio for Jun: Stoermer, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,20210112,,06/01/2011,3330,"Invoice-Private",,06/01/2011,06/10/2011,,20212210MO,-2331.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,930,930,"CR:Resident Care -... E.Stoermer 201106: Stoermer, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2400,2400,"CR:Room and Board ... E.Stoermer 201106: Stoermer, Edward",,,,,,,,,,,,,,,

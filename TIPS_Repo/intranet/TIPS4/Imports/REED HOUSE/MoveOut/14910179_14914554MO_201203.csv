@@ -1,0 +1,5 @@
+BATCH,,201203,B,1240.0000,
+INVOICE,IN,,14910179,,03/01/2012,620.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14914554MO,-620.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,31,20.0000,620.00,"Credit for Limited Term Discount: Buchanan, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,14910179,,03/01/2012,620,"Invoice-Private",,03/01/2012,03/10/2012,,14914554MO,-620.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,31,20,620,"Limited Term Discount: Buchanan, Lois",,,,,,,,,,,,,,,

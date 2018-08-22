@@ -1,0 +1,7 @@
+BATCH,,201107,B,4064.0000,
+INVOICE,IN,,16810360,,07/01/2011,127.0000,"Invoice-Private",,07/01/2011,07/01/2011,,16815743MO,-3810.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,89.0000,89.00,"Basic Service Fee - Studio Deluxe for Jul: Townsend, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,38.0000,38.00,"Resident Care - Level 3 for Jul: Townsend, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,16810360,,07/01/2011,3937,"Invoice-Private",,07/01/2011,07/01/2011,,16815743MO,-3810.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,2759,2759,"CR:Basic Service F... L.Townsend 201107: Townsend, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1178,1178,"CR:Resident Care -... L.Townsend 201107: Townsend, Laura",,,,,,,,,,,,,,,

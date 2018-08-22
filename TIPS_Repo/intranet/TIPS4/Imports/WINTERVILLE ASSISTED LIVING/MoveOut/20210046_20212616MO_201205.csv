@@ -1,0 +1,8 @@
+BATCH,,201205,B,8783.0000,
+INVOICE,IN,,20210046,,05/15/2012,3776.5000,"Invoice-Private",,05/15/2012,05/15/2012,,20212616MO,-6015.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,62.0000,62.00,"CR:Limited Term Di... V.Weeks 201205: Weeks, Veda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,23,78.5000,1805.50,"Resident Care - Level 6+10 pts for May: Weeks, Veda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,23,83.0000,1909.00,"Studio for May: Weeks, Veda",,,,,,,,,,,,,,,
+INVOICE,CM,,20210046,,05/15/2012,5006.5,"Invoice-Private",,05/15/2012,05/15/2012,,20212616MO,-6015.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,2433.5,2433.5,"CR:Resident Care -... V.Weeks 201205: Weeks, Veda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... V.Weeks 201205: Weeks, Veda",,,,,,,,,,,,,,,

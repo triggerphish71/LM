@@ -1,0 +1,7 @@
+BATCH,,201209,B,170.0000,
+INVOICE,IN,,21010273,,09/01/2012,85.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21013720MO,-2693.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25.00,"Monthly Cable: Lawler, Billy (William)",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,30,2.0000,60.00,"Credit for Limited Term Discount: Lawler, Billy (William)",,,,,,,,,,,,,,,
+INVOICE,CM,,21010273,,09/01/2012,85,"Invoice-Private",,09/01/2012,09/10/2012,,21013720MO,-2693.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"Credit for Monthly Cable: Lawler, Billy (William)",,,,,,,,,,,,,,,
+TRANSACTION,3320,010216210,30,2,60,"Limited Term Discount: Lawler, Billy (William)",,,,,,,,,,,,,,,

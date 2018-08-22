@@ -1,0 +1,6 @@
+BATCH,,201202,B,5568.0000,
+INVOICE,IN,,21410367,,02/01/2012,3045.0000,"Invoice-Private",,02/01/2012,02/10/2012,,21417198MO,522.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,1,1914.0000,1914.00,"CR:Limited Term Di... R.Rucker 201202: Rucker, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,13,87.0000,1131.00,"IL Investor Two Bedroom Deluxe for Feb: Rucker, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,21410367,,02/01/2012,2523,"Invoice-Private",,02/01/2012,02/10/2012,,21417198MO,522.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2523,2523,"CR:IL Investor Two... R.Rucker 201202: Rucker, Ruby",,,,,,,,,,,,,,,

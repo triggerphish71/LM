@@ -1,0 +1,5 @@
+BATCH,,201204,B,40.0000,
+INVOICE,IN,,21610025,,04/01/2012,20.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21613397MO,-3604.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20.0000,20.00,"Pendant Fee: Edwards, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,21610025,,04/01/2012,20,"Invoice-Private",,04/01/2012,04/10/2012,,21613397MO,-3604.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"Credit for Pendant Fee: Edwards, Katherine",,,,,,,,,,,,,,,

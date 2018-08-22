@@ -1,0 +1,7 @@
+BATCH,,201210,B,1170.0000,
+INVOICE,IN,,02411230,,10/01/2012,585.0000,"Invoice-Private",,10/01/2012,10/10/2012,,02415867MO,-1545.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Blackledge, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,18.0000,558.00,"Credit for Limited Term Discount: Blackledge, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,02411230,,10/01/2012,585,"Invoice-Private",,10/01/2012,10/10/2012,,02415867MO,-1545.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Blackledge, Fred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,18,558,"Limited Term Discount: Blackledge, Fred",,,,,,,,,,,,,,,

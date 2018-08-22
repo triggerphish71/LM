@@ -1,0 +1,7 @@
+BATCH,,201308,B,3960.0000,
+INVOICE,IN,,14610294,,08/05/2013,550.0000,"Invoice-Private",,08/05/2013,08/05/2013,,14615110MO,-2860.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,5,93.0000,465.00,"Basic Service Fee - Studio for Aug: Dosch, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,5,17.0000,85.00,"Resident Care - Level 1 for Aug: Dosch, Janet",,,,,,,,,,,,,,,
+INVOICE,CM,,14610294,,08/05/2013,3410,"Invoice-Private",,08/05/2013,08/05/2013,,14615110MO,-2860.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2883,2883,"CR:Basic Service F... J.Dosch 201308: Dosch, Janet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,527,527,"CR:Resident Care -... J.Dosch 201308: Dosch, Janet",,,,,,,,,,,,,,,

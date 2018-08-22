@@ -1,0 +1,5 @@
+BATCH,,201802,B,73.6000,
+INVOICE,IN,,13610293,,02/01/2018,36.8000,"Invoice-Private",,02/01/2018,02/10/2018,,13619494MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010009136,1,36.8000,36.80,"Monthly Cable: Oliver, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,13610293,,02/01/2018,36.8,"Invoice-Private",,02/01/2018,02/10/2018,,13619494MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010009136,1,36.8,36.8,"Credit for Monthly Cable: Oliver, Wanda",,,,,,,,,,,,,,,

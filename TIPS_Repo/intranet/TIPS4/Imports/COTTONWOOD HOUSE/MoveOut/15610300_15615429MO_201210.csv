@@ -1,0 +1,7 @@
+BATCH,,201210,B,5856.0000,
+INVOICE,IN,,15610300,,10/17/2012,2074.0000,"Invoice-Private",,10/17/2012,10/17/2012,,15615429MO,-4408.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,17,90.0000,1530.00,"Basic Service Fee - Studio for Oct: Larsen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,17,32.0000,544.00,"Resident Care - Level 2 for Oct: Larsen, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,15610300,,10/17/2012,3782,"Invoice-Private",,10/17/2012,10/17/2012,,15615429MO,-4408.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2790,2790,"CR:Basic Service F... M.Larsen 201210: Larsen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,992,992,"CR:Resident Care -... M.Larsen 201210: Larsen, Mildred",,,,,,,,,,,,,,,

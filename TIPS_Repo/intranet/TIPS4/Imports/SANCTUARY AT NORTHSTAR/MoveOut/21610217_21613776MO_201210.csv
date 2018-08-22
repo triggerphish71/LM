@@ -1,0 +1,8 @@
+BATCH,,201210,B,5310.0000,
+INVOICE,IN,,21610217,,10/15/2012,1725.0000,"Invoice-Private",,10/15/2012,10/15/2012,,21613776MO,-1860.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,15,12.0000,180.00,"Resident Care - Level 1 for Oct: Swords, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,15,103.0000,1545.00,"Room and Board - One Bedroom for Oct: Swords, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,21610217,,10/15/2012,3585,"Invoice-Private",,10/15/2012,10/15/2012,,21613776MO,-1860.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... R.Swords 201210: Swords, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,372,372,"CR:Resident Care -... R.Swords 201210: Swords, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,3193,3193,"CR:Room and Board ... R.Swords 201210: Swords, Ray",,,,,,,,,,,,,,,

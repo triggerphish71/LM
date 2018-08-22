@@ -1,0 +1,6 @@
+BATCH,,201108,B,4347.0000,
+INVOICE,IN,,00810194,,08/09/2011,972.0000,"Invoice-Private",,08/09/2011,08/09/2011,,00814388MO,-2403.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,9,108.0000,972.00,"Basic Service Fee - One Bedroom for Aug: Taylor, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,00810194,,08/09/2011,3375,"Invoice-Private",,08/09/2011,08/09/2011,,00814388MO,-2403.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,3348,3348,"CR:Basic Service F... M.Taylor 201108: Taylor, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... M.Taylor 201108: Taylor, Marie",,,,,,,,,,,,,,,

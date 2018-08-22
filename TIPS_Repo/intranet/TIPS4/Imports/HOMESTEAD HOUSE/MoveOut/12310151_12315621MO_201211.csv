@@ -1,0 +1,5 @@
+BATCH,,201211,B,90.0000,
+INVOICE,IN,,12310151,,11/01/2012,45.0000,"Invoice-Private",,11/01/2012,11/10/2012,,12315621MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45.0000,45.00,"Pendant Fee: Ideus, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,12310151,,11/01/2012,45,"Invoice-Private",,11/01/2012,11/10/2012,,12315621MO,-4482.0000,,,,,,,,,,
+TRANSACTION,3130,010211123,1,45,45,"Credit for Pendant Fee: Ideus, Margaret",,,,,,,,,,,,,,,

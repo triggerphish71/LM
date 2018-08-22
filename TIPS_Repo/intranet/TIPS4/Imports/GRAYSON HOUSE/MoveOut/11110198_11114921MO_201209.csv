@@ -1,0 +1,5 @@
+BATCH,,201209,B,4255.0000,
+INVOICE,CM,,11110198,,09/01/2012,4255,"Invoice-Private",,09/01/2012,09/10/2012,,11114921MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2910,2910,"CR:Basic Service F... F.Wood 201209: Wood, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... F.Wood 201209: Wood, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1320,1320,"CR:Resident Care -... F.Wood 201209: Wood, Frank",,,,,,,,,,,,,,,

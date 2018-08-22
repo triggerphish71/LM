@@ -1,0 +1,7 @@
+BATCH,,201109,B,10150.0000,
+INVOICE,IN,,50410174,,09/27/2011,4900.0000,"Invoice-Private",,09/27/2011,09/27/2011,,50413442MO,-5775.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,28,127.0000,3556.00,"Basic Service Fee - One Bedroom for Sep: Sienko, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,28,48.0000,1344.00,"Resident Care - Level 3 for Sep: Sienko, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,50410174,,09/27/2011,5250,"Invoice-Private",,09/27/2011,09/27/2011,,50413442MO,-5775.0000,,,,,,,,,,
+TRANSACTION,3020,010318504,1,3810,3810,"CR:Basic Service F... P.Sienko 201109: Sienko, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010318504,1,1440,1440,"CR:Resident Care -... P.Sienko 201109: Sienko, Phyllis",,,,,,,,,,,,,,,

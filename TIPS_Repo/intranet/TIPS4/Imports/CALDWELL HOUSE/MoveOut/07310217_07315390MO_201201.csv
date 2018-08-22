@@ -1,0 +1,7 @@
+BATCH,,201201,B,4970.0000,
+INVOICE,IN,,07310217,,01/13/2012,1943.0000,"Invoice-Private",,01/13/2012,01/13/2012,,07315390MO,-1084.0000,,,,,,,,,,
+TRANSACTION,3320,010305073,1,682.0000,682.00,"CR:Limited Term Di... R.Crum 201201: Crum, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305073,13,97.0000,1261.00,"Basic Service Fee - Studio for Jan: Crum, Rachel",,,,,,,,,,,,,,,
+INVOICE,CM,,07310217,,01/13/2012,3027,"Invoice-Private",,01/13/2012,01/13/2012,,07315390MO,-1084.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3007,3007,"CR:Basic Service F... R.Crum 201201: Crum, Rachel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... R.Crum 201201: Crum, Rachel",,,,,,,,,,,,,,,

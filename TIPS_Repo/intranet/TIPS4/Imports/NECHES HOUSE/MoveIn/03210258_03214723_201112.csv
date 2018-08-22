@@ -1,0 +1,6 @@
+BATCH,,201112,B,2609.0000,
+INVOICE,IN,,03210258,,12/21/2011,2609.0000,"MoveIn-Smith. Claude",,12/21/2011,12/21/2011,,03214723,5548.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,11,94.0000,1034,"C.Smith: Basic Service Fee - Studio: Smith. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Smith. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Smith. Claude",,,,,,,,,,,,,,,
+TRANSACTION,3299,010202032,1,50.0000,50,"Ancillary Rent: Smith. Claude",,,,,,,,,,,,,,,

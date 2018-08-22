@@ -1,0 +1,5 @@
+BATCH,,201201,B,80.0000,
+INVOICE,IN,,06010137,,01/01/2012,40.0000,"Invoice-Private",,01/01/2012,01/10/2012,,06014185MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Mitchell, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,06010137,,01/01/2012,40,"Invoice-Private",,01/01/2012,01/10/2012,,06014185MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Mitchell, Elsie",,,,,,,,,,,,,,,

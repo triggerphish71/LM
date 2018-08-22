@@ -1,0 +1,5 @@
+BATCH,,201307,B,3125.0000,
+INVOICE,IN,,09010251,,07/01/2013,3125.0000,"July_Rent-Bingham. Barbara",,07/01/2013,07/10/2013,,09014981,4650.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,31,85.0000,2635,"B.Bingham: Basic Service Fee - One Bedroom: Bingham. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,31,15.0000,465,"B.Bingham: Resident Care - Level 1: Bingham. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: Bingham. Barbara",,,,,,,,,,,,,,,

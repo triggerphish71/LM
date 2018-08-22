@@ -1,0 +1,5 @@
+BATCH,,201204,B,3232.0000,
+INVOICE,IN,,14510320,,04/23/2012,3232.0000,"MoveIn-Smith. Louis",,04/23/2012,04/23/2012,,14515465,8006.0000,,,,,,,,,,
+TRANSACTION,3010,010308145,8,99.0000,792,"Basic Service Fee - Studio: Smith. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308145,8,55.0000,440,"Resident Care - Level 4: Smith. Louis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308145,1,2000.0000,2000,"New Resident Fee: Smith. Louis",,,,,,,,,,,,,,,

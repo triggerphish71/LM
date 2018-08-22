@@ -1,0 +1,5 @@
+BATCH,,201307,B,3040.0000,
+INVOICE,IN,,07410249,,07/12/2013,3040.0000,"MoveIn-Hoelscher. Janice",,07/12/2013,07/12/2013,,07414438,3040.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,20,73.0000,1460,"Basic Service Fee - Studio: Hoelscher. Janice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,20,29.0000,580,"Resident Care - Level 2: Hoelscher. Janice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1000.0000,1000,"New Resident Fee: Hoelscher. Janice",,,,,,,,,,,,,,,

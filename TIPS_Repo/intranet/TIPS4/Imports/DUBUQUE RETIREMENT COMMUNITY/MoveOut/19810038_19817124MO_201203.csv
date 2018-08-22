@@ -1,0 +1,8 @@
+BATCH,,201203,B,5388.0000,
+INVOICE,IN,,19810038,,03/07/2012,1824.0000,"Invoice-Private",,03/07/2012,03/07/2012,,19817124MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,16,66.0000,1056.00,"Basic Service Fee AL - One Bedroom for Mar: Grimes, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,16,48.0000,768.00,"Swan Personal Care - L2 for Mar: Grimes, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19810038,,03/07/2012,3564,"Invoice-Private",,03/07/2012,03/07/2012,,19817124MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2046,2046,"CR:Basic Service F... M.Grimes 201203: Grimes, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... M.Grimes 201203: Grimes, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1488,1488,"CR:Swan Personal C... M.Grimes 201203: Grimes, Margaret",,,,,,,,,,,,,,,

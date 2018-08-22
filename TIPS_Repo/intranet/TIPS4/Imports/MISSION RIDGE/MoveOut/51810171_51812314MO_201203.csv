@@ -1,0 +1,7 @@
+BATCH,,201203,B,5432.0000,
+INVOICE,IN,,51810171,,03/09/2012,1222.2000,"Invoice-Private",,03/09/2012,03/09/2012,,51812314MO,-2987.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,9,100.0000,900.00,"Basic Service Fee - One Bedroom for Mar: Schiebe, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,9,35.8000,322.20,"Resident Care - Level 20 for Mar: Schiebe, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,51810171,,03/09/2012,4209.8,"Invoice-Private",,03/09/2012,03/09/2012,,51812314MO,-2987.6000,,,,,,,,,,
+TRANSACTION,3020,010103518,1,3100,3100,"CR:Basic Service F... J.Schiebe 201203: Schiebe, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103518,1,1109.8,1109.8,"CR:Resident Care -... J.Schiebe 201203: Schiebe, Janice",,,,,,,,,,,,,,,

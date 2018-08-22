@@ -1,0 +1,7 @@
+BATCH,,201303,B,5643.0000,
+INVOICE,IN,,16110258,,03/26/2013,2574.0000,"Invoice-Private",,03/26/2013,03/26/2013,,16115852MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,26,76.0000,1976.00,"Basic Service Fee - Studio for Mar: Woodward, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,26,23.0000,598.00,"Resident Care - Level 2 for Mar: Woodward, Fern",,,,,,,,,,,,,,,
+INVOICE,CM,,16110258,,03/26/2013,3069,"Invoice-Private",,03/26/2013,03/26/2013,,16115852MO,-3465.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2356,2356,"CR:Basic Service F... F.Woodward 201303: Woodward, Fern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,713,713,"CR:Resident Care -... F.Woodward 201303: Woodward, Fern",,,,,,,,,,,,,,,

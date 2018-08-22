@@ -1,0 +1,5 @@
+BATCH,,201112,B,2664.0000,
+INVOICE,IN,,50310264,,12/01/2011,432.0000,"Invoice-Private",,12/01/2011,12/10/2011,,50313886MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,6,72.0000,432.00,"Basic Service Fee - Studio for Dec: Earle, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,50310264,,12/01/2011,2232,"Invoice-Private",,12/01/2011,12/10/2011,,50313886MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2232,2232,"CR:Basic Service F... R.Earle 201112: Earle, Richard",,,,,,,,,,,,,,,

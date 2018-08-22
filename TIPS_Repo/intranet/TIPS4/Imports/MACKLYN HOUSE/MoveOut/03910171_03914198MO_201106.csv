@@ -1,0 +1,8 @@
+BATCH,,201106,B,7218.0000,
+INVOICE,IN,,03910171,,06/07/2011,2058.0000,"Invoice-Private",,06/07/2011,06/07/2011,,03914198MO,-3102.0000,,,,,,,,,,
+TRANSACTION,3320,010101039,1,510.0000,510.00,"CR:Limited Term Di... B.Johnson 201106: Johnson, Beula",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,9,87.0000,783.00,"Basic Service Fee - Studio for Jun: Johnson, Beula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,9,85.0000,765.00,"Resident Care - Level 50 for Jun: Johnson, Beula",,,,,,,,,,,,,,,
+INVOICE,CM,,03910171,,06/07/2011,5160,"Invoice-Private",,06/07/2011,06/07/2011,,03914198MO,-3102.0000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2610,2610,"CR:Basic Service F... B.Johnson 201106: Johnson, Beula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,2550,2550,"CR:Resident Care -... B.Johnson 201106: Johnson, Beula",,,,,,,,,,,,,,,

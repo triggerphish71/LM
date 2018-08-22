@@ -1,0 +1,7 @@
+BATCH,,201308,B,2112.0000,
+INVOICE,IN,,14510336,,08/01/2013,66.0000,"Invoice-Private",,08/01/2013,08/01/2013,,14516113MO,-1980.0000,,,,,,,,,,
+TRANSACTION,3027,010308145,1,16.0000,16.00,"Resident Care - Level 1 for Aug: Ensley, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,1,50.0000,50.00,"Room and Board - Studio for Aug: Ensley, Frankie",,,,,,,,,,,,,,,
+INVOICE,CM,,14510336,,08/01/2013,2046,"Invoice-Private",,08/01/2013,08/01/2013,,14516113MO,-1980.0000,,,,,,,,,,
+TRANSACTION,3027,010308145,1,496,496,"CR:Resident Care -... F.Ensley 201308: Ensley, Frankie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,1,1550,1550,"CR:Room and Board ... F.Ensley 201308: Ensley, Frankie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,10864.0000,
+INVOICE,IN,,15810283,,09/26/2011,5044.0000,"Invoice-Private",,09/26/2011,09/26/2011,,15814231MO,-7035.8000,,,,,,,,,,
+TRANSACTION,3020,010309158,26,111.0000,2886.00,"Basic Service Fee - One Bedroom for Sep: Caddy, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,26,83.0000,2158.00,"Resident Care - Level 6 for Sep: Caddy, Harley",,,,,,,,,,,,,,,
+INVOICE,CM,,15810283,,09/26/2011,5820,"Invoice-Private",,09/26/2011,09/26/2011,,15814231MO,-7035.8000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,3330,3330,"CR:Basic Service F... H.Caddy 201109: Caddy, Harley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,2490,2490,"CR:Resident Care -... H.Caddy 201109: Caddy, Harley",,,,,,,,,,,,,,,

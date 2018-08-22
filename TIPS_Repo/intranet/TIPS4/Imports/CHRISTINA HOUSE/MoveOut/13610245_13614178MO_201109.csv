@@ -1,0 +1,7 @@
+BATCH,,201109,B,3192.0000,
+INVOICE,IN,,13610245,,09/01/2011,672.0000,"Invoice-Private",,09/01/2011,09/10/2011,,13614178MO,-1848.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,8,53.0000,424.00,"Basic Service Fee - Studio for Sep: Warren Sr, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,8,31.0000,248.00,"Resident Care - Level 2 for Sep: Warren Sr, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,13610245,,09/01/2011,2520,"Invoice-Private",,09/01/2011,09/10/2011,,13614178MO,-1848.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1590,1590,"CR:Basic Service F... B.Warren Sr 201109: Warren Sr, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,930,930,"CR:Resident Care -... B.Warren Sr 201109: Warren Sr, Billy",,,,,,,,,,,,,,,

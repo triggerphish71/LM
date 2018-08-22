@@ -1,0 +1,5 @@
+BATCH,,201203,B,3059.0000,
+INVOICE,IN,,14210197,,03/09/2012,3059.0000,"MoveIn-Colvin. Harold",,03/09/2012,03/09/2012,,14213863,3059.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,23,88.0000,2024,"Basic Service Fee - Studio: Colvin. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Colvin. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309142,1,1000.0000,1000,"New Resident Fee: Colvin. Harold",,,,,,,,,,,,,,,

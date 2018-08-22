@@ -1,0 +1,5 @@
+BATCH,,201707,B,4508.0800,
+INVOICE,IN,,18000095,,07/12/2017,1258.0800,"Invoice-Private",,07/12/2017,07/12/2017,,18011277MO,-1991.9200,,,,,,,,,,
+TRANSACTION,3010,010012180,12,104.8400,1258.08,"Basic Service Fee - Studio  for Jul: Bahnsen, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,18000095,,07/12/2017,3250,"Invoice-Private",,07/12/2017,07/12/2017,,18011277MO,-1991.9200,,,,,,,,,,
+TRANSACTION,3010,010012180,1,3250,3250,"CR:Basic Service F... R.Bahnsen 201707: Bahnsen, Richard",,,,,,,,,,,,,,,

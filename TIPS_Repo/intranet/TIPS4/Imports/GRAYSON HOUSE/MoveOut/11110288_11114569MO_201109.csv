@@ -1,0 +1,8 @@
+BATCH,,201109,B,8707.0000,
+INVOICE,IN,,11110288,,09/19/2011,3817.0000,"Invoice-Private",,09/19/2011,09/19/2011,,11114569MO,-5407.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,720.0000,720.00,"CR:Limited Term Di... M.Hay 201109: Hay, Maribeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107111,19,94.0000,1786.00,"Basic Service Fee - Studio for Sep: Hay, Maribeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,19,69.0000,1311.00,"Resident Care - Level 5 for Sep: Hay, Maribeth",,,,,,,,,,,,,,,
+INVOICE,CM,,11110288,,09/19/2011,4890,"Invoice-Private",,09/19/2011,09/19/2011,,11114569MO,-5407.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2820,2820,"CR:Basic Service F... M.Hay 201109: Hay, Maribeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,2070,2070,"CR:Resident Care -... M.Hay 201109: Hay, Maribeth",,,,,,,,,,,,,,,

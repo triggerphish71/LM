@@ -1,0 +1,7 @@
+BATCH,,201205,B,174.0000,
+INVOICE,IN,,07710135,,05/01/2012,87.0000,"Invoice-Private",,05/01/2012,05/10/2012,,07714166MO,-4083.0000,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25.00,"Monthly Cable: Odenborg, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104077,31,2.0000,62.00,"Credit for Limited Term Discount: Odenborg, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,07710135,,05/01/2012,87,"Invoice-Private",,05/01/2012,05/10/2012,,07714166MO,-4083.0000,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"Credit for Monthly Cable: Odenborg, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104077,31,2,62,"Limited Term Discount: Odenborg, Doris",,,,,,,,,,,,,,,

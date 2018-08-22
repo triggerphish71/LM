@@ -1,0 +1,5 @@
+BATCH,,201211,B,4400.0000,
+INVOICE,IN,,01410234,,11/08/2012,4400.0000,"MoveIn-McGuire. Ann",,11/08/2012,11/08/2012,,01414493,4400.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,23,125.0000,2875,"Basic Service Fee - One Bedroom: McGuire. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: McGuire. Ann",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1500.0000,1500,"New Resident Fee: McGuire. Ann",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,15910164,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15915161MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Gute, Corrine",,,,,,,,,,,,,,,
+INVOICE,CM,,15910164,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,15915161MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Gute, Corrine",,,,,,,,,,,,,,,

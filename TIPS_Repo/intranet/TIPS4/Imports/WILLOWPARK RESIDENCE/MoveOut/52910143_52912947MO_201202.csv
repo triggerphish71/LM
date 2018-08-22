@@ -1,0 +1,8 @@
+BATCH,,201202,B,5107.0000,
+INVOICE,IN,,52910143,,02/01/2012,616.0000,"Invoice-Private",,02/01/2012,02/01/2012,,52912947MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,4,91.0000,364.00,"Basic Service Fee - Studio for Feb: Steindl, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,4,63.0000,252.00,"Resident Care - Level 5 for Feb: Steindl, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,52910143,,02/01/2012,4491,"Invoice-Private",,02/01/2012,02/01/2012,,52912947MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2639,2639,"CR:Basic Service F... D.Steindl 201202: Steindl, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25,25,"CR:Monthly Cable... D.Steindl 201202: Steindl, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,1827,1827,"CR:Resident Care -... D.Steindl 201202: Steindl, Donald",,,,,,,,,,,,,,,

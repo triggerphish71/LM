@@ -1,0 +1,7 @@
+BATCH,,201303,B,3744.0000,
+INVOICE,IN,,10910289,,03/01/2013,117.0000,"Invoice-Private",,03/01/2013,03/01/2013,,10915187MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,70.0000,70.00,"Basic Service Fee - Deluxe for Mar: Lapp, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,47.0000,47.00,"Resident Care Level Change for Mar: Lapp, Marguerite",,,,,,,,,,,,,,,
+INVOICE,CM,,10910289,,03/01/2013,3627,"Invoice-Private",,03/01/2013,03/01/2013,,10915187MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2170,2170,"CR:Basic Service F... M.Lapp 201303: Lapp, Marguerite",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,1457,1457,"CR:Resident Care L... M.Lapp 201303: Lapp, Marguerite",,,,,,,,,,,,,,,

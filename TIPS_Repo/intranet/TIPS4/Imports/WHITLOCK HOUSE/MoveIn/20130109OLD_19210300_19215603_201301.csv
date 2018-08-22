@@ -1,0 +1,5 @@
+BATCH,,201301,B,5036.0000,
+INVOICE,IN,,19210300,,01/09/2013,5036.0000,"MoveIn-Otterman. James",,01/09/2013,01/09/2013,,19215603,5036.0000,,,,,,,,,,
+TRANSACTION,3010,010309192,23,114.0000,2622,"Basic Service Fee - Studio: Otterman. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,23,18.0000,414,"Resident Care - Level 1: Otterman. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309192,1,2000.0000,2000,"New Resident Fee: Otterman. James",,,,,,,,,,,,,,,

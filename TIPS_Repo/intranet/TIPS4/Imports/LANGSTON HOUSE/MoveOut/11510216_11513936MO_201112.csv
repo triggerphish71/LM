@@ -1,0 +1,5 @@
+BATCH,,201112,B,868.0000,
+INVOICE,IN,,11510216,,12/01/2011,434.0000,"Invoice-Private",,12/01/2011,12/10/2011,,11513936MO,-1606.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,31,14.0000,434.00,"Credit for Limited Term Discount: Griffin, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,11510216,,12/01/2011,434,"Invoice-Private",,12/01/2011,12/10/2011,,11513936MO,-1606.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,31,14,434,"Limited Term Discount: Griffin, Ed",,,,,,,,,,,,,,,

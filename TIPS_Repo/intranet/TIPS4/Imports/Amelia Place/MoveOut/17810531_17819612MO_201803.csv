@@ -1,0 +1,7 @@
+BATCH,,201803,B,8880.0000,
+INVOICE,IN,,17810531,,03/29/2018,4292.0000,"Invoice-Private",,03/29/2018,03/29/2018,,17819612MO,-296.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,29,110.0000,3190.00,"Basic Service Fee - Studio  for Mar: Ocken, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,29,38.0000,1102.00,"Resident Care - Level 2  for Mar: Ocken, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,17810531,,03/29/2018,4588,"Invoice-Private",,03/29/2018,03/29/2018,,17819612MO,-296.0000,,,,,,,,,,
+TRANSACTION,3020,010012178,1,3410,3410,"CR:Basic Service F... R.Ocken 201803: Ocken, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012178,1,1178,1178,"CR:Resident Care -... R.Ocken 201803: Ocken, Ronald",,,,,,,,,,,,,,,

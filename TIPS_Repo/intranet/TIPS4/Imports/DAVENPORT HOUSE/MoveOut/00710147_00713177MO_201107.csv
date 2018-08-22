@@ -1,0 +1,8 @@
+BATCH,,201107,B,6537.3000,
+INVOICE,IN,,00710147,,07/01/2011,2634.4000,"Invoice-Private",,07/01/2011,07/10/2011,,00713177MO,-1268.5000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,620.0000,620.00,"CR:Limited Term Di... J.Grossnickle 201107: Grossnickle, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,16,80.0000,1280.00,"Basic Service Fee - Studio for Jul: Grossnickle, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,16,45.9000,734.40,"Resident Care - Level 27 for Jul: Grossnickle, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,00710147,,07/01/2011,3902.9,"Invoice-Private",,07/01/2011,07/10/2011,,00713177MO,-1268.5000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2480,2480,"CR:Basic Service F... J.Grossnickle 201107: Grossnickle, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1422.9,1422.9,"CR:Resident Care -... J.Grossnickle 201107: Grossnickle, Jean",,,,,,,,,,,,,,,

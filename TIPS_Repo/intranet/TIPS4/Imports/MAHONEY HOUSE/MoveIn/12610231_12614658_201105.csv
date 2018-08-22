@@ -1,0 +1,5 @@
+BATCH,,201105,B,4808.0000,
+INVOICE,IN,,12610231,,05/06/2011,4808.0000,"MoveIn-Peters. John",,05/06/2011,05/06/2011,,12614658,4808.0000,,,,,,,,,,
+TRANSACTION,3010,010211126,26,90.0000,2340,"Basic Service Fee - Studio         : Peters. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211126,26,18.0000,468,"Resident Care - Level 1: Peters. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211126,1,2000.0000,2000,"New Resident Fee: Peters. John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,3314.0000,
+INVOICE,IN,,01210250,,05/11/2012,3314.0000,"MoveIn-Timblin. Geneva",,05/11/2012,05/11/2012,,01213975,3314.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,21,85.0000,1785,"G.Timblin: Basic Service Fee - Studio: Timblin. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Timblin. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Timblin. Geneva",,,,,,,,,,,,,,,

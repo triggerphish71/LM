@@ -1,0 +1,5 @@
+BATCH,,201201,B,1870.2400,
+INVOICE,IN,,00710187,,01/18/2012,1870.2400,"MoveIn-Higgins Sr.. Malcolm",,01/18/2012,01/18/2012,,00713345,3672.8800,,,,,,,,,,
+TRANSACTION,3010,010101007,14,55.0000,770,"Basic Service Fee - Studio: Higgins Sr.. Malcolm",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,14,7.1600,100.24,"Resident Care - Level 4: Higgins Sr.. Malcolm",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Higgins Sr.. Malcolm",,,,,,,,,,,,,,,

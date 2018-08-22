@@ -1,0 +1,6 @@
+BATCH,,201105,B,4402.0000,
+INVOICE,IN,,16310192,,05/01/2011,62.0000,"Invoice-Private",,05/01/2011,05/10/2011,,16316272MO,-4278.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,62.0000,62.00,"CR:Limited Term Di... B.Kerby 201105: Kerby, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,16310192,,05/01/2011,4340,"Invoice-Private",,05/01/2011,05/10/2011,,16316272MO,-4278.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3596,3596,"CR:Basic Service F... B.Kerby 201105: Kerby, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,744,744,"CR:Resident Care -... B.Kerby 201105: Kerby, Billy",,,,,,,,,,,,,,,

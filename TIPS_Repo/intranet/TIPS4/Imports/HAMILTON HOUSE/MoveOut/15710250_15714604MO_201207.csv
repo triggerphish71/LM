@@ -1,0 +1,6 @@
+BATCH,,201207,B,5027.8000,
+INVOICE,IN,,15710250,,07/01/2012,2175.8000,"Invoice-Private",,07/01/2012,07/10/2012,,15714604MO,-676.2000,,,,,,,,,,
+TRANSACTION,3316,010309157,1,427.8000,427.80,"CR:Employee Discou... D.Stier 201207: Stier, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,19,92.0000,1748.00,"Basic Service Fee - Studio for Jul: Stier, David",,,,,,,,,,,,,,,
+INVOICE,CM,,15710250,,07/01/2012,2852,"Invoice-Private",,07/01/2012,07/10/2012,,15714604MO,-676.2000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... D.Stier 201207: Stier, David",,,,,,,,,,,,,,,

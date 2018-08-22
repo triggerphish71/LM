@@ -1,0 +1,7 @@
+BATCH,,201205,B,7192.0000,
+INVOICE,IN,,14110127,,05/01/2012,3348.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14113720MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,27,107.0000,2889.00,"Basic Service Fee - One Bedroom for May: Boring, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,27,17.0000,459.00,"Resident Care - Level 1 for May: Boring, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,14110127,,05/01/2012,3844,"Invoice-Private",,05/01/2012,05/10/2012,,14113720MO,-4216.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,3317,3317,"CR:Basic Service F... E.Boring 201205: Boring, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,527,527,"CR:Resident Care -... E.Boring 201205: Boring, Eugene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201707,B,6678.0000,
+INVOICE,IN,,08310331,,07/11/2017,1749.0000,"Invoice-Private",,07/11/2017,07/11/2017,,08316499MO,-3180.0000,,,,,,,,,,
+TRANSACTION,3020,010006083,11,135.0000,1485.00,"Basic Service Fee - Deluxe  for Jul: Del Collo, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010006083,11,24.0000,264.00,"Resident Care Level Change  for Jul: Del Collo, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08310331,,07/11/2017,4929,"Invoice-Private",,07/11/2017,07/11/2017,,08316499MO,-3180.0000,,,,,,,,,,
+TRANSACTION,3020,010006083,1,4185,4185,"CR:Basic Service F... M.Del Collo 201707: Del Collo, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010006083,1,744,744,"CR:Resident Care L... M.Del Collo 201707: Del Collo, Mary",,,,,,,,,,,,,,,

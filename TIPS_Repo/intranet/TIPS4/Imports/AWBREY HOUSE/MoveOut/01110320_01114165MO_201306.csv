@@ -1,0 +1,6 @@
+BATCH,,201306,B,5118.0000,
+INVOICE,IN,,01110320,,06/01/2013,2109.0000,"Invoice-Private",,06/01/2013,06/10/2013,,01114165MO,-900.0000,,,,,,,,,,
+TRANSACTION,3027,010101011,1,2109.0000,2109.00,"CR:Resident Care L... C.Merrill 201306: Merrill, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,01110320,,06/01/2013,3009,"Invoice-Private",,06/01/2013,06/10/2013,,01114165MO,-900.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,900,900,"CR:Basic Service F... C.Merrill 201306: Merrill, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,2109,2109,"CR:Resident Care -... C.Merrill 201306: Merrill, Carol",,,,,,,,,,,,,,,

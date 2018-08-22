@@ -1,0 +1,8 @@
+BATCH,,201112,B,6439.0000,
+INVOICE,IN,,20610223,,12/18/2011,3091.0000,"Invoice-Private",,12/18/2011,12/18/2011,,20612511MO,-3078.0000,,,,,,,,,,
+TRANSACTION,3320,010214206,1,1147.0000,1147.00,"CR:Limited Term Di... A.Segesdy 201112: Segesdy, Amelia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010214206,18,21.0000,378.00,"Resident Care - Level 2 for Dec: Segesdy, Amelia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,18,87.0000,1566.00,"Room and Board - Studio for Dec: Segesdy, Amelia",,,,,,,,,,,,,,,
+INVOICE,CM,,20610223,,12/18/2011,3348,"Invoice-Private",,12/18/2011,12/18/2011,,20612511MO,-3078.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,651,651,"CR:Resident Care -... A.Segesdy 201112: Segesdy, Amelia",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2697,2697,"CR:Room and Board ... A.Segesdy 201112: Segesdy, Amelia",,,,,,,,,,,,,,,

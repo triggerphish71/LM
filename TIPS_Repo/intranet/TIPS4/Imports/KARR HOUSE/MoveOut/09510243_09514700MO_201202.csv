@@ -1,0 +1,5 @@
+BATCH,,201202,B,1218.0000,
+INVOICE,IN,,09510243,,02/01/2012,609.0000,"Invoice-Private",,02/01/2012,02/10/2012,,09514700MO,-1155.0000,,,,,,,,,,
+TRANSACTION,3320,010103095,29,21.0000,609.00,"Credit for Limited Term Discount: Burke, Lynn",,,,,,,,,,,,,,,
+INVOICE,CM,,09510243,,02/01/2012,609,"Invoice-Private",,02/01/2012,02/10/2012,,09514700MO,-1155.0000,,,,,,,,,,
+TRANSACTION,3320,010103095,29,21,609,"Limited Term Discount: Burke, Lynn",,,,,,,,,,,,,,,

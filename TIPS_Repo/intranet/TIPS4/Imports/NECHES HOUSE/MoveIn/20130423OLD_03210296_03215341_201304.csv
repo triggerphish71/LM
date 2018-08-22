@@ -1,0 +1,5 @@
+BATCH,,201304,B,2388.0000,
+INVOICE,IN,,03210296,,04/23/2013,2388.0000,"MoveIn-McElroy. Jack",,04/23/2013,04/23/2013,,03215341,5829.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,8,94.0000,752,"Basic Service Fee - Studio: McElroy. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,8,17.0000,136,"Resident Care - Level 1: McElroy. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: McElroy. Jack",,,,,,,,,,,,,,,

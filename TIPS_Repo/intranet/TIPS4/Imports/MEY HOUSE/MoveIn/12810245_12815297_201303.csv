@@ -1,0 +1,6 @@
+BATCH,,201303,B,1345.0000,
+INVOICE,IN,,12810245,,03/30/2013,1345.0000,"MoveIn-Petrosh. Alfred",,03/30/2013,03/30/2013,,12815297,6170.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,2,111.0000,222,"A.Petrosh: Basic Service Fee - Studio: Petrosh. Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306128,2,49.0000,98,"A.Petrosh: Swan Personal Care - L3: Petrosh. Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: Petrosh. Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306128,1,1000.0000,1000,"New Resident Fee: Petrosh. Alfred",,,,,,,,,,,,,,,

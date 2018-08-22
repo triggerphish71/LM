@@ -1,0 +1,5 @@
+BATCH,,201305,B,84.0000,
+INVOICE,IN,,14710149,,05/01/2013,42.0000,"Invoice-Private",,05/01/2013,05/10/2013,,14716122MO,-4112.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Dziedzicki, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,14710149,,05/01/2013,42,"Invoice-Private",,05/01/2013,05/10/2013,,14716122MO,-4112.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Dziedzicki, Ralph",,,,,,,,,,,,,,,

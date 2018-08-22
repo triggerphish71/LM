@@ -1,0 +1,5 @@
+BATCH,,201105,B,84.0000,
+INVOICE,IN,,11510225,,05/31/2011,42.0000,"Invoice-Private",,05/31/2011,05/31/2011,,11513692MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,14,3.0000,42.00,"Credit for Limited Term Discount: Benjamin, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,11510225,,05/31/2011,42,"Invoice-Private",,05/31/2011,05/31/2011,,11513692MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,14,3,42,"Limited Term Discount: Benjamin, Margaret",,,,,,,,,,,,,,,

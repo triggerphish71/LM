@@ -1,0 +1,7 @@
+BATCH,,201205,B,5099.0000,
+INVOICE,IN,,53510214,,05/14/2012,693.0000,"Invoice-Private",,05/14/2012,05/14/2012,,53514578MO,-3713.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,7,99.0000,693.00,"Basic Service Fee - One Bedroom for May: Meyer, Wayne",,,,,,,,,,,,,,,
+INVOICE,CM,,53510214,,05/14/2012,4406,"Invoice-Private",,05/14/2012,05/14/2012,,53514578MO,-3713.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2376,2376,"CR:Basic Service F... W.Meyer 201205: Meyer, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... W.Meyer 201205: Meyer, Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000,2000,"CR:New Resident Fe... W.Meyer 201205: Meyer, Wayne",,,,,,,,,,,,,,,

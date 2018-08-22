@@ -1,0 +1,7 @@
+BATCH,,201211,B,5814.0000,
+INVOICE,IN,,14710153,,11/14/2012,2712.0000,"Invoice-Private",,11/14/2012,11/14/2012,,14715887MO,-390.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,60.0000,60.00,"CR:Limited Term Di... G.Matich 201211: Matich, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,26,102.0000,2652.00,"Basic Service Fee - Studio for Nov: Matich, George",,,,,,,,,,,,,,,
+INVOICE,CM,,14710153,,11/14/2012,3102,"Invoice-Private",,11/14/2012,11/14/2012,,14715887MO,-390.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3060,3060,"CR:Basic Service F... G.Matich 201211: Matich, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... G.Matich 201211: Matich, George",,,,,,,,,,,,,,,

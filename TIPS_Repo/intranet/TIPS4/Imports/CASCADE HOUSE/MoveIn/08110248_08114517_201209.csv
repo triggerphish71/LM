@@ -1,0 +1,5 @@
+BATCH,,201209,B,3555.0000,
+INVOICE,IN,,08110248,,09/14/2012,3555.0000,"MoveIn-Himes. Charles",,09/14/2012,09/14/2012,,08114517,6370.0000,,,,,,,,,,
+TRANSACTION,3010,010103081,17,90.0000,1530,"Basic Service Fee - Studio: Himes. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Himes. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Himes. Charles",,,,,,,,,,,,,,,

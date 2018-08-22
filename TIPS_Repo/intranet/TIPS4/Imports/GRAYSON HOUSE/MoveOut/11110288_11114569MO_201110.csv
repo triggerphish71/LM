@@ -1,0 +1,7 @@
+BATCH,,201110,B,5822.0000,
+INVOICE,IN,,11110288,,10/01/2011,744.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11114569MO,-5407.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,744.0000,744.00,"CR:Limited Term Di... M.Hay 201110: Hay, Maribeth",,,,,,,,,,,,,,,
+INVOICE,CM,,11110288,,10/01/2011,5078,"Invoice-Private",,10/01/2011,10/10/2011,,11114569MO,-5407.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2914,2914,"CR:Basic Service F... M.Hay 201110: Hay, Maribeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... M.Hay 201110: Hay, Maribeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,2139,2139,"CR:Resident Care -... M.Hay 201110: Hay, Maribeth",,,,,,,,,,,,,,,

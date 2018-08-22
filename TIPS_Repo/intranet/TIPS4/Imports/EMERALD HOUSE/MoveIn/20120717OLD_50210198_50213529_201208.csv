@@ -1,0 +1,5 @@
+BATCH,,201208,B,4210.0000,
+INVOICE,IN,,50210198,,08/01/2012,4210.0000,"August_Rent-Buhr. Wilford",,08/01/2012,08/10/2012,,50213529,6395.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,31,121.0000,3751,"Basic Service Fee - One Bedroom Del: Buhr. Wilford",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,31,14.0000,434,"Resident Care - Level 1: Buhr. Wilford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Buhr. Wilford",,,,,,,,,,,,,,,

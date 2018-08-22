@@ -1,0 +1,7 @@
+BATCH,,201107,B,176.0000,
+INVOICE,IN,,11910202,,07/01/2011,88.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11915205MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Miller, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,31,2.0000,62.00,"Credit for Limited Term Discount: Miller, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,11910202,,07/01/2011,88,"Invoice-Private",,07/01/2011,07/10/2011,,11915205MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Miller, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,31,2,62,"Limited Term Discount: Miller, Lillian",,,,,,,,,,,,,,,

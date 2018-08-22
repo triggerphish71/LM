@@ -1,0 +1,5 @@
+BATCH,,201303,B,930.0000,
+INVOICE,IN,,21010226,,03/01/2013,465.0000,"Invoice-Private",,03/01/2013,03/10/2013,,21013911MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,31,15.0000,465.00,"Credit for Limited Term Discount: Lawrence, Hesta",,,,,,,,,,,,,,,
+INVOICE,CM,,21010226,,03/01/2013,465,"Invoice-Private",,03/01/2013,03/10/2013,,21013911MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,31,15,465,"Limited Term Discount: Lawrence, Hesta",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,3808.1000,
+INVOICE,IN,,06110216,,11/10/2011,3808.1000,"MoveIn-Agar. Tom",,11/10/2011,11/10/2011,,06113762,3808.1000,,,,,,,,,,
+TRANSACTION,3010,010103061,21,81.0000,1701,"Basic Service Fee - Studio         : Agar. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103061,21,5.1000,107.1,"Resident Care - Level 3: Agar. Tom",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,2000.0000,2000,"New Resident Fee: Agar. Tom",,,,,,,,,,,,,,,

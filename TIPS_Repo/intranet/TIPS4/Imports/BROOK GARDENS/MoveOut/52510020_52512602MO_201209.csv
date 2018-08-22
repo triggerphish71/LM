@@ -1,0 +1,7 @@
+BATCH,,201209,B,4960.0000,
+INVOICE,IN,,52510020,,09/02/2012,310.0000,"Invoice-Private",,09/02/2012,09/02/2012,,52512602MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,2,112.0000,224.00,"Basic Service Fee - Studio for Sep: Wolfgram, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,2,43.0000,86.00,"Resident Care - Level 3 for Sep: Wolfgram, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,52510020,,09/02/2012,4650,"Invoice-Private",,09/02/2012,09/02/2012,,52512602MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3360,3360,"CR:Basic Service F... E.Wolfgram 201209: Wolfgram, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,1290,1290,"CR:Resident Care -... E.Wolfgram 201209: Wolfgram, Evelyn",,,,,,,,,,,,,,,

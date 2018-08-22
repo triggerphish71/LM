@@ -1,0 +1,8 @@
+BATCH,,201109,B,8713.0000,
+INVOICE,IN,,11810167,,09/29/2011,4263.0000,"Invoice-Private",,09/29/2011,09/29/2011,,11815006MO,-4784.0000,,,,,,,,,,
+TRANSACTION,3027,010310118,29,51.0000,1479.00,"Resident Care - Level 3 for Sep: Hudson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310118,29,96.0000,2784.00,"Room and Board - Studio for Sep: Hudson, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,11810167,,09/29/2011,4450,"Invoice-Private",,09/29/2011,09/29/2011,,11815006MO,-4784.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... W.Hudson 201109: Hudson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1530,1530,"CR:Resident Care -... W.Hudson 201109: Hudson, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2880,2880,"CR:Room and Board ... W.Hudson 201109: Hudson, Walter",,,,,,,,,,,,,,,

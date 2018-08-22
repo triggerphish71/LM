@@ -1,0 +1,8 @@
+BATCH,,201212,B,7991.0000,
+INVOICE,IN,,12110300,,12/21/2012,3213.0000,"Invoice-Private",,12/21/2012,12/21/2012,,12116145MO,-6343.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,21,124.0000,2604.00,"Basic Service Fee- One Bedroom Prem for Dec: Cole, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,21,29.0000,609.00,"Resident Care - Level 2 for Dec: Cole, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,12110300,,12/21/2012,4778,"Invoice-Private",,12/21/2012,12/21/2012,,12116145MO,-6343.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3844,3844,"CR:Basic Service F... J.Cole 201212: Cole, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... J.Cole 201212: Cole, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,899,899,"CR:Resident Care -... J.Cole 201212: Cole, Jack",,,,,,,,,,,,,,,

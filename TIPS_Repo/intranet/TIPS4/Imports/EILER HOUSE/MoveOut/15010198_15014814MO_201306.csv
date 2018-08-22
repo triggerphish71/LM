@@ -1,0 +1,5 @@
+BATCH,,201306,B,50.0000,
+INVOICE,IN,,15010198,,06/01/2013,25.0000,"Invoice-Private",,06/01/2013,06/10/2013,,15014814MO,-2940.0000,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25.00,"Monthly Cable: Bunting, Bonnie",,,,,,,,,,,,,,,
+INVOICE,CM,,15010198,,06/01/2013,25,"Invoice-Private",,06/01/2013,06/10/2013,,15014814MO,-2940.0000,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25,25,"Credit for Monthly Cable: Bunting, Bonnie",,,,,,,,,,,,,,,

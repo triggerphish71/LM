@@ -1,0 +1,5 @@
+BATCH,,201302,B,3713.6000,
+INVOICE,IN,,09510303,,02/01/2013,3713.6000,"MoveIn-Olson. Dan",,02/01/2013,02/01/2013,,09515383,3713.6000,,,,,,,,,,
+TRANSACTION,3010,010103095,28,89.0000,2492,"Basic Service Fee - Studio: Olson. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103095,28,22.2000,621.6,"Resident Care - Level 12: Olson. Dan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,600.0000,600,"New Resident Fee: Olson. Dan",,,,,,,,,,,,,,,

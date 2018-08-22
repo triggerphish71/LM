@@ -1,0 +1,8 @@
+BATCH,,201110,B,4186.6400,
+INVOICE,IN,,50410002,,10/09/2011,245.6100,"Invoice-Medicaid",,10/09/2011,10/09/2011,,50413444MO,-3695.4200,,,,,,,,,,
+TRANSACTION,3021,010318504,9,8.4200,75.78,"Medicaid Room & Board for Oct: Begin, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3021,010318504,9,18.8700,169.83,"Medicaid Room & Board for Oct: Begin, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,50410002,,10/09/2011,3941.03,"Invoice-Medicaid",,10/09/2011,10/09/2011,,50413444MO,-3695.4200,,,,,,,,,,
+TRANSACTION,3021,010318504,1,261,261,"CR:Medicaid Room &... N.Begin 201110: Begin, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3021,010318504,1,585,585,"CR:Medicaid Room &... N.Begin 201110: Begin, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3022,010318504,1,3095.03,3095.03,"CR:State Medicaid... N.Begin 201110: Begin, Nancy",,,,,,,,,,,,,,,

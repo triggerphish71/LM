@@ -1,0 +1,8 @@
+BATCH,,201306,B,2103.6000,
+INVOICE,IN,,03810237,,06/01/2013,437.6000,"Invoice-Private",,06/01/2013,06/10/2013,,03814463MO,-1228.4000,,,,,,,,,,
+TRANSACTION,3020,010103038,8,51.0000,408.00,"Basic Service Fee - Studio for Jun: Robb, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,8,3.7000,29.60,"Resident Care - Level 2 for Jun: Robb, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,03810237,,06/01/2013,1666,"Invoice-Private",,06/01/2013,06/10/2013,,03814463MO,-1228.4000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,1530,1530,"CR:Basic Service F... D.Robb 201306: Robb, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... D.Robb 201306: Robb, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,111,111,"CR:Resident Care -... D.Robb 201306: Robb, Donald",,,,,,,,,,,,,,,

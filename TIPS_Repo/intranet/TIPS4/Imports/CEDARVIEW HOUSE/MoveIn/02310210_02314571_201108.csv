@@ -1,0 +1,6 @@
+BATCH,,201108,B,3105.0000,
+INVOICE,IN,,02310210,,08/22/2011,3105.0000,"MoveIn-Hale. Roy",,08/22/2011,08/22/2011,,02314571,6370.0000,,,,,,,,,,
+TRANSACTION,3010,010202023,10,91.0000,910,"R.Hale: Basic Service Fee - Studio: Hale. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202023,10,17.0000,170,"R.Hale: Resident Care - Level 1: Hale. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202023,1,25.0000,25,"Monthly Cable: Hale. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202023,1,2000.0000,2000,"New Resident Fee: Hale. Roy",,,,,,,,,,,,,,,

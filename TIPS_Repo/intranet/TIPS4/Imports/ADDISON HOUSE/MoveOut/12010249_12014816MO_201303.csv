@@ -1,0 +1,6 @@
+BATCH,,201303,B,2175.0000,
+INVOICE,IN,,12010249,,03/01/2013,130.0000,"Invoice-Private",,03/01/2013,03/10/2013,,12014816MO,-1915.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,2,65.0000,130.00,"Basic Service Fee - Studio for Mar: Carnes, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,12010249,,03/01/2013,2045,"Invoice-Private",,03/01/2013,03/10/2013,,12014816MO,-1915.0000,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2015,2015,"CR:Basic Service F... F.Carnes 201303: Carnes, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... F.Carnes 201303: Carnes, Frank",,,,,,,,,,,,,,,

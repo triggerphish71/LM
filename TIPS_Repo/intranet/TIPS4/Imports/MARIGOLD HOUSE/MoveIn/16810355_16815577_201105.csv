@@ -1,0 +1,5 @@
+BATCH,,201105,B,3187.0000,
+INVOICE,IN,,16810355,,05/01/2011,3187.0000,"May_Rent-Perkins. Mary",,05/01/2011,05/10/2011,,16815577,5574.0000,,,,,,,,,,
+TRANSACTION,3010,010313168,31,89.0000,2759,"M.Perkins: Basic Service Fee - Studio Deluxe: Perkins. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010313168,31,13.0000,403,"M.Perkins: Resident Care - Level 1: Perkins. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010313168,1,25.0000,25,"Monthly Cable: Perkins. Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,4416.7200,
+INVOICE,IN,,01010167,,12/11/2012,1156.7600,"Invoice-Private",,12/11/2012,12/11/2012,,01012880MO,-5363.1600,,,,,,,,,,
+TRANSACTION,3020,010101010,11,98.0000,1078.00,"Basic Service Fee - One Bedroom for Dec: Hockett, CA",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,11,7.1600,78.76,"Resident Care - Level 4 for Dec: Hockett, CA",,,,,,,,,,,,,,,
+INVOICE,CM,,01010167,,12/11/2012,3259.96,"Invoice-Private",,12/11/2012,12/11/2012,,01012880MO,-5363.1600,,,,,,,,,,
+TRANSACTION,3020,010101010,1,3038,3038,"CR:Basic Service F... C.Hockett 201212: Hockett, CA",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101010,1,221.96,221.96,"CR:Resident Care -... C.Hockett 201212: Hockett, CA",,,,,,,,,,,,,,,

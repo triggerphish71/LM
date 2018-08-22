@@ -1,0 +1,7 @@
+BATCH,,201106,B,4399.2000,
+INVOICE,IN,,00710157,,06/17/2011,1591.2000,"Invoice-Private",,06/17/2011,06/17/2011,,00713171MO,-3498.4000,,,,,,,,,,
+TRANSACTION,3027,010101007,17,13.6000,231.20,"Resident Care - Level 8 for Jun: Hadley, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,17,80.0000,1360.00,"Room and Board - Studio for Jun: Hadley, Victor",,,,,,,,,,,,,,,
+INVOICE,CM,,00710157,,06/17/2011,2808,"Invoice-Private",,06/17/2011,06/17/2011,,00713171MO,-3498.4000,,,,,,,,,,
+TRANSACTION,3027,010101007,1,408,408,"CR:Resident Care -... V.Hadley 201106: Hadley, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2400,2400,"CR:Room and Board ... V.Hadley 201106: Hadley, Victor",,,,,,,,,,,,,,,

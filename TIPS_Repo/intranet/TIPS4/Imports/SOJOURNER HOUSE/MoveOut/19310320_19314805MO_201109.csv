@@ -1,0 +1,7 @@
+BATCH,,201109,B,1052.0000,
+INVOICE,IN,,19310320,,09/01/2011,526.0000,"Invoice-Private",,09/01/2011,09/10/2011,,19314805MO,-2845.8000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10.0000,310.00,"CC Meals: Pick, John",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315193,30,7.2000,216.00,"Credit for Two Room Rental Discount: Pick, John",,,,,,,,,,,,,,,
+INVOICE,CM,,19310320,,09/01/2011,526,"Invoice-Private",,09/01/2011,09/10/2011,,19314805MO,-2845.8000,,,,,,,,,,
+TRANSACTION,2094,010315193,31,10,310,"Credit for CC Meals: Pick, John",,,,,,,,,,,,,,,
+TRANSACTION,3312,010315193,30,7.2,216,"Two Room Rental Discount: Pick, John",,,,,,,,,,,,,,,

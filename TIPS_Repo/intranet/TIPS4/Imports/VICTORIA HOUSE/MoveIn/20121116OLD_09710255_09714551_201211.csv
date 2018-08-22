@@ -1,0 +1,5 @@
+BATCH,,201211,B,3555.0000,
+INVOICE,IN,,09710255,,11/16/2012,3555.0000,"MoveIn-Rowe. Leone (Lee)",,11/16/2012,11/16/2012,,09714551,6252.0000,,,,,,,,,,
+TRANSACTION,3010,010103097,15,87.0000,1305,"Basic Service Fee - Studio: Rowe. Leone (Lee)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103097,1,2000.0000,2000,"New Resident Fee: Rowe. Leone (Lee)",,,,,,,,,,,,,,,
+TRANSACTION,3213,010103097,1,250.0000,250,"Pet Fee: Rowe. Leone (Lee)",,,,,,,,,,,,,,,

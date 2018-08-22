@@ -1,0 +1,8 @@
+BATCH,,201212,B,4921.0000,
+INVOICE,IN,,03710194,,12/12/2012,1418.0000,"Invoice-Private",,12/12/2012,12/12/2012,,03714492MO,-4751.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,1,62.0000,62.00,"CR:Limited Term Di... M.Oler 201212: Oler, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,12,97.0000,1164.00,"Basic Service Fee - Studio for Dec: Oler, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202037,12,16.0000,192.00,"Private Care Rate Adjustment for Dec: Oler, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03710194,,12/12/2012,3503,"Invoice-Private",,12/12/2012,12/12/2012,,03714492MO,-4751.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,3007,3007,"CR:Basic Service F... M.Oler 201212: Oler, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202037,1,496,496,"CR:Private Care Ra... M.Oler 201212: Oler, Mary",,,,,,,,,,,,,,,

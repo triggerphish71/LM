@@ -1,0 +1,5 @@
+BATCH,,201106,B,1620.0000,
+INVOICE,IN,,03410247,,06/30/2011,1620.0000,"MoveIn-Jones. Hilda",,06/30/2011,06/30/2011,,03415102,4530.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,1,93.0000,93,"Basic Service Fee - Studio         : Jones. Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Jones. Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Jones. Hilda",,,,,,,,,,,,,,,

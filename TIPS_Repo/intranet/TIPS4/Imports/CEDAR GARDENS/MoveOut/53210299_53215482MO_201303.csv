@@ -1,0 +1,7 @@
+BATCH,,201303,B,6917.1200,
+INVOICE,IN,,53210299,,03/01/2013,216.1600,"Invoice-Private",,03/01/2013,03/01/2013,,53215482MO,-6484.8000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,132.0000,132.00,"Basic Service Fee - Studio Deluxe for Mar: Moen, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,84.1600,84.16,"Resident Care - Level 6+4 pts for Mar: Moen, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,53210299,,03/01/2013,6700.96,"Invoice-Private",,03/01/2013,03/01/2013,,53215482MO,-6484.8000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,4092,4092,"CR:Basic Service F... R.Moen 201303: Moen, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2608.96,2608.96,"CR:Resident Care -... R.Moen 201303: Moen, Richard",,,,,,,,,,,,,,,

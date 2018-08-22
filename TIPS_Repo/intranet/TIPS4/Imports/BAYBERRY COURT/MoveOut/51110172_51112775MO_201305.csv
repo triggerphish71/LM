@@ -1,0 +1,5 @@
+BATCH,,201305,B,54.0000,
+INVOICE,IN,,51110172,,05/01/2013,27.0000,"Invoice-Private",,05/01/2013,05/10/2013,,51112775MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Moore, Janette",,,,,,,,,,,,,,,
+INVOICE,CM,,51110172,,05/01/2013,27,"Invoice-Private",,05/01/2013,05/10/2013,,51112775MO,-3807.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Moore, Janette",,,,,,,,,,,,,,,

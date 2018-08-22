@@ -1,0 +1,8 @@
+BATCH,,201803,B,12858.0200,
+INVOICE,IN,,14610392,,03/26/2018,5850.0000,"Invoice-Private",,03/26/2018,03/26/2018,,14617562MO,-7941.0400,,,,,,,,,,
+TRANSACTION,3020,010009146,26,122.0000,3172.00,"Basic Service Fee - One Bedroom  for Mar: Faulkner, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009146,26,103.0000,2678.00,"Resident Care - Level 6  for Mar: Faulkner, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,14610392,,03/26/2018,7008.02,"Invoice-Private",,03/26/2018,03/26/2018,,14617562MO,-7941.0400,,,,,,,,,,
+TRANSACTION,3020,010009146,1,3782,3782,"CR:Basic Service F... L.Faulkner 201803: Faulkner, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3130,010009146,1,33.02,33.02,"CR:Pendant Fee... L.Faulkner 201803: Faulkner, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009146,1,3193,3193,"CR:Resident Care -... L.Faulkner 201803: Faulkner, Lois",,,,,,,,,,,,,,,

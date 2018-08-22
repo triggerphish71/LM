@@ -1,0 +1,6 @@
+BATCH,,201301,B,3636.0000,
+INVOICE,IN,,19410184,,01/01/2013,620.0000,"Invoice-Private",,01/01/2013,01/10/2013,,19414439MO,-2396.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,620.0000,620.00,"CR:Limited Term Di... E.Linneman 201301: Linneman, Eileen",,,,,,,,,,,,,,,
+INVOICE,CM,,19410184,,01/01/2013,3016,"Invoice-Private",,01/01/2013,01/10/2013,,19414439MO,-2396.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2976,2976,"CR:Basic Service F... E.Linneman 201301: Linneman, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... E.Linneman 201301: Linneman, Eileen",,,,,,,,,,,,,,,

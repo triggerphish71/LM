@@ -1,0 +1,8 @@
+BATCH,,201205,B,4965.9500,
+INVOICE,IN,,01310178,,05/30/2012,2428.5000,"Invoice-Private",,05/30/2012,05/30/2012,,01314104MO,-2565.4500,,,,,,,,,,
+TRANSACTION,3027,010103013,30,8.9500,268.50,"Resident Care - Level 5 for May: Lindsley, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,30,72.0000,2160.00,"Room and Board - Studio for May: Lindsley, Gordon",,,,,,,,,,,,,,,
+INVOICE,CM,,01310178,,05/30/2012,2537.45,"Invoice-Private",,05/30/2012,05/30/2012,,01314104MO,-2565.4500,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... G.Lindsley 201205: Lindsley, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,277.45,277.45,"CR:Resident Care -... G.Lindsley 201205: Lindsley, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Room and Board ... G.Lindsley 201205: Lindsley, Gordon",,,,,,,,,,,,,,,

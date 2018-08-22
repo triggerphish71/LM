@@ -1,0 +1,8 @@
+BATCH,,201111,B,7967.0000,
+INVOICE,IN,,08810210,,11/19/2011,2142.0000,"Invoice-Private",,11/19/2011,11/19/2011,,08814189MO,-8426.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,14,94.0000,1316.00,"Basic Service Fee - Studio for Nov: Pierson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,14,59.0000,826.00,"Service : lvl 0 to lvl 4 - 11/6/11 for Nov: Pierson, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,08810210,,11/19/2011,5825,"Invoice-Private",,11/19/2011,11/19/2011,,08814189MO,-8426.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,2350,2350,"CR:Basic Service F... M.Pierson 201111: Pierson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,2000,2000,"CR:New Resident Fe... M.Pierson 201111: Pierson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,1475,1475,"CR:Service : lvl 0... M.Pierson 201111: Pierson, Martha",,,,,,,,,,,,,,,

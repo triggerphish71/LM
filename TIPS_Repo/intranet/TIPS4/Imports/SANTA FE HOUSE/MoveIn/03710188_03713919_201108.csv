@@ -1,0 +1,6 @@
+BATCH,,201108,B,5077.0000,
+INVOICE,IN,,03710188,,08/04/2011,5077.0000,"MoveIn-Bowman. John",,08/04/2011,08/04/2011,,03713919,5077.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,28,93.0000,2604,"Basic Service Fee - Studio         : Bowman. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202037,28,16.0000,448,"Resident Care - Level 1: Bowman. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Bowman. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,2000.0000,2000,"New Resident Fee: Bowman. John",,,,,,,,,,,,,,,

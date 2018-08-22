@@ -1,0 +1,5 @@
+BATCH,,201210,B,3902.0000,
+INVOICE,CM,,16510308,,10/01/2012,3902,"Invoice-Private",,10/01/2012,10/10/2012,,16514488MO,-4929.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... D.Gregory 201210: Gregory, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... D.Gregory 201210: Gregory, David",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,868,868,"CR:Resident Care -... D.Gregory 201210: Gregory, David",,,,,,,,,,,,,,,

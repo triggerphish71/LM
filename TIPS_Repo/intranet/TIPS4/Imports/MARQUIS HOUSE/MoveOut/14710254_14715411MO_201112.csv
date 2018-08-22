@@ -1,0 +1,8 @@
+BATCH,,201112,B,5522.0000,
+INVOICE,IN,,14710254,,12/09/2011,1233.0000,"Invoice-Private",,12/09/2011,12/09/2011,,14715411MO,-3056.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,9,120.0000,1080.00,"Basic Service Fee - One Bedroom for Dec: Giannatti, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,9,17.0000,153.00,"Resident Care - Level 1 for Dec: Giannatti, Patrick",,,,,,,,,,,,,,,
+INVOICE,CM,,14710254,,12/09/2011,4289,"Invoice-Private",,12/09/2011,12/09/2011,,14715411MO,-3056.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3720,3720,"CR:Basic Service F... P.Giannatti 201112: Giannatti, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... P.Giannatti 201112: Giannatti, Patrick",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,527,527,"CR:Resident Care -... P.Giannatti 201112: Giannatti, Patrick",,,,,,,,,,,,,,,

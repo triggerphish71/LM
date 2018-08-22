@@ -1,0 +1,5 @@
+BATCH,,201208,B,54.0000,
+INVOICE,IN,,05210181,,08/01/2012,27.0000,"Invoice-Private",,08/01/2012,08/10/2012,,05214916MO,-4844.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27.00,"Monthly Cable: Van Meter, Mike",,,,,,,,,,,,,,,
+INVOICE,CM,,05210181,,08/01/2012,27,"Invoice-Private",,08/01/2012,08/10/2012,,05214916MO,-4844.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"Credit for Monthly Cable: Van Meter, Mike",,,,,,,,,,,,,,,

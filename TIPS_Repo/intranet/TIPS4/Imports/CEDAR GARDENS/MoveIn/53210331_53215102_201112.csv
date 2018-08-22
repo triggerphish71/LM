@@ -1,0 +1,6 @@
+BATCH,,201112,B,6061.0000,
+INVOICE,IN,,53210331,,12/09/2011,6061.0000,"MoveIn-Hoffmann. Anita",,12/09/2011,12/09/2011,,53215102,6061.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,23,131.0000,3013,"A.Hoffmann: Basic Service Fee - Studio Suite: Hoffmann. Anita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,23,66.0000,1518,"A.Hoffmann: Resident Care - Level 5: Hoffmann. Anita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Hoffmann. Anita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319532,1,1500.0000,1500,"New Resident Fee: Hoffmann. Anita",,,,,,,,,,,,,,,

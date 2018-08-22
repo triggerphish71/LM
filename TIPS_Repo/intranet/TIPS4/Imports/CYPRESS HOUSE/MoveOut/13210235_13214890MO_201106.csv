@@ -1,0 +1,5 @@
+BATCH,,201106,B,54.0000,
+INVOICE,IN,,13210235,,06/01/2011,27.0000,"Invoice-Private",,06/01/2011,06/10/2011,,13214890MO,-5319.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Micheal, Elmer ",,,,,,,,,,,,,,,
+INVOICE,CM,,13210235,,06/01/2011,27,"Invoice-Private",,06/01/2011,06/10/2011,,13214890MO,-5319.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Micheal, Elmer ",,,,,,,,,,,,,,,

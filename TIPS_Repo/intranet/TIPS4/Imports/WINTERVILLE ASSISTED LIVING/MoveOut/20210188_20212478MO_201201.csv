@@ -1,0 +1,7 @@
+BATCH,,201201,B,4680.0000,
+INVOICE,IN,,20210188,,01/14/2012,1456.0000,"Invoice-Private",,01/14/2012,01/14/2012,,20212478MO,-4784.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,14,21.0000,294.00,"Resident Care - Level 2 for Jan: Rush, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,14,83.0000,1162.00,"Studio for Jan: Rush, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,20210188,,01/14/2012,3224,"Invoice-Private",,01/14/2012,01/14/2012,,20212478MO,-4784.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,651,651,"CR:Resident Care -... M.Rush 201201: Rush, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Studio... M.Rush 201201: Rush, Mary",,,,,,,,,,,,,,,

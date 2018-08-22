@@ -1,0 +1,6 @@
+BATCH,,201105,B,2590.8000,
+INVOICE,IN,,15210110,,05/04/2011,482.8000,"Invoice-Private",,05/04/2011,05/04/2011,,15213398MO,-1625.2000,,,,,,,,,,
+TRANSACTION,3312,010211152,1,210.8000,210.80,"CR:Two Room Rental... M.Joesting 201105: Joesting, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,4,68.0000,272.00,"Basic Service Fee - Studio for May: Joesting, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,15210110,,05/04/2011,2108,"Invoice-Private",,05/04/2011,05/04/2011,,15213398MO,-1625.2000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2108,2108,"CR:Basic Service F... M.Joesting 201105: Joesting, Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,160.0000,
+INVOICE,IN,,19810118,,01/01/2012,80.0000,"Invoice-Private",,01/01/2012,01/10/2012,,19816820MO,-4000.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Schoenauer, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3214,010112198,1,50.0000,50.00,"Garage Rental: Schoenauer, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,19810118,,01/01/2012,80,"Invoice-Private",,01/01/2012,01/10/2012,,19816820MO,-4000.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Schoenauer, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3214,010112198,1,50,50,"Credit for Garage Rental: Schoenauer, Bob",,,,,,,,,,,,,,,

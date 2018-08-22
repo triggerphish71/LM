@@ -1,0 +1,4 @@
+BATCH,,201806,B,3390.0000,
+INVOICE,CM,,50510234,,06/01/2018,3390,"Invoice-Private",,06/01/2018,06/10/2018,,50515144MO,-4303.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2820,2820,"CR:Basic Service F... S.Sample 201806: Sample, Sarah (Pat)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,570,570,"CR:Resident Care -... S.Sample 201806: Sample, Sarah (Pat)",,,,,,,,,,,,,,,

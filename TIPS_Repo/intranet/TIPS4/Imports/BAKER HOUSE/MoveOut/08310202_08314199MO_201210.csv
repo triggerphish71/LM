@@ -1,0 +1,7 @@
+BATCH,,201210,B,4960.0000,
+INVOICE,IN,,08310202,,10/01/2012,155.0000,"Invoice-Private",,10/01/2012,10/01/2012,,08314199MO,-4650.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,106.0000,106.00,"Basic Service Fee - Studio for Oct: Clark, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,49.0000,49.00,"Resident Care - Level 3 for Oct: Clark, Samuel",,,,,,,,,,,,,,,
+INVOICE,CM,,08310202,,10/01/2012,4805,"Invoice-Private",,10/01/2012,10/01/2012,,08314199MO,-4650.0000,,,,,,,,,,
+TRANSACTION,3020,010306083,1,3286,3286,"CR:Basic Service F... S.Clark 201210: Clark, Samuel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306083,1,1519,1519,"CR:Resident Care -... S.Clark 201210: Clark, Samuel",,,,,,,,,,,,,,,

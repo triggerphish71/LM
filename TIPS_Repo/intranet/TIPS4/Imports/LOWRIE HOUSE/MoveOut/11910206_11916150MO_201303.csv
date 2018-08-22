@@ -1,0 +1,5 @@
+BATCH,,201303,B,52.0000,
+INVOICE,IN,,11910206,,03/01/2013,26.0000,"Invoice-Private",,03/01/2013,03/10/2013,,11916150MO,-5082.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Philips, Rhoda",,,,,,,,,,,,,,,
+INVOICE,CM,,11910206,,03/01/2013,26,"Invoice-Private",,03/01/2013,03/10/2013,,11916150MO,-5082.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Philips, Rhoda",,,,,,,,,,,,,,,

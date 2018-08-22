@@ -1,0 +1,5 @@
+BATCH,,201211,B,1650.0000,
+INVOICE,IN,,01410237,,11/30/2012,1650.0000,"MoveIn-Rains. Joe",,11/30/2012,11/30/2012,,01414521,5550.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,1,125.0000,125,"Basic Service Fee - One Bedroom: Rains. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Rains. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,1500.0000,1500,"New Resident Fee: Rains. Joe",,,,,,,,,,,,,,,

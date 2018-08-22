@@ -1,0 +1,5 @@
+BATCH,,201804,B,52.6000,
+INVOICE,IN,,11010576,,04/01/2018,26.3000,"Invoice-Private",,04/01/2018,04/10/2018,,11017264MO,-2352.0000,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3000,26.30,"Monthly Cable: McQueen, Annette",,,,,,,,,,,,,,,
+INVOICE,CM,,11010576,,04/01/2018,26.3,"Invoice-Private",,04/01/2018,04/10/2018,,11017264MO,-2352.0000,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3,26.3,"Credit for Monthly Cable: McQueen, Annette",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201203,B,6082.0000,
+INVOICE,IN,,02910292,,03/11/2012,1959.0000,"Invoice-Private",,03/11/2012,03/11/2012,,02915518MO,-5674.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,496.0000,496.00,"CR:Limited Term Di... J.Shaffer 201203: Shaffer, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,11,116.0000,1276.00,"Basic Service Fee - One Bedroom for Mar: Shaffer, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,11,17.0000,187.00,"Resident Care - Level 1 for Mar: Shaffer, James",,,,,,,,,,,,,,,
+INVOICE,CM,,02910292,,03/11/2012,4123,"Invoice-Private",,03/11/2012,03/11/2012,,02915518MO,-5674.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3596,3596,"CR:Basic Service F... J.Shaffer 201203: Shaffer, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,527,527,"CR:Resident Care -... J.Shaffer 201203: Shaffer, James",,,,,,,,,,,,,,,

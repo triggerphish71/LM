@@ -1,0 +1,5 @@
+BATCH,,201110,B,3215.0000,
+INVOICE,IN,,14310171,,10/14/2011,3215.0000,"MoveIn-Page. Michael",,10/14/2011,10/14/2011,,14314119,3215.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,21,80.0000,1680,"Basic Service Fee - Studio         : Page. Michael",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Page. Michael",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309143,1,1500.0000,1500,"New Resident Fee: Page. Michael",,,,,,,,,,,,,,,

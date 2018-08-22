@@ -1,0 +1,5 @@
+BATCH,,201209,B,3655.3000,
+INVOICE,IN,,16910271,,09/01/2012,3655.3000,"September_Rent-Crocker. Wayne",,09/01/2012,09/10/2012,,16915105,6406.3600,,,,,,,,,,
+TRANSACTION,3010,010103169,30,87.0000,2610,"Basic Service Fee - Studio: Crocker. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103169,30,34.0100,1020.3,"Resident Care - Level 19: Crocker. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Crocker. Wayne",,,,,,,,,,,,,,,

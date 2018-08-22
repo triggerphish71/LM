@@ -1,0 +1,5 @@
+BATCH,,201202,B,54.0000,
+INVOICE,IN,,01910188,,02/01/2012,27.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01914700MO,-5740.8500,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27.00,"Monthly Cable: Rhoades, Johnnie",,,,,,,,,,,,,,,
+INVOICE,CM,,01910188,,02/01/2012,27,"Invoice-Private",,02/01/2012,02/10/2012,,01914700MO,-5740.8500,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27,27,"Credit for Monthly Cable: Rhoades, Johnnie",,,,,,,,,,,,,,,

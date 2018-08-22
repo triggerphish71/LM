@@ -1,0 +1,6 @@
+BATCH,,201211,B,4465.0000,
+INVOICE,IN,,50510129,,11/03/2012,4465.0000,"MoveIn-Cupp. Donald",,11/03/2012,11/03/2012,,50511793,4465.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,28,90.0000,2520,"Basic Service Fee - Studio: Cupp. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,28,15.0000,420,"Resident Care - Level 1: Cupp. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Cupp. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Cupp. Donald",,,,,,,,,,,,,,,

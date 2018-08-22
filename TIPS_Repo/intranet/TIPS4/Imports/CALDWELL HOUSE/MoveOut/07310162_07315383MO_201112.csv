@@ -1,0 +1,8 @@
+BATCH,,201112,B,8132.0000,
+INVOICE,IN,,07310162,,12/21/2011,3276.0000,"Invoice-Private",,12/21/2011,12/21/2011,,07315383MO,-6560.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,21,106.0000,2226.00,"Basic Service Fee - Deluxe for Dec: Farley, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,21,50.0000,1050.00,"Resident Care - Level 3 for Dec: Farley, William",,,,,,,,,,,,,,,
+INVOICE,CM,,07310162,,12/21/2011,4856,"Invoice-Private",,12/21/2011,12/21/2011,,07315383MO,-6560.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3286,3286,"CR:Basic Service F... W.Farley 201112: Farley, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20,20,"CR:Monthly Cable... W.Farley 201112: Farley, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1550,1550,"CR:Resident Care -... W.Farley 201112: Farley, William",,,,,,,,,,,,,,,

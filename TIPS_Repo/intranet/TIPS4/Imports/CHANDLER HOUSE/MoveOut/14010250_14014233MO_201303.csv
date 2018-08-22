@@ -1,0 +1,6 @@
+BATCH,,201303,B,5046.0000,
+INVOICE,IN,,14010250,,03/26/2013,2288.0000,"Invoice-Private",,03/26/2013,03/26/2013,,14014233MO,-3110.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,26,88.0000,2288.00,"Basic Service Fee - Studio for Mar: Weist, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,14010250,,03/26/2013,2758,"Invoice-Private",,03/26/2013,03/26/2013,,14014233MO,-3110.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2728,2728,"CR:Basic Service F... H.Weist 201303: Weist, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... H.Weist 201303: Weist, Harry",,,,,,,,,,,,,,,

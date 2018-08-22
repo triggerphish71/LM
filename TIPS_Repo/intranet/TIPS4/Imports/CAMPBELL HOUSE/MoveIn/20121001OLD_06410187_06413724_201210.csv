@@ -1,0 +1,5 @@
+BATCH,,201210,B,3321.0000,
+INVOICE,IN,,06410187,,10/01/2012,3321.0000,"October_Rent-Miller. Clair",,10/01/2012,10/10/2012,,06413724,3780.0000,,,,,,,,,,
+TRANSACTION,3010,010305064,31,90.0000,2790,"Basic Service Fee - Studio: Miller. Clair",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305064,31,16.0000,496,"Resident Care - Level 1: Miller. Clair",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305064,1,35.0000,35,"Monthly Cable: Miller. Clair",,,,,,,,,,,,,,,

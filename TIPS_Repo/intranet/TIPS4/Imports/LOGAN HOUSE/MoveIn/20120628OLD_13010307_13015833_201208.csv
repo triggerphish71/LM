@@ -1,0 +1,5 @@
+BATCH,,201208,B,2000.0000,
+INVOICE,IN,,13010307,,07/01/2012,400.0000,"July_Rent-Jedlowski. Mary",,07/01/2012,07/10/2012,,13015833,4322.0000,,,,,,,,,,
+TRANSACTION,3216,010310130,1,400.0000,400,"Monthly Deferral Charge: Jedlowski. Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13010307,,07/01/2012,1600.0000,"July_Rent-Jedlowski. Mary",,07/01/2012,07/10/2012,,13015833,4322.0000,,,,,,,,,,
+TRANSACTION,3216,010310130,1,1600,1600,"New Resident Fee Deferred: Jedlowski. Mary",,,,,,,,,,,,,,,

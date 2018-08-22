@@ -1,0 +1,7 @@
+BATCH,,201111,B,6777.4000,
+INVOICE,IN,,06210212,,11/01/2011,2451.4000,"Invoice-Private",,11/01/2011,11/10/2011,,06213622MO,-1874.6000,,,,,,,,,,
+TRANSACTION,3020,010101062,17,83.0000,1411.00,"Basic Service Fee - Studio for Nov: Nelson, Enid",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,17,61.2000,1040.40,"Resident Care - Level 36 for Nov: Nelson, Enid",,,,,,,,,,,,,,,
+INVOICE,CM,,06210212,,11/01/2011,4326,"Invoice-Private",,11/01/2011,11/10/2011,,06213622MO,-1874.6000,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2490,2490,"CR:Basic Service F... E.Nelson 201111: Nelson, Enid",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1836,1836,"CR:Resident Care -... E.Nelson 201111: Nelson, Enid",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201106,B,70.0000,
+INVOICE,IN,,17810248,,06/01/2011,35.0000,"Invoice-Private",,06/01/2011,06/10/2011,,17815582MO,-3395.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Eilts, Ervin",,,,,,,,,,,,,,,
+INVOICE,CM,,17810248,,06/01/2011,35,"Invoice-Private",,06/01/2011,06/10/2011,,17815582MO,-3395.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Eilts, Ervin",,,,,,,,,,,,,,,

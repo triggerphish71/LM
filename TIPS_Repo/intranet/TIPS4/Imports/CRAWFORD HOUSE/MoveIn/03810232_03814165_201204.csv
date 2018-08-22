@@ -1,0 +1,5 @@
+BATCH,,201204,B,3135.7000,
+INVOICE,IN,,03810232,,04/01/2012,3135.7000,"April_Rent-Apling. Albert",,04/01/2012,04/10/2012,,03814165,5679.1500,,,,,,,,,,
+TRANSACTION,3010,010103038,30,84.0000,2520,"Basic Service Fee - Studio: Apling. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,30,19.6900,590.7,"Resident Care - Level 11: Apling. Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Apling. Albert",,,,,,,,,,,,,,,

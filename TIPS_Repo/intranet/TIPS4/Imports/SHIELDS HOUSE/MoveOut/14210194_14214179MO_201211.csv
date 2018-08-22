@@ -1,0 +1,7 @@
+BATCH,,201211,B,5465.0000,
+INVOICE,IN,,14210194,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14214179MO,-5855.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,1,60.0000,60.00,"CR:Limited Term Di... J.Shepherd 201211: Shepherd, Jerry",,,,,,,,,,,,,,,
+INVOICE,CM,,14210194,,11/01/2012,5405,"Invoice-Private",,11/01/2012,11/10/2012,,14214179MO,-5855.0000,,,,,,,,,,
+TRANSACTION,3020,010309142,1,3180,3180,"CR:Basic Service F... J.Shepherd 201211: Shepherd, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... J.Shepherd 201211: Shepherd, Jerry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,2190,2190,"CR:Resident Care -... J.Shepherd 201211: Shepherd, Jerry",,,,,,,,,,,,,,,

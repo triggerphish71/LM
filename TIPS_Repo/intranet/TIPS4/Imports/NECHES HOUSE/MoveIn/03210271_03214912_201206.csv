@@ -1,0 +1,5 @@
+BATCH,,201206,B,4830.0000,
+INVOICE,IN,,03210271,,06/01/2012,4830.0000,"MoveIn-Thebeau. Winnie",,06/01/2012,06/01/2012,,03214912,4830.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,30,94.0000,2820,"Basic Service Fee - Studio: Thebeau. Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202032,30,17.0000,510,"Resident Care - Level 1: Thebeau. Winnie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Thebeau. Winnie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,4596.0000,
+INVOICE,IN,,03410259,,09/05/2011,372.0000,"Invoice-Private",,09/05/2011,09/05/2011,,03415176MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,4,93.0000,372.00,"Basic Service Fee - Studio for Sep: Miles, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03410259,,09/05/2011,4224,"Invoice-Private",,09/05/2011,09/05/2011,,03415176MO,-3852.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2697,2697,"CR:Basic Service F... M.Miles 201109: Miles, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... M.Miles 201109: Miles, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500,1500,"CR:New Resident Fe... M.Miles 201109: Miles, Mary",,,,,,,,,,,,,,,

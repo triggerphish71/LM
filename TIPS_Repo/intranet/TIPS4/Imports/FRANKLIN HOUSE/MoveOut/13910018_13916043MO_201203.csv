@@ -1,0 +1,7 @@
+BATCH,,201203,B,1002.5600,
+INVOICE,IN,,13910018,,03/01/2012,501.2800,"Invoice-Medicaid",,03/01/2012,03/10/2012,,13916043MO,-2529.8800,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30.00,"Monthly Cable: Clark, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103139,1,471.2800,471.28,"State Medicaid (3012): Clark, Andrew",,,,,,,,,,,,,,,
+INVOICE,CM,,13910018,,03/01/2012,501.28,"Invoice-Medicaid",,03/01/2012,03/10/2012,,13916043MO,-2529.8800,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"Credit for Monthly Cable: Clark, Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3012,010103139,1,471.28,471.28,"Credit for State Medicaid (3012): Clark, Andrew",,,,,,,,,,,,,,,

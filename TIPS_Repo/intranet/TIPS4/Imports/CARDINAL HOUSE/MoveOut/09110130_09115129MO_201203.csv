@@ -1,0 +1,8 @@
+BATCH,,201203,B,5224.5000,
+INVOICE,IN,,09110130,,03/10/2012,1473.5000,"Invoice-Private",,03/10/2012,03/10/2012,,09115129MO,-2277.5000,,,,,,,,,,
+TRANSACTION,3312,010305091,1,263.5000,263.50,"CR:Two Room Rental... H.Stewart 201203: Stewart, Henry Blair",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,10,85.0000,850.00,"Basic Service Fee - Studio for Mar: Stewart, Henry Blair",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,10,36.0000,360.00,"Resident Care - Level 2 for Mar: Stewart, Henry Blair",,,,,,,,,,,,,,,
+INVOICE,CM,,09110130,,03/10/2012,3751,"Invoice-Private",,03/10/2012,03/10/2012,,09115129MO,-2277.5000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2635,2635,"CR:Basic Service F... H.Stewart 201203: Stewart, Henry Blair",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... H.Stewart 201203: Stewart, Henry Blair",,,,,,,,,,,,,,,

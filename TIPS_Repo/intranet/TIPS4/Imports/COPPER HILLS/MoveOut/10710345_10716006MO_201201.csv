@@ -1,0 +1,7 @@
+BATCH,,201201,B,6864.0000,
+INVOICE,IN,,10710345,,01/13/2012,2028.0000,"Invoice-Private",,01/13/2012,01/13/2012,,10716006MO,-7332.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,13,98.0000,1274.00,"Basic Service Fee - Studio for Jan: Smith, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,13,58.0000,754.00,"Resident Care - Level 4 for Jan: Smith, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,10710345,,01/13/2012,4836,"Invoice-Private",,01/13/2012,01/13/2012,,10716006MO,-7332.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... R.Smith 201201: Smith, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1798,1798,"CR:Resident Care -... R.Smith 201201: Smith, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201804,B,6636.0000,
+INVOICE,IN,,31200002,,04/12/2018,1896.0000,"Invoice-Private",,04/12/2018,04/12/2018,,31210503MO,-7742.0000,,,,,,,,,,
+TRANSACTION,3027,070024312,12,31.0000,372.00,"Resident Care - Level 2  for Apr: Bissell, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,12,127.0000,1524.00,"Studio Deluxe  for Apr: Bissell, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,31200002,,04/12/2018,4740,"Invoice-Private",,04/12/2018,04/12/2018,,31210503MO,-7742.0000,,,,,,,,,,
+TRANSACTION,3027,070024312,1,930,930,"CR:Resident Care -... E.Bissell 201804: Bissell, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,1,3810,3810,"CR:Studio Deluxe... E.Bissell 201804: Bissell, Evelyn",,,,,,,,,,,,,,,

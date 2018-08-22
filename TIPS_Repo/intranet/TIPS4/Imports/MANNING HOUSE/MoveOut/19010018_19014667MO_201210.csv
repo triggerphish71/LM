@@ -1,0 +1,7 @@
+BATCH,,201210,B,3710.0000,
+INVOICE,IN,,19010018,,10/01/2012,62.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19014667MO,-4426.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,1,62.0000,62.00,"CR:Limited Term Di... A.Purser 201210: Purser, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,19010018,,10/01/2012,3648,"Invoice-Private",,10/01/2012,10/10/2012,,19014667MO,-4426.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,3596,3596,"CR:Basic Service F... A.Purser 201210: Purser, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... A.Purser 201210: Purser, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308190,1,25,25,"CR:Pendant Fee... A.Purser 201210: Purser, Alice",,,,,,,,,,,,,,,

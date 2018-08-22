@@ -1,0 +1,8 @@
+BATCH,,201109,B,9266.1000,
+INVOICE,IN,,03910172,,09/02/2011,4055.1000,"Invoice-Private",,09/02/2011,09/02/2011,,03914257MO,-1155.9000,,,,,,,,,,
+TRANSACTION,3320,010101039,1,60.0000,60.00,"CR:Limited Term Di... H.Austin 201109: Austin, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,23,86.7000,1994.10,"Resident Care - Level 51 for Sep: Austin, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,23,87.0000,2001.00,"Room and Board - Studio for Sep: Austin, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,03910172,,09/02/2011,5211,"Invoice-Private",,09/02/2011,09/02/2011,,03914257MO,-1155.9000,,,,,,,,,,
+TRANSACTION,3027,010101039,1,2601,2601,"CR:Resident Care -... H.Austin 201109: Austin, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2610,2610,"CR:Room and Board ... H.Austin 201109: Austin, Hazel",,,,,,,,,,,,,,,

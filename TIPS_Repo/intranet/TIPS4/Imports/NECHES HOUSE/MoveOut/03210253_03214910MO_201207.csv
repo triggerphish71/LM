@@ -1,0 +1,5 @@
+BATCH,,201207,B,620.0000,
+INVOICE,IN,,03210253,,07/01/2012,310.0000,"Invoice-Private",,07/01/2012,07/10/2012,,03214910MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,31,10.0000,310.00,"Credit for Limited Term Discount: Pullen, Buddy",,,,,,,,,,,,,,,
+INVOICE,CM,,03210253,,07/01/2012,310,"Invoice-Private",,07/01/2012,07/10/2012,,03214910MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,31,10,310,"Limited Term Discount: Pullen, Buddy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,2220.0000,
+INVOICE,IN,,06410174,,09/01/2011,1110.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06413516MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3320,010305064,30,37.0000,1110.00,"Credit for Limited Term Discount: Kretschmar, Cort",,,,,,,,,,,,,,,
+INVOICE,CM,,06410174,,09/01/2011,1110,"Invoice-Private",,09/01/2011,09/10/2011,,06413516MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3320,010305064,30,37,1110,"Limited Term Discount: Kretschmar, Cort",,,,,,,,,,,,,,,

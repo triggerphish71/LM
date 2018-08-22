@@ -1,0 +1,7 @@
+BATCH,,201110,B,4611.0000,
+INVOICE,IN,,15310228,,10/01/2011,4584.0000,"October_Rent-Thomas. William",,10/01/2011,10/10/2011,,15315672,7174.0000,,,,,,,,,,
+TRANSACTION,3010,010103153,31,96.0000,2976,"W.Thomas: Basic Service Fee - Studio: Thomas. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103153,31,51.0000,1581,"W.Thomas: Resident Care - Level 30: Thomas. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27,"Monthly Cable: Thomas. William",,,,,,,,,,,,,,,
+INVOICE,CM,,15310228,,10/01/2011,27.0000,"October_Rent-Thomas. William",,10/01/2011,10/10/2011,,15315672,7174.0000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Monthly Cable: Thomas. William",,,,,,,,,,,,,,,

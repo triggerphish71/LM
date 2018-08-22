@@ -1,0 +1,5 @@
+BATCH,,201207,B,5106.0000,
+INVOICE,IN,,15610292,,07/13/2012,1665.0000,"Invoice-Private",,07/13/2012,07/13/2012,,15615277MO,-1776.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,15,111.0000,1665.00,"Basic Service Fee - One Bedroom for Jul: Meyer, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,15610292,,07/13/2012,3441,"Invoice-Private",,07/13/2012,07/13/2012,,15615277MO,-1776.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3441,3441,"CR:Basic Service F... M.Meyer 201207: Meyer, Mildred",,,,,,,,,,,,,,,

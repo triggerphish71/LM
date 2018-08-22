@@ -1,0 +1,8 @@
+BATCH,,201106,B,4551.0000,
+INVOICE,IN,,51110145,,06/08/2011,1044.0000,"Invoice-Private",,06/08/2011,06/08/2011,,51112114MO,-2463.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,9,97.0000,873.00,"Basic Service Fee - Studio for Jun: Neal, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,9,19.0000,171.00,"Resident Care - Level 1 for Jun: Neal, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,51110145,,06/08/2011,3507,"Invoice-Private",,06/08/2011,06/08/2011,,51112114MO,-2463.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,2910,2910,"CR:Basic Service F... J.Neal 201106: Neal, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... J.Neal 201106: Neal, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,570,570,"CR:Resident Care -... J.Neal 201106: Neal, Joanne",,,,,,,,,,,,,,,

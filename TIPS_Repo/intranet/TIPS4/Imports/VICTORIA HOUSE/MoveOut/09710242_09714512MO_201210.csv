@@ -1,0 +1,7 @@
+BATCH,,201210,B,4122.6500,
+INVOICE,IN,,09710242,,10/01/2012,471.1600,"Invoice-Private",,10/01/2012,10/10/2012,,09714512MO,-3180.3300,,,,,,,,,,
+TRANSACTION,3020,010103097,4,116.0000,464.00,"Basic Service Fee - One Bedroom for Oct: Howells, Burt",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,4,1.7900,7.16,"Resident Care - Level 1 for Oct: Howells, Burt",,,,,,,,,,,,,,,
+INVOICE,CM,,09710242,,10/01/2012,3651.49,"Invoice-Private",,10/01/2012,10/10/2012,,09714512MO,-3180.3300,,,,,,,,,,
+TRANSACTION,3020,010103097,1,3596,3596,"CR:Basic Service F... B.Howells 201210: Howells, Burt",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,55.49,55.49,"CR:Resident Care -... B.Howells 201210: Howells, Burt",,,,,,,,,,,,,,,

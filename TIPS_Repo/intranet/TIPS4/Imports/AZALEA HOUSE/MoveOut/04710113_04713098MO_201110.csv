@@ -1,0 +1,8 @@
+BATCH,,201110,B,4057.0000,
+INVOICE,IN,,04710113,,10/01/2011,126.0000,"Invoice-Private",,10/01/2011,10/10/2011,,04713098MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,109.0000,109.00,"Basic Service Fee - One Bedroom for Oct: Estes, Jamie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,17.0000,17.00,"Resident Care - Level 1 for Oct: Estes, Jamie",,,,,,,,,,,,,,,
+INVOICE,CM,,04710113,,10/01/2011,3931,"Invoice-Private",,10/01/2011,10/10/2011,,04713098MO,-3805.0000,,,,,,,,,,
+TRANSACTION,3020,010202047,1,3379,3379,"CR:Basic Service F... J.Estes 201110: Estes, Jamie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25,25,"CR:Monthly Cable... J.Estes 201110: Estes, Jamie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202047,1,527,527,"CR:Resident Care -... J.Estes 201110: Estes, Jamie",,,,,,,,,,,,,,,

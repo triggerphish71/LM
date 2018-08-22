@@ -1,0 +1,7 @@
+BATCH,,201211,B,2700.0000,
+INVOICE,IN,,11110321,,11/01/2012,450.0000,"Invoice-Private",,11/01/2012,11/10/2012,,11115005MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,6,31.0000,186.00,"Basic Service Fee - Second Resident for Nov: Whitley, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,6,44.0000,264.00,"Resident Care - Level 3 for Nov: Whitley, William",,,,,,,,,,,,,,,
+INVOICE,CM,,11110321,,11/01/2012,2250,"Invoice-Private",,11/01/2012,11/10/2012,,11115005MO,-1800.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,930,930,"CR:Basic Service F... W.Whitley 201211: Whitley, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1320,1320,"CR:Resident Care -... W.Whitley 201211: Whitley, William",,,,,,,,,,,,,,,

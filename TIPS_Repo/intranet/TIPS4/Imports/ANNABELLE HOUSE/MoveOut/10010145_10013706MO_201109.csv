@@ -1,0 +1,7 @@
+BATCH,,201109,B,1388.9800,
+INVOICE,IN,,10010145,,09/01/2011,694.4900,"Invoice-Medicaid",,09/01/2011,09/10/2011,,10013706MO,-3482.3800,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25.00,"Monthly Cable: Spears, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104100,1,669.4900,669.49,"State Medicaid: Spears, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,10010145,,09/01/2011,694.49,"Invoice-Medicaid",,09/01/2011,09/10/2011,,10013706MO,-3482.3800,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"Credit for Monthly Cable: Spears, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104100,1,669.49,669.49,"Credit for State Medicaid: Spears, Anna",,,,,,,,,,,,,,,

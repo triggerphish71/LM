@@ -1,0 +1,8 @@
+BATCH,,201201,B,4767.5200,
+INVOICE,IN,,00510143,,01/28/2012,1763.5200,"Invoice-Private",,01/28/2012,01/28/2012,,00512401MO,-3565.1200,,,,,,,,,,
+TRANSACTION,3020,010101005,22,73.0000,1606.00,"Basic Service Fee - Studio for Jan: Katkansky, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,22,7.1600,157.52,"Resident Care - Level 4 for Jan: Katkansky, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,00510143,,01/28/2012,3004,"Invoice-Private",,01/28/2012,01/28/2012,,00512401MO,-3565.1200,,,,,,,,,,
+TRANSACTION,3020,010101005,1,1825,1825,"CR:Basic Service F... P.Katkansky 201201: Katkansky, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000,1000,"CR:New Resident Fe... P.Katkansky 201201: Katkansky, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,179,179,"CR:Resident Care -... P.Katkansky 201201: Katkansky, Pat",,,,,,,,,,,,,,,

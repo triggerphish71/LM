@@ -1,0 +1,5 @@
+BATCH,,201112,B,1742.9800,
+INVOICE,CM,,07710060,,12/01/2011,1742.98,"Invoice-Medicaid",,12/01/2011,12/10/2011,,07714103MO,-3021.0400,,,,,,,,,,
+TRANSACTION,3021,010104077,1,584,584,"CR:Medicaid Room &... H.McBurney 201112: McBurney, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... H.McBurney 201112: McBurney, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104077,1,1133.98,1133.98,"CR:State Medicaid... H.McBurney 201112: McBurney, Helen",,,,,,,,,,,,,,,

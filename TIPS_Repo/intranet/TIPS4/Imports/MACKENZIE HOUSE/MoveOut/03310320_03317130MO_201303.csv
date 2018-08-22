@@ -1,0 +1,7 @@
+BATCH,,201303,B,4100.0000,
+INVOICE,IN,,03310320,,03/01/2013,1558.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03317130MO,-3444.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,19,65.0000,1235.00,"Basic Service Fee - Studio for Mar: Briggs, Lura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,19,17.0000,323.00,"Resident Care - Level 1 for Mar: Briggs, Lura",,,,,,,,,,,,,,,
+INVOICE,CM,,03310320,,03/01/2013,2542,"Invoice-Private",,03/01/2013,03/10/2013,,03317130MO,-3444.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2015,2015,"CR:Basic Service F... L.Briggs 201303: Briggs, Lura",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... L.Briggs 201303: Briggs, Lura",,,,,,,,,,,,,,,

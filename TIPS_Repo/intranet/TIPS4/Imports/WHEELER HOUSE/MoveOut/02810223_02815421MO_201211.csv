@@ -1,0 +1,5 @@
+BATCH,,201211,B,2280.0000,
+INVOICE,IN,,02810223,,11/01/2012,1140.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02815421MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,30,38.0000,1140.00,"Credit for Limited Term Discount: Harendt, Chester",,,,,,,,,,,,,,,
+INVOICE,CM,,02810223,,11/01/2012,1140,"Invoice-Private",,11/01/2012,11/10/2012,,02815421MO,-2880.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,30,38,1140,"Limited Term Discount: Harendt, Chester",,,,,,,,,,,,,,,

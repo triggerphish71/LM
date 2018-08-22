@@ -1,0 +1,8 @@
+BATCH,,201112,B,4692.0000,
+INVOICE,IN,,14810328,,12/08/2011,1406.0000,"Invoice-Private",,12/08/2011,12/08/2011,,14814778MO,-1880.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,558.0000,558.00,"CR:Limited Term Di... C.Sherrill 201112: Sherrill, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,8,88.0000,704.00,"Basic Service Fee - Studio for Dec: Sherrill, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,8,18.0000,144.00,"Resident Care - Level 1 for Dec: Sherrill, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,14810328,,12/08/2011,3286,"Invoice-Private",,12/08/2011,12/08/2011,,14814778MO,-1880.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2728,2728,"CR:Basic Service F... C.Sherrill 201112: Sherrill, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,558,558,"CR:Resident Care -... C.Sherrill 201112: Sherrill, Clara",,,,,,,,,,,,,,,

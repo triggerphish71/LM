@@ -1,0 +1,7 @@
+BATCH,,201105,B,5096.0000,
+INVOICE,IN,,20210126,,05/21/2011,2275.0000,"Invoice-Private",,05/21/2011,05/21/2011,,20212211MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,25,11.0000,275.00,"Resident Care - Level 1 for May: Hale, Patience",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,25,80.0000,2000.00,"Studio for May: Hale, Patience",,,,,,,,,,,,,,,
+INVOICE,CM,,20210126,,05/21/2011,2821,"Invoice-Private",,05/21/2011,05/21/2011,,20212211MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... P.Hale 201105: Hale, Patience",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Studio... P.Hale 201105: Hale, Patience",,,,,,,,,,,,,,,

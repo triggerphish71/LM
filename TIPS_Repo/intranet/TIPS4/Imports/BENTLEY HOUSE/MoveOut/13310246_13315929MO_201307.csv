@@ -1,0 +1,8 @@
+BATCH,,201307,B,7730.0000,
+INVOICE,IN,,13310246,,07/14/2013,2394.0000,"Invoice-Private",,07/14/2013,07/14/2013,,13315929MO,-2942.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,14,92.0000,1288.00,"Basic Service Fee - Studio for Jul: Ligette, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,14,79.0000,1106.00,"Resident Care - Level 6 for Jul: Ligette, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,13310246,,07/14/2013,5336,"Invoice-Private",,07/14/2013,07/14/2013,,13315929MO,-2942.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2852,2852,"CR:Basic Service F... T.Ligette 201307: Ligette, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... T.Ligette 201307: Ligette, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,2449,2449,"CR:Resident Care -... T.Ligette 201307: Ligette, Thelma",,,,,,,,,,,,,,,

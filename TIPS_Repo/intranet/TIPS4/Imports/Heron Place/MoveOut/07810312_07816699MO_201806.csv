@@ -1,0 +1,6 @@
+BATCH,,201806,B,50.0000,
+INVOICE,IN,,07810312,,06/01/2018,25.0000,"Invoice-Private",,06/01/2018,06/10/2018,,07816699MO,-1615.0000,,,,,,,,,,
+TRANSACTION,3210,010004078,1,25.0000,25.00,"Personal Services: Young, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010004078,1,0.0001,0.00,"Deferred NRF Unpaid Balance: Young, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,07810312,,06/01/2018,25,"Invoice-Private",,06/01/2018,06/10/2018,,07816699MO,-1615.0000,,,,,,,,,,
+TRANSACTION,3210,010004078,1,25,25,"Credit for Personal Services: Young, Alice",,,,,,,,,,,,,,,

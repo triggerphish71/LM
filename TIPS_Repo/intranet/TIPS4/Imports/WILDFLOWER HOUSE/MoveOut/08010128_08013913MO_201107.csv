@@ -1,0 +1,5 @@
+BATCH,,201107,B,1736.0000,
+INVOICE,IN,,08010128,,07/01/2011,868.0000,"Invoice-Private",,07/01/2011,07/10/2011,,08013913MO,-1578.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,31,28.0000,868.00,"Credit for Limited Term Discount: Dunn, Errolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,08010128,,07/01/2011,868,"Invoice-Private",,07/01/2011,07/10/2011,,08013913MO,-1578.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,31,28,868,"Limited Term Discount: Dunn, Errolyn",,,,,,,,,,,,,,,

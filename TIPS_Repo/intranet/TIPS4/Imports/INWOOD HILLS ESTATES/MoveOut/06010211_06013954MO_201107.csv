@@ -1,0 +1,5 @@
+BATCH,,201107,B,1292.0000,
+INVOICE,IN,,06010211,,07/01/2011,238.0000,"Invoice-Private",,07/01/2011,07/10/2011,,06013954MO,-816.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,7,34.0000,238.00,"Basic Service Fee - Second Resident for Jul: Stahly, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,06010211,,07/01/2011,1054,"Invoice-Private",,07/01/2011,07/10/2011,,06013954MO,-816.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1054,1054,"CR:Basic Service F... R.Stahly 201107: Stahly, Rose",,,,,,,,,,,,,,,

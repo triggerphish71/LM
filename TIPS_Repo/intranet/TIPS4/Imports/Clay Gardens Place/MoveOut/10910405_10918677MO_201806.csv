@@ -1,0 +1,8 @@
+BATCH,,201806,B,8242.0000,
+INVOICE,IN,,10910405,,06/18/2018,2692.0000,"Invoice-Private",,06/18/2018,06/18/2018,,10918677MO,-8619.3000,,,,,,,,,,
+TRANSACTION,3017,010005109,2,97.0000,194.00,"Level: 5 : Ryan, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005109,18,41.0000,738.00," Level: 2 : Ryan, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005109,20,88.0000,1760.00,"Basic Service Fee - Deluxe for Jun: Ryan, Joanne",,,,,,,,,,,,,,,
+INVOICE,CM,,10910405,,06/18/2018,5550,"Invoice-Private",,06/18/2018,06/18/2018,,10918677MO,-8619.3000,,,,,,,,,,
+TRANSACTION,3020,010005109,1,2640,2640,"CR:Basic Service F... J.Ryan 201806: Ryan, Joanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005109,1,2910,2910,"CR:Resident Care -... J.Ryan 201806: Ryan, Joanne",,,,,,,,,,,,,,,

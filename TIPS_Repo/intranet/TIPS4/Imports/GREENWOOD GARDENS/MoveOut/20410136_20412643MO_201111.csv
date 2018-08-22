@@ -1,0 +1,8 @@
+BATCH,,201111,B,3865.0000,
+INVOICE,IN,,20410136,,11/05/2011,1195.0000,"Invoice-Private",,11/05/2011,11/05/2011,,20412643MO,-1475.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,750.0000,750.00,"CR:Limited Term Di... G.Brown 201111: Brown, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,5,11.0000,55.00,"Resident Care - Level 1 for Nov: Brown, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,5,78.0000,390.00,"Room and Board - Studio for Nov: Brown, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,20410136,,11/05/2011,2670,"Invoice-Private",,11/05/2011,11/05/2011,,20412643MO,-1475.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,330,330,"CR:Resident Care -... G.Brown 201111: Brown, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2340,2340,"CR:Room and Board ... G.Brown 201111: Brown, Gladys",,,,,,,,,,,,,,,

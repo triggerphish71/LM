@@ -1,0 +1,7 @@
+BATCH,,201306,B,4785.0000,
+INVOICE,IN,,09110212,,06/03/2013,435.0000,"Invoice-Private",,06/03/2013,06/03/2013,,09115782MO,-3915.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,3,36.0000,108.00,"Resident Care - Level 2 for Jun: Starlin, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,3,109.0000,327.00,"Room and Board - One Bedroom for Jun: Starlin, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,09110212,,06/03/2013,4350,"Invoice-Private",,06/03/2013,06/03/2013,,09115782MO,-3915.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... G.Starlin 201306: Starlin, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,1,3270,3270,"CR:Room and Board ... G.Starlin 201306: Starlin, Gladys",,,,,,,,,,,,,,,

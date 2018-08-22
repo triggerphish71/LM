@@ -1,0 +1,8 @@
+BATCH,,201108,B,5370.0000,
+INVOICE,IN,,15410213,,08/12/2011,2328.0000,"Invoice-Private",,08/12/2011,08/12/2011,,15414495MO,-714.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,24,62.0000,1488.00,"Basic Service Fee - Studio for Aug: Schmidt, Darleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,24,35.0000,840.00,"Resident Care - Level 2 for Aug: Schmidt, Darleen",,,,,,,,,,,,,,,
+INVOICE,CM,,15410213,,08/12/2011,3042,"Invoice-Private",,08/12/2011,08/12/2011,,15414495MO,-714.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,1922,1922,"CR:Basic Service F... D.Schmidt 201108: Schmidt, Darleen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... D.Schmidt 201108: Schmidt, Darleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1085,1085,"CR:Resident Care -... D.Schmidt 201108: Schmidt, Darleen",,,,,,,,,,,,,,,

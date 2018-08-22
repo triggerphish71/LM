@@ -1,0 +1,8 @@
+BATCH,,201110,B,8763.0000,
+INVOICE,IN,,02610227,,10/25/2011,3900.0000,"Invoice-Private",,10/25/2011,10/25/2011,,02614546MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,25,94.0000,2350.00,"Basic Service Fee - Studio for Oct: Hilliard, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,25,62.0000,1550.00,"Resident Care - Level 5 for Oct: Hilliard, Mary Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,02610227,,10/25/2011,4863,"Invoice-Private",,10/25/2011,10/25/2011,,02614546MO,-5670.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2914,2914,"CR:Basic Service F... M.Hilliard 201110: Hilliard, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... M.Hilliard 201110: Hilliard, Mary Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,1922,1922,"CR:Resident Care -... M.Hilliard 201110: Hilliard, Mary Lou",,,,,,,,,,,,,,,

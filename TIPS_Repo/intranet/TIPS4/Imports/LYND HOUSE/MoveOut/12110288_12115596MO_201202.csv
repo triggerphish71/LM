@@ -1,0 +1,6 @@
+BATCH,,201202,B,6235.0000,
+INVOICE,IN,,12110288,,02/21/2012,2604.0000,"Invoice-Private",,02/21/2012,02/21/2012,,12115596MO,-4906.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,21,124.0000,2604.00,"Basic Service Fee- One Bedroom Prem for Feb: Jerles, Ruth ",,,,,,,,,,,,,,,
+INVOICE,CM,,12110288,,02/21/2012,3631,"Invoice-Private",,02/21/2012,02/21/2012,,12115596MO,-4906.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3596,3596,"CR:Basic Service F... R.Jerles 201202: Jerles, Ruth ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... R.Jerles 201202: Jerles, Ruth ",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,1891.0000,
+INVOICE,IN,,53410407,,05/30/2013,930.0000,"Invoice-Private",,05/30/2013,05/30/2013,,53422427MO,-961.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,30,31.0000,930.00,"Basic Service Fee - Second Resident for May: Fisher, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,53410407,,05/30/2013,961,"Invoice-Private",,05/30/2013,05/30/2013,,53422427MO,-961.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,961,961,"CR:Basic Service F... R.Fisher 201305: Fisher, Robert",,,,,,,,,,,,,,,

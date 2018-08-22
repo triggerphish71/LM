@@ -1,0 +1,8 @@
+BATCH,,201202,B,6348.0000,
+INVOICE,IN,,13210201,,02/19/2012,2580.0000,"Invoice-Private",,02/19/2012,02/19/2012,,13215341MO,-5187.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,20,99.0000,1980.00,"Basic Service Fee - Studio for Feb: Schmidt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,20,30.0000,600.00,"Resident Care - Level 2 for Feb: Schmidt, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13210201,,02/19/2012,3768,"Invoice-Private",,02/19/2012,02/19/2012,,13215341MO,-5187.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2871,2871,"CR:Basic Service F... M.Schmidt 201202: Schmidt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... M.Schmidt 201202: Schmidt, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,870,870,"CR:Resident Care -... M.Schmidt 201202: Schmidt, Mary",,,,,,,,,,,,,,,

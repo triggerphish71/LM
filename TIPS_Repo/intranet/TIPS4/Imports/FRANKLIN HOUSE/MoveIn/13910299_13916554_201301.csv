@@ -1,0 +1,5 @@
+BATCH,,201301,B,3500.0000,
+INVOICE,IN,,13910299,,01/18/2013,3500.0000,"MoveIn-Barker. John",,01/18/2013,01/18/2013,,13916554,6470.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,14,105.0000,1470,"Basic Service Fee - Studio: Barker. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Barker. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000.0000,2000,"New Resident Fee: Barker. John",,,,,,,,,,,,,,,

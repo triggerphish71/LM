@@ -1,0 +1,6 @@
+BATCH,,201111,B,2629.0000,
+INVOICE,IN,,16910224,,11/01/2011,84.0000,"Invoice-Private",,11/01/2011,11/01/2011,,16914628MO,-2461.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,84.0000,84.00,"Basic Service Fee - Studio for Nov: Proffitt, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,16910224,,11/01/2011,2545,"Invoice-Private",,11/01/2011,11/01/2011,,16914628MO,-2461.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2520,2520,"CR:Basic Service F... F.Proffitt 201111: Proffitt, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... F.Proffitt 201111: Proffitt, Frank",,,,,,,,,,,,,,,

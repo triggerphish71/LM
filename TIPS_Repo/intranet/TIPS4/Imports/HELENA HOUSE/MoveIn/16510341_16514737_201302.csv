@@ -1,0 +1,5 @@
+BATCH,,201302,B,1652.0000,
+INVOICE,IN,,16510341,,02/28/2013,1652.0000,"MoveIn-Kitchen. Robert",,02/28/2013,02/28/2013,,16514737,5554.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,1,125.0000,125,"Basic Service Fee - One Bedroom    : Kitchen. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Kitchen. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308165,1,1500.0000,1500,"New Resident Fee: Kitchen. Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,3600.0000,
+INVOICE,CM,,10610160,,01/01/2012,3600,"Invoice-Private",,01/01/2012,01/10/2012,,10612423MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010309106,1,2697,2697,"CR:Basic Service F... M.Rood 201201: Rood, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"CR:Monthly Cable... M.Rood 201201: Rood, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309106,1,868,868,"CR:Resident Care -... M.Rood 201201: Rood, Margaret",,,,,,,,,,,,,,,

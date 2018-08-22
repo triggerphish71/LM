@@ -1,0 +1,5 @@
+BATCH,,201204,B,2743.0000,
+INVOICE,IN,,53110285,,04/20/2012,2743.0000,"MoveIn-Thompson. Carol",,04/20/2012,04/20/2012,,53114089,6246.0000,,,,,,,,,,
+TRANSACTION,3010,010319531,11,98.0000,1078,"Basic Service Fee - Studio: Thompson. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319531,11,15.0000,165,"Resident Care - Level 1: Thompson. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319531,1,1500.0000,1500,"New Resident Fee: Thompson. Carol",,,,,,,,,,,,,,,

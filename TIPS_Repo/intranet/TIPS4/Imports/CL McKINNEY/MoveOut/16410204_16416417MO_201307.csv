@@ -1,0 +1,7 @@
+BATCH,,201307,B,4674.0000,
+INVOICE,IN,,16410204,,07/10/2013,1140.0000,"Invoice-Private",,07/10/2013,07/10/2013,,16416417MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,10,55.0000,550.00,"Basic Service Fee - Studio for Jul: Favors, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,10,59.0000,590.00,"Resident Care - Level 5 for Jul: Favors, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,16410204,,07/10/2013,3534,"Invoice-Private",,07/10/2013,07/10/2013,,16416417MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,1705,1705,"CR:Basic Service F... J.Favors 201307: Favors, Jeanne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202164,1,1829,1829,"CR:Resident Care -... J.Favors 201307: Favors, Jeanne",,,,,,,,,,,,,,,

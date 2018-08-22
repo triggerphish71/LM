@@ -1,0 +1,8 @@
+BATCH,,201202,B,7740.0000,
+INVOICE,IN,,20210196,,01/01/2012,4724.0000,"MoveIn-Carter. Flo",,01/01/2012,01/01/2012,,20212518,10964.0000,,,,,,,,,,
+TRANSACTION,3014,010216202,31,83.0000,2573,"Studio: Carter. Flo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216202,31,21.0000,651,"Resident Care - Level 2: Carter. Flo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216202,1,1500.0000,1500,"New Resident Fee: Carter. Flo",,,,,,,,,,,,,,,
+INVOICE,IN,,20210196,,02/01/2012,3016.0000,"February_Rent-Carter. Flo",,02/01/2012,02/10/2012,,20212518,10964.0000,,,,,,,,,,
+TRANSACTION,3010,010216202,29,83.0000,2407,"Studio: Carter. Flo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216202,29,21.0000,609,"Resident Care - Level 2: Carter. Flo",,,,,,,,,,,,,,,

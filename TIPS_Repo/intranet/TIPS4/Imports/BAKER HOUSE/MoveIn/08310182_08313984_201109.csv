@@ -1,0 +1,5 @@
+BATCH,,201109,B,2950.0000,
+INVOICE,IN,,08310182,,09/25/2011,2950.0000,"MoveIn-Kolman. Eva",,09/25/2011,09/25/2011,,08313984,6825.0000,,,,,,,,,,
+TRANSACTION,3010,010306083,6,106.0000,636,"Basic Service Fee - Studio         : Kolman. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306083,6,19.0000,114,"Resident Care - Level 1: Kolman. Eva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306083,1,2200.0000,2200,"New Resident Fee: Kolman. Eva",,,,,,,,,,,,,,,

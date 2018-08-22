@@ -1,0 +1,5 @@
+BATCH,,201304,B,5529.0000,
+INVOICE,IN,,11210311,,04/27/2013,2619.0000,"Invoice-Private",,04/27/2013,04/27/2013,,11216573MO,-4904.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,27,97.0000,2619.00,"Basic Service Fee - Studio for Apr: Shivetts, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,11210311,,04/27/2013,2910,"Invoice-Private",,04/27/2013,04/27/2013,,11216573MO,-4904.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,2910,2910,"CR:Basic Service F... T.Shivetts 201304: Shivetts, Thomas",,,,,,,,,,,,,,,

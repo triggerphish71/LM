@@ -1,0 +1,5 @@
+BATCH,,201108,B,3264.0000,
+INVOICE,IN,,04610192,,08/01/2011,288.0000,"Invoice-Private",,08/01/2011,08/10/2011,,04613378MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,3,96.0000,288.00,"Basic Service Fee - Studio for Aug: Kennedy, John",,,,,,,,,,,,,,,
+INVOICE,CM,,04610192,,08/01/2011,2976,"Invoice-Private",,08/01/2011,08/10/2011,,04613378MO,-2688.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,2976,2976,"CR:Basic Service F... J.Kennedy 201108: Kennedy, John",,,,,,,,,,,,,,,

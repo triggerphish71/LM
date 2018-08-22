@@ -1,0 +1,8 @@
+BATCH,,201803,B,4932.0000,
+INVOICE,IN,,13810368,,03/11/2018,1491.0000,"Invoice-Private",,03/11/2018,03/11/2018,,13819125MO,-1950.0000,,,,,,,,,,
+TRANSACTION,3017,010009138,4,18.0000,72.00," Level Care:  2  -from 2018-02-25: Garrett, Patrica",,,,,,,,,,,,,,,
+TRANSACTION,3017,010009138,11,38.0000,418.00," Level Care:  2 : Garrett, Patrica",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009138,11,91.0000,1001.00,"Basic Service Fee- One Bedroom Premium  for Mar: Garrett, Patrica",,,,,,,,,,,,,,,
+INVOICE,CM,,13810368,,03/11/2018,3441,"Invoice-Private",,03/11/2018,03/11/2018,,13819125MO,-1950.0000,,,,,,,,,,
+TRANSACTION,3020,010009138,1,2821,2821,"CR:Basic Service F... P.Garrett 201803: Garrett, Patrica",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009138,1,620,620,"CR:Resident Care -... P.Garrett 201803: Garrett, Patrica",,,,,,,,,,,,,,,

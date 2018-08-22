@@ -1,0 +1,5 @@
+BATCH,,201204,B,4930.0000,
+INVOICE,IN,,02510167,,04/01/2012,2380.0000,"Invoice-Private",,04/01/2012,04/10/2012,,02513284MO,-170.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,28,85.0000,2380.00,"Basic Service Fee - Studio for Apr: Spangler, Freda",,,,,,,,,,,,,,,
+INVOICE,CM,,02510167,,04/01/2012,2550,"Invoice-Private",,04/01/2012,04/10/2012,,02513284MO,-170.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,2550,2550,"CR:Basic Service F... F.Spangler 201204: Spangler, Freda",,,,,,,,,,,,,,,

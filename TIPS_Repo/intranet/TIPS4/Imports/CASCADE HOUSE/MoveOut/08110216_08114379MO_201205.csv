@@ -1,0 +1,5 @@
+BATCH,,201205,B,1178.0000,
+INVOICE,IN,,08110216,,05/01/2012,589.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08114379MO,-1583.4600,,,,,,,,,,
+TRANSACTION,3320,010103081,31,19.0000,589.00,"Credit for Limited Term Discount: Watters, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08110216,,05/01/2012,589,"Invoice-Private",,05/01/2012,05/10/2012,,08114379MO,-1583.4600,,,,,,,,,,
+TRANSACTION,3320,010103081,31,19,589,"Limited Term Discount: Watters, George",,,,,,,,,,,,,,,

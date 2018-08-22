@@ -1,0 +1,5 @@
+BATCH,,201305,B,90.0000,
+INVOICE,IN,,15610327,,05/01/2013,45.0000,"Invoice-Private",,05/01/2013,05/10/2013,,15615706MO,-4295.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45.0000,45.00,"Pendant Fee: Bailey, Laverne",,,,,,,,,,,,,,,
+INVOICE,CM,,15610327,,05/01/2013,45,"Invoice-Private",,05/01/2013,05/10/2013,,15615706MO,-4295.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"Credit for Pendant Fee: Bailey, Laverne",,,,,,,,,,,,,,,

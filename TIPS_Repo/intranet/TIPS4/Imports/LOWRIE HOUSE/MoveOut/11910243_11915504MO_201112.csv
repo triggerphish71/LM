@@ -1,0 +1,5 @@
+BATCH,,201112,B,5566.0000,
+INVOICE,IN,,11910243,,12/11/2011,1815.0000,"Invoice-Private",,12/11/2011,12/11/2011,,11915504MO,-1936.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,15,121.0000,1815.00,"Basic Service Fee - One Bedroom for Dec: Domhoff, Lester",,,,,,,,,,,,,,,
+INVOICE,CM,,11910243,,12/11/2011,3751,"Invoice-Private",,12/11/2011,12/11/2011,,11915504MO,-1936.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3751,3751,"CR:Basic Service F... L.Domhoff 201112: Domhoff, Lester",,,,,,,,,,,,,,,

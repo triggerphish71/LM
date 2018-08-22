@@ -1,0 +1,7 @@
+BATCH,,201111,B,3638.0000,
+INVOICE,IN,,16210125,,11/04/2011,428.0000,"Invoice-Private",,11/04/2011,11/04/2011,,16212829MO,-2782.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,4,79.0000,316.00,"Basic Service Fee - One Bedroom for Nov: Hawe, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,4,28.0000,112.00,"Resident Care - Level 2 for Nov: Hawe, Grace",,,,,,,,,,,,,,,
+INVOICE,CM,,16210125,,11/04/2011,3210,"Invoice-Private",,11/04/2011,11/04/2011,,16212829MO,-2782.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2370,2370,"CR:Basic Service F... G.Hawe 201111: Hawe, Grace",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,840,840,"CR:Resident Care -... G.Hawe 201111: Hawe, Grace",,,,,,,,,,,,,,,

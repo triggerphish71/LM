@@ -1,0 +1,5 @@
+BATCH,,201112,B,3300.0000,
+INVOICE,IN,,10910209,,12/02/2011,200.0000,"Invoice-Private",,12/02/2011,12/02/2011,,10914498MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,2,100.0000,200.00,"Basic Service Fee- One Bedroom Prem for Dec: Rider, Ruth Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,10910209,,12/02/2011,3100,"Invoice-Private",,12/02/2011,12/02/2011,,10914498MO,-2900.0000,,,,,,,,,,
+TRANSACTION,3020,010305109,1,3100,3100,"CR:Basic Service F... R.Rider 201112: Rider, Ruth Ann",,,,,,,,,,,,,,,

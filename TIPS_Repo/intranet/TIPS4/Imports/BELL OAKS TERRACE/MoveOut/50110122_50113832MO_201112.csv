@@ -1,0 +1,6 @@
+BATCH,,201112,B,4157.0000,
+INVOICE,CM,,50110122,,12/01/2011,4157,"Invoice-Private",,12/01/2011,12/10/2011,,50113832MO,-4157.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2604,2604,"CR:Basic Service F... M.Masters 201112: Masters, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Masters 201112: Masters, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... M.Masters 201112: Masters, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,1488,1488,"CR:Resident Care -... M.Masters 201112: Masters, Maxine",,,,,,,,,,,,,,,

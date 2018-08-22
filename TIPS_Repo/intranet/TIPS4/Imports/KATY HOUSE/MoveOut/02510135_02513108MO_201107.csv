@@ -1,0 +1,7 @@
+BATCH,,201107,B,1600.0000,
+INVOICE,IN,,02510135,,07/01/2011,800.0000,"Invoice-Private",,07/01/2011,07/10/2011,,02513108MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25.00,"Monthly Cable: Lutrick, Marshall",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202025,31,25.0000,775.00,"Credit for Limited Term Discount: Lutrick, Marshall",,,,,,,,,,,,,,,
+INVOICE,CM,,02510135,,07/01/2011,800,"Invoice-Private",,07/01/2011,07/10/2011,,02513108MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25,25,"Credit for Monthly Cable: Lutrick, Marshall",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202025,31,25,775,"Limited Term Discount: Lutrick, Marshall",,,,,,,,,,,,,,,

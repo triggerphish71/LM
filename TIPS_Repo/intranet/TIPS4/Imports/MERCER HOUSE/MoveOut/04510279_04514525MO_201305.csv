@@ -1,0 +1,6 @@
+BATCH,,201305,B,3379.0000,
+INVOICE,IN,,04510279,,05/01/2013,496.0000,"Invoice-Private",,05/01/2013,05/10/2013,,04514525MO,-2387.0000,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496.0000,496.00,"CR:Resident Care L... W.Avants 201305: Avants, William",,,,,,,,,,,,,,,
+INVOICE,CM,,04510279,,05/01/2013,2883,"Invoice-Private",,05/01/2013,05/10/2013,,04514525MO,-2387.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2387,2387,"CR:Basic Service F... W.Avants 201305: Avants, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,496,496,"CR:Resident Care -... W.Avants 201305: Avants, William",,,,,,,,,,,,,,,

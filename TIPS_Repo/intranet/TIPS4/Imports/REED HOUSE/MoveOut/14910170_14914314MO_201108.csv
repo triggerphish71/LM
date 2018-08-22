@@ -1,0 +1,7 @@
+BATCH,,201108,B,4255.0000,
+INVOICE,IN,,14910170,,08/06/2011,690.0000,"Invoice-Private",,08/06/2011,08/06/2011,,14914314MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,6,97.0000,582.00,"Basic Service Fee - Studio for Aug: Blair, Nelda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,6,18.0000,108.00,"Resident Care - Level 1 for Aug: Blair, Nelda",,,,,,,,,,,,,,,
+INVOICE,CM,,14910170,,08/06/2011,3565,"Invoice-Private",,08/06/2011,08/06/2011,,14914314MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3007,3007,"CR:Basic Service F... N.Blair 201108: Blair, Nelda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,558,558,"CR:Resident Care -... N.Blair 201108: Blair, Nelda",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,3776.0000,
+INVOICE,IN,,04810261,,11/02/2011,236.0000,"Invoice-Private",,11/02/2011,11/02/2011,,04814321MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,2,103.0000,206.00,"Basic Service Fee - Studio for Nov: Brown, Dora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,2,15.0000,30.00,"Resident Care - Level 1 for Nov: Brown, Dora",,,,,,,,,,,,,,,
+INVOICE,CM,,04810261,,11/02/2011,3540,"Invoice-Private",,11/02/2011,11/02/2011,,04814321MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,3090,3090,"CR:Basic Service F... D.Brown 201111: Brown, Dora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,450,450,"CR:Resident Care -... D.Brown 201111: Brown, Dora",,,,,,,,,,,,,,,

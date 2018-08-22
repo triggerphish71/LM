@@ -1,0 +1,7 @@
+BATCH,,201307,B,3658.0000,
+INVOICE,IN,,14110230,,07/22/2013,1298.0000,"Invoice-Private",,07/22/2013,07/22/2013,,14114070MO,-4720.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,11,87.0000,957.00,"Basic Service Fee - Studio for Jul: Deerwester, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,11,31.0000,341.00,"Resident Care - Level 2 for Jul: Deerwester, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,14110230,,07/22/2013,2360,"Invoice-Private",,07/22/2013,07/22/2013,,14114070MO,-4720.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,1740,1740,"CR:Basic Service F... V.Deerwester 201307: Deerwester, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309141,1,620,620,"CR:Resident Care -... V.Deerwester 201307: Deerwester, Virginia",,,,,,,,,,,,,,,

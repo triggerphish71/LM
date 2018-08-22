@@ -1,0 +1,5 @@
+BATCH,,201301,B,4816.0000,
+INVOICE,IN,,01610260,,01/25/2013,2150.0000,"Invoice-Private",,01/25/2013,01/25/2013,,01616226MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,25,86.0000,2150.00,"Basic Service Fee - Studio for Jan: Gjertsen, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01610260,,01/25/2013,2666,"Invoice-Private",,01/25/2013,01/25/2013,,01616226MO,-2924.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... J.Gjertsen 201301: Gjertsen, John",,,,,,,,,,,,,,,

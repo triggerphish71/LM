@@ -1,0 +1,7 @@
+BATCH,,201303,B,11713.0000,
+INVOICE,IN,,10210109,,03/22/2013,4862.0000,"Invoice-Private",,03/22/2013,03/22/2013,,10215208MO,-8619.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,22,125.0000,2750.00,"Basic Service Fee - Deluxe for Mar: Kelly, Claire",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,22,96.0000,2112.00,"Swan Personal Care - L6 for Mar: Kelly, Claire",,,,,,,,,,,,,,,
+INVOICE,CM,,10210109,,03/22/2013,6851,"Invoice-Private",,03/22/2013,03/22/2013,,10215208MO,-8619.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3875,3875,"CR:Basic Service F... C.Kelly 201303: Kelly, Claire",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2976,2976,"CR:Swan Personal C... C.Kelly 201303: Kelly, Claire",,,,,,,,,,,,,,,

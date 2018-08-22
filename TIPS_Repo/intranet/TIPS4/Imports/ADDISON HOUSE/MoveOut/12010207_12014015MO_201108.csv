@@ -1,0 +1,7 @@
+BATCH,,201108,B,1610.0000,
+INVOICE,IN,,12010207,,08/01/2011,805.0000,"Invoice-Private",,08/01/2011,08/10/2011,,12014015MO,-1561.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: Adkins, Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,25.0000,775.00,"Credit for Limited Term Discount: Adkins, Rufus",,,,,,,,,,,,,,,
+INVOICE,CM,,12010207,,08/01/2011,805,"Invoice-Private",,08/01/2011,08/10/2011,,12014015MO,-1561.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: Adkins, Rufus",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,25,775,"Limited Term Discount: Adkins, Rufus",,,,,,,,,,,,,,,

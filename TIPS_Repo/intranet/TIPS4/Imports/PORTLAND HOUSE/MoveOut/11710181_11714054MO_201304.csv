@@ -1,0 +1,7 @@
+BATCH,,201304,B,6512.0000,
+INVOICE,IN,,11710181,,04/07/2013,1232.0000,"Invoice-Private",,04/07/2013,04/07/2013,,11714054MO,-4048.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,7,87.0000,609.00,"Basic Service Fee - Studio for Apr: Cunningham, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,7,89.0000,623.00,"Resident Care - Level 6 for Apr: Cunningham, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,11710181,,04/07/2013,5280,"Invoice-Private",,04/07/2013,04/07/2013,,11714054MO,-4048.0000,,,,,,,,,,
+TRANSACTION,3020,010305117,1,2610,2610,"CR:Basic Service F... M.Cunningham 201304: Cunningham, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305117,1,2670,2670,"CR:Resident Care -... M.Cunningham 201304: Cunningham, Marilyn",,,,,,,,,,,,,,,

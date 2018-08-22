@@ -1,0 +1,5 @@
+BATCH,,201203,B,3032.0000,
+INVOICE,IN,,50210187,,03/01/2012,3032.0000,"March_Rent-Ward. Virgil",,03/01/2012,03/10/2012,,50213335,4848.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,31,83.0000,2573,"Basic Service Fee - Studio: Ward. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3017,010209502,31,14.0000,434,"Resident Care - Level 1: Ward. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Ward. Virgil",,,,,,,,,,,,,,,

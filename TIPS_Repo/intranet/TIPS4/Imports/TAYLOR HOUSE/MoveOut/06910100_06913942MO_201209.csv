@@ -1,0 +1,6 @@
+BATCH,,201209,B,4410.0000,
+INVOICE,IN,,06910100,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06913942MO,-4368.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,1,60.0000,60.00,"CR:Limited Term Di... E.Snyder 201209: Snyder, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,06910100,,09/01/2012,4350,"Invoice-Private",,09/01/2012,09/10/2012,,06913942MO,-4368.0000,,,,,,,,,,
+TRANSACTION,3020,010305069,1,2280,2280,"CR:Basic Service F... E.Snyder 201209: Snyder, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305069,1,2070,2070,"CR:Resident Care -... E.Snyder 201209: Snyder, Edith",,,,,,,,,,,,,,,

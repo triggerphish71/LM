@@ -1,0 +1,6 @@
+BATCH,,201205,B,2364.0000,
+INVOICE,IN,,10910242,,05/29/2012,2364.0000,"MoveIn-Addy. Barbara",,05/29/2012,05/29/2012,,10914724,5779.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,3,80.0000,240,"Basic Service Fee - Studio         : Addy. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,3,33.0000,99,"Resident Care - Level 2: Addy. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Addy. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Addy. Barbara",,,,,,,,,,,,,,,

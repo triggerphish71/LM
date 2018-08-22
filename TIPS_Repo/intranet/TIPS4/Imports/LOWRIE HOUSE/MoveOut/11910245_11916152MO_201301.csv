@@ -1,0 +1,6 @@
+BATCH,,201301,B,7285.0000,
+INVOICE,IN,,11910245,,01/30/2013,3570.0000,"Invoice-Private",,01/30/2013,01/30/2013,,11916152MO,-3503.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,30,119.0000,3570.00,"Basic Service Fee - One Bedroom for Jan: Stearns, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,11910245,,01/30/2013,3715,"Invoice-Private",,01/30/2013,01/30/2013,,11916152MO,-3503.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,3689,3689,"CR:Basic Service F... B.Stearns 201301: Stearns, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... B.Stearns 201301: Stearns, Betty",,,,,,,,,,,,,,,

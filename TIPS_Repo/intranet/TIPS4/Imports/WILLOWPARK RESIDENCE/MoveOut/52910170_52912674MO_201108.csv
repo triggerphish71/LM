@@ -1,0 +1,6 @@
+BATCH,,201108,B,638.4000,
+INVOICE,IN,,52910170,,08/04/2011,586.4000,"Invoice-Respite",,08/04/2011,08/04/2011,,52912674MO,534.4000,,,,,,,,,,
+TRANSACTION,3020,010319529,4,105.6000,422.40,"Basic Service Fee- Respite Studio for Aug: Jandrey, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,4,41.0000,164.00,"Resident Care - Level 3 for Aug: Jandrey, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,52910170,,08/04/2011,52,"Invoice-Respite",,08/04/2011,08/04/2011,,52912674MO,534.4000,,,,,,,,,,
+TRANSACTION,3037,010319529,4,13,52,"Private Care Rate Adjustments for Aug: Jandrey, Janice",,,,,,,,,,,,,,,

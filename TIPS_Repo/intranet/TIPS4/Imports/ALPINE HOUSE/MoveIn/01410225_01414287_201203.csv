@@ -1,0 +1,5 @@
+BATCH,,201203,B,2310.0000,
+INVOICE,IN,,01410225,,03/29/2012,2310.0000,"MoveIn-Finch. Gladis",,03/29/2012,03/29/2012,,01414287,5185.0000,,,,,,,,,,
+TRANSACTION,3010,010202014,3,95.0000,285,"Basic Service Fee - Studio: Finch. Gladis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25.0000,25,"Monthly Cable: Finch. Gladis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202014,1,2000.0000,2000,"New Resident Fee: Finch. Gladis",,,,,,,,,,,,,,,

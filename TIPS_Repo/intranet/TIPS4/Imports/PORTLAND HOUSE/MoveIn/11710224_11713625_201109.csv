@@ -1,0 +1,5 @@
+BATCH,,201109,B,3030.0000,
+INVOICE,IN,,11710224,,09/01/2011,3030.0000,"September_Rent-Slusher. Laura",,09/01/2011,09/10/2011,,11713625,5060.0000,,,,,,,,,,
+TRANSACTION,3010,010305117,30,83.0000,2490,"Basic Service Fee - Studio         : Slusher. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305117,30,17.0000,510,"Resident Care - Level 1: Slusher. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305117,1,30.0000,30,"Monthly Cable: Slusher. Laura",,,,,,,,,,,,,,,

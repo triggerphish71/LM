@@ -1,0 +1,7 @@
+BATCH,,201209,B,4777.0000,
+INVOICE,IN,,13510248,,09/01/2012,1477.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13515347MO,-1823.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,60.0000,60.00,"CR:Limited Term Di... M.Brinegar 201209: Brinegar, Madge",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309135,13,109.0000,1417.00,"Basic Service Fee - One Bedroom for Sep: Brinegar, Madge",,,,,,,,,,,,,,,
+INVOICE,CM,,13510248,,09/01/2012,3300,"Invoice-Private",,09/01/2012,09/10/2012,,13515347MO,-1823.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,3270,3270,"CR:Basic Service F... M.Brinegar 201209: Brinegar, Madge",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"CR:Monthly Cable... M.Brinegar 201209: Brinegar, Madge",,,,,,,,,,,,,,,

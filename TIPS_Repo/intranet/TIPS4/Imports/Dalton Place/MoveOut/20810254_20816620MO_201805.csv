@@ -1,0 +1,6 @@
+BATCH,,201805,B,4521.0000,
+INVOICE,IN,,20810254,,05/21/2018,3549.0000,"Invoice-Private",,05/21/2018,05/21/2018,,20816620MO,4492.3800,,,,,,,,,,
+TRANSACTION,3017,010016208,1,3549.0000,3549.00,"Basic Service Fee - MC Studio: Garrett, Janette",,,,,,,,,,,,,,,
+INVOICE,CM,,20810254,,05/21/2018,972,"Invoice-Private",,05/21/2018,05/21/2018,,20816620MO,4492.3800,,,,,,,,,,
+TRANSACTION,3017,010016208,26,27,702,"AL credit LOC charges - 05-06-2018: Garrett, Janette",,,,,,,,,,,,,,,
+TRANSACTION,3017,010016208,10,27,270,"Resident Care - Level 2: Garrett, Janette",,,,,,,,,,,,,,,

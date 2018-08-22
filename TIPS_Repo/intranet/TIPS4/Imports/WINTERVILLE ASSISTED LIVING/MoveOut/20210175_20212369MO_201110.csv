@@ -1,0 +1,6 @@
+BATCH,,201110,B,4123.0000,
+INVOICE,IN,,20210175,,10/01/2011,1302.0000,"Invoice-Private",,10/01/2011,10/10/2011,,20212369MO,-1351.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,1302.0000,1302.00,"CR:Limited Term Di... D.Collier 201110: Collier, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,20210175,,10/01/2011,2821,"Invoice-Private",,10/01/2011,10/10/2011,,20212369MO,-1351.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,341,341,"CR:Resident Care -... D.Collier 201110: Collier, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2480,2480,"CR:Studio... D.Collier 201110: Collier, Dorothy",,,,,,,,,,,,,,,

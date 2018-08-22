@@ -1,0 +1,8 @@
+BATCH,,201805,B,4233.0000,
+INVOICE,IN,,05710469,,05/10/2018,1660.0000,"Invoice-Private",,05/10/2018,05/10/2018,,05718274MO,-3402.9900,,,,,,,,,,
+TRANSACTION,3017,010002057,20,53.0000,1060.00," Level: 3 : Clark, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002057,20,30.0000,600.00,"Basic Service Fee - Studio for May: Clark, George",,,,,,,,,,,,,,,
+INVOICE,CM,,05710469,,05/10/2018,2573,"Invoice-Private",,05/10/2018,05/10/2018,,05718274MO,-3402.9900,,,,,,,,,,
+TRANSACTION,3020,010002057,1,930,930,"CR:Basic Service F... G.Clark 201805: Clark, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002057,1,620,620,"CR:Resident Care -... G.Clark 201805: Clark, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002057,1,1023,1023,"CR:Resident Care L... G.Clark 201805: Clark, George",,,,,,,,,,,,,,,

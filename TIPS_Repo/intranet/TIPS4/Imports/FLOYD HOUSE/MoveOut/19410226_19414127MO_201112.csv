@@ -1,0 +1,8 @@
+BATCH,,201112,B,5598.0000,
+INVOICE,IN,,19410226,,12/08/2011,1444.0000,"Invoice-Private",,12/08/2011,12/08/2011,,19414127MO,-2710.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,372.0000,372.00,"CR:Limited Term Di... B.Kunze 201112: Kunze, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212194,8,72.0000,576.00,"Basic Service Fee - Studio for Dec: Kunze, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,8,62.0000,496.00,"Swan Personal Care - L4 for Dec: Kunze, Bernice",,,,,,,,,,,,,,,
+INVOICE,CM,,19410226,,12/08/2011,4154,"Invoice-Private",,12/08/2011,12/08/2011,,19414127MO,-2710.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2232,2232,"CR:Basic Service F... B.Kunze 201112: Kunze, Bernice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,1922,1922,"CR:Swan Personal C... B.Kunze 201112: Kunze, Bernice",,,,,,,,,,,,,,,

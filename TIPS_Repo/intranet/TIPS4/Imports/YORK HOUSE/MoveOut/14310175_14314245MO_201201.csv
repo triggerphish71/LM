@@ -1,0 +1,8 @@
+BATCH,,201201,B,4025.0000,
+INVOICE,IN,,14310175,,01/01/2012,456.0000,"Invoice-Private",,01/01/2012,01/10/2012,,14314245MO,-3113.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,4,82.0000,328.00,"Basic Service Fee - Studio for Jan: Miller, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,4,32.0000,128.00,"Resident Care - Level 2 for Jan: Miller, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,14310175,,01/01/2012,3569,"Invoice-Private",,01/01/2012,01/10/2012,,14314245MO,-3113.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2542,2542,"CR:Basic Service F... N.Miller 201201: Miller, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... N.Miller 201201: Miller, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,992,992,"CR:Resident Care -... N.Miller 201201: Miller, Norman",,,,,,,,,,,,,,,

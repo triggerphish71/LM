@@ -1,0 +1,5 @@
+BATCH,,201307,B,3298.0000,
+INVOICE,IN,,04510286,,07/02/2013,3298.0000,"MoveIn-Moore. James",,07/02/2013,07/02/2013,,04514624,3298.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,30,77.0000,2310,"Basic Service Fee - Studio: Moore. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Moore. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,961.0000,961,"New Resident Fee: Moore. James",,,,,,,,,,,,,,,

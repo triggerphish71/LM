@@ -1,0 +1,8 @@
+BATCH,,201308,B,5507.0000,
+INVOICE,IN,,13610323,,08/01/2013,2496.0000,"Invoice-Private",,08/01/2013,08/01/2013,,13615888MO,-515.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,26,81.0000,2106.00,"Basic Service Fee- One Bedroom Prem for Aug: Bennett, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,26,15.0000,390.00,"Resident Care - Level 1 for Aug: Bennett, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,13610323,,08/01/2013,3011,"Invoice-Private",,08/01/2013,08/01/2013,,13615888MO,-515.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2511,2511,"CR:Basic Service F... A.Bennett 201308: Bennett, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... A.Bennett 201308: Bennett, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,465,465,"CR:Resident Care -... A.Bennett 201308: Bennett, Alice",,,,,,,,,,,,,,,

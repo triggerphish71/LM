@@ -1,0 +1,6 @@
+BATCH,,201112,B,4462.0000,
+INVOICE,CM,,53010091,,12/01/2011,4462,"Invoice-Private",,12/01/2011,12/10/2011,,53015650MO,-5374.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3038,3038,"CR:Basic Service F... M.Julian 201112: Julian, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... M.Julian 201112: Julian, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... M.Julian 201112: Julian, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1364,1364,"CR:Resident Care -... M.Julian 201112: Julian, Margaret",,,,,,,,,,,,,,,

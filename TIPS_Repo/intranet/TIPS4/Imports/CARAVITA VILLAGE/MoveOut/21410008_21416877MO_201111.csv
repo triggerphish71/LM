@@ -1,0 +1,6 @@
+BATCH,,201111,B,7916.0000,
+INVOICE,IN,,21410008,,11/01/2011,90.0000,"Invoice-Private",,11/01/2011,11/10/2011,,21416877MO,-15469.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,1,90.0000,90.00,"CR:Daily Discount... M.Anderson 201111: Anderson, Mary Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,21410008,,11/01/2011,7826,"Invoice-Private",,11/01/2011,11/10/2011,,21416877MO,-15469.0000,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2370,2370,"CR:IL Two Bedroom... M.Anderson 201111: Anderson, Mary Alice",,,,,,,,,,,,,,,
+TRANSACTION,3210,010221214,1,5456,5456,"CR:Personal Servic... M.Anderson 201111: Anderson, Mary Alice",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,3022.0000,
+INVOICE,IN,,13910300,,01/24/2013,3022.0000,"MoveIn-Leslie. Neona",,01/24/2013,01/24/2013,,13916557,6524.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,8,124.0000,992,"Basic Service Fee - One Bedroom: Leslie. Neona",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Leslie. Neona",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000.0000,2000,"New Resident Fee: Leslie. Neona",,,,,,,,,,,,,,,

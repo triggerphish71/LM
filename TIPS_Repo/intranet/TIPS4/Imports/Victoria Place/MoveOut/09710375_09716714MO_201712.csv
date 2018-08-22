@@ -1,0 +1,7 @@
+BATCH,,201712,B,9773.9000,
+INVOICE,IN,,09710375,,12/12/2017,2727.6000,"Invoice-Private",,12/12/2017,12/12/2017,,09716714MO,-11365.0000,,,,,,,,,,
+TRANSACTION,3020,010003097,12,110.0000,1320.00,"Basic Service Fee - Studio  for Dec: Bimel, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003097,12,117.3000,1407.60,"Resident Care - Level 51  for Dec: Bimel, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,09710375,,12/12/2017,7046.3,"Invoice-Private",,12/12/2017,12/12/2017,,09716714MO,-11365.0000,,,,,,,,,,
+TRANSACTION,3020,010003097,1,3410,3410,"CR:Basic Service F... M.Bimel 201712: Bimel, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003097,1,3636.3,3636.3,"CR:Resident Care -... M.Bimel 201712: Bimel, Margaret",,,,,,,,,,,,,,,

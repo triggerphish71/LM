@@ -1,0 +1,5 @@
+BATCH,,201112,B,3364.0000,
+INVOICE,IN,,14710260,,12/21/2011,3364.0000,"MoveIn-Taylor. Fred",,12/21/2011,12/21/2011,,14715453,6568.0000,,,,,,,,,,
+TRANSACTION,3010,010310147,11,102.0000,1122,"Basic Service Fee - Studio: Taylor. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42,"Monthly Cable: Taylor. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310147,1,2200.0000,2200,"New Resident Fee: Taylor. Fred",,,,,,,,,,,,,,,

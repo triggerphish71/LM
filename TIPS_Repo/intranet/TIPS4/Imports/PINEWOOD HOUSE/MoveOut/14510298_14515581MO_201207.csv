@@ -1,0 +1,8 @@
+BATCH,,201207,B,3334.0000,
+INVOICE,IN,,14510298,,07/28/2012,1908.0000,"Invoice-Private",,07/28/2012,07/28/2012,,14515581MO,-324.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,620.0000,620.00,"CR:Limited Term Di... M.Smith 201207: Smith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308145,28,30.0000,840.00,"Basic Service Fee - Second Resident for Jul: Smith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,28,16.0000,448.00,"Resident Care - Level 1 for Jul: Smith, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,14510298,,07/28/2012,1426,"Invoice-Private",,07/28/2012,07/28/2012,,14515581MO,-324.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,930,930,"CR:Basic Service F... M.Smith 201207: Smith, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,496,496,"CR:Resident Care -... M.Smith 201207: Smith, Mary",,,,,,,,,,,,,,,

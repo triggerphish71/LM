@@ -1,0 +1,7 @@
+BATCH,,201205,B,3703.0000,
+INVOICE,IN,,13410261,,05/18/2012,736.0000,"Invoice-Private",,05/18/2012,05/18/2012,,13415501MO,-4991.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,8,92.0000,736.00,"Basic Service Fee - Studio for May: Jones, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13410261,,05/18/2012,2967,"Invoice-Private",,05/18/2012,05/18/2012,,13415501MO,-4991.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,1932,1932,"CR:Basic Service F... T.Jones 201205: Jones, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... T.Jones 201205: Jones, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000,1000,"CR:New Resident Fe... T.Jones 201205: Jones, Thomas",,,,,,,,,,,,,,,

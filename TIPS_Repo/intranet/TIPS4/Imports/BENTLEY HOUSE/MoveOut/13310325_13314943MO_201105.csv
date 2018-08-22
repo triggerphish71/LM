@@ -1,0 +1,8 @@
+BATCH,,201105,B,5601.0000,
+INVOICE,IN,,13310325,,05/15/2011,1815.0000,"Invoice-Private",,05/15/2011,05/15/2011,,13314943MO,-5636.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,15,89.0000,1335.00,"Basic Service Fee - Studio for May: Demarco, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,15,32.0000,480.00,"Resident Care - Level 2 for May: Demarco, Madeline",,,,,,,,,,,,,,,
+INVOICE,CM,,13310325,,05/15/2011,3786,"Invoice-Private",,05/15/2011,05/15/2011,,13314943MO,-5636.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2759,2759,"CR:Basic Service F... M.Demarco 201105: Demarco, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"CR:Monthly Cable... M.Demarco 201105: Demarco, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... M.Demarco 201105: Demarco, Madeline",,,,,,,,,,,,,,,

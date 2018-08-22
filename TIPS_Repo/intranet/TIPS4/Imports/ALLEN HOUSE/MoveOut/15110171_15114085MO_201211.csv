@@ -1,0 +1,7 @@
+BATCH,,201211,B,1078.0000,
+INVOICE,IN,,15110171,,11/01/2012,539.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15114085MO,-1866.2000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Petersen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3316,010212151,30,16.8000,504.00,"Credit for Employee Discount: Petersen, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,15110171,,11/01/2012,539,"Invoice-Private",,11/01/2012,11/10/2012,,15114085MO,-1866.2000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Petersen, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3316,010212151,30,16.8,504,"Employee Discount: Petersen, Virginia",,,,,,,,,,,,,,,

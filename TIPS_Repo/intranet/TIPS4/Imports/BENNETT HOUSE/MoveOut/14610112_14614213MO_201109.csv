@@ -1,0 +1,6 @@
+BATCH,,201109,B,5192.0000,
+INVOICE,IN,,14610112,,09/28/2011,2492.0000,"Invoice-Private",,09/28/2011,09/28/2011,,14614213MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,28,89.0000,2492.00,"Basic Service Fee - Studio for Sep: Meyer, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,14610112,,09/28/2011,2700,"Invoice-Private",,09/28/2011,09/28/2011,,14614213MO,-2997.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2670,2670,"CR:Basic Service F... C.Meyer 201109: Meyer, Carl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"CR:Monthly Cable... C.Meyer 201109: Meyer, Carl",,,,,,,,,,,,,,,

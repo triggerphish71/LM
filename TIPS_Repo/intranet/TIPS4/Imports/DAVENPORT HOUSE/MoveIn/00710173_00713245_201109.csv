@@ -1,0 +1,5 @@
+BATCH,,201109,B,4522.0000,
+INVOICE,IN,,00710173,,09/01/2011,4522.0000,"MoveIn-Armstrong. Edith",,09/01/2011,09/01/2011,,00713245,4522.0000,,,,,,,,,,
+TRANSACTION,3010,010101007,30,80.0000,2400,"E.Armstrong: Basic Service Fee - Studio: Armstrong. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,30,37.4000,1122,"E.Armstrong: Resident Care - Level 22: Armstrong. Edith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Armstrong. Edith",,,,,,,,,,,,,,,

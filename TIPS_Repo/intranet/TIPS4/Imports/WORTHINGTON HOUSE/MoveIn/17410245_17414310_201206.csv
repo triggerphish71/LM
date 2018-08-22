@@ -1,0 +1,5 @@
+BATCH,,201206,B,3553.0000,
+INVOICE,IN,,17410245,,06/08/2012,3553.0000,"MoveIn-Bechtold. Robert (Bob)",,06/08/2012,06/08/2012,,17414310,3553.0000,,,,,,,,,,
+TRANSACTION,3010,010309174,23,95.0000,2185,"Basic Service Fee - Studio: Bechtold. Robert (Bob)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309174,23,16.0000,368,"Resident Care - Level 1: Bechtold. Robert (Bob)",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309174,1,1000.0000,1000,"New Resident Fee: Bechtold. Robert (Bob)",,,,,,,,,,,,,,,

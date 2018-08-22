@@ -1,0 +1,8 @@
+BATCH,,201209,B,5970.0000,
+INVOICE,IN,,12910283,,09/15/2012,1980.0000,"Invoice-Private",,09/15/2012,09/15/2012,,12916090MO,-6132.0000,,,,,,,,,,
+TRANSACTION,3027,010310129,15,36.0000,540.00,"Resident Care - Level 2 for Sep: Shaffer, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,15,96.0000,1440.00,"Room and Board - Studio for Sep: Shaffer, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,12910283,,09/15/2012,3990,"Invoice-Private",,09/15/2012,09/15/2012,,12916090MO,-6132.0000,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30,30,"CR:Monthly Cable... A.Shaffer 201209: Shaffer, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1080,1080,"CR:Resident Care -... A.Shaffer 201209: Shaffer, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2880,2880,"CR:Room and Board ... A.Shaffer 201209: Shaffer, Agnes",,,,,,,,,,,,,,,

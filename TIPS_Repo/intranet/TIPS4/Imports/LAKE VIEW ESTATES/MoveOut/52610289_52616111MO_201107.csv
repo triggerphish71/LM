@@ -1,0 +1,5 @@
+BATCH,,201107,B,4941.0000,
+INVOICE,IN,,52610289,,07/30/2011,2430.0000,"Invoice-Private",,07/30/2011,07/30/2011,,52616111MO,-2592.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,30,81.0000,2430.00,"Basic Service Fee - One Bedroom for Jul: Gruenwald, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,52610289,,07/30/2011,2511,"Invoice-Private",,07/30/2011,07/30/2011,,52616111MO,-2592.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2511,2511,"CR:Basic Service F... G.Gruenwald 201107: Gruenwald, Gloria",,,,,,,,,,,,,,,

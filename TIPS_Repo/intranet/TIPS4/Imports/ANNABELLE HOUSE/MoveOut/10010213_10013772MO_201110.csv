@@ -1,0 +1,8 @@
+BATCH,,201110,B,6019.0000,
+INVOICE,IN,,10010213,,10/08/2011,2553.0000,"Invoice-Private",,10/08/2011,10/08/2011,,10013772MO,-4243.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,23,82.0000,1886.00,"E.Dunbar: Basic Service Fee - Studio for Oct: Dunbar, Everett ",,,,,,,,,,,,,,,
+TRANSACTION,3037,010104100,23,29.0000,667.00,"Private Care Rate Adjustments for Oct: Dunbar, Everett ",,,,,,,,,,,,,,,
+INVOICE,CM,,10010213,,10/08/2011,3466,"Invoice-Private",,10/08/2011,10/08/2011,,10013772MO,-4243.0000,,,,,,,,,,
+TRANSACTION,3020,010104100,1,2542,2542,"CR:E.Dunbar: Basic... E.Dunbar 201110: Dunbar, Everett ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25,25,"CR:Monthly Cable... E.Dunbar 201110: Dunbar, Everett ",,,,,,,,,,,,,,,
+TRANSACTION,3037,010104100,1,899,899,"CR:Private Care Ra... E.Dunbar 201110: Dunbar, Everett ",,,,,,,,,,,,,,,

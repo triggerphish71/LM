@@ -1,0 +1,5 @@
+BATCH,,201108,B,781.2000,
+INVOICE,IN,,51910146,,08/01/2011,390.6000,"Invoice-Private",,08/01/2011,08/10/2011,,51913140MO,-1951.8000,,,,,,,,,,
+TRANSACTION,3316,010103519,31,12.6000,390.60,"Credit for Employee Discount: Miyoshi, Fred",,,,,,,,,,,,,,,
+INVOICE,CM,,51910146,,08/01/2011,390.6,"Invoice-Private",,08/01/2011,08/10/2011,,51913140MO,-1951.8000,,,,,,,,,,
+TRANSACTION,3316,010103519,31,12.6,390.6,"Employee Discount: Miyoshi, Fred",,,,,,,,,,,,,,,

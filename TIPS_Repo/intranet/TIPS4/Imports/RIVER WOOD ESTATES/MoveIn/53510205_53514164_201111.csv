@@ -1,0 +1,7 @@
+BATCH,,201111,B,5809.0000,
+INVOICE,IN,,53510205,,11/03/2011,5809.0000,"MoveIn-Schmidt. Virginia",,11/03/2011,11/03/2011,,53514164,5809.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,28,99.0000,2772,"Basic Service Fee - One Bedroom: Schmidt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319535,28,29.0000,812,"Resident Care - Level 2: Schmidt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Schmidt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Schmidt. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Schmidt. Virginia",,,,,,,,,,,,,,,

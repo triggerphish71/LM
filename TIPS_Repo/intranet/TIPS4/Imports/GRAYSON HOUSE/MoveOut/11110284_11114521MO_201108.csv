@@ -1,0 +1,7 @@
+BATCH,,201108,B,5610.0000,
+INVOICE,IN,,11110284,,08/18/2011,2200.0000,"Invoice-Private",,08/18/2011,08/18/2011,,11114521MO,-4535.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,20,94.0000,1880.00,"Basic Service Fee - Studio for Aug: Coe, Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,20,16.0000,320.00,"Resident Care - Level 1 for Aug: Coe, Burdella",,,,,,,,,,,,,,,
+INVOICE,CM,,11110284,,08/18/2011,3410,"Invoice-Private",,08/18/2011,08/18/2011,,11114521MO,-4535.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2914,2914,"CR:Basic Service F... B.Coe 201108: Coe, Burdella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,496,496,"CR:Resident Care -... B.Coe 201108: Coe, Burdella",,,,,,,,,,,,,,,

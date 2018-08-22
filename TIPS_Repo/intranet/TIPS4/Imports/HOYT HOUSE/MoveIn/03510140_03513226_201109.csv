@@ -1,0 +1,6 @@
+BATCH,,201109,B,5324.0000,
+INVOICE,IN,,03510140,,09/02/2011,5324.0000,"MoveIn-Blanchard. Ross",,09/02/2011,09/02/2011,,03513226,5324.0000,,,,,,,,,,
+TRANSACTION,3010,010202035,29,89.0000,2581,"R.Blanchard: Basic Service Fee - Studio: Blanchard. Ross",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202035,29,42.0000,1218,"R.Blanchard: Resident Care - Level 3: Blanchard. Ross",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25.0000,25,"Monthly Cable: Blanchard. Ross",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202035,1,1500.0000,1500,"New Resident Fee: Blanchard. Ross",,,,,,,,,,,,,,,

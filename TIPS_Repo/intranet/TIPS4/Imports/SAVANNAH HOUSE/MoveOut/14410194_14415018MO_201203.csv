@@ -1,0 +1,5 @@
+BATCH,,201203,B,56.0000,
+INVOICE,IN,,14410194,,03/01/2012,28.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14415018MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Roberts, Carl",,,,,,,,,,,,,,,
+INVOICE,CM,,14410194,,03/01/2012,28,"Invoice-Private",,03/01/2012,03/10/2012,,14415018MO,-3716.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Roberts, Carl",,,,,,,,,,,,,,,

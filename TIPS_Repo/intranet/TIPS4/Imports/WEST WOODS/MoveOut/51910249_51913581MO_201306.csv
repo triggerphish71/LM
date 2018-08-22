@@ -1,0 +1,8 @@
+BATCH,,201306,B,4263.2000,
+INVOICE,IN,,51910249,,06/16/2013,141.4500,"Invoice-Private",,06/16/2013,06/16/2013,,51913581MO,-8365.2500,,,,,,,,,,
+TRANSACTION,3020,010103519,1,110.0000,110.00,"Basic Service Fee - One Bedroom for Jun: Wineberkler, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,31.4500,31.45,"Resident Care - Level 17 for Jun: Wineberkler, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,51910249,,06/16/2013,4121.75,"Invoice-Private",,06/16/2013,06/16/2013,,51913581MO,-8365.2500,,,,,,,,,,
+TRANSACTION,3020,010103519,1,1650,1650,"CR:Basic Service F... E.Wineberkler 201306: Wineberkler, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103519,1,2000,2000,"CR:New Resident Fe... E.Wineberkler 201306: Wineberkler, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,471.75,471.75,"CR:Resident Care -... E.Wineberkler 201306: Wineberkler, Esther",,,,,,,,,,,,,,,

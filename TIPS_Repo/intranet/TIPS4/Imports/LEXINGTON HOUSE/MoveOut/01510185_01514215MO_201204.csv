@@ -1,0 +1,7 @@
+BATCH,,201204,B,5820.8700,
+INVOICE,IN,,01510185,,04/02/2012,529.1700,"Invoice-Private",,04/02/2012,04/02/2012,,01514215MO,-4762.5300,,,,,,,,,,
+TRANSACTION,3020,010103015,3,103.0000,309.00,"Basic Service Fee - One Bedroom for Apr: Thompson, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,3,73.3900,220.17,"Resident Care - Level 41 for Apr: Thompson, Marge",,,,,,,,,,,,,,,
+INVOICE,CM,,01510185,,04/02/2012,5291.7,"Invoice-Private",,04/02/2012,04/02/2012,,01514215MO,-4762.5300,,,,,,,,,,
+TRANSACTION,3020,010103015,1,3090,3090,"CR:Basic Service F... M.Thompson 201204: Thompson, Marge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,2201.7,2201.7,"CR:Resident Care -... M.Thompson 201204: Thompson, Marge",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,1558.0000,
+INVOICE,IN,,12110266,,12/01/2011,779.0000,"Invoice-Private",,12/01/2011,12/10/2011,,12115302MO,-2615.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Ritchie, Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,24.0000,744.00,"Credit for Limited Term Discount: Ritchie, Alberta",,,,,,,,,,,,,,,
+INVOICE,CM,,12110266,,12/01/2011,779,"Invoice-Private",,12/01/2011,12/10/2011,,12115302MO,-2615.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Ritchie, Alberta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309121,31,24,744,"Limited Term Discount: Ritchie, Alberta",,,,,,,,,,,,,,,

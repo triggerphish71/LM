@@ -1,0 +1,7 @@
+BATCH,,201210,B,6080.0000,
+INVOICE,IN,,52510116,,10/01/2012,190.0000,"Invoice-Private",,10/01/2012,10/10/2012,,52512631MO,-5700.0000,,,,,,,,,,
+TRANSACTION,3027,010319525,1,78.0000,78.00,"Resident Care - Level 6 for Oct: Duwe, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319525,1,112.0000,112.00,"Room and Board - Studio for Oct: Duwe, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,52510116,,10/01/2012,5890,"Invoice-Private",,10/01/2012,10/10/2012,,52512631MO,-5700.0000,,,,,,,,,,
+TRANSACTION,3027,010319525,1,2418,2418,"CR:Resident Care -... R.Duwe 201210: Duwe, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3472,3472,"CR:Room and Board ... R.Duwe 201210: Duwe, Ruby",,,,,,,,,,,,,,,

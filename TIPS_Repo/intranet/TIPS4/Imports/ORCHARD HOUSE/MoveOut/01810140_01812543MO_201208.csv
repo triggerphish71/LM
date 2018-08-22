@@ -1,0 +1,5 @@
+BATCH,,201208,B,477.4000,
+INVOICE,IN,,01810140,,08/01/2012,238.7000,"Invoice-Private",,08/01/2012,08/10/2012,,01812543MO,-948.4600,,,,,,,,,,
+TRANSACTION,3312,010103018,31,7.7000,238.70,"Credit for Two Room Rental Discount: Frank, Bess",,,,,,,,,,,,,,,
+INVOICE,CM,,01810140,,08/01/2012,238.7,"Invoice-Private",,08/01/2012,08/10/2012,,01812543MO,-948.4600,,,,,,,,,,
+TRANSACTION,3312,010103018,31,7.7,238.7,"Two Room Rental Discount: Frank, Bess",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201112,B,2178.0000,
+INVOICE,IN,,17810331,,12/01/2011,1089.0000,"Invoice-Private",,12/01/2011,12/10/2011,,17815829MO,-3104.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Chubick, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,34.0000,1054.00,"Credit for Limited Term Discount: Chubick, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,17810331,,12/01/2011,1089,"Invoice-Private",,12/01/2011,12/10/2011,,17815829MO,-3104.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Chubick, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,34,1054,"Limited Term Discount: Chubick, Betty",,,,,,,,,,,,,,,

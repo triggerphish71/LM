@@ -1,0 +1,7 @@
+BATCH,,201201,B,3690.0000,
+INVOICE,IN,,07010197,,01/14/2012,1148.0000,"Invoice-Private",,01/14/2012,01/14/2012,,07014236MO,-1394.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,14,37.0000,518.00,"Basic Service Fee - Second Resident for Jan: Johnson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,14,45.0000,630.00,"Resident Care - Level 3 for Jan: Johnson, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,07010197,,01/14/2012,2542,"Invoice-Private",,01/14/2012,01/14/2012,,07014236MO,-1394.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,1147,1147,"CR:Basic Service F... G.Johnson 201201: Johnson, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1395,1395,"CR:Resident Care -... G.Johnson 201201: Johnson, Gladys",,,,,,,,,,,,,,,

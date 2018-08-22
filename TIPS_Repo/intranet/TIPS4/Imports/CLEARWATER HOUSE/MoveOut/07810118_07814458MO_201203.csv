@@ -1,0 +1,5 @@
+BATCH,,201203,B,539.1800,
+INVOICE,IN,,07810118,,03/01/2012,269.5900,"Invoice-Medicaid",,03/01/2012,03/10/2012,,07814458MO,-1157.9300,,,,,,,,,,
+TRANSACTION,3012,010104078,1,269.5900,269.59,"State Medicaid: Spoon, Nancy Jewel",,,,,,,,,,,,,,,
+INVOICE,CM,,07810118,,03/01/2012,269.59,"Invoice-Medicaid",,03/01/2012,03/10/2012,,07814458MO,-1157.9300,,,,,,,,,,
+TRANSACTION,3012,010104078,1,269.59,269.59,"Credit for State Medicaid: Spoon, Nancy Jewel",,,,,,,,,,,,,,,

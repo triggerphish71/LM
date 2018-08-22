@@ -1,0 +1,8 @@
+BATCH,,201212,B,4545.0000,
+INVOICE,IN,,53310019,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53315059MO,-4421.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,62.0000,62.00,"CR:Limited Term Di... J.Quirk 201212: Quirk, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53310019,,12/01/2012,4483,"Invoice-Private",,12/01/2012,12/10/2012,,53315059MO,-4421.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,3565,3565,"CR:Basic Service F... J.Quirk 201212: Quirk, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... J.Quirk 201212: Quirk, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... J.Quirk 201212: Quirk, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,868,868,"CR:Resident Care -... J.Quirk 201212: Quirk, Jean",,,,,,,,,,,,,,,

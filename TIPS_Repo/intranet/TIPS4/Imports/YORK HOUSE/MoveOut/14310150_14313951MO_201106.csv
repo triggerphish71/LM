@@ -1,0 +1,5 @@
+BATCH,,201106,B,70.0000,
+INVOICE,IN,,14310150,,06/01/2011,35.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14313951MO,-3275.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: Patterson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,14310150,,06/01/2011,35,"Invoice-Private",,06/01/2011,06/10/2011,,14313951MO,-3275.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: Patterson, John",,,,,,,,,,,,,,,

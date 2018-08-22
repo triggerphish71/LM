@@ -1,0 +1,8 @@
+BATCH,,201201,B,5651.0000,
+INVOICE,IN,,10510267,,01/02/2012,1187.0000,"Invoice-Private",,01/02/2012,01/02/2012,,10513904MO,-3277.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,899.0000,899.00,"CR:Limited Term Di... L.Cuvo 201201: Cuvo, Lila",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,2,87.0000,174.00,"Basic Service Fee - Studio for Jan: Cuvo, Lila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,2,57.0000,114.00,"Resident Care - Level 4 for Jan: Cuvo, Lila",,,,,,,,,,,,,,,
+INVOICE,CM,,10510267,,01/02/2012,4464,"Invoice-Private",,01/02/2012,01/02/2012,,10513904MO,-3277.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2697,2697,"CR:Basic Service F... L.Cuvo 201201: Cuvo, Lila",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,1767,1767,"CR:Resident Care -... L.Cuvo 201201: Cuvo, Lila",,,,,,,,,,,,,,,

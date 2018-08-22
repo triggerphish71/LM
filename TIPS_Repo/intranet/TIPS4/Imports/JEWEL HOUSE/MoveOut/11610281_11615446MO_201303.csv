@@ -1,0 +1,7 @@
+BATCH,,201303,B,4366.0000,
+INVOICE,IN,,11610281,,03/02/2013,708.0000,"Invoice-Private",,03/02/2013,03/02/2013,,11615446MO,-2950.0000,,,,,,,,,,
+TRANSACTION,3027,010309116,6,18.0000,108.00,"Resident Care - Level 1 for Mar: Webster, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,6,100.0000,600.00,"Room and Board - Studio for Mar: Webster, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,11610281,,03/02/2013,3658,"Invoice-Private",,03/02/2013,03/02/2013,,11615446MO,-2950.0000,,,,,,,,,,
+TRANSACTION,3027,010309116,1,558,558,"CR:Resident Care -... H.Webster 201303: Webster, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Room and Board ... H.Webster 201303: Webster, Harold",,,,,,,,,,,,,,,

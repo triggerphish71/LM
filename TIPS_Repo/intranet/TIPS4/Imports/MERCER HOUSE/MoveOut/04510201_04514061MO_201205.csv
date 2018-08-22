@@ -1,0 +1,6 @@
+BATCH,,201205,B,3523.0000,
+INVOICE,IN,,04510201,,05/01/2012,1140.0000,"Invoice-Private",,05/01/2012,05/10/2012,,04514061MO,-3550.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,15,76.0000,1140.00,"Basic Service Fee - Studio for May: Lynn, Noal",,,,,,,,,,,,,,,
+INVOICE,CM,,04510201,,05/01/2012,2383,"Invoice-Private",,05/01/2012,05/10/2012,,04514061MO,-3550.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2356,2356,"CR:Basic Service F... N.Lynn 201205: Lynn, Noal",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... N.Lynn 201205: Lynn, Noal",,,,,,,,,,,,,,,

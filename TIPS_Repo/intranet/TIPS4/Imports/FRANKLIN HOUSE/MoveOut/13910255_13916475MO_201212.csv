@@ -1,0 +1,7 @@
+BATCH,,201212,B,4089.4500,
+INVOICE,IN,,13910255,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13916475MO,-6643.4000,,,,,,,,,,
+TRANSACTION,3320,010103139,1,62.0000,62.00,"CR:Limited Term Di... P.Weeth 201212: Weeth, Pete",,,,,,,,,,,,,,,
+INVOICE,CM,,13910255,,12/01/2012,4027.45,"Invoice-Private",,12/01/2012,12/10/2012,,13916475MO,-6643.4000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3720,3720,"CR:Basic Service F... P.Weeth 201212: Weeth, Pete",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... P.Weeth 201212: Weeth, Pete",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,277.45,277.45,"CR:Resident Care -... P.Weeth 201212: Weeth, Pete",,,,,,,,,,,,,,,

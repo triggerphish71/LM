@@ -1,0 +1,7 @@
+BATCH,,201109,B,7531.0000,
+INVOICE,IN,,51610111,,09/01/2011,210.0000,"Invoice-Private",,09/01/2011,09/10/2011,,51613595MO,-5600.7000,,,,,,,,,,
+TRANSACTION,3320,010103516,1,210.0000,210.00,"CR:Limited Term Di... M.Alder 201109: Alder, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,51610111,,09/01/2011,7321,"Invoice-Private",,09/01/2011,09/10/2011,,51613595MO,-5600.7000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,3180,3180,"CR:Basic Service F... M.Alder 201109: Alder, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103516,1,10,10,"CR:Pendant Fee... M.Alder 201109: Alder, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,4131,4131,"CR:Resident Care -... M.Alder 201109: Alder, Mildred",,,,,,,,,,,,,,,

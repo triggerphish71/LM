@@ -1,0 +1,7 @@
+BATCH,,201205,B,2791.0000,
+INVOICE,IN,,19010245,,05/21/2012,392.0000,"Invoice-Private",,05/21/2012,05/21/2012,,19014527MO,-4974.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,4,98.0000,392.00,"D.McGaha: Basic Service Fee - Studio for May: McGaha, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,19010245,,05/21/2012,2399,"Invoice-Private",,05/21/2012,05/21/2012,,19014527MO,-4974.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,1372,1372,"CR:D.McGaha: Basic... D.McGaha 201205: McGaha, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... D.McGaha 201205: McGaha, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000,1000,"CR:New Resident Fe... D.McGaha 201205: McGaha, Dorothy",,,,,,,,,,,,,,,

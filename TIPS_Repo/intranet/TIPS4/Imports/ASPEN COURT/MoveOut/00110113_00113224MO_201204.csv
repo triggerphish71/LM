@@ -1,0 +1,6 @@
+BATCH,,201204,B,3022.0000,
+INVOICE,IN,,00110113,,04/07/2012,567.0000,"Invoice-Private",,04/07/2012,04/07/2012,,00113224MO,-1888.0000,,,,,,,,,,
+TRANSACTION,3020,010101001,7,81.0000,567.00,"Basic Service Fee - One Bedroom for Apr: Bollenbaugh, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,00110113,,04/07/2012,2455,"Invoice-Private",,04/07/2012,04/07/2012,,00113224MO,-1888.0000,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2430,2430,"CR:Basic Service F... R.Bollenbaugh 201204: Bollenbaugh, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... R.Bollenbaugh 201204: Bollenbaugh, Ralph",,,,,,,,,,,,,,,

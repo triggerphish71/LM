@@ -1,0 +1,7 @@
+BATCH,,201211,B,4160.0000,
+INVOICE,IN,,20410185,,11/10/2012,1040.0000,"Invoice-Private",,11/10/2012,11/10/2012,,20413231MO,-2080.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,10,22.0000,220.00,"Resident Care - Level 2 for Nov: Baldwin, Fay",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,10,82.0000,820.00,"Studio for Nov: Baldwin, Fay",,,,,,,,,,,,,,,
+INVOICE,CM,,20410185,,11/10/2012,3120,"Invoice-Private",,11/10/2012,11/10/2012,,20413231MO,-2080.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,660,660,"CR:Resident Care -... F.Baldwin 201211: Baldwin, Fay",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Studio... F.Baldwin 201211: Baldwin, Fay",,,,,,,,,,,,,,,

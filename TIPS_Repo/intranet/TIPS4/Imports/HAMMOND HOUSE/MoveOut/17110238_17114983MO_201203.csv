@@ -1,0 +1,6 @@
+BATCH,,201203,B,3223.0000,
+INVOICE,IN,,17110238,,03/03/2012,282.0000,"Invoice-Private",,03/03/2012,03/03/2012,,17114983MO,-2659.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,3,94.0000,282.00,"Basic Service Fee - Studio for Mar: Thornton, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110238,,03/03/2012,2941,"Invoice-Private",,03/03/2012,03/03/2012,,17114983MO,-2659.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... M.Thornton 201203: Thornton, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... M.Thornton 201203: Thornton, Marie",,,,,,,,,,,,,,,

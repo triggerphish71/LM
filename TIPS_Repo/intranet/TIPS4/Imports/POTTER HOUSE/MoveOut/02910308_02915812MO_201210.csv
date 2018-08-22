@@ -1,0 +1,8 @@
+BATCH,,201210,B,5333.0000,
+INVOICE,IN,,02910308,,10/01/2012,1241.0000,"Invoice-Private",,10/01/2012,10/10/2012,,02915812MO,-2851.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,713.0000,713.00,"CR:Limited Term Di... J.Armstrong 201210: Armstrong, JW",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,4,100.0000,400.00,"Basic Service Fee - Studio for Oct: Armstrong, JW",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,4,32.0000,128.00,"Resident Care - Level 2 for Oct: Armstrong, JW",,,,,,,,,,,,,,,
+INVOICE,CM,,02910308,,10/01/2012,4092,"Invoice-Private",,10/01/2012,10/10/2012,,02915812MO,-2851.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,3100,3100,"CR:Basic Service F... J.Armstrong 201210: Armstrong, JW",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,992,992,"CR:Resident Care -... J.Armstrong 201210: Armstrong, JW",,,,,,,,,,,,,,,

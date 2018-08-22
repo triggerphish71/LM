@@ -1,0 +1,5 @@
+BATCH,,201110,B,54.0000,
+INVOICE,IN,,15310202,,10/01/2011,27.0000,"Invoice-Private",,10/01/2011,10/10/2011,,15315623MO,-2821.5000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Schutz, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,15310202,,10/01/2011,27,"Invoice-Private",,10/01/2011,10/10/2011,,15315623MO,-2821.5000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Schutz, Violet",,,,,,,,,,,,,,,

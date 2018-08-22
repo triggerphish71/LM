@@ -1,0 +1,5 @@
+BATCH,,201210,B,2666.0000,
+INVOICE,IN,,02810222,,10/01/2012,1333.0000,"Invoice-Private",,10/01/2012,10/10/2012,,02815371MO,-3587.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,31,43.0000,1333.00,"Credit for Limited Term Discount: Koebelen, Velva",,,,,,,,,,,,,,,
+INVOICE,CM,,02810222,,10/01/2012,1333,"Invoice-Private",,10/01/2012,10/10/2012,,02815371MO,-3587.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,31,43,1333,"Limited Term Discount: Koebelen, Velva",,,,,,,,,,,,,,,

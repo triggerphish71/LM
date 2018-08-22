@@ -1,0 +1,7 @@
+BATCH,,201203,B,7191.0000,
+INVOICE,IN,,08910175,,03/14/2012,2820.0000,"Invoice-Private",,03/14/2012,03/14/2012,,08914722MO,-5781.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,20,122.0000,2440.00,"Basic Service Fee - Deluxe for Mar: Russell, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,20,19.0000,380.00,"Resident Care - Level 1 for Mar: Russell, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,08910175,,03/14/2012,4371,"Invoice-Private",,03/14/2012,03/14/2012,,08914722MO,-5781.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3782,3782,"CR:Basic Service F... R.Russell 201203: Russell, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,589,589,"CR:Resident Care -... R.Russell 201203: Russell, Ruth",,,,,,,,,,,,,,,

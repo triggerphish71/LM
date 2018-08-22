@@ -1,0 +1,5 @@
+BATCH,,201302,B,4217.6000,
+INVOICE,IN,,05910136,,02/05/2013,4217.6000,"MoveIn-Harris. Raymond",,02/05/2013,02/05/2013,,05913493,4217.6000,,,,,,,,,,
+TRANSACTION,3010,010101059,24,85.0000,2040,"R.Harris: Basic Service Fee - Studio: Harris. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101059,24,7.4000,177.6,"R.Harris: Resident Care - Level 4: Harris. Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101059,1,2000.0000,2000,"New Resident Fee: Harris. Raymond",,,,,,,,,,,,,,,

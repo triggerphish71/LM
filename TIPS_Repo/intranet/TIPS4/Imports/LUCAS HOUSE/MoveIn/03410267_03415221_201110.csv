@@ -1,0 +1,5 @@
+BATCH,,201110,B,3313.0000,
+INVOICE,IN,,03410267,,10/01/2011,3313.0000,"October_Rent-Crawford. Dorothy",,10/01/2011,10/10/2011,,03415221,5688.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,31,93.0000,2883,"Basic Service Fee - Studio         : Crawford. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,31,13.0000,403,"Resident Care - Level 1: Crawford. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Crawford. Dorothy",,,,,,,,,,,,,,,

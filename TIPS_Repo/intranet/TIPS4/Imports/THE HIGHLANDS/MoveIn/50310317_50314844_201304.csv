@@ -1,0 +1,5 @@
+BATCH,,201304,B,3485.0000,
+INVOICE,IN,,50310317,,04/05/2013,3485.0000,"MoveIn-Taylor. Charles",,04/05/2013,04/05/2013,,50314844,3485.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,26,75.0000,1950,"Basic Service Fee - Studio: Taylor. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Taylor. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Taylor. Charles",,,,,,,,,,,,,,,

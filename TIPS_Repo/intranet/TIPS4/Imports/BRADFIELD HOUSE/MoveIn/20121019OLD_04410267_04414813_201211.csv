@@ -1,0 +1,5 @@
+BATCH,,201211,B,3055.0000,
+INVOICE,IN,,04410267,,11/01/2012,3055.0000,"November_Rent-Muhl. Andrew",,11/01/2012,11/10/2012,,04414813,5893.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,30,85.0000,2550,"A.Muhl: Basic Service Fee - Studio: Muhl. Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,30,16.0000,480,"A.Muhl: Resident Care - Level 1: Muhl. Andrew",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Muhl. Andrew",,,,,,,,,,,,,,,

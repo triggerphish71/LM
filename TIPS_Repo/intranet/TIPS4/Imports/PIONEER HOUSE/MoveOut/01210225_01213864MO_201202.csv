@@ -1,0 +1,7 @@
+BATCH,,201202,B,4932.0000,
+INVOICE,IN,,01210225,,02/01/2012,2438.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01213864MO,-56.0000,,,,,,,,,,
+TRANSACTION,3320,010103012,1,58.0000,58.00,"CR:Limited Term Di... D.Stecker 201202: Stecker, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103012,28,85.0000,2380.00,"Basic Service Fee - Studio for Feb: Stecker, Dan",,,,,,,,,,,,,,,
+INVOICE,CM,,01210225,,02/01/2012,2494,"Invoice-Private",,02/01/2012,02/10/2012,,01213864MO,-56.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2465,2465,"CR:Basic Service F... D.Stecker 201202: Stecker, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... D.Stecker 201202: Stecker, Dan",,,,,,,,,,,,,,,

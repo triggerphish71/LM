@@ -1,0 +1,6 @@
+BATCH,,201210,B,4154.0000,
+INVOICE,IN,,10810264,,10/01/2012,1054.0000,"Invoice-Private",,10/01/2012,10/10/2012,,10814993MO,-2046.0000,,,,,,,,,,
+TRANSACTION,3320,010308108,1,1054.0000,1054.00,"CR:Limited Term Di... M.Frederick 201210: Frederick, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,10810264,,10/01/2012,3100,"Invoice-Private",,10/01/2012,10/10/2012,,10814993MO,-2046.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,2604,2604,"CR:Basic Service F... M.Frederick 201210: Frederick, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... M.Frederick 201210: Frederick, Martha",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201108,B,3376.0000,
+INVOICE,IN,,00710140,,08/01/2011,105.5000,"Invoice-Private",,08/01/2011,08/01/2011,,00713207MO,-3165.0000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,80.0000,80.00,"Basic Service Fee - Studio for Aug: Johnson, Lore (lory)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,25.5000,25.50,"Resident Care - Level 15 for Aug: Johnson, Lore (lory)",,,,,,,,,,,,,,,
+INVOICE,CM,,00710140,,08/01/2011,3270.5,"Invoice-Private",,08/01/2011,08/01/2011,,00713207MO,-3165.0000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2480,2480,"CR:Basic Service F... L.Johnson 201108: Johnson, Lore (lory)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,790.5,790.5,"CR:Resident Care -... L.Johnson 201108: Johnson, Lore (lory)",,,,,,,,,,,,,,,

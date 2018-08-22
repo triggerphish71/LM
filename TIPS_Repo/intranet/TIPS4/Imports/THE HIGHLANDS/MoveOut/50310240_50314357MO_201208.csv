@@ -1,0 +1,8 @@
+BATCH,,201208,B,3417.0000,
+INVOICE,IN,,50310240,,08/01/2012,623.0000,"Invoice-Private",,08/01/2012,08/10/2012,,50314357MO,-2171.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,7,75.0000,525.00,"Basic Service Fee - Studio for Aug: Roberts, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,7,14.0000,98.00,"Resident Care - Level 1 for Aug: Roberts, Gary",,,,,,,,,,,,,,,
+INVOICE,CM,,50310240,,08/01/2012,2794,"Invoice-Private",,08/01/2012,08/10/2012,,50314357MO,-2171.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... G.Roberts 201208: Roberts, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... G.Roberts 201208: Roberts, Gary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... G.Roberts 201208: Roberts, Gary",,,,,,,,,,,,,,,

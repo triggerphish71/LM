@@ -1,0 +1,5 @@
+BATCH,,201303,B,4292.0000,
+INVOICE,IN,,02810203,,03/15/2013,1998.0000,"Invoice-Private",,03/15/2013,03/15/2013,,02815709MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,27,74.0000,1998.00,"Basic Service Fee - Studio for Mar: Ledbetter, Lola",,,,,,,,,,,,,,,
+INVOICE,CM,,02810203,,03/15/2013,2294,"Invoice-Private",,03/15/2013,03/15/2013,,02815709MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,2294,2294,"CR:Basic Service F... L.Ledbetter 201303: Ledbetter, Lola",,,,,,,,,,,,,,,

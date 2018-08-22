@@ -1,0 +1,7 @@
+BATCH,,201307,B,5854.5300,
+INVOICE,IN,,05510247,,07/19/2013,2258.5300,"Invoice-Private",,07/19/2013,07/19/2013,,05514665MO,-4933.4700,,,,,,,,,,
+TRANSACTION,3020,010202055,19,30.0000,570.00,"Basic Service Fee - Second Resident for Jul: Yawn, Billie",,,,,,,,,,,,,,,
+TRANSACTION,3030,010202055,19,88.8700,1688.53,"Private BSF Rate Adjustment for Jul: Yawn, Billie",,,,,,,,,,,,,,,
+INVOICE,CM,,05510247,,07/19/2013,3596,"Invoice-Private",,07/19/2013,07/19/2013,,05514665MO,-4933.4700,,,,,,,,,,
+TRANSACTION,3020,010202055,1,930,930,"CR:Basic Service F... B.Yawn 201307: Yawn, Billie",,,,,,,,,,,,,,,
+TRANSACTION,3030,010202055,1,2666,2666,"CR:Private BSF Rat... B.Yawn 201307: Yawn, Billie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201303,B,8844.0000,
+INVOICE,IN,,14710281,,03/23/2013,3749.0000,"Invoice-Private",,03/23/2013,03/23/2013,,14716121MO,-6278.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,23,102.0000,2346.00,"Basic Service Fee - Studio for Mar: Kosty, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,23,61.0000,1403.00,"Resident Care - Level 4 for Mar: Kosty, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,14710281,,03/23/2013,5095,"Invoice-Private",,03/23/2013,03/23/2013,,14716121MO,-6278.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... A.Kosty 201303: Kosty, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... A.Kosty 201303: Kosty, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,1891,1891,"CR:Resident Care -... A.Kosty 201303: Kosty, Anne",,,,,,,,,,,,,,,

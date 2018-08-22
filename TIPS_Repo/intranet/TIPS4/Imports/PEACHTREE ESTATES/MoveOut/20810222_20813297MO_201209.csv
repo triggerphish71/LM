@@ -1,0 +1,5 @@
+BATCH,,201209,B,240.0000,
+INVOICE,IN,,20810222,,09/01/2012,120.0000,"Invoice-Private",,09/01/2012,09/10/2012,,20813297MO,-776.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,30,4.0000,120.00,"Credit for Limited Term Discount: Martin, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,20810222,,09/01/2012,120,"Invoice-Private",,09/01/2012,09/10/2012,,20813297MO,-776.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,30,4,120,"Limited Term Discount: Martin, Marie",,,,,,,,,,,,,,,

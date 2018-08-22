@@ -1,0 +1,7 @@
+BATCH,,201208,B,6594.0000,
+INVOICE,IN,,51310195,,08/11/2012,1727.0000,"Invoice-Private",,08/11/2012,08/11/2012,,51314019MO,-3140.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,11,118.0000,1298.00,"Basic Service Fee - Studio Deluxe for Aug: Ghrist, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,11,39.0000,429.00,"Resident Care - Level 3 for Aug: Ghrist, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,51310195,,08/11/2012,4867,"Invoice-Private",,08/11/2012,08/11/2012,,51314019MO,-3140.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3658,3658,"CR:Basic Service F... L.Ghrist 201208: Ghrist, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1209,1209,"CR:Resident Care -... L.Ghrist 201208: Ghrist, Lawrence",,,,,,,,,,,,,,,

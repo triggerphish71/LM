@@ -1,0 +1,6 @@
+BATCH,,201305,B,4050.0000,
+INVOICE,IN,,01210276,,05/03/2013,85.0000,"Invoice-Private",,05/03/2013,05/03/2013,,01214388MO,-4780.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,85.0000,85.00,"Basic Service Fee - Studio for May: Breshears, Stella",,,,,,,,,,,,,,,
+INVOICE,CM,,01210276,,05/03/2013,3965,"Invoice-Private",,05/03/2013,05/03/2013,,01214388MO,-4780.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2465,2465,"CR:Basic Service F... S.Breshears 201305: Breshears, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500,1500,"CR:New Resident Fe... S.Breshears 201305: Breshears, Stella",,,,,,,,,,,,,,,

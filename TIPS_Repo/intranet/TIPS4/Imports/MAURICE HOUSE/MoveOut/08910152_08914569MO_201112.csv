@@ -1,0 +1,8 @@
+BATCH,,201112,B,6460.0000,
+INVOICE,IN,,08910152,,12/08/2011,2089.0000,"Invoice-Private",,12/08/2011,12/08/2011,,08914569MO,-2282.0000,,,,,,,,,,
+TRANSACTION,3320,010306089,1,961.0000,961.00,"CR:Limited Term Di... D.Buck 201112: Buck, Della",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,8,106.0000,848.00,"Basic Service Fee - Studio for Dec: Buck, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,8,35.0000,280.00,"Resident Care - Level 2 for Dec: Buck, Della",,,,,,,,,,,,,,,
+INVOICE,CM,,08910152,,12/08/2011,4371,"Invoice-Private",,12/08/2011,12/08/2011,,08914569MO,-2282.0000,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3286,3286,"CR:Basic Service F... D.Buck 201112: Buck, Della",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306089,1,1085,1085,"CR:Resident Care -... D.Buck 201112: Buck, Della",,,,,,,,,,,,,,,

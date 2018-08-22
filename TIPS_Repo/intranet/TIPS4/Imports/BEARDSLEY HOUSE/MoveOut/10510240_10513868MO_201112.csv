@@ -1,0 +1,6 @@
+BATCH,,201112,B,5456.0000,
+INVOICE,IN,,10510240,,12/01/2011,744.0000,"Invoice-Private",,12/01/2011,12/10/2011,,10513868MO,-3968.0000,,,,,,,,,,
+TRANSACTION,3320,010309105,1,744.0000,744.00,"CR:Limited Term Di... M.Horne 201112: Horne, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,10510240,,12/01/2011,4712,"Invoice-Private",,12/01/2011,12/10/2011,,10513868MO,-3968.0000,,,,,,,,,,
+TRANSACTION,3027,010309105,1,2108,2108,"CR:Resident Care -... M.Horne 201112: Horne, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309105,1,2604,2604,"CR:Room and Board ... M.Horne 201112: Horne, Margie",,,,,,,,,,,,,,,

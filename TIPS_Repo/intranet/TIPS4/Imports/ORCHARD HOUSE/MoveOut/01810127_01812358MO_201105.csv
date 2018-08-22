@@ -1,0 +1,6 @@
+BATCH,,201105,B,5087.1000,
+INVOICE,IN,,01810127,,05/01/2011,1054.0000,"Invoice-Private",,05/01/2011,05/10/2011,,01812358MO,-2739.7000,,,,,,,,,,
+TRANSACTION,3320,010103018,1,1054.0000,1054.00,"CR:Limited Term Di... E.Dellinger 201105: Dellinger, Esther",,,,,,,,,,,,,,,
+INVOICE,CM,,01810127,,05/01/2011,4033.1,"Invoice-Private",,05/01/2011,05/10/2011,,01812358MO,-2739.7000,,,,,,,,,,
+TRANSACTION,3027,010103018,1,1739.1,1739.1,"CR:Resident Care -... E.Dellinger 201105: Dellinger, Esther",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2294,2294,"CR:Room and Board ... E.Dellinger 201105: Dellinger, Esther",,,,,,,,,,,,,,,

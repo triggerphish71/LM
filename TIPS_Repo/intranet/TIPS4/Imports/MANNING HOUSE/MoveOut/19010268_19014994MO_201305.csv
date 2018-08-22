@@ -1,0 +1,5 @@
+BATCH,,201305,B,1260.0000,
+INVOICE,IN,,19010268,,05/10/2013,330.0000,"Invoice-Private",,05/10/2013,05/10/2013,,19014994MO,-600.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,11,30.0000,330.00,"Basic Service Fee - Second Resident for May: Garcia, Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,19010268,,05/10/2013,930,"Invoice-Private",,05/10/2013,05/10/2013,,19014994MO,-600.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,930,930,"CR:Basic Service F... L.Garcia 201305: Garcia, Lee",,,,,,,,,,,,,,,

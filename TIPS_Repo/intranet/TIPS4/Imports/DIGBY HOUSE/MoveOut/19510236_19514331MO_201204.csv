@@ -1,0 +1,5 @@
+BATCH,,201204,B,1258.0000,
+INVOICE,IN,,19510236,,04/07/2012,238.0000,"Invoice-Private",,04/07/2012,04/07/2012,,19514331MO,-782.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,7,34.0000,238.00,"Basic Service Fee - Second Resident for Apr: Boes, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,19510236,,04/07/2012,1020,"Invoice-Private",,04/07/2012,04/07/2012,,19514331MO,-782.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,1020,1020,"CR:Basic Service F... R.Boes 201204: Boes, Ralph",,,,,,,,,,,,,,,

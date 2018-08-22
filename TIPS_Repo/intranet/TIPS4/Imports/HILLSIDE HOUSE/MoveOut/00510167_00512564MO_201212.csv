@@ -1,0 +1,6 @@
+BATCH,,201212,B,5543.4200,
+INVOICE,IN,,00510167,,12/01/2012,339.4500,"Invoice-Private",,12/01/2012,12/10/2012,,00512564MO,-6046.8500,,,,,,,,,,
+TRANSACTION,3316,010101005,1,339.4500,339.45,"CR:Employee Discou... T.Giraldi 201212: Giraldi, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,00510167,,12/01/2012,5203.97,"Invoice-Private",,12/01/2012,12/10/2012,,00512564MO,-6046.8500,,,,,,,,,,
+TRANSACTION,3020,010101005,1,2263,2263,"CR:Basic Service F... T.Giraldi 201212: Giraldi, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101005,1,2940.97,2940.97,"CR:Resident Care -... T.Giraldi 201212: Giraldi, Thomas",,,,,,,,,,,,,,,

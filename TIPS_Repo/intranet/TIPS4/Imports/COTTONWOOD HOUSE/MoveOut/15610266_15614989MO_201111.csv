@@ -1,0 +1,7 @@
+BATCH,,201111,B,7625.0000,
+INVOICE,CM,,15610266,,10/01/2011,3875,"Invoice-Private",,10/01/2011,10/10/2011,,15614989MO,-7625.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3317,3317,"CR:Basic Service F... V.Bruhn 201110: Bruhn, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,558,558,"CR:Resident Care -... V.Bruhn 201110: Bruhn, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,15610266,,11/01/2011,3750,"Invoice-Private",,11/01/2011,11/10/2011,,15614989MO,-7625.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,3210,3210,"CR:Basic Service F... V.Bruhn 201111: Bruhn, Violet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,540,540,"CR:Resident Care -... V.Bruhn 201111: Bruhn, Violet",,,,,,,,,,,,,,,

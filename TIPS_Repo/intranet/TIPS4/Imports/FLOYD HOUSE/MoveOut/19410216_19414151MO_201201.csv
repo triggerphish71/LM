@@ -1,0 +1,7 @@
+BATCH,,201201,B,4832.0000,
+INVOICE,IN,,19410216,,01/01/2012,151.0000,"Invoice-Private",,01/01/2012,01/01/2012,,19414151MO,-4530.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,75.0000,75.00,"Room and Board - Studio for Jan: Mook, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,76.0000,76.00,"Swan Personal Care - L5 for Jan: Mook, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,19410216,,01/01/2012,4681,"Invoice-Private",,01/01/2012,01/01/2012,,19414151MO,-4530.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2325,2325,"CR:Room and Board ... D.Mook 201201: Mook, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,2356,2356,"CR:Swan Personal C... D.Mook 201201: Mook, Donald",,,,,,,,,,,,,,,

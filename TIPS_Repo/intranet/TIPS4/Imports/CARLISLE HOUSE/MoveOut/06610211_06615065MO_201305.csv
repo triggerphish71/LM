@@ -1,0 +1,7 @@
+BATCH,,201305,B,7520.0000,
+INVOICE,IN,,06610211,,05/16/2013,2560.0000,"Invoice-Private",,05/16/2013,05/16/2013,,06615065MO,-7200.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,16,128.0000,2048.00,"Basic Service Fee - One Bedroom for May: Young, Franklin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,16,32.0000,512.00,"Resident Care - Level 2 for May: Young, Franklin",,,,,,,,,,,,,,,
+INVOICE,CM,,06610211,,05/16/2013,4960,"Invoice-Private",,05/16/2013,05/16/2013,,06615065MO,-7200.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,3968,3968,"CR:Basic Service F... F.Young 201305: Young, Franklin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,992,992,"CR:Resident Care -... F.Young 201305: Young, Franklin",,,,,,,,,,,,,,,

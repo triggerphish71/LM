@@ -1,0 +1,6 @@
+BATCH,,201212,B,5168.0000,
+INVOICE,IN,,17810361,,12/28/2012,2436.0000,"Invoice-Private",,12/28/2012,12/28/2012,,17816351MO,-1846.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,28,87.0000,2436.00,"R.Fort: Basic Service Fee - Studio for Dec: Fort, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,17810361,,12/28/2012,2732,"Invoice-Private",,12/28/2012,12/28/2012,,17816351MO,-1846.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... R.Fort 201212: Fort, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2697,2697,"CR:R.Fort: Basic S... R.Fort 201212: Fort, Robert",,,,,,,,,,,,,,,

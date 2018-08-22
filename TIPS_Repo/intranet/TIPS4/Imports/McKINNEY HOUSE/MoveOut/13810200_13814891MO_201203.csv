@@ -1,0 +1,7 @@
+BATCH,,201203,B,3940.0000,
+INVOICE,IN,,13810200,,03/09/2012,914.0000,"Invoice-Private",,03/09/2012,03/09/2012,,13814891MO,-2112.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,9,96.0000,864.00,"Basic Service Fee - Studio for Mar: Roberson, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309138,1,50.0000,50.00,"Late Fee Adjustment: Roberson, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,13810200,,03/09/2012,3026,"Invoice-Private",,03/09/2012,03/09/2012,,13814891MO,-2112.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... M.Roberson 201203: Roberson, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3150,010309138,1,50,50,"Late Fee Adjustment: Roberson, Marjorie",,,,,,,,,,,,,,,

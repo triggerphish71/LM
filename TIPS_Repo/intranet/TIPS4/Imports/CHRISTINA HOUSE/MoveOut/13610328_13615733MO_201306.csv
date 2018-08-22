@@ -1,0 +1,5 @@
+BATCH,,201306,B,1312.0000,
+INVOICE,IN,,13610328,,06/11/2013,352.0000,"Invoice-Private",,06/11/2013,06/11/2013,,13615733MO,-608.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,11,32.0000,352.00,"Basic Service Fee - Second Resident for Jun: Ray, M.Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,13610328,,06/11/2013,960,"Invoice-Private",,06/11/2013,06/11/2013,,13615733MO,-608.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,960,960,"CR:Basic Service F... M.Ray 201306: Ray, M.Naomi",,,,,,,,,,,,,,,

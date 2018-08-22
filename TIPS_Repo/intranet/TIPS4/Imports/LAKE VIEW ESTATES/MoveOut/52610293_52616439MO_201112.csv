@@ -1,0 +1,6 @@
+BATCH,,201112,B,918.0000,
+INVOICE,IN,,52610293,,12/06/2011,144.0000,"Invoice-Private",,12/06/2011,12/06/2011,,52616439MO,-630.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,6,24.0000,144.00,"Basic Service Fee - Second Resident for Dec: Ohara, Norman",,,,,,,,,,,,,,,
+INVOICE,CM,,52610293,,12/06/2011,774,"Invoice-Private",,12/06/2011,12/06/2011,,52616439MO,-630.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,744,744,"CR:Basic Service F... N.Ohara 201112: Ohara, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... N.Ohara 201112: Ohara, Norman",,,,,,,,,,,,,,,

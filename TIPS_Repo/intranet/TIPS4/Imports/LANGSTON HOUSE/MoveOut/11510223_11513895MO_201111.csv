@@ -1,0 +1,7 @@
+BATCH,,201111,B,896.0000,
+INVOICE,IN,,11510223,,11/01/2011,448.0000,"Invoice-Private",,11/01/2011,11/10/2011,,11513895MO,-2043.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Edge, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,14.0000,420.00,"Credit for Limited Term Discount: Edge, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,11510223,,11/01/2011,448,"Invoice-Private",,11/01/2011,11/10/2011,,11513895MO,-2043.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Edge, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,14,420,"Limited Term Discount: Edge, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201106,B,6660.0000,
+INVOICE,IN,,50310165,,06/20/2011,2700.0000,"Invoice-Private",,06/20/2011,06/20/2011,,50313589MO,-5290.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,60.0000,60.00,"CR:Limited Term Di... H.Creamer 201106: Creamer, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,20,72.0000,1440.00,"Basic Service Fee - Studio for Jun: Creamer, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,20,60.0000,1200.00,"Resident Care - Level 5 for Jun: Creamer, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,50310165,,06/20/2011,3960,"Invoice-Private",,06/20/2011,06/20/2011,,50313589MO,-5290.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2160,2160,"CR:Basic Service F... H.Creamer 201106: Creamer, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1800,1800,"CR:Resident Care -... H.Creamer 201106: Creamer, Hilda",,,,,,,,,,,,,,,

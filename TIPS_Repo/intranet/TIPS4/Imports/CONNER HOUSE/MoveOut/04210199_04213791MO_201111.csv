@@ -1,0 +1,5 @@
+BATCH,,201111,B,54.0000,
+INVOICE,IN,,04210199,,11/01/2011,27.0000,"Invoice-Private",,11/01/2011,11/10/2011,,04213791MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Williamson, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04210199,,11/01/2011,27,"Invoice-Private",,11/01/2011,11/10/2011,,04213791MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Williamson, Mary",,,,,,,,,,,,,,,

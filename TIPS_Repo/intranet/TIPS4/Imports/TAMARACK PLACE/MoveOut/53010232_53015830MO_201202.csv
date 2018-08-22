@@ -1,0 +1,7 @@
+BATCH,,201202,B,6512.0000,
+INVOICE,IN,,53010232,,02/06/2012,1408.0000,"Invoice-Private",,02/06/2012,02/06/2012,,53015830MO,-3696.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,8,119.0000,952.00,"Basic Service Fee-One Bedroom Premi for Feb: Novak, Michael A",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,8,57.0000,456.00,"Resident Care - Level 3 for Feb: Novak, Michael A",,,,,,,,,,,,,,,
+INVOICE,CM,,53010232,,02/06/2012,5104,"Invoice-Private",,02/06/2012,02/06/2012,,53015830MO,-3696.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3451,3451,"CR:Basic Service F... M.Novak 201202: Novak, Michael A",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1653,1653,"CR:Resident Care -... M.Novak 201202: Novak, Michael A",,,,,,,,,,,,,,,

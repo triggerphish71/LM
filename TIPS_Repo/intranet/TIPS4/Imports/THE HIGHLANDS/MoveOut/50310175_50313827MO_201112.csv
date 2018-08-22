@@ -1,0 +1,5 @@
+BATCH,,201112,B,70.0000,
+INVOICE,IN,,50310175,,12/01/2011,35.0000,"Invoice-Private",,12/01/2011,12/10/2011,,50313827MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Norton, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,50310175,,12/01/2011,35,"Invoice-Private",,12/01/2011,12/10/2011,,50313827MO,-1684.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Norton, Carol",,,,,,,,,,,,,,,

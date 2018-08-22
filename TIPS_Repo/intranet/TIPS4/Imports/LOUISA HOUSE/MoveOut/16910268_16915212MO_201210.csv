@@ -1,0 +1,8 @@
+BATCH,,201210,B,4997.2400,
+INVOICE,IN,,16910268,,10/25/2012,2219.7500,"Invoice-Private",,10/25/2012,10/25/2012,,16915212MO,-3246.4400,,,,,,,,,,
+TRANSACTION,3020,010103169,25,87.0000,2175.00,"Basic Service Fee - Studio for Oct: Hawkins, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,25,1.7900,44.75,"Resident Care - Level 1 for Oct: Hawkins, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,16910268,,10/25/2012,2777.49,"Invoice-Private",,10/25/2012,10/25/2012,,16915212MO,-3246.4400,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2697,2697,"CR:Basic Service F... P.Hawkins 201210: Hawkins, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... P.Hawkins 201210: Hawkins, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103169,1,55.49,55.49,"CR:Resident Care -... P.Hawkins 201210: Hawkins, Patricia",,,,,,,,,,,,,,,

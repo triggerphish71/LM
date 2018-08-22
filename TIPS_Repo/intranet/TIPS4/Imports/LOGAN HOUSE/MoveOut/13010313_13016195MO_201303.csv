@@ -1,0 +1,6 @@
+BATCH,,201303,B,4652.0000,
+INVOICE,IN,,13010313,,03/01/2013,750.0000,"Invoice-Private",,03/01/2013,03/10/2013,,13016195MO,-3152.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,6,125.0000,750.00,"Basic Service Fee - One Bedroom for Mar: Pallone, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,13010313,,03/01/2013,3902,"Invoice-Private",,03/01/2013,03/10/2013,,13016195MO,-3152.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,3875,3875,"CR:Basic Service F... B.Pallone 201303: Pallone, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"CR:Monthly Cable... B.Pallone 201303: Pallone, Barbara",,,,,,,,,,,,,,,

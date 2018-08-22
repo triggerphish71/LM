@@ -1,0 +1,7 @@
+BATCH,,201105,B,5016.0000,
+INVOICE,IN,,03310221,,05/01/2011,62.0000,"Invoice-Private",,05/01/2011,05/10/2011,,03315796MO,-4892.0000,,,,,,,,,,
+TRANSACTION,3320,010202033,1,62.0000,62.00,"CR:Limited Term Di... D.Meil 201105: Meil, Dollie",,,,,,,,,,,,,,,
+INVOICE,CM,,03310221,,05/01/2011,4954,"Invoice-Private",,05/01/2011,05/10/2011,,03315796MO,-4892.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2821,2821,"CR:Basic Service F... D.Meil 201105: Meil, Dollie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"CR:Monthly Cable... D.Meil 201105: Meil, Dollie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,2108,2108,"CR:Resident Care -... D.Meil 201105: Meil, Dollie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,60.0000,
+INVOICE,IN,,13510295,,05/01/2013,30.0000,"Invoice-Private",,05/01/2013,05/10/2013,,13515735MO,-2930.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Brown, Janis",,,,,,,,,,,,,,,
+INVOICE,CM,,13510295,,05/01/2013,30,"Invoice-Private",,05/01/2013,05/10/2013,,13515735MO,-2930.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Brown, Janis",,,,,,,,,,,,,,,

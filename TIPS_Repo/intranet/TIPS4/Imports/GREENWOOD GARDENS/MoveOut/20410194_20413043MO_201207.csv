@@ -1,0 +1,5 @@
+BATCH,,201207,B,1984.0000,
+INVOICE,IN,,20410194,,07/01/2012,992.0000,"Invoice-Private",,07/01/2012,07/10/2012,,20413043MO,-3504.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,32.0000,992.00,"Credit for Limited Term Discount: Dennis, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,20410194,,07/01/2012,992,"Invoice-Private",,07/01/2012,07/10/2012,,20413043MO,-3504.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,31,32,992,"Limited Term Discount: Dennis, Donald",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201203,B,6237.0000,
+INVOICE,IN,,11110302,,03/05/2012,6237.0000,"MoveIn-Kartje. Geraldine",,03/05/2012,03/05/2012,,11114725,6237.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,27,97.0000,2619,"Basic Service Fee - Studio: Kartje. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,27,59.0000,1593,"Resident Care - Level 4: Kartje. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Kartje. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Kartje. Geraldine",,,,,,,,,,,,,,,

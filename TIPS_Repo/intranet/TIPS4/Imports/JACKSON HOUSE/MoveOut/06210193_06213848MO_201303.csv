@@ -1,0 +1,5 @@
+BATCH,,201303,B,4055.3100,
+INVOICE,CM,,06210193,,03/01/2013,4055.31,"Invoice-Private",,03/01/2013,03/10/2013,,06213848MO,-4055.3100,,,,,,,,,,
+TRANSACTION,3020,010101062,1,2976,2976,"CR:Basic Service F... E.Daylong 201303: Daylong, Elouise  ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25,25,"CR:Monthly Cable... E.Daylong 201303: Daylong, Elouise  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101062,1,1054.31,1054.31,"CR:Resident Care -... E.Daylong 201303: Daylong, Elouise  ",,,,,,,,,,,,,,,

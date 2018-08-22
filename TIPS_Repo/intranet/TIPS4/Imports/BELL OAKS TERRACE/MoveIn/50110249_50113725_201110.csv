@@ -1,0 +1,5 @@
+BATCH,,201110,B,3290.0000,
+INVOICE,IN,,50110249,,10/12/2011,3290.0000,"MoveIn-Elzer. Dorothy",,10/12/2011,10/12/2011,,50113725,3290.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,20,88.0000,1760,"Basic Service Fee - Studio: Elzer. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Elzer. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Elzer. Dorothy",,,,,,,,,,,,,,,

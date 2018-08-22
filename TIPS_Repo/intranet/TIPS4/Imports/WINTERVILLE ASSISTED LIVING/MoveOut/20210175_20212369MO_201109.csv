@@ -1,0 +1,8 @@
+BATCH,,201109,B,5628.0000,
+INVOICE,IN,,20210175,,09/18/2011,2898.0000,"Invoice-Private",,09/18/2011,09/18/2011,,20212369MO,-1351.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,1260.0000,1260.00,"CR:Limited Term Di... D.Collier 201109: Collier, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,18,11.0000,198.00,"Resident Care - Level 1 for Sep: Collier, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,18,80.0000,1440.00,"Studio for Sep: Collier, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,20210175,,09/18/2011,2730,"Invoice-Private",,09/18/2011,09/18/2011,,20212369MO,-1351.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,330,330,"CR:Resident Care -... D.Collier 201109: Collier, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2400,2400,"CR:Studio... D.Collier 201109: Collier, Dorothy",,,,,,,,,,,,,,,

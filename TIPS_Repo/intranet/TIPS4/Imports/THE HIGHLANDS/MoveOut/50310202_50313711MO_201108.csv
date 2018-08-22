@@ -1,0 +1,8 @@
+BATCH,,201108,B,6357.0000,
+INVOICE,IN,,50310202,,08/27/2011,2943.0000,"Invoice-Private",,08/27/2011,08/27/2011,,50313711MO,-3776.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,27,72.0000,1944.00,"Basic Service Fee - Studio for Aug: Rector, Katy Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,27,37.0000,999.00,"Resident Care - Level 3 for Aug: Rector, Katy Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,50310202,,08/27/2011,3414,"Invoice-Private",,08/27/2011,08/27/2011,,50313711MO,-3776.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2232,2232,"CR:Basic Service F... K.Rector 201108: Rector, Katy Lou",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... K.Rector 201108: Rector, Katy Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1147,1147,"CR:Resident Care -... K.Rector 201108: Rector, Katy Lou",,,,,,,,,,,,,,,

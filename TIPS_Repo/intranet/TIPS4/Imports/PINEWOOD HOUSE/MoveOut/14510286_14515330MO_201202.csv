@@ -1,0 +1,8 @@
+BATCH,,201202,B,5261.0000,
+INVOICE,IN,,14510286,,02/05/2012,770.0000,"Invoice-Private",,02/05/2012,02/05/2012,,14515330MO,-3721.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,5,99.0000,495.00,"Basic Service Fee - Studio for Feb: Carter, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,5,55.0000,275.00,"Resident Care - Level 4 for Feb: Carter, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,14510286,,02/05/2012,4491,"Invoice-Private",,02/05/2012,02/05/2012,,14515330MO,-3721.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2871,2871,"CR:Basic Service F... J.Carter 201202: Carter, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308145,1,25,25,"CR:Pendant Fee... J.Carter 201202: Carter, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1595,1595,"CR:Resident Care -... J.Carter 201202: Carter, Jack",,,,,,,,,,,,,,,

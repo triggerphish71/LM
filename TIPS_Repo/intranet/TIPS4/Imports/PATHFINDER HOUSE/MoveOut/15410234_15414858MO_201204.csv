@@ -1,0 +1,8 @@
+BATCH,,201204,B,4882.0000,
+INVOICE,IN,,15410234,,04/01/2012,917.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15414858MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,7,70.0000,490.00,"Basic Service Fee - Studio for Apr: Applebee, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,7,61.0000,427.00,"Resident Care - Level 4 for Apr: Applebee, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,15410234,,04/01/2012,3965,"Invoice-Private",,04/01/2012,04/10/2012,,15414858MO,-3048.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2100,2100,"CR:Basic Service F... B.Applebee 201204: Applebee, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... B.Applebee 201204: Applebee, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1830,1830,"CR:Resident Care -... B.Applebee 201204: Applebee, Bill",,,,,,,,,,,,,,,

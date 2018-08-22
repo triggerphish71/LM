@@ -1,0 +1,7 @@
+BATCH,,201208,B,5280.0000,
+INVOICE,IN,,02910335,,07/23/2012,1188.0000,"MoveIn-Graham. Joseph",,07/23/2012,07/23/2012,,02915717,5280.0000,,,,,,,,,,
+TRANSACTION,3014,010202029,9,100.0000,900,"J.Graham: Basic Service Fee - Studio: Graham. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,9,32.0000,288,"J.Graham: Resident Care - Level 2: Graham. Joseph",,,,,,,,,,,,,,,
+INVOICE,IN,,02910335,,08/01/2012,4092.0000,"August_Rent-Graham. Joseph",,08/01/2012,08/10/2012,,02915717,5280.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,31,100.0000,3100,"J.Graham: Basic Service Fee - Studio: Graham. Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,31,32.0000,992,"J.Graham: Resident Care - Level 2: Graham. Joseph",,,,,,,,,,,,,,,

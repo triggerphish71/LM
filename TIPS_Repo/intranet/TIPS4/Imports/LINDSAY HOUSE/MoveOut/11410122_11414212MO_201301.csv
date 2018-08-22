@@ -1,0 +1,7 @@
+BATCH,,201301,B,8240.0000,
+INVOICE,IN,,11410122,,01/01/2013,1854.0000,"Invoice-Private",,01/01/2013,01/10/2013,,11414212MO,-3442.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,9,125.0000,1125.00,"Basic Service Fee - Deluxe for Jan: Tomchak, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,9,81.0000,729.00,"Swan Personal Care - L5 for Jan: Tomchak, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,11410122,,01/01/2013,6386,"Invoice-Private",,01/01/2013,01/10/2013,,11414212MO,-3442.0000,,,,,,,,,,
+TRANSACTION,3020,010306114,1,3875,3875,"CR:Basic Service F... T.Tomchak 201301: Tomchak, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306114,1,2511,2511,"CR:Swan Personal C... T.Tomchak 201301: Tomchak, Thomas",,,,,,,,,,,,,,,

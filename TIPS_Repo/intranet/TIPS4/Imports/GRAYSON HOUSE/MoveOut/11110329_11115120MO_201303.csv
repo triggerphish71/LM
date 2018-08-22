@@ -1,0 +1,6 @@
+BATCH,,201303,B,2256.0000,
+INVOICE,CM,,11110329,,03/01/2013,2256,"Invoice-Private",,03/01/2013,03/10/2013,,11115120MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,1705,1705,"CR:Basic Service F... F.McMann 201303: McMann, Fay",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... F.McMann 201303: McMann, Fay",,,,,,,,,,,,,,,
+TRANSACTION,3130,010107111,1,30,30,"CR:Pendant Fee... F.McMann 201303: McMann, Fay",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,496,496,"CR:Resident Care -... F.McMann 201303: McMann, Fay",,,,,,,,,,,,,,,

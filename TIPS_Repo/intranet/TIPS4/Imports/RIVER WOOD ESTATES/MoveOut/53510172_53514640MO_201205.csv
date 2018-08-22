@@ -1,0 +1,8 @@
+BATCH,,201205,B,4890.0000,
+INVOICE,IN,,53510172,,05/23/2012,2070.0000,"Invoice-Private",,05/23/2012,05/23/2012,,53514640MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,23,74.0000,1702.00,"Basic Service Fee - Studio for May: Voysey, Greg",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,23,16.0000,368.00,"Resident Care - Level 1 for May: Voysey, Greg",,,,,,,,,,,,,,,
+INVOICE,CM,,53510172,,05/23/2012,2820,"Invoice-Private",,05/23/2012,05/23/2012,,53514640MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2294,2294,"CR:Basic Service F... G.Voysey 201205: Voysey, Greg",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... G.Voysey 201205: Voysey, Greg",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,496,496,"CR:Resident Care -... G.Voysey 201205: Voysey, Greg",,,,,,,,,,,,,,,

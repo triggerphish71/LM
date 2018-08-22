@@ -1,0 +1,6 @@
+BATCH,,201106,B,4543.0000,
+INVOICE,IN,,13710214,,06/08/2011,4543.0000,"MoveIn-Schug. Jack",,06/08/2011,06/08/2011,,13713925,4543.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,23,86.0000,1978,"Basic Service Fee - Studio         : Schug. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,23,45.0000,1035,"Resident Care - Level 3: Schug. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Schug. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Schug. Jack",,,,,,,,,,,,,,,

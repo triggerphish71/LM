@@ -1,0 +1,5 @@
+BATCH,,201201,B,3420.0000,
+INVOICE,IN,,01110274,,01/14/2012,1064.0000,"Invoice-Private",,01/14/2012,01/14/2012,,01113801MO,-3496.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,14,76.0000,1064.00,"Basic Service Fee - Studio for Jan: Furio, Roselena",,,,,,,,,,,,,,,
+INVOICE,CM,,01110274,,01/14/2012,2356,"Invoice-Private",,01/14/2012,01/14/2012,,01113801MO,-3496.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... R.Furio 201201: Furio, Roselena",,,,,,,,,,,,,,,

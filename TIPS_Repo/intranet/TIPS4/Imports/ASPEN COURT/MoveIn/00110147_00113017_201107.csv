@@ -1,0 +1,6 @@
+BATCH,,201107,B,3345.8000,
+INVOICE,IN,,00110147,,07/08/2011,3345.8000,"MoveIn-Earnest. Loren",,07/08/2011,07/08/2011,,00113017,3345.8000,,,,,,,,,,
+TRANSACTION,3010,010101001,24,78.0000,1872,"Basic Service Fee - One Bedroom    : Earnest. Loren",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,24,18.7000,448.8,"Resident Care - Level 11: Earnest. Loren",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Earnest. Loren",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Earnest. Loren",,,,,,,,,,,,,,,

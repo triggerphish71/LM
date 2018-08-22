@@ -1,0 +1,5 @@
+BATCH,,201107,B,6264.0000,
+INVOICE,IN,,09310072,,07/01/2011,2916.0000,"Invoice-Private",,07/01/2011,07/10/2011,,09314804MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,27,108.0000,2916.00,"Basic Service Fee - Deluxe for Jul: Hensley, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,09310072,,07/01/2011,3348,"Invoice-Private",,07/01/2011,07/10/2011,,09314804MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3348,3348,"CR:Basic Service F... C.Hensley 201107: Hensley, Charles",,,,,,,,,,,,,,,

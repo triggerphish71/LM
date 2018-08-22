@@ -1,0 +1,5 @@
+BATCH,,201112,B,4605.0000,
+INVOICE,IN,,06210227,,12/02/2011,4605.0000,"MoveIn-Lindquist. Richard",,12/02/2011,12/02/2011,,06213655,4605.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,30,86.0000,2580,"Basic Service Fee - Studio: Lindquist. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Lindquist. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Lindquist. Richard",,,,,,,,,,,,,,,

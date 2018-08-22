@@ -1,0 +1,5 @@
+BATCH,,201209,B,2580.0000,
+INVOICE,IN,,04310206,,09/01/2012,1290.0000,"Invoice-Private",,09/01/2012,09/10/2012,,04314031MO,-2578.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,43.0000,1290.00,"Credit for Limited Term Discount: Alexander, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,04310206,,09/01/2012,1290,"Invoice-Private",,09/01/2012,09/10/2012,,04314031MO,-2578.0000,,,,,,,,,,
+TRANSACTION,3320,010202043,30,43,1290,"Limited Term Discount: Alexander, Lois",,,,,,,,,,,,,,,

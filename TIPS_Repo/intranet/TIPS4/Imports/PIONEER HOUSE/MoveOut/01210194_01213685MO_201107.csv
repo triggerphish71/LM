@@ -1,0 +1,7 @@
+BATCH,,201107,B,5460.2000,
+INVOICE,IN,,01210194,,07/12/2011,1780.5000,"Invoice-Private",,07/12/2011,07/12/2011,,01213685MO,-5578.9000,,,,,,,,,,
+TRANSACTION,3020,010103012,15,83.0000,1245.00,"Basic Service Fee - Studio for Jul: Longo, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,15,35.7000,535.50,"Resident Care - Level 21 for Jul: Longo, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,01210194,,07/12/2011,3679.7,"Invoice-Private",,07/12/2011,07/12/2011,,01213685MO,-5578.9000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2573,2573,"CR:Basic Service F... E.Longo 201107: Longo, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1106.7,1106.7,"CR:Resident Care -... E.Longo 201107: Longo, Eleanor",,,,,,,,,,,,,,,

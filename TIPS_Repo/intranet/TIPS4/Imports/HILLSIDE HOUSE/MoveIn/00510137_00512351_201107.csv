@@ -1,0 +1,5 @@
+BATCH,,201107,B,1632.8000,
+INVOICE,IN,,00510137,,07/25/2011,1632.8000,"MoveIn-Disbrow. Margaret",,07/25/2011,07/25/2011,,00512351,4435.2000,,,,,,,,,,
+TRANSACTION,3010,010101005,7,70.0000,490,"M.Disbrow: Basic Service Fee - Studio: Disbrow. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101005,7,20.4000,142.8,"M.Disbrow: Resident Care - Level 12: Disbrow. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101005,1,1000.0000,1000,"New Resident Fee: Disbrow. Margaret",,,,,,,,,,,,,,,

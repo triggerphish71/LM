@@ -1,0 +1,8 @@
+BATCH,,201803,B,3758.0000,
+INVOICE,IN,,50510304,,03/12/2018,1216.0000,"Invoice-Private",,03/12/2018,03/12/2018,,50515031MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3017,010005505,4,33.0000,132.00,"Level Care:  2  - 2018-03-05: Coontz, John "Jack "",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005505,8,62.0000,496.00," Level Care:  4 : Coontz, John "Jack "",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005505,12,49.0000,588.00,"Basic Service Fee - Second Resident  for Mar: Coontz, John "Jack "",,,,,,,,,,,,,,,
+INVOICE,CM,,50510304,,03/12/2018,2542,"Invoice-Private",,03/12/2018,03/12/2018,,50515031MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,1519,1519,"CR:Basic Service F... J.Coontz 201803: Coontz, John "Jack "",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,1023,1023,"CR:Resident Care -... J.Coontz 201803: Coontz, John "Jack "",,,,,,,,,,,,,,,

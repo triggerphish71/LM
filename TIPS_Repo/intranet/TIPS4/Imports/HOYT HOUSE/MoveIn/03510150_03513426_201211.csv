@@ -1,0 +1,5 @@
+BATCH,,201211,B,133.0000,
+INVOICE,IN,,03510150,,11/30/2012,133.0000,"MoveIn-Cook. AJ",,11/30/2012,11/30/2012,,03513426,3506.0000,,,,,,,,,,
+TRANSACTION,3010,010202035,1,92.0000,92,"Basic Service Fee - Studio: Cook. AJ",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202035,1,16.0000,16,"Resident Care - Level 1: Cook. AJ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25.0000,25,"Monthly Cable: Cook. AJ",,,,,,,,,,,,,,,

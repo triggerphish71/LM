@@ -1,0 +1,5 @@
+BATCH,,201305,B,70.0000,
+INVOICE,IN,,13810215,,05/01/2013,35.0000,"Invoice-Private",,05/01/2013,05/10/2013,,13815497MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35.0000,35.00,"Pendant Fee: Thompson, Roscoe ",,,,,,,,,,,,,,,
+INVOICE,CM,,13810215,,05/01/2013,35,"Invoice-Private",,05/01/2013,05/10/2013,,13815497MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35,35,"Credit for Pendant Fee: Thompson, Roscoe ",,,,,,,,,,,,,,,

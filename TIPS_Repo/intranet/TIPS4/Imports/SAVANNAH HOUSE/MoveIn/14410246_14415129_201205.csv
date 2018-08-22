@@ -1,0 +1,5 @@
+BATCH,,201205,B,5453.0000,
+INVOICE,IN,,14410246,,05/01/2012,5453.0000,"May_Rent-Middleton. Frank",,05/01/2012,05/10/2012,,14415129,9581.0000,,,,,,,,,,
+TRANSACTION,3010,010308144,31,106.0000,3286,"Basic Service Fee - Studio: Middleton. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308144,31,69.0000,2139,"Resident Care - Level 5: Middleton. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28,"Monthly Cable: Middleton. Frank",,,,,,,,,,,,,,,

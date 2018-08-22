@@ -1,0 +1,6 @@
+BATCH,,201112,B,1815.0000,
+INVOICE,IN,,04810266,,12/30/2011,1815.0000,"MoveIn-Girdley. James",,12/30/2011,12/30/2011,,04814401,6335.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,2,103.0000,206,"Basic Service Fee - Studio: Girdley. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,2,42.0000,84,"Resident Care - Level 3: Girdley. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25.0000,25,"Monthly Cable: Girdley. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Girdley. James",,,,,,,,,,,,,,,

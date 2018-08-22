@@ -1,0 +1,5 @@
+BATCH,,201107,B,4055.0000,
+INVOICE,CM,,16010238,,07/01/2011,4055,"Invoice-Private",,07/01/2011,07/10/2011,,16014961MO,-4055.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3534,3534,"CR:Basic Service F... G.Berry 201107: Berry, Greta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... G.Berry 201107: Berry, Greta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,496,496,"CR:Resident Care -... G.Berry 201107: Berry, Greta",,,,,,,,,,,,,,,

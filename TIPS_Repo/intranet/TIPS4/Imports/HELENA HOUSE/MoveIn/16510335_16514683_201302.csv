@@ -1,0 +1,5 @@
+BATCH,,201302,B,4283.0000,
+INVOICE,IN,,16510335,,02/01/2013,4283.0000,"February_Rent-Culp. Francis",,02/01/2013,02/10/2013,,16514683,7988.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,28,99.0000,2772,"Basic Service Fee - Studio         : Culp. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,28,53.0000,1484,"Resident Care - Level 4: Culp. Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Culp. Francis",,,,,,,,,,,,,,,

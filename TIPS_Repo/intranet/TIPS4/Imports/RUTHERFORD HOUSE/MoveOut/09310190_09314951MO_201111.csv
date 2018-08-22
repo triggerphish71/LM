@@ -1,0 +1,4 @@
+BATCH,,201111,B,4320.0000,
+INVOICE,CM,,09310190,,11/01/2011,4320,"Invoice-Private",,11/01/2011,11/10/2011,,09314951MO,-4320.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3780,3780,"CR:Basic Service F... E.Miller 201111: Miller, Eileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,540,540,"CR:Resident Care -... E.Miller 201111: Miller, Eileen",,,,,,,,,,,,,,,

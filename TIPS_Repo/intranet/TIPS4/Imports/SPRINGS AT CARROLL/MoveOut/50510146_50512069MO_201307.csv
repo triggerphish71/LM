@@ -1,0 +1,5 @@
+BATCH,,201307,B,925.0000,
+INVOICE,IN,,50510146,,07/08/2013,37.0000,"Invoice-Private",,07/08/2013,07/08/2013,,50512069MO,-851.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,37.0000,37.00,"Basic Service Fee - Second Resident for Jul: Burgess, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,50510146,,07/08/2013,888,"Invoice-Private",,07/08/2013,07/08/2013,,50512069MO,-851.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,888,888,"CR:Basic Service F... J.Burgess 201307: Burgess, Joyce",,,,,,,,,,,,,,,

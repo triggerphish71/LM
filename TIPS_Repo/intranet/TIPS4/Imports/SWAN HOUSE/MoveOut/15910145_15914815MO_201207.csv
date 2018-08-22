@@ -1,0 +1,7 @@
+BATCH,,201207,B,184.0000,
+INVOICE,IN,,15910145,,07/01/2012,92.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15914815MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Lynch, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,31,2.0000,62.00,"Credit for Limited Term Discount: Lynch, Roger",,,,,,,,,,,,,,,
+INVOICE,CM,,15910145,,07/01/2012,92,"Invoice-Private",,07/01/2012,07/10/2012,,15914815MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Lynch, Roger",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,31,2,62,"Limited Term Discount: Lynch, Roger",,,,,,,,,,,,,,,

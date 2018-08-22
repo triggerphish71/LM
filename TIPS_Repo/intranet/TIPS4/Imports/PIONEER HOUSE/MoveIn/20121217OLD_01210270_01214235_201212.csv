@@ -1,0 +1,5 @@
+BATCH,,201212,B,3059.0000,
+INVOICE,IN,,01210270,,12/14/2012,3059.0000,"MoveIn-Schisler. Georgia",,12/14/2012,12/14/2012,,01214235,5723.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,18,85.0000,1530,"Basic Service Fee - Studio: Schisler. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Schisler. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Schisler. Georgia",,,,,,,,,,,,,,,

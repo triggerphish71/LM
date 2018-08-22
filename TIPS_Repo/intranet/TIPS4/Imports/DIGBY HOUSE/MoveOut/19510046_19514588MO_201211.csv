@@ -1,0 +1,5 @@
+BATCH,,201211,B,70.0000,
+INVOICE,IN,,19510046,,11/01/2012,35.0000,"Invoice-Private",,11/01/2012,11/10/2012,,19514588MO,-1821.0000,,,,,,,,,,
+TRANSACTION,3130,010309195,1,35.0000,35.00,"Pendant Fee: Barner, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,19510046,,11/01/2012,35,"Invoice-Private",,11/01/2012,11/10/2012,,19514588MO,-1821.0000,,,,,,,,,,
+TRANSACTION,3130,010309195,1,35,35,"Credit for Pendant Fee: Barner, Marjorie",,,,,,,,,,,,,,,

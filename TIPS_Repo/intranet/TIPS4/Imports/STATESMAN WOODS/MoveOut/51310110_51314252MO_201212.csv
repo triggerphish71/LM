@@ -1,0 +1,8 @@
+BATCH,,201212,B,6877.0000,
+INVOICE,IN,,51310110,,12/16/2012,2382.0000,"Invoice-Private",,12/16/2012,12/16/2012,,51314252MO,-6546.0000,,,,,,,,,,
+TRANSACTION,3320,010310513,1,62.0000,62.00,"CR:Limited Term Di... T.Pipe 201212: Pipe, Teresa",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,16,118.0000,1888.00,"Basic Service Fee - Studio Deluxe for Dec: Pipe, Teresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,16,27.0000,432.00,"Resident Care - Level 2 for Dec: Pipe, Teresa",,,,,,,,,,,,,,,
+INVOICE,CM,,51310110,,12/16/2012,4495,"Invoice-Private",,12/16/2012,12/16/2012,,51314252MO,-6546.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3658,3658,"CR:Basic Service F... T.Pipe 201212: Pipe, Teresa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,837,837,"CR:Resident Care -... T.Pipe 201212: Pipe, Teresa",,,,,,,,,,,,,,,

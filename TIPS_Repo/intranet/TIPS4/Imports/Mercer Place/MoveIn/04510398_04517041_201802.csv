@@ -1,0 +1,6 @@
+BATCH,,201802,B,6139.2000,
+INVOICE,IN,,04510398,,02/28/2018,6139.2000,"MoveIn-Hall. Dorothy",,02/28/2018,02/28/2018,,04517041,6139.2000,,,,,,,,,,
+TRANSACTION,3010,010002045,1,99.0000,99,"D.Hall: Basic Service Fee - Studio: Hall. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002045,1,21.0000,21,"D.Hall: Resident Care - Level 1: Hall. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002045,1,3009.6000,3009.6,"Community Fee: Hall. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002045,1,3009.6000,3009.6,"Monthly Deferral Charge: Hall. Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201208,B,4889.6000,
+INVOICE,IN,,01510205,,08/04/2012,1453.2500,"Invoice-Private",,08/04/2012,08/04/2012,,01514277MO,-1983.1000,,,,,,,,,,
+TRANSACTION,3320,010103015,1,899.0000,899.00,"CR:Limited Term Di... H.Wilson 201208: Wilson, Hannelor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103015,5,84.0000,420.00,"Basic Service Fee - Studio for Aug: Wilson, Hannelor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,5,26.8500,134.25,"Resident Care - Level 15 for Aug: Wilson, Hannelor",,,,,,,,,,,,,,,
+INVOICE,CM,,01510205,,08/04/2012,3436.35,"Invoice-Private",,08/04/2012,08/04/2012,,01514277MO,-1983.1000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:Basic Service F... H.Wilson 201208: Wilson, Hannelor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,832.35,832.35,"CR:Resident Care -... H.Wilson 201208: Wilson, Hannelor",,,,,,,,,,,,,,,

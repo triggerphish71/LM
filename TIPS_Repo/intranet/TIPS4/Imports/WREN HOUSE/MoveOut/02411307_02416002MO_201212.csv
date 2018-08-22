@@ -1,0 +1,6 @@
+BATCH,,201212,B,5980.0000,
+INVOICE,IN,,02411307,,12/16/2012,2942.0000,"Invoice-Private",,12/16/2012,12/16/2012,,02416002MO,-1956.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,1178.0000,1178.00,"CR:Limited Term Di... R.Bolinger 201212: Bolinger, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,18,98.0000,1764.00,"Basic Service Fee - Studio for Dec: Bolinger, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,02411307,,12/16/2012,3038,"Invoice-Private",,12/16/2012,12/16/2012,,02416002MO,-1956.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3038,3038,"CR:Basic Service F... R.Bolinger 201212: Bolinger, Rebecca",,,,,,,,,,,,,,,

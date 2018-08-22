@@ -1,0 +1,8 @@
+BATCH,,201302,B,5380.0000,
+INVOICE,IN,,53010202,,02/01/2013,56.0000,"Invoice-Private",,02/01/2013,02/10/2013,,53016679MO,-5268.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,56.0000,56.00,"CR:Limited Term Di... B.Hildebrandt 201302: Hildebrandt, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,53010202,,02/01/2013,5324,"Invoice-Private",,02/01/2013,02/10/2013,,53016679MO,-5268.0000,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... B.Hildebrandt 201302: Hildebrandt, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319530,1,20,20,"CR:Pendant Fee... B.Hildebrandt 201302: Hildebrandt, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1932,1932,"CR:Resident Care -... B.Hildebrandt 201302: Hildebrandt, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3332,3332,"CR:Room and Board ... B.Hildebrandt 201302: Hildebrandt, Beverly",,,,,,,,,,,,,,,

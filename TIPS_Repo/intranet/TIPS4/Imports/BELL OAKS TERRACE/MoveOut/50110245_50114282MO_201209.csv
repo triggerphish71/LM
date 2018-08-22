@@ -1,0 +1,8 @@
+BATCH,,201209,B,3215.0000,
+INVOICE,IN,,50110245,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,50114282MO,-4437.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,60.0000,60.00,"CR:Limited Term Di... M.Witherspoon 201209: Witherspoon, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,50110245,,09/01/2012,3155,"Invoice-Private",,09/01/2012,09/10/2012,,50114282MO,-4437.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2640,2640,"CR:Basic Service F... M.Witherspoon 201209: Witherspoon, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... M.Witherspoon 201209: Witherspoon, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... M.Witherspoon 201209: Witherspoon, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,450,450,"CR:Resident Care -... M.Witherspoon 201209: Witherspoon, Marie",,,,,,,,,,,,,,,

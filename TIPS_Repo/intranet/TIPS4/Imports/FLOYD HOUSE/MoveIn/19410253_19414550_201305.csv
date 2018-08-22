@@ -1,0 +1,5 @@
+BATCH,,201305,B,1865.0000,
+INVOICE,IN,,19410253,,05/21/2013,1865.0000,"MoveIn-West. Virginia",,05/21/2013,05/21/2013,,19414550,4155.0000,,,,,,,,,,
+TRANSACTION,3010,010212194,11,75.0000,825,"V.West: Basic Service Fee - Studio: West. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40,"Monthly Cable: West. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212194,1,1000.0000,1000,"New Resident Fee: West. Virginia",,,,,,,,,,,,,,,

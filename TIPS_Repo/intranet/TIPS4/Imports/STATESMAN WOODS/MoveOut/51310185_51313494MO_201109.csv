@@ -1,0 +1,7 @@
+BATCH,,201109,B,4620.0000,
+INVOICE,IN,,51310185,,09/03/2011,420.0000,"Invoice-Private",,09/03/2011,09/03/2011,,51313494MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,3,113.0000,339.00,"Basic Service Fee - Studio Deluxe for Sep: Houston, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,3,27.0000,81.00,"Resident Care - Level 2 for Sep: Houston, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,51310185,,09/03/2011,4200,"Invoice-Private",,09/03/2011,09/03/2011,,51313494MO,-3780.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3390,3390,"CR:Basic Service F... R.Houston 201109: Houston, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,810,810,"CR:Resident Care -... R.Houston 201109: Houston, Russell",,,,,,,,,,,,,,,

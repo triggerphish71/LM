@@ -1,0 +1,7 @@
+BATCH,,201206,B,2697.0000,
+INVOICE,IN,,13410248,,05/26/2012,806.0000,"Invoice-Private",,05/26/2012,05/26/2012,,13415508MO,-1085.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,26,31.0000,806.00,"Basic Service Fee - Second Resident for May: Green, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,13410248,,05/26/2012,961,"Invoice-Private",,05/26/2012,05/26/2012,,13415508MO,-1085.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,961,961,"CR:Basic Service F... F.Green 201205: Green, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,13410248,,06/01/2012,930,"Invoice-Private",,06/01/2012,06/10/2012,,13415508MO,-1085.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,930,930,"CR:Basic Service F... F.Green 201206: Green, Florence",,,,,,,,,,,,,,,

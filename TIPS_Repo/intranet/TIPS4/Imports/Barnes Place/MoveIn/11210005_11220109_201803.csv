@@ -1,0 +1,5 @@
+BATCH,,201803,B,4149.3000,
+INVOICE,IN,,11210005,,03/01/2018,4149.3000,"March_Rent-Domenic. Lucille",,03/01/2018,03/10/2018,,11220109,7241.2700,,,,,,,,,,
+TRANSACTION,3010,010010112,31,110.0000,3410,"Basic Service Fee - Studio: Domenic. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010010112,31,23.0000,713,"Resident Care - Level 1: Domenic. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010010112,1,26.3000,26.3,"Monthly Cable: Domenic. Lucille",,,,,,,,,,,,,,,

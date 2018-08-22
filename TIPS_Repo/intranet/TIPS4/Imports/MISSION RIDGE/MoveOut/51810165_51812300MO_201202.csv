@@ -1,0 +1,5 @@
+BATCH,,201202,B,754.0000,
+INVOICE,IN,,51810165,,02/01/2012,377.0000,"Invoice-Private",,02/01/2012,02/10/2012,,51812300MO,-2502.9400,,,,,,,,,,
+TRANSACTION,3320,010103518,29,13.0000,377.00,"Credit for Limited Term Discount: Barnes, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,51810165,,02/01/2012,377,"Invoice-Private",,02/01/2012,02/10/2012,,51812300MO,-2502.9400,,,,,,,,,,
+TRANSACTION,3320,010103518,29,13,377,"Limited Term Discount: Barnes, Bill",,,,,,,,,,,,,,,

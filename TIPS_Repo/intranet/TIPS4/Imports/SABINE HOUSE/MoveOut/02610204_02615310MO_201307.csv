@@ -1,0 +1,8 @@
+BATCH,,201307,B,5109.0000,
+INVOICE,IN,,02610204,,07/11/2013,1331.0000,"Invoice-Private",,07/11/2013,07/11/2013,,02615310MO,-2447.0000,,,,,,,,,,
+TRANSACTION,3027,010202026,11,23.0000,253.00,"Resident Care - Level 2 for Jul: Ross, JoAnn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,11,98.0000,1078.00,"Room and Board - Studio for Jul: Ross, JoAnn",,,,,,,,,,,,,,,
+INVOICE,CM,,02610204,,07/11/2013,3778,"Invoice-Private",,07/11/2013,07/11/2013,,02615310MO,-2447.0000,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... J.Ross 201307: Ross, JoAnn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,713,713,"CR:Resident Care -... J.Ross 201307: Ross, JoAnn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3038,3038,"CR:Room and Board ... J.Ross 201307: Ross, JoAnn",,,,,,,,,,,,,,,

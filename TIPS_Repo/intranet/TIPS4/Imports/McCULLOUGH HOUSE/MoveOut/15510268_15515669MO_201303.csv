@@ -1,0 +1,5 @@
+BATCH,,201303,B,50.0000,
+INVOICE,IN,,15510268,,03/01/2013,25.0000,"Invoice-Private",,03/01/2013,03/10/2013,,15515669MO,-4652.0000,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25.00,"Monthly Cable: Kerrick, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,15510268,,03/01/2013,25,"Invoice-Private",,03/01/2013,03/10/2013,,15515669MO,-4652.0000,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"Credit for Monthly Cable: Kerrick, Kenneth",,,,,,,,,,,,,,,

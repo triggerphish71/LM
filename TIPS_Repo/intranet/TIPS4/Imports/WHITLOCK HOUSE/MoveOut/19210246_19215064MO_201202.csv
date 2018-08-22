@@ -1,0 +1,5 @@
+BATCH,,201202,B,5005.0000,
+INVOICE,CM,,19210246,,02/01/2012,5005,"Invoice-Private",,02/01/2012,02/10/2012,,19215064MO,-7202.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3857,3857,"CR:Basic Service F... G.Bymaster 201202: Bymaster, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1044,1044,"CR:Resident Care -... G.Bymaster 201202: Bymaster, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,104,104,"CR:Service : lvl 2... G.Bymaster 201202: Bymaster, Glen",,,,,,,,,,,,,,,

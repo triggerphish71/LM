@@ -1,0 +1,5 @@
+BATCH,,201112,B,545.6000,
+INVOICE,IN,,21210169,,12/01/2011,272.8000,"Invoice-Private",,12/01/2011,12/10/2011,,21212144MO,-1974.0000,,,,,,,,,,
+TRANSACTION,3312,010208212,31,8.8000,272.80,"Credit for Two Room Rental Discount: Williams, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,21210169,,12/01/2011,272.8,"Invoice-Private",,12/01/2011,12/10/2011,,21212144MO,-1974.0000,,,,,,,,,,
+TRANSACTION,3312,010208212,31,8.8,272.8,"Two Room Rental Discount: Williams, Harold",,,,,,,,,,,,,,,

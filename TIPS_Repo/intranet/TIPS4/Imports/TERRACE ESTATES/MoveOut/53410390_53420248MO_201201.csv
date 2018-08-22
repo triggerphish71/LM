@@ -1,0 +1,5 @@
+BATCH,,201201,B,4308.0000,
+INVOICE,CM,,53410390,,01/01/2012,4308,"Invoice-Private",,01/01/2012,01/10/2012,,53420248MO,-5544.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2201,2201,"CR:Basic Service F... N.Zierk 201201: Zierk, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... N.Zierk 201201: Zierk, Norman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2077,2077,"CR:Resident Care -... N.Zierk 201201: Zierk, Norman",,,,,,,,,,,,,,,

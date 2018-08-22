@@ -1,0 +1,5 @@
+BATCH,,201204,B,3180.0000,
+INVOICE,IN,,14010221,,04/01/2012,3180.0000,"April_Rent-Frazie. Jean",,04/01/2012,04/10/2012,,14013763,6495.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,30,88.0000,2640,"Basic Service Fee - Studio: Frazie. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,30,17.0000,510,"Resident Care - Level 1: Frazie. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Frazie. Jean",,,,,,,,,,,,,,,

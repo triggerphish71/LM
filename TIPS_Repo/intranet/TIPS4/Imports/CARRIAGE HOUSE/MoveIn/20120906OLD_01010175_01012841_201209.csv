@@ -1,0 +1,5 @@
+BATCH,,201209,B,3629.0000,
+INVOICE,IN,,01010175,,09/06/2012,3629.0000,"MoveIn-Spencer. Forest",,09/06/2012,09/06/2012,,01012841,3629.0000,,,,,,,,,,
+TRANSACTION,3010,010101010,25,98.0000,2450,"Basic Service Fee - One Bedroom: Spencer. Forest",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101010,25,7.1600,179,"Resident Care - Level 4: Spencer. Forest",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101010,1,1000.0000,1000,"New Resident Fee: Spencer. Forest",,,,,,,,,,,,,,,

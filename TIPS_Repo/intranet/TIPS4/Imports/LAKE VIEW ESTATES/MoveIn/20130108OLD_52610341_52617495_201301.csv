@@ -1,0 +1,5 @@
+BATCH,,201301,B,1014.0000,
+INVOICE,IN,,52610341,,12/24/2012,208.0000,"MoveIn-Bixby. Herbert",,12/24/2012,12/24/2012,,52617495,2014.0000,,,,,,,,,,
+TRANSACTION,3014,010319526,8,26.0000,208,"Basic Service Fee - Second Resident: Bixby. Herbert",,,,,,,,,,,,,,,
+INVOICE,IN,,52610341,,01/01/2013,806.0000,"January_Rent-Bixby. Herbert",,01/01/2013,01/10/2013,,52617495,2014.0000,,,,,,,,,,
+TRANSACTION,3010,010319526,31,26.0000,806,"Basic Service Fee - Second Resident: Bixby. Herbert",,,,,,,,,,,,,,,

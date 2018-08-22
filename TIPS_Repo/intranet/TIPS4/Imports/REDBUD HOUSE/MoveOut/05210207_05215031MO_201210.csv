@@ -1,0 +1,8 @@
+BATCH,,201210,B,3947.0000,
+INVOICE,IN,,05210207,,10/01/2012,448.0000,"Invoice-Private",,10/01/2012,10/10/2012,,05215031MO,-3051.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,4,82.0000,328.00,"Basic Service Fee - Studio for Oct: Knight, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,4,30.0000,120.00,"Resident Care - Level 2 for Oct: Knight, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,05210207,,10/01/2012,3499,"Invoice-Private",,10/01/2012,10/10/2012,,05215031MO,-3051.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2542,2542,"CR:Basic Service F... R.Knight 201210: Knight, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... R.Knight 201210: Knight, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,930,930,"CR:Resident Care -... R.Knight 201210: Knight, Ruth",,,,,,,,,,,,,,,

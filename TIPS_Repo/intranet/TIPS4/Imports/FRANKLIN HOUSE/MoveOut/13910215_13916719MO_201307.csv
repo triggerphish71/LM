@@ -1,0 +1,7 @@
+BATCH,,201307,B,3388.8000,
+INVOICE,IN,,13910215,,07/01/2013,105.9000,"Invoice-Private",,07/01/2013,07/01/2013,,13916719MO,-3177.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,80.0000,80.00,"Basic Service Fee - Studio for Jul: Mariano, Manolo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,25.9000,25.90,"Resident Care - Level 14 for Jul: Mariano, Manolo",,,,,,,,,,,,,,,
+INVOICE,CM,,13910215,,07/01/2013,3282.9,"Invoice-Private",,07/01/2013,07/01/2013,,13916719MO,-3177.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,2480,2480,"CR:Basic Service F... M.Mariano 201307: Mariano, Manolo",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,802.9,802.9,"CR:Resident Care -... M.Mariano 201307: Mariano, Manolo",,,,,,,,,,,,,,,

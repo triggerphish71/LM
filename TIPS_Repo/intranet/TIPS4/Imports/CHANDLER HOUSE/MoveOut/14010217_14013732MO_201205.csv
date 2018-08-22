@@ -1,0 +1,5 @@
+BATCH,,201205,B,60.0000,
+INVOICE,IN,,14010217,,05/01/2012,30.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14013732MO,-4338.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30.00,"Monthly Cable: Davis, Gerald ",,,,,,,,,,,,,,,
+INVOICE,CM,,14010217,,05/01/2012,30,"Invoice-Private",,05/01/2012,05/10/2012,,14013732MO,-4338.0000,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"Credit for Monthly Cable: Davis, Gerald ",,,,,,,,,,,,,,,

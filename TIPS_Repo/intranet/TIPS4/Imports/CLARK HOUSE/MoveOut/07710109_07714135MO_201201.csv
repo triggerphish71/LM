@@ -1,0 +1,8 @@
+BATCH,,201201,B,7286.0000,
+INVOICE,IN,,07710109,,01/22/2012,3014.0000,"Invoice-Private",,01/22/2012,01/22/2012,,07714135MO,-5256.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,22,94.0000,2068.00,"Basic Service Fee - Studio for Jan: Cole, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,22,43.0000,946.00,"Resident Care - Level 3 for Jan: Cole, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,07710109,,01/22/2012,4272,"Invoice-Private",,01/22/2012,01/22/2012,,07714135MO,-5256.0000,,,,,,,,,,
+TRANSACTION,3020,010104077,1,2914,2914,"CR:Basic Service F... P.Cole 201201: Cole, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"CR:Monthly Cable... P.Cole 201201: Cole, Pauline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104077,1,1333,1333,"CR:Resident Care -... P.Cole 201201: Cole, Pauline",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201112,B,2138.0000,
+INVOICE,IN,,19810256,,12/01/2011,124.0000,"Invoice-Private",,12/01/2011,12/10/2011,,19816823MO,-1890.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,124.0000,124.00,"CR:Limited Term Di... J.Angelos 201112: Angelos, James",,,,,,,,,,,,,,,
+INVOICE,CM,,19810256,,12/01/2011,2014,"Invoice-Private",,12/01/2011,12/10/2011,,19816823MO,-1890.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... J.Angelos 201112: Angelos, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1984,1984,"CR:Room and Board ... J.Angelos 201112: Angelos, James",,,,,,,,,,,,,,,

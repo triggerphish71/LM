@@ -1,0 +1,5 @@
+BATCH,,201112,B,3286.0000,
+INVOICE,IN,,14810324,,12/01/2011,1643.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14814737MO,-5092.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,31,53.0000,1643.00,"Credit for Limited Term Discount: Held, Jospehine",,,,,,,,,,,,,,,
+INVOICE,CM,,14810324,,12/01/2011,1643,"Invoice-Private",,12/01/2011,12/10/2011,,14814737MO,-5092.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,31,53,1643,"Limited Term Discount: Held, Jospehine",,,,,,,,,,,,,,,

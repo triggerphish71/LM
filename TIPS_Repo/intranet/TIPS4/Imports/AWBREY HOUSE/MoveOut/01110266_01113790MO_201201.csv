@@ -1,0 +1,7 @@
+BATCH,,201201,B,3660.6800,
+INVOICE,IN,,01110266,,01/13/2012,1193.7000,"Invoice-Private",,01/13/2012,01/13/2012,,01113790MO,-1273.2800,,,,,,,,,,
+TRANSACTION,3020,010101011,15,76.0000,1140.00,"Basic Service Fee - Studio for Jan: Mermod, Sonia ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,15,3.5800,53.70,"Resident Care - Level 2 for Jan: Mermod, Sonia ",,,,,,,,,,,,,,,
+INVOICE,CM,,01110266,,01/13/2012,2466.98,"Invoice-Private",,01/13/2012,01/13/2012,,01113790MO,-1273.2800,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... S.Mermod 201201: Mermod, Sonia ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,110.98,110.98,"CR:Resident Care -... S.Mermod 201201: Mermod, Sonia ",,,,,,,,,,,,,,,

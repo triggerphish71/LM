@@ -1,0 +1,6 @@
+BATCH,,201202,B,2695.0000,
+INVOICE,IN,,02910301,,02/20/2012,2695.0000,"MoveIn-Goodnow. Bob",,02/20/2012,02/20/2012,,02915475,6347.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,10,100.0000,1000,"Basic Service Fee - Studio: Goodnow. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,10,17.0000,170,"Resident Care - Level 1: Goodnow. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Goodnow. Bob",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Goodnow. Bob",,,,,,,,,,,,,,,

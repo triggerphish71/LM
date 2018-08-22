@@ -1,0 +1,8 @@
+BATCH,,201211,B,7545.0000,
+INVOICE,IN,,21210004,,11/27/2012,3795.0000,"Invoice-Private",,11/27/2012,11/27/2012,,21212851MO,-3396.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,420.0000,420.00,"CR:Limited Term Di... G.Kunkel 201211: Kunkel, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,27,33.0000,891.00,"Resident Care - Level 3 for Nov: Kunkel, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,27,92.0000,2484.00,"Studio Deluxe for Nov: Kunkel, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,21210004,,11/27/2012,3750,"Invoice-Private",,11/27/2012,11/27/2012,,21212851MO,-3396.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,990,990,"CR:Resident Care -... G.Kunkel 201211: Kunkel, Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... G.Kunkel 201211: Kunkel, Geneva",,,,,,,,,,,,,,,

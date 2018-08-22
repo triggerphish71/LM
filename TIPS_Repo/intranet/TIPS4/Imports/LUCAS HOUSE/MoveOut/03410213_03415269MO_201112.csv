@@ -1,0 +1,6 @@
+BATCH,,201112,B,5239.0000,
+INVOICE,IN,,03410213,,12/01/2011,713.0000,"Invoice-Private",,12/01/2011,12/10/2011,,03415269MO,-5167.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,713.0000,713.00,"CR:Limited Term Di... G.Arnold 201112: Arnold, George",,,,,,,,,,,,,,,
+INVOICE,CM,,03410213,,12/01/2011,4526,"Invoice-Private",,12/01/2011,12/10/2011,,03415269MO,-5167.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2883,2883,"CR:Basic Service F... G.Arnold 201112: Arnold, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,1643,1643,"CR:Resident Care -... G.Arnold 201112: Arnold, George",,,,,,,,,,,,,,,

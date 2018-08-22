@@ -1,0 +1,7 @@
+BATCH,,201303,B,5536.0000,
+INVOICE,IN,,52510172,,03/01/2013,173.0000,"Invoice-Private",,03/01/2013,03/01/2013,,52512784MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,130.0000,130.00,"Basic Service Fee - Studio Deluxe for Mar: Croft, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,43.0000,43.00,"Resident Care - Level 3 for Mar: Croft, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,52510172,,03/01/2013,5363,"Invoice-Private",,03/01/2013,03/01/2013,,52512784MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,4030,4030,"CR:Basic Service F... A.Croft 201303: Croft, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,1333,1333,"CR:Resident Care -... A.Croft 201303: Croft, Anna",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201210,B,2720.0000,
+INVOICE,IN,,19010244,,10/01/2012,1360.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19014625MO,-4075.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27.00,"Monthly Cable: Eason, Fredericka",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,43.0000,1333.00,"Credit for Limited Term Discount: Eason, Fredericka",,,,,,,,,,,,,,,
+INVOICE,CM,,19010244,,10/01/2012,1360,"Invoice-Private",,10/01/2012,10/10/2012,,19014625MO,-4075.0000,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"Credit for Monthly Cable: Eason, Fredericka",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308190,31,43,1333,"Limited Term Discount: Eason, Fredericka",,,,,,,,,,,,,,,

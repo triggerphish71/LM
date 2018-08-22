@@ -1,0 +1,5 @@
+BATCH,,201203,B,638.6000,
+INVOICE,IN,,04810265,,03/01/2012,319.3000,"Invoice-Private",,03/01/2012,03/10/2012,,04814437MO,-2997.3000,,,,,,,,,,
+TRANSACTION,3312,010202048,31,10.3000,319.30,"Credit for Two Room Rental Discount: Weatherly, Leon",,,,,,,,,,,,,,,
+INVOICE,CM,,04810265,,03/01/2012,319.3,"Invoice-Private",,03/01/2012,03/10/2012,,04814437MO,-2997.3000,,,,,,,,,,
+TRANSACTION,3312,010202048,31,10.3,319.3,"Two Room Rental Discount: Weatherly, Leon",,,,,,,,,,,,,,,

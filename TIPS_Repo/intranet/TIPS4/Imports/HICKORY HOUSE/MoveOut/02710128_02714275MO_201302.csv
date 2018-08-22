@@ -1,0 +1,5 @@
+BATCH,,201302,B,798.0000,
+INVOICE,IN,,02710128,,02/01/2013,399.0000,"Invoice-Private",,02/01/2013,02/10/2013,,02714275MO,-3688.5000,,,,,,,,,,
+TRANSACTION,3316,010202027,28,14.2500,399.00,"Credit for Employee Discount: Fragoso, Enrique",,,,,,,,,,,,,,,
+INVOICE,CM,,02710128,,02/01/2013,399,"Invoice-Private",,02/01/2013,02/10/2013,,02714275MO,-3688.5000,,,,,,,,,,
+TRANSACTION,3316,010202027,28,14.25,399,"Employee Discount: Fragoso, Enrique",,,,,,,,,,,,,,,

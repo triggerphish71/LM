@@ -1,0 +1,5 @@
+BATCH,,201210,B,3230.0000,
+INVOICE,IN,,02210200,,10/22/2012,3230.0000,"MoveIn-Stribling. Gynell",,10/22/2012,10/22/2012,,02214527,6920.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,10,106.0000,1060,"Basic Service Fee - One Bedroom: Stribling. Gynell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,10,17.0000,170,"Resident Care - Level 1: Stribling. Gynell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Stribling. Gynell",,,,,,,,,,,,,,,

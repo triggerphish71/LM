@@ -1,0 +1,8 @@
+BATCH,,201212,B,8675.0000,
+INVOICE,IN,,03110349,,12/08/2012,2944.0000,"Invoice-Private",,12/08/2012,12/08/2012,,03117215MO,-8518.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,16,115.0000,1840.00,"Basic Service Fee - One Bedroom for Dec: McCoy, Dexter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,16,69.0000,1104.00,"Resident Care - Level 5 for Dec: McCoy, Dexter",,,,,,,,,,,,,,,
+INVOICE,CM,,03110349,,12/08/2012,5731,"Invoice-Private",,12/08/2012,12/08/2012,,03117215MO,-8518.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3565,3565,"CR:Basic Service F... D.McCoy 201212: McCoy, Dexter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... D.McCoy 201212: McCoy, Dexter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,2139,2139,"CR:Resident Care -... D.McCoy 201212: McCoy, Dexter",,,,,,,,,,,,,,,

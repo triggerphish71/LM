@@ -1,0 +1,7 @@
+BATCH,,201206,B,1570.0000,
+INVOICE,IN,,15410191,,06/01/2012,785.0000,"Invoice-Private",,06/01/2012,06/10/2012,,15414901MO,-2172.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Wagner, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211154,30,25.0000,750.00,"Credit for Limited Term Discount: Wagner, Roberta",,,,,,,,,,,,,,,
+INVOICE,CM,,15410191,,06/01/2012,785,"Invoice-Private",,06/01/2012,06/10/2012,,15414901MO,-2172.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Wagner, Roberta",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211154,30,25,750,"Limited Term Discount: Wagner, Roberta",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,3456.0000,
+INVOICE,IN,,01310145,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,01313853MO,-5198.4000,,,,,,,,,,
+TRANSACTION,3320,010103013,1,60.0000,60.00,"CR:Limited Term Di... V.Jennings 201106: Jennings, Vern",,,,,,,,,,,,,,,
+INVOICE,CM,,01310145,,06/01/2011,3396,"Invoice-Private",,06/01/2011,06/10/2011,,01313853MO,-5198.4000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2070,2070,"CR:Basic Service F... V.Jennings 201106: Jennings, Vern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1326,1326,"CR:Resident Care -... V.Jennings 201106: Jennings, Vern",,,,,,,,,,,,,,,

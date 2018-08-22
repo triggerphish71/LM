@@ -1,0 +1,5 @@
+BATCH,,201211,B,5220.0000,
+INVOICE,IN,,10410273,,11/01/2012,2610.0000,"Invoice-Private",,11/01/2012,11/10/2012,,10415025MO,-3225.4200,,,,,,,,,,
+TRANSACTION,3315,010101104,30,87.0000,2610.00,"Credit for Promotional Discount: Avery, Willam",,,,,,,,,,,,,,,
+INVOICE,CM,,10410273,,11/01/2012,2610,"Invoice-Private",,11/01/2012,11/10/2012,,10415025MO,-3225.4200,,,,,,,,,,
+TRANSACTION,3315,010101104,30,87,2610,"Promotional Discount: Avery, Willam",,,,,,,,,,,,,,,

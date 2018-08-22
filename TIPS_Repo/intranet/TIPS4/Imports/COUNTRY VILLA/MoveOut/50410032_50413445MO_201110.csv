@@ -1,0 +1,6 @@
+BATCH,,201110,B,2148.6800,
+INVOICE,IN,,50410032,,10/05/2011,136.4500,"Invoice-Medicaid",,10/05/2011,10/05/2011,,50413445MO,-1875.7800,,,,,,,,,,
+TRANSACTION,3021,010318504,5,27.2900,136.45,"Medicaid Room & Board for Oct: Nelson, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,50410032,,10/05/2011,2012.23,"Invoice-Medicaid",,10/05/2011,10/05/2011,,50413445MO,-1875.7800,,,,,,,,,,
+TRANSACTION,3021,010318504,1,846,846,"CR:Medicaid Room &... T.Nelson 201110: Nelson, Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3022,010318504,1,1166.23,1166.23,"CR:State Medicaid... T.Nelson 201110: Nelson, Thelma",,,,,,,,,,,,,,,

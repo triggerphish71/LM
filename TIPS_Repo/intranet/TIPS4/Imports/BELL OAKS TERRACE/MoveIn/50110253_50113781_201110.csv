@@ -1,0 +1,5 @@
+BATCH,,201110,B,1618.0000,
+INVOICE,IN,,50110253,,10/31/2011,1618.0000,"MoveIn-Fischer. Laura",,10/31/2011,10/31/2011,,50113781,4288.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,1,88.0000,88,"Basic Service Fee - Studio: Fischer. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Fischer. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1500.0000,1500,"New Resident Fee: Fischer. Laura",,,,,,,,,,,,,,,

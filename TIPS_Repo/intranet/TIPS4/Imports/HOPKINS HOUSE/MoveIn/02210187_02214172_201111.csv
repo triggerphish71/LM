@@ -1,0 +1,6 @@
+BATCH,,201111,B,3351.0000,
+INVOICE,IN,,02210187,,11/18/2011,3351.0000,"MoveIn-Griffin. Weda",,11/18/2011,11/18/2011,,02214172,6538.0000,,,,,,,,,,
+TRANSACTION,3010,010202022,13,85.0000,1105,"Basic Service Fee - Studio: Griffin. Weda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202022,13,17.0000,221,"Resident Care - Level 1: Griffin. Weda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202022,1,25.0000,25,"Monthly Cable: Griffin. Weda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202022,1,2000.0000,2000,"New Resident Fee: Griffin. Weda",,,,,,,,,,,,,,,

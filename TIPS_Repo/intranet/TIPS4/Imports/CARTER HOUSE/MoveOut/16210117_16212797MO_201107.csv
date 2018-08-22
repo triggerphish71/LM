@@ -1,0 +1,8 @@
+BATCH,,201107,B,5255.0000,
+INVOICE,IN,,16210117,,07/16/2011,2341.0000,"Invoice-Private",,07/16/2011,07/16/2011,,16212797MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3320,010211162,1,837.0000,837.00,"CR:Limited Term Di... J.Gravett 201107: Gravett, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,16,79.0000,1264.00,"Basic Service Fee - One Bedroom for Jul: Gravett, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,16,15.0000,240.00,"Resident Care - Level 1 for Jul: Gravett, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,16210117,,07/16/2011,2914,"Invoice-Private",,07/16/2011,07/16/2011,,16212797MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2449,2449,"CR:Basic Service F... J.Gravett 201107: Gravett, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,465,465,"CR:Resident Care -... J.Gravett 201107: Gravett, Jean",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,1426.0000,
+INVOICE,IN,,11710187,,08/01/2011,713.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11713581MO,-1543.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,31,23.0000,713.00,"Credit for Limited Term Discount: Johnson, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,11710187,,08/01/2011,713,"Invoice-Private",,08/01/2011,08/10/2011,,11713581MO,-1543.0000,,,,,,,,,,
+TRANSACTION,3320,010305117,31,23,713,"Limited Term Discount: Johnson, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201805,B,4275.0000,
+INVOICE,IN,,07810312,,05/14/2018,1330.0000,"Invoice-Private",,05/14/2018,05/14/2018,,07816699MO,-1615.0000,,,,,,,,,,
+TRANSACTION,3020,010004078,14,59.0000,826.00,"Basic Service Fee - Studio  for May: Young, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004078,14,36.0000,504.00,"Resident Care - Level 2  for May: Young, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,07810312,,05/14/2018,2945,"Invoice-Private",,05/14/2018,05/14/2018,,07816699MO,-1615.0000,,,,,,,,,,
+TRANSACTION,3020,010004078,1,1829,1829,"CR:Basic Service F... A.Young 201805: Young, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004078,1,1116,1116,"CR:Resident Care -... A.Young 201805: Young, Alice",,,,,,,,,,,,,,,

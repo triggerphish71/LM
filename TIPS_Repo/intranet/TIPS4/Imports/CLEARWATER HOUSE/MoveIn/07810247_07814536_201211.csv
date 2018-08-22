@@ -1,0 +1,5 @@
+BATCH,,201211,B,2905.0000,
+INVOICE,IN,,07810247,,11/01/2012,2905.0000,"November_Rent-Smith. Leona",,11/01/2012,11/10/2012,,07814536,4870.0000,,,,,,,,,,
+TRANSACTION,3010,010104078,30,81.0000,2430,"L.Smith: Basic Service Fee - Studio: Smith. Leona",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104078,30,15.0000,450,"L.Smith: Resident Care - Level 1: Smith. Leona",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25,"Monthly Cable: Smith. Leona",,,,,,,,,,,,,,,

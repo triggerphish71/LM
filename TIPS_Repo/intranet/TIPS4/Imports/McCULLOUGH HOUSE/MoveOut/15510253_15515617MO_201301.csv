@@ -1,0 +1,7 @@
+BATCH,,201301,B,4692.0000,
+INVOICE,IN,,15510253,,01/01/2013,414.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15515617MO,-3864.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,3,89.0000,267.00,"Basic Service Fee - Studio for Jan: Podrasky, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,3,49.0000,147.00,"Resident Care - Level 3 for Jan: Podrasky, Pat",,,,,,,,,,,,,,,
+INVOICE,CM,,15510253,,01/01/2013,4278,"Invoice-Private",,01/01/2013,01/10/2013,,15515617MO,-3864.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... P.Podrasky 201301: Podrasky, Pat",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,1519,1519,"CR:Resident Care -... P.Podrasky 201301: Podrasky, Pat",,,,,,,,,,,,,,,

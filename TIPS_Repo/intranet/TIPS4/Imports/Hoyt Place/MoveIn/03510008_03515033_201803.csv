@@ -1,0 +1,5 @@
+BATCH,,201803,B,5766.6700,
+INVOICE,IN,,03510008,,03/01/2018,5766.6700,"MoveIn-Sheffield. Geraldine",,03/01/2018,03/01/2018,,03515033,5766.6700,,,,,,,,,,
+TRANSACTION,3010,010002035,31,100.0000,3100,"Basic Service Fee - Studio: Sheffield. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002035,1,2000.0000,2000,"Community Fee: Sheffield. Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002035,1,666.6700,666.67,"Monthly Deferral Charge: Sheffield. Geraldine",,,,,,,,,,,,,,,

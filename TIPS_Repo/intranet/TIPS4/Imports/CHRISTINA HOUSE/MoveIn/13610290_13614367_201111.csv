@@ -1,0 +1,5 @@
+BATCH,,201111,B,1090.0000,
+INVOICE,IN,,13610290,,11/30/2011,1090.0000,"MoveIn-Horracks. John",,11/30/2011,11/30/2011,,13614367,2830.0000,,,,,,,,,,
+TRANSACTION,3010,010309136,1,55.0000,55,"Basic Service Fee - Studio: Horracks. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35,"Monthly Cable: Horracks. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309136,1,1000.0000,1000,"New Resident Fee: Horracks. John",,,,,,,,,,,,,,,

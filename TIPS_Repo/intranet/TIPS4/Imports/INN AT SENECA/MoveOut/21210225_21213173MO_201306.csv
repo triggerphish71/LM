@@ -1,0 +1,7 @@
+BATCH,,201306,B,1620.0000,
+INVOICE,IN,,21210225,,06/16/2013,243.0000,"Invoice-Private",,06/16/2013,06/16/2013,,21213173MO,-3645.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,3,38.0000,114.00,"Basic Service Fee - Second Resident for Jun: Hutton, Rovern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,3,43.0000,129.00,"Resident Care - Level 4 for Jun: Hutton, Rovern",,,,,,,,,,,,,,,
+INVOICE,CM,,21210225,,06/16/2013,1377,"Invoice-Private",,06/16/2013,06/16/2013,,21213173MO,-3645.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,1,646,646,"CR:Basic Service F... R.Hutton 201306: Hutton, Rovern",,,,,,,,,,,,,,,
+TRANSACTION,3027,010208212,1,731,731,"CR:Resident Care -... R.Hutton 201306: Hutton, Rovern",,,,,,,,,,,,,,,

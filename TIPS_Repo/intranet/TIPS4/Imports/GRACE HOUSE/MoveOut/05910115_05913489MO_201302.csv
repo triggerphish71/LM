@@ -1,0 +1,6 @@
+BATCH,,201302,B,3572.0000,
+INVOICE,IN,,05910115,,02/02/2013,604.0000,"Invoice-Private",,02/02/2013,02/02/2013,,05913489MO,-2364.0000,,,,,,,,,,
+TRANSACTION,3320,010101059,1,392.0000,392.00,"CR:Limited Term Di... L.Isaacs 201302: Isaacs, Lewis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101059,2,106.0000,212.00,"Room and Board - One Bedroom for Feb: Isaacs, Lewis",,,,,,,,,,,,,,,
+INVOICE,CM,,05910115,,02/02/2013,2968,"Invoice-Private",,02/02/2013,02/02/2013,,05913489MO,-2364.0000,,,,,,,,,,
+TRANSACTION,3020,010101059,1,2968,2968,"CR:Room and Board ... L.Isaacs 201302: Isaacs, Lewis",,,,,,,,,,,,,,,

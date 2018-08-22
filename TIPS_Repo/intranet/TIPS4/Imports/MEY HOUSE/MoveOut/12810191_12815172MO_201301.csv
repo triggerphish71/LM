@@ -1,0 +1,7 @@
+BATCH,,201301,B,4613.0000,
+INVOICE,IN,,12810191,,01/01/2013,62.0000,"Invoice-Private",,01/01/2013,01/10/2013,,12815172MO,-4744.0000,,,,,,,,,,
+TRANSACTION,3320,010306128,1,62.0000,62.00,"CR:Limited Term Di... D.Klos 201301: Klos, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,12810191,,01/01/2013,4551,"Invoice-Private",,01/01/2013,01/10/2013,,12815172MO,-4744.0000,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25,25,"CR:Monthly Cable... D.Klos 201301: Klos, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306128,1,3441,3441,"CR:Room and Board ... D.Klos 201301: Klos, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306128,1,1085,1085,"CR:Swan Personal C... D.Klos 201301: Klos, Doris",,,,,,,,,,,,,,,

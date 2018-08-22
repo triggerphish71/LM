@@ -1,0 +1,6 @@
+BATCH,,201112,B,3673.0000,
+INVOICE,IN,,13410226,,12/03/2011,321.0000,"Invoice-Private",,12/03/2011,12/03/2011,,13415163MO,-3031.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,3,107.0000,321.00,"Room and Board - One Bedroom Premium for Dec: Wagner, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,13410226,,12/03/2011,3352,"Invoice-Private",,12/03/2011,12/03/2011,,13415163MO,-3031.0000,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... R.Wagner 201112: Wagner, Ray",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309134,1,3317,3317,"CR:Room and Board ... R.Wagner 201112: Wagner, Ray",,,,,,,,,,,,,,,

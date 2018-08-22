@@ -1,0 +1,5 @@
+BATCH,,201301,B,836.0000,
+INVOICE,IN,,21010298,,01/31/2013,836.0000,"MoveIn-Whatley. Bill",,01/31/2013,01/31/2013,,21013915,3969.0000,,,,,,,,,,
+TRANSACTION,3010,010216210,1,111.0000,111,"One Bedroom: Whatley. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25.0000,25,"Monthly Cable: Whatley. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216210,1,700.0000,700,"New Resident Fee: Whatley. Bill",,,,,,,,,,,,,,,

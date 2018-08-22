@@ -1,0 +1,6 @@
+BATCH,,201204,B,2906.1500,
+INVOICE,IN,,01310179,,04/12/2012,2906.1500,"MoveIn-Hutteball. Max",,04/12/2012,04/12/2012,,01314080,2906.1500,,,,,,,,,,
+TRANSACTION,3010,010103013,19,72.0000,1368,"Basic Service Fee - Studio: Hutteball. Max",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,19,26.8500,510.15,"Resident Care - Level 15: Hutteball. Max",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Hutteball. Max",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Hutteball. Max",,,,,,,,,,,,,,,

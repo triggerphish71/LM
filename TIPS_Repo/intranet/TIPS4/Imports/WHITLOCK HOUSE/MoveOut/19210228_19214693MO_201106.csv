@@ -1,0 +1,7 @@
+BATCH,,201106,B,5740.0000,
+INVOICE,IN,,19210228,,06/05/2011,820.0000,"Invoice-Private",,06/05/2011,06/05/2011,,19214693MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,5,109.0000,545.00,"Basic Service Fee - Studio for Jun: Todd, Patsy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,5,55.0000,275.00,"Resident Care - Level 4 for Jun: Todd, Patsy",,,,,,,,,,,,,,,
+INVOICE,CM,,19210228,,06/05/2011,4920,"Invoice-Private",,06/05/2011,06/05/2011,,19214693MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3270,3270,"CR:Basic Service F... P.Todd 201106: Todd, Patsy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1650,1650,"CR:Resident Care -... P.Todd 201106: Todd, Patsy",,,,,,,,,,,,,,,

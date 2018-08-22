@@ -1,0 +1,7 @@
+BATCH,,201111,B,951.0000,
+INVOICE,IN,,15910185,,11/01/2011,475.5000,"Invoice-Private",,11/01/2011,11/10/2011,,15914453MO,-2949.1500,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Crampton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3316,010212159,30,14.8500,445.50,"Credit for Employee Discount: Crampton, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,15910185,,11/01/2011,475.5,"Invoice-Private",,11/01/2011,11/10/2011,,15914453MO,-2949.1500,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Crampton, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3316,010212159,30,14.85,445.5,"Employee Discount: Crampton, Jane",,,,,,,,,,,,,,,

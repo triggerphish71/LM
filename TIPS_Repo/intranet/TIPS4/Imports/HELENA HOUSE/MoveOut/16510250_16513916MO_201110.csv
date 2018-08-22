@@ -1,0 +1,7 @@
+BATCH,,201110,B,4584.0000,
+INVOICE,IN,,16510250,,10/01/2011,682.0000,"Invoice-Private",,10/01/2011,10/10/2011,,16513916MO,-3220.0000,,,,,,,,,,
+TRANSACTION,3320,010308165,1,682.0000,682.00,"CR:Limited Term Di... R.Lewis 201110: Lewis, Ronald",,,,,,,,,,,,,,,
+INVOICE,CM,,16510250,,10/01/2011,3902,"Invoice-Private",,10/01/2011,10/10/2011,,16513916MO,-3220.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3007,3007,"CR:Basic Service F... R.Lewis 201110: Lewis, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... R.Lewis 201110: Lewis, Ronald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,868,868,"CR:Resident Care -... R.Lewis 201110: Lewis, Ronald",,,,,,,,,,,,,,,

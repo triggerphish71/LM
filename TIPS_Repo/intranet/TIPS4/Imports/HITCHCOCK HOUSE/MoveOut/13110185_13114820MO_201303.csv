@@ -1,0 +1,5 @@
+BATCH,,201303,B,60.0000,
+INVOICE,IN,,13110185,,03/01/2013,30.0000,"Invoice-Private",,03/01/2013,03/10/2013,,13114820MO,-3538.4000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30.0000,30.00,"Pendant Fee: Gregory, Tatiana",,,,,,,,,,,,,,,
+INVOICE,CM,,13110185,,03/01/2013,30,"Invoice-Private",,03/01/2013,03/10/2013,,13114820MO,-3538.4000,,,,,,,,,,
+TRANSACTION,3130,010308131,1,30,30,"Credit for Pendant Fee: Gregory, Tatiana",,,,,,,,,,,,,,,

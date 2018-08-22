@@ -1,0 +1,6 @@
+BATCH,,201202,B,4118.0000,
+INVOICE,IN,,13010259,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,13015608MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3320,010310130,1,58.0000,58.00,"CR:Limited Term Di... A.Stanko 201202: Stanko, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,13010259,,02/01/2012,4060,"Invoice-Private",,02/01/2012,02/10/2012,,13015608MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,2958,2958,"CR:Basic Service F... A.Stanko 201202: Stanko, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310130,1,1102,1102,"CR:Resident Care -... A.Stanko 201202: Stanko, Anna",,,,,,,,,,,,,,,

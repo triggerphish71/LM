@@ -1,0 +1,8 @@
+BATCH,,201303,B,5926.0000,
+INVOICE,IN,,52610321,,03/13/2013,1742.0000,"Invoice-Private",,03/13/2013,03/13/2013,,52617657MO,-2442.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,13,96.0000,1248.00,"Basic Service Fee - One Bedroom Del for Mar: Treffert, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,13,38.0000,494.00,"Resident Care - Level 1 for Mar: Treffert, Gordon",,,,,,,,,,,,,,,
+INVOICE,CM,,52610321,,03/13/2013,4184,"Invoice-Private",,03/13/2013,03/13/2013,,52617657MO,-2442.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2976,2976,"CR:Basic Service F... G.Treffert 201303: Treffert, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"CR:Pendant Fee... G.Treffert 201303: Treffert, Gordon",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1178,1178,"CR:Resident Care -... G.Treffert 201303: Treffert, Gordon",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,1486.0000,
+INVOICE,IN,,50110259,,07/01/2012,743.0000,"Invoice-Private",,07/01/2012,07/10/2012,,50114153MO,-1968.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Hamill, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,23.0000,713.00,"Credit for Limited Term Discount: Hamill, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,50110259,,07/01/2012,743,"Invoice-Private",,07/01/2012,07/10/2012,,50114153MO,-1968.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Hamill, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,23,713,"Limited Term Discount: Hamill, Ruth",,,,,,,,,,,,,,,

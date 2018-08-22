@@ -1,0 +1,5 @@
+BATCH,,201207,B,1922.0000,
+INVOICE,IN,,17110247,,07/01/2012,961.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17115151MO,-510.0000,,,,,,,,,,
+TRANSACTION,3321,010308171,31,31.0000,961.00,"Credit for 2nd Resident Free Discount: Albanese, Midge",,,,,,,,,,,,,,,
+INVOICE,CM,,17110247,,07/01/2012,961,"Invoice-Private",,07/01/2012,07/10/2012,,17115151MO,-510.0000,,,,,,,,,,
+TRANSACTION,3321,010308171,31,31,961,"2nd Resident Free Discount: Albanese, Midge",,,,,,,,,,,,,,,

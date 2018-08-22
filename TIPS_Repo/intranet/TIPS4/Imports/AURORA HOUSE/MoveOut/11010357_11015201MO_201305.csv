@@ -1,0 +1,5 @@
+BATCH,,201305,B,1170.0000,
+INVOICE,IN,,11010357,,05/14/2013,364.0000,"Invoice-Private",,05/14/2013,05/14/2013,,11015201MO,-442.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,14,26.0000,364.00,"Basic Service Fee - Second Resident for May: Britt, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,11010357,,05/14/2013,806,"Invoice-Private",,05/14/2013,05/14/2013,,11015201MO,-442.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,806,806,"CR:Basic Service F... H.Britt 201305: Britt, Herbert",,,,,,,,,,,,,,,

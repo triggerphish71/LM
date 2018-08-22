@@ -1,0 +1,5 @@
+BATCH,,201201,B,5078.0000,
+INVOICE,IN,,09010243,,01/01/2012,5078.0000,"January_Rent-Stevens. Ruth",,01/01/2012,01/10/2012,,09014859,8896.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,31,92.0000,2852,"R.Stevens: Basic Service Fee - Studio: Stevens. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,31,71.0000,2201,"R.Stevens: Resident Care - Level 5: Stevens. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: Stevens. Ruth",,,,,,,,,,,,,,,

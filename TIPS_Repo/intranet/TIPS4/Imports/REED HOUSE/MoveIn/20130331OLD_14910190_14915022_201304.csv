@@ -1,0 +1,5 @@
+BATCH,,201304,B,3420.0000,
+INVOICE,IN,,14910190,,04/01/2013,3420.0000,"April_Rent-Ball. Rita",,04/01/2013,04/10/2013,,14915022,5063.0000,,,,,,,,,,
+TRANSACTION,3010,010212149,30,95.0000,2850,"R.Ball: Basic Service Fee - Studio: Ball. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212149,30,18.0000,540,"R.Ball: Resident Care - Level 1: Ball. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30,"Monthly Cable: Ball. Rita",,,,,,,,,,,,,,,

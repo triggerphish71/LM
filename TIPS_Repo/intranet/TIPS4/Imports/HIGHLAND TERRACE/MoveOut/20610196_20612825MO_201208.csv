@@ -1,0 +1,7 @@
+BATCH,,201208,B,4488.0000,
+INVOICE,IN,,20610196,,08/13/2012,1326.0000,"Invoice-Private",,08/13/2012,08/13/2012,,20612825MO,-4896.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,13,11.0000,143.00,"Resident Care - Level 1 for Aug: Festa, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,13,91.0000,1183.00,"Studio for Aug: Festa, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,20610196,,08/13/2012,3162,"Invoice-Private",,08/13/2012,08/13/2012,,20612825MO,-4896.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,341,341,"CR:Resident Care -... G.Festa 201208: Festa, Gloria",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Studio... G.Festa 201208: Festa, Gloria",,,,,,,,,,,,,,,

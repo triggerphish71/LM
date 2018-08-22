@@ -1,0 +1,7 @@
+BATCH,,201201,B,6120.0000,
+INVOICE,IN,,16110164,,01/29/2012,2958.0000,"Invoice-Private",,01/29/2012,01/29/2012,,16115347MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,29,88.0000,2552.00,"Basic Service Fee - Studio for Jan: Cheramie, Dorine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,29,14.0000,406.00,"Resident Care - Level 1 for Jan: Cheramie, Dorine",,,,,,,,,,,,,,,
+INVOICE,CM,,16110164,,01/29/2012,3162,"Invoice-Private",,01/29/2012,01/29/2012,,16115347MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... D.Cheramie 201201: Cheramie, Dorine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,434,434,"CR:Resident Care -... D.Cheramie 201201: Cheramie, Dorine",,,,,,,,,,,,,,,

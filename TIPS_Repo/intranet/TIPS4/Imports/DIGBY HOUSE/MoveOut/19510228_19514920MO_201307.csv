@@ -1,0 +1,8 @@
+BATCH,,201307,B,5355.0000,
+INVOICE,IN,,19510228,,07/03/2013,608.0000,"Invoice-Private",,07/03/2013,07/03/2013,,19514920MO,-4139.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,4,116.0000,464.00,"Basic Service Fee - One Bedroom for Jul: Byrne, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,4,36.0000,144.00,"Resident Care - Level 2 for Jul: Byrne, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,19510228,,07/03/2013,4747,"Invoice-Private",,07/03/2013,07/03/2013,,19514920MO,-4139.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,3596,3596,"CR:Basic Service F... T.Byrne 201307: Byrne, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309195,1,35,35,"CR:Pendant Fee... T.Byrne 201307: Byrne, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1116,1116,"CR:Resident Care -... T.Byrne 201307: Byrne, Thomas",,,,,,,,,,,,,,,

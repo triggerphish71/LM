@@ -1,0 +1,6 @@
+BATCH,,201201,B,4262.0000,
+INVOICE,IN,,15910172,,01/01/2012,1380.0000,"Invoice-Private",,01/01/2012,01/10/2012,,15914602MO,-1502.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,15,92.0000,1380.00,"Basic Service Fee - Studio for Jan: Loneman, Merlin",,,,,,,,,,,,,,,
+INVOICE,CM,,15910172,,01/01/2012,2882,"Invoice-Private",,01/01/2012,01/10/2012,,15914602MO,-1502.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,2852,2852,"CR:Basic Service F... M.Loneman 201201: Loneman, Merlin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"CR:Monthly Cable... M.Loneman 201201: Loneman, Merlin",,,,,,,,,,,,,,,

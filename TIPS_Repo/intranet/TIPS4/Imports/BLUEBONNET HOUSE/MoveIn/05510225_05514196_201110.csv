@@ -1,0 +1,6 @@
+BATCH,,201110,B,4317.0000,
+INVOICE,IN,,05510225,,10/14/2011,4317.0000,"MoveIn-Petty. Herbert "Ray"",,10/14/2011,10/14/2011,,05514196,4317.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,18,92.0000,1656,"Basic Service Fee - Studio         : Petty. Herbert "Ray"",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,18,63.0000,1134,"Resident Care - Level 4: Petty. Herbert "Ray"",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27,"Monthly Cable: Petty. Herbert "Ray"",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202055,1,1500.0000,1500,"New Resident Fee: Petty. Herbert "Ray"",,,,,,,,,,,,,,,

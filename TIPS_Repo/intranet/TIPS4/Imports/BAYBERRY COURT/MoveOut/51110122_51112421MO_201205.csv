@@ -1,0 +1,5 @@
+BATCH,,201205,B,54.0000,
+INVOICE,IN,,51110122,,05/01/2012,27.0000,"Invoice-Private",,05/01/2012,05/10/2012,,51112421MO,-6578.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27.00,"Monthly Cable: Collodi, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,51110122,,05/01/2012,27,"Invoice-Private",,05/01/2012,05/10/2012,,51112421MO,-6578.0000,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"Credit for Monthly Cable: Collodi, Ruth",,,,,,,,,,,,,,,

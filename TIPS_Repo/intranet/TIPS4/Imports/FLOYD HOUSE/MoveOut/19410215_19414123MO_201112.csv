@@ -1,0 +1,7 @@
+BATCH,,201112,B,5827.7000,
+INVOICE,IN,,19410215,,12/01/2011,682.0000,"Invoice-Private",,12/01/2011,12/10/2011,,19414123MO,-5504.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,682.0000,682.00,"CR:Limited Term Di... B.Mook 201112: Mook, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,19410215,,12/01/2011,5145.7,"Invoice-Private",,12/01/2011,12/10/2011,,19414123MO,-5504.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2232,2232,"CR:Basic Service F... B.Mook 201112: Mook, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... B.Mook 201112: Mook, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,2873.7,2873.7,"CR:Swan Personal C... B.Mook 201112: Mook, Betty",,,,,,,,,,,,,,,

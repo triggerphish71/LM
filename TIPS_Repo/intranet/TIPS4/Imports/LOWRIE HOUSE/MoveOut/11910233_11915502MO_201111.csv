@@ -1,0 +1,8 @@
+BATCH,,201111,B,6794.0000,
+INVOICE,IN,,11910233,,11/18/2011,2538.0000,"Invoice-Private",,11/18/2011,11/18/2011,,11915502MO,-6115.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,18,89.0000,1602.00,"Basic Service Fee - Studio for Nov: Menell, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,18,52.0000,936.00,"Resident Care - Level 3 for Nov: Menell, Marian",,,,,,,,,,,,,,,
+INVOICE,CM,,11910233,,11/18/2011,4256,"Invoice-Private",,11/18/2011,11/18/2011,,11915502MO,-6115.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2670,2670,"CR:Basic Service F... M.Menell 201111: Menell, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... M.Menell 201111: Menell, Marian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1560,1560,"CR:Resident Care -... M.Menell 201111: Menell, Marian",,,,,,,,,,,,,,,

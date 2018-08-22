@@ -1,0 +1,7 @@
+BATCH,,201109,B,4944.0000,
+INVOICE,IN,,17610248,,09/01/2011,294.0000,"Invoice-Private",,09/01/2011,09/10/2011,,17614085MO,-4356.0000,,,,,,,,,,
+TRANSACTION,3312,010315176,1,294.0000,294.00,"CR:Two Room Rental... C.Clark 201109: Clark, Cindy",,,,,,,,,,,,,,,
+INVOICE,CM,,17610248,,09/01/2011,4650,"Invoice-Private",,09/01/2011,09/10/2011,,17614085MO,-4356.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,300,300,"CR:CC Meals... C.Clark 201109: Clark, Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,2280,2280,"CR:Resident Care -... C.Clark 201109: Clark, Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2070,2070,"CR:Room and Board ... C.Clark 201109: Clark, Cindy",,,,,,,,,,,,,,,

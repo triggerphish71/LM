@@ -1,0 +1,7 @@
+BATCH,,201108,B,4315.0000,
+INVOICE,IN,,02610251,,08/01/2011,1374.0000,"Invoice-Private",,08/01/2011,08/10/2011,,02614453MO,-1567.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,1,434.0000,434.00,"CR:Limited Term Di... E.Bergeron 201108: Bergeron, Elwood",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202026,10,94.0000,940.00,"Basic Service Fee - Studio for Aug: Bergeron, Elwood",,,,,,,,,,,,,,,
+INVOICE,CM,,02610251,,08/01/2011,2941,"Invoice-Private",,08/01/2011,08/10/2011,,02614453MO,-1567.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2914,2914,"CR:Basic Service F... E.Bergeron 201108: Bergeron, Elwood",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... E.Bergeron 201108: Bergeron, Elwood",,,,,,,,,,,,,,,

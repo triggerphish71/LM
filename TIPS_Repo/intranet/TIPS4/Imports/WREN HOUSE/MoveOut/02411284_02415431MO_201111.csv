@@ -1,0 +1,5 @@
+BATCH,,201111,B,1500.0000,
+INVOICE,IN,,02411284,,11/01/2011,750.0000,"Invoice-Private",,11/01/2011,11/10/2011,,02415431MO,-1030.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,25.0000,750.00,"Credit for Limited Term Discount: Powell, Mattie",,,,,,,,,,,,,,,
+INVOICE,CM,,02411284,,11/01/2011,750,"Invoice-Private",,11/01/2011,11/10/2011,,02415431MO,-1030.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,30,25,750,"Limited Term Discount: Powell, Mattie",,,,,,,,,,,,,,,

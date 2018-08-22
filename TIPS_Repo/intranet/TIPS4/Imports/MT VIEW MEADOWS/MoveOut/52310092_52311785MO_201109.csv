@@ -1,0 +1,5 @@
+BATCH,,201109,B,474.0000,
+INVOICE,IN,,52310092,,09/01/2011,237.0000,"Invoice-Private",,09/01/2011,09/10/2011,,52311785MO,-4522.9000,,,,,,,,,,
+TRANSACTION,3320,010103523,30,7.9000,237.00,"Credit for Limited Term Discount: Bandli, Theo",,,,,,,,,,,,,,,
+INVOICE,CM,,52310092,,09/01/2011,237,"Invoice-Private",,09/01/2011,09/10/2011,,52311785MO,-4522.9000,,,,,,,,,,
+TRANSACTION,3320,010103523,30,7.9,237,"Limited Term Discount: Bandli, Theo",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201209,B,1867.0000,
+INVOICE,IN,,04410266,,09/28/2012,1867.0000,"MoveIn-Medley. Yvonne",,09/28/2012,09/28/2012,,04414789,5426.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,3,85.0000,255,"Basic Service Fee - Studio: Medley. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,3,29.0000,87,"Resident Care - Level 2: Medley. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Medley. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Medley. Yvonne",,,,,,,,,,,,,,,

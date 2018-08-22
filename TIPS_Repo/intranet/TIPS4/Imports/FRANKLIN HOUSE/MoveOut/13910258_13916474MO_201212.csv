@@ -1,0 +1,8 @@
+BATCH,,201212,B,1854.0500,
+INVOICE,IN,,13910258,,12/01/2012,429.6000,"Invoice-Private",,12/01/2012,12/10/2012,,13916474MO,-994.8500,,,,,,,,,,
+TRANSACTION,3320,010103139,1,62.0000,62.00,"CR:Limited Term Di... E.Weeth 201212: Weeth, Emma Lou",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103139,8,37.0000,296.00,"Basic Service Fee - Second Resident for Dec: Weeth, Emma Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,8,8.9500,71.60,"Resident Care - Level 5 for Dec: Weeth, Emma Lou",,,,,,,,,,,,,,,
+INVOICE,CM,,13910258,,12/01/2012,1424.45,"Invoice-Private",,12/01/2012,12/10/2012,,13916474MO,-994.8500,,,,,,,,,,
+TRANSACTION,3020,010103139,1,1147,1147,"CR:Basic Service F... E.Weeth 201212: Weeth, Emma Lou",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,277.45,277.45,"CR:Resident Care -... E.Weeth 201212: Weeth, Emma Lou",,,,,,,,,,,,,,,

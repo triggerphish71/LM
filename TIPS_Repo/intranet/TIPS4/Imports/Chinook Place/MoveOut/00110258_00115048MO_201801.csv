@@ -1,0 +1,7 @@
+BATCH,,201801,B,4492.8000,
+INVOICE,IN,,00110258,,01/05/2018,624.0000,"Invoice-Private",,01/05/2018,01/05/2018,,00115048MO,-3244.8000,,,,,,,,,,
+TRANSACTION,3020,010001001,5,78.0000,390.00,"Basic Service Fee - Studio AL  for Jan: Chotard, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001001,5,46.8000,234.00,"Resident Care - Level 24  for Jan: Chotard, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,00110258,,01/05/2018,3868.8,"Invoice-Private",,01/05/2018,01/05/2018,,00115048MO,-3244.8000,,,,,,,,,,
+TRANSACTION,3020,010001001,1,2418,2418,"CR:Basic Service F... M.Chotard 201801: Chotard, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001001,1,1450.8,1450.8,"CR:Resident Care -... M.Chotard 201801: Chotard, Mildred",,,,,,,,,,,,,,,

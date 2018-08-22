@@ -1,0 +1,8 @@
+BATCH,,201307,B,3940.0000,
+INVOICE,IN,,02810210,,07/02/2013,345.0000,"Invoice-Private",,07/02/2013,07/02/2013,,02815837MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,3,55.0000,165.00,"Basic Service Fee - Studio for Jul: Blacklock, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,3,60.0000,180.00,"Resident Care - Level 5 for Jul: Blacklock, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,02810210,,07/02/2013,3595,"Invoice-Private",,07/02/2013,07/02/2013,,02815837MO,-3250.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,1705,1705,"CR:Basic Service F... M.Blacklock 201307: Blacklock, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202028,1,30,30,"CR:Pendant Fee... M.Blacklock 201307: Blacklock, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,1860,1860,"CR:Resident Care -... M.Blacklock 201307: Blacklock, Margie",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,5217.0000,
+INVOICE,CM,,53010209,,03/01/2012,5217,"Invoice-Private",,03/01/2012,03/10/2012,,53015908MO,-9265.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,4247,4247,"CR:Basic Service F... J.Keup 201203: Keup, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... J.Keup 201203: Keup, Jan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,930,930,"CR:Resident Care -... J.Keup 201203: Keup, Jan",,,,,,,,,,,,,,,

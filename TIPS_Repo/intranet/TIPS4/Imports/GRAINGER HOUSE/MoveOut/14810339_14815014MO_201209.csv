@@ -1,0 +1,6 @@
+BATCH,,201209,B,5880.0000,
+INVOICE,IN,,14810339,,09/01/2012,780.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14815014MO,-6914.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,780.0000,780.00,"CR:Limited Term Di... M.Colapietro 201209: Colapietro, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,14810339,,09/01/2012,5100,"Invoice-Private",,09/01/2012,09/10/2012,,14815014MO,-6914.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2730,2730,"CR:Basic Service F... M.Colapietro 201209: Colapietro, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,2370,2370,"CR:Resident Care -... M.Colapietro 201209: Colapietro, Martha",,,,,,,,,,,,,,,

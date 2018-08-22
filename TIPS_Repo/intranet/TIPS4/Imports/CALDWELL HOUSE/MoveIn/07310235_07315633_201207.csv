@@ -1,0 +1,5 @@
+BATCH,,201207,B,3400.0000,
+INVOICE,IN,,07310235,,07/06/2012,3400.0000,"MoveIn-Brading. Robert",,07/06/2012,07/06/2012,,07315633,3400.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,26,97.0000,2522,"Basic Service Fee - Studio: Brading. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,26,33.0000,858,"Resident Care - Level 2: Brading. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Brading. Robert",,,,,,,,,,,,,,,

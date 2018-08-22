@@ -1,0 +1,8 @@
+BATCH,,201207,B,9464.8400,
+INVOICE,IN,,01810156,,07/28/2012,5080.2000,"Invoice-Private",,07/28/2012,07/28/2012,,01812555MO,-2852.0800,,,,,,,,,,
+TRANSACTION,3320,010103018,1,837.0000,837.00,"CR:Limited Term Di... H.Hochhalter 201207: Hochhalter, Hildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103018,30,77.0000,2310.00,"Basic Service Fee - Studio for Jul: Hochhalter, Hildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,30,64.4400,1933.20,"Resident Care - Level 36 for Jul: Hochhalter, Hildred",,,,,,,,,,,,,,,
+INVOICE,CM,,01810156,,07/28/2012,4384.64,"Invoice-Private",,07/28/2012,07/28/2012,,01812555MO,-2852.0800,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2387,2387,"CR:Basic Service F... H.Hochhalter 201207: Hochhalter, Hildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,1997.64,1997.64,"CR:Resident Care -... H.Hochhalter 201207: Hochhalter, Hildred",,,,,,,,,,,,,,,

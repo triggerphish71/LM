@@ -1,0 +1,5 @@
+BATCH,,201108,B,70.0000,
+INVOICE,IN,,15110175,,08/01/2011,35.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15113746MO,-1565.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: Eblen, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,15110175,,08/01/2011,35,"Invoice-Private",,08/01/2011,08/10/2011,,15113746MO,-1565.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: Eblen, Beulah",,,,,,,,,,,,,,,

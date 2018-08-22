@@ -1,0 +1,5 @@
+BATCH,,201303,B,2435.0000,
+INVOICE,IN,,50310315,,03/20/2013,2435.0000,"MoveIn-Meece. Virginia",,03/20/2013,03/20/2013,,50314835,4720.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,12,75.0000,900,"Basic Service Fee - Studio: Meece. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Meece. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1500.0000,1500,"New Resident Fee: Meece. Virginia",,,,,,,,,,,,,,,

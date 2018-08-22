@@ -1,0 +1,6 @@
+BATCH,,201205,B,5115.0000,
+INVOICE,IN,,10110117,,05/01/2012,651.0000,"Invoice-Private",,05/01/2012,05/10/2012,,10112245MO,-4767.0000,,,,,,,,,,
+TRANSACTION,3320,010305101,1,651.0000,651.00,"CR:Limited Term Di... E.Pence 201205: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,
+INVOICE,CM,,10110117,,05/01/2012,4464,"Invoice-Private",,05/01/2012,05/10/2012,,10112245MO,-4767.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,2821,2821,"CR:Basic Service F... E.Pence 201205: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,1643,1643,"CR:Resident Care -... E.Pence 201205: Pence, Elizabeth (Betty)",,,,,,,,,,,,,,,

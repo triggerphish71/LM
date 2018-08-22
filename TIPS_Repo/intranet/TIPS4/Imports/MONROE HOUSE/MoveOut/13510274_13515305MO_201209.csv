@@ -1,0 +1,7 @@
+BATCH,,201209,B,2160.0000,
+INVOICE,IN,,13510274,,09/01/2012,1080.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13515305MO,-1918.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30.00,"Monthly Cable: Stogsdill, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,30,35.0000,1050.00,"Credit for Limited Term Discount: Stogsdill, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,13510274,,09/01/2012,1080,"Invoice-Private",,09/01/2012,09/10/2012,,13515305MO,-1918.0000,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30,30,"Credit for Monthly Cable: Stogsdill, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309135,30,35,1050,"Limited Term Discount: Stogsdill, Delbert",,,,,,,,,,,,,,,

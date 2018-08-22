@@ -1,0 +1,5 @@
+BATCH,,201204,B,3077.0000,
+INVOICE,IN,,17610306,,04/12/2012,3077.0000,"MoveIn-Barcus. Leo",,04/12/2012,04/12/2012,,17614408,3077.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,19,73.0000,1387,"Basic Service Fee - Studio: Barcus. Leo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Barcus. Leo",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,19,10.0000,190,"CC Meals: Barcus. Leo",,,,,,,,,,,,,,,

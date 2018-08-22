@@ -1,0 +1,8 @@
+BATCH,,201209,B,6220.0000,
+INVOICE,IN,,14710235,,09/05/2012,940.0000,"Invoice-Private",,09/05/2012,09/05/2012,,14715807MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3320,010310147,1,60.0000,60.00,"CR:Limited Term Di... A.Barclay 201209: Barclay, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310147,5,102.0000,510.00,"Basic Service Fee - Studio for Sep: Barclay, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,5,74.0000,370.00,"Resident Care - Level 5 for Sep: Barclay, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,14710235,,09/05/2012,5280,"Invoice-Private",,09/05/2012,09/05/2012,,14715807MO,-4340.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3060,3060,"CR:Basic Service F... A.Barclay 201209: Barclay, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,2220,2220,"CR:Resident Care -... A.Barclay 201209: Barclay, Audrey",,,,,,,,,,,,,,,

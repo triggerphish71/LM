@@ -1,0 +1,7 @@
+BATCH,,201210,B,3570.0000,
+INVOICE,IN,,16110248,,10/01/2012,408.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16115588MO,-2754.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,4,88.0000,352.00,"Basic Service Fee - Studio for Oct: Charles, Sidney",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,4,14.0000,56.00,"Resident Care - Level 1 for Oct: Charles, Sidney",,,,,,,,,,,,,,,
+INVOICE,CM,,16110248,,10/01/2012,3162,"Invoice-Private",,10/01/2012,10/10/2012,,16115588MO,-2754.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... S.Charles 201210: Charles, Sidney",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,434,434,"CR:Resident Care -... S.Charles 201210: Charles, Sidney",,,,,,,,,,,,,,,

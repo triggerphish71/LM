@@ -1,0 +1,7 @@
+BATCH,,201110,B,4058.5500,
+INVOICE,IN,,08010201,,10/01/2011,311.5500,"Invoice-Private",,10/01/2011,10/10/2011,,08013977MO,-4000.9500,,,,,,,,,,
+TRANSACTION,3316,010202080,1,311.5500,311.55,"CR:Employee Discou... A.Love 201110: Love, Anita",,,,,,,,,,,,,,,
+INVOICE,CM,,08010201,,10/01/2011,3747,"Invoice-Private",,10/01/2011,10/10/2011,,08013977MO,-4000.9500,,,,,,,,,,
+TRANSACTION,3020,010202080,1,2077,2077,"CR:Basic Service F... A.Love 201110: Love, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202080,1,27,27,"CR:Monthly Cable... A.Love 201110: Love, Anita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202080,1,1643,1643,"CR:Resident Care -... A.Love 201110: Love, Anita",,,,,,,,,,,,,,,

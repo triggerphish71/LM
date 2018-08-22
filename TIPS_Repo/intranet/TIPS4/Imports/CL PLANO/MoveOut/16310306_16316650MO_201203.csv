@@ -1,0 +1,8 @@
+BATCH,,201203,B,3899.0000,
+INVOICE,IN,,16310306,,03/01/2012,121.0000,"Invoice-Private",,03/01/2012,03/01/2012,,16316650MO,-6024.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,108.0000,108.00,"Basic Service Fee - Studio Deluxe for Mar: King, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,13.0000,13.00,"Resident Care - Level 1 for Mar: King, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,16310306,,03/01/2012,3778,"Invoice-Private",,03/01/2012,03/01/2012,,16316650MO,-6024.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... C.King 201203: King, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... C.King 201203: King, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,403,403,"CR:Resident Care -... C.King 201203: King, Charles",,,,,,,,,,,,,,,

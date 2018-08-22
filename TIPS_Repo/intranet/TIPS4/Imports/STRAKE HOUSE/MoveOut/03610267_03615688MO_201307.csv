@@ -1,0 +1,8 @@
+BATCH,,201307,B,6708.0000,
+INVOICE,IN,,03610267,,07/10/2013,2620.0000,"Invoice-Private",,07/10/2013,07/10/2013,,03615688MO,-1468.0000,,,,,,,,,,
+TRANSACTION,3027,010202036,20,30.0000,600.00,"Resident Care - Level 2 for Jul: Vasek, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202036,20,101.0000,2020.00,"Room and Board - Studio for Jul: Vasek, Vera",,,,,,,,,,,,,,,
+INVOICE,CM,,03610267,,07/10/2013,4088,"Invoice-Private",,07/10/2013,07/10/2013,,03615688MO,-1468.0000,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... V.Vasek 201307: Vasek, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,930,930,"CR:Resident Care -... V.Vasek 201307: Vasek, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Room and Board ... V.Vasek 201307: Vasek, Vera",,,,,,,,,,,,,,,

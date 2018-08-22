@@ -1,0 +1,8 @@
+BATCH,,201109,B,3740.0000,
+INVOICE,IN,,19810007,,09/01/2011,60.0000,"Invoice-Private",,09/01/2011,09/10/2011,,19816500MO,-3620.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,60.0000,60.00,"CR:Limited Term Di... A.Broughton 201109: Broughton, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,19810007,,09/01/2011,3680,"Invoice-Private",,09/01/2011,09/10/2011,,19816500MO,-3620.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2190,2190,"CR:Basic Service F... A.Broughton 201109: Broughton, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3214,010112198,1,50,50,"CR:Garage Rental... A.Broughton 201109: Broughton, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... A.Broughton 201109: Broughton, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1410,1410,"CR:Swan Personal C... A.Broughton 201109: Broughton, Arlene",,,,,,,,,,,,,,,

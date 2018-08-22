@@ -1,0 +1,6 @@
+BATCH,,201209,B,4680.0000,
+INVOICE,IN,,52610136,,09/01/2012,2160.0000,"Invoice-Private",,09/01/2012,09/10/2012,,52617235MO,-2902.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,60.0000,60.00,"CR:Limited Term Di... K.Kleinschmidt 201209: Kleinschmidt, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319526,25,84.0000,2100.00,"Basic Service Fee - One Bedroom for Sep: Kleinschmidt, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,52610136,,09/01/2012,2520,"Invoice-Private",,09/01/2012,09/10/2012,,52617235MO,-2902.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,2520,2520,"CR:Basic Service F... K.Kleinschmidt 201209: Kleinschmidt, Kenneth",,,,,,,,,,,,,,,

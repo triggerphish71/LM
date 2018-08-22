@@ -1,0 +1,8 @@
+BATCH,,201106,B,5353.8000,
+INVOICE,IN,,00710128,,06/15/2011,2239.8000,"Invoice-Private",,06/15/2011,06/15/2011,,00713172MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,60.0000,60.00,"CR:Limited Term Di... J.Troxell 201106: Troxell, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,21,80.0000,1680.00,"Basic Service Fee - Studio for Jun: Troxell, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,21,23.8000,499.80,"Resident Care - Level 14 for Jun: Troxell, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,00710128,,06/15/2011,3114,"Invoice-Private",,06/15/2011,06/15/2011,,00713172MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2400,2400,"CR:Basic Service F... J.Troxell 201106: Troxell, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,714,714,"CR:Resident Care -... J.Troxell 201106: Troxell, Jack",,,,,,,,,,,,,,,

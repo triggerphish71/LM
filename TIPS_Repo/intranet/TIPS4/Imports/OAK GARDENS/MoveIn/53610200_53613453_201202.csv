@@ -1,0 +1,5 @@
+BATCH,,201202,B,3550.0000,
+INVOICE,IN,,53610200,,02/15/2012,3550.0000,"MoveIn-Garside. Shirley",,02/15/2012,02/15/2012,,53613453,3550.0000,,,,,,,,,,
+TRANSACTION,3010,010319536,15,101.0000,1515,"Basic Service Fee - Studio Deluxe: Garside. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35,"Monthly Cable: Garside. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319536,1,2000.0000,2000,"New Resident Fee: Garside. Shirley",,,,,,,,,,,,,,,

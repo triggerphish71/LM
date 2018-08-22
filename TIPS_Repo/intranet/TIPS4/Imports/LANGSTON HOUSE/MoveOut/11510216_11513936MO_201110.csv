@@ -1,0 +1,7 @@
+BATCH,,201110,B,3918.0000,
+INVOICE,IN,,11510216,,10/23/2011,1906.0000,"Invoice-Private",,10/23/2011,10/23/2011,,11513936MO,-1606.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,434.0000,434.00,"CR:Limited Term Di... E.Griffin 201110: Griffin, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308115,23,64.0000,1472.00,"Basic Service Fee - Studio for Oct: Griffin, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,11510216,,10/23/2011,2012,"Invoice-Private",,10/23/2011,10/23/2011,,11513936MO,-1606.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1984,1984,"CR:Basic Service F... E.Griffin 201110: Griffin, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... E.Griffin 201110: Griffin, Ed",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201301,B,3048.0000,
+INVOICE,IN,,50510136,,01/15/2013,3048.0000,"MoveIn-Chatfield. James",,01/15/2013,01/15/2013,,50511866,3048.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,17,119.0000,2023,"J.Chatfield: Basic Service Fee - One Bedroom: Chatfield. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Chatfield. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1000.0000,1000,"New Resident Fee: Chatfield. James",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201302,B,3492.0000,
+INVOICE,IN,,03210285,,02/08/2013,776.0000,"Invoice-Private",,02/08/2013,02/08/2013,,03215227MO,-1940.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,8,65.0000,520.00,"Basic Service Fee - Studio for Feb: Kirby, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,8,32.0000,256.00,"Resident Care - Level 2 for Feb: Kirby, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,03210285,,02/08/2013,2716,"Invoice-Private",,02/08/2013,02/08/2013,,03215227MO,-1940.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,1820,1820,"CR:Basic Service F... D.Kirby 201302: Kirby, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,896,896,"CR:Resident Care -... D.Kirby 201302: Kirby, Dorothy",,,,,,,,,,,,,,,

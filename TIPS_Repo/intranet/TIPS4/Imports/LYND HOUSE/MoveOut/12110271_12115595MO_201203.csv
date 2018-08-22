@@ -1,0 +1,8 @@
+BATCH,,201203,B,6908.0000,
+INVOICE,IN,,12110271,,03/01/2012,1700.0000,"Invoice-Private",,03/01/2012,03/10/2012,,12115595MO,-3508.0000,,,,,,,,,,
+TRANSACTION,3320,010309121,1,1364.0000,1364.00,"CR:Limited Term Di... C.Haskett 201203: Haskett, Clarance",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,2,124.0000,248.00,"Basic Service Fee- One Bedroom Prem for Mar: Haskett, Clarance",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,2,44.0000,88.00,"Resident Care - Level 3 for Mar: Haskett, Clarance",,,,,,,,,,,,,,,
+INVOICE,CM,,12110271,,03/01/2012,5208,"Invoice-Private",,03/01/2012,03/10/2012,,12115595MO,-3508.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,1,3844,3844,"CR:Basic Service F... C.Haskett 201203: Haskett, Clarance",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309121,1,1364,1364,"CR:Resident Care -... C.Haskett 201203: Haskett, Clarance",,,,,,,,,,,,,,,

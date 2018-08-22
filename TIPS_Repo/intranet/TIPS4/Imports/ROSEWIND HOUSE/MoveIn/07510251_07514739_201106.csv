@@ -1,0 +1,6 @@
+BATCH,,201106,B,2425.0000,
+INVOICE,IN,,07510251,,06/27/2011,2425.0000,"MoveIn-Russell. Eloise",,06/27/2011,06/27/2011,,07514739,5550.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,4,85.0000,340,"E.Russell: Basic Service Fee - Studio: Russell. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,4,15.0000,60,"E.Russell: Resident Care - Level 1: Russell. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Russell. Eloise",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,2000.0000,2000,"New Resident Fee: Russell. Eloise",,,,,,,,,,,,,,,

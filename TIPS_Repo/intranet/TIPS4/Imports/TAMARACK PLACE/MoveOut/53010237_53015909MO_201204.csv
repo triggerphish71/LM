@@ -1,0 +1,5 @@
+BATCH,,201204,B,90.0000,
+INVOICE,IN,,53010237,,04/01/2012,45.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53015909MO,-3898.0000,,,,,,,,,,
+TRANSACTION,3214,010319530,1,45.0000,45.00,"Garage Rental: Claffey, Mariclaire",,,,,,,,,,,,,,,
+INVOICE,CM,,53010237,,04/01/2012,45,"Invoice-Private",,04/01/2012,04/10/2012,,53015909MO,-3898.0000,,,,,,,,,,
+TRANSACTION,3214,010319530,1,45,45,"Credit for Garage Rental: Claffey, Mariclaire",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201803,B,7425.0000,
+INVOICE,IN,,13110369,,03/26/2018,3550.0000,"Invoice-Private",,03/26/2018,03/26/2018,,13117572MO,-325.0000,,,,,,,,,,
+TRANSACTION,3017,010008131,15,20.0000,300.00," Level Care:  1 : Feagans, Louise ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010008131,26,125.0000,3250.00,"Basic Service Fee - Studio  for Mar: Feagans, Louise ",,,,,,,,,,,,,,,
+INVOICE,CM,,13110369,,03/26/2018,3875,"Invoice-Private",,03/26/2018,03/26/2018,,13117572MO,-325.0000,,,,,,,,,,
+TRANSACTION,3020,010008131,1,3875,3875,"CR:Basic Service F... L.Feagans 201803: Feagans, Louise ",,,,,,,,,,,,,,,

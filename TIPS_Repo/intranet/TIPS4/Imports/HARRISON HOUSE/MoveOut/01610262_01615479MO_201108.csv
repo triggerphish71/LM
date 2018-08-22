@@ -1,0 +1,8 @@
+BATCH,,201108,B,3560.0000,
+INVOICE,IN,,01610262,,08/22/2011,1514.0000,"Invoice-Private",,08/22/2011,08/22/2011,,01615479MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3320,010202016,1,62.0000,62.00,"CR:Limited Term Di... R.Chapman 201108: Chapman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202016,22,34.0000,748.00,"Basic Service Fee - Second Resident for Aug: Chapman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,22,32.0000,704.00,"Resident Care - Level 2 for Aug: Chapman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01610262,,08/22/2011,2046,"Invoice-Private",,08/22/2011,08/22/2011,,01615479MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,1054,1054,"CR:Basic Service F... R.Chapman 201108: Chapman, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,992,992,"CR:Resident Care -... R.Chapman 201108: Chapman, Ruth",,,,,,,,,,,,,,,

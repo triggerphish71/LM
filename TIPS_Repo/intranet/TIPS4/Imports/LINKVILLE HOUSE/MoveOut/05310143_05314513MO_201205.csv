@@ -1,0 +1,5 @@
+BATCH,,201205,B,620.0000,
+INVOICE,IN,,05310143,,05/01/2012,310.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05314513MO,-4052.0300,,,,,,,,,,
+TRANSACTION,3320,010101053,31,10.0000,310.00,"Credit for Limited Term Discount: Miller, Marcella (Marci)",,,,,,,,,,,,,,,
+INVOICE,CM,,05310143,,05/01/2012,310,"Invoice-Private",,05/01/2012,05/10/2012,,05314513MO,-4052.0300,,,,,,,,,,
+TRANSACTION,3320,010101053,31,10,310,"Limited Term Discount: Miller, Marcella (Marci)",,,,,,,,,,,,,,,

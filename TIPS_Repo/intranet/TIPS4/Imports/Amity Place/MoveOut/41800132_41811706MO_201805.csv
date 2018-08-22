@@ -1,0 +1,5 @@
+BATCH,,201805,B,60.0000,
+INVOICE,IN,,41800132,,05/01/2018,30.0000,"Invoice-Private",,05/01/2018,05/10/2018,,41811706MO,-7587.0000,,,,,,,,,,
+TRANSACTION,3260,060010418,1,30.0000,30.00,"Monthly Cable: Compton, Sophie",,,,,,,,,,,,,,,
+INVOICE,CM,,41800132,,05/01/2018,30,"Invoice-Private",,05/01/2018,05/10/2018,,41811706MO,-7587.0000,,,,,,,,,,
+TRANSACTION,3260,060010418,1,30,30,"Credit for Monthly Cable: Compton, Sophie",,,,,,,,,,,,,,,

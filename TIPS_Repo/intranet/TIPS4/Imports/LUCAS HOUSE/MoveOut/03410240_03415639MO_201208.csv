@@ -1,0 +1,7 @@
+BATCH,,201208,B,4677.0000,
+INVOICE,IN,,03410240,,08/01/2012,961.0000,"Invoice-Private",,08/01/2012,08/10/2012,,03415639MO,-2773.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,961.0000,961.00,"CR:Limited Term Di... M.Modlin 201208: Modlin, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,03410240,,08/01/2012,3716,"Invoice-Private",,08/01/2012,08/10/2012,,03415639MO,-2773.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... M.Modlin 201208: Modlin, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... M.Modlin 201208: Modlin, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,713,713,"CR:Resident Care -... M.Modlin 201208: Modlin, Martha",,,,,,,,,,,,,,,

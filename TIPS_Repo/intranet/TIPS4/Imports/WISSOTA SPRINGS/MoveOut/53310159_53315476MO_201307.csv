@@ -1,0 +1,5 @@
+BATCH,,201307,B,50.0000,
+INVOICE,IN,,53310159,,07/01/2013,25.0000,"Invoice-Private",,07/01/2013,07/10/2013,,53315476MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25.0000,25.00,"Pendant Fee: Borneman, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,53310159,,07/01/2013,25,"Invoice-Private",,07/01/2013,07/10/2013,,53315476MO,-2250.0000,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"Credit for Pendant Fee: Borneman, Bill",,,,,,,,,,,,,,,

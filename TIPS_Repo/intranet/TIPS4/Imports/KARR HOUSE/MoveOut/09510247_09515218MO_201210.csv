@@ -1,0 +1,7 @@
+BATCH,,201210,B,5714.7400,
+INVOICE,IN,,09510247,,10/21/2012,2660.3100,"Invoice-Private",,10/21/2012,10/21/2012,,09515218MO,-3350.0200,,,,,,,,,,
+TRANSACTION,3020,010103095,27,86.0000,2322.00,"Basic Service Fee - Studio for Oct: Lewis, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,27,12.5300,338.31,"Resident Care - Level 7 for Oct: Lewis, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,09510247,,10/21/2012,3054.43,"Invoice-Private",,10/21/2012,10/21/2012,,09515218MO,-3350.0200,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... D.Lewis 201210: Lewis, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,388.43,388.43,"CR:Resident Care -... D.Lewis 201210: Lewis, Dorothy",,,,,,,,,,,,,,,

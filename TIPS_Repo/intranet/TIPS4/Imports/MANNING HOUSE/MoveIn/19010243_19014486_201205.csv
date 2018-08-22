@@ -1,0 +1,6 @@
+BATCH,,201205,B,3673.0000,
+INVOICE,IN,,19010243,,05/11/2012,3673.0000,"MoveIn-Sanders. Syderas",,05/11/2012,05/11/2012,,19014486,3673.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,21,98.0000,2058,"Basic Service Fee - Studio: Sanders. Syderas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,21,28.0000,588,"Resident Care - Level 2: Sanders. Syderas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Sanders. Syderas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Sanders. Syderas",,,,,,,,,,,,,,,

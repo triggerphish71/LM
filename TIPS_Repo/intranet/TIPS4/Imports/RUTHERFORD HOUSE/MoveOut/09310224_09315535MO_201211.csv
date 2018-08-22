@@ -1,0 +1,6 @@
+BATCH,,201211,B,6450.0000,
+INVOICE,IN,,09310224,,11/01/2012,420.0000,"Invoice-Private",,11/01/2012,11/10/2012,,09315535MO,-7152.5900,,,,,,,,,,
+TRANSACTION,3020,010305093,1,420.0000,420.00,"CR:Decrease Room a... J.Wilkins 201211: Wilkins, James",,,,,,,,,,,,,,,
+INVOICE,CM,,09310224,,11/01/2012,6030,"Invoice-Private",,11/01/2012,11/10/2012,,09315535MO,-7152.5900,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2640,2640,"CR:Resident Care -... J.Wilkins 201211: Wilkins, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3390,3390,"CR:Room and Board ... J.Wilkins 201211: Wilkins, James",,,,,,,,,,,,,,,

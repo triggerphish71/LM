@@ -1,0 +1,5 @@
+BATCH,,201202,B,3927.0000,
+INVOICE,IN,,18410185,,02/01/2012,476.0000,"Invoice-Private",,02/01/2012,02/10/2012,,18415185MO,-2975.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,4,119.0000,476.00,"Basic Service Fee - One Bedroom for Feb: Crump, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,18410185,,02/01/2012,3451,"Invoice-Private",,02/01/2012,02/10/2012,,18415185MO,-2975.0000,,,,,,,,,,
+TRANSACTION,3020,010313184,1,3451,3451,"CR:Basic Service F... M.Crump 201202: Crump, Mildred",,,,,,,,,,,,,,,

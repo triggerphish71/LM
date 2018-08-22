@@ -1,0 +1,5 @@
+BATCH,,201107,B,1488.0000,
+INVOICE,IN,,08810182,,07/01/2011,744.0000,"Invoice-Private",,07/01/2011,07/10/2011,,08814036MO,-1912.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,24.0000,744.00,"Credit for Limited Term Discount: Gall, Clebert",,,,,,,,,,,,,,,
+INVOICE,CM,,08810182,,07/01/2011,744,"Invoice-Private",,07/01/2011,07/10/2011,,08814036MO,-1912.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,31,24,744,"Limited Term Discount: Gall, Clebert",,,,,,,,,,,,,,,

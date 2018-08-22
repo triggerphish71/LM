@@ -1,0 +1,5 @@
+BATCH,,201111,B,1560.0000,
+INVOICE,IN,,15910196,,11/01/2011,780.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15914454MO,-494.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,30,26.0000,780.00,"Credit for Limited Term Discount: Fleshner, Harvey",,,,,,,,,,,,,,,
+INVOICE,CM,,15910196,,11/01/2011,780,"Invoice-Private",,11/01/2011,11/10/2011,,15914454MO,-494.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,30,26,780,"Limited Term Discount: Fleshner, Harvey",,,,,,,,,,,,,,,

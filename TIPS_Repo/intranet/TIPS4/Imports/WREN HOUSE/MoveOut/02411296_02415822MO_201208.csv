@@ -1,0 +1,7 @@
+BATCH,,201208,B,6750.0000,
+INVOICE,IN,,02411296,,08/01/2012,3685.0000,"Invoice-Private",,08/01/2012,08/10/2012,,02415822MO,620.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,1,1333.0000,1333.00,"CR:Limited Term Di... W.Beard 201208: Beard, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202024,24,98.0000,2352.00,"Basic Service Fee - Studio for Aug: Beard, William",,,,,,,,,,,,,,,
+INVOICE,CM,,02411296,,08/01/2012,3065,"Invoice-Private",,08/01/2012,08/10/2012,,02415822MO,620.0000,,,,,,,,,,
+TRANSACTION,3020,010202024,1,3038,3038,"CR:Basic Service F... W.Beard 201208: Beard, William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"CR:Monthly Cable... W.Beard 201208: Beard, William",,,,,,,,,,,,,,,

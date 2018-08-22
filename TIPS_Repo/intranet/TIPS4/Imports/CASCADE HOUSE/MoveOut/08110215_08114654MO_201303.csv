@@ -1,0 +1,5 @@
+BATCH,,201303,B,6829.9200,
+INVOICE,CM,,08110215,,03/01/2013,6829.92,"Invoice-Private",,03/01/2013,03/10/2013,,08114654MO,-6829.9200,,,,,,,,,,
+TRANSACTION,3020,010103081,1,1054,1054,"CR:Basic Service F... D.Watters 201303: Watters, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1261.7,1261.7,"CR:Resident Care -... D.Watters 201303: Watters, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,4514.22,4514.22,"CR:Resident Care L... D.Watters 201303: Watters, Doris",,,,,,,,,,,,,,,

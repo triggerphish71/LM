@@ -1,0 +1,7 @@
+BATCH,,201302,B,140.0000,
+INVOICE,IN,,50310295,,02/01/2013,70.0000,"Invoice-Private",,02/01/2013,02/10/2013,,50314663MO,-3175.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Hansford, Margaret Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35.0000,35.00,"Pendant Fee: Hansford, Margaret Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,50310295,,02/01/2013,70,"Invoice-Private",,02/01/2013,02/10/2013,,50314663MO,-3175.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Hansford, Margaret Helen",,,,,,,,,,,,,,,
+TRANSACTION,3130,010220503,1,35,35,"Credit for Pendant Fee: Hansford, Margaret Helen",,,,,,,,,,,,,,,

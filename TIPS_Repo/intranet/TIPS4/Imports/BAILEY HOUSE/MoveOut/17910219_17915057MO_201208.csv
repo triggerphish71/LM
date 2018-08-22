@@ -1,0 +1,6 @@
+BATCH,,201208,B,4454.0000,
+INVOICE,IN,,17910219,,08/01/2012,1912.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17915057MO,-630.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,682.0000,682.00,"CR:Limited Term Di... V.Cassard 201208: Cassard, Viola",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,15,82.0000,1230.00,"Basic Service Fee - Studio for Aug: Cassard, Viola",,,,,,,,,,,,,,,
+INVOICE,CM,,17910219,,08/01/2012,2542,"Invoice-Private",,08/01/2012,08/10/2012,,17915057MO,-630.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Basic Service F... V.Cassard 201208: Cassard, Viola",,,,,,,,,,,,,,,

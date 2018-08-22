@@ -1,0 +1,5 @@
+BATCH,,201304,B,4475.0000,
+INVOICE,IN,,14310210,,04/01/2013,4475.0000,"April_Rent-Mitchener. June",,04/01/2013,04/10/2013,,14314910,8674.0000,,,,,,,,,,
+TRANSACTION,3010,010309143,30,103.0000,3090,"Basic Service Fee - One Bedroom: Mitchener. June",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309143,30,45.0000,1350,"Resident Care - Level 3: Mitchener. June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35,"Monthly Cable: Mitchener. June",,,,,,,,,,,,,,,

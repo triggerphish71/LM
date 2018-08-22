@@ -1,0 +1,5 @@
+BATCH,,201303,B,1674.0000,
+INVOICE,IN,,09310065,,03/01/2013,837.0000,"Invoice-Private",,03/01/2013,03/10/2013,,09315697MO,-6632.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,31,27.0000,837.00,"Credit for Limited Term Discount: Zimmerman, Pearl",,,,,,,,,,,,,,,
+INVOICE,CM,,09310065,,03/01/2013,837,"Invoice-Private",,03/01/2013,03/10/2013,,09315697MO,-6632.0000,,,,,,,,,,
+TRANSACTION,3320,010305093,31,27,837,"Limited Term Discount: Zimmerman, Pearl",,,,,,,,,,,,,,,

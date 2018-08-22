@@ -1,0 +1,5 @@
+BATCH,,201112,B,2105.4800,
+INVOICE,IN,,01510205,,12/31/2011,2105.4800,"MoveIn-Wilson. Hannelor",,12/31/2011,12/31/2011,,01514136,5375.3600,,,,,,,,,,
+TRANSACTION,3010,010103015,1,84.0000,84,"H.Wilson: Basic Service Fee - Studio: Wilson. Hannelor",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,1,21.4800,21.48,"H.Wilson: Resident Care - Level 12: Wilson. Hannelor",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: Wilson. Hannelor",,,,,,,,,,,,,,,

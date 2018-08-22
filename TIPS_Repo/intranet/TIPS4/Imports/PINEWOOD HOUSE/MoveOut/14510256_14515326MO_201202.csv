@@ -1,0 +1,6 @@
+BATCH,,201202,B,3393.0000,
+INVOICE,IN,,14510256,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,14515326MO,-3762.0000,,,,,,,,,,
+TRANSACTION,3320,010308145,1,58.0000,58.00,"CR:Limited Term Di... L.Beasley 201202: Beasley, Lenwood",,,,,,,,,,,,,,,
+INVOICE,CM,,14510256,,02/01/2012,3335,"Invoice-Private",,02/01/2012,02/10/2012,,14515326MO,-3762.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2871,2871,"CR:Basic Service F... L.Beasley 201202: Beasley, Lenwood",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,464,464,"CR:Resident Care -... L.Beasley 201202: Beasley, Lenwood",,,,,,,,,,,,,,,

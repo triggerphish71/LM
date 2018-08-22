@@ -1,0 +1,5 @@
+BATCH,,201207,B,1426.0000,
+INVOICE,IN,,50110266,,07/01/2012,713.0000,"Invoice-Private",,07/01/2012,07/10/2012,,50114154MO,-2571.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,23.0000,713.00,"Credit for Limited Term Discount: Ghanta, Narayana",,,,,,,,,,,,,,,
+INVOICE,CM,,50110266,,07/01/2012,713,"Invoice-Private",,07/01/2012,07/10/2012,,50114154MO,-2571.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,31,23,713,"Limited Term Discount: Ghanta, Narayana",,,,,,,,,,,,,,,

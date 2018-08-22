@@ -1,0 +1,8 @@
+BATCH,,201201,B,7016.0000,
+INVOICE,IN,,21210176,,01/30/2012,3482.0000,"Invoice-Private",,01/30/2012,01/30/2012,,21212305MO,-3341.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,62.0000,62.00,"CR:Limited Term Di... D.Smith 201201: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3037,010208212,30,22.0000,660.00,"Private Care Rate Adjustments for Jan: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,30,92.0000,2760.00,"Studio Deluxe for Jan: Smith, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21210176,,01/30/2012,3534,"Invoice-Private",,01/30/2012,01/30/2012,,21212305MO,-3341.0000,,,,,,,,,,
+TRANSACTION,3037,010208212,1,682,682,"CR:Private Care Ra... D.Smith 201201: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2852,2852,"CR:Studio Deluxe... D.Smith 201201: Smith, David",,,,,,,,,,,,,,,

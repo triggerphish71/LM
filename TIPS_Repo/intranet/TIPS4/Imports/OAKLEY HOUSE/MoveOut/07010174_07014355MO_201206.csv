@@ -1,0 +1,7 @@
+BATCH,,201206,B,520.0000,
+INVOICE,IN,,07010174,,06/01/2012,260.0000,"Invoice-Private",,06/01/2012,06/10/2012,,07014355MO,-3324.3600,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20.00,"Monthly Cable: Lybarger, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305070,30,8.0000,240.00,"Credit for Limited Term Discount: Lybarger, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,07010174,,06/01/2012,260,"Invoice-Private",,06/01/2012,06/10/2012,,07014355MO,-3324.3600,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"Credit for Monthly Cable: Lybarger, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305070,30,8,240,"Limited Term Discount: Lybarger, Raymond",,,,,,,,,,,,,,,

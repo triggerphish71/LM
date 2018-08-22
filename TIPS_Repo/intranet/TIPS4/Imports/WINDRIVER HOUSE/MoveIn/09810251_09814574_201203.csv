@@ -1,0 +1,5 @@
+BATCH,,201203,B,5253.4800,
+INVOICE,IN,,09810251,,03/10/2012,5253.4800,"MoveIn-Nicholson. Richard",,03/10/2012,03/10/2012,,09814574,5253.4800,,,,,,,,,,
+TRANSACTION,3010,010103098,22,111.0000,2442,"Basic Service Fee - One Bedroom: Nicholson. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,22,82.3400,1811.48,"Resident Care - Level 46: Nicholson. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Nicholson. Richard",,,,,,,,,,,,,,,

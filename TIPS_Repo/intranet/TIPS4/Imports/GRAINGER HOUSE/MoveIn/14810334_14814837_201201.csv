@@ -1,0 +1,6 @@
+BATCH,,201201,B,2075.0000,
+INVOICE,IN,,14810334,,01/27/2012,2075.0000,"MoveIn-Yost. Sue",,01/27/2012,01/27/2012,,14814837,5266.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,5,91.0000,455,"Basic Service Fee - Studio: Yost. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,5,18.0000,90,"Resident Care - Level 1: Yost. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: Yost. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310148,1,1500.0000,1500,"New Resident Fee: Yost. Sue",,,,,,,,,,,,,,,

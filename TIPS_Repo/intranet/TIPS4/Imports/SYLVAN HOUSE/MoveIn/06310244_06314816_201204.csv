@@ -1,0 +1,6 @@
+BATCH,,201204,B,1945.0000,
+INVOICE,IN,,06310244,,04/27/2012,1945.0000,"MoveIn-Peterson. Margaret",,04/27/2012,04/27/2012,,06314816,5225.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,4,90.0000,360,"Basic Service Fee - Studio: Peterson. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,4,15.0000,60,"Resident Care - Level 1: Peterson. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Peterson. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,1500.0000,1500,"New Resident Fee: Peterson. Margaret",,,,,,,,,,,,,,,

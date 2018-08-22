@@ -1,0 +1,8 @@
+BATCH,,201106,B,5497.0000,
+INVOICE,IN,,05110161,,06/18/2011,2052.0000,"Invoice-Private",,06/18/2011,06/18/2011,,05113985MO,-4952.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,18,97.0000,1746.00,"Basic Service Fee - Studio for Jun: Dill, RB  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,18,17.0000,306.00,"Resident Care - Level 1 for Jun: Dill, RB  ",,,,,,,,,,,,,,,
+INVOICE,CM,,05110161,,06/18/2011,3445,"Invoice-Private",,06/18/2011,06/18/2011,,05113985MO,-4952.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,2910,2910,"CR:Basic Service F... R.Dill 201106: Dill, RB  ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25,25,"CR:Monthly Cable... R.Dill 201106: Dill, RB  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,510,510,"CR:Resident Care -... R.Dill 201106: Dill, RB  ",,,,,,,,,,,,,,,

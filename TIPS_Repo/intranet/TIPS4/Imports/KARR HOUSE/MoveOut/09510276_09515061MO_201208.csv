@@ -1,0 +1,7 @@
+BATCH,,201208,B,4626.8500,
+INVOICE,IN,,09510276,,08/06/2012,1128.5000,"Invoice-Private",,08/06/2012,08/06/2012,,09515061MO,-2369.8500,,,,,,,,,,
+TRANSACTION,3020,010103095,10,86.0000,860.00,"Basic Service Fee - Studio for Aug: Thomas, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,10,26.8500,268.50,"Resident Care - Level 15 for Aug: Thomas, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,09510276,,08/06/2012,3498.35,"Invoice-Private",,08/06/2012,08/06/2012,,09515061MO,-2369.8500,,,,,,,,,,
+TRANSACTION,3020,010103095,1,2666,2666,"CR:Basic Service F... R.Thomas 201208: Thomas, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103095,1,832.35,832.35,"CR:Resident Care -... R.Thomas 201208: Thomas, Robert",,,,,,,,,,,,,,,

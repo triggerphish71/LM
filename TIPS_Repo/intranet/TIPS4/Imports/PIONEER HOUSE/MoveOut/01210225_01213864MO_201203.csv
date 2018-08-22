@@ -1,0 +1,7 @@
+BATCH,,201203,B,182.0000,
+INVOICE,IN,,01210225,,03/01/2012,91.0000,"Invoice-Private",,03/01/2012,03/10/2012,,01213864MO,-56.0000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29.00,"Monthly Cable: Stecker, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103012,31,2.0000,62.00,"Credit for Limited Term Discount: Stecker, Dan",,,,,,,,,,,,,,,
+INVOICE,CM,,01210225,,03/01/2012,91,"Invoice-Private",,03/01/2012,03/10/2012,,01213864MO,-56.0000,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"Credit for Monthly Cable: Stecker, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3320,010103012,31,2,62,"Limited Term Discount: Stecker, Dan",,,,,,,,,,,,,,,

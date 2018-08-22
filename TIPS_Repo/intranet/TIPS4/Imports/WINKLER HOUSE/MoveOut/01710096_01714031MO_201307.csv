@@ -1,0 +1,5 @@
+BATCH,,201307,B,54.0000,
+INVOICE,IN,,01710096,,07/01/2013,27.0000,"Invoice-Private",,07/01/2013,07/10/2013,,01714031MO,-3438.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27.0000,27.00,"Monthly Cable: Akins, Gettis",,,,,,,,,,,,,,,
+INVOICE,CM,,01710096,,07/01/2013,27,"Invoice-Private",,07/01/2013,07/10/2013,,01714031MO,-3438.0000,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"Credit for Monthly Cable: Akins, Gettis",,,,,,,,,,,,,,,

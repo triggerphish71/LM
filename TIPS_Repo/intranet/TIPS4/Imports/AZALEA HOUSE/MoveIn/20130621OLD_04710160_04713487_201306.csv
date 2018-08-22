@@ -1,0 +1,5 @@
+BATCH,,201306,B,2490.0000,
+INVOICE,IN,,04710160,,06/21/2013,2490.0000,"MoveIn-Richardson. Charles, E",,06/21/2013,06/21/2013,,04713487,7109.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,10,96.0000,960,"Basic Service Fee - Studio         : Richardson. Charles, E",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,10,53.0000,530,"Resident Care - Level 4: Richardson. Charles, E",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Richardson. Charles, E",,,,,,,,,,,,,,,

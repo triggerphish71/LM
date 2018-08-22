@@ -1,0 +1,5 @@
+BATCH,,201308,B,4534.0000,
+INVOICE,IN,,07210204,,08/01/2013,4534.0000,"MoveIn-Fox. Don",,08/01/2013,08/01/2013,,07214500,4534.0000,,,,,,,,,,
+TRANSACTION,3010,010305072,31,96.0000,2976,"Basic Service Fee - Studio: Fox. Don",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305072,31,18.0000,558,"Resident Care - Level 1: Fox. Don",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305072,1,1000.0000,1000,"New Resident Fee: Fox. Don",,,,,,,,,,,,,,,

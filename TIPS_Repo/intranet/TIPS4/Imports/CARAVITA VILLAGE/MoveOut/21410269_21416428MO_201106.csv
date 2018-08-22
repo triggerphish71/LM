@@ -1,0 +1,7 @@
+BATCH,,201106,B,6026.0000,
+INVOICE,IN,,21410269,,06/15/2011,2096.0000,"Invoice-Private",,06/15/2011,06/15/2011,,21416428MO,-5895.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,16,44.0000,704.00,"Resident Care - Level 4 for Jun: McDonald, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,16,87.0000,1392.00,"Studio AL B for Jun: McDonald, John",,,,,,,,,,,,,,,
+INVOICE,CM,,21410269,,06/15/2011,3930,"Invoice-Private",,06/15/2011,06/15/2011,,21416428MO,-5895.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,1320,1320,"CR:Resident Care -... J.McDonald 201106: McDonald, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2610,2610,"CR:Studio AL B... J.McDonald 201106: McDonald, John",,,,,,,,,,,,,,,

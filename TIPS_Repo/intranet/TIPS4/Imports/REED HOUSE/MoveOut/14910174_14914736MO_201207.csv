@@ -1,0 +1,8 @@
+BATCH,,201207,B,5658.0000,
+INVOICE,IN,,14910174,,07/11/2012,1474.0000,"Invoice-Private",,07/11/2012,07/11/2012,,14914736MO,-2710.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,11,100.0000,1100.00,"Basic Service Fee - Studio for Jul: Dettbarn, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,11,34.0000,374.00,"Resident Care - Level 2 for Jul: Dettbarn, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,14910174,,07/11/2012,4184,"Invoice-Private",,07/11/2012,07/11/2012,,14914736MO,-2710.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Basic Service F... D.Dettbarn 201207: Dettbarn, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... D.Dettbarn 201207: Dettbarn, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1054,1054,"CR:Resident Care -... D.Dettbarn 201207: Dettbarn, Dorothy",,,,,,,,,,,,,,,

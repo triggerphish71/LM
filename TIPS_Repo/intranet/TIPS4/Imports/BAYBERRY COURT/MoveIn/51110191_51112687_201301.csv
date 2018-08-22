@@ -1,0 +1,5 @@
+BATCH,,201301,B,5282.0000,
+INVOICE,IN,,51110191,,01/01/2013,5282.0000,"MoveIn-Lappa. Norma",,01/01/2013,01/01/2013,,51112687,5282.0000,,,,,,,,,,
+TRANSACTION,3010,010310511,31,105.0000,3255,"Basic Service Fee - Studio: Lappa. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27.0000,27,"Monthly Cable: Lappa. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310511,1,2000.0000,2000,"New Resident Fee: Lappa. Norma",,,,,,,,,,,,,,,

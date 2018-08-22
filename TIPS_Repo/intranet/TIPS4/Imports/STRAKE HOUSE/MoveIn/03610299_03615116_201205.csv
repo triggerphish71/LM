@@ -1,0 +1,6 @@
+BATCH,,201205,B,4040.0000,
+INVOICE,IN,,03610299,,05/09/2012,4040.0000,"MoveIn-Pruden. Alice",,05/09/2012,05/09/2012,,03615116,4040.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,23,101.0000,2323,"A.Pruden: Basic Service Fee - Studio: Pruden. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,23,30.0000,690,"A.Pruden: Resident Care - Level 2: Pruden. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Pruden. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1000.0000,1000,"New Resident Fee: Pruden. Alice",,,,,,,,,,,,,,,

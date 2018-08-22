@@ -1,0 +1,6 @@
+BATCH,,201108,B,3092.4000,
+INVOICE,IN,,05310222,,08/23/2011,3092.4000,"MoveIn-Brookshire. Georgia",,08/23/2011,08/23/2011,,05314230,6675.4000,,,,,,,,,,
+TRANSACTION,3010,010101053,9,88.0000,792,"Basic Service Fee - Studio         : Brookshire. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,9,30.6000,275.4,"Resident Care - Level 18: Brookshire. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: Brookshire. Georgia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: Brookshire. Georgia",,,,,,,,,,,,,,,

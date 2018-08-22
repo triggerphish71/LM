@@ -1,0 +1,7 @@
+BATCH,,201307,B,4932.0000,
+INVOICE,IN,,15710198,,07/05/2013,685.0000,"Invoice-Private",,07/05/2013,07/05/2013,,15715039MO,-3562.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,5,91.0000,455.00,"Basic Service Fee - Studio for Jul: Waikel, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,5,46.0000,230.00,"Resident Care - Level 3 for Jul: Waikel, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,15710198,,07/05/2013,4247,"Invoice-Private",,07/05/2013,07/05/2013,,15715039MO,-3562.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2821,2821,"CR:Basic Service F... H.Waikel 201307: Waikel, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1426,1426,"CR:Resident Care -... H.Waikel 201307: Waikel, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,342.0000,
+INVOICE,IN,,16510318,,09/01/2012,171.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16514384MO,-7323.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Conlon, Juleanne",,,,,,,,,,,,,,,
+TRANSACTION,3210,010308165,12,12.0000,144.00,"Personal Services: Conlon, Juleanne",,,,,,,,,,,,,,,
+INVOICE,CM,,16510318,,09/01/2012,171,"Invoice-Private",,09/01/2012,09/10/2012,,16514384MO,-7323.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Conlon, Juleanne",,,,,,,,,,,,,,,
+TRANSACTION,3210,010308165,12,12,144,"Credit for Personal Services: Conlon, Juleanne",,,,,,,,,,,,,,,

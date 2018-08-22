@@ -1,0 +1,5 @@
+BATCH,,201111,B,2785.0000,
+INVOICE,IN,,10810253,,11/16/2011,2785.0000,"MoveIn-Haynes. John",,11/16/2011,11/16/2011,,10814657,6474.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,15,103.0000,1545,"Basic Service Fee - One Bedroom: Haynes. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308108,15,16.0000,240,"Resident Care - Level 1: Haynes. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Haynes. John",,,,,,,,,,,,,,,

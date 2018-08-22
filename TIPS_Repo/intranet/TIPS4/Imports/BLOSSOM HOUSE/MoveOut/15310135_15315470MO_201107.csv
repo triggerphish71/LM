@@ -1,0 +1,5 @@
+BATCH,,201107,B,54.0000,
+INVOICE,IN,,15310135,,07/01/2011,27.0000,"Invoice-Private",,07/01/2011,07/10/2011,,15315470MO,-5245.2000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: Dillman, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,15310135,,07/01/2011,27,"Invoice-Private",,07/01/2011,07/10/2011,,15315470MO,-5245.2000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: Dillman, Beverly",,,,,,,,,,,,,,,

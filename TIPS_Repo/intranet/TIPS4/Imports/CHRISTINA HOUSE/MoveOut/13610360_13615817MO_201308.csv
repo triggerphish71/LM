@@ -1,0 +1,5 @@
+BATCH,,201308,B,70.0000,
+INVOICE,IN,,13610360,,08/01/2013,35.0000,"Invoice-Private",,08/01/2013,08/10/2013,,13615817MO,-2035.0000,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35.0000,35.00,"Monthly Cable: Richardson, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,13610360,,08/01/2013,35,"Invoice-Private",,08/01/2013,08/10/2013,,13615817MO,-2035.0000,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"Credit for Monthly Cable: Richardson, Barbara",,,,,,,,,,,,,,,

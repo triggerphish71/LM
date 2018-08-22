@@ -1,0 +1,7 @@
+BATCH,,201305,B,2897.4000,
+INVOICE,IN,,00710219,,05/01/2013,856.0500,"Invoice-Private",,05/01/2013,05/10/2013,,00713685MO,-1185.3000,,,,,,,,,,
+TRANSACTION,3020,010101007,13,64.0000,832.00,"Basic Service Fee - Studio for May: Trierweiler, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,13,1.8500,24.05,"Resident Care - Level 1 for May: Trierweiler, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,00710219,,05/01/2013,2041.35,"Invoice-Private",,05/01/2013,05/10/2013,,00713685MO,-1185.3000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,1984,1984,"CR:Basic Service F... M.Trierweiler 201305: Trierweiler, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,57.35,57.35,"CR:Resident Care -... M.Trierweiler 201305: Trierweiler, Maxine",,,,,,,,,,,,,,,

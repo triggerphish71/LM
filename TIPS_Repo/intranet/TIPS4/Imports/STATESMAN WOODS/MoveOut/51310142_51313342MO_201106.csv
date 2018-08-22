@@ -1,0 +1,8 @@
+BATCH,,201106,B,5692.0000,
+INVOICE,IN,,51310142,,06/01/2011,412.0000,"Invoice-Private",,06/01/2011,06/01/2011,,51313342MO,-4868.0000,,,,,,,,,,
+TRANSACTION,3320,010310513,1,60.0000,60.00,"CR:Limited Term Di... D.Sheppard 201106: Sheppard, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,2,113.0000,226.00,"Basic Service Fee - Studio Deluxe for Jun: Sheppard, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,2,63.0000,126.00,"Resident Care - Level 5 for Jun: Sheppard, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,51310142,,06/01/2011,5280,"Invoice-Private",,06/01/2011,06/01/2011,,51313342MO,-4868.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3390,3390,"CR:Basic Service F... D.Sheppard 201106: Sheppard, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1890,1890,"CR:Resident Care -... D.Sheppard 201106: Sheppard, Dorothy",,,,,,,,,,,,,,,

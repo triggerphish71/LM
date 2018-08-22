@@ -1,0 +1,8 @@
+BATCH,,201202,B,7860.0000,
+INVOICE,IN,,53010180,,02/06/2012,2890.0000,"Invoice-Private",,02/06/2012,02/06/2012,,53015907MO,-7390.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,17,126.0000,2142.00,"Basic Service Fee - Two Bedroom Del for Feb: Edmunds, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,17,44.0000,748.00,"Resident Care - Level 2 for Feb: Edmunds, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,53010180,,02/06/2012,4970,"Invoice-Private",,02/06/2012,02/06/2012,,53015907MO,-7390.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3654,3654,"CR:Basic Service F... J.Edmunds 201202: Edmunds, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... J.Edmunds 201202: Edmunds, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1276,1276,"CR:Resident Care -... J.Edmunds 201202: Edmunds, Jean",,,,,,,,,,,,,,,

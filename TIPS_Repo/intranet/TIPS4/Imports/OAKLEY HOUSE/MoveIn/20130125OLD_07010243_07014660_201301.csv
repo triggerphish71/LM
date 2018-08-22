@@ -1,0 +1,6 @@
+BATCH,,201301,B,1755.0000,
+INVOICE,IN,,07010243,,01/25/2013,1755.0000,"MoveIn-Harsh. Maxine",,01/25/2013,01/25/2013,,07014660,4715.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,7,89.0000,623,"Basic Service Fee - Studio: Harsh. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305070,7,16.0000,112,"Resident Care - Level 1: Harsh. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Harsh. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1000.0000,1000,"New Resident Fee: Harsh. Maxine",,,,,,,,,,,,,,,

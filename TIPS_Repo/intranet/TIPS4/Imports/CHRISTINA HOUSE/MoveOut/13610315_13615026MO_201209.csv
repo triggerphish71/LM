@@ -1,0 +1,7 @@
+BATCH,,201209,B,2695.0000,
+INVOICE,IN,,13610315,,09/01/2012,710.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13615026MO,-1275.0000,,,,,,,,,,
+TRANSACTION,3320,010309136,1,60.0000,60.00,"CR:Limited Term Di... G.Bradshaw 201209: Bradshaw, Glynn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309136,10,65.0000,650.00,"Basic Service Fee - Studio for Sep: Bradshaw, Glynn",,,,,,,,,,,,,,,
+INVOICE,CM,,13610315,,09/01/2012,1985,"Invoice-Private",,09/01/2012,09/10/2012,,13615026MO,-1275.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1950,1950,"CR:Basic Service F... G.Bradshaw 201209: Bradshaw, Glynn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309136,1,35,35,"CR:Monthly Cable... G.Bradshaw 201209: Bradshaw, Glynn",,,,,,,,,,,,,,,

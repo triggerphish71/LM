@@ -1,0 +1,7 @@
+BATCH,,201305,B,5712.0000,
+INVOICE,IN,,03310381,,05/20/2013,2240.0000,"Invoice-Private",,05/20/2013,05/20/2013,,03317253MO,-4592.0000,,,,,,,,,,
+TRANSACTION,3027,010202033,20,17.0000,340.00,"Resident Care - Level 1 for May: Maunder, Marval",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,20,95.0000,1900.00,"Room and Board - Studio for May: Maunder, Marval",,,,,,,,,,,,,,,
+INVOICE,CM,,03310381,,05/20/2013,3472,"Invoice-Private",,05/20/2013,05/20/2013,,03317253MO,-4592.0000,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... M.Maunder 201305: Maunder, Marval",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2945,2945,"CR:Room and Board ... M.Maunder 201305: Maunder, Marval",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201105,B,8218.0000,
+INVOICE,IN,,11810142,,05/27/2011,3807.0000,"Invoice-Private",,05/27/2011,05/27/2011,,11814798MO,-4874.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,27,122.0000,3294.00,"Basic Service Fee - One Bedroom for May: Mikeska, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,27,19.0000,513.00,"Resident Care - Level 1 for May: Mikeska, Anna Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,11810142,,05/27/2011,4411,"Invoice-Private",,05/27/2011,05/27/2011,,11814798MO,-4874.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3782,3782,"CR:Basic Service F... A.Mikeska 201105: Mikeska, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... A.Mikeska 201105: Mikeska, Anna Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,589,589,"CR:Resident Care -... A.Mikeska 201105: Mikeska, Anna Marie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201210,B,4867.0000,
+INVOICE,IN,,10710238,,10/01/2012,496.0000,"Invoice-Private",,10/01/2012,10/10/2012,,10716385MO,-6497.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,496.0000,496.00,"CR:Limited Term Di... V.Burdsall 201210: Burdsall, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,10710238,,10/01/2012,4371,"Invoice-Private",,10/01/2012,10/10/2012,,10716385MO,-6497.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... V.Burdsall 201210: Burdsall, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1333,1333,"CR:Resident Care -... V.Burdsall 201210: Burdsall, Virginia",,,,,,,,,,,,,,,

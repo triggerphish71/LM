@@ -1,0 +1,5 @@
+BATCH,,201211,B,5220.0000,
+INVOICE,IN,,03310363,,11/15/2012,1740.0000,"Invoice-Private",,11/15/2012,11/15/2012,,03316818MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,15,116.0000,1740.00,"Basic Service Fee - One Bedroom for Nov: Stranathan, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,03310363,,11/15/2012,3480,"Invoice-Private",,11/15/2012,11/15/2012,,03316818MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,3480,3480,"CR:Basic Service F... R.Stranathan 201211: Stranathan, Robert",,,,,,,,,,,,,,,

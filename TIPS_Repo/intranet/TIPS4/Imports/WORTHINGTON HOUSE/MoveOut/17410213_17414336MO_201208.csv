@@ -1,0 +1,5 @@
+BATCH,,201208,B,248.0000,
+INVOICE,IN,,17410213,,08/01/2012,124.0000,"Invoice-Private",,08/01/2012,08/10/2012,,17414336MO,-6938.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,4.0000,124.00,"Credit for Limited Term Discount: Thompson, R",,,,,,,,,,,,,,,
+INVOICE,CM,,17410213,,08/01/2012,124,"Invoice-Private",,08/01/2012,08/10/2012,,17414336MO,-6938.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,31,4,124,"Limited Term Discount: Thompson, R",,,,,,,,,,,,,,,

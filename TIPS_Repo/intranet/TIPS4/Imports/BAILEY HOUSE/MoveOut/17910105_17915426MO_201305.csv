@@ -1,0 +1,7 @@
+BATCH,,201305,B,7000.0000,
+INVOICE,IN,,17910105,,05/25/2013,3125.0000,"Invoice-Private",,05/25/2013,05/25/2013,,17915426MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,25,97.0000,2425.00,"Basic Service Fee - One Bedroom for May: Dupuy, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,25,28.0000,700.00,"Resident Care - Level 2 for May: Dupuy, Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,17910105,,05/25/2013,3875,"Invoice-Private",,05/25/2013,05/25/2013,,17915426MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,3007,3007,"CR:Basic Service F... J.Dupuy 201305: Dupuy, Joyce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,868,868,"CR:Resident Care -... J.Dupuy 201305: Dupuy, Joyce",,,,,,,,,,,,,,,

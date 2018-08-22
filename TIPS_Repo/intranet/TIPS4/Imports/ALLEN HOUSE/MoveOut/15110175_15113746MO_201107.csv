@@ -1,0 +1,6 @@
+BATCH,,201107,B,3775.0000,
+INVOICE,IN,,15110175,,07/10/2011,1105.0000,"Invoice-Private",,07/10/2011,07/10/2011,,15113746MO,-1565.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,13,85.0000,1105.00,"Basic Service Fee - Studio for Jul: Eblen, Beulah",,,,,,,,,,,,,,,
+INVOICE,CM,,15110175,,07/10/2011,2670,"Invoice-Private",,07/10/2011,07/10/2011,,15113746MO,-1565.0000,,,,,,,,,,
+TRANSACTION,3020,010212151,1,2635,2635,"CR:Basic Service F... B.Eblen 201107: Eblen, Beulah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"CR:Monthly Cable... B.Eblen 201107: Eblen, Beulah",,,,,,,,,,,,,,,

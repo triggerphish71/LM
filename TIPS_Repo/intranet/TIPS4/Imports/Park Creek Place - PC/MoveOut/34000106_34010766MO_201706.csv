@@ -1,0 +1,7 @@
+BATCH,,201706,B,3978.0000,
+INVOICE,IN,,34000106,,06/06/2017,663.0000,"Invoice-Private",,06/06/2017,06/06/2017,,34010766MO,-2651.9900,,,,,,,,,,
+TRANSACTION,3020,070010340,6,67.5000,405.00,"Companion Studio Deluxe  for Jun: Conwell, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,070010340,6,43.0000,258.00,"Resident Care - Level 3  for Jun: Conwell, James",,,,,,,,,,,,,,,
+INVOICE,CM,,34000106,,06/06/2017,3315,"Invoice-Private",,06/06/2017,06/06/2017,,34010766MO,-2651.9900,,,,,,,,,,
+TRANSACTION,3020,070010340,1,2025,2025,"CR:Companion Studi... J.Conwell 201706: Conwell, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,070010340,1,1290,1290,"CR:Resident Care -... J.Conwell 201706: Conwell, James",,,,,,,,,,,,,,,

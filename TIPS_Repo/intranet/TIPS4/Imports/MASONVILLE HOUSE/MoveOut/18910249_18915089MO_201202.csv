@@ -1,0 +1,5 @@
+BATCH,,201202,B,3422.0000,
+INVOICE,CM,,18910249,,02/01/2012,3422,"Invoice-Private",,02/01/2012,02/10/2012,,18915089MO,-3422.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,812,812,"CR:Basic Service F... R.Medendorp 201202: Medendorp, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,290,290,"CR:CC Meals... R.Medendorp 201202: Medendorp, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,2320,2320,"CR:Resident Care -... R.Medendorp 201202: Medendorp, Ruth",,,,,,,,,,,,,,,

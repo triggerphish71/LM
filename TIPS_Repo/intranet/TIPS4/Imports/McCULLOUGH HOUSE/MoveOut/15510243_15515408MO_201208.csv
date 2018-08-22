@@ -1,0 +1,8 @@
+BATCH,,201208,B,6325.0000,
+INVOICE,IN,,15510243,,08/17/2012,3045.0000,"Invoice-Private",,08/17/2012,08/17/2012,,15515408MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3027,010310155,29,16.0000,464.00,"Resident Care - Level 1 for Aug: Reighard, Stanford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310155,29,89.0000,2581.00,"Room and Board - Studio for Aug: Reighard, Stanford",,,,,,,,,,,,,,,
+INVOICE,CM,,15510243,,08/17/2012,3280,"Invoice-Private",,08/17/2012,08/17/2012,,15515408MO,-3410.0000,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... S.Reighard 201208: Reighard, Stanford",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,496,496,"CR:Resident Care -... S.Reighard 201208: Reighard, Stanford",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Room and Board ... S.Reighard 201208: Reighard, Stanford",,,,,,,,,,,,,,,

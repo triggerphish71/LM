@@ -1,0 +1,8 @@
+BATCH,,201210,B,4704.0000,
+INVOICE,IN,,50110226,,10/10/2012,1140.0000,"Invoice-Private",,10/10/2012,10/10/2012,,50114332MO,-2424.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,10,88.0000,880.00,"Basic Service Fee - Studio for Oct: Walker, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,10,26.0000,260.00,"Resident Care - Level 2 for Oct: Walker, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,50110226,,10/10/2012,3564,"Invoice-Private",,10/10/2012,10/10/2012,,50114332MO,-2424.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... C.Walker 201210: Walker, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... C.Walker 201210: Walker, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209501,1,806,806,"CR:Resident Care -... C.Walker 201210: Walker, Catherine",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201209,B,1840.0000,
+INVOICE,IN,,50510122,,09/28/2012,1840.0000,"MoveIn-Rock. David",,09/28/2012,09/28/2012,,50511754,5120.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,3,90.0000,270,"Basic Service Fee - Studio: Rock. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,3,15.0000,45,"Resident Care - Level 1: Rock. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Rock. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Rock. David",,,,,,,,,,,,,,,

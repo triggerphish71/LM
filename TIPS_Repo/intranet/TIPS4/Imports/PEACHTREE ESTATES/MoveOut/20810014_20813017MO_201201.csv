@@ -1,0 +1,7 @@
+BATCH,,201201,B,5795.0000,
+INVOICE,IN,,20810014,,01/21/2012,2850.0000,"Invoice-Private",,01/21/2012,01/21/2012,,20813017MO,-2687.6000,,,,,,,,,,
+TRANSACTION,3027,010216208,30,12.0000,360.00,"Resident Care - Level 1 for Jan: Cline, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,30,83.0000,2490.00,"Studio Deluxe for Jan: Cline, Lawrence",,,,,,,,,,,,,,,
+INVOICE,CM,,20810014,,01/21/2012,2945,"Invoice-Private",,01/21/2012,01/21/2012,,20813017MO,-2687.6000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,372,372,"CR:Resident Care -... L.Cline 201201: Cline, Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2573,2573,"CR:Studio Deluxe... L.Cline 201201: Cline, Lawrence",,,,,,,,,,,,,,,

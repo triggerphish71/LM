@@ -1,0 +1,8 @@
+BATCH,,201105,B,4737.0000,
+INVOICE,IN,,16010246,,05/07/2011,868.0000,"Invoice-Private",,05/07/2011,05/07/2011,,16014930MO,-3001.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,7,96.0000,672.00,"Basic Service Fee - Studio for May: Clark, John ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,7,28.0000,196.00,"Resident Care - Level 2 for May: Clark, John ",,,,,,,,,,,,,,,
+INVOICE,CM,,16010246,,05/07/2011,3869,"Invoice-Private",,05/07/2011,05/07/2011,,16014930MO,-3001.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,2976,2976,"CR:Basic Service F... J.Clark 201105: Clark, John ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... J.Clark 201105: Clark, John ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,868,868,"CR:Resident Care -... J.Clark 201105: Clark, John ",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,3688.0000,
+INVOICE,IN,,10810259,,12/31/2011,1084.0000,"MoveIn-Paysinger. Robert",,12/31/2011,12/31/2011,,10814695,3688.0000,,,,,,,,,,
+TRANSACTION,3014,010308108,1,84.0000,84,"Basic Service Fee - Studio         : Paysinger. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308108,1,1000.0000,1000,"New Resident Fee: Paysinger. Robert",,,,,,,,,,,,,,,
+INVOICE,IN,,10810259,,01/01/2012,2604.0000,"January_Rent-Paysinger. Robert",,01/01/2012,01/10/2012,,10814695,3688.0000,,,,,,,,,,
+TRANSACTION,3010,010308108,31,84.0000,2604,"Basic Service Fee - Studio         : Paysinger. Robert",,,,,,,,,,,,,,,

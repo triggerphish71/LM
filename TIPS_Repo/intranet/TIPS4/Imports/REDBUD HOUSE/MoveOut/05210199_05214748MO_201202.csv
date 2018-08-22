@@ -1,0 +1,7 @@
+BATCH,,201202,B,3275.0000,
+INVOICE,IN,,05210199,,02/01/2012,377.0000,"Invoice-Private",,02/01/2012,02/10/2012,,05214748MO,-2521.0000,,,,,,,,,,
+TRANSACTION,3320,010202052,1,377.0000,377.00,"CR:Limited Term Di... R.Mounger 201202: Mounger, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,05210199,,02/01/2012,2898,"Invoice-Private",,02/01/2012,02/10/2012,,05214748MO,-2521.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2378,2378,"CR:Basic Service F... R.Mounger 201202: Mounger, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... R.Mounger 201202: Mounger, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,493,493,"CR:Resident Care -... R.Mounger 201202: Mounger, Ruby",,,,,,,,,,,,,,,

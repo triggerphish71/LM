@@ -1,0 +1,5 @@
+BATCH,,201106,B,54.0000,
+INVOICE,IN,,04210151,,06/01/2011,27.0000,"Invoice-Private",,06/01/2011,06/10/2011,,04213692MO,-2965.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27.00,"Monthly Cable: Wattenbarger, Ima",,,,,,,,,,,,,,,
+INVOICE,CM,,04210151,,06/01/2011,27,"Invoice-Private",,06/01/2011,06/10/2011,,04213692MO,-2965.0000,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"Credit for Monthly Cable: Wattenbarger, Ima",,,,,,,,,,,,,,,

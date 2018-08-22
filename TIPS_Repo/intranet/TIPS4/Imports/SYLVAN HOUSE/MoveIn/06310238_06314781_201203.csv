@@ -1,0 +1,6 @@
+BATCH,,201203,B,5710.0000,
+INVOICE,IN,,06310238,,03/01/2012,5710.0000,"MoveIn-Lusco. David",,03/01/2012,03/01/2012,,06314781,5710.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,31,90.0000,2790,"Basic Service Fee - Studio: Lusco. David",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,31,45.0000,1395,"Resident Care - Level 3: Lusco. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Lusco. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,1500.0000,1500,"New Resident Fee: Lusco. David",,,,,,,,,,,,,,,

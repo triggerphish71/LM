@@ -1,0 +1,6 @@
+BATCH,,201805,B,2070.0000,
+INVOICE,IN,,10810361,,05/01/2018,2035.0000,"Invoice-Private",,05/01/2018,05/10/2018,,10818039MO,-1555.0000,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35.0000,35.00,"Monthly Cable: Welton, Cora",,,,,,,,,,,,,,,
+TRANSACTION,3216,010008108,1,2000.0000,2000.00,"Deferred NRF Unpaid Balance: Welton, Cora",,,,,,,,,,,,,,,
+INVOICE,CM,,10810361,,05/01/2018,35,"Invoice-Private",,05/01/2018,05/10/2018,,10818039MO,-1555.0000,,,,,,,,,,
+TRANSACTION,3260,010008108,1,35,35,"Credit for Monthly Cable: Welton, Cora",,,,,,,,,,,,,,,

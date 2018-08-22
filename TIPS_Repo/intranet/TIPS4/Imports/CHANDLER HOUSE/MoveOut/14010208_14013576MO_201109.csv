@@ -1,0 +1,8 @@
+BATCH,,201109,B,6328.0000,
+INVOICE,IN,,14010208,,09/17/2011,2278.0000,"Invoice-Private",,09/17/2011,09/17/2011,,14013576MO,-5956.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,17,101.0000,1717.00,"Basic Service Fee - One Bedroom for Sep: Peck, Robert (Kenny)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,17,33.0000,561.00,"Resident Care - Level 2 for Sep: Peck, Robert (Kenny)",,,,,,,,,,,,,,,
+INVOICE,CM,,14010208,,09/17/2011,4050,"Invoice-Private",,09/17/2011,09/17/2011,,14013576MO,-5956.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,3030,3030,"CR:Basic Service F... R.Peck 201109: Peck, Robert (Kenny)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... R.Peck 201109: Peck, Robert (Kenny)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,990,990,"CR:Resident Care -... R.Peck 201109: Peck, Robert (Kenny)",,,,,,,,,,,,,,,

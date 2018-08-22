@@ -1,0 +1,7 @@
+BATCH,,201106,B,3864.0000,
+INVOICE,IN,,19810133,,06/16/2011,1344.0000,"Invoice-Private",,06/16/2011,06/16/2011,,19816158MO,-1176.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,16,13.0000,208.00,"Basic Service Fee Second Resident for Jun: Recker, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,16,71.0000,1136.00,"Increase Room and Board for Jun: Recker, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,19810133,,06/16/2011,2520,"Invoice-Private",,06/16/2011,06/16/2011,,19816158MO,-1176.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,390,390,"CR:Basic Service F... M.Recker 201106: Recker, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2130,2130,"CR:Increase Room a... M.Recker 201106: Recker, Mildred",,,,,,,,,,,,,,,

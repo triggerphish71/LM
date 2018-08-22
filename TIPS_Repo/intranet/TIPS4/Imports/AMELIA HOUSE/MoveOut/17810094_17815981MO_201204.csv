@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,17810094,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,17815981MO,-4258.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,30,2.0000,60.00,"Credit for Limited Term Discount: Reimer, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,17810094,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,17815981MO,-4258.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,30,2,60,"Limited Term Discount: Reimer, Hazel",,,,,,,,,,,,,,,

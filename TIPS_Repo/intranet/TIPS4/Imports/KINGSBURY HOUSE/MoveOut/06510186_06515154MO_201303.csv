@@ -1,0 +1,5 @@
+BATCH,,201303,B,3111.0000,
+INVOICE,IN,,06510186,,03/30/2013,1530.0000,"Invoice-Private",,03/30/2013,03/30/2013,,06515154MO,-1581.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,30,51.0000,1530.00,"Basic Service Fee - Studio for Mar: Sharp, Ruthanna",,,,,,,,,,,,,,,
+INVOICE,CM,,06510186,,03/30/2013,1581,"Invoice-Private",,03/30/2013,03/30/2013,,06515154MO,-1581.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1581,1581,"CR:Basic Service F... R.Sharp 201303: Sharp, Ruthanna",,,,,,,,,,,,,,,

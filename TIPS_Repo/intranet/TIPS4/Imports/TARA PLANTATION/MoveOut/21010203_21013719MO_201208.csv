@@ -1,0 +1,6 @@
+BATCH,,201208,B,5270.0000,
+INVOICE,IN,,21010203,,08/01/2012,620.0000,"Invoice-Private",,08/01/2012,08/10/2012,,21013719MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,620.0000,620.00,"CR:Limited Term Di... A.Varalla 201208: Varalla, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,21010203,,08/01/2012,4650,"Invoice-Private",,08/01/2012,08/10/2012,,21013719MO,-4030.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,961,961,"CR:Resident Care -... A.Varalla 201208: Varalla, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,3689,3689,"CR:Two Bedroom... A.Varalla 201208: Varalla, Ann",,,,,,,,,,,,,,,

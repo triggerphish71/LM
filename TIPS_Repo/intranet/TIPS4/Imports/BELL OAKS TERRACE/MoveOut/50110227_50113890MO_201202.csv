@@ -1,0 +1,5 @@
+BATCH,,201202,B,70.0000,
+INVOICE,IN,,50110227,,02/01/2012,35.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50113890MO,-2606.0000,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35.0000,35.00,"Pendant Fee: Rushmeier, Georgia",,,,,,,,,,,,,,,
+INVOICE,CM,,50110227,,02/01/2012,35,"Invoice-Private",,02/01/2012,02/10/2012,,50113890MO,-2606.0000,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"Credit for Pendant Fee: Rushmeier, Georgia",,,,,,,,,,,,,,,

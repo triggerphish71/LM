@@ -1,0 +1,7 @@
+BATCH,,201201,B,794.0000,
+INVOICE,IN,,07810168,,01/01/2012,397.0000,"Invoice-Private",,01/01/2012,01/10/2012,,07814412MO,-3271.0000,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25.00,"Monthly Cable: McFarland, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104078,31,12.0000,372.00,"Credit for Limited Term Discount: McFarland, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07810168,,01/01/2012,397,"Invoice-Private",,01/01/2012,01/10/2012,,07814412MO,-3271.0000,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"Credit for Monthly Cable: McFarland, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3320,010104078,31,12,372,"Limited Term Discount: McFarland, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,2240.0000,
+INVOICE,IN,,14210179,,10/01/2011,1120.0000,"Invoice-Private",,10/01/2011,10/10/2011,,14213638MO,-1535.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Back, Fion",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,31,35.0000,1085.00,"Credit for Limited Term Discount: Back, Fion",,,,,,,,,,,,,,,
+INVOICE,CM,,14210179,,10/01/2011,1120,"Invoice-Private",,10/01/2011,10/10/2011,,14213638MO,-1535.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Back, Fion",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309142,31,35,1085,"Limited Term Discount: Back, Fion",,,,,,,,,,,,,,,

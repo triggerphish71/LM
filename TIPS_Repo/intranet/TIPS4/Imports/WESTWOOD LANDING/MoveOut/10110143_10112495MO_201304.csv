@@ -1,0 +1,5 @@
+BATCH,,201304,B,2520.0000,
+INVOICE,IN,,10110143,,04/01/2013,420.0000,"Invoice-Private",,04/01/2013,04/10/2013,,10112495MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,6,70.0000,420.00,"Basic Service Fee- One Bedroom Premium for Apr: Trembly, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,10110143,,04/01/2013,2100,"Invoice-Private",,04/01/2013,04/10/2013,,10112495MO,-1680.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,2100,2100,"CR:Basic Service F... R.Trembly 201304: Trembly, Ruth",,,,,,,,,,,,,,,

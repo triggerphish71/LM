@@ -1,0 +1,5 @@
+BATCH,,201201,B,40.0000,
+INVOICE,IN,,09710217,,01/01/2012,20.0000,"Invoice-Private",,01/01/2012,01/10/2012,,09714266MO,-2920.2000,,,,,,,,,,
+TRANSACTION,3299,010103097,1,20.0000,20.00,"Credit for Ancillary Rent: Howard, Earl",,,,,,,,,,,,,,,
+INVOICE,CM,,09710217,,01/01/2012,20,"Invoice-Private",,01/01/2012,01/10/2012,,09714266MO,-2920.2000,,,,,,,,,,
+TRANSACTION,3299,010103097,1,20,20,"Ancillary Rent: Howard, Earl",,,,,,,,,,,,,,,

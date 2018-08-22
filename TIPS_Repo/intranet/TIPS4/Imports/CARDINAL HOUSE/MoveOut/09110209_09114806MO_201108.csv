@@ -1,0 +1,7 @@
+BATCH,,201108,B,4756.0000,
+INVOICE,IN,,09110209,,08/01/2011,1160.0000,"Invoice-Private",,08/01/2011,08/10/2011,,09114806MO,-2436.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,10,36.0000,360.00,"Resident Care - Level 2 for Aug: Gibson, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,10,80.0000,800.00,"Room and Board - Studio for Aug: Gibson, Glenn",,,,,,,,,,,,,,,
+INVOICE,CM,,09110209,,08/01/2011,3596,"Invoice-Private",,08/01/2011,08/10/2011,,09114806MO,-2436.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... G.Gibson 201108: Gibson, Glenn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2480,2480,"CR:Room and Board ... G.Gibson 201108: Gibson, Glenn",,,,,,,,,,,,,,,

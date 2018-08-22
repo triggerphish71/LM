@@ -1,0 +1,7 @@
+BATCH,,201112,B,3841.0000,
+INVOICE,IN,,21210175,,12/08/2011,92.0000,"Invoice-Private",,12/08/2011,12/08/2011,,21212204MO,-3657.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,1,92.0000,92.00,"D.Smith: Studio Deluxe for Dec: Smith, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21210175,,12/08/2011,3749,"Invoice-Private",,12/08/2011,12/08/2011,,21212204MO,-3657.0000,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2208,2208,"CR:D.Smith: Studio... D.Smith 201112: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"CR:Monthly Cable... D.Smith 201112: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010208212,1,1500,1500,"CR:New Resident Fe... D.Smith 201112: Smith, David",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,5094.0000,
+INVOICE,IN,,15710253,,01/03/2013,506.0000,"Invoice-Private",,01/03/2013,01/03/2013,,15714824MO,-4082.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,62.0000,62.00,"CR:Limited Term Di... A.Sarrazine 201301: Sarrazine, Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,3,115.0000,345.00,"Basic Service Fee - One Bedroom for Jan: Sarrazine, Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,3,33.0000,99.00,"Resident Care - Level 2 for Jan: Sarrazine, Aileen",,,,,,,,,,,,,,,
+INVOICE,CM,,15710253,,01/03/2013,4588,"Invoice-Private",,01/03/2013,01/03/2013,,15714824MO,-4082.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3565,3565,"CR:Basic Service F... A.Sarrazine 201301: Sarrazine, Aileen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1023,1023,"CR:Resident Care -... A.Sarrazine 201301: Sarrazine, Aileen",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,6475.0000,
+INVOICE,IN,,16310030,,10/15/2012,2383.0000,"Invoice-Private",,10/15/2012,10/15/2012,,16316889MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,403.0000,403.00,"CR:Limited Term Di... E.Arbuthnot 201210: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,15,108.0000,1620.00,"Basic Service Fee - Studio Deluxe for Oct: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,15,24.0000,360.00,"Resident Care - Level 2 for Oct: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,16310030,,10/15/2012,4092,"Invoice-Private",,10/15/2012,10/15/2012,,16316889MO,-5279.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... E.Arbuthnot 201210: Arbuthnot, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202163,1,744,744,"CR:Resident Care -... E.Arbuthnot 201210: Arbuthnot, Ethel",,,,,,,,,,,,,,,

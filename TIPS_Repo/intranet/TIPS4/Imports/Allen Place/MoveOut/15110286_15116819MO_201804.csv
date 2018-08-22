@@ -1,0 +1,7 @@
+BATCH,,201804,B,5166.0000,
+INVOICE,IN,,15110286,,04/12/2018,1476.0000,"Invoice-Private",,04/12/2018,04/12/2018,,15116819MO,-2214.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,12,89.0000,1068.00,"Basic Service Fee - Studio  for Apr: Mewhirter, Barb",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,12,34.0000,408.00,"Resident Care - Level 2  for Apr: Mewhirter, Barb",,,,,,,,,,,,,,,
+INVOICE,CM,,15110286,,04/12/2018,3690,"Invoice-Private",,04/12/2018,04/12/2018,,15116819MO,-2214.0000,,,,,,,,,,
+TRANSACTION,3020,010012151,1,2670,2670,"CR:Basic Service F... B.Mewhirter 201804: Mewhirter, Barb",,,,,,,,,,,,,,,
+TRANSACTION,3027,010012151,1,1020,1020,"CR:Resident Care -... B.Mewhirter 201804: Mewhirter, Barb",,,,,,,,,,,,,,,

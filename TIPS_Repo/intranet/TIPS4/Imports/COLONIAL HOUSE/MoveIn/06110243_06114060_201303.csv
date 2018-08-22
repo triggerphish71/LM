@@ -1,0 +1,5 @@
+BATCH,,201303,B,837.2000,
+INVOICE,IN,,06110243,,03/29/2013,837.2000,"MoveIn-Fletcher. Calvin",,03/29/2013,03/29/2013,,06114060,4209.2000,,,,,,,,,,
+TRANSACTION,3010,010103061,3,105.0000,315,"Basic Service Fee - One Bedroom: Fletcher. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103061,3,7.4000,22.2,"Resident Care - Level 4: Fletcher. Calvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,500.0000,500,"New Resident Fee: Fletcher. Calvin",,,,,,,,,,,,,,,

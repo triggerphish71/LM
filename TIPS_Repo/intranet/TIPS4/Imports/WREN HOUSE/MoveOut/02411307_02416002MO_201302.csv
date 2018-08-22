@@ -1,0 +1,5 @@
+BATCH,,201302,B,2128.0000,
+INVOICE,IN,,02411307,,02/01/2013,1064.0000,"Invoice-Private",,02/01/2013,02/10/2013,,02416002MO,-1956.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,28,38.0000,1064.00,"Credit for Limited Term Discount: Bolinger, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,02411307,,02/01/2013,1064,"Invoice-Private",,02/01/2013,02/10/2013,,02416002MO,-1956.0000,,,,,,,,,,
+TRANSACTION,3320,010202024,28,38,1064,"Limited Term Discount: Bolinger, Rebecca",,,,,,,,,,,,,,,

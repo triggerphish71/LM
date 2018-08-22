@@ -1,0 +1,5 @@
+BATCH,,201206,B,3776.0000,
+INVOICE,IN,,16810407,,06/01/2012,236.0000,"Invoice-Private",,06/01/2012,06/10/2012,,16816577MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,2,118.0000,236.00,"Basic Service Fee - One BR Premium for Jun: Crump, Tezalee",,,,,,,,,,,,,,,
+INVOICE,CM,,16810407,,06/01/2012,3540,"Invoice-Private",,06/01/2012,06/10/2012,,16816577MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3540,3540,"CR:Basic Service F... T.Crump 201206: Crump, Tezalee",,,,,,,,,,,,,,,

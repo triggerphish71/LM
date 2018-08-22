@@ -1,0 +1,5 @@
+BATCH,,201210,B,60.0000,
+INVOICE,IN,,16710220,,10/01/2012,30.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16713922MO,-4980.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30.0000,30.00,"Monthly Cable: Schulz, O'Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,16710220,,10/01/2012,30,"Invoice-Private",,10/01/2012,10/10/2012,,16713922MO,-4980.0000,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"Credit for Monthly Cable: Schulz, O'Linda",,,,,,,,,,,,,,,

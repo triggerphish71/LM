@@ -1,0 +1,5 @@
+BATCH,,201109,B,3505.0000,
+INVOICE,IN,,17010281,,09/01/2011,3505.0000,"September_Rent-Smith. William (Bill)",,09/01/2011,09/10/2011,,17014291,6226.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,30,90.0000,2700,"Basic Service Fee - Studio         : Smith. William (Bill)",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,30,26.0000,780,"Resident Care - Level 2: Smith. William (Bill)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Smith. William (Bill)",,,,,,,,,,,,,,,

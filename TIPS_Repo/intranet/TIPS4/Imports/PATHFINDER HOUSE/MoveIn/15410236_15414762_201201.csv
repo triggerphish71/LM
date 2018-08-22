@@ -1,0 +1,5 @@
+BATCH,,201201,B,3045.0000,
+INVOICE,IN,,15410236,,01/26/2012,3045.0000,"MoveIn-Kuhr. Mary",,01/26/2012,01/26/2012,,15414762,5545.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,6,85.0000,510,"Basic Service Fee - One Bedroom: Kuhr. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Kuhr. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2500.0000,2500,"New Resident Fee: Kuhr. Mary",,,,,,,,,,,,,,,

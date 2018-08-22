@@ -1,0 +1,5 @@
+BATCH,,201301,B,3643.0000,
+INVOICE,IN,,50510133,,01/10/2013,3643.0000,"MoveIn-Fernekes. Agnes",,01/10/2013,01/10/2013,,50511855,3643.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,22,119.0000,2618,"Basic Service Fee - One Bedroom: Fernekes. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Fernekes. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1000.0000,1000,"New Resident Fee: Fernekes. Agnes",,,,,,,,,,,,,,,

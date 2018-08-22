@@ -1,0 +1,7 @@
+BATCH,,201209,B,7210.0000,
+INVOICE,IN,,19410207,,09/01/2012,1560.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19414323MO,-5028.0000,,,,,,,,,,
+TRANSACTION,3320,010212194,1,1560.0000,1560.00,"CR:Limited Term Di... C.Vakulskas 201209: Vakulskas, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,19410207,,09/01/2012,5650,"Invoice-Private",,09/01/2012,09/10/2012,,19414323MO,-5028.0000,,,,,,,,,,
+TRANSACTION,3020,010212194,1,2880,2880,"CR:Basic Service F... C.Vakulskas 201209: Vakulskas, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"CR:Monthly Cable... C.Vakulskas 201209: Vakulskas, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212194,1,2730,2730,"CR:Swan Personal C... C.Vakulskas 201209: Vakulskas, Charles",,,,,,,,,,,,,,,

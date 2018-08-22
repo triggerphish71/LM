@@ -1,0 +1,5 @@
+BATCH,,201205,B,3100.0000,
+INVOICE,IN,,15210183,,05/17/2012,3100.0000,"MoveIn-Engel. Elaine",,05/17/2012,05/17/2012,,15213836,5265.0000,,,,,,,,,,
+TRANSACTION,3010,010211152,15,71.0000,1065,"Basic Service Fee - Studio: Engel. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35,"Monthly Cable: Engel. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211152,1,2000.0000,2000,"New Resident Fee: Engel. Elaine",,,,,,,,,,,,,,,

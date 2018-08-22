@@ -1,0 +1,6 @@
+BATCH,,201201,B,1987.0000,
+INVOICE,IN,,04510242,,01/27/2012,1987.0000,"MoveIn-Burt. Rita",,01/27/2012,01/27/2012,,04513878,4682.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,5,76.0000,380,"R.Burt: Basic Service Fee - Studio: Burt. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,5,16.0000,80,"R.Burt: Resident Care - Level 1: Burt. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Burt. Rita",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Burt. Rita",,,,,,,,,,,,,,,

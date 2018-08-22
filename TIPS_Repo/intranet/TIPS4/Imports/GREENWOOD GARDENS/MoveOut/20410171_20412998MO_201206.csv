@@ -1,0 +1,5 @@
+BATCH,,201206,B,1920.0000,
+INVOICE,IN,,20410171,,06/01/2012,960.0000,"Invoice-Private",,06/01/2012,06/10/2012,,20412998MO,-982.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,30,32.0000,960.00,"Credit for Limited Term Discount: Turner, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,20410171,,06/01/2012,960,"Invoice-Private",,06/01/2012,06/10/2012,,20412998MO,-982.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,30,32,960,"Limited Term Discount: Turner, Mildred",,,,,,,,,,,,,,,

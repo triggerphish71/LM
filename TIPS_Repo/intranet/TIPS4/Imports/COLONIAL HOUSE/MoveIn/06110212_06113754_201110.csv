@@ -1,0 +1,5 @@
+BATCH,,201110,B,2526.8000,
+INVOICE,IN,,06110212,,10/26/2011,2526.8000,"MoveIn-Gardner. Phillip",,10/26/2011,10/26/2011,,06113754,5160.8000,,,,,,,,,,
+TRANSACTION,3010,010103061,6,81.0000,486,"Basic Service Fee - Studio         : Gardner. Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103061,6,6.8000,40.8,"Resident Care - Level 4: Gardner. Phillip",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,2000.0000,2000,"New Resident Fee: Gardner. Phillip",,,,,,,,,,,,,,,

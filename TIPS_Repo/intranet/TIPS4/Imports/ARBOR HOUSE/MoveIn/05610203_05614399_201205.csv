@@ -1,0 +1,6 @@
+BATCH,,201205,B,2875.0000,
+INVOICE,IN,,05610203,,05/10/2012,2875.0000,"MoveIn-Cox. Cleo",,05/10/2012,05/10/2012,,05614399,2875.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,22,68.0000,1496,"Basic Service Fee - Studio: Cox. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,22,16.0000,352,"Resident Care - Level 1: Cox. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Cox. Cleo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Cox. Cleo",,,,,,,,,,,,,,,

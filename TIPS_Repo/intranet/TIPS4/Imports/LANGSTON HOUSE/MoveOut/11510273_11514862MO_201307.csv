@@ -1,0 +1,7 @@
+BATCH,,201307,B,3220.0000,
+INVOICE,IN,,11510273,,07/03/2013,368.0000,"Invoice-Private",,07/03/2013,07/03/2013,,11514862MO,-2484.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,4,66.0000,264.00,"Basic Service Fee - Studio for Jul: Seigler, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,4,26.0000,104.00,"Resident Care - Level 2 for Jul: Seigler, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,11510273,,07/03/2013,2852,"Invoice-Private",,07/03/2013,07/03/2013,,11514862MO,-2484.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,2046,2046,"CR:Basic Service F... V.Seigler 201307: Seigler, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,806,806,"CR:Resident Care -... V.Seigler 201307: Seigler, Virginia",,,,,,,,,,,,,,,

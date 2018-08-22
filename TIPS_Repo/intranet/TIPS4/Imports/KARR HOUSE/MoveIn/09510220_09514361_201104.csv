@@ -1,0 +1,5 @@
+BATCH,,201104,B,3330.4000,
+INVOICE,IN,,09510220,,04/23/2011,3330.4000,"MoveIn-boyer. Laura",,04/23/2011,04/23/2011,,09514361,8485.7000,,,,,,,,,,
+TRANSACTION,3010,010103095,8,83.0000,664,"Basic Service Fee - Studio         : boyer. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103095,8,83.3000,666.4,"Resident Care - Level 49: boyer. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000.0000,2000,"New Resident Fee: boyer. Laura",,,,,,,,,,,,,,,

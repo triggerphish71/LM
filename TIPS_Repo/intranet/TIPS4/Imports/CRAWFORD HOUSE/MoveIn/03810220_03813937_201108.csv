@@ -1,0 +1,6 @@
+BATCH,,201108,B,4357.2000,
+INVOICE,IN,,03810220,,08/09/2011,4357.2000,"MoveIn-Campbell. Dolores",,08/09/2011,08/09/2011,,03813937,4357.2000,,,,,,,,,,
+TRANSACTION,3010,010103038,23,81.0000,1863,"D.Campbell: Basic Service Fee - Studio: Campbell. Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,23,20.4000,469.2,"D.Campbell: Resident Care - Level 12: Campbell. Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Campbell. Dolores",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Campbell. Dolores",,,,,,,,,,,,,,,

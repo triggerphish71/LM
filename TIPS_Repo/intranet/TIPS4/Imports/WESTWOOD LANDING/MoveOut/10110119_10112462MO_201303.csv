@@ -1,0 +1,7 @@
+BATCH,,201303,B,5320.0000,
+INVOICE,IN,,10110119,,03/01/2013,608.0000,"Invoice-Private",,03/01/2013,03/10/2013,,10112462MO,-4104.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,4,110.0000,440.00,"Basic Service Fee- One Bedroom Prem for Mar: Sylvester, Sudie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,4,42.0000,168.00,"Resident Care - Level 3 for Mar: Sylvester, Sudie",,,,,,,,,,,,,,,
+INVOICE,CM,,10110119,,03/01/2013,4712,"Invoice-Private",,03/01/2013,03/10/2013,,10112462MO,-4104.0000,,,,,,,,,,
+TRANSACTION,3020,010305101,1,3410,3410,"CR:Basic Service F... S.Sylvester 201303: Sylvester, Sudie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305101,1,1302,1302,"CR:Resident Care -... S.Sylvester 201303: Sylvester, Sudie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,7583.5200,
+INVOICE,IN,,51910218,,07/01/2012,3729.6000,"Invoice-Private",,07/01/2012,07/10/2012,,51913409MO,-124.3200,,,,,,,,,,
+TRANSACTION,3020,010103519,30,110.0000,3300.00,"Basic Service Fee - One Bedroom for Jul: Rodenberger, Frelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,30,14.3200,429.60,"Resident Care - Level 8 for Jul: Rodenberger, Frelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,51910218,,07/01/2012,3853.92,"Invoice-Private",,07/01/2012,07/10/2012,,51913409MO,-124.3200,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3410,3410,"CR:Basic Service F... F.Rodenberger 201207: Rodenberger, Frelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,443.92,443.92,"CR:Resident Care -... F.Rodenberger 201207: Rodenberger, Frelyn",,,,,,,,,,,,,,,

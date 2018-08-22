@@ -1,0 +1,8 @@
+BATCH,,201107,B,7644.0000,
+INVOICE,IN,,21610203,,07/01/2011,4079.0000,"Invoice-Private",,07/01/2011,07/10/2011,,21612930MO,514.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,1,744.0000,744.00,"CR:Limited Term Di... F.Kilgore 201107: Kilgore, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,29,21.0000,609.00,"Resident Care - Level 2 for Jul: Kilgore, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,29,94.0000,2726.00,"Studio Deluxe for Jul: Kilgore, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21610203,,07/01/2011,3565,"Invoice-Private",,07/01/2011,07/10/2011,,21612930MO,514.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,651,651,"CR:Resident Care -... F.Kilgore 201107: Kilgore, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2914,2914,"CR:Studio Deluxe... F.Kilgore 201107: Kilgore, Frances",,,,,,,,,,,,,,,

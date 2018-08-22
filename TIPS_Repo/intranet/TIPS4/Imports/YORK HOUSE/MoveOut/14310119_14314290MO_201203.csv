@@ -1,0 +1,5 @@
+BATCH,,201203,B,70.0000,
+INVOICE,IN,,14310119,,03/01/2012,35.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14314290MO,-3670.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35.0000,35.00,"Monthly Cable: Keller, Viola",,,,,,,,,,,,,,,
+INVOICE,CM,,14310119,,03/01/2012,35,"Invoice-Private",,03/01/2012,03/10/2012,,14314290MO,-3670.0000,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"Credit for Monthly Cable: Keller, Viola",,,,,,,,,,,,,,,

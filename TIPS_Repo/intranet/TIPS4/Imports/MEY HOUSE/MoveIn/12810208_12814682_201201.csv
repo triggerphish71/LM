@@ -1,0 +1,6 @@
+BATCH,,201201,B,4507.0000,
+INVOICE,IN,,12810208,,01/15/2012,4507.0000,"MoveIn-McHale. Martin",,01/15/2012,01/15/2012,,12814682,4507.0000,,,,,,,,,,
+TRANSACTION,3010,010306128,17,111.0000,1887,"Basic Service Fee - Studio         : McHale. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306128,17,35.0000,595,"Swan Personal Care - L2: McHale. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010306128,1,25.0000,25,"Monthly Cable: McHale. Martin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306128,1,2000.0000,2000,"New Resident Fee: McHale. Martin",,,,,,,,,,,,,,,

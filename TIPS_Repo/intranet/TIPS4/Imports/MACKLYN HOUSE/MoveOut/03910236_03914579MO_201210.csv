@@ -1,0 +1,6 @@
+BATCH,,201210,B,3786.9600,
+INVOICE,IN,,03910236,,10/01/2012,775.0000,"Invoice-Private",,10/01/2012,10/10/2012,,03914579MO,-2236.9600,,,,,,,,,,
+TRANSACTION,3320,010101039,1,775.0000,775.00,"CR:Limited Term Di... W.Carter 201210: Carter, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,03910236,,10/01/2012,3011.96,"Invoice-Private",,10/01/2012,10/10/2012,,03914579MO,-2236.9600,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... W.Carter 201210: Carter, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,221.96,221.96,"CR:Resident Care -... W.Carter 201210: Carter, Wanda",,,,,,,,,,,,,,,

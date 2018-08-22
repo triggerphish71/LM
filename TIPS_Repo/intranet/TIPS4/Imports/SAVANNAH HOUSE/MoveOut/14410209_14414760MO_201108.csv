@@ -1,0 +1,7 @@
+BATCH,,201108,B,5360.0000,
+INVOICE,IN,,14410209,,08/01/2011,496.0000,"Invoice-Private",,08/01/2011,08/10/2011,,14414760MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3320,010308144,1,496.0000,496.00,"CR:Limited Term Di... B.Hobson 201108: Hobson, Bill",,,,,,,,,,,,,,,
+INVOICE,CM,,14410209,,08/01/2011,4864,"Invoice-Private",,08/01/2011,08/10/2011,,14414760MO,-4524.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... B.Hobson 201108: Hobson, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,1705,1705,"CR:Resident Care -... B.Hobson 201108: Hobson, Bill",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3131,3131,"CR:Room and Board ... B.Hobson 201108: Hobson, Bill",,,,,,,,,,,,,,,

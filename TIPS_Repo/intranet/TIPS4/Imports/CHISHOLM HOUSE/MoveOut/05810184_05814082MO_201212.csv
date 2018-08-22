@@ -1,0 +1,5 @@
+BATCH,,201212,B,124.0000,
+INVOICE,IN,,05810184,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,05814082MO,-4318.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,31,2.0000,62.00,"Credit for Limited Term Discount: Bullard, John",,,,,,,,,,,,,,,
+INVOICE,CM,,05810184,,12/01/2012,62,"Invoice-Private",,12/01/2012,12/10/2012,,05814082MO,-4318.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,31,2,62,"Limited Term Discount: Bullard, John",,,,,,,,,,,,,,,

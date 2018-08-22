@@ -1,0 +1,7 @@
+BATCH,,201301,B,2585.0000,
+INVOICE,IN,,17410264,,01/24/2013,1128.0000,"Invoice-Private",,01/24/2013,01/24/2013,,17414597MO,-1645.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,24,31.0000,744.00,"Basic Service Fee - Second Resident for Jan: Stone, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,24,16.0000,384.00,"Resident Care - Level 1 for Jan: Stone, Nellie",,,,,,,,,,,,,,,
+INVOICE,CM,,17410264,,01/24/2013,1457,"Invoice-Private",,01/24/2013,01/24/2013,,17414597MO,-1645.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,961,961,"CR:Basic Service F... N.Stone 201301: Stone, Nellie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,496,496,"CR:Resident Care -... N.Stone 201301: Stone, Nellie",,,,,,,,,,,,,,,

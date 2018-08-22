@@ -1,0 +1,7 @@
+BATCH,,201307,B,1632.0000,
+INVOICE,IN,,13310416,,07/01/2013,144.0000,"Invoice-Private",,07/01/2013,07/10/2013,,13315887MO,-1344.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,3,31.0000,93.00,"Basic Service Fee - Second Resident for Jul: Davis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,3,17.0000,51.00,"Resident Care - Level 1 for Jul: Davis, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,13310416,,07/01/2013,1488,"Invoice-Private",,07/01/2013,07/10/2013,,13315887MO,-1344.0000,,,,,,,,,,
+TRANSACTION,3020,010310133,1,961,961,"CR:Basic Service F... H.Davis 201307: Davis, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,1,527,527,"CR:Resident Care -... H.Davis 201307: Davis, Helen",,,,,,,,,,,,,,,

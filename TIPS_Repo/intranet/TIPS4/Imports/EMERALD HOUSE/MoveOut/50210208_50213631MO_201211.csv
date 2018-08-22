@@ -1,0 +1,5 @@
+BATCH,,201211,B,50.0000,
+INVOICE,IN,,50210208,,11/01/2012,25.0000,"Invoice-Private",,11/01/2012,11/10/2012,,50213631MO,-2711.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25.00,"Monthly Cable: Keller, John",,,,,,,,,,,,,,,
+INVOICE,CM,,50210208,,11/01/2012,25,"Invoice-Private",,11/01/2012,11/10/2012,,50213631MO,-2711.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"Credit for Monthly Cable: Keller, John",,,,,,,,,,,,,,,

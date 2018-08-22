@@ -1,0 +1,7 @@
+BATCH,,201205,B,194.0000,
+INVOICE,IN,,14210182,,05/01/2012,97.0000,"Invoice-Private",,05/01/2012,05/10/2012,,14213899MO,-1788.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,31,2.0000,62.00,"Credit for Limited Term Discount: Carter, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Carter, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,14210182,,05/01/2012,97,"Invoice-Private",,05/01/2012,05/10/2012,,14213899MO,-1788.0000,,,,,,,,,,
+TRANSACTION,3320,010309142,31,2,62,"Limited Term Discount: Carter, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Carter, Florence",,,,,,,,,,,,,,,

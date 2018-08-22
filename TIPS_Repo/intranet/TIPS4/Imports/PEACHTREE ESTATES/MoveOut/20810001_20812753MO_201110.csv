@@ -1,0 +1,8 @@
+BATCH,,201110,B,4282.0000,
+INVOICE,IN,,20810001,,10/03/2011,717.0000,"Invoice-Private",,10/03/2011,10/03/2011,,20812753MO,-2848.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,1,372.0000,372.00,"CR:BSF Daily Disco... R.Ridley 201110: Ridley, Randall",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216208,3,41.0000,123.00,"Resident Care - Level 4 for Oct: Ridley, Randall",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,3,74.0000,222.00,"Studio for Oct: Ridley, Randall",,,,,,,,,,,,,,,
+INVOICE,CM,,20810001,,10/03/2011,3565,"Invoice-Private",,10/03/2011,10/03/2011,,20812753MO,-2848.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1271,1271,"CR:Resident Care -... R.Ridley 201110: Ridley, Randall",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2294,2294,"CR:Studio... R.Ridley 201110: Ridley, Randall",,,,,,,,,,,,,,,

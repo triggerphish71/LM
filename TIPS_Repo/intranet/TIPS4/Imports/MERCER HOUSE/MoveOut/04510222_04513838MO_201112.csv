@@ -1,0 +1,8 @@
+BATCH,,201112,B,6412.0000,
+INVOICE,IN,,04510222,,12/27/2011,3250.0000,"Invoice-Private",,12/27/2011,12/27/2011,,04513838MO,-3167.0000,,,,,,,,,,
+TRANSACTION,3320,010202045,1,496.0000,496.00,"CR:Limited Term Di... A.Meyer 201112: Meyer, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202045,27,73.0000,1971.00,"Basic Service Fee - Studio for Dec: Meyer, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202045,27,29.0000,783.00,"Private Care Rate Adjustments for Dec: Meyer, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,04510222,,12/27/2011,3162,"Invoice-Private",,12/27/2011,12/27/2011,,04513838MO,-3167.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2263,2263,"CR:Basic Service F... A.Meyer 201112: Meyer, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3037,010202045,1,899,899,"CR:Private Care Ra... A.Meyer 201112: Meyer, Arthur",,,,,,,,,,,,,,,

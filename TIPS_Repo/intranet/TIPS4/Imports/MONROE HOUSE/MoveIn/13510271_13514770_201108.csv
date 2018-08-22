@@ -1,0 +1,6 @@
+BATCH,,201108,B,3796.0000,
+INVOICE,IN,,13510271,,08/10/2011,3796.0000,"MoveIn-Browning. Rosa",,08/10/2011,08/10/2011,,13514770,3796.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,22,87.0000,1914,"Basic Service Fee - Studio         : Browning. Rosa",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309135,22,16.0000,352,"Resident Care - Level 1: Browning. Rosa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Browning. Rosa",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,1500.0000,1500,"New Resident Fee: Browning. Rosa",,,,,,,,,,,,,,,

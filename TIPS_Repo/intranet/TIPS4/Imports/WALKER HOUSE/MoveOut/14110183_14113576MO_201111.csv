@@ -1,0 +1,5 @@
+BATCH,,201111,B,1140.0000,
+INVOICE,IN,,14110183,,11/01/2011,570.0000,"Invoice-Private",,11/01/2011,11/10/2011,,14113576MO,459.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,30,19.0000,570.00,"Credit for Limited Term Discount: Higdon, Geneva",,,,,,,,,,,,,,,
+INVOICE,CM,,14110183,,11/01/2011,570,"Invoice-Private",,11/01/2011,11/10/2011,,14113576MO,459.0000,,,,,,,,,,
+TRANSACTION,3320,010309141,30,19,570,"Limited Term Discount: Higdon, Geneva",,,,,,,,,,,,,,,

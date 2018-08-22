@@ -1,0 +1,8 @@
+BATCH,,201201,B,4972.0000,
+INVOICE,IN,,17610291,,01/06/2012,756.0000,"Invoice-Private",,01/06/2012,01/06/2012,,17614255MO,-3460.0000,,,,,,,,,,
+TRANSACTION,3027,010315176,6,53.0000,318.00,"Resident Care - Level 4 for Jan: Nichols, Herschel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,6,73.0000,438.00,"Room and Board - Studio for Jan: Nichols, Herschel",,,,,,,,,,,,,,,
+INVOICE,CM,,17610291,,01/06/2012,4216,"Invoice-Private",,01/06/2012,01/06/2012,,17614255MO,-3460.0000,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... H.Nichols 201201: Nichols, Herschel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,1643,1643,"CR:Resident Care -... H.Nichols 201201: Nichols, Herschel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Room and Board ... H.Nichols 201201: Nichols, Herschel",,,,,,,,,,,,,,,

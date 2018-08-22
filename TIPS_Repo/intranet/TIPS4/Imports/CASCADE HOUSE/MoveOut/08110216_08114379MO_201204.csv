@@ -1,0 +1,6 @@
+BATCH,,201204,B,2735.1000,
+INVOICE,IN,,08110216,,04/01/2012,570.0000,"Invoice-Private",,04/01/2012,04/10/2012,,08114379MO,-1583.4600,,,,,,,,,,
+TRANSACTION,3320,010103081,1,570.0000,570.00,"CR:Limited Term Di... G.Watters 201204: Watters, George",,,,,,,,,,,,,,,
+INVOICE,CM,,08110216,,04/01/2012,2165.1,"Invoice-Private",,04/01/2012,04/10/2012,,08114379MO,-1583.4600,,,,,,,,,,
+TRANSACTION,3020,010103081,1,930,930,"CR:Basic Service F... G.Watters 201204: Watters, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103081,1,1235.1,1235.1,"CR:Resident Care -... G.Watters 201204: Watters, George",,,,,,,,,,,,,,,

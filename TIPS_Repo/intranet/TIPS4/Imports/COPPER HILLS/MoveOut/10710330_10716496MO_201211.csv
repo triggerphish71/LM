@@ -1,0 +1,8 @@
+BATCH,,201211,B,9264.0000,
+INVOICE,IN,,10710330,,11/29/2012,4584.0000,"Invoice-Private",,11/29/2012,11/29/2012,,10716496MO,-4870.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,60.0000,60.00,"CR:Limited Term Di... J.Whitson 201211: Whitson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107107,29,98.0000,2842.00,"Basic Service Fee - Studio for Nov: Whitson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,29,58.0000,1682.00,"Resident Care - Level 4 for Nov: Whitson, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,10710330,,11/29/2012,4680,"Invoice-Private",,11/29/2012,11/29/2012,,10716496MO,-4870.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2940,2940,"CR:Basic Service F... J.Whitson 201211: Whitson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1740,1740,"CR:Resident Care -... J.Whitson 201211: Whitson, Jack",,,,,,,,,,,,,,,

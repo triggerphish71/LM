@@ -1,0 +1,6 @@
+BATCH,,201307,B,3305.0000,
+INVOICE,IN,,52610355,,07/27/2013,3305.0000,"MoveIn-Moore. Florence",,07/27/2013,07/27/2013,,52618119,8296.0000,,,,,,,,,,
+TRANSACTION,3010,010319526,5,110.0000,550,"F.Moore: Basic Service Fee - Two Bedroom: Moore. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319526,5,51.0000,255,"F.Moore: Resident Care - Level 2: Moore. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319526,1,2000.0000,2000,"New Resident Fee: Moore. Florence",,,,,,,,,,,,,,,
+TRANSACTION,3299,010319526,1,500.0000,500,"Pet Fee - Non Refundable: Moore. Florence",,,,,,,,,,,,,,,

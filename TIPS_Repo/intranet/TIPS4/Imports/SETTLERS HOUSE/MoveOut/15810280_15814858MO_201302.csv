@@ -1,0 +1,5 @@
+BATCH,,201302,B,1568.0000,
+INVOICE,IN,,15810280,,02/01/2013,784.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15814858MO,-4154.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,28,28.0000,784.00,"Credit for Limited Term Discount: Hill, Paul",,,,,,,,,,,,,,,
+INVOICE,CM,,15810280,,02/01/2013,784,"Invoice-Private",,02/01/2013,02/10/2013,,15814858MO,-4154.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,28,28,784,"Limited Term Discount: Hill, Paul",,,,,,,,,,,,,,,

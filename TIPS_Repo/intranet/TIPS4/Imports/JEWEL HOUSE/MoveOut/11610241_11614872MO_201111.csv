@@ -1,0 +1,6 @@
+BATCH,,201111,B,6842.0000,
+INVOICE,IN,,11610241,,11/25/2011,3932.0000,"Invoice-Private",,11/25/2011,11/25/2011,,11614872MO,-528.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,1410.0000,1410.00,"CR:Limited Term Di... M.Barnes 201111: Barnes, Mary ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,26,97.0000,2522.00,"Basic Service Fee - Studio for Nov: Barnes, Mary ",,,,,,,,,,,,,,,
+INVOICE,CM,,11610241,,11/25/2011,2910,"Invoice-Private",,11/25/2011,11/25/2011,,11614872MO,-528.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,2910,2910,"CR:Basic Service F... M.Barnes 201111: Barnes, Mary ",,,,,,,,,,,,,,,

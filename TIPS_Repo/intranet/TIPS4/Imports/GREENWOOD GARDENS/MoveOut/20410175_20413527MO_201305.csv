@@ -1,0 +1,7 @@
+BATCH,,201305,B,4180.0000,
+INVOICE,IN,,20410175,,05/01/2013,1824.0000,"Invoice-Private",,05/01/2013,05/10/2013,,20413527MO,-532.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,24,22.0000,528.00,"Resident Care - Level 2 for May: Ramsey, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,24,54.0000,1296.00,"Room and Board - Studio for May: Ramsey, James",,,,,,,,,,,,,,,
+INVOICE,CM,,20410175,,05/01/2013,2356,"Invoice-Private",,05/01/2013,05/10/2013,,20413527MO,-532.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,682,682,"CR:Resident Care -... J.Ramsey 201305: Ramsey, James",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,1674,1674,"CR:Room and Board ... J.Ramsey 201305: Ramsey, James",,,,,,,,,,,,,,,

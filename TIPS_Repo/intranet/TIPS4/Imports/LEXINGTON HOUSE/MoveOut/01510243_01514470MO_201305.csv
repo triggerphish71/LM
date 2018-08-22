@@ -1,0 +1,7 @@
+BATCH,,201305,B,2405.4000,
+INVOICE,IN,,01510243,,05/01/2013,443.1000,"Invoice-Private",,05/01/2013,05/10/2013,,01514470MO,-1519.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,7,30.0000,210.00,"Basic Service Fee - Studio for May: Brown, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,7,33.3000,233.10,"Resident Care - Level 18 for May: Brown, Ron",,,,,,,,,,,,,,,
+INVOICE,CM,,01510243,,05/01/2013,1962.3,"Invoice-Private",,05/01/2013,05/10/2013,,01514470MO,-1519.2000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,930,930,"CR:Basic Service F... R.Brown 201305: Brown, Ron",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103015,1,1032.3,1032.3,"CR:Resident Care -... R.Brown 201305: Brown, Ron",,,,,,,,,,,,,,,

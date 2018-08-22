@@ -1,0 +1,5 @@
+BATCH,,201107,B,70.0000,
+INVOICE,IN,,10810238,,07/01/2011,35.0000,"Invoice-Respite",,07/01/2011,07/10/2011,,10814521MO,756.0000,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35.0000,35.00,"Pendant Fee: Conwell, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,10810238,,07/01/2011,35,"Invoice-Respite",,07/01/2011,07/10/2011,,10814521MO,756.0000,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35,35,"Credit for Pendant Fee: Conwell, Dorothy",,,,,,,,,,,,,,,

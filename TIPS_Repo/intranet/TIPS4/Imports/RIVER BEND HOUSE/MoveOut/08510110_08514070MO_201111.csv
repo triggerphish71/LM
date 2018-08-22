@@ -1,0 +1,5 @@
+BATCH,,201111,B,612.0000,
+INVOICE,IN,,08510110,,11/01/2011,306.0000,"Invoice-Private",,11/01/2011,11/10/2011,,08514070MO,-2860.2000,,,,,,,,,,
+TRANSACTION,3019,010305085,30,10.2000,306.00,"Additional Service Charge: Eaton, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,08510110,,11/01/2011,306,"Invoice-Private",,11/01/2011,11/10/2011,,08514070MO,-2860.2000,,,,,,,,,,
+TRANSACTION,3019,010305085,30,10.2,306,"Credit for Additional Service Charge: Eaton, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201308,B,3025.2000,
+INVOICE,IN,,13910173,,08/01/2013,93.6000,"Invoice-Private",,08/01/2013,08/01/2013,,13916747MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,64.0000,64.00,"Basic Service Fee - Studio for Aug: McKenna, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,29.6000,29.60,"Resident Care - Level 16 for Aug: McKenna, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13910173,,08/01/2013,2931.6,"Invoice-Private",,08/01/2013,08/01/2013,,13916747MO,-2838.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,1984,1984,"CR:Basic Service F... T.McKenna 201308: McKenna, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... T.McKenna 201308: McKenna, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103139,1,917.6,917.6,"CR:Resident Care -... T.McKenna 201308: McKenna, Thomas",,,,,,,,,,,,,,,

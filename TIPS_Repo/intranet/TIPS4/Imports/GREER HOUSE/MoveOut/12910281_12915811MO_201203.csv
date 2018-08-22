@@ -1,0 +1,7 @@
+BATCH,,201203,B,5808.0000,
+INVOICE,IN,,12910281,,03/06/2012,1716.0000,"Invoice-Private",,03/06/2012,03/06/2012,,12915811MO,-6336.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,13,96.0000,1248.00,"Basic Service Fee - Studio for Mar: Polak, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,13,36.0000,468.00,"Resident Care - Level 2 for Mar: Polak, Peter",,,,,,,,,,,,,,,
+INVOICE,CM,,12910281,,03/06/2012,4092,"Invoice-Private",,03/06/2012,03/06/2012,,12915811MO,-6336.0000,,,,,,,,,,
+TRANSACTION,3020,010310129,1,2976,2976,"CR:Basic Service F... P.Polak 201203: Polak, Peter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310129,1,1116,1116,"CR:Resident Care -... P.Polak 201203: Polak, Peter",,,,,,,,,,,,,,,

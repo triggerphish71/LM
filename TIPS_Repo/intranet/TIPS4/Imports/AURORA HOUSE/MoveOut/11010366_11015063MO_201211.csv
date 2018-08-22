@@ -1,0 +1,7 @@
+BATCH,,201211,B,5895.0000,
+INVOICE,IN,,11010366,,11/15/2012,1965.0000,"Invoice-Private",,11/15/2012,11/15/2012,,11015063MO,-1965.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,15,91.0000,1365.00,"Basic Service Fee - Studio for Nov: Centrone, Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,15,40.0000,600.00,"Resident Care - Level 3 for Nov: Centrone, Micheal",,,,,,,,,,,,,,,
+INVOICE,CM,,11010366,,11/15/2012,3930,"Invoice-Private",,11/15/2012,11/15/2012,,11015063MO,-1965.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2730,2730,"CR:Basic Service F... M.Centrone 201211: Centrone, Micheal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,1200,1200,"CR:Resident Care -... M.Centrone 201211: Centrone, Micheal",,,,,,,,,,,,,,,

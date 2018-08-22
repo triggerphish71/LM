@@ -1,0 +1,7 @@
+BATCH,,201107,B,5664.0000,
+INVOICE,IN,,17110105,,07/17/2011,2006.0000,"Invoice-Private",,07/17/2011,07/17/2011,,17114677MO,-5310.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,17,90.0000,1530.00,"Basic Service Fee - Studio for Jul: Johnson, Chloie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,17,28.0000,476.00,"Resident Care - Level 2 for Jul: Johnson, Chloie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110105,,07/17/2011,3658,"Invoice-Private",,07/17/2011,07/17/2011,,17114677MO,-5310.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2790,2790,"CR:Basic Service F... C.Johnson 201107: Johnson, Chloie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,868,868,"CR:Resident Care -... C.Johnson 201107: Johnson, Chloie",,,,,,,,,,,,,,,

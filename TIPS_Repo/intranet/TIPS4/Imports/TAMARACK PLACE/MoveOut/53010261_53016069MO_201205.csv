@@ -1,0 +1,7 @@
+BATCH,,201205,B,8949.0000,
+INVOICE,IN,,53010261,,05/01/2012,4082.0000,"Invoice-Private",,05/01/2012,05/10/2012,,53016069MO,-785.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,26,113.0000,2938.00,"Basic Service Fee - One Bedroom Del for May: Meyer, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,26,44.0000,1144.00,"Resident Care - Level 2 for May: Meyer, Arlene",,,,,,,,,,,,,,,
+INVOICE,CM,,53010261,,05/01/2012,4867,"Invoice-Private",,05/01/2012,05/10/2012,,53016069MO,-785.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3503,3503,"CR:Basic Service F... A.Meyer 201205: Meyer, Arlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1364,1364,"CR:Resident Care -... A.Meyer 201205: Meyer, Arlene",,,,,,,,,,,,,,,

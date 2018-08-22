@@ -1,0 +1,5 @@
+BATCH,,201107,B,3631.5000,
+INVOICE,IN,,09510228,,07/19/2011,3631.5000,"MoveIn-Lutz. Linne",,07/19/2011,07/19/2011,,09514473,7522.0000,,,,,,,,,,
+TRANSACTION,3010,010103095,13,83.0000,1079,"Basic Service Fee - Studio         : Lutz. Linne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103095,13,42.5000,552.5,"Resident Care - Level 25: Lutz. Linne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103095,1,2000.0000,2000,"New Resident Fee: Lutz. Linne",,,,,,,,,,,,,,,

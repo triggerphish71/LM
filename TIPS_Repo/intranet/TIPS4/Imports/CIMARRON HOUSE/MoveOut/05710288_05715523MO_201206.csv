@@ -1,0 +1,7 @@
+BATCH,,201206,B,6396.0000,
+INVOICE,IN,,05710288,,06/20/2012,2706.0000,"Invoice-Private",,06/20/2012,06/20/2012,,05715523MO,-4797.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,22,94.0000,2068.00,"Basic Service Fee - Studio for Jun: Munden, Rosella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,22,29.0000,638.00,"Resident Care - Level 2 for Jun: Munden, Rosella",,,,,,,,,,,,,,,
+INVOICE,CM,,05710288,,06/20/2012,3690,"Invoice-Private",,06/20/2012,06/20/2012,,05715523MO,-4797.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2820,2820,"CR:Basic Service F... R.Munden 201206: Munden, Rosella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,870,870,"CR:Resident Care -... R.Munden 201206: Munden, Rosella",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201111,B,6063.0000,
+INVOICE,IN,,11910191,,11/11/2011,1833.0000,"Invoice-Private",,11/11/2011,11/11/2011,,11915463MO,-2397.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,13,89.0000,1157.00,"Basic Service Fee - Studio for Nov: Amend, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,13,52.0000,676.00,"Resident Care - Level 3 for Nov: Amend, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,11910191,,11/11/2011,4230,"Invoice-Private",,11/11/2011,11/11/2011,,11915463MO,-2397.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2670,2670,"CR:Basic Service F... E.Amend 201111: Amend, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1560,1560,"CR:Resident Care -... E.Amend 201111: Amend, Elizabeth",,,,,,,,,,,,,,,

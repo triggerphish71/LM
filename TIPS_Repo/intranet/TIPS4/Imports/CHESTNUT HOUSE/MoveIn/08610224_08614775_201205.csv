@@ -1,0 +1,5 @@
+BATCH,,201205,B,5782.0000,
+INVOICE,IN,,08610224,,05/01/2012,5782.0000,"MoveIn-King. Mary",,05/01/2012,05/01/2012,,08614775,5782.0000,,,,,,,,,,
+TRANSACTION,3010,010305086,31,89.0000,2759,"Basic Service Fee - Studio: King. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305086,31,33.0000,1023,"Resident Care - Level 2: King. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305086,1,2000.0000,2000,"New Resident Fee: King. Mary",,,,,,,,,,,,,,,

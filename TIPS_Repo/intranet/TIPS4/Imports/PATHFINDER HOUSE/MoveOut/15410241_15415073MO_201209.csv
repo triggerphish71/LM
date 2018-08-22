@@ -1,0 +1,7 @@
+BATCH,,201209,B,3695.0000,
+INVOICE,IN,,15410241,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,15415073MO,-3908.0000,,,,,,,,,,
+TRANSACTION,3320,010211154,1,60.0000,60.00,"CR:Limited Term Di... M.Stenger 201209: Stenger, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,15410241,,09/01/2012,3635,"Invoice-Private",,09/01/2012,09/10/2012,,15415073MO,-3908.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2100,2100,"CR:Basic Service F... M.Stenger 201209: Stenger, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... M.Stenger 201209: Stenger, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1500,1500,"CR:Resident Care -... M.Stenger 201209: Stenger, Marjorie",,,,,,,,,,,,,,,

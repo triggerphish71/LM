@@ -1,0 +1,7 @@
+BATCH,,201306,B,2652.0000,
+INVOICE,IN,,17610343,,06/18/2013,73.0000,"Invoice-Private",,06/18/2013,06/18/2013,,17615116MO,-5079.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,73.0000,73.00,"Basic Service Fee - Studio for Jun: Belson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,17610343,,06/18/2013,2579,"Invoice-Private",,06/18/2013,06/18/2013,,17615116MO,-5079.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,949,949,"CR:Basic Service F... R.Belson 201306: Belson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,130,130,"CR:CC Meals... R.Belson 201306: Belson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500,1500,"CR:New Tenant Fee... R.Belson 201306: Belson, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,9146.0000,
+INVOICE,IN,,53110225,,09/23/2011,4056.0000,"Invoice-Private",,09/23/2011,09/23/2011,,53113824MO,-7188.9000,,,,,,,,,,
+TRANSACTION,3027,010319531,24,74.0000,1776.00,"Resident Care - Level 6 for Sep: Raczynski, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319531,24,95.0000,2280.00,"Room and Board - Studio for Sep: Raczynski, Jeanette",,,,,,,,,,,,,,,
+INVOICE,CM,,53110225,,09/23/2011,5090,"Invoice-Private",,09/23/2011,09/23/2011,,53113824MO,-7188.9000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... J.Raczynski 201109: Raczynski, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,2220,2220,"CR:Resident Care -... J.Raczynski 201109: Raczynski, Jeanette",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2850,2850,"CR:Room and Board ... J.Raczynski 201109: Raczynski, Jeanette",,,,,,,,,,,,,,,

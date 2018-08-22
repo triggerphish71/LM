@@ -1,0 +1,5 @@
+BATCH,,201202,B,54.0000,
+INVOICE,IN,,05510207,,02/01/2012,27.0000,"Invoice-Private",,02/01/2012,02/10/2012,,05514250MO,-2497.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27.0000,27.00,"Monthly Cable: Harper, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,05510207,,02/01/2012,27,"Invoice-Private",,02/01/2012,02/10/2012,,05514250MO,-2497.0000,,,,,,,,,,
+TRANSACTION,3260,010202055,1,27,27,"Credit for Monthly Cable: Harper, Mildred",,,,,,,,,,,,,,,

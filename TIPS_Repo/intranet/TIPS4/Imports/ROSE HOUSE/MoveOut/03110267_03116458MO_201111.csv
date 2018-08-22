@@ -1,0 +1,8 @@
+BATCH,,201111,B,5052.0000,
+INVOICE,IN,,03110267,,11/01/2011,1212.0000,"Invoice-Private",,11/01/2011,11/10/2011,,03116458MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3320,010202031,1,60.0000,60.00,"CR:Limited Term Di... W.Gresham 201111: Gresham, William ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202031,9,99.0000,891.00,"Basic Service Fee - Studio for Nov: Gresham, William ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,9,29.0000,261.00,"Resident Care - Level 2 for Nov: Gresham, William ",,,,,,,,,,,,,,,
+INVOICE,CM,,03110267,,11/01/2011,3840,"Invoice-Private",,11/01/2011,11/10/2011,,03116458MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2970,2970,"CR:Basic Service F... W.Gresham 201111: Gresham, William ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,870,870,"CR:Resident Care -... W.Gresham 201111: Gresham, William ",,,,,,,,,,,,,,,

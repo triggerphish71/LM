@@ -1,0 +1,6 @@
+BATCH,,201111,B,4398.0000,
+INVOICE,IN,,11210270,,11/10/2011,4398.0000,"MoveIn-Cline. Edward",,11/10/2011,11/10/2011,,11215698,4398.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,21,94.0000,1974,"Basic Service Fee - Studio         : Cline. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310112,21,19.0000,399,"Resident Care - Level 1: Cline. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Cline. Edward",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Cline. Edward",,,,,,,,,,,,,,,

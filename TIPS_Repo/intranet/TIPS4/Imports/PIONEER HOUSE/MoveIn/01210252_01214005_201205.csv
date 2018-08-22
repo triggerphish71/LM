@@ -1,0 +1,5 @@
+BATCH,,201205,B,2236.0000,
+INVOICE,IN,,01210252,,05/25/2012,2236.0000,"MoveIn-Diers. Lorene",,05/25/2012,05/25/2012,,01214005,5295.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,7,101.0000,707,"Basic Service Fee - One Bedroom: Diers. Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Diers. Lorene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Diers. Lorene",,,,,,,,,,,,,,,

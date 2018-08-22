@@ -1,0 +1,7 @@
+BATCH,,201112,B,180.0000,
+INVOICE,IN,,14410163,,12/01/2011,90.0000,"Invoice-Private",,12/01/2011,12/10/2011,,14414896MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28.0000,28.00,"Monthly Cable: Jenkins, Sr., Evans",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2.0000,62.00,"Credit for Limited Term Discount: Jenkins, Sr., Evans",,,,,,,,,,,,,,,
+INVOICE,CM,,14410163,,12/01/2011,90,"Invoice-Private",,12/01/2011,12/10/2011,,14414896MO,-4510.0000,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"Credit for Monthly Cable: Jenkins, Sr., Evans",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308144,31,2,62,"Limited Term Discount: Jenkins, Sr., Evans",,,,,,,,,,,,,,,

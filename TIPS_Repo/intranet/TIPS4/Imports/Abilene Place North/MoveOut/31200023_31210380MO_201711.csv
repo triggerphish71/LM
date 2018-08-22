@@ -1,0 +1,8 @@
+BATCH,,201711,B,8005.0000,
+INVOICE,IN,,31200023,,11/27/2017,3780.0000,"Invoice-Private",,11/27/2017,11/27/2017,,31210380MO,-4810.0000,,,,,,,,,,
+TRANSACTION,3027,070024312,27,76.0000,2052.00,"Resident Care - Level 5  for Nov: Holeman, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,27,64.0000,1728.00,"Studio Deluxe  for Nov: Holeman, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,31200023,,11/27/2017,4225,"Invoice-Private",,11/27/2017,11/27/2017,,31210380MO,-4810.0000,,,,,,,,,,
+TRANSACTION,3260,070024312,1,25,25,"CR:Monthly Cable... R.Holeman 201711: Holeman, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,070024312,1,2280,2280,"CR:Resident Care -... R.Holeman 201711: Holeman, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,070024312,1,1920,1920,"CR:Studio Deluxe... R.Holeman 201711: Holeman, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,3215.0000,
+INVOICE,IN,,13210271,,01/20/2012,3215.0000,"MoveIn-Birdsong. Jean",,01/20/2012,01/20/2012,,13215273,6113.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,12,99.0000,1188,"Basic Service Fee - Studio: Birdsong. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Birdsong. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Birdsong. Jean",,,,,,,,,,,,,,,

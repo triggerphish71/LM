@@ -1,0 +1,5 @@
+BATCH,,201107,B,70.0000,
+INVOICE,IN,,17410202,,07/01/2011,35.0000,"Invoice-Private",,07/01/2011,07/10/2011,,17413907MO,-3755.0000,,,,,,,,,,
+TRANSACTION,3130,010309174,1,35.0000,35.00,"Pendant Fee: Salladay, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,17410202,,07/01/2011,35,"Invoice-Private",,07/01/2011,07/10/2011,,17413907MO,-3755.0000,,,,,,,,,,
+TRANSACTION,3130,010309174,1,35,35,"Credit for Pendant Fee: Salladay, Laura",,,,,,,,,,,,,,,

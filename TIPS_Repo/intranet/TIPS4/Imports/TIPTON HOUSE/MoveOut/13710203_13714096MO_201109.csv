@@ -1,0 +1,7 @@
+BATCH,,201109,B,5616.0000,
+INVOICE,IN,,13710203,,09/02/2011,2496.0000,"Invoice-Private",,09/02/2011,09/02/2011,,13714096MO,-3848.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,24,86.0000,2064.00,"Basic Service Fee - Studio for Sep: Mann, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,24,18.0000,432.00,"Resident Care - Level 1 for Sep: Mann, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,13710203,,09/02/2011,3120,"Invoice-Private",,09/02/2011,09/02/2011,,13714096MO,-3848.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2580,2580,"CR:Basic Service F... E.Mann 201109: Mann, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,540,540,"CR:Resident Care -... E.Mann 201109: Mann, Eleanor",,,,,,,,,,,,,,,

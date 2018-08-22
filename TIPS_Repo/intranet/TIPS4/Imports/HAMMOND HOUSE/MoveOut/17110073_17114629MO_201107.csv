@@ -1,0 +1,7 @@
+BATCH,,201107,B,4522.0000,
+INVOICE,IN,,17110073,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,17114629MO,-5509.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,62.0000,62.00,"CR:Limited Term Di... K.Byers 201107: Byers, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,17110073,,07/01/2011,4460,"Invoice-Private",,07/01/2011,07/10/2011,,17114629MO,-5509.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2790,2790,"CR:Basic Service F... K.Byers 201107: Byers, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... K.Byers 201107: Byers, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1643,1643,"CR:Resident Care -... K.Byers 201107: Byers, Katherine",,,,,,,,,,,,,,,

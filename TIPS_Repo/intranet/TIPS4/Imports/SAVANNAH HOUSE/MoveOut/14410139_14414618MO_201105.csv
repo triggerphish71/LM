@@ -1,0 +1,8 @@
+BATCH,,201105,B,7678.0000,
+INVOICE,IN,,14410139,,05/14/2011,2380.0000,"Invoice-Private",,05/14/2011,05/14/2011,,14414618MO,-2918.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,14,101.0000,1414.00,"Basic Service Fee - Studio for May: Hinnant, Emma Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,14,69.0000,966.00,"Resident Care - Level 5 for May: Hinnant, Emma Lee",,,,,,,,,,,,,,,
+INVOICE,CM,,14410139,,05/14/2011,5298,"Invoice-Private",,05/14/2011,05/14/2011,,14414618MO,-2918.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3131,3131,"CR:Basic Service F... E.Hinnant 201105: Hinnant, Emma Lee",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... E.Hinnant 201105: Hinnant, Emma Lee",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,2139,2139,"CR:Resident Care -... E.Hinnant 201105: Hinnant, Emma Lee",,,,,,,,,,,,,,,

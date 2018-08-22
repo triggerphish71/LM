@@ -1,0 +1,7 @@
+BATCH,,201112,B,1098.0200,
+INVOICE,IN,,51310119,,12/01/2011,549.0100,"Invoice-Private",,12/01/2011,12/10/2011,,51313592MO,-3674.9000,,,,,,,,,,
+TRANSACTION,3019,010310513,31,13.6000,421.60,"Additional Service Charge: Komly, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3311,010310513,31,4.1100,127.41,"Credit for Advance Payment Discount: Komly, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,51310119,,12/01/2011,549.01,"Invoice-Private",,12/01/2011,12/10/2011,,51313592MO,-3674.9000,,,,,,,,,,
+TRANSACTION,3019,010310513,31,13.6,421.6,"Credit for Additional Service Charge: Komly, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3311,010310513,31,4.11,127.41,"Advance Payment Discount: Komly, Elizabeth",,,,,,,,,,,,,,,

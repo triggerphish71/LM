@@ -1,0 +1,8 @@
+BATCH,,201206,B,8317.4500,
+INVOICE,IN,,15310222,,06/25/2012,4189.7500,"Invoice-Private",,06/25/2012,06/25/2012,,15316131MO,-3428.2400,,,,,,,,,,
+TRANSACTION,3320,010103153,1,750.0000,750.00,"CR:Limited Term Di... E.Story 201206: Story, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,25,100.0000,2500.00,"Basic Service Fee - Studio for Jun: Story, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,25,37.5900,939.75,"Resident Care - Level 21 for Jun: Story, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,15310222,,06/25/2012,4127.7,"Invoice-Private",,06/25/2012,06/25/2012,,15316131MO,-3428.2400,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... E.Story 201206: Story, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1127.7,1127.7,"CR:Resident Care -... E.Story 201206: Story, Edward",,,,,,,,,,,,,,,

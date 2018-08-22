@@ -1,0 +1,6 @@
+BATCH,,201106,B,6141.0000,
+INVOICE,IN,,10410131,,06/01/2011,1020.0000,"Invoice-Private",,06/01/2011,06/10/2011,,10414431MO,-4101.0000,,,,,,,,,,
+TRANSACTION,3320,010101104,1,1020.0000,1020.00,"CR:Limited Term Di... L.Klopolsky 201106: Klopolsky, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,10410131,,06/01/2011,5121,"Invoice-Private",,06/01/2011,06/10/2011,,10414431MO,-4101.0000,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2520,2520,"CR:Basic Service F... L.Klopolsky 201106: Klopolsky, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101104,1,2601,2601,"CR:Resident Care -... L.Klopolsky 201106: Klopolsky, Louise",,,,,,,,,,,,,,,

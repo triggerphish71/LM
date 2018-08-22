@@ -1,0 +1,8 @@
+BATCH,,201109,B,6194.0000,
+INVOICE,IN,,53410260,,09/15/2011,2144.0000,"Invoice-Private",,09/15/2011,09/15/2011,,53419821MO,-6090.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,16,67.0000,1072.00,"Resident Care - Level 3 for Sep: Habeck, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,16,67.0000,1072.00,"Room and Board - Studio for Sep: Habeck, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,53410260,,09/15/2011,4050,"Invoice-Private",,09/15/2011,09/15/2011,,53419821MO,-6090.0000,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... D.Habeck 201109: Habeck, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2010,2010,"CR:Resident Care -... D.Habeck 201109: Habeck, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2010,2010,"CR:Room and Board ... D.Habeck 201109: Habeck, Doris",,,,,,,,,,,,,,,

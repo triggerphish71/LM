@@ -1,0 +1,5 @@
+BATCH,,201202,B,60.0000,
+INVOICE,IN,,12410259,,02/01/2012,30.0000,"Invoice-Private",,02/01/2012,02/10/2012,,12414626MO,-4424.0000,,,,,,,,,,
+TRANSACTION,3217,010211124,1,30.0000,30.00,"Transportation Fee: Walter, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,12410259,,02/01/2012,30,"Invoice-Private",,02/01/2012,02/10/2012,,12414626MO,-4424.0000,,,,,,,,,,
+TRANSACTION,3217,010211124,1,30,30,"Credit for Transportation Fee: Walter, Elsie",,,,,,,,,,,,,,,

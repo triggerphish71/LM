@@ -1,0 +1,6 @@
+BATCH,,201805,B,4479.5000,
+INVOICE,IN,,41800011,,05/01/2018,232.5000,"Invoice-Private",,05/01/2018,05/10/2018,,41811820MO,-7804.0000,,,,,,,,,,
+TRANSACTION,3316,060010418,1,232.5000,232.50,"CR:Employee Discou... C.Crossland 201805: Crossland, Cainwain ",,,,,,,,,,,,,,,
+INVOICE,CM,,41800011,,05/01/2018,4247,"Invoice-Private",,05/01/2018,05/10/2018,,41811820MO,-7804.0000,,,,,,,,,,
+TRANSACTION,3027,060010418,1,2697,2697,"CR:Resident Care -... C.Crossland 201805: Crossland, Cainwain ",,,,,,,,,,,,,,,
+TRANSACTION,3020,060010418,1,1550,1550,"CR:Studio... C.Crossland 201805: Crossland, Cainwain ",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,2046.0000,
+INVOICE,IN,,09410299,,10/01/2012,1023.0000,"Invoice-Private",,10/01/2012,10/10/2012,,09416091MO,-6068.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,31,33.0000,1023.00,"Credit for Limited Term Discount: Vella, Samuel",,,,,,,,,,,,,,,
+INVOICE,CM,,09410299,,10/01/2012,1023,"Invoice-Private",,10/01/2012,10/10/2012,,09416091MO,-6068.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,31,33,1023,"Limited Term Discount: Vella, Samuel",,,,,,,,,,,,,,,

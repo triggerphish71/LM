@@ -1,0 +1,5 @@
+BATCH,,201203,B,54.0000,
+INVOICE,IN,,13010243,,03/01/2012,27.0000,"Invoice-Private",,03/01/2012,03/10/2012,,13015606MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27.00,"Monthly Cable: Thimons, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,13010243,,03/01/2012,27,"Invoice-Private",,03/01/2012,03/10/2012,,13015606MO,-3684.0000,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27,27,"Credit for Monthly Cable: Thimons, Jane",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,3858.0000,
+INVOICE,IN,,15710214,,06/10/2011,1188.0000,"Invoice-Private",,06/10/2011,06/10/2011,,15714121MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,120.0000,120.00,"CR:Limited Term Di... C.Clingenpeel 201106: Clingenpeel, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309157,12,89.0000,1068.00,"Basic Service Fee - Studio for Jun: Clingenpeel, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,15710214,,06/10/2011,2670,"Invoice-Private",,06/10/2011,06/10/2011,,15714121MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2670,2670,"CR:Basic Service F... C.Clingenpeel 201106: Clingenpeel, Catherine",,,,,,,,,,,,,,,

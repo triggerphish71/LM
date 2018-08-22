@@ -1,0 +1,8 @@
+BATCH,,201104,B,6910.0000,
+INVOICE,IN,,14310042,,04/14/2011,3125.0000,"Invoice-Private",,04/14/2011,04/14/2011,,14313950MO,-4570.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,25,80.0000,2000.00,"Basic Service Fee - Studio for Apr: Wiley, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,25,45.0000,1125.00,"Resident Care - Level 3 for Apr: Wiley, Leah",,,,,,,,,,,,,,,
+INVOICE,CM,,14310042,,04/14/2011,3785,"Invoice-Private",,04/14/2011,04/14/2011,,14313950MO,-4570.0000,,,,,,,,,,
+TRANSACTION,3020,010309143,1,2400,2400,"CR:Basic Service F... L.Wiley 201104: Wiley, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309143,1,35,35,"CR:Monthly Cable... L.Wiley 201104: Wiley, Leah",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309143,1,1350,1350,"CR:Resident Care -... L.Wiley 201104: Wiley, Leah",,,,,,,,,,,,,,,

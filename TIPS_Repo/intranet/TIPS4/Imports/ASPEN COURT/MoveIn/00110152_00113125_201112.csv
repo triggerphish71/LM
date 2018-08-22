@@ -1,0 +1,5 @@
+BATCH,,201112,B,3245.0000,
+INVOICE,IN,,00110152,,12/02/2011,3245.0000,"MoveIn-Reily. Helen",,12/02/2011,12/02/2011,,00113125,3245.0000,,,,,,,,,,
+TRANSACTION,3010,010101001,30,74.0000,2220,"Basic Service Fee - Studio: Reily. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Reily. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Reily. Helen",,,,,,,,,,,,,,,

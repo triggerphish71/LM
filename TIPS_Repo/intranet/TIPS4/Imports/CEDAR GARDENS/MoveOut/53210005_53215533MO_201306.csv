@@ -1,0 +1,7 @@
+BATCH,,201306,B,6720.0000,
+INVOICE,IN,,53210005,,06/01/2013,960.0000,"Invoice-Private",,06/01/2013,06/10/2013,,53215533MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,5,115.0000,575.00,"Basic Service Fee - Studio for Jun: Bruss, Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,5,77.0000,385.00,"Resident Care - Level 6 for Jun: Bruss, Edgar",,,,,,,,,,,,,,,
+INVOICE,CM,,53210005,,06/01/2013,5760,"Invoice-Private",,06/01/2013,06/10/2013,,53215533MO,-4800.0000,,,,,,,,,,
+TRANSACTION,3020,010319532,1,3450,3450,"CR:Basic Service F... E.Bruss 201306: Bruss, Edgar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319532,1,2310,2310,"CR:Resident Care -... E.Bruss 201306: Bruss, Edgar",,,,,,,,,,,,,,,

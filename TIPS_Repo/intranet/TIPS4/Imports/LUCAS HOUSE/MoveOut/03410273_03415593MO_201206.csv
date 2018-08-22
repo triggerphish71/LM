@@ -1,0 +1,7 @@
+BATCH,,201206,B,6249.0000,
+INVOICE,IN,,03410273,,06/22/2012,3342.0000,"Invoice-Private",,06/22/2012,06/22/2012,,03415593MO,-1297.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1230.0000,1230.00,"CR:Limited Term Di... W.Clark 201206: Clark, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202034,22,96.0000,2112.00,"Basic Service Fee - Studio for Jun: Clark, Waneta",,,,,,,,,,,,,,,
+INVOICE,CM,,03410273,,06/22/2012,2907,"Invoice-Private",,06/22/2012,06/22/2012,,03415593MO,-1297.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2880,2880,"CR:Basic Service F... W.Clark 201206: Clark, Waneta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... W.Clark 201206: Clark, Waneta",,,,,,,,,,,,,,,

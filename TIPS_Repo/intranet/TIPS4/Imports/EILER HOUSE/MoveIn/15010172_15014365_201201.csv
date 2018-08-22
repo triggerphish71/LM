@@ -1,0 +1,6 @@
+BATCH,,201201,B,3249.0000,
+INVOICE,IN,,15010172,,01/23/2012,3249.0000,"MoveIn-Marquis. Ruth",,01/23/2012,01/23/2012,,15014365,7218.0000,,,,,,,,,,
+TRANSACTION,3010,010212150,9,118.0000,1062,"Basic Service Fee - One Bedroom    : Marquis. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212150,9,18.0000,162,"Resident Care - Level 1: Marquis. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212150,1,25.0000,25,"Monthly Cable: Marquis. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212150,1,2000.0000,2000,"New Resident Fee: Marquis. Ruth",,,,,,,,,,,,,,,

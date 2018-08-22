@@ -1,0 +1,7 @@
+alcco
+ePtmms7x
+cd /21180
+put \\FS01\AR\Collections\Collectionletters\Pending\History\lettersdetails.xls
+put \\FS01\AR\ALCAccount-to-House.xls
+close 69.129.28.250
+bye

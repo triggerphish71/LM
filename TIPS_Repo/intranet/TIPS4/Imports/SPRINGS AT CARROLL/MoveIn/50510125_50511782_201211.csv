@@ -1,0 +1,5 @@
+BATCH,,201211,B,4195.0000,
+INVOICE,IN,,50510125,,11/01/2012,4195.0000,"November_Rent-Rife. James",,11/01/2012,11/10/2012,,50511782,5749.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,30,90.0000,2700,"Basic Service Fee - Studio: Rife. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,30,49.0000,1470,"Resident Care - Level 4: Rife. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Rife. James",,,,,,,,,,,,,,,

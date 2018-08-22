@@ -1,0 +1,5 @@
+BATCH,,201203,B,3610.0000,
+INVOICE,IN,,53410430,,03/09/2012,3610.0000,"MoveIn-Oostdyk. Shirley",,03/09/2012,03/09/2012,,53420575,3610.0000,,,,,,,,,,
+TRANSACTION,3010,010319534,23,31.0000,713,"S.Oostdyk: Basic Service Fee - Second Resident: Oostdyk. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319534,23,39.0000,897,"S.Oostdyk: Resident Care - Level 1: Oostdyk. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319534,1,2000.0000,2000,"New Resident Fee: Oostdyk. Shirley",,,,,,,,,,,,,,,

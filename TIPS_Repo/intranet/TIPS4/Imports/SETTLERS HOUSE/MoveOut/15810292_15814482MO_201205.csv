@@ -1,0 +1,5 @@
+BATCH,,201205,B,248.0000,
+INVOICE,IN,,15810292,,05/01/2012,124.0000,"Invoice-Private",,05/01/2012,05/10/2012,,15814482MO,-5636.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,31,4.0000,124.00,"Credit for Limited Term Discount: Lerch, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,15810292,,05/01/2012,124,"Invoice-Private",,05/01/2012,05/10/2012,,15814482MO,-5636.0000,,,,,,,,,,
+TRANSACTION,3320,010309158,31,4,124,"Limited Term Discount: Lerch, Eugene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,54.0000,
+INVOICE,IN,,15310200,,11/01/2011,27.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15315679MO,-3539.6000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27.0000,27.00,"Monthly Cable: McGuire, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,15310200,,11/01/2011,27,"Invoice-Private",,11/01/2011,11/10/2011,,15315679MO,-3539.6000,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"Credit for Monthly Cable: McGuire, Audrey",,,,,,,,,,,,,,,

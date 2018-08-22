@@ -1,0 +1,5 @@
+BATCH,,201301,B,1922.0000,
+INVOICE,IN,,08510245,,01/01/2013,961.0000,"Invoice-Private",,01/01/2013,01/10/2013,,08514428MO,789.0000,,,,,,,,,,
+TRANSACTION,3320,010305085,31,31.0000,961.00,"Credit for Limited Term Discount: Bradshaw, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,08510245,,01/01/2013,961,"Invoice-Private",,01/01/2013,01/10/2013,,08514428MO,789.0000,,,,,,,,,,
+TRANSACTION,3320,010305085,31,31,961,"Limited Term Discount: Bradshaw, Ralph",,,,,,,,,,,,,,,

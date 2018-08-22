@@ -1,0 +1,5 @@
+BATCH,,201206,B,120.0000,
+INVOICE,IN,,09510193,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,09514910MO,-3935.7600,,,,,,,,,,
+TRANSACTION,3320,010103095,30,2.0000,60.00,"Credit for Limited Term Discount: Reed, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,09510193,,06/01/2012,60,"Invoice-Private",,06/01/2012,06/10/2012,,09514910MO,-3935.7600,,,,,,,,,,
+TRANSACTION,3320,010103095,30,2,60,"Limited Term Discount: Reed, Frances",,,,,,,,,,,,,,,

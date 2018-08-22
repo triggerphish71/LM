@@ -1,0 +1,7 @@
+BATCH,,201806,B,5358.0000,
+INVOICE,IN,,02411440,,06/01/2018,1848.0000,"Invoice-Private",,06/01/2018,06/10/2018,,02418357MO,-293.0000,,,,,,,,,,
+TRANSACTION,3017,010002024,12,75.0000,900.00," Level: 5 : Frey, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002024,12,79.0000,948.00,"Basic Service Fee - Studio  for Jun: Frey, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,02411440,,06/01/2018,3510,"Invoice-Private",,06/01/2018,06/10/2018,,02418357MO,-293.0000,,,,,,,,,,
+TRANSACTION,3020,010002024,1,2370,2370,"CR:Basic Service F... B.Frey 201806: Frey, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002024,1,1140,1140,"CR:Resident Care -... B.Frey 201806: Frey, Betty",,,,,,,,,,,,,,,

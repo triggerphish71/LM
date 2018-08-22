@@ -1,0 +1,5 @@
+BATCH,,201203,B,4914.0000,
+INVOICE,IN,,17010294,,03/05/2012,4914.0000,"MoveIn-Brake. Peggy",,03/05/2012,03/05/2012,,17014414,4914.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,27,107.0000,2889,"Basic Service Fee - One Bedroom: Brake. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Brake. Peggy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Brake. Peggy",,,,,,,,,,,,,,,

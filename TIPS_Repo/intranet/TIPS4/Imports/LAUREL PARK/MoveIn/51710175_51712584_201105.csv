@@ -1,0 +1,7 @@
+BATCH,,201105,B,4454.2000,
+INVOICE,IN,,51710175,,05/08/2011,4454.2000,"MoveIn-Wilder. Bill",,05/08/2011,05/08/2011,,51712584,4454.2000,,,,,,,,,,
+TRANSACTION,3010,010103517,24,94.0000,2256,"Basic Service Fee - Studio Deluxe: Wilder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103517,24,6.8000,163.2,"Resident Care - Level 4: Wilder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Wilder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,2000.0000,2000,"New Resident Fee: Wilder. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10.0000,10,"Pendant Fee: Wilder. Bill",,,,,,,,,,,,,,,

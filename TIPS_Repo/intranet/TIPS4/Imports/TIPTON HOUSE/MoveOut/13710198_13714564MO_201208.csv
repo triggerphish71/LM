@@ -1,0 +1,7 @@
+BATCH,,201208,B,5440.0000,
+INVOICE,IN,,13710198,,08/03/2012,480.0000,"Invoice-Private",,08/03/2012,08/03/2012,,13714564MO,-4480.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,3,90.0000,270.00,"Basic Service Fee - Studio for Aug: Burkart, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,3,70.0000,210.00,"Resident Care - Level 5 for Aug: Burkart, Keith",,,,,,,,,,,,,,,
+INVOICE,CM,,13710198,,08/03/2012,4960,"Invoice-Private",,08/03/2012,08/03/2012,,13714564MO,-4480.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... K.Burkart 201208: Burkart, Keith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,2170,2170,"CR:Resident Care -... K.Burkart 201208: Burkart, Keith",,,,,,,,,,,,,,,

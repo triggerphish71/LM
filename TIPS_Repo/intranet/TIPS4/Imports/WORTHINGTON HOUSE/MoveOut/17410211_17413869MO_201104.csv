@@ -1,0 +1,5 @@
+BATCH,,201104,B,3312.0000,
+INVOICE,IN,,17410211,,04/01/2011,552.0000,"Invoice-Private",,04/01/2011,04/10/2011,,17413869MO,-5060.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,6,92.0000,552.00,"Basic Service Fee - Studio for Apr: Rydell, Merva",,,,,,,,,,,,,,,
+INVOICE,CM,,17410211,,04/01/2011,2760,"Invoice-Private",,04/01/2011,04/10/2011,,17413869MO,-5060.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2760,2760,"CR:Basic Service F... M.Rydell 201104: Rydell, Merva",,,,,,,,,,,,,,,

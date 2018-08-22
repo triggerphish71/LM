@@ -1,0 +1,7 @@
+BATCH,,201212,B,4896.0000,
+INVOICE,IN,,08610067,,12/05/2012,680.0000,"Invoice-Private",,12/05/2012,12/05/2012,,08615058MO,-3536.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,5,89.0000,445.00,"Basic Service Fee - Studio for Dec: Kurtz, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,5,47.0000,235.00,"Resident Care - Level 3 for Dec: Kurtz, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,08610067,,12/05/2012,4216,"Invoice-Private",,12/05/2012,12/05/2012,,08615058MO,-3536.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2759,2759,"CR:Basic Service F... F.Kurtz 201212: Kurtz, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1457,1457,"CR:Resident Care -... F.Kurtz 201212: Kurtz, Florence",,,,,,,,,,,,,,,

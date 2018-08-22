@@ -1,0 +1,5 @@
+BATCH,,201806,B,5909.9300,
+INVOICE,IN,,21610462,,06/22/2018,2904.9300,"Invoice-Private",,06/22/2018,06/22/2018,,21617651MO,-100.0700,,,,,,,,,,
+TRANSACTION,3020,010016216,1,2904.9300,2904.93,"MC Companion One Bedroom for Jun: Jefferson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,21610462,,06/22/2018,3005,"Invoice-Private",,06/22/2018,06/22/2018,,21617651MO,-100.0700,,,,,,,,,,
+TRANSACTION,3020,010016216,1,3005,3005,"CR:MC Companion On... C.Jefferson 201806: Jefferson, Charles",,,,,,,,,,,,,,,

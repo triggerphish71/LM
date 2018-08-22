@@ -1,0 +1,5 @@
+BATCH,,201112,B,3749.0000,
+INVOICE,IN,,21210175,,12/08/2011,3749.0000,"MoveIn-Smith. David",,12/08/2011,12/08/2011,,21212202,3749.0000,,,,,,,,,,
+TRANSACTION,3010,010208212,24,92.0000,2208,"D.Smith: Studio Deluxe: Smith. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41,"Monthly Cable: Smith. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010208212,1,1500.0000,1500,"New Resident Fee: Smith. David",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201208,B,5425.0000,
+INVOICE,IN,,03210201,,08/01/2012,1209.0000,"Invoice-Private",,08/01/2012,08/10/2012,,03214981MO,-3430.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,1209.0000,1209.00,"CR:Limited Term Di... G.Glidden 201208: Glidden, George",,,,,,,,,,,,,,,
+INVOICE,CM,,03210201,,08/01/2012,4216,"Invoice-Private",,08/01/2012,08/10/2012,,03214981MO,-3430.0000,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1302,1302,"CR:Resident Care -... G.Glidden 201208: Glidden, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Room and Board ... G.Glidden 201208: Glidden, George",,,,,,,,,,,,,,,

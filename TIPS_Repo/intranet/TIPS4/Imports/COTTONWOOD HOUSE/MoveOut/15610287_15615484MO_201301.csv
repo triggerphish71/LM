@@ -1,0 +1,5 @@
+BATCH,,201301,B,90.0000,
+INVOICE,IN,,15610287,,01/01/2013,45.0000,"Invoice-Private",,01/01/2013,01/10/2013,,15615484MO,-7526.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45.0000,45.00,"Pendant Fee: Williams, Maxyne",,,,,,,,,,,,,,,
+INVOICE,CM,,15610287,,01/01/2013,45,"Invoice-Private",,01/01/2013,01/10/2013,,15615484MO,-7526.0000,,,,,,,,,,
+TRANSACTION,3130,010211156,1,45,45,"Credit for Pendant Fee: Williams, Maxyne",,,,,,,,,,,,,,,

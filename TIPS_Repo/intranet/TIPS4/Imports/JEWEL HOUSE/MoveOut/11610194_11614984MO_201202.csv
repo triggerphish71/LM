@@ -1,0 +1,7 @@
+BATCH,,201202,B,7236.0000,
+INVOICE,IN,,11610194,,02/18/2012,3350.0000,"Invoice-Private",,02/18/2012,02/18/2012,,11614984MO,-4690.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,25,100.0000,2500.00,"Basic Service Fee - Studio for Feb: Stafford, William H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,25,34.0000,850.00,"Resident Care - Level 2 for Feb: Stafford, William H",,,,,,,,,,,,,,,
+INVOICE,CM,,11610194,,02/18/2012,3886,"Invoice-Private",,02/18/2012,02/18/2012,,11614984MO,-4690.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,2900,2900,"CR:Basic Service F... W.Stafford 201202: Stafford, William H",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,986,986,"CR:Resident Care -... W.Stafford 201202: Stafford, William H",,,,,,,,,,,,,,,

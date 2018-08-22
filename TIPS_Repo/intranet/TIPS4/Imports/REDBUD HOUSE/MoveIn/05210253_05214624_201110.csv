@@ -1,0 +1,5 @@
+BATCH,,201110,B,2343.0000,
+INVOICE,IN,,05210253,,10/28/2011,2343.0000,"MoveIn-Miller. Barbara",,10/28/2011,10/28/2011,,05214624,4740.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,4,79.0000,316,"B.Miller: Basic Service Fee - Studio: Miller. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Miller. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Miller. Barbara",,,,,,,,,,,,,,,

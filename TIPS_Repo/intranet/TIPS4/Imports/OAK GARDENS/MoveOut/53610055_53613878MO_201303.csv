@@ -1,0 +1,5 @@
+BATCH,,201303,B,50.0000,
+INVOICE,IN,,53610055,,03/01/2013,25.0000,"Invoice-Private",,03/01/2013,03/10/2013,,53613878MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25.0000,25.00,"Pendant Fee: Johnson, George",,,,,,,,,,,,,,,
+INVOICE,CM,,53610055,,03/01/2013,25,"Invoice-Private",,03/01/2013,03/10/2013,,53613878MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"Credit for Pendant Fee: Johnson, George",,,,,,,,,,,,,,,

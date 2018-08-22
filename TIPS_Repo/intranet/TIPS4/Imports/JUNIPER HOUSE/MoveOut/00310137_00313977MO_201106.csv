@@ -1,0 +1,7 @@
+BATCH,,201106,B,1654.0000,
+INVOICE,IN,,00310137,,06/01/2011,827.0000,"Invoice-Private",,06/01/2011,06/10/2011,,00313977MO,-2854.5000,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27.00,"Monthly Cable: Bonbright, LaVelle",,,,,,,,,,,,,,,
+TRANSACTION,3315,010101003,1,800.0000,800.00,"Credit for Promotional Discount: Bonbright, LaVelle",,,,,,,,,,,,,,,
+INVOICE,CM,,00310137,,06/01/2011,827,"Invoice-Private",,06/01/2011,06/10/2011,,00313977MO,-2854.5000,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"Credit for Monthly Cable: Bonbright, LaVelle",,,,,,,,,,,,,,,
+TRANSACTION,3315,010101003,1,800,800,"Promotional Discount: Bonbright, LaVelle",,,,,,,,,,,,,,,

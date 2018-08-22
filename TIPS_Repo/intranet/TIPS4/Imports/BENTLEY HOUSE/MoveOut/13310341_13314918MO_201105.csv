@@ -1,0 +1,8 @@
+BATCH,,201105,B,4858.0000,
+INVOICE,IN,,13310341,,05/01/2011,1107.0000,"Invoice-Private",,05/01/2011,05/10/2011,,13314918MO,-2644.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,1,744.0000,744.00,"CR:Limited Term Di... F.O'Neill 201105: O'Neill, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310133,3,32.0000,96.00,"Resident Care - Level 2 for May: O'Neill, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,3,89.0000,267.00,"Room and Board - Studio for May: O'Neill, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,13310341,,05/01/2011,3751,"Invoice-Private",,05/01/2011,05/10/2011,,13314918MO,-2644.0000,,,,,,,,,,
+TRANSACTION,3027,010310133,1,992,992,"CR:Resident Care -... F.O'Neill 201105: O'Neill, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310133,1,2759,2759,"CR:Room and Board ... F.O'Neill 201105: O'Neill, Francis",,,,,,,,,,,,,,,

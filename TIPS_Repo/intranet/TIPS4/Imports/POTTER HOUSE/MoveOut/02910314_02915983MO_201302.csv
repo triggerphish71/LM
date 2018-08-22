@@ -1,0 +1,8 @@
+BATCH,,201302,B,5960.0000,
+INVOICE,IN,,02910314,,02/11/2013,2264.0000,"Invoice-Private",,02/11/2013,02/11/2013,,02915983MO,-1432.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,1,812.0000,812.00,"CR:Limited Term Di... D.McGill 201302: McGill, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,11,32.0000,352.00,"Resident Care - Level 2 for Feb: McGill, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,11,100.0000,1100.00,"Room and Board - Studio for Feb: McGill, Dennis",,,,,,,,,,,,,,,
+INVOICE,CM,,02910314,,02/11/2013,3696,"Invoice-Private",,02/11/2013,02/11/2013,,02915983MO,-1432.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,1,896,896,"CR:Resident Care -... D.McGill 201302: McGill, Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2800,2800,"CR:Room and Board ... D.McGill 201302: McGill, Dennis",,,,,,,,,,,,,,,

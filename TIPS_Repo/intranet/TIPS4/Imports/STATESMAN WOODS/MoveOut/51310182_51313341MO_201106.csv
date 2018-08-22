@@ -1,0 +1,7 @@
+BATCH,,201106,B,4402.0000,
+INVOICE,IN,,51310182,,06/01/2011,142.0000,"Invoice-Private",,06/01/2011,06/01/2011,,51313341MO,-4118.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,103.0000,103.00,"Basic Service Fee- Studio for Jun: Neary, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,39.0000,39.00,"Resident Care - Level 3 for Jun: Neary, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,51310182,,06/01/2011,4260,"Invoice-Private",,06/01/2011,06/01/2011,,51313341MO,-4118.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3090,3090,"CR:Basic Service F... M.Neary 201106: Neary, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,1170,1170,"CR:Resident Care -... M.Neary 201106: Neary, Mary",,,,,,,,,,,,,,,

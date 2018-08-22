@@ -1,0 +1,7 @@
+BATCH,,201110,B,8760.0000,
+INVOICE,IN,,10210194,,10/01/2011,4234.0000,"Invoice-Private",,10/01/2011,10/10/2011,,10214782MO,-292.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,29,111.0000,3219.00,"Basic Service Fee - Studio for Oct: Ingling, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,29,35.0000,1015.00,"Swan Personal Care - L2 for Oct: Ingling, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,10210194,,10/01/2011,4526,"Invoice-Private",,10/01/2011,10/10/2011,,10214782MO,-292.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Basic Service F... H.Ingling 201110: Ingling, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,1085,1085,"CR:Swan Personal C... H.Ingling 201110: Ingling, Harold",,,,,,,,,,,,,,,

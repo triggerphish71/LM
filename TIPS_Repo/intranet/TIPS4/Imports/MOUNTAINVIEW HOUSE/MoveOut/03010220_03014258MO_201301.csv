@@ -1,0 +1,5 @@
+BATCH,,201301,B,2772.0000,
+INVOICE,IN,,03010220,,01/02/2013,168.0000,"Invoice-Private",,01/02/2013,01/02/2013,,03014258MO,-2436.0000,,,,,,,,,,
+TRANSACTION,3020,010103030,2,84.0000,168.00,"Basic Service Fee - Studio for Jan: Edwards, Craig",,,,,,,,,,,,,,,
+INVOICE,CM,,03010220,,01/02/2013,2604,"Invoice-Private",,01/02/2013,01/02/2013,,03014258MO,-2436.0000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2604,2604,"CR:Basic Service F... C.Edwards 201301: Edwards, Craig",,,,,,,,,,,,,,,

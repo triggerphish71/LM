@@ -1,0 +1,8 @@
+BATCH,,201302,B,5684.3000,
+INVOICE,IN,,09810302,,02/10/2013,2300.5000,"Invoice-Private",,02/10/2013,02/10/2013,,09814961MO,-1083.3000,,,,,,,,,,
+TRANSACTION,3320,010103098,1,1092.0000,1092.00,"CR:Limited Term Di... A.Karas 201302: Karas, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103098,10,94.0000,940.00,"Basic Service Fee - Studio for Feb: Karas, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,10,26.8500,268.50,"Resident Care - Level 15 for Feb: Karas, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,09810302,,02/10/2013,3383.8,"Invoice-Private",,02/10/2013,02/10/2013,,09814961MO,-1083.3000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2632,2632,"CR:Basic Service F... A.Karas 201302: Karas, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,751.8,751.8,"CR:Resident Care -... A.Karas 201302: Karas, Alice",,,,,,,,,,,,,,,

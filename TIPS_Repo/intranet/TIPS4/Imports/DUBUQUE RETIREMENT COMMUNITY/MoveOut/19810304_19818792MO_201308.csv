@@ -1,0 +1,5 @@
+BATCH,,201308,B,60.0000,
+INVOICE,IN,,19810304,,08/01/2013,30.0000,"Invoice-Private",,08/01/2013,08/10/2013,,19818792MO,-2355.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Dusik, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,19810304,,08/01/2013,30,"Invoice-Private",,08/01/2013,08/10/2013,,19818792MO,-2355.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Dusik, Evelyn",,,,,,,,,,,,,,,

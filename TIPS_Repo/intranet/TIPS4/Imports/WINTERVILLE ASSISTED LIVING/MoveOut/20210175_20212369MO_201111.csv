@@ -1,0 +1,5 @@
+BATCH,,201111,B,2520.0000,
+INVOICE,IN,,20210175,,11/01/2011,1260.0000,"Invoice-Private",,11/01/2011,11/10/2011,,20212369MO,-1351.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,30,42.0000,1260.00,"Credit for Limited Term Discount: Collier, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,20210175,,11/01/2011,1260,"Invoice-Private",,11/01/2011,11/10/2011,,20212369MO,-1351.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,30,42,1260,"Limited Term Discount: Collier, Dorothy",,,,,,,,,,,,,,,

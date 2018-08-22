@@ -1,0 +1,8 @@
+BATCH,,201109,B,4296.0000,
+INVOICE,IN,,13610254,,09/24/2011,1896.0000,"Invoice-Private",,09/24/2011,09/24/2011,,13614240MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,24,64.0000,1536.00,"Basic Service Fee - One Bedroom for Sep: Walker, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,24,15.0000,360.00,"Resident Care - Level 1 for Sep: Walker, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13610254,,09/24/2011,2400,"Invoice-Private",,09/24/2011,09/24/2011,,13614240MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1920,1920,"CR:Basic Service F... R.Walker 201109: Walker, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"CR:Pendant Fee... R.Walker 201109: Walker, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309136,1,450,450,"CR:Resident Care -... R.Walker 201109: Walker, Robert",,,,,,,,,,,,,,,

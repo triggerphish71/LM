@@ -1,0 +1,7 @@
+BATCH,,201801,B,7329.7000,
+INVOICE,IN,,15310343,,01/01/2018,1188.6000,"Invoice-Private",,01/01/2018,01/10/2018,,15318585MO,-4952.5000,,,,,,,,,,
+TRANSACTION,3020,010003153,6,37.0000,222.00,"Basic Service Fee - One Bedroom  for Jan: Tayer, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,6,161.1000,966.60,"Resident Care - Level 71  for Jan: Tayer, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,15310343,,01/01/2018,6141.1,"Invoice-Private",,01/01/2018,01/10/2018,,15318585MO,-4952.5000,,,,,,,,,,
+TRANSACTION,3020,010003153,1,1147,1147,"CR:Basic Service F... R.Tayer 201801: Tayer, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,1,4994.1,4994.1,"CR:Resident Care -... R.Tayer 201801: Tayer, Raymond",,,,,,,,,,,,,,,

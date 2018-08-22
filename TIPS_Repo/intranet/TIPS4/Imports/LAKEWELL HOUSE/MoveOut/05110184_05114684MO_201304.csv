@@ -1,0 +1,7 @@
+BATCH,,201304,B,7896.0000,
+INVOICE,IN,,05110184,,04/26/2013,3666.0000,"Invoice-Private",,04/26/2013,04/26/2013,,05114684MO,-4935.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,26,101.0000,2626.00,"Basic Service Fee - Studio for Apr: Smith, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,26,40.0000,1040.00,"Resident Care - Level 3 for Apr: Smith, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,05110184,,04/26/2013,4230,"Invoice-Private",,04/26/2013,04/26/2013,,05114684MO,-4935.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3030,3030,"CR:Basic Service F... M.Smith 201304: Smith, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,1200,1200,"CR:Resident Care -... M.Smith 201304: Smith, Margaret",,,,,,,,,,,,,,,

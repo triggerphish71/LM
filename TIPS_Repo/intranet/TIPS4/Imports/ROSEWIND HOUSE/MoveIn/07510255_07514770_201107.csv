@@ -1,0 +1,6 @@
+BATCH,,201107,B,2367.0000,
+INVOICE,IN,,07510255,,07/29/2011,2367.0000,"MoveIn-Naser. Virgil",,07/29/2011,07/29/2011,,07514770,5926.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,3,85.0000,255,"Basic Service Fee - Studio         : Naser. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,3,29.0000,87,"Resident Care - Level 2: Naser. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Naser. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,2000.0000,2000,"New Resident Fee: Naser. Virgil",,,,,,,,,,,,,,,

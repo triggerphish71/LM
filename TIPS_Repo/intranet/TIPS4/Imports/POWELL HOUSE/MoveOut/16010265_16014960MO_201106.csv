@@ -1,0 +1,6 @@
+BATCH,,201106,B,3787.0000,
+INVOICE,IN,,16010265,,06/01/2011,342.0000,"Invoice-Private",,06/01/2011,06/10/2011,,16014960MO,-3103.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,3,114.0000,342.00,"Basic Service Fee - One Bedroom for Jun: Cates, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,16010265,,06/01/2011,3445,"Invoice-Private",,06/01/2011,06/10/2011,,16014960MO,-3103.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,3420,3420,"CR:Basic Service F... P.Cates 201106: Cates, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107160,1,25,25,"CR:Monthly Cable... P.Cates 201106: Cates, Patricia",,,,,,,,,,,,,,,

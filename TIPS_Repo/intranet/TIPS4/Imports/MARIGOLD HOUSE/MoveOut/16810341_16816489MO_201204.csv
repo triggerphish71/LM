@@ -1,0 +1,6 @@
+BATCH,,201204,B,3873.0000,
+INVOICE,IN,,16810341,,04/01/2012,183.0000,"Invoice-Private",,04/01/2012,04/01/2012,,16816489MO,-7258.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,1,60.0000,60.00,"CR:Limited Term Di... J.Harlan 201204: Harlan, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,1,123.0000,123.00,"Basic Service Fee - 1BR Prem Patio for Apr: Harlan, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,16810341,,04/01/2012,3690,"Invoice-Private",,04/01/2012,04/01/2012,,16816489MO,-7258.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3690,3690,"CR:Basic Service F... J.Harlan 201204: Harlan, Jack",,,,,,,,,,,,,,,

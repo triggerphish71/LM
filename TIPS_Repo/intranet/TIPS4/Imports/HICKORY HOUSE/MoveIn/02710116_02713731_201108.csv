@@ -1,0 +1,6 @@
+BATCH,,201108,B,4231.0000,
+INVOICE,IN,,02710116,,08/10/2011,4231.0000,"MoveIn-Colbert. Charlotte",,08/10/2011,08/10/2011,,02713731,4231.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,22,91.0000,2002,"C.Colbert: Basic Service Fee - Studio: Colbert. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202027,22,32.0000,704,"C.Colbert: Resident Care - Level 2: Colbert. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Colbert. Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Colbert. Charlotte",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,3182.0000,
+INVOICE,IN,,12910290,,06/22/2011,3182.0000,"MoveIn-Sharp. John",,06/22/2011,06/22/2011,,12915387,7180.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,9,92.0000,828,"Basic Service Fee - Studio         : Sharp. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310129,9,36.0000,324,"Resident Care - Level 2: Sharp. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Sharp. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310129,1,2000.0000,2000,"New Resident Fee: Sharp. John",,,,,,,,,,,,,,,

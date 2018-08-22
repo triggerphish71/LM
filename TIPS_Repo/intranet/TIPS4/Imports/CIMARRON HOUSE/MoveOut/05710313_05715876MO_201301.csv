@@ -1,0 +1,8 @@
+BATCH,,201301,B,7942.0000,
+INVOICE,IN,,05710313,,01/01/2013,4129.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05715876MO,316.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,1,1054.0000,1054.00,"CR:Limited Term Di... D.Hinshaw 201301: Hinshaw, Danny",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202057,25,94.0000,2350.00,"Basic Service Fee - Studio for Jan: Hinshaw, Danny",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,25,29.0000,725.00,"Resident Care - Level 2 for Jan: Hinshaw, Danny",,,,,,,,,,,,,,,
+INVOICE,CM,,05710313,,01/01/2013,3813,"Invoice-Private",,01/01/2013,01/10/2013,,05715876MO,316.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,2914,2914,"CR:Basic Service F... D.Hinshaw 201301: Hinshaw, Danny",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,899,899,"CR:Resident Care -... D.Hinshaw 201301: Hinshaw, Danny",,,,,,,,,,,,,,,

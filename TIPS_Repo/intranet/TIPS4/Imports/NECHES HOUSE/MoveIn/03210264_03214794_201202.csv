@@ -1,0 +1,5 @@
+BATCH,,201202,B,3123.0000,
+INVOICE,IN,,03210264,,02/13/2012,3123.0000,"MoveIn-Glover. Laina",,02/13/2012,02/13/2012,,03214794,6062.0000,,,,,,,,,,
+TRANSACTION,3010,010202032,17,94.0000,1598,"Basic Service Fee - Studio: Glover. Laina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25,"Monthly Cable: Glover. Laina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202032,1,1500.0000,1500,"New Resident Fee: Glover. Laina",,,,,,,,,,,,,,,

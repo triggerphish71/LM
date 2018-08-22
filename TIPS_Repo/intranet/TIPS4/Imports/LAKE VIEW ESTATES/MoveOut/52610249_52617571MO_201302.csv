@@ -1,0 +1,6 @@
+BATCH,,201302,B,4900.0000,
+INVOICE,IN,,52610249,,02/01/2013,56.0000,"Invoice-Private",,02/01/2013,02/10/2013,,52617571MO,-7840.0000,,,,,,,,,,
+TRANSACTION,3320,010319526,1,56.0000,56.00,"CR:Limited Term Di... P.Mehleis 201302: Mehleis, Paul ",,,,,,,,,,,,,,,
+INVOICE,CM,,52610249,,02/01/2013,4844,"Invoice-Private",,02/01/2013,02/10/2013,,52617571MO,-7840.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3024,3024,"CR:Basic Service F... P.Mehleis 201302: Mehleis, Paul ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,1820,1820,"CR:Resident Care -... P.Mehleis 201302: Mehleis, Paul ",,,,,,,,,,,,,,,

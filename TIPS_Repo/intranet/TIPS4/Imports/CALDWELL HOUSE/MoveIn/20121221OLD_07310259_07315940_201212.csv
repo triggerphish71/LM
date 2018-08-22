@@ -1,0 +1,6 @@
+BATCH,,201212,B,3274.0000,
+INVOICE,IN,,07310259,,12/21/2012,3274.0000,"MoveIn-Stalder. Dick",,12/21/2012,12/21/2012,,07315940,6828.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,11,97.0000,1067,"Basic Service Fee - Studio: Stalder. Dick",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,11,17.0000,187,"Resident Care - Level 1: Stalder. Dick",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Stalder. Dick",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000.0000,2000,"New Resident Fee: Stalder. Dick",,,,,,,,,,,,,,,

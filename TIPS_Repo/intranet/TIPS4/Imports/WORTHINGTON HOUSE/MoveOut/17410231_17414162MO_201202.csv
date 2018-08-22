@@ -1,0 +1,6 @@
+BATCH,,201202,B,6050.0000,
+INVOICE,IN,,17410231,,02/04/2012,3295.0000,"Invoice-Private",,02/04/2012,02/04/2012,,17414162MO,540.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,1015.0000,1015.00,"CR:Limited Term Di... D.Baker 201202: Baker, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309174,24,95.0000,2280.00,"Basic Service Fee - Studio for Feb: Baker, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,17410231,,02/04/2012,2755,"Invoice-Private",,02/04/2012,02/04/2012,,17414162MO,540.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2755,2755,"CR:Basic Service F... D.Baker 201202: Baker, Dorothy",,,,,,,,,,,,,,,

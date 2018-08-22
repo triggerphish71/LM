@@ -1,0 +1,5 @@
+BATCH,,201307,B,3462.0000,
+INVOICE,IN,,14610295,,07/06/2013,3462.0000,"MoveIn-Burger. Carol",,07/06/2013,07/06/2013,,14615070,3462.0000,,,,,,,,,,
+TRANSACTION,3010,010309146,26,115.0000,2990,"Basic Service Fee - One Bedroom: Burger. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309146,26,17.0000,442,"Resident Care - Level 1: Burger. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30,"Monthly Cable: Burger. Carol",,,,,,,,,,,,,,,

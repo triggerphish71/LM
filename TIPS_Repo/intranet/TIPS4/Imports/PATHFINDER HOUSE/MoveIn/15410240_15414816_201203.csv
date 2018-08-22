@@ -1,0 +1,5 @@
+BATCH,,201203,B,4705.0000,
+INVOICE,IN,,15410240,,03/01/2012,4705.0000,"MoveIn-Fuhr. Joe",,03/01/2012,03/01/2012,,15414816,4705.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,31,70.0000,2170,"Basic Service Fee - Studio: Fuhr. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Fuhr. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2500.0000,2500,"New Resident Fee: Fuhr. Joe",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,5027.0000,
+INVOICE,IN,,17610303,,05/22/2012,1958.0000,"Invoice-Private",,05/22/2012,05/22/2012,,17614495MO,-4081.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,22,73.0000,1606.00,"Basic Service Fee - Studio for May: Ransberger, Rosco ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,22,16.0000,352.00,"Resident Care - Level 1 for May: Ransberger, Rosco ",,,,,,,,,,,,,,,
+INVOICE,CM,,17610303,,05/22/2012,3069,"Invoice-Private",,05/22/2012,05/22/2012,,17614495MO,-4081.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... R.Ransberger 201205: Ransberger, Rosco ",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... R.Ransberger 201205: Ransberger, Rosco ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,496,496,"CR:Resident Care -... R.Ransberger 201205: Ransberger, Rosco ",,,,,,,,,,,,,,,

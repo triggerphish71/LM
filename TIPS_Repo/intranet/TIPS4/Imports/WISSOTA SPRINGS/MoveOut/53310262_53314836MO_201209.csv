@@ -1,0 +1,6 @@
+BATCH,,201209,B,4920.0000,
+INVOICE,IN,,53310262,,09/01/2012,630.0000,"Invoice-Private",,09/01/2012,09/10/2012,,53314836MO,-3828.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,630.0000,630.00,"CR:Limited Term Di... I.Christianson 201209: Christianson, IvaDelle",,,,,,,,,,,,,,,
+INVOICE,CM,,53310262,,09/01/2012,4290,"Invoice-Private",,09/01/2012,09/10/2012,,53314836MO,-3828.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,3450,3450,"CR:Basic Service F... I.Christianson 201209: Christianson, IvaDelle",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,840,840,"CR:Resident Care -... I.Christianson 201209: Christianson, IvaDelle",,,,,,,,,,,,,,,

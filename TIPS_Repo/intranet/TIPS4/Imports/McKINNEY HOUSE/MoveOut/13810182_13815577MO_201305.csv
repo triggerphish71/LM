@@ -1,0 +1,7 @@
+BATCH,,201305,B,5883.0000,
+INVOICE,IN,,13810182,,05/06/2013,954.0000,"Invoice-Private",,05/06/2013,05/06/2013,,13815577MO,-3975.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,6,129.0000,774.00,"Basic Service Fee- One Bedroom Prem for May: Meyer, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,6,30.0000,180.00,"Resident Care - Level 2 for May: Meyer, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,13810182,,05/06/2013,4929,"Invoice-Private",,05/06/2013,05/06/2013,,13815577MO,-3975.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,3999,3999,"CR:Basic Service F... W.Meyer 201305: Meyer, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,930,930,"CR:Resident Care -... W.Meyer 201305: Meyer, Walter",,,,,,,,,,,,,,,

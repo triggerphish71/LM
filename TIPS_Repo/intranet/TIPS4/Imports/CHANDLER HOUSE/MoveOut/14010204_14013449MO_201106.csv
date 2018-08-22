@@ -1,0 +1,7 @@
+BATCH,,201106,B,3865.0000,
+INVOICE,IN,,14010204,,06/01/2011,300.0000,"Invoice-Private",,06/01/2011,06/10/2011,,14013449MO,-3265.0000,,,,,,,,,,
+TRANSACTION,3320,010309140,1,300.0000,300.00,"CR:Limited Term Di... G.Sarber 201106: Sarber, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,14010204,,06/01/2011,3565,"Invoice-Private",,06/01/2011,06/10/2011,,14013449MO,-3265.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2550,2550,"CR:Basic Service F... G.Sarber 201106: Sarber, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309140,1,25,25,"CR:Pendant Fee... G.Sarber 201106: Sarber, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,990,990,"CR:Resident Care -... G.Sarber 201106: Sarber, Geraldine",,,,,,,,,,,,,,,

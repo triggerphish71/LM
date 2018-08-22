@@ -1,0 +1,7 @@
+BATCH,,201202,B,8835.0000,
+INVOICE,IN,,52510155,,02/28/2012,4340.0000,"Invoice-Private",,02/28/2012,02/28/2012,,52512432MO,-4557.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,28,112.0000,3136.00,"Basic Service Fee - Studio for Feb: Gaulke, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,28,43.0000,1204.00,"Resident Care - Level 3 for Feb: Gaulke, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,52510155,,02/28/2012,4495,"Invoice-Private",,02/28/2012,02/28/2012,,52512432MO,-4557.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3248,3248,"CR:Basic Service F... M.Gaulke 201202: Gaulke, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,1247,1247,"CR:Resident Care -... M.Gaulke 201202: Gaulke, Marjorie",,,,,,,,,,,,,,,

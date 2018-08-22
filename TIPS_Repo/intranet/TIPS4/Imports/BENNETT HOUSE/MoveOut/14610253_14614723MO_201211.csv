@@ -1,0 +1,7 @@
+BATCH,,201211,B,4224.0000,
+INVOICE,IN,,14610253,,11/01/2012,384.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14614723MO,-3456.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,3,93.0000,279.00,"Basic Service Fee - Studio for Nov: Adams, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,3,35.0000,105.00,"Resident Care - Level 2 for Nov: Adams, William",,,,,,,,,,,,,,,
+INVOICE,CM,,14610253,,11/01/2012,3840,"Invoice-Private",,11/01/2012,11/10/2012,,14614723MO,-3456.0000,,,,,,,,,,
+TRANSACTION,3020,010309146,1,2790,2790,"CR:Basic Service F... W.Adams 201211: Adams, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309146,1,1050,1050,"CR:Resident Care -... W.Adams 201211: Adams, William",,,,,,,,,,,,,,,

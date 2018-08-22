@@ -1,0 +1,7 @@
+BATCH,,201110,B,5046.0000,
+INVOICE,IN,,05210232,,10/29/2011,2570.0000,"Invoice-Private",,10/29/2011,10/29/2011,,05214627MO,-2033.0000,,,,,,,,,,
+TRANSACTION,3320,010202052,1,279.0000,279.00,"CR:Limited Term Di... B.Boyette 201110: Boyette, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,29,79.0000,2291.00,"Room and Board - Studio for Oct: Boyette, Billy",,,,,,,,,,,,,,,
+INVOICE,CM,,05210232,,10/29/2011,2476,"Invoice-Private",,10/29/2011,10/29/2011,,05214627MO,-2033.0000,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... B.Boyette 201110: Boyette, Billy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2449,2449,"CR:Room and Board ... B.Boyette 201110: Boyette, Billy",,,,,,,,,,,,,,,

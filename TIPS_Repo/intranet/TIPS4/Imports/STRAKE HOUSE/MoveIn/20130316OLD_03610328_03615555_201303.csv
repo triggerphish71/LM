@@ -1,0 +1,6 @@
+BATCH,,201303,B,3747.0000,
+INVOICE,IN,,03610328,,03/15/2013,3747.0000,"MoveIn-Stadler. Theodore",,03/15/2013,03/15/2013,,03615555,8574.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,17,101.0000,1717,"Basic Service Fee - Studio: Stadler. Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,17,59.0000,1003,"Resident Care - Level 4: Stadler. Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Stadler. Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1000.0000,1000,"New Resident Fee: Stadler. Theodore",,,,,,,,,,,,,,,

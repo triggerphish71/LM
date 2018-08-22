@@ -1,0 +1,5 @@
+BATCH,,201108,B,4863.0000,
+INVOICE,IN,,00810230,,08/01/2011,4863.0000,"August_Rent-Burgett. Charles",,08/01/2011,08/10/2011,,00814364,8418.0000,,,,,,,,,,
+TRANSACTION,3010,010202008,31,80.0000,2480,"Basic Service Fee - Studio         : Burgett. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202008,31,76.0000,2356,"Resident Care - Level 6: Burgett. Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27.0000,27,"Monthly Cable: Burgett. Charles",,,,,,,,,,,,,,,

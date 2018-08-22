@@ -1,0 +1,8 @@
+BATCH,,201209,B,3631.0000,
+INVOICE,IN,,13110264,,09/01/2012,116.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13114575MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,100.0000,100.00,"Basic Service Fee - Studio for Sep: Burnett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,16.0000,16.00,"Resident Care - Level 1 for Sep: Burnett, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13110264,,09/01/2012,3515,"Invoice-Private",,09/01/2012,09/10/2012,,13114575MO,-3399.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3000,3000,"CR:Basic Service F... B.Burnett 201209: Burnett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35,35,"CR:Pendant Fee... B.Burnett 201209: Burnett, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,480,480,"CR:Resident Care -... B.Burnett 201209: Burnett, Betty",,,,,,,,,,,,,,,

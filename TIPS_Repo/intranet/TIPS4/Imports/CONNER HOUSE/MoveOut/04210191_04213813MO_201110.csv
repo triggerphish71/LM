@@ -1,0 +1,7 @@
+BATCH,,201110,B,4561.0000,
+INVOICE,IN,,04210191,,10/13/2011,1558.0000,"Invoice-Private",,10/13/2011,10/13/2011,,04213813MO,-1445.0000,,,,,,,,,,
+TRANSACTION,3320,010202042,1,310.0000,310.00,"CR:Limited Term Di... M.Tennison 201110: Tennison, Murl",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202042,13,96.0000,1248.00,"Basic Service Fee - Studio for Oct: Tennison, Murl",,,,,,,,,,,,,,,
+INVOICE,CM,,04210191,,10/13/2011,3003,"Invoice-Private",,10/13/2011,10/13/2011,,04213813MO,-1445.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2976,2976,"CR:Basic Service F... M.Tennison 201110: Tennison, Murl",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27,27,"CR:Monthly Cable... M.Tennison 201110: Tennison, Murl",,,,,,,,,,,,,,,

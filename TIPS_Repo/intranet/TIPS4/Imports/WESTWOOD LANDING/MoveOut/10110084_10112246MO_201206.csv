@@ -1,0 +1,5 @@
+BATCH,,201206,B,720.0000,
+INVOICE,IN,,10110084,,06/01/2012,360.0000,"Invoice-Private",,06/01/2012,06/10/2012,,10112246MO,-4588.0000,,,,,,,,,,
+TRANSACTION,3320,010305101,30,12.0000,360.00,"Credit for Limited Term Discount: Mobberly, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,10110084,,06/01/2012,360,"Invoice-Private",,06/01/2012,06/10/2012,,10112246MO,-4588.0000,,,,,,,,,,
+TRANSACTION,3320,010305101,30,12,360,"Limited Term Discount: Mobberly, Jack",,,,,,,,,,,,,,,

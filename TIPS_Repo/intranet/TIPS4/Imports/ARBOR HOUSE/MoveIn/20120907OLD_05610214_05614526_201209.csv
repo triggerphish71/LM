@@ -1,0 +1,6 @@
+BATCH,,201209,B,3307.0000,
+INVOICE,IN,,05610214,,09/07/2012,3307.0000,"MoveIn-Moss. Senara",,09/07/2012,09/07/2012,,05614526,3307.0000,,,,,,,,,,
+TRANSACTION,3010,010202056,24,68.0000,1632,"Basic Service Fee - Studio: Moss. Senara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202056,24,27.0000,648,"Resident Care - Level 2: Moss. Senara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27,"Monthly Cable: Moss. Senara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202056,1,1000.0000,1000,"New Resident Fee: Moss. Senara",,,,,,,,,,,,,,,

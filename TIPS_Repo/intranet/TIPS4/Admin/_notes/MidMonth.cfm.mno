@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="iso-8859-1" ?>
+<info>
+	<infoitem key="UD_TESTVALUES_#Procname#" value="name:@HouseNumber;testValue:null,name:@bCheckForChanges;testValue:1,name:@bCommitChanges;testValue:1,name:@bMonthEnd;testValue:0,name:@iChangeCount;testValue:null" />
+</info>

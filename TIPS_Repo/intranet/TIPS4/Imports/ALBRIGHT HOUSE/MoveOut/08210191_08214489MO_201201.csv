@@ -1,0 +1,7 @@
+BATCH,,201201,B,4896.3200,
+INVOICE,IN,,08210191,,01/17/2012,1977.3600,"Invoice-Private",,01/17/2012,01/17/2012,,08214489MO,-3672.2400,,,,,,,,,,
+TRANSACTION,3020,010103082,21,87.0000,1827.00,"Basic Service Fee - Studio for Jan: McMahon, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,21,7.1600,150.36,"Resident Care - Level 4 for Jan: McMahon, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,08210191,,01/17/2012,2918.96,"Invoice-Private",,01/17/2012,01/17/2012,,08214489MO,-3672.2400,,,,,,,,,,
+TRANSACTION,3020,010103082,1,2697,2697,"CR:Basic Service F... H.McMahon 201201: McMahon, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103082,1,221.96,221.96,"CR:Resident Care -... H.McMahon 201201: McMahon, Helen",,,,,,,,,,,,,,,

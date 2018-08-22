@@ -1,0 +1,6 @@
+BATCH,,201109,B,3470.0000,
+INVOICE,IN,,13710215,,09/09/2011,860.0000,"Invoice-Private",,09/09/2011,09/09/2011,,13714052MO,-1750.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,10,86.0000,860.00,"Room and Board - Studio for Sep: Streit, Walter",,,,,,,,,,,,,,,
+INVOICE,CM,,13710215,,09/09/2011,2610,"Invoice-Private",,09/09/2011,09/09/2011,,13714052MO,-1750.0000,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... W.Streit 201109: Streit, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2580,2580,"CR:Room and Board ... W.Streit 201109: Streit, Walter",,,,,,,,,,,,,,,

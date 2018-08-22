@@ -1,0 +1,6 @@
+BATCH,,201206,B,3800.0000,
+INVOICE,IN,,13110281,,06/25/2012,1400.0000,"Invoice-Private",,06/25/2012,06/25/2012,,13114463MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,14,100.0000,1400.00,"Basic Service Fee - Studio for Jun: Webster, Brooks",,,,,,,,,,,,,,,
+INVOICE,CM,,13110281,,06/25/2012,2400,"Invoice-Private",,06/25/2012,06/25/2012,,13114463MO,-4100.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,1900,1900,"CR:Basic Service F... B.Webster 201206: Webster, Brooks",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308131,1,500,500,"CR:New Resident Fe... B.Webster 201206: Webster, Brooks",,,,,,,,,,,,,,,

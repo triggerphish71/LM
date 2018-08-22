@@ -1,0 +1,8 @@
+BATCH,,201303,B,4174.4500,
+INVOICE,IN,,01310213,,03/02/2013,251.3000,"Invoice-Private",,03/02/2013,03/02/2013,,01314344MO,-3671.8500,,,,,,,,,,
+TRANSACTION,3020,010103013,2,72.0000,144.00,"Basic Service Fee - Studio for Mar: Boyd, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,2,53.6500,107.30,"Resident Care - Level 29 for Mar: Boyd, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,01310213,,03/02/2013,3923.15,"Invoice-Private",,03/02/2013,03/02/2013,,01314344MO,-3671.8500,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... C.Boyd 201303: Boyd, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... C.Boyd 201303: Boyd, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1663.15,1663.15,"CR:Resident Care -... C.Boyd 201303: Boyd, Charles",,,,,,,,,,,,,,,

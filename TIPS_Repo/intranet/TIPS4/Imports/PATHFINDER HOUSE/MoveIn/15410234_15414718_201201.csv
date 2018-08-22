@@ -1,0 +1,6 @@
+BATCH,,201201,B,5263.0000,
+INVOICE,IN,,15410234,,01/01/2012,5263.0000,"MoveIn-Applebee. Bill",,01/01/2012,01/01/2012,,15414718,5263.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,31,70.0000,2170,"Basic Service Fee - Studio: Applebee. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,31,18.0000,558,"Resident Care - Level 1: Applebee. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Applebee. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211154,1,2500.0000,2500,"New Resident Fee: Applebee. Bill",,,,,,,,,,,,,,,

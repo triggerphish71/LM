@@ -1,0 +1,7 @@
+BATCH,,201206,B,3822.0000,
+INVOICE,IN,,53410368,,06/09/2012,882.0000,"Invoice-Private",,06/09/2012,06/09/2012,,53420965MO,-2058.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,9,31.0000,279.00,"Basic Service Fee - Second Resident for Jun: Korlesky, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,9,67.0000,603.00,"Resident Care - Level 3 for Jun: Korlesky, Eunice",,,,,,,,,,,,,,,
+INVOICE,CM,,53410368,,06/09/2012,2940,"Invoice-Private",,06/09/2012,06/09/2012,,53420965MO,-2058.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,930,930,"CR:Basic Service F... E.Korlesky 201206: Korlesky, Eunice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,2010,2010,"CR:Resident Care -... E.Korlesky 201206: Korlesky, Eunice",,,,,,,,,,,,,,,

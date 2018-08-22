@@ -1,0 +1,7 @@
+BATCH,,201209,B,9400.0000,
+INVOICE,IN,,14410147,,09/20/2012,3760.0000,"Invoice-Private",,09/20/2012,09/20/2012,,14415306MO,-7708.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,20,106.0000,2120.00,"Basic Service Fee - Studio for Sep: Leland, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,20,82.0000,1640.00,"Resident Care - Level 6 for Sep: Leland, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,14410147,,09/20/2012,5640,"Invoice-Private",,09/20/2012,09/20/2012,,14415306MO,-7708.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3180,3180,"CR:Basic Service F... K.Leland 201209: Leland, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,2460,2460,"CR:Resident Care -... K.Leland 201209: Leland, Kenneth",,,,,,,,,,,,,,,

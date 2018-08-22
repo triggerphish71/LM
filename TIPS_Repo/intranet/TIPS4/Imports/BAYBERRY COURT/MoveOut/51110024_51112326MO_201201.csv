@@ -1,0 +1,7 @@
+BATCH,,201201,B,4712.0000,
+INVOICE,IN,,51110024,,01/06/2012,868.0000,"Invoice-Private",,01/06/2012,01/06/2012,,51112326MO,-2976.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,7,105.0000,735.00,"Basic Service Fee - Studio for Jan: Spak, Audrian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,7,19.0000,133.00,"Resident Care - Level 1 for Jan: Spak, Audrian",,,,,,,,,,,,,,,
+INVOICE,CM,,51110024,,01/06/2012,3844,"Invoice-Private",,01/06/2012,01/06/2012,,51112326MO,-2976.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3255,3255,"CR:Basic Service F... A.Spak 201201: Spak, Audrian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589,589,"CR:Resident Care -... A.Spak 201201: Spak, Audrian",,,,,,,,,,,,,,,

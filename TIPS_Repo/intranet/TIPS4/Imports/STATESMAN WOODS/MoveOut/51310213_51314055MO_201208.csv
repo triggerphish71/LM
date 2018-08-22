@@ -1,0 +1,6 @@
+BATCH,,201208,B,8448.0000,
+INVOICE,IN,,51310213,,08/29/2012,3591.0000,"Invoice-Private",,08/29/2012,08/29/2012,,51314055MO,-5256.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,27,133.0000,3591.00,"W.Hilbert: Basic Service Fee - One Bedroom for Aug: Hilbert, William",,,,,,,,,,,,,,,
+INVOICE,CM,,51310213,,08/29/2012,4857,"Invoice-Private",,08/29/2012,08/29/2012,,51314055MO,-5256.0000,,,,,,,,,,
+TRANSACTION,3216,010310513,1,1000,1000,"CR:New Resident Fe... W.Hilbert 201208: Hilbert, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310513,1,3857,3857,"CR:W.Hilbert: Basi... W.Hilbert 201208: Hilbert, William",,,,,,,,,,,,,,,

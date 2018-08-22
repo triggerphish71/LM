@@ -1,0 +1,5 @@
+BATCH,,201302,B,1064.0000,
+INVOICE,IN,,03210282,,02/01/2013,532.0000,"Invoice-Private",,02/01/2013,02/10/2013,,03215187MO,85.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,28,19.0000,532.00,"Credit for Limited Term Discount: Gholson, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,03210282,,02/01/2013,532,"Invoice-Private",,02/01/2013,02/10/2013,,03215187MO,85.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,28,19,532,"Limited Term Discount: Gholson, Annie",,,,,,,,,,,,,,,

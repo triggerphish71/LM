@@ -1,0 +1,6 @@
+BATCH,,201108,B,2727.0000,
+INVOICE,IN,,11010340,,08/26/2011,2727.0000,"MoveIn-Earle. Harrie",,08/26/2011,08/26/2011,,11014660,6262.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,6,91.0000,546,"Basic Service Fee - Studio         : Earle. Harrie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,6,26.0000,156,"Resident Care - Level 2: Earle. Harrie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Earle. Harrie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Earle. Harrie",,,,,,,,,,,,,,,

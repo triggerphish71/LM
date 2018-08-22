@@ -1,0 +1,7 @@
+BATCH,,201201,B,2317.9600,
+INVOICE,IN,,07710060,,01/01/2012,1158.9800,"Invoice-Medicaid",,01/01/2012,01/10/2012,,07714103MO,-3021.0400,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25.0000,25.00,"Monthly Cable: McBurney, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104077,1,1133.9800,1133.98,"State Medicaid: McBurney, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07710060,,01/01/2012,1158.98,"Invoice-Medicaid",,01/01/2012,01/10/2012,,07714103MO,-3021.0400,,,,,,,,,,
+TRANSACTION,3260,010104077,1,25,25,"Credit for Monthly Cable: McBurney, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104077,1,1133.98,1133.98,"Credit for State Medicaid: McBurney, Helen",,,,,,,,,,,,,,,

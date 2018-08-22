@@ -1,0 +1,5 @@
+BATCH,,201201,B,2170.0000,
+INVOICE,IN,,53010229,,01/01/2012,1085.0000,"Invoice-Private",,01/01/2012,01/10/2012,,53015652MO,1050.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,31,35.0000,1085.00,"Credit for Limited Term Discount: Metzger, Martin",,,,,,,,,,,,,,,
+INVOICE,CM,,53010229,,01/01/2012,1085,"Invoice-Private",,01/01/2012,01/10/2012,,53015652MO,1050.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,31,35,1085,"Limited Term Discount: Metzger, Martin",,,,,,,,,,,,,,,

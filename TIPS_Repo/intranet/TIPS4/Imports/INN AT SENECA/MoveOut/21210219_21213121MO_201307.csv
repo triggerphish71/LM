@@ -1,0 +1,5 @@
+BATCH,,201307,B,82.0000,
+INVOICE,IN,,21210219,,07/01/2013,41.0000,"Invoice-Private",,07/01/2013,07/10/2013,,21213121MO,-3743.8000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Cartee, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21210219,,07/01/2013,41,"Invoice-Private",,07/01/2013,07/10/2013,,21213121MO,-3743.8000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Cartee, Frances",,,,,,,,,,,,,,,

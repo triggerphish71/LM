@@ -1,0 +1,5 @@
+BATCH,,201303,B,409.2000,
+INVOICE,IN,,16210147,,03/01/2013,204.6000,"Invoice-Private",,03/01/2013,03/10/2013,,16213128MO,-2382.6000,,,,,,,,,,
+TRANSACTION,3312,010211162,31,6.6000,204.60,"Credit for Two Room Rental Discount: Sprick, Wesley",,,,,,,,,,,,,,,
+INVOICE,CM,,16210147,,03/01/2013,204.6,"Invoice-Private",,03/01/2013,03/10/2013,,16213128MO,-2382.6000,,,,,,,,,,
+TRANSACTION,3312,010211162,31,6.6,204.6,"Two Room Rental Discount: Sprick, Wesley",,,,,,,,,,,,,,,

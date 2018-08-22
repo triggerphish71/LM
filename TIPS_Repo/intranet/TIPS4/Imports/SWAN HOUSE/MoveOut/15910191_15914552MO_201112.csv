@@ -1,0 +1,5 @@
+BATCH,,201112,B,1836.0000,
+INVOICE,IN,,15910191,,12/01/2011,720.0000,"Invoice-Private",,12/01/2011,12/10/2011,,15914552MO,-396.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,20,36.0000,720.00,"Basic Service Fee - Second Resident for Dec: Clemsen, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,15910191,,12/01/2011,1116,"Invoice-Private",,12/01/2011,12/10/2011,,15914552MO,-396.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,1116,1116,"CR:Basic Service F... V.Clemsen 201112: Clemsen, Violet",,,,,,,,,,,,,,,

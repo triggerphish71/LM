@@ -1,0 +1,6 @@
+BATCH,,201201,B,4272.0000,
+INVOICE,IN,,09010244,,01/11/2012,4272.0000,"MoveIn-Ward. Vera",,01/11/2012,01/11/2012,,09014863,4272.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,21,92.0000,1932,"V.Ward: Basic Service Fee - Studio: Ward. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,21,15.0000,315,"V.Ward: Resident Care - Level 1: Ward. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: Ward. Vera",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104090,1,2000.0000,2000,"New Resident Fee: Ward. Vera",,,,,,,,,,,,,,,

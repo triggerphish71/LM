@@ -1,0 +1,6 @@
+BATCH,,201108,B,2321.0000,
+INVOICE,IN,,15910175,,08/24/2011,1205.0000,"Invoice-Private",,08/24/2011,08/24/2011,,15914404MO,-661.0000,,,,,,,,,,
+TRANSACTION,3320,010212159,1,341.0000,341.00,"CR:Limited Term Di... N.Truitt 201108: Truitt, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212159,24,36.0000,864.00,"Basic Service Fee - Second Resident for Aug: Truitt, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,15910175,,08/24/2011,1116,"Invoice-Private",,08/24/2011,08/24/2011,,15914404MO,-661.0000,,,,,,,,,,
+TRANSACTION,3020,010212159,1,1116,1116,"CR:Basic Service F... N.Truitt 201108: Truitt, Norma",,,,,,,,,,,,,,,

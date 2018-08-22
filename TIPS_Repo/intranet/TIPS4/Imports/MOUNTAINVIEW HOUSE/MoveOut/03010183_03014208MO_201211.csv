@@ -1,0 +1,6 @@
+BATCH,,201211,B,2508.0000,
+INVOICE,IN,,03010183,,11/16/2012,1518.0000,"Invoice-Private",,11/16/2012,11/16/2012,,03014208MO,528.0000,,,,,,,,,,
+TRANSACTION,3321,010103030,1,990.0000,990.00,"CR:2nd Resident Fr... J.Curran 201211: Curran, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103030,16,33.0000,528.00,"Basic Service Fee - Second Resident for Nov: Curran, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03010183,,11/16/2012,990,"Invoice-Private",,11/16/2012,11/16/2012,,03014208MO,528.0000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,990,990,"CR:Basic Service F... J.Curran 201211: Curran, John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,5549.4800,
+INVOICE,CM,,01210241,,03/01/2012,5549.48,"Invoice-Private",,03/01/2012,03/10/2012,,01213897MO,-7256.5600,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2635,2635,"CR:Basic Service F... I.Smith 201203: Smith, Ildra",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... I.Smith 201203: Smith, Ildra",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,2885.48,2885.48,"CR:Resident Care -... I.Smith 201203: Smith, Ildra",,,,,,,,,,,,,,,

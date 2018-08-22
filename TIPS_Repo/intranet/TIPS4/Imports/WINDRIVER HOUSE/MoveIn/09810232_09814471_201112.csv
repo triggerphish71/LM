@@ -1,0 +1,5 @@
+BATCH,,201112,B,4200.2500,
+INVOICE,IN,,09810232,,12/07/2011,4200.2500,"MoveIn-Andrus. Reginal",,12/07/2011,12/07/2011,,09814471,4200.2500,,,,,,,,,,
+TRANSACTION,3010,010103098,25,94.0000,2350,"Basic Service Fee - Studio: Andrus. Reginal",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,25,34.0100,850.25,"Resident Care - Level 19: Andrus. Reginal",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Andrus. Reginal",,,,,,,,,,,,,,,

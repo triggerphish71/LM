@@ -1,0 +1,7 @@
+BATCH,,201305,B,9130.0000,
+INVOICE,IN,,15610337,,05/24/2013,3984.0000,"Invoice-Private",,05/24/2013,05/24/2013,,15615804MO,-6187.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,24,96.0000,2304.00,"Basic Service Fee - Deluxe for May: Fichtl, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,24,70.0000,1680.00,"Resident Care Level Change for May: Fichtl, James",,,,,,,,,,,,,,,
+INVOICE,CM,,15610337,,05/24/2013,5146,"Invoice-Private",,05/24/2013,05/24/2013,,15615804MO,-6187.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2976,2976,"CR:Basic Service F... J.Fichtl 201305: Fichtl, James",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2170,2170,"CR:Resident Care L... J.Fichtl 201305: Fichtl, James",,,,,,,,,,,,,,,

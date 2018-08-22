@@ -1,0 +1,7 @@
+BATCH,,201307,B,6700.0000,
+INVOICE,IN,,11610279,,07/17/2013,2546.0000,"Invoice-Private",,07/17/2013,07/17/2013,,11615637MO,-4708.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,19,100.0000,1900.00,"Basic Service Fee - Studio for Jul: Levenbach, Inge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,19,34.0000,646.00,"Resident Care - Level 2 for Jul: Levenbach, Inge",,,,,,,,,,,,,,,
+INVOICE,CM,,11610279,,07/17/2013,4154,"Invoice-Private",,07/17/2013,07/17/2013,,11615637MO,-4708.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3100,3100,"CR:Basic Service F... I.Levenbach 201307: Levenbach, Inge",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... I.Levenbach 201307: Levenbach, Inge",,,,,,,,,,,,,,,

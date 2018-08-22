@@ -1,0 +1,5 @@
+BATCH,,201210,B,1674.0000,
+INVOICE,IN,,21610232,,10/01/2012,837.0000,"Invoice-Private",,10/01/2012,10/10/2012,,21613720MO,117.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,27.0000,837.00,"Credit for Limited Term Discount: Haynes, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,21610232,,10/01/2012,837,"Invoice-Private",,10/01/2012,10/10/2012,,21613720MO,117.0000,,,,,,,,,,
+TRANSACTION,3320,010216216,31,27,837,"Limited Term Discount: Haynes, Elizabeth",,,,,,,,,,,,,,,

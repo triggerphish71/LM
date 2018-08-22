@@ -1,0 +1,7 @@
+BATCH,,201206,B,7572.2400,
+INVOICE,IN,,52910026,,06/09/2012,1747.4400,"Invoice-Private",,06/09/2012,06/09/2012,,52913127MO,-4077.3600,,,,,,,,,,
+TRANSACTION,3020,010319529,9,113.0000,1017.00,"Basic Service Fee - One Bedroom for Jun: Hingiss, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,9,81.1600,730.44,"Resident Care - Level 6+4 pts for Jun: Hingiss, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,52910026,,06/09/2012,5824.8,"Invoice-Private",,06/09/2012,06/09/2012,,52913127MO,-4077.3600,,,,,,,,,,
+TRANSACTION,3020,010319529,1,3390,3390,"CR:Basic Service F... H.Hingiss 201206: Hingiss, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,2434.8,2434.8,"CR:Resident Care -... H.Hingiss 201206: Hingiss, Helen",,,,,,,,,,,,,,,

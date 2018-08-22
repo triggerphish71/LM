@@ -1,0 +1,6 @@
+BATCH,,201204,B,6573.3000,
+INVOICE,IN,,09310188,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,09315189MO,-8943.9600,,,,,,,,,,
+TRANSACTION,3320,010305093,1,60.0000,60.00,"CR:Limited Term Di... B.Knipp 201204: Knipp, Burdell",,,,,,,,,,,,,,,
+INVOICE,CM,,09310188,,04/01/2012,6513.3,"Invoice-Private",,04/01/2012,04/10/2012,,09315189MO,-8943.9600,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3390,3390,"CR:Basic Service F... B.Knipp 201204: Knipp, Burdell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,3123.3,3123.3,"CR:Resident Care -... B.Knipp 201204: Knipp, Burdell",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201209,B,1740.0000,
+INVOICE,IN,,01510205,,09/01/2012,870.0000,"Invoice-Private",,09/01/2012,09/10/2012,,01514277MO,-1983.1000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,29.0000,870.00,"Credit for Limited Term Discount: Wilson, Hannelor",,,,,,,,,,,,,,,
+INVOICE,CM,,01510205,,09/01/2012,870,"Invoice-Private",,09/01/2012,09/10/2012,,01514277MO,-1983.1000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,29,870,"Limited Term Discount: Wilson, Hannelor",,,,,,,,,,,,,,,

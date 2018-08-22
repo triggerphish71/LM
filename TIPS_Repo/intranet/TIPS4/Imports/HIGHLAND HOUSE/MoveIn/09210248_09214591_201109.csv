@@ -1,0 +1,5 @@
+BATCH,,201109,B,2728.0000,
+INVOICE,IN,,09210248,,09/23/2011,2728.0000,"MoveIn-Farkas. Helen",,09/23/2011,09/23/2011,,09214591,5549.0000,,,,,,,,,,
+TRANSACTION,3010,010305092,8,75.0000,600,"Basic Service Fee - Studio         : Farkas. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305092,8,16.0000,128,"Resident Care - Level 1: Farkas. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,2000.0000,2000,"New Resident Fee: Farkas. Helen",,,,,,,,,,,,,,,

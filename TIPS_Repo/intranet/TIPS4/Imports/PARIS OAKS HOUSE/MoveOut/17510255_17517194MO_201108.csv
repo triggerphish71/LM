@@ -1,0 +1,7 @@
+BATCH,,201108,B,3569.0000,
+INVOICE,IN,,17510255,,08/05/2011,73.0000,"Invoice-Private",,08/05/2011,08/05/2011,,17517194MO,-5613.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,73.0000,73.00,"Basic Service Fee - Studio Deluxe for Aug: Holt, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,17510255,,08/05/2011,3496,"Invoice-Private",,08/05/2011,08/05/2011,,17517194MO,-5613.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1971,1971,"CR:Basic Service F... P.Holt 201108: Holt, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"CR:Monthly Cable... P.Holt 201108: Holt, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500,1500,"CR:New Resident Fe... P.Holt 201108: Holt, Patricia",,,,,,,,,,,,,,,

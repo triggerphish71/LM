@@ -1,0 +1,6 @@
+BATCH,,201109,B,4775.0000,
+INVOICE,IN,,52910173,,09/06/2011,4775.0000,"MoveIn-Miller. Genrose",,09/06/2011,09/06/2011,,52912716,4775.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,25,109.0000,2725,"Basic Service Fee - One Bedroom: Miller. Genrose",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Miller. Genrose",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,2000.0000,2000,"New Resident Fee: Miller. Genrose",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319529,1,25.0000,25,"Pendant Fee: Miller. Genrose",,,,,,,,,,,,,,,

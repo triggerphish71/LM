@@ -1,0 +1,7 @@
+BATCH,,201211,B,5957.0000,
+INVOICE,IN,,19210294,,10/25/2012,1127.0000,"MoveIn-Harwood. Mildred",,10/25/2012,10/25/2012,,19215495,5957.0000,,,,,,,,,,
+TRANSACTION,3014,010309192,7,143.0000,1001,"Basic Service Fee-One Bdrm Premium: Harwood. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,7,18.0000,126,"Resident Care - Level 1: Harwood. Mildred",,,,,,,,,,,,,,,
+INVOICE,IN,,19210294,,11/01/2012,4830.0000,"November_Rent-Harwood. Mildred",,11/01/2012,11/10/2012,,19215495,5957.0000,,,,,,,,,,
+TRANSACTION,3010,010309192,30,143.0000,4290,"Basic Service Fee-One Bdrm Premium: Harwood. Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309192,30,18.0000,540,"Resident Care - Level 1: Harwood. Mildred",,,,,,,,,,,,,,,

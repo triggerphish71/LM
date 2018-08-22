@@ -1,0 +1,8 @@
+BATCH,,201108,B,7381.8000,
+INVOICE,IN,,01210209,,08/22/2011,3282.5000,"Invoice-Private",,08/22/2011,08/22/2011,,01213717MO,-4784.8000,,,,,,,,,,
+TRANSACTION,3020,010103012,25,99.0000,2475.00,"Basic Service Fee - One Bedroom for Aug: Hansen, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,25,32.3000,807.50,"Resident Care - Level 19 for Aug: Hansen, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,01210209,,08/22/2011,4099.3,"Invoice-Private",,08/22/2011,08/22/2011,,01213717MO,-4784.8000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,3069,3069,"CR:Basic Service F... D.Hansen 201108: Hansen, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... D.Hansen 201108: Hansen, Delbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1001.3,1001.3,"CR:Resident Care -... D.Hansen 201108: Hansen, Delbert",,,,,,,,,,,,,,,

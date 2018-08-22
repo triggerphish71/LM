@@ -1,0 +1,7 @@
+BATCH,,201307,B,126.0000,
+INVOICE,IN,,11510293,,07/01/2013,63.0000,"Invoice-Private",,07/01/2013,07/10/2013,,11514809MO,-3079.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Sparling, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308115,1,35.0000,35.00,"Pendant Fee: Sparling, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,11510293,,07/01/2013,63,"Invoice-Private",,07/01/2013,07/10/2013,,11514809MO,-3079.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Sparling, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308115,1,35,35,"Credit for Pendant Fee: Sparling, Louise",,,,,,,,,,,,,,,

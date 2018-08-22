@@ -1,0 +1,7 @@
+BATCH,,201211,B,160.0000,
+INVOICE,IN,,15110112,,11/01/2012,80.0000,"Invoice-Private",,11/01/2012,11/10/2012,,15114084MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35.0000,35.00,"Monthly Cable: DeVoss, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,45.0000,45.00,"Pendant Fee: DeVoss, Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,15110112,,11/01/2012,80,"Invoice-Private",,11/01/2012,11/10/2012,,15114084MO,-2280.0000,,,,,,,,,,
+TRANSACTION,3260,010212151,1,35,35,"Credit for Monthly Cable: DeVoss, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3130,010212151,1,45,45,"Credit for Pendant Fee: DeVoss, Naomi",,,,,,,,,,,,,,,

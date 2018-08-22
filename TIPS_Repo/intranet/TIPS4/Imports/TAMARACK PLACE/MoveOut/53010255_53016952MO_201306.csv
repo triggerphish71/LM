@@ -1,0 +1,8 @@
+BATCH,,201306,B,8508.0000,
+INVOICE,IN,,53010255,,06/27/2013,4088.0000,"Invoice-Private",,06/27/2013,06/27/2013,,53016952MO,-4898.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,28,102.0000,2856.00,"Basic Service Fee - One Bedroom for Jun: Bierman, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,28,44.0000,1232.00,"Resident Care - Level 2 for Jun: Bierman, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,53010255,,06/27/2013,4420,"Invoice-Private",,06/27/2013,06/27/2013,,53016952MO,-4898.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3060,3060,"CR:Basic Service F... J.Bierman 201306: Bierman, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... J.Bierman 201306: Bierman, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,1320,1320,"CR:Resident Care -... J.Bierman 201306: Bierman, Jerome",,,,,,,,,,,,,,,

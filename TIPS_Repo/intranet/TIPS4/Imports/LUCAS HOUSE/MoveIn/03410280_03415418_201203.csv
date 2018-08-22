@@ -1,0 +1,5 @@
+BATCH,,201203,B,3639.0000,
+INVOICE,IN,,03410280,,03/10/2012,3639.0000,"MoveIn-Outcalt. Elmore",,03/10/2012,03/10/2012,,03415418,3639.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,22,96.0000,2112,"Basic Service Fee - Studio: Outcalt. Elmore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Outcalt. Elmore",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Outcalt. Elmore",,,,,,,,,,,,,,,

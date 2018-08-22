@@ -1,0 +1,6 @@
+BATCH,,201210,B,3495.0000,
+INVOICE,IN,,15510269,,10/18/2012,3495.0000,"MoveIn-Reynolds. Cindy",,10/18/2012,10/18/2012,,15515516,6670.0000,,,,,,,,,,
+TRANSACTION,3010,010310155,14,89.0000,1246,"Basic Service Fee - Studio: Reynolds. Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310155,14,16.0000,224,"Resident Care - Level 1: Reynolds. Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25.0000,25,"Monthly Cable: Reynolds. Cindy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310155,1,2000.0000,2000,"New Resident Fee: Reynolds. Cindy",,,,,,,,,,,,,,,

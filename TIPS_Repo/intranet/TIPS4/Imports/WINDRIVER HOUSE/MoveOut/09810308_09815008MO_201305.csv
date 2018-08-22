@@ -1,0 +1,7 @@
+BATCH,,201305,B,2587.4000,
+INVOICE,IN,,09810308,,05/01/2013,228.3000,"Invoice-Private",,05/01/2013,05/10/2013,,09815008MO,-2130.8000,,,,,,,,,,
+TRANSACTION,3020,010103098,3,65.0000,195.00,"Basic Service Fee - Studio for May: Akers, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,3,11.1000,33.30,"Resident Care - Level 6 for May: Akers, Gene",,,,,,,,,,,,,,,
+INVOICE,CM,,09810308,,05/01/2013,2359.1,"Invoice-Private",,05/01/2013,05/10/2013,,09815008MO,-2130.8000,,,,,,,,,,
+TRANSACTION,3020,010103098,1,2015,2015,"CR:Basic Service F... G.Akers 201305: Akers, Gene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103098,1,344.1,344.1,"CR:Resident Care -... G.Akers 201305: Akers, Gene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,800.4000,
+INVOICE,IN,,01810137,,02/01/2012,400.2000,"Invoice-Private",,02/01/2012,02/10/2012,,01812443MO,-1228.2000,,,,,,,,,,
+TRANSACTION,3316,010103018,29,13.8000,400.20,"Credit for Employee Discount: Breitling, Ruben",,,,,,,,,,,,,,,
+INVOICE,CM,,01810137,,02/01/2012,400.2,"Invoice-Private",,02/01/2012,02/10/2012,,01812443MO,-1228.2000,,,,,,,,,,
+TRANSACTION,3316,010103018,29,13.8,400.2,"Employee Discount: Breitling, Ruben",,,,,,,,,,,,,,,

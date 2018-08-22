@@ -1,0 +1,5 @@
+BATCH,,201302,B,5850.0000,
+INVOICE,IN,,52510170,,02/01/2013,2210.0000,"Invoice-Private",,02/01/2013,02/10/2013,,52512752MO,-1430.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,17,130.0000,2210.00,"N.Nelson: Basic Service Fee - Studio Deluxe : Nelson, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,52510170,,02/01/2013,3640,"Invoice-Private",,02/01/2013,02/10/2013,,52512752MO,-1430.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3640,3640,"CR:N.Nelson: Basic... N.Nelson 201302: Nelson, Norma",,,,,,,,,,,,,,,

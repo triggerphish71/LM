@@ -1,0 +1,5 @@
+BATCH,,201204,B,120.0000,
+INVOICE,IN,,05510217,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05514285MO,-466.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,30,2.0000,60.00,"Credit for Limited Term Discount: Burney, Maryella",,,,,,,,,,,,,,,
+INVOICE,CM,,05510217,,04/01/2012,60,"Invoice-Private",,04/01/2012,04/10/2012,,05514285MO,-466.0000,,,,,,,,,,
+TRANSACTION,3320,010202055,30,2,60,"Limited Term Discount: Burney, Maryella",,,,,,,,,,,,,,,

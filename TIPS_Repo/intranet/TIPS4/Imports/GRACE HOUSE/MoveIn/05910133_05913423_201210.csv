@@ -1,0 +1,5 @@
+BATCH,,201210,B,2202.2200,
+INVOICE,IN,,05910133,,10/30/2012,2202.2200,"MoveIn-Henson. Cheryl",,10/30/2012,10/30/2012,,05913423,5235.5200,,,,,,,,,,
+TRANSACTION,3010,010101059,2,85.0000,170,"Basic Service Fee - Studio: Henson. Cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101059,2,16.1100,32.22,"Resident Care - Level 9: Henson. Cheryl",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101059,1,2000.0000,2000,"New Resident Fee: Henson. Cheryl",,,,,,,,,,,,,,,

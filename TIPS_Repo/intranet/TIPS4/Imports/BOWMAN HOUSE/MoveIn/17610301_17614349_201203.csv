@@ -1,0 +1,5 @@
+BATCH,,201203,B,3907.0000,
+INVOICE,IN,,17610301,,03/03/2012,3907.0000,"MoveIn-Zieman. Claire",,03/03/2012,03/03/2012,,17614349,3907.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,29,73.0000,2117,"Basic Service Fee - Studio: Zieman. Claire",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Zieman. Claire",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,29,10.0000,290,"CC Meals: Zieman. Claire",,,,,,,,,,,,,,,

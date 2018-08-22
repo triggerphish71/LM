@@ -1,0 +1,8 @@
+BATCH,,201207,B,8343.0000,
+INVOICE,IN,,16710203,,07/18/2012,3104.0000,"Invoice-Private",,07/18/2012,07/18/2012,,16713896MO,-7312.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,1,62.0000,62.00,"CR:Limited Term Di... B.Dowding 201207: Dowding, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211167,18,103.0000,1854.00,"Basic Service Fee - One Bedroom for Jul: Dowding, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,18,66.0000,1188.00,"Resident Care - Level 5 for Jul: Dowding, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,16710203,,07/18/2012,5239,"Invoice-Private",,07/18/2012,07/18/2012,,16713896MO,-7312.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,3193,3193,"CR:Basic Service F... B.Dowding 201207: Dowding, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,2046,2046,"CR:Resident Care -... B.Dowding 201207: Dowding, Bob",,,,,,,,,,,,,,,

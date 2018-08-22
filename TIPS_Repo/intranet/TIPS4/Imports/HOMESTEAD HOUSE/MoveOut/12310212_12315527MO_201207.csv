@@ -1,0 +1,7 @@
+BATCH,,201207,B,7440.0000,
+INVOICE,IN,,12310212,,07/17/2012,2635.0000,"Invoice-Private",,07/17/2012,07/17/2012,,12315527MO,-6975.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,17,103.0000,1751.00,"Basic Service Fee - Studio for Jul: Catlin, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,17,52.0000,884.00,"Resident Care - Level 3 for Jul: Catlin, Don",,,,,,,,,,,,,,,
+INVOICE,CM,,12310212,,07/17/2012,4805,"Invoice-Private",,07/17/2012,07/17/2012,,12315527MO,-6975.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... D.Catlin 201207: Catlin, Don",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,1612,1612,"CR:Resident Care -... D.Catlin 201207: Catlin, Don",,,,,,,,,,,,,,,

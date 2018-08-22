@@ -1,0 +1,5 @@
+BATCH,,201110,B,5105.0000,
+INVOICE,IN,,14510297,,10/05/2011,5105.0000,"MoveIn-Smith. Cornelius",,10/05/2011,10/05/2011,,14515148,5105.0000,,,,,,,,,,
+TRANSACTION,3010,010308145,27,99.0000,2673,"Basic Service Fee - Studio: Smith. Cornelius",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308145,27,16.0000,432,"Resident Care - Level 1: Smith. Cornelius",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308145,1,2000.0000,2000,"New Resident Fee: Smith. Cornelius",,,,,,,,,,,,,,,

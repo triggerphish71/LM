@@ -1,0 +1,5 @@
+BATCH,,201302,B,1337.0000,
+INVOICE,IN,,15410255,,02/15/2013,1337.0000,"MoveIn-Wolles. Norma",,02/15/2013,02/15/2013,,15415278,4255.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,14,74.0000,1036,"Basic Service Fee - Studio: Wolles. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,14,19.0000,266,"Resident Care - Level 1: Wolles. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Wolles. Norma",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,3846.0000,
+INVOICE,IN,,02610266,,02/03/2012,3846.0000,"MoveIn-Lemaire. Anite",,02/03/2012,02/03/2012,,02614647,3846.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,27,97.0000,2619,"Basic Service Fee - Studio: Lemaire. Anite",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Lemaire. Anite",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1200.0000,1200,"New Resident Fee: Lemaire. Anite",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,5500.0000,
+INVOICE,IN,,10710295,,07/17/2011,2090.0000,"Invoice-Private",,07/17/2011,07/17/2011,,10715684MO,-4730.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,19,95.0000,1805.00,"Basic Service Fee - Studio for Jul: Nelson, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,19,15.0000,285.00,"Resident Care - Level 1 for Jul: Nelson, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,10710295,,07/17/2011,3410,"Invoice-Private",,07/17/2011,07/17/2011,,10715684MO,-4730.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2945,2945,"CR:Basic Service F... E.Nelson 201107: Nelson, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,465,465,"CR:Resident Care -... E.Nelson 201107: Nelson, Elaine",,,,,,,,,,,,,,,

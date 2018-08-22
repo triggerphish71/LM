@@ -1,0 +1,7 @@
+BATCH,,201212,B,798.0000,
+INVOICE,IN,,03110313,,12/01/2012,399.0000,"Invoice-Private",,12/01/2012,12/10/2012,,03117115MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Wood, Margarette",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,31,12.0000,372.00,"Credit for Limited Term Discount: Wood, Margarette",,,,,,,,,,,,,,,
+INVOICE,CM,,03110313,,12/01/2012,399,"Invoice-Private",,12/01/2012,12/10/2012,,03117115MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Wood, Margarette",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202031,31,12,372,"Limited Term Discount: Wood, Margarette",,,,,,,,,,,,,,,

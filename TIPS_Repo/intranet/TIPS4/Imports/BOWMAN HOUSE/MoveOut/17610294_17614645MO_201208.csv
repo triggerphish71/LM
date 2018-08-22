@@ -1,0 +1,8 @@
+BATCH,,201208,B,5158.0000,
+INVOICE,IN,,17610294,,08/15/2012,1717.0000,"Invoice-Private",,08/15/2012,08/15/2012,,17614645MO,-5054.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,17,73.0000,1241.00,"Basic Service Fee - Studio for Aug: Lash, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,17,28.0000,476.00,"Resident Care - Level 2 for Aug: Lash, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,17610294,,08/15/2012,3441,"Invoice-Private",,08/15/2012,08/15/2012,,17614645MO,-5054.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... V.Lash 201208: Lash, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... V.Lash 201208: Lash, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,868,868,"CR:Resident Care -... V.Lash 201208: Lash, Virginia",,,,,,,,,,,,,,,

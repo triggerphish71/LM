@@ -1,0 +1,6 @@
+BATCH,,201106,B,1683.0000,
+INVOICE,IN,,03610284,,06/30/2011,1683.0000,"MoveIn-Matlock. Bill",,06/30/2011,06/30/2011,,03614714,6546.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,1,97.0000,97,"Basic Service Fee - Studio         : Matlock. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,1,59.0000,59,"Resident Care - Level 4: Matlock. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Matlock. Bill",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202036,1,1500.0000,1500,"New Resident Fee: Matlock. Bill",,,,,,,,,,,,,,,

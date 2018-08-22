@@ -1,0 +1,7 @@
+BATCH,,201202,B,4957.0000,
+INVOICE,IN,,03110246,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,03116615MO,-6236.0000,,,,,,,,,,
+TRANSACTION,3320,010202031,1,58.0000,58.00,"CR:Limited Term Di... B.Martin 201202: Martin, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03110246,,02/01/2012,4899,"Invoice-Private",,02/01/2012,02/10/2012,,03116615MO,-6236.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,2871,2871,"CR:Basic Service F... B.Martin 201202: Martin, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... B.Martin 201202: Martin, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,2001,2001,"CR:Resident Care -... B.Martin 201202: Martin, Betty",,,,,,,,,,,,,,,

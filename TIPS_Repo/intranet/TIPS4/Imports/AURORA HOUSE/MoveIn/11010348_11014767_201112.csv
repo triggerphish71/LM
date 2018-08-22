@@ -1,0 +1,6 @@
+BATCH,,201112,B,2235.0000,
+INVOICE,IN,,11010348,,12/30/2011,2235.0000,"MoveIn-Engels. John",,12/30/2011,12/30/2011,,11014767,5515.0000,,,,,,,,,,
+TRANSACTION,3010,010107110,2,91.0000,182,"J.Engels: Basic Service Fee - Studio: Engels. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107110,2,14.0000,28,"J.Engels: Resident Care - Level 1: Engels. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25.0000,25,"Monthly Cable: Engels. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107110,1,2000.0000,2000,"New Resident Fee: Engels. John",,,,,,,,,,,,,,,

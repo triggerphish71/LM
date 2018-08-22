@@ -1,0 +1,5 @@
+BATCH,,201212,B,2124.7000,
+INVOICE,IN,,06110236,,12/31/2012,2124.7000,"MoveIn-Day. Kenneth",,12/31/2012,12/31/2012,,06113995,5990.4000,,,,,,,,,,
+TRANSACTION,3010,010103061,1,84.0000,84,"Basic Service Fee - Studio: Day. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103061,1,40.7000,40.7,"Resident Care - Level 22: Day. Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,2000.0000,2000,"New Resident Fee: Day. Kenneth",,,,,,,,,,,,,,,

@@ -1,0 +1,92 @@
+td 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	background-color: #ffffff;
+}
+
+input 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+}
+
+th 
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #FFFFBD;
+}
+
+.thSummary
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	background-color: #C7D3E8;
+}
+
+table
+{
+	background-color: #e3e3e3;
+}
+
+.mainMenu
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+	height:20;
+	background-image: url(images\menu_background.gif);
+}
+
+a.Menu
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #0000FF;
+	text-decoration:none;
+}
+
+a.Menu:hover
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #0000FF;
+	text-decoration:underline;
+}
+
+.info
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000;
+	height:20;
+	background-color: #C7D3E8;
+	width: 80%;
+	padding: 4px;
+}
+.error
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.rateIncreaseHouseName
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000088;
+	background-color: #AED6FF;
+}

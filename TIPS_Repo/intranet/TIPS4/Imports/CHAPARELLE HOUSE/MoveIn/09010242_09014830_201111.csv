@@ -1,0 +1,6 @@
+BATCH,,201111,B,3177.0000,
+INVOICE,IN,,09010242,,11/22/2011,3177.0000,"MoveIn-McCollum. Joe",,11/22/2011,11/22/2011,,09014830,7170.0000,,,,,,,,,,
+TRANSACTION,3010,010104090,9,113.0000,1017,"Basic Service Fee - One Bedroom: McCollum. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104090,9,15.0000,135,"Resident Care - Level 1: McCollum. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25.0000,25,"Monthly Cable: McCollum. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104090,1,2000.0000,2000,"New Resident Fee: McCollum. Joe",,,,,,,,,,,,,,,

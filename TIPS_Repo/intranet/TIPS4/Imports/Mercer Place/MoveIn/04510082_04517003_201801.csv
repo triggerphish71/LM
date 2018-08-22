@@ -1,0 +1,7 @@
+BATCH,,201801,B,3535.0700,
+INVOICE,IN,,04510082,,01/25/2018,3535.0700,"MoveIn-Murry. Mary",,01/25/2018,01/25/2018,,04517003,3535.0700,,,,,,,,,,
+TRANSACTION,3010,010002045,7,99.0000,693,"Basic Service Fee - Studio: Murry. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002045,7,21.0000,147,"Resident Care - Level 1: Murry. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002045,1,2000.0000,2000,"Community Fee: Murry. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002045,1,28.4000,28.4,"Monthly Cable: Murry. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010002045,1,666.6700,666.67,"Monthly Deferral Charge: Murry. Mary",,,,,,,,,,,,,,,

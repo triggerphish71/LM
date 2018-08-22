@@ -1,0 +1,7 @@
+BATCH,,201207,B,194.0000,
+INVOICE,IN,,15210130,,07/01/2012,97.0000,"Invoice-Private",,07/01/2012,07/10/2012,,15213838MO,-4743.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35.00,"Monthly Cable: Wallace, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211152,31,2.0000,62.00,"Credit for Limited Term Discount: Wallace, Kenneth",,,,,,,,,,,,,,,
+INVOICE,CM,,15210130,,07/01/2012,97,"Invoice-Private",,07/01/2012,07/10/2012,,15213838MO,-4743.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"Credit for Monthly Cable: Wallace, Kenneth",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211152,31,2,62,"Limited Term Discount: Wallace, Kenneth",,,,,,,,,,,,,,,

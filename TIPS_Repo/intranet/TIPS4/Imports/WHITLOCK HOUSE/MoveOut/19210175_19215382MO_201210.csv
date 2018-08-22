@@ -1,0 +1,7 @@
+BATCH,,201210,B,256.0000,
+INVOICE,IN,,19210175,,10/01/2012,128.0000,"Invoice-Private",,10/01/2012,10/10/2012,,19215382MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35.0000,35.00,"Pendant Fee: Simpson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309192,31,3.0000,93.00,"Credit for Limited Term Discount: Simpson, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,19210175,,10/01/2012,128,"Invoice-Private",,10/01/2012,10/10/2012,,19215382MO,-5015.0000,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"Credit for Pendant Fee: Simpson, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309192,31,3,93,"Limited Term Discount: Simpson, Martha",,,,,,,,,,,,,,,

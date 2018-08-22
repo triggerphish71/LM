@@ -1,0 +1,6 @@
+BATCH,,201112,B,4698.0000,
+INVOICE,IN,,01910225,,12/09/2011,4698.0000,"MoveIn-Landis. Odessa",,12/09/2011,12/09/2011,,01914661,4698.0000,,,,,,,,,,
+TRANSACTION,3010,010202019,23,95.0000,2185,"Basic Service Fee - Studio: Landis. Odessa",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202019,23,32.0000,736,"Resident Care - Level 2: Landis. Odessa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202019,1,27.0000,27,"Monthly Cable: Landis. Odessa",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202019,1,1750.0000,1750,"New Resident Fee: Landis. Odessa",,,,,,,,,,,,,,,

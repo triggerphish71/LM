@@ -1,0 +1,7 @@
+BATCH,,201303,B,5335.0000,
+INVOICE,IN,,03510116,,03/01/2013,2328.0000,"Invoice-Private",,03/01/2013,03/10/2013,,03513507MO,-679.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,24,81.0000,1944.00,"Basic Service Fee - Studio for Mar: Alldredge, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,24,16.0000,384.00,"Resident Care - Level 1 for Mar: Alldredge, Bud",,,,,,,,,,,,,,,
+INVOICE,CM,,03510116,,03/01/2013,3007,"Invoice-Private",,03/01/2013,03/10/2013,,03513507MO,-679.0000,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2511,2511,"CR:Basic Service F... B.Alldredge 201303: Alldredge, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202035,1,496,496,"CR:Resident Care -... B.Alldredge 201303: Alldredge, Bud",,,,,,,,,,,,,,,

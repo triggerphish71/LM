@@ -1,0 +1,5 @@
+BATCH,,201802,B,579.6000,
+INVOICE,IN,,00110249,,02/01/2018,289.8000,"Invoice-Private",,02/01/2018,02/10/2018,,00115047MO,-1473.1500,,,,,,,,,,
+TRANSACTION,3316,010001001,28,10.3500,289.80,"Credit for Employee Discount: Maxwell, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,00110249,,02/01/2018,289.8,"Invoice-Private",,02/01/2018,02/10/2018,,00115047MO,-1473.1500,,,,,,,,,,
+TRANSACTION,3316,010001001,28,10.35,289.8,"Employee Discount: Maxwell, Jean",,,,,,,,,,,,,,,

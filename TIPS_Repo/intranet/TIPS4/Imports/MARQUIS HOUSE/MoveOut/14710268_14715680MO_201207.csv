@@ -1,0 +1,5 @@
+BATCH,,201207,B,84.0000,
+INVOICE,IN,,14710268,,07/01/2012,42.0000,"Invoice-Private",,07/01/2012,07/10/2012,,14715680MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Mahoney, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,14710268,,07/01/2012,42,"Invoice-Private",,07/01/2012,07/10/2012,,14715680MO,-3402.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Mahoney, Shirley",,,,,,,,,,,,,,,

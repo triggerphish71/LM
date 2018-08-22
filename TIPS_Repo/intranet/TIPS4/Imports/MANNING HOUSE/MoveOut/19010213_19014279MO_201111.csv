@@ -1,0 +1,5 @@
+BATCH,,201111,B,2880.0000,
+INVOICE,IN,,19010213,,11/01/2011,1440.0000,"Invoice-Private",,11/01/2011,11/10/2011,,19014279MO,-720.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,30,48.0000,1440.00,"Credit for Limited Term Discount: Skinner, Jessie",,,,,,,,,,,,,,,
+INVOICE,CM,,19010213,,11/01/2011,1440,"Invoice-Private",,11/01/2011,11/10/2011,,19014279MO,-720.0000,,,,,,,,,,
+TRANSACTION,3320,010308190,30,48,1440,"Limited Term Discount: Skinner, Jessie",,,,,,,,,,,,,,,

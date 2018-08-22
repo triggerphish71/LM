@@ -1,0 +1,7 @@
+BATCH,,201302,B,1572.0000,
+INVOICE,IN,,15910177,,02/01/2013,786.0000,"Invoice-Private",,02/01/2013,02/10/2013,,15915059MO,-1953.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30.00,"Monthly Cable: Nees, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,28,27.0000,756.00,"Credit for Limited Term Discount: Nees, Elmer",,,,,,,,,,,,,,,
+INVOICE,CM,,15910177,,02/01/2013,786,"Invoice-Private",,02/01/2013,02/10/2013,,15915059MO,-1953.0000,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30,30,"Credit for Monthly Cable: Nees, Elmer",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212159,28,27,756,"Limited Term Discount: Nees, Elmer",,,,,,,,,,,,,,,

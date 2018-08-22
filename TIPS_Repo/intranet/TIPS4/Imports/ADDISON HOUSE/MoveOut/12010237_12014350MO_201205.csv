@@ -1,0 +1,7 @@
+BATCH,,201205,B,1486.0000,
+INVOICE,IN,,12010237,,05/01/2012,743.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12014350MO,-2567.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: Curtis, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,23.0000,713.00,"Credit for Limited Term Discount: Curtis, Janice",,,,,,,,,,,,,,,
+INVOICE,CM,,12010237,,05/01/2012,743,"Invoice-Private",,05/01/2012,05/10/2012,,12014350MO,-2567.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: Curtis, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,23,713,"Limited Term Discount: Curtis, Janice",,,,,,,,,,,,,,,

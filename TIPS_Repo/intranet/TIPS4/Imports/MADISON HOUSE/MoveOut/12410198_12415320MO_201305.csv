@@ -1,0 +1,8 @@
+BATCH,,201305,B,4935.0000,
+INVOICE,IN,,12410198,,05/04/2013,560.0000,"Invoice-Private",,05/04/2013,05/04/2013,,12415320MO,-3815.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,4,92.0000,368.00,"Basic Service Fee - Studio for May: Sellin, Duane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,4,48.0000,192.00,"Resident Care - Level 3 for May: Sellin, Duane",,,,,,,,,,,,,,,
+INVOICE,CM,,12410198,,05/04/2013,4375,"Invoice-Private",,05/04/2013,05/04/2013,,12415320MO,-3815.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2852,2852,"CR:Basic Service F... D.Sellin 201305: Sellin, Duane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... D.Sellin 201305: Sellin, Duane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,1488,1488,"CR:Resident Care -... D.Sellin 201305: Sellin, Duane",,,,,,,,,,,,,,,

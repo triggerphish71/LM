@@ -1,0 +1,8 @@
+BATCH,,201212,B,5504.0100,
+INVOICE,IN,,17110286,,12/17/2012,1947.0100,"Invoice-Private",,12/17/2012,12/17/2012,,17115544MO,-5205.9900,,,,,,,,,,
+TRANSACTION,3020,010308171,17,94.0000,1598.00,"Basic Service Fee - Studio for Dec: Miller, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,17,20.5300,349.01,"Increase Room and Board for Dec: Miller, George",,,,,,,,,,,,,,,
+INVOICE,CM,,17110286,,12/17/2012,3557,"Invoice-Private",,12/17/2012,12/17/2012,,17115544MO,-5205.9900,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... G.Miller 201212: Miller, George",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,1,616,616,"CR:Increase Room a... G.Miller 201212: Miller, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... G.Miller 201212: Miller, George",,,,,,,,,,,,,,,

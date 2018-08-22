@@ -1,0 +1,5 @@
+BATCH,,201201,B,4637.8400,
+INVOICE,IN,,13910281,,01/01/2012,4637.8400,"January_Rent-Carlson. Robert",,01/01/2012,01/10/2012,,13915993,6965.1200,,,,,,,,,,
+TRANSACTION,3010,010103139,31,120.0000,3720,"Basic Service Fee - One Bedroom: Carlson. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103139,31,28.6400,887.84,"Resident Care - Level 16: Carlson. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Carlson. Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201106,B,4368.0000,
+INVOICE,IN,,02110198,,06/08/2011,1008.0000,"Invoice-Private",,06/08/2011,06/08/2011,,02114645MO,-2352.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,9,95.0000,855.00,"Basic Service Fee - Studio for Jun: White, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,9,17.0000,153.00,"Resident Care - Level 1 for Jun: White, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,02110198,,06/08/2011,3360,"Invoice-Private",,06/08/2011,06/08/2011,,02114645MO,-2352.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,2850,2850,"CR:Basic Service F... M.White 201106: White, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,510,510,"CR:Resident Care -... M.White 201106: White, Marjorie",,,,,,,,,,,,,,,

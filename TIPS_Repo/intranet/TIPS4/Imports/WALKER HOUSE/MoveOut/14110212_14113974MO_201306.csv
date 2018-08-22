@@ -1,0 +1,5 @@
+BATCH,,201306,B,1600.0000,
+INVOICE,IN,,14110212,,06/02/2013,100.0000,"Invoice-Private",,06/02/2013,06/02/2013,,14113974MO,-1400.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,2,50.0000,100.00,"Basic Service Fee - Studio for Jun: Pittman, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,14110212,,06/02/2013,1500,"Invoice-Private",,06/02/2013,06/02/2013,,14113974MO,-1400.0000,,,,,,,,,,
+TRANSACTION,3020,010309141,1,1500,1500,"CR:Basic Service F... R.Pittman 201306: Pittman, Robert",,,,,,,,,,,,,,,

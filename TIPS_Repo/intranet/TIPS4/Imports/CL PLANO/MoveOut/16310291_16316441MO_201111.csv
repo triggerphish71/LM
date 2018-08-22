@@ -1,0 +1,7 @@
+BATCH,,201111,B,5043.0000,
+INVOICE,IN,,16310291,,11/01/2011,1896.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16316441MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,960.0000,960.00,"CR:Limited Term Di... J.Jackson 201111: Jackson, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202163,9,104.0000,936.00,"Basic Service Fee - Studio Deluxe for Nov: Jackson, Jim",,,,,,,,,,,,,,,
+INVOICE,CM,,16310291,,11/01/2011,3147,"Invoice-Private",,11/01/2011,11/10/2011,,16316441MO,-3510.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3120,3120,"CR:Basic Service F... J.Jackson 201111: Jackson, Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... J.Jackson 201111: Jackson, Jim",,,,,,,,,,,,,,,

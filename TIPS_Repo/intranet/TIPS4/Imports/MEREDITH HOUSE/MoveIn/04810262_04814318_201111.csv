@@ -1,0 +1,5 @@
+BATCH,,201111,B,3565.0000,
+INVOICE,IN,,04810262,,11/01/2011,3565.0000,"November_Rent-Sloss. Ruby",,11/01/2011,11/10/2011,,04814318,5326.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,30,103.0000,3090,"Basic Service Fee - Studio: Sloss. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,30,15.0000,450,"Resident Care - Level 1: Sloss. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25.0000,25,"Monthly Cable: Sloss. Ruby",,,,,,,,,,,,,,,

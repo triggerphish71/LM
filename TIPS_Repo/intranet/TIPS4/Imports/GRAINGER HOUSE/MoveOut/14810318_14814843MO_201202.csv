@@ -1,0 +1,7 @@
+BATCH,,201202,B,4033.0000,
+INVOICE,IN,,14810318,,02/08/2012,872.0000,"Invoice-Private",,02/08/2012,02/08/2012,,14814843MO,-2289.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,8,91.0000,728.00,"Basic Service Fee - Studio for Feb: Connelly, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,8,18.0000,144.00,"Resident Care - Level 1 for Feb: Connelly, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,14810318,,02/08/2012,3161,"Invoice-Private",,02/08/2012,02/08/2012,,14814843MO,-2289.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2639,2639,"CR:Basic Service F... R.Connelly 201202: Connelly, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,522,522,"CR:Resident Care -... R.Connelly 201202: Connelly, Raymond",,,,,,,,,,,,,,,

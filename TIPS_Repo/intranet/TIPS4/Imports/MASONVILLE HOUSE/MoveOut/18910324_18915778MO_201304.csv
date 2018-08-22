@@ -1,0 +1,8 @@
+BATCH,,201304,B,2796.0000,
+INVOICE,IN,,18910324,,04/10/2013,936.0000,"Invoice-Private",,04/10/2013,04/10/2013,,18915778MO,-924.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,18,35.0000,630.00,"Basic Service Fee - One Bedroom for Apr: Cox, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,18,17.0000,306.00,"Resident Care - Level 1 for Apr: Cox, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,18910324,,04/10/2013,1860,"Invoice-Private",,04/10/2013,04/10/2013,,18915778MO,-924.0000,,,,,,,,,,
+TRANSACTION,3020,010315189,1,1050,1050,"CR:Basic Service F... J.Cox 201304: Cox, Jean",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,1,300,300,"CR:CC Meals... J.Cox 201304: Cox, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315189,1,510,510,"CR:Resident Care -... J.Cox 201304: Cox, Jean",,,,,,,,,,,,,,,

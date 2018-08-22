@@ -1,0 +1,5 @@
+BATCH,,201109,B,1260.0000,
+INVOICE,IN,,01510166,,09/01/2011,630.0000,"Invoice-Private",,09/01/2011,09/10/2011,,01514048MO,-2334.3000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,21.0000,630.00,"Credit for Limited Term Discount: Kelley, Delbert",,,,,,,,,,,,,,,
+INVOICE,CM,,01510166,,09/01/2011,630,"Invoice-Private",,09/01/2011,09/10/2011,,01514048MO,-2334.3000,,,,,,,,,,
+TRANSACTION,3320,010103015,30,21,630,"Limited Term Discount: Kelley, Delbert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201203,B,3199.0000,
+INVOICE,IN,,04510251,,03/10/2012,3199.0000,"MoveIn-Shaddock. Novella",,03/10/2012,03/10/2012,,04513931,3199.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,22,76.0000,1672,"Basic Service Fee - Studio: Shaddock. Novella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Shaddock. Novella",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202045,1,1500.0000,1500,"New Resident Fee: Shaddock. Novella",,,,,,,,,,,,,,,

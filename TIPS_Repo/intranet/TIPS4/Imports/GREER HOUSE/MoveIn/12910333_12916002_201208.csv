@@ -1,0 +1,7 @@
+BATCH,,201208,B,3516.0000,
+INVOICE,IN,,12910333,,07/27/2012,510.0000,"MoveIn-Coyne. Dorothy",,07/27/2012,07/27/2012,,12916002,3516.0000,,,,,,,,,,
+TRANSACTION,3014,010310129,5,96.0000,480,"Basic Service Fee - Studio: Coyne. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Coyne. Dorothy",,,,,,,,,,,,,,,
+INVOICE,IN,,12910333,,08/01/2012,3006.0000,"August_Rent-Coyne. Dorothy",,08/01/2012,08/10/2012,,12916002,3516.0000,,,,,,,,,,
+TRANSACTION,3010,010310129,31,96.0000,2976,"Basic Service Fee - Studio: Coyne. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310129,1,30.0000,30,"Monthly Cable: Coyne. Dorothy",,,,,,,,,,,,,,,

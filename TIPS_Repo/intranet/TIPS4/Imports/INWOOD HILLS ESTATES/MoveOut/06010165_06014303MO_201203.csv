@@ -1,0 +1,8 @@
+BATCH,,201203,B,6158.0000,
+INVOICE,IN,,06010165,,03/07/2012,1127.0000,"Invoice-Private",,03/07/2012,03/07/2012,,06014303MO,-3904.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,7,90.0000,630.00,"Basic Service Fee - Studio for Mar: Meek, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,7,71.0000,497.00,"Resident Care - Level 6 for Mar: Meek, LaVerne",,,,,,,,,,,,,,,
+INVOICE,CM,,06010165,,03/07/2012,5031,"Invoice-Private",,03/07/2012,03/07/2012,,06014303MO,-3904.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2790,2790,"CR:Basic Service F... L.Meek 201203: Meek, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... L.Meek 201203: Meek, LaVerne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,2201,2201,"CR:Resident Care -... L.Meek 201203: Meek, LaVerne",,,,,,,,,,,,,,,

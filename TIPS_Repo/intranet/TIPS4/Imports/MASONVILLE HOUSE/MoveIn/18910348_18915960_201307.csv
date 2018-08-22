@@ -1,0 +1,6 @@
+BATCH,,201307,B,3119.0000,
+INVOICE,IN,,18910348,,07/01/2013,3119.0000,"July_Rent-Smith. Mary",,07/01/2013,07/10/2013,,18915960,3441.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,31,89.0000,2759,"Basic Service Fee - Studio: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310,"CC Meals: Smith. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010315189,1,25.0000,25,"Pendant Fee: Smith. Mary",,,,,,,,,,,,,,,

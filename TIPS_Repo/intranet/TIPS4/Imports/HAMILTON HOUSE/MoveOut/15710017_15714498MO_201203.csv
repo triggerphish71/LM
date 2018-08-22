@@ -1,0 +1,7 @@
+BATCH,,201203,B,8944.0000,
+INVOICE,IN,,15710017,,03/21/2012,3612.0000,"Invoice-Private",,03/21/2012,03/21/2012,,15714498MO,-6880.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,21,115.0000,2415.00,"Basic Service Fee - One Bedroom for Mar: Simmons, Lucy Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,21,57.0000,1197.00,"Resident Care - Level 4 for Mar: Simmons, Lucy Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,15710017,,03/21/2012,5332,"Invoice-Private",,03/21/2012,03/21/2012,,15714498MO,-6880.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,3565,3565,"CR:Basic Service F... L.Simmons 201203: Simmons, Lucy Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1767,1767,"CR:Resident Care -... L.Simmons 201203: Simmons, Lucy Mildred",,,,,,,,,,,,,,,

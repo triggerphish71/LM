@@ -1,0 +1,6 @@
+BATCH,,201208,B,4429.0000,
+INVOICE,IN,,16310256,,08/01/2012,1054.0000,"Invoice-Private",,08/01/2012,08/10/2012,,16316782MO,-1618.0000,,,,,,,,,,
+TRANSACTION,3320,010202163,1,1054.0000,1054.00,"CR:Limited Term Di... R.Neubauer 201208: Neubauer, Rita",,,,,,,,,,,,,,,
+INVOICE,CM,,16310256,,08/01/2012,3375,"Invoice-Private",,08/01/2012,08/10/2012,,16316782MO,-1618.0000,,,,,,,,,,
+TRANSACTION,3020,010202163,1,3348,3348,"CR:Basic Service F... R.Neubauer 201208: Neubauer, Rita",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27,27,"CR:Monthly Cable... R.Neubauer 201208: Neubauer, Rita",,,,,,,,,,,,,,,

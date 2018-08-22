@@ -1,0 +1,8 @@
+BATCH,,201805,B,2918.0000,
+INVOICE,IN,,10910368,,05/15/2018,1027.0000,"Invoice-Private",,05/15/2018,05/15/2018,,10918558MO,-864.0000,,,,,,,,,,
+TRANSACTION,3017,010005109,8,41.0000,328.00,"Level: 2 : Applegarth, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005109,7,57.0000,399.00," Level: 3 : Applegarth, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005109,15,20.0000,300.00,"Basic Service Fee - Studio  for May: Applegarth, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,10910368,,05/15/2018,1891,"Invoice-Private",,05/15/2018,05/15/2018,,10918558MO,-864.0000,,,,,,,,,,
+TRANSACTION,3020,010005109,1,620,620,"CR:Basic Service F... V.Applegarth 201805: Applegarth, Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005109,1,1271,1271,"CR:Resident Care -... V.Applegarth 201805: Applegarth, Vivian",,,,,,,,,,,,,,,

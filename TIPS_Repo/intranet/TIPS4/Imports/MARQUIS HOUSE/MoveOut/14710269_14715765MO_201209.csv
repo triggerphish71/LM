@@ -1,0 +1,7 @@
+BATCH,,201209,B,204.0000,
+INVOICE,IN,,14710269,,09/01/2012,102.0000,"Invoice-Private",,09/01/2012,09/10/2012,,14715765MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Smith, Mary Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,30,2.0000,60.00,"Credit for Limited Term Discount: Smith, Mary Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,14710269,,09/01/2012,102,"Invoice-Private",,09/01/2012,09/10/2012,,14715765MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Smith, Mary Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310147,30,2,60,"Limited Term Discount: Smith, Mary Ellen",,,,,,,,,,,,,,,

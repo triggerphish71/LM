@@ -1,0 +1,5 @@
+BATCH,,201211,B,84.0000,
+INVOICE,IN,,14710193,,11/01/2012,42.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14715843MO,-7714.5000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42.0000,42.00,"Monthly Cable: Smalley, George",,,,,,,,,,,,,,,
+INVOICE,CM,,14710193,,11/01/2012,42,"Invoice-Private",,11/01/2012,11/10/2012,,14715843MO,-7714.5000,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"Credit for Monthly Cable: Smalley, George",,,,,,,,,,,,,,,

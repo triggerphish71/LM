@@ -1,0 +1,7 @@
+BATCH,,201205,B,176.0000,
+INVOICE,IN,,11910166,,05/01/2012,88.0000,"Invoice-Private",,05/01/2012,05/10/2012,,11915701MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26.00,"Monthly Cable: Buzzard, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,31,2.0000,62.00,"Credit for Limited Term Discount: Buzzard, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,11910166,,05/01/2012,88,"Invoice-Private",,05/01/2012,05/10/2012,,11915701MO,-2546.0000,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"Credit for Monthly Cable: Buzzard, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310119,31,2,62,"Limited Term Discount: Buzzard, Mildred",,,,,,,,,,,,,,,

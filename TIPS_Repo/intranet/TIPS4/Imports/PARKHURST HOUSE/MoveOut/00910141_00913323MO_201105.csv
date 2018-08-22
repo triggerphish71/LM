@@ -1,0 +1,8 @@
+BATCH,,201105,B,4499.2000,
+INVOICE,IN,,00910141,,05/06/2011,129.6000,"Invoice-Private",,05/06/2011,05/06/2011,,00913323MO,-4240.0000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,82.0000,82.00,"Basic Service Fee - Studio for May: Vonstockhausen, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,47.6000,47.60,"Resident Care - Level 28 for May: Vonstockhausen, Brenda",,,,,,,,,,,,,,,
+INVOICE,CM,,00910141,,05/06/2011,4369.6,"Invoice-Private",,05/06/2011,05/06/2011,,00913323MO,-4240.0000,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2132,2132,"CR:Basic Service F... B.Vonstockhausen 201105: Vonstockhausen, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101009,1,1000,1000,"CR:New Resident Fe... B.Vonstockhausen 201105: Vonstockhausen, Brenda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,1237.6,1237.6,"CR:Resident Care -... B.Vonstockhausen 201105: Vonstockhausen, Brenda",,,,,,,,,,,,,,,

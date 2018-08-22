@@ -1,0 +1,5 @@
+BATCH,,201109,B,2109.0000,
+INVOICE,IN,,16910221,,09/30/2011,2109.0000,"MoveIn-Kammerzell. Maxine",,09/30/2011,09/30/2011,,16914584,4738.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,1,84.0000,84,"Basic Service Fee - Studio         : Kammerzell. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Kammerzell. Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Kammerzell. Maxine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,2548.0000,
+INVOICE,IN,,11510132,,09/01/2011,150.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11513834MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3320,010308115,1,150.0000,150.00,"CR:Limited Term Di... C.Farmer 201109: Farmer, Cecil",,,,,,,,,,,,,,,
+INVOICE,CM,,11510132,,09/01/2011,2398,"Invoice-Private",,09/01/2011,09/10/2011,,11513834MO,-3069.0000,,,,,,,,,,
+TRANSACTION,3020,010308115,1,1920,1920,"CR:Basic Service F... C.Farmer 201109: Farmer, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"CR:Monthly Cable... C.Farmer 201109: Farmer, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308115,1,450,450,"CR:Resident Care -... C.Farmer 201109: Farmer, Cecil",,,,,,,,,,,,,,,

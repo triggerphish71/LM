@@ -1,0 +1,8 @@
+BATCH,,201205,B,6679.4800,
+INVOICE,IN,,17610305,,05/08/2012,1306.5600,"Invoice-Private",,05/08/2012,05/08/2012,,17614454MO,-4066.3600,,,,,,,,,,
+TRANSACTION,3020,010315176,8,73.0000,584.00,"Basic Service Fee - Studio for May: Groebner, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,8,90.3200,722.56,"Resident Care - Level 6+8 pts for May: Groebner, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,17610305,,05/08/2012,5372.92,"Invoice-Private",,05/08/2012,05/08/2012,,17614454MO,-4066.3600,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... E.Groebner 201205: Groebner, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... E.Groebner 201205: Groebner, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,2799.92,2799.92,"CR:Resident Care -... E.Groebner 201205: Groebner, Elaine",,,,,,,,,,,,,,,

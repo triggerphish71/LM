@@ -1,0 +1,8 @@
+BATCH,,201112,B,3778.5500,
+INVOICE,IN,,12510177,,12/05/2011,926.5500,"Invoice-Private",,12/05/2011,12/05/2011,,12514118MO,-1925.4500,,,,,,,,,,
+TRANSACTION,3320,010211125,1,466.5500,466.55,"CR:Limited Term Di... D.Wells 201112: Wells, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211125,5,74.0000,370.00,"Basic Service Fee - Studio for Dec: Wells, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,5,18.0000,90.00,"Resident Care - Level 1 for Dec: Wells, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,12510177,,12/05/2011,2852,"Invoice-Private",,12/05/2011,12/05/2011,,12514118MO,-1925.4500,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2294,2294,"CR:Basic Service F... D.Wells 201112: Wells, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,558,558,"CR:Resident Care -... D.Wells 201112: Wells, Donald",,,,,,,,,,,,,,,

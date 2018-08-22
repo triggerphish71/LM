@@ -1,0 +1,5 @@
+BATCH,,201201,B,558.0000,
+INVOICE,IN,,16010349,,01/01/2012,279.0000,"Invoice-Private",,01/01/2012,01/10/2012,,16015120MO,-3001.0000,,,,,,,,,,
+TRANSACTION,3320,010107160,31,9.0000,279.00,"Credit for Limited Term Discount: Wyatt, Ray",,,,,,,,,,,,,,,
+INVOICE,CM,,16010349,,01/01/2012,279,"Invoice-Private",,01/01/2012,01/10/2012,,16015120MO,-3001.0000,,,,,,,,,,
+TRANSACTION,3320,010107160,31,9,279,"Limited Term Discount: Wyatt, Ray",,,,,,,,,,,,,,,

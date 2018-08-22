@@ -1,0 +1,6 @@
+BATCH,,201303,B,4475.0000,
+INVOICE,IN,,16910262,,03/19/2013,1691.0000,"Invoice-Private",,03/19/2013,03/19/2013,,16915457MO,-3788.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,19,89.0000,1691.00,"Basic Service Fee - Studio for Mar: Aason, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,16910262,,03/19/2013,2784,"Invoice-Private",,03/19/2013,03/19/2013,,16915457MO,-3788.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,2759,2759,"CR:Basic Service F... D.Aason 201303: Aason, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... D.Aason 201303: Aason, Doris",,,,,,,,,,,,,,,

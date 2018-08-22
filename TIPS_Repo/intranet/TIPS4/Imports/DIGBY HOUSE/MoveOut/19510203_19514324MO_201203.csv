@@ -1,0 +1,8 @@
+BATCH,,201203,B,9457.1000,
+INVOICE,IN,,19510203,,03/01/2012,4373.1000,"Invoice-Private",,03/01/2012,03/01/2012,,19514324MO,-5207.9000,,,,,,,,,,
+TRANSACTION,3316,010309195,1,437.1000,437.10,"CR:Employee Discou... A.Greenwell 201203: Greenwell, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309195,24,94.0000,2256.00,"Basic Service Fee - Studio for Mar: Greenwell, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,24,70.0000,1680.00,"Resident Care - Level 5 for Mar: Greenwell, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,19510203,,03/01/2012,5084,"Invoice-Private",,03/01/2012,03/01/2012,,19514324MO,-5207.9000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2914,2914,"CR:Basic Service F... A.Greenwell 201203: Greenwell, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,2170,2170,"CR:Resident Care -... A.Greenwell 201203: Greenwell, Anna",,,,,,,,,,,,,,,

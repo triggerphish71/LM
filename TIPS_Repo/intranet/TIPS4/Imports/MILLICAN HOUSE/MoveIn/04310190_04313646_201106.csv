@@ -1,0 +1,5 @@
+BATCH,,201106,B,2190.0000,
+INVOICE,IN,,04310190,,06/24/2011,2190.0000,"MoveIn-Walton. Fern",,06/24/2011,06/24/2011,,04313646,5160.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,7,95.0000,665,"Basic Service Fee - Studio         : Walton. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Walton. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Walton. Fern",,,,,,,,,,,,,,,

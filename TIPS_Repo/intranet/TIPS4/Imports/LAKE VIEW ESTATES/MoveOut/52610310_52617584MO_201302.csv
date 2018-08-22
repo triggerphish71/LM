@@ -1,0 +1,5 @@
+BATCH,,201302,B,805.0000,
+INVOICE,IN,,52610310,,02/07/2013,161.0000,"Invoice-Private",,02/07/2013,02/07/2013,,52617584MO,-483.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,7,23.0000,161.00,"Basic Service Fee - Second Resident for Feb: Hansman, Mirtha",,,,,,,,,,,,,,,
+INVOICE,CM,,52610310,,02/07/2013,644,"Invoice-Private",,02/07/2013,02/07/2013,,52617584MO,-483.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,644,644,"CR:Basic Service F... M.Hansman 201302: Hansman, Mirtha",,,,,,,,,,,,,,,

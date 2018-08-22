@@ -1,0 +1,7 @@
+BATCH,,201307,B,2838.0000,
+INVOICE,IN,,10810256,,07/12/2013,792.0000,"Invoice-Private",,07/12/2013,07/12/2013,,10815378MO,-1254.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,12,50.0000,600.00,"Basic Service Fee - Studio for Jul: Crocker, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,12,16.0000,192.00,"Resident Care - Level 1 for Jul: Crocker, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,10810256,,07/12/2013,2046,"Invoice-Private",,07/12/2013,07/12/2013,,10815378MO,-1254.0000,,,,,,,,,,
+TRANSACTION,3020,010308108,1,1550,1550,"CR:Basic Service F... H.Crocker 201307: Crocker, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308108,1,496,496,"CR:Resident Care -... H.Crocker 201307: Crocker, Helen",,,,,,,,,,,,,,,

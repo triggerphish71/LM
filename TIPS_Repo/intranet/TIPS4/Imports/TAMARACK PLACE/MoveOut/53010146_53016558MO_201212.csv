@@ -1,0 +1,7 @@
+BATCH,,201212,B,7026.4700,
+INVOICE,IN,,53010146,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53016558MO,-8892.8000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,62.0000,62.00,"CR:Limited Term Di... S.Janca 201212: Janca, Stella",,,,,,,,,,,,,,,
+INVOICE,CM,,53010146,,12/01/2012,6964.47,"Invoice-Private",,12/01/2012,12/10/2012,,53016558MO,-8892.8000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3906,3906,"CR:Basic Service F... S.Janca 201212: Janca, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... S.Janca 201212: Janca, Stella",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,3018.47,3018.47,"CR:Resident Care -... S.Janca 201212: Janca, Stella",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,597.0000,
+INVOICE,IN,,14210170,,10/01/2011,298.5000,"Invoice-Private",,10/01/2011,10/10/2011,,14213636MO,-3546.5000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35.00,"Monthly Cable: Darby, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309142,31,8.5000,263.50,"Credit for Two Room Rental Discount: Darby, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,14210170,,10/01/2011,298.5,"Invoice-Private",,10/01/2011,10/10/2011,,14213636MO,-3546.5000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"Credit for Monthly Cable: Darby, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3312,010309142,31,8.5,263.5,"Two Room Rental Discount: Darby, Harold",,,,,,,,,,,,,,,

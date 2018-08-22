@@ -1,0 +1,8 @@
+BATCH,,201212,B,7099.3100,
+INVOICE,IN,,03210274,,12/01/2012,3024.0000,"Invoice-Private",,12/01/2012,12/10/2012,,03215155MO,-1051.3100,,,,,,,,,,
+TRANSACTION,3020,010202032,24,94.0000,2256.00,"Basic Service Fee - Studio for Dec: Martin, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,24,32.0000,768.00,"Resident Care - Level 2 for Dec: Martin, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,03210274,,12/01/2012,4075.31,"Invoice-Private",,12/01/2012,12/10/2012,,03215155MO,-1051.3100,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... W.Martin 201212: Martin, Willie",,,,,,,,,,,,,,,
+TRANSACTION,1113,010202032,1,169.31,169.31,"CR:Monthly Deferra... W.Martin 201212: Martin, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,992,992,"CR:Resident Care -... W.Martin 201212: Martin, Willie",,,,,,,,,,,,,,,

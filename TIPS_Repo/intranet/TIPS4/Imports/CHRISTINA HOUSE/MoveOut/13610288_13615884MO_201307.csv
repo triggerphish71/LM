@@ -1,0 +1,5 @@
+BATCH,,201307,B,1736.0000,
+INVOICE,IN,,13610288,,07/25/2013,775.0000,"Invoice-Private",,07/25/2013,07/25/2013,,13615884MO,-1147.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,25,31.0000,775.00,"Basic Service Fee - Second Resident for Jul: Black, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13610288,,07/25/2013,961,"Invoice-Private",,07/25/2013,07/25/2013,,13615884MO,-1147.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,961,961,"CR:Basic Service F... M.Black 201307: Black, Mary",,,,,,,,,,,,,,,

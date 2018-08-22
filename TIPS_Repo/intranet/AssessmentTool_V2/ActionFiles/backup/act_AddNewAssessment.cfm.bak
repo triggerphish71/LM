@@ -1,0 +1,119 @@
+<!----------------------------------------------------------------------------------------------
+| DESCRIPTION                                                                                  |
+|----------------------------------------------------------------------------------------------|
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| STORED PROCEDURES                                                                            |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| INCLUDES                                                                                     |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| HISTORY                                                                                      |
+|----------------------------------------------------------------------------------------------|
+| Author     | Date       | Description                                                        |
+|------------|------------|--------------------------------------------------------------------|
+| jcruz      | 06/26/2008 | Modified by adding four new form fields 						   |
+|            |            | as part of project 12392 to incorporate Service Plans	           |
+|			 |			  | into the assessment process.									   |
+|----------------------------------------------------------------------------------------------|
+| sathya     | 01/14/2010 | Modified this as part of project 41315. Added the height and weight|
+|            |            | of the tenant to be saved in the tenant table by calling tenant    |
+|            |            | component and by updating the information                          |
+|----------------------------------------------------------------------------------------------|
+----------------------------------------------------------------------------------------------->
+
+<cfparam name="tenantId" default="0">
+<cfparam name="residentId" default="0">
+
+<cfscript>
+	//first we need to figure out which services and subservices we are using
+	FieldArray = ListToArray(form.fieldnames);
+	//create arrays to hold hte services, subservices, and notes
+	ServiceArray = ArrayNew(1);
+	SubServiceArray = ArrayNew(1);
+	NotesArray = ArrayNew(2);
+		
+	for(i = 1; i lte ArrayLen(FieldArray); i = i + 1)
+	{
+		
+		
+		//look for subservices first
+		if(FindNoCase("subservice",FieldArray[i]) neq 0)
+		{	
+			
+			if(ListLen(Form[FieldArray[i]],",") eq 1)
+			{
+				ArrayAppend(SubServiceArray,Form[FieldArray[i]]);
+			}
+			else
+			{
+				theArray = ListToArray(Form[FieldArray[i]]);
+				
+				for(x = 1; x lte ArrayLen(theArray); x = x + 1)
+				{
+					ArrayAppend(SubServiceArray,theArray[x]);
+				}
+			}
+		}
+		else if(FindNoCase("service",FieldArray[i]) neq 0)
+		{
+			if(Form[FieldArray[i]] eq "yes")
+			{
+				//well need to pull the service ID from the form field name so i'll convert the form field name to 
+				//a list and use the list get at function
+				ArrayAppend(ServiceArray,ListGetAt(FieldArray[i],2,"_"));
+			}
+		}
+		else if(FindNoCase("notes",FieldArray[i]) neq 0)
+		{
+			x = ArrayLen(NotesArray);
+			x = x + 1;
+			
+			//well need to pull the service ID from the form field name so i'll convert the form field name to 
+			//a list and use the list get at function
+			NotesArray[x][1] = ListGetAt(FieldArray[i],3,"_");
+			NotesArray[x][2] = Form[FieldArray[i]];
+		}
+	}
+
+	//create a new assessment
+	//Modified by Jaime Cruz to include Service Plan data
+	Assessment = CreateObject("Component","Components.Assessment");	
+	Assessment = Assessment.New(Form["assessmentTool"]
+							   ,tenantId
+							   ,residentId
+							   ,Form["reviewType"]
+							   ,0
+							   ,DateFormat(NOW(),"mm/dd/yyyy")
+							   ,false
+							   ,""
+							   ,false
+							   ,""
+							   ,Form["nextReviewDate"]
+							   ,""
+							   ,""
+							   ,""
+							   ,ServiceArray
+							   ,SubServiceArray
+							   ,NotesArray
+							   ,application.datasource
+							   ,application.LeadTrackingDBServer
+							   ,application.CensusDBServer
+							   ,Form["statuscode"]
+							   ,Form["diagnosis"]
+							   ,Form["allergies"]
+							   ,Form["otherservices"]); 
+							   
+
+     // 01/14/2010 As per Project 41315 Sathya Added this to save the heigth and weight of the tenant
+	Tenant = CreateObject("Component","Components.Tenant");
+	Tenant.Init(tenantId,residentId,application.datasource,application.LeadTrackingDBServer,application.censusdbserver);
+	Tenant.SetTenantHeight(Form["getcalculatedheight"]);
+	Tenant.SetTenantWeight(Form["tenantweight"]);
+	Tenant.UpdateTenantInfo();							   
+</cfscript>
+
+<cflocation url="index.cfm?fuse=assessmentMain">

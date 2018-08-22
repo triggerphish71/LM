@@ -1,0 +1,5 @@
+BATCH,,201110,B,124.0000,
+INVOICE,IN,,01610262,,10/01/2011,62.0000,"Invoice-Private",,10/01/2011,10/10/2011,,01615479MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3320,010202016,31,2.0000,62.00,"Credit for Limited Term Discount: Chapman, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01610262,,10/01/2011,62,"Invoice-Private",,10/01/2011,10/10/2011,,01615479MO,-2452.0000,,,,,,,,,,
+TRANSACTION,3320,010202016,31,2,62,"Limited Term Discount: Chapman, Ruth",,,,,,,,,,,,,,,

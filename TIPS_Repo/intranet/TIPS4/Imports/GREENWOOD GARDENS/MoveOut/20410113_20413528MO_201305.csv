@@ -1,0 +1,7 @@
+BATCH,,201305,B,5208.0000,
+INVOICE,IN,,20410113,,05/11/2013,1364.0000,"Invoice-Private",,05/11/2013,05/11/2013,,20413528MO,-2480.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,11,42.0000,462.00,"Resident Care - Level 4 for May: Pitts, Eley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,11,82.0000,902.00,"Studio for May: Pitts, Eley",,,,,,,,,,,,,,,
+INVOICE,CM,,20410113,,05/11/2013,3844,"Invoice-Private",,05/11/2013,05/11/2013,,20413528MO,-2480.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1302,1302,"CR:Resident Care -... E.Pitts 201305: Pitts, Eley",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2542,2542,"CR:Studio... E.Pitts 201305: Pitts, Eley",,,,,,,,,,,,,,,

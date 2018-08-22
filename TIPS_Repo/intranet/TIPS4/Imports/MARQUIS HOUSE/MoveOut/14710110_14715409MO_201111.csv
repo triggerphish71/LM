@@ -1,0 +1,8 @@
+BATCH,,201111,B,8372.0000,
+INVOICE,IN,,14710110,,11/19/2011,3230.0000,"Invoice-Private",,11/19/2011,11/19/2011,,14715409MO,-7224.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,19,98.0000,1862.00,"Basic Service Fee - Studio for Nov: Fritzius, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,19,72.0000,1368.00,"Resident Care - Level 5 for Nov: Fritzius, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,14710110,,11/19/2011,5142,"Invoice-Private",,11/19/2011,11/19/2011,,14715409MO,-7224.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,2940,2940,"CR:Basic Service F... V.Fritzius 201111: Fritzius, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... V.Fritzius 201111: Fritzius, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,2160,2160,"CR:Resident Care -... V.Fritzius 201111: Fritzius, Virginia",,,,,,,,,,,,,,,

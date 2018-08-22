@@ -1,0 +1,5 @@
+BATCH,,201110,B,5109.0000,
+INVOICE,CM,,06310145,,10/01/2011,5109,"Invoice-Private",,10/01/2011,10/10/2011,,06314708MO,-5109.0000,,,,,,,,,,
+TRANSACTION,3020,010104063,1,3255,3255,"CR:Basic Service F... C.Camp 201110: Camp, Coral",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... C.Camp 201110: Camp, Coral",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104063,1,1829,1829,"CR:Resident Care -... C.Camp 201110: Camp, Coral",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201305,B,2825.0000,
+INVOICE,IN,,12110248,,05/01/2013,275.0000,"Invoice-Private",,05/01/2013,05/10/2013,,12116311MO,-2275.0000,,,,,,,,,,
+TRANSACTION,3020,010309121,3,80.0000,240.00,"Room and Board - Studio for May: Williamson, WillaMae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35.00,"Monthly Cable: Williamson, WillaMae",,,,,,,,,,,,,,,
+INVOICE,CM,,12110248,,05/01/2013,2550,"Invoice-Private",,05/01/2013,05/10/2013,,12116311MO,-2275.0000,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"CR:Monthly Cable... W.Williamson 201305: Williamson, WillaMae",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309121,1,2480,2480,"CR:Room and Board ... W.Williamson 201305: Williamson, WillaMae",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35,35,"Credit for Monthly Cable: Williamson, WillaMae",,,,,,,,,,,,,,,

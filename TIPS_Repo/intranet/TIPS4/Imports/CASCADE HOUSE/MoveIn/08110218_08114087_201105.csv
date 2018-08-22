@@ -1,0 +1,5 @@
+BATCH,,201105,B,4966.4000,
+INVOICE,IN,,08110218,,05/01/2011,4966.4000,"May_Rent-Hubbard. George",,05/01/2011,05/10/2011,,08114087,7469.6000,,,,,,,,,,
+TRANSACTION,3010,010103081,31,88.0000,2728,"Basic Service Fee - Studio         : Hubbard. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,31,71.4000,2213.4,"Resident Care - Level 42: Hubbard. George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Hubbard. George",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201207,B,4694.0000,
+INVOICE,IN,,17610312,,07/03/2012,4694.0000,"MoveIn-Stumph. Robert",,07/03/2012,07/03/2012,,17614545,4694.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,29,73.0000,2117,"Basic Service Fee - Studio: Stumph. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,29,53.0000,1537,"Resident Care - Level 4: Stumph. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,750.0000,750,"New Tenant Fee: Stumph. Robert",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,29,10.0000,290,"CC Meals: Stumph. Robert",,,,,,,,,,,,,,,

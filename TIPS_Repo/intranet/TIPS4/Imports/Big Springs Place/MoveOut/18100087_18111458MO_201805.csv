@@ -1,0 +1,7 @@
+BATCH,,201805,B,6754.6000,
+INVOICE,IN,,18100087,,05/29/2018,3334.6000,"Invoice-Private",,05/29/2018,05/29/2018,,18111458MO,-3505.4000,,,,,,,,,,
+TRANSACTION,3020,010012181,1,3309.6000,3309.60,"Basic Service Fee - MC Studio for May: Carter, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3250,010012181,1,5.0000,5.00,"Guest Meal: Carter, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3211,010012181,1,20.0000,20.00,"Laundry: Carter, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,18100087,,05/29/2018,3420,"Invoice-Private",,05/29/2018,05/29/2018,,18111458MO,-3505.4000,,,,,,,,,,
+TRANSACTION,3020,010012181,1,3420,3420,"CR:Basic Service F... B.Carter 201805: Carter, Betty",,,,,,,,,,,,,,,

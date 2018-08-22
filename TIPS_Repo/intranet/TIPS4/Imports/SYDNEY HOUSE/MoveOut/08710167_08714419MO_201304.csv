@@ -1,0 +1,7 @@
+BATCH,,201304,B,6249.9500,
+INVOICE,IN,,08710167,,04/18/2013,2423.4500,"Invoice-Private",,04/18/2013,04/18/2013,,08714419MO,-5357.1000,,,,,,,,,,
+TRANSACTION,3020,010103087,19,85.0000,1615.00,"Basic Service Fee - Studio for Apr: Karst, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,19,42.5500,808.45,"Resident Care - Level 23 for Apr: Karst, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,08710167,,04/18/2013,3826.5,"Invoice-Private",,04/18/2013,04/18/2013,,08714419MO,-5357.1000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2550,2550,"CR:Basic Service F... W.Karst 201304: Karst, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1276.5,1276.5,"CR:Resident Care -... W.Karst 201304: Karst, Wanda",,,,,,,,,,,,,,,

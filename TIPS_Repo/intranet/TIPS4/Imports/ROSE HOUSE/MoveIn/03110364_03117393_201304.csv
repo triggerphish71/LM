@@ -1,0 +1,5 @@
+BATCH,,201304,B,3017.0000,
+INVOICE,IN,,03110364,,04/05/2013,3017.0000,"MoveIn-Lloyd. John",,04/05/2013,04/05/2013,,03117393,3017.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,26,99.0000,2574,"Basic Service Fee - Studio: Lloyd. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,26,16.0000,416,"Resident Care - Level 1: Lloyd. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Lloyd. John",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201212,B,60.0000,
+INVOICE,IN,,14610263,,12/01/2012,30.0000,"Invoice-Private",,12/01/2012,12/10/2012,,14614722MO,-7238.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Browning, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,14610263,,12/01/2012,30,"Invoice-Private",,12/01/2012,12/10/2012,,14614722MO,-7238.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Browning, Betty",,,,,,,,,,,,,,,

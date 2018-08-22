@@ -1,0 +1,6 @@
+BATCH,,201306,B,4745.0000,
+INVOICE,CM,,53510212,,06/01/2013,4745,"Invoice-Private",,06/01/2013,06/10/2013,,53515378MO,-4745.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,3030,3030,"CR:Basic Service F... W.Rundle 201306: Rundle, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,30,30,"CR:Monthly Cable... W.Rundle 201306: Rundle, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,35,35,"CR:Pendant Fee... W.Rundle 201306: Rundle, Walter",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319535,1,1650,1650,"CR:Resident Care -... W.Rundle 201306: Rundle, Walter",,,,,,,,,,,,,,,

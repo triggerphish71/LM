@@ -1,0 +1,6 @@
+BATCH,,201112,B,5648.0000,
+INVOICE,IN,,02910292,,12/01/2011,5648.0000,"MoveIn-Shaffer. James",,12/01/2011,12/01/2011,,02915405,5648.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,31,116.0000,3596,"J.Shaffer: Basic Service Fee - One Bedroom: Shaffer. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,31,17.0000,527,"J.Shaffer: Resident Care - Level 1: Shaffer. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Shaffer. James",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Shaffer. James",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201207,B,3652.0600,
+INVOICE,IN,,01210255,,07/13/2012,3652.0600,"MoveIn-Morris. John",,07/13/2012,07/13/2012,,01214040,3652.0600,,,,,,,,,,
+TRANSACTION,3010,010103012,19,101.0000,1919,"Basic Service Fee - One Bedroom: Morris. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,19,10.7400,204.06,"Resident Care - Level 6: Morris. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Morris. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Morris. John",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201301,B,4554.0000,
+INVOICE,IN,,15710141,,01/02/2013,276.0000,"Invoice-Private",,01/02/2013,01/02/2013,,15714823MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,2,92.0000,184.00,"Basic Service Fee - Studio for Jan: Ericson, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,2,46.0000,92.00,"Resident Care - Level 3 for Jan: Ericson, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,15710141,,01/02/2013,4278,"Invoice-Private",,01/02/2013,01/02/2013,,15714823MO,-4002.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2852,2852,"CR:Basic Service F... L.Ericson 201301: Ericson, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,1426,1426,"CR:Resident Care -... L.Ericson 201301: Ericson, Lillian",,,,,,,,,,,,,,,

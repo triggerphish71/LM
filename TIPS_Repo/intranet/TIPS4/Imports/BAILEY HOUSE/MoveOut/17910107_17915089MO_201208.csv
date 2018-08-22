@@ -1,0 +1,7 @@
+BATCH,,201208,B,5280.0000,
+INVOICE,IN,,17910107,,08/17/2012,1870.0000,"Invoice-Private",,08/17/2012,08/17/2012,,17915089MO,-4840.0000,,,,,,,,,,
+TRANSACTION,3027,010313179,17,28.0000,476.00,"Resident Care - Level 2 for Aug: Galland, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,17,82.0000,1394.00,"Room and Board - Studio for Aug: Galland, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,17910107,,08/17/2012,3410,"Invoice-Private",,08/17/2012,08/17/2012,,17915089MO,-4840.0000,,,,,,,,,,
+TRANSACTION,3027,010313179,1,868,868,"CR:Resident Care -... W.Galland 201208: Galland, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Room and Board ... W.Galland 201208: Galland, Warren",,,,,,,,,,,,,,,

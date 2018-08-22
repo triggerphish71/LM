@@ -1,0 +1,6 @@
+BATCH,,201110,B,5092.0000,
+INVOICE,IN,,01210224,,10/01/2011,2490.0000,"Invoice-Private",,10/01/2011,10/10/2011,,01213768MO,-1702.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,30,83.0000,2490.00,"Basic Service Fee - Studio for Oct: Roberts, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01210224,,10/01/2011,2602,"Invoice-Private",,10/01/2011,10/10/2011,,01213768MO,-1702.0000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2573,2573,"CR:Basic Service F... R.Roberts 201110: Roberts, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29,29,"CR:Monthly Cable... R.Roberts 201110: Roberts, Ruth",,,,,,,,,,,,,,,

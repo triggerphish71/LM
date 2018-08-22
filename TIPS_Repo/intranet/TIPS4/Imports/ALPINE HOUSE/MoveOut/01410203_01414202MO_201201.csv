@@ -1,0 +1,8 @@
+BATCH,,201201,B,6550.0000,
+INVOICE,IN,,01410203,,01/14/2012,2030.0000,"Invoice-Private",,01/14/2012,01/14/2012,,01414202MO,-6695.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,14,90.0000,1260.00,"Basic Service Fee - Studio for Jan: Appelt, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,14,55.0000,770.00,"Resident Care - Level 4 for Jan: Appelt, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,01410203,,01/14/2012,4520,"Invoice-Private",,01/14/2012,01/14/2012,,01414202MO,-6695.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,2790,2790,"CR:Basic Service F... D.Appelt 201201: Appelt, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202014,1,25,25,"CR:Monthly Cable... D.Appelt 201201: Appelt, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202014,1,1705,1705,"CR:Resident Care -... D.Appelt 201201: Appelt, Dorothy",,,,,,,,,,,,,,,

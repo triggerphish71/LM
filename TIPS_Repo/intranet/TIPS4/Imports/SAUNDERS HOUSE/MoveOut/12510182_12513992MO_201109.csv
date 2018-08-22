@@ -1,0 +1,5 @@
+BATCH,,201109,B,3267.4000,
+INVOICE,IN,,12510182,,09/01/2011,1633.7000,"Invoice-Private",,09/01/2011,09/10/2011,,12513992MO,-4930.7000,,,,,,,,,,
+TRANSACTION,3019,010211125,31,52.7000,1633.70,"Additional Service Charge: Shultz, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,12510182,,09/01/2011,1633.7,"Invoice-Private",,09/01/2011,09/10/2011,,12513992MO,-4930.7000,,,,,,,,,,
+TRANSACTION,3019,010211125,31,52.7,1633.7,"Credit for Additional Service Charge: Shultz, Joe",,,,,,,,,,,,,,,

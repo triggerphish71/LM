@@ -1,0 +1,6 @@
+BATCH,,201301,B,6667.0000,
+INVOICE,IN,,52910180,,01/30/2013,3846.0000,"Invoice-Private",,01/30/2013,01/30/2013,,52913476MO,-515.0000,,,,,,,,,,
+TRANSACTION,3320,010319529,1,1116.0000,1116.00,"CR:Limited Term Di... S.Riedel 201301: Riedel, Sharon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,30,91.0000,2730.00,"Basic Service Fee - Studio for Jan: Riedel, Sharon",,,,,,,,,,,,,,,
+INVOICE,CM,,52910180,,01/30/2013,2821,"Invoice-Private",,01/30/2013,01/30/2013,,52913476MO,-515.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2821,2821,"CR:Basic Service F... S.Riedel 201301: Riedel, Sharon",,,,,,,,,,,,,,,

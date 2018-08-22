@@ -1,0 +1,5 @@
+BATCH,,201212,B,4088.0000,
+INVOICE,IN,,03610312,,12/01/2012,4088.0000,"December_Rent-Perkins. Alleene",,12/01/2012,12/10/2012,,03615367,5246.0000,,,,,,,,,,
+TRANSACTION,3010,010202036,31,101.0000,3131,"Basic Service Fee - Studio: Perkins. Alleene",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202036,31,30.0000,930,"Resident Care - Level 2: Perkins. Alleene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27.0000,27,"Monthly Cable: Perkins. Alleene",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201205,B,6512.0000,
+INVOICE,IN,,08910182,,05/01/2012,1056.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08914776MO,-4400.0000,,,,,,,,,,
+TRANSACTION,3027,010306089,6,65.0000,390.00,"Resident Care - Level 4 for May: Burlew, Jesse",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,6,111.0000,666.00,"Room and Board - Studio for May: Burlew, Jesse",,,,,,,,,,,,,,,
+INVOICE,CM,,08910182,,05/01/2012,5456,"Invoice-Private",,05/01/2012,05/10/2012,,08914776MO,-4400.0000,,,,,,,,,,
+TRANSACTION,3027,010306089,1,2015,2015,"CR:Resident Care -... J.Burlew 201205: Burlew, Jesse",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306089,1,3441,3441,"CR:Room and Board ... J.Burlew 201205: Burlew, Jesse",,,,,,,,,,,,,,,

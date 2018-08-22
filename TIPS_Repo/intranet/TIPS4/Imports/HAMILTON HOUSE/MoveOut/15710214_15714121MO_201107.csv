@@ -1,0 +1,5 @@
+BATCH,,201107,B,2883.0000,
+INVOICE,IN,,15710214,,07/01/2011,124.0000,"Invoice-Private",,07/01/2011,07/10/2011,,15714121MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3320,010309157,1,124.0000,124.00,"CR:Limited Term Di... C.Clingenpeel 201107: Clingenpeel, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,15710214,,07/01/2011,2759,"Invoice-Private",,07/01/2011,07/10/2011,,15714121MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2759,2759,"CR:Basic Service F... C.Clingenpeel 201107: Clingenpeel, Catherine",,,,,,,,,,,,,,,

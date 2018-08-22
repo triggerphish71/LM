@@ -1,0 +1,7 @@
+BATCH,,201303,B,4536.0000,
+INVOICE,IN,,01910202,,03/01/2013,630.0000,"Invoice-Private",,03/01/2013,03/10/2013,,01915302MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,5,109.0000,545.00,"Basic Service Fee - One Bedroom for Mar: Jansen, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,5,17.0000,85.00,"Resident Care Level Change for Mar: Jansen, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,01910202,,03/01/2013,3906,"Invoice-Private",,03/01/2013,03/10/2013,,01915302MO,-3276.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,3379,3379,"CR:Basic Service F... J.Jansen 201303: Jansen, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202019,1,527,527,"CR:Resident Care L... J.Jansen 201303: Jansen, Joe",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,3609.0000,
+INVOICE,IN,,21210182,,02/08/2012,3609.0000,"MoveIn-Pittman. Jean",,02/08/2012,02/08/2012,,21212311,3609.0000,,,,,,,,,,
+TRANSACTION,3010,010208212,22,82.0000,1804,"Studio: Pittman. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010208212,22,12.0000,264,"Resident Care - Level 1: Pittman. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41,"Monthly Cable: Pittman. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010208212,1,1500.0000,1500,"New Resident Fee: Pittman. Jean",,,,,,,,,,,,,,,

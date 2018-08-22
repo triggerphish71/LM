@@ -1,0 +1,7 @@
+BATCH,,201109,B,3550.0000,
+INVOICE,IN,,11810160,,09/01/2011,60.0000,"Invoice-Private",,09/01/2011,09/10/2011,,11814951MO,-4443.0000,,,,,,,,,,
+TRANSACTION,3320,010310118,1,60.0000,60.00,"CR:Limited Term Di... V.Fiscus 201109: Fiscus, Verna",,,,,,,,,,,,,,,
+INVOICE,CM,,11810160,,09/01/2011,3490,"Invoice-Private",,09/01/2011,09/10/2011,,11814951MO,-4443.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2880,2880,"CR:Basic Service F... V.Fiscus 201109: Fiscus, Verna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... V.Fiscus 201109: Fiscus, Verna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,570,570,"CR:Resident Care -... V.Fiscus 201109: Fiscus, Verna",,,,,,,,,,,,,,,

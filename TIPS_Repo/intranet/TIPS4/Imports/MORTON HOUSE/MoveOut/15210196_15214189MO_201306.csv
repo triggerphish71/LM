@@ -1,0 +1,8 @@
+BATCH,,201306,B,3859.0000,
+INVOICE,IN,,15210196,,06/10/2013,1129.0000,"Invoice-Private",,06/10/2013,06/10/2013,,15214189MO,-1601.0000,,,,,,,,,,
+TRANSACTION,3312,010211152,1,219.0000,219.00,"CR:Two Room Rental... F.Goracke 201306: Goracke, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211152,10,73.0000,730.00,"Basic Service Fee - Studio for Jun: Goracke, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,10,18.0000,180.00,"Resident Care - Level 1 for Jun: Goracke, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,15210196,,06/10/2013,2730,"Invoice-Private",,06/10/2013,06/10/2013,,15214189MO,-1601.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2190,2190,"CR:Basic Service F... F.Goracke 201306: Goracke, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,540,540,"CR:Resident Care -... F.Goracke 201306: Goracke, Florence",,,,,,,,,,,,,,,

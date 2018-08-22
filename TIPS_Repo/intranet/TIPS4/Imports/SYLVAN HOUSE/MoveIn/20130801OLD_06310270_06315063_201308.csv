@@ -1,0 +1,6 @@
+BATCH,,201308,B,3904.0000,
+INVOICE,IN,,06310270,,08/01/2013,3904.0000,"MoveIn-Morton. Yvonne",,08/01/2013,08/01/2013,,06315063,3904.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,31,94.0000,2914,"Basic Service Fee - Deluxe: Morton. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,31,15.0000,465,"Resident Care - Level 1: Morton. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Morton. Yvonne",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,500.0000,500,"New Resident Fee: Morton. Yvonne",,,,,,,,,,,,,,,

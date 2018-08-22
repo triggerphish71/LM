@@ -1,0 +1,6 @@
+BATCH,,201210,B,4818.0000,
+INVOICE,IN,,17010306,,10/11/2012,4818.0000,"MoveIn-Lyons. William",,10/11/2012,10/11/2012,,17014511,4818.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,21,93.0000,1953,"Basic Service Fee - Studio: Lyons. William",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,21,40.0000,840,"Resident Care - Level 3: Lyons. William",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Lyons. William",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Lyons. William",,,,,,,,,,,,,,,

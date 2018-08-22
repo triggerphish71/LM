@@ -1,0 +1,6 @@
+BATCH,,201112,B,3621.0000,
+INVOICE,IN,,18910288,,12/01/2011,3621.0000,"December_Rent-Wotta. Margaret",,12/01/2011,12/10/2011,,18914990,5287.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,31,89.0000,2759,"Basic Service Fee - Studio: Wotta. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,31,17.0000,527,"Resident Care - Level 1: Wotta. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Wotta. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,31,10.0000,310,"CC Meals: Wotta. Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201105,B,3813.0000,
+INVOICE,IN,,53310205,,05/01/2011,775.0000,"Invoice-Private",,05/01/2011,05/10/2011,,53313652MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,775.0000,775.00,"CR:Limited Term Di... M.Osborn 201105: Osborn, Marilyn",,,,,,,,,,,,,,,
+INVOICE,CM,,53310205,,05/01/2011,3038,"Invoice-Private",,05/01/2011,05/10/2011,,53313652MO,-2263.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,1085,1085,"CR:Basic Service F... M.Osborn 201105: Osborn, Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,1953,1953,"CR:Resident Care -... M.Osborn 201105: Osborn, Marilyn",,,,,,,,,,,,,,,

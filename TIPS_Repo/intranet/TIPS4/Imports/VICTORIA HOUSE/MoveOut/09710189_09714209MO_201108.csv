@@ -1,0 +1,8 @@
+BATCH,,201108,B,8887.4000,
+INVOICE,IN,,09710189,,08/23/2011,4141.3000,"Invoice-Private",,08/23/2011,08/23/2011,,09714209MO,-4597.8000,,,,,,,,,,
+TRANSACTION,3320,010103097,1,620.0000,620.00,"CR:Limited Term Di... J.Decava 201108: Decava, Jim (James)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,23,73.1000,1681.30,"Resident Care - Level 43 for Aug: Decava, Jim (James)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,23,80.0000,1840.00,"Room and Board - Studio for Aug: Decava, Jim (James)",,,,,,,,,,,,,,,
+INVOICE,CM,,09710189,,08/23/2011,4746.1,"Invoice-Private",,08/23/2011,08/23/2011,,09714209MO,-4597.8000,,,,,,,,,,
+TRANSACTION,3027,010103097,1,2266.1,2266.1,"CR:Resident Care -... J.Decava 201108: Decava, Jim (James)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2480,2480,"CR:Room and Board ... J.Decava 201108: Decava, Jim (James)",,,,,,,,,,,,,,,

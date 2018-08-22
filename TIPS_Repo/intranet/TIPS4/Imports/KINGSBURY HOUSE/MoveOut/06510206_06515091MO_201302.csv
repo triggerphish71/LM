@@ -1,0 +1,5 @@
+BATCH,,201302,B,2750.0000,
+INVOICE,IN,,06510206,,02/15/2013,1350.0000,"Invoice-Private",,02/15/2013,02/15/2013,,06515091MO,-1600.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,27,50.0000,1350.00,"Basic Service Fee - Studio for Feb: Coressel, Rena",,,,,,,,,,,,,,,
+INVOICE,CM,,06510206,,02/15/2013,1400,"Invoice-Private",,02/15/2013,02/15/2013,,06515091MO,-1600.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1400,1400,"CR:Basic Service F... R.Coressel 201302: Coressel, Rena",,,,,,,,,,,,,,,

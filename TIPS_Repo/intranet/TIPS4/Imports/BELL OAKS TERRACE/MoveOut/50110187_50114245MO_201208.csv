@@ -1,0 +1,8 @@
+BATCH,,201208,B,4713.0000,
+INVOICE,IN,,50110187,,08/01/2012,1920.0000,"Invoice-Private",,08/01/2012,08/10/2012,,50114245MO,-873.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,248.0000,248.00,"CR:Limited Term Di... E.Henze 201208: Henze, Estella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,19,88.0000,1672.00,"Basic Service Fee - Studio for Aug: Henze, Estella",,,,,,,,,,,,,,,
+INVOICE,CM,,50110187,,08/01/2012,2793,"Invoice-Private",,08/01/2012,08/10/2012,,50114245MO,-873.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2728,2728,"CR:Basic Service F... E.Henze 201208: Henze, Estella",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... E.Henze 201208: Henze, Estella",,,,,,,,,,,,,,,
+TRANSACTION,3130,010209501,1,35,35,"CR:Pendant Fee... E.Henze 201208: Henze, Estella",,,,,,,,,,,,,,,

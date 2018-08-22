@@ -1,0 +1,7 @@
+BATCH,,201212,B,1558.0000,
+INVOICE,IN,,13310351,,12/01/2012,779.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13315578MO,-3487.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,31,24.0000,744.00,"Credit for Limited Term Discount: Dickson, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35.00,"Monthly Cable: Dickson, Alfred",,,,,,,,,,,,,,,
+INVOICE,CM,,13310351,,12/01/2012,779,"Invoice-Private",,12/01/2012,12/10/2012,,13315578MO,-3487.0000,,,,,,,,,,
+TRANSACTION,3320,010310133,31,24,744,"Limited Term Discount: Dickson, Alfred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35,35,"Credit for Monthly Cable: Dickson, Alfred",,,,,,,,,,,,,,,

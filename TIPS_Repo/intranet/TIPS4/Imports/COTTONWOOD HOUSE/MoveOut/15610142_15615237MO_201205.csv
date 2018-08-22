@@ -1,0 +1,7 @@
+BATCH,,201205,B,8640.0000,
+INVOICE,IN,,15610142,,05/19/2012,3680.0000,"Invoice-Private",,05/19/2012,05/19/2012,,15615237MO,-6080.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,23,90.0000,2070.00,"Basic Service Fee - Studio for May: Guenther, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,23,70.0000,1610.00,"Resident Care - Level 5 for May: Guenther, Ed",,,,,,,,,,,,,,,
+INVOICE,CM,,15610142,,05/19/2012,4960,"Invoice-Private",,05/19/2012,05/19/2012,,15615237MO,-6080.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2790,2790,"CR:Basic Service F... E.Guenther 201205: Guenther, Ed",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,2170,2170,"CR:Resident Care -... E.Guenther 201205: Guenther, Ed",,,,,,,,,,,,,,,

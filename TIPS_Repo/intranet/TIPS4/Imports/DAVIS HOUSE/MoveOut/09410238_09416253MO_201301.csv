@@ -1,0 +1,8 @@
+BATCH,,201301,B,6373.0000,
+INVOICE,IN,,09410238,,01/03/2013,1909.0000,"Invoice-Private",,01/03/2013,01/03/2013,,09416253MO,-2555.0000,,,,,,,,,,
+TRANSACTION,3320,010107094,1,1333.0000,1333.00,"CR:Limited Term Di... D.Terrill 201301: Terrill, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107094,4,98.0000,392.00,"Basic Service Fee - Studio for Jan: Terrill, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,4,46.0000,184.00,"Resident Care - Level 3 for Jan: Terrill, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,09410238,,01/03/2013,4464,"Invoice-Private",,01/03/2013,01/03/2013,,09416253MO,-2555.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3038,3038,"CR:Basic Service F... D.Terrill 201301: Terrill, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,1426,1426,"CR:Resident Care -... D.Terrill 201301: Terrill, Dorothy",,,,,,,,,,,,,,,

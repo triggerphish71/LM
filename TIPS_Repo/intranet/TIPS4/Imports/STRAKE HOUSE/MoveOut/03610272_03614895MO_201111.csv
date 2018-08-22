@@ -1,0 +1,6 @@
+BATCH,,201111,B,4200.0000,
+INVOICE,IN,,03610272,,11/01/2011,810.0000,"Invoice-Private",,11/01/2011,11/10/2011,,03614895MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,810.0000,810.00,"CR:Limited Term Di... H.Gaylor 201111: Gaylor, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,03610272,,11/01/2011,3390,"Invoice-Private",,11/01/2011,11/10/2011,,03614895MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,2910,2910,"CR:Basic Service F... H.Gaylor 201111: Gaylor, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,480,480,"CR:Resident Care -... H.Gaylor 201111: Gaylor, Harry",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201212,B,9986.5600,
+INVOICE,IN,,01110295,,12/01/2012,3857.2400,"Invoice-Private",,12/01/2012,12/01/2012,,01113980MO,-2272.0800,,,,,,,,,,
+TRANSACTION,3320,010101011,1,496.0000,496.00,"CR:Limited Term Di... A.Schwerdtfeger 201212: Schwerdtfeger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101011,17,76.0000,1292.00,"Basic Service Fee - Studio for Dec: Schwerdtfeger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,17,121.7200,2069.24,"Resident Care - Level 68 for Dec: Schwerdtfeger, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,01110295,,12/01/2012,6129.32,"Invoice-Private",,12/01/2012,12/01/2012,,01113980MO,-2272.0800,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2356,2356,"CR:Basic Service F... A.Schwerdtfeger 201212: Schwerdtfeger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,3773.32,3773.32,"CR:Resident Care -... A.Schwerdtfeger 201212: Schwerdtfeger, Anna",,,,,,,,,,,,,,,

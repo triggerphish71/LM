@@ -1,0 +1,5 @@
+BATCH,,201202,B,3512.0000,
+INVOICE,IN,,07010215,,02/02/2012,3512.0000,"MoveIn-Hansbarger. Katherine",,02/02/2012,02/02/2012,,07014263,3512.0000,,,,,,,,,,
+TRANSACTION,3010,010305070,28,89.0000,2492,"Basic Service Fee - Studio: Hansbarger. Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20.0000,20,"Monthly Cable: Hansbarger. Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305070,1,1000.0000,1000,"New Resident Fee: Hansbarger. Katherine",,,,,,,,,,,,,,,

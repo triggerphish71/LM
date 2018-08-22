@@ -1,0 +1,7 @@
+BATCH,,201105,B,5500.0000,
+INVOICE,IN,,21410190,,05/07/2011,2090.0000,"Invoice-Private",,05/07/2011,05/07/2011,,21416316MO,-4620.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,19,23.0000,437.00,"Resident Care - Level 2 for May: Hertenstein, Myrna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,19,87.0000,1653.00,"Room and Board - Studio AL B for May: Hertenstein, Myrna",,,,,,,,,,,,,,,
+INVOICE,CM,,21410190,,05/07/2011,3410,"Invoice-Private",,05/07/2011,05/07/2011,,21416316MO,-4620.0000,,,,,,,,,,
+TRANSACTION,3027,010221214,1,713,713,"CR:Resident Care -... M.Hertenstein 201105: Hertenstein, Myrna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010221214,1,2697,2697,"CR:Room and Board ... M.Hertenstein 201105: Hertenstein, Myrna",,,,,,,,,,,,,,,

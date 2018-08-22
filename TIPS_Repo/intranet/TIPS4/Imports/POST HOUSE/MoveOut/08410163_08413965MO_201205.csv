@@ -1,0 +1,8 @@
+BATCH,,201205,B,12459.0000,
+INVOICE,IN,,08410163,,05/01/2012,6662.0000,"Invoice-Private",,05/01/2012,05/10/2012,,08413965MO,865.0000,,,,,,,,,,
+TRANSACTION,3320,010306084,1,1426.0000,1426.00,"CR:Limited Term Di... T.Niziol 201205: Niziol, Tadeusz",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306084,28,106.0000,2968.00,"Basic Service Fee - Studio for May: Niziol, Tadeusz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,28,81.0000,2268.00,"Resident Care - Level 5 for May: Niziol, Tadeusz",,,,,,,,,,,,,,,
+INVOICE,CM,,08410163,,05/01/2012,5797,"Invoice-Private",,05/01/2012,05/10/2012,,08413965MO,865.0000,,,,,,,,,,
+TRANSACTION,3020,010306084,1,3286,3286,"CR:Basic Service F... T.Niziol 201205: Niziol, Tadeusz",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306084,1,2511,2511,"CR:Resident Care -... T.Niziol 201205: Niziol, Tadeusz",,,,,,,,,,,,,,,

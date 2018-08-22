@@ -1,0 +1,6 @@
+BATCH,,201105,B,2517.8000,
+INVOICE,IN,,00110140,,05/16/2011,2517.8000,"MoveIn-Culotta. Paul",,05/16/2011,05/16/2011,,00112975,5341.8000,,,,,,,,,,
+TRANSACTION,3010,010101001,16,78.0000,1248,"Basic Service Fee - One Bedroom    : Culotta. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101001,16,15.3000,244.8,"Resident Care - Level 9: Culotta. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25,"Monthly Cable: Culotta. Paul",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101001,1,1000.0000,1000,"New Resident Fee: Culotta. Paul",,,,,,,,,,,,,,,

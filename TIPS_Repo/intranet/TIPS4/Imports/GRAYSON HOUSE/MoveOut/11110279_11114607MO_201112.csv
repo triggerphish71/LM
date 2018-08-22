@@ -1,0 +1,5 @@
+BATCH,,201112,B,1860.0000,
+INVOICE,IN,,11110279,,12/01/2011,930.0000,"Invoice-Private",,12/01/2011,12/10/2011,,11114607MO,-790.0000,,,,,,,,,,
+TRANSACTION,3321,010107111,31,30.0000,930.00,"Credit for 2nd Resident Free Discount: Moore, Edwin",,,,,,,,,,,,,,,
+INVOICE,CM,,11110279,,12/01/2011,930,"Invoice-Private",,12/01/2011,12/10/2011,,11114607MO,-790.0000,,,,,,,,,,
+TRANSACTION,3321,010107111,31,30,930,"2nd Resident Free Discount: Moore, Edwin",,,,,,,,,,,,,,,

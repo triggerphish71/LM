@@ -1,0 +1,7 @@
+BATCH,,201112,B,9593.0000,
+INVOICE,IN,,07210139,,12/03/2011,3982.0000,"Invoice-Private",,12/03/2011,12/03/2011,,07213967MO,-7364.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,22,105.0000,2310.00,"Basic Service Fee - Deluxe for Dec: Owens, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,22,76.0000,1672.00,"Resident Care - Level 5 for Dec: Owens, Charlotte",,,,,,,,,,,,,,,
+INVOICE,CM,,07210139,,12/03/2011,5611,"Invoice-Private",,12/03/2011,12/03/2011,,07213967MO,-7364.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3255,3255,"CR:Basic Service F... C.Owens 201112: Owens, Charlotte",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,2356,2356,"CR:Resident Care -... C.Owens 201112: Owens, Charlotte",,,,,,,,,,,,,,,

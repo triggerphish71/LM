@@ -1,0 +1,7 @@
+BATCH,,201206,B,5558.3000,
+INVOICE,IN,,01110285,,06/17/2012,2526.5000,"Invoice-Private",,06/17/2012,06/17/2012,,01113899MO,-3638.1600,,,,,,,,,,
+TRANSACTION,3020,010101011,25,76.0000,1900.00,"D.Spohn: Basic Service Fee - Studio for Jun: Spohn, Dell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,25,25.0600,626.50,"D.Spohn: Resident Care - Level 14 for Jun: Spohn, Dell",,,,,,,,,,,,,,,
+INVOICE,CM,,01110285,,06/17/2012,3031.8,"Invoice-Private",,06/17/2012,06/17/2012,,01113899MO,-3638.1600,,,,,,,,,,
+TRANSACTION,3020,010101011,1,2280,2280,"CR:D.Spohn: Basic ... D.Spohn 201206: Spohn, Dell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,751.8,751.8,"CR:D.Spohn: Reside... D.Spohn 201206: Spohn, Dell",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201305,B,4998.0000,
+INVOICE,IN,,09310239,,05/11/2013,1309.0000,"Invoice-Private",,05/11/2013,05/11/2013,,09315833MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,11,101.0000,1111.00,"Basic Service Fee - Studio for May: Curtin, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,11,18.0000,198.00,"Resident Care - Level 1 for May: Curtin, June",,,,,,,,,,,,,,,
+INVOICE,CM,,09310239,,05/11/2013,3689,"Invoice-Private",,05/11/2013,05/11/2013,,09315833MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3131,3131,"CR:Basic Service F... J.Curtin 201305: Curtin, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,558,558,"CR:Resident Care -... J.Curtin 201305: Curtin, June",,,,,,,,,,,,,,,

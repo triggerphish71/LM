@@ -1,0 +1,7 @@
+BATCH,,201804,B,3088.0000,
+INVOICE,IN,,50510304,,04/01/2018,628.0000,"Invoice-Private",,04/01/2018,04/10/2018,,50515031MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3017,010005505,4,33.0000,132.00,"Level Care:  2  - 2018-03-05: Coontz, John "Jack "",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005505,8,62.0000,496.00," Level Care:  4 : Coontz, John "Jack "",,,,,,,,,,,,,,,
+INVOICE,CM,,50510304,,04/01/2018,2460,"Invoice-Private",,04/01/2018,04/10/2018,,50515031MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3020,010005505,1,1470,1470,"CR:Basic Service F... J.Coontz 201804: Coontz, John "Jack "",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,990,990,"CR:Resident Care -... J.Coontz 201804: Coontz, John "Jack "",,,,,,,,,,,,,,,

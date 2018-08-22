@@ -1,0 +1,5 @@
+BATCH,,201202,B,4512.0000,
+INVOICE,IN,,03210260,,02/19/2012,1786.0000,"Invoice-Private",,02/19/2012,02/19/2012,,03214800MO,-4313.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,19,94.0000,1786.00,"Basic Service Fee - Studio for Feb: Johansson Ii, Axel",,,,,,,,,,,,,,,
+INVOICE,CM,,03210260,,02/19/2012,2726,"Invoice-Private",,02/19/2012,02/19/2012,,03214800MO,-4313.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2726,2726,"CR:Basic Service F... A.Johansson Ii 201202: Johansson Ii, Axel",,,,,,,,,,,,,,,

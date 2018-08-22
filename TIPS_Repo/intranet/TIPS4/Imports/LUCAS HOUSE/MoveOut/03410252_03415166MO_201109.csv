@@ -1,0 +1,7 @@
+BATCH,,201109,B,3294.0000,
+INVOICE,IN,,03410252,,09/01/2011,93.0000,"Invoice-Private",,09/01/2011,09/01/2011,,03415166MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,93.0000,93.00,"Basic Service Fee - Studio for Sep: Arena, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,03410252,,09/01/2011,3201,"Invoice-Private",,09/01/2011,09/01/2011,,03415166MO,-3108.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,1674,1674,"CR:Basic Service F... J.Arena 201109: Arena, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... J.Arena 201109: Arena, Joseph",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500,1500,"CR:New Resident Fe... J.Arena 201109: Arena, Joseph",,,,,,,,,,,,,,,

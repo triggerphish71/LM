@@ -1,0 +1,7 @@
+BATCH,,201107,B,4370.0000,
+INVOICE,IN,,12510185,,07/01/2011,805.0000,"Invoice-Private",,07/01/2011,07/10/2011,,12513934MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,7,82.0000,574.00,"Basic Service Fee - Deluxe for Jul: Schulte, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,7,33.0000,231.00,"Resident Care - Level 2 for Jul: Schulte, Joann",,,,,,,,,,,,,,,
+INVOICE,CM,,12510185,,07/01/2011,3565,"Invoice-Private",,07/01/2011,07/10/2011,,12513934MO,-2760.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2542,2542,"CR:Basic Service F... J.Schulte 201107: Schulte, Joann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1023,1023,"CR:Resident Care -... J.Schulte 201107: Schulte, Joann",,,,,,,,,,,,,,,

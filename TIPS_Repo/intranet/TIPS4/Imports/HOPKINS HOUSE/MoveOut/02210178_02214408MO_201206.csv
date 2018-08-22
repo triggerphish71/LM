@@ -1,0 +1,7 @@
+BATCH,,201206,B,5800.0000,
+INVOICE,IN,,02210178,,06/20/2012,2320.0000,"Invoice-Private",,06/20/2012,06/20/2012,,02214408MO,-4756.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,20,85.0000,1700.00,"Basic Service Fee - Studio for Jun: Griffin, Kirven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,20,31.0000,620.00,"Resident Care - Level 2 for Jun: Griffin, Kirven",,,,,,,,,,,,,,,
+INVOICE,CM,,02210178,,06/20/2012,3480,"Invoice-Private",,06/20/2012,06/20/2012,,02214408MO,-4756.0000,,,,,,,,,,
+TRANSACTION,3020,010202022,1,2550,2550,"CR:Basic Service F... K.Griffin 201206: Griffin, Kirven",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202022,1,930,930,"CR:Resident Care -... K.Griffin 201206: Griffin, Kirven",,,,,,,,,,,,,,,

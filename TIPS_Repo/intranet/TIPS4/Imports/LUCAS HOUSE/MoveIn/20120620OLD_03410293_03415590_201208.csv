@@ -1,0 +1,5 @@
+BATCH,,201208,B,1500.0100,
+INVOICE,IN,,03410293,,07/01/2012,166.6700,"July_Rent-Van Pelt. Frances",,07/01/2012,07/10/2012,,03415590,4419.3300,,,,,,,,,,
+TRANSACTION,3216,010202034,1,166.6700,166.67,"Monthly Deferral Charge: Van Pelt. Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,03410293,,07/01/2012,1333.3400,"July_Rent-Van Pelt. Frances",,07/01/2012,07/10/2012,,03415590,4419.3300,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1333.34,1333.34,"New Resident Fee Deferred: Van Pelt. Frances",,,,,,,,,,,,,,,

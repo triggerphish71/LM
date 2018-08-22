@@ -1,0 +1,5 @@
+BATCH,,201202,B,1125.0000,
+INVOICE,IN,,19010235,,02/29/2012,1125.0000,"MoveIn-Rump. Sue",,02/29/2012,02/29/2012,,19014408,4190.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,1,98.0000,98,"Basic Service Fee - Studio: Rump. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Rump. Sue",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Rump. Sue",,,,,,,,,,,,,,,

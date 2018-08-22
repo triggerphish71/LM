@@ -1,0 +1,5 @@
+BATCH,,201109,B,3985.0000,
+INVOICE,IN,,03310322,,09/01/2011,3985.0000,"September_Rent-Phillips. Modie",,09/01/2011,09/10/2011,,03316014,8400.0000,,,,,,,,,,
+TRANSACTION,3010,010202033,30,91.0000,2730,"Basic Service Fee - Studio         : Phillips. Modie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202033,30,41.0000,1230,"Resident Care - Level 3: Phillips. Modie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25,"Monthly Cable: Phillips. Modie",,,,,,,,,,,,,,,

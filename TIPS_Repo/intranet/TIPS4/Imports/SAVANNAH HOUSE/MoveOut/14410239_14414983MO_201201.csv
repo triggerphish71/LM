@@ -1,0 +1,8 @@
+BATCH,,201201,B,4681.0000,
+INVOICE,IN,,14410239,,01/02/2012,282.0000,"Invoice-Private",,01/02/2012,01/02/2012,,14414983MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,2,125.0000,250.00,"Basic Service Fee - One Bedroom for Jan: Holladay, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,2,16.0000,32.00,"Resident Care - Level 1 for Jan: Holladay, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,14410239,,01/02/2012,4399,"Invoice-Private",,01/02/2012,01/02/2012,,14414983MO,-4117.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3875,3875,"CR:Basic Service F... R.Holladay 201201: Holladay, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... R.Holladay 201201: Holladay, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... R.Holladay 201201: Holladay, Ralph",,,,,,,,,,,,,,,

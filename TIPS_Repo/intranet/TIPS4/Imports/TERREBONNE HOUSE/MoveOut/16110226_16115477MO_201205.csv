@@ -1,0 +1,7 @@
+BATCH,,201205,B,6222.0000,
+INVOICE,IN,,16110226,,05/01/2012,3060.0000,"Invoice-Private",,05/01/2012,05/01/2012,,16115477MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,30,88.0000,2640.00,"Basic Service Fee - Studio for May: Meadows, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,30,14.0000,420.00,"Resident Care - Level 1 for May: Meadows, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,16110226,,05/01/2012,3162,"Invoice-Private",,05/01/2012,05/01/2012,,16115477MO,-3162.0000,,,,,,,,,,
+TRANSACTION,3020,010313161,1,2728,2728,"CR:Basic Service F... I.Meadows 201205: Meadows, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313161,1,434,434,"CR:Resident Care -... I.Meadows 201205: Meadows, Irene",,,,,,,,,,,,,,,

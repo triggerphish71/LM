@@ -1,0 +1,5 @@
+BATCH,,201805,B,5013.0000,
+INVOICE,IN,,32000149,,05/25/2018,2238.0000,"Invoice-Private",,05/25/2018,05/25/2018,,32012300MO,-537.0000,,,,,,,,,,
+TRANSACTION,3020,070025320,1,2238.0000,2238.00,"MC Companion Studio Premium for May: Burke, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,32000149,,05/25/2018,2775,"Invoice-Private",,05/25/2018,05/25/2018,,32012300MO,-537.0000,,,,,,,,,,
+TRANSACTION,3020,070025320,1,2775,2775,"CR:MC Companion St... J.Burke 201805: Burke, Josephine",,,,,,,,,,,,,,,

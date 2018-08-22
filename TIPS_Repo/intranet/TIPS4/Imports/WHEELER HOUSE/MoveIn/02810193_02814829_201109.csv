@@ -1,0 +1,6 @@
+BATCH,,201109,B,4116.0000,
+INVOICE,IN,,02810193,,09/14/2011,4116.0000,"MoveIn-Boston. Mary",,09/14/2011,09/14/2011,,02814829,4116.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,17,109.0000,1853,"M.Boston: Basic Service Fee - Studio: Boston. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202028,17,14.0000,238,"M.Boston: Resident Care - Level 1: Boston. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Boston. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Boston. Mary",,,,,,,,,,,,,,,

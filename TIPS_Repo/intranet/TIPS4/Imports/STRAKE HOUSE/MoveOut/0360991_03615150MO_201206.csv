@@ -1,0 +1,8 @@
+BATCH,,201206,B,10510.2000,
+INVOICE,IN,,0360991,,06/01/2012,3494.4000,"Invoice-Private",,06/01/2012,06/10/2012,,03615150MO,-3521.4000,,,,,,,,,,
+TRANSACTION,3020,010202036,15,101.0000,1515.00,"Basic Service Fee - Studio for Jun: Cross, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,15,131.9600,1979.40,"Resident Care - Level 6+24 pts for Jun: Cross, John",,,,,,,,,,,,,,,
+INVOICE,CM,,0360991,,06/01/2012,7015.8,"Invoice-Private",,06/01/2012,06/10/2012,,03615150MO,-3521.4000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3030,3030,"CR:Basic Service F... J.Cross 201206: Cross, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Cross 201206: Cross, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,3958.8,3958.8,"CR:Resident Care -... J.Cross 201206: Cross, John",,,,,,,,,,,,,,,

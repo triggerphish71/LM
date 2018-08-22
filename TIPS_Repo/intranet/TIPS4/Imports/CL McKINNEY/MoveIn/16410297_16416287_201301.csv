@@ -1,0 +1,5 @@
+BATCH,,201301,B,3435.0000,
+INVOICE,IN,,16410297,,01/01/2013,3435.0000,"January_Rent-Bernard. Warren",,01/01/2013,01/10/2013,,16416287,3900.0000,,,,,,,,,,
+TRANSACTION,3010,010202164,31,95.0000,2945,"W.Bernard: Basic Service Fee - Studio Deluxe: Bernard. Warren",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202164,31,15.0000,465,"W.Bernard: Resident Care - Level 1: Bernard. Warren",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202164,1,25.0000,25,"Monthly Cable: Bernard. Warren",,,,,,,,,,,,,,,

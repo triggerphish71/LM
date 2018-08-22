@@ -1,0 +1,6 @@
+BATCH,,201303,B,3622.0000,
+INVOICE,IN,,03110361,,03/01/2013,3622.0000,"March_Rent-Smith. Gay Nell",,03/01/2013,03/10/2013,,03117339,5599.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,31,99.0000,3069,"G.Smith: Basic Service Fee - Studio: Smith. Gay Nell",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,31,16.0000,496,"G.Smith: Resident Care - Level 1: Smith. Gay Nell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Smith. Gay Nell",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30.0000,30,"Pendant Fee: Smith. Gay Nell",,,,,,,,,,,,,,,

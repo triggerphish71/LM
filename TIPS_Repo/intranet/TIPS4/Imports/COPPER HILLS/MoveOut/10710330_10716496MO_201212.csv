@@ -1,0 +1,6 @@
+BATCH,,201212,B,4898.0000,
+INVOICE,IN,,10710330,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,10716496MO,-4870.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,1,62.0000,62.00,"CR:Limited Term Di... J.Whitson 201212: Whitson, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,10710330,,12/01/2012,4836,"Invoice-Private",,12/01/2012,12/10/2012,,10716496MO,-4870.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... J.Whitson 201212: Whitson, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1798,1798,"CR:Resident Care -... J.Whitson 201212: Whitson, Jack",,,,,,,,,,,,,,,

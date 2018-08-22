@@ -1,0 +1,7 @@
+BATCH,,201109,B,6072.0000,
+INVOICE,IN,,07810233,,09/01/2011,2112.0000,"Invoice-Private",,09/01/2011,09/10/2011,,07814347MO,-1848.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,16,89.0000,1424.00,"Basic Service Fee - Studio for Sep: Cramer, Claudia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,16,43.0000,688.00,"Resident Care - Level 3 for Sep: Cramer, Claudia",,,,,,,,,,,,,,,
+INVOICE,CM,,07810233,,09/01/2011,3960,"Invoice-Private",,09/01/2011,09/10/2011,,07814347MO,-1848.0000,,,,,,,,,,
+TRANSACTION,3020,010104078,1,2670,2670,"CR:Basic Service F... C.Cramer 201109: Cramer, Claudia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104078,1,1290,1290,"CR:Resident Care -... C.Cramer 201109: Cramer, Claudia",,,,,,,,,,,,,,,

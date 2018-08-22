@@ -1,0 +1,6 @@
+BATCH,,201206,B,5272.0000,
+INVOICE,IN,,01610263,,06/23/2012,2277.0000,"Invoice-Private",,06/23/2012,06/23/2012,,01615932MO,-3812.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,23,99.0000,2277.00,"Basic Service Fee - One Bedroom for Jun: Ethridge, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,01610263,,06/23/2012,2995,"Invoice-Private",,06/23/2012,06/23/2012,,01615932MO,-3812.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2970,2970,"CR:Basic Service F... M.Ethridge 201206: Ethridge, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... M.Ethridge 201206: Ethridge, Marjorie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201109,B,412.2000,
+INVOICE,IN,,53010182,,09/01/2011,206.1000,"Invoice-Private",,09/01/2011,09/10/2011,,53015274MO,-872.0300,,,,,,,,,,
+TRANSACTION,3320,010319530,30,6.0000,180.00,"Credit for Limited Term Discount: Frerichs, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3311,010319530,30,0.8700,26.10,"Credit for Advance Payment Discount: Frerichs, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,53010182,,09/01/2011,206.1,"Invoice-Private",,09/01/2011,09/10/2011,,53015274MO,-872.0300,,,,,,,,,,
+TRANSACTION,3320,010319530,30,6,180,"Limited Term Discount: Frerichs, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3311,010319530,30,0.87,26.1,"Advance Payment Discount: Frerichs, Lillian",,,,,,,,,,,,,,,

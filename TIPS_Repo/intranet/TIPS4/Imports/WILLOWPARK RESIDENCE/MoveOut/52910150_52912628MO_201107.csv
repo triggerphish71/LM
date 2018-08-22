@@ -1,0 +1,7 @@
+BATCH,,201107,B,5042.0000,
+INVOICE,IN,,52910150,,07/01/2011,1023.0000,"Invoice-Private",,07/01/2011,07/10/2011,,52912628MO,-2996.0000,,,,,,,,,,
+TRANSACTION,3320,010319529,1,1023.0000,1023.00,"CR:Limited Term Di... E.Scott 201107: Scott, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,52910150,,07/01/2011,4019,"Invoice-Private",,07/01/2011,07/10/2011,,52912628MO,-2996.0000,,,,,,,,,,
+TRANSACTION,3130,010319529,1,20,20,"CR:Pendant Fee... E.Scott 201107: Scott, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,1271,1271,"CR:Resident Care -... E.Scott 201107: Scott, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2728,2728,"CR:Room and Board ... E.Scott 201107: Scott, Evelyn",,,,,,,,,,,,,,,

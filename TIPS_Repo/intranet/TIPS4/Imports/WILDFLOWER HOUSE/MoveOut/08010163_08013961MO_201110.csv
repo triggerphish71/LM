@@ -1,0 +1,5 @@
+BATCH,,201110,B,372.0000,
+INVOICE,IN,,08010163,,10/01/2011,186.0000,"Invoice-Private",,10/01/2011,10/10/2011,,08013961MO,-3231.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,31,6.0000,186.00,"Credit for Limited Term Discount: Dritz, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,08010163,,10/01/2011,186,"Invoice-Private",,10/01/2011,10/10/2011,,08013961MO,-3231.0000,,,,,,,,,,
+TRANSACTION,3320,010202080,31,6,186,"Limited Term Discount: Dritz, Lois",,,,,,,,,,,,,,,

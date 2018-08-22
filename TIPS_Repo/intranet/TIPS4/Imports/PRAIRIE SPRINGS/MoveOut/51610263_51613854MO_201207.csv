@@ -1,0 +1,5 @@
+BATCH,,201207,B,3916.0000,
+INVOICE,IN,,51610263,,07/13/2012,1157.0000,"Invoice-Private",,07/13/2012,07/13/2012,,51613854MO,-1602.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,13,89.0000,1157.00,"R.Ebersole: Basic Service Fee - Studio for Jul: Ebersole, Robert ",,,,,,,,,,,,,,,
+INVOICE,CM,,51610263,,07/13/2012,2759,"Invoice-Private",,07/13/2012,07/13/2012,,51613854MO,-1602.0000,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2759,2759,"CR:R.Ebersole: Bas... R.Ebersole 201207: Ebersole, Robert ",,,,,,,,,,,,,,,

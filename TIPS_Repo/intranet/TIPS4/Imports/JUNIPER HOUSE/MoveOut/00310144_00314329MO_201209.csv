@@ -1,0 +1,5 @@
+BATCH,,201209,B,5156.1000,
+INVOICE,CM,,00310144,,09/01/2012,5156.1,"Invoice-Private",,09/01/2012,09/10/2012,,00314329MO,-5156.1000,,,,,,,,,,
+TRANSACTION,3020,010101003,1,2820,2820,"CR:Basic Service F... S.Seitz 201209: Seitz, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27,27,"CR:Monthly Cable... S.Seitz 201209: Seitz, Sue",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101003,1,2309.1,2309.1,"CR:Resident Care -... S.Seitz 201209: Seitz, Sue",,,,,,,,,,,,,,,

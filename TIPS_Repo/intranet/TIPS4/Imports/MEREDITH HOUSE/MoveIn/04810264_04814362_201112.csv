@@ -1,0 +1,6 @@
+BATCH,,201112,B,3413.0000,
+INVOICE,IN,,04810264,,12/16/2011,3413.0000,"MoveIn-Weatherly. Dortha",,12/16/2011,12/16/2011,,04814362,3413.0000,,,,,,,,,,
+TRANSACTION,3010,010202048,16,103.0000,1648,"D.Weatherly: Basic Service Fee - Studio: Weatherly. Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202048,16,15.0000,240,"D.Weatherly: Resident Care - Level 1: Weatherly. Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202048,1,25.0000,25,"Monthly Cable: Weatherly. Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202048,1,1500.0000,1500,"New Resident Fee: Weatherly. Dortha",,,,,,,,,,,,,,,

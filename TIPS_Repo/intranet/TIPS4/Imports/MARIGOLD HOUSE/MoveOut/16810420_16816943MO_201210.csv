@@ -1,0 +1,5 @@
+BATCH,,201210,B,4366.0000,
+INVOICE,IN,,16810420,,10/06/2012,708.0000,"Invoice-Private",,10/06/2012,10/06/2012,,16816943MO,-2950.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,6,118.0000,708.00,"Basic Service Fee - One BR Premium for Oct: Truman, Faith",,,,,,,,,,,,,,,
+INVOICE,CM,,16810420,,10/06/2012,3658,"Invoice-Private",,10/06/2012,10/06/2012,,16816943MO,-2950.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3658,3658,"CR:Basic Service F... F.Truman 201210: Truman, Faith",,,,,,,,,,,,,,,

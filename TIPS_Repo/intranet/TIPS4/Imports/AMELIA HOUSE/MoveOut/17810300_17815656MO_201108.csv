@@ -1,0 +1,7 @@
+BATCH,,201108,B,318.0000,
+INVOICE,IN,,17810300,,08/01/2011,159.0000,"Invoice-Private",,08/01/2011,08/10/2011,,17815656MO,-4271.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35.00,"Monthly Cable: Ring, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,4.0000,124.00,"Credit for Limited Term Discount: Ring, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,17810300,,08/01/2011,159,"Invoice-Private",,08/01/2011,08/10/2011,,17815656MO,-4271.0000,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"Credit for Monthly Cable: Ring, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212178,31,4,124,"Limited Term Discount: Ring, Richard",,,,,,,,,,,,,,,

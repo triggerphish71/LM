@@ -1,0 +1,8 @@
+BATCH,,201204,B,6235.0000,
+INVOICE,IN,,09010242,,04/16/2012,2160.0000,"Invoice-Private",,04/16/2012,04/16/2012,,09014949MO,-1915.0000,,,,,,,,,,
+TRANSACTION,3027,010104090,16,43.0000,688.00,"Resident Care - Level 3 for Apr: McCollum, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104090,16,92.0000,1472.00,"Room and Board - Studio for Apr: McCollum, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,09010242,,04/16/2012,4075,"Invoice-Private",,04/16/2012,04/16/2012,,09014949MO,-1915.0000,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... J.McCollum 201204: McCollum, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,1290,1290,"CR:Resident Care -... J.McCollum 201204: McCollum, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Room and Board ... J.McCollum 201204: McCollum, Joe",,,,,,,,,,,,,,,

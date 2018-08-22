@@ -1,0 +1,5 @@
+BATCH,,201202,B,4025.0000,
+INVOICE,IN,,17810341,,02/10/2012,4025.0000,"MoveIn-Watson. Walter",,02/10/2012,02/10/2012,,17815932,4025.0000,,,,,,,,,,
+TRANSACTION,3010,010212178,20,87.0000,1740,"Basic Service Fee - Studio: Watson. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35,"Monthly Cable: Watson. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212178,1,2250.0000,2250,"New Resident Fee: Watson. Walter",,,,,,,,,,,,,,,

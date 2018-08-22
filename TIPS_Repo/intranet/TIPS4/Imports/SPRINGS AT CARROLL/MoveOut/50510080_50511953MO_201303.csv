@@ -1,0 +1,7 @@
+BATCH,,201303,B,5687.0000,
+INVOICE,IN,,50510080,,03/14/2013,1936.0000,"Invoice-Private",,03/14/2013,03/14/2013,,50511953MO,-5445.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,16,95.0000,1520.00,"Basic Service Fee - Studio Premium for Mar: Rule, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,16,26.0000,416.00,"Resident Care - Level 2 for Mar: Rule, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,50510080,,03/14/2013,3751,"Invoice-Private",,03/14/2013,03/14/2013,,50511953MO,-5445.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,2945,2945,"CR:Basic Service F... P.Rule 201303: Rule, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,806,806,"CR:Resident Care -... P.Rule 201303: Rule, Phyllis",,,,,,,,,,,,,,,

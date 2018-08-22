@@ -1,0 +1,6 @@
+BATCH,,201211,B,2378.0000,
+INVOICE,IN,,50910133,,11/08/2012,548.0000,"Invoice-Private",,11/08/2012,11/08/2012,,50913190MO,-1282.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,60.0000,60.00,"CR:Limited Term Di... B.Maloney 201211: Maloney, Bud",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,8,61.0000,488.00,"Basic Service Fee - One Bedroom for Nov: Maloney, Bud",,,,,,,,,,,,,,,
+INVOICE,CM,,50910133,,11/08/2012,1830,"Invoice-Private",,11/08/2012,11/08/2012,,50913190MO,-1282.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1830,1830,"CR:Basic Service F... B.Maloney 201211: Maloney, Bud",,,,,,,,,,,,,,,

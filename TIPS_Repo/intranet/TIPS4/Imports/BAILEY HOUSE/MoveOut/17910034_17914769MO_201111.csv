@@ -1,0 +1,7 @@
+BATCH,,201111,B,4836.0000,
+INVOICE,IN,,17910034,,11/22/2011,2046.0000,"Invoice-Private",,11/22/2011,11/22/2011,,17914769MO,-3627.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,22,79.0000,1738.00,"Basic Service Fee - Studio for Nov: Lemoine, Lester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,22,14.0000,308.00,"Resident Care - Level 1 for Nov: Lemoine, Lester",,,,,,,,,,,,,,,
+INVOICE,CM,,17910034,,11/22/2011,2790,"Invoice-Private",,11/22/2011,11/22/2011,,17914769MO,-3627.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2370,2370,"CR:Basic Service F... L.Lemoine 201111: Lemoine, Lester",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,420,420,"CR:Resident Care -... L.Lemoine 201111: Lemoine, Lester",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201108,B,4898.0000,
+INVOICE,IN,,11610230,,08/01/2011,837.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11614718MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,837.0000,837.00,"CR:Limited Term Di... A.Buchanan 201108: Buchanan, Aubrey",,,,,,,,,,,,,,,
+INVOICE,CM,,11610230,,08/01/2011,4061,"Invoice-Private",,08/01/2011,08/10/2011,,11614718MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3007,3007,"CR:Basic Service F... A.Buchanan 201108: Buchanan, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... A.Buchanan 201108: Buchanan, Aubrey",,,,,,,,,,,,,,,

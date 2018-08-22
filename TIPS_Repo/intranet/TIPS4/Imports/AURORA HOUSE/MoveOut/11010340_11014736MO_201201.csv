@@ -1,0 +1,5 @@
+BATCH,,201201,B,1054.0000,
+INVOICE,IN,,11010340,,01/01/2012,527.0000,"Invoice-Private",,01/01/2012,01/10/2012,,11014736MO,-2884.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,31,17.0000,527.00,"Credit for Limited Term Discount: Earle, Harrie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010340,,01/01/2012,527,"Invoice-Private",,01/01/2012,01/10/2012,,11014736MO,-2884.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,31,17,527,"Limited Term Discount: Earle, Harrie",,,,,,,,,,,,,,,

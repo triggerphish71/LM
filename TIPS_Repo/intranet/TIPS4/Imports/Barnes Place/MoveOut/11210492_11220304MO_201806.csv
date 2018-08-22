@@ -1,0 +1,7 @@
+BATCH,,201806,B,9976.0000,
+INVOICE,IN,,11210492,,06/25/2018,4816.0000,"Invoice-Private",,06/25/2018,06/25/2018,,11220304MO,-344.0000,,,,,,,,,,
+TRANSACTION,3020,010010112,28,125.0000,3500.00,"Basic Service Fee - Studio for Jun: Smetek, Adeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010112,28,47.0000,1316.00,"Resident Care - Level 2 for Jun: Smetek, Adeline",,,,,,,,,,,,,,,
+INVOICE,CM,,11210492,,06/25/2018,5160,"Invoice-Private",,06/25/2018,06/25/2018,,11220304MO,-344.0000,,,,,,,,,,
+TRANSACTION,3020,010010112,1,3750,3750,"CR:Basic Service F... A.Smetek 201806: Smetek, Adeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010010112,1,1410,1410,"CR:Resident Care -... A.Smetek 201806: Smetek, Adeline",,,,,,,,,,,,,,,

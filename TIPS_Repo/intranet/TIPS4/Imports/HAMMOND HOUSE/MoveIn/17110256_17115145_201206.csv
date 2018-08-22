@@ -1,0 +1,5 @@
+BATCH,,201206,B,3357.0000,
+INVOICE,IN,,17110256,,06/01/2012,3357.0000,"June_Rent-Whittle. Mary",,06/01/2012,06/10/2012,,17115145,5861.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,30,94.0000,2820,"Basic Service Fee - Studio: Whittle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308171,30,17.0000,510,"Resident Care - Level 1: Whittle. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Whittle. Mary",,,,,,,,,,,,,,,

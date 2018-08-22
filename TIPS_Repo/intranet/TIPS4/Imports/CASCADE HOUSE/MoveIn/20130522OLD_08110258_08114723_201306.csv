@@ -1,0 +1,5 @@
+BATCH,,201306,B,4667.5000,
+INVOICE,IN,,08110258,,06/01/2013,4667.5000,"June_Rent-Morris. Don",,06/01/2013,06/10/2013,,08114723,8549.5000,,,,,,,,,,
+TRANSACTION,3010,010103081,30,90.0000,2700,"Basic Service Fee - Studio: Morris. Don",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,30,64.7500,1942.5,"Resident Care - Level 35: Morris. Don",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Morris. Don",,,,,,,,,,,,,,,

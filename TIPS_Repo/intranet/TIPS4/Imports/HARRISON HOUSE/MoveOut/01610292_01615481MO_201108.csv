@@ -1,0 +1,8 @@
+BATCH,,201108,B,8319.0000,
+INVOICE,IN,,01610292,,08/27/2011,3861.0000,"Invoice-Private",,08/27/2011,08/27/2011,,01615481MO,-4887.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,27,81.0000,2187.00,"Basic Service Fee - Studio for Aug: White, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,27,62.0000,1674.00,"Resident Care - Level 4 for Aug: White, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,01610292,,08/27/2011,4458,"Invoice-Private",,08/27/2011,08/27/2011,,01615481MO,-4887.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2511,2511,"CR:Basic Service F... C.White 201108: White, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"CR:Monthly Cable... C.White 201108: White, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,1922,1922,"CR:Resident Care -... C.White 201108: White, Carolyn",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,5503.7500,
+INVOICE,IN,,20810173,,08/06/2012,892.5000,"Invoice-Private",,08/06/2012,08/06/2012,,20813299MO,-3718.7500,,,,,,,,,,
+TRANSACTION,3027,010216208,6,70.7500,424.50,"Resident Care - Level 6+5 pts for Aug: Hope, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,6,78.0000,468.00,"Studio for Aug: Hope, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,20810173,,08/06/2012,4611.25,"Invoice-Private",,08/06/2012,08/06/2012,,20813299MO,-3718.7500,,,,,,,,,,
+TRANSACTION,3027,010216208,1,2193.25,2193.25,"CR:Resident Care -... M.Hope 201208: Hope, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... M.Hope 201208: Hope, Mary",,,,,,,,,,,,,,,

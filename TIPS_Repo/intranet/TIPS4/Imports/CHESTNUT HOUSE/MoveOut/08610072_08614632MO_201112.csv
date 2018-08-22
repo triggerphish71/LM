@@ -1,0 +1,7 @@
+BATCH,,201112,B,5202.0000,
+INVOICE,IN,,08610072,,12/17/2011,2040.0000,"Invoice-Private",,12/17/2011,12/17/2011,,08614632MO,-4377.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,20,86.0000,1720.00,"Basic Service Fee - Studio for Dec: Wooles, Leora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,20,16.0000,320.00,"Resident Care - Level 1 for Dec: Wooles, Leora",,,,,,,,,,,,,,,
+INVOICE,CM,,08610072,,12/17/2011,3162,"Invoice-Private",,12/17/2011,12/17/2011,,08614632MO,-4377.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2666,2666,"CR:Basic Service F... L.Wooles 201112: Wooles, Leora",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,496,496,"CR:Resident Care -... L.Wooles 201112: Wooles, Leora",,,,,,,,,,,,,,,

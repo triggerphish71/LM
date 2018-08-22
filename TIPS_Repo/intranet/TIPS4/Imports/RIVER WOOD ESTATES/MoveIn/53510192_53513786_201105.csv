@@ -1,0 +1,6 @@
+BATCH,,201105,B,2890.0000,
+INVOICE,IN,,53510192,,05/25/2011,2890.0000,"MoveIn-Greening. Robert",,05/25/2011,05/25/2011,,53513786,5765.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,7,95.0000,665,"Basic Service Fee - One Bedroom: Greening. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Greening. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Greening. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Greening. Robert",,,,,,,,,,,,,,,

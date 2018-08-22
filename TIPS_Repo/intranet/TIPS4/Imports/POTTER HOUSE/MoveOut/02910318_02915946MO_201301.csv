@@ -1,0 +1,7 @@
+BATCH,,201301,B,3567.0000,
+INVOICE,IN,,02910318,,01/10/2013,870.0000,"Invoice-Private",,01/10/2013,01/10/2013,,02915946MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,10,17.0000,170.00,"Resident Care - Level 1 for Jan: Gee, Navella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,10,70.0000,700.00,"Room and Board - One Bedroom for Jan: Gee, Navella",,,,,,,,,,,,,,,
+INVOICE,CM,,02910318,,01/10/2013,2697,"Invoice-Private",,01/10/2013,01/10/2013,,02915946MO,-1827.0000,,,,,,,,,,
+TRANSACTION,3027,010202029,1,527,527,"CR:Resident Care -... N.Gee 201301: Gee, Navella",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2170,2170,"CR:Room and Board ... N.Gee 201301: Gee, Navella",,,,,,,,,,,,,,,

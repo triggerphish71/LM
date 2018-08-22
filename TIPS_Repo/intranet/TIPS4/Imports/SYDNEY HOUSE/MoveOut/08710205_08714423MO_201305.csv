@@ -1,0 +1,6 @@
+BATCH,,201305,B,4929.0000,
+INVOICE,IN,,08710205,,05/01/2013,1147.0000,"Invoice-Private",,05/01/2013,05/10/2013,,08714423MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1147.0000,1147.00,"CR:Resident Care L... D.Dumbaugh 201305: Dumbaugh, Dickson",,,,,,,,,,,,,,,
+INVOICE,CM,,08710205,,05/01/2013,3782,"Invoice-Private",,05/01/2013,05/10/2013,,08714423MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2635,2635,"CR:Basic Service F... D.Dumbaugh 201305: Dumbaugh, Dickson",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1147,1147,"CR:Resident Care -... D.Dumbaugh 201305: Dumbaugh, Dickson",,,,,,,,,,,,,,,

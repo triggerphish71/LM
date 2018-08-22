@@ -1,0 +1,7 @@
+BATCH,,201206,B,7436.0000,
+INVOICE,IN,,16010362,,06/22/2012,3146.0000,"Invoice-Private",,06/22/2012,06/22/2012,,16015304MO,-5602.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,22,99.0000,2178.00,"Basic Service Fee - Studio for Jun: Mogil, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,22,44.0000,968.00,"Resident Care - Level 3 for Jun: Mogil, Henrietta",,,,,,,,,,,,,,,
+INVOICE,CM,,16010362,,06/22/2012,4290,"Invoice-Private",,06/22/2012,06/22/2012,,16015304MO,-5602.0000,,,,,,,,,,
+TRANSACTION,3020,010107160,1,2970,2970,"CR:Basic Service F... H.Mogil 201206: Mogil, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107160,1,1320,1320,"CR:Resident Care -... H.Mogil 201206: Mogil, Henrietta",,,,,,,,,,,,,,,

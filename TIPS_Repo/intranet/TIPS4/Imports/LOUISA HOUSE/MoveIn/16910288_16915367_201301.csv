@@ -1,0 +1,6 @@
+BATCH,,201301,B,3310.0000,
+INVOICE,IN,,16910288,,01/18/2013,3310.0000,"MoveIn-Bays. Ruby",,01/18/2013,01/18/2013,,16915367,5855.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,14,90.0000,1260,"Basic Service Fee - Studio: Bays. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Bays. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Bays. Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Bays. Ruby",,,,,,,,,,,,,,,

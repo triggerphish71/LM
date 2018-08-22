@@ -1,0 +1,7 @@
+BATCH,,201212,B,2782.0000,
+INVOICE,IN,,17110257,,12/01/2012,1391.0000,"Invoice-Private",,12/01/2012,12/10/2012,,17115424MO,-1722.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Williams, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,44.0000,1364.00,"Credit for Limited Term Discount: Williams, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110257,,12/01/2012,1391,"Invoice-Private",,12/01/2012,12/10/2012,,17115424MO,-1722.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Williams, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308171,31,44,1364,"Limited Term Discount: Williams, Willie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201107,B,2648.0000,
+INVOICE,IN,,11510235,,07/14/2011,2648.0000,"MoveIn-Sims. Betty",,07/14/2011,07/14/2011,,11513747,2648.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,18,64.0000,1152,"Basic Service Fee - Studio         : Sims. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308115,18,26.0000,468,"Resident Care - Level 2: Sims. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Sims. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Sims. Betty",,,,,,,,,,,,,,,

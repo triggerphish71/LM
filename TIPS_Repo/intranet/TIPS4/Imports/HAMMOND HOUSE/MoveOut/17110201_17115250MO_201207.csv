@@ -1,0 +1,8 @@
+BATCH,,201207,B,7406.0000,
+INVOICE,IN,,17110201,,07/19/2012,3190.0000,"Invoice-Private",,07/19/2012,07/19/2012,,17115250MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3320,010308171,1,62.0000,62.00,"CR:Limited Term Di... V.Shea 201207: Shea, Vauda",,,,,,,,,,,,,,,
+TRANSACTION,3020,010308171,23,94.0000,2162.00,"Basic Service Fee - Studio for Jul: Shea, Vauda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,23,42.0000,966.00,"Resident Care - Level 3 for Jul: Shea, Vauda",,,,,,,,,,,,,,,
+INVOICE,CM,,17110201,,07/19/2012,4216,"Invoice-Private",,07/19/2012,07/19/2012,,17115250MO,-5180.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... V.Shea 201207: Shea, Vauda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,1302,1302,"CR:Resident Care -... V.Shea 201207: Shea, Vauda",,,,,,,,,,,,,,,

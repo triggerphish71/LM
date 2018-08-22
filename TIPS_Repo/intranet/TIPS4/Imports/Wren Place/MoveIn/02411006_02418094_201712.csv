@@ -1,0 +1,5 @@
+BATCH,,201712,B,4306.4000,
+INVOICE,IN,,02411006,,12/01/2017,4306.4000,"December_Rent-Hudson. Vivian",,12/01/2017,12/10/2017,,02418094,10966.8000,,,,,,,,,,
+TRANSACTION,3010,010002024,31,100.0000,3100,"Basic Service Fee - Studio: Hudson. Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002024,31,38.0000,1178,"Resident Care - Level 2: Hudson. Vivian",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002024,1,28.4000,28.4,"Monthly Cable: Hudson. Vivian",,,,,,,,,,,,,,,

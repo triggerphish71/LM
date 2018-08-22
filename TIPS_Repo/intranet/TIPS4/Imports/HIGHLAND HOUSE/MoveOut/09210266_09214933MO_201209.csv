@@ -1,0 +1,6 @@
+BATCH,,201209,B,3484.0000,
+INVOICE,IN,,09210266,,09/17/2012,644.0000,"Invoice-Private",,09/17/2012,09/17/2012,,09214933MO,-5048.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,7,92.0000,644.00,"A.Abrams: Basic Service Fee - Deluxe for Sep: Abrams, Arthur",,,,,,,,,,,,,,,
+INVOICE,CM,,09210266,,09/17/2012,2840,"Invoice-Private",,09/17/2012,09/17/2012,,09214933MO,-5048.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,1840,1840,"CR:A.Abrams: Basic... A.Abrams 201209: Abrams, Arthur",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305092,1,1000,1000,"CR:New Resident Fe... A.Abrams 201209: Abrams, Arthur",,,,,,,,,,,,,,,

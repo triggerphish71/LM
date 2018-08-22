@@ -1,0 +1,5 @@
+BATCH,,201112,B,4227.0000,
+INVOICE,IN,,06810224,,12/05/2011,4227.0000,"MoveIn-Cook. Harold",,12/05/2011,12/05/2011,,06813757,4227.0000,,,,,,,,,,
+TRANSACTION,3010,010305068,27,85.0000,2295,"H.Cook: Basic Service Fee - Studio: Cook. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305068,27,16.0000,432,"H.Cook: Resident Care - Level 1: Cook. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305068,1,1500.0000,1500,"New Resident Fee: Cook. Harold",,,,,,,,,,,,,,,

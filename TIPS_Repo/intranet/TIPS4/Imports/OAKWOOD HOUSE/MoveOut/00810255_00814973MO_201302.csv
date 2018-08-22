@@ -1,0 +1,8 @@
+BATCH,,201302,B,4383.0000,
+INVOICE,IN,,00810255,,02/08/2013,968.0000,"Invoice-Private",,02/08/2013,02/08/2013,,00814973MO,-2447.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,8,55.0000,440.00,"Basic Service Fee - Studio for Feb: Vandagriff, Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,8,66.0000,528.00,"Resident Care - Level 5 for Feb: Vandagriff, Jessie",,,,,,,,,,,,,,,
+INVOICE,CM,,00810255,,02/08/2013,3415,"Invoice-Private",,02/08/2013,02/08/2013,,00814973MO,-2447.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,1540,1540,"CR:Basic Service F... J.Vandagriff 201302: Vandagriff, Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... J.Vandagriff 201302: Vandagriff, Jessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,1848,1848,"CR:Resident Care -... J.Vandagriff 201302: Vandagriff, Jessie",,,,,,,,,,,,,,,

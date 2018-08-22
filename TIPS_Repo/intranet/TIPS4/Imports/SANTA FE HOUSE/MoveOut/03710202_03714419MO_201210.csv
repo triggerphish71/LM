@@ -1,0 +1,8 @@
+BATCH,,201210,B,5712.0000,
+INVOICE,IN,,03710202,,10/19/2012,2209.0000,"Invoice-Private",,10/19/2012,10/19/2012,,03714419MO,-4624.0000,,,,,,,,,,
+TRANSACTION,3320,010202037,1,62.0000,62.00,"CR:Limited Term Di... D.Davis 201210: Davis, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202037,19,97.0000,1843.00,"Basic Service Fee - Studio for Oct: Davis, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,19,16.0000,304.00,"Resident Care - Level 1 for Oct: Davis, Dan",,,,,,,,,,,,,,,
+INVOICE,CM,,03710202,,10/19/2012,3503,"Invoice-Private",,10/19/2012,10/19/2012,,03714419MO,-4624.0000,,,,,,,,,,
+TRANSACTION,3020,010202037,1,3007,3007,"CR:Basic Service F... D.Davis 201210: Davis, Dan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202037,1,496,496,"CR:Resident Care -... D.Davis 201210: Davis, Dan",,,,,,,,,,,,,,,

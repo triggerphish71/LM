@@ -1,0 +1,7 @@
+BATCH,,201303,B,3201.0000,
+INVOICE,IN,,02910354,,03/02/2013,194.0000,"Invoice-Private",,03/02/2013,03/02/2013,,02916014MO,-2813.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,2,80.0000,160.00,"Basic Service Fee - One Bedroom for Mar: Scott, BilliyJoe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,2,17.0000,34.00,"Resident Care - Level 1 for Mar: Scott, BilliyJoe",,,,,,,,,,,,,,,
+INVOICE,CM,,02910354,,03/02/2013,3007,"Invoice-Private",,03/02/2013,03/02/2013,,02916014MO,-2813.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,2480,2480,"CR:Basic Service F... B.Scott 201303: Scott, BilliyJoe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202029,1,527,527,"CR:Resident Care -... B.Scott 201303: Scott, BilliyJoe",,,,,,,,,,,,,,,

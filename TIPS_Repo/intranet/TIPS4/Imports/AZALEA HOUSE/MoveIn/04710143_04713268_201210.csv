@@ -1,0 +1,6 @@
+BATCH,,201210,B,4324.0000,
+INVOICE,IN,,04710143,,10/08/2012,4324.0000,"MoveIn-Wilkins. Sara",,10/08/2012,10/08/2012,,04713268,4324.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,24,109.0000,2616,"S.Wilkins: Basic Service Fee - One Bedroom: Wilkins. Sara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,24,17.0000,408,"S.Wilkins: Resident Care - Level 1: Wilkins. Sara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Wilkins. Sara",,,,,,,,,,,,,,,
+TRANSACTION,3213,010202047,1,300.0000,300,"Pet Fee: Wilkins. Sara",,,,,,,,,,,,,,,

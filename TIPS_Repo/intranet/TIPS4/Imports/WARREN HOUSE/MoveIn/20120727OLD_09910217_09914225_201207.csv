@@ -1,0 +1,6 @@
+BATCH,,201207,B,1170.0000,
+INVOICE,IN,,09910217,,07/27/2012,1170.0000,"MoveIn-Wilcox. Mary",,07/27/2012,07/27/2012,,09914225,5194.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,5,86.0000,430,"Basic Service Fee - Studio: Wilcox. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,5,43.0000,215,"Resident Care - Level 3: Wilcox. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104099,1,25.0000,25,"Monthly Cable: Wilcox. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Wilcox. Mary",,,,,,,,,,,,,,,

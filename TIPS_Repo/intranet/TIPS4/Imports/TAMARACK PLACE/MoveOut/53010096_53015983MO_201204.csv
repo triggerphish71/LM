@@ -1,0 +1,6 @@
+BATCH,,201204,B,5012.0000,
+INVOICE,IN,,53010096,,04/01/2012,1582.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53015983MO,-1848.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,14,113.0000,1582.00,"Basic Service Fee - One Bedroom Del for Apr: Menacher, Francis",,,,,,,,,,,,,,,
+INVOICE,CM,,53010096,,04/01/2012,3430,"Invoice-Private",,04/01/2012,04/10/2012,,53015983MO,-1848.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3390,3390,"CR:Basic Service F... F.Menacher 201204: Menacher, Francis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... F.Menacher 201204: Menacher, Francis",,,,,,,,,,,,,,,

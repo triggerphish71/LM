@@ -1,0 +1,5 @@
+BATCH,,201201,B,4100.8800,
+INVOICE,IN,,51910224,,01/01/2012,4100.8800,"January_Rent-Hartley. Joan",,01/01/2012,01/10/2012,,51913282,6914.7600,,,,,,,,,,
+TRANSACTION,3010,010103519,31,110.0000,3410,"J.Hartley: Basic Service Fee - One Bedroom: Hartley. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103519,31,21.4800,665.88,"J.Hartley: Resident Care - Level 12: Hartley. Joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25.0000,25,"Monthly Cable: Hartley. Joan",,,,,,,,,,,,,,,

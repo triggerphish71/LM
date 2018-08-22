@@ -1,0 +1,5 @@
+BATCH,,201301,B,540.0000,
+INVOICE,IN,,04310222,,01/23/2013,230.0000,"Invoice-Private",,01/23/2013,01/23/2013,,04314184MO,-360.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,23,10.0000,230.00,"Basic Service Fee - Second Resident for Jan: Robinson, Susan",,,,,,,,,,,,,,,
+INVOICE,CM,,04310222,,01/23/2013,310,"Invoice-Private",,01/23/2013,01/23/2013,,04314184MO,-360.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,310,310,"CR:Basic Service F... S.Robinson 201301: Robinson, Susan",,,,,,,,,,,,,,,

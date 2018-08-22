@@ -1,0 +1,5 @@
+BATCH,,201106,B,3546.0000,
+INVOICE,IN,,01310172,,06/09/2011,3546.0000,"MoveIn-Borey. Richard",,06/09/2011,06/09/2011,,01313866,3546.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,22,69.0000,1518,"Basic Service Fee - Studio         : Borey. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Borey. Richard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,2000.0000,2000,"New Resident Fee: Borey. Richard",,,,,,,,,,,,,,,

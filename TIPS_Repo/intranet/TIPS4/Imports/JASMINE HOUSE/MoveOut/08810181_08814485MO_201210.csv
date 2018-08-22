@@ -1,0 +1,6 @@
+BATCH,,201210,B,4278.0000,
+INVOICE,IN,,08810181,,10/01/2012,372.0000,"Invoice-Private",,10/01/2012,10/10/2012,,08814485MO,-4812.0000,,,,,,,,,,
+TRANSACTION,3320,010107088,1,372.0000,372.00,"CR:Limited Term Di... M.Coffield 201210: Coffield, Miriam",,,,,,,,,,,,,,,
+INVOICE,CM,,08810181,,10/01/2012,3906,"Invoice-Private",,10/01/2012,10/10/2012,,08814485MO,-4812.0000,,,,,,,,,,
+TRANSACTION,3020,010107088,1,3007,3007,"CR:Basic Service F... M.Coffield 201210: Coffield, Miriam",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107088,1,899,899,"CR:Resident Care -... M.Coffield 201210: Coffield, Miriam",,,,,,,,,,,,,,,

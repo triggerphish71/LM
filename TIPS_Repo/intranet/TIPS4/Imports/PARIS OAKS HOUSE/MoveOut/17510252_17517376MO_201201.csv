@@ -1,0 +1,7 @@
+BATCH,,201201,B,3466.0000,
+INVOICE,IN,,17510252,,01/01/2012,62.0000,"Invoice-Private",,01/01/2012,01/10/2012,,17517376MO,-3951.7500,,,,,,,,,,
+TRANSACTION,3320,010202175,1,62.0000,62.00,"CR:Limited Term Di... M.Lassiter 201201: Lassiter, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,17510252,,01/01/2012,3404,"Invoice-Private",,01/01/2012,01/10/2012,,17517376MO,-3951.7500,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25,25,"CR:Monthly Cable... M.Lassiter 201201: Lassiter, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,1023,1023,"CR:Resident Care -... M.Lassiter 201201: Lassiter, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2356,2356,"CR:Room and Board ... M.Lassiter 201201: Lassiter, Mildred",,,,,,,,,,,,,,,

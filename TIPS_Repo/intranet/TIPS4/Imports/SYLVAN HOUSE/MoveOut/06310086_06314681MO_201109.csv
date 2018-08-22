@@ -1,0 +1,6 @@
+BATCH,,201109,B,1495.2000,
+INVOICE,CM,,06310086,,09/01/2011,1495.2,"Invoice-Medicaid",,09/01/2011,09/10/2011,,06314681MO,-2298.8600,,,,,,,,,,
+TRANSACTION,3021,010104063,1,657.7,657.7,"CR:Medicaid Co-Pay... O.Holmen 201109: Holmen, Olga",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104063,1,584,584,"CR:Medicaid Room &... O.Holmen 201109: Holmen, Olga",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"CR:Monthly Cable... O.Holmen 201109: Holmen, Olga",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104063,1,228.5,228.5,"CR:State Medicaid... O.Holmen 201109: Holmen, Olga",,,,,,,,,,,,,,,

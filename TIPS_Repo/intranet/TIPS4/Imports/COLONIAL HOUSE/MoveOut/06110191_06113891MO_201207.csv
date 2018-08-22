@@ -1,0 +1,7 @@
+BATCH,,201207,B,5343.8400,
+INVOICE,IN,,06110191,,07/05/2012,742.2000,"Invoice-Private",,07/05/2012,07/05/2012,,06113891MO,-3859.4400,,,,,,,,,,
+TRANSACTION,3020,010103061,5,84.0000,420.00,"Basic Service Fee - Studio for Jul: Hamilton, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,5,64.4400,322.20,"Resident Care - Level 36 for Jul: Hamilton, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,06110191,,07/05/2012,4601.64,"Invoice-Private",,07/05/2012,07/05/2012,,06113891MO,-3859.4400,,,,,,,,,,
+TRANSACTION,3020,010103061,1,2604,2604,"CR:Basic Service F... F.Hamilton 201207: Hamilton, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,1997.64,1997.64,"CR:Resident Care -... F.Hamilton 201207: Hamilton, Florence",,,,,,,,,,,,,,,

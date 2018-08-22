@@ -1,0 +1,7 @@
+BATCH,,201111,B,2034.0000,
+INVOICE,IN,,03410250,,11/01/2011,1017.0000,"Invoice-Private",,11/01/2011,11/10/2011,,03415223MO,-3129.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: McMickin, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,33.0000,990.00,"Credit for Limited Term Discount: McMickin, Emma",,,,,,,,,,,,,,,
+INVOICE,CM,,03410250,,11/01/2011,1017,"Invoice-Private",,11/01/2011,11/10/2011,,03415223MO,-3129.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: McMickin, Emma",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,33,990,"Limited Term Discount: McMickin, Emma",,,,,,,,,,,,,,,

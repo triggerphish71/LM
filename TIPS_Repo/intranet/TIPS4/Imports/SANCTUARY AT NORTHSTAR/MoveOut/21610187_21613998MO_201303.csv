@@ -1,0 +1,7 @@
+BATCH,,201303,B,6708.0000,
+INVOICE,IN,,21610187,,03/01/2013,1376.0000,"Invoice-Private",,03/01/2013,03/10/2013,,21613998MO,-3956.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,8,42.0000,336.00,"Resident Care - Level 4 for Mar: Kraft, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,8,130.0000,1040.00,"Two Bedroom for Mar: Kraft, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,21610187,,03/01/2013,5332,"Invoice-Private",,03/01/2013,03/10/2013,,21613998MO,-3956.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1302,1302,"CR:Resident Care -... M.Kraft 201303: Kraft, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,4030,4030,"CR:Two Bedroom... M.Kraft 201303: Kraft, Mary",,,,,,,,,,,,,,,

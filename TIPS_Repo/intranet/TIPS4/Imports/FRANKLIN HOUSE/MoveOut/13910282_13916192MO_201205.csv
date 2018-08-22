@@ -1,0 +1,5 @@
+BATCH,,201205,B,2257.0000,
+INVOICE,IN,,13910282,,05/01/2012,1110.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13916192MO,-37.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,30,37.0000,1110.00,"Basic Service Fee - Second Resident for May: Carlson, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,13910282,,05/01/2012,1147,"Invoice-Private",,05/01/2012,05/10/2012,,13916192MO,-37.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,1147,1147,"CR:Basic Service F... R.Carlson 201205: Carlson, Ruby",,,,,,,,,,,,,,,

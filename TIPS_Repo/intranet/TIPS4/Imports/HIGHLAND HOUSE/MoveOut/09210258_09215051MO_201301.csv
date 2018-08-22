@@ -1,0 +1,8 @@
+BATCH,,201301,B,7643.0000,
+INVOICE,IN,,09210258,,01/05/2013,3737.0000,"Invoice-Private",,01/05/2013,01/05/2013,,09215051MO,-169.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,1,713.0000,713.00,"CR:Limited Term Di... G.Milstead 201301: Milstead, Glena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305092,24,78.0000,1872.00,"Basic Service Fee - Studio for Jan: Milstead, Glena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,24,48.0000,1152.00,"Resident Care - Level 3 for Jan: Milstead, Glena",,,,,,,,,,,,,,,
+INVOICE,CM,,09210258,,01/05/2013,3906,"Invoice-Private",,01/05/2013,01/05/2013,,09215051MO,-169.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2418,2418,"CR:Basic Service F... G.Milstead 201301: Milstead, Glena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,1488,1488,"CR:Resident Care -... G.Milstead 201301: Milstead, Glena",,,,,,,,,,,,,,,

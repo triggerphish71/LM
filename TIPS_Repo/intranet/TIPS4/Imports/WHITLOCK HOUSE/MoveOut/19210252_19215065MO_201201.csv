@@ -1,0 +1,7 @@
+BATCH,,201201,B,8957.0000,
+INVOICE,IN,,19210252,,01/22/2012,3718.0000,"Invoice-Private",,01/22/2012,01/22/2012,,19215065MO,-6364.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,22,114.0000,2508.00,"Basic Service Fee - Studio for Jan: Newgent, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,22,55.0000,1210.00,"Resident Care - Level 4 for Jan: Newgent, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,19210252,,01/22/2012,5239,"Invoice-Private",,01/22/2012,01/22/2012,,19215065MO,-6364.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... C.Newgent 201201: Newgent, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1705,1705,"CR:Resident Care -... C.Newgent 201201: Newgent, Clara",,,,,,,,,,,,,,,

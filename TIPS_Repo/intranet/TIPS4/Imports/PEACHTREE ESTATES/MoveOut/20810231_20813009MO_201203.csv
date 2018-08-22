@@ -1,0 +1,5 @@
+BATCH,,201203,B,1426.0000,
+INVOICE,IN,,20810231,,03/01/2012,713.0000,"Invoice-Private",,03/01/2012,03/10/2012,,20813009MO,-613.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,23.0000,713.00,"Credit for Limited Term Discount: Hall, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,20810231,,03/01/2012,713,"Invoice-Private",,03/01/2012,03/10/2012,,20813009MO,-613.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,31,23,713,"Limited Term Discount: Hall, Maxine",,,,,,,,,,,,,,,

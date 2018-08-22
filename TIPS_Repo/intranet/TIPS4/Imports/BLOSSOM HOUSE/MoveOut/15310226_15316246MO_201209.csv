@@ -1,0 +1,6 @@
+BATCH,,201209,B,5250.0000,
+INVOICE,IN,,15310226,,09/15/2012,2250.0000,"Invoice-Private",,09/15/2012,09/15/2012,,15316246MO,-3075.0000,,,,,,,,,,
+TRANSACTION,3320,010103153,1,750.0000,750.00,"CR:Limited Term Di... H.Weakley 201209: Weakley, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,15,100.0000,1500.00,"Basic Service Fee - Studio for Sep: Weakley, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,15310226,,09/15/2012,3000,"Invoice-Private",,09/15/2012,09/15/2012,,15316246MO,-3075.0000,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3000,3000,"CR:Basic Service F... H.Weakley 201209: Weakley, Helen",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201207,B,4255.0000,
+INVOICE,IN,,02110147,,07/01/2012,690.0000,"Invoice-Private",,07/01/2012,07/10/2012,,02114952MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,6,98.0000,588.00,"Basic Service Fee - Studio for Jul: Gillispie, Ruby Kate",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,6,17.0000,102.00,"Resident Care - Level 1 for Jul: Gillispie, Ruby Kate",,,,,,,,,,,,,,,
+INVOICE,CM,,02110147,,07/01/2012,3565,"Invoice-Private",,07/01/2012,07/10/2012,,02114952MO,-2875.0000,,,,,,,,,,
+TRANSACTION,3020,010202021,1,3038,3038,"CR:Basic Service F... R.Gillispie 201207: Gillispie, Ruby Kate",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202021,1,527,527,"CR:Resident Care -... R.Gillispie 201207: Gillispie, Ruby Kate",,,,,,,,,,,,,,,

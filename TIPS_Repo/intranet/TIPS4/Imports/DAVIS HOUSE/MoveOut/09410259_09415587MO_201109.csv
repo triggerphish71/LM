@@ -1,0 +1,5 @@
+BATCH,,201109,B,5488.0000,
+INVOICE,IN,,09410259,,09/01/2011,2128.0000,"Invoice-Private",,09/01/2011,09/10/2011,,09415587MO,-1232.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,19,112.0000,2128.00,"Basic Service Fee - One Bedroom for Sep: Anderson, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,09410259,,09/01/2011,3360,"Invoice-Private",,09/01/2011,09/10/2011,,09415587MO,-1232.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3360,3360,"CR:Basic Service F... T.Anderson 201109: Anderson, Thomas",,,,,,,,,,,,,,,

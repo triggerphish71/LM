@@ -1,0 +1,7 @@
+BATCH,,201202,B,4717.6800,
+INVOICE,IN,,09710163,,02/01/2012,571.8400,"Invoice-Private",,02/01/2012,02/10/2012,,09714294MO,-3574.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,4,100.0000,400.00,"Basic Service Fee - Studio for Feb: Cummins, Wadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,4,42.9600,171.84,"Resident Care - Level 24 for Feb: Cummins, Wadine",,,,,,,,,,,,,,,
+INVOICE,CM,,09710163,,02/01/2012,4145.84,"Invoice-Private",,02/01/2012,02/10/2012,,09714294MO,-3574.0000,,,,,,,,,,
+TRANSACTION,3020,010103097,1,2900,2900,"CR:Basic Service F... W.Cummins 201202: Cummins, Wadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103097,1,1245.84,1245.84,"CR:Resident Care -... W.Cummins 201202: Cummins, Wadine",,,,,,,,,,,,,,,

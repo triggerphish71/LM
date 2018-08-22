@@ -1,0 +1,5 @@
+BATCH,,201306,B,3570.0000,
+INVOICE,IN,,19310391,,06/01/2013,3570.0000,"June_Rent-MacPhee. Donald",,06/01/2013,06/10/2013,,19315791,3689.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,30,76.0000,2280,"Basic Service Fee - Studio: MacPhee. Donald",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315193,30,33.0000,990,"Resident Care - Level 2: MacPhee. Donald",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,30,10.0000,300,"CC Meals: MacPhee. Donald",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201107,B,7068.0000,
+INVOICE,IN,,14010160,,07/20/2011,2760.0000,"Invoice-Private",,07/20/2011,07/20/2011,,14013515MO,-5856.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,20,85.0000,1700.00,"Basic Service Fee - Studio for Jul: Strater, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,20,53.0000,1060.00,"Resident Care - Level 4 for Jul: Strater, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14010160,,07/20/2011,4308,"Invoice-Private",,07/20/2011,07/20/2011,,14013515MO,-5856.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2635,2635,"CR:Basic Service F... H.Strater 201107: Strater, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30,30,"CR:Monthly Cable... H.Strater 201107: Strater, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,1643,1643,"CR:Resident Care -... H.Strater 201107: Strater, Helen",,,,,,,,,,,,,,,

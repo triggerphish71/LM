@@ -1,0 +1,7 @@
+BATCH,,201107,B,732.0000,
+INVOICE,IN,,03310244,,07/01/2011,366.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03315843MO,-2935.0000,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25.0000,25.00,"Monthly Cable: Thomas, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202033,31,11.0000,341.00,"Credit for Limited Term Discount: Thomas, Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,03310244,,07/01/2011,366,"Invoice-Private",,07/01/2011,07/10/2011,,03315843MO,-2935.0000,,,,,,,,,,
+TRANSACTION,3260,010202033,1,25,25,"Credit for Monthly Cable: Thomas, Warren",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202033,31,11,341,"Limited Term Discount: Thomas, Warren",,,,,,,,,,,,,,,

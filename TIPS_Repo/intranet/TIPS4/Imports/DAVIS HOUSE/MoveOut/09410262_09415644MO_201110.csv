@@ -1,0 +1,6 @@
+BATCH,,201110,B,4154.0000,
+INVOICE,IN,,09410262,,10/06/2011,672.0000,"Invoice-Private",,10/06/2011,10/06/2011,,09415644MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,6,112.0000,672.00,"Room and Board - One Bedroom for Oct: Shaw, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,09410262,,10/06/2011,3482,"Invoice-Private",,10/06/2011,10/06/2011,,09415644MO,-2810.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,3472,3472,"CR:Room and Board ... N.Shaw 201110: Shaw, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3228,010107094,1,10,10,"CR:Sharps Disposal... N.Shaw 201110: Shaw, Norma",,,,,,,,,,,,,,,

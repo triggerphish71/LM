@@ -1,0 +1,7 @@
+BATCH,,201211,B,6020.0000,
+INVOICE,IN,,12610163,,11/13/2012,1820.0000,"Invoice-Private",,11/13/2012,11/13/2012,,12615119MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,13,107.0000,1391.00,"Basic Service Fee - Deluxe for Nov: Naber, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,13,33.0000,429.00,"Resident Care - Level 2 for Nov: Naber, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,12610163,,11/13/2012,4200,"Invoice-Private",,11/13/2012,11/13/2012,,12615119MO,-2380.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3210,3210,"CR:Basic Service F... G.Naber 201211: Naber, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,990,990,"CR:Resident Care -... G.Naber 201211: Naber, Gladys",,,,,,,,,,,,,,,

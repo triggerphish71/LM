@@ -1,0 +1,5 @@
+BATCH,,201110,B,2356.0000,
+INVOICE,IN,,50410203,,10/01/2011,1178.0000,"Invoice-Private",,10/01/2011,10/10/2011,,50413431MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010318504,31,38.0000,1178.00,"Credit for Limited Term Discount: Hubbard, Calvin",,,,,,,,,,,,,,,
+INVOICE,CM,,50410203,,10/01/2011,1178,"Invoice-Private",,10/01/2011,10/10/2011,,50413431MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010318504,31,38,1178,"Limited Term Discount: Hubbard, Calvin",,,,,,,,,,,,,,,

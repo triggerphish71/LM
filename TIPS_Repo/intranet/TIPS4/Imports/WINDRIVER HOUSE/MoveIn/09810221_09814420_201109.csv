@@ -1,0 +1,5 @@
+BATCH,,201109,B,1600.9000,
+INVOICE,IN,,09810221,,09/30/2011,1600.9000,"MoveIn-Boulden. Marion",,09/30/2011,09/30/2011,,09814420,4728.8000,,,,,,,,,,
+TRANSACTION,3010,010103098,1,91.0000,91,"Basic Service Fee - Studio         : Boulden. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,1,9.9000,9.9,"Resident Care - Level 6: Boulden. Marion",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1500.0000,1500,"New Resident Fee: Boulden. Marion",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,5874.0000,
+INVOICE,IN,,05510239,,10/29/2012,534.0000,"MoveIn-Rushing. Melba",,10/29/2012,10/29/2012,,05514410,5874.0000,,,,,,,,,,
+TRANSACTION,3014,010202055,3,95.0000,285,"M.Rushing: Basic Service Fee - Studio: Rushing. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,3,83.0000,249,"M.Rushing: Resident Care - Level 6: Rushing. Melba",,,,,,,,,,,,,,,
+INVOICE,IN,,05510239,,11/01/2012,5340.0000,"November_Rent-Rushing. Melba",,11/01/2012,11/10/2012,,05514410,5874.0000,,,,,,,,,,
+TRANSACTION,3010,010202055,30,95.0000,2850,"M.Rushing: Basic Service Fee - Studio: Rushing. Melba",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202055,30,83.0000,2490,"M.Rushing: Resident Care - Level 6: Rushing. Melba",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201304,B,3000.0000,
+INVOICE,IN,,08410175,,04/23/2013,3000.0000,"MoveIn-Hamson. Ellis",,04/23/2013,04/23/2013,,08414110,6875.0000,,,,,,,,,,
+TRANSACTION,3010,010306084,8,106.0000,848,"Basic Service Fee - Studio         : Hamson. Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306084,8,19.0000,152,"Resident Care - Level 1: Hamson. Ellis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306084,1,2000.0000,2000,"New Resident Fee: Hamson. Ellis",,,,,,,,,,,,,,,

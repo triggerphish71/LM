@@ -1,0 +1,7 @@
+BATCH,,201202,B,8366.0000,
+INVOICE,IN,,07310221,,02/18/2012,3204.0000,"Invoice-Private",,02/18/2012,02/18/2012,,07315465MO,-7496.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,18,110.0000,1980.00,"Basic Service Fee - Deluxe for Feb: Willhoff, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,18,68.0000,1224.00,"Resident Care - Level 4 for Feb: Willhoff, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,07310221,,02/18/2012,5162,"Invoice-Private",,02/18/2012,02/18/2012,,07315465MO,-7496.0000,,,,,,,,,,
+TRANSACTION,3020,010305073,1,3190,3190,"CR:Basic Service F... R.Willhoff 201202: Willhoff, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305073,1,1972,1972,"CR:Resident Care -... R.Willhoff 201202: Willhoff, Robert",,,,,,,,,,,,,,,

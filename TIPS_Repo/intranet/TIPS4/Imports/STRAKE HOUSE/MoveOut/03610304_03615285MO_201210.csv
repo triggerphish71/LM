@@ -1,0 +1,8 @@
+BATCH,,201210,B,7247.0000,
+INVOICE,IN,,03610304,,10/07/2012,1330.0000,"Invoice-Private",,10/07/2012,10/07/2012,,03615285MO,-4587.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,7,101.0000,707.00,"Basic Service Fee - Studio for Oct: Brand, Joettta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,7,89.0000,623.00,"Resident Care - Level 6 for Oct: Brand, Joettta",,,,,,,,,,,,,,,
+INVOICE,CM,,03610304,,10/07/2012,5917,"Invoice-Private",,10/07/2012,10/07/2012,,03615285MO,-4587.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... J.Brand 201210: Brand, Joettta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... J.Brand 201210: Brand, Joettta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,2759,2759,"CR:Resident Care -... J.Brand 201210: Brand, Joettta",,,,,,,,,,,,,,,

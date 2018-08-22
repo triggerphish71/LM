@@ -1,0 +1,5 @@
+BATCH,,201105,B,3497.9000,
+INVOICE,IN,,01210208,,05/01/2011,3497.9000,"May_Rent-Newell. Donna",,05/01/2011,05/10/2011,,01213592,5250.7000,,,,,,,,,,
+TRANSACTION,3010,010103012,31,83.0000,2573,"Basic Service Fee - Studio         : Newell. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,31,28.9000,895.9,"Resident Care - Level 17: Newell. Donna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Newell. Donna",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,5510.0000,
+INVOICE,IN,,12510167,,09/07/2012,1160.0000,"Invoice-Private",,09/07/2012,09/07/2012,,12514313MO,-3190.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,8,85.0000,680.00,"Basic Service Fee - Deluxe for Sep: Wilson, Al",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,8,60.0000,480.00,"Resident Care - Level 4 for Sep: Wilson, Al",,,,,,,,,,,,,,,
+INVOICE,CM,,12510167,,09/07/2012,4350,"Invoice-Private",,09/07/2012,09/07/2012,,12514313MO,-3190.0000,,,,,,,,,,
+TRANSACTION,3020,010211125,1,2550,2550,"CR:Basic Service F... A.Wilson 201209: Wilson, Al",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211125,1,1800,1800,"CR:Resident Care -... A.Wilson 201209: Wilson, Al",,,,,,,,,,,,,,,

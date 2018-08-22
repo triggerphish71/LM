@@ -1,0 +1,5 @@
+BATCH,,201207,B,82.0000,
+INVOICE,IN,,21210195,,07/01/2012,41.0000,"Invoice-Private",,07/01/2012,07/10/2012,,21212534MO,-1889.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Workman, Elinor",,,,,,,,,,,,,,,
+INVOICE,CM,,21210195,,07/01/2012,41,"Invoice-Private",,07/01/2012,07/10/2012,,21212534MO,-1889.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Workman, Elinor",,,,,,,,,,,,,,,

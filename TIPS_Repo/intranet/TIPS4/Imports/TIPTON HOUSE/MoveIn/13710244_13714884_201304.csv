@@ -1,0 +1,5 @@
+BATCH,,201304,B,3780.0000,
+INVOICE,IN,,13710244,,04/01/2013,3780.0000,"April_Rent-Colclesser. Constance",,04/01/2013,04/10/2013,,13714884,6560.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,30,90.0000,2700,"Basic Service Fee - Studio: Colclesser. Constance",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,30,35.0000,1050,"Resident Care - Level 2: Colclesser. Constance",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Colclesser. Constance",,,,,,,,,,,,,,,

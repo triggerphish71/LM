@@ -1,0 +1,8 @@
+BATCH,,201306,B,5437.0000,
+INVOICE,IN,,15510209,,06/01/2013,1452.0000,"Invoice-Private",,06/01/2013,06/10/2013,,15515853MO,-2533.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,11,116.0000,1276.00,"Basic Service Fee - One Bedroom for Jun: Podrasky, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,11,16.0000,176.00,"Resident Care - Level 1 for Jun: Podrasky, Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,15510209,,06/01/2013,3985,"Invoice-Private",,06/01/2013,06/10/2013,,15515853MO,-2533.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,3480,3480,"CR:Basic Service F... E.Podrasky 201306: Podrasky, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... E.Podrasky 201306: Podrasky, Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,480,480,"CR:Resident Care -... E.Podrasky 201306: Podrasky, Edward",,,,,,,,,,,,,,,

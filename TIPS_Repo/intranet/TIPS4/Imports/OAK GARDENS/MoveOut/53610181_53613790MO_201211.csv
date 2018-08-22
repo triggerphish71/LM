@@ -1,0 +1,7 @@
+BATCH,,201211,B,3905.0000,
+INVOICE,IN,,53610181,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53613790MO,-4647.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,1,60.0000,60.00,"CR:Limited Term Di... D.Rickstad 201211: Rickstad, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,53610181,,11/01/2012,3845,"Invoice-Private",,11/01/2012,11/10/2012,,53613790MO,-4647.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2940,2940,"CR:Basic Service F... D.Rickstad 201211: Rickstad, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... D.Rickstad 201211: Rickstad, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,870,870,"CR:Resident Care -... D.Rickstad 201211: Rickstad, Dale",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201306,B,70.0000,
+INVOICE,IN,,17410218,,06/01/2013,35.0000,"Invoice-Private",,06/01/2013,06/10/2013,,17414725MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3130,010309174,1,35.0000,35.00,"Pendant Fee: Fredericks, Vivian",,,,,,,,,,,,,,,
+INVOICE,CM,,17410218,,06/01/2013,35,"Invoice-Private",,06/01/2013,06/10/2013,,17414725MO,-5005.0000,,,,,,,,,,
+TRANSACTION,3130,010309174,1,35,35,"Credit for Pendant Fee: Fredericks, Vivian",,,,,,,,,,,,,,,

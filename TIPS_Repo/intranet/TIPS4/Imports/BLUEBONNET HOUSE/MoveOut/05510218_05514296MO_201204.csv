@@ -1,0 +1,7 @@
+BATCH,,201204,B,6478.0000,
+INVOICE,IN,,05510218,,04/01/2012,1738.0000,"Invoice-Private",,04/01/2012,04/10/2012,,05514296MO,-3002.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,11,95.0000,1045.00,"Basic Service Fee - Studio for Apr: Hill, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,11,63.0000,693.00,"Resident Care - Level 4 for Apr: Hill, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,05510218,,04/01/2012,4740,"Invoice-Private",,04/01/2012,04/10/2012,,05514296MO,-3002.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,2850,2850,"CR:Basic Service F... E.Hill 201204: Hill, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,1890,1890,"CR:Resident Care -... E.Hill 201204: Hill, Evelyn",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201110,B,5364.0000,
+INVOICE,IN,,07110138,,10/22/2011,2698.0000,"Invoice-Private",,10/22/2011,10/22/2011,,07114073MO,-1732.0000,,,,,,,,,,
+TRANSACTION,3320,010305071,1,806.0000,806.00,"CR:Limited Term Di... A.Vaughan 201110: Vaughan, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,22,86.0000,1892.00,"Room and Board - Studio for Oct: Vaughan, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,07110138,,10/22/2011,2666,"Invoice-Private",,10/22/2011,10/22/2011,,07114073MO,-1732.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,2666,2666,"CR:Room and Board ... A.Vaughan 201110: Vaughan, Anna",,,,,,,,,,,,,,,

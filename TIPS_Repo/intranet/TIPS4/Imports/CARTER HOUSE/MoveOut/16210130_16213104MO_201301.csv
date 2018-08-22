@@ -1,0 +1,8 @@
+BATCH,,201301,B,5235.0000,
+INVOICE,IN,,16210130,,01/01/2013,725.0000,"Invoice-Private",,01/01/2013,01/01/2013,,16213104MO,-3785.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,5,75.0000,375.00,"Basic Service Fee - Deluxe for Jan: Suverkrubbe, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,5,70.0000,350.00,"Resident Care - Level 5 for Jan: Suverkrubbe, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,16210130,,01/01/2013,4510,"Invoice-Private",,01/01/2013,01/01/2013,,16213104MO,-3785.0000,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2325,2325,"CR:Basic Service F... M.Suverkrubbe 201301: Suverkrubbe, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211162,1,15,15,"CR:Pendant Fee... M.Suverkrubbe 201301: Suverkrubbe, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211162,1,2170,2170,"CR:Resident Care -... M.Suverkrubbe 201301: Suverkrubbe, Marie",,,,,,,,,,,,,,,

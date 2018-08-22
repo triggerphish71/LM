@@ -1,0 +1,7 @@
+BATCH,,201212,B,4133.3100,
+INVOICE,IN,,51710138,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,51713153MO,-4009.3100,,,,,,,,,,
+TRANSACTION,3320,010103517,1,62.0000,62.00,"CR:Limited Term Di... B.Lorentzen 201212: Lorentzen, Bryce",,,,,,,,,,,,,,,
+INVOICE,CM,,51710138,,12/01/2012,4071.31,"Invoice-Private",,12/01/2012,12/10/2012,,51713153MO,-4009.3100,,,,,,,,,,
+TRANSACTION,3020,010103517,1,3007,3007,"CR:Basic Service F... B.Lorentzen 201212: Lorentzen, Bryce",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"CR:Pendant Fee... B.Lorentzen 201212: Lorentzen, Bryce",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,1054.31,1054.31,"CR:Resident Care -... B.Lorentzen 201212: Lorentzen, Bryce",,,,,,,,,,,,,,,

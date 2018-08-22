@@ -1,0 +1,5 @@
+BATCH,,201105,B,1973.0000,
+INVOICE,IN,,05810203,,05/20/2011,1973.0000,"MoveIn-Evans. Barbara",,05/20/2011,05/20/2011,,05813566,4368.0000,,,,,,,,,,
+TRANSACTION,3010,010202058,12,79.0000,948,"Basic Service Fee - Studio         : Evans. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25,"Monthly Cable: Evans. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000.0000,1000,"New Resident Fee: Evans. Barbara",,,,,,,,,,,,,,,

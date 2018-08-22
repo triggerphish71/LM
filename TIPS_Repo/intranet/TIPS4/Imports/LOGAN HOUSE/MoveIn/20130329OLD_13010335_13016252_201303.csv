@@ -1,0 +1,5 @@
+BATCH,,201303,B,1333.0000,
+INVOICE,IN,,13010335,,03/29/2013,1333.0000,"MoveIn-DiCello. Angelo",,03/29/2013,03/29/2013,,13016252,4420.0000,,,,,,,,,,
+TRANSACTION,3010,010310130,3,102.0000,306,"Basic Service Fee - Studio: DiCello. Angelo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310130,1,27.0000,27,"Monthly Cable: DiCello. Angelo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310130,1,1000.0000,1000,"New Resident Fee: DiCello. Angelo",,,,,,,,,,,,,,,

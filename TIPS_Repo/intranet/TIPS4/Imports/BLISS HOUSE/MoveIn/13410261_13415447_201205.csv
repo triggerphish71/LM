@@ -1,0 +1,5 @@
+BATCH,,201205,B,2967.0000,
+INVOICE,IN,,13410261,,05/11/2012,2967.0000,"MoveIn-Jones. Thomas",,05/11/2012,05/11/2012,,13415447,2967.0000,,,,,,,,,,
+TRANSACTION,3010,010309134,21,92.0000,1932,"Basic Service Fee - Studio: Jones. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35.0000,35,"Monthly Cable: Jones. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309134,1,1000.0000,1000,"New Resident Fee: Jones. Thomas",,,,,,,,,,,,,,,

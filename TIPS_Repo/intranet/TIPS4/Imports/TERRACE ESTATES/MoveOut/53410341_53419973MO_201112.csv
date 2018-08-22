@@ -1,0 +1,7 @@
+BATCH,,201112,B,246.0000,
+INVOICE,IN,,53410341,,12/01/2011,123.0000,"Invoice-Private",,12/01/2011,12/10/2011,,53419973MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3.0000,93.00,"Credit for Limited Term Discount: Manske, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30.0000,30.00,"Pendant Fee: Manske, Clifford",,,,,,,,,,,,,,,
+INVOICE,CM,,53410341,,12/01/2011,123,"Invoice-Private",,12/01/2011,12/10/2011,,53419973MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010319534,31,3,93,"Limited Term Discount: Manske, Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"Credit for Pendant Fee: Manske, Clifford",,,,,,,,,,,,,,,

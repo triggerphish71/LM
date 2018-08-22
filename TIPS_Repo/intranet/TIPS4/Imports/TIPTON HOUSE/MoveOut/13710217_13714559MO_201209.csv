@@ -1,0 +1,7 @@
+BATCH,,201209,B,540.0000,
+INVOICE,IN,,13710217,,09/01/2012,270.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13714559MO,-2444.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,30,8.0000,240.00,"Credit for Limited Term Discount: Augspurger, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30.00,"Monthly Cable: Augspurger, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,13710217,,09/01/2012,270,"Invoice-Private",,09/01/2012,09/10/2012,,13714559MO,-2444.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,30,8,240,"Limited Term Discount: Augspurger, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"Credit for Monthly Cable: Augspurger, Richard",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201111,B,54.0000,
+INVOICE,IN,,16510172,,11/01/2011,27.0000,"Invoice-Private",,11/01/2011,11/10/2011,,16513941MO,-3109.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27.00,"Monthly Cable: Herring, Jeanne",,,,,,,,,,,,,,,
+INVOICE,CM,,16510172,,11/01/2011,27,"Invoice-Private",,11/01/2011,11/10/2011,,16513941MO,-3109.0000,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"Credit for Monthly Cable: Herring, Jeanne",,,,,,,,,,,,,,,

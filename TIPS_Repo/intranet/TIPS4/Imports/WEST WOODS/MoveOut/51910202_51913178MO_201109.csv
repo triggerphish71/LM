@@ -1,0 +1,7 @@
+BATCH,,201109,B,1460.0000,
+INVOICE,IN,,51910202,,09/01/2011,730.0000,"Invoice-Private",,09/01/2011,09/10/2011,,51913178MO,-1809.4000,,,,,,,,,,
+TRANSACTION,3320,010103519,30,24.0000,720.00,"Credit for Limited Term Discount: Myers, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103519,1,10.0000,10.00,"Pendant Fee: Myers, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,51910202,,09/01/2011,730,"Invoice-Private",,09/01/2011,09/10/2011,,51913178MO,-1809.4000,,,,,,,,,,
+TRANSACTION,3320,010103519,30,24,720,"Limited Term Discount: Myers, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103519,1,10,10,"Credit for Pendant Fee: Myers, Evelyn",,,,,,,,,,,,,,,

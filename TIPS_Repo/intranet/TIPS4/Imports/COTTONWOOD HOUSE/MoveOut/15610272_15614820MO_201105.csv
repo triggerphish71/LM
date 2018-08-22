@@ -1,0 +1,8 @@
+BATCH,,201105,B,7700.0000,
+INVOICE,IN,,15610272,,05/19/2011,1710.0000,"Invoice-Private",,05/19/2011,05/19/2011,,15614820MO,-9980.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,9,107.0000,963.00,"Basic Service Fee - One Bedroom for May: Olmer, Mariette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,9,83.0000,747.00,"Resident Care - Level 6 for May: Olmer, Mariette",,,,,,,,,,,,,,,
+INVOICE,CM,,15610272,,05/19/2011,5990,"Invoice-Private",,05/19/2011,05/19/2011,,15614820MO,-9980.0000,,,,,,,,,,
+TRANSACTION,3020,010211156,1,2247,2247,"CR:Basic Service F... M.Olmer 201105: Olmer, Mariette",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211156,1,2000,2000,"CR:New Resident Fe... M.Olmer 201105: Olmer, Mariette",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211156,1,1743,1743,"CR:Resident Care -... M.Olmer 201105: Olmer, Mariette",,,,,,,,,,,,,,,

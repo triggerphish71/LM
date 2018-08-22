@@ -1,0 +1,7 @@
+BATCH,,201203,B,1920.0000,
+INVOICE,IN,,14910176,,03/01/2012,960.0000,"Invoice-Private",,03/01/2012,03/10/2012,,14914553MO,-3423.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Wessell, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,31,30.0000,930.00,"Credit for Limited Term Discount: Wessell, Gladys",,,,,,,,,,,,,,,
+INVOICE,CM,,14910176,,03/01/2012,960,"Invoice-Private",,03/01/2012,03/10/2012,,14914553MO,-3423.0000,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Wessell, Gladys",,,,,,,,,,,,,,,
+TRANSACTION,3320,010212149,31,30,930,"Limited Term Discount: Wessell, Gladys",,,,,,,,,,,,,,,

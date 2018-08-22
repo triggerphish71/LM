@@ -1,0 +1,5 @@
+BATCH,,201205,B,1178.0000,
+INVOICE,IN,,05310239,,05/01/2012,589.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05314506MO,-518.0000,,,,,,,,,,
+TRANSACTION,3320,010101053,31,19.0000,589.00,"Credit for Limited Term Discount: Johnson, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,05310239,,05/01/2012,589,"Invoice-Private",,05/01/2012,05/10/2012,,05314506MO,-518.0000,,,,,,,,,,
+TRANSACTION,3320,010101053,31,19,589,"Limited Term Discount: Johnson, Muriel",,,,,,,,,,,,,,,

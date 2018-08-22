@@ -1,0 +1,7 @@
+BATCH,,201110,B,556.0000,
+INVOICE,IN,,19810003,,10/01/2011,278.0000,"Invoice-Private",,10/01/2011,10/10/2011,,19816484MO,-4372.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30.0000,30.00,"Monthly Cable: Noel, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,31,8.0000,248.00,"Credit for Limited Term Discount: Noel, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,19810003,,10/01/2011,278,"Invoice-Private",,10/01/2011,10/10/2011,,19816484MO,-4372.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"Credit for Monthly Cable: Noel, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3320,010112198,31,8,248,"Limited Term Discount: Noel, Florence",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201301,B,9225.0000,
+INVOICE,IN,,07210143,,01/17/2013,3428.0000,"Invoice-Private",,01/17/2013,01/17/2013,,07214292MO,-7549.0000,,,,,,,,,,
+TRANSACTION,3320,010305072,1,62.0000,62.00,"CR:Limited Term Di... M.Zoeller 201301: Zoeller, Margaret Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305072,18,125.0000,2250.00,"Basic Service Fee - One Bedroom for Jan: Zoeller, Margaret Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,18,62.0000,1116.00,"Resident Care - Level 4 for Jan: Zoeller, Margaret Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,07210143,,01/17/2013,5797,"Invoice-Private",,01/17/2013,01/17/2013,,07214292MO,-7549.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,3875,3875,"CR:Basic Service F... M.Zoeller 201301: Zoeller, Margaret Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,1922,1922,"CR:Resident Care -... M.Zoeller 201301: Zoeller, Margaret Marie",,,,,,,,,,,,,,,

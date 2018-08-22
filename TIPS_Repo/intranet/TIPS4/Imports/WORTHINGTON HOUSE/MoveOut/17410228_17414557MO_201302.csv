@@ -1,0 +1,5 @@
+BATCH,,201302,B,1960.0000,
+INVOICE,IN,,17410228,,02/01/2013,980.0000,"Invoice-Private",,02/01/2013,02/10/2013,,17414557MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,28,35.0000,980.00,"Credit for Limited Term Discount: Haynes, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,17410228,,02/01/2013,980,"Invoice-Private",,02/01/2013,02/10/2013,,17414557MO,-3158.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,28,35,980,"Limited Term Discount: Haynes, Betty",,,,,,,,,,,,,,,

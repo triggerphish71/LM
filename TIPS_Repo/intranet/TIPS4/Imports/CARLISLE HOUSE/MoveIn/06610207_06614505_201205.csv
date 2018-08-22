@@ -1,0 +1,5 @@
+BATCH,,201205,B,4914.0000,
+INVOICE,IN,,06610207,,05/04/2012,4914.0000,"MoveIn-Esterline. Salome",,05/04/2012,05/04/2012,,06614505,4914.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,28,96.0000,2688,"Basic Service Fee - Studio: Esterline. Salome",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,28,17.0000,476,"Resident Care - Level 1: Esterline. Salome",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Esterline. Salome",,,,,,,,,,,,,,,

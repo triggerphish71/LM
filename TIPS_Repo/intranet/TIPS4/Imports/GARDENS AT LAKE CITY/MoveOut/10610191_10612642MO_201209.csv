@@ -1,0 +1,7 @@
+BATCH,,201209,B,2290.0000,
+INVOICE,IN,,10610191,,09/01/2012,1145.0000,"Invoice-Private",,09/01/2012,09/10/2012,,10612642MO,-628.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35.0000,35.00,"Monthly Cable: Diemer, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309106,30,37.0000,1110.00,"Credit for Limited Term Discount: Diemer, Michael",,,,,,,,,,,,,,,
+INVOICE,CM,,10610191,,09/01/2012,1145,"Invoice-Private",,09/01/2012,09/10/2012,,10612642MO,-628.0000,,,,,,,,,,
+TRANSACTION,3260,010309106,1,35,35,"Credit for Monthly Cable: Diemer, Michael",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309106,30,37,1110,"Limited Term Discount: Diemer, Michael",,,,,,,,,,,,,,,

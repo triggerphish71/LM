@@ -1,0 +1,7 @@
+BATCH,,201107,B,5655.0000,
+INVOICE,IN,,09110179,,07/08/2011,1160.0000,"Invoice-Private",,07/08/2011,07/08/2011,,09114756MO,-3335.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,8,65.0000,520.00,"Resident Care - Level 4 for Jul: Marlatt, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,8,80.0000,640.00,"Room and Board - Studio for Jul: Marlatt, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,09110179,,07/08/2011,4495,"Invoice-Private",,07/08/2011,07/08/2011,,09114756MO,-3335.0000,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2015,2015,"CR:Resident Care -... D.Marlatt 201107: Marlatt, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2480,2480,"CR:Room and Board ... D.Marlatt 201107: Marlatt, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,2885.1200,
+INVOICE,IN,,00910173,,09/02/2012,180.3200,"Invoice-Private",,09/02/2012,09/02/2012,,00913744MO,-2524.4800,,,,,,,,,,
+TRANSACTION,3020,010101009,2,83.0000,166.00,"Basic Service Fee - Studio for Sep: Trantow, Terry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,2,7.1600,14.32,"Resident Care - Level 4 for Sep: Trantow, Terry",,,,,,,,,,,,,,,
+INVOICE,CM,,00910173,,09/02/2012,2704.8,"Invoice-Private",,09/02/2012,09/02/2012,,00913744MO,-2524.4800,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2490,2490,"CR:Basic Service F... T.Trantow 201209: Trantow, Terry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,1,214.8,214.8,"CR:Resident Care -... T.Trantow 201209: Trantow, Terry",,,,,,,,,,,,,,,

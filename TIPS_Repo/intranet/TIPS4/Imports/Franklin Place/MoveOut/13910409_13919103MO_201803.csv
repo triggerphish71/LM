@@ -1,0 +1,8 @@
+BATCH,,201803,B,4844.4000,
+INVOICE,IN,,13910409,,03/01/2018,182.0000,"Invoice-Private",,03/01/2018,03/01/2018,,13919103MO,-4480.4000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,63.0000,63.00,"Basic Service Fee - Studio  for Mar: Suzuki, Terrie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,87.4000,87.40,"Resident Care - Level 38  for Mar: Suzuki, Terrie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010003139,1,31.6000,31.60,"Monthly Cable: Suzuki, Terrie",,,,,,,,,,,,,,,
+INVOICE,CM,,13910409,,03/01/2018,4662.4,"Invoice-Private",,03/01/2018,03/01/2018,,13919103MO,-4480.4000,,,,,,,,,,
+TRANSACTION,3020,010003139,1,1953,1953,"CR:Basic Service F... T.Suzuki 201803: Suzuki, Terrie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,2709.4,2709.4,"CR:Resident Care -... T.Suzuki 201803: Suzuki, Terrie",,,,,,,,,,,,,,,

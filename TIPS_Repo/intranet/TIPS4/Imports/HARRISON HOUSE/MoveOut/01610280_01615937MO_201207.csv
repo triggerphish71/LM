@@ -1,0 +1,7 @@
+BATCH,,201207,B,3296.0000,
+INVOICE,IN,,01610280,,07/01/2012,103.0000,"Invoice-Private",,07/01/2012,07/01/2012,,01615937MO,-3090.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,86.0000,86.00,"Basic Service Fee - Studio for Jul: Guthrie, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,17.0000,17.00,"Resident Care - Level 1 for Jul: Guthrie, George",,,,,,,,,,,,,,,
+INVOICE,CM,,01610280,,07/01/2012,3193,"Invoice-Private",,07/01/2012,07/01/2012,,01615937MO,-3090.0000,,,,,,,,,,
+TRANSACTION,3020,010202016,1,2666,2666,"CR:Basic Service F... G.Guthrie 201207: Guthrie, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202016,1,527,527,"CR:Resident Care -... G.Guthrie 201207: Guthrie, George",,,,,,,,,,,,,,,

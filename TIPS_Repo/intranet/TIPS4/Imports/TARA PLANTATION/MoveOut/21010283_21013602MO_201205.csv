@@ -1,0 +1,8 @@
+BATCH,,201205,B,6275.0000,
+INVOICE,IN,,21010283,,05/01/2012,2375.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21013602MO,-1525.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,19,31.0000,589.00,"Resident Care - Level 3 for May: Foster, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,19,94.0000,1786.00,"Studio for May: Foster, Eleanor",,,,,,,,,,,,,,,
+INVOICE,CM,,21010283,,05/01/2012,3900,"Invoice-Private",,05/01/2012,05/10/2012,,21013602MO,-1525.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... E.Foster 201205: Foster, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,961,961,"CR:Resident Care -... E.Foster 201205: Foster, Eleanor",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... E.Foster 201205: Foster, Eleanor",,,,,,,,,,,,,,,

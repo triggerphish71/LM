@@ -1,0 +1,6 @@
+BATCH,,201203,B,3600.0000,
+INVOICE,IN,,13910265,,03/04/2012,408.0000,"Invoice-Private",,03/04/2012,03/04/2012,,13916098MO,-2784.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,4,102.0000,408.00,"Basic Service Fee - Studio for Mar: Macon, John",,,,,,,,,,,,,,,
+INVOICE,CM,,13910265,,03/04/2012,3192,"Invoice-Private",,03/04/2012,03/04/2012,,13916098MO,-2784.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,3162,3162,"CR:Basic Service F... J.Macon 201203: Macon, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... J.Macon 201203: Macon, John",,,,,,,,,,,,,,,

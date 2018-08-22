@@ -1,0 +1,5 @@
+BATCH,,201112,B,3572.0000,
+INVOICE,IN,,21010266,,12/01/2011,658.0000,"Invoice-Private",,12/01/2011,12/10/2011,,21013318MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010216210,7,94.0000,658.00,"Room and Board - Studio for Dec: Winchester, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,21010266,,12/01/2011,2914,"Invoice-Private",,12/01/2011,12/10/2011,,21013318MO,-2256.0000,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Room and Board ... V.Winchester 201112: Winchester, Virginia",,,,,,,,,,,,,,,

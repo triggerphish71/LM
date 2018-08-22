@@ -1,0 +1,6 @@
+BATCH,,201212,B,5264.0000,
+INVOICE,IN,,53010142,,12/01/2012,2102.0000,"Invoice-Private",,12/01/2012,12/01/2012,,53016564MO,-1060.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,62.0000,62.00,"CR:Limited Term Di... C.Benson 201212: Benson, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319530,20,102.0000,2040.00,"Basic Service Fee - One Bedroom for Dec: Benson, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,53010142,,12/01/2012,3162,"Invoice-Private",,12/01/2012,12/01/2012,,53016564MO,-1060.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,3162,3162,"CR:Basic Service F... C.Benson 201212: Benson, Catherine",,,,,,,,,,,,,,,

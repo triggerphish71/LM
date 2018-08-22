@@ -1,0 +1,7 @@
+BATCH,,201201,B,6390.0000,
+INVOICE,IN,,1160994,,01/10/2012,1988.0000,"Invoice-Private",,01/10/2012,01/10/2012,,11614914MO,-2414.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,14,124.0000,1736.00,"Basic Service Fee - One Bedroom for Jan: Leiske, Hannagret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,14,18.0000,252.00,"Resident Care - Level 1 for Jan: Leiske, Hannagret",,,,,,,,,,,,,,,
+INVOICE,CM,,1160994,,01/10/2012,4402,"Invoice-Private",,01/10/2012,01/10/2012,,11614914MO,-2414.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3844,3844,"CR:Basic Service F... H.Leiske 201201: Leiske, Hannagret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,558,558,"CR:Resident Care -... H.Leiske 201201: Leiske, Hannagret",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,4118.0300,
+INVOICE,IN,,00310172,,02/01/2012,4118.0300,"February_Rent-Bostwick. Jim",,02/01/2012,02/10/2012,,00314169,7120.0100,,,,,,,,,,
+TRANSACTION,3010,010101003,29,82.0000,2378,"Basic Service Fee - Studio: Bostwick. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101003,29,59.0700,1713.03,"Resident Care - Level 33: Bostwick. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101003,1,27.0000,27,"Monthly Cable: Bostwick. Jim",,,,,,,,,,,,,,,

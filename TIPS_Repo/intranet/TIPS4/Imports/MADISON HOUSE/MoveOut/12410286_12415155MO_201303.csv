@@ -1,0 +1,7 @@
+BATCH,,201303,B,194.0000,
+INVOICE,IN,,12410286,,03/01/2013,97.0000,"Invoice-Private",,03/01/2013,03/10/2013,,12415155MO,-7378.0000,,,,,,,,,,
+TRANSACTION,3320,010211124,31,2.0000,62.00,"Credit for Limited Term Discount: Kimes, Dean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35.0000,35.00,"Monthly Cable: Kimes, Dean",,,,,,,,,,,,,,,
+INVOICE,CM,,12410286,,03/01/2013,97,"Invoice-Private",,03/01/2013,03/10/2013,,12415155MO,-7378.0000,,,,,,,,,,
+TRANSACTION,3320,010211124,31,2,62,"Limited Term Discount: Kimes, Dean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"Credit for Monthly Cable: Kimes, Dean",,,,,,,,,,,,,,,

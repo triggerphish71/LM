@@ -1,0 +1,6 @@
+BATCH,,201301,B,2616.0000,
+INVOICE,IN,,04110257,,01/21/2013,2616.0000,"MoveIn-Long. Bonnie",,01/21/2013,01/21/2013,,04114748,5415.0000,,,,,,,,,,
+TRANSACTION,3010,010202041,11,82.0000,902,"B.Long: Basic Service Fee - Studio: Long. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202041,11,17.0000,187,"B.Long: Resident Care - Level 1: Long. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202041,1,27.0000,27,"Monthly Cable: Long. Bonnie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202041,1,1500.0000,1500,"New Resident Fee: Long. Bonnie",,,,,,,,,,,,,,,

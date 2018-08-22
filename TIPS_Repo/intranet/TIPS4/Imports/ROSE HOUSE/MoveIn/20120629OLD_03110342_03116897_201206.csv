@@ -1,0 +1,6 @@
+BATCH,,201206,B,1286.0000,
+INVOICE,IN,,03110342,,06/28/2012,1286.0000,"MoveIn-Rees. Sherwood",,06/28/2012,06/28/2012,,03116897,5281.0000,,,,,,,,,,
+TRANSACTION,3010,010202031,3,99.0000,297,"S.Rees: Basic Service Fee - Studio: Rees. Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202031,3,29.0000,87,"S.Rees: Resident Care - Level 2: Rees. Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27,"Monthly Cable: Rees. Sherwood",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202031,1,875.0000,875,"New Resident Fee: Rees. Sherwood",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201803,B,5553.8000,
+INVOICE,IN,,15310276,,03/08/2018,1130.1000,"Invoice-Private",,03/08/2018,03/08/2018,,15318745MO,-1293.6000,,,,,,,,,,
+TRANSACTION,3017,010003153,3,20.7000,62.10,"Level Care:  9  - 2018-03-04: Pratt, Clar",,,,,,,,,,,,,,,
+TRANSACTION,3017,010003153,2,46.0000,92.00,"Level Care:  20  - 2018-03-06: Pratt, Clar",,,,,,,,,,,,,,,
+TRANSACTION,3020,010003153,8,122.0000,976.00,"Basic Service Fee - Studio  for Mar: Pratt, Clar",,,,,,,,,,,,,,,
+INVOICE,CM,,15310276,,03/08/2018,4423.7,"Invoice-Private",,03/08/2018,03/08/2018,,15318745MO,-1293.6000,,,,,,,,,,
+TRANSACTION,3020,010003153,1,3782,3782,"CR:Basic Service F... C.Pratt 201803: Pratt, Clar",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003153,1,641.7,641.7,"CR:Resident Care -... C.Pratt 201803: Pratt, Clar",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201108,B,2661.0000,
+INVOICE,IN,,13510272,,08/19/2011,2661.0000,"MoveIn-Aaron. John",,08/19/2011,08/19/2011,,13514809,5301.0000,,,,,,,,,,
+TRANSACTION,3010,010309135,13,87.0000,1131,"Basic Service Fee - Studio         : Aaron. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309135,1,30.0000,30,"Monthly Cable: Aaron. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309135,1,1500.0000,1500,"New Resident Fee: Aaron. John",,,,,,,,,,,,,,,

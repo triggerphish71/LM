@@ -1,0 +1,5 @@
+BATCH,,201104,B,2820.0000,
+INVOICE,IN,,08910173,,04/27/2011,2820.0000,"MoveIn-Foster. Helen",,04/27/2011,04/27/2011,,08914258,7625.0000,,,,,,,,,,
+TRANSACTION,3010,010306089,4,106.0000,424,"Basic Service Fee - Studio         : Foster. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010306089,4,49.0000,196,"Resident Care - Level 3: Foster. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010306089,1,2200.0000,2200,"New Resident Fee: Foster. Helen",,,,,,,,,,,,,,,

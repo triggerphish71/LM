@@ -1,0 +1,5 @@
+BATCH,,201202,B,40.0000,
+INVOICE,IN,,53110156,,02/01/2012,20.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53113947MO,-5786.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20.0000,20.00,"Pendant Fee: Johnson, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,53110156,,02/01/2012,20,"Invoice-Private",,02/01/2012,02/10/2012,,53113947MO,-5786.0000,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"Credit for Pendant Fee: Johnson, Robert",,,,,,,,,,,,,,,

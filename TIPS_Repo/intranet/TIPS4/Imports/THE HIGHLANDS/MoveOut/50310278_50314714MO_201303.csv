@@ -1,0 +1,7 @@
+BATCH,,201303,B,1000.0000,
+INVOICE,IN,,50310278,,03/01/2013,500.0000,"Invoice-Private",,03/01/2013,03/10/2013,,50314714MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35.00,"Monthly Cable: Mullins, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010220503,31,15.0000,465.00,"Credit for Limited Term Discount: Mullins, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,50310278,,03/01/2013,500,"Invoice-Private",,03/01/2013,03/10/2013,,50314714MO,-3185.0000,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"Credit for Monthly Cable: Mullins, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010220503,31,15,465,"Limited Term Discount: Mullins, Minnie",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201303,B,4100.0000,
+INVOICE,IN,,14510343,,03/22/2013,992.0000,"Invoice-Private",,03/22/2013,03/22/2013,,14515917MO,-5836.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,8,124.0000,992.00,"C.Gray: Basic Service Fee - One Bedroom for Mar: Gray, Caroline",,,,,,,,,,,,,,,
+INVOICE,CM,,14510343,,03/22/2013,3108,"Invoice-Private",,03/22/2013,03/22/2013,,14515917MO,-5836.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2108,2108,"CR:C.Gray: Basic S... C.Gray 201303: Gray, Caroline",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308145,1,1000,1000,"CR:New Resident Fe... C.Gray 201303: Gray, Caroline",,,,,,,,,,,,,,,

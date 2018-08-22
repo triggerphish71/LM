@@ -1,0 +1,5 @@
+BATCH,,201210,B,5568.0000,
+INVOICE,IN,,15810308,,10/17/2012,1972.0000,"Invoice-Private",,10/17/2012,10/17/2012,,15814762MO,-5104.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,17,116.0000,1972.00,"Basic Service Fee - One Bedroom for Oct: Barber, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,15810308,,10/17/2012,3596,"Invoice-Private",,10/17/2012,10/17/2012,,15814762MO,-5104.0000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,3596,3596,"CR:Basic Service F... P.Barber 201210: Barber, Patricia",,,,,,,,,,,,,,,

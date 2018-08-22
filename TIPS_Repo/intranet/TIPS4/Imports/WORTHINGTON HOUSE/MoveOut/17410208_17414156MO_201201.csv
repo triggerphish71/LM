@@ -1,0 +1,7 @@
+BATCH,,201201,B,6549.0000,
+INVOICE,IN,,17410208,,01/27/2012,3108.0000,"Invoice-Private",,01/27/2012,01/27/2012,,17414156MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,28,95.0000,2660.00,"Basic Service Fee - Studio for Jan: Cline, Camellia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,28,16.0000,448.00,"Resident Care - Level 1 for Jan: Cline, Camellia",,,,,,,,,,,,,,,
+INVOICE,CM,,17410208,,01/27/2012,3441,"Invoice-Private",,01/27/2012,01/27/2012,,17414156MO,-3552.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... C.Cline 201201: Cline, Camellia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,496,496,"CR:Resident Care -... C.Cline 201201: Cline, Camellia",,,,,,,,,,,,,,,

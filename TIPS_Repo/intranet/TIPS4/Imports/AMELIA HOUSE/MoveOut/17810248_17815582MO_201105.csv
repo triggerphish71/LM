@@ -1,0 +1,8 @@
+BATCH,,201105,B,7091.0000,
+INVOICE,IN,,17810248,,05/11/2011,1848.0000,"Invoice-Private",,05/11/2011,05/11/2011,,17815582MO,-3395.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,11,84.0000,924.00,"Basic Service Fee - Studio for May: Eilts, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,11,84.0000,924.00,"Swan Personal Care - L6 for May: Eilts, Ervin",,,,,,,,,,,,,,,
+INVOICE,CM,,17810248,,05/11/2011,5243,"Invoice-Private",,05/11/2011,05/11/2011,,17815582MO,-3395.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2604,2604,"CR:Basic Service F... E.Eilts 201105: Eilts, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... E.Eilts 201105: Eilts, Ervin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,2604,2604,"CR:Swan Personal C... E.Eilts 201105: Eilts, Ervin",,,,,,,,,,,,,,,

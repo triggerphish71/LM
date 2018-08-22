@@ -1,0 +1,6 @@
+BATCH,,201202,B,4405.0000,
+INVOICE,IN,,02910296,,02/10/2012,4405.0000,"MoveIn-Harlon. Meridith",,02/10/2012,02/10/2012,,02915444,4405.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,20,100.0000,2000,"M.Harlon: Basic Service Fee - Studio: Harlon. Meridith",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,20,44.0000,880,"M.Harlon: Resident Care - Level 3: Harlon. Meridith",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Harlon. Meridith",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Harlon. Meridith",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201201,B,3033.0000,
+INVOICE,IN,,03810227,,01/20/2012,3033.0000,"MoveIn-Jones. David",,01/20/2012,01/20/2012,,03814109,5494.0000,,,,,,,,,,
+TRANSACTION,3010,010103038,12,84.0000,1008,"Basic Service Fee - Studio: Jones. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Jones. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Jones. David",,,,,,,,,,,,,,,

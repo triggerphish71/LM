@@ -1,0 +1,8 @@
+BATCH,,201803,B,8333.0000,
+INVOICE,IN,,05810343,,03/21/2018,3094.0000,"Invoice-Private",,03/21/2018,03/21/2018,,05816810MO,-7215.0000,,,,,,,,,,
+TRANSACTION,3017,010002058,8,55.0000,440.00,"Level Care:  3  - 2018-03-09: Hardcastle, Marita",,,,,,,,,,,,,,,
+TRANSACTION,3017,010002058,13,20.0000,260.00," Level Care:  1 : Hardcastle, Marita",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002058,21,114.0000,2394.00,"Basic Service Fee - One Bedroom  for Mar: Hardcastle, Marita",,,,,,,,,,,,,,,
+INVOICE,CM,,05810343,,03/21/2018,5239,"Invoice-Private",,03/21/2018,03/21/2018,,05816810MO,-7215.0000,,,,,,,,,,
+TRANSACTION,3020,010002058,1,3534,3534,"CR:Basic Service F... M.Hardcastle 201803: Hardcastle, Marita",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002058,1,1705,1705,"CR:Resident Care -... M.Hardcastle 201803: Hardcastle, Marita",,,,,,,,,,,,,,,

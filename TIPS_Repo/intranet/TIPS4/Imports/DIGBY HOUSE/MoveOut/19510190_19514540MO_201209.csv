@@ -1,0 +1,7 @@
+BATCH,,201209,B,7332.0000,
+INVOICE,IN,,19510190,,09/01/2012,3102.0000,"Invoice-Private",,09/01/2012,09/10/2012,,19514540MO,-1128.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,22,94.0000,2068.00,"Basic Service Fee - Studio for Sep: Chapman, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,22,47.0000,1034.00,"Resident Care - Level 3 for Sep: Chapman, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,19510190,,09/01/2012,4230,"Invoice-Private",,09/01/2012,09/10/2012,,19514540MO,-1128.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2820,2820,"CR:Basic Service F... E.Chapman 201209: Chapman, Edith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309195,1,1410,1410,"CR:Resident Care -... E.Chapman 201209: Chapman, Edith",,,,,,,,,,,,,,,

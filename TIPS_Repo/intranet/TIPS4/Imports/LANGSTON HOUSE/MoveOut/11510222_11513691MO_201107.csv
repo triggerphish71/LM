@@ -1,0 +1,5 @@
+BATCH,,201107,B,56.0000,
+INVOICE,IN,,11510222,,07/01/2011,28.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11513691MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Godfrey, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,11510222,,07/01/2011,28,"Invoice-Private",,07/01/2011,07/10/2011,,11513691MO,-1920.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Godfrey, Clara",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201109,B,4645.0000,
+INVOICE,IN,,02010215,,09/01/2011,1470.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02014278MO,-1705.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,14,91.0000,1274.00,"Basic Service Fee - Studio for Sep: Tracy, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,14,14.0000,196.00,"Resident Care - Level 1 for Sep: Tracy, Inez",,,,,,,,,,,,,,,
+INVOICE,CM,,02010215,,09/01/2011,3175,"Invoice-Private",,09/01/2011,09/10/2011,,02014278MO,-1705.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2730,2730,"CR:Basic Service F... I.Tracy 201109: Tracy, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... I.Tracy 201109: Tracy, Inez",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202020,1,420,420,"CR:Resident Care -... I.Tracy 201109: Tracy, Inez",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201205,B,2239.4200,
+INVOICE,IN,,01110287,,05/18/2012,2239.4200,"MoveIn-Tennent. John",,05/18/2012,05/18/2012,,01113866,4895.3200,,,,,,,,,,
+TRANSACTION,3010,010101011,14,76.0000,1064,"Basic Service Fee - Studio: Tennent. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101011,14,12.5300,175.42,"Resident Care - Level 7: Tennent. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101011,1,1000.0000,1000,"New Resident Fee: Tennent. John",,,,,,,,,,,,,,,

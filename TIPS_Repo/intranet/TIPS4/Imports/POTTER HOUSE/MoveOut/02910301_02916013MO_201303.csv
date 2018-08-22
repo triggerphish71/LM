@@ -1,0 +1,5 @@
+BATCH,,201303,B,2420.0000,
+INVOICE,IN,,02910301,,03/01/2013,715.0000,"Invoice-Private",,03/01/2013,03/10/2013,,02916013MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,13,55.0000,715.00,"Basic Service Fee - Studio for Mar: Goodnow, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,02910301,,03/01/2013,1705,"Invoice-Private",,03/01/2013,03/10/2013,,02916013MO,-990.0000,,,,,,,,,,
+TRANSACTION,3020,010202029,1,1705,1705,"CR:Basic Service F... B.Goodnow 201303: Goodnow, Bob",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201201,B,4851.0000,
+INVOICE,IN,,53510206,,01/06/2012,4851.0000,"MoveIn-Richter. Anton",,01/06/2012,01/06/2012,,53514299,4851.0000,,,,,,,,,,
+TRANSACTION,3010,010319535,26,101.0000,2626,"Basic Service Fee - One Bedroom Del: Richter. Anton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25.0000,25,"Monthly Cable: Richter. Anton",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000.0000,2000,"New Resident Fee: Richter. Anton",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319535,1,200.0000,200,"Pendant Fee: Richter. Anton",,,,,,,,,,,,,,,

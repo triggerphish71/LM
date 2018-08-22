@@ -1,0 +1,6 @@
+BATCH,,201307,B,3565.0000,
+INVOICE,IN,,04410286,,07/01/2013,496.0000,"Invoice-Private",,07/01/2013,07/10/2013,,04415150MO,-3081.0000,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496.0000,496.00,"CR:Resident Care L... H.Helmer 201307: Helmer, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,04410286,,07/01/2013,3069,"Invoice-Private",,07/01/2013,07/10/2013,,04415150MO,-3081.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,1705,1705,"CR:Basic Service F... H.Helmer 201307: Helmer, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,1364,1364,"CR:Resident Care -... H.Helmer 201307: Helmer, Henry",,,,,,,,,,,,,,,

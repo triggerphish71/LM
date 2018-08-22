@@ -1,0 +1,5 @@
+BATCH,,201207,B,54.0000,
+INVOICE,IN,,17110252,,07/01/2012,27.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17115154MO,-2775.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Parsons, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,17110252,,07/01/2012,27,"Invoice-Private",,07/01/2012,07/10/2012,,17115154MO,-2775.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Parsons, Ruby",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,2655.0000,
+INVOICE,IN,,50910096,,09/15/2011,885.0000,"Invoice-Private",,09/15/2011,09/15/2011,,50912744MO,-885.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,15,59.0000,885.00,"Basic Service Fee - One Bedroom for Sep: Johnson, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,50910096,,09/15/2011,1770,"Invoice-Private",,09/15/2011,09/15/2011,,50912744MO,-885.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1770,1770,"CR:Basic Service F... F.Johnson 201109: Johnson, Frances",,,,,,,,,,,,,,,

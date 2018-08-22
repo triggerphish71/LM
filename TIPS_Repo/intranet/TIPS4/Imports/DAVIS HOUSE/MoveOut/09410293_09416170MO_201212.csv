@@ -1,0 +1,5 @@
+BATCH,,201212,B,1681.2000,
+INVOICE,IN,,09410293,,12/01/2012,840.6000,"Invoice-Private",,12/01/2012,12/10/2012,,09416170MO,-3840.0000,,,,,,,,,,
+TRANSACTION,3210,010107094,1,840.6000,840.60,"Personal Services: Jennings, John",,,,,,,,,,,,,,,
+INVOICE,CM,,09410293,,12/01/2012,840.6,"Invoice-Private",,12/01/2012,12/10/2012,,09416170MO,-3840.0000,,,,,,,,,,
+TRANSACTION,3210,010107094,1,840.6,840.6,"Credit for Personal Services: Jennings, John",,,,,,,,,,,,,,,

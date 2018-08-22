@@ -1,0 +1,7 @@
+BATCH,,201302,B,808.0000,
+INVOICE,IN,,11810018,,02/01/2013,404.0000,"Invoice-Private",,02/01/2013,02/10/2013,,11815672MO,-3336.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40.0000,40.00,"Monthly Cable: Lydic, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310118,28,13.0000,364.00,"Credit for Limited Term Discount: Lydic, Imogene",,,,,,,,,,,,,,,
+INVOICE,CM,,11810018,,02/01/2013,404,"Invoice-Private",,02/01/2013,02/10/2013,,11815672MO,-3336.0000,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"Credit for Monthly Cable: Lydic, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010310118,28,13,364,"Limited Term Discount: Lydic, Imogene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,3316.0000,
+INVOICE,IN,,05810206,,09/02/2011,3316.0000,"MoveIn-Roberson. Laura",,09/02/2011,09/02/2011,,05813647,3316.0000,,,,,,,,,,
+TRANSACTION,3010,010202058,29,79.0000,2291,"Basic Service Fee - Studio         : Roberson. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202058,1,25.0000,25,"Monthly Cable: Roberson. Laura",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000.0000,1000,"New Resident Fee: Roberson. Laura",,,,,,,,,,,,,,,

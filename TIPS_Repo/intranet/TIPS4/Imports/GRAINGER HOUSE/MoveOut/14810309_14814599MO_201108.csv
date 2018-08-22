@@ -1,0 +1,5 @@
+BATCH,,201108,B,60.0000,
+INVOICE,IN,,14810309,,08/01/2011,30.0000,"Invoice-Private",,08/01/2011,08/10/2011,,14814599MO,-5540.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30.00,"Monthly Cable: Thompson, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,14810309,,08/01/2011,30,"Invoice-Private",,08/01/2011,08/10/2011,,14814599MO,-5540.0000,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30,30,"Credit for Monthly Cable: Thompson, Jerome",,,,,,,,,,,,,,,

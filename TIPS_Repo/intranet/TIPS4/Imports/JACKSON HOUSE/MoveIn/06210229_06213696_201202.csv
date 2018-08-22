@@ -1,0 +1,5 @@
+BATCH,,201202,B,3745.0000,
+INVOICE,IN,,06210229,,02/10/2012,3745.0000,"MoveIn-Wienecke. Fred",,02/10/2012,02/10/2012,,06213696,3745.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,20,86.0000,1720,"Basic Service Fee - Studio: Wienecke. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Wienecke. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Wienecke. Fred",,,,,,,,,,,,,,,

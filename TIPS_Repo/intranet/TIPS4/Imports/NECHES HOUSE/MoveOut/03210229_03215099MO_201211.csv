@@ -1,0 +1,6 @@
+BATCH,,201211,B,3840.0000,
+INVOICE,IN,,03210229,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03215099MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,60.0000,60.00,"CR:Limited Term Di... W.Fitts 201211: Fitts, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,03210229,,11/01/2012,3780,"Invoice-Private",,11/01/2012,11/10/2012,,03215099MO,-3720.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... W.Fitts 201211: Fitts, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,960,960,"CR:Resident Care -... W.Fitts 201211: Fitts, Wanda",,,,,,,,,,,,,,,

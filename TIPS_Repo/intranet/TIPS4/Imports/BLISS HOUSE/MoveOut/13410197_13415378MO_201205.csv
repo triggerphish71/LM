@@ -1,0 +1,5 @@
+BATCH,,201205,B,992.0000,
+INVOICE,IN,,13410197,,05/01/2012,496.0000,"Invoice-Private",,05/01/2012,05/10/2012,,13415378MO,-3057.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,31,16.0000,496.00,"Credit for Limited Term Discount: Fountaine, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13410197,,05/01/2012,496,"Invoice-Private",,05/01/2012,05/10/2012,,13415378MO,-3057.0000,,,,,,,,,,
+TRANSACTION,3320,010309134,31,16,496,"Limited Term Discount: Fountaine, Thomas",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201308,B,460.0000,
+INVOICE,IN,,52610185,,08/01/2013,230.0000,"Invoice-Private",,08/01/2013,08/10/2013,,52617958MO,-5339.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30.0000,30.00,"Garage Rental: Behnke, Orval",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200.0000,200.00,"Resident Meals: Behnke, Orval",,,,,,,,,,,,,,,
+INVOICE,CM,,52610185,,08/01/2013,230,"Invoice-Private",,08/01/2013,08/10/2013,,52617958MO,-5339.0000,,,,,,,,,,
+TRANSACTION,3214,010319526,1,30,30,"Credit for Garage Rental: Behnke, Orval",,,,,,,,,,,,,,,
+TRANSACTION,3250,010319526,1,200,200,"Credit for Resident Meals: Behnke, Orval",,,,,,,,,,,,,,,

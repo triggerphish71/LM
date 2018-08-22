@@ -1,0 +1,7 @@
+BATCH,,201307,B,9446.0000,
+INVOICE,IN,,03910263,,07/09/2013,2125.3500,"Invoice-Private",,07/09/2013,07/09/2013,,03914781MO,-5195.3000,,,,,,,,,,
+TRANSACTION,3020,010101039,9,90.0000,810.00,"Basic Service Fee - Studio for Jul: Fitton, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,9,146.1500,1315.35,"Resident Care - Level 79 for Jul: Fitton, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,03910263,,07/09/2013,7320.65,"Invoice-Private",,07/09/2013,07/09/2013,,03914781MO,-5195.3000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2790,2790,"CR:Basic Service F... B.Fitton 201307: Fitton, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,4530.65,4530.65,"CR:Resident Care -... B.Fitton 201307: Fitton, Barbara",,,,,,,,,,,,,,,

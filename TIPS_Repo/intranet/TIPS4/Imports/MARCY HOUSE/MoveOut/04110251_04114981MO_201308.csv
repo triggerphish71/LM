@@ -1,0 +1,7 @@
+BATCH,,201308,B,4224.0000,
+INVOICE,IN,,04110251,,08/01/2013,132.0000,"Invoice-Private",,08/01/2013,08/10/2013,,04114981MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,82.0000,82.00,"Basic Service Fee - Studio for Aug: Foster, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,50.0000,50.00,"Resident Care - Level 4 for Aug: Foster, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,04110251,,08/01/2013,4092,"Invoice-Private",,08/01/2013,08/10/2013,,04114981MO,-3960.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Basic Service F... M.Foster 201308: Foster, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,1550,1550,"CR:Resident Care -... M.Foster 201308: Foster, Mary",,,,,,,,,,,,,,,

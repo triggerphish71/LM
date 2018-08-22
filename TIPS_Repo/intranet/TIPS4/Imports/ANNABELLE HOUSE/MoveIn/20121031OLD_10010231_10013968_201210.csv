@@ -1,0 +1,6 @@
+BATCH,,201210,B,700.1100,
+INVOICE,IN,,10010231,,10/31/2012,700.1100,"MoveIn-Allen. Judy",,10/31/2012,10/31/2012,,10013968,5978.4100,,,,,,,,,,
+TRANSACTION,3010,010104100,1,75.0000,75,"Basic Service Fee - Studio: Allen. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,1,100.1100,100.11,"Resident Care - Level 6 + 9 points: Allen. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Allen. Judy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,500.0000,500,"New Resident Fee: Allen. Judy",,,,,,,,,,,,,,,

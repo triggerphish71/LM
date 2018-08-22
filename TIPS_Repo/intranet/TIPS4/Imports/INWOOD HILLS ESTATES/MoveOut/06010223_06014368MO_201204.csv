@@ -1,0 +1,8 @@
+BATCH,,201204,B,6600.0000,
+INVOICE,IN,,06010223,,04/26/2012,3450.0000,"Invoice-Private",,04/26/2012,04/26/2012,,06014368MO,-2251.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,720.0000,720.00,"CR:Limited Term Di... K.Nifong 201204: Nifong, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,26,90.0000,2340.00,"Basic Service Fee - Studio for Apr: Nifong, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,26,15.0000,390.00,"Resident Care - Level 1 for Apr: Nifong, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,06010223,,04/26/2012,3150,"Invoice-Private",,04/26/2012,04/26/2012,,06014368MO,-2251.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,2700,2700,"CR:Basic Service F... K.Nifong 201204: Nifong, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,450,450,"CR:Resident Care -... K.Nifong 201204: Nifong, Kathleen",,,,,,,,,,,,,,,

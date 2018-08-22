@@ -1,0 +1,6 @@
+BATCH,,201206,B,4950.0000,
+INVOICE,IN,,13110277,,06/01/2012,60.0000,"Invoice-Private",,06/01/2012,06/10/2012,,13114408MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3320,010308131,1,60.0000,60.00,"CR:Limited Term Di... M.Roosen 201206: Roosen, Margurie",,,,,,,,,,,,,,,
+INVOICE,CM,,13110277,,06/01/2012,4890,"Invoice-Private",,06/01/2012,06/10/2012,,13114408MO,-4830.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3000,3000,"CR:Basic Service F... M.Roosen 201206: Roosen, Margurie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,1890,1890,"CR:Resident Care -... M.Roosen 201206: Roosen, Margurie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,4428.0000,
+INVOICE,IN,,12610230,,10/05/2011,615.0000,"Invoice-Private",,10/05/2011,10/05/2011,,12614842MO,-6888.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,5,90.0000,450.00,"Basic Service Fee - Studio for Oct: Steube, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,5,33.0000,165.00,"Resident Care - Level 2 for Oct: Steube, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,12610230,,10/05/2011,3813,"Invoice-Private",,10/05/2011,10/05/2011,,12614842MO,-6888.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,2790,2790,"CR:Basic Service F... M.Steube 201110: Steube, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,1023,1023,"CR:Resident Care -... M.Steube 201110: Steube, Mary",,,,,,,,,,,,,,,

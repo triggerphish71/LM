@@ -1,0 +1,7 @@
+BATCH,,201210,B,5412.0000,
+INVOICE,IN,,10510242,,10/10/2012,1320.0000,"Invoice-Private",,10/10/2012,10/10/2012,,10514157MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,10,103.0000,1030.00,"Basic Service Fee - One Bedroom for Oct: Kiser, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,10,29.0000,290.00,"Resident Care - Level 2 for Oct: Kiser, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,10510242,,10/10/2012,4092,"Invoice-Private",,10/10/2012,10/10/2012,,10514157MO,-2772.0000,,,,,,,,,,
+TRANSACTION,3020,010309105,1,3193,3193,"CR:Basic Service F... N.Kiser 201210: Kiser, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309105,1,899,899,"CR:Resident Care -... N.Kiser 201210: Kiser, Norma",,,,,,,,,,,,,,,

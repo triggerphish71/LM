@@ -1,0 +1,7 @@
+BATCH,,201109,B,8265.0000,
+INVOICE,IN,,53110256,,09/01/2011,3915.0000,"Invoice-Private",,09/01/2011,09/10/2011,,53113772MO,-435.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,27,117.0000,3159.00,"Basic Service Fee - One Bedroom for Sep: Schwamb, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,27,28.0000,756.00,"Resident Care - Level 2 for Sep: Schwamb, Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,53110256,,09/01/2011,4350,"Invoice-Private",,09/01/2011,09/10/2011,,53113772MO,-435.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3510,3510,"CR:Basic Service F... J.Schwamb 201109: Schwamb, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,840,840,"CR:Resident Care -... J.Schwamb 201109: Schwamb, Judy",,,,,,,,,,,,,,,

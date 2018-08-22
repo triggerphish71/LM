@@ -1,0 +1,7 @@
+BATCH,,201211,B,4455.0000,
+INVOICE,IN,,17510278,,11/14/2012,1485.0000,"Invoice-Private",,11/14/2012,11/14/2012,,17517786MO,-1485.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,15,76.0000,1140.00,"Basic Service Fee - Studio Deluxe for Nov: Dean, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,15,23.0000,345.00,"Resident Care - Level 2 for Nov: Dean, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,17510278,,11/14/2012,2970,"Invoice-Private",,11/14/2012,11/14/2012,,17517786MO,-1485.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Basic Service F... J.Dean 201211: Dean, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,690,690,"CR:Resident Care -... J.Dean 201211: Dean, Jean",,,,,,,,,,,,,,,

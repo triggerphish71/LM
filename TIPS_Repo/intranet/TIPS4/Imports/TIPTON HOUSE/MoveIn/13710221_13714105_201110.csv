@@ -1,0 +1,5 @@
+BATCH,,201110,B,3510.0000,
+INVOICE,IN,,13710221,,10/10/2011,3510.0000,"MoveIn-Scher. Eugene",,10/10/2011,10/10/2011,,13714105,3510.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,22,90.0000,1980,"Basic Service Fee - Studio: Scher. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Scher. Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Scher. Eugene",,,,,,,,,,,,,,,

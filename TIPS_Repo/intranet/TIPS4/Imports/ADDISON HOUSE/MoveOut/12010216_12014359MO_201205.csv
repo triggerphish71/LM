@@ -1,0 +1,7 @@
+BATCH,,201205,B,1052.0000,
+INVOICE,IN,,12010216,,05/01/2012,526.0000,"Invoice-Private",,05/01/2012,05/10/2012,,12014359MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30.00,"Monthly Cable: Wright, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,16.0000,496.00,"Credit for Limited Term Discount: Wright, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,12010216,,05/01/2012,526,"Invoice-Private",,05/01/2012,05/10/2012,,12014359MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"Credit for Monthly Cable: Wright, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3320,010309120,31,16,496,"Limited Term Discount: Wright, Christine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201205,B,6357.0000,
+INVOICE,IN,,14010147,,05/08/2012,1304.0000,"Invoice-Private",,05/08/2012,05/08/2012,,14013801MO,-3749.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,8,88.0000,704.00,"Basic Service Fee - Studio for May: Chandler, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,8,75.0000,600.00,"Resident Care - Level 6 for May: Chandler, Eula",,,,,,,,,,,,,,,
+INVOICE,CM,,14010147,,05/08/2012,5053,"Invoice-Private",,05/08/2012,05/08/2012,,14013801MO,-3749.0000,,,,,,,,,,
+TRANSACTION,3020,010309140,1,2728,2728,"CR:Basic Service F... E.Chandler 201205: Chandler, Eula",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309140,1,2325,2325,"CR:Resident Care -... E.Chandler 201205: Chandler, Eula",,,,,,,,,,,,,,,

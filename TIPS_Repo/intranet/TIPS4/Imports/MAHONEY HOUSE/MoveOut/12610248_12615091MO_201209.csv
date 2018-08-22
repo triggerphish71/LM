@@ -1,0 +1,7 @@
+BATCH,,201209,B,6705.0000,
+INVOICE,IN,,12610248,,09/15/2012,2235.0000,"Invoice-Private",,09/15/2012,09/15/2012,,12615091MO,-6854.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,15,116.0000,1740.00,"E.Leininger: Basic Service Fee - One Bedroom : Leininger, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,15,33.0000,495.00,"E.Leininger: Resident Care - Level 2 for Sep: Leininger, Elaine",,,,,,,,,,,,,,,
+INVOICE,CM,,12610248,,09/15/2012,4470,"Invoice-Private",,09/15/2012,09/15/2012,,12615091MO,-6854.0000,,,,,,,,,,
+TRANSACTION,3020,010211126,1,3480,3480,"CR:E.Leininger: Ba... E.Leininger 201209: Leininger, Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211126,1,990,990,"CR:E.Leininger: Re... E.Leininger 201209: Leininger, Elaine",,,,,,,,,,,,,,,

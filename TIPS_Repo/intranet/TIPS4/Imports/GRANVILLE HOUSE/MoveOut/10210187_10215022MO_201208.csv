@@ -1,0 +1,7 @@
+BATCH,,201208,B,8640.0000,
+INVOICE,IN,,10210187,,08/14/2012,2688.0000,"Invoice-Private",,08/14/2012,08/14/2012,,10215022MO,-3264.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,14,111.0000,1554.00,"Room and Board - Studio for Aug: Jefferson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,14,81.0000,1134.00,"Swan Personal Care - L5 for Aug: Jefferson, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,10210187,,08/14/2012,5952,"Invoice-Private",,08/14/2012,08/14/2012,,10215022MO,-3264.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Room and Board ... R.Jefferson 201208: Jefferson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2511,2511,"CR:Swan Personal C... R.Jefferson 201208: Jefferson, Ruth",,,,,,,,,,,,,,,

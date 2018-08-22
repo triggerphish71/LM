@@ -1,0 +1,6 @@
+BATCH,,201112,B,1255.0000,
+INVOICE,IN,,19010231,,12/30/2011,1255.0000,"MoveIn-Kemp. Elizabeth",,12/30/2011,12/30/2011,,19014350,4816.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,2,98.0000,196,"E.Kemp: Basic Service Fee - Studio: Kemp. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308190,2,16.0000,32,"E.Kemp: Resident Care - Level 1: Kemp. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Kemp. Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Kemp. Elizabeth",,,,,,,,,,,,,,,

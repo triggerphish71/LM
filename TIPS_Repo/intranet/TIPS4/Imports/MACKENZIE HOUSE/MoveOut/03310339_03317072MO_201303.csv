@@ -1,0 +1,6 @@
+BATCH,,201303,B,3766.5000,
+INVOICE,IN,,03310339,,03/01/2013,294.5000,"Invoice-Private",,03/01/2013,03/10/2013,,03317072MO,-3025.3000,,,,,,,,,,
+TRANSACTION,3317,010202033,1,294.5000,294.50,"CR:Accolade Discou... F.Hanks 201303: Hanks, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,03310339,,03/01/2013,3472,"Invoice-Private",,03/01/2013,03/10/2013,,03317072MO,-3025.3000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2945,2945,"CR:Basic Service F... F.Hanks 201303: Hanks, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,527,527,"CR:Resident Care -... F.Hanks 201303: Hanks, Frances",,,,,,,,,,,,,,,

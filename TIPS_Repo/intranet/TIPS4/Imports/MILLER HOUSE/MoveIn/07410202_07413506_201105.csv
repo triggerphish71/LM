@@ -1,0 +1,5 @@
+BATCH,,201105,B,4476.0000,
+INVOICE,IN,,07410202,,05/01/2011,4476.0000,"MoveIn-Bauer. Violet",,05/01/2011,05/01/2011,,07413506,4476.0000,,,,,,,,,,
+TRANSACTION,3010,010305074,31,81.0000,2511,"Basic Service Fee - Deluxe: Bauer. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305074,31,15.0000,465,"Resident Care - Level 1: Bauer. Violet",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305074,1,1500.0000,1500,"New Resident Fee: Bauer. Violet",,,,,,,,,,,,,,,

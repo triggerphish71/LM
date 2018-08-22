@@ -1,0 +1,8 @@
+BATCH,,201201,B,5808.0000,
+INVOICE,IN,,17110231,,01/16/2012,1968.0000,"Invoice-Private",,01/16/2012,01/16/2012,,17114927MO,-5466.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,16,94.0000,1504.00,"Basic Service Fee - Studio for Jan: Holland, James, Sr",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,16,29.0000,464.00,"Resident Care - Level 2 for Jan: Holland, James, Sr",,,,,,,,,,,,,,,
+INVOICE,CM,,17110231,,01/16/2012,3840,"Invoice-Private",,01/16/2012,01/16/2012,,17114927MO,-5466.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2914,2914,"CR:Basic Service F... J.Holland 201201: Holland, James, Sr",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"CR:Monthly Cable... J.Holland 201201: Holland, James, Sr",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,899,899,"CR:Resident Care -... J.Holland 201201: Holland, James, Sr",,,,,,,,,,,,,,,

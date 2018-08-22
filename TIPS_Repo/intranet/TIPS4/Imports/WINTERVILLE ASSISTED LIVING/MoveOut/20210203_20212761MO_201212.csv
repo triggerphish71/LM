@@ -1,0 +1,7 @@
+BATCH,,201212,B,5814.0000,
+INVOICE,IN,,20210203,,12/20/2012,2280.0000,"Invoice-Private",,12/20/2012,12/20/2012,,20212761MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,20,31.0000,620.00,"Resident Care - Level 3 for Dec: Thompson, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,20,83.0000,1660.00,"Room and Board - Studio for Dec: Thompson, Bobby",,,,,,,,,,,,,,,
+INVOICE,CM,,20210203,,12/20/2012,3534,"Invoice-Private",,12/20/2012,12/20/2012,,20212761MO,-4788.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,961,961,"CR:Resident Care -... B.Thompson 201212: Thompson, Bobby",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2573,2573,"CR:Room and Board ... B.Thompson 201212: Thompson, Bobby",,,,,,,,,,,,,,,

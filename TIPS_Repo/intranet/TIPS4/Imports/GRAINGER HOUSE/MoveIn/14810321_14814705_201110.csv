@@ -1,0 +1,5 @@
+BATCH,,201110,B,3843.0000,
+INVOICE,IN,,14810321,,10/01/2011,3843.0000,"October_Rent-O'Neill. John",,10/01/2011,10/10/2011,,14814705,6103.0000,,,,,,,,,,
+TRANSACTION,3010,010310148,31,88.0000,2728,"Basic Service Fee - Studio         : O'Neill. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310148,31,35.0000,1085,"Resident Care - Level 2: O'Neill. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310148,1,30.0000,30,"Monthly Cable: O'Neill. John",,,,,,,,,,,,,,,

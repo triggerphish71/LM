@@ -1,0 +1,5 @@
+BATCH,,201202,B,1330.0000,
+INVOICE,IN,,01410212,,02/01/2012,228.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01414207MO,-874.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,6,38.0000,228.00,"Basic Service Fee - Second Resident for Feb: Lowry, Weeda",,,,,,,,,,,,,,,
+INVOICE,CM,,01410212,,02/01/2012,1102,"Invoice-Private",,02/01/2012,02/10/2012,,01414207MO,-874.0000,,,,,,,,,,
+TRANSACTION,3020,010202014,1,1102,1102,"CR:Basic Service F... W.Lowry 201202: Lowry, Weeda",,,,,,,,,,,,,,,

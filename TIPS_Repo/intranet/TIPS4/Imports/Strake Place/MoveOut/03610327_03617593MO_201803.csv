@@ -1,0 +1,6 @@
+BATCH,,201803,B,4028.0000,
+INVOICE,IN,,03610327,,03/08/2018,1176.0000,"Invoice-Private",,03/08/2018,03/08/2018,,03617593MO,-676.0000,,,,,,,,,,
+TRANSACTION,3017,010002036,8,55.0000,440.00," Level Care:  3 : Denker, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010002036,8,92.0000,736.00,"Basic Service Fee - One Bedroom  for Mar: Denker, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,03610327,,03/08/2018,2852,"Invoice-Private",,03/08/2018,03/08/2018,,03617593MO,-676.0000,,,,,,,,,,
+TRANSACTION,3020,010002036,1,2852,2852,"CR:Basic Service F... M.Denker 201803: Denker, Mary",,,,,,,,,,,,,,,

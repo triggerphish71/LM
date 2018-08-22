@@ -1,0 +1,8 @@
+BATCH,,201301,B,7897.0000,
+INVOICE,IN,,03210282,,01/01/2013,3991.0000,"Invoice-Private",,01/01/2013,01/10/2013,,03215187MO,85.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,589.0000,589.00,"CR:Limited Term Di... A.Gholson 201301: Gholson, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,27,94.0000,2538.00,"Basic Service Fee - Studio for Jan: Gholson, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,27,32.0000,864.00,"Resident Care - Level 2 for Jan: Gholson, Annie",,,,,,,,,,,,,,,
+INVOICE,CM,,03210282,,01/01/2013,3906,"Invoice-Private",,01/01/2013,01/10/2013,,03215187MO,85.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2914,2914,"CR:Basic Service F... A.Gholson 201301: Gholson, Annie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,992,992,"CR:Resident Care -... A.Gholson 201301: Gholson, Annie",,,,,,,,,,,,,,,

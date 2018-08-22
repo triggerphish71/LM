@@ -1,0 +1,5 @@
+BATCH,,201707,B,11109.6800,
+INVOICE,IN,,20210355,,07/12/2017,11109.6800,"MoveIn-batman. test",,07/12/2017,07/12/2017,,20214742,11109.6800,,,,,,,,,,
+TRANSACTION,3010,010016202,1,2709.6800,2709.68,"MC Studio: batman. test",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,4200.0000,4200,"CommunityFee: batman. test",,,,,,,,,,,,,,,
+TRANSACTION,3216,010016202,1,4200.0000,4200,"Monthly Deferral Charge: batman. test",,,,,,,,,,,,,,,

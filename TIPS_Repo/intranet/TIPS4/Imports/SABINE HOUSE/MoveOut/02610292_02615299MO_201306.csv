@@ -1,0 +1,8 @@
+BATCH,,201306,B,4757.0000,
+INVOICE,IN,,02610292,,06/09/2013,1430.0000,"Invoice-Private",,06/09/2013,06/09/2013,,02615299MO,-5334.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,13,97.0000,1261.00,"Basic Service Fee - Studio for Jun: Bourgeois, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,13,13.0000,169.00,"Resident Care - Level 1 for Jun: Bourgeois, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,02610292,,06/09/2013,3327,"Invoice-Private",,06/09/2013,06/09/2013,,02615299MO,-5334.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,2910,2910,"CR:Basic Service F... M.Bourgeois 201306: Bourgeois, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27,27,"CR:Monthly Cable... M.Bourgeois 201306: Bourgeois, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,390,390,"CR:Resident Care -... M.Bourgeois 201306: Bourgeois, Mary",,,,,,,,,,,,,,,

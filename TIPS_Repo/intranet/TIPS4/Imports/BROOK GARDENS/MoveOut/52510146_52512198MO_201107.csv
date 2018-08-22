@@ -1,0 +1,6 @@
+BATCH,,201107,B,4782.0000,
+INVOICE,IN,,52510146,,07/07/2011,107.0000,"Invoice-Private",,07/07/2011,07/07/2011,,52512198MO,-4568.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,107.0000,107.00,"Basic Service Fee - Studio for Jul: Lazers, Alvin",,,,,,,,,,,,,,,
+INVOICE,CM,,52510146,,07/07/2011,4675,"Invoice-Private",,07/07/2011,07/07/2011,,52512198MO,-4568.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,2675,2675,"CR:Basic Service F... A.Lazers 201107: Lazers, Alvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319525,1,2000,2000,"CR:New Resident Fe... A.Lazers 201107: Lazers, Alvin",,,,,,,,,,,,,,,

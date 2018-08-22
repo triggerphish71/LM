@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,16710203,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,16713896MO,-7312.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,30,2.0000,60.00,"Credit for Limited Term Discount: Dowding, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,16710203,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,16713896MO,-7312.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,30,2,60,"Limited Term Discount: Dowding, Bob",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201110,B,12111.8000,
+INVOICE,IN,,51910160,,10/22/2011,5558.4000,"Invoice-Private",,10/22/2011,10/22/2011,,51913242MO,-7277.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,62.0000,62.00,"CR:Limited Term Di... C.Whyte 201110: Whyte, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,26,106.0000,2756.00,"Basic Service Fee - One Bedroom for Oct: Whyte, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,26,105.4000,2740.40,"Resident Care - Level 62 for Oct: Whyte, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,51910160,,10/22/2011,6553.4,"Invoice-Private",,10/22/2011,10/22/2011,,51913242MO,-7277.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,3286,3286,"CR:Basic Service F... C.Whyte 201110: Whyte, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103519,1,3267.4,3267.4,"CR:Resident Care -... C.Whyte 201110: Whyte, Charles",,,,,,,,,,,,,,,

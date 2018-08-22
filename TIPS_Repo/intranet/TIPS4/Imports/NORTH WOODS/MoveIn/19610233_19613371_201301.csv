@@ -1,0 +1,7 @@
+BATCH,,201301,B,4335.0000,
+INVOICE,IN,,19610233,,01/07/2013,4335.0000,"MoveIn-Hoy. Esther",,01/07/2013,01/07/2013,,19613371,4335.0000,,,,,,,,,,
+TRANSACTION,3010,010315196,25,89.0000,2225,"E.Hoy: Basic Service Fee - Studio: Hoy. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315196,25,13.0000,325,"E.Hoy: Resident Care - Level 1: Hoy. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315196,1,35.0000,35,"Monthly Cable: Hoy. Esther",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315196,1,1500.0000,1500,"New Tenant Fee: Hoy. Esther",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315196,25,10.0000,250,"CC Meals: Hoy. Esther",,,,,,,,,,,,,,,

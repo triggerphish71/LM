@@ -1,0 +1,8 @@
+BATCH,,201112,B,4542.0000,
+INVOICE,IN,,04510239,,12/12/2011,1260.0000,"Invoice-Private",,12/12/2011,12/12/2011,,04513836MO,-5277.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,12,76.0000,912.00,"Basic Service Fee - Studio for Dec: Wiles, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,12,29.0000,348.00,"Resident Care - Level 2 for Dec: Wiles, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,04510239,,12/12/2011,3282,"Invoice-Private",,12/12/2011,12/12/2011,,04513836MO,-5277.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2356,2356,"CR:Basic Service F... D.Wiles 201112: Wiles, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... D.Wiles 201112: Wiles, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,899,899,"CR:Resident Care -... D.Wiles 201112: Wiles, Dorothy",,,,,,,,,,,,,,,

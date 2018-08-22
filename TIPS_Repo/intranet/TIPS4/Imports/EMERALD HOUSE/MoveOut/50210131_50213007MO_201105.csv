@@ -1,0 +1,8 @@
+BATCH,,201105,B,8240.0000,
+INVOICE,IN,,50210131,,05/18/2011,3410.0000,"Invoice-Private",,05/18/2011,05/18/2011,,50213007MO,-6095.0000,,,,,,,,,,
+TRANSACTION,3027,010209502,22,67.0000,1474.00,"Resident Care - Level 6 for May: Grubb, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,22,88.0000,1936.00,"Room and Board - Studio Deluxe for May: Grubb, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,50210131,,05/18/2011,4830,"Invoice-Private",,05/18/2011,05/18/2011,,50213007MO,-6095.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"CR:Monthly Cable... B.Grubb 201105: Grubb, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010209502,1,2077,2077,"CR:Resident Care -... B.Grubb 201105: Grubb, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209502,1,2728,2728,"CR:Room and Board ... B.Grubb 201105: Grubb, Betty",,,,,,,,,,,,,,,

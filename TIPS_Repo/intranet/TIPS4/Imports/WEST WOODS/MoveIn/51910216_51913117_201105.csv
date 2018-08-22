@@ -1,0 +1,5 @@
+BATCH,,201105,B,1945.0000,
+INVOICE,IN,,51910216,,05/27/2011,1945.0000,"MoveIn-Stewart. David",,05/27/2011,05/27/2011,,51913117,4490.0000,,,,,,,,,,
+TRANSACTION,3010,010103519,5,84.0000,420,"Basic Service Fee - Studio: Stewart. David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103519,1,25.0000,25,"Monthly Cable: Stewart. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103519,1,1500.0000,1500,"New Resident Fee: Stewart. David",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,7370.0000,
+INVOICE,IN,,21010229,,05/01/2012,3805.0000,"Invoice-Private",,05/01/2012,05/10/2012,,21013605MO,240.0000,,,,,,,,,,
+TRANSACTION,3320,010216210,1,930.0000,930.00,"CR:Limited Term Di... D.Gray 201205: Gray, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,25,21.0000,525.00,"Resident Care - Level 2 for May: Gray, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,25,94.0000,2350.00,"Studio for May: Gray, Dale",,,,,,,,,,,,,,,
+INVOICE,CM,,21010229,,05/01/2012,3565,"Invoice-Private",,05/01/2012,05/10/2012,,21013605MO,240.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,1,651,651,"CR:Resident Care -... D.Gray 201205: Gray, Dale",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2914,2914,"CR:Studio... D.Gray 201205: Gray, Dale",,,,,,,,,,,,,,,

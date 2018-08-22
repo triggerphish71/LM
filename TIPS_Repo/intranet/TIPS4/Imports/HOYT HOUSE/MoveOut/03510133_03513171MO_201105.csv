@@ -1,0 +1,7 @@
+BATCH,,201105,B,5064.0000,
+INVOICE,IN,,03510133,,05/19/2011,2280.0000,"Invoice-Private",,05/19/2011,05/19/2011,,03513171MO,-2629.0000,,,,,,,,,,
+TRANSACTION,3320,010202035,1,589.0000,589.00,"CR:Limited Term Di... B.Evans 201105: Evans, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202035,19,89.0000,1691.00,"Room and Board - Studio for May: Evans, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,03510133,,05/19/2011,2784,"Invoice-Private",,05/19/2011,05/19/2011,,03513171MO,-2629.0000,,,,,,,,,,
+TRANSACTION,3260,010202035,1,25,25,"CR:Monthly Cable... B.Evans 201105: Evans, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202035,1,2759,2759,"CR:Room and Board ... B.Evans 201105: Evans, Barbara",,,,,,,,,,,,,,,

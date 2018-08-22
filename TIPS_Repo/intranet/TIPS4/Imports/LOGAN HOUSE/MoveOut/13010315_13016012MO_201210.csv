@@ -1,0 +1,7 @@
+BATCH,,201210,B,4788.0000,
+INVOICE,IN,,13010315,,10/26/2012,2184.0000,"Invoice-Private",,10/26/2012,10/26/2012,,13016012MO,-2940.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,26,31.0000,806.00,"Basic Service Fee - Second Resident for Oct: Felton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3037,010310130,26,53.0000,1378.00,"Private Care Rate Adjustments for Oct: Felton, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,13010315,,10/26/2012,2604,"Invoice-Private",,10/26/2012,10/26/2012,,13016012MO,-2940.0000,,,,,,,,,,
+TRANSACTION,3020,010310130,1,961,961,"CR:Basic Service F... B.Felton 201210: Felton, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3037,010310130,1,1643,1643,"CR:Private Care Ra... B.Felton 201210: Felton, Betty",,,,,,,,,,,,,,,

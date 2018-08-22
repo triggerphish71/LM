@@ -1,0 +1,5 @@
+BATCH,,201307,B,90.0000,
+INVOICE,IN,,12410233,,07/01/2013,45.0000,"Invoice-Private",,07/01/2013,07/10/2013,,12415365MO,-8293.9500,,,,,,,,,,
+TRANSACTION,3130,010211124,1,45.0000,45.00,"Pendant Fee: Pflanz, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,12410233,,07/01/2013,45,"Invoice-Private",,07/01/2013,07/10/2013,,12415365MO,-8293.9500,,,,,,,,,,
+TRANSACTION,3130,010211124,1,45,45,"Credit for Pendant Fee: Pflanz, Rosemary",,,,,,,,,,,,,,,

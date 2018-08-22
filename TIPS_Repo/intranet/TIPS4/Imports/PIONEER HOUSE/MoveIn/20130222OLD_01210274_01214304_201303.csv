@@ -1,0 +1,5 @@
+BATCH,,201303,B,5990.3000,
+INVOICE,IN,,01210274,,03/01/2013,5990.3000,"March_Rent-Martin. Virginia",,03/01/2013,03/10/2013,,01214304,8865.4000,,,,,,,,,,
+TRANSACTION,3010,010103012,31,85.0000,2635,"Basic Service Fee - Studio: Martin. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,31,107.3000,3326.3,"Resident Care - Level 58: Martin. Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Martin. Virginia",,,,,,,,,,,,,,,

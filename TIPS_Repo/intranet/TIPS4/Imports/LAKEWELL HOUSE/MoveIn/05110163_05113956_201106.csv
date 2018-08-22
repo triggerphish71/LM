@@ -1,0 +1,6 @@
+BATCH,,201106,B,5861.0000,
+INVOICE,IN,,05110163,,06/03/2011,5861.0000,"MoveIn-Beaman, Sr. Frank",,06/03/2011,06/03/2011,,05113956,5861.0000,,,,,,,,,,
+TRANSACTION,3010,010202051,28,97.0000,2716,"Basic Service Fee - Studio         : Beaman, Sr. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202051,28,40.0000,1120,"Resident Care - Level 3: Beaman, Sr. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202051,1,25.0000,25,"Monthly Cable: Beaman, Sr. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202051,1,2000.0000,2000,"New Resident Fee: Beaman, Sr. Frank",,,,,,,,,,,,,,,

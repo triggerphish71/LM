@@ -1,0 +1,7 @@
+BATCH,,201803,B,10200.0000,
+INVOICE,IN,,06310335,,03/29/2018,4930.0000,"Invoice-Private",,03/29/2018,03/29/2018,,06316693MO,-5465.8000,,,,,,,,,,
+TRANSACTION,3020,010004063,29,86.0000,2494.00,"Basic Service Fee - Studio  for Mar: Erickson, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004063,29,84.0000,2436.00,"Resident Care - Level 5  for Mar: Erickson, Glen",,,,,,,,,,,,,,,
+INVOICE,CM,,06310335,,03/29/2018,5270,"Invoice-Private",,03/29/2018,03/29/2018,,06316693MO,-5465.8000,,,,,,,,,,
+TRANSACTION,3020,010004063,1,2666,2666,"CR:Basic Service F... G.Erickson 201803: Erickson, Glen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010004063,1,2604,2604,"CR:Resident Care -... G.Erickson 201803: Erickson, Glen",,,,,,,,,,,,,,,

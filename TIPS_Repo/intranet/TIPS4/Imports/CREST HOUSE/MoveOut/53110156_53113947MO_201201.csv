@@ -1,0 +1,5 @@
+BATCH,,201201,B,5786.0000,
+INVOICE,CM,,53110156,,01/01/2012,5786,"Invoice-Private",,01/01/2012,01/10/2012,,53113947MO,-5786.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3813,3813,"CR:Basic Service F... R.Johnson 201201: Johnson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,20,20,"CR:Pendant Fee... R.Johnson 201201: Johnson, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1953,1953,"CR:Resident Care -... R.Johnson 201201: Johnson, Robert",,,,,,,,,,,,,,,

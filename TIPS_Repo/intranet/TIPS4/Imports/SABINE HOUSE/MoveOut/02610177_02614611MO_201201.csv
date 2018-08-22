@@ -1,0 +1,7 @@
+BATCH,,201201,B,6235.0000,
+INVOICE,IN,,02610177,,01/05/2012,1740.0000,"Invoice-Private",,01/05/2012,01/05/2012,,02614611MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,12,97.0000,1164.00,"Basic Service Fee - Studio for Jan: Black, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,12,48.0000,576.00,"Resident Care - Level 4 for Jan: Black, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,02610177,,01/05/2012,4495,"Invoice-Private",,01/05/2012,01/05/2012,,02614611MO,-2755.0000,,,,,,,,,,
+TRANSACTION,3020,010202026,1,3007,3007,"CR:Basic Service F... P.Black 201201: Black, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202026,1,1488,1488,"CR:Resident Care -... P.Black 201201: Black, Patricia",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,6650.0000,
+INVOICE,IN,,09310178,,01/01/2012,1225.0000,"Invoice-Private",,01/01/2012,01/10/2012,,09315001MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,7,99.0000,693.00,"Basic Service Fee - Studio for Jan: Reardon, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,7,76.0000,532.00,"Resident Care - Level 5 for Jan: Reardon, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,09310178,,01/01/2012,5425,"Invoice-Private",,01/01/2012,01/10/2012,,09315001MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,3069,3069,"CR:Basic Service F... D.Reardon 201201: Reardon, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305093,1,2356,2356,"CR:Resident Care -... D.Reardon 201201: Reardon, Donna",,,,,,,,,,,,,,,

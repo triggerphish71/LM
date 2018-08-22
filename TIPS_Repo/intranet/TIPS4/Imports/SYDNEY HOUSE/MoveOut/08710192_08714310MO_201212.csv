@@ -1,0 +1,7 @@
+BATCH,,201212,B,4037.4400,
+INVOICE,IN,,08710192,,12/01/2012,126.1700,"Invoice-Private",,12/01/2012,12/01/2012,,08714310MO,-3785.1000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,85.0000,85.00,"Basic Service Fee - Studio for Dec: Dimarco, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,41.1700,41.17,"Resident Care - Level 23 for Dec: Dimarco, Joe",,,,,,,,,,,,,,,
+INVOICE,CM,,08710192,,12/01/2012,3911.27,"Invoice-Private",,12/01/2012,12/01/2012,,08714310MO,-3785.1000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2635,2635,"CR:Basic Service F... J.Dimarco 201212: Dimarco, Joe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,1276.27,1276.27,"CR:Resident Care -... J.Dimarco 201212: Dimarco, Joe",,,,,,,,,,,,,,,

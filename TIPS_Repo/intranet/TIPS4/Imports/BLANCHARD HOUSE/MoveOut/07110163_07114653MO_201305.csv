@@ -1,0 +1,7 @@
+BATCH,,201305,B,5544.0000,
+INVOICE,IN,,07110163,,05/10/2013,1452.0000,"Invoice-Private",,05/10/2013,05/10/2013,,07114653MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,11,61.0000,671.00,"Basic Service Fee - Studio for May: Fink, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,11,71.0000,781.00,"Resident Care - Level 5 for May: Fink, Nina",,,,,,,,,,,,,,,
+INVOICE,CM,,07110163,,05/10/2013,4092,"Invoice-Private",,05/10/2013,05/10/2013,,07114653MO,-2640.0000,,,,,,,,,,
+TRANSACTION,3020,010305071,1,1891,1891,"CR:Basic Service F... N.Fink 201305: Fink, Nina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305071,1,2201,2201,"CR:Resident Care -... N.Fink 201305: Fink, Nina",,,,,,,,,,,,,,,

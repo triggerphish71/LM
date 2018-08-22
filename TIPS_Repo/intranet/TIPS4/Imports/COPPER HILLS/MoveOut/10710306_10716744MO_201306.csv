@@ -1,0 +1,7 @@
+BATCH,,201306,B,5600.0000,
+INVOICE,IN,,10710306,,06/10/2013,1400.0000,"Invoice-Private",,06/10/2013,06/10/2013,,10716744MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,10,97.0000,970.00,"Basic Service Fee - Studio for Jun: Langley, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,10,43.0000,430.00,"Resident Care - Level 3 for Jun: Langley, Wanda",,,,,,,,,,,,,,,
+INVOICE,CM,,10710306,,06/10/2013,4200,"Invoice-Private",,06/10/2013,06/10/2013,,10716744MO,-2800.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,2910,2910,"CR:Basic Service F... W.Langley 201306: Langley, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,1290,1290,"CR:Resident Care -... W.Langley 201306: Langley, Wanda",,,,,,,,,,,,,,,

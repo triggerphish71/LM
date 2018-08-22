@@ -1,0 +1,5 @@
+BATCH,,201307,B,3477.0000,
+INVOICE,IN,,50910137,,07/26/2013,1586.0000,"Invoice-Private",,07/26/2013,07/26/2013,,50913408MO,-2196.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,26,61.0000,1586.00,"Basic Service Fee - One Bedroom for Jul: Barker, Jesse",,,,,,,,,,,,,,,
+INVOICE,CM,,50910137,,07/26/2013,1891,"Invoice-Private",,07/26/2013,07/26/2013,,50913408MO,-2196.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1891,1891,"CR:Basic Service F... J.Barker 201307: Barker, Jesse",,,,,,,,,,,,,,,

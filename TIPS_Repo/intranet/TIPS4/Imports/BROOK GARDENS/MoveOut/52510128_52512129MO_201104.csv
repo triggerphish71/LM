@@ -1,0 +1,7 @@
+BATCH,,201104,B,6519.0000,
+INVOICE,IN,,52510128,,04/23/2011,2829.0000,"Invoice-Private",,04/23/2011,04/23/2011,,52512129MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,23,108.0000,2484.00,"Basic Service Fee - Studio for Apr: Arndt, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,23,15.0000,345.00,"Resident Care - Level 1 for Apr: Arndt, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,52510128,,04/23/2011,3690,"Invoice-Private",,04/23/2011,04/23/2011,,52512129MO,-4674.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3240,3240,"CR:Basic Service F... R.Arndt 201104: Arndt, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,450,450,"CR:Resident Care -... R.Arndt 201104: Arndt, Robert",,,,,,,,,,,,,,,

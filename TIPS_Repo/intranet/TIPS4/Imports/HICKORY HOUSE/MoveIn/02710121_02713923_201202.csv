@@ -1,0 +1,5 @@
+BATCH,,201202,B,3425.0000,
+INVOICE,IN,,02710121,,02/10/2012,3425.0000,"MoveIn-Reding. Lowell",,02/10/2012,02/10/2012,,02713923,3425.0000,,,,,,,,,,
+TRANSACTION,3010,010202027,20,95.0000,1900,"Basic Service Fee - Studio: Reding. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202027,1,25.0000,25,"Monthly Cable: Reding. Lowell",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202027,1,1500.0000,1500,"New Resident Fee: Reding. Lowell",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,7062.0000,
+INVOICE,IN,,52610184,,04/03/2012,642.0000,"Invoice-Private",,04/03/2012,04/03/2012,,52616743MO,-5778.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,3,117.0000,351.00,"Basic Service Fee - Two Bedroom Del for Apr: Behnke, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,3,97.0000,291.00,"Resident Care - Level 6 for Apr: Behnke, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,52610184,,04/03/2012,6420,"Invoice-Private",,04/03/2012,04/03/2012,,52616743MO,-5778.0000,,,,,,,,,,
+TRANSACTION,3020,010319526,1,3510,3510,"CR:Basic Service F... R.Behnke 201204: Behnke, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319526,1,2910,2910,"CR:Resident Care -... R.Behnke 201204: Behnke, Ruth",,,,,,,,,,,,,,,

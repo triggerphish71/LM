@@ -1,0 +1,5 @@
+BATCH,,201202,B,4285.0000,
+INVOICE,IN,,02810217,,02/10/2012,4285.0000,"MoveIn-Moore. Paulina",,02/10/2012,02/10/2012,,02815044,4285.0000,,,,,,,,,,
+TRANSACTION,3010,010202028,20,113.0000,2260,"Basic Service Fee - Studio: Moore. Paulina",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202028,1,25.0000,25,"Monthly Cable: Moore. Paulina",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202028,1,2000.0000,2000,"New Resident Fee: Moore. Paulina",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,4278.0000,
+INVOICE,IN,,04610187,,04/01/2012,768.0000,"Invoice-Private",,04/01/2012,04/10/2012,,04613586MO,-2742.0000,,,,,,,,,,
+TRANSACTION,3312,010202046,1,300.0000,300.00,"CR:Two Room Rental... V.Burk 201204: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202046,4,100.0000,400.00,"Basic Service Fee - Studio for Apr: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,4,17.0000,68.00,"Resident Care - Level 1 for Apr: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,
+INVOICE,CM,,04610187,,04/01/2012,3510,"Invoice-Private",,04/01/2012,04/10/2012,,04613586MO,-2742.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,3000,3000,"CR:Basic Service F... V.Burk 201204: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,510,510,"CR:Resident Care -... V.Burk 201204: Burk, Vernie (Vauline)",,,,,,,,,,,,,,,

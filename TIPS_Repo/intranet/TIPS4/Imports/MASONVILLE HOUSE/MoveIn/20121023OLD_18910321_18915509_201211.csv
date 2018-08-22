@@ -1,0 +1,6 @@
+BATCH,,201211,B,4375.0000,
+INVOICE,IN,,18910321,,11/01/2012,4375.0000,"November_Rent-Miller. Phyllis",,11/01/2012,11/10/2012,,18915509,5705.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,30,89.0000,2670,"P.Miller: Basic Service Fee - Studio: Miller. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,30,46.0000,1380,"P.Miller: Resident Care - Level 3: Miller. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Miller. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315189,30,10.0000,300,"CC Meals: Miller. Phyllis",,,,,,,,,,,,,,,

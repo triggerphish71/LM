@@ -1,0 +1,7 @@
+BATCH,,201301,B,2887.0000,
+INVOICE,IN,,19810126,,01/01/2013,811.0000,"Invoice-Private",,01/01/2013,01/01/2013,,19818157MO,-1265.0000,,,,,,,,,,
+TRANSACTION,3320,010112198,1,217.0000,217.00,"CR:Limited Term Di... R.Schiessl 201301: Schiessl, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,9,66.0000,594.00,"Basic Service Fee AL - One Bdrm B for Jan: Schiessl, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,19810126,,01/01/2013,2076,"Invoice-Private",,01/01/2013,01/01/2013,,19818157MO,-1265.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2046,2046,"CR:Basic Service F... R.Schiessl 201301: Schiessl, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... R.Schiessl 201301: Schiessl, Robert",,,,,,,,,,,,,,,

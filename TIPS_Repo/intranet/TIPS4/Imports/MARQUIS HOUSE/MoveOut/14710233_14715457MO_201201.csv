@@ -1,0 +1,8 @@
+BATCH,,201201,B,5608.0000,
+INVOICE,IN,,14710233,,01/13/2012,1815.0000,"Invoice-Private",,01/13/2012,01/13/2012,,14715457MO,-1978.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,15,102.0000,1530.00,"Basic Service Fee - Studio for Jan: Shaffer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,15,19.0000,285.00,"Resident Care - Level 1 for Jan: Shaffer, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,14710233,,01/13/2012,3793,"Invoice-Private",,01/13/2012,01/13/2012,,14715457MO,-1978.0000,,,,,,,,,,
+TRANSACTION,3020,010310147,1,3162,3162,"CR:Basic Service F... R.Shaffer 201201: Shaffer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310147,1,42,42,"CR:Monthly Cable... R.Shaffer 201201: Shaffer, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310147,1,589,589,"CR:Resident Care -... R.Shaffer 201201: Shaffer, Ralph",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201202,B,3245.0000,
+INVOICE,IN,,11910248,,02/01/2012,3245.0000,"February_Rent-Anderson. Thor",,02/01/2012,02/10/2012,,11915590,6825.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,29,93.0000,2697,"Basic Service Fee - Studio: Anderson. Thor",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,29,18.0000,522,"Resident Care - Level 1: Anderson. Thor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Anderson. Thor",,,,,,,,,,,,,,,

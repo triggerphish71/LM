@@ -1,0 +1,6 @@
+BATCH,,201112,B,4526.0000,
+INVOICE,IN,,16710219,,12/01/2011,558.0000,"Invoice-Private",,12/01/2011,12/10/2011,,16713654MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,1,558.0000,558.00,"CR:Limited Term Di... E.Luebbe 201112: Luebbe, Elsie",,,,,,,,,,,,,,,
+INVOICE,CM,,16710219,,12/01/2011,3968,"Invoice-Private",,12/01/2011,12/10/2011,,16713654MO,-3540.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2728,2728,"CR:Basic Service F... E.Luebbe 201112: Luebbe, Elsie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1240,1240,"CR:Resident Care -... E.Luebbe 201112: Luebbe, Elsie",,,,,,,,,,,,,,,

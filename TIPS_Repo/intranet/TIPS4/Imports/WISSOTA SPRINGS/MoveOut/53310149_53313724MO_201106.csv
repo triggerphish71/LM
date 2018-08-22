@@ -1,0 +1,8 @@
+BATCH,,201106,B,4880.0000,
+INVOICE,IN,,53310149,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,53313724MO,-6853.6000,,,,,,,,,,
+TRANSACTION,3320,010319533,1,60.0000,60.00,"CR:Limited Term Di... H.Pinch 201106: Pinch, Harriet",,,,,,,,,,,,,,,
+INVOICE,CM,,53310149,,06/01/2011,4820,"Invoice-Private",,06/01/2011,06/10/2011,,53313724MO,-6853.6000,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... H.Pinch 201106: Pinch, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... H.Pinch 201106: Pinch, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,2220,2220,"CR:Resident Care -... H.Pinch 201106: Pinch, Harriet",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2550,2550,"CR:Room and Board ... H.Pinch 201106: Pinch, Harriet",,,,,,,,,,,,,,,

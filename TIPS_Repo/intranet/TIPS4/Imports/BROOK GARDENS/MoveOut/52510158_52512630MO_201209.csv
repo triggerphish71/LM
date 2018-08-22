@@ -1,0 +1,7 @@
+BATCH,,201209,B,10382.0000,
+INVOICE,IN,,52510158,,09/19/2012,5012.0000,"Invoice-Private",,09/19/2012,09/19/2012,,52512630MO,-5907.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,28,112.0000,3136.00,"Basic Service Fee - Studio for Sep: Wagner, Russel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,28,67.0000,1876.00,"Resident Care - Level 5 for Sep: Wagner, Russel",,,,,,,,,,,,,,,
+INVOICE,CM,,52510158,,09/19/2012,5370,"Invoice-Private",,09/19/2012,09/19/2012,,52512630MO,-5907.0000,,,,,,,,,,
+TRANSACTION,3020,010319525,1,3360,3360,"CR:Basic Service F... R.Wagner 201209: Wagner, Russel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319525,1,2010,2010,"CR:Resident Care -... R.Wagner 201209: Wagner, Russel",,,,,,,,,,,,,,,

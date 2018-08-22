@@ -1,0 +1,6 @@
+BATCH,,201304,B,5108.0000,
+INVOICE,IN,,13410284,,04/27/2013,2403.0000,"Invoice-Private",,04/27/2013,04/27/2013,,13416126MO,-3096.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,27,89.0000,2403.00,"Basic Service Fee - Studio for Apr: Tincher, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,13410284,,04/27/2013,2705,"Invoice-Private",,04/27/2013,04/27/2013,,13416126MO,-3096.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2670,2670,"CR:Basic Service F... R.Tincher 201304: Tincher, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309134,1,35,35,"CR:Monthly Cable... R.Tincher 201304: Tincher, Roy",,,,,,,,,,,,,,,

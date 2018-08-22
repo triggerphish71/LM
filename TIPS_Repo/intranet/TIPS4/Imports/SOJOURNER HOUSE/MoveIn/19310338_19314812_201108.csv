@@ -1,0 +1,5 @@
+BATCH,,201108,B,3140.0000,
+INVOICE,IN,,19310338,,08/12/2011,3140.0000,"MoveIn-Withee. David",,08/12/2011,08/12/2011,,19314812,3140.0000,,,,,,,,,,
+TRANSACTION,3010,010315193,20,72.0000,1440,"Basic Service Fee - Studio         : Withee. David",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315193,1,1500.0000,1500,"New Tenant Fee: Withee. David",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,20,10.0000,200,"CC Meals: Withee. David",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201112,B,3654.0000,
+INVOICE,IN,,06410180,,12/11/2011,957.0000,"Invoice-Private",,12/11/2011,12/11/2011,,06413584MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,11,87.0000,957.00,"Basic Service Fee - Studio for Dec: Prather, Juanita",,,,,,,,,,,,,,,
+INVOICE,CM,,06410180,,12/11/2011,2697,"Invoice-Private",,12/11/2011,12/11/2011,,06413584MO,-1740.0000,,,,,,,,,,
+TRANSACTION,3020,010305064,1,2697,2697,"CR:Basic Service F... J.Prather 201112: Prather, Juanita",,,,,,,,,,,,,,,

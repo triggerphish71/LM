@@ -1,0 +1,7 @@
+BATCH,,201108,B,4978.0000,
+INVOICE,IN,,21210148,,08/07/2011,917.0000,"Invoice-Private",,08/07/2011,08/07/2011,,21212014MO,-3144.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,7,53.0000,371.00,"Resident Care - Level 5 for Aug: Balas, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,7,78.0000,546.00,"Studio for Aug: Balas, William",,,,,,,,,,,,,,,
+INVOICE,CM,,21210148,,08/07/2011,4061,"Invoice-Private",,08/07/2011,08/07/2011,,21212014MO,-3144.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1643,1643,"CR:Resident Care -... W.Balas 201108: Balas, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2418,2418,"CR:Studio... W.Balas 201108: Balas, William",,,,,,,,,,,,,,,

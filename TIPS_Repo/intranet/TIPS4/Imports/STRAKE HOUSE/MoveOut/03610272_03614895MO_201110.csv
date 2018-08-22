@@ -1,0 +1,8 @@
+BATCH,,201110,B,7391.0000,
+INVOICE,IN,,03610272,,10/27/2011,3888.0000,"Invoice-Private",,10/27/2011,10/27/2011,,03614895MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3320,010202036,1,837.0000,837.00,"CR:Limited Term Di... H.Gaylor 201110: Gaylor, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202036,27,97.0000,2619.00,"Basic Service Fee - Studio for Oct: Gaylor, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,27,16.0000,432.00,"Resident Care - Level 1 for Oct: Gaylor, Harry",,,,,,,,,,,,,,,
+INVOICE,CM,,03610272,,10/27/2011,3503,"Invoice-Private",,10/27/2011,10/27/2011,,03614895MO,-2195.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3007,3007,"CR:Basic Service F... H.Gaylor 201110: Gaylor, Harry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,496,496,"CR:Resident Care -... H.Gaylor 201110: Gaylor, Harry",,,,,,,,,,,,,,,

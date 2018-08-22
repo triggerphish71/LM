@@ -1,0 +1,6 @@
+BATCH,,201209,B,4772.0000,
+INVOICE,IN,,53610187,,09/08/2012,1052.0000,"Invoice-Private",,09/08/2012,09/08/2012,,53613730MO,-2668.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,1,60.0000,60.00,"CR:Limited Term Di... V.Lust 201209: Lust, Vernon",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319536,8,124.0000,992.00,"Room and Board - One Bedroom for Sep: Lust, Vernon",,,,,,,,,,,,,,,
+INVOICE,CM,,53610187,,09/08/2012,3720,"Invoice-Private",,09/08/2012,09/08/2012,,53613730MO,-2668.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3720,3720,"CR:Room and Board ... V.Lust 201209: Lust, Vernon",,,,,,,,,,,,,,,

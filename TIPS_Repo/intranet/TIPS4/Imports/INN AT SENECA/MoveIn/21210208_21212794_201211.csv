@@ -1,0 +1,6 @@
+BATCH,,201211,B,3797.0000,
+INVOICE,IN,,21210208,,11/07/2012,3797.0000,"MoveIn-Ellenburg. Davis",,11/07/2012,11/07/2012,,21212794,3797.0000,,,,,,,,,,
+TRANSACTION,3010,010208212,24,82.0000,1968,"Studio: Ellenburg. Davis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010208212,24,12.0000,288,"Resident Care - Level 1: Ellenburg. Davis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41,"Monthly Cable: Ellenburg. Davis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010208212,1,1500.0000,1500,"New Resident Fee: Ellenburg. Davis",,,,,,,,,,,,,,,

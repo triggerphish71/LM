@@ -1,0 +1,6 @@
+BATCH,,201204,B,4899.0000,
+INVOICE,IN,,04710136,,04/05/2012,4899.0000,"MoveIn-Ballow. Adelle",,04/05/2012,04/05/2012,,04713165,4899.0000,,,,,,,,,,
+TRANSACTION,3010,010202047,26,96.0000,2496,"Basic Service Fee - Studio         : Ballow. Adelle",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202047,26,53.0000,1378,"Resident Care - Level 4: Ballow. Adelle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202047,1,25.0000,25,"Monthly Cable: Ballow. Adelle",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202047,1,1000.0000,1000,"New Resident Fee: Ballow. Adelle",,,,,,,,,,,,,,,

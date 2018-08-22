@@ -1,0 +1,5 @@
+BATCH,,201209,B,1320.0000,
+INVOICE,IN,,21410348,,09/01/2012,660.0000,"Invoice-Private",,09/01/2012,09/10/2012,,21417653MO,-1368.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,22.0000,660.00,"Credit for Limited Term Discount: Shakur, Jamaal",,,,,,,,,,,,,,,
+INVOICE,CM,,21410348,,09/01/2012,660,"Invoice-Private",,09/01/2012,09/10/2012,,21417653MO,-1368.0000,,,,,,,,,,
+TRANSACTION,3320,010221214,30,22,660,"Limited Term Discount: Shakur, Jamaal",,,,,,,,,,,,,,,

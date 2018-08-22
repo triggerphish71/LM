@@ -1,0 +1,5 @@
+BATCH,,201209,B,2520.0000,
+INVOICE,IN,,06510173,,09/01/2012,1260.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06514748MO,-3686.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,30,42.0000,1260.00,"Credit for Limited Term Discount: Wallace, Clyde",,,,,,,,,,,,,,,
+INVOICE,CM,,06510173,,09/01/2012,1260,"Invoice-Private",,09/01/2012,09/10/2012,,06514748MO,-3686.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,30,42,1260,"Limited Term Discount: Wallace, Clyde",,,,,,,,,,,,,,,

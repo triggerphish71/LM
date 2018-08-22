@@ -1,0 +1,8 @@
+BATCH,,201206,B,4810.0000,
+INVOICE,IN,,21010222,,06/01/2012,435.0000,"Invoice-Private",,06/01/2012,06/10/2012,,21013646MO,-3940.0000,,,,,,,,,,
+TRANSACTION,3027,010216210,3,51.0000,153.00,"Resident Care - Level 5 for Jun: Turner, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,3,94.0000,282.00,"Studio for Jun: Turner, William",,,,,,,,,,,,,,,
+INVOICE,CM,,21010222,,06/01/2012,4375,"Invoice-Private",,06/01/2012,06/10/2012,,21013646MO,-3940.0000,,,,,,,,,,
+TRANSACTION,3260,010216210,1,25,25,"CR:Monthly Cable... W.Turner 201206: Turner, William",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216210,1,1530,1530,"CR:Resident Care -... W.Turner 201206: Turner, William",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216210,1,2820,2820,"CR:Studio... W.Turner 201206: Turner, William",,,,,,,,,,,,,,,

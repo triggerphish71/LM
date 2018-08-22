@@ -1,0 +1,7 @@
+BATCH,,201205,B,6342.0000,
+INVOICE,IN,,03310346,,05/11/2012,1661.0000,"Invoice-Private",,05/11/2012,05/11/2012,,03316463MO,-3020.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,11,94.0000,1034.00,"Basic Service Fee - Studio for May: Goss, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,11,57.0000,627.00,"Resident Care - Level 5 for May: Goss, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,03310346,,05/11/2012,4681,"Invoice-Private",,05/11/2012,05/11/2012,,03316463MO,-3020.0000,,,,,,,,,,
+TRANSACTION,3020,010202033,1,2914,2914,"CR:Basic Service F... H.Goss 201205: Goss, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202033,1,1767,1767,"CR:Resident Care -... H.Goss 201205: Goss, Helen",,,,,,,,,,,,,,,

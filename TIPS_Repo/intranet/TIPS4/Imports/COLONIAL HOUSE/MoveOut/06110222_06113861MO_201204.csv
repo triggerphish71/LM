@@ -1,0 +1,7 @@
+BATCH,,201204,B,2395.0000,
+INVOICE,IN,,06110222,,04/20/2012,958.0000,"Invoice-Private",,04/20/2012,04/20/2012,,06113861MO,-1963.9000,,,,,,,,,,
+TRANSACTION,3020,010103061,20,30.0000,600.00,"Basic Service Fee - Second Resident for Apr: Featherkile, Gail",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,20,17.9000,358.00,"Resident Care - Level 10 for Apr: Featherkile, Gail",,,,,,,,,,,,,,,
+INVOICE,CM,,06110222,,04/20/2012,1437,"Invoice-Private",,04/20/2012,04/20/2012,,06113861MO,-1963.9000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,900,900,"CR:Basic Service F... G.Featherkile 201204: Featherkile, Gail",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,537,537,"CR:Resident Care -... G.Featherkile 201204: Featherkile, Gail",,,,,,,,,,,,,,,

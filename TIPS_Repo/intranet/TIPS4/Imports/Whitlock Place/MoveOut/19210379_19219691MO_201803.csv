@@ -1,0 +1,8 @@
+BATCH,,201803,B,12964.0000,
+INVOICE,IN,,19210379,,02/27/2018,4291.0000,"Invoice-Private",,02/27/2018,02/27/2018,,19219691MO,-8792.0000,,,,,,,,,,
+TRANSACTION,3017,010009192,7,46.0000,322.00," Level Care:  2 : Williamson, Bob",,,,,,,,,,,,,,,
+TRANSACTION,3020,010009192,27,147.0000,3969.00,"Basic Service Fee- One Bedroom Premium  for Feb: Williamson, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,19210379,,02/27/2018,4116,"Invoice-Private",,02/27/2018,02/27/2018,,19219691MO,-8792.0000,,,,,,,,,,
+TRANSACTION,3020,010009192,1,4116,4116,"CR:Basic Service F... B.Williamson 201802: Williamson, Bob",,,,,,,,,,,,,,,
+INVOICE,CM,,19210379,,03/01/2018,4557,"Invoice-Private",,03/01/2018,03/10/2018,,19219691MO,-8792.0000,,,,,,,,,,
+TRANSACTION,3020,010009192,1,4557,4557,"CR:Basic Service F... B.Williamson 201803: Williamson, Bob",,,,,,,,,,,,,,,

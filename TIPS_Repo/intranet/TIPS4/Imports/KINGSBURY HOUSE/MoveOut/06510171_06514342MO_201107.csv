@@ -1,0 +1,6 @@
+BATCH,,201107,B,4620.0000,
+INVOICE,IN,,06510171,,07/09/2011,240.0000,"Invoice-Private",,07/09/2011,07/09/2011,,06514342MO,-4140.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,2,120.0000,240.00,"J.Hubbard: Basic Service Fee- One Bedroom Prem : Hubbard, Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,06510171,,07/09/2011,4380,"Invoice-Private",,07/09/2011,07/09/2011,,06514342MO,-4140.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,2880,2880,"CR:J.Hubbard: Basi... J.Hubbard 201107: Hubbard, Jane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305065,1,1500,1500,"CR:New Resident Fe... J.Hubbard 201107: Hubbard, Jane",,,,,,,,,,,,,,,

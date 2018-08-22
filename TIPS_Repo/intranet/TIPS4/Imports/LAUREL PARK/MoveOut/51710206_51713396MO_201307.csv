@@ -1,0 +1,8 @@
+BATCH,,201307,B,2524.7500,
+INVOICE,IN,,51710206,,07/14/2013,777.7000,"Invoice-Private",,07/14/2013,07/14/2013,,51713396MO,-969.3500,,,,,,,,,,
+TRANSACTION,3020,010103517,14,50.0000,700.00,"Basic Service Fee - Studio Deluxe for Jul: Green, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,14,5.5500,77.70,"Resident Care - Level 3 for Jul: Green, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,51710206,,07/14/2013,1747.05,"Invoice-Private",,07/14/2013,07/14/2013,,51713396MO,-969.3500,,,,,,,,,,
+TRANSACTION,3020,010103517,1,1550,1550,"CR:Basic Service F... C.Green 201307: Green, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25,25,"CR:Monthly Cable... C.Green 201307: Green, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,172.05,172.05,"CR:Resident Care -... C.Green 201307: Green, Carol",,,,,,,,,,,,,,,

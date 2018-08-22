@@ -1,0 +1,7 @@
+BATCH,,201307,B,5921.6000,
+INVOICE,IN,,01210166,,07/01/2013,185.0500,"Invoice-Private",,07/01/2013,07/01/2013,,01214426MO,-5551.5000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,87.0000,87.00,"Basic Service Fee - Studio for Jul: Niedt, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,98.0500,98.05,"Resident Care - Level 53 for Jul: Niedt, Roy",,,,,,,,,,,,,,,
+INVOICE,CM,,01210166,,07/01/2013,5736.55,"Invoice-Private",,07/01/2013,07/01/2013,,01214426MO,-5551.5000,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2697,2697,"CR:Basic Service F... R.Niedt 201307: Niedt, Roy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,3039.55,3039.55,"CR:Resident Care -... R.Niedt 201307: Niedt, Roy",,,,,,,,,,,,,,,

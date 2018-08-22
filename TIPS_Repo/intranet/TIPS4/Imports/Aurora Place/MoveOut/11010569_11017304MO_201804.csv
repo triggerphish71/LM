@@ -1,0 +1,7 @@
+BATCH,,201804,B,4768.0000,
+INVOICE,IN,,11010569,,04/02/2018,298.0000,"Invoice-Private",,04/02/2018,04/02/2018,,11017304MO,-4172.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,2,75.0000,150.00,"Basic Service Fee - Studio  for Apr: Barlowe, Bahe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,2,74.0000,148.00,"Resident Care - Level 5  for Apr: Barlowe, Bahe",,,,,,,,,,,,,,,
+INVOICE,CM,,11010569,,04/02/2018,4470,"Invoice-Private",,04/02/2018,04/02/2018,,11017304MO,-4172.0000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,2250,2250,"CR:Basic Service F... B.Barlowe 201804: Barlowe, Bahe",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,2220,2220,"CR:Resident Care -... B.Barlowe 201804: Barlowe, Bahe",,,,,,,,,,,,,,,

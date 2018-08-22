@@ -1,0 +1,6 @@
+BATCH,,201202,B,2735.0000,
+INVOICE,IN,,10010220,,02/15/2012,2735.0000,"MoveIn-Heimgartner. Gertrude",,02/15/2012,02/15/2012,,10013837,2735.0000,,,,,,,,,,
+TRANSACTION,3010,010104100,15,85.0000,1275,"Basic Service Fee - Studio: Heimgartner. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104100,15,29.0000,435,"Resident Care - Level 2: Heimgartner. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104100,1,25.0000,25,"Monthly Cable: Heimgartner. Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104100,1,1000.0000,1000,"New Resident Fee: Heimgartner. Gertrude",,,,,,,,,,,,,,,

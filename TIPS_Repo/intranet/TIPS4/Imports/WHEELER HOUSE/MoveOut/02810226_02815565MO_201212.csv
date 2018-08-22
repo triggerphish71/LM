@@ -1,0 +1,8 @@
+BATCH,,201212,B,9080.0000,
+INVOICE,IN,,02810226,,12/30/2012,5143.0000,"Invoice-Private",,12/30/2012,12/30/2012,,02815565MO,-1398.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,1,1333.0000,1333.00,"CR:Limited Term Di... J.Geurin 201212: Geurin, Jena",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202028,30,113.0000,3390.00,"Basic Service Fee - Studio for Dec: Geurin, Jena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,30,14.0000,420.00,"Resident Care - Level 1 for Dec: Geurin, Jena",,,,,,,,,,,,,,,
+INVOICE,CM,,02810226,,12/30/2012,3937,"Invoice-Private",,12/30/2012,12/30/2012,,02815565MO,-1398.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3503,3503,"CR:Basic Service F... J.Geurin 201212: Geurin, Jena",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,434,434,"CR:Resident Care -... J.Geurin 201212: Geurin, Jena",,,,,,,,,,,,,,,

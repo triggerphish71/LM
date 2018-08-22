@@ -1,0 +1,8 @@
+BATCH,,201109,B,5390.8000,
+INVOICE,IN,,00710160,,09/06/2011,1919.8000,"Invoice-Private",,09/06/2011,09/06/2011,,00713249MO,-1551.2000,,,,,,,,,,
+TRANSACTION,3320,010101007,1,300.0000,300.00,"CR:Limited Term Di... N.Hanson 201109: Hanson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101007,14,80.0000,1120.00,"Basic Service Fee - Studio for Sep: Hanson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,14,35.7000,499.80,"Resident Care - Level 21 for Sep: Hanson, Norma",,,,,,,,,,,,,,,
+INVOICE,CM,,00710160,,09/06/2011,3471,"Invoice-Private",,09/06/2011,09/06/2011,,00713249MO,-1551.2000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,2400,2400,"CR:Basic Service F... N.Hanson 201109: Hanson, Norma",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1071,1071,"CR:Resident Care -... N.Hanson 201109: Hanson, Norma",,,,,,,,,,,,,,,

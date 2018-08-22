@@ -1,0 +1,5 @@
+BATCH,,201201,B,1550.0000,
+INVOICE,IN,,06010241,,01/01/2012,775.0000,"Invoice-Private",,01/01/2012,01/10/2012,,06014191MO,-1639.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,25.0000,775.00,"Credit for Limited Term Discount: Yeagley, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,06010241,,01/01/2012,775,"Invoice-Private",,01/01/2012,01/10/2012,,06014191MO,-1639.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,31,25,775,"Limited Term Discount: Yeagley, Donald",,,,,,,,,,,,,,,

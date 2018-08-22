@@ -1,0 +1,7 @@
+BATCH,,201203,B,206.0000,
+INVOICE,IN,,21210176,,03/01/2012,103.0000,"Invoice-Private",,03/01/2012,03/10/2012,,21212305MO,-3341.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,2.0000,62.00,"Credit for Limited Term Discount: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Smith, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21210176,,03/01/2012,103,"Invoice-Private",,03/01/2012,03/10/2012,,21212305MO,-3341.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,31,2,62,"Limited Term Discount: Smith, David",,,,,,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Smith, David",,,,,,,,,,,,,,,

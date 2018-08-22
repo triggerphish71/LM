@@ -1,0 +1,7 @@
+BATCH,,201204,B,3676.4000,
+INVOICE,IN,,07810026,,04/01/2012,1838.2000,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07814473MO,-4091.3600,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25.0000,25.00,"Monthly Cable: Canning, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104078,1,1813.2000,1813.20,"State Medicaid: Canning, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,07810026,,04/01/2012,1838.2,"Invoice-Medicaid",,04/01/2012,04/10/2012,,07814473MO,-4091.3600,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"Credit for Monthly Cable: Canning, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104078,1,1813.2,1813.2,"Credit for State Medicaid: Canning, Helen",,,,,,,,,,,,,,,

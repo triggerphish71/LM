@@ -1,0 +1,5 @@
+BATCH,,201111,B,1080.0000,
+INVOICE,IN,,21410074,,11/01/2011,540.0000,"Invoice-Private",,11/01/2011,11/10/2011,,21416772MO,-2666.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,30,18.0000,540.00,"Credit for Daily Discount: Naftel, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,21410074,,11/01/2011,540,"Invoice-Private",,11/01/2011,11/10/2011,,21416772MO,-2666.0000,,,,,,,,,,
+TRANSACTION,3010,010221214,30,18,540,"Daily Discount: Naftel, Frances",,,,,,,,,,,,,,,

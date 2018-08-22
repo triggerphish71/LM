@@ -1,0 +1,6 @@
+BATCH,,201111,B,4700.0000,
+INVOICE,CM,,06010177,,11/01/2011,4700,"Invoice-Private",,11/01/2011,11/10/2011,,06014140MO,-5550.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3180,3180,"CR:Basic Service F... S.Adams 201111: Adams, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... S.Adams 201111: Adams, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... S.Adams 201111: Adams, Susan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1440,1440,"CR:Resident Care -... S.Adams 201111: Adams, Susan",,,,,,,,,,,,,,,

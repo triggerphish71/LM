@@ -1,0 +1,5 @@
+BATCH,,201304,B,4944.0000,
+INVOICE,IN,,02910358,,04/05/2013,4944.0000,"MoveIn-Vassar. Elda",,04/05/2013,04/05/2013,,02916049,4944.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,26,100.0000,2600,"Basic Service Fee - Studio: Vassar. Elda",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,26,44.0000,1144,"Resident Care - Level 3: Vassar. Elda",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1200.0000,1200,"New Resident Fee: Vassar. Elda",,,,,,,,,,,,,,,

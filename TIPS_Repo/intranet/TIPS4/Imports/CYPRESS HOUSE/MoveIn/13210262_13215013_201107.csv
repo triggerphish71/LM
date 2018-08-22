@@ -1,0 +1,6 @@
+BATCH,,201107,B,2249.0000,
+INVOICE,IN,,13210262,,07/30/2011,2249.0000,"MoveIn-Bowers. Beatrice",,07/30/2011,07/30/2011,,13215013,5717.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,2,95.0000,190,"Basic Service Fee - Studio         : Bowers. Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,2,16.0000,32,"Resident Care - Level 1: Bowers. Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27,"Monthly Cable: Bowers. Beatrice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308132,1,2000.0000,2000,"New Resident Fee: Bowers. Beatrice",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201301,B,4805.0000,
+INVOICE,IN,,05110155,,01/01/2013,775.0000,"Invoice-Private",,01/01/2013,01/10/2013,,05114546MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3320,010202051,1,775.0000,775.00,"CR:Limited Term Di... T.Green 201301: Green, Tommie",,,,,,,,,,,,,,,
+INVOICE,CM,,05110155,,01/01/2013,4030,"Invoice-Private",,01/01/2013,01/10/2013,,05114546MO,-3255.0000,,,,,,,,,,
+TRANSACTION,3027,010202051,1,930,930,"CR:Resident Care -... T.Green 201301: Green, Tommie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3100,3100,"CR:Room and Board ... T.Green 201301: Green, Tommie",,,,,,,,,,,,,,,

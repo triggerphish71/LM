@@ -1,0 +1,5 @@
+BATCH,,201307,B,4539.0000,
+INVOICE,IN,,08610252,,07/20/2013,1780.0000,"Invoice-Private",,07/20/2013,07/20/2013,,08615442MO,-3738.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,20,89.0000,1780.00,"Basic Service Fee - Studio for Jul: Shriner, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,08610252,,07/20/2013,2759,"Invoice-Private",,07/20/2013,07/20/2013,,08615442MO,-3738.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2759,2759,"CR:Basic Service F... T.Shriner 201307: Shriner, Thelma",,,,,,,,,,,,,,,

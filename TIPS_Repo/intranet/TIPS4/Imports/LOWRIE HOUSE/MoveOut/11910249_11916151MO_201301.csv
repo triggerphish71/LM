@@ -1,0 +1,5 @@
+BATCH,,201301,B,1769.0000,
+INVOICE,IN,,11910249,,01/30/2013,870.0000,"Invoice-Private",,01/30/2013,01/30/2013,,11916151MO,-841.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,30,29.0000,870.00,"Basic Service Fee - Second Resident for Jan: Stearns, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,11910249,,01/30/2013,899,"Invoice-Private",,01/30/2013,01/30/2013,,11916151MO,-841.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,899,899,"CR:Basic Service F... R.Stearns 201301: Stearns, Richard",,,,,,,,,,,,,,,

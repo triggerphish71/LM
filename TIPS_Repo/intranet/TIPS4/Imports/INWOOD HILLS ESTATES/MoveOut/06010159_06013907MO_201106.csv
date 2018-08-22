@@ -1,0 +1,6 @@
+BATCH,,201106,B,3280.0000,
+INVOICE,IN,,06010159,,06/01/2011,60.0000,"Invoice-Private",,06/01/2011,06/10/2011,,06013907MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,60.0000,60.00,"CR:Limited Term Di... G.Helms 201106: Helms, Glenys",,,,,,,,,,,,,,,
+INVOICE,CM,,06010159,,06/01/2011,3220,"Invoice-Private",,06/01/2011,06/10/2011,,06013907MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... G.Helms 201106: Helms, Glenys",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3180,3180,"CR:Room and Board ... G.Helms 201106: Helms, Glenys",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,6387.2800,
+INVOICE,IN,,00910071,,02/06/2013,1657.5200,"Invoice-Private",,02/06/2013,02/06/2013,,00913899MO,-3072.2400,,,,,,,,,,
+TRANSACTION,3320,010101009,1,644.0000,644.00,"CR:Limited Term Di... N.Barckley 201302: Barckley, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101009,6,85.9200,515.52,"Resident Care - Level 48 for Feb: Barckley, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,6,83.0000,498.00,"Room and Board - Studio for Feb: Barckley, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,00910071,,02/06/2013,4729.76,"Invoice-Private",,02/06/2013,02/06/2013,,00913899MO,-3072.2400,,,,,,,,,,
+TRANSACTION,3027,010101009,1,2405.76,2405.76,"CR:Resident Care -... N.Barckley 201302: Barckley, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101009,1,2324,2324,"CR:Room and Board ... N.Barckley 201302: Barckley, Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,2608.0000,
+INVOICE,IN,,03110330,,02/01/2013,89.0000,"Invoice-Private",,02/01/2013,02/01/2013,,03117281MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3027,010202031,1,29.0000,29.00,"Resident Care - Level 2 for Feb: Arnold, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202031,1,60.0000,60.00,"Room and Board - Studio for Feb: Arnold, Lillian",,,,,,,,,,,,,,,
+INVOICE,CM,,03110330,,02/01/2013,2519,"Invoice-Private",,02/01/2013,02/01/2013,,03117281MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... L.Arnold 201302: Arnold, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,812,812,"CR:Resident Care -... L.Arnold 201302: Arnold, Lillian",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202031,1,1680,1680,"CR:Room and Board ... L.Arnold 201302: Arnold, Lillian",,,,,,,,,,,,,,,

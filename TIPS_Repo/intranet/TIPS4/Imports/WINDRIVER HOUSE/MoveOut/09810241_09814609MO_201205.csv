@@ -1,0 +1,5 @@
+BATCH,,201205,B,1240.0000,
+INVOICE,IN,,09810241,,05/01/2012,620.0000,"Invoice-Private",,05/01/2012,05/10/2012,,09814609MO,-300.0000,,,,,,,,,,
+TRANSACTION,3320,010103098,31,20.0000,620.00,"Credit for Limited Term Discount: Mylnar, Violet",,,,,,,,,,,,,,,
+INVOICE,CM,,09810241,,05/01/2012,620,"Invoice-Private",,05/01/2012,05/10/2012,,09814609MO,-300.0000,,,,,,,,,,
+TRANSACTION,3320,010103098,31,20,620,"Limited Term Discount: Mylnar, Violet",,,,,,,,,,,,,,,

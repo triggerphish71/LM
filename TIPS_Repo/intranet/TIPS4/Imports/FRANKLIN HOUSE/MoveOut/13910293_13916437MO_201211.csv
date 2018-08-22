@@ -1,0 +1,5 @@
+BATCH,,201211,B,925.0000,
+INVOICE,IN,,13910293,,11/11/2012,111.0000,"Invoice-Private",,11/11/2012,11/11/2012,,13916437MO,-703.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,3,37.0000,111.00,"Basic Service Fee - Second Resident for Nov: Derrick, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,13910293,,11/11/2012,814,"Invoice-Private",,11/11/2012,11/11/2012,,13916437MO,-703.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,814,814,"CR:Basic Service F... M.Derrick 201211: Derrick, Mary",,,,,,,,,,,,,,,

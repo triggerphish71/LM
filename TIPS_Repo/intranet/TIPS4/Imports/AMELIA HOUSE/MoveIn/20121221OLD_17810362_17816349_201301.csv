@@ -1,0 +1,5 @@
+BATCH,,201301,B,3321.0000,
+INVOICE,IN,,17810362,,01/01/2013,3321.0000,"January_Rent-Wahl. Terry",,01/01/2013,01/10/2013,,17816349,4522.0000,,,,,,,,,,
+TRANSACTION,3010,010212178,31,89.0000,2759,"T.Wahl: Basic Service Fee - Studio: Wahl. Terry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010212178,31,17.0000,527,"T.Wahl: Swan Personal Care - L1: Wahl. Terry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35.0000,35,"Monthly Cable: Wahl. Terry",,,,,,,,,,,,,,,

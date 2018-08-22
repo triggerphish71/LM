@@ -1,0 +1,7 @@
+BATCH,,201301,B,2862.0000,
+INVOICE,IN,,11210308,,01/06/2013,106.0000,"Invoice-Private",,01/06/2013,01/06/2013,,11216407MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,37.0000,37.00,"Basic Service Fee - Second Resident for Jan: Scekeres, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,69.0000,69.00,"Resident Care - Level 4 for Jan: Scekeres, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,11210308,,01/06/2013,2756,"Invoice-Private",,01/06/2013,01/06/2013,,11216407MO,-2650.0000,,,,,,,,,,
+TRANSACTION,3020,010310112,1,962,962,"CR:Basic Service F... N.Scekeres 201301: Scekeres, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310112,1,1794,1794,"CR:Resident Care -... N.Scekeres 201301: Scekeres, Nancy",,,,,,,,,,,,,,,

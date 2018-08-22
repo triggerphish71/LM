@@ -1,0 +1,5 @@
+BATCH,,201110,B,3094.4000,
+INVOICE,IN,,06110211,,10/20/2011,3094.4000,"MoveIn-Dietz. Gale",,10/20/2011,10/20/2011,,06113749,5830.4000,,,,,,,,,,
+TRANSACTION,3010,010103061,12,81.0000,972,"Basic Service Fee - Studio         : Dietz. Gale",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103061,12,10.2000,122.4,"Resident Care - Level 6: Dietz. Gale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103061,1,2000.0000,2000,"New Resident Fee: Dietz. Gale",,,,,,,,,,,,,,,

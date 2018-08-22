@@ -1,0 +1,6 @@
+BATCH,,201205,B,2624.0000,
+INVOICE,IN,,50910115,,05/06/2012,733.0000,"Invoice-Private",,05/06/2012,05/06/2012,,50912988MO,-1158.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,1,62.0000,62.00,"CR:Limited Term Di... L.Roll 201205: Roll, LeOpal",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101509,11,61.0000,671.00,"Basic Service Fee - One Bedroom for May: Roll, LeOpal",,,,,,,,,,,,,,,
+INVOICE,CM,,50910115,,05/06/2012,1891,"Invoice-Private",,05/06/2012,05/06/2012,,50912988MO,-1158.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,1891,1891,"CR:Basic Service F... L.Roll 201205: Roll, LeOpal",,,,,,,,,,,,,,,

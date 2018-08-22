@@ -1,0 +1,7 @@
+BATCH,,201106,B,4593.4000,
+INVOICE,IN,,52310068,,06/01/2011,540.4000,"Invoice-Private",,06/01/2011,06/10/2011,,52311747MO,-3512.6000,,,,,,,,,,
+TRANSACTION,3020,010103523,4,79.0000,316.00,"Basic Service Fee - Studio for Jun: Wright, Charles Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,4,56.1000,224.40,"Resident Care - Level 33 for Jun: Wright, Charles Edward",,,,,,,,,,,,,,,
+INVOICE,CM,,52310068,,06/01/2011,4053,"Invoice-Private",,06/01/2011,06/10/2011,,52311747MO,-3512.6000,,,,,,,,,,
+TRANSACTION,3020,010103523,1,2370,2370,"CR:Basic Service F... C.Wright 201106: Wright, Charles Edward",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103523,1,1683,1683,"CR:Resident Care -... C.Wright 201106: Wright, Charles Edward",,,,,,,,,,,,,,,

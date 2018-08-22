@@ -1,0 +1,6 @@
+BATCH,,201107,B,3302.0000,
+INVOICE,IN,,13810189,,07/19/2011,93.0000,"Invoice-Private",,07/19/2011,07/19/2011,,13814558MO,-5999.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,93.0000,93.00,"M.Morris: Basic Service Fee - Studio for Jul: Morris, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,13810189,,07/19/2011,3209,"Invoice-Private",,07/19/2011,07/19/2011,,13814558MO,-5999.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,1209,1209,"CR:M.Morris: Basic... M.Morris 201107: Morris, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309138,1,2000,2000,"CR:New Resident Fe... M.Morris 201107: Morris, Marjorie",,,,,,,,,,,,,,,

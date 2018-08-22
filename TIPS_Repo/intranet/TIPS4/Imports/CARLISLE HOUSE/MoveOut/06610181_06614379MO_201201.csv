@@ -1,0 +1,8 @@
+BATCH,,201201,B,6385.0000,
+INVOICE,IN,,06610181,,01/17/2012,2882.0000,"Invoice-Private",,01/17/2012,01/17/2012,,06614379MO,-2999.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,1,961.0000,961.00,"CR:Limited Term Di... M.Heydinger 201201: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305066,17,96.0000,1632.00,"Basic Service Fee - Studio for Jan: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,17,17.0000,289.00,"Resident Care - Level 1 for Jan: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,06610181,,01/17/2012,3503,"Invoice-Private",,01/17/2012,01/17/2012,,06614379MO,-2999.0000,,,,,,,,,,
+TRANSACTION,3020,010305066,1,2976,2976,"CR:Basic Service F... M.Heydinger 201201: Heydinger, Mary Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305066,1,527,527,"CR:Resident Care -... M.Heydinger 201201: Heydinger, Mary Ann",,,,,,,,,,,,,,,

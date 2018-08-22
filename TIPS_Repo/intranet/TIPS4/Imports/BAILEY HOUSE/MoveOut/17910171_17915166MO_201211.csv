@@ -1,0 +1,7 @@
+BATCH,,201211,B,5456.0000,
+INVOICE,IN,,17910171,,11/14/2012,1736.0000,"Invoice-Private",,11/14/2012,11/14/2012,,17915166MO,-1984.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,14,110.0000,1540.00,"Basic Service Fee- One Bedroom Prem for Nov: Melancon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,14,14.0000,196.00,"Resident Care - Level 1 for Nov: Melancon, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17910171,,11/14/2012,3720,"Invoice-Private",,11/14/2012,11/14/2012,,17915166MO,-1984.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,3300,3300,"CR:Basic Service F... M.Melancon 201211: Melancon, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,420,420,"CR:Resident Care -... M.Melancon 201211: Melancon, Mary",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,4342.0000,
+INVOICE,IN,,53110253,,02/04/2012,688.0000,"Invoice-Private",,02/04/2012,02/04/2012,,53113980MO,-2966.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,58.0000,58.00,"CR:Limited Term Di... R.Jisko 201202: Jisko, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319531,5,98.0000,490.00,"Basic Service Fee - Studio for Feb: Jisko, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,5,28.0000,140.00,"Resident Care - Level 2 for Feb: Jisko, Raymond",,,,,,,,,,,,,,,
+INVOICE,CM,,53110253,,02/04/2012,3654,"Invoice-Private",,02/04/2012,02/04/2012,,53113980MO,-2966.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,2842,2842,"CR:Basic Service F... R.Jisko 201202: Jisko, Raymond",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,812,812,"CR:Resident Care -... R.Jisko 201202: Jisko, Raymond",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201303,B,2657.0000,
+INVOICE,IN,,01310218,,03/14/2013,2657.0000,"MoveIn-Watkins. Fern",,03/14/2013,03/14/2013,,01314381,5400.0000,,,,,,,,,,
+TRANSACTION,3010,010103013,18,72.0000,1296,"Basic Service Fee - Studio: Watkins. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,18,18.5000,333,"Resident Care - Level 10: Watkins. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Watkins. Fern",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Watkins. Fern",,,,,,,,,,,,,,,

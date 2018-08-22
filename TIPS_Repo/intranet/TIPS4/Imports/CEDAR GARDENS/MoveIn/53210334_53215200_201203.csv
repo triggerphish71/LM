@@ -1,0 +1,5 @@
+BATCH,,201203,B,5238.0000,
+INVOICE,IN,,53210334,,03/01/2012,5238.0000,"March_Rent-Berge. Harold",,03/01/2012,03/10/2012,,53215200,9120.0000,,,,,,,,,,
+TRANSACTION,3010,010319532,31,114.0000,3534,"Basic Service Fee - Studio: Berge. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319532,31,54.0000,1674,"Resident Care - Level 4: Berge. Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319532,1,30.0000,30,"Monthly Cable: Berge. Harold",,,,,,,,,,,,,,,

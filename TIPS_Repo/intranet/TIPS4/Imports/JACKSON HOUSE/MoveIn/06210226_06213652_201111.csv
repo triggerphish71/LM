@@ -1,0 +1,5 @@
+BATCH,,201111,B,2601.0000,
+INVOICE,IN,,06210226,,11/25/2011,2601.0000,"MoveIn-Coffee. Frances",,11/25/2011,11/25/2011,,06213652,5602.0000,,,,,,,,,,
+TRANSACTION,3010,010101062,6,96.0000,576,"Basic Service Fee - One Bedroom: Coffee. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101062,1,25.0000,25,"Monthly Cable: Coffee. Frances",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101062,1,2000.0000,2000,"New Resident Fee: Coffee. Frances",,,,,,,,,,,,,,,

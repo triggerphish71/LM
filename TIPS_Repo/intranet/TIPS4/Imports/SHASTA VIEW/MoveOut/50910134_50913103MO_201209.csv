@@ -1,0 +1,5 @@
+BATCH,,201209,B,120.0000,
+INVOICE,IN,,50910134,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,50913103MO,-1097.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,2.0000,60.00,"Credit for Limited Term Discount: Little, Edna",,,,,,,,,,,,,,,
+INVOICE,CM,,50910134,,09/01/2012,60,"Invoice-Private",,09/01/2012,09/10/2012,,50913103MO,-1097.0000,,,,,,,,,,
+TRANSACTION,3320,010101509,30,2,60,"Limited Term Discount: Little, Edna",,,,,,,,,,,,,,,

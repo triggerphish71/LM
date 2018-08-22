@@ -1,0 +1,6 @@
+BATCH,,201110,B,2676.6000,
+INVOICE,IN,,08110226,,10/28/2011,2676.6000,"MoveIn-Seldal. Patti",,10/28/2011,10/28/2011,,08114250,7588.6000,,,,,,,,,,
+TRANSACTION,3010,010103081,4,100.0000,400,"Basic Service Fee - One Bedroom    : Seldal. Patti",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,4,62.9000,251.6,"Resident Care - Level 37: Seldal. Patti",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103081,1,2000.0000,2000,"New Resident Fee: Seldal. Patti",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Seldal. Patti",,,,,,,,,,,,,,,

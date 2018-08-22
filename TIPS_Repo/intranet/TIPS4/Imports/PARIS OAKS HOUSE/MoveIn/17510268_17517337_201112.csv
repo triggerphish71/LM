@@ -1,0 +1,6 @@
+BATCH,,201112,B,3109.0000,
+INVOICE,IN,,17510268,,12/14/2011,3109.0000,"MoveIn-West. Martha",,12/14/2011,12/14/2011,,17517337,3109.0000,,,,,,,,,,
+TRANSACTION,3010,010202175,18,76.0000,1368,"Basic Service Fee - Studio Deluxe: West. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202175,18,12.0000,216,"Resident Care - Level 1: West. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202175,1,25.0000,25,"Monthly Cable: West. Martha",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500.0000,1500,"New Resident Fee: West. Martha",,,,,,,,,,,,,,,

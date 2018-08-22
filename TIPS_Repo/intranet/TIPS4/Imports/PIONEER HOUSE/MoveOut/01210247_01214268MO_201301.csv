@@ -1,0 +1,8 @@
+BATCH,,201301,B,7645.8400,
+INVOICE,IN,,01210247,,01/21/2013,3734.5700,"Invoice-Private",,01/21/2013,01/21/2013,,01214268MO,-2729.4600,,,,,,,,,,
+TRANSACTION,3320,010103012,1,1085.0000,1085.00,"CR:Limited Term Di... J.Stacey 201301: Stacey, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103012,21,85.0000,1785.00,"Basic Service Fee - Studio for Jan: Stacey, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,21,41.1700,864.57,"Resident Care - Level 23 for Jan: Stacey, John",,,,,,,,,,,,,,,
+INVOICE,CM,,01210247,,01/21/2013,3911.27,"Invoice-Private",,01/21/2013,01/21/2013,,01214268MO,-2729.4600,,,,,,,,,,
+TRANSACTION,3020,010103012,1,2635,2635,"CR:Basic Service F... J.Stacey 201301: Stacey, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103012,1,1276.27,1276.27,"CR:Resident Care -... J.Stacey 201301: Stacey, John",,,,,,,,,,,,,,,

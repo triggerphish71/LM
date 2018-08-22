@@ -1,0 +1,5 @@
+BATCH,,201106,B,992.0000,
+INVOICE,IN,,03010183,,05/31/2011,32.0000,"MoveIn-Curran. John",,05/31/2011,05/31/2011,,03013796,992.0000,,,,,,,,,,
+TRANSACTION,3014,010103030,1,32.0000,32,"Basic Service Fee - Second Resident: Curran. John",,,,,,,,,,,,,,,
+INVOICE,IN,,03010183,,06/01/2011,960.0000,"June_Rent-Curran. John",,06/01/2011,06/10/2011,,03013796,992.0000,,,,,,,,,,
+TRANSACTION,3010,010103030,30,32.0000,960,"Basic Service Fee - Second Resident: Curran. John",,,,,,,,,,,,,,,

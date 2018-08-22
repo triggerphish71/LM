@@ -1,0 +1,7 @@
+BATCH,,201304,B,4136.0000,
+INVOICE,IN,,15710222,,04/14/2013,1316.0000,"Invoice-Private",,04/14/2013,04/14/2013,,15714983MO,-4418.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,14,76.0000,1064.00,"Basic Service Fee - Studio for Apr: Hoover, Darlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,14,18.0000,252.00,"Resident Care - Level 1 for Apr: Hoover, Darlene",,,,,,,,,,,,,,,
+INVOICE,CM,,15710222,,04/14/2013,2820,"Invoice-Private",,04/14/2013,04/14/2013,,15714983MO,-4418.0000,,,,,,,,,,
+TRANSACTION,3020,010309157,1,2280,2280,"CR:Basic Service F... D.Hoover 201304: Hoover, Darlene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309157,1,540,540,"CR:Resident Care -... D.Hoover 201304: Hoover, Darlene",,,,,,,,,,,,,,,

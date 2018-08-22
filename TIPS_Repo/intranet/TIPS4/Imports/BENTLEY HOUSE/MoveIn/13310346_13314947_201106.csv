@@ -1,0 +1,6 @@
+BATCH,,201106,B,5460.0000,
+INVOICE,IN,,13310346,,06/06/2011,5460.0000,"MoveIn-Black. Robert",,06/06/2011,06/06/2011,,13314947,5460.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,25,89.0000,2225,"Basic Service Fee - Studio         : Black. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,25,48.0000,1200,"Resident Care - Level 3: Black. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Black. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310133,1,2000.0000,2000,"New Resident Fee: Black. Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,3710.0000,
+INVOICE,IN,,01210269,,12/12/2012,3710.0000,"MoveIn-Ungerecht. Monna",,12/12/2012,12/12/2012,,01214232,7119.5500,,,,,,,,,,
+TRANSACTION,3010,010103012,20,85.0000,1700,"M.Ungerecht: Basic Service Fee - Studio: Ungerecht. Monna",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,20,24.0500,481,"M.Ungerecht: Resident Care - Level 13: Ungerecht. Monna",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Ungerecht. Monna",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Ungerecht. Monna",,,,,,,,,,,,,,,

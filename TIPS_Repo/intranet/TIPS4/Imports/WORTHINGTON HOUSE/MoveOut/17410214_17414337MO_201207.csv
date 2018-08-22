@@ -1,0 +1,7 @@
+BATCH,,201207,B,6452.0000,
+INVOICE,IN,,17410214,,07/01/2012,1085.0000,"Invoice-Private",,07/01/2012,07/10/2012,,17414337MO,-4471.0000,,,,,,,,,,
+TRANSACTION,3320,010309174,1,1085.0000,1085.00,"CR:Limited Term Di... M.Thompson 201207: Thompson, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,17410214,,07/01/2012,5367,"Invoice-Private",,07/01/2012,07/10/2012,,17414337MO,-4471.0000,,,,,,,,,,
+TRANSACTION,3020,010309174,1,2945,2945,"CR:Basic Service F... M.Thompson 201207: Thompson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309174,1,35,35,"CR:Pendant Fee... M.Thompson 201207: Thompson, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309174,1,2387,2387,"CR:Resident Care -... M.Thompson 201207: Thompson, Mary",,,,,,,,,,,,,,,

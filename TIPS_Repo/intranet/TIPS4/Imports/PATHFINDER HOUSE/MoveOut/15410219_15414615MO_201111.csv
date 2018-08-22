@@ -1,0 +1,8 @@
+BATCH,,201111,B,4013.0000,
+INVOICE,IN,,15410219,,11/01/2011,468.0000,"Invoice-Private",,11/01/2011,11/10/2011,,15414615MO,-3077.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,4,67.0000,268.00,"Basic Service Fee - Studio for Nov: Kwiatkowski, Leander",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,4,50.0000,200.00,"Resident Care - Level 3 for Nov: Kwiatkowski, Leander",,,,,,,,,,,,,,,
+INVOICE,CM,,15410219,,11/01/2011,3545,"Invoice-Private",,11/01/2011,11/10/2011,,15414615MO,-3077.0000,,,,,,,,,,
+TRANSACTION,3020,010211154,1,2010,2010,"CR:Basic Service F... L.Kwiatkowski 201111: Kwiatkowski, Leander",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"CR:Monthly Cable... L.Kwiatkowski 201111: Kwiatkowski, Leander",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211154,1,1500,1500,"CR:Resident Care -... L.Kwiatkowski 201111: Kwiatkowski, Leander",,,,,,,,,,,,,,,

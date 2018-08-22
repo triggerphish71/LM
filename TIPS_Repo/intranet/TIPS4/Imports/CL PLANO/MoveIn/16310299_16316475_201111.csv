@@ -1,0 +1,5 @@
+BATCH,,201111,B,4439.0000,
+INVOICE,IN,,16310299,,11/03/2011,4439.0000,"MoveIn-Cooke. John",,11/03/2011,11/03/2011,,16316475,4439.0000,,,,,,,,,,
+TRANSACTION,3010,010202163,28,104.0000,2912,"Basic Service Fee - Studio Deluxe: Cooke. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202163,1,27.0000,27,"Monthly Cable: Cooke. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202163,1,1500.0000,1500,"New Resident Fee: Cooke. John",,,,,,,,,,,,,,,

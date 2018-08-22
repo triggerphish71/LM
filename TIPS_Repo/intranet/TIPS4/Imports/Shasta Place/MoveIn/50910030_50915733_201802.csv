@@ -1,0 +1,6 @@
+BATCH,,201802,B,3310.1700,
+INVOICE,IN,,50910030,,02/20/2018,3310.1700,"MoveIn-Penny. Barbara",,02/20/2018,02/20/2018,,50915733,3310.1700,,,,,,,,,,
+TRANSACTION,3010,010001509,9,60.0000,540,"B.Penny: Basic Service Fee - One Bedroom: Penny. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3017,010001509,9,11.5000,103.5,"B.Penny: Resident Care - Level 5: Penny. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001509,1,2000.0000,2000,"Community Fee: Penny. Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010001509,1,666.6700,666.67,"Monthly Deferral Charge: Penny. Barbara",,,,,,,,,,,,,,,

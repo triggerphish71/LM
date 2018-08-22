@@ -1,0 +1,7 @@
+BATCH,,201106,B,4730.0000,
+INVOICE,IN,,0411347,,06/01/2011,1430.0000,"Invoice-Private",,06/01/2011,06/10/2011,,04113949MO,-1870.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,13,79.0000,1027.00,"Basic Service Fee - Studio for Jun: Hodnett, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,13,31.0000,403.00,"Resident Care - Level 2 for Jun: Hodnett, Nadine",,,,,,,,,,,,,,,
+INVOICE,CM,,0411347,,06/01/2011,3300,"Invoice-Private",,06/01/2011,06/10/2011,,04113949MO,-1870.0000,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2370,2370,"CR:Basic Service F... N.Hodnett 201106: Hodnett, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202041,1,930,930,"CR:Resident Care -... N.Hodnett 201106: Hodnett, Nadine",,,,,,,,,,,,,,,

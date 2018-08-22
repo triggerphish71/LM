@@ -1,0 +1,8 @@
+BATCH,,201203,B,4005.0000,
+INVOICE,IN,,03610209,,03/01/2012,351.0000,"Invoice-Private",,03/01/2012,03/10/2012,,03615047MO,-3303.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,3,101.0000,303.00,"Basic Service Fee - Studio for Mar: Hirshey, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,3,16.0000,48.00,"Resident Care - Level 1 for Mar: Hirshey, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,03610209,,03/01/2012,3654,"Invoice-Private",,03/01/2012,03/10/2012,,03615047MO,-3303.0000,,,,,,,,,,
+TRANSACTION,3020,010202036,1,3131,3131,"CR:Basic Service F... R.Hirshey 201203: Hirshey, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202036,1,27,27,"CR:Monthly Cable... R.Hirshey 201203: Hirshey, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202036,1,496,496,"CR:Resident Care -... R.Hirshey 201203: Hirshey, Ruth",,,,,,,,,,,,,,,

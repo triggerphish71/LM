@@ -1,0 +1,6 @@
+BATCH,,201201,B,3230.0000,
+INVOICE,IN,,14910131,,01/01/2012,100.0000,"Invoice-Private",,01/01/2012,01/01/2012,,14914512MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,100.0000,100.00,"Basic Service Fee - Studio for Jan: Bornhoft, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,14910131,,01/01/2012,3130,"Invoice-Private",,01/01/2012,01/01/2012,,14914512MO,-3030.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3100,3100,"CR:Basic Service F... A.Bornhoft 201201: Bornhoft, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... A.Bornhoft 201201: Bornhoft, Alice",,,,,,,,,,,,,,,

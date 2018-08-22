@@ -1,0 +1,7 @@
+BATCH,,201303,B,194.0000,
+INVOICE,IN,,15210139,,03/01/2013,97.0000,"Invoice-Private",,03/01/2013,03/10/2013,,15214053MO,-5832.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35.0000,35.00,"Monthly Cable: Willis, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211152,31,2.0000,62.00,"Credit for Limited Term Discount: Willis, Doris",,,,,,,,,,,,,,,
+INVOICE,CM,,15210139,,03/01/2013,97,"Invoice-Private",,03/01/2013,03/10/2013,,15214053MO,-5832.0000,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"Credit for Monthly Cable: Willis, Doris",,,,,,,,,,,,,,,
+TRANSACTION,3320,010211152,31,2,62,"Limited Term Discount: Willis, Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201201,B,6437.5000,
+INVOICE,IN,,03810172,,01/19/2012,2446.2500,"Invoice-Private",,01/19/2012,01/19/2012,,03814107MO,-5278.7500,,,,,,,,,,
+TRANSACTION,3020,010103038,19,84.0000,1596.00,"Basic Service Fee - Studio for Jan: Bjornstrom, Lorine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,19,44.7500,850.25,"Resident Care - Level 25 for Jan: Bjornstrom, Lorine",,,,,,,,,,,,,,,
+INVOICE,CM,,03810172,,01/19/2012,3991.25,"Invoice-Private",,01/19/2012,01/19/2012,,03814107MO,-5278.7500,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2604,2604,"CR:Basic Service F... L.Bjornstrom 201201: Bjornstrom, Lorine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,1387.25,1387.25,"CR:Resident Care -... L.Bjornstrom 201201: Bjornstrom, Lorine",,,,,,,,,,,,,,,

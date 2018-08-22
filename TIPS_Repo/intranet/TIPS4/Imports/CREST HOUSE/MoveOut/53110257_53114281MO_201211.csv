@@ -1,0 +1,5 @@
+BATCH,,201211,B,2280.0000,
+INVOICE,IN,,53110257,,11/01/2012,1140.0000,"Invoice-Private",,11/01/2012,11/10/2012,,53114281MO,-969.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,30,38.0000,1140.00,"Credit for Limited Term Discount: Danek, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,53110257,,11/01/2012,1140,"Invoice-Private",,11/01/2012,11/10/2012,,53114281MO,-969.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,30,38,1140,"Limited Term Discount: Danek, Frances",,,,,,,,,,,,,,,

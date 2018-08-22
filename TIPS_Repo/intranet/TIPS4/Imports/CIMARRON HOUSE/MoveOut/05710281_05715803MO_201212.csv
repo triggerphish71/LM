@@ -1,0 +1,7 @@
+BATCH,,201212,B,6721.0000,
+INVOICE,IN,,05710281,,12/15/2012,2288.0000,"Invoice-Private",,12/15/2012,12/15/2012,,05715803MO,-6578.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,16,114.0000,1824.00,"Basic Service Fee - One Bedroom for Dec: Autry, Polly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,16,29.0000,464.00,"Resident Care - Level 2 for Dec: Autry, Polly",,,,,,,,,,,,,,,
+INVOICE,CM,,05710281,,12/15/2012,4433,"Invoice-Private",,12/15/2012,12/15/2012,,05715803MO,-6578.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3534,3534,"CR:Basic Service F... P.Autry 201212: Autry, Polly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,899,899,"CR:Resident Care -... P.Autry 201212: Autry, Polly",,,,,,,,,,,,,,,

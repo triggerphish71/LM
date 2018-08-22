@@ -1,0 +1,6 @@
+BATCH,,201301,B,2476.0000,
+INVOICE,IN,,05810246,,01/19/2013,246.0000,"Invoice-Private",,01/19/2013,01/19/2013,,05814238MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3020,010202058,3,82.0000,246.00,"W.McMillan: Basic Service Fee - Studio for Jan: McMillan, Wilma",,,,,,,,,,,,,,,
+INVOICE,CM,,05810246,,01/19/2013,2230,"Invoice-Private",,01/19/2013,01/19/2013,,05814238MO,-4280.0000,,,,,,,,,,
+TRANSACTION,3216,010202058,1,1000,1000,"CR:New Resident Fe... W.McMillan 201301: McMillan, Wilma",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,1,1230,1230,"CR:W.McMillan: Bas... W.McMillan 201301: McMillan, Wilma",,,,,,,,,,,,,,,

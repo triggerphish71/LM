@@ -1,0 +1,5 @@
+BATCH,,201203,B,3626.0000,
+INVOICE,IN,,19010236,,03/09/2012,3626.0000,"MoveIn-Smith. Hellon",,03/09/2012,03/09/2012,,19014411,3626.0000,,,,,,,,,,
+TRANSACTION,3010,010308190,23,113.0000,2599,"Basic Service Fee - One Bedroom: Smith. Hellon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27.0000,27,"Monthly Cable: Smith. Hellon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308190,1,1000.0000,1000,"New Resident Fee: Smith. Hellon",,,,,,,,,,,,,,,

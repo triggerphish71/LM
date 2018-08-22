@@ -1,0 +1,8 @@
+BATCH,,201209,B,4435.0000,
+INVOICE,IN,,1650381,,09/08/2012,928.0000,"Invoice-Private",,09/08/2012,09/08/2012,,16514444MO,-2579.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,8,100.0000,800.00,"Basic Service Fee - Studio for Sep: Patton, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,8,16.0000,128.00,"Resident Care - Level 1 for Sep: Patton, John",,,,,,,,,,,,,,,
+INVOICE,CM,,1650381,,09/08/2012,3507,"Invoice-Private",,09/08/2012,09/08/2012,,16514444MO,-2579.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3000,3000,"CR:Basic Service F... J.Patton 201209: Patton, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27,27,"CR:Monthly Cable... J.Patton 201209: Patton, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,480,480,"CR:Resident Care -... J.Patton 201209: Patton, John",,,,,,,,,,,,,,,

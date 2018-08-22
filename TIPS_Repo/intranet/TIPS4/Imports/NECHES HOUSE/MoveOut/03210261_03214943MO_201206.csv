@@ -1,0 +1,8 @@
+BATCH,,201206,B,8079.0000,
+INVOICE,IN,,03210261,,06/01/2012,3669.0000,"Invoice-Private",,06/01/2012,06/10/2012,,03214943MO,-4089.0000,,,,,,,,,,
+TRANSACTION,3320,010202032,1,1170.0000,1170.00,"CR:Limited Term Di... L.Johansson 201206: Johansson, Lureno",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202032,17,94.0000,1598.00,"Basic Service Fee - Studio for Jun: Johansson, Lureno",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,17,53.0000,901.00,"Resident Care - Level 4 for Jun: Johansson, Lureno",,,,,,,,,,,,,,,
+INVOICE,CM,,03210261,,06/01/2012,4410,"Invoice-Private",,06/01/2012,06/10/2012,,03214943MO,-4089.0000,,,,,,,,,,
+TRANSACTION,3020,010202032,1,2820,2820,"CR:Basic Service F... L.Johansson 201206: Johansson, Lureno",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202032,1,1590,1590,"CR:Resident Care -... L.Johansson 201206: Johansson, Lureno",,,,,,,,,,,,,,,

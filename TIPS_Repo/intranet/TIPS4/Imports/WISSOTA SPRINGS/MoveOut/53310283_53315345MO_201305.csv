@@ -1,0 +1,5 @@
+BATCH,,201305,B,2356.0000,
+INVOICE,IN,,53310283,,05/01/2013,1178.0000,"Invoice-Private",,05/01/2013,05/10/2013,,53315345MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3321,010319533,31,38.0000,1178.00,"Credit for 2nd Resident Free Discount: Englert, John",,,,,,,,,,,,,,,
+INVOICE,CM,,53310283,,05/01/2013,1178,"Invoice-Private",,05/01/2013,05/10/2013,,53315345MO,-1410.0000,,,,,,,,,,
+TRANSACTION,3321,010319533,31,38,1178,"2nd Resident Free Discount: Englert, John",,,,,,,,,,,,,,,

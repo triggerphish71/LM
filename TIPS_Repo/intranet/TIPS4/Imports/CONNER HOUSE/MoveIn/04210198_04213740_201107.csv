@@ -1,0 +1,5 @@
+BATCH,,201107,B,4026.0000,
+INVOICE,IN,,04210198,,07/01/2011,4026.0000,"July_Rent-Richardson. Newton",,07/01/2011,07/10/2011,,04213740,6972.0000,,,,,,,,,,
+TRANSACTION,3010,010202042,31,96.0000,2976,"Basic Service Fee - Studio         : Richardson. Newton",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202042,31,33.0000,1023,"Resident Care - Level 2: Richardson. Newton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202042,1,27.0000,27,"Monthly Cable: Richardson. Newton",,,,,,,,,,,,,,,

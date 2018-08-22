@@ -1,0 +1,7 @@
+BATCH,,201105,B,5730.0000,
+INVOICE,IN,,53510187,,05/14/2011,1045.0000,"Invoice-Private",,05/14/2011,05/14/2011,,53513768MO,-6490.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,11,95.0000,1045.00,"Basic Service Fee - One Bedroom for May: Radandt, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,53510187,,05/14/2011,4685,"Invoice-Private",,05/14/2011,05/14/2011,,53513768MO,-6490.0000,,,,,,,,,,
+TRANSACTION,3020,010319535,1,2660,2660,"CR:Basic Service F... H.Radandt 201105: Radandt, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319535,1,25,25,"CR:Monthly Cable... H.Radandt 201105: Radandt, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319535,1,2000,2000,"CR:New Resident Fe... H.Radandt 201105: Radandt, Harold",,,,,,,,,,,,,,,

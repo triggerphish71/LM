@@ -1,0 +1,8 @@
+BATCH,,201203,B,10372.2100,
+INVOICE,IN,,10910171,,03/21/2012,4719.7800,"Invoice-Private",,03/21/2012,03/21/2012,,10914657MO,-6403.5500,,,,,,,,,,
+TRANSACTION,3020,010305109,26,85.0000,2210.00,"Basic Service Fee - Studio for Mar: Marlowe, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,26,96.5300,2509.78,"Resident Care - Level 6+7 pts for Mar: Marlowe, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,10910171,,03/21/2012,5652.43,"Invoice-Private",,03/21/2012,03/21/2012,,10914657MO,-6403.5500,,,,,,,,,,
+TRANSACTION,3020,010305109,1,2635,2635,"CR:Basic Service F... M.Marlowe 201203: Marlowe, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25,25,"CR:Monthly Cable... M.Marlowe 201203: Marlowe, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305109,1,2992.43,2992.43,"CR:Resident Care -... M.Marlowe 201203: Marlowe, Mary",,,,,,,,,,,,,,,

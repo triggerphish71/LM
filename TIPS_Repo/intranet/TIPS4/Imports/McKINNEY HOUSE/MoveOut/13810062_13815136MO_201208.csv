@@ -1,0 +1,8 @@
+BATCH,,201208,B,10900.0000,
+INVOICE,IN,,13810062,,08/30/2012,5723.0000,"Invoice-Private",,08/30/2012,08/30/2012,,13815136MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,713.0000,713.00,"CR:Limited Term Di... B.Harless 201208: Harless, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,30,96.0000,2880.00,"Basic Service Fee - Studio for Aug: Harless, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,30,71.0000,2130.00,"Resident Care - Level 5 for Aug: Harless, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,13810062,,08/30/2012,5177,"Invoice-Private",,08/30/2012,08/30/2012,,13815136MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... B.Harless 201208: Harless, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,2201,2201,"CR:Resident Care -... B.Harless 201208: Harless, Beverly",,,,,,,,,,,,,,,

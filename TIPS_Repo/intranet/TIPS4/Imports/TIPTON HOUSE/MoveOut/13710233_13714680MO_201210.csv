@@ -1,0 +1,8 @@
+BATCH,,201210,B,7320.0000,
+INVOICE,IN,,13710233,,10/23/2012,3105.0000,"Invoice-Private",,10/23/2012,10/23/2012,,13714680MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,23,90.0000,2070.00,"Basic Service Fee - Studio for Oct: Weed, Catherine (June)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,23,45.0000,1035.00,"Resident Care - Level 3 for Oct: Weed, Catherine (June)",,,,,,,,,,,,,,,
+INVOICE,CM,,13710233,,10/23/2012,4215,"Invoice-Private",,10/23/2012,10/23/2012,,13714680MO,-5190.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2790,2790,"CR:Basic Service F... C.Weed 201210: Weed, Catherine (June)",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... C.Weed 201210: Weed, Catherine (June)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1395,1395,"CR:Resident Care -... C.Weed 201210: Weed, Catherine (June)",,,,,,,,,,,,,,,

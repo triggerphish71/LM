@@ -1,0 +1,8 @@
+BATCH,,201107,B,3014.0000,
+INVOICE,IN,,06010175,,07/05/2011,472.0000,"Invoice-Private",,07/05/2011,07/05/2011,,06013956MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3320,010206060,1,62.0000,62.00,"CR:Limited Term Di... F.Duddleson 201107: Duddleson, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3020,010206060,5,34.0000,170.00,"Basic Service Fee - Second Resident for Jul: Duddleson, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,5,48.0000,240.00,"Resident Care - Level 4 for Jul: Duddleson, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,06010175,,07/05/2011,2542,"Invoice-Private",,07/05/2011,07/05/2011,,06013956MO,-2070.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,1054,1054,"CR:Basic Service F... F.Duddleson 201107: Duddleson, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1488,1488,"CR:Resident Care -... F.Duddleson 201107: Duddleson, Frank",,,,,,,,,,,,,,,

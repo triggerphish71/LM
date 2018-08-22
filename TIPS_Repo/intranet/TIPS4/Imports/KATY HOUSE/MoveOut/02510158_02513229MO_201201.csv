@@ -1,0 +1,7 @@
+BATCH,,201201,B,4025.0000,
+INVOICE,IN,,02510158,,01/04/2012,460.0000,"Invoice-Private",,01/04/2012,01/04/2012,,02513229MO,-3105.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,4,85.0000,340.00,"Basic Service Fee - Studio for Jan: West, Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,4,30.0000,120.00,"Resident Care - Level 2 for Jan: West, Bennie",,,,,,,,,,,,,,,
+INVOICE,CM,,02510158,,01/04/2012,3565,"Invoice-Private",,01/04/2012,01/04/2012,,02513229MO,-3105.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,2635,2635,"CR:Basic Service F... B.West 201201: West, Bennie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,1,930,930,"CR:Resident Care -... B.West 201201: West, Bennie",,,,,,,,,,,,,,,

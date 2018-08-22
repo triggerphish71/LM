@@ -1,0 +1,8 @@
+BATCH,,201202,B,6605.0000,
+INVOICE,IN,,01710131,,02/01/2012,2431.0000,"Invoice-Private",,02/01/2012,02/10/2012,,01713529MO,-1743.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,17,112.0000,1904.00,"Basic Service Fee - One Bedroom for Feb: Smith, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,17,31.0000,527.00,"Resident Care - Level 2 for Feb: Smith, Melba",,,,,,,,,,,,,,,
+INVOICE,CM,,01710131,,02/01/2012,4174,"Invoice-Private",,02/01/2012,02/10/2012,,01713529MO,-1743.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,3248,3248,"CR:Basic Service F... M.Smith 201202: Smith, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... M.Smith 201202: Smith, Melba",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,899,899,"CR:Resident Care -... M.Smith 201202: Smith, Melba",,,,,,,,,,,,,,,

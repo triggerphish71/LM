@@ -1,0 +1,5 @@
+BATCH,,201111,B,2759.0000,
+INVOICE,IN,,53410411,,11/01/2011,89.0000,"Invoice-Private",,11/01/2011,11/10/2011,,53419838MO,-2581.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,89.0000,89.00,"Room and Board - Two Bedroom for Nov: Sommersberger, Mary Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,53410411,,11/01/2011,2670,"Invoice-Private",,11/01/2011,11/10/2011,,53419838MO,-2581.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2670,2670,"CR:Room and Board ... M.Sommersberger 201111: Sommersberger, Mary Ann",,,,,,,,,,,,,,,

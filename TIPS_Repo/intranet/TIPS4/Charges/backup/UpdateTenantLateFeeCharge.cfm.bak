@@ -1,0 +1,623 @@
+<!--- *********************************************************************************************
+Name:       UpdateTenantLateFeeCharges.cfm
+Type:       Template
+Purpose:    The main purpose of this page is to update the tenantLateFee table if its been clicked 
+            as paid on the displaylatefee.cfm page. 
+			Step 1: Once the tenantlateFee table is updated with
+			the paid column then it needs to insert a new record in the invoicedetail table
+			To insert a new record it basically gets the current invoice for the particular tenant
+			and checks if its not been finalised and not a move in invoice. 
+			Step 2: It gets the invoicemaster_Id
+			and then adds a new record in the invoicedetail table using the invoicemaster_Id.
+			Step 3: Once it insert a new record in the invoicedetail table it has to update the
+			tenantlatefee table with the invoicemaster_Id to which its tied to. The invoicedetail_Id
+			is also updated in the tenantlatefee table.
+			 
+
+Called by: DisplayLateFee.cfm
+    Parameter Name                      Description
+    ------------------------------      -----------------------------------------------------------
+                      
+
+Calls: 
+    Parameter Name                      Description
+    ------------------------------      -----------------------------------------------------------
+    None
+
+Calls: 
+    Parameter Name                      Description
+    ------------------------------      -----------------------------------------------------------
+   
+Modified By             Date            Reason
+-------------------     -------------   -----------------------------------------------------------
+Sathya                  03/12/2010       Created this file for project 20933 Late Fee
+
+--->
+
+
+<!--- See if the required variables exisits if not throw an error --->
+ <cftry>
+	<cfif NOT isDefined("session.qselectedhouse.ihouse_id")>
+	   <!--- throw the error --->
+	   <cfthrow message = "Session has expired please try again later. Try to logout and log back in to TIPS">
+	</cfif>
+	 <cfif NOT isDefined("form.solomonkey")>
+	   <!--- throw the error --->
+	   <cfthrow message = "SolomonKey not found">
+	</cfif>
+	 <cfif NOT isDefined("form.tenantid")>
+	   <!--- throw the error --->
+	   <cfthrow message = "Tenant ID not found.">
+	</cfif>
+	<cfif NOT isDefined("form.invoicelatefeeid")>
+	   <!--- throw the error --->
+	   <cfthrow message = "Invoice late fee id not found.">
+	</cfif>
+	<cfif NOT isDefined("form.LateFeeAmount")>
+	   <!--- throw the error --->
+	   <cfthrow message = "Late fee Amount is not found.">
+	</cfif>
+<cfcatch type = "application">
+  <cfoutput>
+    <p>#cfcatch.message#</p>
+	<br></br>
+	<a href='../MainMenu.cfm'><p>Please click here to go back to TIPS Main Screen.</p></a>
+ </cfoutput>
+</cfcatch>
+</cftry>
+<!--- sathya commented start here for code --->
+
+
+<cftransaction>
+	<cftry>
+		<!--- get the currect tips month so that you can get the current invoice for the tips month --->
+		<CFQUERY  NAME="Housedetailedinfo" DATASOURCE="#APPLICATION.DataSource#">
+			SELECT  
+				*
+			FROM 
+				House H (NOLOCK)
+			INNER JOIN  
+				HouseLog HL (NOLOCK) ON H.iHouse_ID = HL.iHouse_ID 
+					AND 
+				HL.dtRowDeleted IS NULL 
+					AND 
+				H.dtRowDeleted IS NULL
+			WHERE 
+				H.iHouse_ID = #session.qselectedhouse.ihouse_id#
+		</CFQUERY>
+		<!--- Get the late fee record for the amount match --->
+		<CFQUERY  NAME="GetLateFeeinfoMatch" DATASOURCE="#APPLICATION.DataSource#">
+			SELECT  
+				*
+			FROM 
+				TenantLateFee
+			WHERE 
+				iInvoiceLateFee_Id = #form.invoicelatefeeid#
+				and
+			    iTenant_id = #form.tenantid#
+			    and dtrowdeleted is null
+		</CFQUERY>
+		<!--- Get the partial payments info so that we can see how much has been paid so far --->
+		<cfquery name="getpartialpaymentinfo" datasource="#APPLICATION.DataSource#">
+			SELECT isNull(SUM(mLateFeePartialPayment),0)  as totalPartialPayment
+			FROM TenantLateFeeAdjustmentDetail tla
+			join invoicedetail ind
+			on tla.iinvoicedetail_id = ind.iinvoicedetail_id
+			WHERE tla.iInvoiceLateFee_Id = #form.invoicelatefeeid#
+			and tla.iTenant_id = #form.tenantid#
+			and tla.dtrowdeleted is null
+			and ind.dtrowdeleted is null
+		</cfquery>
+		
+		<!--- Save the CurrentLateFee amount in a variable for the match --->
+		<cfset CurrentLateFeeAmount = GetLateFeeinfoMatch.mLateFeeAmount>
+		
+		<cfoutput><br>current amount #CurrentLateFeeAmount#
+		    <br>form amount #form.LateFeeAmount#
+		<!--- remove the dollar sign if there are any--->
+		<cfset EnteredlateFeeAmount1 = trim(form.LateFeeAmount)>
+  		<cfset EnteredlateFeeAmount1 = REReplace(form.LateFeeAmount,"[\$,]","","ALL")>
+		<br>removeing the dollar: #EnteredlateFeeAmount1#
+		</cfoutput>
+		
+		<!--- Variable to mark that the late fee is been paid in total --->
+		<cfset MarkAsPaid = 0>
+		
+	<!---This late fee was paid on a installment basis  --->
+	<cfif (getpartialpaymentinfo.totalPartialPayment gt 0) >
+			<cfset PartialLateFeeTotal = getpartialpaymentinfo.totalPartialPayment>
+			<cfset BalanceToPay = CurrentLateFeeAmount - PartialLateFeeTotal>
+			<cfoutput>
+				Partial payment initialisation case<br>
+				testing print Partial Payment total: #PartialLateFeeTotal#
+			  <br>testing print Balance to pay: #BalanceToPay#
+			</cfoutput>
+			<!--- Check if the entered amount is greater than what needs to be paid on behaves of this late fee --->
+			<cfif EnteredlateFeeAmount1 gt BalanceToPay>
+				<cfoutput>The Amount entered is greater than the listed amount please check and submit it again.</cfoutput>
+				<cfabort showerror="The Amount entered is greater than the listed amount please check and submit it again.">
+			</cfif>
+			<cfset EnteredlateFeeAmount = EnteredlateFeeAmount1>
+			<cfif EnteredlateFeeAmount1 eq BalanceToPay>
+				<cfset MarkAsPaid = MarkAsPaid + 1>
+				<cfset DifferenceinLateFeeAmount = 0>
+			<cfelse>
+			<cfset DifferenceinLateFeeAmount = CurrentLateFeeAmount - EnteredlateFeeAmount>
+			</cfif>
+			 
+	<!--- If the entered amount was greater than the current existing late fee amount  --->	
+	<cfelseif EnteredlateFeeAmount1 gt CurrentLateFeeAmount>
+		   <cfoutput>The Amount entered is greater than the listed amount please check and submit it again.</cfoutput>
+			<cfabort showerror="The Amount entered is greater than the listed amount please check and submit it again.">
+	<cfelse>
+		 <cfset EnteredlateFeeAmount = EnteredlateFeeAmount1>
+		 <cfset DifferenceinLateFeeAmount = CurrentLateFeeAmount - EnteredlateFeeAmount>
+		 <cfoutput>
+		     Enteredlatefeeamount in the last case 
+		<br>EnteredlateFeeAmount: #EnteredlateFeeAmount#
+		<br> DifferenceinLateFeeAmount: #DifferenceinLateFeeAmount#
+		
+		</cfoutput>
+	</cfif>
+		
+		
+		
+		<!--- 
+		<cfif form.LateFeeAmount gt CurrentLateFeeAmount>
+				<cfoutput>The Amount entered is greater than the listed amount please check and submit it again.</cfoutput>
+				<cfabort showerror="The Amount entered is greater than the listed amount please check and submit it again.">
+		<cfelse>
+		        
+		        <cfset EnteredlateFeeAmount = EnteredlateFeeAmount1>
+		     
+		</cfif> --->
+		
+		
+		<!--- Save the current tips period in this variable so that it can be used in the query to pull the current invoice --->
+		<cfset TIPSPeriod = Year(Housedetailedinfo.dtCurrentTipsMonth) & DateFormat(Housedetailedinfo.dtCurrentTipsMonth,"mm")>
+	
+	 <!--- check if there is move out invoice also for current tips month --->
+	 <!--- Commented this out as the moveout case would be there but will be handled later --->
+	<!--- 	<cfquery  name="getMoveOutInvoiceinfo" datasource="#APPLICATION.DataSource#">
+			select * from InvoiceMaster
+			where cSolomonKey = '#form.solomonkey#'
+			and bMoveOutInvoice = 1
+			and bFinalized is null and dtRowDeleted is null
+		</cfquery>
+		
+	<cfif getMoveOutInvoiceinfo.RecordCount GT 0>
+			<cfoutput>There is a move out Invoice for this tenant. That being the case then please go back and go to Move out section to add Late Fee.
+				 You cannot add late fee charges to the invoice from this page, if you have a Move out invoice.
+				 Please contact the IT Support for further Assistance.</cfoutput>
+			<cfabort showError = "There is a move out Invoice for this tenant. 
+					That being the case then please go back and go to Move out section to add Late Fee.
+				 You cannot add late fee charges to the invoice from this page, if you have a Move out invoice.
+				 Please contact the IT Support for further Assistance.">
+	</cfif>
+	 --->
+	   <!--- Get the current invoice which is not finalised for the current tips month --->
+		<cfquery  name="getInvoicematerinfo" datasource="#APPLICATION.DataSource#">
+			select * from InvoiceMaster
+			where cSolomonKey = '#form.solomonkey#'
+			and bMoveInInvoice is null and bMoveOutInvoice is null and bFinalized is null and dtRowDeleted is null
+			and cAppliesToAcctPeriod = '#TIPSPeriod#'
+		</cfquery>
+		<!--- Check to see if there are more than one invoice. If there is more than one invoice which
+		       is not finialised which is not part of move in or move out summary, then the late fee cannot
+		       be tied to more than one invoice at a time. One the invoice which is not finialsed and not
+		       a part of the movein or moveout invoice can have the late fee record being inserted. 
+		       If there is a Move out invoice then add the late fee from the move out section--->
+		<cfif getInvoicematerinfo.RecordCount GT 1>
+			<cfoutput>There are more than one Invoice which are not finalized. The Late fee cannot be tied to more than one invoice at a time. Please contact the IT Support for further Assistance.</cfoutput>
+			<cfabort showError = "There are more than one Invoice which are not finalized. The Late fee cannot be tied to more than one invoice at a time. Please contact the IT Support for further Assistance.">
+		</cfif>
+		
+<!--- Check if entered late fee is equal to the Current late fee in the record --->
+<cfif EnteredlateFeeAmount eq CurrentLateFeeAmount>
+	
+	<!--- Check to see if the invoice exists ---> 
+			<cfif getInvoicematerinfo.RecordCount NEQ 0>
+				<!--- First update the TenantLateFee for that particular iinvoicelatefee_id as paid --->
+				<cfquery name="UpdatePaidlatefee" DATASOURCE = "#APPLICATION.datasource#">
+					 Update TenantLateFee
+					 set bPaid = 1,
+						iRowStartUser_ID = #SESSION.UserID#,
+						iRowPaidUser = #SESSION.UserID#,
+						dtLateFeePaid = GetDate()
+					where 
+					    iInvoiceLateFee_Id = #form.invoicelatefeeid#
+						and
+					    iTenant_id = #form.tenantid#
+				
+				</cfquery> 
+			</cfif>
+			<!--- Get the LateFee information which is paid for the particular ID --->
+		<cfquery name="gettenantlatefeeinfo" DATASOURCE="#APPLICATION.DataSource#" >
+			SELECT *
+			FROM 
+			TenantLateFee
+			where iInvoicelatefee_ID = #form.invoicelatefeeid# and bPaid = 1
+		</cfquery>
+		<!--- Insert new records into invoicedetail table when the charge has been marked as paid --->
+		<cfif (gettenantlatefeeinfo.RecordCount NEQ 0) and (getInvoicematerinfo.RecordCount NEQ 0)>
+			<cfquery  name="InsertPaidLateFeeinInvoiceDetail" datasource="#APPLICATION.DataSource#">
+			insert into InvoiceDetail 
+						(iInvoiceMaster_ID
+						, iTenant_ID
+						, iChargeType_ID
+						, cAppliesToAcctPeriod
+						, dtTransaction
+						, iQuantity
+						, cDescription
+						, mAmount
+						, dtRowStart 
+						, iRowStartUser_ID
+						, bNoInvoiceDisplay	)
+			Values 		( #getInvoicematerinfo.iInvoiceMaster_Id#
+	        			 ,#form.tenantid#
+	        			 ,#gettenantlatefeeinfo.iChargeType_ID#
+						 ,#gettenantlatefeeinfo.cAppliesToAcctPeriod#	
+						 , getDate()
+						 , 1
+						 , 'Late Fee Payment'
+						 ,#gettenantlatefeeinfo.mLateFeeAmount#	
+						 , getDate()
+						 , #SESSION.UserID#
+						 , 1
+						)
+		</cfquery>  
+		
+				
+		<!--- Get the Invoicedetail_Id which has been inserted just now in the invoicedetailm table for the late fee --->
+		<cfquery name="GetCurrentInvoiceDetailIDForLateFee" datasource="#APPLICATION.DataSource#">
+			SELECT  top 1 * 
+			FROM InvoiceDetail
+			WHERE iInvoiceMaster_Id = #getInvoicematerinfo.iInvoiceMaster_Id#
+			and cAppliesToAcctPeriod = #gettenantlatefeeinfo.cAppliesToAcctPeriod#	
+			and iChargeType_ID = #gettenantlatefeeinfo.iChargeType_ID#
+			and iQuantity = 1
+			and mAmount = #gettenantlatefeeinfo.mLateFeeAmount#	
+			and cDescription = 'Late Fee Payment'
+			and iTenant_Id = #form.tenantid#
+			and dtrowdeleted is null
+			order by iinvoicedetail_id desc
+		</cfquery>
+				
+		<!--- update the TenantlateFee with the invoicemaster_Id and invoicedetail_Id --->
+		<cfquery name="updateTenantLateFeewithInvoicemasterId" datasource="#APPLICATION.DataSource#">
+			Update TenantLateFee
+			 set iInvoiceMaster_Id = #getInvoicematerinfo.iInvoiceMaster_Id#
+			    , iInvoiceDetail_ID = #GetCurrentInvoiceDetailIDForLateFee.iInvoiceDetail_ID#
+			    ,iInvoiceNumber = '#getInvoicematerinfo.iInvoiceNumber#'
+			where iInvoicelatefee_ID = #form.invoicelatefeeid# and bPaid = 1
+		</cfquery>
+		</cfif>		
+		<!--- The condition there partial payment has been towards the late fee --->
+<cfelseif (DifferenceinLateFeeAmount gt 0) and (DifferenceinLateFeeAmount neq CurrentLateFeeAmount)>
+		
+		<!--- Update the TenantLateFee table that a partial payment has been made --->
+			<cfquery name="UpdatePartialPaidlatefee" DATASOURCE = "#APPLICATION.datasource#">
+					 Update TenantLateFee
+					 set bPartialPaid = 1,
+						iRowStartUser_ID = #SESSION.UserID#
+					where 
+					    iInvoiceLateFee_Id = #form.invoicelatefeeid#
+						and
+					    iTenant_id = #form.tenantid#
+			</cfquery> 
+			
+			<!--- Get the LateFee information which is paid for the particular ID --->
+			<cfquery name="gettenantlatefeeinfo2" DATASOURCE="#APPLICATION.DataSource#" >
+				SELECT *
+				FROM 
+				TenantLateFee
+				where iInvoicelatefee_ID = #form.invoicelatefeeid# and bPartialPaid = 1
+			</cfquery> 
+			
+			<!--- Insert new records into invoicedetail table when the charge has been marked as partialpaid --->
+		<cfif (gettenantlatefeeinfo2.RecordCount NEQ 0) and (getInvoicematerinfo.RecordCount NEQ 0)>
+			<cfquery  name="InsertPaidLateFeeinInvoiceDetail" datasource="#APPLICATION.DataSource#">
+			insert into InvoiceDetail 
+						(iInvoiceMaster_ID
+						, iTenant_ID
+						, iChargeType_ID
+						, cAppliesToAcctPeriod
+						, dtTransaction
+						, iQuantity
+						, cDescription
+						, mAmount
+						, dtRowStart 
+						, iRowStartUser_ID
+						, bNoInvoiceDisplay)
+			Values 		( #getInvoicematerinfo.iInvoiceMaster_Id#
+	        			 ,#form.tenantid#
+	        			 ,#gettenantlatefeeinfo2.iChargeType_ID#
+						 ,#gettenantlatefeeinfo2.cAppliesToAcctPeriod#	
+						 , getDate()
+						 , 1
+						 , 'Adjustment Partial Payment for Late Fee'
+						 ,#EnteredlateFeeAmount#	
+						 , getDate()
+						 , #SESSION.UserID#
+						 , 1
+						 )
+			</cfquery>  
+		
+		<!--- Get the Invoicedetail_Id which has been inserted just now in the invoicedetailm table for the late fee --->
+		<cfquery name="GetPartialPaymentLateFee" datasource="#APPLICATION.DataSource#">
+			SELECT * 
+			FROM InvoiceDetail
+			WHERE iInvoiceMaster_Id = #getInvoicematerinfo.iInvoiceMaster_Id#
+			and cAppliesToAcctPeriod = #gettenantlatefeeinfo2.cAppliesToAcctPeriod#	
+			and iChargeType_ID = #gettenantlatefeeinfo2.iChargeType_ID#
+			and iQuantity = 1
+			and mAmount = #EnteredlateFeeAmount#	
+			and cDescription = 'Adjustment Partial Payment for Late Fee'
+			and iTenant_Id = #form.tenantid#
+			and dtrowdeleted is null
+		</cfquery>
+		<!--- insert a new record for the partial payment in the TenantLateFeeAdjustmentDetail table --->
+		<cfquery name="insertPartialPayment" DATASOURCE = "#APPLICATION.datasource#">
+		insert into TenantLateFeeAdjustmentDetail
+             (
+				iInvoiceLateFee_ID,
+				cSolomonKey,
+				iTenant_id,
+				cFirstName,
+				cLastName,
+				mActualLateFee,
+				mLateFeePartialPayment,
+				bPaid,
+				iInvoiceNumber,
+				iInvoiceMaster_ID,
+				iInvoiceDetail_ID,
+				cAppliesToAcctPeriod,
+				iChargeType_ID,
+				cGLAccount,
+				iHouse_ID,
+				cHouseName,
+				iRegion_id,
+				cDivision,
+				iOpsArea_ID,
+				cRegion,
+				dtLateFeeStart,
+				dtLateFeePaid,
+				iRowStartUser_ID,
+				dtRowStart
+				 )
+		Values 	( 
+		          #form.invoicelatefeeid#
+				  ,'#gettenantlatefeeinfo2.csolomonkey#'
+				  ,#gettenantlatefeeinfo2.iTenant_ID#
+				  ,'#gettenantlatefeeinfo2.cFirstName#'
+				  ,'#gettenantlatefeeinfo2.cLastName#'
+				  ,#gettenantlatefeeinfo2.mLateFeeAmount#
+				  ,#EnteredlateFeeAmount#
+				  , 1
+				  , '#getInvoicematerinfo.iinvoiceNumber#'
+				  ,#GetPartialPaymentLateFee.iInvoiceMaster_Id#
+				  ,#GetPartialPaymentLateFee.iInvoiceDetail_ID#
+				  ,'#gettenantlatefeeinfo2.cAppliesToAcctPeriod#'
+				  ,#gettenantlatefeeinfo2.iChargeType_ID#
+				  ,'#gettenantlatefeeinfo2.cGLAccount#'
+				  ,#gettenantlatefeeinfo2.iHouse_ID#
+				  ,'#gettenantlatefeeinfo2.cHouseName#'
+				  ,#gettenantlatefeeinfo2.iRegion_id#
+				  ,'#gettenantlatefeeinfo2.cDivision#'
+				  ,#gettenantlatefeeinfo2.iOpsArea_ID#
+				  ,'#gettenantlatefeeinfo2.cRegion#'
+				  ,getDate()
+				  ,getDate()
+				  ,#SESSION.UserID#
+				  ,getdate()
+			  )
+		</cfquery>
+		</cfif> 
+	<!--- If this partial payment completes the total balance of the late fee of that particular record in tenantlatefee table --->
+	<cfelseif MarkAsPaid eq 1>
+	<!--- Update the TenantLateFee table that a partial payment has been made --->
+			<cfquery name="UpdatePartialPaidlatefee2" DATASOURCE = "#APPLICATION.datasource#">
+					 Update TenantLateFee
+					 set bPaid = 1,
+						iRowStartUser_ID = #SESSION.UserID#,
+						dtLateFeepaid = getDate()
+					where 
+					    iInvoiceLateFee_Id = #form.invoicelatefeeid#
+						and
+					    iTenant_id = #form.tenantid#
+			</cfquery> 
+			
+			<!--- Get the LateFee information which is paid for the particular ID --->
+			<cfquery name="gettenantlatefeeinfo3" DATASOURCE="#APPLICATION.DataSource#" >
+				SELECT *
+				FROM 
+				TenantLateFee
+				where iInvoicelatefee_ID = #form.invoicelatefeeid# and bPaid = 1
+			</cfquery> 
+			
+			<!--- Insert new records into invoicedetail table when the charge has been marked as partialpaid --->
+		<cfif (gettenantlatefeeinfo3.RecordCount NEQ 0) and (getInvoicematerinfo.RecordCount NEQ 0)>
+			<cfquery  name="InsertPaidLateFeeinInvoiceDetail" datasource="#APPLICATION.DataSource#">
+			insert into InvoiceDetail 
+						(iInvoiceMaster_ID
+						, iTenant_ID
+						, iChargeType_ID
+						, cAppliesToAcctPeriod
+						, dtTransaction
+						, iQuantity
+						, cDescription
+						, mAmount
+						, dtRowStart 
+						, iRowStartUser_ID
+						, bNoInvoiceDisplay)
+			Values 		( #getInvoicematerinfo.iInvoiceMaster_Id#
+	        			 ,#form.tenantid#
+	        			 ,#gettenantlatefeeinfo3.iChargeType_ID#
+						 ,#gettenantlatefeeinfo3.cAppliesToAcctPeriod#	
+						 , getDate()
+						 , 1
+						 , 'Adjustment Partial Payment for Late Fee'
+						 ,#EnteredlateFeeAmount#	
+						 , getDate()
+						 , #SESSION.UserID#
+						 , 1
+						)
+			</cfquery>  
+		
+		<!--- Get the Invoicedetail_Id which has been inserted just now in the invoicedetailm table for the late fee --->
+		<cfquery name="GetPartialPaymentLateFee2" datasource="#APPLICATION.DataSource#">
+			SELECT * 
+			FROM InvoiceDetail
+			WHERE iInvoiceMaster_Id = #getInvoicematerinfo.iInvoiceMaster_Id#
+			and cAppliesToAcctPeriod = #gettenantlatefeeinfo3.cAppliesToAcctPeriod#	
+			and iChargeType_ID = #gettenantlatefeeinfo3.iChargeType_ID#
+			and iQuantity = 1
+			and mAmount = #EnteredlateFeeAmount#	
+			and cDescription = 'Adjustment Partial Payment for Late Fee'
+			and iTenant_Id = #form.tenantid#
+			and dtrowdeleted is null
+		</cfquery>
+		<!--- insert a new record for the partial payment in the TenantLateFeeAdjustmentDetail table --->
+		<cfquery name="insertPartialPayment2" DATASOURCE = "#APPLICATION.datasource#">
+		insert into TenantLateFeeAdjustmentDetail
+             (
+				iInvoiceLateFee_ID,
+				cSolomonKey,
+				iTenant_id,
+				cFirstName,
+				cLastName,
+				mActualLateFee,
+				mLateFeePartialPayment,
+				bPaid,
+				iInvoiceNumber,
+				iInvoiceMaster_ID,
+				iInvoiceDetail_ID,
+				cAppliesToAcctPeriod,
+				iChargeType_ID,
+				cGLAccount,
+				iHouse_ID,
+				cHouseName,
+				iRegion_id,
+				cDivision,
+				iOpsArea_ID,
+				cRegion,
+				dtLateFeeStart,
+				dtLateFeePaid,
+				iRowStartUser_ID,
+				dtRowStart
+				 )
+		Values 	( 
+		          #form.invoicelatefeeid#
+				  ,'#gettenantlatefeeinfo3.csolomonkey#'
+				  ,#gettenantlatefeeinfo3.iTenant_ID#
+				  ,'#gettenantlatefeeinfo3.cFirstName#'
+				  ,'#gettenantlatefeeinfo3.cLastName#'
+				  ,#gettenantlatefeeinfo3.mLateFeeAmount#
+				  ,#EnteredlateFeeAmount#
+				  , 1
+				  , '#getInvoicematerinfo.iinvoiceNumber#'
+				  ,#GetPartialPaymentLateFee2.iInvoiceMaster_Id#
+				  ,#GetPartialPaymentLateFee2.iInvoiceDetail_ID#
+				  ,'#gettenantlatefeeinfo3.cAppliesToAcctPeriod#'
+				  ,#gettenantlatefeeinfo3.iChargeType_ID#
+				  ,'#gettenantlatefeeinfo3.cGLAccount#'
+				  ,#gettenantlatefeeinfo3.iHouse_ID#
+				  ,'#gettenantlatefeeinfo3.cHouseName#'
+				  ,#gettenantlatefeeinfo3.iRegion_id#
+				  ,'#gettenantlatefeeinfo3.cDivision#'
+				  ,#gettenantlatefeeinfo3.iOpsArea_ID#
+				  ,'#gettenantlatefeeinfo3.cRegion#'
+				  ,getDate()
+				  ,getDate()
+				  ,#SESSION.UserID#
+				  ,getdate()
+			  )
+		</cfquery>
+		</cfif> 
+	<cfelse>
+		<cfoutput> Nothing is there to update </cfoutput>
+	</cfif>
+		
+		
+		<cfcatch type = "DATABASE">
+			 <cftransaction action = "rollback"/>
+				 <cfabort showerror="An error has occured when trying to Add the Charge.">
+		</cfcatch>
+	</cftry>
+</cftransaction> 
+
+<!---After updating the latefee see if there are more late fee  --->
+	<cfquery name="getlatefeefordisplay1" DATASOURCE = "#APPLICATION.datasource#">
+					SELECT * 
+					FROM TenantLateFee ltf
+					join Tenant t 
+					on t.iTenant_id = ltf.iTenant_id
+					WHERE t.iTenant_id =#form.tenantid#
+					AND ltf.dtrowdeleted is null
+					AND t.dtrowdeleted is null
+					AND (ltf.bPaid is null or ltf.bPaid = 0)
+					<!--- AND (ltf.bPartialPaid is null or ltf.bPartialPaid = 0) --->
+					AND (ltf.bAdjustmentDelete is Null or ltf.bAdjustmentDelete = 0)
+					
+	</cfquery>
+	
+
+	 
+	<!--- ==============================================================================
+	Relocate the page to original charges screen
+	=============================================================================== --->
+	 <cfif getlatefeefordisplay1.recordcount GT 0>
+		<CFLOCATION URL="DisplayLateFee.cfm?ID=#form.tenantid#" ADDTOKEN="No">
+	<cfelse>	
+		<CFLOCATION URL="../MainMenu.cfm" ADDTOKEN="No">
+	</cfif>
+		
+<!--- 
+<cfif getlatefeefordisplay1.recordcount GT 0>
+		<CFLOCATION URL="DisplayLateFee.cfm?ID=#form.tenantid#" ADDTOKEN="No">
+		<a href='DisplayLateFee.cfm?ID=#form.tenantid#'><p>Please click here to go back to Late Fee Screen</p></a>
+		<br><a href='ChargesDetail.cfm?ID=#form.tenantid#'> <p>
+			If you want to see the Tenant Charges Click here </p></a></br>
+     <cfelse>	
+		<CFLOCATION URL="../MainMenu.cfm" ADDTOKEN="No">
+	<a href='../MainMenu.cfm'><p>Please click here to go back to TIPS Main Screen.</p></a>
+	 <br><a href='ChargesDetail.cfm?ID=#form.tenantid#'> <p>
+			If you want to see the Tenant Charges Click here </p></a></br> 
+	</cfif>
+	</cfoutput>
+	
+ --->
+
+
+<cfoutput >
+	<!--- invoicelatefeeid: #form.invoicelatefeeid# <br></br>
+	itenant_Id: #form.tenantid# <br></br>
+	tipsperiod: #TIPSPeriod#
+	<br></br>HouseId  : #session.qselectedhouse.ihouse_id#
+	<br></br>solomonkey: #form.solomonkey#
+	
+	
+	
+	The query values:<br>
+	
+	#getInvoicematerinfo.iInvoiceMaster_Id#<br>
+        			 ,#form.tenantid#<br>
+        			 ,#gettenantlatefeeinfo.iChargeType_ID#<br>
+					 ,#gettenantlatefeeinfo.cAppliesToAcctPeriod#	<br>
+					 , getDate()<br>
+					 , 1<br>
+					 , 'Late Fee'<br>
+					 ,#gettenantlatefeeinfo.mLateFeeAmount#	<br>
+					 , getDate()<br>
+					 , #SESSION.UserID#<br></br>
+					 
+					 
+			For Tenantlate fee: <br>iInvoiceMaster_Id = #getInvoicematerinfo.iInvoiceMaster_Id# <br>
+		    , iInvoiceDetail_ID = #GetCurrentInvoiceDetailIDForLateFee.iInvoiceDetail_ID#	 --->
+		    
+		    
+		  
+		    	 
+					 
+</cfoutput> 
+

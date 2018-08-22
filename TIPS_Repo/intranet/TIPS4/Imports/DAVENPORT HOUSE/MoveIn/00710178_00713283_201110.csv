@@ -1,0 +1,5 @@
+BATCH,,201110,B,2816.8000,
+INVOICE,IN,,00710178,,10/20/2011,2816.8000,"MoveIn-Zolotoff. Varee",,10/20/2011,10/20/2011,,00713283,7358.8000,,,,,,,,,,
+TRANSACTION,3010,010101007,12,80.0000,960,"Basic Service Fee - Studio         : Zolotoff. Varee",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,12,71.4000,856.8,"Resident Care - Level 42: Zolotoff. Varee",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Zolotoff. Varee",,,,,,,,,,,,,,,

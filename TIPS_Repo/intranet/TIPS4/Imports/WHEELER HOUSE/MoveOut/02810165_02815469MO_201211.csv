@@ -1,0 +1,6 @@
+BATCH,,201211,B,5550.0000,
+INVOICE,IN,,02810165,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,02815469MO,-6466.0000,,,,,,,,,,
+TRANSACTION,3320,010202028,1,60.0000,60.00,"CR:Limited Term Di... F.Stevens 201211: Stevens, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,02810165,,11/01/2012,5490,"Invoice-Private",,11/01/2012,11/10/2012,,02815469MO,-6466.0000,,,,,,,,,,
+TRANSACTION,3020,010202028,1,3390,3390,"CR:Basic Service F... F.Stevens 201211: Stevens, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202028,1,2100,2100,"CR:Resident Care -... F.Stevens 201211: Stevens, Frances",,,,,,,,,,,,,,,

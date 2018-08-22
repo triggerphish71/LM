@@ -1,0 +1,7 @@
+BATCH,,201201,B,4832.0000,
+INVOICE,IN,,03110312,,01/01/2012,372.0000,"Invoice-Private",,01/01/2012,01/10/2012,,03116565MO,-3618.0000,,,,,,,,,,
+TRANSACTION,3320,010202031,1,372.0000,372.00,"CR:Limited Term Di... C.Safar 201201: Safar, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,03110312,,01/01/2012,4460,"Invoice-Private",,01/01/2012,01/10/2012,,03116565MO,-3618.0000,,,,,,,,,,
+TRANSACTION,3020,010202031,1,3069,3069,"CR:Basic Service F... C.Safar 201201: Safar, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"CR:Monthly Cable... C.Safar 201201: Safar, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202031,1,1364,1364,"CR:Resident Care -... C.Safar 201201: Safar, Charles",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201202,B,3579.0000,
+INVOICE,IN,,17610300,,02/09/2012,3579.0000,"MoveIn-Kleidon. Leroy",,02/09/2012,02/09/2012,,17614308,3579.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,21,73.0000,1533,"Basic Service Fee - Studio: Kleidon. Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,21,16.0000,336,"Resident Care - Level 1: Kleidon. Leroy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Kleidon. Leroy",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,21,10.0000,210,"CC Meals: Kleidon. Leroy",,,,,,,,,,,,,,,

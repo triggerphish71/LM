@@ -1,0 +1,7 @@
+BATCH,,201209,B,9163.0000,
+INVOICE,IN,,08410148,,09/19/2012,3553.0000,"Invoice-Private",,09/19/2012,09/19/2012,,08414005MO,-7854.0000,,,,,,,,,,
+TRANSACTION,3027,010306084,19,81.0000,1539.00,"Resident Care - Level 5 for Sep: Halber, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306084,19,106.0000,2014.00,"Room and Board - Studio for Sep: Halber, Reba",,,,,,,,,,,,,,,
+INVOICE,CM,,08410148,,09/19/2012,5610,"Invoice-Private",,09/19/2012,09/19/2012,,08414005MO,-7854.0000,,,,,,,,,,
+TRANSACTION,3027,010306084,1,2430,2430,"CR:Resident Care -... R.Halber 201209: Halber, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3020,010306084,1,3180,3180,"CR:Room and Board ... R.Halber 201209: Halber, Reba",,,,,,,,,,,,,,,

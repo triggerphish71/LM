@@ -1,0 +1,5 @@
+BATCH,,201202,B,812.0000,
+INVOICE,IN,,20810210,,02/01/2012,406.0000,"Invoice-Private",,02/01/2012,02/10/2012,,20812951MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,29,14.0000,406.00,"Credit for Limited Term Discount: Johnson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,20810210,,02/01/2012,406,"Invoice-Private",,02/01/2012,02/10/2012,,20812951MO,-2687.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,29,14,406,"Limited Term Discount: Johnson, Charles",,,,,,,,,,,,,,,

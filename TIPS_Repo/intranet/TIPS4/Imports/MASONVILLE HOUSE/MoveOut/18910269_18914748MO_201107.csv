@@ -1,0 +1,7 @@
+BATCH,,201107,B,670.0000,
+INVOICE,IN,,18910269,,07/01/2011,335.0000,"Invoice-Private",,07/01/2011,07/10/2011,,18914748MO,-5249.0000,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25.00,"Monthly Cable: Lukas, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315189,31,10.0000,310.00,"HSG Meals: Lukas, Victor",,,,,,,,,,,,,,,
+INVOICE,CM,,18910269,,07/01/2011,335,"Invoice-Private",,07/01/2011,07/10/2011,,18914748MO,-5249.0000,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25,25,"Credit for Monthly Cable: Lukas, Victor",,,,,,,,,,,,,,,
+TRANSACTION,3241,010315189,31,10,310,"Credit for HSG Meals: Lukas, Victor",,,,,,,,,,,,,,,

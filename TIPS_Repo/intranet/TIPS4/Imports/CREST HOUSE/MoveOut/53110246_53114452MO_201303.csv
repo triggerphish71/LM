@@ -1,0 +1,8 @@
+BATCH,,201303,B,5395.0000,
+INVOICE,IN,,53110246,,03/04/2013,612.0000,"Invoice-Private",,03/04/2013,03/04/2013,,53114452MO,-4171.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,4,100.0000,400.00,"Basic Service Fee - One Bedroom for Mar: Prodoehl, Chuck",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,4,53.0000,212.00,"Resident Care - Level 4 for Mar: Prodoehl, Chuck",,,,,,,,,,,,,,,
+INVOICE,CM,,53110246,,03/04/2013,4783,"Invoice-Private",,03/04/2013,03/04/2013,,53114452MO,-4171.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3100,3100,"CR:Basic Service F... C.Prodoehl 201303: Prodoehl, Chuck",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319531,1,40,40,"CR:Monthly Cable... C.Prodoehl 201303: Prodoehl, Chuck",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1643,1643,"CR:Resident Care -... C.Prodoehl 201303: Prodoehl, Chuck",,,,,,,,,,,,,,,

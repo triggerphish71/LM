@@ -1,0 +1,7 @@
+BATCH,,201211,B,5030.0000,
+INVOICE,IN,,13910294,,11/11/2012,360.0000,"Invoice-Private",,11/11/2012,11/11/2012,,13916438MO,-4310.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,3,120.0000,360.00,"C.Derrick: Basic Service Fee - One Bedroom for Nov: Derrick, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13910294,,11/11/2012,4670,"Invoice-Private",,11/11/2012,11/11/2012,,13916438MO,-4310.0000,,,,,,,,,,
+TRANSACTION,3020,010103139,1,2640,2640,"CR:C.Derrick: Basi... C.Derrick 201211: Derrick, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30,30,"CR:Monthly Cable... C.Derrick 201211: Derrick, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000,2000,"CR:New Resident Fe... C.Derrick 201211: Derrick, Charles",,,,,,,,,,,,,,,

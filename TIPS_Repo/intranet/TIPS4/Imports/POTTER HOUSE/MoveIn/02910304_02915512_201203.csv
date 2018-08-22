@@ -1,0 +1,5 @@
+BATCH,,201203,B,3125.0000,
+INVOICE,IN,,02910304,,03/16/2012,3125.0000,"MoveIn-Cooper. Kelly",,03/16/2012,03/16/2012,,02915512,6150.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,16,100.0000,1600,"K.Cooper: Basic Service Fee - Studio: Cooper. Kelly",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: Cooper. Kelly",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: Cooper. Kelly",,,,,,,,,,,,,,,

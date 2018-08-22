@@ -1,0 +1,8 @@
+BATCH,,201107,B,8042.0000,
+INVOICE,IN,,11610230,,07/18/2011,3981.0000,"Invoice-Private",,07/18/2011,07/18/2011,,11614718MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3320,010309116,1,837.0000,837.00,"CR:Limited Term Di... A.Buchanan 201107: Buchanan, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309116,24,97.0000,2328.00,"Basic Service Fee - Studio for Jul: Buchanan, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,24,34.0000,816.00,"Resident Care - Level 2 for Jul: Buchanan, Aubrey",,,,,,,,,,,,,,,
+INVOICE,CM,,11610230,,07/18/2011,4061,"Invoice-Private",,07/18/2011,07/18/2011,,11614718MO,-3304.0000,,,,,,,,,,
+TRANSACTION,3020,010309116,1,3007,3007,"CR:Basic Service F... A.Buchanan 201107: Buchanan, Aubrey",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309116,1,1054,1054,"CR:Resident Care -... A.Buchanan 201107: Buchanan, Aubrey",,,,,,,,,,,,,,,

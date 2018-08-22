@@ -1,0 +1,5 @@
+BATCH,,201210,B,5212.0000,
+INVOICE,IN,,53610210,,10/01/2012,5212.0000,"October_Rent-Parroni. Manlio",,10/01/2012,10/10/2012,,53613759,6082.0000,,,,,,,,,,
+TRANSACTION,3010,010319536,31,101.0000,3131,"Basic Service Fee - Studio Deluxe: Parroni. Manlio",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319536,31,66.0000,2046,"Resident Care - Level 5: Parroni. Manlio",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35.0000,35,"Monthly Cable: Parroni. Manlio",,,,,,,,,,,,,,,

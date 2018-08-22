@@ -1,0 +1,8 @@
+BATCH,,201204,B,8045.0000,
+INVOICE,IN,,13210251,,04/25/2012,4175.0000,"Invoice-Private",,04/25/2012,04/25/2012,,13215438MO,-3694.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,25,99.0000,2475.00,"Basic Service Fee - Studio for Apr: Craven, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,25,30.0000,750.00,"Resident Care - Level 2 for Apr: Craven, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3299,010308132,1,950.0000,950.00,"Damages: Craven, Mattie",,,,,,,,,,,,,,,
+INVOICE,CM,,13210251,,04/25/2012,3870,"Invoice-Private",,04/25/2012,04/25/2012,,13215438MO,-3694.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,2970,2970,"CR:Basic Service F... M.Craven 201204: Craven, Mattie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,900,900,"CR:Resident Care -... M.Craven 201204: Craven, Mattie",,,,,,,,,,,,,,,

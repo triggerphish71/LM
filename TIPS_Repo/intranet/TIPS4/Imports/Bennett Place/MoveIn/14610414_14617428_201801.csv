@@ -1,0 +1,6 @@
+BATCH,,201801,B,6325.2700,
+INVOICE,IN,,14610414,,01/01/2018,6325.2700,"MoveIn-Neumeister. Jean",,01/01/2018,01/01/2018,,14617428,6325.2700,,,,,,,,,,
+TRANSACTION,3010,010009146,31,117.0000,3627,"Basic Service Fee - Studio: Neumeister. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010009146,1,31.6000,31.6,"Monthly Cable: Neumeister. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,2000.0000,2000,"Community Fee: Neumeister. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009146,1,666.6700,666.67,"Monthly Deferral Charge: Neumeister. Jean",,,,,,,,,,,,,,,

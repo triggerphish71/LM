@@ -1,0 +1,7 @@
+BATCH,,201301,B,4460.0000,
+INVOICE,IN,,03410267,,01/01/2013,1054.0000,"Invoice-Private",,01/01/2013,01/10/2013,,03415893MO,-1761.0000,,,,,,,,,,
+TRANSACTION,3320,010202034,1,1054.0000,1054.00,"CR:Limited Term Di... D.Crawford 201301: Crawford, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,03410267,,01/01/2013,3406,"Invoice-Private",,01/01/2013,01/10/2013,,03415893MO,-1761.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... D.Crawford 201301: Crawford, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"CR:Monthly Cable... D.Crawford 201301: Crawford, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... D.Crawford 201301: Crawford, Dorothy",,,,,,,,,,,,,,,

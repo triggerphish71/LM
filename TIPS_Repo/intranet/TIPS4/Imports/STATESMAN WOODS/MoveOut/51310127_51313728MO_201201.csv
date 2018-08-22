@@ -1,0 +1,7 @@
+BATCH,,201201,B,8154.0000,
+INVOICE,IN,,51310127,,01/22/2012,3473.0000,"Invoice-Private",,01/22/2012,01/22/2012,,51313728MO,-5587.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,23,76.0000,1748.00,"Basic Service Fee - Companion Studi for Jan: Burger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,23,75.0000,1725.00,"Resident Care - Level 6 for Jan: Burger, Anna",,,,,,,,,,,,,,,
+INVOICE,CM,,51310127,,01/22/2012,4681,"Invoice-Private",,01/22/2012,01/22/2012,,51313728MO,-5587.0000,,,,,,,,,,
+TRANSACTION,3020,010310513,1,2356,2356,"CR:Basic Service F... A.Burger 201201: Burger, Anna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310513,1,2325,2325,"CR:Resident Care -... A.Burger 201201: Burger, Anna",,,,,,,,,,,,,,,

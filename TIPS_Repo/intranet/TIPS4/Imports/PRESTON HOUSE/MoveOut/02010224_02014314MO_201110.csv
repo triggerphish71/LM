@@ -1,0 +1,6 @@
+BATCH,,201110,B,3683.0000,
+INVOICE,IN,,02010224,,10/01/2011,837.0000,"Invoice-Private",,10/01/2011,10/10/2011,,02014314MO,-2225.0000,,,,,,,,,,
+TRANSACTION,3320,010202020,1,837.0000,837.00,"CR:Limited Term Di... L.Malone 201110: Malone, Lois",,,,,,,,,,,,,,,
+INVOICE,CM,,02010224,,10/01/2011,2846,"Invoice-Private",,10/01/2011,10/10/2011,,02014314MO,-2225.0000,,,,,,,,,,
+TRANSACTION,3020,010202020,1,2821,2821,"CR:Basic Service F... L.Malone 201110: Malone, Lois",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202020,1,25,25,"CR:Monthly Cable... L.Malone 201110: Malone, Lois",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201105,B,2187.8600,
+INVOICE,IN,,03010016,,05/01/2011,19.7200,"Invoice-Medicaid",,05/01/2011,05/10/2011,,03013767MO,-2148.4200,,,,,,,,,,
+TRANSACTION,3021,010103030,1,19.7200,19.72,"Medicaid Co-Pay (3011) for May: Dowell, Melva",,,,,,,,,,,,,,,
+INVOICE,CM,,03010016,,05/01/2011,2168.14,"Invoice-Medicaid",,05/01/2011,05/10/2011,,03013767MO,-2148.4200,,,,,,,,,,
+TRANSACTION,3021,010103030,1,611.21,611.21,"CR:Medicaid Co-Pay... M.Dowell 201105: Dowell, Melva",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103030,1,1556.93,1556.93,"CR:State Medicaid ... M.Dowell 201105: Dowell, Melva",,,,,,,,,,,,,,,

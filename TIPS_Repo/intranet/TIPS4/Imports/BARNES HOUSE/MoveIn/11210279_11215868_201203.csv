@@ -1,0 +1,5 @@
+BATCH,,201203,B,4547.0000,
+INVOICE,IN,,11210279,,03/06/2012,4547.0000,"MoveIn-Yancy. Victor",,03/06/2012,03/06/2012,,11215868,4547.0000,,,,,,,,,,
+TRANSACTION,3010,010310112,26,97.0000,2522,"Basic Service Fee - Studio: Yancy. Victor",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310112,1,25.0000,25,"Monthly Cable: Yancy. Victor",,,,,,,,,,,,,,,
+TRANSACTION,3216,010310112,1,2000.0000,2000,"New Resident Fee: Yancy. Victor",,,,,,,,,,,,,,,

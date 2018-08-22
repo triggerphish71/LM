@@ -1,0 +1,6 @@
+BATCH,,201304,B,3096.0000,
+INVOICE,IN,,17510303,,04/08/2013,212.8000,"Invoice-Private",,04/08/2013,04/08/2013,,17517996MO,-2670.4000,,,,,,,,,,
+TRANSACTION,3020,010202175,4,53.2000,212.80,"L.Stier: Companion Studio Deluxe for Apr: Stier, Lucille",,,,,,,,,,,,,,,
+INVOICE,CM,,17510303,,04/08/2013,2883.2,"Invoice-Private",,04/08/2013,04/08/2013,,17517996MO,-2670.4000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,1383.2,1383.2,"CR:L.Stier: Compan... L.Stier 201304: Stier, Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202175,1,1500,1500,"CR:New Resident Fe... L.Stier 201304: Stier, Lucille",,,,,,,,,,,,,,,

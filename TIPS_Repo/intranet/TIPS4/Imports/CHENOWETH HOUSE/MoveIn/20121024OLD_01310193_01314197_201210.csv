@@ -1,0 +1,6 @@
+BATCH,,201210,B,1917.6500,
+INVOICE,IN,,01310193,,10/23/2012,1917.6500,"MoveIn-Bosquet. Jackie",,10/23/2012,10/23/2012,,01314197,4911.1500,,,,,,,,,,
+TRANSACTION,3010,010103013,9,72.0000,648,"Basic Service Fee - Studio: Bosquet. Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,9,26.8500,241.65,"Resident Care - Level 15: Bosquet. Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: Bosquet. Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: Bosquet. Jackie",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201204,B,176.0000,
+INVOICE,IN,,11510151,,04/01/2012,88.0000,"Invoice-Private",,04/01/2012,04/10/2012,,11514107MO,-2384.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28.00,"Monthly Cable: Griffin, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,2.0000,60.00,"Credit for Limited Term Discount: Griffin, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,11510151,,04/01/2012,88,"Invoice-Private",,04/01/2012,04/10/2012,,11514107MO,-2384.0000,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28,28,"Credit for Monthly Cable: Griffin, Marjorie",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308115,30,2,60,"Limited Term Discount: Griffin, Marjorie",,,,,,,,,,,,,,,

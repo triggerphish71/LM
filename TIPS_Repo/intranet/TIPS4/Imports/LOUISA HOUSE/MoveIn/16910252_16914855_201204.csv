@@ -1,0 +1,5 @@
+BATCH,,201204,B,3591.0000,
+INVOICE,IN,,16910252,,04/13/2012,3591.0000,"MoveIn-Bongea. Harvey",,04/13/2012,04/13/2012,,16914855,3591.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,18,87.0000,1566,"Basic Service Fee - Studio: Bongea. Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Bongea. Harvey",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Bongea. Harvey",,,,,,,,,,,,,,,

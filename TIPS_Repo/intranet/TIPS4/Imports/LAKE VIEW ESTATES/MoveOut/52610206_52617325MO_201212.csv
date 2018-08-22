@@ -1,0 +1,7 @@
+BATCH,,201212,B,184.0000,
+INVOICE,IN,,52610206,,12/01/2012,92.0000,"Invoice-Private",,12/01/2012,12/10/2012,,52617325MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30.0000,30.00,"Pendant Fee: Noe, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319526,31,2.0000,62.00,"Credit for Limited Term Discount: Noe, Eugene",,,,,,,,,,,,,,,
+INVOICE,CM,,52610206,,12/01/2012,92,"Invoice-Private",,12/01/2012,12/10/2012,,52617325MO,-3480.0000,,,,,,,,,,
+TRANSACTION,3130,010319526,1,30,30,"Credit for Pendant Fee: Noe, Eugene",,,,,,,,,,,,,,,
+TRANSACTION,3320,010319526,31,2,62,"Limited Term Discount: Noe, Eugene",,,,,,,,,,,,,,,

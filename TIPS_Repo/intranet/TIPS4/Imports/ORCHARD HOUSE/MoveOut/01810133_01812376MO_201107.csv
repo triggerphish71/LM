@@ -1,0 +1,6 @@
+BATCH,,201107,B,3729.3000,
+INVOICE,IN,,01810133,,07/01/2011,434.0000,"Invoice-Private",,07/01/2011,07/10/2011,,01812376MO,-3929.5000,,,,,,,,,,
+TRANSACTION,3320,010103018,1,434.0000,434.00,"CR:Limited Term Di... H.Singleton 201107: Singleton, Henry",,,,,,,,,,,,,,,
+INVOICE,CM,,01810133,,07/01/2011,3295.3,"Invoice-Private",,07/01/2011,07/10/2011,,01812376MO,-3929.5000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,2294,2294,"CR:Basic Service F... H.Singleton 201107: Singleton, Henry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,1001.3,1001.3,"CR:Resident Care -... H.Singleton 201107: Singleton, Henry",,,,,,,,,,,,,,,

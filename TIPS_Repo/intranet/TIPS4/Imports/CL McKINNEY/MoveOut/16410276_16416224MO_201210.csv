@@ -1,0 +1,7 @@
+BATCH,,201210,B,3927.0000,
+INVOICE,IN,,16410276,,10/02/2012,238.0000,"Invoice-Private",,10/02/2012,10/02/2012,,16416224MO,-3451.0000,,,,,,,,,,
+TRANSACTION,3027,010202164,2,24.0000,48.00,"Resident Care - Level 2 for Oct: Todd, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202164,2,95.0000,190.00,"Room and Board - Studio Deluxe for Oct: Todd, Sara",,,,,,,,,,,,,,,
+INVOICE,CM,,16410276,,10/02/2012,3689,"Invoice-Private",,10/02/2012,10/02/2012,,16416224MO,-3451.0000,,,,,,,,,,
+TRANSACTION,3027,010202164,1,744,744,"CR:Resident Care -... S.Todd 201210: Todd, Sara",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2945,2945,"CR:Room and Board ... S.Todd 201210: Todd, Sara",,,,,,,,,,,,,,,

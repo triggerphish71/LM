@@ -1,0 +1,7 @@
+BATCH,,201303,B,4290.0000,
+INVOICE,IN,,05710266,,03/02/2013,260.0000,"Invoice-Private",,03/02/2013,03/02/2013,,05715960MO,-3770.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,2,101.0000,202.00,"Basic Service Fee - One Bedroom for Mar: Strobel, Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,2,29.0000,58.00,"Resident Care - Level 2 for Mar: Strobel, Mary Jane",,,,,,,,,,,,,,,
+INVOICE,CM,,05710266,,03/02/2013,4030,"Invoice-Private",,03/02/2013,03/02/2013,,05715960MO,-3770.0000,,,,,,,,,,
+TRANSACTION,3020,010202057,1,3131,3131,"CR:Basic Service F... M.Strobel 201303: Strobel, Mary Jane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202057,1,899,899,"CR:Resident Care -... M.Strobel 201303: Strobel, Mary Jane",,,,,,,,,,,,,,,

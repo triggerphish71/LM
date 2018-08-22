@@ -1,0 +1,5 @@
+BATCH,,201212,B,80.0000,
+INVOICE,IN,,19410210,,12/01/2012,40.0000,"Invoice-Private",,12/01/2012,12/10/2012,,19414370MO,-4957.8200,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40.0000,40.00,"Monthly Cable: Coon, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,19410210,,12/01/2012,40,"Invoice-Private",,12/01/2012,12/10/2012,,19414370MO,-4957.8200,,,,,,,,,,
+TRANSACTION,3260,010212194,1,40,40,"Credit for Monthly Cable: Coon, Thomas",,,,,,,,,,,,,,,

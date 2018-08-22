@@ -1,0 +1,8 @@
+BATCH,,201207,B,8219.8000,
+INVOICE,IN,,51610252,,07/29/2012,4517.4700,"Invoice-Private",,07/29/2012,07/29/2012,,51613881MO,-1833.1900,,,,,,,,,,
+TRANSACTION,3320,010103516,1,1054.0000,1054.00,"CR:Limited Term Di... A.Anderson 201207: Anderson, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103516,29,89.0000,2581.00,"Basic Service Fee - Studio for Jul: Anderson, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,29,30.4300,882.47,"Resident Care - Level 17 for Jul: Anderson, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,51610252,,07/29/2012,3702.33,"Invoice-Private",,07/29/2012,07/29/2012,,51613881MO,-1833.1900,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2759,2759,"CR:Basic Service F... A.Anderson 201207: Anderson, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,943.33,943.33,"CR:Resident Care -... A.Anderson 201207: Anderson, Albert",,,,,,,,,,,,,,,

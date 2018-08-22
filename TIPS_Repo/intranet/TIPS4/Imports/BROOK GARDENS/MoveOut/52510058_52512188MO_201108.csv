@@ -1,0 +1,5 @@
+BATCH,,201108,B,186.0000,
+INVOICE,IN,,52510058,,08/01/2011,93.0000,"Invoice-Private",,08/01/2011,08/10/2011,,52512188MO,-5885.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,31,3.0000,93.00,"Credit for Limited Term Discount: Robbins, Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,52510058,,08/01/2011,93,"Invoice-Private",,08/01/2011,08/10/2011,,52512188MO,-5885.0000,,,,,,,,,,
+TRANSACTION,3320,010319525,31,3,93,"Limited Term Discount: Robbins, Judy",,,,,,,,,,,,,,,

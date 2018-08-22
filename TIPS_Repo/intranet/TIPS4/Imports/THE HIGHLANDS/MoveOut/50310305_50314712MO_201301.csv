@@ -1,0 +1,7 @@
+BATCH,,201301,B,4272.0000,
+INVOICE,IN,,50310305,,01/01/2013,1513.0000,"Invoice-Private",,01/01/2013,01/10/2013,,50314712MO,-3773.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,17,75.0000,1275.00,"Basic Service Fee - Studio for Jan: Cummins, Jewell ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,17,14.0000,238.00,"Resident Care - Level 1 for Jan: Cummins, Jewell ",,,,,,,,,,,,,,,
+INVOICE,CM,,50310305,,01/01/2013,2759,"Invoice-Private",,01/01/2013,01/10/2013,,50314712MO,-3773.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... J.Cummins 201301: Cummins, Jewell ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,434,434,"CR:Resident Care -... J.Cummins 201301: Cummins, Jewell ",,,,,,,,,,,,,,,

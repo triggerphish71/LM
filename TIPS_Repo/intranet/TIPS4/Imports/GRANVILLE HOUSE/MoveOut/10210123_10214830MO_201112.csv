@@ -1,0 +1,7 @@
+BATCH,,201112,B,8640.0000,
+INVOICE,IN,,10210123,,12/13/2011,2688.0000,"Invoice-Private",,12/13/2011,12/13/2011,,10214830MO,-3264.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,14,111.0000,1554.00,"Basic Service Fee - Studio for Dec: Linton, Clan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,14,81.0000,1134.00,"Swan Personal Care - L5 for Dec: Linton, Clan",,,,,,,,,,,,,,,
+INVOICE,CM,,10210123,,12/13/2011,5952,"Invoice-Private",,12/13/2011,12/13/2011,,10214830MO,-3264.0000,,,,,,,,,,
+TRANSACTION,3020,010306102,1,3441,3441,"CR:Basic Service F... C.Linton 201112: Linton, Clan",,,,,,,,,,,,,,,
+TRANSACTION,3027,010306102,1,2511,2511,"CR:Swan Personal C... C.Linton 201112: Linton, Clan",,,,,,,,,,,,,,,

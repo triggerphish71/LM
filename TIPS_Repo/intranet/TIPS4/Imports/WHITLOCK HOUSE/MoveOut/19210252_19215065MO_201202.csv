@@ -1,0 +1,6 @@
+BATCH,,201202,B,4959.0000,
+INVOICE,IN,,19210252,,02/01/2012,58.0000,"Invoice-Private",,02/01/2012,02/10/2012,,19215065MO,-6364.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,58.0000,58.00,"CR:Limited Term Di... C.Newgent 201202: Newgent, Clara",,,,,,,,,,,,,,,
+INVOICE,CM,,19210252,,02/01/2012,4901,"Invoice-Private",,02/01/2012,02/10/2012,,19215065MO,-6364.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3306,3306,"CR:Basic Service F... C.Newgent 201202: Newgent, Clara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1595,1595,"CR:Resident Care -... C.Newgent 201202: Newgent, Clara",,,,,,,,,,,,,,,

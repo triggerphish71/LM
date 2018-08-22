@@ -1,0 +1,5 @@
+BATCH,,201301,B,1904.0000,
+INVOICE,IN,,08810249,,01/23/2013,1904.0000,"MoveIn-Harris. Jane",,01/23/2013,01/23/2013,,08814602,6302.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,9,97.0000,873,"J.Harris: Basic Service Fee - Studio: Harris. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,9,59.0000,531,"J.Harris: Resident Care - Level 4: Harris. Jane",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,500.0000,500,"New Resident Fee: Harris. Jane",,,,,,,,,,,,,,,

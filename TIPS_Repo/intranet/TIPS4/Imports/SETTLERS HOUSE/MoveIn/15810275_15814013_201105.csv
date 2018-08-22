@@ -1,0 +1,5 @@
+BATCH,,201105,B,4698.0000,
+INVOICE,IN,,15810275,,05/06/2011,4698.0000,"MoveIn-Johnson. Sheldon",,05/06/2011,05/06/2011,,15814013,4698.0000,,,,,,,,,,
+TRANSACTION,3010,010309158,26,92.0000,2392,"Basic Service Fee - Studio         : Johnson. Sheldon",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309158,26,31.0000,806,"Resident Care - Level 2: Johnson. Sheldon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309158,1,1500.0000,1500,"New Resident Fee: Johnson. Sheldon",,,,,,,,,,,,,,,

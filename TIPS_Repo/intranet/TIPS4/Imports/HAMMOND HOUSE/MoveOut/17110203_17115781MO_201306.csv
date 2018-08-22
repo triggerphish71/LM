@@ -1,0 +1,7 @@
+BATCH,,201306,B,9086.0000,
+INVOICE,IN,,17110203,,06/09/2013,4466.0000,"Invoice-Private",,06/09/2013,06/09/2013,,17115781MO,-4928.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,29,86.0000,2494.00,"Basic Service Fee - Studio for Jun: Bates, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,29,68.0000,1972.00,"Resident Care - Level 5 for Jun: Bates, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,17110203,,06/09/2013,4620,"Invoice-Private",,06/09/2013,06/09/2013,,17115781MO,-4928.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2580,2580,"CR:Basic Service F... B.Bates 201306: Bates, Betty",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,2040,2040,"CR:Resident Care -... B.Bates 201306: Bates, Betty",,,,,,,,,,,,,,,

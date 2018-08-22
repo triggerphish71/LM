@@ -1,0 +1,5 @@
+BATCH,,201305,B,2170.0000,
+INVOICE,IN,,10710375,,05/01/2013,1085.0000,"Invoice-Private",,05/01/2013,05/10/2013,,10716664MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010107107,31,35.0000,1085.00,"Credit for 2nd Resident Free Discount: Becker, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,10710375,,05/01/2013,1085,"Invoice-Private",,05/01/2013,05/10/2013,,10716664MO,0.0000,,,,,,,,,,
+TRANSACTION,3321,010107107,31,35,1085,"2nd Resident Free Discount: Becker, Katherine",,,,,,,,,,,,,,,

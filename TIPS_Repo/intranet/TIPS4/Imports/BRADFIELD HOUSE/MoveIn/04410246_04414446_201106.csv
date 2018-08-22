@@ -1,0 +1,6 @@
+BATCH,,201106,B,2211.0000,
+INVOICE,IN,,04410246,,06/24/2011,2211.0000,"MoveIn-Ellison. Virgil",,06/24/2011,06/24/2011,,04414446,5274.0000,,,,,,,,,,
+TRANSACTION,3010,010202044,7,82.0000,574,"Basic Service Fee - Studio         : Ellison. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202044,7,16.0000,112,"Resident Care - Level 1: Ellison. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202044,1,25.0000,25,"Monthly Cable: Ellison. Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202044,1,1500.0000,1500,"New Resident Fee: Ellison. Virgil",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201210,B,875.0000,
+INVOICE,IN,,17510284,,10/01/2012,100.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17517741MO,-675.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,4,25.0000,100.00,"Basic Service Fee - Second Resident for Oct: Gibson, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,17510284,,10/01/2012,775,"Invoice-Private",,10/01/2012,10/10/2012,,17517741MO,-675.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,775,775,"CR:Basic Service F... J.Gibson 201210: Gibson, Jean",,,,,,,,,,,,,,,

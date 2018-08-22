@@ -1,0 +1,5 @@
+BATCH,,201205,B,4323.0000,
+INVOICE,IN,,05210270,,05/04/2012,4323.0000,"MoveIn-Walker. Roy",,05/04/2012,05/04/2012,,05214844,4323.0000,,,,,,,,,,
+TRANSACTION,3010,010202052,28,82.0000,2296,"Basic Service Fee - Studio: Walker. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27.0000,27,"Monthly Cable: Walker. Roy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202052,1,2000.0000,2000,"New Resident Fee: Walker. Roy",,,,,,,,,,,,,,,

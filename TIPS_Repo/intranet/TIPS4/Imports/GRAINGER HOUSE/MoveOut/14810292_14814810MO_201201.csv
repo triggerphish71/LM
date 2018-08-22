@@ -1,0 +1,7 @@
+BATCH,,201201,B,4945.0000,
+INVOICE,IN,,14810292,,01/12/2012,1380.0000,"Invoice-Private",,01/12/2012,01/12/2012,,14814810MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3027,010310148,12,51.0000,612.00,"Resident Care - Level 3 for Jan: Mulhenbecher, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,12,64.0000,768.00,"Room and Board - Companion Studio for Jan: Mulhenbecher, Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,14810292,,01/12/2012,3565,"Invoice-Private",,01/12/2012,01/12/2012,,14814810MO,-2185.0000,,,,,,,,,,
+TRANSACTION,3027,010310148,1,1581,1581,"CR:Resident Care -... M.Mulhenbecher 201201: Mulhenbecher, Marie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,1,1984,1984,"CR:Room and Board ... M.Mulhenbecher 201201: Mulhenbecher, Marie",,,,,,,,,,,,,,,

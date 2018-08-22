@@ -1,0 +1,8 @@
+BATCH,,201301,B,3658.0000,
+INVOICE,IN,,19310379,,01/05/2013,465.0000,"Invoice-Private",,01/05/2013,01/05/2013,,19315567MO,-2728.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,5,76.0000,380.00,"Basic Service Fee - Studio for Jan: Hiatt, LaTressa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,5,17.0000,85.00,"Resident Care - Level 1 for Jan: Hiatt, LaTressa",,,,,,,,,,,,,,,
+INVOICE,CM,,19310379,,01/05/2013,3193,"Invoice-Private",,01/05/2013,01/05/2013,,19315567MO,-2728.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2356,2356,"CR:Basic Service F... L.Hiatt 201301: Hiatt, LaTressa",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... L.Hiatt 201301: Hiatt, LaTressa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,527,527,"CR:Resident Care -... L.Hiatt 201301: Hiatt, LaTressa",,,,,,,,,,,,,,,

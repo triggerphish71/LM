@@ -1,0 +1,6 @@
+BATCH,,201301,B,3603.5000,
+INVOICE,IN,,16210150,,01/16/2013,3603.5000,"MoveIn-Fleming. Marilyn",,01/16/2013,01/16/2013,,16213120,7271.5000,,,,,,,,,,
+TRANSACTION,3010,010211162,16,75.0000,1200,"Basic Service Fee - Deluxe: Fleming. Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211162,16,56.0000,896,"Resident Care - Level 4: Fleming. Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3216,010211162,1,1500.0000,1500,"New Resident Fee: Fleming. Marilyn",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211162,1,7.5000,7.5,"Pendant Fee: Fleming. Marilyn",,,,,,,,,,,,,,,

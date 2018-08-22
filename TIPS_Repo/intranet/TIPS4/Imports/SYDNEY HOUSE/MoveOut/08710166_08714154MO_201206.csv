@@ -1,0 +1,8 @@
+BATCH,,201206,B,3483.0000,
+INVOICE,IN,,08710166,,06/01/2012,413.0000,"Invoice-Private",,06/01/2012,06/10/2012,,08714154MO,-2657.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,4,102.0000,408.00,"Basic Service Fee - One Bedroom for Jun: Randle, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3228,010103087,1,5.0000,5.00,"Sharps Disposal - 1 Per Day: Randle, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,08710166,,06/01/2012,3070,"Invoice-Private",,06/01/2012,06/10/2012,,08714154MO,-2657.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,3060,3060,"CR:Basic Service F... D.Randle 201206: Randle, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3228,010103087,1,5,5,"CR:Sharps Disposal... D.Randle 201206: Randle, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3228,010103087,1,5,5,"Credit for Sharps Disposal - 1 Per Day: Randle, Dorothy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,550.0000,
+INVOICE,IN,,05610216,,12/01/2012,275.0000,"Invoice-Private",,12/01/2012,12/10/2012,,05614598MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27.0000,27.00,"Monthly Cable: Clark, Monika",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202056,31,8.0000,248.00,"Credit for Limited Term Discount: Clark, Monika",,,,,,,,,,,,,,,
+INVOICE,CM,,05610216,,12/01/2012,275,"Invoice-Private",,12/01/2012,12/10/2012,,05614598MO,-1528.0000,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"Credit for Monthly Cable: Clark, Monika",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202056,31,8,248,"Limited Term Discount: Clark, Monika",,,,,,,,,,,,,,,

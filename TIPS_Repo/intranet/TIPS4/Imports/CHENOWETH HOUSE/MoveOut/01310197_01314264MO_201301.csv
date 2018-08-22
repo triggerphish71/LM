@@ -1,0 +1,7 @@
+BATCH,,201301,B,4374.8200,
+INVOICE,IN,,01310197,,01/01/2013,1116.0000,"Invoice-Private",,01/01/2013,01/10/2013,,01314264MO,-2485.9000,,,,,,,,,,
+TRANSACTION,3320,010103013,1,1116.0000,1116.00,"CR:Limited Term Di... G.Schultz 201301: Schultz, Gertrude",,,,,,,,,,,,,,,
+INVOICE,CM,,01310197,,01/01/2013,3258.82,"Invoice-Private",,01/01/2013,01/10/2013,,01314264MO,-2485.9000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2232,2232,"CR:Basic Service F... G.Schultz 201301: Schultz, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... G.Schultz 201301: Schultz, Gertrude",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,998.82,998.82,"CR:Resident Care -... G.Schultz 201301: Schultz, Gertrude",,,,,,,,,,,,,,,

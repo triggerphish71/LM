@@ -1,0 +1,8 @@
+BATCH,,201301,B,3158.0000,
+INVOICE,IN,,17610322,,01/01/2013,89.0000,"Invoice-Private",,01/01/2013,01/01/2013,,17614825MO,-2980.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,73.0000,73.00,"Basic Service Fee - Studio for Jan: Stull, Evelynn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,16.0000,16.00,"Resident Care - Level 1 for Jan: Stull, Evelynn",,,,,,,,,,,,,,,
+INVOICE,CM,,17610322,,01/01/2013,3069,"Invoice-Private",,01/01/2013,01/01/2013,,17614825MO,-2980.0000,,,,,,,,,,
+TRANSACTION,3020,010315176,1,2263,2263,"CR:Basic Service F... E.Stull 201301: Stull, Evelynn",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,1,310,310,"CR:CC Meals... E.Stull 201301: Stull, Evelynn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315176,1,496,496,"CR:Resident Care -... E.Stull 201301: Stull, Evelynn",,,,,,,,,,,,,,,

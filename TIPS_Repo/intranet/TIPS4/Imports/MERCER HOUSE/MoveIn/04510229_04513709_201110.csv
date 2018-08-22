@@ -1,0 +1,5 @@
+BATCH,,201110,B,3189.0000,
+INVOICE,IN,,04510229,,10/01/2011,3189.0000,"October_Rent-Smith. Wayne",,10/01/2011,10/10/2011,,04513709,5838.0000,,,,,,,,,,
+TRANSACTION,3010,010202045,31,73.0000,2263,"W.Smith: Basic Service Fee - Studio: Smith. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202045,31,29.0000,899,"W.Smith: Resident Care - Level 2: Smith. Wayne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27.0000,27,"Monthly Cable: Smith. Wayne",,,,,,,,,,,,,,,

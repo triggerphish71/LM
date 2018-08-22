@@ -1,0 +1,5 @@
+BATCH,,201303,B,3652.0000,
+INVOICE,IN,,04610212,,03/01/2013,3652.0000,"March_Rent-Duke. Helen",,03/01/2013,03/10/2013,,04613841,7182.0000,,,,,,,,,,
+TRANSACTION,3010,010202046,31,100.0000,3100,"H.Duke: Basic Service Fee - Studio: Duke. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202046,31,17.0000,527,"H.Duke: Resident Care - Level 1: Duke. Helen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202046,1,25.0000,25,"Monthly Cable: Duke. Helen",,,,,,,,,,,,,,,

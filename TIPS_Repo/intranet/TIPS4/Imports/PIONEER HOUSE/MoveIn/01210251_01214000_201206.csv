@@ -1,0 +1,5 @@
+BATCH,,201206,B,2901.2000,
+INVOICE,IN,,01210251,,06/01/2012,2901.2000,"June_Rent-Pierce. Jack",,06/01/2012,06/10/2012,,01214000,5962.0400,,,,,,,,,,
+TRANSACTION,3010,010103012,30,85.0000,2550,"Basic Service Fee - Studio: Pierce. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103012,30,10.7400,322.2,"Resident Care - Level 6: Pierce. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Pierce. Jack",,,,,,,,,,,,,,,

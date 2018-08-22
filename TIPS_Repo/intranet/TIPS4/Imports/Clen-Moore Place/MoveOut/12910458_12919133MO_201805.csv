@@ -1,0 +1,5 @@
+BATCH,,201805,B,63.2000,
+INVOICE,IN,,12910458,,05/01/2018,31.6000,"Invoice-Private",,05/01/2018,05/10/2018,,12919133MO,-13235.2000,,,,,,,,,,
+TRANSACTION,3260,010010129,1,31.6000,31.60,"Monthly Cable: Collins, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,12910458,,05/01/2018,31.6,"Invoice-Private",,05/01/2018,05/10/2018,,12919133MO,-13235.2000,,,,,,,,,,
+TRANSACTION,3260,010010129,1,31.6,31.6,"Credit for Monthly Cable: Collins, Margaret",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,4274.0000,
+INVOICE,IN,,13910295,,11/09/2012,4274.0000,"MoveIn-Poste. Jim",,11/09/2012,11/09/2012,,13916428,4274.0000,,,,,,,,,,
+TRANSACTION,3010,010103139,22,102.0000,2244,"Basic Service Fee - Studio: Poste. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103139,1,30.0000,30,"Monthly Cable: Poste. Jim",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103139,1,2000.0000,2000,"New Resident Fee: Poste. Jim",,,,,,,,,,,,,,,

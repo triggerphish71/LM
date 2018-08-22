@@ -1,0 +1,4 @@
+BATCH,,201111,B,4200.0000,
+INVOICE,CM,,09110197,,11/01/2011,4200,"Invoice-Private",,11/01/2011,11/10/2011,,09114934MO,-4200.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,3120,3120,"CR:Basic Service F... M.Trusso 201111: Trusso, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1080,1080,"CR:Resident Care -... M.Trusso 201111: Trusso, Mary",,,,,,,,,,,,,,,

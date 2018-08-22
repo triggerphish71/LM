@@ -1,0 +1,6 @@
+BATCH,,201201,B,3229.0000,
+INVOICE,IN,,15510238,,01/01/2012,445.0000,"Invoice-Private",,01/01/2012,01/10/2012,,15515049MO,-2339.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,5,89.0000,445.00,"Basic Service Fee - Studio for Jan: Good, Virgil",,,,,,,,,,,,,,,
+INVOICE,CM,,15510238,,01/01/2012,2784,"Invoice-Private",,01/01/2012,01/10/2012,,15515049MO,-2339.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... V.Good 201201: Good, Virgil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... V.Good 201201: Good, Virgil",,,,,,,,,,,,,,,

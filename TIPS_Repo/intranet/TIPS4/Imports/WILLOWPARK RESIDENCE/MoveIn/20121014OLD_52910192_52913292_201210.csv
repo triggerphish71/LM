@@ -1,0 +1,6 @@
+BATCH,,201210,B,3829.0000,
+INVOICE,IN,,52910192,,10/14/2012,3829.0000,"MoveIn-Steiner. Alice",,10/14/2012,10/14/2012,,52913292,3829.0000,,,,,,,,,,
+TRANSACTION,3010,010319529,18,113.0000,2034,"Basic Service Fee - One Bedroom: Steiner. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319529,18,15.0000,270,"Resident Care - Level 1: Steiner. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319529,1,25.0000,25,"Monthly Cable: Steiner. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319529,1,1500.0000,1500,"New Resident Fee: Steiner. Alice",,,,,,,,,,,,,,,

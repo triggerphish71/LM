@@ -1,0 +1,5 @@
+BATCH,,201109,B,3340.0000,
+INVOICE,CM,,51710172,,09/01/2011,3340,"Invoice-Private",,09/01/2011,09/10/2011,,51712691MO,-5348.0000,,,,,,,,,,
+TRANSACTION,3020,010103517,1,2820,2820,"CR:Basic Service F... J.Anderson 201109: Anderson, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3130,010103517,1,10,10,"CR:Pendant Fee... J.Anderson 201109: Anderson, Janice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103517,1,510,510,"CR:Resident Care -... J.Anderson 201109: Anderson, Janice",,,,,,,,,,,,,,,

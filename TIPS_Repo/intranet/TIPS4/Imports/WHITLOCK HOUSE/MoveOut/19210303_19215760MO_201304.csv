@@ -1,0 +1,7 @@
+BATCH,,201304,B,3432.0000,
+INVOICE,IN,,19210303,,04/02/2013,312.0000,"Invoice-Private",,04/02/2013,04/02/2013,,19215760MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,3,60.0000,180.00,"Basic Service Fee - One Bedroom for Apr: Williams, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,3,44.0000,132.00,"Resident Care - Level 3 for Apr: Williams, Ralph",,,,,,,,,,,,,,,
+INVOICE,CM,,19210303,,04/02/2013,3120,"Invoice-Private",,04/02/2013,04/02/2013,,19215760MO,-2808.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,1800,1800,"CR:Basic Service F... R.Williams 201304: Williams, Ralph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1320,1320,"CR:Resident Care -... R.Williams 201304: Williams, Ralph",,,,,,,,,,,,,,,

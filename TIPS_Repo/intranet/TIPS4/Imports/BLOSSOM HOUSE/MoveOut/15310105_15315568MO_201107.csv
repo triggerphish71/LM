@@ -1,0 +1,6 @@
+BATCH,,201107,B,3960.6100,
+INVOICE,IN,,15310105,,07/28/2011,1866.7600,"Invoice-Medicaid",,07/28/2011,07/28/2011,,15315568MO,-2320.9400,,,,,,,,,,
+TRANSACTION,3021,010103153,28,66.6700,1866.76,"Medicaid Co-Pay for Jul: Marey, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,15310105,,07/28/2011,2093.85,"Invoice-Medicaid",,07/28/2011,07/28/2011,,15315568MO,-2320.9400,,,,,,,,,,
+TRANSACTION,3021,010103153,1,2066.85,2066.85,"CR:Medicaid Co-Pay... M.Marey 201107: Marey, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103153,1,27,27,"CR:Monthly Cable... M.Marey 201107: Marey, Maxine",,,,,,,,,,,,,,,

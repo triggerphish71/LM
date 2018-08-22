@@ -1,0 +1,5 @@
+BATCH,,201202,B,50.0000,
+INVOICE,IN,,00110150,,02/01/2012,25.0000,"Invoice-Private",,02/01/2012,02/10/2012,,00113152MO,-1080.0800,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25.0000,25.00,"Monthly Cable: Moore, Rosalie",,,,,,,,,,,,,,,
+INVOICE,CM,,00110150,,02/01/2012,25,"Invoice-Private",,02/01/2012,02/10/2012,,00113152MO,-1080.0800,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"Credit for Monthly Cable: Moore, Rosalie",,,,,,,,,,,,,,,

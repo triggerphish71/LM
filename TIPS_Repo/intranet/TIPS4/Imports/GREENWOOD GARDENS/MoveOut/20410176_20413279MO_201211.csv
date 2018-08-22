@@ -1,0 +1,8 @@
+BATCH,,201211,B,4506.0000,
+INVOICE,IN,,20410176,,11/09/2012,1686.0000,"Invoice-Private",,11/09/2012,11/09/2012,,20413279MO,-1134.0000,,,,,,,,,,
+TRANSACTION,3320,010216204,1,840.0000,840.00,"CR:Limited Term Di... B.McConaghy 201211: McConaghy, Barry",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216204,9,12.0000,108.00,"Resident Care - Level 1 for Nov: McConaghy, Barry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,9,82.0000,738.00,"Studio for Nov: McConaghy, Barry",,,,,,,,,,,,,,,
+INVOICE,CM,,20410176,,11/09/2012,2820,"Invoice-Private",,11/09/2012,11/09/2012,,20413279MO,-1134.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,360,360,"CR:Resident Care -... B.McConaghy 201211: McConaghy, Barry",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2460,2460,"CR:Studio... B.McConaghy 201211: McConaghy, Barry",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201204,B,2344.0000,
+INVOICE,IN,,02910314,,04/24/2012,2344.0000,"MoveIn-McGill. Dennis",,04/24/2012,04/24/2012,,02915574,5996.0000,,,,,,,,,,
+TRANSACTION,3010,010202029,7,100.0000,700,"D.McGill: Basic Service Fee - Studio: McGill. Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202029,7,17.0000,119,"D.McGill: Resident Care - Level 1: McGill. Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202029,1,25.0000,25,"Monthly Cable: McGill. Dennis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202029,1,1500.0000,1500,"New Resident Fee: McGill. Dennis",,,,,,,,,,,,,,,

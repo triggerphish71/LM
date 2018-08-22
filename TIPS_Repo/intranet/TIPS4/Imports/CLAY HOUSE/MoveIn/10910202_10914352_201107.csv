@@ -1,0 +1,6 @@
+BATCH,,201107,B,5001.0000,
+INVOICE,IN,,10910202,,07/01/2011,5001.0000,"July_Rent-Forrestal. joan",,07/01/2011,07/10/2011,,10914352,5001.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,31,80.0000,2480,"J.Forrestal: Basic Service Fee - Studio: Forrestal. joan",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,31,16.0000,496,"J.Forrestal: Resident Care - Level 1: Forrestal. joan",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Forrestal. joan",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Forrestal. joan",,,,,,,,,,,,,,,

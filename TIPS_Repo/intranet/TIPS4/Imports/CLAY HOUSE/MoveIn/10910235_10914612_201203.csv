@@ -1,0 +1,5 @@
+BATCH,,201203,B,3001.0000,
+INVOICE,IN,,10910235,,03/01/2012,3001.0000,"March_Rent-Moorehead. Alice",,03/01/2012,03/10/2012,,10914612,5890.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,31,80.0000,2480,"Basic Service Fee - Studio         : Moorehead. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,31,16.0000,496,"Resident Care - Level 1: Moorehead. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Moorehead. Alice",,,,,,,,,,,,,,,

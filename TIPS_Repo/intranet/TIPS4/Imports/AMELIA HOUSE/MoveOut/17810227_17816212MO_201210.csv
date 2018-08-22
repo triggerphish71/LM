@@ -1,0 +1,7 @@
+BATCH,,201210,B,3445.0000,
+INVOICE,IN,,17810227,,10/01/2012,217.0000,"Invoice-Private",,10/01/2012,10/10/2012,,17816212MO,-3969.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,217.0000,217.00,"CR:Limited Term Di... M.Sorensen 201210: Sorensen, Mildred",,,,,,,,,,,,,,,
+INVOICE,CM,,17810227,,10/01/2012,3228,"Invoice-Private",,10/01/2012,10/10/2012,,17816212MO,-3969.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2697,2697,"CR:Basic Service F... M.Sorensen 201210: Sorensen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... M.Sorensen 201210: Sorensen, Mildred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,496,496,"CR:Swan Personal C... M.Sorensen 201210: Sorensen, Mildred",,,,,,,,,,,,,,,

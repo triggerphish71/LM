@@ -1,0 +1,8 @@
+BATCH,,201203,B,4330.0000,
+INVOICE,IN,,15510241,,03/10/2012,1050.0000,"Invoice-Private",,03/10/2012,03/10/2012,,15515138MO,-2230.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,10,89.0000,890.00,"Basic Service Fee - Studio for Mar: Buchovecky, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,10,16.0000,160.00,"Resident Care - Level 1 for Mar: Buchovecky, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,15510241,,03/10/2012,3280,"Invoice-Private",,03/10/2012,03/10/2012,,15515138MO,-2230.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2759,2759,"CR:Basic Service F... A.Buchovecky 201203: Buchovecky, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... A.Buchovecky 201203: Buchovecky, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,496,496,"CR:Resident Care -... A.Buchovecky 201203: Buchovecky, Agnes",,,,,,,,,,,,,,,

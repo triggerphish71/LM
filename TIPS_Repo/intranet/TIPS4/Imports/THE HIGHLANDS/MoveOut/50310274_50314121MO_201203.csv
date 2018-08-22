@@ -1,0 +1,8 @@
+BATCH,,201203,B,7055.0000,
+INVOICE,IN,,50310274,,03/21/2012,2835.0000,"Invoice-Private",,03/21/2012,03/21/2012,,50314121MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,21,75.0000,1575.00,"Basic Service Fee - Studio for Mar: Routin, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,21,60.0000,1260.00,"Resident Care - Level 5 for Mar: Routin, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,50310274,,03/21/2012,4220,"Invoice-Private",,03/21/2012,03/21/2012,,50314121MO,-5435.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... D.Routin 201203: Routin, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... D.Routin 201203: Routin, Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010220503,1,1860,1860,"CR:Resident Care -... D.Routin 201203: Routin, Dorothy",,,,,,,,,,,,,,,

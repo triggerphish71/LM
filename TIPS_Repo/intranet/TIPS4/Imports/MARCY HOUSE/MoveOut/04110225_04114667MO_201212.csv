@@ -1,0 +1,7 @@
+BATCH,,201212,B,3465.0000,
+INVOICE,IN,,04110225,,12/01/2012,396.0000,"Invoice-Private",,12/01/2012,12/10/2012,,04114667MO,-2673.0000,,,,,,,,,,
+TRANSACTION,3027,010202041,4,17.0000,68.00,"Resident Care - Level 1 for Dec: Humphries, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,4,82.0000,328.00,"Room and Board - Studio for Dec: Humphries, Jack",,,,,,,,,,,,,,,
+INVOICE,CM,,04110225,,12/01/2012,3069,"Invoice-Private",,12/01/2012,12/10/2012,,04114667MO,-2673.0000,,,,,,,,,,
+TRANSACTION,3027,010202041,1,527,527,"CR:Resident Care -... J.Humphries 201212: Humphries, Jack",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202041,1,2542,2542,"CR:Room and Board ... J.Humphries 201212: Humphries, Jack",,,,,,,,,,,,,,,

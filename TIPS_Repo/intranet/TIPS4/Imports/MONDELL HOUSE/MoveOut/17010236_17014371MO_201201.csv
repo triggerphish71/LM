@@ -1,0 +1,5 @@
+BATCH,,201201,B,1674.0000,
+INVOICE,IN,,17010236,,01/01/2012,837.0000,"Invoice-Private",,01/01/2012,01/10/2012,,17014371MO,-3455.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,31,27.0000,837.00,"Credit for Limited Term Discount: Rauscher, Franziska",,,,,,,,,,,,,,,
+INVOICE,CM,,17010236,,01/01/2012,837,"Invoice-Private",,01/01/2012,01/10/2012,,17014371MO,-3455.0000,,,,,,,,,,
+TRANSACTION,3320,010107170,31,27,837,"Limited Term Discount: Rauscher, Franziska",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201110,B,2046.0000,
+INVOICE,IN,,06610162,,10/01/2011,1023.0000,"Invoice-Private",,10/01/2011,10/10/2011,,06614174MO,-963.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,31,33.0000,1023.00,"Credit for Limited Term Discount: Hammond, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,06610162,,10/01/2011,1023,"Invoice-Private",,10/01/2011,10/10/2011,,06614174MO,-963.0000,,,,,,,,,,
+TRANSACTION,3320,010305066,31,33,1023,"Limited Term Discount: Hammond, Mary",,,,,,,,,,,,,,,

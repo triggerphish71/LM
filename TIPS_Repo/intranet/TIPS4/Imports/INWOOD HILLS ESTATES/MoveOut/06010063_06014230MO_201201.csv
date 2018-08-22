@@ -1,0 +1,5 @@
+BATCH,,201201,B,5310.0000,
+INVOICE,CM,,06010063,,01/01/2012,5310,"Invoice-Private",,01/01/2012,01/10/2012,,06014230MO,-6512.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3410,3410,"CR:Basic Service F... G.Alexander 201201: Alexander, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3130,010206060,1,40,40,"CR:Pendant Fee... G.Alexander 201201: Alexander, Geraldine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,1860,1860,"CR:Resident Care -... G.Alexander 201201: Alexander, Geraldine",,,,,,,,,,,,,,,

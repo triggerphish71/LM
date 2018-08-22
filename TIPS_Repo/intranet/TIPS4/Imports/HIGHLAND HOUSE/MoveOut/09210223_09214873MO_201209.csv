@@ -1,0 +1,5 @@
+BATCH,,201209,B,420.0000,
+INVOICE,IN,,09210223,,09/01/2012,210.0000,"Invoice-Private",,09/01/2012,09/10/2012,,09214873MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,30,7.0000,210.00,"Credit for Limited Term Discount: West, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,09210223,,09/01/2012,210,"Invoice-Private",,09/01/2012,09/10/2012,,09214873MO,0.0000,,,,,,,,,,
+TRANSACTION,3320,010305092,30,7,210,"Limited Term Discount: West, Helen",,,,,,,,,,,,,,,

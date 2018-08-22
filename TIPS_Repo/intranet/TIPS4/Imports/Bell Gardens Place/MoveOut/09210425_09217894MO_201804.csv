@@ -1,0 +1,8 @@
+BATCH,,201804,B,4372.0000,
+INVOICE,IN,,09210425,,04/10/2018,1192.0000,"Invoice-Private",,04/10/2018,04/10/2018,,09217894MO,-1988.0000,,,,,,,,,,
+TRANSACTION,3017,010005092,2,21.0000,42.00,"Level: 1  to  Level: 3  - 04/03: Harner, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010005092,5,60.0000,300.00,"Level: 3  to  Level: base level  - 04/08: Harner, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010005092,10,85.0000,850.00,"Basic Service Fee - Studio  for Apr: Harner, Josephine",,,,,,,,,,,,,,,
+INVOICE,CM,,09210425,,04/10/2018,3180,"Invoice-Private",,04/10/2018,04/10/2018,,09217894MO,-1988.0000,,,,,,,,,,
+TRANSACTION,3020,010005092,1,2550,2550,"CR:Basic Service F... J.Harner 201804: Harner, Josephine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005092,1,630,630,"CR:Resident Care -... J.Harner 201804: Harner, Josephine",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201107,B,5184.4000,
+INVOICE,IN,,03010104,,07/01/2011,2093.7000,"Invoice-Private",,07/01/2011,07/10/2011,,03013833MO,-4087.7000,,,,,,,,,,
+TRANSACTION,3020,010103030,21,81.0000,1701.00,"Basic Service Fee - Studio for Jul: Needham, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,21,18.7000,392.70,"Resident Care - Level 11 for Jul: Needham, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,03010104,,07/01/2011,3090.7,"Invoice-Private",,07/01/2011,07/10/2011,,03013833MO,-4087.7000,,,,,,,,,,
+TRANSACTION,3020,010103030,1,2511,2511,"CR:Basic Service F... N.Needham 201107: Needham, Nancy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103030,1,579.7,579.7,"CR:Resident Care -... N.Needham 201107: Needham, Nancy",,,,,,,,,,,,,,,

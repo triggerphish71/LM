@@ -1,0 +1,7 @@
+BATCH,,201110,B,5692.5000,
+INVOICE,IN,,06110168,,10/14/2011,1771.0000,"Invoice-Private",,10/14/2011,10/14/2011,,06113745MO,-5945.5000,,,,,,,,,,
+TRANSACTION,3020,010103061,14,101.0000,1414.00,"Basic Service Fee - One Bedroom for Oct: Mcveigh, Jorun",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,14,25.5000,357.00,"Resident Care - Level 15 for Oct: Mcveigh, Jorun",,,,,,,,,,,,,,,
+INVOICE,CM,,06110168,,10/14/2011,3921.5,"Invoice-Private",,10/14/2011,10/14/2011,,06113745MO,-5945.5000,,,,,,,,,,
+TRANSACTION,3020,010103061,1,3131,3131,"CR:Basic Service F... J.Mcveigh 201110: Mcveigh, Jorun",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103061,1,790.5,790.5,"CR:Resident Care -... J.Mcveigh 201110: Mcveigh, Jorun",,,,,,,,,,,,,,,

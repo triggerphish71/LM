@@ -1,0 +1,7 @@
+BATCH,,201304,B,4796.0000,
+INVOICE,IN,,17110258,,04/13/2013,1526.0000,"Invoice-Private",,04/13/2013,04/13/2013,,17115674MO,-1744.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,14,92.0000,1288.00,"Basic Service Fee - Studio for Apr: Ivey, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,14,17.0000,238.00,"Resident Care - Level 1 for Apr: Ivey, Margie",,,,,,,,,,,,,,,
+INVOICE,CM,,17110258,,04/13/2013,3270,"Invoice-Private",,04/13/2013,04/13/2013,,17115674MO,-1744.0000,,,,,,,,,,
+TRANSACTION,3020,010308171,1,2760,2760,"CR:Basic Service F... M.Ivey 201304: Ivey, Margie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308171,1,510,510,"CR:Resident Care -... M.Ivey 201304: Ivey, Margie",,,,,,,,,,,,,,,

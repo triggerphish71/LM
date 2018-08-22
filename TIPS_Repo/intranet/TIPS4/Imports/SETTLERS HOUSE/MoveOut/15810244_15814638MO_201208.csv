@@ -1,0 +1,6 @@
+BATCH,,201208,B,4054.8000,
+INVOICE,IN,,15810244,,08/01/2012,551.8000,"Invoice-Private",,08/01/2012,08/10/2012,,15814638MO,-2951.2000,,,,,,,,,,
+TRANSACTION,3316,010309158,1,551.8000,551.80,"CR:Employee Discou... A.Jones 201208: Jones, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,15810244,,08/01/2012,3503,"Invoice-Private",,08/01/2012,08/10/2012,,15814638MO,-2951.2000,,,,,,,,,,
+TRANSACTION,3020,010309158,1,2976,2976,"CR:Basic Service F... A.Jones 201208: Jones, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309158,1,527,527,"CR:Resident Care -... A.Jones 201208: Jones, Agnes",,,,,,,,,,,,,,,

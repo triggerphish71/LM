@@ -1,0 +1,5 @@
+BATCH,,201211,B,1643.0000,
+INVOICE,IN,,16810425,,11/23/2012,713.0000,"Invoice-Private",,11/23/2012,11/23/2012,,16817066MO,-1178.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,23,31.0000,713.00,"Basic Service Fee - Second Resident for Nov: Cornes, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,16810425,,11/23/2012,930,"Invoice-Private",,11/23/2012,11/23/2012,,16817066MO,-1178.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,930,930,"CR:Basic Service F... C.Cornes 201211: Cornes, Carol",,,,,,,,,,,,,,,

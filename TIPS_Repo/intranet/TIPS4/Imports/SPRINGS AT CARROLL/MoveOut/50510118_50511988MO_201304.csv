@@ -1,0 +1,7 @@
+BATCH,,201304,B,8614.0000,
+INVOICE,IN,,50510118,,04/18/2013,4234.0000,"Invoice-Private",,04/18/2013,04/18/2013,,50511988MO,-4672.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,29,120.0000,3480.00,"Basic Service Fee - One Bedroom for Apr: Anglim, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,29,26.0000,754.00,"Resident Care - Level 2 for Apr: Anglim, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,50510118,,04/18/2013,4380,"Invoice-Private",,04/18/2013,04/18/2013,,50511988MO,-4672.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,3600,3600,"CR:Basic Service F... M.Anglim 201304: Anglim, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,780,780,"CR:Resident Care -... M.Anglim 201304: Anglim, Mary",,,,,,,,,,,,,,,

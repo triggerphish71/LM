@@ -1,0 +1,5 @@
+BATCH,,201110,B,3150.0000,
+INVOICE,IN,,19510221,,10/04/2011,360.0000,"Invoice-Private",,10/04/2011,10/04/2011,,19514061MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,4,90.0000,360.00,"Basic Service Fee - Studio for Oct: Martin, Morris",,,,,,,,,,,,,,,
+INVOICE,CM,,19510221,,10/04/2011,2790,"Invoice-Private",,10/04/2011,10/04/2011,,19514061MO,-2430.0000,,,,,,,,,,
+TRANSACTION,3020,010309195,1,2790,2790,"CR:Basic Service F... M.Martin 201110: Martin, Morris",,,,,,,,,,,,,,,

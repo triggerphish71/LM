@@ -1,0 +1,7 @@
+BATCH,,201106,B,174.0000,
+INVOICE,IN,,03410241,,06/01/2011,87.0000,"Invoice-Private",,06/01/2011,06/10/2011,,03415068MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27.00,"Monthly Cable: Mace, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,2.0000,60.00,"Credit for Limited Term Discount: Mace, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,03410241,,06/01/2011,87,"Invoice-Private",,06/01/2011,06/10/2011,,03415068MO,0.0000,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27,27,"Credit for Monthly Cable: Mace, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202034,30,2,60,"Limited Term Discount: Mace, Virginia",,,,,,,,,,,,,,,

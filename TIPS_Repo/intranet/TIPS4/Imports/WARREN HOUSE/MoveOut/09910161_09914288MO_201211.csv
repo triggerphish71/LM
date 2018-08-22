@@ -1,0 +1,7 @@
+BATCH,,201211,B,6292.0000,
+INVOICE,IN,,09910161,,11/14/2012,2002.0000,"Invoice-Private",,11/14/2012,11/14/2012,,09914288MO,-2288.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,14,86.0000,1204.00,"Basic Service Fee - Studio for Nov: Ling, Mervin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,14,57.0000,798.00,"Resident Care - Level 4 for Nov: Ling, Mervin",,,,,,,,,,,,,,,
+INVOICE,CM,,09910161,,11/14/2012,4290,"Invoice-Private",,11/14/2012,11/14/2012,,09914288MO,-2288.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,2580,2580,"CR:Basic Service F... M.Ling 201211: Ling, Mervin",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104099,1,1710,1710,"CR:Resident Care -... M.Ling 201211: Ling, Mervin",,,,,,,,,,,,,,,

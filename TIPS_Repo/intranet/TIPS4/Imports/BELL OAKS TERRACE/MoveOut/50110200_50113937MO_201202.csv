@@ -1,0 +1,6 @@
+BATCH,,201202,B,3634.0000,
+INVOICE,IN,,50110200,,02/01/2012,560.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50113937MO,-2514.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,1,348.0000,348.00,"CR:Limited Term Di... I.Marcoccia 201202: Marcoccia, Irene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010209501,2,106.0000,212.00,"Basic Service Fee - One Bedroom for Feb: Marcoccia, Irene",,,,,,,,,,,,,,,
+INVOICE,CM,,50110200,,02/01/2012,3074,"Invoice-Private",,02/01/2012,02/10/2012,,50113937MO,-2514.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,3074,3074,"CR:Basic Service F... I.Marcoccia 201202: Marcoccia, Irene",,,,,,,,,,,,,,,

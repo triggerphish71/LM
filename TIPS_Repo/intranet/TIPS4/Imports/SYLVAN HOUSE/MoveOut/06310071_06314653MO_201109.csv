@@ -1,0 +1,7 @@
+BATCH,,201109,B,1742.2000,
+INVOICE,IN,,06310071,,09/01/2011,871.1000,"Invoice-Medicaid",,09/01/2011,09/10/2011,,06314653MO,-1397.4400,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25.00,"Monthly Cable: Fletcher, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104063,1,846.1000,846.10,"State Medicaid: Fletcher, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,06310071,,09/01/2011,871.1,"Invoice-Medicaid",,09/01/2011,09/10/2011,,06314653MO,-1397.4400,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"Credit for Monthly Cable: Fletcher, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3012,010104063,1,846.1,846.1,"Credit for State Medicaid: Fletcher, Helen",,,,,,,,,,,,,,,

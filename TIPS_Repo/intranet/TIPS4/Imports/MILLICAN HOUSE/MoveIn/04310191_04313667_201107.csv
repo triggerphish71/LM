@@ -1,0 +1,6 @@
+BATCH,,201107,B,4014.0000,
+INVOICE,IN,,04310191,,07/13/2011,4014.0000,"MoveIn-Valenta. Joe",,07/13/2011,07/13/2011,,04313667,8100.0000,,,,,,,,,,
+TRANSACTION,3010,010202043,19,95.0000,1805,"Basic Service Fee - Studio         : Valenta. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202043,19,36.0000,684,"Resident Care - Level 2: Valenta. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202043,1,25.0000,25,"Monthly Cable: Valenta. Joe",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202043,1,1500.0000,1500,"New Resident Fee: Valenta. Joe",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,120.0000,
+INVOICE,IN,,04110154,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,04114539MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,30,2.0000,60.00,"Credit for Limited Term Discount: Hanks, Maurine",,,,,,,,,,,,,,,
+INVOICE,CM,,04110154,,11/01/2012,60,"Invoice-Private",,11/01/2012,11/10/2012,,04114539MO,-3328.0000,,,,,,,,,,
+TRANSACTION,3320,010202041,30,2,60,"Limited Term Discount: Hanks, Maurine",,,,,,,,,,,,,,,

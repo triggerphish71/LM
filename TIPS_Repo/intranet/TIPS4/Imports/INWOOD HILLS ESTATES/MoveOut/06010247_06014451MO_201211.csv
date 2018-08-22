@@ -1,0 +1,7 @@
+BATCH,,201211,B,200.0000,
+INVOICE,IN,,06010247,,11/01/2012,100.0000,"Invoice-Private",,11/01/2012,11/10/2012,,06014451MO,-2288.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40.0000,40.00,"Monthly Cable: Duncan, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3320,010206060,30,2.0000,60.00,"Credit for Limited Term Discount: Duncan, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,06010247,,11/01/2012,100,"Invoice-Private",,11/01/2012,11/10/2012,,06014451MO,-2288.0000,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"Credit for Monthly Cable: Duncan, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3320,010206060,30,2,60,"Limited Term Discount: Duncan, Russell",,,,,,,,,,,,,,,

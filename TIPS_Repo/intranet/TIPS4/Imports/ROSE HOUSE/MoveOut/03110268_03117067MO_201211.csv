@@ -1,0 +1,7 @@
+BATCH,,201211,B,114.0000,
+INVOICE,IN,,03110268,,11/01/2012,57.0000,"Invoice-Private",,11/01/2012,11/10/2012,,03117067MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Sanders, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30.0000,30.00,"Pendant Fee: Sanders, Nora",,,,,,,,,,,,,,,
+INVOICE,CM,,03110268,,11/01/2012,57,"Invoice-Private",,11/01/2012,11/10/2012,,03117067MO,-3794.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Sanders, Nora",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202031,1,30,30,"Credit for Pendant Fee: Sanders, Nora",,,,,,,,,,,,,,,

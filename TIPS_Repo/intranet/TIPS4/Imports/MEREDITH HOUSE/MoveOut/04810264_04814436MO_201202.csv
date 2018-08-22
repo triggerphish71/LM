@@ -1,0 +1,6 @@
+BATCH,,201202,B,3720.7000,
+INVOICE,IN,,04810264,,02/01/2012,298.7000,"Invoice-Private",,02/01/2012,02/10/2012,,04814436MO,-3762.3000,,,,,,,,,,
+TRANSACTION,3312,010202048,1,298.7000,298.70,"CR:Two Room Rental... D.Weatherly 201202: Weatherly, Dortha",,,,,,,,,,,,,,,
+INVOICE,CM,,04810264,,02/01/2012,3422,"Invoice-Private",,02/01/2012,02/10/2012,,04814436MO,-3762.3000,,,,,,,,,,
+TRANSACTION,3020,010202048,1,2987,2987,"CR:Basic Service F... D.Weatherly 201202: Weatherly, Dortha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202048,1,435,435,"CR:Resident Care -... D.Weatherly 201202: Weatherly, Dortha",,,,,,,,,,,,,,,

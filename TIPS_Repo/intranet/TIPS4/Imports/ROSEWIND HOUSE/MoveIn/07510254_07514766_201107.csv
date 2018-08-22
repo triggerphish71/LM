@@ -1,0 +1,6 @@
+BATCH,,201107,B,2409.0000,
+INVOICE,IN,,07510254,,07/29/2011,2409.0000,"MoveIn-Naser. Lucille",,07/29/2011,07/29/2011,,07514766,6402.0000,,,,,,,,,,
+TRANSACTION,3010,010104075,3,85.0000,255,"Basic Service Fee - Studio         : Naser. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104075,3,43.0000,129,"Resident Care - Level 3: Naser. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104075,1,25.0000,25,"Monthly Cable: Naser. Lucille",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104075,1,2000.0000,2000,"New Resident Fee: Naser. Lucille",,,,,,,,,,,,,,,

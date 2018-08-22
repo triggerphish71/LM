@@ -1,0 +1,6 @@
+BATCH,,201305,B,5291.0000,
+INVOICE,IN,,01710096,,05/14/2013,2350.0000,"Invoice-Private",,05/14/2013,05/14/2013,,01714031MO,-3438.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,25,94.0000,2350.00,"Basic Service Fee - Studio for May: Akins, Gettis",,,,,,,,,,,,,,,
+INVOICE,CM,,01710096,,05/14/2013,2941,"Invoice-Private",,05/14/2013,05/14/2013,,01714031MO,-3438.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,2914,2914,"CR:Basic Service F... G.Akins 201305: Akins, Gettis",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202017,1,27,27,"CR:Monthly Cable... G.Akins 201305: Akins, Gettis",,,,,,,,,,,,,,,

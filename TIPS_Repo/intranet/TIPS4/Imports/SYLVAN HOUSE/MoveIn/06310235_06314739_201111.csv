@@ -1,0 +1,6 @@
+BATCH,,201111,B,2365.0000,
+INVOICE,IN,,06310235,,11/23/2011,2365.0000,"MoveIn-Smith. Agnes",,11/23/2011,11/23/2011,,06314739,5645.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,8,90.0000,720,"A.Smith: Basic Service Fee - Studio: Smith. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,8,15.0000,120,"A.Smith: Resident Care - Level 1: Smith. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Smith. Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,1500.0000,1500,"New Resident Fee: Smith. Agnes",,,,,,,,,,,,,,,

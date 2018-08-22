@@ -1,0 +1,5 @@
+BATCH,,201203,B,3190.0000,
+INVOICE,IN,,13610256,,03/05/2012,1485.0000,"Invoice-Private",,03/05/2012,03/05/2012,,13614588MO,-220.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,27,55.0000,1485.00,"Basic Service Fee - Studio for Mar: Asher, Geraldine",,,,,,,,,,,,,,,
+INVOICE,CM,,13610256,,03/05/2012,1705,"Invoice-Private",,03/05/2012,03/05/2012,,13614588MO,-220.0000,,,,,,,,,,
+TRANSACTION,3020,010309136,1,1705,1705,"CR:Basic Service F... G.Asher 201203: Asher, Geraldine",,,,,,,,,,,,,,,

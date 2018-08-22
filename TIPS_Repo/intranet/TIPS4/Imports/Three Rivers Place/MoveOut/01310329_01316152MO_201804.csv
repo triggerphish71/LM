@@ -1,0 +1,5 @@
+BATCH,,201804,B,56.0000,
+INVOICE,IN,,01310329,,04/01/2018,28.0000,"Invoice-Private",,04/01/2018,04/10/2018,,01316152MO,-2122.1000,,,,,,,,,,
+TRANSACTION,3260,010003013,1,28.0000,28.00,"Monthly Cable: Salinas, Nancy",,,,,,,,,,,,,,,
+INVOICE,CM,,01310329,,04/01/2018,28,"Invoice-Private",,04/01/2018,04/10/2018,,01316152MO,-2122.1000,,,,,,,,,,
+TRANSACTION,3260,010003013,1,28,28,"Credit for Monthly Cable: Salinas, Nancy",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201303,B,5676.0000,
+INVOICE,IN,,07210163,,03/13/2013,1677.0000,"Invoice-Private",,03/13/2013,03/13/2013,,07214327MO,-2322.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,13,67.0000,871.00,"Basic Service Fee - Studio for Mar: Fisher, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,13,62.0000,806.00,"Resident Care - Level 4 for Mar: Fisher, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,07210163,,03/13/2013,3999,"Invoice-Private",,03/13/2013,03/13/2013,,07214327MO,-2322.0000,,,,,,,,,,
+TRANSACTION,3020,010305072,1,2077,2077,"CR:Basic Service F... S.Fisher 201303: Fisher, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305072,1,1922,1922,"CR:Resident Care -... S.Fisher 201303: Fisher, Shirley",,,,,,,,,,,,,,,

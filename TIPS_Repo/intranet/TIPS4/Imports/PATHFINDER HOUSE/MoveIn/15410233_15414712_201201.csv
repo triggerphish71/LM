@@ -1,0 +1,5 @@
+BATCH,,201201,B,3290.0000,
+INVOICE,IN,,15410233,,01/01/2012,3290.0000,"January_Rent-Cave. James",,01/01/2012,01/10/2012,,15414712,6980.0000,,,,,,,,,,
+TRANSACTION,3010,010211154,31,70.0000,2170,"J.Cave: Basic Service Fee - Studio: Cave. James",,,,,,,,,,,,,,,
+TRANSACTION,3017,010211154,31,35.0000,1085,"J.Cave: Resident Care - Level 2: Cave. James",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35,"Monthly Cable: Cave. James",,,,,,,,,,,,,,,

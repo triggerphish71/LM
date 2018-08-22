@@ -1,0 +1,6 @@
+BATCH,,201302,B,3001.0000,
+INVOICE,IN,,18910332,,02/15/2013,3001.0000,"MoveIn-Davis. Theo",,02/15/2013,02/15/2013,,18915707,7955.0000,,,,,,,,,,
+TRANSACTION,3010,010315189,14,113.0000,1582,"Basic Service Fee - One Bedroom: Davis. Theo",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315189,14,46.0000,644,"Resident Care - Level 3: Davis. Theo",,,,,,,,,,,,,,,
+TRANSACTION,3260,010315189,1,25.0000,25,"Monthly Cable: Davis. Theo",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315189,1,750.0000,750,"New Tenant Fee: Davis. Theo",,,,,,,,,,,,,,,

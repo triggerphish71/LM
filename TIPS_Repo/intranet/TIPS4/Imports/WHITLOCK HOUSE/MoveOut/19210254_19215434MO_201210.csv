@@ -1,0 +1,5 @@
+BATCH,,201210,B,6018.0000,
+INVOICE,CM,,19210254,,10/01/2012,6018,"Invoice-Private",,10/01/2012,10/10/2012,,19215434MO,-6018.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... M.Ogle 201210: Ogle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... M.Ogle 201210: Ogle, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,2449,2449,"CR:Resident Care -... M.Ogle 201210: Ogle, Mary",,,,,,,,,,,,,,,

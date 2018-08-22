@@ -1,0 +1,5 @@
+BATCH,,201802,B,56.8000,
+INVOICE,IN,,51110256,,02/01/2018,28.4000,"Invoice-Private",,02/01/2018,02/10/2018,,51114460MO,-3521.4000,,,,,,,,,,
+TRANSACTION,3260,010010511,1,28.4000,28.40,"Monthly Cable: Gasparro, Agnes",,,,,,,,,,,,,,,
+INVOICE,CM,,51110256,,02/01/2018,28.4,"Invoice-Private",,02/01/2018,02/10/2018,,51114460MO,-3521.4000,,,,,,,,,,
+TRANSACTION,3260,010010511,1,28.4,28.4,"Credit for Monthly Cable: Gasparro, Agnes",,,,,,,,,,,,,,,

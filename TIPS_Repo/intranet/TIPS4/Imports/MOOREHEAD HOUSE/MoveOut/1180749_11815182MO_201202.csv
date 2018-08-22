@@ -1,0 +1,8 @@
+BATCH,,201202,B,6737.0000,
+INVOICE,IN,,1180749,,02/08/2012,1448.0000,"Invoice-Private",,02/08/2012,02/08/2012,,11815182MO,-3841.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,8,100.0000,800.00,"Basic Service Fee - Studio for Feb: McKinney, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,8,81.0000,648.00,"Resident Care - Level 6 for Feb: McKinney, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,1180749,,02/08/2012,5289,"Invoice-Private",,02/08/2012,02/08/2012,,11815182MO,-3841.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2900,2900,"CR:Basic Service F... M.McKinney 201202: McKinney, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... M.McKinney 201202: McKinney, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,2349,2349,"CR:Resident Care -... M.McKinney 201202: McKinney, Mary",,,,,,,,,,,,,,,

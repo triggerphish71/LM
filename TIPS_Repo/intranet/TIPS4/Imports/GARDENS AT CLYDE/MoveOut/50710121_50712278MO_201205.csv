@@ -1,0 +1,7 @@
+BATCH,,201205,B,1680.0000,
+INVOICE,IN,,50710121,,05/01/2012,378.0000,"Invoice-Private",,05/01/2012,05/10/2012,,50712278MO,-924.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,9,31.0000,279.00,"Basic Service Fee - Second Resident for May: Miller, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,9,11.0000,99.00,"Resident Care - Level 1 for May: Miller, Judy",,,,,,,,,,,,,,,
+INVOICE,CM,,50710121,,05/01/2012,1302,"Invoice-Private",,05/01/2012,05/10/2012,,50712278MO,-924.0000,,,,,,,,,,
+TRANSACTION,3020,010305507,1,961,961,"CR:Basic Service F... J.Miller 201205: Miller, Judy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305507,1,341,341,"CR:Resident Care -... J.Miller 201205: Miller, Judy",,,,,,,,,,,,,,,

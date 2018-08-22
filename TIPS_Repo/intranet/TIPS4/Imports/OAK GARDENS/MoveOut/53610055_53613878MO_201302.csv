@@ -1,0 +1,8 @@
+BATCH,,201302,B,5975.0000,
+INVOICE,IN,,53610055,,02/05/2013,1050.0000,"Invoice-Private",,02/05/2013,02/05/2013,,53613878MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,6,98.0000,588.00,"Basic Service Fee - Studio for Feb: Johnson, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,6,77.0000,462.00,"Resident Care - Level 6 for Feb: Johnson, George",,,,,,,,,,,,,,,
+INVOICE,CM,,53610055,,02/05/2013,4925,"Invoice-Private",,02/05/2013,02/05/2013,,53613878MO,-3875.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2744,2744,"CR:Basic Service F... G.Johnson 201302: Johnson, George",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"CR:Pendant Fee... G.Johnson 201302: Johnson, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,2156,2156,"CR:Resident Care -... G.Johnson 201302: Johnson, George",,,,,,,,,,,,,,,

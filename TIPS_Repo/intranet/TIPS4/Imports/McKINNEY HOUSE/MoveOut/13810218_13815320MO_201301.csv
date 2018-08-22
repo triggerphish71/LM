@@ -1,0 +1,5 @@
+BATCH,,201301,B,5367.0000,
+INVOICE,CM,,13810218,,01/01/2013,5367,"Invoice-Private",,01/01/2013,01/10/2013,,13815320MO,-5367.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,3968,3968,"CR:Basic Service F... M.Bjorne 201301: Bjorne, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309138,1,35,35,"CR:Pendant Fee... M.Bjorne 201301: Bjorne, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,1364,1364,"CR:Resident Care -... M.Bjorne 201301: Bjorne, Mary",,,,,,,,,,,,,,,

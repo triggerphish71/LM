@@ -1,0 +1,5 @@
+BATCH,,201304,B,3440.0000,
+INVOICE,IN,,07310264,,04/01/2013,3440.0000,"April_Rent-Skinner. Henrietta",,04/01/2013,04/10/2013,,07316076,6942.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,30,97.0000,2910,"Basic Service Fee - Studio: Skinner. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,30,17.0000,510,"Resident Care - Level 1: Skinner. Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Skinner. Henrietta",,,,,,,,,,,,,,,

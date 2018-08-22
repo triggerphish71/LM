@@ -1,0 +1,5 @@
+BATCH,,201104,B,221.0000,
+INVOICE,IN,,03610274,,04/30/2011,110.5000,"Invoice-Private",,04/30/2011,04/30/2011,,03614633MO,-2666.0000,,,,,,,,,,
+TRANSACTION,3019,010202036,5,22.1000,110.50,"Additional Service Charge: Dyson, John",,,,,,,,,,,,,,,
+INVOICE,CM,,03610274,,04/30/2011,110.5,"Invoice-Private",,04/30/2011,04/30/2011,,03614633MO,-2666.0000,,,,,,,,,,
+TRANSACTION,3019,010202036,5,22.1,110.5,"Credit for Additional Service Charge: Dyson, John",,,,,,,,,,,,,,,

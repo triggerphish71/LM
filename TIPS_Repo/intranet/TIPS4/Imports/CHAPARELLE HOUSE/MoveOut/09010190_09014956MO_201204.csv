@@ -1,0 +1,8 @@
+BATCH,,201204,B,5054.0000,
+INVOICE,IN,,09010190,,04/17/2012,1819.0000,"Invoice-Private",,04/17/2012,04/17/2012,,09014956MO,-1416.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,17,92.0000,1564.00,"Basic Service Fee - Studio for Apr: Madden, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,17,15.0000,255.00,"Resident Care - Level 1 for Apr: Madden, Richard",,,,,,,,,,,,,,,
+INVOICE,CM,,09010190,,04/17/2012,3235,"Invoice-Private",,04/17/2012,04/17/2012,,09014956MO,-1416.0000,,,,,,,,,,
+TRANSACTION,3020,010104090,1,2760,2760,"CR:Basic Service F... R.Madden 201204: Madden, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104090,1,25,25,"CR:Monthly Cable... R.Madden 201204: Madden, Richard",,,,,,,,,,,,,,,
+TRANSACTION,3027,010104090,1,450,450,"CR:Resident Care -... R.Madden 201204: Madden, Richard",,,,,,,,,,,,,,,

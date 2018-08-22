@@ -1,0 +1,5 @@
+BATCH,,201109,B,1925.0000,
+INVOICE,IN,,50210170,,09/26/2011,1925.0000,"MoveIn-Thomas. Norma",,09/26/2011,09/26/2011,,50213129,4430.0000,,,,,,,,,,
+TRANSACTION,3010,010209502,5,80.0000,400,"Basic Service Fee - Studio: Thomas. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25,"Monthly Cable: Thomas. Norma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209502,1,1500.0000,1500,"New Resident Fee: Thomas. Norma",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201209,B,1957.8300,
+INVOICE,IN,,01310186,,09/20/2012,1957.8300,"MoveIn-McGuffin. Twilla",,09/20/2012,09/20/2012,,01314157,4606.2600,,,,,,,,,,
+TRANSACTION,3010,010103013,11,72.0000,792,"Basic Service Fee - Studio: McGuffin. Twilla",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103013,11,12.5300,137.83,"Resident Care - Level 7: McGuffin. Twilla",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28,"Monthly Cable: McGuffin. Twilla",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103013,1,1000.0000,1000,"New Resident Fee: McGuffin. Twilla",,,,,,,,,,,,,,,

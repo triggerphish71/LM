@@ -1,0 +1,7 @@
+BATCH,,201206,B,7747.0000,
+INVOICE,CM,,53610198,,05/01/2012,3937,"Invoice-Private",,05/01/2012,05/10/2012,,53613633MO,-7747.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3038,3038,"CR:Basic Service F... L.Mooney 201205: Mooney, Lotus",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,899,899,"CR:Resident Care -... L.Mooney 201205: Mooney, Lotus",,,,,,,,,,,,,,,
+INVOICE,CM,,53610198,,06/01/2012,3810,"Invoice-Private",,06/01/2012,06/10/2012,,53613633MO,-7747.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,2940,2940,"CR:Basic Service F... L.Mooney 201206: Mooney, Lotus",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,870,870,"CR:Resident Care -... L.Mooney 201206: Mooney, Lotus",,,,,,,,,,,,,,,

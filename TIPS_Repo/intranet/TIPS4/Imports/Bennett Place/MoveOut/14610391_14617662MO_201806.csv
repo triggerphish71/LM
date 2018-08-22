@@ -1,0 +1,6 @@
+BATCH,,201806,B,5660.0000,
+INVOICE,IN,,14610391,,06/05/2018,1250.0000,"Invoice-Private",,06/05/2018,06/05/2018,,14617662MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3020,010009146,10,125.0000,1250.00,"Basic Service Fee - Studio for Jun: Fry, Robert C.",,,,,,,,,,,,,,,
+INVOICE,CM,,14610391,,06/05/2018,4410,"Invoice-Private",,06/05/2018,06/05/2018,,14617662MO,-3160.0000,,,,,,,,,,
+TRANSACTION,3020,010009146,1,3750,3750,"CR:Basic Service F... R.Fry 201806: Fry, Robert C.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010009146,1,660,660,"CR:Resident Care -... R.Fry 201806: Fry, Robert C.",,,,,,,,,,,,,,,

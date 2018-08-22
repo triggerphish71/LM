@@ -1,0 +1,8 @@
+BATCH,,201204,B,4845.0000,
+INVOICE,IN,,53610135,,04/01/2012,910.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53613545MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,7,101.0000,707.00,"Basic Service Fee - Studio Deluxe for Apr: Krause, Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,7,29.0000,203.00,"Resident Care - Level 2 for Apr: Krause, Winifred",,,,,,,,,,,,,,,
+INVOICE,CM,,53610135,,04/01/2012,3935,"Invoice-Private",,04/01/2012,04/10/2012,,53613545MO,-3025.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3030,3030,"CR:Basic Service F... W.Krause 201204: Krause, Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319536,1,35,35,"CR:Monthly Cable... W.Krause 201204: Krause, Winifred",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,870,870,"CR:Resident Care -... W.Krause 201204: Krause, Winifred",,,,,,,,,,,,,,,

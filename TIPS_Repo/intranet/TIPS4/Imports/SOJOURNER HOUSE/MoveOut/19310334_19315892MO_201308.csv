@@ -1,0 +1,5 @@
+BATCH,,201308,B,4123.0000,
+INVOICE,CM,,19310334,,08/01/2013,4123,"Invoice-Private",,08/01/2013,08/10/2013,,19315892MO,-4123.0000,,,,,,,,,,
+TRANSACTION,3020,010315193,1,2387,2387,"CR:Basic Service F... W.Johnson 201308: Johnson, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315193,1,310,310,"CR:CC Meals... W.Johnson 201308: Johnson, Wanda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010315193,1,1426,1426,"CR:Resident Care -... W.Johnson 201308: Johnson, Wanda",,,,,,,,,,,,,,,

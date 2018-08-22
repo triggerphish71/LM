@@ -1,0 +1,5 @@
+BATCH,,201208,B,3217.0000,
+INVOICE,IN,,06810236,,08/15/2012,3217.0000,"MoveIn-Armstrong. Mary",,08/15/2012,08/15/2012,,06813920,3217.0000,,,,,,,,,,
+TRANSACTION,3010,010305068,17,85.0000,1445,"M.Armstrong: Basic Service Fee - Studio: Armstrong. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305068,17,16.0000,272,"M.Armstrong: Resident Care - Level 1: Armstrong. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305068,1,1500.0000,1500,"New Resident Fee: Armstrong. Mary",,,,,,,,,,,,,,,

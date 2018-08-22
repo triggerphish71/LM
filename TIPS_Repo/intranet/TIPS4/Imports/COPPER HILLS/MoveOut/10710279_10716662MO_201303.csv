@@ -1,0 +1,7 @@
+BATCH,,201303,B,8655.5200,
+INVOICE,IN,,10710279,,03/12/2013,2946.5600,"Invoice-Private",,03/12/2013,03/12/2013,,10716662MO,-8287.2000,,,,,,,,,,
+TRANSACTION,3020,010107107,16,97.0000,1552.00,"Basic Service Fee - Studio for Mar: Beyer, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,16,87.1600,1394.56,"Resident Care - Level 6+4 pts for Mar: Beyer, Maxine",,,,,,,,,,,,,,,
+INVOICE,CM,,10710279,,03/12/2013,5708.96,"Invoice-Private",,03/12/2013,03/12/2013,,10716662MO,-8287.2000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3007,3007,"CR:Basic Service F... M.Beyer 201303: Beyer, Maxine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,2701.96,2701.96,"CR:Resident Care -... M.Beyer 201303: Beyer, Maxine",,,,,,,,,,,,,,,

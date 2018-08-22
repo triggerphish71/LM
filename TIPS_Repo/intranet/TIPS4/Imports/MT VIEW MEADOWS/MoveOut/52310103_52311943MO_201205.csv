@@ -1,0 +1,5 @@
+BATCH,,201205,B,1364.0000,
+INVOICE,IN,,52310103,,05/01/2012,682.0000,"Invoice-Private",,05/01/2012,05/10/2012,,52311943MO,-2412.4600,,,,,,,,,,
+TRANSACTION,3320,010103523,31,22.0000,682.00,"Credit for Limited Term Discount: Wilson, Vern",,,,,,,,,,,,,,,
+INVOICE,CM,,52310103,,05/01/2012,682,"Invoice-Private",,05/01/2012,05/10/2012,,52311943MO,-2412.4600,,,,,,,,,,
+TRANSACTION,3320,010103523,31,22,682,"Limited Term Discount: Wilson, Vern",,,,,,,,,,,,,,,

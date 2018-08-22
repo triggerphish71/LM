@@ -1,0 +1,7 @@
+BATCH,,201303,B,4305.0000,
+INVOICE,IN,,50510130,,03/03/2013,492.0000,"Invoice-Private",,03/03/2013,03/03/2013,,50511920MO,-3321.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,4,50.0000,200.00,"Basic Service Fee - Studio for Mar: Moss, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,4,73.0000,292.00,"Resident Care - Level 6 for Mar: Moss, Phyllis",,,,,,,,,,,,,,,
+INVOICE,CM,,50510130,,03/03/2013,3813,"Invoice-Private",,03/03/2013,03/03/2013,,50511920MO,-3321.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,1550,1550,"CR:Basic Service F... P.Moss 201303: Moss, Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305505,1,2263,2263,"CR:Resident Care -... P.Moss 201303: Moss, Phyllis",,,,,,,,,,,,,,,

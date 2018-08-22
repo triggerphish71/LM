@@ -1,0 +1,5 @@
+BATCH,,201302,B,50.0000,
+INVOICE,IN,,01610313,,02/01/2013,25.0000,"Invoice-Private",,02/01/2013,02/10/2013,,01616188MO,-4950.0000,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25.0000,25.00,"Monthly Cable: Crawford, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01610313,,02/01/2013,25,"Invoice-Private",,02/01/2013,02/10/2013,,01616188MO,-4950.0000,,,,,,,,,,
+TRANSACTION,3260,010202016,1,25,25,"Credit for Monthly Cable: Crawford, Ruth",,,,,,,,,,,,,,,

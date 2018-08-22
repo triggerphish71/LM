@@ -1,0 +1,5 @@
+BATCH,,201303,B,440.2000,
+INVOICE,IN,,15210120,,03/01/2013,220.1000,"Invoice-Private",,03/01/2013,03/10/2013,,15214054MO,-4901.1000,,,,,,,,,,
+TRANSACTION,3312,010211152,31,7.1000,220.10,"Credit for Two Room Rental Discount: Wander, Dorothy",,,,,,,,,,,,,,,
+INVOICE,CM,,15210120,,03/01/2013,220.1,"Invoice-Private",,03/01/2013,03/10/2013,,15214054MO,-4901.1000,,,,,,,,,,
+TRANSACTION,3312,010211152,31,7.1,220.1,"Two Room Rental Discount: Wander, Dorothy",,,,,,,,,,,,,,,

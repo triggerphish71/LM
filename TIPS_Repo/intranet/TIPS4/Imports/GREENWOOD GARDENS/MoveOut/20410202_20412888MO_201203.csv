@@ -1,0 +1,7 @@
+BATCH,,201203,B,4092.0000,
+INVOICE,IN,,20410202,,03/02/2012,248.0000,"Invoice-Private",,03/02/2012,03/02/2012,,20412888MO,-3596.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,2,42.0000,84.00,"Resident Care - Level 4 for Mar: Schiltz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,2,82.0000,164.00,"Studio for Mar: Schiltz, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,20410202,,03/02/2012,3844,"Invoice-Private",,03/02/2012,03/02/2012,,20412888MO,-3596.0000,,,,,,,,,,
+TRANSACTION,3027,010216204,1,1302,1302,"CR:Resident Care -... M.Schiltz 201203: Schiltz, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216204,1,2542,2542,"CR:Studio... M.Schiltz 201203: Schiltz, Mary",,,,,,,,,,,,,,,

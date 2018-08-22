@@ -1,0 +1,7 @@
+BATCH,,201201,B,4602.0000,
+INVOICE,IN,,16510283,,01/28/2012,2184.0000,"Invoice-Private",,01/28/2012,01/28/2012,,16514105MO,-2496.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,28,37.0000,1036.00,"Basic Service Fee - Second Resident for Jan: McCall, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,28,41.0000,1148.00,"Resident Care - Level 3 for Jan: McCall, Hilda",,,,,,,,,,,,,,,
+INVOICE,CM,,16510283,,01/28/2012,2418,"Invoice-Private",,01/28/2012,01/28/2012,,16514105MO,-2496.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,1147,1147,"CR:Basic Service F... H.McCall 201201: McCall, Hilda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,1271,1271,"CR:Resident Care -... H.McCall 201201: McCall, Hilda",,,,,,,,,,,,,,,

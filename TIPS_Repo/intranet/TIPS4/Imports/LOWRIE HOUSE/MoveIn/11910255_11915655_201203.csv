@@ -1,0 +1,5 @@
+BATCH,,201203,B,4521.0000,
+INVOICE,IN,,11910255,,03/01/2012,4521.0000,"March_Rent-Speggen. Doris",,03/01/2012,03/10/2012,,11915655,7997.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,31,93.0000,2883,"Basic Service Fee - Studio: Speggen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,31,52.0000,1612,"Resident Care - Level 3: Speggen. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Speggen. Doris",,,,,,,,,,,,,,,

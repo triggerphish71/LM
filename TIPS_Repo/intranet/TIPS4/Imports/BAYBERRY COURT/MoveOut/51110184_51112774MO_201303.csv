@@ -1,0 +1,8 @@
+BATCH,,201303,B,4902.0000,
+INVOICE,IN,,51110184,,03/07/2013,1000.0000,"Invoice-Private",,03/07/2013,03/07/2013,,51112774MO,-6679.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,8,106.0000,848.00,"Basic Service Fee - Studio for Mar: Koedel, Melda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,8,19.0000,152.00,"Resident Care - Level 1 for Mar: Koedel, Melda",,,,,,,,,,,,,,,
+INVOICE,CM,,51110184,,03/07/2013,3902,"Invoice-Private",,03/07/2013,03/07/2013,,51112774MO,-6679.0000,,,,,,,,,,
+TRANSACTION,3020,010310511,1,3286,3286,"CR:Basic Service F... M.Koedel 201303: Koedel, Melda",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310511,1,27,27,"CR:Monthly Cable... M.Koedel 201303: Koedel, Melda",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310511,1,589,589,"CR:Resident Care -... M.Koedel 201303: Koedel, Melda",,,,,,,,,,,,,,,

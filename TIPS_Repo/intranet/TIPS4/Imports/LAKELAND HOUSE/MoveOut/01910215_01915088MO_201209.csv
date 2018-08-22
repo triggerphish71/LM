@@ -1,0 +1,6 @@
+BATCH,,201209,B,5190.0000,
+INVOICE,IN,,01910215,,09/15/2012,2340.0000,"Invoice-Private",,09/15/2012,09/15/2012,,01915088MO,-3393.0000,,,,,,,,,,
+TRANSACTION,3320,010202019,1,60.0000,60.00,"CR:Limited Term Di... R.Stepherson 201209: Stepherson, Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202019,24,95.0000,2280.00,"Room and Board - Studio for Sep: Stepherson, Ruth",,,,,,,,,,,,,,,
+INVOICE,CM,,01910215,,09/15/2012,2850,"Invoice-Private",,09/15/2012,09/15/2012,,01915088MO,-3393.0000,,,,,,,,,,
+TRANSACTION,3020,010202019,1,2850,2850,"CR:Room and Board ... R.Stepherson 201209: Stepherson, Ruth",,,,,,,,,,,,,,,

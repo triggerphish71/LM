@@ -1,0 +1,7 @@
+BATCH,,201201,B,6554.0000,
+INVOICE,IN,,10710283,,01/23/2012,3051.0000,"Invoice-Private",,01/23/2012,01/23/2012,,10716007MO,-3729.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,27,98.0000,2646.00,"Basic Service Fee - Studio for Jan: Medina, Rosa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,27,15.0000,405.00,"Resident Care - Level 1 for Jan: Medina, Rosa",,,,,,,,,,,,,,,
+INVOICE,CM,,10710283,,01/23/2012,3503,"Invoice-Private",,01/23/2012,01/23/2012,,10716007MO,-3729.0000,,,,,,,,,,
+TRANSACTION,3020,010107107,1,3038,3038,"CR:Basic Service F... R.Medina 201201: Medina, Rosa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107107,1,465,465,"CR:Resident Care -... R.Medina 201201: Medina, Rosa",,,,,,,,,,,,,,,

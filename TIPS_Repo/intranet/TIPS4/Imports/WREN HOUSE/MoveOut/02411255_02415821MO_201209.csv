@@ -1,0 +1,7 @@
+BATCH,,201209,B,1134.0000,
+INVOICE,IN,,02411255,,09/01/2012,567.0000,"Invoice-Private",,09/01/2012,09/10/2012,,02415821MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Glenn, Raymon",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,18.0000,540.00,"Credit for Limited Term Discount: Glenn, Raymon",,,,,,,,,,,,,,,
+INVOICE,CM,,02411255,,09/01/2012,567,"Invoice-Private",,09/01/2012,09/10/2012,,02415821MO,-3003.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Glenn, Raymon",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,30,18,540,"Limited Term Discount: Glenn, Raymon",,,,,,,,,,,,,,,

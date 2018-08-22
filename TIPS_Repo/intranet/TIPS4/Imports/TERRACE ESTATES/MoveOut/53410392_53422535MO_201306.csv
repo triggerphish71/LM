@@ -1,0 +1,7 @@
+BATCH,,201306,B,4183.0000,
+INVOICE,IN,,53410392,,06/17/2013,1513.0000,"Invoice-Private",,06/17/2013,06/17/2013,,53422535MO,-3916.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,17,39.0000,663.00,"Resident Care - Level 1 for Jun: Dahmer, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,17,50.0000,850.00,"Room and Board - Studio for Jun: Dahmer, Leona",,,,,,,,,,,,,,,
+INVOICE,CM,,53410392,,06/17/2013,2670,"Invoice-Private",,06/17/2013,06/17/2013,,53422535MO,-3916.0000,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1170,1170,"CR:Resident Care -... L.Dahmer 201306: Dahmer, Leona",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319534,1,1500,1500,"CR:Room and Board ... L.Dahmer 201306: Dahmer, Leona",,,,,,,,,,,,,,,

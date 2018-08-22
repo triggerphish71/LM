@@ -1,0 +1,7 @@
+BATCH,,201201,B,5232.0000,
+INVOICE,IN,,03410248,,01/15/2012,1853.0000,"Invoice-Private",,01/15/2012,01/15/2012,,03415374MO,-4687.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,17,96.0000,1632.00,"Basic Service Fee - Studio for Jan: Tate, Nevada",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,17,13.0000,221.00,"Resident Care - Level 1 for Jan: Tate, Nevada",,,,,,,,,,,,,,,
+INVOICE,CM,,03410248,,01/15/2012,3379,"Invoice-Private",,01/15/2012,01/15/2012,,03415374MO,-4687.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2976,2976,"CR:Basic Service F... N.Tate 201201: Tate, Nevada",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... N.Tate 201201: Tate, Nevada",,,,,,,,,,,,,,,

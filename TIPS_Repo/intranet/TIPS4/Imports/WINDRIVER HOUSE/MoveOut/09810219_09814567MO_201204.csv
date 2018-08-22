@@ -1,0 +1,5 @@
+BATCH,,201204,B,1440.0000,
+INVOICE,IN,,09810219,,04/01/2012,720.0000,"Invoice-Private",,04/01/2012,04/10/2012,,09814567MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3320,010103098,30,24.0000,720.00,"Credit for Limited Term Discount: Burk, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,09810219,,04/01/2012,720,"Invoice-Private",,04/01/2012,04/10/2012,,09814567MO,-2170.0000,,,,,,,,,,
+TRANSACTION,3320,010103098,30,24,720,"Limited Term Discount: Burk, Thelma",,,,,,,,,,,,,,,

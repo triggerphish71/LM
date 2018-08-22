@@ -1,0 +1,5 @@
+BATCH,,201211,B,1140.0000,
+INVOICE,IN,,05710300,,11/01/2012,570.0000,"Invoice-Private",,11/01/2012,11/10/2012,,05715708MO,-851.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,30,19.0000,570.00,"Credit for Limited Term Discount: Duncan, Bobbye",,,,,,,,,,,,,,,
+INVOICE,CM,,05710300,,11/01/2012,570,"Invoice-Private",,11/01/2012,11/10/2012,,05715708MO,-851.0000,,,,,,,,,,
+TRANSACTION,3320,010202057,30,19,570,"Limited Term Discount: Duncan, Bobbye",,,,,,,,,,,,,,,

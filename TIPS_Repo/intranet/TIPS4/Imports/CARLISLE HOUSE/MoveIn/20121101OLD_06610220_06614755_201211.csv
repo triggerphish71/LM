@@ -1,0 +1,5 @@
+BATCH,,201211,B,7150.0000,
+INVOICE,IN,,06610220,,11/01/2012,7150.0000,"MoveIn-Wert. Junior",,11/01/2012,11/01/2012,,06614755,7150.0000,,,,,,,,,,
+TRANSACTION,3010,010305066,30,96.0000,2880,"Basic Service Fee - Studio: Wert. Junior",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305066,30,84.0000,2520,"Resident Care - Level 6: Wert. Junior",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305066,1,1750.0000,1750,"New Resident Fee: Wert. Junior",,,,,,,,,,,,,,,

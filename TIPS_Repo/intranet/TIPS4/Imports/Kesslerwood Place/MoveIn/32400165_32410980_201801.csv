@@ -1,0 +1,6 @@
+BATCH,,201801,B,7392.0000,
+INVOICE,IN,,32400165,,01/17/2018,7392.0000,"MoveIn-pudding. code",,01/17/2018,01/17/2018,,32410980,7392.0000,,,,,,,,,,
+TRANSACTION,3010,070009324,15,90.0000,1350,"Studio: pudding. code",,,,,,,,,,,,,,,
+TRANSACTION,3017,070009324,15,38.0000,570,"Resident Care - Level 2: pudding. code",,,,,,,,,,,,,,,
+TRANSACTION,3216,070009324,1,2736.0000,2736,"Community Fee: pudding. code",,,,,,,,,,,,,,,
+TRANSACTION,3216,070009324,1,2736.0000,2736,"Monthly Deferral Charge: pudding. code",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201205,B,4433.0000,
+INVOICE,IN,,05110157,,05/01/2012,403.0000,"Invoice-Private",,05/01/2012,05/10/2012,,05114264MO,-3627.0000,,,,,,,,,,
+TRANSACTION,3320,010202051,1,403.0000,403.00,"CR:Limited Term Di... B.Glover 201205: Glover, Bessie",,,,,,,,,,,,,,,
+INVOICE,CM,,05110157,,05/01/2012,4030,"Invoice-Private",,05/01/2012,05/10/2012,,05114264MO,-3627.0000,,,,,,,,,,
+TRANSACTION,3020,010202051,1,3100,3100,"CR:Basic Service F... B.Glover 201205: Glover, Bessie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202051,1,930,930,"CR:Resident Care -... B.Glover 201205: Glover, Bessie",,,,,,,,,,,,,,,

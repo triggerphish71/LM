@@ -1,0 +1,7 @@
+BATCH,,201106,B,3395.0000,
+INVOICE,IN,,09110196,,06/01/2011,485.0000,"Invoice-Private",,06/01/2011,06/10/2011,,09114708MO,-2425.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,5,80.0000,400.00,"Basic Service Fee - Studio for Jun: Butler, Dorotha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,5,17.0000,85.00,"Resident Care - Level 1 for Jun: Butler, Dorotha",,,,,,,,,,,,,,,
+INVOICE,CM,,09110196,,06/01/2011,2910,"Invoice-Private",,06/01/2011,06/10/2011,,09114708MO,-2425.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2400,2400,"CR:Basic Service F... D.Butler 201106: Butler, Dorotha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,510,510,"CR:Resident Care -... D.Butler 201106: Butler, Dorotha",,,,,,,,,,,,,,,

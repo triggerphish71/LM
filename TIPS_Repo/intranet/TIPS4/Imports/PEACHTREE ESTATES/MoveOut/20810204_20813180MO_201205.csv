@@ -1,0 +1,6 @@
+BATCH,,201205,B,4092.0000,
+INVOICE,IN,,20810204,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,20813180MO,-3968.0000,,,,,,,,,,
+TRANSACTION,3320,010216208,1,62.0000,62.00,"CR:Limited Term Di... E.Rice 201205: Rice, Elisabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,20810204,,05/01/2012,4030,"Invoice-Private",,05/01/2012,05/10/2012,,20813180MO,-3968.0000,,,,,,,,,,
+TRANSACTION,3027,010216208,1,1612,1612,"CR:Resident Care -... E.Rice 201205: Rice, Elisabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216208,1,2418,2418,"CR:Studio... E.Rice 201205: Rice, Elisabeth",,,,,,,,,,,,,,,

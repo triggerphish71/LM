@@ -1,0 +1,6 @@
+BATCH,,201301,B,1562.7500,
+INVOICE,IN,,06510169,,01/01/2013,477.7500,"Invoice-Private",,01/01/2013,01/10/2013,,06514975MO,-607.2500,,,,,,,,,,
+TRANSACTION,3316,010305065,1,162.7500,162.75,"CR:Employee Discou... C.Brown 201301: Brown, Carolyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305065,9,35.0000,315.00,"Basic Service Fee - Second Resident for Jan: Brown, Carolyn",,,,,,,,,,,,,,,
+INVOICE,CM,,06510169,,01/01/2013,1085,"Invoice-Private",,01/01/2013,01/10/2013,,06514975MO,-607.2500,,,,,,,,,,
+TRANSACTION,3020,010305065,1,1085,1085,"CR:Basic Service F... C.Brown 201301: Brown, Carolyn",,,,,,,,,,,,,,,

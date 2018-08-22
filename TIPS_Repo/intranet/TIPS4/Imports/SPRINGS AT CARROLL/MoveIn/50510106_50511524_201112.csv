@@ -1,0 +1,6 @@
+BATCH,,201112,B,5005.0000,
+INVOICE,IN,,50510106,,12/07/2011,5005.0000,"MoveIn-Wolfinger. Margaret",,12/07/2011,12/07/2011,,50511524,5005.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,30,90.0000,2700,"M.Wolfinger: Basic Service Fee - Studio: Wolfinger. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,30,26.0000,780,"M.Wolfinger: Resident Care - Level 2: Wolfinger. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Wolfinger. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Wolfinger. Margaret",,,,,,,,,,,,,,,

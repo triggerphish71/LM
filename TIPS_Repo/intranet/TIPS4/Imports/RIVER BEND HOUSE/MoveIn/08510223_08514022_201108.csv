@@ -1,0 +1,5 @@
+BATCH,,201108,B,5306.0000,
+INVOICE,IN,,08510223,,08/04/2011,5306.0000,"MoveIn-Hayden. Winford",,08/04/2011,08/04/2011,,08514022,5306.0000,,,,,,,,,,
+TRANSACTION,3010,010305085,28,83.0000,2324,"Basic Service Fee - Studio         : Hayden. Winford",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305085,28,44.0000,1232,"Resident Care - Level 3: Hayden. Winford",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305085,1,1750.0000,1750,"New Resident Fee: Hayden. Winford",,,,,,,,,,,,,,,

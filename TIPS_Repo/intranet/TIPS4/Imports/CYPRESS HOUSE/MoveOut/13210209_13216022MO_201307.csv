@@ -1,0 +1,8 @@
+BATCH,,201307,B,8175.0000,
+INVOICE,IN,,13210209,,07/11/2013,2134.0000,"Invoice-Private",,07/11/2013,07/11/2013,,13216022MO,-3907.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,11,124.0000,1364.00,"Basic Service Fee - One Bedroom for Jul: Garland, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,11,70.0000,770.00,"Resident Care - Level 5 for Jul: Garland, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,13210209,,07/11/2013,6041,"Invoice-Private",,07/11/2013,07/11/2013,,13216022MO,-3907.0000,,,,,,,,,,
+TRANSACTION,3020,010308132,1,3844,3844,"CR:Basic Service F... B.Garland 201307: Garland, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"CR:Monthly Cable... B.Garland 201307: Garland, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308132,1,2170,2170,"CR:Resident Care -... B.Garland 201307: Garland, Barbara",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201204,B,4861.0000,
+INVOICE,IN,,15210181,,04/01/2012,1016.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15213776MO,-2829.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,8,71.0000,568.00,"Basic Service Fee - Studio for Apr: Muschamp, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,8,56.0000,448.00,"Resident Care - Level 4 for Apr: Muschamp, June",,,,,,,,,,,,,,,
+INVOICE,CM,,15210181,,04/01/2012,3845,"Invoice-Private",,04/01/2012,04/10/2012,,15213776MO,-2829.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2130,2130,"CR:Basic Service F... J.Muschamp 201204: Muschamp, June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211152,1,35,35,"CR:Monthly Cable... J.Muschamp 201204: Muschamp, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,1680,1680,"CR:Resident Care -... J.Muschamp 201204: Muschamp, June",,,,,,,,,,,,,,,

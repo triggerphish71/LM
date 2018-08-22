@@ -1,0 +1,6 @@
+BATCH,,201204,B,2171.0000,
+INVOICE,IN,,17110253,,04/27/2012,2171.0000,"MoveIn-Flippo. Mother",,04/27/2012,04/27/2012,,17115091,5639.0000,,,,,,,,,,
+TRANSACTION,3010,010308171,4,94.0000,376,"Basic Service Fee - Studio: Flippo. Mother",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308171,4,17.0000,68,"Resident Care - Level 1: Flippo. Mother",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27,"Monthly Cable: Flippo. Mother",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308171,1,1700.0000,1700,"New Resident Fee: Flippo. Mother",,,,,,,,,,,,,,,

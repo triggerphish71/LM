@@ -1,0 +1,5 @@
+BATCH,,201112,B,2485.6600,
+INVOICE,IN,,00710182,,12/10/2011,2485.6600,"MoveIn-Zeis. Delford",,12/10/2011,12/10/2011,,00713306,2485.6600,,,,,,,,,,
+TRANSACTION,3010,010101007,22,55.0000,1210,"D.Zeis: Basic Service Fee - Studio: Zeis. Delford",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101007,22,12.5300,275.66,"D.Zeis: Resident Care - Level 7: Zeis. Delford",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000.0000,1000,"New Resident Fee: Zeis. Delford",,,,,,,,,,,,,,,

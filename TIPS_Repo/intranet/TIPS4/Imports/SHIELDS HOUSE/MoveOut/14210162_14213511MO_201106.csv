@@ -1,0 +1,8 @@
+BATCH,,201106,B,4625.0000,
+INVOICE,IN,,14210162,,06/04/2011,540.0000,"Invoice-Private",,06/04/2011,06/04/2011,,14213511MO,-3545.0000,,,,,,,,,,
+TRANSACTION,3027,010309142,4,33.0000,132.00,"Resident Care - Level 2 for Jun: Kinser, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,4,102.0000,408.00,"Room and Board - One Bedroom for Jun: Kinser, Nadine",,,,,,,,,,,,,,,
+INVOICE,CM,,14210162,,06/04/2011,4085,"Invoice-Private",,06/04/2011,06/04/2011,,14213511MO,-3545.0000,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35,35,"CR:Monthly Cable... N.Kinser 201106: Kinser, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309142,1,990,990,"CR:Resident Care -... N.Kinser 201106: Kinser, Nadine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309142,1,3060,3060,"CR:Room and Board ... N.Kinser 201106: Kinser, Nadine",,,,,,,,,,,,,,,

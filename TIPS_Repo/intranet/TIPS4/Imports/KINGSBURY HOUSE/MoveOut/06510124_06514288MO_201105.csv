@@ -1,0 +1,7 @@
+BATCH,,201105,B,6954.0000,
+INVOICE,IN,,06510124,,05/07/2011,1281.0000,"Invoice-Private",,05/07/2011,05/07/2011,,06514288MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,7,99.0000,693.00,"Basic Service Fee - Studio for May: Ewing, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,7,84.0000,588.00,"Resident Care - Level 5 for May: Ewing, Donna",,,,,,,,,,,,,,,
+INVOICE,CM,,06510124,,05/07/2011,5673,"Invoice-Private",,05/07/2011,05/07/2011,,06514288MO,-4392.0000,,,,,,,,,,
+TRANSACTION,3020,010305065,1,3069,3069,"CR:Basic Service F... D.Ewing 201105: Ewing, Donna",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305065,1,2604,2604,"CR:Resident Care -... D.Ewing 201105: Ewing, Donna",,,,,,,,,,,,,,,

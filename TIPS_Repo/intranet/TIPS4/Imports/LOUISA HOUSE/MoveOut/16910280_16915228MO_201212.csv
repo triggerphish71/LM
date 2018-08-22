@@ -1,0 +1,5 @@
+BATCH,,201212,B,1085.0000,
+INVOICE,IN,,16910280,,12/01/2012,124.0000,"Invoice-Private",,12/01/2012,12/10/2012,,16915228MO,-837.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,4,31.0000,124.00,"Basic Service Fee - Second Resident for Dec: Reynolds, Edith",,,,,,,,,,,,,,,
+INVOICE,CM,,16910280,,12/01/2012,961,"Invoice-Private",,12/01/2012,12/10/2012,,16915228MO,-837.0000,,,,,,,,,,
+TRANSACTION,3020,010103169,1,961,961,"CR:Basic Service F... E.Reynolds 201212: Reynolds, Edith",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,4443.6000,
+INVOICE,IN,,08710139,,10/10/2011,1163.8000,"Invoice-Private",,10/10/2011,10/10/2011,,08714029MO,-2116.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,11,82.0000,902.00,"Basic Service Fee - Studio for Oct: Aries, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,11,23.8000,261.80,"Resident Care - Level 14 for Oct: Aries, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,08710139,,10/10/2011,3279.8,"Invoice-Private",,10/10/2011,10/10/2011,,08714029MO,-2116.0000,,,,,,,,,,
+TRANSACTION,3020,010103087,1,2542,2542,"CR:Basic Service F... H.Aries 201110: Aries, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103087,1,737.8,737.8,"CR:Resident Care -... H.Aries 201110: Aries, Harold",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201208,B,124.0000,
+INVOICE,IN,,13210117,,08/01/2012,62.0000,"Invoice-Private",,08/01/2012,08/10/2012,,13215535MO,-7053.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27.0000,27.00,"Monthly Cable: Johnson, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308132,1,35.0000,35.00,"Pendant Fee: Johnson, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,13210117,,08/01/2012,62,"Invoice-Private",,08/01/2012,08/10/2012,,13215535MO,-7053.0000,,,,,,,,,,
+TRANSACTION,3260,010308132,1,27,27,"Credit for Monthly Cable: Johnson, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308132,1,35,35,"Credit for Pendant Fee: Johnson, Elizabeth",,,,,,,,,,,,,,,

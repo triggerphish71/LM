@@ -1,0 +1,5 @@
+BATCH,,201203,B,70.0000,
+INVOICE,IN,,15410148,,03/01/2012,35.0000,"Invoice-Private",,03/01/2012,03/10/2012,,15414758MO,-3607.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35.0000,35.00,"Monthly Cable: Fosbinder, Olga",,,,,,,,,,,,,,,
+INVOICE,CM,,15410148,,03/01/2012,35,"Invoice-Private",,03/01/2012,03/10/2012,,15414758MO,-3607.0000,,,,,,,,,,
+TRANSACTION,3260,010211154,1,35,35,"Credit for Monthly Cable: Fosbinder, Olga",,,,,,,,,,,,,,,

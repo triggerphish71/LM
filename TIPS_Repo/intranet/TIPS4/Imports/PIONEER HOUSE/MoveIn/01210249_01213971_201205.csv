@@ -1,0 +1,5 @@
+BATCH,,201205,B,3569.0000,
+INVOICE,IN,,01210249,,05/08/2012,3569.0000,"MoveIn-Brian. Mable",,05/08/2012,05/08/2012,,01213971,3569.0000,,,,,,,,,,
+TRANSACTION,3010,010103012,24,85.0000,2040,"Basic Service Fee - Studio: Brian. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103012,1,29.0000,29,"Monthly Cable: Brian. Mable",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103012,1,1500.0000,1500,"New Resident Fee: Brian. Mable",,,,,,,,,,,,,,,

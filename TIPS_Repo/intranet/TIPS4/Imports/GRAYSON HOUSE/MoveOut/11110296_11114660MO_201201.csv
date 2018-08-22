@@ -1,0 +1,8 @@
+BATCH,,201201,B,4537.0000,
+INVOICE,IN,,11110296,,01/01/2012,141.0000,"Invoice-Private",,01/01/2012,01/01/2012,,11114660MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,97.0000,97.00,"Basic Service Fee - Studio for Jan: Rinehart, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,44.0000,44.00,"Resident Care - Level 3 for Jan: Rinehart, June",,,,,,,,,,,,,,,
+INVOICE,CM,,11110296,,01/01/2012,4396,"Invoice-Private",,01/01/2012,01/01/2012,,11114660MO,-4255.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3007,3007,"CR:Basic Service F... J.Rinehart 201201: Rinehart, June",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... J.Rinehart 201201: Rinehart, June",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,1364,1364,"CR:Resident Care -... J.Rinehart 201201: Rinehart, June",,,,,,,,,,,,,,,

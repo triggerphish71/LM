@@ -1,0 +1,5 @@
+BATCH,,201109,B,54.0000,
+INVOICE,IN,,17110124,,09/01/2011,27.0000,"Invoice-Private",,09/01/2011,09/10/2011,,17114679MO,-2571.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27.0000,27.00,"Monthly Cable: Craps, Derema Joyce",,,,,,,,,,,,,,,
+INVOICE,CM,,17110124,,09/01/2011,27,"Invoice-Private",,09/01/2011,09/10/2011,,17114679MO,-2571.0000,,,,,,,,,,
+TRANSACTION,3260,010308171,1,27,27,"Credit for Monthly Cable: Craps, Derema Joyce",,,,,,,,,,,,,,,

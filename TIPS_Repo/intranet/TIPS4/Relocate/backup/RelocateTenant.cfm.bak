@@ -1,0 +1,608 @@
+<!----------------------------------------------------------------------------------------------
+| DESCRIPTION                                                                                  |
+|----------------------------------------------------------------------------------------------|
+|                                                                                              |
+|----------------------------------------------------------------------------------------------|
+| STORED PROCEDURES                                                                            |
+|----------------------------------------------------------------------------------------------|
+|  none                                                                                        |
+|----------------------------------------------------------------------------------------------|
+| INCLUDES                                                                                     |
+|----------------------------------------------------------------------------------------------|
+|   none                                                                                       |
+|----------------------------------------------------------------------------------------------|
+| HISTORY                                                                                      |
+|----------------------------------------------------------------------------------------------|
+| Author     | Date       | Description                                                        |
+|------------|------------|--------------------------------------------------------------------|
+| ranklam    | 09/21/2005 | Added the js_chargemenu include to only show rooms and rates for   |
+|		     |            | the selected tenant's charge type.                                 |
+| mlaw       | 01/04/2005 | Changed the cChargeset to lower case for the matching              | 
+|            |            | lcase , toLowerCase()                                              |
+| mlaw       | 02/28/2006 | Fix relocate drop down list                       	               |
+| mlaw       | 03/01/2006 | Only AR Admin can change the Amount                                |
+| Ssathya	 | 07/30/2008 | Made modification as per project 20125                             |
+| Rschuette	 | 02/27/2009 | Finished all changes made for Project 26955 & Bond Designations    |
+----------------------------------------------------------------------------------------------->
+
+<CFOUTPUT>
+<!--- ==============================================================================
+Retrieve database TimeStamp
+=============================================================================== --->
+<CFQUERY NAME="qTimeStamp" DATASOURCE="#APPLICATION.datasource#">
+	SELECT getdate() as TimeStamp
+</CFQUERY>
+<CFSET TimeStamp = CreateODBCDateTime(qTimeStamp.TimeStamp)>
+<!--- Project 20125 modification. 07/30/08 Ssathya added validation --->
+<script language="JavaScript" type="text/javascript">
+	function hardhaltvalidation(formCheck)
+	{
+	if(formCheck.bondval.value==1)
+		{
+			<!--- Proj 26955 2/17/2009 Commented out for replacement code below. --->
+			<!--- var bondhouse = false;
+			for(j=0;j<RelocateTenant.cBondHouseEligibleAfterRelocate.length;j++)
+			{
+				if(RelocateTenant.cBondHouseEligibleAfterRelocate[j].checked)
+				{
+					bondhouse = true;
+				}
+			}
+			
+			if(!bondhouse)
+			{
+				
+				alert("Please select Bond House Eligibility");
+				return false;
+			} --->
+				
+<!--- Proj 26955 2-19-2009 Rschuette Bond Validations : Start of Javascript --->
+	 		var tenantname = RelocateTenant.iTenant_ID.options[RelocateTenant.iTenant_ID.selectedIndex].text;
+	 		if (tenantname == 'Choose Resident'){
+	 			alert("Please select a resident.")
+	 			return false;}
+	 		
+	 		
+	 		var recert;
+				for(j=0;j<RelocateTenant.cBondTenantEligibleAfterRelocate.length;j++)
+				{
+					if(RelocateTenant.cBondTenantEligibleAfterRelocate[j].checked)
+					{var recert = true;
+					
+						if(RelocateTenant.cBondTenantEligibleAfterRelocate[j].value == 1)
+						{var recert_value = true;
+						}
+						else
+						{var recert_value = false;
+						//alert(recert_value);
+						}
+					}
+				}
+					
+					if(!recert){
+						alert("Please indicate if the resident certified for bond status.");
+						return false;
+						}
+		 	//DATE
+		 		<!--- if ((RelocateTenant.txtBondReCertDate.indexOf("-"))>0){
+		 			alert("Please enter a re-certification date that is valid, and not in the future. \n mm/dd/yyyy format please.");
+					return false;
+					} --->
+				if (RelocateTenant.txtBondReCertDate.value == '' || RelocateTenant.txtBondReCertDate.value == '00/00/0000')// || Dash == true)
+					{alert("Please enter a re-certification date that is valid, and not in the future. \n mm/dd/yyyy.");
+					return false;
+					}
+					
+				if(ValidBondDate(RelocateTenant.txtBondReCertDate.value) == false)
+					{
+						RelocateTenant.txtBondReCertDate.focus();
+						alert("Please enter a re-certification date that is valid, and not in the future.");
+						return false;
+						}		
+ 		//ROOM 
+ 				var bondroom = RelocateTenant.iAptAddress_ID.options[RelocateTenant.iAptAddress_ID.selectedIndex].text;
+					var bRoomisBond = false;
+					var bRoomisBondIncluded = false;
+				if((bondroom.indexOf("Bond")) > 0){
+					bRoomisBond = true;
+					}
+				if((bondroom.indexOf("Included")) > 0){
+					bRoomisBondIncluded = true;}
+					
+		//THE CHECK
+			//only 2 really matter (recert,bRoomisBond or bRoomisBondIncluded)
+			//if resident certifies as bond
+				//then room selected must at least be bond inlcuded
+			//if resident certifies as NOT bond - then room selected cannot be bond designated
+				if(recert_value == false && bRoomisBond == true){
+						alert("Tenant is marked as not being eligible as bond.\n \nPlease select a room that is not bond designated.");
+						return false;}
+				else if(recert_value == true && bRoomisBondIncluded == false){
+						alert("Tenant is marked as being eligible as bond. \n \nThe room selected is not bond applicable. \n \nPlease select a bond included room.")
+						return false;}
+	
+		//LAST
+				var alertcount; 
+					if(RelocateTenant.Percent < 20){
+						if(alertcount!=1){
+							alertcount==1;
+							alert("Bond Apartment count is under the required amount. \n \nPlease select a non-bond room to make it bond if possible.");
+							return false;
+						}	
+					}  
+			
+		 return true;
+		}	
+	}
+	
+function ValidBondDate(dtbond){
+		if(isDate(dtbond)==false){
+			return false;}
+return true;
+}
+//also seen on MoveInForm 
+function isDate(dtStr){
+		var dtCh= "/";
+		var minYear=2009;
+		var year=new Date();
+		var now=new Date();
+		var maxYear=year.getYear();
+		var daysInMonth = DaysArray(12)
+		var pos1=dtStr.indexOf(dtCh)
+		var pos2=dtStr.indexOf(dtCh,pos1+1)
+		var strMonth=dtStr.substring(0,pos1)
+		var strDay=dtStr.substring(pos1+1,pos2)
+		var strYear=dtStr.substring(pos2+1)
+		strYr=strYear
+		
+		if (strDay.charAt(0)=="0" && strDay.length>1) strDay=strDay.substring(1)
+		if (strMonth.charAt(0)=="0" && strMonth.length>1) strMonth=strMonth.substring(1)
+		for (var i = 1; i <= 3; i++) {
+			if (strYr.charAt(0)=="0" && strYr.length>1) strYr=strYr.substring(1)
+		}
+		month=parseInt(strMonth)
+		day=parseInt(strDay) 
+		year=parseInt(strYr)
+		if (pos1==-1 || pos2==-1){
+			//alert("The date format should be : mm/dd/yyyy")
+			return false;
+		}
+		if (strMonth.length<1 || month<1 || month>12){
+			//alert("Please enter a valid month")
+			return false;
+		}
+		
+		if (strDay.length<1 || day<1 || day>31 ||(month==02 && day>daysInFebruary(year)) || day > daysInMonth[month]){// || 
+			//alert("Please enter a valid day.")
+			return false;
+		}
+		if (strYear.length != 4 || year==0 || year<minYear || year>maxYear){
+			//alert("Please enter a valid 4 digit year. \n \n(ie "+maxYear+")")
+			return false;
+		}
+		if (dtStr.indexOf(dtCh,pos2+1)!=-1 || isInteger(stripCharsInBag(dtStr, dtCh))==false){
+			//alert("Please enter a valid date")
+			return false;
+		}
+		if(strDay.length<2){strDay = 0 + strDay}
+		if(strMonth.length<2){strMonth = 0 + strMonth}
+		var RearrangedInput=strYear+strMonth+strDay
+		RearrangedInput = parseFloat(RearrangedInput)
+		var TodayDay = parseInt(now.getDate());
+		TodayDay = TodayDay +'';
+		if (TodayDay.length<2){TodayDay = 0 + TodayDay;}
+		
+		var TodayMonth = parseInt(now.getMonth());
+		TodayMonth = (TodayMonth + 1)+'';
+		if (TodayMonth.length<2){TodayMonth = 0 + TodayMonth;}
+		
+		var TodayYear = now.getFullYear();
+		var TodayRearranged = (TodayYear + ''+ TodayMonth +''+ TodayDay)
+		TodayRearranged = parseFloat(TodayRearranged);
+		if (RearrangedInput>TodayRearranged){
+			//alert("Please no future dates.")
+			return false;
+		}
+	return true;
+}
+	function isInteger(s){
+	var i;
+    for (i = 0; i < s.length; i++){   
+        // Check that current character is number.
+        var c = s.charAt(i);
+        if (((c < "0") || (c > "9"))) return false;
+    }
+    // All characters are numbers.
+    return true;
+}
+
+function stripCharsInBag(s, bag){
+	var i;
+    var returnString = "";
+    // Search through string's characters one by one.
+    // If character is not in bag, append to returnString.
+    for (i = 0; i < s.length; i++){   
+        var c = s.charAt(i);
+        if (bag.indexOf(c) == -1) returnString += c;
+    }
+    return returnString;
+}
+
+function daysInFebruary (year){
+	// February has 29 days in any year evenly divisible by four,
+    // EXCEPT for centurial years which are not also divisible by 400.
+    return (((year % 4 == 0) && ( (!(year % 100 == 0)) || (year % 400 == 0))) ? 29 : 28 );
+}
+
+function DaysArray(n) {
+	for (var i = 1; i <= n; i++) {
+		this[i] = 31
+		if (i==4 || i==6 || i==9 || i==11) {this[i] = 30}
+		if (i==2) {this[i] = 29}
+   } 
+   return this
+}
+<!--- End 26955 Javascript --->
+
+</script>
+<!--- ==============================================================================
+Retrieve list of Available Apartments (less than 2 people in an Apartment
+=============================================================================== --->
+<!--- <CFQUERY NAME="Available" DATASOURCE="#APPLICATION.datasource#">
+SELECT 	ad.iAptAddress_ID, ad.cAptNumber, ap.cDescription, c.cChargeSet,
+	(select count(t.itenant_id)
+	from tenantstate ts
+	join tenant t on t.itenant_id = ts.itenant_id and ts.dtrowdeleted is null
+	where t.dtrowdeleted is null and ts.iaptAddress_id = ad.iaptaddress_id and ts.itenantstatecode_id = 2) as occupancy
+	,c.*
+FROM APTADDRESS AD (NOLOCK)
+join APTTYPE AP (NOLOCK) ON (AP.iAptType_ID = AD.iAptType_ID AND AP.dtRowDeleted IS NULL)
+join charges c on c.iapttype_id = ap.iapttype_id and c.dtrowdeleted is null and getdate() between dteffectivestart and dteffectiveend
+and c.ihouse_id = ad.ihouse_id and c.iresidencytype_id = 1
+join chargetype ct on ct.ichargetype_id = c.ichargetype_id and ct.dtrowdeleted is null and ct.bisdaily is not null
+WHERE AD.dtRowDeleted IS NULL AND ad.iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID#
+ORDER BY ad.cAptNumber
+</CFQUERY> --->
+
+<!--- MLAW 02/28/2006 fix relocate drop down list --->
+<CFQUERY NAME="Available" DATASOURCE="#APPLICATION.datasource#">
+	SELECT 	
+		ad.iAptAddress_ID
+		,ad.cAptNumber
+		,ap.cDescription
+		,c.cChargeSet
+		,(select count(t.itenant_id)
+			from tenantstate ts
+			join tenant t 
+			on t.itenant_id = ts.itenant_id 
+			and ts.dtrowdeleted is null
+			where t.dtrowdeleted is null 
+			  and ts.iaptAddress_id = ad.iaptaddress_id 
+			  and ts.itenantstatecode_id = 2) as occupancy
+		,c.*
+		<!--- Proj 26955 2/13/2009 rschuette Bond Indentifiers --->
+		,AD.bIsBond
+		,AD.bBondIncluded
+	FROM APTADDRESS AD (NOLOCK)
+	join APTTYPE AP (NOLOCK) 
+	ON (AP.iAptType_ID = AD.iAptType_ID 
+	AND AP.dtRowDeleted IS NULL)
+	join houseproductline HP
+	on HP.ihouseproductline_ID = AD.ihouseproductline_ID
+	and HP.ihouse_ID = AD.ihouse_ID
+	join charges c 
+	on c.iapttype_id = ap.iapttype_id 
+	and c.iproductline_ID = HP.iproductline_ID
+	and c.dtrowdeleted is null 
+	and getdate() between dteffectivestart and dteffectiveend
+	and c.ihouse_id = ad.ihouse_id 
+	and c.iresidencytype_id = 1
+	join chargetype ct 
+	on ct.ichargetype_id = c.ichargetype_id 
+	and ct.dtrowdeleted is null 
+	and ct.bisdaily is not null
+	WHERE 
+		AD.dtRowDeleted IS NULL 
+	AND ad.iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID#
+	ORDER BY ad.cAptNumber
+</CFQUERY>
+<!--- ==============================================================================
+Retrieve list of Tenants in a Moved In State
+=============================================================================== --->
+<!--- Project 26955 - RTS - 12/15/2008 Added T.bIsBond to query. --->
+<CFQUERY NAME="TenantList" DATASOURCE = "#APPLICATION.datasource#">
+	SELECT	distinct  count(distinct IM.iInvoiceMaster_ID) as moveoutcount
+			,T.iTenant_ID ,T.cLastName ,T.cFirstName ,T.cSolomonKey, TS.iresidencytype_id
+			,T.cChargeSet, T.bIsBond
+	FROM	Tenant	T (NOLOCK)
+	JOIN	TenantState	TS (NOLOCK) ON T.iTenant_ID = TS.iTenant_ID
+	LEFT JOIN InvoiceDetail INV (NOLOCK) ON (T.iTenant_ID = INV.iTenant_ID AND INV.dtRowDeleted IS NULL)
+	LEFT JOIN InvoiceMaster IM (NOLOCK) ON (IM.iInvoiceMaster_ID = INV.iInvoiceMaster_ID AND IM.dtRowDeleted IS NULL AND IM.bMoveOutInvoice IS NOT NULL)
+	WHERE T.dtRowDeleted IS NULL AND iTenantStateCode_ID = 2
+	AND TS.dtMoveIN IS NOT NULL  AND iHouse_ID = #SESSION.qSelectedHouse.iHouse_ID#
+	GROUP BY T.cLastName, T.iTenant_ID, T.cFirstName, T.cSolomonKey, TS.iresidencytype_id,T.cChargeSet,T.bIsBond
+	ORDER BY T.cLastName, T.iTenant_ID, T.cFirstName, T.cSolomonKey, TS.iresidencytype_id
+</CFQUERY>
+
+<!--- ==============================================================================
+Do Javascript that figures out the selected tenant's current room and rate
+=============================================================================== --->
+
+	<!--- ==============================================================================
+	Retrieve house second tenant rate
+	=============================================================================== --->
+	<CFQUERY NAME='qSecondRate' DATASOURCE='#APPLICATION.datasource#'>
+		select *
+		from charges c
+		join chargetype ct on ct.ichargetype_id = c.ichargetype_id and ct.dtrowdeleted is null
+			and bisrent is not null and bisdaily is not null and c.ioccupancyposition <> 1
+			and c.ihouse_id = #SESSION.qSelectedHouse.ihouse_id#
+		where c.dtrowdeleted is null
+		and getdate() between c.dteffectivestart and c.dteffectiveend
+	</CFQUERY>
+
+	<!--- ==============================================================================
+	Retrieve any rent recurring for this tenant
+	=============================================================================== --->
+	<CFQUERY NAME='qRecurring' DATASOURCE='#APPLICATION.datasource#'>
+		select rc.irecurringcharge_id, rc.itenant_id, rc.cdescription, rc.mamount, c.cChargeSet
+		from recurringcharge rc (NOLOCK)
+		join tenant t (NOLOCK) on t.itenant_id = rc.itenant_id  and t.dtrowdeleted is null
+		join tenantstate ts (NOLOCK) on ts.itenant_id = t.itenant_id and ts.dtrowdeleted is null and ts.itenantstatecode_id = 2
+		join charges c (NOLOCK) on c.icharge_id = rc.icharge_id
+		join chargetype ct (NOLOCK) on ct.ichargetype_id = c.ichargetype_id and ct.bisrent is not null
+		where rc.dtrowdeleted is null
+		and t.ihouse_id = #SESSION.qSelectedHouse.ihouse_id#
+		and getdate() between rc.dteffectivestart and rc.dteffectiveend
+	</CFQUERY>
+	<CFSET tenanteventhandler="onBlur='recurr(this,document.forms[0].iAptAddress_ID);'">
+	<CFSET apteventhandler="onChange='recurr(document.forms[0].iTenant_ID,this);'">
+	
+	<!--- MLAW 03/01/2006 - Only AR Admin can change the Amount --->
+	<cfif ListFindNoCase(session.groupid, 240, ",") gt 0>
+		<cfset read_only = "">
+	<cfelse>
+	    <cfset read_only = " readonly='true' ">
+	</cfif>
+	
+	<SCRIPT>
+		function recurr(obj,apt)
+		{
+			//set a variable equal to the selected tenants charge set
+			var chargeSet = GetChargeSetForTenant();
+
+			//holds the residency type id
+			res="";
+			<CFLOOP QUERY='Tenantlist'>
+				<CFIF tenantlist.currentrow eq 1>
+					if (obj.value == #tenantlist.itenant_id#)
+					{
+						res=#tenantlist.iresidencytype_id#;
+					}
+				<CFELSE>
+					else if (obj.value == #tenantlist.itenant_id#)
+					{
+						res=#tenantlist.iresidencytype_id#;
+					}
+				</CFIF>
+			</CFLOOP>
+			//this will hold the html for the reoccuring charge found for a tenant
+			var z = '';
+			//this will hold the html for the charge price for the room
+			var c = '';
+
+			//if there is no charge displayed hide the recurringcharge area
+			if (obj.value == "")
+			{
+				document.all['recurringchange'].style.display="none";
+				return false;
+			}
+
+			//clear the reoccuringcharge section html
+			document.all['recurringchange'].innerHTML='';
+
+			<!--- loop through the recurring charge query and show the matching charge on the page --->
+			<CFLOOP QUERY='qRecurring'>
+				<CFIF qRecurring.currentrow eq 1>
+					if (obj.value == #qRecurring.itenant_id#)
+					{
+						document.all['recurringchange'].style.display="inline";
+						z="<B> <U>Recurring Charge was found for:</U> <BR> #qRecurring.cdescription# at #LSCurrencyFormat(isBlank(qRecurring.mAmount,0))# </B> <BR>";
+						z+="<INPUT TYPE=hidden NAME='irecurringcharge_id' VALUE='#qRecurring.irecurringcharge_id#'>";
+					}
+				<CFELSE>
+					else if (obj.value == #qRecurring.itenant_id#)
+					{
+						document.all['recurringchange'].style.display="inline";
+						z="<B> <U>Recurring Charge was found for:</U> <BR> #qRecurring.cdescription# at #LSCurrencyFormat(isBlank(qRecurring.mAmount,0))# </B> <BR>";
+						z+="<INPUT TYPE=hidden NAME='irecurringcharge_id' VALUE='#qRecurring.irecurringcharge_id#'>";
+					}
+				</CFIF>
+			</CFLOOP>
+			<!--- loop though the avaliable charges query and diaplay the charge in the text box --->
+			<CFLOOP QUERY='Available'>
+				<cfif cChargeSet eq "">
+					<cfset currentChargeSet = "null">
+				<cfelse>
+					<cfset currentChargeSet = lcase(cChargeSet)>
+				</cfif>
+
+				<CFIF Available.currentrow eq 1>
+					if (apt.value == #isBlank(Available.iAptAddress_ID,0)# && chargeSet.toLowerCase() == '#currentChargeSet#')
+					{
+						document.all['recurringchange'].style.display="inline";
+						c="<B><I STYLE='color: red;'>Change to #Available.cdescription# $ ";
+						c+="<INPUT TYPE=text NAME='Recurring_mAmount' SIZE=8 VALUE='#trim(LSNumberFormat(Available.mAmount,'999999.00-'))#' \
+							STYLE='text-align: right; color: red; font-weight: bold; italic;' onBlur='this.value=cent(rount(this.value));' #read_only#></I></B>";
+						c+="<INPUT TYPE=hidden NAME='newcharge' VALUE='#Available.icharge_id#'>";
+					}
+				<CFELSE>
+					else if (apt.value == #isBlank(Available.iAptAddress_ID,0)# && chargeSet.toLowerCase() == '#currentChargeSet#')
+					{
+						document.all['recurringchange'].style.display="inline";
+						c="<B><I STYLE='color: red;'>Change to #Available.cdescription# $ ";
+						c+="<INPUT TYPE=text NAME='Recurring_mAmount' SIZE=8 VALUE='#trim(LSNumberFormat(Available.mAmount,'999999.00-'))#' \
+						STYLE='text-align: right; color: red; font-weight: bold; italic;' onBlur='this.value=cent(round(this.value));' #read_only#></I></B>";
+						c+="<INPUT TYPE=hidden NAME='newcharge' VALUE='#Available.icharge_id#'>";
+					}
+				</CFIF>
+			</CFLOOP>
+			else
+			{
+				document.all['recurringchange'].style.display="none";
+			}
+
+			document.all['recurringchange'].innerHTML=z+c;
+		}
+	</SCRIPT>
+	<CFSCRIPT>
+		if (session.cbillingtype eq 'd') { dailyfilter="is not null"; }
+		else { dailyfilter="is null"; }
+	</CFSCRIPT>
+	<CFQUERY NAME="qRoomAndBoard" DATASOURCE="#APPLICATION.datasource#">
+		select c.icharge_id, c.cdescription, c.mAmount, c.iresidencytype_id,
+			isNull(c.isleveltype_id,0) as isleveltype_id, c.iOccupancyPosition
+		from charges c
+		join chargetype ct on ct.ichargetype_id = c.ichargetype_id and ct.dtrowdeleted is null
+		where c.dtrowdeleted is null
+		and c.ihouse_id = #SESSION.qSelectedHouse.iHouse_ID#
+		and ct.bisrent is not null and ct.bSLevelType_ID is null and ct.bisdaily #dailyfilter#
+		and getdate() between c.dteffectivestart and c.dteffectiveend
+	</CFQUERY>
+
+	<!--- 07/30/08 ssathya to check if this house is a bond house for project 20125.. --->
+	 <cfquery name="bondhouse" datasource="#application.datasource#">
+		select * from house  where ihouse_id =  #session.qSelectedHouse.iHouse_ID#
+    </cfquery>
+	<!--- <CFSCRIPT>tenanteventhandler=""; apteventhandler="";</CFSCRIPT> --->
+<!--- include the new javascript to show only the correct charge sets --->
+<cfinclude template="js_ChargeMenu.cfm">
+
+<!--- Include intranet header --->
+<CFINCLUDE TEMPLATE="../../header.cfm">
+
+<!--- =============================================================================================
+JavaScript to redirect user to specified template if the Don't save button is pressed
+============================================================================================= --->
+<SCRIPT>
+	function redirect() { window.location = "../mainmenu.cfm"; }
+	function moveoutinvoicecheck(obj) {
+		tenantids = new Array(#ValueList(TenantList.iTenant_ID)#);
+		moveoutcountpertenant = new Array(#ValueList(TenantList.moveoutcount)#);
+		for (i=0;i<=(tenantids.length-1);i++){
+			if ((obj.value == tenantids[i]) && (moveoutcountpertenant[i] > 0)){
+				document.forms[0].save.style.visibility='hidden';
+				alert('A move out invoice for this resident has been found. \
+						\rYou may not relocate residents that are in the process of moving out. \
+						\rPlease go to the move out process and indicate that this resident is not moving out before relocating this resident.');
+				break;
+			}
+			else {document.forms[0].save.style.visibility='visible';}
+		}
+	}
+</SCRIPT>
+
+<!--- Include Shared JavaScript --->
+<CFINCLUDE TEMPLATE="../Shared/JavaScript/ResrictInput.cfm">
+
+<!--- Page Title --->
+<TITLE> TIPS 4 - Relocate Resident </TITLE>
+
+<!--- Display the page Header. --->
+<H1 CLASS="PageTitle"> Tips 4 - Relocate Resident </H1>
+
+<!--- Include House Header --->
+<CFINCLUDE TEMPLATE="../Shared/HouseHeader.cfm">
+<!--- Project 20125 modification. 07/30/2008 Ssathya made modifications so that the form has a name and the bond question. --->
+<CFFORM Name="RelocateTenant" ACTION="RelocateUpdate.cfm" METHOD="POST">
+<TABLE>
+	<TR><TH COLSPAN="4">Relocate Resident	</TH></TR>
+	<TR>
+		<TD>Please select the resident that you would like to Relocate.</TD>
+		<TD COLSPAN=2></TD>
+		<TD>
+			<!--- Project 26955 - RTS - 12/15/2008 - Adjusted option display to show bond resident designations. --->
+			<SELECT NAME="iTenant_ID" onChange='moveoutinvoicecheck(this);PopulateChargeDropDown()' #tenanteventhandler#>
+				<OPTION VALUE="">Choose Resident</OPTION>
+				<CFLOOP QUERY="TenantList">
+					<cfscript>
+						if (TenantList.bIsBond EQ 1){ Note = '(Bond)';} else{ Note=''; }
+					</cfscript>
+					<OPTION Value="#TenantList.iTenant_ID#"> #TenantList.cLastName#, #TenantList.cFirstName# (#TenantList.cSolomonKey#) #NOTE#</OPTION>
+				</CFLOOP>
+			</SELECT>
+		</TD>
+	</TR>
+	<!---Project 20125 modification. 07/30/08 ssathya added the bond house question . --->
+
+	 <input type="hidden" name="bondval" value="#bondhouse.ibondhouse#"> 
+	 <cfif bondhouse.ibondhouse eq 1> 	   
+	<tr>
+		
+		<td colspan="4" style="Font-weight: bold;">Has the appropriate income certification form been completed to RE-qualify the resident as eligible for the purpose of meeting the bond program occupancy requirements when the resident was relocated?
+			 Yes<input type="radio" name="cBondHouseEligibleAfterRelocate" value="1"> No
+			<input type="radio" name="cBondHouseEligibleAfterRelocate" value="0" >
+				
+		</td>
+	</tr>	
+	</cfif>
+	<TR>
+		<TD>Relocate resident to Room: </TD> <TD COLSPAN=2></TD>
+		<TD>
+			<!--- <SELECT NAME="iAptAddress_ID" #apteventhandler#>
+				<CFLOOP QUERY="Available"><OPTION ID='#Available.occupancy#' VALUE="#Available.iAptAddress_ID#"> #trim(Available.cAptNumber)# - #trim(Available.cDescription)# </OPTION></CFLOOP>
+			</SELECT> --->
+			<SELECT NAME="iAptAddress_ID" #apteventhandler#>
+				<option value="">Select...</option>
+			</SELECT>
+		</TD>
+	</TR>
+	<TR><TD COLSPAN=100% STYLE='vertical-align:top;'><SPAN ID='recurringchange'></SPAN></TD></TR>
+	<TR>
+		<TD>When did this change take Effect?</TD> <TD COLSPAN=2></TD>
+		<TD> <script>
+				function effectivevalidate(){
+					today = new Date(#Year(TimeStamp)#,#Evaluate(Month(TimeStamp)-1)#,#Day(TimeStamp)#);
+					effday = document.forms[0].Day.value;
+					effmonth = document.forms[0].Month.value -1;
+					effyear = document.forms[0].Year.value;
+					effdate = new Date(effyear,effmonth,effday);
+					<CFIF remote_addr eq '10.1.0.211'>
+						today= new Date();
+    					difference = effdate.getTime() - today.getTime();
+				    	daysDifference = Math.floor(difference/1000/60/60/24) + 1;
+						alert(daysDifference);
+					</CFIF>
+					if (effdate > today){
+						alert('Relocations may not be entered for future dates..');
+						document.forms[0].Month.value = #Month(TimeStamp)#; document.forms[0].Day.value = #Day(TimeStamp)#;
+						return false;
+					}
+				}
+			</script>
+			<SELECT NAME="Month" onChange="dayslist(document.forms[0].Month, document.forms[0].Day, document.forms[0].Year);" onBlur="effectivevalidate();">
+				<CFLOOP INDEX="I" FROM="1" TO="12" STEP="1"><CFIF I EQ Month(Now())> <CFSET Selected='Selected'> <CFELSE> <CFSET Selected=''> </CFIF>
+					<OPTION VALUE="#I#" #Selected#> #I# </OPTION>
+				</CFLOOP>
+			</SELECT>
+			/
+			<SELECT NAME="Day" onChange="dayslist(document.forms[0].Month, document.forms[0].Day, document.forms[0].Year);" onBlur="effectivevalidate();">
+				<CFLOOP INDEX="I" FROM="1" TO="31" STEP="1"><CFIF I EQ Day(Now())> <CFSET Selected='Selected'> <CFELSE>	<CFSET Selected=''>	</CFIF>
+					<OPTION VALUE="#I#" #SELECTED#> #I# </OPTION>
+				</CFLOOP>
+			</SELECT>
+			/
+			<INPUT TYPE=TEXT NAME='Year' VALUE="#Year(now())#" STYLE='text-align: center;' SIZE=4 MAXLENGTH=4 onKeyUP="this.value=Numbers(this.value)" onBlur="YearTest(this); effectivevalidate();" ReadOnly onChange="dayslist(document.forms[0].Month, document.forms[0].Day, document.forms[0].Year);">
+		</TD>
+	</TR>
+	<TR>
+		<!--- Project 20125 modification. 07/30/2008 Ssathya Added the validation to the save button --->
+		<TD><INPUT TYPE="submit" NAME="save" VALUE="Save" CLASS="SaveButton" onmouseover="return hardhaltvalidation(RelocateTenant);" onfocus ="return hardhaltvalidation(RelocateTenant);" ></TD><TD COLSPAN=2></TD>
+		<TD><INPUT TYPE="button" NAME="Don't Save" VALUE="Don't Save" CLASS="DontSaveButton" onClick="redirect()"></TD>
+	</TR>
+	<TR><TD COLSPAN="4" style="font-weight: bold; color: red;">	<U>NOTE:</U> You must SAVE to keep information which you have entered! </TD></TR>
+</TABLE>
+</CFFORM>
+
+<CFINCLUDE TEMPLATE="../../footer.cfm">
+</CFOUTPUT>

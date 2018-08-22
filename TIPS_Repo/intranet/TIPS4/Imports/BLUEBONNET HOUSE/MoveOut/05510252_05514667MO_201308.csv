@@ -1,0 +1,7 @@
+BATCH,,201308,B,3456.0000,
+INVOICE,IN,,05510252,,08/03/2013,1224.0000,"Invoice-Private",,08/03/2013,08/03/2013,,05514667MO,-1008.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,17,56.0000,952.00,"Basic Service Fee - Studio for Aug: Prince, Joesph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,17,16.0000,272.00,"Resident Care - Level 1 for Aug: Prince, Joesph",,,,,,,,,,,,,,,
+INVOICE,CM,,05510252,,08/03/2013,2232,"Invoice-Private",,08/03/2013,08/03/2013,,05514667MO,-1008.0000,,,,,,,,,,
+TRANSACTION,3020,010202055,1,1736,1736,"CR:Basic Service F... J.Prince 201308: Prince, Joesph",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202055,1,496,496,"CR:Resident Care -... J.Prince 201308: Prince, Joesph",,,,,,,,,,,,,,,

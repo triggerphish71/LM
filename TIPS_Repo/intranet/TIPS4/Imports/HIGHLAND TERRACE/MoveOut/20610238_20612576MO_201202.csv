@@ -1,0 +1,7 @@
+BATCH,,201202,B,4920.0000,
+INVOICE,IN,,20610238,,02/11/2012,1353.0000,"Invoice-Private",,02/11/2012,02/11/2012,,20612576MO,-2214.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,11,32.0000,352.00,"Resident Care - Level 3 for Feb: Coleman, Jesse",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,11,91.0000,1001.00,"Studio for Feb: Coleman, Jesse",,,,,,,,,,,,,,,
+INVOICE,CM,,20610238,,02/11/2012,3567,"Invoice-Private",,02/11/2012,02/11/2012,,20612576MO,-2214.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,928,928,"CR:Resident Care -... J.Coleman 201202: Coleman, Jesse",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2639,2639,"CR:Studio... J.Coleman 201202: Coleman, Jesse",,,,,,,,,,,,,,,

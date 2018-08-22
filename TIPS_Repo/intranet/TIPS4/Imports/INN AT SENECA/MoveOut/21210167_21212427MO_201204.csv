@@ -1,0 +1,6 @@
+BATCH,,201204,B,3480.0000,
+INVOICE,IN,,21210167,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,21212427MO,-4324.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,60.0000,60.00,"CR:Limited Term Di... R.Cross 201204: Cross, Rosemarie",,,,,,,,,,,,,,,
+INVOICE,CM,,21210167,,04/01/2012,3420,"Invoice-Private",,04/01/2012,04/10/2012,,21212427MO,-4324.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,660,660,"CR:Resident Care -... R.Cross 201204: Cross, Rosemarie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2760,2760,"CR:Studio Deluxe... R.Cross 201204: Cross, Rosemarie",,,,,,,,,,,,,,,

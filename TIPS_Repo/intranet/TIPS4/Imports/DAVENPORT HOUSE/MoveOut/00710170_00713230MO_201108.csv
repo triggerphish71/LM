@@ -1,0 +1,8 @@
+BATCH,,201108,B,3585.6000,
+INVOICE,IN,,00710170,,08/17/2011,161.6000,"Invoice-Private",,08/17/2011,08/17/2011,,00713230MO,-8110.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,80.0000,80.00,"Basic Service Fee - Studio for Aug: Zollner, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,81.6000,81.60,"Resident Care - Level 48 for Aug: Zollner, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,00710170,,08/17/2011,3424,"Invoice-Private",,08/17/2011,08/17/2011,,00713230MO,-8110.4000,,,,,,,,,,
+TRANSACTION,3020,010101007,1,1200,1200,"CR:Basic Service F... C.Zollner 201108: Zollner, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101007,1,1000,1000,"CR:New Resident Fe... C.Zollner 201108: Zollner, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101007,1,1224,1224,"CR:Resident Care -... C.Zollner 201108: Zollner, Christine",,,,,,,,,,,,,,,

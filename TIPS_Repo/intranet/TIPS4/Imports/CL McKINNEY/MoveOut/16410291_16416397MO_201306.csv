@@ -1,0 +1,5 @@
+BATCH,,201306,B,3800.0000,
+INVOICE,IN,,16410291,,06/01/2013,950.0000,"Invoice-Private",,06/01/2013,06/10/2013,,16416397MO,-1900.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,10,95.0000,950.00,"Room and Board - Studio Deluxe for Jun: Faucett, Thelma",,,,,,,,,,,,,,,
+INVOICE,CM,,16410291,,06/01/2013,2850,"Invoice-Private",,06/01/2013,06/10/2013,,16416397MO,-1900.0000,,,,,,,,,,
+TRANSACTION,3020,010202164,1,2850,2850,"CR:Room and Board ... T.Faucett 201306: Faucett, Thelma",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201712,B,7905.4700,
+INVOICE,IN,,17810518,,12/01/2017,7905.4700,"MoveIn-Bird. Melvin",,12/01/2017,12/01/2017,,17819445,7905.4700,,,,,,,,,,
+TRANSACTION,3010,010012178,31,110.0000,3410,"Basic Service Fee - Studio: Bird. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012178,1,3344.0000,3344,"Community Fee: Bird. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3260,010012178,1,36.8000,36.8,"Monthly Cable: Bird. Melvin",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012178,1,1114.6700,1114.67,"Monthly Deferral Charge: Bird. Melvin",,,,,,,,,,,,,,,

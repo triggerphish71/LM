@@ -1,0 +1,7 @@
+BATCH,,201308,B,6452.0200,
+INVOICE,IN,,09110194,,08/01/2013,1188.5300,"Invoice-Private",,08/01/2013,08/10/2013,,09115844MO,-4074.9600,,,,,,,,,,
+TRANSACTION,3020,010305091,7,76.0000,532.00,"Basic Service Fee - Studio for Aug: Cox, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,7,93.7900,656.53,"Resident Care - Level 6+1 pts for Aug: Cox, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,09110194,,08/01/2013,5263.49,"Invoice-Private",,08/01/2013,08/10/2013,,09115844MO,-4074.9600,,,,,,,,,,
+TRANSACTION,3020,010305091,1,2356,2356,"CR:Basic Service F... M.Cox 201308: Cox, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,2907.49,2907.49,"CR:Resident Care -... M.Cox 201308: Cox, Martha",,,,,,,,,,,,,,,

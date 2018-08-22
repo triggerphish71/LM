@@ -1,0 +1,7 @@
+BATCH,,201202,B,6080.0000,
+INVOICE,IN,,09410266,,02/09/2012,1440.0000,"Invoice-Private",,02/09/2012,02/09/2012,,09415790MO,-3200.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,9,98.0000,882.00,"Basic Service Fee - Studio for Feb: Shelton, Terence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,9,62.0000,558.00,"Resident Care - Level 4 for Feb: Shelton, Terence",,,,,,,,,,,,,,,
+INVOICE,CM,,09410266,,02/09/2012,4640,"Invoice-Private",,02/09/2012,02/09/2012,,09415790MO,-3200.0000,,,,,,,,,,
+TRANSACTION,3020,010107094,1,2842,2842,"CR:Basic Service F... T.Shelton 201202: Shelton, Terence",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107094,1,1798,1798,"CR:Resident Care -... T.Shelton 201202: Shelton, Terence",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201204,B,2640.0000,
+INVOICE,IN,,13810179,,04/01/2012,1320.0000,"Invoice-Private",,04/01/2012,04/10/2012,,13814892MO,-1156.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,44.0000,1320.00,"Credit for Limited Term Discount: Harrison, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,13810179,,04/01/2012,1320,"Invoice-Private",,04/01/2012,04/10/2012,,13814892MO,-1156.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,30,44,1320,"Limited Term Discount: Harrison, Hazel",,,,,,,,,,,,,,,

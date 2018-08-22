@@ -1,0 +1,5 @@
+BATCH,,201208,B,2000.0000,
+INVOICE,IN,,14610257,,08/01/2012,200.0000,"August_Rent-Kinnamon. Jeffrey",,08/01/2012,08/10/2012,,14614567,3370.0000,,,,,,,,,,
+TRANSACTION,3216,010309146,1,200.0000,200,"Monthly Deferral Charge: Kinnamon. Jeffrey",,,,,,,,,,,,,,,
+INVOICE,CM,,14610257,,08/01/2012,1800.0000,"August_Rent-Kinnamon. Jeffrey",,08/01/2012,08/10/2012,,14614567,3370.0000,,,,,,,,,,
+TRANSACTION,3216,010309146,1,1800,1800,"New Resident Fee Deferred: Kinnamon. Jeffrey",,,,,,,,,,,,,,,

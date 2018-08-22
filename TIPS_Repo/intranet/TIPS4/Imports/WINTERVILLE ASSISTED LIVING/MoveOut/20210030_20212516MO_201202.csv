@@ -1,0 +1,8 @@
+BATCH,,201202,B,6442.0000,
+INVOICE,IN,,20210030,,02/27/2012,3136.0000,"Invoice-Private",,02/27/2012,02/27/2012,,20212516MO,-3642.0000,,,,,,,,,,
+TRANSACTION,3320,010216202,1,58.0000,58.00,"CR:Limited Term Di... L.Blake 201202: Blake, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216202,27,31.0000,837.00,"Resident Care - Level 3 for Feb: Blake, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,27,83.0000,2241.00,"Studio for Feb: Blake, Lorraine",,,,,,,,,,,,,,,
+INVOICE,CM,,20210030,,02/27/2012,3306,"Invoice-Private",,02/27/2012,02/27/2012,,20212516MO,-3642.0000,,,,,,,,,,
+TRANSACTION,3027,010216202,1,899,899,"CR:Resident Care -... L.Blake 201202: Blake, Lorraine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216202,1,2407,2407,"CR:Studio... L.Blake 201202: Blake, Lorraine",,,,,,,,,,,,,,,

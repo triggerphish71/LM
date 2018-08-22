@@ -1,0 +1,7 @@
+BATCH,,201112,B,4048.6000,
+INVOICE,IN,,06610166,,12/01/2011,2024.3000,"Invoice-Private",,12/01/2011,12/10/2011,,06614258MO,-4404.0000,,,,,,,,,,
+TRANSACTION,3019,010305066,31,32.3000,1001.30,"Additional Service Charge: Schifer, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305066,31,33.0000,1023.00,"Credit for Limited Term Discount: Schifer, John",,,,,,,,,,,,,,,
+INVOICE,CM,,06610166,,12/01/2011,2024.3,"Invoice-Private",,12/01/2011,12/10/2011,,06614258MO,-4404.0000,,,,,,,,,,
+TRANSACTION,3019,010305066,31,32.3,1001.3,"Credit for Additional Service Charge: Schifer, John",,,,,,,,,,,,,,,
+TRANSACTION,3320,010305066,31,33,1023,"Limited Term Discount: Schifer, John",,,,,,,,,,,,,,,

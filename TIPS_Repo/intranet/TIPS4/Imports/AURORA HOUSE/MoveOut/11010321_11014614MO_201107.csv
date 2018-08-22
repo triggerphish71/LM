@@ -1,0 +1,8 @@
+BATCH,,201107,B,5760.0000,
+INVOICE,IN,,11010321,,07/05/2011,930.0000,"Invoice-Private",,07/05/2011,07/05/2011,,11014614MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3027,010107110,6,51.0000,306.00,"Resident Care - Level 4 for Jul: Qualls, Walburga",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107110,6,104.0000,624.00,"Room and Board - One Bedroom for Jul: Qualls, Walburga",,,,,,,,,,,,,,,
+INVOICE,CM,,11010321,,07/05/2011,4830,"Invoice-Private",,07/05/2011,07/05/2011,,11014614MO,-3900.0000,,,,,,,,,,
+TRANSACTION,3260,010107110,1,25,25,"CR:Monthly Cable... W.Qualls 201107: Qualls, Walburga",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,1581,1581,"CR:Resident Care -... W.Qualls 201107: Qualls, Walburga",,,,,,,,,,,,,,,
+TRANSACTION,3020,010107110,1,3224,3224,"CR:Room and Board ... W.Qualls 201107: Qualls, Walburga",,,,,,,,,,,,,,,

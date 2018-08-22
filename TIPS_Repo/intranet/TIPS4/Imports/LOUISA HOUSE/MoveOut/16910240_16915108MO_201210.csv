@@ -1,0 +1,5 @@
+BATCH,,201210,B,1302.0000,
+INVOICE,IN,,16910240,,10/01/2012,651.0000,"Invoice-Private",,10/01/2012,10/10/2012,,16915108MO,-341.0800,,,,,,,,,,
+TRANSACTION,3320,010103169,31,21.0000,651.00,"Credit for Limited Term Discount: Follis, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,16910240,,10/01/2012,651,"Invoice-Private",,10/01/2012,10/10/2012,,16915108MO,-341.0800,,,,,,,,,,
+TRANSACTION,3320,010103169,31,21,651,"Limited Term Discount: Follis, Helen",,,,,,,,,,,,,,,

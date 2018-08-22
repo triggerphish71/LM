@@ -1,0 +1,7 @@
+BATCH,,201108,B,3800.0000,
+INVOICE,IN,,53310232,,08/07/2011,700.0000,"Invoice-Private",,08/07/2011,08/07/2011,,53313905MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,7,85.0000,595.00,"Basic Service Fee - Studio for Aug: Steinmetz, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319533,7,15.0000,105.00,"Private Care Rate Adjustments for Aug: Steinmetz, Gerald",,,,,,,,,,,,,,,
+INVOICE,CM,,53310232,,08/07/2011,3100,"Invoice-Private",,08/07/2011,08/07/2011,,53313905MO,-2400.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2635,2635,"CR:Basic Service F... G.Steinmetz 201108: Steinmetz, Gerald",,,,,,,,,,,,,,,
+TRANSACTION,3037,010319533,1,465,465,"CR:Private Care Ra... G.Steinmetz 201108: Steinmetz, Gerald",,,,,,,,,,,,,,,

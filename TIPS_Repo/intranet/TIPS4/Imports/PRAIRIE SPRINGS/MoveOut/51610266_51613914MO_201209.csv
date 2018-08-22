@@ -1,0 +1,7 @@
+BATCH,,201209,B,4891.0500,
+INVOICE,IN,,51610266,,09/15/2012,1630.3500,"Invoice-Private",,09/15/2012,09/15/2012,,51613914MO,-4999.7400,,,,,,,,,,
+TRANSACTION,3020,010103516,15,89.0000,1335.00,"Basic Service Fee - Studio for Sep: Schneider, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,15,19.6900,295.35,"Resident Care - Level 11 for Sep: Schneider, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,51610266,,09/15/2012,3260.7,"Invoice-Private",,09/15/2012,09/15/2012,,51613914MO,-4999.7400,,,,,,,,,,
+TRANSACTION,3020,010103516,1,2670,2670,"CR:Basic Service F... R.Schneider 201209: Schneider, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103516,1,590.7,590.7,"CR:Resident Care -... R.Schneider 201209: Schneider, Robert",,,,,,,,,,,,,,,

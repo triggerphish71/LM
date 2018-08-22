@@ -1,0 +1,5 @@
+BATCH,,201201,B,3290.0000,
+INVOICE,IN,,14210193,,01/01/2012,3290.0000,"January_Rent-Wayt. Clifford",,01/01/2012,01/10/2012,,14213785,5480.0000,,,,,,,,,,
+TRANSACTION,3010,010309142,31,88.0000,2728,"Basic Service Fee - Studio: Wayt. Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309142,31,17.0000,527,"Resident Care - Level 1: Wayt. Clifford",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309142,1,35.0000,35,"Monthly Cable: Wayt. Clifford",,,,,,,,,,,,,,,

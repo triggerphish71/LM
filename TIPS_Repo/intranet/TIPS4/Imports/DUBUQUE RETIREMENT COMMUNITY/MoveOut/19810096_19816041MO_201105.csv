@@ -1,0 +1,5 @@
+BATCH,,201105,B,572.0000,
+INVOICE,IN,,19810096,,05/13/2011,169.0000,"Invoice-Private",,05/13/2011,05/13/2011,,19816041MO,-234.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,13,13.0000,169.00,"Basic Service Fee Second Resident for May: Hoerner, Millie",,,,,,,,,,,,,,,
+INVOICE,CM,,19810096,,05/13/2011,403,"Invoice-Private",,05/13/2011,05/13/2011,,19816041MO,-234.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,403,403,"CR:Basic Service F... M.Hoerner 201105: Hoerner, Millie",,,,,,,,,,,,,,,

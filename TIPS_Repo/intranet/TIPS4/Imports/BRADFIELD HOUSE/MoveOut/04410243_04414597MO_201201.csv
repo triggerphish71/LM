@@ -1,0 +1,7 @@
+BATCH,,201201,B,3838.0000,
+INVOICE,IN,,04410243,,01/07/2012,707.0000,"Invoice-Private",,01/07/2012,01/07/2012,,04414597MO,-2424.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,7,85.0000,595.00,"Basic Service Fee - Studio for Jan: Haupt, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,7,16.0000,112.00,"Resident Care - Level 1 for Jan: Haupt, George",,,,,,,,,,,,,,,
+INVOICE,CM,,04410243,,01/07/2012,3131,"Invoice-Private",,01/07/2012,01/07/2012,,04414597MO,-2424.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... G.Haupt 201201: Haupt, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202044,1,496,496,"CR:Resident Care -... G.Haupt 201201: Haupt, George",,,,,,,,,,,,,,,

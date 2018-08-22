@@ -1,0 +1,7 @@
+BATCH,,201204,B,2390.0000,
+INVOICE,IN,,03210260,,04/01/2012,1195.0000,"Invoice-Private",,04/01/2012,04/10/2012,,03214800MO,-4313.0000,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25.0000,25.00,"Monthly Cable: Johansson Ii, Axel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202032,30,39.0000,1170.00,"Credit for Limited Term Discount: Johansson Ii, Axel",,,,,,,,,,,,,,,
+INVOICE,CM,,03210260,,04/01/2012,1195,"Invoice-Private",,04/01/2012,04/10/2012,,03214800MO,-4313.0000,,,,,,,,,,
+TRANSACTION,3260,010202032,1,25,25,"Credit for Monthly Cable: Johansson Ii, Axel",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202032,30,39,1170,"Limited Term Discount: Johansson Ii, Axel",,,,,,,,,,,,,,,

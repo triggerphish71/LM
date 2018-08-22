@@ -1,0 +1,8 @@
+BATCH,,201308,B,6822.0000,
+INVOICE,IN,,05210292,,08/01/2013,2114.0000,"Invoice-Private",,08/01/2013,08/10/2013,,05215435MO,-2594.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,14,75.0000,1050.00,"Basic Service Fee - Studio for Aug: Johnson, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,14,76.0000,1064.00,"Resident Care - Level 6 for Aug: Johnson, Herbert",,,,,,,,,,,,,,,
+INVOICE,CM,,05210292,,08/01/2013,4708,"Invoice-Private",,08/01/2013,08/10/2013,,05215435MO,-2594.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2325,2325,"CR:Basic Service F... H.Johnson 201308: Johnson, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... H.Johnson 201308: Johnson, Herbert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,2356,2356,"CR:Resident Care -... H.Johnson 201308: Johnson, Herbert",,,,,,,,,,,,,,,

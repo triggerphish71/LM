@@ -1,0 +1,5 @@
+BATCH,,201106,B,1440.0000,
+INVOICE,IN,,09910203,,06/18/2011,540.0000,"Invoice-Private",,06/18/2011,06/18/2011,,09913947MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,18,30.0000,540.00,"Basic Service Fee - Second Resident for Jun: Jones, Ross",,,,,,,,,,,,,,,
+INVOICE,CM,,09910203,,06/18/2011,900,"Invoice-Private",,06/18/2011,06/18/2011,,09913947MO,-1290.0000,,,,,,,,,,
+TRANSACTION,3020,010104099,1,900,900,"CR:Basic Service F... R.Jones 201106: Jones, Ross",,,,,,,,,,,,,,,

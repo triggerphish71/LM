@@ -1,0 +1,7 @@
+BATCH,,201108,B,4971.5000,
+INVOICE,IN,,14510242,,08/01/2011,294.5000,"Invoice-Private",,08/01/2011,08/10/2011,,14515062MO,-5459.0000,,,,,,,,,,
+TRANSACTION,3312,010308145,1,294.5000,294.50,"CR:Two Room Rental... R.Nichols 201108: Nichols, Ruby",,,,,,,,,,,,,,,
+INVOICE,CM,,14510242,,08/01/2011,4677,"Invoice-Private",,08/01/2011,08/10/2011,,14515062MO,-5459.0000,,,,,,,,,,
+TRANSACTION,3020,010308145,1,2945,2945,"CR:Basic Service F... R.Nichols 201108: Nichols, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308145,1,27,27,"CR:Monthly Cable... R.Nichols 201108: Nichols, Ruby",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308145,1,1705,1705,"CR:Resident Care -... R.Nichols 201108: Nichols, Ruby",,,,,,,,,,,,,,,

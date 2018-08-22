@@ -1,0 +1,8 @@
+BATCH,,201108,B,5241.0000,
+INVOICE,IN,,15510221,,08/01/2011,163.0000,"Invoice-Private",,08/01/2011,08/10/2011,,15514817MO,-4915.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,85.0000,85.00,"Basic Service Fee - Studio for Aug: Ballirano, Gaetano",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,78.0000,78.00,"Resident Care - Level 6 for Aug: Ballirano, Gaetano",,,,,,,,,,,,,,,
+INVOICE,CM,,15510221,,08/01/2011,5078,"Invoice-Private",,08/01/2011,08/10/2011,,15514817MO,-4915.0000,,,,,,,,,,
+TRANSACTION,3020,010310155,1,2635,2635,"CR:Basic Service F... G.Ballirano 201108: Ballirano, Gaetano",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310155,1,25,25,"CR:Monthly Cable... G.Ballirano 201108: Ballirano, Gaetano",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310155,1,2418,2418,"CR:Resident Care -... G.Ballirano 201108: Ballirano, Gaetano",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201112,B,3291.0000,
+INVOICE,IN,,05210252,,12/01/2011,288.0000,"Invoice-Private",,12/01/2011,12/01/2011,,05214663MO,-2715.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,3,79.0000,237.00,"Basic Service Fee - Studio for Dec: McMaster, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,3,17.0000,51.00,"Resident Care - Level 1 for Dec: McMaster, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,05210252,,12/01/2011,3003,"Invoice-Private",,12/01/2011,12/01/2011,,05214663MO,-2715.0000,,,,,,,,,,
+TRANSACTION,3020,010202052,1,2449,2449,"CR:Basic Service F... R.McMaster 201112: McMaster, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202052,1,27,27,"CR:Monthly Cable... R.McMaster 201112: McMaster, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202052,1,527,527,"CR:Resident Care -... R.McMaster 201112: McMaster, Robert",,,,,,,,,,,,,,,

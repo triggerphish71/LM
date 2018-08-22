@@ -1,0 +1,5 @@
+BATCH,,201304,B,2482.0000,
+INVOICE,IN,,00510184,,03/28/2013,292.0000,"MoveIn-Sexton. Blanche",,03/28/2013,03/28/2013,,00512632,2482.0000,,,,,,,,,,
+TRANSACTION,3014,010101005,4,73.0000,292,"Basic Service Fee - Studio: Sexton. Blanche",,,,,,,,,,,,,,,
+INVOICE,IN,,00510184,,04/01/2013,2190.0000,"April_Rent-Sexton. Blanche",,04/01/2013,04/10/2013,,00512632,2482.0000,,,,,,,,,,
+TRANSACTION,3010,010101005,30,73.0000,2190,"Basic Service Fee - Studio: Sexton. Blanche",,,,,,,,,,,,,,,

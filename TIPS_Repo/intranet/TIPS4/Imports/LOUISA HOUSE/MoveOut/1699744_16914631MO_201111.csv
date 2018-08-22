@@ -1,0 +1,7 @@
+BATCH,,201111,B,1999.5600,
+INVOICE,IN,,1699744,,11/04/2011,143.9600,"Invoice-Medicaid",,11/04/2011,11/04/2011,,16914631MO,-1711.6400,,,,,,,,,,
+TRANSACTION,3021,010103169,4,35.9900,143.96,"Medicaid Co-Pay for Nov: Humphrey, Catherine",,,,,,,,,,,,,,,
+INVOICE,CM,,1699744,,11/04/2011,1855.6,"Invoice-Medicaid",,11/04/2011,11/04/2011,,16914631MO,-1711.6400,,,,,,,,,,
+TRANSACTION,3021,010103169,1,1079.65,1079.65,"CR:Medicaid Co-Pay... C.Humphrey 201111: Humphrey, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25,25,"CR:Monthly Cable... C.Humphrey 201111: Humphrey, Catherine",,,,,,,,,,,,,,,
+TRANSACTION,3022,010103169,1,750.95,750.95,"CR:State Medicaid ... C.Humphrey 201111: Humphrey, Catherine",,,,,,,,,,,,,,,

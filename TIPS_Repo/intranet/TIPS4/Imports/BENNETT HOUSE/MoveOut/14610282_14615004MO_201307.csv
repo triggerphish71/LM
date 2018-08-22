@@ -1,0 +1,5 @@
+BATCH,,201307,B,60.0000,
+INVOICE,IN,,14610282,,07/01/2013,30.0000,"Invoice-Private",,07/01/2013,07/10/2013,,14615004MO,-5424.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30.0000,30.00,"Monthly Cable: Carrol, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,14610282,,07/01/2013,30,"Invoice-Private",,07/01/2013,07/10/2013,,14615004MO,-5424.0000,,,,,,,,,,
+TRANSACTION,3260,010309146,1,30,30,"Credit for Monthly Cable: Carrol, Helen",,,,,,,,,,,,,,,

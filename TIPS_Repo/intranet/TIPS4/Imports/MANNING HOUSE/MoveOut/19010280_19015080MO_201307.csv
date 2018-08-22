@@ -1,0 +1,8 @@
+BATCH,,201307,B,3751.0000,
+INVOICE,IN,,19010280,,07/05/2013,686.0000,"Invoice-Private",,07/05/2013,07/05/2013,,19015080MO,-2379.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,7,70.0000,490.00,"Basic Service Fee - Studio for Jul: Boyer, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,7,28.0000,196.00,"Resident Care - Level 2 for Jul: Boyer, George",,,,,,,,,,,,,,,
+INVOICE,CM,,19010280,,07/05/2013,3065,"Invoice-Private",,07/05/2013,07/05/2013,,19015080MO,-2379.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2170,2170,"CR:Basic Service F... G.Boyer 201307: Boyer, George",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308190,1,27,27,"CR:Monthly Cable... G.Boyer 201307: Boyer, George",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,868,868,"CR:Resident Care -... G.Boyer 201307: Boyer, George",,,,,,,,,,,,,,,

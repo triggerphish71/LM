@@ -1,0 +1,8 @@
+BATCH,,201307,B,3525.0000,
+INVOICE,IN,,04510254,,07/02/2013,212.0000,"Invoice-Private",,07/02/2013,07/02/2013,,04514622MO,-3101.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,2,77.0000,154.00,"Basic Service Fee - Studio for Jul: Contreras, Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,2,29.0000,58.00,"Resident Care - Level 2 for Jul: Contreras, Daniel",,,,,,,,,,,,,,,
+INVOICE,CM,,04510254,,07/02/2013,3313,"Invoice-Private",,07/02/2013,07/02/2013,,04514622MO,-3101.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2387,2387,"CR:Basic Service F... D.Contreras 201307: Contreras, Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202045,1,27,27,"CR:Monthly Cable... D.Contreras 201307: Contreras, Daniel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,899,899,"CR:Resident Care -... D.Contreras 201307: Contreras, Daniel",,,,,,,,,,,,,,,

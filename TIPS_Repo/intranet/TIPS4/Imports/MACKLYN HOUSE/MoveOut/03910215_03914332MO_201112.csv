@@ -1,0 +1,8 @@
+BATCH,,201112,B,4655.5000,
+INVOICE,IN,,03910215,,12/03/2011,1273.4000,"Invoice-Private",,12/03/2011,12/03/2011,,03914332MO,-2108.7000,,,,,,,,,,
+TRANSACTION,3320,010101039,1,837.0000,837.00,"CR:Limited Term Di... J.Roff 201112: Roff, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101039,4,87.0000,348.00,"Basic Service Fee - Studio for Dec: Roff, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,4,22.1000,88.40,"Resident Care - Level 13 for Dec: Roff, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,03910215,,12/03/2011,3382.1,"Invoice-Private",,12/03/2011,12/03/2011,,03914332MO,-2108.7000,,,,,,,,,,
+TRANSACTION,3020,010101039,1,2697,2697,"CR:Basic Service F... J.Roff 201112: Roff, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101039,1,685.1,685.1,"CR:Resident Care -... J.Roff 201112: Roff, Jackie",,,,,,,,,,,,,,,

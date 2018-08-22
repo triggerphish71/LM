@@ -1,0 +1,8 @@
+BATCH,,201207,B,10522.0000,
+INVOICE,IN,,13710218,,07/30/2012,5160.0000,"Invoice-Private",,07/30/2012,07/30/2012,,13714560MO,-5564.0000,,,,,,,,,,
+TRANSACTION,3027,010309137,30,57.0000,1710.00,"Resident Care - Level 4 for Jul: Thompson, Harriet Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,30,115.0000,3450.00,"Room and Board - One Bedroom for Jul: Thompson, Harriet Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,13710218,,07/30/2012,5362,"Invoice-Private",,07/30/2012,07/30/2012,,13714560MO,-5564.0000,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30,30,"CR:Monthly Cable... H.Thompson 201207: Thompson, Harriet Carol",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1767,1767,"CR:Resident Care -... H.Thompson 201207: Thompson, Harriet Carol",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,1,3565,3565,"CR:Room and Board ... H.Thompson 201207: Thompson, Harriet Carol",,,,,,,,,,,,,,,

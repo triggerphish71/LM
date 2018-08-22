@@ -1,0 +1,5 @@
+BATCH,,201203,B,1488.0000,
+INVOICE,IN,,10710331,,03/01/2012,744.0000,"Invoice-Private",,03/01/2012,03/10/2012,,10716023MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,31,24.0000,744.00,"Credit for Limited Term Discount: Murdock, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,10710331,,03/01/2012,744,"Invoice-Private",,03/01/2012,03/10/2012,,10716023MO,-2268.0000,,,,,,,,,,
+TRANSACTION,3320,010107107,31,24,744,"Limited Term Discount: Murdock, Robert",,,,,,,,,,,,,,,

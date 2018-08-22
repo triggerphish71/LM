@@ -1,0 +1,8 @@
+BATCH,,201208,B,5426.0000,
+INVOICE,IN,,19810261,,08/28/2012,2492.0000,"Invoice-Private",,08/28/2012,08/28/2012,,19817725MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,28,89.0000,2492.00,"Basic Service Fee IL - Two Bedroom for Aug: Turnmeyer, Myron",,,,,,,,,,,,,,,
+INVOICE,CM,,19810261,,08/28/2012,2934,"Invoice-Private",,08/28/2012,08/28/2012,,19817725MO,-3287.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,2759,2759,"CR:Basic Service F... M.Turnmeyer 201208: Turnmeyer, Myron",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... M.Turnmeyer 201208: Turnmeyer, Myron",,,,,,,,,,,,,,,
+TRANSACTION,3210,010112198,1,120,120,"CR:Personal Servic... M.Turnmeyer 201208: Turnmeyer, Myron",,,,,,,,,,,,,,,
+TRANSACTION,3299,010112198,1,25,25,"CR:Storage Unit... M.Turnmeyer 201208: Turnmeyer, Myron",,,,,,,,,,,,,,,

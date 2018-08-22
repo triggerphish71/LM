@@ -1,0 +1,6 @@
+BATCH,,201107,B,4211.2000,
+INVOICE,IN,,03810215,,07/15/2011,4211.2000,"MoveIn-Spaldin. Eithel",,07/15/2011,07/15/2011,,03813919,8222.8000,,,,,,,,,,
+TRANSACTION,3010,010103038,17,81.0000,1377,"Basic Service Fee - Studio         : Spaldin. Eithel",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103038,17,47.6000,809.2,"Resident Care - Level 28: Spaldin. Eithel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25.0000,25,"Monthly Cable: Spaldin. Eithel",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103038,1,2000.0000,2000,"New Resident Fee: Spaldin. Eithel",,,,,,,,,,,,,,,

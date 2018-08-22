@@ -1,0 +1,7 @@
+BATCH,,201209,B,4345.0000,
+INVOICE,IN,,11110194,,09/01/2012,60.0000,"Invoice-Private",,09/01/2012,09/10/2012,,11114922MO,-4225.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,60.0000,60.00,"CR:Limited Term Di... R.Brasher 201209: Brasher, Russell",,,,,,,,,,,,,,,
+INVOICE,CM,,11110194,,09/01/2012,4285,"Invoice-Private",,09/01/2012,09/10/2012,,11114922MO,-4225.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,3390,3390,"CR:Basic Service F... R.Brasher 201209: Brasher, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25,25,"CR:Monthly Cable... R.Brasher 201209: Brasher, Russell",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,870,870,"CR:Resident Care -... R.Brasher 201209: Brasher, Russell",,,,,,,,,,,,,,,

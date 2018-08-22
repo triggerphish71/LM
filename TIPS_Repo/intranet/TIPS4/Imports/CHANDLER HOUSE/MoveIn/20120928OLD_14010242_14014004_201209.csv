@@ -1,0 +1,6 @@
+BATCH,,201209,B,1920.0000,
+INVOICE,IN,,14010242,,09/28/2012,1920.0000,"MoveIn-Blemker. Mary",,09/28/2012,09/28/2012,,14014004,5980.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,3,88.0000,264,"M.Blemker: Basic Service Fee - Studio: Blemker. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,3,42.0000,126,"M.Blemker: Resident Care - Level 3: Blemker. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Blemker. Mary",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,1500.0000,1500,"New Resident Fee: Blemker. Mary",,,,,,,,,,,,,,,

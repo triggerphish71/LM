@@ -1,0 +1,5 @@
+BATCH,,201207,B,3038.0000,
+INVOICE,IN,,21610226,,07/01/2012,1519.0000,"Invoice-Private",,07/01/2012,07/10/2012,,21613571MO,1603.9400,,,,,,,,,,
+TRANSACTION,3320,010216216,31,49.0000,1519.00,"Credit for Limited Term Discount: Hudock, David",,,,,,,,,,,,,,,
+INVOICE,CM,,21610226,,07/01/2012,1519,"Invoice-Private",,07/01/2012,07/10/2012,,21613571MO,1603.9400,,,,,,,,,,
+TRANSACTION,3320,010216216,31,49,1519,"Limited Term Discount: Hudock, David",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201110,B,5457.0000,
+INVOICE,IN,,09210203,,10/20/2011,2140.0000,"Invoice-Private",,10/20/2011,10/20/2011,,09214623MO,-4387.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,20,75.0000,1500.00,"Basic Service Fee - Studio for Oct: French, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,20,32.0000,640.00,"Resident Care - Level 2 for Oct: French, Frances",,,,,,,,,,,,,,,
+INVOICE,CM,,09210203,,10/20/2011,3317,"Invoice-Private",,10/20/2011,10/20/2011,,09214623MO,-4387.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2325,2325,"CR:Basic Service F... F.French 201110: French, Frances",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,992,992,"CR:Resident Care -... F.French 201110: French, Frances",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201210,B,8672.5800,
+INVOICE,IN,,15310231,,10/27/2012,4023.2700,"Invoice-Private",,10/27/2012,10/27/2012,,15316284MO,-5126.3400,,,,,,,,,,
+TRANSACTION,3027,010103153,27,34.0100,918.27,"Resident Care - Level 19 for Oct: Jorgensen, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,27,115.0000,3105.00,"Room and Board - One Bedroom for Oct: Jorgensen, Jerome",,,,,,,,,,,,,,,
+INVOICE,CM,,15310231,,10/27/2012,4649.31,"Invoice-Private",,10/27/2012,10/27/2012,,15316284MO,-5126.3400,,,,,,,,,,
+TRANSACTION,3130,010103153,1,30,30,"CR:Pendant Fee... J.Jorgensen 201210: Jorgensen, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1054.31,1054.31,"CR:Resident Care -... J.Jorgensen 201210: Jorgensen, Jerome",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3565,3565,"CR:Room and Board ... J.Jorgensen 201210: Jorgensen, Jerome",,,,,,,,,,,,,,,

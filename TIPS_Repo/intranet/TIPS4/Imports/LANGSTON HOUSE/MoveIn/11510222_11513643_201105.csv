@@ -1,0 +1,5 @@
+BATCH,,201105,B,2436.0000,
+INVOICE,IN,,11510222,,05/10/2011,2436.0000,"MoveIn-Godfrey. Clara",,05/10/2011,05/10/2011,,11513643,2436.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,22,64.0000,1408,"Basic Service Fee - Studio         : Godfrey. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Godfrey. Clara",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Godfrey. Clara",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201212,B,3574.0000,
+INVOICE,IN,,53010015,,12/01/2012,62.0000,"Invoice-Private",,12/01/2012,12/10/2012,,53016557MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3320,010319530,1,62.0000,62.00,"CR:Limited Term Di... A.Zobel 201212: Zobel, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,53010015,,12/01/2012,3512,"Invoice-Private",,12/01/2012,12/10/2012,,53016557MO,-3450.0000,,,,,,,,,,
+TRANSACTION,3020,010319530,1,2542,2542,"CR:Basic Service F... A.Zobel 201212: Zobel, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319530,1,40,40,"CR:Monthly Cable... A.Zobel 201212: Zobel, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319530,1,930,930,"CR:Resident Care -... A.Zobel 201212: Zobel, Alice",,,,,,,,,,,,,,,

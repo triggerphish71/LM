@@ -1,0 +1,6 @@
+BATCH,,201211,B,3390.0000,
+INVOICE,IN,,05810184,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,05814082MO,-4318.0000,,,,,,,,,,
+TRANSACTION,3320,010202058,1,60.0000,60.00,"CR:Limited Term Di... J.Bullard 201211: Bullard, John",,,,,,,,,,,,,,,
+INVOICE,CM,,05810184,,11/01/2012,3330,"Invoice-Private",,11/01/2012,11/10/2012,,05814082MO,-4318.0000,,,,,,,,,,
+TRANSACTION,3027,010202058,1,870,870,"CR:Resident Care -... J.Bullard 201211: Bullard, John",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202058,1,2460,2460,"CR:Room and Board ... J.Bullard 201211: Bullard, John",,,,,,,,,,,,,,,

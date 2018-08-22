@@ -1,0 +1,5 @@
+BATCH,,201305,B,3962.0000,
+INVOICE,IN,,52610347,,05/15/2013,3962.0000,"MoveIn-DeRusha. Alice",,05/15/2013,05/15/2013,,52617877,6542.0000,,,,,,,,,,
+TRANSACTION,3010,010319526,17,86.0000,1462,"Basic Service Fee - One Bedroom: DeRusha. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010319526,1,2000.0000,2000,"New Resident Fee: DeRusha. Alice",,,,,,,,,,,,,,,
+TRANSACTION,3299,010319526,1,500.0000,500,"Pet Fee - Non Refundable: DeRusha. Alice",,,,,,,,,,,,,,,

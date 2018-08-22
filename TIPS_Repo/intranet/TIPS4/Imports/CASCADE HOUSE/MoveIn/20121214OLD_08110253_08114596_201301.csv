@@ -1,0 +1,5 @@
+BATCH,,201301,B,4363.4500,
+INVOICE,IN,,08110253,,01/01/2013,4363.4500,"January_Rent-Weller. Doris",,01/01/2013,01/10/2013,,08114596,7907.5500,,,,,,,,,,
+TRANSACTION,3010,010103081,31,90.0000,2790,"Basic Service Fee - Studio: Weller. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103081,31,49.9500,1548.45,"Resident Care - Level 27: Weller. Doris",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103081,1,25.0000,25,"Monthly Cable: Weller. Doris",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201308,B,3008.7500,
+INVOICE,IN,,04910227,,08/01/2013,3008.7500,"August_Rent-Barrows. Larry",,08/01/2013,08/10/2013,,04913671,6285.0000,,,,,,,,,,
+TRANSACTION,3010,010101049,31,87.0000,2697,"Basic Service Fee - Studio: Barrows. Larry",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101049,31,9.2500,286.75,"Resident Care - Level 5: Barrows. Larry",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101049,1,25.0000,25,"Monthly Cable: Barrows. Larry",,,,,,,,,,,,,,,

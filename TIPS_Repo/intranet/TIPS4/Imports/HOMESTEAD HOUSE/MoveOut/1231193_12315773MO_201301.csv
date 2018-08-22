@@ -1,0 +1,8 @@
+BATCH,,201301,B,7277.0000,
+INVOICE,IN,,1231193,,01/08/2013,1542.0000,"Invoice-Private",,01/08/2013,01/08/2013,,12315773MO,-4193.0000,,,,,,,,,,
+TRANSACTION,3320,010211123,1,62.0000,62.00,"CR:Limited Term Di... V.Wiebe 201301: Wiebe, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211123,8,103.0000,824.00,"Basic Service Fee - Studio for Jan: Wiebe, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,8,82.0000,656.00,"Resident Care - Level 5 for Jan: Wiebe, Vera",,,,,,,,,,,,,,,
+INVOICE,CM,,1231193,,01/08/2013,5735,"Invoice-Private",,01/08/2013,01/08/2013,,12315773MO,-4193.0000,,,,,,,,,,
+TRANSACTION,3020,010211123,1,3193,3193,"CR:Basic Service F... V.Wiebe 201301: Wiebe, Vera",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211123,1,2542,2542,"CR:Resident Care -... V.Wiebe 201301: Wiebe, Vera",,,,,,,,,,,,,,,

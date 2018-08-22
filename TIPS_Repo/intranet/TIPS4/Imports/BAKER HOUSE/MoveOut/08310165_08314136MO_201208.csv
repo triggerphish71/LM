@@ -1,0 +1,5 @@
+BATCH,,201208,B,3472.0000,
+INVOICE,IN,,08310165,,08/01/2012,1736.0000,"Invoice-Private",,08/01/2012,08/10/2012,,08314136MO,-3052.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,56.0000,1736.00,"Credit for Limited Term Discount: Tamburro, Annetta",,,,,,,,,,,,,,,
+INVOICE,CM,,08310165,,08/01/2012,1736,"Invoice-Private",,08/01/2012,08/10/2012,,08314136MO,-3052.0000,,,,,,,,,,
+TRANSACTION,3320,010306083,31,56,1736,"Limited Term Discount: Tamburro, Annetta",,,,,,,,,,,,,,,

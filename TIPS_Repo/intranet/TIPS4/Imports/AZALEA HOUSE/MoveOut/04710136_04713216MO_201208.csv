@@ -1,0 +1,5 @@
+BATCH,,201208,B,2852.0000,
+INVOICE,IN,,04710136,,08/01/2012,1426.0000,"Invoice-Private",,08/01/2012,08/10/2012,,04713216MO,-2707.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,31,46.0000,1426.00,"Credit for Limited Term Discount: Ballow, Adelle",,,,,,,,,,,,,,,
+INVOICE,CM,,04710136,,08/01/2012,1426,"Invoice-Private",,08/01/2012,08/10/2012,,04713216MO,-2707.0000,,,,,,,,,,
+TRANSACTION,3320,010202047,31,46,1426,"Limited Term Discount: Ballow, Adelle",,,,,,,,,,,,,,,

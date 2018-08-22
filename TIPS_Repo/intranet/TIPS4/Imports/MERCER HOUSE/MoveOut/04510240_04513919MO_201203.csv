@@ -1,0 +1,7 @@
+BATCH,,201203,B,3840.0000,
+INVOICE,IN,,04510240,,03/01/2012,120.0000,"Invoice-Private",,03/01/2012,03/01/2012,,04513919MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,76.0000,76.00,"Basic Service Fee - Studio for Mar: Hudson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,44.0000,44.00,"Resident Care - Level 3 for Mar: Hudson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,04510240,,03/01/2012,3720,"Invoice-Private",,03/01/2012,03/01/2012,,04513919MO,-3600.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2356,2356,"CR:Basic Service F... C.Hudson 201203: Hudson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202045,1,1364,1364,"CR:Resident Care -... C.Hudson 201203: Hudson, Charles",,,,,,,,,,,,,,,

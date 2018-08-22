@@ -1,0 +1,6 @@
+BATCH,,201204,B,2001.0000,
+INVOICE,IN,,53610179,,04/01/2012,836.0000,"Invoice-Private",,04/01/2012,04/10/2012,,53613547MO,-329.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,22,38.0000,836.00,"Basic Service Fee - Second Resident for Apr: Kins, Ada",,,,,,,,,,,,,,,
+INVOICE,CM,,53610179,,04/01/2012,1165,"Invoice-Private",,04/01/2012,04/10/2012,,53613547MO,-329.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,1140,1140,"CR:Basic Service F... A.Kins 201204: Kins, Ada",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319536,1,25,25,"CR:Pendant Fee... A.Kins 201204: Kins, Ada",,,,,,,,,,,,,,,

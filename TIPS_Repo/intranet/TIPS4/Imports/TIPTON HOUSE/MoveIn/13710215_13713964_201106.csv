@@ -1,0 +1,6 @@
+BATCH,,201106,B,3298.0000,
+INVOICE,IN,,13710215,,06/14/2011,3298.0000,"MoveIn-Streit. Walter",,06/14/2011,06/14/2011,,13713964,6552.0000,,,,,,,,,,
+TRANSACTION,3010,010309137,17,86.0000,1462,"Basic Service Fee - Studio         : Streit. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309137,17,18.0000,306,"Resident Care - Level 1: Streit. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309137,1,30.0000,30,"Monthly Cable: Streit. Walter",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309137,1,1500.0000,1500,"New Resident Fee: Streit. Walter",,,,,,,,,,,,,,,

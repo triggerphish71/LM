@@ -1,0 +1,7 @@
+BATCH,,201104,B,7722.0000,
+INVOICE,IN,,50510089,,04/24/2011,3600.0000,"Invoice-Private",,04/24/2011,04/24/2011,,50511416MO,-3219.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,840.0000,840.00,"CR:Decrease Room a... C.Mauger 201104: Mauger, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,24,115.0000,2760.00,"Basic Service Fee - One Bedroom for Apr: Mauger, Clarence",,,,,,,,,,,,,,,
+INVOICE,CM,,50510089,,04/24/2011,4122,"Invoice-Private",,04/24/2011,04/24/2011,,50511416MO,-3219.0000,,,,,,,,,,
+TRANSACTION,3020,010305505,1,3450,3450,"CR:Basic Service F... C.Mauger 201104: Mauger, Clarence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305505,24,28,672,"Decrease Room and Board for Apr: Mauger, Clarence",,,,,,,,,,,,,,,

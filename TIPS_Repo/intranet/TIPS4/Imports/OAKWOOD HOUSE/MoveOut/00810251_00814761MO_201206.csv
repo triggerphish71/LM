@@ -1,0 +1,8 @@
+BATCH,,201206,B,4243.0000,
+INVOICE,IN,,00810251,,06/29/2012,2040.0000,"Invoice-Private",,06/29/2012,06/29/2012,,00814761MO,-4379.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,15,83.0000,1245.00,"L.Desmond: Basic Service Fee - Studio for Jun: Desmond, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,15,53.0000,795.00,"L.Desmond: Resident Care - Level 4 for Jun: Desmond, Louise",,,,,,,,,,,,,,,
+INVOICE,CM,,00810251,,06/29/2012,2203,"Invoice-Private",,06/29/2012,06/29/2012,,00814761MO,-4379.0000,,,,,,,,,,
+TRANSACTION,3020,010202008,1,1328,1328,"CR:L.Desmond: Basi... L.Desmond 201206: Desmond, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202008,1,848,848,"CR:L.Desmond: Resi... L.Desmond 201206: Desmond, Louise",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202008,1,27,27,"CR:Monthly Cable... L.Desmond 201206: Desmond, Louise",,,,,,,,,,,,,,,

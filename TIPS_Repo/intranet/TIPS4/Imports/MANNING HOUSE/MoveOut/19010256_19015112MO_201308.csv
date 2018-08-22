@@ -1,0 +1,7 @@
+BATCH,,201308,B,4000.0000,
+INVOICE,IN,,19010256,,08/01/2013,125.0000,"Invoice-Private",,08/01/2013,08/01/2013,,19015112MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,72.0000,72.00,"Basic Service Fee - Studio for Aug: Shockley, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,53.0000,53.00,"Resident Care - Level 4 for Aug: Shockley, Lucy",,,,,,,,,,,,,,,
+INVOICE,CM,,19010256,,08/01/2013,3875,"Invoice-Private",,08/01/2013,08/01/2013,,19015112MO,-3750.0000,,,,,,,,,,
+TRANSACTION,3020,010308190,1,2232,2232,"CR:Basic Service F... L.Shockley 201308: Shockley, Lucy",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308190,1,1643,1643,"CR:Resident Care -... L.Shockley 201308: Shockley, Lucy",,,,,,,,,,,,,,,

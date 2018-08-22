@@ -1,0 +1,5 @@
+BATCH,,201307,B,4608.0000,
+INVOICE,IN,,13810258,,07/01/2013,1632.0000,"Invoice-Private",,07/01/2013,07/10/2013,,13815706MO,-1344.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,17,96.0000,1632.00,"Basic Service Fee - Studio for Jul: Fiedler, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,13810258,,07/01/2013,2976,"Invoice-Private",,07/01/2013,07/10/2013,,13815706MO,-1344.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2976,2976,"CR:Basic Service F... M.Fiedler 201307: Fiedler, Margaret",,,,,,,,,,,,,,,

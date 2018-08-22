@@ -1,0 +1,5 @@
+BATCH,,201204,B,2400.0000,
+INVOICE,IN,,15610290,,04/01/2012,1200.0000,"Invoice-Private",,04/01/2012,04/10/2012,,15615144MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3320,010211156,30,40.0000,1200.00,"Credit for Limited Term Discount: Voboril, Pauline",,,,,,,,,,,,,,,
+INVOICE,CM,,15610290,,04/01/2012,1200,"Invoice-Private",,04/01/2012,04/10/2012,,15615144MO,-4060.0000,,,,,,,,,,
+TRANSACTION,3320,010211156,30,40,1200,"Limited Term Discount: Voboril, Pauline",,,,,,,,,,,,,,,

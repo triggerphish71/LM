@@ -1,0 +1,7 @@
+BATCH,,201201,B,9480.0000,
+INVOICE,IN,,04610196,,01/12/2012,4582.0000,"Invoice-Private",,01/12/2012,01/12/2012,,04613524MO,-316.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,29,116.0000,3364.00,"Basic Service Fee - One Bedroom for Jan: McKnight, Patricia (Pat)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,29,42.0000,1218.00,"Resident Care - Level 3 for Jan: McKnight, Patricia (Pat)",,,,,,,,,,,,,,,
+INVOICE,CM,,04610196,,01/12/2012,4898,"Invoice-Private",,01/12/2012,01/12/2012,,04613524MO,-316.0000,,,,,,,,,,
+TRANSACTION,3020,010202046,1,3596,3596,"CR:Basic Service F... P.McKnight 201201: McKnight, Patricia (Pat)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202046,1,1302,1302,"CR:Resident Care -... P.McKnight 201201: McKnight, Patricia (Pat)",,,,,,,,,,,,,,,

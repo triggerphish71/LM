@@ -1,0 +1,8 @@
+BATCH,,201201,B,4829.0000,
+INVOICE,IN,,13110261,,01/03/2012,423.0000,"Invoice-Private",,01/03/2012,01/03/2012,,13114166MO,-3983.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,3,100.0000,300.00,"Basic Service Fee - Studio for Jan: Hartzog, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,3,41.0000,123.00,"Resident Care - Level 3 for Jan: Hartzog, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,13110261,,01/03/2012,4406,"Invoice-Private",,01/03/2012,01/03/2012,,13114166MO,-3983.0000,,,,,,,,,,
+TRANSACTION,3020,010308131,1,3100,3100,"CR:Basic Service F... C.Hartzog 201201: Hartzog, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3130,010308131,1,35,35,"CR:Pendant Fee... C.Hartzog 201201: Hartzog, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308131,1,1271,1271,"CR:Resident Care -... C.Hartzog 201201: Hartzog, Charles",,,,,,,,,,,,,,,

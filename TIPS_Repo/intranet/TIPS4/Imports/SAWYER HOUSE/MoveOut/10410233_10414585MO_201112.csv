@@ -1,0 +1,7 @@
+BATCH,,201112,B,5400.0000,
+INVOICE,IN,,10410233,,12/09/2011,1215.0000,"Invoice-Private",,12/09/2011,12/09/2011,,10414585MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3027,010101104,9,51.0000,459.00,"Resident Care - Level 30 for Dec: Sevich, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101104,9,84.0000,756.00,"Room and Board - Studio for Dec: Sevich, Anthony",,,,,,,,,,,,,,,
+INVOICE,CM,,10410233,,12/09/2011,4185,"Invoice-Private",,12/09/2011,12/09/2011,,10414585MO,-2970.0000,,,,,,,,,,
+TRANSACTION,3027,010101104,1,1581,1581,"CR:Resident Care -... A.Sevich 201112: Sevich, Anthony",,,,,,,,,,,,,,,
+TRANSACTION,3020,010101104,1,2604,2604,"CR:Room and Board ... A.Sevich 201112: Sevich, Anthony",,,,,,,,,,,,,,,

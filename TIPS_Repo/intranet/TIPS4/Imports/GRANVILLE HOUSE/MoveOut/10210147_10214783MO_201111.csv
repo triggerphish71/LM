@@ -1,0 +1,5 @@
+BATCH,,201111,B,26.0000,
+INVOICE,IN,,10210147,,11/01/2011,13.0000,"Invoice-Private",,11/01/2011,11/10/2011,,10214783MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3130,010306102,1,13.0000,13.00,"Pendant Fee: Staniszewski, Stanley",,,,,,,,,,,,,,,
+INVOICE,CM,,10210147,,11/01/2011,13,"Invoice-Private",,11/01/2011,11/10/2011,,10214783MO,-2573.0000,,,,,,,,,,
+TRANSACTION,3130,010306102,1,13,13,"Credit for Pendant Fee: Staniszewski, Stanley",,,,,,,,,,,,,,,

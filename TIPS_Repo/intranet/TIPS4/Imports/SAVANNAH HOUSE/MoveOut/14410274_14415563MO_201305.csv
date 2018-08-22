@@ -1,0 +1,8 @@
+BATCH,,201305,B,5152.0000,
+INVOICE,IN,,14410274,,05/11/2013,1342.0000,"Invoice-Private",,05/11/2013,05/11/2013,,14415563MO,-2468.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,11,106.0000,1166.00,"Basic Service Fee - Studio for May: Tepper, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,11,16.0000,176.00,"Resident Care - Level 1 for May: Tepper, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,14410274,,05/11/2013,3810,"Invoice-Private",,05/11/2013,05/11/2013,,14415563MO,-2468.0000,,,,,,,,,,
+TRANSACTION,3020,010308144,1,3286,3286,"CR:Basic Service F... B.Tepper 201305: Tepper, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308144,1,28,28,"CR:Monthly Cable... B.Tepper 201305: Tepper, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308144,1,496,496,"CR:Resident Care -... B.Tepper 201305: Tepper, Barbara",,,,,,,,,,,,,,,

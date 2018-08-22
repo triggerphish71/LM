@@ -1,0 +1,7 @@
+BATCH,,201210,B,572.0000,
+INVOICE,IN,,01710157,,10/30/2012,260.0000,"Invoice-Private",,10/30/2012,10/30/2012,,01713799MO,-1612.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,5,36.0000,180.00,"Basic Service Fee - Second Resident for Oct: Bush, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,5,16.0000,80.00,"Resident Care - Level 1 for Oct: Bush, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,01710157,,10/30/2012,312,"Invoice-Private",,10/30/2012,10/30/2012,,01713799MO,-1612.0000,,,,,,,,,,
+TRANSACTION,3020,010202017,1,216,216,"CR:Basic Service F... M.Bush 201210: Bush, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202017,1,96,96,"CR:Resident Care -... M.Bush 201210: Bush, Mary",,,,,,,,,,,,,,,

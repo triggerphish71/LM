@@ -1,0 +1,8 @@
+BATCH,,201301,B,5118.0000,
+INVOICE,IN,,17810134,,01/01/2013,220.0000,"Invoice-Private",,01/01/2013,01/10/2013,,17816356MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,62.0000,62.00,"CR:Limited Term Di... R.Vergamini 201301: Vergamini, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,1,87.0000,87.00,"Room and Board - Studio for Jan: Vergamini, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,71.0000,71.00,"Swan Personal Care - L5 for Jan: Vergamini, Rose",,,,,,,,,,,,,,,
+INVOICE,CM,,17810134,,01/01/2013,4898,"Invoice-Private",,01/01/2013,01/10/2013,,17816356MO,-4678.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2697,2697,"CR:Room and Board ... R.Vergamini 201301: Vergamini, Rose",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,2201,2201,"CR:Swan Personal C... R.Vergamini 201301: Vergamini, Rose",,,,,,,,,,,,,,,

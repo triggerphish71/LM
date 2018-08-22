@@ -1,0 +1,5 @@
+BATCH,,201204,B,3830.0000,
+INVOICE,IN,,15910222,,04/06/2012,3830.0000,"MoveIn-Stevenson. Leonard",,04/06/2012,04/06/2012,,15914731,3830.0000,,,,,,,,,,
+TRANSACTION,3010,010212159,25,92.0000,2300,"Basic Service Fee - Studio: Stevenson. Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212159,1,30.0000,30,"Monthly Cable: Stevenson. Leonard",,,,,,,,,,,,,,,
+TRANSACTION,3216,010212159,1,1500.0000,1500,"New Resident Fee: Stevenson. Leonard",,,,,,,,,,,,,,,

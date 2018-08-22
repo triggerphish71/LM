@@ -1,0 +1,7 @@
+BATCH,,201106,B,4452.0000,
+INVOICE,IN,,18410068,,06/12/2011,1272.0000,"Invoice-Private",,06/12/2011,06/12/2011,,18414995MO,-1908.0000,,,,,,,,,,
+TRANSACTION,3027,010313184,12,13.0000,156.00,"Resident Care - Level 1 for Jun: Snyder, Robert   ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313184,12,93.0000,1116.00,"Room and Board - Studio for Jun: Snyder, Robert   ",,,,,,,,,,,,,,,
+INVOICE,CM,,18410068,,06/12/2011,3180,"Invoice-Private",,06/12/2011,06/12/2011,,18414995MO,-1908.0000,,,,,,,,,,
+TRANSACTION,3027,010313184,1,390,390,"CR:Resident Care -... R.Snyder 201106: Snyder, Robert   ",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313184,1,2790,2790,"CR:Room and Board ... R.Snyder 201106: Snyder, Robert   ",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,7644.9000,
+INVOICE,IN,,01110317,,06/21/2013,3147.9000,"Invoice-Private",,06/21/2013,06/21/2013,,01114186MO,-5996.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,21,50.0000,1050.00,"Basic Service Fee - Studio for Jun: Stafford, Isobel (Diana)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,21,99.9000,2097.90,"Resident Care - Level 54 for Jun: Stafford, Isobel (Diana)",,,,,,,,,,,,,,,
+INVOICE,CM,,01110317,,06/21/2013,4497,"Invoice-Private",,06/21/2013,06/21/2013,,01114186MO,-5996.0000,,,,,,,,,,
+TRANSACTION,3020,010101011,1,1500,1500,"CR:Basic Service F... I.Stafford 201306: Stafford, Isobel (Diana)",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101011,1,2997,2997,"CR:Resident Care -... I.Stafford 201306: Stafford, Isobel (Diana)",,,,,,,,,,,,,,,

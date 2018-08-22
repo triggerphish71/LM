@@ -1,0 +1,6 @@
+BATCH,,201203,B,3183.0000,
+INVOICE,IN,,17610302,,03/15/2012,3183.0000,"MoveIn-Rowley. Thomas",,03/15/2012,03/15/2012,,17614353,3183.0000,,,,,,,,,,
+TRANSACTION,3010,010315176,17,73.0000,1241,"Basic Service Fee - Studio: Rowley. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3017,010315176,17,16.0000,272,"Resident Care - Level 1: Rowley. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3216,010315176,1,1500.0000,1500,"New Tenant Fee: Rowley. Thomas",,,,,,,,,,,,,,,
+TRANSACTION,2094,010315176,17,10.0000,170,"CC Meals: Rowley. Thomas",,,,,,,,,,,,,,,

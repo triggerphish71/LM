@@ -1,0 +1,7 @@
+BATCH,,201107,B,3392.0000,
+INVOICE,IN,,03410192,,07/01/2011,106.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03415083MO,-3180.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,93.0000,93.00,"Basic Service Fee - Studio for Jul: Mack, Oliver",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,13.0000,13.00,"Resident Care - Level 1 for Jul: Mack, Oliver",,,,,,,,,,,,,,,
+INVOICE,CM,,03410192,,07/01/2011,3286,"Invoice-Private",,07/01/2011,07/10/2011,,03415083MO,-3180.0000,,,,,,,,,,
+TRANSACTION,3020,010202034,1,2883,2883,"CR:Basic Service F... O.Mack 201107: Mack, Oliver",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202034,1,403,403,"CR:Resident Care -... O.Mack 201107: Mack, Oliver",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201306,B,5586.0000,
+INVOICE,IN,,52910204,,06/12/2013,1596.0000,"Invoice-Private",,06/12/2013,06/12/2013,,52913651MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,12,70.0000,840.00,"Basic Service Fee - Studio for Jun: Blakeslee, Judith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,12,63.0000,756.00,"Resident Care - Level 5 for Jun: Blakeslee, Judith",,,,,,,,,,,,,,,
+INVOICE,CM,,52910204,,06/12/2013,3990,"Invoice-Private",,06/12/2013,06/12/2013,,52913651MO,-2394.0000,,,,,,,,,,
+TRANSACTION,3020,010319529,1,2100,2100,"CR:Basic Service F... J.Blakeslee 201306: Blakeslee, Judith",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319529,1,1890,1890,"CR:Resident Care -... J.Blakeslee 201306: Blakeslee, Judith",,,,,,,,,,,,,,,

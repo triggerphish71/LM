@@ -1,0 +1,6 @@
+BATCH,,201109,B,1645.0000,
+INVOICE,IN,,06310233,,09/30/2011,1645.0000,"MoveIn-Cabanne. Betty",,09/30/2011,09/30/2011,,06314706,5390.0000,,,,,,,,,,
+TRANSACTION,3010,010104063,1,105.0000,105,"Basic Service Fee - One Bedroom    : Cabanne. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104063,1,15.0000,15,"Resident Care - Level 1: Cabanne. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25,"Monthly Cable: Cabanne. Betty",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104063,1,1500.0000,1500,"New Resident Fee: Cabanne. Betty",,,,,,,,,,,,,,,

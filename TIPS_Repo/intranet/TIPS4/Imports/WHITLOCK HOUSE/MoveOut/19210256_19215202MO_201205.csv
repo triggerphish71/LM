@@ -1,0 +1,8 @@
+BATCH,,201205,B,6039.0000,
+INVOICE,IN,,19210256,,05/07/2012,1106.0000,"Invoice-Private",,05/07/2012,05/07/2012,,19215202MO,-3827.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,7,114.0000,798.00,"Basic Service Fee - Studio for May: Goldsby, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,7,44.0000,308.00,"Resident Care - Level 3 for May: Goldsby, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,19210256,,05/07/2012,4933,"Invoice-Private",,05/07/2012,05/07/2012,,19215202MO,-3827.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... M.Goldsby 201205: Goldsby, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3130,010309192,1,35,35,"CR:Pendant Fee... M.Goldsby 201205: Goldsby, Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1364,1364,"CR:Resident Care -... M.Goldsby 201205: Goldsby, Margaret",,,,,,,,,,,,,,,

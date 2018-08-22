@@ -1,0 +1,6 @@
+BATCH,,201206,B,5589.9600,
+INVOICE,IN,,05310257,,06/03/2012,5589.9600,"MoveIn-winkle. nova",,06/03/2012,06/03/2012,,05314598,5589.9600,,,,,,,,,,
+TRANSACTION,3010,010101053,28,113.0000,3164,"Basic Service Fee - One Bedroom: winkle. nova",,,,,,,,,,,,,,,
+TRANSACTION,3017,010101053,28,14.3200,400.96,"Resident Care - Level 8: winkle. nova",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101053,1,25.0000,25,"Monthly Cable: winkle. nova",,,,,,,,,,,,,,,
+TRANSACTION,3216,010101053,1,2000.0000,2000,"New Resident Fee: winkle. nova",,,,,,,,,,,,,,,

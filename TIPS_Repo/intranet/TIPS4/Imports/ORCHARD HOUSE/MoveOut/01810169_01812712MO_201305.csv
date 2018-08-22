@@ -1,0 +1,7 @@
+BATCH,,201305,B,3036.0000,
+INVOICE,IN,,01810169,,05/09/2013,683.1000,"Invoice-Private",,05/09/2013,05/09/2013,,01812712MO,-1669.8000,,,,,,,,,,
+TRANSACTION,3020,010103018,9,50.0000,450.00,"Basic Service Fee - Studio for May: Howard, Rose Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,9,25.9000,233.10,"Resident Care - Level 14 for May: Howard, Rose Marie",,,,,,,,,,,,,,,
+INVOICE,CM,,01810169,,05/09/2013,2352.9,"Invoice-Private",,05/09/2013,05/09/2013,,01812712MO,-1669.8000,,,,,,,,,,
+TRANSACTION,3020,010103018,1,1550,1550,"CR:Basic Service F... R.Howard 201305: Howard, Rose Marie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103018,1,802.9,802.9,"CR:Resident Care -... R.Howard 201305: Howard, Rose Marie",,,,,,,,,,,,,,,

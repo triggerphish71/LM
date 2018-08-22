@@ -1,0 +1,7 @@
+BATCH,,201107,B,2168.0000,
+INVOICE,IN,,50110234,,07/01/2011,1084.0000,"Invoice-Private",,07/01/2011,07/10/2011,,50113510MO,-688.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30.00,"Monthly Cable: Russell, David",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,34.0000,1054.00,"Credit for Limited Term Discount: Russell, David",,,,,,,,,,,,,,,
+INVOICE,CM,,50110234,,07/01/2011,1084,"Invoice-Private",,07/01/2011,07/10/2011,,50113510MO,-688.0000,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"Credit for Monthly Cable: Russell, David",,,,,,,,,,,,,,,
+TRANSACTION,3320,010209501,31,34,1054,"Limited Term Discount: Russell, David",,,,,,,,,,,,,,,

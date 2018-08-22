@@ -1,0 +1,5 @@
+BATCH,,201206,B,992.0000,
+INVOICE,IN,,16810408,,06/01/2012,62.0000,"Invoice-Private",,06/01/2012,06/10/2012,,16816640MO,-868.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,2,31.0000,62.00,"Basic Service Fee - Second Resident for Jun: Crump, Julius",,,,,,,,,,,,,,,
+INVOICE,CM,,16810408,,06/01/2012,930,"Invoice-Private",,06/01/2012,06/10/2012,,16816640MO,-868.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,930,930,"CR:Basic Service F... J.Crump 201206: Crump, Julius",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201106,B,2083.0000,
+INVOICE,IN,,02610257,,06/23/2011,2083.0000,"MoveIn-Berry. Ruth",,06/23/2011,06/23/2011,,02614415,5427.0000,,,,,,,,,,
+TRANSACTION,3010,010202026,8,94.0000,752,"Basic Service Fee - Studio         : Berry. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202026,8,13.0000,104,"Resident Care - Level 1: Berry. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202026,1,27.0000,27,"Monthly Cable: Berry. Ruth",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202026,1,1200.0000,1200,"New Resident Fee: Berry. Ruth",,,,,,,,,,,,,,,

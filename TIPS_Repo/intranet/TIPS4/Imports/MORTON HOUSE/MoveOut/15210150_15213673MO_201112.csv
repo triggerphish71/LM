@@ -1,0 +1,7 @@
+BATCH,,201112,B,5100.0000,
+INVOICE,IN,,15210150,,12/08/2011,2465.0000,"Invoice-Private",,12/08/2011,12/08/2011,,15213673MO,-2929.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,29,68.0000,1972.00,"Basic Service Fee - Studio for Dec: Schomerus, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,29,17.0000,493.00,"Resident Care - Level 1 for Dec: Schomerus, Naomi",,,,,,,,,,,,,,,
+INVOICE,CM,,15210150,,12/08/2011,2635,"Invoice-Private",,12/08/2011,12/08/2011,,15213673MO,-2929.0000,,,,,,,,,,
+TRANSACTION,3020,010211152,1,2108,2108,"CR:Basic Service F... N.Schomerus 201112: Schomerus, Naomi",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211152,1,527,527,"CR:Resident Care -... N.Schomerus 201112: Schomerus, Naomi",,,,,,,,,,,,,,,

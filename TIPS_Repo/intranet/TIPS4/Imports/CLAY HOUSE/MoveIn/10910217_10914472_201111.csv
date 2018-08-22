@@ -1,0 +1,6 @@
+BATCH,,201111,B,3145.0000,
+INVOICE,IN,,10910217,,11/21/2011,3145.0000,"MoveIn-Tatten. John",,11/21/2011,11/21/2011,,10914472,6642.0000,,,,,,,,,,
+TRANSACTION,3010,010305109,10,96.0000,960,"Basic Service Fee - One Bedroom    : Tatten. John",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305109,10,16.0000,160,"Resident Care - Level 1: Tatten. John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305109,1,25.0000,25,"Monthly Cable: Tatten. John",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305109,1,2000.0000,2000,"New Resident Fee: Tatten. John",,,,,,,,,,,,,,,

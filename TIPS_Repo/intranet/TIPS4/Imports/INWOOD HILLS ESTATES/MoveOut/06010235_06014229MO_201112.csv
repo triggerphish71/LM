@@ -1,0 +1,8 @@
+BATCH,,201112,B,6453.0000,
+INVOICE,IN,,06010235,,12/01/2011,2662.0000,"Invoice-Private",,12/01/2011,12/10/2011,,06014229MO,-5004.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,22,106.0000,2332.00,"Basic Service Fee - One Bedroom for Dec: Kohler, Elsa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,22,15.0000,330.00,"Resident Care - Level 1 for Dec: Kohler, Elsa",,,,,,,,,,,,,,,
+INVOICE,CM,,06010235,,12/01/2011,3791,"Invoice-Private",,12/01/2011,12/10/2011,,06014229MO,-5004.0000,,,,,,,,,,
+TRANSACTION,3020,010206060,1,3286,3286,"CR:Basic Service F... E.Kohler 201112: Kohler, Elsa",,,,,,,,,,,,,,,
+TRANSACTION,3260,010206060,1,40,40,"CR:Monthly Cable... E.Kohler 201112: Kohler, Elsa",,,,,,,,,,,,,,,
+TRANSACTION,3027,010206060,1,465,465,"CR:Resident Care -... E.Kohler 201112: Kohler, Elsa",,,,,,,,,,,,,,,

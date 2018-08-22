@@ -1,0 +1,8 @@
+BATCH,,201305,B,8613.5700,
+INVOICE,IN,,12410233,,05/16/2013,2916.9600,"Invoice-Private",,05/16/2013,05/16/2013,,12415365MO,-8293.9500,,,,,,,,,,
+TRANSACTION,3020,010211124,16,79.2000,1267.20,"Basic Service Fee - Studio for May: Pflanz, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,16,103.1100,1649.76,"Resident Care - Level 6+9 pts for May: Pflanz, Rosemary",,,,,,,,,,,,,,,
+INVOICE,CM,,12410233,,05/16/2013,5696.61,"Invoice-Private",,05/16/2013,05/16/2013,,12415365MO,-8293.9500,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2455.2,2455.2,"CR:Basic Service F... R.Pflanz 201305: Pflanz, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010211124,1,45,45,"CR:Pendant Fee... R.Pflanz 201305: Pflanz, Rosemary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,3196.41,3196.41,"CR:Resident Care -... R.Pflanz 201305: Pflanz, Rosemary",,,,,,,,,,,,,,,

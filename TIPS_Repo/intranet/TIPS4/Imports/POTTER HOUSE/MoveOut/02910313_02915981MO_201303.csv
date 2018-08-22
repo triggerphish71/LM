@@ -1,0 +1,5 @@
+BATCH,,201303,B,3100.0000,
+INVOICE,IN,,02910313,,03/01/2013,1550.0000,"Invoice-Private",,03/01/2013,03/10/2013,,02915981MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,50.0000,1550.00,"Credit for Limited Term Discount: Tyson, Linda",,,,,,,,,,,,,,,
+INVOICE,CM,,02910313,,03/01/2013,1550,"Invoice-Private",,03/01/2013,03/10/2013,,02915981MO,-1730.0000,,,,,,,,,,
+TRANSACTION,3320,010202029,31,50,1550,"Limited Term Discount: Tyson, Linda",,,,,,,,,,,,,,,

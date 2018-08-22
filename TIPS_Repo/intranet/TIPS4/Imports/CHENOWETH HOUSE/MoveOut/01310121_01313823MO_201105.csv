@@ -1,0 +1,7 @@
+BATCH,,201105,B,4541.6000,
+INVOICE,IN,,01310121,,05/01/2011,62.0000,"Invoice-Private",,05/01/2011,05/10/2011,,01313823MO,-4529.2000,,,,,,,,,,
+TRANSACTION,3320,010103013,1,62.0000,62.00,"CR:Limited Term Di... A.Jones 201105: Jones, Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,01310121,,05/01/2011,4479.6,"Invoice-Private",,05/01/2011,05/10/2011,,01313823MO,-4529.2000,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2449,2449,"CR:Basic Service F... A.Jones 201105: Jones, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... A.Jones 201105: Jones, Ann",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,2002.6,2002.6,"CR:Resident Care -... A.Jones 201105: Jones, Ann",,,,,,,,,,,,,,,

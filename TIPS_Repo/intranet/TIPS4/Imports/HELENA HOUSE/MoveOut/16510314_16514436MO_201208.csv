@@ -1,0 +1,7 @@
+BATCH,,201208,B,10017.0000,
+INVOICE,IN,,16510314,,08/22/2012,4158.0000,"Invoice-Private",,08/22/2012,08/22/2012,,16514436MO,-7398.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,22,122.0000,2684.00,"Basic Service Fee - One Bedroom for Aug: Grover, M.D., Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,22,67.0000,1474.00,"Resident Care - Level 5 for Aug: Grover, M.D., Warren",,,,,,,,,,,,,,,
+INVOICE,CM,,16510314,,08/22/2012,5859,"Invoice-Private",,08/22/2012,08/22/2012,,16514436MO,-7398.0000,,,,,,,,,,
+TRANSACTION,3020,010308165,1,3782,3782,"CR:Basic Service F... W.Grover, M.D. 201208: Grover, M.D., Warren",,,,,,,,,,,,,,,
+TRANSACTION,3027,010308165,1,2077,2077,"CR:Resident Care -... W.Grover, M.D. 201208: Grover, M.D., Warren",,,,,,,,,,,,,,,

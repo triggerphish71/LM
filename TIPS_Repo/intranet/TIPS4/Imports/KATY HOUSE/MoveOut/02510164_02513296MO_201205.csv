@@ -1,0 +1,8 @@
+BATCH,,201205,B,6502.0000,
+INVOICE,IN,,02510164,,05/02/2012,2540.0000,"Invoice-Private",,05/02/2012,05/02/2012,,02513296MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,20,85.0000,1700.00,"Basic Service Fee - Studio for May: Edgar, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,20,42.0000,840.00,"Resident Care - Level 3 for May: Edgar, John",,,,,,,,,,,,,,,
+INVOICE,CM,,02510164,,05/02/2012,3962,"Invoice-Private",,05/02/2012,05/02/2012,,02513296MO,-1422.0000,,,,,,,,,,
+TRANSACTION,3020,010202025,1,2635,2635,"CR:Basic Service F... J.Edgar 201205: Edgar, John",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25,25,"CR:Monthly Cable... J.Edgar 201205: Edgar, John",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202025,1,1302,1302,"CR:Resident Care -... J.Edgar 201205: Edgar, John",,,,,,,,,,,,,,,

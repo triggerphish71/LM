@@ -1,0 +1,6 @@
+BATCH,,201202,B,2115.0000,
+INVOICE,IN,,50310274,,02/22/2012,2115.0000,"MoveIn-Routin. Dorothy",,02/22/2012,02/22/2012,,50314063,6335.0000,,,,,,,,,,
+TRANSACTION,3010,010220503,8,75.0000,600,"Basic Service Fee - Studio: Routin. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010220503,8,60.0000,480,"Resident Care - Level 5: Routin. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35.0000,35,"Monthly Cable: Routin. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010220503,1,1000.0000,1000,"New Resident Fee: Routin. Dorothy",,,,,,,,,,,,,,,

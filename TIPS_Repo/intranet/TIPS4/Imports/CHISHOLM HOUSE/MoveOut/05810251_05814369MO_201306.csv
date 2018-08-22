@@ -1,0 +1,8 @@
+BATCH,,201306,B,8017.0000,
+INVOICE,IN,,05810251,,06/01/2013,3194.8000,"Invoice-Private",,06/01/2013,06/10/2013,,05814369MO,-1627.4000,,,,,,,,,,
+TRANSACTION,3020,010202058,20,65.0000,1300.00,"Basic Service Fee - Studio for Jun: Gentry, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,20,94.7400,1894.80,"Resident Care - Level 6+6 pts for Jun: Gentry, Mary",,,,,,,,,,,,,,,
+INVOICE,CM,,05810251,,06/01/2013,4822.2,"Invoice-Private",,06/01/2013,06/10/2013,,05814369MO,-1627.4000,,,,,,,,,,
+TRANSACTION,3020,010202058,1,1950,1950,"CR:Basic Service F... M.Gentry 201306: Gentry, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3130,010202058,1,30,30,"CR:Pendant Fee... M.Gentry 201306: Gentry, Mary",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202058,1,2842.2,2842.2,"CR:Resident Care -... M.Gentry 201306: Gentry, Mary",,,,,,,,,,,,,,,

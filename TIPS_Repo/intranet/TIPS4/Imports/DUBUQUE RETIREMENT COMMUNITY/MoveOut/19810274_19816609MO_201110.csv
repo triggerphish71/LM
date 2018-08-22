@@ -1,0 +1,8 @@
+BATCH,,201110,B,5958.0000,
+INVOICE,IN,,19810274,,10/06/2011,1216.0000,"Invoice-Private",,10/06/2011,10/06/2011,,19816609MO,-3526.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,8,64.0000,512.00,"Room and Board - One Bedroom AL B for Oct: Conlan, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,8,88.0000,704.00,"Swan Personal Care - L5 for Oct: Conlan, Opal",,,,,,,,,,,,,,,
+INVOICE,CM,,19810274,,10/06/2011,4742,"Invoice-Private",,10/06/2011,10/06/2011,,19816609MO,-3526.0000,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... O.Conlan 201110: Conlan, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1984,1984,"CR:Room and Board ... O.Conlan 201110: Conlan, Opal",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,2728,2728,"CR:Swan Personal C... O.Conlan 201110: Conlan, Opal",,,,,,,,,,,,,,,

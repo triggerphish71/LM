@@ -1,0 +1,5 @@
+BATCH,,201110,B,54.0000,
+INVOICE,IN,,03110285,,10/01/2011,27.0000,"Invoice-Private",,10/01/2011,10/10/2011,,03116353MO,-4058.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Hayes, Theresa",,,,,,,,,,,,,,,
+INVOICE,CM,,03110285,,10/01/2011,27,"Invoice-Private",,10/01/2011,10/10/2011,,03116353MO,-4058.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Hayes, Theresa",,,,,,,,,,,,,,,

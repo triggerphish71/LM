@@ -1,0 +1,6 @@
+BATCH,,201108,B,3001.0000,
+INVOICE,IN,,12110270,,08/25/2011,3001.0000,"MoveIn-Scrivner. Marcia",,08/25/2011,08/25/2011,,12115140,7176.0000,,,,,,,,,,
+TRANSACTION,3010,010309121,7,94.0000,658,"Basic Service Fee - Studio         : Scrivner. Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309121,7,44.0000,308,"Resident Care - Level 3: Scrivner. Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309121,1,35.0000,35,"Monthly Cable: Scrivner. Marcia",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309121,1,2000.0000,2000,"New Resident Fee: Scrivner. Marcia",,,,,,,,,,,,,,,

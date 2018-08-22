@@ -1,0 +1,5 @@
+BATCH,,201112,B,20.0000,
+INVOICE,IN,,51610223,,12/01/2011,10.0000,"Invoice-Private",,12/01/2011,12/10/2011,,51613644MO,-6563.6000,,,,,,,,,,
+TRANSACTION,3130,010103516,1,10.0000,10.00,"Pendant Fee: Campbell, Dorris",,,,,,,,,,,,,,,
+INVOICE,CM,,51610223,,12/01/2011,10,"Invoice-Private",,12/01/2011,12/10/2011,,51613644MO,-6563.6000,,,,,,,,,,
+TRANSACTION,3130,010103516,1,10,10,"Credit for Pendant Fee: Campbell, Dorris",,,,,,,,,,,,,,,

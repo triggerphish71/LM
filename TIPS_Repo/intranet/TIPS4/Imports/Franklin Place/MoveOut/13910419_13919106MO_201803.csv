@@ -1,0 +1,7 @@
+BATCH,,201803,B,5865.7500,
+INVOICE,IN,,13910419,,03/02/2018,355.5000,"Invoice-Private",,03/02/2018,03/02/2018,,13919106MO,-5154.7500,,,,,,,,,,
+TRANSACTION,3020,010003139,2,81.0000,162.00,"Basic Service Fee - Studio  for Mar: Oyster, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,2,96.7500,193.50,"Resident Care - Level 45  for Mar: Oyster, Kathleen",,,,,,,,,,,,,,,
+INVOICE,CM,,13910419,,03/02/2018,5510.25,"Invoice-Private",,03/02/2018,03/02/2018,,13919106MO,-5154.7500,,,,,,,,,,
+TRANSACTION,3020,010003139,1,2511,2511,"CR:Basic Service F... K.Oyster 201803: Oyster, Kathleen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010003139,1,2999.25,2999.25,"CR:Resident Care -... K.Oyster 201803: Oyster, Kathleen",,,,,,,,,,,,,,,

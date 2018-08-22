@@ -1,0 +1,8 @@
+BATCH,,201108,B,6929.0000,
+INVOICE,IN,,13510110,,08/11/2011,3271.0000,"Invoice-Private",,08/11/2011,08/11/2011,,13514816MO,-2817.0000,,,,,,,,,,
+TRANSACTION,3320,010309135,1,1147.0000,1147.00,"CR:Limited Term Di... A.Shipps 201108: Shipps, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309135,18,87.0000,1566.00,"Basic Service Fee - Studio for Aug: Shipps, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,18,31.0000,558.00,"Resident Care - Level 2 for Aug: Shipps, Anne",,,,,,,,,,,,,,,
+INVOICE,CM,,13510110,,08/11/2011,3658,"Invoice-Private",,08/11/2011,08/11/2011,,13514816MO,-2817.0000,,,,,,,,,,
+TRANSACTION,3020,010309135,1,2697,2697,"CR:Basic Service F... A.Shipps 201108: Shipps, Anne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309135,1,961,961,"CR:Resident Care -... A.Shipps 201108: Shipps, Anne",,,,,,,,,,,,,,,

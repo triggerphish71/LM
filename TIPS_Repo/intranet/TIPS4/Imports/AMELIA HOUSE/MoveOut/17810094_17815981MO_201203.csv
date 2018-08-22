@@ -1,0 +1,8 @@
+BATCH,,201203,B,4670.0000,
+INVOICE,IN,,17810094,,03/01/2012,206.0000,"Invoice-Private",,03/01/2012,03/01/2012,,17815981MO,-4258.0000,,,,,,,,,,
+TRANSACTION,3320,010212178,1,62.0000,62.00,"CR:Limited Term Di... H.Reimer 201203: Reimer, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,1,87.0000,87.00,"Basic Service Fee - Studio for Mar: Reimer, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,57.0000,57.00,"Swan Personal Care - L4 for Mar: Reimer, Hazel",,,,,,,,,,,,,,,
+INVOICE,CM,,17810094,,03/01/2012,4464,"Invoice-Private",,03/01/2012,03/01/2012,,17815981MO,-4258.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2697,2697,"CR:Basic Service F... H.Reimer 201203: Reimer, Hazel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,1767,1767,"CR:Swan Personal C... H.Reimer 201203: Reimer, Hazel",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201307,B,2295.6000,
+INVOICE,IN,,03010234,,07/26/2013,2295.6000,"MoveIn-Vanvolkenburg. Dale",,07/26/2013,07/26/2013,,03014477,6406.2000,,,,,,,,,,
+TRANSACTION,3010,010103030,6,103.0000,618,"Basic Service Fee - One Bedroom: Vanvolkenburg. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103030,6,29.6000,177.6,"Resident Care - Level 16: Vanvolkenburg. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103030,1,1500.0000,1500,"New Resident Fee: Vanvolkenburg. Dale",,,,,,,,,,,,,,,

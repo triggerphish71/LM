@@ -1,0 +1,8 @@
+BATCH,,201210,B,5796.0000,
+INVOICE,IN,,08610127,,10/16/2012,2014.0000,"Invoice-Private",,10/16/2012,10/16/2012,,08615003MO,-6148.0000,,,,,,,,,,
+TRANSACTION,3320,010305086,1,62.0000,62.00,"CR:Limited Term Di... H.Yates 201210: Yates, Harriett",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305086,16,89.0000,1424.00,"Basic Service Fee - Studio for Oct: Yates, Harriett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,16,33.0000,528.00,"Resident Care - Level 2 for Oct: Yates, Harriett",,,,,,,,,,,,,,,
+INVOICE,CM,,08610127,,10/16/2012,3782,"Invoice-Private",,10/16/2012,10/16/2012,,08615003MO,-6148.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,2759,2759,"CR:Basic Service F... H.Yates 201210: Yates, Harriett",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1023,1023,"CR:Resident Care -... H.Yates 201210: Yates, Harriett",,,,,,,,,,,,,,,

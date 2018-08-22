@@ -1,0 +1,6 @@
+BATCH,,201207,B,4480.0000,
+INVOICE,IN,,51910205,,07/14/2012,1783.0000,"Invoice-Private",,07/14/2012,07/14/2012,,51913420MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3320,010103519,1,217.0000,217.00,"CR:Limited Term Di... J.Tribble 201207: Tribble, Jovieta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103519,18,87.0000,1566.00,"Basic Service Fee - Studio for Jul: Tribble, Jovieta",,,,,,,,,,,,,,,
+INVOICE,CM,,51910205,,07/14/2012,2697,"Invoice-Private",,07/14/2012,07/14/2012,,51913420MO,-3394.0000,,,,,,,,,,
+TRANSACTION,3020,010103519,1,2697,2697,"CR:Basic Service F... J.Tribble 201207: Tribble, Jovieta",,,,,,,,,,,,,,,

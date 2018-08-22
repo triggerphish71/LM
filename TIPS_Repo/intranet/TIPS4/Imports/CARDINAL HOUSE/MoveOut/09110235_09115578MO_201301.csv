@@ -1,0 +1,7 @@
+BATCH,,201301,B,6424.0000,
+INVOICE,IN,,09110235,,01/01/2013,1898.0000,"Invoice-Private",,01/01/2013,01/10/2013,,09115578MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,13,110.0000,1430.00,"Basic Service Fee - One Bedroom for Jan: Troutman, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,13,36.0000,468.00,"Resident Care - Level 2 for Jan: Troutman, Jean",,,,,,,,,,,,,,,
+INVOICE,CM,,09110235,,01/01/2013,4526,"Invoice-Private",,01/01/2013,01/10/2013,,09115578MO,-2628.0000,,,,,,,,,,
+TRANSACTION,3020,010305091,1,3410,3410,"CR:Basic Service F... J.Troutman 201301: Troutman, Jean",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305091,1,1116,1116,"CR:Resident Care -... J.Troutman 201301: Troutman, Jean",,,,,,,,,,,,,,,

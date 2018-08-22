@@ -1,0 +1,7 @@
+BATCH,,201203,B,6720.0000,
+INVOICE,IN,,20610187,,03/01/2012,3248.0000,"Invoice-Private",,03/01/2012,03/10/2012,,20612622MO,-224.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,29,21.0000,609.00,"Resident Care - Level 2 for Mar: Nicholson, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,29,91.0000,2639.00,"Room and Board - Studio for Mar: Nicholson, Henrietta",,,,,,,,,,,,,,,
+INVOICE,CM,,20610187,,03/01/2012,3472,"Invoice-Private",,03/01/2012,03/10/2012,,20612622MO,-224.0000,,,,,,,,,,
+TRANSACTION,3027,010214206,1,651,651,"CR:Resident Care -... H.Nicholson 201203: Nicholson, Henrietta",,,,,,,,,,,,,,,
+TRANSACTION,3020,010214206,1,2821,2821,"CR:Room and Board ... H.Nicholson 201203: Nicholson, Henrietta",,,,,,,,,,,,,,,

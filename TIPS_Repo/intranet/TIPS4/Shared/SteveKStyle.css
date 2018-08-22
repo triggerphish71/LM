@@ -1,0 +1,54 @@
+BODY               {color:          Navy;
+                    background:     "White";
+                    font-family:    Verdana, sans-serif;}
+
+A:link, A:visited  {color:          Blue;}
+
+A:hover            {background:     #33ffff;}
+
+TH                 {color:          White;
+                    background:     #99cccc;}
+
+TD.Color           {background:     Linen;}
+
+CAPTION            {color:          #ff6633;
+                    font-weight:    Bold;}
+
+FORM.Center        {text-align:     center;}
+
+.PageTitle         {font-size:      large;
+                    text-align:     center;}
+
+.UrlStatusMessage  {color:          Red;
+                    font-weight:    Bold;}
+
+.FormErrorMessage  {color:          Red;
+                    font-weight:    Bold;}
+
+.FormLabelGood     {color:          Navy;
+                    font-weight:    Bold;}
+
+.FormLabelBad      {color:          Red;
+                    font-weight:    Bold;}
+
+.SaveButton        {color:          Green;
+                    font-weight:    Bold;}
+
+.DontSaveButton    {color:          Red;
+                    font-weight:    Bold;}
+
+.HelpSymbol        {background:     Yellow;
+                    border:         solid red thin;
+                    text-align:     center;
+                    font-weight:    bold;
+                    width:          2em;
+                    height:         1.5em;}                    
+
+.HelpText          {visibility:     hidden;
+                    position:       relative;
+                    background:     Yellow;
+                    border:         solid red thin;
+                    font-weight:    bold;
+                    width:          30em;
+                    height:         3em;}
+

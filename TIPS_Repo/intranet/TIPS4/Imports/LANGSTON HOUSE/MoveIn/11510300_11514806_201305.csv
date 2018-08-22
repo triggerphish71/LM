@@ -1,0 +1,5 @@
+BATCH,,201305,B,1094.0000,
+INVOICE,IN,,11510300,,05/31/2013,1094.0000,"MoveIn-Jagger. Lawrence",,05/31/2013,05/31/2013,,11514806,3102.0000,,,,,,,,,,
+TRANSACTION,3010,010308115,1,66.0000,66,"Basic Service Fee - Studio: Jagger. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308115,1,28.0000,28,"Monthly Cable: Jagger. Lawrence",,,,,,,,,,,,,,,
+TRANSACTION,3216,010308115,1,1000.0000,1000,"New Resident Fee: Jagger. Lawrence",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201205,B,7654.0000,
+INVOICE,IN,,53610146,,05/21/2012,3128.0000,"Invoice-Private",,05/21/2012,05/21/2012,,53613626MO,-5718.0000,,,,,,,,,,
+TRANSACTION,3320,010319536,1,62.0000,62.00,"CR:Limited Term Di... L.Goetzke 201205: Goetzke, Lovina",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319536,21,101.0000,2121.00,"Basic Service Fee - Studio Deluxe for May: Goetzke, Lovina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,21,45.0000,945.00,"Resident Care - Level 3 for May: Goetzke, Lovina",,,,,,,,,,,,,,,
+INVOICE,CM,,53610146,,05/21/2012,4526,"Invoice-Private",,05/21/2012,05/21/2012,,53613626MO,-5718.0000,,,,,,,,,,
+TRANSACTION,3020,010319536,1,3131,3131,"CR:Basic Service F... L.Goetzke 201205: Goetzke, Lovina",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319536,1,1395,1395,"CR:Resident Care -... L.Goetzke 201205: Goetzke, Lovina",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201202,B,4098.8200,
+INVOICE,IN,,03810185,,02/09/2012,1326.3600,"Invoice-Private",,02/09/2012,02/09/2012,,03814120MO,-1446.1000,,,,,,,,,,
+TRANSACTION,3020,010103038,14,84.0000,1176.00,"Basic Service Fee - Studio for Feb: Jimison, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,14,10.7400,150.36,"Resident Care - Level 6 for Feb: Jimison, Jackie",,,,,,,,,,,,,,,
+INVOICE,CM,,03810185,,02/09/2012,2772.46,"Invoice-Private",,02/09/2012,02/09/2012,,03814120MO,-1446.1000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2436,2436,"CR:Basic Service F... J.Jimison 201202: Jimison, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... J.Jimison 201202: Jimison, Jackie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,311.46,311.46,"CR:Resident Care -... J.Jimison 201202: Jimison, Jackie",,,,,,,,,,,,,,,

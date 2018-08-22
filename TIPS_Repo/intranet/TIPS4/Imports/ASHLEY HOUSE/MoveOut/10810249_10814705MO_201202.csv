@@ -1,0 +1,7 @@
+BATCH,,201202,B,1694.0000,
+INVOICE,IN,,10810249,,02/01/2012,847.0000,"Invoice-Private",,02/01/2012,02/10/2012,,10814705MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35.0000,35.00,"Pendant Fee: Bowsher, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308108,29,28.0000,812.00,"Credit for Limited Term Discount: Bowsher, Carol",,,,,,,,,,,,,,,
+INVOICE,CM,,10810249,,02/01/2012,847,"Invoice-Private",,02/01/2012,02/10/2012,,10814705MO,-2125.0000,,,,,,,,,,
+TRANSACTION,3130,010308108,1,35,35,"Credit for Pendant Fee: Bowsher, Carol",,,,,,,,,,,,,,,
+TRANSACTION,3320,010308108,29,28,812,"Limited Term Discount: Bowsher, Carol",,,,,,,,,,,,,,,

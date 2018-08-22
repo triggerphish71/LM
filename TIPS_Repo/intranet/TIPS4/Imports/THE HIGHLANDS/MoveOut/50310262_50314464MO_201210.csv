@@ -1,0 +1,7 @@
+BATCH,,201210,B,2497.0000,
+INVOICE,IN,,50310262,,10/01/2012,137.0000,"Invoice-Private",,10/01/2012,10/01/2012,,50314464MO,-2223.0000,,,,,,,,,,
+TRANSACTION,3320,010220503,1,62.0000,62.00,"CR:Limited Term Di... C.Jackson 201210: Jackson, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3020,010220503,1,75.0000,75.00,"Basic Service Fee - Studio for Oct: Jackson, Christine",,,,,,,,,,,,,,,
+INVOICE,CM,,50310262,,10/01/2012,2360,"Invoice-Private",,10/01/2012,10/01/2012,,50314464MO,-2223.0000,,,,,,,,,,
+TRANSACTION,3020,010220503,1,2325,2325,"CR:Basic Service F... C.Jackson 201210: Jackson, Christine",,,,,,,,,,,,,,,
+TRANSACTION,3260,010220503,1,35,35,"CR:Monthly Cable... C.Jackson 201210: Jackson, Christine",,,,,,,,,,,,,,,

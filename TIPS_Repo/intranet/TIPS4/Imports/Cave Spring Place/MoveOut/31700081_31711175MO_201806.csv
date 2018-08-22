@@ -1,0 +1,7 @@
+BATCH,,201806,B,5715.0000,
+INVOICE,IN,,31700081,,06/10/2018,2115.0000,"Invoice-Private",,06/10/2018,06/10/2018,,31711175MO,-1485.0000,,,,,,,,,,
+TRANSACTION,3017,070026317,15,63.0000,945.00," Level: 3 : Chase, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,15,78.0000,1170.00,"Studio for Jun: Chase, Barbara",,,,,,,,,,,,,,,
+INVOICE,CM,,31700081,,06/10/2018,3600,"Invoice-Private",,06/10/2018,06/10/2018,,31711175MO,-1485.0000,,,,,,,,,,
+TRANSACTION,3027,070026317,1,1260,1260,"CR:Resident Care -... B.Chase 201806: Chase, Barbara",,,,,,,,,,,,,,,
+TRANSACTION,3020,070026317,1,2340,2340,"CR:Studio... B.Chase 201806: Chase, Barbara",,,,,,,,,,,,,,,

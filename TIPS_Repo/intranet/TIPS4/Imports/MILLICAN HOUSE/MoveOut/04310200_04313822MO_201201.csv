@@ -1,0 +1,7 @@
+BATCH,,201201,B,2350.0000,
+INVOICE,IN,,04310200,,01/12/2012,893.0000,"Invoice-Private",,01/12/2012,01/12/2012,,04313822MO,-564.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,19,31.0000,589.00,"Basic Service Fee - Second Resident for Jan: Clifton, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,19,16.0000,304.00,"Resident Care - Level 1 for Jan: Clifton, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,04310200,,01/12/2012,1457,"Invoice-Private",,01/12/2012,01/12/2012,,04313822MO,-564.0000,,,,,,,,,,
+TRANSACTION,3020,010202043,1,961,961,"CR:Basic Service F... A.Clifton 201201: Clifton, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202043,1,496,496,"CR:Resident Care -... A.Clifton 201201: Clifton, Albert",,,,,,,,,,,,,,,

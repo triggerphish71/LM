@@ -1,0 +1,7 @@
+BATCH,,201211,B,202.0000,
+INVOICE,IN,,21210188,,11/01/2012,101.0000,"Invoice-Private",,11/01/2012,11/10/2012,,21212747MO,-3729.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41.0000,41.00,"Monthly Cable: Burnett, Blye",,,,,,,,,,,,,,,
+TRANSACTION,3320,010208212,30,2.0000,60.00,"Credit for Limited Term Discount: Burnett, Blye",,,,,,,,,,,,,,,
+INVOICE,CM,,21210188,,11/01/2012,101,"Invoice-Private",,11/01/2012,11/10/2012,,21212747MO,-3729.0000,,,,,,,,,,
+TRANSACTION,3260,010208212,1,41,41,"Credit for Monthly Cable: Burnett, Blye",,,,,,,,,,,,,,,
+TRANSACTION,3320,010208212,30,2,60,"Limited Term Discount: Burnett, Blye",,,,,,,,,,,,,,,

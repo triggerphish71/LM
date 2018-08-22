@@ -1,0 +1,5 @@
+BATCH,,201104,B,60.0000,
+INVOICE,IN,,09910145,,04/22/2011,50.0000,"Invoice-Private",,04/22/2011,04/22/2011,,09913887MO,-4357.0000,,,,,,,,,,
+TRANSACTION,3150,010104099,1,50.0000,50.00,"Late Fee Payment: Martin, Alice",,,,,,,,,,,,,,,
+INVOICE,IN,,09910145,,04/22/2011,10.0000,"Invoice-Private",,04/22/2011,04/22/2011,,09913887MO,-4357.0000,,,,,,,,,,
+TRANSACTION,3150,010104099,1,10.0000,10.00,"Adjustment Partial Payment for Late Fee: Martin, Alice",,,,,,,,,,,,,,,

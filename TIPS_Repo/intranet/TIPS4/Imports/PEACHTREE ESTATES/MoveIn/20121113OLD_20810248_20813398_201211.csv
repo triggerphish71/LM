@@ -1,0 +1,5 @@
+BATCH,,201211,B,3480.0000,
+INVOICE,IN,,20810248,,11/13/2012,3480.0000,"MoveIn-Brown. Geneva",,11/13/2012,11/13/2012,,20813398,3480.0000,,,,,,,,,,
+TRANSACTION,3010,010216208,18,78.0000,1404,"Studio: Brown. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3017,010216208,18,32.0000,576,"Resident Care - Level 3: Brown. Geneva",,,,,,,,,,,,,,,
+TRANSACTION,3216,010216208,1,1500.0000,1500,"New Resident Fee: Brown. Geneva",,,,,,,,,,,,,,,

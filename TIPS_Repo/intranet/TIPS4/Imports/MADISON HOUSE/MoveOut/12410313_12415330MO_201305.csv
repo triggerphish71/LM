@@ -1,0 +1,8 @@
+BATCH,,201305,B,6435.0000,
+INVOICE,IN,,12410313,,05/09/2013,1440.0000,"Invoice-Private",,05/09/2013,05/09/2013,,12415330MO,-3555.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,9,88.0000,792.00,"Basic Service Fee - Deluxe for May: Voss, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,9,72.0000,648.00,"Resident Care - Level 5 for May: Voss, Verne",,,,,,,,,,,,,,,
+INVOICE,CM,,12410313,,05/09/2013,4995,"Invoice-Private",,05/09/2013,05/09/2013,,12415330MO,-3555.0000,,,,,,,,,,
+TRANSACTION,3020,010211124,1,2728,2728,"CR:Basic Service F... V.Voss 201305: Voss, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211124,1,35,35,"CR:Monthly Cable... V.Voss 201305: Voss, Verne",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211124,1,2232,2232,"CR:Resident Care -... V.Voss 201305: Voss, Verne",,,,,,,,,,,,,,,

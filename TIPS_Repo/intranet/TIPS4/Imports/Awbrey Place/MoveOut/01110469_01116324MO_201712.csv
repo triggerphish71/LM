@@ -1,0 +1,7 @@
+BATCH,,201712,B,6148.4000,
+INVOICE,IN,,01110469,,12/05/2017,1132.6000,"Invoice-Private",,12/05/2017,12/05/2017,,01116324MO,-3883.2000,,,,,,,,,,
+TRANSACTION,3020,010001011,7,76.0000,532.00,"Basic Service Fee - Studio  for Dec: O'Connor, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001011,7,85.8000,600.60,"Resident Care - Level 44  for Dec: O'Connor, Virginia",,,,,,,,,,,,,,,
+INVOICE,CM,,01110469,,12/05/2017,5015.8,"Invoice-Private",,12/05/2017,12/05/2017,,01116324MO,-3883.2000,,,,,,,,,,
+TRANSACTION,3020,010001011,1,2356,2356,"CR:Basic Service F... V.O'Connor 201712: O'Connor, Virginia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010001011,1,2659.8,2659.8,"CR:Resident Care -... V.O'Connor 201712: O'Connor, Virginia",,,,,,,,,,,,,,,

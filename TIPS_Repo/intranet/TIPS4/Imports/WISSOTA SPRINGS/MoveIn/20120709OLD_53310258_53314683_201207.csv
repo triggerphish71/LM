@@ -1,0 +1,7 @@
+BATCH,,201207,B,3076.0000,
+INVOICE,IN,,53310258,,06/28/2012,292.0000,"MoveIn-Casey. Jeane",,06/28/2012,06/28/2012,,53314683,3076.0000,,,,,,,,,,
+TRANSACTION,3014,010319533,3,89.0000,267,"Basic Service Fee - Studio: Casey. Jeane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Casey. Jeane",,,,,,,,,,,,,,,
+INVOICE,IN,,53310258,,07/01/2012,2784.0000,"July_Rent-Casey. Jeane",,07/01/2012,07/10/2012,,53314683,3076.0000,,,,,,,,,,
+TRANSACTION,3010,010319533,31,89.0000,2759,"Basic Service Fee - Studio: Casey. Jeane",,,,,,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25.0000,25,"Monthly Cable: Casey. Jeane",,,,,,,,,,,,,,,

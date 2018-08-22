@@ -1,0 +1,7 @@
+BATCH,,201211,B,4110.0000,
+INVOICE,IN,,14910033,,11/01/2012,60.0000,"Invoice-Private",,11/01/2012,11/10/2012,,14914870MO,-3990.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,1,60.0000,60.00,"CR:Limited Term Di... E.Nelson 201211: Nelson, Ellen",,,,,,,,,,,,,,,
+INVOICE,CM,,14910033,,11/01/2012,4050,"Invoice-Private",,11/01/2012,11/10/2012,,14914870MO,-3990.0000,,,,,,,,,,
+TRANSACTION,3020,010212149,1,3000,3000,"CR:Basic Service F... E.Nelson 201211: Nelson, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"CR:Monthly Cable... E.Nelson 201211: Nelson, Ellen",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212149,1,1020,1020,"CR:Resident Care -... E.Nelson 201211: Nelson, Ellen",,,,,,,,,,,,,,,

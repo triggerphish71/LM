@@ -1,0 +1,8 @@
+BATCH,,201204,B,4875.0000,
+INVOICE,IN,,16810297,,04/03/2012,525.0000,"Invoice-Private",,04/03/2012,04/03/2012,,16816487MO,-3825.0000,,,,,,,,,,
+TRANSACTION,3320,010313168,1,90.0000,90.00,"CR:Limited Term Di... M.Miller 201204: Miller, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313168,3,107.0000,321.00,"Basic Service Fee - One Bedroom for Apr: Miller, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,3,38.0000,114.00,"Resident Care - Level 3 for Apr: Miller, Muriel",,,,,,,,,,,,,,,
+INVOICE,CM,,16810297,,04/03/2012,4350,"Invoice-Private",,04/03/2012,04/03/2012,,16816487MO,-3825.0000,,,,,,,,,,
+TRANSACTION,3020,010313168,1,3210,3210,"CR:Basic Service F... M.Miller 201204: Miller, Muriel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313168,1,1140,1140,"CR:Resident Care -... M.Miller 201204: Miller, Muriel",,,,,,,,,,,,,,,

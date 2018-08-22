@@ -1,0 +1,5 @@
+BATCH,,201307,B,3850.0000,
+INVOICE,IN,,04510156,,07/10/2013,1463.0000,"Invoice-Private",,07/10/2013,07/10/2013,,04514627MO,-924.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,19,77.0000,1463.00,"Basic Service Fee - Studio for Jul: Cates, Vernelle",,,,,,,,,,,,,,,
+INVOICE,CM,,04510156,,07/10/2013,2387,"Invoice-Private",,07/10/2013,07/10/2013,,04514627MO,-924.0000,,,,,,,,,,
+TRANSACTION,3020,010202045,1,2387,2387,"CR:Basic Service F... V.Cates 201307: Cates, Vernelle",,,,,,,,,,,,,,,

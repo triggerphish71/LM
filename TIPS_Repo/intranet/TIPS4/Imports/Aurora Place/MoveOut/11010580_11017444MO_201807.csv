@@ -1,0 +1,5 @@
+BATCH,,201807,B,4707.3000,
+INVOICE,CM,,11010580,,07/01/2018,4707.3,"Invoice-Private",,07/01/2018,07/10/2018,,11017444MO,-9414.6000,,,,,,,,,,
+TRANSACTION,3020,010007110,1,3720,3720,"CR:Basic Service F... A.Bartoo 201807: Bartoo, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010007110,1,26.3,26.3,"CR:Monthly Cable... A.Bartoo 201807: Bartoo, Alice",,,,,,,,,,,,,,,
+TRANSACTION,3027,010007110,1,961,961,"CR:Resident Care -... A.Bartoo 201807: Bartoo, Alice",,,,,,,,,,,,,,,

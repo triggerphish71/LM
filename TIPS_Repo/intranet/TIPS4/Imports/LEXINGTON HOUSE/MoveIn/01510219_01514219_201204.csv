@@ -1,0 +1,5 @@
+BATCH,,201204,B,3673.1000,
+INVOICE,IN,,01510219,,04/13/2012,3673.1000,"MoveIn-Buckley. Allen",,04/13/2012,04/13/2012,,01514219,3673.1000,,,,,,,,,,
+TRANSACTION,3010,010103015,18,84.0000,1512,"Basic Service Fee - Studio: Buckley. Allen",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103015,18,8.9500,161.1,"Resident Care - Level 5: Buckley. Allen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103015,1,2000.0000,2000,"New Resident Fee: Buckley. Allen",,,,,,,,,,,,,,,

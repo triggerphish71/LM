@@ -1,0 +1,6 @@
+BATCH,,201208,B,4266.0000,
+INVOICE,IN,,05610122,,08/01/2012,2158.0000,"Invoice-Private",,08/01/2012,08/10/2012,,05614519MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3320,010202056,1,186.0000,186.00,"CR:Limited Term Di... R.Bridwell 201208: Bridwell, Reba",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202056,29,68.0000,1972.00,"Basic Service Fee - Studio for Aug: Bridwell, Reba",,,,,,,,,,,,,,,
+INVOICE,CM,,05610122,,08/01/2012,2108,"Invoice-Private",,08/01/2012,08/10/2012,,05614519MO,-1810.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,2108,2108,"CR:Basic Service F... R.Bridwell 201208: Bridwell, Reba",,,,,,,,,,,,,,,

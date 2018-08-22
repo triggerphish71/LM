@@ -1,0 +1,8 @@
+BATCH,,201112,B,7141.6000,
+INVOICE,IN,,01310147,,12/21/2011,2872.8000,"Invoice-Private",,12/21/2011,12/21/2011,,01314041MO,-5852.6600,,,,,,,,,,
+TRANSACTION,3027,010103013,21,57.8000,1213.80,"Resident Care - Level 34 for Dec: Pugh, Margret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,21,79.0000,1659.00,"Room and Board - One Bedroom for Dec: Pugh, Margret",,,,,,,,,,,,,,,
+INVOICE,CM,,01310147,,12/21/2011,4268.8,"Invoice-Private",,12/21/2011,12/21/2011,,01314041MO,-5852.6600,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"CR:Monthly Cable... M.Pugh 201112: Pugh, Margret",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103013,1,1791.8,1791.8,"CR:Resident Care -... M.Pugh 201112: Pugh, Margret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103013,1,2449,2449,"CR:Room and Board ... M.Pugh 201112: Pugh, Margret",,,,,,,,,,,,,,,

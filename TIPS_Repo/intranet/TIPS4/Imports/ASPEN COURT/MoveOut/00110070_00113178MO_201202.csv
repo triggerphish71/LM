@@ -1,0 +1,8 @@
+BATCH,,201202,B,5425.5000,
+INVOICE,IN,,00110070,,02/01/2012,2268.2100,"Invoice-Private",,02/01/2012,02/10/2012,,00113178MO,-889.0800,,,,,,,,,,
+TRANSACTION,3020,010101001,21,74.0000,1554.00,"Basic Service Fee - Studio for Feb: Griffiths, Laurel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,21,34.0100,714.21,"Resident Care - Level 19 for Feb: Griffiths, Laurel",,,,,,,,,,,,,,,
+INVOICE,CM,,00110070,,02/01/2012,3157.29,"Invoice-Private",,02/01/2012,02/10/2012,,00113178MO,-889.0800,,,,,,,,,,
+TRANSACTION,3020,010101001,1,2146,2146,"CR:Basic Service F... L.Griffiths 201202: Griffiths, Laurel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010101001,1,25,25,"CR:Monthly Cable... L.Griffiths 201202: Griffiths, Laurel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010101001,1,986.29,986.29,"CR:Resident Care -... L.Griffiths 201202: Griffiths, Laurel",,,,,,,,,,,,,,,

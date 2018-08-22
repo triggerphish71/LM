@@ -1,0 +1,5 @@
+BATCH,,201203,B,2108.0000,
+INVOICE,IN,,06110196,,03/01/2012,1054.0000,"Invoice-Private",,03/01/2012,03/10/2012,,06113822MO,-2903.4800,,,,,,,,,,
+TRANSACTION,3320,010103061,31,34.0000,1054.00,"Credit for Limited Term Discount: Newton, Steven",,,,,,,,,,,,,,,
+INVOICE,CM,,06110196,,03/01/2012,1054,"Invoice-Private",,03/01/2012,03/10/2012,,06113822MO,-2903.4800,,,,,,,,,,
+TRANSACTION,3320,010103061,31,34,1054,"Limited Term Discount: Newton, Steven",,,,,,,,,,,,,,,

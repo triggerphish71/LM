@@ -1,0 +1,5 @@
+BATCH,,201109,B,50.0000,
+INVOICE,IN,,06310227,,09/01/2011,25.0000,"Invoice-Private",,09/01/2011,09/10/2011,,06314650MO,-5929.0000,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25.0000,25.00,"Monthly Cable: Cheavacci, Marjorie",,,,,,,,,,,,,,,
+INVOICE,CM,,06310227,,09/01/2011,25,"Invoice-Private",,09/01/2011,09/10/2011,,06314650MO,-5929.0000,,,,,,,,,,
+TRANSACTION,3260,010104063,1,25,25,"Credit for Monthly Cable: Cheavacci, Marjorie",,,,,,,,,,,,,,,

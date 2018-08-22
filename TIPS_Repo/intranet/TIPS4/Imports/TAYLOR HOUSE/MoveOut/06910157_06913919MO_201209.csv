@@ -1,0 +1,5 @@
+BATCH,,201209,B,1260.0000,
+INVOICE,IN,,06910157,,09/01/2012,630.0000,"Invoice-Private",,09/01/2012,09/10/2012,,06913919MO,-84.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,30,21.0000,630.00,"Credit for Limited Term Discount: Dysert, Gloria",,,,,,,,,,,,,,,
+INVOICE,CM,,06910157,,09/01/2012,630,"Invoice-Private",,09/01/2012,09/10/2012,,06913919MO,-84.0000,,,,,,,,,,
+TRANSACTION,3320,010305069,30,21,630,"Limited Term Discount: Dysert, Gloria",,,,,,,,,,,,,,,

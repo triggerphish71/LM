@@ -1,0 +1,6 @@
+BATCH,,201211,B,5578.0000,
+INVOICE,IN,,09310232,,11/15/2012,924.0000,"Invoice-Private",,11/15/2012,11/15/2012,,09315593MO,-7822.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,7,132.0000,924.00,"Basic Service Fee - One Bedroom for Nov: Theller, Eric",,,,,,,,,,,,,,,
+INVOICE,CM,,09310232,,11/15/2012,4654,"Invoice-Private",,11/15/2012,11/15/2012,,09315593MO,-7822.0000,,,,,,,,,,
+TRANSACTION,3020,010305093,1,2904,2904,"CR:Basic Service F... E.Theller 201211: Theller, Eric",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305093,1,1750,1750,"CR:New Resident Fe... E.Theller 201211: Theller, Eric",,,,,,,,,,,,,,,

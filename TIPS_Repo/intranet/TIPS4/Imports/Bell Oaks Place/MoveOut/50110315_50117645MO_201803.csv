@@ -1,0 +1,6 @@
+BATCH,,201803,B,563.0400,
+INVOICE,IN,,50110315,,03/01/2018,531.5200,"Invoice-Private",,03/01/2018,03/10/2018,,50117645MO,-1603.5200,,,,,,,,,,
+TRANSACTION,3260,010009501,1,31.5200,31.52,"Monthly Cable: Arnold, Amy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010009501,1,500.0000,500.00,"Deferred NRF Unpaid Balance: Arnold, Amy",,,,,,,,,,,,,,,
+INVOICE,CM,,50110315,,03/01/2018,31.52,"Invoice-Private",,03/01/2018,03/10/2018,,50117645MO,-1603.5200,,,,,,,,,,
+TRANSACTION,3260,010009501,1,31.52,31.52,"Credit for Monthly Cable: Arnold, Amy",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201305,B,1650.0000,
+INVOICE,IN,,17810366,,05/02/2013,100.0000,"Invoice-Private",,05/02/2013,05/02/2013,,17816542MO,-1450.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,2,50.0000,100.00,"Basic Service Fee - Studio for May: Wathen, James",,,,,,,,,,,,,,,
+INVOICE,CM,,17810366,,05/02/2013,1550,"Invoice-Private",,05/02/2013,05/02/2013,,17816542MO,-1450.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,1550,1550,"CR:Basic Service F... J.Wathen 201305: Wathen, James",,,,,,,,,,,,,,,

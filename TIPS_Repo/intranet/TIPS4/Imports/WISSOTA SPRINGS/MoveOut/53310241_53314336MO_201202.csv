@@ -1,0 +1,8 @@
+BATCH,,201202,B,6561.0000,
+INVOICE,IN,,53310241,,02/01/2012,2128.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53314336MO,-2305.0000,,,,,,,,,,
+TRANSACTION,3027,010319533,14,63.0000,882.00,"Resident Care - Level 5 for Feb: Glasener, Sally",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,14,89.0000,1246.00,"Room and Board - Studio for Feb: Glasener, Sally",,,,,,,,,,,,,,,
+INVOICE,CM,,53310241,,02/01/2012,4433,"Invoice-Private",,02/01/2012,02/10/2012,,53314336MO,-2305.0000,,,,,,,,,,
+TRANSACTION,3260,010319533,1,25,25,"CR:Monthly Cable... S.Glasener 201202: Glasener, Sally",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,1827,1827,"CR:Resident Care -... S.Glasener 201202: Glasener, Sally",,,,,,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2581,2581,"CR:Room and Board ... S.Glasener 201202: Glasener, Sally",,,,,,,,,,,,,,,

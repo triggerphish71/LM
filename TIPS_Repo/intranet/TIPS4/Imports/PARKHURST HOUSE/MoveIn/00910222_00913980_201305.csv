@@ -1,0 +1,5 @@
+BATCH,,201305,B,3132.0000,
+INVOICE,IN,,00910222,,04/26/2013,435.0000,"MoveIn-Acosta. Aurora",,04/26/2013,04/26/2013,,00913980,3132.0000,,,,,,,,,,
+TRANSACTION,3014,010101009,5,87.0000,435,"Basic Service Fee - Studio: Acosta. Aurora",,,,,,,,,,,,,,,
+INVOICE,IN,,00910222,,05/01/2013,2697.0000,"May_Rent-Acosta. Aurora",,05/01/2013,05/10/2013,,00913980,3132.0000,,,,,,,,,,
+TRANSACTION,3010,010101009,31,87.0000,2697,"Basic Service Fee - Studio: Acosta. Aurora",,,,,,,,,,,,,,,

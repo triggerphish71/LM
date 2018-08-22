@@ -1,0 +1,6 @@
+BATCH,,201108,B,5115.0000,
+INVOICE,IN,,11110214,,08/01/2011,62.0000,"Invoice-Private",,08/01/2011,08/10/2011,,11114465MO,-4991.0000,,,,,,,,,,
+TRANSACTION,3320,010107111,1,62.0000,62.00,"CR:Limited Term Di... M.Bondi 201108: Bondi, Madeline",,,,,,,,,,,,,,,
+INVOICE,CM,,11110214,,08/01/2011,5053,"Invoice-Private",,08/01/2011,08/10/2011,,11114465MO,-4991.0000,,,,,,,,,,
+TRANSACTION,3020,010107111,1,2914,2914,"CR:Basic Service F... M.Bondi 201108: Bondi, Madeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107111,1,2139,2139,"CR:Resident Care -... M.Bondi 201108: Bondi, Madeline",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201107,B,54.0000,
+INVOICE,IN,,03110298,,07/01/2011,27.0000,"Invoice-Private",,07/01/2011,07/10/2011,,03116172MO,-1143.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27.0000,27.00,"Monthly Cable: Barnett, Betty",,,,,,,,,,,,,,,
+INVOICE,CM,,03110298,,07/01/2011,27,"Invoice-Private",,07/01/2011,07/10/2011,,03116172MO,-1143.0000,,,,,,,,,,
+TRANSACTION,3260,010202031,1,27,27,"Credit for Monthly Cable: Barnett, Betty",,,,,,,,,,,,,,,

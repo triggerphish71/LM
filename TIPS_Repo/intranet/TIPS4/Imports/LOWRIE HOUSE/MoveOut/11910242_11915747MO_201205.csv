@@ -1,0 +1,7 @@
+BATCH,,201205,B,4583.0000,
+INVOICE,IN,,11910242,,05/01/2012,62.0000,"Invoice-Private",,05/01/2012,05/10/2012,,11915747MO,-6455.0000,,,,,,,,,,
+TRANSACTION,3320,010310119,1,62.0000,62.00,"CR:Limited Term Di... E.Laughner 201205: Laughner, Ethel",,,,,,,,,,,,,,,
+INVOICE,CM,,11910242,,05/01/2012,4521,"Invoice-Private",,05/01/2012,05/10/2012,,11915747MO,-6455.0000,,,,,,,,,,
+TRANSACTION,3020,010310119,1,2883,2883,"CR:Basic Service F... E.Laughner 201205: Laughner, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26,26,"CR:Monthly Cable... E.Laughner 201205: Laughner, Ethel",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310119,1,1612,1612,"CR:Resident Care -... E.Laughner 201205: Laughner, Ethel",,,,,,,,,,,,,,,

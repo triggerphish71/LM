@@ -1,0 +1,5 @@
+BATCH,,201111,B,60.0000,
+INVOICE,IN,,13610254,,11/01/2011,30.0000,"Invoice-Private",,11/01/2011,11/10/2011,,13614240MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30.0000,30.00,"Pendant Fee: Walker, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,13610254,,11/01/2011,30,"Invoice-Private",,11/01/2011,11/10/2011,,13614240MO,-2983.0000,,,,,,,,,,
+TRANSACTION,3130,010309136,1,30,30,"Credit for Pendant Fee: Walker, Robert",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201211,B,1118.0000,
+INVOICE,IN,,50110282,,11/30/2012,1118.0000,"MoveIn-Duffy. Clarice",,11/30/2012,11/30/2012,,50114434,3876.0000,,,,,,,,,,
+TRANSACTION,3010,010209501,1,88.0000,88,"Basic Service Fee - Studio: Duffy. Clarice",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30.0000,30,"Monthly Cable: Duffy. Clarice",,,,,,,,,,,,,,,
+TRANSACTION,3216,010209501,1,1000.0000,1000,"New Resident Fee: Duffy. Clarice",,,,,,,,,,,,,,,

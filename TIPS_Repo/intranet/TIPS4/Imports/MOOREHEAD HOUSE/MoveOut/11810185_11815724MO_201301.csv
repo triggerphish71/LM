@@ -1,0 +1,8 @@
+BATCH,,201301,B,8412.0000,
+INVOICE,IN,,11810185,,01/18/2013,3381.0000,"Invoice-Private",,01/18/2013,01/18/2013,,11815724MO,-6198.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,21,100.0000,2100.00,"Basic Service Fee - Studio for Jan: Robertson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,21,61.0000,1281.00,"Resident Care - Level 4 for Jan: Robertson, Charles",,,,,,,,,,,,,,,
+INVOICE,CM,,11810185,,01/18/2013,5031,"Invoice-Private",,01/18/2013,01/18/2013,,11815724MO,-6198.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3100,3100,"CR:Basic Service F... C.Robertson 201301: Robertson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... C.Robertson 201301: Robertson, Charles",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1891,1891,"CR:Resident Care -... C.Robertson 201301: Robertson, Charles",,,,,,,,,,,,,,,

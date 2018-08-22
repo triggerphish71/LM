@@ -1,0 +1,6 @@
+BATCH,,201109,B,4688.0000,
+INVOICE,IN,,13810167,,09/01/2011,968.0000,"Invoice-Private",,09/01/2011,09/10/2011,,13814608MO,-2752.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,720.0000,720.00,"CR:Limited Term Di... M.Wagoner 201109: Wagoner, Mary Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309138,2,124.0000,248.00,"Basic Service Fee- One Bedroom Prem for Sep: Wagoner, Mary Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,13810167,,09/01/2011,3720,"Invoice-Private",,09/01/2011,09/10/2011,,13814608MO,-2752.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,3720,3720,"CR:Basic Service F... M.Wagoner 201109: Wagoner, Mary Margaret",,,,,,,,,,,,,,,

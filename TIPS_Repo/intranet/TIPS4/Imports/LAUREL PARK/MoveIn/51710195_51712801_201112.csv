@@ -1,0 +1,6 @@
+BATCH,,201112,B,2160.0000,
+INVOICE,IN,,51710195,,12/30/2011,2160.0000,"MoveIn-Totten. Lyndon",,12/30/2011,12/30/2011,,51712801,3890.0000,,,,,,,,,,
+TRANSACTION,3010,010103517,2,55.0000,110,"Basic Service Fee - Studio: Totten. Lyndon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Totten. Lyndon",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103517,1,2000.0000,2000,"New Resident Fee: Totten. Lyndon",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103517,1,25.0000,25,"Monthly Cable: Totten. Lyndon",,,,,,,,,,,,,,,

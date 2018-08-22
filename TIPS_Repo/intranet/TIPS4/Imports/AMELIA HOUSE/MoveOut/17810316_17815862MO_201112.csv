@@ -1,0 +1,8 @@
+BATCH,,201112,B,6662.0000,
+INVOICE,IN,,17810316,,12/14/2011,2256.0000,"Invoice-Private",,12/14/2011,12/14/2011,,17815862MO,-2150.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,16,84.0000,1344.00,"Basic Service Fee - Studio for Dec: Allan, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,16,57.0000,912.00,"Swan Personal Care - L4 for Dec: Allan, Theodore",,,,,,,,,,,,,,,
+INVOICE,CM,,17810316,,12/14/2011,4406,"Invoice-Private",,12/14/2011,12/14/2011,,17815862MO,-2150.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2604,2604,"CR:Basic Service F... T.Allan 201112: Allan, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212178,1,35,35,"CR:Monthly Cable... T.Allan 201112: Allan, Theodore",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,1767,1767,"CR:Swan Personal C... T.Allan 201112: Allan, Theodore",,,,,,,,,,,,,,,

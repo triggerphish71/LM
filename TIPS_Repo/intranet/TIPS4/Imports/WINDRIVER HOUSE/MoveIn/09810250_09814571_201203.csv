@@ -1,0 +1,5 @@
+BATCH,,201203,B,4021.3000,
+INVOICE,IN,,09810250,,03/05/2012,4021.3000,"MoveIn-Wills. Elaine",,03/05/2012,03/05/2012,,09814571,4021.3000,,,,,,,,,,
+TRANSACTION,3010,010103098,27,94.0000,2538,"Basic Service Fee - Studio: Wills. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3017,010103098,27,17.9000,483.3,"Resident Care - Level 10: Wills. Elaine",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103098,1,1000.0000,1000,"New Resident Fee: Wills. Elaine",,,,,,,,,,,,,,,

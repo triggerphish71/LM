@@ -1,0 +1,8 @@
+BATCH,,201107,B,4246.0000,
+INVOICE,IN,,19810247,,07/02/2011,372.0000,"Invoice-Private",,07/02/2011,07/02/2011,,19816260MO,-3502.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,3,64.0000,192.00,"Basic Service Fee AL - One Bedroom for Jul: Clark, James  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,3,60.0000,180.00,"Swan Personal Care - L3 for Jul: Clark, James  ",,,,,,,,,,,,,,,
+INVOICE,CM,,19810247,,07/02/2011,3874,"Invoice-Private",,07/02/2011,07/02/2011,,19816260MO,-3502.0000,,,,,,,,,,
+TRANSACTION,3020,010112198,1,1984,1984,"CR:Basic Service F... J.Clark 201107: Clark, James  ",,,,,,,,,,,,,,,
+TRANSACTION,3260,010112198,1,30,30,"CR:Monthly Cable... J.Clark 201107: Clark, James  ",,,,,,,,,,,,,,,
+TRANSACTION,3027,010112198,1,1860,1860,"CR:Swan Personal C... J.Clark 201107: Clark, James  ",,,,,,,,,,,,,,,

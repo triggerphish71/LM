@@ -1,0 +1,5 @@
+BATCH,,201303,B,5406.0000,
+INVOICE,IN,,08810251,,03/01/2013,5406.0000,"MoveIn-Wernette. George",,03/01/2013,03/01/2013,,08814627,5406.0000,,,,,,,,,,
+TRANSACTION,3010,010107088,31,97.0000,3007,"Basic Service Fee - Studio: Wernette. George",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107088,31,29.0000,899,"Resident Care - Level 2: Wernette. George",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107088,1,1500.0000,1500,"New Resident Fee: Wernette. George",,,,,,,,,,,,,,,

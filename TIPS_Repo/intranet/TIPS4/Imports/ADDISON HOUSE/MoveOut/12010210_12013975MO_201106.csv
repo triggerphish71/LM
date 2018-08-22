@@ -1,0 +1,6 @@
+BATCH,,201106,B,3030.0000,
+INVOICE,IN,,12010210,,06/01/2011,750.0000,"Invoice-Private",,06/01/2011,06/10/2011,,12013975MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3320,010309120,1,750.0000,750.00,"CR:Limited Term Di... S.Hankins 201106: Hankins, Steve",,,,,,,,,,,,,,,
+INVOICE,CM,,12010210,,06/01/2011,2280,"Invoice-Private",,06/01/2011,06/10/2011,,12013975MO,-2060.0000,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30,30,"CR:Monthly Cable... S.Hankins 201106: Hankins, Steve",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309120,1,2250,2250,"CR:Room and Board ... S.Hankins 201106: Hankins, Steve",,,,,,,,,,,,,,,

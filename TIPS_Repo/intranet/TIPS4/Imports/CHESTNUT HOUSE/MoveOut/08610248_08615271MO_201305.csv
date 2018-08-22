@@ -1,0 +1,7 @@
+BATCH,,201305,B,8280.0000,
+INVOICE,IN,,08610248,,05/12/2013,2576.0000,"Invoice-Private",,05/12/2013,05/12/2013,,08615271MO,-3128.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,14,125.0000,1750.00,"Basic Service Fee - One Bedroom for May: Bunning, Margaretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,14,59.0000,826.00,"Resident Care - Level 4 for May: Bunning, Margaretta",,,,,,,,,,,,,,,
+INVOICE,CM,,08610248,,05/12/2013,5704,"Invoice-Private",,05/12/2013,05/12/2013,,08615271MO,-3128.0000,,,,,,,,,,
+TRANSACTION,3020,010305086,1,3875,3875,"CR:Basic Service F... M.Bunning 201305: Bunning, Margaretta",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305086,1,1829,1829,"CR:Resident Care -... M.Bunning 201305: Bunning, Margaretta",,,,,,,,,,,,,,,

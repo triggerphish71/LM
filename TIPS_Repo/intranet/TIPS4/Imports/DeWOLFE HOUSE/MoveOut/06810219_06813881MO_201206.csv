@@ -1,0 +1,6 @@
+BATCH,,201206,B,3800.0000,
+INVOICE,IN,,06810219,,06/14/2012,1250.0000,"Invoice-Private",,06/14/2012,06/14/2012,,06813881MO,-1300.0000,,,,,,,,,,
+TRANSACTION,3320,010305068,1,60.0000,60.00,"CR:Limited Term Di... A.Dripps 201206: Dripps, Audrey",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305068,14,85.0000,1190.00,"Basic Service Fee - Studio for Jun: Dripps, Audrey",,,,,,,,,,,,,,,
+INVOICE,CM,,06810219,,06/14/2012,2550,"Invoice-Private",,06/14/2012,06/14/2012,,06813881MO,-1300.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2550,2550,"CR:Basic Service F... A.Dripps 201206: Dripps, Audrey",,,,,,,,,,,,,,,

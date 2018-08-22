@@ -1,0 +1,6 @@
+BATCH,,201301,B,3288.7900,
+INVOICE,IN,,16210128,,01/01/2013,95.7900,"Invoice-Private",,01/01/2013,01/10/2013,,16213103MO,-5061.4200,,,,,,,,,,
+TRANSACTION,3311,010211162,1,95.7900,95.79,"CR:Advance Payment... R.Wilcox 201301: Wilcox, Robert",,,,,,,,,,,,,,,
+INVOICE,CM,,16210128,,01/01/2013,3193,"Invoice-Private",,01/01/2013,01/10/2013,,16213103MO,-5061.4200,,,,,,,,,,
+TRANSACTION,3027,010211162,1,868,868,"CR:Resident Care -... R.Wilcox 201301: Wilcox, Robert",,,,,,,,,,,,,,,
+TRANSACTION,3020,010211162,1,2325,2325,"CR:Room and Board ... R.Wilcox 201301: Wilcox, Robert",,,,,,,,,,,,,,,

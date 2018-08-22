@@ -1,0 +1,5 @@
+BATCH,,201302,B,2325.0000,
+INVOICE,IN,,02510178,,02/09/2013,2325.0000,"MoveIn-Strickland. Forrest",,02/09/2013,02/09/2013,,02513423,2325.0000,,,,,,,,,,
+TRANSACTION,3010,010202025,20,85.0000,1700,"Basic Service Fee - Studio: Strickland. Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202025,20,30.0000,600,"Resident Care - Level 2: Strickland. Forrest",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202025,1,25.0000,25,"Monthly Cable: Strickland. Forrest",,,,,,,,,,,,,,,

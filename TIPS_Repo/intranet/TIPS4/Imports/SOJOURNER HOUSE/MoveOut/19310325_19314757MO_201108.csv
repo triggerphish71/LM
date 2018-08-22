@@ -1,0 +1,7 @@
+BATCH,,201108,B,190.0000,
+INVOICE,IN,,19310325,,08/01/2011,95.0000,"Invoice-Private",,08/01/2011,08/10/2011,,19314757MO,-3142.0000,,,,,,,,,,
+TRANSACTION,3241,010315193,1,10.0000,10.00,"HSG Meals: Whitcomb, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3299,010315193,1,85.0000,85.00,"Ancillary Rent: Whitcomb, Laura",,,,,,,,,,,,,,,
+INVOICE,CM,,19310325,,08/01/2011,95,"Invoice-Private",,08/01/2011,08/10/2011,,19314757MO,-3142.0000,,,,,,,,,,
+TRANSACTION,3241,010315193,1,10,10,"Credit for HSG Meals: Whitcomb, Laura",,,,,,,,,,,,,,,
+TRANSACTION,3299,010315193,1,85,85,"Credit for Ancillary Rent: Whitcomb, Laura",,,,,,,,,,,,,,,

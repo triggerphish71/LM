@@ -1,0 +1,8 @@
+BATCH,,201803,B,5917.4000,
+INVOICE,IN,,03610344,,03/08/2018,1208.0000,"Invoice-Private",,03/08/2018,03/08/2018,,03617591MO,-3501.4000,,,,,,,,,,
+TRANSACTION,3020,010002036,8,131.0000,1048.00,"Basic Service Fee - One Bedroom  for Mar: Backen, Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002036,8,20.0000,160.00,"Resident Care - Level 1  for Mar: Backen, Clinton",,,,,,,,,,,,,,,
+INVOICE,CM,,03610344,,03/08/2018,4709.4,"Invoice-Private",,03/08/2018,03/08/2018,,03617591MO,-3501.4000,,,,,,,,,,
+TRANSACTION,3020,010002036,1,4061,4061,"CR:Basic Service F... C.Backen 201803: Backen, Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3260,010002036,1,28.4,28.4,"CR:Monthly Cable... C.Backen 201803: Backen, Clinton",,,,,,,,,,,,,,,
+TRANSACTION,3027,010002036,1,620,620,"CR:Resident Care -... C.Backen 201803: Backen, Clinton",,,,,,,,,,,,,,,

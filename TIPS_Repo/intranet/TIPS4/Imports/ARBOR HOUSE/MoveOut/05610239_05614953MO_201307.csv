@@ -1,0 +1,8 @@
+BATCH,,201307,B,4358.0000,
+INVOICE,IN,,05610239,,07/30/2013,2130.0000,"Invoice-Private",,07/30/2013,07/30/2013,,05614953MO,-2326.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,30,55.0000,1650.00,"Basic Service Fee - Studio for Jul: Smith, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,30,16.0000,480.00,"Resident Care - Level 1 for Jul: Smith, Cecil",,,,,,,,,,,,,,,
+INVOICE,CM,,05610239,,07/30/2013,2228,"Invoice-Private",,07/30/2013,07/30/2013,,05614953MO,-2326.0000,,,,,,,,,,
+TRANSACTION,3020,010202056,1,1705,1705,"CR:Basic Service F... C.Smith 201307: Smith, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202056,1,27,27,"CR:Monthly Cable... C.Smith 201307: Smith, Cecil",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202056,1,496,496,"CR:Resident Care -... C.Smith 201307: Smith, Cecil",,,,,,,,,,,,,,,

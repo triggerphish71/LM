@@ -1,0 +1,5 @@
+BATCH,,201111,B,600.0000,
+INVOICE,IN,,50110220,,11/01/2011,300.0000,"Invoice-Private",,11/01/2011,11/10/2011,,50113716MO,-2756.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,30,10.0000,300.00,"Credit for Limited Term Discount: Brown, Joseph",,,,,,,,,,,,,,,
+INVOICE,CM,,50110220,,11/01/2011,300,"Invoice-Private",,11/01/2011,11/10/2011,,50113716MO,-2756.0000,,,,,,,,,,
+TRANSACTION,3320,010209501,30,10,300,"Limited Term Discount: Brown, Joseph",,,,,,,,,,,,,,,

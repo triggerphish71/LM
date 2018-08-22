@@ -1,0 +1,4 @@
+BATCH,,201202,B,1300.0000,
+INVOICE,IN,,13210279,,02/10/2012,1300.0000,"MoveIn-DeGiulo. Fred",,02/10/2012,02/10/2012,,13215298,1300.0000,,,,,,,,,,
+TRANSACTION,3010,010308132,20,35.0000,700,"Basic Service Fee - Second Resident: DeGiulo. Fred",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308132,20,30.0000,600,"Resident Care - Level 2: DeGiulo. Fred",,,,,,,,,,,,,,,

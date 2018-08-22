@@ -1,0 +1,7 @@
+BATCH,,201210,B,5884.0000,
+INVOICE,IN,,53110147,,10/01/2012,1178.0000,"Invoice-Private",,10/01/2012,10/10/2012,,53114282MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3320,010319531,1,1178.0000,1178.00,"CR:Limited Term Di... S.Linvik 201210: Linvik, Selmer",,,,,,,,,,,,,,,
+INVOICE,CM,,53110147,,10/01/2012,4706,"Invoice-Private",,10/01/2012,10/10/2012,,53114282MO,-3528.0000,,,,,,,,,,
+TRANSACTION,3020,010319531,1,3038,3038,"CR:Basic Service F... S.Linvik 201210: Linvik, Selmer",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319531,1,25,25,"CR:Pendant Fee... S.Linvik 201210: Linvik, Selmer",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319531,1,1643,1643,"CR:Resident Care -... S.Linvik 201210: Linvik, Selmer",,,,,,,,,,,,,,,

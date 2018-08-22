@@ -1,0 +1,5 @@
+BATCH,,201206,B,6750.0000,
+INVOICE,IN,,19510241,,06/06/2012,6750.0000,"MoveIn-Gray. Phyllis",,06/06/2012,06/06/2012,,19514408,6750.0000,,,,,,,,,,
+TRANSACTION,3010,010309195,25,94.0000,2350,"Basic Service Fee - Studio: Gray. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309195,25,36.0000,900,"Resident Care - Level 2: Gray. Phyllis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309195,1,3500.0000,3500,"New Resident Fee: Gray. Phyllis",,,,,,,,,,,,,,,

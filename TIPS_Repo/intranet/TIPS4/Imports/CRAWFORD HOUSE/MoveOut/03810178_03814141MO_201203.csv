@@ -1,0 +1,8 @@
+BATCH,,201203,B,3171.2400,
+INVOICE,IN,,03810178,,03/01/2012,98.3200,"Invoice-Private",,03/01/2012,03/10/2012,,03814141MO,-2974.6000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,84.0000,84.00,"Basic Service Fee - Studio for Mar: Tunzi, Rocco",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,14.3200,14.32,"Resident Care - Level 8 for Mar: Tunzi, Rocco",,,,,,,,,,,,,,,
+INVOICE,CM,,03810178,,03/01/2012,3072.92,"Invoice-Private",,03/01/2012,03/10/2012,,03814141MO,-2974.6000,,,,,,,,,,
+TRANSACTION,3020,010103038,1,2604,2604,"CR:Basic Service F... R.Tunzi 201203: Tunzi, Rocco",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103038,1,25,25,"CR:Monthly Cable... R.Tunzi 201203: Tunzi, Rocco",,,,,,,,,,,,,,,
+TRANSACTION,3027,010103038,1,443.92,443.92,"CR:Resident Care -... R.Tunzi 201203: Tunzi, Rocco",,,,,,,,,,,,,,,

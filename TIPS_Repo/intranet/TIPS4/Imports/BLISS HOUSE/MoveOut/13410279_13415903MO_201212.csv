@@ -1,0 +1,7 @@
+BATCH,,201212,B,4578.0000,
+INVOICE,IN,,13410279,,12/01/2012,1199.0000,"Invoice-Private",,12/01/2012,12/10/2012,,13415903MO,-5594.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,11,92.0000,1012.00,"Basic Service Fee - Studio for Dec: Heady, Morris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,11,17.0000,187.00,"Resident Care - Level 1 for Dec: Heady, Morris",,,,,,,,,,,,,,,
+INVOICE,CM,,13410279,,12/01/2012,3379,"Invoice-Private",,12/01/2012,12/10/2012,,13415903MO,-5594.0000,,,,,,,,,,
+TRANSACTION,3020,010309134,1,2852,2852,"CR:Basic Service F... M.Heady 201212: Heady, Morris",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309134,1,527,527,"CR:Resident Care -... M.Heady 201212: Heady, Morris",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201209,B,5092.0000,
+INVOICE,IN,,07010223,,09/08/2012,1072.0000,"Invoice-Private",,09/08/2012,09/08/2012,,07014485MO,-2948.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,8,89.0000,712.00,"Basic Service Fee - Studio for Sep: Meyer, Duane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,8,45.0000,360.00,"Resident Care - Level 3 for Sep: Meyer, Duane",,,,,,,,,,,,,,,
+INVOICE,CM,,07010223,,09/08/2012,4020,"Invoice-Private",,09/08/2012,09/08/2012,,07014485MO,-2948.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2670,2670,"CR:Basic Service F... D.Meyer 201209: Meyer, Duane",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,1350,1350,"CR:Resident Care -... D.Meyer 201209: Meyer, Duane",,,,,,,,,,,,,,,

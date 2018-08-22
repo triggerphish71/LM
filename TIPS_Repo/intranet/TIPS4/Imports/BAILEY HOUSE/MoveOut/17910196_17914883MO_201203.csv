@@ -1,0 +1,8 @@
+BATCH,,201203,B,5135.0000,
+INVOICE,IN,,17910196,,03/01/2012,2159.0000,"Invoice-Private",,03/01/2012,03/10/2012,,17914883MO,-817.0000,,,,,,,,,,
+TRANSACTION,3320,010313179,1,527.0000,527.00,"CR:Limited Term Di... H.Kelly 201203: Kelly, Herman",,,,,,,,,,,,,,,
+TRANSACTION,3020,010313179,17,82.0000,1394.00,"Basic Service Fee - Studio for Mar: Kelly, Herman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,17,14.0000,238.00,"Resident Care - Level 1 for Mar: Kelly, Herman",,,,,,,,,,,,,,,
+INVOICE,CM,,17910196,,03/01/2012,2976,"Invoice-Private",,03/01/2012,03/10/2012,,17914883MO,-817.0000,,,,,,,,,,
+TRANSACTION,3020,010313179,1,2542,2542,"CR:Basic Service F... H.Kelly 201203: Kelly, Herman",,,,,,,,,,,,,,,
+TRANSACTION,3027,010313179,1,434,434,"CR:Resident Care -... H.Kelly 201203: Kelly, Herman",,,,,,,,,,,,,,,

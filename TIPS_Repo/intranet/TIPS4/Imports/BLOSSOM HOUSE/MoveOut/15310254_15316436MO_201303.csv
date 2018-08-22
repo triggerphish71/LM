@@ -1,0 +1,7 @@
+BATCH,,201303,B,6228.0000,
+INVOICE,IN,,15310254,,03/09/2013,1401.3000,"Invoice-Private",,03/09/2013,03/09/2013,,15316436MO,-3425.4000,,,,,,,,,,
+TRANSACTION,3027,010103153,9,40.7000,366.30,"Resident Care - Level 22 for Mar: Armstrong, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,9,115.0000,1035.00,"Room and Board - One Bedroom for Mar: Armstrong, Florence",,,,,,,,,,,,,,,
+INVOICE,CM,,15310254,,03/09/2013,4826.7,"Invoice-Private",,03/09/2013,03/09/2013,,15316436MO,-3425.4000,,,,,,,,,,
+TRANSACTION,3027,010103153,1,1261.7,1261.7,"CR:Resident Care -... F.Armstrong 201303: Armstrong, Florence",,,,,,,,,,,,,,,
+TRANSACTION,3020,010103153,1,3565,3565,"CR:Room and Board ... F.Armstrong 201303: Armstrong, Florence",,,,,,,,,,,,,,,

@@ -1,0 +1,7 @@
+BATCH,,201211,B,4752.0000,
+INVOICE,IN,,09210264,,11/01/2012,1512.0000,"Invoice-Private",,11/01/2012,11/10/2012,,09214967MO,-1728.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,14,92.0000,1288.00,"Basic Service Fee - Deluxe for Nov: Hollon, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,14,16.0000,224.00,"Resident Care - Level 1 for Nov: Hollon, Willie",,,,,,,,,,,,,,,
+INVOICE,CM,,09210264,,11/01/2012,3240,"Invoice-Private",,11/01/2012,11/10/2012,,09214967MO,-1728.0000,,,,,,,,,,
+TRANSACTION,3020,010305092,1,2760,2760,"CR:Basic Service F... W.Hollon 201211: Hollon, Willie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305092,1,480,480,"CR:Resident Care -... W.Hollon 201211: Hollon, Willie",,,,,,,,,,,,,,,

@@ -1,0 +1,8 @@
+BATCH,,201302,B,7160.0000,
+INVOICE,IN,,21610212,,02/22/2013,3220.0000,"Invoice-Private",,02/22/2013,02/22/2013,,21614003MO,-5080.0000,,,,,,,,,,
+TRANSACTION,3027,010216216,23,42.0000,966.00,"Resident Care - Level 4 for Feb: Yentsch, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,23,98.0000,2254.00,"Room and Board - Studio Deluxe for Feb: Yentsch, Imogene",,,,,,,,,,,,,,,
+INVOICE,CM,,21610212,,02/22/2013,3940,"Invoice-Private",,02/22/2013,02/22/2013,,21614003MO,-5080.0000,,,,,,,,,,
+TRANSACTION,3130,010216216,1,20,20,"CR:Pendant Fee... I.Yentsch 201302: Yentsch, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3027,010216216,1,1176,1176,"CR:Resident Care -... I.Yentsch 201302: Yentsch, Imogene",,,,,,,,,,,,,,,
+TRANSACTION,3020,010216216,1,2744,2744,"CR:Room and Board ... I.Yentsch 201302: Yentsch, Imogene",,,,,,,,,,,,,,,

@@ -1,0 +1,5 @@
+BATCH,,201109,B,1140.0000,
+INVOICE,IN,,02610104,,09/01/2011,570.0000,"Invoice-Private",,09/01/2011,09/10/2011,,02614452MO,-1769.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,30,19.0000,570.00,"Credit for Limited Term Discount: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,02610104,,09/01/2011,570,"Invoice-Private",,09/01/2011,09/10/2011,,02614452MO,-1769.0000,,,,,,,,,,
+TRANSACTION,3320,010202026,30,19,570,"Limited Term Discount: Minchew, Mary Ethelyn",,,,,,,,,,,,,,,

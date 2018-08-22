@@ -1,0 +1,5 @@
+BATCH,,201205,B,2824.0000,
+INVOICE,IN,,12010249,,05/09/2012,2824.0000,"MoveIn-Carnes. Frank",,05/09/2012,05/09/2012,,12014404,2824.0000,,,,,,,,,,
+TRANSACTION,3010,010309120,23,78.0000,1794,"Basic Service Fee - Studio: Carnes. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309120,1,30.0000,30,"Monthly Cable: Carnes. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309120,1,1000.0000,1000,"New Resident Fee: Carnes. Frank",,,,,,,,,,,,,,,

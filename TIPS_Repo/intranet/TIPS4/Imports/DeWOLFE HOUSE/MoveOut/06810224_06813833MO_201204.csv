@@ -1,0 +1,7 @@
+BATCH,,201204,B,5858.0000,
+INVOICE,IN,,06810224,,04/01/2012,2828.0000,"Invoice-Private",,04/01/2012,04/10/2012,,06813833MO,-202.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,28,85.0000,2380.00,"Basic Service Fee - Studio for Apr: Cook, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,28,16.0000,448.00,"Resident Care - Level 1 for Apr: Cook, Harold",,,,,,,,,,,,,,,
+INVOICE,CM,,06810224,,04/01/2012,3030,"Invoice-Private",,04/01/2012,04/10/2012,,06813833MO,-202.0000,,,,,,,,,,
+TRANSACTION,3020,010305068,1,2550,2550,"CR:Basic Service F... H.Cook 201204: Cook, Harold",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305068,1,480,480,"CR:Resident Care -... H.Cook 201204: Cook, Harold",,,,,,,,,,,,,,,

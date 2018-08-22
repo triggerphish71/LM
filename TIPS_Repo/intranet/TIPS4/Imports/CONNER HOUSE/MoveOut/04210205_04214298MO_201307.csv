@@ -1,0 +1,7 @@
+BATCH,,201307,B,4368.0000,
+INVOICE,IN,,04210205,,07/08/2013,896.0000,"Invoice-Private",,07/08/2013,07/08/2013,,04214298MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,8,95.0000,760.00,"Basic Service Fee - One Bedroom for Jul: Johnson, Delos",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,8,17.0000,136.00,"Resident Care - Level 1 for Jul: Johnson, Delos",,,,,,,,,,,,,,,
+INVOICE,CM,,04210205,,07/08/2013,3472,"Invoice-Private",,07/08/2013,07/08/2013,,04214298MO,-2576.0000,,,,,,,,,,
+TRANSACTION,3020,010202042,1,2945,2945,"CR:Basic Service F... D.Johnson 201307: Johnson, Delos",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202042,1,527,527,"CR:Resident Care -... D.Johnson 201307: Johnson, Delos",,,,,,,,,,,,,,,

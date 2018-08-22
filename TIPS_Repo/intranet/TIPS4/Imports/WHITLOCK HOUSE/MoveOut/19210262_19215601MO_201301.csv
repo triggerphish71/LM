@@ -1,0 +1,8 @@
+BATCH,,201301,B,7681.0000,
+INVOICE,IN,,19210262,,01/08/2013,2783.0000,"Invoice-Private",,01/08/2013,01/08/2013,,19215601MO,-2115.0000,,,,,,,,,,
+TRANSACTION,3320,010309192,1,1519.0000,1519.00,"CR:Limited Term Di... R.Craig 201301: Craig, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309192,8,114.0000,912.00,"Basic Service Fee - Studio for Jan: Craig, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,8,44.0000,352.00,"Resident Care - Level 3 for Jan: Craig, Rebecca",,,,,,,,,,,,,,,
+INVOICE,CM,,19210262,,01/08/2013,4898,"Invoice-Private",,01/08/2013,01/08/2013,,19215601MO,-2115.0000,,,,,,,,,,
+TRANSACTION,3020,010309192,1,3534,3534,"CR:Basic Service F... R.Craig 201301: Craig, Rebecca",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309192,1,1364,1364,"CR:Resident Care -... R.Craig 201301: Craig, Rebecca",,,,,,,,,,,,,,,

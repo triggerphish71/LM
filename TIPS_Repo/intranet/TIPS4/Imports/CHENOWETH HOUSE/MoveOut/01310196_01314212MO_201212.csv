@@ -1,0 +1,5 @@
+BATCH,,201212,B,56.0000,
+INVOICE,IN,,01310196,,12/01/2012,28.0000,"Invoice-Private",,12/01/2012,12/10/2012,,01314212MO,-2986.9300,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28.0000,28.00,"Monthly Cable: Hall, Hildegard",,,,,,,,,,,,,,,
+INVOICE,CM,,01310196,,12/01/2012,28,"Invoice-Private",,12/01/2012,12/10/2012,,01314212MO,-2986.9300,,,,,,,,,,
+TRANSACTION,3260,010103013,1,28,28,"Credit for Monthly Cable: Hall, Hildegard",,,,,,,,,,,,,,,

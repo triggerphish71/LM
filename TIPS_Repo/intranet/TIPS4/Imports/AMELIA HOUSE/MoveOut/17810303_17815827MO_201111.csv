@@ -1,0 +1,8 @@
+BATCH,,201111,B,4623.0000,
+INVOICE,IN,,17810303,,11/01/2011,393.0000,"Invoice-Private",,11/01/2011,11/01/2011,,17815827MO,-3837.0000,,,,,,,,,,
+TRANSACTION,3312,010212178,1,252.0000,252.00,"CR:Two Room Rental... D.Ruehlman 201111: Ruehlman, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3020,010212178,1,84.0000,84.00,"Basic Service Fee - Studio for Nov: Ruehlman, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,57.0000,57.00,"Swan Personal Care - L4 for Nov: Ruehlman, Donald",,,,,,,,,,,,,,,
+INVOICE,CM,,17810303,,11/01/2011,4230,"Invoice-Private",,11/01/2011,11/01/2011,,17815827MO,-3837.0000,,,,,,,,,,
+TRANSACTION,3020,010212178,1,2520,2520,"CR:Basic Service F... D.Ruehlman 201111: Ruehlman, Donald",,,,,,,,,,,,,,,
+TRANSACTION,3027,010212178,1,1710,1710,"CR:Swan Personal C... D.Ruehlman 201111: Ruehlman, Donald",,,,,,,,,,,,,,,

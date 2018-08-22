@@ -1,0 +1,7 @@
+BATCH,,201112,B,8967.0000,
+INVOICE,IN,,07110140,,12/18/2011,3294.0000,"Invoice-Private",,12/18/2011,12/18/2011,,07114143MO,-8207.0000,,,,,,,,,,
+TRANSACTION,3027,010305071,18,71.0000,1278.00,"Resident Care - Level 5 for Dec: Holland, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,18,112.0000,2016.00,"Room and Board - One Bedroom for Dec: Holland, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07110140,,12/18/2011,5673,"Invoice-Private",,12/18/2011,12/18/2011,,07114143MO,-8207.0000,,,,,,,,,,
+TRANSACTION,3027,010305071,1,2201,2201,"CR:Resident Care -... E.Holland 201112: Holland, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3020,010305071,1,3472,3472,"CR:Room and Board ... E.Holland 201112: Holland, Evelyn",,,,,,,,,,,,,,,

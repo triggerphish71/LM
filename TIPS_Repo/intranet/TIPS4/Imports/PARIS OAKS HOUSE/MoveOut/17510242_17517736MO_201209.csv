@@ -1,0 +1,8 @@
+BATCH,,201209,B,4713.0000,
+INVOICE,IN,,17510242,,09/17/2012,1743.0000,"Invoice-Private",,09/17/2012,09/17/2012,,17517736MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3320,010202175,1,60.0000,60.00,"CR:Limited Term Di... A.Wacasey 201209: Wacasey, A.V.",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202175,17,76.0000,1292.00,"Basic Service Fee - Studio Deluxe for Sep: Wacasey, A.V.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,17,23.0000,391.00,"Resident Care - Level 2 for Sep: Wacasey, A.V.",,,,,,,,,,,,,,,
+INVOICE,CM,,17510242,,09/17/2012,2970,"Invoice-Private",,09/17/2012,09/17/2012,,17517736MO,-4234.0000,,,,,,,,,,
+TRANSACTION,3020,010202175,1,2280,2280,"CR:Basic Service F... A.Wacasey 201209: Wacasey, A.V.",,,,,,,,,,,,,,,
+TRANSACTION,3027,010202175,1,690,690,"CR:Resident Care -... A.Wacasey 201209: Wacasey, A.V.",,,,,,,,,,,,,,,

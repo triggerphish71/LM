@@ -1,0 +1,7 @@
+BATCH,,201112,B,5760.0000,
+INVOICE,IN,,13610259,,12/03/2011,1296.0000,"Invoice-Private",,12/03/2011,12/03/2011,,13614377MO,-3168.0000,,,,,,,,,,
+TRANSACTION,3027,010309136,9,70.0000,630.00,"Resident Care - Level 5 for Dec: Glover, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309136,9,74.0000,666.00,"Room and Board - One Bedroom Premium for Dec: Glover, Elizabeth",,,,,,,,,,,,,,,
+INVOICE,CM,,13610259,,12/03/2011,4464,"Invoice-Private",,12/03/2011,12/03/2011,,13614377MO,-3168.0000,,,,,,,,,,
+TRANSACTION,3027,010309136,1,2170,2170,"CR:Resident Care -... E.Glover 201112: Glover, Elizabeth",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309136,1,2294,2294,"CR:Room and Board ... E.Glover 201112: Glover, Elizabeth",,,,,,,,,,,,,,,

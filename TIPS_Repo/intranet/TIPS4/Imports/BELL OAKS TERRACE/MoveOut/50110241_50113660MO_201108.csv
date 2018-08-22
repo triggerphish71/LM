@@ -1,0 +1,6 @@
+BATCH,,201108,B,4650.0000,
+INVOICE,IN,,50110241,,08/19/2011,2016.0000,"Invoice-Private",,08/19/2011,08/19/2011,,50113660MO,-3138.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,24,84.0000,2016.00,"F.Kline: Basic Service Fee - Studio for Aug: Kline, Frank",,,,,,,,,,,,,,,
+INVOICE,CM,,50110241,,08/19/2011,2634,"Invoice-Private",,08/19/2011,08/19/2011,,50113660MO,-3138.0000,,,,,,,,,,
+TRANSACTION,3020,010209501,1,2604,2604,"CR:F.Kline: Basic ... F.Kline 201108: Kline, Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010209501,1,30,30,"CR:Monthly Cable... F.Kline 201108: Kline, Frank",,,,,,,,,,,,,,,

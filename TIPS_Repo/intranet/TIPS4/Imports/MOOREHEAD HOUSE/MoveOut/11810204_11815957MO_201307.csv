@@ -1,0 +1,7 @@
+BATCH,,201307,B,4587.0000,
+INVOICE,IN,,11810204,,07/02/2013,278.0000,"Invoice-Private",,07/02/2013,07/02/2013,,11815957MO,-4031.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,2,102.0000,204.00,"Basic Service Fee - Studio for Jul: Davies, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,2,37.0000,74.00,"Resident Care - Level 2 for Jul: Davies, Patricia",,,,,,,,,,,,,,,
+INVOICE,CM,,11810204,,07/02/2013,4309,"Invoice-Private",,07/02/2013,07/02/2013,,11815957MO,-4031.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,3162,3162,"CR:Basic Service F... P.Davies 201307: Davies, Patricia",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1147,1147,"CR:Resident Care -... P.Davies 201307: Davies, Patricia",,,,,,,,,,,,,,,

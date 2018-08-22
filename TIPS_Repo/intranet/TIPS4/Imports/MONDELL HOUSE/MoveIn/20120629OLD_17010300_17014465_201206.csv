@@ -1,0 +1,6 @@
+BATCH,,201206,B,2341.0000,
+INVOICE,IN,,17010300,,06/29/2012,2341.0000,"MoveIn-Stoops. Thelma",,06/29/2012,06/29/2012,,17014465,5764.0000,,,,,,,,,,
+TRANSACTION,3010,010107170,2,107.0000,214,"Basic Service Fee - One Bedroom: Stoops. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107170,2,51.0000,102,"Resident Care - Level 4: Stoops. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107170,1,25.0000,25,"Monthly Cable: Stoops. Thelma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107170,1,2000.0000,2000,"New Resident Fee: Stoops. Thelma",,,,,,,,,,,,,,,

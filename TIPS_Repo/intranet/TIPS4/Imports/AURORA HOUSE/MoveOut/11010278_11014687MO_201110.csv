@@ -1,0 +1,6 @@
+BATCH,,201110,B,4216.0000,
+INVOICE,IN,,11010278,,10/01/2011,589.0000,"Invoice-Private",,10/01/2011,10/10/2011,,11014687MO,-3755.0000,,,,,,,,,,
+TRANSACTION,3320,010107110,1,589.0000,589.00,"CR:Limited Term Di... M.McCurdy 201110: McCurdy, Minnie",,,,,,,,,,,,,,,
+INVOICE,CM,,11010278,,10/01/2011,3627,"Invoice-Private",,10/01/2011,10/10/2011,,11014687MO,-3755.0000,,,,,,,,,,
+TRANSACTION,3020,010107110,1,2821,2821,"CR:Basic Service F... M.McCurdy 201110: McCurdy, Minnie",,,,,,,,,,,,,,,
+TRANSACTION,3027,010107110,1,806,806,"CR:Resident Care -... M.McCurdy 201110: McCurdy, Minnie",,,,,,,,,,,,,,,

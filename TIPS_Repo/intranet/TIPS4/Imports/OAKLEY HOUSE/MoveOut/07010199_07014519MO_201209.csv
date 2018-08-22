@@ -1,0 +1,8 @@
+BATCH,,201209,B,8930.0000,
+INVOICE,IN,,07010199,,09/25/2012,4050.0000,"Invoice-Private",,09/25/2012,09/25/2012,,07014519MO,-5872.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,25,89.0000,2225.00,"Basic Service Fee - Studio for Sep: Hall, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,25,73.0000,1825.00,"Resident Care - Level 6 for Sep: Hall, Evelyn",,,,,,,,,,,,,,,
+INVOICE,CM,,07010199,,09/25/2012,4880,"Invoice-Private",,09/25/2012,09/25/2012,,07014519MO,-5872.0000,,,,,,,,,,
+TRANSACTION,3020,010305070,1,2670,2670,"CR:Basic Service F... E.Hall 201209: Hall, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305070,1,20,20,"CR:Monthly Cable... E.Hall 201209: Hall, Evelyn",,,,,,,,,,,,,,,
+TRANSACTION,3027,010305070,1,2190,2190,"CR:Resident Care -... E.Hall 201209: Hall, Evelyn",,,,,,,,,,,,,,,

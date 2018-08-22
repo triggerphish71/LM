@@ -1,0 +1,7 @@
+BATCH,,201204,B,4800.0000,
+INVOICE,IN,,16710221,,04/01/2012,60.0000,"Invoice-Private",,04/01/2012,04/10/2012,,16713800MO,-6375.0000,,,,,,,,,,
+TRANSACTION,3320,010211167,1,60.0000,60.00,"CR:Limited Term Di... O.Klundt 201204: Klundt, Otto",,,,,,,,,,,,,,,
+INVOICE,CM,,16710221,,04/01/2012,4740,"Invoice-Private",,04/01/2012,04/10/2012,,16713800MO,-6375.0000,,,,,,,,,,
+TRANSACTION,3020,010211167,1,2730,2730,"CR:Basic Service F... O.Klundt 201204: Klundt, Otto",,,,,,,,,,,,,,,
+TRANSACTION,3260,010211167,1,30,30,"CR:Monthly Cable... O.Klundt 201204: Klundt, Otto",,,,,,,,,,,,,,,
+TRANSACTION,3027,010211167,1,1980,1980,"CR:Resident Care -... O.Klundt 201204: Klundt, Otto",,,,,,,,,,,,,,,

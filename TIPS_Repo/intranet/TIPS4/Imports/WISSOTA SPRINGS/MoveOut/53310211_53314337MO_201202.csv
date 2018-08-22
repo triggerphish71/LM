@@ -1,0 +1,8 @@
+BATCH,,201202,B,4822.0000,
+INVOICE,IN,,53310211,,02/01/2012,1404.0000,"Invoice-Private",,02/01/2012,02/10/2012,,53314337MO,-2014.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,12,89.0000,1068.00,"Basic Service Fee - Studio for Feb: Nichols, Emeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,12,28.0000,336.00,"Resident Care - Level 2 for Feb: Nichols, Emeline",,,,,,,,,,,,,,,
+INVOICE,CM,,53310211,,02/01/2012,3418,"Invoice-Private",,02/01/2012,02/10/2012,,53314337MO,-2014.0000,,,,,,,,,,
+TRANSACTION,3020,010319533,1,2581,2581,"CR:Basic Service F... E.Nichols 201202: Nichols, Emeline",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319533,1,25,25,"CR:Pendant Fee... E.Nichols 201202: Nichols, Emeline",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319533,1,812,812,"CR:Resident Care -... E.Nichols 201202: Nichols, Emeline",,,,,,,,,,,,,,,

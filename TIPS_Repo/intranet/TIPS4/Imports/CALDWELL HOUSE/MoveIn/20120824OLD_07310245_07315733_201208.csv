@@ -1,0 +1,6 @@
+BATCH,,201208,B,3036.0000,
+INVOICE,IN,,07310245,,08/24/2012,3036.0000,"MoveIn-Millhouse. Carol",,08/24/2012,08/24/2012,,07315733,6866.0000,,,,,,,,,,
+TRANSACTION,3010,010305073,8,110.0000,880,"Basic Service Fee - Deluxe: Millhouse. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305073,8,17.0000,136,"Resident Care - Level 1: Millhouse. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305073,1,20.0000,20,"Monthly Cable: Millhouse. Carol",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305073,1,2000.0000,2000,"New Resident Fee: Millhouse. Carol",,,,,,,,,,,,,,,

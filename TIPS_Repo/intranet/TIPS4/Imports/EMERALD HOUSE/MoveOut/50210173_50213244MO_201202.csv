@@ -1,0 +1,5 @@
+BATCH,,201202,B,50.0000,
+INVOICE,IN,,50210173,,02/01/2012,25.0000,"Invoice-Private",,02/01/2012,02/10/2012,,50213244MO,-5729.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25.0000,25.00,"Monthly Cable: Fisher, Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,50210173,,02/01/2012,25,"Invoice-Private",,02/01/2012,02/10/2012,,50213244MO,-5729.0000,,,,,,,,,,
+TRANSACTION,3260,010209502,1,25,25,"Credit for Monthly Cable: Fisher, Alice",,,,,,,,,,,,,,,

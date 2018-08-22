@@ -1,0 +1,5 @@
+BATCH,,201307,B,1596.0000,
+INVOICE,IN,,53410476,,07/28/2013,684.0000,"Invoice-Private",,07/28/2013,07/28/2013,,53422661MO,-2584.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,9,76.0000,684.00,"Basic Service Fee - One Bedroom for Jul: Lengfeld, Caroline",,,,,,,,,,,,,,,
+INVOICE,CM,,53410476,,07/28/2013,912,"Invoice-Private",,07/28/2013,07/28/2013,,53422661MO,-2584.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,912,912,"CR:Basic Service F... C.Lengfeld 201307: Lengfeld, Caroline",,,,,,,,,,,,,,,

@@ -1,0 +1,6 @@
+BATCH,,201212,B,4309.0000,
+INVOICE,IN,,21210154,,12/01/2012,434.0000,"Invoice-Private",,12/01/2012,12/10/2012,,21212846MO,-4146.0000,,,,,,,,,,
+TRANSACTION,3320,010208212,1,434.0000,434.00,"CR:Limited Term Di... R.Whitmire 201212: Whitmire, Rilla",,,,,,,,,,,,,,,
+INVOICE,CM,,21210154,,12/01/2012,3875,"Invoice-Private",,12/01/2012,12/10/2012,,21212846MO,-4146.0000,,,,,,,,,,
+TRANSACTION,3027,010208212,1,1333,1333,"CR:Resident Care -... R.Whitmire 201212: Whitmire, Rilla",,,,,,,,,,,,,,,
+TRANSACTION,3020,010208212,1,2542,2542,"CR:Studio... R.Whitmire 201212: Whitmire, Rilla",,,,,,,,,,,,,,,

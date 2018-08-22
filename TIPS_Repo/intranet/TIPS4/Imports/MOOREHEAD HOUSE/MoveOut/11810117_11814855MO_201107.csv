@@ -1,0 +1,7 @@
+BATCH,,201107,B,4969.0000,
+INVOICE,IN,,11810117,,07/01/2011,62.0000,"Invoice-Private",,07/01/2011,07/10/2011,,11814855MO,-4845.0000,,,,,,,,,,
+TRANSACTION,3320,010310118,1,62.0000,62.00,"CR:Limited Term Di... A.Mauro 201107: Mauro, Albert",,,,,,,,,,,,,,,
+INVOICE,CM,,11810117,,07/01/2011,4907,"Invoice-Private",,07/01/2011,07/10/2011,,11814855MO,-4845.0000,,,,,,,,,,
+TRANSACTION,3020,010310118,1,2976,2976,"CR:Basic Service F... A.Mauro 201107: Mauro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310118,1,40,40,"CR:Monthly Cable... A.Mauro 201107: Mauro, Albert",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310118,1,1891,1891,"CR:Resident Care -... A.Mauro 201107: Mauro, Albert",,,,,,,,,,,,,,,

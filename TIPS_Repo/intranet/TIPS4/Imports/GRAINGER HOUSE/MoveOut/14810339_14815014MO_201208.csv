@@ -1,0 +1,8 @@
+BATCH,,201208,B,7946.0000,
+INVOICE,IN,,14810339,,08/11/2012,2676.0000,"Invoice-Private",,08/11/2012,08/11/2012,,14815014MO,-6914.0000,,,,,,,,,,
+TRANSACTION,3320,010310148,1,806.0000,806.00,"CR:Limited Term Di... M.Colapietro 201208: Colapietro, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3020,010310148,11,91.0000,1001.00,"Basic Service Fee - Studio for Aug: Colapietro, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,11,79.0000,869.00,"Resident Care - Level 6 for Aug: Colapietro, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,14810339,,08/11/2012,5270,"Invoice-Private",,08/11/2012,08/11/2012,,14815014MO,-6914.0000,,,,,,,,,,
+TRANSACTION,3020,010310148,1,2821,2821,"CR:Basic Service F... M.Colapietro 201208: Colapietro, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3027,010310148,1,2449,2449,"CR:Resident Care -... M.Colapietro 201208: Colapietro, Martha",,,,,,,,,,,,,,,

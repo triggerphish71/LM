@@ -1,0 +1,5 @@
+BATCH,,201201,B,3467.0000,
+INVOICE,IN,,11910244,,01/01/2012,3467.0000,"January_Rent-Pegge. Robert",,01/01/2012,01/10/2012,,11915541,5937.0000,,,,,,,,,,
+TRANSACTION,3010,010310119,31,93.0000,2883,"Basic Service Fee - Studio: Pegge. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310119,31,18.0000,558,"Resident Care - Level 1: Pegge. Robert",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310119,1,26.0000,26,"Monthly Cable: Pegge. Robert",,,,,,,,,,,,,,,

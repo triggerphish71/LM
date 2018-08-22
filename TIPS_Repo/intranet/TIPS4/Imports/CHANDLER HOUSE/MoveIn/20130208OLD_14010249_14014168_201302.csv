@@ -1,0 +1,6 @@
+BATCH,,201302,B,3071.0000,
+INVOICE,IN,,14010249,,02/08/2013,3071.0000,"MoveIn-Traster. Dorothy",,02/08/2013,02/08/2013,,14014168,3071.0000,,,,,,,,,,
+TRANSACTION,3010,010309140,21,88.0000,1848,"Basic Service Fee - Studio: Traster. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3017,010309140,21,33.0000,693,"Resident Care - Level 2: Traster. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3260,010309140,1,30.0000,30,"Monthly Cable: Traster. Dorothy",,,,,,,,,,,,,,,
+TRANSACTION,3216,010309140,1,500.0000,500,"New Resident Fee: Traster. Dorothy",,,,,,,,,,,,,,,

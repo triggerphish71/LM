@@ -1,0 +1,6 @@
+BATCH,,201206,B,1765.0000,
+INVOICE,IN,,03410295,,06/29/2012,1765.0000,"MoveIn-Odom. Jack",,06/29/2012,06/29/2012,,03415599,5481.0000,,,,,,,,,,
+TRANSACTION,3010,010202034,2,96.0000,192,"Basic Service Fee - Studio: Odom. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202034,2,23.0000,46,"Resident Care - Level 2: Odom. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202034,1,27.0000,27,"Monthly Cable: Odom. Jack",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202034,1,1500.0000,1500,"New Resident Fee: Odom. Jack",,,,,,,,,,,,,,,

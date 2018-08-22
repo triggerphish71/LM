@@ -1,0 +1,7 @@
+BATCH,,201806,B,5622.6000,
+INVOICE,IN,,50510303,,06/01/2018,450.0000,"Invoice-Private",,06/01/2018,06/10/2018,,50515152MO,-6139.3800,,,,,,,,,,
+TRANSACTION,3027,010005505,1,450.0000,450.00,"CR:Resident Care L... K.Sargent 201806: Sargent, Katherine",,,,,,,,,,,,,,,
+INVOICE,CM,,50510303,,06/01/2018,5172.6,"Invoice-Private",,06/01/2018,06/10/2018,,50515152MO,-6139.3800,,,,,,,,,,
+TRANSACTION,3020,010005505,1,2862.6,2862.6,"CR:Basic Service F... K.Sargent 201806: Sargent, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,1440,1440,"CR:Resident Care -... K.Sargent 201806: Sargent, Katherine",,,,,,,,,,,,,,,
+TRANSACTION,3027,010005505,1,870,870,"CR:Resident Care L... K.Sargent 201806: Sargent, Katherine",,,,,,,,,,,,,,,

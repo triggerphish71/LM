@@ -1,0 +1,7 @@
+BATCH,,201206,B,1560.0000,
+INVOICE,IN,,14910171,,06/01/2012,780.0000,"Invoice-Private",,06/01/2012,06/10/2012,,14914662MO,-5177.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,30,25.0000,750.00,"Credit for Limited Term Discount: Lee, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30.0000,30.00,"Monthly Cable: Lee, Shirley",,,,,,,,,,,,,,,
+INVOICE,CM,,14910171,,06/01/2012,780,"Invoice-Private",,06/01/2012,06/10/2012,,14914662MO,-5177.0000,,,,,,,,,,
+TRANSACTION,3320,010212149,30,25,750,"Limited Term Discount: Lee, Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3260,010212149,1,30,30,"Credit for Monthly Cable: Lee, Shirley",,,,,,,,,,,,,,,

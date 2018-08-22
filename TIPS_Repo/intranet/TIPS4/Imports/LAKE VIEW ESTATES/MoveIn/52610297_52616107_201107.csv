@@ -1,0 +1,5 @@
+BATCH,,201107,B,3580.0000,
+INVOICE,IN,,52610297,,07/22/2011,3580.0000,"MoveIn-Schultz. Shirley",,07/22/2011,07/22/2011,,52616107,8478.0000,,,,,,,,,,
+TRANSACTION,3010,010319526,10,93.0000,930,"Basic Service Fee - One Bedroom Del: Schultz. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,3017,010319526,10,65.0000,650,"Resident Care - Level 3: Schultz. Shirley",,,,,,,,,,,,,,,
+TRANSACTION,2210,010319526,1,2000.0000,2000,"Security Deposits: Schultz. Shirley",,,,,,,,,,,,,,,

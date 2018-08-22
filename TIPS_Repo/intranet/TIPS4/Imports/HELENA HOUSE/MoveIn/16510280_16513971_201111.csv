@@ -1,0 +1,5 @@
+BATCH,,201111,B,3417.0000,
+INVOICE,IN,,16510280,,11/01/2011,3417.0000,"November_Rent-Gross. Frank",,11/01/2011,11/10/2011,,16513971,5396.0000,,,,,,,,,,
+TRANSACTION,3010,010308165,30,97.0000,2910,"Basic Service Fee - Studio         : Gross. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3017,010308165,30,16.0000,480,"Resident Care - Level 1: Gross. Frank",,,,,,,,,,,,,,,
+TRANSACTION,3260,010308165,1,27.0000,27,"Monthly Cable: Gross. Frank",,,,,,,,,,,,,,,

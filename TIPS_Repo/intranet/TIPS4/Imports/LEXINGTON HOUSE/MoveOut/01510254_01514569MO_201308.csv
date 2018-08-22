@@ -1,0 +1,5 @@
+BATCH,,201308,B,4536.0000,
+INVOICE,IN,,01510254,,08/02/2013,1932.0000,"Invoice-Private",,08/02/2013,08/02/2013,,01514569MO,-672.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,23,84.0000,1932.00,"Basic Service Fee - Studio for Aug: Edwards, Ivan",,,,,,,,,,,,,,,
+INVOICE,CM,,01510254,,08/02/2013,2604,"Invoice-Private",,08/02/2013,08/02/2013,,01514569MO,-672.0000,,,,,,,,,,
+TRANSACTION,3020,010103015,1,2604,2604,"CR:Basic Service F... I.Edwards 201308: Edwards, Ivan",,,,,,,,,,,,,,,

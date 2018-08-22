@@ -1,0 +1,5 @@
+BATCH,,201110,B,4282.0000,
+INVOICE,IN,,13310362,,10/01/2011,4282.0000,"October_Rent-Kawana. Margaret",,10/01/2011,10/10/2011,,13315115,7002.0000,,,,,,,,,,
+TRANSACTION,3010,010310133,31,89.0000,2759,"Basic Service Fee - Studio         : Kawana. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3017,010310133,31,48.0000,1488,"Resident Care - Level 3: Kawana. Margaret",,,,,,,,,,,,,,,
+TRANSACTION,3260,010310133,1,35.0000,35,"Monthly Cable: Kawana. Margaret",,,,,,,,,,,,,,,

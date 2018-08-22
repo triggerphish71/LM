@@ -1,0 +1,6 @@
+BATCH,,201210,B,5769.0000,
+INVOICE,IN,,11110326,,10/08/2012,5769.0000,"MoveIn-Self. Clyde",,10/08/2012,10/08/2012,,11114967,5769.0000,,,,,,,,,,
+TRANSACTION,3010,010107111,24,97.0000,2328,"Basic Service Fee - Studio: Self. Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3017,010107111,24,59.0000,1416,"Resident Care - Level 4: Self. Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3260,010107111,1,25.0000,25,"Monthly Cable: Self. Clyde",,,,,,,,,,,,,,,
+TRANSACTION,3216,010107111,1,2000.0000,2000,"New Resident Fee: Self. Clyde",,,,,,,,,,,,,,,

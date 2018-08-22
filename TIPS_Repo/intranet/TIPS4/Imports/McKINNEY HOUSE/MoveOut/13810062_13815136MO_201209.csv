@@ -1,0 +1,6 @@
+BATCH,,201209,B,5700.0000,
+INVOICE,IN,,13810062,,09/01/2012,690.0000,"Invoice-Private",,09/01/2012,09/10/2012,,13815136MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3320,010309138,1,690.0000,690.00,"CR:Limited Term Di... B.Harless 201209: Harless, Beverly",,,,,,,,,,,,,,,
+INVOICE,CM,,13810062,,09/01/2012,5010,"Invoice-Private",,09/01/2012,09/10/2012,,13815136MO,-3774.0000,,,,,,,,,,
+TRANSACTION,3020,010309138,1,2880,2880,"CR:Basic Service F... B.Harless 201209: Harless, Beverly",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309138,1,2130,2130,"CR:Resident Care -... B.Harless 201209: Harless, Beverly",,,,,,,,,,,,,,,

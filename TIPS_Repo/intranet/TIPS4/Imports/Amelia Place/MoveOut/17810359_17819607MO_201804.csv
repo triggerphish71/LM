@@ -1,0 +1,6 @@
+BATCH,,201804,B,2323.5400,
+INVOICE,IN,,17810359,,04/01/2018,2286.7700,"Invoice-Private",,04/01/2018,04/10/2018,,17819607MO,-1482.7700,,,,,,,,,,
+TRANSACTION,3260,010012178,1,36.7700,36.77,"Monthly Cable: Schulz, Helen",,,,,,,,,,,,,,,
+TRANSACTION,3216,010012178,1,2250.0000,2250.00,"Deferred NRF Unpaid Balance: Schulz, Helen",,,,,,,,,,,,,,,
+INVOICE,CM,,17810359,,04/01/2018,36.77,"Invoice-Private",,04/01/2018,04/10/2018,,17819607MO,-1482.7700,,,,,,,,,,
+TRANSACTION,3260,010012178,1,36.77,36.77,"Credit for Monthly Cable: Schulz, Helen",,,,,,,,,,,,,,,

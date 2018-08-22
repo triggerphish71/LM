@@ -1,0 +1,5 @@
+BATCH,,201304,B,690.0000,
+INVOICE,IN,,50910159,,04/22/2013,69.0000,"Invoice-Private",,04/22/2013,04/22/2013,,50913339MO,-2691.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,69.0000,69.00,"Basic Service Fee - One Bedroom Deluxe for Apr: Kurth, Merline",,,,,,,,,,,,,,,
+INVOICE,CM,,50910159,,04/22/2013,621,"Invoice-Private",,04/22/2013,04/22/2013,,50913339MO,-2691.0000,,,,,,,,,,
+TRANSACTION,3020,010101509,1,621,621,"CR:Basic Service F... M.Kurth 201304: Kurth, Merline",,,,,,,,,,,,,,,

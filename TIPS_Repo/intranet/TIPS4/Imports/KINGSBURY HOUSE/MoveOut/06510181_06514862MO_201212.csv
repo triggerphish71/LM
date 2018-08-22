@@ -1,0 +1,5 @@
+BATCH,,201212,B,2108.0000,
+INVOICE,IN,,06510181,,12/01/2012,1054.0000,"Invoice-Private",,12/01/2012,12/10/2012,,06514862MO,-5756.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,34.0000,1054.00,"Credit for Limited Term Discount: Seibenick, Mary Alice",,,,,,,,,,,,,,,
+INVOICE,CM,,06510181,,12/01/2012,1054,"Invoice-Private",,12/01/2012,12/10/2012,,06514862MO,-5756.0000,,,,,,,,,,
+TRANSACTION,3320,010305065,31,34,1054,"Limited Term Discount: Seibenick, Mary Alice",,,,,,,,,,,,,,,

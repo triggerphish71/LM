@@ -1,0 +1,6 @@
+BATCH,,201107,B,4968.0000,
+INVOICE,IN,,03710182,,07/05/2011,4968.0000,"MoveIn-Street. Dale",,07/05/2011,07/05/2011,,03713875,4968.0000,,,,,,,,,,
+TRANSACTION,3010,010202037,27,93.0000,2511,"Basic Service Fee - Studio         : Street. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3017,010202037,27,16.0000,432,"Resident Care - Level 1: Street. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3260,010202037,1,25.0000,25,"Monthly Cable: Street. Dale",,,,,,,,,,,,,,,
+TRANSACTION,3216,010202037,1,2000.0000,2000,"New Resident Fee: Street. Dale",,,,,,,,,,,,,,,

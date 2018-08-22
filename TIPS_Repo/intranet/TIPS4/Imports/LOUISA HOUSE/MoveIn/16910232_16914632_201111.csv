@@ -1,0 +1,5 @@
+BATCH,,201111,B,3873.0000,
+INVOICE,IN,,16910232,,11/09/2011,3873.0000,"MoveIn-Quist. Erma",,11/09/2011,11/09/2011,,16914632,3873.0000,,,,,,,,,,
+TRANSACTION,3010,010103169,22,84.0000,1848,"Basic Service Fee - Studio         : Quist. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3260,010103169,1,25.0000,25,"Monthly Cable: Quist. Erma",,,,,,,,,,,,,,,
+TRANSACTION,3216,010103169,1,2000.0000,2000,"New Resident Fee: Quist. Erma",,,,,,,,,,,,,,,

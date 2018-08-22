@@ -1,0 +1,8 @@
+BATCH,,201105,B,7756.0000,
+INVOICE,IN,,13710202,,05/29/2011,4005.0000,"Invoice-Private",,05/29/2011,05/29/2011,,13713923MO,-2896.0000,,,,,,,,,,
+TRANSACTION,3320,010309137,1,496.0000,496.00,"CR:Limited Term Di... T.Scher 201105: Scher, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3020,010309137,29,86.0000,2494.00,"Basic Service Fee - Studio for May: Scher, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,29,35.0000,1015.00,"Resident Care - Level 2 for May: Scher, Thomas",,,,,,,,,,,,,,,
+INVOICE,CM,,13710202,,05/29/2011,3751,"Invoice-Private",,05/29/2011,05/29/2011,,13713923MO,-2896.0000,,,,,,,,,,
+TRANSACTION,3020,010309137,1,2666,2666,"CR:Basic Service F... T.Scher 201105: Scher, Thomas",,,,,,,,,,,,,,,
+TRANSACTION,3027,010309137,1,1085,1085,"CR:Resident Care -... T.Scher 201105: Scher, Thomas",,,,,,,,,,,,,,,

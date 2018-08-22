@@ -1,0 +1,6 @@
+BATCH,,201203,B,1818.6200,
+INVOICE,CM,,07810101,,03/01/2012,1818.62,"Invoice-Medicaid",,03/01/2012,03/10/2012,,07814476MO,-1818.6200,,,,,,,,,,
+TRANSACTION,3021,010104078,1,818.9,818.9,"CR:Medicaid Co-Pay... M.MacPherson 201203: MacPherson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3021,010104078,1,584,584,"CR:Medicaid Room &... M.MacPherson 201203: MacPherson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3260,010104078,1,25,25,"CR:Monthly Cable... M.MacPherson 201203: MacPherson, Myrtle",,,,,,,,,,,,,,,
+TRANSACTION,3022,010104078,1,390.72,390.72,"CR:State Medicaid... M.MacPherson 201203: MacPherson, Myrtle",,,,,,,,,,,,,,,

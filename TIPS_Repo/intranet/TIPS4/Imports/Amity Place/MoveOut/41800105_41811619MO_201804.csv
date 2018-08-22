@@ -1,0 +1,5 @@
+BATCH,,201804,B,15.0000,
+INVOICE,IN,,41800105,,04/01/2018,7.5000,"Invoice-Private",,04/01/2018,04/10/2018,,41811619MO,-970.0000,,,,,,,,,,
+TRANSACTION,3210,060010418,1,7.5000,7.50,"Personal Services: Custer, Judith Ann",,,,,,,,,,,,,,,
+INVOICE,CM,,41800105,,04/01/2018,7.5,"Invoice-Private",,04/01/2018,04/10/2018,,41811619MO,-970.0000,,,,,,,,,,
+TRANSACTION,3210,060010418,1,7.5,7.5,"Credit for Personal Services: Custer, Judith Ann",,,,,,,,,,,,,,,

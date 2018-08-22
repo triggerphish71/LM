@@ -1,0 +1,6 @@
+BATCH,,201212,B,5010.0000,
+INVOICE,IN,,04410263,,12/17/2012,2375.0000,"Invoice-Private",,12/17/2012,12/17/2012,,04414897MO,-1965.0000,,,,,,,,,,
+TRANSACTION,3320,010202044,1,930.0000,930.00,"CR:Limited Term Di... V.Globke 201212: Globke, Valerie",,,,,,,,,,,,,,,
+TRANSACTION,3020,010202044,17,85.0000,1445.00,"Basic Service Fee - Studio for Dec: Globke, Valerie",,,,,,,,,,,,,,,
+INVOICE,CM,,04410263,,12/17/2012,2635,"Invoice-Private",,12/17/2012,12/17/2012,,04414897MO,-1965.0000,,,,,,,,,,
+TRANSACTION,3020,010202044,1,2635,2635,"CR:Basic Service F... V.Globke 201212: Globke, Valerie",,,,,,,,,,,,,,,

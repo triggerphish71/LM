@@ -1,0 +1,6 @@
+BATCH,,201204,B,3625.0000,
+INVOICE,IN,,50510113,,04/11/2012,3625.0000,"MoveIn-Thompson. Jean",,04/11/2012,04/11/2012,,50511613,3625.0000,,,,,,,,,,
+TRANSACTION,3010,010305505,20,90.0000,1800,"J.Thompson: Basic Service Fee - Studio: Thompson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3017,010305505,20,15.0000,300,"J.Thompson: Resident Care - Level 1: Thompson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3216,010305505,1,1500.0000,1500,"New Resident Fee: Thompson. Jean",,,,,,,,,,,,,,,
+TRANSACTION,3260,010305505,1,25.0000,25,"Monthly Cable: Thompson. Jean",,,,,,,,,,,,,,,

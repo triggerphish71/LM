@@ -1,0 +1,5 @@
+BATCH,,201202,B,3626.0000,
+INVOICE,CM,,53410133,,02/01/2012,3626,"Invoice-Private",,02/01/2012,02/10/2012,,53420407MO,-3626.0000,,,,,,,,,,
+TRANSACTION,3020,010319534,1,2059,2059,"CR:Basic Service F... A.Anthonisen 201202: Anthonisen, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3130,010319534,1,30,30,"CR:Pendant Fee... A.Anthonisen 201202: Anthonisen, Agnes",,,,,,,,,,,,,,,
+TRANSACTION,3027,010319534,1,1537,1537,"CR:Resident Care -... A.Anthonisen 201202: Anthonisen, Agnes",,,,,,,,,,,,,,,

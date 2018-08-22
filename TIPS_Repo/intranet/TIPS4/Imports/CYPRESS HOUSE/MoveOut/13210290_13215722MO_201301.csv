@@ -1,0 +1,5 @@
+BATCH,,201301,B,2728.0000,
+INVOICE,IN,,13210290,,01/01/2013,1364.0000,"Invoice-Private",,01/01/2013,01/10/2013,,13215722MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,31,44.0000,1364.00,"Credit for Limited Term Discount: Watts, Margaret",,,,,,,,,,,,,,,
+INVOICE,CM,,13210290,,01/01/2013,1364,"Invoice-Private",,01/01/2013,01/10/2013,,13215722MO,-2635.0000,,,,,,,,,,
+TRANSACTION,3320,010308132,31,44,1364,"Limited Term Discount: Watts, Margaret",,,,,,,,,,,,,,,

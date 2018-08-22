@@ -1,0 +1,7 @@
+BATCH,,201108,B,1480.0000,
+INVOICE,IN,,02411233,,08/01/2011,740.0000,"Invoice-Private",,08/01/2011,08/10/2011,,02415333MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27.0000,27.00,"Monthly Cable: Mc Mahon, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,23.0000,713.00,"Credit for Limited Term Discount: Mc Mahon, Martha",,,,,,,,,,,,,,,
+INVOICE,CM,,02411233,,08/01/2011,740,"Invoice-Private",,08/01/2011,08/10/2011,,02415333MO,-2356.0000,,,,,,,,,,
+TRANSACTION,3260,010202024,1,27,27,"Credit for Monthly Cable: Mc Mahon, Martha",,,,,,,,,,,,,,,
+TRANSACTION,3320,010202024,31,23,713,"Limited Term Discount: Mc Mahon, Martha",,,,,,,,,,,,,,,

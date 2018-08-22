@@ -1,0 +1,5 @@
+BATCH,,201307,B,4933.0000,
+INVOICE,IN,,09910252,,07/01/2013,4933.0000,"MoveIn-Dilworth. Orvis",,07/01/2013,07/01/2013,,09914562,4933.0000,,,,,,,,,,
+TRANSACTION,3010,010104099,31,86.0000,2666,"Basic Service Fee - Studio: Dilworth. Orvis",,,,,,,,,,,,,,,
+TRANSACTION,3017,010104099,31,57.0000,1767,"Resident Care - Level 4: Dilworth. Orvis",,,,,,,,,,,,,,,
+TRANSACTION,3216,010104099,1,500.0000,500,"New Resident Fee: Dilworth. Orvis",,,,,,,,,,,,,,,
