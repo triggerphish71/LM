@@ -1454,6 +1454,7 @@
 					,iRowStartUser_ID = #arguments.userID#
 					,crowstartuser_id = '#arguments.username#' 
 					,dtRowStart = '#trim(TimeStamp)#'
+					,bMC2AL = NULL
 					<cfif tenantState eq 4>
 					,itenantstatecode_id = 1 
 					,iAptAddress_ID = null 
