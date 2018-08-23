@@ -31,6 +31,7 @@
 | mstriegel  | 01/12/2018 | Added session object for recurring charge project                  |
 ! mstriegel  | 02/22/2018 | Changed the session.tempDocPath                                    |
 ----------------------------------------------------------------------------------------------->
+
 <cfoutput>
 <cfif server_name neq 'CF01' and server_name neq 'CF01.ALCCO.COM'>
 	<i style='color: Red; font-weight: bold; font-size: small;'>#UCASE(SERVER_NAME)#</I><br/>
@@ -368,10 +369,9 @@
 	<cfif !isDefined("session.oSolomonServices")>
 		<cfset session.oSolomonServices = createObject("component","intranet.TIPS4.CFC.Components.SolomonServices")>	
 	</cfif>
-
+	<cfif !isDefined("session.oRelocateServices")>
 		<cfset session.oRelocateServices = createObject("component","intranet.TIPS4.CFC.Components.Relocate.RelocateServices")>
-
-
+	</cfif>
 	<!--- end: mstriegel 01/18/2018 --->
 	<!--- mstriegel 01/12/2018 --->
 	<cfif !isDefined("session.oChargeServices")>
